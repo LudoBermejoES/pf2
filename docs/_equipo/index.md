@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /equipo/
 title: "Equipo"
 description: "Contenido del capítulo Equipo"
 ---

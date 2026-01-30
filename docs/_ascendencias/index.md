@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ascendencias/
 title: "Ascendencias"
 description: "Contenido del capítulo Ascendencias"
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /conjuros/
 title: "Conjuros"
 description: "Contenido del capítulo Conjuros"
 ---

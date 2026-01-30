@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /introduccion/
 title: "Introducción"
 description: "Contenido del capítulo Introducción"
 ---

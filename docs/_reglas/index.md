@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /reglas/
 title: "Cómo Jugar"
 description: "Contenido del capítulo Cómo Jugar"
 ---

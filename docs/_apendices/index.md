@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /apendices/
 title: "Apéndices"
 description: "Contenido del capítulo Apéndices"
 ---

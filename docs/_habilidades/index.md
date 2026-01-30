@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /habilidades/
 title: "Habilidades"
 description: "Contenido del capítulo Habilidades"
 ---

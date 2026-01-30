@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /dotes/
 title: "Dotes"
 description: "Contenido del capítulo Dotes"
 ---
