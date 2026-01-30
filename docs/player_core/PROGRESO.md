@@ -118,32 +118,33 @@
 | Foco: Mago | ✅ Completado | `06-conjuros/conjuros-foco/mago.md` | 14 conjuros, 7 escuelas |
 | Rituales | ✅ Completado | `06-conjuros/rituales/rituales.md` | 19 rituales |
 
-### Cap 8: Cómo Jugar (líneas ~?-?)
-| Sección | Estado | Archivo |
-|---------|--------|---------|
-| Reglas de un vistazo | ⏳ Pendiente | `07-como-jugar/reglas-vistazo.md` |
-| Pruebas | ⏳ Pendiente | `07-como-jugar/pruebas.md` |
-| Tiradas de daño | ⏳ Pendiente | `07-como-jugar/dano.md` |
-| Inmunidad/Debilidad/Resistencia | ⏳ Pendiente | `07-como-jugar/inmunidad-debilidad-resistencia.md` |
-| Tipos de daño | ⏳ Pendiente | `07-como-jugar/tipos-dano.md` |
-| Puntos de Golpe | ⏳ Pendiente | `07-como-jugar/puntos-golpe.md` |
-| Puntos de Héroe | ⏳ Pendiente | `07-como-jugar/puntos-heroe.md` |
-| Acciones | ⏳ Pendiente | `07-como-jugar/acciones.md` |
-| Movimiento | ⏳ Pendiente | `07-como-jugar/movimiento.md` |
-| Efectos | ⏳ Pendiente | `07-como-jugar/efectos.md` |
-| Área | ⏳ Pendiente | `07-como-jugar/area.md` |
-| Aflicciones | ⏳ Pendiente | `07-como-jugar/aflicciones.md` |
-| Contrarrestar | ⏳ Pendiente | `07-como-jugar/contrarrestar.md` |
-| Percepción | ⏳ Pendiente | `07-como-jugar/percepcion.md` |
-| Modo encuentro | ⏳ Pendiente | `07-como-jugar/modo-encuentro.md` |
-| Modo exploración | ⏳ Pendiente | `07-como-jugar/modo-exploracion.md` |
-| Modo tiempo libre | ⏳ Pendiente | `07-como-jugar/modo-tiempo-libre.md` |
+### Cap 8: Cómo Jugar (líneas 43454-48646)
+| Sección | Estado | Archivo | Notas |
+|---------|--------|---------|-------|
+| Introducción y reglas | ✅ Completado | `07-como-jugar/introduccion.md` | Modos de juego, convenciones |
+| Pruebas | ✅ Completado | `07-como-jugar/pruebas.md` | Modificadores, grados de éxito |
+| Ataques y Defensas | ✅ Completado | `07-como-jugar/ataques-defensas.md` | CA, salvaciones, daño |
+| Daño | ✅ Completado | `07-como-jugar/dano.md` | Inmunidad, debilidad, resistencia, tipos |
+| Puntos de Golpe | ✅ Completado | `07-como-jugar/puntos-golpe.md` | Curación, moribundo, Puntos de Héroe |
+| Acciones | ✅ Completado | `07-como-jugar/acciones.md` | Reglas en profundidad |
+| Acciones básicas | ✅ Completado | `07-como-jugar/acciones-basicas.md` | 15 acciones básicas |
+| Acciones de especialidad | ✅ Completado | `07-como-jugar/acciones-especialidad.md` | Montar, volar, nadar, etc. |
+| Movimiento | ✅ Completado | `07-como-jugar/movimiento.md` | Velocidad, terreno, tamaño |
+| Cobertura y Flanqueo | ✅ Completado | `07-como-jugar/cobertura-flanqueo.md` | Bonificadores, diagramas |
+| Efectos | ✅ Completado | `07-como-jugar/efectos.md` | Duración, rango, área |
+| Aflicciones | ✅ Completado | `07-como-jugar/aflicciones.md` | Venenos, enfermedades, contrarrestar |
+| Percepción y detección | ✅ Completado | `07-como-jugar/percepcion-deteccion.md` | Luz, sentidos, estados de detección |
+| Modo de encuentro | ✅ Completado | `07-como-jugar/modo-encuentro.md` | Iniciativa, turnos, asaltos |
+| Batallas especiales | ✅ Completado | `07-como-jugar/batallas-especiales.md` | Montado, aéreo, acuático |
+| Modo de exploración | ✅ Completado | `07-como-jugar/modo-exploracion.md` | Velocidad viaje, actividades |
+| Modo de tiempo libre | ✅ Completado | `07-como-jugar/modo-tiempo-libre.md` | Reconvertir, obtener ingresos |
 
-### Apéndices
-| Sección | Estado | Archivo |
-|---------|--------|---------|
-| Estados | ⏳ Pendiente | `08-apendices/estados.md` |
-| Glosario | ⏳ Pendiente | `08-apendices/glosario.md` |
+### Apéndices (líneas 48647+)
+| Sección | Estado | Archivo | Notas |
+|---------|--------|---------|-------|
+| Estados A-E | ✅ Completado | `08-apendices/estados-a-e.md` | Acelerado a Escondido |
+| Estados F-Z | ✅ Completado | `08-apendices/estados-f-z.md` | Fascinado a Tumbado |
+| Glosario | ✅ Completado | `08-apendices/glosario.md` | Términos A-Z |
 
 ---
 
@@ -204,3 +205,7 @@
 | 2026-01-30 | **Capítulo 6 COMPLETO**: Equipo (introduccion.md, armaduras.md, escudos.md, armas.md, objetos.md) |
 | 2026-01-30 | **Capítulo 1 COMPLETO**: Introducción (16 archivos: que-es-jdr, primera-regla, dados, jugar-para-todos, herramientas, puntos-basicos, como-se-juega, exploracion, encuentros, tiempo-libre, terminos-clave, creacion-personajes, atributos, subir-nivel, golarion, religion) |
 | 2026-01-30 | **Capítulo 7 COMPLETO**: Conjuros (18 archivos: introduccion, 4 listas, 6 conjuros A-Z, 6 conjuros-foco por clase, rituales) |
+| 2026-01-30 | **Capítulo 8 COMPLETO**: Cómo Jugar (17 archivos: introduccion, pruebas, ataques-defensas, dano, puntos-golpe, acciones, acciones-basicas, acciones-especialidad, movimiento, cobertura-flanqueo, efectos, aflicciones, percepcion-deteccion, modo-encuentro, batallas-especiales, modo-exploracion, modo-tiempo-libre) |
+| 2026-01-30 | **Apéndice Estados COMPLETO**: (2 archivos: estados-a-e.md, estados-f-z.md) |
+| 2026-01-30 | **Glosario COMPLETO**: glosario.md (términos A-Z) |
+| 2026-01-30 | **🎉 MANUAL COMPLETO**: Todos los capítulos 1-8 + Apéndices finalizados |
