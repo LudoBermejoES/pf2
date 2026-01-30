@@ -1,8 +1,8 @@
 # Pathfinder 2 Player Core - Jekyll Configuration
 title: "Pathfinder 2 - Player Core"
 description: "Guía completa del jugador para Pathfinder Segunda Edición"
-url: ""
-baseurl: ""
+url: "https://ludobermejoes.github.io"
+baseurl: "/pf2"
 lang: es
 
 # Build settings
