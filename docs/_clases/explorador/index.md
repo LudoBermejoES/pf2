@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/explorador/
 title: Explorador
 chapter: Clases
 ---

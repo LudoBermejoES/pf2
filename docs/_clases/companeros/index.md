@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/companeros/
 title: Compañeros
 chapter: Clases
 ---

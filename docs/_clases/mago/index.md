@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/mago/
 title: Mago
 chapter: Clases
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ascendencias/goblin/
 title: Goblin
 chapter: Ascendencias
 ---

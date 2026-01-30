@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/druida/
 title: Druida
 chapter: Clases
 ---

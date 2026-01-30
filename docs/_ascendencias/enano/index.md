@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ascendencias/enano/
 title: Enano
 chapter: Ascendencias
 ---

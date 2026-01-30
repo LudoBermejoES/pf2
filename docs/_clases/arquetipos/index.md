@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/arquetipos/
 title: Arquetipos
 chapter: Clases
 ---

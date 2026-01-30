@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/picaro/
 title: Pícaro
 chapter: Clases
 ---

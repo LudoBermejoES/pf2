@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/guerrero/
 title: Guerrero
 chapter: Clases
 ---

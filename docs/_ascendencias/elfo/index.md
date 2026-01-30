@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ascendencias/elfo/
 title: Elfo
 chapter: Ascendencias
 ---

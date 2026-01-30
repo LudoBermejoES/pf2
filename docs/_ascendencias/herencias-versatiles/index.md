@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ascendencias/herencias-versatiles/
 title: Herencias Versátiles
 chapter: Ascendencias
 ---

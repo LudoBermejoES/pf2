@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ascendencias/leshy/
 title: Leshy
 chapter: Ascendencias
 ---

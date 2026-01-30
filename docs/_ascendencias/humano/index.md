@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ascendencias/humano/
 title: Humano
 chapter: Ascendencias
 ---

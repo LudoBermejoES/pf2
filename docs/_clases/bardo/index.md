@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/bardo/
 title: Bardo
 chapter: Clases
 ---

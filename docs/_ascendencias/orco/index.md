@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ascendencias/orco/
 title: Orco
 chapter: Ascendencias
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/clerigo/
 title: Clérigo
 chapter: Clases
 ---

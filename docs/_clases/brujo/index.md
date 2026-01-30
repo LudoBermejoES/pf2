@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /clases/brujo/
 title: Brujo
 chapter: Clases
 ---
