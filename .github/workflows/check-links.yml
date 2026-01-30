@@ -1,0 +1,129 @@
+name: Check Broken Links
+
+on:
+  # Ejecutar después de cada despliegue de GitHub Pages
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types:
+      - completed
+
+  # Permitir ejecución manual
+  workflow_dispatch:
+
+  # Ejecutar semanalmente (domingos a las 10:00 UTC)
+  schedule:
+    - cron: '0 10 * * 0'
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    # Solo ejecutar si el workflow de pages completó exitosamente (o si es manual/programado)
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install linkinator
+        run: npm install -g linkinator
+
+      - name: Wait for GitHub Pages deployment
+        if: github.event_name == 'workflow_run'
+        run: |
+          echo "Esperando 60 segundos para que GitHub Pages se actualice..."
+          sleep 60
+
+      - name: Check links on deployed site
+        id: linkinator
+        run: |
+          echo "Escaneando https://ludobermejoes.github.io/pf2..."
+          npx linkinator https://ludobermejoes.github.io/pf2 \
+            --recurse \
+            --skip "youtube|gemini|google|github.com|drive.google.com|calendar.google.com|docs.google.com" \
+            --timeout 30000 \
+            --verbosity error \
+            2>&1 | tee linkinator-output.txt
+
+          # Extraer solo los 404
+          grep "\[404\]" linkinator-output.txt | sort -u > broken-links.txt || true
+
+          # Contar enlaces rotos
+          BROKEN_COUNT=$(wc -l < broken-links.txt | tr -d ' ')
+          echo "broken_count=$BROKEN_COUNT" >> $GITHUB_OUTPUT
+
+          if [ "$BROKEN_COUNT" -gt "0" ]; then
+            echo "::warning::Se encontraron $BROKEN_COUNT enlaces rotos"
+            cat broken-links.txt
+          else
+            echo "✅ No se encontraron enlaces rotos"
+          fi
+
+      - name: Upload broken links report
+        if: steps.linkinator.outputs.broken_count > 0
+        uses: actions/upload-artifact@v4
+        with:
+          name: broken-links-report
+          path: broken-links.txt
+          retention-days: 30
+
+      - name: Create issue if links are broken
+        if: steps.linkinator.outputs.broken_count > 0
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const brokenLinks = fs.readFileSync('broken-links.txt', 'utf8');
+            const count = '${{ steps.linkinator.outputs.broken_count }}';
+            const date = new Date().toISOString();
+
+            // Buscar si ya existe un issue abierto sobre enlaces rotos
+            const existingIssues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'broken-links'
+            });
+
+            const issueBody = '## 🔗 Enlaces Rotos Detectados\n\n' +
+              '**Fecha del escaneo**: ' + date + '\n' +
+              '**Total de enlaces rotos**: ' + count + '\n\n' +
+              '### Enlaces que devuelven 404:\n\n' +
+              '```\n' + brokenLinks + '```\n\n' +
+              '### Cómo corregir:\n\n' +
+              '1. Verificar que los permalinks en el frontmatter YAML coincidan con los enlaces\n' +
+              '2. Usar `/pf2/ruta/` para enlaces internos (incluir el baseurl)\n' +
+              '3. Ejecutar localmente: `python3 scripts/check_links.py` para validar enlaces internos\n' +
+              '4. Revisar la estructura de carpetas y archivos index.md\n\n' +
+              '---\n*Issue generado automáticamente por GitHub Actions*';
+
+            if (existingIssues.data.length > 0) {
+              // Actualizar el issue existente
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existingIssues.data[0].number,
+                body: issueBody
+              });
+              console.log('Issue #' + existingIssues.data[0].number + ' actualizado');
+            } else {
+              // Crear nuevo issue
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: '🔗 ' + count + ' enlaces rotos detectados',
+                body: issueBody,
+                labels: ['broken-links', 'automated']
+              });
+              console.log('Nuevo issue creado');
+            }
+
+      - name: Fail if broken links found
+        if: steps.linkinator.outputs.broken_count > 0
+        run: |
+          echo "❌ Se encontraron ${{ steps.linkinator.outputs.broken_count }} enlaces rotos"
+          exit 1
