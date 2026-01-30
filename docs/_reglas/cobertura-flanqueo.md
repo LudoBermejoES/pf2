@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Cobertura y Flanqueo
 
 ## Cobertura
 

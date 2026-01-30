@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Interpretacion (Car)
 
 Eres habil en una forma de interpretacion, utilizando tu talento para impresionar a las multitudes o para ganarte la vida.
 

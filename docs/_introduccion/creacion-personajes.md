@@ -5,7 +5,6 @@ chapter: "Introducción"
 category: "introduccion"
 nav_order: 0
 ---
-# Creacion de Personajes
 
 A menos que seas el DJ, lo primero que tienes que hacer cuando juegas a Pathfinder es crear tu personaje. Corre de tu cuenta imaginar las experiencias pasadas del mismo, su personalidad y su vision del mundo, y esto fijara el escenario de tu interpretacion durante la partida. Utilizaras las mecanicas del juego para determinar la capacidad de tu personaje para llevar a cabo diversas tareas y para utilizar aptitudes especiales mientras juegas.
 

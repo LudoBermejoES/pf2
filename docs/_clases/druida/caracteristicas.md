@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Druida"
 ---
-# Druida - Características de Clase
 
 ## Tabla de Avance del Druida
 

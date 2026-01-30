@@ -5,7 +5,6 @@ chapter: "Equipo"
 category: "equipo"
 nav_order: 5
 ---
-# Armas
 
 La mayoría de personajes de Pathfinder llevan armas, que van desde poderosos martillos de guerra a gráciles arcos, pasando por sencillas clavas. Los detalles completos sobre cómo calcular los bonificadores, modificadores y penalizadores a las tiradas de ataque y de daño están en las págs. 400 a 403 y 406 a 407, pero se resumen aquí, seguidos de las reglas para las armas y docenas de elecciones de arma.
 

@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Supervivencia (Sab)
 
 Eres hábil en vivir en las tierras vírgenes, forrajeando en busca de comida y sabiendo construir refugios, y mediante el entrenamiento descubres los secretos de rastrear y de ocultar tu rastro.
 

@@ -4,8 +4,6 @@ title: "Conjuros"
 description: "Contenido del capítulo Conjuros"
 ---
 
-# Conjuros
-
 Contenido del capítulo Conjuros
 
 ## Contenido

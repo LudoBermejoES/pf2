@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Naturaleza (Sab)
 
 Sabes mucho acerca del mundo natural, pudiendo comandar y entrenar a los animales y a las bestias mágicas. Incluso si no estás entrenado en Naturaleza, puedes utilizarla para Recordar conocimiento.
 

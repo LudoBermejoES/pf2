@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Pícaro"
 ---
-# Caracteristicas del Picaro
 
 ## Tabla de Avance del Picaro
 

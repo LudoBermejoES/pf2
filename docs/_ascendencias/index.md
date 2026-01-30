@@ -4,8 +4,6 @@ title: "Ascendencias"
 description: "Contenido del capítulo Ascendencias"
 ---
 
-# Ascendencias
-
 Contenido del capítulo Ascendencias
 
 ## Contenido

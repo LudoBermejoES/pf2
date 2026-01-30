@@ -5,7 +5,6 @@ chapter: "Clases"
 category: "clases"
 nav_order: 2
 ---
-# Familiares
 
 Los familiares son criaturas vinculadas misticamente y ligadas a tu magia. La mayoria fueron animales originalmente, aunque el ritual de convertirse en familiar les transforma en algo mas. Obtienes la dote general Mascota, excepto que la tuya tiene aptitudes especiales. Las elecciones comunes para familiar incluyen murcielagos, gatos, zorros, cuervos y serpientes.
 

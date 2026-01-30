@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Puntos de Golpe, Curación y Moribundo
 
 Para los aventureros, las heridas y la muerte acechan detrás de cada esquina.
 

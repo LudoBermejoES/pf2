@@ -4,8 +4,6 @@ title: "Introducción"
 description: "Contenido del capítulo Introducción"
 ---
 
-# Introducción
-
 Contenido del capítulo Introducción
 
 ## Contenido

@@ -4,8 +4,6 @@ title: "Cómo Jugar"
 description: "Contenido del capítulo Cómo Jugar"
 ---
 
-# Cómo Jugar
-
 Contenido del capítulo Cómo Jugar
 
 ## Contenido

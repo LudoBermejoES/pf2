@@ -5,7 +5,6 @@ chapter: "Ascendencias"
 category: "ascendencias"
 nav_order: 1
 ---
-# Ascendencia Mixta
 
 Golarion dispone de numerosas metrópolis donde la gente de una amplia variedad de ascendencias se entremezcla. Además, aventureros de todos los bagajes y ascendencias a menudo acaban juntos y descubren que de la adversidad puede surgir el terreno común e incluso el amor. Como resultado, el mundo está lleno de gente cuyo linaje se puede trazar a por lo menos dos ascendencias diferentes.
 

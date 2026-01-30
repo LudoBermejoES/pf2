@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Conjuros T-Z
 
 ## Teletransporte [CONJURO 6]
 **Rasgos:** Poco comun, Concentrar, Manipular, Teletransporte

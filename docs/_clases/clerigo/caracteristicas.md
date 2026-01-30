@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Clérigo"
 ---
-# Caracteristicas del Clerigo
 
 ## Tabla de Avance del Clerigo
 

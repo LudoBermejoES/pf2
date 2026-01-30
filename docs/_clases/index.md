@@ -4,8 +4,6 @@ title: "Clases"
 description: "Contenido del capítulo Clases"
 ---
 
-# Clases
-
 Contenido del capítulo Clases
 
 ## Contenido

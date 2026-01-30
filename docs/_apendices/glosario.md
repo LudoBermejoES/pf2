@@ -5,7 +5,6 @@ chapter: "Apéndices"
 category: "apendices"
 nav_order: 8
 ---
-# Glosario e Índice
 
 ## 1-9
 

@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Atletismo (Fue)
 
 El Atletismo te permite llevar a cabo proezas de vigor fisico. La mayoria de las acciones de Atletismo te permiten moverte por el entorno (Nadar, Salto de altura, Salto de longitud, Trepar) o controlar el movimiento de tu oponente en combate (Apresar, Derribar, Desarmar, Empujar, Reposicionar).
 

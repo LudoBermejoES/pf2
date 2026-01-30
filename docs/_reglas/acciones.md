@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Acciones
 
 Afectas el mundo que te rodea principalmente usando acciones, que desencadenan efectos. Las acciones se miden de forma más cercana y restringida durante el modo de encuentro, pero incluso cuando no es importante que lleves un registro estricto de las acciones, siguen siendo la forma en que interaccionas con el mundo de juego.
 

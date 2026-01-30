@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Conjuros N-R
 
 ## Naturaleza Encarnada ◆◆ [CONJURO 10]
 **Rasgos:** Concentrar, Manipular, Polimorfía

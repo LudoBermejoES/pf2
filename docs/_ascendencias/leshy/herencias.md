@@ -6,7 +6,6 @@ category: "ascendencias"
 nav_order: 1
 ancestry: "Leshy"
 ---
-# Herencias para Leshys
 
 La herencia de un leshy representa los beneficios que obtiene de su cuerpo. Elige una de las siguientes herencias para leshys a 1.er nivel.
 

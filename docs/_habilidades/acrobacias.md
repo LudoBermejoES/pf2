@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Acrobacias (Des)
 
 Las Acrobacias miden tu capacidad para llevar a cabo tareas que requieren coordinacion y gracilidad. Cuando utilizas la accion basica Huir (pag. 416) puedes utilizar tu modificador por Acrobacias en lugar de tu modificador por ataque sin armas. Tambien puedes utilizarlo para las acciones basicas de especialidad Detener una caida (pag. 419) y Agarrarte a un saliente (pag. 418) en lugar de Reflejos.
 

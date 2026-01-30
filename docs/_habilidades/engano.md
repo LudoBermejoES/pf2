@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Engano (Car)
 
 Puedes enganar y desorientar a otros utilizando disfraces, mentiras y otras formas de subterfugio. El Engano a menudo tiene inconvenientes si te descubren, y a menudo lo mejor es haber abandonado la poblacion para cuando eso sucede.
 

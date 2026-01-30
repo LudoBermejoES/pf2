@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Modo de Exploración
 
 Gran parte del modo de exploración implica movimiento e interpretación. Podrías viajar de una población a otra, charlar con una pareja de mercaderes en un puesto avanzado del camino o quizá mantener una conversación tensa con los precavidos guardias de la ciudad en tu destino. En lugar de medir tu ritmo de movimiento en casillas de 5 pies (1,5 m) cada asalto, los mides en pies o millas (metros o kilómetros) por minuto, hora o día, utilizando tu velocidad de viaje. En lugar de decidir sobre cada acción cada turno, emprendes una actividad de exploración y típicamente inviertes algún tiempo cada día descansando y llevando a cabo tus preparativos diarios.
 

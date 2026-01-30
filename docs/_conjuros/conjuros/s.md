@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Conjuros S
 
 ## Silencio ◆◆ [CONJURO 2]
 **Rasgos:** ilusión, manipular, disimulado

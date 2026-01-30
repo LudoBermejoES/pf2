@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Movimiento
 
 Tu movimiento y tu posicion determinan como interaccionas con el mundo. Moverse en los modos de exploracion y de tiempo libre es relativamente fluido. El movimiento en el modo de encuentro sigue reglas adicionales que se explican en Movimiento tactico. Las reglas que se detallan a continuacion se aplican en todos los modos de juego.
 

@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Conjuros G-M
 
 ## Garra Punzante ◆◆ [TRUCO 1]
 **Rasgos:** Ataque, Concentrar, Manipular, Morfismo

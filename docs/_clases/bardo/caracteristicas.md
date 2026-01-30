@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Bardo"
 ---
-# Caracteristicas del Bardo
 
 ## Tabla de Avance del Bardo
 

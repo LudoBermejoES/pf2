@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Ocultismo (Int)
 
 Sabes mucho acerca de las filosofías antiguas, la sabiduría esotérica, el misticismo más oscuro y las criaturas sobrenaturales. Incluso si no estás entrenado en Ocultismo, puedes utilizarlo para Recordar conocimiento.
 

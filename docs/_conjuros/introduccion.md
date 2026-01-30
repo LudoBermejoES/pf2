@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Conjuros - Introduccion
 
 ## Conjuros potenciados
 

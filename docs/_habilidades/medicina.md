@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Medicina (Sab)
 
 Puedes curar heridas y ayudar a la gente a recuperarse de enfermedades y venenos. Tratar heridas es especialmente útil, puesto que permite a tu grupo aventurero curarse entre combates. Puede convertirse en aún más eficaz con dotes de habilidad como por ejemplo Recuperación continua y Médico de sala.
 

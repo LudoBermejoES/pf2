@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Diplomacia (Car)
 
 Influencias a otros mediante la negociacion y la adulacion, o buscas informacion mediante charlas amistosas.
 

@@ -5,7 +5,6 @@ chapter: "Dotes"
 category: "dotes"
 nav_order: 4
 ---
-# Tablas de Dotes
 
 ## Introduccion
 

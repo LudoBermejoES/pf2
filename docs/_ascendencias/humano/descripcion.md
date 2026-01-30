@@ -6,7 +6,6 @@ category: "ascendencias"
 nav_order: 1
 ancestry: "Humano"
 ---
-# Humano
 
 Tan impredecibles y variados como cualquiera de los pueblos de Golarion, los humanos tienen un empuje excepcional y la capacidad de aguantar y expandirse. Aunque muchas civilizaciones prosperaron antes de que la humanidad se alzara a la prominencia, los humanos han construido algunas de las sociedades más grandes y más terribles de la historia y, hoy en día, constituyen el pueblo más populoso de los reinos que rodean el mar Interior.
 

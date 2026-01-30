@@ -4,8 +4,6 @@ title: "Dotes"
 description: "Contenido del capítulo Dotes"
 ---
 
-# Dotes
-
 Contenido del capítulo Dotes
 
 ## Contenido

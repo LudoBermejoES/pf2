@@ -5,7 +5,6 @@ chapter: "Equipo"
 category: "equipo"
 nav_order: 5
 ---
-# Armaduras
 
 La armadura incrementa las defensas de tu personaje, pero algunos tipos de armadura intermedia o pesada pueden dificultar el movimiento. Si quieres incrementar la defensa de tu personaje más allá de la protección que tu armadura proporciona, puedes usar un escudo. La armadura solo protege a tu personaje cuando la lleva puesta.
 

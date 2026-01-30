@@ -6,7 +6,6 @@ category: "ascendencias"
 nav_order: 1
 ancestry: "Humano"
 ---
-# Dotes de Ascendencia: Humano
 
 A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles posteriores (en 5.o, 9.o, 13.o y 17.o nivel). Como humano, seleccionas de entre las siguientes dotes de ascendencia.
 

@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Rituales
 
 Un ritual es un conjuro complejo y esoterico que todo el mundo puede lanzar. Se tarda mucho mas en lanzar un ritual que un conjuro normal, pero los rituales pueden tener efectos mas poderosos.
 

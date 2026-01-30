@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Capítulo 8: Cómo se juega
 
 Después pregunta a los jugadores, "¿Qué hacéis?". Exactamente qué elegís hacer y cómo responde el DJ a dichas elecciones es lo que constituye una experiencia narrativa única. Cada partida es diferente, puesto que raramente tomaréis las mismas decisiones que otro grupo de jugadores (si es que alguna vez lo hacéis). Esto también es cierto para el DJ: dos DJ que dirijan exactamente la misma aventura pondrán un énfasis diferente y adornarán de forma diferente la forma de presentar cada escenario y encuentro.
 

@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Arcanos (Int)
 
 Arcanos mide lo que sabes acerca de la magia y de las criaturas arcanas. Incluso si no estas entrenado, puedes Recordar conocimiento.
 

@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Pícaro"
 ---
-# Dotes de Picaro
 
 En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de las siguientes dotes. Tienes que cumplir todos los requisitos antes de seleccionarla.
 

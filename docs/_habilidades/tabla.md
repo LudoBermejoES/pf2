@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Tabla de Habilidades
 
 ## Habilidades, Atributos Clave y Acciones
 

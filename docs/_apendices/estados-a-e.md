@@ -5,7 +5,6 @@ chapter: "Apéndices"
 category: "apendices"
 nav_order: 8
 ---
-# Apendice de estados
 
 Mientras estan de aventuras, los personajes (y a veces sus pertenencias) suelen verse afectados por aptitudes y efectos que aplican estados. Por ejemplo, un conjuro o un objeto magico podria volverte invisible o hacer que fueras presa del panico. Los estados cambian de alguna forma como te encuentras, y representan cualquier cosa desde la actitud que otras criaturas tienen hacia ti y como interaccionan contigo, hasta lo que sucede cuando una criatura drena tu sangre o tu esencia vital.
 

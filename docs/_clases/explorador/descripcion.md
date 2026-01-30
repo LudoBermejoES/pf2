@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Explorador"
 ---
-# Explorador
 
 El explorador es un cazador y rastreador consumado, capaz de perseguir a su presa a través de cualquier terreno. Ya sea que rastrees bestias salvajes en la naturaleza o aceches criminales en las calles de la ciudad, tus habilidades de caza son incomparables.
 

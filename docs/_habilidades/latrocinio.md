@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Latrocinio (Des)
 
 Estas entrenado en un conjunto de habilidades en particular, típicas de ladrones y de facinerosos.
 

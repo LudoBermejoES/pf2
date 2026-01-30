@@ -5,7 +5,6 @@ chapter: "Apéndices"
 category: "apendices"
 nav_order: 8
 ---
-# Estados (F-Z)
 
 ## Fascinado
 

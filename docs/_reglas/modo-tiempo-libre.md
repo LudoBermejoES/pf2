@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Modo de Tiempo Libre
 
 El modo de tiempo libre se juega día a día en lugar de minuto a minuto o escena a escena. Por lo general, este modo de juego tiene lugar cuando estás en la seguridad de un asentamiento, quizá recuperándote de tus aventuras o estudiando un artefacto que has encontrado.
 

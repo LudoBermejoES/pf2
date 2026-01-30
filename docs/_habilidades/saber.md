@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Saber (Int)
 
 Dispones de información especializada sobre un tema acotado. Saber dispone de muchas subcategorías, como por ejemplo Saber (militar), Saber (navegación), Saber (vampiros) o cualquier subcategoría similar de la habilidad. Cada subcategoría cuenta como una habilidad por derecho propio, por lo que por ejemplo aplicar un incremento de habilidad a Saber (los Planos) no incrementaría tu competencia en Saber (navegación).
 

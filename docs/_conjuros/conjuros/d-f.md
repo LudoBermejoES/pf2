@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Conjuros D-F
 
 ## Danza Incontrolable ◆◆ [CONJURO 8]
 **Rasgos:** Concentrar, Incapacitacion, Manipular, Mental

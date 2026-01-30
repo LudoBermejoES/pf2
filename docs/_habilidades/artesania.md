@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Artesania (Int)
 
 Puedes utilizar esta habilidad para crear y para reparar objetos. Incluso si no estas entrenado, puedes Recordar conocimiento.
 

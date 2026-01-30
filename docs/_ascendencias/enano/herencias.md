@@ -6,7 +6,6 @@ category: "ascendencias"
 nav_order: 1
 ancestry: "Enano"
 ---
-# Herencias para Enanos
 
 Los enanos se enorgullecen de la resiliencia de sus linajes. Elige una de entre las siguientes herencias enanas a 1.er nivel.
 

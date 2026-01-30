@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Clérigo"
 ---
-# Dotes de Clerigo
 
 A cada nivel en el que obtienes una dote de clerigo, puedes seleccionar una de las siguientes. Debes cumplir todos los requisitos antes de seleccionarla.
 

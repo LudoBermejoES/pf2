@@ -5,7 +5,6 @@ chapter: "Equipo"
 category: "equipo"
 nav_order: 5
 ---
-# Introduccion al Equipo
 
 Para dejar huella en el mundo necesitas el equipo adecuado, incluyendo armadura, armas y otro material. Este capitulo presenta los diversos objetos que puedes comprar durante la creacion de personaje. Por lo general suelen estar a la venta en la mayoria de ciudades y otros asentamientos grandes.
 

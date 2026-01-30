@@ -5,7 +5,6 @@ chapter: "Introducción"
 category: "introduccion"
 nav_order: 0
 ---
-# Atributos
 
 Los atributos miden el potencial en bruto de un personaje y se utilizan para calcular la mayor parte de sus demas estadisticas.
 

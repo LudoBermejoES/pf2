@@ -5,7 +5,6 @@ chapter: "Introducción"
 category: "introduccion"
 nav_order: 0
 ---
-# Jugar es para Todos
 
 Tanto si eres el DJ como si eres un jugador, participar en una partida de un juego de rol de sobremesa incluye un contrato social: todo el mundo se ha reunido para pasarselo bien. Para muchos, jugar a rol es una forma de escapar de los problemas de la vida diaria.
 

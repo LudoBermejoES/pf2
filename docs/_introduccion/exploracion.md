@@ -5,7 +5,6 @@ chapter: "Introducción"
 category: "introduccion"
 nav_order: 0
 ---
-# Exploracion
 
 La mayor parte del tiempo, tu personaje explorara el mundo, interaccionando con otros personajes, viajando de un lugar a otro y superando desafios. A esto se le llama **exploracion**.
 

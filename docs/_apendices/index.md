@@ -4,8 +4,6 @@ title: "Apéndices"
 description: "Contenido del capítulo Apéndices"
 ---
 
-# Apéndices
-
 Contenido del capítulo Apéndices
 
 ## Contenido

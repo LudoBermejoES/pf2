@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Lista de Conjuros Ocultistas
 
 Una "P" indica que el conjuro tiene efectos adicionales cuando es potenciado.
 PC = poco comun.

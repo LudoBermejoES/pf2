@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Mago"
 ---
-# Dotes de Mago
 
 En cada nivel en el que obtienes una dote de mago, puedes seleccionar una de las siguientes. Has de cumplir cualquier prerrequisito antes de elegirla.
 

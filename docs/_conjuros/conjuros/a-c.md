@@ -5,7 +5,6 @@ chapter: "Conjuros"
 category: "conjuros"
 nav_order: 6
 ---
-# Conjuros A-C
 
 Esta seccion contiene todos los conjuros del Manual de Juego de Pathfinder 2a Edicion cuyo nombre comienza con las letras A, B y C, ordenados alfabeticamente.
 

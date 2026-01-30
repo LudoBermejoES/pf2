@@ -5,7 +5,6 @@ chapter: "Introducción"
 category: "introduccion"
 nav_order: 0
 ---
-# Terminos Clave
 
 Existe cierta cantidad de terminos importantes que necesitas conocer para crear tu primer personaje o tu primera aventura.
 

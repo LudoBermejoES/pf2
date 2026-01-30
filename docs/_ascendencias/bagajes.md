@@ -5,7 +5,6 @@ chapter: "Ascendencias"
 category: "ascendencias"
 nav_order: 1
 ---
-# Bagajes
 
 A 1.er nivel, cuando creas tu personaje, obtienes un bagaje a tu elección. Esta decisión es permanente, y no puedes cambiarla a niveles posteriores. Cada bagaje indicado aquí concede dos mejoras, una dote de habilidad y el rango de competencia entrenado en dos habilidades, una de las cuales es de Saber.
 

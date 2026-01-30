@@ -4,8 +4,6 @@ title: "Habilidades"
 description: "Contenido del capítulo Habilidades"
 ---
 
-# Habilidades
-
 Contenido del capítulo Habilidades
 
 ## Contenido

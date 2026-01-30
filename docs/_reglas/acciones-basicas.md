@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Acciones basicas
 
 Las acciones basicas representan tareas comunes como moverse, atacar y ayudar a otros. Por lo tanto, cada criatura puede utilizar acciones basicas excepto en circunstancias extremas, y muchas de ellas se usan con gran frecuencia. Notablemente, utilizaras mucho Interactuar, Paso, Zancada y Golpe. Muchas dotes y otras acciones requieren que utilices una de estas acciones basicas o las modifiques para dar lugar a efectos diferentes. Por ejemplo, una accion mas compleja podria permitirte dar dos Zancadas, y un gran numero de actividades incluyen un Golpe. Una accion o actividad podria tambien modificar una accion basica, como por ejemplo que dieras una Zancada hasta la mitad de tu Velocidad.
 

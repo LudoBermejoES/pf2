@@ -5,7 +5,6 @@ chapter: "Introducción"
 category: "introduccion"
 nav_order: 0
 ---
-# Puntos Basicos del Juego
 
 ## Como se definen los personajes
 

@@ -6,7 +6,6 @@ category: "clases"
 nav_order: 2
 class_name: "Brujo"
 ---
-# Características del Brujo
 
 ## Tabla de avance del brujo
 

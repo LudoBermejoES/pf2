@@ -6,7 +6,6 @@ category: "ascendencias"
 nav_order: 1
 ancestry: "Elfo"
 ---
-# Herencias para Elfos
 
 Los elfos viven muchos años, tienen multitud de experiencias y se adaptan a su entorno tras habitar allí durante mucho tiempo. Elige una de las siguientes herencias para elfos a 1.er nivel.
 

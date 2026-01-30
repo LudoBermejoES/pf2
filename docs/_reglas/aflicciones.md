@@ -5,7 +5,6 @@ chapter: "Cómo Jugar"
 category: "reglas"
 nav_order: 7
 ---
-# Aflicciones
 
 Las enfermedades y los venenos son tipos de aflicción, igual que las maldiciones y la radiación. Una aflicción puede infectar a una criatura bastante tiempo, progresando a lo largo de etapas diferentes y a menudo cada vez más debilitantes.
 

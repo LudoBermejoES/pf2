@@ -5,7 +5,6 @@ chapter: "Ascendencias"
 category: "ascendencias"
 nav_order: 1
 ---
-# Idiomas
 
 La entrada de tu ascendencia indica qué idiomas conoces a 1.er nivel. Típicamente, esto significa que puedes leer y escribir dichos idiomas. Disponer de un modificador por Inteligencia positivo te concede tantos idiomas adicionales como tu modificador por Inteligencia.
 

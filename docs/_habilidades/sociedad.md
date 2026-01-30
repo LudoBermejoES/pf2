@@ -5,7 +5,6 @@ chapter: "Habilidades"
 category: "habilidades"
 nav_order: 3
 ---
-# Sociedad (Int)
 
 Entiendes a la gente y a los sistemas que hacen funcionar a la civilización, y conoces los acontecimientos históricos que hacen que las sociedades sean lo que son hoy en día. Además, puedes utilizar dicho conocimiento para navegar por entre los complejos mecanismos físicos, societarios y económicos de los asentamientos.
 
