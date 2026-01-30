@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /introduccion/
-title: Introducción
+title: Introduccion
 description: Contenido del capítulo Introducción
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /apendices/
-title: Apéndices
+title: Apendices
 description: Contenido del capítulo Apéndices
 ---
 
