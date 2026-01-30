@@ -1,48 +1,42 @@
 ---
-layout: section
+layout: page
 title: "Ascendencias"
-description: "Elige de dónde viene tu personaje. Cada ascendencia otorga habilidades únicas, puntos de golpe y rasgos especiales"
-cards:
-  - title: "Humano"
-    description: "Versátil y adaptable, los humanos destacan en cualquier rol"
-    icon: "🧑"
-    url: "/ascendencias/humano/descripcion/"
-  - title: "Elfo"
-    description: "Gráciles y longevos, los elfos poseen magia innata"
-    icon: "🏹"
-    url: "/ascendencias/elfo/descripcion/"
-  - title: "Enano"
-    description: "Fuertes y resistentes, maestros de la piedra"
-    icon: "⛏️"
-    url: "/ascendencias/enano/descripcion/"
-  - title: "Mediano"
-    description: "Pequeños pero audaces, con suerte en su favor"
-    icon: "🍀"
-    url: "/ascendencias/mediano/descripcion/"
-  - title: "Gnomo"
-    description: "Curiosos e inventivos, amantes de la magia"
-    icon: "✨"
-    url: "/ascendencias/gnomo/descripcion/"
-  - title: "Orco"
-    description: "Feroces y honrados, guerreros orgullosos"
-    icon: "⚔️"
-    url: "/ascendencias/orco/descripcion/"
-  - title: "Goblin"
-    description: "Caóticos e ingeniosos, amantes del caos"
-    icon: "🔥"
-    url: "/ascendencias/goblin/descripcion/"
-  - title: "Leshy"
-    description: "Seres vegetales únicos, conectados con la naturaleza"
-    icon: "🌿"
-    url: "/ascendencias/leshy/descripcion/"
+description: "Contenido del capítulo Ascendencias"
+---
 
-list_items:
-  - title: "Bagajes"
-    description: "Tu trasfondo y quién eras antes de la aventura"
-    url: "/ascendencias/bagajes/"
-  - title: "Herencias Versátiles"
-    description: "Ancestros mixtos: Changeling, Nefilim y más"
-    url: "/ascendencias/herencias-versatiles/introduccion/"
-  - title: "Idiomas"
-    description: "Los idiomas de Golarion disponibles para tu personaje"
-    url: "/ascendencias/idiomas/"
+# Ascendencias
+
+Contenido del capítulo Ascendencias
+
+## Contenido
+
+- [Bagajes](/ascendencias/bagajes/)
+- [Elfo](/ascendencias/elfo/descripcion/)
+- [Dotes de Ascendencia: Elfo](/ascendencias/elfo/dotes/)
+- [Herencias para Elfos](/ascendencias/elfo/herencias/)
+- [Enano](/ascendencias/enano/descripcion/)
+- [Dotes de Ascendencia: Enano](/ascendencias/enano/dotes/)
+- [Herencias para Enanos](/ascendencias/enano/herencias/)
+- [Gnomo](/ascendencias/gnomo/descripcion/)
+- [Dotes de Ascendencia: Gnomo](/ascendencias/gnomo/dotes/)
+- [Herencias para Gnomos](/ascendencias/gnomo/herencias/)
+- [Goblin](/ascendencias/goblin/descripcion/)
+- [Dotes de Ascendencia: Goblin](/ascendencias/goblin/dotes/)
+- [Herencias para Goblins](/ascendencias/goblin/herencias/)
+- [Ascendencia Mixta](/ascendencias/herencias-versatiles/ascendencia-mixta/)
+- [Changeling](/ascendencias/herencias-versatiles/changeling/)
+- [Herencias Versátiles](/ascendencias/herencias-versatiles/introduccion/)
+- [Nefilim](/ascendencias/herencias-versatiles/nefilim/)
+- [Humano](/ascendencias/humano/descripcion/)
+- [Dotes de Ascendencia: Humano](/ascendencias/humano/dotes/)
+- [Herencias para Humanos](/ascendencias/humano/herencias/)
+- [Idiomas](/ascendencias/idiomas/)
+- [Leshy](/ascendencias/leshy/descripcion/)
+- [Dotes de Ascendencia: Leshy](/ascendencias/leshy/dotes/)
+- [Herencias para Leshys](/ascendencias/leshy/herencias/)
+- [Mediano](/ascendencias/mediano/descripcion/)
+- [Dotes de Ascendencia: Mediano](/ascendencias/mediano/dotes/)
+- [Herencias para Medianos](/ascendencias/mediano/herencias/)
+- [Orco](/ascendencias/orco/descripcion/)
+- [Dotes de Ascendencia: Orco](/ascendencias/orco/dotes/)
+- [Herencias para Orcos](/ascendencias/orco/herencias/)

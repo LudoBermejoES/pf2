@@ -1,57 +1,31 @@
 ---
-layout: section
+layout: page
 title: "Habilidades"
-description: "Las 17 habilidades que determinan lo que tu personaje puede hacer fuera del combate puro"
-list_items:
-  - title: "Acrobacias (Destreza)"
-    description: "Mantener el equilibrio, saltar y evitar caídas"
-    url: "/habilidades/acrobacias/"
-  - title: "Arcanos (Inteligencia)"
-    description: "Conocimiento de magia y fenómenos arcanos"
-    url: "/habilidades/arcanos/"
-  - title: "Artesanía (Inteligencia)"
-    description: "Crear y reparar objetos diversos"
-    url: "/habilidades/artesania/"
-  - title: "Atletismo (Fuerza)"
-    description: "Nadar, trepar y movimientos físicos"
-    url: "/habilidades/atletismo/"
-  - title: "Diplomacia (Carisma)"
-    description: "Negociar e influir en otros pacíficamente"
-    url: "/habilidades/diplomacia/"
-  - title: "Engaño (Carisma)"
-    description: "Mentir y engañar de forma convincente"
-    url: "/habilidades/engano/"
-  - title: "Interpretación (Carisma)"
-    description: "Actuar, disfrazar y expresión artística"
-    url: "/habilidades/interpretacion/"
-  - title: "Intimidación (Carisma)"
-    description: "Asustar e intimidar a otros"
-    url: "/habilidades/intimidacion/"
-  - title: "Latrocinio (Destreza)"
-    description: "Robar y abrir cerraduras"
-    url: "/habilidades/latrocinio/"
-  - title: "Medicina (Sabiduría)"
-    description: "Curar heridas y diagnosticar enfermedades"
-    url: "/habilidades/medicina/"
-  - title: "Naturaleza (Sabiduría)"
-    description: "Conocimiento del mundo natural"
-    url: "/habilidades/naturaleza/"
-  - title: "Ocultismo (Inteligencia)"
-    description: "Conocimiento de lo sobrenatural"
-    url: "/habilidades/ocultismo/"
-  - title: "Religión (Sabiduría)"
-    description: "Conocimiento de dioses y creencias"
-    url: "/habilidades/religion/"
-  - title: "Saber (Inteligencia)"
-    description: "Especialidades y conocimientos específicos"
-    url: "/habilidades/saber/"
-  - title: "Sigilo (Destreza)"
-    description: "Moverse sin ser visto ni oído"
-    url: "/habilidades/sigilo/"
-  - title: "Sociedad (Inteligencia)"
-    description: "Conocimiento de cultura y política"
-    url: "/habilidades/sociedad/"
-  - title: "Supervivencia (Sabiduría)"
-    description: "Rastrear, cazar y sobrevivir en la naturaleza"
-    url: "/habilidades/supervivencia/"
+description: "Contenido del capítulo Habilidades"
+---
+
+# Habilidades
+
+Contenido del capítulo Habilidades
+
+## Contenido
+
+- [Acciones de Habilidad Generales](/habilidades/acciones-generales/)
+- [Acrobacias (Des)](/habilidades/acrobacias/)
+- [Arcanos (Int)](/habilidades/arcanos/)
+- [Artesania (Int)](/habilidades/artesania/)
+- [Atletismo (Fue)](/habilidades/atletismo/)
+- [Diplomacia (Car)](/habilidades/diplomacia/)
+- [Engano (Car)](/habilidades/engano/)
+- [Interpretacion (Car)](/habilidades/interpretacion/)
+- [Intimidacion (Car)](/habilidades/intimidacion/)
+- [Latrocinio (Des)](/habilidades/latrocinio/)
+- [Medicina (Sab)](/habilidades/medicina/)
+- [Naturaleza (Sab)](/habilidades/naturaleza/)
+- [Ocultismo (Int)](/habilidades/ocultismo/)
+- [Religión (Sab)](/habilidades/religion/)
+- [Saber (Int)](/habilidades/saber/)
+- [Sigilo (Des)](/habilidades/sigilo/)
+- [Sociedad (Int)](/habilidades/sociedad/)
+- [Supervivencia (Sab)](/habilidades/supervivencia/)
 - [Tabla de Habilidades](/habilidades/tabla/)

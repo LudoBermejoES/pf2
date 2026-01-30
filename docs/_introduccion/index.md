@@ -1,41 +1,28 @@
 ---
-layout: section
+layout: page
 title: "Introducción"
-description: "Comienza tu viaje en Pathfinder 2. Aprende lo básico del juego de rol y cómo crear tu personaje"
-list_items:
-  - title: "¿Qué es un JDR?"
-    description: "Introducción a los juegos de rol para principiantes"
-    url: "/introduccion/que-es-jdr/"
-  - title: "Cómo se Juega"
-    description: "Visión general de la mecánica del juego"
-    url: "/introduccion/como-se-juega/"
-  - title: "Creación de Personajes"
-    description: "Guía paso a paso para crear tu héroe"
-    url: "/introduccion/creacion-personajes/"
-  - title: "Atributos"
-    description: "Los seis atributos que definen tu personaje"
-    url: "/introduccion/atributos/"
-  - title: "Puntos Básicos"
-    description: "Conceptos fundamentales del sistema"
-    url: "/introduccion/puntos-basicos/"
-  - title: "Términos Clave"
-    description: "Glosario de términos importantes"
-    url: "/introduccion/terminos-clave/"
-  - title: "Dados"
-    description: "Cómo usar dados en Pathfinder"
-    url: "/introduccion/dados/"
-  - title: "Encuentros"
-    description: "Cómo funcionan los encuentros de combate"
-    url: "/introduccion/encuentros/"
-  - title: "Exploración"
-    description: "Explorar el mundo"
-    url: "/introduccion/exploracion/"
-  - title: "Golarion"
-    description: "El mundo de campaña de Pathfinder"
-    url: "/introduccion/golarion/"
-  - title: "Religión"
-    description: "Dioses y creencias en Golarion"
-    url: "/introduccion/religion/"
-  - title: "Subir de Nivel"
-    description: "Cómo mejorar tu personaje"
-    url: "/introduccion/subir-nivel/"
+description: "Contenido del capítulo Introducción"
+---
+
+# Introducción
+
+Contenido del capítulo Introducción
+
+## Contenido
+
+- [Atributos](/introduccion/atributos/)
+- [Como se Juega](/introduccion/como-se-juega/)
+- [Creacion de Personajes](/introduccion/creacion-personajes/)
+- [Dados](/introduccion/dados/)
+- [Encuentros](/introduccion/encuentros/)
+- [Exploracion](/introduccion/exploracion/)
+- [Golarion y el Mar Interior](/introduccion/golarion/)
+- [Herramientas de Juego](/introduccion/herramientas/)
+- [Jugar es para Todos](/introduccion/jugar-para-todos/)
+- [La Primera Regla](/introduccion/primera-regla/)
+- [Puntos Basicos del Juego](/introduccion/puntos-basicos/)
+- [¿Qué es un juego de rol?](/introduccion/que-es-jdr/)
+- [Religion](/introduccion/religion/)
+- [Subir de Nivel](/introduccion/subir-nivel/)
+- [Terminos Clave](/introduccion/terminos-clave/)
+- [Tiempo Libre](/introduccion/tiempo-libre/)

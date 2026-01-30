@@ -1,26 +1,30 @@
 ---
-layout: section
+layout: page
 title: "Conjuros"
-description: "Domina la magia a través de cuatro tradiciones arcanas: Arcana, Divina, Oculta y Primigenia"
-list_items:
-  - title: "Introducción a Conjuros"
-    description: "Conceptos básicos de magia y lanzamiento de hechizos"
-    url: "/conjuros/introduccion/"
-  - title: "Conjuros por Tradición"
-    description: "Arcana (magia académica), Divina (poder divino), Oculta (secretos antiguos), Primigenia (naturaleza)"
-    url: "/conjuros/listas/"
-  - title: "Conjuros A-C"
-    description: "Listado alfabético de hechizos"
-    url: "/conjuros/conjuros/a-c/"
-  - title: "Conjuros D-F"
-    description: "Continuación alfabética"
-    url: "/conjuros/conjuros/d-f/"
-  - title: "Conjuros G-Z"
-    description: "Última sección alfabética"
-    url: "/conjuros/conjuros/g-m/"
-  - title: "Conjuros de Foco"
-    description: "Hechizos de foco por clase: Bardo, Brujo, Clérigo, Druida, Explorador, Mago"
-    url: "/conjuros/conjuros-foco/bardo/"
-  - title: "Rituales"
-    description: "Rituales mágicos para efectos especiales"
-    url: "/conjuros/rituales/rituales/"
+description: "Contenido del capítulo Conjuros"
+---
+
+# Conjuros
+
+Contenido del capítulo Conjuros
+
+## Contenido
+
+- [Conjuros A-C](/conjuros/conjuros/a-c/)
+- [Conjuros D-F](/conjuros/conjuros/d-f/)
+- [Conjuros G-M](/conjuros/conjuros/g-m/)
+- [Conjuros N-R](/conjuros/conjuros/n-r/)
+- [Conjuros S](/conjuros/conjuros/s/)
+- [Conjuros T-Z](/conjuros/conjuros/t-z/)
+- [Conjuros de Foco: Bardo](/conjuros/conjuros-foco/bardo/)
+- [Conjuros de Foco: Brujo](/conjuros/conjuros-foco/brujo/)
+- [Conjuros de Foco: Clérigo](/conjuros/conjuros-foco/clerigo/)
+- [Conjuros de Foco: Druida](/conjuros/conjuros-foco/druida/)
+- [Conjuros de Foco: Explorador](/conjuros/conjuros-foco/explorador/)
+- [Conjuros de Foco: Mago](/conjuros/conjuros-foco/mago/)
+- [Conjuros - Introduccion](/conjuros/introduccion/)
+- [Lista de Conjuros Arcanos](/conjuros/listas/arcana/)
+- [Lista de Conjuros Divinos](/conjuros/listas/divina/)
+- [Lista de Conjuros Ocultistas](/conjuros/listas/oculta/)
+- [Lista de Conjuros Primigenios](/conjuros/listas/primigenia/)
+- [Rituales](/conjuros/rituales/rituales/)

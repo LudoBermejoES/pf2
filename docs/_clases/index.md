@@ -1,45 +1,40 @@
 ---
-layout: section
+layout: page
 title: "Clases"
-description: "Tu clase define tu rol en la aventura. Elige entre 8 clases únicas con habilidades y características especiales"
-cards:
-  - title: "Guerrero"
-    description: "Maestro del combate marcial, dominando armas y tácticas"
-    icon: "⚔️"
-    url: "/clases/guerrero/descripcion/"
-  - title: "Pícaro"
-    description: "Experto en sigilo y ataques precisos desde las sombras"
-    icon: "🗡️"
-    url: "/clases/picaro/descripcion/"
-  - title: "Explorador"
-    description: "Rastreador de la naturaleza con conexión a lo salvaje"
-    icon: "🏹"
-    url: "/clases/explorador/descripcion/"
-  - title: "Clérigo"
-    description: "Siervo divino con poder curativo y bendiciones"
-    icon: "✨"
-    url: "/clases/clerigo/descripcion/"
-  - title: "Mago"
-    description: "Erudito arcano con dominio de la magia académica"
-    icon: "🔮"
-    url: "/clases/mago/descripcion/"
-  - title: "Druida"
-    description: "Guardián de la naturaleza con magia primigenia"
-    icon: "🌿"
-    url: "/clases/druida/descripcion/"
-  - title: "Bardo"
-    description: "Artista versátil que inspira aliados con su arte"
-    icon: "🎭"
-    url: "/clases/bardo/descripcion/"
-  - title: "Brujo"
-    description: "Hechicero misterioso con pactos oscuros"
-    icon: "🌙"
-    url: "/clases/brujo/descripcion/"
+description: "Contenido del capítulo Clases"
+---
 
-list_items:
-  - title: "Arquetipos"
-    description: "Especialización multiclase para expandir tus habilidades"
-    url: "/clases/arquetipos/introduccion/"
-  - title: "Compañeros"
-    description: "Animales y familiares que te acompañan en la aventura"
-    url: "/clases/companeros/animales/"
+# Clases
+
+Contenido del capítulo Clases
+
+## Contenido
+
+- [Arquetipos](/clases/arquetipos/introduccion/)
+- [Arquetipos de multiclase](/clases/arquetipos/multiclase/)
+- [Caracteristicas del Bardo](/clases/bardo/caracteristicas/)
+- [Bardo](/clases/bardo/descripcion/)
+- [Dotes de Bardo](/clases/bardo/dotes/)
+- [Características del Brujo](/clases/brujo/caracteristicas/)
+- [Brujo](/clases/brujo/descripcion/)
+- [Dotes de Brujo](/clases/brujo/dotes/)
+- [Caracteristicas del Clerigo](/clases/clerigo/caracteristicas/)
+- [Clerigo](/clases/clerigo/descripcion/)
+- [Dotes de Clerigo](/clases/clerigo/dotes/)
+- [Compañeros Animales](/clases/companeros/animales/)
+- [Familiares](/clases/companeros/familiares/)
+- [Druida - Características de Clase](/clases/druida/caracteristicas/)
+- [Druida](/clases/druida/descripcion/)
+- [Druida - Dotes de Clase](/clases/druida/dotes/)
+- [Caracteristicas del Explorador](/clases/explorador/caracteristicas/)
+- [Explorador](/clases/explorador/descripcion/)
+- [Dotes del Explorador](/clases/explorador/dotes/)
+- [Características del Guerrero](/clases/guerrero/caracteristicas/)
+- [Guerrero](/clases/guerrero/descripcion/)
+- [Dotes de Guerrero](/clases/guerrero/dotes/)
+- [Caracteristicas del Mago](/clases/mago/caracteristicas/)
+- [Mago](/clases/mago/descripcion/)
+- [Dotes de Mago](/clases/mago/dotes/)
+- [Caracteristicas del Picaro](/clases/picaro/caracteristicas/)
+- [Picaro](/clases/picaro/descripcion/)
+- [Dotes de Picaro](/clases/picaro/dotes/)
