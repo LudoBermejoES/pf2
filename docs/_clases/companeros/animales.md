@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/companeros/animales/ "page"
 title: "Compañeros Animales"
 chapter: "Clases"
 category: "clases"

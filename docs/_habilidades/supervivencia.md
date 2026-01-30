@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/supervivencia/ "page"
 title: "Supervivencia (Sab)"
 chapter: "Habilidades"
 category: "habilidades"

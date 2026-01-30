@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/elfo/dotes/ "page"
 title: "Dotes de Ascendencia: Elfo"
 chapter: "Ascendencias"
 category: "ascendencias"

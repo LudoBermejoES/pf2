@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/brujo/caracteristicas/ "page"
 title: "Características del Brujo"
 chapter: "Clases"
 category: "clases"

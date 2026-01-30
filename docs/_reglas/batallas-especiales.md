@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/batallas-especiales/ "page"
 title: "Batallas especiales"
 chapter: "Cómo Jugar"
 category: "reglas"

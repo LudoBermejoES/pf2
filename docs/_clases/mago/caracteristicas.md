@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/mago/caracteristicas/ "page"
 title: "Caracteristicas del Mago"
 chapter: "Clases"
 category: "clases"

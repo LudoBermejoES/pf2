@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/leshy/herencias/ "page"
 title: "Herencias para Leshys"
 chapter: "Ascendencias"
 category: "ascendencias"

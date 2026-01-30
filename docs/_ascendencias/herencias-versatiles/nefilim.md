@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/herencias-versatiles/nefilim/ "page"
 title: "Nefilim"
 chapter: "Ascendencias"
 category: "ascendencias"

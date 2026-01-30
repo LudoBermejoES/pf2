@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /dotes/habilidad/ "page"
 title: "Dotes de Habilidad"
 chapter: "Dotes"
 category: "dotes"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/medicina/ "page"
 title: "Medicina (Sab)"
 chapter: "Habilidades"
 category: "habilidades"

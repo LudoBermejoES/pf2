@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/conjuros-foco/druida/ "page"
 title: "Conjuros de Foco: Druida"
 chapter: "Conjuros"
 category: "conjuros"

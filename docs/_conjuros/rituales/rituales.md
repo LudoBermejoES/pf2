@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/rituales/rituales/ "page"
 title: "Rituales"
 chapter: "Conjuros"
 category: "conjuros"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/druida/caracteristicas/ "page"
 title: "Druida - Características de Clase"
 chapter: "Clases"
 category: "clases"

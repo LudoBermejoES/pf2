@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/acciones-especialidad/ "page"
 title: "Acciones Basicas de Especialidad"
 chapter: "Cómo Jugar"
 category: "reglas"

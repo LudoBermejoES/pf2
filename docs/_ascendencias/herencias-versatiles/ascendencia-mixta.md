@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/herencias-versatiles/ascendencia-mixta/ "page"
 title: "Ascendencia Mixta"
 chapter: "Ascendencias"
 category: "ascendencias"

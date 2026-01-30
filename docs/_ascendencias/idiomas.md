@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/idiomas/ "page"
 title: "Idiomas"
 chapter: "Ascendencias"
 category: "ascendencias"

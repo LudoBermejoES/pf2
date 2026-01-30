@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/conjuros-foco/bardo/ "page"
 title: "Conjuros de Foco: Bardo"
 chapter: "Conjuros"
 category: "conjuros"

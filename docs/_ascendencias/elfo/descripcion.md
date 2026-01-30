@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/elfo/descripcion/ "page"
 title: "Elfo"
 chapter: "Ascendencias"
 category: "ascendencias"

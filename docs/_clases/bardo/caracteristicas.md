@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/bardo/caracteristicas/ "page"
 title: "Caracteristicas del Bardo"
 chapter: "Clases"
 category: "clases"

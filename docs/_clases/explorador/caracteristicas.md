@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/explorador/caracteristicas/ "page"
 title: "Caracteristicas del Explorador"
 chapter: "Clases"
 category: "clases"

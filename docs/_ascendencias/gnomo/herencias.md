@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/gnomo/herencias/ "page"
 title: "Herencias para Gnomos"
 chapter: "Ascendencias"
 category: "ascendencias"

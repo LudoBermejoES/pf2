@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/enano/descripcion/ "page"
 title: "Enano"
 chapter: "Ascendencias"
 category: "ascendencias"

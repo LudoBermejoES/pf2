@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/herramientas/ "page"
 title: "Herramientas de Juego"
 chapter: "Introducción"
 category: "introduccion"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/leshy/dotes/ "page"
 title: "Dotes de Ascendencia: Leshy"
 chapter: "Ascendencias"
 category: "ascendencias"

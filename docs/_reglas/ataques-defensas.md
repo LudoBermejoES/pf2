@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/ataques-defensas/ "page"
 title: "Ataques y Defensas"
 chapter: "Cómo Jugar"
 category: "reglas"

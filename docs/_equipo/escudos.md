@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /equipo/escudos/ "page"
 title: "Escudos"
 chapter: "Equipo"
 category: "equipo"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/puntos-basicos/ "page"
 title: "Puntos Basicos del Juego"
 chapter: "Introducción"
 category: "introduccion"

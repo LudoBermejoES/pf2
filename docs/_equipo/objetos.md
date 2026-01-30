@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /equipo/objetos/ "page"
 title: "Objetos"
 chapter: "Equipo"
 category: "equipo"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/gnomo/descripcion/ "page"
 title: "Gnomo"
 chapter: "Ascendencias"
 category: "ascendencias"

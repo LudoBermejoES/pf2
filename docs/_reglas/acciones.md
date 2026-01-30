@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/acciones/ "page"
 title: "Acciones"
 chapter: "Cómo Jugar"
 category: "reglas"

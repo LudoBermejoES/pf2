@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/interpretacion/ "page"
 title: "Interpretacion (Car)"
 chapter: "Habilidades"
 category: "habilidades"

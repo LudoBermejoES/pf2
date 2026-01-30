@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/guerrero/caracteristicas/ "page"
 title: "Características del Guerrero"
 chapter: "Clases"
 category: "clases"

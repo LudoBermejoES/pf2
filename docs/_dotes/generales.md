@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /dotes/generales/ "page"
 title: "Dotes Generales"
 chapter: "Dotes"
 category: "dotes"

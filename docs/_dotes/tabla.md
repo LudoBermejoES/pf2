@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /dotes/tabla/ "page"
 title: "Tablas de Dotes"
 chapter: "Dotes"
 category: "dotes"

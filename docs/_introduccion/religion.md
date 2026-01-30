@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/religion/ "page"
 title: "Religion"
 chapter: "Introducción"
 category: "introduccion"

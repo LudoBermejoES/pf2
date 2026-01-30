@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/intimidacion/ "page"
 title: "Intimidacion (Car)"
 chapter: "Habilidades"
 category: "habilidades"

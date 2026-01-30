@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/bagajes/ "page"
 title: "Bagajes"
 chapter: "Ascendencias"
 category: "ascendencias"

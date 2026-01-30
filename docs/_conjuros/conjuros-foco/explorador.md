@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/conjuros-foco/explorador/ "page"
 title: "Conjuros de Foco: Explorador"
 chapter: "Conjuros"
 category: "conjuros"

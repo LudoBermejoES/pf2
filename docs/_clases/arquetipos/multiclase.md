@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/arquetipos/multiclase/ "page"
 title: "Arquetipos de multiclase"
 chapter: "Clases"
 category: "clases"

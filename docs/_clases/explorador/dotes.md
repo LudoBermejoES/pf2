@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/explorador/dotes/ "page"
 title: "Dotes del Explorador"
 chapter: "Clases"
 category: "clases"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/picaro/descripcion/ "page"
 title: "Picaro"
 chapter: "Clases"
 category: "clases"

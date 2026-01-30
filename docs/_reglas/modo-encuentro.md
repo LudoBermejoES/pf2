@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/modo-encuentro/ "page"
 title: "Modo de Encuentro"
 chapter: "Cómo Jugar"
 category: "reglas"

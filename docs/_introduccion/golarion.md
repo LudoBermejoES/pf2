@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/golarion/ "page"
 title: "Golarion y el Mar Interior"
 chapter: "Introducción"
 category: "introduccion"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/terminos-clave/ "page"
 title: "Terminos Clave"
 chapter: "Introducción"
 category: "introduccion"

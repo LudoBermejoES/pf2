@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/efectos/ "page"
 title: "Efectos"
 chapter: "Cómo Jugar"
 category: "reglas"

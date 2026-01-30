@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/creacion-personajes/ "page"
 title: "Creacion de Personajes"
 chapter: "Introducción"
 category: "introduccion"

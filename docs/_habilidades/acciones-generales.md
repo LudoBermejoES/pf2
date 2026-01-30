@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/acciones-generales/ "page"
 title: "Acciones de Habilidad Generales"
 chapter: "Habilidades"
 category: "habilidades"

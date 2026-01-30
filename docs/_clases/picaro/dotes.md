@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/picaro/dotes/ "page"
 title: "Dotes de Picaro"
 chapter: "Clases"
 category: "clases"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/goblin/herencias/ "page"
 title: "Herencias para Goblins"
 chapter: "Ascendencias"
 category: "ascendencias"

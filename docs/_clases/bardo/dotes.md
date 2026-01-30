@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/bardo/dotes/ "page"
 title: "Dotes de Bardo"
 chapter: "Clases"
 category: "clases"

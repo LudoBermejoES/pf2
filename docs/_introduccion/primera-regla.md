@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/primera-regla/ "page"
 title: "La Primera Regla"
 chapter: "Introducción"
 category: "introduccion"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/cobertura-flanqueo/ "page"
 title: "Cobertura y Flanqueo"
 chapter: "Cómo Jugar"
 category: "reglas"

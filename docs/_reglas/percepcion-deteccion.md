@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/percepcion-deteccion/ "page"
 title: "Percepcion y Deteccion"
 chapter: "Cómo Jugar"
 category: "reglas"

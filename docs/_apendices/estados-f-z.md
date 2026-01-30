@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /apendices/estados-f-z/ "page"
 title: "Estados (F-Z)"
 chapter: "Apéndices"
 category: "apendices"

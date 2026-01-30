@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/gnomo/dotes/ "page"
 title: "Dotes de Ascendencia: Gnomo"
 chapter: "Ascendencias"
 category: "ascendencias"

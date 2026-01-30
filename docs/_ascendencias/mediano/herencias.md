@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/mediano/herencias/ "page"
 title: "Herencias para Medianos"
 chapter: "Ascendencias"
 category: "ascendencias"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/guerrero/dotes/ "page"
 title: "Dotes de Guerrero"
 chapter: "Clases"
 category: "clases"

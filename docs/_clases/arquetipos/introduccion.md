@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/arquetipos/introduccion/ "page"
 title: "Arquetipos"
 chapter: "Clases"
 category: "clases"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/enano/dotes/ "page"
 title: "Dotes de Ascendencia: Enano"
 chapter: "Ascendencias"
 category: "ascendencias"

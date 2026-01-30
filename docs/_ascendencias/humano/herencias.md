@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/humano/herencias/ "page"
 title: "Herencias para Humanos"
 chapter: "Ascendencias"
 category: "ascendencias"

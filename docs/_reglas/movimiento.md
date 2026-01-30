@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/movimiento/ "page"
 title: "Movimiento"
 chapter: "Cómo Jugar"
 category: "reglas"

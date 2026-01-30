@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/orco/dotes/ "page"
 title: "Dotes de Ascendencia: Orco"
 chapter: "Ascendencias"
 category: "ascendencias"

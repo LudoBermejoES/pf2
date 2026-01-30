@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/enano/herencias/ "page"
 title: "Herencias para Enanos"
 chapter: "Ascendencias"
 category: "ascendencias"

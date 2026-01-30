@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/listas/primigenia/ "page"
 title: "Lista de Conjuros Primigenios"
 chapter: "Conjuros"
 category: "conjuros"

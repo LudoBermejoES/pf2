@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/listas/divina/ "page"
 title: "Lista de Conjuros Divinos"
 chapter: "Conjuros"
 category: "conjuros"

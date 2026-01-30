@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /apendices/glosario/ "page"
 title: "Glosario e Índice"
 chapter: "Apéndices"
 category: "apendices"

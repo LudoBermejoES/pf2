@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/naturaleza/ "page"
 title: "Naturaleza (Sab)"
 chapter: "Habilidades"
 category: "habilidades"

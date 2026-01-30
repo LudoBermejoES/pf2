@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/saber/ "page"
 title: "Saber (Int)"
 chapter: "Habilidades"
 category: "habilidades"

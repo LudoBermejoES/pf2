@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/jugar-para-todos/ "page"
 title: "Jugar es para Todos"
 chapter: "Introducción"
 category: "introduccion"

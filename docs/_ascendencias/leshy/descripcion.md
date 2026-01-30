@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/leshy/descripcion/ "page"
 title: "Leshy"
 chapter: "Ascendencias"
 category: "ascendencias"

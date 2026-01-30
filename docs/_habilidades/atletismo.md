@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/atletismo/ "page"
 title: "Atletismo (Fue)"
 chapter: "Habilidades"
 category: "habilidades"

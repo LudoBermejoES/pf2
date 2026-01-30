@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/religion/ "page"
 title: "Religión (Sab)"
 chapter: "Habilidades"
 category: "habilidades"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/aflicciones/ "page"
 title: "Aflicciones"
 chapter: "Cómo Jugar"
 category: "reglas"

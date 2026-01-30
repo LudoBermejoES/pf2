@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/guerrero/descripcion/ "page"
 title: "Guerrero"
 chapter: "Clases"
 category: "clases"

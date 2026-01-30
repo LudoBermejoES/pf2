@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/orco/herencias/ "page"
 title: "Herencias para Orcos"
 chapter: "Ascendencias"
 category: "ascendencias"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/conjuros/a-c/ "page"
 title: "Conjuros A-C"
 chapter: "Conjuros"
 category: "conjuros"

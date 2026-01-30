@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/humano/descripcion/ "page"
 title: "Humano"
 chapter: "Ascendencias"
 category: "ascendencias"

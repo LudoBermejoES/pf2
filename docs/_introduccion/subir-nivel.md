@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/subir-nivel/ "page"
 title: "Subir de Nivel"
 chapter: "Introducción"
 category: "introduccion"

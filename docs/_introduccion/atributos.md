@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/atributos/ "page"
 title: "Atributos"
 chapter: "Introducción"
 category: "introduccion"

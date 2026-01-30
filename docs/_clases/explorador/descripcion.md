@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/explorador/descripcion/ "page"
 title: "Explorador"
 chapter: "Clases"
 category: "clases"

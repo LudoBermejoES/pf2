@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/druida/dotes/ "page"
 title: "Druida - Dotes de Clase"
 chapter: "Clases"
 category: "clases"

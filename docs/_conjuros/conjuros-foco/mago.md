@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/conjuros-foco/mago/ "page"
 title: "Conjuros de Foco: Mago"
 chapter: "Conjuros"
 category: "conjuros"

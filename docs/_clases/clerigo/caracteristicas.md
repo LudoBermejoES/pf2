@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/clerigo/caracteristicas/ "page"
 title: "Caracteristicas del Clerigo"
 chapter: "Clases"
 category: "clases"

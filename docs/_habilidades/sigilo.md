@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/sigilo/ "page"
 title: "Sigilo (Des)"
 chapter: "Habilidades"
 category: "habilidades"

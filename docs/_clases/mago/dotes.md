@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/mago/dotes/ "page"
 title: "Dotes de Mago"
 chapter: "Clases"
 category: "clases"

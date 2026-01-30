@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/brujo/descripcion/ "page"
 title: "Brujo"
 chapter: "Clases"
 category: "clases"

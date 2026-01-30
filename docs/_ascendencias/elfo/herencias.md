@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/elfo/herencias/ "page"
 title: "Herencias para Elfos"
 chapter: "Ascendencias"
 category: "ascendencias"

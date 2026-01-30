@@ -1,5 +1,6 @@
 ---
 layout: "page"
+permalink: /introduccion/tiempo-libre/
 title: "Tiempo Libre"
 chapter: "Introducción"
 category: "introduccion"

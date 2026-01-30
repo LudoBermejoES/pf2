@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /introduccion/encuentros/ "page"
 title: "Encuentros"
 chapter: "Introducción"
 category: "introduccion"

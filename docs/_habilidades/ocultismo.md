@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/ocultismo/ "page"
 title: "Ocultismo (Int)"
 chapter: "Habilidades"
 category: "habilidades"

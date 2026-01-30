@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/picaro/caracteristicas/ "page"
 title: "Caracteristicas del Picaro"
 chapter: "Clases"
 category: "clases"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/mediano/descripcion/ "page"
 title: "Mediano"
 chapter: "Ascendencias"
 category: "ascendencias"

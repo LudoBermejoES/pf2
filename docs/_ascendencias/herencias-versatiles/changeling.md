@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/herencias-versatiles/changeling/ "page"
 title: "Changeling"
 chapter: "Ascendencias"
 category: "ascendencias"

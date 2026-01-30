@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/sociedad/ "page"
 title: "Sociedad (Int)"
 chapter: "Habilidades"
 category: "habilidades"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/tabla/ "page"
 title: "Tabla de Habilidades"
 chapter: "Habilidades"
 category: "habilidades"

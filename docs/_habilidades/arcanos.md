@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/arcanos/ "page"
 title: "Arcanos (Int)"
 chapter: "Habilidades"
 category: "habilidades"

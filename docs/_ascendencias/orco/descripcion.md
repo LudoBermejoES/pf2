@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/orco/descripcion/ "page"
 title: "Orco"
 chapter: "Ascendencias"
 category: "ascendencias"

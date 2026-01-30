@@ -1,5 +1,6 @@
 ---
 layout: "page"
+permalink: /reglas/modo-tiempo-libre/
 title: "Modo de Tiempo Libre"
 chapter: "Cómo Jugar"
 category: "reglas"

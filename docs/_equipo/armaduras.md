@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /equipo/armaduras/ "page"
 title: "Armaduras"
 chapter: "Equipo"
 category: "equipo"

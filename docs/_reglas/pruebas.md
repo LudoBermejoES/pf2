@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /reglas/pruebas/ "page"
 title: "Pruebas"
 chapter: "Cómo Jugar"
 category: "reglas"

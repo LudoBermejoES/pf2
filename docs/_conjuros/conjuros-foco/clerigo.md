@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/conjuros-foco/clerigo/ "page"
 title: "Conjuros de Foco: Clérigo"
 chapter: "Conjuros"
 category: "conjuros"

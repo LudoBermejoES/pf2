@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/acrobacias/ "page"
 title: "Acrobacias (Des)"
 chapter: "Habilidades"
 category: "habilidades"

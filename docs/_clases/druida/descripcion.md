@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/druida/descripcion/ "page"
 title: "Druida"
 chapter: "Clases"
 category: "clases"

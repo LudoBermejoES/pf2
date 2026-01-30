@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/goblin/dotes/ "page"
 title: "Dotes de Ascendencia: Goblin"
 chapter: "Ascendencias"
 category: "ascendencias"

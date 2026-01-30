@@ -1,5 +1,6 @@
 ---
 layout: "page"
+permalink: /introduccion/exploracion/
 title: "Exploracion"
 chapter: "Introducción"
 category: "introduccion"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/companeros/familiares/ "page"
 title: "Familiares"
 chapter: "Clases"
 category: "clases"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/diplomacia/ "page"
 title: "Diplomacia (Car)"
 chapter: "Habilidades"
 category: "habilidades"

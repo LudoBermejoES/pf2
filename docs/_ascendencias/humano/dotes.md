@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/humano/dotes/ "page"
 title: "Dotes de Ascendencia: Humano"
 chapter: "Ascendencias"
 category: "ascendencias"

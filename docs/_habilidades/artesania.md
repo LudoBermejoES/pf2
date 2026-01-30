@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/artesania/ "page"
 title: "Artesania (Int)"
 chapter: "Habilidades"
 category: "habilidades"

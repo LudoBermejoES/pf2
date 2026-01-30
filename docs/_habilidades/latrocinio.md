@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/latrocinio/ "page"
 title: "Latrocinio (Des)"
 chapter: "Habilidades"
 category: "habilidades"

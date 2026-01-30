@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /ascendencias/mediano/dotes/ "page"
 title: "Dotes de Ascendencia: Mediano"
 chapter: "Ascendencias"
 category: "ascendencias"

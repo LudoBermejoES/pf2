@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/listas/arcana/ "page"
 title: "Lista de Conjuros Arcanos"
 chapter: "Conjuros"
 category: "conjuros"

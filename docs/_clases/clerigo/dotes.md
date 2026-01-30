@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /clases/clerigo/dotes/ "page"
 title: "Dotes de Clerigo"
 chapter: "Clases"
 category: "clases"

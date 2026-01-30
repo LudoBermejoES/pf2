@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/listas/oculta/ "page"
 title: "Lista de Conjuros Ocultistas"
 chapter: "Conjuros"
 category: "conjuros"

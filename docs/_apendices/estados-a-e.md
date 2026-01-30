@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /apendices/estados-a-e/ "page"
 title: "Apendice de estados"
 chapter: "Apéndices"
 category: "apendices"

@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /conjuros/conjuros-foco/brujo/ "page"
 title: "Conjuros de Foco: Brujo"
 chapter: "Conjuros"
 category: "conjuros"

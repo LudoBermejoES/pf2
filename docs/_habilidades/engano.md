@@ -1,5 +1,6 @@
 ---
-layout: "page"
+layout:
+permalink: /habilidades/engano/ "page"
 title: "Engano (Car)"
 chapter: "Habilidades"
 category: "habilidades"
