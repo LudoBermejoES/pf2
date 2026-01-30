@@ -71,12 +71,13 @@ def extract_links(content):
     links = re.findall(pattern, content)
     return [url for _, url in links]
 
-def check_links(docs_dir):
+def check_links(docs_dir, baseurl="/pf2"):
     """Check for broken links in all markdown files."""
     permalinks = extract_permalinks(docs_dir)
     broken_links = defaultdict(list)
 
     print(f"Found {len(permalinks)} available pages")
+    print(f"Base URL: {baseurl}")
     print(f"Available permalinks:\n")
     for p in sorted(permalinks):
         print(f"  {p}")
@@ -110,9 +111,17 @@ def check_links(docs_dir):
                             found = True
                             break
 
+                    # Check if link is missing baseurl prefix
                     if not found and link.startswith('/'):
                         relative_path = os.path.relpath(filepath, docs_dir)
-                        broken_links[relative_path].append(link)
+
+                        # Suggest the correct link with baseurl
+                        correct_link = f"{baseurl}{link}"
+                        broken_links[relative_path].append({
+                            'broken': link,
+                            'suggestion': correct_link,
+                            'reason': 'Missing baseurl prefix'
+                        })
 
     return broken_links
 
@@ -131,10 +140,17 @@ def main():
         print("⚠️  BROKEN LINKS FOUND:\n")
         for filepath, links in sorted(broken_links.items()):
             print(f"\n📄 {filepath}")
-            for link in sorted(set(links)):
-                print(f"   ❌ {link}")
+            for link_info in links:
+                if isinstance(link_info, dict):
+                    print(f"   ❌ {link_info['broken']}")
+                    print(f"      Reason: {link_info['reason']}")
+                    print(f"      Suggestion: {link_info['suggestion']}")
+                else:
+                    # Backwards compatibility with old format
+                    print(f"   ❌ {link_info}")
 
         print(f"\n\nTotal files with broken links: {len(broken_links)}")
+        print("\n💡 TIP: Make sure all internal links include the baseurl prefix '/pf2'")
         sys.exit(1)
     else:
         print("✅ All links are valid!")
