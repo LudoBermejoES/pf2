@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<article class="class-page">
+  <header class="class-header {% if page.class_color %}{{ page.class_color }}{% endif %}">
+    <div class="class-icon">
+      {% if page.icon %}{{ page.icon }}{% else %}⚔{% endif %}
+    </div>
+    <div class="class-title">
+      <span class="chapter-badge">Clase</span>
+      <h1>{{ page.title }}</h1>
+      {% if page.tagline %}
+      <p class="class-tagline">{{ page.tagline }}</p>
+      {% endif %}
+    </div>
+  </header>
+
+  {% if page.key_stats %}
+  <aside class="class-stats">
+    <div class="stat-row">
+      {% if page.key_stats.hp %}
+      <div class="stat-item">
+        <span class="stat-label">PG</span>
+        <span class="stat-value">{{ page.key_stats.hp }}</span>
+        <span class="stat-note">+ CON por nivel</span>
+      </div>
+      {% endif %}
+      {% if page.key_stats.key_ability %}
+      <div class="stat-item">
+        <span class="stat-label">Atributo Clave</span>
+        <span class="stat-value">{{ page.key_stats.key_ability }}</span>
+      </div>
+      {% endif %}
+    </div>
+
+    {% if page.key_stats.proficiencies %}
+    <div class="proficiencies">
+      <h4>Competencias</h4>
+      <dl>
+        {% for prof in page.key_stats.proficiencies %}
+        <dt>{{ prof.name }}</dt>
+        <dd>{{ prof.rank }}</dd>
+        {% endfor %}
+      </dl>
+    </div>
+    {% endif %}
+  </aside>
+  {% endif %}
+
+  <div class="class-content">
+    {{ content }}
+  </div>
+
+  {% if page.features %}
+  <section class="features-section">
+    <h2>Características de Clase</h2>
+    <div class="features-timeline">
+      {% for feature in page.features %}
+      <div class="feature-item" data-level="{{ feature.level }}">
+        <span class="feature-level">Nv. {{ feature.level }}</span>
+        <div class="feature-content">
+          <h3>{{ feature.name }}</h3>
+          <p>{{ feature.description }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</article>

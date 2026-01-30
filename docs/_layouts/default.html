@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'es' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Fira+Code&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  <!-- Search -->
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+
+  {% seo %}
+</head>
+<body>
+  <!-- Top Navigation -->
+  <header class="site-header">
+    <div class="header-content">
+      <a href="{{ '/' | relative_url }}" class="site-logo">
+        <span class="logo-icon">⚔</span>
+        <span class="logo-text">Pathfinder 2</span>
+        <span class="logo-subtitle">Player Core</span>
+      </a>
+
+      <nav class="main-nav">
+        <button class="nav-toggle" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <ul class="nav-links">
+          <li><a href="{{ '/introduccion/' | relative_url }}">Introducción</a></li>
+          <li><a href="{{ '/ascendencias/' | relative_url }}">Ascendencias</a></li>
+          <li><a href="{{ '/clases/' | relative_url }}">Clases</a></li>
+          <li><a href="{{ '/habilidades/' | relative_url }}">Habilidades</a></li>
+          <li><a href="{{ '/dotes/' | relative_url }}">Dotes</a></li>
+          <li><a href="{{ '/equipo/' | relative_url }}">Equipo</a></li>
+          <li><a href="{{ '/conjuros/' | relative_url }}">Conjuros</a></li>
+          <li><a href="{{ '/reglas/' | relative_url }}">Reglas</a></li>
+        </ul>
+      </nav>
+
+      <button class="search-toggle" aria-label="Buscar">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="M21 21l-4.35-4.35"></path>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Search Modal -->
+  {% include search-modal.html %}
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    {% include sidebar.html %}
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    {% if page.chapter %}
+    <nav class="breadcrumb">
+      <a href="{{ '/' | relative_url }}">Inicio</a>
+      <span class="separator">›</span>
+      <a href="{{ '/' | append: page.chapter | downcase | replace: ' ', '-' | append: '/' | relative_url }}">{{ page.chapter }}</a>
+      {% if page.title %}
+      <span class="separator">›</span>
+      <span class="current">{{ page.title }}</span>
+      {% endif %}
+    </nav>
+    {% endif %}
+
+    <article class="page-content">
+      {{ content }}
+    </article>
+
+    {% if page.toc != false %}
+    <nav class="table-of-contents">
+      <h3>En esta página</h3>
+      <div id="toc"></div>
+    </nav>
+    {% endif %}
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p>Pathfinder 2 Player Core - Contenido bajo licencia ORC</p>
+      <p>Este sitio no está afiliado con Paizo Inc.</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

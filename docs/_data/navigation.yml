@@ -1,0 +1,95 @@
+# Main navigation structure
+main:
+  - title: Introducción
+    url: /introduccion/
+    icon: 📖
+  - title: Ascendencias
+    url: /ascendencias/
+    icon: 👥
+  - title: Clases
+    url: /clases/
+    icon: ⚔
+  - title: Habilidades
+    url: /habilidades/
+    icon: 🎯
+  - title: Dotes
+    url: /dotes/
+    icon: ✨
+  - title: Equipo
+    url: /equipo/
+    icon: 🛡
+  - title: Conjuros
+    url: /conjuros/
+    icon: 🔮
+  - title: Reglas
+    url: /reglas/
+    icon: 📜
+  - title: Apéndices
+    url: /apendices/
+    icon: 📚
+
+# Sidebar sections
+sidebar:
+  introduccion:
+    title: Introducción
+    items:
+      - title: "¿Qué es un JDR?"
+        url: /introduccion/que-es-jdr/
+      - title: "Cómo se Juega"
+        url: /introduccion/como-se-juega/
+      - title: "Creación de Personajes"
+        url: /introduccion/creacion-personajes/
+      - title: "Atributos"
+        url: /introduccion/atributos/
+      - title: "Términos Clave"
+        url: /introduccion/terminos-clave/
+      - title: "Golarion"
+        url: /introduccion/golarion/
+
+  ascendencias:
+    title: Ascendencias
+    items:
+      - title: "Humano"
+        url: /ascendencias/humano/descripcion/
+      - title: "Elfo"
+        url: /ascendencias/elfo/descripcion/
+      - title: "Enano"
+        url: /ascendencias/enano/descripcion/
+      - title: "Mediano"
+        url: /ascendencias/mediano/descripcion/
+      - title: "Gnomo"
+        url: /ascendencias/gnomo/descripcion/
+      - title: "Orco"
+        url: /ascendencias/orco/descripcion/
+      - title: "Goblin"
+        url: /ascendencias/goblin/descripcion/
+      - title: "Leshy"
+        url: /ascendencias/leshy/descripcion/
+      - title: "---"
+      - title: "Bagajes"
+        url: /ascendencias/bagajes/
+      - title: "Idiomas"
+        url: /ascendencias/idiomas/
+
+  clases:
+    title: Clases
+    items:
+      - title: "Guerrero"
+        url: /clases/guerrero/descripcion/
+      - title: "Pícaro"
+        url: /clases/picaro/descripcion/
+      - title: "Explorador"
+        url: /clases/explorador/descripcion/
+      - title: "Clérigo"
+        url: /clases/clerigo/descripcion/
+      - title: "Mago"
+        url: /clases/mago/descripcion/
+      - title: "Druida"
+        url: /clases/druida/descripcion/
+      - title: "Bardo"
+        url: /clases/bardo/descripcion/
+      - title: "Brujo"
+        url: /clases/brujo/descripcion/
+      - title: "---"
+      - title: "Arquetipos"
+        url: /clases/arquetipos/introduccion/

@@ -1,0 +1,89 @@
+---
+layout: default
+---
+<header class="section-header">
+  <span class="chapter-badge">{{ page.chapter }}</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.description %}
+  <p class="section-description">{{ page.description }}</p>
+  {% endif %}
+</header>
+
+<div class="section-content">
+  {{ content }}
+</div>
+
+{% if page.cards %}
+<div class="card-grid">
+  {% for card in page.cards %}
+  <a href="{{ card.url | relative_url }}" class="feature-card">
+    {% if card.icon %}<span class="card-icon">{{ card.icon }}</span>{% endif %}
+    <h3>{{ card.title }}</h3>
+    <p>{{ card.description }}</p>
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if page.list_items %}
+<div class="content-list">
+  {% for item in page.list_items %}
+  <a href="{{ item.url | relative_url }}" class="list-item">
+    <span class="item-title">{{ item.title }}</span>
+    {% if item.description %}
+    <span class="item-description">{{ item.description }}</span>
+    {% endif %}
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+
+<style>
+.section-header {
+  margin-bottom: var(--spacing-xl);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 2px solid var(--border-accent);
+}
+
+.section-description {
+  font-size: 1.25rem;
+  color: var(--text-secondary);
+  margin-top: var(--spacing-sm);
+}
+
+.content-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-xl);
+}
+
+.list-item {
+  display: flex;
+  flex-direction: column;
+  padding: var(--spacing-md);
+  background: var(--bg-card);
+  border: 1px solid var(--border-primary);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.list-item:hover {
+  border-color: var(--pf-gold-dark);
+  background: var(--bg-hover);
+  text-decoration: none;
+}
+
+.item-title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--pf-gold);
+}
+
+.item-description {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: var(--spacing-xs);
+}
+</style>

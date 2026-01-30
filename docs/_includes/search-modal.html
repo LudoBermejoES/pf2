@@ -1,0 +1,65 @@
+<div class="search-modal" id="searchModal" role="dialog" aria-modal="true" aria-label="Buscar en el sitio">
+  <div class="search-modal-backdrop"></div>
+  <div class="search-modal-content">
+    <div class="search-header">
+      <div class="search-input-wrapper">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="M21 21l-4.35-4.35"></path>
+        </svg>
+        <input
+          type="text"
+          id="searchInput"
+          class="search-input"
+          placeholder="Buscar conjuros, clases, reglas..."
+          autocomplete="off"
+          autofocus
+        >
+        <button class="search-clear" id="searchClear" aria-label="Limpiar búsqueda">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 6L6 18M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+      <button class="search-close" id="searchClose" aria-label="Cerrar búsqueda">
+        <kbd>ESC</kbd>
+      </button>
+    </div>
+
+    <div class="search-filters">
+      <button class="filter-btn active" data-filter="all">Todo</button>
+      <button class="filter-btn" data-filter="introduccion">Introducción</button>
+      <button class="filter-btn" data-filter="ascendencias">Ascendencias</button>
+      <button class="filter-btn" data-filter="clases">Clases</button>
+      <button class="filter-btn" data-filter="habilidades">Habilidades</button>
+      <button class="filter-btn" data-filter="dotes">Dotes</button>
+      <button class="filter-btn" data-filter="equipo">Equipo</button>
+      <button class="filter-btn" data-filter="conjuros">Conjuros</button>
+      <button class="filter-btn" data-filter="reglas">Reglas</button>
+    </div>
+
+    <div class="search-results" id="searchResults">
+      <div class="search-placeholder">
+        <div class="placeholder-icon">🔍</div>
+        <p>Escribe para buscar en todo el contenido</p>
+        <div class="search-tips">
+          <p><strong>Consejos de búsqueda:</strong></p>
+          <ul>
+            <li>Busca conjuros: <code>bola de fuego</code></li>
+            <li>Busca clases: <code>guerrero</code></li>
+            <li>Busca reglas: <code>flanqueo</code></li>
+            <li>Busca acciones: <code>golpear</code></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="search-footer">
+      <div class="search-shortcuts">
+        <span><kbd>↑</kbd><kbd>↓</kbd> Navegar</span>
+        <span><kbd>↵</kbd> Seleccionar</span>
+        <span><kbd>ESC</kbd> Cerrar</span>
+      </div>
+    </div>
+  </div>
+</div>

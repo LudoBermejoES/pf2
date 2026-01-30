@@ -1,0 +1,371 @@
+---
+layout: default
+title: Inicio
+---
+
+<div class="hero-section">
+  <div class="hero-content">
+    <div class="hero-emblem">⚔</div>
+    <h1 class="hero-title">Pathfinder 2</h1>
+    <p class="hero-subtitle">Player Core</p>
+    <p class="hero-description">
+      Tu guía completa para crear héroes y dominar las reglas de Pathfinder Segunda Edición
+    </p>
+    <div class="hero-actions">
+      <a href="{{ '/introduccion/que-es-jdr/' | relative_url }}" class="btn btn-primary">
+        <span class="btn-icon">📖</span>
+        Comenzar a Leer
+      </a>
+      <button class="btn btn-secondary" onclick="window.pf2Search?.open()">
+        <span class="btn-icon">🔍</span>
+        Buscar Contenido
+      </button>
+    </div>
+  </div>
+</div>
+
+<section class="quick-links">
+  <h2>Explora el Contenido</h2>
+  <div class="card-grid">
+    <a href="{{ '/introduccion/' | relative_url }}" class="feature-card">
+      <span class="card-icon">📖</span>
+      <h3>Introducción</h3>
+      <p>Aprende qué es un juego de rol, cómo se juega Pathfinder y los conceptos básicos.</p>
+    </a>
+
+    <a href="{{ '/ascendencias/' | relative_url }}" class="feature-card">
+      <span class="card-icon">👥</span>
+      <h3>Ascendencias</h3>
+      <p>Humanos, elfos, enanos y más. Elige de dónde viene tu personaje.</p>
+    </a>
+
+    <a href="{{ '/clases/' | relative_url }}" class="feature-card">
+      <span class="card-icon">⚔</span>
+      <h3>Clases</h3>
+      <p>Guerreros, magos, clérigos... Define el rol de tu héroe en la aventura.</p>
+    </a>
+
+    <a href="{{ '/habilidades/' | relative_url }}" class="feature-card">
+      <span class="card-icon">🎯</span>
+      <h3>Habilidades</h3>
+      <p>Desde Atletismo hasta Sigilo, domina las capacidades de tu personaje.</p>
+    </a>
+
+    <a href="{{ '/dotes/' | relative_url }}" class="feature-card">
+      <span class="card-icon">✨</span>
+      <h3>Dotes</h3>
+      <p>Especializa a tu personaje con habilidades únicas y poderosas.</p>
+    </a>
+
+    <a href="{{ '/equipo/' | relative_url }}" class="feature-card">
+      <span class="card-icon">🛡</span>
+      <h3>Equipo</h3>
+      <p>Armas, armaduras, objetos y todo lo que necesitas para la aventura.</p>
+    </a>
+
+    <a href="{{ '/conjuros/' | relative_url }}" class="feature-card">
+      <span class="card-icon">🔮</span>
+      <h3>Conjuros</h3>
+      <p>Magia arcana, divina, oculta y primigenia. Todos los hechizos disponibles.</p>
+    </a>
+
+    <a href="{{ '/reglas/' | relative_url }}" class="feature-card">
+      <span class="card-icon">📜</span>
+      <h3>Cómo Jugar</h3>
+      <p>Reglas de combate, exploración, tiempo libre y mecánicas del juego.</p>
+    </a>
+  </div>
+</section>
+
+<section class="quick-start">
+  <h2>Guía Rápida</h2>
+  <div class="steps-grid">
+    <div class="step-card">
+      <span class="step-number">1</span>
+      <h3>Elige tu Ascendencia</h3>
+      <p>Decide si serás un humano versátil, un elfo longevo, un enano resistente u otra de las opciones disponibles.</p>
+      <a href="{{ '/ascendencias/' | relative_url }}">Ver Ascendencias →</a>
+    </div>
+
+    <div class="step-card">
+      <span class="step-number">2</span>
+      <h3>Selecciona tu Clase</h3>
+      <p>Tu clase define tu rol: combatiente en primera línea, lanzador de conjuros, explorador sigiloso...</p>
+      <a href="{{ '/clases/' | relative_url }}">Ver Clases →</a>
+    </div>
+
+    <div class="step-card">
+      <span class="step-number">3</span>
+      <h3>Asigna Atributos</h3>
+      <p>Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma definen tus capacidades.</p>
+      <a href="{{ '/introduccion/atributos/' | relative_url }}">Ver Atributos →</a>
+    </div>
+
+    <div class="step-card">
+      <span class="step-number">4</span>
+      <h3>Equipa tu Personaje</h3>
+      <p>Armas para el combate, armadura para la defensa y herramientas para la aventura.</p>
+      <a href="{{ '/equipo/' | relative_url }}">Ver Equipo →</a>
+    </div>
+  </div>
+</section>
+
+<section class="reference-section">
+  <h2>Referencias Rápidas</h2>
+  <div class="reference-grid">
+    <a href="{{ '/apendices/glosario/' | relative_url }}" class="reference-card">
+      <h3>📚 Glosario</h3>
+      <p>Definiciones de todos los términos del juego</p>
+    </a>
+
+    <a href="{{ '/apendices/estados/' | relative_url }}" class="reference-card">
+      <h3>⚠️ Estados</h3>
+      <p>Condiciones que afectan a personajes y criaturas</p>
+    </a>
+
+    <a href="{{ '/habilidades/tabla/' | relative_url }}" class="reference-card">
+      <h3>🎲 Tabla de Habilidades</h3>
+      <p>Referencia rápida de todas las habilidades</p>
+    </a>
+
+    <a href="{{ '/reglas/acciones/' | relative_url }}" class="reference-card">
+      <h3>⚡ Acciones</h3>
+      <p>Todas las acciones disponibles en combate</p>
+    </a>
+  </div>
+</section>
+
+<style>
+/* Hero Section */
+.hero-section {
+  text-align: center;
+  padding: var(--spacing-2xl) var(--spacing-lg);
+  background: linear-gradient(180deg, var(--pf-red-dark) 0%, var(--bg-primary) 100%);
+  border-bottom: 2px solid var(--pf-gold-dark);
+  margin: calc(var(--header-height) * -1 - var(--spacing-xl)) calc(var(--spacing-xl) * -1) var(--spacing-xl);
+  padding-top: calc(var(--header-height) + var(--spacing-2xl));
+}
+
+.hero-emblem {
+  font-size: 4rem;
+  margin-bottom: var(--spacing-md);
+  text-shadow: 0 0 30px rgba(201, 162, 39, 0.5);
+}
+
+.hero-title {
+  font-size: 3.5rem;
+  color: var(--pf-gold);
+  margin: 0;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+}
+
+.hero-subtitle {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+  margin: var(--spacing-xs) 0 var(--spacing-md);
+}
+
+.hero-description {
+  font-size: 1.25rem;
+  color: var(--text-secondary);
+  max-width: 600px;
+  margin: 0 auto var(--spacing-xl);
+}
+
+.hero-actions {
+  display: flex;
+  gap: var(--spacing-md);
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-md) var(--spacing-lg);
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--pf-red) 0%, var(--pf-red-dark) 100%);
+  color: var(--pf-gold);
+  border: 2px solid var(--pf-gold-dark);
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, var(--pf-red-light) 0%, var(--pf-red) 100%);
+  box-shadow: var(--shadow-glow);
+  text-decoration: none;
+}
+
+.btn-secondary {
+  background: var(--bg-card);
+  color: var(--text-primary);
+  border: 2px solid var(--border-secondary);
+}
+
+.btn-secondary:hover {
+  border-color: var(--pf-gold-dark);
+  color: var(--pf-gold);
+}
+
+/* Quick Links */
+.quick-links {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.quick-links h2 {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.feature-card {
+  display: block;
+  padding: var(--spacing-lg);
+  background: var(--bg-card);
+  border: 1px solid var(--border-primary);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.feature-card:hover {
+  border-color: var(--pf-gold-dark);
+  box-shadow: var(--shadow-md), var(--shadow-glow);
+  transform: translateY(-4px);
+  text-decoration: none;
+}
+
+.feature-card .card-icon {
+  display: block;
+  font-size: 2rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.feature-card h3 {
+  margin: 0 0 var(--spacing-xs);
+  color: var(--pf-gold);
+}
+
+.feature-card p {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+/* Quick Start */
+.quick-start {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.quick-start h2 {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.steps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--spacing-lg);
+}
+
+.step-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-primary);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-lg);
+  position: relative;
+}
+
+.step-number {
+  position: absolute;
+  top: var(--spacing-md);
+  right: var(--spacing-md);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--pf-red);
+  color: var(--pf-gold);
+  font-family: var(--font-display);
+  font-weight: 700;
+  border-radius: 50%;
+  border: 2px solid var(--pf-gold-dark);
+}
+
+.step-card h3 {
+  margin-top: 0;
+  color: var(--pf-gold);
+}
+
+.step-card p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.step-card a {
+  font-size: 0.875rem;
+}
+
+/* Reference Section */
+.reference-section {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.reference-section h2 {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.reference-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.reference-card {
+  display: block;
+  padding: var(--spacing-md);
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-primary);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.reference-card:hover {
+  border-color: var(--pf-gold-dark);
+  text-decoration: none;
+}
+
+.reference-card h3 {
+  margin: 0 0 var(--spacing-xs);
+  font-size: 1rem;
+  color: var(--text-primary);
+}
+
+.reference-card p {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .hero-section {
+    padding: var(--spacing-xl) var(--spacing-md);
+  }
+}
+</style>

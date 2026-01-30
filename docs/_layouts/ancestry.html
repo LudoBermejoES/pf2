@@ -1,0 +1,97 @@
+---
+layout: default
+---
+<article class="ancestry-page">
+  <header class="ancestry-header">
+    <div class="ancestry-icon">
+      {% if page.icon %}{{ page.icon }}{% else %}👤{% endif %}
+    </div>
+    <div class="ancestry-title">
+      <span class="chapter-badge">Ascendencia</span>
+      <h1>{{ page.title }}</h1>
+    </div>
+  </header>
+
+  {% if page.stats %}
+  <aside class="stat-block">
+    <h3>Estadísticas</h3>
+    <dl>
+      {% if page.stats.hp %}
+      <dt>Puntos de Golpe</dt>
+      <dd>{{ page.stats.hp }}</dd>
+      {% endif %}
+      {% if page.stats.size %}
+      <dt>Tamaño</dt>
+      <dd>{{ page.stats.size }}</dd>
+      {% endif %}
+      {% if page.stats.speed %}
+      <dt>Velocidad</dt>
+      <dd>{{ page.stats.speed }}</dd>
+      {% endif %}
+      {% if page.stats.boosts %}
+      <dt>Mejoras de Atributo</dt>
+      <dd>{{ page.stats.boosts | join: ", " }}</dd>
+      {% endif %}
+      {% if page.stats.flaws %}
+      <dt>Defectos</dt>
+      <dd>{{ page.stats.flaws | join: ", " }}</dd>
+      {% endif %}
+      {% if page.stats.languages %}
+      <dt>Idiomas</dt>
+      <dd>{{ page.stats.languages | join: ", " }}</dd>
+      {% endif %}
+      {% if page.stats.traits %}
+      <dt>Rasgos</dt>
+      <dd>
+        {% for trait in page.stats.traits %}
+        <span class="trait-tag">{{ trait }}</span>
+        {% endfor %}
+      </dd>
+      {% endif %}
+    </dl>
+  </aside>
+  {% endif %}
+
+  <div class="ancestry-content">
+    {{ content }}
+  </div>
+
+  {% if page.heritages %}
+  <section class="heritages-section">
+    <h2>Herencias</h2>
+    <div class="heritage-grid">
+      {% for heritage in page.heritages %}
+      <div class="heritage-card">
+        <h3>{{ heritage.name }}</h3>
+        <p>{{ heritage.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.feats %}
+  <section class="feats-section">
+    <h2>Dotes de Ascendencia</h2>
+    {% for feat in page.feats %}
+    <div class="feat-block" data-level="{{ feat.level }}">
+      <div class="feat-header">
+        <h3>{{ feat.name }}</h3>
+        <span class="feat-level">Nivel {{ feat.level }}</span>
+        {% if feat.actions %}
+        <span class="action-cost">{{ feat.actions }}</span>
+        {% endif %}
+      </div>
+      {% if feat.traits %}
+      <div class="feat-traits">
+        {% for trait in feat.traits %}
+        <span class="trait-tag">{{ trait }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      <p>{{ feat.description }}</p>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+</article>

@@ -1,0 +1,140 @@
+# Pathfinder 2 Player Core - Jekyll Configuration
+title: "Pathfinder 2 - Player Core"
+description: "Guía completa del jugador para Pathfinder Segunda Edición"
+url: ""
+baseurl: ""
+lang: es
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Theme settings
+remote_theme: null
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections for organized content
+collections:
+  introduccion:
+    output: true
+    permalink: /introduccion/:name/
+  ascendencias:
+    output: true
+    permalink: /ascendencias/:path/
+  clases:
+    output: true
+    permalink: /clases/:path/
+  habilidades:
+    output: true
+    permalink: /habilidades/:name/
+  dotes:
+    output: true
+    permalink: /dotes/:name/
+  equipo:
+    output: true
+    permalink: /equipo/:name/
+  conjuros:
+    output: true
+    permalink: /conjuros/:path/
+  reglas:
+    output: true
+    permalink: /reglas/:name/
+  apendices:
+    output: true
+    permalink: /apendices/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "introduccion"
+    values:
+      layout: page
+      chapter: "Introducción"
+  - scope:
+      path: ""
+      type: "ascendencias"
+    values:
+      layout: page
+      chapter: "Ascendencias"
+  - scope:
+      path: ""
+      type: "clases"
+    values:
+      layout: page
+      chapter: "Clases"
+  - scope:
+      path: ""
+      type: "habilidades"
+    values:
+      layout: page
+      chapter: "Habilidades"
+  - scope:
+      path: ""
+      type: "dotes"
+    values:
+      layout: page
+      chapter: "Dotes"
+  - scope:
+      path: ""
+      type: "equipo"
+    values:
+      layout: page
+      chapter: "Equipo"
+  - scope:
+      path: ""
+      type: "conjuros"
+    values:
+      layout: page
+      chapter: "Conjuros"
+  - scope:
+      path: ""
+      type: "reglas"
+    values:
+      layout: page
+      chapter: "Cómo Jugar"
+  - scope:
+      path: ""
+      type: "apendices"
+    values:
+      layout: page
+      chapter: "Apéndices"
+
+# Include hidden files for collection processing
+include:
+  - _introduccion
+  - _ascendencias
+  - _clases
+  - _habilidades
+  - _dotes
+  - _equipo
+  - _conjuros
+  - _reglas
+  - _apendices
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - player_core
+  - README.md
+  - scripts
+  - "*.py"
+
+# Search settings
+search:
+  enabled: true
