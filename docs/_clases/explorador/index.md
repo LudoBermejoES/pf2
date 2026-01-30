@@ -7,7 +7,7 @@ chapter: Clases
 
 El explorador es un cazador y rastreador consumado, capaz de perseguir a su presa a través de cualquier terreno. Ya sea que rastrees bestias salvajes en la naturaleza o aceches criminales en las calles de la ciudad, tus habilidades de caza son incomparables.
 
-![Explorador]({{ '/assets/images/archetypes/Archetype_Ranger.webp' | relative_url }})
+![Explorador]({{ '/assets/images/clases/explorador.png' | relative_url }})
 
 ## Enlaces
 
