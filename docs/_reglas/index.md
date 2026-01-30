@@ -1,29 +1,35 @@
 ---
-layout: page
+layout: section
 title: "Cómo Jugar"
-description: "Contenido del capítulo Cómo Jugar"
----
-
-# Cómo Jugar
-
-Contenido del capítulo Cómo Jugar
-
-## Contenido
-
-- [Acciones basicas](/reglas/acciones-basicas/)
-- [Acciones Basicas de Especialidad](/reglas/acciones-especialidad/)
-- [Acciones](/reglas/acciones/)
-- [Aflicciones](/reglas/aflicciones/)
-- [Ataques y Defensas](/reglas/ataques-defensas/)
-- [Batallas especiales](/reglas/batallas-especiales/)
-- [Cobertura y Flanqueo](/reglas/cobertura-flanqueo/)
-- [Daño](/reglas/dano/)
-- [Efectos](/reglas/efectos/)
-- [Capítulo 8: Cómo se juega](/reglas/introduccion/)
-- [Modo de Encuentro](/reglas/modo-encuentro/)
-- [Modo de Exploración](/reglas/modo-exploracion/)
-- [Modo de Tiempo Libre](/reglas/modo-tiempo-libre/)
-- [Movimiento](/reglas/movimiento/)
-- [Percepcion y Deteccion](/reglas/percepcion-deteccion/)
-- [Pruebas](/reglas/pruebas/)
-- [Puntos de Golpe, Curación y Moribundo](/reglas/puntos-golpe/)
+description: "Las reglas completas de Pathfinder 2, desde acciones básicas hasta combate avanzado"
+list_items:
+  - title: "Introducción"
+    description: "Los tres modos de juego y conceptos fundamentales"
+    url: "/reglas/introduccion/"
+  - title: "Modo Encuentro"
+    description: "Combate táctico con economia de acciones"
+    url: "/reglas/modo-encuentro/"
+  - title: "Acciones"
+    description: "Sistema de 3 acciones por ronda"
+    url: "/reglas/acciones/"
+  - title: "Ataques y Defensas"
+    description: "Cómo atacar, esquivar y defenderse"
+    url: "/reglas/ataques-defensas/"
+  - title: "Daño"
+    description: "Cálculo de daño y sus efectos"
+    url: "/reglas/dano/"
+  - title: "Movimiento"
+    description: "Sistema de movimiento táctico"
+    url: "/reglas/movimiento/"
+  - title: "Puntos de Golpe"
+    description: "Salud, curación y estados de muerte"
+    url: "/reglas/puntos-golpe/"
+  - title: "Modo Exploración"
+    description: "Explorar, buscar e interactuar"
+    url: "/reglas/modo-exploracion/"
+  - title: "Modo Tiempo Libre"
+    description: "Actividades fuera de la aventura"
+    url: "/reglas/modo-tiempo-libre/"
+  - title: "Aflicciones"
+    description: "Estados perjudiciales y condiciones"
+    url: "/reglas/aflicciones/"

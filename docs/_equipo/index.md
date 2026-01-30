@@ -1,17 +1,20 @@
 ---
-layout: page
+layout: section
 title: "Equipo"
-description: "Contenido del capítulo Equipo"
----
-
-# Equipo
-
-Contenido del capítulo Equipo
-
-## Contenido
-
-- [Armaduras](/equipo/armaduras/)
-- [Armas](/equipo/armas/)
-- [Escudos](/equipo/escudos/)
-- [Introduccion al Equipo](/equipo/introduccion/)
-- [Objetos](/equipo/objetos/)
+description: "El equipo de tu personaje es fundamental para la aventura. Armas, armaduras y objetos mágicos"
+list_items:
+  - title: "Introducción al Equipo"
+    description: "Sistema de monedas y capacidad de carga"
+    url: "/equipo/introduccion/"
+  - title: "Armas"
+    description: "Armas de combate con estadísticas y propiedades"
+    url: "/equipo/armas/"
+  - title: "Armaduras"
+    description: "Protecciones corporales y especiales"
+    url: "/equipo/armaduras/"
+  - title: "Escudos"
+    description: "Escudos y defensas portátiles"
+    url: "/equipo/escudos/"
+  - title: "Objetos"
+    description: "Objetos mágicos, pociones y herramientas"
+    url: "/equipo/objetos/"
