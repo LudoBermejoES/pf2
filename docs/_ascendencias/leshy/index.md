@@ -9,6 +9,6 @@ Los leshys son espiritus inmortales de la Naturaleza a los que temporalmente se 
 
 ## Información
 
-- [Descripción](/ascendencias/leshy/descripcion/)
-- [Dotes](/ascendencias/leshy/dotes/)
-- [Herencias](/ascendencias/leshy/herencias/)
+- [Descripción]({{ '/ascendencias/leshy/descripcion/' | relative_url }})
+- [Dotes]({{ '/ascendencias/leshy/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/leshy/herencias/' | relative_url }})

@@ -9,6 +9,6 @@ El explorador es un cazador y rastreador consumado, capaz de perseguir a su pres
 
 ## Enlaces
 
-- [Descripción](/clases/explorador/descripcion/)
-- [Características](/clases/explorador/caracteristicas/)
-- [Dotes](/clases/explorador/dotes/)
+- [Descripción]({{ '/clases/explorador/descripcion/' | relative_url }})
+- [Características]({{ '/clases/explorador/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/explorador/dotes/' | relative_url }})

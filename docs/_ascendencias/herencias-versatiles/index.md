@@ -9,7 +9,7 @@ Golarion alberga una gran variedad de herencias versátiles. Algunas han nacido 
 
 ## Información
 
-- [Introducción](/ascendencias/herencias-versatiles/introduccion/)
-- [Ascendencia Mixta](/ascendencias/herencias-versatiles/ascendencia-mixta/)
-- [Changeling](/ascendencias/herencias-versatiles/changeling/)
-- [Nefilim](/ascendencias/herencias-versatiles/nefilim/)
+- [Introducción]({{ '/ascendencias/herencias-versatiles/introduccion/' | relative_url }})
+- [Ascendencia Mixta]({{ '/ascendencias/herencias-versatiles/ascendencia-mixta/' | relative_url }})
+- [Changeling]({{ '/ascendencias/herencias-versatiles/changeling/' | relative_url }})
+- [Nefilim]({{ '/ascendencias/herencias-versatiles/nefilim/' | relative_url }})

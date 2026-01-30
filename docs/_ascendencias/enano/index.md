@@ -9,6 +9,6 @@ Los enanos tienen una bien merecida reputacion como gente estoica y severa, pero
 
 ## Información
 
-- [Descripción](/ascendencias/enano/descripcion/)
-- [Dotes](/ascendencias/enano/dotes/)
-- [Herencias](/ascendencias/enano/herencias/)
+- [Descripción]({{ '/ascendencias/enano/descripcion/' | relative_url }})
+- [Dotes]({{ '/ascendencias/enano/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/enano/herencias/' | relative_url }})

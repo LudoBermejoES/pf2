@@ -9,6 +9,6 @@ Sin reclamar ningún lugar como propio, los medianos controlan pocos asentamient
 
 ## Información
 
-- [Descripción](/ascendencias/mediano/descripcion/)
-- [Dotes](/ascendencias/mediano/dotes/)
-- [Herencias](/ascendencias/mediano/herencias/)
+- [Descripción]({{ '/ascendencias/mediano/descripcion/' | relative_url }})
+- [Dotes]({{ '/ascendencias/mediano/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/mediano/herencias/' | relative_url }})

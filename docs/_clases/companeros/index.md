@@ -9,5 +9,5 @@ Los compañeros animales son bestias leales que luchan junto a su amo. Esta secc
 
 ## Enlaces
 
-- [Animales](/clases/companeros/animales/)
-- [Familiares](/clases/companeros/familiares/)
+- [Animales]({{ '/clases/companeros/animales/' | relative_url }})
+- [Familiares]({{ '/clases/companeros/familiares/' | relative_url }})

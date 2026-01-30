@@ -8,8 +8,8 @@ Contenido del capítulo Equipo
 
 ## Contenido
 
-- [Armaduras](/equipo/armaduras/)
-- [Armas](/equipo/armas/)
-- [Escudos](/equipo/escudos/)
-- [Introduccion al Equipo](/equipo/introduccion/)
-- [Objetos](/equipo/objetos/)
+- [Armaduras]({{ '/equipo/armaduras/' | relative_url }})
+- [Armas]({{ '/equipo/armas/' | relative_url }})
+- [Escudos]({{ '/equipo/escudos/' | relative_url }})
+- [Introduccion al Equipo]({{ '/equipo/introduccion/' | relative_url }})
+- [Objetos]({{ '/equipo/objetos/' | relative_url }})

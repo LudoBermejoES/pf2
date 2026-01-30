@@ -9,5 +9,5 @@ Obtienes un arquetipo seleccionando dotes de arquetipo en lugar de dotes normale
 
 ## Enlaces
 
-- [Introducción](/clases/arquetipos/introduccion/)
-- [Multiclase](/clases/arquetipos/multiclase/)
+- [Introducción]({{ '/clases/arquetipos/introduccion/' | relative_url }})
+- [Multiclase]({{ '/clases/arquetipos/multiclase/' | relative_url }})

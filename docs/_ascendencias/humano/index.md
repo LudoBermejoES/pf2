@@ -9,6 +9,6 @@ Tan impredecibles y variados como cualquiera de los pueblos de Golarion, los hum
 
 ## Información
 
-- [Descripción](/ascendencias/humano/descripcion/)
-- [Dotes](/ascendencias/humano/dotes/)
-- [Herencias](/ascendencias/humano/herencias/)
+- [Descripción]({{ '/ascendencias/humano/descripcion/' | relative_url }})
+- [Dotes]({{ '/ascendencias/humano/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/humano/herencias/' | relative_url }})

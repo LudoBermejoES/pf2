@@ -9,6 +9,6 @@ Como pueblo antiguo que son, los elfos han visto grandes cambios y disponen de l
 
 ## Información
 
-- [Descripción](/ascendencias/elfo/descripcion/)
-- [Dotes](/ascendencias/elfo/dotes/)
-- [Herencias](/ascendencias/elfo/herencias/)
+- [Descripción]({{ '/ascendencias/elfo/descripcion/' | relative_url }})
+- [Dotes]({{ '/ascendencias/elfo/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/elfo/herencias/' | relative_url }})

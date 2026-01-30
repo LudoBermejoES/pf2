@@ -9,6 +9,6 @@ Los orcos se forjan en los fuegos de la violencia y el conflicto, normalmente de
 
 ## Información
 
-- [Descripción](/ascendencias/orco/descripcion/)
-- [Dotes](/ascendencias/orco/dotes/)
-- [Herencias](/ascendencias/orco/herencias/)
+- [Descripción]({{ '/ascendencias/orco/descripcion/' | relative_url }})
+- [Dotes]({{ '/ascendencias/orco/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/orco/herencias/' | relative_url }})

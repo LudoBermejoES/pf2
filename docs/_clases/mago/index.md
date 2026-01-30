@@ -9,6 +9,6 @@ Eres un alumno eterno de los secretos arcanos del universo y utilizas tu dominio
 
 ## Enlaces
 
-- [Descripción](/clases/mago/descripcion/)
-- [Características](/clases/mago/caracteristicas/)
-- [Dotes](/clases/mago/dotes/)
+- [Descripción]({{ '/clases/mago/descripcion/' | relative_url }})
+- [Características]({{ '/clases/mago/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/mago/dotes/' | relative_url }})

@@ -9,6 +9,6 @@ Hace mucho, los antepasados de los gnomos emigraron procedentes del Primer Mundo
 
 ## Información
 
-- [Descripción](/ascendencias/gnomo/descripcion/)
-- [Dotes](/ascendencias/gnomo/dotes/)
-- [Herencias](/ascendencias/gnomo/herencias/)
+- [Descripción]({{ '/ascendencias/gnomo/descripcion/' | relative_url }})
+- [Dotes]({{ '/ascendencias/gnomo/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/gnomo/herencias/' | relative_url }})

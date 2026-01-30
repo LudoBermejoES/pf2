@@ -9,6 +9,6 @@ Los clerigos son siervos mortales de los dioses, canalizando el poder divino par
 
 ## Enlaces
 
-- [Descripción](/clases/clerigo/descripcion/)
-- [Características](/clases/clerigo/caracteristicas/)
-- [Dotes](/clases/clerigo/dotes/)
+- [Descripción]({{ '/clases/clerigo/descripcion/' | relative_url }})
+- [Características]({{ '/clases/clerigo/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/clerigo/dotes/' | relative_url }})

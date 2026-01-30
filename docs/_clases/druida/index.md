@@ -9,6 +9,6 @@ El poder de la Naturaleza es imposible de resistir. Es capaz de reducir a escomb
 
 ## Enlaces
 
-- [Descripción](/clases/druida/descripcion/)
-- [Características](/clases/druida/caracteristicas/)
-- [Dotes](/clases/druida/dotes/)
+- [Descripción]({{ '/clases/druida/descripcion/' | relative_url }})
+- [Características]({{ '/clases/druida/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/druida/dotes/' | relative_url }})

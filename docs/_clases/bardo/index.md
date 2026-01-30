@@ -9,6 +9,6 @@ Eres un maestro del arte, un erudito de los secretos ocultos y un persuasor que 
 
 ## Enlaces
 
-- [Descripción](/clases/bardo/descripcion/)
-- [Características](/clases/bardo/caracteristicas/)
-- [Dotes](/clases/bardo/dotes/)
+- [Descripción]({{ '/clases/bardo/descripcion/' | relative_url }})
+- [Características]({{ '/clases/bardo/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/bardo/dotes/' | relative_url }})

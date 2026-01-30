@@ -9,6 +9,6 @@ Las retorcidas historias a las que se aferra otra gente no interesan a los gobli
 
 ## Información
 
-- [Descripción](/ascendencias/goblin/descripcion/)
-- [Dotes](/ascendencias/goblin/dotes/)
-- [Herencias](/ascendencias/goblin/herencias/)
+- [Descripción]({{ '/ascendencias/goblin/descripcion/' | relative_url }})
+- [Dotes]({{ '/ascendencias/goblin/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/goblin/herencias/' | relative_url }})

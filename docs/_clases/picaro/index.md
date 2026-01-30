@@ -9,6 +9,6 @@ Eres habil y oportunista. Utilizando tu aguda inteligencia y tus rapidas reaccio
 
 ## Enlaces
 
-- [Descripción](/clases/picaro/descripcion/)
-- [Características](/clases/picaro/caracteristicas/)
-- [Dotes](/clases/picaro/dotes/)
+- [Descripción]({{ '/clases/picaro/descripcion/' | relative_url }})
+- [Características]({{ '/clases/picaro/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/picaro/dotes/' | relative_url }})

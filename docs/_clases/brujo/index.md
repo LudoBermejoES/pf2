@@ -9,6 +9,6 @@ Los dioses obran su voluntad sobre el mundo de infinitas formas, pero no naciste
 
 ## Enlaces
 
-- [Descripción](/clases/brujo/descripcion/)
-- [Características](/clases/brujo/caracteristicas/)
-- [Dotes](/clases/brujo/dotes/)
+- [Descripción]({{ '/clases/brujo/descripcion/' | relative_url }})
+- [Características]({{ '/clases/brujo/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/brujo/dotes/' | relative_url }})

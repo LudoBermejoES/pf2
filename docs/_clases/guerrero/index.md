@@ -9,6 +9,6 @@ Luchas por aquellos que no pueden luchar por sí mismos. Eres un maestro de las 
 
 ## Enlaces
 
-- [Descripción](/clases/guerrero/descripcion/)
-- [Características](/clases/guerrero/caracteristicas/)
-- [Dotes](/clases/guerrero/dotes/)
+- [Descripción]({{ '/clases/guerrero/descripcion/' | relative_url }})
+- [Características]({{ '/clases/guerrero/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/guerrero/dotes/' | relative_url }})
