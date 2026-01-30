@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /clases/arquetipos/multiclase/ "page"
-title: "Arquetipos de multiclase"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/arquetipos/multiclase/
+title: Arquetipos de multiclase
+chapter: Clases
+category: clases
 nav_order: 2
 ---
 

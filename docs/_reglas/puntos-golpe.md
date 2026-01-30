@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/puntos-golpe/ "page"
-title: "Puntos de Golpe, Curación y Moribundo"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/puntos-golpe/
+title: Puntos de Golpe, Curación y Moribundo
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

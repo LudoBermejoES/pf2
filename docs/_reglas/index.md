@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /reglas/
-title: "Cómo Jugar"
-description: "Contenido del capítulo Cómo Jugar"
+title: Cómo Jugar
+description: Contenido del capítulo Cómo Jugar
 ---
 
 Contenido del capítulo Cómo Jugar

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/sigilo/ "page"
-title: "Sigilo (Des)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/sigilo/
+title: Sigilo (Des)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/acciones-basicas/ "page"
-title: "Acciones basicas"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/acciones-basicas/
+title: Acciones basicas
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

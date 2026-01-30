@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/sociedad/ "page"
-title: "Sociedad (Int)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/sociedad/
+title: Sociedad (Int)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

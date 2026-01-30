@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/picaro/descripcion/ "page"
-title: "Picaro"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/picaro/descripcion/
+title: Picaro
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Pícaro"
+class_name: Pícaro
 ---
 
 Eres habil y oportunista. Utilizando tu aguda inteligencia y tus rapidas reacciones, sacas partido de los pasos en falso de tu oponente y pegas donde mas duele. Tu juego es peligroso, buscando emociones y poniendo a prueba tus habilidades sin que probablemente te preocupen demasiado las leyes que se interpongan en tu camino. Si bien la senda de cada picaro es unica y esta salpicada de peligros, lo que teneis todos en comun es la amplitud y la profundidad de vuestras habilidades.

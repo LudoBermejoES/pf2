@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/guerrero/dotes/ "page"
-title: "Dotes de Guerrero"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/guerrero/dotes/
+title: Dotes de Guerrero
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Guerrero"
+class_name: Guerrero
 ---
 
 En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de las siguientes dotes. Has de cumplir cualquier prerrequisito antes de elegirla.

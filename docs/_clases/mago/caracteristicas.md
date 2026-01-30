@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/mago/caracteristicas/ "page"
-title: "Caracteristicas del Mago"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/mago/caracteristicas/
+title: Caracteristicas del Mago
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Mago"
+class_name: Mago
 ---
 
 ## Tabla de Avance del Mago

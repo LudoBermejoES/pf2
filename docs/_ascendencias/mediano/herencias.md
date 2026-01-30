@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /ascendencias/mediano/herencias/ "page"
-title: "Herencias para Medianos"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/mediano/herencias/
+title: Herencias para Medianos
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
-ancestry: "Mediano"
+ancestry: Mediano
 ---
 
 Diseminados por todo el país, los medianos de diferentes herencias podrían aparecer en regiones lejos de donde han vivido sus antepasados. Elige una de las siguientes herencias para medianos a 1.er nivel.

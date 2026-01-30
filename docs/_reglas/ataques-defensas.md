@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/ataques-defensas/ "page"
-title: "Ataques y Defensas"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/ataques-defensas/
+title: Ataques y Defensas
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/introduccion/ "page"
-title: "Capítulo 8: Cómo se juega"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/introduccion/
+title: Capítulo 8: Cómo se juega
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

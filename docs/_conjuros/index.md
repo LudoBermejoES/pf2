@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /conjuros/
-title: "Conjuros"
-description: "Contenido del capítulo Conjuros"
+title: Conjuros
+description: Contenido del capítulo Conjuros
 ---
 
 Contenido del capítulo Conjuros

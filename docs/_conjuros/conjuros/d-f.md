@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/conjuros/d-f/ "page"
-title: "Conjuros D-F"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/conjuros/d-f/
+title: Conjuros D-F
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

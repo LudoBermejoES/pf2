@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/batallas-especiales/ "page"
-title: "Batallas especiales"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/batallas-especiales/
+title: Batallas especiales
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

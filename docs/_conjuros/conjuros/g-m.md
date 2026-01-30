@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/conjuros/g-m/ "page"
-title: "Conjuros G-M"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/conjuros/g-m/
+title: Conjuros G-M
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/herramientas/ "page"
-title: "Herramientas de Juego"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/herramientas/
+title: Herramientas de Juego
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

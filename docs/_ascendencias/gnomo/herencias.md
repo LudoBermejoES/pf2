@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /ascendencias/gnomo/herencias/ "page"
-title: "Herencias para Gnomos"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/gnomo/herencias/
+title: Herencias para Gnomos
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
-ancestry: "Gnomo"
+ancestry: Gnomo
 ---
 
 Como corresponde a una colección de excéntricos, las herencias para gnomos no vienen a menudo determinadas por la geografía sino por alguna peculiaridad de la magia. Elige una de las siguientes herencias para gnomos a 1.er nivel.

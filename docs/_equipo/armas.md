@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /equipo/armas/ "page"
-title: "Armas"
-chapter: "Equipo"
-category: "equipo"
+layout: page
+permalink: /equipo/armas/
+title: Armas
+chapter: Equipo
+category: equipo
 nav_order: 5
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /equipo/objetos/ "page"
-title: "Objetos"
-chapter: "Equipo"
-category: "equipo"
+layout: page
+permalink: /equipo/objetos/
+title: Objetos
+chapter: Equipo
+category: equipo
 nav_order: 5
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/supervivencia/ "page"
-title: "Supervivencia (Sab)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/supervivencia/
+title: Supervivencia (Sab)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

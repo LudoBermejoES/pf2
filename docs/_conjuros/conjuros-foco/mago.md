@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/conjuros-foco/mago/ "page"
-title: "Conjuros de Foco: Mago"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/conjuros-foco/mago/
+title: Conjuros de Foco: Mago
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

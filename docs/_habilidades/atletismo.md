@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/atletismo/ "page"
-title: "Atletismo (Fue)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/atletismo/
+title: Atletismo (Fue)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/introduccion/ "page"
-title: "Conjuros - Introduccion"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/introduccion/
+title: Conjuros - Introduccion
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/intimidacion/ "page"
-title: "Intimidacion (Car)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/intimidacion/
+title: Intimidacion (Car)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

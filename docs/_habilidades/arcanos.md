@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/arcanos/ "page"
-title: "Arcanos (Int)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/arcanos/
+title: Arcanos (Int)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

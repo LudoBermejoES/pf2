@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/conjuros-foco/clerigo/ "page"
-title: "Conjuros de Foco: Clérigo"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/conjuros-foco/clerigo/
+title: Conjuros de Foco: Clérigo
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

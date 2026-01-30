@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /ascendencias/idiomas/ "page"
-title: "Idiomas"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/idiomas/
+title: Idiomas
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
 ---
 

@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /ascendencias/goblin/dotes/ "page"
-title: "Dotes de Ascendencia: Goblin"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/goblin/dotes/
+title: Dotes de Ascendencia: Goblin
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
-ancestry: "Goblin"
+ancestry: Goblin
 ---
 
 A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles posteriores (en 5.o, 9.o, 13.o y 17.o nivel). Como goblin, puedes seleccionar de entre las siguientes dotes de ascendencia.

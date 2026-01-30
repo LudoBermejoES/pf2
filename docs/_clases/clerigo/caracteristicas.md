@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/clerigo/caracteristicas/ "page"
-title: "Caracteristicas del Clerigo"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/clerigo/caracteristicas/
+title: Caracteristicas del Clerigo
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Clérigo"
+class_name: Clérigo
 ---
 
 ## Tabla de Avance del Clerigo

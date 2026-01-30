@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/explorador/caracteristicas/ "page"
-title: "Caracteristicas del Explorador"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/explorador/caracteristicas/
+title: Caracteristicas del Explorador
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Explorador"
+class_name: Explorador
 ---
 
 ## Tabla de Avance del Explorador

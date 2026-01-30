@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/druida/caracteristicas/ "page"
-title: "Druida - Características de Clase"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/druida/caracteristicas/
+title: Druida - Características de Clase
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Druida"
+class_name: Druida
 ---
 
 ## Tabla de Avance del Druida

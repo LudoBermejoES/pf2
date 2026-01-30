@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/druida/descripcion/ "page"
-title: "Druida"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/druida/descripcion/
+title: Druida
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Druida"
+class_name: Druida
 ---
 
 El poder de la Naturaleza es imposible de resistir. Es capaz de reducir a escombros la más recia de las fortalezas, convirtiendo en ruinas incluso sus baluartes más resistentes, dejándolos en cenizas, enterrándolos bajo una avalancha de nieve o ahogándolos bajo las olas. Puede proporcionar un botín infinito y un esplendor impresionante a quienes la respetan... y una muerte agónica a quienes se la toman a la ligera. Eres uno de los que oyen la llamada de la Naturaleza. Contemplas embelesado la majestad de su poder y te pones a su servicio.

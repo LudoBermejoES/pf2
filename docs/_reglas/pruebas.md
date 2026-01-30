@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/pruebas/ "page"
-title: "Pruebas"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/pruebas/
+title: Pruebas
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

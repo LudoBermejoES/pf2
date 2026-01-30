@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/listas/primigenia/ "page"
-title: "Lista de Conjuros Primigenios"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/listas/primigenia/
+title: Lista de Conjuros Primigenios
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

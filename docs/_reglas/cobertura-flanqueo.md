@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/cobertura-flanqueo/ "page"
-title: "Cobertura y Flanqueo"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/cobertura-flanqueo/
+title: Cobertura y Flanqueo
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

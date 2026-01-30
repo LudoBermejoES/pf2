@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/modo-encuentro/ "page"
-title: "Modo de Encuentro"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/modo-encuentro/
+title: Modo de Encuentro
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

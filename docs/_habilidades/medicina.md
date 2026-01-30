@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/medicina/ "page"
-title: "Medicina (Sab)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/medicina/
+title: Medicina (Sab)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

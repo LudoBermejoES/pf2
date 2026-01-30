@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/como-se-juega/ "page"
-title: "Como se Juega"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/como-se-juega/
+title: Como se Juega
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

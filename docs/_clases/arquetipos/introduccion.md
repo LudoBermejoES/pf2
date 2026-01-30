@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /clases/arquetipos/introduccion/ "page"
-title: "Arquetipos"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/arquetipos/introduccion/
+title: Arquetipos
+chapter: Clases
+category: clases
 nav_order: 2
 ---
 

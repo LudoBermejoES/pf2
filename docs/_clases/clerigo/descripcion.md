@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/clerigo/descripcion/ "page"
-title: "Clerigo"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/clerigo/descripcion/
+title: Clerigo
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Clérigo"
+class_name: Clérigo
 ---
 
 Los clerigos son siervos mortales de los dioses, canalizando el poder divino para cumplir la voluntad de sus deidades. Ya sea mediante la curacion de los fieles, la destruccion de los enemigos de la fe o la difusion de la palabra sagrada, el clerigo es el conducto entre lo mortal y lo divino.

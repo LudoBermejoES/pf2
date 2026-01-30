@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/conjuros-foco/bardo/ "page"
-title: "Conjuros de Foco: Bardo"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/conjuros-foco/bardo/
+title: Conjuros de Foco: Bardo
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

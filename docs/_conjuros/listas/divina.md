@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/listas/divina/ "page"
-title: "Lista de Conjuros Divinos"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/listas/divina/
+title: Lista de Conjuros Divinos
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

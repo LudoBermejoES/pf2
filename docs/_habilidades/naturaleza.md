@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/naturaleza/ "page"
-title: "Naturaleza (Sab)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/naturaleza/
+title: Naturaleza (Sab)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

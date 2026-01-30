@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/tabla/ "page"
-title: "Tabla de Habilidades"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/tabla/
+title: Tabla de Habilidades
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

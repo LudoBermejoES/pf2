@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/listas/arcana/ "page"
-title: "Lista de Conjuros Arcanos"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/listas/arcana/
+title: Lista de Conjuros Arcanos
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/atributos/ "page"
-title: "Atributos"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/atributos/
+title: Atributos
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

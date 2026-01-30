@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/acciones/ "page"
-title: "Acciones"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/acciones/
+title: Acciones
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

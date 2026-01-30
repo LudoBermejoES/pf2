@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /ascendencias/
-title: "Ascendencias"
-description: "Contenido del capítulo Ascendencias"
+title: Ascendencias
+description: Contenido del capítulo Ascendencias
 ---
 
 Contenido del capítulo Ascendencias

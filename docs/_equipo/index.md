@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /equipo/
-title: "Equipo"
-description: "Contenido del capítulo Equipo"
+title: Equipo
+description: Contenido del capítulo Equipo
 ---
 
 Contenido del capítulo Equipo

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /ascendencias/herencias-versatiles/ascendencia-mixta/ "page"
-title: "Ascendencia Mixta"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/herencias-versatiles/ascendencia-mixta/
+title: Ascendencia Mixta
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
 ---
 

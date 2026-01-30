@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /ascendencias/mediano/dotes/ "page"
-title: "Dotes de Ascendencia: Mediano"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/mediano/dotes/
+title: Dotes de Ascendencia: Mediano
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
-ancestry: "Mediano"
+ancestry: Mediano
 ---
 
 A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles posteriores (en 5.º, 9.º, 13.º y 17.º nivel). Como mediano, seleccionas de entre las siguientes dotes de ascendencia.

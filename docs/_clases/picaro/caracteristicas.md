@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/picaro/caracteristicas/ "page"
-title: "Caracteristicas del Picaro"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/picaro/caracteristicas/
+title: Caracteristicas del Picaro
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Pícaro"
+class_name: Pícaro
 ---
 
 ## Tabla de Avance del Picaro

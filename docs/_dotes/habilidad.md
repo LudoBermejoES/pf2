@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /dotes/habilidad/ "page"
-title: "Dotes de Habilidad"
-chapter: "Dotes"
-category: "dotes"
+layout: page
+permalink: /dotes/habilidad/
+title: Dotes de Habilidad
+chapter: Dotes
+category: dotes
 nav_order: 4
 ---
 

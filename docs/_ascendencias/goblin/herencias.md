@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /ascendencias/goblin/herencias/ "page"
-title: "Herencias para Goblins"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/goblin/herencias/
+title: Herencias para Goblins
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
-ancestry: "Goblin"
+ancestry: Goblin
 ---
 
 Los goblins, especialmente los de tribus diferentes, tienen todo tipo de diferencias fisiologicas, que a menudo descubren tan solo mediante "experimentos" peligrosos. Elige una de las siguientes herencias para goblins a 1.er nivel.

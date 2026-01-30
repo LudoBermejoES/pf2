@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /ascendencias/bagajes/ "page"
-title: "Bagajes"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/bagajes/
+title: Bagajes
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
 ---
 

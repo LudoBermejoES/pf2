@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /ascendencias/herencias-versatiles/introduccion/ "page"
-title: "Herencias Versátiles"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/herencias-versatiles/introduccion/
+title: Herencias Versátiles
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
 ---
 

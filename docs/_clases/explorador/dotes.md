@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/explorador/dotes/ "page"
-title: "Dotes del Explorador"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/explorador/dotes/
+title: Dotes del Explorador
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Explorador"
+class_name: Explorador
 ---
 
 En cada nivel en el que obtienes una dote de explorador, puedes seleccionar una de las siguientes dotes. Has de cumplir cualquier prerrequisito antes de elegirla.

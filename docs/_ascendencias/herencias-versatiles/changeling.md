@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /ascendencias/herencias-versatiles/changeling/ "page"
-title: "Changeling"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/herencias-versatiles/changeling/
+title: Changeling
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
 ---
 

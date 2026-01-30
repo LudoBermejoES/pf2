@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /introduccion/
-title: "Introducción"
-description: "Contenido del capítulo Introducción"
+title: Introducción
+description: Contenido del capítulo Introducción
 ---
 
 Contenido del capítulo Introducción

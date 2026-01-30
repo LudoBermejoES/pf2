@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/diplomacia/ "page"
-title: "Diplomacia (Car)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/diplomacia/
+title: Diplomacia (Car)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

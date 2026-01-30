@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/movimiento/ "page"
-title: "Movimiento"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/movimiento/
+title: Movimiento
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

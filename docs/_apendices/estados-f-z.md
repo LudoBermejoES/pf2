@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /apendices/estados-f-z/ "page"
-title: "Estados (F-Z)"
-chapter: "Apéndices"
-category: "apendices"
+layout: page
+permalink: /apendices/estados-f-z/
+title: Estados (F-Z)
+chapter: Apéndices
+category: apendices
 nav_order: 8
 ---
 

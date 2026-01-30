@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/puntos-basicos/ "page"
-title: "Puntos Basicos del Juego"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/puntos-basicos/
+title: Puntos Basicos del Juego
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

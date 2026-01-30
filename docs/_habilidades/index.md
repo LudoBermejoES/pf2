@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /habilidades/
-title: "Habilidades"
-description: "Contenido del capítulo Habilidades"
+title: Habilidades
+description: Contenido del capítulo Habilidades
 ---
 
 Contenido del capítulo Habilidades

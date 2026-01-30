@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/brujo/dotes/ "page"
-title: "Dotes de Brujo"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/brujo/dotes/
+title: Dotes de Brujo
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Brujo"
+class_name: Brujo
 ---
 
 En cada nivel en el que obtienes una dote de brujo, puedes seleccionar una de las siguientes. Has de cumplir cualquier prerrequisito antes de elegirla.

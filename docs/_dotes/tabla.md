@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /dotes/tabla/ "page"
-title: "Tablas de Dotes"
-chapter: "Dotes"
-category: "dotes"
+layout: page
+permalink: /dotes/tabla/
+title: Tablas de Dotes
+chapter: Dotes
+category: dotes
 nav_order: 4
 ---
 

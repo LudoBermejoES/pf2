@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/brujo/caracteristicas/ "page"
-title: "Características del Brujo"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/brujo/caracteristicas/
+title: Características del Brujo
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Brujo"
+class_name: Brujo
 ---
 
 ## Tabla de avance del brujo

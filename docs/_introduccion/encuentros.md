@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/encuentros/ "page"
-title: "Encuentros"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/encuentros/
+title: Encuentros
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

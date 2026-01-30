@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/picaro/dotes/ "page"
-title: "Dotes de Picaro"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/picaro/dotes/
+title: Dotes de Picaro
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Pícaro"
+class_name: Pícaro
 ---
 
 En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de las siguientes dotes. Tienes que cumplir todos los requisitos antes de seleccionarla.

@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/druida/dotes/ "page"
-title: "Druida - Dotes de Clase"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/druida/dotes/
+title: Druida - Dotes de Clase
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Druida"
+class_name: Druida
 ---
 
 En cada nivel en el que obtienes una dote de druida, puedes seleccionar una de las siguientes. Tienes que cumplir todos los requisitos antes de seleccionarla.

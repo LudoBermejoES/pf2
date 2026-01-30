@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /clases/
-title: "Clases"
-description: "Contenido del capítulo Clases"
+title: Clases
+description: Contenido del capítulo Clases
 ---
 
 Contenido del capítulo Clases

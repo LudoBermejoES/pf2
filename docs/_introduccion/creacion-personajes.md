@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/creacion-personajes/ "page"
-title: "Creacion de Personajes"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/creacion-personajes/
+title: Creacion de Personajes
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

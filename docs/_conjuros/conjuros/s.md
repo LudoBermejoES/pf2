@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/conjuros/s/ "page"
-title: "Conjuros S"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/conjuros/s/
+title: Conjuros S
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

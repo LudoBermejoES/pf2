@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /clases/companeros/familiares/ "page"
-title: "Familiares"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/companeros/familiares/
+title: Familiares
+chapter: Clases
+category: clases
 nav_order: 2
 ---
 

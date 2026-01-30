@@ -1,9 +1,9 @@
 ---
-layout: "page"
+layout: page
 permalink: /reglas/modo-exploracion/
-title: "Modo de Exploración"
-chapter: "Cómo Jugar"
-category: "reglas"
+title: Modo de Exploración
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /equipo/introduccion/ "page"
-title: "Introduccion al Equipo"
-chapter: "Equipo"
-category: "equipo"
+layout: page
+permalink: /equipo/introduccion/
+title: Introduccion al Equipo
+chapter: Equipo
+category: equipo
 nav_order: 5
 ---
 

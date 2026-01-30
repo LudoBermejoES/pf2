@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /ascendencias/elfo/dotes/ "page"
-title: "Dotes de Ascendencia: Elfo"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/elfo/dotes/
+title: Dotes de Ascendencia: Elfo
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
-ancestry: "Elfo"
+ancestry: Elfo
 ---
 
 A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles posteriores (en 5.º, 9.º, 13.º y 17.º nivel). Como elfo, puedes elegir entre las siguientes dotes de ascendencia.

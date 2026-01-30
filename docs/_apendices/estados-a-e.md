@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /apendices/estados-a-e/ "page"
-title: "Apendice de estados"
-chapter: "Apéndices"
-category: "apendices"
+layout: page
+permalink: /apendices/estados-a-e/
+title: Apendice de estados
+chapter: Apéndices
+category: apendices
 nav_order: 8
 ---
 

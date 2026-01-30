@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/subir-nivel/ "page"
-title: "Subir de Nivel"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/subir-nivel/
+title: Subir de Nivel
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

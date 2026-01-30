@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/engano/ "page"
-title: "Engano (Car)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/engano/
+title: Engano (Car)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

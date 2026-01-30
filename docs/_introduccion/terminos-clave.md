@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/terminos-clave/ "page"
-title: "Terminos Clave"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/terminos-clave/
+title: Terminos Clave
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

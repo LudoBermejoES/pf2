@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /ascendencias/herencias-versatiles/nefilim/ "page"
-title: "Nefilim"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/herencias-versatiles/nefilim/
+title: Nefilim
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
 ---
 

@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/clerigo/dotes/ "page"
-title: "Dotes de Clerigo"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/clerigo/dotes/
+title: Dotes de Clerigo
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Clérigo"
+class_name: Clérigo
 ---
 
 A cada nivel en el que obtienes una dote de clerigo, puedes seleccionar una de las siguientes. Debes cumplir todos los requisitos antes de seleccionarla.

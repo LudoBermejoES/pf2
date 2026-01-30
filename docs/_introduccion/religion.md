@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/religion/ "page"
-title: "Religion"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/religion/
+title: Religion
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

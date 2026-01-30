@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/interpretacion/ "page"
-title: "Interpretacion (Car)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/interpretacion/
+title: Interpretacion (Car)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

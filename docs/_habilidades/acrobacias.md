@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/acrobacias/ "page"
-title: "Acrobacias (Des)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/acrobacias/
+title: Acrobacias (Des)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/latrocinio/ "page"
-title: "Latrocinio (Des)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/latrocinio/
+title: Latrocinio (Des)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

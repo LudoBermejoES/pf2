@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/guerrero/caracteristicas/ "page"
-title: "Características del Guerrero"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/guerrero/caracteristicas/
+title: Características del Guerrero
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Guerrero"
+class_name: Guerrero
 ---
 
 ## Tabla de Avance del Guerrero

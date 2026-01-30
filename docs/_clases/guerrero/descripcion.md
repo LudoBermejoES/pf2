@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/guerrero/descripcion/ "page"
-title: "Guerrero"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/guerrero/descripcion/
+title: Guerrero
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Guerrero"
+class_name: Guerrero
 ---
 
 Luchas por aquellos que no pueden luchar por sí mismos. Eres un maestro de las artes marciales y utilizas tu experiencia en el combate para proteger a los inocentes. Sea cual sea tu formación, has perfeccionado tus habilidades hasta convertirte en un combatiente formidable.

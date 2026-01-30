@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /dotes/generales/ "page"
-title: "Dotes Generales"
-chapter: "Dotes"
-category: "dotes"
+layout: page
+permalink: /dotes/generales/
+title: Dotes Generales
+chapter: Dotes
+category: dotes
 nav_order: 4
 ---
 

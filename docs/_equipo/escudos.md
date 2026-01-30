@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /equipo/escudos/ "page"
-title: "Escudos"
-chapter: "Equipo"
-category: "equipo"
+layout: page
+permalink: /equipo/escudos/
+title: Escudos
+chapter: Equipo
+category: equipo
 nav_order: 5
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/efectos/ "page"
-title: "Efectos"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/efectos/
+title: Efectos
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

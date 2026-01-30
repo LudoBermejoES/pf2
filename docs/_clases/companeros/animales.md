@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /clases/companeros/animales/ "page"
-title: "Compañeros Animales"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/companeros/animales/
+title: Compañeros Animales
+chapter: Clases
+category: clases
 nav_order: 2
 ---
 

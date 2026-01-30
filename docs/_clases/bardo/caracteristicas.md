@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/bardo/caracteristicas/ "page"
-title: "Caracteristicas del Bardo"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/bardo/caracteristicas/
+title: Caracteristicas del Bardo
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Bardo"
+class_name: Bardo
 ---
 
 ## Tabla de Avance del Bardo

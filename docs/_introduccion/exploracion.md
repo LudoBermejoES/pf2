@@ -1,9 +1,9 @@
 ---
-layout: "page"
+layout: page
 permalink: /introduccion/exploracion/
-title: "Exploracion"
-chapter: "Introducción"
-category: "introduccion"
+title: Exploracion
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

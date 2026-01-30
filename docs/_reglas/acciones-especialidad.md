@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/acciones-especialidad/ "page"
-title: "Acciones Basicas de Especialidad"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/acciones-especialidad/
+title: Acciones Basicas de Especialidad
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

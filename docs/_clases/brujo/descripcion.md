@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /clases/brujo/descripcion/ "page"
-title: "Brujo"
-chapter: "Clases"
-category: "clases"
+layout: page
+permalink: /clases/brujo/descripcion/
+title: Brujo
+chapter: Clases
+category: clases
 nav_order: 2
-class_name: "Brujo"
+class_name: Brujo
 ---
 
 Los dioses obran su voluntad sobre el mundo de infinitas formas, pero no naciste con el poder de lanzar conjuros, ni te has pasado años dedicado a la adoración, al estudio o al descubrimiento de secretos místicos. En su lugar, la magia te ha sido otorgada por parte de un ser poderoso, que sabe que potenciándote de esta forma harás avanzar sus planes en el mundo, sean cuales sean. Dicho ser es típicamente misterioso y distante, revelando muy poco acerca de su identidad y de sus motivaciones. Te hace saber su voluntad mediante signos abstractos como profecías, sueños o sutilezas similares en lugar de palabras.

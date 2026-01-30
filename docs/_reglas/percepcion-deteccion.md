@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/percepcion-deteccion/ "page"
-title: "Percepcion y Deteccion"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/percepcion-deteccion/
+title: Percepcion y Deteccion
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

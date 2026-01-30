@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/primera-regla/ "page"
-title: "La Primera Regla"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/primera-regla/
+title: La Primera Regla
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

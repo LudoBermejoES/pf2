@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /reglas/dano/ "page"
-title: "Daño"
-chapter: "Cómo Jugar"
-category: "reglas"
+layout: page
+permalink: /reglas/dano/
+title: Daño
+chapter: Cómo Jugar
+category: reglas
 nav_order: 7
 ---
 

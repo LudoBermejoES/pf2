@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/artesania/ "page"
-title: "Artesania (Int)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/artesania/
+title: Artesania (Int)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

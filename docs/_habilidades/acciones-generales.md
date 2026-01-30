@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/acciones-generales/ "page"
-title: "Acciones de Habilidad Generales"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/acciones-generales/
+title: Acciones de Habilidad Generales
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

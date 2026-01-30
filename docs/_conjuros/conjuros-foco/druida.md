@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/conjuros-foco/druida/ "page"
-title: "Conjuros de Foco: Druida"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/conjuros-foco/druida/
+title: Conjuros de Foco: Druida
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

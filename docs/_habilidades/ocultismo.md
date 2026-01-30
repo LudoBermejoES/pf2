@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/ocultismo/ "page"
-title: "Ocultismo (Int)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/ocultismo/
+title: Ocultismo (Int)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

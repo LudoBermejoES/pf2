@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /conjuros/rituales/rituales/ "page"
-title: "Rituales"
-chapter: "Conjuros"
-category: "conjuros"
+layout: page
+permalink: /conjuros/rituales/rituales/
+title: Rituales
+chapter: Conjuros
+category: conjuros
 nav_order: 6
 ---
 

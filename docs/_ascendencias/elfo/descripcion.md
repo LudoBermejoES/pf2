@@ -1,11 +1,11 @@
 ---
-layout:
-permalink: /ascendencias/elfo/descripcion/ "page"
-title: "Elfo"
-chapter: "Ascendencias"
-category: "ascendencias"
+layout: page
+permalink: /ascendencias/elfo/descripcion/
+title: Elfo
+chapter: Ascendencias
+category: ascendencias
 nav_order: 1
-ancestry: "Elfo"
+ancestry: Elfo
 ---
 
 Como pueblo antiguo que son, los elfos han visto grandes cambios y disponen de la perspectiva que sólo puede proceder de contemplar el arco de la historia. Tras abandonar Golarion en tiempos antiguos, volvieron a una tierra cambiada y siguen luchando para reclamar sus hogares ancestrales. Valoran la amabilidad, la inteligencia y la belleza, y muchos de ellos se esfuerzan en mejorar sus modales, apariencia y cultura. Sus estudios se adentran en un nivel de detalle que la mayoría de gentes de vida más corta encuentran excesivo o ineficiente.

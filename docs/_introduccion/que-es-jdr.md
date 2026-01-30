@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /introduccion/que-es-jdr/ "page"
-title: "¿Qué es un juego de rol?"
-chapter: "Introducción"
-category: "introduccion"
+layout: page
+permalink: /introduccion/que-es-jdr/
+title: ¿Qué es un juego de rol?
+chapter: Introducción
+category: introduccion
 nav_order: 0
 ---
 

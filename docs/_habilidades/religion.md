@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/religion/ "page"
-title: "Religión (Sab)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/religion/
+title: Religión (Sab)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 

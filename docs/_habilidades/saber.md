@@ -1,9 +1,9 @@
 ---
-layout:
-permalink: /habilidades/saber/ "page"
-title: "Saber (Int)"
-chapter: "Habilidades"
-category: "habilidades"
+layout: page
+permalink: /habilidades/saber/
+title: Saber (Int)
+chapter: Habilidades
+category: habilidades
 nav_order: 3
 ---
 
