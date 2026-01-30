@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/exploracion/
 title: Exploracion
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

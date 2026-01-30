@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/tiempo-libre/
 title: Tiempo Libre
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

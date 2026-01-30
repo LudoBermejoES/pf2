@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/herramientas/
 title: Herramientas de Juego
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

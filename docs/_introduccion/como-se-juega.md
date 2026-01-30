@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/como-se-juega/
 title: Como se Juega
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/religion/
 title: Religion
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

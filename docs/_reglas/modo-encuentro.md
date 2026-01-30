@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/modo-encuentro/
 title: Modo de Encuentro
-chapter: Cómo Jugar
+chapter: Como Jugar
 category: reglas
 nav_order: 7
 ---

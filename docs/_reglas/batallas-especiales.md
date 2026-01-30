@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/batallas-especiales/
 title: Batallas especiales
-chapter: Cómo Jugar
+chapter: Como Jugar
 category: reglas
 nav_order: 7
 ---

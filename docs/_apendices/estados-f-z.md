@@ -2,7 +2,7 @@
 layout: page
 permalink: /apendices/estados-f-z/
 title: Estados (F-Z)
-chapter: Apéndices
+chapter: Apendices
 category: apendices
 nav_order: 8
 ---

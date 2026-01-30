@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/primera-regla/
 title: La Primera Regla
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

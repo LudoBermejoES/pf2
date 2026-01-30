@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/subir-nivel/
 title: Subir de Nivel
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/jugar-para-todos/
 title: Jugar es para Todos
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

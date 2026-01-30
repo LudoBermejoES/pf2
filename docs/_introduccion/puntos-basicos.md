@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/puntos-basicos/
 title: Puntos Basicos del Juego
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

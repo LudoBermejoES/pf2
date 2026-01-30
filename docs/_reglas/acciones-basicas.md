@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/
 title: Acciones basicas
-chapter: Cómo Jugar
+chapter: Como Jugar
 category: reglas
 nav_order: 7
 ---

@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/encuentros/
 title: Encuentros
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

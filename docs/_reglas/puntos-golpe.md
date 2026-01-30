@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/puntos-golpe/
 title: Puntos de Golpe, Curación y Moribundo
-chapter: Cómo Jugar
+chapter: Como Jugar
 category: reglas
 nav_order: 7
 ---

@@ -2,7 +2,7 @@
 layout: page
 permalink: /apendices/glosario/
 title: Glosario e Índice
-chapter: Apéndices
+chapter: Apendices
 category: apendices
 nav_order: 8
 ---

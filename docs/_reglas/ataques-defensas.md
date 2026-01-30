@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/ataques-defensas/
 title: Ataques y Defensas
-chapter: Cómo Jugar
+chapter: Como Jugar
 category: reglas
 nav_order: 7
 ---

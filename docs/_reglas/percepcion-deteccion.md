@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/percepcion-deteccion/
 title: Percepcion y Deteccion
-chapter: Cómo Jugar
+chapter: Como Jugar
 category: reglas
 nav_order: 7
 ---

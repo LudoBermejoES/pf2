@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/terminos-clave/
 title: Terminos Clave
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

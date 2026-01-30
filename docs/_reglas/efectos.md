@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/efectos/
 title: Efectos
-chapter: Cómo Jugar
+chapter: Como Jugar
 category: reglas
 nav_order: 7
 ---

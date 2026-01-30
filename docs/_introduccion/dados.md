@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/dados/
 title: Dados
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

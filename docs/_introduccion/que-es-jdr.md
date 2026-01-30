@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/que-es-jdr/
 title: ¿Qué es un juego de rol?
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---

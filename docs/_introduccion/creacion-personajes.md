@@ -2,7 +2,7 @@
 layout: page
 permalink: /introduccion/creacion-personajes/
 title: Creacion de Personajes
-chapter: Introducción
+chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---
