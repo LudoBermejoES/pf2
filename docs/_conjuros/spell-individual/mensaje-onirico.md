@@ -11,7 +11,7 @@ spell_level: 3
 **Rango de distancia:** planetario; **Objetivos:** 1 criatura cuyo nombre conoces y con la que te has reunido en persona
 **Duracion:** hasta tus siguientes preparativos diarios
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Mental</span>

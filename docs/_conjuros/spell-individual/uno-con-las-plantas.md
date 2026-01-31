@@ -10,7 +10,7 @@ spell_level: 2
 **Tradiciones:** primigenia
 **Duracion:** 10 minutos u 8 horas
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Madera</span>
 <span class="trait-tag">Manipular</span>

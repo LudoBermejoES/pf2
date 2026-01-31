@@ -12,7 +12,7 @@ spell_level: 7
 **Rango de distancia:** 30 pies (9 m)
 **Duración:** hasta tus siguientes preparativos diarios
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco común</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Extradimensional</span>

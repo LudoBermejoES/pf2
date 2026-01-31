@@ -11,7 +11,7 @@ spell_level: 2
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 **Duración:** 10 minutos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Madera</span>
 <span class="trait-tag">Manipular</span>

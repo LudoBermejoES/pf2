@@ -11,7 +11,7 @@ spell_level: 7
 **Rango de distancia:** 40 pies (12 m); **Area:** emanacion de 40 pies (12 m)
 **Defensa:** Fortaleza; **Duracion:** variable
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Espiritu</span>
 <span class="trait-tag">Manipular</span>

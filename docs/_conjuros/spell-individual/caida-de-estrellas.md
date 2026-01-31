@@ -11,7 +11,7 @@ spell_level: 9
 **Rango de distancia:** 500 pies (150 m); **Area:** 4 explosiones de 40 pies (12 m)
 **Defensa:** Reflejos basica
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

@@ -11,7 +11,7 @@ spell_level: TRUCO
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura
 **Defensa:** CA
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Ataque</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Espiritu</span>

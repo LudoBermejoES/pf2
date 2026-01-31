@@ -10,7 +10,7 @@ spell_level: 8
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** toque; **Objetivos:** hasta 6 criaturas
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Curacion</span>
 <span class="trait-tag">Manipular</span>

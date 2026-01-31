@@ -11,7 +11,7 @@ spell_level: 6
 **Área:** emanación de hasta 40 pies (12 m)
 **Defensa:** Voluntad; **Duración:** 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aura</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

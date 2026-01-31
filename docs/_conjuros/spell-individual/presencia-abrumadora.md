@@ -11,7 +11,7 @@ spell_level: 9
 **Área:** explosión de 40 pies (12 m); **Objetivos:** cualquier número de criaturas
 **Defensa:** Voluntad; **Duración:** hasta que se rinde el tributo por completo
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Auditivo</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Incapacitación</span>

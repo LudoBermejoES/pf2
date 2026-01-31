@@ -11,7 +11,7 @@ spell_level: 2
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Reflejos; **Duracion:** variable
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Luz</span>
 <span class="trait-tag">Manipular</span>

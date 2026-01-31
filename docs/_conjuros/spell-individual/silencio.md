@@ -11,7 +11,7 @@ spell_level: 2
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 **Duración:** 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Ilusión</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Disimulado</span>

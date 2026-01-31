@@ -9,7 +9,7 @@ spell_level: 1
 
 **Tradiciones:** arcana, primigenia
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Mover</span>
 </div>

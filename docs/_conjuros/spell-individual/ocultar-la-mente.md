@@ -11,7 +11,7 @@ spell_level: 8
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** hasta tus siguientes preparativos diarios
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco común</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

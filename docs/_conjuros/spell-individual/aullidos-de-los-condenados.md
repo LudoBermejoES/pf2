@@ -11,7 +11,7 @@ spell_level: 9
 **Area:** emanacion de 40 pies (12 m)
 **Defensa:** Fortaleza
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Auditivo</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

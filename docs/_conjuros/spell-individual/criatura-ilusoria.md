@@ -11,7 +11,7 @@ spell_level: 2
 **Rango de distancia:** 500 pies (150 m)
 **Duracion:** mantenido
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Auditivo</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Ilusion</span>

@@ -12,7 +12,7 @@ spell_level: 6
 **Rango de distancia:** planetario; **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 10 minutos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

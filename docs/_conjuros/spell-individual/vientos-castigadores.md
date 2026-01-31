@@ -11,7 +11,7 @@ spell_level: 8
 **Rango de distancia:** 100 pies (30 m); **Area:** un cilindro de 30 pies (9 m) de radio y 100 pies (30 m) de altura
 **Duracion:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aire</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

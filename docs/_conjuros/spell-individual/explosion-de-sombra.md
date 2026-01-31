@@ -11,7 +11,7 @@ spell_level: 5
 **Rango de distancia:** variable; **Area:** variable
 **Defensa:** Reflejos o Voluntad basica (a elegir por el objetivo)
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Sombra</span>

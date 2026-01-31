@@ -10,7 +10,7 @@ spell_level: 1
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 10 pies (3 m); **Area:** 1 pie cubico (0,03 m3)
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

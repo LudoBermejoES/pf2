@@ -11,7 +11,7 @@ spell_level: 1
 **Area:** cono de 15 pies (4,5 m)
 **Defensa:** Voluntad; **Duracion:** 1 o mas asaltos (ver a continuacion)
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Ilusion</span>
 <span class="trait-tag">Incapacitacion</span>

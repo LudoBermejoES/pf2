@@ -10,7 +10,7 @@ spell_level: 4
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m)
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Teletransporte</span>

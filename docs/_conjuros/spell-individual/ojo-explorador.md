@@ -12,7 +12,7 @@ spell_level: 5
 **Rango de distancia:** consulta el texto
 **Duración:** mantenido
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Escudriñamiento</span>
 <span class="trait-tag">Manipular</span>

@@ -11,7 +11,7 @@ spell_level: 1
 **Rango de distancia:** toque; **Objetivos:** 1 objeto no mayor que 10 pies por 10 pies por 10 pies (3 x 3 x 3 m)
 **Duracion:** 1 hora
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Ilusion</span>
 <span class="trait-tag">Manipular</span>

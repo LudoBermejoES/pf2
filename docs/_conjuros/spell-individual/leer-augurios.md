@@ -10,7 +10,7 @@ spell_level: 4
 **Tradiciones:** divina, ocultista
 **Lanzamiento:** 10 minutos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

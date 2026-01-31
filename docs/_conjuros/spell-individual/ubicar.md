@@ -11,7 +11,7 @@ spell_level: 8
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** ilimitado; **Objetivos:** 1 criatura u objeto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Deteccion</span>

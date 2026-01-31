@@ -11,7 +11,7 @@ spell_level: 6
 **Lanzamiento:** 10 minutos; **Coste:** piedras preciosas por un valor total del nivel del objetivo (mínimo 1) x 200 po
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 criatura muerta de 13.er nivel o inferior
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco común</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Curación</span>

@@ -11,7 +11,7 @@ spell_level: 9
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** hasta 5 criaturas
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Auditivo</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Emocion</span>

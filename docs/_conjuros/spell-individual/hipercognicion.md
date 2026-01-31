@@ -9,7 +9,7 @@ spell_level: 3
 
 **Tradiciones:** ocultista
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 </div>
 

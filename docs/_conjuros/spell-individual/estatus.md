@@ -11,7 +11,7 @@ spell_level: 2
 **Rango de distancia:** toque; **Objetivos:** 1 criatura viva voluntaria
 **Duracion:** hasta tus siguientes preparativos diarios
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Deteccion</span>
 <span class="trait-tag">Manipular</span>

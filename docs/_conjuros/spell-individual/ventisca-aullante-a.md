@@ -11,7 +11,7 @@ spell_level: 5
 **Area:** variable
 **Defensa:** Reflejos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aire</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Frio</span>

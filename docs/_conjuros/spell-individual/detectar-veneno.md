@@ -10,7 +10,7 @@ spell_level: 1
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 objeto o criatura
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Deteccion</span>

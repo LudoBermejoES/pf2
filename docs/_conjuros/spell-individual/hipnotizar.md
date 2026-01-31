@@ -11,7 +11,7 @@ spell_level: 3
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Disimulado</span>
 <span class="trait-tag">Ilusion</span>
 <span class="trait-tag">Manipular</span>

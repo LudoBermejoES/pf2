@@ -11,7 +11,7 @@ spell_level: 6
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Discreto</span>
 <span class="trait-tag">Ilusion</span>
 <span class="trait-tag">Incapacitacion</span>

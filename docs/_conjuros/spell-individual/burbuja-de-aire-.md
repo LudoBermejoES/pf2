@@ -12,7 +12,7 @@ spell_level: 1
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** la criatura desencadenante
 **Duracion:** 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aire</span>
 <span class="trait-tag">Concentrar</span>
 </div>

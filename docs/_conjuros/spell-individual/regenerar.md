@@ -11,7 +11,7 @@ spell_level: 7
 **Rango de distancia:** toque; **Objetivos:** 1 criatura viva voluntaria
 **Duración:** 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Curación</span>
 <span class="trait-tag">Manipular</span>

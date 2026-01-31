@@ -11,7 +11,7 @@ spell_level: 10
 **Rango de distancia:** 100 pies (30 m); **Objetivos:** hasta 5 criaturas
 **Defensa:** Voluntad; **Duracion:** variable
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Incapacitacion</span>
 <span class="trait-tag">Manipular</span>

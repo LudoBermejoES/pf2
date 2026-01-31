@@ -11,7 +11,7 @@ spell_level: 6
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 40 pies (9 m)
 **Duracion:** 10 minutos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Madera</span>
 <span class="trait-tag">Manipular</span>

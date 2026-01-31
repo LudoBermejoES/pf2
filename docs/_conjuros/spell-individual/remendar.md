@@ -11,7 +11,7 @@ spell_level: 1
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** toque; **Objetivos:** un objeto no mágico de Impedimenta ligera o menor
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

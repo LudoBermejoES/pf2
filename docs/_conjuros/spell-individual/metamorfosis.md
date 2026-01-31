@@ -10,7 +10,7 @@ spell_level: 9
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Polimorfia</span>

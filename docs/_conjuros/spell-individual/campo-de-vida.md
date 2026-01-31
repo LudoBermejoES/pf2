@@ -11,7 +11,7 @@ spell_level: 6
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 20 pies (6 m)
 **Duracion:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Curacion</span>
 <span class="trait-tag">Manipular</span>

@@ -10,7 +10,7 @@ spell_level: TRUCO
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 hora
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aire</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

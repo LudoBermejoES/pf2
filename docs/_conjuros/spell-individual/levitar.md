@@ -11,7 +11,7 @@ spell_level: 3
 **Rango de distancia:** toque; **Objetivos:** 1 objeto desatendido o criatura voluntaria
 **Duracion:** 5 minutos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

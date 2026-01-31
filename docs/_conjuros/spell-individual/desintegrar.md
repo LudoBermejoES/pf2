@@ -11,7 +11,7 @@ spell_level: 6
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura, objeto desatendido o constructo de fuerza
 **Defensa:** CA y Fortaleza basica
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Ataque</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

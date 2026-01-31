@@ -11,7 +11,7 @@ spell_level: TRUCO
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 objeto (sólo cocinar, elevar o limpiar)
 **Duración:** mantenido
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Truco</span>

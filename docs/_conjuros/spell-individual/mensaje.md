@@ -11,7 +11,7 @@ spell_level: TRUCO
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Duracion:** ver mas abajo
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Disimulado</span>
 <span class="trait-tag">Ilusion</span>

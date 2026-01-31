@@ -10,7 +10,7 @@ spell_level: 4
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** un cubo de piedra de 10 pies (3 m) de lado o mas pequeno
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Tierra</span>

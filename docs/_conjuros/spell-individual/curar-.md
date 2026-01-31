@@ -10,7 +10,7 @@ spell_level: 1
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** variable; **Objetivos:** 1 criatura viva voluntaria o 1 criatura muerta viviente
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Curacion</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Vitalidad</span>

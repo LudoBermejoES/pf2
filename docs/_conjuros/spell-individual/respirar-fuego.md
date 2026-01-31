@@ -11,7 +11,7 @@ spell_level: 1
 **Área:** cono de 15 pies (4,5 m)
 **Defensa:** Reflejos básica
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Fuego</span>
 <span class="trait-tag">Manipular</span>

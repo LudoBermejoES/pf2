@@ -11,7 +11,7 @@ spell_level: 2
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 o mas criaturas
 **Defensa:** CA
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Ataque</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Fuego</span>

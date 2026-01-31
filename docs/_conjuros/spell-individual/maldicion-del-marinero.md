@@ -11,7 +11,7 @@ spell_level: 5
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** Voluntad
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Maldicion</span>
 <span class="trait-tag">Manipular</span>

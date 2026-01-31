@@ -11,7 +11,7 @@ spell_level: 4
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
 **Defensa:** Fortaleza
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Espiritu</span>
 <span class="trait-tag">Manipular</span>

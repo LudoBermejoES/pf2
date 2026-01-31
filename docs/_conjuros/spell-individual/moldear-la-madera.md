@@ -10,7 +10,7 @@ spell_level: 2
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** un trozo de madera sin trabajar de hasta 20 pies cubicos (0,57 m3) de volumen
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Madera</span>
 <span class="trait-tag">Manipular</span>

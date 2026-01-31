@@ -10,7 +10,7 @@ spell_level: 1
 **Tradiciones:** divina
 **Rango de distancia:** variable; **Objetivos:** 1 criatura viva o 1 criatura muerta viviente voluntaria
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Vacio</span>
 </div>

@@ -11,7 +11,7 @@ spell_level: 3
 **Rango de distancia:** 60 pies (18 m)
 **Duracion:** 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Madera</span>
 <span class="trait-tag">Manipular</span>

@@ -11,7 +11,7 @@ spell_level: 1
 **Rango de distancia:** 60 pies (18 m)
 **Duracion:** mantenido
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Convocar</span>
 <span class="trait-tag">Manipular</span>

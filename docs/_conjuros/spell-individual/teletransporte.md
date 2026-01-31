@@ -11,7 +11,7 @@ spell_level: 6
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** 100 millas (160 km); **Objetivos:** tu y hasta 4 objetivos tocados, o criaturas voluntarias u objetos de aproximadamente el tamano de una criatura
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

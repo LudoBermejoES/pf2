@@ -12,7 +12,7 @@ spell_level: 4
 **Rango de distancia:** planetario; **Objetivos:** 1 criatura cuyo nombre conoces
 **Defensa:** Voluntad; **Duración:** 1 día
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Ilusión</span>
 <span class="trait-tag">Manipular</span>

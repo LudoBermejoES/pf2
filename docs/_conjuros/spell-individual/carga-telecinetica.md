@@ -11,7 +11,7 @@ spell_level: 5
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 objeto desatendido de hasta Impedimenta 80 sin ninguna dimension superior a 20 pies (6 m)
 **Duracion:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

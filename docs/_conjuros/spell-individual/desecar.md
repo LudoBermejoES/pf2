@@ -11,7 +11,7 @@ spell_level: 8
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** cualquier numero de criaturas vivas
 **Defensa:** Fortaleza basica
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Vacio</span>

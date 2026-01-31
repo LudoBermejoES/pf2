@@ -12,7 +12,7 @@ spell_level: 4
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 50 pies (15 m)
 **Duracion:** hasta tus siguientes preparativos diarios
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Ilusion</span>

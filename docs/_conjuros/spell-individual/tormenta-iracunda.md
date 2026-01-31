@@ -11,7 +11,7 @@ spell_level: 9
 **Rango de distancia:** 800 pies (240 m); **Area:** explosion de 400 pies (120 m)
 **Duracion:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aire</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Electricidad</span>

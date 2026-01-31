@@ -11,7 +11,7 @@ spell_level: 7
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Frio</span>
 <span class="trait-tag">Manipular</span>

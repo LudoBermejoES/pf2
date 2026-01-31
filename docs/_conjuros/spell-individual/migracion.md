@@ -12,7 +12,7 @@ spell_level: 8
 **Rango de distancia:** 20 pies (6 m); **Objetivos:** tu y hasta 5 criaturas voluntarias
 **Duracion:** 8 horas
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Polimorfia</span>

@@ -12,7 +12,7 @@ spell_level: 2
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duracion:** 8 horas
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

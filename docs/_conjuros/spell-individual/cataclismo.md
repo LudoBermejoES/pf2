@@ -11,7 +11,7 @@ spell_level: 10
 **Rango de distancia:** 1000 pies (300 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos basica
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Acido</span>
 <span class="trait-tag">Agua</span>
 <span class="trait-tag">Aire</span>

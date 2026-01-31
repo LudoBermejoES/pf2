@@ -10,7 +10,7 @@ spell_level: 1
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Fuerza</span>
 <span class="trait-tag">Manipular</span>

@@ -12,7 +12,7 @@ spell_level: 4
 **Rango de distancia:** toque; **Area:** explosion de 100 pies (30 m)
 **Duracion:** 24 horas
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

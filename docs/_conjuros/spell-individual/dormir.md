@@ -11,7 +11,7 @@ spell_level: 1
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
 **Defensa:** Voluntad
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Incapacitacion</span>
 <span class="trait-tag">Manipular</span>

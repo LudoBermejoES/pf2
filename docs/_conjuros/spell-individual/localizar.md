@@ -11,7 +11,7 @@ spell_level: 3
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** 1 objetivo especifico o tipo de objeto
 **Duracion:** mantenido
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Deteccion</span>

@@ -11,7 +11,7 @@ spell_level: 5
 **Rango de distancia:** toque; **Área:** una sección de una pared de madera, yeso o piedra de 5 pies de grueso, 10 pies de alto y 10 pies de largo (1,5 x 3 x 3 m)
 **Duración:** 1 hora
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco común</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

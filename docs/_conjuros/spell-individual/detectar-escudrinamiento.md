@@ -11,7 +11,7 @@ spell_level: 4
 **Area:** emanacion de 30 pies (9 m)
 **Duracion:** 1 hora
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Deteccion</span>

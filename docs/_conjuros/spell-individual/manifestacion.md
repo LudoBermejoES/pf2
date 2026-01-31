@@ -9,7 +9,7 @@ spell_level: 10
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

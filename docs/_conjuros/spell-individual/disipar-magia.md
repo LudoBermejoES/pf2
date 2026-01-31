@@ -10,7 +10,7 @@ spell_level: 2
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 efecto de conjuro u objeto magico desatendido
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

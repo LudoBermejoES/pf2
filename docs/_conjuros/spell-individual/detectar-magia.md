@@ -10,7 +10,7 @@ spell_level: TRUCO
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Area:** emanacion de 30 pies (9 m)
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Deteccion</span>
 <span class="trait-tag">Manipular</span>

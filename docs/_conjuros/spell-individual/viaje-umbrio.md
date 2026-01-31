@@ -12,7 +12,7 @@ spell_level: 5
 **Rango de distancia:** toque; **Criaturas:** tu y hasta 10 objetivos voluntarios tocados
 **Duracion:** 8 horas
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

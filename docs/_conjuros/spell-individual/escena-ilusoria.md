@@ -12,7 +12,7 @@ spell_level: 5
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 30 pies (9 m)
 **Duracion:** 1 hora
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Auditivo</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Ilusion</span>

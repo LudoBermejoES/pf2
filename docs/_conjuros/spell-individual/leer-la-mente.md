@@ -11,7 +11,7 @@ spell_level: 3
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** 1 asalto o mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Deteccion</span>

@@ -11,7 +11,7 @@ spell_level: 6
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** 1 criatura, mas cualquier numero de criaturas adicionales
 **Defensa:** Reflejos basica
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Electricidad</span>
 <span class="trait-tag">Manipular</span>

@@ -11,7 +11,7 @@ spell_level: 6
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura hecha de material orgánico
 **Defensa:** Fortaleza; **Duración:** variable
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Tierra</span>

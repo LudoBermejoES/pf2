@@ -11,7 +11,7 @@ spell_level: 7
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 4 criaturas
 **Duración:** hasta el inicio de tu siguiente turno
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Fortuna</span>
 <span class="trait-tag">Predicción</span>

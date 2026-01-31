@@ -11,7 +11,7 @@ spell_level: 5
 **Rango de distancia:** toque; **Área:** una sección de terreno de 10 pies (3 m) de anchura, 10 pies (3 m) de altura y 60 pies (18 m) de longitud
 **Duración:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

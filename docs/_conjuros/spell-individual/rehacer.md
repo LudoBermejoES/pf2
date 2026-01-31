@@ -11,7 +11,7 @@ spell_level: 10
 **Lanzamiento:** 1 hora; **Coste:** un resto del objeto
 **Rango de distancia:** 5 pies (1,5 m)
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco común</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

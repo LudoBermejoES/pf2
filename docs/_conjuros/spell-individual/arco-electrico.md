@@ -12,7 +12,7 @@ spell_level: TRUCO
 
 **Nivel:** TRUCO | **Tradiciones:** arcana, primigenia
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">concentración</span>
 <span class="trait-tag">electricidad</span>
 <span class="trait-tag">manipular</span>

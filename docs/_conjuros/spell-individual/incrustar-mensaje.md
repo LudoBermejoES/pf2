@@ -11,7 +11,7 @@ spell_level: 2
 **Rango de distancia:** toque; **Objetivos:** 1 objetivo o criatura voluntaria
 **Duracion:** ilimitada
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Ilusion</span>
 <span class="trait-tag">Manipular</span>

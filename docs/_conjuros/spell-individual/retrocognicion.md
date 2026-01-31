@@ -11,7 +11,7 @@ spell_level: 7
 **Lanzamiento:** 1 minuto
 **Duración:** mantenido
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>

@@ -10,7 +10,7 @@ spell_level: 1
 **Tradiciones:** arcana, ocultista
 **Duracion:** hasta el final de tu siguiente turno
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Fortuna</span>
 </div>

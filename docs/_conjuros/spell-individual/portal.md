@@ -11,7 +11,7 @@ spell_level: 10
 **Rango de distancia:** 120 pies (36 m)
 **Duración:** mantenido hasta 1 minuto
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco común</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

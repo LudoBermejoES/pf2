@@ -11,7 +11,7 @@ spell_level: TRUCO
 **Rango de distancia:** 120 pies (36 m)
 **Duracion:** hasta tus siguientes preparativos diarios
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Luz</span>
 <span class="trait-tag">Manipular</span>

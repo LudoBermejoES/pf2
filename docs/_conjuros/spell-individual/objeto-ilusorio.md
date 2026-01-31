@@ -11,7 +11,7 @@ spell_level: 1
 **Rango de distancia:** 500 pies (150 m); **Área:** explosión de 20 pies (6 m)
 **Duración:** 10 minutos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Ilusión</span>
 <span class="trait-tag">Manipular</span>

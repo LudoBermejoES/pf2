@@ -11,7 +11,7 @@ spell_level: 2
 **Rango de distancia:** toque; **Objetivos:** una piedra preciosa por valor de 6 po o mas
 **Duracion:** ilimitada
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Luz</span>
 <span class="trait-tag">Manipular</span>

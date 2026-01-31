@@ -11,7 +11,7 @@ spell_level: 4
 **Area:** explosion de 10 pies (3 m) centrada en una esquina de tu espacio
 **Duracion:** 10 minutos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Polimorfia</span>

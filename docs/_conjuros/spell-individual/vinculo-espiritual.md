@@ -11,7 +11,7 @@ spell_level: 1
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura voluntaria
 **Duracion:** 10 minutos
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Curar</span>
 <span class="trait-tag">Espiritu</span>

@@ -11,7 +11,7 @@ spell_level: 7
 **Lanzamiento:** 10 minutos; **Requisitos:** Tienes una llave planaria para el Plano de destino, utilizada como locus
 **Rango de distancia:** 5 pies (1,5 m); **Objetivos:** hasta 8 criaturas voluntarias
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

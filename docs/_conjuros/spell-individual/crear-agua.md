@@ -10,7 +10,7 @@ spell_level: 1
 **Tradiciones:** arcana, divina, primigenia
 **Rango de distancia:** 0 pies
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Agua</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>

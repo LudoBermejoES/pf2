@@ -11,7 +11,7 @@ spell_level: 8
 **Rango de distancia:** 100 pies (30 m); **Área:** explosión de 20 pies (6 m); **Objetivos:** 1 criatura u objeto rastreado y hasta otras 5 criaturas voluntarias
 **Duración:** variable
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Escudriñamiento</span>
 <span class="trait-tag">Manipular</span>

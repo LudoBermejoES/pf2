@@ -10,7 +10,7 @@ spell_level: 2
 **Tradiciones:** divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Curación</span>
 <span class="trait-tag">Manipular</span>

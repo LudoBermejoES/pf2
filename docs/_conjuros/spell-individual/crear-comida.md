@@ -11,7 +11,7 @@ spell_level: 2
 **Lanzamiento:** 1 hora
 **Rango de distancia:** 30 pies (9 m)
 
-<div class="spell-traits-wrapper">
+<div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 </div>
