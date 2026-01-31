@@ -8,8 +8,6 @@ category: conjuros
 nav_order: 1
 ---
 
-# Introducción a los Conjuros
-
 En este capítulo encontrarás todo lo relacionado con la magia en Pathfinder 2ª Edición, desde conceptos fundamentales hasta la ejecución práctica de conjuros.
 
 ## 🎯 Conceptos Fundamentales

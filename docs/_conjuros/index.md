@@ -7,8 +7,6 @@ chapter: Conjuros
 category: conjuros
 ---
 
-# Conjuros
-
 En este capítulo encontrarás todo lo relacionado con la magia en Pathfinder 2ª Edición, desde conceptos fundamentales hasta listas completas de hechizos organizadas por tradición.
 
 ## 🎓 Guía Esencial de Magia
