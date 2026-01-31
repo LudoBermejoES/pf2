@@ -18,7 +18,7 @@ spell_level: 4
 
 ---
 
-Empleas tu dominio del aire para cambiar la forma de tu cuerpo a una forma de batalla de animal Mediano volador. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo una lechuza o un aguila para ave), pero esto no afecta ni al Tamaño ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
+Empleas tu dominio del aire para cambiar la forma de tu cuerpo a una forma de batalla de animal Mediano volador. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo una lechuza o un aguila para ave), pero esto no afecta ni al Tamaño ni a las estadísticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
 
 Obtienes aptitudes especificas basadas en el animal elegido:
 - CA = 18 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reducción de la Velocidad.

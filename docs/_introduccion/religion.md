@@ -17,10 +17,10 @@ Cualquiera puede adorar a un dios, pero quienes lo hacen de forma devota deberí
 
 **Amo de la Primera Boveda**
 
-Abadar busca llevar la civilizacion a las tierras virgenes del mundo, anima el respeto a la ley y promueve el comercio y el intercambio en el interior de la civilizacion. Tambien anima a la cooperacion entre las diversas ascendencias.
+Abadar busca llevar la civilización a las tierras virgenes del mundo, anima el respeto a la ley y promueve el comercio y el intercambio en el interior de la civilización. Tambien anima a la cooperacion entre las diversas ascendencias.
 
 - **Areas de interes:** ciudades, ley, mercaderes y riqueza
-- **Edictos:** amasar riqueza mediante el trabajo duro y el comercio, llevar la civilizacion a las fronteras, respetar el imperio de la ley
+- **Edictos:** amasar riqueza mediante el trabajo duro y el comercio, llevar la civilización a las fronteras, respetar el imperio de la ley
 - **Anatemas:** dedicarse al bandidaje o a la pirateria, robar, socavar un tribunal respetuoso con las leyes
 - **Atributo divino:** Constitución o Inteligencia
 
@@ -213,7 +213,7 @@ Un dios de aspecto dual, Gozreh es el mar que encapsula la tierra y el viento qu
 
 - **Areas de interes:** el clima, el mar y la Naturaleza
 - **Edictos:** proteger, respetar y valorar la Naturaleza en todas sus formas
-- **Anatemas:** asolar areas de belleza natural, crear muertos vivientes, hacer que la civilizacion se entrometa en las tierras virgenes
+- **Anatemas:** asolar areas de belleza natural, crear muertos vivientes, hacer que la civilización se entrometa en las tierras virgenes
 - **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
@@ -415,7 +415,7 @@ Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un 
 | Conjuros de clérigo | 1ro: colores mareantes, 3ro: cautivar, 4to: creación |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
-| Habilidad divina | elige entre Artesanía o Interpretacion |
+| Habilidad divina | elige entre Artesanía o Interpretación |
 | Dominios | creación, familia, pasion, protección |
 | Arma predilecta | guja |
 
@@ -530,7 +530,7 @@ Si bien muchos conceden que los dioses existen, algunos no les creen dignos de s
 
 Los adoradores de la Fe Verde cuentan entre los suyos a muchos druidas. Consideran divina a la Naturaleza y extraen fuerza del conocimiento de su lugar en el orden natural.
 
-- **Edictos:** conservar areas de tierras virgenes, guiar a la civilizacion para que crezca en armonia con la Naturaleza, proteger especies en peligro
+- **Edictos:** conservar areas de tierras virgenes, guiar a la civilización para que crezca en armonia con la Naturaleza, proteger especies en peligro
 - **Anatemas:** causar dano a los ecosistemas, matar animales por razones distintas a la autodefensa o el sustento, permitir el abuso de los recursos naturales
 
 ---

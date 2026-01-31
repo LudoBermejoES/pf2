@@ -18,9 +18,9 @@ spell_level: 3
 
 ---
 
-Te concentras en un bicho sencillo y te transformas en una forma de batalla animal de tamaño Mediano. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (como por ejemplo una mariquita o un escarabajo para los coleopteros), pero esto no tiene efecto alguno ni en el Tamaño ni en las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar este conjuro.
+Te concentras en un bicho sencillo y te transformas en una forma de batalla animal de tamaño Mediano. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (como por ejemplo una mariquita o un escarabajo para los coleopteros), pero esto no tiene efecto alguno ni en el Tamaño ni en las estadísticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar este conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
 - CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 10 Puntos de Golpe temporales.
 - Vision en la penumbra.

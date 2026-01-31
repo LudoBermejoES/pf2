@@ -83,7 +83,7 @@ Hay tres estados que miden el grado hasta el que puedes notar a una criatura: ob
 
 Con la excepcion de invisible, estos estados son relativos al que mira: es posible que una criatura este observada por ti, pero permanezca escondida de un aliado tuyo. La mayor parte de estas reglas se aplican tanto a los objetos como las criaturas.
 
-Tipicamente, el DJ tiene anotado lo bien que las criaturas se detectan entre si, puesto que ninguno de los bandos dispone de información perfecta. Por ejemplo podrias creer que una criatura esta en el ultimo lugar en el que la has notado, pero en realidad se ha podido alejar mediante Movimiento furtivo. O podrias creer que una criatura no te puede ver porque esta oscuro, pero dispone de vision en la oscuridad.
+Tipicamente, el DJ tiene anotado lo bien que las criaturas se detectan entre si, puesto que ninguno de los bandos dispone de información perfecta. Por ejemplo podrías creer que una criatura esta en el ultimo lugar en el que la has notado, pero en realidad se ha podido alejar mediante Movimiento furtivo. O podrías creer que una criatura no te puede ver porque esta oscuro, pero dispone de vision en la oscuridad.
 
 Puedes tratar de evitar la detección utilizando la habilidad Sigilo (pag. 244) para Evitar ser visto, Esconderte o Moverte furtivamente o usar Engano para Crear una distracción (pag. 239).
 
@@ -99,7 +99,7 @@ Cuando designas como objetivo a una criatura escondida, antes de tirar para dete
 
 ### No detectado
 
-Si la criatura no ha sido detectada, no sabes que espacio ocupa, estas desprevenido ante ella y no puedes designarla como objetivo con facilidad. Utilizar la acción basica Buscar puede ayudarte a encontrar una criatura no detectada, por lo general haciéndola pasar a escondida por lo que a ti respecta. Si la criatura no esta detectada, eso no quiere decir que no seas consciente de su presencia; podrias sospechar que hay una criatura no detectada en la habitación contigo, incluso sin ser capaz de determinar el espacio que ocupa. El estado no detectado cubre las criaturas cuya presencia ignoras.
+Si la criatura no ha sido detectada, no sabes que espacio ocupa, estas desprevenido ante ella y no puedes designarla como objetivo con facilidad. Utilizar la acción basica Buscar puede ayudarte a encontrar una criatura no detectada, por lo general haciéndola pasar a escondida por lo que a ti respecta. Si la criatura no esta detectada, eso no quiere decir que no seas consciente de su presencia; podrías sospechar que hay una criatura no detectada en la habitación contigo, incluso sin ser capaz de determinar el espacio que ocupa. El estado no detectado cubre las criaturas cuya presencia ignoras.
 
 Designar como objetivo a una criatura no detectada es difícil. Si sospechas que hay una criatura, puedes elegir una casilla y hacer un ataque. Esto funciona igual que designar como objetivo a una criatura escondida, pero la prueba plana y la tirada de ataque las hace ambas en secreto el DJ. Este no te dira por que has fallado, ya sea por fallar la prueba plana, por obtener un resultado insuficiente en la tirada de ataque o por elegir una casilla equivocada. El DJ podría permitirte designar como objetivo a una criatura no detectada con algún conjuro u otra aptitud de una forma similar. Las criaturas no detectadas estan sujetas a los efectos de area de la forma normal.
 

@@ -60,7 +60,7 @@ La competencia representa el entrenamiento y la experiencia de un personaje en d
 
 ### Como funciona
 
-El bonificador por competencia se suma a casi todas las estadisticas del juego:
+El bonificador por competencia se suma a casi todas las estadísticas del juego:
 
 - **Tiradas de ataque** con armas en las que eres competente
 - **Pruebas de habilidad** como Sigilo, Diplomacia o Medicina

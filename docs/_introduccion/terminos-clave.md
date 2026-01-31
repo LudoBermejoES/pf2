@@ -21,15 +21,15 @@ Existe cierta cantidad de terminos importantes que necesitas conocer para crear 
 
 **Bagaje**: Un bagaje representa lo que un personaje experimento antes de elegir el camino del aventurero. Cada bagaje concede una dote y entrenamiento en una o mas habilidades. Puedes leer mas acerca de los bagajes en el Capitulo 2.
 
-**Bonificadores y Penalizadores**: Los bonificadores y los penalizadores se aplican a las pruebas y a ciertas estadisticas. Existen diversos tipos de unos y de otros. Si tienes mas de un bonificador del mismo tipo, solo utilizas el mejor. De igual forma, solo utilizas el peor de los penalizadores del mismo tipo.
+**Bonificadores y Penalizadores**: Los bonificadores y los penalizadores se aplican a las pruebas y a ciertas estadísticas. Existen diversos tipos de unos y de otros. Si tienes mas de un bonificador del mismo tipo, solo utilizas el mejor. De igual forma, solo utilizas el peor de los penalizadores del mismo tipo.
 
-**Clase**: La clase representa la profesion aventurera elegida por un personaje. La clase de un personaje determina la mayoría de sus competencias, le concede Puntos de Golpe cada vez que sube de nivel y le proporciona acceso a un conjunto de dotes de clase. Las clases aparecen en el Capitulo 3.
+**Clase**: La clase representa la profesión aventurera elegida por un personaje. La clase de un personaje determina la mayoría de sus competencias, le concede Puntos de Golpe cada vez que sube de nivel y le proporciona acceso a un conjunto de dotes de clase. Las clases aparecen en el Capitulo 3.
 
 **Clase de armadura (CA)**: Todas las criaturas del juego tienen una Clase de armadura. Dicha puntuacion representa lo difícil que es acertar y danar a una criatura. Viene a ser la Clase de dificultad para acertar a una criatura con un ataque.
 
 **Clase de dificultad (CD)**: La Clase de dificultad es el numero objetivo que debe igualarse o superarse en una prueba para tener éxito. La CA es un tipo especifico de CD utilizado contra ataques.
 
-**Competencia**: La competencia es un sistema que mide la aptitud de un personaje en una tarea o cualidad especifica y se divide en cinco rangos: no entrenado, entrenado, experto, maestro y legendario. La competencia proporciona un bonificador que se suma al determinar los siguientes modificadores y estadisticas: CA, tiradas de ataque, Percepción, tiradas de salvación, habilidades y la efectividad de los conjuros. Si no estas entrenado, tu bonificador por competencia es +0. Si dispones del rango entrenado, experto, maestro o legendario tu bonificador por competencia es igual a tu nivel de personaje mas 2, 4, 6 u 8 respectivamente.
+**Competencia**: La competencia es un sistema que mide la aptitud de un personaje en una tarea o cualidad especifica y se divide en cinco rangos: no entrenado, entrenado, experto, maestro y legendario. La competencia proporciona un bonificador que se suma al determinar los siguientes modificadores y estadísticas: CA, tiradas de ataque, Percepción, tiradas de salvación, habilidades y la efectividad de los conjuros. Si no estas entrenado, tu bonificador por competencia es +0. Si dispones del rango entrenado, experto, maestro o legendario tu bonificador por competencia es igual a tu nivel de personaje mas 2, 4, 6 u 8 respectivamente.
 
 **Conjuro**: Los conjuros son efectos mágicos creados llevando a cabo encantamientos misticos y gestos que solo conocen quienes disponen de un entrenamiento especial o de aptitudes innatas. Lanzar un conjuro es una actividad que suele requerir 2 acciones. Cada conjuro especifica cual es su objetivo, las acciones necesarias para lanzarlo, sus efectos y como se puede resistir. Si una clase concede conjuros, lo basico de dicha aptitud se proporciona en la descripcion de la clase del Capitulo 3, mientras que los conjuros en si se detallan en el Capitulo 7.
 
@@ -37,13 +37,13 @@ Existe cierta cantidad de terminos importantes que necesitas conocer para crear 
 
 **Dote**: Una dote es una aptitud que puedes seleccionar para tu personaje debido a su ascendencia, bagaje, clase, entrenamiento general o entrenamiento en habilidades. Algunas conceden la aptitud de utilizar acciones especiales, mientras que otras hacen mas efectivas las acciones de que ya dispones.
 
-**Estado**: Un efecto continuado que cambia la forma en que un personaje puede actuar o que altera alguna de sus estadisticas se denomina estado. Las reglas para los estados básicos utilizados en el juego se encuentran en el Apendice de estados.
+**Estado**: Un efecto continuado que cambia la forma en que un personaje puede actuar o que altera alguna de sus estadísticas se denomina estado. Las reglas para los estados básicos utilizados en el juego se encuentran en el Apendice de estados.
 
 **Habilidad**: Una habilidad representa la capacidad de una criatura para llevar a cabo ciertas tareas que requieren instruccion o practica. Todos los personajes estan entrenados en determinadas habilidades debido a su bagaje y a su clase. Las habilidades se describen por completo en el Capitulo 4. Cada habilidad incluye formas en las que cualquiera puede utilizarla incluso si no esta entrenado, así como usos que requieren que un personaje este entrenado en la misma.
 
 **Iniciativa**: Al inicio de un encuentro, todas las criaturas implicadas tiran iniciativa para determinar el orden en el que actuan. Cuanto mayor es el resultado de su tirada, antes actua una criatura. La iniciativa y el combate se describen en el Capitulo 8.
 
-**Interpretacion**: Describir las acciones de un personaje, a menudo mientras se actua desde la perspectiva del mismo, se denomina interpretacion (tambien "roleo"). Cuando un jugador habla o describe acciones desde la perspectiva de un personaje, esta interpretando su papel.
+**Interpretación**: Describir las acciones de un personaje, a menudo mientras se actua desde la perspectiva del mismo, se denomina interpretación (tambien "roleo"). Cuando un jugador habla o describe acciones desde la perspectiva de un personaje, esta interpretando su papel.
 
 **Modificador por atributo**: Cada criatura dispone de seis modificadores por atributo: Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma. Cada una de dichas cifras representa el potencial en bruto de una criatura y su entrenamiento en general.
 

@@ -63,7 +63,7 @@ Obtienes una dote de bardo. A efectos de cumplir con sus prerrequisitos, tu nive
 
 Obtienes el conjuro de composición contrarrestar interpretación. Este es un conjuro de foco, que te concede una reserva de foco o aumenta dicha reserva si ya la tienes. Puedes Reenfocar interaccionando con tu musa.
 
-### Interpretacion de himno - Dote 8
+### Interpretación de himno - Dote 8
 
 **Rasgos:** Arquetipo
 

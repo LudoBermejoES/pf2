@@ -41,7 +41,7 @@ Tu interpretación cautiva a los oyentes, obligándoles a seguirte. Cada criatur
 
 **Éxito** La criatura esta fascinada por ti.
 
-**Fallo** La criatura esta fascinada por ti y utiliza todas sus acciones para acercarse a ti y felicitarte por tu interpretacion. Este efecto acaba si se utiliza una acción hostil contra la criatura afectada.
+**Fallo** La criatura esta fascinada por ti y utiliza todas sus acciones para acercarse a ti y felicitarte por tu interpretación. Este efecto acaba si se utiliza una acción hostil contra la criatura afectada.
 
 **Fallo critico** El objetivo obtiene el rasgo esbirro y queda controlado por ti. Este efecto acaba si se utiliza una acción hostil contra la criatura afectada o si ordenas a la criatura que utilice cualquier acción que le resulte dañina.
 

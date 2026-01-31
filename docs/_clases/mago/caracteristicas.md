@@ -364,7 +364,7 @@ Los no iniciados a menudo creen que los magos son cerebrales, y centrados en sus
 
 Despenas la idea de que la magia se pueda expresar ordenadamente mediante las enseñanzas de cualquier escuela o facultad unica, y en su lugar diriges tus estudios autodidactas a elegir lo mejor de cada escuela de magia. Al hacerlo, encontraras las verdades que hay en la intersección de cada escuela, acercandote mas a la naturaleza ideal de la magia arcana. Un dia, descubrirás esa unica teoria elegante que detalla toda la magia (quizá incluso le otorgues tu nombre), pero hasta entonces, tus estudios continuan.
 
-**Sin curriculo:** No tienes un curriculo fijo y, por lo tanto, ni tienes conjuros de curriculo, ni te puedes beneficiar de las aptitudes que los afectan especificamente. En su lugar, obtienes una dote de clase de mago adicional de 1.er nivel, y sumas un conjuro de 1.er rango de tu eleccion a tu libro de conjuros para representar tus estudios diversos.
+**Sin curriculo:** No tienes un curriculo fijo y, por lo tanto, ni tienes conjuros de curriculo, ni te puedes beneficiar de las aptitudes que los afectan especificamente. En su lugar, obtienes una dote de clase de mago adicional de 1.er nivel, y sumas un conjuro de 1.er rango de tu elección a tu libro de conjuros para representar tus estudios diversos.
 
 Tus estudios sobre la propia naturaleza de la magia te permiten emplearla de forma mas eficiente: en lugar de utilizar Drenar objeto vinculado solo una vez al dia, puedes utilizarlo una vez al dia por cada rango de conjuros que eres capaz de lanzar, recordando un conjuro de dicho rango cada vez.
 

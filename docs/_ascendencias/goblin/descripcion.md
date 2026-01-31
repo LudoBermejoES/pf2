@@ -12,7 +12,7 @@ Las retorcidas historias a las que se aferra otra gente no interesan a los gobli
 
 > Si te apetece un personaje excentrico, entusiasta y amante de la diversion, deberias interpretar a un goblin.
 
-## Estadisticas
+## Estadísticas
 
 | Atributo | Valor |
 |----------|-------|
@@ -25,7 +25,7 @@ Las retorcidas historias a las que se aferra otra gente no interesan a los gobli
 | **Rasgos** | Goblin, Humanoide |
 | **Vision en la Penumbra** | Puedes ver en la oscuridad y en luz tenue igual de bien que en luz brillante, aunque tu vision en la oscuridad es en blanco y negro. |
 
-## Podrias...
+## Podrías...
 
 - Luchar para demostrar que tienes un lugar entre otros pueblos civilizados, incluso a ti mismo.
 - Aliviar las pesadas cargas emocionales que llevan los demás (y divertirte) con payasadas y bromas pesadas.

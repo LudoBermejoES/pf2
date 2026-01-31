@@ -65,11 +65,11 @@ Por ejemplo, el incremento de rango de distancia de una ballesta es 120 pies (36
 
 ## Tiradas de Ataque de Conjuros
 
-Si lanzas conjuros, podrias ser capaz de hacer tiradas de ataque de conjuros. Dichas tiradas se suelen hacer cuando lanzas un conjuro que tiene como objetivo la CA de una criatura.
+Si lanzas conjuros, podrías ser capaz de hacer tiradas de ataque de conjuros. Dichas tiradas se suelen hacer cuando lanzas un conjuro que tiene como objetivo la CA de una criatura.
 
 El modificador por atributo para una tirada de ataque de conjuros depende de como obtienes los mismos. Si tu clase te concede lanzamiento de conjuros, utiliza tu modificador por atributo clave (por ejemplo, la Inteligencia para un mago). Los conjuros innatos utilizan tu modificador por Carisma si la aptitud que los concede no indica lo contrario. Los conjuros de foco y otros orígenes de conjuros especifican que modificador por atributo utilizas para los modificadores al ataque de conjuros en la aptitud que los concede.
 
-Si tienes conjuros de diferentes orígenes o tradiciones, podrias utilizar modificadores por atributo diferentes en los modificadores al ataque de conjuros de dichos orígenes. Por ejemplo, una clérига enana con la dote de ascendencia Caminante de la piedra utilizaria su modificador por Carisma al lanzar uno con la piedra mediante dicha dote, pero utilizaria su modificador por Sabiduría al lanzar curar y otros conjuros mediante su lanzamiento de conjuros divinos de clérига.
+Si tienes conjuros de diferentes orígenes o tradiciones, podrías utilizar modificadores por atributo diferentes en los modificadores al ataque de conjuros de dichos orígenes. Por ejemplo, una clérига enana con la dote de ascendencia Caminante de la piedra utilizaria su modificador por Carisma al lanzar uno con la piedra mediante dicha dote, pero utilizaria su modificador por Sabiduría al lanzar curar y otros conjuros mediante su lanzamiento de conjuros divinos de clérига.
 
 Si tienes la aptitud de lanzar conjuros, tendras un rango de competencia para tu modificador al ataque de conjuros, por lo que siempre sumaras un bonificador por competencia. Las tiradas de ataque de conjuros se pueden beneficiar de bonificadores por circunstancia y por estatus, mientras que los bonificadores por objeto a las tiradas de ataque de conjuros son raros. Los penalizadores afectan a las tiradas de ataque de conjuros igual que a cualquier otra tirada de ataque, incluyendo tu penalizador por ataque multiple.
 
@@ -85,7 +85,7 @@ Muchas veces, en lugar de requerir que hagas una tirada de ataque de conjuros, l
 
 ## Defensas
 
-Hay muchas estadisticas que te ayudan a defenderte contra ataques, conjuros, obstáculos y otros peligros de las aventuras: la Clase de armadura y las tres tiradas de salvación.
+Hay muchas estadísticas que te ayudan a defenderte contra ataques, conjuros, obstáculos y otros peligros de las aventuras: la Clase de armadura y las tres tiradas de salvación.
 
 ### Clase de Armadura (CA)
 
@@ -109,7 +109,7 @@ Los penalizadores a la CA proceden de situaciones y efectos de forma muy parecid
 
 Hay tres tipos de tiradas de salvación: de Fortaleza, de Reflejos y de Voluntad. Decimos indistintamente "salvación" o "tirada de salvación"; es lo mismo. Las tiradas de salvación miden tu capacidad para quitarte de encima efectos dañinos en forma de aflicciones, dano o estados. Siempre sumas un bonificador por competencia a cada salvación. Tu clase podría concederte una competencia diferente para cada salvación, pero como minimo tendras el rango entrenado.
 
-Algunas circunstancias y conjuros podrían concederte bonificadores por circunstancia o por estatus a las salvaciones, y podrias encontrar armaduras y objetos mágicos resilientes que te conceden un bonificador por objeto.
+Algunas circunstancias y conjuros podrían concederte bonificadores por circunstancia o por estatus a las salvaciones, y podrías encontrar armaduras y objetos mágicos resilientes que te conceden un bonificador por objeto.
 
 ### Salvación de Fortaleza
 
@@ -135,7 +135,7 @@ A veces necesitaras saber tu CD para una tirada de salvación determinada (por e
 
 ### Salvaciones y Acciones
 
-La mayor parte del tiempo, cuando haces una tirada de salvación no tienes que utilizar ni tus acciones ni tu reacción. Ni siquiera tienes que ser capaz de actuar para hacer tiradas de salvación. Sin embargo, en algunos casos especiales, podrias tener que utilizar una acción para hacer una salvación. Por ejemplo, puedes tratar de recuperarte del estado indispuesto invirtiendo una acción para hacer una salvación de Fortaleza.
+La mayor parte del tiempo, cuando haces una tirada de salvación no tienes que utilizar ni tus acciones ni tu reacción. Ni siquiera tienes que ser capaz de actuar para hacer tiradas de salvación. Sin embargo, en algunos casos especiales, podrías tener que utilizar una acción para hacer una salvación. Por ejemplo, puedes tratar de recuperarte del estado indispuesto invirtiendo una acción para hacer una salvación de Fortaleza.
 
 ### Tiradas de Salvación Basicas
 
@@ -158,7 +158,7 @@ La Percepción mide tu aptitud para ser consciente de lo que te rodea. Todas las
 
 > **Resultado de la prueba de Percepción** = tirada d20 + modificador por Sabiduría + bonificador por competencia + otros bonificadores + penalizadores
 
-Casi todas las criaturas tienen por lo menos el rango entrenado en Percepción, por lo que casi siempre sumaras un bonificador por competencia a tu modificador a la Percepción. Podrias sumar un bonificador por circunstancia debido a situaciones o entornos ventajosos y obtener tipicamente bonificadores por estatus debido a conjuros u otros efectos mágicos. Los objetos tambien te pueden conceder un bonificador a la Percepción, tipicamente en ciertas situaciones. Por ejemplo, un catalejo de buena calidad concede un bonificador +1 por objeto a la Percepción cuando tratas de divisar algo a gran distancia.
+Casi todas las criaturas tienen por lo menos el rango entrenado en Percepción, por lo que casi siempre sumaras un bonificador por competencia a tu modificador a la Percepción. Podrías sumar un bonificador por circunstancia debido a situaciones o entornos ventajosos y obtener tipicamente bonificadores por estatus debido a conjuros u otros efectos mágicos. Los objetos tambien te pueden conceder un bonificador a la Percepción, tipicamente en ciertas situaciones. Por ejemplo, un catalejo de buena calidad concede un bonificador +1 por objeto a la Percepción cuando tratas de divisar algo a gran distancia.
 
 Los penalizadores por circunstancia a la Percepción tienen lugar cuando un entorno o situación (por ejemplo, la niebla) obstaculizan tus sentidos, mientras que los penalizadores por estatus suelen proceder de estados, conjuros y efectos mágicos que enganan a los sentidos. Raramente encontraras penalizadores por objeto o penalizadores carentes de tipo a la Percepción.
 
@@ -209,7 +209,7 @@ Para las tiradas de dano de conjuros, bombas alquímicas y objetos similares, no
 
 > **Tirada de dano del conjuro (o efecto similar)** = dado de dano del efecto + bonificadores + penalizadores
 
-Igual que con las pruebas, podrias añadir bonificadores por circunstancia, por estatus o por objeto a tus tiradas de dano, pero si tienes multiples bonificadores del mismo tipo solo anades el bonificador mas alto de dicho tipo. De nuevo como en las pruebas, tambien puedes aplicar a la tirada de dano penalizadores por circunstancia, por estatus, por objeto y carentes de tipo y de nuevo aplicas tan solo el penalizador mas alto de un tipo especifico, pero aplicas juntos todos los penalizadores carentes de tipo.
+Igual que con las pruebas, podrías añadir bonificadores por circunstancia, por estatus o por objeto a tus tiradas de dano, pero si tienes multiples bonificadores del mismo tipo solo anades el bonificador mas alto de dicho tipo. De nuevo como en las pruebas, tambien puedes aplicar a la tirada de dano penalizadores por circunstancia, por estatus, por objeto y carentes de tipo y de nuevo aplicas tan solo el penalizador mas alto de un tipo especifico, pero aplicas juntos todos los penalizadores carentes de tipo.
 
 Si los penalizadores combinados de un ataque reducirian el dano a 0 o menos, sigues infligiendo dano 1. A veces hay otras consideraciones, que se describen a continuación.
 

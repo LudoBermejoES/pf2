@@ -21,4 +21,4 @@ Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastr
 
 **Potenciado (2.o)** La duracion se incrementa a 8 horas.
 
-**Potenciado (4.o)** La duracion se incrementa a 8 horas. El conjuro tiene un alcance de 20 pies (6 m) y un area de una emanacion de 20 pies (6 m), afectando hasta 10 criaturas a tu eleccion en dicha area.
+**Potenciado (4.o)** La duracion se incrementa a 8 horas. El conjuro tiene un alcance de 20 pies (6 m) y un area de una emanacion de 20 pies (6 m), afectando hasta 10 criaturas a tu elección en dicha area.

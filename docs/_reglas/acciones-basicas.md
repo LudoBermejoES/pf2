@@ -67,7 +67,7 @@ Atacas con un arma que empuñas o con un ataque sin armas, designando como objet
 
 **Éxito** Haz una tirada de dano segun el arma o el ataque sin armas, infligiendo dano normal.
 
-### Estadisticas de Golpe
+### Estadísticas de Golpe
 
 Consulta Tiradas de ataque en la pag. 402 y Dano en la pag. 404 para detalles sobre como calcular tus tiradas de ataque y de dano. La tirada de dano para un Golpe utiliza el dado de dano del arma o ataque sin armas, mas cualquier modificador, bonificador y penalizador que tienes al dano. Si estas usando un tipo de ataque diferente a Golpe, como por ejemplo un ataque de conjuros o una acción de Apresar, el dano se calcula de forma diferente (o no se calcula en absoluto).
 
@@ -91,7 +91,7 @@ Tratas de huir de haber sido agarrado, inmovilizado o neutralizado. Elige una cr
 
 **MANIPULAR**
 
-Utilizas tu mano o tus manos para manipular un objeto o el terreno. Puedes hacerte con un objeto desatendido o almacenado, desenvainar un arma, intercambiar por otro un objeto sostenido (pag. 268), abrir una puerta o conseguir un efecto similar. En raras ocasiones, podrias tener que hacer una prueba de habilidad para determinar si tu acción de Interactuar tiene éxito.
+Utilizas tu mano o tus manos para manipular un objeto o el terreno. Puedes hacerte con un objeto desatendido o almacenado, desenvainar un arma, intercambiar por otro un objeto sostenido (pag. 268), abrir una puerta o conseguir un efecto similar. En raras ocasiones, podrías tener que hacer una prueba de habilidad para determinar si tu acción de Interactuar tiene éxito.
 
 ---
 

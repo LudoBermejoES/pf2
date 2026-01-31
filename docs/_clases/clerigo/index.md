@@ -12,9 +12,9 @@ class_name: Clérigo
 
 Los clérigos son siervos mortales de los dioses, canalizando el poder divino para cumplir la voluntad de sus deidades. Ya sea mediante la curación de los fieles, la destrucción de los enemigos de la fe o la difusion de la palabra sagrada, el clérigo es el conducto entre lo mortal y lo divino.
 
-## Estadisticas Clave
+## Estadísticas Clave
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Puntos de Golpe** | 8 + modificador por Constitución por nivel |
 | **Atributo Clave** | Sabiduría |
@@ -54,7 +54,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 ### CD de Clase
 - Entrenado en la CD de la clase clérigo
 
-## Podrias...
+## Podrías...
 
 - Tener una fe profunda y significativa en tu dios y sus enseñanzas.
 - Buscar difundir la palabra y los ideales de tu deidad.

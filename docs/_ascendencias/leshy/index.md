@@ -14,7 +14,7 @@ Los leshys son espíritus inmortales de la Naturaleza a los que temporalmente se
 
 > Si quieres interpretar un personaje curioso y conectado con la Naturaleza, deberias interpretar a un leshy.
 
-## Estadisticas
+## Estadísticas
 
 | Atributo | Valor |
 |----------|-------|
@@ -31,7 +31,7 @@ Los leshys son espíritus inmortales de la Naturaleza a los que temporalmente se
 
 Te nutres de la misma forma que las plantas o los hongos que encajan con tu tipo de cuerpo, mediante alguna combinación de fotosintesis, absorbiendo minerales con tus raíces o forrajeando materia organica en descomposición. Lo normal es que no tengas que pagar por la comida. Si sueles basarte en la fotosintesis y pasas 1 semana aislado de la luz del sol, empiezas a pasar hambre. Puedes derivar sustento de unas botellas especialmente formuladas de luz solar en lugar de la luz natural, pero estas botellas cuestan 10 veces mas que las raciones estándar (es decir, unas 40 pp).
 
-## Podrias...
+## Podrías...
 
 - Actuar como agente ambulante para los guardianes naturales incapaces de abandonar sus territorios.
 - Animar a las civilizaciones a cooperar con la Naturaleza y a construir sus ciudades de forma ecologica.

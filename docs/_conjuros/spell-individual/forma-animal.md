@@ -18,7 +18,7 @@ spell_level: 2
 
 ---
 
-Llamas a la energia primigenia para que te transforme en una forma de batalla de animal Mediano. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo un leon o un leopardo de la nieve para felinos), pero esto no afecta ni al Tamaño ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
+Llamas a la energia primigenia para que te transforme en una forma de batalla de animal Mediano. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo un leon o un leopardo de la nieve para felinos), pero esto no afecta ni al Tamaño ni a las estadísticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
 
 Obtienes aptitudes especificas basadas en el animal elegido:
 - CA = 16 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reducción de la Velocidad.

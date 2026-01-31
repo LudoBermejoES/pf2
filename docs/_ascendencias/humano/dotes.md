@@ -50,7 +50,7 @@ Tu adaptabilidad se manifiesta en tu dominio de un amplio abanico de aptitudes u
 
 Tu ingenio te permite entrenar una amplia gama de habilidades.
 
-**Beneficio:** Obtienes el rango de competencia entrenado en dos habilidades a tu eleccion.
+**Beneficio:** Obtienes el rango de competencia entrenado en dos habilidades a tu elección.
 
 ---
 
@@ -147,7 +147,7 @@ Un destello de brillantez te concede una ventaja importante en una habilidad a p
 
 Has aprendido a dividir tu enfoque con facilidad entre clases multiples.
 
-**Beneficio:** Obtienes una dote de dedicacion multiclase de 2.o nivel (para mas información sobre los arquetipos multiclase, consulta la pag. 215), incluso si normalmente no podrias adquirir otra dote de dedicacion hasta que adquirieras mas dotes de tu arquetipo actual.
+**Beneficio:** Obtienes una dote de dedicacion multiclase de 2.o nivel (para mas información sobre los arquetipos multiclase, consulta la pag. 215), incluso si normalmente no podrías adquirir otra dote de dedicacion hasta que adquirieras mas dotes de tu arquetipo actual.
 
 Si tienes la herencia versatil aiuvarin, no necesitas cumplir los prerrequisitos de modificador por característica de la dote.
 

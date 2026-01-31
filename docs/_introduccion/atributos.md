@@ -7,7 +7,7 @@ category: introduccion
 nav_order: 0
 ---
 
-Los atributos miden el potencial en bruto de un personaje y se utilizan para calcular la mayor parte de sus demás estadisticas.
+Los atributos miden el potencial en bruto de un personaje y se utilizan para calcular la mayor parte de sus demás estadísticas.
 
 ## Los seis atributos
 
@@ -29,7 +29,7 @@ Los modificadores de atributo representan como de desarrollada esta cada caracte
 - Un modificador superior a la media indica mayor probabilidad de éxito en las acciones relacionadas
 - Un modificador inferior a la media indica menor probabilidad de éxito
 
-| Modificador | Interpretacion |
+| Modificador | Interpretación |
 |-------------|----------------|
 | -5 a -2 | Muy por debajo de la media |
 | -1 | Ligeramente por debajo de la media |
@@ -46,7 +46,7 @@ Una **mejora de atributo** incrementa el modificador de un atributo en +1. Se ob
 
 - **Ascendencia**: proporciona mejoras especificas segun tu linaje
 - **Bagaje**: refleja tu historia y ocupacion previa
-- **Clase**: representa las aptitudes naturales necesarias para tu profesion
+- **Clase**: representa las aptitudes naturales necesarias para tu profesión
 - **Mejoras gratuitas**: permiten personalizar tu personaje segun tu vision
 
 ### Defectos de atributo
@@ -84,4 +84,4 @@ Cada atributo afecta diferentes aspectos del juego:
 | **Constitución** | Puntos de Golpe, Fortaleza |
 | **Inteligencia** | Idiomas adicionales, pruebas de Saber, Arcanos, Artesanía, Ocultismo y Sociedad |
 | **Sabiduría** | Voluntad, Percepción, pruebas de Medicina, Naturaleza, Religion y Supervivencia |
-| **Carisma** | Pruebas de Diplomacia, Engano, Intimidación, Interpretacion |
+| **Carisma** | Pruebas de Diplomacia, Engano, Intimidación, Interpretación |

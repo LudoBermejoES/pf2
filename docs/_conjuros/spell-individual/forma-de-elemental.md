@@ -20,7 +20,7 @@ spell_level: 5
 
 Llamas al poder de los Planos para transformarte en una forma de batalla elemental Mediana. Cuando Lanzas este conjuro, elige un elemento de los indicados. Cuando estas en esta forma obtienes el rasgo correspondiente ademas del rasgo elemental. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
 - CA = 19 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 10 Puntos de Golpe temporales.
 - Vision en la oscuridad.

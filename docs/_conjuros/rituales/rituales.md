@@ -213,7 +213,7 @@ Puedes formular hasta 7 preguntas que tienen que poderse responder con "si" o "n
 
 **Lanzador secundario:** 2, tienen que ser adoradores de tu religion
 
-**Prueba primaria:** Religion; **Pruebas secundarias:** Artesanía, Interpretacion
+**Prueba primaria:** Religion; **Pruebas secundarias:** Artesanía, Interpretación
 
 **Rango de distancia:** 40 pies (12 m); **Area:** explosion de 40 pies (12 m) de radio alrededor de un altar, santuario o elemento fijo e inmovil de tu dios
 
@@ -358,7 +358,7 @@ Trazas un circulo ritual y cuando el ritual se completa trasladas a todas las cr
 
 Puede haber un lanzador secundario ubicado en el lugar exacto del destino, en lugar de contigo en el punto de origen. Si el lanzador secundario en el destino tiene éxito en su prueba y tu obtienes un éxito, en su lugar el ritual es un éxito critico.
 
-**Éxito critico** Llegas al Plano previsto en el ultimo lugar en el que uno de los objetivos (a tu eleccion) estaba la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicacion aleatoria del mismo. El circulo permanece activo durante 1 minuto, durante el cual cualquier criatura transportada por el ritual puede volver al punto de origen con una sola acción, que tiene el rasgo concentrar.
+**Éxito critico** Llegas al Plano previsto en el ultimo lugar en el que uno de los objetivos (a tu elección) estaba la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicacion aleatoria del mismo. El circulo permanece activo durante 1 minuto, durante el cual cualquier criatura transportada por el ritual puede volver al punto de origen con una sola acción, que tiene el rasgo concentrar.
 
 **Éxito** Igual que éxito critico, pero llegas a 1d10 x 25 millas (1 milla = 1,6 km) de tu destino.
 
@@ -500,7 +500,7 @@ Desgarras el velo que lleva a la otra vida y llamas a un espíritu desde su luga
 
 **Lanzador secundario:** 2
 
-**Prueba primaria:** Ocultismo (maestro); **Pruebas secundarias:** Interpretacion, Sociedad
+**Prueba primaria:** Ocultismo (maestro); **Pruebas secundarias:** Interpretación, Sociedad
 
 Sondeas los recuerdos, el conocimiento, las leyendas, los relatos y el saber de los demás mortales acerca de un tema. El tema debe ser una persona, lugar o cosa importante. Si (en caso de ser una persona) el sujeto esta presente, incrementa en un paso el grado de éxito de tu prueba de habilidad principal. Si tan solo dispones de informaciones vagas acerca del tema antes del ritual, disminuye en un paso el grado de éxito de tu prueba de habilidad principal. Dichos modificadores se anulan entre si si tienes presente a un sujeto, pero poca o ninguna información de base.
 

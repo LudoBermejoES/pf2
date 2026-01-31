@@ -62,7 +62,7 @@ Las siguientes aptitudes que puedes elegir de la dote general Mascota se pueden 
 
 ### Lista de Aptitudes de Familiar
 
-**Acompañante:** Tu familiar te ayuda a interpretar. Siempre que haces una prueba de Interpretacion, si tu familiar esta cerca y puede actuar, te acompaña con gorjeos, palmadas o su propio instrumento en miniatura. Esto te concede un bonificador +1 por circunstancia o un +2 si tienes el rango maestro en Interpretacion.
+**Acompañante:** Tu familiar te ayuda a interpretar. Siempre que haces una prueba de Interpretación, si tu familiar esta cerca y puede actuar, te acompaña con gorjeos, palmadas o su propio instrumento en miniatura. Esto te concede un bonificador +1 por circunstancia o un +2 si tienes el rango maestro en Interpretación.
 
 **Complice:** Tu familiar es tu socio en el delito. A pesar de ser un esbirro, obtiene 1 reacción al inicio de sus turnos, que tan solo puede utilizar para Prestarte ayuda en una prueba de habilidad de Engaño o de Latrocinio (sigue teniendo que prepararla para ayudarte de la forma habitual para la reacción Prestar ayuda). Tiene éxito automaticamente en su prueba de Prestar ayuda con dichas habilidades u obtiene automaticamente un éxito critico si tienes el rango maestro en la habilidad en cuestion.
 
@@ -126,6 +126,6 @@ Las aptitudes de amo te afectan principalmente a ti o a la magia que circula ent
 
 **Recuperar familiar:** Una vez al dia, puedes utilizar una actividad de 3 acciones, con el rasgo concentrar, para teletransportar a tu espacio a tu familiar. Tu familiar ha de estar a 1 milla (1,6 km) o menos de ti, o el intento de convocarlo falla. Este es un efecto de teletransporte.
 
-**Transmision de conjuros:** Si tu familiar se encuentra en tu espacio, puedes lanzar un conjuro con un alcance de toque, transferir su poder a tu familiar y ordenar a tu familiar que lo transmita. Si lo haces, el familiar utiliza sus 2 acciones del asalto para moverse hasta un objetivo de tu eleccion y tocarlo. Si no llega a tocar al objetivo en dicho asalto, el conjuro no surte efecto.
+**Transmision de conjuros:** Si tu familiar se encuentra en tu espacio, puedes lanzar un conjuro con un alcance de toque, transferir su poder a tu familiar y ordenar a tu familiar que lo transmita. Si lo haces, el familiar utiliza sus 2 acciones del asalto para moverse hasta un objetivo de tu elección y tocarlo. Si no llega a tocar al objetivo en dicho asalto, el conjuro no surte efecto.
 
 **Union vital:** Si tu familiar quedaria reducido a 0 PG debido a sufrir daño, y como una reacción con el rasgo concentrar, puedes asumir tu el daño y tu familiar nada. Sin embargo, todo efecto especial que se aplicaria debido a dicho daño (como por ejemplo el veneno de serpiente) se seguiria aplicando al familiar.

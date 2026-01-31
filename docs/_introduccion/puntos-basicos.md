@@ -57,7 +57,7 @@ El bagaje representa la crianza y formacion del personaje:
 
 ### Clase
 
-La clase define la profesion aventurera del personaje:
+La clase define la profesión aventurera del personaje:
 
 - Determina sus habilidades principales de combate y exploración
 - Ejemplos: guerrero, mago, clérigo, picaro, druida, bardo

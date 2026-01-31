@@ -19,4 +19,4 @@ spell_level: 2
 
 ---
 
-La piedra preciosa que tocas brilla, extendiendo luz brillante con un color a tu eleccion en un radio de 20 pies (6 m) y luz tenue los siguientes 20 pies (6 m). El conjuro se acaba de inmediato si la piedra preciosa se rompe.
+La piedra preciosa que tocas brilla, extendiendo luz brillante con un color a tu elección en un radio de 20 pies (6 m) y luz tenue los siguientes 20 pies (6 m). El conjuro se acaba de inmediato si la piedra preciosa se rompe.

@@ -27,7 +27,7 @@ La ambición, la versatilidad y el potencial excepcional de los humanos les han 
 | **Idiomas** | Común + tantos idiomas adicionales como 1 + tu modificador por Inteligencia (si es positivo). Elige de entre la lista de idiomas comunes y cualquier otro idioma al que tienes acceso (como por ejemplo los idiomas predominantes en tu region). |
 | **Rasgos** | Humano, Humanoide |
 
-## Podrias...
+## Podrías...
 
 - Luchar por la grandeza, o bien por derecho propio o bien en pro de una causa.
 - Querer entender tu proposito en el mundo.

@@ -17,7 +17,7 @@ Una vez has adquirido tu equipo inicial, hay tres formas principales de obtener 
 
 ## Monedas y Efectivo
 
-Aunque en algunas zonas podrias hacer trueque de objetos valiosos, el efectivo es la forma mas versatil de hacer transacciones cuando vas al mercado. El efectivo mas comun son las monedas. Hay cuatro tipos diferentes de monedas, cada una de ellas estandarizada en peso y valor.
+Aunque en algunas zonas podrías hacer trueque de objetos valiosos, el efectivo es la forma mas versatil de hacer transacciones cuando vas al mercado. El efectivo mas comun son las monedas. Hay cuatro tipos diferentes de monedas, cada una de ellas estandarizada en peso y valor.
 
 | Moneda | Abreviatura | Valor |
 |--------|-------------|-------|
@@ -94,7 +94,7 @@ Puedes desenvainar, recoger del suelo o sostener un objeto que requiere dos mano
 
 Puedes utilizar la acción de Interactuar para:
 
-- **Sacar, guardar o intercambiar un objeto.** Para guardarlo tienes que estar empuñando el objeto y para sacarlo tienes que llevarlo puesto. Intercambiar te permite guardar un objeto y sacar otro en la misma acción (como por ejemplo guardar una daga y sacar una maza). Las aptitudes que especifican que haces cuando Interactúas solo permiten esto si lo mencionan; la dote Desenvainado rapido permite a un picaro Interactuar para desenvainar un arma, pero no le permite envainarla tambien. Intercambiar te permite hacerlo con tan solo dos objetos; si estas empuñando dos armas, podrias guardar una de ellas y sacar un objeto diferente, pero tendrías que guardar la segunda por separado.
+- **Sacar, guardar o intercambiar un objeto.** Para guardarlo tienes que estar empuñando el objeto y para sacarlo tienes que llevarlo puesto. Intercambiar te permite guardar un objeto y sacar otro en la misma acción (como por ejemplo guardar una daga y sacar una maza). Las aptitudes que especifican que haces cuando Interactúas solo permiten esto si lo mencionan; la dote Desenvainado rapido permite a un picaro Interactuar para desenvainar un arma, pero no le permite envainarla tambien. Intercambiar te permite hacerlo con tan solo dos objetos; si estas empuñando dos armas, podrías guardar una de ellas y sacar un objeto diferente, pero tendrías que guardar la segunda por separado.
 - **Recoger un objeto del suelo.**
 - **Dar o recoger un objeto sostenido por una criatura voluntaria.** La criatura a la que le das el objeto ha de tener una mano libre. Tambien puedes arrojar un objeto a alguien. Tipicamente tienes que tener éxito en un ataque a distancia CD 15 con un incremento de rango de distancia de 10 pies (3 m) para conseguirlo.
 - **Soltar un escudo u otro objeto que llevas utilizando una mano.**
@@ -169,7 +169,7 @@ Por lo general no es necesario determinar la Impedimenta de las monedas en fracc
 
 ### Impedimenta de las Criaturas
 
-Podrias necesitar saber la Impedimenta de una criatura, sobre todo si tienes que sacar a alguien a cuestas. Esta tabla indica la Impedimenta tipica de una criatura, pero el DJ podría ajustar dichas cantidades.
+Podrías necesitar saber la Impedimenta de una criatura, sobre todo si tienes que sacar a alguien a cuestas. Esta tabla indica la Impedimenta tipica de una criatura, pero el DJ podría ajustar dichas cantidades.
 
 | Tamaño de la Criatura | Impedimenta |
 |-----------------------|-------------|
@@ -182,7 +182,7 @@ Podrias necesitar saber la Impedimenta de una criatura, sobre todo si tienes que
 
 ### Arrastrar
 
-En algunas situaciones, en lugar de llevar encima un objeto o criatura, podrias arrastrarlo. Si arrastras algo, trata su Impedimenta como si fuera la mitad. Tipicamente, puedes arrastrar una sola cosa a la vez, tienes que utilizar ambas manos para hacerlo y arrastras lentamente, aproximadamente unos 50 pies (15 m) por minuto.
+En algunas situaciones, en lugar de llevar encima un objeto o criatura, podrías arrastrarlo. Si arrastras algo, trata su Impedimenta como si fuera la mitad. Tipicamente, puedes arrastrar una sola cosa a la vez, tienes que utilizar ambas manos para hacerlo y arrastras lentamente, aproximadamente unos 50 pies (15 m) por minuto.
 
 Usa la Impedimenta total de lo que estas arrastrando (por ejemplo, si arrastras un saco lleno de tesoro) sumando la Impedimenta de todo lo que hay en su interior.
 

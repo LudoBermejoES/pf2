@@ -384,7 +384,7 @@ Estos efectos transforman por completo al objetivo en una nueva forma. Un objeti
 
 Cualquier Golpe concedido por un efecto de polimorfia se considera magico. Si no se indica lo contrario, los conjuros de polimorfia no permiten al objetivo adoptar la apariencia de una criatura individual especifica, sino mas bien solo la de una criatura generica de un tipo o ascendencia general.
 
-**Forma de batalla**: Si adoptas una forma de batalla mediante un conjuro de polimorfia, sus estadisticas especiales se pueden ajustar tan solo mediante bonificadores por circunstancia, bonificadores por estatus y penalizadores. Si no se indica lo contrario, la forma de batalla te impide lanzar conjuros, hablar y la mayoría de acciones manipulativas que requieren tener manos (si existen dudas acerca de si puedes utilizar una acción o no, el DJ es quien decide).
+**Forma de batalla**: Si adoptas una forma de batalla mediante un conjuro de polimorfia, sus estadísticas especiales se pueden ajustar tan solo mediante bonificadores por circunstancia, bonificadores por estatus y penalizadores. Si no se indica lo contrario, la forma de batalla te impide lanzar conjuros, hablar y la mayoría de acciones manipulativas que requieren tener manos (si existen dudas acerca de si puedes utilizar una acción o no, el DJ es quien decide).
 
 Tu equipo se absorbe en tu cuerpo; sus aptitudes constantes siguen funcionando, pero no puedes activar objeto alguno. Si un efecto de polimorfia hace que aumentes de tamaño, necesitas espacio para expandirte o el efecto queda disipado.
 
@@ -459,7 +459,7 @@ A algunos muros se les puede dar forma; puedes manipular el muro para que adopte
 
 Cada conjuro utiliza el siguiente formato. Las entradas solo aparecen cuando son aplicables, por lo que no todos los conjuros tienen todas las entradas aqui descritas. La linea del nombre de conjuro tambien indica el tipo si es un truco o un conjuro de foco, así como el rango.
 
-### Estructura del bloque de estadisticas
+### Estructura del bloque de estadísticas
 
 **NOMBRE DEL CONJURO [acciones] CONJURO (RANGO)**
 

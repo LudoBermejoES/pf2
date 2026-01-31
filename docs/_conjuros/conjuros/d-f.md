@@ -181,7 +181,7 @@ Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastr
 
 **Potenciado (2.o)** La duracion se incrementa a 8 horas.
 
-**Potenciado (4.o)** La duracion se incrementa a 8 horas. El conjuro tiene un alcance de 20 pies (6 m) y un area de una emanacion de 20 pies (6 m), afectando hasta 10 criaturas a tu eleccion en dicha area.
+**Potenciado (4.o)** La duracion se incrementa a 8 horas. El conjuro tiene un alcance de 20 pies (6 m) y un area de una emanacion de 20 pies (6 m), afectando hasta 10 criaturas a tu elección en dicha area.
 
 ---
 
@@ -522,7 +522,7 @@ Ademas, las criaturas en el area y las que esten a 5 pies (1,5 m) o menos de la 
 
 Convocas a un esbirro fantasmal. El esbirro tiene aproximadamente la forma de un humanoide. Puedes elegir entre que sea invisible o que tenga una apariencia efímera, pero se trata obviamente de un efecto magico y no de una criatura real.
 
-### Estadisticas del Esbirro Fantasmal
+### Estadísticas del Esbirro Fantasmal
 
 **ESBIRRO FANTASMAL** CRIATURA -1
 

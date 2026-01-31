@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /habilidades/interpretacion/
+permalink: /habilidades/interpretación/
 title: Interpretación (Car)
 chapter: Habilidades
 category: habilidades
@@ -42,7 +42,7 @@ Cuando llevas a cabo una interpretación breve (una canción, un baile rápido o
 
 - **Éxito crítico:** Tu interpretación impresiona a los observadores, que es probable que compartan comentarios acerca de tu aptitud.
 - **Éxito:** Demuestras tu valía y los observadores aprecian la calidad de tu interpretación.
-- **Fallo:** Tu interpretacion fracasa.
+- **Fallo:** Tu interpretación fracasa.
 - **Fallo crítico:** Tan solo demuestras tu incompetencia.
 
 ### Ejemplos de tareas de Interpretar

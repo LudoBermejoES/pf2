@@ -52,7 +52,7 @@ Aprendes el conjuro de composición himno de curación, que imbuye tu musica con
 
 ---
 
-### Interpretacion Marcial
+### Interpretación Marcial
 **Dote 1**
 
 *Bardo*
@@ -65,7 +65,7 @@ Si obtienes los trucos de composición himno de reagrupamiento o canción de fue
 
 ---
 
-### Interpretacion Versatil
+### Interpretación Versatil
 **Dote 1**
 
 *Bardo*

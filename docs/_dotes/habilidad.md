@@ -39,7 +39,7 @@ Eres un tesoro de información, pero no toda ella procede de fuentes reputadas. 
 
 **Prerrequisitos:** Inteligencia +1
 
-Obtienes el rango entrenado en una habilidad a tu eleccion.
+Obtienes el rango entrenado en una habilidad a tu elección.
 
 **Especial:** Puedes seleccionar esta dote en multiples ocasiones, eligiendo una habilidad diferente cada vez.
 
@@ -73,7 +73,7 @@ Si tienes el rango entrenado en la habilidad apropiada para la tradición del co
 
 **Fallo:** No consigues reconocer el conjuro.
 
-**Fallo critico:** Identificas incorrectamente el conjuro como si fuera otro, a eleccion del DJ.
+**Fallo critico:** Identificas incorrectamente el conjuro como si fuera otro, a elección del DJ.
 
 ---
 
@@ -483,7 +483,7 @@ Tan solo puedes utilizar Saltar paredes una vez en un turno, si no tienes el ran
 
 **Prerrequisitos:** rango experto en Atletismo
 
-Tu habilidad atletica sin paralelo te permite saltar distancias imposibles. Triplica la distancia para tu Salto de longitud (por lo que podrias saltar 60 pies [18 m] mediante una prueba con éxito CD 20). Cuando haces un Salto de altura, utiliza el mismo calculo que para un salto de longitud, pero no tripliques la distancia.
+Tu habilidad atletica sin paralelo te permite saltar distancias imposibles. Triplica la distancia para tu Salto de longitud (por lo que podrías saltar 60 pies [18 m] mediante una prueba con éxito CD 20). Cuando haces un Salto de altura, utiliza el mismo calculo que para un salto de longitud, pero no tripliques la distancia.
 
 Cuando haces Saltos de altura o de longitud, puedes saltar una distancia mayor que tu Velocidad invirtiendo acciones adicionales. Por cada acción adicional invertida, suma tu Velocidad al limite de distancia a Saltar.
 
@@ -515,14 +515,14 @@ Eres habil en averiguar información conversando. La actividad de exploración R
 
 ---
 
-#### Impresion de grupo
+#### Impresión de grupo
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
 **Prerrequisitos:** rango entrenado en Diplomacia
 
-Cuando Causas impresion, puedes comparar el resultado de tu prueba de Diplomacia con la CD de Voluntad de 10 objetivos con los que has conversado, sin penalizador. Aumenta a 20 el numero de objetivos si tienes el rango experto, a 50 si tienes el rango maestro y a 100 si tienes el rango legendario.
+Cuando Causas impresión, puedes comparar el resultado de tu prueba de Diplomacia con la CD de Voluntad de 10 objetivos con los que has conversado, sin penalizador. Aumenta a 20 el numero de objetivos si tienes el rango experto, a 50 si tienes el rango maestro y a 100 si tienes el rango legendario.
 
 ---
 
@@ -550,7 +550,7 @@ Tratas de reducir el panico. Haz una prueba de Diplomacia, comparandola con la C
 
 **Prerrequisitos:** rango experto en Diplomacia
 
-Las primeras impresiones son tu punto fuerte. Cuando te encuentras con alguien en una situación casual o social, puedes hacer de inmediato una prueba de Diplomacia para Causar impresion a dicha criatura en lugar de tener que conversar con ella durante 1 minuto. Si fallas, puedes entablar una conversacion de 1 minuto y hacer una nueva prueba al final de dicho tiempo en lugar de tener que aceptar un fallo o un fallo critico.
+Las primeras impresiones son tu punto fuerte. Cuando te encuentras con alguien en una situación casual o social, puedes hacer de inmediato una prueba de Diplomacia para Causar impresión a dicha criatura en lugar de tener que conversar con ella durante 1 minuto. Si fallas, puedes entablar una conversación de 1 minuto y hacer una nueva prueba al final de dicho tiempo en lugar de tener que aceptar un fallo o un fallo critico.
 
 ---
 
@@ -576,7 +576,7 @@ Puedes minimizar las consecuencias o la indignacion resultante de tus peticiones
 
 **Prerrequisitos:** rango legendario en Diplomacia
 
-Puedes negociar increiblemente rapido en situaciones adversas. Primero tratas de Causar impresion y después Pides que tu oponente deponga su actividad actual y emprenda negociaciones. Sufres un penalizador -5 a tu prueba de Diplomacia. En general, la CD de esta prueba es la CD de Voluntad de la criatura, aunque el DJ podría modificarla basándose en la situación. Algunas criaturas podrían ser incapaces de detenerse fueran cuales fueran sus deseos personales, e incluso las que estan de acuerdo en parlamentar podrían acabar encontrando tus argumentos vacios y retornar a la violencia.
+Puedes negociar increiblemente rapido en situaciones adversas. Primero tratas de Causar impresión y después Pides que tu oponente deponga su actividad actual y emprenda negociaciones. Sufres un penalizador -5 a tu prueba de Diplomacia. En general, la CD de esta prueba es la CD de Voluntad de la criatura, aunque el DJ podría modificarla basándose en la situación. Algunas criaturas podrían ser incapaces de detenerse fueran cuales fueran sus deseos personales, e incluso las que estan de acuerdo en parlamentar podrían acabar encontrando tus argumentos vacios y retornar a la violencia.
 
 ---
 
@@ -613,7 +613,7 @@ Puedes usar Engano para tejer trampas que confunden a cualquiera que intenta eng
 
 **Prerrequisitos:** rango entrenado en Engano
 
-Tu encanto te permite ganarte a aquellos a los que mientes. Cuando obtienes un éxito critico utilizando la acción Mentir, la actitud del objeto hacia ti mejora un paso, como si hubieras tenido éxito utilizando Diplomacia para Causar impresion. Esto solo funciona una vez por conversacion y, si obtienes un éxito critico contra multiples objetivos utilizando el mismo resultado, eliges la criatura a la que mejorar la actitud. Tienes que estar mintiendo para impartir una información aparentemente importante, exagerar tu estatus o caer en gracia, es decir: cosas que no se pueden conseguir con mentiras triviales o irrelevantes.
+Tu encanto te permite ganarte a aquellos a los que mientes. Cuando obtienes un éxito critico utilizando la acción Mentir, la actitud del objeto hacia ti mejora un paso, como si hubieras tenido éxito utilizando Diplomacia para Causar impresión. Esto solo funciona una vez por conversación y, si obtienes un éxito critico contra multiples objetivos utilizando el mismo resultado, eliges la criatura a la que mejorar la actitud. Tienes que estar mintiendo para impartir una información aparentemente importante, exagerar tu estatus o caer en gracia, es decir: cosas que no se pueden conseguir con mentiras triviales o irrelevantes.
 
 ---
 
@@ -654,31 +654,31 @@ Esquivas y evitas todo intento de descubrir tu autentica naturaleza o intencione
 
 ---
 
-## Interpretacion
+## Interpretación
 
 ### Nivel 1
 
-#### Interpretacion fascinante
+#### Interpretación fascinante
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
-**Prerrequisitos:** rango entrenado en Interpretacion
+**Prerrequisitos:** rango entrenado en Interpretación
 
 Cuando interpretas, compara tu resultado con la CD de Voluntad de un observador. Si tienes éxito, el objetivo queda fascinado por ti durante 1 asalto. Si el observador esta en una situación que exige atencion inmediata, como por ejemplo un combate, debes obtener un éxito critico para fascinarlo y la acción de Interpretar obtiene el rasgo incapacitacion. Tienes que elegir a que criatura quieres fascinar antes de hacer la tirada, y el objetivo queda a continuación inmune temporalmente durante 1 hora.
 
-Si tienes el rango experto en Interpretacion, puedes fascinar hasta a 4 observadores; si tienes el rango maestro, hasta a 10; y si tienes el rango legendario, puedes fascinar a cualquier numero de observadores al mismo tiempo.
+Si tienes el rango experto en Interpretación, puedes fascinar hasta a 4 observadores; si tienes el rango maestro, hasta a 10; y si tienes el rango legendario, puedes fascinar a cualquier numero de observadores al mismo tiempo.
 
 ---
 
-#### Interpretacion impresionante
+#### Interpretación impresionante
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
-**Prerrequisitos:** rango entrenado en Interpretacion
+**Prerrequisitos:** rango entrenado en Interpretación
 
-Tus interpretaciones inspiran admiracion y te granjean seguidores. Puedes Causar impresion utilizando Interpretacion en lugar de Diplomacia. Si inviertes por lo menos 10 minutos interpretando frente a una audiencia, puedes Causar impresion designando como objetivos hasta a 10 miembros de la misma que permanecen allí durante toda la interpretacion, sin sufrir el penalizador normal. El numero de objetivos se incrementa a 20 para una interpretacion de 1 hora y a 50 para una interpretacion de 2 horas.
+Tus interpretaciones inspiran admiracion y te granjean seguidores. Puedes Causar impresión utilizando Interpretación en lugar de Diplomacia. Si inviertes por lo menos 10 minutos interpretando frente a una audiencia, puedes Causar impresión designando como objetivos hasta a 10 miembros de la misma que permanecen allí durante toda la interpretación, sin sufrir el penalizador normal. El numero de objetivos se incrementa a 20 para una interpretación de 1 hora y a 50 para una interpretación de 2 horas.
 
 ---
 
@@ -687,9 +687,9 @@ Tus interpretaciones inspiran admiracion y te granjean seguidores. Puedes Causar
 
 **Dote 1**
 
-**Prerrequisitos:** rango entrenado en Interpretacion
+**Prerrequisitos:** rango entrenado en Interpretación
 
-Tienes un talento excepcional en un tipo de interpretacion. Obtienes un bonificador +1 por circunstancia cuando llevas a cabo un determinado tipo de interpretacion. Si tienes el rango maestro en Interpretacion, este bonificador se incrementa a +2. Selecciona una de las siguientes especialidades y aplica el bonificador al hacer pruebas de Interpretacion de ese tipo. Si no queda claro si una especialidad es aplicable o no, quien decide es el DJ.
+Tienes un talento excepcional en un tipo de interpretación. Obtienes un bonificador +1 por circunstancia cuando llevas a cabo un determinado tipo de interpretación. Si tienes el rango maestro en Interpretación, este bonificador se incrementa a +2. Selecciona una de las siguientes especialidades y aplica el bonificador al hacer pruebas de Interpretación de ese tipo. Si no queda claro si una especialidad es aplicable o no, quien decide es el DJ.
 
 | Especialidad | Ejemplos |
 |---|---|
@@ -712,9 +712,9 @@ Tienes un talento excepcional en un tipo de interpretacion. Obtienes un bonifica
 
 **Dote 15**
 
-**Prerrequisitos:** rango legendario en Interpretacion, Interprete virtuoso
+**Prerrequisitos:** rango legendario en Interpretación, Interprete virtuoso
 
-Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la habilidad Sociedad han oido hablar de ti y por lo general tienen una actitud hacia ti un paso mejor de lo normal, dependiendo de tu reputacion y de la disposicion de la criatura. Por ejemplo, si eres conocido por exhibir un comportamiento cruel y exigente, las criaturas podian verse intimidadas por ti, en lugar de ser amistosas hacia ti. Cuando Obtienes ingresos mediante la Interpretacion, atraes audiencias de nivel mayor al que la ubicacion permitiria, puesto que las audiencias acuden a verte desde lugares lejanos. Por ejemplo, gobernantes y angeles podrían viajar hasta tu pequena torre de los bosques para oirte interpretar. Tipicamente, esto incrementa las audiencias disponibles hasta tu nivel o en 2 niveles, el mas alto de ambos valores.
+Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la habilidad Sociedad han oido hablar de ti y por lo general tienen una actitud hacia ti un paso mejor de lo normal, dependiendo de tu reputacion y de la disposicion de la criatura. Por ejemplo, si eres conocido por exhibir un comportamiento cruel y exigente, las criaturas podian verse intimidadas por ti, en lugar de ser amistosas hacia ti. Cuando Obtienes ingresos mediante la Interpretación, atraes audiencias de nivel mayor al que la ubicacion permitiria, puesto que las audiencias acuden a verte desde lugares lejanos. Por ejemplo, gobernantes y angeles podrían viajar hasta tu pequena torre de los bosques para oirte interpretar. Tipicamente, esto incrementa las audiencias disponibles hasta tu nivel o en 2 niveles, el mas alto de ambos valores.
 
 ---
 
@@ -740,7 +740,7 @@ Puedes ponerte duro con la gente de forma efectiva, incluso si no la tienes aisl
 
 **Prerrequisitos:** rango entrenado en Intimidación
 
-Puedes amedrentar a otros con tan solo unas pocas implicaciones bien elegidas. Puedes Intimidar a una criatura después de 1 asalto de conversacion en lugar de 1 minuto. Sigues sin poder Intimidar a una criatura en mitad del combate o sin haber entablado conversacion.
+Puedes amedrentar a otros con tan solo unas pocas implicaciones bien elegidas. Puedes Intimidar a una criatura después de 1 asalto de conversación en lugar de 1 minuto. Sigues sin poder Intimidar a una criatura en mitad del combate o sin haber entablado conversación.
 
 ---
 
@@ -915,7 +915,7 @@ Puedes apanar heridas, incluso en combate. Haz una prueba de Medicina con la mis
 
 Puedes aplicar curas naturales para curar a tus aliados. Puedes usar Naturaleza en lugar de Medicina para tratar heridas y, si tienes una competencia mayor en Naturaleza, puedes hacer pruebas mas difíciles. No reemplaza a Medicina para usos de la habilidad diferentes a Tratar heridas ni para prerrequisitos de dote.
 
-Si estas en las tierras virgenes, podrias tener un acceso mas facil a los ingredientes naturales, lo que te concede un bonificador +2 por circunstancia a tu prueba de Tratar heridas utilizando Naturaleza, a criterio del DJ.
+Si estas en las tierras virgenes, podrías tener un acceso mas facil a los ingredientes naturales, lo que te concede un bonificador +2 por circunstancia a tu prueba de Tratar heridas utilizando Naturaleza, a criterio del DJ.
 
 ---
 
@@ -1008,7 +1008,7 @@ Has descubierto avances medicos o tecnicas que consiguen resultados milagrosos. 
 
 Inviertes tiempo en enseñar a un animal a llevar a cabo determinada acción. Puedes, o bien seleccionar una acción basica que el animal ya sabe hacer (tipicamente las indicadas en la acción, Comandar a un animal) o enseñar al animal una nueva acción. El DJ es quien determina la CD de cualquier prueba requerida y la cantidad de tiempo necesario para el entrenamiento (en general, por lo menos 1 semana). Suele ser imposible enseñar a un animal un truco que requiere pensamiento critico.
 
-Si tienes el rango experto, maestro o legendario en Naturaleza, podrias entrenar criaturas menos usuales, a discreción del DJ.
+Si tienes el rango experto, maestro o legendario en Naturaleza, podrías entrenar criaturas menos usuales, a discreción del DJ.
 
 **Éxito:** El animal aprende la acción. Si era una acción que el animal ya conocia, puedes Comandar animal para que la lleve a cabo sin necesitar una prueba de Naturaleza. Si era una nueva acción basica, anade dicha acción a las que puede llevar a cabo el animal cuando se le Comanda, pero en ese caso tienes que hacer la prueba.
 
@@ -1159,7 +1159,7 @@ Nunca te equivocas con la información relativa a tus areas de experiencia. Cuan
 
 **Prerrequisitos:** rango legendario en Saber
 
-Tu fama se ha extendido por todos los paises (por ejemplo, si tienes Saber [guerra] podrias ser un general o táctico legendario). Esto funciona como Interprete legendario, excepto que obtienes trabajos de mayor nivel cuando Obtienes ingresos mediante Saber.
+Tu fama se ha extendido por todos los paises (por ejemplo, si tienes Saber [guerra] podrías ser un general o táctico legendario). Esto funciona como Interprete legendario, excepto que obtienes trabajos de mayor nivel cuando Obtienes ingresos mediante Saber.
 
 ---
 
@@ -1254,7 +1254,7 @@ Siempre te mueves furtivamente a menos que elijas que te vean, incluso cuando no
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
-Dominas la vida en las calles y notas el pulso del asentamiento en el que estas. Puedes utilizar tu modificador por Sociedad en lugar de tu modificador por Diplomacia para Reunir información. En cualquier asentamiento que frecuentes regularmente, podrás utilizar la acción de Recordar conocimiento con Sociedad para averiguar el mismo tipo de información que podrias descubrir con Diplomacia para Reunir información. La CD suele ser significativamente mayor, pero conoces la información sin tener que invertir tiempo en reunirla. Si no consigues recordar la información, puedes hacer intentos subsiguientes de Reunir información de la forma habitual.
+Dominas la vida en las calles y notas el pulso del asentamiento en el que estas. Puedes utilizar tu modificador por Sociedad en lugar de tu modificador por Diplomacia para Reunir información. En cualquier asentamiento que frecuentes regularmente, podrás utilizar la acción de Recordar conocimiento con Sociedad para averiguar el mismo tipo de información que podrías descubrir con Diplomacia para Reunir información. La CD suele ser significativamente mayor, pero conoces la información sin tener que invertir tiempo en reunirla. Si no consigues recordar la información, puedes hacer intentos subsiguientes de Reunir información de la forma habitual.
 
 ---
 
@@ -1265,7 +1265,7 @@ Dominas la vida en las calles y notas el pulso del asentamiento en el que estas.
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
-Te criaste entre la nobleza o has aprendido la etiqueta y el porte correctos, lo que te permite presentarte como un noble y tomar parte en intrigas de influencia y de politica. A menos que te presentes de forma intencional de otra manera, cualquiera que habla contigo supone que eres un noble o que estas asociado de cerca con la nobleza (como por ejemplo un sirviente de alto rango). Puedes utilizar Sociedad para Causar impresion en un noble, así como Disfrazarte para pretender ser un tipo de noble o un noble individual especifico. Si utilizas las habilidades normales en estas situaciones, en su lugar obtienes un bonificador +1 por circunstancia a la prueba.
+Te criaste entre la nobleza o has aprendido la etiqueta y el porte correctos, lo que te permite presentarte como un noble y tomar parte en intrigas de influencia y de politica. A menos que te presentes de forma intencional de otra manera, cualquiera que habla contigo supone que eres un noble o que estas asociado de cerca con la nobleza (como por ejemplo un sirviente de alto rango). Puedes utilizar Sociedad para Causar impresión en un noble, así como Disfrazarte para pretender ser un tipo de noble o un noble individual especifico. Si utilizas las habilidades normales en estas situaciones, en su lugar obtienes un bonificador +1 por circunstancia a la prueba.
 
 ---
 
@@ -1432,7 +1432,7 @@ Puedes sobrevivir de forma indefinida sin comida o agua y soportar un frio o un 
 
 **Prerrequisitos:** rango experto en Medicina
 
-Examinas un objeto magico que normalmente no podrias utilizar, en un esfuerzo por trucarlo y activarlo temporalmente. Por ejemplo, esto podría permitir a un guerrero lanzar un conjuro desde una varita o a un mago lanzar un conjuro que no esta en la lista arcana utilizando un pergamino. Tienes que saber que sucede cuando se activa el objeto o no puedes intentar trucarlo.
+Examinas un objeto magico que normalmente no podrías utilizar, en un esfuerzo por trucarlo y activarlo temporalmente. Por ejemplo, esto podría permitir a un guerrero lanzar un conjuro desde una varita o a un mago lanzar un conjuro que no esta en la lista arcana utilizando un pergamino. Tienes que saber que sucede cuando se activa el objeto o no puedes intentar trucarlo.
 
 Haz una prueba utilizando la habilidad correspondiente a la tradición magica del objeto o la que encaja con una tradición que tiene el conjuro en su lista, si tratas de lanzarlo desde el propio objeto. Las habilidades relevantes son Arcanos para la magia arcana, Naturaleza para la primigenia, Ocultismo para las ciencias ocultas, Religion para los divinos o cualquiera de las cuatro para un objeto que tiene el rasgo magico y carece de rasgo de tradición. El DJ es quien determina la CD basándose en el nivel del objeto (posiblemente ajustada dependiendo del objeto o de la situación).
 

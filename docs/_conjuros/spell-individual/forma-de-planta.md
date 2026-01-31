@@ -20,9 +20,9 @@ spell_level: 5
 
 ---
 
-Inspirandote en las criaturas frondosas, te transformas en una forma de batalla de planta Grande. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes elegir una planta especifica similar en la que convertirte (como por ejemplo una Nepenthes en lugar de una Dionea), pero esto no tiene efecto alguno ni en el Tamaño ni en las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo planta. Puedes Disipar el conjuro.
+Inspirandote en las criaturas frondosas, te transformas en una forma de batalla de planta Grande. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes elegir una planta especifica similar en la que convertirte (como por ejemplo una Nepenthes en lugar de una Dionea), pero esto no tiene efecto alguno ni en el Tamaño ni en las estadísticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo planta. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
 - CA = 19 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 12 Puntos de Golpe temporales.
 - Resistencia 10 al veneno.

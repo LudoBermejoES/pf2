@@ -70,7 +70,7 @@ Obtienes el conjuro de composición contrarrestar interpretación. Este es un co
 
 ---
 
-### Interpretacion de himno - Dote 8
+### Interpretación de himno - Dote 8
 
 **Rasgos:** Arquetipo
 

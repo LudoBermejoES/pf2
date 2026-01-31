@@ -7,13 +7,13 @@ category: introduccion
 nav_order: 0
 ---
 
-Los PJs no tienen por que pasar todo su tiempo activo de aventuras. Tambien se pueden recuperar de sus heridas, planificar conquistas futuras o dedicarse a una profesion. En Pathfinder a esto se le llama **tiempo libre**, y permite que el tiempo pase rapidamente mientras los personajes trabajan en tareas u objetivos a largo plazo.
+Los PJs no tienen por que pasar todo su tiempo activo de aventuras. Tambien se pueden recuperar de sus heridas, planificar conquistas futuras o dedicarse a una profesión. En Pathfinder a esto se le llama **tiempo libre**, y permite que el tiempo pase rapidamente mientras los personajes trabajan en tareas u objetivos a largo plazo.
 
 ## Actividades de tiempo libre
 
-- **Practicar una profesion**: ganar monedas
+- **Practicar una profesión**: ganar monedas
 - **Artesanía**: crear equipo nuevo o incluso objetos mágicos
-- **Volver a entrenar**: reemplazar una eleccion de personaje con otra
+- **Volver a entrenar**: reemplazar una elección de personaje con otra
 - **Investigar**: estudiar un problema
 - **Aprender conjuros nuevos**
 - **Dirigir un negocio o un reino**

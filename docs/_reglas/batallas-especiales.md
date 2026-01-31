@@ -48,7 +48,7 @@ Cuando se te acaba el aire, quedas inconsciente y empiezas a asfixiarte. No pued
 
 > ### Combate tridimensional
 >
-> En el combate aereo y en el acuatico, podría ser necesario calcular la posición en tres dimensiones. Para las criaturas voladoras, podrias utilizar uno de los siguientes metodos:
+> En el combate aereo y en el acuatico, podría ser necesario calcular la posición en tres dimensiones. Para las criaturas voladoras, podrías utilizar uno de los siguientes metodos:
 >
 > - Utilizar plataformas para colocar en ellas las criaturas voladoras.
 > - Colocar un dado junto a una criatura, donde el numero indica cuantas casillas esta por encima.

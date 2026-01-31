@@ -24,7 +24,7 @@ spell_level: 1
 
 Para el objetivo, tus palabras son melifluas y tu rostro parece banado en una bruma onirica. Tiene que hacer una salvación de Voluntad, con un bonificador +4 por circunstancia si tus aliados o tu lo habeis amenazado recientemente o utilizado acciones hostiles en su contra.
 
-Puedes Disipar el conjuro. Si utilizas acciones hostiles contra el objetivo, el conjuro se acaba. Si ello sucede, el objetivo no se da cuenta necesariamente de que estaba hechizado a menos que su amistad contigo o las acciones que le has convencido de llevar a cabo choquen con sus expectativas, lo que significa que podrias potencialmente convencerle de continuar siendo tu amigo por medios mundanos.
+Puedes Disipar el conjuro. Si utilizas acciones hostiles contra el objetivo, el conjuro se acaba. Si ello sucede, el objetivo no se da cuenta necesariamente de que estaba hechizado a menos que su amistad contigo o las acciones que le has convencido de llevar a cabo choquen con sus expectativas, lo que significa que podrías potencialmente convencerle de continuar siendo tu amigo por medios mundanos.
 
 **Éxito critico** El objetivo no resulta afectado pero es consciente de que has intentado hechizarlo.
 

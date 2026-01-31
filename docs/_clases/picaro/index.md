@@ -12,7 +12,7 @@ class_name: Pícaro
 
 Eres habil y oportunista. Utilizando tu aguda inteligencia y tus rapidas reacciones, sacas partido de los pasos en falso de tu oponente y pegas donde mas duele. Tu juego es peligroso, buscando emociones y poniendo a prueba tus habilidades sin que probablemente te preocupen demasiado las leyes que se interpongan en tu camino. Si bien la senda de cada picaro es unica y esta salpicada de peligros, lo que tenéis todos en comun es la amplitud y la profundidad de vuestras habilidades.
 
-## Estadisticas de Clase
+## Estadísticas de Clase
 
 | Característica | Valor |
 |----------------|-------|
@@ -62,7 +62,7 @@ Te mueves sigilosamente para sorprender a los enemigos y explorar en busca de pe
 ### En tu tiempo libre...
 Podrías dedicarte a vaciar bolsillos o a comerciar en mercancias ilegales. Tambien podrías formar parte de una cofradía de ladrones, o incluso fundar una propia.
 
-## Podrias...
+## Podrías...
 
 - Refinar tus habilidades practicando intensamente, tanto a solas como por el mundo.
 - Saber donde obtener mercancia ilegal.

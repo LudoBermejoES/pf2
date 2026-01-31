@@ -10,9 +10,9 @@ class_name: Mago
 
 Eres un alumno eterno de los secretos arcanos del universo y utilizas tu dominio de la magia para lanzar potentes conjuros. Tratas la magia como una ciencia, cruzando referencias entre los últimos textos sobre lanzamiento practico de conjuros y antiguos tomos para descubrir y entender como funciona la magia arcana. Aun así, la teoria magica es vasta y no hay forma de estudiarla en su totalidad. La mayoría de los magos aprenden a traves de una educación formal y su currículo informa una rubrica especifica, aunque a veces, algunos investigadores particularmente motivados reúnen por si solos sus propias teorias.
 
-## Estadisticas de Clase
+## Estadísticas de Clase
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Puntos de Golpe** | 6 + tu modificador por Constitución por nivel |
 | **Atributo Clave** | Inteligencia |
@@ -53,7 +53,7 @@ Aprendes nuevos conjuros, creas objetos mágicos o inscribes pergaminos para el 
 
 ---
 
-## Podrias...
+## Podrías...
 
 - Tener una curiosidad intelectual insaciable acerca de como funciona todo en el mundo a tu alrededor, en particular la magia.
 - Buscar formas de aplicar las enseñanzas de tu escuela a cualquier situación, viendo los problemas a traves de la lente de los conjuros a cuyo aprendizaje has dedicado tu vida.

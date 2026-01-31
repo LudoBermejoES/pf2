@@ -21,7 +21,7 @@ Cambiar de un tipo de movimiento a otro requiere acabar la acción que tiene el 
 
 ## Velocidad
 
-La mayoría de los PJs y de los monstruos tienen una estadistica de Velocidad que indica lo rapidamente que pueden moverse por tierra. A esta estadistica se le denomina Velocidad terrestre cuando es necesario diferenciarla de las Velocidades especiales.
+La mayoría de los PJs y de los monstruos tienen una estadística de Velocidad que indica lo rapidamente que pueden moverse por tierra. A esta estadística se le denomina Velocidad terrestre cuando es necesario diferenciarla de las Velocidades especiales.
 
 Cuando usas la acción Zancada, mueves tantos pies (1 pie = 30 cm) como tu Velocidad. Hay numerosas otras aptitudes que te permiten moverte, desde Gatear hasta Saltar, y la mayoría de ellas se basan de alguna forma en tu Velocidad. Siempre que una regla menciona tu Velocidad sin especificar un tipo, se refiere a tu Velocidad terrestre.
 
@@ -31,7 +31,7 @@ Una Velocidad de excavar te permite cavar túneles a traves del terreno. Puedes 
 
 ### Velocidad de trepar
 
-Una Velocidad de trepar te permite subir o bajar fuertes pendientes y superficies verticales. La mayor parte de las criaturas tienen que hacer pruebas de Atletismo para Trepar pero, si tienes Velocidad de trepar, tienes éxito de forma automatica y subes tu Velocidad de trepar en lugar de la distancia indicada. Podrias necesitar pruebas de Atletismo para Trepar en condiciones peligrosas, para encaramarte por superficies extremadamente difíciles o para cruzar planos horizontales, como por ejemplo techos. Tambien puedes hacer una prueba de Atletismo para trepar en lugar de aceptar un éxito automatico con la esperanza de obtener un éxito critico. Tu Velocidad de trepar te concede un bonificador +4 por circunstancia a las pruebas de Atletismo para Trepar.
+Una Velocidad de trepar te permite subir o bajar fuertes pendientes y superficies verticales. La mayor parte de las criaturas tienen que hacer pruebas de Atletismo para Trepar pero, si tienes Velocidad de trepar, tienes éxito de forma automatica y subes tu Velocidad de trepar en lugar de la distancia indicada. Podrías necesitar pruebas de Atletismo para Trepar en condiciones peligrosas, para encaramarte por superficies extremadamente difíciles o para cruzar planos horizontales, como por ejemplo techos. Tambien puedes hacer una prueba de Atletismo para trepar en lugar de aceptar un éxito automatico con la esperanza de obtener un éxito critico. Tu Velocidad de trepar te concede un bonificador +4 por circunstancia a las pruebas de Atletismo para Trepar.
 
 Si tienes Velocidad de trepar, no estas desprevenido mientras trepas.
 
@@ -47,7 +47,7 @@ Los movimientos hacia arriba y hacia abajo son ambos relativos a la gravedad en 
 
 Con una Velocidad de nadar, te puedes impulsar a traves del agua con pocos impedimentos. En lugar de hacer pruebas de Atletismo para nadar, tienes éxito automaticamente y mueves tu Velocidad de nadar en lugar de la distancia indicada. Nadar hacia arriba o hacia abajo sigue siendo equivalente a moverse por terreno difícil. Sigues teniendo que hacer pruebas de Nadar en condiciones peligrosas o para cruzar aguas turbulentas. Tambien puedes hacer una prueba de Atletismo para Nadar en lugar de aceptar un éxito automatico con la esperanza de obtener un éxito critico. Tu Velocidad de nadar te concede un bonificador +4 por circunstancia a las pruebas de Atletismo para Nadar.
 
-Tener una Velocidad de nadar no significa necesariamente que puedas respirar bajo el agua, por lo que podrias tener que contener el aliento estando bajo el agua para no ahogarte.
+Tener una Velocidad de nadar no significa necesariamente que puedas respirar bajo el agua, por lo que podrías tener que contener el aliento estando bajo el agua para no ahogarte.
 
 ## Caídas
 
@@ -72,7 +72,7 @@ Un objeto que se deja caer sufre dano igual que una criatura. Si el objeto cae s
 
 Tu movimiento durante el modo de encuentro (y en otras ocasiones en las que se requiere un movimiento preciso) depende de las acciones y de las demás aptitudes que utilizas. Tanto si das una Zancada, un Paso, Nadas o Trepas, la distancia maxima que puedes mover esta basada en tu Velocidad. Ciertas dotes u objetos mágicos te pueden conceder otros tipos de movimiento, lo que te permite excavar, trepar, volar o nadar rapidamente.
 
-Cuando las reglas se refieren a un "coste de movimiento" o "gastar movimiento" describen cuantos pies (1 pie = 30 cm) de tu Velocidad tienes que utilizar para moverte de un punto a otro. Normalmente, el movimiento cuesta el numero de pies (metros) que te mueves. Sin embargo, a veces es difícil mover cierta distancia debido al terreno difícil u otros factores. En semejante caso, podrias tener que gastar una cantidad diferente de movimiento para moverte de un lugar a otro.
+Cuando las reglas se refieren a un "coste de movimiento" o "gastar movimiento" describen cuantos pies (1 pie = 30 cm) de tu Velocidad tienes que utilizar para moverte de un punto a otro. Normalmente, el movimiento cuesta el numero de pies (metros) que te mueves. Sin embargo, a veces es difícil mover cierta distancia debido al terreno difícil u otros factores. En semejante caso, podrías tener que gastar una cantidad diferente de movimiento para moverte de un lugar a otro.
 
 ### Movimiento en un tablero
 
@@ -123,7 +123,7 @@ Las criaturas Menudas son una excepcion, igual que con compartir un espacio. Pue
 
 ### Objetos
 
-Como quiera que los objetos no son tan moviles como las criaturas, es mas probable que llenen un espacio. Esto significa que no siempre podrás atravesar sus espacios como lo harias con un espacio ocupado por una criatura. Podrias ocupar la misma casilla de una estatua de tu tamaño, pero no una columna ancha. El DJ es quien determina si puedes moverte normalmente a la casilla del objeto, si se aplican reglas especiales o si eres incapaz de moverte a dicha casilla.
+Como quiera que los objetos no son tan moviles como las criaturas, es mas probable que llenen un espacio. Esto significa que no siempre podrás atravesar sus espacios como lo harias con un espacio ocupado por una criatura. Podrías ocupar la misma casilla de una estatua de tu tamaño, pero no una columna ancha. El DJ es quien determina si puedes moverte normalmente a la casilla del objeto, si se aplican reglas especiales o si eres incapaz de moverte a dicha casilla.
 
 ## Movimiento forzado
 

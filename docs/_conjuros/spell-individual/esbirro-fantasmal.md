@@ -21,7 +21,7 @@ spell_level: 1
 
 Convocas a un esbirro fantasmal. El esbirro tiene aproximadamente la forma de un humanoide. Puedes elegir entre que sea invisible o que tenga una apariencia efimera, pero se trata obviamente de un efecto magico y no de una criatura real.
 
-### Estadisticas del Esbirro Fantasmal
+### Estadísticas del Esbirro Fantasmal
 
 **ESBIRRO FANTASMAL** CRIATURA -1
 

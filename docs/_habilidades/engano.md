@@ -55,7 +55,7 @@ A discreción del DJ, si una criatura se cree inicialmente tu mentira, podría h
 ### Grados de éxito
 
 - **Éxito:** El objetivo se cree tu mentira.
-- **Fallo:** El objetivo no se cree tu mentira y obtiene un bonificador +4 por circunstancia contra tus intentos de Mentir mientras dura vuestra conversacion. Ademas es probable que, en el futuro, el objetivo sospeche de ti.
+- **Fallo:** El objetivo no se cree tu mentira y obtiene un bonificador +4 por circunstancia contra tus intentos de Mentir mientras dura vuestra conversación. Ademas es probable que, en el futuro, el objetivo sospeche de ti.
 
 ---
 

@@ -16,7 +16,7 @@ A diferencia de otras ascendencias, los humanos no tienen diferencias fisiologic
 
 Tu ingenio te permite entrenar una amplia variedad de habilidades.
 
-**Beneficio:** Obtienes el rango entrenado en una habilidad a tu eleccion. A 5.o nivel, obtienes el rango experto en la habilidad elegida.
+**Beneficio:** Obtienes el rango entrenado en una habilidad a tu elección. A 5.o nivel, obtienes el rango experto en la habilidad elegida.
 
 ---
 
@@ -24,4 +24,4 @@ Tu ingenio te permite entrenar una amplia variedad de habilidades.
 
 La versatilidad y la ambición de la humanidad han impulsado su ascenso hasta ser la ascendencia mas comun en la mayoría de las naciones del mundo.
 
-**Beneficio:** Selecciona una dote general a tu eleccion para la que cumples los prerrequisitos (igual que tu dote de ascendencia, puedes seleccionar esta dote general en cualquier momento durante la creación de personaje).
+**Beneficio:** Selecciona una dote general a tu elección para la que cumples los prerrequisitos (igual que tu dote de ascendencia, puedes seleccionar esta dote general en cualquier momento durante la creación de personaje).

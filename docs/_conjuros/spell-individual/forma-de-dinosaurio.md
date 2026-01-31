@@ -18,9 +18,9 @@ spell_level: 4
 
 ---
 
-Canalizas las fuerzas primigenias de la Naturaleza para transformarte en una forma de batalla Grande de animal, especificamente la de un poderoso y terrorifico dinosaurio. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal, pero esto no tiene efecto alguno en el Tamaño o las estadisticas de la forma. Cuando estas en esta forma, obtienes los rasgos animal y dinosaurio. Puedes Disipar el conjuro.
+Canalizas las fuerzas primigenias de la Naturaleza para transformarte en una forma de batalla Grande de animal, especificamente la de un poderoso y terrorifico dinosaurio. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal, pero esto no tiene efecto alguno en el Tamaño o las estadísticas de la forma. Cuando estas en esta forma, obtienes los rasgos animal y dinosaurio. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
 - CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 15 Puntos de Golpe temporales.
 - Vision en la penumbra y olfato impreciso 30 pies (9 m).

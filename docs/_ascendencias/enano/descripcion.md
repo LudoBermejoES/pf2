@@ -12,7 +12,7 @@ Los enanos tienen una bien merecida reputación como gente estoica y severa, per
 
 > Si quieres interpretar a un personaje duro como el acero, un aventurero obstinado y constante, con una mezcla de dureza resistente y de sabiduría profunda, deberias interpretar a un enano.
 
-## Estadisticas
+## Estadísticas
 
 | Atributo | Valor |
 |----------|-------|
@@ -26,7 +26,7 @@ Los enanos tienen una bien merecida reputación como gente estoica y severa, per
 | **Vision en la Penumbra** | Puedes ver en la oscuridad y en luz tenue igual de bien que con luz brillante, aunque tu vision en la oscuridad es en blanco y negro. |
 | **Daga de Clan** | Obtienes una daga de clan (pag. 284) gratis, que te fue regalada cuando naciste. Vender esta daga de clan es un tabu terrible y te podría granjear el desden de otros enanos. |
 
-## Podrias...
+## Podrías...
 
 - Luchar por mantener tu honor personal y negarte a dar un paso atras.
 - Apreciar la artesanía de calidad en todas sus formas e insistir en ella para todo tu equipo.

@@ -32,9 +32,9 @@ Ponerse y quitarse una armadura cuesta un poco de tiempo, así que asegúrate de
 
 ---
 
-## Estadisticas de las Armaduras
+## Estadísticas de las Armaduras
 
-La tabla Defensa sin armadura proporciona las estadisticas de los diversos tipos de protección sin llevar armadura. La tabla Armaduras proporciona las estadisticas para las armaduras que se pueden comprar y llevar, organizadas por categoria.
+La tabla Defensa sin armadura proporciona las estadísticas de los diversos tipos de protección sin llevar armadura. La tabla Armaduras proporciona las estadísticas para las armaduras que se pueden comprar y llevar, organizadas por categoria.
 
 ### Categoria
 
@@ -139,7 +139,7 @@ Determinados rasgos de clase te pueden conceder beneficios adicionales con ciert
 
 ## Como Danar una Armadura
 
-Las estadisticas de tu armadura se basan en el material que predomina en su construccion. No es muy probable que tu armadura sufra dano.
+Las estadísticas de tu armadura se basan en el material que predomina en su construccion. No es muy probable que tu armadura sufra dano.
 
 | Material | Dureza | PG | UR | Armaduras |
 |----------|--------|----|----|-----------|
@@ -153,7 +153,7 @@ Las estadisticas de tu armadura se basan en el material que predomina en su cons
 
 ### Armadura Completa
 
-Una armadura completa consiste en placas metalicas entrelazadas, que cubren casi todo el cuerpo en un caparazon de acero. Es cara y pesada y el portador a menudo requiere ayuda para ponersela correctamente, pero proporciona la mejor defensa que una armadura puede conceder. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
+Una armadura completa consiste en placas metálicas entrelazadas, que cubren casi todo el cuerpo en un caparazon de acero. Es cara y pesada y el portador a menudo requiere ayuda para ponersela correctamente, pero proporciona la mejor defensa que una armadura puede conceder. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
 
 ### Armadura de Cuero
 
@@ -161,7 +161,7 @@ Una mezcla de cuero hervido flexible y moldeado, una armadura de este tipo propo
 
 ### Armadura de Cuero Tachonado
 
-Esta armadura de cuero esta reforzada con remaches de metal y a veces pequenas placas metalicas, proporcionando gran parte de la flexibilidad de una armadura de cuero, pero con una protección mas robusta.
+Esta armadura de cuero esta reforzada con remaches de metal y a veces pequenas placas metálicas, proporcionando gran parte de la flexibilidad de una armadura de cuero, pero con una protección mas robusta.
 
 ### Armadura de Pieles
 
@@ -169,7 +169,7 @@ Una mezcla de pelaje de animal, piel gruesa y a veces cuero hervido moldeado, es
 
 ### Armadura de Placas y Mallas
 
-La armadura de placas y mallas consiste en la mayoría de las placas metalicas utilizadas en una armadura completa, con una protección mas ligera o menor para brazos y piernas. Esto proporciona parte de la protección de la armadura completa, permitiendo mayor flexibilidad y velocidad. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
+La armadura de placas y mallas consiste en la mayoría de las placas metálicas utilizadas en una armadura completa, con una protección mas ligera o menor para brazos y piernas. Esto proporciona parte de la protección de la armadura completa, permitiendo mayor flexibilidad y velocidad. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
 
 ### Armadura Laminada
 
@@ -185,7 +185,7 @@ A pesar de su nombre, este tipo de armadura consiste en diversas piezas de armad
 
 ### Cota de Escamas
 
-Una cota de escamas consiste en muchas escamas metalicas cosidas a una base de cuero reforzado, a menudo en forma de una camisa larga (o jubon) que protege el torso, los brazos y las piernas.
+Una cota de escamas consiste en muchas escamas metálicas cosidas a una base de cuero reforzado, a menudo en forma de una camisa larga (o jubon) que protege el torso, los brazos y las piernas.
 
 ### Cota de Malla
 

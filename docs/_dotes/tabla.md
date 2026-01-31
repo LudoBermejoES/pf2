@@ -51,7 +51,7 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Identificacion rapida | 1 | Entrenado en Arcanos, Naturaleza, Ocultismo o Religion | Identificas magia en 1 minuto o menos |
 | Reconocer conjuro | 1 | Entrenado en Arcanos, Naturaleza, Ocultismo o Religion | Identificas un conjuro como reacción mientras lo lanzan |
 | Seguro | 1 | Entrenado en por lo menos una habilidad | Obtienes un resultado fijo en una prueba de habilidad |
-| Trucar objeto magico | 1 | Entrenado en Arcanos, Naturaleza, Ocultismo o Religion | Activas un objeto magico que normalmente no podrias activar |
+| Trucar objeto magico | 1 | Entrenado en Arcanos, Naturaleza, Ocultismo o Religion | Activas un objeto magico que normalmente no podrías activar |
 | Conocimiento automatico | 2 | Experto en la acción Recordar conocimiento, Seguro en la habilidad relevante | Recuerdas conocimiento como acción gratuita una vez por asalto |
 | Taquigrafia magica | 2 | Experto en Arcanos, Naturaleza, Ocultismo o Religion | Aprendes conjuros rapidamente y a un coste reducido |
 | Reconocimiento rapido | 7 | Maestro en Arcanos, Naturaleza, Ocultismo o Religion | Identificas conjuros como una acción gratuita |
@@ -111,9 +111,9 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 |------|-------|----------------|------------|
 | Buscador de gangas | 1 | Entrenado en Diplomacia | Obtienes ingresos buscando gangas |
 | Confraternizador | 1 | Entrenado en Diplomacia | Reunes información rapidamente |
-| Impresion de grupo | 1 | Entrenado en Diplomacia | Causas impresion en multiples objetivos a la vez |
+| Impresión de grupo | 1 | Entrenado en Diplomacia | Causas impresión en multiples objetivos a la vez |
 | Que no cunda el panico | 1 | Entrenado en Diplomacia | Reduces los valores del estado asustado de las criaturas |
-| Estrechar manos | 2 | Experto en Diplomacia | Causas impresion a un objetivo al que acabas de conocer |
+| Estrechar manos | 2 | Experto en Diplomacia | Causas impresión a un objetivo al que acabas de conocer |
 | Peticion descarada | 7 | Maestro en Diplomacia | Haces peticiones a otros con consecuencias menores |
 | Negociacion legendaria | 15 | Legendario en Diplomacia | Parlamentas rapidamente con los enemigos |
 
@@ -128,14 +128,14 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Disfraz rapido | 2 | Experto en Engano | Preparas un disfraz en menos tiempo |
 | Secretos escurridizos | 7 | Maestro en Engano | Esquivas los intentos de descubrir tu verdadera naturaleza |
 
-### Interpretacion
+### Interpretación
 
 | Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|----------------|------------|
-| Interpretacion fascinante | 1 | Entrenado en Interpretacion | Interpretas para fascinar a los observadores |
-| Interpretacion impresionante | 1 | Entrenado en Interpretacion | Causas impresion mediante la interpretacion |
-| Interprete virtuoso | 1 | Entrenado en Interpretacion | +1 con cierto tipo de interpretacion |
-| Interprete legendario | 15 | Legendario en Interpretacion, Interprete virtuoso | Obtienes renombre debido a tu Interpretacion |
+| Interpretación fascinante | 1 | Entrenado en Interpretación | Interpretas para fascinar a los observadores |
+| Interpretación impresionante | 1 | Entrenado en Interpretación | Causas impresión mediante la interpretación |
+| Interprete virtuoso | 1 | Entrenado en Interpretación | +1 con cierto tipo de interpretación |
+| Interprete legendario | 15 | Legendario en Interpretación, Interprete virtuoso | Obtienes renombre debido a tu Interpretación |
 
 ### Intimidación
 

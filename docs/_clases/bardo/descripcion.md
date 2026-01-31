@@ -10,9 +10,9 @@ class_name: Bardo
 
 Eres un maestro del arte, un erudito de los secretos ocultos y un persuasor que cautiva. Utilizando poderosas interpretaciones, influencias las mentes y elevas las almas a nuevos niveles de heroísmo. Podrías utilizar tus poderes para convertirte en un lider carismatico o quizá en su lugar ser un consejero, un manipulador, un erudito, una sabandija o un virtuoso. Si bien tu versatilidad lleva a algunos a considerarte como un vago cautivador y una persona que hace de todo, es peligroso suponer que no dominas nada.
 
-## Estadisticas de Clase
+## Estadísticas de Clase
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Puntos de Golpe** | 8 mas tu modificador por Constitución. Incrementas tu numero máximo de PG en esta cifra a 1.er nivel y en cada nivel posterior. |
 | **Atributo Clave** | Carisma. A 1.er nivel, tu clase te concede una mejora de atributo a Carisma. |
@@ -50,7 +50,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 ### CD de Clase
 - Entrenado en la CD de la clase bardo
 
-## Podrias...
+## Podrías...
 
 - Tener una pasion tan fuerte por tu arte que forjaras una conexión espiritual con el.
 - Pasar a primera linea cuando hacen falta tacto y soluciones no violentas.

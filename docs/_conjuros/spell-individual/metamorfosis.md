@@ -18,6 +18,6 @@ spell_level: 9
 
 ---
 
-Utilizando tu dominio de la magia transformadora, ocultas unas formas en el interior de otras. Te transformas a ti mismo en cualquier forma que podrias elegir con un conjuro de polimorfia de tu repertorio de conjuros o que podrias preparar, de rango 8.o o inferior (incluyendo cualquier version potenciada de rango 8.o o inferior de conjuros que conoces). Obtienes 40 Puntos de Golpe temporales en lugar de la cantidad normal concedida por la forma.
+Utilizando tu dominio de la magia transformadora, ocultas unas formas en el interior de otras. Te transformas a ti mismo en cualquier forma que podrías elegir con un conjuro de polimorfia de tu repertorio de conjuros o que podrías preparar, de rango 8.o o inferior (incluyendo cualquier version potenciada de rango 8.o o inferior de conjuros que conoces). Obtienes 40 Puntos de Golpe temporales en lugar de la cantidad normal concedida por la forma.
 
 Puedes Mantener el conjuro para adoptar una nueva forma que aun no has usado durante esta metamorfosis. Esto repone los Puntos de Golpe temporales debidos a este conjuro.

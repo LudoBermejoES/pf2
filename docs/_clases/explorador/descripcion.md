@@ -10,9 +10,9 @@ class_name: Explorador
 
 El explorador es un cazador y rastreador consumado, capaz de perseguir a su presa a través de cualquier terreno. Ya sea que rastrees bestias salvajes en la naturaleza o aceches criminales en las calles de la ciudad, tus habilidades de caza son incomparables.
 
-## Estadisticas Clave
+## Estadísticas Clave
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Puntos de Golpe** | 10 + modificador de Constitución por nivel |
 | **Atributo Clave** | Fuerza o Destreza (a elegir a 1.er nivel) |
@@ -55,7 +55,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 - **Entrenado** en la CD de la clase explorador
 
-## Podrias...
+## Podrías...
 
 - Conocer el proposito y la calidad de todas las armas y piezas de armadura que tienes.
 - Reconocer que el peligro de una vida de aventurero se tiene que equilibrar con grandes festejos o trabajos ambiciosos.

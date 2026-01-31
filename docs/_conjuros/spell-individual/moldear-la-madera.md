@@ -19,4 +19,4 @@ spell_level: 2
 
 ---
 
-Das forma a la madera en una forma tosca de tu eleccion. El proceso de moldeo es demasiado basto como para dar como resultado partes intrincadas, detalles finos, piezas moviles o cosas parecidas. No puedes utilizar este conjuro para potenciar el valor de un objeto de madera que estas moldeando.
+Das forma a la madera en una forma tosca de tu elección. El proceso de moldeo es demasiado basto como para dar como resultado partes intrincadas, detalles finos, piezas moviles o cosas parecidas. No puedes utilizar este conjuro para potenciar el valor de un objeto de madera que estas moldeando.

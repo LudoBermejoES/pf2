@@ -7,7 +7,7 @@ category: introduccion
 nav_order: 0
 ---
 
-A menos que seas el DJ, lo primero que tienes que hacer cuando juegas a Pathfinder es crear tu personaje. Corre de tu cuenta imaginar las experiencias pasadas del mismo, su personalidad y su vision del mundo, y esto fijara el escenario de tu interpretacion durante la partida. Utilizaras las mecanicas del juego para determinar la capacidad de tu personaje para llevar a cabo diversas tareas y para utilizar aptitudes especiales mientras juegas.
+A menos que seas el DJ, lo primero que tienes que hacer cuando juegas a Pathfinder es crear tu personaje. Corre de tu cuenta imaginar las experiencias pasadas del mismo, su personalidad y su vision del mundo, y esto fijara el escenario de tu interpretación durante la partida. Utilizaras las mecanicas del juego para determinar la capacidad de tu personaje para llevar a cabo diversas tareas y para utilizar aptitudes especiales mientras juegas.
 
 Los pasos de la creación de personaje se presentan en el orden sugerido, pero podrás completarlos en el orden que quieras.
 
@@ -34,13 +34,13 @@ Que tipo de heroe quieres interpretar? La respuesta a esta pregunta podría ser 
 
 Te interesara consultar las ascendencias, los bagajes y las clases disponibles en Pathfinder. Antes de que empiece una partida, suele ser una buena idea que los jugadores comenten entre si como se han conocido sus personajes y como piensan trabajar juntos a lo largo de sus aventuras.
 
-Cada jugador adopta una aproximacion diferente a la creación de personaje. Algunos quieren uno que encaje bien en el relato, mientras que otros buscan una combinacion de aptitudes que se complementen entre si mecanicamente. En tu caso, podrias querer combinar ambas aproximaciones. Cualquiera de ellas esta bien.
+Cada jugador adopta una aproximacion diferente a la creación de personaje. Algunos quieren uno que encaje bien en el relato, mientras que otros buscan una combinacion de aptitudes que se complementen entre si mecanicamente. En tu caso, podrías querer combinar ambas aproximaciones. Cualquiera de ellas esta bien.
 
 ### Fuentes de inspiracion
 
 - **Ascendencia, bagaje, clase o detalles**: Si una de las ascendencias, bagajes o clases te intriga en particular, es facil construir un concepto de personaje alrededor de dichas opciones.
 - **Fe**: Quizas quieras interpretar a un personaje que es seguidor devoto de un dios especifico. Pathfinder es un mundo rico en fes y filosofias.
-- **Tus aliados**: Podrias quererte coordinar con los demás jugadores al dar forma a tu concepto de personaje.
+- **Tus aliados**: Podrías quererte coordinar con los demás jugadores al dar forma a tu concepto de personaje.
 
 ---
 
@@ -210,7 +210,7 @@ A 1er nivel, tu personaje dispone de **15 po (150 pp)** para gastar en armadura,
 - La clase de tu personaje indica el tipo de armas y de armadura en las que esta entrenado (o mejor)
 - Las armas determinan la cantidad de dano que se inflige en combate
 - La armadura influencia la Clase de armadura
-- Tambien podrias querer comprar material como cuerda, antorchas y otro equipo de viaje
+- Tambien podrías querer comprar material como cuerda, antorchas y otro equipo de viaje
 - Quizas alguna sustancia curativa alquimica, por si tienes problemas
 - Existen paquetes de equipo inicial indicados para cada clase para que sea mas rapido seleccionarlo
 
@@ -218,11 +218,11 @@ A 1er nivel, tu personaje dispone de **15 po (150 pp)** para gastar en armadura,
 
 ## Paso 9: Calcula modificadores
 
-Con la mayoría de las grandes decisiones de tu personaje ya tomadas, es el momento de calcular los modificadores para cada una de las siguientes estadisticas.
+Con la mayoría de las grandes decisiones de tu personaje ya tomadas, es el momento de calcular los modificadores para cada una de las siguientes estadísticas.
 
 ### Regla general de competencia
 
-Si tu rango de competencia para una estadistica es entrenado, experto, maestro o legendario, tu bonificador es igual al nivel de tu personaje mas otra cifra basada en el rango de competencia (2, 4, 6 y 8 respectivamente). Si tu personaje no esta entrenado, su modificador por competencia es +0.
+Si tu rango de competencia para una estadística es entrenado, experto, maestro o legendario, tu bonificador es igual al nivel de tu personaje mas otra cifra basada en el rango de competencia (2, 4, 6 y 8 respectivamente). Si tu personaje no esta entrenado, su modificador por competencia es +0.
 
 ### Percepción
 
@@ -268,7 +268,7 @@ Puedes adoptar edictos y anatemas para reforzar las creencias de tu personaje y 
 - **Edictos**: Comportamientos que su filosofia personal o su codigo de conducta animan
 - **Anatemas**: Acciones contrarias a tu punto de vista y violaciones de tu codigo personal
 
-Para la mayoría de los personajes, esto es completamente opcional, aunque es mejor que consideres adoptar alguno al crear el personaje. Si adoras a un dios, podrias inspirarte en los edictos y en los anatemas indicados para ellos.
+Para la mayoría de los personajes, esto es completamente opcional, aunque es mejor que consideres adoptar alguno al crear el personaje. Si adoras a un dios, podrías inspirarte en los edictos y en los anatemas indicados para ellos.
 
 **Edictos y anatemas requeridos**: Ciertas clases llevan vinculados ciertos anatemas; por ejemplo un clérigo obtiene los edictos y los anatemas de su dios. Violarlos puede hacerle perder algunas aptitudes de clase hasta que expie su comportamiento.
 
@@ -342,7 +342,7 @@ A continuación, vuelve a su hoja de personaje para anotar el tamaño, la Veloci
 
 ### Paso 4
 
-Revisando los bagajes, a Adam le gusta la idea de un druida enano solitario, y el bagaje nomada es una buena eleccion para ello. Para la primera mejora de atributo que le concede el bagaje, Adam elige Sabiduría y para la mejora de atributo gratuita, elige Constitución, lo que hace que ambos modificadores suban a +2.
+Revisando los bagajes, a Adam le gusta la idea de un druida enano solitario, y el bagaje nomada es una buena elección para ello. Para la primera mejora de atributo que le concede el bagaje, Adam elige Sabiduría y para la mejora de atributo gratuita, elige Constitución, lo que hace que ambos modificadores suban a +2.
 
 En la segunda pagina, anota "Seguro (Supervivencia)" en el area Dotes de habilidad, en la linea Bagaje. Por ultimo, anota "cueva" junto a la primera entrada de habilidad de Saber y marca la casilla "En" de dicha habilidad y de Supervivencia.
 
@@ -398,7 +398,7 @@ Anota la lanza corta tanto en Golpes cuerpo a cuerpo como en Golpes a distancia,
 
 ### Paso 9
 
-Adam anota todos los modificadores por atributo a la Percepción, las tiradas de salvación, los Golpes y las habilidades. A continuación anota un "+3" en la casilla marcada "Comp" para indicar su bonificador por competencia en cada estadistica en la que esta entrenado (1 por su nivel, mas 2 por el rango entrenado) y "+5" en cualquiera en la que tiene el rango experto. Luego suma sus modificadores para cada estadistica.
+Adam anota todos los modificadores por atributo a la Percepción, las tiradas de salvación, los Golpes y las habilidades. A continuación anota un "+3" en la casilla marcada "Comp" para indicar su bonificador por competencia en cada estadística en la que esta entrenado (1 por su nivel, mas 2 por el rango entrenado) y "+5" en cualquiera en la que tiene el rango experto. Luego suma sus modificadores para cada estadística.
 
 ### Paso 10
 

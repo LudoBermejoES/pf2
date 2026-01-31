@@ -24,7 +24,7 @@ spell_level: 2
 
 Creas una imagen ilusoria de una criatura Grande o mas pequeña. Genera los sonidos y olores apropiados, y es creible incluso al tacto. Si la imagen y tu os llegáis a separar mas de 500 pies (150 m), el conjuro se acaba.
 
-La imagen no puede hablar, pero puedes utilizar tus acciones para hablar a traves de la criatura, y el conjuro disfraza tu voz de la forma mas apropiada. Puedes tener que hacer una prueba de Engaño o de Interpretacion para imitar a la criatura, a juicio del DJ. Esto es especialmente probable si quieres imitar a una persona especifica e interaccionar con alguien a quien dicha persona conoce.
+La imagen no puede hablar, pero puedes utilizar tus acciones para hablar a traves de la criatura, y el conjuro disfraza tu voz de la forma mas apropiada. Puedes tener que hacer una prueba de Engaño o de Interpretación para imitar a la criatura, a juicio del DJ. Esto es especialmente probable si quieres imitar a una persona especifica e interaccionar con alguien a quien dicha persona conoce.
 
 En combate, la ilusion puede utilizar 2 acciones por turno, que usa cuando Mantienes el conjuro. Utiliza tu modificador al ataque de conjuros para la tirada de ataque y tu CD de conjuros para su CA. Sus modificadores a las tiradas de salvación son iguales a tu CD de conjuros -10. Es lo suficientemente sustancial como para poder flanquear a otras criaturas. Si la imagen sufre un impacto de un ataque o falla una salvación, el conjuro se acaba.
 

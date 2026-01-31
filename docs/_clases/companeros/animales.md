@@ -46,7 +46,7 @@ Un aliado tuyo o tu podeis montar a tu compañero animal siempre que sea de una 
 
 Tu compañero es un ave de presa, como por ejemplo un águila, un halcón o una lechuza.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas (sutil), Daño 1d6 perforante |
@@ -69,7 +69,7 @@ El ave Vuela y da un Golpe de garra en cualquier punto a lo largo de su camino.
 
 Tu compañero es un caballo, poni o equino similar.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Mediano o Grande |
 | **Cuerpo a cuerpo** | pezuña (agil), Daño 1d6 contundente |
@@ -94,7 +94,7 @@ El caballo da dos zancadas con un bonificados +10 pies (3 m) por circunstancia a
 
 Tu compañero es un cocodrilo o un reptil similar, como por ejemplo un aligator o un caiman.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas, Daño 1d8 perforante |
@@ -122,7 +122,7 @@ El cocodrilo encoge sus patas y gira rapidamente arrastrando a su victima. Da un
 
 Tu compañero es un drago rapido pero incapaz de volar, de inteligencia limitada, menos cruel que la mayoría pero ferozmente leal a ti. Un drago de monta tiene el rasgo dragon en lugar del rasgo animal, pero por lo demás funciona normalmente como un compañero animal.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Grande |
 | **Cuerpo a cuerpo** | mandibulas, Daño 1d8 perforante |
@@ -148,7 +148,7 @@ El drago de monta resopla un cono de fuego de 30 pies (9 m), infligiendo 1d6 da�
 
 Tu compañero es un dromaeosaurido (tambien llamado raptor), como por ejemplo un velociraptor o un deinonychus.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas (sutil), Daño 1d8 perforante |
@@ -159,7 +159,7 @@ Tu compañero es un dromaeosaurido (tambien llamado raptor), como por ejemplo un
 | **Sentidos** | Vision en la penumbra, olfato (impreciso, 30 pies [9 m]) |
 | **Velocidad** | 50 pies (15 m) |
 
-**Beneficio por apoyo:** Tu raptor salta constantemente a posiciones de flanqueo. Hasta el inicio de tu siguiente turno, cuenta como si estuviera en su espacio o en un espacio vacío a tu eleccion a 10 pies (3 m) o menos cuando determinas si tu compañero y tu estais flanqueando; puedes elegir un espacio diferente para cada uno de tus ataques.
+**Beneficio por apoyo:** Tu raptor salta constantemente a posiciones de flanqueo. Hasta el inicio de tu siguiente turno, cuenta como si estuviera en su espacio o en un espacio vacío a tu elección a 10 pies (3 m) o menos cuando determinas si tu compañero y tu estais flanqueando; puedes elegir un espacio diferente para cada uno de tus ataques.
 
 **Maniobra avanzada: Ataque en salto** [one-action]
 
@@ -173,7 +173,7 @@ El raptor da un Paso hasta 10 pies (3 m) y después da un Golpe, o da un Golpe y
 
 Tu compañero pertenece a una de las diversas especies de escorpion gigante.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | aguijon, Daño 1d6 perforante mas veneno (ver Especial) |
@@ -197,7 +197,7 @@ El escorpion mantiene a su enemigo retenido con sus pinzas para poderle clavar e
 
 Tu compañero es un felino grande, como por ejemplo un leopardo o un tigre.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas (sutil), Daño 1d6 perforante |
@@ -223,7 +223,7 @@ El felino da una Zancada y después un Golpe. Si no estaba detectado al inicio d
 
 Tu compañero es un jabalí o un cerdo.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | colmillo, Daño 1d8 perforante |
@@ -245,7 +245,7 @@ El jabalí da dos Zancadas en linea recta y después da un Golpe de colmillo. Si
 
 Tu compañero es un lobo, un perro u otro canido.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas (sutil), Daño 1d8 perforante |
@@ -269,7 +269,7 @@ El lobo derriba automaticamente al objetivo de su Golpe de mandibula.
 
 Tu compañero es un murciélago particularmente grande, como por ejemplo un murciélago gigante.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas (sutil), Daño 1d6 perforante |
@@ -292,7 +292,7 @@ El murciélago agita salvajemente sus alas, dando Golpes de ala contra hasta 3 e
 
 Tu compañero es un oso negro, gris, polar o cualquier otro tipo de oso.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas, Daño 1d8 perforante |
@@ -321,7 +321,7 @@ El oso da otro Golpe de garra contra el mismo objetivo. Si dicho Golpe impacta, 
 
 Tu compañero es un árbol andante, un primo de los grandes custodios y de los regentes arbóreos. Un retoño arboreo tiene el rasgo planta en lugar de animal, pero por lo demás funciona normalmente como un compañero animal. Solo suelen seleccionarlos los druidas de la orden animal que ademas son miembros de la orden de la hoja.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | rama, Daño 1d8 contundente |
@@ -343,7 +343,7 @@ El retoño arboreo Interactuó recogiendo una roca a su alcance o recuperando un
 
 Tu compañero es una serpiente constrictora, como por ejemplo una boa o una piton.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas (sutil), Daño 1d8 perforante |
@@ -367,7 +367,7 @@ La serpiente inflige 12 daño contundente a la criatura agarrada, que tiene que 
 
 Tu compañero es un simio u otro primate.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | puño, Daño 1d8 contundente |
@@ -389,7 +389,7 @@ Tu simio lleva a cabo una exhibición ruidosa y amenazadora, desequilibrando a u
 
 Tu compañero es un tejon, un glotón u otro mustelido grande.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas, Daño 1d8 perforante |
@@ -421,7 +421,7 @@ El tejon entra en un estado de pura furia que dura 1 minuto, hasta que no quedan
 
 Tu compañero es un tiburón de cualquier tipo, como por ejemplo un tiburón martillo, un gran tiburón blanco o un tiburón rompecabezas.
 
-| Estadistica | Valor |
+| Estadística | Valor |
 |-------------|-------|
 | **Tamaño** | Pequeño |
 | **Cuerpo a cuerpo** | mandibulas, Daño 1d8 perforante |

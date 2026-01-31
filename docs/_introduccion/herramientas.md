@@ -23,7 +23,7 @@ Toda partida necesita una aventura que jugar, tanto si ha sido disenada por el D
 
 ## Manual de monstruos
 
-Desde aterradores dragones hasta traviesos gremlins, los monstruos son una amenaza comun a la que los personajes se podrían enfrentar, y cada tipo tiene sus propias estadisticas y aptitudes.
+Desde aterradores dragones hasta traviesos gremlins, los monstruos son una amenaza comun a la que los personajes se podrían enfrentar, y cada tipo tiene sus propias estadísticas y aptitudes.
 
 ## Mapas y miniaturas
 

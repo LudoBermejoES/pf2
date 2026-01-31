@@ -20,7 +20,7 @@ spell_level: 8
 
 Te transformas en un monstruo legendario, adoptando una forma de batalla Enorme. Cuando lanzas este conjuro, elige entre ave fenix, gusano de las cavernas o serpiente marina. Mientras estas en esta forma, obtienes el rasgo bestia (para el fenix) o el rasgo animal (para el gusano de las cavernas o la serpiente marina). Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
 - CA = 20 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 20 Puntos de Golpe temporales.
 - Vision en la oscuridad.

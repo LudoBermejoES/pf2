@@ -12,7 +12,7 @@ Los orcos se forjan en los fuegos de la violencia y el conflicto, normalmente de
 
 > Si quieres un personaje resistente, temible y que destaca por sus proezas físicas, deberias interpretar a un orco.
 
-## Estadisticas
+## Estadísticas
 
 | Atributo | Valor |
 |----------|-------|
@@ -24,7 +24,7 @@ Los orcos se forjan en los fuegos de la violencia y el conflicto, normalmente de
 | **Rasgos** | Orco, Humanoide |
 | **Vision en la Oscuridad** | Puedes ver en la oscuridad y en luz tenue igual de bien que con luz brillante, aunque tu vision en la oscuridad es en blanco y negro. |
 
-## Podrias...
+## Podrías...
 
 - Estar dispuesto a aprovechar cualquier oportunidad para demostrar tu fuerza en una competición fisica.
 - Considerar que morir en un combate glorioso es preferible a una muerte mundana por vejez o enfermedad.

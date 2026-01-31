@@ -20,7 +20,7 @@ spell_level: 6
 
 Invocando magia poderosa, obtienes una forma de batalla de dragon Grande. Cuando Lanzas este conjuro, elige un tipo de dragon comun u otro tipo al que tu DJ te permite el acceso. Cuando te encuentras en esta forma, obtienes el rasgo dragon. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
 - CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 10 Puntos de Golpe temporales.
 - Velocidad 40 pies (12 m), volar 100 pies (30 m). Obtienes cualquiera de las siguientes velocidades de las que dispone el dragon elegido, pero en la cantidad indicada: excavar 20 pies (6 m), trepar 40 pies (12 m), nadar 60 pies (18 m).

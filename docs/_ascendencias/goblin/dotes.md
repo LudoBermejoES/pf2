@@ -100,7 +100,7 @@ Ademas, mientras continues utilizando acciones de Movimiento furtivo y tengas é
 
 Has adquirido habilidades y relatos en tu comunidad goblin.
 
-**Beneficio:** Obtienes el rango de competencia entrenado en Naturaleza y Sigilo. Si estas automaticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu eleccion.
+**Beneficio:** Obtienes el rango de competencia entrenado en Naturaleza y Sigilo. Si estas automaticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu elección.
 
 Tambien obtienes la dote general Saber adicional para Saber (goblins).
 
@@ -146,7 +146,7 @@ Este penalizador solo se aplica si el objetivo tiene Velocidad terrestre y depen
 
 Eres habil rompiendo y desmantelando cosas. Volverlas a montar es la parte aburrida, así que no te sueles preocupar mucho de ello.
 
-**Beneficio:** Obtienes el rango entrenado en Latrocinio. Si ya dispones de el automaticamente (por ejemplo, debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu eleccion.
+**Beneficio:** Obtienes el rango entrenado en Latrocinio. Si ya dispones de el automaticamente (por ejemplo, debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu elección.
 
 Ademas, siempre que aciertas con un Golpe contra una trampa o un objeto desatendido, ignoras los primeros 5 puntos de la Dureza del objeto.
 
@@ -163,7 +163,7 @@ Te acercas a un enemigo para someterlo.
 
 **Beneficio:** Si tu objetivo se mueve mientras estas aferrado a el, puedes elegir moverte con el. El objetivo queda liberado si eliges no hacerlo, al inicio de tu siguiente turno o si el objetivo Huye. Los intentos de Huir de un Aferramiento se hacen contra tu CD de Acrobacias y siguen las reglas de la pag. 416, pero acaban con el Aferramiento en lugar de con los estados que normalmente acaban mediante la acción de Huir.
 
-**Especial:** Puedes utilizar esta acción sin una mano libre si tu Golpe anterior lo has hecho con las mandibulas o un ataque sin armas similar que podrias utilizar para aferrarte. El DJ determina que ataques sin armas pueden aplicar para esto. Aferrarte de esta forma te impide utilizar dicho ataque sin armas.
+**Especial:** Puedes utilizar esta acción sin una mano libre si tu Golpe anterior lo has hecho con las mandibulas o un ataque sin armas similar que podrías utilizar para aferrarte. El DJ determina que ataques sin armas pueden aplicar para esto. Aferrarte de esta forma te impide utilizar dicho ataque sin armas.
 
 ---
 
