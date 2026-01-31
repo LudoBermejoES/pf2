@@ -463,6 +463,38 @@ tbody tr:hover {
   margin: var(--spacing-sm) 0;
 }
 
+.sidebar-sublinks {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 var(--spacing-md);
+}
+
+.sidebar-sublinks li {
+  margin: 0;
+}
+
+.sidebar-sublinks a {
+  display: block;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border-radius: var(--radius-sm);
+  transition: all 0.15s ease;
+}
+
+.sidebar-sublinks a:hover {
+  color: var(--pf-gold);
+  background: rgba(201, 162, 39, 0.08);
+  text-decoration: none;
+  padding-left: var(--spacing-md);
+}
+
+.sidebar-sublinks a.active {
+  color: var(--pf-gold);
+  background: rgba(201, 162, 39, 0.12);
+  font-weight: 600;
+}
+
 /* ============================================
    MAIN CONTENT
    ============================================ */

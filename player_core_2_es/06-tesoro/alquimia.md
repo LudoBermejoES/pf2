@@ -319,177 +319,177 @@ Este frasco lleno de ácido corrosivo inflige 1 de daño de ácido, el daño de 
 
 ---
 
-### Alchemist's Fire · Item 1+
+### Fuego del alquimista · Objeto 1+
 
-**Traits:** Alchemical, Bomb, Consumable, Fire, Splash
+**Rasgos:** Alquímico, Bomba, Consumible, Fuego, Salpicadura
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ Strike
+**Activar** ◆ Golpe
 
-Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals the listed fire damage, persistent fire damage, and splash damage. Many types grant an item bonus to attack rolls.
+El fuego del alquimista es una combinación de líquidos volátiles que se inflaman al exponerse al aire. El fuego del alquimista inflige el daño de fuego indicado, daño de fuego persistente y daño por salpicadura. Muchos tipos conceden un bonificador de objeto a las tiradas de ataque.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 1d8 fire damage, 1 persistent fire damage, 1 fire splash damage |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, 2d8 fire damage, 2 persistent fire damage, 2 fire splash damage |
-| Greater | 11 | 250 gp | +2 item bonus to attack rolls, 3d8 fire damage, 3 persistent fire damage, 3 fire splash damage |
-| Major | 17 | 2,500 gp | +3 item bonus to attack rolls, 4d8 fire damage, 4 persistent fire damage, 4 fire splash damage |
-
----
-
-### Blasting Stone · Item 1+
-
-**Traits:** Alchemical, Bomb, Consumable, Sonic, Splash
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ Strike
-
-When this pebble hits a creature or a hard surface, it explodes with a deafening bang. A blasting stone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a Fortitude saving throw with the listed DC or be deafened until the end of its next turn. Many types of blasting stones grant an item bonus to attack rolls.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 1d4 sonic damage, 1 sonic splash damage, DC 17 |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, 2d4 sonic damage, 2 sonic splash damage, DC 20 |
-| Greater | 11 | 250 gp | +2 item bonus to attack rolls, 3d4 sonic damage, 3 sonic splash damage, DC 28 |
-| Major | 17 | 2,500 gp | +3 item bonus to attack rolls, 4d4 sonic damage, 4 sonic splash damage, DC 36 |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | 1d8 de daño de fuego; 1 de daño de fuego persistente; 1 de daño de fuego por salpicadura |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; 2d8 de daño de fuego; 2 de daño de fuego persistente; 2 de daño de fuego por salpicadura |
+| Mayor | 11 | 250 mo | Bonificador de objeto +2 a las tiradas de ataque; 3d8 de daño de fuego; 3 de daño de fuego persistente; 3 de daño de fuego por salpicadura |
+| Superior | 17 | 2.500 mo | Bonificador de objeto +3 a las tiradas de ataque; 4d8 de daño de fuego; 4 de daño de fuego persistente; 4 de daño de fuego por salpicadura |
 
 ---
 
-### Blight Bomb · Item 1+
+### Piedra explosiva · Objeto 1+
 
-**Traits:** Alchemical, Bomb, Consumable, Poison, Splash
+**Rasgos:** Alquímico, Bomba, Consumible, Sónico, Salpicadura
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ Strike
+**Activar** ◆ Golpe
 
-Blight bombs contain volatile toxic chemicals that rot flesh. A blight bomb deals the listed poison damage, persistent poison damage, and splash damage. Many types grant an item bonus to attack rolls.
+Cuando esta piedrecilla impacta contra una criatura o una superficie dura, explota con un estruendo ensordecedor. Una piedra explosiva inflige el daño sónico indicado y el daño sónico por salpicadura, y cada criatura a 10 pies del espacio donde explotó la piedra debe superar una tirada de salvación de Fortaleza con la CD indicada o queda ensordecida hasta el final de su siguiente turno. Muchos tipos de piedras explosivas conceden un bonificador de objeto a las tiradas de ataque.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 1d4 poison damage, 1d4 persistent poison damage, 1 poison splash damage |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, 2d4 poison damage, 2d4 persistent poison damage, 2 poison splash damage |
-| Greater | 11 | 250 gp | +2 item bonus to attack rolls, 3d4 poison damage, 3d4 persistent poison damage, 3 poison splash damage |
-| Major | 17 | 2,500 gp | +3 item bonus to attack rolls, 4d4 poison damage, 4d4 persistent poison damage, 4 poison splash damage |
-
----
-
-### Bottled Lightning · Item 1+
-
-**Traits:** Alchemical, Bomb, Consumable, Electricity, Splash
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ Strike
-
-Bottled lightning is packed with volatile reagents that create a blast of electricity when they're exposed to air. Bottled lightning deals the listed electricity damage and electricity splash damage. On a hit, the target becomes off-guard until the start of your next turn. Many types grant an item bonus to attack rolls.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 1d6 electricity damage, 1 electricity splash damage |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, 2d6 electricity damage, 2 electricity splash damage |
-| Greater | 11 | 250 gp | +2 item bonus to attack rolls, 3d6 electricity damage, 3 electricity splash damage |
-| Major | 17 | 2,500 gp | +3 item bonus to attack rolls, 4d6 electricity damage, 4 electricity splash damage |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | 1d4 de daño sónico; 1 de daño sónico por salpicadura; CD 17 |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; 2d4 de daño sónico; 2 de daño sónico por salpicadura; CD 20 |
+| Mayor | 11 | 250 mo | Bonificador de objeto +2 a las tiradas de ataque; 3d4 de daño sónico; 3 de daño sónico por salpicadura; CD 28 |
+| Superior | 17 | 2.500 mo | Bonificador de objeto +3 a las tiradas de ataque; 4d4 de daño sónico; 4 de daño sónico por salpicadura; CD 36 |
 
 ---
 
-### Crystal Shards · Item 4+
+### Bomba de añublo · Objeto 1+
 
-**Traits:** Alchemical, Bomb, Consumable, Earth, Splash
+**Rasgos:** Alquímico, Bomba, Consumible, Veneno, Salpicadura
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ Strike
+**Activar** ◆ Golpe
 
-This flask holds a pressurized red-brown gas flecked with bits of sublimated crystal. You gain the listed item bonus to attack rolls. When the bomb explodes, it deals the listed piercing damage and piercing splash damage as the mixture suddenly turns into solid crystals flying at high speeds. On a hit, the target takes 1 persistent bleed damage from the crystals embedded in its flesh. As long as the bleed damage persists, the target also takes a –5-foot penalty to its Speed. The target can spend an Interact action to remove the crystals, reducing the DC to stop the bleeding.
+Las bombas de añublo contienen químicos tóxicos volátiles que pudren la carne. Una bomba de añublo inflige el daño de veneno indicado, daño de veneno persistente y daño por salpicadura. Muchos tipos conceden un bonificador de objeto a las tiradas de ataque.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Moderate | 4 | 16 gp | +1 item bonus, 2d4 piercing damage, 4 piercing splash damage |
-| Greater | 12 | 350 gp | +2 item bonus, 3d4 piercing damage, 5 piercing splash damage |
-| Major | 18 | 4,000 gp | +3 item bonus, 4d4 piercing damage, 6 piercing splash damage |
-
----
-
-### Dread Ampoule · Item 1+
-
-**Traits:** Alchemical, Bomb, Consumable, Emotion, Fear, Mental, Poison, Splash
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ Strike
-
-This flask is filled with a murky purple gas that briefly interferes with normal brain activity. A dread ampoule deals the listed mental damage and mental splash damage. On a hit, the target becomes frightened 1, or frightened 2 on a critical hit. Many types also grant an item bonus to attack rolls.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 1d6 mental damage, 1 mental splash damage |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, 2d6 mental damage, 2 mental splash damage |
-| Greater | 11 | 300 gp | +2 item bonus to attack rolls, 3d6 mental damage, 3 mental splash damage |
-| Major | 17 | 3,000 gp | +3 item bonus to attack rolls, 4d6 mental damage, 4 mental splash damage |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | 1d4 de daño de veneno; 1d4 de daño de veneno persistente; 1 de daño de veneno por salpicadura |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; 2d4 de daño de veneno; 2d4 de daño de veneno persistente; 2 de daño de veneno por salpicadura |
+| Mayor | 11 | 250 mo | Bonificador de objeto +2 a las tiradas de ataque; 3d4 de daño de veneno; 3d4 de daño de veneno persistente; 3 de daño de veneno por salpicadura |
+| Superior | 17 | 2.500 mo | Bonificador de objeto +3 a las tiradas de ataque; 4d4 de daño de veneno; 4d4 de daño de veneno persistente; 4 de daño de veneno por salpicadura |
 
 ---
 
-### Frost Vial · Item 1+
+### Relámpago embotellado · Objeto 1+
 
-**Traits:** Alchemical, Bomb, Cold, Consumable, Splash
+**Rasgos:** Alquímico, Bomba, Consumible, Electricidad, Salpicadura
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ Strike
+**Activar** ◆ Golpe
 
-The bright blue liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.
+El relámpago embotellado está cargado con reactivos volátiles que crean una descarga de electricidad al exponerse al aire. El relámpago embotellado inflige el daño de electricidad indicado y el daño de electricidad por salpicadura indicado. Con un impacto, el objetivo queda desprevenido hasta el inicio de tu siguiente turno. Muchos tipos conceden un bonificador de objeto a las tiradas de ataque.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 1d6 cold damage, 1 cold splash damage, –5-foot penalty |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, 2d6 cold damage, 2 cold splash damage, –10-foot penalty |
-| Greater | 11 | 250 gp | +2 item bonus to attack rolls, 3d6 cold damage, 3 cold splash damage, –10-foot penalty |
-| Major | 17 | 2,500 gp | +3 item bonus to attack rolls, 4d6 cold damage, 4 cold splash damage, –15-foot penalty |
-
----
-
-### Ghost Charge · Item 1+
-
-**Traits:** Alchemical, Bomb, Consumable, Splash, Vitality
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ Strike
-
-These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures. A ghost charge deals the listed vitality damage and splash damage, though as usual for vitality damage, this damage harms only undead and creatures with void healing. Ghost charges are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead. A primary target that takes damage from a ghost charge becomes enfeebled until the start of your next turn. Many types grant an item bonus to attack rolls.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 1d8 vitality damage, 1 vitality splash damage, enfeebled 1 |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, 2d8 vitality damage, 2 vitality splash damage, enfeebled 1 |
-| Greater | 11 | 250 gp | +2 item bonus to attack rolls, 3d8 vitality damage, 3 vitality splash damage, enfeebled 2 |
-| Major | 17 | 2,500 gp | +3 item bonus to attack rolls, 4d8 vitality damage, 4 vitality splash damage, enfeebled 2 |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | 1d6 de daño de electricidad; 1 de daño de electricidad por salpicadura |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; 2d6 de daño de electricidad; 2 de daño de electricidad por salpicadura |
+| Mayor | 11 | 250 mo | Bonificador de objeto +2 a las tiradas de ataque; 3d6 de daño de electricidad; 3 de daño de electricidad por salpicadura |
+| Superior | 17 | 2.500 mo | Bonificador de objeto +3 a las tiradas de ataque; 4d6 de daño de electricidad; 4 de daño de electricidad por salpicadura |
 
 ---
 
-### Glue Bomb · Item 1+
+### Fragmentos de cristal · Objeto 4+
 
-**Traits:** Alchemical, Bomb, Consumable
+**Rasgos:** Alquímico, Bomba, Consumible, Tierra, Salpicadura
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ Strike
+**Activar** ◆ Golpe
 
-A glue bomb is a harmless explosive mechanism bursting with sticky substances. When you hit a creature with a glue bomb, that creature takes a status penalty to its Speeds for 1 minute. Many types of glue bomb also grant an item bonus to attack rolls.
+Este frasco contiene un gas rojo parduzco presurizado moteado con fragmentos de cristal sublimado. Obtienes el bonificador de objeto indicado a las tiradas de ataque. Cuando la bomba explota, inflige el daño perforante indicado y el daño perforante por salpicadura, ya que la mezcla se convierte repentinamente en cristales sólidos que vuelan a gran velocidad. Con un impacto, el objetivo sufre 1 de daño persistente por sangrado debido a los cristales incrustados en su carne. Mientras el daño por sangrado persista, el objetivo también sufre un penalizador de 5 pies a su Velocidad. El objetivo puede gastar una acción de Interactuar para retirar los cristales, reduciendo la CD para detener el sangrado.
 
-On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and immobilized for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Glue bombs aren't effective when used on a creature that's in water.
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Moderado | 4 | 16 mo | Bonificador de objeto +1; 2d4 de daño perforante; 4 de daño perforante por salpicadura |
+| Mayor | 12 | 350 mo | Bonificador de objeto +2; 3d4 de daño perforante; 5 de daño perforante por salpicadura |
+| Superior | 18 | 4.000 mo | Bonificador de objeto +3; 4d4 de daño perforante; 6 de daño perforante por salpicadura |
 
-The target can end any effects by Escaping or spending a total of 3 manipulate actions to carefully remove the sticky substances. These manipulate actions don't have to be consecutive, and other creatures can provide the actions as well.
+---
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | –10-foot penalty, Escape DC 17 |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, –15-foot penalty, Escape DC 19 |
-| Greater | 11 | 250 gp | +2 item bonus to attack rolls, –15-foot penalty, Escape DC 28 |
-| Major | 17 | 2,500 gp | +3 item bonus to attack rolls, –20-foot penalty, Escape DC 37 |
+### Ámpula de pavor · Objeto 1+
+
+**Rasgos:** Alquímico, Bomba, Consumible, Emoción, Miedo, Mental, Veneno, Salpicadura
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ Golpe
+
+Este frasco está lleno de un gas púrpura turbio que interfiere brevemente con la actividad cerebral normal. Un ámpula de pavor inflige el daño mental indicado y el daño mental por salpicadura. Con un impacto, el objetivo queda asustado 1, o asustado 2 con un impacto crítico. Muchos tipos también conceden un bonificador de objeto a las tiradas de ataque.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | 1d6 de daño mental; 1 de daño mental por salpicadura |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; 2d6 de daño mental; 2 de daño mental por salpicadura |
+| Mayor | 11 | 300 mo | Bonificador de objeto +2 a las tiradas de ataque; 3d6 de daño mental; 3 de daño mental por salpicadura |
+| Superior | 17 | 3.000 mo | Bonificador de objeto +3 a las tiradas de ataque; 4d6 de daño mental; 4 de daño mental por salpicadura |
+
+---
+
+### Vial gélido · Objeto 1+
+
+**Rasgos:** Alquímico, Bomba, Frío, Consumible, Salpicadura
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ Golpe
+
+Los reactivos líquidos azul brillante de este vial absorben rápidamente el calor al exponerse al aire. Un vial gélido inflige el daño de frío indicado y el daño de frío por salpicadura. Con un impacto, el objetivo sufre un penalizador de estado a sus Velocidades hasta el final de su siguiente turno. Muchos tipos de vial gélido también conceden un bonificador de objeto a las tiradas de ataque.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | 1d6 de daño de frío; 1 de daño de frío por salpicadura; penalizador de 5 pies |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; 2d6 de daño de frío; 2 de daño de frío por salpicadura; penalizador de 10 pies |
+| Mayor | 11 | 250 mo | Bonificador de objeto +2 a las tiradas de ataque; 3d6 de daño de frío; 3 de daño de frío por salpicadura; penalizador de 10 pies |
+| Superior | 17 | 2.500 mo | Bonificador de objeto +3 a las tiradas de ataque; 4d6 de daño de frío; 4 de daño de frío por salpicadura; penalizador de 15 pies |
+
+---
+
+### Carga espectral · Objeto 1+
+
+**Rasgos:** Alquímico, Bomba, Consumible, Salpicadura, Vitalidad
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ Golpe
+
+Estos botes metálicos de resorte contienen una mezcla de químicos y sales que drenan y desintegran a las criaturas no muertas cercanas. Una carga espectral inflige el daño de vitalidad y el daño por salpicadura indicados; como es habitual con el daño de vitalidad, este daño solo perjudica a no muertos y criaturas con curación del vacío. Las cargas espectrales están diseñadas para explotar incluso al contacto con sustancias espirituales, lo que las hace ideales para dañar no muertos incorpóreos. Un objetivo principal que reciba daño de una carga espectral queda debilitado hasta el inicio de tu siguiente turno. Muchos tipos conceden un bonificador de objeto a las tiradas de ataque.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | 1d8 de daño de vitalidad; 1 de daño de vitalidad por salpicadura; debilitado 1 |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; 2d8 de daño de vitalidad; 2 de daño de vitalidad por salpicadura; debilitado 1 |
+| Mayor | 11 | 250 mo | Bonificador de objeto +2 a las tiradas de ataque; 3d8 de daño de vitalidad; 3 de daño de vitalidad por salpicadura; debilitado 2 |
+| Superior | 17 | 2.500 mo | Bonificador de objeto +3 a las tiradas de ataque; 4d8 de daño de vitalidad; 4 de daño de vitalidad por salpicadura; debilitado 2 |
+
+---
+
+### Bomba de pegamento · Objeto 1+
+
+**Rasgos:** Alquímico, Bomba, Consumible
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ Golpe
+
+Una bomba de pegamento es un mecanismo explosivo inofensivo rebosante de sustancias adhesivas. Cuando impactas a una criatura con una bomba de pegamento, esa criatura sufre un penalizador de estado a sus Velocidades durante 1 minuto. Muchos tipos de bomba de pegamento también conceden un bonificador de objeto a las tiradas de ataque.
+
+Con un impacto crítico, una criatura en contacto con una superficie sólida queda pegada a la superficie e inmovilizada durante 1 asalto, y una criatura que vuela con alas se enreda las alas, lo que la hace caer de forma segura al suelo y quedar incapaz de Volar de nuevo durante 1 asalto. Las bombas de pegamento no son efectivas cuando se usan sobre una criatura que está en el agua.
+
+El objetivo puede terminar cualquier efecto Escapando o gastando un total de 3 acciones de manipular para quitar cuidadosamente las sustancias adhesivas. Estas acciones de manipular no tienen que ser consecutivas, y otras criaturas también pueden proporcionar las acciones.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | Penalizador de 10 pies; CD de Escapar 17 |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; penalizador de 15 pies; CD de Escapar 19 |
+| Mayor | 11 | 250 mo | Bonificador de objeto +2 a las tiradas de ataque; penalizador de 15 pies; CD de Escapar 28 |
+| Superior | 17 | 2.500 mo | Bonificador de objeto +3 a las tiradas de ataque; penalizador de 20 pies; CD de Escapar 37 |
 
 ---
 
