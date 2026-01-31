@@ -20,11 +20,12 @@
     </h3>
     <ul class="sidebar-links">
       <li class="sidebar-parent">
-        <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer El Mundo de Golarion">
+        <input type="checkbox" id="toggle-golarion" class="sidebar-toggle-input">
+        <label for="toggle-golarion" class="sidebar-toggle">
           <span class="toggle-icon">▶</span>
-        </button>
-        <a href="{{ '/ambientacion/golarion/' | relative_url }}">El Mundo de Golarion</a>
-        <ul class="sidebar-sublinks collapsed">
+          <a href="{{ '/ambientacion/golarion/' | relative_url }}">El Mundo de Golarion</a>
+        </label>
+        <ul class="sidebar-sublinks">
           <li><a href="{{ '/ambientacion/regiones/absalom/' | relative_url }}">Absalom y la Isla de la Piedra Estelar</a></li>
           <li><a href="{{ '/ambientacion/regiones/alta-mar/' | relative_url }}">Alta Mar</a></li>
           <li><a href="{{ '/ambientacion/regiones/camino-dorado/' | relative_url }}">El Camino Dorado</a></li>
@@ -57,11 +58,12 @@
       <li><a href="{{ '/ascendencias/goblin/' | relative_url }}">Goblin</a></li>
       <li><a href="{{ '/ascendencias/leshy/' | relative_url }}">Leshy</a></li>
       <li class="sidebar-parent">
-        <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer Herencias Versátiles">
+        <input type="checkbox" id="toggle-herencias" class="sidebar-toggle-input">
+        <label for="toggle-herencias" class="sidebar-toggle">
           <span class="toggle-icon">▶</span>
-        </button>
-        <a href="{{ '/ascendencias/herencias-versatiles/' | relative_url }}">Herencias Versátiles</a>
-        <ul class="sidebar-sublinks no-bullets collapsed">
+          <a href="{{ '/ascendencias/herencias-versatiles/' | relative_url }}">Herencias Versátiles</a>
+        </label>
+        <ul class="sidebar-sublinks no-bullets">
           <li><a href="{{ '/ascendencias/ascendencia-mixta/' | relative_url }}">Ascendencia Mixta</a></li>
           <li><a href="{{ '/ascendencias/changeling/' | relative_url }}">Changeling</a></li>
           <li><a href="{{ '/ascendencias/nefilim/' | relative_url }}">Nefilim</a></li>
@@ -88,17 +90,19 @@
       <li><a href="{{ '/clases/brujo/' | relative_url }}">Brujo</a></li>
       <li class="sidebar-divider"></li>
       <li class="sidebar-parent">
-        <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer Arquetipos">
+        <input type="checkbox" id="toggle-arquetipos" class="sidebar-toggle-input">
+        <label for="toggle-arquetipos" class="sidebar-toggle">
           <span class="toggle-icon">▶</span>
-        </button>
-        <a href="{{ '/clases/arquetipos/' | relative_url }}">Arquetipos</a>
-        <ul class="sidebar-sublinks collapsed">
+          <a href="{{ '/clases/arquetipos/' | relative_url }}">Arquetipos</a>
+        </label>
+        <ul class="sidebar-sublinks">
           <li class="sidebar-parent">
-            <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer Arquetipos Multiclase">
+            <input type="checkbox" id="toggle-arquetipos-multiclase" class="sidebar-toggle-input">
+            <label for="toggle-arquetipos-multiclase" class="sidebar-toggle">
               <span class="toggle-icon">▶</span>
-            </button>
-            <a href="{{ '/clases/arquetipos/multiclase/' | relative_url }}">Arquetipos Multiclase</a>
-            <ul class="sidebar-sublinks collapsed">
+              <a href="{{ '/clases/arquetipos/multiclase/' | relative_url }}">Arquetipos Multiclase</a>
+            </label>
+            <ul class="sidebar-sublinks">
               <li><a href="{{ '/clases/arquetipos/multiclase/bardo/' | relative_url }}">Bardo</a></li>
               <li><a href="{{ '/clases/arquetipos/multiclase/brujo/' | relative_url }}">Brujo</a></li>
               <li><a href="{{ '/clases/arquetipos/multiclase/clerigo/' | relative_url }}">Clérigo</a></li>
@@ -162,11 +166,12 @@
       <li><a href="{{ '/conjuros/introduccion/' | relative_url }}">Conceptos Fundamentales</a></li>
       <li class="sidebar-divider"></li>
       <li class="sidebar-parent">
-        <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer Búsqueda de Conjuros">
+        <input type="checkbox" id="toggle-busqueda-conjuros" class="sidebar-toggle-input">
+        <label for="toggle-busqueda-conjuros" class="sidebar-toggle">
           <span class="toggle-icon">▶</span>
-        </button>
-        <strong>Búsqueda de Conjuros</strong>
-        <ul class="sidebar-sublinks collapsed">
+          <strong>Búsqueda de Conjuros</strong>
+        </label>
+        <ul class="sidebar-sublinks">
           <li><a href="{{ '/conjuros/listas/arcana/' | relative_url }}">Tradición Arcana</a></li>
           <li><a href="{{ '/conjuros/listas/divina/' | relative_url }}">Tradición Divina</a></li>
           <li><a href="{{ '/conjuros/listas/oculta/' | relative_url }}">Tradición Ocultista</a></li>

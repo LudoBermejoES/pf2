@@ -506,24 +506,26 @@ tbody tr:hover {
   display: none !important;
 }
 
-/* Sidebar Accordion Toggle */
+/* Sidebar Accordion Toggle - CSS Only */
 .sidebar-parent {
   display: flex;
   flex-direction: column;
 }
 
+/* Hide checkbox input */
+.sidebar-toggle-input {
+  display: none;
+}
+
+/* Label styling */
 .sidebar-toggle {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: var(--spacing-sm);
-  background: none;
-  border: none;
-  padding: 0;
+  padding: var(--spacing-xs) var(--spacing-sm);
   cursor: pointer;
-  color: inherit;
-  font: inherit;
-  margin: 0;
-  text-align: left;
+  -webkit-user-select: none;
+  user-select: none;
   transition: color 0.2s ease;
 }
 
@@ -531,29 +533,41 @@ tbody tr:hover {
   color: var(--pf-gold);
 }
 
+.sidebar-toggle:hover a {
+  color: var(--pf-gold);
+}
+
 .toggle-icon {
   display: inline-block;
   transition: transform 0.2s ease;
   font-size: 0.875rem;
+  flex-shrink: 0;
 }
 
-.sidebar-toggle[aria-expanded="true"] .toggle-icon {
+/* Toggle icon rotation when checked */
+.sidebar-toggle-input:checked ~ .sidebar-sublinks,
+.sidebar-toggle-input:checked + .sidebar-toggle {
+  /* Selector for when checkbox is checked */
+}
+
+.sidebar-toggle-input:checked + .sidebar-toggle .toggle-icon {
   transform: rotate(90deg);
 }
 
+/* Sublinks visibility controlled by checkbox state */
 .sidebar-sublinks {
-  max-height: 1000px;
-  opacity: 1;
-  overflow: hidden;
-  transition: max-height 0.3s ease, opacity 0.3s ease;
-  display: flex;
-  flex-direction: column;
-}
-
-.sidebar-sublinks.collapsed {
   max-height: 0;
   opacity: 0;
-  display: none;
+  overflow: hidden;
+  transition: max-height 0.3s ease, opacity 0.3s ease;
+  margin: 0;
+  padding: 0;
+}
+
+/* Show sublinks when checkbox is checked */
+.sidebar-toggle-input:checked ~ .sidebar-sublinks {
+  max-height: 1000px;
+  opacity: 1;
 }
 
 /* ============================================
