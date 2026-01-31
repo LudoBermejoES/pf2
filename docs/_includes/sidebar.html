@@ -6,9 +6,19 @@
     </h3>
     <ul class="sidebar-links">
       <li><a href="{{ '/introduccion/que-es-jdr/' | relative_url }}">¿Qué es un JDR?</a></li>
+      <li><a href="{{ '/introduccion/primera-regla/' | relative_url }}">Primera Regla</a></li>
       <li><a href="{{ '/introduccion/como-se-juega/' | relative_url }}">Cómo se Juega</a></li>
+      <li><a href="{{ '/introduccion/puntos-basicos/' | relative_url }}">Puntos Básicos</a></li>
+      <li><a href="{{ '/introduccion/dados/' | relative_url }}">Dados</a></li>
       <li><a href="{{ '/introduccion/creacion-personajes/' | relative_url }}">Creación de Personajes</a></li>
       <li><a href="{{ '/introduccion/atributos/' | relative_url }}">Atributos</a></li>
+      <li><a href="{{ '/introduccion/herramientas/' | relative_url }}">Herramientas</a></li>
+      <li><a href="{{ '/introduccion/encuentros/' | relative_url }}">Encuentros</a></li>
+      <li><a href="{{ '/introduccion/exploracion/' | relative_url }}">Exploración</a></li>
+      <li><a href="{{ '/introduccion/subir-nivel/' | relative_url }}">Subir de Nivel</a></li>
+      <li><a href="{{ '/introduccion/tiempo-libre/' | relative_url }}">Tiempo Libre</a></li>
+      <li><a href="{{ '/introduccion/golarion/' | relative_url }}">Golarion</a></li>
+      <li><a href="{{ '/introduccion/religion/' | relative_url }}">Religión</a></li>
       <li><a href="{{ '/introduccion/terminos-clave/' | relative_url }}">Términos Clave</a></li>
       <li><a href="{{ '/apendices/glosario/' | relative_url }}">Glosario</a></li>
     </ul>
@@ -39,7 +49,16 @@
           <li><a href="{{ '/ambientacion/regiones/viejo-cheliax/' | relative_url }}">El Viejo Cheliax</a></li>
         </ul>
       </li>
-      <li><a href="{{ '/ambientacion/religion/' | relative_url }}">Religión</a></li>
+      <li class="sidebar-parent">
+        <input type="checkbox" id="toggle-religion" class="sidebar-toggle-input">
+        <label for="toggle-religion" class="sidebar-toggle">
+          <span class="toggle-icon">▶</span>
+          <a href="{{ '/ambientacion/religion/' | relative_url }}">Religión</a>
+        </label>
+        <ul class="sidebar-sublinks">
+          <li><a href="{{ '/introduccion/dioses/' | relative_url }}">Dioses</a></li>
+        </ul>
+      </li>
       <li><a href="{{ '/ambientacion/idiomas/' | relative_url }}">Idiomas</a></li>
     </ul>
   </div>
