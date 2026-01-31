@@ -22,7 +22,7 @@ En cada nivel en el que obtienes una dote de explorador, puedes seleccionar una 
 
 **Requisitos:** Empunas una ballesta con recarga 1 o mayor.
 
-Tu profunda comprension de la ballesta te permite recargarla de forma eficiente mientras te apartas de la linea del fuego de retorno. Crea una distraccion o Ponte a cubierto y despues Interactua para recargar. De la forma habitual, tienes que cumplir los requisitos para Ponerte a cubierto; tienes que estar tumbado, beneficiandote de cobertura o cerca de un rasgo del terreno que te permite Ponerte a cubierto.
+Tu profunda comprensión de la ballesta te permite recargarla de forma eficiente mientras te apartas de la linea del fuego de retorno. Crea una distracción o Ponte a cubierto y después Interactuó para recargar. De la forma habitual, tienes que cumplir los requisitos para Ponerte a cubierto; tienes que estar tumbado, beneficiandote de cobertura o cerca de un rasgo del terreno que te permite Ponerte a cubierto.
 
 ---
 
@@ -32,7 +32,7 @@ Tu profunda comprension de la ballesta te permite recargarla de forma eficiente 
 
 **Rasgos:** Explorador
 
-Evaluas rapidamente a tu presa y aplicas lo que sabes. Como parte de la accion utilizada para Perseguir a tu presa, puedes hacer una prueba para Recordar conocimiento acerca de la misma. Cuando obtienes un exito critico al identificar a tu presa perseguida con Recordar conocimiento, detectas una debilidad en las defensas de la criatura ademas de cualquier otro beneficio. Los aliados a quienes se lo cuentas y tu obteneis un bonificador +1 por circunstancia a vuestra siguiente tirada de ataque contra dicha presa. Puedes conceder bonificadores derivados de Cazador de monstruos una vez al dia contra una criatura en particular.
+Evaluar rapidamente a tu presa y aplicas lo que sabes. Como parte de la acción utilizada para Perseguir a tu presa, puedes hacer una prueba para Recordar conocimiento acerca de la misma. Cuando obtienes un éxito critico al identificar a tu presa perseguida con Recordar conocimiento, detectas una debilidad en las defensas de la criatura ademas de cualquier otro beneficio. Los aliados a quienes se lo cuentas y tu obtenéis un bonificados +1 por circunstancia a vuestra siguiente tirada de ataque contra dicha presa. Puedes conceder bonificadores derivados de Cazador de monstruos una vez al dia contra una criatura en particular.
 
 ---
 
@@ -42,7 +42,7 @@ Evaluas rapidamente a tu presa y aplicas lo que sabes. Como parte de la accion u
 
 **Rasgos:** Explorador
 
-Obtienes los servicios de un companero animal joven que viaja contigo y obedece ordenes sencillas. Cuando Persigues a una presa, tu companero animal obtiene los beneficios de la accion y el beneficio de tu ventaja del cazador, si la tienes.
+Obtienes los servicios de un compañero animal joven que viaja contigo y obedece ordenes sencillas. Cuando Persigues a una presa, tu compañero animal obtiene los beneficios de la acción y el beneficio de tu ventaja del cazador, si la tienes.
 
 ---
 
@@ -90,7 +90,7 @@ Haces dos disparos seguidos contra lo que persigues. Da dos Golpes contra tu pre
 
 **Rasgos:** Explorador
 
-Desenfundas el arma y atacas con ella en el mismo movimiento. Interactuas para desenfundar un arma y despues Golpeas con ella.
+Desenfundas el arma y atacas con ella en el mismo movimiento. Interactúas para desenfundar un arma y después Golpeas con ella.
 
 ---
 
@@ -100,7 +100,7 @@ Desenfundas el arma y atacas con ella en el mismo movimiento. Interactuas para d
 
 **Rasgos:** Explorador
 
-Tienes una conexion con las criaturas del mundo natural que te permite comunicarte con ellas a un nivel rudimentario. Puedes utilizar Diplomacia para Causar impresion sobre los animales y hacerles Peticiones muy simples. En la mayoria de circunstancias, los animales salvajes te concederan tiempo para exponer tus argumentos.
+Tienes una conexión con las criaturas del mundo natural que te permite comunicarte con ellas a un nivel rudimentario. Puedes utilizar Diplomacia para Causar impresión sobre los animales y hacerles Peticiones muy simples. En la mayoría de circunstancias, los animales salvajes te concederán tiempo para exponer tus argumentos.
 
 ---
 
@@ -112,7 +112,7 @@ Tienes una conexion con las criaturas del mundo natural que te permite comunicar
 
 **Prerrequisitos:** Cazador de monstruos
 
-Entiendes como defenderte a ti y a otros de tu presa. Cuando concedas bonificadores debidos a Cazador de monstruos, tanto tus aliados como tu obtendeis tambien un bonificador +1 por circunstancia a vuestra siguiente tirada de salvacion contra dicha criatura en particular y a vuestra CA contra el siguiente ataque que la criatura haga contra vosotros.
+Entiendes como defenderte a ti y a otros de tu presa. Cuando concedas bonificadores debidos a Cazador de monstruos, tanto tus aliados como tu obtendrás tambien un bonificados +1 por circunstancia a vuestra siguiente tirada de salvación contra dicha criatura en particular y a vuestra CA contra el siguiente ataque que la criatura haga contra vosotros.
 
 ---
 
@@ -122,7 +122,7 @@ Entiendes como defenderte a ti y a otros de tu presa. Cuando concedas bonificado
 
 **Rasgos:** Concentrar, Explorador
 
-Cuando te concentras en apuntar, tu ataque se vuelve particularmente preciso. Da un Golpe a distancia con arma contra tu presa perseguida. Para este golpe, obtienes un bonificador +2 por circunstancia a la tirada de ataque e ignoras el (posible) estado de oculto de tu presa y cualquier cobertura menor.
+Cuando te concentras en apuntar, tu ataque se vuelve particularmente preciso. Da un Golpe a distancia con arma contra tu presa perseguida. Para este golpe, obtienes un bonificados +2 por circunstancia a la tirada de ataque e ignoras el (posible) estado de oculto de tu presa y cualquier cobertura menor.
 
 ---
 
@@ -132,16 +132,16 @@ Cuando te concentras en apuntar, tu ataque se vuelve particularmente preciso. Da
 
 **Rasgos:** Explorador
 
-Has estudiado un terreno especifico para superar sus desafios. Elige entre acuatico, artico, bosque, cielo, desierto, llanuras, montanas, pantano o subterraneo como terreno predilecto. Cuando estas en dicho terreno, puedes ignorar los efectos del terreno dificil no magico.
+Has estudiado un terreno especifico para superar sus desafios. Elige entre acuático, artico, bosque, cielo, desierto, llanuras, montanas, pantano o subterráneo como terreno predilecto. Cuando estas en dicho terreno, puedes ignorar los efectos del terreno dificil no magico.
 
-Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en tu terreno favorito, dependiendo de tu eleccion:
+Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en tu terreno favorito, dependiendo de tu elección:
 
-- **Acuatico:** Obtienes una Velocidad de nadar igual a tu Velocidad. Si ya tenias dicha Velocidad, en su lugar obtienes un bonificador por estatus +10 pies (3 m) a la misma.
+- **Acuático:** Obtienes una Velocidad de nadar igual a tu Velocidad. Si ya tenias dicha Velocidad, en su lugar obtienes un bonificados por estatus +10 pies (3 m) a la misma.
 - **Artico:** Solo necesitas comer y beber una decima parte de lo normal, no te ves afectado por el frio severo o extremo y puedes caminar por hielo y nieve a tu Velocidad completa sin tener que Mantener el equilibrio.
-- **Bosque, Montana o Subterraneo:** Obtienes una Velocidad de trepar igual a tu Velocidad. Si ya tenias Velocidad de trepar, en su lugar obtienes un bonificador +10 pies (3 m) por estatus a la misma.
-- **Cielo:** Obtienes un bonificador +10 pies (3 m) por estatus a tu Velocidad de vuelo, si la tienes.
+- **Bosque, Montana o Subterráneo:** Obtienes una Velocidad de trepar igual a tu Velocidad. Si ya tenias Velocidad de trepar, en su lugar obtienes un bonificados +10 pies (3 m) por estatus a la misma.
+- **Cielo:** Obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad de vuelo, si la tienes.
 - **Desierto:** Solo necesitas comer y beber una decima parte de lo normal, no te ves afectado por el calor severo o extremo y puedes caminar por la arena a Velocidad completa sin tener que Mantener el equilibrio.
-- **Llanuras:** Obtienes un bonificador +10 pies (3 m) por estatus a tu Velocidad terrestre.
+- **Llanuras:** Obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad terrestre.
 - **Pantano:** Puedes atravesar pantanos a tu Velocidad completa, incluso si son lo suficientemente profundos como para ser terreno dificil mayor o para requerir normalmente que tengas que Nadar.
 
 ---
@@ -156,7 +156,7 @@ Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en t
 
 **Desencadenante:** Estas a punto de hacer una prueba de Percepcion o de Supervivencia para calcular la iniciativa.
 
-Previenes visual o auditivamente a tus aliados del peligro, concediendo a cada uno de ellos un bonificador +1 por circunstancia a sus tiradas de iniciativa. Dependiendo de si utilizas gestos o de si das un grito, esta accion obtiene los rasgos visual o auditivo respectivamente.
+Previenes visual o auditivamente a tus aliados del peligro, concediendo a cada uno de ellos un bonificados +1 por circunstancia a sus tiradas de iniciativa. Dependiendo de si utilizas gestos o de si das un grito, esta acción obtiene los rasgos visual o auditivo respectivamente.
 
 ---
 
@@ -178,7 +178,7 @@ Tu experiencia en el campo te ha ensenado a enfocar tu punteria a distancia, inc
 
 **Prerrequisitos:** un companero animal
 
-Puedes urgir a tu companero animal a esforzarse al maximo. Puedes invertir dos acciones para Comandar a un animal en lugar de 1 cuando comandas a tu companero animal. Si lo haces, tu companero animal utiliza una accion adicional.
+Puedes urgir a tu compañero animal a esforzarse al maximo. Puedes invertir dos acciones para Comandar a un animal en lugar de 1 cuando comandas a tu compañero animal. Si lo haces, tu compañero animal utiliza una acción adicional.
 
 ---
 
@@ -204,7 +204,7 @@ Desbloqueas mas conjuros primigenios poderosos. Obtienes un conjuro de guardian 
 
 **Requisitos:** Empunas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
-Puedes utilizar las dos armas para desviar ataques. Obtienes un bonificador +1 por circunstancia a la CA hasta el inicio de tu siguiente turno, o bien un bonificador +2 por circunstancia si ambas armas tienen el rasgo parada. Pierdes el bonificador si dejas de cumplir los requisitos de esta dote.
+Puedes utilizar las dos armas para desviar ataques. Obtienes un bonificados +1 por circunstancia a la CA hasta el inicio de tu siguiente turno, o bien un bonificados +2 por circunstancia si ambas armas tienen el rasgo parada. Pierdes el bonificados si dejas de cumplir los requisitos de esta dote.
 
 ---
 
@@ -216,7 +216,7 @@ Puedes utilizar las dos armas para desviar ataques. Obtienes un bonificador +1 p
 
 **Desencadenante:** Tu presa perseguida esta a tu alcance y utiliza una accion de manipular, una accion de movimiento o abandona una casilla durante una accion de movimiento que esta utilizando.
 
-Da un Golpe cuerpo a cuerpo contra tu presa perseguida. Si el ataque resulta en un impacto critico, perturbas la accion desencadenante.
+Da un Golpe cuerpo a cuerpo contra tu presa perseguida. Si el ataque resulta en un impacto critico, perturbas la acción desencadenante.
 
 ---
 
@@ -228,9 +228,9 @@ Da un Golpe cuerpo a cuerpo contra tu presa perseguida. Si el ataque resulta en 
 
 Has estudiado un tipo especifico de criatura salvaje y puedes cazarla con mas facilidad. Cuando adquieres esta dote, elige entre animales, bestias, dragones u hongos y plantas (ambos) como presa predilecta.
 
-Cuando tiras iniciativa y puedes ver a un enemigo que pertenece a la categoria elegida, puedes Perseguir la presa como accion gratuita, designando a dicho enemigo.
+Cuando tiras iniciativa y puedes ver a un enemigo que pertenece a la categoria elegida, puedes Perseguir la presa como acción gratuita, designando a dicho enemigo.
 
-Puedes usar esta accion gratuita incluso si aun no has identificado a la criatura mediante Recordar conocimiento. El beneficio no se aplica contra los enemigos predilectos disfrazados como otras criaturas y es el DJ quien determina si eso se aplica contra una criatura disfrazada como presa predilecta.
+Puedes usar esta acción gratuita incluso si aun no has identificado a la criatura mediante Recordar conocimiento. El beneficio no se aplica contra los enemigos predilectos disfrazados como otras criaturas y es el DJ quien determina si eso se aplica contra una criatura disfrazada como presa predilecta.
 
 ---
 
@@ -240,7 +240,7 @@ Puedes usar esta accion gratuita incluso si aun no has identificado a la criatur
 
 **Rasgos:** Explorador
 
-Puedes recargar tu arma mientras te mueves. Das una Zancada, un Paso o bien usas el Sigilo, y despues Interactuas para recargar.
+Puedes recargar tu arma mientras te mueves. Das una Zancada, un Paso o bien usas el Sigilo, y después Interactúas para recargar.
 
 ---
 
@@ -254,9 +254,9 @@ Puedes recargar tu arma mientras te mueves. Das una Zancada, un Paso o bien usas
 
 **Prerrequisitos:** Companero animal
 
-Tu companero animal se convierte en un companero animal maduro y obtiene capacidades adicionales.
+Tu compañero animal se convierte en un compañero animal maduro y obtiene capacidades adicionales.
 
-Tu companero animal tiene una independencia mayor. Durante un encuentro, incluso si no utilizas la accion Comandar a un animal, tu companero animal sigue pudiendo utilizar 1 accion dicho asalto en tu turno para dar una Zancada o un Golpe. Puede hacerlo en cualquier momento de tu turno, menos cuando tu estas llevando a cabo una accion. Si lo hace, es el maximo de acciones que obtiene en dicho asalto, no puedes Comandarle mas tarde.
+Tu compañero animal tiene una independencia mayor. Durante un encuentro, incluso si no utilizas la acción Comandar a un animal, tu compañero animal sigue pudiendo utilizar 1 acción dicho asalto en tu turno para dar una Zancada o un Golpe. Puede hacerlo en cualquier momento de tu turno, menos cuando tu estas llevando a cabo una acción. Si lo hace, es el maximo de acciones que obtiene en dicho asalto, no puedes Comandarle mas tarde.
 
 ---
 
@@ -266,7 +266,7 @@ Tu companero animal tiene una independencia mayor. Durante un encuentro, incluso
 
 **Rasgos:** Explorador
 
-Has aprendido a reaccionar con armas a distancia cuando hay un enemigo a distancia corta. Puedes usar una reaccion que normalmente te permite dar un Golpe con un arma cuerpo a cuerpo para en su lugar dar un Golpe con un arma a distancia. Debes estar Golpeando a un objetivo adyacente. Si es necesario para el desencadenante de la reaccion, trata tu arma a distancia como si tuviera un alcance de 5 pies (1,5 m). Si la reaccion tiene otros requisitos, como por ejemplo empunar un tipo de arma especifico, Disparo instantaneo no te permite ignorarlos; solo te permite reemplazar un Golpe con un arma cuerpo a cuerpo por un Golpe con un arma a distancia.
+Has aprendido a reaccionar con armas a distancia cuando hay un enemigo a distancia corta. Puedes usar una reacción que normalmente te permite dar un Golpe con un arma cuerpo a cuerpo para en su lugar dar un Golpe con un arma a distancia. Debes estar Golpeando a un objetivo adyacente. Si es necesario para el desencadenante de la reacción, trata tu arma a distancia como si tuviera un alcance de 5 pies (1,5 m). Si la reacción tiene otros requisitos, como por ejemplo empujar un tipo de arma especifico, Disparo instantáneo no te permite ignorarlos; solo te permite reemplazar un Golpe con un arma cuerpo a cuerpo por un Golpe con un arma a distancia.
 
 ---
 
@@ -302,9 +302,9 @@ Tu dominio de la magia del guardian crece. Obtienes un conjuro de guardian a ele
 
 **Prerrequisitos:** rango experto en Supervivencia, Rastreador experto
 
-Tu buen ojo detecta senales de paso incluso cuando te mueves. Puedes moverte a tu Velocidad completa mientras Rastreas. Si tienes competencia a rango maestro en Supervivencia, no necesitas hacer una nueva prueba de Supervivencia cada hora mientras Rastreas. Si tienes competencia a rango legendario en Supervivencia, puedes usar otra actividad de exploracion mientras Rastreas.
+Tu buen ojo detecta señales de paso incluso cuando te mueves. Puedes moverte a tu Velocidad completa mientras Rastreas. Si tienes competencia a rango maestro en Supervivencia, no necesitas hacer una nueva prueba de Supervivencia cada hora mientras Rastreas. Si tienes competencia a rango legendario en Supervivencia, puedes usar otra actividad de exploración mientras Rastreas.
 
-Si tiras Supervivencia para calcular la iniciativa al rastrear a tu presa perseguida, cuando empieza tu primer turno del encuentro puedes dar una Zancada hacia tu presa perseguida como accion gratuita.
+Si tiras Supervivencia para calcular la iniciativa al rastrear a tu presa perseguida, cuando empieza tu primer turno del encuentro puedes dar una Zancada hacia tu presa perseguida como acción gratuita.
 
 ---
 
@@ -316,7 +316,7 @@ Si tiras Supervivencia para calcular la iniciativa al rastrear a tu presa perseg
 
 **Desencadenante:** Obtienes un exito o un exito critico en una prueba para Recordar conocimiento sobre tu presa perseguida.
 
-Examinas rapidamente el campo de batalla, recordando detalles criticos acerca de multiples oponentes a los que te enfrentas. Haces de inmediato una prueba para Recordar conocimiento acerca de una criatura diferente que puedes percibir.
+Examinas rapidamente el campo de batalla, recordando detalles críticos acerca de multiples oponentes a los que te enfrentas. Haces de inmediato una prueba para Recordar conocimiento acerca de una criatura diferente que puedes percibir.
 
 ---
 
@@ -328,7 +328,7 @@ Examinas rapidamente el campo de batalla, recordando detalles criticos acerca de
 
 **Rasgos:** Explorador
 
-Tienes una aptitud intuitiva para notar los riesgos. Obtienes un bonificador +1 por circunstancia a las pruebas de Percepcion para buscar trampas y riesgos, a la CD contra sus ataques y a las salvaciones contra sus efectos. Puedes encontrar riesgos que normalmente requeriran que Buscaras incluso si no estas Buscando.
+Tienes una aptitud intuitiva para notar los riesgos. Obtienes un bonificados +1 por circunstancia a las pruebas de Percepción para buscar trampas y riesgos, a la CD contra sus ataques y a las salvaciones contra sus efectos. Puedes encontrar riesgos que normalmente requerirán que Buscaras incluso si no estas Buscando.
 
 ---
 
@@ -340,7 +340,7 @@ Tienes una aptitud intuitiva para notar los riesgos. Obtienes un bonificador +1 
 
 **Prerrequisitos:** rango maestro en Percepcion
 
-Tus instintos potenciados te permiten detectar instintivamente oponentes que no has visto. No necesitas tener exito en una prueba plana para designar como objetivo a criaturas ocultas. No estas desprevenido ante criaturas escondidas de ti (a menos que lo estes debido a razones distintas a estar escondidas), y necesitas tan solo una prueba plana CD 5 para designar como objetivo a una criatura escondida.
+Tus instintos potenciados te permiten detectar instintivamente oponentes que no has visto. No necesitas tener éxito en una prueba plana para designar como objetivo a criaturas ocultas. No estas desprevenido ante criaturas escondidas de ti (a menos que lo estes debido a razones distintas a estar escondidas), y necesitas tan solo una prueba plana CD 5 para designar como objetivo a una criatura escondida.
 
 Cuando estas adyacente a una criatura no detectada de tu nivel o inferior, en su lugar solo esta escondida de ti.
 
@@ -354,7 +354,7 @@ Cuando estas adyacente a una criatura no detectada de tu nivel o inferior, en su
 
 **Prerrequisitos:** rango maestro en Supervivencia, Terreno predilecto
 
-Eres capaz de adaptarte a lo que te rodea en cualquier terreno natural. Puedes invertir 1 hora practicando en el terreno en el que estas para convertirlo en predilecto, reemplazando temporalmente a tu terreno predilecto normal. Si pasas un dia completo fuera del nuevo terreno predilecto, este revierte a tu eleccion original cuando elegiste la dote Terreno predilecto.
+Eres capaz de adaptarte a lo que te rodea en cualquier terreno natural. Puedes invertir 1 hora practicando en el terreno en el que estas para convertirlo en predilecto, reemplazando temporalmente a tu terreno predilecto normal. Si pasas un dia completo fuera del nuevo terreno predilecto, este revierte a tu elección original cuando elegiste la dote Terreno predilecto.
 
 ---
 
@@ -364,7 +364,7 @@ Eres capaz de adaptarte a lo que te rodea en cualquier terreno natural. Puedes i
 
 **Rasgos:** Explorador
 
-Senalas las vulnerabilidades presentes en tu presa perseguida, concediendo los beneficios indicados en Perseguir presa y tu ventaja del cazador a un aliado hasta el final de su siguiente turno. Dependiendo de si lo dices en voz alta o utilizas gestos, esta accion obtiene, o bien el rasgo auditivo, o bien el rasgo visual.
+Señales las vulnerabilidades presentes en tu presa perseguida, concediendo los beneficios indicados en Perseguir presa y tu ventaja del cazador a un aliado hasta el final de su siguiente turno. Dependiendo de si lo dices en voz alta o utilizas gestos, esta acción obtiene, o bien el rasgo auditivo, o bien el rasgo visual.
 
 ---
 
@@ -376,7 +376,7 @@ Senalas las vulnerabilidades presentes en tu presa perseguida, concediendo los b
 
 **Prerrequisitos:** especializacion en armas
 
-Apuntas a los puntos debiles de tu presa, haciendo que tu disparo sea mas dificil, pero que inflija mas dano si aciertas. Da un Golpe a distancia con arma contra tu presa perseguida con un penalizador -2. Obtienes un bonificador +4 por circunstancia al dano en dicho Golpe. El dano se incrementa a +6 a 11.o nivel y a +8 a 15.o nivel.
+Apuntas a los puntos debiles de tu presa, haciendo que tu disparo sea mas dificil, pero que inflija mas dano si aciertas. Da un Golpe a distancia con arma contra tu presa perseguida con un penalizador -2. Obtienes un bonificados +4 por circunstancia al dano en dicho Golpe. El dano se incrementa a +6 a 11.o nivel y a +8 a 15.o nivel.
 
 ---
 
@@ -402,7 +402,7 @@ Alteras tu apariencia para difuminarte en las tierras virgenes. En terreno natur
 
 **Prerrequisitos:** rango maestro en Naturaleza, Cazador de monstruos
 
-Dispones de un conocimiento casi enciclopedico acerca de todas las criaturas del mundo. Puedes utilizar Naturaleza para Recordar conocimiento e identificar asi a cualquier criatura. Ademas, obtienes los beneficios de Cazador de monstruos (y Guardian contra los monstruos, si la tienes) con un exito igual que con un exito critico.
+Dispones de un conocimiento casi enciclopedico acerca de todas las criaturas del mundo. Puedes utilizar Naturaleza para Recordar conocimiento e identificar asi a cualquier criatura. Ademas, obtienes los beneficios de Cazador de monstruos (y Guardian contra los monstruos, si la tienes) con un éxito igual que con un éxito critico.
 
 ---
 
@@ -414,7 +414,7 @@ Dispones de un conocimiento casi enciclopedico acerca de todas las criaturas del
 
 **Prerrequisitos:** Companero animal maduro
 
-Tu companero animal continua creciendo y desarrollandose. Se convierte en un companero animal agil o salvaje (tu eliges), obteniendo capacidades adicionales determinadas por el tipo de companero.
+Tu compañero animal continua creciendo y desarrollandose. Se convierte en un compañero animal agil o salvaje (tu eliges), obteniendo capacidades adicionales determinadas por el tipo de compañero.
 
 ---
 
@@ -426,7 +426,7 @@ Tu companero animal continua creciendo y desarrollandose. Se convierte en un com
 
 **Requisitos:** Empunas un arma a distancia
 
-Disparas atravesando a una criatura interpuesta para acertar a tu presa. Elige un objetivo que concede cobertura menor a tu presa perseguida. Da un solo Golpe a distancia con el arma requerida contra el objetivo elegido y tu presa perseguida. Este ataque ignora cualquier cobertura menor proporcionada por el objetivo elegido a tu presa perseguida. Tira solo una vez por dano y aplicalo a cada criatura impactada. Un disparo perforante cuenta como dos ataques para tu penalizador por ataque multiple.
+Disparas atravesando a una criatura interpuesta para acertar a tu presa. Elige un objetivo que concede cobertura menor a tu presa perseguida. Da un solo Golpe a distancia con el arma requerida contra el objetivo elegido y tu presa perseguida. Este ataque ignora cualquier cobertura menor proporcionada por el objetivo elegido a tu presa perseguida. Tira solo una vez por dano y aplicado a cada criatura impactada. Un disparo perforante cuenta como dos ataques para tu penalizador por ataque multiple.
 
 ---
 
@@ -452,7 +452,7 @@ Tu dominio de la magia primigenia te ha concedido acceso a los mayores secretos 
 
 **Prerrequisitos:** rango maestro en Sigilo
 
-Puedes guiar a tus aliados para que se muevan sigilosamente a traves de las tierras virgenes. Cuando Evitas ser visto durante una exploracion en terreno natural, puedes otorgar a cualquier cantidad de aliados tuyos los beneficios de dicha actividad. Esto no requiere accion alguna de su parte.
+Puedes guiar a tus aliados para que se muevan sigilosamente a traves de las tierras virgenes. Cuando Evitas ser visto durante una exploración en terreno natural, puedes otorgar a cualquier cantidad de aliados tuyos los beneficios de dicha actividad. Esto no requiere acción alguna de su parte.
 
 ---
 
@@ -468,7 +468,7 @@ Puedes guiar a tus aliados para que se muevan sigilosamente a traves de las tier
 
 **Requisitos:** Te estas beneficiando de Parada gemela
 
-Una inteligente parada con un arma deja a tu oponente abierto a un ataque con la otra. Da un Golpe cuerpo a cuerpo o usa una accion de Desarmar contra el oponente desencadenante.
+Una inteligente parada con un arma deja a tu oponente abierto a un ataque con la otra. Da un Golpe cuerpo a cuerpo o usa una acción de Desarmar contra el oponente desencadenante.
 
 ---
 
@@ -482,7 +482,7 @@ Una inteligente parada con un arma deja a tu oponente abierto a un ataque con la
 
 **Prerrequisitos:** un companero animal
 
-Tu companero animal y tu luchais en tandem. Siempre que tu companero animal y tu estais adyacentes al mismo enemigo, se considera que ambos lo estais flanqueando sean cuales sean vuestras posiciones reales.
+Tu compañero animal y tu luchais en tandem. Siempre que tu compañero animal y tu estais adyacentes al mismo enemigo, se considera que ambos lo estais flanqueando sean cuales sean vuestras posiciones reales.
 
 ---
 
@@ -492,7 +492,7 @@ Tu companero animal y tu luchais en tandem. Siempre que tu companero animal y tu
 
 **Rasgos:** Explorador
 
-Puedes centrarte en dos enemigos a la vez, persiguiendo a ambos. Cuando utilizas la accion Perseguir presa, puedes elegir como presa a dos criaturas.
+Puedes centrarte en dos enemigos a la vez, persiguiendo a ambos. Cuando utilizas la acción Perseguir presa, puedes elegir como presa a dos criaturas.
 
 ---
 
@@ -504,7 +504,7 @@ Puedes centrarte en dos enemigos a la vez, persiguiendo a ambos. Cuando utilizas
 
 **Prerrequisitos:** conjuros de guardian
 
-Tu conexion con lo que te rodea se hace mas profunda y se expande, lo que te permite absorber mas poder primigenio de la Naturaleza cuando Reenfocas. Cuando Reenfocas, recuperas todos tus Puntos de Foco en lugar de 1.
+Tu conexión con lo que te rodea se hace mas profunda y se expande, lo que te permite absorber mas poder primigenio de la Naturaleza cuando Reenfocas. Cuando Reenfocas, recuperas todos tus Puntos de Foco en lugar de 1.
 
 ---
 
@@ -516,7 +516,7 @@ Tu conexion con lo que te rodea se hace mas profunda y se expande, lo que te per
 
 **Requisitos:** Empunas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
-Lees los movimientos de tu presa y los transformas en aberturas, por lo que los fallos con un arma llevan a golpes de refilon con la otra. Da un Golpe cuerpo a cuerpo con una de las armas requeridas contra tu presa perseguida. El Golpe obtiene el siguiente efecto de fallo.
+Lees los movimientos de tu presa y los transformas en aberturas, por lo que los fallos con un arma llevan a golpes de refilón con la otra. Da un Golpe cuerpo a cuerpo con una de las armas requeridas contra tu presa perseguida. El Golpe obtiene el siguiente efecto de fallo.
 
 **Fallo:** Inflige el dano que hubiera infligido la otra arma requerida con un impacto, excluyendo todos los dados de dano (esto elimina los dados de runas de arma, conjuros y aptitudes especiales, no tan solo los dados de dano de arma).
 
@@ -542,7 +542,7 @@ El mero poder de tus ataques o el numero abrumador de ellos, pone nervioso a un 
 
 **Prerrequisitos:** Companero animal, Camuflaje
 
-Has entrenado a tu companero animal para que se confunda con lo que le rodea. Tu companero animal obtiene el beneficio de la dote Camuflaje. Si tu companero es especialista en emboscadas, su rango de competencia para Sigilo aumenta a maestro (o a legendario si ya tenia rango maestro).
+Has entrenado a tu compañero animal para que se confunda con lo que le rodea. Tu compañero animal obtiene el beneficio de la dote Camuflaje. Si tu compañero es especialista en emboscadas, su rango de competencia para Sigilo aumenta a maestro (o a legendario si ya tenia rango maestro).
 
 ---
 
@@ -552,7 +552,7 @@ Has entrenado a tu companero animal para que se confunda con lo que le rodea. Tu
 
 **Rasgos:** Explorador
 
-Transmites la ubicacion de tu presa a tus aliados mediante una serie de palabras o de gestos cuidadosos. Mientras tu presa perseguida este siendo observada por ti, todos tus aliados que sufran fallos y fallos criticos cuando la Buscan obtendran en su lugar exitos. Tus aliados tienen que ser capaces de verte o de oirte para obtener este beneficio. Tienes que ser capaz de gritar o de hacer gestos visibles para que tus aliados obtengan este beneficio.
+Transmites la ubicación de tu presa a tus aliados mediante una serie de palabras o de gestos cuidadosos. Mientras tu presa perseguida este siendo observada por ti, todos tus aliados que sufran fallos y fallos críticos cuando la Buscan obtendrán en su lugar éxitos. Tus aliados tienen que ser capaces de verte o de oírte para obtener este beneficio. Tienes que ser capaz de gritar o de hacer gestos visibles para que tus aliados obtengan este beneficio.
 
 ---
 
@@ -576,7 +576,7 @@ Cazando como un duo, tu aliado y tu individualizais a vuestra presa. Cuando util
 
 **Desencadenante:** Fallas una prueba de Buscar.
 
-Cuando buscas enemigos, puedes hacerte incluso con las pistas mas nimias, como por ejemplo sus movimientos mas minusculos o el movimiento de las corrientes de aire sobre tu piel. Incluso aunque falles la prueba desencadenante, automaticamente sentiras a cualquier criatura no detectada en el area en la que estas Buscando, haciendo que simplemente este escondida para ti.
+Cuando buscas enemigos, puedes hacerte incluso con las pistas mas nimias, como por ejemplo sus movimientos mas minúsculos o el movimiento de las corrientes de aire sobre tu piel. Incluso aunque falles la prueba desencadenante, automaticamente sentiras a cualquier criatura no detectada en el area en la que estas Buscando, haciendo que simplemente este escondida para ti.
 
 ---
 
@@ -590,7 +590,7 @@ Cuando buscas enemigos, puedes hacerte incluso con las pistas mas nimias, como p
 
 **Prerrequisitos:** rango legendario en Naturaleza, Cazador de monstruos maestro
 
-Tu conocimiento de los monstruos es tan sensacional que revela fallos garrafales de tu presa. Tu bonificador debido a Cazador de monstruos (y el de Guardian contra los monstruos, si lo tienes) se incrementa de +1 a +2 para ti y para cualquier aliado que se beneficia del mismo.
+Tu conocimiento de los monstruos es tan sensacional que revela fallos garrafales de tu presa. Tu bonificados debido a Cazador de monstruos (y el de Guardian contra los monstruos, si lo tienes) se incrementa de +1 a +2 para ti y para cualquier aliado que se beneficia del mismo.
 
 ---
 
@@ -602,7 +602,7 @@ Tu conocimiento de los monstruos es tan sensacional que revela fallos garrafales
 
 **Prerrequisitos:** Companero sensacional
 
-Tu companero animal continua creciendo en poder y aptitudes, y ahora es lo suficientemente astuto como para especializarse. Tu companero animal obtiene una especializacion que puedes elegir.
+Tu compañero animal continua creciendo en poder y aptitudes, y ahora es lo suficientemente astuto como para especializarse. Tu compañero animal obtiene una especialización que puedes elegir.
 
 **Especial:** Puedes seleccionar esta dote hasta 3 veces. Cada vez, anade a tu companero una especializacion diferente.
 
@@ -618,7 +618,7 @@ Tu companero animal continua creciendo en poder y aptitudes, y ahora es lo sufic
 
 **Requisitos:** Tu ultima accion o actividad este turno fue lanzar un conjuro de guardian.
 
-Tu dominio de la magia y de las armas como la ballesta te permite empunar ambas cosas con la misma facilidad. Interactua para recargar un arma que actualmente Empunas.
+Tu dominio de la magia y de las armas como la ballesta te permite empujar ambas cosas con la misma facilidad. Interactuó para recargar un arma que actualmente Empujas.
 
 ---
 
@@ -630,7 +630,7 @@ Tu dominio de la magia y de las armas como la ballesta te permite empunar ambas 
 
 **Prerrequisitos:** Replica gemela
 
-Al inicio de cada uno de tus turnos, obtienes una reaccion adicional que puedes utilizar tan solo para llevar a cabo una Replica gemela. Puedes utilizar esta reaccion adicional incluso si no te estas beneficiando de Parada gemela.
+Al inicio de cada uno de tus turnos, obtienes una reacción adicional que puedes utilizar tan solo para llevar a cabo una Replica gemela. Puedes utilizar esta reacción adicional incluso si no te estas beneficiando de Parada gemela.
 
 ---
 
@@ -668,7 +668,7 @@ Te fundes con lo que te rodea de tal forma que los demas tienen problemas para d
 
 **Prerrequisitos:** cazador maestro, Companero animal
 
-Tu companero animal comparte tus sensacionales habilidades para la caza, lo que te permite abatir con facilidad a vuestra presa compartida. Cuando Persigues a una presa, tu companero animal obtiene el beneficio de cazador maestro asociado con tu ventaja del cazador, en lugar de tan solo el beneficio original de tu ventaja del cazador.
+Tu compañero animal comparte tus sensacionales habilidades para la caza, lo que te permite abatir con facilidad a vuestra presa compartida. Cuando Persigues a una presa, tu compañero animal obtiene el beneficio de cazador maestro asociado con tu ventaja del cazador, en lugar de tan solo el beneficio original de tu ventaja del cazador.
 
 ---
 
@@ -680,7 +680,7 @@ Tu companero animal comparte tus sensacionales habilidades para la caza, lo que 
 
 **Requisitos:** Empunas un arma a distancia cargada que tiene recarga 1 o mas y que no has recargado desde tu ultimo turno.
 
-Despues de contemplar los movimientos del combate con una intensidad y una precision increibles, disparas contra tu presa en el momento perfecto para infligir el maximo dolor. Da un Golpe a distancia con el arma requerida contra tu presa perseguida. Si obtienes un acierto, el Golpe inflige dano maximo. Despues del Golpe, se acaba tu turno.
+Después de contemplar los movimientos del combate con una intensidad y una precision increíbles, disparas contra tu presa en el momento perfecto para infligir el maximo dolor. Da un Golpe a distancia con el arma requerida contra tu presa perseguida. Si obtienes un acierto, el Golpe inflige dano maximo. Después del Golpe, se acaba tu turno.
 
 ---
 
@@ -732,9 +732,9 @@ Cada ataque cuenta para tu penalizador por ataque multiple, pero no incrementas 
 
 **Prerrequisitos:** rango legendario en Supervivencia
 
-Tu capacidad para rastrear a tu presa ha sobrepasado toda posibilidad de explicacion, permitiendote seguir los movimientos de la misma y predecir su ubicacion con facilidad. Cuando utilizas Perseguir presa contra una criatura a 100 pies (30 m) o menos, puedes seguir sus movimientos, lo que te permite conocer su ubicacion exacta sin importar lo lejos que esta, si la sigues manteniendo como presa.
+Tu capacidad para rastrear a tu presa ha sobrepasado toda posibilidad de explicación, permitiendote seguir los movimientos de la misma y predecir su ubicación con facilidad. Cuando utilizas Perseguir presa contra una criatura a 100 pies (30 m) o menos, puedes seguir sus movimientos, lo que te permite conocer su ubicación exacta sin importar lo lejos que esta, si la sigues manteniendo como presa.
 
-Tienes que tener el rango legendario en Naturaleza para rastrear la posicion de tu presa mediante el teletransporte o el viaje planario. Esta dote obtiene los rasgos deteccion y primigenio si tienes el rango legendario en Naturaleza.
+Tienes que tener el rango legendario en Naturaleza para rastrear la posición de tu presa mediante el teletransporte o el viaje plenario. Esta dote obtiene los rasgos detección y primigenio si tienes el rango legendario en Naturaleza.
 
 ---
 
@@ -746,7 +746,7 @@ Tienes que tener el rango legendario en Naturaleza para rastrear la posicion de 
 
 **Prerrequisitos:** viaje sin trabas
 
-Tienes tanta habilidad en orientarte por las tierras virgenes, que tu movimiento nunca resulta afectado por el terreno. Ignoras los efectos de todo el terreno dificil, terreno dificil mayor y terreno arriesgado y no desencadenas las trampas y peligros del tipo que se activa moviendote a una zona (como por ejemplo, cuerdas de trampa y placas de presion), si no quieres.
+Tienes tanta habilidad en orientarte por las tierras virgenes, que tu movimiento nunca resulta afectado por el terreno. Ignoras los efectos de todo el terreno dificil, terreno dificil mayor y terreno arriesgado y no desencadenas las trampas y peligros del tipo que se activa moviendote a una zona (como por ejemplo, cuerdas de trampa y placas de presión), si no quieres.
 
 ---
 
@@ -770,4 +770,4 @@ Te centras en tu presa perseguida, percibiendo los angulos, la resistencia del a
 
 **Prerrequisitos:** Presa compartida
 
-Cuando cazas, puedes dividir tu atencion en tres. Cuando utilizas Perseguir presa, puedes designar como tales hasta 3 criaturas, designar a 2 criaturas como presa y compartir el efecto con un aliado (como en Presa compartida) o designar una criatura como presa y compartir el efecto con 2 aliados.
+Cuando cazas, puedes dividir tu atención en tres. Cuando utilizas Perseguir presa, puedes designar como tales hasta 3 criaturas, designar a 2 criaturas como presa y compartir el efecto con un aliado (como en Presa compartida) o designar una criatura como presa y compartir el efecto con 2 aliados.

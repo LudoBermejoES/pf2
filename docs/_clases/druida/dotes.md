@@ -130,7 +130,7 @@ Llamas a las criaturas de la Naturaleza para que acudan en tu ayuda. Puedes inve
 
 **Rasgos:** Druida
 
-Tu afinidad por el mundo natural te concede protección contra algunos de sus peligros. Obtienes tanta resistencia al veneno como la mitad de tu nivel, y un bonificador +1 por estatus a las tiradas de salvación contra venenos.
+Tu afinidad por el mundo natural te concede protección contra algunos de sus peligros. Obtienes tanta resistencia al veneno como la mitad de tu nivel, y un bonificados +1 por estatus a las tiradas de salvación contra venenos.
 
 ---
 
@@ -154,7 +154,7 @@ Tu compañero animal tiene una independencia mayor. Durante un encuentro, inclus
 
 **Prerrequisitos:** Orden de la tormenta
 
-El aullante viento y la precipitación de tu magia se convierten en gruesa nieve. Si tu siguiente acción es Lanzar un conjuro que tiene el rasgo aire, agua o frío y carece del rasgo fuego, selecciona una criatura afectada por el mismo sobre el terreno. Cada casilla de terreno bajo la criatura o adyacente a la misma se llena de nieve hasta la altura del tobillo. Dichas casillas son terreno difícil hasta el inicio de tu siguiente turno. Una criatura puede Interactuar para limpiar de nieve la casilla, y la nieve de una casilla se funde si se ve expuesta a un efecto de fuego.
+El aullarte viento y la precipitación de tu magia se convierten en gruesa nieve. Si tu siguiente acción es Lanzar un conjuro que tiene el rasgo aire, agua o frío y carece del rasgo fuego, selecciona una criatura afectada por el mismo sobre el terreno. Cada casilla de terreno bajo la criatura o adyacente a la misma se llena de nieve hasta la altura del tobillo. Dichas casillas son terreno difícil hasta el inicio de tu siguiente turno. Una criatura puede Interactuar para limpiar de nieve la casilla, y la nieve de una casilla se funde si se ve expuesta a un efecto de fuego.
 
 ---
 
@@ -216,8 +216,8 @@ Siempre puedes encontrar un camino, casi como si el follaje se apartara ante ti.
 
 Los secretos de la orden de la hoja permiten que tu familiar saque partido de su forma de leshy. Puedes seleccionar una aptitud de familiar adicional por día, que tiene que ser una de las siguientes aptitudes de familiar leshy. No puedes seleccionar más de una aptitud a la vez de esta dote.
 
-- **Explosión verde:** Cuando tu familiar muere, libera su energía primigenia para lanzar la versión de 3 acciones de *curar*, potenciado a un rango 1 inferior a tu espacio de conjuro de mayor rango. El conjuro de *curar* obtiene un bonificador por estatus igual al doble del rango del conjuro a los Puntos de Golpe que restablece a las plantas. Tienes que ser capaz de lanzar conjuros de 2.º rango utilizando espacios de conjuro para seleccionar esta aptitud de familiar.
-- **Purificar el aire:** Tu familiar recicla el aire, proporcionando suficiente oxígeno para una criatura Mediana en áreas con el aire viciado, como por ejemplo una cámara sellada o un espacio extradimensional. Las criaturas dentro de una emanación de 15 pies (4,5 m) del leshy obtienen un bonificador +2 por circunstancia a sus tiradas de salvación contra los efectos de veneno inhalado, efectos olfativos u otros efectos basados en la respiración (como por ejemplo *nube tóxica*) a discreción del DJ.
+- **Explosión verde:** Cuando tu familiar muere, libera su energía primigenia para lanzar la versión de 3 acciones de *curar*, potenciado a un rango 1 inferior a tu espacio de conjuro de mayor rango. El conjuro de *curar* obtiene un bonificados por estatus igual al doble del rango del conjuro a los Puntos de Golpe que restablece a las plantas. Tienes que ser capaz de lanzar conjuros de 2.º rango utilizando espacios de conjuro para seleccionar esta aptitud de familiar.
+- **Purificar el aire:** Tu familiar recicla el aire, proporcionando suficiente oxígeno para una criatura Mediana en áreas con el aire viciado, como por ejemplo una cámara sellada o un espacio extradimensional. Las criaturas dentro de una emanación de 15 pies (4,5 m) del leshy obtienen un bonificados +2 por circunstancia a sus tiradas de salvación contra los efectos de veneno inhalado, efectos olfativos u otros efectos basados en la respiración (como por ejemplo *nube tóxica*) a discreción del DJ.
 - **Zarcillos apresadores:** Tu familiar puede extender enredaderas o zarcillos similares, que incrementan su alcance a 15 pies (4,5 m).
 
 ---
@@ -254,7 +254,7 @@ Te revuelves, dirigiendo una explosión de furia tormentosa contra la criatura q
 
 **Rasgos:** Concentrar, Druida, Moldeo de conjuros
 
-Mientras usas tu magia para manipular aire y agua, haces girar algunas de sus corrientes para que formen una barrera a tu alrededor. Si tu siguiente acción es Lanzar un conjuro con el rasgo aire o agua, hasta el inicio de tu siguiente turno obtienes un bonificador +1 por circunstancia a la CA o un bonificador +2 por circunstancia contra los ataques a distancia. Este efecto tiene el rasgo aire, agua, o ambos, dependiendo de los del conjuro que lanzas. También obtienes un bonificador +1 por circunstancia a todas las salvaciones contra los efectos con los rasgos aire, agua, o ambos hasta el inicio de tu siguiente turno, dependiendo de los rasgos del conjuro.
+Mientras usas tu magia para manipular aire y agua, haces girar algunas de sus corrientes para que formen una barrera a tu alrededor. Si tu siguiente acción es Lanzar un conjuro con el rasgo aire o agua, hasta el inicio de tu siguiente turno obtienes un bonificados +1 por circunstancia a la CA o un bonificados +2 por circunstancia contra los ataques a distancia. Este efecto tiene el rasgo aire, agua, o ambos, dependiendo de los del conjuro que lanzas. También obtienes un bonificados +1 por circunstancia a todas las salvaciones contra los efectos con los rasgos aire, agua, o ambos hasta el inicio de tu siguiente turno, dependiendo de los rasgos del conjuro.
 
 ---
 
@@ -294,7 +294,7 @@ Confiado en tu técnica, no pierdes conjuros fácilmente. Si una reacción inter
 
 **Frecuencia:** una vez por hora
 
-Alzas un monumento druídico, como por ejemplo un menhir o un árbol custodio, desde el suelo, creando una poderosa custodia primigenia que bloquea otros tipos de magia. El monumento aparece en una casilla no ocupada de terreno a 30 pies (9 m) o menos de ti, convirtiendo dicha casilla en terreno difícil. Elige entre arcano, divino u ocultista; todas las criaturas a 15 pies (4,5 m) o menos del monumento obtienen un bonificador +2 por estatus a sus tiradas de salvación contra los efectos que tienen dicho rasgo. El monumento dura 1 asalto antes de derrumbarse en el suelo o desvanecerse en la nada, pero puedes Mantenerlo hasta 1 minuto.
+Alzas un monumento druídico, como por ejemplo un menhir o un árbol custodio, desde el suelo, creando una poderosa custodia primigenia que bloquea otros tipos de magia. El monumento aparece en una casilla no ocupada de terreno a 30 pies (9 m) o menos de ti, convirtiendo dicha casilla en terreno difícil. Elige entre arcano, divino u ocultista; todas las criaturas a 15 pies (4,5 m) o menos del monumento obtienen un bonificados +2 por estatus a sus tiradas de salvación contra los efectos que tienen dicho rasgo. El monumento dura 1 asalto antes de derrumbarse en el suelo o desvanecerse en la nada, pero puedes Mantenerlo hasta 1 minuto.
 
 ---
 
@@ -324,7 +324,7 @@ Imitando las exhibiciones de amenaza de los animales, te haces parecer a ti mism
 
 **Prerrequisitos:** Forma salvaje
 
-Has dominado la forma de los dinosaurios. Añade las formas indicadas en *forma de dinosaurio* a tu lista de *forma indómita*. Siempre que usas *forma indómita* para adoptar una forma que te concede un modificador específico a Atletismo, obtienes un bonificador +1 por estatus a tus pruebas de Atletismo.
+Has dominado la forma de los dinosaurios. Añade las formas indicadas en *forma de dinosaurio* a tu lista de *forma indómita*. Siempre que usas *forma indómita* para adoptar una forma que te concede un modificador específico a Atletismo, obtienes un bonificados +1 por estatus a tus pruebas de Atletismo.
 
 ---
 
@@ -334,7 +334,7 @@ Has dominado la forma de los dinosaurios. Añade las formas indicadas en *forma 
 
 **Prerrequisitos:** Forma salvaje
 
-Unas alas te liberan de los grilletes de la superficie. Añade las formas de murciélago y de pájaro de *forma aérea* a tu lista de *forma indómita*. Si tienes Forma de insecto, también añades forma de avispa a tu lista de *forma indómita*. Si tienes Forma feroz, también añades forma de pterosauro a tu lista de *forma indómita*. Siempre que usas *forma indómita* para adoptar una forma que te concede un modificador específico a Acrobacias, obtienes un bonificador +1 por estatus a tus pruebas de Acrobacias.
+Unas alas te liberan de los grilletes de la superficie. Añade las formas de murciélago y de pájaro de *forma aérea* a tu lista de *forma indómita*. Si tienes Forma de insecto, también añades forma de avispa a tu lista de *forma indómita*. Si tienes Forma feroz, también añades forma de pterosauro a tu lista de *forma indómita*. Siempre que usas *forma indómita* para adoptar una forma que te concede un modificador específico a Acrobacias, obtienes un bonificados +1 por estatus a tus pruebas de Acrobacias.
 
 ---
 
@@ -536,7 +536,7 @@ Te has convertido en una versión vegetal de ti mismo, obteniendo el rasgo plant
 
 **Rasgos:** Druida
 
-Como quiera que la magia primigenia te sustenta, dejas de envejecer. La energía primigenia que te desborda te concede un bonificador +2 por estatus a las salvaciones contra las enfermedades y la magia primigenia.
+Como quiera que la magia primigenia te sustenta, dejas de envejecer. La energía primigenia que te desborda te concede un bonificados +2 por estatus a las salvaciones contra las enfermedades y la magia primigenia.
 
 ---
 
@@ -603,7 +603,7 @@ Te puedes transformar en una poderosa criatura mágica. Añade las formas gusano
 
 **Prerrequisitos:** Orden de la tormenta
 
-Los vientos están ansiosos de mantenerte en el aire. Cuando estás volando y Lanzas un conjuro con los rasgos aire o electricidad, obtienes un bonificador +10 pies (3 m) por estatus a tu Velocidad de vuelo, y puedes Volar de inmediato hasta la mitad de tu Velocidad.
+Los vientos están ansiosos de mantenerte en el aire. Cuando estás volando y Lanzas un conjuro con los rasgos aire o electricidad, obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad de vuelo, y puedes Volar de inmediato hasta la mitad de tu Velocidad.
 
 ---
 

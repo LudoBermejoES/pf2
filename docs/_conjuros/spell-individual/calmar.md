@@ -18,7 +18,7 @@ spell_level: 2
 
 ---
 
-Calmas por la fuerza a las criaturas en el area, sosegandolas hasta un estado no violento; cada criatura tiene que hacer una salvacion de Voluntad.
+Calmas por la fuerza a las criaturas en el area, sosegandolas hasta un estado no violento; cada criatura tiene que hacer una salvación de Voluntad.
 
 **Exito critico** La criatura no resulta afectada.
 

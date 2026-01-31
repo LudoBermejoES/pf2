@@ -20,7 +20,7 @@ spell_level: 6
 
 ---
 
-Haces que cualquier conjuro lanzado sobre el objetivo descargue su energia en oleadas dañinas. El objetivo tiene que llevar a cabo una salvacion de Voluntad.
+Haces que cualquier conjuro lanzado sobre el objetivo descargue su energia en oleadas dañinas. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 

@@ -38,7 +38,7 @@ Tu patrón envuelve a tu alrededor una capa de ilusión, haciendo que parezcas o
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** mantenido hasta 1 minuto
 
-La égida de tu patrón desciende para escudar del daño a un objetivo. Designa uno de los siguientes rasgos de criatura: aberración, animal, bestia, celestial, constructo, dragón, elemental, espíritu, feérico, hongo, gigante, humanoide, infernal, monitor, muerto viviente o planta. El objetivo obtiene un bonificador +1 por estatus a sus tiradas de salvación y a su CA contra las criaturas con dicho rasgo.
+La égida de tu patrón desciende para escudar del daño a un objetivo. Designa uno de los siguientes rasgos de criatura: aberración, animal, bestia, celestial, constructo, dragón, elemental, espíritu, feérico, hongo, gigante, humanoide, infernal, monitor, muerto viviente o planta. El objetivo obtiene un bonificados +1 por estatus a sus tiradas de salvación y a su CA contra las criaturas con dicho rasgo.
 
 **Potenciado (5.º)** El bonificador por estatus se incrementa a +2.
 
@@ -157,7 +157,7 @@ Tu patrón induce en el objetivo un estado somnoliento, que le provoca ensoñaci
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duración:** mantenido hasta 1 minuto
 
-El aliento de tu patrón se convierte una ventisca de hielo oscurecedor y azotador que persigue a tu objetivo. El objetivo hace una salvación de Fortaleza.
+El aliento de tu patrón se convierte una ventisca de hielo oscurecedor y agotador que persigue a tu objetivo. El objetivo hace una salvación de Fortaleza.
 
 **Éxito crítico** El objetivo no resulta afectado.
 
@@ -179,7 +179,7 @@ El aliento de tu patrón se convierte una ventisca de hielo oscurecedor y azotad
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** mantenido hasta 1 minuto
 
-Tu patrón llena de fervor a una criatura, potenciando sus golpes. El objetivo obtiene un bonificador +2 por estatus a las tiradas de daño.
+Tu patrón llena de fervor a una criatura, potenciando sus golpes. El objetivo obtiene un bonificados +2 por estatus a las tiradas de daño.
 
 **Potenciado (+2)** El bonificador por estatus al daño se incrementa en 1.
 
@@ -191,7 +191,7 @@ Tu patrón llena de fervor a una criatura, potenciando sus golpes. El objetivo o
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** mantenido hasta 1 minuto
 
-Tu patrón se digna susurrar unos cuantos secretos. El objetivo puede Recordar conocimiento, Buscar o Averiguar intenciones como acción gratuita. El objetivo obtendrá un bonificador +1 por estatus a la estadística utilizada para la tirada (una habilidad o Percepción) en dicha tirada y mientras Mantengas el conjuro. El objetivo queda temporalmente inmune a discernir secretos durante 1 minuto.
+Tu patrón se digna susurrar unos cuantos secretos. El objetivo puede Recordar conocimiento, Buscar o Averiguar intenciones como acción gratuita. El objetivo obtendrá un bonificados +1 por estatus a la estadística utilizada para la tirada (una habilidad o Percepción) en dicha tirada y mientras Mantengas el conjuro. El objetivo queda temporalmente inmune a discernir secretos durante 1 minuto.
 
 **Potenciado (5.º)** Puedes designar como objetivo a 2 criaturas en lugar de 1.
 
@@ -203,7 +203,7 @@ Tu patrón se digna susurrar unos cuantos secretos. El objetivo puede Recordar c
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** 1 minuto
 
-El más mínimo giro del ovillo de tu patrón basta para alterar el destino. Cuando el objetivo falla una tirada de ataque, prueba de habilidad o tirada de salvación y un bonificador +1 por estatus convertiría un fallo crítico en un fallo, o un fallo en un éxito, concedes al objetivo un bonificador +1 por estatus a la prueba de forma retroactiva, cambiando apropiadamente el desenlace. El hechizo acaba a continuación.
+El más mínimo giro del ovillo de tu patrón basta para alterar el destino. Cuando el objetivo falla una tirada de ataque, prueba de habilidad o tirada de salvación y un bonificados +1 por estatus convertiría un fallo crítico en un fallo, o un fallo en un éxito, concedes al objetivo un bonificados +1 por estatus a la prueba de forma retroactiva, cambiando apropiadamente el desenlace. El hechizo acaba a continuación.
 
 Si lanzas empujar al destino mientras está en funcionamiento un lanzamiento anterior del mismo conjuro, el efecto anterior se acaba.
 

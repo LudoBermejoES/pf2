@@ -1,7 +1,7 @@
 ---
 layout: spell
-permalink: /conjuros/bendicion/
-title: Bendicion
+permalink: /conjuros/bendición/
+title: Bendición
 chapter: Conjuros
 spell_level: 1
 ---
@@ -20,6 +20,6 @@ spell_level: 1
 
 ---
 
-Las bendiciones del mas alla ayudan a tus compañeros a pegar con acierto. Tus aliados y tu obteneis un bonificador +1 por estatus a las tiradas de ataque mientras permaneceis en el interior de la emanacion.
+Las bendiciones del mas alla ayudan a tus compañeros a pegar con acierto. Tus aliados y tu obtenéis un bonificados +1 por estatus a las tiradas de ataque mientras permaneceis en el interior de la emanación.
 
-Una vez por asalto en turnos subsiguientes, puedes Mantener el conjuro para incrementar en 10 pies (3 m) el radio de la emanacion. Bendecir puede contrarrestar a perdicion.
+Una vez por asalto en turnos subsiguientes, puedes Mantener el conjuro para incrementar en 10 pies (3 m) el radio de la emanación. Bendecir puede contrarrestar a perdición.

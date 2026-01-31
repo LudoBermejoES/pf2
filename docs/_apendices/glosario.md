@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /apendices/glosario/
+permalink: /apéndices/glosario/
 title: Glosario e Índice
-chapter: Apendices
-category: apendices
+chapter: Apéndices
+category: apéndices
 nav_order: 8
 ---
 

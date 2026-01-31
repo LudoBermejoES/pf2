@@ -32,9 +32,9 @@ Cantas molestas canciones goblin, distrayendo a tus enemigos con rimas tontas y 
 
 Puedes afectar hasta a 2 objetivos dentro del rango de distancia si tienes competencia a rango experto en Interpretar, a 4 si tu rango es maestro y a 8 si tu rango es legendario.
 
-- **Exito critico:** El objetivo sufre un penalizador -1 por estatus a las pruebas de Percepcion y a las salvaciones de Voluntad durante 1 minuto.
-- **Exito:** El objetivo sufre un penalizador -1 por estatus a las pruebas de Percepcion y a las salvaciones de Voluntad durante 1 asalto.
-- **Fallo critico:** El objetivo queda temporalmente inmune a la Cancion goblin durante 1 hora.
+- **Exito critico:** El objetivo sufre un penalizador -1 por estatus a las pruebas de Percepción y a las salvaciones de Voluntad durante 1 minuto.
+- **Exito:** El objetivo sufre un penalizador -1 por estatus a las pruebas de Percepción y a las salvaciones de Voluntad durante 1 asalto.
+- **Fallo critico:** El objetivo queda temporalmente inmune a la Canción goblin durante 1 hora.
 
 ---
 
@@ -45,7 +45,7 @@ Sabes que los mayores tesoros a menudo parecen basura.
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia a las pruebas para Subsistir y puedes utilizar Sociedad o Supervivencia cuando Subsistes en un asentamiento.
 
-Cuando Subsistes en una ciudad, tambien reunes basura valiosa que los atontados de los patilargos suelen tirar. Puedes Obtener ingresos utilizando Sociedad o Supervivencia a la vez que Subsistes, sin tener que invertir ningun dia adicional de tiempo libre. Tambien obtienes un bonificador +1 por circunstancia a esta prueba.
+Cuando Subsistes en una ciudad, tambien Rennes basura valiosa que los atontados de los patilargos suelen tirar. Puedes Obtener ingresos utilizando Sociedad o Supervivencia a la vez que Subsistes, sin tener que invertir ningún dia adicional de tiempo libre. Tambien obtienes un bonificados +1 por circunstancia a esta prueba.
 
 **Especial:** Si tienes la herencia goblin tripas de hierro, incrementa a +2 los bonificadores.
 
@@ -58,7 +58,7 @@ Otros pueden mirarlas con desdén, pero tu sabes que las armas de tu gente son t
 
 **Beneficio:** Estas entrenado en todas las armas poco comunes con el rasgo goblin. Tienes familiaridad con todas las armas con el rasgo goblin; a efectos de competencia, tratas todas las que son armas marciales como sencillas y todas las que son avanzadas como marciales.
 
-A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obtienes su efecto de especializacion critica.
+A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obtienes su efecto de especialización critica.
 
 ---
 
@@ -67,7 +67,7 @@ A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obt
 
 **Desencadenante:** Un aliado acaba una accion de movimiento adyacente a ti.
 
-Sacas partido del movimiento de tu aliado para ajustar tu posicion.
+Sacas partido del movimiento de tu aliado para ajustar tu posición.
 
 **Beneficio:** Das un Paso.
 
@@ -80,18 +80,18 @@ Eres especialmente bueno con las monturas tradicionales de los goblins.
 
 **Beneficio:** Obtienes la dote Montar, incluso si no cumples los prerrequisitos. Obtienes un bonificador +1 por circunstancia a las pruebas de Naturaleza para Comandar a un animal sobre un perro goblin o sobre un lobo de monta.
 
-Si obtienes un lobo como companero animal, este obtiene la aptitud especial montura (y si obtienes una aptitud que te concede un companero animal con la aptitud especial montura, puedes elegir un lobo).
+Si obtienes un lobo como compañero animal, este obtiene la aptitud especial montura (y si obtienes una aptitud que te concede un compañero animal con la aptitud especial montura, puedes elegir un lobo).
 
 ---
 
 ### Muy escurridizo
 **Dote 1** - Goblin
 
-La gente grande raramente presta atencion a las sombras que tiene a sus pies, y tu te aprovechas de ello por completo.
+La gente grande raramente presta atención a las sombras que tiene a sus pies, y tu te aprovechas de ello por completo.
 
 **Beneficio:** Puedes moverte 5 pies (1,5 m) mas lejos cuando utilizas la accion Movimiento furtivo, hasta tu Velocidad.
 
-Ademas, mientras continues utilizando acciones de Movimiento furtivo y tengas exito en tu prueba de Sigilo, no quedaras observado si careces de cobertura o de cobertura mayor y no estas oculto al final de la accion de Sigilo, si dispones de cobertura o cobertura mayor o estas oculto al final de tu turno.
+Ademas, mientras continues utilizando acciones de Movimiento furtivo y tengas éxito en tu prueba de Sigilo, no quedaras observado si careces de cobertura o de cobertura mayor y no estas oculto al final de la acción de Sigilo, si dispones de cobertura o cobertura mayor o estas oculto al final de tu turno.
 
 ---
 
@@ -113,7 +113,7 @@ Puedes fabricar herramientas utiles, incluso de los desechos mas retorcidos u ox
 
 **Beneficio:** Cuando utilizas la habilidad Artesania para Fabricar, puedes hacer objetos de nivel 0 (incluyendo armas y armaduras) a partir de chatarra. Esto reduce el Precio a una cuarta parte de la cantidad usual, pero siempre resulta en un objeto chapucero. Los objetos chapuceros normalmente imponen un penalizador, pero tu no lo sufres si utilizas objetos chapuceros fabricados por ti mismo (y tampoco se te aplica el mayor penalizador debido a una armadura chapucera).
 
-Tambien puedes incorporar chatarra para ahorrar dinero cuando Fabricas algun objeto. Esto te concede un descuento en el objeto como si hubieras invertido 1 dia adicional trabajando para reducir el coste, pero es obvio que el objeto esta hecho a base de chatarra. A discrecion del DJ, esto podria afectar el valor de reventa del objeto, dependiendo de los gustos del comprador.
+Tambien puedes incorporar chatarra para ahorrar dinero cuando Fabricas algún objeto. Esto te concede un descuento en el objeto como si hubieras invertido 1 dia adicional trabajando para reducir el coste, pero es obvio que el objeto esta hecho a base de chatarra. A discreción del DJ, esto podría afectar el valor de reventa del objeto, dependiendo de los gustos del comprador.
 
 ---
 
@@ -124,7 +124,7 @@ Tambien puedes incorporar chatarra para ahorrar dinero cuando Fabricas algun obj
 
 **Prerrequisitos:** Cancion goblin
 
-Afinar, controlar la respiracion adecuadamente y recordar la letra son cosas mucho menos importantes que la medida real de un buen cantante: el volumen!
+Afinar, controlar la respiración adecuadamente y recordar la letra son cosas mucho menos importantes que la medida real de un buen cantante: el volumen!
 
 **Beneficio:** El rango de distancia de tu Cancion goblin se incrementa a 60 pies (18 m) y puedes designar como objetivo a un enemigo adicional cuando la usas.
 
@@ -137,7 +137,7 @@ Asestas un tremendo golpe a la rodilla, la espinilla u otra parte vulnerable a t
 
 **Beneficio:** Da un Golpe cuerpo a cuerpo con una arma cuerpo a cuerpo o un ataque sin armas cuerpo a cuerpo. Este ataque no inflige dano. Con un impacto, el objetivo sufre un penalizador -10 pies (3 m) por estatus a su Velocidad (o un penalizador -15 pies [4,5 m] por estatus con un impacto critico). El penalizador dura 1 asalto.
 
-Este penalizador solo se aplica si el objetivo tiene Velocidad terrestre y depende de piernas u otros apendices que puedan ser designados como objetivo para utilizar su Velocidad terrestre. Como con todos los penalizadores a la Velocidad, este ataque no puede reducir la de una criatura por debajo de 5 pies (1,5 m).
+Este penalizador solo se aplica si el objetivo tiene Velocidad terrestre y depende de piernas u otros apéndices que puedan ser designados como objetivo para utilizar su Velocidad terrestre. Como con todos los penalizadores a la Velocidad, este ataque no puede reducir la de una criatura por debajo de 5 pies (1,5 m).
 
 ---
 
@@ -181,7 +181,7 @@ Puedes ir mas lejos y mas rapido cuando maniobras junto a tus aliados.
 ### Trepador de cueva
 **Dote 9** - Goblin
 
-Despues de anos de arrastrarte por cavernas, puedes trepar facilmente a cualquier parte.
+Después de anos de arrastrarte por cavernas, puedes trepar facilmente a cualquier parte.
 
 **Beneficio:** Obtienes una Velocidad de trepar de 10 pies (3 m).
 
@@ -205,8 +205,8 @@ Despues de anos de arrastrarte por cavernas, puedes trepar facilmente a cualquie
 
 **Frecuencia:** Una vez al dia
 
-A pesar de una vida llena de decisiones cuestionables, has conseguido sobrevivir, como si tuvieras una suerte increible que te permite evitar las consecuencias de tus acciones.
+A pesar de una vida llena de decisiones cuestionables, has conseguido sobrevivir, como si tuvieras una suerte increíble que te permite evitar las consecuencias de tus acciones.
 
 **Beneficio:** Durante el resto de tu turno, si obtienes un fallo o un fallo critico en una tirada de salvacion contra un efecto danino, en su lugar obtienes un exito. Ademas, si sufririas dano de un enemigo o peligro este turno, sufres el dano minimo posible.
 
-Estos beneficios solo se aplican a los efectos daninos sufridos por completo durante tu turno en el que activas Abandono temerario, como por ejemplo atravesar corriendo un muro de fuego. El dano persistente y los estados que se aplicaron antes a tu turno funcionan con normalidad, y en cuanto el turno acabe te veras sujeto a las consecuencias completas de cualquier peligro que aun te amenace.
+Estos beneficios solo se aplican a los efectos dañinos sufridos por completo durante tu turno en el que activas Abandono temerario, como por ejemplo atravesar corriendo un muro de fuego. El dano persistente y los estados que se aplicaron antes a tu turno funcionan con normalidad, y en cuanto el turno acabe te veras sujeto a las consecuencias completas de cualquier peligro que aun te amenace.

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/explorador/descripcion/
+permalink: /clases/explorador/descripción/
 title: Explorador
 chapter: Clases
 category: clases
@@ -19,11 +19,11 @@ El explorador es un cazador y rastreador consumado, capaz de perseguir a su pres
 
 ## Competencias Iniciales
 
-A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadisticas. No estas entrenado en nada que no se indica, si no obtienes un rango de competencia mayor de alguna otra forma.
+A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadísticas. No estas entrenado en nada que no se indica, si no obtienes un rango de competencia mayor de alguna otra forma.
 
 ### Percepcion
 
-- **Experto** en Percepcion
+- **Experto** en Percepción
 
 ### Tiradas de Salvacion
 
@@ -63,6 +63,6 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ## Otros Probablemente...
 
-- Te encuentran intimidante hasta que te conocen... y quiza incluso tambien despues de conocerte.
-- Esperan que seas todo fuerza y nada mana, especialmente en lo que respecta a las areas de estudio mas esotericas.
+- Te encuentran intimidante hasta que te conocen... y quizá incluso tambien después de conocerte.
+- Esperan que seas todo fuerza y nada mana, especialmente en lo que respecta a las areas de estudio mas esotéricas.
 - Respetan tu pericia en el arte de la guerra y valoran tu opinion sobre la calidad del armamento.

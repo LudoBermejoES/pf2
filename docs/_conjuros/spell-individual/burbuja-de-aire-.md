@@ -19,4 +19,4 @@ spell_level: 1
 
 ---
 
-Una burbuja de aire puro aparece alrededor de la cabeza del objetivo, permitiendole respirar con normalidad. El efecto se acaba en cuanto el objetivo vuelve a un entorno en el que puede respirar de forma natural.
+Una burbuja de aire puro aparece alrededor de la cabeza del objetivo, permitiéndole respirar con normalidad. El efecto se acaba en cuanto el objetivo vuelve a un entorno en el que puede respirar de forma natural.

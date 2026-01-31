@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/brujo/caracteristicas/
+permalink: /clases/brujo/características/
 title: Características del Brujo
 chapter: Clases
 category: clases
@@ -168,7 +168,7 @@ Tu patrón te contactó en un momento en el que tu fuerza de voluntad estaba a p
 
 ### El inscrito
 
-Ninguna palabra surgió de los labios de tu patrón en el momento en que os conocísteis; en su lugar, palabras y glifos recorrieron su piel mientras que símbolos y números nadaban en las profundidades de sus ojos, mostrando su voluntad en un torrente de palabras y de sabiduría. Tu patrón podría ser un poderoso archimago o incluso uno de sus artefactos abandonados, buscando a un sucesor.
+Ninguna palabra surgió de los labios de tu patrón en el momento en que os conocisteis; en su lugar, palabras y glifos recorrieron su piel mientras que símbolos y números nadaban en las profundidades de sus ojos, mostrando su voluntad en un torrente de palabras y de sabiduría. Tu patrón podría ser un poderoso archivado o incluso uno de sus artefactos abandonados, buscando a un sucesor.
 
 - **Lista de conjuros:** arcana
 - **Habilidad de patrón:** Arcanos
@@ -177,7 +177,7 @@ Ninguna palabra surgió de los labios de tu patrón en el momento en que os cono
 
 ### El resentimiento
 
-Un solo sentimiento irradió de tu patrón en el momento en que os conocísteis, tan palpable como el calor de un fuego: el deseo de ver abatidos a todos los pudientes y machacados a todos los prepotentes, ya sea para llevar la justicia al pueblo llano o por la pulsión básica de ver derrotados a los poderosos. Tu patrón raramente va a pertenecer a los escalones superiores de los de su clase, y será probablemente una saga expulsada de su aquelarre, una casi divinidad o un demonio de rango inferior. Esto le permite tan sólo utilizar herramientas más sutiles y más débiles para conseguir tus objetivos: las maldiciones, los maleficios y tú.
+Un solo sentimiento irradió de tu patrón en el momento en que os conocisteis, tan palpable como el calor de un fuego: el deseo de ver abatidos a todos los pudientes y machacados a todos los prepotentes, ya sea para llevar la justicia al pueblo llano o por la pulsión básica de ver derrotados a los poderosos. Tu patrón raramente va a pertenecer a los escalones superiores de los de su clase, y será probablemente una saga expulsada de su aquelarre, una casi divinidad o un demonio de rango inferior. Esto le permite tan sólo utilizar herramientas más sutiles y más débiles para conseguir tus objetivos: las maldiciones, los maleficios y tú.
 
 - **Lista de conjuros:** ocultista
 - **Habilidad de patrón:** Ocultismo
@@ -190,7 +190,7 @@ Un frío tremendo fue el preludio de la aparición de tu patrón en las profundi
 
 - **Lista de conjuros:** primigenia
 - **Habilidad de patrón:** Naturaleza
-- **Lección del frío del invierno:** Tu patrón te enseñó de primera mano el poder del invierno sometiéndote a la escarcha y la nieve. Aprendes el truco de maleficio *hielo aferrante* y tu familiar aprende *ráfaga de viento*.
+- **Lección del frío del invierno:** Tu patrón te enseñó de primera mano el poder del invierno sometiéndote a la escarcha y la nieve. Aprendes el truco de maleficio *hielo aberrante* y tu familiar aprende *ráfaga de viento*.
 - **Familiar de escarcha congeladora:** Tu familiar es frío al tacto, y su aliento siempre es visible. Cuando Lanzas o Mantienes un maleficio, puedes hacer que se forme hielo en una explosión de 5 pies (1,5 m) centrada en una casilla del espacio de tu familiar. Dichas casillas son terreno difícil hasta el inicio de tu siguiente turno.
 
 ### Tejedor de hebras
@@ -200,11 +200,11 @@ Conociste a tu patrón en un recuerdo de un encuentro todavía por suceder o en 
 - **Lista de conjuros:** ocultista
 - **Habilidad de patrón:** Ocultismo
 - **Lección de las vicisitudes del destino:** La severa lección de tu patrón es que el destino no perdona a nadie, alzándose y cayendo por turno para todos. Obtienes el truco de maleficio *empujar al destino* y tu familiar aprende *golpe seguro*.
-- **Familiar de suerte equilibrada:** Tu familiar tiene una mancha en el cuerpo que parece un amuleto de buena suerte o de mal fario, dependiendo del ángulo. Cuando Lanzas o Mantienes un maleficio, puedes elegir para una criatura a 15 pies (4,5 m) o menos de tu familiar entre un bonificador +1 por estatus a su CA o un penalizador -1 por estatus a su CA hasta el final de tu siguiente turno.
+- **Familiar de suerte equilibrada:** Tu familiar tiene una mancha en el cuerpo que parece un amuleto de buena suerte o de mal faria, dependiendo del ángulo. Cuando Lanzas o Mantienes un maleficio, puedes elegir para una criatura a 15 pies (4,5 m) o menos de tu familiar entre un bonificados +1 por estatus a su CA o un penalizador -1 por estatus a su CA hasta el final de tu siguiente turno.
 
 ### Sombra sin estrellas
 
-Tu patrón se puso en contacto contigo por vez primera a la hora de las brujas, mientras tu cuerpo yacía paralizado por el sueño mientras tu mente tenía aún que huir al mundo de la vigilia. Tu patrón podría ser una criatura del Inframundo o un espíritu del crepúsculo largo tiempo olvidado; todo lo que recuerdas de él son unos ojos acechantes de luz de luna, ofreciéndote poder desde la oscuridad.
+Tu patrón se puso en contacto contigo por vez primera a la hora de las brujas, mientras tu cuerpo yacía paralizado por el sueño mientras tu mente tenía aún que huir al mundo de la vigilia. Tu patrón podría ser una criatura del Informando o un espíritu del crepúsculo largo tiempo olvidado; todo lo que recuerdas de él son unos ojos acertantes de luz de luna, ofreciéndote poder desde la oscuridad.
 
 - **Lista de conjuros:** ocultista
 - **Habilidad de patrón:** Ocultismo

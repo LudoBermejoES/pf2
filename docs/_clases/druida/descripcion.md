@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/druida/descripcion/
+permalink: /clases/druida/descripción/
 title: Druida
 chapter: Clases
 category: clases

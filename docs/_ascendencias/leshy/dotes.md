@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /ascendencias/leshy/dotes/
-title: Dotes de Ascendencia: Leshy
+title: Dotes de Ascendencia: Leahy
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1
-ancestry: Leshy
+ancestry: Leahy
 ---
 
 A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles posteriores (en 5.o, 9.o, 13.o y 17.o nivel). Como leshy, puedes elegir entre las siguientes dotes de ascendencia.
@@ -26,7 +26,7 @@ Puedes extender una marana de enredaderas o de zarcillos para sostener tus brazo
 ### Inofensivamente bello
 **Dote 1** - Leshy
 
-Tu tamano y tu comportamiento facilitan convencer a los demas de que no quieres hacerles dano.
+Tu tamaño y tu comportamiento facilitan convencer a los demas de que no quieres hacerles dano.
 
 **Beneficio:** Obtienes la dote de habilidad Peticion descarada como dote adicional. Ademas, obtienes un bonificador +1 por circunstancia a las pruebas de iniciativa cuando tiras Engano para la iniciativa.
 
@@ -35,7 +35,7 @@ Tu tamano y tu comportamiento facilitan convencer a los demas de que no quieres 
 ### Intrepido
 **Dote 1** - Leshy
 
-Tu espiritu ha soportado muchos desafios a lo largo de tu dilatada existencia.
+Tu espíritu ha soportado muchos desafios a lo largo de tu dilatada existencia.
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia a las salvaciones contra los efectos de emocion. Si obtienes un exito en una tirada de salvacion contra un efecto de emocion, en su lugar obtienes un exito critico.
 
@@ -66,7 +66,7 @@ Es dificil percibir tu paso por las areas salvajes.
 
 **Desencadenante:** Haces una tirada de salvacion contra un conjuro o un efecto magico, pero aun no has tirado los dados.
 
-Percibes los espiritus que habitan en los objetos, averiguando cuales dan buena suerte y cuales traen mal fario. Te enfocas en el poder de un objeto afortunado.
+Percibes los espíritus que habitan en los objetos, averiguando cuales dan buena suerte y cuales traen mal faria. Te enfocas en el poder de un objeto afortunado.
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia a tu tirada de salvacion contra el efecto desencadenante.
 
@@ -86,11 +86,11 @@ Tu cuerpo produce un suministro casi interminable de duros tegumentos.
 ### Hablar con parientes
 **Dote 5** - Leshy
 
-Tienes una conexion con las criaturas que comparten tu fisiologia.
+Tienes una conexión con las criaturas que comparten tu fisiologia.
 
 **Beneficio:** Puedes formularles preguntas, recibir respuestas y utilizar la habilidad Diplomacia con plantas y hongos. Obtienes un bonificador +2 por circunstancia a las pruebas de Diplomacia con las plantas u hongos de tu especie.
 
-> Por lo general, los leshys de los hongos obtienen este bonificador con los champinones y los hongos; los leshys de los frutos con calabazas, melones y plantas frutales similares; los leshys de las hojas con los arboles de hoja caduca; y los leshys de las vides con las enredaderas y plantas trepadoras.
+> Por lo general, los leshys de los hongos obtienen este bonificados con los champiñones y los hongos; los leshys de los frutos con calabazas, melones y plantas frutales similares; los leshys de las hojas con los arboles de hoja caduca; y los leshys de las vides con las enredaderas y plantas trepadoras.
 
 ---
 
@@ -108,7 +108,7 @@ Utilizando tus propias hojas, puedes controlar tu descenso.
 ### Raices anclantes
 **Dote 5** - Leshy
 
-Pequenas raices brotan de tus pies, estabilizandote mientras te mueves.
+Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 
 **Beneficio:** Obtienes la dote de habilidad Equilibrio firme, incluso si no dispones del rango entrenado en Acrobacias, y puedes utilizar la accion Anclar.
 
@@ -155,7 +155,7 @@ Tienes un recuerdo que te otorga suerte.
 
 **Beneficio:** Si descansas al aire libre durante 10 minutos durante el dia, recuperas tantos Puntos de Golpe como tu modificador por Constitucion multiplicado por la mitad de tu nivel. Obtienes este beneficio ademas de cualquier curacion debida a Tratar heridas.
 
-> Los leshys cuya nutricion vegetal no se basa en la fotosintesis requieren un ambiente similarmente adecuado. Por ejemplo, los leshys de los hongos necesitan entornos oscuros y humedos y cierta cantidad de materia vegetal en descomposicion.
+> Los leshys cuya nutrición vegetal no se basa en la fotosintesis requieren un ambiente similarmente adecuado. Por ejemplo, los leshys de los hongos necesitan entornos oscuros y húmedos y cierta cantidad de materia vegetal en descomposición.
 
 ---
 
@@ -186,7 +186,7 @@ Segregas una capa de veneno concentrado que dana a cualquiera que se atreve a at
 ### Llamada del hombre verde
 **Dote 13** - Leshy
 
-Puedes convocar a los espiritus de la Naturaleza cercanos para que potencien tu cuerpo.
+Puedes convocar a los espíritus de la Naturaleza cercanos para que potencien tu cuerpo.
 
 **Beneficio:** Una vez al dia puedes lanzar *forma de planta* como conjuro innato primigenio de 5.o rango. Cuando llegues a 17.o nivel, podras potenciar el conjuro a 6.o rango cuando lo lances.
 
@@ -197,7 +197,7 @@ Puedes convocar a los espiritus de la Naturaleza cercanos para que potencien tu 
 ### Florecimiento y ruina
 **Dote 17** - Leshy
 
-Llamas a la esencia vital de tu espiritu para que restablezca la vida a tus aliados y convocas zarcillos para enmaranar y golpear a tus enemigos.
+Llamas a la esencia vital de tu espíritu para que restablezca la vida a tus aliados y convocas zarcillos para enmarañar y golpear a tus enemigos.
 
 **Beneficio:** Puedes lanzar *campo de vida* y *enredaderas enmaranantes* (uno de cada) como conjuros innatos primigenios de 6.o rango una vez al dia.
 

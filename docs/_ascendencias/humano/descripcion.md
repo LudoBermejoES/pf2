@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/humano/descripcion/
+permalink: /ascendencias/humano/descripción/
 title: Humano
 chapter: Ascendencias
 category: ascendencias
@@ -33,15 +33,15 @@ La ambición, la versatilidad y el potencial excepcional de los humanos les han 
 
 ## Otros probablemente...
 
-- Respetan tu flexibilidad, tu adaptabilidad y (en la mayoria de casos) tu amplitud de miras.
-- Desconfian de tus intenciones, temiendo que solo busques el poder o la riqueza.
+- Respetan tu flexibilidad, tu adaptabilidad y (en la mayoría de casos) tu amplitud de miras.
+- Desconfían de tus intenciones, temiendo que solo busques el poder o la riqueza.
 - No estan seguros de que esperar de ti y dudan de tus intenciones.
 
 ## Descripcion fisica
 
-Las caracteristicas fisicas de los humanos son tan variadas como los climas del mundo. Muestran una amplia variedad de colores de piel y de cabello, de tipos corporales y de rasgos faciales. En terminos generales, su piel tiene un tinte mas oscuro cuanto mas cerca del ecuador esta el lugar en que ellos o sus antepasados han vivido.
+Las características físicas de los humanos son tan variadas como los climas del mundo. Muestran una amplia variedad de colores de piel y de cabello, de tipos corporales y de rasgos faciales. En términos generales, su piel tiene un tinte mas oscuro cuanto mas cerca del ecuador esta el lugar en que ellos o sus antepasados han vivido.
 
-Suelen llegar a la edad adulta alrededor de los quince anos, aunque la madurez mental tiene lugar unos pocos anos mas tarde. Un humano tipico puede vivir hasta los **noventa anos**. A veces disponen de caracteristicas fisicas excepcionalmente mutables comparados con las demas ascendencias, mostrando una variacion mayor en altura, peso y otros parametros fisicos.
+Suelen llegar a la edad adulta alrededor de los quince anos, aunque la madurez mental tiene lugar unos pocos anos mas tarde. Un humano tipico puede vivir hasta los **noventa anos**. A veces disponen de características físicas excepcionalmente mutables comparados con las demas ascendencias, mostrando una variación mayor en altura, peso y otros parametros físicos.
 
 ## Sociedad
 
@@ -65,16 +65,16 @@ A diferencia de muchas culturas ancestrales, que generalmente se cinen a tradici
 
 ## Grupos etnicos
 
-Una gran variedad de grupos etnicos humanos puebla los continentes de la Region del mar Interior de Golarion y de las tierras mas alla de la misma. Los personajes humanos pueden ser de cualquier grupo etnico, sea cual sea su lugar de procedencia. A continuacion se presentan algunos ejemplos de grupos etnicos de Golarion.
+Una gran variedad de grupos etnicos humanos puebla los continentes de la Region del mar Interior de Golarion y de las tierras mas alla de la misma. Los personajes humanos pueden ser de cualquier grupo etnico, sea cual sea su lugar de procedencia. A continuación se presentan algunos ejemplos de grupos etnicos de Golarion.
 
-Los personajes de los grupos etnicos humanos de la Region del mar Interior hablan comun (tambien conocido como taldano), y algunos grupos etnicos conceden acceso a un idioma regional poco comun.
+Los personajes de los grupos etnicos humanos de la Region del mar Interior hablan comun (tambien conocido como taladro), y algunos grupos etnicos conceden acceso a un idioma regional poco comun.
 
 - **Garundi**: Abarcan las naciones a lo largo de las orillas meridionales del mar Interior.
 - **Keleshitas**: Remontan sus origenes al Imperio de Kelesh en los desiertos orientales.
-- **Kelidos**: Viven entre las montanas y las estepas septentrionales de Avistan.
+- **Gélidos**: Viven entre las montanas y las estepas septentrionales de Avistan.
 - **Mwangi**: Se extienden a traves del vasto continente de Garund.
 - **Shoanti**: Tienen su hogar en las duras tierras baldias de la meseta Storval.
-- **Taldanos**: Ocupan gran parte de Avistan gracias a un imperio caido.
-- **Tian**: Proceden originalmente del lejano continente de Tian Xia.
+- **Taladros**: Ocupan gran parte de Avistan gracias a un imperio caico.
+- **Tian**: Proceden originalmente del lejano continente de Tian Kia.
 - **Ulfens**: Residen en poblaciones costeras del oeste de Avistan.
 - **Varisianos**: Siempre les ha gustado una vida nomada de caravanas itinerantes.

@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /clases/clerigo/descripcion/
-title: Clerigo
+permalink: /clases/clérigo/descripción/
+title: Clérigo
 chapter: Clases
 category: clases
 nav_order: 2
 class_name: Clérigo
 ---
 
-Los clerigos son siervos mortales de los dioses, canalizando el poder divino para cumplir la voluntad de sus deidades. Ya sea mediante la curacion de los fieles, la destruccion de los enemigos de la fe o la difusion de la palabra sagrada, el clerigo es el conducto entre lo mortal y lo divino.
+Los clérigos son siervos mortales de los dioses, canalizando el poder divino para cumplir la voluntad de sus deidades. Ya sea mediante la curación de los fieles, la destrucción de los enemigos de la fe o la difusion de la palabra sagrada, el clérigo es el conducto entre lo mortal y lo divino.
 
 ## Estadisticas Clave
 
@@ -17,14 +17,14 @@ Los clerigos son siervos mortales de los dioses, canalizando el poder divino par
 | **Puntos de Golpe** | 8 + modificador por Constitucion por nivel |
 | **Atributo Clave** | Sabiduria |
 
-A 1.er nivel, tu clase te concede una mejora de atributo a Sabiduria.
+A 1.er nivel, tu clase te concede una mejora de atributo a Sabiduría.
 
 ## Competencias Iniciales
 
-A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadisticas. No estas entrenado en cualquier cosa no indicada si no obtienes un rango de competencia mejor de alguna otra forma.
+A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadísticas. No estas entrenado en cualquier cosa no indicada si no obtienes un rango de competencia mejor de alguna otra forma.
 
 ### Percepcion
-- Entrenado en Percepcion
+- Entrenado en Percepción
 
 ### Tiradas de Salvacion
 - Entrenado en Fortaleza
@@ -33,7 +33,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ### Habilidades
 - Entrenado en Religion
-- Entrenado en una habilidad determinada por tu eleccion de dios
+- Entrenado en una habilidad determinada por tu elección de dios
 - Entrenado en tantas habilidades adicionales como 2 mas tu modificador por Inteligencia
 
 ### Ataques
@@ -42,7 +42,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 - Entrenado en ataques sin armas
 
 ### Defensas
-- No entrenado en todas las armaduras, aunque tu doctrina podria alterar esto
+- No entrenado en todas las armaduras, aunque tu doctrina podría alterar esto
 - Entrenado en defensa sin armadura
 
 ### Conjuros
@@ -50,7 +50,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 - Entrenado en la CD de conjuros
 
 ### CD de Clase
-- Entrenado en la CD de la clase clerigo
+- Entrenado en la CD de la clase clérigo
 
 ---
 

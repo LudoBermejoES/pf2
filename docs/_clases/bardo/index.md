@@ -10,7 +10,7 @@ class_name: Bardo
 
 <img src="{{ '/assets/images/clases/bardo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Bardo">
 
-Eres un maestro del arte, un erudito de los secretos ocultos y un persuasor que cautiva. Utilizando poderosas interpretaciones, influencias las mentes y elevas las almas a nuevos niveles de heroismo. Podrias utilizar tus poderes para convertirte en un lider carismatico o quiza en su lugar ser un consejero, un manipulador, un erudito, una sabandija o un virtuoso. Si bien tu versatilidad lleva a algunos a considerarte como un vago cautivador y una persona que hace de todo, es peligroso suponer que no dominas nada.
+Eres un maestro del arte, un erudito de los secretos ocultos y un persuasor que cautiva. Utilizando poderosas interpretaciones, influencias las mentes y elevas las almas a nuevos niveles de heroismo. Podrías utilizar tus poderes para convertirte en un lider carismatico o quizá en su lugar ser un consejero, un manipulador, un erudito, una sabandija o un virtuoso. Si bien tu versatilidad lleva a algunos a considerarte como un vago cautivador y una persona que hace de todo, es peligroso suponer que no dominas nada.
 
 ## Estadisticas de Clase
 
@@ -21,10 +21,10 @@ Eres un maestro del arte, un erudito de los secretos ocultos y un persuasor que 
 
 ## Competencias Iniciales
 
-A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadisticas. No estas entrenado en cualquier cosa no indicada si no obtienes un rango de competencia mejor de alguna otra forma.
+A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadísticas. No estas entrenado en cualquier cosa no indicada si no obtienes un rango de competencia mejor de alguna otra forma.
 
 ### Percepcion
-- Experto en Percepcion
+- Experto en Percepción
 
 ### Tiradas de Salvacion
 - Entrenado en Fortaleza
@@ -33,7 +33,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ### Habilidades
 - Entrenado en Ocultismo
-- Entrenado en Interpretacion
+- Entrenado en Interpretación
 - Entrenado en tantas habilidades adicionales como 4 mas tu modificador por Inteligencia
 
 ### Ataques
@@ -54,7 +54,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ## Podrias...
 
-- Tener una pasion tan fuerte por tu arte que forjaras una conexion espiritual con el.
+- Tener una pasion tan fuerte por tu arte que forjaras una conexión espiritual con el.
 - Pasar a primera linea cuando hacen falta tacto y soluciones no violentas.
 - Seguir a tu musa, ya se trate de una misteriosa criatura feerica, un concepto filosofico, una fuerza mistica o un dios del arte o de la musica, y aprender con su ayuda conocimiento secretos de los que muy pocos disponen.
 
@@ -66,7 +66,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ## Durante los encuentros de combate...
 
-Utilizas interpretaciones magicas para alterar las probabilidades en favor de tus aliados. Alternas de forma confiada entre ataques, curacion y conjuros de ayuda segun resulta necesario.
+Utilizas interpretaciones magicas para alterar las probabilidades en favor de tus aliados. Alternas de forma confiada entre ataques, curación y conjuros de ayuda segun resulta necesario.
 
 ## Durante los encuentros sociales...
 
@@ -74,11 +74,11 @@ Persuades, prevaricas y amenazas con facilidad.
 
 ## Explorando...
 
-Eres una fuente de conocimiento, cuentos populares, leyendas y saber que proporcionan un contexto mas profundo y un reconocimiento provechoso para la aventura del grupo. Tus conjuros y tus interpretaciones inspiran a tus aliados a descubrimientos y exitos mayores.
+Eres una fuente de conocimiento, cuentos populares, leyendas y saber que proporcionan un contexto mas profundo y un reconocimiento provechoso para la aventura del grupo. Tus conjuros y tus interpretaciones inspiran a tus aliados a descubrimientos y éxitos mayores.
 
 ## En tu tiempo libre...
 
-Puedes ganar dinero y prestigio con tus interpretaciones, haciendote un nombre y consiguiendo mecenas. Con el tiempo, los relatos de tu talento y de tus triunfos atraeran a otros bardos a estudiar tu tecnica en un colegio de bardos.
+Puedes ganar dinero y prestigio con tus interpretaciones, haciendote un nombre y consiguiendo mecenas. Con el tiempo, los relatos de tu talento y de tus triunfos atraerán a otros bardos a estudiar tu tecnica en un colegio de bardos.
 
 ## Selecciones relacionadas
 

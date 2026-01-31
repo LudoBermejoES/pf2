@@ -346,7 +346,7 @@ Tu patrón te revela secretos aún mayores. Elige una lección superior, mayor o
 
 Rimas con los encantamientos de tu aliado o te haces eco de sus movimientos, vinculando tu magia para potenciar su conjuro de una de dos formas:
 
-- Si su conjuro inflige daño y no tiene duración, le concede un bonificador por estatus al daño igual a su nivel.
+- Si su conjuro inflige daño y no tiene duración, le concede un bonificados por estatus al daño igual a su nivel.
 - Si su conjuro no tiene un efecto de moldeo de conjuros aplicado, aplica sobre el mismo los efectos de cualquier dote de moldeo de conjuros que conoces. La dote de moldeo de conjuros tiene que poderse aplicar al conjuro desencadenante y tienes que ser capaz de utilizarla (por ejemplo, si la dote en cuestión es utilizable tan sólo un número limitado de veces al día).
 
 ---
@@ -357,7 +357,7 @@ Rimas con los encantamientos de tu aliado o te haces eco de sus movimientos, vin
 
 Una escoba es la única montura que necesitas para volar por el cielo nocturno. Durante tus preparativos diarios, puedes embadurnar una sola escoba, bastón, arma de asta u objeto de forma similar con un ungüento volador hecho de hierbas y aceites especiales. Hasta tus siguientes preparativos diarios, obtiene el rasgo mágico y puedes montar en ella sosteniéndola con por lo menos 1 mano. Tiene una Velocidad de vuelo de 20 pies (6 m). La escoba sufre un penalizador -10 pies (3 m) a su Velocidad si va cargada con más de Impedimenta 20 y se estrella contra el suelo si lleva más de Impedimenta 30. El único que puede controlarla eres tú. Si embadurnas un arma u otro objeto sostenido, no puedes montar en la escoba y empuñarlo al mismo tiempo.
 
-Puedes utilizar Artesanía para convertir tu escoba en una escoba voladora como si dispusieras de la fórmula de dicho objeto. Si embadurnas un objeto que ya es una escoba voladora, obtiene un bonificador +10 pies (3 m) por estatus a su Velocidad y puedes elegir si quieres que funcione para cualquiera o sólo para ti.
+Puedes utilizar Artesanía para convertir tu escoba en una escoba voladora como si dispusieras de la fórmula de dicho objeto. Si embadurnas un objeto que ya es una escoba voladora, obtiene un bonificados +10 pies (3 m) por estatus a su Velocidad y puedes elegir si quieres que funcione para cualquiera o sólo para ti.
 
 ---
 

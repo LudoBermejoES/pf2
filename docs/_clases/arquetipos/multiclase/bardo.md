@@ -12,7 +12,7 @@ Una musa te ha llamado a hacer incursiones en el saber ocultista, lo que te perm
 
 ### Personajes multiclase bardo
 
-El arquetipo bardo te concede saber y poderosas composiciones que apoyan a tus aliados, ya sea desde primera linea o a una distancia segura. Dichas composiciones utilizan acciones, lo que las convierte en una gran eleccion si tienes acciones de sobra.
+El arquetipo bardo te concede saber y poderosas composiciones que apoyan a tus aliados, ya sea desde primera linea o a una distancia segura. Dichas composiciones utilizan acciones, lo que las convierte en una gran elección si tienes acciones de sobra.
 
 ---
 
@@ -22,9 +22,9 @@ El arquetipo bardo te concede saber y poderosas composiciones que apoyan a tus a
 
 **Prerrequisitos:** Carisma +2
 
-Lanzas conjuros como un bardo y obtienes la actividad Lanzar un conjuro. Obtienes un repertorio de conjuros con dos trucos comunes de la lista de conjuros ocultistas o cualquier otro truco ocultista que has aprendido o descubierto. Estas entrenado en las estadisticas modificador al ataque de conjuros y CD de conjuros. Tu atributo clave de lanzamiento de conjuros para los conjuros de arquetipo de bardo es el Carisma, y son conjuros de bardo ocultistas. Adquieres el rango entrenado en Ocultismo e Interpretacion; por cada una de estas habilidades en las que ya estuvieras entrenado, en su lugar podras adquirir el rango entrenado en una habilidad a tu eleccion.
+Lanzas conjuros como un bardo y obtienes la actividad Lanzar un conjuro. Obtienes un repertorio de conjuros con dos trucos comunes de la lista de conjuros ocultistas o cualquier otro truco ocultista que has aprendido o descubierto. Estas entrenado en las estadísticas modificador al ataque de conjuros y CD de conjuros. Tu atributo clave de lanzamiento de conjuros para los conjuros de arquetipo de bardo es el Carisma, y son conjuros de bardo ocultistas. Adquieres el rango entrenado en Ocultismo e Interpretación; por cada una de estas habilidades en las que ya estuvieras entrenado, en su lugar podras adquirir el rango entrenado en una habilidad a tu elección.
 
-Elige una musa como lo harias si fueras un bardo. Puedes adquirir las dotes de dicha musa, pero no obtienes la dote inicial, el conjuro inicial o cualquier otra aptitud que concede la eleccion de musa.
+Elige una musa como lo varias si fueras un bardo. Puedes adquirir las dotes de dicha musa, pero no obtienes la dote inicial, el conjuro inicial o cualquier otra aptitud que concede la elección de musa.
 
 ---
 
@@ -66,7 +66,7 @@ Obtienes una dote de bardo. A efectos de cumplir con sus prerrequisitos, tu nive
 
 **Prerrequisitos:** Dedicacion de bardo
 
-Obtienes el conjuro de composicion contrarrestar interpretacion. Este es un conjuro de foco, que te concede una reserva de foco o aumenta dicha reserva si ya la tienes. Puedes Reenfocar interaccionando con tu musa.
+Obtienes el conjuro de composición contrarrestar interpretación. Este es un conjuro de foco, que te concede una reserva de foco o aumenta dicha reserva si ya la tienes. Puedes Reenfocar interaccionando con tu musa.
 
 ---
 
@@ -76,7 +76,7 @@ Obtienes el conjuro de composicion contrarrestar interpretacion. Este es un conj
 
 **Prerrequisitos:** Dedicacion de bardo
 
-Tu musica, tu habla u otra interpretacion inspira a tus aliados a la batalla. Obtienes el conjuro de composicion himno valeroso.
+Tu musica, tu habla u otra interpretación inspira a tus aliados a la batalla. Obtienes el conjuro de composición himno valeroso.
 
 ---
 

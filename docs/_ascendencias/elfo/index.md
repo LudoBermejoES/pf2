@@ -59,7 +59,7 @@ Los nombres de los elfos consisten en múltiples sílabas y están pensados para
 
 ### Ejemplos de nombres
 
-Aerel, Amrunelara, Caladrel, Dardlara, Faunra, Heldalel, Jathal, Lanliss, Oparal, Seldlon, Soumral, Talathel, Tessara, Variel, Yalandlara, Zordlon
+Aérea, Amurallara, Caladero, Dardlara, Faunra, Heldalel, Jathal, Lanliss, Oparal, Seldlon, Soumral, Talathel, Tensara, Mariel, Yalandlara, Zordlon
 
 ## Creencias
 

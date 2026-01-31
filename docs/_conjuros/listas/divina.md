@@ -119,7 +119,7 @@ PC = poco común.
 - **[Convocar celestial](/conjuros/convocar-celestial/) P** Conjuras a un celestial para que luche por ti.
 - **[Convocar dragón](/conjuros/convocar-dragon/) P** Conjuras a un dragón para que luche por ti.
 - **[Convocar infernal](/conjuros/convocar-infernal/) P** Conjuras a un infernal para que luche por ti.
-- **[Convocar monitor](/conjuros/convocar-monitor/) P** Conjuras a un monitor planario para que luche por ti.
+- **[Convocar monitor](/conjuros/convocar-monitor/) P** Conjuras a un monitor plenario para que luche por ti.
 - **[Destierro](/conjuros/destierro/) P** Envías a una criatura de vuelta a su Plano natal.
 - **[Explosión de sombra](/conjuros/explosion-de-sombra/) P** Das forma a un cono dañino de sustancia sombría, que inflige daño de un tipo a elegir por ti.
 - **[Guardián espiritual](/conjuros/guardian-espiritual/) P** Creas un guardián mágico para que ataque a tu orden y sufra daño en lugar de tus aliados.

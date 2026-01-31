@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /clases/clerigo/caracteristicas/
-title: Caracteristicas del Clerigo
+permalink: /clases/clérigo/características/
+title: Características del Clérigo
 chapter: Clases
 category: clases
 nav_order: 2
@@ -37,7 +37,7 @@ class_name: Clérigo
 
 ## Rasgos de Clase
 
-Obtienes estas aptitudes como clerigo. Las aptitudes obtenidas a niveles superiores indican el nivel requerido junto a su nombre.
+Obtienes estas aptitudes como clérigo. Las aptitudes obtenidas a niveles superiores indican el nivel requerido junto a su nombre.
 
 ### Ascendencia y Bagaje
 
@@ -45,7 +45,7 @@ Ademas de los que obtienes de tu clase a 1.er nivel, obtienes los beneficios der
 
 ### Mejoras de Atributo
 
-Ademas de la mejora a la Sabiduria que obtienes de tu clase a 1.er nivel, obtienes 4 mejoras de atributo gratuitas a modificadores por atributo diferentes.
+Ademas de la mejora a la Sabiduría que obtienes de tu clase a 1.er nivel, obtienes 4 mejoras de atributo gratuitas a modificadores por atributo diferentes.
 
 A 5.º nivel y cada 5 niveles posteriores, tu personaje obtiene 4 mejoras gratuitas a modificadores por atributo diferentes. Si un modificador por atributo es ya +4 o mayor, se requieren 2 mejoras para incrementarlo; obtienes una mejora parcial y debes mejorar de nuevo dicho atributo en un nivel posterior para incrementarlo en 1.
 
@@ -57,15 +57,15 @@ En el 1.er nivel obtienes cierta cantidad de competencias que representan tu ent
 
 ## Dios
 
-Como clerigo, eres un servidor mortal de un dios al que adoras por encima de todos los demas. Tu dios te concede el rango de competencia entrenado en una habilidad y con su arma predilecta. Aunque el arma predilecta de tu dios sea poco comun, obtendras acceso a dicha arma.
+Como clérigo, eres un servidor mortal de un dios al que adoras por encima de todos los demas. Tu dios te concede el rango de competencia entrenado en una habilidad y con su arma predilecta. Aunque el arma predilecta de tu dios sea poco comun, obtendrás acceso a dicha arma.
 
-Tu dios tambien añade conjuros a tu lista. Podras prepararlos igual que cualquier conjuro de la lista de conjuros divinos una vez puedas preparar conjuros de dicho rango como clerigo. Algunos de estos conjuros no figuran normalmente en la lista divina, pero siguen siendo conjuros divinos si los preparas de esta forma.
+Tu dios tambien añade conjuros a tu lista. Podras prepararlos igual que cualquier conjuro de la lista de conjuros divinos una vez puedas preparar conjuros de dicho rango como clérigo. Algunos de estos conjuros no figuran normalmente en la lista divina, pero siguen siendo conjuros divinos si los preparas de esta forma.
 
 ### Santificacion
 
-Dependiendo de tu dios, su santificacion te puede hacer sagrado o sacrilego. Eso te concede el rasgo sagrado o sacrilego, que te coloca en uno de los bandos de una lucha sobre las almas de los Planos y que puede verse referenciada en otras aptitudes.
+Dependiendo de tu dios, su santificación te puede hacer sagrado o sacrilego. Eso te concede el rasgo sagrado o sacrilego, que te coloca en uno de los bandos de una lucha sobre las almas de los Planos y que puede verse referenciada en otras aptitudes.
 
-- Si "puedes ser" sagrado o sacrilego segun tu dios, tu eres quien hace la eleccion.
+- Si "puedes ser" sagrado o sacrilego segun tu dios, tu eres quien hace la elección.
 - Si "tienes que ser" sagrado o sacrilego, obtienes el rasgo de forma automatica.
 - Si de alguna forma obtienes el rasgo opuesto, pierdes el anterior hasta completar un ritual de expiar.
 
@@ -73,23 +73,23 @@ Dependiendo de tu dios, su santificacion te puede hacer sagrado o sacrilego. Eso
 
 Los actos fundamentalmente opuestos a los ideales de tu dios se consideran anatemas para tu fe. Aprender o lanzar conjuros, cometer actos y usar objetos que son anatema para tu dios hacen que caigas en desgracia ante el mismo.
 
-- Lanzar conjuros con el rasgo sacrilego es casi siempre anatema para los dioses que no permiten la santificacion sacrilega.
-- Lanzar conjuros sagrados es anatema para los que no permiten la santificacion sagrada.
-- Lanzar conjuros que son anatema para los principios u objetivos de tu fe podria interferir con la conexion con tu dios.
+- Lanzar conjuros con el rasgo sacrilego es casi siempre anatema para los dioses que no permiten la santificación sacrilega.
+- Lanzar conjuros sagrados es anatema para los que no permiten la santificación sagrada.
+- Lanzar conjuros que son anatema para los principios u objetivos de tu fe podría interferir con la conexión con tu dios.
 
-Si llevas a cabo suficientes actos que son anatema para tu dios, pierdes las aptitudes magicas que derivan de tu conexion con el mismo. Estas aptitudes solo se pueden recuperar si te arrepientes llevando a cabo un ritual de expiar.
+Si llevas a cabo suficientes actos que son anatema para tu dios, pierdes las aptitudes magicas que derivan de tu conexión con el mismo. Estas aptitudes solo se pueden recuperar si te arrepientes llevando a cabo un ritual de expiar.
 
 ---
 
 ## Lanzamiento de Conjuros de Clerigo
 
-Tu dios te concede el poder de lanzar conjuros divinos. Eres un lanzador de conjuros, y puedes lanzar conjuros de la tradicion divina utilizando la actividad Lanzar un conjuro. Como clerigo, tus canticos suelen invocar a tu dios y a sus sirvientes mas poderosos por su nombre o por su titulo, mientras que tus gestos son seguidos por simbolos sagrados u otras representaciones de tu dios.
+Tu dios te concede el poder de lanzar conjuros divinos. Eres un lanzador de conjuros, y puedes lanzar conjuros de la tradición divina utilizando la actividad Lanzar un conjuro. Como clérigo, tus cánticos suelen invocar a tu dios y a sus sirvientes mas poderosos por su nombre o por su titulo, mientras que tus gestos son seguidos por símbolos sagrados u otras representaciones de tu dios.
 
 A 1.er nivel, cada mañana puedes preparar 2 conjuros de 1.er rango y 5 trucos de entre los conjuros comunes de la lista de conjuros divinos o de otros conjuros divinos a los que obtienes acceso y aprendes via Aprender un conjuro. Los conjuros preparados permanecen disponibles hasta que los lanzas o hasta que preparas conjuros de nuevo. El numero de conjuros que puedes preparar cada dia se denomina tus espacios de conjuro.
 
-Conforme subes de nivel como clerigo, el numero de conjuros que puedes preparar cada dia aumenta, asi como el rango superior de conjuro que puedes lanzar.
+Conforme subes de nivel como clérigo, el numero de conjuros que puedes preparar cada dia aumenta, asi como el rango superior de conjuro que puedes lanzar.
 
-Algunos de tus conjuros requieren que hagas un ataque de conjuro para ver lo efectivos que son o que tus enemigos tiren contra tu CD de conjuros (tipicamente haciendo una tirada de salvacion). Como quiera que tu atributo clave es la Sabiduria, tu modificador al ataque de conjuros y tu CD de conjuros utilizan tu modificador por Sabiduria.
+Algunos de tus conjuros requieren que hagas un ataque de conjuro para ver lo efectivos que son o que tus enemigos tiren contra tu CD de conjuros (tipicamente haciendo una tirada de salvación). Como quiera que tu atributo clave es la Sabiduría, tu modificador al ataque de conjuros y tu CD de conjuros utilizan tu modificador por Sabiduría.
 
 ### Potenciacion de Conjuros
 
@@ -97,7 +97,7 @@ Cuando obtienes espacios de conjuro de 2.º rango y superior, puedes rellenarlos
 
 ### Trucos
 
-Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de conjuro que no utiliza espacios de conjuro. Puedes lanzar un truco a voluntad, todas las veces que quieras al dia. Un truco se potencia automaticamente a la mitad de tu nivel redondeado hacia arriba, lo que suele ser igual al maximo rango de espacios de conjuro de clerigo de que dispones.
+Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de conjuro que no utiliza espacios de conjuro. Puedes lanzar un truco a voluntad, todas las veces que quieras al dia. Un truco se potencia automaticamente a la mitad de tu nivel redondeado hacia arriba, lo que suele ser igual al maximo rango de espacios de conjuro de clérigo de que dispones.
 
 ---
 
@@ -134,18 +134,18 @@ Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de con
 
 ## Fuente Divina
 
-Mediante la bendicion de tu dios, obtienes conjuros adicionales que canalizan, o bien la fuerza vital llamada vitalidad, o bien su contraria, el vacio. Cuando preparas tus conjuros cada dia, puedes preparar conjuros adicionales de curar o de dañar, dependiendo de tu dios. Una vez eliges, no puedes cambiar lo elegido salvo intervencion divina.
+Mediante la bendición de tu dios, obtienes conjuros adicionales que canalizan, o bien la fuerza vital llamada vitalidad, o bien su contraria, el dacio. Cuando preparas tus conjuros cada dia, puedes preparar conjuros adicionales de curar o de dañar, dependiendo de tu dios. Una vez eliges, no puedes cambiar lo elegido salvo intervención divina.
 
 ### Fuente Curativa
 
-Obtienes 4 espacios de conjuro adicionales cada dia a tu rango mayor de espacios de conjuro de clerigo. En dichos espacios tan solo puedes preparar conjuros de curar.
+Obtienes 4 espacios de conjuro adicionales cada dia a tu rango mayor de espacios de conjuro de clérigo. En dichos espacios tan solo puedes preparar conjuros de curar.
 
 - A 5.º nivel, el numero de espacios adicionales se incrementa a 5.
 - A 15.º nivel, el numero total de espacios adicionales se incrementa a 6.
 
 ### Fuente Dañina
 
-Obtienes 4 espacios de conjuro adicionales cada dia a tu rango mayor de espacios de conjuro de clerigo. En dichos espacios tan solo puedes preparar conjuros de dañar.
+Obtienes 4 espacios de conjuro adicionales cada dia a tu rango mayor de espacios de conjuro de clérigo. En dichos espacios tan solo puedes preparar conjuros de dañar.
 
 - A 5.º nivel, el numero de espacios adicionales se incrementa a 5.
 - A 15.º nivel, el numero total de espacios adicionales se incrementa a 6.
@@ -154,11 +154,11 @@ Obtienes 4 espacios de conjuro adicionales cada dia a tu rango mayor de espacios
 
 ## Doctrina
 
-Incluso entre seguidores del mismo dios, las aproximaciones varian. A 1.er nivel seleccionas clerigo de clausura o sacerdote de guerra y obtienes los beneficios de su primera doctrina. A 3.er nivel y cada 4 niveles posteriores, obtienes otro beneficio de tu doctrina.
+Incluso entre seguidores del mismo dios, las aproximaciones varian. A 1.er nivel seleccionas clérigo de clausura o sacerdote de guerra y obtienes los beneficios de su primera doctrina. A 3.er nivel y cada 4 niveles posteriores, obtienes otro beneficio de tu doctrina.
 
 ### Clerigo de Clausura
 
-Eres un clerigo con sotana, que se centra en la magia divina y en la conexion con los dominios de tu dios.
+Eres un clérigo con sotana, que se centra en la magia divina y en la conexión con los dominios de tu dios.
 
 | Nivel | Doctrina |
 |-------|----------|
@@ -171,7 +171,7 @@ Eres un clerigo con sotana, que se centra en la magia divina y en la conexion co
 
 ### Sacerdote de Guerra
 
-Te has entrenado en las doctrinas mas militantes de tu Iglesia, centrandote tanto en los conjuros como en la batalla.
+Te has entrenado en las doctrinas mas militantes de tu Iglesia, centrándose tanto en los conjuros como en la batalla.
 
 | Nivel | Doctrina |
 |-------|----------|
@@ -188,7 +188,7 @@ Te has entrenado en las doctrinas mas militantes de tu Iglesia, centrandote tant
 
 ### Dotes de Clerigo (2.º)
 
-A 2.º nivel y cada 2 niveles posteriores, obtienes una dote de clase de clerigo.
+A 2.º nivel y cada 2 niveles posteriores, obtienes una dote de clase de clérigo.
 
 ### Dotes de Habilidad (2.º)
 
@@ -210,11 +210,11 @@ Ademas de la dote de ascendencia con la que empezaste, obtienes una nueva dote d
 
 ### Experiencia en Percepcion (5.º)
 
-Permaneces alerta ante las amenazas que te rodean. Tu rango de competencia en Percepcion se incrementa a experto.
+Permaneces alerta ante las amenazas que te rodean. Tu rango de competencia en Percepción se incrementa a experto.
 
 ### Fe Resoluta (9.º)
 
-Tus creencias te proporcionan un baluarte contra los pensamientos insidiosos. Tu rango de competencia para las salvaciones de Voluntad se incrementa a maestro. Cuando consigues un exito en una salvacion de Voluntad, en su lugar consigues un exito critico.
+Tus creencias te proporcionan un baluarte contra los pensamientos insidiosos. Tu rango de competencia para las salvaciones de Voluntad se incrementa a maestro. Cuando consigues un éxito en una salvación de Voluntad, en su lugar consigues un éxito critico.
 
 ### Experiencia en Reflejos (11.º)
 
@@ -230,7 +230,7 @@ Has aprendido a infligir heridas mayores con tus armas. Infliges 2 daño adicion
 
 ### Conjuro Milagroso (19.º)
 
-Has sido exaltado por tu dios y obtienes conjuros autenicamente sensacionales. Obtienes un solo espacio de conjuro de 10.º rango y puedes preparar en el un conjuro utilizando lanzamiento de conjuros de clerigo. A diferencia de otros espacios de conjuro, no puedes utilizar espacios de 10.º rango con aptitudes que te conceden mas espacios de conjuro o que te permiten lanzar conjuros sin gastar espacios de conjuro. No obtienes mas conjuros de 10.º rango conforme subes de nivel, pero puedes adquirir la dote Obrador de milagros para conseguir un segundo espacio de conjuro.
+Has sido exaltado por tu dios y obtienes conjuros autenicamente sensacionales. Obtienes un solo espacio de conjuro de 10.º rango y puedes preparar en el un conjuro utilizando lanzamiento de conjuros de clérigo. A diferencia de otros espacios de conjuro, no puedes utilizar espacios de 10.º rango con aptitudes que te conceden mas espacios de conjuro o que te permiten lanzar conjuros sin gastar espacios de conjuro. No obtienes mas conjuros de 10.º rango conforme subes de nivel, pero puedes adquirir la dote Obrador de milagros para conseguir un segundo espacio de conjuro.
 
 ---
 
@@ -238,11 +238,11 @@ Has sido exaltado por tu dios y obtienes conjuros autenicamente sensacionales. O
 
 ### Moldeo de Conjuros
 
-Estas acciones afinan tus conjuros. Tienes que utilizar una accion de moldeo de conjuros directamente antes de Lanzar el conjuro que pretendes alterar. Si utilizas cualquier accion (incluyendo acciones gratuitas y reacciones) distinta a Lanzar un conjuro directamente despues, desperdicias los beneficios de la accion de moldeo de conjuro. Los efectos añadidos por una accion de modelo de conjuros forman parte del efecto del conjuro, no de la accion de moldeo.
+Estas acciones afinan tus conjuros. Tienes que utilizar una acción de moldeo de conjuros directamente antes de Lanzar el conjuro que pretendes alterar. Si utilizas cualquier acción (incluyendo acciones gratuitas y reacciones) distinta a Lanzar un conjuro directamente después, desperdicias los beneficios de la acción de moldeo de conjuro. Los efectos añadidos por una acción de modelo de conjuros forman parte del efecto del conjuro, no de la acción de moldeo.
 
 ### Sagrado y Sacrilego
 
-Dichos rasgos marcan algo, como tu personaje o un conjuro, como perteneciente a uno de los bandos de la batalla entre los celestiales y los infernales. Por lo general, los infernales y los muertos vivientes son susceptibles a las aptitudes sagradas y los celestiales a las sacrilegias.
+Dichos rasgos marcan algo, como tu personaje o un conjuro, como perteneciente a uno de los bandos de la batalla entre los celestiales y los infernales. Por lo general, los infernales y los muertos vivientes son susceptibles a las aptitudes sagradas y los celestiales a las sacrilegios.
 
 ### Santificado
 

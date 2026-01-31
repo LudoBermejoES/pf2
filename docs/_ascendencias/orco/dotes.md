@@ -37,11 +37,11 @@ Tienes unos colmillos particularmente largos e irregulares, perfectos para arran
 ### Familiaridad con las armas de los orcos
 **Dote 1** - Orco
 
-En combate, prefieres las armas brutales que eran tradicion para tus antepasados orcos.
+En combate, prefieres las armas brutales que eran tradición para tus antepasados orcos.
 
 **Beneficio:** Obtienes acceso a todas las armas poco comunes con el rasgo orco. Tienes familiaridad con las armas que tienen el rasgo orco, ademas del alfanje y de la gran hacha; a efectos de competencia, de ellas tratas cualesquiera armas marciales como armas sencillas y cualesquiera armas avanzadas como armas marciales.
 
-A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obtienes su efecto de especializacion critica.
+A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obtienes su efecto de especialización critica.
 
 ---
 
@@ -72,14 +72,14 @@ Luces cicatrices o tatuajes realzados por la marca de coraje de tu clan.
 | Cadaver profanado | Religion | Divina |
 | Mano vacia | Intimidacion | Ocultista |
 
-> El Sol ardiente podria ser una antorcha, el sol, un volcan u otro simbolo flamigero, mientras que la Mano vacia podria ser un puno o una zarpa.
+> El Sol ardiente podría ser una antorcha, el sol, un volcan u otro simbolo flamígero, mientras que la Mano dacia podría ser un puno o una zarpa.
 
 ---
 
 ### Punos de hierro
 **Dote 1** - Orco
 
-Tus punos se han forjado en la batalla y tu piel naturalmente dura y tus densos huesos se han endurecido aun mas debido al conflicto.
+Tus punes se han forjado en la batalla y tu piel naturalmente dura y tus densos huesos se han endurecido aun mas debido al conflicto.
 
 **Beneficio:** Tus ataques sin armas con el puno ya no tienen el rasgo no letal y obtienen el rasgo de arma empujar.
 
@@ -88,7 +88,7 @@ Tus punos se han forjado en la batalla y tu piel naturalmente dura y tus densos 
 ### Saber de los orcos
 **Dote 1** - Orco
 
-Los ancianos del clan te ensenaron la historia de tu pueblo, te contaron las grandes hazanas atleticas y compartieron contigo las dificultades que soportaron tus antepasados para que pudieras transmitir esta sabiduria a las generaciones futuras.
+Los ancianos del clan te enseñaron la historia de tu pueblo, te contaron las grandes hazañas atléticas y compartieron contigo las dificultades que soportaron tus antepasados para que pudieras transmitir esta sabiduría a las generaciones futuras.
 
 **Beneficio:** Obtienes el rango entrenado en Atletismo y Supervivencia. Si estas automaticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu eleccion.
 
@@ -101,7 +101,7 @@ Obtienes tambien la dote general Saber adicional para Saber (orcos).
 
 **Desencadenante:** Haces una tirada de salvacion contra un conjuro o un efecto magico, pero aun no has tirado los dados.
 
-Te defiendes contra la magia basandote en tecnicas derivadas de las supersticiones culturales de los orcos.
+Te defiendes contra la magia balándote en técnicas derivadas de las supersticiones culturales de los orcos.
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia a tu tirada de salvacion contra el conjuro o efecto magico desencadenante.
 
@@ -165,7 +165,7 @@ Te resistes a las garras de la muerte con un vigor sobrenatural, desafiando a la
 
 **Prerrequisitos:** Supersticion de orco
 
-Te infundes de supersticion y practicas antiguos ejercicios mentales de los orcos para desprenderte de los efectos de la magia.
+Te infundes de superstición y practicas antiguos ejercicios mentales de los orcos para desprenderte de los efectos de la magia.
 
 **Beneficio:** Obtienes en todo momento un bonificador +1 por circunstancia a las tiradas de salvacion contra los conjuros y los efectos magicos.
 
@@ -178,7 +178,7 @@ Te infundes de supersticion y practicas antiguos ejercicios mentales de los orco
 
 **Prerrequisitos:** Companero animal, Mascota o Animal vinculado; Ferocidad de orco
 
-Desde los tiempos antiguos, los domadores de bestias orcos mas poderosos sacaban el verdadero espiritu de lucha de sus bestias companeras, alimentando a las criaturas con una mezcla que incorporaba la propia sangre del orco.
+Desde los tiempos antiguos, los domadores de bestias orcos mas poderosos sacaban el verdadero espíritu de lucha de sus bestias compañeros, alimentando a las criaturas con una mezcla que incorporaba la propia sangre del orco.
 
 **Beneficio:** Todos los companeros animales, mascotas, familiares y animales vinculados de que dispones obtienen la dote Ferocidad de orco y obtienen una reaccion por asalto que pueden utilizar tan solo para Ferocidad de orco. Si tienes la dote de ascendencia Ferocidad inmortal, todos los companeros animales, mascotas, familiares y animales vinculados de que dispones obtienen tambien los beneficios de dicha dote utilizando la reaccion Ferocidad de orco.
 

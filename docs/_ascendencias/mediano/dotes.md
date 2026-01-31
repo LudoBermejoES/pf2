@@ -41,7 +41,7 @@ Creciste montando los peludos ponis y los perros de monta de tu clan.
 
 **Beneficio:** Obtienes el rango entrenado en Naturaleza. Si estás automáticamente entrenado en Naturaleza (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu elección.
 
-Obtienes también un bonificador +1 por circunstancia a Comandar un animal si el objetivo es una montura tradicional de los medianos como un poni o un perro de monta.
+Obtienes también un bonificados +1 por circunstancia a Comandar un animal si el objetivo es una montura tradicional de los medianos como un poni o un perro de monta.
 
 ---
 
@@ -61,7 +61,7 @@ Prestas mucha atención a la gente que te rodea, lo que te permite notar más f�
 
 **Beneficio:** Obtienes un bonificador +2 por circunstancia a las pruebas de Percepción al utilizar la acción básica Averiguar intenciones para detectar personajes encantados o poseídos. Si no estás utilizando activamente Averiguar intenciones sobre un personaje encantado o poseído, el DJ hace una tirada secreta, sin tu bonificador habitual por circunstancia, para que puedas darte cuenta potencialmente del encantamiento o posesión.
 
-Además de utilizarla para las pruebas de habilidad, puedes utilizar la acción básica Prestar ayuda para conceder un bonificador a la tirada de salvación de otra criatura u otra prueba para superar el encantamiento o la posesión. Como es habitual en Prestar ayuda, tienes que preparar una acción en tu turno para animar a la criatura a luchar contra el efecto.
+Además de utilizarla para las pruebas de habilidad, puedes utilizar la acción básica Prestar ayuda para conceder un bonificados a la tirada de salvación de otra criatura u otra prueba para superar el encantamiento o la posesión. Como es habitual en Prestar ayuda, tienes que preparar una acción en tu turno para animar a la criatura a luchar contra el efecto.
 
 ---
 

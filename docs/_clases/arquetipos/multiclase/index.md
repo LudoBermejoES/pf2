@@ -7,16 +7,16 @@ category: clases
 nav_order: 2
 ---
 
-Los arquetipos multiclase te permiten diversificar tu entrenamiento en las especialidades de otra clase. No puedes seleccionar una dote de dedicacion de arquetipo multiclase si eres miembro de dicha clase.
+Los arquetipos multiclase te permiten diversificar tu entrenamiento en las especialidades de otra clase. No puedes seleccionar una dote de dedicación de arquetipo multiclase si eres miembro de dicha clase.
 
 ---
 
 ## Arquetipos Disponibles
 
-- [Bardo](/clases/arquetipos/multiclase/bardo/) - Conjuros de composicion, apoyo a aliados
+- [Bardo](/clases/arquetipos/multiclase/bardo/) - Conjuros de composición, apoyo a aliados
 - [Brujo](/clases/arquetipos/multiclase/brujo/) - Familiar, conjuros preparados versatiles
 - [Clérigo](/clases/arquetipos/multiclase/clerigo/) - Conjuros divinos, dominios
-- [Druida](/clases/arquetipos/multiclase/druida/) - Ordenes druidicas, conjuros de naturaleza
+- [Druida](/clases/arquetipos/multiclase/druida/) - Ordenes druídicas, conjuros de naturaleza
 - [Explorador](/clases/arquetipos/multiclase/explorador/) - Supervivencia, combate a distancia
 - [Guerrero](/clases/arquetipos/multiclase/guerrero/) - Armas marciales, combate
 - [Mago](/clases/arquetipos/multiclase/mago/) - Libro de conjuros, escuelas arcanas

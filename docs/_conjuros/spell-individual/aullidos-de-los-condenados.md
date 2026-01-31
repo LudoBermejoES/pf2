@@ -20,7 +20,7 @@ spell_level: 9
 
 ---
 
-Aullas el lamento de las almas condenadas. Cada enemigo vivo en el area sufre 8d10 daño por vacio dependiendo de su salvacion de Fortaleza.
+Bullas el lamento de las almas condenadas. Cada enemigo vivo en el area sufre 8d10 daño por dacio dependiendo de su salvación de Fortaleza.
 
 **Exito critico** La criatura no resulta afectada.
 

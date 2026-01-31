@@ -19,6 +19,6 @@ spell_level: 1
 
 ---
 
-Llenas de dudas la mente de tus enemigos. Los enemigos en el area han de tener exito en una salvacion de Voluntad o sufrir un penalizador -1 por estatus a las tiradas de ataque mientras estan en la misma.
+Llenas de dudas la mente de tus enemigos. Los enemigos en el area han de tener éxito en una salvación de Voluntad o sufrir un penalizador -1 por estatus a las tiradas de ataque mientras estan en la misma.
 
-Una vez por asalto en turnos subsiguientes, puedes Mantener el conjuro para incrementar en 10 pies (3 m) el radio de la emanacion y obligar a los enemigos en el area que aun no habian sido afectados a llevar a cabo una nueva tirada de salvacion. Azote puede contrarrestar a bendecir.
+Una vez por asalto en turnos subsiguientes, puedes Mantener el conjuro para incrementar en 10 pies (3 m) el radio de la emanación y obligar a los enemigos en el area que aun no habían sido afectados a llevar a cabo una nueva tirada de salvación. Azote puede contrarrestar a bendecir.

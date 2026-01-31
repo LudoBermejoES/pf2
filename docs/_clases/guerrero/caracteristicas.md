@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/guerrero/caracteristicas/
+permalink: /clases/guerrero/características/
 title: Características del Guerrero
 chapter: Clases
 category: clases
@@ -122,7 +122,7 @@ Elige un grupo de armas. Tu rango de competencia se incrementa a maestro con las
 
 ## Topógrafo del Campo de Batalla (7.º)
 
-Ya se trate de evaluar un ejército enemigo o simplemente de montar guardia, sobresales en observar a tus enemigos. Tu rango de competencia para Percepción se incrementa a maestro. Además, obtienes un bonificador +2 por circunstancia a las pruebas de Percepción para la iniciativa, haciendo que seas más rápido en reaccionar durante el combate.
+Ya se trate de evaluar un ejército enemigo o simplemente de montar guardia, sobresales en observar a tus enemigos. Tu rango de competencia para Percepción se incrementa a maestro. Además, obtienes un bonificados +2 por circunstancia a las pruebas de Percepción para la iniciativa, haciendo que seas más rápido en reaccionar durante el combate.
 
 ---
 

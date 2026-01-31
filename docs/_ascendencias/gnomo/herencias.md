@@ -18,7 +18,7 @@ El color de tu piel y el de tu pelo son mutables, posiblemente debido a magia la
 
 **Beneficio:** Puedes cambiar lentamente la vibración y el color exacto, y la coloración puede ser diferente en todo tu cuerpo, lo que te permite crear esquemas u otros diseños coloridos. Sólo te hace falta una acción para llevar a cabo cambios menores localizados y hasta una hora para cambios dramáticos en todo tu cuerpo. Mientras duermes, los colores cambian por iniciativa propia en sintonía con tus sueños, lo que por la mañana te proporciona una coloración poco usual.
 
-Cuando estás en una zona en la que tu coloración es aproximadamente similar a la del entorno (por ejemplo, verde bosque en un bosque), podrás utilizar una acción para llevar a cabo cambios localizados menores que te ayuden a mezclarte con lo que te rodea. Eso te concede un bonificador +2 por circunstancia a las pruebas de Sigilo hasta que lo que te rodea cambia de coloración o de esquema.
+Cuando estás en una zona en la que tu coloración es aproximadamente similar a la del entorno (por ejemplo, verde bosque en un bosque), podrás utilizar una acción para llevar a cabo cambios localizados menores que te ayuden a mezclarte con lo que te rodea. Eso te concede un bonificados +2 por circunstancia a las pruebas de Sigilo hasta que lo que te rodea cambia de coloración o de esquema.
 
 ---
 
@@ -38,7 +38,7 @@ Ves todos los colores más brillantes, oyes todos los sonidos mejor y, especialm
 
 **Beneficio:** Obtienes un sentido especial: olfato impreciso con un rango de distancia de 30 pies (9 m). Esto significa que puedes utilizar tu sentido del olfato para determinar la ubicación exacta de una criatura (tal y como se explica en la pág. 434). El DJ por lo general doblará el rango de distancia si estás a sotavento de la criatura o lo reducirá a la mitad si estás a barlovento.
 
-Además obtienes un bonificador +2 por circunstancia a las pruebas de Percepción siempre que tratas de localizar una criatura no detectada dentro del rango de distancia de tu olfato.
+Además obtienes un bonificados +2 por circunstancia a las pruebas de Percepción siempre que tratas de localizar una criatura no detectada dentro del rango de distancia de tu olfato.
 
 ---
 

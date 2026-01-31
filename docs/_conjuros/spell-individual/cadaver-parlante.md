@@ -20,7 +20,7 @@ spell_level: 4
 
 ---
 
-Concedes al cadaver objetivo una semblanza de vida, que utiliza para responder a las 3 preguntas que se le formulan. Este conjuro recupera los recuerdos latentes del cuerpo fisico en lugar de convocar el alma del fallecido, por lo que el cadaver tiene que estar bastante intacto para que el conjuro funcione. Cuanto mas daño ha sufrido el cadaver, mas inexactas o heterogeneas son sus respuestas, y tiene que disponer de una garganta y una boca para hablar. Si alguien ha lanzado previamente este conjuro sobre el cadaver durante la ultima semana, el conjuro falla automaticamente. El cadaver puede hacer una salvacion de Voluntad para resistirse a responder las preguntas utilizando las estadisticas de la criatura original en el momento de su muerte, con los siguientes efectos.
+Concedes al cadaver objetivo una semblanza de vida, que utiliza para responder a las 3 preguntas que se le formulan. Este conjuro recupera los recuerdos latentes del cuerpo fisico en lugar de convocar el alma del fallecido, por lo que el cadaver tiene que estar bastante intacto para que el conjuro funcione. Cuanto mas daño ha sufrido el cadaver, mas inexactas o heterogéneas son sus respuestas, y tiene que disponer de una garganta y una boca para hablar. Si alguien ha lanzado previamente este conjuro sobre el cadaver durante la ultima semana, el conjuro falla automaticamente. El cadaver puede hacer una salvación de Voluntad para resistirse a responder las preguntas utilizando las estadísticas de la criatura original en el momento de su muerte, con los siguientes efectos.
 
 **Exito critico** El objetivo puede mentir o negarse a contestar, y su espiritu te persigue durante 24 horas, irritandote y haciendo que seas incapaz de descansar durante ese tiempo.
 

@@ -35,11 +35,11 @@ Un ritual es un conjuro complejo y esoterico que todo el mundo puede lanzar. Se 
 
 ## Como Aprender Rituales
 
-Aprender un ritual no cuenta contra ningun limite de conjuros de tu repertorio ni contra ninguna otra aptitud normal de lanzamiento de conjuros. Los rituales nunca son comunes pero, si buscas bien, probablemente podras encontrar a alguien que lleve a cabo para ti un ritual poco comun. Aun asi, puede que no este dispuesto a ensenartelo.
+Aprender un ritual no cuenta contra ningún limite de conjuros de tu repertorio ni contra ninguna otra aptitud normal de lanzamiento de conjuros. Los rituales nunca son comunes pero, si buscas bien, probablemente podras encontrar a alguien que lleve a cabo para ti un ritual poco comun. Aun asi, puede que no este dispuesto a enseñártelo.
 
 ## Coste
 
-La entrada de Coste de un ritual indica los componentes valiosos que se requieren para lanzarlo. Si un ritual no tiene dichos componentes, no hay entrada de Coste. El coste se consume cuando haces la prueba de habilidad principal. Los costes se presentan a menudo como un coste base multiplicado por el nivel del objetivo y a veces tambien por el rango del conjuro. Si el nivel del objetivo es menor que 1, en su lugar multiplica el coste por 1. Las versiones potenciadas que incrementan el coste base lo multiplican por el nivel del objetivo o por otro valor segun resulta apropiado. La mayoria de rituales que crean criaturas permanentes, como por ejemplo crear muertos vivientes, utilizan costes basados en el nivel de la criatura, tal y como se presenta en la tabla Rituales de creacion de criaturas.
+La entrada de Coste de un ritual indica los componentes valiosos que se requieren para lanzarlo. Si un ritual no tiene dichos componentes, no hay entrada de Coste. El coste se consume cuando haces la prueba de habilidad principal. Los costes se presentan a menudo como un coste base multiplicado por el nivel del objetivo y a veces tambien por el rango del conjuro. Si el nivel del objetivo es menor que 1, en su lugar multiplica el coste por 1. Las versiones potenciadas que incrementan el coste base lo multiplican por el nivel del objetivo o por otro valor segun resulta apropiado. La mayoría de rituales que crean criaturas permanentes, como por ejemplo crear muertos vivientes, utilizan costes basados en el nivel de la criatura, tal y como se presenta en la tabla Rituales de creación de criaturas.
 
 ## Lanzadores Secundarios
 
@@ -47,13 +47,13 @@ Muchos rituales necesitan lanzadores secundarios adicionales, que tampoco hace f
 
 ## Pruebas
 
-En la culminacion del ritual, tienes que llevar a cabo la prueba de habilidad indicada en Prueba principal para determinar el resultado. Las pruebas principales suelen tener una CD muy dificil para un rango que es el doble del rango de conjuro del ritual. Como con otras actividades de tiempo libre, los efectos de fortuna y desventura no pueden modificar tus pruebas para el ritual, ni tampoco los bonificadores o penalizadores que no estan activos a lo largo del proceso.
+En la culminación del ritual, tienes que llevar a cabo la prueba de habilidad indicada en Prueba principal para determinar el resultado. Las pruebas principales suelen tener una CD muy dificil para un rango que es el doble del rango de conjuro del ritual. Como con otras actividades de tiempo libre, los efectos de fortuna y desventura no pueden modificar tus pruebas para el ritual, ni tampoco los bonificadores o penalizadores que no estan activos a lo largo del proceso.
 
-El DJ puede ajustar la CD de los rituales, anadir o cambiar pruebas principales o secundarias o incluso prescindir del requisito de cumplir circunstancias especificas. Por ejemplo, llevar a cabo un ritual en un lugar en el que convergen las lineas Ley en una noche de luna nueva, podria hacer que un ritual normalmente dificil fuera drasticamente mas facil.
+El DJ puede ajustar la CD de los rituales, añadir o cambiar pruebas principales o secundarias o incluso prescindir del requisito de cumplir circunstancias especificas. Por ejemplo, llevar a cabo un ritual en un lugar en el que convergen las lineas Ley en una noche de luna nueva, podría hacer que un ritual normalmente dificil fuera drasticamente mas facil.
 
 ### Pruebas Secundarias
 
-A menudo, un ritual requiere pruebas secundarias para representar aspectos de su lanzamiento, por lo general con una CD estandar para un rango que es el doble del rango de conjuro del ritual. Cada prueba secundaria la tiene que hacer un lanzador secundario diferente. Si hay mas lanzadores secundarios que pruebas, los que sobran no hacen ninguna.
+A menudo, un ritual requiere pruebas secundarias para representar aspectos de su lanzamiento, por lo general con una CD estándar para un rango que es el doble del rango de conjuro del ritual. Cada prueba secundaria la tiene que hacer un lanzador secundario diferente. Si hay mas lanzadores secundarios que pruebas, los que sobran no hacen ninguna.
 
 Los lanzadores secundarios hacen sus pruebas antes de que se haga la prueba principal; sin importar los resultados, el ritual avanza hasta la prueba principal. Las pruebas secundarias afectan a la prueba principal dependiendo de sus resultados.
 
@@ -66,7 +66,7 @@ Los lanzadores secundarios hacen sus pruebas antes de que se haga la prueba prin
 
 ## Efecto
 
-El efecto de un ritual depende del resultado de la prueba principal. Si un efecto indica una CD de salvacion, utiliza tu CD de conjuros para la tradicion magica del ritual (o 12 + tu nivel + tu mayor modificador por atributo mental, si careces de CD de conjuros).
+El efecto de un ritual depende del resultado de la prueba principal. Si un efecto indica una CD de salvación, utiliza tu CD de conjuros para la tradición magica del ritual (o 12 + tu nivel + tu mayor modificador por atributo mental, si careces de CD de conjuros).
 
 ## Rituales de Creacion de Criaturas
 
@@ -105,7 +105,7 @@ El efecto de un ritual depende del resultado de la prueba principal. Si un efect
 
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 objeto
 
-Transformas el objetivo en un objeto animado con un nivel hasta el permitido por la tabla Rituales de creacion de criatura y de un tipo correspondiente al objeto (por lo que una escoba se convertiria en una escoba animada).
+Transformas el objetivo en un objeto animado con un nivel hasta el permitido por la tabla Rituales de creación de criatura y de un tipo correspondiente al objeto (por lo que una escoba se convertiría en una escoba animada).
 
 **Exito critico** El objetivo se convierte en un objeto animado del tipo apropiado. Si por lo menos es 4 niveles menor que tu, puedes convertirlo en un esbirro. Esto le concede el rasgo esbirro, lo que significa que puede utilizar 2 acciones cuando le das ordenes y darle ordenes es una accion con los rasgos auditivo y concentrar. Puedes tener un maximo de cuatro esbirros bajo tu control. Si no se convierte en un esbirro, puedes darle una orden sencilla. Persigue dicho objetivo de forma univoca, ignorando cualquiera de tus ordenes subsiguientes.
 
@@ -159,11 +159,11 @@ Retuerces y atrofias las plantas del area, haciendo que se marchiten. Ademas de 
 
 Llamas a una criatura extraplanaria de un nivel no superior al doble del rango de ritual del circulo de ligadura y tratas de llegar a un trato con ella, por lo general para que lleve a cabo una tarea para ti a cambio de un pago.
 
-Conjuras a la criatura extraplanaria en el interior de tu circulo y negocias un trato con ella. Una criatura que no quiere negociar en absoluto puede hacer una salvacion de Voluntad para quedarse en su Plano natal. A la mayor parte de las criaturas extraplanarias les parece que tienen cosas mejores que hacer que ocuparse de los caprichos de los mortales y exigen un regalo significativo, especialmente si la tarea implica riesgos. Es mas probable que los infernales y las criaturas extraplanarias similarmente malvadas acepten una oferta mas baja si eso les permite fomentar el caos en el Universo o infligir el mal en el mundo mientras llevan a cabo la tarea.
+Conjuras a la criatura extraplanaria en el interior de tu circulo y negocias un trato con ella. Una criatura que no quiere negociar en absoluto puede hacer una salvación de Voluntad para quedarse en su Plano natal. A la mayor parte de las criaturas extraplanarias les parece que tienen cosas mejores que hacer que ocuparse de los caprichos de los mortales y exigen un regalo significativo, especialmente si la tarea implica riesgos. Es mas probable que los infernales y las criaturas extraplanarias similarmente malvadas acepten una oferta mas baja si eso les permite fomentar el caos en el Universo o infligir el mal en el mundo mientras llevan a cabo la tarea.
 
 Los precios monetarios suelen ir desde el coste de un consumible del nivel de la criatura para una tarea corta y sencilla hasta un objeto magico permanente del nivel de la criatura o mas para persuadirla de que luche junto a ti. Sin embargo algunas criaturas extraplanarias pueden querer pagos diferentes a dinero, como por ejemplo el permiso para lanzar un geas sobre ti para que mas tarde puedan pedirte un favor no especificado o bien obtener la propiedad de tu alma mediante un contrato infernal.
 
-Puedes anadir un lanzador secundario adicional para crear un circulo de custodia que evita que la criatura extraplanaria ataque o abandone el circulo durante el regateo. Esto utiliza la habilidad Artesania y tiene la misma CD que una prueba secundaria. Esta proteccion se acaba si utilizas una accion hostil contra ella o se rompe el circulo de custodia.
+Puedes añadir un lanzador secundario adicional para crear un circulo de custodia que evita que la criatura extraplanaria ataque o abandone el circulo durante el regateo. Esto utiliza la habilidad Artesania y tiene la misma CD que una prueba secundaria. Esta protección se acaba si utilizas una acción hostil contra ella o se rompe el circulo de custodia.
 
 **Exito critico** Llamas a la criatura extraplanaria y puedes evitar que vuelva a su lugar de origen durante un dia completo, lo que te permite potencialmente denunciar un mejor trato amenazandola con dejarla en el interior de las custodias todo ese tiempo.
 
@@ -189,11 +189,11 @@ Puedes anadir un lanzador secundario adicional para crear un circulo de custodia
 
 Llamas a un ser desconocido y poderoso para que responda a tus preguntas. El ser varia dependiendo de la habilidad utilizada para la prueba principal.
 
-- **Naturaleza** Espiritus primigenios de la Naturaleza, que disponen de conocimiento acerca de los animales, las bestias, las hadas, los hongos, las plantas, la topografia y los recursos naturales en un radio de 3 millas (4,8 km).
-- **Ocultismo** Seres planarios y otros seres misteriosos, como por ejemplo elementales, espiritus olvidados y monitores, que disponen de informacion acerca de conocimiento olvidado, los Planos, secretos oscuros y otro material esoterico.
+- **Naturaleza** Espíritus primigenios de la Naturaleza, que disponen de conocimiento acerca de los animales, las bestias, las hadas, los hongos, las plantas, la topografia y los recursos naturales en un radio de 3 millas (4,8 km).
+- **Ocultismo** Seres plenarios y otros seres misteriosos, como por ejemplo elementales, espíritus olvidados y monitores, que disponen de información acerca de conocimiento olvidado, los Planos, secretos oscuros y otro material esoterico.
 - **Religion** Seres divinos como por ejemplo celestiales e infernales que conocen acerca de los dioses a los que sirven y del ambito respectivo de cada dios; suele tratarse de un servidor de tu dios, si tienes.
 
-Puedes formular hasta 7 preguntas que tienen que poderse responder con "si" o "no". El ser responde con monosilabos del tipo "si", "no", "probablemente" y "desconocido", aunque sus respuestas siempre reflejan sus propios intereses y podrian ser enganosas.
+Puedes formular hasta 7 preguntas que tienen que poderse responder con "si" o "no". El ser responde con monosílabos del tipo "si", "no", "probablemente" y "desconocido", aunque sus respuestas siempre reflejan sus propios intereses y podrían ser enganosas.
 
 **Exito critico** Te pones en contacto con un ser mas poderoso, fuertemente alineado con tus intereses y posiblemente incluso con tu dios. El ser no intenta enganarte, aunque podria no conocer las respuestas. Cuando es importante proporcionar claridad, el ser responde a 2 preguntas con hasta 5 palabras del tipo "si te marchas de inmediato" o "lo que fue verdadero antiguamente".
 
@@ -219,7 +219,7 @@ Puedes formular hasta 7 preguntas que tienen que poderse responder con "si" o "n
 
 **Duracion:** 1 ano
 
-Consagras un lugar a tu dios, cantando sus alabanzas y creando un espacio sagrado. En el interior del area, los adoradores de tu dios obtienen un bonificador +1 por estatus a las tiradas de ataque, las pruebas de habilidad, las tiradas de salvacion y las pruebas de Percepcion, y las criaturas anatema para tu dios (como los muertos vivientes para Farasma o Sarenrae) sufren un penalizador -1 por estatus a dichas tiradas. Si la santificacion divina de tu dios te permite elegir entre sagrado o sacrilego, puedes elegir tambien que el lugar consagrado sea una cosa u otra. Si la santificacion del dios tiene que ser sagrada o sacrilega, tienes que hacer que el lugar coincida con dicha santificacion. Los Golpes propinados por los adoradores de tu dios en el interior del area obtienen el rasgo de santificacion del lugar, si lo tiene.
+Consagras un lugar a tu dios, cantando sus alabanzas y creando un espacio sagrado. En el interior del area, los adoradores de tu dios obtienen un bonificados +1 por estatus a las tiradas de ataque, las pruebas de habilidad, las tiradas de salvación y las pruebas de Percepción, y las criaturas anatema para tu dios (como los muertos vivientes para Farasma o Sarenrae) sufren un penalizador -1 por estatus a dichas tiradas. Si la santificación divina de tu dios te permite elegir entre sagrado o sacrilego, puedes elegir tambien que el lugar consagrado sea una cosa u otra. Si la santificación del dios tiene que ser sagrada o sacrilega, tienes que hacer que el lugar coincida con dicha santificación. Los Golpes propinados por los adoradores de tu dios en el interior del area obtienen el rasgo de santificación del lugar, si lo tiene.
 
 **Exito critico** La consagracion tiene exito y, o bien dura 10 anos en lugar de 1, o bien cubre un area del doble de radio. Ocasionalmente, con el favor de tu dios, esto podria adoptar un efecto aun mas asombroso, como por ejemplo un area permanentemente consagrada o que el efecto cubriera toda una catedral.
 
@@ -247,14 +247,14 @@ Consagras un lugar a tu dios, cantando sus alabanzas y creando un espacio sagrad
 
 **Duracion:** 4d12 horas
 
-Alteras la meteorologia, haciendola tranquila y normal para la estacion o eligiendo hasta 2 efectos basados en la estacion:
+Alteras la meteorologia, haciendola tranquila y normal para la estación o eligiendo hasta 2 efectos basados en la estación:
 
-- **Primavera** llovizna, calor, huracan, aguanieve, tronada, tornado
-- **Verano** llovizna, chaparron, calor extremo, granizo, calor
+- **Primavera** llovizna, calor, huracán, aguanieve, tronada, tornado
+- **Verano** llovizna, chaparrón, calor extremo, granizo, calor
 - **Otono** clima frio, niebla, calor moderado, aguanieve
 - **Invierno** ventisca, frio moderado, frio extremo, deshielo
 
-No puedes controlar especificamente las manifestaciones, como por ejemplo el camino exacto de un tornado o los objetivos de los relampagos.
+No puedes controlar especificamente las manifestaciones, como por ejemplo el camino exacto de un tornado o los objetivos de los relámpagos.
 
 **Exito critico** Controlas el clima de la forma deseada y puedes afectar a un area mayor (hasta un circulo de 5 millas [8 km] de radio o una duracion mas larga (cualquier cantidad de d12 horas adicionales, hasta 16d12).
 
@@ -280,7 +280,7 @@ No puedes controlar especificamente las manifestaciones, como por ejemplo el cam
 
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 criatura muerta
 
-Transformas al objetivo en una criatura muerta viviente con un nivel hasta el permitido en la tabla Rituales de creacion de criaturas. Existen muchas versiones de este ritual, cada una de ellas especifica para un tipo particular de muerto viviente (una para todos los zombis, otra para los esqueletos, otra para los guls, etc.), y los rituales que crean muertos vivientes raros tambien son raros. Algunas formas de muerto viviente, como por ejemplo los liches, se forman utilizando metodos propios y unicos y no se pueden crear mediante una version de crear muertos vivientes.
+Transformas al objetivo en una criatura muerta viviente con un nivel hasta el permitido en la tabla Rituales de creación de criaturas. Existen muchas versiones de este ritual, cada una de ellas especifica para un tipo particular de muerto viviente (una para todos los zombis, otra para los esqueletos, otra para los guls, etc.), y los rituales que crean muertos vivientes raros tambien son raros. Algunas formas de muerto viviente, como por ejemplo los liches, se forman utilizando metodos propios y unidos y no se pueden crear mediante una version de crear muertos vivientes.
 
 **Exito critico** El objetivo se convierte en una criatura muerta viviente del tipo apropiado. Si por lo menos es 4 niveles menor que tu, puedes convertirlo en un esbirro. Esto le concede el rasgo esbirro, lo que significa que puede utilizar 2 acciones cuando le das ordenes y darle ordenes es una accion con los rasgos auditivo y concentrar. Puedes tener un maximo de cuatro esbirros bajo tu control. Si es inteligente y no se convierte en un esbirro, el muerto viviente es solicito hacia ti por haberle reanimado, aunque sigue siendo una criatura horrible y maligna. Si no es inteligente y no se convierte en un esbirro, puedes darle una orden sencilla. Persigue dicho objetivo de forma univoca, ignorando cualquiera de tus ordenes subsiguientes.
 
@@ -306,7 +306,7 @@ Transformas al objetivo en una criatura muerta viviente con un nivel hasta el pe
 
 **Duracion:** 1 ano
 
-Haces que las plantas del interior del area sean mas sanas y fructiferas. Ademas de los otros beneficios de tener unas plantas sanas, esto incrementa la cosecha de las granjas, dependiendo de tu exito. Si lanzas este ritual en un area afectada por asolar, crecimiento vegetal trata de contrarrestar a asolar en lugar de su efecto usual.
+Haces que las plantas del interior del area sean mas sanas y fructíferas. Ademas de los otros beneficios de tener unas plantas sanas, esto incrementa la cosecha de las granjas, dependiendo de tu éxito. Si lanzas este ritual en un area afectada por asolar, crecimiento vegetal trata de contrarrestar a asolar en lugar de su efecto usual.
 
 **Exito critico** Dobla el rendimiento de las cosechas en el area, o incrementa esta a un radio de 1 milla (1,6 km).
 
@@ -330,7 +330,7 @@ Haces que las plantas del interior del area sean mas sanas y fructiferas. Ademas
 
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 criatura
 
-Tejes el entramado de la propia realidad para conceder el mayor deseo del objetivo, quien lo declara en voz alta al inicio del ritual y de nuevo al final. El deseo del objetivo puede ser cualquier cosa, desde sencilla como enormes riquezas o el lanzamiento de determinado conjuro o ritual, a deseos mayores, como la destruccion de todo un reino o la ascension a la divinidad. El DJ podria decidir que un deseo atrae la atencion de los dioses o de otras criaturas poderosas, lo que conduce a su interferencia con el ritual o a intentos de deshacerlo. El poder del ritual altera la realidad hasta el punto de que ni siquiera los dioses pueden deshacer directamente el deseo, pero pueden reaccionar al mismo enviando servidores para que, por ejemplo, se lleven las recien adquiridas riquezas.
+Tejes el entramado de la propia realidad para conceder el mayor deseo del objetivo, quien lo declara en voz alta al inicio del ritual y de nuevo al final. El deseo del objetivo puede ser cualquier cosa, desde sencilla como enormes riquezas o el lanzamiento de determinado conjuro o ritual, a deseos mayores, como la destrucción de todo un reino o la ascension a la divinidad. El DJ podría decidir que un deseo atrae la atención de los dioses o de otras criaturas poderosas, lo que conduce a su interferencia con el ritual o a intentos de deshacerlo. El poder del ritual altera la realidad hasta el punto de que ni siquiera los dioses pueden deshacer directamente el deseo, pero pueden reaccionar al mismo enviando servidores para que, por ejemplo, se lleven las recién adquiridas riquezas.
 
 **Exito critico** El deseo es concedido sin complicaciones ni inconvenientes.
 
@@ -356,7 +356,7 @@ Tejes el entramado de la propia realidad para conceder el mayor deseo del objeti
 
 Trazas un circulo ritual y cuando el ritual se completa trasladas a todas las criaturas del area a un plano de existencia diferente. La habilidad que utilizas para la prueba principal tiene que ser una utilizable para llevar a cabo una prueba de Recordar conocimiento acerca del destino previsto, como por ejemplo Arcanos o Naturaleza para el Plano del Fuego o bien Ocultismo para el Plano Astral.
 
-Puede haber un lanzador secundario ubicado en el lugar exacto del destino, en lugar de contigo en el punto de origen. Si el lanzador secundario en el destino tiene exito en su prueba y tu obtienes un exito, en su lugar el ritual es un exito critico.
+Puede haber un lanzador secundario ubicado en el lugar exacto del destino, en lugar de contigo en el punto de origen. Si el lanzador secundario en el destino tiene éxito en su prueba y tu obtienes un éxito, en su lugar el ritual es un éxito critico.
 
 **Exito critico** Llegas al Plano previsto en el ultimo lugar en el que uno de los objetivos (a tu eleccion) estaba la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicacion aleatoria del mismo. El circulo permanece activo durante 1 minuto, durante el cual cualquier criatura transportada por el ritual puede volver al punto de origen con una sola accion, que tiene el rasgo concentrar.
 
@@ -380,7 +380,7 @@ Puede haber un lanzador secundario ubicado en el lugar exacto del destino, en lu
 
 **Rango de distancia:** 10 pies (3 m); **Objetivo:** 1 animal de hasta el nivel de la tabla
 
-Concedes inteligencia al objetivo, transformandolo en una bestia. Si previamente era un companero animal o un esbirro, ya no puede actuar de dicha forma.
+Concedes inteligencia al objetivo, transformandolo en una bestia. Si previamente era un compañero animal o un esbirro, ya no puede actuar de dicha forma.
 
 **Exito critico** Los modificadores por Inteligencia, Sabiduria y Carisma del objetivo se incrementan a +2 si eran inferiores y la criatura se vuelve solicita hacia ti por haberle dotado de consciencia.
 
@@ -404,7 +404,7 @@ Concedes inteligencia al objetivo, transformandolo en una bestia. Si previamente
 
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** otra criatura de hasta 8.o nivel, que adora al mismo dios o filosofia que tu
 
-Tratas de ayudar a que una criatura autenticamente arrepentida expie sus fechorias, tipicamente acciones que son anatema para tu dios. Si la criatura no esta autenticamente arrepentida, el resultado siempre es un fallo critico. Este ritual utiliza Naturaleza si el objetivo es un druida, y Religion en todos los demas casos.
+Tratas de ayudar a que una criatura autenticamente arrepentida expie sus fechorías, tipicamente acciones que son anatema para tu dios. Si la criatura no esta autenticamente arrepentida, el resultado siempre es un fallo critico. Este ritual utiliza Naturaleza si el objetivo es un druida, y Religion en todos los demas casos.
 
 **Exito critico** La criatura obtiene la absolucion para sus fechorias, lo que le permite recuperar su estatus para con vuestro dios. Recupera cualquier aptitud perdida. Antes de que la expiacion sea completa, la criatura tiene que llevar a cabo una mision especial u otra tarea elegida por tu dios, acorde con sus fechorias. Si se completa durante el tiempo libre, esta tarea no tendria que durar mas de 1 mes. Durante 1 mes, el objetivo obtiene inspiracion divina justo antes de llevar a cabo un acto que seria anatema para vuestro dios.
 
@@ -432,7 +432,7 @@ Tratas de ayudar a que una criatura autenticamente arrepentida expie sus fechori
 
 **Duracion:** ver texto
 
-Impones una regla magica a un objetivo voluntario obligandole, o bien a llevar a cabo un acto determinado, o bien a abstenerse de el. Un geas para llevar a cabo un acto suele ser condicional, como por ejemplo "Ofrece siempre hospitalidad a los extranjeros que buscan un lugar donde alojarse". Un geas no condicional para llevar a cabo un acto determinado no requiere que el objetivo lleve a cabo dicho acto de forma exclusiva, aunque debe priorizar la tarea por encima de todas las actividades que no corren prisa. El geas mas comun para abstenerse de llevar a cabo un acto es una especificacion para evitar la violacion de un contrato. En dichos casos, el lanzador secundario suele encargarse de que la formulacion del contrato este correctamente sintonizada con la magia del ritual. Como quiera que el objetivo es voluntario, un geas podra tener una duracion tan larga como la que el objetivo quiera. Si el objetivo es incapaz de cumplir con el geas, queda indispuesto 1 y el estado de indispuesto se incrementa en 1 por cada dia consecutivo que no consigue cumplirlo, hasta un maximo de indispuesto 4. El estado indispuesto se acaba de inmediato cuando vuelve a seguir el geas; no puede eliminar dicho estado de ninguna otra forma. Solo magia poderosa como un ritual de deseo puede eliminar los efectos de geas sobre un objetivo voluntario.
+Impones una regla magica a un objetivo voluntario obligandole, o bien a llevar a cabo un acto determinado, o bien a abstenerse de el. Un geas para llevar a cabo un acto suele ser condicional, como por ejemplo "Ofrece siempre hospitalidad a los extranjeros que buscan un lugar donde alojarse". Un geas no condicional para llevar a cabo un acto determinado no requiere que el objetivo lleve a cabo dicho acto de forma exclusiva, aunque debe priorizar la tarea por encima de todas las actividades que no corren prisa. El geas mas comun para abstenerse de llevar a cabo un acto es una especificación para evitar la violacion de un contrato. En dichos casos, el lanzador secundario suele encargarse de que la formulación del contrato este correctamente sintonizada con la magia del ritual. Como quiera que el objetivo es voluntario, un geas podrá tener una duración tan larga como la que el objetivo quiera. Si el objetivo es incapaz de cumplir con el geas, queda indispuesto 1 y el estado de indispuesto se incrementa en 1 por cada dia consecutivo que no consigue cumplirlo, hasta un maximo de indispuesto 4. El estado indispuesto se acaba de inmediato cuando vuelve a seguir el geas; no puede eliminar dicho estado de ninguna otra forma. Solo magia poderosa como un ritual de deseo puede eliminar los efectos de geas sobre un objetivo voluntario.
 
 **Exito critico** El geas tiene exito y el objetivo obtiene un bonificador +1 por estatus a las pruebas de habilidad que directamente lo respaldan (a discrecion del DJ).
 
@@ -464,7 +464,7 @@ Impones una regla magica a un objetivo voluntario obligandole, o bien a llevar a
 
 **Duracion:** ver texto
 
-Esto funciona como servidor planario, excepto que creas un circulo feerico y llamas a un animal, bestia, hada, hongo o planta que esta a 100 millas (160 km) o menos.
+Esto funciona como servidor plenario, excepto que creas un circulo feerico y llamas a un animal, bestia, hada, hongo o planta que esta a 100 millas (160 km) o menos.
 
 ---
 
@@ -480,7 +480,7 @@ Esto funciona como servidor planario, excepto que creas un circulo feerico y lla
 
 **Duracion:** hasta 10 minutos
 
-Desgarras el velo que lleva a la otra vida y llamas a un espiritu desde su lugar de reposo final. Tienes que llamar al espiritu por su nombre y proporcionar una conexion con el mismo, como por ejemplo una posesion, un vestido o una parte de su cadaver. Un espiritu que no quiera acudir a su llamada tendra que hacer una salvacion de Voluntad para evitarlo; con un exito critico, un espiritu bromista imita al espiritu al que quieres llamar. La CD de la salvacion de Voluntad es 2 menos si nunca te has encontrado con el espiritu en vida. De una o de otra forma, el espiritu aparece como una forma menguada de la criatura a la que llamas. Cada minuto de la duracion puedes formularle una pregunta. Podra responder como le parezca o incluso negarse a responder. Si el espiritu no esta en la otra vida (por ejemplo, si es un muerto viviente), todos los resultados diferentes a fallo critico utilizan el efecto de fallo.
+Desgarras el velo que lleva a la otra vida y llamas a un espíritu desde su lugar de reposo final. Tienes que llamar al espíritu por su nombre y proporcionar una conexión con el mismo, como por ejemplo una posesión, un vestido o una parte de su cadaver. Un espíritu que no quiera acudir a su llamada tendra que hacer una salvación de Voluntad para evitarlo; con un éxito critico, un espíritu bromista imita al espíritu al que quieres llamar. La CD de la salvación de Voluntad es 2 menos si nunca te has encontrado con el espíritu en vida. De una o de otra forma, el espíritu aparece como una forma menguada de la criatura a la que llamas. Cada minuto de la duración puedes formularle una pregunta. Podrá responder como le parezca o incluso negarse a responder. Si el espíritu no esta en la otra vida (por ejemplo, si es un muerto viviente), todos los resultados diferentes a fallo critico utilizan el efecto de fallo.
 
 **Exito critico** El espiritu es particularmente cooperativo e, incluso si tiene serias razones para enganarte, sufre un penalizador -2 por circunstancia a sus pruebas de Engano.
 
@@ -502,7 +502,7 @@ Desgarras el velo que lleva a la otra vida y llamas a un espiritu desde su lugar
 
 **Prueba primaria:** Ocultismo (maestro); **Pruebas secundarias:** Interpretacion, Sociedad
 
-Sondeas los recuerdos, el conocimiento, las leyendas, los relatos y el saber de los demas mortales acerca de un tema. El tema debe ser una persona, lugar o cosa importante. Si (en caso de ser una persona) el sujeto esta presente, incrementa en un paso el grado de exito de tu prueba de habilidad principal. Si tan solo dispones de informaciones vagas acerca del tema antes del ritual, disminuye en un paso el grado de exito de tu prueba de habilidad principal. Dichos modificadores se anulan entre si si tienes presente a un sujeto, pero poca o ninguna informacion de base.
+Sondeas los recuerdos, el conocimiento, las leyendas, los relatos y el saber de los demas mortales acerca de un tema. El tema debe ser una persona, lugar o cosa importante. Si (en caso de ser una persona) el sujeto esta presente, incrementa en un paso el grado de éxito de tu prueba de habilidad principal. Si tan solo dispones de informaciones vagas acerca del tema antes del ritual, disminuye en un paso el grado de éxito de tu prueba de habilidad principal. Dichos modificadores se anulan entre si si tienes presente a un sujeto, pero poca o ninguna información de base.
 
 **Exito critico** Durante 1 hora despues del fin del ritual, revisas recuerdos en su mayoria coherentes, que enfatizan informacion mas precisa o util acerca de conocimientos mas recordados o relatos exagerados.
 
@@ -526,7 +526,7 @@ Sondeas los recuerdos, el conocimiento, las leyendas, los relatos y el saber de 
 
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 criatura muerta de hasta 10.o nivel
 
-Tratas de llamar al alma del objetivo y devolverla a su cuerpo. Esto requiere que el cuerpo este presente y relativamente intacto. El objetivo tiene que haber muerto hace menos de un ano. Si Farasma ha decidido que el tiempo del objetivo ha llegado o este no quiere volver, el ritual falla automaticamente, pero lo descubres despues de la prueba con exito de Religion y puedes acabar el ritual sin pagar el coste.
+Tratas de llamar al alma del objetivo y devolverla a su cuerpo. Esto requiere que el cuerpo este presente y relativamente intacto. El objetivo tiene que haber muerto hace menos de un ano. Si Farasma ha decidido que el tiempo del objetivo ha llegado o este no quiere volver, el ritual falla automaticamente, pero lo descubres después de la prueba con éxito de Religion y puedes acabar el ritual sin pagar el coste.
 
 **Exito critico** Resucitas al objetivo. Vuelve a la vida con todos sus Puntos de Golpe y los mismos conjuros preparados y puntos en sus reservas que tenia cuando murio, sufriendo aun de cualquier debilitacion a largo plazo del antiguo cuerpo. El objetivo se encuentra con un agente de su dios durante la resurreccion, quien le inspira concediendole un bonificador +1 por estatus a las tiradas de ataque, pruebas de Percepcion, tiradas de salvacion y pruebas de habilidad durante 1 semana. El objetivo tambien queda cambiado permanentemente de alguna forma por el tiempo pasado en la otra vida, como por ejemplo sufriendo un leve cambio de personalidad, un mechon blanco en el cabello o una marca de nacimiento nueva y extrana.
 
@@ -560,11 +560,11 @@ Tratas de llamar al alma del objetivo y devolverla a su cuerpo. Esto requiere qu
 
 **Duracion:** ver texto
 
-Llamas a un dios (u otro poder divino) para que te conceda ayuda en forma de un servidor divino de su eleccion, de un nivel no mayor que el doble del rango de conjuro del ritual. Los lanzadores secundarios explican el tipo de asistencia que necesitas y por que; si la tarea encaja de forma increible con el dios, el DJ puede conceder un bonificador por circunstancia a la prueba secundaria de Diplomacia o decretar que la prueba es automaticamente un exito critico. Si utilizas el ritual sin un buen motivo, el resultado es automaticamente un fallo critico.
+Llamas a un dios (u otro poder divino) para que te conceda ayuda en forma de un servidor divino de su elección, de un nivel no mayor que el doble del rango de conjuro del ritual. Los lanzadores secundarios explican el tipo de asistencia que necesitas y por que; si la tarea encaja de forma increíble con el dios, el DJ puede conceder un bonificados por circunstancia a la prueba secundaria de Diplomacia o decretar que la prueba es automaticamente un éxito critico. Si utilizas el ritual sin un buen motivo, el resultado es automaticamente un fallo critico.
 
-Si el ritual tiene exito, tienes que ofrecer al servidor un pago que depende de factores como la duracion y el peligro de la tarea. El pago suele ser como minimo un objeto consumible del nivel de la criatura y a menudo cuesta tanto como un objeto magico permanente del nivel de la criatura para persuadirla de que luche junto a ti. Tus ofrendas deberian alinearse con los gustos personales del dios.
+Si el ritual tiene éxito, tienes que ofrecer al servidor un pago que depende de factores como la duración y el peligro de la tarea. El pago suele ser como minimo un objeto consumible del nivel de la criatura y a menudo cuesta tanto como un objeto magico permanente del nivel de la criatura para persuadirla de que luche junto a ti. Tus ofrendas deberían alinearse con los gustos personales del dios.
 
-Alternativamente puedes nombrar a un ser nativo del reino del dios, y a quien conoces personalmente, con la misma restriccion de nivel. Dicha criatura podria pedir como pago algo que le interesara personalmente.
+Alternativamente puedes nombrar a un ser nativo del reino del dios, y a quien conoces personalmente, con la misma restricción de nivel. Dicha criatura podría pedir como pago algo que le interesara personalmente.
 
 **Exito critico** El dios envia un servidor cuyo pago solo cuesta la mitad de lo normal. Si pides por su nombre a un servidor en particular, es probable que el dios lo envie a menos que dicho individuo este ocupado.
 
@@ -590,9 +590,9 @@ Alternativamente puedes nombrar a un ser nativo del reino del dios, y a quien co
 
 Creas una trampa magica vinculando un conjuro hostil a una runa. Como parte de llevar a cabo este ritual, Lanzas un conjuro para almacenarlo en la runa. El conjuro almacenado debe requerir 3 acciones o menos para ser lanzado, tener un efecto hostil y designar como objetivo a una criatura o tener un area.
 
-Puedes fijar una contrasena, un desencadenante o ambas cosas para la runa. Cualquier criatura que mueve, abre o toca el recipiente objetivo o entra en el area del objetivo sin pronunciar la contrasena o encajando con el desencadenante activa la runa, liberando el conjuro danino de su interior.
+Puedes fijar una contraseña, un desencadenante o ambas cosas para la runa. Cualquier criatura que mueve, abre o toca el recipiente objetivo o entra en el area del objetivo sin pronunciar la contraseña o encajando con el desencadenante activa la runa, liberando el conjuro danino de su interior.
 
-Una vez hay un conjuro almacenado en la runa, esta obtiene todos los rasgos del mismo. Si el conjuro almacenado designa como objetivo a una o mas criaturas, designa a la criatura que ha disparado la runa. Si tiene area, estara centrada en la criatura que disparo la runa. La runa es una trampa magica, que utiliza tu CD de conjuros, tanto para la prueba de Percepcion necesaria para verla, como para la prueba de Latrocinio para inutilizarla; para tener exito ambas pruebas requieren que la criatura que las hace este entrenada. Puedes Disipar la runa creada con este ritual si puedes verla.
+Una vez hay un conjuro almacenado en la runa, esta obtiene todos los rasgos del mismo. Si el conjuro almacenado designa como objetivo a una o mas criaturas, designa a la criatura que ha disparado la runa. Si tiene area, estaba centrada en la criatura que disparo la runa. La runa es una trampa magica, que utiliza tu CD de conjuros, tanto para la prueba de Percepción necesaria para verla, como para la prueba de Latrocinio para inutilizarla; para tener éxito ambas pruebas requieren que la criatura que las hace este entrenada. Puedes Disipar la runa creada con este ritual si puedes verla.
 
 **Exito critico** Creas una runa particularmente efectiva, que concede un bonificador +2 por circunstancia a la CD para divisar e inutilizar la runa.
 

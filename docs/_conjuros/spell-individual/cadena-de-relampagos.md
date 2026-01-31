@@ -1,7 +1,7 @@
 ---
 layout: spell
-permalink: /conjuros/cadena-de-relampagos/
-title: Cadena de Relampagos
+permalink: /conjuros/cadena-de-relámpagos/
+title: Cadena de Relámpagos
 chapter: Conjuros
 spell_level: 6
 ---
@@ -19,6 +19,6 @@ spell_level: 6
 
 ---
 
-Descargas un poderoso rayo contra el objetivo, que inflige 8d12 daño por electricidad, con una salvacion basica de Reflejos. A continuacion, la electricidad salta a otra criatura a 30 pies (9 m) del primer objetivo, salta a otra criatura a 30 pies (9 m) de la segunda y asi sucesivamente. Puedes acabar la cadena en cualquier punto. No puedes designar como objetivo a la misma criatura mas de una vez y debes tener linea de efecto a todos los objetivos. Tira el daño tan solo una vez y aplicaselo a cada objetivo (reduciendolo a la mitad o doblandolo segun el resultado de su tirada de salvacion). La cadena se acaba si cualquiera de los objetivos obtiene un exito critico en su salvacion.
+Descargas un poderoso rayo contra el objetivo, que inflige 8d12 daño por electricidad, con una salvación basica de Reflejos. A continuación, la electricidad salta a otra criatura a 30 pies (9 m) del primer objetivo, salta a otra criatura a 30 pies (9 m) de la segunda y asi sucesivamente. Puedes acabar la cadena en cualquier punto. No puedes designar como objetivo a la misma criatura mas de una vez y debes tener linea de efecto a todos los objetivos. Tira el daño tan solo una vez y aplicaselo a cada objetivo (reduciendolo a la mitad o doblandolo segun el resultado de su tirada de salvación). La cadena se acaba si cualquiera de los objetivos obtiene un éxito critico en su salvación.
 
 **Potenciado (+1)** El daño se incrementa en 1d12.

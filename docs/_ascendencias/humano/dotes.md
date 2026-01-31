@@ -81,7 +81,7 @@ A traves del estudio de multiples tradiciones magicas, has alterado un conjuro p
 
 **Beneficio:** Elige un truco de una tradicion magica diferente a la tuya. Si preparas conjuros, puedes elegir este cuando preparas tus trucos, ademas de tus demas opciones. Si tienes un repertorio de conjuros, reemplaza uno de los trucos que conoces por el elegido. Puedes lanzar este truco como un conjuro de la tradicion de tu clase.
 
-Si mas adelante cambias este truco o lo reconviertes, puedes elegir su sustituto de la misma tradicion alternativa o de una diferente.
+Si mas adelante cambias este truco o lo reconviertes, puedes elegir su sustituto de la misma tradición alternativa o de una diferente.
 
 ---
 
@@ -92,7 +92,7 @@ Si mas adelante cambias este truco o lo reconviertes, puedes elegir su sustituto
 
 **Prerrequisitos:** Truco adaptado, poder lanzar conjuros de 3.er rango.
 
-Has continuado adaptando tu magia para fusionar la tradicion de tu clase con tu tradicion adaptada.
+Has continuado adaptando tu magia para fusionar la tradición de tu clase con tu tradición adaptada.
 
 **Beneficio:** Elige un truco o un conjuro de 1.er rango de la misma tradicion magica que tu truco de Truco adaptado. Obtienes dicho conjuro, anadiendolo a tus opciones de conjuro igual que el truco de Truco adaptado. Puedes lanzarlo como si fuera de la tradicion magica de tu clase.
 
@@ -123,7 +123,7 @@ Como muchos humanos criados en una comunidad cerrada, siempre has estado fuertem
 ### Alma cooperativa
 **Dote 9** · Humano
 
-Has desarrollado un vinculo animico con tus camaradas y mantienes con ellos un grado aun mayor de cooperacion.
+Has desarrollado un vinculo anímico con tus camaradas y mantienes con ellos un grado aun mayor de cooperación.
 
 **Beneficio:** Si tienes por lo menos el rango experto en la habilidad en la que estas Prestando ayuda, cuando sufres un fallo o un fallo critico Prestando ayuda en una prueba de habilidad, en su lugar obtienes un exito.
 
@@ -156,18 +156,18 @@ Si tienes la herencia versatil aiuvarin, no necesitas cumplir los prerrequisitos
 ### Prestar ayuda en grupo
 **Dote 9** · Humano
 
-Tu educacion puso enfasis en la labor de equipo, y ayudar a tus aliados es para ti algo natural.
+Tu educación puso énfasis en la labor de equipo, y ayudar a tus aliados es para ti algo natural.
 
 **Beneficio:** Despues de Prestar ayuda a un aliado en una prueba de habilidad que no tiene el rasgo ataque, tambien puedes Prestar ayuda a cualquier otro aliado que lleva a cabo la misma prueba de habilidad para el mismo proposito ese mismo asalto. En ese caso, la accion se considera gratuita en lugar de una reaccion.
 
-La preparacion que hiciste para ayudar tiene que poderse aplicar a los otros aliados, y tan solo puedes Prestar ayuda a cada aliado una vez. Por ejemplo, si has ayudado a aupar a un aliado para Prestarle ayuda en una prueba de Atletismo para escalar una pared, podrias mantener la misma postura para aupar a otros aliados que intentan escalar la pared en el mismo asalto.
+La preparación que hiciste para ayudar tiene que poderse aplicar a los otros aliados, y tan solo puedes Prestar ayuda a cada aliado una vez. Por ejemplo, si has ayudado a aupar a un aliado para Prestarle ayuda en una prueba de Atletismo para escalar una pared, podrías mantener la misma postura para aupar a otros aliados que intentan escalar la pared en el mismo asalto.
 
 ---
 
 ### Viajero robusto
 **Dote 9** · Humano
 
-No hay viaje demasiado largo ni carga demasiado pesada cuando tienes amigos a tu lado o esperanza en tu corazon.
+No hay viaje demasiado largo ni carga demasiado pesada cuando tienes amigos a tu lado o esperanza en tu corazón.
 
 **Beneficio:** Incrementa en 1 tus limites maximo e impedido de Impedimenta. Ademas, obtienes un bonificador +10 pies (3 m) por circunstancia a tu Velocidad cuando haces viajes de largo recorrido.
 
@@ -189,7 +189,7 @@ A lo largo de tu vida aventurera, tu adaptabilidad te ha permitido obtener numer
 ### Persistencia tozuda
 **Dote 13** · Humano
 
-Los humanos son famosos por su aptitud de persistir a lo largo de las pruebas mas penosas, que dejarian a otros a punto de desplomarse.
+Los humanos son famosos por su aptitud de persistir a lo largo de las pruebas mas penosas, que dejarían a otros a punto de desplomarse.
 
 **Beneficio:** Cuando quedarias fatigado, haz una prueba plana CD 17. Con un exito, no estas fatigado. Si el estado fatigado tiene una causa subyacente que no remedias, como por ejemplo la falta de descanso, deberas hacer la prueba de nuevo en un intervalo determinado por el DJ hasta que falles la prueba plana o remedies la causa subyacente.
 
@@ -215,6 +215,6 @@ Te recuperas de las experiencias cercanas a la muerte con una resiliencia sorpre
 
 **Frecuencia:** Una vez al dia
 
-La sangre de los heroes recorre tus venas e inspiras a tus aliados para armarse de valor y encontrar un nuevo nivel de resolucion.
+La sangre de los heroes recorre tus venas e inspiras a tus aliados para armarse de valor y encontrar un nuevo nivel de resolución.
 
 **Beneficio:** Concedes hasta a 10 criaturas voluntarias a 30 pies (9 m) o menos los efectos de un conjuro de *conviccion celosa* de 6.o rango, aunque el efecto acaba automaticamente sobre un objetivo si le das una orden que normalmente encontraria repugnante. Esta accion tendra el rasgo auditivo o visual, dependiendo de como inspires a tus aliados.

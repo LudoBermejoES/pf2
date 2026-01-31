@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /apendices/estados-f-z/
+permalink: /apéndices/estados-f-z/
 title: Estados (F-Z)
-chapter: Apendices
-category: apendices
+chapter: Apéndices
+category: apéndices
 nav_order: 8
 ---
 
@@ -121,7 +121,7 @@ Ver **Neutralizado**.
 
 ## Roto
 
-Roto es un estado que sólo afecta a los objetos. Un objeto se rompe cuando el daño reduce sus Puntos de Golpe a una cifra igual o menor que su Umbral de rotura. Un objeto roto no se puede utilizar para su función normal, ni concede bonificadores, a excepción de la armadura. Una armadura rota sigue concediendo su bonificador por objeto a la CA, pero también impone un penalizador por estatus a la CA dependiendo de su categoría: -1 para una armadura ligera rota, -2 para una armadura intermedia rota o -3 para una armadura pesada rota.
+Roto es un estado que sólo afecta a los objetos. Un objeto se rompe cuando el daño reduce sus Puntos de Golpe a una cifra igual o menor que su Umbral de rotura. Un objeto roto no se puede utilizar para su función normal, ni concede bonificadores, a excepción de la armadura. Una armadura rota sigue concediendo su bonificados por objeto a la CA, pero también impone un penalizador por estatus a la CA dependiendo de su categoría: -1 para una armadura ligera rota, -2 para una armadura intermedia rota o -3 para una armadura pesada rota.
 
 Un objeto roto sigue imponiendo los penalizadores y limitaciones en los que normalmente se incurre por transportarlo, sostenerlo o llevarlo puesto. Por ejemplo, una armadura rota seguiría imponiendo su límite al modificador por Destreza, su penalizador a las pruebas y así sucesivamente. Si un efecto hace que un objeto quede automáticamente roto y éste tiene más PG que su Umbral de rotura, dicho efecto también reduce los PG actuales del objeto al Umbral de rotura.
 
@@ -135,6 +135,6 @@ Tus movimientos se vuelven torpes e inexactos. Torpe siempre incluye un valor. S
 
 ## Tumbado
 
-Estás tendido en el suelo. Estás desprevenido y sufres un penalizador -2 por circunstancia a las tiradas de ataque. Las únicas acciones de movimiento que puedes utilizar son Gatear y Ponerte de pie. Ponerte de pie acaba con el estado tumbado. Puedes Ponerte a cubierto mientras estás tumbado para ponerte en cuclillas y conseguir cobertura mayor contra los ataques a distancia, incluso si no tienes ningún objeto tras el que parapetarte, lo que te concede un bonificador +4 por circunstancia a la CA contra los ataques a distancia (pero sigues desprevenido).
+Estás tendido en el suelo. Estás desprevenido y sufres un penalizador -2 por circunstancia a las tiradas de ataque. Las únicas acciones de movimiento que puedes utilizar son Gatear y Ponerte de pie. Ponerte de pie acaba con el estado tumbado. Puedes Ponerte a cubierto mientras estás tumbado para ponerte en cuclillas y conseguir cobertura mayor contra los ataques a distancia, incluso si no tienes ningún objeto tras el que parapetarte, lo que te concede un bonificados +4 por circunstancia a la CA contra los ataques a distancia (pero sigues desprevenido).
 
 Si algo te haría quedar tumbado cuando estás Trepando o Volando, caes al suelo (ver pág. 421 para las reglas sobre caídas). No puedes quedar tumbado mientras estás Nadando.

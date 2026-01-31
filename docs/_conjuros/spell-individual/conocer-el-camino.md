@@ -18,7 +18,7 @@ spell_level: TRUCO
 
 ---
 
-En el ojo de tu mente, te reorientas magicamente. Sabes inmediatamente en que direccion esta el norte (si existe en tu ubicacion actual), y puedes elegir una ubicacion en la que estuviste en las ultimas 24 horas, averiguando en que direccion se encuentra.
+En el ojo de tu mente, te reorientas magicamente. Sabes inmediatamente en que dirección esta el norte (si existe en tu ubicación actual), y puedes elegir una ubicación en la que estuviste en las ultimas 24 horas, averiguando en que dirección se encuentra.
 
 **Potenciado (3.º)** Puedes elegir una ubicacion en la que estuviste como maximo la semana pasada.
 

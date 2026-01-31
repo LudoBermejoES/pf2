@@ -23,7 +23,7 @@ spell_level: 8
 
 ---
 
-Creas una melodia destilada a partir del mas puro dolor, transmitiendo la perdida inevitable de todo aquello que tu objetivo aprecia, y que solo es audible para el. El objetivo sufre 10d6 daño mental dependiendo de su salvacion de Voluntad. Una criatura maldita por este conjuro no se puede beneficiar de bonificadores por circunstancia o por estatus, por la duracion indicada en el grado de exito.
+Creas una melodia destilada a partir del mas puro dolor, transmitiendo la perdida inevitable de todo aquello que tu objetivo aprecia, y que solo es audible para el. El objetivo sufre 10d6 daño mental dependiendo de su salvación de Voluntad. Una criatura maldita por este conjuro no se puede beneficiar de bonificadores por circunstancia o por estatus, por la duración indicada en el grado de éxito.
 
 **Exito critico** El objetivo no resulta afectado.
 

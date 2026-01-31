@@ -20,7 +20,7 @@ spell_level: 4
 
 ---
 
-Ofuscas a tu objetivo con extraños impulsos, haciendo que actue de forma aleatoria. Los efectos dependen de la salvacion de Voluntad del objetivo. Puedes Disipar el conjuro.
+Ofuscas a tu objetivo con extraños impulsos, haciendo que actue de forma aleatoria. Los efectos dependen de la salvación de Voluntad del objetivo. Puedes Disipar el conjuro.
 
 **Exito critico** El objetivo no resulta afectado.
 

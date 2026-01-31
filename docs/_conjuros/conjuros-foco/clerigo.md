@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /conjuros/conjuros-foco/clerigo/
+permalink: /conjuros/conjuros-foco/clérigo/
 title: Conjuros de Foco: Clérigo
 chapter: Conjuros
 category: conjuros
@@ -38,7 +38,7 @@ Un diluvio de pintura de coloridas ilusiones desciende sobre el área, reflejand
 
 **Duración:** 10 minutos
 
-Transformas el objetivo en una forma que encaja más de cerca con tu visión creativa. Se trata claramente del mismo objeto, pero con detalles estéticos de tu elección. El objeto es una pieza bella e impresionante debido a su nueva cualidad, pero el efecto es obviamente mágico y temporal, por lo que su valor monetario no cambia. Si tienes el rango experto en Artesanía, el objeto concede un bonificador +1 por objeto a las tiradas de ataque si es un arma o a las pruebas de habilidad si es una herramienta de oficio.
+Transformas el objetivo en una forma que encaja más de cerca con tu visión creativa. Se trata claramente del mismo objeto, pero con detalles estéticos de tu elección. El objeto es una pieza bella e impresionante debido a su nueva cualidad, pero el efecto es obviamente mágico y temporal, por lo que su valor monetario no cambia. Si tienes el rango experto en Artesanía, el objeto concede un bonificados +1 por objeto a las tiradas de ataque si es un arma o a las pruebas de habilidad si es una herramienta de oficio.
 
 Cuando Lanzas este conjuro, cualquier lanzamiento previo se acaba.
 
@@ -92,7 +92,7 @@ Averiguas una sola palabra enigmática conectada con el destino de la criatura e
 
 **Rango:** 120 pies (36 m); **Objetivos:** la criatura desencadenante
 
-Retuerces las fuerzas del destino para hacer que momento sea, o bien terrible, o bien intrascendente, sin término medio. El objetivo obtiene un bonificador +1 por estatus a la tirada de salvación desencadenante. Si el resultado de la tirada es un éxito, se convierte en un éxito crítico. Si es un fallo, se convierte en un fallo crítico, que no puede ser reducido por las aptitudes que por lo general reducen los fallos críticos.
+Retuerces las fuerzas del destino para hacer que momento sea, o bien terrible, o bien intrascendente, sin término medio. El objetivo obtiene un bonificados +1 por estatus a la tirada de salvación desencadenante. Si el resultado de la tirada es un éxito, se convierte en un éxito crítico. Si es un fallo, se convierte en un fallo crítico, que no puede ser reducido por las aptitudes que por lo general reducen los fallos críticos.
 
 Si la aptitud desencadenante no tiene tanto un resultado de éxito crítico como uno de fallo crítico, el conjuro falla pero no gastas el Punto de Foco por Lanzarlo.
 
@@ -135,7 +135,7 @@ Unas arenas giratorias de devastación divina te rodean, debilitando las defensa
 
 **Defensa:** Voluntad
 
-Infliges dolor al objetivo y te regocijas en su angustia. Infliges 1d4 daño mental y 1d4 daño persistente mental; el objetivo tiene que hacer una salvación de Voluntad. Mientras el objetivo sufre daño persistente debido a este conjuro, obtienes un bonificador +1 por estatus a las tiradas de ataque y a las pruebas de habilidad contra el mismo.
+Infliges dolor al objetivo y te regocijas en su angustia. Infliges 1d4 daño mental y 1d4 daño persistente mental; el objetivo tiene que hacer una salvación de Voluntad. Mientras el objetivo sufre daño persistente debido a este conjuro, obtienes un bonificados +1 por estatus a las tiradas de ataque y a las pruebas de habilidad contra el mismo.
 
 - **Éxito crítico** El objetivo no resulta afectado.
 - **Éxito** El objetivo sufre mitad de daño y ningún daño persistente.
@@ -166,7 +166,7 @@ Reflejas de forma vengativa tu dolor sobre quien te atormenta. El objetivo sufre
 
 **Duración:** 1 minuto
 
-Tratas de calmar al objetivo pronunciando palabras en un tono tranquilo y sosegado. El objetivo obtiene un bonificador +1 por estatus a las tiradas de salvación de Voluntad. Este bonificador se incrementa a +2 contra los efectos de emoción.
+Tratas de calmar al objetivo pronunciando palabras en un tono tranquilo y sosegado. El objetivo obtiene un bonificados +1 por estatus a las tiradas de salvación de Voluntad. Este bonificados se incrementa a +2 contra los efectos de emoción.
 
 Además, cuando Lanzas este conjuro, puedes contrarrestar un efecto de emoción sobre el objetivo.
 
@@ -236,7 +236,7 @@ Cuando alguien se ha excedido puedes acelerarle para que supere lo peor de su af
 
 El efecto de este conjuro depende de si tratas de acabar con una aflicción o un daño persistente por veneno y de si quieres ayudar o estorbar la recuperación del objetivo.
 
-- **Aflicción:** El objetivo hace de inmediato su siguiente tirada de salvación contra la aflicción. Puedes, o bien conceder a la criatura un bonificador +2 por estatus, o bien imponer un penalizador -2 por estatus a su tirada de salvación contra la aflicción.
+- **Aflicción:** El objetivo hace de inmediato su siguiente tirada de salvación contra la aflicción. Puedes, o bien conceder a la criatura un bonificados +2 por estatus, o bien imponer un penalizador -2 por estatus a su tirada de salvación contra la aflicción.
 - **Veneno persistente:** Puedes hacer que el objetivo sufra el daño persistente por veneno inmediatamente cuando Lanzas este conjuro (además de sufrirlo al final de su siguiente turno). Tanto si lo haces como si no, el objetivo hace una prueba plana adicional contra el daño persistente por veneno. Puedes fijar la CD de dicha prueba plana en 5 o en 20 en lugar de la CD normal.
 
 **Potenciado (7.º)** Puedes tratar de hacer progresar cualquiera de las aflicciones y daño persistente por veneno del objetivo.
@@ -289,9 +289,9 @@ Haces brillar un rayo de luz de luna. Haz una tirada de ataque de conjuros. El r
 Cuando tocas al objetivo, un símbolo de la luna aparece en su frente, brillando con suave luz lunar. El objetivo brilla con luz tenue en un radio de 20 pies (6 m). También obtiene un beneficio basado en la fase de la luna, empezando con la luna nueva y cambiando a la siguiente fase al final de cada uno de sus turnos.
 
 - **Luna nueva:** El objetivo no obtiene beneficio alguno.
-- **Cuarto creciente:** El objetivo obtiene un bonificador +1 por estatus a las tiradas de ataque y un bonificador +4 por estatus a las tiradas de daño.
-- **Luna llena:** El objetivo obtiene un bonificador +1 por estatus a las tiradas de ataque, a su CA y a sus salvaciones y un bonificador +4 por estatus a las tiradas de daño.
-- **Cuarto menguante:** El objetivo obtiene un bonificador +1 por estatus a la CA y a las tiradas de salvación. Después de esta fase, vuelve a la luna nueva.
+- **Cuarto creciente:** El objetivo obtiene un bonificados +1 por estatus a las tiradas de ataque y un bonificados +4 por estatus a las tiradas de daño.
+- **Luna llena:** El objetivo obtiene un bonificados +1 por estatus a las tiradas de ataque, a su CA y a sus salvaciones y un bonificados +4 por estatus a las tiradas de daño.
+- **Cuarto menguante:** El objetivo obtiene un bonificados +1 por estatus a la CA y a las tiradas de salvación. Después de esta fase, vuelve a la luna nueva.
 
 ---
 
@@ -304,7 +304,7 @@ Cuando tocas al objetivo, un símbolo de la luna aparece en su frente, brillando
 
 **Duración:** mantenido hasta 1 minuto
 
-Una criatura se convierte en un receptáculo divino para contener energía mágica pura. El objetivo obtiene un bonificador +1 por estatus a las tiradas de salvación. Cada vez que Lanzas un conjuro desde tus espacios de conjuro, lo Mantienes automáticamente y concede a su objetivo tanta resistencia al daño por conjuros como el rango del conjuro, hasta el inicio de tu siguiente turno.
+Una criatura se convierte en un receptáculo divino para contener energía mágica pura. El objetivo obtiene un bonificados +1 por estatus a las tiradas de salvación. Cada vez que Lanzas un conjuro desde tus espacios de conjuro, lo Mantienes automáticamente y concede a su objetivo tanta resistencia al daño por conjuros como el rango del conjuro, hasta el inicio de tu siguiente turno.
 
 ### Baliza Mística ◆ [FOCO 4]
 **Rasgos:** Poco común, clérigo, foco, manipular
@@ -427,7 +427,7 @@ Infundes de oscuridad la visión de una criatura. Obtiene visión en la oscurida
 
 **Defensa:** Voluntad; **Duración:** 10 minutos
 
-Infundes a tu objetivo con atracción, haciendo que actúe hacia ti de forma más amistosa. El objetivo hace una tirada de salvación de Voluntad. Obtiene un bonificador +4 por circunstancia a esta salvación si tú o tus aliados le habéis amenazado recientemente o habéis sido hostiles para con él.
+Infundes a tu objetivo con atracción, haciendo que actúe hacia ti de forma más amistosa. El objetivo hace una tirada de salvación de Voluntad. Obtiene un bonificados +4 por circunstancia a esta salvación si tú o tus aliados le habéis amenazado recientemente o habéis sido hostiles para con él.
 
 - **Éxito crítico** El objetivo no resulta afectado, pero es consciente de que has intentado hechizarlo.
 - **Éxito** El objetivo no resulta afectado, pero cree que tu conjuro era inofensivo en lugar de toque encantador, si no lo identifica (ver Cómo identificar conjuros en la pág. 303).
@@ -509,7 +509,7 @@ Fusionando tu mente con la del objetivo, intercambiáis visiones inquietantes. U
 
 **Duración:** 1 asalto
 
-Tu cuerpo se llena de potencia física y de habilidad. Obtienes un bonificador +10 pies (3 m) por estatus a tu Velocidad y un bonificador +2 por estatus a las pruebas de Atletismo. Como parte de Lanzar este conjuro, puedes utilizar una acción de Zancada, Salto, Trepar o Nadar. Los bonificadores del conjuro se aplican durante dicha acción.
+Tu cuerpo se llena de potencia física y de habilidad. Obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad y un bonificados +2 por estatus a las pruebas de Atletismo. Como parte de Lanzar este conjuro, puedes utilizar una acción de Zancada, Salto, Trepar o Nadar. Los bonificadores del conjuro se aplican durante dicha acción.
 
 ### Potencia Duradera ↺ [FOCO 4]
 **Rasgos:** Poco común, clérigo, foco, manipular
@@ -572,7 +572,7 @@ Creas una previsión de una riqueza inmensa que llena el área del conjuro. Toda
 
 **Duración:** 1 minuto
 
-Tu dios bendice a los metales de base para transformarlos en metales preciosos. El metal del objetivo se transforma desde su naturaleza normal hasta acero, cobre, hierro, hierro frío, oro o plata. Si el rango de conjuro es 8.º o mayor, añade adamantita y plata del amanecer a las opciones. Si transformas un objeto en cobre, oro o plata, su Dureza se reduce a 1. En caso contrario, su Dureza se incrementa a 10 si es inferior.
+Tu dios bendice a los metales de base para transformarlos en metales preciosos. El metal del objetivo se transforma desde su naturaleza normal hasta acero, cobre, hierro, hierro frío, oro o plata. Si el rango de conjuro es 8.º o mayor, añade adamantina y plata del amanecer a las opciones. Si transformas un objeto en cobre, oro o plata, su Dureza se reduce a 1. En caso contrario, su Dureza se incrementa a 10 si es inferior.
 
 Un objeto transmutado de esta forma inflige daño según su nuevo material. Por ejemplo, una espada de acero transmutada en hierro frío inflige daño adicional a una criatura con debilidad al hierro frío. Puede tener otros efectos del nuevo material a discreción del DJ.
 
@@ -600,7 +600,7 @@ Suprimes el sonido en un área, evitando que se revelen secretos valiosos. Esto 
 
 **Duración:** 1 hora
 
-Te aseguras de que un secreto está a buen recaudo de espías inquisitivos. Elige un fragmento de información que por lo menos uno de los objetivos conoce, como por ejemplo "la ubicación del tesoro robado" o "la contraseña para entrar en la casa gremial". El conjuro concede a quienes conocen la información que has elegido un bonificador +4 por estatus a las pruebas de habilidad (típicamente pruebas de Engaño) para ocultar este conocimiento, a las tiradas de salvación contra conjuros que intentan específicamente apoderarse del mismo y a los efectos que les obligarían a revelarlo.
+Te aseguras de que un secreto está a buen recaudo de espías inquisitivos. Elige un fragmento de información que por lo menos uno de los objetivos conoce, como por ejemplo "la ubicación del tesoro robado" o "la contraseña para entrar en la casa gremial". El conjuro concede a quienes conocen la información que has elegido un bonificados +4 por estatus a las pruebas de habilidad (típicamente pruebas de Engaño) para ocultar este conocimiento, a las tiradas de salvación contra conjuros que intentan específicamente apoderarse del mismo y a los efectos que les obligarían a revelarlo.
 
 Si Lanzas este conjuro de nuevo, cualquier salvaguardar secreto que hayas lanzado anteriormente se acaba.
 
@@ -652,9 +652,9 @@ Si Lanzas este conjuro de nuevo, cualquier lanzamiento previo se acaba.
 
 Con palabras tranquilizadoras, arrullas al objetivo en un sueño encantado. Cuando Lanzas el conjuro, el objetivo queda inconsciente si no lo estaba ya. Mientras está inconsciente, experimenta un sueño a tu elección, aunque lo suficientemente lúcido como para poder despertar cuando quiera. Si despierta antes de que haya pasado 1 minuto de sueño, el conjuro se acaba.
 
-- **Sueño de encanto:** bonificador +1 por estatus a las pruebas de habilidad basadas en el Carisma.
-- **Sueño de perspicacia:** bonificador +1 por estatus a las pruebas de habilidad basadas en la Inteligencia.
-- **Sueño de viaje:** bonificador de +5 pies (1,5 m) por estatus a la Velocidad.
+- **Sueño de encanto:** bonificados +1 por estatus a las pruebas de habilidad basadas en el Carisma.
+- **Sueño de perspicacia:** bonificados +1 por estatus a las pruebas de habilidad basadas en la Inteligencia.
+- **Sueño de viaje:** bonificados de +5 pies (1,5 m) por estatus a la Velocidad.
 
 Si Lanzas este conjuro de nuevo, cualquier dulce sueño lanzado previamente se acaba.
 
@@ -792,7 +792,7 @@ Raramente te conformas con estar en un solo lugar. Elige una ubicación a 100 pi
 
 **Duración:** mantenido hasta 1 minuto
 
-Haces una declaración que tú crees que es verdad y que está libre de todo intento de engañar retorciendo las palabras, por omisión, etc. La declaración tiene que constar de 25 palabras o menos. Un símbolo de tu dios brilla sobre tu cabeza y dura lo mismo que el conjuro, y cualquiera que la ve y la oye sabe instintivamente que crees que lo que dices es cierto. Este seguro de honestidad te concede un bonificador +2 por estatus a las pruebas de Diplomacia mientras persiste el símbolo. Puedes Disipar el conjuro y, si dices algo que no crees que es completamente cierto, el conjuro se acaba antes de que completes tu declaración.
+Haces una declaración que tú crees que es verdad y que está libre de todo intento de engañar retorciendo las palabras, por omisión, etc. La declaración tiene que constar de 25 palabras o menos. Un símbolo de tu dios brilla sobre tu cabeza y dura lo mismo que el conjuro, y cualquiera que la ve y la oye sabe instintivamente que crees que lo que dices es cierto. Este seguro de honestidad te concede un bonificados +2 por estatus a las pruebas de Diplomacia mientras persiste el símbolo. Puedes Disipar el conjuro y, si dices algo que no crees que es completamente cierto, el conjuro se acaba antes de que completes tu declaración.
 
 ### Atisbar la Verdad ◆ [FOCO 4]
 **Rasgos:** Poco común, aura, clérigo, foco, manipular, revelación
@@ -814,7 +814,7 @@ Una inspiración divina te permite ver las cosas como son, sin el velo de intent
 
 **Duración:** hasta el final del turno actual
 
-Las bendiciones de tu dios hacen que tus pies sean más rápidos y, tus movimientos, más fluidos. Obtienes un bonificador +5 pies (1,5 m) por estatus a tu Velocidad e ignoras el terreno difícil. Como parte de lanzar pies ágiles, puedes Pasar haciendo acrobacias, dar un Paso o una Zancada; si dispones de la Velocidad apropiada, en su lugar puedes Excavar, Nadar, Trepar o Volar.
+Las bendiciones de tu dios hacen que tus pies sean más rápidos y, tus movimientos, más fluidos. Obtienes un bonificados +5 pies (1,5 m) por estatus a tu Velocidad e ignoras el terreno difícil. Como parte de lanzar pies ágiles, puedes Pasar haciendo acrobacias, dar un Paso o una Zancada; si dispones de la Velocidad apropiada, en su lugar puedes Excavar, Nadar, Trepar o Volar.
 
 ### Tránsito del Viajero ◆◆ [FOCO 4]
 **Rasgos:** Poco común, clérigo, concentrar, foco, manipular

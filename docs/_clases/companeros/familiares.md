@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /clases/companeros/familiares/
+permalink: /clases/compañeros/familiares/
 title: Familiares
 chapter: Clases
 category: clases
 nav_order: 2
 ---
 
-Los familiares son criaturas vinculadas misticamente y ligadas a tu magia. La mayoria fueron animales originalmente, aunque el ritual de convertirse en familiar les transforma en algo mas. Obtienes la dote general Mascota, excepto que la tuya tiene aptitudes especiales. Las elecciones comunes para familiar incluyen murcielagos, gatos, zorros, cuervos y serpientes.
+Los familiares son criaturas vinculadas misticamente y ligadas a tu magia. La mayoría fueron animales originalmente, aunque el ritual de convertirse en familiar les transforma en algo mas. Obtienes la dote general Mascota, excepto que la tuya tiene aptitudes especiales. Las elecciones comunes para familiar incluyen murciélagos, gatos, zorros, cuervos y serpientes.
 
 Algunos familiares son diferentes, usualmente descritos en la aptitud que te los concede; por ejemplo, el familiar leshy de un druida tiene el rasgo planta u hongo en lugar de animal.
 
@@ -17,11 +17,11 @@ Un familiar difiere de una mascota basica de las siguientes formas:
 
 ### Modificadores y CA
 
-Para Percepcion, Acrobacias y Sigilo puedes hacer que tu familiar utilice tu propio modificador por atributo de lanzamiento de conjuros + tu nivel en lugar de 3 + tu nivel si es superior.
+Para Percepción, Acrobacias y Sigilo puedes hacer que tu familiar utilice tu propio modificador por atributo de lanzamiento de conjuros + tu nivel en lugar de 3 + tu nivel si es superior.
 
 ### Comunicacion
 
-Tu familiar puede comunicarse empaticamente contigo si esta por lo menos a 1 milla (1,6 km) o menos de ti, compartiendo emociones. Normalmente no habla ni entiende idioma alguno, pero puede obtener el habla debido a una aptitud de familiar.
+Tu familiar puede comunicarse empíricamente contigo si esta por lo menos a 1 milla (1,6 km) o menos de ti, compartiendo emociones. Normalmente no habla ni entiende idioma alguno, pero puede obtener el habla debido a una aptitud de familiar.
 
 ### Como Seleccionar Aptitudes de Familiar y de Amo
 
@@ -31,9 +31,9 @@ En lugar de elegir tan solo dos aptitudes cuando obtienes tu familiar, como hace
 
 ## Designar como Objetivo a un Compañero
 
-Algunos conjuros y aptitudes pueden afectar a tu compañero. Cuando se utiliza "compañero" en un bloque de estadisticas, se refiere a los compañeros animales, a los familiares y a los tipos de compañero que aparecen en otros libros, como por ejemplo los compañeros elementales.
+Algunos conjuros y aptitudes pueden afectar a tu compañero. Cuando se utiliza "compañero" en un bloque de estadísticas, se refiere a los compañeros animales, a los familiares y a los tipos de compañero que aparecen en otros libros, como por ejemplo los compañeros elementales.
 
-Algunos conjuros son aun mas especificos. Por ejemplo, si el conjuro dice "designa como objetivo a tu familiar", solo puedes lanzarlo sobre un familiar, no sobre otros tipos de compañero. Si Lanzas un conjuro que tan solo puede beneficiar a un tipo de criatura del que no dispones, como por ejemplo Lanzar un conjuro que tan solo puede designar como objetivo a un familiar cuando no lo tienes, el conjuro no hace nada.
+Algunos conjuros son aun mas específicos. Por ejemplo, si el conjuro dice "designa como objetivo a tu familiar", solo puedes lanzarlo sobre un familiar, no sobre otros tipos de compañero. Si Lanzas un conjuro que tan solo puede beneficiar a un tipo de criatura del que no dispones, como por ejemplo Lanzar un conjuro que tan solo puede designar como objetivo a un familiar cuando no lo tienes, el conjuro no hace nada.
 
 Si el conjuro afectaria a una aptitud que la criatura no tiene, no le concedera dicha aptitud a menos que el conjuro lo especifique explicitamente. Por ejemplo un conjuro que hace que tu compañero de un Golpe no permitiria a un familiar dar un Golpe, pero si le concederia todos los demas beneficios del conjuro.
 

@@ -13,7 +13,7 @@ nav_order: 6
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** 100 millas (160 km); **Objetivos:** tu y hasta 4 objetivos tocados, o criaturas voluntarias u objetos de aproximadamente el tamano de una criatura
 
-Los objetivos y tu sois transportados instantaneamente a cualquier ubicacion dentro del alcance, si puedes identificarla de forma precisa tanto por su posicion relativa para con tu posicion inicial, como por su apariencia (u otros rasgos identificativos). Un conocimiento incorrecto de la apariencia de la ubicacion hace (por lo general) que el conjuro falle, pero en su lugar puede hacer que os teletransporteis a un lugar no deseado o algun otro percance poco usual determinado por el DJ. El teletransporte no es preciso a largas distancias. Los objetos aparecen a una distancia del destino previsto igual a aproximadamente un 1% de la distancia total viajada, en una direccion a determinar por el DJ. Para viajes cortos, esta falta de precision es irrelevante, pero para distancias largas podria ser de hasta una milla (1,6 km).
+Los objetivos y tu sois transportados instantaneamente a cualquier ubicación dentro del alcance, si puedes identificarla de forma precisa tanto por su posición relativa para con tu posición inicial, como por su apariencia (u otros rasgos identificativos). Un conocimiento incorrecto de la apariencia de la ubicación hace (por lo general) que el conjuro falle, pero en su lugar puede hacer que os teletransportéis a un lugar no deseado o algún otro percance poco usual determinado por el DJ. El teletransporte no es preciso a largas distancias. Los objetos aparecen a una distancia del destino previsto igual a aproximadamente un 1% de la distancia total viajada, en una dirección a determinar por el DJ. Para viajes cortos, esta falta de precision es irrelevante, pero para distancias largas podría ser de hasta una milla (1,6 km).
 
 **Potenciado (7.º)** Los otros objetivos y tu podeis viajar a cualquier ubicacion que este a 1000 millas (1600 km) o menos.
 
@@ -31,9 +31,9 @@ Los objetivos y tu sois transportados instantaneamente a cualquier ubicacion den
 **Lanzamiento:** 10 minutos; **Requisitos:** Tienes una llave planaria para el Plano de destino, utilizada como locus
 **Rango de distancia:** 5 pies (1,5 m); **Objetivos:** hasta 8 criaturas voluntarias
 
-Tus aliados y tu atravesais las barreras entre los planos de existencia. Los objetivos se trasladan a otro Plano, como por ejemplo el Plano del Fuego, el Inframundo o las Fisuras Exteriores. Tienes que saber que el Plano de destino existe y utilizar una llave planaria magica creada a partir de material de dicho Plano como locus para el conjuro. Si bien las llaves planarias para los Planos mas prominentes son poco comunes, igual que este conjuro, Planos y semiplanos mas oscuros a menudo tienen llaves planarias raras o posiblemente incluso unicas.
+Tus aliados y tu atravesaos las barreras entre los planos de existencia. Los objetivos se trasladan a otro Plano, como por ejemplo el Plano del Fuego, el Informando o las Fisuras Exteriores. Tienes que saber que el Plano de destino existe y utilizar una llave planaria magica creada a partir de material de dicho Plano como locus para el conjuro. Si bien las llaves planarias para los Planos mas prominentes son poco comunes, igual que este conjuro, Planos y semiplanos mas oscuros a menudo tienen llaves planarias raras o posiblemente incluso unidas.
 
-El conjuro es altamente impreciso y apareces a 1d20 x 25 millas (1 milla = 1,6 km) desde el ultimo lugar en el que uno de los objetivos (a tu eleccion) estaba ubicado la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicacion aleatoria del mismo. Teletransporte interplanario no proporciona un medio de viaje de retorno, aunque lanzarlo de nuevo te permite volver a tu Plano anterior a menos que concurran circunstancias atenuantes.
+El conjuro es altamente impreciso y apareces a 1d20 x 25 millas (1 milla = 1,6 km) desde el ultimo lugar en el que uno de los objetivos (a tu elección) estaba ubicado la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicación aleatoria del mismo. Teletransporte interplanario no proporciona un medio de viaje de retorno, aunque lanzarlo de nuevo te permite volver a tu Plano anterior a menos que concurran circunstancias atenuantes.
 
 ---
 
@@ -43,11 +43,11 @@ El conjuro es altamente impreciso y apareces a 1d20 x 25 millas (1 milla = 1,6 k
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
 **Duracion:** 1 asalto
 
-Agitas el suelo, haces caer criaturas en brechas y derrumbas estructuras. El DJ podria anadir efectos adicionales en determinadas areas. Un acantilado podria derrumbarse, haciendo que las criaturas caigan por el, o un lago podria quedar drenado al abrirse fisuras bajo su superficie, dejando un pantano de arenas movedizas.
+Agitas el suelo, haces caer criaturas en brechas y derrumbas estructuras. El DJ podría añadir efectos adicionales en determinadas areas. Un acantilado podría derrumbarse, haciendo que las criaturas caigan por el, o un lago podría quedar drenado al abrirse fisuras bajo su superficie, dejando un pantano de arenas movedizas.
 
 - **Temblor de tierra** El suelo se convierte en terreno dificil, y las criaturas que lo pisan sufren un penalizador -2 por circunstancia a las tiradas de ataque, CA y pruebas de habilidad.
-- **Fisuras** Cada criatura a ras de suelo tiene que hacer una salvacion de Reflejos al inicio de su turno para vigilar donde pisa y evitar una caida a una de las fisuras de 40 pies (12 m) de profundidad que se abren a sus pies. Las fisuras son permanentes y sus lados requieren pruebas con exito de Atletismo CD 15 para Trepar.
-- **Derrumbe** Las estructuras y los techos podrian derrumbarse. El DJ hace una prueba plana para cada una de ellas (CD 16 para una estructura recia, CD 14 para una estructura normal y la mayoria de formaciones naturales, CD 9 para una estructura de mala calidad, todo ello ajustado hacia arriba o hacia abajo segun su criterio). Un colapso inflige 11d6 dano contundente a toda criatura atrapada en el mismo, que tiene que hacer una salvacion basica de Reflejos. Una criatura queda tumbada si no obtiene un exito critico, y cae a una grieta si sufre un fallo critico.
+- **Fisuras** Cada criatura a ras de suelo tiene que hacer una salvación de Reflejos al inicio de su turno para vigilar donde pisa y evitar una caida a una de las fisuras de 40 pies (12 m) de profundidad que se abren a sus pies. Las fisuras son permanentes y sus lados requieren pruebas con éxito de Atletismo CD 15 para Trepar.
+- **Derrumbe** Las estructuras y los techos podrían derrumbarse. El DJ hace una prueba plana para cada una de ellas (CD 16 para una estructura recia, CD 14 para una estructura normal y la mayoría de formaciones naturales, CD 9 para una estructura de mala calidad, todo ello ajustado hacia arriba o hacia abajo segun su criterio). Un colapso inflige 11d6 dano contundente a toda criatura atrapada en el mismo, que tiene que hacer una salvación basica de Reflejos. Una criatura queda tumbada si no obtiene un éxito critico, y cae a una grieta si sufre un fallo critico.
 
 **Potenciado (10.º)** Creas un terremoto enorme que puede devastar un asentamiento. El alcance se incrementa a media milla (800 m) y el area a una explosion de un cuarto de milla (400 m).
 
@@ -59,7 +59,7 @@ Agitas el suelo, haces caer criaturas en brechas y derrumbas estructuras. El DJ 
 **Area:** cono de 30 pies (9 m) o emanacion de 10 pies (3 m)
 **Defensa:** Reflejos
 
-Haces oscilar un arma que estas empunando, que se multiplica magicamente en duplicados que atacan a todas las criaturas, o bien en un cono, o bien en una emanacion. Esta rafaga inflige 4 dados de dano a las criaturas en el area. El dano tiene el mismo tipo que el arma y utiliza el mismo tamano de dado. Determina el tamano de dado como si estuvieras atacando con el arma; por ejemplo, si estas empunando un arma a dos manos con ambas manos, utilizarias su dado de dano a dos manos.
+Haces oscilar un arma que estas empuñando, que se multiplica magicamente en duplicados que atacan a todas las criaturas, o bien en un cono, o bien en una emanación. Esta ráfaga inflige 4 dados de dano a las criaturas en el area. El dano tiene el mismo tipo que el arma y utiliza el mismo tamaño de dado. Determina el tamaño de dado como si estuvieras atacando con el arma; por ejemplo, si estas empuñando un arma a dos manos con ambas manos, utilizarias su dado de dano a dos manos.
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -79,12 +79,12 @@ Haces oscilar un arma que estas empunando, que se multiplica magicamente en dupl
 **Rango de distancia:** 800 pies (240 m); **Area:** explosion de 400 pies (120 m)
 **Duracion:** mantenido hasta 1 minuto
 
-Una enorme nube de tormenta se forma en el aire por encima del area, extendiendo lluvia y vendavales. El viento impone un penalizador -4 por circunstancia a los ataques fisicos a distancia. El aire en el area se convierte en terreno dificil mayor para las criaturas voladoras. Cuando Lanzas este conjuro y la primera vez cada asalto que lo Mantienes en asaltos subsiguientes, puedes elegir uno de los siguientes efectos de la tormenta. No puedes elegir el mismo efecto dos veces seguidas.
+Una enorme nube de tormenta se forma en el aire por encima del area, extendiendo lluvia y vendavales. El viento impone un penalizador -4 por circunstancia a los ataques físicos a distancia. El aire en el area se convierte en terreno dificil mayor para las criaturas voladoras. Cuando Lanzas este conjuro y la primera vez cada asalto que lo Mantienes en asaltos subsiguientes, puedes elegir uno de los siguientes efectos de la tormenta. No puedes elegir el mismo efecto dos veces seguidas.
 
-- **Granizo** Cada criatura en el interior de la tormenta o bajo la misma sufre 4d10 dano contundente con una salvacion basica de Fortaleza.
-- **Rayo** Elige hasta 10 criaturas en el interior de la tormenta bajo la misma para que sean azotadas por un rayo. Cada una de ellas sufre 7d6 dano por electricidad con una salvacion basica de Reflejos.
+- **Granizo** Cada criatura en el interior de la tormenta o bajo la misma sufre 4d10 dano contundente con una salvación basica de Fortaleza.
+- **Rayo** Elige hasta 10 criaturas en el interior de la tormenta bajo la misma para que sean azotadas por un rayo. Cada una de ellas sufre 7d6 dano por electricidad con una salvación basica de Reflejos.
 - **Tornado** Un torbellino aproximadamente cilindrico aparece en el interior de la nube o bajo la misma en un radio de 30 pies (9 m). Cada criatura en el torbellino es lanzada 40 pies (12 m) hacia arriba.
-- **Ventisca** La nieve torrencial inflige 4d8 dano por frio a cada criatura en la tormenta o bajo la misma, sin salvacion alguna. Todo lo que hay en la tormenta o bajo la misma queda oculto debido a la nieve torrencial y cualquier tipo de terreno se considera terreno dificil.
+- **Ventisca** La nieve torrencial inflige 4d8 dano por frio a cada criatura en la tormenta o bajo la misma, sin salvación alguna. Todo lo que hay en la tormenta o bajo la misma queda oculto debido a la nieve torrencial y cualquier tipo de terreno se considera terreno dificil.
 
 **Potenciado (10.º)** El alcance se incrementa a 2000 pies (600 m) y la nube es una explosion de 1000 pies (300 m).
 
@@ -96,7 +96,7 @@ Una enorme nube de tormenta se forma en el aire por encima del area, extendiendo
 **Area:** linea de 60 pies (18 m)
 **Defensa:** Fortaleza
 
-Un torrente giratorio de agua se manifiesta a lo largo de una linea recta, golpeando a las criaturas y objetos desatendidos en su camino y posiblemente apartandolos de ti. El torrente inflige 8d6 dano contundente. Cada criatura en el area tiene que hacer una salvacion basica de Fortaleza; los objetos desatendidos la fallan automaticamente. Las criaturas y los objetos que fallan son tambien empujados hacia atras 5 pies (10 pies con un fallo critico [1,5 y 3 m respectivamente]).
+Un torrente giratorio de agua se manifiesta a lo largo de una linea recta, golpeando a las criaturas y objetos desatendidos en su camino y posiblemente apareándolos de ti. El torrente inflige 8d6 dano contundente. Cada criatura en el area tiene que hacer una salvación basica de Fortaleza; los objetos desatendidos la fallan automaticamente. Las criaturas y los objetos que fallan son tambien empujados hacia atras 5 pies (10 pies con un fallo critico [1,5 y 3 m respectivamente]).
 
 **Potenciado (+1)** El dano se incrementa en 2d6.
 
@@ -108,7 +108,7 @@ Un torrente giratorio de agua se manifiesta a lo largo de una linea recta, golpe
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duracion:** 1 hora
 
-El objetivo puede entender el significado de un solo idioma que esta oyendo o leyendo cuando Lanzas el conjuro. Esto no le permite entender codigos, un texto lleno de metaforas y cosas parecidas (sujeto a la discrecion del DJ). Si el objetivo puede oir multiples idiomas, puede elegir que idioma entender; de lo contrario, se elige al azar uno de ellos.
+El objetivo puede entender el significado de un solo idioma que esta oyendo o leyendo cuando Lanzas el conjuro. Esto no le permite entender códigos, un texto lleno de metaforas y cosas parecidas (sujeto a la discreción del DJ). Si el objetivo puede oir multiples idiomas, puede elegir que idioma entender; de lo contrario, se elige al azar uno de ellos.
 
 **Potenciado (3.º)** El objetivo tambien puede hablar el idioma.
 
@@ -122,7 +122,7 @@ El objetivo puede entender el significado de un solo idioma que esta oyendo o le
 **Rango de distancia:** toque; **Objetivos:** 1 cadaver
 **Duracion:** hasta tus siguientes preparativos diarios
 
-El cadaver objetivo no se descompone ni se puede transformar en un muerto viviente. Si se ve sujeto a un conjuro que requiere que el cuerpo haya muerto en un cierto periodo de tiempo (por ejemplo, revivir a los muertos) la duracion de tranquilo descanso no cuenta para dicho periodo. Este conjuro tambien evita que los bichos y las pestes normales (como por ejemplo los gusanos) consuman el cuerpo.
+El cadaver objetivo no se descompone ni se puede transformar en un muerto viviente. Si se ve sujeto a un conjuro que requiere que el cuerpo haya muerto en un cierto periodo de tiempo (por ejemplo, revivir a los muertos) la duración de tranquilo descanso no cuenta para dicho periodo. Este conjuro tambien evita que los bichos y las pestes normales (como por ejemplo los gusanos) consuman el cuerpo.
 
 **Potenciado (5.º)** La duracion del conjuro es ilimitada, pero se tarda una accion mas en lanzarlo y se incurre en un coste (fluido de embalsamar por valor de 6 po).
 
@@ -134,7 +134,7 @@ El cadaver objetivo no se descompone ni se puede transformar en un muerto vivien
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** ilimitado; **Objetivos:** 1 criatura u objeto
 
-Averiguas el nombre de la ubicacion exacta del objetivo (incluyendo edificio, comunidad y pais) y plano de existencia. Tan solo puedes designar como objetivo a una criatura si la has visto en persona, si tienes una pertenencia significativa de ella o una parte de su cuerpo, como por ejemplo un mechon de cabello. Para designar como objetivo a un objeto, tienes que haberlo tocado o disponer de un fragmento de el. Ubicar supera automaticamente las protecciones contra los efectos de deteccion de un rango inferior este conjuro, incluso si normalmente tuvieran posibilidad de bloquearlo.
+Averiguas el nombre de la ubicación exacta del objetivo (incluyendo edificio, comunidad y pais) y plano de existencia. Tan solo puedes designar como objetivo a una criatura si la has visto en persona, si tienes una pertenencia significativa de ella o una parte de su cuerpo, como por ejemplo un mechón de cabello. Para designar como objetivo a un objeto, tienes que haberlo tocado o disponer de un fragmento de el. Ubicar supera automaticamente las protecciones contra los efectos de detección de un rango inferior este conjuro, incluso si normalmente tuvieran posibilidad de bloquearlo.
 
 ---
 
@@ -154,8 +154,8 @@ Puedes, o bien transformarte en piedra, o bien fundirte con la piedra. Este conj
 
 Puedes, o bien transformarte en una planta, o bien fusionarte con la materia vegetal. Mientras estas transformado, no puedes moverte ni afectar a nada fuera de la planta, pero puedes lanzar conjuros si no requieren linea de efecto mas alla de la planta. Puedes Disipar este conjuro.
 
-- **Convertirte en una planta** La duracion del conjuro es de 8 horas. Te conviertes en una planta Grande, tipicamente un arbol. Las pruebas de Percepcion no revelan tu autentica naturaleza, pero una prueba con exito de Naturaleza o de Supervivencia contra tu CD de conjuros revela que pareces ser una planta extranamente nueva en la zona. Mientras te encuentras en esta forma, puedes observar todo lo que te rodea, utilizando tus sentidos normales. Como planta, tu CA es 20 y tan solo te afectan los bonificadores por estatus, los penalizadores por estatus, los bonificadores por circunstancia y los penalizadores por circunstancia. Cualquier exito y exito critico que obtengas en las salvaciones de Reflejos se convertira en un fallo.
-- **Fusionarte con las plantas** La duracion del conjuro es de 10 minutos. Mientras lanzas el conjuro, tienes que estar tocando una planta con suficiente volumen para que quepais en ella tus posesiones y tu o el conjuro queda perturbado. Mientras estas fusionado, puedes oir (pero no ver) lo que sucede en el exterior de la planta. Si la planta sufre danos mientras estas en su interior, eres expulsado de la misma y sufres 10d6 dano. Pasaje magico te expulsa sin infligir dano. El conjuro se acaba si en algun momento estas fuera de la planta.
+- **Convertirte en una planta** La duración del conjuro es de 8 horas. Te conviertes en una planta Grande, tipicamente un árbol. Las pruebas de Percepción no revelan tu autentica naturaleza, pero una prueba con éxito de Naturaleza o de Supervivencia contra tu CD de conjuros revela que pareces ser una planta extrañamente nueva en la zona. Mientras te encuentras en esta forma, puedes observar todo lo que te rodea, utilizando tus sentidos normales. Como planta, tu CA es 20 y tan solo te afectan los bonificadores por estatus, los penalizadores por estatus, los bonificadores por circunstancia y los penalizadores por circunstancia. Cualquier éxito y éxito critico que obtengas en las salvaciones de Reflejos se convertira en un fallo.
+- **Fusionarte con las plantas** La duración del conjuro es de 10 minutos. Mientras lanzas el conjuro, tienes que estar tocando una planta con suficiente volumen para que quedáis en ella tus posesiones y tu o el conjuro queda perturbado. Mientras estas fusionado, puedes oir (pero no ver) lo que sucede en el exterior de la planta. Si la planta sufre danos mientras estas en su interior, eres expulsado de la misma y sufres 10d6 dano. Pasaje magico te expulsa sin infligir dano. El conjuro se acaba si en algún momento estas fuera de la planta.
 
 ---
 
@@ -166,7 +166,7 @@ Puedes, o bien transformarte en una planta, o bien fusionarte con la materia veg
 **Rango de distancia:** toque; **Objetivos:** 1 criatura u objeto
 **Duracion:** 8 horas
 
-Eriges unas custodias protectoras que hacen dificil detectar al objetivo mediante la magia. Velo de privacidad trata de contrarrestar todos los efectos de deteccion, escudrinamiento y revelacion utilizados contra el objetivo o su equipo a lo largo de la duracion del conjuro, considerando a este efecto que los trucos son conjuros de 1.er rango. Contrarrestar con exito un conjuro que designa como objetivo un area u objetivos multiples niega los efectos tan solo para el objetivo de velo de privacidad.
+Eriges unas custodias protectoras que hacen dificil detectar al objetivo mediante la magia. Velo de privacidad trata de contrarrestar todos los efectos de detección, escudriñamiento y revelación utilizados contra el objetivo o su equipo a lo largo de la duración del conjuro, considerando a este efecto que los trucos son conjuros de 1.er rango. Contrarrestar con éxito un conjuro que designa como objetivo un area u objetivos multiples niega los efectos tan solo para el objetivo de velo de privacidad.
 
 ---
 
@@ -177,7 +177,7 @@ Eriges unas custodias protectoras que hacen dificil detectar al objetivo mediant
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** la criatura desencadenante
 **Defensa:** Voluntad; **Duracion:** variable
 
-Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sangre. El objetivo sufre 2d6 dano persistente por sangrado y tiene que hacer una salvacion de Voluntad.
+Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sangre. El objetivo sufre 2d6 dano persistente por sangrado y tiene que hacer una salvación de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -197,7 +197,7 @@ Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sa
 **Area:** variable
 **Defensa:** Reflejos
 
-Unos vientos gelidos se extienden desde tus manos, surgiendo con gran fuerza. Si Lanzas este conjuro con 2 acciones, tiene el area de un cono de 60 pies (18 m); si Lanzas este conjuro con 3 acciones, tiene un alcance de 500 pies (150 m) y el area de una explosion de 30 pies (9 m). Cada criatura en el area sufre 10d6 dano por frio con una salvacion basica de Reflejos. Ventisqueros y vientos helados llenan el area hasta el inicio de tu siguiente turno, convirtiendola en terreno dificil.
+Unos vientos gélidos se extienden desde tus manos, surgiendo con gran fuerza. Si Lanzas este conjuro con 2 acciones, tiene el area de un cono de 60 pies (18 m); si Lanzas este conjuro con 3 acciones, tiene un alcance de 500 pies (150 m) y el area de una explosion de 30 pies (9 m). Cada criatura en el area sufre 10d6 dano por frio con una salvación basica de Reflejos. Ventisqueros y vientos helados llenan el area hasta el inicio de tu siguiente turno, convirtiendola en terreno dificil.
 
 **Potenciado (+1)** El dano se incrementa en 2d6.
 
@@ -208,7 +208,7 @@ Unos vientos gelidos se extienden desde tus manos, surgiendo con gran fuerza. Si
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 10 minutos
 
-Siempre que hablas o haces algun otro sonido vocal, puedes hacer que tu vocalizacion parezca originarse en algun lugar diferente a 60 pies (18 m) o menos, y puedes cambiar libremente dicha ubicacion aparente mientras vocalizas. Toda criatura que oye el sonido puede tratar de descreer tu ilusion.
+Siempre que hablas o haces algún otro sonido vocal, puedes hacer que tu localización parezca originarse en algún lugar diferente a 60 pies (18 m) o menos, y puedes cambiar libremente dicha ubicación aparente mientras vocalizas. Toda criatura que oye el sonido puede tratar de descreer tu ilusión.
 
 **Potenciado (2.º)** La duracion del conjuro se incrementa a 1 hora y tambien puedes cambiar el tono, la calidad y otros aspectos de tu voz. Antes de que una criatura pueda tratar de descreer tu ilusion tendra que hacer una prueba de Percepcion activa o utilizar acciones para Interactuar con el sonido.
 
@@ -219,7 +219,7 @@ Siempre que hablas o haces algun otro sonido vocal, puedes hacer que tu vocaliza
 **Tradiciones:** arcana, divina, ocultista
 **Duracion:** 10 minutos
 
-Tu mirada atraviesa las ilusiones y encuentra a las criaturas invisibles y a los espiritus. Puedes ver a las criaturas invisibles como si no lo fueran, aunque sus rasgos son borrosos, lo que hace que esten ocultos y sean dificiles de identificar. Tambien puedes ver criaturas incorporales como los fantasmas, atravesando un objeto desde 10 pies (3 m) o menos de la superficie del mismo como formas borrosas vistas a traves de dichos objetos. Pistas mas sutiles tambien te conceden un bonificador +2 por estatus a las pruebas que llevas a cabo para descreer ilusiones.
+Tu mirada atraviesa las ilusiones y encuentra a las criaturas invisibles y a los espíritus. Puedes ver a las criaturas invisibles como si no lo fueran, aunque sus rasgos son borrosos, lo que hace que esten ocultos y sean difíciles de identificar. Tambien puedes ver criaturas incorporales como los fantasmas, atravesando un objeto desde 10 pies (3 m) o menos de la superficie del mismo como formas borrosas vistas a traves de dichos objetos. Pistas mas sutiles tambien te conceden un bonificados +2 por estatus a las pruebas que llevas a cabo para descreer ilusiones.
 
 **Potenciado (5.º)** Este conjuro tiene una duracion de 8 horas.
 
@@ -231,9 +231,9 @@ Tu mirada atraviesa las ilusiones y encuentra a las criaturas invisibles y a los
 **Rango de distancia:** 100 pies (30 m); **Objetivos:** hasta 5 criaturas
 **Defensa:** Voluntad; **Duracion:** variable
 
-Elige una sola declaracion que quieres que crean los objetivos. El hecho podria ser muy limitado, como por ejemplo "un dragon esta sobrevolandonos y me quiere matar"; extenso, como por ejemplo "todos los humanoides son abominaciones disfrazadas"; o conceptual, como por ejemplo "si no vivo una vida haciendo el bien, sere castigado en la otra vida". Las experiencias de cada objetivo dan color a la reaccion que tiene ante esta "verdad" y afectan a como cambia su comportamiento. Si la declaracion cambia lo que perciben, tratan el cambio como una revelacion repentina.
+Elige una sola declaración que quieres que crean los objetivos. El hecho podría ser muy limitado, como por ejemplo "un dragon esta sobrevolándonos y me quiere matar"; extenso, como por ejemplo "todos los humanoides son abominaciones disfrazadas"; o conceptual, como por ejemplo "si no vivo una vida haciendo el bien, sere castigado en la otra vida". Las experiencias de cada objetivo dan color a la reacción que tiene ante esta "verdad" y afectan a como cambia su comportamiento. Si la declaración cambia lo que perciben, tratan el cambio como una revelación repentina.
 
-El efecto de conjuro depende de las salvaciones de Voluntad de los objetivos. Si el objetivo ya esta afectado por verdad inventada, tu conjuro lo contrarresta. Si la prueba de contrarrestar falla, el desenlace de la tirada de salvacion del objetivo no puede ser peor que un exito.
+El efecto de conjuro depende de las salvaciones de Voluntad de los objetivos. Si el objetivo ya esta afectado por verdad inventada, tu conjuro lo contrarresta. Si la prueba de contrarrestar falla, el desenlace de la tirada de salvación del objetivo no puede ser peor que un éxito.
 
 **Exito critico** El objetivo no se cree la declaracion y sabe que has intentado enganarle.
 
@@ -252,7 +252,7 @@ El efecto de conjuro depende de las salvaciones de Voluntad de los objetivos. Si
 **Rango de distancia:** toque; **Criaturas:** tu y hasta 10 objetivos voluntarios tocados
 **Duracion:** 8 horas
 
-Te mueves parcialmente por el Inframundo, utilizando su naturaleza distorsionada para acelerar tus viajes. Cada hora, cubres aproximadamente el mismo terreno que normalmente tardarias 3 dias en recorrer. Los puntos de referencia son vagos y simbolicos en lugar de concretos, y te dejan a menos de una milla (1,6 km) del destino previsto cuando Disipas el conjuro o se acaba su duracion.
+Te mueves parcialmente por el Informando, utilizando su naturaleza distorsionada para acelerar tus viajes. Cada hora, cubres aproximadamente el mismo terreno que normalmente tardarias 3 dias en recorrer. Los puntos de referencia son vagos y simbólicos en lugar de concretos, y te dejan a menos de una milla (1,6 km) del destino previsto cuando Disipas el conjuro o se acaba su duración.
 
 ---
 
@@ -261,7 +261,7 @@ Te mueves parcialmente por el Inframundo, utilizando su naturaleza distorsionada
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 hora
 
-El viento a tu espalda te empuja a buscar nuevos horizontes. Obtienes un bonificador +10 pies (3 m) por estatus a tu Velocidad.
+El viento a tu espalda te empuja a buscar nuevos horizontes. Obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad.
 
 **Potenciado (2.º)** La duracion se incrementa a 8 horas.
 
@@ -275,9 +275,9 @@ El viento a tu espalda te empuja a buscar nuevos horizontes. Obtienes un bonific
 
 Unos vientos violentos y una poderosa corriente llenan el area, formando un ciclon. Todas las criaturas voladoras en el area descienden 40 pies (12 m). Toda el area se convierte en terreno dificil mayor para las criaturas Voladoras y en terreno dificil para las criaturas en el suelo o Trepando.
 
-Toda criatura que acaba su turno volando en el area desciende 20 pies (6 m). Toda criatura empujada contra una superficie por los vientos de este conjuro sufre dano contundente como si hubiera caido al suelo.
+Toda criatura que acaba su turno volando en el area desciende 20 pies (6 m). Toda criatura empujada contra una superficie por los vientos de este conjuro sufre dano contundente como si hubiera caico al suelo.
 
-Las casillas de los extremos verticales exteriores del cilindro evitan que las criaturas lo abandonen. Dichas casillas son terreno dificil mayor y una criatura que intenta atravesarlas ha de tener exito en una prueba de Atletismo o de Acrobacias para maniobrar en vuelo contra tu CD de conjuros para conseguirlo. Una criatura que falla acaba su accion actual pero puede probar de nuevo.
+Las casillas de los extremos verticales exteriores del cilindro evitan que las criaturas lo abandonen. Dichas casillas son terreno dificil mayor y una criatura que intenta atravesarlas ha de tener éxito en una prueba de Atletismo o de Acrobacias para maniobrar en vuelo contra tu CD de conjuros para conseguirlo. Una criatura que falla acaba su acción actual pero puede probar de nuevo.
 
 ---
 
@@ -287,7 +287,7 @@ Las casillas de los extremos verticales exteriores del cilindro evitan que las c
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura muerta viviente descerebrada cuyo nivel no es mayor que el rango del conjuro atar muertos vivientes.
 **Duracion:** 1 dia
 
-Mediante una palabra de poder, tomas el control del objetivo. Este obtiene el rasgo esbirro. Si tu o un aliado tuyo utilizais cualquier otra accion hostil contra el objetivo, el conjuro se acaba.
+Mediante una palabra de poder, tomas el control del objetivo. Este obtiene el rasgo esbirro. Si tu o un aliado tuyo utilizais cualquier otra acción hostil contra el objetivo, el conjuro se acaba.
 
 ---
 
@@ -299,7 +299,7 @@ Mediante una palabra de poder, tomas el control del objetivo. Este obtiene el ra
 
 Formas un vinculo espiritual con otra criatura, absorbiendo su dolor. Cuando Lanzas este conjuro y al inicio de cada uno de tus turnos, si el objetivo se encuentra por debajo de sus Puntos de Golpe maximos, recupera 2 (o la diferencia entre sus Puntos de Golpe maximos y los actuales si es menor). Pierdes tantos como recupera el objetivo.
 
-Esta es una transferencia espiritual, por lo que no se aplicara efecto alguno que pueda incrementar los Puntos de Golpe que recupera el objetivo ni disminuir los que tu pierdes. Esta transferencia tambien ignora cualquier Punto de Golpe temporal de que pudierais disponer el objetivo o tu. Como quiera que este efecto no implica ni vitalidad y energia del vacio, vinculo espiritual funciona incluso si el objetivo o tu es un muerto viviente. Mientras persiste la duracion, no obtienes beneficio alguno, ni de regeneracion, ni de curacion rapida. Puedes disipar este conjuro y si en algun momento llegas a 0 Puntos de Golpe vinculo espiritual se acaba automaticamente.
+Esta es una transferencia espiritual, por lo que no se aplicara efecto alguno que pueda incrementar los Puntos de Golpe que recupera el objetivo ni disminuir los que tu pierdes. Esta transferencia tambien ignora cualquier Punto de Golpe temporal de que pudierais disponer el objetivo o tu. Como quiera que este efecto no implica ni vitalidad y energia del dacio, vinculo espiritual funciona incluso si el objetivo o tu es un muerto viviente. Mientras persiste la duración, no obtienes beneficio alguno, ni de regeneración, ni de curación rapida. Puedes disipar este conjuro y si en algún momento llegas a 0 Puntos de Golpe vinculo espiritual se acaba automaticamente.
 
 **Potenciado (+1)** El numero de Puntos de Golpe transferidos cada vez se incrementa en 2.
 
@@ -313,7 +313,7 @@ Esta es una transferencia espiritual, por lo que no se aplicara efecto alguno qu
 
 Disparas un rayo de calor y llamas. Haz una tirada de ataque de conjuros contra una sola criatura. Con un impacto, el objetivo sufre 2d6 dano por fuego y, con un impacto critico, doble dano.
 
-Por cada accion adicional que utilizas al Lanzar el conjuro, puedes disparar un rayo adicional a un objetivo diferente, hasta un maximo de 3 rayos que designan como objetivo a tres objetivos diferentes para 3 acciones. Cada uno de dichos ataques incrementa tu penalizador por ataque multiple, pero no lo incrementa hasta despues de haber hecho todas las tiradas de ataque para este conjuro. Si dedicas 2 o mas acciones a Lanzar el conjuro, el dano se incrementa a 4d6 dano por fuego con un impacto, y sigues infligiendo doble dano con un impacto critico.
+Por cada acción adicional que utilizas al Lanzar el conjuro, puedes disparar un rayo adicional a un objetivo diferente, hasta un maximo de 3 rayos que designan como objetivo a tres objetivos diferentes para 3 acciones. Cada uno de dichos ataques incrementa tu penalizador por ataque multiple, pero no lo incrementa hasta después de haber hecho todas las tiradas de ataque para este conjuro. Si dedicas 2 o mas acciones a Lanzar el conjuro, el dano se incrementa a 4d6 dano por fuego con un impacto, y sigues infligiendo doble dano con un impacto critico.
 
 **Potenciado (+1)** El dano para cada objetivo se incrementa en 1d6 para la version de 1 accion o en 2d6 para las versiones de 2 y 3 acciones.
 
@@ -325,7 +325,7 @@ Por cada accion adicional que utilizas al Lanzar el conjuro, puedes disparar un 
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** Fortaleza
 
-Tu toque aflige al objetivo con la viruela de goblin, un eczema alergico e irritante. El objetivo tiene que llevar a cabo una salvacion de Fortaleza.
+Tu toque aflige al objetivo con la viruela de goblin, un eczema alérgico e irritante. El objetivo tiene que llevar a cabo una salvación de Fortaleza.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -345,7 +345,7 @@ Tu toque aflige al objetivo con la viruela de goblin, un eczema alergico e irrit
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura viva
 **Defensa:** Voluntad
 
-Obligas al objetivo a ver una vision de su propia muerte. Sufre 8d6 dano mental y tiene que hacer una salvacion de Voluntad. Si el objetivo queda reducido a 0 PG por este conjuro, su vision se convierte en realidad y lo mata instantaneamente.
+Obligas al objetivo a ver una vision de su propia muerte. Sufre 8d6 dano mental y tiene que hacer una salvación de Voluntad. Si el objetivo queda reducido a 0 PG por este conjuro, su vision se convierte en realidad y lo mata instantaneamente.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -377,7 +377,7 @@ Te concedes a ti mismo una vision sobrenatural en areas de oscuridad. Obtienes v
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 10 minutos
 
-Ves las cosas que estan a 60 pies (18 m) o menos como son en realidad. El DJ hace una prueba secreta de contrarrestar contra cualquier ilusion, efecto de morfismo o de polimorfia en el area, pero solo a efectos de determinar si consigues ver a traves de el (por ejemplo, si la prueba tiene exito contra un conjuro de polimorfia, puedes ver la forma verdadera de la criatura, pero no acabas con el efecto de polimorfia).
+Ves las cosas que estan a 60 pies (18 m) o menos como son en realidad. El DJ hace una prueba secreta de contrarrestar contra cualquier ilusión, efecto de morfismo o de polimorfia en el area, pero solo a efectos de determinar si consigues ver a traves de el (por ejemplo, si la prueba tiene éxito contra un conjuro de polimorfia, puedes ver la forma verdadera de la criatura, pero no acabas con el efecto de polimorfia).
 
 ---
 
@@ -419,7 +419,7 @@ Un zarcillo aparece de la nada, girando rapidamente desde tu mano y aferrandose 
 **Area:** linea de 30 pies (9 m)
 **Defensa:** Fortaleza
 
-Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el aire. Infliges 2d4 dano por vacio y 1 dano persistente por sangrado a las criaturas vivas en la linea. Cada criatura viva en la linea tiene que hacer una salvacion de Fortaleza.
+Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el aire. Infliges 2d4 dano por dacio y 1 dano persistente por sangrado a las criaturas vivas en la linea. Cada criatura viva en la linea tiene que hacer una salvación de Fortaleza.
 
 **Exito critico** La criatura no resulta afectada.
 

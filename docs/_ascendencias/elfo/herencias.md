@@ -62,4 +62,4 @@ Tienes una aptitud innata para detectar y entender los fenómenos mágicos.
 
 **Beneficio:** Puedes lanzar a voluntad el truco mágico *detectar magia* como un conjuro innato arcano. Un truco se potencia a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba.
 
-Además, obtienes un bonificador +1 por circunstancia a las pruebas para Identificar magia y para Descifrar escritura de naturaleza mágica. Estas acciones de habilidad suelen utilizar las habilidades Arcanos, Naturaleza, Ocultismo o Religión.
+Además, obtienes un bonificados +1 por circunstancia a las pruebas para Identificar magia y para Descifrar escritura de naturaleza mágica. Estas acciones de habilidad suelen utilizar las habilidades Arcanos, Naturaleza, Ocultismo o Religión.

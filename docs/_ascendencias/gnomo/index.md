@@ -53,7 +53,7 @@ Sus nombres pueden ser bastante complejos y polisilábicos ya que raramente se p
 
 ### Ejemplos de nombres
 
-Abroshtor, Bastargre, Besh, Fijit, Halungalom, Krolmnite, Neji, Majet, Pai, Poshment, Queck, Trig, Zarzuket, Zatqualmie
+Abroshtor, Bastargre, Besh, Fijit, Halungalom, Krolmnite, Neji, Majet, Pai, Poshment, Queco, Trig, Zarzuket, Zatqualmie
 
 ## Creencias
 

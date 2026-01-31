@@ -56,7 +56,7 @@ Si ambos ataques aciertan, combina el daño y suma después cualquier otro efect
 
 **Requisitos** Empuñas un escudo.
 
-Puedes colocar tu escudo en su lugar cuando te llevarías un golpe, evitando el impacto en el último segundo. Utilizas de inmediato la acción Alzar un escudo y obtienes el bonificador a la CA debido al mismo. El bonificador por circunstancia del escudo se aplica a tu CA cuando determinas el desenlace del ataque desencadenante.
+Puedes colocar tu escudo en su lugar cuando te llevarías un golpe, evitando el impacto en el último segundo. Utilizas de inmediato la acción Alzar un escudo y obtienes el bonificados a la CA debido al mismo. El bonificados por circunstancia del escudo se aplica a tu CA cuando determinas el desenlace del ataque desencadenante.
 
 ---
 
@@ -65,7 +65,7 @@ Puedes colocar tu escudo en su lugar cuando te llevarías un golpe, evitando el 
 
 *Guerrero*
 
-Llevas a cabo un ataque telegrafiado para aprender cosas acerca de tu enemigo. Da un Golpe cuerpo a cuerpo. Con un impacto, puedes hacer de inmediato una prueba de Recordar conocimiento acerca del objetivo. Con un impacto crítico, obtienes un bonificador +2 por circunstancia a la prueba de Recordar conocimiento. El objetivo queda temporalmente inmune a Evaluación de combate durante 1 día.
+Llevas a cabo un ataque telegrafiado para aprender cosas acerca de tu enemigo. Da un Golpe cuerpo a cuerpo. Con un impacto, puedes hacer de inmediato una prueba de Recordar conocimiento acerca del objetivo. Con un impacto crítico, obtienes un bonificados +2 por circunstancia a la prueba de Recordar conocimiento. El objetivo queda temporalmente inmune a Evaluación de combate durante 1 día.
 
 ---
 
@@ -96,7 +96,7 @@ Llevas a cabo un ataque de continuación controlado, aprovechando por completo t
 
 **Requisitos** Empuñas una arma a distancia.
 
-Apuntas para eliminar rápidamente a enemigos cercanos. Cuando utilizas un arma a distancia de volea mientras estás en esta posición, no sufres el penalizador a tus tiradas de ataque debido al rasgo volea. Cuando utilizas un arma a distancia que no tiene el rasgo volea, obtienes un bonificador +2 por circunstancia a las tiradas de daño en los ataques contra objetivos que están en el primer incremento de rango de distancia del arma.
+Apuntas para eliminar rápidamente a enemigos cercanos. Cuando utilizas un arma a distancia de volea mientras estás en esta posición, no sufres el penalizador a tus tiradas de ataque debido al rasgo volea. Cuando utilizas un arma a distancia que no tiene el rasgo volea, obtienes un bonificados +2 por circunstancia a las tiradas de daño en los ataques contra objetivos que están en el primer incremento de rango de distancia del arma.
 
 ---
 
@@ -151,7 +151,7 @@ Has practicado cambiar rápidamente de estilo de combate y el equipo necesario p
 
 **Requisitos** Empuñas un arma a distancia.
 
-Utilizando tu disparo anterior para calibrar tu puntería, puedes hacer un disparo rápido para interferir con un enemigo en combate. Da un Golpe con un arma a distancia. Si el Golpe acierta, la siguiente criatura distinta a ti en atacar al mismo objetivo antes del inicio de tu siguiente turno obtiene un bonificador +1 por circunstancia a su tirada, o un bonificador +2 por circunstancia si tu Golpe resulta en un impacto crítico.
+Utilizando tu disparo anterior para calibrar tu puntería, puedes hacer un disparo rápido para interferir con un enemigo en combate. Da un Golpe con un arma a distancia. Si el Golpe acierta, la siguiente criatura distinta a ti en atacar al mismo objetivo antes del inicio de tu siguiente turno obtiene un bonificados +1 por circunstancia a su tirada, o un bonificados +2 por circunstancia si tu Golpe resulta en un impacto crítico.
 
 ---
 
@@ -208,7 +208,7 @@ Haces rebotar tu arma en un enemigo para que impacte en otro. Da un Golpe a dist
 
 **Requisitos** Empuñas tan solo un arma cuerpo a cuerpo a una mano y no tienes nada más en las manos.
 
-Puedes parar ataques dirigidos contra ti con tu arma a una mano. Obtienes un bonificador +2 por circunstancia a la CA hasta el inicio de tu siguiente turno si continúas cumpliendo los requisitos.
+Puedes parar ataques dirigidos contra ti con tu arma a una mano. Obtienes un bonificados +2 por circunstancia a la CA hasta el inicio de tu siguiente turno si continúas cumpliendo los requisitos.
 
 ---
 
@@ -236,7 +236,7 @@ Este Golpe tiene el siguiente efecto de fallo.
 
 **Requisitos** Empuñas un arma cuerpo a cuerpo a una mano y tienes una mano libre.
 
-Mueves rápidamente la mano libre para agarrar tu arma lo suficiente como para añadir impulso y asestar un golpe más poderoso a tu oponente. Da un Golpe con el arma requerida. Cambias rápidamente de agarre durante el Golpe para atacar con las dos manos. Si el arma no dispone normalmente del rasgo a dos manos, incrementa su dado de daño por arma un paso para este ataque. Si el arma tiene el rasgo a dos manos, obtienes el beneficio de dicho rasgo y un bonificador por circunstancia al daño igual al número de dados de daño del arma. Cuando el Golpe se completa, vuelves a agarrar el arma sólo con una mano. Esta acción no acaba con ninguna posición ni con ningún efecto de dote de guerrero que requiere tener una mano libre.
+Mueves rápidamente la mano libre para agarrar tu arma lo suficiente como para añadir impulso y asestar un golpe más poderoso a tu oponente. Da un Golpe con el arma requerida. Cambias rápidamente de agarre durante el Golpe para atacar con las dos manos. Si el arma no dispone normalmente del rasgo a dos manos, incrementa su dado de daño por arma un paso para este ataque. Si el arma tiene el rasgo a dos manos, obtienes el beneficio de dicho rasgo y un bonificados por circunstancia al daño igual al número de dados de daño del arma. Cuando el Golpe se completa, vuelves a agarrar el arma sólo con una mano. Esta acción no acaba con ninguna posición ni con ningún efecto de dote de guerrero que requiere tener una mano libre.
 
 ---
 
@@ -315,7 +315,7 @@ Cuando una criatura a la que Empujas o echas atrás mediante un efecto de especi
 
 **Requisitos** Empuñas dos armas cuerpo a cuerpo, una en cada mano.
 
-Utilizas ambas armas para parar ataques. Obtienes un bonificador +1 por circunstancia a la CA hasta el inicio de tu siguiente turno, o bien un bonificador +2 por circunstancia si cualquiera de las dos tiene el rasgo parada. Pierdes el bonificador si dejas de cumplir los requisitos de esta dote.
+Utilizas ambas armas para parar ataques. Obtienes un bonificados +1 por circunstancia a la CA hasta el inicio de tu siguiente turno, o bien un bonificados +2 por circunstancia si cualquiera de las dos tiene el rasgo parada. Pierdes el bonificados si dejas de cumplir los requisitos de esta dote.
 
 ---
 
@@ -346,7 +346,7 @@ Cuando tienes el escudo alzado, los golpes de tus enemigos no te pueden tocar. C
 
 *Aprovechar, Guerrero*
 
-Tras comprometer el movimiento de tu enemigo, le asestas un golpe más mortal. Da un Golpe contra una criatura que está apresada, tumbada o neutralizada. Obtienes un bonificador por circunstancia al daño en este Golpe igual al número de dados de daño por arma o dicha cifra +2 si empuñas el arma a dos manos. El Golpe obtiene el siguiente efecto de fallo.
+Tras comprometer el movimiento de tu enemigo, le asestas un golpe más mortal. Da un Golpe contra una criatura que está apresada, tumbada o neutralizada. Obtienes un bonificados por circunstancia al daño en este Golpe igual al número de dados de daño por arma o dicha cifra +2 si empuñas el arma a dos manos. El Golpe obtiene el siguiente efecto de fallo.
 
 **Fallo** Infliges al objetivo tanto daño como el número de dados de daño por arma o dicha cifra +2 si empuñas el arma a dos manos. Este daño es del mismo tipo que el del arma.
 
@@ -361,7 +361,7 @@ Tras comprometer el movimiento de tu enemigo, le asestas un golpe más mortal. D
 
 **Requisitos** Empuñas tan solo un arma cuerpo a cuerpo a una mano y no tienes nada más en las manos.
 
-Utilizas tu arma para desviar el ataque dirigido a tu aliado, lo que le concede un bonificador +2 por circunstancia a su CA contra el ataque desencadenante. Esto convierte el impacto crítico desencadenante en un impacto normal o un impacto normal en un fallo.
+Utilizas tu arma para desviar el ataque dirigido a tu aliado, lo que le concede un bonificados +2 por circunstancia a su CA contra el ataque desencadenante. Esto convierte el impacto crítico desencadenante en un impacto normal o un impacto normal en un fallo.
 
 ---
 
@@ -390,7 +390,7 @@ Has estudiado el arte de empuñar un arma avanzada. Elige un grupo de armas. Obt
 
 *Guerrero*
 
-Puedes utilizar el escudo para que te proteja de explosiones y cosas parecidas. Cuando Alzas tu escudo, obtienes el bonificador por circunstancia del mismo a las salvaciones de Reflejos.
+Puedes utilizar el escudo para que te proteja de explosiones y cosas parecidas. Cuando Alzas tu escudo, obtienes el bonificados por circunstancia del mismo a las salvaciones de Reflejos.
 
 **Especial** Si dispones de la reacción Bloqueo con el escudo, el daño que sufres como resultado de una salvación de Reflejos puede desencadenar dicha reacción, incluso si no es físico.
 
@@ -452,7 +452,7 @@ Adoptas una posición que hace rebotar hacia ti tus armas arrojadizas. Mientras 
 
 **Requisitos** Empuñas tan solo un arma cuerpo a cuerpo a una mano y no tienes nada más en las manos.
 
-Adoptas una posición de esgrima que mejora tu control sobre tu arma. Mientras te encuentras en esta posición, obtienes un bonificador +1 por circunstancia a las pruebas de Atletismo para Desarmar y un bonificador +2 por circunstancia a tu CD de Reflejos cuando defiendes contra pruebas para Desarmarte. Además, puedes intentar Desarmar a criaturas hasta dos tamaños mayores que tú.
+Adoptas una posición de esgrima que mejora tu control sobre tu arma. Mientras te encuentras en esta posición, obtienes un bonificados +1 por circunstancia a las pruebas de Atletismo para Desarmar y un bonificados +2 por circunstancia a tu CD de Reflejos cuando defiendes contra pruebas para Desarmarte. Además, puedes intentar Desarmar a criaturas hasta dos tamaños mayores que tú.
 
 ---
 
@@ -555,7 +555,7 @@ Tus disparos se vuelven ágiles y letales. Cuando estás en esta posición, tus 
 
 *Concentrar, Guerrero*
 
-Invirtiendo un momento para centrarte, puedes asegurarte de que tu ataque es certero. Da un Golpe con una arma a distancia. Para este Golpe, obtienes un bonificador +2 por circunstancia a la tirada de ataque e ignoras el estado de oculto del objetivo.
+Invirtiendo un momento para centrarte, puedes asegurarte de que tu ataque es certero. Da un Golpe con una arma a distancia. Para este Golpe, obtienes un bonificados +2 por circunstancia a la tirada de ataque e ignoras el estado de oculto del objetivo.
 
 ---
 
@@ -594,7 +594,7 @@ Al hacer un Salto de altura o un Salto de longitud durante un Salto repentino, d
 
 **Prerrequisitos** Valentía.
 
-Incluso tus temores alimentan tu espíritu de lucha. Cuando obtienes un éxito crítico en una salvación de Voluntad contra una aptitud de un enemigo, obtienes además un bonificador +1 por estatus a las salvaciones y tantos Puntos de Golpe temporales como la mitad de tu nivel durante 1 minuto. Estos beneficios se doblan si obtienes un éxito crítico contra un efecto de miedo.
+Incluso tus temores alimentan tu espíritu de lucha. Cuando obtienes un éxito crítico en una salvación de Voluntad contra una aptitud de un enemigo, obtienes además un bonificados +1 por estatus a las salvaciones y tantos Puntos de Golpe temporales como la mitad de tu nivel durante 1 minuto. Estos beneficios se doblan si obtienes un éxito crítico contra un efecto de miedo.
 
 ---
 
@@ -605,9 +605,9 @@ Incluso tus temores alimentan tu espíritu de lucha. Cuando obtienes un éxito c
 
 *Guerrero*
 
-El miedo hace que tus enemigos sean débiles y más vulnerables a tus ataques. Obtienes un bonificador por circunstancia a las tiradas de daño de los Golpes contra las criaturas asustadas. Este bonificador es igual al doble del valor de asustado del objetivo.
+El miedo hace que tus enemigos sean débiles y más vulnerables a tus ataques. Obtienes un bonificados por circunstancia a las tiradas de daño de los Golpes contra las criaturas asustadas. Este bonificados es igual al doble del valor de asustado del objetivo.
 
-Si tienes el rango maestro en Intimidación, aumenta el bonificador hasta el triple del valor de asustado del objetivo.
+Si tienes el rango maestro en Intimidación, aumenta el bonificados hasta el triple del valor de asustado del objetivo.
 
 ---
 
@@ -660,7 +660,7 @@ Apuntando a un punto débil, dejas impedido a tu enemigo con un disparo preciso.
 
 **Requisitos** Eres consciente del ataque, no estás desprevenido contra él y, o bien tienes una mano libre, o bien empuñas un arma cuerpo a cuerpo.
 
-Puedes desviar los ataques a distancia. Obtienes un bonificador +4 por circunstancia a la CA contra el ataque desencadenante. Si el ataque falla, lo has desviado o lo has abatido en pleno vuelo.
+Puedes desviar los ataques a distancia. Obtienes un bonificados +4 por circunstancia a la CA contra el ataque desencadenante. Si el ataque falla, lo has desviado o lo has abatido en pleno vuelo.
 
 ---
 
@@ -852,7 +852,7 @@ Tu arma gira y avanza, acertando a tus enemigos siempre que se presenta la menor
 
 Tu entrenamiento te permite ignorar los conjuros y los estados impuestos por tus enemigos cuando la necesidad aprieta. Elige un solo estado, conjuro o efecto mágico no permanente que te está afectando. Si eliges un estado, su efecto sobre ti se acaba. Si eliges un conjuro, contrarréstalo (tu nivel de contrarrestar es igual a la mitad de tu nivel, redondeado hacia arriba y haces una salvación de Voluntad como prueba de contrarrestar).
 
-Esto no quita ningun daño en Puntos de Golpe que ya has sufrido debido al conjuro o al estado y tan solo te quita el efecto a ti, no a otras criaturas o al entorno que te rodea. No puede eliminar ninguna aflicción continuada ni prevenir que dicha aflicción te inflinja estados posteriormente. No puede eliminar estados impuestos automáticamente debido a tu situación o posición (como por ejemplo tumbado o flanqueado).
+Esto no quita ningún daño en Puntos de Golpe que ya has sufrido debido al conjuro o al estado y tan solo te quita el efecto a ti, no a otras criaturas o al entorno que te rodea. No puede eliminar ninguna aflicción continuada ni prevenir que dicha aflicción te infrinja estados posteriormente. No puede eliminar estados impuestos automáticamente debido a tu situación o posición (como por ejemplo tumbado o flanqueado).
 
 ---
 

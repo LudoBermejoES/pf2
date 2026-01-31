@@ -13,7 +13,7 @@ nav_order: 6
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** variable
 
-El objetivo se ve abrumado por un ansia absorbente de bailar. Mientras dura el conjuro, el objetivo queda desprevenido y no puede utilizar reacciones. Tampoco puede utilizar acciones de movimiento excepto para bailar, utilizando la accion Zancada para moverse hasta la mitad de su velocidad.
+El objetivo se ve abrumado por un ansia absorbente de bailar. Mientras dura el conjuro, el objetivo queda desprevenido y no puede utilizar reacciones. Tampoco puede utilizar acciones de movimiento excepto para bailar, utilizando la acción Zancada para moverse hasta la mitad de su velocidad.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -30,11 +30,11 @@ El objetivo se ve abrumado por un ansia absorbente de bailar. Mientras dura el c
 **Tradiciones:** divina
 **Rango de distancia:** variable; **Objetivos:** 1 criatura viva o 1 criatura muerta viviente voluntaria
 
-Canalizas energias del vacio para danar a los vivos o curar a los muertos vivientes. Si el objetivo es una criatura viva, infliges 1d8 dano por vacio a la misma, con una salvacion basica de Fortaleza. Si el objetivo es una criatura muerta viviente voluntaria, restableces dicha cantidad de Puntos de Golpe. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demas parametros.
+Canalizas energias del dacio para danar a los vivos o curar a los muertos vivientes. Si el objetivo es una criatura viva, infliges 1d8 dano por dacio a la misma, con una salvación basica de Fortaleza. Si el objetivo es una criatura muerta viviente voluntaria, restableces dicha cantidad de Puntos de Golpe. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demas parametros.
 
 - ◆ El conjuro tiene un alcance de toque.
 - ◆◆ (concentrar) El conjuro tiene un alcance de 30 pies (9 m). Si estas curando a una criatura muerta viviente, incrementa en 8 los Puntos de Golpe restablecidos.
-- ◆◆◆ (concentrar) Dispersas energia del vacio en una emanacion de 30 pies (9 m). Esta energia tiene como objetivo todas las criaturas vivas y muertas vivientes en el area.
+- ◆◆◆ (concentrar) Dispersas energia del dacio en una emanación de 30 pies (9 m). Esta energia tiene como objetivo todas las criaturas vivas y muertas vivientes en el area.
 
 **Potenciado (+1)** La cantidad de curacion o de dano se incrementa en 1d8 y la curacion adicional por la version de 2 acciones se incrementa en 8.
 
@@ -46,7 +46,7 @@ Canalizas energias del vacio para danar a los vivos o curar a los muertos vivien
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duracion:** variable
 
-Debilitas al objetivo, dependiendo de su salvacion de Fortaleza.
+Debilitas al objetivo, dependiendo de su salvación de Fortaleza.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -64,7 +64,7 @@ Debilitas al objetivo, dependiendo de su salvacion de Fortaleza.
 **Rango de distancia:** 40 pies (12 m); **Area:** emanacion de 40 pies (12 m)
 **Defensa:** Fortaleza; **Duracion:** variable
 
-Entonas una potente letania de tu fe, un mandato que dana a quienes se oponen a tus ideales. Infliges 7d10 dano espiritual a tus enemigos en el area; cada enemigo tiene que hacer una salvacion de Fortaleza.
+Entonas una potente letanía de tu fe, un mandato que dana a quienes se oponen a tus ideales. Infliges 7d10 dano espiritual a tus enemigos en el area; cada enemigo tiene que hacer una salvación de Fortaleza.
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -84,7 +84,7 @@ Entonas una potente letania de tu fe, un mandato que dana a quienes se oponen a 
 **Area:** cono de 30 pies (9 m)
 **Defensa:** Fortaleza basica
 
-Extraes la sangre y la fuerza vital de otras criaturas a traves de tus brazos extendidos. Infliges 12d6 dano por vacio a las criaturas vivas en el area, que tienen que hacer una salvacion basica de Fortaleza. Obtienes tantos Puntos de Golpe temporales como la mitad del dano que sufre una sola criatura debido a este conjuro; calculalos utilizando la criatura que sufre mas dano. Al cabo de 1 minuto, pierdes todos los Puntos de Golpe temporales que te quedan.
+Extraes la sangre y la fuerza vital de otras criaturas a traves de tus brazos extendidos. Infliges 12d6 dano por dacio a las criaturas vivas en el area, que tienen que hacer una salvación basica de Fortaleza. Obtienes tantos Puntos de Golpe temporales como la mitad del dano que sufre una sola criatura debido a este conjuro; calculamos utilizando la criatura que sufre mas dano. Al cabo de 1 minuto, pierdes todos los Puntos de Golpe temporales que te quedan.
 
 **Potenciado (+1)** El dano se incrementa en 2d6.
 
@@ -96,7 +96,7 @@ Extraes la sangre y la fuerza vital de otras criaturas a traves de tus brazos ex
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duracion:** 10 minutos
 
-Escudas a una criatura de los sentidos de otros. El objetivo se vuelve no detectado, no tan solo a la vista sino a todos los sentidos, lo que le permite contar como invisible sean cuales sean los sentidos precisos e imprecisos de que disponga un observador. Sigue siendo posible para una criatura encontrar al objetivo Buscando, fijandose en si hay polvo removido, encontrando huecos en el espectro de sonido o mediante alguna otra forma de descubrir la presencia de una criatura que por lo demas seria indetectable.
+Escudas a una criatura de los sentidos de otros. El objetivo se vuelve no detectado, no tan solo a la vista sino a todos los sentidos, lo que le permite contar como invisible sean cuales sean los sentidos precisos e imprecisos de que disponga un observador. Sigue siendo posible para una criatura encontrar al objetivo Buscando, fijándose en si hay polvo removido, encontrando huecos en el espectro de sonido o mediante alguna otra forma de descubrir la presencia de una criatura que por lo demas seria indetectable.
 
 ---
 
@@ -105,7 +105,7 @@ Escudas a una criatura de los sentidos de otros. El objetivo se vuelve no detect
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 
-Disparas una esquirla de magia solidificada contra una criatura a la que puedes ver. Impacta automaticamente e inflige 1d4+1 dano por fuerza. Por cada accion adicional que utilizas cuando Lanzas el conjuro, incrementa en 1 el numero de esquirlas que lanzas, hasta un maximo de 3 esquirlas para 3 acciones. Eliges el objetivo de cada esquirla de forma individual. Si disparas mas de una esquirla contra el mismo objetivo, combina el dano antes de aplicar bonificadores o penalizadores al dano, resistencias, debilidades, etc.
+Disparas una esquirla de magia solidificada contra una criatura a la que puedes ver. Impacta automaticamente e inflige 1d4+1 dano por fuerza. Por cada acción adicional que utilizas cuando Lanzas el conjuro, incrementa en 1 el numero de esquirlas que lanzas, hasta un maximo de 3 esquirlas para 3 acciones. Eliges el objetivo de cada esquirla de forma individual. Si disparas mas de una esquirla contra el mismo objetivo, combina el dano antes de aplicar bonificadores o penalizadores al dano, resistencias, debilidades, etc.
 
 **Potenciado (+2)** Disparas una esquirla adicional con cada accion que inviertes.
 
@@ -117,7 +117,7 @@ Disparas una esquirla de magia solidificada contra una criatura a la que puedes 
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** cualquier numero de criaturas vivas
 **Defensa:** Fortaleza basica
 
-Extraes la humedad del cuerpo de los objetivos, infligiendo 10d10 dano por vacio. Las criaturas hechas de agua (como por ejemplo los elementales de agua) y las criaturas tipo planta utilizan el resultado de un grado de exito peor que el de su tirada de salvacion. Las criaturas cuyo cuerpo no contiene una cantidad de humedad significativa (como por ejemplo los elementales de tierra) son inmunes a desecar.
+Extraes la humedad del cuerpo de los objetivos, infligiendo 10d10 dano por dacio. Las criaturas hechas de agua (como por ejemplo los elementales de agua) y las criaturas tipo planta utilizan el resultado de un grado de éxito peor que el de su tirada de salvación. Las criaturas cuyo cuerpo no contiene una cantidad de humedad significativa (como por ejemplo los elementales de tierra) son inmunes a desecar.
 
 **Potenciado (+1)** El dano se incrementa en 1d10.
 
@@ -129,9 +129,9 @@ Extraes la humedad del cuerpo de los objetivos, infligiendo 10d10 dano por vacio
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura, objeto desatendido o constructo de fuerza
 **Defensa:** CA y Fortaleza basica
 
-Un virote trazador negro vuela hacia tu objetivo y, al entrar en contacto con el, se intensifica hasta convertirse en un potente rayo destructor. Haz un ataque de conjuro contra el objetivo. Si aciertas a un objeto o constructo de fuerza (como por ejemplo un muro de fuerza), queda destruido sin salvacion si no es un artefacto u objeto similarmente poderoso. Un solo lanzamiento no puede destruir mas de un cubo de materia de 10 pies (3 m) de lado.
+Un virote trazador negro vuela hacia tu objetivo y, al entrar en contacto con el, se intensifica hasta convertirse en un potente rayo destructor. Haz un ataque de conjuro contra el objetivo. Si aciertas a un objeto o constructo de fuerza (como por ejemplo un muro de fuerza), queda destruido sin salvación si no es un artefacto u objeto similarmente poderoso. Un solo lanzamiento no puede destruir mas de un cubo de materia de 10 pies (3 m) de lado.
 
-Si aciertas a una criatura, sufre 12d10 dano (sin tipo de dano) con una salvacion basica de Fortaleza. Si obtienes un impacto critico, el objetivo obtiene un resultado con un grado de exito peor que el correspondiente a su salvacion de Fortaleza. Una criatura reducida a 0 PG queda reducida a un polvillo fino; su equipo permanece.
+Si aciertas a una criatura, sufre 12d10 dano (sin tipo de dano) con una salvación basica de Fortaleza. Si obtienes un impacto critico, el objetivo obtiene un resultado con un grado de éxito peor que el correspondiente a su salvación de Fortaleza. Una criatura reducida a 0 PG queda reducida a un polvillo fino; su equipo permanece.
 
 **Potenciado (+1)** El dano se incrementa en 2d10.
 
@@ -142,7 +142,7 @@ Si aciertas a una criatura, sufre 12d10 dano (sin tipo de dano) con una salvacio
 **Tradiciones:** divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 
-Expulsas la contaminacion mental del cerebro del objetivo. Contrarrestas un efecto elegido por ti, que impone uno de los siguientes estados al objetivo: huyendo, asustado y anonadado. Si no consigues contrarrestar el efecto pero lo habrias conseguido si su rango de contrarrestar hubiera sido 2 rangos menor, en su lugar suprimes el efecto hasta el inicio de tu siguiente turno. La duracion de un efecto no se gasta mientras esta suprimido. Este conjuro no puede contrarrestar o suprimir estados que forman parte de maldiciones, enfermedades o un estado natural del objetivo.
+Expulsas la contaminación mental del cerebro del objetivo. Contrarrestas un efecto elegido por ti, que impone uno de los siguientes estados al objetivo: huyendo, asustado y anonadado. Si no consigues contrarrestar el efecto pero lo sabrías conseguido si su rango de contrarrestar hubiera sido 2 rangos menor, en su lugar suprimes el efecto hasta el inicio de tu siguiente turno. La duración de un efecto no se gasta mientras esta suprimido. Este conjuro no puede contrarrestar o suprimir estados que forman parte de maldiciones, enfermedades o un estado natural del objetivo.
 
 **Potenciado (4.o)** Anade confundido, controlado y lentificado a la lista de estados.
 
@@ -158,7 +158,7 @@ Expulsas la contaminacion mental del cerebro del objetivo. Contrarrestas un efec
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura que no esta en su Plano natal
 **Defensa:** Voluntad
 
-Envias al objetivo de vuelta a su Plano natal. El objetivo tiene que llevar a cabo una salvacion de Voluntad. Puedes invertir una accion adicional mientras Lanzas este conjuro y anadir un coste al mismo para imponer a la criatura un penalizador -2 por circunstancia a su salvacion. El coste tiene que ser un objeto especialmente elegido, que resulta anatema para la criatura. El conjuro falla si no estas en tu Plano natal cuando lo lanzas.
+Envias al objetivo de vuelta a su Plano natal. El objetivo tiene que llevar a cabo una salvación de Voluntad. Puedes invertir una acción adicional mientras Lanzas este conjuro y añadir un coste al mismo para imponer a la criatura un penalizador -2 por circunstancia a su salvación. El coste tiene que ser un objeto especialmente elegido, que resulta anatema para la criatura. El conjuro falla si no estas en tu Plano natal cuando lo lanzas.
 
 **Exito critico** El objetivo se resiste a ser desterrado y tu quedas aturdido 1.
 
@@ -177,7 +177,7 @@ Envias al objetivo de vuelta a su Plano natal. El objetivo tiene que llevar a ca
 **Tradiciones:** primigenia
 **Duracion:** 1 hora
 
-Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastrearte obtendra un bonificador +4 por estatus o sera igual a tu CD de conjuros, lo que arroje un resultado mayor.
+Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastrearte obtendrá un bonificados +4 por estatus o sera igual a tu CD de conjuros, lo que arroje un resultado mayor.
 
 **Potenciado (2.o)** La duracion se incrementa a 8 horas.
 
@@ -191,7 +191,7 @@ Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastr
 **Area:** emanacion de 30 pies (9 m)
 **Duracion:** 1 hora
 
-Leyendo los rastros de las auras, detectas la presencia de los efectos de escudrinamiento en el area. Si detectar escudrinamiento es de mayor rango que un efecto de escudrinamiento, obtienes un atisbo de la criatura responsable y averiguas su distancia y direccion aproximadas.
+Leyendo los rastros de las auras, detectas la presencia de los efectos de escudriñamiento en el area. Si detectar escudriñamiento es de mayor rango que un efecto de escudriñamiento, obtienes un atisbo de la criatura responsable y averiguas su distancia y dirección aproximadas.
 
 **Potenciado (6.o)** La duracion es hasta tus siguientes preparativos diarios.
 
@@ -202,9 +202,9 @@ Leyendo los rastros de las auras, detectas la presencia de los efectos de escudr
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Area:** emanacion de 30 pies (9 m)
 
-Envias un pulso que registra la presencia de la magia. No recibes otra informacion aparte de la presencia o la ausencia de magia. Puedes ignorar la magia de la que eres consciente, como por ejemplo los objetos magicos y los conjuros activos, tanto tuyos como de tus aliados.
+Envias un pulso que registra la presencia de la magia. No recibes otra información aparte de la presencia o la ausencia de magia. Puedes ignorar la magia de la que eres consciente, como por ejemplo los objetos mágicos y los conjuros activos, tanto tuyos como de tus aliados.
 
-Tan solo detectas la magia de ilusion si el efecto de dicha magia tiene un rango inferior que el de tu conjuro de detectar magia. Sin embargo, los objetos que tienen un aura de ilusion pero no son enganosos en apariencia (como por ejemplo una pocion de invisibilidad) se suelen detectar normalmente.
+Tan solo detectas la magia de ilusión si el efecto de dicha magia tiene un rango inferior que el de tu conjuro de detectar magia. Sin embargo, los objetos que tienen un aura de ilusión pero no son enganosos en apariencia (como por ejemplo una opción de invisibilidad) se suelen detectar normalmente.
 
 **Potenciado (3.o)** Averiguas el rango del efecto magico mas poderoso que detecta el conjuro, a determinar por el DJ.
 
@@ -229,7 +229,7 @@ Detectas si una criatura es venenosa, o si un objeto es veneno o ha sido envenen
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 objeto magico o efecto de conjuro
 **Defensa:** Reflejos basica (ver texto)
 
-Haces que la magia del objetivo se disipe en una explosion destructiva. Contrarrestas al objetivo. Si la prueba tiene exito, una explosion de Fuerza magica inflige 8d6 dano por fuerza con una salvacion basica de Reflejos. Si contrarrestas con exito la magia del objeto, queda desactivado durante 1 semana (o destruido con un exito critico) y la explosion es una emanacion de 5 pies (1,5 m) a partir del objeto. Si contrarrestas con exito un conjuro, el efecto se acaba y la explosion, o bien afecta a todas las criaturas en el area del conjuro, o al objetivo de conjuro y todas las criaturas en una emanacion de 5 pies (1,5 m) a su alrededor.
+Haces que la magia del objetivo se disipe en una explosion destructiva. Contrarrestas al objetivo. Si la prueba tiene éxito, una explosion de Fuerza magica inflige 8d6 dano por fuerza con una salvación basica de Reflejos. Si contrarrestas con éxito la magia del objeto, queda desactivado durante 1 semana (o destruido con un éxito critico) y la explosion es una emanación de 5 pies (1,5 m) a partir del objeto. Si contrarrestas con éxito un conjuro, el efecto se acaba y la explosion, o bien afecta a todas las criaturas en el area del conjuro, o al objetivo de conjuro y todas las criaturas en una emanación de 5 pies (1,5 m) a su alrededor.
 
 ---
 
@@ -239,7 +239,7 @@ Haces que la magia del objetivo se disipe en una explosion destructiva. Contrarr
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duracion:** mantenido
 
-Transportas al objetivo a una habitacion rompecabezas extraplanaria de origen misterioso, encerrandola alli. Una vez por turno como una sola accion, el objetivo puede hacer una prueba de Ocultismo, Percepcion o Latrocinio contra tu CD de conjuros para resolver el rompecabezas. Los efectos de teletransporte no pueden transportar al objetivo al exterior de la habitacion rompecabezas a menos que tambien puedan atravesar los Planos, como por ejemplo teletransporte interplanario. Cuando acaba el conjuro, el objetivo vuelve al espacio que ocupaba cuando fue desterrado, o al mas cercano si el original esta ahora ocupado.
+Transportas al objetivo a una habitación rompecabezas extraplanaria de origen misterioso, encerrandola allí. Una vez por turno como una sola acción, el objetivo puede hacer una prueba de Ocultismo, Percepción o Latrocinio contra tu CD de conjuros para resolver el rompecabezas. Los efectos de teletransporte no pueden transportar al objetivo al exterior de la habitación rompecabezas a menos que tambien puedan atravesar los Planos, como por ejemplo teletransporte interplanario. Cuando acaba el conjuro, el objetivo vuelve al espacio que ocupaba cuando fue desterrado, o al mas cercano si el original esta ahora ocupado.
 
 **Exito critico** El objetivo resuelve el rompecabezas y huye.
 
@@ -257,9 +257,9 @@ Transportas al objetivo a una habitacion rompecabezas extraplanaria de origen mi
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura voluntaria
 **Duracion:** 1 hora
 
-Creas una ilusion que hace que el objetivo parezca otra criatura de la misma forma corporal y de estatura aproximadamente similar (mas o menos 6 pulgadas [15 cm]) y peso (mas o menos 50 libras [22,5 kg]). El disfraz es tipicamente lo bastante bueno como para ocultar su identidad, pero no para imitar a un individuo especifico. El conjuro cambia su apariencia y su voz, pero no sus manierismos. Puedes cambiar la apariencia de su ropa y de los objetos que lleva puestos, como por ejemplo hacer que su armadura parezca un vestido. Los objetos sostenidos no resultan afectados y cualquier objeto puesto sacado de la criatura vuelve a su apariencia verdadera.
+Creas una ilusión que hace que el objetivo parezca otra criatura de la misma forma corporal y de estatura aproximadamente similar (mas o menos 6 pulgadas [15 cm]) y peso (mas o menos 50 libras [22,5 kg]). El disfraz es tipicamente lo bastante bueno como para ocultar su identidad, pero no para imitar a un individuo especifico. El conjuro cambia su apariencia y su voz, pero no sus manierismos. Puedes cambiar la apariencia de su ropa y de los objetos que lleva puestos, como por ejemplo hacer que su armadura parezca un vestido. Los objetos sostenidos no resultan afectados y cualquier objeto puesto sacado de la criatura vuelve a su apariencia verdadera.
 
-Lanzar disfraz ilusorio equivale a preparar un disfraz para el uso Imitar de Engano; ignora cualquier penalizador por circunstancia que el objetivo podria sufrir por disfrazarse como una criatura no similar, concede un bonificador +4 a las pruebas de Engano para evitar que otros vean a traves del disfraz y permite al objetivo sumar su nivel a dichas pruebas de Engano incluso si no esta entrenado. Puedes Disipar este conjuro.
+Lanzar disfraz ilusorio equivale a preparar un disfraz para el uso Imitar de Engano; ignora cualquier penalizador por circunstancia que el objetivo podría sufrir por disfrazarse como una criatura no similar, concede un bonificados +4 a las pruebas de Engano para evitar que otros vean a traves del disfraz y permite al objetivo sumar su nivel a dichas pruebas de Engano incluso si no esta entrenado. Puedes Disipar este conjuro.
 
 **Potenciado (3.o)** El objetivo puede parecer cualquier criatura del mismo tamano, incluso un individuo especifico. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
 
@@ -278,7 +278,7 @@ Lanzar disfraz ilusorio equivale a preparar un disfraz para el uso Imitar de Eng
 
 Alteras la forma en que el aura magica de un objeto o conjuro aparece ante efectos como los de detectar magia. Puedes ocultar las auras por completo, hacer que un objeto parezca un objeto comun de un nivel menor o hacer que un conjuro parezca un conjuro comun del mismo rango o inferior. Puedes Disipar el conjuro.
 
-Un lanzador que utiliza detectar magia o leer aura de un rango superior a disfrazar magia puede hacer una prueba para descreer la ilusion utilizando la habilidad correspondiente a la tradicion del conjuro (Arcanos para arcana, Religion para divina, Ocultismo para ocultista o Naturaleza para primigenia). Intentos posteriores por parte del mismo lanzador obtienen el mismo resultado que la prueba de descreer inicial.
+Un lanzador que utiliza detectar magia o leer aura de un rango superior a disfrazar magia puede hacer una prueba para descreer la ilusión utilizando la habilidad correspondiente a la tradición del conjuro (Arcanos para arcana, Religion para divina, Ocultismo para ocultista o Naturaleza para primigenia). Intentos posteriores por parte del mismo lanzador obtienen el mismo resultado que la prueba de descreer inicial.
 
 **Potenciado (2.o)** Puedes Lanzar este conjuro sobre una criatura, disfrazando todos los objetos y efectos de conjuro que hay sobre ella.
 
@@ -289,7 +289,7 @@ Un lanzador que utiliza detectar magia o leer aura de un rango superior a disfra
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 efecto de conjuro u objeto magico desatendido
 
-Descoses la magia que hay tras un conjuro o efecto. Haz una prueba de contrarrestar contra el objetivo. Si contrarrestas con exito un objeto magico, se convierte en un objeto mundano de su tipo durante 10 minutos. Esto no cambia las propiedades no magicas del objeto. Si el objetivo es un artefacto u objeto similar, fallas automaticamente.
+Descoses la magia que hay tras un conjuro o efecto. Haz una prueba de contrarrestar contra el objetivo. Si contrarrestas con éxito un objeto magico, se convierte en un objeto mundano de su tipo durante 10 minutos. Esto no cambia las propiedades no magicas del objeto. Si el objetivo es un artefacto u objeto similar, fallas automaticamente.
 
 ---
 
@@ -299,7 +299,7 @@ Descoses la magia que hay tras un conjuro o efecto. Haz una prueba de contrarres
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura viva
 **Defensa:** Fortaleza
 
-Llamas al Vacio para que dane a la fuerza vital. El objetivo sufre 2d4 dano por vacio con una salvacion basica de Fortaleza. Con un fallo critico, el objetivo queda tambien debilitado 1 hasta el inicio de tu siguiente turno.
+Llamas al Dacio para que dane a la fuerza vital. El objetivo sufre 2d4 dano por dacio con una salvación basica de Fortaleza. Con un fallo critico, el objetivo queda tambien debilitado 1 hasta el inicio de tu siguiente turno.
 
 **Potenciado (+1)** El dano se incrementa en 1d4.
 
@@ -311,7 +311,7 @@ Llamas al Vacio para que dane a la fuerza vital. El objetivo sufre 2d4 dano por 
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad
 
-Revuelves las facultades mentales y las entradas sensoriales de una criatura. El objetivo tiene que llevar a cabo una salvacion de Voluntad. Sea cual sea el resultado de dicha salvacion, a continuacion el objetivo queda temporalmente inmune durante 10 minutos. Los efectos de distorsionar la mente tienen lugar de forma instantanea, por lo que disipar magia y otros efectos que contrarrestan los conjuros no pueden contrarrestarlos. Sin embargo, los rituales de deseo y las aptitudes que pueden eliminar efectos que no son magicos siguen pudiendo contrarrestar los efectos.
+Revuelves las facultades mentales y las entradas sensoriales de una criatura. El objetivo tiene que llevar a cabo una salvación de Voluntad. Sea cual sea el resultado de dicha salvación, a continuación el objetivo queda temporalmente inmune durante 10 minutos. Los efectos de distorsionar la mente tienen lugar de forma instantanea, por lo que disipar magia y otros efectos que contrarrestan los conjuros no pueden contrarrestarlos. Sin embargo, los rituales de deseo y las aptitudes que pueden eliminar efectos que no son mágicos siguen pudiendo contrarrestar los efectos.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -328,9 +328,9 @@ Revuelves las facultades mentales y las entradas sensoriales de una criatura. El
 **Tradiciones:** arcana, ocultista
 **Duracion:** mantenido hasta 1 minuto
 
-Te haces invisible y creas un duplicado ilusorio de ti mismo. Cuando Mantienes el conjuro, puedes dictar mentalmente un curso de accion para que tu duplicado lo siga dicho asalto. Tu duplicado actua como si tuviera tu numero completo de acciones, aunque en realidad no puede afectar nada del entorno. Tanto el duplicado como tu invisibilidad persisten a lo largo de la duracion del conjuro. Llevar a cabo una accion hostil no acaba con la invisibilidad de doble enganoso, igual que con un conjuro de invisibilidad de 4.o rango. Una criatura que determina que el duplicado es una ilusion no sabe necesariamente que eres invisible, y una que puede ver tu forma invisible no sabe necesariamente que tu duplicado es una ilusion.
+Te haces invisible y creas un duplicado ilusorio de ti mismo. Cuando Mantienes el conjuro, puedes dictar mentalmente un curso de acción para que tu duplicado lo siga dicho asalto. Tu duplicado actua como si tuviera tu numero completo de acciones, aunque en realidad no puede afectar nada del entorno. Tanto el duplicado como tu invisibilidad persisten a lo largo de la duración del conjuro. Llevar a cabo una acción hostil no acaba con la invisibilidad de doble enganoso, igual que con un conjuro de invisibilidad de 4.o rango. Una criatura que determina que el duplicado es una ilusión no sabe necesariamente que eres invisible, y una que puede ver tu forma invisible no sabe necesariamente que tu duplicado es una ilusión.
 
-Si Lanzas un conjuro, atacas o interaccionas de alguna otra forma con otra criatura, como parte de dicha accion puedes hacer una prueba de Engano contra la CD de Percepcion de los observadores para convencerles de que es tu duplicado quien la lleva a cabo. Esto no engana a nadie que es consciente de que tu duplicado es una ilusion, ni funciona si resulta obvio que el ataque no puede haber partido del duplicado. Por ejemplo, si has disparado un rayo, podrias hacer que pareciera proceder del duplicado si estuviera colocado de forma apropiada, pero si has atacado con una espada y tu duplicado esta en el otro extremo de la habitacion respecto al objetivo, tu prueba de Engano falla automaticamente.
+Si Lanzas un conjuro, atacas o interaccionas de alguna otra forma con otra criatura, como parte de dicha acción puedes hacer una prueba de Engano contra la CD de Percepción de los observadores para convencerles de que es tu duplicado quien la lleva a cabo. Esto no engana a nadie que es consciente de que tu duplicado es una ilusión, ni funciona si resulta obvio que el ataque no puede haber partido del duplicado. Por ejemplo, si has disparado un rayo, podrías hacer que pareciera proceder del duplicado si estuviera colocado de forma apropiada, pero si has atacado con una espada y tu duplicado esta en el otro extremo de la habitación respecto al objetivo, tu prueba de Engano falla automaticamente.
 
 ---
 
@@ -340,7 +340,7 @@ Si Lanzas un conjuro, atacas o interaccionas de alguna otra forma con otra criat
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** 1 minuto
 
-Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano persistente mental y tiene que hacer una salvacion de Voluntad.
+Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano persistente mental y tiene que hacer una salvación de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -360,7 +360,7 @@ Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano pers
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** hasta tus siguientes preparativos diarios
 
-Tomas el mando del objetivo, obligandole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvacion de Voluntad.
+Tomas el mando del objetivo, obligandole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvación de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -380,7 +380,7 @@ Tomas el mando del objetivo, obligandole a que te obedezca. Si le das una orden 
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
 **Defensa:** Voluntad
 
-Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepcion con exito, lo que limita su utilidad en combate.
+Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepción con éxito, lo que limita su utilidad en combate.
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -400,13 +400,13 @@ Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 enemigo de nivel 15 o inferior
 **Defensa:** Fortaleza; **Duracion:** mantenido hasta 1 minuto
 
-Creas un duplicado temporal de un enemigo para que luche por ti. El objetivo puede hacer una salvacion de Fortaleza para perturbar el conjuro. El duplicado aparece en un espacio desocupado adyacente al objetivo y tiene su mismo modificador al ataque, CA, modificadores a las tiradas de salvacion, Percepcion y modificadores por habilidad, pero tan solo tiene 70 Puntos de Golpe y carece de las aptitudes especiales del objetivo, incluyendo inmunidades, resistencias y debilidades. No dispone de objetos magicos excepto runas de potencia de arma.
+Creas un duplicado temporal de un enemigo para que luche por ti. El objetivo puede hacer una salvación de Fortaleza para perturbar el conjuro. El duplicado aparece en un espacio desocupado adyacente al objetivo y tiene su mismo modificador al ataque, CA, modificadores a las tiradas de salvación, Percepción y modificadores por habilidad, pero tan solo tiene 70 Puntos de Golpe y carece de las aptitudes especiales del objetivo, incluyendo inmunidades, resistencias y debilidades. No dispone de objetos mágicos excepto runas de potencia de arma.
 
-El duplicado obtiene el rasgo esbirro, y solo puede dar Zancadas y Golpes. Sus Golpes infligen el dano normal del objetivo, pero no aplican efectos anadidos, puesto que carece de aptitudes especiales. El conjuro se acaba automaticamente si los Puntos de Golpe del duplicado caen a 0.
+El duplicado obtiene el rasgo esbirro, y solo puede dar Zancadas y Golpes. Sus Golpes infligen el dano normal del objetivo, pero no aplican efectos añadidos, puesto que carece de aptitudes especiales. El conjuro se acaba automaticamente si los Puntos de Golpe del duplicado caen a 0.
 
-El duplicado ataca a tus enemigos lo mejor que puede. Tambien puedes darle instrucciones adicionales; cuando Mantienes el conjuro, puedes tambien Comandar a un esbirro como parte de tu accion, pero el DJ es quien determina si el duplicado cumple tu orden.
+El duplicado ataca a tus enemigos lo mejor que puede. Tambien puedes darle instrucciones adicionales; cuando Mantienes el conjuro, puedes tambien Comandar a un esbirro como parte de tu acción, pero el DJ es quien determina si el duplicado cumple tu orden.
 
-El duplicado es inestable, por lo que cada turno despues de que lleva a cabo sus acciones, pierde 4d6 Puntos de Golpe. No es una criatura viva, y no puede recuperar sus Puntos de Golpe perdidos en modo alguno.
+El duplicado es inestable, por lo que cada turno después de que lleva a cabo sus acciones, pierde 4d6 Puntos de Golpe. No es una criatura viva, y no puede recuperar sus Puntos de Golpe perdidos en modo alguno.
 
 **Exito critico** No consigues crear un duplicado.
 
@@ -425,7 +425,7 @@ El duplicado es inestable, por lo que cada turno despues de que lleva a cabo sus
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duracion:** hasta tus siguientes preparativos diarios
 
-Proteges al objetivo con una barrera de energia poderosa y de larga duracion. El objetivo obtiene resistencia 5 a acido, electricidad, frio, fuego, fuerza, sonico, vitalidad y vacio.
+Proteges al objetivo con una barrera de energia poderosa y de larga duración. El objetivo obtiene resistencia 5 a acido, electricidad, frio, fuego, fuerza, sonico, vitalidad y dacio.
 
 **Potenciado (9.o)** Las resistencias se incrementan a 10.
 
@@ -437,7 +437,7 @@ Proteges al objetivo con una barrera de energia poderosa y de larga duracion. El
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza basica
 
-Senalas a una criatura e invocas el final de todas las cosas. El objetivo sufre 70 dano por vacio con una salvacion basica de Fortaleza. Si el objetivo es un muerto viviente o dispone de curacion mediante el vacio de alguna otra forma, el conjuro pierde los rasgos muerte y vacio y obtiene el rasgo vitalidad, por lo que el objetivo sufre 70 dano por vitalidad con una salvacion basica de Fortaleza.
+Señales a una criatura e invocas el final de todas las cosas. El objetivo sufre 70 dano por dacio con una salvación basica de Fortaleza. Si el objetivo es un muerto viviente o dispone de curación mediante el dacio de alguna otra forma, el conjuro pierde los rasgos muerte y dacio y obtiene el rasgo vitalidad, por lo que el objetivo sufre 70 dano por vitalidad con una salvación basica de Fortaleza.
 
 **Potenciado (+1)** El dano se incrementa en 10.
 
@@ -465,7 +465,7 @@ Invocas una poderosa explosion de agua presurizada, que vapulea al objetivo y lo
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura voluntaria
 **Duracion:** 5 minutos
 
-Distorsionas el espacio para hacer que una criatura sea mas pequena. El objetivo se encoge hasta convertirse en tamano Menudo. Su equipo se encoge con el, pero vuelve a su tamano original si se lo quita. El alcance de la criatura cambia a 0 pies. Este conjuro no tiene efecto alguno sobre una criatura Menuda.
+Distorsionas el espacio para hacer que una criatura sea mas pequena. El objetivo se encoge hasta convertirse en tamaño Menudo. Su equipo se encoge con el, pero vuelve a su tamaño original si se lo quita. El alcance de la criatura cambia a 0 pies. Este conjuro no tiene efecto alguno sobre una criatura Menuda.
 
 **Potenciado (6.o)** El conjuro puede designar como objetivo hasta 10 criaturas.
 
@@ -476,7 +476,7 @@ Distorsionas el espacio para hacer que una criatura sea mas pequena. El objetivo
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 
-Enlazas tu mente con la del objetivo y le impartes mentalmente una cantidad de informacion en un instante que, de otra forma, se podria comunicar en 10 minutos.
+Enlazas tu mente con la del objetivo y le impartes mentalmente una cantidad de información en un instante que, de otra forma, se podría comunicar en 10 minutos.
 
 ---
 
@@ -488,7 +488,7 @@ Enlazas tu mente con la del objetivo y le impartes mentalmente una cantidad de i
 
 Unas enredaderas densas y retorcidas brotan de todas las superficies y llenan todas las masas de agua de la zona. Cualquier criatura que se mueva por tierra, o Trepando o Nadando en la zona de las enredaderas sufre un penalizador -10 pies (3 m) por circunstancia a sus Velocidades.
 
-Una vez por asalto, puedes Mantener el conjuro para hacer que una en particular surja de cualquier casilla de la masa de enredaderas. Esta enredadera tiene un alcance de 15 pies (4,5 m). Haz un ataque de conjuros cuerpo a cuerpo contra el objetivo; con un exito, la enredadera arrastra al objetivo hasta la masa y le deja inmovilizado durante 1 asalto o hasta que la criatura Huye (contra tu CD de conjuros), lo que sucede primero.
+Una vez por asalto, puedes Mantener el conjuro para hacer que una en particular surja de cualquier casilla de la masa de enredaderas. Esta enredadera tiene un alcance de 15 pies (4,5 m). Haz un ataque de conjuros cuerpo a cuerpo contra el objetivo; con un éxito, la enredadera arrastra al objetivo hasta la masa y le deja inmovilizado durante 1 asalto o hasta que la criatura Huye (contra tu CD de conjuros), lo que sucede primero.
 
 ---
 
@@ -500,7 +500,7 @@ Una vez por asalto, puedes Mantener el conjuro para hacer que una en particular 
 
 La tierra se abre, lanzando a gran altura una columna de lava en forma de cilindro vertical, que inflige 14d6 a las criaturas en el area. La lava se enfria rapidamente y envuelve a las criaturas del interior. Una criatura envuelta en lava solidificada queda torpe 1 y sufre un penalizador -10 pies (3 m) por estatus a sus Velocidades. Todo el terreno normal se convierte en terreno dificil para una criatura voladora y dichas criaturas descienden inmediatamente 20 pies (6 m) en el momento en que quedan recubiertas, pero no sufren dano debido a esta caida. Una criatura recubierta de lava solidificada puede tratar de Huir contra tu CD de conjuros para acabar con el efecto. De lo contrario, permanece envuelta hasta que sufre un total de 50 dano, lo que la libera de la lava solidificada.
 
-Ademas, las criaturas en el area y las que esten a 5 pies (1,5 m) o menos de la columna de lava sufriran automaticamente 3d6 dano por fuego debido al intenso calor, sean cuales sean los resultados de sus tiradas de salvacion.
+Ademas, las criaturas en el area y las que esten a 5 pies (1,5 m) o menos de la columna de lava sufrirán automaticamente 3d6 dano por fuego debido al intenso calor, sean cuales sean los resultados de sus tiradas de salvación.
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -520,7 +520,7 @@ Ademas, las criaturas en el area y las que esten a 5 pies (1,5 m) o menos de la 
 **Rango de distancia:** 60 pies (18 m)
 **Duracion:** mantenido
 
-Convocas a un esbirro fantasmal. El esbirro tiene aproximadamente la forma de un humanoide. Puedes elegir entre que sea invisible o que tenga una apariencia efimera, pero se trata obviamente de un efecto magico y no de una criatura real.
+Convocas a un esbirro fantasmal. El esbirro tiene aproximadamente la forma de un humanoide. Puedes elegir entre que sea invisible o que tenga una apariencia efímera, pero se trata obviamente de un efecto magico y no de una criatura real.
 
 ### Estadisticas del Esbirro Fantasmal
 
@@ -553,11 +553,11 @@ MEDIANO FUERZA DESCEREBRADO
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 30 pies (9 m)
 **Duracion:** 1 hora
 
-Creas una escena imaginaria que incluye hasta 10 criaturas individuales u objetos de diverso tamano, todos los cuales deben estar en el area del conjuro. Dichos elementos generan los sonidos y los olores apropiados, y su tacto es el correcto. Los elementos de una escena ilusoria no pueden hablar. A diferencia del conjuro criatura ilusoria, las criaturas de tu escena carecen de aptitudes y estadisticas de combate. Tu escena no incluye cambios al entorno que la rodea, aunque puedes colocarla en el entorno ilusorio de un conjuro de espejismo.
+Creas una escena imaginaria que incluye hasta 10 criaturas individuales u objetos de diverso tamaño, todos los cuales deben estar en el area del conjuro. Dichos elementos generan los sonidos y los olores apropiados, y su tacto es el correcto. Los elementos de una escena ilusoria no pueden hablar. A diferencia del conjuro criatura ilusoria, las criaturas de tu escena carecen de aptitudes y estadísticas de combate. Tu escena no incluye cambios al entorno que la rodea, aunque puedes colocarla en el entorno ilusorio de un conjuro de espejismo.
 
-Cuando creas la escena, puedes elegir que sea estatica o que siga un programa. Aunque una escena estatica es estacionaria, incluye movimiento natural basico. Por ejemplo, el viento soplando sobre un pedazo de papel ilusorio lo haria crujir. Un programa puede tener hasta 1 minuto de longitud y se repite cuando se acaba. Por ejemplo, podrias crear una escena con dos orcos luchando entre si y la lucha se desarrollaria de la misma forma en cada repeticion. Si creas un bucle, ambos combatientes acaban en el mismo lugar al inicio de la escena y al final de la misma, pero puedes refinar el programa para que sea dificil discernir cuando empieza y cuando acaba el bucle. Cualquiera que observe la escena mas de unos pocos minutos, casi siempre se dara cuenta del bucle. Una vez has creado la ilusion, no puedes alterar el programa.
+Cuando creas la escena, puedes elegir que sea estatica o que siga un programa. Aunque una escena estatica es estacionaria, incluye movimiento natural basico. Por ejemplo, el viento soplando sobre un pedazo de papel ilusorio lo había crujir. Un programa puede tener hasta 1 minuto de longitud y se repite cuando se acaba. Por ejemplo, podrías crear una escena con dos orcos luchando entre si y la lucha se desarrollaria de la misma forma en cada repetición. Si creas un bucle, ambos combatientes acaban en el mismo lugar al inicio de la escena y al final de la misma, pero puedes refinar el programa para que sea dificil discernir cuando empieza y cuando acaba el bucle. Cualquiera que observe la escena mas de unos pocos minutos, casi siempre se dara cuenta del bucle. Una vez has creado la ilusión, no puedes alterar el programa.
 
-Cualquier criatura que toque cualquier parte de la imagen o utilice la accion de Buscar para examinarla podra hacer un intento de descreer tu ilusion. Si interacciona con una parte de la ilusion, solo descree dicha parte. Tan solo puede descreer la escena al completo con un exito critico.
+Cualquier criatura que toque cualquier parte de la imagen o utilice la acción de Buscar para examinarla podrá hacer un intento de descreer tu ilusión. Si interacciona con una parte de la ilusión, solo descree dicha parte. Tan solo puede descreer la escena al completo con un éxito critico.
 
 **Potenciado (6.o)** Las criaturas o los objetos de tu escena pueden hablar. Tienes que dictar las palabras especificas para cada actor al crear tu programa. El conjuro disfraza tu voz para cada actor.
 
@@ -571,7 +571,7 @@ Cualquier criatura que toque cualquier parte de la imagen o utilice la accion de
 **Area:** cono de 15 pies (4,5 m)
 **Defensa:** Reflejos
 
-Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros infligen 2d4 dano contundente a cada criatura en el area. Cada criatura tiene que hacer una salvacion de Reflejos.
+Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros infligen 2d4 dano contundente a cada criatura en el area. Cada criatura tiene que hacer una salvación de Reflejos.
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -590,9 +590,9 @@ Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros in
 **Tradiciones:** arcana, divina, ocultista
 **Duracion:** hasta el inicio de tu siguiente turno
 
-Alzas un escudo de fuerza magico. Esto cuenta como utilizar la accion Alzar un escudo, lo que te concede un bonificador +1 por circunstancia a tu CA hasta el inicio de tu siguiente turno, pero no requiere una mano para utilizarlo.
+Alzas un escudo de fuerza magico. Esto cuenta como utilizar la acción Alzar un escudo, lo que te concede un bonificados +1 por circunstancia a tu CA hasta el inicio de tu siguiente turno, pero no requiere una mano para utilizarlo.
 
-Mientras el conjuro esta en funcionamiento, puedes utilizar la reaccion Bloqueo con el escudo con tu escudo magico. El escudo tiene Dureza 5. Puedes utilizar la reaccion del conjuro para reducir el dano de cualquier conjuro o efecto magico, incluso si no inflige dano fisico. Despues de utilizar Bloqueo con el escudo, el conjuro se acaba y no puedes lanzarlo de nuevo durante 10 minutos.
+Mientras el conjuro esta en funcionamiento, puedes utilizar la reacción Bloqueo con el escudo con tu escudo magico. El escudo tiene Dureza 5. Puedes utilizar la reacción del conjuro para reducir el dano de cualquier conjuro o efecto magico, incluso si no inflige dano fisico. Después de utilizar Bloqueo con el escudo, el conjuro se acaba y no puedes lanzarlo de nuevo durante 10 minutos.
 
 **Potenciado (+2)** La Dureza del escudo se incrementa en 5.
 
@@ -603,9 +603,9 @@ Mientras el conjuro esta en funcionamiento, puedes utilizar la reaccion Bloqueo 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
 
-Creas un escudo flotante hecho de fuego. Mientras el escudo persiste, su calor te concede resistencia al frio 5 y te hace inmune al frio ambiental suave y severo. Puedes Alzar un escudo con el escudo de fuego como si fuera un escudo normal para obtener un bonificador +1 por circunstancia a tu CA.
+Creas un escudo flotante hecho de fuego. Mientras el escudo persiste, su calor te concede resistencia al frio 5 y te hace inmune al frio ambiental suave y severo. Puedes Alzar un escudo con el escudo de fuego como si fuera un escudo normal para obtener un bonificados +1 por circunstancia a tu CA.
 
-Puedes utilizar la reaccion Bloqueo con el escudo con el escudo de fuego, que tiene Dureza 10, es inmune al fuego, tiene 40 PG (sin Umbral de rotura) y su Dureza se reduce a la mitad contra los efectos que tienen el rasgo agua. Si utilizas Bloqueo con el escudo contra un ataque Cuerpo a cuerpo, que o bien es un ataque sin armas, o bien cuyo atacante esta adyacente, este sufre 2d6 dano por fuego.
+Puedes utilizar la reacción Bloqueo con el escudo con el escudo de fuego, que tiene Dureza 10, es inmune al fuego, tiene 40 PG (sin Umbral de rotura) y su Dureza se reduce a la mitad contra los efectos que tienen el rasgo agua. Si utilizas Bloqueo con el escudo contra un ataque Cuerpo a cuerpo, que o bien es un ataque sin armas, o bien cuyo atacante esta adyacente, este sufre 2d6 dano por fuego.
 
 **Potenciado (+2)** La resistencia al frio se incrementa en 5, los PG se incrementan en 10 y el dano por fuego se incrementa en 1d6.
 
@@ -618,9 +618,9 @@ Puedes utilizar la reaccion Bloqueo con el escudo con el escudo de fuego, que ti
 **Rango de distancia:** planetario; **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 10 minutos
 
-Espias magicamente a una criatura de tu eleccion. Escudrinamiento funciona como clarividencia, excepto que la imagen que obtienes es menos precisa, insuficiente para teletransporte y conjuros similares. En lugar de crear un ojo en una ubicacion fija a 500 pies (150 m) o menos, en su lugar puedes crear uno que se manifieste justo por encima del objetivo. Puedes elegir un objetivo o bien por su nombre o bien tocando una de sus posesiones o una parte de su cuerpo. Si no te has reunido con el objetivo en persona, la CD de escudrinamiento es 2 menor y si no eres consciente de la identidad del objetivo (quiza porque hallaste el colmillo de una criatura desconocida en una escena del crimen), en su lugar la CD es 10 menor.
+Espias magicamente a una criatura de tu elección. Escudriñamiento funciona como clarividencia, excepto que la imagen que obtienes es menos precisa, insuficiente para teletransporte y conjuros similares. En lugar de crear un ojo en una ubicación fija a 500 pies (150 m) o menos, en su lugar puedes crear uno que se manifieste justo por encima del objetivo. Puedes elegir un objetivo o bien por su nombre o bien tocando una de sus posesiones o una parte de su cuerpo. Si no te has reunido con el objetivo en persona, la CD de escudriñamiento es 2 menor y si no eres consciente de la identidad del objetivo (quizá porque hallaste el colmillo de una criatura desconocida en una escena del crimen), en su lugar la CD es 10 menor.
 
-El efecto de escudrinamiento depende de la salvacion de Voluntad del objetivo.
+El efecto de escudriñamiento depende de la salvación de Voluntad del objetivo.
 
 **Exito critico** El conjuro falla y el objetivo queda temporalmente inmune durante 1 semana. El objetivo tambien obtiene un atisbo de ti y averigua la distancia aproximada y la direccion entre ambos.
 
@@ -639,9 +639,9 @@ El efecto de escudrinamiento depende de la salvacion de Voluntad del objetivo.
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 50 pies (15 m)
 **Duracion:** hasta tus siguientes preparativos diarios
 
-Creas una ilusion que hace que el terreno natural parezca, suene, se sienta y huela como un tipo diferente de terreno. Esto no disfrazara ninguna estructura o criatura que haya en el area.
+Creas una ilusión que hace que el terreno natural parezca, suene, se sienta y huela como un tipo diferente de terreno. Esto no disfrazara ninguna estructura o criatura que haya en el area.
 
-Cualquier criatura que toque la ilusion o utilice la accion de Buscar para examinarla podra hacer un intento de descreer tu ilusion.
+Cualquier criatura que toque la ilusión o utilice la acción de Buscar para examinarla podrá hacer un intento de descreer tu ilusión.
 
 **Potenciado (5.o)** Tu imagen tambien puede disfrazar estructuras o crear estructuras ilusorias (pero sigue sin poder disfrazar criaturas).
 
@@ -653,7 +653,7 @@ Cualquier criatura que toque la ilusion o utilice la accion de Buscar para exami
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
 
-Creas una pauta de luces que late con intensidad. Las criaturas quedan deslumbradas en el interior de la misma. Ademas, una criatura tiene que hacer una salvacion de Voluntad si esta en el interior de la pauta cuando la lanzas, cuando entra en ella, cuando acaba su turno en su interior o cuando utiliza una accion de Buscar o de Interactuar con la misma. Una criatura cegada por la pauta no tiene que hacer nuevas tiradas de salvacion.
+Creas una pauta de luces que late con intensidad. Las criaturas quedan deslumbradas en el interior de la misma. Ademas, una criatura tiene que hacer una salvación de Voluntad si esta en el interior de la pauta cuando la lanzas, cuando entra en ella, cuando acaba su turno en su interior o cuando utiliza una acción de Buscar o de Interactuar con la misma. Una criatura cegada por la pauta no tiene que hacer nuevas tiradas de salvación.
 
 **Exito** La criatura no resulta afectada.
 
@@ -689,7 +689,7 @@ Un ataque sonico de alta frecuencia hace estallar un objeto proximo. Infliges 2d
 **Rango de distancia:** toque; **Objetivos:** 1 criatura viva voluntaria
 **Duracion:** hasta tus siguientes preparativos diarios
 
-Mientras el objetivo y tu permanezcais en el mismo plano de existencia y esteis vivos los dos, estaras al corriente de su estado. Conoces la direccion en la que esta, la distancia y cualquier estado que le afecta.
+Mientras el objetivo y tu permanezcais en el mismo plano de existencia y estáis vivos los dos, estarás al corriente de su estado. Conoces la dirección en la que esta, la distancia y cualquier estado que le afecta.
 
 **Potenciado (4.o)** El alcance se incrementa a 30 pies (9 m) y puedes designar como objetivo hasta a 10 criaturas.
 
@@ -701,7 +701,7 @@ Mientras el objetivo y tu permanezcais en el mismo plano de existencia y esteis 
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
 **Defensa:** Reflejos basica
 
-Arrojas un gran pegote de acido que detona inmediatamente, salpicando a las criaturas cercanas. Las criaturas en el area sufren 1d8 dano por acido y tienen que hacer una salvacion basica de Reflejos; con un fallo critico, una criatura sufre tambien 1 dano persistente por acido.
+Arrojas un gran pegote de acido que detona inmediatamente, salpicando a las criaturas cercanas. Las criaturas en el area sufren 1d8 dano por acido y tienen que hacer una salvación basica de Reflejos; con un fallo critico, una criatura sufre tambien 1 dano persistente por acido.
 
 **Potenciado (+2)** El dano inicial se incrementa en 1d8 y el dano persistente en un fallo critico se incrementa en 1.
 
@@ -713,7 +713,7 @@ Arrojas un gran pegote de acido que detona inmediatamente, salpicando a las cria
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos
 
-Un globo de oscuridad congeladora explota en el area, infligiendo 8d10 dano por frio a las criaturas presentes, mas 8d4 dano adicional por vacio a las criaturas vivas. Cada criatura en el area tiene que hacer una salvacion de Reflejos.
+Un globo de oscuridad congeladora explota en el area, infligiendo 8d10 dano por frio a las criaturas presentes, mas 8d4 dano adicional por dacio a las criaturas vivas. Cada criatura en el area tiene que hacer una salvación de Reflejos.
 
 Si el globo se solapa con un area de luz magica o afecta a una criatura afectada por luz magica, explosion de eclipse contrarresta el efecto de luz.
 
@@ -735,7 +735,7 @@ Si el globo se solapa con un area de luz magica o afecta a una criatura afectada
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Fortaleza
 
-Invocas un ruido cacofonico, que inflige 2d10 dano sonico. Cada criatura tiene que hacer una salvacion de Fortaleza.
+Invocas un ruido cacofonico, que inflige 2d10 dano sonico. Cada criatura tiene que hacer una salvación de Fortaleza.
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -755,7 +755,7 @@ Invocas un ruido cacofonico, que inflige 2d10 dano sonico. Cada criatura tiene q
 **Rango de distancia:** variable; **Area:** variable
 **Defensa:** Reflejos o Voluntad basica (a elegir por el objetivo)
 
-Das forma a la sustancia sombria del Inframundo en forma de explosion. Elige entre dano por acido, contundente, cortante, electricidad, espiritual, frio, fuego, fuerza, perforante y sonico y elige entre un cono de 30 pies (9 m), una explosion de 15 pies (4,5 m) a 120 pies (36 m) o menos o una linea de 50 pies (15 m). La explosion inflige 6d8 dano del tipo elegido a cada criatura en el area.
+Das forma a la sustancia sombria del Informando en forma de explosion. Elige entre dano por acido, contundente, cortante, electricidad, espiritual, frio, fuego, fuerza, perforante y sonico y elige entre un cono de 30 pies (9 m), una explosion de 15 pies (4,5 m) a 120 pies (36 m) o menos o una linea de 50 pies (15 m). La explosion inflige 6d8 dano del tipo elegido a cada criatura en el area.
 
 **Potenciado (+1)** El dano se incrementa en 1d8.
 
@@ -767,7 +767,7 @@ Das forma a la sustancia sombria del Inframundo en forma de explosion. Elige ent
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza basica
 
-Concentras energia eterea y atacas al espiritu de la criatura, infligiendo 16d6 dano espiritual con una salvacion basica de Fortaleza.
+Concentras energia eterea y atacas al espíritu de la criatura, infligiendo 16d6 dano espiritual con una salvación basica de Fortaleza.
 
 **Potenciado (+1)** El dano se incrementa en 2d6.
 
@@ -779,7 +779,7 @@ Concentras energia eterea y atacas al espiritu de la criatura, infligiendo 16d6 
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos
 
-Un poderoso globo de abrasadora luz solar explota en el area, infligiendo 8d10 dano por fuego a todas las criaturas en la misma, mas 8d10 dano adicional por vitalidad a las criaturas muertas vivientes. Cada criatura en el area tiene que hacer una salvacion de Reflejos.
+Un poderoso globo de abrasadora luz solar explota en el area, infligiendo 8d10 dano por fuego a todas las criaturas en la misma, mas 8d10 dano adicional por vitalidad a las criaturas muertas vivientes. Cada criatura en el area tiene que hacer una salvación de Reflejos.
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -801,7 +801,7 @@ Si el globo se solapa con un area de oscuridad magica, explosion solar trata de 
 **Rango de distancia:** toque; **Objetivos:** 1 objeto no mayor que 10 pies por 10 pies por 10 pies (3 x 3 x 3 m)
 **Duracion:** 1 hora
 
-Haces que el objeto objetivo tenga el aspecto de estar fisicamente mucho mejor o mucho peor. Cuando Lanzas este conjuro, decides si quieres que el objeto parezca decrepito o perfecto. Un objeto al que se hace parecer decrepito aparenta estar roto y ser de mala calidad. Un objeto intacto al que se hace parecer mejor aparenta ser nuevo a estrenar y estar bien pulido o mantenido. Un objeto roto parece estar intacto y funcional. Los objetos destruidos no pueden ser afectados por este conjuro. Una criatura que Interactua con el objeto puede intentar descreer la ilusion.
+Haces que el objeto objetivo tenga el aspecto de estar fisicamente mucho mejor o mucho peor. Cuando Lanzas este conjuro, decides si quieres que el objeto parezca decrepito o perfecto. Un objeto al que se hace parecer decrepito aparenta estar roto y ser de mala calidad. Un objeto intacto al que se hace parecer mejor aparenta ser nuevo a estrenar y estar bien pulido o mantenido. Un objeto roto parece estar intacto y funcional. Los objetos destruidos no pueden ser afectados por este conjuro. Una criatura que Interactuó con el objeto puede intentar descreer la ilusión.
 
 **Potenciado (2.o)** La duracion es 24 horas.
 
@@ -816,7 +816,7 @@ Haces que el objeto objetivo tenga el aspecto de estar fisicamente mucho mejor o
 **Rango de distancia:** toque; **Area:** explosion de 100 pies (30 m)
 **Duracion:** hasta tus siguientes preparativos diarios
 
-Creas una falsa imagen que engana a cualquier intento de escudrinar en un area. Cualquier conjuro de escudrinamiento ve, oye, huele y detecta de cualquier otra forma lo que tu quieres que detecte en el interior del area, en lugar de lo que realmente hay. Puedes Mantener el conjuro cada asalto para cambiar la ilusion como desees, incluyendo interpretar una escena completa. Si el conjuro de escudrinamiento es de un rango superior a falsa vision, quien lo lanza puede hacer una prueba de Percepcion para describir la ilusion, aunque incluso si tiene exito no puede averiguar lo que sucede realmente en el area.
+Creas una falsa imagen que engana a cualquier intento de escudriñar en un area. Cualquier conjuro de escudriñamiento ve, oye, huele y detecta de cualquier otra forma lo que tu quieres que detecte en el interior del area, en lugar de lo que realmente hay. Puedes Mantener el conjuro cada asalto para cambiar la ilusión como desees, incluyendo interpretar una escena completa. Si el conjuro de escudriñamiento es de un rango superior a falsa vision, quien lo lanza puede hacer una prueba de Percepción para describir la ilusión, aunque incluso si tiene éxito no puede averiguar lo que sucede realmente en el area.
 
 ---
 
@@ -837,7 +837,7 @@ Potencias tu carne con las energias tipicamente utilizadas para manipular a los 
 **Rango de distancia:** 30 pies (9 m)
 **Duracion:** mantenido
 
-Creas un sonido o una vision ilusoria sencilla. Un sonido anade el rasgo auditivo al conjuro y no puede incluir palabras inteligibles o musica elaborada. Una vision anade el rasgo visual, no puede ser mayor que un cubo de 5 pies (1,5 m) de lado y es claramente tosca y poco detallada si se contempla desde 15 pies (4,5 m) o menos. Cuando Lanzas o Mantienes el conjuro, puedes hacer una prueba para Crear una distraccion con la ilusion, obteniendo un bonificador +2 por circunstancia a tu prueba de Engano. Si la prueba falla contra una criatura, esta descree la fantasia.
+Creas un sonido o una vision ilusoria sencilla. Un sonido anade el rasgo auditivo al conjuro y no puede incluir palabras inteligibles o musica elaborada. Una vision anade el rasgo visual, no puede ser mayor que un cubo de 5 pies (1,5 m) de lado y es claramente tosca y poco detallada si se contempla desde 15 pies (4,5 m) o menos. Cuando Lanzas o Mantienes el conjuro, puedes hacer una prueba para Crear una distracción con la ilusión, obteniendo un bonificados +2 por circunstancia a tu prueba de Engano. Si la prueba falla contra una criatura, esta descree la fantasia.
 
 ---
 
@@ -847,7 +847,7 @@ Creas un sonido o una vision ilusoria sencilla. Un sonido anade el rasgo auditiv
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** cualquier cantidad de criaturas
 **Defensa:** Voluntad
 
-Llenas la mente del objetivo con imagenes inacabables, como suenos incontables y vidas que chocan unas contra otras. La avalancha de informacion inflige 16d6 dano mental a cada objetivo, dependiendo de su salvacion de Voluntad.
+Llenas la mente del objetivo con imagenes inacabables, como buenos incontables y vidas que chocan unas contra otras. La avalancha de información inflige 16d6 dano mental a cada objetivo, dependiendo de su salvación de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -865,7 +865,7 @@ Llenas la mente del objetivo con imagenes inacabables, como suenos incontables y
 **Rango de distancia:** toque; **Objetivos:** 1 criatura viva
 **Defensa:** Fortaleza basica
 
-Tu toque absorbe la fuerza vital de un objetivo para potenciarte. Infliges 6d6 dano por vacio al objetivo. Obtienes tantos Puntos de Golpe temporales como la mitad del dano por vacio que sufre el objetivo (despues de aplicar resistencias y cosas similares). Al cabo de 1 minuto, pierdes todos los Puntos de Golpe temporales que te quedan.
+Tu toque absorbe la fuerza vital de un objetivo para potenciarte. Infliges 6d6 dano por dacio al objetivo. Obtienes tantos Puntos de Golpe temporales como la mitad del dano por dacio que sufre el objetivo (después de aplicar resistencias y cosas similares). Al cabo de 1 minuto, pierdes todos los Puntos de Golpe temporales que te quedan.
 
 **Potenciado (+1)** El dano se incrementa en 2d6.
 
@@ -877,7 +877,7 @@ Tu toque absorbe la fuerza vital de un objetivo para potenciarte. Infliges 6d6 d
 **Rango de distancia:** 120 pies (36 m); **Area:** todas las casillas en una explosion de 20 pies (6 m)
 **Duracion:** 1 minuto
 
-Plantas y hongos surgen de forma espontanea o crecen rapidamente, enmaranando a las criaturas. Todas las superficies en el area se convierten en terreno dificil. Cada asalto que una criatura empieza su turno en el area tiene que hacer una salvacion de Reflejos. Con un fallo, sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades hasta que abandona el area y, con un fallo critico, queda tambien inmovilizado durante 1 asalto. Las criaturas pueden hacer una prueba de Huir para eliminar estos efectos.
+Plantas y hongos surgen de forma espontánea o crecen rapidamente, enmarañando a las criaturas. Todas las superficies en el area se convierten en terreno dificil. Cada asalto que una criatura empieza su turno en el area tiene que hacer una salvación de Reflejos. Con un fallo, sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades hasta que abandona el area y, con un fallo critico, queda tambien inmovilizado durante 1 asalto. Las criaturas pueden hacer una prueba de Huir para eliminar estos efectos.
 
 ---
 
@@ -886,13 +886,13 @@ Plantas y hongos surgen de forma espontanea o crecen rapidamente, enmaranando a 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
 
-Empleas tu dominio del aire para cambiar la forma de tu cuerpo a una forma de batalla de animal Mediano volador. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo una lechuza o un aguila para ave), pero esto no afecta ni al Tamano ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
+Empleas tu dominio del aire para cambiar la forma de tu cuerpo a una forma de batalla de animal Mediano volador. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo una lechuza o un águila para ave), pero esto no afecta ni al Tamaño ni a las estadísticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
 
 Obtienes aptitudes especificas basadas en el animal elegido:
-- CA = 18 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+- CA = 18 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 5 Puntos de Golpe temporales.
 - Vision en la penumbra.
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +16 y tu bonificador al dano es +5. Dichos ataques estan basados en la Destreza (por ejemplo, a efectos del estado torpe). Si tu modificador al ataque para los ataques sin arma basados en la Destreza es mayor, puedes utilizarlo en lugar del indicado.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unidos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +16 y tu bonificados al dano es +5. Dichos ataques estan basados en la Destreza (por ejemplo, a efectos del estado torpe). Si tu modificador al ataque para los ataques sin arma basados en la Destreza es mayor, puedes utilizarlo en lugar del indicado.
 - Modificador por Acrobacias +16, a menos que el tuyo sea superior.
 
 Obtienes tambien aptitudes especificas basadas en la forma elegida:
@@ -916,13 +916,13 @@ Obtienes tambien aptitudes especificas basadas en la forma elegida:
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto
 
-Llamas a la energia primigenia para que te transforme en una forma de batalla de animal Mediano. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo un leon o un leopardo de la nieve para felinos), pero esto no afecta ni al Tamano ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
+Llamas a la energia primigenia para que te transforme en una forma de batalla de animal Mediano. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo un leon o un leopardo de la nieve para felinos), pero esto no afecta ni al Tamaño ni a las estadísticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
 
 Obtienes aptitudes especificas basadas en el animal elegido:
-- CA = 16 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+- CA = 16 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 5 Puntos de Golpe temporales.
 - Vision en la penumbra y olfato impreciso 30 pies (9 m).
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +9 y tu bonificador al dano es +1. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu bonificador al ataque sin armas es mayor, puedes utilizarlo en su lugar.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unidos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +9 y tu bonificados al dano es +1. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu bonificados al ataque sin armas es mayor, puedes utilizarlo en su lugar.
 - Un modificador +9 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
 Obtienes tambien aptitudes especificas basadas en el animal elegido:
@@ -958,13 +958,13 @@ Obtienes tambien aptitudes especificas basadas en el animal elegido:
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto
 
-Canalizas las fuerzas primigenias de la Naturaleza para transformarte en una forma de batalla Grande de animal, especificamente la de un poderoso y terrorifico dinosaurio. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal, pero esto no tiene efecto alguno en el Tamano o las estadisticas de la forma. Cuando estas en esta forma, obtienes los rasgos animal y dinosaurio. Puedes Disipar el conjuro.
+Canalizas las fuerzas primigenias de la Naturaleza para transformarte en una forma de batalla Grande de animal, especificamente la de un poderoso y terrorífico dinosaurio. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal, pero esto no tiene efecto alguno en el Tamaño o las estadísticas de la forma. Cuando estas en esta forma, obtienes los rasgos animal y dinosaurio. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
-- CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
+- CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 15 Puntos de Golpe temporales.
 - Vision en la penumbra y olfato impreciso 30 pies (9 m).
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +16 y tu bonificador al dano es +9. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unidos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +16 y tu bonificados al dano es +9. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
 - Un modificador +9 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
 Obtienes tambien aptitudes especificas basadas en la forma elegida:
@@ -994,19 +994,19 @@ Obtienes tambien aptitudes especificas basadas en la forma elegida:
 
 Invocando magia poderosa, obtienes una forma de batalla de dragon Grande. Cuando Lanzas este conjuro, elige un tipo de dragon comun u otro tipo al que tu DJ te permite el acceso. Cuando te encuentras en esta forma, obtienes el rasgo dragon. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
-- CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
+- CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 10 Puntos de Golpe temporales.
 - Velocidad 40 pies (12 m), volar 100 pies (30 m). Obtienes cualquiera de las siguientes velocidades de las que dispone el dragon elegido, pero en la cantidad indicada: excavar 20 pies (6 m), trepar 40 pies (12 m), nadar 60 pies (18 m).
 - Resistencia 10 contra el tipo de dano de tu Aliento de dragon (ver mas abajo).
 - Vision en la oscuridad y olfato impreciso 60 pies (18 m).
-- Los siguientes ataques cuerpo a cuerpo sin armas, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +22 y tu bonificador al dano es +6. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este. Ver a continuacion mas sobre estos ataques.
-  - Cuerpo a cuerpo ◆ mandibulas, Dano 2d12 perforante mas 2d6 dano del mismo tipo de dano que tu Aliento de dragon (ver mas abajo)
+- Los siguientes ataques cuerpo a cuerpo sin armas, que son los unidos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +22 y tu bonificados al dano es +6. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este. Ver a continuación mas sobre estos ataques.
+  - Cuerpo a cuerpo ◆ mandibular, Dano 2d12 perforante mas 2d6 dano del mismo tipo de dano que tu Aliento de dragon (ver mas abajo)
   - Cuerpo a cuerpo ◆ garra (agil), Dano 3d10 cortante
   - Cuerpo a cuerpo ◆ cola (alcance 10 pies [3 m]), Dano 3d10 contundente
 - Un modificador +9 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
-- **Aliento de dragon** ◆◆ Exhalas energia magica letal en un area, infligiendo 10d6 dano a todas las criaturas en la misma, con una salvacion basica contra tu CD de conjuro. La forma, tipo de dano y tipo de salvacion son las correspondientes al aliento de dragon que has elegido. Si dicho aliento puede infligir mas de un tipo de dano, elige uno de ellos cuando lanzas forma de dragon. La forma del aliento es un cono de 30 pies (9 m) o una linea de 100 pies (30 m). Una vez activado, el Aliento de dragon no se puede utilizar de nuevo en 1d4 asaltos. Aliento de dragon tiene el rasgo de tradicion que encaja con la tipo de dragon y el rasgo de dano que encaja con ese tipo de dano que inflige, si es aplicable.
-- **Resistencia segun tradicion** Si la tradicion magica del dragon encaja con la de tu conjuro forma de dragon, obtienes la habilidad indicada. Resistencia arcana 5 contra la magia; Resistencia divina 10 contra espiritu, vitalidad y vacio; Resistencia ocultista 10 contra mental; Resistencia primigenia 5 al dano fisico.
+- **Aliento de dragon** ◆◆ Exhalas energia magica letal en un area, infligiendo 10d6 dano a todas las criaturas en la misma, con una salvación basica contra tu CD de conjuro. La forma, tipo de dano y tipo de salvación son las correspondientes al aliento de dragon que has elegido. Si dicho aliento puede infligir mas de un tipo de dano, elige uno de ellos cuando lanzas forma de dragon. La forma del aliento es un cono de 30 pies (9 m) o una linea de 100 pies (30 m). Una vez activado, el Aliento de dragon no se puede utilizar de nuevo en 1d4 asaltos. Aliento de dragon tiene el rasgo de tradición que encaja con la tipo de dragon y el rasgo de dano que encaja con ese tipo de dano que inflige, si es aplicable.
+- **Resistencia segun tradición** Si la tradición magica del dragon encaja con la de tu conjuro forma de dragon, obtienes la habilidad indicada. Resistencia arcana 5 contra la magia; Resistencia divina 10 contra espíritu, vitalidad y dacio; Resistencia ocultista 10 contra mental; Resistencia primigenia 5 al dano fisico.
 
 ### Dragones del Manual de Monstruos
 
@@ -1030,13 +1030,13 @@ Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de bata
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
 
-Te concentras en un bicho sencillo y te transformas en una forma de batalla animal de tamano Mediano. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (como por ejemplo una mariquita o un escarabajo para los coleopteros), pero esto no tiene efecto alguno ni en el Tamano ni en las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar este conjuro.
+Te concentras en un bicho sencillo y te transformas en una forma de batalla animal de tamaño Mediano. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (como por ejemplo una mariquita o un escarabajo para los coleópteras), pero esto no tiene efecto alguno ni en el Tamaño ni en las estadísticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar este conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
-- CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
+- CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 10 Puntos de Golpe temporales.
 - Vision en la penumbra.
-- Uno o mas ataques especificos a la forma de batalla que eliges, que son los unicos con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +13 y tu bonificador al dano es +2. Estos ataques estan basados en la Fuerza (a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
+- Uno o mas ataques específicos a la forma de batalla que eliges, que son los unidos con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +13 y tu bonificados al dano es +2. Estos ataques estan basados en la Fuerza (a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
 - Un modificador +13 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
 Obtienes aptitudes especificas basadas en la forma elegida:
@@ -1066,11 +1066,11 @@ Obtienes aptitudes especificas basadas en la forma elegida:
 
 Te transformas en un monstruo legendario, adoptando una forma de batalla Enorme. Cuando lanzas este conjuro, elige entre ave fenix, gusano de las cavernas o serpiente marina. Mientras estas en esta forma, obtienes el rasgo bestia (para el fenix) o el rasgo animal (para el gusano de las cavernas o la serpiente marina). Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
-- CA = 20 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
+- CA = 20 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 20 Puntos de Golpe temporales.
 - Vision en la oscuridad.
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +28, y utilizas el dano indicado. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unidos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +28, y utilizas el dano indicado. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
 - Un modificador +30 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
 Obtienes aptitudes especificas basadas en el monstruo elegido:
@@ -1090,10 +1090,10 @@ Obtienes aptitudes especificas basadas en el monstruo elegido:
 **Tradiciones:** arcana, primigenia
 **Duracion:** 10 minutos
 
-Te transformas una forma de batalla de animal Menudo, como por ejemplo un gato, un insecto, un lagarto o una rata. Tu eres quien decide el tipo especifico de animal (como por ejemplo una rata o una mantis religiosa), pero eso no afecta ni a tu Tamano ni a tus estadisticas. En esta forma, tienes el rasgo animal y no puedes llevar a cabo Golpes. Puedes Disipar el conjuro.
+Te transformas una forma de batalla de animal Menudo, como por ejemplo un gato, un insecto, un lagarto o una rata. Tu eres quien decide el tipo especifico de animal (como por ejemplo una rata o una mantis religiosa), pero eso no afecta ni a tu Tamaño ni a tus estadísticas. En esta forma, tienes el rasgo animal y no puedes llevar a cabo Golpes. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes:
-- CA = 15 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+Obtienes las siguientes estadísticas y aptitudes:
+- CA = 15 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - Velocidad 20 pies (6 m).
 - Debilidad 5 al dano fisico (si sufres dano fisico en esta forma, sufres 5 dano adicional).
 - Vision en la penumbra y olfato impreciso 30 pies (9 m).
@@ -1108,14 +1108,14 @@ Obtienes las siguientes estadisticas y aptitudes:
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto
 
-Inspirandote en las criaturas frondosas, te transformas en una forma de batalla de planta Grande. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes elegir una planta especifica similar en la que convertirte (como por ejemplo una Nepenthes en lugar de una Dionea), pero esto no tiene efecto alguno ni en el Tamano ni en las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo planta. Puedes Disipar el conjuro.
+Inspirandote en las criaturas frondosas, te transformas en una forma de batalla de planta Grande. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes elegir una planta especifica similar en la que convertirte (como por ejemplo una Nepenthes en lugar de una Dionea), pero esto no tiene efecto alguno ni en el Tamaño ni en las estadísticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo planta. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
-- CA = 19 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
+- CA = 19 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 12 Puntos de Golpe temporales.
 - Resistencia 10 al veneno.
 - Vision en la penumbra.
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +17 y tu bonificador al dano es +11. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unidos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +17 y tu bonificados al dano es +11. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
 - Un modificador +19 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
 Obtienes aptitudes especificas basadas en la planta elegida:
@@ -1134,7 +1134,7 @@ Obtienes aptitudes especificas basadas en la planta elegida:
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 **Duracion:** 5 minutos
 
-El objetivo se transforma en un estado vaporoso. En este estado, el objetivo es amorfo. Pierde cualquier bonificador por objeto a la CA y todos los demas efectos y bonificadores debidos a la armadura, utilizando su modificador por competencia para la defensa sin armadura. Obtiene resistencia 8 al dano fisico y es inmune al dano de precision. No puede lanzar conjuros, activar objetos o utilizar acciones con el rasgo atacar o manipular. Obtiene una Velocidad de vuelo de 10 pies (3 m) y puede deslizarse a traves de grietas minusculas. El objetivo puede Disipar el conjuro.
+El objetivo se transforma en un estado vaporoso. En este estado, el objetivo es amorfo. Pierde cualquier bonificados por objeto a la CA y todos los demas efectos y bonificadores debidos a la armadura, utilizando su modificador por competencia para la defensa sin armadura. Obtiene resistencia 8 al dano fisico y es inmune al dano de precision. No puede lanzar conjuros, activar objetos o utilizar acciones con el rasgo atacar o manipular. Obtiene una Velocidad de vuelo de 10 pies (3 m) y puede deslizarse a traves de grietas minúsculas. El objetivo puede Disipar el conjuro.
 
 ---
 
@@ -1145,11 +1145,11 @@ El objetivo se transforma en un estado vaporoso. En este estado, el objetivo es 
 
 Llamas al poder de los Planos para transformarte en una forma de batalla elemental Mediana. Cuando Lanzas este conjuro, elige un elemento de los indicados. Cuando estas en esta forma obtienes el rasgo correspondiente ademas del rasgo elemental. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar el conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
-- CA = 19 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de batalla eliges:
+- CA = 19 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 10 Puntos de Golpe temporales.
 - Vision en la oscuridad.
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +18 y tu bonificador al dano es +9. Son ataques basados en la Destreza (aire, fuego o metal) o en la Fuerza (agua, madera o tierra). Si tu modificador por ataque sin armas correspondiente es mayor, puedes usarlo en su lugar.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unidos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +18 y tu bonificados al dano es +9. Son ataques basados en la Destreza (aire, fuego o metal) o en la Fuerza (agua, madera o tierra). Si tu modificador por ataque sin armas correspondiente es mayor, puedes usarlo en su lugar.
 - Acrobacias (aire, fuego o metal) o Atletismo (agua, madera o tierra), modificador +20; ignora este cambio si tu propio modificador es mas grande.
 
 Obtienes aptitudes especificas basadas en el elemento elegido:
@@ -1177,9 +1177,9 @@ Obtienes aptitudes especificas basadas en el elemento elegido:
 **Tradiciones:** arcana, ocultista, primigenia
 **Duracion:** 10 minutos
 
-Transformas tu apariencia a la de un humanoide Pequeno o Mediano, como por ejemplo un elfo, enano, goblin, humano, mediano u orco. Obtienes el rasgo humanoide ademas de tus demas rasgos mientras estas en esta forma, asi como cualquier rasgo relacionado con el tipo de la criatura (como por ejemplo, goblin o humano). Si la transformacion reduce tu tamano, tu alcance queda reducido en identica medida (tipicamente: 5 pies (1,5 m)). La transformacion no cambia tus estadisticas en modo alguno, y no obtienes ninguna aptitud especial de la forma humanoide que adoptas. Sigues pudiendo vestir y utilizar tu equipo, que cambia de tamano (si es necesario) para encajar con tu nueva forma. Si algun objeto abandona tu persona, vuelve a su tamano habitual.
+Transformas tu apariencia a la de un humanoide Pequeno o Mediano, como por ejemplo un elfo, enano, goblin, humano, mediano u orco. Obtienes el rasgo humanoide ademas de tus demas rasgos mientras estas en esta forma, asi como cualquier rasgo relacionado con el tipo de la criatura (como por ejemplo, goblin o humano). Si la transformación reduce tu tamaño, tu alcance queda reducido en identica medida (tipicamente: 5 pies (1,5 m)). La transformación no cambia tus estadísticas en modo alguno, y no obtienes ninguna aptitud especial de la forma humanoide que adoptas. Sigues pudiendo vestir y utilizar tu equipo, que cambia de tamaño (si es necesario) para encajar con tu nueva forma. Si algún objeto abandona tu persona, vuelve a su tamaño habitual.
 
-Forma humanoide te concede un bonificador +4 por estatus a las pruebas de Engano para hacerte pasar por un miembro generico de la ascendencia elegida, y anades tu nivel incluso si no estas entrenado, pero no puedes hacerte pasar por una persona especifica. Si quieres Imitar a un individuo, sigues teniendo que crear un disfraz, aunque el DJ no tendra en cuenta la diferencia en la ascendencia al determinar la CD de tu prueba de Engano. Puedes Disipar este conjuro.
+Forma humanoide te concede un bonificados +4 por estatus a las pruebas de Engano para hacerte pasar por un miembro generico de la ascendencia elegida, y anades tu nivel incluso si no estas entrenado, pero no puedes hacerte pasar por una persona especifica. Si quieres Imitar a un individuo, sigues teniendo que crear un disfraz, aunque el DJ no tendra en cuenta la diferencia en la ascendencia al determinar la CD de tu prueba de Engano. Puedes Disipar este conjuro.
 
 **Potenciado (3.o)** Obtienes vision en la oscuridad o vision en la penumbra si la forma que adoptas dispone de dicha aptitud.
 
@@ -1193,11 +1193,11 @@ Forma humanoide te concede un bonificador +4 por estatus a las pruebas de Engano
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** hasta 5 criaturas voluntarias
 **Duracion:** 1 minuto
 
-Un aspecto feroz abruma a los objetivos, llenandoles de fuerza y de ferocidad. Los objetivos obtienen 5 Puntos de Golpe temporales, un bonificador +10 pies (3 m) por estatus a sus velocidades y debilidad 5 a la plata. Tambien les crecen unos crueles colmillos y zarpas, que son ataques sin armas. Los colmillos infligen 2d8 dano perforante; las zarpas infligen 2d6 dano cortante y tienen los rasgos agil y sutil. Los objetivos utilizan en sus ataques su mayor competencia en armas o ataques sin arma y si tienen especializacion en armas o especializacion mayor en armas, anaden tambien dicho dano. En un impacto critico con uno de estos ataques sin armas, la criatura impactada sufre 1d4 dano persistente por sangrado.
+Un aspecto feroz abruma a los objetivos, llevándoles de fuerza y de ferocidad. Los objetivos obtienen 5 Puntos de Golpe temporales, un bonificados +10 pies (3 m) por estatus a sus velocidades y debilidad 5 a la plata. Tambien les crecen unos crueles colmillos y zarpas, que son ataques sin armas. Los colmillos infligen 2d8 dano perforante; las zarpas infligen 2d6 dano cortante y tienen los rasgos agil y sutil. Los objetivos utilizan en sus ataques su mayor competencia en armas o ataques sin arma y si tienen especialización en armas o especialización mayor en armas, anaden tambien dicho dano. En un impacto critico con uno de estos ataques sin armas, la criatura impactada sufre 1d4 dano persistente por sangrado.
 
-Los objetivos no pueden utilizar acciones de concentrar a menos que dichas acciones tambien tengan el rasgo furia, con la excepcion de Buscar. Una criatura puede querer acabar los efectos del conjuro sobre si utilizando una sola accion, que tiene el rasgo furia, mediante una salvacion de Voluntad contra tu CD de conjuros; con un exito, lo consigue.
+Los objetivos no pueden utilizar acciones de concentrar a menos que dichas acciones tambien tengan el rasgo furia, con la excepcion de Buscar. Una criatura puede querer acabar los efectos del conjuro sobre si utilizando una sola acción, que tiene el rasgo furia, mediante una salvación de Voluntad contra tu CD de conjuros; con un éxito, lo consigue.
 
-Si el objetivo esta bajo la luz de la luna llena, tambien crece en un tamano si es Mediano o menor. Esto incrementa en 5 pies (1,5 m) el alcance de una criatura Mediana o Menuda.
+Si el objetivo esta bajo la luz de la luna llena, tambien crece en un tamaño si es Mediano o menor. Esto incrementa en 5 pies (1,5 m) el alcance de una criatura Mediana o Menuda.
 
 **Potenciado (6.o)** Los Puntos de Golpe temporales se incrementan a 10, la debilidad a la plata a 10 y el dano infligido por los ataques a tres dados.
 

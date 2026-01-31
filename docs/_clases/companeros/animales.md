@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/companeros/animales/
+permalink: /clases/compañeros/animales/
 title: Compañeros Animales
 chapter: Clases
 category: clases
@@ -32,7 +32,7 @@ Cada entrada de compañero animal incluye las siguientes estadísticas:
 
 **Requisitos** La criatura es un compañero animal
 
-Tu compañero animal te apoya. Obtienes los beneficios indicados en la entrada Beneficio por apoyo de tu tipo de compañero. Si el animal utiliza la accion de Apoyar, las unicas otras acciones que puede utilizar en su turno son acciones basicas de movimiento para colocarse en una posicion que le permite sacar partido de los beneficios del Apoyo; si ya ha utilizado cualquier otra accion en este turno, no puede Apoyarte.
+Tu compañero animal te apoya. Obtienes los beneficios indicados en la entrada Beneficio por apoyo de tu tipo de compañero. Si el animal utiliza la acción de Apoyar, las unidas otras acciones que puede utilizar en su turno son acciones básicas de movimiento para colocarse en una posición que le permite sacar partido de los beneficios del Apoyo; si ya ha utilizado cualquier otra acción en este turno, no puede Apoyarte.
 
 ## Compañeros Animales de Monta
 
@@ -44,7 +44,7 @@ Un aliado tuyo o tu podeis montar a tu compañero animal siempre que sea de una 
 
 ### Ave
 
-Tu compañero es un ave de presa, como por ejemplo un aguila, un halcon o una lechuza.
+Tu compañero es un ave de presa, como por ejemplo un águila, un halcón o una lechuza.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -86,7 +86,7 @@ Tu compañero es un caballo, poni o equino similar.
 
 *Movimiento*
 
-El caballo da dos zancadas con un bonificador +10 pies (3 m) por circunstancia a su Velocidad.
+El caballo da dos zancadas con un bonificados +10 pies (3 m) por circunstancia a su Velocidad.
 
 ---
 
@@ -112,7 +112,7 @@ Tu compañero es un cocodrilo o un reptil similar, como por ejemplo un aligator 
 
 **Requisitos** El cocodrilo tiene una criatura agarrada.
 
-El cocodrilo encoge sus patas y gira rapidamente arrastrando a su victima. Da un Golpe de mandibulas con un bonificador +2 por circunstancia a la tirada contra la criatura agarrada. Si acierta, tambien deja tumbada a la criatura. Si falla, la suelta.
+El cocodrilo encoge sus patas y gira rapidamente arrastrando a su victima. Da un Golpe de mandibular con un bonificados +2 por circunstancia a la tirada contra la criatura agarrada. Si acierta, tambien deja tumbada a la criatura. Si falla, la suelta.
 
 ---
 
@@ -120,7 +120,7 @@ El cocodrilo encoge sus patas y gira rapidamente arrastrando a su victima. Da un
 
 *Poco comun - Dragon*
 
-Tu compañero es un draco rapido pero incapaz de volar, de inteligencia limitada, menos cruel que la mayoria pero ferozmente leal a ti. Un draco de monta tiene el rasgo dragon en lugar del rasgo animal, pero por lo demas funciona normalmente como un compañero animal.
+Tu compañero es un drago rapido pero incapaz de volar, de inteligencia limitada, menos cruel que la mayoría pero ferozmente leal a ti. Un drago de monta tiene el rasgo dragon en lugar del rasgo animal, pero por lo demas funciona normalmente como un compañero animal.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -140,7 +140,7 @@ Tu compañero es un draco rapido pero incapaz de volar, de inteligencia limitada
 
 **Frecuencia** una vez por hora
 
-El draco de monta resopla un cono de fuego de 30 pies (9 m), infligiendo 1d6 daño por fuego por cada 2 niveles de draco a todas las criaturas en el area (salvacion basica de Reflejos). Esto utiliza una CD entrenada con el bonificador por Constitucion del draco o una CD experta si el draco es especializado.
+El drago de monta resopla un cono de fuego de 30 pies (9 m), infligiendo 1d6 daño por fuego por cada 2 niveles de drago a todas las criaturas en el area (salvación basica de Reflejos). Esto utiliza una CD entrenada con el bonificados por Constitución del drago o una CD experta si el drago es especializado.
 
 ---
 
@@ -165,7 +165,7 @@ Tu compañero es un dromaeosaurido (tambien llamado raptor), como por ejemplo un
 
 *Floritura*
 
-El raptor da un Paso hasta 10 pies (3 m) y despues da un Golpe, o da un Golpe y despues da un Paso hasta 10 pies (3 m).
+El raptor da un Paso hasta 10 pies (3 m) y después da un Golpe, o da un Golpe y después da un Paso hasta 10 pies (3 m).
 
 ---
 
@@ -189,7 +189,7 @@ Tu compañero pertenece a una de las diversas especies de escorpion gigante.
 
 **Maniobra avanzada: Agarrar y aguijonear** [two-actions]
 
-El escorpion mantiene a su enemigo retenido con sus pinzas para poderle clavar el aguijon. Da un Golpe de pinza. Si el Golpe impacta, la criatura objetivo queda automaticamente agarrada por el escorpion, que a continuacion da un Golpe de aguijon contra la misma. La condicion de agarrado dura hasta el final de tu siguiente turno.
+El escorpion mantiene a su enemigo retenido con sus pinzas para poderle clavar el aguijón. Da un Golpe de pinza. Si el Golpe impacta, la criatura objetivo queda automaticamente agarrada por el escorpion, que a continuación da un Golpe de aguijón contra la misma. La condición de agarrado dura hasta el final de tu siguiente turno.
 
 ---
 
@@ -215,13 +215,13 @@ Tu compañero es un felino grande, como por ejemplo un leopardo o un tigre.
 
 *Floritura*
 
-El felino da una Zancada y despues un Golpe. Si no estaba detectado al inicio de su Asalto felino, permanece sin detectar hasta despues del ataque.
+El felino da una Zancada y después un Golpe. Si no estaba detectado al inicio de su Asalto felino, permanece sin detectar hasta después del ataque.
 
 ---
 
 ### Jabali
 
-Tu compañero es un jabali o un cerdo.
+Tu compañero es un jabalí o un cerdo.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -237,7 +237,7 @@ Tu compañero es un jabali o un cerdo.
 
 **Maniobra avanzada: Carga de jabali** [two-actions]
 
-El jabali da dos Zancadas en linea recta y despues da un Golpe de colmillo. Si se mueve por lo menos 20 pies (6 m), obtiene un bonificador +2 por circunstancia a su tirada de ataque.
+El jabalí da dos Zancadas en linea recta y después da un Golpe de colmillo. Si se mueve por lo menos 20 pies (6 m), obtiene un bonificados +2 por circunstancia a su tirada de ataque.
 
 ---
 
@@ -267,7 +267,7 @@ El lobo derriba automaticamente al objetivo de su Golpe de mandibula.
 
 ### Murcielago
 
-Tu compañero es un murcielago particularmente grande, como por ejemplo un murcielago gigante.
+Tu compañero es un murciélago particularmente grande, como por ejemplo un murciélago gigante.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -284,7 +284,7 @@ Tu compañero es un murcielago particularmente grande, como por ejemplo un murci
 
 **Maniobra avanzada: Azote de ala** [two-actions]
 
-El murcielago agita salvajemente sus alas, dando Golpes de ala contra hasta 3 enemigos adyacentes. Cada ataque cuenta contra el penalizador por ataque multiple del murcielago, pero solo se incrementa una vez todos los ataques se han llevado a cabo.
+El murciélago agita salvajemente sus alas, dando Golpes de ala contra hasta 3 enemigos adyacentes. Cada ataque cuenta contra el penalizador por ataque multiple del murciélago, pero solo se incrementa una vez todos los ataques se han llevado a cabo.
 
 ---
 
@@ -309,7 +309,7 @@ Tu compañero es un oso negro, gris, polar o cualquier otro tipo de oso.
 
 **Requisitos** La ultima accion del oso ha sido un Golpe de garra con exito.
 
-El oso da otro Golpe de garra contra el mismo objetivo. Si dicho Golpe impacta, el objetivo queda tambien apresado, como si el oso hubiera hecho una Presa con exito sobre el mismo.
+El oso da otro Golpe de garra contra el mismo objetivo. Si dicho Golpe impacta, el objetivo queda tambien apresado, como si el oso hubiera hecho una Presa con éxito sobre el mismo.
 
 ---
 
@@ -319,7 +319,7 @@ El oso da otro Golpe de garra contra el mismo objetivo. Si dicho Golpe impacta, 
 
 **Acceso** Eres miembro de la orden de la hoja.
 
-Tu compañero es un arbol andante, un primo de los grandes custodios y de los regentes arboreos. Un retoño arboreo tiene el rasgo planta en lugar de animal, pero por lo demas funciona normalmente como un compañero animal. Solo suelen seleccionarlos los druidas de la orden animal que ademas son miembros de la orden de la hoja.
+Tu compañero es un árbol andante, un primo de los grandes custodios y de los regentes arbóreos. Un retoño arboreo tiene el rasgo planta en lugar de animal, pero por lo demas funciona normalmente como un compañero animal. Solo suelen seleccionarlos los druidas de la orden animal que ademas son miembros de la orden de la hoja.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -335,7 +335,7 @@ Tu compañero es un arbol andante, un primo de los grandes custodios y de los re
 
 **Maniobra avanzada: Arrojar roca** [reaction]
 
-El retoño arboreo Interactua recogiendo una roca a su alcance o recuperando una que lleva guardada, y despues la arroja mediante un Golpe a distancia que inflige una base de 1d6 daño contundente con un incremento de rango de distancia de 30 pies (9 m). El daño es 2d6 para un retoño arboreo maduro y 3d6 para uno especializado.
+El retoño arboreo Interactuó recogiendo una roca a su alcance o recuperando una que lleva guardada, y después la arroja mediante un Golpe a distancia que inflige una base de 1d6 daño contundente con un incremento de rango de distancia de 30 pies (9 m). El daño es 2d6 para un retoño arboreo maduro y 3d6 para uno especializado.
 
 ---
 
@@ -359,7 +359,7 @@ Tu compañero es una serpiente constrictora, como por ejemplo una boa o una pito
 
 **Requisitos** La serpiente tiene agarrada a una criatura mas pequeña.
 
-La serpiente inflige 12 daño contundente a la criatura agarrada, que tiene que hacer una salvacion basica de Fortaleza contra tu CD de clase. Si la serpiente es un compañero animal especializado, incrementa a 20 este daño.
+La serpiente inflige 12 daño contundente a la criatura agarrada, que tiene que hacer una salvación basica de Fortaleza contra tu CD de clase. Si la serpiente es un compañero animal especializado, incrementa a 20 este daño.
 
 ---
 
@@ -381,13 +381,13 @@ Tu compañero es un simio u otro primate.
 
 **Maniobra avanzada: Exhibicion aterradora** [one-action]
 
-Tu simio lleva a cabo una exhibicion ruidosa y amenazadora, desequilibrando a un enemigo. El simio pretende Desmoralizar a la criatura objetivo; esta exhibicion obtiene el rasgo visual y no requiere idioma. Mientras esta asustado por dicha aptitud, el objetivo queda desprevenido ante tu simio.
+Tu simio lleva a cabo una exhibición ruidosa y amenazadora, desequilibrando a un enemigo. El simio pretende Desmoralizar a la criatura objetivo; esta exhibición obtiene el rasgo visual y no requiere idioma. Mientras esta asustado por dicha aptitud, el objetivo queda desprevenido ante tu simio.
 
 ---
 
 ### Tejon
 
-Tu compañero es un tejon, un gloton u otro mustelido grande.
+Tu compañero es un tejon, un glotón u otro mustelido grande.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -413,13 +413,13 @@ El tejon entra en un estado de pura furia que dura 1 minuto, hasta que no quedan
 - Inflige 4 daño adicional con sus ataques de mordisco y 2 daño adicional con sus ataques de garra.
 - Sufre un penalizador -1 a su CA.
 - No puede utilizar acciones con el rasgo concentrar. El compañero animal puede Buscar incluso cuando esta en furia.
-- Despues de salir de la furia, no puede utilizarla de nuevo durante 1 minuto.
+- Después de salir de la furia, no puede utilizarla de nuevo durante 1 minuto.
 
 ---
 
 ### Tiburon
 
-Tu compañero es un tiburon de cualquier tipo, como por ejemplo un tiburon martillo, un gran tiburon blanco o un tiburon rompecabezas.
+Tu compañero es un tiburón de cualquier tipo, como por ejemplo un tiburón martillo, un gran tiburón blanco o un tiburón rompecabezas.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -438,7 +438,7 @@ Tu compañero es un tiburon de cualquier tipo, como por ejemplo un tiburon marti
 
 **Requisitos** El tiburon ha impactado con un Golpe de mandibulas en su accion mas reciente de este turno.
 
-El tiburon desgarra salvajemente la herida. El objetivo del Golpe del tiburon sufre 1d8 daño cortante (2d8 para un tiburon maduro o 3d8 para un compañero especializado).
+El tiburón desgarra salvajemente la herida. El objetivo del Golpe del tiburón sufre 1d8 daño cortante (2d8 para un tiburón maduro o 3d8 para un compañero especializado).
 
 ---
 
@@ -451,17 +451,17 @@ Puedes hacer avanzar a un compañero animal, por lo general debido a una de tus 
 Cuando avanzas un compañero animal joven a un compañero animal maduro:
 
 - Si tu compañero es de tamaño Mediano o mas pequeño, crece un tamaño.
-- Incrementa en 1 sus modificadores a la Fuerza, la Destreza, la Constitucion y la Sabiduria.
-- Incrementa su rango de competencia en Percepcion y en todas las tiradas de salvacion a experto. Incrementa sus rangos de competencia en Intimidacion, Sigilo y Supervivencia a entrenado y, si ya estaba entrenado en una de estas habilidades debido a su tipo, incrementa a experto su rango de competencia en dicha habilidad.
+- Incrementa en 1 sus modificadores a la Fuerza, la Destreza, la Constitución y la Sabiduría.
+- Incrementa su rango de competencia en Percepción y en todas las tiradas de salvación a experto. Incrementa sus rangos de competencia en Intimidación, Sigilo y Supervivencia a entrenado y, si ya estaba entrenado en una de estas habilidades debido a su tipo, incrementa a experto su rango de competencia en dicha habilidad.
 - Incrementa su daño por ataque sin arma de 1 dado a 2 dados (por ejemplo de 1d8 a 2d8).
 
 ### Compañeros Animales Agiles
 
 Cuando avanzas un compañero animal maduro a un compañero animal agil:
 
-- Incrementa en 2 su modificador por Destreza y en 1 sus modificadores por Fuerza, Constitucion y Sabiduria.
+- Incrementa en 2 su modificador por Destreza y en 1 sus modificadores por Fuerza, Constitución y Sabiduría.
 - Incrementa su rango de competencia en Acrobacias a experto.
-- Inflige 2 daño adicional con sus ataques sin armas. Sus ataques se convierten en magicos a efecto de ignorar las resistencias.
+- Inflige 2 daño adicional con sus ataques sin armas. Sus ataques se convierten en mágicos a efecto de ignorar las resistencias.
 - Aprende la maniobra avanzada para su tipo.
 
 ### Compañeros Animales Salvajes
@@ -469,20 +469,20 @@ Cuando avanzas un compañero animal maduro a un compañero animal agil:
 Cuando avanzas un compañero animal maduro a un compañero animal salvaje:
 
 - Si tu compañero es de tamaño Mediano o mas pequeño, crece un tamaño.
-- Incrementa en 2 su modificador por Fuerza y en 1 sus modificadores por Destreza, Constitucion y Sabiduria.
+- Incrementa en 2 su modificador por Fuerza y en 1 sus modificadores por Destreza, Constitución y Sabiduría.
 - Incrementa su rango de competencia en Atletismo a experto.
-- Inflige 3 daño adicional con sus ataques sin armas. Sus ataques se convierten en magicos a efecto de ignorar las resistencias.
+- Inflige 3 daño adicional con sus ataques sin armas. Sus ataques se convierten en mágicos a efecto de ignorar las resistencias.
 - Aprende la maniobra avanzada para su tipo.
 
 ### Compañeros Animales Especializados
 
-Los compañeros animales especializados son mas inteligentes y tienen comportamientos mas complejos. La mayoria de compañeros animales tan solo pueden tener una especializacion. La primera vez que un animal obtiene una especializacion, obtiene tambien lo siguiente:
+Los compañeros animales especializados son mas inteligentes y tienen comportamientos mas complejos. La mayoría de compañeros animales tan solo pueden tener una especialización. La primera vez que un animal obtiene una especialización, obtiene tambien lo siguiente:
 
 - Su rango de competencia para los ataques sin arma se incrementa a experto.
-- Su rango de competencia para las tiradas de salvacion y para la Percepcion se incrementa a maestro.
+- Su rango de competencia para las tiradas de salvación y para la Percepción se incrementa a maestro.
 - Incrementa en 1 su modificador por Destreza y en 2 su modificador por Inteligencia.
 - Su daño por ataque sin arma se incrementa de 2 dados a 3 dados, e incrementa su daño adicional con los ataques sin armas de 2 a 4 o de 3 a 6.
-- El beneficio de especializacion adicional que se indica a continuacion.
+- El beneficio de especialización adicional que se indica a continuación.
 
 #### Especializaciones
 

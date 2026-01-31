@@ -5,7 +5,7 @@ title: Herencias para Leshys
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1
-ancestry: Leshy
+ancestry: Leahy
 ---
 
 La herencia de un leshy representa los beneficios que obtiene de su cuerpo. Elige una de las siguientes herencias para leshys a 1.er nivel.
@@ -38,7 +38,7 @@ Tu cuerpo fabrica continuamente pequenas frutas imbuidas de magia primigenia.
 
 ## Leshy de las hojas
 
-Tu cuerpo esta hecho principalmente de follaje natural y, como una hoja que cae de un arbol, aterrizas de las caidas con una gracia particular.
+Tu cuerpo esta hecho principalmente de follaje natural y, como una hoja que cae de un árbol, aterrizas de las caídos con una gracia particular.
 
 **Beneficio:** No sufres dano alguno por caida, sea cual sea la distancia que caes.
 
@@ -46,7 +46,7 @@ Tu cuerpo esta hecho principalmente de follaje natural y, como una hoja que cae 
 
 ## Leshy de las raices
 
-Tu cuerpo esta hecho de recias raices que te fijan al suelo con firmeza.
+Tu cuerpo esta hecho de recias raíces que te fijan al suelo con firmeza.
 
 **Beneficio:** Obtienes 10 Puntos de Golpe debido a tu ascendencia en lugar de 8. Puedes subsistir sin luz solar durante 2 semanas antes de empezar a pasar hambre. Obtienes un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra intentos de Reposicionarte, Empujarte o Derribarte. Este bonificador tambien se aplica a las tiradas de salvacion contra conjuros o efectos que intentan moverte o tumbarte.
 

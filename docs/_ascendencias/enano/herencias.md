@@ -14,7 +14,7 @@ Los enanos se enorgullecen de la resiliencia de sus linajes. Elige una de entre 
 
 ## Enano de la forja
 
-Tienes una notable adaptacion a los entornos calidos.
+Tienes una notable adaptación a los entornos calidos.
 
 **Beneficio:** Obtienes resistencia al fuego igual a la mitad de tu nivel (minimo 1), y tratas los efectos del calor ambiental como si fueran un grado menos extremos (un calor increible se convierte en extremo, un calor extremo se convierte en severo, y asi sucesivamente).
 
@@ -26,13 +26,13 @@ Tus antepasados vivieron y trabajaron entre las antiguas piedras de las montanas
 
 **Beneficio:** Obtienes un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra intentos de Reposicionarte, Empujarte o Derribarte. Este bonificador tambien se aplica a las tiradas de salvacion contra conjuros o efectos que intentan obligarte a moverte o tirarte al suelo.
 
-Ademas, si cualquier efecto te obligaria a moverte 10 pies (3 m) o mas, solo te mueves la mitad de la distancia.
+Ademas, si cualquier efecto te obligaría a moverte 10 pies (3 m) o mas, solo te mueves la mitad de la distancia.
 
 ---
 
 ## Enano de sangre antigua
 
-Los heroes enanos de la antiguedad podian sacudirse la magia de sus enemigos y parte de dicha resistencia se manifiesta en ti.
+Los heroes enanos de la antigüedad podían sacudirse la magia de sus enemigos y parte de dicha resistencia se manifiesta en ti.
 
 **Beneficio:** Obtienes la reaccion Llamar a la sangre antigua.
 

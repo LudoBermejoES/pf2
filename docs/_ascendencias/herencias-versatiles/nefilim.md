@@ -10,9 +10,9 @@ versatile_heritage: Nefilim
 
 <img src="{{ '/assets/images/ancestries/nefilim.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Nefilim">
 
-Son incontables las leyendas que hablan de relaciones carnales entre mortales e inmortales, y de los hijos que nacen de dichos encuentros. Estos hijos, conocidos como **retoños planarios**, son mortales que heredan la esencia sobrenatural de otro Plano, que se manifiesta a través de sus rasgos físicos distintivos y de sus poderes de otro mundo.
+Son incontables las leyendas que hablan de relaciones carnales entre mortales e inmortales, y de los hijos que nacen de dichos encuentros. Estos hijos, conocidos como **retoños plenarios**, son mortales que heredan la esencia sobrenatural de otro Plano, que se manifiesta a través de sus rasgos físicos distintivos y de sus poderes de otro mundo.
 
-Los nefilim son retoños planarios que pueden trazar su herencia extraplanaria hasta los celestiales, los infernales, los monitores y otros seres que a menudo se ven implicados en los asuntos religiosos de los mortales.
+Los nefilim son retoños plenarios que pueden trazar su herencia extraplanaria hasta los celestiales, los infernales, los monitores y otros seres que a menudo se ven implicados en los asuntos religiosos de los mortales.
 
 Los nefilim tienen la ambición y la capacidad de crecimiento y de cambio inherentes a sus antepasados mortales, a la vez que disponen también de cierta parte del poder y la apariencia de un ser o seres inmortales cuyas energías influenciaron su linaje.
 
@@ -110,7 +110,7 @@ Tu linaje desciende de los diablos, los conspiradores de la malévola jerarquía
 ### Tocado por las musas
 **Dote 1** · Linaje, Nefilim
 
-Tu sangre resuena con el poder liberador de los azatas, encarnaciones vivas de la libertad del reino salvaje del Elíseo.
+Tu sangre resuena con el poder liberador de los adatas, encarnaciones vivas de la libertad del reino salvaje del Elíseo.
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia a Huir. Cuando sufres un fallo crítico en una prueba de Huir, en su lugar sufres un fallo, y cuando obtienes un éxito, en su lugar obtienes un éxito crítico.
 
@@ -209,7 +209,7 @@ Tu sangre recién derramada está santificada, con efectos similares a los del a
 
 **Beneficio:** Si un infernal, muerto viviente o criatura con debilidad a lo sagrado bebe tu sangre o te inflige daño perforante o cortante mediante mandíbulas, colmillos o un ataque similar, dicha criatura sufre 1d6 daño espiritual con el rasgo sagrado.
 
-Tienes un bonificador +4 por circunstancia a las pruebas de Artesanía para Elaborar agua bendita utilizando tu sangre como uno de los ingredientes.
+Tienes un bonificados +4 por circunstancia a las pruebas de Artesanía para Elaborar agua bendita utilizando tu sangre como uno de los ingredientes.
 
 ---
 

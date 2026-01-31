@@ -12,7 +12,7 @@ versatile_heritage: Ascendencia Mixta
 
 Golarion dispone de numerosas metrópolis donde la gente de una amplia variedad de ascendencias se entremezcla. Además, aventureros de todos los bagajes y ascendencias a menudo acaban juntos y descubren que de la adversidad puede surgir el terreno común e incluso el amor. Como resultado, el mundo está lleno de gente cuyo linaje se puede trazar a por lo menos dos ascendencias diferentes.
 
-Los ejemplos más comunes de esto son los **aiuvarins** y los **dromaars**, que tienen antepasados elfos y orcos respectivamente. Si bien todos los dromaars y aiuvarins en el Mar Interior comparten humano como la otra parte de su origen, es posible que existan otras combinaciones.
+Los ejemplos más comunes de esto son los **aiuvarins** y los **drogaras**, que tienen antepasados elfos y orcos respectivamente. Si bien todos los drogaras y aiuvarins en el Mar Interior comparten humano como la otra parte de su origen, es posible que existan otras combinaciones.
 
 ## Herencia mixta personalizada
 
@@ -115,17 +115,17 @@ Tus acciones inspiran a tus aliados a grandes logros.
 
 Desde que los orcos de Belkzen se han convertido en una vanguardia crítica en la guerra contra el Tirano Susurrante, luchando a veces junto a aliados de otras ascendencias, los niños con una mezcla de herencia de orco y de otra ascendencia (típicamente de humano) han crecido en número.
 
-Muchos de estos "**semiorcos**" se denominan a sí mismos "**dromaars**", una palabra orca que se refiere a aquellos tamborileros cuya música envía a las hordas a la guerra, y se ven como los heraldos de una nueva era para los orcos en la Región del mar Interior.
+Muchos de estos "**semiorcos**" se denominan a sí mismos "**drogaras**", una palabra orca que se refiere a aquellos tamborileros cuya música envía a las hordas a la guerra, y se ven como los heraldos de una nueva era para los orcos en la Región del mar Interior.
 
-Algunos humanoides intolerantes ven a los orcos como más parecidos a los monstruos que a las personas, odiándolos y temiéndolos simplemente debido a su linaje. Esto puede empujar a los dromaars a los márgenes de la sociedad, donde algunos encuentran trabajo como braceros, mercenarios o delincuentes. Muchos de los que no pueden soportar las indignidades vertidas sobre ellos en la sociedad humana encuentran un hogar entre sus parientes orcos o viajan a las tierras vírgenes.
+Algunos humanoides intolerantes ven a los orcos como más parecidos a los monstruos que a las personas, odiándolos y temiéndolos simplemente debido a su linaje. Esto puede empujar a los drogaras a los márgenes de la sociedad, donde algunos encuentran trabajo como braceros, mercenarios o delincuentes. Muchos de los que no pueden soportar las indignidades vertidas sobre ellos en la sociedad humana encuentran un hogar entre sus parientes orcos o viajan a las tierras vírgenes.
 
-Algunos humanos suponen que los dromaars son menos inteligentes o que no están civilizados, y estos raramente encuentran aceptación en las sociedades con mucha gente de ese tipo. Para un clan orco, un dromaar se considera a menudo un añadido valioso, compensando lo que podría faltarle en fuerza física con los dones obtenidos de su otra línea ancestral.
+Algunos humanos suponen que los drogaras son menos inteligentes o que no están civilizados, y estos raramente encuentran aceptación en las sociedades con mucha gente de ese tipo. Para un clan orco, un dromaar se considera a menudo un añadido valioso, compensando lo que podría faltarle en fuerza física con los dones obtenidos de su otra línea ancestral.
 
 Un dromaar con un progenitor humano puede vivir típicamente unos **setenta años**.
 
 ## Podrías...
 
-- Ignorar, abrazar u oponerte activamente a los estereotipos comunes acerca de los dromaars.
+- Ignorar, abrazar u oponerte activamente a los estereotipos comunes acerca de los drogaras.
 - Sacar el máximo partido de tu tamaño y de tu fuerza, tanto física como socialmente.
 - Mantener la distancia con la gente de otras ascendencias, en caso de que te rechacen injustamente debido a tus antepasados orcos.
 
@@ -150,7 +150,7 @@ La fuerza de los orcos potencia tu linaje. Tienes un tinte verde en la piel y ot
 
 ## Dotes para Dromaars
 
-Además de las dotes de la ascendencia orca, las siguientes dotes están disponibles para los personajes dromaars.
+Además de las dotes de la ascendencia orca, las siguientes dotes están disponibles para los personajes drogaras.
 
 ### Nivel 1
 
@@ -161,7 +161,7 @@ Tu naturaleza dual de humano y orco te ha otorgado una perspectiva única, permi
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia a las pruebas de Diplomacia contra criaturas inteligentes no humanoides y contra los humanoides marginalizados en la sociedad humana (a discreción del DJ, pero típicamente incluyendo al menos los gigantes, los goblins, los kóbolds y los orcos).
 
-También obtienes este bonificador a las pruebas de recepción para Averiguar los motivos de dichas criaturas.
+También obtienes este bonificados a las pruebas de recepción para Averiguar los motivos de dichas criaturas.
 
 ---
 

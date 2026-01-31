@@ -20,14 +20,14 @@ spell_level: 10
 
 Te transformas en un avatar de tu dios, adoptando una forma de batalla Enorme. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar este conjuro.
 
-Obtienes las siguientes estadisticas y aptitudes sea cual sea la forma de batalla del dios que adoptas:
-- CA = 25 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+Obtienes las siguientes estadísticas y aptitudes sea cual sea la forma de batalla del dios que adoptas:
+- CA = 25 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 30 Puntos de Golpe temporales.
 - Vision en la oscuridad.
-- Uno o mas ataques especificos de la forma de batalla de tu dios, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +33, y utilizas el daño indicado. Los ataques cuerpo a cuerpo estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado) si no tienen el rasgo sutil, y todos tus ataques a distancia estan basados en la destreza.
+- Uno o mas ataques específicos de la forma de batalla de tu dios, que son los unidos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +33, y utilizas el daño indicado. Los ataques cuerpo a cuerpo estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado) si no tienen el rasgo sutil, y todos tus ataques a distancia estan basados en la destreza.
 - Un modificador +9 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
-Obtienes tambien las aptitudes especificas indicadas a continuacion para tu dios:
+Obtienes tambien las aptitudes especificas indicadas a continuación para tu dios:
 
 **Abadar** Velocidad 50 pies (15 m), excavar 30 pies (9 m), inmune a inmovilizado; A distancia ◆ ballesta (incremento de rango de distancia 120 pies [36 m], recarga 1), Daño 6d10+3 perforante.
 

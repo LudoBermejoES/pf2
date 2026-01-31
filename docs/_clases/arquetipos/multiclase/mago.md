@@ -8,11 +8,11 @@ category: clases
 
 ## Mago
 
-Has hecho incursiones en las artes arcanas y, a traves de la disciplina y del estudio academico, has aprendido a lanzar unos pocos conjuros.
+Has hecho incursiones en las artes arcanas y, a traves de la disciplina y del estudio académico, has aprendido a lanzar unos pocos conjuros.
 
 ### Personajes multiclase magos
 
-El arquetipo mago otorga conjuros preparados versatiles, perfectos para los personajes que buscan anadir alguna utilidad adicional.
+El arquetipo mago otorga conjuros preparados versatiles, perfectos para los personajes que buscan añadir alguna utilidad adicional.
 
 ---
 
@@ -22,7 +22,7 @@ El arquetipo mago otorga conjuros preparados versatiles, perfectos para los pers
 
 **Prerrequisitos:** Inteligencia +2
 
-Lanzas conjuros como un mago, obteniendo un libro de conjuros con 4 trucos arcanos comunes a tu eleccion. Obtienes la actividad Lanzar un conjuro. Puedes preparar 2 trucos cada dia a partir de tu libro de conjuros. Tienes el rango entrenado en las estadisticas modificador al ataque de conjuros y CD de conjuros. Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo mago es la Inteligencia, y son conjuros arcanos de mago. Obtienes competencia a rango entrenado en Arcanos; si ya la tenias, en su lugar la obtienes en una habilidad a tu eleccion. Selecciona una escuela; no obtienes ninguna aptitud debido a tu eleccion de escuela, pero tienes derecho a elegir dotes como miembro de la misma.
+Lanzas conjuros como un mago, obteniendo un libro de conjuros con 4 trucos arcanos comunes a tu elección. Obtienes la actividad Lanzar un conjuro. Puedes preparar 2 trucos cada dia a partir de tu libro de conjuros. Tienes el rango entrenado en las estadísticas modificador al ataque de conjuros y CD de conjuros. Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo mago es la Inteligencia, y son conjuros arcanos de mago. Obtienes competencia a rango entrenado en Arcanos; si ya la tenias, en su lugar la obtienes en una habilidad a tu elección. Selecciona una escuela; no obtienes ninguna aptitud debido a tu elección de escuela, pero tienes derecho a elegir dotes como miembro de la misma.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/mediano/descripcion/
+permalink: /ascendencias/mediano/descripción/
 title: Mediano
 chapter: Ascendencias
 category: ascendencias
@@ -51,7 +51,7 @@ Estos medianos nómadas a menudo viajan en pequeños grupos, compartiendo penali
 
 ### Ejemplos de nombres
 
-Anafa, Antal, Bellis, Boram, Etune, Filiu, Jamir, Kaleb, Linna, Marra, Miro, Rillka, Sistra, Sumak, Yamyra
+Anafa, Antal, Bellis, Boram, Etune, Feliu, Jamir, Kaleb, Linna, Marra, Miro, Rillka, Sistra, Sumak, Llamar
 
 ## Creencias
 

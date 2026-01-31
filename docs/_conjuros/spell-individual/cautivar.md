@@ -20,9 +20,9 @@ spell_level: 3
 
 ---
 
-Tus palabras fascinan a tus objetivos. Hablas o cantas sin interrupcion tanto en el lanzamiento como en la duracion. Los objetivos que son conscientes de tu discurso o de tu cancion podrian concederte su atencion univoca; cada objetivo tiene que hacer una salvacion de Voluntad. El DJ podria conceder un bonificador por circunstancia (con un maximo de +4) si el objetivo es de una religion, ascendencia o tendencia politica opuesta, o por lo demas es poco probable que este de acuerdo con lo que dices.
+Tus palabras fascinan a tus objetivos. Hablas o cantas sin interrupción tanto en el lanzamiento como en la duración. Los objetivos que son conscientes de tu discurso o de tu canción podrían concederte su atención univoca; cada objetivo tiene que hacer una salvación de Voluntad. El DJ podría conceder un bonificados por circunstancia (con un maximo de +4) si el objetivo es de una religion, ascendencia o tendencia politica opuesta, o por lo demas es poco probable que este de acuerdo con lo que dices.
 
-Cada criatura que llega al alcance tiene que hacer una salvacion cuando Mantienes el conjuro. Si estas hablando, cautivar obtiene el rasgo linguistico.
+Cada criatura que llega al alcance tiene que hacer una salvación cuando Mantienes el conjuro. Si estas hablando, cautivar obtiene el rasgo linguistico.
 
 **Exito critico** El objetivo no resulta afectado y se da cuenta de que has intentado utilizar la magia.
 

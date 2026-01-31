@@ -1,7 +1,7 @@
 ---
 layout: spell
-permalink: /conjuros/congelacion/
-title: Congelacion
+permalink: /conjuros/congelación/
+title: Congelación
 chapter: Conjuros
 spell_level: TRUCO
 ---
@@ -20,6 +20,6 @@ spell_level: TRUCO
 
 ---
 
-Un orbe de frio polar se forma alrededor de tu objetivo, congelando su cuerpo. El objetivo sufre 2d4 daño por frio con una salvacion basica de Fortaleza. Con un fallo critico, el objetivo ademas sufre debilidad 1 a contundente hasta el inicio de tu siguiente turno.
+Un orbe de frio polar se forma alrededor de tu objetivo, congelando su cuerpo. El objetivo sufre 2d4 daño por frio con una salvación basica de Fortaleza. Con un fallo critico, el objetivo ademas sufre debilidad 1 a contundente hasta el inicio de tu siguiente turno.
 
 **Potenciado (+1)** El daño se incrementa en 1d4 y la debilidad con un fallo critico se incrementa en 1.

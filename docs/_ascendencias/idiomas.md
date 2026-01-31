@@ -74,7 +74,7 @@ Los idiomas regionales son **poco comunes** pero los personajes de dicha región
 
 ## El idioma Común
 
-La mayoría de personajes aprenden el idioma **común**. Éste es el idioma más utilizado en la región donde tiene lugar la campaña. En la Región del mar Interior de Golarion, por ejemplo, la lengua común es el **taldano**.
+La mayoría de personajes aprenden el idioma **común**. Éste es el idioma más utilizado en la región donde tiene lugar la campaña. En la Región del mar Interior de Golarion, por ejemplo, la lengua común es el **taladro**.
 
 Los personajes que hablan común podrían enfrentarse a una barrera idiomática si viajaran a otro lugar con un idioma común diferente.
 

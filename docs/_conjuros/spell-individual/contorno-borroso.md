@@ -20,4 +20,4 @@ spell_level: 2
 
 ---
 
-La forma del objetivo parece borrosa. Este obtiene ocultamiento. Como quiera que la naturaleza de este efecto sigue haciendo que la ubicacion del objetivo sea obvia, no puede utilizar este ocultamiento para Esconderse o Moverse furtivamente.
+La forma del objetivo parece borrosa. Este obtiene ocultamiento. Como quiera que la naturaleza de este efecto sigue haciendo que la ubicación del objetivo sea obvia, no puede utilizar este ocultamiento para Esconderse o Moverse furtivamente.

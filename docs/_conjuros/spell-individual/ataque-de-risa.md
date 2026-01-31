@@ -20,7 +20,7 @@ spell_level: 2
 
 ---
 
-El objetivo se ve abrumado por una risa incontrolable. Tiene que hacer una salvacion de Voluntad.
+El objetivo se ve abrumado por una risa incontrolable. Tiene que hacer una salvación de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 

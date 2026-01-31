@@ -14,7 +14,7 @@ Los orcos tienen una larga historia en la superficie del mundo, y una historia a
 
 ## Orco de la lluvia
 
-Naciste en una selva tropical en la que solo hay maranas de arboles que te protegen de las tormentas torrenciales y de las inundaciones repentinas. Has aprendido a moverte con destreza por los terrenos de la selva y a resistir las diversas dolencias comunes en los entornos humedos.
+Naciste en una selva tropical en la que solo hay marinas de arboles que te protegen de las tormentas torrenciales y de las inundaciones repentinas. Has aprendido a moverte con destreza por los terrenos de la selva y a resistir las diversas dolencias comunes en los entornos húmedos.
 
 **Beneficio:** Obtienes un bonificador +2 por circunstancia a las pruebas de Atletismo para Trepar o Nadar y un bonificador +1 por circunstancia a las tiradas de salvacion contra las enfermedades.
 
@@ -30,7 +30,7 @@ Tus manos callosas y tus ojos rojos relatan una vida pasada en la profunda oscur
 
 ## Orco de las sepulturas
 
-Fuiste expuesto a poderosas energias nigromanticas que deberian haberte matado... pero sobreviviste. Tu piel es fria, humeda y gris.
+Fuiste expuesto a poderosas energias nigrománticas que deberían haberte matado... pero sobreviviste. Tu piel es fria, humeda y gris.
 
 **Beneficio:** Obtienes tanta resistencia al dano por vacio como la mitad de tu nivel (minimo 1). Obtienes tambien un bonificador +1 por circunstancia a las tiradas de salvacion contra los efectos con los rasgos muerte o vacio.
 
@@ -54,7 +54,7 @@ Tus antepasados sobrevivieron en climas frios.
 
 ## Orco listo para la batalla
 
-Desciendes una linea de terrorificos caudillos guerreros.
+Desciendes una linea de terroríficos caudillos guerreros.
 
 **Beneficio:** Obtienes el rango entrenado en Intimidacion y la dote de habilidad Mirada intimidante.
 
@@ -62,6 +62,6 @@ Desciendes una linea de terrorificos caudillos guerreros.
 
 ## Orco marcado por el clan
 
-Formas parte de una comunidad de orcos que practica rituales de escarificacion o tatuajes. Las marcas de tu piel muestran tu excepcional resistencia y vitalidad.
+Formas parte de una comunidad de orcos que practica rituales de escarificación o tatuajes. Las marcas de tu piel muestran tu excepcional resistencia y vitalidad.
 
 **Beneficio:** Obtienes 12 Puntos de Golpe debido a tu ascendencia en lugar de 10. Tambien obtienes la dote Duro de pelar.

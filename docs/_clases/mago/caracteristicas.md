@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /clases/mago/caracteristicas/
-title: Caracteristicas del Mago
+permalink: /clases/mago/características/
+title: Características del Mago
 chapter: Clases
 category: clases
 nav_order: 2
@@ -84,13 +84,13 @@ En el 1.er nivel obtienes cierta cantidad de competencias que representan tu ent
 
 ### Lanzamiento de Conjuros de Mago
 
-A traves del estudio dedicado y de la practica, puedes construir conjuros con rigor academico dando forma a la magia arcana. Eres un lanzador de conjuros y puedes lanzarlos de la tradicion arcana utilizando la actividad Lanzar un conjuro. Como mago, cuando lanzas conjuros, es probable que tus encantamientos especifiquen exactamente a que fuerzas recurres y como las moldeas, y tus gestos dan forma y dirigen de forma precisa tu magia mientras circulos de runas arcanas cobran vida.
+A traves del estudio dedicado y de la practica, puedes construir conjuros con rigor académico dando forma a la magia arcana. Eres un lanzador de conjuros y puedes lanzarlos de la tradición arcana utilizando la actividad Lanzar un conjuro. Como mago, cuando lanzas conjuros, es probable que tus encantamientos especifiquen exactamente a que fuerzas recurres y como las moldeas, y tus gestos dan forma y dirigen de forma precisa tu magia mientras círculos de runas arcanas cobran vida.
 
-A 1.er nivel, puedes preparar hasta dos conjuros de 1.er rango y cinco trucos cada manana de los que tienes en tu libro (ver a continuacion), ademas de un truco adicional por curriculo y un conjuro adicional por curriculo de cada rango que puedes lanzar de tu escuela arcana. Los conjuros preparados permanecen disponibles hasta que los lanzas o hasta que preparas conjuros de nuevo. El numero de conjuros que puedes preparar se denomina tus espacios de conjuro.
+A 1.er nivel, puedes preparar hasta dos conjuros de 1.er rango y cinco trucos cada manana de los que tienes en tu libro (ver a continuación), ademas de un truco adicional por currículo y un conjuro adicional por currículo de cada rango que puedes lanzar de tu escuela arcana. Los conjuros preparados permanecen disponibles hasta que los lanzas o hasta que preparas conjuros de nuevo. El numero de conjuros que puedes preparar se denomina tus espacios de conjuro.
 
 Conforme subes de nivel como mago, el numero de conjuros que puedes preparar cada dia se incrementa, asi como el rango superior de conjuro que puedes lanzar, tal y como se indica en la tabla Conjuros de mago por dia.
 
-Algunos de tus conjuros requieren que hagas un ataque de conjuro para ver lo efectivos que son, o que tus enemigos tiren contra tu CD de conjuros (tipicamente haciendo una tirada de salvacion). Como quiera que tu atributo clave es la Inteligencia, tu modificador a los ataques de conjuro y tu CD de conjuros utilizan tu modificador por Inteligencia.
+Algunos de tus conjuros requieren que hagas un ataque de conjuro para ver lo efectivos que son, o que tus enemigos tiren contra tu CD de conjuros (tipicamente haciendo una tirada de salvación). Como quiera que tu atributo clave es la Inteligencia, tu modificador a los ataques de conjuro y tu CD de conjuros utilizan tu modificador por Inteligencia.
 
 #### Potenciacion de Conjuros
 
@@ -104,17 +104,17 @@ Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de con
 
 Cada conjuro arcano tiene una version escrita, que anotas en tu libro de conjuros personalizado. Empiezas con un libro de conjuros que vale 10 pp o menos, que obtienes gratis y que debes estudiar cada dia para preparar tus conjuros.
 
-La forma y el nombre de tu libro de conjuros quedan a tu eleccion. Podria tratarse de un tomo mohoso encuadernado en cuero, o de un surtido de finos discos de metal conectados por una anilla de bronce; su nombre podria ser esoterico, como por ejemplo el Tomo de las Sombras Silenciosas o algo mas academico como Aplicaciones Piromanticas Avanzadas de la Teoria Elemental Jalmeri.
+La forma y el nombre de tu libro de conjuros quedan a tu elección. Podría tratarse de un tomo mohoso encuadernado en cuero, o de un surtido de finos discos de metal conectados por una anilla de bronce; su nombre podría ser esoterico, como por ejemplo el Tomo de las Sombras Silenciosas o algo mas académico como Aplicaciones Piromanticas Avanzadas de la Teoria Elemental Jalmeri.
 
-El libro de conjuros contiene 10 trucos arcanos y 5 conjuros arcanos de 1.er rango a elegir por ti. Los eliges de entre los conjuros comunes de la lista de conjuros arcanos o de otros conjuros arcanos a los que puedes tener acceso. Tambien anades dos conjuros de 1.er rango del curriculo de tu escuela arcana (excepto en el caso de la Escuela de la Teoria Magica Unificada, tal y como se describe en dicha escuela).
+El libro de conjuros contiene 10 trucos arcanos y 5 conjuros arcanos de 1.er rango a elegir por ti. Los eliges de entre los conjuros comunes de la lista de conjuros arcanos o de otros conjuros arcanos a los que puedes tener acceso. Tambien anades dos conjuros de 1.er rango del currículo de tu escuela arcana (excepto en el caso de la Escuela de la Teoria Magica Unificada, tal y como se describe en dicha escuela).
 
-Cada vez que subes de nivel, anades estos conjuros arcanos a tu libro, de cualquier rango que puedes lanzar, elegidos de entre los conjuros comunes de tu tradicion o de otros a los que obtienes acceso y aprendes via Aprender un conjuro. Cuando obtienes espacios de conjuro de un nuevo rango, tambien anades un conjuro adicional del curriculo de tu escuela (a menos que se trate de la escuela de la teoria magica unificada).
+Cada vez que subes de nivel, anades estos conjuros arcanos a tu libro, de cualquier rango que puedes lanzar, elegidos de entre los conjuros comunes de tu tradición o de otros a los que obtienes acceso y aprendes via Aprender un conjuro. Cuando obtienes espacios de conjuro de un nuevo rango, tambien anades un conjuro adicional del currículo de tu escuela (a menos que se trate de la escuela de la teoria magica unificada).
 
 ---
 
 ## Tesis Arcana
 
-Durante tus estudios para convertirte en mago, redactaste una tesis de investigacion magica unica. Obtienes un beneficio especial dependiendo del tema de investigacion de la misma. Los temas de las tesis arcanas presentados en este libro figuran a continuacion; tu tesis especifica probablemente tenga un titulo mas largo y tecnico como por ejemplo "Acerca de los Metodos de Interpolacion de Conjuros y la Genesis de una Nueva Comprension de los Cimientos de la Magia".
+Durante tus estudios para convertirte en mago, redactaste una tesis de investigación magica unica. Obtienes un beneficio especial dependiendo del tema de investigación de la misma. Los temas de las tesis arcanas presentados en este libro figuran a continuación; tu tesis especifica probablemente tenga un titulo mas largo y tecnico como por ejemplo "Acerca de los Metodos de Interpelación de Conjuros y la Genesis de una Nueva Comprensión de los Cimientos de la Magia".
 
 ### Mezcla de Conjuros
 
@@ -126,23 +126,23 @@ Durante tus preparativos diarios, puedes intercambiar 2 espacios de conjuro del 
 
 Tu tesis postula que la practica magica del moldeo de conjuros se puede realizar de forma mas eficiente alterando variables y parametros conforme lanzas, imitando a los magos de hace mucho, que tenian que trabajar sus propios conjuros. Eso te permite un acceso eficaz a diversos efectos de moldeo de conjuros.
 
-Obtienes una dote de mago de moldeo de conjuros de 1.er nivel a tu eleccion. Empezando a 4.o nivel, durante tus preparativos diarios, puedes obtener una dote de mago de moldeo de conjuros a tu eleccion con un requisito de nivel no superior a la mitad de tu nivel, que puedes utilizar hasta tus siguientes preparativos diarios.
+Obtienes una dote de mago de moldeo de conjuros de 1.er nivel a tu elección. Empezando a 4.o nivel, durante tus preparativos diarios, puedes obtener una dote de mago de moldeo de conjuros a tu elección con un requisito de nivel no superior a la mitad de tu nivel, que puedes utilizar hasta tus siguientes preparativos diarios.
 
 ### Nexo de Baston
 
-Tu tesis sostiene que la adopcion temprana e intensa de los bastones desde los primeros dias de estudio puede crear un vinculo simbiotico entre el lanzador de conjuros y el baston, permitiendoles crear juntos una magia mas notable. Has formado una conexion de ese tipo con un baston improvisado de tu creacion, y estas listo para infundir cualquier baston con el que te encuentras con un poder mayor.
+Tu tesis sostiene que la adopción temprana e intensa de los bastones desde los primeros dias de estudio puede crear un vinculo simbiotico entre el lanzador de conjuros y el baston, permitiéndoles crear juntos una magia mas notable. Has formado una conexión de ese tipo con un baston improvisado de tu creación, y estas listo para infundir cualquier baston con el que te encuentras con un poder mayor.
 
-Empiezas el juego con un baston improvisado de tu propia invencion. Tiene el rasgo magico y contiene un truco y un conjuro de 1.er rango, ambos de tu libro de conjuros. Durante tus preparativos diarios, puedes gastar un conjuro para conceder al baston tantas cargas como el rango de dicho conjuro, que se disipan a las 24 horas. Mientras empunas el baston, puedes Lanzar los conjuros que contiene. El conjuro de 1.er rango consume 1 carga, pero el truco no requiere cargas.
+Empiezas el juego con un baston improvisado de tu propia intención. Tiene el rasgo magico y contiene un truco y un conjuro de 1.er rango, ambos de tu libro de conjuros. Durante tus preparativos diarios, puedes gastar un conjuro para conceder al baston tantas cargas como el rango de dicho conjuro, que se disipan a las 24 horas. Mientras empujas el baston, puedes Lanzar los conjuros que contiene. El conjuro de 1.er rango consume 1 carga, pero el truco no requiere cargas.
 
-Puedes Elaborar tu baston improvisado, convirtiendolo en cualquier tipo de baston magico al precio normal del nuevo baston, anadiendo los dos conjuros elegidos originalmente al baston Elaborado. Dicho baston obtiene cargas debido a su preparacion ademas de los conjuros gastados. Los bastones magicos se describen en el Manual de direccion.
+Puedes Elaborar tu baston improvisado, convirtiéndolo en cualquier tipo de baston magico al precio normal del nuevo baston, añadiendo los dos conjuros elegidos originalmente al baston Elaborado. Dicho baston obtiene cargas debido a su preparación ademas de los conjuros gastados. Los bastones mágicos se describen en el Manual de dirección.
 
-A 8.o nivel, puedes gastar dos conjuros en lugar de uno mientras preparas cualquier baston, anadiendo tantas cargas adicionales como los rangos combinados de los conjuros gastados. A 16.o nivel, puedes gastar hasta un total de tres conjuros para anadir cargas al baston, anadiendo tantas cargas adicionales como los rangos combinados de los conjuros gastados.
+A 8.o nivel, puedes gastar dos conjuros en lugar de uno mientras preparas cualquier baston, añadiendo tantas cargas adicionales como los rangos combinados de los conjuros gastados. A 16.o nivel, puedes gastar hasta un total de tres conjuros para añadir cargas al baston, añadiendo tantas cargas adicionales como los rangos combinados de los conjuros gastados.
 
 ### Sintonizacion Mejorada de Familiar
 
-Llevas tiempo sosteniendo que sintonizar la magia que une un mago a su familiar puede mejorar la conexion mistica y generar resultados mayores, comparado con el vinculo seguro pero generico que la mayoria de los magos utiliza de forma habitual. Has cerrado un pacto de ese tipo con tu familiar, obteniendo mas ventajas de el que la mayoria de los magos. Obtienes la dote de mago Familiar. Tu familiar obtiene una aptitud adicional, y otra cuando llegas a los niveles 6.o, 12.o y 18.o.
+Llevas tiempo sosteniendo que sintonizar la magia que une un mago a su familiar puede mejorar la conexión mistica y generar resultados mayores, comparado con el vinculo seguro pero generico que la mayoría de los magos utiliza de forma habitual. Has cerrado un pacto de ese tipo con tu familiar, obteniendo mas ventajas de el que la mayoría de los magos. Obtienes la dote de mago Familiar. Tu familiar obtiene una aptitud adicional, y otra cuando llegas a los niveles 6.o, 12.o y 18.o.
 
-Tu conexion con tu familiar altera tu rasgo de clase vinculo arcano de forma que almacenas tu energia magica en tu familiar en lugar de en un objeto de tu propiedad; tambien obtienes la accion gratuita Drenar familiar en lugar de Drenar objeto vinculado. Drenar familiar se puede utilizar en cualquier momento en el que una aptitud te permitiria utilizar Drenar objeto vinculado y funciona igual, excepto que extraes la magia de tu familiar en lugar de extraerla de un objeto.
+Tu conexión con tu familiar altera tu rasgo de clase vinculo arcano de forma que almacenas tu energia magica en tu familiar en lugar de en un objeto de tu propiedad; tambien obtienes la acción gratuita Drenar familiar en lugar de Drenar objeto vinculado. Drenar familiar se puede utilizar en cualquier momento en el que una aptitud te permitiria utilizar Drenar objeto vinculado y funciona igual, excepto que extraes la magia de tu familiar en lugar de extraerla de un objeto.
 
 ### Sustitucion de Conjuros
 
@@ -154,19 +154,19 @@ Puedes invertir 10 minutos en vaciar uno de tus espacios de conjuro preparados y
 
 ## Escuela Arcana
 
-La mayoria de magos adquiere su conocimiento de conjuros de una institucion educativa formal, como el Arcanamirio o Magaambya. A 1.er nivel, eliges tu escuela arcana, que te concede aptitudes magicas.
+La mayoría de magos adquiere su conocimiento de conjuros de una institución educativa formal, como el Arracimaría o Magaambya. A 1.er nivel, eliges tu escuela arcana, que te concede aptitudes magicas.
 
-Obtienes conjuros y espacios de conjuro adicionales derivados del curriculo que se ensena en la escuela a la que asistes. Las escuelas arcanas se describen en detalle a continuacion.
+Obtienes conjuros y espacios de conjuro adicionales derivados del currículo que se enseña en la escuela a la que asistes. Las escuelas arcanas se describen en detalle a continuación.
 
-Algunos magos siguen la Escuela de la Teoria Magica Unificada, que intenta forjar una nueva escuela estudiando de forma independiente y extrayendo informacion de una multitud de textos y de tutores. Aunque un mago con esta aproximacion carece del enfoque del entrenamiento formal, tiene una flexibilidad mayor.
+Algunos magos siguen la Escuela de la Teoria Magica Unificada, que intenta forjar una nueva escuela estudiando de forma independiente y extrayendo información de una multitud de textos y de tutores. Aunque un mago con esta aproximación carece del enfoque del entrenamiento formal, tiene una flexibilidad mayor.
 
 ### Conjuros de Curriculo
 
-Anades automaticamente a tu libro de conjuros algunos de los conjuros indicados en el curriculo de tu escuela. A 1.er nivel, anades un truco y dos conjuros de 1.er rango a tu eleccion. En cuanto obtienes la aptitud de lanzar conjuros de mago de un rango nuevo, eliges uno de los conjuros de tu curriculo de dicho rango para anadir a tu libro. Un PC indica un conjuro poco comun. Tu DJ te podria permitir que intercambiaras o anadieras otros conjuros a tu curriculo si encajaran fuertemente en el tema.
+Anades automaticamente a tu libro de conjuros algunos de los conjuros indicados en el currículo de tu escuela. A 1.er nivel, anades un truco y dos conjuros de 1.er rango a tu elección. En cuanto obtienes la aptitud de lanzar conjuros de mago de un rango nuevo, eliges uno de los conjuros de tu currículo de dicho rango para añadir a tu libro. Un PC indica un conjuro poco comun. Tu DJ te podría permitir que intercambiaras o añadieran otros conjuros a tu currículo si encajaran fuertemente en el tema.
 
 ### Espacios de Conjuro
 
-Cada dia, puedes preparar un truco adicional de tu curriculo. Tambien obtienes un espacio de conjuro adicional en cada rango de conjuros para el que dispones de espacios de conjuro de mago. En estos espacios adicionales tan solo puedes preparar conjuros del curriculo de tu escuela. Todo conjuro indicado en tu curriculo de un rango adecuado es elegible para ser preparado en cualquiera de estos espacios adicionales, da igual la forma en la que ha sido anadido a tu libro de conjuros.
+Cada dia, puedes preparar un truco adicional de tu currículo. Tambien obtienes un espacio de conjuro adicional en cada rango de conjuros para el que dispones de espacios de conjuro de mago. En estos espacios adicionales tan solo puedes preparar conjuros del currículo de tu escuela. Todo conjuro indicado en tu currículo de un rango adecuado es elegible para ser preparado en cualquiera de estos espacios adicionales, da igual la forma en la que ha sido añadido a tu libro de conjuros.
 
 ### Conjuros de Escuela
 
@@ -182,7 +182,7 @@ Aprendes el conjuro de escuela inicial, que es unico para la misma. Puedes apren
 
 ### Escuela del Arte Gramatica
 
-Runas y custodias, numeros y letras; forman la base de toda la magia, convirtiendolos en el tema logico de un mago que estudia las fuerzas fundamentales. Quizas has estudiado en la Escuela de Conjuros de la Sociedad Pathfinder o una institucion similar, pero tanto si entrelazas tus palabras con magia para obligar a otros, como si colocas custodias alrededor de tu taller, como si desestabilizas la propia estructura de los conjuros de un oponente, sabes que esta modesta escuela lleva consigo un elegante poder.
+Runas y custodias, numeros y letras; forman la base de toda la magia, convirtiéndolos en el tema logico de un mago que estudia las fuerzas fundamentales. Quizas has estudiado en la Escuela de Conjuros de la Sociedad Pathfinder o una institución similar, pero tanto si entrelazas tus palabras con magia para obligar a otros, como si colocas custodias alrededor de tu taller, como si desestabilizas la propia estructura de los conjuros de un oponente, sabes que esta modesta escuela lleva consigo un elegante poder.
 
 **Curriculo trucos:** mensaje, sello
 
@@ -212,7 +212,7 @@ Runas y custodias, numeros y letras; forman la base de toda la magia, convirtien
 
 ### Escuela de Magia de Batalla
 
-La magia es poder y siempre hay quienes utilizan dicho poder para el arte de la guerra. Puedes haber estudiado en el ejercito de una nacion al borde de la guerra: quiza Cheliax y Andoran, o Geb y Nex. Convocas energias giratorias que pueden devastar tanto a soldados como ejercitos, mientras te aseguras de no olvidarte de las contramedidas arcanas para las complicaciones tacticas mas comunes, o los escudos y las defensas que mantienen vivos a los combatientes en el campo de batalla.
+La magia es poder y siempre hay quienes utilizan dicho poder para el arte de la guerra. Puedes haber estudiado en el ejercito de una nación al borde de la guerra: quizá Cheliax y Andoran, o Geb y Nex. Convocas energias giratorias que pueden devastar tanto a soldados como ejércitos, mientras te aseguras de no olvidarte de las contramedidas arcanas para las complicaciones tácticas mas comunes, o los escudos y las defensas que mantienen vivos a los combatientes en el campo de batalla.
 
 **Curriculo trucos:** escudo, proyectil telecinetico
 
@@ -242,7 +242,7 @@ La magia es poder y siempre hay quienes utilizan dicho poder para el arte de la 
 
 ### Escuela del Limite
 
-Por que utilizar tu magia para afectar algo tan pedestre como el mundo fisico? Tanto si has estudiado en la Facultad de Estudios Dimensionales de Katapesh o en una escuela subterranea en la embrujada Ustalav, has redirigido tu magia mas alla del universo hacia las fuerzas que hay mas alla, convocando espiritus y formas, manipulando dimensiones y planos y pisando un lugar que no estaba pensado para los mortales.
+Por que utilizar tu magia para afectar algo tan pedestre como el mundo fisico? Tanto si has estudiado en la Facultad de Estudios Dimensionales de Katapesh o en una escuela subterránea en la embrujada Ustalav, has redirigido tu magia mas alla del universo hacia las fuerzas que hay mas alla, convocando espíritus y formas, manipulando dimensiones y planos y pisando un lugar que no estaba pensado para los mortales.
 
 **Curriculo trucos:** mano telecinetica, distorsion del vacio
 
@@ -272,7 +272,7 @@ Por que utilizar tu magia para afectar algo tan pedestre como el mundo fisico? T
 
 ### Escuela de Magia Civica
 
-Tanto si has estudiado en el Occularium de Manaket como en la Academia de Magia Aplicada, has aprendido que los frutos de los estudios arcanos (como cualquier otro campo) deberian acabar ayudando al ciudadano comun. Has aprendido el humilde arte de la construccion, el de encontrar personas y cosas perdidas y el de moverte rapidamente entre edificios y fosos; sin embargo, esas mismas artes se pueden dedicar a la demolicion, y los constructos a los que animas para construir puentes pueden destruirlos con identica facilidad.
+Tanto si has estudiado en el Occularium de Manaste como en la Academia de Magia Aplicada, has aprendido que los frutos de los estudios arcanos (como cualquier otro campo) deberían acabar ayudando al ciudadano comun. Has aprendido el humilde arte de la construcción, el de encontrar personas y cosas perdidas y el de moverte rapidamente entre edificios y fosos; sin embargo, esas mismas artes se pueden dedicar a la demolición, y los constructor a los que animas para construir puentes pueden destruirlos con identica facilidad.
 
 **Curriculo trucos:** prestidigitacion, leer el aura
 
@@ -302,7 +302,7 @@ Tanto si has estudiado en el Occularium de Manaket como en la Academia de Magia 
 
 ### Escuela del Mentalismo
 
-Como erudito, conoces bien la importancia de una mente sana. Por lo tanto, acudiste a una facultad (como la Torre del Vidente o la Piedra de los Videntes) que ensena las artes de confundir a las mentes inferiores con fantasias e ilusiones o bien sensaciones y recuerdos implantados.
+Como erudito, conoces bien la importancia de una mente sana. Por lo tanto, acudiste a una facultad (como la Torre del Vidente o la Piedra de los Videntes) que enseña las artes de confundir a las mentes inferiores con fantasias e ilusiones o bien sensaciones y recuerdos implantados.
 
 **Curriculo trucos:** atontar, fantasia
 
@@ -332,7 +332,7 @@ Como erudito, conoces bien la importancia de una mente sana. Por lo tanto, acudi
 
 ### Escuela de la Forma Proteica
 
-Los no iniciados a menudo creen que los magos son cerebrales, y centrados en sus estudios mas que en el cuerpo, pero tu escuela de magia ensena la relacion entre ambas cosas. Tu magia, ya la hayas aprendido en una institucion historiada como la Academia de Alabastro de Kintargo, o en algun lugar mas siniestro, como las Forjas de Carne de Nex, se centra en las formas en que la materia viva puede ser convencida para adoptar otra forma durante un tiempo, permitiendote polimorfar una semilla en un zarcillo, un humano en una bestia o un germen inofensivo en una toxina letal.
+Los no iniciados a menudo creen que los magos son cerebrales, y centrados en sus estudios mas que en el cuerpo, pero tu escuela de magia enseña la relación entre ambas cosas. Tu magia, ya la hayas aprendido en una institución historiada como la Academia de Alabastro de Kintargo, o en algún lugar mas siniestro, como las Forjas de Carne de Nex, se centra en las formas en que la materia viva puede ser convencida para adoptar otra forma durante un tiempo, permitiendote polimorfar una semilla en un zarcillo, un humano en una bestia o un germen inofensivo en una toxina letal.
 
 **Curriculo trucos:** garra punzante, zarcillo enmaranador
 
@@ -362,7 +362,7 @@ Los no iniciados a menudo creen que los magos son cerebrales, y centrados en sus
 
 ### Escuela de la Teoria Magica Unificada
 
-Desdenas la idea de que la magia se pueda expresar ordenadamente mediante las ensenanzas de cualquier escuela o facultad unica, y en su lugar diriges tus estudios autodidactas a elegir lo mejor de cada escuela de magia. Al hacerlo, encontraras las verdades que hay en la interseccion de cada escuela, acercandote mas a la naturaleza ideal de la magia arcana. Un dia, descubriras esa unica teoria elegante que detalla toda la magia (quiza incluso le otorgues tu nombre), pero hasta entonces, tus estudios continuan.
+Despenas la idea de que la magia se pueda expresar ordenadamente mediante las enseñanzas de cualquier escuela o facultad unica, y en su lugar diriges tus estudios autodidactas a elegir lo mejor de cada escuela de magia. Al hacerlo, encontraras las verdades que hay en la intersección de cada escuela, acercandote mas a la naturaleza ideal de la magia arcana. Un dia, descubrirás esa unica teoria elegante que detalla toda la magia (quizá incluso le otorgues tu nombre), pero hasta entonces, tus estudios continuan.
 
 **Sin curriculo:** No tienes un curriculo fijo y, por lo tanto, ni tienes conjuros de curriculo, ni te puedes beneficiar de las aptitudes que los afectan especificamente. En su lugar, obtienes una dote de clase de mago adicional de 1.er nivel, y sumas un conjuro de 1.er rango de tu eleccion a tu libro de conjuros para representar tus estudios diversos.
 
@@ -376,7 +376,7 @@ Tus estudios sobre la propia naturaleza de la magia te permiten emplearla de for
 
 ## Vinculo Arcano
 
-Situas parte de tu poder magico en un objeto vinculado. Cada dia, cuando preparas tus conjuros, puedes designar un solo objeto en tu posesion como objeto vinculado. Se trata tipicamente de un objeto asociado con el lanzamiento de conjuros, como una varita, anillo o baston, pero eres libre de designar un arma u otro objeto. Obtienes la accion gratuita Drenar objeto vinculado.
+Situas parte de tu poder magico en un objeto vinculado. Cada dia, cuando preparas tus conjuros, puedes designar un solo objeto en tu posesión como objeto vinculado. Se trata tipicamente de un objeto asociado con el lanzamiento de conjuros, como una varita, anillo o baston, pero eres libre de designar un arma u otro objeto. Obtienes la acción gratuita Drenar objeto vinculado.
 
 ### Drenar Objeto Vinculado ◇
 
@@ -428,7 +428,7 @@ El poder magico ha mejorado la resiliencia de tu cuerpo. Tu rango de competencia
 
 ### Experiencia en Percepcion (11.o)
 
-Permaneces alerta a las amenazas que te rodean. Tu rango de competencia para Percepcion se incrementa a experto.
+Permaneces alerta a las amenazas que te rodean. Tu rango de competencia para Percepción se incrementa a experto.
 
 ### Experiencia con las Armas (11.o)
 
@@ -448,11 +448,11 @@ Tienes a tus ordenes una aptitud magica superlativa. Tus rangos de competencia p
 
 ### Voluntad Prodigiosa (17.o)
 
-Tu mente es simplemente demasiado compleja y sofisticada como para poderla manipular. Tu rango de competencia para las salvaciones de Voluntad se incrementa a maestro. Cuando consigues un exito en una salvacion de Fortaleza, en su lugar consigues un exito critico.
+Tu mente es simplemente demasiado compleja y sofisticada como para poderla manipular. Tu rango de competencia para las salvaciones de Voluntad se incrementa a maestro. Cuando consigues un éxito en una salvación de Fortaleza, en su lugar consigues un éxito critico.
 
 ### Conocimiento de Conjuros de Archimago (19.o)
 
-Tienes a tus ordenes la magia arcana mas poderosa y puedes lanzar un conjuro de un poder autentico sensacional. Obtienes un solo espacio de conjuro de 10.o rango en el que puedes preparar un conjuro utilizando lanzamiento de conjuros de mago. A diferencia de otros espacios de conjuro, no puedes utilizar los espacios de 10.o rango con aptitudes que te conceden mas espacios de conjuro o que te permiten lanzar conjuros sin gastar espacios de conjuro. No obtienes mas conjuros de 10.o rango cuando subes de nivel, pero puedes adquirir la dote Poder del archimago para obtener un segundo espacio.
+Tienes a tus ordenes la magia arcana mas poderosa y puedes lanzar un conjuro de un poder autentico sensacional. Obtienes un solo espacio de conjuro de 10.o rango en el que puedes preparar un conjuro utilizando lanzamiento de conjuros de mago. A diferencia de otros espacios de conjuro, no puedes utilizar los espacios de 10.o rango con aptitudes que te conceden mas espacios de conjuro o que te permiten lanzar conjuros sin gastar espacios de conjuro. No obtienes mas conjuros de 10.o rango cuando subes de nivel, pero puedes adquirir la dote Poder del archivado para obtener un segundo espacio.
 
 ### Lanzador de Conjuros Legendario (19.o)
 
@@ -472,7 +472,7 @@ Veras el siguiente termino clave en muchas aptitudes de mago.
 
 ### Alumno del Vacio
 
-Tu magia convoca espiritus, te transporta y te permite canalizar la energia de otros Planos. Conoces criaturas extranas y reinos distantes.
+Tu magia convoca espíritus, te transporta y te permite canalizar la energia de otros Planos. Conoces criaturas extrañas y reinos distantes.
 
 **Atributos:** Prioriza la Inteligencia. La Destreza, la Constitucion y la Sabiduria redondean tus defensas.
 

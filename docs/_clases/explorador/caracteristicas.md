@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /clases/explorador/caracteristicas/
-title: Caracteristicas del Explorador
+permalink: /clases/explorador/características/
+title: Características del Explorador
 chapter: Clases
 category: clases
 nav_order: 2
@@ -37,19 +37,19 @@ class_name: Explorador
 
 ## Perseguir Presa
 
-Cuando centras tu atencion en un solo enemigo, te vuelves imparable en tu persecucion. Obtienes la accion Perseguir presa.
+Cuando centras tu atención en un solo enemigo, te vuelves imparable en tu persecución. Obtienes la acción Perseguir presa.
 
 ### Perseguir Presa ◆
 
 **Rasgos:** Concentrar, Explorador
 
-Designas a una sola criatura como presa y centras tus ataques en dicha criatura. Tienes que ser capaz de verla u oirla, o debes estarla rastreando durante la exploracion.
+Designas a una sola criatura como presa y centras tus ataques en dicha criatura. Tienes que ser capaz de verla u oírla, o debes estarla rastreando durante la exploración.
 
-Obtienes un bonificador +2 por circunstancia a las pruebas de Percepcion cuando Buscas a tu presa y un bonificador +2 por circunstancia a las pruebas de Supervivencia cuando Rastreas a tu presa.
+Obtienes un bonificados +2 por circunstancia a las pruebas de Percepción cuando Buscas a tu presa y un bonificados +2 por circunstancia a las pruebas de Supervivencia cuando Rastreas a tu presa.
 
 Ignoras tambien el penalizador por llevar a cabo ataques a distancia dentro de tu segundo incremento de rango de distancia contra la presa a la que persigues.
 
-Tan solo puedes tener una criatura designada como presa en un momento dado. Si utilizas Perseguir presa contra una criatura cuando ya tienes otra designada, la anterior pierde la designacion, que va a parar a la nueva. Tu designacion dura hasta tus siguientes preparativos diarios.
+Tan solo puedes tener una criatura designada como presa en un momento dado. Si utilizas Perseguir presa contra una criatura cuando ya tienes otra designada, la anterior pierde la designación, que va a parar a la nueva. Tu designación dura hasta tus siguientes preparativos diarios.
 
 ---
 
@@ -69,7 +69,7 @@ Te has entrenado para apuntar a los puntos debiles de tu presa. La primera vez q
 
 ### Rafaga
 
-Te has entrenado para desatar una devastadora rafaga de ataques contra tu presa. Tu penalizador por ataque multiple para los ataques contra tu presa perseguida es:
+Te has entrenado para desatar una devastadora ráfaga de ataques contra tu presa. Tu penalizador por ataque multiple para los ataques contra tu presa perseguida es:
 
 | Ataque | Penalizador Normal | Con Arma Agil |
 |--------|-------------------|---------------|
@@ -79,8 +79,8 @@ Te has entrenado para desatar una devastadora rafaga de ataques contra tu presa.
 ### Ser Mas Listo
 
 Tienes el talento de ser mas listo que tu presa. Obtienes:
-- Bonificador +1 por circunstancia a la CA contra los ataques de tu presa
-- Bonificador +2 por circunstancia a las pruebas de Engano, Intimidacion, Sigilo y cualquier prueba para Recordar conocimiento acerca de la presa
+- Bonificados +1 por circunstancia a la CA contra los ataques de tu presa
+- Bonificados +2 por circunstancia a las pruebas de Engano, Intimidación, Sigilo y cualquier prueba para Recordar conocimiento acerca de la presa
 
 ---
 
@@ -114,19 +114,19 @@ Ademas de la dote de ascendencia con la que empezaste, obtienes una nueva dote d
 
 ### Experiencia con Armas de Explorador (Nivel 5)
 
-Obtienes todas las ventajas de tus armas. Tu rango de competencia para las armas marciales, las armas sencillas y los ataques sin arma se incrementa a experto. Obtienes acceso a los efectos de especializacion critica de todas esas armas y ataques sin arma cuando atacas a tu presa perseguida.
+Obtienes todas las ventajas de tus armas. Tu rango de competencia para las armas marciales, las armas sencillas y los ataques sin arma se incrementa a experto. Obtienes acceso a los efectos de especialización critica de todas esas armas y ataques sin arma cuando atacas a tu presa perseguida.
 
 ### Viaje sin Rastros (Nivel 5)
 
-Cuando atraviesas terrenos naturales, eres dificil de rastrear. Siempre obtienes los beneficios de la accion Cubrir huellas en dichos terrenos, sin tenerte que mover a la mitad de tu Velocidad.
+Cuando atraviesas terrenos naturales, eres dificil de rastrear. Siempre obtienes los beneficios de la acción Cubrir huellas en dichos terrenos, sin tenerte que mover a la mitad de tu Velocidad.
 
 ### Reflejos Naturales (Nivel 7)
 
-Has refinado tus reflejos esquivando arboles que caian y tormentas de granizo. Tu rango de competencia para las salvaciones de Reflejos se incrementa a maestro. Cuando sacas un exito en una salvacion de Reflejos, en su lugar obtienes un exito critico.
+Has refinado tus reflejos esquivando arboles que crian y tormentas de granizo. Tu rango de competencia para las salvaciones de Reflejos se incrementa a maestro. Cuando sacas un éxito en una salvación de Reflejos, en su lugar obtienes un éxito critico.
 
 ### Maestria con la Percepcion (Nivel 7)
 
-Has desarrollado una Percepcion aguda y una gran atencion al detalle. Tu rango de competencia para Percepcion se incrementa a maestro.
+Has desarrollado una Percepción aguda y una gran atención al detalle. Tu rango de competencia para Percepción se incrementa a maestro.
 
 ### Especializacion en Armas (Nivel 7)
 
@@ -138,11 +138,11 @@ Siempre encuentras los puntos debiles de las defensas de tus enemigos cuando est
 
 ### Experiencia de Explorador (Nivel 9)
 
-Has practicado tecnicas que mejoran tu astucia y tu habilidad. Tu rango de competencia para tu CD de explorador se incrementa a experto. Si tienes conjuros de guardian, tu rango de competencia para los ataques de conjuro y para la CD de conjuro se incrementa a experto.
+Has practicado técnicas que mejoran tu astucia y tu habilidad. Tu rango de competencia para tu CD de explorador se incrementa a experto. Si tienes conjuros de guardian, tu rango de competencia para los ataques de conjuro y para la CD de conjuro se incrementa a experto.
 
 ### Aguante del Guardian (Nivel 11)
 
-Te quitas de encima la presa de un oso pardo o los efectos daninos de un veneno con la misma facilidad. Tu rango de competencia para las salvaciones de Fortaleza se incrementa a maestro. Cuando obtienes un exito en una salvacion de Fortaleza, en su lugar obtienes un exito critico.
+Te quitas de encima la presa de un oso pardo o los efectos dañinos de un veneno con la misma facilidad. Tu rango de competencia para las salvaciones de Fortaleza se incrementa a maestro. Cuando obtienes un éxito en una salvación de Fortaleza, en su lugar obtienes un éxito critico.
 
 ### Experiencia en Armadura Intermedia (Nivel 11)
 
@@ -150,7 +150,7 @@ Has aprendido a defenderte mejor contra los ataques. Tus rangos de competencia p
 
 ### Viaje sin Trabas (Nivel 11)
 
-Atraviesas rapidamente los obstaculos, ya se trate de piedras amontonadas o de sotobosque espeso. Puedes ignorar los efectos del terreno dificil. Como es habitual para ignorar el terreno dificil, esto te permite tratar los obstaculos del terreno dificil mayor como si fuera terreno dificil a secas.
+Atraviesas rapidamente los obstáculos, ya se trate de piedras amontonadas o de sotobosque espeso. Puedes ignorar los efectos del terreno dificil. Como es habitual para ignorar el terreno dificil, esto te permite tratar los obstáculos del terreno dificil mayor como si fuera terreno dificil a secas.
 
 ### Maestria con las Armas Marciales (Nivel 13)
 
@@ -158,15 +158,15 @@ Entiendes por completo las complejidades de las armas. Tu rango de competencia p
 
 ### Reflejos Naturales Mayor (Nivel 15)
 
-Evitas las explosiones con unos reflejos que serian la envidia de un gato. Tu rango de competencia para las salvaciones de Reflejos se incrementa a legendario. Cuando sufres un fallo critico en una salvacion de Reflejos, en su lugar sufres un fallo simple. Cuando fallas una salvacion de Reflejos contra un efecto que inflige dano, reduces a la mitad el dano sufrido.
+Evitas las explosiones con unos reflejos que serian la envidia de un gato. Tu rango de competencia para las salvaciones de Reflejos se incrementa a legendario. Cuando sufres un fallo critico en una salvación de Reflejos, en su lugar sufres un fallo simple. Cuando fallas una salvación de Reflejos contra un efecto que inflige dano, reduces a la mitad el dano sufrido.
 
 ### Especializacion Mayor en Armas (Nivel 15)
 
-Tu dano procedente de la especializacion en armas se incrementa a 4 con las armas y los ataques sin arma en los que tienes el rango experto, 6 si tienes el rango maestro y 8 si tienes el rango legendario.
+Tu dano procedente de la especialización en armas se incrementa a 4 con las armas y los ataques sin arma en los que tienes el rango experto, 6 si tienes el rango maestro y 8 si tienes el rango legendario.
 
 ### Leyenda de la Percepcion (Nivel 15)
 
-Percibes aquello que es practicamente imperceptible. Tu rango de competencia para la Percepcion se incrementa a legendario.
+Percibes aquello que es prácticamente imperceptible. Tu rango de competencia para la Percepción se incrementa a legendario.
 
 ### Cazador Maestro (Nivel 17)
 
@@ -174,7 +174,7 @@ Has refinado tus aptitudes como cazador hasta niveles inconcebibles. Tu rango de
 
 Cuando usas un arma a distancia con la que tienes competencia a rango maestro, puedes ignorar el penalizador si atacas a tu presa perseguida dentro del segundo y el tercer incremento de rango de distancia.
 
-Si tienes competencia a rango maestro en Percepcion, obtienes un bonificador +4 por circunstancia a las pruebas de Percepcion cuando Buscas tu presa, y si tienes competencia a rango maestro en Supervivencia, obtienes un bonificador +4 por circunstancia a las pruebas de Supervivencia cuando Rastreas a tu presa.
+Si tienes competencia a rango maestro en Percepción, obtienes un bonificados +4 por circunstancia a las pruebas de Percepción cuando Buscas tu presa, y si tienes competencia a rango maestro en Supervivencia, obtienes un bonificados +4 por circunstancia a las pruebas de Supervivencia cuando Rastreas a tu presa.
 
 #### Beneficio Adicional de Cazador Maestro por Ventaja
 
@@ -190,7 +190,7 @@ Tu habilidad con las armaduras ligeras e intermedias mejora, incrementando tu ca
 
 ### Presa Rapida (Nivel 19)
 
-Le tomas la medida a tu presa de un vistazo. Puedes utilizar Perseguir presa como accion gratuita si es la primera accion de tu turno.
+Le tomas la medida a tu presa de un vistazo. Puedes utilizar Perseguir presa como acción gratuita si es la primera acción de tu turno.
 
 ---
 
@@ -198,21 +198,21 @@ Le tomas la medida a tu presa de un vistazo. Puedes utilizar Perseguir presa com
 
 ### Aprovechar
 
-Las acciones con este rasgo te permiten continuar ataques anteriores. Una accion con el rasgo aprovechar solo se puede utilizar si en ese momento te esta afectando un penalizador por ataque multiple. No puedes usar una accion con el rasgo aprovechar si no es tu turno, ni siquiera con la actividad Preparar.
+Las acciones con este rasgo te permiten continuar ataques anteriores. Una acción con el rasgo aprovechar solo se puede utilizar si en ese momento te esta afectando un penalizador por ataque multiple. No puedes usar una acción con el rasgo aprovechar si no es tu turno, ni siquiera con la actividad Preparar.
 
-Algunas acciones con el rasgo aprovechar tambien conceden un efecto en caso de fallo. Los efectos concedidos en ese caso no se aplican en caso de fallo critico. Si tu accion de aprovechar tiene exito, en su lugar puedes aplicar el efecto de fallo (por ejemplo, podria interesarte hacerlo cuando un ataque no inflige dano debido a alguna resistencia).
+Algunas acciones con el rasgo aprovechar tambien conceden un efecto en caso de fallo. Los efectos concedidos en ese caso no se aplican en caso de fallo critico. Si tu acción de aprovechar tiene éxito, en su lugar puedes aplicar el efecto de fallo (por ejemplo, podría interesarte hacerlo cuando un ataque no inflige dano debido a alguna resistencia).
 
 ### Conjuros de Guardian
 
-Tu relacion con el mundo que te rodea se extiende de lo fisico a lo magico. Algunas dotes te conceden conjuros de guardian, que son un tipo de conjuro de foco. Lanzar un conjuro de foco cuesta 1 Punto de Foco. Cuando obtienes tu primer conjuro de guardian, tambien obtienes una reserva de foco de 1 Punto de Foco. Repones tu reserva de foco durante tus preparativos diarios, y recuperas 1 Punto de Foco invirtiendo 10 minutos en utilizar la actividad Reenfocar para entrar en comunion con la Naturaleza.
+Tu relación con el mundo que te rodea se extiende de lo fisico a lo magico. Algunas dotes te conceden conjuros de guardian, que son un tipo de conjuro de foco. Lanzar un conjuro de foco cuesta 1 Punto de Foco. Cuando obtienes tu primer conjuro de guardian, tambien obtienes una reserva de foco de 1 Punto de Foco. Repones tu reserva de foco durante tus preparativos diarios, y recuperas 1 Punto de Foco invirtiendo 10 minutos en utilizar la actividad Reenfocar para entrar en comunión con la Naturaleza.
 
-Tus conjuros de guardian son conjuros primigenios. Cuando obtienes por vez primera un conjuro de guardian, obtienes el rango entrenado en ataques de conjuros y CD de conjuros. Tu atributo de lanzamiento de conjuros es la Sabiduria.
+Tus conjuros de guardian son conjuros primigenios. Cuando obtienes por vez primera un conjuro de guardian, obtienes el rango entrenado en ataques de conjuros y CD de conjuros. Tu atributo de lanzamiento de conjuros es la Sabiduría.
 
 Los conjuros de foco se potencian automaticamente a la mitad de tu nivel, redondeado hacia arriba. Determinadas dotes te conceden mas conjuros de foco. La cantidad maxima de Puntos de Foco que tu reserva de foco puede albergar es igual al numero de conjuros de foco que tienes, pero nunca puede ser superior a 3.
 
 ### Floritura
 
-Las acciones con este rasgo son tecnicas especiales que requieren demasiado esfuerzo para que las lleves a cabo de forma frecuente. Solo puedes utilizar 1 accion con el rasgo floritura por turno.
+Las acciones con este rasgo son técnicas especiales que requieren demasiado esfuerzo para que las lleves a cabo de forma frecuente. Solo puedes utilizar 1 acción con el rasgo floritura por turno.
 
 ---
 

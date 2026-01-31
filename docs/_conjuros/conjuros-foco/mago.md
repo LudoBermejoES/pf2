@@ -18,7 +18,7 @@ Los magos obtienen conjuros de foco a través de su escuela de magia elegida. Ca
 **Área:** Emanación de 5 pies (1,5 m) centrada en ti
 **Duración:** Mantenido hasta 1 minuto
 
-Expandes un anillo de glifos que escuda a tus aliados. Tú y cualquier aliado tuyo en el interior del área obtenéis un bonificador +1 por estatus a la CA. Cada vez que Mantienes el conjuro, el radio de la emanación se incrementa en 5 pies (1,5 m), hasta un máximo de 30 pies (9 m).
+Expandes un anillo de glifos que escuda a tus aliados. Tú y cualquier aliado tuyo en el interior del área obtenéis un bonificados +1 por estatus a la CA. Cada vez que Mantienes el conjuro, el radio de la emanación se incrementa en 5 pies (1,5 m), hasta un máximo de 30 pies (9 m).
 
 ---
 
@@ -39,7 +39,7 @@ Cada vez que se acaba la duración de conjuro, puedes gastar 1 Punto de Foco com
 **Rasgos:** Poco común, concentrar, foco, mago
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura convocada por ti
 
-Cuando llamas a tu lado a una criatura, tu magia transforma su cuerpo, potenciando su ferocidad y fortificando su resiliencia. El objetivo obtiene un bonificador +1 por estatus a todas sus pruebas y CD (incluyendo su CA) mientras dura la convocación, hasta 1 minuto.
+Cuando llamas a tu lado a una criatura, tu magia transforma su cuerpo, potenciando su ferocidad y fortificando su resiliencia. El objetivo obtiene un bonificados +1 por estatus a todas sus pruebas y CD (incluyendo su CA) mientras dura la convocación, hasta 1 minuto.
 
 ---
 
@@ -75,7 +75,7 @@ Tu magia pone patas arriba la biología de la criatura, induciendo mareos, fiebr
 
 Cambias tu cuerpo para que encaje mejor con el momento. Obtienes una de las siguientes aptitudes a tu elección. Puedes Disipar este conjuro.
 
-- Obtienes un bonificador de 20 pies (6 m) por estatus a tu Velocidad.
+- Obtienes un bonificados de 20 pies (6 m) por estatus a tu Velocidad.
 - Obtienes una Velocidad de trepar o de Nadar igual a la mitad de tu Velocidad terrestre.
 - Obtienes visión en la oscuridad.
 - Obtienes un par de garras. Son ataques sin armas con los rasgos ágil y sutil, que infligen 1d8 daño cortante.
@@ -164,7 +164,7 @@ Te vuelves invisible, con las mismas restricciones del conjuro *invisibilidad* d
 **Rango:** 500 pies (150 m); **Objetivos:** 1 criatura
 **Defensa:** CA
 
-Te aprovechas de una de las lecciones más fundamentales de la magia para hacer levitar e impulsar tu arma. Lanzas contra el objetivo un arma cuerpo a cuerpo empuñada en la que estás entrenado, haciendo una tirada de ataque de conjuros. Con un éxito, infliges el daño del arma como si hubieras impactado con un Golpe cuerpo a cuerpo, pero sumas al daño tu bonificador por atributo de lanzamiento de conjuros, en lugar de tu bonificador por Fuerza. Con un éxito crítico, infliges doble daño y sumas el efecto de especialización crítica del arma. Sea cual sea el resultado, el arma vuela de vuelta a ti y retorna a tu mano.
+Te aprovechas de una de las lecciones más fundamentales de la magia para hacer levitar e impulsar tu arma. Lanzas contra el objetivo un arma cuerpo a cuerpo empuñada en la que estás entrenado, haciendo una tirada de ataque de conjuros. Con un éxito, infliges el daño del arma como si hubieras impactado con un Golpe cuerpo a cuerpo, pero sumas al daño tu bonificados por atributo de lanzamiento de conjuros, en lugar de tu bonificados por Fuerza. Con un éxito crítico, infliges doble daño y sumas el efecto de especialización crítica del arma. Sea cual sea el resultado, el arma vuela de vuelta a ti y retorna a tu mano.
 
 ---
 

@@ -20,7 +20,7 @@ spell_level: 2
 
 ---
 
-Creas un eco fantasmal y magico de un arma que empuñas o llevas y lo arrojas. Haz una tirada de ataque especial contra la CA del objetivo, infligiendo 2d8 daño con un impacto (o doble daño con un impacto critico). El tipo de daño es el mismo que el del arma elegida (o cualquiera de sus tipos para un arma versatil). En su lugar, el ataque inflige daño espiritual si eso perjudica mas a la criatura (a determinar por el DJ). Este ataque utiliza tu penalizador por ataque multiple y contribuye al mismo. Despues del ataque, el alma vuelve a tu lado. Si santificas el arma, los ataques tambien son santificados.
+Creas un eco fantasmal y magico de un arma que empuñas o llevas y lo arrojas. Haz una tirada de ataque especial contra la CA del objetivo, infligiendo 2d8 daño con un impacto (o doble daño con un impacto critico). El tipo de daño es el mismo que el del arma elegida (o cualquiera de sus tipos para un arma versatil). En su lugar, el ataque inflige daño espiritual si eso perjudica mas a la criatura (a determinar por el DJ). Este ataque utiliza tu penalizador por ataque multiple y contribuye al mismo. Después del ataque, el alma vuelve a tu lado. Si santificas el arma, los ataques tambien son santificados.
 
 Cada vez que mantienes el conjuro, puedes repetir el ataque contra cualquier criatura a 120 pies (36 m) o menos.
 

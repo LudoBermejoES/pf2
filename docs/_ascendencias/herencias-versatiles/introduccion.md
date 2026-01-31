@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ascendencias/herencias-versatiles/introduccion/
+permalink: /ascendencias/herencias-versatiles/introducción/
 title: Herencias Versátiles
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ---
 
-Golarion alberga una gran variedad de herencias versátiles. Algunas han nacido de criaturas inusuales o surgen de circunstancias específicas mundanas o sobrenaturales. Sin embargo, muchas resultan de una fusión de energía extraplanaria, ya sea a través de un progenitor directo, de antepasados más distantes o simplemente debido a una exposición directa a la quintaesencia de dicho Plano. A dichos individuos se les conoce como **retoños planarios**.
+Golarion alberga una gran variedad de herencias versátiles. Algunas han nacido de criaturas inusuales o surgen de circunstancias específicas mundanas o sobrenaturales. Sin embargo, muchas resultan de una fusión de energía extraplanaria, ya sea a través de un progenitor directo, de antepasados más distantes o simplemente debido a una exposición directa a la quintaesencia de dicho Plano. A dichos individuos se les conoce como **retoños plenarios**.
 
 ## Cómo funcionan las herencias versátiles
 

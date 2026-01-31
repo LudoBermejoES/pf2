@@ -1,7 +1,7 @@
 ---
 layout: spell
-permalink: /conjuros/cancion-insondable/
-title: Cancion Insondable
+permalink: /conjuros/canción-insondable/
+title: Canción Insondable
 chapter: Conjuros
 spell_level: 9
 ---
@@ -23,7 +23,7 @@ spell_level: 9
 
 ---
 
-Notas fugaces de una cancion extraña y antinatural llenan el aire, abrumando la mente. Cada objetivo tiene que hacer una salvacion de Voluntad cuando lanzas el conjuro y de nuevo la primera vez que lo Mantienes cada asalto. Una criatura solo tiene que hacer una salvacion contra la cancion cada asalto, y tienes que conservar los mismos objetivos cuando Mantienes el conjuro.
+Notas fugaces de una canción extraña y antinatural llenan el aire, abrumando la mente. Cada objetivo tiene que hacer una salvación de Voluntad cuando lanzas el conjuro y de nuevo la primera vez que lo Mantienes cada asalto. Una criatura solo tiene que hacer una salvación contra la canción cada asalto, y tienes que conservar los mismos objetivos cuando Mantienes el conjuro.
 
 **Exito critico** El objetivo no resulta afectado, no puede resultar afectado en asaltos subsiguientes y queda temporalmente inmune durante 1 minuto.
 

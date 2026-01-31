@@ -18,4 +18,4 @@ spell_level: 3
 
 ---
 
-El arma objetivo se vuelve translucida y fantasmal y puede afectar a criaturas y objetos tanto materiales como incorporales. Obtiene los efectos de la runa de propiedad toque fantasmal (Manual de direccion), lo que significa que es magica si antes no lo era, que es especialmente efectiva contra las criaturas incorporales y que puede ser empuñada por una criatura corporea o incorporea.
+El arma objetivo se vuelve translucida y fantasmal y puede afectar a criaturas y objetos tanto materiales como incorporales. Obtiene los efectos de la runa de propiedad toque fantasmal (Manual de dirección), lo que significa que es magica si antes no lo era, que es especialmente efectiva contra las criaturas incorporales y que puede ser empuñada por una criatura corporea o incorporea.

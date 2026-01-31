@@ -21,6 +21,6 @@ spell_level: TRUCO
 
 ---
 
-Te introduces en la mente del objetivo y lo aturdes con una sacudida mental. La sacudida inflige 1d6 daño mental con una salvacion basica de Voluntad. Si el objetivo falla criticamente la salvacion, queda tambien aturdido 1.
+Te introduces en la mente del objetivo y lo aturdes con una sacudida mental. La sacudida inflige 1d6 daño mental con una salvación basica de Voluntad. Si el objetivo falla criticamente la salvación, queda tambien aturdido 1.
 
 **Potenciado (+2)** El daño se incrementa en 1d6.

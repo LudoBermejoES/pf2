@@ -25,7 +25,7 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar qué forma de ba
 
 Obtienes aptitudes específicas basadas la encarnación elegida:
 - **Hombre verde** Velocidad 40 pies (12 m), trepar 40 pies (12 m); Cuerpo a cuerpo ◆ enredaderas (alcance 30 pies [9 m], versátil Per), Daño 6d8+12 contundente; A distancia ◆ espinas (incremento de rango de distancia 100 pies [30 m]), Daño 6d6+6 perforante; Caricia verde (aura, primigenia) 60 pies (18 m). Los enemigos que no son plantas han de tener éxito en una salvación de Fortaleza contra tu CD de conjuros o sufrir torpe 1 durante 1 asalto (torpe 2 con un fallo crítico).
-- **Kaiju** Velocidad 50 pies (15 m); resistencia 5 al daño físico; Cuerpo a cuerpo ◆ mandíbulas (alcance 30 pies [9 m]), Daño 6d10+10 perforante; Cuerpo a cuerpo ◆ garras (ágil, alcance 30 pies [9 m]), Daño 6d8+8 cortante; Cuerpo a cuerpo ◆ pie (ágil, alcance 15 pies [4,5 m]), Daño 6d6+10 contundente; Imparable eres inmune a quedar inmovilizado e ignoras el terreno difícil y el terreno difícil mayor; Pisotear ◆◆◆ Mueves hasta el doble de tu Velocidad y atraviesas el espacio de criaturas Enormes o más pequeñas, pisoteando a cada criatura en cuyo espacio entras. Una criatura pisoteada sufre daño por pata con una salvación básica de Reflejos contra tu CD de conjuros.
+- **Kaiku** Velocidad 50 pies (15 m); resistencia 5 al daño físico; Cuerpo a cuerpo ◆ mandíbulas (alcance 30 pies [9 m]), Daño 6d10+10 perforante; Cuerpo a cuerpo ◆ garras (ágil, alcance 30 pies [9 m]), Daño 6d8+8 cortante; Cuerpo a cuerpo ◆ pie (ágil, alcance 15 pies [4,5 m]), Daño 6d6+10 contundente; Imparable eres inmune a quedar inmovilizado e ignoras el terreno difícil y el terreno difícil mayor; Pisotear ◆◆◆ Mueves hasta el doble de tu Velocidad y atraviesas el espacio de criaturas Enormes o más pequeñas, pisoteando a cada criatura en cuyo espacio entras. Una criatura pisoteada sufre daño por pata con una salvación básica de Reflejos contra tu CD de conjuros.
 
 ---
 
@@ -121,7 +121,7 @@ Si el objetivo a rastrear es voluntario, la duración es 1 hora. Si es involunta
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** hasta tus siguientes preparativos diarios
 
-Custodias poderosas ocultan a una criatura de la magia que podría espiarla o afectar su mente. El objetivo obtiene un bonificador +4 por estatus a las salvaciones contra los efectos mentales. Ocultar la mente contrarresta cualquier efecto de detección, revelación y escudriñamiento como si su rango de conjuro fuera 1 mayor que su rango real. Con un éxito, el efecto funciona normalmente, excepto que no detecta nada acerca del objetivo y sus posesiones. Por ejemplo, detectar magia detectaría cualquier otra magia que hubiera en el área, pero ninguna sobre el objetivo.
+Custodias poderosas ocultan a una criatura de la magia que podría espiarla o afectar su mente. El objetivo obtiene un bonificados +4 por estatus a las salvaciones contra los efectos mentales. Ocultar la mente contrarresta cualquier efecto de detección, revelación y escudriñamiento como si su rango de conjuro fuera 1 mayor que su rango real. Con un éxito, el efecto funciona normalmente, excepto que no detecta nada acerca del objetivo y sus posesiones. Por ejemplo, detectar magia detectaría cualquier otra magia que hubiera en el área, pero ninguna sobre el objetivo.
 
 ---
 
@@ -202,7 +202,7 @@ Gritas una orden que es difícil de ignorar. Puedes ordenar al objetivo que se a
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** hasta el inicio de tu siguiente turno
 
-Imploras la guía de seres sobrenaturales, lo que concede al objetivo un bonificador +1 por estatus a una tirada de ataque, prueba de Percepción, tirada de salvación o prueba de habilidad. El objetivo elige a qué tirada aplica el bonificador antes de tirar. Si el objetivo utiliza el bonificador, el conjuro acaba. De una u otra forma, a continuación el objetivo queda temporalmente inmune durante 1 hora.
+Imploras la guía de seres sobrenaturales, lo que concede al objetivo un bonificados +1 por estatus a una tirada de ataque, prueba de Percepción, tirada de salvación o prueba de habilidad. El objetivo elige a qué tirada aplica el bonificados antes de tirar. Si el objetivo utiliza el bonificados, el conjuro acaba. De una u otra forma, a continuación el objetivo queda temporalmente inmune durante 1 hora.
 
 ---
 
@@ -239,7 +239,7 @@ Si el rayo atraviesa un área de luz mágica o designa como objetivo a una criat
 **Tradiciones:** ocultista
 **Duración:** 10 minutos
 
-Las falsedades salen de tus labios tan suavemente como la seda. Obtienes un bonificador +4 por estatus a las pruebas de Engaño para Mentir y a las pruebas de Percepción para discernir si dices la verdad, añadiendo tu nivel incluso si ni siquiera dispones del rango entrenado. Si la inverosimilitud de tus mentiras acarrea un penalizador por circunstancia o un incremento de la CD, reduce a la mitad dicho penalizador o incrementa la CD tan solo en la mitad.
+Las falsedades salen de tus labios tan suavemente como la seda. Obtienes un bonificados +4 por estatus a las pruebas de Engaño para Mentir y a las pruebas de Percepción para discernir si dices la verdad, añadiendo tu nivel incluso si ni siquiera dispones del rango entrenado. Si la inverosimilitud de tus mentiras acarrea un penalizador por circunstancia o un incremento de la CD, reduce a la mitad dicho penalizador o incrementa la CD tan solo en la mitad.
 
 ---
 
@@ -327,7 +327,7 @@ Creas un túnel visible a través de la pared en el área elegida, reemplazándo
 **Rango de distancia:** toque; **Área:** una sección de terreno de 10 pies (3 m) de anchura, 10 pies (3 m) de altura y 60 pies (18 m) de longitud
 **Duración:** mantenido hasta 1 minuto
 
-Haces que el paso a través del área sea seguro durante un breve periodo de tiempo. Cualquiera que atraviese el área obtendrá los siguientes beneficios contra los efectos dañinos del terreno y del medio ambiente, incluyendo daño medioambiental, terreno arriesgado y peligros en el área. El conjuro concede un bonificador +2 por estatus a la CA y a las salvaciones contra dichos efectos, y resistencia 5 a todo el daño debido a dichos efectos. Además, evita que cualquier cosa del área que está a punto de derrumbarse, como por ejemplo un puente desvencijado o un techo inestable lo haga, excepto bajo una tensión extrema que derrumbaría una estructura normal de su tipo.
+Haces que el paso a través del área sea seguro durante un breve periodo de tiempo. Cualquiera que atraviese el área obtendrá los siguientes beneficios contra los efectos dañinos del terreno y del medio ambiente, incluyendo daño medioambiental, terreno arriesgado y peligros en el área. El conjuro concede un bonificados +2 por estatus a la CA y a las salvaciones contra dichos efectos, y resistencia 5 a todo el daño debido a dichos efectos. Además, evita que cualquier cosa del área que está a punto de derrumbarse, como por ejemplo un puente desvencijado o un techo inestable lo haga, excepto bajo una tensión extrema que derrumbaría una estructura normal de su tipo.
 
 Pasaje seguro protege tan solo contra el daño, no contra los inconvenientes, y no reduce el terreno difícil, ni elimina el estado de oculto causado por las precipitaciones o cosas similares, ni protege contra las criaturas dentro del área del conjuro.
 
@@ -344,7 +344,7 @@ Pasaje seguro protege tan solo contra el daño, no contra los inconvenientes, y 
 **Rango de distancia:** planetario; **Objetivos:** 1 criatura cuyo nombre conoces
 **Defensa:** Voluntad; **Duración:** 1 día
 
-Envías a tu objetivo unas inquietantes pesadillas. La siguiente vez que se queda dormido, tiene que hacer una salvación de Voluntad. Si conoces al objetivo sólo de nombre y nunca te has encontrado con él, obtiene un bonificador +4 por circunstancia a la salvación de Voluntad.
+Envías a tu objetivo unas inquietantes pesadillas. La siguiente vez que se queda dormido, tiene que hacer una salvación de Voluntad. Si conoces al objetivo sólo de nombre y nunca te has encontrado con él, obtiene un bonificados +4 por circunstancia a la salvación de Voluntad.
 
 **Éxito crítico** El objetivo no resulta afectado y queda temporalmente inmune durante 1 semana.
 
@@ -389,7 +389,7 @@ Los pies del objetivo se transforman en aletas, mejorando su movilidad en el agu
 **Tradiciones:** arcana, primigenia
 **Duración:** 1 minuto
 
-Obtienes un bonificador +30 pies (9 m) por estatus a tu Velocidad.
+Obtienes un bonificados +30 pies (9 m) por estatus a tu Velocidad.
 
 ---
 
@@ -503,7 +503,7 @@ Unos pelos Menudos y pegajosos brotan en las manos y los pies de la criatura, pe
 
 Obtienes un sexto sentido que te avisa del peligro que podría correr el objetivo del conjuro. Si eliges una criatura distinta a ti como objetivo, creas un enlace psíquico a través del cual puedes informarla del peligro. Este enlace es un efecto mental. Debido a la cantidad de información que este conjuro requiere que proceses, no puedes tener más de un conjuro de presciencia activo en un momento dado. Lanzarlo de nuevo acaba con el lanzamiento anterior.
 
-Mientras presciencia surte efecto, el objetivo obtiene un bonificador +2 por estatus a sus tiradas de iniciativa y no está desprevenido contra criaturas no detectadas o cuando está flanqueado. Además, obtiene la siguiente reacción.
+Mientras presciencia surte efecto, el objetivo obtiene un bonificados +2 por estatus a sus tiradas de iniciativa y no está desprevenido contra criaturas no detectadas o cuando está flanqueado. Además, obtiene la siguiente reacción.
 
 **Presciencia** ↺ **Desencadenante** El objetivo de presciencia se defiende contra una criatura hostil u otro peligro; **Efecto** Si la criatura hostil o el peligro obliga al objetivo a tirar dados (por ejemplo, a hacer una tirada de salvación), el objetivo tira dos veces y utiliza el resultado mejor, a la vez que el conjuro obtiene el rasgo fortuna. Pero si la criatura hostil o el peligro tira contra el objetivo (por ejemplo, una tirada de ataque o prueba de habilidad), dicha criatura hostil o peligro tira dos veces y utiliza el resultado peor, a la vez que el conjuro obtiene el rasgo desventura.
 
@@ -550,7 +550,7 @@ Prestidigitación no puede infligir daño ni causar estados adversos. Todo cambi
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 **Duración:** 1 minuto
 
-Custodias a una criatura contra el daño. El objetivo obtiene un bonificador +1 por estatus a su CA y sus tiradas de salvación.
+Custodias a una criatura contra el daño. El objetivo obtiene un bonificados +1 por estatus a su CA y sus tiradas de salvación.
 
 **Potenciado (3.º)** Puedes hacer que los beneficios afecten también a todos sus aliados en una emanación de 10 pies (3 m) alrededor del objetivo.
 
@@ -928,7 +928,7 @@ Colocas de forma inofensiva tu sello mágico único, cuyo tamaño es de aproxima
 **Rango de distancia:** 120 pies (36 m); **Área:** explosión de 60 pies (18 m)
 **Duración:** hasta tus siguientes preparativos diarios
 
-Creas una barrera mágica visible que contrarresta los efectos de teletransporte y del viaje planario de entrada y de salida del área, incluyendo objetos que permiten acceso a espacios extradimensionales. Sello planario contrarresta cualquier intento de convocar a una criatura al área, pero no evita que dicha criatura se vaya al acabar la convocación.
+Creas una barrera mágica visible que contrarresta los efectos de teletransporte y del viaje plenario de entrada y de salida del área, incluyendo objetos que permiten acceso a espacios extradimensionales. Sello plenario contrarresta cualquier intento de convocar a una criatura al área, pero no evita que dicha criatura se vaya al acabar la convocación.
 
 ---
 

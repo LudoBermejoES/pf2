@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /apendices/
-title: Apendices
+permalink: /apéndices/
+title: Apéndices
 description: Contenido del capítulo Apéndices
 ---
 

@@ -8,18 +8,18 @@ category: clases
 
 ## Pícaro
 
-Has aprendido a moverte con discrecion, a robar y a inutilizar trampas. Con el tiempo seras capaz de atravesar las sombras, detectar sin ser visto y huir sin que nadie te vea.
+Has aprendido a moverte con discreción, a robar y a inutilizar trampas. Con el tiempo seras capaz de atravesar las sombras, detectar sin ser visto y huir sin que nadie te vea.
 
 ### Personajes multiclase picaros
 
-Casi cualquier personaje se podria beneficiar de las muchas habilidades y trucos que concede el arquetipo picaro.
+Casi cualquier personaje se podría beneficiar de las muchas habilidades y trucos que concede el arquetipo picaro.
 
-- Los picaros bardos expanden su robusta base de habilidades. Tambien estan bien situados para cobrar ventaja de las distracciones causadas por su Interpretacion y por lo demas aplicar sus habilidades al combate.
+- Los picaros bardos expanden su robusta base de habilidades. Tambien estan bien situados para cobrar ventaja de las distracciones causadas por su Interpretación y por lo demas aplicar sus habilidades al combate.
 - Los picaros brujos aplican los maleficios de sus patrones desde las sombras y mejoran muchas de las armas sencillas en las que estan entrenados.
-- Los picaros clerigos a menudo siguen a dioses que apoyan hacer trampas en combate, como por ejemplo Calistria, aprendiendo un estilo de combate que encaja con su dios. Sin embargo, muchos clerigos pueden necesitar sigilo y trucos cuando su voz no es bienvenida.
+- Los picaros clérigos a menudo siguen a dioses que apoyan hacer trampas en combate, como por ejemplo Calistria, aprendiendo un estilo de combate que encaja con su dios. Sin embargo, muchos clérigos pueden necesitar sigilo y trucos cuando su voz no es bienvenida.
 - Los picaros druidas pueden emboscar de otra forma a sus enemigos, pareciendo fundirse en las sombras del mundo natural.
-- Los picaros exploradores se benefician del enfoque compartido de rastrear enemigos y tomarlos desprevenidos. La ventaja rafaga te puede conceder muchos ataques furtivos y la ventaja precision redobla el dano de precision.
-- Los picaros guerreros combinan la precision del guerrero con el dano adicional, una combinacion letal en manos de arqueros o de guerreros sutiles.
+- Los picaros exploradores se benefician del enfoque compartido de rastrear enemigos y tomarlos desprevenidos. La ventaja ráfaga te puede conceder muchos ataques furtivos y la ventaja precision redobla el dano de precision.
+- Los picaros guerreros combinan la precision del guerrero con el dano adicional, una combinación letal en manos de arqueros o de guerreros sutiles.
 - Los picaros magos utilizan la multiclase picaro para reforzar habilidades o elegir dotes de picaro complejas que les ayudan a permanecer seguros.
 
 ---
@@ -30,7 +30,7 @@ Casi cualquier personaje se podria beneficiar de las muchas habilidades y trucos
 
 **Prerrequisitos:** Destreza +2
 
-Obtienes una dote de habilidad y el rasgo de clase de picaro ataque por sorpresa. Obtienes el rango entrenado en armadura ligera. Ademas, obtienes el rango entrenado en Sigilo o Latrocinio, ademas de otra habilidad a tu eleccion; si ya estas entrenado tanto en Sigilo como en Latrocinio, obtienes el rango entrenado en una habilidad adicional a tu eleccion. Obtienes el rango entrenado en la CD de la clase picaro.
+Obtienes una dote de habilidad y el rasgo de clase de picaro ataque por sorpresa. Obtienes el rango entrenado en armadura ligera. Ademas, obtienes el rango entrenado en Sigilo o Latrocinio, ademas de otra habilidad a tu elección; si ya estas entrenado tanto en Sigilo como en Latrocinio, obtienes el rango entrenado en una habilidad adicional a tu elección. Obtienes el rango entrenado en la CD de la clase picaro.
 
 ---
 

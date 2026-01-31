@@ -15,9 +15,9 @@ Has invertido tiempo aprendiendo el arte de la guerra e incrementando tu habilid
 El arquetipo guerrero concede acceso a grandes dotes para los personajes que se centran en cualquier estilo de combate y es particularmente util para quienes buscan diversificar sus aptitudes ofensivas o centrarse en armas mas poderosas.
 
 - Los guerreros bardos dirigen desde primera linea utilizando sus habilidades marciales para permanecer en el fragor del combate donde se halla su audiencia.
-- Los guerreros clerigos se centran en un estilo de combate ejemplificado por su dios. Un sacerdote de guerra que utiliza un escudo se beneficia de lo mejor de ambos mundos en lo que a dotes de escudo se refiere.
-- Los guerreros exploradores se pueden especializar, o bien en tiro con arco, o bien en utilizar sus dotes de guerrero para elegir una combinacion inusual de estilos de combate.
-- Los guerreros lanzadores de conjuros se benefician en gran medida de las competencias en armas adicionales, y el guerrero es una eleccion solida para cualquier lanzador de conjuros con una tendencia marcial en particular.
+- Los guerreros clérigos se centran en un estilo de combate ejemplificado por su dios. Un sacerdote de guerra que utiliza un escudo se beneficia de lo mejor de ambos mundos en lo que a dotes de escudo se refiere.
+- Los guerreros exploradores se pueden especializar, o bien en tiro con arco, o bien en utilizar sus dotes de guerrero para elegir una combinación inusual de estilos de combate.
+- Los guerreros lanzadores de conjuros se benefician en gran medida de las competencias en armas adicionales, y el guerrero es una elección solida para cualquier lanzador de conjuros con una tendencia marcial en particular.
 - Los guerreros picaros pueden hacer un buen uso de la mano libre del guerrero, del combate con dos armas o de las dotes de tiro con arco. Dar multiples Golpes tambien les puede ir muy bien.
 
 ---
@@ -28,7 +28,7 @@ El arquetipo guerrero concede acceso a grandes dotes para los personajes que se 
 
 **Prerrequisitos:** Fuerza +2, Destreza +2
 
-Obtienes el rango entrenado en armas marciales. Tambien lo obtienes en Acrobacias o Atletismo (a elegir); si ya estas entrenado en una de estas habilidades, en su lugar obtienes el rango entrenado en una habilidad a tu eleccion. Obtienes el rango entrenado en la CD de la clase guerrero.
+Obtienes el rango entrenado en armas marciales. Tambien lo obtienes en Acrobacias o Atletismo (a elegir); si ya estas entrenado en una de estas habilidades, en su lugar obtienes el rango entrenado en una habilidad a tu elección. Obtienes el rango entrenado en la CD de la clase guerrero.
 
 ---
 
@@ -58,7 +58,7 @@ Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo guer
 
 **Prerrequisitos:** Dedicacion de guerrero
 
-Obtienes la reaccion Golpe reactivo.
+Obtienes la reacción Golpe reactivo.
 
 ---
 
