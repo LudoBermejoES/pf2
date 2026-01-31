@@ -19,8 +19,12 @@
       Ambientación
     </h3>
     <ul class="sidebar-links">
-      <li><a href="{{ '/ambientacion/golarion/' | relative_url }}">El Mundo de Golarion</a>
-        <ul class="sidebar-sublinks">
+      <li class="sidebar-parent">
+        <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer El Mundo de Golarion">
+          <span class="toggle-icon">▶</span>
+        </button>
+        <a href="{{ '/ambientacion/golarion/' | relative_url }}">El Mundo de Golarion</a>
+        <ul class="sidebar-sublinks collapsed">
           <li><a href="{{ '/ambientacion/regiones/absalom/' | relative_url }}">Absalom y la Isla de la Piedra Estelar</a></li>
           <li><a href="{{ '/ambientacion/regiones/alta-mar/' | relative_url }}">Alta Mar</a></li>
           <li><a href="{{ '/ambientacion/regiones/camino-dorado/' | relative_url }}">El Camino Dorado</a></li>
@@ -51,8 +55,12 @@
       <li><a href="{{ '/ascendencias/orco/' | relative_url }}">Orco</a></li>
       <li><a href="{{ '/ascendencias/goblin/' | relative_url }}">Goblin</a></li>
       <li><a href="{{ '/ascendencias/leshy/' | relative_url }}">Leshy</a></li>
-      <li><a href="{{ '/ascendencias/herencias-versatiles/' | relative_url }}">Herencias Versátiles</a>
-        <ul class="sidebar-sublinks no-bullets">
+      <li class="sidebar-parent">
+        <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer Herencias Versátiles">
+          <span class="toggle-icon">▶</span>
+        </button>
+        <a href="{{ '/ascendencias/herencias-versatiles/' | relative_url }}">Herencias Versátiles</a>
+        <ul class="sidebar-sublinks no-bullets collapsed">
           <li><a href="{{ '/ascendencias/ascendencia-mixta/' | relative_url }}">Ascendencia Mixta</a></li>
           <li><a href="{{ '/ascendencias/changeling/' | relative_url }}">Changeling</a></li>
           <li><a href="{{ '/ascendencias/nefilim/' | relative_url }}">Nefilim</a></li>
@@ -79,10 +87,18 @@
       <li><a href="{{ '/clases/bardo/' | relative_url }}">Bardo</a></li>
       <li><a href="{{ '/clases/brujo/' | relative_url }}">Brujo</a></li>
       <li class="sidebar-divider"></li>
-      <li><a href="{{ '/clases/arquetipos/' | relative_url }}">Arquetipos</a>
-        <ul class="sidebar-sublinks">
-          <li><a href="{{ '/clases/arquetipos/multiclase/' | relative_url }}">Arquetipos Multiclase</a>
-            <ul class="sidebar-sublinks">
+      <li class="sidebar-parent">
+        <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer Arquetipos">
+          <span class="toggle-icon">▶</span>
+        </button>
+        <a href="{{ '/clases/arquetipos/' | relative_url }}">Arquetipos</a>
+        <ul class="sidebar-sublinks collapsed">
+          <li class="sidebar-parent">
+            <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer Arquetipos Multiclase">
+              <span class="toggle-icon">▶</span>
+            </button>
+            <a href="{{ '/clases/arquetipos/multiclase/' | relative_url }}">Arquetipos Multiclase</a>
+            <ul class="sidebar-sublinks collapsed">
               <li><a href="{{ '/clases/arquetipos/multiclase/bardo/' | relative_url }}">Bardo</a></li>
               <li><a href="{{ '/clases/arquetipos/multiclase/brujo/' | relative_url }}">Brujo</a></li>
               <li><a href="{{ '/clases/arquetipos/multiclase/clerigo/' | relative_url }}">Clérigo</a></li>
@@ -145,8 +161,12 @@
       <li><a href="{{ '/conjuros/' | relative_url }}">Guía Principal</a></li>
       <li><a href="{{ '/conjuros/introduccion/' | relative_url }}">Conceptos Fundamentales</a></li>
       <li class="sidebar-divider"></li>
-      <li><strong>Búsqueda de Conjuros</strong>
-        <ul class="sidebar-sublinks">
+      <li class="sidebar-parent">
+        <button class="sidebar-toggle" type="button" aria-expanded="false" aria-label="Expandir/Contraer Búsqueda de Conjuros">
+          <span class="toggle-icon">▶</span>
+        </button>
+        <strong>Búsqueda de Conjuros</strong>
+        <ul class="sidebar-sublinks collapsed">
           <li><a href="{{ '/conjuros/listas/arcana/' | relative_url }}">Tradición Arcana</a></li>
           <li><a href="{{ '/conjuros/listas/divina/' | relative_url }}">Tradición Divina</a></li>
           <li><a href="{{ '/conjuros/listas/oculta/' | relative_url }}">Tradición Ocultista</a></li>
