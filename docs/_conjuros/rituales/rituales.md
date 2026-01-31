@@ -11,27 +11,27 @@ Un ritual es un conjuro complejo y esoterico que todo el mundo puede lanzar. Se 
 
 ## Rituales por Rango
 
-| Rango | Ritual |
-|-------|--------|
-| 2 | Animar objeto |
-| 2 | Consagrar |
-| 2 | Crear muerto viviente |
-| 3 | Geas |
-| 3 | Trampa runica |
-| 4 | Asolar |
-| 4 | Crecimiento vegetal |
-| 4 | Expiar |
-| 5 | Llamar espíritu |
-| 5 | Resucitar |
-| 5 | Servidor planario |
-| 6 | Circulo de ligadura |
-| 6 | Comunion |
-| 6 | Dotar de consciencia a un animal |
-| 6 | Llamada primigenia |
-| 7 | Desplazamiento planario |
-| 7 | Recuerdos colectivos |
-| 8 | Controlar el clima |
-| 10 | Deseo |
+| Rango | Ritual | Descripción | Rasgos |
+|-------|--------|-------------|--------|
+| 2 | [Animar Objeto]({{ '/conjuros/rituales/animar-objeto/' | relative_url }}) | Transforma un objeto en una criatura animada bajo tu control. | Poco comun |
+| 4 | [Asolar]({{ '/conjuros/rituales/asolar/' | relative_url }}) | Marchita las plantas de una zona grande, reduciendo las cosechas. | Poco comun, planta, vacío |
+| 6 | [Circulo de Ligadura]({{ '/conjuros/rituales/circulo-de-ligadura/' | relative_url }}) | Llama a una criatura extraplanar y negocia un trato con ella. | Poco comun |
+| 6 | [Comunion]({{ '/conjuros/rituales/comunion/' | relative_url }}) | Contacta con seres poderosos para que respondan a tus preguntas. | Poco comun, predicción |
+| 2 | [Consagrar]({{ '/conjuros/rituales/consagrar/' | relative_url }}) | Consagra un lugar a tu dios con efectos beneficiosos para sus adoradores. | Poco comun, consagracion |
+| 8 | [Controlar el Clima]({{ '/conjuros/rituales/controlar-el-clima/' | relative_url }}) | Altera el clima y los fenómenos meteorológicos de una amplia zona. | Poco comun |
+| 2 | [Crear Muerto Viviente]({{ '/conjuros/rituales/crear-muerto-viviente/' | relative_url }}) | Transforma un cadáver en una criatura no-muerta. | Poco comun, sacrilego |
+| 4 | [Crecimiento Vegetal]({{ '/conjuros/rituales/crecimiento-vegetal/' | relative_url }}) | Enriquece las plantas de una zona, aumentando las cosechas. | Poco comun, madera, planta, vitalidad |
+| 10 | [Deseo]({{ '/conjuros/rituales/deseo/' | relative_url }}) | Conjuro supremo que altera la realidad para conceder un deseo. | Raro |
+| 7 | [Desplazamiento Planario]({{ '/conjuros/rituales/desplazamiento-planario/' | relative_url }}) | Transporta criaturas a un plano de existencia diferente. | Poco comun, teletransporte |
+| 6 | [Dotar de Consciencia a un Animal]({{ '/conjuros/rituales/dotar-de-consciencia-a-un-animal/' | relative_url }}) | Concede inteligencia humanoide a un animal. | Poco comun, mental |
+| 4 | [Expiar]({{ '/conjuros/rituales/expiar/' | relative_url }}) | Ayuda a una criatura arrepentida a expiar sus transgresiones. | Poco comun |
+| 3 | [Geas]({{ '/conjuros/rituales/geas/' | relative_url }}) | Impone una obligación mágica a una criatura voluntaria. | Poco comun, maldición, mental |
+| 6 | [Llamada Primigenia]({{ '/conjuros/rituales/llamada-primigenia/' | relative_url }}) | Llama a un animal, hada o planta a distancia. | Poco comun |
+| 5 | [Llamar a un Espíritu]({{ '/conjuros/rituales/llamar-a-un-espiritu/' | relative_url }}) | Contacta con el espíritu de un difunto para hacer preguntas. | Poco comun, espíritu |
+| 7 | [Recuerdos Colectivos]({{ '/conjuros/rituales/recuerdos-colectivos/' | relative_url }}) | Sondea los recuerdos compartidos de la humanidad sobre un tema. | Poco comun |
+| 5 | [Resucitar]({{ '/conjuros/rituales/resucitar/' | relative_url }}) | Devuelve la vida a una criatura muerta hace poco tiempo. | Poco comun, curacion |
+| 5 | [Servidor Planario]({{ '/conjuros/rituales/servidor-planario/' | relative_url }}) | Llama a un servidor divino para que te ayude en una tarea. | Poco comun |
+
 
 ## Como Aprender Rituales
 
