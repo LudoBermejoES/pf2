@@ -1,64 +1,64 @@
-# Chapter 5: Spells
+# Capítulo 5: Hechizos
 
-Here you'll find spells beyond those listed in Player Core, including ones that warp space or time, manifest a wall of living flesh, and make a mansion out of nothing! The following pages contain new magical powers for casters of every tradition.
+Aquí encontrarás conjuros más allá de los listados en Player Core, incluyendo algunos que deforman el espacio o el tiempo, manifiestan una pared de carne viviente o crean una mansión de la nada. Las páginas siguientes contienen nuevos poderes mágicos para lanzadores de todas las tradiciones.
 
 ---
 
-## Spell Reference
+## Referencia de conjuros
 
-The rules regarding how to cast spells and use spell slots, as well as other spell information, can be found on pages 297–303 of Player Core. You can reference individual spell lists and descriptions in the following locations.
+Las reglas sobre cómo lanzar conjuros y usar espacios de conjuro, así como otra información sobre conjuros, se encuentran en las páginas 297–303 de Player Core. Puedes consultar las listas de conjuros y sus descripciones en las siguientes ubicaciones.
 
-### Spell Lists
+### Listas de conjuros
 
-| List | Player Core | Player Core 2 |
+| Lista | Player Core | Player Core 2 |
 |------|-------------|---------------|
-| Arcane | Pages 304–307 | Page 238 |
-| Divine | Pages 307–309 | Page 238 |
-| Occult | Pages 309–311 | Pages 238–239 |
-| Primal | Pages 311–313 | Page 239 |
+| Arcana | Páginas 304–307 | Página 238 |
+| Divina | Páginas 307–309 | Página 238 |
+| Oculta | Páginas 309–311 | Páginas 238–239 |
+| Primigenia | Páginas 311–313 | Página 239 |
 
-### Spells
+### Conjuros
 
-| Type | Player Core | Player Core 2 |
+| Tipo | Player Core | Player Core 2 |
 |------|-------------|---------------|
-| Standard spells | Pages 314–369 | Pages 240–255 |
-| Focus spells | Pages 370–388 | Pages 256–265 |
-| Rituals | Pages 389–395 | Pages 266–271 |
+| Conjuros estándar | Páginas 314–369 | Páginas 240–255 |
+| Conjuros de foco | Páginas 370–388 | Páginas 256–265 |
+| Rituales | Páginas 389–395 | Páginas 266–271 |
 
 ---
 
-## Your Spellcasting Style
+## Tu estilo de lanzamiento
 
-If you're playing a spellcaster, it can be fun to consider your personal spellcasting style. Casters of different traditions usually have the biggest gulf between them in how they cast spells, but there's also differentiation between—and within—classes!
+Si juegas un lanzador de conjuros, puede ser divertido considerar tu estilo personal de lanzamiento. Los lanzadores de distintas tradiciones suelen diferenciarse mucho en cómo lanzan sus conjuros, pero también hay diferencias entre—y dentro de—las clases.
 
-### Preparing your Spells
+### Preparar tus conjuros
 
-If you prepare spells, consider what it looks like as you do so. Typically, arcane spellcasters consult their books, self-reflect, or otherwise study; divine casters pray to fill their heart with spells that will serve their deity; occult casters attempt to decipher cryptic messages, often while referencing occult texts; and primal casters might seek natural places to contemplate their magic, such as a grove or underground cavern.
+Si preparas conjuros, piensa cómo se ve ese proceso en tu caso. Normalmente, los lanzadores arcanos consultan sus libros, se auto-reflexionan u estudian; los lanzadores divinos rezan para llenar su corazón con conjuros que servirán a su deidad; los lanzadores ocultos intentan descifrar mensajes crípticos, a menudo consultando textos de ocultismo; y los lanzadores primigenios pueden buscar lugares naturales para contemplar su magia, como un bosque o una caverna subterránea.
 
-Spontaneous spellcasters, not needing to prepare, tend to wake up with their magical reserves restored. This might be a refreshed or vivacious feeling, a teeming thrum throughout the body, or a sense of impending dread or awe.
+Los lanzadores espontáneos, al no necesitar preparar, tienden a despertar con sus reservas mágicas restauradas. Esto puede sentirse como una vivacidad renovada, un zumbido palpitante por todo el cuerpo, o un sentido de temor o asombro inminente.
 
-### Casting your Spells
+### Lanzar tus conjuros
 
-For one spellcaster, casting a spell is a stressful, painful process. For another, it's a moment of triumph as they outsmart their enemy with just the right trick.
+Para un lanzador, lanzar un conjuro es un proceso estresante y doloroso. Para otro, es un momento de triunfo al burlar a su enemigo con el truco justo.
 
-As mentioned on page 299 of Player Core, the manifestation of your magic might produce different sensory effects. You should also think about the nature of the gestures and vocal incantations you use to cast that spell. Do you chant with a different timbre than your normal speaking voice? Does this voice resemble that of your deity or some other supernatural being? When you gesture, what does it look like? Are they abstract motions that correspond to different facets of the magic? Perhaps you always end your incantations with a firm, direct gesture, like pointing your finger or raising a fist. The particulars of spellcasting are abstracted, so you can customize each facet for your character.
+Como se menciona en la página 299 de Player Core, la manifestación de tu magia puede producir distintos efectos sensoriales. También deberías pensar en la naturaleza de los gestos e incantaciones vocales que usas para lanzar ese conjuro. ¿Entonas con un timbre distinto de tu voz habitual? ¿Se parece esa voz a la de tu deidad o algún otro ser sobrenatural? Cuando gesticulas, ¿cómo se ve? ¿Son movimientos abstractos que corresponden a diferentes facetas de la magia? Tal vez siempre termines tus incantaciones con un gesto firme y directo, como señalar con el dedo o alzar el puño. Los detalles del lanzamiento se abstraen, así que puedes personalizar cada faceta para tu personaje.
 
-### Refocusing
+### Reenfocarse
 
-Your class briefly describes what you need to do to Refocus, such as meditating for the monk. Start out with some idea of what this looks like for you and refine it during play. What you need to do to Refocus is broadly defined to allow a variety of methods that make sense in the story. One sorcerer might absentmindedly twirl a shiny dragon scale—a remnant of a draconic ancestor—in their hand with their familiar, while another might contemplate the flow of a nearby river to remind themself of the power of water.
-
----
-
-## Spell Traits
-
-Several sections within the full rules for casting spells in Player Core cover how spell traits function, including traits like morph and subtle. Spell traits usually apply only to spells, but the traits concentrate and manipulate apply to other actions. All spells have the concentrate or manipulate trait (or both). Below are some reminders on how these traits work with spells.
-
-**Concentrate:** Spells with the concentrate trait require you to focus on your magic. If the spell has a casting time longer than a few actions (such as a full minute or even 10 minutes), you need to maintain that concentration and can't perform other actions. If your concentration is broken (such as if a fight begins), your spell is disrupted.
-
-**Manipulate:** Spells with the manipulate trait require you to physically use a locus or make definitive gestures. If your hands are bound, you might not be able to cast such spells. Remember that actions with the manipulate trait often trigger reactions, some of which have the possibility of disrupting your spell.
+Tu clase describe brevemente lo que necesitas hacer para reenfocarte, como meditar en el caso del monje. Empieza con alguna idea de cómo se ve para ti y perfecciónala durante el juego. Lo que necesitas para reenfocarte está definido de forma amplia para permitir variedad de métodos que tengan sentido en la historia. Un hechicero podría girar distraídamente una brillante escama de dragón—un vestigio de un antepasado dracónico—en su mano junto a su familiar, mientras que otro podría contemplar el flujo de un río cercano para recordarse el poder del agua.
 
 ---
 
-## Spell Lists Key
+## Rasgos de conjuro
 
-A superscript "H" indicates a spell has extra effects when heightened, and an uncommon spell has a superscript "U."
+Varias secciones dentro de las reglas completas para lanzar conjuros en Player Core cubren cómo funcionan los rasgos de conjuro, incluyendo rasgos como morph y subtle. Los rasgos de conjuro suelen aplicarse solo a conjuros, pero los rasgos concentrar y manipular se aplican a otras acciones. Todos los conjuros tienen el rasgo concentrar o manipular (o ambos). A continuación, algunos recordatorios de cómo funcionan estos rasgos con los conjuros.
+
+**Concentrar:** Los conjuros con el rasgo concentrar requieren que enfoques tu magia. Si el conjuro tiene un tiempo de lanzamiento mayor que unas pocas acciones (como un minuto completo o incluso 10 minutos), necesitas mantener esa concentración y no puedes realizar otras acciones. Si se rompe tu concentración (por ejemplo, si empieza un combate), tu conjuro se interrumpe.
+
+**Manipular:** Los conjuros con el rasgo manipular requieren que uses físicamente un locus o realices gestos definidos. Si tienes las manos atadas, podrías no poder lanzar tales conjuros. Recuerda que las acciones con el rasgo manipular a menudo desencadenan reacciones, algunas de las cuales pueden interrumpir tu conjuro.
+
+---
+
+## Leyenda de listas de conjuros
+
+Un superíndice «H» indica que un conjuro tiene efectos adicionales cuando está potenciado, y un conjuro poco común tiene un superíndice «U».

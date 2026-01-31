@@ -1,377 +1,377 @@
-# Rituals
+# Rituales
 
-Rituals take a long time to cast and can be performed by anyone skilled enough, not just spellcasters. The full rules for casting rituals appear on page 389 of Player Core.
+Los rituales requieren mucho tiempo para lanzarse y pueden ser realizados por cualquiera con la suficiente pericia, no solo por lanzadores de conjuros. Las reglas completas para lanzar rituales aparecen en la página 389 de Player Core.
 
-## Rituals by Rank
+## Rituales por rango
 
-| Rank | Ritual |
+| Rango | Ritual |
 |------|--------|
-| 2 | Heartbond |
-| 2 | Inveigle |
-| 3 | Phantasmal Custodians |
-| 3 | Reincarnate |
-| 4 | Rest Eternal |
-| 4 | Shadow Double |
-| 5 | Astral Projection |
-| 5 | Fortifying Brew | 
-| 6 | Ward Domain |
-| 7 | Gathering Call |
-| 7 | Teleportation Circle |
-| 9 | Clone |
-| 9 | Fantastic Facade |
+| 2 | Vínculo del corazón |
+| 2 | Engatusar |
+| 3 | Custodios fantasmales |
+| 3 | Reencarnar |
+| 4 | Descanso eterno |
+| 4 | Doble sombrío |
+| 5 | Proyección astral |
+| 5 | Brebaje fortificante |
+| 6 | Dominio protector |
+| 7 | Llamada de reunión |
+| 7 | Círculo de teletransportación |
+| 9 | Clon |
+| 9 | Fachada fantástica |
 
 ---
 
-## Astral Projection · Ritual 5
+## Proyección astral · Ritual 5
 
-**Traits:** Uncommon
+**Rasgos:** Poco común
 
-**Cast:** 1 hour; **Cost:** one gem worth a total value of the target's level (minimum 1) × 5 gp, for each target; **Secondary Casters:** 2
+**Lanzamiento:** 1 hora; **Coste:** una gema por valor total de el nivel del objetivo (mínimo 1) × 5 mo, por cada objetivo; **Lanzadores secundarios:** 2
 
-**Primary Check:** Arcana or Occultism (master); **Secondary Checks:** Arcana or Occultism (whichever isn't used for the primary check), Survival
+**Prueba principal:** Arcanos u Ocultismo (maestro); **Pruebas secundarias:** Arcanos u Ocultismo (la que no se use para la prueba principal), Supervivencia
 
-**Range:** touch; **Targets:** yourself and up to 5 willing creatures
+**Rango:** toque; **Objetivos:** tú y hasta 5 criaturas dispuestas
 
-**Duration:** see text
+**Duración:** ver texto
 
-You project the targets' spiritual essences into the Astral Plane, leaving their inanimate physical forms behind. These astral forms can be used to explore the Astral Plane indefinitely, while the targets' bodies remain safely in stasis on the plane where the ritual was cast (where they remain unconscious and can't be awoken normally). The casters must be in physical contact with one another in a circle for the duration of the casting, and all targets must be selected from these casters.
+Proyectas las esencias espirituales de los objetivos al Plano Astral, dejando atrás sus formas físicas inanimadas. Estas formas astrales pueden emplearse para explorar el Plano Astral indefinidamente, mientras los cuerpos de los objetivos permanecen a salvo en estasis en el plano donde se lanzó el ritual (donde permanecen inconscientes y no pueden despertarse normalmente). Los lanzadores deben estar en contacto físico entre sí formando un círculo durante la duración del lanzamiento, y todos los objetivos deben ser seleccionados de entre estos lanzadores.
 
-A target's astral form is a duplicate of the target and everything they're carrying; anything that happens to a duplicate item happens to the original as well. For instance, if you use, spend, destroy, lose, or give away an item's duplicate, the original vanishes from your possession. For the duration of the ritual, any of the targets can spend a single action to Dismiss their astral form and immediately return to their physical body. As the primary caster, when you Dismiss your astral form, you can also Dismiss all the other targets' astral forms as part of the same action, returning all targets to their physical forms simultaneously. While in the Astral Plane, the other targets are unable to navigate without you, and if they become separated from you, they must wait for your return or Dismiss their own astral forms. When the ritual ends, the targets' astral forms vanish.
+La forma astral de un objetivo es un duplicado del objetivo y de todo lo que lleva; cualquier cosa que le suceda a un objeto duplicado le sucede al original también. Por ejemplo, si usas, gastas, destruyes, pierdes o entregas el duplicado de un objeto, el original desaparece de tu posesión. Durante la duración del ritual, cualquiera de los objetivos puede gastar una única acción para Desestimar su forma astral y regresar inmediatamente a su cuerpo físico. Como lanzador principal, cuando Desestimas tu forma astral, también puedes Desestimar las formas astrales de los demás objetivos como parte de la misma acción, devolviendo simultáneamente a todos los objetivos a sus formas físicas. Mientras están en el Plano Astral, los demás objetivos no pueden navegar sin ti y, si se separan de ti, deben esperar tu regreso o Desestimar sus propias formas astrales. Cuando el ritual termina, las formas astrales de los objetivos desaparecen.
 
-A target's astral form and corresponding physical form are linked by an incorporeal silver cord, which is visible only in the Astral Plane. This nearly unbreakable cord serves as conduit and safety line; if severed, the target's astral and physical forms are both immediately slain. If the ritual is interrupted by an external force, such as dispel magic being cast on a target's physical or astral form, the target is immediately and harmlessly returned to their physical body. If a target's astral form is slain, the silver cord immediately rips them back to their physical body; the strain requires them to attempt a Fortitude save with the same DC as the ritual's primary check. On a failure, the creature dies; on a success, it becomes clumsy 2, drained 2, doomed 2, and enfeebled 2 for 1 week; these conditions can't be removed or reduced by any means until the week has passed. A target's physical body remains in suspended animation for the duration of the ritual, but if it's destroyed, the creature dies and its astral form also vanishes.
+La forma astral de un objetivo y su forma física correspondiente están vinculadas por un cordón de plata incorpóreo, visible solo en el Plano Astral. Este cordón casi irrompible actúa como conducto y línea de seguridad; si es seccionado, las formas astral y física del objetivo mueren inmediatamente. Si el ritual se interrumpe por una fuerza externa, como por ejemplo lanzar disipar magia sobre la forma física o astral de un objetivo, el objetivo regresa de inmediato y sin daño a su cuerpo físico. Si la forma astral de un objetivo es destruida, el cordón de plata lo arranca de inmediato de vuelta a su cuerpo físico; el esfuerzo requiere que intente una salvación de Fortaleza con la misma CD que la prueba principal del ritual. Con un fallo, la criatura muere; con un éxito, queda torpe 2, drenado 2, condenado 2 y debilitado 2 durante 1 semana; estos estados no pueden eliminarse ni reducirse por ningún medio hasta que la semana haya pasado. El cuerpo físico de un objetivo permanece en animación suspendida mientras dura el ritual, pero si es destruido, la criatura muere y su forma astral también desaparece.
 
-This ritual only projects a portion of the targets' consciousnesses onto the Astral Plane. To travel physically to the Astral Plane (to reach the Outer Planes, for example) requires spells such as interplanar teleport.
+Este ritual solo proyecta una porción de las conciencias de los objetivos al Plano Astral. Para viajar físicamente al Plano Astral (para alcanzar los Planos Exteriores, por ejemplo) se requieren conjuros como teletransporte interplanar.
 
-**Critical Success** All targets are able to navigate independently in the Astral Plane. Each target's silver cord is stronger than usual, providing them a +4 circumstance bonus to its Fortitude save to avoid dying if its astral form dies.
+**Éxito crítico** Todos los objetivos pueden navegar de manera independiente en el Plano Astral. El cordón de plata de cada objetivo es más fuerte de lo habitual, lo que les otorga un bonificador circunstancial +4 a su salvación de Fortaleza para evitar morir si su forma astral muere.
 
-**Success** You successfully project the targets.
+**Éxito** Proyectas con éxito a los objetivos.
 
-**Failure** You fail to project the targets.
+**Fallo** Fracasas al proyectar a los objetivos.
 
-**Critical Failure** The process of separating the targets' spirits from their bodies is complicated, and something goes catastrophically wrong. All casters become doomed 1, are immediately reduced to 0 Hit Points, and begin dying.
-
----
-
-## Clone · Ritual 9
-
-**Traits:** Rare
-
-**Cast:** 7 days; **Cost:** rare laboratory supplies and reagents worth the target's level (minimum 1) × 100 gp; **Secondary Casters:** 3
-
-**Primary Check:** Crafting (legendary); **Secondary Checks:** Arcana, Medicine, Occultism
-
-**Range:** 10 feet; **Targets:** 1 willing living creature up to 20th level
-
-You collect hair, nail clippings, and samples of skin and blood from the target, who must be present throughout the ritual and can be one of the casters. You then use those samples to grow a duplicate of the target's physical form that will house the target's soul upon death. This duplicate is physically identical to the original creature.
-
-In order to perform the ritual, you need an expanded alchemist's lab (Player Core 287) or a superior set of equipment. Once the ritual is successfully completed, the duplicate grows within the laboratory equipment for 2d4 months. Though direct involvement isn't required during this period of growth, you must prevent any interference or interruption, or the ritual fails. When the duplicate is complete, the original creature's soul enters it as soon as their original body dies, or immediately if the creature died during the intervening months, as long as the soul is free and willing. If Pharasma has decided that the target's time has come or the target's soul is trapped or doesn't wish to return, the duplicate remains empty until the impediment is removed. While unoccupied, the inert duplicate must be preserved in suitable alchemical equipment to prevent it from rotting.
-
-**Critical Success** The cloning process is successful. When the soul occupies the completed clone, it is clumsy 1, drained 1, doomed 1, and enfeebled 1 for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
-
-**Success** As critical success, but each condition value is 2.
-
-**Failure** You fail to form the clone.
-
-**Critical Failure** The clone appears to be successful, but something went horribly wrong. Once it grows to its full size, it can't hold the target's soul and instead houses a malevolent intelligence or an invasive creature (such as a powerful demon).
+**Fallo crítico** El proceso de separar los espíritus de los objetivos de sus cuerpos es complejo y algo sale catastróficamente mal. Todos los lanzadores quedan condenados 1, se reducen inmediatamente a 0 Puntos de Golpe y comienzan a morir.
 
 ---
 
-## Fantastic Facade · Ritual 9
+## Clon · Ritual 9
 
-**Traits:** Rare, Illusion
+**Rasgos:** Raro
 
-**Cast:** 1 week; **Cost:** mystical paint, elaborate veils, and powdered minerals worth 20,000 gp total; **Secondary Casters:** 3
+**Lanzamiento:** 7 días; **Coste:** suministros y reactivos de laboratorio raros por valor de el nivel del objetivo (mínimo 1) × 100 mo; **Lanzadores secundarios:** 3
 
-**Primary Check:** Arcana or Occultism (legendary); **Secondary Checks:** Deception; Society or Survival; Stealth
+**Prueba principal:** Artesanía (legendario); **Pruebas secundarias:** Arcanos, Medicina, Ocultismo
 
-**Area:** up to 1 mile radius circle centered on you; **Targets:** 1 settlement and its residents
+**Rango:** 10 pies (3 m); **Objetivos:** 1 criatura viva dispuesta de hasta nivel 20
 
-**Duration:** unlimited
+Recolectas cabello, recortes de uñas y muestras de piel y sangre del objetivo, que debe estar presente durante todo el ritual y puede ser uno de los lanzadores. Luego utilizas esas muestras para cultivar un duplicado de la forma física del objetivo que alojará su alma tras la muerte. Este duplicado es físicamente idéntico a la criatura original.
 
-You draw a permanent series of complex illusions over the target settlement, choosing the look, sound, feel, and smell of the structures, terrain, and creatures within at the time the ritual is cast. You can alter the appearance of existing structures and creatures, and you can add illusory structures or creatures. For example, you could cause everything and everyone in the target area to appear green, create an illusory forest with a thick canopy that obscures the settlement from outside view, or make empty ruins seem inhabited and pristine. When you create the facade, you determine which illusory elements remain static (limited to basic natural movement, such as flags blowing in the breeze) and which follow a basic program (for example, a daily parade in the town square, complete with marching band). You're unable to alter the programs after you create the facade.
+Para llevar a cabo el ritual, necesitas un laboratorio de alquimista ampliado (Player Core 287) o un conjunto de equipo superior. Una vez que el ritual se completa con éxito, el duplicado crece dentro del equipo de laboratorio durante 2d4 meses. Aunque no se requiere implicación directa durante este período de crecimiento, debes evitar cualquier interferencia o interrupción, o el ritual falla. Cuando el duplicado está completo, el alma de la criatura original entra en él tan pronto como su cuerpo original muere, o inmediatamente si la criatura murió durante los meses intermedios, siempre que el alma esté libre y dispuesta. Si Pharasma ha decidido que ha llegado el momento del objetivo, o el alma del objetivo está atrapada o no desea regresar, el duplicado permanece vacío hasta que se elimine el impedimento. Mientras está desocupado, el duplicado inerte debe preservarse en equipo alquímico adecuado para evitar que se pudra.
 
-You can disguise creatures as you please, with the same effects as a 3rd-rank illusory disguise. If a creature affected by the facade leaves the area, any illusions affecting it fade after 1 day. You decide when casting the ritual whether newcomers are disguised by the illusions, and whether the disguise appears immediately or after a set period, up to 1 week.
+**Éxito crítico** El proceso de clonación tiene éxito. Cuando el alma ocupa el clon completado, queda torpe 1, drenado 1, condenado 1 y debilitado 1 durante 1 semana; estos estados no pueden eliminarse ni reducirse por ningún medio hasta que la semana haya pasado.
 
-A creature that interacts with the target settlement in a way that would suggest or reveal the illusory nature of the facade, such as by trying to paint a building affected by the facade or climbing an illusory structure, can attempt to disbelieve the illusion. The illusions created by the spell are harmless, so an illusory river of lava wouldn't cause damage, nor could thorns on an illusory rose bush prick someone.
+**Éxito** Como éxito crítico, pero cada valor de estado es 2.
 
-**Critical Success** You create the facade as described, and you can alter the programs within your facade by spending 1 day to reprogram them.
+**Fallo** Fracasas al formar el clon.
 
-**Success** You create the facade as described.
-
-**Failure** Your illusions fail and the ritual has no effect.
-
-**Critical Failure** Your ritual produces unexpected and uncontrolled illusions different from what you had planned, such as unexpected and slowly shifting colors across the buildings, unpleasant smells, and creatures appearing as skeletons. These effects fade after 1 month.
-
-**Heightened (10th)** The cost increases to 100,000 gp and the radius can be up to 5 miles.
+**Fallo crítico** El clon parece haber tenido éxito, pero algo salió terriblemente mal. Una vez que crece hasta su tamaño completo, no puede albergar el alma del objetivo y, en su lugar, contiene una inteligencia malévola o una criatura invasora (como un demonio poderoso).
 
 ---
 
-## Fortifying Brew · Ritual 5
+## Fachada fantástica · Ritual 9
 
-**Traits:** Uncommon
+**Rasgos:** Raro, Ilusión
 
-**Cast:** 4 hours; **Cost:** high-quality ingredients and brewing equipment worth 25 gp; **Secondary Casters:** 1
+**Lanzamiento:** 1 semana; **Coste:** pintura mística, velos elaborados y minerales en polvo por valor total de 20.000 mo; **Lanzadores secundarios:** 3
 
-**Primary Check:** Crafting, Nature, or Society (expert); **Secondary Checks:** Alcohol Lore (or related lore), Crafting, Society
+**Prueba principal:** Arcanos u Ocultismo (legendario); **Pruebas secundarias:** Engaño; Sociedad o Supervivencia; Sigilo
 
-**Range:** 20 feet
+**Área:** hasta un círculo de radio de 1 milla centrado en ti; **Objetivos:** 1 asentamiento y sus residentes
 
-You craft a large quantity of restorative drink, such as an invigorating tea, a refreshing ale, or a stimulative alchemical tonic. The ritual speeds along any natural processes to make the brew, such as fermenting fruit to make a wine. At the conclusion of the first 3 hours of the ritual, you produce enough brew for up to 10 people to drink, any of whom can be the secondary caster of the ritual. The brew must then be consumed over the next hour. There is no danger of the drinkers becoming drunk if the brew is alcoholic. Once that hour is completed, you and the secondary caster attempt your checks as normal.
+**Duración:** ilimitada
 
-**Critical Success** The brew is delicious and revitalizing. It casts a 4th-rank cleanse affliction, a 4th-rank clear mind, and a 4th-rank sound body on each drinker for each relevant affliction or condition, using your modifier for the primary skill check as the counteract modifier. Each drinker also gains 20 temporary Hit Points that last 12 hours and a +2 status bonus to saves against diseases and poisons for the next 12 hours.
+Trazas una serie permanente de ilusiones complejas sobre el asentamiento objetivo, eligiendo el aspecto, el sonido, el tacto y el olor de las estructuras, el terreno y las criaturas dentro del área en el momento en que se lanza el ritual. Puedes alterar la apariencia de estructuras y criaturas existentes, y puedes añadir estructuras o criaturas ilusorias. Por ejemplo, podrías hacer que todo y todos en el área objetivo parezcan verdes, crear un bosque ilusorio con un dosel espeso que oculte el asentamiento de la vista exterior, o hacer que ruinas vacías parezcan habitadas y prístinas. Al crear la fachada, determinas qué elementos ilusorios permanecen estáticos (limitados a un movimiento natural básico, como banderas ondeando) y cuáles siguen un programa básico (por ejemplo, un desfile diario en la plaza del pueblo, con banda de música). No puedes alterar los programas una vez creada la fachada.
 
-**Success** As critical success, except drinkers gain only 10 temporary Hit Points, and don't gain the status bonus to saves.
+Puedes disfrazar criaturas a tu antojo, con los mismos efectos que un disfraz ilusorio de 3.º rango. Si una criatura afectada por la fachada abandona el área, cualquier ilusión que la afecte se desvanece tras 1 día. Decides al lanzar el ritual si los recién llegados quedan disfrazados por las ilusiones y si el disfraz aparece de inmediato o tras un periodo fijado, de hasta 1 semana.
 
-**Failure** You and the other drinkers are left with a sour taste—something went wrong with the brewing process.
+Una criatura que interactúe con el asentamiento objetivo de una manera que sugiera o revele la naturaleza ilusoria de la fachada, como intentar pintar un edificio afectado por la fachada o trepar una estructura ilusoria, puede intentar descreer la ilusión. Las ilusiones creadas por el ritual son inofensivas; por ejemplo, un río de lava ilusorio no causaría daño ni las espinas de un rosal ilusorio podrían pinchar a alguien.
 
-**Critical Failure** Your attempt to craft the drink resulted in something more akin to a poison. You and the other drinkers become sickened 4 and can't reduce the condition for 12 hours.
+**Éxito crítico** Creas la fachada como se describe y puedes alterar los programas dentro de tu fachada gastando 1 día para reprogramarlos.
 
-**Heightened (+1)** The temporary Hit Points increases by 2 (or 4 on a critical success).
+**Éxito** Creas la fachada tal y como se describe.
 
----
+**Fallo** Tus ilusiones fallan y el ritual no tiene efecto.
 
-## Gathering Call · Ritual 7
+**Fallo crítico** Tu ritual produce ilusiones inesperadas e incontroladas diferentes de lo planeado, como colores inesperados que cambian lentamente sobre los edificios, olores desagradables y criaturas que parecen esqueletos. Estos efectos se desvanecen después de 1 mes.
 
-**Traits:** Rare, Teleportation
-
-**Cast:** 7 days; **Cost:** rare oils and powdered minerals worth 5,000 gp; **Secondary Casters:** 2
-
-**Primary Check:** Arcana or Occultism (expert, the check has the secret trait); **Secondary Checks:** Arcana or Occultism (whichever isn't used for the primary check), Society
-
-**Range:** 20 feet; **Targets:** up to seven willing creatures of 14th level or lower
-
-**Duration:** 1 year
-
-You bind yourself and your allies to the specific safe location, referred to as a sanctuary, where you perform the ritual. This allows the participants to return later by simply speaking a word.
-
-**Success** You form the connection with the sanctuary. Any participant in the ritual can Dismiss the ritual. When they do, all the participants can immediately return to the sanctuary from any distance, as long as they are on the same plane as the sanctuary. Each participant arrives in the position in which they were standing during the casting of the ritual. When the word is spoken, all other participants know it, and each can choose whether or not to return to the sanctuary at that time. The ritual then immediately ends.
-
-**Failure** You fail to form the connection between the participants and the sanctuary and are aware that the ritual has failed.
-
-**Critical Failure** The ritual inadvertently forms a connection with a location on another plane. The casters are unaware of this misalignment. When the word is invoked, all ritual participants are shifted to this extraplanar location.
-
-**Heightened (+1)** The cost increases by 5,000 gp, the ritual can target one more creature, and the maximum level of creature it can target increases by 2.
+**Potenciado (10.º)** El coste aumenta a 100.000 mo y el radio puede ser de hasta 5 millas.
 
 ---
 
-## Heartbond · Ritual 2
+## Brebaje fortificante · Ritual 5
 
-**Traits:** Uncommon
+**Rasgos:** Poco común
 
-**Cast:** 1 hour; **Cost:** sacramental beverages and a set of matching rings or other tokens worth 20 gp per secondary caster; **Secondary Casters:** 2 or more
+**Lanzamiento:** 4 horas; **Coste:** ingredientes de alta calidad y equipo de elaboración por valor de 25 mo; **Lanzadores secundarios:** 1
 
-**Primary Check:** Nature or Religion (expert); **Secondary Checks:** Diplomacy, Society
+**Prueba principal:** Artesanía, Naturaleza o Sociedad (experto); **Pruebas secundarias:** Saber de Alcohol (u otro saber relacionado), Artesanía, Sociedad
 
-**Range:** 20 feet
+**Rango:** 20 pies (6 m)
 
-You officiate the creation of a magical bond between two or more willing creatures, who are secondary casters of the ritual and must share genuine affection for one another. As part of the ritual, all members of the bond receive a ring, amulet, or similar token to symbolize their shared connection. They lose the effects of the ritual when not wearing the token, and the bond is broken if either token is destroyed.
+Preparas una gran cantidad de bebida reparadora, como un té vigorizante, una cerveza refrescante o un tónico alquímico estimulante. El ritual acelera cualquier proceso natural para elaborar la mezcla, como fermentar fruta para hacer vino. Al final de las primeras 3 horas del ritual, produces suficiente brebaje para que hasta 10 personas lo beban, cualquiera de las cuales puede ser el lanzador secundario del ritual. El brebaje debe consumirse durante la siguiente hora. No hay peligro de que los bebedores se embriaguen si el brebaje es alcohólico. Una vez completada esa hora, tú y el lanzador secundario realizáis vuestras pruebas como es habitual.
 
-Creatures benefiting from a successful heartbond ritual can later participate in a heightened version of the ritual without requiring new checks by spending the required time and paying the difference of the two costs. A creature can be under the effects of multiple heartbond rituals at once.
+**Éxito crítico** El brebaje es delicioso y revitalizante. Lanza en cada bebedor, por cada aflicción o estado pertinente, limpiar aflicción de 4.º rango, despejar la mente de 4.º rango y cuerpo sano de 4.º rango, usando tu modificador para la prueba principal como modificador de contrarrestar. Cada bebedor también gana 20 Puntos de Golpe temporales que duran 12 horas y un bonificador de estado +2 a las salvaciones contra enfermedades y venenos durante las siguientes 12 horas.
 
-**Critical Success** Once per day, each bonded creature can use a 2-action activity, which has the concentrate trait, to learn the present state of one other bonded creature. The creature knows the other creature's direction and distance and any conditions affecting them. Each participant can cast message as a divine innate spell at will, but can target only another participant.
+**Éxito** Como éxito crítico, excepto que los bebedores ganan solo 10 Puntos de Golpe temporales y no obtienen el bonificador de estado a las salvaciones.
 
-**Success** As a critical success, except the bonded creatures can't cast message as a divine innate spell.
+**Fallo** Tú y los demás bebedores os quedáis con mal sabor de boca: algo salió mal en el proceso de elaboración.
 
-**Failure** The ritual has no effect.
+**Fallo crítico** Tu intento de preparar la bebida resultó en algo más parecido a un veneno. Tú y los otros bebedores quedáis indispuestos 4 y no podéis reducir el estado durante 12 horas.
 
-**Critical Failure** Magical backlash creates discordant energy among the participants. For 1 week, each secondary caster is clumsy 2 and stupefied 2 whenever they are within 30 feet of another secondary caster.
-
-**Heightened (6th)** The cost increases to 300 gp per secondary caster. On a success, secondary casters permanently gain the effects of a 6th-rank telepathy spell, but only with each other.
+**Potenciado (+1)** Los Puntos de Golpe temporales aumentan en 2 (o en 4 con un éxito crítico).
 
 ---
 
-## Inveigle · Ritual 2
+## Llamada de reunión · Ritual 7
 
-**Traits:** Uncommon, Mental
+**Rasgos:** Raro, Teletransportación
 
-**Cast:** 1 day; **Cost:** rare oils worth a total value of 10 gp × the target's level
+**Lanzamiento:** 7 días; **Coste:** aceites raros y minerales en polvo por valor de 5.000 mo; **Lanzadores secundarios:** 2
 
-**Primary Check:** Arcana (expert), Occultism (expert), or Religion (expert)
+**Prueba principal:** Arcanos u Ocultismo (experto; la prueba tiene el rasgo secreto); **Pruebas secundarias:** Arcanos u Ocultismo (la que no se use para la prueba principal), Sociedad
 
-**Range:** 10 feet; **Targets:** 1 creature of a level no greater than double the inveigle ritual's rank
+**Rango:** 20 pies (6 m); **Objetivos:** hasta siete criaturas dispuestas de nivel 14 o inferior
 
-**Duration:** 1 year or until dismissed
+**Duración:** 1 año
 
-You win over the target's mind, causing it to see you as a close and trusted friend and look upon your every suggestion as reasonable. The target is helpful toward you, so it will go out of its way to help you. As with any other helpful creature, there are limits to what you can ask of it. If you ever ask the target to do something completely against its nature or needlessly harmful to the target or its interests, not only does it refuse, but it also can attempt a Will save to end the effect early. Because of the casting time and range, it's generally difficult to cast this ritual unless the target is willing (perhaps convinced the ritual will have some other effect) or restrained. If the creature is unwilling to accept the ritual, it can attempt a Will save to negate the effect.
+Te vinculas a ti mismo y a tus aliados a un lugar seguro específico, denominado santuario, donde realizas el ritual. Esto permite a los participantes regresar posteriormente simplemente pronunciando una palabra.
 
-**Critical Success** The ritual succeeds and the target takes a –4 status penalty to Will saves to end the effect.
+**Éxito** Formas la conexión con el santuario. Cualquier participante en el ritual puede Desestimar el ritual. Cuando lo hace, todos los participantes pueden regresar inmediatamente al santuario desde cualquier distancia, siempre que estén en el mismo plano que el santuario. Cada participante llega a la posición en la que estaba de pie durante el lanzamiento del ritual. Cuando se pronuncia la palabra, todos los demás participantes la conocen y cada uno puede elegir si regresa o no al santuario en ese momento. El ritual termina inmediatamente.
 
-**Success** The ritual succeeds.
+**Fallo** Fracasas al formar la conexión entre los participantes y el santuario y eres consciente de que el ritual ha fallado.
 
-**Failure** The ritual fails.
+**Fallo crítico** El ritual forma inadvertidamente una conexión con un lugar en otro plano. Los lanzadores desconocen este desajuste. Cuando se invoca la palabra, todos los participantes del ritual se trasladan a esa localización extraplanar.
 
-**Critical Failure** The ritual fails and the target instead hates you, becoming hostile to you for the duration.
-
-**Heightened (6th)** You can use inveigle on a creature up to 1 mile away throughout the casting, as long as you have a piece of the creature's body, which you mix into the oils used in the cost. The base cost is 100 gp. The duration is shorter, and based on how large a piece of the creature's body you use: 1 week for blood, hair, scales, and the like, or 1 month for a hand or similarly substantial body part.
+**Potenciado (+1)** El coste aumenta en 5.000 mo, el ritual puede tener como objetivo una criatura más y el nivel máximo de la criatura a la que puede designar como objetivo aumenta en 2.
 
 ---
 
-## Phantasmal Custodians · Ritual 3
+## Vínculo del corazón · Ritual 2
 
-**Traits:** Uncommon
+**Rasgos:** Poco común
 
-**Cast:** 1 day; **Cost:** rare oils, salts, and herbs worth a total value of 15 gp; **Secondary Casters:** 2
+**Lanzamiento:** 1 hora; **Coste:** bebidas sacramentales y un juego de anillos u otros símbolos coincidentes por valor de 20 mo por lanzador secundario; **Lanzadores secundarios:** 2 o más
 
-**Primary Check:** Arcana or Occultism (expert); **Secondary Checks:** Arcana or Occultism (whichever isn't used for the primary check), Diplomacy
+**Prueba principal:** Naturaleza o Religión (experto); **Pruebas secundarias:** Diplomacia, Sociedad
 
-**Area:** 100 feet × 100 feet, up to 20 feet high
+**Rango:** 20 pies (6 m)
 
-**Duration:** 1 year
+Oficias la creación de un vínculo mágico entre dos o más criaturas dispuestas, que son lanzadores secundarios del ritual y deben compartir afecto genuino entre sí. Como parte del ritual, todos los miembros del vínculo reciben un anillo, amuleto o símbolo similar para representar su conexión compartida. Pierden los efectos del ritual cuando no llevan el símbolo y el vínculo se rompe si cualquier símbolo es destruido.
 
-You create a long-lasting adaptation of the phantasmal minion spell, forming entities to carry out basic tasks at a fixed location.
+Las criaturas beneficiadas por un ritual de vínculo del corazón exitoso pueden participar posteriormente en una versión potenciada del ritual sin requerir nuevas pruebas, invirtiendo el tiempo requerido y pagando la diferencia de los dos costes. Una criatura puede estar bajo los efectos de múltiples rituales de vínculo del corazón a la vez.
 
-**Critical Success** The ritual creates six phantasmal minions (Player Core 349). You don't need to concentrate on them, and they aren't summoned minions. You can spend an action, which has the concentrate trait, to command one to perform a basic task; it continues to perform the task until commanded again.
+**Éxito crítico** Una vez al día, cada criatura vinculada puede usar una actividad de 2 acciones, que tiene el rasgo concentrar, para conocer el estado actual de otra criatura vinculada. La criatura conoce la dirección y la distancia a la otra criatura y cualquier estado que la afecte. Cada participante puede lanzar mensaje como conjuro innato divino a voluntad, pero solo puede designar como objetivo a otro participante.
 
-**Success** As critical success, but the ritual creates three minions.
+**Éxito** Como éxito crítico, excepto que las criaturas vinculadas no pueden lanzar mensaje como conjuro innato divino.
 
-**Failure** The ritual fails to create any phantasmal minions.
+**Fallo** El ritual no tiene efecto.
 
-**Critical Failure** The ritual creates six phantasmal minions, but these creatures are hostile and capable of making fist Strikes with an attack bonus equal to your skill modifier for the primary skill check, dealing 1d6 force damage. They attack you and your allies and attempt to break objects belonging to you and your allies within the area.
+**Fallo crítico** Un retroceso mágico crea energía discordante entre los participantes. Durante 1 semana, cada lanzador secundario está torpe 2 y anonadado 2 siempre que se encuentre a 30 pies (9 m) o menos de otro lanzador secundario.
 
-**Heightened (6th)** If destroyed, the phantasmal minions reform the next morning. The cost increases to 30 gp.
-
----
-
-## Reincarnate · Ritual 3
-
-**Traits:** Uncommon
-
-**Cast:** 4 hours; **Cost:** rare herbs worth a total value of the target's level (minimum 1) × 25 gp; **Secondary Casters:** 2
-
-**Primary Check:** Nature (expert); **Secondary Checks:** Occultism, Religion
-
-**Range:** 10 feet; **Targets:** 1 dead creature of up to 8th level
-
-You call forth the target's soul and attempt to incarnate it into a brand-new body. As the soul won't be returning to the original body, only a small portion of the creature's remains are required. These remains must have been part of the original body at the time of death, and the target must have died within the past week. If Pharasma has decided that the target's time has come or the target's soul is trapped or doesn't wish to return, this ritual automatically fails, but you discover this after you succeed at the Religion check and can end the ritual without paying the cost.
-
-If the ritual is successful, the target's new body has a random ancestry. Roll 1d20. On a result of 1 through 14, the new body is one of a common ancestry, while on a 15 through 20 they become a member of an uncommon or rare ancestry. The GM chooses possible ancestries based on those found in the region and randomly determines the ancestry. For instance, the GM could roll 1d8 to choose a common ancestry from Player Core. The target replaces their ancestry Hit Points, size, Speeds, attribute boosts and flaws, traits, and special abilities with those of their new ancestry. The target loses their heritage and ancestry feats, selecting replacements from their new ancestry. The target's background, class features, and languages remain unaltered.
-
-**Critical Success** You reincarnate the target into a new adult body. This new body has full HP and has the same spells prepared as the original did when it died.
-
-**Success** As critical success, except the new body has 1 HP and no spells prepared. The soul takes some time to adjust to their new body, leaving them clumsy 2, drained 2, and enfeebled 2 for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
-
-**Failure** You fail to reincarnate the target.
-
-**Critical Failure** The target's soul becomes trapped in an unintelligent animal creature of the GM's choosing, with a level no greater than half the target's level. While trapped, the target has an Intelligence score of 1 (–5 modifier) and can't use any of their own abilities.
-
-**Heightened (4th)** The maximum level of the target increases to 10. The cost is the target's level (minimum 1) × 40 gp.
-
-**Heightened (5th)** The maximum level of the target increases to 12. The cost is the target's level (minimum 1) × 75 gp.
-
-**Heightened (6th)** The maximum level of the target increases to 14. The cost is the target's level (minimum 1) × 125 gp. The target must have died within the past month.
-
-**Heightened (7th)** The maximum level of the target increases to 16. The cost is the target's level (minimum 1) × 200 gp. The target must have died within the past month.
-
-**Heightened (8th)** The maximum level of the target increases to 18. The cost is the target's level (minimum 1) × 300 gp. The target must have died within the past year.
-
-**Heightened (9th)** The maximum level of the target increases to 20. The cost is the target's level (minimum 1) × 600 gp. The target must have died within the past decade.
+**Potenciado (6.º)** El coste aumenta a 300 mo por lanzador secundario. Con un éxito, los lanzadores secundarios obtienen de forma permanente los efectos de un conjuro de telepatía de 6.º rango, pero solo entre ellos.
 
 ---
 
-## Rest Eternal · Ritual 4
+## Engatusar · Ritual 2
 
-**Traits:** Uncommon, Spirit
+**Rasgos:** Poco común, Mental
 
-**Cast:** 1 day; **Cost:** rare oils to anoint the body worth a total value of the target's level (minimum 1) × 25 gp; **Secondary Casters:** 2
+**Lanzamiento:** 1 día; **Coste:** aceites raros por valor total de 10 mo × el nivel del objetivo
 
-**Primary Check:** Religion (expert); **Secondary Checks:** Occultism, Religion
+**Prueba principal:** Arcanos (experto), Ocultismo (experto) o Religión (experto)
 
-**Range:** 20 feet; **Targets:** 1 dead creature
+**Rango:** 10 pies (3 m); **Objetivos:** 1 criatura de un nivel no superior al doble del rango del ritual de engatusar
 
-You call upon gods, spirits, and stranger beings to bar a creature's spirit from ever returning. A spirit that doesn't wish to be so constrained can attempt a Will save to resist this ritual; on a critical success, it fools you into believing the ritual succeeded. This ritual has no effect on a target who is undead or whose soul is otherwise not in the afterlife.
+**Duración:** 1 año o hasta desestimar
 
-**Critical Success** You sequester the subject's spirit to the afterlife. Attempts to communicate with the dead creature, return it to life, turn it into an undead, or otherwise disturb its afterlife fail unless the effect's counteract rank is at least 2 higher than that of rest eternal or originates from an artifact or a deity. Successfully returning the creature to life ends the restrictions placed by rest eternal.
+Te ganas la mente del objetivo, haciendo que te vea como un amigo íntimo y de confianza y que considere razonables todas tus sugerencias. El objetivo es solícito hacia ti, por lo que hará todo lo posible por ayudarte. Como con cualquier otra criatura solícita, hay límites a lo que puedes pedirle. Si alguna vez le pides al objetivo que haga algo completamente contrario a su naturaleza o innecesariamente dañino para el objetivo o sus intereses, no solo se niega, sino que también puede intentar una salvación de Voluntad para acabar el efecto antes de tiempo. Debido al tiempo de lanzamiento y al rango, por lo general es difícil lanzar este ritual a menos que el objetivo esté dispuesto (quizás convencido de que el ritual tendrá algún otro efecto) o esté inmovilizado. Si la criatura no está dispuesta a aceptar el ritual, puede intentar una salvación de Voluntad para anular el efecto.
 
-**Success** As critical success, but effects to interact with the spirit fail unless the effect's counteract rank is higher than that of rest eternal or originates from an artifact or a deity.
+**Éxito crítico** El ritual tiene éxito y el objetivo sufre un penalizador por estatus –4 a las salvaciones de Voluntad para acabar el efecto.
 
-**Failure** The ritual has no effect.
+**Éxito** El ritual tiene éxito.
 
-**Critical Failure** The ritual fails, and the spirits you appealed to are angered. All casters become doomed 1 for 1 week.
+**Fallo** El ritual falla.
 
----
+**Fallo crítico** El ritual falla y, en su lugar, el objetivo te odia, volviéndose hostil hacia ti mientras dura el efecto.
 
-## Shadow Double · Ritual 4
-
-**Traits:** Rare, Illusion
-
-**Cast:** 1 day; **Cost:** a small item of personal significance to the creature to be duplicated (such as an item of clothing they wear everyday or a memento of a romantic tryst), plus rare oils, minerals, and pigments with a total value of 300 gp; **Secondary Casters:** 3
-
-**Primary Check:** Arcana or Occultism (master, the check has the secret trait); **Secondary Checks:** Arcana, Nature, Occultism, Religion, or Society (whichever is required to Recall Knowledge about the creature being duplicated); Crafting; Deception
-
-**Targets:** 1 living creature
-
-You create an illusory duplicate of the target creature by drawing shadowy material from the Netherworld and sculpting it into a semi-solid form. The shadow double is a 4th-level creature with no special abilities. If it needs to attempt a roll or use a DC, use the moderate number for a monster (GM Core 113), except as noted below. It doesn't have any specific memories from the target, but it can use information about the creature gained from any of the casters to Impersonate the target. It looks exactly like the target and has a Deception modifier to Impersonate that creature equal to the modifier of the secondary spellcaster who rolled the Deception check, with a +4 status bonus.
-
-Though it doesn't have any of the original's special abilities, like a dragon's breath, illusions allow it to appear to use those abilities; they just never seem to have an effect. For instance, against a double's dragon's breath, all creatures in the area seem to critically succeed at their saving throws and take no damage. Creatures can attempt to disbelieve the illusion by attempting a Perception check against the Deception DC of the secondary spellcaster who rolled the Deception check.
-
-**Critical Success** You create the shadow double. It has the minion trait and is under your absolute control. You gain a direct mental link with the shadow double and can spend an action to command the shadow double via this link, even at a distance.
-
-**Success** As a critical success, but there is no special link between you and the shadow double. You must spend an action to command it verbally or by some other means.
-
-**Failure** The ritual fails and has no effect.
-
-**Critical Failure** The shadow double is created, but it isn't your minion and is hostile to all the casters. It does everything it can to destroy them, but if it can't immediately slay them, the shadow double tries to escape and plots their demise.
+**Potenciado (6.º)** Puedes usar engatusar sobre una criatura a hasta 1 milla de distancia durante todo el lanzamiento, siempre que tengas una parte del cuerpo de la criatura, que mezclas en los aceites usados en el coste. El coste base es 100 mo. La duración es menor y depende del tamaño de la parte del cuerpo usada: 1 semana para sangre, pelo, escamas y similares, o 1 mes para una mano u otra parte sustancial del cuerpo.
 
 ---
 
-## Teleportation Circle · Ritual 7
+## Custodios fantasmales · Ritual 3
 
-**Traits:** Uncommon, Teleportation
+**Rasgos:** Poco común
 
-**Cast:** 1 day; **Cost:** rare incense, precious metals, and purified chalk worth 500 gp; **Secondary Casters:** 2
+**Lanzamiento:** 1 día; **Coste:** aceites, sales y hierbas raras por valor total de 15 mo; **Lanzadores secundarios:** 2
 
-**Primary Check:** Arcana or Occultism (master); **Secondary Checks:** Crafting, Survival
+**Prueba principal:** Arcanos u Ocultismo (experto); **Pruebas secundarias:** Arcanos u Ocultismo (la que no se use para la prueba principal), Diplomacia
 
-**Range:** 20 feet
+**Área:** 100 pies × 100 pies (30 m × 30 m), hasta 20 pies (6 m) de altura
 
-**Duration:** 1 day
+**Duración:** 1 año
 
-You create a 10-foot-diameter circle on the ground, which acts as a portal to a destination determined at the time of the ritual. You designate the destination of the teleportation as part of the ritual. This destination can't be changed. The destination must be a location within 1,000 miles and be on the same plane as the teleportation circle. You must be able to identify the location precisely both by its position relative to the location where you create the teleportation circle and by the destination's appearance (or other identifying features). The destination must also be a 10-foot-diameter circle that doesn't overlap with any solid structures, but it can be a place that is harmful or dangerous.
+Creas una adaptación duradera del conjuro esbirro fantasmal, formando entidades para llevar a cabo tareas básicas en una localización fija.
 
-A secondary caster attempting a Survival check for this ritual can be located at the destination, instead of at the point of origin. If the secondary caster succeeds at their check at the destination and you roll a success, the ritual is a critical success instead.
+**Éxito crítico** El ritual crea seis esbirros fantasmales (Player Core 349). No necesitas concentrarte en ellos y no son esbirros convocados. Puedes gastar una acción, que tiene el rasgo concentrar, para ordenar a uno que realice una tarea básica; continuará realizando la tarea hasta que le des una nueva orden.
 
-While the circle is active, any creature that moves to be fully within the circle is instantly teleported to the destination. A creature that is unwilling to be teleported can attempt a Will save to resist the effect. If it remains in the circle, the creature must attempt this save again at the end of each of its turns.
+**Éxito** Como éxito crítico, pero el ritual crea tres esbirros.
 
-The circle normally works only in one direction, though you can double the Cost to make it work in both directions.
+**Fallo** El ritual falla al crear esbirros fantasmales.
 
-**Critical Success** You create the teleportation circle, and it's extremely precise, regardless of the distance traveled. Travelers arrive exactly at the designated point.
+**Fallo crítico** El ritual crea seis esbirros fantasmales, pero estas criaturas son hostiles y capaces de realizar Golpes con los puños con un bonificador de ataque igual a tu modificador de habilidad para la prueba principal, infligiendo 1d6 de daño de fuerza. Atacan a ti y a tus aliados e intentan romper objetos que pertenecen a ti y a tus aliados dentro del área.
 
-**Success** As a critical success, but the destination is off target by roughly 1 percent of the distance traveled, to a maximum of 10 miles off target.
-
-**Failure** The teleportation circle doesn't function.
-
-**Critical Failure** The teleportation circle is wildly inaccurate. It leads to a random destination roughly the same distance from the origin point, and the chances of some other unusual mishap are much greater.
-
-**Heightened (9th)** The cost is 2,000 gp, the duration is 1 month, and the destination can be anywhere on the same planet.
-
-**Heightened (10th)** The cost is 10,000 gp, the duration is unlimited, and the destination can be anywhere on the same planet.
+**Potenciado (6.º)** Si son destruidos, los esbirros fantasmales se reforman a la mañana siguiente. El coste aumenta a 30 mo.
 
 ---
 
-## Ward Domain · Ritual 6
+## Reencarnar · Ritual 3
 
-**Traits:** Uncommon
+**Rasgos:** Poco común
 
-**Cast:** 1 day; **Cost:** rare incenses, oils, and powdered silver, worth 150 gp total; **Secondary Casters:** 3
+**Lanzamiento:** 4 horas; **Coste:** hierbas raras por valor total de el nivel del objetivo (mínimo 1) × 25 mo; **Lanzadores secundarios:** 2
 
-**Primary Check:** Arcana, Nature, or Occultism (master); **Secondary Checks:** Lore (any), Survival, Thievery
+**Prueba principal:** Naturaleza (experto); **Pruebas secundarias:** Ocultismo, Religión
 
-**Area:** 100 feet × 100 feet, up to 50 feet high
+**Rango:** 10 pies (3 m); **Objetivos:** 1 criatura muerta de hasta nivel 8
 
-**Duration:** 1 week
+Invocas el alma del objetivo e intentas encarnarla en un cuerpo completamente nuevo. Como el alma no regresará al cuerpo original, solo se requiere una pequeña porción de los restos de la criatura. Estos restos deben haber sido parte del cuerpo original en el momento de la muerte y el objetivo debe haber muerto durante la última semana. Si Pharasma ha decidido que ha llegado el momento del objetivo o el alma del objetivo está atrapada o no desea regresar, este ritual falla automáticamente, pero lo descubres tras superar la prueba de Religión y puedes terminar el ritual sin pagar el coste.
 
-This ritual has long been used to guard the private sanctums of powerful rulers, spellcasters, and other figures of import. You and the other casters spend the casting time burning incense, anointing doorframes, and drawing lines of powered silver across entryways. The ritual creates the following magical effects within the area; these effects are heightened to the rank of ward domain and remain throughout the duration.
+Si el ritual tiene éxito, el nuevo cuerpo del objetivo tiene una ascendencia aleatoria. Tira 1d20. Con un resultado de 1 a 14, el nuevo cuerpo pertenece a una ascendencia común, mientras que con 15 a 20 se convierte en miembro de una ascendencia poco común o rara. El DJ elige posibles ascendencias basándose en las que se encuentran en la región y determina la ascendencia al azar. Por ejemplo, el DJ podría tirar 1d8 para elegir una ascendencia común de Player Core. El objetivo reemplaza sus Puntos de Golpe por ascendencia, tamaño, Velocidades, aumentos y defectos de atributos, rasgos y aptitudes especiales por los de su nueva ascendencia. El objetivo pierde su herencia y sus dotes de ascendencia, seleccionando reemplazos de su nueva ascendencia. Su trasfondo, aptitudes de clase e idiomas permanecen inalterados.
 
-All gates, doors, windows, and similar apertures in the area (if any) are locked, with the effects of lock. In addition, you can obscure up to six doors, doorways, or similar entrances within the area with the effects of illusory object to appear as plain walls. Scrying spells can't perceive any stimuli from the area, and ward domain attempts to counteract teleportation effects into or out of the area, including attempts to summon creatures into the area, using a modifier equal to the ritual's save DC – 10.
+**Éxito crítico** Reencarnas al objetivo en un nuevo cuerpo adulto. Este nuevo cuerpo tiene los PG al máximo y tiene los mismos conjuros preparados que el original tenía cuando murió.
 
-A successful dispel magic used on a specific effect removes only that effect (such as the lock effect on one window). A successful detonate magic ends the entire ritual.
+**Éxito** Como éxito crítico, excepto que el nuevo cuerpo tiene 1 PG y no tiene conjuros preparados. El alma tarda un tiempo en adaptarse a su nuevo cuerpo, quedando torpe 2, drenado 2 y debilitado 2 durante 1 semana; estos estados no pueden eliminarse ni reducirse por ningún medio hasta que la semana haya pasado.
 
-**Critical Success** You create the effects described above, and you protect an area twice as large.
+**Fallo** Fracasas al reencarnar al objetivo.
 
-**Success** You create the effects described above.
+**Fallo crítico** El alma del objetivo queda atrapada en una criatura animal no inteligente a elección del DJ, con un nivel no superior a la mitad del nivel del objetivo. Mientras está atrapado, el objetivo tiene una puntuación de Inteligencia de 1 (–5 de modificador) y no puede usar ninguna de sus propias aptitudes.
 
-**Failure** The ritual has no effect.
+**Potenciado (4.º)** El nivel máximo del objetivo aumenta a 10. El coste es el nivel del objetivo (mínimo 1) × 40 mo.
 
-**Critical Failure** The area becomes trapped and hostile to you and your allies in a way you didn't anticipate.
+**Potenciado (5.º)** El nivel máximo del objetivo aumenta a 12. El coste es el nivel del objetivo (mínimo 1) × 75 mo.
 
-**Heightened (+1)** The ward covers an additional area 100 feet × 100 feet, up to 50 feet high, contiguous with the original area.
+**Potenciado (6.º)** El nivel máximo del objetivo aumenta a 14. El coste es el nivel del objetivo (mínimo 1) × 125 mo. El objetivo debe haber muerto durante el último mes.
+
+**Potenciado (7.º)** El nivel máximo del objetivo aumenta a 16. El coste es el nivel del objetivo (mínimo 1) × 200 mo. El objetivo debe haber muerto durante el último mes.
+
+**Potenciado (8.º)** El nivel máximo del objetivo aumenta a 18. El coste es el nivel del objetivo (mínimo 1) × 300 mo. El objetivo debe haber muerto durante el último año.
+
+**Potenciado (9.º)** El nivel máximo del objetivo aumenta a 20. El coste es el nivel del objetivo (mínimo 1) × 600 mo. El objetivo debe haber muerto durante la última década.
+
+---
+
+## Descanso eterno · Ritual 4
+
+**Rasgos:** Poco común, Espíritu
+
+**Lanzamiento:** 1 día; **Coste:** aceites raros para ungir el cuerpo por valor total de el nivel del objetivo (mínimo 1) × 25 mo; **Lanzadores secundarios:** 2
+
+**Prueba principal:** Religión (experto); **Pruebas secundarias:** Ocultismo, Religión
+
+**Rango:** 20 pies (6 m); **Objetivos:** 1 criatura muerta
+
+Invocas a los dioses, espíritus y seres más extraños para impedir que el espíritu de una criatura regrese jamás. Un espíritu que no desee estar tan constreñido puede intentar una salvación de Voluntad para resistir este ritual; con un éxito crítico, te engaña haciéndote creer que el ritual ha tenido éxito. Este ritual no tiene efecto en un objetivo que sea no muerto o cuyo alma no esté en el más allá por otra causa.
+
+**Éxito crítico** Aislas el espíritu del sujeto en el más allá. Los intentos de comunicarse con la criatura muerta, devolverla a la vida, convertirla en un no muerto o perturbar de otro modo su reposo fracasan a menos que el rango de contrarrestar del efecto sea al menos 2 superior al de descanso eterno o provenga de un artefacto o de una deidad. Si se devuelve con éxito a la criatura a la vida, se eliminan las restricciones impuestas por descanso eterno.
+
+**Éxito** Como éxito crítico, pero los efectos para interactuar con el espíritu fracasan a menos que el rango de contrarrestar del efecto sea superior al de descanso eterno o provenga de un artefacto o de una deidad.
+
+**Fallo** El ritual no tiene efecto.
+
+**Fallo crítico** El ritual falla y los espíritus a los que apelaste se enfurecen. Todos los lanzadores quedan condenados 1 durante 1 semana.
+
+---
+
+## Doble sombrío · Ritual 4
+
+**Rasgos:** Raro, Ilusión
+
+**Lanzamiento:** 1 día; **Coste:** un pequeño objeto de importancia personal para la criatura a duplicar (como una prenda que vista todos los días o un recuerdo de una cita romántica), más aceites, minerales y pigmentos raros por valor total de 300 mo; **Lanzadores secundarios:** 3
+
+**Prueba principal:** Arcanos u Ocultismo (maestro; la prueba tiene el rasgo secreto); **Pruebas secundarias:** Arcanos, Naturaleza, Ocultismo, Religión o Sociedad (la que sea necesaria para Recordar conocimiento sobre la criatura que se duplica); Artesanía; Engaño
+
+**Objetivos:** 1 criatura viva
+
+Creas un duplicado ilusorio de la criatura objetivo extrayendo material sombrío del Inframundo y esculpiéndolo en una forma semisólida. El doble sombrío es una criatura de nivel 4 sin aptitudes especiales. Si necesita intentar una tirada o usar una CD, usa el número moderado para un monstruo (GM Core 113), salvo que se indique lo contrario. No tiene recuerdos específicos del objetivo, pero puede usar la información sobre la criatura obtenida por cualquiera de los lanzadores para Suplantar al objetivo. Se ve exactamente como el objetivo y tiene un modificador de Engaño para Suplantar a esa criatura igual al modificador del lanzador secundario que hizo la prueba de Engaño, con un bonificador de estado +4.
+
+Aun sin tener ninguna de las aptitudes especiales del original (como el aliento de un dragón), las ilusiones le permiten parecer que usa esas aptitudes; simplemente nunca parecen tener efecto. Por ejemplo, contra el aliento de dragón del doble, todas las criaturas del área parecen conseguir éxitos críticos en sus tiradas de salvación y no sufren daño. Las criaturas pueden intentar descreer la ilusión intentando una prueba de Percepción contra la CD de Engaño del lanzador secundario que hizo la prueba de Engaño.
+
+**Éxito crítico** Creas el doble sombrío. Tiene el rasgo esbirro y está bajo tu control absoluto. Obtienes un vínculo mental directo con el doble sombrío y puedes gastar una acción para ordenarle a través de este vínculo, incluso a distancia.
+
+**Éxito** Como éxito crítico, pero no hay ningún vínculo especial entre tú y el doble sombrío. Debes gastar una acción para ordenarle verbalmente o por algún otro medio.
+
+**Fallo** El ritual falla y no tiene efecto.
+
+**Fallo crítico** El doble sombrío se crea, pero no es tu esbirro y es hostil a todos los lanzadores. Hace todo lo posible por destruirlos pero, si no puede matarlos inmediatamente, el doble sombrío intenta escapar y trama su perdición.
+
+---
+
+## Círculo de teletransportación · Ritual 7
+
+**Rasgos:** Poco común, Teletransportación
+
+**Lanzamiento:** 1 día; **Coste:** incienso raro, metales preciosos y tiza purificada por valor de 500 mo; **Lanzadores secundarios:** 2
+
+**Prueba principal:** Arcanos u Ocultismo (maestro); **Pruebas secundarias:** Artesanía, Supervivencia
+
+**Rango:** 20 pies (6 m)
+
+**Duración:** 1 día
+
+Creas en el suelo un círculo de 10 pies (3 m) de diámetro, que actúa como portal hacia un destino determinado en el momento del ritual. Designas el destino del teletransporte como parte del ritual. Este destino no puede cambiarse. Debe ser una localización dentro de 1.000 millas y estar en el mismo plano que el círculo de teletransportación. Debes ser capaz de identificar el lugar con precisión tanto por su posición relativa al lugar donde creas el círculo de teletransportación como por la apariencia del destino (u otras características identificativas). El destino también debe ser un círculo de 10 pies (3 m) de diámetro que no se superponga con ninguna estructura sólida, aunque puede ser un lugar dañino o peligroso.
+
+Un lanzador secundario que intente la prueba de Supervivencia para este ritual puede situarse en el destino, en lugar de en el punto de origen. Si el lanzador secundario supera su prueba en el destino y tú obtienes un éxito, el ritual es en su lugar un éxito crítico.
+
+Mientras el círculo está activo, cualquier criatura que se mueva para estar por completo dentro del círculo es teletransportada instantáneamente al destino. Una criatura que no esté dispuesta a ser teletransportada puede intentar una salvación de Voluntad para resistir el efecto. Si permanece en el círculo, debe intentar de nuevo esta salvación al final de cada uno de sus turnos.
+
+El círculo normalmente funciona solo en una dirección, aunque puedes duplicar el Coste para que funcione en ambas direcciones.
+
+**Éxito crítico** Creas el círculo de teletransportación, que es extremadamente preciso sin importar la distancia recorrida. Los viajeros llegan exactamente al punto designado.
+
+**Éxito** Como éxito crítico, pero el destino queda desviado aproximadamente un 1% de la distancia recorrida, hasta un máximo de 10 millas de desviación.
+
+**Fallo** El círculo de teletransportación no funciona.
+
+**Fallo crítico** El círculo de teletransportación es tremendamente impreciso. Conduce a un destino aleatorio aproximadamente a la misma distancia del punto de origen, y la probabilidad de que ocurra algún otro percance inusual es mucho mayor.
+
+**Potenciado (9.º)** El coste es 2.000 mo, la duración es 1 mes y el destino puede estar en cualquier lugar del mismo planeta.
+
+**Potenciado (10.º)** El coste es 10.000 mo, la duración es ilimitada y el destino puede estar en cualquier lugar del mismo planeta.
+
+---
+
+## Dominio protector · Ritual 6
+
+**Rasgos:** Poco común
+
+**Lanzamiento:** 1 día; **Coste:** inciensos, aceites y plata en polvo raros por valor total de 150 mo; **Lanzadores secundarios:** 3
+
+**Prueba principal:** Arcanos, Naturaleza u Ocultismo (maestro); **Pruebas secundarias:** Saber (cualquiera), Supervivencia, Latrocinio
+
+**Área:** 100 pies × 100 pies (30 m × 30 m), hasta 50 pies (15 m) de altura
+
+**Duración:** 1 semana
+
+Este ritual se ha utilizado durante mucho tiempo para proteger los santuarios privados de poderosos gobernantes, lanzadores de conjuros y otras figuras de importancia. Tú y los demás lanzadores invertís el tiempo de lanzamiento quemando incienso, ungiendo los marcos de las puertas y dibujando líneas de plata pulverizada a través de las entradas. El ritual crea los siguientes efectos mágicos dentro del área; estos efectos están potenciados al rango de dominio protector y permanecen durante toda la duración.
+
+Todas las puertas, portales, ventanas y similares dentro del área (si las hay) quedan cerradas con los efectos de cerrar. Además, puedes ocultar hasta seis puertas, portales o entradas similares dentro del área con los efectos de objeto ilusorio para que parezcan paredes lisas. Los conjuros de clarividencia no pueden percibir ningún estímulo dentro del área, y dominio protector intenta contrarrestar los efectos de teletransporte hacia dentro o hacia fuera del área, incluyendo intentos de convocar criaturas dentro del área, usando un modificador igual a la CD de salvación del ritual – 10.
+
+Una disipación mágica exitosa usada sobre un efecto específico elimina solo ese efecto (como el efecto de cerrar sobre una ventana). Una detonación mágica exitosa termina el ritual completo.
+
+**Éxito crítico** Creas los efectos descritos arriba y proteges un área el doble de grande.
+
+**Éxito** Creas los efectos descritos arriba.
+
+**Fallo** El ritual no tiene efecto.
+
+**Fallo crítico** El área queda atrapada y hostil hacia ti y tus aliados de una forma que no anticipaste.
+
+**Potenciado (+1)** El amparo cubre un área adicional de 100 pies × 100 pies (30 m × 30 m), hasta 50 pies (15 m) de altura, contigua al área original.

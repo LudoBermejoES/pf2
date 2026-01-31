@@ -1,252 +1,252 @@
-# Armor & Armaments
+# Armaduras y Armamentos
 
-Seasoned warriors search for any edge they can find, including magical weapons and armor. Beyond their runes, many of these items possess special powers of their own.
-
----
-
-## Armor
-
-These suits of armor have abilities far different from what can be gained by etching runes. A specific magic armor lists its fundamental runes, which you can upgrade, add, or transfer as normal. You can't etch or transfer any property runes onto a specific armor that it doesn't already have or remove its property runes.
-
-### Dragonplate · Item 16
-
-**Traits:** Uncommon, Invested, Magical
-
-**Price** 10,000 gp
-
-**Usage** worn armor; **Bulk** 4
-
-This suit of +2 greater resilient dragonhide (page 276) full plate makes you look like a fearsome dragon. The armor comes in many different varieties depending on the type of dragon from which it's made, though they usually conform to the four magical traditions.
-
-**Activate—Dragon Breath** ◆◆ (manipulate) **Frequency** once per day; **Effect** You unleash a 15-foot cone of energy with a damage type and saving throw corresponding to the tradition of the dragon used to make the armor (shown on the table below). The cone deals 14d6 damage; each creature in the area must attempt a DC 36 basic saving throw.
-
-| Dragon Tradition | Damage (Save) |
-|------------------|---------------|
-| Arcane | Force (Reflex) |
-| Divine | Spirit (Reflex) |
-| Occult | Mental (Will) |
-| Primal | Poison (Fortitude) |
-
-**Craft Requirements** The initial raw materials must include 1,250 gp of dragonhide.
+Los guerreros veteranos buscan cualquier ventaja que puedan encontrar, incluyendo armas y armaduras mágicas. Más allá de sus runas, muchos de estos objetos poseen poderes especiales propios.
 
 ---
 
-### Ghoul Hide · Item 6
+## Armaduras
 
-**Traits:** Uncommon, Invested, Magical
+Estos juegos de armadura tienen aptitudes muy diferentes de lo que se puede obtener grabando runas. Una armadura mágica específica lista sus runas fundamentales, que puedes mejorar, añadir o transferir como es habitual. No puedes grabar ni transferir runas de propiedad sobre una armadura específica que no las tenga ya ni eliminar sus runas de propiedad.
 
-**Price** 220 gp
+### Placa de dragón · Objeto 16
 
-**Usage** worn armor; **Bulk** 2
+**Rasgos:** Poco común, Invertido, Mágico
 
-Stitched together from pieces of ghoul skin, this suit of +1 hide armor grants you a +1 item bonus to saving throws against curses and makes you immune to the stench of ghouls. Ghoul hide with a resilient rune increases the resilient rune's item bonus to saving throws against curses by 1 (maximum +4).
+**Precio** 10.000 mo
 
----
+**Uso** armadura vestida; **Volumen** 4
 
-### Holy Chain · Item 13
+Este juego de armadura completa de piel de dragón +2 resistente mayor (pág. 276) te hace parecer un temible dragón. La armadura existe en variadas versiones según el tipo de dragón del que esté hecha, aunque normalmente se alinean con las cuatro tradiciones mágicas.
 
-**Traits:** Divine, Holy, Invested
+**Activación—Aliento de dragón** ◆◆ (manipular) **Frecuencia** una vez al día; **Efecto** Desencadenas un cono de 15 pies (4,5 m) de energía con un tipo de daño y una tirada de salvación correspondientes a la tradición del dragón usado para fabricar la armadura (mostrado en la tabla siguiente). El cono inflige 14d6 de daño; cada criatura en el área debe intentar una salvación básica CD 36.
 
-**Price** 2,500 gp
+| Tradición dracónica | Daño (Salvación) |
+|---------------------|-------------------|
+| Arcana | Fuerza (Reflejos) |
+| Divina | Espiritual (Reflejos) |
+| Oculta | Mental (Voluntad) |
+| Primigenia | Veneno (Fortaleza) |
 
-**Usage** worn armor; **Bulk** 1
-
-This suit of +2 resilient chain mail is made of fine white links of a strange and slightly translucent pale metal, and the sleeves and skirt are fashioned into smaller trails that resemble feathers. Unlike normal chain mail, holy chain has no Speed reduction, its armor check penalty is 0, and its Bulk is 1.
-
-You gain a +1 circumstance bonus to AC and saving throws against fiends. You appear radiant while you wear the armor, giving you a +2 item bonus to Diplomacy checks against all creatures except fiends.
-
-If you're unholy, you're drained 2 while wearing holy chain. You can't recover from this condition while wearing the armor.
-
-**Activate—Celestial Flight** ◆ (concentrate) **Frequency** once per day; **Effect** The armor sprouts glowing wings that grant you a fly Speed of 30 feet. The wings shed bright light in a 40-foot radius (and dim light to the next 40 feet). The wings fade away after 10 minutes.
-
-**Craft Requirements** You're holy.
+**Requisitos de fabricación** Los materiales brutos iniciales deben incluir 1.250 mo de piel de dragón.
 
 ---
 
-### Mariner's Splint · Item 5
+### Piel de necrófago · Objeto 6
 
-**Traits:** Uncommon, Invested, Magical
+**Rasgos:** Poco común, Invertido, Mágico
 
-**Price** 180 gp
+**Precio** 220 mo
 
-**Usage** worn armor; **Bulk** 3
+**Uso** armadura vestida; **Volumen** 2
 
-This suit of +1 splint mail is worn by veteran sailors aboard warships who want as much protection as possible but still need to remain mobile enough to climb up rigging or swim should the need arise. The plates are arranged for maximum flexibility and the undercoat of padded armor is often no more than a cotton shrift. The armor grants you a +1 item bonus to Athletics checks to Climb or Swim and increases the distance you move when you successfully Climb or Swim by 5 feet.
-
----
-
-### Onslaught Hide · Item 9
-
-**Traits:** Invested, Magical
-
-**Price** 700 gp
-
-**Usage** worn armor; **Bulk** 2
-
-This +1 resilient hide armor is decorated with the horns of many slain beasts. It has an armor check penalty of –1 instead of –2. When you use the Sudden Charge class feat while wearing this armor, your Strike deals an additional 1d8 damage.
+Cosida a partir de trozos de piel de necrófago, esta armadura de piel +1 te concede un bonificador de objeto +1 a las tiradas de salvación contra maldiciones y te hace inmune al hedor de los necrófagos. La piel de necrófago con una runa resistente aumenta en 1 el bonificador de objeto de la runa resistente a las tiradas de salvación contra maldiciones (máximo +4).
 
 ---
 
-### Unholy Plate · Item 13
+### Cadena sagrada · Objeto 13
 
-**Traits:** Divine, Invested, Unholy
+**Rasgos:** Divina, Sagrada, Invertido
 
-**Price** 2,500 gp
+**Precio** 2.500 mo
 
-**Usage** worn armor; **Bulk** 4
+**Uso** armadura vestida; **Volumen** 1
 
-Crafted from black iron, this crude suit of +2 resilient full plate is designed to make you look like a horned demon with your face peering out of the screaming maw of the beast.
+Esta cota de malla +2 resistente está hecha de finos eslabones blancos de un metal pálido extraño y ligeramente translúcido, y las mangas y la falda están confeccionadas en pequeñas tiras que recuerdan a plumas. A diferencia de la cota de malla normal, la cadena sagrada no reduce la Velocidad, su penalizador por armadura es 0 y su Volumen es 1.
 
-While wearing the armor, you can attack with the helmet's horns. They're a martial melee weapon with the effects of a +2 weapon potency rune. They deal 2d8 piercing damage and have the deadly d12 and unholy traits. On a critical hit with the horns, the target must succeed at a DC 30 Fortitude or become drained 1 (or drained 2 on a critical failure). The horns can't be etched with any runes.
+Obtienes un bonificador circunstancial +1 a la CA y a las tiradas de salvación contra infieles. Brillas radiantemente mientras llevas la armadura, lo que te concede un bonificador de objeto +2 a las pruebas de Diplomacia contra todas las criaturas excepto los infieles.
 
-If you're holy, you're drained 2 and can't recover from this condition while wearing unholy plate.
+Si eres sacrílego, quedas drenado 2 mientras llevas cadena sagrada. No puedes recuperarte de este estado mientras llevas la armadura.
 
-**Activate—Demonic Slip** ◆◆ (concentrate) **Frequency** once per day; **Effect** You cast translocate.
+**Activación—Vuelo celestial** ◆ (concentrar) **Frecuencia** una vez al día; **Efecto** La armadura despliega alas resplandecientes que te conceden una Velocidad de vuelo de 30 pies (9 m). Las alas emiten luz brillante en un radio de 40 pies (12 m) (y luz tenue en los siguientes 40 pies [12 m]). Las alas se desvanecen después de 10 minutos.
 
-**Craft Requirements** You're unholy; supply one casting of translocate.
-
----
-
-### Warleader's Bulwark · Item 10+
-
-**Traits:** Invested, Magical
-
-**Usage** worn armor; **Bulk** 2
-
-This +1 resilient breastplate is made from shining bronze overlaid with reinforcing golden panels emblazoned with images of loyal soldiers. Wearing this breastplate grants you a commanding aura. You gain a +2 item bonus to Diplomacy checks, but you take a –2 item penalty to Stealth checks to Hide and Sneak and Deception checks to Impersonate.
-
-**Activate—Command Bravery** ◆ (concentrate) **Frequency** once per day; **Effect** You grant allies within 100 feet a +2 status bonus to saves against fear effects for 1 minute. When you activate this ability, each affected ally who's frightened reduces their frightened value by 1.
-
-| Type | Level | Price |
-|------|-------|-------|
-| Warleader's bulwark | 10 | 1,000 gp |
-| Greater warleader's bulwark | 18 | 22,000 gp |
-
-The greater warleader's bulwark is a +2 greater resilient breastplate. The item bonus and penalty increase to +3 and –3, respectively.
+**Requisitos de fabricación** Eres sagrado.
 
 ---
 
-## Shields
+### Cota de tablillas marinera · Objeto 5
 
-In addition to their normal protection, these shields offer interesting abilities for the wielder. Like other shields, the following specific shields can be etched with reinforcing runes (GM Core 232).
+**Rasgos:** Poco común, Invertido, Mágico
 
-### Exploding Shield · Item 5
+**Precio** 180 mo
 
-**Traits:** Magical
+**Uso** armadura vestida; **Volumen** 3
 
-**Price** 25 gp
-
-**Usage** held in 1 hand; **Bulk** 1
-
-The magic within this wooden shield (Hardness 3, HP 12, BT 6) lashes out at your foes as the shield is destroyed.
-
-**Activate—Splintering Boom** ◇ (manipulate) **Trigger** The exploding shield is destroyed; **Effect** The shield explodes outward, dealing 4d6 piercing damage to each creature in a 15-foot cone (DC 19 basic Reflex save).
+Esta cota de tablillas +1 la llevan marineros veteranos a bordo de buques de guerra que buscan tanta protección como sea posible pero que aún necesitan mantenerse lo bastante móviles para trepar por el aparejo o nadar si es necesario. Las placas están dispuestas para la máxima flexibilidad y la subcapa acolchada suele ser poco más que un camisón de algodón. La armadura te concede un bonificador de objeto +1 a las pruebas de Atletismo para Trepar o Nadar e incrementa en 5 pies (1,5 m) la distancia que te mueves cuando trepas o nadas con éxito.
 
 ---
 
-### Glamorous Buckler · Item 2
+### Piel de embate · Objeto 9
 
-**Traits:** Illusion, Magical
+**Rasgos:** Invertido, Mágico
 
-**Price** 35 gp
+**Precio** 700 mo
 
-**Usage** strapped to 1 hand; **Bulk** L
+**Uso** armadura vestida; **Volumen** 2
 
-A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to Deception checks to Feint.
-
-**Activate—Dazzling Feint** ◇ (concentrate) **Frequency** once per day; **Trigger** You Feint; **Requirements** You have the glamorous buckler raised; **Effect** As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is dazzled for 1 round.
+Esta armadura de piel +1 resistente está decorada con los cuernos de muchas bestias abatidas. Tiene un penalizador por armadura de –1 en lugar de –2. Cuando usas la dote de clase Carga súbita mientras llevas esta armadura, tu Golpe inflige 1d8 de daño adicional.
 
 ---
 
-### Medusa's Scream · Item 13+
+### Placa sacrílega · Objeto 13
 
-**Traits:** Magical
+**Rasgos:** Divina, Invertido, Sacrílego
 
-**Usage** held in 1 hand; **Bulk** 1
+**Precio** 2.500 mo
 
-The ghastly visage of a slain medusa's head stares out from this steel shield (Hardness 5, HP 20, BT 10). The shield comes with a thick leather cover to conceal the head.
+**Uso** armadura vestida; **Volumen** 4
 
-**Activate—Petrifying Gaze** ◆◆ (manipulate, visual) **Frequency** once per day; **Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 30 petrify spell with a range of 30 feet.
+Forjada en hierro negro, esta tosca armadura completa +2 resistente está diseñada para hacerte parecer un demonio cornudo, con tu rostro asomando por las fauces en grito de la bestia.
 
-| Type | Level | Price | Stats |
-|------|-------|-------|-------|
-| Medusa's scream | 13 | 3,000 gp | Hardness 5, HP 20, BT 10 |
-| Greater medusa's scream | 16 | 9,000 gp | Hardness 15, HP 60, BT 30; frequency once per hour, DC 35 |
+Mientras llevas la armadura, puedes atacar con los cuernos del yelmo. Son un arma marcial cuerpo a cuerpo con los efectos de una runa de potencia de arma +2. Infligen 2d8 de daño perforante y tienen los rasgos letal d12 y sacrílego. Con un impacto crítico con los cuernos, el objetivo debe superar una salvación de Fortaleza CD 30 o queda drenado 1 (o drenado 2 con un fallo crítico). Los cuernos no pueden grabarse con ninguna runa.
 
-**Craft Requirements** The initial raw materials must include the head of a medusa.
+Si eres sagrado, quedas drenado 2 y no puedes recuperarte de este estado mientras llevas placa sacrílega.
 
----
+**Activación—Desliz demoníaco** ◆◆ (concentrar) **Frecuencia** una vez al día; **Efecto** Lanzas translocar.
 
-## Magic Weapons
-
-These specific weapons expand on the options included in GM Core (page 241) and follow the same rules.
-
-### Chalice of Justice · Item 14
-
-**Traits:** Uncommon, Divine, Holy
-
-**Price** 4,500 gp
-
-**Usage** held in 1 hand; **Bulk** 1
-
-This gleaming golden sword is a +2 greater striking holy cold iron longsword given only to the worthiest heroes of a holy faith. It's made of a sacred, secret alloy that makes the blade both cold iron and silver. If you're unholy, you're drained 2 while holding a chalice of justice. You can't recover from this condition while holding the weapon.
-
-**Activate—Sip of Justice** ◆ (manipulate) **Frequency** once per day; **Effect** The pommel of the weapon transmutes into the shape of a miniature chalice. You drink deep from the chalice and regain HP equal to the chalice's level. If you're holy, you regain double the HP, and for 1 minute, whenever you critically hit an unholy creature with the chalice of justice, the creature takes 2d6 persistent spirit damage, and it's slowed 1 for 1 round. The persistent spirit damage has the holy trait.
-
-**Craft Requirements** You're holy.
+**Requisitos de fabricación** Eres sacrílego; aporta un lanzamiento de translocar.
 
 ---
 
-### Four-Ways Dogslicer · Item 12
+### Baluarte del caudillo · Objeto 10+
 
-**Traits:** Uncommon, Cold, Electricity, Fire, Magical
+**Rasgos:** Invertido, Mágico
 
-**Price** 1,700 gp
+**Uso** armadura vestida; **Volumen** 2
 
-**Usage** held in 1 hand; **Bulk** L
+Esta coraza +1 resistente está hecha de bronce reluciente recubierto de paneles dorados de refuerzo con imágenes de soldados leales. Llevar esta coraza te concede un aura de mando. Obtienes un bonificador de objeto +2 a las pruebas de Diplomacia, pero sufres un penalizador de objeto –2 a las pruebas de Sigilo para Ocultarte y Escabullirte y a las pruebas de Engaño para Suplantar.
 
-This +2 striking dogslicer is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade's cutting edge, three of which glow—one with fiery red light, one with a chill blue, and one that gives off sparks—while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.
+**Activación—Orden de valentía** ◆ (concentrar) **Frecuencia** una vez al día; **Efecto** Concedes a los aliados a 100 pies (30 m) un bonificador de estado +2 a las salvaciones contra efectos de miedo durante 1 minuto. Cuando activas esta aptitud, cada aliado afectado que esté asustado reduce su valor de asustado en 1.
 
-**Activate—Gem Twist** ◆ (manipulate) **Effect** You twist the gem along the blade corresponding with the desired weapon property rune: red for flaming, blue for frost, or yellow for shock. You take 1d6 damage of the type the chosen rune deals. You can instead twist the black gem to disable the active property rune, taking no damage.
+| Tipo | Nivel | Precio |
+|------|-------|--------|
+| Baluarte del caudillo | 10 | 1.000 mo |
+| Baluarte del gran caudillo | 18 | 22.000 mo |
 
----
-
-### Infiltrator's Accessory · Item 5
-
-**Traits:** Illusion, Magical
-
-**Price** 150 gp
-
-**Usage** held in 1 hand; **Bulk** 1
-
-This elegant +1 striking sword cane serves equally well as both a fashionable accessory and a hidden weapon suitable for high-society events where weapons aren't typically permitted.
-
-**Activate—Hide Magic** ◆ (manipulate) **Effect** You twist the sword cane's hilt, magically merging the blade into the cane. While the blade is merged, it can't be drawn and gains the benefits of a 3rd-rank disguise magic spell to appear non-magical. Passive observers can't attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 Perception). Activating the sword cane again releases the blade, allowing it to be drawn normally.
+El baluarte del gran caudillo es una coraza +2 resistente mayor. El bonificador y el penalizador de objeto aumentan a +3 y –3, respectivamente.
 
 ---
 
-### Spellguard Blade · Item 7
+## Escudos
 
-**Traits:** Magical
+Además de su protección normal, estos escudos ofrecen aptitudes interesantes a su portador. Como otros escudos, los siguientes escudos específicos pueden grabarse con runas de refuerzo (GM Core 232).
 
-**Price** 320 gp
+### Escudo explosivo · Objeto 5
 
-**Usage** held in 1 hand; **Bulk** L
+**Rasgos:** Mágico
 
-The guard of this +1 striking main-gauche is inscribed with eldritch glyphs that guard against magic. When you're benefiting from the circumstance bonus to AC from this weapon's parry trait, you also apply that circumstance bonus to your saving throws against spells that target you.
+**Precio** 25 mo
+
+**Uso** sostenido en 1 mano; **Volumen** 1
+
+La magia en este escudo de madera (Dureza 3, PG 12, UR 6) arremete contra tus enemigos cuando el escudo es destruido.
+
+**Activación—Estallido astillado** ◇ (manipular) **Desencadenante** El escudo explosivo es destruido; **Efecto** El escudo estalla hacia afuera, infligiendo 4d6 de daño perforante a cada criatura en un cono de 15 pies (4,5 m) (salvación básica de Reflejos CD 19).
 
 ---
 
-### Spiritsight Crossbow · Item 8
+### Broquel glamuroso · Objeto 2
 
-**Traits:** Uncommon, Magical
+**Rasgos:** Ilusión, Mágico
 
-**Price** 450 gp
+**Precio** 35 mo
 
-**Usage** held in 2 hands; **Bulk** 2
+**Uso** ceñido a 1 mano; **Volumen** L
 
-This +1 striking ghost touch crossbow has an array of crystalline lenses and silver fittings along the stock and feels strangely light.
+Un broquel glamuroso (Dureza 3, PG 6, UR 3) está profusamente decorado con dorados y gemas engastadas que brillan con la luz. Mientras lo tienes alzado, el broquel glamuroso te concede un bonificador de objeto +1 a las pruebas de Engaño para Finta.
 
-**Activate—Ethereal Vision** ◆ (concentrate) **Frequency** once per minute; **Effect** You aim through the crossbow's crystalline lenses, gaining imprecise vision onto the Ethereal Plane with a range of 60 feet in addition to your normal senses until the end of your turn. You can sense through objects in the Universe this way, and the sense is precise for detecting creatures. Because this sense detects spiritual energy, a creature that's immune to spirit can't be detected in this way.
+**Activación—Finta deslumbrante** ◇ (concentrar) **Frecuencia** una vez al día; **Desencadenante** Haces una Finta; **Requisitos** Tienes el broquel glamuroso alzado; **Efecto** Al hacer la Finta, el broquel glamuroso centellea con fuerza. Con una Finta exitosa, el objetivo queda deslumbrado durante 1 asalto.
 
-**Activate—Ethereal Shot** ◆ **Requirements** Ethereal Vision is active; **Effect** You Strike with the spiritsight crossbow. This shot travels through the Ethereal Plane, allowing it to pass through and ignore cover from physical objects within the range of your Ethereal Vision.
+---
+
+### Grito de la Medusa · Objeto 13+
+
+**Rasgos:** Mágico
+
+**Uso** sostenido en 1 mano; **Volumen** 1
+
+El rostro espantoso de la cabeza de una medusa abatida mira desde este escudo de acero (Dureza 5, PG 20, UR 10). El escudo viene con una funda gruesa de cuero para ocultar la cabeza.
+
+**Activación—Mirada petrificante** ◆◆ (manipular, visual) **Frecuencia** una vez al día; **Efecto** Revelas el rostro de la medusa, centrando su mirada en una criatura a 30 pies (9 m). El escudo lanza un conjuro petrificar CD 30 con un alcance de 30 pies (9 m).
+
+| Tipo | Nivel | Precio | Estadísticas |
+|------|-------|--------|--------------|
+| Grito de la Medusa | 13 | 3.000 mo | Dureza 5, PG 20, UR 10 |
+| Gran grito de la Medusa | 16 | 9.000 mo | Dureza 15, PG 60, UR 30; frecuencia una vez por hora, CD 35 |
+
+**Requisitos de fabricación** Los materiales brutos iniciales deben incluir la cabeza de una medusa.
+
+---
+
+## Armas mágicas
+
+Estas armas específicas amplían las opciones incluidas en GM Core (pág. 241) y siguen las mismas reglas.
+
+### Cáliz de la Justicia · Objeto 14
+
+**Rasgos:** Poco común, Divina, Sagrada
+
+**Precio** 4.500 mo
+
+**Uso** sostenida en 1 mano; **Volumen** 1
+
+Esta reluciente espada dorada es una espada larga de hierro frío sagrada +2 de daño superior dada solo a los héroes más dignos de una fe sagrada. Está hecha de una aleación secreta y sagrada que hace que la hoja sea a la vez de hierro frío y de plata. Si eres sacrílego, quedas drenado 2 mientras sostienes un cáliz de la justicia. No puedes recuperarte de este estado mientras sostienes el arma.
+
+**Activación—Sorbo de justicia** ◆ (manipular) **Frecuencia** una vez al día; **Efecto** El pomo del arma se transmuta en la forma de un cáliz en miniatura. Bebes profundamente del cáliz y recuperas PG iguales al nivel del cáliz. Si eres sagrado, recuperas el doble de PG y, durante 1 minuto, cada vez que asestas un impacto crítico a una criatura sacrílega con el cáliz de la justicia, la criatura sufre 2d6 de daño espiritual persistente y queda ralentizada 1 durante 1 asalto. El daño espiritual persistente tiene el rasgo sagrado.
+
+**Requisitos de fabricación** Eres sagrado.
+
+---
+
+### Rebanaperros de las cuatro vías · Objeto 12
+
+**Rasgos:** Poco común, Frío, Electricidad, Fuego, Mágico
+
+**Precio** 1.700 mo
+
+**Uso** sostenida en 1 mano; **Volumen** L
+
+Este rebanaperros +2 de daño superior es claramente la obra de un artesano brillante pero desaliñado que valoró la versatilidad por encima de la seguridad. Cuatro gemas dentadas flanquean el filo cortante de la hoja, tres de las cuales brillan—una con luz roja ígnea, otra con un azul gélido y otra que chisporrotea—mientras que la última es de un negro reluciente. Cada una de estas gemas encarna una runa de propiedad de arma, pero solo una runa puede estar activa a la vez.
+
+**Activación—Giro de gema** ◆ (manipular) **Efecto** Giras la gema de la hoja correspondiente a la runa de propiedad deseada: roja para llameante, azul para gélida o amarilla para eléctrica. Sufres 1d6 de daño del tipo que inflige la runa elegida. En su lugar, puedes girar la gema negra para desactivar la runa de propiedad activa, sin sufrir daño.
+
+---
+
+### Accesorio del infiltrador · Objeto 5
+
+**Rasgos:** Ilusión, Mágico
+
+**Precio** 150 mo
+
+**Uso** sostenido en 1 mano; **Volumen** 1
+
+Este elegante bastón-espada +1 de daño superior funciona igual de bien como accesorio de moda y como arma oculta adecuada para eventos de alta sociedad en los que normalmente no se permiten armas.
+
+**Activación—Ocultar magia** ◆ (manipular) **Efecto** Giras la empuñadura del bastón-espada, fusionando mágicamente la hoja con el bastón. Mientras la hoja está fusionada, no puede desenvainarse y obtiene los beneficios de un conjuro disfrazar magia de 3.º rango para parecer no mágico. Los observadores pasivos no pueden intentar una prueba para notar que el bastón es algo más que un accesorio mundano, aunque excelente. Quienes lo examinen cuidadosamente pueden discernir que el bastón es más de lo que aparenta, pero hacerlo es extremadamente difícil (Percepción CD 30). Volver a activar el bastón-espada libera la hoja, permitiendo desenvainarla normalmente.
+
+---
+
+### Hoja guardaconjuros · Objeto 7
+
+**Rasgos:** Mágico
+
+**Precio** 320 mo
+
+**Uso** sostenida en 1 mano; **Volumen** L
+
+La guarda de esta misericordia +1 de daño superior está inscrita con glifos arcanos que protegen contra la magia. Cuando te beneficias del bonificador circunstancial a la CA del rasgo parada de esta arma, también aplicas ese bonificador circunstancial a tus tiradas de salvación contra conjuros que te designen como objetivo.
+
+---
+
+### Ballesta de vista espiritual · Objeto 8
+
+**Rasgos:** Poco común, Mágico
+
+**Precio** 450 mo
+
+**Uso** sostenida a 2 manos; **Volumen** 2
+
+Esta ballesta de toque fantasmal +1 de daño superior tiene una serie de lentes cristalinas y herrajes de plata a lo largo de la culata y se siente extrañamente ligera.
+
+**Activación—Visión etérea** ◆ (concentrar) **Frecuencia** una vez por minuto; **Efecto** Apuntas a través de las lentes cristalinas de la ballesta, obteniendo visión imprecisa sobre el Plano Etéreo con un alcance de 60 pies (18 m) además de tus sentidos normales hasta el final de tu turno. Puedes percibir a través de objetos del Universo de esta manera y el sentido es preciso para detectar criaturas. Dado que este sentido detecta energía espiritual, una criatura inmune a espíritu no puede ser detectada de esta forma.
+
+**Activación—Disparo etéreo** ◆ **Requisitos** Visión etérea está activa; **Efecto** Das un Golpe con la ballesta de vista espiritual. Este disparo viaja por el Plano Etéreo, permitiéndole atravesar e ignorar cobertura de objetos físicos dentro del alcance de tu Visión etérea.
