@@ -17,7 +17,7 @@ PC = poco común.
 - **[Congelacion](/conjuros/congelacion/) P** - Danas a una criatura con un frio tremendo.
 - **[Convocar instrumento](/conjuros/convocar-instrumento/) P** - Llamas a un instrumento que solo tu puedes tocar.
 - **[Detectar magia](/conjuros/detectar-magia/) P** - Te permite notar cuando hay magia cerca.
-- **[Distorsion del vacío](/conjuros/distorsion-del-vacío/) P** - Danas y debilitas a los vivos con la energia del dacio.
+- **[Distorsion del vacío](/conjuros/distorsion-del-vacío/) P** - Dañas y debilitas a los vivos con la energía del vacío.
 - **[Escudo](/conjuros/escudo/) P** - Un escudo de fuerza magica bloquea ataques y conjuros.
 - **[Explosion caustica](/conjuros/explosion-caustica/) P** - Lanzas un pegote de acido que salpica en un area pequena.
 - **[Fantasia](/conjuros/fantasia/)** - Creas una ilusión auditiva o visual sencilla.
@@ -75,7 +75,7 @@ PC = poco común.
 - **[Ventriloquia](/conjuros/ventriloquia/) P** - Proyectas tu voz.
 - **[Viento de cola](/conjuros/viento-de-cola/) P** - Incrementas tu velocidad durante 1 hora.
 - **[Viruela de goblin](/conjuros/viruela-de-goblin/)** - Infectas a una criatura con viruela de goblin.
-- **[Zarcillos macabros](/conjuros/zarcillos-macabros/) P** - Las criaturas en una linea sufren dano por dacio y sangran.
+- **[Zarcillos macabros](/conjuros/zarcillos-macabros/) P** - Las criaturas en una línea sufren daño por vacío y sangran.
 
 ## Conjuros de 2.o rango
 
@@ -128,7 +128,7 @@ PC = poco común.
 - **[Cautivar](/conjuros/cautivar/)** - Tu palabra hace que las criaturas queden fascinadas contigo.
 - **[Ceguera](/conjuros/ceguera/)** - Dejas ciego a un objetivo.
 - **[Clariaudiencia](/conjuros/clariaudiencia/)** - Oyes a traves de un sensor magico invisible.
-- **[Festin vampirico](/conjuros/festin-vampirico/) P** - Infliges dano por dacio y obtienes Puntos de Golpe temporales con un toque.
+- **[Festin vampirico](/conjuros/festin-vampirico/) P** - Infliges daño por vacío y obtienes Puntos de Golpe temporales con un toque.
 - **[Forma de insecto](/conjuros/forma-de-insecto/) P** - Te conviertes en un peligroso insecto gigante.
 - **[Hipnotizar](/conjuros/hipnotizar/)** - Haces que unos colores cambiantes deslumbren y fascinen a las criaturas.
 - **[Leer la mente PC](/conjuros/leer-la-mente-pc/)** - Lees los pensamientos superficiales de una criatura.
