@@ -10,6 +10,7 @@ Contenido del capítulo Introducción
 ## Contenido
 
 - [Atributos]({{ '/tu-personaje/atributos/' | relative_url }})
+- [Acciones]({{ '/introduccion/acciones/' | relative_url }})
 - [Como se Juega]({{ '/introduccion/como-se-juega/' | relative_url }})
 - [Creación de Personajes]({{ '/introduccion/creacion-personajes/' | relative_url }})
 - [Dados]({{ '/introduccion/dados/' | relative_url }})
