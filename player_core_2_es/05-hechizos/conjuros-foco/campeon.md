@@ -1,83 +1,83 @@
-# Champion Devotion Spells
+# Conjuros de devoción del Campeón
 
-A focus spell is unique to a class and reflects its individual role and style. The full rules for casting a focus spell appear on page 298 of Player Core.
-
----
-
-## Initial Devotion Spells
-
-### Lay on Hands · ◆ · Focus 1
-
-**Traits:** Uncommon, Champion, Focus, Healing, Manipulate, Vitality
-
-**Range:** touch; **Targets:** 1 willing living creature or 1 undead creature
-
-Your hands become infused with powerful vitality, capable of healing a living creature or damaging an undead creature with a touch.
-
-- **Willing Living Creature** The target regains 6 Hit Points. If the target is someone other than yourself, it also gains a +2 status bonus to AC for 1 round.
-- **Undead Creature** The target takes 1d6 vitality damage with a basic Fortitude save; on a failure, the target also takes a –2 status penalty to AC for 1 round.
-
-**Heightened (+1)** The amount of healing increases by 6, and the damage to an undead target increases by 1d6.
+Un conjuro de foco es propio de una clase y refleja su papel y estilo únicos. Las reglas completas para lanzar un conjuro de foco aparecen en la página 298 de Player Core.
 
 ---
 
-### Touch of the Void · ◆ · Focus 1
+## Conjuros de devoción iniciales
 
-**Traits:** Uncommon, Champion, Focus, Manipulate, Void
+### Imposición de manos · ◆ · Foco 1
 
-**Range:** touch; **Targets:** 1 willing undead creature or 1 living creature
+**Rasgos:** Poco común, Campeón, Foco, Curación, Manipular, Vitalidad
 
-You infuse the target with void energy, healing undead or damaging a living creature.
+**Rango:** toque; **Objetivos:** 1 criatura viviente dispuesta o 1 criatura no muerta
 
-- **Willing Undead Creature** The target regains 6 Hit Points. If the target is yourself, you also gain a +2 status bonus to damage rolls for 1 round.
-- **Living Creature** The target takes 1d6 void damage with a basic Fortitude save; on a failure, the target also takes a –2 status penalty to AC for 1 round.
+Tus manos se infunden con poderosa vitalidad, capaces de curar a una criatura viviente o dañar a una criatura no muerta con un toque.
 
-**Heightened (+1)** The amount of healing increases by 6, and the damage to a living target increases by 1d6.
+- **Criatura viviente dispuesta** El objetivo recupera 6 PG. Si el objetivo es alguien distinto de ti, también obtiene un bonificador de estado +2 a la CA durante 1 asalto.
+- **Criatura no muerta** El objetivo recibe 1d6 de daño de vitalidad con una salvación básica de Fortaleza; con un fallo, el objetivo también recibe un penalizador de estado –2 a la CA durante 1 asalto.
 
----
-
-### Shields of the Spirit · ◆ · Focus 1
-
-**Traits:** Uncommon, Champion, Concentrate, Focus, Sanctified, Spirit
-
-**Requirements:** You are wielding a shield.
-
-You Raise your Shield, causing ephemeral spirit shields to float within your champion's aura. The shields last until the start of your next turn or until you're no longer raising your shield, whichever comes first. While one of your allies is in your champion's aura, the shields grant them a +1 status bonus to AC, and each time an enemy makes an attack against the ally, the enemy takes 1d4 spirit damage (even if it misses).
-
-The benefit applies only while an ally is in your aura, ending for any ally that leaves and applying to any that enters later. As normal, you don't count as your own ally and therefore don't get the benefits of the spirit shields yourself.
-
-**Heightened (+2)** The damage increases by 1d4.
+**Potenciado (+1)** La cantidad de curación aumenta en 6 y el daño a un objetivo no muerto aumenta en 1d6.
 
 ---
 
-## Additional Devotion Spells
+### Toque del Vacío · ◆ · Foco 1
 
-### Champion's Sacrifice · ◇ · Focus 6
+**Rasgos:** Poco común, Campeón, Foco, Manipular, Vacío
 
-**Traits:** Uncommon, Champion, Focus, Manipulate
+**Rango:** toque; **Objetivos:** 1 criatura no muerta dispuesta o 1 criatura viviente
 
-**Trigger:** An ally is hit by a Strike or fails a saving throw against an effect that doesn't affect you.
+Infundes al objetivo con energía del vacío, sanando a no muertos o dañando a una criatura viviente.
 
-**Range:** 30 feet; **Targets:** the triggering ally
+- **Criatura no muerta dispuesta** El objetivo recupera 6 PG. Si el objetivo eres tú mismo, también obtienes un bonificador de estado +2 a las tiradas de daño durante 1 asalto.
+- **Criatura viviente** El objetivo recibe 1d6 de daño de vacío con una salvación básica de Fortaleza; con un fallo, el objetivo también recibe un penalizador de estado –2 a la CA durante 1 asalto.
 
-You form a link with an ally, allowing you to take harm in their stead. All the effects of the hit or failed save are applied to you instead of the target. For example, if the target critically fails a saving throw against a fireball, you would take double damage. These effects ignore any resistances, immunities, or other abilities you have that might mitigate them in any way, although those of the target apply before you take the effect.
-
----
-
-### Hero's Defiance · ◇ · Focus 10
-
-**Traits:** Uncommon, Champion, Concentrate, Focus, Healing, Vitality
-
-**Trigger:** An attack would bring you to 0 Hit Points.
-
-You shout in defiance and are filled with a burst of healing. Just before applying the attack's damage, you recover 6d8+20 Hit Points. If this is enough to prevent the attack from bringing you to 0 Hit Points, you don't become unconscious or dying. Either way, cheating death is difficult, and you can't use hero's defiance again until you Refocus or make your daily preparations. Hero's defiance can't be used against effects with the death trait or that would leave no remains, such as disintegrate.
+**Potenciado (+1)** La cantidad de curación aumenta en 6 y el daño a un objetivo viviente aumenta en 1d6.
 
 ---
 
-### Spectral Advance · ◆ or ◆◆ · Focus 5
+### Escudos del espíritu · ◆ · Foco 1
 
-**Traits:** Uncommon, Champion, Concentrate, Focus, Polymorph, Spirit
+**Rasgos:** Poco común, Campeón, Concentrar, Foco, Santificado, Espíritu
 
-Taking on a spiritual form, you flash across the battlefield to engage an enemy. You Stride to a space adjacent to an enemy. If you cast the spell using 2 actions, you can Stride twice instead of once. If you have a fly Speed, you can Fly instead of Striding. If you're mounted, you can have your mount move instead of you.
+**Requisitos:** Estás empuñando un escudo.
 
-Movement from spectral advance doesn't trigger reactions and ignores difficult terrain and greater difficult terrain. During the movement, you (or your mount) have resistance equal to your level to all damage.
+Alzas tu escudo, haciendo que escudos espirituales efímeros floten dentro del aura de tu campeón. Los escudos duran hasta el inicio de tu siguiente turno o hasta que dejes de alzar tu escudo, lo que ocurra primero. Mientras uno de tus aliados esté en el aura de tu campeón, los escudos le conceden un bonificador de estado +1 a la CA, y cada vez que un enemigo hace un ataque contra el aliado, el enemigo sufre 1d4 de daño espiritual (incluso si falla).
+
+El beneficio se aplica solo mientras un aliado esté en tu aura, terminando para cualquier aliado que salga y aplicándose a cualquiera que entre después. Como es normal, no cuentas como tu propio aliado y por lo tanto no obtienes los beneficios de los escudos espirituales tú mismo.
+
+**Potenciado (+2)** El daño aumenta en 1d4.
+
+---
+
+## Conjuros de devoción adicionales
+
+### Sacrificio del Campeón · ◇ · Foco 6
+
+**Rasgos:** Poco común, Campeón, Foco, Manipular
+
+**Desencadenante:** A un aliado le impacta un Golpe o falla una tirada de salvación contra un efecto que no te afecta.
+
+**Rango:** 30 pies (9 m); **Objetivos:** el aliado que desencadenó
+
+Formas un vínculo con un aliado, permitiéndote recibir el daño en su lugar. Todos los efectos del impacto o de la salvación fallida se aplican a ti en lugar de al objetivo. Por ejemplo, si el objetivo falla críticamente una tirada de salvación contra una bola de fuego, tú recibirías daño doble. Estos efectos ignoran cualquier resistencia, inmunidad u otra aptitud que tengas y que pudiera mitigarlos de alguna manera, aunque las del objetivo se aplican antes de que tú recibas el efecto.
+
+---
+
+### Desafío del héroe · ◇ · Foco 10
+
+**Rasgos:** Poco común, Campeón, Concentrar, Foco, Curación, Vitalidad
+
+**Desencadenante:** Un ataque te dejaría en 0 PG.
+
+Gritas desafiando y te llenas de una ráfaga de curación. Justo antes de aplicar el daño del ataque, recuperas 6d8+20 PG. Si esto basta para evitar que el ataque te deje en 0 PG, no quedas inconsciente ni moribundo. En cualquier caso, burlar a la muerte es difícil y no puedes usar desafío del héroe de nuevo hasta que te reenfoques o hagas tus preparativos diarios. Desafío del héroe no puede usarse contra efectos con el rasgo muerte ni contra aquellos que no dejan restos, como desintegrar.
+
+---
+
+### Avance espectral · ◆ o ◆◆ · Foco 5
+
+**Rasgos:** Poco común, Campeón, Concentrar, Foco, Polimorfo, Espíritu
+
+Adoptando una forma espiritual, te deslizas por el campo de batalla para enfrentarte a un enemigo. Avanzas hasta un espacio adyacente a un enemigo. Si lanzas el conjuro usando 2 acciones, puedes Avanzar dos veces en lugar de una. Si tienes Velocidad de vuelo, puedes Volar en lugar de Avanzar. Si estás montado, puedes hacer que tu montura se mueva en tu lugar.
+
+El movimiento de avance espectral no desencadena reacciones e ignora terreno difícil y terreno difícil superior. Durante el movimiento, tú (o tu montura) obtienes resistencia igual a tu nivel contra todo el daño.

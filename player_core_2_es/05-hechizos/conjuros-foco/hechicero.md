@@ -1,479 +1,479 @@
-# Sorcerer Bloodline Spells
+# Conjuros de linaje del Hechicero
 
-A focus spell is unique to a class and reflects its individual role and style. The full rules for casting a focus spell appear on page 298 of Player Core.
-
----
-
-## Aberrant
-
-### Tentacular Limbs · ◆ · Focus 1
-
-**Traits:** Uncommon, Focus, Manipulate, Morph, Sorcerer
-
-**Duration:** 1 minute
-
-Your arms turn into long, pliable tentacles, increasing your reach when you're delivering touch range spells and making unarmed Strikes with your arms (such as fist and claw Strikes) to 10 feet. This doesn't change the reach of your melee weapon attacks. During the duration, whenever you Cast a Spell, you can add an additional action to that spell's casting to temporarily extend your reach to 20 feet to deliver that spell.
-
-**Heightened (+2)** When you add an additional action to a spell to temporarily extend your reach, your reach increases by an additional 10 feet to deliver that spell.
+Un conjuro de foco es propio de una clase y refleja su papel y estilo únicos. Las reglas completas para lanzar un conjuro de foco aparecen en la página 298 de Player Core.
 
 ---
 
-### Aberrant Whispers · ◆ to ◆◆◆ · Focus 3
+## Aberrante
 
-**Traits:** Uncommon, Auditory, Concentrate, Focus, Mental, Sorcerer
+### Brazos tentaculares · ◆ · Foco 1
 
-**Area:** 5-foot emanation or more; **Targets:** each foe in the area
+**Rasgos:** Poco común, Foco, Manipular, Morfo, Hechicero
 
-**Defense:** Will; **Duration:** 1 round
+**Duración:** 1 minuto
 
-You utter phrases in an unknown tongue, assaulting the minds of those nearby. Each target must attempt a Will save. Regardless of the result of its save, each target is then temporarily immune for 1 minute. For each additional action you use when Casting the Spell, increase the emanation's radius by 5 feet.
+Tus brazos se convierten en largos tentáculos flexibles, aumentando tu alcance al entregar conjuros de toque y al realizar Golpes desarmados con tus brazos (como Golpes de puño o garra) a 10 pies (3 m). Esto no cambia el alcance de tus ataques con armas cuerpo a cuerpo. Durante la duración, siempre que Lanzas un Conjuro, puedes añadir una acción adicional al lanzamiento del conjuro para ampliar temporalmente tu alcance a 20 pies (6 m) para entregar ese conjuro.
 
-**Success** The target is unaffected.
-
-**Failure** The target is stupefied 2.
-
-**Critical Failure** The target is confused.
-
-**Heightened (+3)** The initial radius increases by 5 feet.
+**Potenciado (+2)** Cuando añades una acción adicional a un conjuro para ampliar temporalmente tu alcance, tu alcance aumenta 10 pies (3 m) adicionales para entregar ese conjuro.
 
 ---
 
-### Unusual Anatomy · ◆ · Focus 5
+### Susurros aberrantes · ◆ a ◆◆◆ · Foco 3
 
-**Traits:** Uncommon, Focus, Manipulate, Polymorph, Sorcerer
+**Rasgos:** Poco común, Auditivo, Concentrar, Foco, Mental, Hechicero
 
-**Duration:** 1 minute
+**Área:** emanación de 5 pies (1,5 m) o más; **Objetivos:** cada enemigo en el área
 
-You transform your flesh and organs into a bizarre amalgam of glistening skin, rough scales, tufts of hair, and tumorous protuberances. This has the following effects.
+**Defensa:** Voluntad; **Duración:** 1 asalto
 
-- You gain resistance 10 to precision damage and resistance 10 to extra damage from critical hits. If the resistance is greater than the extra damage, it reduces the extra damage to 0 but doesn't reduce the attack's normal damage.
-- You gain darkvision.
-- Acid oozes from your skin. Any creature that hits you with an unarmed attack or with a non-reach melee weapon takes 2d6 acid damage.
+Pronuncias frases en una lengua desconocida, asaltando las mentes de los presentes. Cada objetivo debe intentar una salvación de Voluntad. Independientemente del resultado de su salvación, cada objetivo queda luego temporalmente inmune durante 1 minuto. Por cada acción adicional que uses al Lanzar el Conjuro, aumenta el radio de la emanación en 5 pies (1,5 m).
 
-**Heightened (+2)** The resistances increase by 5, and the acid damage increases by 1d6.
+**Éxito** El objetivo no se ve afectado.
 
----
+**Fallo** El objetivo queda estupefacto 2.
 
-## Angelic
+**Fallo crítico** El objetivo queda confundido.
 
-### Angelic Halo · ◆ · Focus 1
-
-**Traits:** Uncommon, Aura, Concentrate, Focus, Holy, Sorcerer
-
-**Area:** 15-foot emanation
-
-**Duration:** 1 minute
-
-You gain an angelic halo with an aura that increases allies' healing from the heal spell. Allies in your halo's emanation who are healed by a heal spell gain a status bonus to Hit Points regained equal to double the heal spell's level.
+**Potenciado (+3)** El radio inicial aumenta en 5 pies (1,5 m).
 
 ---
 
-### Angelic Wings · ◆◆ · Focus 3
+### Anatomía insólita · ◆ · Foco 5
 
-**Traits:** Uncommon, Concentrate, Focus, Light, Manipulate, Sorcerer
+**Rasgos:** Poco común, Foco, Manipular, Polimorfo, Hechicero
 
-**Duration:** 3 rounds
+**Duración:** 1 minuto
 
-Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as gentle landing.
+Transformas tu carne y órganos en una extraña amalgama de piel reluciente, escamas rugosas, mechones de pelo y protuberancias tumorales. Esto tiene los siguientes efectos.
 
-**Heightened (5th)** The duration increases to 1 minute.
+- Obtienes resistencia 10 al daño de precisión y resistencia 10 al daño adicional de impactos críticos. Si la resistencia es mayor que el daño adicional, reduce ese daño adicional a 0, pero no reduce el daño normal del ataque.
+- Obtienes visión en la oscuridad.
+- Ácido rezuma de tu piel. Cualquier criatura que te impacte con un ataque desarmado o con un arma cuerpo a cuerpo sin alcance sufre 2d6 de daño ácido.
 
----
-
-### Celestial Brand · ◆ · Focus 5
-
-**Traits:** Uncommon, Curse, Focus, Manipulate, Sorcerer
-
-**Range:** 30 feet; **Targets:** 1 unholy creature
-
-**Duration:** 1 round
-
-A blazing symbol appears on the target, cursing it to face divine justice. You and your allies receive a +1 status bonus to your attack rolls and skill checks against it. Anytime a holy creature damages it, the holy creature deals an additional 1d4 spirit damage. The target is then temporarily immune for 1 minute.
-
-**Heightened (+2)** The spirit damage increases by 1.
+**Potenciado (+2)** Las resistencias aumentan en 5 y el daño ácido aumenta en 1d6.
 
 ---
 
-## Demonic
+## Angélico
 
-### Glutton's Jaws · ◆◆ · Focus 1
+### Halo angélico · ◆ · Foco 1
 
-**Traits:** Uncommon, Attack, Concentrate, Focus, Manipulate, Sorcerer
+**Rasgos:** Poco común, Aura, Concentrar, Foco, Sagrado, Hechicero
 
-**Range:** 30 feet; **Target:** 1 creature
+**Área:** emanación de 15 pies (4,5 m)
 
-**Defense:** AC
+**Duración:** 1 minuto
 
-A slavering maw opens beneath a target and tries to take a bite out of them. Make a spell attack roll. On a hit, the mouth deals 2d6 piercing damage, and you gain 1d4 temporary Hit Points that last until the beginning of your next turn.
-
-**Heightened (+1)** The damage increases by 2d6, and the temporary Hit Points increase by 1d4.
+Obtienes un halo angélico con un aura que incrementa la curación de tus aliados procedente del conjuro curar. Los aliados en la emanación de tu halo que sean curados por un conjuro curar obtienen un bonificador de estado a los PG recuperados igual al doble del nivel del conjuro curar.
 
 ---
 
-### Swamp of Sloth · ◆ to ◆◆◆ · Focus 3
+### Alas angélicas · ◆◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Olfactory, Sorcerer
+**Rasgos:** Poco común, Concentrar, Foco, Luz, Manipular, Hechicero
 
-**Range:** 120 feet; **Area:** 5-foot burst or more
+**Duración:** 3 asaltos
 
-**Defense:** basic Fortitude; **Duration:** 1 minute
+Alas de luz pura se extienden desde tu espalda, concediéndote una Velocidad de vuelo igual a tu Velocidad. Tus alas emiten luz brillante en un radio de 30 pies (9 m). Cuando la duración de este conjuro vaya a terminar, si todavía estás volando, desciendes flotando hasta el suelo, como aterrizaje suave.
 
-Ground in the area turns swampy and fetid. The area is difficult terrain. The sludge at the bottom of the morass animates into diminutive sludge beasts that have a demonic appearance. These don't function as normal creatures, but they swarm over creatures in the swamp and exude a noxious stench. The swamp deals 1d6 poison damage to creatures that end their turn in the area (basic Fortitude save). For each additional action you use when Casting the Spell, increase the burst's radius by 5 feet.
-
-**Heightened (+2)** The damage increases by 1d6, and the initial radius increases by 5 feet.
+**Potenciado (5.º)** La duración aumenta a 1 minuto.
 
 ---
 
-### Chthonian Wrath · ◆◆ · Focus 5
+### Marca celestial · ◆ · Foco 5
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Sorcerer
+**Rasgos:** Poco común, Maldición, Foco, Manipular, Hechicero
 
-**Area:** 60-foot cone
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura sacrílega
 
-**Defense:** basic Reflex
+**Duración:** 1 asalto
 
-You evoke the energy of a part of the Outer Rifts. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below. You deal 4d6 damage of each of the corresponding damage types to each creature in the cone (8d6 total damage).
+Aparece un símbolo llameante sobre el objetivo, maldiciéndolo para que enfrente la justicia divina. Tú y tus aliados recibís un bonificador de estado +1 a las tiradas de ataque y pruebas de habilidad contra él. Cada vez que una criatura sagrada le inflige daño, esa criatura sagrada inflige 1d4 de daño espiritual adicional. El objetivo queda temporalmente inmune durante 1 minuto.
 
-| 1d4 | Realm | Manifestation | Damage Type |
-|-----|-------|---------------|-------------|
-| 1 | Skies | Bolts of lightning and flying debris | Bludgeoning and electricity |
-| 2 | Depths | Acid and demonic shells | Acid and slashing |
-| 3 | Frozen | Frigid air and ice | Bludgeoning and cold |
-| 4 | Volcanic | Jagged volcanic rocks and magma | Fire and piercing |
-
-**Heightened (+1)** The damage for each type increases by 1d6.
+**Potenciado (+2)** El daño espiritual aumenta en 1.
 
 ---
 
-## Diabolic
+## Demoníaco
 
-### Diabolic Edict · ◆ · Focus 1
+### Mandíbulas glotonas · ◆◆ · Foco 1
 
-**Traits:** Uncommon, Concentrate, Focus, Sorcerer
+**Rasgos:** Poco común, Ataque, Concentrar, Foco, Manipular, Hechicero
 
-**Range:** 30 feet; **Targets:** 1 willing living creature
+**Rango:** 30 pies (9 m); **Objetivo:** 1 criatura
 
-**Duration:** 1 round
+**Defensa:** CA
 
-You issue a diabolic edict, demanding the target perform a particular task and offering rewards for its fulfillment. It gains a +1 status bonus to attack rolls and skill checks related to performing the task. If it refuses to perform the task you proclaimed, it instead takes a –1 status penalty to all its attack rolls and skill checks.
+Una fauce babeante se abre bajo un objetivo e intenta darle un mordisco. Haz una tirada de ataque de conjuro. Con un impacto, la boca inflige 2d6 de daño perforante y obtienes 1d4 PG temporales que duran hasta el comienzo de tu siguiente turno.
 
----
-
-### Embrace the Pit · ◆ · Focus 3
-
-**Traits:** Uncommon, Concentrate, Focus, Morph, Sorcerer
-
-**Duration:** 1 minute
-
-Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline. You gain resistance 5 to fire and poison, and resistance 1 to physical damage (except silver).
-
-**Heightened (+2)** The resistance to fire and poison increase by 5, and the resistance to physical damage (except silver) by 2.
+**Potenciado (+1)** El daño aumenta en 2d6 y los PG temporales aumentan en 1d4.
 
 ---
 
-### Hellfire Plume · ◆◆ · Focus 5
+### Pantano de pereza · ◆ a ◆◆◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Fire, Focus, Manipulate, Sorcerer, Spirit
+**Rasgos:** Poco común, Concentrar, Foco, Manipular, Olfativo, Hechicero
 
-**Range:** 60 feet; **Area:** 10-foot radius, 60-foot-tall cylinder
+**Rango:** 120 pies (36 m); **Área:** explosión de 5 pies (1,5 m) o más
 
-**Defense:** basic Reflex
+**Defensa:** salvación básica de Fortaleza; **Duración:** 1 minuto
 
-You call forth a plume of hellfire that erupts from below, dealing 4d6 fire damage and 4d6 spirit damage.
+El suelo del área se vuelve pantanoso y fétido. El área es terreno difícil. El lodo del fondo del cenagal se anima en diminutas bestias de lodo de apariencia demoníaca. Estas no funcionan como criaturas normales, pero pululan sobre las criaturas en el pantano y exudan un hedor nocivo. El pantano inflige 1d6 de daño de veneno a las criaturas que terminan su turno en el área (salvación básica de Fortaleza). Por cada acción adicional que uses al Lanzar el Conjuro, aumenta el radio de la explosión en 5 pies (1,5 m).
 
-**Heightened (+1)** The fire and spirit damage each increase by 1d6.
-
----
-
-## Draconic
-
-### Flurry of Claws · ◆◆ · Focus 1
-
-**Traits:** Uncommon, Attack, Concentrate, Focus, Manipulate, Sorcerer
-
-**Range:** 30 feet; **Target:** 2 creatures no more than 10 feet from each other
-
-**Defense:** AC
-
-Vicious dragon claws appear and slash at two nearby foes. Make a spell attack roll against each creature. This counts as two attacks for your multiple attack penalty, but the penalty doesn't increase until you've made both attacks. On a hit, the creatures takes 1d8 slashing plus 1d4 additional damage of a type determined by the magical tradition related to the dragon that influenced your bloodline: arcane force, divine spirit, occult mental, or primal fire.
-
-**Heightened (+1)** The initial damage increases by 1d8 and the additional damage increases by 1d4.
+**Potenciado (+2)** El daño aumenta en 1d6 y el radio inicial aumenta en 5 pies (1,5 m).
 
 ---
 
-### Dragon Breath · ◆◆ · Focus 3
+### Ira ctónica · ◆◆ · Foco 5
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Sorcerer
+**Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 
-**Area:** 30-foot cone
+**Área:** cono de 60 pies (18 m)
 
-**Defense:** basic Reflex
+**Defensa:** salvación básica de Reflejos
 
-You spew energy from your mouth, dealing 5d6 damage with a basic Reflex save. The damage type depends on the magical tradition related to the dragon that influenced your bloodline: arcane force, divine spirit, occult mental, or primal fire.
+Evocas la energía de una parte de las Grietas Exteriores. Los tipos de daño del conjuro (uno de energía y uno físico) se basan en el resultado de la tirada de la tabla siguiente. Infliges 4d6 de cada uno de los tipos de daño correspondientes a cada criatura en el cono (8d6 de daño total).
 
-**Heightened (+1)** The damage increases by 2d6.
+| 1d4 | Reino | Manifestación | Tipo de daño |
+|-----|-------|---------------|--------------|
+| 1 | Cielos | Rayos y escombros voladores | Contundente y electricidad |
+| 2 | Profundidades | Ácido y caparazones demoníacos | Ácido y cortante |
+| 3 | Gélido | Aire frío y hielo | Contundente y frío |
+| 4 | Volcánico | Rocas volcánicas dentadas y magma | Fuego y perforante |
+
+**Potenciado (+1)** El daño de cada tipo aumenta en 1d6.
 
 ---
 
-### Dragon Wings · ◆◆ · Focus 5
+## Diabólico
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Morph, Sorcerer
+### Edicto diabólico · ◆ · Foco 1
 
-**Duration:** 1 minute
+**Rasgos:** Poco común, Concentrar, Foco, Hechicero
 
-Leathery wings sprout from your back, giving you a fly Speed of 60 feet or your Speed, whichever is faster. If you're still flying when this spell's duration would end, you float to the ground, with the effects of gentle landing.
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viviente dispuesta
 
-**Heightened (8th)** The duration increases to 10 minutes.
+**Duración:** 1 asalto
+
+Proclamas un edicto diabólico, exigiendo que el objetivo realice una tarea concreta y ofreciendo recompensas por su cumplimiento. Obtiene un bonificador de estado +1 a las tiradas de ataque y pruebas de habilidad relacionadas con realizar la tarea. Si se niega a realizar la tarea que proclamaste, en su lugar sufre un penalizador de estado –1 a todas sus tiradas de ataque y pruebas de habilidad.
+
+---
+
+### Abrazo del Abismo · ◆ · Foco 3
+
+**Rasgos:** Poco común, Concentrar, Foco, Morfo, Hechicero
+
+**Duración:** 1 minuto
+
+Cuernos diabólicos crecen de tu cráneo y tu piel adquiere rasgos del diablo responsable de tu linaje diabólico. Obtienes resistencia 5 al fuego y al veneno, y resistencia 1 al daño físico (excepto plata).
+
+**Potenciado (+2)** La resistencia al fuego y al veneno aumenta en 5, y la resistencia al daño físico (excepto plata) en 2.
+
+---
+
+### Penacho de fuego infernal · ◆◆ · Foco 5
+
+**Rasgos:** Poco común, Concentrar, Fuego, Foco, Manipular, Hechicero, Espíritu
+
+**Rango:** 60 pies (18 m); **Área:** cilindro de 10 pies (3 m) de radio y 60 pies (18 m) de altura
+
+**Defensa:** salvación básica de Reflejos
+
+Invocas un penacho de fuego infernal que estalla desde abajo, infligiendo 4d6 de daño de fuego y 4d6 de daño espiritual.
+
+**Potenciado (+1)** El daño de fuego y el daño espiritual aumentan cada uno en 1d6.
+
+---
+
+## Dracónico
+
+### Ráfaga de garras · ◆◆ · Foco 1
+
+**Rasgos:** Poco común, Ataque, Concentrar, Foco, Manipular, Hechicero
+
+**Rango:** 30 pies (9 m); **Objetivos:** 2 criaturas a no más de 10 pies (3 m) entre sí
+
+**Defensa:** CA
+
+Aparecen feroces garras de dragón y desgarran a dos enemigos cercanos. Haz una tirada de ataque de conjuro contra cada criatura. Esto cuenta como dos ataques para tu penalizador por ataques múltiples, pero el penalizador no aumenta hasta que hayas realizado ambos ataques. Con un impacto, las criaturas reciben 1d8 de daño cortante más 1d4 de daño adicional de un tipo determinado por la tradición mágica relacionada con el dragón que influyó en tu linaje: fuerza arcana, espíritu divino, mental oculto o fuego primigenio.
+
+**Potenciado (+1)** El daño inicial aumenta en 1d8 y el daño adicional aumenta en 1d4.
+
+---
+
+### Aliento de dragón · ◆◆ · Foco 3
+
+**Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
+
+**Área:** cono de 30 pies (9 m)
+
+**Defensa:** salvación básica de Reflejos
+
+Exhalas energía por la boca, infligiendo 5d6 de daño con una salvación básica de Reflejos. El tipo de daño depende de la tradición mágica relacionada con el dragón que influyó en tu linaje: fuerza arcana, espíritu divino, mental oculto o fuego primigenio.
+
+**Potenciado (+1)** El daño aumenta en 2d6.
+
+---
+
+### Alas de dragón · ◆◆ · Foco 5
+
+**Rasgos:** Poco común, Concentrar, Foco, Manipular, Morfo, Hechicero
+
+**Duración:** 1 minuto
+
+Brota de tu espalda un par de alas coriáceas, concediéndote una Velocidad de vuelo de 60 pies (18 m) o tu Velocidad, lo que sea mayor. Si aún estás volando cuando la duración de este conjuro vaya a terminar, desciendes flotando, con los efectos de aterrizaje suave.
+
+**Potenciado (8.º)** La duración aumenta a 10 minutos.
 
 ---
 
 ## Elemental
 
-### Elemental Toss · ◆ · Focus 1
+### Lanzamiento elemental · ◆ · Foco 1
 
-**Traits:** Uncommon, Attack, Focus, Manipulate, Sorcerer
+**Rasgos:** Poco común, Ataque, Foco, Manipular, Hechicero
 
-**Range:** 30 feet; **Targets:** 1 creature
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
-**Defense:** AC
+**Defensa:** CA
 
-With a flick of your wrist, you fling a chunk of your elemental matter at your foe. Make a ranged spell attack roll, dealing 1d8 damage on a success and double damage on a critical success. This spell deals damage according to your elemental influence (for instance, slashing for air or fire for fire) and has your element's trait.
+Con un giro de muñeca, arrojas un fragmento de tu materia elemental contra tu enemigo. Haz una tirada de ataque de conjuro a distancia, infligiendo 1d8 de daño con un éxito y daño doble con un éxito crítico. Este conjuro inflige daño según tu influencia elemental (por ejemplo, cortante para aire o fuego para fuego) y tiene el rasgo de tu elemento.
 
-**Heightened (+1)** The damage increases by 1d8.
-
----
-
-### Elemental Motion · ◆◆ · Focus 3
-
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Sorcerer
-
-**Duration:** 1 minute
-
-You call upon your element to propel you, improving your Speed depending on your element. This spell has your element's trait.
-
-- **Air** You gain a fly Speed equal to your Speed.
-- **Earth** You gain a burrow Speed of 10 feet.
-- **Fire** You gain a fly Speed equal to your Speed.
-- **Metal** You gain a burrow Speed of 10 feet.
-- **Water** You gain a swim Speed equal to your Speed and can breathe underwater.
-- **Wood** You gain a climb Speed equal to your Speed.
-
-**Heightened (6th)** You also gain a +10-foot status bonus to your Speeds.
-
-**Heightened (9th)** The status bonus increases to +20 feet.
+**Potenciado (+1)** El daño aumenta en 1d8.
 
 ---
 
-### Elemental Blast · ◆◆ · Focus 5
+### Movimiento elemental · ◆◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Sorcerer
+**Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 
-**Range:** 30 feet (burst only); **Area:** 10-foot-radius burst, 30-foot cone, or 60-foot line
+**Duración:** 1 minuto
 
-**Defense:** basic Reflex
+Invocas a tu elemento para impulsarte, mejorando tus Velocidades según tu elemento. Este conjuro tiene el rasgo de tu elemento.
 
-You gather elemental energy and blast your foes in one of the various listed shapes of your choosing, dealing 8d6 damage. This spell deals damage according to your elemental influence (for instance, slashing for air or fire for fire) and has your element's trait.
+- **Aire** Obtienes una Velocidad de vuelo igual a tu Velocidad.
+- **Tierra** Obtienes una Velocidad de excavar de 10 pies (3 m).
+- **Fuego** Obtienes una Velocidad de vuelo igual a tu Velocidad.
+- **Metal** Obtienes una Velocidad de excavar de 10 pies (3 m).
+- **Agua** Obtienes una Velocidad de nado igual a tu Velocidad y puedes respirar bajo el agua.
+- **Madera** Obtienes una Velocidad de trepar igual a tu Velocidad.
 
-**Heightened (+1)** The damage increases by 2d6.
+**Potenciado (6.º)** También obtienes un bonificador de estado +10 pies (3 m) a tus Velocidades.
 
----
-
-## Fey
-
-### Faerie Dust · ◆ to ◆◆◆ · Focus 1
-
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Mental, Sorcerer
-
-**Range:** 30 feet; **Area:** 5-foot burst or more
-
-**Defense:** Will; **Duration:** 1 round
-
-You sprinkle magical dust in the spell's area, making those within easier to trick. Each creature in the area must attempt a Will save. For each additional action you use when Casting the Spell, increase the burst's radius by 5 feet.
-
-**Success** The creature is unaffected.
-
-**Failure** The creature can't use reactions and takes a –2 status penalty to Perception checks and Will saves.
-
-**Critical Failure** As failure, and the creature also takes a –1 status penalty to Perception checks and Will saves for 1 minute.
-
-**Heightened (+3)** The initial radius increases by 5 feet.
+**Potenciado (9.º)** El bonificador de estado aumenta a +20 pies (6 m).
 
 ---
 
-### Fey Disappearance · ◆ · Focus 3
+### Explosión elemental · ◆◆ · Foco 5
 
-**Traits:** Uncommon, Focus, Manipulate, Sorcerer
+**Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 
-**Duration:** until the end of your next turn
+**Rango:** 30 pies (9 m) (solo explosión); **Área:** explosión de 10 pies (3 m) de radio, cono de 30 pies (9 m), o línea de 60 pies (18 m)
 
-You become invisible and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.
+**Defensa:** salvación básica de Reflejos
 
-**Heightened (5th)** If you use a hostile action, the invisibility doesn't end.
+Reúnes energía elemental y la descargas sobre tus enemigos en una de las formas listadas a tu elección, infligiendo 8d6 de daño. Este conjuro inflige daño según tu influencia elemental (por ejemplo, cortante para aire o fuego para fuego) y tiene el rasgo de tu elemento.
 
----
-
-### Fey Glamour · ◆◆ · Focus 5
-
-**Traits:** Uncommon, Concentrate, Focus, Illusion, Manipulate, Sorcerer
-
-**Range:** 30 feet; **Area:** 30-foot burst or **Targets:** up to 10 willing creatures
-
-**Duration:** 10 minutes
-
-You call upon fey glamours to cloak an area or the targets in illusion. This has the effect of either illusory scene on the area or illusory disguise on the creatures, as if heightened to a rank 1 rank lower than fey glamour, and using fey glamour's range and duration.
+**Potenciado (+1)** El daño aumenta en 2d6.
 
 ---
 
-## Hag
+## Feérico
 
-### Jealous Hex · ◆ · Focus 1
+### Polvo feérico · ◆ a ◆◆◆ · Foco 1
 
-**Traits:** Uncommon, Concentrate, Curse, Focus, Sorcerer
+**Rasgos:** Poco común, Concentrar, Foco, Manipular, Mental, Hechicero
 
-**Range:** 30 feet; **Targets:** 1 creature
+**Rango:** 30 pies (9 m); **Área:** explosión de 5 pies (1,5 m) o más
 
-**Defense:** Will; **Duration:** 1 minute
+**Defensa:** Voluntad; **Duración:** 1 asalto
 
-You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target is cursed with an adverse condition depending on its highest attribute modifier: Strength (enfeebled); Dexterity (clumsy); Constitution (drained); or Intelligence, Wisdom, or Charisma (stupefied). On a tie, the creature decides which of the conditions associated with the tied ability attribute to take. The target must attempt a Will save. At the start of each of your turns, the target can attempt another Will save, ending the effect on a success.
+Espolvoreas polvo mágico en el área del conjuro, haciendo a quienes están dentro más fáciles de engañar. Cada criatura en el área debe intentar una salvación de Voluntad. Por cada acción adicional que uses al Lanzar el Conjuro, aumenta el radio de la explosión en 5 pies (1,5 m).
 
-**Success** The target is unaffected.
+**Éxito** La criatura no se ve afectada.
 
-**Failure** The condition's value is 1.
+**Fallo** La criatura no puede usar reacciones y sufre un penalizador de estado –2 a las pruebas de Percepción y las salvaciones de Voluntad.
 
-**Critical Failure** The condition's value is 2.
+**Fallo crítico** Como fallo, y la criatura también sufre un penalizador de estado –1 a las pruebas de Percepción y las salvaciones de Voluntad durante 1 minuto.
 
----
-
-### Horrific Visage · ◆◆ · Focus 3
-
-**Traits:** Uncommon, Concentrate, Emotion, Fear, Focus, Illusion, Manipulate, Mental, Sorcerer, Visual
-
-**Area:** 30-foot-radius emanation
-
-**Defense:** Will
-
-You briefly transform your features into the horrific visage of a hag, striking fear into your enemies. Foes in the area must attempt a Will save.
-
-**Success** The foe is unaffected.
-
-**Failure** The foe is frightened 1.
-
-**Critical Failure** The foe is frightened 2.
-
-**Heightened (5th)** Foes in the area are frightened 1 on a success, frightened 2 on a failure, and frightened 3 and fleeing for 1 round on a critical failure. They are still unaffected on a critical success.
+**Potenciado (+3)** El radio inicial aumenta en 5 pies (1,5 m).
 
 ---
 
-### You're Mine · ◆◆ · Focus 5
+### Desaparición feérica · ◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Emotion, Focus, Incapacitation, Manipulate, Mental, Sorcerer
+**Rasgos:** Poco común, Foco, Manipular, Hechicero
 
-**Range:** 30 feet; **Targets:** 1 creature
+**Duración:** hasta el final de tu siguiente turno
 
-**Defense:** Will; **Duration:** 1 round
+Te vuelves invisible e ignoras el terreno difícil natural (como sotobosque). Cualquier acción hostil que uses termina esta invisibilidad, pero sigues ignorando el terreno difícil natural.
 
-You manipulate the target's emotions, potentially allowing you to control it for a brief instant. The target must attempt a Will save.
+**Potenciado (5.º)** Si usas una acción hostil, la invisibilidad no termina.
 
-**Critical Success** The target is unaffected.
+---
 
-**Success** The target is stunned 1.
+### Engalanamiento feérico · ◆◆ · Foco 5
 
-**Failure** On the target's next turn, it's stunned 1, and you partially control it, causing it to take a single action of your choice. If it has actions left, it can act normally.
+**Rasgos:** Poco común, Concentrar, Foco, Ilusión, Manipular, Hechicero
 
-**Critical Failure** The target is controlled for 1 round.
+**Rango:** 30 pies (9 m); **Área:** explosión de 30 pies (9 m) o **Objetivos:** hasta 10 criaturas dispuestas
 
-**Heightened (7th)** On a failure, the target is controlled for 1 round. On a critical failure, the target is controlled for up to 1 minute; it receives a new Will save at the end of each of its turns, and on a success, the spell ends.
+**Duración:** 10 minutos
+
+Invocas galas feéricas para envolver un área o a los objetivos en ilusión. Esto tiene el efecto de escena ilusoria sobre el área o disfraz ilusorio sobre las criaturas, como si estuviera potenciado a un rango 1 inferior al de engalanamiento feérico, y usando el alcance y la duración de engalanamiento feérico.
+
+---
+
+## Bruja
+
+### Maldición celosa · ◆ · Foco 1
+
+**Rasgos:** Poco común, Concentrar, Maldición, Foco, Hechicero
+
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
+
+**Defensa:** Voluntad; **Duración:** 1 minuto
+
+Extraes la innata celosía de una bruja para negar a un objetivo su mayor atributo. El objetivo queda maldito con una condición adversa dependiendo de su modificador de atributo más alto: Fuerza (debilitado); Destreza (torpe); Constitución (drenado); o Inteligencia, Sabiduría o Carisma (estupefacto). En caso de empate, la criatura decide cuál de las condiciones asociadas al atributo empatado tomar. El objetivo debe intentar una salvación de Voluntad. Al comienzo de cada uno de tus turnos, el objetivo puede intentar otra salvación de Voluntad, terminando el efecto con un éxito.
+
+**Éxito** El objetivo no se ve afectado.
+
+**Fallo** El valor de la condición es 1.
+
+**Fallo crítico** El valor de la condición es 2.
+
+---
+
+### Faz horrenda · ◆◆ · Foco 3
+
+**Rasgos:** Poco común, Concentrar, Emoción, Miedo, Foco, Ilusión, Manipular, Mental, Hechicero, Visual
+
+**Área:** emanación de 30 pies (9 m) de radio
+
+**Defensa:** Voluntad
+
+Transformas brevemente tus rasgos en la faz horrenda de una bruja, infundiendo miedo a tus enemigos. Los enemigos en el área deben intentar una salvación de Voluntad.
+
+**Éxito** El enemigo no se ve afectado.
+
+**Fallo** El enemigo queda asustado 1.
+
+**Fallo crítico** El enemigo queda asustado 2.
+
+**Potenciado (5.º)** Los enemigos en el área quedan asustados 1 con un éxito, asustados 2 con un fallo y asustados 3 y huyen durante 1 asalto con un fallo crítico. Siguen sin verse afectados con un éxito crítico.
+
+---
+
+### ¡Eres mío! · ◆◆ · Foco 5
+
+**Rasgos:** Poco común, Concentrar, Emoción, Foco, Incapacitación, Manipular, Mental, Hechicero
+
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
+
+**Defensa:** Voluntad; **Duración:** 1 asalto
+
+Manipulas las emociones del objetivo, permitiéndote potencialmente controlarlo por un breve instante. El objetivo debe intentar una salvación de Voluntad.
+
+**Éxito crítico** El objetivo no se ve afectado.
+
+**Éxito** El objetivo queda aturdido 1.
+
+**Fallo** En el siguiente turno del objetivo, queda aturdido 1 y tú lo controlas parcialmente, haciendo que realice una sola acción de tu elección. Si le quedan acciones, puede actuar normalmente.
+
+**Fallo crítico** El objetivo queda controlado durante 1 asalto.
+
+**Potenciado (7.º)** Con un fallo, el objetivo queda controlado durante 1 asalto. Con un fallo crítico, el objetivo queda controlado hasta 1 minuto; recibe una nueva salvación de Voluntad al final de cada uno de sus turnos y, con un éxito, el conjuro termina.
 
 ---
 
 ## Imperial
 
-### Ancestral Memories · ◆ · Focus 1
+### Recuerdos ancestrales · ◆ · Foco 1
 
-**Traits:** Uncommon, Concentrate, Focus, Sorcerer
+**Rasgos:** Poco común, Concentrar, Foco, Hechicero
 
-The memories of long-dead spellcasters grant you their knowledge, making your spells more formidable. You gain either a +1 status bonus to the next spell attack roll you attempt before the end of your turn or an enemy within 60 feet takes a –1 status penalty to the next saving throw they attempt against a spell you cast before the end of your turn.
+Los recuerdos de lanzadores de conjuros de tiempos remotos te conceden su conocimiento, haciendo tus conjuros más formidables. Obtienes o bien un bonificador de estado +1 a la siguiente tirada de ataque de conjuro que intentes antes de que termine tu turno, o un enemigo a 60 pies (18 m) sufre un penalizador de estado –1 a la siguiente tirada de salvación que intente contra un conjuro que lances antes de que termine tu turno.
 
-**Heightened (5th)** The bonus increases to +2 or the penalty increases to –2.
+**Potenciado (5.º)** El bonificador aumenta a +2 o el penalizador a –2.
 
-**Heightened (8th)** The bonus increases to +3 or the penalty increases to –3.
-
----
-
-### Extend Blood Magic · ◆ · Focus 3
-
-**Traits:** Uncommon, Concentrate, Focus, Spellshape, Sorcerer
-
-You call upon the arcane energy coursing through your blood to extend the magic it grants. If your next action is to Cast a Spell that grants you a blood magic effect that lasts for at least 1 round, you or a target gain the blood magic effect for an additional round. You can have only one extended blood magic effect at a time.
+**Potenciado (8.º)** El bonificador aumenta a +3 o el penalizador a –3.
 
 ---
 
-### Arcane Countermeasure · ◇ · Focus 5
+### Extender magia de linaje · ◆ · Foco 3
 
-**Traits:** Uncommon, Focus, Manipulate, Sorcerer
+**Rasgos:** Poco común, Concentrar, Foco, Forma de conjuro, Hechicero
 
-**Trigger:** A creature within range that you can see Casts a Spell.
-
-**Range:** 120 feet; **Targets:** the spell cast by the triggering creature
-
-You undermine the target spell, making it easier to defend against. You reduce the spell's rank by 1, and targets of the spell gain a +2 status bonus to any saving throws, skill checks, AC, or DC against it.
-
-You can't reduce the spell's rank below its minimum. For example, a 5th-rank howling blizzard would remain 5th-rank, but a 5th-rank fireball would become 4th-rank. Targets still gain all the other benefits, even if you don't reduce the spell's rank.
+Invocas la energía arcana que fluye por tu sangre para extender la magia que concede. Si tu siguiente acción es Lanzar un Conjuro que te conceda un efecto de magia de linaje que dure al menos 1 asalto, tú o un objetivo obtenéis el efecto de magia de linaje durante 1 asalto adicional. Solo puedes tener un efecto de magia de linaje extendido a la vez.
 
 ---
 
-## Undead
+### Contramedida arcana · ◇ · Foco 5
 
-### Undeath's Blessing · ◆ · Focus 1
+**Rasgos:** Poco común, Foco, Manipular, Hechicero
 
-**Traits:** Uncommon, Focus, Manipulate, Sorcerer, Void
+**Desencadenante:** Una criatura en alcance que puedas ver Lanza un Conjuro.
 
-**Range:** touch; **Targets:** 1 living creature
+**Rango:** 120 pies (36 m); **Objetivos:** el conjuro lanzado por la criatura que desencadenó
 
-**Defense:** Will; **Duration:** 1 minute
+Minas el conjuro objetivo, facilitando su defensa. Reduces el rango del conjuro en 1, y los objetivos del conjuro obtienen un bonificador de estado +2 a cualquier tirada de salvación, prueba de habilidad, CA o CD contra él.
 
-You instill within a creature the touch of the grave. For the duration, harm and heal spells treat the creature as undead. In addition, harm spells gain a +2 status bonus to the Hit Points restored to the target. An unwilling target can attempt a Will save to reduce the effects.
-
-**Critical Success** The target is unaffected.
-
-**Success** The target heals half as much from heal and takes half as much damage from harm for 1 round.
-
-**Failure** Effects as described above.
-
-**Heightened (+1)** The status bonus to the Hit Points restored increases by 2.
+No puedes reducir el rango del conjuro por debajo de su mínimo. Por ejemplo, una ventisca aullante de 5.º rango seguiría siendo de 5.º rango, pero una bola de fuego de 5.º rango pasaría a 4.º rango. Los objetivos siguen obteniendo todos los demás beneficios, incluso si no reduces el rango del conjuro.
 
 ---
 
-### Drain Life · ◆ · Focus 3
+## No muerto
 
-**Traits:** Uncommon, Focus, Manipulate, Sorcerer, Void
+### Bendición de la no muerte · ◆ · Foco 1
 
-**Range:** 30 feet; **Targets:** 1 living creature
+**Rasgos:** Poco común, Foco, Manipular, Hechicero, Vacío
 
-**Defense:** basic Fortitude
+**Rango:** toque; **Objetivos:** 1 criatura viviente
 
-You close your hand and pull life energy from another creature into yourself. This deals 3d4 void damage; the target must attempt a basic Fortitude save. You gain temporary Hit Points equal to the damage the target takes, after resolving its save and applying a blood magic effect if applicable. If the target's Hit Points were lower than the damage you dealt, you gain temporary Hit Points equal to their remaining Hit Points instead. The temporary Hit Points last for 1 minute.
+**Defensa:** Voluntad; **Duración:** 1 minuto
 
-**Heightened (+1)** The damage increases by 1d4.
+Infundes en una criatura el toque de la tumba. Durante la duración, los conjuros dañar y curar tratan a la criatura como no muerta. Además, los conjuros dañar obtienen un bonificador de estado +2 a los PG restaurados al objetivo. Un objetivo no dispuesto puede intentar una salvación de Voluntad para reducir los efectos.
+
+**Éxito crítico** El objetivo no se ve afectado.
+
+**Éxito** El objetivo se cura la mitad con curar y recibe la mitad del daño de dañar durante 1 asalto.
+
+**Fallo** Efectos como se describe arriba.
+
+**Potenciado (+1)** El bonificador de estado a los PG restaurados aumenta en 2.
 
 ---
 
-### Grasping Grave · ◆◆ · Focus 5
+### Drenar vida · ◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Sorcerer
+**Rasgos:** Poco común, Foco, Manipular, Hechicero, Vacío
 
-**Range:** 60 feet; **Area:** 20-foot radius on the ground
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viviente
 
-**Defense:** Reflex
+**Defensa:** salvación básica de Fortaleza
 
-Hundreds of skeletal arms erupt from the ground in the area, clawing at creatures within and attempting to hold them in place. The skeletal arms deal 6d6 slashing damage. Each creature in the area must attempt a Reflex save.
+Cierras la mano y extraes energía vital de otra criatura hacia ti. Esto inflige 3d4 de daño de vacío; el objetivo debe intentar una salvación básica de Fortaleza. Obtienes PG temporales iguales al daño que recibe el objetivo, tras resolver su salvación y aplicar el efecto de magia de linaje si procede. Si los PG del objetivo eran menores que el daño que infligiste, en su lugar obtienes PG temporales iguales a sus PG restantes. Los PG temporales duran 1 minuto.
 
-**Critical Success** The creature is unaffected.
+**Potenciado (+1)** El daño aumenta en 1d4.
 
-**Success** The creature takes half damage.
+---
 
-**Failure** The creature takes full damage and a –10-foot circumstance penalty to its Speeds for 1 round.
+### Tumba aferradora · ◆◆ · Foco 5
 
-**Critical Failure** The creature takes double damage and is immobilized for 1 round or until it Escapes.
+**Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 
-**Heightened (+1)** The damage increases by 2d6.
+**Rango:** 60 pies (18 m); **Área:** radio de 20 pies (6 m) en el suelo
+
+**Defensa:** Reflejos
+
+Cientos de brazos esqueléticos surgen del suelo en el área, arañando a las criaturas dentro e intentando retenerlas en su lugar. Los brazos esqueléticos infligen 6d6 de daño cortante. Cada criatura en el área debe intentar una salvación de Reflejos.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura recibe la mitad del daño.
+
+**Fallo** La criatura recibe el daño completo y sufre un penalizador circunstancial –10 pies (3 m) a sus Velocidades durante 1 asalto.
+
+**Fallo crítico** La criatura recibe el doble de daño y queda inmovilizada durante 1 asalto o hasta que Escape.
+
+**Potenciado (+1)** El daño aumenta en 2d6.
