@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /reglas/exploracion/
+permalink: /tu-personaje/exploracion/
 title: Exploración
-chapter: Cómo Jugar
-category: reglas
-nav_order: 0
+chapter: Tu Personaje
+category: tu-personaje
+nav_order: 4
 ---
 
 La mayor parte del tiempo, tu personaje explorara el mundo, interaccionando con otros personajes, viajando de un lugar a otro y superando desafios. A esto se le llama **exploración**.

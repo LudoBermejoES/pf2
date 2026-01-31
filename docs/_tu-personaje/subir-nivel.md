@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /reglas/subir-nivel/
+permalink: /tu-personaje/subir-nivel/
 title: Subir de Nivel
-chapter: Cómo Jugar
-category: reglas
-nav_order: 0
+chapter: Tu Personaje
+category: tu-personaje
+nav_order: 3
 ---
 
 Con cada bestia terrorífica y trampa mortal superadas, un personaje obtiene Puntos de Experiencia (PX), que le permiten subir de nivel. Cada nivel concede mayores aptitudes, una resistencia incrementada y nuevas capacidades, lo que permitirá que tu personaje se enfrente a desafíos aún mayores y consiga recompensas aún más impresionantes.

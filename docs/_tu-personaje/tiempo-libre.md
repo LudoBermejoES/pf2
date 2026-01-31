@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /reglas/tiempo-libre/
+permalink: /tu-personaje/tiempo-libre/
 title: Tiempo Libre
-chapter: Cómo Jugar
-category: reglas
-nav_order: 0
+chapter: Tu Personaje
+category: tu-personaje
+nav_order: 5
 ---
 
 Los PJs no tienen por que pasar todo su tiempo activo de aventuras. Tambien se pueden recuperar de sus heridas, planificar conquistas futuras o dedicarse a una profesión. En Pathfinder a esto se le llama **tiempo libre**, y permite que el tiempo pase rapidamente mientras los personajes trabajan en tareas u objetivos a largo plazo.

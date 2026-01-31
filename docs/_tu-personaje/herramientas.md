@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /reglas/herramientas/
+permalink: /tu-personaje/herramientas/
 title: Herramientas de Juego
-chapter: Cómo Jugar
-category: reglas
+chapter: Tu Personaje
+category: tu-personaje
 nav_order: 0
 ---
 

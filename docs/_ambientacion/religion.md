@@ -38,7 +38,7 @@ Cualquiera puede adorar a un dios, pero quienes lo hacen de forma devota deberí
 | [Urgathoa](/introduccion/dioses/urgathoa/) | La Princesa Pálida | enfermedad, gula y muerte en vida | Encaprichada con los placeres del mundo de los vivos, Urgathoa escapó a las garras de la muerte y se convirtió en el primero de los muertos vivientes. La Princesa Pálida se regocija compartiendo sus apetitos hedonistas ilimitados y extendiendo la condición de muerte en vida a todos aquellos que pueden servirla. |
 | [Zon-Kuthon](/introduccion/dioses/zon-kuthon/) | El Señor de la Medianoche | dolor, envidia, oscuridad y pérdida | Antiguamente un dios del arte, la belleza y la música como Shelyn, el Señor de la Medianoche volvió horriblemente cambiado de un viaje por los espacios oscuros entre los Planos. Ahora enseña los placeres del dolor y la oscuridad, convirtiendo lo que fue hermoso en un instrumento de tormento. |
 
-## Santificacion## Santificacion
+## Santificacion
 
 Algunos dioses santifican a sus clérigos y a sus seguidores similarmente devotos. Esto concede al seguidor el rasgo sagrado o sacrilego.
 

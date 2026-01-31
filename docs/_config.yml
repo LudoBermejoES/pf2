@@ -28,6 +28,9 @@ collections:
   introduccion:
     output: true
     permalink: /introduccion/:name/
+  tu-personaje:
+    output: true
+    permalink: /tu-personaje/:name/
   ambientacion:
     output: true
     permalink: /ambientacion/:path/
@@ -68,6 +71,12 @@ defaults:
     values:
       layout: page
       chapter: "Introducción"
+  - scope:
+      path: ""
+      type: "tu-personaje"
+    values:
+      layout: page
+      chapter: "Tu Personaje"
   - scope:
       path: ""
       type: "ambientacion"
@@ -126,6 +135,7 @@ defaults:
 # Include hidden files for collection processing
 include:
   - _introduccion
+  - _tu-personaje
   - _ambientacion
   - _ascendencias
   - _clases
