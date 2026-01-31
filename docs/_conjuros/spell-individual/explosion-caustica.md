@@ -7,19 +7,26 @@ spell_level: TRUCO
 ---
 ## Explosion Caustica ◆◆ [TRUCO 1]
 
-**Tradiciones:** arcana, primigenia
-**Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
-**Defensa:** Reflejos basica
-
-<div class="spell-traits-wrapper" markdown="0">
-<span class="trait-tag">Acido</span>
-<span class="trait-tag">Concentrar</span>
-<span class="trait-tag">Manipular</span>
-<span class="trait-tag">Truco</span>
-</div>
 
 ---
 
-Arrojas un gran pegote de acido que detona inmediatamente, salpicando a las criaturas cercanas. Las criaturas en el area sufren 1d8 dano por acido y tienen que hacer una salvacion basica de Reflejos; con un fallo critico, una criatura sufre tambien 1 dano persistente por acido.
+**Nivel:** TRUCO | **Tradiciones:** arcana, primigenia
 
-**Potenciado (+2)** El dano inicial se incrementa en 1d8 y el dano persistente en un fallo critico se incrementa en 1.
+<div class="spell-traits-wrapper" markdown="0">
+<span class="trait-tag">acido</span>
+<span class="trait-tag">concentrar</span>
+<span class="trait-tag">manipular</span>
+<span class="trait-tag">truco</span>
+</div>
+
+**Alcance:** 30 pies (9 m)
+**Área:** explosión de 5 pies (1,5 m)
+**Defensa:** Reflejos básica
+
+---
+
+Arrojas un gran pegote de ácido que detona inmediatamente, salpicando a las criaturas cercanas. Las criaturas en el área sufren 1d8 daño por ácido y tienen que hacer una salvación básica de Reflejos; con un fallo crítico, una criatura sufre también 1 daño persistente por ácido.
+
+**Potenciado (+2)**
+
+El daño inicial se incrementa en 1d8 y el daño persistente en un fallo crítico se incrementa en 1.
