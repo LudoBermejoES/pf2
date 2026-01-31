@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /dotes/habilidad/sentido-arcano/
+title: Sentido arcano
+chapter: Dotes
+category: dotes
+habilidad: Arcanos
+level: 1
+---
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
+
+**Prerrequisitos:** rango entrenado en Arcanos
+
+Tu estudio de la magia te permite notar su presencia de forma instintiva. Puedes lanzar detectar magia a 1.er rango a voluntad como un conjuro innato arcano. Si tienes el rango maestro en Arcanos, el conjuro se potencia a 3.er rango; si tienes el rango legendario, se potencia a 4.º rango.
+
+---

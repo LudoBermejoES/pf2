@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /dotes/habilidad/seguro/
+title: Seguro
+chapter: Dotes
+category: dotes
+habilidad: Dotes de Habilidad Generales
+level: 1
+---
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Fortuna</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
+
+**Prerrequisitos:** entrenado en por lo menos una habilidad
+
+Incluso en las peores circunstancias, puedes llevar a cabo tareas basicas. Elige una habilidad en la que estas entrenado. En lugar de hacer una prueba de habilidad para la misma, puedes aplicar el resultado de 10 + tu modificador por competencia (no apliques ningún otro bonificador, penalizador ni modificador).
+
+**Especial:** Puedes seleccionar esta dote en multiples ocasiones. Cada vez, elige una habilidad diferente para obtener los beneficios aplicables a la misma.
+
+---

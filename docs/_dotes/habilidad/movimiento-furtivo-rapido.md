@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /dotes/habilidad/movimiento-furtivo-rapido/
+title: Movimiento furtivo rapido
+chapter: Dotes
+category: dotes
+habilidad: Sigilo
+level: 7
+---
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
+
+**Prerrequisitos:** rango maestro en Sigilo
+
+Te puedes mover a Velocidad completa cuando Mueves furtivamente. Puedes utilizar Movimiento furtivo rapido mientras Excavas, Trepas, Vuelas o Nadas en lugar de dar Zancadas, si dispones del correspondiente tipo de movimiento.
+
+---

@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /dotes/habilidad/equilibrio-firme/
+title: Equilibrio firme
+chapter: Dotes
+category: dotes
+habilidad: Acrobacias
+level: 1
+---
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
+
+**Prerrequisitos:** rango entrenado en Acrobacias
+
+Puedes mantener facilmente el equilibrio, incluso en condiciones adversas. Siempre que obtienes un éxito utilizando la acción Mantener el equilibrio, en su lugar obtienes un éxito critico. No estas desprevenido mientras Mantienes el equilibrio en superficies estrechas y terreno desigual. Gracias a tu increible equilibrio, puedes hacer una prueba de Acrobacias en lugar de una salvación de Reflejos para Agarrarte a un saliente.
+
+---

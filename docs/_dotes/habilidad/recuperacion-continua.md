@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /dotes/habilidad/recuperacion-continua/
+title: Recuperación continua
+chapter: Dotes
+category: dotes
+habilidad: Medicina
+level: 2
+---
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
+
+**Prerrequisitos:** rango experto en Medicina
+
+Controlas celosamente los progresos de un paciente a fin de administrar su tratamiento con mayor rapidez. Cuando Tratas heridas, tu paciente queda inmune tan solo durante 10 minutos en lugar de 1 hora. Esto solo se aplica a tus actividades de Tratar heridas, no a ninguna otra que recibe el paciente.
+
+---
