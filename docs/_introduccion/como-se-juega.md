@@ -68,7 +68,7 @@ El bonificador por competencia se suma a casi todas las estadísticas del juego:
 - **Clase de Armadura** basada en tu competencia con la armadura
 - **CD de clase** para determinar la efectividad de tus habilidades
 
-A medida que un personaje sube de nivel, su bonificador por competencia aumenta automaticamente en todas las areas en las que esta entrenado o mejor. Esto refleja la creciente maestria del heroe a lo largo de su carrera.
+A medida que un personaje sube de nivel, su bonificador por competencia aumenta automaticamente en todas las areas en las que esta entrenado o mejor. Esto refleja la creciente maestria del héroe a lo largo de su carrera.
 
 ### Ejemplo de competencia
 

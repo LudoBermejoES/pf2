@@ -15,12 +15,12 @@ spell_level: 1
 <span class="trait-tag">Incapacitacion</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Mental</span>
-<span class="trait-tag">Sueno</span>
+<span class="trait-tag">sueño</span>
 </div>
 
 ---
 
-Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepción con éxito, lo que limita su utilidad en combate.
+Cada criatura en el area sentira sueño, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepción con éxito, lo que limita su utilidad en combate.
 
 **Éxito critico** La criatura no resulta afectada.
 

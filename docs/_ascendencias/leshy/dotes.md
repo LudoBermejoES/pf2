@@ -124,7 +124,7 @@ Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 
 Puedes revertir temporalmente a una forma menos visible sin disminuir tus sentidos.
 
-**Beneficio:** Adoptas la forma de un especimen ordinario del tipo de planta u hongo que mas se parece a ti, retornando a la apariencia de tu cuerpo antes de que tu espiritu se uniera a el. Por lo demás esto tiene los efectos de unirse con las plantas, excepto que tu tamaño sigue siendo Pequeno.
+**Beneficio:** Adoptas la forma de un especimen ordinario del tipo de planta u hongo que mas se parece a ti, retornando a la apariencia de tu cuerpo antes de que tu espíritu se uniera a el. Por lo demás esto tiene los efectos de unirse con las plantas, excepto que tu tamaño sigue siendo Pequeno.
 
 ---
 

@@ -194,7 +194,7 @@ Le tomas la medida a tu presa de un vistazo. Puedes utilizar Perseguir presa com
 
 ---
 
-## Terminos Clave
+## Términos Clave
 
 ### Aprovechar
 

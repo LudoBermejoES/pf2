@@ -261,7 +261,7 @@ Potencias tus ataques con energia vital. El numero de objetivos es igual al nume
 ---
 
 ## Inmolacion Divina ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Espiritu, Fuego, Manipular, Santificado
+**Rasgos:** Concentrar, Espíritu, Fuego, Manipular, Santificado
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
 **Defensa:** Reflejos
@@ -316,7 +316,7 @@ En asaltos subsiguientes, la primera vez que Mantengas el conjuro cada asalto, p
 ---
 
 ## Ira Divina ◆◆ [CONJURO 4]
-**Rasgos:** Concentrar, Espiritu, Manipular, Santificado
+**Rasgos:** Concentrar, Espíritu, Manipular, Santificado
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
 **Defensa:** Fortaleza
@@ -348,7 +348,7 @@ Liberas a quienes viajan junto a ti de los obstáculos del medio ambiente. Los o
 ---
 
 ## Lanza Divina ◆◆ [TRUCO 1]
-**Rasgos:** Ataque, Concentrar, Espiritu, Manipular, Santificado, Truco
+**Rasgos:** Ataque, Concentrar, Espíritu, Manipular, Santificado, Truco
 **Tradiciones:** divina
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura
 **Defensa:** CA

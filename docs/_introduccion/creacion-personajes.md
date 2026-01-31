@@ -15,7 +15,7 @@ Los pasos de la creación de personaje se presentan en el orden sugerido, pero p
 
 ## Resumen de los 10 pasos
 
-1. **Crea un concepto** - Define que tipo de heroe quieres interpretar
+1. **Crea un concepto** - Define que tipo de héroe quieres interpretar
 2. **Empieza a construir modificadores por atributo** - Todos empiezan en +0
 3. **Selecciona una ascendencia** - Puntos de Golpe, mejoras/defectos, herencia, dote
 4. **Elige un bagaje** - Mejoras de atributo, habilidad especifica, Saber, dote de habilidad
@@ -24,17 +24,17 @@ Los pasos de la creación de personaje se presentan en el orden sugerido, pero p
 7. **Anota los detalles de tu clase** - PG, competencias, habilidades, dotes de clase
 8. **Comprar equipo** - 15 po iniciales (150 pp)
 9. **Calcula modificadores** - Percepción, Tiradas de salvación, Golpes, Habilidades
-10. **Detalles de acabado** - Edictos/Anatemas, Dios, Edad, Genero, CD de clase, Puntos de heroe, CA, Impedimenta
+10. **Detalles de acabado** - Edictos/Anatemas, Dios, Edad, Genero, CD de clase, Puntos de héroe, CA, Impedimenta
 
 ---
 
 ## Paso 1: Crea un concepto
 
-Que tipo de heroe quieres interpretar? La respuesta a esta pregunta podría ser tan simple como "un valeroso combatiente", o tan complicada como "el hijo de unos vagabundos elfos, criado en una ciudad dominada por humanos y devoto de Sarenrae, diosa del sol". Considera la personalidad de tu personaje, anota unos cuantos detalles acerca de su pasado y piensa en como y por que sale de aventuras.
+Que tipo de héroe quieres interpretar? La respuesta a esta pregunta podría ser tan simple como "un valeroso combatiente", o tan complicada como "el hijo de unos vagabundos elfos, criado en una ciudad dominada por humanos y devoto de Sarenrae, diosa del sol". Considera la personalidad de tu personaje, anota unos cuantos detalles acerca de su pasado y piensa en como y por que sale de aventuras.
 
 Te interesara consultar las ascendencias, los bagajes y las clases disponibles en Pathfinder. Antes de que empiece una partida, suele ser una buena idea que los jugadores comenten entre si como se han conocido sus personajes y como piensan trabajar juntos a lo largo de sus aventuras.
 
-Cada jugador adopta una aproximacion diferente a la creación de personaje. Algunos quieren uno que encaje bien en el relato, mientras que otros buscan una combinacion de aptitudes que se complementen entre si mecanicamente. En tu caso, podrías querer combinar ambas aproximaciones. Cualquiera de ellas esta bien.
+Cada jugador adopta una aproximacion diferente a la creación de personaje. Algunos quieren uno que encaje bien en el relato, mientras que otros buscan una combinación de aptitudes que se complementen entre si mecanicamente. En tu caso, podrías querer combinar ambas aproximaciones. Cualquiera de ellas esta bien.
 
 ### Fuentes de inspiracion
 
@@ -86,7 +86,7 @@ La ascendencia determina el tamaño, la Velocidad y los idiomas de tu personaje,
 1. **Elige la ascendencia en si**
 2. **Selecciona una herencia** de las disponibles para dicha ascendencia, lo que definira aun mas los rasgos con los que nacio tu personaje
 3. **Asigna cualquier mejora de atributo gratuita** y decide si vas a adoptar algún defecto voluntario
-4. **Elige una dote de ascendencia**, lo que representa una aptitud que tu heroe aprendio a temprana edad
+4. **Elige una dote de ascendencia**, lo que representa una aptitud que tu héroe aprendio a temprana edad
 
 ### Ascendencias disponibles
 
@@ -290,11 +290,11 @@ Una CD de clase fija la dificultad de ciertas aptitudes concedida por tu clase d
 
 **CD de clase = 10 + bonificador por competencia para su CD de clase (+3 para la mayoría de personajes de 1er nivel) + modificador por atributo clave de la clase**
 
-### Puntos de heroe
+### Puntos de héroe
 
-Tu personaje suele empezar cada sesion de juego con **1 punto de heroe**, y puedes obtener Puntos de Heroe adicionales durante las sesiones llevando a cabo gestas heroicas o ingeniandote estrategias inteligentes.
+Tu personaje suele empezar cada sesion de juego con **1 punto de héroe**, y puedes obtener Puntos de Héroe adicionales durante las sesiones llevando a cabo gestas heroicas o ingeniandote estrategias inteligentes.
 
-Tu personaje puede utilizar los Puntos de Heroe para:
+Tu personaje puede utilizar los Puntos de Héroe para:
 - Repetir una tirada de d20
 - Esquivar la muerte
 
@@ -328,7 +328,7 @@ Adam consulta la entrada sobre los enanos. Anota las mejoras de atributo a sus m
 
 Para su mejora de atributo gratuita, elige Destreza a fin de reforzar sus defensas, lo que hace que suba tambien a +1. Tambien anota los 10 Puntos de Golpe que su ascendencia le otorga.
 
-A continuación, vuelve a su hoja de personaje para anotar el tamaño, la Velocidad, el idioma y la aptitud de vision en la oscuridad que obtiene gracias a ser un enano. Por ultimo, se decide sobre una herencia, anotando "enano de la roca" junto a enano, y elige una dote de ascendencia, decidiendose por Corredor de las rocas, para mostrar la fuerte conexion de su personaje con la piedra.
+A continuación, vuelve a su hoja de personaje para anotar el tamaño, la Velocidad, el idioma y la aptitud de vision en la oscuridad que obtiene gracias a ser un enano. Por ultimo, se decide sobre una herencia, anotando "enano de la roca" junto a enano, y elige una dote de ascendencia, decidiendose por Corredor de las rocas, para mostrar la fuerte conexión de su personaje con la piedra.
 
 **Modificadores tras Paso 3:**
 | Atributo | Modificador |

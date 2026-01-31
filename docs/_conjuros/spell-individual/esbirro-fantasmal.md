@@ -39,6 +39,6 @@ MEDIANO FUERZA Descerebrado
 
 **CA** 13; **Fort** +0, **Ref** +4, **Vol** +0
 
-**PG** 4; **Inmunidades** ataques no mágicos, enfermedad, espiritu, inconsciente, mental, paralisis, precision, veneno; **Resistencias** todo el dano 5 (excepto fuerza o toque fantasmal)
+**PG** 4; **Inmunidades** ataques no mágicos, enfermedad, espíritu, inconsciente, mental, paralisis, precision, veneno; **Resistencias** todo el dano 5 (excepto fuerza o toque fantasmal)
 
 **Velocidad** volar 30 pies (9 m)

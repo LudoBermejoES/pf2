@@ -202,7 +202,7 @@ Los eruditos de la magia coinciden ampliamente en que toda la existencia se comp
 
 Tambien llamada cuerpo, esencia material o esencia fisica, la materia es la base fundamental que conforma todas las cosas físicas del universo. Las tradiciones arcana y primigenia estan especialmente adaptadas a manipular y dar forma a la materia.
 
-### Espiritu (alma, esencia eterea)
+### Espíritu (alma, esencia eterea)
 
 Tambien denominado alma, esencia eterea o esencia espiritual, el espíritu es una base de otro mundo que permite construir el yo inmaterial e inmortal de un ser. El espíritu viaja a traves del Plano Etereo hasta el Gran Mas Alla tras la muerte del cuerpo fisico. El espíritu resulta afectado mas facilmente por los conjuros divinos y ocultistas.
 
@@ -210,7 +210,7 @@ Tambien denominado alma, esencia eterea o esencia espiritual, el espíritu es un
 
 Tambien llamada pensamiento, esencia mental o esencia astral, la mente es lo que permite a las criaturas pensantes tener pensamientos racionales, ideas, planes, logica y recuerdos. La mente toca incluso a las criaturas no inteligentes como los animales, aunque con una capacidad mas limitada. Los lanzadores de conjuros arcanos y ocultistas suelen sobresalir en los conjuros de la mente.
 
-### Vida (corazon, esencia vital)
+### Vida (corazón, esencia vital)
 
 Tambien llamada corazón, fe, instinto o esencia vital, la vida representa la fuerza animadora universal de todas las cosas. Si bien la materia proporciona los componentes base de un cuerpo, la vida es lo que lo mantiene vivo y en buen estado. Esta esencia es la responsable de las respuestas inconscientes y de las creencias, como por ejemplo los instintos ancestrales y la orientación divina. Las tradiciones divina y primigenia tienen poder sobre la vida.
 

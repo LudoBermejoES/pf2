@@ -8,7 +8,7 @@ nav_order: 1
 ancestry: Enano
 ---
 
-Los enanos tienen una bien merecida reputación como gente estoica y severa, pero tambien disponen de un celo desenfrenado y valoran profundamente la artesanía. Para un extraño, pueden parecer desconfiados y muy encerrados en sus respectivos clanes, pero para sus amigos y su familia, son calidos y solicitos. Si bien la confianza por parte de un enano es difícil de ganar, una vez conseguida es fuerte como el hierro.
+Los enanos tienen una bien merecida reputación como gente estoica y severa, pero tambien disponen de un celo desenfrenado y valoran profundamente la artesanía. Para un extraño, pueden parecer desconfiados y muy encerrados en sus respectivos clanes, pero para sus amigos y su familia, son cálidos y solicitos. Si bien la confianza por parte de un enano es difícil de ganar, una vez conseguida es fuerte como el hierro.
 
 > Si quieres interpretar a un personaje duro como el acero, un aventurero obstinado y constante, con una mezcla de dureza resistente y de sabiduría profunda, deberias interpretar a un enano.
 

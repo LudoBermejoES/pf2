@@ -493,7 +493,7 @@ Aprendes el conjuro de composición oda a ouroboros, que te permite evitar tempo
 
 ---
 
-### Sinfonia del Corazon Libre
+### Sinfonia del Corazón Libre
 **Dote 10**
 
 *Bardo*

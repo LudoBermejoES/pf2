@@ -12,7 +12,7 @@ spell_level: 5
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
-<span class="trait-tag">Espiritu</span>
+<span class="trait-tag">Espíritu</span>
 <span class="trait-tag">Fuego</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Santificado</span>
@@ -20,7 +20,7 @@ spell_level: 5
 
 ---
 
-Llamas divinas afectan a todas las criaturas en el interior del area. Dichas criaturas sufren 6d6 dano por fuego y 2d6 dano persistente por fuego. El poder divino de las llamas chamusca tambien el espiritu; una criatura sufre dano espiritual en lugar de dano por fuego de inmolacion divina si resulta mas dañino para la criatura (a determinar por el DJ).
+Llamas divinas afectan a todas las criaturas en el interior del area. Dichas criaturas sufren 6d6 dano por fuego y 2d6 dano persistente por fuego. El poder divino de las llamas chamusca tambien el espíritu; una criatura sufre dano espiritual en lugar de dano por fuego de inmolacion divina si resulta mas dañino para la criatura (a determinar por el DJ).
 
 **Éxito critico** La criatura no resulta afectada.
 

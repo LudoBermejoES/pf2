@@ -66,7 +66,7 @@ Las siguientes aptitudes que puedes elegir de la dote general Mascota se pueden 
 
 **Complice:** Tu familiar es tu socio en el delito. A pesar de ser un esbirro, obtiene 1 reacción al inicio de sus turnos, que tan solo puede utilizar para Prestarte ayuda en una prueba de habilidad de Engaño o de Latrocinio (sigue teniendo que prepararla para ayudarte de la forma habitual para la reacción Prestar ayuda). Tiene éxito automaticamente en su prueba de Prestar ayuda con dichas habilidades u obtiene automaticamente un éxito critico si tienes el rango maestro en la habilidad en cuestion.
 
-**Constructo:** Tu familiar tiene el rasgo constructo en lugar del rasgo animal. Es inmune a los ataques no letales, condenado, curacion, drenado, efectos de muerte, enfermedad, espiritu, fatigado, inconsciente, mareado, paralizado, vacío, veneno y vitalidad. Tu familiar ha de tener la aptitud de mascota recio para seleccionar esto.
+**Constructo:** Tu familiar tiene el rasgo constructo en lugar del rasgo animal. Es inmune a los ataques no letales, condenado, curacion, drenado, efectos de muerte, enfermedad, espíritu, fatigado, inconsciente, mareado, paralizado, vacío, veneno y vitalidad. Tu familiar ha de tener la aptitud de mascota recio para seleccionar esto.
 
 **Dragon:** Tu familiar tiene el rasgo dragon en lugar del rasgo animal.
 
@@ -116,7 +116,7 @@ Las aptitudes de amo te afectan principalmente a ti o a la magia que circula ent
 
 **Compartir sentidos:** Una vez cada 10 minutos, puedes usar una sola acción con el rasgo concentrar para proyectar tus sentidos a tu familiar. Cuando lo haces, pierdes toda la información sensorial de tu cuerpo, pero puedes sentir a traves del cuerpo de tu familiar hasta 1 minuto. Puedes Disipar este efecto.
 
-**Conexion de truco:** Puedes preparar un truco adicional o, si dispones de un repertorio, designar un truco que añadir a tu repertorio cada vez que seleccionas esta aptitud; puedes reconvertirlo, pero no tienes otra manera de cambiarlo. Tienes que ser capaz de preparar trucos o de añadirlos a tu repertorio para seleccionar esto.
+**Conexión de truco:** Puedes preparar un truco adicional o, si dispones de un repertorio, designar un truco que añadir a tu repertorio cada vez que seleccionas esta aptitud; puedes reconvertirlo, pero no tienes otra manera de cambiarlo. Tienes que ser capaz de preparar trucos o de añadirlos a tu repertorio para seleccionar esto.
 
 **Familiar restablecedor:** Una vez al dia, tu familiar puede utilizar 2 acciones con el rasgo concentrar para otorgarte parte de su energia y curarte. Tiene que estar en tu mismo espacio para hacerlo. Recuperas tantos puntos de Golpe como 1d8 veces la mitad de tu nivel (minimo 1d8).
 

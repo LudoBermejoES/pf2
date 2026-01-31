@@ -14,7 +14,7 @@ Los enanos se enorgullecen de la resiliencia de sus linajes. Elige una de entre 
 
 ## Enano de la forja
 
-Tienes una notable adaptación a los entornos calidos.
+Tienes una notable adaptación a los entornos cálidos.
 
 **Beneficio:** Obtienes resistencia al fuego igual a la mitad de tu nivel (minimo 1), y tratas los efectos del calor ambiental como si fueran un grado menos extremos (un calor increible se convierte en extremo, un calor extremo se convierte en severo, y así sucesivamente).
 

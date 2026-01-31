@@ -163,7 +163,7 @@ Los objetos hechos para criaturas mayores o menores tienen menor o mayor Impedim
 
 ### Impedimenta de las Monedas
 
-Las monedas son una forma popular de cambio debido a su portabilidad, pero aun así pueden llegar a pesar si llevas muchas. **Un millar de monedas de cualquier denominacion o combinacion de denominaciones cuenta como Impedimenta 1.**
+Las monedas son una forma popular de cambio debido a su portabilidad, pero aun así pueden llegar a pesar si llevas muchas. **Un millar de monedas de cualquier denominacion o combinación de denominaciones cuenta como Impedimenta 1.**
 
 Por lo general no es necesario determinar la Impedimenta de las monedas en fracciones de 1000; simplemente redondea hacia abajo las fracciones de 1000. En otras palabras, 100 monedas no cuentan como un objeto ligero y 1999 monedas son Impedimenta 1, no 2.
 
@@ -232,9 +232,9 @@ Una armadura de baja calidad tambien empeora en 2 el penalizador a las pruebas d
 
 ---
 
-## Objetos y Tamanos
+## Objetos y Tamaños
 
-Las reglas de Impedimenta de este capitulo son para criaturas Pequenas y Medianas, puesto que la mayor parte de las ascendencias son de dichos tamanos; sin embargo, otras ascendencias poco comunes y raras podrían ser mas grandes o mas pequenas y requerir objetos especialmente construidos para criaturas de dichos tamanos.
+Las reglas de Impedimenta de este capitulo son para criaturas Pequenas y Medianas, puesto que la mayor parte de las ascendencias son de dichos tamaños; sin embargo, otras ascendencias poco comunes y raras podrían ser mas grandes o mas pequenas y requerir objetos especialmente construidos para criaturas de dichos tamaños.
 
 Las criaturas grandes pueden llevar mas carga y las criaturas pequenas pueden llevar menos.
 
@@ -252,7 +252,7 @@ Una criatura Menuda trata 10 objetos de Impedimenta insignificante como Impedime
 | Enorme | x4 | Imp. 2 | Imp. 1 |
 | Gargantuesco | x8 | Imp. 4 | Imp. 2 |
 
-### Objetos de Diferentes Tamanos
+### Objetos de Diferentes Tamaños
 
 Las criaturas de tamaño distinto a Pequeno o Mediano necesitan objetos apropiados a su tamaño. Dichos objetos tienen Impedimenta diferente y probablemente un Precio diferente.
 

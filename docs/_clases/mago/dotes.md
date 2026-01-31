@@ -402,7 +402,7 @@ Si tienes la tesis arcana sustitución de conjuro, en su lugar puedes preparar u
 
 ## Dotes de Nivel 20
 
-### Combinacion de Conjuros
+### Combinación de Conjuros
 
 **Nivel 20** | **Rasgos:** Mago
 
@@ -444,7 +444,7 @@ Has dominado los secretos mas grandes de la magia arcana. Obtienes un espacio de
 |------|-------|
 | Ablacion de energia | 2 |
 | Adepto de los pergaminos | 10 |
-| Combinacion de conjuros | 20 |
+| Combinación de conjuros | 20 |
 | Concentracion sin esfuerzo | 16 |
 | Conjuro brillante | 16 |
 | Conjuro de alcance | 1 |

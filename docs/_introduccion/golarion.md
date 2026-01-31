@@ -90,7 +90,7 @@ Esta region incluye Cala Sangrienta, un refugio de piratas de todo el mar Interi
 
 **Tema:** Horror y guerra
 
-El Ojo del Terror es una tierra empapada en sangre. Desde los primeros dias tras de la Gran Caída, en que las hordas de orcos surgieron de túneles subterraneos por delante de sus enemigos enanos, la region ha estado plagada por el conflicto y la carniceria. El infame liche Tar-Baphon, conocido como el Tirano Susurrante, ha alzado aqui ejercitos de muertos vivientes hasta tres veces; ha sido repelido dos veces por grupos de heroes, pero esta por ver que se le pueda abatir una vez mas.
+El Ojo del Terror es una tierra empapada en sangre. Desde los primeros dias tras de la Gran Caída, en que las hordas de orcos surgieron de túneles subterraneos por delante de sus enemigos enanos, la region ha estado plagada por el conflicto y la carniceria. El infame liche Tar-Baphon, conocido como el Tirano Susurrante, ha alzado aqui ejércitos de muertos vivientes hasta tres veces; ha sido repelido dos veces por grupos de heroes, pero esta por ver que se le pueda abatir una vez mas.
 
 Esta region incluye Belkzen, el hogar de las hordas de orcos que recientemente se unieron bajo la amenaza de Tar-Baphon; las Tierras de las Sepulturas, antiguamente la nación de Ultima Muralla a la que Tar-Baphon destruyo completamente hace pocos anos; el Ojo del Terror, la isla en que Tar-Baphon ha establecido su guarida; Molthune, una nación militarista y ultranacionalista que recientemente ha sufrido unos cuantos golpes en su orgullo; Nirmathas, una region ferozmente independiente que libra un precario combate por su supervivencia; Oprak, una nación recien fundada por hobgoblins y otras criaturas a menudo consideradas "monstruos"; y Ustalav, una nación macabra y embrujada llena de fantasmas, licantropos, vampiros y otras criaturas de la noche.
 
@@ -98,13 +98,13 @@ Esta region incluye Belkzen, el hogar de las hordas de orcos que recientemente s
 - Un vastago noble y condenado de Ustalav, que busca acabar con la maldición de su familia antes de que se cobre su vida.
 - Un inventor exiliado, a quien se evita debido a sus incursiones en las nuevas tecnologias y su aun no explotado potencial.
 - Un cruzado contra las hordas de muertos vivientes, rezando porque su recien hallada camaraderia y el Juramento Carmesi que hizo le mantengan seguro, o por lo menos hagan que su muerte sea rapida y limpia.
-- Un adusto campeon orco, veterano de las guerras contra la humanidad, y encargado ahora de forjar alianzas y realizar avances con la gente a la que antano desprecio.
+- Un adusto campeon orco, veterano de las guerras contra la humanidad, y encargado ahora de forjar alianzas y realizar avances con la gente a la que antaño desprecio.
 
 ### 6. Los Reinos Brillantes
 
 **Tema:** Caballeros, concilios y castillos
 
-Los relatos de caballeros galantes y dragones que escupen fuego son el signo de los tiempos de esta tierra, aunque en estos dias los dragones escasean y los caballeros son mucho mas mundanos y desagradables. Aunque no alberga las naciones mas poderosas, la influencia de esta region no se puede ignorar. Sus ejercitos han marchado para enfrentarse a algunas de las amenazas mas temibles que la Region del mar Interior haya visto jamas, mientras que los eruditos de sus ciudades extienden sus ideologias por todo el mundo, desde conmovedores apoyos a la democracia hasta la justicia sangrienta y la rebelion.
+Los relatos de caballeros galantes y dragones que escupen fuego son el signo de los tiempos de esta tierra, aunque en estos dias los dragones escasean y los caballeros son mucho mas mundanos y desagradables. Aunque no alberga las naciones mas poderosas, la influencia de esta region no se puede ignorar. Sus ejércitos han marchado para enfrentarse a algunas de las amenazas mas temibles que la Region del mar Interior haya visto jamas, mientras que los eruditos de sus ciudades extienden sus ideologias por todo el mundo, desde conmovedores apoyos a la democracia hasta la justicia sangrienta y la rebelion.
 
 Esta region incluye Andoran, un bastion del gobierno democratico y la libertad para todos; Druma, un centro comercial obsesionado con las ganancias materiales; las Montanas de los Cinco Reyes, que albergan los fracturados reinos de los enanos; Galt, una tierra azotada por la violencia y la revolucion; Kyonin el hogar de los elfos, protegido por ilusiones; y Taldor, los restos osificados de uno de los imperios mas poderosos del Mar Interior.
 
@@ -148,7 +148,7 @@ Esta region incluye Alkenstar, una ciudad tecnologica ubicada en una region dond
 
 La civilización esta desconectada de las Tierras Quebradas, estando una y otras separadas por millas de un terreno brutal. En algunas naciones, estos paisajes son simplemente tierras virgenes, llenas de adversidades que otras tierras han olvidado: rios caudalosos y terreno abrupto, donde los colonos se han de enfrentar a inviernos rigurosos y a animales salvajes para sobrevivir. En otras naciones, el entorno esta plagado de peligros antinaturales, como por ejemplo legiones dispersas de demonios abandonados o bien horrores metalicos caidos de las estrellas.
 
-Esta region incluye Brevoy, una nación antano unida por un conquistador montado en un dragon pero que ahora se halla al borde de la guerra civil; Mendev, una nación de cruzados que lucha contra los restos de multiples ejercitos demoniacos; Numeria, un territorio abrupto plagado por horrores roboticos de un navio espacial estrellado; Razmiran, una teocracia explotadora dirigida por un dios viviente; los Reinos Fluviales, una region sin ley donde los reinos se alzan y caen ano tras ano; y la Cicatriz de Sarkoris, una tierra asolada por los demonios, que ha obtenido recientemente una chispa de esperanza, la de poder verse restaurada algún dia.
+Esta region incluye Brevoy, una nación antaño unida por un conquistador montado en un dragon pero que ahora se halla al borde de la guerra civil; Mendev, una nación de cruzados que lucha contra los restos de multiples ejércitos demoniacos; Numeria, un territorio abrupto plagado por horrores roboticos de un navio espacial estrellado; Razmiran, una teocracia explotadora dirigida por un dios viviente; los Reinos Fluviales, una region sin ley donde los reinos se alzan y caen ano tras ano; y la Cicatriz de Sarkoris, una tierra asolada por los demonios, que ha obtenido recientemente una chispa de esperanza, la de poder verse restaurada algún dia.
 
 **Ejemplos de personaje:**
 - Un matador de demonios con heridas de guerra, veterano de una cruzada contra las Fisuras Exteriores que duro mas de cien anos.
@@ -161,7 +161,7 @@ Esta region incluye Brevoy, una nación antano unida por un conquistador montado
 
 **Tema:** Corrupcion politica y espiritual
 
-La nación de Cheliax es el Infierno en la tierra. Tras la muerte de Aroden, una guerra civil entre nobles vio como la Casa Thrune se alzaba triunfante, pero su victoria la sello un trato con los diablos. El que antano fuera uno de los mayores imperios humanos de Golarion ha declinado en una tirania de puno de hierro, que aplasta cualquier disension con la toda la fuerza del estado.
+La nación de Cheliax es el Infierno en la tierra. Tras la muerte de Aroden, una guerra civil entre nobles vio como la Casa Thrune se alzaba triunfante, pero su victoria la sello un trato con los diablos. El que antaño fuera uno de los mayores imperios humanos de Golarion ha declinado en una tirania de puno de hierro, que aplasta cualquier disension con la toda la fuerza del estado.
 
 Sus aliados incluyen la nación de Nidal, un pais que se entrego al dios de la oscuridad y del dolor para sobrevivir a un apocalipsis. Sin embargo, tan retorcidos reinos no carecen de desafios, puesto que la rebelion continua fermentando debido a sus crueldades.
 
@@ -169,7 +169,7 @@ Esta region incluye Cheliax, un imperio condenado cuyos lideres se han compromet
 
 **Ejemplos de personaje:**
 - Un mediano rebelde que utiliza su estatus como miembro de una clase marginal ignorada para espiar a sus amos en beneficio de los luchadores de la libertad.
-- Un seguidor secreto de Desna, la diosa de la suerte y de los suenos, que predica en Nidal evitando llamar la atencion de los sacerdotes sombrios del pais.
+- Un seguidor secreto de Desna, la diosa de la suerte y de los sueños, que predica en Nidal evitando llamar la atencion de los sacerdotes sombrios del pais.
 - Un noble de Cheliax, que firmo un contrato con el diablo en su juventud y esta empezando a tener remordimientos.
 - Un nativo de Nidal, a quien su dios patron Zon-Kuthon ha concedido poderes sobre la oscuridad, tanto si le adora como si no.
 

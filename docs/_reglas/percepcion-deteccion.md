@@ -55,7 +55,7 @@ Las reglas de Pathfinder suponen que una criatura determinada tiene la vista com
 >
 > La habilidad Sigilo esta disenada para utilizar Esconderse con el fin de evitar la detección visual y Evitar ser visto y Movimiento furtivo para evitar que la vean y la oigan. Para muchos sentidos especiales, un jugador puede describir como evita la detección mediante dicho sentido especial y utilizar la acción de Sigilo mas aplicable. Por ejemplo una criatura dando pasos suaves para evitar que la detecten mediante el sentido de la vibración, estaria utilizando Movimiento furtivo.
 >
-> En algunos casos, hacer una prueba de Sigilo basada en la Destreza para el Movimiento furtivo no tiene demasiado sentido. Por ejemplo, un PJ que intenta evitar ser detectado por una criatura que nota los latidos del corazon podría meditar para reducir su ritmo cardiaco, utilizando Sabiduría en lugar de Destreza para su prueba de Movimiento furtivo. Cuando una criatura te puede detectar utilizando multiples y diferentes sentidos, utiliza tu bonificador por atributo aplicable mas bajo.
+> En algunos casos, hacer una prueba de Sigilo basada en la Destreza para el Movimiento furtivo no tiene demasiado sentido. Por ejemplo, un PJ que intenta evitar ser detectado por una criatura que nota los latidos del corazón podría meditar para reducir su ritmo cardiaco, utilizando Sabiduría en lugar de Destreza para su prueba de Movimiento furtivo. Cuando una criatura te puede detectar utilizando multiples y diferentes sentidos, utiliza tu bonificador por atributo aplicable mas bajo.
 
 ## Sentidos especiales
 
@@ -93,7 +93,7 @@ En la mayoría de circunstancias, puedes sentir a las criaturas sin dificultad y
 
 ### Escondido
 
-Una criatura escondida es minimamente perceptible. Sabes que espacio ocupa, pero poco mas. Quizá la criatura acaba de ponerse a cubierto y ha utilizado con éxito la acción Esconderse. Tu objetivo puede estar tras una catarata, donde puedes ver algo de movimiento pero no puedes determinar una ubicacion exacta. Quizá has sido cegado o la criatura es invisible, pero utilizaste la acción basica Buscar para determinar su ubicacion general basándote solo en el oido. Sean cuales sean los puntos específicos, estas desprevenido ante una criatura escondida.
+Una criatura escondida es minimamente perceptible. Sabes que espacio ocupa, pero poco mas. Quizá la criatura acaba de ponerse a cubierto y ha utilizado con éxito la acción Esconderse. Tu objetivo puede estar tras una catarata, donde puedes ver algo de movimiento pero no puedes determinar una ubicación exacta. Quizá has sido cegado o la criatura es invisible, pero utilizaste la acción basica Buscar para determinar su ubicación general basándote solo en el oido. Sean cuales sean los puntos específicos, estas desprevenido ante una criatura escondida.
 
 Cuando designas como objetivo a una criatura escondida, antes de tirar para determinar tu efecto tienes que hacer una prueba plana CD 11. Si fallas, no afectas a la criatura, aunque las acciones utilizadas se siguen gastando, así como cualquier espacio de conjuro, coste y otros recursos. Estas desprevenido ante la criatura, tanto si has conseguido designarla como objetivo como si no.
 

@@ -125,7 +125,7 @@ Las tiradas de salvación de Reflejos miden lo bien y lo rapidamente que respond
 
 ### Salvación de Voluntad
 
-Las tiradas de salvación de Voluntad miden lo bien que puedes resistir ataques contra la mente y el espiritu. Utilizan tu modificador por Sabiduría.
+Las tiradas de salvación de Voluntad miden lo bien que puedes resistir ataques contra la mente y el espíritu. Utilizan tu modificador por Sabiduría.
 
 > **Resultado de la salvación de Voluntad** = tirada d20 + modificador por Sabiduría + bonificador por competencia + otros bonificadores + penalizadores
 

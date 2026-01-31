@@ -13,12 +13,12 @@ spell_level: 6
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
-<span class="trait-tag">Espiritu</span>
+<span class="trait-tag">Espíritu</span>
 <span class="trait-tag">Manipular</span>
 </div>
 
 ---
 
-Concentras energia eterea y atacas al espiritu de la criatura, infligiendo 16d6 dano espiritual con una salvación basica de Fortaleza.
+Concentras energia eterea y atacas al espíritu de la criatura, infligiendo 16d6 dano espiritual con una salvación basica de Fortaleza.
 
 **Potenciado (+1)** El dano se incrementa en 2d6.

@@ -55,7 +55,7 @@ Algunas acciones requieren mas tiempo y consumen multiples acciones:
 |-----------|-------|-------------|
 | Lanzar un conjuro | Variable (1-3) | Segun el conjuro |
 | Cargar | 2 acciones | Moverte el doble de tu Velocidad |
-| Levantarse y moverse | 2 acciones | Combinacion de acciones |
+| Levantarse y moverse | 2 acciones | Combinación de acciones |
 | Preparar | 2 acciones | Preparar una acción para un desencadenante |
 
 ### Acciones gratuitas

@@ -120,7 +120,7 @@ PC = poco comun.
 - **[Lentificar](/conjuros/lentificar/) P** Haces que una criatura sea mas lenta, reduciendo sus acciones.
 - **[Levitar](/conjuros/levitar/) ** Haces flotar un objeto o criatura unos cuantos pies (1 pie = 30 cm) por encima del suelo.
 - **[LocalizarP, PC](/conjuros/localizarp,-pc/) ** Averiguas la dirección hasta un objeto.
-- **[Mensaje onirico](/conjuros/mensaje-onirico/) P** Envias un mensaje que llega dentro de un sueno.
+- **[Mensaje onirico](/conjuros/mensaje-onirico/) P** Envias un mensaje que llega dentro de un sueño.
 - **[Paralizar](/conjuros/paralizar/) P** Inmovilizas a una criatura donde esta.
 - **[Tanido de la verdadPC](/conjuros/tanido-de-la-verdadpc/) ** Haces sonar una campana cuando se dice la verdad.
 - **[Velo de privacidadPC](/conjuros/velo-de-privacidadpc/) ** Proteges a una criatura u objeto de la detección magica.

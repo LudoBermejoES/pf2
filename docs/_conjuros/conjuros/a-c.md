@@ -65,7 +65,7 @@ Te proteges a ti mismo con una energia magica brillante, obteniendo un bonificad
 ---
 
 ## Armamento Espiritual ◆◆ [CONJURO 2]
-**Rasgos:** concentrar, espiritu, manipular, santificado
+**Rasgos:** concentrar, espíritu, manipular, santificado
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Defensa:** CA; **Duracion:** mantenido hasta 1 minuto
@@ -348,7 +348,7 @@ El interior contiene tres catres, un orinal y una fogata pequeña que alberga un
 
 Concedes al cadaver objetivo una semblanza de vida, que utiliza para responder a las 3 preguntas que se le formulan. Este conjuro recupera los recuerdos latentes del cuerpo fisico en lugar de convocar el alma del fallecido, por lo que el cadaver tiene que estar bastante intacto para que el conjuro funcione. Cuanto mas daño ha sufrido el cadaver, mas inexactas o heterogéneas son sus respuestas, y tiene que disponer de una garganta y una boca para hablar. Si alguien ha lanzado previamente este conjuro sobre el cadaver durante la ultima semana, el conjuro falla automaticamente. El cadaver puede hacer una salvación de Voluntad para resistirse a responder las preguntas utilizando las estadísticas de la criatura original en el momento de su muerte, con los siguientes efectos.
 
-**Éxito critico** El objetivo puede mentir o negarse a contestar, y su espiritu te persigue durante 24 horas, irritandote y haciendo que seas incapaz de descansar durante ese tiempo.
+**Éxito critico** El objetivo puede mentir o negarse a contestar, y su espíritu te persigue durante 24 horas, irritandote y haciendo que seas incapaz de descansar durante ese tiempo.
 
 **Éxito** El objetivo puede proporcionar información falsa o negarse a contestar a tus preguntas.
 
@@ -681,9 +681,9 @@ Una vez has acabado tus acciones, el tiempo vuelve a fluir de nuevo para el rest
 
 En el ojo de tu mente, te reorientas magicamente. Sabes inmediatamente en que dirección esta el norte (si existe en tu ubicación actual), y puedes elegir una ubicación en la que estuviste en las ultimas 24 horas, averiguando en que dirección se encuentra.
 
-**Potenciado (3.º)** Puedes elegir una ubicacion en la que estuviste como máximo la semana pasada.
+**Potenciado (3.º)** Puedes elegir una ubicación en la que estuviste como máximo la semana pasada.
 
-**Potenciado (7.º)** Puedes elegir una ubicacion en la que has estado, sin importar el tiempo transcurrido.
+**Potenciado (7.º)** Puedes elegir una ubicación en la que has estado, sin importar el tiempo transcurrido.
 
 ---
 

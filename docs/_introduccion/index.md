@@ -23,5 +23,5 @@ Contenido del capítulo Introducción
 - [¿Qué es un juego de rol?]({{ '/introduccion/que-es-jdr/' | relative_url }})
 - [Religion]({{ '/introduccion/religion/' | relative_url }})
 - [Subir de Nivel]({{ '/introduccion/subir-nivel/' | relative_url }})
-- [Terminos Clave]({{ '/introduccion/terminos-clave/' | relative_url }})
+- [Términos Clave]({{ '/introduccion/terminos-clave/' | relative_url }})
 - [Tiempo Libre]({{ '/introduccion/tiempo-libre/' | relative_url }})

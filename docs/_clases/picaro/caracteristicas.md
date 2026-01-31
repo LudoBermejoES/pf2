@@ -35,7 +35,7 @@ class_name: Pícaro
 
 ---
 
-## Terminos Clave
+## Términos Clave
 
 A continuación hay algunos términos clave que aparecen en muchos rasgos de clase del picaro.
 

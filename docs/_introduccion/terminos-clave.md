@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/terminos-clave/
-title: Terminos Clave
+permalink: /introduccion/términos-clave/
+title: Términos Clave
 chapter: Introduccion
 category: introduccion
 nav_order: 0
 ---
 
-Existe cierta cantidad de terminos importantes que necesitas conocer para crear tu primer personaje o tu primera aventura.
+Existe cierta cantidad de términos importantes que necesitas conocer para crear tu primer personaje o tu primera aventura.
 
 ---
 

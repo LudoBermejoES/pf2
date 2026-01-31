@@ -21,7 +21,7 @@ Un ritual es un conjuro complejo y esoterico que todo el mundo puede lanzar. Se 
 | 4 | Asolar |
 | 4 | Crecimiento vegetal |
 | 4 | Expiar |
-| 5 | Llamar espiritu |
+| 5 | Llamar espíritu |
 | 5 | Resucitar |
 | 5 | Servidor planario |
 | 6 | Circulo de ligadura |
@@ -358,7 +358,7 @@ Trazas un circulo ritual y cuando el ritual se completa trasladas a todas las cr
 
 Puede haber un lanzador secundario ubicado en el lugar exacto del destino, en lugar de contigo en el punto de origen. Si el lanzador secundario en el destino tiene éxito en su prueba y tu obtienes un éxito, en su lugar el ritual es un éxito critico.
 
-**Éxito critico** Llegas al Plano previsto en el ultimo lugar en el que uno de los objetivos (a tu elección) estaba la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicacion aleatoria del mismo. El circulo permanece activo durante 1 minuto, durante el cual cualquier criatura transportada por el ritual puede volver al punto de origen con una sola acción, que tiene el rasgo concentrar.
+**Éxito critico** Llegas al Plano previsto en el ultimo lugar en el que uno de los objetivos (a tu elección) estaba la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicación aleatoria del mismo. El circulo permanece activo durante 1 minuto, durante el cual cualquier criatura transportada por el ritual puede volver al punto de origen con una sola acción, que tiene el rasgo concentrar.
 
 **Éxito** Igual que éxito critico, pero llegas a 1d10 x 25 millas (1 milla = 1,6 km) de tu destino.
 
@@ -468,9 +468,9 @@ Esto funciona como servidor plenario, excepto que creas un circulo feerico y lla
 
 ---
 
-## Llamar a un Espiritu [RITUAL 5]
+## Llamar a un Espíritu [RITUAL 5]
 
-**Rasgos:** Poco comun, espiritu
+**Rasgos:** Poco comun, espíritu
 
 **Lanzamiento:** 1 hora; **Coste:** velas e incienso raros por un valor total de 50 po
 
@@ -482,11 +482,11 @@ Esto funciona como servidor plenario, excepto que creas un circulo feerico y lla
 
 Desgarras el velo que lleva a la otra vida y llamas a un espíritu desde su lugar de reposo final. Tienes que llamar al espíritu por su nombre y proporcionar una conexión con el mismo, como por ejemplo una posesión, un vestido o una parte de su cadaver. Un espíritu que no quiera acudir a su llamada tendra que hacer una salvación de Voluntad para evitarlo; con un éxito critico, un espíritu bromista imita al espíritu al que quieres llamar. La CD de la salvación de Voluntad es 2 menos si nunca te has encontrado con el espíritu en vida. De una o de otra forma, el espíritu aparece como una forma menguada de la criatura a la que llamas. Cada minuto de la duración puedes formularle una pregunta. Podrá responder como le parezca o incluso negarse a responder. Si el espíritu no esta en la otra vida (por ejemplo, si es un muerto viviente), todos los resultados diferentes a fallo critico utilizan el efecto de fallo.
 
-**Éxito critico** El espiritu es particularmente cooperativo e, incluso si tiene serias razones para enganarte, sufre un penalizador -2 por circunstancia a sus pruebas de Engano.
+**Éxito critico** El espíritu es particularmente cooperativo e, incluso si tiene serias razones para enganarte, sufre un penalizador -2 por circunstancia a sus pruebas de Engano.
 
-**Éxito** Llamas al espiritu.
+**Éxito** Llamas al espíritu.
 
-**Fallo** No consigues llamar a un espiritu.
+**Fallo** No consigues llamar a un espíritu.
 
 **Fallo critico** Uno o mas espiritus malignos aparecen y atacan.
 
@@ -534,7 +534,7 @@ Tratas de llamar al alma del objetivo y devolverla a su cuerpo. Esto requiere qu
 
 **Fallo** Tu intento no tiene éxito.
 
-**Fallo critico** Algo va terriblemente mal: un espiritu maligno posee el cuerpo, el cadaver se transforma en un tipo especial de muerto viviente o el objetivo sufre algún destino peor.
+**Fallo critico** Algo va terriblemente mal: un espíritu maligno posee el cuerpo, el cadaver se transforma en un tipo especial de muerto viviente o el objetivo sufre algún destino peor.
 
 **Potenciado (6.o)** Puedes resucitar a un objetivo de hasta 12.o nivel, y el coste base es 125 po.
 

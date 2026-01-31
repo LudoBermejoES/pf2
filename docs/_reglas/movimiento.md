@@ -88,7 +88,7 @@ La mayor parte del movimiento de la partida se puede representar en una superfic
 
 ## Tamaño, espacio y alcance
 
-Las criaturas y los objetos de diferente tamaño ocupan diferentes cantidades de espacio. Los tamanos y los espacios que ocupan cada uno en un tablero se indican en la tabla Tamaño y alcance. La tabla tambien indica el alcance tipico para las criaturas de cada tamaño, tanto para las criaturas altas (la mayoría de bipedos) como para las largas (la mayoría de cuadrupedos).
+Las criaturas y los objetos de diferente tamaño ocupan diferentes cantidades de espacio. Los tamaños y los espacios que ocupan cada uno en un tablero se indican en la tabla Tamaño y alcance. La tabla tambien indica el alcance tipico para las criaturas de cada tamaño, tanto para las criaturas altas (la mayoría de bipedos) como para las largas (la mayoría de cuadrupedos).
 
 La entrada Espacio indica cuantos pies (metros) de lado tiene el espacio de la criatura, de manera que una criatura Grande llena un espacio de 10 x 10 pies (3 x 3 m), o 4 casillas del tablero (si necesitas medir en tres dimensiones, su espacio tambien tiene 10 pies [3 m] de altura). A veces parte de la criatura se extiende mas alla de su espacio, como por ejemplo si un pulpo gigante te esta agarrando con sus tentaculos. En dicho caso, el DJ suele permitir que ataques la parte extendida, incluso si tu alcance no llega hasta la parte principal de la criatura.
 
@@ -103,7 +103,7 @@ La entrada Espacio indica cuantos pies (metros) de lado tiene el espacio de la c
 | Enorme | 15 pies (4,5 m) | 15 pies (4,5 m) | 10 pies (3 m) |
 | Gargantuesco | 20 pies (6 m) o mas | 20 pies (6 m) | 15 pies (4,5 m) |
 
-Una criatura u objeto Pequeno o menor ocupa por lo menos 1 casilla en un tablero, y las criaturas de dichos tamanos no suelen compartir espacio excepto en situaciones como un PJ sobre una montura.
+Una criatura u objeto Pequeno o menor ocupa por lo menos 1 casilla en un tablero, y las criaturas de dichos tamaños no suelen compartir espacio excepto en situaciones como un PJ sobre una montura.
 
 Multiples criaturas Menudas pueden ocupar el mismo espacio. Por lo menos cuatro pueden caber en una sola casilla, aunque el DJ podría determinar que aun caben mas. Las criaturas Menudas pueden tambien compartir un espacio ocupado por una criatura mayor. Si el alcance de la criatura Menuda es 0 pies, tiene que compartir un espacio con una criatura para poder atacarla.
 
@@ -117,7 +117,7 @@ Puedes compartir espacio con una criatura tumbada si dicha criatura es voluntari
 
 ### Criaturas de diferente tamaño
 
-En la mayoría de casos, puedes atravesar el espacio de una criatura tres tamanos mayor que tu o mayor. Esto significa que una criatura Mediana puede atravesar el espacio de una criatura Gargantuesca y una criatura Pequena puede atravesar el espacio de una criatura Enorme o Gargantuesca. Igualmente, una criatura mayor puede atravesar el espacio de una criatura tres veces menor que si misma o mas pequena. Sigues sin poder acabar tu movimiento en un espacio ocupado por una criatura.
+En la mayoría de casos, puedes atravesar el espacio de una criatura tres tamaños mayor que tu o mayor. Esto significa que una criatura Mediana puede atravesar el espacio de una criatura Gargantuesca y una criatura Pequena puede atravesar el espacio de una criatura Enorme o Gargantuesca. Igualmente, una criatura mayor puede atravesar el espacio de una criatura tres veces menor que si misma o mas pequena. Sigues sin poder acabar tu movimiento en un espacio ocupado por una criatura.
 
 Las criaturas Menudas son una excepcion, igual que con compartir un espacio. Pueden atravesar los espacios de las criaturas e incluso acabar su movimiento allí. Similarmente, otras criaturas pueden atravesar y acabar su movimiento en el espacio de una criatura Menuda.
 

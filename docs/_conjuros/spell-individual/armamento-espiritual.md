@@ -13,7 +13,7 @@ spell_level: 2
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
-<span class="trait-tag">Espiritu</span>
+<span class="trait-tag">Espíritu</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Santificado</span>
 </div>

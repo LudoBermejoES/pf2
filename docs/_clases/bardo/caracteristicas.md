@@ -20,7 +20,7 @@ class_name: Bardo
 | 6 | Dote de bardo, dote de habilidad |
 | 7 | Conjuros de 4.o nivel, lanzador de conjuros experto, dote general, incremento de habilidad |
 | 8 | Dote de bardo, dote de habilidad |
-| 9 | Conjuros de 5.o nivel, dote de ascendencia, experiencia en Fortaleza, corazon del interprete, incremento de habilidad |
+| 9 | Conjuros de 5.o nivel, dote de ascendencia, experiencia en Fortaleza, corazón del interprete, incremento de habilidad |
 | 10 | Mejoras de atributo, dote de bardo, dote de habilidad |
 | 11 | Conjuros de 6.o nivel, experiencia en las armas de bardo, dote general, incremento de habilidad, sentidos vigilantes |
 | 12 | Dote de bardo, dote de habilidad |
@@ -28,7 +28,7 @@ class_name: Bardo
 | 14 | Dote de bardo, dote de habilidad |
 | 15 | Conjuros de 8.o nivel, mejoras de atributo, dote general, lanzador de conjuros maestro, incremento de habilidad |
 | 16 | Dote de bardo, dote de habilidad |
-| 17 | Conjuros de 9.o nivel, dote de ascendencia, corazon del interprete mayor, incremento de habilidad |
+| 17 | Conjuros de 9.o nivel, dote de ascendencia, corazón del interprete mayor, incremento de habilidad |
 | 18 | Dote de bardo, dote de habilidad |
 | 19 | Dote general, lanzador de conjuros legendario, obra maestra, incremento de habilidad |
 | 20 | Mejoras de atributo, dote de bardo, dote de habilidad |
@@ -202,7 +202,7 @@ Tus técnicas magicas se hacen mas fuertes. Tus rangos de competencia para los m
 
 Tu constitución fisica se ha vuelto mas recia a lo largo de tus aventuras. Tu rango de competencia para las salvaciones de Fortaleza se incrementa a experto.
 
-### Corazon del Interprete (9.o)
+### Corazón del Interprete (9.o)
 
 Las interpretaciones mayores requieren la comprensión de tu propia mente y una concentración exenta de fallos. Tu rango de competencia para las salvaciones de Voluntad se incrementa a maestro. Cuando obtienes un éxito en una salvación de Voluntad, en su lugar obtienes un éxito critico.
 
@@ -226,7 +226,7 @@ Has aprendido a infligir heridas mayores con las armas que conoces mejor. Inflig
 
 Pulsas los hilos de la magia como si fueran las cuerdas de un arpa. Tus rangos de competencia para los modificadores al ataque de conjuros y las CD de conjuros aumentan a maestro.
 
-### Corazon del Interprete Mayor (17.o)
+### Corazón del Interprete Mayor (17.o)
 
 Tus interpretaciones dan forma a la mente y hacen que las emociones florezcan; entender como hacer esto forja ademas una incomparable comprensión de tu propia mente. Tu rango de competencia para las salvaciones de Fortaleza se incrementa a legendario. Cuando sufres un fallo critico en una salvación de Voluntad, en su lugar sufres un fallo. Cuando fallas una salvación de Voluntad contra un efecto que inflige dano, sufres mitad de dano.
 
@@ -238,7 +238,7 @@ Has afinado tu lanzamiento de conjuros hasta el mayor de los calibres. Anade 2 c
 
 Tu dominio de la magia es de lo que estan hechas las leyendas. Tus rangos de competencia para los modificadores al ataque de conjuros y las CD de conjuros aumentan a legendario.
 
-## Terminos Clave
+## Términos Clave
 
 Veras aparecer los siguientes términos clave en muchos rasgos de la clase bardo.
 

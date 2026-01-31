@@ -16,7 +16,7 @@ Complete alphabetical index of all Pathfinder 2e spells with links to individual
 | [Arma Fantasmal](/conjuros/arma-fantasmal/) | 3 | concentrar, manipular | a-c.md |
 | [Arma Runica](/conjuros/arma-runica/) | 1 | concentrar, manipular | a-c.md |
 | [Armadura Mistica](/conjuros/armadura-mistica/) | 1 | concentrar, manipular | a-c.md |
-| [Armamento Espiritual](/conjuros/armamento-espiritual/) | 2 | concentrar, espiritu, manipular, santificado | a-c.md |
+| [Armamento Espiritual](/conjuros/armamento-espiritual/) | 2 | concentrar, espíritu, manipular, santificado | a-c.md |
 | [Arruinaconjuros](/conjuros/arruinaconjuros/) | 6 | concentrar, fuerza, maldición, manipular | a-c.md |
 | [Atadura Planaria](/conjuros/atadura-planaria/) | 4 | concentrar, manipular | a-c.md |
 | [Ataque de Risa](/conjuros/ataque-de-risa/) | 2 | concentrar, emocion, manipular, mental | a-c.md |
@@ -88,7 +88,7 @@ Complete alphabetical index of all Pathfinder 2e spells with links to individual
 | [Danar ◆ a](/conjuros/danar-a/) | 1 | Manipular, Vacío | d-f.md |
 | [Danza Incontrolable](/conjuros/danza-incontrolable/) | 8 | Concentrar, Incapacitacion, Manipular, Mental | d-f.md |
 | [Debilitar](/conjuros/debilitar/) | 1 | Concentrar, Manipular | d-f.md |
-| [Decreto Divino](/conjuros/decreto-divino/) | 7 | Concentrar, Espiritu, Manipular, Santificado | d-f.md |
+| [Decreto Divino](/conjuros/decreto-divino/) | 7 | Concentrar, Espíritu, Manipular, Santificado | d-f.md |
 | [Desangramiento Vampirico](/conjuros/desangramiento-vampirico/) | 6 | Concentrar, Manipular, Muerte, Vacío | d-f.md |
 | [Desaparicion](/conjuros/desaparicion/) | 8 | Ilusion, Manipular, Disimulado | d-f.md |
 | [Descarga de Fuerza ◆ a](/conjuros/descarga-de-fuerza-a/) | 1 | Concentrar, Fuerza, Manipular | d-f.md |
@@ -110,7 +110,7 @@ Complete alphabetical index of all Pathfinder 2e spells with links to individual
 | [Doble Enganoso](/conjuros/doble-enganoso/) | 6 | Concentrar, Ilusion, Manipular | d-f.md |
 | [Dolor Fantasmal](/conjuros/dolor-fantasmal/) | 1 | Concentrar, Ilusion, Manipular, Mental, No letal | d-f.md |
 | [Dominar](/conjuros/dominar/) | 6 | Poco comun, Concentrar, Incapacitacion, Manipular, Mental | d-f.md |
-| [Dormir](/conjuros/dormir/) | 1 | Concentrar, Incapacitacion, Manipular, Mental, Sueno | d-f.md |
+| [Dormir](/conjuros/dormir/) | 1 | Concentrar, Incapacitacion, Manipular, Mental, sueño | d-f.md |
 | [Duplicar Enemigo](/conjuros/duplicar-enemigo/) | 7 | Concentrar, Manipular | d-f.md |
 | [Egida de Energia](/conjuros/egida-de-energia/) | 7 | Concentrar, Manipular | d-f.md |
 | [Ejecutar](/conjuros/ejecutar/) | 7 | Concentrar, Manipular, Muerte, Vacío | d-f.md |
@@ -134,7 +134,7 @@ Complete alphabetical index of all Pathfinder 2e spells with links to individual
 | [Explosion de Eclipse](/conjuros/explosion-de-eclipse/) | 7 | Concentrar, Frio, Manipular, Oscuridad, Vacío | d-f.md |
 | [Explosion de Ruido](/conjuros/explosion-de-ruido/) | 2 | Concentrar, Manipular, Sonico | d-f.md |
 | [Explosion de Sombra](/conjuros/explosion-de-sombra/) | 5 | Concentrar, Manipular, Sombra | d-f.md |
-| [Explosion Espiritual](/conjuros/explosion-espiritual/) | 6 | Concentrar, Espiritu, Manipular | d-f.md |
+| [Explosion Espiritual](/conjuros/explosion-espiritual/) | 6 | Concentrar, Espíritu, Manipular | d-f.md |
 | [Explosion Solar](/conjuros/explosion-solar/) | 7 | Concentrar, Fuego, Luz, Manipular, Vitalidad | d-f.md |
 | [Fachada de Objeto](/conjuros/fachada-de-objeto/) | 1 | Concentrar, Ilusion, Manipular, Visual | d-f.md |
 | [Falsa Vision](/conjuros/falsa-vision/) | 5 | Poco comun, Concentrar, Ilusion, Manipular | d-f.md |
@@ -174,13 +174,13 @@ Complete alphabetical index of all Pathfinder 2e spells with links to individual
 | [Incrustar Mensaje](/conjuros/incrustar-mensaje/) | 2 | Concentrar, Ilusion, Manipular | g-m.md |
 | [Indestructibilidad](/conjuros/indestructibilidad/) | 10 | Concentrar, Manipular | g-m.md |
 | [Infundir Vitalidad ◆ a](/conjuros/infundir-vitalidad-a/) | 1 | Concentrar, Manipular, Vitalidad | g-m.md |
-| [Inmolacion Divina](/conjuros/inmolacion-divina/) | 5 | Concentrar, Espiritu, Fuego, Manipular, Santificado | g-m.md |
+| [Inmolacion Divina](/conjuros/inmolacion-divina/) | 5 | Concentrar, Espíritu, Fuego, Manipular, Santificado | g-m.md |
 | [Inspiracion Divina](/conjuros/inspiracion-divina/) | 8 | Concentrar, Manipular, Mental | g-m.md |
 | [Invisibilidad](/conjuros/invisibilidad/) | 2 | Ilusion, Manipular, Disimulado | g-m.md |
 | [Invocar Espiritus](/conjuros/invocar-espiritus/) | 5 | Concentrar, Emocion, Manipular, Mental, Miedo, Vacío | g-m.md |
-| [Ira Divina](/conjuros/ira-divina/) | 4 | Concentrar, Espiritu, Manipular, Santificado | g-m.md |
+| [Ira Divina](/conjuros/ira-divina/) | 4 | Concentrar, Espíritu, Manipular, Santificado | g-m.md |
 | [Jauria Indomita](/conjuros/jauria-indomita/) | 7 | Concentrar, Manipular | g-m.md |
-| [Lanza Divina](/conjuros/lanza-divina/) | TRUCO | Ataque, Concentrar, Espiritu, Manipular, Santificado, Truco | g-m.md |
+| [Lanza Divina](/conjuros/lanza-divina/) | TRUCO | Ataque, Concentrar, Espíritu, Manipular, Santificado, Truco | g-m.md |
 | [Leer Augurios](/conjuros/leer-augurios/) | 4 | Poco comun, Concentrar, Manipular, Predicción | g-m.md |
 | [Leer el Aura](/conjuros/leer-el-aura/) | TRUCO | Concentrar, Detección, Manipular, Truco | g-m.md |
 | [Leer la Mente](/conjuros/leer-la-mente/) | 3 | Poco comun, Concentrar, Detección, Manipular | g-m.md |
@@ -314,7 +314,7 @@ Complete alphabetical index of all Pathfinder 2e spells with links to individual
 | [Viento de Cola](/conjuros/viento-de-cola/) | TRUCO | Aire, Concentrar, Manipular | t-z.md |
 | [Vientos Castigadores](/conjuros/vientos-castigadores/) | 8 | Aire, Concentrar, Manipular | t-z.md |
 | [Vincular Muertos Vivientes](/conjuros/vincular-muertos-vivientes/) | 3 | Concentrar, Manipular | t-z.md |
-| [Vinculo Espiritual](/conjuros/vinculo-espiritual/) | 1 | Concentrar, Curar, Espiritu, Manipular | t-z.md |
+| [Vinculo Espiritual](/conjuros/vinculo-espiritual/) | 1 | Concentrar, Curar, Espíritu, Manipular | t-z.md |
 | [Virote Ardiente ◆ a](/conjuros/virote-ardiente-a/) | 2 | Ataque, Concentrar, Fuego, Manipular | t-z.md |
 | [Viruela de Goblin](/conjuros/viruela-de-goblin/) | 1 | Concentrar, Enfermedad, Manipular | t-z.md |
 | [Vision de la Muerte](/conjuros/vision-de-la-muerte/) | 4 | Concentrar, Muerte, Emocion, Miedo, Manipular, Mental | t-z.md |

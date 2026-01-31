@@ -87,7 +87,7 @@ Calistria es una diosa traviesa y mercurial de la atracción que se deleita enga
 
 ### Cayden Cailean
 
-**Heroe Borracho**
+**Héroe Borracho**
 
 El Dios Accidental ascendio de la vida mortal en un desafio de borracho. Cayden promueve la libertad y anima a otros a encontrar su propio camino en la vida. Lucha por las causas justas y se deleita en las mejores satisfacciones.
 
@@ -115,9 +115,9 @@ El Dios Accidental ascendio de la vida mortal en un desafio de borracho. Cayden 
 
 Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a los viajeros a traves de la oscuridad y a los sonadores a traves de las pesadillas. Se deleita en la libertad y el misterio, y anima a sus seguidores a hacer lo propio.
 
-- **Areas de interes:** estrellas, suenos, suerte y viajeros
+- **Areas de interes:** estrellas, sueños, suerte y viajeros
 - **Edictos:** ayudar a otros viajeros, buscar lo que la vida tiene para ofrecer, explorar nuevos lugares, expresarse mediante el arte y la canción
-- **Anatemas:** causar miedo o desesperacion, lanzar pesadilla o utilizar magia similar para corromper los suenos, tener un comportamiento intolerante
+- **Anatemas:** causar miedo o desesperacion, lanzar pesadilla o utilizar magia similar para corromper los sueños, tener un comportamiento intolerante
 - **Atributo divino:** Carisma o Destreza
 
 **Beneficios para los devotos:**
@@ -128,7 +128,7 @@ Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
 | Habilidad divina | Acrobacias |
-| Dominios | luna, suenos, suerte, viajes |
+| Dominios | luna, sueños, suerte, viajes |
 | Arma predilecta | cuchillo de estrella |
 
 ---
@@ -200,7 +200,7 @@ Quien busca la gloria en el campo de batalla reza plegarias a Nuestro Senor del 
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Atletismo |
-| Dominios | celo, confianza, destruccion, poder |
+| Dominios | celo, confianza, destrucción, poder |
 | Arma predilecta | mandoble |
 
 ---
@@ -236,7 +236,7 @@ Un dios de aspecto dual, Gozreh es el mar que encapsula la tierra y el viento qu
 Antes de su ascension y de heredar muchos adoradores del dios de la humanidad, Iomedae era una combatiente sagrada en las guerras contra los muertos vivientes. La Heredera defiende los valores de la virtud, luchando contra los malvados y los injustos.
 
 - **Areas de interes:** gobierno, honor, justicia y valor
-- **Edictos:** albergar valor en el corazon, ejercer la templanza, luchar por la justicia y el honor
+- **Edictos:** albergar valor en el corazón, ejercer la templanza, luchar por la justicia y el honor
 - **Anatemas:** abandonar a un companero que te necesita, deshonrarte a ti mismo, rehusar un desafio de un igual
 - **Atributo divino:** Fuerza o Constitución
 
@@ -260,7 +260,7 @@ Antes de su ascension y de heredar muchos adoradores del dios de la humanidad, I
 Como mortal, Irori alcanzo la autentica iluminacion, lo que le permitio liberarse de los grilletes de la mortalidad y alcanzar la divinidad. Como dios, es el Maestro de Maestros, promueve la disciplina y ensena que quien puede dominarse a si mismo encuentra los mayores beneficios que el mundo puede proporcionar.
 
 - **Areas de interes:** autoperfeccion, conocimiento e historia
-- **Edictos:** ayudar a otros a perfeccionarse a si mismos, practicar la disciplina, refinar cuerpo, mente y espiritu hasta un estado mas perfecto, ser humilde
+- **Edictos:** ayudar a otros a perfeccionarse a si mismos, practicar la disciplina, refinar cuerpo, mente y espíritu hasta un estado mas perfecto, ser humilde
 - **Anatemas:** destruir un texto historico importante, fracasar repetidamente en mantener el autocontrol, implicarse en comportamientos abiertamente poco saludables o autodestructivos
 - **Atributo divino:** Inteligencia o Sabiduría
 
@@ -320,7 +320,7 @@ Antiguamente un maestro mortal de la magia, Nethys busco desentranar todos los s
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Arcanos |
-| Dominios | conocimiento, destruccion, magia, protección |
+| Dominios | conocimiento, destrucción, magia, protección |
 | Arma predilecta | baston |
 
 ---
@@ -353,11 +353,11 @@ Esta sombria figura suele ser adorada en cuatro aspectos: Dedos Negros, aliado d
 
 **Bestia Agreste**
 
-Rovagug fue aprisionado hace mucho en el nucleo de Golarion a manos de otros muchos dioses trabajando de conjunto, y busca liberarse algún dia y desatar el caos sobre el mundo. Le sirven sus semillas y quienes buscan la destruccion definitiva de todas las cosas.
+Rovagug fue aprisionado hace mucho en el nucleo de Golarion a manos de otros muchos dioses trabajando de conjunto, y busca liberarse algún dia y desatar el caos sobre el mundo. Le sirven sus semillas y quienes buscan la destrucción definitiva de todas las cosas.
 
-- **Areas de interes:** desastre, destruccion e ira
+- **Areas de interes:** desastre, destrucción e ira
 - **Edictos:** destruir todas las cosas, liberar a Rovagug de su prision
-- **Anatemas:** crear algo nuevo, permitir que los lazos materiales te retengan, torturar a una victima o retrasar de alguna otra forma su destruccion
+- **Anatemas:** crear algo nuevo, permitir que los lazos materiales te retengan, torturar a una victima o retrasar de alguna otra forma su destrucción
 - **Atributo divino:** Fuerza o Constitución
 
 **Beneficios para los devotos:**
@@ -368,7 +368,7 @@ Rovagug fue aprisionado hace mucho en el nucleo de Golarion a manos de otros muc
 | Fuente divina | danar |
 | Santificacion divina | debe elegir sacrilega |
 | Habilidad divina | Atletismo |
-| Dominios | aire, cielo, destruccion, tierra |
+| Dominios | aire, cielo, destrucción, tierra |
 | Arma predilecta | gran hacha |
 
 ---
@@ -488,7 +488,7 @@ Antiguamente un dios del arte, la belleza y la musica como Shelyn, el Senor de l
 | Fuente divina | danar |
 | Santificacion divina | puede elegir sacrilega |
 | Habilidad divina | Intimidación |
-| Dominios | ambicion, destruccion, dolor, oscuridad |
+| Dominios | ambicion, destrucción, dolor, oscuridad |
 | Arma predilecta | cadena armada |
 
 ---
@@ -551,7 +551,7 @@ Los clérigos y algunos otros devotos pueden obtener conjuros de dominio de sus 
 | Creación | Tienes aptitudes divinas relacionadas con la artesanía y el arte. |
 | Curacion | Tu magia curativa es particularmente poderosa. |
 | Destino | Ves y entiendes inevitabilidades ocultas. |
-| Destruccion | Eres un conducto de la devastacion divina. |
+| Destrucción | Eres un conducto de la devastacion divina. |
 | Dolor | Castigas a quienes te molestan con el agudo aguijon del dolor. |
 | Familia | Ayudas y proteges a tu familia y a tu comunidad de forma mas efectiva. |
 | Fuego | Controlas las llamas. |
@@ -564,14 +564,14 @@ Los clérigos y algunos otros devotos pueden obtener conjuros de dominio de sus 
 | Naturaleza | Tienes poder sobre los animales y las plantas. |
 | Oscuridad | Funcionas en la oscuridad y te llevas la luz. |
 | Pasion | Evocas la pasion, ya se trate de amor o de lujuria. |
-| Perfeccion | Luchas para perfeccionar tu mente, tu cuerpo y tu espiritu. |
+| Perfeccion | Luchas para perfeccionar tu mente, tu cuerpo y tu espíritu. |
 | Pesadillas | Llenas las mentes de horror y miedo. |
 | Poder | Tu potencia fisica se ve reforzada por la fuerza divina. |
 | Protección | Te proteges a ti mismo y a otros. |
 | Riqueza | Tienes poder sobre la riqueza, el comercio y los tesoros. |
 | Secretos | Proteges secretos y los mantienes ocultos. |
 | Sol | Aprovechas el poder del sol y de otras fuentes de luz castigando a los muertos vivientes. |
-| Suenos | Tienes el poder de entrar en los suenos y manipularlos. |
+| sueños | Tienes el poder de entrar en los sueños y manipularlos. |
 | Suerte | Tienes una suerte que no es natural y que te mantiene apartado del peligro. |
 | Tierra | Controlas el suelo y la piedra. |
 | Tirania | Utilizas el poder para gobernar y esclavizar a otros. |

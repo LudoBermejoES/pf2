@@ -106,7 +106,7 @@ Tu oda mantiene a raya a la muerte. El estado moribundo del objetivo permanece 1
 
 ---
 
-## Sinfonia del Corazon Libre ◆◆ FOCO 5
+## Sinfonia del Corazón Libre ◆◆ FOCO 5
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Foco
 **Rango:** 30 pies (9 m); **Objetivos:** tu o 1 aliado
 

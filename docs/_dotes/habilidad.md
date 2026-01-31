@@ -52,7 +52,7 @@ Obtienes el rango entrenado en una habilidad a tu elección.
 
 **Prerrequisitos:** rango entrenado en Arcanos, Naturaleza, Ocultismo o Religion
 
-Puedes Identificar magia rapidamente. Solo tardas 1 minuto cuando utilizas Identificar magia para determinar las propiedades del objeto, efecto continuado o ubicacion, en lugar de 10 minutos. Si tienes el rango maestro, solo necesitas una actividad de 3 acciones y, si tienes el rango legendario, te basta con 1 acción.
+Puedes Identificar magia rapidamente. Solo tardas 1 minuto cuando utilizas Identificar magia para determinar las propiedades del objeto, efecto continuado o ubicación, en lugar de 10 minutos. Si tienes el rango maestro, solo necesitas una actividad de 3 acciones y, si tienes el rango legendario, te basta con 1 acción.
 
 ---
 
@@ -255,14 +255,14 @@ Dominas la preparacion de muchos tipos de comida y bebida. Obtienes un bonificad
 
 **Prerrequisitos:** rango entrenado en Artesanía
 
-Tu entrenamiento esta enfocado en la Artesanía de un tipo de objeto en particular. Selecciona una de las especialidades que se indican mas abajo; obtienes un bonificador +1 por circunstancia a las pruebas de Artesanía para Elaborar objetos de ese tipo. Si tienes el rango maestro en Artesanía, este bonificador se incrementa a +2. Si no queda claro si una especialidad es aplicable o no, quien decide es el DJ. Algunas especialidades podrían aplicarse tan solo parcialmente. Por ejemplo, si estuvieras construyendo un mangual y estuvieras especializado en carpinteria, el DJ podría concederte la mitad del bonificador puesto que el objeto requiere tanto herreria como carpinteria.
+Tu entrenamiento esta enfocado en la Artesanía de un tipo de objeto en particular. Selecciona una de las especialidades que se indican mas abajo; obtienes un bonificador +1 por circunstancia a las pruebas de Artesanía para Elaborar objetos de ese tipo. Si tienes el rango maestro en Artesanía, este bonificador se incrementa a +2. Si no queda claro si una especialidad es aplicable o no, quien decide es el DJ. Algunas especialidades podrían aplicarse tan solo parcialmente. Por ejemplo, si estuvieras construyendo un mangual y estuvieras especializado en carpintería, el DJ podría concederte la mitad del bonificador puesto que el objeto requiere tanto herreria como carpintería.
 
 | Especialidad | Objetos aplicables |
 |---|---|
 | Alquimia* | Sustancias alquímicas, como por ejemplo elixires |
 | Arte | Bellas artes, incluyendo joyeria |
 | Canteria | Objetos y estructuras de piedra |
-| Carpinteria | Objetos y estructuras de madera |
+| Carpintería | Objetos y estructuras de madera |
 | Ceramica | Objetos de ceramica |
 | Construccion naval | Navios y botes |
 | Curtiduria | Objetos de cuero, incluyendo armadura de cuero |
@@ -365,7 +365,7 @@ Puedes encontrar formas para elaborar casi cualquier cosa, a pesar de las restri
 
 **Prerrequisitos:** rango entrenado en Atletismo
 
-Puedes hacer pruebas de Desarmar, Agarrar, Reposicionar, Empujar o Derribar a criaturas de hasta 2 tamanos superiores al tuyo, o hasta 3 tamanos superiores al tuyo si tienes el rango legendario en Atletismo.
+Puedes hacer pruebas de Desarmar, Agarrar, Reposicionar, Empujar o Derribar a criaturas de hasta 2 tamaños superiores al tuyo, o hasta 3 tamaños superiores al tuyo si tienes el rango legendario en Atletismo.
 
 ---
 
@@ -714,7 +714,7 @@ Tienes un talento excepcional en un tipo de interpretación. Obtienes un bonific
 
 **Prerrequisitos:** rango legendario en Interpretación, Interprete virtuoso
 
-Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la habilidad Sociedad han oido hablar de ti y por lo general tienen una actitud hacia ti un paso mejor de lo normal, dependiendo de tu reputacion y de la disposicion de la criatura. Por ejemplo, si eres conocido por exhibir un comportamiento cruel y exigente, las criaturas podian verse intimidadas por ti, en lugar de ser amistosas hacia ti. Cuando Obtienes ingresos mediante la Interpretación, atraes audiencias de nivel mayor al que la ubicacion permitiria, puesto que las audiencias acuden a verte desde lugares lejanos. Por ejemplo, gobernantes y angeles podrían viajar hasta tu pequena torre de los bosques para oirte interpretar. Tipicamente, esto incrementa las audiencias disponibles hasta tu nivel o en 2 niveles, el mas alto de ambos valores.
+Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la habilidad Sociedad han oido hablar de ti y por lo general tienen una actitud hacia ti un paso mejor de lo normal, dependiendo de tu reputacion y de la disposicion de la criatura. Por ejemplo, si eres conocido por exhibir un comportamiento cruel y exigente, las criaturas podian verse intimidadas por ti, en lugar de ser amistosas hacia ti. Cuando Obtienes ingresos mediante la Interpretación, atraes audiencias de nivel mayor al que la ubicación permitiria, puesto que las audiencias acuden a verte desde lugares lejanos. Por ejemplo, gobernantes y angeles podrían viajar hasta tu pequena torre de los bosques para oirte interpretar. Tipicamente, esto incrementa las audiencias disponibles hasta tu nivel o en 2 niveles, el mas alto de ambos valores.
 
 ---
 
@@ -1326,7 +1326,7 @@ Tu habilidad con los idiomas y los codigos es tan grande que puedes descifrar in
 
 **Prerrequisitos:** rango legendario en Sociedad, Multilingue
 
-Eres tan habil con los idiomas que puedes crear una lengua franca instantaneamente. Siempre puedes hablar con cualquier criatura que tiene un idioma (incluso uno que tu no conoces) creando una nueva lengua franca que utiliza terminos simplificados y transmite conceptos básicos. Para hacerlo, primero tienes que entender que medio de comunicacion utiliza la criatura (el habla, un lenguaje de signos, etc.).
+Eres tan habil con los idiomas que puedes crear una lengua franca instantaneamente. Siempre puedes hablar con cualquier criatura que tiene un idioma (incluso uno que tu no conoces) creando una nueva lengua franca que utiliza términos simplificados y transmite conceptos básicos. Para hacerlo, primero tienes que entender que medio de comunicacion utiliza la criatura (el habla, un lenguaje de signos, etc.).
 
 ---
 

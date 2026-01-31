@@ -234,7 +234,7 @@ Has sido exaltado por tu dios y obtienes conjuros autenicamente sensacionales. O
 
 ---
 
-## Terminos Clave
+## Términos Clave
 
 ### Moldeo de Conjuros
 

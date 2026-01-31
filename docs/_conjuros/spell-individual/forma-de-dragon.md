@@ -32,7 +32,7 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
   - Cuerpo a cuerpo ◆ cola (alcance 10 pies [3 m]), Dano 3d10 contundente
 - Un modificador +9 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 - **Aliento de dragon** ◆◆ Exhalas energia magica letal en un area, infligiendo 10d6 dano a todas las criaturas en la misma, con una salvación basica contra tu CD de conjuro. La forma, tipo de dano y tipo de salvación son las correspondientes al aliento de dragon que has elegido. Si dicho aliento puede infligir mas de un tipo de dano, elige uno de ellos cuando lanzas forma de dragon. La forma del aliento es un cono de 30 pies (9 m) o una linea de 100 pies (30 m). Una vez activado, el Aliento de dragon no se puede utilizar de nuevo en 1d4 asaltos. Aliento de dragon tiene el rasgo de tradición que encaja con la tipo de dragon y el rasgo de dano que encaja con ese tipo de dano que inflige, si es aplicable.
-- **Resistencia segun tradición** Si la tradición magica del dragon encaja con la de tu conjuro forma de dragon, obtienes la habilidad indicada. Resistencia arcana 5 contra la magia; Resistencia divina 10 contra espiritu, vitalidad y vacío; Resistencia ocultista 10 contra mental; Resistencia primigenia 5 al dano fisico.
+- **Resistencia segun tradición** Si la tradición magica del dragon encaja con la de tu conjuro forma de dragon, obtienes la habilidad indicada. Resistencia arcana 5 contra la magia; Resistencia divina 10 contra espíritu, vitalidad y vacío; Resistencia ocultista 10 contra mental; Resistencia primigenia 5 al dano fisico.
 
 ### Dragones del Manual de Monstruos
 
@@ -42,7 +42,7 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 | Astado | Primigenia | Nadar | Cono de veneno |
 | Conspirador | Ocultista | - | Cono de veneno |
 | Diabolico | Divina | - | Cono de fuego |
-| Empireo | Divina | - | Cono de espiritu |
+| Empireo | Divina | - | Cono de espíritu |
 | Espejismo | Arcana | Trepar | Cono de mental |
 | Fortuna, de la | Arcana | - | Cono de fuerza |
 | Presagio | Ocultista | - | Cono de mental |

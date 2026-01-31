@@ -59,7 +59,7 @@ Debilitas al objetivo, dependiendo de su salvación de Fortaleza.
 ---
 
 ## Decreto Divino ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Espiritu, Manipular, Santificado
+**Rasgos:** Concentrar, Espíritu, Manipular, Santificado
 **Tradiciones:** divina
 **Rango de distancia:** 40 pies (12 m); **Area:** emanacion de 40 pies (12 m)
 **Defensa:** Fortaleza; **Duracion:** variable
@@ -208,7 +208,7 @@ Tan solo detectas la magia de ilusión si el efecto de dicha magia tiene un rang
 
 **Potenciado (3.o)** Averiguas el rango del efecto magico mas poderoso que detecta el conjuro, a determinar por el DJ.
 
-**Potenciado (4.o)** Como 3.er rango, pero tambien senalas la fuente de la magia de mayor rango. Igual que para un sentido impreciso, no averiguas la ubicacion exacta, pero puedes acotarla hasta un cubo de 5 pies (1,5 m) de lado (o la mas cercana si es mayor que eso).
+**Potenciado (4.o)** Como 3.er rango, pero tambien senalas la fuente de la magia de mayor rango. Igual que para un sentido impreciso, no averiguas la ubicación exacta, pero puedes acotarla hasta un cubo de 5 pies (1,5 m) de lado (o la mas cercana si es mayor que eso).
 
 ---
 
@@ -375,12 +375,12 @@ Tomas el mando del objetivo, obligándole a que te obedezca. Si le das una orden
 ---
 
 ## Dormir ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Incapacitacion, Manipular, Mental, Sueno
+**Rasgos:** Concentrar, Incapacitacion, Manipular, Mental, sueño
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
 **Defensa:** Voluntad
 
-Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepción con éxito, lo que limita su utilidad en combate.
+Cada criatura en el area sentira sueño, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepción con éxito, lo que limita su utilidad en combate.
 
 **Éxito critico** La criatura no resulta afectada.
 
@@ -540,7 +540,7 @@ MEDIANO FUERZA Descerebrado
 
 **CA** 13; **Fort** +0, **Ref** +4, **Vol** +0
 
-**PG** 4; **Inmunidades** ataques no mágicos, enfermedad, espiritu, inconsciente, mental, paralisis, precision, veneno; **Resistencias** todo el dano 5 (excepto fuerza o toque fantasmal)
+**PG** 4; **Inmunidades** ataques no mágicos, enfermedad, espíritu, inconsciente, mental, paralisis, precision, veneno; **Resistencias** todo el dano 5 (excepto fuerza o toque fantasmal)
 
 **Velocidad** volar 30 pies (9 m)
 
@@ -762,7 +762,7 @@ Das forma a la sustancia sombria del Informando en forma de explosion. Elige ent
 ---
 
 ## Explosion Espiritual ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Espiritu, Manipular
+**Rasgos:** Concentrar, Espíritu, Manipular
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza basica
@@ -1016,7 +1016,7 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 | Astado | Primigenia | Nadar | Cono de veneno |
 | Conspirador | Ocultista | - | Cono de veneno |
 | Diabolico | Divina | - | Cono de fuego |
-| Empireo | Divina | - | Cono de espiritu |
+| Empireo | Divina | - | Cono de espíritu |
 | Espejismo | Arcana | Trepar | Cono de mental |
 | Fortuna, de la | Arcana | - | Cono de fuerza |
 | Presagio | Ocultista | - | Cono de mental |

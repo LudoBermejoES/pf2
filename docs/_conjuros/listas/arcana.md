@@ -136,7 +136,7 @@ PC = poco común.
 - **[Levitar](/conjuros/levitar/)** - Haces flotar un objeto o criatura unos cuantos pies (1 pie = 30 cm) por encima del suelo.
 - **[Ligadura terrestre](/conjuros/ligadura-terrestre/)** - Atas al suelo a una criatura voladora.
 - **[Localizar P](/conjuros/localizar-p/), P** - Averiguas la dirección hasta un objeto.
-- **[Mensaje onirico](/conjuros/mensaje-onirico/) P** - Envias un mensaje que llega dentro de un sueno.
+- **[Mensaje onirico](/conjuros/mensaje-onirico/) P** - Envias un mensaje que llega dentro de un sueño.
 - **[Muro de espinos](/conjuros/muro-de-espinos/) P** - Haces crecer un muro de zarzas.
 - **[Muro de viento](/conjuros/muro-de-viento/)** - Creas un muro de viento achasado que obstaculiza el movimiento y los ataques a distancia.
 - **[Orbe acuoso](/conjuros/orbe-acuoso/)** - Haces rodar una bola de agua para apagar incendios y englobar criaturas.

@@ -25,4 +25,4 @@ Tan solo detectas la magia de ilusion si el efecto de dicha magia tiene un rango
 
 **Potenciado (3.o)** Averiguas el rango del efecto magico mas poderoso que detecta el conjuro, a determinar por el DJ.
 
-**Potenciado (4.o)** Como 3.er rango, pero tambien senalas la fuente de la magia de mayor rango. Igual que para un sentido impreciso, no averiguas la ubicacion exacta, pero puedes acotarla hasta un cubo de 5 pies (1,5 m) de lado (o la mas cercana si es mayor que eso).
+**Potenciado (4.o)** Como 3.er rango, pero tambien senalas la fuente de la magia de mayor rango. Igual que para un sentido impreciso, no averiguas la ubicación exacta, pero puedes acotarla hasta un cubo de 5 pies (1,5 m) de lado (o la mas cercana si es mayor que eso).
