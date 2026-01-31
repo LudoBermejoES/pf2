@@ -543,7 +543,7 @@ Cada criatura que llega al alcance tiene que hacer una salvación cuando Mantien
 
 **Éxito critico** El objetivo no resulta afectado y se da cuenta de que has intentado utilizar la magia.
 
-**Éxito** El objetivo no tiene por que prestar atencion pero no se da cuenta de que has intentado utilizar la magia (podría darse cuenta de que otros estan cautivados).
+**Éxito** El objetivo no tiene por que prestar atención pero no se da cuenta de que has intentado utilizar la magia (podría darse cuenta de que otros estan cautivados).
 
 **Fallo** El objetivo esta fascinado por ti. Puede hacer otra salvación de Voluntad si es testigo de acciones o de palabras con las que esta en desacuerdo. Si tiene éxito, ya no esta fascinado y queda temporalmente inmune durante 1 hora. Si el objetivo es victima de una acción hostil o si otra criatura tiene éxito en una prueba de Diplomacia o de Intimidación contra ella, la fascinacion se acaba de inmediato.
 

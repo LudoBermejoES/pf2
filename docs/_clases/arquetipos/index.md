@@ -65,7 +65,7 @@ Algunas dotes de arquetipo de otros libros tienen el rasgo habilidad, lo que te 
 
 ---
 
-## Resumen de progresion de arquetipos de lanzador de conjuros
+## Resumen de progresión de arquetipos de lanzador de conjuros
 
 | Nivel | Beneficios básicos | Beneficios expertos | Beneficios maestros |
 |-------|-------------------|---------------------|---------------------|

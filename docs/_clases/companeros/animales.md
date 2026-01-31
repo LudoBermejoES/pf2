@@ -430,7 +430,7 @@ Tu compañero es un tiburón de cualquier tipo, como por ejemplo un tiburón mar
 | **Habilidad** | Sigilo |
 | **Sentidos** | Oler sangre, olfato (impreciso, 60 pies [18 m]) |
 | **Velocidad** | nadar 40 pies (12 m) |
-| **Especial** | El tiburon tiene el rasgo acuatico. Su capacidad de oler sangre le permite detectar la presencia de sangre en el agua hasta a 1 milla (1,6 km) de distancia. |
+| **Especial** | El tiburon tiene el rasgo acuático. Su capacidad de oler sangre le permite detectar la presencia de sangre en el agua hasta a 1 milla (1,6 km) de distancia. |
 
 **Beneficio por apoyo:** Cuando tu tiburon detecta sangre, arremete contra tus enemigos. Hasta el inicio de tu siguiente turno, cada vez que impactas a una criatura al alcance del tiburon con un Golpe e infliges daño cortante o perforante, dicha criatura sufre 1d8 daño cortante por parte del tiburon. Si tu tiburon es agil o salvaje, el daño cortante se incrementa a 2d8.
 

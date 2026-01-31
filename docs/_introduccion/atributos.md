@@ -45,7 +45,7 @@ Los modificadores de atributo representan como de desarrollada esta cada caracte
 Una **mejora de atributo** incrementa el modificador de un atributo en +1. Se obtienen de diversas fuentes durante la creación del personaje:
 
 - **Ascendencia**: proporciona mejoras especificas segun tu linaje
-- **Bagaje**: refleja tu historia y ocupacion previa
+- **Bagaje**: refleja tu historia y ocupación previa
 - **Clase**: representa las aptitudes naturales necesarias para tu profesión
 - **Mejoras gratuitas**: permiten personalizar tu personaje segun tu vision
 

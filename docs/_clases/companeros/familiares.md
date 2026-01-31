@@ -19,7 +19,7 @@ Un familiar difiere de una mascota basica de las siguientes formas:
 
 Para Percepción, Acrobacias y Sigilo puedes hacer que tu familiar utilice tu propio modificador por atributo de lanzamiento de conjuros + tu nivel en lugar de 3 + tu nivel si es superior.
 
-### Comunicacion
+### Comunicación
 
 Tu familiar puede comunicarse empíricamente contigo si esta por lo menos a 1 milla (1,6 km) o menos de ti, compartiendo emociones. Normalmente no habla ni entiende idioma alguno, pero puede obtener el habla debido a una aptitud de familiar.
 
@@ -86,7 +86,7 @@ Las siguientes aptitudes que puedes elegir de la dote general Mascota se pueden 
 
 **Hongo:** Tu familiar tiene el rasgo hongo en lugar del rasgo animal.
 
-**Independiente:** En un encuentro, si no Comandas a tu familiar, sigue obteniendo 1 acción por asalto. Tipicamente, sigues pudiendo decidir como la invierte, pero el DJ podría determinar que elige sus propias tacticas en lugar de llevar a cabo la acción preferida por ti. Esto no funciona con ayudante o aptitudes similares que requieren una orden, si eres capaz de montar a tu familiar o en situaciones similares.
+**Independiente:** En un encuentro, si no Comandas a tu familiar, sigue obteniendo 1 acción por asalto. Tipicamente, sigues pudiendo decidir como la invierte, pero el DJ podría determinar que elige sus propias tácticas en lugar de llevar a cabo la acción preferida por ti. Esto no funciona con ayudante o aptitudes similares que requieren una orden, si eres capaz de montar a tu familiar o en situaciones similares.
 
 **Lanzamiento de conjuros:** Elige un conjuro de tu repertorio o que has preparado hoy, por lo menos 5 rangos menor que tu espacio de conjuro de rango superior. Tu familiar puede Lanzar dicho conjuro una vez al dia utilizando tu tradición magica, tu modificador al ataque de conjuros y tu CD de conjuro. Si el conjuro tiene un inconveniente que afecta al lanzador, tanto tu familiar como tu os veis afectados. Tienes que ser capaz de lanzar conjuros de 6.º rango utilizando espacios de conjuro para seleccionar esto.
 

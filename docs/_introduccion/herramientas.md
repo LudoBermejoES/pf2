@@ -15,7 +15,7 @@ Cada jugador necesita una hoja de personaje para crear su personaje y anotar lo 
 
 ## Dados
 
-Los jugadores y el DJ necesitaran por lo menos un juego de dados poliedricos, aunque la mayor parte de participantes aporta los suyos. Los dados de seis caras son bastante comunes, pero todos los dados del juego se pueden encontrar en las tiendas de juegos o bien online.
+Los jugadores y el DJ necesitaran por lo menos un juego de dados poliédricos, aunque la mayor parte de participantes aporta los suyos. Los dados de seis caras son bastante comunes, pero todos los dados del juego se pueden encontrar en las tiendas de juegos o bien online.
 
 ## Aventura
 

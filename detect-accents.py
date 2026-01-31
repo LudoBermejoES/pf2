@@ -15,12 +15,58 @@ from pathlib import Path
 spell_checker = enchant.Dict("es_ES")
 
 # Palabras que no son errores (excepciones del diccionario)
+# Incluye nombres propios, deidades, lugares, objetos y términos de Pathfinder 2
 WHITELIST_WORDS = {
+    # Términos generales de PF2
     'Bonificador', 'Bonificadores', 'Calistria', 'Inframundo',
     'Multiclase', 'Penalizador', 'Penalizadores', 'Reenfocar',
     'bonificador', 'bonificadores', 'constructo', 'multiclase',
     'ocultistas', 'penalizador', 'penalizadores', 'planario',
-    'basicas', 'etnicos', 'inspiracion'
+    'basicas', 'etnicos', 'inspiracion',
+    'pág', 'págs',  # No son errores de acentos, es puntuación
+
+    # Deidades y entidades divinas de Golarion
+    'Sarenrae', 'Desna', 'Gorum', 'Iomedae', 'Erastil', 'Nethys',
+    'Pharasma', 'Calistria', 'Shelyn', 'Cayden', 'Lamashtu', 'Urgathoa',
+    'Norgorber', 'Rovagug', 'Asmodeus', 'Zon-Kuthon', 'Abaddon', 'Mahja',
+
+    # Países, regiones y lugares de Golarion
+    'Golarion', 'Avistan', 'Garund', 'Tian-Xia', 'Vudra', 'Varisia', 'Vudran',
+    'Mendev', 'Numeria', 'Nidal', 'Cheliax', 'Andoran', 'Taldor', 'Qadira',
+    'Osirion', 'Absalom', 'Brevoy', 'Druma', 'Galt', 'Glordadal', 'Isger',
+    'Jalmeray', 'Kalimancra', 'Lastwall', 'Molthune', 'Nex', 'Rokar',
+    'Razmiran', 'Sargava', 'Shackles', 'Shoanti', 'Stewartson', 'Tar',
+    'Tyrelion', 'Ustalav', 'Vidrian', 'Viperwall', 'Vyre', 'Casmaron',
+    'Azlant', 'Earthmotes', 'Kelmerine', 'Thassilonian', 'Xopatl',
+
+    # Razas, pueblos y culturas de PF2
+    'Cailean', 'Shoanti', 'Varisianos', 'Kellid', 'Ulfen', 'Tian', 'Mwangi',
+    'Oread', 'Oréad', 'Ifrit', 'Sylph', 'Undine', 'Fetchling',
+    'Suli', 'Aasimar', 'Tiefling', 'Dhampir', 'Changeling', 'Hobgoblin',
+    'Ratfolk', 'Tengu', 'Catfolk', 'Kitsune', 'Nagaji', 'Wayang',
+
+    # Objetos y artefactos únicos de PF2
+    'Dromaar', 'dromaar',  'Absorbesol', 'Grillgiss', 'Krugga', 'Rillka', 'Etune',
+    'Lanliss', 'Faunra', 'Abroshtor', 'Bastargre', 'Fijit', 'Mazmord',
+    'Guzmuk', 'Omgot', 'Oprak', 'Carmesi', 'Reenofcas', 'Reenfocado',
+
+    # Mitología y eras de PF2
+    'Thassilonian', 'Earthmote', 'Otono', 'Otón',
+
+    # Errores que no son acentos (cambios de letras)
+    'constructos', 'suenos', 'escorpion', 'interplanar', 'excepcion',
+    'incorporeas', 'achasado', 'inmovilizantes', 'oscurecedor', 'incursores',
+    'hechizadora', 'haciendote', 'permitiendote', 'senescales', 'acechante',
+    'canteria', 'tratalas', 'herreria', 'alquimica', 'revendiendolas',
+    'habrias', 'consiguiendolo', 'vacios', 'contorsionas', 'cambiaformas',
+    'polimorfado', 'permanezcais', 'oirlas', 'debera', 'evaporandose',
+    'feerico', 'anotalas', 'decidiendose', 'aullantes', 'unicos', 'vidrico',
+    'ocupandose', 'arriesgandose', 'varisiano', 'roboticos', 'empuna',
+    'disension', 'taldano', 'pasarselo', 'jugable', 'guien', 'entendio',
+    'prision', 'restablecedor', 'restablecedora', 'inspirandote', 'sonicas',
+    'desorientadores', 'teúrgicos', 'ponersela', 'jubon', 'saquillos',
+    'empunarlo', 'combatis', 'harias', 'reposicionan', 'oirte', 'ensena',
+    'podian', 'calidos'
 }
 
 # Load words marked as "not_problem" from existing results

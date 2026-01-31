@@ -88,9 +88,9 @@ La mayor parte del movimiento de la partida se puede representar en una superfic
 
 ## Tamaño, espacio y alcance
 
-Las criaturas y los objetos de diferente tamaño ocupan diferentes cantidades de espacio. Los tamaños y los espacios que ocupan cada uno en un tablero se indican en la tabla Tamaño y alcance. La tabla tambien indica el alcance tipico para las criaturas de cada tamaño, tanto para las criaturas altas (la mayoría de bipedos) como para las largas (la mayoría de cuadrupedos).
+Las criaturas y los objetos de diferente tamaño ocupan diferentes cantidades de espacio. Los tamaños y los espacios que ocupan cada uno en un tablero se indican en la tabla Tamaño y alcance. La tabla tambien indica el alcance tipico para las criaturas de cada tamaño, tanto para las criaturas altas (la mayoría de bípedos) como para las largas (la mayoría de cuadrúpedos).
 
-La entrada Espacio indica cuantos pies (metros) de lado tiene el espacio de la criatura, de manera que una criatura Grande llena un espacio de 10 x 10 pies (3 x 3 m), o 4 casillas del tablero (si necesitas medir en tres dimensiones, su espacio tambien tiene 10 pies [3 m] de altura). A veces parte de la criatura se extiende mas alla de su espacio, como por ejemplo si un pulpo gigante te esta agarrando con sus tentaculos. En dicho caso, el DJ suele permitir que ataques la parte extendida, incluso si tu alcance no llega hasta la parte principal de la criatura.
+La entrada Espacio indica cuantos pies (metros) de lado tiene el espacio de la criatura, de manera que una criatura Grande llena un espacio de 10 x 10 pies (3 x 3 m), o 4 casillas del tablero (si necesitas medir en tres dimensiones, su espacio tambien tiene 10 pies [3 m] de altura). A veces parte de la criatura se extiende mas alla de su espacio, como por ejemplo si un pulpo gigante te esta agarrando con sus tentáculos. En dicho caso, el DJ suele permitir que ataques la parte extendida, incluso si tu alcance no llega hasta la parte principal de la criatura.
 
 ### Tabla: Tamaño y alcance
 
@@ -197,7 +197,7 @@ Una pendiente es un area tan empinada que necesitas Trepar utilizando la habilid
 
 **Después de Buscar, segunda Zancada hacia el noreste (terreno difícil con piedras desmenuzadas):**
 1. Movimiento en diagonal (diagonal impar): 5 pies base + 5 pies terreno difícil = 10 pies (3 m)
-2. Otro movimiento diagonal al noreste costaria 15 pies (4,5 m): 10 pies por diagonal par + 5 pies por terreno difícil
+2. Otro movimiento diagonal al noreste costaría 15 pies (4,5 m): 10 pies por diagonal par + 5 pies por terreno difícil
 3. En su lugar, se mueve directamente al norte: 5 pies base + 5 pies terreno difícil = 10 pies (3 m)
 4. Total gastado: 20 pies (6 m) - Sin acciones restantes
 

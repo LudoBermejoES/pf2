@@ -434,7 +434,7 @@ Golpear a tus enemigos despierta elogios y genera protección por parte de tu di
 
 ---
 
-### Recuperacion Heroica ◆ - Dote 10
+### Recuperación Heroica ◆ - Dote 10
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -485,7 +485,7 @@ Cuando tu dios bendice tus actos belicosos, puedes extender dicho favor a tus al
 
 ---
 
-### Recuperacion Defensiva ◆ - Dote 12
+### Recuperación Defensiva ◆ - Dote 12
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 

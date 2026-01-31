@@ -63,7 +63,7 @@ Ademas, siempre que estas sufriendo un penalizador a tu Velocidad por algún otr
 
 Entiendes la complejidad del trabajo en piedra.
 
-**Beneficio:** Obtienes el rango entrenado en Artesanía. Si ya lo estabas, en su lugar obtienes la dote de habilidad Artesanía especial para la canteria. Tambien obtienes un bonificador +2 por circunstancia a las pruebas de Percepción para darte cuenta de trabajos en piedra poco usuales. Este bonificador se aplica a las pruebas para descubrir trampas mecanicas hechas de piedra u ocultas en el interior de la piedra.
+**Beneficio:** Obtienes el rango entrenado en Artesanía. Si ya lo estabas, en su lugar obtienes la dote de habilidad Artesanía especial para la canteria. Tambien obtienes un bonificador +2 por circunstancia a las pruebas de Percepción para darte cuenta de trabajos en piedra poco usuales. Este bonificador se aplica a las pruebas para descubrir trampas mecánicas hechas de piedra u ocultas en el interior de la piedra.
 
 Si no estas utilizando la acción de Buscar o registrando, el DJ hace automatica e igualmente una prueba secreta por ti para darte cuenta de que hay una canteria inusual. Esta prueba no se beneficia de su bonificados habitual por circunstancia.
 
@@ -144,7 +144,7 @@ Si tienes la dote Ojo del cantero, puedes buscar canteria inusual y trampas hech
 
 Tu resistencia te permite soportar mas castigo de lo habitual.
 
-**Beneficio:** Incrementa tus Puntos de Golpe maximos en una cantidad igual a tu nivel. Cuando te encuentras en el estado moribundo, la CD de tus pruebas de recuperacion es igual a 9 + tu valor de moribundo (en lugar de 10 + tu valor de moribundo).
+**Beneficio:** Incrementa tus Puntos de Golpe maximos en una cantidad igual a tu nivel. Cuando te encuentras en el estado moribundo, la CD de tus pruebas de recuperación es igual a 9 + tu valor de moribundo (en lugar de 10 + tu valor de moribundo).
 
 Si tambien dispones de la dote Dureza, los Puntos de Golpe obtenidos de ella y los de esta dote son acumulativos y la CD de tus pruebas de recuperación es igual a 6 + tu valor de moribundo.
 
@@ -207,7 +207,7 @@ Atraviesas la tierra y llevas contigo a un aliado.
 
 La fuerza de la piedra te invade de forma tan abrumadora que reemplaza a tu recio cuerpo.
 
-**Beneficio:** Quedas petrificado hasta el final del turno actual. No sufriras ningun dano del efecto desencadenante ni ningun otro efecto negativo que no pueda afectar a la piedra.
+**Beneficio:** Quedas petrificado hasta el final del turno actual. No sufriras ningún dano del efecto desencadenante ni ningún otro efecto negativo que no pueda afectar a la piedra.
 
 ---
 

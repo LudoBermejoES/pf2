@@ -7,7 +7,7 @@ category: introduccion
 nav_order: 0
 ---
 
-A menos que seas el DJ, lo primero que tienes que hacer cuando juegas a Pathfinder es crear tu personaje. Corre de tu cuenta imaginar las experiencias pasadas del mismo, su personalidad y su vision del mundo, y esto fijara el escenario de tu interpretación durante la partida. Utilizaras las mecanicas del juego para determinar la capacidad de tu personaje para llevar a cabo diversas tareas y para utilizar aptitudes especiales mientras juegas.
+A menos que seas el DJ, lo primero que tienes que hacer cuando juegas a Pathfinder es crear tu personaje. Corre de tu cuenta imaginar las experiencias pasadas del mismo, su personalidad y su vision del mundo, y esto fijara el escenario de tu interpretación durante la partida. Utilizaras las mecánicas del juego para determinar la capacidad de tu personaje para llevar a cabo diversas tareas y para utilizar aptitudes especiales mientras juegas.
 
 Los pasos de la creación de personaje se presentan en el orden sugerido, pero podrás completarlos en el orden que quieras.
 
@@ -34,7 +34,7 @@ Que tipo de héroe quieres interpretar? La respuesta a esta pregunta podría ser
 
 Te interesara consultar las ascendencias, los bagajes y las clases disponibles en Pathfinder. Antes de que empiece una partida, suele ser una buena idea que los jugadores comenten entre si como se han conocido sus personajes y como piensan trabajar juntos a lo largo de sus aventuras.
 
-Cada jugador adopta una aproximacion diferente a la creación de personaje. Algunos quieren uno que encaje bien en el relato, mientras que otros buscan una combinación de aptitudes que se complementen entre si mecanicamente. En tu caso, podrías querer combinar ambas aproximaciones. Cualquiera de ellas esta bien.
+Cada jugador adopta una aproximación diferente a la creación de personaje. Algunos quieren uno que encaje bien en el relato, mientras que otros buscan una combinación de aptitudes que se complementen entre si mecanicamente. En tu caso, podrías querer combinar ambas aproximaciones. Cualquiera de ellas esta bien.
 
 ### Fuentes de inspiracion
 
@@ -60,7 +60,7 @@ Todos los modificadores por atributo de tu personaje empiezan en **+0**. Conform
 
 **Atributos mentales:**
 - **Inteligencia**: Mide lo bien que puedes aprender y razonar. Permite entrenar habilidades adicionales y dominar idiomas adicionales.
-- **Sabiduría**: Mide el sentido comun, la perspicacia y la intuicion. Se suma a la Percepción y a las tiradas de salvación de Voluntad.
+- **Sabiduría**: Mide el sentido comun, la perspicacia y la intuición. Se suma a la Percepción y a las tiradas de salvación de Voluntad.
 - **Carisma**: Mide el magnetismo personal y la fuerza de la personalidad. Ayuda a construir relaciones e influenciar a los demás.
 
 ### Mejoras de atributo
@@ -86,7 +86,7 @@ La ascendencia determina el tamaño, la Velocidad y los idiomas de tu personaje,
 1. **Elige la ascendencia en si**
 2. **Selecciona una herencia** de las disponibles para dicha ascendencia, lo que definira aun mas los rasgos con los que nacio tu personaje
 3. **Asigna cualquier mejora de atributo gratuita** y decide si vas a adoptar algún defecto voluntario
-4. **Elige una dote de ascendencia**, lo que representa una aptitud que tu héroe aprendio a temprana edad
+4. **Elige una dote de ascendencia**, lo que representa una aptitud que tu héroe aprendió a temprana edad
 
 ### Ascendencias disponibles
 
@@ -150,7 +150,7 @@ No necesitas anotar todavia todos los rasgos de clase de tu personaje. Tan solo 
 
 ## Paso 6: Acaba los modificadores por atributo
 
-Ahora que has hecho las principales elecciones mecanicas acerca de tu personaje, es hora de finalizar sus modificadores por atributo.
+Ahora que has hecho las principales elecciones mecánicas acerca de tu personaje, es hora de finalizar sus modificadores por atributo.
 
 ### Dos cosas que hacer
 
@@ -160,7 +160,7 @@ Ahora que has hecho las principales elecciones mecanicas acerca de tu personaje,
 
 ### Limites
 
-- No deberias acabar con ningun modificador por atributo mas bajo que **-1** ni mas alto que **+4**.
+- No deberias acabar con ningún modificador por atributo mas bajo que **-1** ni mas alto que **+4**.
 - Recuerda que cada mejora de atributo suma 1 al modificador base de +0 y que cada defecto de atributo resta 1.
 
 ### Mejoras de ascendencia alternativas
@@ -181,7 +181,7 @@ Ahora, anota todos los beneficios y rasgos de clase que tu personaje obtiene deb
 
 - **Puntos de Golpe totales**: Suma el numero que obtiene debido a su ascendencia (elegido en el Paso 3) y el derivado de su clase.
 
-- **Competencias iniciales**: La sección Competencias iniciales de tu entrada de clase indica los rangos de competencia iniciales de tu personaje. Elige en que habilidades esta entrenado y anotalas. Si tu clase te proporcionaria el rango entrenado en una habilidad en la que ya lo estas (tipicamente debido a tu bagaje), puedes seleccionar otra habilidad en la que estar entrenado.
+- **Competencias iniciales**: La sección Competencias iniciales de tu entrada de clase indica los rangos de competencia iniciales de tu personaje. Elige en que habilidades esta entrenado y anótalas. Si tu clase te proporcionaria el rango entrenado en una habilidad en la que ya lo estas (tipicamente debido a tu bagaje), puedes seleccionar otra habilidad en la que estar entrenado.
 
 - **Rasgos de clase de 1er nivel**: Consulta la tabla de avance de clase para averiguar los rasgos de clase que tu personaje obtiene a 1er nivel. Algunos rasgos de clase requieren que lleves a cabo elecciones adicionales, como por ejemplo seleccionar conjuros.
 
@@ -211,7 +211,7 @@ A 1er nivel, tu personaje dispone de **15 po (150 pp)** para gastar en armadura,
 - Las armas determinan la cantidad de dano que se inflige en combate
 - La armadura influencia la Clase de armadura
 - Tambien podrías querer comprar material como cuerda, antorchas y otro equipo de viaje
-- Quizas alguna sustancia curativa alquimica, por si tienes problemas
+- Quizas alguna sustancia curativa alquímica, por si tienes problemas
 - Existen paquetes de equipo inicial indicados para cada clase para que sea mas rapido seleccionarlo
 
 ---
@@ -278,11 +278,11 @@ Anota el dios al que adora tu personaje, si ese es el caso. Todos los clérigos 
 
 ### Edad
 
-Decide la edad de tu personaje. La descripcion sobre la ascendencia proporciona alguna guia acerca de los rangos de edad. No existe ningun ajuste mecanico a tu personaje por ser particularmente mayor. Se recomienda que los personajes sean por lo menos jovenes adultos.
+Decide la edad de tu personaje. La descripcion sobre la ascendencia proporciona alguna guia acerca de los rangos de edad. No existe ningún ajuste mecanico a tu personaje por ser particularmente mayor. Se recomienda que los personajes sean por lo menos jovenes adultos.
 
 ### Genero
 
-Todos los personajes de cualquier genero biologico y orientacion sexual tienen identica probabilidad de convertirse en aventureros.
+Todos los personajes de cualquier genero biologico y orientación sexual tienen identica probabilidad de convertirse en aventureros.
 
 ### CD de clase
 
@@ -328,7 +328,7 @@ Adam consulta la entrada sobre los enanos. Anota las mejoras de atributo a sus m
 
 Para su mejora de atributo gratuita, elige Destreza a fin de reforzar sus defensas, lo que hace que suba tambien a +1. Tambien anota los 10 Puntos de Golpe que su ascendencia le otorga.
 
-A continuación, vuelve a su hoja de personaje para anotar el tamaño, la Velocidad, el idioma y la aptitud de vision en la oscuridad que obtiene gracias a ser un enano. Por ultimo, se decide sobre una herencia, anotando "enano de la roca" junto a enano, y elige una dote de ascendencia, decidiendose por Corredor de las rocas, para mostrar la fuerte conexión de su personaje con la piedra.
+A continuación, vuelve a su hoja de personaje para anotar el tamaño, la Velocidad, el idioma y la aptitud de vision en la oscuridad que obtiene gracias a ser un enano. Por ultimo, se decide sobre una herencia, anotando "enano de la roca" junto a enano, y elige una dote de ascendencia, decidiéndose por Corredor de las rocas, para mostrar la fuerte conexión de su personaje con la piedra.
 
 **Modificadores tras Paso 3:**
 | Atributo | Modificador |
@@ -380,7 +380,7 @@ Conforme Adam aplica su clase, tiene que pensar cierta cantidad de cosas:
 
 1. **Competencias iniciales**: Marca las casillas apropiadas en las areas Clase de armadura, Tiradas de salvación, Competencias en armas, Modificador al ataque de conjuro y CD de conjuro.
 
-2. **Habilidades**: Marca Naturaleza como entrenada. Una vez elija su orden de druida, obtendra el rango entrenado en otra habilidad determinada por dicha orden. Elige otras dos habilidades: Atletismo y Medicina.
+2. **Habilidades**: Marca Naturaleza como entrenada. Una vez elija su orden de druida, obtendrá el rango entrenado en otra habilidad determinada por dicha orden. Elige otras dos habilidades: Atletismo y Medicina.
 
 3. **Puntos de Golpe**: Suma los 8 PG debidos a la clase druida y su modificador por Constitución de +3 a los 10 PG debidos a su ascendencia enana para un total de **21 Puntos de Golpe**.
 

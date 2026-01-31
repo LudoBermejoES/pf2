@@ -7,7 +7,7 @@ category: introduccion
 nav_order: 0
 ---
 
-La seleccion de un dios es critica para los clérigos, pero la mayoría de personajes presentan sus respetos a por lo menos un dios en busca de un foco en la vida y una guia en tiempos de adversidad o de necesidad. Algunos adoran en su lugar a un grupo de dioses dispuestos en un panteon, siguen una religion carente de dioses como la Fe Verde o una filosofia especifica.
+La selección de un dios es critica para los clérigos, pero la mayoría de personajes presentan sus respetos a por lo menos un dios en busca de un foco en la vida y una guia en tiempos de adversidad o de necesidad. Algunos adoran en su lugar a un grupo de dioses dispuestos en un panteon, siguen una religion carente de dioses como la Fe Verde o una filosofia especifica.
 
 Cualquiera puede adorar a un dios, pero quienes lo hacen de forma devota deberían preocuparse de seguir los edictos de la fe (comportamientos que la fe anima) y evitar sus anatemas (acciones consideradas blasfemas que podrían hacer que un dios revocara sus bendiciones).
 
@@ -17,7 +17,7 @@ Cualquiera puede adorar a un dios, pero quienes lo hacen de forma devota deberí
 
 **Amo de la Primera Boveda**
 
-Abadar busca llevar la civilización a las tierras virgenes del mundo, anima el respeto a la ley y promueve el comercio y el intercambio en el interior de la civilización. Tambien anima a la cooperacion entre las diversas ascendencias.
+Abadar busca llevar la civilización a las tierras virgenes del mundo, anima el respeto a la ley y promueve el comercio y el intercambio en el interior de la civilización. Tambien anima a la cooperación entre las diversas ascendencias.
 
 - **Areas de interes:** ciudades, ley, mercaderes y riqueza
 - **Edictos:** amasar riqueza mediante el trabajo duro y el comercio, llevar la civilización a las fronteras, respetar el imperio de la ley
@@ -117,7 +117,7 @@ Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a
 
 - **Areas de interes:** estrellas, sueños, suerte y viajeros
 - **Edictos:** ayudar a otros viajeros, buscar lo que la vida tiene para ofrecer, explorar nuevos lugares, expresarse mediante el arte y la canción
-- **Anatemas:** causar miedo o desesperacion, lanzar pesadilla o utilizar magia similar para corromper los sueños, tener un comportamiento intolerante
+- **Anatemas:** causar miedo o desesperación, lanzar pesadilla o utilizar magia similar para corromper los sueños, tener un comportamiento intolerante
 - **Atributo divino:** Carisma o Destreza
 
 **Beneficios para los devotos:**
@@ -141,7 +141,7 @@ Hace mucho, Erastil era un dios astado de la caza, pero su adoración evoluciono
 
 - **Areas de interes:** caza, comercio, familia, granjas
 - **Edictos:** cuidar de tu hogar y de tu familia, cumplir con tus deberes, mantener la paz, proteger la comunidad
-- **Anatemas:** abandonar tu hogar en tiempo de necesidad, decir mentiras, mancillar tu reputacion, ponerte a ti mismo por encima de tu comunidad
+- **Anatemas:** abandonar tu hogar en tiempo de necesidad, decir mentiras, mancillar tu reputación, ponerte a ti mismo por encima de tu comunidad
 - **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
@@ -183,13 +183,13 @@ Mas antigua y poderosa que la mayoría de los demás dioses, Farasma juzga las a
 
 ### Gorum
 
-**Senor del Hierro**
+**Señor del Hierro**
 
-Quien busca la gloria en el campo de batalla reza plegarias a Nuestro Senor del Hierro. Gorum enfatiza el poder, animando a sus seguidores a buscar la guerra y el combate como la forma definitiva de adorarle.
+Quien busca la gloria en el campo de batalla reza plegarias a Nuestro Señor del Hierro. Gorum enfatiza el poder, animando a sus seguidores a buscar la guerra y el combate como la forma definitiva de adorarle.
 
 - **Areas de interes:** armas, batalla y fuerza
 - **Edictos:** apurar tus limites, llevar armadura en combate, obtener la victoria en combate justo
-- **Anatemas:** ganar una batalla con tacticas turbias o magia indirecta, matar prisioneros o enemigos que se han rendido, prevenir conflictos mediante la negociacion
+- **Anatemas:** ganar una batalla con tácticas turbias o magia indirecta, matar prisioneros o enemigos que se han rendido, prevenir conflictos mediante la negociacion
 - **Atributo divino:** Fuerza o Constitución
 
 **Beneficios para los devotos:**
@@ -257,7 +257,7 @@ Antes de su ascension y de heredar muchos adoradores del dios de la humanidad, I
 
 **Maestro de Maestros**
 
-Como mortal, Irori alcanzo la autentica iluminacion, lo que le permitio liberarse de los grilletes de la mortalidad y alcanzar la divinidad. Como dios, es el Maestro de Maestros, promueve la disciplina y ensena que quien puede dominarse a si mismo encuentra los mayores beneficios que el mundo puede proporcionar.
+Como mortal, Irori alcanzo la autentica iluminación, lo que le permitió liberarse de los grilletes de la mortalidad y alcanzar la divinidad. Como dios, es el Maestro de Maestros, promueve la disciplina y ensena que quien puede dominarse a si mismo encuentra los mayores beneficios que el mundo puede proporcionar.
 
 - **Areas de interes:** autoperfeccion, conocimiento e historia
 - **Edictos:** ayudar a otros a perfeccionarse a si mismos, practicar la disciplina, refinar cuerpo, mente y espíritu hasta un estado mas perfecto, ser humilde
@@ -305,7 +305,7 @@ Lamashtu se deleita en la corrupcion de lo que es puro. Los cambios físicos y l
 
 **Ojo que Todo lo Ve**
 
-Antiguamente un maestro mortal de la magia, Nethys busco desentranar todos los secretos de los Planos, ascendiendo a la divinidad cuando su mente entendio del todo el potencial completo de la magia. El Ojo que Todo lo Ve es un dios dualista, que ensena a la vez los potenciales destructor y protector de la magia.
+Antiguamente un maestro mortal de la magia, Nethys busco desentrañar todos los secretos de los Planos, ascendiendo a la divinidad cuando su mente entendio del todo el potencial completo de la magia. El Ojo que Todo lo Ve es un dios dualista, que ensena a la vez los potenciales destructor y protector de la magia.
 
 - **Areas de interes:** magia
 - **Edictos:** buscar el poder magico y utilizarlo
@@ -329,7 +329,7 @@ Antiguamente un maestro mortal de la magia, Nethys busco desentranar todos los s
 
 **La Sombra**
 
-Esta sombria figura suele ser adorada en cuatro aspectos: Dedos Negros, aliado de los alquimistas y de los envenenadores; el asesino Padre Desollador; el Maestro Gris, dedicado al latrocinio; y el secretista Segador de Reputaciones.
+Esta sombria figura suele ser adorada en cuatro aspectos: Dedos Negros, aliado de los alquimistas y de los envenenadores; el asesino Padre Desollador; el Maestro Gris, dedicado al latrocinio; y el secretista Segador de Reputaciónes.
 
 - **Areas de interes:** asesinato, avaricia, secretos y veneno
 - **Edictos:** aprovechar cualquier ventaja en combate, mantener en secreto tu verdadera identidad, sacrificar a quien sea necesario, trabajar desde las sombras
@@ -377,7 +377,7 @@ Rovagug fue aprisionado hace mucho en el nucleo de Golarion a manos de otros muc
 
 **Flor del Alba**
 
-Antiguamente una poderosa angel y senora empierea, Sarenrae dirigio los esfuerzos para aprisionar a Rovagug. La Flor del Alba busca redimir el mal donde le es posible, hacer que arda mediante el fuego del sol cuando no puede ser redimido y restablecer a quienes han sido danados por las maquinaciones del mal.
+Antiguamente una poderosa angel y señora empierea, Sarenrae dirigio los esfuerzos para aprisionar a Rovagug. La Flor del Alba busca redimir el mal donde le es posible, hacer que arda mediante el fuego del sol cuando no puede ser redimido y restablecer a quienes han sido danados por las maquinaciones del mal.
 
 - **Areas de interes:** curacion, redencion honesta y el sol
 - **Edictos:** aportar ayuda a los enfermos y a los heridos, buscar y permitir la redencion, destruir a la Semilla de Rovagug, proteger a los aliados
@@ -405,7 +405,7 @@ Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un 
 
 - **Areas de interes:** amor, arte, belleza y musica
 - **Edictos:** elegir y perfeccionar un arte, liderar con el ejemplo, ser pacifico, ver la belleza en todas las cosas
-- **Anatemas:** destruir el arte o permitir que sea destruido, a menos que sea para salvar una vida o para perseguir un arte mayor; negarse a aceptar una rendicion
+- **Anatemas:** destruir el arte o permitir que sea destruido, a menos que sea para salvar una vida o para perseguir un arte mayor; negarse a aceptar una rendición
 - **Atributo divino:** Sabiduría o Carisma
 
 **Beneficios para los devotos:**
@@ -449,7 +449,7 @@ Aunque le adoran muchos enanos como el Padre de la Creación, Torag lucha para p
 
 **Princesa Palida**
 
-Encaprichada de los placeres del mundo de los vivos, Urgathoa escapo a las garras de la muerte y la otra vida, convirtiendose en el primero de los muertos vivientes. Ahora, la Princesa Palida se regocija compartiendo sus apetitos hedonistas y extendiendo la muerte en vida.
+Encaprichada de los placeres del mundo de los vivos, Urgathoa escapo a las garras de la muerte y la otra vida, convirtiéndose en el primero de los muertos vivientes. Ahora, la Princesa Palida se regocija compartiendo sus apetitos hedonistas y extendiendo la muerte en vida.
 
 - **Areas de interes:** enfermedad, gula y muerte en vida
 - **Edictos:** convertirse en muerto viviente al morir, crear o proteger muertos vivientes, saciar los propios apetitos
@@ -471,9 +471,9 @@ Encaprichada de los placeres del mundo de los vivos, Urgathoa escapo a las garra
 
 ### Zon-Kuthon
 
-**Senor de la Medianoche**
+**Señor de la Medianoche**
 
-Antiguamente un dios del arte, la belleza y la musica como Shelyn, el Senor de la Medianoche volvio horriblemente cambiado de un viaje por los espacios oscuros entre los Planos. Ahora, Zon-Kuthon ensena los placeres del dolor y la oscuridad.
+Antiguamente un dios del arte, la belleza y la musica como Shelyn, el Señor de la Medianoche volvio horriblemente cambiado de un viaje por los espacios oscuros entre los Planos. Ahora, Zon-Kuthon ensena los placeres del dolor y la oscuridad.
 
 - **Areas de interes:** dolor, envidia, oscuridad y perdida
 - **Edictos:** llevar el dolor al mundo, mutilar el propio cuerpo
@@ -499,7 +499,7 @@ Algunos dioses santifican a sus clérigos y a sus seguidores similarmente devoto
 
 ### Rasgo sagrado
 
-El rasgo sagrado indica una devoción poderosa hacia el altruismo, ayudar a otros y luchar contra fuerzas sacrilegas, como infernales y muertos vivientes.
+El rasgo sagrado indica una devoción poderosa hacia el altruismo, ayudar a otros y luchar contra fuerzas sacrílegas, como infernales y muertos vivientes.
 
 ### Rasgo sacrilego
 

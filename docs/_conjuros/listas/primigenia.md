@@ -23,7 +23,7 @@ PC = poco comun.
 - **[Ignicion](/conjuros/ignicion/) P** Quemas a una criatura de cerca o a distancia.
 - **[Leer el aura](/conjuros/leer-el-aura/) P** Detectas si un objeto es magico.
 - **[Luz](/conjuros/luz/) P** Haces brillar un objeto.
-- **[Orientacion](/conjuros/orientacion/) ** Tu guia divina hace mejorar una tirada.
+- **[Orientación](/conjuros/orientacion/) ** Tu guia divina hace mejorar una tirada.
 - **[Prestidigitacion](/conjuros/prestidigitacion/) ** Llevas a cabo un truco magico menor.
 - **[Sello](/conjuros/sello/) P** Dejas una marca magica.
 - **[Zarcillo enmaranante](/conjuros/zarcillo-enmaranante/) P** Conjuras un zarcillo para que enrede a una criatura.

@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/ola-de-desesperacion/
+permalink: /conjuros/ola-de-desesperación/
 title: Ola de Desesperación
 chapter: Conjuros
 spell_level: 5

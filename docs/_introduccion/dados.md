@@ -7,7 +7,7 @@ category: introduccion
 nav_order: 0
 ---
 
-Pathfinder requiere un juego de dados poliedricos. Cada dado tiene un numero diferente de caras: cuatro, seis, ocho o mas. Cuando estos dados se mencionan en el texto, se indican con una "d" seguida del numero de caras del dado.
+Pathfinder requiere un juego de dados poliédricos. Cada dado tiene un numero diferente de caras: cuatro, seis, ocho o mas. Cuando estos dados se mencionan en el texto, se indican con una "d" seguida del numero de caras del dado.
 
 Pathfinder utiliza:
 

@@ -98,7 +98,7 @@ Puedes utilizar la acción de Interactuar para:
 - **Recoger un objeto del suelo.**
 - **Dar o recoger un objeto sostenido por una criatura voluntaria.** La criatura a la que le das el objeto ha de tener una mano libre. Tambien puedes arrojar un objeto a alguien. Tipicamente tienes que tener éxito en un ataque a distancia CD 15 con un incremento de rango de distancia de 10 pies (3 m) para conseguirlo.
 - **Soltar un escudo u otro objeto que llevas utilizando una mano.**
-- **Cambiar de agarre anadiendo una mano a un objeto.**
+- **Cambiar de agarre añadiendo una mano a un objeto.**
 - **Recuperar un objeto guardado de una mochila, saquillo o recipiente similar (o guardarlo).** A menudo tendras que Interactuar para abrir o cerrar la mochila o recipiente.
 
 ### Soltar
@@ -163,7 +163,7 @@ Los objetos hechos para criaturas mayores o menores tienen menor o mayor Impedim
 
 ### Impedimenta de las Monedas
 
-Las monedas son una forma popular de cambio debido a su portabilidad, pero aun así pueden llegar a pesar si llevas muchas. **Un millar de monedas de cualquier denominacion o combinación de denominaciones cuenta como Impedimenta 1.**
+Las monedas son una forma popular de cambio debido a su portabilidad, pero aun así pueden llegar a pesar si llevas muchas. **Un millar de monedas de cualquier denominación o combinación de denominaciones cuenta como Impedimenta 1.**
 
 Por lo general no es necesario determinar la Impedimenta de las monedas en fracciones de 1000; simplemente redondea hacia abajo las fracciones de 1000. En otras palabras, 100 monedas no cuentan como un objeto ligero y 1999 monedas son Impedimenta 1, no 2.
 
@@ -242,7 +242,7 @@ Las criaturas grandes pueden llevar mas carga y las criaturas pequenas pueden ll
 
 Tal y como se muestra en la tabla Conversiones de Impedimenta, las criaturas Grandes o mayores se ven menos impedidas por los objetos engorrosos que las Pequenas o las Medianas. Una criatura Grande trata 10 objetos de Impedimenta 1 como Impedimenta 1; una criatura Enorme trata 10 objetos de Impedimenta 2 como Impedimenta 1; y así sucesivamente.
 
-Una criatura Menuda trata 10 objetos de Impedimenta insignificante como Impedimenta 1. Los objetos insignificantes funcionan de forma similar: una criatura Enorme trata los objetos de Impedimenta 1 como insignificantes, por lo que puede llevar cualquier cantidad de objetos de Impedimenta 1. Una criatura Menuda no trata ningun objeto como si tuviera Impedimenta insignificante.
+Una criatura Menuda trata 10 objetos de Impedimenta insignificante como Impedimenta 1. Los objetos insignificantes funcionan de forma similar: una criatura Enorme trata los objetos de Impedimenta 1 como insignificantes, por lo que puede llevar cualquier cantidad de objetos de Impedimenta 1. Una criatura Menuda no trata ningún objeto como si tuviera Impedimenta insignificante.
 
 | Tamaño de la Criatura | Limite de Impedimenta | Trata como Ligera | Trata como Insignificante |
 |-----------------------|-----------------------|-------------------|---------------------------|

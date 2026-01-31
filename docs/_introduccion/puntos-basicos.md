@@ -27,10 +27,10 @@ El nivel representa el poder y experiencia de un personaje:
 Los seis atributos fundamentales definen las capacidades basicas de un personaje:
 
 - **Fuerza**: Potencia fisica y capacidad de carga
-- **Destreza**: Agilidad, reflejos y coordinacion
+- **Destreza**: Agilidad, reflejos y coordinación
 - **Constitución**: Salud, resistencia y vitalidad
 - **Inteligencia**: Razonamiento, memoria y conocimiento
-- **Sabiduría**: Percepción, intuicion y sentido comun
+- **Sabiduría**: Percepción, intuición y sentido comun
 - **Carisma**: Presencia, fuerza de personalidad y liderazgo
 
 ### Modificadores por atributo
@@ -49,7 +49,7 @@ La ascendencia define el linaje y herencia biologica del personaje:
 
 ### Bagaje
 
-El bagaje representa la crianza y formacion del personaje:
+El bagaje representa la crianza y formación del personaje:
 
 - Refleja donde y como fue educado
 - Incluye su entorno social y cultural
@@ -61,7 +61,7 @@ La clase define la profesión aventurera del personaje:
 
 - Determina sus habilidades principales de combate y exploración
 - Ejemplos: guerrero, mago, clérigo, picaro, druida, bardo
-- Otorga capacidades de clase, dotes de clase y progresion de poder
+- Otorga capacidades de clase, dotes de clase y progresión de poder
 
 ### Dotes
 

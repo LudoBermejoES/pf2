@@ -22,7 +22,7 @@ class_name: Clérigo
 | 8 | Dote de clérigo, dote de habilidad |
 | 9 | Conjuros de 5.º rango, dote de ascendencia, fe resoluta, incremento de habilidad |
 | 10 | Mejoras de atributo, dote de clérigo, dote de habilidad |
-| 11 | Conjuros de 6.º rango, cuarta doctrina, dote general, reflejos rapidos, incremento de habilidad |
+| 11 | Conjuros de 6.º rango, cuarta doctrina, dote general, reflejos rápidos, incremento de habilidad |
 | 12 | Dote de clérigo, dote de habilidad |
 | 13 | Conjuros de 7.º rango, dote de ascendencia, defensa divina, incremento de habilidad, especialización en armas |
 | 14 | Dote de clérigo, dote de habilidad |

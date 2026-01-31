@@ -58,7 +58,7 @@ Cuando llevas puesta una armadura, sufres el penalizador a tu Velocidad indicado
 
 ### Fuerza
 
-Esta entrada indica el modificador por Fuerza en el que eres lo bastante fuerte como para superar algunos de los penalizadores de la armadura. Si tu modificador por Fuerza es igual o mayor que este valor, ya no sufres el penalizador a las pruebas de armadura y reduces en 5 pies (1,5 m) el penalizador a la Velocidad (hasta ningun penalizador si era -5 pies o a un penalizador -5 pies si era -10 pies).
+Esta entrada indica el modificador por Fuerza en el que eres lo bastante fuerte como para superar algunos de los penalizadores de la armadura. Si tu modificador por Fuerza es igual o mayor que este valor, ya no sufres el penalizador a las pruebas de armadura y reduces en 5 pies (1,5 m) el penalizador a la Velocidad (hasta ningún penalizador si era -5 pies o a un penalizador -5 pies si era -10 pies).
 
 ### Impedimenta
 
@@ -153,7 +153,7 @@ Las estadísticas de tu armadura se basan en el material que predomina en su con
 
 ### Armadura Completa
 
-Una armadura completa consiste en placas metálicas entrelazadas, que cubren casi todo el cuerpo en un caparazon de acero. Es cara y pesada y el portador a menudo requiere ayuda para ponersela correctamente, pero proporciona la mejor defensa que una armadura puede conceder. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
+Una armadura completa consiste en placas metálicas entrelazadas, que cubren casi todo el cuerpo en un caparazón de acero. Es cara y pesada y el portador a menudo requiere ayuda para ponersela correctamente, pero proporciona la mejor defensa que una armadura puede conceder. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
 
 ### Armadura de Cuero
 
@@ -189,7 +189,7 @@ Una cota de escamas consiste en muchas escamas metálicas cosidas a una base de 
 
 ### Cota de Malla
 
-Una cota de malla consiste en varias piezas de armadura compuestas de pequenos anillos metalicos entrelazados formando una malla protectora. Suele incluir un camisote de malla, grebas, brazales y una escarcela, protegiendo colectivamente la mayor parte del cuerpo.
+Una cota de malla consiste en varias piezas de armadura compuestas de pequenos anillos metálicos entrelazados formando una malla protectora. Suele incluir un camisote de malla, grebas, brazales y una escarcela, protegiendo colectivamente la mayor parte del cuerpo.
 
 ### Ropa Acolchada
 
@@ -205,4 +205,4 @@ Los aventureros que no llevan armadura viajan equipados con ropa duradera. Aunqu
 
 La mayoría de las armaduras y de las armas estan hechas de materiales ordinarios y comunmente disponibles como el acero, el cuero, el hierro y la madera. Si no estas seguro de la procedencia de los materiales de una armadura, el DJ es quien determina los detalles.
 
-Por otra parte, algunas armaduras, escudos y armas estan hechas de materiales preciosos, que a menudo tienen propiedades sobrenaturales inherentes. El hierro frio (por ejemplo) dana a las hadas y la plata puede danar a los licantropos. Estos materiales se detallan en el Manual de dirección.
+Por otra parte, algunas armaduras, escudos y armas estan hechas de materiales preciosos, que a menudo tienen propiedades sobrenaturales inherentes. El hierro frio (por ejemplo) dana a las hadas y la plata puede danar a los licántropos. Estos materiales se detallan en el Manual de dirección.

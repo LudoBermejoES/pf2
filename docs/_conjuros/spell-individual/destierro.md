@@ -27,6 +27,6 @@ Envias al objetivo de vuelta a su Plano natal. El objetivo tiene que llevar a ca
 
 **Fallo** El objetivo es desterrado.
 
-**Fallo critico** El objetivo es desterrado y no puede volver por ningun medio durante 1 semana al Plano del que ha sido desterrado.
+**Fallo critico** El objetivo es desterrado y no puede volver por ningún medio durante 1 semana al Plano del que ha sido desterrado.
 
 **Potenciado (9.o)** Puedes designar como objetivo hasta 10 criaturas. El coste adicional afecta a los objetivos para los que resulta anatema.

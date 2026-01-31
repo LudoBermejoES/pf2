@@ -227,7 +227,7 @@ Consagras un lugar a tu dios, cantando sus alabanzas y creando un espacio sagrad
 
 **Fallo** La consagracion falla.
 
-**Fallo critico** La consagracion falla de forma espectacular e irrita a tu dios, quien envia una senal de desaprobacion. Durante al menos 1 ano, todo intento posterior de consagrar el lugar falla.
+**Fallo critico** La consagracion falla de forma espectacular e irrita a tu dios, quien envia una senal de desaprobación. Durante al menos 1 ano, todo intento posterior de consagrar el lugar falla.
 
 **Potenciado (7.o)** El area consagrada obtiene tambien los efectos del conjuro sello planario, pero dicho efecto no contrarresta el teletransporte de los adoradores de tu dios. El coste se incrementa a 200 po x el rango del conjuro.
 
@@ -251,7 +251,7 @@ Alteras la meteorologia, haciéndola tranquila y normal para la estación o elig
 
 - **Primavera** llovizna, calor, huracán, aguanieve, tronada, tornado
 - **Verano** llovizna, chaparrón, calor extremo, granizo, calor
-- **Otono** clima frio, niebla, calor moderado, aguanieve
+- **Otoño** clima frio, niebla, calor moderado, aguanieve
 - **Invierno** ventisca, frio moderado, frio extremo, deshielo
 
 No puedes controlar especificamente las manifestaciones, como por ejemplo el camino exacto de un tornado o los objetivos de los relámpagos.
@@ -262,9 +262,9 @@ No puedes controlar especificamente las manifestaciones, como por ejemplo el cam
 
 **Fallo** No consigues alterar el clima de la forma deseada.
 
-**Fallo critico** El clima cambia de una forma no anticipada, determinada por el DJ pero por lo general tan contradictoria como sea posible a tus deseos (por ejemplo, una tremenda tormenta, cuando habrias preferido buen tiempo).
+**Fallo critico** El clima cambia de una forma no anticipada, determinada por el DJ pero por lo general tan contradictoria como sea posible a tus deseos (por ejemplo, una tremenda tormenta, cuando habrías preferido buen tiempo).
 
-**Potenciado (9.o)** Puedes crear un clima impropio de la estacion y efectos climatologicos contradictorios, como por ejemplo un frio extremo y un huracan. Puedes hacer que el tiempo sea tranquilo y normal para una estacion diferente o elegir efectos climatologicos de la lista de cualquier estacion.
+**Potenciado (9.o)** Puedes crear un clima impropio de la estacion y efectos climatologicos contradictorios, como por ejemplo un frio extremo y un huracán. Puedes hacer que el tiempo sea tranquilo y normal para una estacion diferente o elegir efectos climatologicos de la lista de cualquier estacion.
 
 ---
 
@@ -454,7 +454,7 @@ Impones una regla magica a un objetivo voluntario obligándole, o bien a llevar 
 
 **Rasgos:** Poco comun
 
-**Lanzamiento:** 1 dia; **Coste:** los ingredientes de un circulo feerico por un valor total de 1 po x el rango del conjuro x el nivel del objetivo
+**Lanzamiento:** 1 dia; **Coste:** los ingredientes de un circulo feérico por un valor total de 1 po x el rango del conjuro x el nivel del objetivo
 
 **Lanzador secundario:** 4
 
@@ -464,7 +464,7 @@ Impones una regla magica a un objetivo voluntario obligándole, o bien a llevar 
 
 **Duracion:** ver texto
 
-Esto funciona como servidor plenario, excepto que creas un circulo feerico y llamas a un animal, bestia, hada, hongo o planta que esta a 100 millas (160 km) o menos.
+Esto funciona como servidor plenario, excepto que creas un circulo feérico y llamas a un animal, bestia, hada, hongo o planta que esta a 100 millas (160 km) o menos.
 
 ---
 
@@ -510,7 +510,7 @@ Sondeas los recuerdos, el conocimiento, las leyendas, los relatos y el saber de 
 
 **Fallo** No consigues averiguar ninguna leyenda util.
 
-**Fallo critico** Tu mente queda abrumada por el enorme abanico de conocimiento a tu disposicion. No eres capaz de sentir ni de responder a nada en el presente durante 1 semana excepto para llevar a cabo necesidades basicas como respirar y dormir. Sin embargo, cuando te recuperas puedes reconvertir una de tus habilidades en un Saber basado en el conocimiento de un tema a que has tenido acceso, como si hubieras invertido 1 semana reconvirtiendo.
+**Fallo critico** Tu mente queda abrumada por el enorme abanico de conocimiento a tu disposición. No eres capaz de sentir ni de responder a nada en el presente durante 1 semana excepto para llevar a cabo necesidades basicas como respirar y dormir. Sin embargo, cuando te recuperas puedes reconvertir una de tus habilidades en un Saber basado en el conocimiento de un tema a que has tenido acceso, como si hubieras invertido 1 semana reconvirtiendo.
 
 ---
 

@@ -89,7 +89,7 @@ Dispones del rango entrenado en Latrocinio.
 
 ### Mente Maestra
 
-Confias en tu inteligencia para trazar esquemas complicados, planificando diez pasos por delante donde otros podrían planificar tres. Podrías ser un detective motivado, un maestro de espias al servicio de una casa poderosa o un aspirante a senor del crimen o tratante en información.
+Confias en tu inteligencia para trazar esquemas complicados, planificando diez pasos por delante donde otros podrían planificar tres. Podrías ser un detective motivado, un maestro de espias al servicio de una casa poderosa o un aspirante a señor del crimen o tratante en información.
 
 Si identificas con éxito a una criatura utilizando Recordar conocimiento, queda desprevenida contra tus ataques hasta el final de tu siguiente turno; si obtienes un éxito critico, queda desprevenida contra tus ataques durante 1 minuto.
 

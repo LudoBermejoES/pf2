@@ -77,7 +77,7 @@ Percibes los espíritus que habitan en los objetos, averiguando cuales dan buena
 
 Tu cuerpo produce un suministro casi interminable de duros tegumentos.
 
-**Beneficio:** Obtienes un ataque sin armas a distancia de tegumento con un incremento de rango de distancia de 30 pies (9 m) que inflige 1d4 dano contundente. Con un impacto critico, el tegumento explota, expulsando una marana de vegetacion que impone un penalizador -10 pies (3 m) por circunstancia a la Velocidad del objetivo hasta el inicio de tu siguiente turno. Los tegumentos no añaden efectos de especialización critica.
+**Beneficio:** Obtienes un ataque sin armas a distancia de tegumento con un incremento de rango de distancia de 30 pies (9 m) que inflige 1d4 dano contundente. Con un impacto critico, el tegumento explota, expulsando una marana de vegetación que impone un penalizador -10 pies (3 m) por circunstancia a la Velocidad del objetivo hasta el inicio de tu siguiente turno. Los tegumentos no añaden efectos de especialización critica.
 
 ---
 
@@ -115,7 +115,7 @@ Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 #### Anclar ◆
 **Requisitos:** Estas sobre una superficie solida.
 
-**Efecto:** Clavas tus raices en el terreno o cruzas el mismo con ellas, por lo que sera mas difícil que tropieces. Hasta que te muevas, obtendras un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra los intentos de Reposicionarte, Empujarte o Derribarte (o un bonificador +4 por circunstancia si eres un leshy de las raices). Este bonificador tambien se aplica a las tiradas de salvación contra conjuros o efectos que intentan moverte o tumbarte. Si un efecto te obliga a moverte, solo te mueves la mitad de la distancia normal, puesto que parte del esfuerzo se tiene que dedicar a arrancar las raices.
+**Efecto:** Clavas tus raices en el terreno o cruzas el mismo con ellas, por lo que sera mas difícil que tropieces. Hasta que te muevas, obtendrás un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra los intentos de Reposicionarte, Empujarte o Derribarte (o un bonificador +4 por circunstancia si eres un leshy de las raices). Este bonificador tambien se aplica a las tiradas de salvación contra conjuros o efectos que intentan moverte o tumbarte. Si un efecto te obliga a moverte, solo te mueves la mitad de la distancia normal, puesto que parte del esfuerzo se tiene que dedicar a arrancar las raices.
 
 ---
 

@@ -35,7 +35,7 @@ Los bonificadores que puedes aplicar a las tiradas de ataque proceden de una gra
 
 Los penalizadores a las tiradas de ataque tambien proceden de situaciones y efectos:
 
-- **Penalizadores por circunstancia**: Derivan de tacticas arriesgadas o circunstancias adversas.
+- **Penalizadores por circunstancia**: Derivan de tácticas arriesgadas o circunstancias adversas.
 - **Penalizadores por estatus**: Derivan de conjuros y de magia que obra contra ti.
 - **Penalizadores por objeto**: Tienen lugar cuando utilizas objetos de baja calidad.
 
@@ -211,7 +211,7 @@ Para las tiradas de dano de conjuros, bombas alquímicas y objetos similares, no
 
 Igual que con las pruebas, podrías añadir bonificadores por circunstancia, por estatus o por objeto a tus tiradas de dano, pero si tienes multiples bonificadores del mismo tipo solo anades el bonificador mas alto de dicho tipo. De nuevo como en las pruebas, tambien puedes aplicar a la tirada de dano penalizadores por circunstancia, por estatus, por objeto y carentes de tipo y de nuevo aplicas tan solo el penalizador mas alto de un tipo especifico, pero aplicas juntos todos los penalizadores carentes de tipo.
 
-Si los penalizadores combinados de un ataque reducirian el dano a 0 o menos, sigues infligiendo dano 1. A veces hay otras consideraciones, que se describen a continuación.
+Si los penalizadores combinados de un ataque reducirían el dano a 0 o menos, sigues infligiendo dano 1. A veces hay otras consideraciones, que se describen a continuación.
 
 ### Sumar Dados de Dano
 
@@ -225,7 +225,7 @@ Los efectos basados en el numero de dados de dano de un arma solo incluyen los d
 
 Cuando un efecto te pide incrementar el tamaño de tu dado de dano por arma, en lugar de usar el dado normal, usa el siguiente dado mayor, tal y como se indica mas adelante (por lo que, si estuvieras utilizando un d4, utilizarias un d6, y así sucesivamente). Si estas utilizando un d12, el tamaño ya esta al máximo. No puedes incrementar mas de una vez el tamaño del dado de dano por arma.
 
-**Progresion de dados de dano:** 1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12
+**Progresión de dados de dano:** 1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12
 
 ### Dano Persistente
 

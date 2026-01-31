@@ -94,7 +94,7 @@ Potentes vientos te llevan por los aires, otorgándote una Velocidad de vuelo ig
 
 ---
 
-### Senor de la Tormenta ◆◆ FOCO 9
+### Señor de la Tormenta ◆◆ FOCO 9
 **Rasgos:** Poco comun, Aire, Concentrar, Druida, Electricidad, Foco, Manipular
 **Requisitos:** Estas en el exterior y en la superficie.
 **Area:** emanacion de 100 pies (30 m), que te incluye a ti

@@ -24,7 +24,7 @@ PC = poco comun.
 - **[Luz](/conjuros/luz/) P** Haces brillar un objeto.
 - **[Mano telecinetica](/conjuros/mano-telecinetica/) P** Mueves un objeto con una mano flotante.
 - **[Mensaje](/conjuros/mensaje/) P** Comunicas un mensaje a una criatura distante, que puede responder.
-- **[Orientacion](/conjuros/orientacion/) ** Tu guia divina hace mejorar una tirada.
+- **[Orientación](/conjuros/orientacion/) ** Tu guia divina hace mejorar una tirada.
 - **[Prestidigitacion](/conjuros/prestidigitacion/) ** Llevas a cabo un truco magico menor.
 - **[Proyectil telecinetico](/conjuros/proyectil-telecinetico/) P** Lanzas un objeto contra una criatura.
 - **[Sello](/conjuros/sello/) P** Dejas una marca magica.
@@ -166,7 +166,7 @@ PC = poco comun.
 - **[Invocar espiritus](/conjuros/invocar-espiritus/) P** Llamas a un grupo de apariciones fantasmales para que ataquen a tus enemigos.
 - **[Maldición del marinero](/conjuros/maldición-del-marinero/) ** Infectas a una criatura con la maldición del mar ondulante.
 - **[Ojo explorador](/conjuros/ojo-explorador/) ** Un ojo invisible te transmite lo que ve.
-- **[Ola de desesperacion](/conjuros/ola-de-desesperacion/) P** Conduces a la desesperación a las criaturas de un area.
+- **[Ola de desesperación](/conjuros/ola-de-desesperacion/) P** Conduces a la desesperación a las criaturas de un area.
 - **[Potencial onirico](/conjuros/potencial-onirico/) ** Haces que el objetivo se reconvierta en buenos.
 - **[Pulso sinaptico](/conjuros/pulso-sinaptico/) P** Lentificas a las criaturas con una explosion mental.
 - **[Recado](/conjuros/recado/) ** Envias un mensaje a una criatura en cualquier parte del planeta y obtienes respuesta.

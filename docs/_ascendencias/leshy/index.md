@@ -23,7 +23,7 @@ Los leshys son espíritus inmortales de la Naturaleza a los que temporalmente se
 | **Velocidad** | 25 pies (7,5 m) |
 | **Mejoras de Atributo** | Constitución, Sabiduría, Gratuita |
 | **Defecto de Atributo** | Inteligencia |
-| **Idiomas** | Comun, Feerico + idiomas adicionales igual a tu modificador por Inteligencia (si es positivo). Elige entre draconico, elfico, gnomo, goblin, mediano, savkroth y cualquier otro idioma al que tienes acceso (como por ejemplo los idiomas predominantes en tu region). |
+| **Idiomas** | Comun, Feérico + idiomas adicionales igual a tu modificador por Inteligencia (si es positivo). Elige entre draconico, elfico, gnomo, goblin, mediano, savkroth y cualquier otro idioma al que tienes acceso (como por ejemplo los idiomas predominantes en tu region). |
 | **Rasgos** | Leshy, Planta |
 | **Vision en la Penumbra** | Puedes ver en luz tenue como si fuera luz brillante e ignoras el estado oculto debido a la luz tenue. |
 

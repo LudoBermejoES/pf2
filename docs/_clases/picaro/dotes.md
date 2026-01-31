@@ -404,7 +404,7 @@ Apuntas cuidadosamente para evitar el ocultamiento y la cobertura de tu enemigo.
 
 **Prerrequisitos:** Rango maestro en Sigilo.
 
-**Requisitos:** Has tirado Sigilo para la iniciativa en este encuentro, y ni tu ni ningun enemigo habeis actuado aun.
+**Requisitos:** Has tirado Sigilo para la iniciativa en este encuentro, y ni tu ni ningún enemigo habeis actuado aun.
 
 Das una Zancada. Este movimiento no desencadena ninguna reacción.
 
@@ -572,7 +572,7 @@ Atacas con gran precision. Anade las siguientes debilitaciones a la lista de la 
 
 ---
 
-### Debilitaciones Tacticas
+### Debilitaciones Tácticas
 
 **Nivel 10** | **Rasgos:** Picaro
 

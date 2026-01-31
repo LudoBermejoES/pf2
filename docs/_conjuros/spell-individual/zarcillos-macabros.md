@@ -22,7 +22,7 @@ Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el 
 
 **Éxito critico** La criatura no resulta afectada.
 
-**Éxito** La criatura sufre mitad de dano por vacío y ningun dano persistente por sangrado.
+**Éxito** La criatura sufre mitad de dano por vacío y ningún dano persistente por sangrado.
 
 **Fallo** La criatura sufre dano completo.
 

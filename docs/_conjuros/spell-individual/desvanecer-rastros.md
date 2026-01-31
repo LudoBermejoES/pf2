@@ -17,7 +17,7 @@ spell_level: 1
 
 ---
 
-Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastrearte obtendra un bonificador +4 por estatus o sera igual a tu CD de conjuros, lo que arroje un resultado mayor.
+Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastrearte obtendrá un bonificador +4 por estatus o sera igual a tu CD de conjuros, lo que arroje un resultado mayor.
 
 **Potenciado (2.o)** La duracion se incrementa a 8 horas.
 

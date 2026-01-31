@@ -29,7 +29,7 @@ Como quiera que no puedes mover el cuerpo tan libremente cuando montas, sufres u
 
 Muchos monstruos pueden volar y los PJs pueden utilizar conjuros y objetos para obtener dicha aptitud. Las criaturas voladoras tienen que utilizar la acción Volar (pag. 419) para moverse por el aire. Llevar a cabo una maniobra especialmente complicada podría requerir el uso de Acrobacias para Maniobrar en vuelo. Las criaturas pueden caer del aire utilizando las reglas de caída, que estan en la pag. 421. A discreción del DJ, algunas acciones basadas en tierra podrían no funcionar en el aire. Por ejemplo una criatura en vuelo no puede Saltar.
 
-## Combate acuatico
+## Combate acuático
 
 Utiliza estas reglas para los combates en el agua o bajo la misma:
 
@@ -44,16 +44,16 @@ Utiliza estas reglas para los combates en el agua o bajo la misma:
 
 Puedes contener el aliento tantos asaltos como 5 + tu modificador por Constitución. Reduce en 1 asalto el aire que te queda al final de cada uno de tus turnos, o en 2 si has atacado o lanzado algún conjuro en el mismo. Tambien pierdes 1 asalto de aire cada vez que sufres un impacto critico o fallas criticamente una salvación contra un efecto dañino. Si hablas (incluido Lanzar un conjuro) pierdes todo el aire que te queda.
 
-Cuando se te acaba el aire, quedas inconsciente y empiezas a asfixiarte. No puedes recuperarte de estar inconsciente y tienes que hacer una salvación de Fortaleza CD 20 al final de cada uno de tus turnos. Con un fallo, sufres 1d10 dano y, con un fallo critico, mueres. Cada prueba después de la primera, la CD se incrementa en 5 y el dano en 1d10; estos incrementos son acumulativos. Una vez recuperes el acceso al aire, dejaras de asfixiarte y ya no estaras inconsciente (a menos que estes a 0 Puntos de Golpe).
+Cuando se te acaba el aire, quedas inconsciente y empiezas a asfixiarte. No puedes recuperarte de estar inconsciente y tienes que hacer una salvación de Fortaleza CD 20 al final de cada uno de tus turnos. Con un fallo, sufres 1d10 dano y, con un fallo critico, mueres. Cada prueba después de la primera, la CD se incrementa en 5 y el dano en 1d10; estos incrementos son acumulativos. Una vez recuperes el acceso al aire, dejaras de asfixiarte y ya no estarás inconsciente (a menos que estes a 0 Puntos de Golpe).
 
 > ### Combate tridimensional
 >
-> En el combate aereo y en el acuatico, podría ser necesario calcular la posición en tres dimensiones. Para las criaturas voladoras, podrías utilizar uno de los siguientes metodos:
+> En el combate aereo y en el acuático, podría ser necesario calcular la posición en tres dimensiones. Para las criaturas voladoras, podrías utilizar uno de los siguientes metodos:
 >
 > - Utilizar plataformas para colocar en ellas las criaturas voladoras.
 > - Colocar un dado junto a una criatura, donde el numero indica cuantas casillas esta por encima.
-> - Hacer una pila de dados o de fichas, 1 por cada 5 pies (1,5 m) de elevacion.
-> - Anotar la elevacion junto al monstruo en el tablero.
+> - Hacer una pila de dados o de fichas, 1 por cada 5 pies (1,5 m) de elevación.
+> - Anotar la elevación junto al monstruo en el tablero.
 >
 > En el combate submarino, elige un plano para que sea la linea base, tipicamente la superficie, el fondo marino o un objeto estacionario desde el que puedes medir.
 >

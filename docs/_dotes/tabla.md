@@ -25,7 +25,7 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Competencia con armadura | 1 | — | Obtienes el rango entrenado en un tipo de armadura |
 | Competencia con armas | 1 | — | Obtienes el rango entrenado en un tipo de arma |
 | Control de la respiracion | 1 | — | Contienes el aliento mas tiempo y obtienes beneficios contra amenazas inhaladas |
-| Dureza | 1 | — | Aumentas tus puntos de Golpe maximos y reduces la CD de las pruebas de recuperacion |
+| Dureza | 1 | — | Aumentas tus puntos de Golpe maximos y reduces la CD de las pruebas de recuperación |
 | Duro de pelar | 1 | — | Mueres a moribundo 5, en lugar de a moribundo 4 |
 | Iniciativa sensacional | 1 | — | +2 a las tiradas de iniciativa |
 | Mascota | 1 | — | Tienes una mascota leal |
@@ -33,7 +33,7 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Paso de pluma | 1 | Destreza +2 | Das Pasos en terreno difícil |
 | Perspicacia astuta | 1 | — | Obtienes el rango experto en una tirada de salvación o en Percepción |
 | Pies ligeros | 1 | — | Aumentas tu Velocidad en 5 pies (1,5 m) |
-| Recuperacion rapida | 1 | Constitución +2 | Recuperas mas puntos de Golpe gracias al descanso, te recuperas mas rapido de enfermedades y venenos |
+| Recuperación rapida | 1 | Constitución +2 | Recuperas mas puntos de Golpe gracias al descanso, te recuperas mas rapido de enfermedades y venenos |
 | Improvisacion no entrenada | 3 | — | Se te da cada vez mejor el uso de habilidades no entrenadas |
 | Parangon ancestral | 3 | — | Obtienes una dote de ascendencia de 1.er nivel |
 | Planificador presciente | 3 | — | Te procuras una pieza de equipo de aventurero |
@@ -80,7 +80,7 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 
 | Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|----------------|------------|
-| Artesanía alquimica | 1 | Entrenado en Artesanía | Preparas sustancias alquímicas |
+| Artesanía alquímica | 1 | Entrenado en Artesanía | Preparas sustancias alquímicas |
 | Especialidad artesana | 1 | Entrenado en Artesanía | Obtienes bonificadores para Elaborar ciertos objetos |
 | Preparar trampas de lazo | 1 | Entrenado en Artesanía | Elaboras trampas de lazo |
 | Reparacion rapida | 1 | Entrenado en Artesanía | Reparas objetos rapidamente |
@@ -166,8 +166,8 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 |------|-------|----------------|------------|
 | Medicina de guerra | 1 | Entrenado en Medicina | Te curas a ti mismo o a un aliado en combate |
 | Medico de sala | 2 | Experto en Medicina | Tratas a varios pacientes a la vez |
-| Recuperacion continua | 2 | Experto en Medicina | Tratas heridas a varios pacientes a la vez |
-| Recuperacion robusta | 2 | Experto en Medicina | Sacas mayor partido de Tratar enfermedad y Tratar veneno |
+| Recuperación continua | 2 | Experto en Medicina | Tratas heridas a varios pacientes a la vez |
+| Recuperación robusta | 2 | Experto en Medicina | Sacas mayor partido de Tratar enfermedad y Tratar veneno |
 | Tratamiento inusual | 2 | Experto en Medicina | Tratar heridas atiende estados adicionales |
 | Primeros auxilios avanzados | 7 | Maestro en Medicina | Usas Primeros auxilios para reducir los valores de los estados asustado e indispuesto |
 | Medico legendario | 15 | Legendario en Medicina | Quitas enfermedad o los estados cegado, ensordecido, condenado o drenado |

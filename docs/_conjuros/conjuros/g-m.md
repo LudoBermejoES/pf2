@@ -582,7 +582,7 @@ Haces brillar un abrasador rayo de luz tenido de energia sagrada. Haz un ataque 
 
 Si la luz atraviesa un area de oscuridad magica o designa como objetivo a una criatura afectada por oscuridad magica, luz sagrada hace una prueba para contrarrestar la oscuridad. Si tienes que determinar si la luz atraviesa o no un area de oscuridad, traza una linea entre ti mismo y el objetivo del conjuro.
 
-**Potenciado (+1)** El dano por fuego se incrementa en 2d6 y el dano espiritual contra las criaturas sacrilegas se incrementa en 2d6.
+**Potenciado (+1)** El dano por fuego se incrementa en 2d6 y el dano espiritual contra las criaturas sacrílegas se incrementa en 2d6.
 
 ---
 

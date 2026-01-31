@@ -13,7 +13,7 @@ Habra momentos en los que una simple prueba no bastara para resolver un desafio,
 
 Un encuentro es una secuencia de turnos donde cada participante actua siguiendo un orden determinado.
 
-- Se tira **iniciativa** para determinar el orden de actuacion
+- Se tira **iniciativa** para determinar el orden de actuación
 - El encuentro se desarrolla en **asaltos** (cada uno dura aproximadamente 6 segundos)
 - Cada participante actua en su turno segun el orden de iniciativa
 - El asalto termina cuando todos han actuado, y comienza uno nuevo
@@ -116,7 +116,7 @@ Las tiradas de salvación representan tu capacidad para resistir efectos dañino
 
 | Resultado | Efecto tipico |
 |-----------|---------------|
-| Éxito critico | Ningun efecto o efecto muy reducido |
+| Éxito critico | ningún efecto o efecto muy reducido |
 | Éxito | Efecto reducido (a menudo la mitad del dano) |
 | Fallo | Efecto completo |
 | Fallo critico | Efecto aumentado o consecuencias adicionales |
@@ -134,13 +134,13 @@ Los Puntos de Golpe representan la salud y vitalidad de una criatura. Cuando rec
 | 0 | Inconsciente y muriendo |
 | Debajo de 0 | No existe; llegas a 0 como minimo |
 
-### Morir y recuperacion
+### Morir y recuperación
 
 Cuando llegas a 0 PG:
 
 1. Caes **inconsciente**
 2. Obtienes el estado **muriendo 1**
-3. Al inicio de cada turno, tiras una **prueba plana de recuperacion** (CD 10)
+3. Al inicio de cada turno, tiras una **prueba plana de recuperación** (CD 10)
 
 | Resultado de prueba plana | Efecto |
 |---------------------------|--------|

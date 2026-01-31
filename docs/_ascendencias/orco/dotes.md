@@ -116,7 +116,7 @@ Te defiendes contra la magia balándote en técnicas derivadas de las superstici
 
 Eres excepcionalmente difícil de matar.
 
-**Beneficio:** La CD de tus pruebas de recuperacion es igual a 9 + tu valor de moribundo, o bien 8 + tu valor de moribundo si dispones de la dote general Dureza. Ademas, siempre que alguien te devuelve a la vida utilizando magia que normalmente te dejaria debilitado durante una semana (como por ejemplo revivir a los muertos o el ritual resurreccion), no sufres dicho estado.
+**Beneficio:** La CD de tus pruebas de recuperación es igual a 9 + tu valor de moribundo, o bien 8 + tu valor de moribundo si dispones de la dote general Dureza. Ademas, siempre que alguien te devuelve a la vida utilizando magia que normalmente te dejaria debilitado durante una semana (como por ejemplo revivir a los muertos o el ritual resurreccion), no sufres dicho estado.
 
 ---
 

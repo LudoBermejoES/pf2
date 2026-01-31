@@ -13,7 +13,7 @@ Durante la exploración, el juego adopta una forma relativamente libre, con los 
 
 ## Ejemplos de exploración
 
-- Salir de la poblacion a caballo
+- Salir de la población a caballo
 - Seguir el rastro de una tribu de orcos merodeadores
 - Esquivar a los exploradores de la tribu
 - Convencer a un cazador local de que ayude en un combate

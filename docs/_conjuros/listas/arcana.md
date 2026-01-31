@@ -194,7 +194,7 @@ PC = poco común.
 - **[Muro de piedra](/conjuros/muro-de-piedra/) P** - Das forma a un muro de piedra.
 - **[Nube toxica](/conjuros/nube-toxica/) P** - Haces que una nube de niebla venenosa se aleje rodando de ti.
 - **[Ojo explorador](/conjuros/ojo-explorador/)** - Un ojo invisible te transmite lo que ve.
-- **[Ola de desesperacion](/conjuros/ola-de-desesperacion/) P** - Conduces a la desesperación a las criaturas de un area.
+- **[Ola de desesperación](/conjuros/ola-de-desesperacion/) P** - Conduces a la desesperación a las criaturas de un area.
 - **[Pasaje magico P](/conjuros/pasaje-magico-p/), P** - Abres un pasaje temporal a traves de una superficie.
 - **[Pua empalador](/conjuros/pua-empalador/) P** - Empalas a una criatura con una pua de hierro frio.
 - **[Recado](/conjuros/recado/)** - Envias un mensaje a una criatura en cualquier parte del planeta y obtienes respuesta.

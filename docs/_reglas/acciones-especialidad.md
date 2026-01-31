@@ -25,7 +25,7 @@ Cuando caes de un saliente u otro asidero o pasas al lado mientras caes, puedes 
 
 **Éxito:** Si por lo menos tienes una mano libre, te agarras al saliente, deteniendo tu caída. Sigues sufriendo dano debido a la distancia caída hasta ese momento, pero la tratas como si fuera 20 pies (6 m) mas corta. Si no tienes ninguna mano libre, sigues cayendo como si hubieras fallado la prueba.
 
-**Fallo critico:** Continuas cayendo y, si has caido 20 pies (6 m) o mas antes de usar esta reacción, sufres 10 dano contundente debido al impacto por cada 20 pies (6 m) caidos.
+**Fallo critico:** Continuas cayendo y, si has caido 20 pies (6 m) o mas antes de usar esta reacción, sufres 10 dano contundente debido al impacto por cada 20 pies (6 m) caídos.
 
 ---
 
@@ -103,7 +103,7 @@ Te mueves hasta la criatura y la montas. Si ya estas montado, en su lugar puedes
 
 **Requisitos:** Una criatura no ha sido detectada por uno o mas de tus aliados, pero si por ti.
 
-Indicas a uno o mas de tus aliados donde esta una criatura a la que puedes ver, haciendo gestos en una dirección y describiendo verbalmente la distancia. Dicha criatura pasa a estar escondida de tus aliados, en lugar de no detectada. Esto solo funciona para los aliados que pueden verte y estan en una posición en la que podrían potencialmente detectar al objetivo. Si tus aliados no pueden oirte o entenderte, tienen que tener éxito en una prueba de Percepción contra la CD de Sigilo de la criatura o te entienden mal y creen que el objetivo esta en un lugar diferente.
+Indicas a uno o mas de tus aliados donde esta una criatura a la que puedes ver, haciendo gestos en una dirección y describiendo verbalmente la distancia. Dicha criatura pasa a estar escondida de tus aliados, en lugar de no detectada. Esto solo funciona para los aliados que pueden verte y estan en una posición en la que podrían potencialmente detectar al objetivo. Si tus aliados no pueden oírte o entenderte, tienen que tener éxito en una prueba de Percepción contra la CD de Sigilo de la criatura o te entienden mal y creen que el objetivo esta en un lugar diferente.
 
 ---
 
@@ -119,4 +119,4 @@ Te mueves por el aire como máximo a tu Velocidad de vuelo. Moverse hacia arriba
 
 ## Hablar
 
-Si puedes actuar, tambien puedes hablar. No tienes que gastar ningun tipo de acción para hablar pero, como quiera que un asalto representa 6 segundos de tiempo, lo normal es que solo puedas pronunciar como máximo una frase por asalto. Usos especiales del habla, como por ejemplo hacer una prueba de habilidad de Engano para Mentir, requiere gastar acciones y seguir sus propias reglas. El habla tiene el rasgo auditivo. Si te comunicas de alguna otra forma que el habla, podrían aplicarse otras reglas. Por ejemplo, usar el lenguaje de signos es visual en lugar de auditivo.
+Si puedes actuar, tambien puedes hablar. No tienes que gastar ningún tipo de acción para hablar pero, como quiera que un asalto representa 6 segundos de tiempo, lo normal es que solo puedas pronunciar como máximo una frase por asalto. Usos especiales del habla, como por ejemplo hacer una prueba de habilidad de Engano para Mentir, requiere gastar acciones y seguir sus propias reglas. El habla tiene el rasgo auditivo. Si te comunicas de alguna otra forma que el habla, podrían aplicarse otras reglas. Por ejemplo, usar el lenguaje de signos es visual en lugar de auditivo.

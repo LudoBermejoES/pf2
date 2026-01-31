@@ -302,7 +302,7 @@ Si dispones del rango experto en una habilidad, cumples los prerrequisitos para 
 
 ---
 
-### Coordinacion Defensiva ◆
+### Coordinación Defensiva ◆
 **Dote 6**
 
 *Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
@@ -346,7 +346,7 @@ No pierdes facilmente tus conjuros. Si una reacción interrumpiría tu acción d
 
 ## Nivel 8
 
-### Acompanar ↺
+### Acompañar ↺
 **Dote 8**
 
 *Bardo, Concentrar, Manipular*
