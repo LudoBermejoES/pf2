@@ -12,6 +12,8 @@ kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
+  parse_block_html: true
+  parse_span_html: true
 
 # Theme settings
 remote_theme: null
