@@ -44,19 +44,6 @@ Encuentra conjuros específicos por lista o nombre:
 ### Búsqueda Alfabética
 - [**Índice Completo de Conjuros**]({{ '/conjuros/spell-index/' | relative_url }}) - Listado A-Z de todos los hechizos
 
-## 🔍 Índice Rápido por Letra
-
-Acceso directo a conjuros individuales:
-
-- [**A-C**]({{ '/conjuros/spell-individual/a-c/' | relative_url }})
-- [**D-F**]({{ '/conjuros/spell-individual/d-f/' | relative_url }})
-- [**G-M**]({{ '/conjuros/spell-individual/g-m/' | relative_url }})
-- [**N-R**]({{ '/conjuros/spell-individual/n-r/' | relative_url }})
-- [**S**]({{ '/conjuros/spell-individual/s/' | relative_url }})
-- [**T-Z**]({{ '/conjuros/spell-individual/t-z/' | relative_url }})
-
-> **Consejo**: Usa el índice alfabético si conoces el nombre exacto del conjuro que buscas.
-
 ## 📖 Temas Avanzados
 
 Para jugadores experimentados:
