@@ -95,3 +95,23 @@ sidebar:
       - title: "---"
       - title: "Arquetipos"
         url: /clases/arquetipos/
+        sub_items:
+          - title: "Arquetipos Multiclase"
+            url: /clases/arquetipos/multiclase/
+            sub_items:
+              - title: "Bardo"
+                url: /clases/arquetipos/multiclase/bardo/
+              - title: "Brujo"
+                url: /clases/arquetipos/multiclase/brujo/
+              - title: "Clérigo"
+                url: /clases/arquetipos/multiclase/clerigo/
+              - title: "Druida"
+                url: /clases/arquetipos/multiclase/druida/
+              - title: "Explorador"
+                url: /clases/arquetipos/multiclase/explorador/
+              - title: "Guerrero"
+                url: /clases/arquetipos/multiclase/guerrero/
+              - title: "Mago"
+                url: /clases/arquetipos/multiclase/mago/
+              - title: "Pícaro"
+                url: /clases/arquetipos/multiclase/picaro/

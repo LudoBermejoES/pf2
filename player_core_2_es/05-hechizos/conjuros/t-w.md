@@ -1,222 +1,222 @@
-# Spells T-W
+# Conjuros T–W
 
-This section contains all spells from Player Core 2 whose names begin with the letters T through W, ordered alphabetically.
-
----
-
-## Telepathic Demand · ◆◆◆ · Spell 9
-
-**Traits:** Concentrate, Incapacitation, Linguistic, Manipulate, Mental
-
-**Traditions:** arcane, divine, occult
-
-**Range:** planetary; **Targets:** 1 creature you've telepathically contacted before
-
-**Defense:** Will; **Duration:** varies
-
-You send the target a message of 25 words or fewer, and it can respond immediately with its own message of 25 words or fewer. Your message is insidious and has the effect of a suggestion spell, with the message substituting for the spoken suggestion. On a successful save, the target is temporarily immune for 1 day, and on a critical success, the target is temporarily immune for 1 month. You can target a creature only if you've previously been in telepathic contact with it before, such as via the telepathy spell.
+Esta sección contiene todos los conjuros de Player Core 2 cuyos nombres comienzan por las letras de la T a la W, ordenados alfabéticamente.
 
 ---
 
-## Thoughtful Gift · ◆ · Spell 1
+## Exigencia telepática · ◆◆◆ · Conjuro 9
 
-**Traits:** Manipulate, Teleportation
+**Rasgos:** Concentrar, Incapacitación, Lingüístico, Manipular, Mental
 
-**Traditions:** arcane, divine, occult
+**Tradiciones:** arcana, divina, oculta
 
-**Range:** 120 feet; **Targets:** 1 willing creature
+**Rango:** planetario; **Objetivos:** 1 criatura con la que te hayas comunicado telepáticamente antes
 
-You teleport one object of light or negligible Bulk held in your hand to the target. The object appears instantly in the target's hand if they have a free hand, or at their feet if they don't. The target knows what object you're attempting to send them. If the target is unconscious or refuses to accept your gift, or if the spell would teleport a creature (even if the creature is inside an extradimensional container), the spell fails.
+**Defensa:** Voluntad; **Duración:** variable
 
-**Heightened (3rd)** The spell's range increases to 500 feet.
-
-**Heightened (5th)** As 3rd level, and the object's maximum Bulk increases to 1. You can Cast the Spell with 3 actions instead of 1; doing so increases the range to 1 mile, and you don't need line of sight to the target, but you must be extremely familiar with the target.
+Envías al objetivo un mensaje de 25 palabras o menos, y puede responder inmediatamente con su propio mensaje de 25 palabras o menos. Tu mensaje es insidioso y tiene el efecto de un conjuro de sugerencia, sustituyendo el mensaje a la sugerencia hablada. Con un éxito en la salvación, el objetivo queda temporalmente inmune durante 1 día, y con un éxito crítico, el objetivo queda temporalmente inmune durante 1 mes. Solo puedes apuntar a una criatura si previamente has estado en contacto telepático con ella, como mediante el conjuro telepatía.
 
 ---
 
-## Threefold Aspect · Spell 3
+## Regalo considerado · ◆ · Conjuro 1
 
-**Traits:** Concentrate, Manipulate, Polymorph
+**Rasgos:** Manipular, Teletransportación
 
-**Traditions:** occult, primal
+**Tradiciones:** arcana, divina, oculta
 
-**Cast:** 1 minute
+**Rango:** 120 pies (36 m); **Objetivos:** 1 criatura voluntaria
 
-**Duration:** until the next time you make your daily preparations
+Teletransportas un objeto de Volumen ligero o despreciable que tengas en tu mano al objetivo. El objeto aparece instantáneamente en la mano del objetivo si tiene una mano libre, o a sus pies si no. El objetivo sabe qué objeto estás intentando enviarle. Si el objetivo está inconsciente o se niega a aceptar tu regalo, o si el conjuro teletransportaría a una criatura (incluso si la criatura está dentro de un contenedor extradimensional), el conjuro falla.
 
-This spell allows you to change between three versions of yourself of different ages: a maiden (young adult), a mother (adult), or a matriarch (elderly). Choose one when you Cast the Spell. While the spell lasts, you can change the age to any of the three or to your natural age by Sustaining the spell. Your form always looks like you regardless of the age, and creatures who know you still recognize you and can tell your age is different.
+**Potenciado (3.º)** El alcance del conjuro aumenta a 500 pies (150 m).
 
-Threefold aspect alters your physical appearance and personality to present an authentic version of yourself at various ages. This grants you a +4 status bonus to Deception checks to pass as the chosen age, and you can add your level as a proficiency bonus to these checks even if you're untrained. Furthermore, unless a creature specifically uses a Seek action or otherwise carefully examines you, it doesn't get a chance to notice that you aren't at your true age. You can Dismiss this spell.
-
----
-
-## Vampiric Maiden · ◆◆ · Spell 4
-
-**Traits:** Concentrate, Manipulate, Void
-
-**Traditions:** arcane, divine, occult
-
-**Range:** 30 feet; **Targets:** 1 creature
-
-**Defense:** Fortitude
-
-A ghostly iron maiden snaps shut on the target and drains its vitality for your gain. This deals 4d4 piercing damage and 4d4 void damage, and the target must attempt a Fortitude save. You gain temporary Hit Points equal to the void damage the target takes (after applying resistances, weaknesses, and the like). You lose any remaining temporary Hit Points after 1 minute.
-
-**Critical Success** The target is unaffected.
-
-**Success** The target takes half damage.
-
-**Failure** The target is briefly trapped within the vampiric maiden. The target takes full damage and is immobilized by the iron maiden for 1 round or until it uses an Interact action to extricate itself, whichever comes first.
-
-**Critical Failure** The target takes double damage and is immobilized by the vampiric maiden for 1 round or until it Escapes (the DC is your spell DC), whichever comes first.
-
-**Heightened (+1)** The piercing and void damage increase by 1d4 each.
+**Potenciado (5.º)** Como a 3.º rango, y el Volumen máximo del objeto aumenta a 1. Puedes lanzar el conjuro con 3 acciones en lugar de 1; al hacerlo, el alcance aumenta a 1 milla (1,6 km), y no necesitas línea de visión al objetivo, pero debes estar extremadamente familiarizado con él.
 
 ---
 
-## Visions of Danger · ◆◆◆ · Spell 7
+## Triple aspecto · Conjuro 3
 
-**Traits:** Auditory, Concentrate, Illusion, Manipulate, Visual
+**Rasgos:** Concentrar, Manipular, Polimorfo
 
-**Traditions:** occult
+**Tradiciones:** oculta, primigenia
 
-**Range:** 500 feet; **Area:** 30-foot burst
+**Lanzamiento:** 1 minuto
 
-**Defense:** basic Will; **Duration:** 1 minute
+**Duración:** hasta tu próxima preparación diaria
 
-An illusion of horrific creatures fills the spell's area. The creatures look like Tiny swarming monsters with a specific appearance of your choice, such as fiendish flies or animated saw blades. The burst deals 8d8 mental damage with a basic Will save to each creature that's inside the burst when it's created, enters the burst, or starts its turn inside the burst. A creature that critically succeeds at its Will save can immediately attempt to disbelieve the illusion. A creature that tries to Interact with the monsters or observes one with a Seek action can attempt to disbelieve the illusion. Creatures that disbelieve the illusion take no damage from the illusion thereafter.
+Este conjuro te permite cambiar entre tres versiones de ti mismo de diferentes edades: doncella (joven adulto), madre (adulto) o matriarca (anciano). Elige una cuando lances el conjuro. Mientras dure el conjuro, puedes cambiar la edad a cualquiera de las tres o a tu edad natural sosteniendo el conjuro. Tu forma siempre se parece a ti independientemente de la edad, y las criaturas que te conocen aún te reconocen y pueden notar que tu edad es diferente.
 
-**Heightened (+1)** The mental damage increases by 1d8.
-
----
-
-## Vomit Swarm · ◆◆ · Spell 2
-
-**Traits:** Concentrate, Manipulate
-
-**Traditions:** arcane, occult, primal
-
-**Area:** 30-foot cone
-
-**Defense:** basic Reflex
-
-You belch forth a swarm of magical vermin. You evoke and shape the creatures from your own imagination, allowing you to change the appearance of the creatures (typically a mix of centipedes, roaches, wasps, and worms), but this doesn't change the effect of the spell. The vermin swarm over anyone in the area, their bites and stings dealing 2d8 piercing damage (basic Reflex save). A creature that fails its saving throw also becomes sickened 1. Once the spell ends, the swarm disappears.
-
-**Heightened (+1)** The damage increases by 1d8.
+Triple aspecto altera tu apariencia física y personalidad para presentar una versión auténtica de ti a distintas edades. Esto te otorga un bonificador de estado +4 a las pruebas de Engaño para pasar por la edad elegida, y puedes añadir tu nivel como bonificador de competencia a estas pruebas incluso si no estás entrenado. Además, a menos que una criatura use específicamente una acción de Buscar o te examine cuidadosamente de otro modo, no tiene oportunidad de notar que no estás en tu edad real. Puedes Disipar este conjuro.
 
 ---
 
-## Wall of Flesh · ◆◆ · Spell 5
+## Doncella vampírica · ◆◆ · Conjuro 4
 
-**Traits:** Concentrate, Manipulate
+**Rasgos:** Concentrar, Manipular, Vacío
 
-**Traditions:** divine, occult, primal
+**Tradiciones:** arcana, divina, oculta
 
-**Range:** 60 feet
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
-**Duration:** 1 minute
+**Defensa:** Fortaleza
 
-You craft a 20-foot-tall wall of living flesh in a straight line up to 30 feet long. The wall is 3 feet thick, and each 5-foot-long section has AC 10 and 75 Hit Points. If you wish, the wall can be of a smaller length or height. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. The wall can't be Repaired but can be healed by vitality, and healing spells and abilities.
+Una doncella de hierro espectral se cierra sobre el objetivo y drena su vitalidad en tu beneficio. Esto inflige 4d4 de daño perforante y 4d4 de daño de vacío, y el objetivo debe intentar una salvación de Fortaleza. Obtienes Puntos de Golpe temporales iguales al daño de vacío que sufra el objetivo (tras aplicar resistencias, debilidades y similares). Pierdes cualquier PG temporal restante tras 1 minuto.
 
-When you Cast the Spell, choose one of the following features for your wall.
+**Éxito crítico** El objetivo no se ve afectado.
 
-**Mouths:** The wall has countless toothy mouths along its surface. The mouths Strike any creature that ends its turn within 5 feet of the wall, using your spell attack modifier for these Strikes and dealing 2d6 piercing damage. The mouths are capable of consuming potions; since the wall is alive, it can recover Hit Points from a healing potion, but it can't benefit from any effect that would give it the ability to move. Otherwise, the GM determines which potions can affect the wall.
+**Éxito** El objetivo recibe la mitad de daño.
 
-**Eyes:** The wall sprouts hundreds of unblinking eyes. You can see through these eyes, gaining a +2 circumstance bonus to visual Perception checks within the wall's line of sight. You can also use the eyes for determining line of sight for ranged attacks and spells, but you don't have line of effect through the wall.
+**Fallo** El objetivo queda brevemente atrapado dentro de la doncella vampírica. El objetivo recibe el daño completo y queda inmovilizado por la doncella de hierro durante 1 asalto o hasta que use una acción de Interactuar para liberarse, lo que ocurra primero.
 
-**Arms:** The wall is a mass of grasping arms. Any creature that ends its turn within 5 feet of the wall must attempt a Reflex save.
-- **Success** The creature is unaffected.
-- **Failure** The creature is grabbed by the wall for 1 round or until it Escapes against your spell DC, whichever comes first.
-- **Critical Failure** The creature is restrained by the wall for 1 round or until it Escapes against your spell DC, whichever comes first.
+**Fallo crítico** El objetivo recibe el doble de daño y queda inmovilizado por la doncella vampírica durante 1 asalto o hasta que Escape (la CD es tu CD de conjuro), lo que ocurra primero.
 
-**Heightened (+2)** The Hit Points of each section of the wall increase by 10, and the piercing damage dealt by the wall's mouths increases by 1d6.
+**Potenciado (+1)** El daño perforante y el daño de vacío aumentan en 1d4 cada uno.
 
 ---
 
-## Wanderer's Guide · Spell 3
+## Visiones de peligro · ◆◆◆ · Conjuro 7
 
-**Traits:** Concentrate, Manipulate
+**Rasgos:** Auditivo, Concentrar, Ilusión, Manipular, Visual
 
-**Traditions:** divine, occult
+**Tradiciones:** oculta
 
-**Cast:** 1 minute
+**Rango:** 500 pies (150 m); **Área:** explosión de 30 pies (9 m)
 
-**Duration:** until your next daily preparations
+**Defensa:** salvación básica de Voluntad; **Duración:** 1 minuto
 
-You call upon the beyond to guide your route. When you Cast this Spell, choose a destination; you receive an inspired route to that destination, allowing you and allies who travel overland with you to reduce the movement penalty from difficult terrain by half for the duration, as long as you don't deviate from the inspired route. This doesn't have any effect on movement during encounters. If you use this ability again before the duration is over, this effect ends and is replaced by that of the new route.
+Una ilusión de criaturas horribles llena el área del conjuro. Las criaturas parecen pequeños monstruos en enjambre con una apariencia específica de tu elección, como moscas demoníacas o sierras animadas. La explosión inflige 8d8 de daño mental (salvación básica de Voluntad) a cada criatura que esté dentro de la explosión cuando se crea, entre en la explosión o comience su turno dentro de la explosión. Una criatura que tenga éxito crítico en su salvación de Voluntad puede intentar inmediatamente descreer la ilusión. Una criatura que intente Interactuar con los monstruos u observe uno mediante una acción de Buscar puede intentar descreer la ilusión. Las criaturas que descrean la ilusión no reciben daño de la ilusión en lo sucesivo.
 
----
-
-## Weapon of Judgment · ◆◆ · Spell 9
-
-**Traits:** Concentrate, Manipulate, Sanctified, Spirit
-
-**Traditions:** divine
-
-**Requirements:** You have a deity.
-
-**Range:** 100 feet; **Targets:** 1 creature
-
-**Duration:** 1 minute
-
-An immense weapon of spiritual energy appears, hovering in the air above the target. The weapon has the ghostly visual appearance of your deity's favored weapon. Name war or peace when you cast this spell.
-
-If you name "war," mentally choose one creature. This must be a creature both you and the target can see. The target instinctively knows which creature this is. At the end of each of the target's turns, if the target didn't use a hostile action against the creature you chose during that turn, the weapon Strikes the target.
-
-If you name "peace," mentally choose up to five allies. The target instinctively knows who those allies are. The weapon Strikes the target each time the target uses a hostile action against you or one of the chosen allies. The weapon Strikes only once per action, even if the action targets multiple allies (such as for a fireball or a Whirlwind Strike).
-
-Strikes with the weapon are melee weapon attacks, but they use your spell attack modifier. Regardless of its appearance, the weapon deals 4d10 damage. The damage type is the same as the chosen weapon (or any of its types for a versatile weapon). The attack deals spirit damage instead if that would be more detrimental to the creature (as determined by the GM). No other statistics or attributes of the weapon apply, and even a ranged weapon attacks adjacent creatures only. The weapon takes a multiple attack penalty, which increases throughout the target's turn, but its penalty is separate from yours.
-
-A weapon of judgment is a weapon for the purposes of triggers, resistances, and so forth. The weapon doesn't take up space, grant flanking, or have any other attributes a creature would. The weapon can't make any attack other than its Strike, and feats or spells that affect weapons don't apply to this weapon.
-
-**Heightened (10th)** The damage increases by 1d10.
+**Potenciado (+1)** El daño mental aumenta en 1d8.
 
 ---
 
-## Web · ◆◆◆ · Spell 2
+## Vomitar enjambre · ◆◆ · Conjuro 2
 
-**Traits:** Concentrate, Manipulate
+**Rasgos:** Concentrar, Manipular
 
-**Traditions:** arcane, primal
+**Tradiciones:** arcana, oculta, primigenia
 
-**Range:** 30 feet; **Area:** 10-foot burst
+**Área:** cono de 30 pies (9 m)
 
-**Duration:** 1 minute
+**Defensa:** salvación básica de Reflejos
 
-You create a sticky web in the area that impedes creatures' movement. Squares filled with the web are difficult terrain. Each time a creature in the web begins to use a move action or enters the web during a move action it's using, it must attempt an Athletics check or Reflex save against your spell DC to avoid taking a circumstance penalty to its Speeds or becoming immobilized. A creature that gets out of the web ceases to take a circumstance penalty to its Speed from the web.
+Eructas un enjambre de alimañas mágicas. Evocas y das forma a las criaturas desde tu propia imaginación, permitiéndote cambiar su apariencia (típicamente una mezcla de ciempiés, cucarachas, avispas y gusanos), pero esto no cambia el efecto del conjuro. Las alimañas se arremolinan sobre cualquiera en el área; sus mordiscos y aguijonazos infligen 2d8 de daño perforante (salvación básica de Reflejos). Una criatura que falle su salvación también queda indispuesta 1. Una vez que el conjuro termina, el enjambre desaparece.
 
-Each square can be cleared of the web by a single attack or effect that deals at least 5 slashing damage or 1 fire damage. A square has AC 5, and it automatically fails its saving throws.
-
-**Critical Success** The creature is unaffected, and it doesn't need to attempt further Athletics checks or saving throws against the web this turn. If it used an Athletics check, it clears the web from every square it leaves during its movement.
-
-**Success** The creature is unaffected during its action. If it used an Athletics check, it clears the web from every square it leaves during its movement.
-
-**Failure** The creature takes a –10-foot circumstance penalty to its Speeds until the start of its next turn.
-
-**Critical Failure** The creature is immobilized until the start of its next turn, after which it takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape to remove its immobilized condition.
-
-**Heightened (4th)** The spell's area increases to a 20-foot burst, and its range increases to 60 feet.
+**Potenciado (+1)** El daño aumenta en 1d8.
 
 ---
 
-## Whispers of the Void · ◆◆ · Spell 4
+## Muro de carne · ◆◆ · Conjuro 5
 
-**Traits:** Auditory, Concentrate, Manipulate, Void
+**Rasgos:** Concentrar, Manipular
 
-**Traditions:** divine, occult
+**Tradiciones:** divina, oculta, primigenia
 
-**Range:** 60 feet; **Area:** 10-foot burst
+**Rango:** 60 pies (18 m)
 
-**Defense:** Fortitude
+**Duración:** 1 minuto
 
-You whisper baleful secrets that transcend language and carry magically to the ears of your foes. The words take physical form, weakening the life force of the targets, each of which must attempt a Fortitude save.
+Fabricas un muro de carne viva de 20 pies (6 m) de altura en una línea recta de hasta 30 pies (9 m) de largo. El muro tiene 3 pies (90 cm) de grosor, y cada sección de 5 pies (1,5 m) de largo tiene CA 10 y 75 Puntos de Golpe. Si lo deseas, el muro puede tener menor longitud o altura. Debes crear el muro en un espacio abierto continuo de modo que sus bordes no atraviesen criaturas u objetos, o el conjuro se pierde. El muro no puede Repararse pero puede curarse con vitalidad y conjuros y habilidades de curación.
 
-**Critical Success** The creature is unaffected.
+Cuando lanzas el conjuro, elige una de las siguientes características para tu muro.
 
-**Success** The creature takes 2d8 persistent void damage.
+**Bocas:** El muro tiene innumerables bocas dentadas a lo largo de su superficie. Las bocas Golpean a cualquier criatura que termine su turno a 5 pies (1,5 m) del muro, usando tu modificador de ataque de conjuro para estos Golpes e infligiendo 2d6 de daño perforante. Las bocas son capaces de consumir pociones; dado que el muro está vivo, puede recuperar Puntos de Golpe de una poción de curación, pero no puede beneficiarse de ningún efecto que le otorgue la capacidad de moverse. En caso contrario, el DJ determina qué pociones pueden afectar al muro.
 
-**Failure** The creature takes 4d8 persistent void damage and becomes drained 1.
+**Ojos:** El muro brota cientos de ojos sin parpadear. Puedes ver a través de estos ojos, obteniendo un bonificador circunstancial +2 a las pruebas de Percepción visual dentro de la línea de visión del muro. También puedes usar los ojos para determinar la línea de visión de ataques a distancia y conjuros, pero no tienes línea de efecto a través del muro.
 
-**Critical Failure** The creature takes 4d8 persistent void damage and becomes drained 2 and doomed 1.
+**Brazos:** El muro es una masa de brazos aferradores. Cualquier criatura que termine su turno a 5 pies (1,5 m) del muro debe intentar una salvación de Reflejos.
+- **Éxito** La criatura no se ve afectada.
+- **Fallo** La criatura es agarrada por el muro durante 1 asalto o hasta que Escape contra tu CD de conjuro, lo que ocurra primero.
+- **Fallo crítico** La criatura queda sujeta por el muro durante 1 asalto o hasta que Escape contra tu CD de conjuro, lo que ocurra primero.
 
-**Heightened (+2)** The persistent void damage increases by 1d8 on a success, or by 2d8 on a failure or critical failure.
+**Potenciado (+2)** Los Puntos de Golpe de cada sección del muro aumentan en 10, y el daño perforante infligido por las bocas del muro aumenta en 1d6.
+
+---
+
+## Guía del caminante · Conjuro 3
+
+**Rasgos:** Concentrar, Manipular
+
+**Tradiciones:** divina, oculta
+
+**Lanzamiento:** 1 minuto
+
+**Duración:** hasta tu próxima preparación diaria
+
+Invocas al más allá para guiar tu ruta. Cuando lanzas el conjuro, elige un destino; recibes una ruta inspirada hacia ese destino, permitiéndote a ti y a aliados que viajen por tierra contigo reducir a la mitad el penalizador de movimiento por terreno difícil durante la duración, siempre que no te desvíes de la ruta inspirada. Esto no tiene efecto alguno sobre el movimiento durante los encuentros. Si usas esta capacidad de nuevo antes de que termine la duración, este efecto finaliza y es reemplazado por el de la nueva ruta.
+
+---
+
+## Arma del juicio · ◆◆ · Conjuro 9
+
+**Rasgos:** Concentrar, Manipular, Santificado, Espíritu
+
+**Tradiciones:** divina
+
+**Requisitos:** Tienes una deidad.
+
+**Rango:** 100 pies (30 m); **Objetivos:** 1 criatura
+
+**Duración:** 1 minuto
+
+Un arma inmensa de energía espiritual aparece, flotando en el aire sobre el objetivo. El arma tiene el aspecto visual fantasmal del arma predilecta de tu deidad. Nombra guerra o paz cuando lances este conjuro.
+
+Si nombras «guerra», elige mentalmente una criatura. Debe ser una criatura que tanto tú como el objetivo podáis ver. El objetivo sabe instintivamente qué criatura es. Al final de cada uno de los turnos del objetivo, si el objetivo no usó una acción hostil contra la criatura que elegiste durante ese turno, el arma Golpea al objetivo.
+
+Si nombras «paz», elige mentalmente hasta cinco aliados. El objetivo sabe instintivamente quiénes son esos aliados. El arma Golpea al objetivo cada vez que el objetivo usa una acción hostil contra ti o uno de los aliados elegidos. El arma solo Golpea una vez por acción, incluso si la acción apunta a varios aliados (como con una bola de fuego o un Golpe giratorio).
+
+Los Golpes con el arma son ataques de arma cuerpo a cuerpo, pero usan tu modificador de ataque de conjuro. Independientemente de su apariencia, el arma inflige 4d10 de daño. El tipo de daño es el mismo que el del arma elegida (o cualquiera de sus tipos si es versátil). El ataque inflige daño espiritual en su lugar si eso fuera más perjudicial para la criatura (según determine el DJ). No se aplican otras estadísticas ni atributos del arma, y hasta un arma a distancia solo ataca a criaturas adyacentes. El arma sufre una penalización por ataques múltiples, que aumenta durante el turno del objetivo, pero su penalización es independiente de la tuya.
+
+Un arma del juicio cuenta como arma a efectos de desencadenantes, resistencias, etc. El arma no ocupa espacio, no otorga flanqueo ni tiene ningún otro atributo propio de una criatura. El arma no puede realizar ningún ataque aparte de su Golpe, y dotes o conjuros que afecten a armas no se aplican a esta arma.
+
+**Potenciado (10.º)** El daño aumenta en 1d10.
+
+---
+
+## Telaraña · ◆◆◆ · Conjuro 2
+
+**Rasgos:** Concentrar, Manipular
+
+**Tradiciones:** arcana, primigenia
+
+**Rango:** 30 pies (9 m); **Área:** explosión de 10 pies (3 m)
+
+**Duración:** 1 minuto
+
+Creas una telaraña pegajosa en el área que impide el movimiento de las criaturas. Las casillas llenas de la telaraña son terreno difícil. Cada vez que una criatura en la telaraña comienza a usar una acción de movimiento o entra en la telaraña durante una acción de movimiento que está usando, debe intentar una prueba de Atletismo o una tirada de Reflejos contra tu CD de conjuro para evitar recibir un penalizador circunstancial a sus Velocidades o quedar inmovilizada. Una criatura que salga de la telaraña deja de recibir el penalizador circunstancial a su Velocidad por la telaraña.
+
+Cada casilla puede despejarse de la telaraña mediante un solo ataque o efecto que inflija al menos 5 de daño cortante o 1 de daño de fuego. Una casilla tiene CA 5, y falla automáticamente sus tiradas de salvación.
+
+**Éxito crítico** La criatura no se ve afectada, y no necesita intentar más pruebas de Atletismo ni tiradas de salvación contra la telaraña este turno. Si usó una prueba de Atletismo, despeja la telaraña de cada casilla que abandone durante su movimiento.
+
+**Éxito** La criatura no se ve afectada durante su acción. Si usó una prueba de Atletismo, despeja la telaraña de cada casilla que abandone durante su movimiento.
+
+**Fallo** La criatura recibe un penalizador circunstancial –10 pies a sus Velocidades hasta el comienzo de su siguiente turno.
+
+**Fallo crítico** La criatura queda inmovilizada hasta el comienzo de su siguiente turno, tras lo cual recibe un penalizador circunstancial –10 pies a sus Velocidades durante 1 asalto. Puede intentar Escapar para eliminar su condición de inmovilizada.
+
+**Potenciado (4.º)** El área del conjuro aumenta a una explosión de 20 pies (6 m), y su alcance aumenta a 60 pies (18 m).
+
+---
+
+## Susurros del vacío · ◆◆ · Conjuro 4
+
+**Rasgos:** Auditivo, Concentrar, Manipular, Vacío
+
+**Tradiciones:** divina, oculta
+
+**Rango:** 60 pies (18 m); **Área:** explosión de 10 pies (3 m)
+
+**Defensa:** Fortaleza
+
+Susurras secretos siniestros que trascienden el lenguaje y llegan mágicamente a los oídos de tus enemigos. Las palabras toman forma física, debilitando la fuerza vital de los objetivos, cada uno de los cuales debe intentar una salvación de Fortaleza.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura recibe 2d8 de daño de vacío persistente.
+
+**Fallo** La criatura recibe 4d8 de daño de vacío persistente y queda drenada 1.
+
+**Fallo crítico** La criatura recibe 4d8 de daño de vacío persistente y queda drenada 2 y condenada 1.
+
+**Potenciado (+2)** El daño de vacío persistente aumenta en 1d8 con un éxito, o en 2d8 con un fallo o fallo crítico.
