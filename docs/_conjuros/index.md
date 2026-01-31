@@ -2,28 +2,79 @@
 layout: page
 permalink: /conjuros/
 title: Conjuros
-description: Contenido del capítulo Conjuros
+description: Sistema de magia en Pathfinder 2ª Edición
+chapter: Conjuros
+category: conjuros
 ---
 
-Contenido del capítulo Conjuros
+# Conjuros
 
-## Contenido
+En este capítulo encontrarás todo lo relacionado con la magia en Pathfinder 2ª Edición, desde conceptos fundamentales hasta listas completas de hechizos organizadas por tradición.
 
-- [Conjuros A-C]({{ '/conjuros/conjuros/a-c/' | relative_url }})
-- [Conjuros D-F]({{ '/conjuros/conjuros/d-f/' | relative_url }})
-- [Conjuros G-M]({{ '/conjuros/conjuros/g-m/' | relative_url }})
-- [Conjuros N-R]({{ '/conjuros/conjuros/n-r/' | relative_url }})
-- [Conjuros S]({{ '/conjuros/conjuros/s/' | relative_url }})
-- [Conjuros T-Z]({{ '/conjuros/conjuros/t-z/' | relative_url }})
-- [Conjuros de Foco: Bardo]({{ '/conjuros/conjuros-foco/bardo/' | relative_url }})
-- [Conjuros de Foco: Brujo]({{ '/conjuros/conjuros-foco/brujo/' | relative_url }})
-- [Conjuros de Foco: Clérigo]({{ '/conjuros/conjuros-foco/clérigo/' | relative_url }})
-- [Conjuros de Foco: Druida]({{ '/conjuros/conjuros-foco/druida/' | relative_url }})
-- [Conjuros de Foco: Explorador]({{ '/conjuros/conjuros-foco/explorador/' | relative_url }})
-- [Conjuros de Foco: Mago]({{ '/conjuros/conjuros-foco/mago/' | relative_url }})
-- [Conjuros - Introduccion]({{ '/conjuros/introduccion/' | relative_url }})
-- [Lista de Conjuros Arcanos]({{ '/conjuros/listas/arcana/' | relative_url }})
-- [Lista de Conjuros Divinos]({{ '/conjuros/listas/divina/' | relative_url }})
-- [Lista de Conjuros Ocultistas]({{ '/conjuros/listas/oculta/' | relative_url }})
-- [Lista de Conjuros Primigenios]({{ '/conjuros/listas/primigenia/' | relative_url }})
-- [Rituales]({{ '/conjuros/rituales/rituales/' | relative_url }})
+## 🎓 Guía Esencial de Magia
+
+Comienza aquí si eres nuevo en el sistema de magia:
+
+- [**Introducción a los Conjuros**]({{ '/conjuros/introduccion/' | relative_url }}) - Conceptos clave, tipos de conjuros, y cómo funcionan
+- [**Las Cuatro Tradiciones Mágicas**]({{ '/conjuros/tradiciones/' | relative_url }}) - Arcana, Divina, Ocultista y Primigenia
+- [**Las Cuatro Esencias**]({{ '/conjuros/esencias/' | relative_url }}) - Materia, Espíritu, Mente y Vida
+- [**Cómo Lanzar Conjuros**]({{ '/conjuros/lanzamiento/' | relative_url }}) - Gestos, acciones y manifestaciones
+
+## 📚 Búsqueda de Hechizos
+
+Encuentra conjuros específicos por lista o nombre:
+
+### Por Tradición
+- [**Lista de Conjuros Arcanos**]({{ '/conjuros/listas/arcana/' | relative_url }}) - Magia de la lógica y la razón
+- [**Lista de Conjuros Divinos**]({{ '/conjuros/listas/divina/' | relative_url }}) - Magia de la fe y lo sagrado
+- [**Lista de Conjuros Ocultistas**]({{ '/conjuros/listas/oculta/' | relative_url }}) - Magia de lo inexplicable y misterioso
+- [**Lista de Conjuros Primigenios**]({{ '/conjuros/listas/primigenia/' | relative_url }}) - Magia de la naturaleza
+
+### Por Tipo de Conjuro
+- [**Conjuros de Foco**]({{ '/conjuros/conjuros-foco/' | relative_url }})
+  - [Bardo]({{ '/conjuros/conjuros-foco/bardo/' | relative_url }})
+  - [Brujo]({{ '/conjuros/conjuros-foco/brujo/' | relative_url }})
+  - [Clérigo]({{ '/conjuros/conjuros-foco/clérigo/' | relative_url }})
+  - [Druida]({{ '/conjuros/conjuros-foco/druida/' | relative_url }})
+  - [Explorador]({{ '/conjuros/conjuros-foco/explorador/' | relative_url }})
+  - [Mago]({{ '/conjuros/conjuros-foco/mago/' | relative_url }})
+
+- [**Rituales**]({{ '/conjuros/rituales/rituales/' | relative_url }}) - Conjuros especiales de largo alcance
+
+### Búsqueda Alfabética
+- [**Índice Completo de Conjuros**]({{ '/conjuros/spell-index/' | relative_url }}) - Listado A-Z de todos los hechizos
+
+## 🔍 Índice Rápido por Letra
+
+Acceso directo a conjuros individuales:
+
+- [**A-C**]({{ '/conjuros/spell-individual/a-c/' | relative_url }})
+- [**D-F**]({{ '/conjuros/spell-individual/d-f/' | relative_url }})
+- [**G-M**]({{ '/conjuros/spell-individual/g-m/' | relative_url }})
+- [**N-R**]({{ '/conjuros/spell-individual/n-r/' | relative_url }})
+- [**S**]({{ '/conjuros/spell-individual/s/' | relative_url }})
+- [**T-Z**]({{ '/conjuros/spell-individual/t-z/' | relative_url }})
+
+> **Consejo**: Usa el índice alfabético si conoces el nombre exacto del conjuro que buscas.
+
+## 📖 Temas Avanzados
+
+Para jugadores experimentados:
+
+- [**Potenciación de Conjuros**]({{ '/conjuros/potenciacion/' | relative_url }}) - Cómo lanzar conjuros en rangos superiores
+- [**Contrarrestar y Disipar**]({{ '/conjuros/contrarrestar/' | relative_url }}) - Magia vs. Magia
+- [**Rasgos y Propiedades Especiales**]({{ '/conjuros/rasgos-especiales/' | relative_url }}) - Ilusiones, polimorfias, y más
+
+---
+
+## 📋 Cómo Usar Este Capítulo
+
+1. **Si es tu primer contacto con la magia**: Comienza con "Introducción a los Conjuros"
+2. **Si conoces la tradición pero buscas hechizos**: Ve a las listas por tradición
+3. **Si sabes el nombre del conjuro**: Usa el índice alfabético o búsqueda
+4. **Si necesitas reglas específicas**: Consulta los temas avanzados
+
+---
+
+**Última actualización**: Enero 2026
+**Basado en**: Pathfinder 2ª Edición Core Rulebook
