@@ -497,594 +497,594 @@ El objetivo puede terminar cualquier efecto Escapando o gastando un total de 3 a
 
 Elixirs are alchemical liquids that are used by drinking them. They have the elixir trait.
 
-### Activating Elixirs
+### Activación de elixires
 
-You usually Interact to activate an elixir as you drink it or feed it to another creature. You can feed an elixir only to a creature within reach that's either willing or unable to prevent you from doing so. You usually need only one hand to consume an elixir or feed it to another creature.
-
----
-
-### Antidote · Item 1+
-
-**Traits:** Alchemical, Consumable, Elixir, Healing
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-An antidote protects you against toxins. Upon drinking an antidote, you gain an item bonus to Fortitude saving throws against poisons for 6 hours.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | +2 item bonus |
-| Moderate | 6 | 35 gp | +3 item bonus |
-| Greater | 10 | 160 gp | +4 item bonus |
-| Major | 14 | 675 gp | +4 item bonus, and when you drink the antidote, you can immediately attempt a save against one poison of 14th level or lower affecting you. If you succeed, the poison is neutralized. |
+Normalmente Interactúas para activar un elixir al beberlo o dárselo a otra criatura. Solo puedes administrar un elixir a una criatura a tu alcance que esté dispuesta o incapaz de impedirlo. Por lo general, solo necesitas una mano para consumir un elixir o dárselo a otra criatura.
 
 ---
 
-### Antiplague · Item 1+
+### Antídoto · Objeto 1+
 
-**Traits:** Alchemical, Consumable, Elixir, Healing
+**Rasgos:** Alquímico, Consumible, Elixir, Curación
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Antiplague can fortify the body's defenses against diseases. Upon drinking an antiplague, you gain an item bonus to Fortitude saving throws against diseases for 24 hours; this applies to your daily save against a disease's progression.
+Un antídoto te protege contra toxinas. Al beber un antídoto, obtienes un bonificador de objeto a las tiradas de salvación de Fortaleza contra venenos durante 6 horas.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | +2 item bonus |
-| Moderate | 6 | 35 gp | +3 item bonus |
-| Greater | 10 | 160 gp | +4 item bonus |
-| Major | 14 | 675 gp | +4 item bonus, and when you drink the antiplague, you can immediately attempt a saving throw against one disease of 14th level or lower affecting you. If you succeed, you're cured of the disease. |
-
----
-
-### Bomber's Eye Elixir · Item 4+
-
-**Traits:** Alchemical, Consumable, Elixir
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from cover.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 4 | 14 gp | Reduce your targets' circumstance bonus by 1 |
-| Greater | 14 | 700 gp | Reduce your targets' circumstance bonus by 2 |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | Bonificador de objeto +2 |
+| Moderado | 6 | 35 mo | Bonificador de objeto +3 |
+| Mayor | 10 | 160 mo | Bonificador de objeto +4 |
+| Superior | 14 | 675 mo | Bonificador de objeto +4; y cuando bebes el antídoto, puedes intentar inmediatamente una tirada de salvación contra un veneno de nivel 14 o inferior que te esté afectando. Si tienes éxito, el veneno queda neutralizado. |
 
 ---
 
-### Bottled Catharsis · Item 2+
+### Antipeste · Objeto 1+
 
-**Traits:** Alchemical, Consumable, Elixir, Healing
+**Rasgos:** Alquímico, Consumible, Elixir, Curación
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to counteract (Player Core 431) each effect on you that has the emotion trait or is inflicting the stupefied condition on you, using the listed counteract rank and modifier.
+El antipeste puede reforzar las defensas del cuerpo contra las enfermedades. Al beber un antipeste, obtienes un bonificador de objeto a las tiradas de salvación de Fortaleza contra enfermedades durante 24 horas; esto se aplica a tu tirada diaria contra la progresión de una enfermedad.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Minor | 2 | 5 gp | 1st-rank, +6 counteract modifier |
-| Lesser | 4 | 15 gp | 2nd-rank, +8 counteract modifier |
-| Moderate | 8 | 75 gp | 4th-rank, +14 counteract modifier |
-| Greater | 12 | 325 gp | 6th-rank, +19 counteract modifier |
-| Major | 18 | 3,250 gp | 9th-rank, +28 counteract modifier |
-
----
-
-### Bravo's Brew · Item 2+
-
-**Traits:** Alchemical, Consumable, Elixir, Mental
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-This flask of foaming beer grants courage. For the next hour after drinking this elixir, you gain an item bonus to Will saves, which is greater when attempting Will saves against fear.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 2 | 7 gp | +1 to Will saves, or +2 against fear |
-| Moderate | 10 | 150 gp | +2 to Will saves, or +3 against fear |
-| Greater | 15 | 700 gp | +3 to Will saves, or +4 against fear. If you roll a success on a save against fear, you get a critical success instead. |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | Bonificador de objeto +2 |
+| Moderado | 6 | 35 mo | Bonificador de objeto +3 |
+| Mayor | 10 | 160 mo | Bonificador de objeto +4 |
+| Superior | 14 | 675 mo | Bonificador de objeto +4; y cuando bebes el antipeste, puedes intentar inmediatamente una tirada de salvación contra una enfermedad de nivel 14 o inferior que te esté afectando. Si tienes éxito, quedas curado de la enfermedad. |
 
 ---
 
-### Cat's Eye Elixir · Item 2
+### Elixir ojo del bombardero · Objeto 4+
 
-**Traits:** Alchemical, Consumable, Elixir
+**Rasgos:** Alquímico, Consumible, Elixir
 
-**Price** 7 gp
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Usage** held in 1 hand; **Bulk** L
+**Activar** ◆ (manipular)
 
-**Activate** ◆ (manipulate)
+Esta tintura te permite localizar con precisión a tus enemigos. Durante los próximos 5 minutos, tus Golpes con bombas alquímicas reducen el bonificador circunstancial a la CA que tus objetivos obtienen por cobertura.
 
-After you consume this elixir, your vision sharpens, and you become sensitive to even the most minute movements. For the next minute, you reduce the flat check to target hidden creatures to 5, and you don't need to attempt a flat check to target concealed creatures. These benefits apply only against creatures within 30 feet of you.
-
----
-
-### Cheetah's Elixir · Item 1+
-
-**Traits:** Alchemical, Consumable, Elixir
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-Enzymatic compounds in this elixir strengthen and excite the muscles in your legs. You gain a status bonus to your Speed for the listed duration.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | +5 feet, 1 minute |
-| Moderate | 5 | 25 gp | +10 feet, 10 minutes |
-| Greater | 9 | 110 gp | +10 feet, 1 hour |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 4 | 14 mo | Reduce el bonificador circunstancial de tus objetivos en 1 |
+| Mayor | 14 | 700 mo | Reduce el bonificador circunstancial de tus objetivos en 2 |
 
 ---
 
-### Comprehension Elixir · Item 2+
+### Catarsis embotellada · Objeto 2+
 
-**Traits:** Alchemical, Consumable, Elixir, Mental
+**Rasgos:** Alquímico, Consumible, Elixir, Curación
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-This bitter draft opens your mind to the potential of the written word. For the listed duration after drinking this elixir, you can understand any words you read, as long as they're written in a common language. This elixir doesn't automatically allow you to understand codes or extremely esoteric passages—you still need to attempt a skill check to Decipher Writing.
+Esta bebida desata una oleada de emociones que ayuda a restablecer tu estado mental. Cuando bebes este elixir, intenta contrarrestar (Player Core 431) cada efecto que te afecte y que tenga el rasgo emoción o te esté imponiendo la condición estupefacto, usando el grado de contrarrestar y el modificador indicados.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 2 | 7 gp | 1 minute |
-| Greater | 7 | 54 gp | 10 minutes |
-
----
-
-### Cooling Elixir · Item 4+
-
-**Traits:** Alchemical, Consumable, Elixir
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-This elixir is made to help you withstand extreme environments. For 24 hours, you're protected from the effects of severe heat.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 4 | 15 gp | Protected from severe heat |
-| Moderate | 12 | 320 gp | Also protected from extreme heat |
-| Greater | 16 | 1,400 gp | Also protected from extreme and incredible heat |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Mínimo | 2 | 5 mo | Grado 1; modificador de contrarrestar +6 |
+| Menor | 4 | 15 mo | Grado 2; modificador de contrarrestar +8 |
+| Moderado | 8 | 75 mo | Grado 4; modificador de contrarrestar +14 |
+| Mayor | 12 | 325 mo | Grado 6; modificador de contrarrestar +19 |
+| Superior | 18 | 3.250 mo | Grado 9; modificador de contrarrestar +28 |
 
 ---
 
-### Darkvision Elixir · Item 2+
+### Brebaje del bravo · Objeto 2+
 
-**Traits:** Alchemical, Consumable, Elixir
+**Rasgos:** Alquímico, Consumible, Elixir, Mental
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-After you drink this elixir, your sight becomes sharper in darkness. You gain darkvision for the listed duration.
+Este frasco de cerveza espumosa otorga valor. Durante la siguiente hora después de beber este elixir, obtienes un bonificador de objeto a las TS de Voluntad, mayor al intentar TS de Voluntad contra miedo.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 2 | 6 gp | 10 minutes |
-| Moderate | 4 | 11 gp | 1 hour |
-| Greater | 8 | 90 gp | 24 hours |
-
----
-
-### Eagle-Eye Elixir · Item 1+
-
-**Traits:** Alchemical, Consumable, Elixir
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-After you drink this elixir, you notice subtle visual details. For the next hour, you gain an item bonus to Perception checks that's greater when attempting to find secret doors and traps.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 4 gp | +1, or +2 to find secret doors and traps |
-| Moderate | 5 | 27 gp | +2, or +3 to find secret doors and traps |
-| Greater | 10 | 200 gp | +3, or +4 to find secret doors and traps |
-| Major | 16 | 2,000 gp | +3, or +4 to find secret doors and traps. Each time you pass within 10 feet of a secret door or trap, the GM automatically rolls a secret check for you to find it. |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 2 | 7 mo | +1 a TS de Voluntad; o +2 contra miedo |
+| Moderado | 10 | 150 mo | +2 a TS de Voluntad; o +3 contra miedo |
+| Mayor | 15 | 700 mo | +3 a TS de Voluntad; o +4 contra miedo. Si obtienes un éxito en una TS contra miedo, se convierte en éxito crítico. |
 
 ---
 
-### Elixir of Gender Transformation · Item 1+
+### Elixir ojo de gato · Objeto 2
 
-**Traits:** Alchemical, Consumable, Elixir
+**Rasgos:** Alquímico, Consumible, Elixir
 
-**Usage** held in 1 hand; **Bulk** L
+**Precio** 7 mo
 
-**Activate** ◆ (manipulate)
+**Uso** sostenido en 1 mano; **Volumen** L
 
-This clear, bitter liquid can be ingested to change certain secondary sex characteristics. Different formulations create different changes—for example, one variety might cause the voice to deepen and promote body and facial hair growth, while another might cause fat redistribution around the hips and the growth of breasts. These changes tend to be accompanied by shifting of the fat in the face, sometimes dramatically or sometimes more subtly changing the user's appearance. Changes from this elixir take place gradually over the course of months or years, depending on the type.
+**Activar** ◆ (manipular)
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 1 gp | The elixir must be taken every week, and changes occur over the course of a year or more. |
-| Moderate | 3 | 8 gp | The elixir must be taken once a month, and changes occur over the course of a year. |
-| Greater | 6 | 35 gp | The elixir must be taken once, and changes occur over the course of 6 months. |
+Tras consumir este elixir, tu visión se agudiza y te vuelves sensible incluso a los movimientos más mínimos. Durante el próximo minuto, reduces a 5 el chequeo plano para apuntar a criaturas ocultas y no necesitas intentar un chequeo plano para apuntar a criaturas con ocultación. Estos beneficios solo se aplican contra criaturas a 9 metros (30 pies) de ti.
 
 ---
 
-### Elixir of Life · Item 1+
+### Elixir del guepardo · Objeto 1+
 
-**Traits:** Alchemical, Consumable, Elixir, Healing
+**Rasgos:** Alquímico, Consumible, Elixir
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain the listed number of Hit Points and gain an item bonus to saving throws against diseases and poisons for 10 minutes.
+Compuestos enzimáticos de este elixir fortalecen y estimulan los músculos de tus piernas. Obtienes un bonificador de estado a tu Velocidad durante la duración indicada.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Minor | 1 | 3 gp | Restores 1d6 HP, +1 bonus |
-| Lesser | 5 | 30 gp | Restores 3d6+6 HP, +1 bonus |
-| Moderate | 9 | 150 gp | Restores 5d6+12 HP, +2 bonus |
-| Greater | 13 | 600 gp | Restores 7d6+18 HP, +2 bonus |
-| Major | 15 | 1,300 gp | Restores 8d6+21 HP, +3 bonus |
-| True | 19 | 8,000 gp | Restores 10d6+27 HP, +4 bonus |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | +5 pies; 1 minuto |
+| Moderado | 5 | 25 mo | +10 pies; 10 minutos |
+| Mayor | 9 | 110 mo | +10 pies; 1 hora |
 
 ---
 
-### Elixir of Rejuvenation · Item 20
+### Elixir de comprensión · Objeto 2+
 
-**Traits:** Uncommon, Alchemical, Consumable, Elixir, Healing
+**Rasgos:** Alquímico, Consumible, Elixir, Mental
 
-**Price** —
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Usage** held in 1 hand; **Bulk** L
+**Activar** ◆ (manipular)
 
-**Activate** ◆ (manipulate)
+Este trago amargo abre tu mente al potencial de la palabra escrita. Durante la duración indicada tras beber este elixir, puedes entender cualquier palabra que leas, siempre que esté escrita en un idioma común. Este elixir no te permite automáticamente comprender códigos o pasajes extremadamente esotéricos: aún debes intentar una prueba de habilidad para Descifrar Escritura.
 
-The elixir of rejuvenation restores a creature to full health and eradicates toxins affecting it. When you drink this elixir, you're restored to your maximum Hit Points, and all afflictions of 20th level or lower affecting you are removed.
-
-You can instead administer this elixir to a creature that has been dead for a week or less. When you do, that creature is instantly brought back to life with 1 Hit Point and no spell slots, Focus Points, or other daily resources.
-
-**Craft Requirements** philosopher's stone, true elixir of life
-
----
-
-### Mistform Elixir · Item 4+
-
-**Traits:** Alchemical, Consumable, Elixir, Illusion, Visual
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-A faint mist emanates from your skin, making you concealed for the listed duration. As usual, if you become concealed when your position is still obvious, you can't use this concealment to Hide or Sneak.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 4 | 18 gp | 3 rounds |
-| Moderate | 6 | 56 gp | 1 minute |
-| Greater | 10 | 180 gp | 5 minutes |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 2 | 7 mo | 1 minuto |
+| Mayor | 7 | 54 mo | 10 minutos |
 
 ---
 
-### Sea Touch Elixir · Item 5+
+### Elixir refrigerante · Objeto 4+
 
-**Traits:** Alchemical, Consumable, Elixir, Polymorph
+**Rasgos:** Alquímico, Consumible, Elixir
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-This briny concoction alters the skin on your hands and feet. The spaces between your fingers and toes become webbed, granting you a swim Speed of 20 feet for the listed duration.
+Este elixir está hecho para ayudarte a soportar entornos extremos. Durante 24 horas, estás protegido de los efectos del calor severo.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 5 | 22 gp | 10 minutes |
-| Moderate | 12 | 300 gp | 1 hour, and you can breathe underwater |
-| Greater | 15 | 920 gp | 24 hours, and you can breathe underwater |
-
----
-
-### Stone Fist Elixir · Item 4
-
-**Traits:** Alchemical, Consumable, Elixir, Morph
-
-**Price** 13 gp
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 4 | 15 mo | Protegido del calor severo |
+| Moderado | 12 | 320 mo | También protegido del calor extremo |
+| Mayor | 16 | 1.400 mo | También protegido del calor extremo e increíble |
 
 ---
 
-### Surging Serum · Item 2+
+### Elixir de visión en la oscuridad · Objeto 2+
 
-**Traits:** Alchemical, Consumable, Elixir, Healing
+**Rasgos:** Alquímico, Consumible, Elixir
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Involuntary jolts and surges of energy move through the drinker's body as it restores normal muscle control. When you drink this elixir, it attempts to counteract (Player Core 431) each effect that's inflicting the clumsy or enfeebled condition on you, using the listed counteract rank and modifier.
+Tras beber este elixir, tu vista se agudiza en la oscuridad. Obtienes visión en la oscuridad durante la duración indicada.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Minor | 2 | 5 gp | 1st-rank, +6 counteract modifier |
-| Lesser | 4 | 15 gp | 2nd-rank, +8 counteract modifier |
-| Moderate | 8 | 75 gp | 4th-rank, +14 counteract modifier |
-| Greater | 12 | 325 gp | 6th-rank, +19 counteract modifier |
-| Major | 18 | 3,250 gp | 9th-rank, +28 counteract modifier |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 2 | 6 mo | 10 minutos |
+| Moderado | 4 | 11 mo | 1 hora |
+| Mayor | 8 | 90 mo | 24 horas |
 
 ---
 
-### Witchwarg Elixir · Item 4+
+### Elixir ojo de águila · Objeto 1+
 
-**Traits:** Alchemical, Consumable, Elixir
+**Rasgos:** Alquímico, Consumible, Elixir
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-This elixir warms your core and improves your circulation. For 24 hours, you're protected from the effects of severe cold.
+Tras beber este elixir, percibes sutiles detalles visuales. Durante la siguiente hora, obtienes un bonificador de objeto a las pruebas de Percepción, mayor al intentar encontrar puertas secretas y trampas.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 4 | 15 gp | Protected from severe cold |
-| Moderate | 12 | 320 gp | Also protected from extreme cold |
-| Greater | 16 | 1,400 gp | Also protected from extreme and incredible cold |
-
----
-
-## Mutagens
-
-Mutagens are a special type of elixir that temporarily transmogrify the subject's body and mind. Typically, only alchemists have the expertise to craft mutagens.
-
-A mutagen always conveys one or more beneficial effects (listed in the Benefit entry) and one or more detrimental effects (shown in the Drawback entry). Mutagens are polymorph effects (Player Core 301), and a subsequent polymorph effect attempts to counteract an existing effect; the counteract check for a mutagen uses the item's level and a modifier equal to that level's DC – 10, as found on the Magic Item DCs Table on page 133 of GM Core.
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 4 mo | +1; o +2 para encontrar puertas secretas y trampas |
+| Moderado | 5 | 27 mo | +2; o +3 para encontrar puertas secretas y trampas |
+| Mayor | 10 | 200 mo | +3; o +4 para encontrar puertas secretas y trampas |
+| Superior | 16 | 2.000 mo | +3; o +4 para encontrar puertas secretas y trampas. Cada vez que pases a menos de 3 metros (10 pies) de una puerta secreta o trampa, el DJ tira automáticamente una prueba secreta para que la encuentres. |
 
 ---
 
-### Bestial Mutagen · Item 1+
+### Elixir de transformación de género · Objeto 1+
 
-**Traits:** Alchemical, Consumable, Elixir, Mutagen, Polymorph
+**Rasgos:** Alquímico, Consumible, Elixir
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Your features transform into something bestial and lumbering.
+Este líquido claro y amargo puede ingerirse para cambiar ciertos caracteres sexuales secundarios. Diferentes formulaciones producen cambios distintos; por ejemplo, una variedad puede hacer que la voz se profundice y promover el crecimiento de vello corporal y facial, mientras que otra puede causar redistribución de grasa alrededor de las caderas y el crecimiento de pechos. Estos cambios suelen ir acompañados de una variación de la grasa en la cara, a veces de forma notable y otras más sutil, alterando el aspecto de la persona usuaria. Los cambios de este elixir se producen gradualmente a lo largo de meses o años, según el tipo.
 
-**Benefit** You gain an item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack with the agile trait and a jaws unarmed attack. Striking runes don't modify the damage caused by these attacks.
-
-**Drawback** You take a –2 penalty to Reflex saves, Acrobatics checks, and Stealth checks.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 4 gp | +1 item bonus, claw deals 1d4 slashing damage, jaws deal 1d6 piercing damage, 1 minute duration |
-| Moderate | 3 | 12 gp | +2 item bonus, claw deals 2d6 slashing damage, jaws deal 2d8 piercing damage, 10 minutes duration |
-| Greater | 11 | 300 gp | +3 item bonus, claw deals 3d8 slashing damage, jaws deal 3d10 piercing damage, 1 hour duration |
-| Major | 17 | 3,000 gp | +4 item bonus, claw deals 4d8 slashing damage, jaws deal 4d10 piercing damage, 1 hour duration. You gain weapon specialization with the claw and jaws, or greater weapon specialization if you already have weapon specialization with these unarmed attacks. |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 1 mo | Debe tomarse cada semana; los cambios se producen durante un año o más. |
+| Moderado | 3 | 8 mo | Debe tomarse una vez al mes; los cambios se producen a lo largo de un año. |
+| Mayor | 6 | 35 mo | Debe tomarse una vez; los cambios se producen a lo largo de 6 meses. |
 
 ---
 
-### Cognitive Mutagen · Item 1+
+### Elixir de vida · Objeto 1+
 
-**Traits:** Alchemical, Consumable, Elixir, Mutagen, Polymorph
+**Rasgos:** Alquímico, Consumible, Elixir, Curación
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Your mind becomes clear, but physical matters seem ephemeral.
+Los elixires de vida aceleran los procesos de curación natural y el sistema inmunitario de una criatura viva. Al beber este elixir, recuperas el número de Puntos de Golpe indicado y obtienes un bonificador de objeto a las TS contra enfermedades y venenos durante 10 minutos.
 
-**Benefit** You gain an item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to Recall Knowledge. Your critical failures on Recall Knowledge checks become failures instead.
-
-**Drawback** You take a –2 penalty to weapon and unarmed attack rolls, Athletics checks, and Acrobatics checks. You can carry 2 less Bulk than normal before becoming encumbered, and the maximum Bulk you can carry is reduced by 4.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 4 gp | +1 bonus, 1 minute duration |
-| Moderate | 3 | 12 gp | +2 bonus, 10 minutes duration |
-| Greater | 11 | 300 gp | +3 bonus, 1 hour duration. You become trained in one Intelligence-based skill, chosen at creation. |
-| Major | 17 | 3,000 gp | +4 bonus, 1 hour duration. You become trained in one skill, chosen at creation. |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Mínimo | 1 | 3 mo | Recuperas 1d6 PG; bonificador +1 |
+| Menor | 5 | 30 mo | Recuperas 3d6+6 PG; bonificador +1 |
+| Moderado | 9 | 150 mo | Recuperas 5d6+12 PG; bonificador +2 |
+| Mayor | 13 | 600 mo | Recuperas 7d6+18 PG; bonificador +2 |
+| Superior | 15 | 1.300 mo | Recuperas 8d6+21 PG; bonificador +3 |
+| Verdadero | 19 | 8.000 mo | Recuperas 10d6+27 PG; bonificador +4 |
 
 ---
 
-### Drakeheart Mutagen · Item 1+
+### Elixir de rejuvenecimiento · Objeto 20
 
-**Traits:** Alchemical, Consumable, Elixir, Mutagen, Polymorph
+**Rasgos:** Poco común, Alquímico, Consumible, Elixir, Curación
 
-**Usage** held in 1 hand; **Bulk** L
+**Precio** —
 
-**Activate** ◆ (manipulate)
+**Uso** sostenido en 1 mano; **Volumen** L
 
-Your skin grows scales like a drake, and your eyesight become sharp and your pupils slitted, but your mind and reflexes slow.
+**Activar** ◆ (manipular)
 
-**Benefit** You gain the listed bonus to AC, a Dexterity cap of +2 (as usual, use your lowest Dexterity cap if you have more than one), and an item bonus to Perception checks. If you're wearing armor, you still calculate your proficiency bonus to AC based on your proficiency in the armor you're wearing, even if the drakeheart mutagen has a higher item bonus. You also gain the Final Surge action.
+El elixir de rejuvenecimiento restaura a una criatura a su salud máxima y erradica las toxinas que la afectan. Cuando bebes este elixir, recuperas tus Puntos de Golpe máximos y se eliminan todas las aflicciones de nivel 20 o inferior que te estén afectando.
 
-**Final Surge** ◆ You Stride twice. The drakeheart mutagen's duration ends.
+En su lugar, puedes administrar este elixir a una criatura que haya estado muerta durante una semana o menos. Cuando lo haces, esa criatura vuelve a la vida de inmediato con 1 Punto de Golpe y sin espacios de conjuro, Puntos de Enfoque ni otros recursos diarios.
 
-**Drawback** You take a –1 penalty to Will saves, Reflex saves, and all skill checks to Recall Knowledge.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 4 gp | +4 item bonus to AC, +1 item bonus to Perception, 1 minute duration or until you use Final Surge |
-| Moderate | 3 | 12 gp | +5 item bonus to AC, +2 item bonus to Perception, 10 minutes duration or until you use Final Surge |
-| Greater | 11 | 300 gp | +6 item bonus to AC, +3 item bonus to Perception, 1 hour duration or until you use Final Surge |
-| Major | 17 | 3,000 gp | +7 item bonus to AC, +4 item bonus to Perception, 1 hour duration or until you use Final Surge |
+**Requisitos de fabricación** piedra filosofal; elixir de vida verdadero
 
 ---
 
-### Juggernaut Mutagen · Item 1+
+### Elixir de forma de niebla · Objeto 4+
 
-**Traits:** Alchemical, Consumable, Elixir, Mutagen, Polymorph
+**Rasgos:** Alquímico, Consumible, Elixir, Ilusión, Visual
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Your body becomes sturdy and ponderous.
+Una tenue niebla emana de tu piel, otorgándote ocultación durante la duración indicada. Como es habitual, si obtienes ocultación cuando tu posición sigue siendo obvia, no puedes usar esta ocultación para Esconderte o Moverte sigilosamente.
 
-**Benefit** You gain an item bonus to Fortitude saves and the listed number of temporary Hit Points. Whenever you're at maximum Hit Points for at least 1 minute, you regain the temporary Hit Points.
-
-**Drawback** You take a –2 penalty to Will saves, Perception checks, and initiative rolls.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 4 gp | +1 bonus, 5 temporary HP, 1 minute duration |
-| Moderate | 3 | 12 gp | +2 bonus, 10 temporary HP, 10 minutes duration |
-| Greater | 11 | 300 gp | +3 bonus, 30 temporary HP, 1 hour duration. When you roll a success on a Fortitude save, you get a critical success instead. |
-| Major | 17 | 3,000 gp | +4 bonus, 45 temporary HP, 1 hour duration. When you roll a success on a Fortitude save, you get a critical success instead, and your critical failures on Fortitude saves become failures instead. |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 4 | 18 mo | 3 asaltos |
+| Moderado | 6 | 56 mo | 1 minuto |
+| Mayor | 10 | 180 mo | 5 minutos |
 
 ---
 
-### Quicksilver Mutagen · Item 1+
+### Elixir toque marino · Objeto 5+
 
-**Traits:** Alchemical, Consumable, Elixir, Mutagen, Polymorph
+**Rasgos:** Alquímico, Consumible, Elixir, Polimorfo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-You become swifter and nimbler but also fragile.
+Esta mezcla salobre altera la piel de tus manos y pies. Los espacios entre tus dedos y dedos de los pies se vuelven palmeados, otorgándote una Velocidad de Nado de 6 metros (20 pies) durante la duración indicada.
 
-**Benefit** You gain an item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain the listed status bonus to your Speed.
-
-**Drawback** You take damage equal to twice your level; you can't recover Hit Points lost in this way by any means while the mutagen lasts. You take a –2 penalty to Fortitude saves.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 4 gp | +1 bonus to rolls, +5 feet to Speed, 1 minute duration |
-| Moderate | 3 | 12 gp | +2 bonus to rolls, +10 feet to Speed, 10 minutes duration |
-| Greater | 11 | 300 gp | +3 bonus to rolls, +15 feet to Speed, 1 hour duration |
-| Major | 17 | 3,000 gp | +4 bonus to rolls, +20 feet to Speed, 1 hour duration |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 5 | 22 mo | 10 minutos |
+| Moderado | 12 | 300 mo | 1 hora; y puedes respirar bajo el agua |
+| Mayor | 15 | 920 mo | 24 horas; y puedes respirar bajo el agua |
 
 ---
 
-### Serene Mutagen · Item 1+
+### Elixir puño de piedra · Objeto 4
 
-**Traits:** Alchemical, Consumable, Elixir, Mutagen, Polymorph
+**Rasgos:** Alquímico, Consumible, Elixir, Morfo
 
-**Usage** held in 1 hand; **Bulk** L
+**Precio** 13 mo
 
-**Activate** ◆ (manipulate)
+**Uso** sostenido en 1 mano; **Volumen** L
 
-You gain inner serenity, but you find violence off-putting.
+**Activar** ◆ (manipular)
 
-**Benefit** You gain an item bonus to Will saves and Perception, Medicine, Nature, Religion, and Survival checks. This bonus improves when you attempt Will saves against mental effects.
-
-**Drawback** You take a –1 penalty to attack rolls and save DCs of offensive spells, and a –1 penalty per damage die to all weapon, unarmed attack, and spell damage.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 4 gp | +1 bonus, or +2 vs. mental, 1 minute duration |
-| Moderate | 3 | 12 gp | +2 bonus, or +3 vs. mental, 10 minutes duration |
-| Greater | 11 | 300 gp | +3 bonus, or +4 vs. mental, 1 hour duration. When you roll a success on a Will save against a mental effect, you get a critical success instead. |
-| Major | 17 | 3,000 gp | +4 bonus, 1 hour duration. When you roll a success on a Will save against a mental effect, you get a critical success instead, and your critical failures on Will saves against mental effects become failures instead. |
+Tus puños se vuelven duros como la piedra. Durante 1 hora, tus puños infligen 1d6 de daño contundente y pierden el rasgo no letal.
 
 ---
 
-### Silvertongue Mutagen · Item 1+
+### Suero enérgico · Objeto 2+
 
-**Traits:** Alchemical, Consumable, Elixir, Mutagen, Polymorph
+**Rasgos:** Alquímico, Consumible, Elixir, Curación
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Your features become striking, and your voice becomes musical and commanding, though emotion clouds your reason.
+Sacudidas involuntarias y oleadas de energía recorren el cuerpo del bebedor mientras restaura el control muscular normal. Cuando bebes este elixir, intenta contrarrestar (Player Core 431) cada efecto que te impone la condición torpe o debilitado, usando el grado de contrarrestar y el modificador indicados.
 
-**Benefit** You gain an item bonus to Deception, Diplomacy, Intimidation, and Performance checks. Your critical failures with any of these skills become failures instead.
-
-**Drawback** You take a –2 penalty to Arcana, Crafting, Lore, Occultism, and Society checks. Choose one skill in which you're trained; for the duration, you become untrained in that skill. All your failures on checks to Recall Knowledge become critical failures.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 4 gp | +1 bonus, 1 minute duration |
-| Moderate | 3 | 12 gp | +2 bonus, 10 minutes duration |
-| Greater | 11 | 300 gp | +3 bonus, 1 hour duration |
-| Major | 17 | 3,000 gp | +4 bonus, 1 hour duration |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Mínimo | 2 | 5 mo | Grado 1; modificador de contrarrestar +6 |
+| Menor | 4 | 15 mo | Grado 2; modificador de contrarrestar +8 |
+| Moderado | 8 | 75 mo | Grado 4; modificador de contrarrestar +14 |
+| Mayor | 12 | 325 mo | Grado 6; modificador de contrarrestar +19 |
+| Superior | 18 | 3.250 mo | Grado 9; modificador de contrarrestar +28 |
 
 ---
 
-## Alchemical Poisons
+### Elixir brujivargo · Objeto 4+
 
-Alchemical poisons are potent toxins distilled or extracted from natural sources. Each poison's stat block includes the price and features for a single dose. Poison doses are typically kept in a vial or some other secure container.
+**Rasgos:** Alquímico, Consumible, Elixir
 
-Applying alchemical poisons uses manipulate actions. A poison typically requires one hand to pour into food or scatter in the air. Applying a poison to a weapon or another item requires two hands, with one hand holding the weapon or item. The Usage entry for a poison indicates the number of hands needed for a typical means of application, but the GM might determine that using poisons in other ways functions differently. Weapons and items can have only one poison applied to them at a time, even if those poisons have different methods of exposure. If a second poison is applied to an item, the lower-level poison is removed (chosen randomly if both are the same level).
+**Uso** sostenido en 1 mano; **Volumen** L
 
-The full rules for how poisons and other afflictions work are on page 430 of Player Core. A creature attempts the listed saving throw as soon as it's exposed to the poison; on a failed save, the creature advances to Stage 1 of the poison after any listed onset time elapses.
+**Activar** ◆ (manipular)
 
-**Virulent Poisons:** Some poisons have the virulent trait. You must succeed at two consecutive saves to reduce a virulent affliction's stage by 1. A critical success reduces a virulent affliction's stage by only 1 instead of by 2.
+Este elixir calienta tu núcleo y mejora tu circulación. Durante 24 horas, estás protegido de los efectos del frío severo.
 
-### Method of Exposure
-
-Each alchemical poison has one of the following traits, which define how a creature can be exposed to that poison.
-
-**Contact:** A contact poison is activated by applying it to an item or directly onto a living creature's skin. The first creature to touch the affected item must attempt a saving throw against the poison; if the poison is applied directly, the creature must attempt a saving throw immediately when the poison touches its skin. Contact poisons are infeasible to apply to a creature via a weapon attack due to the logistics of delivering them without poisoning yourself. Typically, the onset time of a contact poison is 1 minute.
-
-**Ingested:** An ingested poison is activated by applying it to food or drink to be consumed by a living creature, or by placing it directly into a living creature's mouth. A creature attempts a saving throw against such a poison when it consumes the poison, or the food or drink treated with the poison. The onset time of ingested poisons typically ranges anywhere from 1 minute to 1 day.
-
-**Inhaled:** An inhaled poison is activated by unleashing it from its container. Once unleashed, the poison creates a cloud filling a 10-foot cube lasting for 1 minute or until a strong wind dissipates it. Every creature entering this cloud is exposed to the poison and must attempt a saving throw against it; a creature aware of the poison before entering the cloud can use a single action to hold its breath and gain a +2 circumstance bonus to the saving throw for 1 round.
-
-**Injury:** An injury poison is activated by applying it to a weapon or ammunition, and it affects the target of the first Strike made using the poisoned item. If that Strike is a success and deals piercing or slashing damage, the target must attempt a saving throw against the poison. On a failed Strike, the target is unaffected, but the poison remains on the weapon and you can try again. On a critical failure, or if the Strike fails to deal slashing or piercing damage for some other reason, the poison is spent, but the target is unaffected.
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 4 | 15 mo | Protegido del frío severo |
+| Moderado | 12 | 320 mo | También protegido del frío extremo |
+| Mayor | 16 | 1.400 mo | También protegido del frío extremo e increíble |
 
 ---
 
-### Arsenic · Item 1
+## Mutágenos
 
-**Traits:** Alchemical, Consumable, Ingested, Poison
+Los mutágenos son un tipo especial de elixir que transmuta temporalmente el cuerpo y la mente del sujeto. Por lo general, solo los alquimistas tienen la pericia para fabricar mutágenos.
 
-**Price** 3 gp
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-This toxin is a compound of arsenic and other substances. You can't reduce your sickened condition while affected.
-
-**Saving Throw** DC 18 Fortitude; **Onset** 10 minutes; **Maximum Duration** 5 minutes; **Stage 1** 1d4 poison damage and sickened 1 (1 minute); **Stage 2** 1d6 poison damage and sickened 2 (1 minute); **Stage 3** 1d8 poison damage and sickened 3 (1 minute)
+Un mutágeno siempre otorga uno o más efectos beneficiosos (indicados en la entrada Beneficio) y uno o más efectos perjudiciales (mostrados en la entrada Desventaja). Los mutágenos son efectos polimorfos (Player Core 301), y un efecto polimorfo posterior intenta contrarrestar un efecto existente; la prueba de contrarrestar de un mutágeno utiliza el nivel del objeto y un modificador igual a la CD de ese nivel – 10, como aparece en la Tabla de CDs de objetos mágicos en la página 133 de Núcleo del DJ.
 
 ---
 
-### Belladonna · Item 2
+### Mutágeno bestial · Objeto 1+
 
-**Traits:** Alchemical, Consumable, Ingested, Poison
+**Rasgos:** Alquímico, Consumible, Elixir, Mutágeno, Polimorfo
 
-**Price** 5 gp
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Usage** held in 1 hand; **Bulk** L
+**Activar** ◆ (manipular)
 
-**Activate** ◆ (manipulate)
+Tus rasgos se transforman en algo bestial y pesado.
 
-Sometimes called "deadly nightshade," belladonna is a widely available toxin produced from a plant similar to a tomato.
+**Beneficio** Obtienes un bonificador de objeto a las pruebas de Atletismo y a las tiradas de ataque desarmado. Obtienes un ataque desarmado de garra con el rasgo ágil y un ataque desarmado de mandíbulas. Las runas de Golpe no modifican el daño infligido por estos ataques.
 
-**Saving Throw** DC 19 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** dazzled (10 minutes); **Stage 2** 1d6 poison damage and sickened 1 (10 minutes); **Stage 3** 1d6 poison damage, confused, and sickened 1 (1 minute)
+**Desventaja** Sufres un penalizador de –2 a las TS de Reflejos, pruebas de Acrobatías y pruebas de Sigilo.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 4 mo | Bonificador de objeto +1; la garra inflige 1d4 de daño cortante; las mandíbulas infligen 1d6 de daño perforante; duración 1 minuto |
+| Moderado | 3 | 12 mo | Bonificador de objeto +2; la garra inflige 2d6 de daño cortante; las mandíbulas infligen 2d8 de daño perforante; duración 10 minutos |
+| Mayor | 11 | 300 mo | Bonificador de objeto +3; la garra inflige 3d8 de daño cortante; las mandíbulas infligen 3d10 de daño perforante; duración 1 hora |
+| Superior | 17 | 3.000 mo | Bonificador de objeto +4; la garra inflige 4d8 de daño cortante; las mandíbulas infligen 4d10 de daño perforante; duración 1 hora. Obtienes especialización con armas con la garra y las mandíbulas, o especialización mayor con armas si ya tienes especialización con armas con estos ataques desarmados. |
 
 ---
 
-### Black Adder Venom · Item 2
+### Mutágeno cognitivo · Objeto 1+
 
-**Traits:** Alchemical, Consumable, Injury, Poison
+**Rasgos:** Alquímico, Consumible, Elixir, Mutágeno, Polimorfo
 
-**Price** 6 gp
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Usage** held in 2 hands; **Bulk** L
+**Activar** ◆ (manipular)
 
-**Activate** ◆◆ (manipulate)
+Tu mente se vuelve clara, pero los asuntos físicos parecen efímeros.
 
-Adder venom is a simple but effective way to enhance a weapon.
+**Beneficio** Obtienes un bonificador de objeto a las pruebas de Arcanos, Artesanía, Saber, Ocultismo y Sociedad y a todas las pruebas para Recordar conocimiento. Tus fallos críticos en Recordar conocimiento se convierten en fallos.
 
-**Saving Throw** DC 18 Fortitude; **Maximum Duration** 3 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage (1 round); **Stage 3** 1d8 poison damage (1 round)
+**Desventaja** Sufres un penalizador de –2 a las tiradas de ataque con armas y desarmadas, pruebas de Atletismo y Acrobatías. Puedes cargar 2 menos de Volumen de lo normal antes de quedar cargado, y el Volumen máximo que puedes cargar se reduce en 4.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 4 mo | Bonificador +1; duración 1 minuto |
+| Moderado | 3 | 12 mo | Bonificador +2; duración 10 minutos |
+| Mayor | 11 | 300 mo | Bonificador +3; duración 1 hora. Te vuelves entrenado en una habilidad basada en Inteligencia, elegida al crear el objeto. |
+| Superior | 17 | 3.000 mo | Bonificador +4; duración 1 hora. Te vuelves entrenado en una habilidad, elegida al crear el objeto. |
+
+---
+
+### Mutágeno corazón de draco · Objeto 1+
+
+**Rasgos:** Alquímico, Consumible, Elixir, Mutágeno, Polimorfo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Tu piel desarrolla escamas como las de un draco; tu vista se agudiza y tus pupilas se estrechan, pero tu mente y tus reflejos se vuelven más lentos.
+
+**Beneficio** Obtienes el bonificador indicado a la CA, un límite de Destreza de +2 (como siempre, usa tu límite de Destreza más bajo si tienes más de uno) y un bonificador de objeto a las pruebas de Percepción. Si llevas armadura, sigues calculando tu bonificador de competencia a la CA según tu competencia en la armadura que llevas, incluso si el mutágeno corazón de draco tiene un bonificador de objeto mayor. También obtienes la acción Último impulso.
+
+**Último impulso** ◆ Avanzas dos veces. La duración del mutágeno corazón de draco termina.
+
+**Desventaja** Sufres un penalizador de –1 a las TS de Voluntad, TS de Reflejos y a todas las pruebas de habilidad para Recordar conocimiento.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 4 mo | Bonificador de objeto +4 a la CA; bonificador de objeto +1 a Percepción; duración 1 minuto o hasta usar Último impulso |
+| Moderado | 3 | 12 mo | Bonificador de objeto +5 a la CA; bonificador de objeto +2 a Percepción; duración 10 minutos o hasta usar Último impulso |
+| Mayor | 11 | 300 mo | Bonificador de objeto +6 a la CA; bonificador de objeto +3 a Percepción; duración 1 hora o hasta usar Último impulso |
+| Superior | 17 | 3.000 mo | Bonificador de objeto +7 a la CA; bonificador de objeto +4 a Percepción; duración 1 hora o hasta usar Último impulso |
+
+---
+
+### Mutágeno imparable · Objeto 1+
+
+**Rasgos:** Alquímico, Consumible, Elixir, Mutágeno, Polimorfo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Tu cuerpo se vuelve robusto y pesado.
+
+**Beneficio** Obtienes un bonificador de objeto a las TS de Fortaleza y el número indicado de Puntos de Golpe temporales. Cada vez que estás a tus Puntos de Golpe máximos durante al menos 1 minuto, recuperas los PG temporales.
+
+**Desventaja** Sufres un penalizador de –2 a las TS de Voluntad, pruebas de Percepción y tiradas de iniciativa.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 4 mo | Bonificador +1; 5 PG temporales; duración 1 minuto |
+| Moderado | 3 | 12 mo | Bonificador +2; 10 PG temporales; duración 10 minutos |
+| Mayor | 11 | 300 mo | Bonificador +3; 30 PG temporales; duración 1 hora. Cuando obtienes un éxito en una TS de Fortaleza, se convierte en éxito crítico. |
+| Superior | 17 | 3.000 mo | Bonificador +4; 45 PG temporales; duración 1 hora. Cuando obtienes un éxito en una TS de Fortaleza, se convierte en éxito crítico; y tus fallos críticos en TS de Fortaleza se convierten en fallos. |
+
+---
+
+### Mutágeno de azogue · Objeto 1+
+
+**Rasgos:** Alquímico, Consumible, Elixir, Mutágeno, Polimorfo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Te vuelves más rápido y ágil, pero también frágil.
+
+**Beneficio** Obtienes un bonificador de objeto a las pruebas de Acrobatías, Sigilo y Latrocinio, a las TS de Reflejos y a las tiradas de ataque basadas en Destreza; además, obtienes el bonificador de estado indicado a tu Velocidad.
+
+**Desventaja** Recibes daño igual al doble de tu nivel; no puedes recuperar los Puntos de Golpe perdidos de esta manera por ningún medio mientras dure el mutágeno. Sufres un penalizador de –2 a las TS de Fortaleza.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 4 mo | Bonificador +1 a las tiradas; +5 pies a la Velocidad; duración 1 minuto |
+| Moderado | 3 | 12 mo | Bonificador +2 a las tiradas; +10 pies a la Velocidad; duración 10 minutos |
+| Mayor | 11 | 300 mo | Bonificador +3 a las tiradas; +15 pies a la Velocidad; duración 1 hora |
+| Superior | 17 | 3.000 mo | Bonificador +4 a las tiradas; +20 pies a la Velocidad; duración 1 hora |
+
+---
+
+### Mutágeno sereno · Objeto 1+
+
+**Rasgos:** Alquímico, Consumible, Elixir, Mutágeno, Polimorfo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Ganas serenidad interior, pero la violencia te resulta desagradable.
+
+**Beneficio** Obtienes un bonificador de objeto a las TS de Voluntad y a las pruebas de Percepción, Medicina, Naturaleza, Religión y Supervivencia. Este bonificador mejora cuando intentas TS de Voluntad contra efectos mentales.
+
+**Desventaja** Sufres un penalizador de –1 a las tiradas de ataque y a las CDs de salvación de conjuros ofensivos; y un penalizador de –1 por dado de daño a todo el daño de armas, ataques desarmados y conjuros.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 4 mo | Bonificador +1; o +2 contra efectos mentales; duración 1 minuto |
+| Moderado | 3 | 12 mo | Bonificador +2; o +3 contra efectos mentales; duración 10 minutos |
+| Mayor | 11 | 300 mo | Bonificador +3; o +4 contra efectos mentales; duración 1 hora. Cuando obtienes un éxito en una TS de Voluntad contra un efecto mental, se convierte en éxito crítico. |
+| Superior | 17 | 3.000 mo | Bonificador +4; duración 1 hora. Cuando obtienes un éxito en una TS de Voluntad contra un efecto mental, se convierte en éxito crítico; y tus fallos críticos en TS de Voluntad contra efectos mentales se convierten en fallos. |
+
+---
+
+### Mutágeno de lengua de plata · Objeto 1+
+
+**Rasgos:** Alquímico, Consumible, Elixir, Mutágeno, Polimorfo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Tus rasgos se vuelven llamativos y tu voz musical y dominante, aunque la emoción nubla tu razón.
+
+**Beneficio** Obtienes un bonificador de objeto a las pruebas de Engaño, Diplomacia, Intimidación e Interpretación. Tus fallos críticos con cualquiera de estas habilidades se convierten en fallos.
+
+**Desventaja** Sufres un penalizador de –2 a las pruebas de Arcanos, Artesanía, Saber, Ocultismo y Sociedad. Elige una habilidad en la que estés entrenado; durante la duración, pasas a no entrenado en esa habilidad. Todos tus fallos en Recordar conocimiento se convierten en fallos críticos.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 4 mo | Bonificador +1; duración 1 minuto |
+| Moderado | 3 | 12 mo | Bonificador +2; duración 10 minutos |
+| Mayor | 11 | 300 mo | Bonificador +3; duración 1 hora |
+| Superior | 17 | 3.000 mo | Bonificador +4; duración 1 hora |
+
+---
+
+## Venenos alquímicos
+
+Los venenos alquímicos son potentes toxinas destiladas o extraídas de fuentes naturales. El bloque de estadísticas de cada veneno incluye el precio y características de una sola dosis. Las dosis de veneno suelen guardarse en un vial u otro recipiente seguro.
+
+Aplicar venenos alquímicos utiliza acciones de manipular. Un veneno suele requerir una mano para verterlo en comida o esparcirlo en el aire. Aplicar un veneno a un arma u otro objeto requiere dos manos, con una mano sosteniendo el arma u objeto. La entrada Uso de un veneno indica el número de manos necesarias para un método típico de aplicación, pero el DJ puede determinar que utilizar venenos de otras formas funcione de manera diferente. Las armas y objetos solo pueden tener un veneno aplicado a la vez, incluso si esos venenos tienen diferentes métodos de exposición. Si se aplica un segundo veneno a un objeto, se elimina el veneno de nivel inferior (elegido al azar si ambos son del mismo nivel).
+
+Las reglas completas sobre cómo funcionan los venenos y otras aflicciones están en la página 430 de Player Core. Una criatura intenta la tirada de salvación indicada tan pronto como se expone al veneno; con una salvación fallida, la criatura avanza a la Etapa 1 del veneno después de que transcurra cualquier tiempo de inicio indicado.
+
+**Venenos virulentos:** Algunos venenos tienen el rasgo virulento. Debes tener éxito en dos salvaciones consecutivas para reducir en 1 la etapa de una aflicción virulenta. Un éxito crítico reduce la etapa de una aflicción virulenta solo en 1 en lugar de en 2.
+
+### Método de exposición
+
+Cada veneno alquímico tiene uno de los siguientes rasgos, que definen cómo puede exponerse una criatura a ese veneno.
+
+**Contacto:** Un veneno de contacto se activa aplicándolo a un objeto o directamente sobre la piel de una criatura viva. La primera criatura que toque el objeto afectado debe intentar una tirada de salvación contra el veneno; si el veneno se aplica directamente, la criatura debe intentar una tirada de salvación inmediatamente cuando el veneno toca su piel. Debido a la logística de aplicarlos sin envenenarte, los venenos de contacto son inviables de aplicar a una criatura mediante un ataque con arma. Normalmente, el tiempo de inicio de un veneno de contacto es de 1 minuto.
+
+**Ingerido:** Un veneno ingerido se activa aplicándolo a comida o bebida que va a ser consumida por una criatura viva, o colocándolo directamente en la boca de una criatura viva. Una criatura intenta una tirada de salvación contra dicho veneno cuando consume el veneno o la comida o bebida tratada con el veneno. El tiempo de inicio de los venenos ingeridos suele variar entre 1 minuto y 1 día.
+
+**Inhalado:** Un veneno inhalado se activa al liberarlo de su contenedor. Una vez liberado, el veneno crea una nube que llena un cubo de 10 pies durante 1 minuto o hasta que un viento fuerte la disipe. Cada criatura que entra en esta nube se expone al veneno y debe intentar una tirada de salvación contra él; una criatura que conoce el veneno antes de entrar en la nube puede usar una acción para contener la respiración y ganar un bonificador circunstancial +2 a la tirada de salvación durante 1 asalto.
+
+**Herida:** Un veneno de herida se activa aplicándolo a un arma o munición, y afecta al objetivo del primer Golpe realizado usando el objeto envenenado. Si ese Golpe es un éxito e inflige daño perforante o cortante, el objetivo debe intentar una tirada de salvación contra el veneno. Con un Golpe fallido, el objetivo no se ve afectado, pero el veneno permanece en el arma y puedes intentarlo de nuevo. Con un fallo crítico, o si el Golpe no logra infligir daño cortante o perforante por alguna otra razón, el veneno se gasta pero el objetivo no se ve afectado.
+
+---
+
+### Arsénico · Objeto 1
+
+**Rasgos:** Alquímico, Consumible, Ingerido, Veneno
+
+**Precio** 3 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Esta toxina es un compuesto de arsénico y otras sustancias. No puedes reducir tu condición indispuesto mientras estés afectado.
+
+**TS** CD 18 Fortaleza; **Inicio** 10 minutos; **Duración máxima** 5 minutos; **Etapa 1** 1d4 de daño de veneno e indispuesto 1 (1 minuto); **Etapa 2** 1d6 de daño de veneno e indispuesto 2 (1 minuto); **Etapa 3** 1d8 de daño de veneno e indispuesto 3 (1 minuto)
+
+---
+
+### Belladona · Objeto 2
+
+**Rasgos:** Alquímico, Consumible, Ingerido, Veneno
+
+**Precio** 5 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Llamada a veces "hierba mora mortal", la belladona es una toxina ampliamente disponible producida a partir de una planta similar al tomate.
+
+**TS** CD 19 Fortaleza; **Inicio** 10 minutos; **Duración máxima** 30 minutos; **Etapa 1** deslumbrado (10 minutos); **Etapa 2** 1d6 de daño de veneno e indispuesto 1 (10 minutos); **Etapa 3** 1d6 de daño de veneno, confuso e indispuesto 1 (1 minuto)
+
+---
+
+### Veneno de víbora negra · Objeto 2
+
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
+
+**Precio** 6 mo
+
+**Uso** sostenido en 2 manos; **Volumen** L
+
+**Activar** ◆◆ (manipular)
+
+El veneno de víbora es una forma simple pero eficaz de potenciar un arma.
+
+**TS** CD 18 Fortaleza; **Duración máxima** 3 asaltos; **Etapa 1** 1d4 de daño de veneno (1 asalto); **Etapa 2** 1d6 de daño de veneno (1 asalto); **Etapa 3** 1d8 de daño de veneno (1 asalto)
 
 ---
 
