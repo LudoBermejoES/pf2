@@ -1,88 +1,87 @@
-# Oracle Revelation Spells
-
-A focus spell is unique to a class and reflects its individual role and style. The full rules for casting a focus spell appear on page 298 of Player Core.
-
----
-
-## Ancestors
-
-### Ancestral Touch · ◆ · Focus 1
-
-**Traits:** Uncommon, Emotion, Fear, Focus, Manipulate, Mental, Oracle
-
-**Range:** touch; **Targets:** 1 living creature
-
-**Defense:** Will
-
-You touch a creature and force them to see and feel the ancestors surrounding you. The target takes 2d4 mental damage, with results depending on a Will save.
-
-**Critical Success** The target is unaffected.
-
-**Success** The target takes half damage.
-
-**Failure** The target is frightened 1 and takes full damage.
-
-**Critical Failure** The target is frightened 2 and takes double damage.
-
-**Heightened (+1)** The mental damage increases by 1d4.
+# Conjuros de Revelación del Oráculo
+Un conjuro de foco es único de cada clase y refleja su papel y estilo individuales. Las reglas completas para lanzar un conjuro de foco aparecen en la página 298 de Player Core.
 
 ---
 
-### Ancestral Defense · ◇ · Focus 3
+## Ancestros
 
-**Traits:** Uncommon, Focus, Fortune, Manipulate, Mental, Oracle
+### Toque Ancestral · ◆ · Foco 1
 
-**Trigger:** You are about to attempt a Will save.
+**Rasgos:** Poco común, Emoción, Miedo, Foco, Manipular, Mental, Oráculo
 
-Your ancestor protects you against those who would bend your will. You roll the triggering save twice and use the better result.
+**Alcance:** toque; **Objetivos:** 1 criatura viviente
 
----
+**Defensa:** Voluntad
 
-### Ancestral Form · ◆◆ · Focus 6
+Tocas a una criatura y la obligas a ver y sentir a los ancestros que te rodean. El objetivo sufre 2d4 de daño mental, con resultados que dependen de una salvación de Voluntad.
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Oracle
+**Éxito crítico** El objetivo no se ve afectado.
 
-**Duration:** sustained up to 1 minute
+**Éxito** El objetivo sufre la mitad de daño.
 
-You take the form of your ancestral spirits, becoming invisible and quasi-corporeal. You gain resistance 10 to all damage (except force, spirit, and damage from Strikes with the ghost touch property rune), and this resistance is doubled against non-magical damage or Strikes that includes precision damage. You gain a fly Speed equal to your land Speed; when Flying, moving upward isn't difficult terrain for you. You can't move through solid objects, but you can float through tiny gaps. You can't Cast Spells (but you can Sustain spells), activate items, or use actions that have the attack or manipulate trait.
+**Fracaso** El objetivo queda asustado 1 y sufre el daño completo.
 
-**Heightened (+2)** The resistance increases by 5.
+**Fracaso crítico** El objetivo queda asustado 2 y sufre el doble de daño.
 
----
-
-## Battle
-
-### Weapon Trance · ◆ · Focus 1
-
-**Traits:** Uncommon, Concentrate, Focus, Oracle
-
-**Duration:** sustained up to 1 minute; see text
-
-The serenity of violence fills your mind, giving you a heightened sense of knowing exactly where your weapons need to be. For the duration, your proficiency with martial weapons is equal to your proficiency with simple weapons. You automatically Sustain this spell as a free action the first time you hit with a weapon Strike each round.
+**Potenciado (+1)** El daño mental aumenta en 1d4.
 
 ---
 
-### Battlefield Persistence · ◇ · Focus 3
+### Defensa Ancestral · ◇ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Focus, Oracle
+**Rasgos:** Poco común, Foco, Fortuna, Manipular, Mental, Oráculo
 
-**Trigger:** You are about to attempt a saving throw, but you haven't rolled yet.
+**Desencadenante:** Estás a punto de intentar una salvación de Voluntad.
 
-You're difficult to deter in battle. You gain a +2 status bonus to the triggering save, and if the triggering save is against an incapacitation effect, it treats you as if you were 2 levels higher.
+Tu ancestro te protege contra quienes intentarían doblegar tu voluntad. Tirarás dos veces la salvación desencadenante y usarás el mejor resultado.
 
 ---
 
-### Revel in Retribution · ◆ · Focus 6
+### Forma Ancestral · ◆◆ · Foco 6
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Mental, Oracle
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Oráculo
 
-**Duration:** 1 minute
+**Duración:** mantenido hasta 1 minuto
 
-Time seems to slow for you, allowing you to strike your opponents mid-move. You gain the Reactive Strike ability, and you immediately gain a second reaction that you can use only to use Reactive Strike. At the start of each of your subsequent turns when you regain your actions, you gain an additional reaction that can be used only to attempt a Reactive Strike.
+Adoptas la forma de tus espíritus ancestrales, volviéndote invisible y cuasi corpóreo. Ganas resistencia 10 a todo el daño (excepto fuerza, espíritu y daño de Golpes con la runa de propiedad toque fantasmal), y esta resistencia se dobla contra daño no mágico o Golpes que incluyan daño de precisión. Ganas una Velocidad de vuelo igual a tu Velocidad terrestre; al volar, moverte hacia arriba no es terreno difícil para ti. No puedes moverte a través de objetos sólidos, pero puedes flotar a través de pequeños huecos. No puedes Lanzar Conjuros (pero puedes Mantener conjuros), activar objetos ni usar acciones que tengan el rasgo de ataque o manipular.
 
-Lashing out at a defenseless enemy invigorates you with the thrill of combat, granting you 5 temporary Hit Points whenever you successfully hit with a Reactive Strike. The temporary Hit Points last for the spell's duration.
+**Potenciado (+2)** La resistencia aumenta en 5.
 
-**Heightened (+1)** The temporary Hit Points you gain from a successful Reactive Strike increase by 1.
+---
+
+## Batalla
+
+### Trance de Armas · ◆ · Foco 1
+
+**Rasgos:** Poco común, Concentración, Foco, Oráculo
+
+**Duración:** mantenido hasta 1 minuto; ver texto
+
+La serenidad de la violencia llena tu mente, dándote una sensación agudizada de saber exactamente dónde deben estar tus armas. Durante la duración, tu competencia con armas marciales es igual a tu competencia con armas simples. Mantienes automáticamente este conjuro como una acción gratuita la primera vez que impactas con un Golpe de arma en cada asalto.
+
+---
+
+### Persistencia en el Campo de Batalla · ◇ · Foco 3
+
+**Rasgos:** Poco común, Concentración, Foco, Oráculo
+
+**Desencadenante:** Estás a punto de intentar una tirada de salvación, pero aún no has tirado.
+
+Eres difícil de disuadir en combate. Obtienes un bonificador de estado +2 a la salvación desencadenante y, si la salvación es contra un efecto de incapacitación, te trata como si fueras 2 niveles más alto.
+
+---
+
+### Deleite en la Retribución · ◆ · Foco 6
+
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Mental, Oráculo
+
+**Duración:** 1 minuto
+
+El tiempo parece ralentizarse para ti, permitiéndote golpear a tus oponentes en pleno movimiento. Ganas la habilidad Golpe Reactivo y obtienes inmediatamente una segunda reacción que solo puedes usar para realizar Golpe Reactivo. Al comienzo de cada uno de tus turnos posteriores, cuando recuperas tus acciones, obtienes una reacción adicional que solo puede usarse para intentar un Golpe Reactivo.
+
+Arremeter contra un enemigo indefenso te anima con la emoción del combate, otorgándote 5 Puntos de Golpe temporales cada vez que impactas con éxito con un Golpe Reactivo. Los Puntos de Golpe temporales duran mientras dure el conjuro.
+
+**Potenciado (+1)** Los Puntos de Golpe temporales que obtienes con un Golpe Reactivo exitoso aumentan en 1.
 
 ---
 

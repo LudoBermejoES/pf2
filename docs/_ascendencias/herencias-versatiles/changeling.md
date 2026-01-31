@@ -5,7 +5,10 @@ title: Changeling
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1
+versatile_heritage: Changeling
 ---
+
+<img src="{{ '/assets/images/ancestries/changeling.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Changeling">
 
 Hay relatos de niños robados y reemplazados por monstruos en incontables culturas, pero los auténticos monstruos son las **sagas** que traen al mundo a estos extraños niños, o bien directamente gestándolos o indirectamente cuando la extraña magia de los rituales de sus aquelarres afecta a los bebés de las aldeas cercanas. Dichas criaturas se enfrentan a un sinfín de desafíos, y a menudo inician su vida como un ajeno abandonado o huérfano.
 

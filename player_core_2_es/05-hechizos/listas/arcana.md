@@ -1,83 +1,83 @@
-# Arcane Spell List (Player Core 2 Additions)
+# Lista de Conjuros Arcanos (Añadidos de Player Core 2)
 
-An "H" indicates a spell has extra effects when heightened.
-U = Uncommon.
+Una «H» indica que un conjuro tiene efectos adicionales cuando está potenciado.
+U = Poco común.
 
-## Arcane Cantrips
+## Trucos arcanos
 
-- **Bullhorn H** - Magnify your voice to be heard at a distance.
-- **Gale Blast H** - Damage and push adjacent creatures with air.
-- **Live Wire H** - Slash and shock a creature with an electrified filament.
-- **Puff of Poison H** - Exhale toxins to poison a foe.
-- **Scatter Scree H** - Evoke rocks to bludgeon and create difficult terrain.
-- **Spout H** - Batter creatures with a water blast.
+- **Megáfono H** - Amplifica tu voz para oírse a distancia.
+- **Ráfaga de vendaval H** - Daña y empuja criaturas adyacentes con aire.
+- **Cable vivo H** - Corta y sacude a una criatura con un filamento electrificado.
+- **Soplo de veneno H** - Exhala toxinas para envenenar a un enemigo.
+- **Rocas dispersas H** - Evoca rocas para aporrear y crear terreno difícil.
+- **Chorro H** - Azota criaturas con una descarga de agua.
 
-## Arcane 1st-Rank Spells
+## Conjuros arcanos de 1.º rango
 
-- **Carryall H** - A floating platform follows you, carrying objects.
-- **Chilling Spray H** - Icy shards fly out from you in a cone.
-- **Déjà Vu** - Make a creature do the same thing repeatedly.
-- **Invisible Item H** - Make an item disappear.
-- **Leaden Steps H** - Make creatures heavy and weak to electricity.
-- **Mud Pit** - Conjure mud to slow movement.
-- **Noxious Vapors H** - Form a toxic cloud that poisons and sickens.
-- **Schadenfreude** - Distract foes with their exultation at your failure.
-- **Thoughtful Gift H** - Teleport an item to an ally's grasp.
+- **Plataforma de carga H** - Una plataforma flotante te sigue, llevando objetos.
+- **Rociada gélida H** - Fragmentos helados salen de ti en un cono.
+- **Déjà vu** - Obliga a una criatura a repetir la misma acción.
+- **Objeto invisible H** - Haz que un objeto desaparezca.
+- **Pasos de plomo H** - Vuelve pesadas a las criaturas y más débiles frente a electricidad.
+- **Foso de barro** - Conjura barro para ralentizar el movimiento.
+- **Vapores nocivos H** - Forma una nube tóxica que envenena y indis pone.
+- **Schadenfreude** - Distrae enemigos con su regocijo por tu fallo.
+- **Regalo considerado H** - Teletransporta un objeto a la mano de un aliado.
 
-## Arcane 2nd-Rank Spells
+## Conjuros arcanos de 2.º rango
 
-- **Animated Assault H** - Temporarily animate small objects to attack.
-- **Charitable Urge** - Make a creature give away an object.
-- **Dismantle H** - Disassemble an object temporarily.
-- **Final Sacrifice H** - Channel energy to blow up your minion.
-- **Phantasmal Treasure** - Tempt a creature with an illusory reward.
-- **Vomit Swarm H** - Vermin erupt in a cone from your mouth.
-- **Web H** - Form a web that keeps creatures from moving.
+- **Asalto animado H** - Anima temporalmente pequeños objetos para atacar.
+- **Ímpetu caritativo** - Obliga a una criatura a regalar un objeto.
+- **Desmantelar H** - Desmonta temporalmente un objeto.
+- **Sacrificio final H** - Canaliza energía para hacer explotar a tu esbirro.
+- **Tesoro fantasmal** - Tienta a una criatura con una recompensa ilusoria.
+- **Vomitar enjambre H** - Alimañas erupcionan en un cono desde tu boca.
+- **Telaraña H** - Forma una red que impide moverse a las criaturas.
 
-## Arcane 3rd-Rank Spells
+## Conjuros arcanos de 3.º rango
 
-- **Crashing Wave H** - Smash a cone of water against foes.
-- **Curse of Lost Time H** - Artificially erode or age a target.
-- **Familiar's Face** - Implant your senses and voice in your companion.
-- **Gravity Well** - Pull all creatures toward the center of a sphere of altered gravity.
-- **Rouse Skeletons H** - Rouse a squadron of skeletons to claw foes.
-- **Shared Invisibility H** - You and nearby creatures become invisible.
-- **Shrink Item** - Reduce an object to the size of a coin.
+- **Ola rompiente H** - Estrella un cono de agua contra enemigos.
+- **Maldición del tiempo perdido H** - Erosiona o envejece artificialmente a un objetivo.
+- **Rostro del familiar** - Implanta tus sentidos y voz en tu compañero.
+- **Pozo gravitatorio** - Atrae a todas las criaturas al centro de una esfera de gravedad alterada.
+- **Despertar esqueletos H** - Despierta un escuadrón de esqueletos para arañar enemigos.
+- **Invisibilidad compartida H** - Tú y criaturas cercanas os volvéis invisibles.
+- **Encoger objeto** - Reduce un objeto al tamaño de una moneda.
 
-## Arcane 4th-Rank Spells
+## Conjuros arcanos de 4.º rango
 
-- **Bestial Curse** - Make a humanoid take on features of a beast.
-- **Containment H** - Seal a creature in a sphere to contain or protect it.
-- **Countless Eyes** - Spawn magical eyes all over a creature's body.
-- **Dull Ambition** - Curse a creature with a lack of ambition.
-- **Ice Storm H** - Call a storm cloud that pelts creatures with hail.
-- **Seal Fate H** - Curse a creature to be harmed by a type of damage.
-- **Vampiric Maiden H** - An iron maiden steals a creature's vitality.
+- **Maldición bestial** - Haz que un humanoide adopte rasgos de bestia.
+- **Contención H** - Encierra a una criatura en una esfera para contenerla o protegerla.
+- **Ojos innumerables** - Brotan ojos mágicos por todo el cuerpo de una criatura.
+- **Ambición apagada** - Maldice a una criatura con falta de ambición.
+- **Tormenta de hielo H** - Invoca una nube que azota con granizo.
+- **Sellar destino H** - Maldice a una criatura para dañarla con un tipo de daño.
+- **Doncella vampírica H** - Una doncella de hierro roba la vitalidad de una criatura.
 
-## Arcane 5th-Rank Spells
+## Conjuros arcanos de 5.º rango
 
-- **Blister H** - Grow blisters on a creature and pop them to spray acid.
-- **Cloak of Colors** - Bright colors dazzle and blind creatures.
-- **Corrosive Muck H** - Create two puddles of acidic slime.
-- **Drop Dead H, U** - The target appears to die, but turns invisible.
-- **Grisly Growths H** - A creature grows sickening limbs and organs.
-- **Imaginary Lockbox** - Hide items in a mental compartment.
+- **Ampollas H** - Haz crecer ampollas y revéntalas para rociar ácido.
+- **Capa de colores** - Colores brillantes deslumbran y ciegan criaturas.
+- **Fango corrosivo H** - Crea dos charcos de baba ácida.
+- **Caer muerto H, U** - El objetivo parece morir, pero se vuelve invisible.
+- **Crecimientos macabros H** - A una criatura le crecen miembros y órganos repugnantes.
+- **Cofre imaginario** - Oculta objetos en un compartimento mental.
 
-## Arcane 6th-Rank Spells
+## Conjuros arcanos de 6.º rango
 
-- **Collective Transposition H** - Teleport up to two creatures to new positions near you.
+- **Transposición colectiva H** - Teletransporta hasta dos criaturas a nuevas posiciones cercanas.
 
-## Arcane 7th-Rank Spells
+## Conjuros arcanos de 7.º rango
 
-- **Lifewood Cage** - Trap a creature in a wooden cage.
-- **Spell Riposte U** - Reflect a spell targeted at you.
+- **Jaula de madera viva** - Atrapa a una criatura en una jaula de madera.
+- **Rechazar conjuro U** - Refleja un conjuro dirigido contra ti.
 
-## Arcane 8th-Rank Spells
+## Conjuros arcanos de 8.º rango
 
-- **Confusing Colors** - Dazzle, confuse, or stun creatures in a cloud.
-- **Dream Council** - Communicate through a shared dream.
+- **Colores confusos** - Deslumbra, confunde o aturde criaturas en una nube.
+- **Consejo onírico** - Comunícate mediante un sueño compartido.
 
-## Arcane 9th-Rank Spells
+## Conjuros arcanos de 9.º rango
 
-- **Resplendent Mansion** - Conjure a towering mansion.
-- **Telepathic Demand** - Impel a creature with a mental message.
+- **Mansión resplandeciente** - Conjura una mansión imponente.
+- **Exigencia telepática** - Impulsa a una criatura con un mensaje mental.

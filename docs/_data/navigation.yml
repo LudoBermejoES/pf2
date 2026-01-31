@@ -50,21 +50,23 @@ sidebar:
     title: Ascendencias
     items:
       - title: "Humano"
-        url: /ascendencias/humano/descripcion/
+        url: /ascendencias/humano/
       - title: "Elfo"
-        url: /ascendencias/elfo/descripcion/
+        url: /ascendencias/elfo/
       - title: "Enano"
-        url: /ascendencias/enano/descripcion/
+        url: /ascendencias/enano/
       - title: "Mediano"
-        url: /ascendencias/mediano/descripcion/
+        url: /ascendencias/mediano/
       - title: "Gnomo"
-        url: /ascendencias/gnomo/descripcion/
+        url: /ascendencias/gnomo/
       - title: "Orco"
-        url: /ascendencias/orco/descripcion/
+        url: /ascendencias/orco/
       - title: "Goblin"
-        url: /ascendencias/goblin/descripcion/
+        url: /ascendencias/goblin/
       - title: "Leshy"
-        url: /ascendencias/leshy/descripcion/
+        url: /ascendencias/leshy/
+      - title: "Herencias Versátiles"
+        url: /ascendencias/herencias-versatiles/
       - title: "---"
       - title: "Bagajes"
         url: /ascendencias/bagajes/

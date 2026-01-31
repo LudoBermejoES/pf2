@@ -5,7 +5,10 @@ title: Nefilim
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1
+versatile_heritage: Nefilim
 ---
+
+<img src="{{ '/assets/images/ancestries/nefilim.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Nefilim">
 
 Son incontables las leyendas que hablan de relaciones carnales entre mortales e inmortales, y de los hijos que nacen de dichos encuentros. Estos hijos, conocidos como **retoños planarios**, son mortales que heredan la esencia sobrenatural de otro Plano, que se manifiesta a través de sus rasgos físicos distintivos y de sus poderes de otro mundo.
 
