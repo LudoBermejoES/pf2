@@ -13,7 +13,7 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
   parse_block_html: true
-  parse_span_html: true
+  parse_span_html: false
 
 # Theme settings
 remote_theme: null

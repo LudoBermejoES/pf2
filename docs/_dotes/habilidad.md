@@ -22,7 +22,7 @@ Estas dotes pueden aplicarse a varias habilidades o tienen prerrequisitos flexib
 ### Nivel 1
 
 #### Conocimiento dudoso
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -33,7 +33,7 @@ Eres un tesoro de informacion, pero no toda ella procede de fuentes reputadas. C
 ---
 
 #### Entrenamiento en una habilidad
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -46,7 +46,7 @@ Obtienes el rango entrenado en una habilidad a tu eleccion.
 ---
 
 #### Identificacion rapida
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -57,7 +57,7 @@ Puedes Identificar magia rapidamente. Solo tardas 1 minuto cuando utilizas Ident
 ---
 
 #### Reconocer conjuro ↺
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Secreto</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Secreto</span></div>
 
 **Dote 1**
 
@@ -78,7 +78,7 @@ Si tienes el rango entrenado en la habilidad apropiada para la tradicion del con
 ---
 
 #### Seguro
-<div class="feat-traits-header"><span class="feat-trait">Fortuna</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Fortuna</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -93,7 +93,7 @@ Incluso en las peores circunstancias, puedes llevar a cabo tareas basicas. Elige
 ### Nivel 2
 
 #### Conocimiento automatico
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -106,7 +106,7 @@ Conoces hechos basicos sin pararte mucho a pensar. Elige una habilidad en la que
 ---
 
 #### Taquigrafia magica
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -121,7 +121,7 @@ Puedes usar el tiempo libre para aprender e inscribir nuevos conjuros. Esto func
 ### Nivel 7
 
 #### Reconocimiento rapido
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -134,7 +134,7 @@ Reconoces conjuros rapidamente. Una vez por asalto, puedes Reconocer un conjuro 
 ### Nivel 15
 
 #### Teoria unificada
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -149,7 +149,7 @@ Entiendes los puntales basicos de las cuatro tradiciones de la magia y de las es
 ### Nivel 1
 
 #### Caida de gato
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -160,7 +160,7 @@ Tu agilidad aerea gatuna te permite amortiguar tus caidas. Tratas tus caidas com
 ---
 
 #### Equilibrio firme
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -171,7 +171,7 @@ Puedes mantener facilmente el equilibrio, incluso en condiciones adversas. Siemp
 ---
 
 #### Escurrirse rapidamente
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -184,7 +184,7 @@ Te Escurres 5 pies (1,5 m) por asalto (10 pies [3 m] con un exito critico). Si t
 ### Nivel 2
 
 #### Gatear agilmente
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -197,7 +197,7 @@ Puedes Gatear de forma increiblemente rapida, hasta la mitad de tu Velocidad, en
 ### Nivel 7
 
 #### Levantarse ◆
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Reacción</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Reacción</span></div>
 
 **Dote 7**
 
@@ -212,7 +212,7 @@ Te pones de pie. Este movimiento no desencadena reacciones.
 ### Nivel 1
 
 #### Sentido arcano
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -227,7 +227,7 @@ Tu estudio de la magia te permite notar su presencia de forma instintiva. Puedes
 ### Nivel 1
 
 #### Artesania alquimica
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -238,7 +238,7 @@ Puedes utilizar la actividad Artesania para crear sustancias alquimicas. Cuando 
 ---
 
 #### Conocedor
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -249,7 +249,7 @@ Dominas la preparacion de muchos tipos de comida y bebida. Obtienes un bonificad
 ---
 
 #### Especialidad artesana
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -277,7 +277,7 @@ Tu entrenamiento esta enfocado en la Artesania de un tipo de objeto en particula
 ---
 
 #### Reparacion rapida
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -290,7 +290,7 @@ Para ti, la actividad de Reparar pierde el rasgo exploracion y requiere 1 minuto
 ### Nivel 2
 
 #### Artesania comunal
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -305,7 +305,7 @@ Artesania comunal tambien te permite adoptar el papel de un ayudante cuando algu
 ---
 
 #### Artesania magica
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -316,7 +316,7 @@ Puedes Elaborar objetos magicos, aunque algunos tienen otros requisitos, tal y c
 ---
 
 #### Inventor
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Tiempo libre</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Tiempo libre</span></div>
 
 **Dote 2**
 
@@ -331,7 +331,7 @@ El DJ podria permitirte inventar formulas poco comunes o raras, tipicamente con 
 ### Nivel 7
 
 #### Artesania impecable
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -344,7 +344,7 @@ Consigues creaciones perfectas con gran eficacia. Siempre que obtienes un exito 
 ### Nivel 15
 
 #### Elaborar cualquier cosa
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -359,7 +359,7 @@ Puedes encontrar formas para elaborar casi cualquier cosa, a pesar de las restri
 ### Nivel 1
 
 #### Luchador titanico
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -370,7 +370,7 @@ Puedes hacer pruebas de Desarmar, Agarrar, Reposicionar, Empujar o Derribar a cr
 ---
 
 #### Merodeador subacuatico
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -381,7 +381,7 @@ Has aprendido a pelear bajo el agua. No estas desprevenido en el agua y no estas
 ---
 
 #### Porteador recio
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -392,7 +392,7 @@ Puedes llevar mas peso de lo que aparentas. Incrementa en 2 tus limites maximo e
 ---
 
 #### Salto rapido
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -403,7 +403,7 @@ Puedes utilizar Salto de altura y Salto de longitud como una sola accion en luga
 ---
 
 #### Trepador de combate
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -416,7 +416,7 @@ Tu tecnica te permite luchar mientras trepas. No estas desprevenido mientras Tre
 ### Nivel 2
 
 #### Saliente rapido
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -427,7 +427,7 @@ Te subes facilmente a los salientes. Cuando te Agarras a un saliente, te puedes 
 ---
 
 #### Salto poderoso
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -440,7 +440,7 @@ Puedes Saltar 5 pies (1,5 m) verticalmente sin llevar a cabo un Salto de altura.
 ### Nivel 7
 
 #### Escalada rapida
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -451,7 +451,7 @@ Cuando Trepas, te mueves 5 pies (1,5 m) mas con un exito y 10 pies (3 m) mas con
 ---
 
 #### Natacion rapida
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -462,7 +462,7 @@ Nadas 5 pies (1,5 m) mas con un exito y 10 pies (3 m) mas con un exito critico, 
 ---
 
 #### Saltar paredes
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -477,7 +477,7 @@ Tan solo puedes utilizar Saltar paredes una vez en un turno, si no tienes el ran
 ### Nivel 15
 
 #### Salto nuboso
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -494,7 +494,7 @@ Cuando haces Saltos de altura o de longitud, puedes saltar una distancia mayor q
 ### Nivel 1
 
 #### Buscador de gangas
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -505,7 +505,7 @@ Puedes Obtener ingresos utilizando Diplomacia, invirtiendo dias en buscar gangas
 ---
 
 #### Confraternizador
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -516,7 +516,7 @@ Eres habil en averiguar informacion conversando. La actividad de exploracion Reu
 ---
 
 #### Impresion de grupo
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -527,7 +527,7 @@ Cuando Causas impresion, puedes comparar el resultado de tu prueba de Diplomacia
 ---
 
 #### Que no cunda el panico ◆◆◆
-<div class="feat-traits-header"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emocion</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Linguistico</span><span class="feat-trait">Mental</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emocion</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Linguistico</span><span class="feat-trait">Mental</span></div>
 
 **Dote 1**
 
@@ -544,7 +544,7 @@ Tratas de reducir el panico. Haz una prueba de Diplomacia, comparandola con la C
 ### Nivel 2
 
 #### Estrechar manos
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -557,7 +557,7 @@ Las primeras impresiones son tu punto fuerte. Cuando te encuentras con alguien e
 ### Nivel 7
 
 #### Peticion descarada
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -570,7 +570,7 @@ Puedes minimizar las consecuencias o la indignacion resultante de tus peticiones
 ### Nivel 15
 
 #### Negociacion legendaria ◆◆◆
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -585,7 +585,7 @@ Puedes negociar increiblemente rapido en situaciones adversas. Primero tratas de
 ### Nivel 1
 
 #### Distraccion extensa
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -596,7 +596,7 @@ Cuando obtienes un exito critico en Crear una distraccion, sigues escondido desp
 ---
 
 #### Menteme
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -607,7 +607,7 @@ Puedes usar Engano para tejer trampas que confunden a cualquiera que intenta eng
 ---
 
 #### Mentiroso encantador
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -620,7 +620,7 @@ Tu encanto te permite ganarte a aquellos a los que mientes. Cuando obtienes un e
 ### Nivel 2
 
 #### Confabulador
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -631,7 +631,7 @@ Incluso cuando se te detecta una falsedad, amontonas mentira sobre mentira. Redu
 ---
 
 #### Disfraz rapido
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -644,7 +644,7 @@ Puedes preparar un disfraz en la decima parte del tiempo habitual (por lo genera
 ### Nivel 7
 
 #### Secretos escurridizos
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -659,7 +659,7 @@ Esquivas y evitas todo intento de descubrir tu autentica naturaleza o intencione
 ### Nivel 1
 
 #### Interpretacion fascinante
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -672,7 +672,7 @@ Si tienes el rango experto en Interpretacion, puedes fascinar hasta a 4 observad
 ---
 
 #### Interpretacion impresionante
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -683,7 +683,7 @@ Tus interpretaciones inspiran admiracion y te granjean seguidores. Puedes Causar
 ---
 
 #### Interprete virtuoso
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -708,7 +708,7 @@ Tienes un talento excepcional en un tipo de interpretacion. Obtienes un bonifica
 ### Nivel 15
 
 #### Interprete legendario
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -723,7 +723,7 @@ Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la 
 ### Nivel 1
 
 #### Intimidacion de grupo
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -734,7 +734,7 @@ Puedes ponerte duro con la gente de forma efectiva, incluso si no la tienes aisl
 ---
 
 #### Intimidacion rapida
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -745,7 +745,7 @@ Puedes amedrentar a otros con tan solo unas pocas implicaciones bien elegidas. P
 ---
 
 #### Mirada intimidante
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -758,7 +758,7 @@ Puedes Desmoralizar con una simple mirada. Cuando lo haces, Desmoralizar pierde 
 ### Nivel 2
 
 #### Intimidacion duradera
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -769,7 +769,7 @@ Cuando Intimidas con exito a alguien, la cantidad maxima de tiempo que te obedec
 ---
 
 #### Poderio intimidante
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -782,7 +782,7 @@ En las situaciones en las que puedes amenazar fisicamente al objetivo cuando Int
 ### Nivel 7
 
 #### Grito de guerra
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -793,7 +793,7 @@ Cuando tiras iniciativa, puedes lanzar un poderoso grito de guerra y Desmoraliza
 ---
 
 #### Retirada aterrada
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -806,7 +806,7 @@ Cuando obtienes un exito critico en una accion de Desmoralizar, si el nivel del 
 ### Nivel 15
 
 #### Susto mortal ◆
-<div class="feat-traits-header"><span class="feat-trait">Emocion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Incapacitacion</span><span class="feat-trait">Miedo</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Emocion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Incapacitacion</span><span class="feat-trait">Miedo</span></div>
 
 **Dote 15**
 
@@ -829,7 +829,7 @@ Puedes asustar tanto a tus enemigos que hasta podrian morir. Haz una prueba de I
 ### Nivel 1
 
 #### Carterista
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -840,7 +840,7 @@ Puedes Sustraer o Escamotear un objeto fuertemente custodiado, como por ejemplo 
 ---
 
 #### Sustraccion sutil
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -853,7 +853,7 @@ Cuando Sustraes algo con exito, los observadores (toda criatura distinta a aquel
 ### Nivel 2
 
 #### Desactivacion cautelosa
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -866,7 +866,7 @@ Si desencadenas un artilugio o disparas una trampa cuando la estas desactivando,
 ### Nivel 7
 
 #### Forzado rapido
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -879,7 +879,7 @@ Puedes Forzar una cerradura utilizando 1 accion en lugar de 2.
 ### Nivel 15
 
 #### Ladron legendario
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -894,7 +894,7 @@ Tu capacidad para Sustraer desafia toda comprension. Puedes intentar Sustraer al
 ### Nivel 1
 
 #### Medicina de guerra ◆
-<div class="feat-traits-header"><span class="feat-trait">Curacion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Curacion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -907,7 +907,7 @@ Puedes apanar heridas, incluso en combate. Haz una prueba de Medicina con la mis
 ---
 
 #### Medicina natural
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -922,7 +922,7 @@ Si estas en las tierras virgenes, podrias tener un acceso mas facil a los ingred
 ### Nivel 2
 
 #### Medico de sala
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -933,7 +933,7 @@ Has estudiado en grandes salas medicas, tratando varios pacientes a la vez y ate
 ---
 
 #### Recuperacion continua
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -944,7 +944,7 @@ Controlas celosamente los progresos de un paciente a fin de administrar su trata
 ---
 
 #### Recuperacion robusta
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -955,7 +955,7 @@ Aprendiste medicina popular para que te ayudara a recuperarte de las enfermedade
 ---
 
 #### Tratamiento inusual
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -972,7 +972,7 @@ Si tienes el rango maestro en Medicina, anade el estado drenado a la lista de es
 ### Nivel 7
 
 #### Primeros auxilios avanzados
-<div class="feat-traits-header"><span class="feat-trait">Curacion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Curacion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -985,7 +985,7 @@ Utilizas tu entrenamiento medico para mejorar enfermedades o aliviar temores. Cu
 ### Nivel 15
 
 #### Medico legendario
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -1000,7 +1000,7 @@ Has descubierto avances medicos o tecnicas que consiguen resultados milagrosos. 
 ### Nivel 1
 
 #### Adiestrar animal
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Manipular</span><span class="feat-trait">Tiempo libre</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Manipular</span><span class="feat-trait">Tiempo libre</span></div>
 
 **Dote 1**
 
@@ -1019,7 +1019,7 @@ Si tienes el rango experto, maestro o legendario en Naturaleza, podrias entrenar
 ### Nivel 2
 
 #### Animal vinculado
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Tiempo libre</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Tiempo libre</span></div>
 
 **Dote 2**
 
@@ -1038,7 +1038,7 @@ Un animal solicito es mas facil de dirigir. Si tu animal vinculado es de nivel -
 ### Nivel 1
 
 #### Identificar extranezas
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1049,7 +1049,7 @@ Cuando eres consciente de un efecto magico o ves que se lanza un conjuro, puedes
 ---
 
 #### Instruido en secretos
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1062,7 +1062,7 @@ Te fijas en los signos y simbolos que los miembros de las sectas mistericas y ot
 ### Nivel 7
 
 #### Magia extraña
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -1073,7 +1073,7 @@ Te puedes basar en extrañas variaciones en tu lanzamiento de conjuros, tanto si
 ---
 
 #### Romper maldicion
-<div class="feat-traits-header"><span class="feat-trait">Concentrar</span><span class="feat-trait">Curacion</span><span class="feat-trait">Exploracion</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Curacion</span><span class="feat-trait">Exploracion</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -1088,7 +1088,7 @@ Inviertes 8 horas rezando o llevando a cabo rituales ocultista sobre el objetivo
 ### Nivel 1
 
 #### Alumno del canon
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1101,7 +1101,7 @@ Has investigado lo suficiente sobre muchas fes para reconocer que algunas nocion
 ### Nivel 15
 
 #### Guia divina
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -1116,7 +1116,7 @@ Estas tan inmerso en las escrituras divinas que encuentras en tus textos signifi
 ### Nivel 1
 
 #### Profesional experto
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1127,7 +1127,7 @@ Salvaguardas con cuidado tus empenos profesionales para evitar el desastre. Cuan
 ---
 
 #### Saber adicional
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1140,7 +1140,7 @@ Tu conocimiento se ha expandido hasta abarcar un nuevo campo. Elige una subcateg
 ### Nivel 2
 
 #### Saber inconfundible
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -1153,7 +1153,7 @@ Nunca te equivocas con la informacion relativa a tus areas de experiencia. Cuand
 ### Nivel 15
 
 #### Profesional legendario
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -1168,7 +1168,7 @@ Tu fama se ha extendido por todos los paises (por ejemplo, si tienes Saber [guer
 ### Nivel 1
 
 #### Acechador del terreno
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1183,7 +1183,7 @@ Durante la exploracion, esto te permite tambien acercarte automaticamente a 15 p
 ---
 
 #### Contrabandista experto
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1196,7 +1196,7 @@ A menudo pasas cosas de contrabando sin que las autoridades se enteren. Cuando e
 ### Nivel 2
 
 #### Aliados silenciosos
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 2**
 
@@ -1209,7 +1209,7 @@ Eres muy habil en moverte con un grupo. Cuando Evitas ser detectado y tus aliado
 ### Nivel 7
 
 #### Frustrar los sentidos
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -1220,7 +1220,7 @@ Tienes una gran habilidad para frustrar los sentidos especiales de las criaturas
 ---
 
 #### Movimiento furtivo rapido
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -1233,7 +1233,7 @@ Te puedes mover a Velocidad completa cuando Mueves furtivamente. Puedes utilizar
 ### Nivel 15
 
 #### Movimiento furtivo legendario
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -1248,7 +1248,7 @@ Siempre te mueves furtivamente a menos que elijas que te vean, incluso cuando no
 ### Nivel 1
 
 #### Callejeo
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1259,7 +1259,7 @@ Dominas la vida en las calles y notas el pulso del asentamiento en el que estas.
 ---
 
 #### Gracia cortesana
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1270,7 +1270,7 @@ Te criaste entre la nobleza o has aprendido la etiqueta y el porte correctos, lo
 ---
 
 #### Leer los labios
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1281,7 +1281,7 @@ Puedes leer los labios de quienes estan cerca y a los que puedes ver claramente.
 ---
 
 #### Lenguaje de signos
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1294,7 +1294,7 @@ Un lenguaje de signos es dificil de entender durante el combate debido al nivel 
 ---
 
 #### Multilingue
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1309,7 +1309,7 @@ Aprendes facilmente nuevos idiomas. Aprendes dos idiomas nuevos, elegidos de ent
 ### Nivel 15
 
 #### Descifrador legendario
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -1320,7 +1320,7 @@ Tu habilidad con los idiomas y los codigos es tan grande que puedes descifrar in
 ---
 
 #### Linguista legendario
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -1335,7 +1335,7 @@ Eres tan habil con los idiomas que puedes crear una lengua franca instantaneamen
 ### Nivel 1
 
 #### Experiencia en un terreno
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1348,7 +1348,7 @@ Tu experiencia en navegar por determinado tipo de terreno hace que tengas una co
 ---
 
 #### Forrajeador
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1361,7 +1361,7 @@ Aumenta a 8 el numero de criaturas adicionales a las que sustentas con un exito 
 ---
 
 #### Rastreador experto
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1372,7 +1372,7 @@ Rastrear es para ti instintivo y, cuando es necesario, puedes seguir un rastro s
 ---
 
 #### Supervisor de la fauna
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
@@ -1385,7 +1385,7 @@ Puedes estudiar detalles de las tierras virgenes para determinar la presencia de
 ### Nivel 7
 
 #### Artesania monstruosa
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -1398,7 +1398,7 @@ Si inviertes dias adicionales trabajando en el objeto, reduce el Precio utilizan
 ---
 
 #### Supervivencia planaria
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 7**
 
@@ -1411,7 +1411,7 @@ Puedes Subsistir utilizando Supervivencia en diferentes Planos, incluso los que 
 ### Nivel 15
 
 #### Supervivencialista legendario
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 15**
 
@@ -1426,7 +1426,7 @@ Puedes sobrevivir de forma indefinida sin comida o agua y soportar un frio o un 
 ### Nivel 1
 
 #### Trucar objeto magico ◆
-<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Manipular</span></div>
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Manipular</span></div>
 
 **Dote 1**
 
