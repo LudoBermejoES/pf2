@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /conjuros/index/
+permalink: /conjuros/spell-index/
 title: Spell Index
 chapter: Conjuros
 nav_order: 1

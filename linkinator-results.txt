@@ -1,0 +1,186 @@
+→ crawling https://pf2.ludobermejo.es/
+[200] https://pf2.ludobermejo.es/
+[200] https://pf2.ludobermejo.es/assets/css/main.css
+[200] https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Fira+Code&display=swap
+[200] https://unpkg.com/lunr/lunr.js
+[200] https://pf2.ludobermejo.es/equipo/
+[200] https://pf2.ludobermejo.es/introduccion/
+[200] https://pf2.ludobermejo.es/clases/
+[200] https://pf2.ludobermejo.es/introduccion/terminos-clave/
+[200] https://pf2.ludobermejo.es/clases/guerrero/
+[200] https://pf2.ludobermejo.es/ascendencias/humano/
+[200] https://pf2.ludobermejo.es/ascendencias/leshy/
+[200] https://pf2.ludobermejo.es/conjuros/
+[200] https://pf2.ludobermejo.es/ascendencias/enano/
+[200] https://pf2.ludobermejo.es/ascendencias/mediano/
+[200] https://pf2.ludobermejo.es/introduccion/atributos/
+[200] https://pf2.ludobermejo.es/ascendencias/elfo/
+[200] https://pf2.ludobermejo.es/introduccion/como-se-juega/
+[200] https://pf2.ludobermejo.es/ascendencias/idiomas/
+[200] https://pf2.ludobermejo.es/introduccion/creacion-personajes/
+[200] https://pf2.ludobermejo.es/ascendencias/nefilim/
+[200] https://pf2.ludobermejo.es/dotes/
+[200] https://pf2.ludobermejo.es/reglas/
+[200] https://pf2.ludobermejo.es/ascendencias/changeling/
+[200] https://pf2.ludobermejo.es/introduccion/que-es-jdr/
+[200] https://pf2.ludobermejo.es/clases/mago/
+[200] https://pf2.ludobermejo.es/clases/druida/
+[200] https://pf2.ludobermejo.es/ascendencias/gnomo/
+[200] https://pf2.ludobermejo.es/ascendencias/orco/
+[200] https://pf2.ludobermejo.es/ascendencias/herencias-versatiles/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/mago/
+[200] https://pf2.ludobermejo.es/clases/brujo/
+[200] https://pf2.ludobermejo.es/ascendencias/bagajes/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/bardo/
+[200] https://pf2.ludobermejo.es/ascendencias/goblin/
+[200] https://pf2.ludobermejo.es/clases/clerigo/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/reinos-brillantes/
+[200] https://pf2.ludobermejo.es/clases/explorador/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/tierras-imposibles/
+[200] https://pf2.ludobermejo.es/dotes/habilidad/
+[200] https://pf2.ludobermejo.es/clases/bardo/
+[200] https://pf2.ludobermejo.es/clases/companeros/
+[200] https://pf2.ludobermejo.es/ascendencias/ascendencia-mixta/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/ojo-terror/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/
+[404] https://pf2.ludobermejo.es/ambientacion/religion/
+[200] https://pf2.ludobermejo.es/conjuros/listas/divina/
+[200] https://pf2.ludobermejo.es/clases/picaro/
+[200] https://pf2.ludobermejo.es/dotes/generales/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/clerigo/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/brujo/
+[200] https://pf2.ludobermejo.es/conjuros/listas/oculta/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/explorador/
+[200] https://pf2.ludobermejo.es/apendices/
+[200] https://pf2.ludobermejo.es/equipo/armas/
+[200] https://pf2.ludobermejo.es/equipo/armaduras/
+[200] https://pf2.ludobermejo.es/conjuros/introduccion/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/picaro/
+[200] https://pf2.ludobermejo.es/reglas/modo-encuentro/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/guerrero/
+[200] https://pf2.ludobermejo.es/habilidades/tabla/
+[200] https://pf2.ludobermejo.es/conjuros/listas/primigenia/
+[200] https://pf2.ludobermejo.es/equipo/escudos/
+[200] https://pf2.ludobermejo.es/conjuros/listas/arcana/
+[200] https://pf2.ludobermejo.es/apendices/estados-a-e/
+[200] https://pf2.ludobermejo.es/conjuros/conjuros-foco/druida/
+[200] https://pf2.ludobermejo.es/conjuros/conjuros-foco/explorador/
+[200] https://pf2.ludobermejo.es/reglas/modo-tiempo-libre/
+[200] https://pf2.ludobermejo.es/reglas/acciones/
+[200] https://pf2.ludobermejo.es/equipo/objetos/
+[200] https://pf2.ludobermejo.es/conjuros/conjuros-foco/bardo/
+[200] https://pf2.ludobermejo.es/assets/js/search.js
+[200] https://pf2.ludobermejo.es/conjuros/rituales/rituales/
+[200] https://pf2.ludobermejo.es/assets/js/main.js
+[200] https://pf2.ludobermejo.es/ascendencias/
+[200] https://pf2.ludobermejo.es/habilidades/
+[200] https://pf2.ludobermejo.es/conjuros/conjuros-foco/clerigo/
+[200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/druida/
+[200] https://pf2.ludobermejo.es/habilidades/acciones-generales/
+[200] https://pf2.ludobermejo.es/apendices/glosario/
+[200] https://pf2.ludobermejo.es/reglas/modo-exploracion/
+[404] https://pf2.ludobermejo.es/ambientacion/golarion/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/tierras-quebradas/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/alta-mar/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/absalom/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/tierras-saga/
+[404] https://pf2.ludobermejo.es/apendices/estados/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/extension-mwangi/
+[404] https://pf2.ludobermejo.es/conjuros/spell-index/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/camino-dorado/
+[404] https://pf2.ludobermejo.es/ambientacion/regiones/viejo-cheliax/
+
+  [200] https://pf2.ludobermejo.es/
+https://pf2.ludobermejo.es/
+  [200] https://pf2.ludobermejo.es/assets/css/main.css
+  [200] https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Fira+Code&display=swap
+  [200] https://unpkg.com/lunr/lunr.js
+  [200] https://pf2.ludobermejo.es/equipo/
+  [200] https://pf2.ludobermejo.es/introduccion/
+  [200] https://pf2.ludobermejo.es/clases/
+  [200] https://pf2.ludobermejo.es/introduccion/terminos-clave/
+  [200] https://pf2.ludobermejo.es/clases/guerrero/
+  [200] https://pf2.ludobermejo.es/ascendencias/humano/
+  [200] https://pf2.ludobermejo.es/ascendencias/leshy/
+  [200] https://pf2.ludobermejo.es/conjuros/
+  [200] https://pf2.ludobermejo.es/ascendencias/enano/
+  [200] https://pf2.ludobermejo.es/ascendencias/mediano/
+  [200] https://pf2.ludobermejo.es/introduccion/atributos/
+  [200] https://pf2.ludobermejo.es/ascendencias/elfo/
+  [200] https://pf2.ludobermejo.es/introduccion/como-se-juega/
+  [200] https://pf2.ludobermejo.es/ascendencias/idiomas/
+  [200] https://pf2.ludobermejo.es/introduccion/creacion-personajes/
+  [200] https://pf2.ludobermejo.es/ascendencias/nefilim/
+  [200] https://pf2.ludobermejo.es/dotes/
+  [200] https://pf2.ludobermejo.es/reglas/
+  [200] https://pf2.ludobermejo.es/ascendencias/changeling/
+  [200] https://pf2.ludobermejo.es/introduccion/que-es-jdr/
+  [200] https://pf2.ludobermejo.es/clases/mago/
+  [200] https://pf2.ludobermejo.es/clases/druida/
+  [200] https://pf2.ludobermejo.es/ascendencias/gnomo/
+  [200] https://pf2.ludobermejo.es/ascendencias/orco/
+  [200] https://pf2.ludobermejo.es/ascendencias/herencias-versatiles/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/mago/
+  [200] https://pf2.ludobermejo.es/clases/brujo/
+  [200] https://pf2.ludobermejo.es/ascendencias/bagajes/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/bardo/
+  [200] https://pf2.ludobermejo.es/ascendencias/goblin/
+  [200] https://pf2.ludobermejo.es/clases/clerigo/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/reinos-brillantes/
+  [200] https://pf2.ludobermejo.es/clases/explorador/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/tierras-imposibles/
+  [200] https://pf2.ludobermejo.es/dotes/habilidad/
+  [200] https://pf2.ludobermejo.es/clases/bardo/
+  [200] https://pf2.ludobermejo.es/clases/companeros/
+  [200] https://pf2.ludobermejo.es/ascendencias/ascendencia-mixta/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/ojo-terror/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/
+  [404] https://pf2.ludobermejo.es/ambientacion/religion/
+  [200] https://pf2.ludobermejo.es/conjuros/listas/divina/
+  [200] https://pf2.ludobermejo.es/clases/picaro/
+  [200] https://pf2.ludobermejo.es/dotes/generales/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/clerigo/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/brujo/
+  [200] https://pf2.ludobermejo.es/conjuros/listas/oculta/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/explorador/
+  [200] https://pf2.ludobermejo.es/apendices/
+  [200] https://pf2.ludobermejo.es/equipo/armas/
+  [200] https://pf2.ludobermejo.es/equipo/armaduras/
+  [200] https://pf2.ludobermejo.es/conjuros/introduccion/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/picaro/
+  [200] https://pf2.ludobermejo.es/reglas/modo-encuentro/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/guerrero/
+  [200] https://pf2.ludobermejo.es/habilidades/tabla/
+  [200] https://pf2.ludobermejo.es/conjuros/listas/primigenia/
+  [200] https://pf2.ludobermejo.es/equipo/escudos/
+  [200] https://pf2.ludobermejo.es/conjuros/listas/arcana/
+  [200] https://pf2.ludobermejo.es/apendices/estados-a-e/
+  [200] https://pf2.ludobermejo.es/conjuros/conjuros-foco/druida/
+  [200] https://pf2.ludobermejo.es/conjuros/conjuros-foco/explorador/
+  [200] https://pf2.ludobermejo.es/reglas/modo-tiempo-libre/
+  [200] https://pf2.ludobermejo.es/reglas/acciones/
+  [200] https://pf2.ludobermejo.es/equipo/objetos/
+  [200] https://pf2.ludobermejo.es/conjuros/conjuros-foco/bardo/
+  [200] https://pf2.ludobermejo.es/assets/js/search.js
+  [200] https://pf2.ludobermejo.es/conjuros/rituales/rituales/
+  [200] https://pf2.ludobermejo.es/assets/js/main.js
+  [200] https://pf2.ludobermejo.es/ascendencias/
+  [200] https://pf2.ludobermejo.es/habilidades/
+  [200] https://pf2.ludobermejo.es/conjuros/conjuros-foco/clerigo/
+  [200] https://pf2.ludobermejo.es/clases/arquetipos/multiclase/druida/
+  [200] https://pf2.ludobermejo.es/habilidades/acciones-generales/
+  [200] https://pf2.ludobermejo.es/apendices/glosario/
+  [200] https://pf2.ludobermejo.es/reglas/modo-exploracion/
+  [404] https://pf2.ludobermejo.es/ambientacion/golarion/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/tierras-quebradas/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/alta-mar/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/absalom/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/tierras-saga/
+  [404] https://pf2.ludobermejo.es/apendices/estados/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/extension-mwangi/
+  [404] https://pf2.ludobermejo.es/conjuros/spell-index/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/camino-dorado/
+  [404] https://pf2.ludobermejo.es/ambientacion/regiones/viejo-cheliax/
+ERROR: Detected 14 broken links. Scanned 91 links in 0.871 seconds.
