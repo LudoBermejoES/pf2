@@ -1,453 +1,453 @@
-# Spells G-P
+# Conjuros G–P
 
-This section contains all spells from Player Core 2 whose names begin with the letters G through P, ordered alphabetically.
-
----
-
-## Gale Blast · ◆◆ · Cantrip 1
-
-**Traits:** Air, Cantrip, Concentrate, Manipulate
-
-**Traditions:** arcane, primal
-
-**Area:** 5-foot emanation
-
-**Defense:** Fortitude
-
-Wind flows from your outstretched hands and whirls around you in a 5-foot emanation. Each creature in the area takes 1d6 bludgeoning damage, with a Fortitude save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage.
-
-**Failure** The creature takes full damage and is pushed 5 feet away from you.
-
-**Critical Failure** The creature takes double damage and is pushed 10 feet away from you.
-
-**Heightened (+1)** The damage increases by 1d6.
+Esta sección contiene todos los conjuros de Player Core 2 cuyos nombres comienzan por las letras de la G a la P, ordenados alfabéticamente.
 
 ---
 
-## Ghostly Tragedy · Spell 4
+## Ráfaga de vendaval · ◆◆ · Truco 1
 
-**Traits:** Uncommon, Concentrate, Manipulate, Spirit
+**Rasgos:** Aire, Truco, Concentrar, Manipular
 
-**Traditions:** divine, occult
+**Tradiciones:** arcana, primigenia
 
-**Cast:** 1 minute
+**Área:** emanación de 5 pies (1,5 m)
 
-**Area:** 60-foot emanation
+**Defensa:** Fortaleza
 
-**Duration:** 10 minutes
+El viento fluye desde tus manos extendidas y gira a tu alrededor en una emanación de 5 pies. Cada criatura en el área sufre 1d6 de daño contundente, con una salvación de Fortaleza.
 
-This spell compels local spirits to reenact a violent event of the recent past that you're aware of and name as you Cast the Spell. You take the role of the primary victim. The reenactment plays out the final 9 minutes leading up to the death or injury of the victim and the minute after. The spirits don't change form, so this doesn't help determine perpetrators by their looks. Spiritual forms of missing creatures necessary for the event manifest as needed, and missing items appear as shadowy outlines.
+**Éxito crítico** La criatura no se ve afectada.
 
-Once the scene ends, you take 2d6 void damage for each ghostly apparition that participated in the scene (typically equal to the number of creatures involved other than the victim). Any creature that observed the ghostly recreation, including you, can attempt checks to investigate the event to discover new clues and information.
+**Éxito** La criatura recibe la mitad del daño.
 
----
+**Fallo** La criatura recibe el daño completo y es empujada 5 pies lejos de ti.
 
-## Ghoulish Cravings · ◆◆ · Spell 2
+**Fallo crítico** La criatura recibe el doble de daño y es empujada 10 pies lejos de ti.
 
-**Traits:** Concentrate, Curse, Manipulate, Mental
-
-**Traditions:** divine, occult
-
-**Range:** touch; **Targets:** 1 creature
-
-**Defense:** Will; **Duration:** varies
-
-You touch the target to afflict it with the overwhelming desire to eat raw meat. The target must attempt a Will save.
-
-**Critical Success** The target is unaffected.
-
-**Success** The target is sickened 1 by its unbidden hunger.
-
-**Failure** The target is sickened 2 and can't reduce this condition below sickened 1 until it first consumes some raw meat; if the creature doesn't have access to raw meat, it can take a bite out of a corpse within reach as an Interact action.
-
-**Critical Failure** As failure, but the target can't reduce the condition below sickened 2 until it consumes raw meat.
+**Potenciado (+1)** El daño aumenta en 1d6.
 
 ---
 
-## Gravity Well · ◆◆ · Spell 3
+## Tragedia espectral · Conjuro 4
 
-**Traits:** Concentrate, Manipulate
+**Rasgos:** Poco común, Concentrar, Manipular, Espíritu
 
-**Traditions:** arcane, occult
+**Tradiciones:** divina, oculta
 
-**Range:** 120 feet; **Area:** 30-foot burst
+**Lanzamiento:** 1 minuto
 
-**Defense:** Reflex
+**Área:** emanación de 60 pies (18 m)
 
-You create a sphere of altered gravity. All creatures and unsecured objects in the area move toward the center, depending on their Reflex saving throws. This follows the rules for forced movement. If there's not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes.
+**Duración:** 10 minutos
 
-**Critical Success** The creature is unaffected.
+Este conjuro obliga a los espíritus locales a recrear un evento violento del pasado reciente del que estás al tanto y que nombras al lanzar el conjuro. Adoptas el papel de la víctima principal. La recreación muestra los últimos 9 minutos que conducen a la muerte o lesión de la víctima y el minuto posterior. Los espíritus no cambian de forma, por lo que esto no ayuda a identificar culpables por su apariencia. Las formas espirituales de criaturas ausentes necesarias para el evento se manifiestan según sea necesario, y los objetos faltantes aparecen como siluetas sombrías.
 
-**Success** The creature moves 5 feet toward the center.
-
-**Failure** The creature moves 15 feet toward the center.
-
-**Critical Failure** The creature moves 30 feet toward the center.
+Una vez que la escena termina, recibes 2d6 de daño de vacío por cada aparición fantasmal que participó en la escena (normalmente igual al número de criaturas implicadas aparte de la víctima). Cualquier criatura que haya observado la recreación espectral, incluyéndote a ti, puede intentar pruebas para investigar el suceso y descubrir nuevas pistas e información.
 
 ---
 
-## Grisly Growths · ◆◆ · Spell 5
+## Ansias de gul · ◆◆ · Conjuro 2
 
-**Traits:** Concentrate, Manipulate
+**Rasgos:** Concentrar, Maldición, Manipular, Mental
 
-**Traditions:** arcane, primal
+**Tradiciones:** divina, oculta
 
-**Range:** 60 feet; **Targets:** 1 corporeal creature
+**Rango:** toque; **Objetivos:** 1 criatura
 
-**Defense:** basic Fortitude
+**Defensa:** Voluntad; **Duración:** variable
 
-This gruesome spell causes the target to grow excess limbs and organs, whether it be fingers multiplying until hands resemble bushes, eyes popping open in bizarre places, legs sprouting from the side of the body, or some other result. The target takes 10d6 piercing damage (basic Fortitude save) as the new features erupt. This spell has no effect on a target with a mutable anatomy or no limbs, such as an ooze or a protean. The growths rot rapidly and fall away after 1 round.
+Tocas al objetivo para afligirlo con un deseo abrumador de comer carne cruda. El objetivo debe intentar una salvación de Voluntad.
 
-In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they're temporarily immune to this secondary effect of grisly growths for 1 hour. This additional effect is a mental and visual effect.
+**Éxito crítico** El objetivo no se ve afectado.
 
-**Success** The creature is unaffected.
+**Éxito** El objetivo queda indispuesto 1 por su hambre involuntaria.
 
-**Failure** The creature is sickened 1.
+**Fallo** El objetivo queda indispuesto 2 y no puede reducir esta condición por debajo de indispuesto 1 hasta que consuma primero algo de carne cruda; si la criatura no tiene acceso a carne cruda, puede dar un bocado a un cadáver al alcance como una acción de Interactuar.
 
-**Critical Failure** The creature is sickened 2.
-
-**Heightened (+1)** The damage increases by 2d6.
+**Fallo crítico** Como fallo, pero el objetivo no puede reducir la condición por debajo de indispuesto 2 hasta que consuma carne cruda.
 
 ---
 
-## Haunting Hymn · ◆◆ · Cantrip 1
+## Pozo gravitacional · ◆◆ · Conjuro 3
 
-**Traits:** Auditory, Cantrip, Concentrate, Manipulate, Sonic
+**Rasgos:** Concentrar, Manipular
 
-**Traditions:** divine, occult
+**Tradiciones:** arcana, oculta
 
-**Area:** 15-foot cone
+**Rango:** 120 pies (36 m); **Área:** explosión de 30 pies (9 m)
 
-**Defense:** basic Fortitude
+**Defensa:** Reflejos
 
-You echo a jarring hymn that only creatures in the area can hear. The hymn deals 1d8 sonic damage, with a basic Fortitude save. If a target critically fails the save, it's also deafened for 1 minute.
+Creas una esfera de gravedad alterada. Todas las criaturas y objetos no asegurados en el área se mueven hacia el centro, dependiendo de sus tiradas de salvación de Reflejos. Esto sigue las reglas de movimiento forzado. Si no hay suficiente espacio cerca del centro de la esfera, las criaturas y objetos más cercanos al centro se mueven primero, y los demás se mueven tanto como puedan sin ser bloqueados, hasta la cantidad marcada por el resultado de su salvación.
 
-**Heightened (+2)** The damage increases by 1d8.
+**Éxito crítico** La criatura no se ve afectada.
 
----
+**Éxito** La criatura se mueve 5 pies hacia el centro.
 
-## Holy Cascade · ◆◆ · Spell 4
+**Fallo** La criatura se mueve 15 pies hacia el centro.
 
-**Traits:** Concentrate, Holy, Manipulate, Water
-
-**Traditions:** divine
-
-**Cost:** one vial of holy water (Pathfinder GM Core 268)
-
-**Range:** 500 feet; **Area:** 20-foot burst
-
-**Defense:** basic Reflex
-
-You call upon sacred energy to amplify a vial of holy water, tossing it an incredible distance. It explodes in an enormous burst that deals 3d6 bludgeoning damage to creatures in the area from the cascade of water. The water deals an additional 6d6 spirit damage to creatures with the unholy trait in the area.
-
-**Heightened (+1)** The bludgeoning damage increases by 1d6, and the additional spirit damage increases by 2d6.
+**Fallo crítico** La criatura se mueve 30 pies hacia el centro.
 
 ---
 
-## Ice Storm · ◆◆◆ · Spell 4
+## Crecimientos macabros · ◆◆ · Conjuro 5
 
-**Traits:** Cold, Concentrate, Manipulate
+**Rasgos:** Concentrar, Manipular
 
-**Traditions:** arcane, primal
+**Tradiciones:** arcana, primigenia
 
-**Range:** 120 feet; **Area:** 20-foot burst
+**Rango:** 60 pies (18 m); **Objetivos:** 1 criatura corpórea
 
-**Defense:** basic Reflex; **Duration:** sustained up to 1 minute
+**Defensa:** salvación básica de Fortaleza
 
-You create a gray storm cloud that pelts creatures with an icy deluge. When you Cast the Spell, a burst of magical hail deals 2d8 bludgeoning damage and 2d8 cold damage to each creature in the area below the cloud (basic Reflex save). Snow and sleet continue to rain down in the area for the remainder of the spell's duration, making the area difficult terrain. Any creature that ends its turn in the storm takes 2 cold damage. If you Cast this Spell outdoors, you can create two nonoverlapping clouds instead of one. As normal, if a Large or larger creature is in both clouds, it still only takes the initial damage once and the continuing damage once per turn.
+Este espantoso conjuro hace que al objetivo le crezcan miembros y órganos de más, ya sean dedos multiplicándose hasta que las manos parecen arbustos, ojos abriéndose en lugares extraños, piernas brotando de los lados del cuerpo u otro resultado. El objetivo sufre 10d6 de daño perforante (salvación básica de Fortaleza) a medida que surgen los nuevos rasgos. Este conjuro no afecta a un objetivo con anatomía mutable o sin extremidades, como una baba o un proteano. Los crecimientos se pudren rápidamente y se desprenden tras 1 asalto.
 
-**Heightened (+2)** The initial bludgeoning damage and cold damage increase by 1d8 each, and the cold damage creatures take at the end of their turns increases by 1.
+Además, a menos que el objetivo inicial obtenga éxito crítico, las criaturas a 30 pies (9 m) del objetivo, incluyendo al objetivo, deben intentar salvaciones de Voluntad, tras lo cual quedan temporalmente inmunes a este efecto secundario de crecimientos macabros durante 1 hora. Este efecto adicional es mental y visual.
 
----
+**Éxito** La criatura no se ve afectada.
 
-## Imaginary Lockbox · Spell 5
+**Fallo** La criatura queda indispuesta 1.
 
-**Traits:** Concentrate, Manipulate, Mental
+**Fallo crítico** La criatura queda indispuesta 2.
 
-**Traditions:** arcane, occult
-
-**Cast:** 1 minute
-
-**Range:** touch; **Targets:** 1 container and its contents, totaling 10 Bulk or less
-
-**Duration:** until the next time you make your daily preparations
-
-You turn a container and its contents into an imaginary form stored in your mind that only you can see and interact with. The container's physical properties—the material from which it's made, any locks, or other features—are irrelevant to the casting of this spell, but the container can't contain any creatures. The container has no Bulk, and you can visualize everything inside it.
-
-You can retrieve an item from the lockbox as an activity that takes 3 actions and has the concentrate and manipulate traits. Putting items back isn't possible. You can Dismiss the spell. When the spell ends, the container returns to its normal state, either appearing in your hands if it can fit there or on the ground adjacent to you if not.
+**Potenciado (+1)** El daño aumenta en 2d6.
 
 ---
 
-## Imprint Message · ◆◆ · Spell 1
+## Himno inquietante · ◆◆ · Truco 1
 
-**Traits:** Concentrate, Manipulate
+**Rasgos:** Auditivo, Truco, Concentrar, Manipular, Sónico
 
-**Traditions:** occult
+**Tradiciones:** divina, oculta
 
-**Range:** touch; **Targets:** 1 object
+**Área:** cono de 15 pies (4,5 m)
 
-You project psychic vibrations onto the target object, imprinting it with a short message or emotional theme of your design. This imprinted sensation is revealed to a creature who casts object reading on the target object, replacing any emotional events the item was present for. If the object is in the area of a retrocognition spell, the imprinted messages appear as major events in the timeline, but they don't interfere with any other visions.
+**Defensa:** salvación básica de Fortaleza
 
-If the object is targeted with read aura of a higher spell rank than imprint message, the caster learns that the object has been magically modified. When you Cast this Spell, any prior vibrations placed on an object by previous castings of imprint message fade.
+Ecos de un himno estridente que solo las criaturas en el área pueden oír. El himno inflige 1d8 de daño sónico (salvación básica de Fortaleza). Si un objetivo falla críticamente la salvación, también queda ensordecido durante 1 minuto.
 
----
-
-## Invisible Item · ◆◆ · Spell 1
-
-**Traits:** Concentrate, Illusion, Manipulate
-
-**Traditions:** arcane, occult
-
-**Range:** touch; **Targets:** 1 object
-
-**Duration:** 1 hour
-
-You make the object invisible. This makes it undetected to all creatures, though the creatures can attempt to find the target, making it hidden to them instead if they succeed. If the item is used as part of a hostile action, the spell ends after that hostile action is completed. Making a weapon invisible typically doesn't give any advantage to the attack, except that an invisible thrown weapon or piece of ammunition can be used for an attack without necessarily giving information about the attacker's hiding place unless the weapon returns to the attacker.
-
-**Heightened (3rd)** The duration is until the next time you make your daily preparations.
-
-**Heightened (7th)** The duration is unlimited.
+**Potenciado (+2)** El daño aumenta en 1d8.
 
 ---
 
-## Leaden Steps · ◆◆ · Spell 1
+## Cascada sagrada · ◆◆ · Conjuro 4
 
-**Traits:** Concentrate, Manipulate, Metal, Morph
+**Rasgos:** Concentrar, Santo, Manipular, Agua
 
-**Traditions:** arcane, primal
+**Tradiciones:** divina
 
-**Range:** 30 feet; **Targets:** 1 creature
+**Coste:** una ampolla de agua bendita (Pathfinder GM Core 268)
 
-**Defense:** Fortitude; **Duration:** sustained up to 1 minute
+**Rango:** 500 pies (150 m); **Área:** explosión de 20 pies (6 m)
 
-You partially transform a foe's feet into unwieldy slabs of metal, slowing their steps. The target attempts a Fortitude saving throw.
+**Defensa:** salvación básica de Reflejos
 
-**Critical Success** The target is unaffected.
+Invocas energía sagrada para amplificar una ampolla de agua bendita, lanzándola a una distancia increíble. Explota en una enorme explosión que inflige 3d6 de daño contundente a las criaturas en el área por la cascada de agua. El agua inflige 6d6 de daño espiritual adicional a las criaturas con el rasgo profano en el área.
 
-**Success** The target is encumbered and has weakness 2 to electricity until the end of your next turn. The spell can't be sustained.
-
-**Failure** The target is encumbered and has weakness 2 to electricity.
-
-**Critical Failure** The target is encumbered and has weakness 3 to electricity.
-
-**Heightened (+1)** The weakness increases by 1.
+**Potenciado (+1)** El daño contundente aumenta en 1d6, y el daño espiritual adicional aumenta en 2d6.
 
 ---
 
-## Lifewood Cage · ◆◆◆ · Spell 7
+## Tormenta de hielo · ◆◆◆ · Conjuro 4
 
-**Traits:** Concentrate, Manipulate, Vitality, Wood
+**Rasgos:** Frío, Concentrar, Manipular
 
-**Traditions:** arcane, primal
+**Tradiciones:** arcana, primigenia
 
-**Range:** 30 feet; **Area:** 1 cube 20 feet on each side
+**Rango:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)
 
-**Defense:** Reflex; **Duration:** sustained up to 1 minute
+**Defensa:** salvación básica de Reflejos; **Duración:** sostenido hasta 1 minuto
 
-You create an immobile, invisible prison of hardened wood suffused with vital energy from the Forge of Creation. The cage is a 20-foot cube made of wooden branches, each a half inch thick and a half inch apart. Each creature in the area where you create the cage must attempt a Reflex save. If such a creature fails, it becomes trapped inside the cage. If it succeeds, it's pushed outside the cage into a space of its choice. If a creature in the area is too big to fit inside the prison, the spell automatically fails.
+Creas una nube de tormenta gris que azota a las criaturas con un diluvio helado. Cuando lanzas el conjuro, una explosión de granizo mágico inflige 2d8 de daño contundente y 2d8 de daño de frío a cada criatura en el área bajo la nube (salvación básica de Reflejos). La nieve y el aguanieve continúan cayendo en el área durante el resto de la duración del conjuro, convirtiendo el área en terreno difícil. Cualquier criatura que termine su turno dentro de la tormenta recibe 2 de daño de frío. Si lanzas este conjuro al aire libre, puedes crear dos nubes que no se superpongan en lugar de una. Como es normal, si una criatura Grande o mayor está en ambas nubes, solo recibe el daño inicial una vez y el daño continuo una vez por turno.
 
-The cage has AC 10, Hardness 20, and 40 Hit Points, and it's immune to critical hits and precision damage, though it has weakness 5 to void damage. A creature capable of passing through the space between the bars (typically a Tiny creature) can leave; all others are confined within. The vitality energy suffusing the wood prevents incorporeal undead creatures from passing through the beams. Attacks with a weapon too large to fit between the bars can't pass through the cage, and the bars provide standard cover even against attacks that can pass through the gaps. Spells and most area effects (such as dragon breath) can pass through the cage uninhibited.
-
----
-
-## Lightning Storm · ◆◆◆ · Spell 5
-
-**Traits:** Concentrate, Electricity, Manipulate
-
-**Traditions:** primal
-
-**Range:** 120 feet; **Area:** 20-foot burst
-
-**Defense:** basic Reflex; **Duration:** sustained up to 1 minute
-
-You create a black, rumbling storm cloud and call down one lightning bolt within the spell's area. The bolt is a vertical line from the top of the storm cloud to the ground below, dealing 4d12 electricity damage to creatures in the line (basic Reflex save). On subsequent rounds, the first time you Sustain the spell each round, you can call another lightning bolt within the area. If you Cast this Spell outdoors, you can create two nonoverlapping clouds instead of one, though you can still call down only one bolt per turn.
-
-**Heightened (+2)** The damage of each bolt increases by 1d12.
+**Potenciado (+2)** El daño inicial contundente y el daño de frío aumentan en 1d8 cada uno, y el daño de frío que reciben las criaturas al final de sus turnos aumenta en 1.
 
 ---
 
-## Live Wire · ◆◆ · Cantrip 1
+## Caja fuerte imaginaria · Conjuro 5
 
-**Traits:** Attack, Cantrip, Concentrate, Electricity, Manipulate, Metal
+**Rasgos:** Concentrar, Manipular, Mental
 
-**Traditions:** arcane, primal
+**Tradiciones:** arcana, oculta
 
-**Range:** 30 feet; **Targets:** 1 creature
+**Lanzamiento:** 1 minuto
 
-**Defense:** AC
+**Rango:** toque; **Objetivos:** 1 contenedor y su contenido, sumando 10 de Volumen o menos
 
-You conjure up a length of sharp copper filament humming with electrical current that strikes out at your foe. The wire deals 1d4 slashing damage and 1d4 electricity damage, depending on your spell attack roll against the target's AC.
+**Duración:** hasta tu próxima preparación diaria
 
-**Critical Success** The target takes double damage and 1d4 persistent electricity damage.
+Transformas un contenedor y su contenido en una forma imaginaria almacenada en tu mente que solo tú puedes ver e interactuar. Las propiedades físicas del contenedor—el material del que está hecho, cualquier cerradura u otras características—son irrelevantes para lanzar este conjuro, pero el contenedor no puede contener criaturas. El contenedor no tiene Volumen, y puedes visualizar todo lo que hay dentro.
 
-**Success** The target takes full damage.
-
-**Failure** The target takes the electricity damage, but not the slashing damage.
-
-**Critical Failure** The target is unaffected.
-
-**Heightened (+1)** The slashing damage, initial electricity damage, and persistent electricity damage on a critical hit each increase by 1d4.
+Puedes recuperar un objeto de la caja fuerte como una actividad que requiere 3 acciones y tiene los rasgos concentrar y manipular. No es posible devolver objetos. Puedes Disipar el conjuro. Cuando el conjuro termina, el contenedor vuelve a su estado normal, apareciendo en tus manos si cabe allí o en el suelo adyacente a ti si no.
 
 ---
 
-## Mud Pit · ◆◆◆ · Spell 1
+## Impronta de mensaje · ◆◆ · Conjuro 1
 
-**Traits:** Concentrate, Earth, Manipulate, Water
+**Rasgos:** Concentrar, Manipular
 
-**Traditions:** arcane, primal
+**Tradiciones:** oculta
 
-**Range:** 60 feet; **Area:** squares on the ground in a 15-foot burst
+**Rango:** toque; **Objetivos:** 1 objeto
 
-**Duration:** 1 minute
+Proyectas vibraciones psíquicas sobre el objeto objetivo, imprimiéndole un mensaje corto o un tema emocional de tu diseño. Esta sensación impresa se revela a una criatura que lance lectura de objeto sobre el objeto objetivo, reemplazando cualquier evento emocional en el que el objeto estuvo presente. Si el objeto está en el área de un conjuro de retrocognición, los mensajes impresos aparecen como eventos importantes en la línea temporal, pero no interfieren con otras visiones.
 
-Thick, clinging mud covers the ground, 1 foot deep. The mud is difficult terrain.
-
----
-
-## Nature's Enmity · ◆◆ · Spell 9
-
-**Traits:** Concentrate, Manipulate, Plant, Wood
-
-**Traditions:** primal
-
-**Range:** 120 feet; **Area:** 500-foot burst; **Targets:** up to 5 creatures
-
-**Duration:** 10 minutes
-
-Animals, plants, and fungi in the area turn against the targets. Each target suffers from the following effects as long as it remains in the area.
-
-- Vegetation springs up from every surface, giving each target a –10-foot circumstance penalty to its Speed any time it's adjacent to the plants and fungi.
-- Aggressive animals attack unpredictably. At the start of its turn, each target rolls a DC 8 flat check. On a failure, it's attacked by creatures that deal 2d10 slashing damage. The target attempts a basic Reflex save and is off-guard for 1 round on any outcome other than a critical success.
-- The target loses any connection to nature or natural creatures. The target must succeed at a DC 5 flat check when casting any primal spell or the spell fails. Furthermore, animal, fungus, and plant creatures become hostile to it, even one with a strong bond to the target, such as an animal companion.
-
-The GM might decide that you can't subject some creatures, such as an emissary of a nature deity, to the ire of nature.
+Si el objeto es objetivo de leer aura con un rango de conjuro superior al de impronta de mensaje, el lanzador aprende que el objeto ha sido modificado mágicamente. Cuando lanzas este conjuro, cualquier vibración previa colocada en un objeto por lanzamientos anteriores de impronta de mensaje se desvanece.
 
 ---
 
-## Noxious Vapors · ◆◆ · Spell 1
+## Objeto invisible · ◆◆ · Conjuro 1
 
-**Traits:** Concentrate, Manipulate, Poison
+**Rasgos:** Concentrar, Ilusión, Manipular
 
-**Traditions:** arcane, primal
+**Tradiciones:** arcana, oculta
 
-**Area:** 10-foot emanation
+**Rango:** toque; **Objetivos:** 1 objeto
 
-**Defense:** basic Fortitude; **Duration:** 1 round
+**Duración:** 1 hora
 
-You emit a cloud of toxic smoke that temporarily obscures you from sight. Each creature except you in the area when you Cast the Spell takes 1d6 poison damage (basic Fortitude save). A creature that critically fails the saving throw also becomes sickened 1. All creatures in the area become concealed, and all creatures outside the smoke become concealed to creatures within it. This smoke can be dispersed by a strong wind.
+Vuelves invisible el objeto. Esto lo hace indetectado para todas las criaturas, aunque estas pueden intentar encontrar el objetivo, pasándolo a estar escondido para ellas si tienen éxito. Si el objeto se usa como parte de una acción hostil, el conjuro termina después de que se completa esa acción hostil. Volver invisible un arma normalmente no otorga ventaja al ataque, salvo que un arma arrojadiza invisible o una pieza de munición pueden usarse para un ataque sin necesariamente revelar el escondite del atacante, a menos que el arma regrese al atacante.
 
-**Heightened (+1)** The damage increases by 1d6.
+**Potenciado (3.º)** La duración es hasta tu próxima preparación diaria.
 
----
-
-## Object Reading · ◆◆ · Spell 1
-
-**Traits:** Concentrate, Manipulate
-
-**Traditions:** occult
-
-**Range:** touch; **Targets:** 1 object
-
-You place a hand on an object to learn a piece of information about an emotional event that occurred involving the object within the past week, determined by the GM. If you cast object reading on the same item multiple times, you can either concentrate on a single event to gain additional pieces of information about that event or gain a piece of information about another emotional event in the applicable time frame.
-
-**Heightened (2nd)** You can learn about an event that occurred within the last month.
-
-**Heightened (4th)** You can learn about an event that occurred within the last year.
-
-**Heightened (6th)** You can learn about an event that occurred within the last decade.
-
-**Heightened (8th)** You can learn about an event that occurred within the last century.
-
-**Heightened (9th)** You can learn about an event that occurred within the entirety of the object's history.
+**Potenciado (7.º)** La duración es ilimitada.
 
 ---
 
-## Phantasmal Treasure · ◆◆ · Spell 2
+## Pasos de plomo · ◆◆ · Conjuro 1
 
-**Traits:** Concentrate, Emotion, Illusion, Manipulate, Mental
+**Rasgos:** Concentrar, Manipular, Metal, Polimorfo
 
-**Traditions:** arcane, occult
+**Tradiciones:** arcana, primigenia
 
-**Range:** 60 feet; **Targets:** 1 living creature
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
-**Defense:** Will; **Duration:** varies
+**Defensa:** Fortaleza; **Duración:** sostenido hasta 1 minuto
 
-A phantasmal image of the most precious thing imaginable to the target appears in a location of your choice within the spell's range. Only the spell's target can see the treasure, though you can see the vague shape of the treasure—be it a pile of items, a deific avatar, or a cherished loved one or hero. The target's response to the treasure is based on the outcome of the target's Will save.
+Transformas parcialmente los pies de un enemigo en pesadas losas de metal, ralentizando sus pasos. El objetivo intenta una salvación de Fortaleza.
 
-**Critical Success** The target is unaffected.
+**Éxito crítico** El objetivo no se ve afectado.
 
-**Success** The target becomes fascinated with the treasure, and the duration is until the end of its turn. The target can also try to disbelieve the illusion if it touches the treasure, Seeks to examine it, or speaks to it if the illusion appears to be a person or the like. If the target disbelieves the illusion, the spell ends.
+**Éxito** El objetivo queda cargado y tiene debilidad 2 a la electricidad hasta el final de tu siguiente turno. El conjuro no puede sostenerse.
 
-**Failure** As success, but the duration is 1 minute.
+**Fallo** El objetivo queda cargado y tiene debilidad 2 a la electricidad.
 
-**Critical Failure** As success, but the duration is 1 minute. The target finds the treasure so appealing that until the spell ends, it must spend each action focused on it. This can include moving toward the treasure if the target isn't next to it and Interacting with the treasure if the target is next to it. (If the illusion appears to be a person or the like, the target can also Interact to converse with it.)
+**Fallo crítico** El objetivo queda cargado y tiene debilidad 3 a la electricidad.
 
----
-
-## Primal Herd · ◆◆ · Spell 10
-
-**Traits:** Concentrate, Manipulate, Polymorph
-
-**Traditions:** primal
-
-**Range:** 30 feet; **Targets:** you and up to 5 willing targets
-
-**Duration:** 1 minute
-
-Summoning the power of the natural world, you transform the targets into a herd of mammoths, and they each assume a Huge battle form. Each target must have enough space to expand into or the spell fails for that target. Each target gains the animal trait. Each target can Dismiss the spell's effects on itself. Each target gains the following while transformed.
-
-- AC = 22 + the target's level. Ignore any armor check penalty and Speed reduction.
-- 20 temporary Hit Points.
-- Speed 40 feet.
-- Low-light vision.
-- The following unarmed melee attacks, which are the only attacks the target can use to Strike. When Striking with these attacks, the target uses their attack modifier with the proficiency and item bonuses of their most favorable weapon or unarmed Strike, and the damage is listed for each attack. These attacks are Strength based (for the purpose of the enfeebled condition, for example). Melee ◆ tusk (reach 15 feet), Damage 4d8+19 piercing; Melee ◆ trunk (agile, reach 15 feet), Damage 4d6+16 bludgeoning; Melee ◆ foot (agile, reach 15 feet), Damage 4d6+13 bludgeoning.
-- Athletics modifier of +30, unless the target's own modifier is higher.
-- Each target can use the Trample action.
-
-**Trample · ◆◆◆** You move up to twice your Speed and move through the space of Large or smaller creatures, trampling each creature whose space you enter. A trampled creature takes damage from your foot Strike based on a basic Reflex save (DC = 19 + your level).
+**Potenciado (+1)** La debilidad aumenta en 1.
 
 ---
 
-## Protector Tree · ◆◆ · Spell 1
+## Jaula de madera vital · ◆◆◆ · Conjuro 7
 
-**Traits:** Concentrate, Manipulate, Plant, Wood
+**Rasgos:** Concentrar, Manipular, Vitalidad, Madera
 
-**Traditions:** primal
+**Tradiciones:** arcana, primigenia
 
-**Range:** 30 feet
+**Rango:** 30 pies (9 m); **Área:** 1 cubo de 20 pies (6 m) por lado
 
-**Duration:** 1 minute
+**Defensa:** Reflejos; **Duración:** sostenido hasta 1 minuto
 
-A Medium tree suddenly grows in an unoccupied square within range. The tree has AC 10 and 10 Hit Points. Whenever an ally adjacent to the tree is hit by a Strike, the tree interposes its branches and takes the damage first. Any additional damage beyond what it takes to reduce the tree to 0 Hit Points is dealt to the original target. The tree isn't large enough to impede movement through its square.
+Creas una prisión inmóvil e invisible de madera endurecida imbuida de energía vital de la Forja de la Creación. La jaula es un cubo de 20 pies hecho de ramas de madera, cada una de media pulgada de grosor y separadas media pulgada. Cada criatura en el área donde creas la jaula debe intentar una salvación de Reflejos. Si la criatura falla, queda atrapada dentro de la jaula. Si tiene éxito, es empujada fuera de la jaula a un espacio de su elección. Si una criatura en el área es demasiado grande para caber dentro de la prisión, el conjuro falla automáticamente.
 
-If the tree is in soil and survives to the end of the spell's duration, it remains as an ordinary, non-magical tree and continues to grow and thrive. The GM might determine that the tree disappears immediately in certain inhospitable situations.
-
-**Heightened (+1)** The tree has an additional 10 Hit Points.
+La jaula tiene CA 10, Dureza 20 y 40 Puntos de Golpe, y es inmune a impactos críticos y al daño de precisión, aunque tiene debilidad 5 al daño de vacío. Una criatura capaz de pasar por el espacio entre los barrotes (normalmente una criatura Diminuta) puede salir; todas las demás quedan confinadas dentro. La energía de vitalidad que impregna la madera impide que los no muertos incorpóreos atraviesen las vigas. Los ataques con un arma demasiado grande para pasar entre los barrotes no pueden atravesar la jaula, y los barrotes proporcionan cobertura estándar incluso contra ataques que sí pueden pasar por los huecos. Los conjuros y la mayoría de efectos de área (como el aliento de dragón) pueden pasar por la jaula sin impedimento.
 
 ---
 
-## Puff of Poison · ◆◆ · Cantrip 1
+## Tormenta eléctrica · ◆◆◆ · Conjuro 5
 
-**Traits:** Cantrip, Concentrate, Manipulate, Poison
+**Rasgos:** Concentrar, Electricidad, Manipular
 
-**Traditions:** arcane, primal
+**Tradiciones:** primigenia
 
-**Range:** 10 feet; **Targets:** 1 creature
+**Rango:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)
 
-**Defense:** Fortitude
+**Defensa:** salvación básica de Reflejos; **Duración:** sostenido hasta 1 minuto
 
-You exhale a shimmering cloud of toxic breath at an enemy's face. The target takes 1d4 poison damage and 1d4 persistent poison damage, depending on its Fortitude save.
+Creas una nube de tormenta negra y retumbante y haces caer un rayo dentro del área del conjuro. El rayo es una línea vertical desde la cima de la nube de tormenta hasta el suelo, e inflige 4d12 de daño de electricidad a las criaturas en la línea (salvación básica de Reflejos). En asaltos posteriores, la primera vez cada asalto que sostienes el conjuro, puedes hacer caer otro rayo dentro del área. Si lanzas este conjuro al aire libre, puedes crear dos nubes que no se superpongan en lugar de una, aunque solo puedes hacer caer un rayo por turno.
 
-**Critical Success** The creature is unaffected.
+**Potenciado (+2)** El daño de cada rayo aumenta en 1d12.
 
-**Success** The target takes half initial damage and no persistent damage.
+---
 
-**Failure** The target takes full initial and persistent damage.
+## Cable vivo · ◆◆ · Truco 1
 
-**Critical Failure** The target takes double initial and persistent damage.
+**Rasgos:** Ataque, Truco, Concentrar, Electricidad, Manipular, Metal
 
-**Heightened (+2)** The initial poison damage increases by 1d4, and the persistent poison damage increases by 1d4.
+**Tradiciones:** arcana, primigenia
+
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
+
+**Defensa:** CA
+
+Conjuras un tramo de filamento de cobre afilado, zumbando con corriente eléctrica, que golpea a tu enemigo. El cable inflige 1d4 de daño cortante y 1d4 de daño de electricidad, dependiendo de tu tirada de ataque de conjuro contra la CA del objetivo.
+
+**Éxito crítico** El objetivo recibe el doble de daño y 1d4 de daño de electricidad persistente.
+
+**Éxito** El objetivo recibe el daño completo.
+
+**Fallo** El objetivo recibe el daño de electricidad, pero no el daño cortante.
+
+**Fallo crítico** El objetivo no se ve afectado.
+
+**Potenciado (+1)** El daño cortante, el daño inicial de electricidad y el daño de electricidad persistente en un crítico aumentan cada uno en 1d4.
+
+---
+
+## Foso de barro · ◆◆◆ · Conjuro 1
+
+**Rasgos:** Concentrar, Tierra, Manipular, Agua
+
+**Tradiciones:** arcana, primigenia
+
+**Rango:** 60 pies (18 m); **Área:** casillas en el suelo en una explosión de 15 pies (4,5 m)
+
+**Duración:** 1 minuto
+
+Barro espeso y pegajoso cubre el suelo, con 1 pie (30 cm) de profundidad. El barro es terreno difícil.
+
+---
+
+## Enemistad de la naturaleza · ◆◆ · Conjuro 9
+
+**Rasgos:** Concentrar, Manipular, Planta, Madera
+
+**Tradiciones:** primigenia
+
+**Rango:** 120 pies (36 m); **Área:** explosión de 500 pies (150 m); **Objetivos:** hasta 5 criaturas
+
+**Duración:** 10 minutos
+
+Animales, plantas y hongos en el área se vuelven contra los objetivos. Cada objetivo sufre los siguientes efectos mientras permanezca en el área.
+
+- La vegetación brota de todas las superficies, otorgando a cada objetivo un penalizador circunstancial de –10 pies a su Velocidad siempre que esté adyacente a las plantas y hongos.
+- Animales agresivos atacan de forma impredecible. Al comienzo de su turno, cada objetivo realiza una prueba simple CD 8. Con un fallo, es atacado por criaturas que infligen 2d10 de daño cortante. El objetivo intenta una salvación básica de Reflejos y queda desprevenido durante 1 asalto con cualquier resultado que no sea un éxito crítico.
+- El objetivo pierde cualquier conexión con la naturaleza o con criaturas naturales. El objetivo debe superar una prueba simple CD 5 al lanzar cualquier conjuro primigenio o el conjuro falla. Además, las criaturas animales, hongos y plantas se vuelven hostiles hacia él, incluso aquellas con un fuerte vínculo con el objetivo, como un compañero animal.
+
+El DJ puede decidir que no puedes someter a algunas criaturas, como un emisario de una deidad de la naturaleza, a la ira de la naturaleza.
+
+---
+
+## Vapores nocivos · ◆◆ · Conjuro 1
+
+**Rasgos:** Concentrar, Manipular, Veneno
+
+**Tradiciones:** arcana, primigenia
+
+**Área:** emanación de 10 pies (3 m)
+
+**Defensa:** salvación básica de Fortaleza; **Duración:** 1 asalto
+
+Exhalas una nube de humo tóxico que te oculta temporalmente de la vista. Cada criatura excepto tú en el área cuando lanzas el conjuro sufre 1d6 de daño de veneno (salvación básica de Fortaleza). Una criatura que falle críticamente la salvación también queda indispuesta 1. Todas las criaturas en el área pasan a estar ocultas, y todas las criaturas fuera del humo están ocultas para las criaturas dentro de él. Este humo puede dispersarse con un viento fuerte.
+
+**Potenciado (+1)** El daño aumenta en 1d6.
+
+---
+
+## Lectura de objeto · ◆◆ · Conjuro 1
+
+**Rasgos:** Concentrar, Manipular
+
+**Tradiciones:** oculta
+
+**Rango:** toque; **Objetivos:** 1 objeto
+
+Colocas una mano sobre un objeto para aprender una pieza de información sobre un evento emocional que ocurrió involucrando al objeto durante la última semana, determinado por el DJ. Si lanzas lectura de objeto sobre el mismo objeto múltiples veces, puedes concentrarte en un solo evento para obtener información adicional sobre ese evento o obtener una pieza de información sobre otro evento emocional en el periodo aplicable.
+
+**Potenciado (2.º)** Puedes aprender sobre un evento que ocurrió dentro del último mes.
+
+**Potenciado (4.º)** Puedes aprender sobre un evento que ocurrió dentro del último año.
+
+**Potenciado (6.º)** Puedes aprender sobre un evento que ocurrió dentro de la última década.
+
+**Potenciado (8.º)** Puedes aprender sobre un evento que ocurrió dentro del último siglo.
+
+**Potenciado (9.º)** Puedes aprender sobre un evento que ocurrió en toda la historia del objeto.
+
+---
+
+## Tesoro fantasmal · ◆◆ · Conjuro 2
+
+**Rasgos:** Concentrar, Emoción, Ilusión, Manipular, Mental
+
+**Tradiciones:** arcana, oculta
+
+**Rango:** 60 pies (18 m); **Objetivos:** 1 criatura viviente
+
+**Defensa:** Voluntad; **Duración:** variable
+
+Una imagen fantasmal de la cosa más preciada que el objetivo pueda imaginar aparece en una localización de tu elección dentro del alcance del conjuro. Solo el objetivo del conjuro puede ver el tesoro, aunque tú puedes ver la forma vaga del tesoro—ya sea una pila de objetos, un avatar divino, o un ser querido o héroe. La respuesta del objetivo al tesoro se basa en el resultado de su salvación de Voluntad.
+
+**Éxito crítico** El objetivo no se ve afectado.
+
+**Éxito** El objetivo queda fascinado con el tesoro, y la duración es hasta el final de su turno. El objetivo también puede intentar descreer la ilusión si toca el tesoro, Busca para examinarlo, o le habla si la ilusión parece ser una persona o similar. Si el objetivo descree la ilusión, el conjuro termina.
+
+**Fallo** Como éxito, pero la duración es 1 minuto.
+
+**Fallo crítico** Como éxito, pero la duración es 1 minuto. El objetivo encuentra el tesoro tan atractivo que, hasta que el conjuro termine, debe gastar cada acción enfocándose en él. Esto puede incluir moverse hacia el tesoro si el objetivo no está junto a él e Interactuar con el tesoro si el objetivo está junto a él. (Si la ilusión parece ser una persona o similar, el objetivo también puede Interactuar para conversar con ella.)
+
+---
+
+## Manada primigenia · ◆◆ · Conjuro 10
+
+**Rasgos:** Concentrar, Manipular, Polimorfo
+
+**Tradiciones:** primigenia
+
+**Rango:** 30 pies (9 m); **Objetivos:** tú y hasta 5 objetivos voluntarios
+
+**Duración:** 1 minuto
+
+Invocando el poder del mundo natural, transformas a los objetivos en una manada de mamuts, y cada uno asume una forma de batalla Enorme. Cada objetivo debe tener suficiente espacio para expandirse o el conjuro falla para ese objetivo. Cada objetivo gana el rasgo animal. Cada objetivo puede Disipar los efectos del conjuro sobre sí mismo. Cada objetivo gana lo siguiente mientras está transformado.
+
+- CA = 22 + el nivel del objetivo. Ignora cualquier penalizador por chequeo de armadura y reducción de Velocidad.
+- 20 Puntos de Golpe temporales.
+- Velocidad 40 pies (12 m).
+- Visión en penumbra.
+- Los siguientes ataques desarmados cuerpo a cuerpo, que son los únicos ataques que el objetivo puede usar para Golpear. Al golpear con estos ataques, el objetivo usa su modificador de ataque con la competencia y bonificadores de objeto de su arma o Golpe desarmado más favorable, y el daño de cada ataque está indicado. Estos ataques se basan en la Fuerza (a efectos de la condición debilitado, por ejemplo). Cuerpo a cuerpo ◆ colmillo (alcance 15 pies [4,5 m]), Daño 4d8+19 perforante; Cuerpo a cuerpo ◆ trompa (ágil, alcance 15 pies [4,5 m]), Daño 4d6+16 contundente; Cuerpo a cuerpo ◆ pata (ágil, alcance 15 pies [4,5 m]), Daño 4d6+13 contundente.
+- Modificador de Atletismo +30, a menos que el modificador propio del objetivo sea mayor.
+- Cada objetivo puede usar la acción Arrollar.
+
+**Arrollar · ◆◆◆** Te mueves hasta el doble de tu Velocidad y te desplazas a través del espacio de criaturas Grandes o más pequeñas, arrollando a cada criatura cuyo espacio atraviesas. Una criatura arrollada recibe el daño de tu Golpe de pata según una salvación básica de Reflejos (CD = 19 + tu nivel).
+
+---
+
+## Árbol protector · ◆◆ · Conjuro 1
+
+**Rasgos:** Concentrar, Manipular, Planta, Madera
+
+**Tradiciones:** primigenia
+
+**Rango:** 30 pies (9 m)
+
+**Duración:** 1 minuto
+
+Un árbol Mediano crece de repente en una casilla desocupada dentro del alcance. El árbol tiene CA 10 y 10 Puntos de Golpe. Siempre que un aliado adyacente al árbol sea impactado por un Golpe, el árbol interpone sus ramas y recibe primero el daño. Cualquier daño adicional más allá de lo que basta para reducir el árbol a 0 PG se inflige al objetivo original. El árbol no es lo bastante grande como para impedir el movimiento a través de su casilla.
+
+Si el árbol está en suelo y sobrevive hasta el final de la duración del conjuro, permanece como un árbol ordinario no mágico y continúa creciendo y prosperando. El DJ puede determinar que el árbol desaparece inmediatamente en ciertas situaciones inhóspitas.
+
+**Potenciado (+1)** El árbol tiene 10 Puntos de Golpe adicionales.
+
+---
+
+## Soplo de veneno · ◆◆ · Truco 1
+
+**Rasgos:** Truco, Concentrar, Manipular, Veneno
+
+**Tradiciones:** arcana, primigenia
+
+**Rango:** 10 pies (3 m); **Objetivos:** 1 criatura
+
+**Defensa:** Fortaleza
+
+Exhalas una nube reluciente de aliento tóxico en el rostro de un enemigo. El objetivo recibe 1d4 de daño de veneno y 1d4 de daño de veneno persistente, dependiendo de su salvación de Fortaleza.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** El objetivo recibe la mitad del daño inicial y ningún daño persistente.
+
+**Fallo** El objetivo recibe el daño inicial y el persistente completos.
+
+**Fallo crítico** El objetivo recibe el doble del daño inicial y del persistente.
+
+**Potenciado (+2)** El daño inicial de veneno aumenta en 1d4, y el daño de veneno persistente aumenta en 1d4.

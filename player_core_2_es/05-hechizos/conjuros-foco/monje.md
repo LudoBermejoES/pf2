@@ -1,192 +1,192 @@
-# Monk Qi Spells
+# Conjuros de Qi del Monje
 
-A focus spell is unique to a class and reflects its individual role and style. The full rules for casting a focus spell appear on page 298 of Player Core.
-
----
-
-## Qi Spells
-
-### Inner Upheaval · ◆ · Focus 1
-
-**Traits:** Uncommon, Concentrate, Focus, Monk
-
-You focus your qi into devastating magical attacks. Make an unarmed Strike or Flurry of Blows (this doesn't change the limit on using only one flourish per turn). You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage. This damage can be any of the following types of your choice, chosen each time you Strike: force, spirit, vitality, or void.
-
-**Heightened (+4)** The extra damage increases by 1d6.
+Un conjuro de foco es único de cada clase y refleja su papel y estilo individuales. Las reglas completas para lanzar un conjuro de foco aparecen en la página 298 de Player Core.
 
 ---
 
-### Qi Rush · ◆ · Focus 1
+## Conjuros de Qi
 
-**Traits:** Uncommon, Concentrate, Focus, Monk
+### Agitación Interna · ◆ · Foco 1
 
-Accelerated by your qi, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order). You gain the concealed condition during this movement and until the start of your next turn.
+**Rasgos:** Poco común, Concentración, Foco, Monje
 
----
+Canalizas tu qi en ataques mágicos devastadores. Realiza un Golpe desarmado o Ráfaga de Golpes (esto no cambia el límite de usar solo una floritura por turno). Obtienes un bonificador de estado +1 a tus tiradas de ataque con los Golpes, y los Golpes infligen 1d6 de daño adicional. Este daño puede ser de cualquiera de los siguientes tipos a tu elección, elegido cada vez que realizas un Golpe: fuerza, espíritu, vitalidad o vacío.
 
-## Advanced Qi Spells
-
-### Qi Blast · ◆ to ◆◆◆ · Focus 3
-
-**Traits:** Uncommon, Concentrate, Focus, Force, Manipulate, Monk
-
-**Area:** 15-foot cone or more
-
-**Defense:** Fortitude
-
-You unleash your qi as a powerful blast that deals 2d6 force damage. If you use 2 actions to cast qi blast, increase the size of the cone to 30 feet and the damage to 3d6. If you use 3 actions to cast qi blast, increase the cone to 60 feet and the damage to 4d6. Each creature in the area must attempt a Fortitude save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage.
-
-**Failure** The creature takes full damage and is pushed 5 feet.
-
-**Critical Failure** The creature takes double damage and is pushed 10 feet.
-
-**Heightened (+1)** The damage increases by 1d6, or by 2d6 if you use 2 or 3 actions.
+**Potenciado (+4)** El daño adicional aumenta en 1d6.
 
 ---
 
-### Shrink the Span · ◆ · Focus 3
+### Ímpetu de Qi · ◆ · Foco 1
 
-**Traits:** Uncommon, Focus, Manipulate, Monk, Teleportation
+**Rasgos:** Poco común, Concentración, Foco, Monje
 
-**Range:** see text
-
-The world seems to shrink before your footfalls. You teleport up to a distance equal to your Speed within your line of sight.
+Acelerado por tu qi, te mueves con tal velocidad que te vuelves un borrón. Muévete dos veces: dos Avances, dos Pasos, o un Avance y un Paso (en cualquier orden). Obtienes la condición de oculto durante este movimiento y hasta el comienzo de tu siguiente turno.
 
 ---
 
-## Master Qi Spells
+## Conjuros de Qi Avanzados
 
-### Medusa's Wrath · ◆◆ · Focus 8
+### Explosión de Qi · ◆ a ◆◆◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Monk
+**Rasgos:** Poco común, Concentración, Foco, Fuerza, Manipular, Monje
 
-You make an attack filled with a medusa's petrifying power. Make an unarmed Strike with the following additional effects.
+**Área:** cono de 15 pies o más
 
-**Critical Success** The target is slowed 2 and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition increases by 1 (2 on a critical failure). A successful save reduces the slowed condition by 1. When a creature is unable to act due to the slowed condition from medusa's wrath, it is petrified permanently. The spell ends if the creature is petrified or the slowed condition is removed.
+**Defensa:** Fortaleza
 
-**Success** As critical success, but the target is initially slowed 1.
+Liberas tu qi como una poderosa explosión que inflige 2d6 de daño de fuerza. Si usas 2 acciones para lanzar explosión de qi, aumenta el tamaño del cono a 30 pies y el daño a 3d6. Si usas 3 acciones para lanzar explosión de qi, aumenta el cono a 60 pies y el daño a 4d6. Cada criatura en el área debe intentar una salvación de Fortaleza.
 
----
+**Éxito crítico** La criatura no se ve afectada.
 
-### Touch of Death · ◆◆ · Focus 8
+**Éxito** La criatura sufre la mitad de daño.
 
-**Traits:** Uncommon, Concentrate, Focus, Incapacitation, Manipulate, Monk
+**Fracaso** La criatura sufre el daño completo y es empujada 5 pies.
 
-**Defense:** Fortitude; **Duration:** 1 month
+**Fracaso crítico** La criatura sufre el doble de daño y es empujada 10 pies.
 
-Make a melee unarmed Strike. If you hit and the target is alive, anytime during the duration, you can spend a single action, which has the auditory and concentrate traits, to speak a word of death that could instantly slay it. The target must attempt a Fortitude save.
-
-**Critical Success** The target survives, the spell ends, and the target is then temporarily immune for 24 hours.
-
-**Success** The target is stunned 1 and takes 40 damage, the spell ends, and the target is then temporarily immune for 24 hours.
-
-**Failure** The target is stunned 3 and takes 80 damage. The spell's duration continues, but the target is then temporarily immune for 24 hours against being killed by touch of death.
-
-**Critical Failure** The target dies.
-
-If you cast touch of death again, the effects of any touch of death you had previously cast end.
-
-**Heightened (+1)** The damage increases by 10 on a failure, or 5 on a success.
+**Potenciado (+1)** El daño aumenta en 1d6, o en 2d6 si usas 2 o 3 acciones.
 
 ---
 
-## Grandmaster Qi Spells
+### Acortar la Distancia · ◆ · Foco 3
 
-### Embrace Nothingness · ◆◆ · Focus 9
+**Rasgos:** Poco común, Foco, Manipular, Monje, Teletransportación
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Monk
+**Alcance:** ver texto
 
-**Duration:** 1 minute
-
-You empty your body of substance, becoming one with nothingness. You gain resistance to physical damage equal to your level. You move at half your normal Speed, but can move in any direction (including up and down). While moving, you have concealment. When it is not your turn and during your turn until you take an action with the move trait, you are invisible. You can pass through solid inanimate objects as long as they are no more than 2 feet thick.
+El mundo parece encogerse ante tus pisadas. Te teletransportas hasta una distancia igual a tu Velocidad dentro de tu línea de visión.
 
 ---
 
-### Qi Form · ◆ · Focus 9
+## Conjuros de Qi de Maestro
 
-**Traits:** Uncommon, Concentrate, Focus, Monk, Polymorph
+### Ira de la Medusa · ◆◆ · Foco 8
 
-**Duration:** 1 minute
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
 
-Drawing from deep wells of spiritual power, you take on a special qi form. In your qi form, your hair, feathers, skin, or scales change color and begin to glow. In this form, you gain a fly Speed equal to your land Speed. Choose force, spirit, vitality, or void damage. All your Strikes deal 1d6 additional damage of the chosen type. Your entire body is also surrounded by a glowing corona of the same color as your inner qi; this is a light effect. Your corona is an aura in a 5-foot emanation that deals 2d6 damage of the chosen type to creatures who start their turn within the emanation. If the emanation overlaps with a darkness effect, the corona's glow attempts to counteract the darkness. Regardless of the outcome, the corona can't attempt to counteract that effect again for 1 day. You can Sustain to flare your corona out to become a 30-foot emanation or return the corona to a 5-foot emanation.
+Realizas un ataque imbuidos del poder petrificador de una medusa. Haz un Golpe desarmado con los siguientes efectos adicionales.
 
-In your qi form, your emotions surge to the forefront, and it's difficult to moderate your attacks. Your weapons and unarmed attacks lose the nonlethal trait. You take a –2 status penalty to saves against emotion effects but gain a +2 status bonus to saves against all other mental effects.
+**Éxito crítico** El objetivo queda ralentizado 2 y debe intentar una salvación de Fortaleza al final de cada uno de sus turnos; esta salvación continua tiene el rasgo de incapacitación. En una salvación fallida, la condición ralentizado aumenta en 1 (2 en un fracaso crítico). Una salvación exitosa reduce la condición ralentizado en 1. Cuando una criatura no puede actuar debido a la condición ralentizado por ira de la medusa, queda petrificada permanentemente. El conjuro termina si la criatura queda petrificada o si se elimina la condición ralentizado.
 
----
-
-## Qi Stances and Qi Stance Abilities
-
-### Clinging Shadows Stance · ◆ · Focus 4
-
-**Traits:** Uncommon, Focus, Manipulate, Monk, Shadow, Stance
-
-**Duration:** until you leave the stance
-
-You adopt the stance of clinging shadows. You can make shadow grasp Strikes. These deal 1d4 void damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits. While in clinging shadows stance, you gain a +2 circumstance bonus to Athletics checks to Grapple, and to the DC for creatures to Escape from you.
+**Éxito** Como en éxito crítico, pero el objetivo queda inicialmente ralentizado 1.
 
 ---
 
-### Wild Winds Stance · ◆ · Focus 4
+### Toque de Muerte · ◆◆ · Foco 8
 
-**Traits:** Uncommon, Air, Focus, Manipulate, Monk, Stance
+**Rasgos:** Poco común, Concentración, Foco, Incapacitación, Manipular, Monje
 
-**Duration:** until you leave the stance
+**Defensa:** Fortaleza; **Duración:** 1 mes
 
-You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed Strikes as ranged Strikes against targets within 30 feet. These deal 1d6 bludgeoning damage; are in the brawling group; and have the agile, nonlethal, propulsive, and unarmed traits. Wind crash Strikes ignore concealment and all cover.
+Realiza un Golpe desarmado cuerpo a cuerpo. Si impactas y el objetivo está vivo, en cualquier momento durante la duración puedes gastar una sola acción, que tiene los rasgos auditivo y concentración, para pronunciar una palabra de muerte que podría matarlo al instante. El objetivo debe intentar una salvación de Fortaleza.
 
-While in wild winds stance, you gain a +2 circumstance bonus to AC against ranged attacks.
+**Éxito crítico** El objetivo sobrevive, el conjuro termina y el objetivo queda temporalmente inmune durante 24 horas.
 
----
+**Éxito** El objetivo queda aturdido 1 y sufre 40 de daño, el conjuro termina y el objetivo queda temporalmente inmune durante 24 horas.
 
-### Shadow's Web · ◆◆ · Focus 7
+**Fracaso** El objetivo queda aturdido 3 y sufre 80 de daño. La duración del conjuro continúa, pero el objetivo queda temporalmente inmune durante 24 horas a ser muerto por toque de muerte.
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Monk
+**Fracaso crítico** El objetivo muere.
 
-**Requirements:** You are in clinging shadows stance.
+Si lanzas toque de muerte de nuevo, los efectos de cualquier toque de muerte que hubieras lanzado previamente terminan.
 
-**Area:** 30-foot emanation
-
-**Defense:** Fortitude
-
-Grasping darkness surges from you, dealing 14d4 void damage. Each creature in the area must attempt a Fortitude save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage and is enfeebled 1 for 1 round.
-
-**Failure** The creature takes full damage and is enfeebled 2 for 1 round.
-
-**Critical Failure** The creature takes double damage, is stunned 1, and enfeebled 2 for 1 round, and immobilized for 1 round or until it Escapes, whichever comes first.
-
-**Heightened (+1)** The void damage increases by 2d4.
+**Potenciado (+1)** El daño aumenta en 10 en un fracaso, o en 5 en un éxito.
 
 ---
 
-## Other Qi Spells
+## Conjuros de Qi de Gran Maestro
 
-### Harmonize Self · ◆ · Focus 2
+### Abrazar la Nada · ◆◆ · Foco 9
 
-**Traits:** Uncommon, Concentrate, Focus, Healing, Monk, Vitality
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
 
-You heal yourself in one of the following ways, chosen by you when you cast the spell.
+**Duración:** 1 minuto
 
-- You regain 8 Hit Points.
-- You attempt to cure one poison or disease afflicting you; attempt to counteract the affliction.
-
-**Heightened (+1)** If you choose to regain Hit Points, the Hit Points regained increase by 8.
+Vacías tu cuerpo de sustancia, volviéndote uno con la nada. Ganas resistencia al daño físico igual a tu nivel. Te mueves a la mitad de tu Velocidad normal, pero puedes moverte en cualquier dirección (incluyendo arriba y abajo). Mientras te mueves, estás oculto. Cuando no es tu turno y durante tu turno hasta que realizas una acción con el rasgo de movimiento, eres invisible. Puedes atravesar objetos sólidos inanimados siempre que no tengan más de 2 pies de grosor.
 
 ---
 
-### Wind Jump · ◆ · Focus 5
+### Forma de Qi · ◆ · Foco 9
 
-**Traits:** Uncommon, Air, Concentrate, Focus, Monk
+**Rasgos:** Poco común, Concentración, Foco, Monje, Polimorfo
 
-**Duration:** 1 minute
+**Duración:** 1 minuto
 
-You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.
+Extrayendo de profundos pozos de poder espiritual, adoptas una forma especial de qi. En tu forma de qi, tu cabello, plumas, piel o escamas cambian de color y empiezan a brillar. En esta forma, ganas una Velocidad de vuelo igual a tu Velocidad terrestre. Elige daño de fuerza, espíritu, vitalidad o vacío. Todos tus Golpes infligen 1d6 de daño adicional del tipo elegido. Todo tu cuerpo también está rodeado por una corona brillante del mismo color que tu qi interior; esto es un efecto de luz. Tu corona es un aura en una emanación de 5 pies que inflige 2d6 de daño del tipo elegido a las criaturas que comienzan su turno dentro de la emanación. Si la emanación se superpone con un efecto de oscuridad, el brillo de la corona intenta contrarrestar la oscuridad. Independientemente del resultado, la corona no puede intentar contrarrestar ese efecto de nuevo durante 1 día. Puedes Mantener para expandir tu corona hasta convertirse en una emanación de 30 pies o devolver la corona a una emanación de 5 pies.
 
-**Heightened (6th)** At the end of your turn, you can attempt a DC 30 Acrobatics check to find purchase in midair. If you succeed, you don't fall.
+En tu forma de qi, tus emociones toman protagonismo y es difícil moderar tus ataques. Tus armas y ataques desarmados pierden el rasgo no letal. Sufres un penalizador de estado –2 a las salvaciones contra efectos de emoción pero obtienes un bonificador de estado +2 a las salvaciones contra todos los demás efectos mentales.
+
+---
+
+## Posturas de Qi y Habilidades de Postura de Qi
+
+### Postura de Sombras Adherentes · ◆ · Foco 4
+
+**Rasgos:** Poco común, Foco, Manipular, Monje, Sombra, Postura
+
+**Duración:** hasta que abandones la postura
+
+Adoptas la postura de sombras adherentes. Puedes realizar Golpes de garra de sombra. Estos infligen 1d4 de daño de vacío; están en el grupo de pugilato; y tienen los rasgos ágil, agarrar, alcance y desarmado. Mientras estés en la postura de sombras adherentes, obtienes un bonificador circunstancial +2 a las pruebas de Atletismo para Agarrar, y a la CD para que las criaturas Escapen de ti.
+
+---
+
+### Postura de Vientos Salvajes · ◆ · Foco 4
+
+**Rasgos:** Poco común, Aire, Foco, Manipular, Monje, Postura
+
+**Duración:** hasta que abandones la postura
+
+Adoptas la postura de los vientos fluidos, enviando ondas de energía a distancia. Puedes realizar Golpes desarmados de choque de viento como Golpes a distancia contra objetivos a 30 pies. Estos infligen 1d6 de daño contundente; están en el grupo de pugilato; y tienen los rasgos ágil, no letal, propulsivo y desarmado. Los Golpes de choque de viento ignoran la ocultación y toda cobertura.
+
+Mientras estés en la postura de vientos salvajes, obtienes un bonificador circunstancial +2 a la CA contra ataques a distancia.
+
+---
+
+### Red de la Sombra · ◆◆ · Foco 7
+
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
+
+**Requisitos:** Estás en la postura de sombras adherentes.
+
+**Área:** emanación de 30 pies
+
+**Defensa:** Fortaleza
+
+Oscuridad aferradora surge de ti, infligiendo 14d4 de daño de vacío. Cada criatura en el área debe intentar una salvación de Fortaleza.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura sufre la mitad de daño y queda debilitada 1 durante 1 asalto.
+
+**Fracaso** La criatura sufre el daño completo y queda debilitada 2 durante 1 asalto.
+
+**Fracaso crítico** La criatura sufre el doble de daño, queda aturdida 1 y debilitada 2 durante 1 asalto, e inmovilizada durante 1 asalto o hasta que Escape, lo que ocurra primero.
+
+**Potenciado (+1)** El daño de vacío aumenta en 2d4.
+
+---
+
+## Otros Conjuros de Qi
+
+### Armonizarse · ◆ · Foco 2
+
+**Rasgos:** Poco común, Concentración, Foco, Sanación, Monje, Vitalidad
+
+Te curas de una de las siguientes maneras, elegida por ti al lanzar el conjuro.
+
+- Recuperas 8 Puntos de Golpe.
+- Intentas curar un veneno o enfermedad que te afecte; intenta contrarrestar la aflicción.
+
+**Potenciado (+1)** Si eliges recuperar Puntos de Golpe, los Puntos de Golpe recuperados aumentan en 8.
+
+---
+
+### Salto de Viento · ◆ · Foco 5
+
+**Rasgos:** Poco común, Aire, Concentración, Foco, Monje
+
+**Duración:** 1 minuto
+
+Ganas una Velocidad de vuelo igual a tu Velocidad. Debes terminar tu turno sobre terreno sólido, o caes.
+
+**Potenciado (6º)** Al final de tu turno, puedes intentar una prueba de Acrobacias CD 30 para afianzarte en el aire. Si tienes éxito, no caes.

@@ -1,151 +1,151 @@
-# Spells D-F
+# Conjuros D–F
 
-This section contains all spells from Player Core 2 whose names begin with the letters D, E, and F, ordered alphabetically.
-
----
-
-## Déjà Vu · ◆◆ · Spell 1
-
-**Traits:** Concentrate, Incapacitation, Manipulate, Mental
-
-**Traditions:** arcane, occult
-
-**Range:** 100 feet; **Targets:** 1 creature
-
-**Defense:** Will; **Duration:** 2 rounds
-
-You loop a thought process in the target's mind, forcing it to repeat a moment's worth of actions. The target must attempt a Will save. If the target fails, whatever actions the target uses on its next turn, it must repeat on its following turn. The actions must be repeated in the same order and as close to the same specifics as possible. For example, if the target makes an attack, it must repeat the attack against the same creature, if possible, and if the target moves, it must move the same distance and direction, if possible, on its next turn.
-
-If the target can't repeat an action, such as Casting a Spell that has been exhausted or needing to target a creature that has died, it can act as it chooses for that action but becomes stupefied 1 until the end of its turn.
+Esta sección contiene todos los conjuros de Player Core 2 cuyos nombres comienzan por las letras D, E y F, ordenados alfabéticamente.
 
 ---
 
-## Dismantle · ◆◆ · Spell 2
+## Déjà Vu · ◆◆ · Conjuro 1
 
-**Traits:** Concentrate, Manipulate
+**Rasgos:** Concentrar, Incapacitación, Manipular, Mental
 
-**Traditions:** arcane, primal
+**Tradiciones:** arcana, oculta
 
-**Range:** touch; **Targets:** 1 non-magical object in your possession of 1 Bulk or less
+**Rango:** 100 pies (30 m); **Objetivos:** 1 criatura
 
-**Duration:** 1 minute
+**Defensa:** Voluntad; **Duración:** 2 asaltos
 
-You touch an object, and it immediately disassembles itself into its component pieces. The spell fails if the target lacks component pieces (such as a statue carved from one block of stone), and using it on a dangerous object like a snare or trap typically triggers it. The object gains the broken condition, and the component pieces become small enough to be hidden under normal clothing and armor. You can Dismiss the spell.
+Encadenas un proceso de pensamiento en la mente del objetivo, obligándolo a repetir un momento de acciones. El objetivo debe intentar una salvación de Voluntad. Si falla, cualesquiera acciones que el objetivo use en su siguiente turno debe repetirlas en el turno posterior. Las acciones deben repetirse en el mismo orden y tan cerca de los mismos detalles como sea posible. Por ejemplo, si el objetivo realiza un ataque, debe repetir el ataque contra la misma criatura, si es posible; y si el objetivo se mueve, debe moverse la misma distancia y dirección, si es posible, en su siguiente turno.
 
-When the spell ends, the object reassembles itself into its original form, appearing in your hand or hands if you have them free, or on the ground in front of you otherwise. Once reassembled, the object loses the broken condition, and its Hit Points return to the value the object had when you Cast the Spell.
-
-**Heightened (4th)** The spell lasts for 10 minutes.
-
-**Heightened (6th)** The spell lasts until your next daily preparations.
+Si el objetivo no puede repetir una acción, como Lanzar un conjuro que ya ha agotado o necesitar apuntar a una criatura que ha muerto, puede actuar como elija para esa acción, pero queda estupefacto 1 hasta el final de su turno.
 
 ---
 
-## Dream Council · Spell 8
+## Desmontar · ◆◆ · Conjuro 2
 
-**Traits:** Concentrate, Illusion, Manipulate, Mental, Sleep
+**Rasgos:** Concentrar, Manipular
 
-**Traditions:** arcane, occult
+**Tradiciones:** arcana, primigenia
 
-**Cast:** 10 minutes
+**Rango:** toque; **Objetivos:** 1 objeto no mágico en tu posesión de 1 Volumen o menos
 
-**Range:** planetary; **Targets:** up to 12 creatures you know by name and have met in person
+**Duración:** 1 minuto
 
-**Duration:** 1 hour
+Tocas un objeto, y este se desensambla inmediatamente en sus piezas componentes. El conjuro falla si el objetivo carece de piezas componentes (como una estatua tallada en un solo bloque de piedra), y usarlo sobre un objeto peligroso como un lazo o una trampa normalmente lo activa. El objeto obtiene la condición de roto, y las piezas componentes se vuelven lo bastante pequeñas como para ocultarse bajo ropa y armadura normales. Puedes Disipar el conjuro.
 
-When you Cast this Spell, any targets—including you—can choose to immediately fall asleep. The spell ends for any creatures that don't choose to fall asleep. Sleepers join a shared dream, where they can communicate with one another as though they were in the same room. Individual targets leave this shared dream upon awakening, and if all the targets awaken, the spell ends.
+Cuando el conjuro termina, el objeto se reensambla en su forma original, apareciendo en tu mano o manos si las tienes libres, o en el suelo frente a ti en caso contrario. Una vez reensamblado, el objeto pierde la condición de roto y sus Puntos de Golpe vuelven al valor que tenía el objeto cuando lanzaste el conjuro.
 
----
+**Potenciado (4.º)** El conjuro dura 10 minutos.
 
-## Drop Dead · ◇ · Spell 5
-
-**Traits:** Uncommon, Illusion, Manipulate, Subtle, Visual
-
-**Traditions:** arcane, divine, occult
-
-**Trigger:** A creature within range is hit by an attack from an enemy.
-
-**Range:** 120 feet; **Targets:** 1 creature
-
-**Duration:** sustained up to 1 minute
-
-The target appears to fall down dead, though it actually turns invisible. Its illusory corpse remains where it fell, complete with a believable fatal wound. This illusion looks and feels like a dead body. If the target's death seems absurd—for instance, a barbarian at full health appears to be slain by 2 damage—the GM can grant the attacker an immediate Perception check to disbelieve the illusion. If the target uses hostile actions, the spell ends. This ends the entire spell, so the illusory corpse disappears too.
-
-**Heightened (7th)** The spell doesn't end if the target uses a hostile action.
+**Potenciado (6.º)** El conjuro dura hasta tu siguiente preparación diaria.
 
 ---
 
-## Dull Ambition · ◆◆ · Spell 4
+## Consejo onírico · Conjuro 8
 
-**Traits:** Concentrate, Curse, Manipulate, Mental, Misfortune
+**Rasgos:** Concentrar, Ilusión, Manipular, Mental, Sueño
 
-**Traditions:** arcane, divine, occult
+**Tradiciones:** arcana, oculta
 
-**Range:** 120 feet; **Targets:** 1 creature
+**Lanzamiento:** 10 minutos
 
-**Defense:** Will; **Duration:** varies
+**Rango:** planetario; **Objetivos:** hasta 12 criaturas que conoces por su nombre y has conocido en persona
 
-You curse the target to fail in all avenues of its life that require drive and ambition, as it inadvertently undermines its own goals at every turn. The effect is based on the target's Will save.
+**Duración:** 1 hora
 
-**Critical Success** The target is unaffected.
-
-**Success** For 1 hour, the target rolls twice and uses the lower result on initiative rolls.
-
-**Failure** For 1 day, the target rolls twice and uses the lower result on initiative rolls and any check to determine the success of a downtime activity.
-
-**Critical Failure** As failure, but the duration is unlimited.
+Cuando lanzas este conjuro, cualquier objetivo—incluyéndote a ti—puede elegir quedarse dormido inmediatamente. El conjuro termina para cualquier criatura que no elija quedarse dormida. Los durmientes se unen a un sueño compartido, donde pueden comunicarse entre sí como si estuvieran en la misma sala. Cada objetivo abandona este sueño compartido al despertar, y si todos los objetivos despiertan, el conjuro termina.
 
 ---
 
-## Familiar's Face · ◆◆ · Spell 3
+## Hacerse el muerto · ◇ · Conjuro 5
 
-**Traits:** Concentrate, Manipulate, Scrying
+**Rasgos:** Poco común, Ilusión, Manipular, Sutil, Visual
 
-**Traditions:** arcane, divine, occult, primal
+**Tradiciones:** arcana, divina, oculta
 
-**Range:** 1 mile; **Targets:** 1 willing creature that's your animal companion or familiar
+**Desencadenante:** Una criatura dentro del rango es impactada por un ataque de un enemigo.
 
-**Duration:** sustained
+**Rango:** 120 pies (36 m); **Objetivos:** 1 criatura
 
-The target becomes a scrying sensor, allowing you to see through its eyes, smell what it smells, and similarly use its other senses. If you Cast a Spell with the revelation trait that affects your senses, such as see the unseen, while this spell is active, you gain the benefit of the spell through the target's senses instead of your own. You can also speak through the target with a voice much like yours, though it takes on some of the timbre and character of the target's growls or squawks. You can use Command an Animal on the target as part of Sustaining this spell. You don't need line of sight or line of effect to your target when you Cast this Spell.
+**Duración:** sostenido hasta 1 minuto
 
----
+El objetivo parece caer muerto, aunque en realidad se vuelve invisible. Su cadáver ilusorio permanece donde cayó, con una herida fatal creíble. Esta ilusión se ve y se siente como un cuerpo muerto. Si la muerte del objetivo parece absurda—por ejemplo, un bárbaro a plena salud parece ser abatido por 2 puntos de daño—el DJ puede conceder al atacante una prueba inmediata de Percepción para descreer la ilusión. Si el objetivo usa acciones hostiles, el conjuro termina. Esto termina todo el conjuro, por lo que el cadáver ilusorio también desaparece.
 
-## Final Sacrifice · ◆◆ · Spell 2
-
-**Traits:** Concentrate, Fire, Manipulate
-
-**Traditions:** arcane, divine, occult, primal
-
-**Range:** 120 feet; **Targets:** 1 creature with the minion trait that you summoned or permanently control
-
-**Defense:** basic Reflex
-
-You channel disruptive energies through the bond between you and your minion, causing it to violently explode. The target is immediately slain, and the explosion deals 6d6 fire damage to creatures within 20 feet of it with a basic Reflex save.
-
-If the target has the cold or water trait, the spell deals cold damage and has the cold trait instead of the fire trait. Attempting to cast this spell targeting a creature that you temporarily seized control of, such as an undead commanded by bind undead, automatically fails and breaks the controlling effect.
-
-**Heightened (+1)** The damage increases by 2d6.
+**Potenciado (7.º)** El conjuro no termina si el objetivo usa una acción hostil.
 
 ---
 
-## Fungal Infestation · ◆◆ · Spell 2
+## Ambición apagada · ◆◆ · Conjuro 4
 
-**Traits:** Concentrate, Fungus, Manipulate, Poison
+**Rasgos:** Concentrar, Maldición, Manipular, Mental, Desgracia
 
-**Traditions:** primal
+**Tradiciones:** arcana, divina, oculta
 
-**Range:** touch; **Area:** 15-foot cone
+**Rango:** 120 pies (36 m); **Objetivos:** 1 criatura
 
-**Defense:** Fortitude
+**Defensa:** Voluntad; **Duración:** variable
 
-Toxic spores swarm over creatures in the area, causing them to erupt in grotesque fungal growths. These noxious growths deal 2d6 persistent poison damage, and each creature must attempt a Fortitude save.
+Maldices al objetivo para que fracase en todos los ámbitos de su vida que requieren impulso y ambición, ya que inadvertidamente socava sus propias metas a cada paso. El efecto se basa en la salvación de Voluntad del objetivo.
 
-**Critical Success** The creature is unaffected.
+**Éxito crítico** El objetivo no se ve afectado.
 
-**Success** The target takes half the persistent poison damage.
+**Éxito** Durante 1 hora, el objetivo tira dos veces y usa el resultado menor en las tiradas de iniciativa.
 
-**Failure** The target takes the full persistent poison damage. While it's taking this persistent poison damage, it has weakness 1 to fire and weakness 1 to slashing.
+**Fallo** Durante 1 día, el objetivo tira dos veces y usa el resultado menor en las tiradas de iniciativa y en cualquier prueba para determinar el éxito de una actividad de descanso.
 
-**Critical Failure** As failure, but double the persistent poison damage. While it's taking this persistent poison damage, it has weakness 2 to fire and weakness 2 to slashing.
+**Fallo crítico** Como fallo, pero la duración es ilimitada.
 
-**Heightened (+2)** The persistent damage increases by 2d6, and the weakness increases by 1, or by 2 on a critical failure.
+---
+
+## Rostro del familiar · ◆◆ · Conjuro 3
+
+**Rasgos:** Concentrar, Manipular, Escrutar
+
+**Tradiciones:** arcana, divina, oculta, primigenia
+
+**Rango:** 1 milla (1,6 km); **Objetivos:** 1 criatura voluntaria que sea tu compañero animal o tu familiar
+
+**Duración:** sostenido
+
+El objetivo se convierte en un sensor de escrutinio, permitiéndote ver a través de sus ojos, oler lo que huele y usar de manera similar sus otros sentidos. Si lanzas un conjuro con el rasgo revelación que afecta a tus sentidos, como ver lo no visto, mientras este conjuro está activo, obtienes el beneficio del conjuro a través de los sentidos del objetivo en lugar de los tuyos propios. También puedes hablar a través del objetivo con una voz muy parecida a la tuya, aunque adopta parte del timbre y carácter de los gruñidos o graznidos del objetivo. Puedes usar Ordenar a un animal sobre el objetivo como parte de Sostener este conjuro. No necesitas línea de visión ni línea de efecto hacia tu objetivo cuando lanzas este conjuro.
+
+---
+
+## Sacrificio final · ◆◆ · Conjuro 2
+
+**Rasgos:** Concentrar, Fuego, Manipular
+
+**Tradiciones:** arcana, divina, oculta, primigenia
+
+**Rango:** 120 pies (36 m); **Objetivos:** 1 criatura con el rasgo esbirro que has invocado o que controlas permanentemente
+
+**Defensa:** salvación básica de Reflejos
+
+Canalizas energías disruptivas a través del vínculo entre tú y tu esbirro, haciendo que explote violentamente. El objetivo es abatido de inmediato, y la explosión inflige 6d6 de daño de fuego a las criaturas dentro de 20 pies (6 m) con una salvación básica de Reflejos.
+
+Si el objetivo tiene el rasgo de frío o agua, el conjuro inflige daño de frío y tiene el rasgo frío en lugar del rasgo fuego. Intentar lanzar este conjuro apuntando a una criatura sobre la que tomaste control temporalmente, como un no muerto mandado por vincular no muerto, falla automáticamente y rompe el efecto de control.
+
+**Potenciado (+1)** El daño aumenta en 2d6.
+
+---
+
+## Infestación fúngica · ◆◆ · Conjuro 2
+
+**Rasgos:** Concentrar, Hongos, Manipular, Veneno
+
+**Tradiciones:** primigenia
+
+**Rango:** toque; **Área:** cono de 15 pies (4,5 m)
+
+**Defensa:** Fortaleza
+
+Esporas tóxicas se arremolinan sobre las criaturas del área, haciendo que broten en grotescos crecimientos fúngicos. Estos repulsivos crecimientos infligen 2d6 de daño de veneno persistente, y cada criatura debe intentar una salvación de Fortaleza.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** El objetivo recibe la mitad del daño de veneno persistente.
+
+**Fallo** El objetivo recibe el daño de veneno persistente completo. Mientras sufre este daño de veneno persistente, tiene debilidad 1 al fuego y debilidad 1 al daño cortante.
+
+**Fallo crítico** Como fallo, pero el daño de veneno persistente es doble. Mientras sufre este daño de veneno persistente, tiene debilidad 2 al fuego y debilidad 2 al daño cortante.
+
+**Potenciado (+2)** El daño persistente aumenta en 2d6, y la debilidad aumenta en 1, o en 2 con un fallo crítico.

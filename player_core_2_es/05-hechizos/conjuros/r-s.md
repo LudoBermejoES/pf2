@@ -1,373 +1,373 @@
-# Spells R-S
+# Conjuros R–S
 
-This section contains all spells from Player Core 2 whose names begin with the letters R and S, ordered alphabetically.
-
----
-
-## Reaper's Lantern · ◆◆ · Spell 2
-
-**Traits:** Aura, Concentrate, Death, Light, Manipulate
-
-**Traditions:** divine, occult, primal
-
-**Area:** 5-foot emanation
-
-**Defense:** Fortitude; **Duration:** 1 minute
-
-You call forth a ghostly lantern that guides the living toward death and the undead toward true death. It sheds bright light in the spell's area and dim light to twice that area. The lantern is insubstantial and floats near you, suspended from an ephemeral, skeletal hand. Living creatures and undead in the area when you Cast the Spell, or that enter the area later, must attempt Fortitude saves. Living creatures that fail their Fortitude saves gain only half the normal benefit from healing effects while within the area. Undead targets that fail their Fortitude saves become enfeebled 1 while within the area. Once a creature attempts a save against reaper's lantern, it uses the same outcome if it leaves the area and enters it again.
-
-Once per turn, starting on the round after you cast reaper's lantern, you can Sustain the spell to increase the emanation's radius by 5 feet. When you do so, you force creatures in the area that haven't yet attempted a save against reaper's lantern to attempt one.
+Esta sección contiene todos los conjuros de Player Core 2 cuyos nombres comienzan por las letras R y S, ordenados alfabéticamente.
 
 ---
 
-## Resplendent Mansion · Spell 9
+## Linterna del Segador · ◆◆ · Conjuro 2
 
-**Traits:** Concentrate, Manipulate, Structure
+**Rasgos:** Aura, Concentrar, Muerte, Luz, Manipular
 
-**Traditions:** arcane, occult
+**Tradiciones:** divina, oculta, primigenia
 
-**Cast:** 1 minute
+**Área:** emanación de 5 pies (1,5 m)
 
-**Range:** 500 feet
+**Defensa:** Fortaleza; **Duración:** 1 minuto
 
-**Duration:** until your next daily preparations
+Invocas una linterna espectral que guía a los vivos hacia la muerte y a los no muertos hacia la verdadera muerte. Emite luz brillante en el área del conjuro y luz tenue hasta el doble de esa área. La linterna es insustancial y flota cerca de ti, suspendida de una mano esquelética efímera. Las criaturas vivas y los no muertos en el área cuando lanzas el conjuro, o que entren en el área posteriormente, deben intentar salvaciones de Fortaleza. Las criaturas vivas que fallen su salvación de Fortaleza obtienen solo la mitad del beneficio normal de los efectos de curación mientras estén en el área. Los objetivos no muertos que fallen su salvación de Fortaleza quedan debilitados 1 mientras estén en el área. Una vez que una criatura intenta una salvación contra linterna del segador, usa el mismo resultado si abandona el área y vuelve a entrar.
 
-You conjure a towering mansion up to four stories tall and up to 300 feet on a side. While Casting the Spell, you hold an image of the mansion and its desired appearance in your mind. The mansion can contain as many or as few rooms as you desire, and it's decorated as you imagine it. You can imagine a purpose for each room of the mansion, and the proper accouterments appear within. Any furniture or other mundane fixtures function normally for anyone inside the mansion, but they cease to exist if taken beyond its walls. No fixture created with this spell can create magical effects, but magical devices brought into the mansion function normally.
-
-Your mansion contains the same types and quantities of foodstuffs and servants as created by the planar palace spell. Each of the mansion's exterior doorways and windows are protected by alarm spells. You choose whether each alarm is audible or mental as you Cast the Spell, and each has a different sound (for an audible alarm) or sensation (for a mental one), allowing you to instantly determine which portal has been used.
+Una vez por turno, comenzando en el asalto después de que lanzas linterna del segador, puedes Sostener el conjuro para aumentar el radio de la emanación en 5 pies. Cuando lo haces, obligas a las criaturas en el área que aún no hayan intentado una salvación contra linterna del segador a intentarla.
 
 ---
 
-## Rouse Skeletons · ◆◆ · Spell 3
+## Mansión resplandeciente · Conjuro 9
 
-**Traits:** Concentrate, Manipulate
+**Rasgos:** Concentrar, Manipular, Estructura
 
-**Traditions:** arcane, divine, occult
+**Tradiciones:** arcana, oculta
 
-**Range:** 60 feet; **Area:** 10-foot burst
+**Lanzamiento:** 1 minuto
 
-**Defense:** Reflex; **Duration:** sustained up to 1 minute
+**Rango:** 500 pies (150 m)
 
-Misshapen skeletal forms erupt from a solid surface, such as a stone floor, and fill the burst. The area they fill is difficult terrain. Their grasping claws deal 2d6 slashing damage to creatures on the ground in the area when the skeletons first appear with a basic Reflex save.
+**Duración:** hasta tu siguiente preparación diaria
 
-On subsequent rounds, the first time you Sustain the Spell each round, you can move the area of skeletons up to 20 feet within the range of the spell and deal 2d6 slashing damage with a basic Reflex save to each creature in the new area.
+Conjuras una mansión imponente de hasta cuatro pisos de altura y hasta 300 pies (90 m) por lado. Mientras lanzas el conjuro, mantienes en tu mente una imagen de la mansión y su apariencia deseada. La mansión puede contener tantas o tan pocas habitaciones como desees, y está decorada como imaginas. Puedes imaginar un propósito para cada habitación de la mansión, y los enseres adecuados aparecen dentro. Cualquier mueble u otro accesorio mundano funciona con normalidad para cualquiera dentro de la mansión, pero deja de existir si se saca más allá de sus muros. Ninguna instalación creada con este conjuro puede crear efectos mágicos, pero los dispositivos mágicos que se introduzcan en la mansión funcionan con normalidad.
 
-Damaging or destroying the skeletons is irrelevant, as new bones pull forth from the ground to repair and replace any that are obliterated.
-
-**Heightened (+2)** The damage increases by 1d6.
+Tu mansión contiene los mismos tipos y cantidades de víveres y sirvientes que crea el conjuro palacio planar. Cada una de las puertas y ventanas exteriores de la mansión está protegida por conjuros de alarma. Eliges si cada alarma es audible o mental al lanzar el conjuro, y cada una tiene un sonido (para una alarma audible) o sensación (para una mental) diferente, permitiéndote determinar al instante qué portal ha sido usado.
 
 ---
 
-## Sacred Form · ◆◆ · Spell 6
+## Incitar esqueletos · ◆◆ · Conjuro 3
 
-**Traits:** Concentrate, Manipulate, Polymorph
+**Rasgos:** Concentrar, Manipular
 
-**Traditions:** divine
+**Tradiciones:** arcana, divina, oculta
 
-**Duration:** 1 minute
+**Rango:** 60 pies (18 m); **Área:** explosión de 10 pies (3 m)
 
-You focus all your divine energy and transform yourself into a battle form, similar to your normal form and of the same size as you, but wielding powerful divine armaments. While in this form, you gain the statistics and abilities listed below. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
+**Defensa:** Reflejos; **Duración:** sostenido hasta 1 minuto
 
-You gain the following statistics and abilities.
+Formas esqueléticas deformes surgen de una superficie sólida, como un suelo de piedra, y llenan la explosión. El área que ocupan es terreno difícil. Sus garras aferradoras infligen 2d6 de daño cortante a las criaturas en el suelo dentro del área cuando los esqueletos aparecen por primera vez (salvación básica de Reflejos).
 
-- AC = 20 + your level. Ignore your armor's check penalty and Speed reduction.
-- 10 temporary Hit Points.
-- Speed 40 feet.
-- Resistance 3 against physical damage.
-- Darkvision.
-- A special attack with a sacred armament, which is the only attack you can use. Your attack modifier with the sacred armament is +21, and your damage bonus is +8 (or +6 for a ranged attack). The damage dice for Strikes with the weapon are 3d6 bludgeoning damage plus 1d6 spirit damage. If you have a deity, you can have the weapon take the form of your deity's favored weapon and use its damage die size, damage type, and traits. If the favored weapon is a simple weapon with 1d4 or 1d6 damage die, the weapon damage dice are one size larger than normal, though the spirit damage is unchanged. You can also use your attack modifier with this favored weapon if it's higher than that given by the spell.
-- Athletics modifier of +23, unless your own is higher.
+En asaltos posteriores, la primera vez cada asalto que sostienes el conjuro, puedes mover el área de esqueletos hasta 20 pies dentro del alcance del conjuro e infligir 2d6 de daño cortante (salvación básica de Reflejos) a cada criatura en la nueva área.
 
-**Heightened (8th)** You instead gain AC = 21 + your level, 15 temporary Hit Points, resistance 4 against physical damage, attack modifier +28, damage bonus +15 (+12 for a ranged attack), and Athletics +29. If you're Medium or smaller, your battle form is Large, and your attacks also have 10-foot reach, or 15-foot reach if you're using a favored weapon with reach.
+Dañar o destruir los esqueletos es irrelevante, ya que nuevos huesos tiran desde el suelo para reparar y reemplazar cualquiera que se haya destruido.
+
+**Potenciado (+2)** El daño aumenta en 1d6.
 
 ---
 
-## Scatter Scree · ◆◆ · Cantrip 1
+## Forma sagrada · ◆◆ · Conjuro 6
 
-**Traits:** Cantrip, Concentrate, Earth, Manipulate
+**Rasgos:** Concentrar, Manipular, Polimorfo
 
-**Traditions:** arcane, primal
+**Tradiciones:** divina
 
-**Range:** 30 feet; **Area:** two contiguous 5-foot cubes
+**Duración:** 1 minuto
 
-**Defense:** basic Reflex; **Duration:** 1 minute
+Enfocas toda tu energía divina y te transformas en una forma de batalla, similar a tu forma normal y del mismo tamaño, pero empuñando poderosos armamentos sagrados. Mientras estás en esta forma, obtienes las estadísticas y habilidades listadas a continuación. Tienes manos en esta forma de batalla y puedes usar acciones de manipular. Puedes Disipar el conjuro.
 
-A jumble of rocks cascades into the area. The scattering rocks deal 2d4 bludgeoning damage (basic Reflex save). The ground in the area becomes difficult terrain for the duration of the spell. A creature can Interact to clear a square of this scree.
+Obtienes las siguientes estadísticas y habilidades.
 
-If you cast this spell again, any previous scatter scree you've cast ends.
+- CA = 20 + tu nivel. Ignora el penalizador de chequeo de tu armadura y la reducción de Velocidad.
+- 10 Puntos de Golpe temporales.
+- Velocidad 40 pies (12 m).
+- Resistencia 3 contra daño físico.
+- Visión en la oscuridad.
+- Un ataque especial con un armamento sagrado, que es el único ataque que puedes usar. Tu modificador de ataque con el armamento sagrado es +21, y tu bonificador de daño es +8 (o +6 para un ataque a distancia). Los dados de daño de los Golpes con el arma son 3d6 de daño contundente más 1d6 de daño espiritual. Si tienes una deidad, puedes hacer que el arma tome la forma del arma predilecta de tu deidad y usar su tamaño de dado de daño, tipo de daño y rasgos. Si el arma predilecta es un arma simple con dado de 1d4 o 1d6, los dados de daño del arma son un tamaño mayor de lo normal, aunque el daño espiritual no cambia. También puedes usar tu modificador de ataque con esta arma predilecta si es mayor que el dado por el conjuro.
+- Modificador de Atletismo +23, a menos que el tuyo propio sea mayor.
 
-**Heightened (+1)** The damage increases by 1d4.
-
----
-
-## Schadenfreude · ◇ · Spell 1
-
-**Traits:** Concentrate, Emotion, Mental
-
-**Traditions:** arcane, divine, occult
-
-**Trigger:** You critically fail a saving throw against a foe's effect.
-
-**Range:** 30 feet; **Targets:** the triggering foe
-
-**Defense:** Will
-
-You distract your enemy with their feeling of smug pleasure when you fail catastrophically. It must attempt a Will save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature is distracted by its amusement and takes a –1 status penalty on Perception checks and Will saves for 1 round.
-
-**Failure** The creature is overcome by its amusement and is stupefied 1 for 1 round.
-
-**Critical Failure** The creature is lost in its amusement and is stupefied 2 for 1 round and stunned 1.
+**Potenciado (8.º)** En su lugar, obtienes CA = 21 + tu nivel, 15 Puntos de Golpe temporales, resistencia 4 contra daño físico, modificador de ataque +28, bonificador de daño +15 (+12 para un ataque a distancia) y Atletismo +29. Si eres Mediano o más pequeño, tu forma de batalla es Grande, y tus ataques también tienen alcance de 10 pies (3 m), o de 15 pies (4,5 m) si usas un arma predilecta con alcance.
 
 ---
 
-## Scintillating Safeguard · ◇ · Spell 6
+## Derramar cascajo · ◆◆ · Truco 1
 
-**Traits:** Manipulate
+**Rasgos:** Truco, Concentrar, Tierra, Manipular
 
-**Traditions:** divine, occult, primal
+**Tradiciones:** arcana, primigenia
 
-**Trigger:** An effect would deal physical or energy damage to you or a creature in range.
+**Rango:** 30 pies (9 m); **Área:** dos cubos contiguos de 5 pies (1,5 m)
 
-**Range:** 30 feet; **Targets:** up to 5 willing creatures who would be harmed by the triggering effect
+**Defensa:** salvación básica de Reflejos; **Duración:** 1 minuto
 
-A sparkling magical barrier envelops each target, shielding them against the triggering effect. Choose one type of physical or energy damage the triggering effect deals. Each target gains resistance 10 against that damage type for the triggering effect. The resistance applies only against the initial damage, not against any persistent damage or other lingering effects.
+Una mezcolanza de rocas cae en el área. Las rocas dispersas infligen 2d4 de daño contundente (salvación básica de Reflejos). El suelo en el área se vuelve terreno difícil durante la duración del conjuro. Una criatura puede Interactuar para despejar una casilla de este cascajo.
 
-**Heightened (+1)** The resistance increases by 1.
+Si lanzas este conjuro de nuevo, cualquier derramar cascajo previo que hayas lanzado termina.
 
----
-
-## Seal Fate · ◆◆ · Spell 4
-
-**Traits:** Concentrate, Curse, Death, Manipulate
-
-**Traditions:** arcane, divine, occult
-
-**Range:** touch; **Targets:** 1 living creature
-
-**Defense:** Fortitude; **Duration:** varies
-
-You utter a curse that a creature will meet a certain end—a death by freezing, stabbing, or another means you devise. Choose one type of damage from the following list: acid, bludgeoning, cold, electricity, fire, piercing, slashing, sonic, or void. The effect is based on the target's Fortitude save.
-
-**Critical Success** The target is unaffected.
-
-**Success** The target gains weakness 2 to the chosen damage type until the end of your next turn.
-
-**Failure** As success, but the duration is 1 minute. If the creature is reduced to 0 Hit Points by the chosen damage and its level is 7 or less, it dies.
-
-**Critical Failure** As failure, but the duration is unlimited.
-
-**Heightened (+2)** The weakness increases by 1, and the maximum level of creature that can be automatically killed increases by 4.
+**Potenciado (+1)** El daño aumenta en 1d4.
 
 ---
 
-## Shared Invisibility · ◆◆ · Spell 3
+## Schadenfreude · ◇ · Conjuro 1
 
-**Traits:** Aura, Illusion, Manipulate, Subtle
+**Rasgos:** Concentrar, Emoción, Mental
 
-**Traditions:** arcane, occult
+**Tradiciones:** arcana, divina, oculta
 
-**Area:** 30-foot emanation; **Targets:** you and up to 5 willing creatures
+**Desencadenante:** Fallas críticamente una tirada de salvación contra el efecto de un enemigo.
 
-**Duration:** 10 minutes
+**Rango:** 30 pies (9 m); **Objetivos:** el enemigo que desencadenó
 
-You and all targets are invisible except to each other as long as the targets remain within the emanation. If a creature made invisible by this spell leaves the spell's area, it becomes visible and remains so even if it returns to the spell's area. If any creature made invisible by this spell uses a hostile action, the spell ends after the hostile action is completed.
+**Defensa:** Voluntad
 
-**Heightened (5th)** The targets increase to you and up to 10 willing creatures. The duration increases to 1 hour.
+Distraes a tu enemigo con su sensación de satisfacción arrogante cuando fracasas catastróficamente. Debe intentar una salvación de Voluntad.
 
----
+**Éxito crítico** La criatura no se ve afectada.
 
-## Shrink Item · Spell 3
+**Éxito** La criatura se distrae por su diversión y recibe un penalizador de estado –1 a las pruebas de Percepción y a las tiradas de salvación de Voluntad durante 1 asalto.
 
-**Traits:** Concentrate, Manipulate, Polymorph
+**Fallo** La criatura se ve superada por su diversión y queda estupefacta 1 durante 1 asalto.
 
-**Traditions:** arcane
-
-**Cast:** 10 minutes
-
-**Range:** touch; **Targets:** 1 non-magical object up to 20 cubic feet in volume and up to 80 Bulk
-
-**Duration:** until your next daily preparations
-
-You shrink the target to roughly the size of a coin with negligible Bulk. You can Dismiss the spell, and the spell ends if you toss the object onto a solid surface. The object can't be used to attack or cause damage during the process of it returning to normal size. If there isn't room for the object to return to normal size when the spell ends, the spell's duration continues until the object is in a location large enough to accommodate its normal size.
+**Fallo crítico** La criatura se pierde en su diversión y queda estupefacta 2 durante 1 asalto y aturdida 1.
 
 ---
 
-## Spell Riposte · ◇ · Spell 7
+## Salvaguarda centelleante · ◇ · Conjuro 6
 
-**Traits:** Uncommon, Manipulate
+**Rasgos:** Manipular
 
-**Traditions:** arcane, divine, occult
+**Tradiciones:** divina, oculta, primigenia
 
-**Trigger:** You're the target of a spell you're aware of.
+**Desencadenante:** Un efecto infligiría daño físico o de energía a ti o a una criatura en alcance.
 
-You attempt to counteract the triggering spell. If the spell would be counteracted, it instead continues with the caster as a target instead of you. Spell riposte can't affect spells that aren't targeted (such as area spells).
+**Rango:** 30 pies (9 m); **Objetivos:** hasta 5 criaturas voluntarias que se verían dañadas por el efecto que desencadenó
 
----
+Una barrera mágica centelleante envuelve a cada objetivo, protegiéndolos contra el efecto desencadenante. Elige un tipo de daño físico o de energía que el efecto desencadenante inflija. Cada objetivo obtiene resistencia 10 contra ese tipo de daño para el efecto desencadenante. La resistencia se aplica solo contra el daño inicial, no contra ningún daño persistente u otros efectos duraderos.
 
-## Spirit Sense · ◆◆ · Spell 2
-
-**Traits:** Concentrate, Detection, Manipulate, Mental
-
-**Traditions:** divine, occult
-
-**Area:** 30-foot emanation
-
-**Duration:** 10 minutes
-
-You open your mind to the metaphysical, enabling you to sense nearby spirits. Even if you aren't Searching, you get a check to find haunts and spirits in the area. You gain a +1 status bonus to the following checks regarding haunts or spirits: Perception checks to Seek, attempts to Recall Knowledge, skill checks to determine the reason for their existence, and skill checks to disable a haunt. You also gain a +1 status bonus to AC and saving throws against haunts and spirits.
-
-**Heightened (6th)** The spell's duration lasts until the next time you make your daily preparations.
+**Potenciado (+1)** La resistencia aumenta en 1.
 
 ---
 
-## Spirit Song · ◆◆ · Spell 8
+## Sellar destino · ◆◆ · Conjuro 4
 
-**Traits:** Concentrate, Manipulate, Spirit
+**Rasgos:** Concentrar, Maldición, Muerte, Manipular
 
-**Traditions:** divine, occult
+**Tradiciones:** arcana, divina, oculta
 
-**Area:** 60-foot cone
+**Rango:** toque; **Objetivos:** 1 criatura viviente
 
-**Defense:** Fortitude
+**Defensa:** Fortaleza; **Duración:** variable
 
-Your eldritch song sends pulsing waves of ethereal energy to attack creatures' spirits in the area, dealing 14d6 spirit damage that causes their bodies to momentarily freeze up from the hypnotic nature of the tune, depending on the result of their Fortitude save. The vibrating waves of spirit song penetrate into, but not through, solid barriers, damaging incorporeal creatures hiding in solid objects in the area but not passing onward to damage creatures in other rooms.
+Pronuncias una maldición por la que una criatura encontrará un cierto fin—una muerte por congelación, apuñalamiento u otro medio que concibas. Elige un tipo de daño de la siguiente lista: ácido, contundente, frío, electricidad, fuego, perforante, cortante, sónico o vacío. El efecto se basa en la salvación de Fortaleza del objetivo.
 
-**Critical Success** The creature takes no damage.
+**Éxito crítico** El objetivo no se ve afectado.
 
-**Success** The creature takes half damage and can't use reactions until the beginning of its turn.
+**Éxito** El objetivo gana debilidad 2 al tipo de daño elegido hasta el final de tu siguiente turno.
 
-**Failure** The creature takes full damage, can't use reactions until the beginning of its turn, and is stunned 1.
+**Fallo** Como éxito, pero la duración es 1 minuto. Si la criatura se reduce a 0 Puntos de Golpe por el daño elegido y su nivel es 7 o menos, muere.
 
-**Critical Failure** The creature takes double damage, can't use reactions until the beginning of its turn, and is stunned 2.
+**Fallo crítico** Como fallo, pero la duración es ilimitada.
 
-**Heightened (+1)** The damage increases by 2d6.
-
----
-
-## Spiritual Epidemic · ◆◆ · Spell 8
-
-**Traits:** Concentrate, Curse, Manipulate, Spirit
-
-**Traditions:** divine, occult
-
-**Range:** 120 feet; **Targets:** 1 creature
-
-**Defense:** Will; **Duration:** varies
-
-You curse the target, sapping its spirit and leaving a contagious trap in its essence. The target must attempt a Will save. Any creature that casts a divine or occult spell on the target while it's affected is targeted by spiritual epidemic and must also attempt a Will save. The curse continues to spread in this way.
-
-**Critical Success** The target is unaffected.
-
-**Success** The target is enfeebled 2 and stupefied 2 for 1 round.
-
-**Failure** The target is enfeebled 2 and stupefied 2 for 1 minute and enfeebled 1 and stupefied 1 permanently.
-
-**Critical Failure** The target is enfeebled 3 and stupefied 3 for 1 minute and enfeebled 2 and stupefied 2 permanently.
+**Potenciado (+2)** La debilidad aumenta en 1, y el nivel máximo de criatura que puede ser matada automáticamente aumenta en 4.
 
 ---
 
-## Spout · ◆◆ · Cantrip 1
+## Invisibilidad compartida · ◆◆ · Conjuro 3
 
-**Traits:** Cantrip, Concentrate, Manipulate, Water
+**Rasgos:** Aura, Ilusión, Manipular, Sutil
 
-**Traditions:** arcane, primal
+**Tradiciones:** arcana, oculta
 
-**Range:** 30 feet; **Area:** a 5-foot cube
+**Área:** emanación de 30 pies (9 m); **Objetivos:** tú y hasta 5 criaturas voluntarias
 
-**Defense:** basic Reflex
+**Duración:** 10 minutos
 
-Water blasts upward, coming out of the ground, rising from a pool, or even manifesting from thin air. Any creatures in the area take 2d4 bludgeoning damage, with a basic Reflex saving throw. A creature that critically fails its save is disoriented by the explosion of water, becoming off-guard until the end of your next turn.
+Tú y todos los objetivos sois invisibles excepto entre vosotros, mientras los objetivos permanezcan dentro de la emanación. Si una criatura hecha invisible por este conjuro abandona el área del conjuro, se vuelve visible y permanece así incluso si regresa al área del conjuro. Si cualquier criatura hecha invisible por este conjuro usa una acción hostil, el conjuro termina después de que se completa la acción hostil.
 
-You can change this spell's area to a 5-foot burst, provided you center the burst in a body of water. This body of water can be as small as a pond or creek, but not as small as a puddle or bathtub.
-
-**Heightened (+1)** The damage increases by 1d4.
+**Potenciado (5.º)** Los objetivos aumentan a ti y hasta 10 criaturas voluntarias. La duración aumenta a 1 hora.
 
 ---
 
-## Strange Geometry · ◆◆◆ · Spell 5
+## Encoger objeto · Conjuro 3
 
-**Traits:** Concentrate, Illusion, Manipulate
+**Rasgos:** Concentrar, Manipular, Polimorfo
 
-**Traditions:** occult
+**Tradiciones:** arcana
 
-**Range:** 60 feet; **Area:** 4 cubes, each 10 feet on a side
+**Lanzamiento:** 10 minutos
 
-**Defense:** Will; **Duration:** 1 minute
+**Rango:** toque; **Objetivos:** 1 objeto no mágico de hasta 20 pies cúbicos de volumen y hasta 80 de Volumen
 
-You cause the areas to appear to swell, bend, and break, twisting together in a bizarre spatial geometry. The cubes of the spell's area can't be adjacent to one another. A creature must attempt a Will save if it's in one of the cubes when you Cast the Spell, or if it later enters one of the areas, with the following effects. A creature interacting with the illusion can also attempt a Will save to disbelieve the illusion, as normal.
+**Duración:** hasta tu siguiente preparación diaria
 
-**Success** The creature disbelieves the illusion.
-
-**Failure** All terrain in the cubes is difficult terrain for the creature, including the air if the creature is flying, walls if it's climbing, and so on. When the creature would exit one of the cubes, it exits from one randomly determined by the GM. This is a teleportation effect. It can exit from any edge of that cube it chooses. When selecting a random cube, the GM excludes any that don't match the creature's terrain; for instance, if the creature were exiting along the ground, the GM would exclude any cube that didn't have an exit on the ground.
+Encoges el objetivo hasta aproximadamente el tamaño de una moneda con Volumen despreciable. Puedes Disipar el conjuro, y el conjuro termina si lanzas el objeto sobre una superficie sólida. El objeto no puede usarse para atacar ni causar daño durante el proceso de volver a su tamaño normal. Si no hay espacio para que el objeto vuelva a su tamaño normal cuando el conjuro termina, la duración del conjuro continúa hasta que el objeto esté en una ubicación lo bastante grande como para acomodar su tamaño normal.
 
 ---
 
-## Sudden Blight · ◆◆ · Spell 2
+## Réplica de conjuro · ◇ · Conjuro 7
 
-**Traits:** Concentrate, Manipulate, Void
+**Rasgos:** Poco común, Manipular
 
-**Traditions:** divine, primal
+**Tradiciones:** arcana, divina, oculta
 
-**Range:** 120 feet; **Area:** 20-foot burst
+**Desencadenante:** Eres el objetivo de un conjuro del que eres consciente.
 
-**Defense:** basic Fortitude
-
-You accelerate the processes of decay in the area. Each living creature in the area takes 2d10 void damage with a basic Fortitude save. A creature afflicted by a disease takes a –2 circumstance penalty to this save.
-
-You can also direct the blight to rot all Small and Tiny non-creature plants in the area, eliminating non-magical undergrowth and any resulting difficult terrain, cover, and concealment. Sudden blight attempts to counteract any magical effect on the plants before withering them.
-
-**Heightened (+1)** The damage increases by 1d10.
+Intentas contrarrestar el conjuro que se desencadenó. Si el conjuro fuera a ser contrarrestado, en su lugar continúa con el lanzador como objetivo en vez de contigo. Réplica de conjuro no puede afectar conjuros que no estén dirigidos (como los conjuros de área).
 
 ---
 
-## Summon Lesser Servitor · ◆◆◆ · Spell 1
+## Sentido espiritual · ◆◆ · Conjuro 2
 
-**Traits:** Concentrate, Manipulate, Summon
+**Rasgos:** Concentrar, Detección, Manipular, Mental
 
-**Traditions:** divine
+**Tradiciones:** divina, oculta
 
-**Range:** 30 feet
+**Área:** emanación de 30 pies (9 m)
 
-**Duration:** sustained up to 1 minute
+**Duración:** 10 minutos
 
-While deities jealously guard their most powerful servants from the summoning spells of those who aren't steeped in the faith, this spell allows you to conjure an inhabitant of the Outer Sphere with or without the deity's permission. You summon a celestial, fiend, or monitor of level –1. You can choose to instead summon an animal of level –1 that hails from the Outer Sphere; you can choose for this animal to gain the celestial and holy traits, the fiend and unholy traits, or the monitor trait.
+Abres tu mente a lo metafísico, permitiéndote percibir espíritus cercanos. Incluso si no estás Buscando, obtienes una comprobación para encontrar apariciones y espíritus en el área. Obtienes un bonificador de estado +1 a las siguientes pruebas con respecto a apariciones o espíritus: pruebas de Percepción para Buscar, intentos de Recordar Conocimiento, pruebas de habilidad para determinar el motivo de su existencia y pruebas de habilidad para desactivar una aparición. También obtienes un bonificador de estado +1 a la CA y a las tiradas de salvación contra apariciones y espíritus.
 
-It's anathema to summon a servitor if it has a holy or unholy trait that isn't allowed for your deity's sanctification. For example, Sarenrae's sanctification is "can choose holy," so you couldn't summon an unholy creature, and Pharasma's is "none," so you couldn't summon a holy or unholy creature. The GM might determine that your deity restricts specific types of creatures further, making it anathema to summon them as well.
-
-**Heightened (2nd)** The creature can be level 1 or lower.
-
-**Heightened (3rd)** The creature can be level 2 or lower.
-
-**Heightened (4th)** The creature can be level 3 or lower.
+**Potenciado (6.º)** La duración del conjuro se extiende hasta tu próxima preparación diaria.
 
 ---
 
-## Synesthesia · ◆◆ · Spell 5
+## Canción espiritual · ◆◆ · Conjuro 8
 
-**Traits:** Concentrate, Manipulate, Mental
+**Rasgos:** Concentrar, Manipular, Espíritu
 
-**Traditions:** occult
+**Tradiciones:** divina, oculta
 
-**Range:** 30 feet; **Targets:** 1 creature
+**Área:** cono de 60 pies (18 m)
 
-**Defense:** Will; **Duration:** varies
+**Defensa:** Fortaleza
 
-The target's senses are suddenly rewired in unexpected ways, causing them to process noises as bursts of color, smells as sounds, and so on. This has three effects, and the target must attempt a Will save.
+Tu canción arcana envía ondas pulsantes de energía etérea para atacar los espíritus de las criaturas en el área, infligiendo 14d6 de daño espiritual que hace que sus cuerpos se paralicen momentáneamente por la naturaleza hipnótica de la melodía, dependiendo del resultado de su salvación de Fortaleza. Las ondas vibrantes de canción espiritual penetran en, pero no a través de, barreras sólidas, dañando a criaturas incorpóreas que se esconden en objetos sólidos en el área, pero sin pasar más allá para dañar a criaturas en otras habitaciones.
 
-- Due to the distraction, the target must succeed at a DC 5 flat check each time it uses a concentrate action, or the action fails and is wasted.
-- The target's difficulty processing visual input makes all creatures and objects concealed from it.
-- The creature has trouble moving, making it clumsy 3 and giving it a –10-foot status penalty to its Speeds.
+**Éxito crítico** La criatura no recibe daño.
 
-**Critical Success** The target is unaffected.
+**Éxito** La criatura recibe la mitad de daño y no puede usar reacciones hasta el comienzo de su turno.
 
-**Success** The target is affected for 1 round.
+**Fallo** La criatura recibe el daño completo, no puede usar reacciones hasta el comienzo de su turno, y queda aturdida 1.
 
-**Failure** The target is affected for 1 minute.
+**Fallo crítico** La criatura recibe el doble de daño, no puede usar reacciones hasta el comienzo de su turno, y queda aturdida 2.
 
-**Critical Failure** As failure, and the target is stunned 2 as it attempts to process the sensory shifts.
+**Potenciado (+1)** El daño aumenta en 2d6.
 
-**Heightened (9th)** You can target up to five creatures.
+---
+
+## Epidemia espiritual · ◆◆ · Conjuro 8
+
+**Rasgos:** Concentrar, Maldición, Manipular, Espíritu
+
+**Tradiciones:** divina, oculta
+
+**Rango:** 120 pies (36 m); **Objetivos:** 1 criatura
+
+**Defensa:** Voluntad; **Duración:** variable
+
+Maldices al objetivo, agotando su espíritu y dejando una trampa contagiosa en su esencia. El objetivo debe intentar una salvación de Voluntad. Cualquier criatura que lance un conjuro divino u oculto sobre el objetivo mientras esté afectado es objetivo de epidemia espiritual y también debe intentar una salvación de Voluntad. La maldición continúa propagándose de esta manera.
+
+**Éxito crítico** El objetivo no se ve afectado.
+
+**Éxito** El objetivo queda debilitado 2 y estupefacto 2 durante 1 asalto.
+
+**Fallo** El objetivo queda debilitado 2 y estupefacto 2 durante 1 minuto y debilitado 1 y estupefacto 1 de forma permanente.
+
+**Fallo crítico** El objetivo queda debilitado 3 y estupefacto 3 durante 1 minuto y debilitado 2 y estupefacto 2 de forma permanente.
+
+---
+
+## Chorro · ◆◆ · Truco 1
+
+**Rasgos:** Truco, Concentrar, Manipular, Agua
+
+**Tradiciones:** arcana, primigenia
+
+**Rango:** 30 pies (9 m); **Área:** un cubo de 5 pies (1,5 m)
+
+**Defensa:** salvación básica de Reflejos
+
+El agua explota hacia arriba, saliendo del suelo, elevándose desde una poza o incluso manifestándose de la nada. Cualquier criatura en el área sufre 2d4 de daño contundente (salvación básica de Reflejos). Una criatura que falle críticamente su salvación queda desorientada por la explosión de agua, pasando a estar desprevenida hasta el final de tu siguiente turno.
+
+Puedes cambiar el área de este conjuro a una explosión de 5 pies, siempre que centres la explosión en un cuerpo de agua. Este cuerpo de agua puede ser tan pequeño como un estanque o arroyo, pero no tan pequeño como un charco o una bañera.
+
+**Potenciado (+1)** El daño aumenta en 1d4.
+
+---
+
+## Geometría extraña · ◆◆◆ · Conjuro 5
+
+**Rasgos:** Concentrar, Ilusión, Manipular
+
+**Tradiciones:** oculta
+
+**Rango:** 60 pies (18 m); **Área:** 4 cubos, cada uno de 10 pies (3 m) por lado
+
+**Defensa:** Voluntad; **Duración:** 1 minuto
+
+Haces que las áreas parezcan hincharse, doblarse y quebrarse, retorciéndose juntas en una geometría espacial extraña. Los cubos del área del conjuro no pueden ser adyacentes entre sí. Una criatura debe intentar una salvación de Voluntad si está en uno de los cubos cuando lanzas el conjuro, o si más tarde entra en una de las áreas, con los siguientes efectos. Una criatura que interactúe con la ilusión también puede intentar una salvación de Voluntad para descreer la ilusión, como es normal.
+
+**Éxito** La criatura descree la ilusión.
+
+**Fallo** Todo el terreno en los cubos es terreno difícil para la criatura, incluyendo el aire si la criatura está volando, las paredes si está trepando, etc. Cuando la criatura saldría de uno de los cubos, sale de uno determinado aleatoriamente por el DJ. Este es un efecto de teletransportación. Puede salir por cualquier borde de ese cubo que elija. Al seleccionar un cubo al azar, el DJ excluye cualquiera que no coincida con el terreno de la criatura; por ejemplo, si la criatura estuviera saliendo por el suelo, el DJ excluiría cualquier cubo que no tuviera una salida en el suelo.
+
+---
+
+## Plaga súbita · ◆◆ · Conjuro 2
+
+**Rasgos:** Concentrar, Manipular, Vacío
+
+**Tradiciones:** divina, primigenia
+
+**Rango:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)
+
+**Defensa:** salvación básica de Fortaleza
+
+Aceleras los procesos de descomposición en el área. Cada criatura viviente en el área sufre 2d10 de daño de vacío con una salvación básica de Fortaleza. Una criatura afligida por una enfermedad recibe un penalizador circunstancial –2 a esta salvación.
+
+También puedes dirigir la plaga para pudrir todas las plantas no criaturas Pequeñas y Diminutas en el área, eliminando la maleza no mágica y cualquier terreno difícil, cobertura y ocultación resultantes. Plaga súbita intenta contrarrestar cualquier efecto mágico en las plantas antes de marchitarlas.
+
+**Potenciado (+1)** El daño aumenta en 1d10.
+
+---
+
+## Invocar servitor menor · ◆◆◆ · Conjuro 1
+
+**Rasgos:** Concentrar, Manipular, Invocar
+
+**Tradiciones:** divina
+
+**Rango:** 30 pies (9 m)
+
+**Duración:** sostenido hasta 1 minuto
+
+Aun cuando las deidades protegen celosamente a sus siervos más poderosos de los conjuros de invocación de quienes no están inmersos en la fe, este conjuro te permite conjurar a un habitante de la Esfera Exterior con o sin el permiso de la deidad. Invocas un celestial, infernal o monitor de nivel –1. Puedes elegir en su lugar invocar un animal de nivel –1 que provenga de la Esfera Exterior; puedes elegir que este animal gane los rasgos celestial y santo, los rasgos infernal y profano, o el rasgo monitor.
+
+Es anatema invocar un servitor si posee un rasgo santo o profano que no esté permitido por la santificación de tu deidad. Por ejemplo, la santificación de Sarenrae es «puede elegir santo», por lo que no podrías invocar una criatura profana; y la de Pharasma es «ninguno», por lo que no podrías invocar una criatura santa o profana. El DJ puede determinar que tu deidad restringe aún más tipos específicos de criaturas, haciendo que también sea anatema invocarlas.
+
+**Potenciado (2.º)** La criatura puede ser de nivel 1 o inferior.
+
+**Potenciado (3.º)** La criatura puede ser de nivel 2 o inferior.
+
+**Potenciado (4.º)** La criatura puede ser de nivel 3 o inferior.
+
+---
+
+## Sinestesia · ◆◆ · Conjuro 5
+
+**Rasgos:** Concentrar, Manipular, Mental
+
+**Tradiciones:** oculta
+
+**Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
+
+**Defensa:** Voluntad; **Duración:** variable
+
+Los sentidos del objetivo se reconfiguran repentinamente de formas inesperadas, haciendo que procese los sonidos como ráfagas de color, los olores como sonidos, y así sucesivamente. Esto tiene tres efectos, y el objetivo debe intentar una salvación de Voluntad.
+
+- Debido a la distracción, el objetivo debe superar una prueba simple CD 5 cada vez que use una acción de concentrar, o la acción falla y se pierde.
+- La dificultad del objetivo para procesar información visual hace que todas las criaturas y objetos estén ocultos para él.
+- La criatura tiene problemas para moverse, quedando torpe 3 y recibiendo un penalizador de estado –10 pies a sus Velocidades.
+
+**Éxito crítico** El objetivo no se ve afectado.
+
+**Éxito** El objetivo se ve afectado durante 1 asalto.
+
+**Fallo** El objetivo se ve afectado durante 1 minuto.
+
+**Fallo crítico** Como fallo, y el objetivo queda aturdido 2 mientras intenta procesar los cambios sensoriales.
+
+**Potenciado (9.º)** Puedes apuntar hasta a cinco criaturas.
