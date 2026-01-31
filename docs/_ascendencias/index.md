@@ -7,8 +7,6 @@ description: Contenido del capítulo Ascendencias
 
 Elige tu ascendencia para comenzar tu aventura en Pathfinder 2e. Cada ascendencia ofrece habilidades únicas, estadísticas y una perspectiva diferente del mundo de Golarion.
 
-## Ascendencias
-
 | Ascendencia | Descripción |
 |------------|-------------|
 | [Humano]({{ '/ascendencias/humano/' | relative_url }}) | Tan impredecibles y variados como cualquiera de los pueblos de Golarion, los humanos tienen un empuje excepcional y la capacidad de aguantar y expandirse. Ambición, versatilidad y potencial excepcional. |

@@ -28,8 +28,3 @@ Las habilidades miden tu entrenamiento en actividades específicas y determinan 
 | [Sigilo]({{ '/habilidades/sigilo/' | relative_url }}) | Eres hábil en evitar la detección, lo que te permite pasar desapercibido por delante de tus enemigos, esconderte u ocultar un objeto. |
 | [Sociedad]({{ '/habilidades/sociedad/' | relative_url }}) | Entiendes a la gente y a los sistemas que hacen funcionar a la civilización, y conoces los acontecimientos históricos. |
 | [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}) | Eres hábil en vivir en las tierras vírgenes, forrajeando en busca de comida y sabiendo construir refugios. |
-
-## Recursos Adicionales
-
-- [Acciones de Habilidad Generales]({{ '/habilidades/acciones-generales/' | relative_url }}) - Acciones que puedes realizar con múltiples habilidades
-- [Tabla de Habilidades]({{ '/habilidades/tabla/' | relative_url }}) - Referencia rápida de todas las habilidades y sus acciones
