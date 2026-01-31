@@ -35,7 +35,7 @@ Algunos conjuros y aptitudes pueden afectar a tu compañero. Cuando se utiliza "
 
 Algunos conjuros son aun mas específicos. Por ejemplo, si el conjuro dice "designa como objetivo a tu familiar", solo puedes lanzarlo sobre un familiar, no sobre otros tipos de compañero. Si Lanzas un conjuro que tan solo puede beneficiar a un tipo de criatura del que no dispones, como por ejemplo Lanzar un conjuro que tan solo puede designar como objetivo a un familiar cuando no lo tienes, el conjuro no hace nada.
 
-Si el conjuro afectaria a una aptitud que la criatura no tiene, no le concedera dicha aptitud a menos que el conjuro lo especifique explicitamente. Por ejemplo un conjuro que hace que tu compañero de un Golpe no permitiria a un familiar dar un Golpe, pero si le concederia todos los demas beneficios del conjuro.
+Si el conjuro afectaria a una aptitud que la criatura no tiene, no le concedera dicha aptitud a menos que el conjuro lo especifique explicitamente. Por ejemplo un conjuro que hace que tu compañero de un Golpe no permitiria a un familiar dar un Golpe, pero si le concederia todos los demás beneficios del conjuro.
 
 ---
 
@@ -66,7 +66,7 @@ Las siguientes aptitudes que puedes elegir de la dote general Mascota se pueden 
 
 **Complice:** Tu familiar es tu socio en el delito. A pesar de ser un esbirro, obtiene 1 reaccion al inicio de sus turnos, que tan solo puede utilizar para Prestarte ayuda en una prueba de habilidad de Engaño o de Latrocinio (sigue teniendo que prepararla para ayudarte de la forma habitual para la reaccion Prestar ayuda). Tiene exito automaticamente en su prueba de Prestar ayuda con dichas habilidades u obtiene automaticamente un exito critico si tienes el rango maestro en la habilidad en cuestion.
 
-**Constructo:** Tu familiar tiene el rasgo constructo en lugar del rasgo animal. Es inmune a los ataques no letales, condenado, curacion, drenado, efectos de muerte, enfermedad, espiritu, fatigado, inconsciente, mareado, paralizado, vacio, veneno y vitalidad. Tu familiar ha de tener la aptitud de mascota recio para seleccionar esto.
+**Constructo:** Tu familiar tiene el rasgo constructo en lugar del rasgo animal. Es inmune a los ataques no letales, condenado, curacion, drenado, efectos de muerte, enfermedad, espiritu, fatigado, inconsciente, mareado, paralizado, vacío, veneno y vitalidad. Tu familiar ha de tener la aptitud de mascota recio para seleccionar esto.
 
 **Dragon:** Tu familiar tiene el rasgo dragon en lugar del rasgo animal.
 
@@ -74,9 +74,9 @@ Las siguientes aptitudes que puedes elegir de la dote general Mascota se pueden 
 
 **Evitar el daño:** Elige un tipo de salvacion. Tu familiar no sufre daño cuando obtienes un exito en ese tipo de salvacion; esto no evita efectos diferentes al daño.
 
-**Forma de planta:** Tu familiar planta puede cambiar de forma como una sola accion, transformandose en una planta Menuda de un tipo aproximadamente similar a la naturaleza del familiar. Por lo demas esto utiliza los efectos de uno con las plantas. Para seleccionar esta aptitud has de tener un familiar con el rasgo planta.
+**Forma de planta:** Tu familiar planta puede cambiar de forma como una sola accion, transformandose en una planta Menuda de un tipo aproximadamente similar a la naturaleza del familiar. Por lo demás esto utiliza los efectos de uno con las plantas. Para seleccionar esta aptitud has de tener un familiar con el rasgo planta.
 
-**Forma del amo:** Tu familiar puede cambiar de forma como una unica accion, transformandose en un humanoide de tu ascendencia con la misma edad, genero y complexion de su autentica forma, aunque siempre mantiene un residuo claramente antinatural de su naturaleza, como ojos de gato o lengua de serpiente. Esta forma es siempre la misma cada vez que utiliza esta aptitud. Por lo demas, esta aptitud utiliza los efectos de forma de humanoide, excepto que el cambio es puramente cosmetico. Tan solo parece ser humanoide, y no obtiene capacidades nuevas. Tu familiar ha de tener las aptitudes de familiar destreza manual y habla para seleccionar esto.
+**Forma del amo:** Tu familiar puede cambiar de forma como una unica accion, transformandose en un humanoide de tu ascendencia con la misma edad, genero y complexion de su autentica forma, aunque siempre mantiene un residuo claramente antinatural de su naturaleza, como ojos de gato o lengua de serpiente. Esta forma es siempre la misma cada vez que utiliza esta aptitud. Por lo demás, esta aptitud utiliza los efectos de forma de humanoide, excepto que el cambio es puramente cosmetico. Tan solo parece ser humanoide, y no obtiene capacidades nuevas. Tu familiar ha de tener las aptitudes de familiar destreza manual y habla para seleccionar esto.
 
 **Habil:** Elige una habilidad diferente a Acrobacias o Sigilo. El modificador de tu familiar para dicha habilidad es igual a tu nivel mas tu modificador por atributo de lanzamiento de conjuros, en lugar de tan solo tu nivel. Puedes seleccionar esta aptitud repetidamente, eligiendo una habilidad diferente cada vez.
 
@@ -88,13 +88,13 @@ Las siguientes aptitudes que puedes elegir de la dote general Mascota se pueden 
 
 **Independiente:** En un encuentro, si no Comandas a tu familiar, sigue obteniendo 1 accion por asalto. Tipicamente, sigues pudiendo decidir como la invierte, pero el DJ podria determinar que elige sus propias tacticas en lugar de llevar a cabo la accion preferida por ti. Esto no funciona con ayudante o aptitudes similares que requieren una orden, si eres capaz de montar a tu familiar o en situaciones similares.
 
-**Lanzamiento de conjuros:** Elige un conjuro de tu repertorio o que has preparado hoy, por lo menos 5 rangos menor que tu espacio de conjuro de rango superior. Tu familiar puede Lanzar dicho conjuro una vez al dia utilizando tu tradicion magica, tu modificador al ataque de conjuros y tu CD de conjuro. Si el conjuro tiene un inconveniente que afecta al lanzador, tanto tu familiar como tu os veis afectados. Tienes que ser capaz de lanzar conjuros de 6.º rango utilizando espacios de conjuro para seleccionar esto.
+**Lanzamiento de conjuros:** Elige un conjuro de tu repertorio o que has preparado hoy, por lo menos 5 rangos menor que tu espacio de conjuro de rango superior. Tu familiar puede Lanzar dicho conjuro una vez al dia utilizando tu tradición magica, tu modificador al ataque de conjuros y tu CD de conjuro. Si el conjuro tiene un inconveniente que afecta al lanzador, tanto tu familiar como tu os veis afectados. Tienes que ser capaz de lanzar conjuros de 6.º rango utilizando espacios de conjuro para seleccionar esto.
 
 **Planta:** Tu familiar tiene el rasgo planta en lugar del rasgo animal.
 
 **Portaherramientas:** Tu familiar puede acarrear un juego de herramientas de hasta Impedimenta ligera. Mientras tu familiar esta adyacente a ti, puedes extraer y reemplazar las herramientas como parte de la accion que las utiliza como si las llevaras en tu persona. Tu familiar ha de tener la aptitud de familiar destreza manual para seleccionar esto.
 
-**Rejuvenecimiento enfocado:** Cuando Reenfocas, generas energia magica que cura a tu familiar. Tu familiar recupera 1 Punto de Golpe por nivel cada vez que Reenfocas.
+**Rejuvenecimiento enfocado:** Cuando Reenofcas, generas energia magica que cura a tu familiar. Tu familiar recupera 1 Punto de Golpe por nivel cada vez que Reenofcas.
 
 **Resistencia:** Elige dos de las siguientes: acido, electricidad, frio, fuego, sonico o veneno. Tu familiar obtiene tanta resistencia como la mitad de tu nivel (resistencia minima 1) contra los tipos de daño elegidos.
 
@@ -110,19 +110,19 @@ Las siguientes aptitudes que puedes elegir de la dote general Mascota se pueden 
 
 Las aptitudes de amo te afectan principalmente a ti o a la magia que circula entre tu familiar y tu.
 
-**Absorber familiar:** Tu familiar se puede transformar en una marca que llevas sobre la piel, tipicamente como una marca de nacimiento, un tatuaje o una gema que se parecen vagamente a su forma normal. Cuando esta transformado, el familiar no puede actuar excepto para volver a convertirse en un familiar. No se ve afectado por los efectos de area y tiene que ser designado como objetivo de forma separada para afectarle, lo que requiere saber que se trata de una criatura. Esto significa que tus aliados y tu podeis curar o ayudar al familiar mientras la mayoria de enemigos ignora su autentica naturaleza. Las criaturas tienen que hacer una prueba de Percepcion CD 20 para Buscar y darse cuenta de que en realidad es un familiar. Tu familiar sigue pudiendo comunicar empaticamente sus sentimientos. Hacer cambiar de forma al familiar es una actividad de 1 minuto con el rasgo concentrar.
+**Absorber familiar:** Tu familiar se puede transformar en una marca que llevas sobre la piel, tipicamente como una marca de nacimiento, un tatuaje o una gema que se parecen vagamente a su forma normal. Cuando esta transformado, el familiar no puede actuar excepto para volver a convertirse en un familiar. No se ve afectado por los efectos de area y tiene que ser designado como objetivo de forma separada para afectarle, lo que requiere saber que se trata de una criatura. Esto significa que tus aliados y tu podeis curar o ayudar al familiar mientras la mayoría de enemigos ignora su autentica naturaleza. Las criaturas tienen que hacer una prueba de Percepción CD 20 para Buscar y darse cuenta de que en realidad es un familiar. Tu familiar sigue pudiendo comunicar empaticamente sus sentimientos. Hacer cambiar de forma al familiar es una actividad de 1 minuto con el rasgo concentrar.
 
 **Bateria de conjuros:** Obtienes un espacio de conjuro adicional por lo menos 3 rangos menor que tu espacio de conjuro de mayor rango; tienes que ser capaz de lanzar conjuros de 4.º rango utilizando espacios de conjuro para seleccionar esta aptitud de amo.
 
-**Compartir sentidos:** Una vez cada 10 minutos, puedes usar una sola accion con el rasgo concentrar para proyectar tus sentidos a tu familiar. Cuando lo haces, pierdes toda la informacion sensorial de tu cuerpo, pero puedes sentir a traves del cuerpo de tu familiar hasta 1 minuto. Puedes Disipar este efecto.
+**Compartir sentidos:** Una vez cada 10 minutos, puedes usar una sola accion con el rasgo concentrar para proyectar tus sentidos a tu familiar. Cuando lo haces, pierdes toda la información sensorial de tu cuerpo, pero puedes sentir a traves del cuerpo de tu familiar hasta 1 minuto. Puedes Disipar este efecto.
 
 **Conexion de truco:** Puedes preparar un truco adicional o, si dispones de un repertorio, designar un truco que añadir a tu repertorio cada vez que seleccionas esta aptitud; puedes reconvertirlo, pero no tienes otra manera de cambiarlo. Tienes que ser capaz de preparar trucos o de añadirlos a tu repertorio para seleccionar esto.
 
 **Familiar restablecedor:** Una vez al dia, tu familiar puede utilizar 2 acciones con el rasgo concentrar para otorgarte parte de su energia y curarte. Tiene que estar en tu mismo espacio para hacerlo. Recuperas tantos puntos de Golpe como 1d8 veces la mitad de tu nivel (minimo 1d8).
 
-**Foco de familiar:** Una vez al dia, tu familiar puede usar 2 acciones con el rasgo concentrar para restablecer 1 Punto de Foco a tu reserva de foco, hasta tu maximo habitual. Para seleccionar esto, has de tener una reserva de foco.
+**Foco de familiar:** Una vez al dia, tu familiar puede usar 2 acciones con el rasgo concentrar para restablecer 1 Punto de Foco a tu reserva de foco, hasta tu máximo habitual. Para seleccionar esto, has de tener una reserva de foco.
 
-**Oleada innata:** Una vez al dia, puedes recurrir a la magia innata de tu familiar para restablecer la tuya. Puedes lanzar un conjuro innato obtenido de una dote de ascendencia que ya has lanzado hoy. Aun sigues teniendo que Lanzar el conjuro y cumplir los demas requisitos del mismo.
+**Oleada innata:** Una vez al dia, puedes recurrir a la magia innata de tu familiar para restablecer la tuya. Puedes lanzar un conjuro innato obtenido de una dote de ascendencia que ya has lanzado hoy. Aun sigues teniendo que Lanzar el conjuro y cumplir los demás requisitos del mismo.
 
 **Recuperar familiar:** Una vez al dia, puedes utilizar una actividad de 3 acciones, con el rasgo concentrar, para teletransportar a tu espacio a tu familiar. Tu familiar ha de estar a 1 milla (1,6 km) o menos de ti, o el intento de convocarlo falla. Este es un efecto de teletransporte.
 

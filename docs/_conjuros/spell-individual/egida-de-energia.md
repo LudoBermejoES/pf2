@@ -19,6 +19,6 @@ spell_level: 7
 
 ---
 
-Proteges al objetivo con una barrera de energia poderosa y de larga duracion. El objetivo obtiene resistencia 5 a acido, electricidad, frio, fuego, fuerza, sonico, vitalidad y vacio.
+Proteges al objetivo con una barrera de energia poderosa y de larga duracion. El objetivo obtiene resistencia 5 a acido, electricidad, frio, fuego, fuerza, sonico, vitalidad y vacío.
 
 **Potenciado (9.o)** Las resistencias se incrementan a 10.

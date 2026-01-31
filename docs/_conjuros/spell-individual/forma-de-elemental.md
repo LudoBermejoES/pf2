@@ -21,15 +21,15 @@ spell_level: 5
 Llamas al poder de los Planos para transformarte en una forma de batalla elemental Mediana. Cuando Lanzas este conjuro, elige un elemento de los indicados. Cuando estas en esta forma obtienes el rasgo correspondiente ademas del rasgo elemental. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar el conjuro.
 
 Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
-- CA = 19 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+- CA = 19 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 10 Puntos de Golpe temporales.
 - Vision en la oscuridad.
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +18 y tu bonificador al dano es +9. Son ataques basados en la Destreza (aire, fuego o metal) o en la Fuerza (agua, madera o tierra). Si tu modificador por ataque sin armas correspondiente es mayor, puedes usarlo en su lugar.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +18 y tu bonificador al dano es +9. Son ataques basados en la Destreza (aire, fuego o metal) o en la Fuerza (agua, madera o tierra). Si tu modificador por ataque sin armas correspondiente es mayor, puedes usarlo en su lugar.
 - Acrobacias (aire, fuego o metal) o Atletismo (agua, madera o tierra), modificador +20; ignora este cambio si tu propio modificador es mas grande.
 
 Obtienes aptitudes especificas basadas en el elemento elegido:
 
-**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo ◆ ola, Dano 1d12 contundente y despues de un impacto puedes invertir de inmediato una accion para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujon con exito.
+**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo ◆ ola, Dano 1d12 contundente y después de un impacto puedes invertir de inmediato una accion para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujón con exito.
 
 **Aire** volar 80 pies (24 m), tu movimiento no desencadena reacciones; Cuerpo a cuerpo ◆ rafaga, Dano 1d4 contundente.
 

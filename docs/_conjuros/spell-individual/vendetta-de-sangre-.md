@@ -13,7 +13,7 @@ spell_level: 2
 **Defensa:** Voluntad; **Duracion:** variable
 
 <div class="spell-traits-wrapper" markdown="0">
-<span class="trait-tag">Maldicion</span>
+<span class="trait-tag">Maldición</span>
 </div>
 
 ---

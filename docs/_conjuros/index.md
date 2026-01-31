@@ -17,7 +17,7 @@ Contenido del capítulo Conjuros
 - [Conjuros T-Z]({{ '/conjuros/conjuros/t-z/' | relative_url }})
 - [Conjuros de Foco: Bardo]({{ '/conjuros/conjuros-foco/bardo/' | relative_url }})
 - [Conjuros de Foco: Brujo]({{ '/conjuros/conjuros-foco/brujo/' | relative_url }})
-- [Conjuros de Foco: Clérigo]({{ '/conjuros/conjuros-foco/clerigo/' | relative_url }})
+- [Conjuros de Foco: Clérigo]({{ '/conjuros/conjuros-foco/clérigo/' | relative_url }})
 - [Conjuros de Foco: Druida]({{ '/conjuros/conjuros-foco/druida/' | relative_url }})
 - [Conjuros de Foco: Explorador]({{ '/conjuros/conjuros-foco/explorador/' | relative_url }})
 - [Conjuros de Foco: Mago]({{ '/conjuros/conjuros-foco/mago/' | relative_url }})

@@ -18,7 +18,7 @@ spell_level: 3
 
 ---
 
-Espiritus de mono magicos llenan el area amontonandose y subiendose unos encima de otros. Como quiera que son espiritus magicos, no pueden ser ni atacados ni danados. Un lanzamiento de calmar o un efecto similar sobre los monos hace que se vuelvan dociles.
+Espiritus de mono mágicos llenan el area amontonándose y subiéndose unos encima de otros. Como quiera que son espiritus mágicos, no pueden ser ni atacados ni danados. Un lanzamiento de calmar o un efecto similar sobre los monos hace que se vuelvan dociles.
 
 Elige el tipo de travesura que tus monos llevan a cabo cuando Lanzas el conjuro. Eso contiene como resultado el efecto indicado para dicha travesura cuando Lanzas el conjuro y la primera vez de cada asalto en que Mantienes el conjuro. La primera vez que Mantienes el conjuro cada asalto, puedes mover el area de los monos 5 pies (1,5 m).
 

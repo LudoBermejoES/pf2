@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /habilidades/intimidacion/
+permalink: /habilidades/intimidación/
 title: Intimidación (Car)
 chapter: Habilidades
 category: habilidades
@@ -41,7 +41,7 @@ Con amenazas veladas o directas, tratas de obligar a una criatura a que haga lo 
 
 ## Referencia de actitudes
 
-Las actitudes a las que se hace referencia en los efectos de Obligar se resumen a continuacion (de mejor a peor):
+Las actitudes a las que se hace referencia en los efectos de Obligar se resumen a continuación (de mejor a peor):
 
 - **Solicito:** deseoso de ayudarte, responde favorablemente a tus peticiones.
 - **Amistoso:** tiene una buena actitud hacia ti, pero no necesariamente arriesgara el pellejo para ayudarte.

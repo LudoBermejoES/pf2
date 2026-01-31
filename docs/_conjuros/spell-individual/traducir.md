@@ -18,7 +18,7 @@ spell_level: 2
 
 ---
 
-El objetivo puede entender el significado de un solo idioma que esta oyendo o leyendo cuando Lanzas el conjuro. Esto no le permite entender codigos, un texto lleno de metaforas y cosas parecidas (sujeto a la discrecion del DJ). Si el objetivo puede oir multiples idiomas, puede elegir que idioma entender; de lo contrario, se elige al azar uno de ellos.
+El objetivo puede entender el significado de un solo idioma que esta oyendo o leyendo cuando Lanzas el conjuro. Esto no le permite entender codigos, un texto lleno de metaforas y cosas parecidas (sujeto a la discreción del DJ). Si el objetivo puede oir multiples idiomas, puede elegir que idioma entender; de lo contrario, se elige al azar uno de ellos.
 
 **Potenciado (3.º)** El objetivo tambien puede hablar el idioma.
 

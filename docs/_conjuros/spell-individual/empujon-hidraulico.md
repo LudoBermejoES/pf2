@@ -1,11 +1,11 @@
 ---
 layout: spell
-permalink: /conjuros/empujon-hidraulico/
-title: Empujon Hidraulico
+permalink: /conjuros/empujón-hidraulico/
+title: Empujón Hidraulico
 chapter: Conjuros
 spell_level: 1
 ---
-## Empujon Hidraulico ◆◆ [CONJURO 1]
+## Empujón Hidraulico ◆◆ [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura u objeto desatendido

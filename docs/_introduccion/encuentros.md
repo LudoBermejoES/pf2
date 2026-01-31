@@ -22,11 +22,11 @@ Un encuentro es una secuencia de turnos donde cada participante actua siguiendo 
 
 Al inicio de un encuentro, todos los participantes tiran iniciativa:
 
-| Situacion | Tirada de Iniciativa |
+| Situación | Tirada de Iniciativa |
 |-----------|---------------------|
-| Combate estandar | Percepcion |
+| Combate estandar | Percepción |
 | Emboscada (emboscador) | Sigilo |
-| Situacion social | Engano o Diplomacia |
+| Situación social | Engano o Diplomacia |
 | Otras situaciones | Habilidad relevante |
 
 El Director de Juego (DJ) determina que habilidad es apropiada segun las circunstancias.
@@ -60,7 +60,7 @@ Algunas acciones requieren mas tiempo y consumen multiples acciones:
 
 ### Acciones gratuitas
 
-Las acciones gratuitas no cuentan para tus tres acciones por turno. Pueden tener requisitos especificos o limitaciones de uso.
+Las acciones gratuitas no cuentan para tus tres acciones por turno. Pueden tener requisitos específicos o limitaciones de uso.
 
 ### Reacciones
 
@@ -104,13 +104,13 @@ Este penalizador se reinicia al final de tu turno. Algunas armas con el rasgo ag
 
 ## Tiradas de salvacion
 
-Las tiradas de salvacion representan tu capacidad para resistir efectos daninos. Se tiran cuando algo te afecta y debes evitarlo o reducir su impacto.
+Las tiradas de salvacion representan tu capacidad para resistir efectos dañinos. Se tiran cuando algo te afecta y debes evitarlo o reducir su impacto.
 
 | Tipo | Atributo | Usos comunes |
 |------|----------|--------------|
-| Fortaleza | Constitucion | Veneno, enfermedad, efectos fisicos debilitantes |
+| Fortaleza | Constitución | Veneno, enfermedad, efectos físicos debilitantes |
 | Reflejos | Destreza | Esquivar efectos de area (bola de fuego, trampa) |
-| Voluntad | Sabiduria | Efectos mentales (hechizar, confusion, miedo) |
+| Voluntad | Sabiduría | Efectos mentales (hechizar, confusion, miedo) |
 
 ### Grados de exito en salvaciones
 
@@ -129,7 +129,7 @@ Los Puntos de Golpe representan la salud y vitalidad de una criatura. Cuando rec
 
 | PG actuales | Estado |
 |-------------|--------|
-| Maximo | Plena salud |
+| Máximo | Plena salud |
 | Por encima de 0 | Funcional, posiblemente herido |
 | 0 | Inconsciente y muriendo |
 | Debajo de 0 | No existe; llegas a 0 como minimo |
@@ -184,7 +184,7 @@ Los estados son efectos temporales que modifican las capacidades de una criatura
 | Enfermo X | -X a todas las pruebas y CD |
 | Ralentizado X | Pierdes X acciones al inicio de tu turno |
 | Aturdido X | Pierdes X acciones; no puedes usar reacciones |
-| Cegado | No puedes ver; fallas automaticamente pruebas de Percepcion visuales |
+| Cegado | No puedes ver; fallas automaticamente pruebas de Percepción visuales |
 | Paralizado | No puedes actuar; CA reducida |
 | Inconsciente | No puedes actuar ni percibir; caes derribado |
 
@@ -195,6 +195,6 @@ Un encuentro termina cuando:
 - Todos los enemigos han sido derrotados
 - Una parte se rinde o huye
 - Se alcanza un objetivo especifico
-- El DJ determina que la situacion se ha resuelto
+- El DJ determina que la situación se ha resuelto
 
 Tras el encuentro, los personajes pueden curar heridas, revisar el botin y prepararse para continuar su aventura.

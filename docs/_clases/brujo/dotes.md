@@ -365,7 +365,7 @@ Puedes utilizar Artesanía para convertir tu escoba en una escoba voladora como 
 
 **Rasgos:** Brujo
 
-Las enseñanzas de tu patrón te han permitido conseguir un foco más profundo. Siempre que Reenfocas, rellenas por completo tu reserva de foco.
+Las enseñanzas de tu patrón te han permitido conseguir un foco más profundo. Siempre que Reenofcas, rellenas por completo tu reserva de foco.
 
 ---
 

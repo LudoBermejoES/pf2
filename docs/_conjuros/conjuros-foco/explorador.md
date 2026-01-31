@@ -54,7 +54,7 @@ A tu compañero animal le crece una piel gruesa, un pelaje tupido o una concha m
 
 Tu compañero animal se hace mucho mas grande, quedando por encima de sus enemigos en la batalla. Tu compañero animal pasa al tamaño Grande, obteniendo los efectos de un conjuro de agrandar de 2.º rango.
 
-**Potenciado (4.º)** Tu companero animal pasa al tamano Enorme, obteniendo los efectos de un conjuro de agrandar de 4.º rango.
+**Potenciado (4.º)** Tu companero animal pasa al tamaño Enorme, obteniendo los efectos de un conjuro de agrandar de 4.º rango.
 
 ---
 
@@ -63,7 +63,7 @@ Tu compañero animal se hace mucho mas grande, quedando por encima de sus enemig
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viva voluntaria o 1 criatura muerta viviente
 
-Invocas una bruma magica que envuelve a una criatura. La bruma restablece 2d8 Puntos de Golpe a una criatura objetivo viva y acaba con una fuente de dano persistente por acido, frio, sangrado, dacio o veneno que la afecta. Si la criatura sufre dano persistente debido a multiples origenes, tu seleccionas cual eliminar. Contra un objetivo muerto viviente, infliges 2d8 dano por vitalidad (salvación basica de Fortaleza); si falla la salvación, tambien sufre 2 dano persistente por vitalidad.
+Invocas una bruma magica que envuelve a una criatura. La bruma restablece 2d8 Puntos de Golpe a una criatura objetivo viva y acaba con una fuente de dano persistente por acido, frio, sangrado, dacio o veneno que la afecta. Si la criatura sufre dano persistente debido a multiples orígenes, tu seleccionas cual eliminar. Contra un objetivo muerto viviente, infliges 2d8 dano por vitalidad (salvación basica de Fortaleza); si falla la salvación, tambien sufre 2 dano persistente por vitalidad.
 
 **Potenciado (+1)** La cantidad de curacion (o dano a un objetivo muerto viviente) se incrementa en 1d8 y el dano persistente por vitalidad a una criatura muerta viviente se incrementa en 1.
 
@@ -103,7 +103,7 @@ Tienes una aptitud sobrenatural para recordar detalles acerca de tus enemigos. H
 
 **Duracion:** 1 hora
 
-Puedes contemplar las corrientes en el aire y en el agua y ver rastros que puedes seguir como varias en tierra. Puedes utilizar Supervivencia o Rastrear por el aire y por el agua, detectando "rastros" aéreos o acuáticos de todas las criaturas que han pasado cerca en la ultima hora. Es mas dificil Rastrear de esta forma: la CD para Rastrear por el aire o por el agua siempre es por lo menos 30, o mayor después de que haya habido precipitaciones o viento (en el aire) o fuertes mareas o corrientes (en el agua). Es posible Cubrir rastros contra este conjuro, pero las criaturas podrían no darse cuenta de que necesitan hacerlo.
+Puedes contemplar las corrientes en el aire y en el agua y ver rastros que puedes seguir como varias en tierra. Puedes utilizar Supervivencia o Rastrear por el aire y por el agua, detectando "rastros" aéreos o acuáticos de todas las criaturas que han pasado cerca en la ultima hora. Es mas difícil Rastrear de esta forma: la CD para Rastrear por el aire o por el agua siempre es por lo menos 30, o mayor después de que haya habido precipitaciones o viento (en el aire) o fuertes mareas o corrientes (en el agua). Es posible Cubrir rastros contra este conjuro, pero las criaturas podrían no darse cuenta de que necesitan hacerlo.
 
 ---
 

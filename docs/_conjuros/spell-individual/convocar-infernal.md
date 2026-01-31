@@ -20,6 +20,6 @@ spell_level: 5
 
 ---
 
-Convocas a una criatura con el rasgo infernal y cuyo nivel es 5 o menor para que luche por ti. El DJ podria determinar que tu dios restringe los tipos especificos de infernales a los que puedes convocar en determinados casos. Por ejemplo, los archidiablos permiten tipicamente a sus seguidores que convoquen diablos, pero no otros infernales.
+Convocas a una criatura con el rasgo infernal y cuyo nivel es 5 o menor para que luche por ti. El DJ podria determinar que tu dios restringe los tipos específicos de infernales a los que puedes convocar en determinados casos. Por ejemplo, los archidiablos permiten tipicamente a sus seguidores que convoquen diablos, pero no otros infernales.
 
 **Potenciado** Como se indica en el rasgo convocar.

@@ -18,6 +18,6 @@ spell_level: 9
 
 ---
 
-Aplastas al objetivo haciendo que se colapse sobre si mismo, infligiendo 75 dano. La primera vez de cada asalto en que Mantengas el conjuro, deberas elegir un nuevo objetivo para que se vea sujeto al mismo efecto; la misma criatura no puede ser designada como objetivo mas de una sola vez por un solo lanzamiento de este conjuro. Tampoco puedes afectar a mas de una criatura por turno con implosion. No puedes designar como objetivo a una criatura incorporea, gaseosa o liquida o que de alguna otra forma carece de forma solida.
+Aplastas al objetivo haciendo que se colapso sobre si mismo, infligiendo 75 dano. La primera vez de cada asalto en que Mantengas el conjuro, deberas elegir un nuevo objetivo para que se vea sujeto al mismo efecto; la misma criatura no puede ser designada como objetivo mas de una sola vez por un solo lanzamiento de este conjuro. Tampoco puedes afectar a mas de una criatura por turno con implosion. No puedes designar como objetivo a una criatura incorporea, gaseosa o liquida o que de alguna otra forma carece de forma solida.
 
 **Potenciado (+1)** El dano se incrementa en 10.

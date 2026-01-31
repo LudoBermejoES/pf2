@@ -21,7 +21,7 @@ spell_level: 9
 
 ---
 
-Llenas la mente del objetivo con imagenes inacabables, como suenos incontables y vidas que chocan unas contra otras. La avalancha de informacion inflige 16d6 dano mental a cada objetivo, dependiendo de su salvacion de Voluntad.
+Llenas la mente del objetivo con imagenes inacabables, como suenos incontables y vidas que chocan unas contra otras. La avalancha de información inflige 16d6 dano mental a cada objetivo, dependiendo de su salvacion de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 

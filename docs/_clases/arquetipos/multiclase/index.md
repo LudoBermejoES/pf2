@@ -15,7 +15,7 @@ Los arquetipos multiclase te permiten diversificar tu entrenamiento en las espec
 
 - [Bardo](/clases/arquetipos/multiclase/bardo/) - Conjuros de composición, apoyo a aliados
 - [Brujo](/clases/arquetipos/multiclase/brujo/) - Familiar, conjuros preparados versatiles
-- [Clérigo](/clases/arquetipos/multiclase/clerigo/) - Conjuros divinos, dominios
+- [Clérigo](/clases/arquetipos/multiclase/clérigo/) - Conjuros divinos, dominios
 - [Druida](/clases/arquetipos/multiclase/druida/) - Ordenes druídicas, conjuros de naturaleza
 - [Explorador](/clases/arquetipos/multiclase/explorador/) - Supervivencia, combate a distancia
 - [Guerrero](/clases/arquetipos/multiclase/guerrero/) - Armas marciales, combate
@@ -26,12 +26,12 @@ Los arquetipos multiclase te permiten diversificar tu entrenamiento en las espec
 
 ## Resumen de arquetipos multiclase
 
-| Clase | Prerrequisito | Tradicion/Tipo | Beneficio principal |
+| Clase | Prerrequisito | Tradición/Tipo | Beneficio principal |
 |-------|---------------|----------------|---------------------|
 | Bardo | Carisma +2 | Ocultista | Conjuros de composicion, apoyo a aliados |
 | Brujo | Inteligencia +2 | Segun patron | Familiar, conjuros preparados versatiles |
-| Clerigo | Sabiduria +2 | Divino | Conjuros divinos, dominios |
-| Druida | Sabiduria +2 | Primigenio | Ordenes druidicas, conjuros de naturaleza |
+| Clérigo | Sabiduría +2 | Divino | Conjuros divinos, dominios |
+| Druida | Sabiduría +2 | Primigenio | Ordenes druidicas, conjuros de naturaleza |
 | Explorador | Destreza +2 | - | Supervivencia, combate a distancia |
 | Guerrero | Fuerza +2, Destreza +2 | - | Armas marciales, combate |
 | Mago | Inteligencia +2 | Arcano | Libro de conjuros, escuelas arcanas |

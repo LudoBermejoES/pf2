@@ -11,7 +11,7 @@ Pathfinder es un juego de rol de mesa en el que un grupo de jugadores asume el p
 
 El juego se desarrolla en tres modos principales, cada uno con su propio ritmo y reglas:
 
-**Exploracion**: Los personajes viajan, investigan, interactuan con el entorno y se preparan para lo que viene. El tiempo fluye de forma flexible, y las acciones se resuelven de manera narrativa.
+**Exploración**: Los personajes viajan, investigan, interactúan con el entorno y se preparan para lo que viene. El tiempo fluye de forma flexible, y las acciones se resuelven de manera narrativa.
 
 **Encuentros**: Cuando estalla el conflicto, el juego pasa a un sistema estructurado de turnos. Cada participante actua en orden de iniciativa, y las acciones se miden con precision.
 

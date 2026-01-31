@@ -19,6 +19,6 @@ spell_level: 5
 
 ---
 
-El objetivo puede entender todas las palabras, sea cual sea el idioma y tambien habla los idiomas de las demas criaturas. Cuando se encuentra en un grupo mixto de criaturas, cada vez que el objetivo habla puede elegir a una criatura y hablar en un idioma que esta entiende, incluso si no sabe de que idioma se trata.
+El objetivo puede entender todas las palabras, sea cual sea el idioma y tambien habla los idiomas de las demás criaturas. Cuando se encuentra en un grupo mixto de criaturas, cada vez que el objetivo habla puede elegir a una criatura y hablar en un idioma que esta entiende, incluso si no sabe de que idioma se trata.
 
 **Potenciado (7.o)** La duracion es 8 horas.

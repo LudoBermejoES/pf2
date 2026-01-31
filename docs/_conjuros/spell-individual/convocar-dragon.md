@@ -19,6 +19,6 @@ spell_level: 5
 
 ---
 
-Convocas a una criatura con el rasgo dragon y cuyo nivel es 5 o menor para que luche por ti. Si el dragon tiene un rasgo de tradicion magica (arcano, divino, ocultista o primigenio), solo puedes convocarlo si estas utilizando dicha tradicion para lanzar convocar dragon.
+Convocas a una criatura con el rasgo dragon y cuyo nivel es 5 o menor para que luche por ti. Si el dragon tiene un rasgo de tradición magica (arcano, divino, ocultista o primigenio), solo puedes convocarlo si estas utilizando dicha tradición para lanzar convocar dragon.
 
 **Potenciado** Como se indica en el rasgo convocar.

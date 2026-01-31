@@ -18,10 +18,10 @@ spell_level: 8
 
 ---
 
-Te transformas una forma de batalla de animal Menudo, como por ejemplo un gato, un insecto, un lagarto o una rata. Tu eres quien decide el tipo especifico de animal (como por ejemplo una rata o una mantis religiosa), pero eso no afecta ni a tu Tamano ni a tus estadisticas. En esta forma, tienes el rasgo animal y no puedes llevar a cabo Golpes. Puedes Disipar el conjuro.
+Te transformas una forma de batalla de animal Menudo, como por ejemplo un gato, un insecto, un lagarto o una rata. Tu eres quien decide el tipo especifico de animal (como por ejemplo una rata o una mantis religiosa), pero eso no afecta ni a tu Tamaño ni a tus estadisticas. En esta forma, tienes el rasgo animal y no puedes llevar a cabo Golpes. Puedes Disipar el conjuro.
 
 Obtienes las siguientes estadisticas y aptitudes:
-- CA = 15 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+- CA = 15 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - Velocidad 20 pies (6 m).
 - Debilidad 5 al dano fisico (si sufres dano fisico en esta forma, sufres 5 dano adicional).
 - Vision en la penumbra y olfato impreciso 30 pies (9 m).

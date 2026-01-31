@@ -19,9 +19,9 @@ spell_level: 5
 
 ---
 
-Un guardian de tamano Mediano hecho de fuerza magica aparece en un espacio sin ocupar dentro del alcance. El guardian espiritual es translucido y empuna un eco fantasmal de un arma que empunas o llevas. Si tienes un dios, adopta la forma de uno de los asistentes o servidores del mismo. Si santificas el conjuro, sus ataques tambien son santificados.
+Un guardian de tamaño Mediano hecho de fuerza magica aparece en un espacio sin ocupar dentro del alcance. El guardian espiritual es translucido y empuna un eco fantasmal de un arma que empuñas o llevas. Si tienes un dios, adopta la forma de uno de los asistentes o servidores del mismo. Si santificas el conjuro, sus ataques tambien son santificados.
 
-Las criaturas pueden atravesar el espacio del guardian, pero no acabar su movimiento en el mismo. Tus aliados y tu podeis flanquear con el. Carece de cualquier otro atributo que pueda tener normalmente una criatura, aparte de 50 Puntos de Golpe que no puede recuperar en modo alguno y que solo puede perder protegiendo a una criatura (ver a continuacion).
+Las criaturas pueden atravesar el espacio del guardian, pero no acabar su movimiento en el mismo. Tus aliados y tu podeis flanquear con el. Carece de cualquier otro atributo que pueda tener normalmente una criatura, aparte de 50 Puntos de Golpe que no puede recuperar en modo alguno y que solo puede perder protegiendo a una criatura (ver a continuación).
 
 Cuando Lanzas el conjuro y cada vez que lo Mantienes, puedes hacer que el guardian se mueva a cualquier espacio no ocupado a 120 pies (36 m) o menos de ti y, o bien ataque, o bien te proteja.
 

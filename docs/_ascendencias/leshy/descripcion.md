@@ -17,9 +17,9 @@ Los leshys son espíritus inmortales de la Naturaleza a los que temporalmente se
 | Atributo | Valor |
 |----------|-------|
 | **Puntos de Golpe** | 8 |
-| **Tamano** | Pequeno |
+| **Tamaño** | Pequeno |
 | **Velocidad** | 25 pies (7,5 m) |
-| **Mejoras de Atributo** | Constitucion, Sabiduria, Gratuita |
+| **Mejoras de Atributo** | Constitución, Sabiduría, Gratuita |
 | **Defecto de Atributo** | Inteligencia |
 | **Idiomas** | Comun, Feerico + idiomas adicionales igual a tu modificador por Inteligencia (si es positivo). Elige entre draconico, elfico, gnomo, goblin, mediano, savkroth y cualquier otro idioma al que tienes acceso (como por ejemplo los idiomas predominantes en tu region). |
 | **Rasgos** | Leshy, Planta |
@@ -36,7 +36,7 @@ Te nutres de la misma forma que las plantas o los hongos que encajan con tu tipo
 
 ## Otros probablemente...
 
-- Te toman por una curiosidad debido a tus origenes espirituales.
+- Te toman por una curiosidad debido a tus orígenes espirituales.
 - Suponen que tan solo sabes acerca de la Naturaleza y que no estas familiarizado con la civilización y la sociedad.
 
 ## Descripcion fisica

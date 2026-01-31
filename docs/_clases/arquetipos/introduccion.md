@@ -38,11 +38,11 @@ Normalmente disponibles a 4.º nivel, estas dotes conceden un espacio de conjuro
 
 ### Dote de lanzamiento de conjuros experto
 
-Adquiridas tipicamente a 12.º nivel, estas dotes te conceden el rango experto en modificadores al ataque de conjuros y CD de conjuros, concediendote un espacio de conjuro de 4.º rango. Si dispones de repertorio de conjuros, puedes seleccionar un segundo conjuro de tu repertorio como conjuro de signatura. A 14.º nivel, te conceden un espacio de conjuros de 5.º rango, y a 16.º nivel te conceden un espacio de conjuros de 6.º rango. Los arquetipos se refieren a estos beneficios como los **"beneficios expertos de lanzamiento de conjuros"**.
+Adquiridas tipicamente a 12.º nivel, estas dotes te conceden el rango experto en modificadores al ataque de conjuros y CD de conjuros, concediéndote un espacio de conjuro de 4.º rango. Si dispones de repertorio de conjuros, puedes seleccionar un segundo conjuro de tu repertorio como conjuro de signatura. A 14.º nivel, te conceden un espacio de conjuros de 5.º rango, y a 16.º nivel te conceden un espacio de conjuros de 6.º rango. Los arquetipos se refieren a estos beneficios como los **"beneficios expertos de lanzamiento de conjuros"**.
 
 ### Dote de lanzamiento de conjuros maestro
 
-Adquiridas tipicamente a 18.º nivel, estas dotes te conceden el rango maestro en modificadores al ataque de conjuros y CD de conjuros, concediendote un espacio de conjuro de 7.º rango. Si dispones de repertorio de conjuros puedes seleccionar un tercer conjuro de tu repertorio como conjuro de signatura. A 20.º nivel, te conceden un espacio de conjuros de 8.º rango. Los arquetipos se refieren a estos beneficios como los **"beneficios maestros de lanzamiento de conjuros"**.
+Adquiridas tipicamente a 18.º nivel, estas dotes te conceden el rango maestro en modificadores al ataque de conjuros y CD de conjuros, concediéndote un espacio de conjuro de 7.º rango. Si dispones de repertorio de conjuros puedes seleccionar un tercer conjuro de tu repertorio como conjuro de signatura. A 20.º nivel, te conceden un espacio de conjuros de 8.º rango. Los arquetipos se refieren a estos beneficios como los **"beneficios maestros de lanzamiento de conjuros"**.
 
 ## Arquetipos especiales
 
@@ -52,7 +52,7 @@ Algunas dotes de arquetipo de otros libros tienen el rasgo habilidad, lo que te 
 
 ## Resumen de progresion de arquetipos de lanzador de conjuros
 
-| Nivel | Beneficios basicos | Beneficios expertos | Beneficios maestros |
+| Nivel | Beneficios básicos | Beneficios expertos | Beneficios maestros |
 |-------|-------------------|---------------------|---------------------|
 | 4.º | Espacio de 1.er rango | - | - |
 | 6.º | Espacio de 2.º rango, 1.er conjuro de signatura | - | - |

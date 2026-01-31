@@ -17,7 +17,7 @@ spell_level: 4
 
 ---
 
-Haces oscilar un arma que estas empunando, que se multiplica magicamente en duplicados que atacan a todas las criaturas, o bien en un cono, o bien en una emanacion. Esta rafaga inflige 4 dados de dano a las criaturas en el area. El dano tiene el mismo tipo que el arma y utiliza el mismo tamano de dado. Determina el tamano de dado como si estuvieras atacando con el arma; por ejemplo, si estas empunando un arma a dos manos con ambas manos, utilizarias su dado de dano a dos manos.
+Haces oscilar un arma que estas empuñando, que se multiplica magicamente en duplicados que atacan a todas las criaturas, o bien en un cono, o bien en una emanacion. Esta rafaga inflige 4 dados de dano a las criaturas en el area. El dano tiene el mismo tipo que el arma y utiliza el mismo tamaño de dado. Determina el tamaño de dado como si estuvieras atacando con el arma; por ejemplo, si estas empuñando un arma a dos manos con ambas manos, utilizarias su dado de dano a dos manos.
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -25,6 +25,6 @@ Haces oscilar un arma que estas empunando, que se multiplica magicamente en dupl
 
 **Fallo** El objetivo sufre dano completo.
 
-**Fallo critico** El objetivo sufre doble dano y queda sujeto al efecto de especializacion critica del arma.
+**Fallo critico** El objetivo sufre doble dano y queda sujeto al efecto de especialización critica del arma.
 
 **Potenciado (+1)** Anade otro dado de dano.

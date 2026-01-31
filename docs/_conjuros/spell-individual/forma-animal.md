@@ -18,13 +18,13 @@ spell_level: 2
 
 ---
 
-Llamas a la energia primigenia para que te transforme en una forma de batalla de animal Mediano. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo un leon o un leopardo de la nieve para felinos), pero esto no afecta ni al Tamano ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
+Llamas a la energia primigenia para que te transforme en una forma de batalla de animal Mediano. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo un leon o un leopardo de la nieve para felinos), pero esto no afecta ni al Tamaño ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
 
 Obtienes aptitudes especificas basadas en el animal elegido:
-- CA = 16 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+- CA = 16 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 5 Puntos de Golpe temporales.
 - Vision en la penumbra y olfato impreciso 30 pies (9 m).
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +9 y tu bonificador al dano es +1. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu bonificador al ataque sin armas es mayor, puedes utilizarlo en su lugar.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +9 y tu bonificador al dano es +1. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu bonificador al ataque sin armas es mayor, puedes utilizarlo en su lugar.
 - Un modificador +9 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
 Obtienes tambien aptitudes especificas basadas en el animal elegido:

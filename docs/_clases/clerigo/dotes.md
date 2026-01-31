@@ -16,7 +16,7 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 
 ### Castigo Divino - Dote 1
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** rasgo sagrado o sacrilego
 
@@ -26,7 +26,7 @@ La gracia de tu dios no se extiende a tus enemigos jurados. Cuando lanzas un con
 
 ### Conjuro de Alcance ◆ - Dote 1
 
-**Rasgos:** Clerigo, Concentrar, Moldeo de Conjuros
+**Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
 Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas es Lanzar un conjuro que tiene alcance, incrementalo en 30 pies (9 m). Como es habitual cuando se incrementan los alcances de conjuro, si este tiene normalmente un alcance de toque, lo alargas a 30 pies (9 m).
 
@@ -34,7 +34,7 @@ Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas 
 
 ### Iniciado de un Dominio - Dote 1
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Tu dios te concede un conjuro especial relacionado con sus poderes. Selecciona un dominio (un tema de interes particular para ti dentro de tu religion) de la lista de tu dios. Obtienes un conjuro de dominio inicial para dicho dominio, unico para este y no disponible para otros clérigos.
 
@@ -42,13 +42,13 @@ Los conjuros de dominio son un tipo de conjuro de foco. Cuesta 1 Punto de Foco l
 
 Los conjuros de foco se potencian automaticamente a la mitad de tu nivel redondeado hacia arriba, de forma muy parecida a los trucos. Los conjuros de foco no requieren espacios de conjuro y no se pueden lanzar utilizando espacios de conjuro. Tu reserva de foco puede albergar 1 Punto de Foco por cada conjuro de foco de que dispones, hasta 3 puntos.
 
-**Especial:** Puedes seleccionar esta dote en multiples ocasiones, con un dominio diferente cada vez, obteniendo asi su conjuro de dominio.
+**Especial:** Puedes seleccionar esta dote en multiples ocasiones, con un dominio diferente cada vez, obteniendo así su conjuro de dominio.
 
 ---
 
 ### Manos Curativas - Dote 1
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Fuente curativa
 
@@ -58,7 +58,7 @@ Tu vitalidad es aun mas vibrante y restablecedora. Cuando lanzas curar, tiras d1
 
 ### Manos Dañinas - Dote 1
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Fuente dañina
 
@@ -68,7 +68,7 @@ El poder mordiente de tu energia del dacio crece. Cuando lanzas dañar, tiras d1
 
 ### Premonicion de Abstinencia ↺ - Dote 1
 
-**Rasgos:** Clerigo, Divino, Prediccion
+**Rasgos:** Clérigo, Divino, Predicción
 
 **Desencadenante:** Estas a punto de hacer una tirada de salvacion contra un peligro.
 
@@ -78,7 +78,7 @@ Tu dios te concede un instante de premonición. Obtienes un bonificados +2 por c
 
 ### Simplicidad Mortal - Dote 1
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** dios con un arma predilecta sencilla o ataque sin armas, rango entrenado en el arma predilecta de tu dios
 
@@ -92,7 +92,7 @@ Si el arma predilecta de tu dios es un ataque sin armas (como por ejemplo el pu�
 
 ### Armadura del Sacerdote de Guerra - Dote 2
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** doctrina del sacerdote de guerra
 
@@ -102,7 +102,7 @@ Tu entrenamiento te ha ayudado a adaptarte a armaduras mas pesadas. Obtienes el 
 
 ### Asustar a los Muertos - Dote 2
 
-**Rasgos:** Clerigo, Emocion, Mental, Miedo
+**Rasgos:** Clérigo, Emocion, Mental, Miedo
 
 La vitalidad desata el terror en los muertos vivientes. Cuando usas un conjuro de curar para dañar muertos vivientes, cualquiera de ellos que falla su tirada de salvación queda tambien asustado 1. Si el fallo es critico, la criatura sufre tambien el estado huyendo hasta el inicio de tu siguiente turno. Los muertos vivientes descerebrados no son inmunes a este efecto aun careciendo de cerebro.
 
@@ -110,7 +110,7 @@ La vitalidad desata el terror en los muertos vivientes. Cuando usas un conjuro d
 
 ### Curacion en Comun - Dote 2
 
-**Rasgos:** Clerigo, Curacion, Vitalidad
+**Rasgos:** Clérigo, Curacion, Vitalidad
 
 Eres un conducto excepcional para la vitalidad y, conforme la canalizas a traves de ti, puedes desviar cierta cantidad de curación a ti mismo o a otra criatura. Cuando lanzas el conjuro curar para una sola criatura, elige otra criatura viva voluntaria dentro del alcance de tu curación para que recupere tantos Puntos de Golpe como el rango de conjuro de curar.
 
@@ -118,7 +118,7 @@ Eres un conducto excepcional para la vitalidad y, conforme la canalizas a traves
 
 ### Estampar Armamento - Dote 2
 
-**Rasgos:** Clerigo, Exploracion
+**Rasgos:** Clérigo, Exploración
 
 Grabando con cuidado una imagen sagrada en un objeto fisico, te refuerzas para la batalla. Puedes invertir 10 minutos estampando un simbolo de tu dios en un arma o un escudo. El simbolo no se borra hasta que ha pasado 1 año, pero si Estampas un armamento, cualquier simbolo que hayas estampado en el previamente y cualquier simbolo ya estampado en dicho objeto desaparecen instantaneamente.
 
@@ -131,7 +131,7 @@ El objeto estampado es un simbolo religioso de tu dios ademas de su proposito no
 
 ### Expansion de Truco - Dote 2
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Estudias una gama mas amplia de conjuros sencillos. Puedes preparar 2 trucos adicionales cada dia.
 
@@ -139,9 +139,9 @@ Estudias una gama mas amplia de conjuros sencillos. Puedes preparar 2 trucos adi
 
 ### Fuente Versatil - Dote 2
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
-**Prerrequisitos:** Fuente dañina o fuente curativa, dios que permite a sus clerigos disponer de ambas fuentes
+**Prerrequisitos:** Fuente dañina o fuente curativa, dios que permite a sus clérigos disponer de ambas fuentes
 
 Conforme exploras los aspectos de tu dios, vas mas alla de las restricciones sobre la curación o el daño. Puedes preparar, o bien curar, o bien dañar en los espacios de conjuro obtenidos de una fuente curativa o de una fuente dañina.
 
@@ -149,7 +149,7 @@ Conforme exploras los aspectos de tu dios, vas mas alla de las restricciones sob
 
 ### Minar la Vida - Dote 2
 
-**Rasgos:** Clerigo, Curacion
+**Rasgos:** Clérigo, Curacion
 
 Extraes la fuerza vital de tus enemigos. Cuando lanzas un conjuro de dañar y dañas por lo menos a una criatura viva, recuperas tantos Puntos de Golpe como el rango de conjuro de tu conjuro de dañar. Si no eres una criatura viva, no obtienes beneficio alguno de esta dote.
 
@@ -157,7 +157,7 @@ Extraes la fuerza vital de tus enemigos. Cuando lanzas un conjuro de dañar y da
 
 ### Respuesta Rapida ↺ - Dote 2
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Desencadenante:** Un aliado queda reducido a 0 Puntos de Golpe.
 
@@ -169,7 +169,7 @@ Trabajas rapido en caso de emergencia. Das una Zancada hacia el aliado desencade
 
 ### Alzar Simbolo ◆ - Dote 4
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Requisitos:** Empuñas un simbolo religioso
 
@@ -181,7 +181,7 @@ Si el simbolo religioso que alzas es un escudo, como por ejemplo en Estampar arm
 
 ### Canalizacion Dirigida - Dote 4
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Puedes moldear en una sola dirección la energia que canalizas. Cuando lanzas una version de curar o de dañar que tiene area, puedes hacer que dicha area sea un cono de 60 pies (18 m) en lugar de una emanación de 30 pies (9 m).
 
@@ -189,7 +189,7 @@ Puedes moldear en una sola dirección la energia que canalizas. Cuando lanzas un
 
 ### Canalizar Castigo ◆◆ - Dote 4
 
-**Rasgos:** Clerigo, Divino
+**Rasgos:** Clérigo, Divino
 
 **Coste:** Gastar un conjuro de dañar o de curar.
 
@@ -201,7 +201,7 @@ El conjuro se gasta sin efecto alguno si tu Golpe falla o si impacta a una criat
 
 ### Golpe Restablecedor ◆◆ - Dote 4
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Requisitos:** Tienes un conjuro de dañar o de curar que puedes lanzar.
 
@@ -215,7 +215,7 @@ Si el Golpe acierta, puedes designar como objetivo a una segunda criatura volunt
 
 ### Infusion Divina ◆ - Dote 4
 
-**Rasgos:** Clerigo, Concentrar, Moldeo de Conjuros
+**Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
 Viertes energia en el sujeto de tu curación para potenciar sus ataques. Si la siguiente acción que utilizas es lanzar dañar o curar para restablecer Puntos de Golpe a una sola criatura, el objetivo inflige 1d6 daño adicional con sus armas cuerpo a cuerpo y ataques sin armas hasta el final de su siguiente turno. El tipo de daño es dacio si lanzas dañar y vitalidad si lanzas curar.
 
@@ -225,7 +225,7 @@ Si el conjuro lanzado es por lo menos de 5.º rango, este daño se incrementa a 
 
 ### Terreno Consagrado - Dote 4
 
-**Rasgos:** Clerigo, Consagracion, Divino, Exploracion
+**Rasgos:** Clérigo, Consagracion, Divino, Exploración
 
 **Prerrequisitos:** Fuente dañina o fuente curativa
 
@@ -241,7 +241,7 @@ Si tienes una fuente curativa, esta actividad tiene los rasgos curación y vital
 
 ### Arma Divina ◇ - Dote 6
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Frecuencia:** una vez por turno
 
@@ -253,7 +253,7 @@ Desvias energia de conjuro residual a un arma que estas empuñando. Hasta el fin
 
 ### Derribar ◆ - Dote 6
 
-**Rasgos:** Clerigo, Concentrar, Moldeo de Conjuros
+**Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
 La fuerza bruta de tu fe puede hacer que un enemigo caiga al suelo. Si la siguiente acción que utilizas es lanzar dañar o curar para dañar a una criatura, el objetivo queda derribado si sufre daño alguno debido al conjuro. Si el objetivo sufre un fallo critico en su salvación contra el conjuro, ademas sufre un penalizador -10 pies (3 m) por estatus a su Velocidad durante 1 minuto.
 
@@ -261,7 +261,7 @@ La fuerza bruta de tu fe puede hacer que un enemigo caiga al suelo. Si la siguie
 
 ### Energia Selectiva - Dote 6
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Al llamar al poder divino, puedes evitar que algunos enemigos se beneficien de ello o que algunos aliados resulten dañados. Cuando lanzas una version de dañar o curar que dispone de area, puedes designar hasta 5 criaturas dentro de la misma. Dichas criaturas no se ven afectadas por el conjuro.
 
@@ -269,7 +269,7 @@ Al llamar al poder divino, puedes evitar que algunos enemigos se beneficien de e
 
 ### Lanzamiento de Conjuros Firme - Dote 6
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Confiado en tu tecnica, no pierdes conjuros facilmente. Si una reacción interrumpiría tu acción de lanzamiento de conjuros, haz una prueba plana CD 15. Si tienes éxito, tu acción no queda interrumpida.
 
@@ -277,7 +277,7 @@ Confiado en tu tecnica, no pierdes conjuros facilmente. Si una reacción interru
 
 ### Manos Magicas - Dote 6
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Manos curativas
 
@@ -287,7 +287,7 @@ La bendición de tu dios potencia tu capacidad curativa, integrando la curación
 
 ### Rechazo Divino ↺ - Dote 6
 
-**Rasgos:** Clerigo, Divino
+**Rasgos:** Clérigo, Divino
 
 **Desencadenante:** Un aliado tuyo esta a punto de hacer una tirada de salvacion contra una aptitud magica de una criatura a la que estas adyacente.
 
@@ -301,7 +301,7 @@ Te esfuerzas contra las amenazas magicas tanto fisica como espiritualmente. Pued
 
 ### Canalizacion Restablecedora - Dote 8
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Fuente curativa
 
@@ -311,7 +311,7 @@ Puedes quitar estados mediante la gracia divina. Puedes sacrificar un conjuro de
 
 ### Dominio Avanzado - Dote 8
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Iniciado de un dominio
 
@@ -323,7 +323,7 @@ Tus plegarias han desbloqueado secretos mas profundos del dominio de tu dios. Ob
 
 ### Estampar Energia - Dote 8
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Estampar armamento
 
@@ -336,7 +336,7 @@ Con las fuerzas elementales, haces que tus símbolos estampados sean mas potente
 
 ### Foco Emergente ◇ - Dote 8
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Frecuencia:** una vez al dia
 
@@ -348,7 +348,7 @@ Cuando un aliado al que puedes ver cae en combate, tu oleada de justa indignaci�
 
 ### Incinerar Muertos Vivientes - Dote 8
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Tu abrumadora vitalidad prende fuego a los muertos vivientes. Cuando utilizas un conjuro de curar para dañar muertos vivientes, cada uno de ellos que sufre daño tambien sufre tanto daño persistente por fuego como el rango del conjuro.
 
@@ -356,7 +356,7 @@ Tu abrumadora vitalidad prende fuego a los muertos vivientes. Cuando utilizas un
 
 ### Martir ◆ - Dote 8
 
-**Rasgos:** Clerigo, Moldeo de Conjuros
+**Rasgos:** Clérigo, Moldeo de Conjuros
 
 Haces esfuerzos extremos para apoyar a tus aliados, incluso si ello significa dañarte a ti mismo. Si tu siguiente acción es lanzar dañar o curar para restablecer Puntos de Golpe a un solo aliado, puedes canalizar tu propia vitalidad junto con el conjuro. Pierdes 1d8 Puntos de Golpe por rango del conjuro, que no se pueden reducir ni mitigar en modo alguno, y tu aliado recupera una cantidad igual de Puntos de Golpe.
 
@@ -364,17 +364,17 @@ Haces esfuerzos extremos para apoyar a tus aliados, incluso si ello significa da
 
 ### Prisa Celosa ↺ - Dote 8
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Desencadenante:** Lanzas un conjuro divino que tarda 1 accion o mas en lanzarse y que solo te afecta a ti o a tu equipo.
 
-Te bendices a ti mismo sobre la marcha. Da una Zancada de hasta 10 pies (3 m). Si el conjuro tarda 2 o mas acciones en lanzarse, en su lugar puedes dar una Zancada hasta el maximo de tu Velocidad.
+Te bendices a ti mismo sobre la marcha. Da una Zancada de hasta 10 pies (3 m). Si el conjuro tarda 2 o mas acciones en lanzarse, en su lugar puedes dar una Zancada hasta el máximo de tu Velocidad.
 
 ---
 
 ### Santificar Armamento ◆ - Dote 8
 
-**Rasgos:** Clerigo, Divino
+**Rasgos:** Clérigo, Divino
 
 **Prerrequisitos:** rasgo sagrado o sacrilego
 
@@ -384,9 +384,9 @@ Si utilizas de nuevo Santificar armamento, cualquier uso previo del mismo expira
 
 ---
 
-### Sifon del Vacio - Dote 8
+### Sifon del Vacío - Dote 8
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 La energia en bruto del dacio debilita la esencia de los vivos. Toda criatura viva que sufre un fallo critico en su salvación contra un conjuro de dañar que lanzas queda drenada 1.
 
@@ -396,7 +396,7 @@ La energia en bruto del dacio debilita la esencia de los vivos. Toda criatura vi
 
 ### Abstinencia Compartida - Dote 10
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Premonicion de abstinencia
 
@@ -406,7 +406,7 @@ Puedes proyectar a tus aliados tus premoniciones de peligro. Cuando utilizas Pre
 
 ### Arma Castigadora - Dote 10
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Castigo divino
 
@@ -416,7 +416,7 @@ La fuerza del castigo de tu dios refuerza tu cuerpo para abatir al enemigo y a s
 
 ### Escudo de la Fe - Dote 10
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Iniciado de un dominio
 
@@ -426,7 +426,7 @@ La energia residual de tus conjuros de dominio refuerza tus defensas. Cuando gas
 
 ### Reabastecimiento de Guerra - Dote 10
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** rango experto en el arma predilecta de tu dios
 
@@ -436,7 +436,7 @@ Golpear a tus enemigos despierta elogios y genera protección por parte de tu di
 
 ### Recuperacion Heroica ◆ - Dote 10
 
-**Rasgos:** Clerigo, Concentrar, Moldeo de Conjuros
+**Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
 **Prerrequisitos:** Fuente curativa
 
@@ -448,7 +448,7 @@ El poder restablecedor de tu curación revigoriza a su receptor. Si la siguiente
 
 ### Alivio Afortunado - Dote 12
 
-**Rasgos:** Clerigo, Fortuna
+**Rasgos:** Clérigo, Fortuna
 
 Tu dios favorece tus intentos de quitar aflicciones y estados. Cuando lanzas un conjuro de curación que intenta contrarrestar un efecto, puedes hacer 2 veces la tirada de contrarrestar y quedarte con el mejor resultado.
 
@@ -456,7 +456,7 @@ Tu dios favorece tus intentos de quitar aflicciones y estados. Cuando lanzas un 
 
 ### Estampar Antimagia - Dote 12
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Estampar armamento
 
@@ -469,15 +469,15 @@ El simbolo de tu dios te protege contra la magia ofensiva. Cuando Estampas un ar
 
 ### Foco de Dominio - Dote 12
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
-Tu devoción al dominio de tu dios sigue creciendo, igual que el poder que te concede. Siempre que Reenfocas, rellenas por completo tu reserva de foco.
+Tu devoción al dominio de tu dios sigue creciendo, igual que el poder que te concede. Siempre que Reenofcas, rellenas por completo tu reserva de foco.
 
 ---
 
 ### Reabastecimiento Compartido - Dote 12
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Reabastecimiento de guerra
 
@@ -487,7 +487,7 @@ Cuando tu dios bendice tus actos belicosos, puedes extender dicho favor a tus al
 
 ### Recuperacion Defensiva ◆ - Dote 12
 
-**Rasgos:** Clerigo, Concentrar, Moldeo de Conjuros
+**Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
 Tu fe proporciona protección temporal ademas de curación. Si la siguiente acción que utilizas es lanzar dañar o curar sobre un solo objetivo y este recupera Puntos de Golpe debido al conjuro, tambien obtiene un bonificados +2 por estatus a la CA y a las tiradas de salvación durante 1 asalto.
 
@@ -495,7 +495,7 @@ Tu fe proporciona protección temporal ademas de curación. Si la siguiente acci
 
 ### Simbolo Absorbedor ↺ - Dote 12
 
-**Rasgos:** Clerigo, Divino
+**Rasgos:** Clérigo, Divino
 
 **Prerrequisitos:** Alzar simbolo
 
@@ -512,7 +512,7 @@ Tu simbolo religioso brilla con energia sagrada, convirtiendo en debilidad la fu
 
 ### Armamento Duradero - Dote 14
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Santificar armamento
 
@@ -522,7 +522,7 @@ Cuando santificas un arma, permanece santificada durante un periodo de tiempo ma
 
 ### Bloqueo de Canalizacion - Dote 14
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Bloqueo con el escudo
 
@@ -532,7 +532,7 @@ Viertes energia divina en un bloqueo desesperado. Cuando Bloqueas con el escudo,
 
 ### Canalizacion Rapida - Dote 14
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** fuente dañina o fuente curativa
 
@@ -542,7 +542,7 @@ El poder divino esta siempre a tu alcance, respondiendo rapidamente a tu llamada
 
 ### Destierro Rapido ↺ - Dote 14
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Desencadenante:** Impactas criticamente a una criatura que no esta en su Plano natal.
 
@@ -554,7 +554,7 @@ La fuerza de tu golpe envia a tu victima de vuelta a su Plano de origen. Gastas 
 
 ### Flujo y Reflujo ◆ - Dote 14
 
-**Rasgos:** Clerigo, Concentrar, Moldeo de Conjuros
+**Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
 **Prerrequisitos:** Fuente versatil
 
@@ -564,7 +564,7 @@ Puedes extraer a la vez vitalidad y dacio para dañar a tus enemigos y curar a t
 
 ### Premonicion de Claridad ↺ - Dote 14
 
-**Rasgos:** Clerigo, Fortuna
+**Rasgos:** Clérigo, Fortuna
 
 **Frecuencia:** una vez por hora
 
@@ -576,7 +576,7 @@ Tu dios te envia una vision de fe para reforzarte contra los ataques mentales. R
 
 ### Proteccion de tu Dios - Dote 14
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Dominio avanzado
 
@@ -588,7 +588,7 @@ Cuando recurres al poder de tu dios para cumplir la promesa de su dominio, obtie
 
 ### Azote Eterno - Dote 16
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** sacrilego
 
@@ -598,7 +598,7 @@ Tu vida te ha convertido en un nexo para el vil poder de tu dios. Estas continua
 
 ### Bendicion Eterna - Dote 16
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** sagrado
 
@@ -608,7 +608,7 @@ Tus buenas obras te han granjeado la gracia de tu dios para toda la eternidad. E
 
 ### Castigo con Rebote ↺ - Dote 16
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Canalizar castigo
 
@@ -620,7 +620,7 @@ La energia de tu castigo persiste unos instantes, lo que te permite traspasarla 
 
 ### Remediar ◇ - Dote 16
 
-**Rasgos:** Clerigo, Concentrar, Moldeo de Conjuros
+**Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
 **Frecuencia:** una vez por hora
 
@@ -630,7 +630,7 @@ Si tu siguiente acción es utilizar tu fuente divina para lanzar un conjuro de d
 
 ### Resucitador - Dote 16
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Puedes hacer que una criatura a la que has traigo del borde de la muerte prospere y continue curandose. Cuando restableces Puntos de Golpe a una criatura moribunda o traes de vuelta a la vida a una criatura muerta y le restableces Puntos de Golpe, concedes a dicha criatura curación rapida 5 durante 1 minuto. Esta curación rapida se acaba si la criatura queda inconsciente.
 
@@ -640,7 +640,7 @@ Puedes hacer que una criatura a la que has traigo del borde de la muerte prosper
 
 ### Apice Divino - Dote 18
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Puedes verter poder divino en un objeto, permitiendo que el portador exceda sus limites. Cuando completas tus preparativos diarios, puedes tocar un objeto magico puesto que carece del rasgo apice. Obtiene el rasgo apice hasta tus siguientes preparativos diarios y tu eliges uno de los atributos divinos de tu dios. El objeto incrementa en 1 o hasta +4 (la mayor de ambas cosas) el modificador por dicho atributo. Como es habitual, un personaje tan solo puede beneficiarse de un solo objeto de apice a la vez.
 
@@ -648,7 +648,7 @@ Puedes verter poder divino en un objeto, permitiendo que el portador exceda sus 
 
 ### Canalizacion Resonante ◆ - Dote 18
 
-**Rasgos:** Clerigo, Concentrar, Moldeo de Conjuros
+**Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
 Cuando utilizas vitalidad o energia del dacio, tambien creas una pequeña reserva de dicha energia. Si la siguiente acción que utilizas es lanzar un conjuro de dañar o de curar de dos acciones sobre una sola criatura, elige una criatura adicional dentro del alcance. Designas como objetivo a dicha criatura con una version de 1 acción del mismo conjuro. Este conjuro es del mismo rango que el dañar o curar de 2 acciones lanzado y no te cuesta otro espacio de conjuro.
 
@@ -656,7 +656,7 @@ Cuando utilizas vitalidad o energia del dacio, tambien creas una pequeña reserv
 
 ### Claridad Compartida - Dote 18
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Premonicion de claridad
 
@@ -666,7 +666,7 @@ Puedes proyectar tus premoniciones de claridad a tus aliados. Cuando utilices Pr
 
 ### Destierro Rapido Mejorado - Dote 18
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Destierro rapido
 
@@ -676,7 +676,7 @@ Destierras facilmente a las criaturas con tu arma. Puedes utilizar Destierro rap
 
 ### Inviolable - Dote 18
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Tu dios castiga a las criaturas que te dañan. Las criaturas que te aciertan con un ataque sufren 3d6 daño espiritual cada vez que lo hacen. Si tienes el rasgo sagrado o sacrilego, puedes aplicarlo a este daño.
 
@@ -684,7 +684,7 @@ Tu dios castiga a las criaturas que te dañan. Las criaturas que te aciertan con
 
 ### Posibilidad Milagrosa - Dote 18
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 Tu dios te potencia para que lleves a cabo milagros menores, lo que te permite adaptarte facilmente a las necesidades fluctuantes de tus deberes. Una vez durante tus preparativos diarios, puedes utilizar un espacio de conjuro para que albergue potencia divina en bruto, en lugar de para preparar un conjuro. Puedes utilizar este espacio de conjuro para lanzar cualquier conjuro conocido por ti de la lista divina, al menos 2 rangos por debajo del espacio designado. El conjuro funciona en todos sus aspectos como si fuera 2 rangos inferior. Hasta que lo lanzas, no tienes ningún conjuro en particular preparado en dicho espacio.
 
@@ -694,15 +694,15 @@ Tu dios te potencia para que lleves a cabo milagros menores, lo que te permite a
 
 ### Audiencia con el Avatar - Dote 20
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
-Tus extensos servicios te han concedido ciertos privilegios divinos. En primer lugar, cualquier criatura con la que te encuentras sabe instintivamente que hablas en nombre de tu dios. En segundo lugar, si llevas a cabo el ritual comunión para ponerte en contacto con tu dios, no tienes que pagar ningún coste y obtienes automaticamente un éxito critico. En tercer lugar y una vez al dia puedes lanzar teletransporte interplanario como conjuro innato divino, pero tan solo para viajar al reino de tu dios. Cuando lo lanzas de esta forma, su tiempo de lanzamiento es 1 minuto, tu simbolo religioso es una llave planaria suficiente para este conjuro y apareces exactamente donde quieres. Si estas en el reino de tu dios debido a este conjuro, puedes volver al punto en el que estabas cuando lo lanzaste invirtiendo una sola acción, que tiene los rasgos concentrar y divino.
+Tus extensos servicios te han concedido ciertos privilegios divinos. En primer lugar, cualquier criatura con la que te encuentras sabe instintivamente que hablas en nombre de tu dios. En segundo lugar, si llevas a cabo el ritual comunión para ponerte en contacto con tu dios, no tienes que pagar ningún coste y obtienes automaticamente un éxito critico. En tercer lugar y una vez al dia puedes lanzar teletransporte interplanar como conjuro innato divino, pero tan solo para viajar al reino de tu dios. Cuando lo lanzas de esta forma, su tiempo de lanzamiento es 1 minuto, tu simbolo religioso es una llave planaria suficiente para este conjuro y apareces exactamente donde quieres. Si estas en el reino de tu dios debido a este conjuro, puedes volver al punto en el que estabas cuando lo lanzaste invirtiendo una sola acción, que tiene los rasgos concentrar y divino.
 
 ---
 
 ### Canalizacion de Moldeo de Conjuros ◇ - Dote 20
 
-**Rasgos:** Clerigo, Concentrar
+**Rasgos:** Clérigo, Concentrar
 
 Un profundo entendimiento de las revelaciones divinas sobre la naturaleza de la esencia vital te permite manipular libremente la energia de la vida y de la muerte. Utiliza una acción de moldeo de conjuros que puedes llevar a cabo y que normalmente cuesta 1 acción y que se puede aplicar al conjuro dañar o curar. Si la usas de esta forma, sus efectos se aplican tan solo a un conjuro de dañar o de curar.
 
@@ -710,7 +710,7 @@ Un profundo entendimiento de las revelaciones divinas sobre la naturaleza de la 
 
 ### Obrador de Milagros - Dote 20
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Prerrequisitos:** Conjuro milagroso
 
@@ -720,7 +720,7 @@ Eres un conducto para un poder autenticamente deifico. Obtienes un espacio de co
 
 ### Proteccion del Avatar ↺ - Dote 20
 
-**Rasgos:** Clerigo
+**Rasgos:** Clérigo
 
 **Desencadenante:** Sufres un impacto critico a manos de un enemigo.
 

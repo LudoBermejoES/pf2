@@ -19,7 +19,7 @@ spell_level: 2
 
 ---
 
-Conjuras una criatura fantastica de tamano Grande para que sirva de montura al objetivo. La montura es el esbirro del objetivo, tiene una Velocidad de 40 pies (12 m) y podra llevar a lomos al objetivo con cualquier posesion que este lleve encima. No puede llevar a ninguna otra criatura. La montura usa la CA y las salvaciones del objetivo, pero resulta destruida si sufre mas de 10 dano en un momento dado, acabando el conjuro.
+Conjuras una criatura fantastica de tamaño Grande para que sirva de montura al objetivo. La montura es el esbirro del objetivo, tiene una Velocidad de 40 pies (12 m) y podra llevar a lomos al objetivo con cualquier posesion que este lleve encima. No puede llevar a ninguna otra criatura. La montura usa la CA y las salvaciones del objetivo, pero resulta destruida si sufre mas de 10 dano en un momento dado, acabando el conjuro.
 
 **Potenciado (3.o)** La montura puede caminar sobre las aguas, pero tiene que acabar su turno en terreno solido o se hunde.
 

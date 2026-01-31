@@ -19,7 +19,7 @@ Los orcos se forjan en los fuegos de la violencia y el conflicto, normalmente de
 | Atributo | Valor |
 |----------|-------|
 | **Puntos de Golpe** | 10 |
-| **Tamano** | Mediano |
+| **Tamaño** | Mediano |
 | **Velocidad** | 25 pies (7,5 m) |
 | **Mejoras de Atributo** | Dos mejoras de atributo gratuitas |
 | **Idiomas** | Comun, Orco + idiomas adicionales igual a tu modificador por Inteligencia (si es positivo). Elige entre goblin, jotun, petrano, savkroth y cualquier otro idioma al que tienes acceso (como por ejemplo los idiomas predominantes en tu region). |
@@ -38,7 +38,7 @@ Los orcos se forjan en los fuegos de la violencia y el conflicto, normalmente de
 
 ## Descripcion fisica
 
-Los orcos son altos y de complexion robusta, con largos brazos y fuertes piernas. Muchos superan los 7 pies (2,10 m) de altura, aunque tienden a adoptar posturas encogidas, casi con las piernas arqueadas y a encorvar los hombros hacia delante. Tienen la piel aspera, los huesos anchos y unos musculos duros como rocas, lo que los hace aptos para la guerra y demas tareas fisicamente exigentes. El color de su piel suele ser de algún tono de verde, aunque algunos tienen otros colores de piel que reflejan adaptaciones a su entorno.
+Los orcos son altos y de complexion robusta, con largos brazos y fuertes piernas. Muchos superan los 7 pies (2,10 m) de altura, aunque tienden a adoptar posturas encogidas, casi con las piernas arqueadas y a encorvar los hombros hacia delante. Tienen la piel aspera, los huesos anchos y unos musculos duros como rocas, lo que los hace aptos para la guerra y demás tareas fisicamente exigentes. El color de su piel suele ser de algún tono de verde, aunque algunos tienen otros colores de piel que reflejan adaptaciones a su entorno.
 
 Los orcos consideran atractivas, independientemente del genero, las complexiones fornidas y las pieles con muchas cicatrices, los colmillos largos y los tatuajes. Suelen llegar fisicamente a la edad adulta alrededor de los **diecisiete anos**, y muchos viven hasta los **sesenta**.
 

@@ -14,11 +14,11 @@ spell_level: 8
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
-<span class="trait-tag">Vacio</span>
+<span class="trait-tag">Vacío</span>
 </div>
 
 ---
 
-Extraes la humedad del cuerpo de los objetivos, infligiendo 10d10 dano por vacio. Las criaturas hechas de agua (como por ejemplo los elementales de agua) y las criaturas tipo planta utilizan el resultado de un grado de exito peor que el de su tirada de salvacion. Las criaturas cuyo cuerpo no contiene una cantidad de humedad significativa (como por ejemplo los elementales de tierra) son inmunes a desecar.
+Extraes la humedad del cuerpo de los objetivos, infligiendo 10d10 dano por vacío. Las criaturas hechas de agua (como por ejemplo los elementales de agua) y las criaturas tipo planta utilizan el resultado de un grado de exito peor que el de su tirada de salvacion. Las criaturas cuyo cuerpo no contiene una cantidad de humedad significativa (como por ejemplo los elementales de tierra) son inmunes a desecar.
 
 **Potenciado (+1)** El dano se incrementa en 1d10.

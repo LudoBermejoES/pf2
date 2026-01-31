@@ -18,7 +18,7 @@ PC = poco común.
 - **[Convocar instrumento](/pf2/conjuros/convocar-instrumento/) P** Llamas a un instrumento que solo tú puedes tocar.
 - **[Custodia amenazadora](/pf2/conjuros/custodia-amenazadora/) P** Proteges a un aliado contra un enemigo específico.
 - **[Detectar magia](/pf2/conjuros/detectar-magia/) P** Te permite notar cuando hay magia cerca.
-- **[Distorsión del vacío](/pf2/conjuros/distorsion-del-vacio/) P** Dañas y debilitas a los vivos con la energía del vacío.
+- **[Distorsión del vacío](/pf2/conjuros/distorsion-del-vacío/) P** Dañas y debilitas a los vivos con la energía del vacío.
 - **[Escudo](/pf2/conjuros/escudo/) P** Haces que un escudo de fuerza mágica bloquee ataques y conjuros.
 - **[Estabilizar](/pf2/conjuros/estabilizar/) ** Estabilizas a una criatura moribunda.
 - **[Lanza divina](/pf2/conjuros/lanza-divina/) P** Arrojas energía divina que inflige daño espiritual.
@@ -92,7 +92,7 @@ PC = poco común.
 - **[Crisis de fe](/conjuros/crisis-de-fe/) P** Causas daño mental y posiblemente haces que un adorador sea incapaz de lanzar conjuros.
 - **[Festín vampírico](/conjuros/festin-vampirico/) P** Infliges daño por vacío y obtienes Puntos de Golpe temporales con un toque.
 - **[Hablar con las plantas](/conjuros/hablar-con-las-plantas/) P** Te comunicas con las plantas y con las criaturas del tipo planta.
-- **[Heroísmo](/conjuros/heroismo/) P** Avivas el heroísmo interior de una criatura para hacerla más competente.
+- **[Heroísmo](/conjuros/heroísmo/) P** Avivas el heroísmo interior de una criatura para hacerla más competente.
 - **[Localizar, PC](/conjuros/localizarp,-pc/) P** Averiguas la dirección hasta un objeto.
 - **[Luz sagrada](/conjuros/luz-sagrada/) P** Haces que un rayo de luz ardiente inflija daño adicional a los infernales y a otras criaturas sacrílegas.
 - **[Mensaje onírico](/conjuros/mensaje-onirico/) P** Envías un mensaje que llega dentro de un sueño.
@@ -109,7 +109,7 @@ PC = poco común.
 - **[Globo disipador, PC](/conjuros/globo-disipador,-pc/) ** Contrarrestas la magia que entra en esta esfera.
 - **[Ira divina](/conjuros/ira-divina/) P** Dañas y obstaculizas a las criaturas que se oponen a la voluntad de tu dios.
 - **[Leer presagios, PC](/conjuros/leer-presagios,-pc/) ** Obtienes consejo acerca de un suceso que se aproxima.
-- **[Maldición del paria](/conjuros/maldicion-del-paria/) ** Maldices a una criatura con ser poco atractiva e insoportable.
+- **[Maldición del paria](/conjuros/maldición-del-paria/) ** Maldices a una criatura con ser poco atractiva e insoportable.
 - **[Movimiento sin restricciones](/conjuros/movimiento-sin-restricciones/) ** Repeles los efectos que mantendrían en su lugar a una criatura.
 - **[Volar](/conjuros/volar/) P** Concedes a un objetivo una Velocidad de vuelo.
 

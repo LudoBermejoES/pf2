@@ -18,13 +18,13 @@ spell_level: 4
 
 ---
 
-Empleas tu dominio del aire para cambiar la forma de tu cuerpo a una forma de batalla de animal Mediano volador. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo una lechuza o un aguila para ave), pero esto no afecta ni al Tamano ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
+Empleas tu dominio del aire para cambiar la forma de tu cuerpo a una forma de batalla de animal Mediano volador. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo una lechuza o un aguila para ave), pero esto no afecta ni al Tamaño ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
 
 Obtienes aptitudes especificas basadas en el animal elegido:
-- CA = 18 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+- CA = 18 + tu nivel. Ignora el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 5 Puntos de Golpe temporales.
 - Vision en la penumbra.
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +16 y tu bonificador al dano es +5. Dichos ataques estan basados en la Destreza (por ejemplo, a efectos del estado torpe). Si tu modificador al ataque para los ataques sin arma basados en la Destreza es mayor, puedes utilizarlo en lugar del indicado.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +16 y tu bonificador al dano es +5. Dichos ataques estan basados en la Destreza (por ejemplo, a efectos del estado torpe). Si tu modificador al ataque para los ataques sin arma basados en la Destreza es mayor, puedes utilizarlo en lugar del indicado.
 - Modificador por Acrobacias +16, a menos que el tuyo sea superior.
 
 Obtienes tambien aptitudes especificas basadas en la forma elegida:

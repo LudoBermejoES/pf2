@@ -24,8 +24,8 @@ Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros in
 
 **Exito** La criatura sufre mitad de dano.
 
-**Fallo** La criatura sufre dano completo y es apartada 5 pies (1,5 m) de ti de un empujon.
+**Fallo** La criatura sufre dano completo y es apartada 5 pies (1,5 m) de ti de un empujón.
 
-**Fallo critico** La criatura sufre doble dano y es apartada 10 pies (3 m) de ti de un empujon.
+**Fallo critico** La criatura sufre doble dano y es apartada 10 pies (3 m) de ti de un empujón.
 
 **Potenciado (+1)** El dano se incrementa en 2d4.

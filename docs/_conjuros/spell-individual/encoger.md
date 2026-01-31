@@ -19,6 +19,6 @@ spell_level: 2
 
 ---
 
-Distorsionas el espacio para hacer que una criatura sea mas pequena. El objetivo se encoge hasta convertirse en tamano Menudo. Su equipo se encoge con el, pero vuelve a su tamano original si se lo quita. El alcance de la criatura cambia a 0 pies. Este conjuro no tiene efecto alguno sobre una criatura Menuda.
+Distorsionas el espacio para hacer que una criatura sea mas pequena. El objetivo se encoge hasta convertirse en tamaño Menudo. Su equipo se encoge con el, pero vuelve a su tamaño original si se lo quita. El alcance de la criatura cambia a 0 pies. Este conjuro no tiene efecto alguno sobre una criatura Menuda.
 
 **Potenciado (6.o)** El conjuro puede designar como objetivo hasta 10 criaturas.

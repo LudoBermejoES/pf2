@@ -17,7 +17,7 @@ PC = poco comun.
 - **[Convocar instrumento](/conjuros/convocar-instrumento/) P** Llamas a un instrumento que solo tu puedes tocar.
 - **[Custodia amenazadora](/conjuros/custodia-amenazadora/) P** Proteges a un aliado contra un enemigo especifico.
 - **[Detectar magia](/conjuros/detectar-magia/) P** Te permite notar cuando hay magia cerca.
-- **[Distorsion del vacio](/conjuros/distorsion-del-vacio/) P** Danas y debilitas a los vivos con la energia del dacio.
+- **[Distorsion del vacío](/conjuros/distorsion-del-vacío/) P** Danas y debilitas a los vivos con la energia del dacio.
 - **[Escudo](/conjuros/escudo/) P** Haces que un escudo de fuerza magica bloquee ataques y conjuros.
 - **[Fantasia](/conjuros/fantasia/) ** Creas una ilusión auditiva o visual sencilla.
 - **[Leer el aura](/conjuros/leer-el-aura/) P** Detectas si un objeto es magico.
@@ -37,7 +37,7 @@ PC = poco comun.
 - **[Azote](/conjuros/azote/) ** Debilitas los ataques de tus enemigos en una aura a tu alrededor.
 - **[Bendicion](/conjuros/bendicion/) ** Refuerzas los ataques de tus aliados en una aura a tu alrededor.
 - **[Calmar](/conjuros/calmar/) P** Curas al objetivo y lo refuerzas contra los ataques mentales.
-- **[Cerrar](/conjuros/cerrar/) P** Haces que una cerradura sea mucho mas dificil de abrir.
+- **[Cerrar](/conjuros/cerrar/) P** Haces que una cerradura sea mucho mas difícil de abrir.
 - **[Colores mareantes](/conjuros/colores-mareantes/) ** Haces que unos colores giratorios cieguen, deslumbren o aturdan a las criaturas.
 - **[Convocar hada](/conjuros/convocar-hada/) P** Convocas a una hada para que luche por ti.
 - **[Convocar muerto viviente](/conjuros/convocar-muerto-viviente/) P** Conjuras a un muerto viviente para que luche por ti.
@@ -54,7 +54,7 @@ PC = poco comun.
 - **[Golpe seguro](/conjuros/golpe-seguro/) ** Tu siguiente ataque es especialmente preciso.
 - **[Hechizar](/conjuros/hechizar/) P** Una criatura se vuelve mas amistosa hacia ti.
 - **[Mal fario](/conjuros/mal-fario/) ** Maldices a una criatura con mala suerte.
-- **[Miedo](/conjuros/miedo/) P** Asustas a una criatura, obligandola posiblemente a huir.
+- **[Miedo](/conjuros/miedo/) P** Asustas a una criatura, obligándola posiblemente a huir.
 - **[Objeto ilusorio](/conjuros/objeto-ilusorio/) P** Creas una ilusión convincente de un objeto.
 - **[Orden](/conjuros/orden/) P** Haces que una criatura se acerque, corra, deje caer algo, se tumbe o se ponga de pie.
 - **[Proteccion](/conjuros/proteccion/) ** Mejoras la CA de una criatura.
@@ -70,9 +70,9 @@ PC = poco comun.
 - **[Anonadar](/conjuros/anonadar/) ** Nublas la mente de un objetivo y haces que su lanzamiento de conjuros sea menos fiable.
 - **[Armamento espiritual](/conjuros/armamento-espiritual/) P** Proyectas un arma imbuida de poder espiritual.
 - **[Ataque de risa](/conjuros/ataque-de-risa/) ** La risa obstaculiza las acciones de una criatura.
-- **[Augurio](/conjuros/augurio/) ** Predices si un curso de acción traera buena fortuna.
+- **[Augurio](/conjuros/augurio/) ** Predices si un curso de acción traerá buena fortuna.
 - **[Calmar](/conjuros/calmar/) ** Suprimes las emociones fuertes y la hostilidad.
-- **[Contorno borroso](/conjuros/contorno-borroso/) ** La forma del objetivo se difumina y se hace mas dificil acertarla.
+- **[Contorno borroso](/conjuros/contorno-borroso/) ** La forma del objetivo se difumina y se hace mas difícil acertarla.
 - **[Criatura ilusoria](/conjuros/criatura-ilusoria/) ** Creas una ilusión convincente de una criatura.
 - **[Cuerpo sano](/conjuros/cuerpo-sano/) P** Contrarrestas los estados cegado, deslumbrado, ensordecido, debilitado, mareado y los relacionados con ellos.
 - **[Despejar la mente](/conjuros/despejar-la-mente/) P** Contrarrestas los estados huyendo, asustado, anonadado y los relacionados con ellos.
@@ -113,7 +113,7 @@ PC = poco comun.
 - **[Clariaudiencia](/conjuros/clariaudiencia/) ** Oyes a traves de un sensor magico invisible.
 - **[Festin vampirico](/conjuros/festin-vampirico/) P** Infliges dano por dacio y obtienes Puntos de Golpe temporales con un toque.
 - **[Hablar con las plantas](/conjuros/hablar-con-las-plantas/) P** Te comunicas con las plantas y con las criaturas del tipo planta.
-- **[Heroismo](/conjuros/heroismo/) P** Avivas el heroismo interior de una criatura para hacerla mas competente.
+- **[Heroísmo](/conjuros/heroísmo/) P** Avivas el heroísmo interior de una criatura para hacerla mas competente.
 - **[Hipercognicion](/conjuros/hipercognicion/) ** Recuerdas cantidades enormes de información en un instante.
 - **[Hipnotizar](/conjuros/hipnotizar/) ** Haces que unos colores cambiantes deslumbren y fascinen a las criaturas.
 - **[Leer la mentePC](/conjuros/leer-la-mentepc/) ** Lees los pensamientos superficiales de una criatura.
@@ -140,9 +140,9 @@ PC = poco comun.
 - **[Forma de vapor](/conjuros/forma-de-vapor/) ** Transformas tu cuerpo en vapor.
 - **[Globo disipadorPC](/conjuros/globo-disipadorpc/) ** Contrarrestas la magia que entra en esta esfera.
 - **[Leer presagiosPC](/conjuros/leer-presagiospc/) ** Obtienes consejo acerca de un suceso que se aproxima.
-- **[Maldicion del paria](/conjuros/maldicion-del-paria/) ** Maldices a una criatura con ser poco atractiva e insoportable.
+- **[Maldición del paria](/conjuros/maldición-del-paria/) ** Maldices a una criatura con ser poco atractiva e insoportable.
 - **[Palabras almibaradas](/conjuros/palabras-almibaradas/) ** Haces que parezcan creíbles incluso las mentiras mas improbables.
-- **[Parpadeo](/conjuros/parpadeo/) P** Te proteges de la mayor parte del dano teletransportándote de forma erratica.
+- **[Parpadeo](/conjuros/parpadeo/) P** Te proteges de la mayor parte del dano teletransportándote de forma errática.
 - **[Pesadilla](/conjuros/pesadilla/) ** Acosas los buenos y una criatura con inquietantes pesadillas.
 - **[Reescribir recuerdoP, PC](/conjuros/reescribir-recuerdop,-pc/) ** Alteras, borras o implantas memorias.
 - **[Sugerencia](/conjuros/sugerencia/) P** Sugieres un curso de acción que una criatura debe seguir.
@@ -159,12 +159,12 @@ PC = poco comun.
 - **[Culebrear](/conjuros/culebrear/) P** Haces que unas serpientes sombrias muerdan y capturen criaturas.
 - **[Destierro](/conjuros/destierro/) P** Envias a una criatura de vuelta a su Plano natal.
 - **[Escena ilusoria](/conjuros/escena-ilusoria/) P** Creas una escena imaginaria que contiene multiples criaturas y objetos.
-- **[Explosion de sombra](/conjuros/explosion-de-sombra/) P** Das forma a un cono danino de sustancia sombria, que inflige dano de un tipo a elegir por ti.
+- **[Explosion de sombra](/conjuros/explosion-de-sombra/) P** Das forma a un cono dañino de sustancia sombria, que inflige dano de un tipo a elegir por ti.
 - **[Falsa visionPC](/conjuros/falsa-visionpc/) ** Enganas a un conjuro de escudriñamiento.
 - **[Habla verdaderaP, PC](/conjuros/habla-verdaderap,-pc/) ** Permites a una criatura que hable y entienda todos los idiomas.
 - **[Hablar con las piedras](/conjuros/hablar-con-las-piedras/) P** Te comunicas con la piedra natural y la trabajada.
 - **[Invocar espiritus](/conjuros/invocar-espiritus/) P** Llamas a un grupo de apariciones fantasmales para que ataquen a tus enemigos.
-- **[Maldicion del marinero](/conjuros/maldicion-del-marinero/) ** Infectas a una criatura con la maldición del mar ondulante.
+- **[Maldición del marinero](/conjuros/maldición-del-marinero/) ** Infectas a una criatura con la maldición del mar ondulante.
 - **[Ojo explorador](/conjuros/ojo-explorador/) ** Un ojo invisible te transmite lo que ve.
 - **[Ola de desesperacion](/conjuros/ola-de-desesperacion/) P** Conduces a la desesperación a las criaturas de un area.
 - **[Potencial onirico](/conjuros/potencial-onirico/) ** Haces que el objetivo se reconvierta en buenos.
@@ -179,7 +179,7 @@ PC = poco comun.
 - **[Arruinaconjuros](/conjuros/arruinaconjuros/) ** Maldices a una criatura con sufrir dano cuando lo lanzas sobre ella y reduces la duración de sus conjuros.
 - **[Calamidad fantasmal](/conjuros/calamidad-fantasmal/) P** Creas visiones apocalípticas que danan mentalmente a las criaturas.
 - **[Conviccion celosa](/conjuros/conviccion-celosa/) P** Inspiras una convicción y un celo inquebrantables en las criaturas voluntarias.
-- **[Desangramiento vampirico](/conjuros/desangramiento-vampirico/) P** Extraes sangre y fuerza vital de las criaturas en un cono, danandolas y cucándote a ti mismo.
+- **[Desangramiento vampirico](/conjuros/desangramiento-vampirico/) P** Extraes sangre y fuerza vital de las criaturas en un cono, dañándolas y cucándote a ti mismo.
 - **[Doble enganoso](/conjuros/doble-enganoso/) ** Te vuelves invisible y creas un duplicado de ti mismo que actua como tu.
 - **[DominarP, PC](/conjuros/dominarp,-pc/) ** Haces que una criatura tenga que obedecer tus ordenes.
 - **[EscudrinamientoPC](/conjuros/escudrinamientopc/) ** Espias a una criatura a tu elección.
@@ -213,7 +213,7 @@ PC = poco comun.
 - **[Danza incontrolable](/conjuros/danza-incontrolable/) ** Abrumas a un objetivo con una inevitable pasion por la danza.
 - **[Desaparicion](/conjuros/desaparicion/) ** Haces que una criatura sea invisible, silenciosa e indetectable a los sentidos especiales.
 - **[Dilema](/conjuros/dilema/) ** Atrapas a una criatura en un rompecabezas extradimensional.
-- **[Observacion implacable](/conjuros/observacion-implacable/) ** Otras criaturas y tu rastreais a un sujeto de forma exacta utilizando el escudriñamiento.
+- **[Observacion implacable](/conjuros/observacion-implacable/) ** Otras criaturas y tu rastreáis a un sujeto de forma exacta utilizando el escudriñamiento.
 - **[Ocultar la mente](/conjuros/ocultar-la-mente/) P** Proteges a una criatura de la magia mental y de los efectos que curiosean en sus secretos.
 - **[Ubicar](/conjuros/ubicar/) P** Averiguas la ubicación exacta de una criatura u objeto.
 
@@ -221,7 +221,7 @@ PC = poco comun.
 
 - **[Apoderarse del almaPC](/conjuros/apoderarse-del-almapc/) ** Atrapas un alma en el interior de un objeto.
 - **[Aullidos de los condenados](/conjuros/aullidos-de-los-condenados/) ** Gritas, drenando a los vivos y causando dano por dacio.
-- **[Cancion insondable](/conjuros/cancion-insondable/) ** Haces que una canción debilite a las criaturas de formas extrañas y poderosas.
+- **[Canción insondable](/conjuros/canción-insondable/) ** Haces que una canción debilite a las criaturas de formas extrañas y poderosas.
 - **[Fantasmagoria](/conjuros/fantasmagoria/) ** Asustas, infliges dano mental y posiblemente matas a muchos objetivos.
 - **[Presciencia](/conjuros/presciencia/) ** Un sentido del peligro te avisa cuando una criatura esta en peligro y la protege con buena fortuna.
 - **[Presencia abrumadora](/conjuros/presencia-abrumadora/) ** Asumes la majestad de un dios.

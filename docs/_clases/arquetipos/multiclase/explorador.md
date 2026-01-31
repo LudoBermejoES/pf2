@@ -16,10 +16,10 @@ El arquetipo explorador tiene acceso a unas opciones excelentes para mejorar el 
 
 - Los exploradores bardos apoyan a sus aliados y a sus compañeros animales con opciones de combate ampliadas. El conocimiento de bardo tambien puede complementar la investigación que hace el explorador de sus enemigos.
 - Los exploradores clérigos encajan particularmente con los dioses que conectan tematicamente con la Naturaleza o que tienen un arco como arma predilecta (en el caso de Errátil, las dos cosas).
-- Los exploradores druidas tienen la interaccion mas tematica con los exploradores de entre los lanzadores de conjuros, lo que te permite crear un autentico amo de las tierras virgenes.
+- Los exploradores druidas tienen la interacción mas tematica con los exploradores de entre los lanzadores de conjuros, lo que te permite crear un autentico amo de las tierras virgenes.
 - Los exploradores guerreros se cuentan entre los arqueros mas temibles, combinando las dotes de ambas clases para crear un estilo de combate unico para cada explorador guerrero. Algunos conjuros de guardian pueden ser tambien particularmente utiles para un guerrero.
 - Los exploradores picaros son excelentes francotiradores u hostigadores a distancia, y sus habilidades de picaro refuerzan de forma natural los puntos fuertes de un explorador.
-- Los exploradores brujos anaden una nueva pericia, mediante la información que pueden obtener a traves de su familiar y de su patron.
+- Los exploradores brujos añaden una nueva pericia, mediante la información que pueden obtener a traves de su familiar y de su patron.
 - Los exploradores magos se benefician en gran medida del apoyo que sus dotes proporcionan, respaldando sus conjuros con ataques con armas a distancia.
 
 ---
@@ -50,7 +50,7 @@ Obtienes una dote de explorador de 1.er o de 2.º nivel.
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de explorador, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitucion
+**Prerrequisitos:** Dedicacion de explorador, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitución
 
 Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo explorador de que dispones. Conforme continuas seleccionando dotes de clase del arquetipo explorador, continuas obteniendo Puntos de Golpe adicionales de esta forma.
 
@@ -72,6 +72,6 @@ Obtienes una dote de explorador. A efectos de cumplir con sus prerrequisitos, tu
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de explorador, rango experto en Percepcion
+**Prerrequisitos:** Dedicacion de explorador, rango experto en Percepción
 
 Tu rango de competencia en Percepción se incrementa a maestro.

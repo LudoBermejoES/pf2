@@ -22,9 +22,9 @@ class_name: Mago
 | 8 | Dote de habilidad, dote de mago |
 | 9 | Conjuros de 5.o rango, dote de ascendencia, fortaleza magica, incremento de habilidad |
 | 10 | Mejoras de atributo, dote de habilidad, dote de mago |
-| 11 | Conjuros de 6.o rango, dote general, experiencia en percepcion, incremento de habilidad, experiencia con armas de mago |
+| 11 | Conjuros de 6.o rango, dote general, experiencia en percepción, incremento de habilidad, experiencia con armas de mago |
 | 12 | Dote de habilidad, dote de mago |
-| 13 | Conjuros de 7.o rango, dote de ascendencia, ropajes defensivos, incremento de habilidad, especializacion en armas |
+| 13 | Conjuros de 7.o rango, dote de ascendencia, ropajes defensivos, incremento de habilidad, especialización en armas |
 | 14 | Dote de habilidad, dote de mago |
 | 15 | Conjuros de 8.o rango, mejoras de atributo, lanzador de conjuros maestro, dote general, incremento de habilidad |
 | 16 | Dote de habilidad, dote de mago |
@@ -74,7 +74,7 @@ Ademas de los que obtienes de tu clase a 1.er nivel, obtienes los beneficios der
 
 ### Mejoras de Atributo
 
-Ademas de lo que obtienes de tu clase a 1.er nivel, obtienes 4 mejoras de caracteristica gratuitas a diferentes modificadores por atributo.
+Ademas de lo que obtienes de tu clase a 1.er nivel, obtienes 4 mejoras de característica gratuitas a diferentes modificadores por atributo.
 
 A 5.o nivel y cada 5 niveles posteriores, tu personaje obtiene 4 mejoras gratuitas a modificadores por atributo diferentes. Si un modificador por atributo es ya +4 o mayor, se requieren 2 mejoras para incrementarlo; obtienes una mejora parcial y debes mejorar de nuevo dicho atributo en un nivel posterior para incrementarlo en 1.
 
@@ -88,13 +88,13 @@ A traves del estudio dedicado y de la practica, puedes construir conjuros con ri
 
 A 1.er nivel, puedes preparar hasta dos conjuros de 1.er rango y cinco trucos cada manana de los que tienes en tu libro (ver a continuación), ademas de un truco adicional por currículo y un conjuro adicional por currículo de cada rango que puedes lanzar de tu escuela arcana. Los conjuros preparados permanecen disponibles hasta que los lanzas o hasta que preparas conjuros de nuevo. El numero de conjuros que puedes preparar se denomina tus espacios de conjuro.
 
-Conforme subes de nivel como mago, el numero de conjuros que puedes preparar cada dia se incrementa, asi como el rango superior de conjuro que puedes lanzar, tal y como se indica en la tabla Conjuros de mago por dia.
+Conforme subes de nivel como mago, el numero de conjuros que puedes preparar cada dia se incrementa, así como el rango superior de conjuro que puedes lanzar, tal y como se indica en la tabla Conjuros de mago por dia.
 
 Algunos de tus conjuros requieren que hagas un ataque de conjuro para ver lo efectivos que son, o que tus enemigos tiren contra tu CD de conjuros (tipicamente haciendo una tirada de salvación). Como quiera que tu atributo clave es la Inteligencia, tu modificador a los ataques de conjuro y tu CD de conjuros utilizan tu modificador por Inteligencia.
 
 #### Potenciacion de Conjuros
 
-Cuando obtienes espacios de conjuro de 2.o rango y superior, puedes rellenarlos con versiones mas potentes de conjuros de rango mas bajo. Esto incrementa el rango de conjuro, potenciandolo para que encaje con el espacio de conjuro. Muchos conjuros obtienen mejoras especificas cuando se potencian a ciertos rangos.
+Cuando obtienes espacios de conjuro de 2.o rango y superior, puedes rellenarlos con versiones mas potentes de conjuros de rango mas bajo. Esto incrementa el rango de conjuro, potenciándolo para que encaje con el espacio de conjuro. Muchos conjuros obtienen mejoras especificas cuando se potencian a ciertos rangos.
 
 #### Trucos
 
@@ -104,7 +104,7 @@ Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de con
 
 Cada conjuro arcano tiene una version escrita, que anotas en tu libro de conjuros personalizado. Empiezas con un libro de conjuros que vale 10 pp o menos, que obtienes gratis y que debes estudiar cada dia para preparar tus conjuros.
 
-La forma y el nombre de tu libro de conjuros quedan a tu elección. Podría tratarse de un tomo mohoso encuadernado en cuero, o de un surtido de finos discos de metal conectados por una anilla de bronce; su nombre podría ser esoterico, como por ejemplo el Tomo de las Sombras Silenciosas o algo mas académico como Aplicaciones Piromanticas Avanzadas de la Teoria Elemental Jalmeri.
+La forma y el nombre de tu libro de conjuros quedan a tu elección. Podría tratarse de un tomo mohoso encuadernado en cuero, o de un surtido de finos discos de metal conectados por una anilla de bronce; su nombre podría ser esoterico, como por ejemplo el Tomo de las Sombras Silenciosas o algo mas académico como Aplicaciones Piromántcas Avanzadas de la Teoria Elemental Jalmeri.
 
 El libro de conjuros contiene 10 trucos arcanos y 5 conjuros arcanos de 1.er rango a elegir por ti. Los eliges de entre los conjuros comunes de la lista de conjuros arcanos o de otros conjuros arcanos a los que puedes tener acceso. Tambien anades dos conjuros de 1.er rango del currículo de tu escuela arcana (excepto en el caso de la Escuela de la Teoria Magica Unificada, tal y como se describe en dicha escuela).
 
@@ -118,7 +118,7 @@ Durante tus estudios para convertirte en mago, redactaste una tesis de investiga
 
 ### Mezcla de Conjuros
 
-Tienes la teoria de que los espacios de conjuro son una especie de taquigrafia para una energia subyacente que potencia todo lanzamiento de conjuros, y has encontrado la forma de manipular la jerarquia de dichos espacios, combinandolos para potenciar conjuros mas poderosos.
+Tienes la teoria de que los espacios de conjuro son una especie de taquigrafia para una energia subyacente que potencia todo lanzamiento de conjuros, y has encontrado la forma de manipular la jerarquia de dichos espacios, combinándolos para potenciar conjuros mas poderosos.
 
 Durante tus preparativos diarios, puedes intercambiar 2 espacios de conjuro del mismo rango por un espacio de conjuro adicional de hasta 2 rangos de conjuro superior a los intercambiados. Podras intercambiar tantos espacios de conjuro como tengas disponibles. Los espacios de conjuro adicionales tienen que ser de un rango que puedes lanzar normalmente y cada uno de ellos debe ser de un rango diferente. Tambien puedes intercambiar cualquier espacio de conjuro por 2 trucos adicionales, aunque de esta manera no puedes intercambiar a la vez mas de 1 espacio de conjuros por trucos adicionales.
 
@@ -244,7 +244,7 @@ La magia es poder y siempre hay quienes utilizan dicho poder para el arte de la 
 
 Por que utilizar tu magia para afectar algo tan pedestre como el mundo fisico? Tanto si has estudiado en la Facultad de Estudios Dimensionales de Katapesh o en una escuela subterránea en la embrujada Ustalav, has redirigido tu magia mas alla del universo hacia las fuerzas que hay mas alla, convocando espíritus y formas, manipulando dimensiones y planos y pisando un lugar que no estaba pensado para los mortales.
 
-**Curriculo trucos:** mano telecinetica, distorsion del vacio
+**Curriculo trucos:** mano telecinetica, distorsion del vacío
 
 **1.o:** zarcillos macabros, esbirro fantasmal, convocar muertos vivientes
 
@@ -258,7 +258,7 @@ Por que utilizar tu magia para afectar algo tan pedestre como el mundo fisico? T
 
 **6.o:** teletransporte (PC), desangramiento vampirico
 
-**7.o:** explosion de eclipse, teletransporte interplanario (PC)
+**7.o:** explosion de eclipse, teletransporte interplanar (PC)
 
 **8.o:** dilema, observacion implacable
 
@@ -276,7 +276,7 @@ Tanto si has estudiado en el Occularium de Manaste como en la Academia de Magia 
 
 **Curriculo trucos:** prestidigitacion, leer el aura
 
-**1.o:** empujon hidraulico, escombros apaleadores, convocar constructo
+**1.o:** empujón hidraulico, escombros apaleadores, convocar constructo
 
 **2.o:** luz reveladora, caminar sobre las aguas
 
@@ -324,7 +324,7 @@ Como erudito, conoces bien la importancia de una mente sana. Por lo tanto, acudi
 
 **9.o:** fantasmagoria
 
-**Conjuros de escuela inicial:** empujon encantador
+**Conjuros de escuela inicial:** empujón encantador
 
 **Conjuro de escuela avanzado:** capa de invisibilidad
 
@@ -386,7 +386,7 @@ Situas parte de tu poder magico en un objeto vinculado. Cada dia, cuando prepara
 
 **Requisitos:** Tu objeto vinculado esta en tu persona
 
-Gastas el poder magico almacenado en tu objeto vinculado. Durante el turno actual, puedes lanzar un conjuro que preparaste hoy y ya lanzaste, sin gastar un espacio de conjuro. Aun sigues teniendo que Lanzar el conjuro y cumplir los demas requisitos de este.
+Gastas el poder magico almacenado en tu objeto vinculado. Durante el turno actual, puedes lanzar un conjuro que preparaste hoy y ya lanzaste, sin gastar un espacio de conjuro. Aun sigues teniendo que Lanzar el conjuro y cumplir los demás requisitos de este.
 
 ---
 
@@ -426,7 +426,7 @@ La practica extendida de las artes arcanas ha mejorado tus capacidades. Tu rango
 
 El poder magico ha mejorado la resiliencia de tu cuerpo. Tu rango de competencia para las salvaciones de Fortaleza se incrementa a experto.
 
-### Experiencia en Percepcion (11.o)
+### Experiencia en Percepción (11.o)
 
 Permaneces alerta a las amenazas que te rodean. Tu rango de competencia para Percepción se incrementa a experto.
 
@@ -438,7 +438,7 @@ A traves de la experiencia, has mejorado tu tecnica con tus armas. Tus rangos de
 
 El flujo de la magia y tu entrenamiento se combinan para ayudarte a evitar los ataques. Tu rango de competencia para la defensa sin armadura se incrementa a experto.
 
-### Especializacion en Armas (13.o)
+### Especialización en Armas (13.o)
 
 Has aprendido a infligir heridas mayores con las armas que conoces mejor. Infliges 2 dano adicional con las armas y los ataques sin arma en los que dispones del rango experto. El dano se incrementa a 3 si dispones del rango maestro y a 4 si dispones del rango legendario.
 
@@ -464,19 +464,19 @@ Eres un lanzador de conjuros consumado, mezclando tanto la teoria arcana como el
 
 Veras el siguiente termino clave en muchas aptitudes de mago.
 
-**Moldeo de conjuros:** las acciones con el rasgo moldeo de conjuros afinan las propiedades de tus conjuros. Dichas acciones suelen proceder de dotes de moldeo de conjuros. Tienes que utilizar una accion de moldeo de conjuros directamente antes de Lanzar el conjuro que pretendes alterar. Si utilizas cualquier accion (incluyendo acciones gratuitas y reacciones) distinta a Lanzar un conjuro directamente despues, desperdicias los beneficios de la accion de moldeo de conjuro. Cualquier efecto adicional anadido por una accion de moldeo de conjuros forma parte de los efectos de este, no de la accion en si.
+**Moldeo de conjuros:** las acciones con el rasgo moldeo de conjuros afinan las propiedades de tus conjuros. Dichas acciones suelen proceder de dotes de moldeo de conjuros. Tienes que utilizar una accion de moldeo de conjuros directamente antes de Lanzar el conjuro que pretendes alterar. Si utilizas cualquier accion (incluyendo acciones gratuitas y reacciones) distinta a Lanzar un conjuro directamente después, desperdicias los beneficios de la accion de moldeo de conjuro. Cualquier efecto adicional anadido por una accion de moldeo de conjuros forma parte de los efectos de este, no de la accion en si.
 
 ---
 
 ## Ejemplos de Mago
 
-### Alumno del Vacio
+### Alumno del Vacío
 
 Tu magia convoca espíritus, te transporta y te permite canalizar la energia de otros Planos. Conoces criaturas extrañas y reinos distantes.
 
-**Atributos:** Prioriza la Inteligencia. La Destreza, la Constitucion y la Sabiduria redondean tus defensas.
+**Atributos:** Prioriza la Inteligencia. La Destreza, la Constitución y la Sabiduría redondean tus defensas.
 
-**Habilidades:** Arcanos, Artesania, Diplomacia, Naturaleza, Ocultismo, Religion, Sociedad
+**Habilidades:** Arcanos, Artesanía, Diplomacia, Naturaleza, Ocultismo, Religion, Sociedad
 
 **Escuela arcana:** Escuela del Limite
 

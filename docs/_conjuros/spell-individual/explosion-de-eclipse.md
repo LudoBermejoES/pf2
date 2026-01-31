@@ -15,12 +15,12 @@ spell_level: 7
 <span class="trait-tag">Frio</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Oscuridad</span>
-<span class="trait-tag">Vacio</span>
+<span class="trait-tag">Vacío</span>
 </div>
 
 ---
 
-Un globo de oscuridad congeladora explota en el area, infligiendo 8d10 dano por frio a las criaturas presentes, mas 8d4 dano adicional por vacio a las criaturas vivas. Cada criatura en el area tiene que hacer una salvacion de Reflejos.
+Un globo de oscuridad congeladora explota en el area, infligiendo 8d10 dano por frio a las criaturas presentes, mas 8d4 dano adicional por vacío a las criaturas vivas. Cada criatura en el area tiene que hacer una salvacion de Reflejos.
 
 Si el globo se solapa con un area de luz magica o afecta a una criatura afectada por luz magica, explosion de eclipse contrarresta el efecto de luz.
 

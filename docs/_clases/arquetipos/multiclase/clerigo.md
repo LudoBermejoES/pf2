@@ -16,15 +16,15 @@ Aunque muchos personajes profesan tener fe en los dioses, el arquetipo clérigo 
 
 - Los clérigos brujos divinos doblan como lanzadores de conjuros divinos definitivos.
 - Los clérigos marciales suelen buscar un conjuro de dominio potente o algo de curación para usar en caso de apuro.
-- Otros clérigos lanzadores de conjuros diversifican sus opciones, convirtiéndose en personajes teurgicos, que combinan dos tradiciones magicas.
+- Otros clérigos lanzadores de conjuros diversifican sus opciones, convirtiéndose en personajes teúrgicos, que combinan dos tradiciones magicas.
 
 ---
 
-### Dedicacion de clerigo - Dote 2
+### Dedicacion de clérigo - Dote 2
 
 **Rasgos:** Arquetipo, Dedicacion, Multiclase
 
-**Prerrequisitos:** Sabiduria +2
+**Prerrequisitos:** Sabiduría +2
 
 Lanzas conjuros como un clérigo. Obtienes la actividad Lanzar un conjuro. Puedes preparar 2 trucos comunes cada dia de la lista de conjuros divinos o cualesquiera otros trucos divinos a los que tienes acceso. Estas entrenado en las estadísticas modificador al ataque de conjuros y CD de conjuros.
 
@@ -32,11 +32,11 @@ Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo cl�
 
 ---
 
-### Lanzamiento de conjuros basico de clerigo - Dote 4
+### Lanzamiento de conjuros basico de clérigo - Dote 4
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de clerigo
+**Prerrequisitos:** Dedicacion de clérigo
 
 Obtienes los beneficios de lanzamiento basico de conjuros. Puedes preparar los conjuros de tu dios en tus espacios de conjuro del rango apropiado del arquetipo clérigo.
 
@@ -46,7 +46,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros. Puedes preparar los c
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de clerigo
+**Prerrequisitos:** Dedicacion de clérigo
 
 Obtienes una dote de clérigo de 1.er o de 2.º nivel.
 
@@ -60,7 +60,7 @@ Obtienes una dote de clérigo de 1.er o de 2.º nivel.
 
 Obtienes una dote de clérigo. A efectos de cumplir con sus prerrequisitos, tu nivel de clérigo es igual a la mitad de tu nivel de personaje.
 
-**Especial:** Puedes adquirir esta dote mas de una vez. Cada vez que lo haces, obtienes otra dote de clerigo.
+**Especial:** Puedes adquirir esta dote mas de una vez. Cada vez que lo haces, obtienes otra dote de clérigo.
 
 ---
 
@@ -68,26 +68,26 @@ Obtienes una dote de clérigo. A efectos de cumplir con sus prerrequisitos, tu n
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros basico de clerigo
+**Prerrequisitos:** Lanzamiento de conjuros basico de clérigo
 
 Conforme aumenta tu comprensión, tu dios te concede mas conjuros divinos cada dia. Incrementa los espacios de conjuro que obtienes debido a las dotes de arquetipo de clérigo en 1 por cada rango de conjuro diferente a tus dos espacios de conjuro de clérigo de mayor rango.
 
 ---
 
-### Lanzamiento de conjuros experto de clerigo - Dote 12
+### Lanzamiento de conjuros experto de clérigo - Dote 12
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros basico de clerigo, rango maestro en Religion
+**Prerrequisitos:** Lanzamiento de conjuros basico de clérigo, rango maestro en Religion
 
 Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ---
 
-### Lanzamiento de conjuros maestro de clerigo - Dote 18
+### Lanzamiento de conjuros maestro de clérigo - Dote 18
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros experto de clerigo, rango legendario en Religion
+**Prerrequisitos:** Lanzamiento de conjuros experto de clérigo, rango legendario en Religion
 
 Obtienes los beneficios de lanzamiento de conjuros maestro.

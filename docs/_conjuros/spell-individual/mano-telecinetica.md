@@ -19,7 +19,7 @@ spell_level: TRUCO
 
 ---
 
-Creas una mano magica flotante, o bien invisible, o bien fantasmal, que aferra al objeto objetivo y lo hace flotar lentamente hasta 20 pies (6 m) en cualquier direccion. Cuando Mantienes el conjuro, puedes mover el objeto 20 pies (6 m) adicionales. Si el objeto esta en el aire cuando el conjuro se acaba, se cae.
+Creas una mano magica flotante, o bien invisible, o bien fantasmal, que aferra al objeto objetivo y lo hace flotar lentamente hasta 20 pies (6 m) en cualquier dirección. Cuando Mantienes el conjuro, puedes mover el objeto 20 pies (6 m) adicionales. Si el objeto esta en el aire cuando el conjuro se acaba, se cae.
 
 **Potenciado (3.o)** Puedes designar como objetivo un objeto desatendido con una Impedimenta de 1 o menos.
 

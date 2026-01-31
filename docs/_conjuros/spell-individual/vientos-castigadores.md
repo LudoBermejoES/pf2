@@ -19,7 +19,7 @@ spell_level: 8
 
 ---
 
-Unos vientos violentos y una poderosa corriente llenan el area, formando un ciclon. Todas las criaturas voladoras en el area descienden 40 pies (12 m). Toda el area se convierte en terreno dificil mayor para las criaturas Voladoras y en terreno dificil para las criaturas en el suelo o Trepando.
+Unos vientos violentos y una poderosa corriente llenan el area, formando un ciclon. Todas las criaturas voladoras en el area descienden 40 pies (12 m). Toda el area se convierte en terreno difícil mayor para las criaturas Voladoras y en terreno difícil para las criaturas en el suelo o Trepando.
 
 Toda criatura que acaba su turno volando en el area desciende 20 pies (6 m). Toda criatura empujada contra una superficie por los vientos de este conjuro sufre dano contundente como si hubiera caido al suelo.
 

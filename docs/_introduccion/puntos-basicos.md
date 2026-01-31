@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /introduccion/puntos-basicos/
-title: Puntos Basicos del Juego
+permalink: /introduccion/puntos-básicos/
+title: Puntos Básicos del Juego
 chapter: Introduccion
 category: introduccion
 nav_order: 0
@@ -28,9 +28,9 @@ Los seis atributos fundamentales definen las capacidades basicas de un personaje
 
 - **Fuerza**: Potencia fisica y capacidad de carga
 - **Destreza**: Agilidad, reflejos y coordinacion
-- **Constitucion**: Salud, resistencia y vitalidad
+- **Constitución**: Salud, resistencia y vitalidad
 - **Inteligencia**: Razonamiento, memoria y conocimiento
-- **Sabiduria**: Percepcion, intuicion y sentido comun
+- **Sabiduría**: Percepción, intuicion y sentido comun
 - **Carisma**: Presencia, fuerza de personalidad y liderazgo
 
 ### Modificadores por atributo
@@ -45,7 +45,7 @@ La ascendencia define el linaje y herencia biologica del personaje:
 
 - Determina de quien desciende el personaje (padres)
 - Ejemplos: humano, elfo, enano, goblin, mediano
-- Otorga rasgos fisicos, habilidades especiales y dotes de ascendencia
+- Otorga rasgos físicos, habilidades especiales y dotes de ascendencia
 
 ### Bagaje
 
@@ -59,8 +59,8 @@ El bagaje representa la crianza y formacion del personaje:
 
 La clase define la profesion aventurera del personaje:
 
-- Determina sus habilidades principales de combate y exploracion
-- Ejemplos: guerrero, mago, clerigo, picaro, druida, bardo
+- Determina sus habilidades principales de combate y exploración
+- Ejemplos: guerrero, mago, clérigo, picaro, druida, bardo
 - Otorga capacidades de clase, dotes de clase y progresion de poder
 
 ### Dotes
@@ -106,12 +106,12 @@ El entorno de juego no es solo un escenario pasivo, sino un participante activo 
 ### Trampas y tesoros
 
 - Las trampas representan peligros ambientales que los personajes deben superar
-- Los tesoros son recompensas que motivan la exploracion y el riesgo
-- Ambos elementos anaden tension y recompensa a la aventura
+- Los tesoros son recompensas que motivan la exploración y el riesgo
+- Ambos elementos añaden tension y recompensa a la aventura
 
 ### Niveles de objetos y peligros
 
 - Los objetos tienen niveles que indican su poder y rareza
-- Los peligros (trampas, obstaculos) tambien tienen niveles de dificultad
+- Los peligros (trampas, obstáculos) tambien tienen niveles de dificultad
 - El nivel ayuda al DJ a equilibrar los desafios para el grupo
 - Un objeto o peligro de nivel similar al grupo representa un reto apropiado

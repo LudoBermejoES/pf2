@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /reglas/modo-exploracion/
+permalink: /reglas/modo-exploración/
 title: Modo de Exploración
 chapter: Como Jugar
 category: reglas

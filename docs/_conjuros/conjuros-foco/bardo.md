@@ -43,7 +43,7 @@ Tu interpretación cautiva a los oyentes, obligándoles a seguirte. Cada criatur
 
 **Fallo** La criatura esta fascinada por ti y utiliza todas sus acciones para acercarse a ti y felicitarte por tu interpretacion. Este efecto acaba si se utiliza una accion hostil contra la criatura afectada.
 
-**Fallo critico** El objetivo obtiene el rasgo esbirro y queda controlado por ti. Este efecto acaba si se utiliza una accion hostil contra la criatura afectada o si ordenas a la criatura que utilice cualquier accion que le resulte danina.
+**Fallo critico** El objetivo obtiene el rasgo esbirro y queda controlado por ti. Este efecto acaba si se utiliza una accion hostil contra la criatura afectada o si ordenas a la criatura que utilice cualquier accion que le resulte dañina.
 
 ---
 
@@ -63,7 +63,7 @@ Tu glorioso cantico remienda las heridas y proporciona un respiro temporal contr
 **Area:** emanacion de 60 pies (18 m)
 **Duracion:** 1 asalto
 
-Tu canción anima a tus aliados a protegerse de forma mas efectiva. Tu y todos tus aliados en el area obtenéis un bonificados +1 por estatus a la CA y a las tiradas de salvación, asi como una resistencia al dano fisico igual a la mitad del rango del conjuro.
+Tu canción anima a tus aliados a protegerse de forma mas efectiva. Tu y todos tus aliados en el area obtenéis un bonificados +1 por estatus a la CA y a las tiradas de salvación, así como una resistencia al dano fisico igual a la mitad del rango del conjuro.
 
 ---
 

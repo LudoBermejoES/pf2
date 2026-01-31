@@ -27,8 +27,8 @@ Desde aterradores dragones hasta traviesos gremlins, los monstruos son una amena
 
 ## Mapas y miniaturas
 
-El caos del combate puede ser dificil de imaginar, por lo que muchos grupos utilizan mapas para representar el campo de batalla. Dichos mapas estan marcados con una cuadricula de 1 pulgada (2,54 cm), donde cada casilla representa 5 pies (1,5 m) en el juego. Se utilizan miniaturas y unas fichas ilustradas llamadas peones para representar a los personajes y a los adversarios.
+El caos del combate puede ser difícil de imaginar, por lo que muchos grupos utilizan mapas para representar el campo de batalla. Dichos mapas estan marcados con una cuadricula de 1 pulgada (2,54 cm), donde cada casilla representa 5 pies (1,5 m) en el juego. Se utilizan miniaturas y unas fichas ilustradas llamadas peones para representar a los personajes y a los adversarios.
 
 ## Accesorios adicionales
 
-Hay muchos accesorios adicionales que puedes anadir a tu partida para mejorar la experiencia, incluyendo herramientas para llevar la cuenta de los turnos en combate, mazos de cartas con referencias a reglas, herramientas digitales de creacion de personajes, mesas virtuales para el juego online e incluso musica ambiental.
+Hay muchos accesorios adicionales que puedes añadir a tu partida para mejorar la experiencia, incluyendo herramientas para llevar la cuenta de los turnos en combate, mazos de cartas con referencias a reglas, herramientas digitales de creacion de personajes, mesas virtuales para el juego online e incluso musica ambiental.

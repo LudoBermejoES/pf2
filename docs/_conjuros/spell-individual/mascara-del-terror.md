@@ -25,7 +25,7 @@ spell_level: 7
 
 El objetivo aparece como una criatura macabra y terrorifica. El efecto es unico para cada observador, por lo que un humano que contemple el objetivo podria ver un demonio con colmillos ensangrentados, pero un demonio que observara al objetivo podria ver un rostro angelico brillante.
 
-Cuando cualquier criatura utiliza una accion hostil contra el objetivo, la criatura tiene que hacer una salvacion de Voluntad. A continuacion queda temporalmente inmune hasta el final de su siguiente turno.
+Cuando cualquier criatura utiliza una accion hostil contra el objetivo, la criatura tiene que hacer una salvacion de Voluntad. A continuación queda temporalmente inmune hasta el final de su siguiente turno.
 
 **Exito** La criatura no resulta afectada.
 

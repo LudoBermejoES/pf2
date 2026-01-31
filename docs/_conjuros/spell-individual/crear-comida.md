@@ -18,7 +18,7 @@ spell_level: 2
 
 ---
 
-Creas suficiente comida como para alimentar a 6 criaturas Medianas durante 1 dia. Dicha comida es insipida y poco apetitosa, pero nutritiva. Al cabo de 1 dia, si nadie se la ha comido, se descompone y se vuelve incomestible. La mayoria de criaturas Pequeñas comen la cuarta parte que una criatura Mediana (y la decimosexta parte para la mayoria de criaturas Menudas), y la mayoria de criaturas Grandes comen diez veces mas (cien veces mas para criaturas Enormes y asi sucesivamente).
+Creas suficiente comida como para alimentar a 6 criaturas Medianas durante 1 dia. Dicha comida es insipida y poco apetitosa, pero nutritiva. Al cabo de 1 dia, si nadie se la ha comido, se descompone y se vuelve incomestible. La mayoría de criaturas Pequeñas comen la cuarta parte que una criatura Mediana (y la decimosexta parte para la mayoría de criaturas Menudas), y la mayoría de criaturas Grandes comen diez veces mas (cien veces mas para criaturas Enormes y así sucesivamente).
 
 **Potenciado (4.º)** Puedes alimentar a 12 criaturas Medianas.
 

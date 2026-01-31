@@ -38,7 +38,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros. Cada vez que obtienes
 
 ---
 
-### Susurros de la musa basicos - Dote 4
+### Susurros de la musa básicos - Dote 4
 
 **Rasgos:** Arquetipo
 
@@ -52,7 +52,7 @@ Obtienes una dote de bardo de 1.er o de 2.º nivel.
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Susurros de la musa basicos
+**Prerrequisitos:** Susurros de la musa básicos
 
 Obtienes una dote de bardo. A efectos de cumplir con sus prerrequisitos, tu nivel de bardo es igual a la mitad de tu nivel de personaje.
 

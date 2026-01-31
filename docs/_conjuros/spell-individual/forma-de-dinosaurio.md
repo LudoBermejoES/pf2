@@ -18,13 +18,13 @@ spell_level: 4
 
 ---
 
-Canalizas las fuerzas primigenias de la Naturaleza para transformarte en una forma de batalla Grande de animal, especificamente la de un poderoso y terrorifico dinosaurio. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal, pero esto no tiene efecto alguno en el Tamano o las estadisticas de la forma. Cuando estas en esta forma, obtienes los rasgos animal y dinosaurio. Puedes Disipar el conjuro.
+Canalizas las fuerzas primigenias de la Naturaleza para transformarte en una forma de batalla Grande de animal, especificamente la de un poderoso y terrorifico dinosaurio. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal, pero esto no tiene efecto alguno en el Tamaño o las estadisticas de la forma. Cuando estas en esta forma, obtienes los rasgos animal y dinosaurio. Puedes Disipar el conjuro.
 
 Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de batalla eliges:
-- CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reduccion de la Velocidad.
+- CA = 18 + tu nivel. Ignoras el penalizador a las pruebas de armadura y la reducción de la Velocidad.
 - 15 Puntos de Golpe temporales.
 - Vision en la penumbra y olfato impreciso 30 pies (9 m).
-- Uno o mas ataques cuerpo a cuerpo sin armas especificos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +16 y tu bonificador al dano es +9. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
+- Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +16 y tu bonificador al dano es +9. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
 - Un modificador +9 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
 Obtienes tambien aptitudes especificas basadas en la forma elegida:

@@ -19,6 +19,6 @@ spell_level: 5
 
 ---
 
-Convocas a una criatura con el rasgo monitor y cuyo nivel es 5 o menor para que luche por ti. El DJ podria determinar que tu dios restringe los tipos especificos de monitores a los que puedes convocar en determinados casos. Por ejemplo, Urgathoa no suele permitir a sus seguidores que convoquen psicopompos.
+Convocas a una criatura con el rasgo monitor y cuyo nivel es 5 o menor para que luche por ti. El DJ podria determinar que tu dios restringe los tipos específicos de monitores a los que puedes convocar en determinados casos. Por ejemplo, Urgathoa no suele permitir a sus seguidores que convoquen psicopompos.
 
 **Potenciado** Como se indica en el rasgo convocar.

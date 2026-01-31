@@ -66,9 +66,9 @@ La corta esperanza de vida humana concede perspectiva y te ha ensenado desde una
 ### Obstinacion altanera
 **Dote 1** · Humano
 
-Tu poderoso yo hace dificil que los demas te den ordenes.
+Tu poderoso yo hace difícil que los demás te den ordenes.
 
-**Beneficio:** Si obtienes un exito en una tirada de salvacion contra un efecto mental que intenta controlar directamente tus acciones, en su lugar obtienes un exito critico. Si una criatura sufre un fallo en una prueba para Obligarte utilizando la Intimidacion, en su lugar sufre un fallo critico (por lo que no puede intentar Obligarte de nuevo durante 1 semana).
+**Beneficio:** Si obtienes un exito en una tirada de salvacion contra un efecto mental que intenta controlar directamente tus acciones, en su lugar obtienes un exito critico. Si una criatura sufre un fallo en una prueba para Obligarte utilizando la Intimidación, en su lugar sufre un fallo critico (por lo que no puede intentar Obligarte de nuevo durante 1 semana).
 
 ---
 
@@ -79,7 +79,7 @@ Tu poderoso yo hace dificil que los demas te den ordenes.
 
 A traves del estudio de multiples tradiciones magicas, has alterado un conjuro para que encaje en tu estilo de lanzamiento.
 
-**Beneficio:** Elige un truco de una tradicion magica diferente a la tuya. Si preparas conjuros, puedes elegir este cuando preparas tus trucos, ademas de tus demas opciones. Si tienes un repertorio de conjuros, reemplaza uno de los trucos que conoces por el elegido. Puedes lanzar este truco como un conjuro de la tradicion de tu clase.
+**Beneficio:** Elige un truco de una tradición magica diferente a la tuya. Si preparas conjuros, puedes elegir este cuando preparas tus trucos, ademas de tus demás opciones. Si tienes un repertorio de conjuros, reemplaza uno de los trucos que conoces por el elegido. Puedes lanzar este truco como un conjuro de la tradición de tu clase.
 
 Si mas adelante cambias este truco o lo reconviertes, puedes elegir su sustituto de la misma tradición alternativa o de una diferente.
 
@@ -94,7 +94,7 @@ Si mas adelante cambias este truco o lo reconviertes, puedes elegir su sustituto
 
 Has continuado adaptando tu magia para fusionar la tradición de tu clase con tu tradición adaptada.
 
-**Beneficio:** Elige un truco o un conjuro de 1.er rango de la misma tradicion magica que tu truco de Truco adaptado. Obtienes dicho conjuro, anadiendolo a tus opciones de conjuro igual que el truco de Truco adaptado. Puedes lanzarlo como si fuera de la tradicion magica de tu clase.
+**Beneficio:** Elige un truco o un conjuro de 1.er rango de la misma tradición magica que tu truco de Truco adaptado. Obtienes dicho conjuro, anadiendolo a tus opciones de conjuro igual que el truco de Truco adaptado. Puedes lanzarlo como si fuera de la tradición magica de tu clase.
 
 Si eliges un conjuro de 1.er rango, no obtienes acceso a las versiones potenciadas del mismo, lo que significa que no puedes prepararlas si preparas conjuros y que no puedes aprenderlas o seleccionar el conjuro como uno de signatura si dispones de un repertorio de conjuros.
 
@@ -114,7 +114,7 @@ Has aprendido a manejar las situaciones cuando te encuentras fuera de lugar.
 
 Como muchos humanos criados en una comunidad cerrada, siempre has estado fuertemente sintonizado con la presencia de otros.
 
-**Beneficio:** Los aliados voluntarios de los que eres consciente y que estan a 60 pies (18 m) o menos de ti y que por lo demas no tendrias detectados, en su lugar se consideran escondidos de ti. La prueba plana para designar como objetivos a aliados voluntarios a 60 pies (18 m) o menos que estan escondidos de ti se reduce a 5 en lugar de 11.
+**Beneficio:** Los aliados voluntarios de los que eres consciente y que estan a 60 pies (18 m) o menos de ti y que por lo demás no tendrías detectados, en su lugar se consideran escondidos de ti. La prueba plana para designar como objetivos a aliados voluntarios a 60 pies (18 m) o menos que estan escondidos de ti se reduce a 5 en lugar de 11.
 
 ---
 
@@ -147,9 +147,9 @@ Un destello de brillantez te concede una ventaja importante en una habilidad a p
 
 Has aprendido a dividir tu enfoque con facilidad entre clases multiples.
 
-**Beneficio:** Obtienes una dote de dedicacion multiclase de 2.o nivel (para mas informacion sobre los arquetipos multiclase, consulta la pag. 215), incluso si normalmente no podrias adquirir otra dote de dedicacion hasta que adquirieras mas dotes de tu arquetipo actual.
+**Beneficio:** Obtienes una dote de dedicacion multiclase de 2.o nivel (para mas información sobre los arquetipos multiclase, consulta la pag. 215), incluso si normalmente no podrias adquirir otra dote de dedicacion hasta que adquirieras mas dotes de tu arquetipo actual.
 
-Si tienes la herencia versatil aiuvarin, no necesitas cumplir los prerrequisitos de modificador por caracteristica de la dote.
+Si tienes la herencia versatil aiuvarin, no necesitas cumplir los prerrequisitos de modificador por característica de la dote.
 
 ---
 
@@ -158,7 +158,7 @@ Si tienes la herencia versatil aiuvarin, no necesitas cumplir los prerrequisitos
 
 Tu educación puso énfasis en la labor de equipo, y ayudar a tus aliados es para ti algo natural.
 
-**Beneficio:** Despues de Prestar ayuda a un aliado en una prueba de habilidad que no tiene el rasgo ataque, tambien puedes Prestar ayuda a cualquier otro aliado que lleva a cabo la misma prueba de habilidad para el mismo proposito ese mismo asalto. En ese caso, la accion se considera gratuita en lugar de una reaccion.
+**Beneficio:** Después de Prestar ayuda a un aliado en una prueba de habilidad que no tiene el rasgo ataque, tambien puedes Prestar ayuda a cualquier otro aliado que lleva a cabo la misma prueba de habilidad para el mismo proposito ese mismo asalto. En ese caso, la accion se considera gratuita en lugar de una reaccion.
 
 La preparación que hiciste para ayudar tiene que poderse aplicar a los otros aliados, y tan solo puedes Prestar ayuda a cada aliado una vez. Por ejemplo, si has ayudado a aupar a un aliado para Prestarle ayuda en una prueba de Atletismo para escalar una pared, podrías mantener la misma postura para aupar a otros aliados que intentan escalar la pared en el mismo asalto.
 
@@ -169,7 +169,7 @@ La preparación que hiciste para ayudar tiene que poderse aplicar a los otros al
 
 No hay viaje demasiado largo ni carga demasiado pesada cuando tienes amigos a tu lado o esperanza en tu corazón.
 
-**Beneficio:** Incrementa en 1 tus limites maximo e impedido de Impedimenta. Ademas, obtienes un bonificador +10 pies (3 m) por circunstancia a tu Velocidad cuando haces viajes de largo recorrido.
+**Beneficio:** Incrementa en 1 tus limites máximo e impedido de Impedimenta. Ademas, obtienes un bonificador +10 pies (3 m) por circunstancia a tu Velocidad cuando haces viajes de largo recorrido.
 
 ---
 

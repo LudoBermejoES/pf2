@@ -22,6 +22,6 @@ spell_level: 1
 
 Alteras la forma en que el aura magica de un objeto o conjuro aparece ante efectos como los de detectar magia. Puedes ocultar las auras por completo, hacer que un objeto parezca un objeto comun de un nivel menor o hacer que un conjuro parezca un conjuro comun del mismo rango o inferior. Puedes Disipar el conjuro.
 
-Un lanzador que utiliza detectar magia o leer aura de un rango superior a disfrazar magia puede hacer una prueba para descreer la ilusion utilizando la habilidad correspondiente a la tradicion del conjuro (Arcanos para arcana, Religion para divina, Ocultismo para ocultista o Naturaleza para primigenia). Intentos posteriores por parte del mismo lanzador obtienen el mismo resultado que la prueba de descreer inicial.
+Un lanzador que utiliza detectar magia o leer aura de un rango superior a disfrazar magia puede hacer una prueba para descreer la ilusion utilizando la habilidad correspondiente a la tradición del conjuro (Arcanos para arcana, Religion para divina, Ocultismo para ocultista o Naturaleza para primigenia). Intentos posteriores por parte del mismo lanzador obtienen el mismo resultado que la prueba de descreer inicial.
 
 **Potenciado (2.o)** Puedes Lanzar este conjuro sobre una criatura, disfrazando todos los objetos y efectos de conjuro que hay sobre ella.

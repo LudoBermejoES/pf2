@@ -24,7 +24,7 @@ Creas una ilusion que hace que el objetivo parezca otra criatura de la misma for
 
 Lanzar disfraz ilusorio equivale a preparar un disfraz para el uso Imitar de Engano; ignora cualquier penalizador por circunstancia que el objetivo podria sufrir por disfrazarse como una criatura no similar, concede un bonificador +4 a las pruebas de Engano para evitar que otros vean a traves del disfraz y permite al objetivo sumar su nivel a dichas pruebas de Engano incluso si no esta entrenado. Puedes Disipar este conjuro.
 
-**Potenciado (3.o)** El objetivo puede parecer cualquier criatura del mismo tamano, incluso un individuo especifico. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
+**Potenciado (3.o)** El objetivo puede parecer cualquier criatura del mismo tamaño, incluso un individuo especifico. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
 
 **Potenciado (4.o)** Puedes designar como objetivo hasta a 10 criaturas voluntarias. Si designas como objetivo a multiples criaturas, puedes elegir un disfraz diferente para cada objetivo, pero ninguna de ellas puede imitar a un individuo especifico. Puedes Disipar cada disfraz individualmente o todos de forma colectiva.
 

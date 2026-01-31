@@ -21,7 +21,7 @@ spell_level: 6
 
 ---
 
-Tomas el mando del objetivo, obligandole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvacion de Voluntad.
+Tomas el mando del objetivo, obligándole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvacion de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 

@@ -17,7 +17,7 @@ spell_level: 1
 
 ---
 
-Te proteges a ti mismo con una energia magica brillante, obteniendo un bonificados +1 por objeto a la CA y un modificador maximo por Destreza de +5. Mientras llevas armadura mistica, utilizas tu competencia sin armadura para calcular tu CA.
+Te proteges a ti mismo con una energia magica brillante, obteniendo un bonificados +1 por objeto a la CA y un modificador máximo por Destreza de +5. Mientras llevas armadura mistica, utilizas tu competencia sin armadura para calcular tu CA.
 
 **Potenciado (4.º)** Obtienes un bonificador +1 por objeto a las tiradas de salvacion.
 

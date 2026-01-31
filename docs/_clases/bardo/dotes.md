@@ -96,11 +96,11 @@ Tus estudios te permiten estar informado de prácticamente todos los temas. Esta
 
 *Bardo*
 
-Puedes moldear el area de tus conjuros de composición. Siempre que lanzas un conjuro de composición cuya area es una emanación, puedes cambiar dicha area a un cono 10 pies (3 m) mas grande, hasta un maximo del doble del area original. Por ejemplo, podrías modificar un conjuro de composición que afectara a una emanación de 30 pies (9 m) para que afectara a un cono de 40 pies (12 m), pero una emanación de 5 pies (1,5 m) tan solo podría convertirse en un cono de 10 pies (3 m).
+Puedes moldear el area de tus conjuros de composición. Siempre que lanzas un conjuro de composición cuya area es una emanación, puedes cambiar dicha area a un cono 10 pies (3 m) mas grande, hasta un máximo del doble del area original. Por ejemplo, podrías modificar un conjuro de composición que afectara a una emanación de 30 pies (9 m) para que afectara a un cono de 40 pies (12 m), pero una emanación de 5 pies (1,5 m) tan solo podría convertirse en un cono de 10 pies (3 m).
 
 ---
 
-### Cancion de Fuerza
+### Canción de Fuerza
 **Dote 2**
 
 *Bardo*
@@ -111,7 +111,7 @@ Tus interpretaciones inspiran fuerza en tus aliados para que les ayude en las ta
 
 ---
 
-### Empujon Emocional ↺
+### Empujón Emocional ↺
 **Dote 2**
 
 *Bardo, Concentrar*
@@ -280,7 +280,7 @@ Puedes ejecutar simultaneamente multiples composiciones, tipicamente interpretan
 
 ---
 
-### Cancion de Marcha
+### Canción de Marcha
 **Dote 6**
 
 *Bardo*
@@ -364,7 +364,7 @@ Utilizas tus interpretaciones para suplementar el lanzamiento de conjuros de un 
 
 **Prerrequisitos** musa maestro
 
-Tus himnos se hacen mas altos y mas potentes, reforzados por el poder de tu musa. Aprendes el conjuro de foco de moldeo de conjuros composición fortisimma.
+Tus himnos se hacen mas altos y mas potentes, reforzados por el poder de tu musa. Aprendes el conjuro de foco de moldeo de conjuros composición fortísima.
 
 ---
 
@@ -421,7 +421,7 @@ Ruges una feroz llamada a las armas, inspirandote a ti mismo para atacar a un en
 
 Tu musa ha abierto tus sentidos al mundo. Obtienes sentido espiritual como un sentido impreciso con un rango de distancia de 60 pies (18 m). Sentido espiritual te permite sentir los espíritus de las criaturas, incluyendo las criaturas vivas, la mayoría de muertos vivientes no descerebrados y las apariciones, dentro del rango indicado. Como tu oido y otros sentidos imprecisos, sigues necesitando Buscar para localizar una criatura no detectada.
 
-Como quiera que sentido espiritual detecta esencias espirituales y no cuerpos físicos, puede detectar espíritus proyectados por conjuros del tipo proyectar imagen o que estan poseyendo objetos que por lo demas, carecen de alma. No puede detectar cuerpos sin alma, constructor ni objetos y, como la mayoría de sentidos, no atraviesa los objetos sólidos.
+Como quiera que sentido espiritual detecta esencias espirituales y no cuerpos físicos, puede detectar espíritus proyectados por conjuros del tipo proyectar imagen o que estan poseyendo objetos que por lo demás, carecen de alma. No puede detectar cuerpos sin alma, constructor ni objetos y, como la mayoría de sentidos, no atraviesa los objetos sólidos.
 
 ---
 
@@ -441,7 +441,7 @@ Con un poderoso grito, puedes animar a un aliado para que ataque. Si tu siguient
 ### Anotar Composicion
 **Dote 10**
 
-*Bardo, Exploracion, Linguistico*
+*Bardo, Exploración, Linguistico*
 
 Anotando tu composición en papel, puedes crear una fuente de palabras o de musica inspiradora que otros pueden leer y entender. Inviertes 10 minutos y 1 Punto de Foco para trasponer un conjuro de composición a un pergamino especial que después podeis activar otra criatura o tu. Debe tratarse de un conjuro que requiere una sola acción para lanzarse. Si el conjuro de composición elegido requiere una prueba de Interpretación como parte del lanzamiento, el DJ hace dicha prueba en secreto cuando la anotas.
 
@@ -469,7 +469,7 @@ Puedes traspasar la emoción y la potencia de una composición a otros medios. S
 
 *Bardo*
 
-Eliges una barrera imaginaria que los demas creen que es real. Aprendes el truco de composición la casa de los muros imaginarios.
+Eliges una barrera imaginaria que los demás creen que es real. Aprendes el truco de composición la casa de los muros imaginarios.
 
 ---
 
@@ -531,7 +531,7 @@ Tu musa te susurra conocimiento en los momentos precisos. Obtienes los beneficio
 
 *Bardo*
 
-Tu conexión con tu musa te ha concedido un enfoque poco usual. Siempre que Reenfocas, rellenas por completo tu reserva de foco.
+Tu conexión con tu musa te ha concedido un enfoque poco usual. Siempre que Reenofcas, rellenas por completo tu reserva de foco.
 
 ---
 
@@ -583,9 +583,9 @@ Calmas las heridas de tus aliados con el poder de tu interpretación. Aprendes e
 ### Gusano Auditivo
 **Dote 14**
 
-*Bardo, Exploracion*
+*Bardo, Exploración*
 
-Repitiendo incesantemente un motivo, implantas en la cabeza de tus aliados una canción memorable que se repite una y otra vez, preparandoles para responder a ella mas adelante. Elige un truco de composición e invierte 10 minutos repitiendo una melodia, cantico, discurso, serie de movimientos o una interpretación similar que personifica dicho truco. Esta actividad obtiene los rasgos apropiados al tipo de Interpretación. Implantas el gusano auditivo en todos los aliados que pueden verte u oírte (segun el tipo de Interpretación) durante toda la actividad.
+Repitiendo incesantemente un motivo, implantas en la cabeza de tus aliados una canción memorable que se repite una y otra vez, preparándoles para responder a ella mas adelante. Elige un truco de composición e invierte 10 minutos repitiendo una melodia, cantico, discurso, serie de movimientos o una interpretación similar que personifica dicho truco. Esta actividad obtiene los rasgos apropiados al tipo de Interpretación. Implantas el gusano auditivo en todos los aliados que pueden verte u oírte (segun el tipo de Interpretación) durante toda la actividad.
 
 Una vez has creado el gusano auditivo, debes hacer una prueba de interpretación como acción gratuita para activarlo. Esta prueba utiliza la CD de Voluntad mas alta de los objetivos del gusano auditivo presentes en el momento de la activación. Si tienes éxito, lanzas el truco sobre todos los aliados que aprendieron el gusano auditivo y pueden percibir tu interpretación; si fallas, el gusano auditivo se corrompe y se pierde. Como quiera que esta basado en las repeticiones anteriores, no puedes utilizar mas acciones gratuitas como composición persistente o composición fortissima para modificar el gusano auditivo activado. Los aliados olvidan el gusano auditivo después de haber sido activado, si inviertes 10 minutos en implantar otro o durante tus siguientes preparativos diarios, lo que sucede antes.
 
@@ -644,7 +644,7 @@ Utilizas tu interpretación para orquestar una ofensiva contra tus enemigos. Si 
 
 **Prerrequisitos** musa enigma, rango legendario en Ocultismo
 
-Tus estudios continuados de la magia ocultista han incrementado tu capacidad magica, lo que te permite lanzar conjuros incluso cuando parece imposible. Puedes lanzar cada dia un conjuro, incluso habiendote quedado sin espacios de conjuro del nivel apropiado, pero no puedes utilizar esta aptitud para lanzar un conjuro de tu rango de conjuros maximo.
+Tus estudios continuados de la magia ocultista han incrementado tu capacidad magica, lo que te permite lanzar conjuros incluso cuando parece imposible. Puedes lanzar cada dia un conjuro, incluso habiendote quedado sin espacios de conjuro del nivel apropiado, pero no puedes utilizar esta aptitud para lanzar un conjuro de tu rango de conjuros máximo.
 
 ---
 
@@ -668,7 +668,7 @@ Puedes mantener un conjuro apenas pensando. Obtienes de inmediato los efectos de
 
 **Desencadenante** Tu o un aliado tuyo que os estais beneficiando de tu conjuro de composicion sufririais dano sonico.
 
-Haces que tu interpretación llegue a un final repentino y dramatico, que ahoga todos los demas sonidos. Tu conjuro de composición acaba de inmediato, y todos los aliados que se estaban beneficiando de sus efectos obtienen tanta resistencia sonica contra el dano desencadenante como el doble del nivel del conjuro.
+Haces que tu interpretación llegue a un final repentino y dramatico, que ahoga todos los demás sonidos. Tu conjuro de composición acaba de inmediato, y todos los aliados que se estaban beneficiando de sus efectos obtienen tanta resistencia sonica contra el dano desencadenante como el doble del nivel del conjuro.
 
 ---
 
@@ -694,7 +694,7 @@ El mundo es un escenario en el que siempre estas interpretando. Estas permanente
 
 Tus formulas esotéricas son tan poco usuales que te permiten hacer incursiones en la magia de diversas tradiciones que otros bardos no entienden. Gracias a Polifacético esoterico, si estas entrenado en Arcanos, puedes añadir conjuros Arcanos a tu libro; si estas entrenado en Naturaleza, conjuros primigenios; y si estas entrenado en Religion, conjuros divinos.
 
-Igual que los demas conjuros de tu libro, puedes añadir uno de estos conjuros de otra tradición a tu repertorio como un conjuro de ocultismo cada dia utilizando Polifacético esoterico, pero no puedes retener conjuro alguno de otra tradición cuando vuelves a prepararlos, incluso si dispones de Polifacético ecléctico.
+Igual que los demás conjuros de tu libro, puedes añadir uno de estos conjuros de otra tradición a tu repertorio como un conjuro de ocultismo cada dia utilizando Polifacético esoterico, pero no puedes retener conjuro alguno de otra tradición cuando vuelves a prepararlos, incluso si dispones de Polifacético ecléctico.
 
 ---
 
@@ -714,9 +714,9 @@ Tu repertorio es vasto y contiene muchos mas conjuros de lo habitual. Anade un c
 
 *Bardo, Ilusion, Mental*
 
-**Desencadenante** Sufririas dano de un Golpe o conjuro que no tiene el rasgo muerte o que por lo demas causa la muerte instantanea (como por ejemplo desintegrar).
+**Desencadenante** Sufririas dano de un Golpe o conjuro que no tiene el rasgo muerte o que por lo demás causa la muerte instantanea (como por ejemplo desintegrar).
 
-Utilizando tus conexiones ocultistas y tus increíbles poderes de persuasion, te convences a ti mismo de que el dano desencadenante es fruto de tu imaginación. El dano cambia de su tipo habitual a dano mental y el efecto danino obtiene el rasgo no letal. No puedes usar esta reacción si eres inmune a los efectos mentales o al dano mental.
+Utilizando tus conexiones ocultistas y tus increíbles poderes de persuasion, te convences a ti mismo de que el dano desencadenante es fruto de tu imaginación. El dano cambia de su tipo habitual a dano mental y el efecto dañino obtiene el rasgo no letal. No puedes usar esta reacción si eres inmune a los efectos mentales o al dano mental.
 
 ---
 

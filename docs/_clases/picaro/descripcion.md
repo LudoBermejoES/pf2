@@ -12,16 +12,16 @@ Eres habil y oportunista. Utilizando tu aguda inteligencia y tus rapidas reaccio
 
 ## Estadisticas de Clase
 
-| Caracteristica | Valor |
+| Característica | Valor |
 |----------------|-------|
-| **Puntos de Golpe** | 8 + modificador por Constitucion (por nivel) |
+| **Puntos de Golpe** | 8 + modificador por Constitución (por nivel) |
 | **Atributo Clave** | Destreza (u otra segun enredo) |
 
 ### Competencias Iniciales
 
 A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadísticas. No estas entrenado en cualquier cosa no indicada si no obtienes un rango de competencia mejor de alguna otra forma.
 
-#### Percepcion
+#### Percepción
 - Experto en Percepción
 
 #### Tiradas de Salvacion

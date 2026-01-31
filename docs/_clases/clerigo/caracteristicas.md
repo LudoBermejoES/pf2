@@ -8,30 +8,30 @@ nav_order: 2
 class_name: Clérigo
 ---
 
-## Tabla de Avance del Clerigo
+## Tabla de Avance del Clérigo
 
 | Tu nivel | Rasgos de clase |
 |----------|-----------------|
-| 1 | Ascendencia y bagaje, mejoras de atributo, competencias iniciales, dios, lanzamiento de conjuros de clerigo, fuente divina, doctrina |
-| 2 | Dote de clerigo, dote de habilidad |
+| 1 | Ascendencia y bagaje, mejoras de atributo, competencias iniciales, dios, lanzamiento de conjuros de clérigo, fuente divina, doctrina |
+| 2 | Dote de clérigo, dote de habilidad |
 | 3 | Conjuros de 2.º rango, dote general, segunda doctrina, incremento de habilidad |
-| 4 | Dote de clerigo, dote de habilidad |
-| 5 | Conjuros de 3.er rango, mejoras de atributo, dote de ascendencia, experiencia en Percepcion, dote de habilidad |
-| 6 | Dote de clerigo, dote de habilidad |
+| 4 | Dote de clérigo, dote de habilidad |
+| 5 | Conjuros de 3.er rango, mejoras de atributo, dote de ascendencia, experiencia en Percepción, dote de habilidad |
+| 6 | Dote de clérigo, dote de habilidad |
 | 7 | Conjuros de 4.º rango, dote general, incremento de habilidad, tercera doctrina |
-| 8 | Dote de clerigo, dote de habilidad |
+| 8 | Dote de clérigo, dote de habilidad |
 | 9 | Conjuros de 5.º rango, dote de ascendencia, fe resoluta, incremento de habilidad |
-| 10 | Mejoras de atributo, dote de clerigo, dote de habilidad |
+| 10 | Mejoras de atributo, dote de clérigo, dote de habilidad |
 | 11 | Conjuros de 6.º rango, cuarta doctrina, dote general, reflejos rapidos, incremento de habilidad |
-| 12 | Dote de clerigo, dote de habilidad |
-| 13 | Conjuros de 7.º rango, dote de ascendencia, defensa divina, incremento de habilidad, especializacion en armas |
-| 14 | Dote de clerigo, dote de habilidad |
+| 12 | Dote de clérigo, dote de habilidad |
+| 13 | Conjuros de 7.º rango, dote de ascendencia, defensa divina, incremento de habilidad, especialización en armas |
+| 14 | Dote de clérigo, dote de habilidad |
 | 15 | Conjuros de 8.º rango, mejoras de atributo, quinta doctrina, dote general, incremento de habilidad |
-| 16 | Dote de clerigo, dote de habilidad |
+| 16 | Dote de clérigo, dote de habilidad |
 | 17 | Conjuros de 9.º rango, dote de ascendencia, incremento de habilidad |
-| 18 | Dote de clerigo, dote de habilidad |
+| 18 | Dote de clérigo, dote de habilidad |
 | 19 | Doctrina final, dote general, conjuro milagroso, incremento de habilidad |
-| 20 | Mejoras de atributo, dote de clerigo, dote de habilidad |
+| 20 | Mejoras de atributo, dote de clérigo, dote de habilidad |
 
 ---
 
@@ -57,7 +57,7 @@ En el 1.er nivel obtienes cierta cantidad de competencias que representan tu ent
 
 ## Dios
 
-Como clérigo, eres un servidor mortal de un dios al que adoras por encima de todos los demas. Tu dios te concede el rango de competencia entrenado en una habilidad y con su arma predilecta. Aunque el arma predilecta de tu dios sea poco comun, obtendrás acceso a dicha arma.
+Como clérigo, eres un servidor mortal de un dios al que adoras por encima de todos los demás. Tu dios te concede el rango de competencia entrenado en una habilidad y con su arma predilecta. Aunque el arma predilecta de tu dios sea poco comun, obtendrás acceso a dicha arma.
 
 Tu dios tambien añade conjuros a tu lista. Podras prepararlos igual que cualquier conjuro de la lista de conjuros divinos una vez puedas preparar conjuros de dicho rango como clérigo. Algunos de estos conjuros no figuran normalmente en la lista divina, pero siguen siendo conjuros divinos si los preparas de esta forma.
 
@@ -81,27 +81,27 @@ Si llevas a cabo suficientes actos que son anatema para tu dios, pierdes las apt
 
 ---
 
-## Lanzamiento de Conjuros de Clerigo
+## Lanzamiento de Conjuros de Clérigo
 
 Tu dios te concede el poder de lanzar conjuros divinos. Eres un lanzador de conjuros, y puedes lanzar conjuros de la tradición divina utilizando la actividad Lanzar un conjuro. Como clérigo, tus cánticos suelen invocar a tu dios y a sus sirvientes mas poderosos por su nombre o por su titulo, mientras que tus gestos son seguidos por símbolos sagrados u otras representaciones de tu dios.
 
 A 1.er nivel, cada mañana puedes preparar 2 conjuros de 1.er rango y 5 trucos de entre los conjuros comunes de la lista de conjuros divinos o de otros conjuros divinos a los que obtienes acceso y aprendes via Aprender un conjuro. Los conjuros preparados permanecen disponibles hasta que los lanzas o hasta que preparas conjuros de nuevo. El numero de conjuros que puedes preparar cada dia se denomina tus espacios de conjuro.
 
-Conforme subes de nivel como clérigo, el numero de conjuros que puedes preparar cada dia aumenta, asi como el rango superior de conjuro que puedes lanzar.
+Conforme subes de nivel como clérigo, el numero de conjuros que puedes preparar cada dia aumenta, así como el rango superior de conjuro que puedes lanzar.
 
 Algunos de tus conjuros requieren que hagas un ataque de conjuro para ver lo efectivos que son o que tus enemigos tiren contra tu CD de conjuros (tipicamente haciendo una tirada de salvación). Como quiera que tu atributo clave es la Sabiduría, tu modificador al ataque de conjuros y tu CD de conjuros utilizan tu modificador por Sabiduría.
 
 ### Potenciacion de Conjuros
 
-Cuando obtienes espacios de conjuro de 2.º rango y superior, puedes rellenarlos con versiones mas potentes de conjuros de rango mas bajo. Esto incrementa el rango del conjuro, potenciandolo para que encaje con el espacio de conjuro. Muchos conjuros obtienen mejoras especificas cuando se potencian a ciertos rangos.
+Cuando obtienes espacios de conjuro de 2.º rango y superior, puedes rellenarlos con versiones mas potentes de conjuros de rango mas bajo. Esto incrementa el rango del conjuro, potenciándolo para que encaje con el espacio de conjuro. Muchos conjuros obtienen mejoras especificas cuando se potencian a ciertos rangos.
 
 ### Trucos
 
-Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de conjuro que no utiliza espacios de conjuro. Puedes lanzar un truco a voluntad, todas las veces que quieras al dia. Un truco se potencia automaticamente a la mitad de tu nivel redondeado hacia arriba, lo que suele ser igual al maximo rango de espacios de conjuro de clérigo de que dispones.
+Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de conjuro que no utiliza espacios de conjuro. Puedes lanzar un truco a voluntad, todas las veces que quieras al dia. Un truco se potencia automaticamente a la mitad de tu nivel redondeado hacia arriba, lo que suele ser igual al máximo rango de espacios de conjuro de clérigo de que dispones.
 
 ---
 
-## Conjuros de Clerigo por Dia
+## Conjuros de Clérigo por Dia
 
 | Tu nivel | Trucos | 1.º | 2.º | 3.º | 4.º | 5.º | 6.º | 7.º | 8.º | 9.º | 10.º |
 |----------|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
@@ -156,16 +156,16 @@ Obtienes 4 espacios de conjuro adicionales cada dia a tu rango mayor de espacios
 
 Incluso entre seguidores del mismo dios, las aproximaciones varian. A 1.er nivel seleccionas clérigo de clausura o sacerdote de guerra y obtienes los beneficios de su primera doctrina. A 3.er nivel y cada 4 niveles posteriores, obtienes otro beneficio de tu doctrina.
 
-### Clerigo de Clausura
+### Clérigo de Clausura
 
 Eres un clérigo con sotana, que se centra en la magia divina y en la conexión con los dominios de tu dios.
 
 | Nivel | Doctrina |
 |-------|----------|
-| **Primera doctrina (1.º)** | Obtienes la dote de clerigo Iniciado de un dominio. |
+| **Primera doctrina (1.º)** | Obtienes la dote de clérigo Iniciado de un dominio. |
 | **Segunda doctrina (3.º)** | Tu rango de competencia para las salvaciones de Fortaleza se incrementa a experto. |
 | **Tercera doctrina (7.º)** | Tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango experto. |
-| **Cuarta doctrina (11.º)** | Obtienes competencia a rango experto con el arma predilecta de tu dios, las armas sencillas y los ataques sin armas. Cuando obtienes un exito critico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especializacion critica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase. |
+| **Cuarta doctrina (11.º)** | Obtienes competencia a rango experto con el arma predilecta de tu dios, las armas sencillas y los ataques sin armas. Cuando obtienes un exito critico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especialización critica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase. |
 | **Quinta doctrina (15.º)** | Tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango maestro. |
 | **Doctrina final (19.º)** | Tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango legendario. |
 
@@ -175,9 +175,9 @@ Te has entrenado en las doctrinas mas militantes de tu Iglesia, centrándose tan
 
 | Nivel | Doctrina |
 |-------|----------|
-| **Primera doctrina (1.º)** | Tienes competencia a rango entrenado en armadura ligera e intermedia y competencia a rango experto en las salvaciones de Fortaleza. Obtienes la dote general Bloqueo con el escudo, una reaccion para reducir el daño mediante un escudo. Si el arma predilecta de tu dios es un arma sencilla o un ataque sin armas, obtienes la dote de clerigo Simplicidad mortal. A 13.er nivel, si obtienes el rasgo de clase defensa divina, tambien obtienes competencia a rango experto con las armaduras ligeras e intermedias. |
+| **Primera doctrina (1.º)** | Tienes competencia a rango entrenado en armadura ligera e intermedia y competencia a rango experto en las salvaciones de Fortaleza. Obtienes la dote general Bloqueo con el escudo, una reaccion para reducir el daño mediante un escudo. Si el arma predilecta de tu dios es un arma sencilla o un ataque sin armas, obtienes la dote de clérigo Simplicidad mortal. A 13.er nivel, si obtienes el rasgo de clase defensa divina, tambien obtienes competencia a rango experto con las armaduras ligeras e intermedias. |
 | **Segunda doctrina (3.º)** | Estas entrenado en armas marciales. |
-| **Tercera doctrina (7.º)** | Obtienes competencia a rango experto con el arma predilecta de tu dios, las armas marciales, las armas sencillas y los ataques sin armas. Cuando obtienes un exito critico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especializacion critica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase. |
+| **Tercera doctrina (7.º)** | Obtienes competencia a rango experto con el arma predilecta de tu dios, las armas marciales, las armas sencillas y los ataques sin armas. Cuando obtienes un exito critico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especialización critica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase. |
 | **Cuarta doctrina (11.º)** | Tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango experto. |
 | **Quinta doctrina (15.º)** | Tu rango de competencia para las salvaciones de Fortaleza se incrementa a maestro. Cuando consigues un exito en una salvacion de Fortaleza, en su lugar consigues un exito critico. |
 | **Doctrina final (19.º)** | Obtienes competencia a rango maestro con el arma predilecta de tu dios, tu modificador al ataque de conjuros y tu CD de conjuro. |
@@ -186,7 +186,7 @@ Te has entrenado en las doctrinas mas militantes de tu Iglesia, centrándose tan
 
 ## Rasgos de Clase por Nivel
 
-### Dotes de Clerigo (2.º)
+### Dotes de Clérigo (2.º)
 
 A 2.º nivel y cada 2 niveles posteriores, obtienes una dote de clase de clérigo.
 
@@ -208,7 +208,7 @@ Puedes utilizar cualquiera de estos incrementos de habilidad que obtienes a 7.º
 
 Ademas de la dote de ascendencia con la que empezaste, obtienes una nueva dote de ascendencia a 5.º nivel y cada 4 niveles posteriores.
 
-### Experiencia en Percepcion (5.º)
+### Experiencia en Percepción (5.º)
 
 Permaneces alerta ante las amenazas que te rodean. Tu rango de competencia en Percepción se incrementa a experto.
 
@@ -224,7 +224,7 @@ Tienes facilidad para esquivar el peligro. Tu rango de competencia para las salv
 
 Tu entrenamiento y tu dios te protegen del daño. Tu rango de competencia para la defensa sin armadura se incrementa a experto.
 
-### Especializacion en Armas (13.º)
+### Especialización en Armas (13.º)
 
 Has aprendido a infligir heridas mayores con tus armas. Infliges 2 daño adicional con las armas y los ataques sin armas en los que dispones del rango experto. Este daño se incrementa a 3 si dispones del rango maestro y a 4 si dispones del rango legendario.
 

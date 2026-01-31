@@ -8,7 +8,7 @@ nav_order: 1
 class_name: Clérigo
 ---
 
-<img src="{{ '/assets/images/clases/clerigo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Clérigo">
+<img src="{{ '/assets/images/clases/clérigo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Clérigo">
 
 Los clérigos son siervos mortales de los dioses, canalizando el poder divino para cumplir la voluntad de sus deidades. Ya sea mediante la curación de los fieles, la destrucción de los enemigos de la fe o la difusion de la palabra sagrada, el clérigo es el conducto entre lo mortal y lo divino.
 
@@ -16,8 +16,8 @@ Los clérigos son siervos mortales de los dioses, canalizando el poder divino pa
 
 | Estadistica | Valor |
 |-------------|-------|
-| **Puntos de Golpe** | 8 + modificador por Constitucion por nivel |
-| **Atributo Clave** | Sabiduria |
+| **Puntos de Golpe** | 8 + modificador por Constitución por nivel |
+| **Atributo Clave** | Sabiduría |
 
 A 1.er nivel, tu clase te concede una mejora de atributo a Sabiduría.
 
@@ -25,7 +25,7 @@ A 1.er nivel, tu clase te concede una mejora de atributo a Sabiduría.
 
 A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadísticas. No estas entrenado en cualquier cosa no indicada si no obtienes un rango de competencia mejor de alguna otra forma.
 
-### Percepcion
+### Percepción
 - Entrenado en Percepción
 
 ### Tiradas de Salvacion
@@ -70,5 +70,5 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ## Selecciones relacionadas
 
-- [Características]({{ '/clases/clerigo/caracteristicas/' | relative_url }})
-- [Dotes]({{ '/clases/clerigo/dotes/' | relative_url }})
+- [Características]({{ '/clases/clérigo/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/clérigo/dotes/' | relative_url }})

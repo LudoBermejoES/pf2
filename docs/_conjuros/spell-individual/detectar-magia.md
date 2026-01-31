@@ -12,16 +12,16 @@ spell_level: TRUCO
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
-<span class="trait-tag">Deteccion</span>
+<span class="trait-tag">Detección</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Truco</span>
 </div>
 
 ---
 
-Envias un pulso que registra la presencia de la magia. No recibes otra informacion aparte de la presencia o la ausencia de magia. Puedes ignorar la magia de la que eres consciente, como por ejemplo los objetos magicos y los conjuros activos, tanto tuyos como de tus aliados.
+Envias un pulso que registra la presencia de la magia. No recibes otra información aparte de la presencia o la ausencia de magia. Puedes ignorar la magia de la que eres consciente, como por ejemplo los objetos mágicos y los conjuros activos, tanto tuyos como de tus aliados.
 
-Tan solo detectas la magia de ilusion si el efecto de dicha magia tiene un rango inferior que el de tu conjuro de detectar magia. Sin embargo, los objetos que tienen un aura de ilusion pero no son enganosos en apariencia (como por ejemplo una pocion de invisibilidad) se suelen detectar normalmente.
+Tan solo detectas la magia de ilusion si el efecto de dicha magia tiene un rango inferior que el de tu conjuro de detectar magia. Sin embargo, los objetos que tienen un aura de ilusion pero no son enganosos en apariencia (como por ejemplo una poción de invisibilidad) se suelen detectar normalmente.
 
 **Potenciado (3.o)** Averiguas el rango del efecto magico mas poderoso que detecta el conjuro, a determinar por el DJ.
 

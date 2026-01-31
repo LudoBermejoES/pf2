@@ -482,7 +482,7 @@ Siempre que convocas a un aliado, puedes potenciarlo con el poder elemental del 
 
 **Rasgos:** Druida
 
-Tu conexión con la Naturaleza es particularmente fuerte y los espíritus de la misma se arraciman a tu alrededor, ayudándote a reponer tu foco. Siempre que Reenfocas, rellenas por completo tu reserva de foco.
+Tu conexión con la Naturaleza es particularmente fuerte y los espíritus de la misma se arraciman a tu alrededor, ayudándote a reponer tu foco. Siempre que Reenofcas, rellenas por completo tu reserva de foco.
 
 ---
 

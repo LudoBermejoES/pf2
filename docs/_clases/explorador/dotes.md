@@ -20,7 +20,7 @@ En cada nivel en el que obtienes una dote de explorador, puedes seleccionar una 
 
 **Rasgos:** Explorador
 
-**Requisitos:** Empunas una ballesta con recarga 1 o mayor.
+**Requisitos:** Empuñas una ballesta con recarga 1 o mayor.
 
 Tu profunda comprensión de la ballesta te permite recargarla de forma eficiente mientras te apartas de la linea del fuego de retorno. Crea una distracción o Ponte a cubierto y después Interactuó para recargar. De la forma habitual, tienes que cumplir los requisitos para Ponerte a cubierto; tienes que estar tumbado, beneficiandote de cobertura o cerca de un rasgo del terreno que te permite Ponerte a cubierto.
 
@@ -52,7 +52,7 @@ Obtienes los servicios de un compañero animal joven que viaja contigo y obedece
 
 **Rasgos:** Explorador, Floritura
 
-**Requisitos:** Empunas dos armas cuerpo a cuerpo, cada una en una mano diferente.
+**Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
 Atacas rapidamente a tu presa perseguida con ambas armas, potencialmente combinando su dano en un solo y devastador ataque. Da dos Golpes contra tu presa perseguida, una con cada una de las armas requeridas. Si ambos aciertan a la misma presa perseguida, combina su dano a efectos de resistencias y debilidades. Aplica tu penalizador por ataque multiple a cada Golpe de la forma habitual.
 
@@ -76,7 +76,7 @@ Has entrenado con una de las sectas de exploradores conocidas como guardianes, q
 
 **Rasgos:** Explorador, Floritura
 
-**Requisitos:** Empunas un arma a distancia con recarga 0.
+**Requisitos:** Empuñas un arma a distancia con recarga 0.
 
 Haces dos disparos seguidos contra lo que persigues. Da dos Golpes contra tu presa con el arma requerida. Si ambos aciertan a la misma criatura, combina su dano a efectos de resistencias y debilidades. Aplica tu penalizador por ataque multiple a cada Golpe de la forma habitual.
 
@@ -132,7 +132,7 @@ Cuando te concentras en apuntar, tu ataque se vuelve particularmente preciso. Da
 
 **Rasgos:** Explorador
 
-Has estudiado un terreno especifico para superar sus desafios. Elige entre acuático, artico, bosque, cielo, desierto, llanuras, montanas, pantano o subterráneo como terreno predilecto. Cuando estas en dicho terreno, puedes ignorar los efectos del terreno dificil no magico.
+Has estudiado un terreno especifico para superar sus desafios. Elige entre acuático, artico, bosque, cielo, desierto, llanuras, montanas, pantano o subterráneo como terreno predilecto. Cuando estas en dicho terreno, puedes ignorar los efectos del terreno difícil no magico.
 
 Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en tu terreno favorito, dependiendo de tu elección:
 
@@ -142,7 +142,7 @@ Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en t
 - **Cielo:** Obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad de vuelo, si la tienes.
 - **Desierto:** Solo necesitas comer y beber una decima parte de lo normal, no te ves afectado por el calor severo o extremo y puedes caminar por la arena a Velocidad completa sin tener que Mantener el equilibrio.
 - **Llanuras:** Obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad terrestre.
-- **Pantano:** Puedes atravesar pantanos a tu Velocidad completa, incluso si son lo suficientemente profundos como para ser terreno dificil mayor o para requerir normalmente que tengas que Nadar.
+- **Pantano:** Puedes atravesar pantanos a tu Velocidad completa, incluso si son lo suficientemente profundos como para ser terreno difícil mayor o para requerir normalmente que tengas que Nadar.
 
 ---
 
@@ -154,7 +154,7 @@ Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en t
 
 **Rasgos:** Explorador
 
-**Desencadenante:** Estas a punto de hacer una prueba de Percepcion o de Supervivencia para calcular la iniciativa.
+**Desencadenante:** Estas a punto de hacer una prueba de Percepción o de Supervivencia para calcular la iniciativa.
 
 Previenes visual o auditivamente a tus aliados del peligro, concediendo a cada uno de ellos un bonificados +1 por circunstancia a sus tiradas de iniciativa. Dependiendo de si utilizas gestos o de si das un grito, esta acción obtiene los rasgos visual o auditivo respectivamente.
 
@@ -178,7 +178,7 @@ Tu experiencia en el campo te ha ensenado a enfocar tu punteria a distancia, inc
 
 **Prerrequisitos:** un companero animal
 
-Puedes urgir a tu compañero animal a esforzarse al maximo. Puedes invertir dos acciones para Comandar a un animal en lugar de 1 cuando comandas a tu compañero animal. Si lo haces, tu compañero animal utiliza una acción adicional.
+Puedes urgir a tu compañero animal a esforzarse al máximo. Puedes invertir dos acciones para Comandar a un animal en lugar de 1 cuando comandas a tu compañero animal. Si lo haces, tu compañero animal utiliza una acción adicional.
 
 ---
 
@@ -202,7 +202,7 @@ Desbloqueas mas conjuros primigenios poderosos. Obtienes un conjuro de guardian 
 
 **Rasgos:** Explorador
 
-**Requisitos:** Empunas dos armas cuerpo a cuerpo, cada una en una mano diferente.
+**Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
 Puedes utilizar las dos armas para desviar ataques. Obtienes un bonificados +1 por circunstancia a la CA hasta el inicio de tu siguiente turno, o bien un bonificados +2 por circunstancia si ambas armas tienen el rasgo parada. Pierdes el bonificados si dejas de cumplir los requisitos de esta dote.
 
@@ -256,7 +256,7 @@ Puedes recargar tu arma mientras te mueves. Das una Zancada, un Paso o bien usas
 
 Tu compañero animal se convierte en un compañero animal maduro y obtiene capacidades adicionales.
 
-Tu compañero animal tiene una independencia mayor. Durante un encuentro, incluso si no utilizas la acción Comandar a un animal, tu compañero animal sigue pudiendo utilizar 1 acción dicho asalto en tu turno para dar una Zancada o un Golpe. Puede hacerlo en cualquier momento de tu turno, menos cuando tu estas llevando a cabo una acción. Si lo hace, es el maximo de acciones que obtiene en dicho asalto, no puedes Comandarle mas tarde.
+Tu compañero animal tiene una independencia mayor. Durante un encuentro, incluso si no utilizas la acción Comandar a un animal, tu compañero animal sigue pudiendo utilizar 1 acción dicho asalto en tu turno para dar una Zancada o un Golpe. Puede hacerlo en cualquier momento de tu turno, menos cuando tu estas llevando a cabo una acción. Si lo hace, es el máximo de acciones que obtiene en dicho asalto, no puedes Comandarle mas tarde.
 
 ---
 
@@ -338,7 +338,7 @@ Tienes una aptitud intuitiva para notar los riesgos. Obtienes un bonificados +1 
 
 **Rasgos:** Explorador
 
-**Prerrequisitos:** rango maestro en Percepcion
+**Prerrequisitos:** rango maestro en Percepción
 
 Tus instintos potenciados te permiten detectar instintivamente oponentes que no has visto. No necesitas tener éxito en una prueba plana para designar como objetivo a criaturas ocultas. No estas desprevenido ante criaturas escondidas de ti (a menos que lo estes debido a razones distintas a estar escondidas), y necesitas tan solo una prueba plana CD 5 para designar como objetivo a una criatura escondida.
 
@@ -374,9 +374,9 @@ Señales las vulnerabilidades presentes en tu presa perseguida, concediendo los 
 
 **Rasgos:** Explorador, Floritura
 
-**Prerrequisitos:** especializacion en armas
+**Prerrequisitos:** especialización en armas
 
-Apuntas a los puntos debiles de tu presa, haciendo que tu disparo sea mas dificil, pero que inflija mas dano si aciertas. Da un Golpe a distancia con arma contra tu presa perseguida con un penalizador -2. Obtienes un bonificados +4 por circunstancia al dano en dicho Golpe. El dano se incrementa a +6 a 11.o nivel y a +8 a 15.o nivel.
+Apuntas a los puntos debiles de tu presa, haciendo que tu disparo sea mas difícil, pero que inflija mas dano si aciertas. Da un Golpe a distancia con arma contra tu presa perseguida con un penalizador -2. Obtienes un bonificados +4 por circunstancia al dano en dicho Golpe. El dano se incrementa a +6 a 11.o nivel y a +8 a 15.o nivel.
 
 ---
 
@@ -402,7 +402,7 @@ Alteras tu apariencia para difuminarte en las tierras virgenes. En terreno natur
 
 **Prerrequisitos:** rango maestro en Naturaleza, Cazador de monstruos
 
-Dispones de un conocimiento casi enciclopedico acerca de todas las criaturas del mundo. Puedes utilizar Naturaleza para Recordar conocimiento e identificar asi a cualquier criatura. Ademas, obtienes los beneficios de Cazador de monstruos (y Guardian contra los monstruos, si la tienes) con un éxito igual que con un éxito critico.
+Dispones de un conocimiento casi enciclopedico acerca de todas las criaturas del mundo. Puedes utilizar Naturaleza para Recordar conocimiento e identificar así a cualquier criatura. Ademas, obtienes los beneficios de Cazador de monstruos (y Guardian contra los monstruos, si la tienes) con un éxito igual que con un éxito critico.
 
 ---
 
@@ -424,7 +424,7 @@ Tu compañero animal continua creciendo y desarrollandose. Se convierte en un co
 
 **Rasgos:** Explorador
 
-**Requisitos:** Empunas un arma a distancia
+**Requisitos:** Empuñas un arma a distancia
 
 Disparas atravesando a una criatura interpuesta para acertar a tu presa. Elige un objetivo que concede cobertura menor a tu presa perseguida. Da un solo Golpe a distancia con el arma requerida contra el objetivo elegido y tu presa perseguida. Este ataque ignora cualquier cobertura menor proporcionada por el objetivo elegido a tu presa perseguida. Tira solo una vez por dano y aplicado a cada criatura impactada. Un disparo perforante cuenta como dos ataques para tu penalizador por ataque multiple.
 
@@ -504,7 +504,7 @@ Puedes centrarte en dos enemigos a la vez, persiguiendo a ambos. Cuando utilizas
 
 **Prerrequisitos:** conjuros de guardian
 
-Tu conexión con lo que te rodea se hace mas profunda y se expande, lo que te permite absorber mas poder primigenio de la Naturaleza cuando Reenfocas. Cuando Reenfocas, recuperas todos tus Puntos de Foco en lugar de 1.
+Tu conexión con lo que te rodea se hace mas profunda y se expande, lo que te permite absorber mas poder primigenio de la Naturaleza cuando Reenofcas. Cuando Reenofcas, recuperas todos tus Puntos de Foco en lugar de 1.
 
 ---
 
@@ -514,7 +514,7 @@ Tu conexión con lo que te rodea se hace mas profunda y se expande, lo que te pe
 
 **Rasgos:** Aprovechar, Explorador
 
-**Requisitos:** Empunas dos armas cuerpo a cuerpo, cada una en una mano diferente.
+**Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
 Lees los movimientos de tu presa y los transformas en aberturas, por lo que los fallos con un arma llevan a golpes de refilón con la otra. Da un Golpe cuerpo a cuerpo con una de las armas requeridas contra tu presa perseguida. El Golpe obtiene el siguiente efecto de fallo.
 
@@ -522,7 +522,7 @@ Lees los movimientos de tu presa y los transformas en aberturas, por lo que los 
 
 ---
 
-### Tiro de Distraccion
+### Tiro de Distracción
 
 **Dote 12**
 
@@ -604,7 +604,7 @@ Tu conocimiento de los monstruos es tan sensacional que revela fallos garrafales
 
 Tu compañero animal continua creciendo en poder y aptitudes, y ahora es lo suficientemente astuto como para especializarse. Tu compañero animal obtiene una especialización que puedes elegir.
 
-**Especial:** Puedes seleccionar esta dote hasta 3 veces. Cada vez, anade a tu companero una especializacion diferente.
+**Especial:** Puedes seleccionar esta dote hasta 3 veces. Cada vez, anade a tu companero una especialización diferente.
 
 ---
 
@@ -634,13 +634,13 @@ Al inicio de cada uno de tus turnos, obtienes una reacción adicional que puedes
 
 ---
 
-### Tiro de Distraccion Mayor
+### Tiro de Distracción Mayor
 
 **Dote 16**
 
 **Rasgos:** Explorador
 
-**Prerrequisitos:** Tiro de distraccion
+**Prerrequisitos:** Tiro de distracción
 
 Incluso un solo proyectil puede desequilibrar a tu enemigo, y ataques mas poderosos lo ponen nervioso aun mas tiempo. Si aciertas a tu presa perseguida con un arma a distancia, queda desprevenida hasta el inicio de tu siguiente turno. Si obtienes un impacto critico contra tu presa u obtienes dos impactos contra ella en el mismo turno con un arma a distancia, en su lugar queda desprevenida hasta el final de tu siguiente turno.
 
@@ -656,7 +656,7 @@ Incluso un solo proyectil puede desequilibrar a tu enemigo, y ataques mas podero
 
 **Prerrequisitos:** Camuflaje
 
-Te fundes con lo que te rodea de tal forma que los demas tienen problemas para distinguirte del terreno. Cuando estas en un terreno natural, siempre estas oculto de todos tus enemigos si quieres estarlo, excepto de tu presa perseguida.
+Te fundes con lo que te rodea de tal forma que los demás tienen problemas para distinguirte del terreno. Cuando estas en un terreno natural, siempre estas oculto de todos tus enemigos si quieres estarlo, excepto de tu presa perseguida.
 
 ---
 
@@ -678,9 +678,9 @@ Tu compañero animal comparte tus sensacionales habilidades para la caza, lo que
 
 **Rasgos:** Explorador, Floritura
 
-**Requisitos:** Empunas un arma a distancia cargada que tiene recarga 1 o mas y que no has recargado desde tu ultimo turno.
+**Requisitos:** Empuñas un arma a distancia cargada que tiene recarga 1 o mas y que no has recargado desde tu ultimo turno.
 
-Después de contemplar los movimientos del combate con una intensidad y una precision increíbles, disparas contra tu presa en el momento perfecto para infligir el maximo dolor. Da un Golpe a distancia con el arma requerida contra tu presa perseguida. Si obtienes un acierto, el Golpe inflige dano maximo. Después del Golpe, se acaba tu turno.
+Después de contemplar los movimientos del combate con una intensidad y una precision increíbles, disparas contra tu presa en el momento perfecto para infligir el máximo dolor. Da un Golpe a distancia con el arma requerida contra tu presa perseguida. Si obtienes un acierto, el Golpe inflige dano máximo. Después del Golpe, se acaba tu turno.
 
 ---
 
@@ -690,9 +690,9 @@ Después de contemplar los movimientos del combate con una intensidad y una prec
 
 **Rasgos:** Explorador, Floritura
 
-**Requisitos:** Empunas dos armas cuerpo a cuerpo, cada una en una mano diferente.
+**Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
-Dejas a un lado la precision para atacar con una velocidad imposible. Da 3 Golpes cuerpo a cuerpo con cada una de las armas requeridas. Tu primer ataque con cada arma sufre el penalizador por ataque multiple como si ya hubieras hecho un ataque este turno. Todos los demas Golpes sufren el penalizador maximo por ataque multiple.
+Dejas a un lado la precision para atacar con una velocidad imposible. Da 3 Golpes cuerpo a cuerpo con cada una de las armas requeridas. Tu primer ataque con cada arma sufre el penalizador por ataque multiple como si ya hubieras hecho un ataque este turno. Todos los demás Golpes sufren el penalizador máximo por ataque multiple.
 
 ---
 
@@ -714,7 +714,7 @@ Has aprendido a utilizar cualquier ventaja posible. Cuando utilizas Perseguir pr
 
 **Rasgos:** Explorador, Floritura
 
-**Requisitos:** Empunas un arma a distancia con el rasgo volea y recarga 0.
+**Requisitos:** Empuñas un arma a distancia con el rasgo volea y recarga 0.
 
 Disparas una volea contra todos los enemigos en una zona. Da un Golpe con un penalizador -2 contra cada enemigo en una explosion de 10 pies (3 m) centrado en el rango de distancia de volea de tu arma o mas alla del mismo. Tira el dano tan solo una vez para todos los objetivos.
 
@@ -746,7 +746,7 @@ Tienes que tener el rango legendario en Naturaleza para rastrear la posición de
 
 **Prerrequisitos:** viaje sin trabas
 
-Tienes tanta habilidad en orientarte por las tierras virgenes, que tu movimiento nunca resulta afectado por el terreno. Ignoras los efectos de todo el terreno dificil, terreno dificil mayor y terreno arriesgado y no desencadenas las trampas y peligros del tipo que se activa moviendote a una zona (como por ejemplo, cuerdas de trampa y placas de presión), si no quieres.
+Tienes tanta habilidad en orientarte por las tierras virgenes, que tu movimiento nunca resulta afectado por el terreno. Ignoras los efectos de todo el terreno difícil, terreno difícil mayor y terreno arriesgado y no desencadenas las trampas y peligros del tipo que se activa moviendote a una zona (como por ejemplo, cuerdas de trampa y placas de presión), si no quieres.
 
 ---
 
@@ -756,7 +756,7 @@ Tienes tanta habilidad en orientarte por las tierras virgenes, que tu movimiento
 
 **Rasgos:** Explorador
 
-**Prerrequisitos:** rango legendario en Percepcion, Disparo a larga distancia
+**Prerrequisitos:** rango legendario en Percepción, Disparo a larga distancia
 
 Te centras en tu presa perseguida, percibiendo los angulos, la resistencia del aire y cualquier variable que puede afectar a tu ataque a distancia. Si tienes competencia a rango maestro con tu arma a distancia, puedes ignorar el penalizador por atacar a una distancia de hasta 5 incrementos de rango de distancia cuando atacas a tu presa perseguida.
 

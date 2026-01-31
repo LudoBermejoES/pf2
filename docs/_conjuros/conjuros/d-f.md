@@ -26,11 +26,11 @@ El objetivo se ve abrumado por un ansia absorbente de bailar. Mientras dura el c
 ---
 
 ## Danar ◆ a ◆◆◆ [CONJURO 1]
-**Rasgos:** Manipular, Vacio
+**Rasgos:** Manipular, Vacío
 **Tradiciones:** divina
 **Rango de distancia:** variable; **Objetivos:** 1 criatura viva o 1 criatura muerta viviente voluntaria
 
-Canalizas energias del dacio para danar a los vivos o curar a los muertos vivientes. Si el objetivo es una criatura viva, infliges 1d8 dano por dacio a la misma, con una salvación basica de Fortaleza. Si el objetivo es una criatura muerta viviente voluntaria, restableces dicha cantidad de Puntos de Golpe. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demas parametros.
+Canalizas energias del dacio para danar a los vivos o curar a los muertos vivientes. Si el objetivo es una criatura viva, infliges 1d8 dano por dacio a la misma, con una salvación basica de Fortaleza. Si el objetivo es una criatura muerta viviente voluntaria, restableces dicha cantidad de Puntos de Golpe. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demás parametros.
 
 - ◆ El conjuro tiene un alcance de toque.
 - ◆◆ (concentrar) El conjuro tiene un alcance de 30 pies (9 m). Si estas curando a una criatura muerta viviente, incrementa en 8 los Puntos de Golpe restablecidos.
@@ -79,7 +79,7 @@ Entonas una potente letanía de tu fe, un mandato que dana a quienes se oponen a
 ---
 
 ## Desangramiento Vampirico ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Manipular, Muerte, Vacio
+**Rasgos:** Concentrar, Manipular, Muerte, Vacío
 **Tradiciones:** arcana, divina, ocultista
 **Area:** cono de 30 pies (9 m)
 **Defensa:** Fortaleza basica
@@ -96,7 +96,7 @@ Extraes la sangre y la fuerza vital de otras criaturas a traves de tus brazos ex
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duracion:** 10 minutos
 
-Escudas a una criatura de los sentidos de otros. El objetivo se vuelve no detectado, no tan solo a la vista sino a todos los sentidos, lo que le permite contar como invisible sean cuales sean los sentidos precisos e imprecisos de que disponga un observador. Sigue siendo posible para una criatura encontrar al objetivo Buscando, fijándose en si hay polvo removido, encontrando huecos en el espectro de sonido o mediante alguna otra forma de descubrir la presencia de una criatura que por lo demas seria indetectable.
+Escudas a una criatura de los sentidos de otros. El objetivo se vuelve no detectado, no tan solo a la vista sino a todos los sentidos, lo que le permite contar como invisible sean cuales sean los sentidos precisos e imprecisos de que disponga un observador. Sigue siendo posible para una criatura encontrar al objetivo Buscando, fijándose en si hay polvo removido, encontrando huecos en el espectro de sonido o mediante alguna otra forma de descubrir la presencia de una criatura que por lo demás seria indetectable.
 
 ---
 
@@ -105,14 +105,14 @@ Escudas a una criatura de los sentidos de otros. El objetivo se vuelve no detect
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 
-Disparas una esquirla de magia solidificada contra una criatura a la que puedes ver. Impacta automaticamente e inflige 1d4+1 dano por fuerza. Por cada acción adicional que utilizas cuando Lanzas el conjuro, incrementa en 1 el numero de esquirlas que lanzas, hasta un maximo de 3 esquirlas para 3 acciones. Eliges el objetivo de cada esquirla de forma individual. Si disparas mas de una esquirla contra el mismo objetivo, combina el dano antes de aplicar bonificadores o penalizadores al dano, resistencias, debilidades, etc.
+Disparas una esquirla de magia solidificada contra una criatura a la que puedes ver. Impacta automaticamente e inflige 1d4+1 dano por fuerza. Por cada acción adicional que utilizas cuando Lanzas el conjuro, incrementa en 1 el numero de esquirlas que lanzas, hasta un máximo de 3 esquirlas para 3 acciones. Eliges el objetivo de cada esquirla de forma individual. Si disparas mas de una esquirla contra el mismo objetivo, combina el dano antes de aplicar bonificadores o penalizadores al dano, resistencias, debilidades, etc.
 
 **Potenciado (+2)** Disparas una esquirla adicional con cada accion que inviertes.
 
 ---
 
 ## Desecar ◆◆ [CONJURO 8]
-**Rasgos:** Concentrar, Manipular, Vacio
+**Rasgos:** Concentrar, Manipular, Vacío
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** cualquier numero de criaturas vivas
 **Defensa:** Fortaleza basica
@@ -185,8 +185,8 @@ Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastr
 
 ---
 
-## Detectar Escudrinamiento ◆◆ [CONJURO 4]
-**Rasgos:** Poco comun, Concentrar, Deteccion, Manipular
+## Detectar Escudriñamiento ◆◆ [CONJURO 4]
+**Rasgos:** Poco comun, Concentrar, Detección, Manipular
 **Tradiciones:** arcana, ocultista
 **Area:** emanacion de 30 pies (9 m)
 **Duracion:** 1 hora
@@ -198,7 +198,7 @@ Leyendo los rastros de las auras, detectas la presencia de los efectos de escudr
 ---
 
 ## Detectar Magia ◆◆ [TRUCO 1]
-**Rasgos:** Concentrar, Deteccion, Manipular, Truco
+**Rasgos:** Concentrar, Detección, Manipular, Truco
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Area:** emanacion de 30 pies (9 m)
 
@@ -213,7 +213,7 @@ Tan solo detectas la magia de ilusión si el efecto de dicha magia tiene un rang
 ---
 
 ## Detectar Veneno ◆◆ [CONJURO 1]
-**Rasgos:** Poco comun, Concentrar, Deteccion, Manipular
+**Rasgos:** Poco comun, Concentrar, Detección, Manipular
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 objeto o criatura
 
@@ -239,7 +239,7 @@ Haces que la magia del objetivo se disipe en una explosion destructiva. Contrarr
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duracion:** mantenido
 
-Transportas al objetivo a una habitación rompecabezas extraplanaria de origen misterioso, encerrandola allí. Una vez por turno como una sola acción, el objetivo puede hacer una prueba de Ocultismo, Percepción o Latrocinio contra tu CD de conjuros para resolver el rompecabezas. Los efectos de teletransporte no pueden transportar al objetivo al exterior de la habitación rompecabezas a menos que tambien puedan atravesar los Planos, como por ejemplo teletransporte interplanario. Cuando acaba el conjuro, el objetivo vuelve al espacio que ocupaba cuando fue desterrado, o al mas cercano si el original esta ahora ocupado.
+Transportas al objetivo a una habitación rompecabezas extraplanaria de origen misterioso, encerrándola allí. Una vez por turno como una sola acción, el objetivo puede hacer una prueba de Ocultismo, Percepción o Latrocinio contra tu CD de conjuros para resolver el rompecabezas. Los efectos de teletransporte no pueden transportar al objetivo al exterior de la habitación rompecabezas a menos que tambien puedan atravesar los Planos, como por ejemplo teletransporte interplanar. Cuando acaba el conjuro, el objetivo vuelve al espacio que ocupaba cuando fue desterrado, o al mas cercano si el original esta ahora ocupado.
 
 **Exito critico** El objetivo resuelve el rompecabezas y huye.
 
@@ -261,11 +261,11 @@ Creas una ilusión que hace que el objetivo parezca otra criatura de la misma fo
 
 Lanzar disfraz ilusorio equivale a preparar un disfraz para el uso Imitar de Engano; ignora cualquier penalizador por circunstancia que el objetivo podría sufrir por disfrazarse como una criatura no similar, concede un bonificados +4 a las pruebas de Engano para evitar que otros vean a traves del disfraz y permite al objetivo sumar su nivel a dichas pruebas de Engano incluso si no esta entrenado. Puedes Disipar este conjuro.
 
-**Potenciado (3.o)** El objetivo puede parecer cualquier criatura del mismo tamano, incluso un individuo especifico. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
+**Potenciado (3.o)** El objetivo puede parecer cualquier criatura del mismo tamaño, incluso un individuo especifico. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
 
 **Potenciado (4.o)** Puedes designar como objetivo hasta a 10 criaturas voluntarias. Si designas como objetivo a multiples criaturas, puedes elegir un disfraz diferente para cada objetivo, pero ninguna de ellas puede imitar a un individuo especifico. Puedes Disipar cada disfraz individualmente o todos de forma colectiva.
 
-**Potenciado (7.o)** Igual que en 4.o, pero puedes elegir disfraces que imitan a individuos especificos. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
+**Potenciado (7.o)** Igual que en 4.o, pero puedes elegir disfraces que imitan a individuos específicos. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
 
 ---
 
@@ -293,8 +293,8 @@ Descoses la magia que hay tras un conjuro o efecto. Haz una prueba de contrarres
 
 ---
 
-## Distorsion del Vacio ◆◆ [TRUCO 1]
-**Rasgos:** Concentrar, Manipular, Truco, Vacio
+## Distorsion del Vacío ◆◆ [TRUCO 1]
+**Rasgos:** Concentrar, Manipular, Truco, Vacío
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura viva
 **Defensa:** Fortaleza
@@ -360,7 +360,7 @@ Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano pers
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** hasta tus siguientes preparativos diarios
 
-Tomas el mando del objetivo, obligandole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvación de Voluntad.
+Tomas el mando del objetivo, obligándole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvación de Voluntad.
 
 **Exito critico** El objetivo no resulta afectado.
 
@@ -384,13 +384,13 @@ Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una
 
 **Exito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre un penalizador -1 por estatus a sus pruebas de Percepcion durante 1 asalto.
+**Exito** La criatura sufre un penalizador -1 por estatus a sus pruebas de Percepción durante 1 asalto.
 
 **Fallo** La criatura queda inconsciente. Si sigue inconsciente al cabo de 1 minuto, se despierta automaticamente.
 
 **Fallo critico** La criatura queda inconsciente. Si sigue inconsciente al cabo de 1 hora, se despierta automaticamente.
 
-**Potenciado (4.o)** Las criaturas quedan inconscientes durante 1 asalto con un fallo o 1 minuto con un fallo critico. Caen tumbadas y sueltan lo que estan agarrando, sin poder hacer pruebas de Percepcion para despertarse. Cuando la duracion se acaba, la criatura duerme normalmente en lugar de despertarse automaticamente.
+**Potenciado (4.o)** Las criaturas quedan inconscientes durante 1 asalto con un fallo o 1 minuto con un fallo critico. Caen tumbadas y sueltan lo que estan agarrando, sin poder hacer pruebas de Percepción para despertarse. Cuando la duracion se acaba, la criatura duerme normalmente en lugar de despertarse automaticamente.
 
 ---
 
@@ -410,7 +410,7 @@ El duplicado es inestable, por lo que cada turno después de que lleva a cabo su
 
 **Exito critico** No consigues crear un duplicado.
 
-**Exito** El duplicado inflige mitad de dano con sus Golpes y la duracion se reduce a un maximo de 2 asaltos.
+**Exito** El duplicado inflige mitad de dano con sus Golpes y la duracion se reduce a un máximo de 2 asaltos.
 
 **Fallo** El duplicado funciona tal y como se ha descrito.
 
@@ -432,7 +432,7 @@ Proteges al objetivo con una barrera de energia poderosa y de larga duración. E
 ---
 
 ## Ejecutar ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Manipular, Muerte, Vacio
+**Rasgos:** Concentrar, Manipular, Muerte, Vacío
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza basica
@@ -443,7 +443,7 @@ Señales a una criatura e invocas el final de todas las cosas. El objetivo sufre
 
 ---
 
-## Empujon Hidraulico ◆◆ [CONJURO 1]
+## Empujón Hidraulico ◆◆ [CONJURO 1]
 **Rasgos:** Agua, Ataque, Concentrar, Manipular
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura u objeto desatendido
@@ -498,7 +498,7 @@ Una vez por asalto, puedes Mantener el conjuro para hacer que una en particular 
 **Rango de distancia:** 120 pies (36 m); **Area:** un cilindro de 5 pies (1,5 m) de radio y 80 pies (24 m) de altura
 **Defensa:** Reflejos
 
-La tierra se abre, lanzando a gran altura una columna de lava en forma de cilindro vertical, que inflige 14d6 a las criaturas en el area. La lava se enfria rapidamente y envuelve a las criaturas del interior. Una criatura envuelta en lava solidificada queda torpe 1 y sufre un penalizador -10 pies (3 m) por estatus a sus Velocidades. Todo el terreno normal se convierte en terreno dificil para una criatura voladora y dichas criaturas descienden inmediatamente 20 pies (6 m) en el momento en que quedan recubiertas, pero no sufren dano debido a esta caida. Una criatura recubierta de lava solidificada puede tratar de Huir contra tu CD de conjuros para acabar con el efecto. De lo contrario, permanece envuelta hasta que sufre un total de 50 dano, lo que la libera de la lava solidificada.
+La tierra se abre, lanzando a gran altura una columna de lava en forma de cilindro vertical, que inflige 14d6 a las criaturas en el area. La lava se enfria rapidamente y envuelve a las criaturas del interior. Una criatura envuelta en lava solidificada queda torpe 1 y sufre un penalizador -10 pies (3 m) por estatus a sus Velocidades. Todo el terreno normal se convierte en terreno difícil para una criatura voladora y dichas criaturas descienden inmediatamente 20 pies (6 m) en el momento en que quedan recubiertas, pero no sufren dano debido a esta caida. Una criatura recubierta de lava solidificada puede tratar de Huir contra tu CD de conjuros para acabar con el efecto. De lo contrario, permanece envuelta hasta que sufre un total de 50 dano, lo que la libera de la lava solidificada.
 
 Ademas, las criaturas en el area y las que esten a 5 pies (1,5 m) o menos de la columna de lava sufrirán automaticamente 3d6 dano por fuego debido al intenso calor, sean cuales sean los resultados de sus tiradas de salvación.
 
@@ -526,9 +526,9 @@ Convocas a un esbirro fantasmal. El esbirro tiene aproximadamente la forma de un
 
 **ESBIRRO FANTASMAL** CRIATURA -1
 
-MEDIANO FUERZA DESCEREBRADO
+MEDIANO FUERZA Descerebrado
 
-**Percepcion** +0; vision en la oscuridad
+**Percepción** +0; vision en la oscuridad
 
 **Idiomas** ninguno (entiende a su creador)
 
@@ -540,7 +540,7 @@ MEDIANO FUERZA DESCEREBRADO
 
 **CA** 13; **Fort** +0, **Ref** +4, **Vol** +0
 
-**PG** 4; **Inmunidades** ataques no magicos, enfermedad, espiritu, inconsciente, mental, paralisis, precision, veneno; **Resistencias** todo el dano 5 (excepto fuerza o toque fantasmal)
+**PG** 4; **Inmunidades** ataques no mágicos, enfermedad, espiritu, inconsciente, mental, paralisis, precision, veneno; **Resistencias** todo el dano 5 (excepto fuerza o toque fantasmal)
 
 **Velocidad** volar 30 pies (9 m)
 
@@ -555,7 +555,7 @@ MEDIANO FUERZA DESCEREBRADO
 
 Creas una escena imaginaria que incluye hasta 10 criaturas individuales u objetos de diverso tamaño, todos los cuales deben estar en el area del conjuro. Dichos elementos generan los sonidos y los olores apropiados, y su tacto es el correcto. Los elementos de una escena ilusoria no pueden hablar. A diferencia del conjuro criatura ilusoria, las criaturas de tu escena carecen de aptitudes y estadísticas de combate. Tu escena no incluye cambios al entorno que la rodea, aunque puedes colocarla en el entorno ilusorio de un conjuro de espejismo.
 
-Cuando creas la escena, puedes elegir que sea estatica o que siga un programa. Aunque una escena estatica es estacionaria, incluye movimiento natural basico. Por ejemplo, el viento soplando sobre un pedazo de papel ilusorio lo había crujir. Un programa puede tener hasta 1 minuto de longitud y se repite cuando se acaba. Por ejemplo, podrías crear una escena con dos orcos luchando entre si y la lucha se desarrollaria de la misma forma en cada repetición. Si creas un bucle, ambos combatientes acaban en el mismo lugar al inicio de la escena y al final de la misma, pero puedes refinar el programa para que sea dificil discernir cuando empieza y cuando acaba el bucle. Cualquiera que observe la escena mas de unos pocos minutos, casi siempre se dara cuenta del bucle. Una vez has creado la ilusión, no puedes alterar el programa.
+Cuando creas la escena, puedes elegir que sea estatica o que siga un programa. Aunque una escena estatica es estacionaria, incluye movimiento natural basico. Por ejemplo, el viento soplando sobre un pedazo de papel ilusorio lo había crujir. Un programa puede tener hasta 1 minuto de longitud y se repite cuando se acaba. Por ejemplo, podrías crear una escena con dos orcos luchando entre si y la lucha se desarrollaria de la misma forma en cada repetición. Si creas un bucle, ambos combatientes acaban en el mismo lugar al inicio de la escena y al final de la misma, pero puedes refinar el programa para que sea difícil discernir cuando empieza y cuando acaba el bucle. Cualquiera que observe la escena mas de unos pocos minutos, casi siempre se dara cuenta del bucle. Una vez has creado la ilusión, no puedes alterar el programa.
 
 Cualquier criatura que toque cualquier parte de la imagen o utilice la acción de Buscar para examinarla podrá hacer un intento de descreer tu ilusión. Si interacciona con una parte de la ilusión, solo descree dicha parte. Tan solo puede descreer la escena al completo con un éxito critico.
 
@@ -577,9 +577,9 @@ Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros in
 
 **Exito** La criatura sufre mitad de dano.
 
-**Fallo** La criatura sufre dano completo y es apartada 5 pies (1,5 m) de ti de un empujon.
+**Fallo** La criatura sufre dano completo y es apartada 5 pies (1,5 m) de ti de un empujón.
 
-**Fallo critico** La criatura sufre doble dano y es apartada 10 pies (3 m) de ti de un empujon.
+**Fallo critico** La criatura sufre doble dano y es apartada 10 pies (3 m) de ti de un empujón.
 
 **Potenciado (+1)** El dano se incrementa en 2d4.
 
@@ -611,7 +611,7 @@ Puedes utilizar la reacción Bloqueo con el escudo con el escudo de fuego, que t
 
 ---
 
-## Escudrinamiento [CONJURO 6]
+## Escudriñamiento [CONJURO 6]
 **Rasgos:** Poco comun, Concentrar, Manipular
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 10 minutos
@@ -622,7 +622,7 @@ Espias magicamente a una criatura de tu elección. Escudriñamiento funciona com
 
 El efecto de escudriñamiento depende de la salvación de Voluntad del objetivo.
 
-**Exito critico** El conjuro falla y el objetivo queda temporalmente inmune durante 1 semana. El objetivo tambien obtiene un atisbo de ti y averigua la distancia aproximada y la direccion entre ambos.
+**Exito critico** El conjuro falla y el objetivo queda temporalmente inmune durante 1 semana. El objetivo tambien obtiene un atisbo de ti y averigua la distancia aproximada y la dirección entre ambos.
 
 **Exito** El conjuro falla y el objetivo queda temporalmente inmune durante 1 dia.
 
@@ -684,7 +684,7 @@ Un ataque sonico de alta frecuencia hace estallar un objeto proximo. Infliges 2d
 ---
 
 ## Estatus ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Deteccion, Manipular
+**Rasgos:** Concentrar, Detección, Manipular
 **Tradiciones:** divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura viva voluntaria
 **Duracion:** hasta tus siguientes preparativos diarios
@@ -708,7 +708,7 @@ Arrojas un gran pegote de acido que detona inmediatamente, salpicando a las cria
 ---
 
 ## Explosion de Eclipse ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Frio, Manipular, Oscuridad, Vacio
+**Rasgos:** Concentrar, Frio, Manipular, Oscuridad, Vacío
 **Tradiciones:** arcana, divina, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos
@@ -725,7 +725,7 @@ Si el globo se solapa con un area de luz magica o afecta a una criatura afectada
 
 **Fallo critico** La criatura sufre doble dano y queda cegada por la oscuridad, con una duracion ilimitada.
 
-**Potenciado (+1)** El dano por frio se incrementa en 1d10 y el dano por vacio contra los seres vivos se incrementa en 1d4.
+**Potenciado (+1)** El dano por frio se incrementa en 1d10 y el dano por vacío contra los seres vivos se incrementa en 1d4.
 
 ---
 
@@ -860,7 +860,7 @@ Llenas la mente del objetivo con imagenes inacabables, como buenos incontables y
 ---
 
 ## Festin Vampirico ◆◆ [CONJURO 3]
-**Rasgos:** Concentrar, Manipular, Muerte, Vacio
+**Rasgos:** Concentrar, Manipular, Muerte, Vacío
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura viva
 **Defensa:** Fortaleza basica
@@ -877,7 +877,7 @@ Tu toque absorbe la fuerza vital de un objetivo para potenciarte. Infliges 6d6 d
 **Rango de distancia:** 120 pies (36 m); **Area:** todas las casillas en una explosion de 20 pies (6 m)
 **Duracion:** 1 minuto
 
-Plantas y hongos surgen de forma espontánea o crecen rapidamente, enmarañando a las criaturas. Todas las superficies en el area se convierten en terreno dificil. Cada asalto que una criatura empieza su turno en el area tiene que hacer una salvación de Reflejos. Con un fallo, sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades hasta que abandona el area y, con un fallo critico, queda tambien inmovilizado durante 1 asalto. Las criaturas pueden hacer una prueba de Huir para eliminar estos efectos.
+Plantas y hongos surgen de forma espontánea o crecen rapidamente, enmarañando a las criaturas. Todas las superficies en el area se convierten en terreno difícil. Cada asalto que una criatura empieza su turno en el area tiene que hacer una salvación de Reflejos. Con un fallo, sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades hasta que abandona el area y, con un fallo critico, queda tambien inmovilizado durante 1 asalto. Las criaturas pueden hacer una prueba de Huir para eliminar estos efectos.
 
 ---
 
@@ -1010,7 +1010,7 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 
 ### Dragones del Manual de Monstruos
 
-| Dragon | Tradicion | Vel. | Aliento de dragon |
+| Dragon | Tradición | Vel. | Aliento de dragon |
 |--------|-----------|------|-------------------|
 | Adamantino | Primigenia | Excavar | Cono de contundencia |
 | Astado | Primigenia | Nadar | Cono de veneno |
@@ -1047,7 +1047,7 @@ Obtienes aptitudes especificas basadas en la forma elegida:
 
 **Escarabajo** Velocidad 25 pies (7,5 m); Cuerpo a cuerpo ◆ mandibulas, Dano 2d10 contundente.
 
-**Escorpion** Velocidad 40 pies (12 m), vision en la oscuridad, sentido de la vibracion impreciso 60 pies (18 m); Cuerpo a cuerpo ◆ aguijon, Dano 1d8 perforante mas 1d4 persistente veneno; Cuerpo a cuerpo ◆ pinza (agil), Dano 1d6 contundente.
+**Escorpion** Velocidad 40 pies (12 m), vision en la oscuridad, sentido de la vibración impreciso 60 pies (18 m); Cuerpo a cuerpo ◆ aguijon, Dano 1d8 perforante mas 1d4 persistente veneno; Cuerpo a cuerpo ◆ pinza (agil), Dano 1d6 contundente.
 
 **Hormiga** Velocidad 30 pies (9 m), trepar 30 pies (9 m); Cuerpo a cuerpo ◆ mandibulas, Dano 2d6 contundente.
 
@@ -1077,7 +1077,7 @@ Obtienes aptitudes especificas basadas en el monstruo elegido:
 
 **Fenix** Velocidad 30 pies (9 m), volar 90 pies (27 m); Cuerpo a cuerpo ◆ pico (alcance 15 pies [4,5 m]), Dano 2d6+12 perforante mas 2d4 fuego y 2d4 fuego persistente; Cuerpo a cuerpo ◆ garra (agil, alcance 15 pies [4,5 m]), Dano 2d8+12 cortante; **Sudario de llamas** (aura, fuego, primigenio) 20 pies (6 m). Obtienes una aura de fuego que se extiende desde ti. Toda criatura que entra o acaba su turno en el interior del aura sufre 2d6 dano por fuego. Una criatura solo puede sufrir este dano una vez por turno. Puedes activar o desactivar esta aura mediante una accion de Mantener.
 
-**Gusano de las cavernas** Velocidad 40 pies (12 m), excavar 30 pies (9 m), nadar 20 pies (6 m); Cuerpo a cuerpo ◆ mandibulas (alcance 10 pies [3 m]), Dano 2d12+20 perforante; Cuerpo a cuerpo ◆ aguijon (agil, alcance 10 pies [3 m]), Dano 2d8+15 perforante +2d6 persistente veneno; Cuerpo a cuerpo ◆ cuerpo (alcance 10 pies [3 m]), Dano 2d8+20 contundente; **Inexorable** Te recuperas automaticamente de los estados paralizado, lentificado y aturdido al final de cada uno de tus turnos. Tambien eres inmune a quedar inmovilizado e ignoras el terreno dificil y el terreno dificil mayor.
+**Gusano de las cavernas** Velocidad 40 pies (12 m), excavar 30 pies (9 m), nadar 20 pies (6 m); Cuerpo a cuerpo ◆ mandibulas (alcance 10 pies [3 m]), Dano 2d12+20 perforante; Cuerpo a cuerpo ◆ aguijon (agil, alcance 10 pies [3 m]), Dano 2d8+15 perforante +2d6 persistente veneno; Cuerpo a cuerpo ◆ cuerpo (alcance 10 pies [3 m]), Dano 2d8+20 contundente; **Inexorable** Te recuperas automaticamente de los estados paralizado, lentificado y aturdido al final de cada uno de tus turnos. Tambien eres inmune a quedar inmovilizado e ignoras el terreno difícil y el terreno difícil mayor.
 
 **Serpiente marina** Velocidad 20 pies (6 m), nadar 90 pies (27 m); Cuerpo a cuerpo ◆ mandibulas (alcance 15 pies [4,5 m]), Dano 2d12+20 perforante; Cuerpo a cuerpo ◆ cola (alcance 25 pies [7,5 m]), Dano 2d8+20 contundente; **Barrido con la espina** ◆◆ (movimiento) Extiendes tus espinas y Nadas o das una Zancada. Cada criatura a la que estas adyacente en cualquier punto durante tu movimiento sufre 4d8+10 dano cortante (salvacion basica de Reflejos contra tu CD de conjuros).
 
@@ -1122,7 +1122,7 @@ Obtienes aptitudes especificas basadas en la planta elegida:
 
 **Arboral** Velocidad 30 pies (9 m); Cuerpo a cuerpo ◆ rama (alcance 15 pies [4,5 m]), Dano 2d10 contundente; Cuerpo a cuerpo ◆ pie, Dano 2d8 contundente; en esta forma puedes hablar.
 
-**Atrapamoscas** Velocidad 15 pies (4,5 m); resistencia 10 al acido; Cuerpo a cuerpo ◆ hoja (alcance 10 pies [3 m]), Dano 2d8 perforante, y puedes invertir una accion despues de un impacto para Agarrar al objetivo.
+**Atrapamoscas** Velocidad 15 pies (4,5 m); resistencia 10 al acido; Cuerpo a cuerpo ◆ hoja (alcance 10 pies [3 m]), Dano 2d8 perforante, y puedes invertir una accion después de un impacto para Agarrar al objetivo.
 
 **Potenciado (6.o)** Tu forma de batalla es Enorme y el alcance de tus ataques se incrementa en 5 pies (1,5 m). En lugar de lo indicado obtienes CA = 22 + tu nivel, 24 PG temporales, modificador al ataque +21, bonificador al dano +16 y Atletismo +22.
 
@@ -1134,7 +1134,7 @@ Obtienes aptitudes especificas basadas en la planta elegida:
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 **Duracion:** 5 minutos
 
-El objetivo se transforma en un estado vaporoso. En este estado, el objetivo es amorfo. Pierde cualquier bonificados por objeto a la CA y todos los demas efectos y bonificadores debidos a la armadura, utilizando su modificador por competencia para la defensa sin armadura. Obtiene resistencia 8 al dano fisico y es inmune al dano de precision. No puede lanzar conjuros, activar objetos o utilizar acciones con el rasgo atacar o manipular. Obtiene una Velocidad de vuelo de 10 pies (3 m) y puede deslizarse a traves de grietas minúsculas. El objetivo puede Disipar el conjuro.
+El objetivo se transforma en un estado vaporoso. En este estado, el objetivo es amorfo. Pierde cualquier bonificados por objeto a la CA y todos los demás efectos y bonificadores debidos a la armadura, utilizando su modificador por competencia para la defensa sin armadura. Obtiene resistencia 8 al dano fisico y es inmune al dano de precision. No puede lanzar conjuros, activar objetos o utilizar acciones con el rasgo atacar o manipular. Obtiene una Velocidad de vuelo de 10 pies (3 m) y puede deslizarse a traves de grietas minúsculas. El objetivo puede Disipar el conjuro.
 
 ---
 
@@ -1154,7 +1154,7 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 
 Obtienes aptitudes especificas basadas en el elemento elegido:
 
-**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo ◆ ola, Dano 1d12 contundente y despues de un impacto puedes invertir de inmediato una accion para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujon con exito.
+**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo ◆ ola, Dano 1d12 contundente y después de un impacto puedes invertir de inmediato una accion para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujón con exito.
 
 **Aire** volar 80 pies (24 m), tu movimiento no desencadena reacciones; Cuerpo a cuerpo ◆ rafaga, Dano 1d4 contundente.
 
@@ -1177,13 +1177,13 @@ Obtienes aptitudes especificas basadas en el elemento elegido:
 **Tradiciones:** arcana, ocultista, primigenia
 **Duracion:** 10 minutos
 
-Transformas tu apariencia a la de un humanoide Pequeno o Mediano, como por ejemplo un elfo, enano, goblin, humano, mediano u orco. Obtienes el rasgo humanoide ademas de tus demas rasgos mientras estas en esta forma, asi como cualquier rasgo relacionado con el tipo de la criatura (como por ejemplo, goblin o humano). Si la transformación reduce tu tamaño, tu alcance queda reducido en identica medida (tipicamente: 5 pies (1,5 m)). La transformación no cambia tus estadísticas en modo alguno, y no obtienes ninguna aptitud especial de la forma humanoide que adoptas. Sigues pudiendo vestir y utilizar tu equipo, que cambia de tamaño (si es necesario) para encajar con tu nueva forma. Si algún objeto abandona tu persona, vuelve a su tamaño habitual.
+Transformas tu apariencia a la de un humanoide Pequeno o Mediano, como por ejemplo un elfo, enano, goblin, humano, mediano u orco. Obtienes el rasgo humanoide ademas de tus demás rasgos mientras estas en esta forma, así como cualquier rasgo relacionado con el tipo de la criatura (como por ejemplo, goblin o humano). Si la transformación reduce tu tamaño, tu alcance queda reducido en identica medida (tipicamente: 5 pies (1,5 m)). La transformación no cambia tus estadísticas en modo alguno, y no obtienes ninguna aptitud especial de la forma humanoide que adoptas. Sigues pudiendo vestir y utilizar tu equipo, que cambia de tamaño (si es necesario) para encajar con tu nueva forma. Si algún objeto abandona tu persona, vuelve a su tamaño habitual.
 
 Forma humanoide te concede un bonificados +4 por estatus a las pruebas de Engano para hacerte pasar por un miembro generico de la ascendencia elegida, y anades tu nivel incluso si no estas entrenado, pero no puedes hacerte pasar por una persona especifica. Si quieres Imitar a un individuo, sigues teniendo que crear un disfraz, aunque el DJ no tendra en cuenta la diferencia en la ascendencia al determinar la CD de tu prueba de Engano. Puedes Disipar este conjuro.
 
 **Potenciado (3.o)** Obtienes vision en la oscuridad o vision en la penumbra si la forma que adoptas dispone de dicha aptitud.
 
-**Potenciado (5.o)** Puedes adoptar la apariencia de un humanoide Grande. Si esto incrementa tu tamano, obtienes los efectos del conjuro agrandar.
+**Potenciado (5.o)** Puedes adoptar la apariencia de un humanoide Grande. Si esto incrementa tu tamaño, obtienes los efectos del conjuro agrandar.
 
 ---
 
@@ -1193,7 +1193,7 @@ Forma humanoide te concede un bonificados +4 por estatus a las pruebas de Engano
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** hasta 5 criaturas voluntarias
 **Duracion:** 1 minuto
 
-Un aspecto feroz abruma a los objetivos, llevándoles de fuerza y de ferocidad. Los objetivos obtienen 5 Puntos de Golpe temporales, un bonificados +10 pies (3 m) por estatus a sus velocidades y debilidad 5 a la plata. Tambien les crecen unos crueles colmillos y zarpas, que son ataques sin armas. Los colmillos infligen 2d8 dano perforante; las zarpas infligen 2d6 dano cortante y tienen los rasgos agil y sutil. Los objetivos utilizan en sus ataques su mayor competencia en armas o ataques sin arma y si tienen especialización en armas o especialización mayor en armas, anaden tambien dicho dano. En un impacto critico con uno de estos ataques sin armas, la criatura impactada sufre 1d4 dano persistente por sangrado.
+Un aspecto feroz abruma a los objetivos, llevándoles de fuerza y de ferocidad. Los objetivos obtienen 5 Puntos de Golpe temporales, un bonificados +10 pies (3 m) por estatus a sus velocidades y debilidad 5 a la plata. Tambien les crecen unos crueles colmillos y zarpas, que son ataques sin armas. Los colmillos infligen 2d8 dano perforante; las zarpas infligen 2d6 dano cortante y tienen los rasgos agil y sutil. Los objetivos utilizan en sus ataques su mayor competencia en armas o ataques sin arma y si tienen especialización en armas o especialización mayor en armas, añaden tambien dicho dano. En un impacto critico con uno de estos ataques sin armas, la criatura impactada sufre 1d4 dano persistente por sangrado.
 
 Los objetivos no pueden utilizar acciones de concentrar a menos que dichas acciones tambien tengan el rasgo furia, con la excepcion de Buscar. Una criatura puede querer acabar los efectos del conjuro sobre si utilizando una sola acción, que tiene el rasgo furia, mediante una salvación de Voluntad contra tu CD de conjuros; con un éxito, lo consigue.
 

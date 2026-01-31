@@ -16,7 +16,7 @@ La herencia de un leshy representa los beneficios que obtiene de su cuerpo. Elig
 
 Tienes una gran calabaza como craneo y, como careces de cerebro fisico, puedes utilizar el espacio que hay dentro de tu cabeza.
 
-**Beneficio:** Alli puedes guardar una coleccion de objetos de hasta Impedimenta 1. La CD de las pruebas para Robar objetos del interior de tu cabeza se incrementa en 4. Ademas, si solo almacenas un objeto en tu cabeza, puedes extraerlo sin esfuerzo a tu mano como parte de otra accion de utilizarlo. Extraer el objeto concede a esta otra accion el rasgo manipular.
+**Beneficio:** Allí puedes guardar una coleccion de objetos de hasta Impedimenta 1. La CD de las pruebas para Robar objetos del interior de tu cabeza se incrementa en 4. Ademas, si solo almacenas un objeto en tu cabeza, puedes extraerlo sin esfuerzo a tu mano como parte de otra accion de utilizarlo. Extraer el objeto concede a esta otra accion el rasgo manipular.
 
 ---
 
@@ -24,7 +24,7 @@ Tienes una gran calabaza como craneo y, como careces de cerebro fisico, puedes u
 
 Tu cuerpo esta hecho de algas marinas tejidas, y te sientes tan comodo bajo el agua como en tierra.
 
-**Beneficio:** Obtienes una Velocidad de nadar de 20 pies (6 m) y siempre puedes respirar bajo el agua. Sin embargo, tu Velocidad terrestre se reduce en 5 pies (hasta 20 pies para la mayoria de leshys de las algas) (1,5 m y 6 m respectivamente).
+**Beneficio:** Obtienes una Velocidad de nadar de 20 pies (6 m) y siempre puedes respirar bajo el agua. Sin embargo, tu Velocidad terrestre se reduce en 5 pies (hasta 20 pies para la mayoría de leshys de las algas) (1,5 m y 6 m respectivamente).
 
 ---
 
@@ -80,4 +80,4 @@ Tu cuerpo esta hecho de hongos que crecen a la sombra de las cavernas y de los a
 
 Flotas sin esfuerzo en la superficie del agua.
 
-**Beneficio:** Puedes caminar sobre la superficie de las aguas tranquilas y de otros liquidos no daninos, moviendote a la mitad de tu Velocidad normal. Tambien puedes Mantener el equilibrio para cruzar una superficie de agua en movimiento, utilizando la CD de una prueba de Nadar para atravesar el agua. Cuando lo haces, no te puedes mover mas rapido que la mitad de tu Velocidad, y si sufres un fallo o un fallo critico, en lugar de los efectos normales caes al agua.
+**Beneficio:** Puedes caminar sobre la superficie de las aguas tranquilas y de otros liquidos no dañinos, moviendote a la mitad de tu Velocidad normal. Tambien puedes Mantener el equilibrio para cruzar una superficie de agua en movimiento, utilizando la CD de una prueba de Nadar para atravesar el agua. Cuando lo haces, no te puedes mover mas rapido que la mitad de tu Velocidad, y si sufres un fallo o un fallo critico, en lugar de los efectos normales caes al agua.

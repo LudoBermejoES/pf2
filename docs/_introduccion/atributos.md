@@ -7,7 +7,7 @@ category: introduccion
 nav_order: 0
 ---
 
-Los atributos miden el potencial en bruto de un personaje y se utilizan para calcular la mayor parte de sus demas estadisticas.
+Los atributos miden el potencial en bruto de un personaje y se utilizan para calcular la mayor parte de sus demás estadisticas.
 
 ## Los seis atributos
 
@@ -15,14 +15,14 @@ Los atributos miden el potencial en bruto de un personaje y se utilizan para cal
 |----------|-------------|------------|
 | **Fuerza** | Fue | Potencia fisica |
 | **Destreza** | Des | Agilidad y aptitud para evitar el peligro |
-| **Constitucion** | Con | Salud general y bienestar |
+| **Constitución** | Con | Salud general y bienestar |
 | **Inteligencia** | Int | Conocimiento y aptitud para resolver problemas |
-| **Sabiduria** | Sab | Perspicacia y aptitud para evaluar situaciones |
+| **Sabiduría** | Sab | Perspicacia y aptitud para evaluar situaciones |
 | **Carisma** | Car | Encanto, persuasion y fuerza de la personalidad |
 
 ## Modificadores por atributo
 
-Los modificadores de atributo representan como de desarrollada esta cada caracteristica en tu personaje:
+Los modificadores de atributo representan como de desarrollada esta cada característica en tu personaje:
 
 - **Rango normal**: de -5 a +5
 - Los personajes de alto nivel pueden superar el +5
@@ -55,7 +55,7 @@ Un **defecto de atributo** reduce el modificador de un atributo en -1. Algunas a
 
 ## Mejoras de ascendencia alternativas
 
-Siempre tienes la opcion de no aplicar las mejoras y defectos indicados en tu ascendencia. En su lugar, puedes seleccionar **dos mejoras de atributo gratuitas** que asignas a los atributos que prefieras.
+Siempre tienes la opción de no aplicar las mejoras y defectos indicados en tu ascendencia. En su lugar, puedes seleccionar **dos mejoras de atributo gratuitas** que asignas a los atributos que prefieras.
 
 Esta regla permite:
 
@@ -65,7 +65,7 @@ Esta regla permite:
 
 ## Defectos voluntarios (regla opcional)
 
-Puedes anadir defectos adicionales para interpretar un personaje con graves carencias. Esta regla opcional permite mayor profundidad narrativa.
+Puedes añadir defectos adicionales para interpretar un personaje con graves carencias. Esta regla opcional permite mayor profundidad narrativa.
 
 **Restricciones**:
 
@@ -81,7 +81,7 @@ Cada atributo afecta diferentes aspectos del juego:
 |----------|----------|
 | **Fuerza** | Ataque y dano cuerpo a cuerpo, capacidad de carga, pruebas de Atletismo |
 | **Destreza** | CA, ataque a distancia, Reflejos, pruebas de Acrobacias, Sigilo y Latrocinio |
-| **Constitucion** | Puntos de Golpe, Fortaleza |
-| **Inteligencia** | Idiomas adicionales, pruebas de Saber, Arcanos, Artesania, Ocultismo y Sociedad |
-| **Sabiduria** | Voluntad, Percepcion, pruebas de Medicina, Naturaleza, Religion y Supervivencia |
-| **Carisma** | Pruebas de Diplomacia, Engano, Intimidacion, Interpretacion |
+| **Constitución** | Puntos de Golpe, Fortaleza |
+| **Inteligencia** | Idiomas adicionales, pruebas de Saber, Arcanos, Artesanía, Ocultismo y Sociedad |
+| **Sabiduría** | Voluntad, Percepción, pruebas de Medicina, Naturaleza, Religion y Supervivencia |
+| **Carisma** | Pruebas de Diplomacia, Engano, Intimidación, Interpretacion |

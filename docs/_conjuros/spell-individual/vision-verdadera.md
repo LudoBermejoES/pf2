@@ -13,7 +13,7 @@ spell_level: 6
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
-<span class="trait-tag">Revelacion</span>
+<span class="trait-tag">Revelación</span>
 </div>
 
 ---

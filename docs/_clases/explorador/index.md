@@ -16,14 +16,14 @@ El explorador es un cazador y rastreador consumado, capaz de perseguir a su pres
 
 | Estadistica | Valor |
 |-------------|-------|
-| **Puntos de Golpe** | 10 + modificador de Constitucion por nivel |
+| **Puntos de Golpe** | 10 + modificador de Constitución por nivel |
 | **Atributo Clave** | Fuerza o Destreza (a elegir a 1.er nivel) |
 
 ## Competencias Iniciales
 
 A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadísticas. No estas entrenado en nada que no se indica, si no obtienes un rango de competencia mayor de alguna otra forma.
 
-### Percepcion
+### Percepción
 
 - **Experto** en Percepción
 

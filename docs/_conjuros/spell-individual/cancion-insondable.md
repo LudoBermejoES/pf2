@@ -5,7 +5,7 @@ title: Canción Insondable
 chapter: Conjuros
 spell_level: 9
 ---
-## Cancion Insondable ◆◆ [CONJURO 9]
+## Canción Insondable ◆◆ [CONJURO 9]
 
 **Tradiciones:** ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** hasta 5 criaturas

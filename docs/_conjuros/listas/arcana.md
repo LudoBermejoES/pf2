@@ -17,7 +17,7 @@ PC = poco común.
 - **[Congelacion](/conjuros/congelacion/) P** - Danas a una criatura con un frio tremendo.
 - **[Convocar instrumento](/conjuros/convocar-instrumento/) P** - Llamas a un instrumento que solo tu puedes tocar.
 - **[Detectar magia](/conjuros/detectar-magia/) P** - Te permite notar cuando hay magia cerca.
-- **[Distorsion del vacio](/conjuros/distorsion-del-vacio/) P** - Danas y debilitas a los vivos con la energia del dacio.
+- **[Distorsion del vacío](/conjuros/distorsion-del-vacío/) P** - Danas y debilitas a los vivos con la energia del dacio.
 - **[Escudo](/conjuros/escudo/) P** - Un escudo de fuerza magica bloquea ataques y conjuros.
 - **[Explosion caustica](/conjuros/explosion-caustica/) P** - Lanzas un pegote de acido que salpica en un area pequena.
 - **[Fantasia](/conjuros/fantasia/)** - Creas una ilusión auditiva o visual sencilla.
@@ -41,7 +41,7 @@ PC = poco común.
 - **[Aterrizaje suave](/conjuros/aterrizaje-suave/)** - Reaccionas para salvar a una criatura que cae.
 - **[Burbuja de aire](/conjuros/burbuja-de-aire/)** - Reaccionas para crear aire que una criatura puede respirar.
 - **[Carga de la hormiga](/conjuros/carga-de-la-hormiga/)** - El objetivo puede llevar mas peso.
-- **[Cerrar](/conjuros/cerrar/) P** - Haces que una cerradura sea mucho mas dificil de abrir.
+- **[Cerrar](/conjuros/cerrar/) P** - Haces que una cerradura sea mucho mas difícil de abrir.
 - **[Colores mareantes](/conjuros/colores-mareantes/)** - Unos colores giratorios ciegan, deslumbran o aturden a las criaturas.
 - **[Convocar animal](/conjuros/convocar-animal/) P** - Conjuras a un animal para que luche por ti.
 - **[Convocar constructo](/conjuros/convocar-constructo/) P** - Conjuras a un constructo para que luche por ti.
@@ -53,7 +53,7 @@ PC = poco común.
 - **[Disfraz ilusorio](/conjuros/disfraz-ilusorio/) P** - Aparentas ser una criatura diferente.
 - **[Disfrazar magia](/conjuros/disfrazar-magia/) P** - Enmascaras el aura de un conjuro u objeto.
 - **[Dormir](/conjuros/dormir/) P** - Haces que las criaturas de una pequena zona se queden dormidas.
-- **[Empujon hidraulico](/conjuros/empujon-hidraulico/) P** - Danas y empujas a una criatura con una explosion de agua.
+- **[Empujón hidraulico](/conjuros/empujón-hidraulico/) P** - Danas y empujas a una criatura con una explosion de agua.
 - **[Enlace mental](/conjuros/enlace-mental/)** - Impartes mentalmente 10 minutos de información en un instante.
 - **[Esbirro fantasmal](/conjuros/esbirro-fantasmal/)** - Creas una criatura de fuerza para que lleve a cabo tareas menores.
 - **[Escombros apaleadores](/conjuros/escombros-apaleadores/) P** - Lanzas un cono de rocas para apalear criaturas.
@@ -62,7 +62,7 @@ PC = poco común.
 - **[Golpe seguro](/conjuros/golpe-seguro/)** - Tu siguiente ataque es especialmente preciso.
 - **[Grasa](/conjuros/grasa/)** - Recubres un objetivo o un area con grasa resbaladiza.
 - **[Hechizar](/conjuros/hechizar/) P** - Una criatura se vuelve mas amistosa hacia ti.
-- **[Miedo](/conjuros/miedo/) P** - Asustas a una criatura, obligandola posiblemente a huir.
+- **[Miedo](/conjuros/miedo/) P** - Asustas a una criatura, obligándola posiblemente a huir.
 - **[Objeto ilusorio](/conjuros/objeto-ilusorio/) P** - Creas una ilusión convincente de un objeto.
 - **[Orden](/conjuros/orden/) P** - Haces que una criatura se acerque, corra, deje caer algo, se tumbe o se ponga de pie.
 - **[Pies agiles](/conjuros/pies-agiles/)** - Haces que tu Velocidad aumente mucho.
@@ -84,7 +84,7 @@ PC = poco común.
 - **[Anonadar](/conjuros/anonadar/)** - Nublas la mente de un objetivo y haces que su lanzamiento de conjuros sea menos fiable.
 - **[Ataque de risa](/conjuros/ataque-de-risa/)** - La risa obstaculiza las acciones de una criatura.
 - **[Caminar sobre las aguas](/conjuros/caminar-sobre-las-aguas/) P** - Mantienes a flote a una criatura para que pueda caminar sobre las aguas.
-- **[Contorno borroso](/conjuros/contorno-borroso/)** - La forma del objetivo se difumina y se hace mas dificil acertarle.
+- **[Contorno borroso](/conjuros/contorno-borroso/)** - La forma del objetivo se difumina y se hace mas difícil acertarle.
 - **[Convocar elemental](/conjuros/convocar-elemental/) P** - Conjuras a un elemental para que luche por ti.
 - **[Crear comida](/conjuros/crear-comida/) P** - Alimentas a multiples criaturas mediante comida conjurada.
 - **[Criatura ilusoria](/conjuros/criatura-ilusoria/)** - Creas una ilusión convincente de una criatura.
@@ -138,7 +138,7 @@ PC = poco común.
 - **[Localizar P](/conjuros/localizar-p/), P** - Averiguas la dirección hasta un objeto.
 - **[Mensaje onirico](/conjuros/mensaje-onirico/) P** - Envias un mensaje que llega dentro de un sueno.
 - **[Muro de espinos](/conjuros/muro-de-espinos/) P** - Haces crecer un muro de zarzas.
-- **[Muro de viento](/conjuros/muro-de-viento/)** - Creas un muro de viento racheado que obstaculiza el movimiento y los ataques a distancia.
+- **[Muro de viento](/conjuros/muro-de-viento/)** - Creas un muro de viento achasado que obstaculiza el movimiento y los ataques a distancia.
 - **[Orbe acuoso](/conjuros/orbe-acuoso/)** - Haces rodar una bola de agua para apagar incendios y englobar criaturas.
 - **[Paralizar](/conjuros/paralizar/) P** - Inmovilizas a una criatura donde esta.
 - **[Pasaje seguro](/conjuros/pasaje-seguro/) P** - Haces que un area sea segura de atravesar.
@@ -157,17 +157,17 @@ PC = poco común.
 - **[Clarividencia](/conjuros/clarividencia/)** - Ves a traves de un sensor magico invisible.
 - **[Confusion](/conjuros/confusion/) P** - Confundes a una criatura, haciendo que actue de forma aleatoria.
 - **[Creacion](/conjuros/creacion/) P** - Creas un objeto temporal.
-- **[Detectar escudrinamiento P](/conjuros/detectar-escudrinamiento-p/), P** - Compruebas si hay efectos de escudriñamiento en la zona.
+- **[Detectar escudriñamiento P](/conjuros/detectar-escudriñamiento-p/), P** - Compruebas si hay efectos de escudriñamiento en la zona.
 - **[Escudo de fuego](/conjuros/escudo-de-fuego/) P** - Las llamas te protegen del frio y danan a quienes te tocan.
 - **[Espejismo P](/conjuros/espejismo-p/), P** - Disfrazas un entorno natural como si fuera otro.
 - **[Forma aerea](/conjuros/forma-aerea/) P** - Te conviertes en un combatiente aereo.
 - **[Forma de vapor](/conjuros/forma-de-vapor/)** - Transformas tu cuerpo en vapor.
 - **[Globo disipador PC](/conjuros/globo-disipador-pc/)** - Contrarrestas la magia que entra en esta esfera.
-- **[Maldicion del paria](/conjuros/maldicion-del-paria/)** - Maldices a una criatura con ser poco atractiva e insoportable.
+- **[Maldición del paria](/conjuros/maldición-del-paria/)** - Maldices a una criatura con ser poco atractiva e insoportable.
 - **[Moldear la piedra](/conjuros/moldear-la-piedra/)** - Das nueva forma a un cubo de piedra.
 - **[Movimiento sin restricciones](/conjuros/movimiento-sin-restricciones/)** - Repeles los efectos que mantendrían en su lugar a una criatura.
 - **[Muro de fuego](/conjuros/muro-de-fuego/) P** - Creas un muro ardiente que quema a las criaturas que lo atraviesan.
-- **[Parpadeo](/conjuros/parpadeo/) P** - Te proteges de la mayor parte del dano, teletransportándote de forma erratica.
+- **[Parpadeo](/conjuros/parpadeo/) P** - Te proteges de la mayor parte del dano, teletransportándote de forma errática.
 - **[Pesadilla](/conjuros/pesadilla/)** - Acosas los buenos y una criatura con inquietantes pesadillas.
 - **[Resiliencia de la montana](/conjuros/resiliencia-de-la-montana/) P** - Endureces a una criatura para que resista ataques físicos.
 - **[Sugerencia](/conjuros/sugerencia/) P** - Sugieres un curso de acción que una criatura debe seguir.
@@ -189,7 +189,7 @@ PC = poco común.
 - **[Forma de elemental](/conjuros/forma-de-elemental/) P** - Te conviertes en un elemental.
 - **[Habla verdadera P](/conjuros/habla-verdadera-p/), P** - Permites a una criatura que hable y entienda todos los idiomas.
 - **[Invocar espiritus](/conjuros/invocar-espiritus/) P** - Llamas a un grupo de apariciones fantasmales para que ataquen a tus enemigos.
-- **[Maldicion del marinero](/conjuros/maldicion-del-marinero/)** - Infectas a una criatura con la maldición del mar ondulante.
+- **[Maldición del marinero](/conjuros/maldición-del-marinero/)** - Infectas a una criatura con la maldición del mar ondulante.
 - **[Muro de hielo](/conjuros/muro-de-hielo/) P** - Esculpes un muro de hielo de un pie (30 cm) de grueso que bloquea la vision y puede congelar a las criaturas.
 - **[Muro de piedra](/conjuros/muro-de-piedra/) P** - Das forma a un muro de piedra.
 - **[Nube toxica](/conjuros/nube-toxica/) P** - Haces que una nube de niebla venenosa se aleje rodando de ti.
@@ -208,12 +208,12 @@ PC = poco común.
 - **[Arruinaconjuros](/conjuros/arruinaconjuros/)** - Maldices a una criatura con sufrir dano cuando se lanza sobre ella y reduces la duración de sus conjuros.
 - **[Cadena de relampagos](/conjuros/cadena-de-relampagos/) P** - Haces que un arco eléctrico salte de una criatura a otra.
 - **[Calamidad fantasmal](/conjuros/calamidad-fantasmal/) P** - Creas versiones apocalípticas que danan mentalmente a las criaturas.
-- **[Desangramiento vampirico](/conjuros/desangramiento-vampirico/) P** - Extraes sangre y fuerza vital de las criaturas en un cono, danandolas y cucándote a ti mismo.
+- **[Desangramiento vampirico](/conjuros/desangramiento-vampirico/) P** - Extraes sangre y fuerza vital de las criaturas en un cono, dañándolas y cucándote a ti mismo.
 - **[Desintegrar](/conjuros/desintegrar/) P** - Reduces a polvo a una criatura u objeto.
 - **[Doble enganoso](/conjuros/doble-enganoso/)** - Te vuelves invisible y creas un duplicado de ti mismo que actua como tu.
 - **[Dominar P](/conjuros/dominar-p/), P** - Una criatura tiene que obedecer tus ordenes.
 - **[Enredaderas enmaranantes](/conjuros/enredaderas-enmaranantes/)** - Embrollas a las criaturas en el interior de una explosion y te concentras para azotarlas con enredaderas inmovilizantes.
-- **[Escudrinamiento PC](/conjuros/escudrinamiento-pc/)** - Espias a una criatura a tu elección.
+- **[Escudriñamiento PC](/conjuros/escudriñamiento-pc/)** - Espias a una criatura a tu elección.
 - **[Esquema brillante](/conjuros/esquema-brillante/)** - Creas un esquema de luces que deslumbra y ciega a las criaturas que entran en el area.
 - **[Forma de dragon](/conjuros/forma-de-dragon/) P** - Te conviertes en un dragon.
 - **[Metamorfosis maldita](/conjuros/metamorfosis-maldita/)** - Transformas al objetivo en un animal inofensivo.
@@ -244,11 +244,11 @@ PC = poco común.
 
 - **[Danza incontrolable](/conjuros/danza-incontrolable/)** - Abrumas a un objetivo con una inevitable pasion por la danza.
 - **[Desaparicion](/conjuros/desaparicion/)** - Haces que una criatura sea invisible, silenciosa e indetectable a los sentidos especiales.
-- **[Desecar](/conjuros/desecar/) P** - Extraes la humedad de las criaturas, danandolas.
+- **[Desecar](/conjuros/desecar/) P** - Extraes la humedad de las criaturas, dañándolas.
 - **[Dilema](/conjuros/dilema/)** - Atrapas a una criatura en un rompecabezas extradimensional.
 - **[Forma de monstruosidad](/conjuros/forma-de-monstruosidad/)** - Te conviertes en un monstruo poderoso.
 - **[Grieta artica](/conjuros/grieta-artica/) P** - Un frio tremendo dana y congela a una criatura.
-- **[Observacion implacable](/conjuros/observacion-implacable/)** - Otras criaturas y tu rastreais a un sujeto de forma exacta utilizando el escudriñamiento.
+- **[Observacion implacable](/conjuros/observacion-implacable/)** - Otras criaturas y tu rastreáis a un sujeto de forma exacta utilizando el escudriñamiento.
 - **[Ocultar la mente](/conjuros/ocultar-la-mente/) P** - Proteges a una criatura de la magia mental y de los efectos que curiosean en sus secretos.
 - **[Ubicar](/conjuros/ubicar/) P** - Averiguas la ubicación exacta de una criatura u objeto.
 - **[Terremoto](/conjuros/terremoto/) P** - Azotas el terreno con un devastador terremoto.
@@ -258,7 +258,7 @@ PC = poco común.
 - **[Caida de estrellas](/conjuros/caida-de-estrellas/) P** - Llamas a cuatro fragmentos celestes para que, en su caida, inflijan dano contundente y elemental.
 - **[Detonar magia](/conjuros/detonar-magia/) P** - Haces que un conjuro u objeto explote.
 - **[Fantasmagoria](/conjuros/fantasmagoria/)** - Asustas, infliges dano mental y posiblemente matas a muchos objetivos.
-- **[Implosion](/conjuros/implosion/) P** - Haces que una criatura colapse sobre si misma.
+- **[Implosion](/conjuros/implosion/) P** - Haces que una criatura colapso sobre si misma.
 - **[Masacre](/conjuros/masacre/) P** - Matas instantaneamente a multiples criaturas.
 - **[Metamorfosis](/conjuros/metamorfosis/)** - Cambias de forma fluida entre diferentes formas.
 - **[Presciencia](/conjuros/presciencia/)** - Un sentido del peligro te avisa cuando una criatura esta en peligro y la protege con buena fortuna.

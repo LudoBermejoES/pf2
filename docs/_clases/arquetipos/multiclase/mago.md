@@ -36,7 +36,7 @@ Obtienes el conjuro de escuela inicial de tu escuela. Si aun no lo tienes, obtie
 
 ---
 
-### Arcanos basicos - Dote 4
+### Arcanos básicos - Dote 4
 
 **Rasgos:** Arquetipo
 
@@ -60,7 +60,7 @@ Obtienes los beneficios de lanzamiento de conjuros basico. Cada vez que obtienes
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Arcanos basicos
+**Prerrequisitos:** Arcanos básicos
 
 Obtienes una dote de mago. A efectos de cumplir con sus prerrequisitos, tu nivel de mago es igual a la mitad de tu nivel de personaje.
 

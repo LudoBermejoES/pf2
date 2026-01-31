@@ -20,7 +20,7 @@ El arquetipo druida puede proporcionar un poco de curación o de dano elemental 
 
 **Rasgos:** Arquetipo, Dedicacion, Multiclase
 
-**Prerrequisitos:** Sabiduria +2
+**Prerrequisitos:** Sabiduría +2
 
 Lanzas conjuros como un druida. Obtienes la actividad Lanzar un conjuro. Puedes preparar 2 trucos comunes cada dia de la lista de conjuros primigenios o cualesquiera otros trucos primigenios a los que tienes acceso. Estas entrenado en las estadísticas modificador al ataque de conjuros y CD de conjuros. Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo druida es la Sabiduría, y son conjuros primigenios de druida.
 

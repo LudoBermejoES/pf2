@@ -92,7 +92,7 @@ Un estudio dedicado te permite preparar una gama mas amplia de conjuros sencillo
 
 Infundes a tu familiar con energia magica adicional. Puedes seleccionar cuatro aptitudes de familiar o de amo cada dia, en lugar de dos.
 
-**Especial:** Si tu tesis arcana es sintonizacion de familiar mejorada, el numero base de aptitudes de familiar del tuyo, antes de anadir cualquier aptitud adicional derivada de tu tesis arcana, es 4.
+**Especial:** Si tu tesis arcana es sintonizacion de familiar mejorada, el numero base de aptitudes de familiar del tuyo, antes de añadir cualquier aptitud adicional derivada de tu tesis arcana, es 4.
 
 ---
 
@@ -162,7 +162,7 @@ Puedes preparar dos conjuros en un espacio, lo que te concede la libertad de ele
 
 **Prerrequisitos:** experto en Engano
 
-**Desencadenante:** Una criatura tiene exito, pero no exito critico, en una prueba de Percepcion o una salvacion de Voluntad para descreer una ilusion de un conjuro que has lanzado.
+**Desencadenante:** Una criatura tiene exito, pero no exito critico, en una prueba de Percepción o una salvacion de Voluntad para descreer una ilusion de un conjuro que has lanzado.
 
 **Requisitos:** Estas a 30 pies (9 m) o menos del observador y de la ilusion.
 
@@ -276,7 +276,7 @@ Aplicas creativamente tus conjuros preparados para Contraconjurar una variedad m
 
 ---
 
-### Deteccion Magica Entusiasta
+### Detección Magica Entusiasta
 
 **Nivel 12** | **Rasgos:** Fortuna, Mago
 
@@ -294,7 +294,7 @@ Llevas a cabo manipulaciones complejas para hacer que la energia de tus conjuros
 
 ### Sentido Magico
 
-**Nivel 12** | **Rasgos:** Arcano, Deteccion, Mago
+**Nivel 12** | **Rasgos:** Arcano, Detección, Mago
 
 Tienes literalmente un sexto sentido para la magia ambiental en tus proximidades. Puedes sentir la presencia de auras magicas como si siempre estuvieras utilizando un conjuro de detectar magia de 1.er rango. Solo detecta magia en tu campo visual. Cuando Buscas, obtienes los beneficios de un conjuro de detectar magia de 3.er rango sobre las cosas que ves (ademas de los beneficios normales de Buscar). Puedes apagar y encender este sentido con una acción gratuita al inicio o al final de tu turno.
 
@@ -316,7 +316,7 @@ Derivas parte de la energia de tu conjuro a un despliegue runico inestable. Si t
 
 **Prerrequisitos:** vinculo arcano
 
-Tu conexión con tu objeto vinculado incrementa tu reserva de foco. Siempre que Reenfocas mientras tu objeto vinculado esta en tu poder, rellenas por completo tu reserva de foco.
+Tu conexión con tu objeto vinculado incrementa tu reserva de foco. Siempre que Reenofcas mientras tu objeto vinculado esta en tu poder, rellenas por completo tu reserva de foco.
 
 ---
 
@@ -455,7 +455,7 @@ Has dominado los secretos mas grandes de la magia arcana. Obtienes un espacio de
 | Contraconjuro astuto | 12 |
 | Despliegue de detonacion secundaria | 14 |
 | Despliegue de proteccion de conjuros | 4 |
-| Deteccion magica entusiasta | 12 |
+| Detección magica entusiasta | 12 |
 | Encantar golpes | 4 |
 | Energia abrumadora | 10 |
 | Energia contundente | 12 |

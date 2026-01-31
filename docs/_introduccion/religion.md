@@ -7,9 +7,9 @@ category: introduccion
 nav_order: 0
 ---
 
-La seleccion de un dios es critica para los clerigos, pero la mayoria de personajes presentan sus respetos a por lo menos un dios en busca de un foco en la vida y una guia en tiempos de adversidad o de necesidad. Algunos adoran en su lugar a un grupo de dioses dispuestos en un panteon, siguen una religion carente de dioses como la Fe Verde o una filosofia especifica.
+La seleccion de un dios es critica para los clérigos, pero la mayoría de personajes presentan sus respetos a por lo menos un dios en busca de un foco en la vida y una guia en tiempos de adversidad o de necesidad. Algunos adoran en su lugar a un grupo de dioses dispuestos en un panteon, siguen una religion carente de dioses como la Fe Verde o una filosofia especifica.
 
-Cualquiera puede adorar a un dios, pero quienes lo hacen de forma devota deberian preocuparse de seguir los edictos de la fe (comportamientos que la fe anima) y evitar sus anatemas (acciones consideradas blasfemas que podrian hacer que un dios revocara sus bendiciones).
+Cualquiera puede adorar a un dios, pero quienes lo hacen de forma devota deberían preocuparse de seguir los edictos de la fe (comportamientos que la fe anima) y evitar sus anatemas (acciones consideradas blasfemas que podrian hacer que un dios revocara sus bendiciones).
 
 ## Dioses principales
 
@@ -22,13 +22,13 @@ Abadar busca llevar la civilizacion a las tierras virgenes del mundo, anima el r
 - **Areas de interes:** ciudades, ley, mercaderes y riqueza
 - **Edictos:** amasar riqueza mediante el trabajo duro y el comercio, llevar la civilizacion a las fronteras, respetar el imperio de la ley
 - **Anatemas:** dedicarse al bandidaje o a la pirateria, robar, socavar un tribunal respetuoso con las leyes
-- **Atributo divino:** Constitucion o Inteligencia
+- **Atributo divino:** Constitución o Inteligencia
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: objeto ilusorio, 4to: creacion, 7mo: palacio planario |
+| Conjuros de clérigo | 1ro: objeto ilusorio, 4to: creacion, 7mo: palacio planario |
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Sociedad |
@@ -52,7 +52,7 @@ Asmodeo se deleita tentando a los mortales para que se den a la corrupcion. Prom
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: hechizar, 4to: sugerencia, 6to: doble enganoso |
+| Conjuros de clérigo | 1ro: hechizar, 4to: sugerencia, 6to: doble enganoso |
 | Fuente divina | danar |
 | Santificacion divina | debe elegir sacrilega |
 | Habilidad divina | Engano |
@@ -65,7 +65,7 @@ Asmodeo se deleita tentando a los mortales para que se den a la corrupcion. Prom
 
 **Aguijon Placentero**
 
-Calistria es una diosa traviesa y mercurial de la atraccion que se deleita enganando a otros y que busca venganza contra quienes le faltan al respeto. Aunque la adoracion de Calistria esta mas extendida entre los elfos, miembros de otras muchas ascendencias tambien la siguen.
+Calistria es una diosa traviesa y mercurial de la atracción que se deleita enganando a otros y que busca venganza contra quienes le faltan al respeto. Aunque la adoración de Calistria esta mas extendida entre los elfos, miembros de otras muchas ascendencias tambien la siguen.
 
 - **Areas de interes:** lujuria, trampas y venganza
 - **Edictos:** buscar sensaciones hedonistas, perseguir la libertad personal, vengarse
@@ -76,7 +76,7 @@ Calistria es una diosa traviesa y mercurial de la atraccion que se deleita engan
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: hechizar, 3ro: cautivar, 6to: doble enganoso |
+| Conjuros de clérigo | 1ro: hechizar, 3ro: cautivar, 6to: doble enganoso |
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Engano |
@@ -94,13 +94,13 @@ El Dios Accidental ascendio de la vida mortal en un desafio de borracho. Cayden 
 - **Areas de interes:** cerveza, libertad, valor y vino
 - **Edictos:** ayudar a los oprimidos, buscar la gloria y la aventura, beber
 - **Anatemas:** derrochar alcohol, oprimir a los vulnerables, ser desagradable o distante cuando se esta borracho
-- **Atributo divino:** Constitucion o Carisma
+- **Atributo divino:** Constitución o Carisma
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: pies agiles, 2do: anonadar, 5to: alucinacion |
+| Conjuros de clérigo | 1ro: pies agiles, 2do: anonadar, 5to: alucinacion |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
 | Habilidad divina | Atletismo |
@@ -111,12 +111,12 @@ El Dios Accidental ascendio de la vida mortal en un desafio de borracho. Cayden 
 
 ### Desna
 
-**Cancion de las Esferas**
+**Canción de las Esferas**
 
 Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a los viajeros a traves de la oscuridad y a los sonadores a traves de las pesadillas. Se deleita en la libertad y el misterio, y anima a sus seguidores a hacer lo propio.
 
 - **Areas de interes:** estrellas, suenos, suerte y viajeros
-- **Edictos:** ayudar a otros viajeros, buscar lo que la vida tiene para ofrecer, explorar nuevos lugares, expresarse mediante el arte y la cancion
+- **Edictos:** ayudar a otros viajeros, buscar lo que la vida tiene para ofrecer, explorar nuevos lugares, expresarse mediante el arte y la canción
 - **Anatemas:** causar miedo o desesperacion, lanzar pesadilla o utilizar magia similar para corromper los suenos, tener un comportamiento intolerante
 - **Atributo divino:** Carisma o Destreza
 
@@ -124,7 +124,7 @@ Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: dormir, 4to: cambiar de sitio, 5to: potencial onirico |
+| Conjuros de clérigo | 1ro: dormir, 4to: cambiar de sitio, 5to: potencial onirico |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
 | Habilidad divina | Acrobacias |
@@ -137,18 +137,18 @@ Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a
 
 **Viejo Certero**
 
-Hace mucho, Erastil era un dios astado de la caza, pero su adoracion evoluciono para centrarse en las comunidades rurales. El Viejo Certero no desea otra cosa que una vida pacifica para sus seguidores, llamandoles a las armas tan solo cuando esa existencia pastoril se ve amenazada.
+Hace mucho, Erastil era un dios astado de la caza, pero su adoración evoluciono para centrarse en las comunidades rurales. El Viejo Certero no desea otra cosa que una vida pacifica para sus seguidores, llamandoles a las armas tan solo cuando esa existencia pastoril se ve amenazada.
 
 - **Areas de interes:** caza, comercio, familia, granjas
 - **Edictos:** cuidar de tu hogar y de tu familia, cumplir con tus deberes, mantener la paz, proteger la comunidad
 - **Anatemas:** abandonar tu hogar en tiempo de necesidad, decir mentiras, mancillar tu reputacion, ponerte a ti mismo por encima de tu comunidad
-- **Atributo divino:** Constitucion o Sabiduria
+- **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: golpe seguro, 3ro: muro de espinos, 5to: senda de la Naturaleza |
+| Conjuros de clérigo | 1ro: golpe seguro, 3ro: muro de espinos, 5to: senda de la Naturaleza |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
 | Habilidad divina | Supervivencia |
@@ -161,18 +161,18 @@ Hace mucho, Erastil era un dios astado de la caza, pero su adoracion evoluciono 
 
 **Dama de las Sepulturas**
 
-Mas antigua y poderosa que la mayoria de los demas dioses, Farasma juzga las almas de todos los que mueren desde su trono en el Osario. Mediante dichos juicios, la Dama de las Sepulturas se asegura de que el ciclo natural del nacimiento y la muerte (el Rio de las Almas) no se interrumpe.
+Mas antigua y poderosa que la mayoría de los demás dioses, Farasma juzga las almas de todos los que mueren desde su trono en el Osario. Mediante dichos juicios, la Dama de las Sepulturas se asegura de que el ciclo natural del nacimiento y la muerte (el Rio de las Almas) no se interrumpe.
 
 - **Areas de interes:** destino, nacimiento, muerte, profecia y tiempo
 - **Edictos:** dar a los cuerpos su merecido descanso, destruir a los muertos vivientes, luchar por entender las antiguas profecias
 - **Anatemas:** crear muertos vivientes, profanar un cadaver, saquear una tumba
-- **Atributo divino:** Constitucion o Sabiduria
+- **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: enlace mental, 2do: arma fantasmal, 4to: vision de la muerte |
+| Conjuros de clérigo | 1ro: enlace mental, 2do: arma fantasmal, 4to: vision de la muerte |
 | Fuente divina | curar |
 | Santificacion divina | ninguna |
 | Habilidad divina | Medicina |
@@ -190,13 +190,13 @@ Quien busca la gloria en el campo de batalla reza plegarias a Nuestro Senor del 
 - **Areas de interes:** armas, batalla y fuerza
 - **Edictos:** apurar tus limites, llevar armadura en combate, obtener la victoria en combate justo
 - **Anatemas:** ganar una batalla con tacticas turbias o magia indirecta, matar prisioneros o enemigos que se han rendido, prevenir conflictos mediante la negociacion
-- **Atributo divino:** Fuerza o Constitucion
+- **Atributo divino:** Fuerza o Constitución
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: golpe seguro, 2do: agrandar, 4to: tormenta de armas |
+| Conjuros de clérigo | 1ro: golpe seguro, 2do: agrandar, 4to: tormenta de armas |
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Atletismo |
@@ -214,13 +214,13 @@ Un dios de aspecto dual, Gozreh es el mar que encapsula la tierra y el viento qu
 - **Areas de interes:** el clima, el mar y la Naturaleza
 - **Edictos:** proteger, respetar y valorar la Naturaleza en todas sus formas
 - **Anatemas:** asolar areas de belleza natural, crear muertos vivientes, hacer que la civilizacion se entrometa en las tierras virgenes
-- **Atributo divino:** Constitucion o Sabiduria
+- **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: rafaga de viento, 3ro: relampago, 5to: controlar las aguas |
+| Conjuros de clérigo | 1ro: rafaga de viento, 3ro: relampago, 5to: controlar las aguas |
 | Fuente divina | curar |
 | Santificacion divina | ninguna |
 | Habilidad divina | Supervivencia |
@@ -238,16 +238,16 @@ Antes de su ascension y de heredar muchos adoradores del dios de la humanidad, I
 - **Areas de interes:** gobierno, honor, justicia y valor
 - **Edictos:** albergar valor en el corazon, ejercer la templanza, luchar por la justicia y el honor
 - **Anatemas:** abandonar a un companero que te necesita, deshonrarte a ti mismo, rehusar un desafio de un igual
-- **Atributo divino:** Fuerza o Constitucion
+- **Atributo divino:** Fuerza o Constitución
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: golpe seguro, 2do: agrandar, 4to: escudo de fuego |
+| Conjuros de clérigo | 1ro: golpe seguro, 2do: agrandar, 4to: escudo de fuego |
 | Fuente divina | curar |
 | Santificacion divina | debe elegir sagrada |
-| Habilidad divina | Intimidacion |
+| Habilidad divina | Intimidación |
 | Dominios | celo, confianza, poder, verdad |
 | Arma predilecta | espada larga |
 
@@ -262,13 +262,13 @@ Como mortal, Irori alcanzo la autentica iluminacion, lo que le permitio liberars
 - **Areas de interes:** autoperfeccion, conocimiento e historia
 - **Edictos:** ayudar a otros a perfeccionarse a si mismos, practicar la disciplina, refinar cuerpo, mente y espiritu hasta un estado mas perfecto, ser humilde
 - **Anatemas:** destruir un texto historico importante, fracasar repetidamente en mantener el autocontrol, implicarse en comportamientos abiertamente poco saludables o autodestructivos
-- **Atributo divino:** Inteligencia o Sabiduria
+- **Atributo divino:** Inteligencia o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: saltar, 3ro: acelerar, 4to: resiliencia de la montana |
+| Conjuros de clérigo | 1ro: saltar, 3ro: acelerar, 4to: resiliencia de la montana |
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Atletismo |
@@ -281,18 +281,18 @@ Como mortal, Irori alcanzo la autentica iluminacion, lo que le permitio liberars
 
 **Madre de los Monstruos**
 
-Lamashtu se deleita en la corrupcion de lo que es puro. Los cambios fisicos y las pesadillas que dejan sus intervenciones son tratados como regalos por sus seguidores y como terrores desagradables por el mundo exterior. Hay algunos que encuentran alivio o incluso una familia entre los seguidores de Lamashtu debido a la mayor aceptacion de las diferencias que tiene su fe.
+Lamashtu se deleita en la corrupcion de lo que es puro. Los cambios físicos y las pesadillas que dejan sus intervenciones son tratados como regalos por sus seguidores y como terrores desagradables por el mundo exterior. Hay algunos que encuentran alivio o incluso una familia entre los seguidores de Lamashtu debido a la mayor aceptacion de las diferencias que tiene su fe.
 
 - **Areas de interes:** aberraciones, monstruos y pesadillas
 - **Edictos:** adoctrinar a otros en las ensenanzas de Lamashtu, conceder el poder a los apestados y a los oprimidos, convertir lo bello en monstruoso, revelar la corrupcion y los defectos que hay en todas las cosas
 - **Anatemas:** intentar cambiar lo que te hace diferente, proporcionar auxilio a los enemigos de Lamashtu
-- **Atributo divino:** Fuerza o Constitucion
+- **Atributo divino:** Fuerza o Constitución
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: aguijon de arana, 2do: forma animal, 4to: pesadilla |
+| Conjuros de clérigo | 1ro: aguijon de arana, 2do: forma animal, 4to: pesadilla |
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sacrilega |
 | Habilidad divina | Supervivencia |
@@ -310,13 +310,13 @@ Antiguamente un maestro mortal de la magia, Nethys busco desentranar todos los s
 - **Areas de interes:** magia
 - **Edictos:** buscar el poder magico y utilizarlo
 - **Anatemas:** preferir las sendas mundanas a las de la magia
-- **Atributo divino:** Inteligencia o Sabiduria
+- **Atributo divino:** Inteligencia o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: descarga de fuerza, 2do: incrustar mensaje, 3ro: levitar, 4to: fluctuar, 5to: carga telecinetica, 6to: muro de fuerza, 7mo: distorsionar la mente, 8vo: dilema, 9no: detonar magia |
+| Conjuros de clérigo | 1ro: descarga de fuerza, 2do: incrustar mensaje, 3ro: levitar, 4to: fluctuar, 5to: carga telecinetica, 6to: muro de fuerza, 7mo: distorsionar la mente, 8vo: dilema, 9no: detonar magia |
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Arcanos |
@@ -340,7 +340,7 @@ Esta sombria figura suele ser adorada en cuatro aspectos: Dedos Negros, aliado d
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: disfraz ilusorio, 2do: invisibilidad, 4to: vision de la muerte |
+| Conjuros de clérigo | 1ro: disfraz ilusorio, 2do: invisibilidad, 4to: vision de la muerte |
 | Fuente divina | danar |
 | Santificacion divina | puede elegir sacrilega |
 | Habilidad divina | Sigilo |
@@ -353,18 +353,18 @@ Esta sombria figura suele ser adorada en cuatro aspectos: Dedos Negros, aliado d
 
 **Bestia Agreste**
 
-Rovagug fue aprisionado hace mucho en el nucleo de Golarion a manos de otros muchos dioses trabajando de conjunto, y busca liberarse algun dia y desatar el caos sobre el mundo. Le sirven sus semillas y quienes buscan la destruccion definitiva de todas las cosas.
+Rovagug fue aprisionado hace mucho en el nucleo de Golarion a manos de otros muchos dioses trabajando de conjunto, y busca liberarse algún dia y desatar el caos sobre el mundo. Le sirven sus semillas y quienes buscan la destruccion definitiva de todas las cosas.
 
 - **Areas de interes:** desastre, destruccion e ira
 - **Edictos:** destruir todas las cosas, liberar a Rovagug de su prision
 - **Anatemas:** crear algo nuevo, permitir que los lazos materiales te retengan, torturar a una victima o retrasar de alguna otra forma su destruccion
-- **Atributo divino:** Fuerza o Constitucion
+- **Atributo divino:** Fuerza o Constitución
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: respirar fuego, 2do: agrandar, 6to: desintegrar |
+| Conjuros de clérigo | 1ro: respirar fuego, 2do: agrandar, 6to: desintegrar |
 | Fuente divina | danar |
 | Santificacion divina | debe elegir sacrilega |
 | Habilidad divina | Atletismo |
@@ -382,13 +382,13 @@ Antiguamente una poderosa angel y senora empierea, Sarenrae dirigio los esfuerzo
 - **Areas de interes:** curacion, redencion honesta y el sol
 - **Edictos:** aportar ayuda a los enfermos y a los heridos, buscar y permitir la redencion, destruir a la Semilla de Rovagug, proteger a los aliados
 - **Anatemas:** crear muertos vivientes, denegar a una criatura arrepentida la oportunidad de redimirse, fracasar en derribar el mal, mentir
-- **Atributo divino:** Constitucion o Sabiduria
+- **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: respirar fuego, 2do: bola de fuego, 6to: muro de fuego |
+| Conjuros de clérigo | 1ro: respirar fuego, 2do: bola de fuego, 6to: muro de fuego |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
 | Habilidad divina | Medicina |
@@ -401,21 +401,21 @@ Antiguamente una poderosa angel y senora empierea, Sarenrae dirigio los esfuerzo
 
 **Rosa Eterna**
 
-Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un mundo que a veces es oscuro. Busca redimir algun dia a su corrompido hermano Zon-Kuthon.
+Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un mundo que a veces es oscuro. Busca redimir algún dia a su corrompido hermano Zon-Kuthon.
 
 - **Areas de interes:** amor, arte, belleza y musica
 - **Edictos:** elegir y perfeccionar un arte, liderar con el ejemplo, ser pacifico, ver la belleza en todas las cosas
 - **Anatemas:** destruir el arte o permitir que sea destruido, a menos que sea para salvar una vida o para perseguir un arte mayor; negarse a aceptar una rendicion
-- **Atributo divino:** Sabiduria o Carisma
+- **Atributo divino:** Sabiduría o Carisma
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: colores mareantes, 3ro: cautivar, 4to: creacion |
+| Conjuros de clérigo | 1ro: colores mareantes, 3ro: cautivar, 4to: creacion |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
-| Habilidad divina | elige entre Artesania o Interpretacion |
+| Habilidad divina | elige entre Artesanía o Interpretacion |
 | Dominios | creacion, familia, pasion, proteccion |
 | Arma predilecta | guja |
 
@@ -425,21 +425,21 @@ Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un 
 
 **Padre de la Creacion**
 
-Aunque le adoran muchos enanos como el Padre de la Creacion, Torag lucha para proteger todas las comunidades en las que es adorado y tambien la siguen quienes valoran la artesania y la creacion.
+Aunque le adoran muchos enanos como el Padre de la Creacion, Torag lucha para proteger todas las comunidades en las que es adorado y tambien la siguen quienes valoran la artesanía y la creacion.
 
 - **Areas de interes:** estrategia, forja y proteccion
 - **Edictos:** mantener la palabra dada, respetar la forja, ser honorable y directo, servir a tu pueblo
 - **Anatemas:** crear intencionalmente obras de calidad inferior, decir mentiras o enganar a alguien, mostrar compasion de forma continuada a los enemigos de tu pueblo cuando dichos enemigos han demostrado que no la merecen
-- **Atributo divino:** Constitucion o Sabiduria
+- **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: enlace mental, 3ro: ligadura terrestre, 4to: creacion |
+| Conjuros de clérigo | 1ro: enlace mental, 3ro: ligadura terrestre, 4to: creacion |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
-| Habilidad divina | Artesania |
+| Habilidad divina | Artesanía |
 | Dominios | creacion, familia, proteccion, tierra |
 | Arma predilecta | martillo de guerra |
 
@@ -454,16 +454,16 @@ Encaprichada de los placeres del mundo de los vivos, Urgathoa escapo a las garra
 - **Areas de interes:** enfermedad, gula y muerte en vida
 - **Edictos:** convertirse en muerto viviente al morir, crear o proteger muertos vivientes, saciar los propios apetitos
 - **Anatemas:** destruir muertos vivientes, negar los propios apetitos, sacrificar la propia vida
-- **Atributo divino:** Constitucion o Sabiduria
+- **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: viruela goblin, 2do: falsa vitalidad, 7mo: mascara del terror |
+| Conjuros de clérigo | 1ro: viruela goblin, 2do: falsa vitalidad, 7mo: mascara del terror |
 | Fuente divina | danar |
 | Santificacion divina | debe elegir sacrilega |
-| Habilidad divina | Intimidacion |
+| Habilidad divina | Intimidación |
 | Dominios | indulgencia, magia, muerte en vida, poder |
 | Arma predilecta | guadana |
 
@@ -478,16 +478,16 @@ Antiguamente un dios del arte, la belleza y la musica como Shelyn, el Senor de l
 - **Areas de interes:** dolor, envidia, oscuridad y perdida
 - **Edictos:** llevar el dolor al mundo, mutilar el propio cuerpo
 - **Anatemas:** crear fuentes de luz permanentes o duraderas, proporcionar solaz a quienes sufren
-- **Atributo divino:** Constitucion o Sabiduria
+- **Atributo divino:** Constitución o Sabiduría
 
 **Beneficios para los devotos:**
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clerigo | 1ro: dolor fantasmal, 3ro: muro de espinos, 5to: viaje umbrio |
+| Conjuros de clérigo | 1ro: dolor fantasmal, 3ro: muro de espinos, 5to: viaje umbrio |
 | Fuente divina | danar |
 | Santificacion divina | puede elegir sacrilega |
-| Habilidad divina | Intimidacion |
+| Habilidad divina | Intimidación |
 | Dominios | ambicion, destruccion, dolor, oscuridad |
 | Arma predilecta | cadena armada |
 
@@ -495,29 +495,29 @@ Antiguamente un dios del arte, la belleza y la musica como Shelyn, el Senor de l
 
 ## Santificacion
 
-Algunos dioses santifican a sus clerigos y a sus seguidores similarmente devotos. Esto concede al seguidor el rasgo sagrado o sacrilego.
+Algunos dioses santifican a sus clérigos y a sus seguidores similarmente devotos. Esto concede al seguidor el rasgo sagrado o sacrilego.
 
 ### Rasgo sagrado
 
-El rasgo sagrado indica una devocion poderosa hacia el altruismo, ayudar a otros y luchar contra fuerzas sacrilegeas, como infernales y muertos vivientes.
+El rasgo sagrado indica una devoción poderosa hacia el altruismo, ayudar a otros y luchar contra fuerzas sacrilegas, como infernales y muertos vivientes.
 
 ### Rasgo sacrilego
 
-El rasgo sacrilego muestra devocion hacia victimizar a otros, infligir dano y luchar contra los poderes celestiales.
+El rasgo sacrilego muestra devoción hacia victimizar a otros, infligir dano y luchar contra los poderes celestiales.
 
 ### Reglas de santificacion
 
 - Los dioses que indican "debe elegir" ordenan que se obtenga el rasgo.
-- Los dioses que indican "puede elegir" conceden al devoto la opcion de elegirlo o no.
+- Los dioses que indican "puede elegir" conceden al devoto la opción de elegirlo o no.
 - Puedes tener el rasgo sagrado, el sacrilego o ninguno de los dos, pero jamas puedes tener ambos a la vez.
 
-Los conjuros y otros efectos pueden tener tambien estos rasgos, haciendolos mas poderosos contra las criaturas que tienen el rasgo opuesto. Algunos conjuros y aptitudes tienen el rasgo santificado. Si tienes el rasgo sagrado o el sacrilego, cuando usas una aptitud santificada sumas a la misma tu rasgo sagrado o sacrilego.
+Los conjuros y otros efectos pueden tener tambien estos rasgos, haciéndolos mas poderosos contra las criaturas que tienen el rasgo opuesto. Algunos conjuros y aptitudes tienen el rasgo santificado. Si tienes el rasgo sagrado o el sacrilego, cuando usas una aptitud santificada sumas a la misma tu rasgo sagrado o sacrilego.
 
 ---
 
 ## Fes y filosofias
 
-La fe se puede expresar de muchas mas formas que venerando a un solo dios, o a varios. A continuacion se presentan un par de ejemplos de religiones y filosofias carentes de dioses. Unas y otras carecen de un simbolo divino externo que ofrece beneficios a los devotos.
+La fe se puede expresar de muchas mas formas que venerando a un solo dios, o a varios. A continuación se presentan un par de ejemplos de religiones y filosofias carentes de dioses. Unas y otras carecen de un simbolo divino externo que ofrece beneficios a los devotos.
 
 ### Ateismo
 
@@ -537,7 +537,7 @@ Los adoradores de la Fe Verde cuentan entre los suyos a muchos druidas. Consider
 
 ## Tabla de dominios
 
-Los clerigos y algunos otros devotos pueden obtener conjuros de dominio de sus dioses. Los siguientes dominios son los utilizados por los dioses principales de Golarion.
+Los clérigos y algunos otros devotos pueden obtener conjuros de dominio de sus dioses. Los siguientes dominios son los utilizados por los dioses principales de Golarion.
 
 | Dominio | Descripcion |
 |---------|-------------|
@@ -548,7 +548,7 @@ Los clerigos y algunos otros devotos pueden obtener conjuros de dominio de sus d
 | Ciudades | Tienes poderes sobre los entornos urbanos y sus habitantes. |
 | Confianza | Vences tu miedo y proyectas orgullo. |
 | Conocimiento | Obtienes introspecciones divinas. |
-| Creacion | Tienes aptitudes divinas relacionadas con la artesania y el arte. |
+| Creacion | Tienes aptitudes divinas relacionadas con la artesanía y el arte. |
 | Curacion | Tu magia curativa es particularmente poderosa. |
 | Destino | Ves y entiendes inevitabilidades ocultas. |
 | Destruccion | Eres un conducto de la devastacion divina. |

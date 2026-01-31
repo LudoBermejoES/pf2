@@ -23,7 +23,7 @@ Utiliza tu bonificador por competencia para la categoría (ligera, intermedia o 
 
 ## Ponerse y Quitarse la Armadura
 
-Ponerse y quitarse una armadura cuesta un poco de tiempo, asi que asegurate de tenerla puesta cuando la necesitas. Tanto poner como quitar una armadura son actividades que implican muchas acciones de Interactuar.
+Ponerse y quitarse una armadura cuesta un poco de tiempo, así que asegúrate de tenerla puesta cuando la necesitas. Tanto poner como quitar una armadura son actividades que implican muchas acciones de Interactuar.
 
 | Accion | Armadura ligera | Armadura intermedia o pesada |
 |--------|-----------------|------------------------------|
@@ -54,7 +54,7 @@ Mientras llevas puesta una armadura, sufres este penalizador a las pruebas de ha
 
 ### Penalizador a la Velocidad (pen. Velocidad)
 
-Cuando llevas puesta una armadura, sufres el penalizador a tu Velocidad indicado en esta entrada, asi como a cualquier otro tipo de movimiento de que dispones, como por ejemplo una Velocidad de trepar o de nadar, hasta un minimo de 5 pies (1,5 m). Si cumples el umbral de Fuerza de la armadura (ver mas abajo), reduces dicho penalizador en 5 pies (1,5 m).
+Cuando llevas puesta una armadura, sufres el penalizador a tu Velocidad indicado en esta entrada, así como a cualquier otro tipo de movimiento de que dispones, como por ejemplo una Velocidad de trepar o de nadar, hasta un minimo de 5 pies (1,5 m). Si cumples el umbral de Fuerza de la armadura (ver mas abajo), reduces dicho penalizador en 5 pies (1,5 m).
 
 ### Fuerza
 
@@ -62,11 +62,11 @@ Esta entrada indica el modificador por Fuerza en el que eres lo bastante fuerte 
 
 ### Impedimenta
 
-Esta entrada indica la Impedimenta de la armadura, suponiendo que la llevas puesta y que tienes su peso distribuido por tu cuerpo. Una armadura que se transporta suele tener una Impedimenta 1 mayor que la que se indica aqui (o Impedimenta 1 total para una armadura de Impedimenta ligera). La Impedimenta de una armadura se aumenta o se reduce si esta hecha para criaturas que no son de tamano Pequeno o Mediano.
+Esta entrada indica la Impedimenta de la armadura, suponiendo que la llevas puesta y que tienes su peso distribuido por tu cuerpo. Una armadura que se transporta suele tener una Impedimenta 1 mayor que la que se indica aqui (o Impedimenta 1 total para una armadura de Impedimenta ligera). La Impedimenta de una armadura se aumenta o se reduce si esta hecha para criaturas que no son de tamaño Pequeno o Mediano.
 
 ### Grupo
 
-Cada tipo de ropa y de armadura pertenece a un grupo de armaduras, que las clasifica con tipos similares. Algunas aptitudes hacen referencia a los grupos de armaduras, tipicamente para conceder efectos de especializacion en armadura.
+Cada tipo de ropa y de armadura pertenece a un grupo de armaduras, que las clasifica con tipos similares. Algunas aptitudes hacen referencia a los grupos de armaduras, tipicamente para conceder efectos de especialización en armadura.
 
 ### Rasgos de Armadura
 
@@ -76,19 +76,19 @@ Los rasgos para cada armadura aparecen en esta entrada.
 
 ## Rasgos de Armadura
 
-- **Baluarte**: la armadura te cubre de forma tan completa que te proporciona beneficios contra algunos efectos daninos. A las salvaciones de Reflejos para evitar un efecto danino, como por ejemplo una bola de fuego, sumas un modificador +3 en lugar de tu modificador por Destreza.
+- **Baluarte**: la armadura te cubre de forma tan completa que te proporciona beneficios contra algunos efectos dañinos. A las salvaciones de Reflejos para evitar un efecto dañino, como por ejemplo una bola de fuego, sumas un modificador +3 en lugar de tu modificador por Destreza.
 
 - **Comoda**: la armadura es tan comoda que puedes descansar con normalidad mientras la llevas.
 
-- **Flexible**: la armadura es tan flexible que no obstaculiza la mayoria de acciones. No aplicaras su penalizador a las pruebas en las de Acrobacias o Atletismo.
+- **Flexible**: la armadura es tan flexible que no obstaculiza la mayoría de acciones. No aplicaras su penalizador a las pruebas en las de Acrobacias o Atletismo.
 
 - **Ruidosa**: esta armadura rechina y es probable que alerte a otros de tu presencia. El penalizador por armadura a las pruebas se aplica a las de Sigilo, incluso si tienes el modificador por Fuerza requerido.
 
 ---
 
-## Efectos de Especializacion en Armadura
+## Efectos de Especialización en Armadura
 
-Determinados rasgos de clase te pueden conceder beneficios adicionales con ciertas armaduras. A esto se le llama un efecto de especializacion en armadura. El efecto exacto depende de a que grupo de armadura pertenece la tuya, tal y como se indica a continuacion.
+Determinados rasgos de clase te pueden conceder beneficios adicionales con ciertas armaduras. A esto se le llama un efecto de especialización en armadura. El efecto exacto depende de a que grupo de armadura pertenece la tuya, tal y como se indica a continuación.
 
 - **Compuesta**: las numerosas piezas superpuestas de esta armadura te protegen de los ataques perforantes. Obtienes una resistencia al dano perforante igual a 1 + el valor de la runa de potencia de la armadura para las armaduras intermedias o 2 + el valor de la runa de potencia de la armadura para las armaduras pesadas.
 
@@ -169,7 +169,7 @@ Una mezcla de pelaje de animal, piel gruesa y a veces cuero hervido moldeado, es
 
 ### Armadura de Placas y Mallas
 
-La armadura de placas y mallas consiste en la mayoria de las placas metalicas utilizadas en una armadura completa, con una proteccion mas ligera o menor para brazos y piernas. Esto proporciona parte de la proteccion de la armadura completa, permitiendo mayor flexibilidad y velocidad. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
+La armadura de placas y mallas consiste en la mayoría de las placas metalicas utilizadas en una armadura completa, con una proteccion mas ligera o menor para brazos y piernas. Esto proporciona parte de la proteccion de la armadura completa, permitiendo mayor flexibilidad y velocidad. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
 
 ### Armadura Laminada
 
@@ -193,7 +193,7 @@ Una cota de malla consiste en varias piezas de armadura compuestas de pequenos a
 
 ### Ropa Acolchada
 
-Esta armadura (comúnmente denominada gambesón) es simplemente una capa de tela gruesa y guateada, pero a veces se usa porque es muy barata. La ropa acolchada es más fácil de dañar y destruir que otros tipos de armadura. Las armaduras pesadas vienen con una capa interior de ropa acolchada incluida en el Precio, aunque esta ultima pierde el rasgo comoda cuando se lleva bajo una armadura pesada. Para dormir, si tu armadura pesada resulta destruida o cuando por lo demas no llevas la armadura pesada completa, puedes llevar tan solo tu ropa acolchada. Eso te permite mantener investida la armadura magica y beneficiarte del poder de cualesquiera runas de la armadura pesada asociada, pero nadie mas puede llevar tu armadura pesada sin la capa interior acolchada.
+Esta armadura (comúnmente denominada gambesón) es simplemente una capa de tela gruesa y guateada, pero a veces se usa porque es muy barata. La ropa acolchada es más fácil de dañar y destruir que otros tipos de armadura. Las armaduras pesadas vienen con una capa interior de ropa acolchada incluida en el Precio, aunque esta ultima pierde el rasgo comoda cuando se lleva bajo una armadura pesada. Para dormir, si tu armadura pesada resulta destruida o cuando por lo demás no llevas la armadura pesada completa, puedes llevar tan solo tu ropa acolchada. Eso te permite mantener investida la armadura magica y beneficiarte del poder de cualesquiera runas de la armadura pesada asociada, pero nadie mas puede llevar tu armadura pesada sin la capa interior acolchada.
 
 ### Ropa de Explorador
 
@@ -203,6 +203,6 @@ Los aventureros que no llevan armadura viajan equipados con ropa duradera. Aunqu
 
 ## Materiales
 
-La mayoria de las armaduras y de las armas estan hechas de materiales ordinarios y comunmente disponibles como el acero, el cuero, el hierro y la madera. Si no estas seguro de la procedencia de los materiales de una armadura, el DJ es quien determina los detalles.
+La mayoría de las armaduras y de las armas estan hechas de materiales ordinarios y comunmente disponibles como el acero, el cuero, el hierro y la madera. Si no estas seguro de la procedencia de los materiales de una armadura, el DJ es quien determina los detalles.
 
-Por otra parte, algunas armaduras, escudos y armas estan hechas de materiales preciosos, que a menudo tienen propiedades sobrenaturales inherentes. El hierro frio (por ejemplo) dana a las hadas y la plata puede danar a los licantropos. Estos materiales se detallan en el Manual de direccion.
+Por otra parte, algunas armaduras, escudos y armas estan hechas de materiales preciosos, que a menudo tienen propiedades sobrenaturales inherentes. El hierro frio (por ejemplo) dana a las hadas y la plata puede danar a los licantropos. Estos materiales se detallan en el Manual de dirección.

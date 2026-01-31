@@ -19,6 +19,6 @@ spell_level: 1
 
 ---
 
-Siempre que hablas o haces algun otro sonido vocal, puedes hacer que tu vocalizacion parezca originarse en algun lugar diferente a 60 pies (18 m) o menos, y puedes cambiar libremente dicha ubicacion aparente mientras vocalizas. Toda criatura que oye el sonido puede tratar de descreer tu ilusion.
+Siempre que hablas o haces algún otro sonido vocal, puedes hacer que tu vocalizacion parezca originarse en algún lugar diferente a 60 pies (18 m) o menos, y puedes cambiar libremente dicha ubicacion aparente mientras vocalizas. Toda criatura que oye el sonido puede tratar de descreer tu ilusion.
 
-**Potenciado (2.º)** La duracion del conjuro se incrementa a 1 hora y tambien puedes cambiar el tono, la calidad y otros aspectos de tu voz. Antes de que una criatura pueda tratar de descreer tu ilusion tendra que hacer una prueba de Percepcion activa o utilizar acciones para Interactuar con el sonido.
+**Potenciado (2.º)** La duracion del conjuro se incrementa a 1 hora y tambien puedes cambiar el tono, la calidad y otros aspectos de tu voz. Antes de que una criatura pueda tratar de descreer tu ilusion tendra que hacer una prueba de Percepción activa o utilizar acciones para Interactuar con el sonido.

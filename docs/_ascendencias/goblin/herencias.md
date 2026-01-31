@@ -16,7 +16,7 @@ Los goblins, especialmente los de tribus diferentes, tienen todo tipo de diferen
 
 Estas aclimatado a la vida en territorios gélidos y tienes la piel de un color que va desde el azul celeste al azul marino, ademas de un pelaje azul.
 
-**Beneficio:** Obtienes tanta resistencia al frio como la mitad de tu nivel (minimo 1). Tratas los efectos ambientales de frio como si fueran un grado menos extremos (un frio increible se vuelve extremo, un frio extremo se vuelve severo, y asi sucesivamente).
+**Beneficio:** Obtienes tanta resistencia al frio como la mitad de tu nivel (minimo 1). Tratas los efectos ambientales de frio como si fueran un grado menos extremos (un frio increible se vuelve extremo, un frio extremo se vuelve severo, y así sucesivamente).
 
 ---
 

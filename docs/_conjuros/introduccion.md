@@ -20,11 +20,11 @@ Cuando potencias un conjuro, su rango se incrementa hasta el del espacio de conj
 
 ### Beneficios de potenciacion
 
-**Rangos especificos**: Algunas entradas potenciadas especifican uno o mas rangos a los que el conjuro tiene que ser preparado o lanzado para obtener ventajas adicionales. Lee la entrada potenciada solo para el rango que estas utilizando o preparando.
+**Rangos específicos**: Algunas entradas potenciadas especifican uno o mas rangos a los que el conjuro tiene que ser preparado o lanzado para obtener ventajas adicionales. Lee la entrada potenciada solo para el rango que estas utilizando o preparando.
 
-**Potenciacion +1**: Otras entradas indican un numero despues de un signo +, indicando que la potenciacion concede ventajas adicionales a lo largo de rangos multiples. El efecto se aplica a cada incremento de rango al que el conjuro es potenciado por encima de su rango inferior, y el beneficio es acumulativo.
+**Potenciacion +1**: Otras entradas indican un numero después de un signo +, indicando que la potenciacion concede ventajas adicionales a lo largo de rangos multiples. El efecto se aplica a cada incremento de rango al que el conjuro es potenciado por encima de su rango inferior, y el beneficio es acumulativo.
 
-*Ejemplo*: Bola de fuego dice "Potenciado (+1) El dano se incrementa en 2d6". Como bola de fuego inflige 6d6 dano por fuego a 3.er rango, una de 4.o rango infligiria 8d6 dano por fuego, una de 5.o rango infligiria 10d6 dano por fuego, y asi sucesivamente.
+*Ejemplo*: Bola de fuego dice "Potenciado (+1) El dano se incrementa en 2d6". Como bola de fuego inflige 6d6 dano por fuego a 3.er rango, una de 4.o rango infligiria 8d6 dano por fuego, una de 5.o rango infligiria 10d6 dano por fuego, y así sucesivamente.
 
 ### Conjuros espontaneos potenciados
 
@@ -60,7 +60,7 @@ Los conjuros de foco son potenciados automaticamente a la mitad de tu nivel, red
 
 ### Reserva de foco
 
-La primera vez que obtienes una aptitud que te concede un conjuro de foco, obtienes automaticamente una reserva de foco. El maximo numero de puntos en tu reserva es igual al numero de conjuros de foco que conoces o 3, la menor de las dos cosas.
+La primera vez que obtienes una aptitud que te concede un conjuro de foco, obtienes automaticamente una reserva de foco. El máximo numero de puntos en tu reserva es igual al numero de conjuros de foco que conoces o 3, la menor de las dos cosas.
 
 Esto vale solo para conjuros que requieren puntos de foco para lanzarse. Por ejemplo, los trucos de composición de un bardo no cuentan para el tamaño de la reserva.
 
@@ -68,7 +68,7 @@ Durante tus preparativos diarios, recuperas todos los Puntos de Foco de tu reser
 
 ### Reenfocar
 
-**REENFOCAR** - Concentrar, Exploracion
+**REENFOCAR** - Concentrar, Exploración
 
 **Requisitos**: Tienes una reserva de foco.
 
@@ -76,7 +76,7 @@ Inviertes 10 minutos llevando a cabo actividades que restablecen tu conexión ma
 
 Las actividades que tienes que llevar a cabo se especifican en la clase o en la aptitud que te concede tus conjuros de foco. Estas actividades pueden por lo general solaparse con otras tareas que tienen relación con el origen de tus conjuros de foco. Por ejemplo, un clérigo con conjuros de foco procedentes de un dios sagrado puede normalmente Reenfocar mientras atiende a las heridas de sus aliados.
 
-Puedes Reenfocar en multiples ocasiones para recuperar multiples puntos, hasta el maximo de tu reserva.
+Puedes Reenfocar en multiples ocasiones para recuperar multiples puntos, hasta el máximo de tu reserva.
 
 ### Lanzadores de conjuros con conjuros de foco
 
@@ -89,18 +89,18 @@ Si eres un lanzador de conjuros, tus conjuros de foco son de la misma tradición
 
 ### No lanzadores de conjuros con conjuros de foco
 
-Si obtienes conjuros de foco de una clase u otro origen que no concede la aptitud lanzamiento de conjuros, la aptitud que te concede los conjuros de foco tambien te proporciona competencia para tus modificadores al ataque de conjuros y CD de conjuros, asi como la tradición magica de tus conjuros de foco.
+Si obtienes conjuros de foco de una clase u otro origen que no concede la aptitud lanzamiento de conjuros, la aptitud que te concede los conjuros de foco tambien te proporciona competencia para tus modificadores al ataque de conjuros y CD de conjuros, así como la tradición magica de tus conjuros de foco.
 
 Aunque puedes lanzar tus conjuros de foco, eso no te cualifica para dotes u otras reglas que requieren que seas un lanzador de conjuros o tener un rasgo de clase de lanzamiento de conjuros; para eso has de tener espacios de conjuro.
 
-### Puntos de foco de multiples origenes
+### Puntos de foco de multiples orígenes
 
 Es posible, especialmente mediante los arquetipos, obtener conjuros de foco de mas de un origen. Si esto sucede:
 
 - Solo tienes una reserva de foco, contando todos tus conjuros de foco para determinar los puntos que hay en tu reserva.
 - Puedes gastar cualquiera de tus puntos de foco en cualquiera de tus conjuros de foco.
-- Cuando Reenfocas, recuperas un punto si sigues las directrices de cualquier aptitud que te concede conjuros de foco.
-- Disponer de Puntos de Foco de origenes multiples no cambia la tradición de tus conjuros.
+- Cuando Reenofcas, recuperas un punto si sigues las directrices de cualquier aptitud que te concede conjuros de foco.
+- Disponer de Puntos de Foco de orígenes multiples no cambia la tradición de tus conjuros.
 - Tienes que utilizar el modificador por atributo determinado por el origen de los conjuros de foco.
 
 ---
@@ -109,7 +109,7 @@ Es posible, especialmente mediante los arquetipos, obtener conjuros de foco de m
 
 Algunos de tus conjuros resultan naturales para tu personaje, procediendo tipicamente de tu ascendencia o de un objeto magico. Se denominan conjuros innatos.
 
-### Proceden de ascendencia u objetos magicos
+### Proceden de ascendencia u objetos mágicos
 
 La aptitud que te concede un conjuro innato te informa de lo a menudo que puedes lanzarlo (por lo general una vez al dia) y de su tradición magica. Tus conjuros innatos se renuevan durante tus preparativos diarios. Los trucos innatos se lanzan a voluntad y estan automaticamente potenciados de la forma habitual para los trucos si no se indica lo contrario.
 
@@ -154,7 +154,7 @@ El aspecto del lanzamiento de conjuros puede variar entre una y otra tradición 
 
 Los conjuros pueden variar en la cantidad de acciones que requieren, tal y como se muestra en el bloque de estadísticas de cada conjuro. Lanzas trucos, conjuros a partir de espacios de conjuro y conjuros de foco utilizando identico proceso, pero tienes que gastar el conjuro cuando lo lanzas desde un espacio de conjuro y tienes que gastar 1 Punto de Foco para lanzar un conjuro de foco.
 
-Algunas reglas hacen referencia a la actividad Lanzar un conjuro, como por ejemplo "si la siguiente acción que utilizas es Lanzar un conjuro". Cualquier conjuro califica como una actividad de Lanzar un conjuro y cualquier caracteristica del mismo utiliza las del conjuro especifico que estas lanzando.
+Algunas reglas hacen referencia a la actividad Lanzar un conjuro, como por ejemplo "si la siguiente acción que utilizas es Lanzar un conjuro". Cualquier conjuro califica como una actividad de Lanzar un conjuro y cualquier característica del mismo utiliza las del conjuro especifico que estas lanzando.
 
 ### Conjuros disimulados
 
@@ -186,7 +186,7 @@ El poder de lo divino esta impregnado de la fe, de lo invisible y de la creencia
 
 ### Ocultista
 
-Los practicantes de las tradiciones ocultistas buscan entender lo inexplicable, categorizar lo extraño y por lo demas acceder a lo efímero de forma sistematica. Los bardos son los lanzadores de conjuros ocultistas mas irónicos, reuniendo objetos esotéricos extranos y utilizando sus interpretaciones para influenciar la mente o elevar el alma.
+Los practicantes de las tradiciones ocultistas buscan entender lo inexplicable, categorizar lo extraño y por lo demás acceder a lo efímero de forma sistematica. Los bardos son los lanzadores de conjuros ocultistas mas irónicos, reuniendo objetos esotéricos extranos y utilizando sus interpretaciones para influenciar la mente o elevar el alma.
 
 ### Primigenia
 
@@ -234,7 +234,7 @@ Los locus tienden a ser caros y tienes que adquirirlos por adelantado para lanza
 
 Algunos conjuros tardan minutos o horas en lanzarse. No puedes usar otras acciones o reacciones mientras lanzas uno de estos conjuros aunque, a discreción del DJ, podrías articular unas cuantas frases.
 
-Como con las demas actividades que requieren bastante tiempo, dichos conjuros tienen el rasgo exploración y no puedes lanzarlos en un encuentro. Si estalla un combate cuando estas lanzando uno, tu conjuro queda perturbado.
+Como con las demás actividades que requieren bastante tiempo, dichos conjuros tienen el rasgo exploración y no puedes lanzarlos en un encuentro. Si estalla un combate cuando estas lanzando uno, tu conjuro queda perturbado.
 
 ---
 
@@ -342,7 +342,7 @@ Una criatura convocada por un conjuro o un efecto obtiene el rasgo convocado. Un
 - Tiene el rasgo esbirro
 - Si lanza un conjuro de rango igual o mayor que el que lo convoco, abruma la magia convocante, haciendo que su propio conjuro falle y que el conjuro de convocación acabe
 
-Por lo demas, la criatura convocada utiliza las aptitudes estándar para una criatura de su tipo. Por lo general ataca a tus enemigos al maximo de sus capacidades. Si puedes comunicarte con ella, puedes intentar comandarla, pero es el DJ quien determina el grado en que obedece tus ordenes.
+Por lo demás, la criatura convocada utiliza las aptitudes estándar para una criatura de su tipo. Por lo general ataca a tus enemigos al máximo de sus capacidades. Si puedes comunicarte con ella, puedes intentar comandarla, pero es el DJ quien determina el grado en que obedece tus ordenes.
 
 Inmediatamente después de que tu acabes el lanzamiento, la criatura convocada utilizara sus 2 acciones para dicho asalto. Un engendro u otra criatura generada a partir de una criatura convocada vuelve a su estado no alterado (por lo general un cadaver en el caso de un engendro) una vez se ha ido la criatura convocada.
 
@@ -384,7 +384,7 @@ Estos efectos transforman por completo al objetivo en una nueva forma. Un objeti
 
 Cualquier Golpe concedido por un efecto de polimorfia se considera magico. Si no se indica lo contrario, los conjuros de polimorfia no permiten al objetivo adoptar la apariencia de una criatura individual especifica, sino mas bien solo la de una criatura generica de un tipo o ascendencia general.
 
-**Forma de batalla**: Si adoptas una forma de batalla mediante un conjuro de polimorfia, sus estadisticas especiales se pueden ajustar tan solo mediante bonificadores por circunstancia, bonificadores por estatus y penalizadores. Si no se indica lo contrario, la forma de batalla te impide lanzar conjuros, hablar y la mayoria de acciones manipulativas que requieren tener manos (si existen dudas acerca de si puedes utilizar una accion o no, el DJ es quien decide).
+**Forma de batalla**: Si adoptas una forma de batalla mediante un conjuro de polimorfia, sus estadisticas especiales se pueden ajustar tan solo mediante bonificadores por circunstancia, bonificadores por estatus y penalizadores. Si no se indica lo contrario, la forma de batalla te impide lanzar conjuros, hablar y la mayoría de acciones manipulativas que requieren tener manos (si existen dudas acerca de si puedes utilizar una accion o no, el DJ es quien decide).
 
 Tu equipo se absorbe en tu cuerpo; sus aptitudes constantes siguen funcionando, pero no puedes activar objeto alguno. Si un efecto de polimorfia hace que aumentes de tamaño, necesitas espacio para expandirte o el efecto queda disipado.
 
@@ -440,7 +440,7 @@ Dependiendo del conjuro, el desencadenante podría ser la presencia de un tipo d
 ### Limitaciones de los desencadenantes
 
 - Los disfraces y las ilusiones engañan al conjuro si parecen encajar con sus parametros.
-- Para que un conjuro detecte algo visualmente, el punto de origen del mismo debera tener linea visual. La oscuridad no evita esto, pero si la invisibilidad, asi como una prueba con éxito de Sigilo para Esconderse (contra la CD del conjuro).
+- Para que un conjuro detecte algo visualmente, el punto de origen del mismo debera tener linea visual. La oscuridad no evita esto, pero si la invisibilidad, así como una prueba con éxito de Sigilo para Esconderse (contra la CD del conjuro).
 - Para la detección auditiva no hace falta linea visual, aunque el sonido tiene que ser audible en el punto de origen del conjuro. Una prueba de Sigilo para Moverse furtivamente puede enganar al sensor.
 
 ---
@@ -457,7 +457,7 @@ A algunos muros se les puede dar forma; puedes manipular el muro para que adopte
 
 ## Formato de conjuros
 
-Cada conjuro utiliza el siguiente formato. Las entradas solo aparecen cuando son aplicables, por lo que no todos los conjuros tienen todas las entradas aqui descritas. La linea del nombre de conjuro tambien indica el tipo si es un truco o un conjuro de foco, asi como el rango.
+Cada conjuro utiliza el siguiente formato. Las entradas solo aparecen cuando son aplicables, por lo que no todos los conjuros tienen todas las entradas aqui descritas. La linea del nombre de conjuro tambien indica el tipo si es un truco o un conjuro de foco, así como el rango.
 
 ### Estructura del bloque de estadisticas
 

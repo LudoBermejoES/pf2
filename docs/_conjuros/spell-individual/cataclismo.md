@@ -24,7 +24,7 @@ spell_level: 10
 
 ---
 
-Llamas al inimaginable poder de los cataclismos del fin del mundo, arrancando un trocito de cada uno y combinandolos en un ataque horriblemente poderoso. Los siguientes efectos les sobrevienen a todas las criaturas del area. Trata las resistencias de las criaturas del area como si fueran 10 menores a efectos de determinar el daño del cataclismo. Cada criatura hace una salvación basica de Reflejos que se aplica a todos y cada uno de los cinco tipos de daño.
+Llamas al inimaginable poder de los cataclismos del fin del mundo, arrancando un trocito de cada uno y combinándolos en un ataque horriblemente poderoso. Los siguientes efectos les sobrevienen a todas las criaturas del area. Trata las resistencias de las criaturas del area como si fueran 10 menores a efectos de determinar el daño del cataclismo. Cada criatura hace una salvación basica de Reflejos que se aplica a todos y cada uno de los cinco tipos de daño.
 
 - Una lluvia acida que disuelve la carne inflige 3d10 daño por acido.
 - Un rugiente terremoto azota y golpea a las criaturas a ras de suelo, infligiendo 3d10 daño contundente.

@@ -15,7 +15,7 @@ spell_level: 8
 <span class="trait-tag">Auditivo</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Emocion</span>
-<span class="trait-tag">Maldicion</span>
+<span class="trait-tag">Maldición</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Mental</span>
 <span class="trait-tag">Miedo</span>

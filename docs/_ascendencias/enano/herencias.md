@@ -16,7 +16,7 @@ Los enanos se enorgullecen de la resiliencia de sus linajes. Elige una de entre 
 
 Tienes una notable adaptación a los entornos calidos.
 
-**Beneficio:** Obtienes resistencia al fuego igual a la mitad de tu nivel (minimo 1), y tratas los efectos del calor ambiental como si fueran un grado menos extremos (un calor increible se convierte en extremo, un calor extremo se convierte en severo, y asi sucesivamente).
+**Beneficio:** Obtienes resistencia al fuego igual a la mitad de tu nivel (minimo 1), y tratas los efectos del calor ambiental como si fueran un grado menos extremos (un calor increible se convierte en extremo, un calor extremo se convierte en severo, y así sucesivamente).
 
 ---
 
@@ -41,7 +41,7 @@ Los heroes enanos de la antigüedad podían sacudirse la magia de sus enemigos y
 
 **Desencadenante:** Haces una tirada de salvacion contra un efecto magico pero aun no has tirado los dados.
 
-**Efecto:** La resistencia innata a la magia de tus antepasados surge en ti antes de refluir. Obtienes un bonificador +1 por circunstancia a la tirada de salvacion desencadenante y a otras salvaciones contra efectos magicos hasta el final de este turno.
+**Efecto:** La resistencia innata a la magia de tus antepasados surge en ti antes de refluir. Obtienes un bonificador +1 por circunstancia a la tirada de salvacion desencadenante y a otras salvaciones contra efectos mágicos hasta el final de este turno.
 
 ---
 
@@ -57,4 +57,4 @@ Tu sangre corre sana y fuerte y puedes deshacerte de las toxinas.
 
 Tus antepasados fueron guardianes de tumbas y su poder para protegerse de la muerte ha llegado hasta ti.
 
-**Beneficio:** Si obtienes un exito en una tirada de salvacion contra un efecto con el rasgo vacio o creado por una criatura muerta viviente, obtienes en su lugar un exito critico.
+**Beneficio:** Si obtienes un exito en una tirada de salvacion contra un efecto con el rasgo vacío o creado por una criatura muerta viviente, obtienes en su lugar un exito critico.

@@ -24,7 +24,7 @@ Concedes al cadaver objetivo una semblanza de vida, que utiliza para responder a
 
 **Exito critico** El objetivo puede mentir o negarse a contestar, y su espiritu te persigue durante 24 horas, irritandote y haciendo que seas incapaz de descansar durante ese tiempo.
 
-**Exito** El objetivo puede proporcionar informacion falsa o negarse a contestar a tus preguntas.
+**Exito** El objetivo puede proporcionar información falsa o negarse a contestar a tus preguntas.
 
 **Fallo** El objetivo tiene que responder con la verdad, pero sus respuestas pueden ser breves, cripticas y repetitivas. Sigue pudiendo engañarte o intentando hacer que pase el tiempo para que se acabe la duracion del conjuro antes de que puedas formular todas tus preguntas.
 

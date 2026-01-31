@@ -14,8 +14,8 @@ Los clérigos son siervos mortales de los dioses, canalizando el poder divino pa
 
 | Estadistica | Valor |
 |-------------|-------|
-| **Puntos de Golpe** | 8 + modificador por Constitucion por nivel |
-| **Atributo Clave** | Sabiduria |
+| **Puntos de Golpe** | 8 + modificador por Constitución por nivel |
+| **Atributo Clave** | Sabiduría |
 
 A 1.er nivel, tu clase te concede una mejora de atributo a Sabiduría.
 
@@ -23,7 +23,7 @@ A 1.er nivel, tu clase te concede una mejora de atributo a Sabiduría.
 
 A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes estadísticas. No estas entrenado en cualquier cosa no indicada si no obtienes un rango de competencia mejor de alguna otra forma.
 
-### Percepcion
+### Percepción
 - Entrenado en Percepción
 
 ### Tiradas de Salvacion

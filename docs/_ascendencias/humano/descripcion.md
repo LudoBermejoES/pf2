@@ -41,7 +41,7 @@ La ambición, la versatilidad y el potencial excepcional de los humanos les han 
 
 Las características físicas de los humanos son tan variadas como los climas del mundo. Muestran una amplia variedad de colores de piel y de cabello, de tipos corporales y de rasgos faciales. En términos generales, su piel tiene un tinte mas oscuro cuanto mas cerca del ecuador esta el lugar en que ellos o sus antepasados han vivido.
 
-Suelen llegar a la edad adulta alrededor de los quince anos, aunque la madurez mental tiene lugar unos pocos anos mas tarde. Un humano tipico puede vivir hasta los **noventa anos**. A veces disponen de características físicas excepcionalmente mutables comparados con las demas ascendencias, mostrando una variación mayor en altura, peso y otros parametros físicos.
+Suelen llegar a la edad adulta alrededor de los quince anos, aunque la madurez mental tiene lugar unos pocos anos mas tarde. Un humano tipico puede vivir hasta los **noventa anos**. A veces disponen de características físicas excepcionalmente mutables comparados con las demás ascendencias, mostrando una variación mayor en altura, peso y otros parametros físicos.
 
 ## Sociedad
 
@@ -61,7 +61,7 @@ La variedad humana tambien se manifiesta en cuanto a sus gobiernos, actitudes y 
 
 ## Nombres
 
-A diferencia de muchas culturas ancestrales, que generalmente se cinen a tradiciones especificas e historias compartidas, la diversidad de la humanidad ha resultado en un conjunto de nombres casi infinito. Los humanos de las tribus septentrionales tienen nombres muy diferentes a quienes viven en las naciones-estado meridionales. En gran parte del mundo, los humanos hablan comun (aunque algunos continentes de Golarion tienen sus propios idiomas comunes regionales), y aun asi sus nombres son tan variados como sus creencias y sus apariencias.
+A diferencia de muchas culturas ancestrales, que generalmente se cinen a tradiciones especificas e historias compartidas, la diversidad de la humanidad ha resultado en un conjunto de nombres casi infinito. Los humanos de las tribus septentrionales tienen nombres muy diferentes a quienes viven en las naciones-estado meridionales. En gran parte del mundo, los humanos hablan comun (aunque algunos continentes de Golarion tienen sus propios idiomas comunes regionales), y aun así sus nombres son tan variados como sus creencias y sus apariencias.
 
 ## Grupos etnicos
 
@@ -70,7 +70,7 @@ Una gran variedad de grupos etnicos humanos puebla los continentes de la Region 
 Los personajes de los grupos etnicos humanos de la Region del mar Interior hablan comun (tambien conocido como taladro), y algunos grupos etnicos conceden acceso a un idioma regional poco comun.
 
 - **Garundi**: Abarcan las naciones a lo largo de las orillas meridionales del mar Interior.
-- **Keleshitas**: Remontan sus origenes al Imperio de Kelesh en los desiertos orientales.
+- **Keleshitas**: Remontan sus orígenes al Imperio de Kelesh en los desiertos orientales.
 - **Gélidos**: Viven entre las montanas y las estepas septentrionales de Avistan.
 - **Mwangi**: Se extienden a traves del vasto continente de Garund.
 - **Shoanti**: Tienen su hogar en las duras tierras baldias de la meseta Storval.

@@ -190,4 +190,4 @@ La magia de tu interior se manifiesta como una reacción natural a las amenazas.
 
 La conexión que tienes con el Primer Mundo resuena en tu cuerpo, con más fuerza que en la mayoría de los gnomos, lo que te permite cruzar el umbral entre el Universo y el Primer Mundo.
 
-**Beneficio:** Obtienes *teletransporte interplanario* como conjuro innato primigenio. Puedes lanzarlo dos veces por semana. Esto se puede utilizar tan solo para ir y venir entre el Primer Mundo y el Universo. Debido a la resonancia natural de tu cuerpo, puedes actuar como epicentro del conjuro y no necesitas una llave planaria especialmente sintonizada.
+**Beneficio:** Obtienes *teletransporte interplanar* como conjuro innato primigenio. Puedes lanzarlo dos veces por semana. Esto se puede utilizar tan solo para ir y venir entre el Primer Mundo y el Universo. Debido a la resonancia natural de tu cuerpo, puedes actuar como epicentro del conjuro y no necesitas una llave planaria especialmente sintonizada.

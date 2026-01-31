@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /habilidades/artesania/
+permalink: /habilidades/artesanía/
 title: Artesanía (Int)
 chapter: Habilidades
 category: habilidades
@@ -48,7 +48,7 @@ Puedes elaborar un objeto a partir de materias primas. Necesitas la dote de habi
 
 Para Elaborar un objeto debes cumplir los siguientes requisitos:
 
-- El objeto es de tu nivel o inferior. Un objeto en el que no se indica nivel es de nivel 0. Si el objeto es de 9.o nivel o superior, tienes que disponer del rango maestro en Artesania, y si es de nivel 17.o o superior, tienes que disponer del rango legendario.
+- El objeto es de tu nivel o inferior. Un objeto en el que no se indica nivel es de nivel 0. Si el objeto es de 9.o nivel o superior, tienes que disponer del rango maestro en Artesanía, y si es de nivel 17.o o superior, tienes que disponer del rango legendario.
 - El objeto tiene que ser común, o de lo contrario has de tener acceso al mismo.
 - Dispones de las herramientas apropiadas y, en muchos casos, de un taller. Por ejemplo, necesitas acceso a una herrería para forjar un escudo de metal, o a un laboratorio de alquimista para elaborar sustancias alquímicas.
 - Tienes que proveer materia prima por valor de por lo menos la mitad del precio del objeto. Siempre gastas por lo menos dicha cantidad de materia prima cuando Elaboras algo con éxito. Si estás en un asentamiento, por lo general puedes gastar dinero para obtener la cantidad necesaria de materia prima, excepto en el caso de materiales preciosos y raros.

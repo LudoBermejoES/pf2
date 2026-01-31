@@ -32,7 +32,7 @@ Tus manos callosas y tus ojos rojos relatan una vida pasada en la profunda oscur
 
 Fuiste expuesto a poderosas energias nigrománticas que deberían haberte matado... pero sobreviviste. Tu piel es fria, humeda y gris.
 
-**Beneficio:** Obtienes tanta resistencia al dano por vacio como la mitad de tu nivel (minimo 1). Obtienes tambien un bonificador +1 por circunstancia a las tiradas de salvacion contra los efectos con los rasgos muerte o vacio.
+**Beneficio:** Obtienes tanta resistencia al dano por vacío como la mitad de tu nivel (minimo 1). Obtienes tambien un bonificador +1 por circunstancia a las tiradas de salvacion contra los efectos con los rasgos muerte o vacío.
 
 ---
 
@@ -40,7 +40,7 @@ Fuiste expuesto a poderosas energias nigrománticas que deberían haberte matado
 
 Procedes de las tierras baldias azotadas por el sol, donde tus largas piernas y tu capacidad de resistir a los elementos te han ayudado a prosperar.
 
-**Beneficio:** Puedes Aligerar el doble de tiempo mientras exploras antes de tenerte que detener, y tratas los efectos del calor ambiental como si fueran un grado menos extremos (un calor increible se convierte en extremo, un calor extremo se convierte en severo y asi sucesivamente).
+**Beneficio:** Puedes Aligerar el doble de tiempo mientras exploras antes de tenerte que detener, y tratas los efectos del calor ambiental como si fueran un grado menos extremos (un calor increible se convierte en extremo, un calor extremo se convierte en severo y así sucesivamente).
 
 ---
 
@@ -48,7 +48,7 @@ Procedes de las tierras baldias azotadas por el sol, donde tus largas piernas y 
 
 Tus antepasados sobrevivieron en climas frios.
 
-**Beneficio:** Obtienes el rango entrenado en Supervivencia y tratas los efectos del frio ambiental como si fueran un grado menos extremos (un frio increible se convierte en extremo, un frio extremo se convierte en severo y asi sucesivamente).
+**Beneficio:** Obtienes el rango entrenado en Supervivencia y tratas los efectos del frio ambiental como si fueran un grado menos extremos (un frio increible se convierte en extremo, un frio extremo se convierte en severo y así sucesivamente).
 
 ---
 
@@ -56,7 +56,7 @@ Tus antepasados sobrevivieron en climas frios.
 
 Desciendes una linea de terroríficos caudillos guerreros.
 
-**Beneficio:** Obtienes el rango entrenado en Intimidacion y la dote de habilidad Mirada intimidante.
+**Beneficio:** Obtienes el rango entrenado en Intimidación y la dote de habilidad Mirada intimidante.
 
 ---
 

@@ -60,7 +60,7 @@ Algunos estados prevalecen sobre otros. Esto se especifica siempre en la entrada
 
 ## Acelerado
 
-Eres capaz de moverte con mas rapidez. Obtienes 1 acción adicional al inicio de tu turno en cada asalto. Muchos efectos que te aceleran requieren que uses la acción adicional solo de ciertas formas. Si te aceleras debido a multiples origenes, puedes utilizar la acción adicional concedida para cualquier acción individual concedida por cualquiera de los efectos que te han acelerado. Como quiera que acelerado tiene efecto al inicio de tu turno, no obtienes acciones de inmediato si te aceleran durante tu turno.
+Eres capaz de moverte con mas rapidez. Obtienes 1 acción adicional al inicio de tu turno en cada asalto. Muchos efectos que te aceleran requieren que uses la acción adicional solo de ciertas formas. Si te aceleras debido a multiples orígenes, puedes utilizar la acción adicional concedida para cualquier acción individual concedida por cualquiera de los efectos que te han acelerado. Como quiera que acelerado tiene efecto al inicio de tu turno, no obtienes acciones de inmediato si te aceleran durante tu turno.
 
 ## Agarrado
 
@@ -86,11 +86,11 @@ Aturdido prevalece sobre lentificado. Si la duración de tu estado aturdido se a
 
 ## Cegado
 
-No puedes ver. Todo el terreno normal es terreno dificil para ti. No puedes detectar nada utilizando la vista. Fallas automaticamente de forma critica las pruebas de Percepción que requieren ser capaz de ver y, si la vista es tu unico sentido preciso, sufres un penalizador -4 por estatus a las pruebas de Percepción. Eres inmune a los efectos visuales. Cegado prevalece sobre deslumbrado.
+No puedes ver. Todo el terreno normal es terreno difícil para ti. No puedes detectar nada utilizando la vista. Fallas automaticamente de forma critica las pruebas de Percepción que requieren ser capaz de ver y, si la vista es tu unico sentido preciso, sufres un penalizador -4 por estatus a las pruebas de Percepción. Eres inmune a los efectos visuales. Cegado prevalece sobre deslumbrado.
 
 ## Condenado
 
-Tu alma ha sido aferrada por una poderosa fuerza que te lleva a las puertas de la muerte. Condenado siempre incluye un valor. El valor de moribundo al que mueres se reduce en la misma cantidad que tu valor de condenado. Si tu valor de moribundo maximo queda reducido a 0, mueres al instante. Cuando mueres, dejas de estar condenado.
+Tu alma ha sido aferrada por una poderosa fuerza que te lleva a las puertas de la muerte. Condenado siempre incluye un valor. El valor de moribundo al que mueres se reduce en la misma cantidad que tu valor de condenado. Si tu valor de moribundo máximo queda reducido a 0, mueres al instante. Cuando mueres, dejas de estar condenado.
 
 Tu valor de condenado disminuye en 1 cada vez que obtienes una noche completa de descanso.
 
@@ -104,11 +104,11 @@ Cada vez que sufres dano de un ataque o conjuro, puedes hacer una prueba plana C
 
 ## Controlado
 
-Te han dado una orden, te han dominado magicamente o por lo demas han subvertido tu voluntad. Tu controlador dicta como actuas y puede hacer que uses cualquiera de sus acciones, incluyendo ataques, reacciones o incluso Retrasar. Por lo general, el controlador no tiene que gastar acciones propias cuando te controla.
+Te han dado una orden, te han dominado magicamente o por lo demás han subvertido tu voluntad. Tu controlador dicta como actuas y puede hacer que uses cualquiera de sus acciones, incluyendo ataques, reacciones o incluso Retrasar. Por lo general, el controlador no tiene que gastar acciones propias cuando te controla.
 
 ## Dano persistente
 
-Estas sufriendo dano de un efecto continuado, como por ejemplo estar ardiendo. Esto aparece como «X dano persistente [tipo]», donde «X» es la cantidad de dano infligido y «[tipo]» es el tipo de dano. Como el dano normal, se puede doblar o reducir a la mitad basandose en los resultados de una tirada de ataque o tirada de salvación. En lugar de sufrir el dano persistente de inmediato, lo sufres al final de cada uno de tus turnos si tienes el estado, tirando de nuevo cualquier dado de dano cada vez. Después de sufrir dano persistente, haz una prueba plana CD 15 para ver si te recuperas del mismo. Si tienes éxito, el estado se acaba.
+Estas sufriendo dano de un efecto continuado, como por ejemplo estar ardiendo. Esto aparece como «X dano persistente [tipo]», donde «X» es la cantidad de dano infligido y «[tipo]» es el tipo de dano. Como el dano normal, se puede doblar o reducir a la mitad basándose en los resultados de una tirada de ataque o tirada de salvación. En lugar de sufrir el dano persistente de inmediato, lo sufres al final de cada uno de tus turnos si tienes el estado, tirando de nuevo cualquier dado de dano cada vez. Después de sufrir dano persistente, haz una prueba plana CD 15 para ver si te recuperas del mismo. Si tienes éxito, el estado se acaba.
 
 > ### Recuperación asistida
 >
@@ -118,7 +118,7 @@ Estas sufriendo dano de un efecto continuado, como por ejemplo estar ardiendo. E
 >
 > - La acción para ayudar podría requerir una prueba de habilidad u otra tirada para determinar su efectividad.
 > - Reduciendo a 10 la CD de la prueba plana para un tipo particularmente apropiado de ayuda, como por ejemplo rociarte de agua para apagar las llamas.
-> - Acabando automaticamente con el estado debido al tipo de ayuda, como por ejemplo curación que te restablece a tu maximo de PG para acabar con el dano persistente por sangrado o sumergirte en un lago para acabar con el dano persistente por fuego.
+> - Acabando automaticamente con el estado debido al tipo de ayuda, como por ejemplo curación que te restablece a tu máximo de PG para acabar con el dano persistente por sangrado o sumergirte en un lago para acabar con el dano persistente por fuego.
 > - Alterando el numero de acciones requeridas para ayudarte si los medios que usa quien te ayuda son especialmente eficaces o notablemente ineficaces.
 
 > ### Reglas sobre dano persistente
@@ -149,7 +149,7 @@ Estas distraído o de alguna otra forma eres incapaz de centrar tu atención com
 
 ## Drenado
 
-Tu salud y tu vitalidad se han visto disminuidos al perder sangre, fuerza vital o alguna otra esencia. Drenado incluye siempre un valor. Sufres un penalizador por estatus igual a tu valor de drenado a las pruebas basadas en la Constitución, como por ejemplo las salvaciones de Fortaleza. Tambien pierdes tantos Puntos de Golpe como tu nivel (minimo 1) multiplicado por el valor de drenado, y tus Puntos de Golpe maximos se ven reducidos en la misma cantidad. Por ejemplo, si quedas drenado 3 y eres un personaje de 3.er nivel, pierdes 9 Puntos de Golpe y reduces en 9 tu maximo de PG. Perder dichos Puntos de Golpe no cuenta como sufrir dano.
+Tu salud y tu vitalidad se han visto disminuidos al perder sangre, fuerza vital o alguna otra esencia. Drenado incluye siempre un valor. Sufres un penalizador por estatus igual a tu valor de drenado a las pruebas basadas en la Constitución, como por ejemplo las salvaciones de Fortaleza. Tambien pierdes tantos Puntos de Golpe como tu nivel (minimo 1) multiplicado por el valor de drenado, y tus Puntos de Golpe maximos se ven reducidos en la misma cantidad. Por ejemplo, si quedas drenado 3 y eres un personaje de 3.er nivel, pierdes 9 Puntos de Golpe y reduces en 9 tu máximo de PG. Perder dichos Puntos de Golpe no cuenta como sufrir dano.
 
 Cada vez que obtienes una noche completa de descanso, tu valor de drenado disminuye en 1. Esto incrementa tus PG maximos, pero no recuperas de inmediato los Puntos de Golpe perdidos.
 

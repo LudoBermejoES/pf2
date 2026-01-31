@@ -74,7 +74,7 @@ Puedes lanzar mas conjuros cada dia. Incrementa los espacios de conjuro que obti
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros basico de brujo, rango maestro en la habilidad asociada con la tradicion de tu patron
+**Prerrequisitos:** Lanzamiento de conjuros basico de brujo, rango maestro en la habilidad asociada con la tradición de tu patron
 
 Obtienes los beneficios de lanzamiento de conjuros experto.
 
@@ -84,6 +84,6 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros experto de brujo, rango legendario en la habilidad asociada con la tradicion de tu patron
+**Prerrequisitos:** Lanzamiento de conjuros experto de brujo, rango legendario en la habilidad asociada con la tradición de tu patron
 
 Obtienes los beneficios de lanzamiento de conjuros maestro.

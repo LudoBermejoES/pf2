@@ -1,11 +1,11 @@
 ---
 layout: spell
-permalink: /conjuros/heroismo/
-title: Heroismo
+permalink: /conjuros/heroísmo/
+title: Heroísmo
 chapter: Conjuros
 spell_level: 3
 ---
-## Heroismo ◆◆ [CONJURO 3]
+## Heroísmo ◆◆ [CONJURO 3]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
@@ -19,7 +19,7 @@ spell_level: 3
 
 ---
 
-Liberas el heroismo interior del objetivo, concediendole un bonificador +1 por estatus a las tiradas de ataque, pruebas de Percepcion, tiradas de salvacion y pruebas de habilidad.
+Liberas el heroísmo interior del objetivo, concediendole un bonificador +1 por estatus a las tiradas de ataque, pruebas de Percepción, tiradas de salvacion y pruebas de habilidad.
 
 **Potenciado (6.o)** El bonificador por estatus se incrementa a +2.
 

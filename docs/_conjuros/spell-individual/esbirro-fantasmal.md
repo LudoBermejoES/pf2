@@ -25,9 +25,9 @@ Convocas a un esbirro fantasmal. El esbirro tiene aproximadamente la forma de un
 
 **ESBIRRO FANTASMAL** CRIATURA -1
 
-MEDIANO FUERZA DESCEREBRADO
+MEDIANO FUERZA Descerebrado
 
-**Percepcion** +0; vision en la oscuridad
+**Percepción** +0; vision en la oscuridad
 
 **Idiomas** ninguno (entiende a su creador)
 
@@ -39,6 +39,6 @@ MEDIANO FUERZA DESCEREBRADO
 
 **CA** 13; **Fort** +0, **Ref** +4, **Vol** +0
 
-**PG** 4; **Inmunidades** ataques no magicos, enfermedad, espiritu, inconsciente, mental, paralisis, precision, veneno; **Resistencias** todo el dano 5 (excepto fuerza o toque fantasmal)
+**PG** 4; **Inmunidades** ataques no mágicos, enfermedad, espiritu, inconsciente, mental, paralisis, precision, veneno; **Resistencias** todo el dano 5 (excepto fuerza o toque fantasmal)
 
 **Velocidad** volar 30 pies (9 m)

@@ -18,7 +18,7 @@ class_name: Explorador
 | 4 | Dote de explorador, dote de habilidad |
 | 5 | Mejoras de atributo, dote de ascendencia, experiencia en armas de explorador, incremento de habilidad, viaje sin rastros |
 | 6 | Dote de explorador, dote de habilidad |
-| 7 | Dote general, reflejos naturales, incremento de habilidad, maestria con la Percepcion, especializacion en armas |
+| 7 | Dote general, reflejos naturales, incremento de habilidad, maestria con la Percepción, especialización en armas |
 | 8 | Dote de explorador, dote de habilidad |
 | 9 | Dote de ascendencia, filo de la Naturaleza, experiencia de explorador, incremento de habilidad |
 | 10 | Mejoras de atributo, dote de explorador, dote de habilidad |
@@ -26,7 +26,7 @@ class_name: Explorador
 | 12 | Dote de explorador, dote de habilidad |
 | 13 | Dote de ascendencia, incremento de habilidad, maestria con las armas marciales |
 | 14 | Dote de explorador, dote de habilidad |
-| 15 | Mejoras de atributo, dote general, reflejos naturales mayor, especializacion mayor en armas, leyenda de la Percepcion, incremento de habilidad |
+| 15 | Mejoras de atributo, dote general, reflejos naturales mayor, especialización mayor en armas, leyenda de la Percepción, incremento de habilidad |
 | 16 | Dote de explorador, dote de habilidad |
 | 17 | Dote de ascendencia, cazador maestro, incremento de habilidad |
 | 18 | Dote de explorador, dote de habilidad |
@@ -118,23 +118,23 @@ Obtienes todas las ventajas de tus armas. Tu rango de competencia para las armas
 
 ### Viaje sin Rastros (Nivel 5)
 
-Cuando atraviesas terrenos naturales, eres dificil de rastrear. Siempre obtienes los beneficios de la acción Cubrir huellas en dichos terrenos, sin tenerte que mover a la mitad de tu Velocidad.
+Cuando atraviesas terrenos naturales, eres difícil de rastrear. Siempre obtienes los beneficios de la acción Cubrir huellas en dichos terrenos, sin tenerte que mover a la mitad de tu Velocidad.
 
 ### Reflejos Naturales (Nivel 7)
 
 Has refinado tus reflejos esquivando arboles que crian y tormentas de granizo. Tu rango de competencia para las salvaciones de Reflejos se incrementa a maestro. Cuando sacas un éxito en una salvación de Reflejos, en su lugar obtienes un éxito critico.
 
-### Maestria con la Percepcion (Nivel 7)
+### Maestria con la Percepción (Nivel 7)
 
 Has desarrollado una Percepción aguda y una gran atención al detalle. Tu rango de competencia para Percepción se incrementa a maestro.
 
-### Especializacion en Armas (Nivel 7)
+### Especialización en Armas (Nivel 7)
 
 Infliges mayores heridas con las armas que conoces mejor. Infliges 2 dano adicional con las armas y los ataques sin arma en los que tienes el rango experto. Este dano se incrementa a 3 si dispones del rango maestro y a 4 si dispones del legendario.
 
 ### Ventaja de la Naturaleza (Nivel 9)
 
-Siempre encuentras los puntos debiles de las defensas de tus enemigos cuando estan en terreno desfavorable. Tus enemigos estan desprevenidos ante ti si estan en terreno dificil.
+Siempre encuentras los puntos debiles de las defensas de tus enemigos cuando estan en terreno desfavorable. Tus enemigos estan desprevenidos ante ti si estan en terreno difícil.
 
 ### Experiencia de Explorador (Nivel 9)
 
@@ -150,7 +150,7 @@ Has aprendido a defenderte mejor contra los ataques. Tus rangos de competencia p
 
 ### Viaje sin Trabas (Nivel 11)
 
-Atraviesas rapidamente los obstáculos, ya se trate de piedras amontonadas o de sotobosque espeso. Puedes ignorar los efectos del terreno dificil. Como es habitual para ignorar el terreno dificil, esto te permite tratar los obstáculos del terreno dificil mayor como si fuera terreno dificil a secas.
+Atraviesas rapidamente los obstáculos, ya se trate de piedras amontonadas o de sotobosque espeso. Puedes ignorar los efectos del terreno difícil. Como es habitual para ignorar el terreno difícil, esto te permite tratar los obstáculos del terreno difícil mayor como si fuera terreno difícil a secas.
 
 ### Maestria con las Armas Marciales (Nivel 13)
 
@@ -160,11 +160,11 @@ Entiendes por completo las complejidades de las armas. Tu rango de competencia p
 
 Evitas las explosiones con unos reflejos que serian la envidia de un gato. Tu rango de competencia para las salvaciones de Reflejos se incrementa a legendario. Cuando sufres un fallo critico en una salvación de Reflejos, en su lugar sufres un fallo simple. Cuando fallas una salvación de Reflejos contra un efecto que inflige dano, reduces a la mitad el dano sufrido.
 
-### Especializacion Mayor en Armas (Nivel 15)
+### Especialización Mayor en Armas (Nivel 15)
 
 Tu dano procedente de la especialización en armas se incrementa a 4 con las armas y los ataques sin arma en los que tienes el rango experto, 6 si tienes el rango maestro y 8 si tienes el rango legendario.
 
-### Leyenda de la Percepcion (Nivel 15)
+### Leyenda de la Percepción (Nivel 15)
 
 Percibes aquello que es prácticamente imperceptible. Tu rango de competencia para la Percepción se incrementa a legendario.
 
@@ -182,7 +182,7 @@ Si tienes competencia a rango maestro en Percepción, obtienes un bonificados +4
 
 **Rafaga:** Puedes mezclar tu maestria con las armas y una punteria habil para llevar a cabo una serie de ataques precisos. Si tienes competencia a rango maestro con tu arma, tu penalizador por ataque multiple para los ataques contra tu presa perseguida es -2 (-1 con un arma agil) en tu segundo ataque del turno, y -4 (-2 con un arma agil) en tu tercer ataque del turno y ataques siguientes.
 
-**Ser mas listo:** Tu dominio de las habilidades te permite abrumar a tu presa. Si tienes competencia a rango maestro en Engano, Intimidacion, Sigilo o la habilidad que utilizas para Recordar conocimiento acerca de tu presa, incrementa de +2 a +4 el bonificador por circunstancia contra la misma con dicha habilidad. Si tienes competencia a rango maestro con tu armadura, incrementa de +1 a +2 el bonificador por circunstancia a la CA contra dicha presa.
+**Ser mas listo:** Tu dominio de las habilidades te permite abrumar a tu presa. Si tienes competencia a rango maestro en Engano, Intimidación, Sigilo o la habilidad que utilizas para Recordar conocimiento acerca de tu presa, incrementa de +2 a +4 el bonificador por circunstancia contra la misma con dicha habilidad. Si tienes competencia a rango maestro con tu armadura, incrementa de +1 a +2 el bonificador por circunstancia a la CA contra dicha presa.
 
 ### Maestria en Armadura Intermedia (Nivel 19)
 
@@ -220,7 +220,7 @@ Las acciones con este rasgo son técnicas especiales que requieren demasiado esf
 
 Compartiendo un poderoso vinculo, tu querido animal y tu explorais las tierras virgenes y luchais en tandem.
 
-**Atributos:** Prioriza la Destreza, seguida por la Constitucion y la Sabiduria. Sube Fuerza si quieres infligir mas dano.
+**Atributos:** Prioriza la Destreza, seguida por la Constitución y la Sabiduría. Sube Fuerza si quieres infligir mas dano.
 
 **Habilidades:** Acrobacias, Atletismo, Medicina, Naturaleza, Sigilo, Supervivencia
 

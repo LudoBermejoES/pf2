@@ -1,11 +1,11 @@
 ---
 layout: spell
-permalink: /conjuros/teletransporte-interplanario/
-title: Teletransporte Interplanario
+permalink: /conjuros/teletransporte-interplanar/
+title: Teletransporte Interplanar
 chapter: Conjuros
 spell_level: 7
 ---
-## Teletransporte Interplanario [CONJURO 7]
+## Teletransporte Interplanar [CONJURO 7]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 10 minutos; **Requisitos:** Tienes una llave planaria para el Plano de destino, utilizada como locus

@@ -45,13 +45,13 @@ PC = poco comun.
 - **[Curar](/conjuros/curar/) P** Haces que la energia vital cure a los vivos o dane a los muertos vivientes, o bien a una sola criatura, o a todas en una explosion.
 - **[Desvanecer rastros](/conjuros/desvanecer-rastros/) P** Oscureces tus rastros.
 - **[Detectar venenoP, PC](/conjuros/detectar-venenop,-pc/) ** Determinas si un objeto o criatura es venenoso o esta envenenado.
-- **[Empujon hidraulico](/conjuros/empujon-hidraulico/) P** Danas y empujas a una criatura con una explosion de agua.
+- **[Empujón hidraulico](/conjuros/empujón-hidraulico/) P** Danas y empujas a una criatura con una explosion de agua.
 - **[Escombros apaleadores](/conjuros/escombros-apaleadores/) P** Lanzas un cono de rocas para apalear criaturas.
 - **[Forma de peste](/conjuros/forma-de-peste/) P** Te conviertes en un animal no amenazador.
 - **[Grasa](/conjuros/grasa/) ** Recubres un objetivo o un area con grasa resbaladiza.
 - **[Hechizar](/conjuros/hechizar/) P** Haces que una criatura se vuelva mas amistosa hacia ti.
 - **[Limpiar cocinados](/conjuros/limpiar-cocinados/) ** Haces que la comida y la bebida sean seguros y deliciosos.
-- **[Miedo](/conjuros/miedo/) P** Asustas a una criatura, obligandola posiblemente a huir.
+- **[Miedo](/conjuros/miedo/) P** Asustas a una criatura, obligándola posiblemente a huir.
 - **[Pies agiles](/conjuros/pies-agiles/) ** Haces que tu Velocidad aumente mucho.
 - **[Rafaga de viento](/conjuros/rafaga-de-viento/) ** Haces que el viento apague fuegos y derribe objetos y criaturas.
 - **[Rayo](/conjuros/rayo/) P** Haces caer un rayo.
@@ -113,7 +113,7 @@ PC = poco comun.
 - **[Luz sagrada](/conjuros/luz-sagrada/) P** Haces que un rayo de luz ardiente inflija dano adicional a los infernales y a otras criaturas sacrílegas.
 - **[Monos locos](/conjuros/monos-locos/) ** Convocas a unos espíritus mágicos de mono para que hagan travesuras.
 - **[Muro de espinos](/conjuros/muro-de-espinos/) P** Haces crecer un muro de zarzas.
-- **[Muro de viento](/conjuros/muro-de-viento/) ** Creas un muro de viento racheado que obstaculiza el movimiento y los ataques a distancia.
+- **[Muro de viento](/conjuros/muro-de-viento/) ** Creas un muro de viento achasado que obstaculiza el movimiento y los ataques a distancia.
 - **[Orbe acuoso](/conjuros/orbe-acuoso/) ** Haces rodar una bola de agua para apagar incendios y englobar criaturas.
 - **[Pasaje seguro](/conjuros/pasaje-seguro/) P** Haces que una area sea segura de atravesar.
 - **[Pies a aletas](/conjuros/pies-a-aletas/) P** Conviertes los pies de una criatura en aletas, lo que le permite nadar pero le lentifica en tierra firme.
@@ -135,7 +135,7 @@ PC = poco comun.
 - **[Muro de fuego](/conjuros/muro-de-fuego/) P** Creas un muro ardiente que quema a las criaturas que lo atraviesan.
 - **[Resiliencia de la montana](/conjuros/resiliencia-de-la-montana/) P** Endureces a una criatura para que resista ataques físicos.
 - **[Tormenta de armas](/conjuros/tormenta-de-armas/) P** Multiplicas un arma que estas empuñando y atacas con ellas a multiples criaturas.
-- **[Torrente hidraulico](/conjuros/torrente-hidraulico/) P** Obligas a retroceder a las criaturas mediante una linea danina de agua.
+- **[Torrente hidraulico](/conjuros/torrente-hidraulico/) P** Obligas a retroceder a las criaturas mediante una linea dañina de agua.
 - **[Volar](/conjuros/volar/) P** Concedes a un objetivo una Velocidad de vuelo.
 
 ## Conjuros de 5.o rango
@@ -148,7 +148,7 @@ PC = poco comun.
 - **[Forma de planta](/conjuros/forma-de-planta/) P** Te conviertes en una criatura peligrosa del tipo planta.
 - **[Hablar con las piedras](/conjuros/hablar-con-las-piedras/) P** Te comunicas con la piedra natural y la trabajada.
 - **[Locura lunar](/conjuros/locura-lunar/) P** Concedes colmillos y garras a criaturas voluntarias y provocas en ellas un frenesi.
-- **[Maldicion del marinero](/conjuros/maldicion-del-marinero/) ** Infectas a una criatura con la maldición del mar ondulante.
+- **[Maldición del marinero](/conjuros/maldición-del-marinero/) ** Infectas a una criatura con la maldición del mar ondulante.
 - **[Muro de hielo](/conjuros/muro-de-hielo/) P** Esculpes un muro de hielo de un pie (30 cm) de grueso que bloquea la vision y puede congelar a las criaturas.
 - **[Muro de piedra](/conjuros/muro-de-piedra/) P** Das forma a un muro de piedra.
 - **[Nube toxica](/conjuros/nube-toxica/) P** Una nube de niebla venenosa se aleja rodando de ti.
@@ -183,7 +183,7 @@ PC = poco comun.
 
 ## Conjuros de 8.o rango
 
-- **[Desecar](/conjuros/desecar/) P** Extraes la humedad de las criaturas, danandolas.
+- **[Desecar](/conjuros/desecar/) P** Extraes la humedad de las criaturas, dañándolas.
 - **[Forma de monstruosidad](/conjuros/forma-de-monstruosidad/) ** Te conviertes en un monstruo poderoso.
 - **[Grieta artica](/conjuros/grieta-artica/) P** Haces que un frio tremendo dane y congele a una criatura.
 - **[Migracion](/conjuros/migracion/) ** Conviertes a las criaturas en animales de movimiento rapido.
@@ -195,7 +195,7 @@ PC = poco comun.
 
 - **[Caida de estrellas](/conjuros/caida-de-estrellas/) P** Llamas a cuatro fragmentos celestes para que, en su caida, inflijan dano contundente y elemental.
 - **[Detonar magia](/conjuros/detonar-magia/) P** Haces que un conjuro u objeto explote.
-- **[Implosion](/conjuros/implosion/) P** Haces que una criatura colapse sobre si misma.
+- **[Implosion](/conjuros/implosion/) P** Haces que una criatura colapso sobre si misma.
 - **[Masacre](/conjuros/masacre/) P** Matas instantaneamente a multiples criaturas.
 - **[Metamorfosis](/conjuros/metamorfosis/) ** Cambias de forma fluida entre diferentes formas.
 - **[Tormenta iracunda](/conjuros/tormenta-iracunda/) P** Creas y controlas una enorme tormenta.

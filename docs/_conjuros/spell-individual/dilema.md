@@ -20,7 +20,7 @@ spell_level: 8
 
 ---
 
-Transportas al objetivo a una habitacion rompecabezas extraplanaria de origen misterioso, encerrandola alli. Una vez por turno como una sola accion, el objetivo puede hacer una prueba de Ocultismo, Percepcion o Latrocinio contra tu CD de conjuros para resolver el rompecabezas. Los efectos de teletransporte no pueden transportar al objetivo al exterior de la habitacion rompecabezas a menos que tambien puedan atravesar los Planos, como por ejemplo teletransporte interplanario. Cuando acaba el conjuro, el objetivo vuelve al espacio que ocupaba cuando fue desterrado, o al mas cercano si el original esta ahora ocupado.
+Transportas al objetivo a una habitación rompecabezas extraplanaria de origen misterioso, encerrándola allí. Una vez por turno como una sola accion, el objetivo puede hacer una prueba de Ocultismo, Percepción o Latrocinio contra tu CD de conjuros para resolver el rompecabezas. Los efectos de teletransporte no pueden transportar al objetivo al exterior de la habitación rompecabezas a menos que tambien puedan atravesar los Planos, como por ejemplo teletransporte interplanar. Cuando acaba el conjuro, el objetivo vuelve al espacio que ocupaba cuando fue desterrado, o al mas cercano si el original esta ahora ocupado.
 
 **Exito critico** El objetivo resuelve el rompecabezas y huye.
 

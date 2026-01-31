@@ -18,7 +18,7 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 
 **Nivel 1** | **Rasgos:** Emocion, Mental, Miedo, Picaro, Visual
 
-**Prerrequisitos:** Rango entrenado en Intimidacion
+**Prerrequisitos:** Rango entrenado en Intimidación
 
 **Desencadenante:** Reduces a 0 Puntos de Golpe a un enemigo.
 
@@ -32,7 +32,7 @@ Tras abatir a un enemigo, amenazas a otro. Haz una prueba para Desmoralizar a un
 
 Tienes un sentido intuitivo que te alerta de los peligros y de la presencia de trampas. Obtienes un bonificados +1 por circunstancia a las pruebas de Percepción para encontrar trampas, a la CA contra los ataques de las trampas y a las salvaciones contra trampas.
 
-Incluso si no estas Buscando, tienes derecho a una prueba para encontrar trampas que normalmente requerirán que estuvieras Buscando. Aun asi, tienes que cumplir los demas requisitos para encontrar la trampa.
+Incluso si no estas Buscando, tienes derecho a una prueba para encontrar trampas que normalmente requerirán que estuvieras Buscando. Aun así, tienes que cumplir los demás requisitos para encontrar la trampa.
 
 Puedes inutilizar trampas que requieren un rango de competencia maestro en Latrocinio. Si lo tienes, en su lugar puedes utilizar trampas que requieren un rango de competencia legendario y tus bonificadores por circunstancia contra las trampas se incrementan a +2.
 
@@ -67,7 +67,7 @@ Incitas a un enemigo a que se estire demasiado. Si haces una Finta con éxito, p
 
 **Nivel 1** | **Rasgos:** Picaro
 
-**Requisitos:** Empunas dos armas cuerpo a cuerpo, cada una en una mano diferente.
+**Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
 Utilizas un ataque con una arma para distraer a tu enemigo de un segundo ataque que le llega de un angulo diferente. Da un Golpe con cada una de tus armas cuerpo a cuerpo, ambos contra el mismo objetivo. El objetivo queda automaticamente desprevenido contra el segundo ataque. Aplica tu penalizador por ataque multiple a los Golpes de la forma habitual.
 
@@ -183,19 +183,19 @@ Haces un ataque rapido y robas a tu enemigo en el proceso. Da un Golpe cuerpo a 
 
 **Nivel 4** | **Rasgos:** Picaro
 
-**Desencadenante:** Estas a punto de hacer una prueba de Percepcion o de Supervivencia para calcular la iniciativa.
+**Desencadenante:** Estas a punto de hacer una prueba de Percepción o de Supervivencia para calcular la iniciativa.
 
 Previenes visual o auditivamente a tus aliados del peligro, concediendo a cada uno de ellos un bonificados +1 por circunstancia a sus tiradas de iniciativa. Dependiendo de si utilizas gestos o la voz, esta acción obtiene, o bien el rasgo visual, o bien el auditivo, respectivamente.
 
 ---
 
-### Distraccion Gemela
+### Distracción Gemela
 
 **Nivel 4** | **Rasgos:** Picaro
 
 **Prerrequisitos:** Finta gemela
 
-**Requisitos:** Empunas dos armas cuerpo a cuerpo, cada una en una mano diferente.
+**Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
 Tus movimientos con dos armas son tan rápidos y desorientadores que confunden a tu oponente. Cuando utilizas Finta gemela, si tus dos Golpes infligen dano a una criatura designada como objetivo, dicha criatura debe tener éxito en una salvación de Voluntad contra tu CD de clase o quedar anonadada 1 hasta el final de tu siguiente turno.
 
@@ -205,7 +205,7 @@ Tus movimientos con dos armas son tan rápidos y desorientadores que confunden a
 
 **Nivel 4** | **Rasgos:** Manipular, Picaro
 
-**Requisitos:** Estas empunando una arma.
+**Requisitos:** Estas empuñando una arma.
 
 Aplicas veneno de contacto o de herida al arma requerida; si tienes una mano libre, puedes Interactuar para sacar un veneno como parte de esta acción. Dicho veneno puede ser uno de los venenos simples de herida que puedes crear debido a esta dote (ver Especial), o bien cualquier otro veneno de contacto o de herida adquirido por ti.
 
@@ -251,7 +251,7 @@ Da un Golpe cuerpo a cuerpo sin armas contra un objetivo tumbado. Si aciertas, h
 
 **Nivel 4** | **Rasgos:** Picaro
 
-Observando a un oponente, puedes hacerte una idea de su proximo movimiento y prepararte para contrarrestarlo o resistirlo. Elige un objetivo y haz una prueba de Percepción para Averiguar intenciones contra la CD de Engano del objetivo o una CD dificil del nivel del enemigo, la mayor de ambas.
+Observando a un oponente, puedes hacerte una idea de su proximo movimiento y prepararte para contrarrestarlo o resistirlo. Elige un objetivo y haz una prueba de Percepción para Averiguar intenciones contra la CD de Engano del objetivo o una CD difícil del nivel del enemigo, la mayor de ambas.
 
 - **Exito critico:** Disciernes con precision la estrategia del objetivo, obteniendo un bonificados +2 por circunstancia a la CA contra la criatura hasta el inicio de tu siguiente turno y un bonificados +2 por circunstancia a tu siguiente tirada de salvación contra la criatura antes del inicio de tu siguiente turno.
 - **Exito:** Deduces lo mas importante de la estrategia del objetivo; como éxito critico, excepto que el bonificados por circunstancia es tan solo +1.
@@ -302,7 +302,7 @@ A 10.o nivel, el dano adicional se convierte en 3d6 y a 17.o nivel se convierte 
 
 **Nivel 6** | **Rasgos:** Emocion, Mental, Miedo, Picaro
 
-**Prerrequisitos:** Rango entrenado en Intimidacion
+**Prerrequisitos:** Rango entrenado en Intimidación
 
 Amenazas al objetivo, alimentando sus temores y atrayendo su atención. Haz una prueba de Intimidación contra la CD de Voluntad de un objetivo a 30 pies (9 m) o menos. Si tienes éxito, durante 1 minuto el objetivo obtiene un bonificados +2 por estatus a las pruebas de Percepción contra ti, pero sufre un penalizador -2 por estatus a las salvaciones de Voluntad contra efectos de miedo.
 
@@ -310,7 +310,7 @@ Amenazas al objetivo, alimentando sus temores y atrayendo su atención. Haz una 
 
 ### Anticipar Emboscada
 
-**Nivel 6** | **Rasgos:** Exploracion, Picaro
+**Nivel 6** | **Rasgos:** Exploración, Picaro
 
 **Prerrequisitos:** Rango experto en Sigilo
 
@@ -332,7 +332,7 @@ Puedes Desarmar a una criatura usando la mana en lugar de la fuerza bruta. Puede
 
 **Prerrequisitos:** Rango entrenado en Atletismo
 
-**Requisitos:** Tu ultima accion ha sido un Empujon con exito.
+**Requisitos:** Tu ultima accion ha sido un Empujón con exito.
 
 Haces palanca con tu peso para hacer caer a los enemigos a los que mueves. Tratas de Derribar al objetivo, incluso si ya no esta a tu alcance.
 
@@ -358,7 +358,7 @@ Cuando das un Golpe con una arma arrojadiza, solo sufres un penalizador -1 por c
 
 **Nivel 6** | **Rasgos:** Picaro
 
-No te preocupan los suelos irregulares. Cuando das una Zancada o un Paso, puedes ignorar el terreno dificil.
+No te preocupan los suelos irregulares. Cuando das una Zancada o un Paso, puedes ignorar el terreno difícil.
 
 ---
 
@@ -376,7 +376,7 @@ Tras apunalar a tu oponente en un punto debil, ahondas en la herida. Infliges ta
 
 **Nivel 6** | **Rasgos:** Picaro
 
-Tus aliados y tu hostigáis concertadamente a un oponente. Puedes flanquear a un enemigo si esta a la vez a tu alcance y al de un aliado; el aliado y tu no tenéis que estar en lados opuestos. Esto os beneficia a ti y a tus aliados, pero tan solo si flanquean contigo y no entre si. Tambien se han de cumplir los demas requisitos de flanqueo.
+Tus aliados y tu hostigáis concertadamente a un oponente. Puedes flanquear a un enemigo si esta a la vez a tu alcance y al de un aliado; el aliado y tu no tenéis que estar en lados opuestos. Esto os beneficia a ti y a tus aliados, pero tan solo si flanquean contigo y no entre si. Tambien se han de cumplir los demás requisitos de flanqueo.
 
 ---
 
@@ -394,7 +394,7 @@ De alguna forma consigues tener siempre el objeto adecuado para cada situación.
 
 **Nivel 8** | **Rasgos:** Picaro
 
-Apuntas cuidadosamente para evitar el ocultamiento y la cobertura de tu enemigo. En tu siguiente Golpe con una arma arrojadiza antes del final de tu turno, obtienes un bonificados +1 por circunstancia a tu tirada de ataque e ignoras el estado de oculto del mismo, asi como su cobertura menor o normal; si el objetivo tuviera cobertura mayor, en su lugar solo tendría cobertura normal contra el Golpe.
+Apuntas cuidadosamente para evitar el ocultamiento y la cobertura de tu enemigo. En tu siguiente Golpe con una arma arrojadiza antes del final de tu turno, obtienes un bonificados +1 por circunstancia a tu tirada de ataque e ignoras el estado de oculto del mismo, así como su cobertura menor o normal; si el objetivo tuviera cobertura mayor, en su lugar solo tendría cobertura normal contra el Golpe.
 
 ---
 
@@ -430,7 +430,7 @@ Durante tus preparativos diarios, puedes revisar tus estratagemas para las avent
 
 **Desencadenante:** Un aliado con el que has revisado estratagemas esta a punto de hacer una tirada de ataque o una prueba de habilidad.
 
-**Efecto:** El aliado tira dos veces los dados para la prueba desencadenante y utiliza el mejor de ambos resultados. Dicho aliado queda despues temporalmente inmune a tu Estratagema inspirada hasta tus siguientes preparativos diarios.
+**Efecto:** El aliado tira dos veces los dados para la prueba desencadenante y utiliza el mejor de ambos resultados. Dicho aliado queda después temporalmente inmune a tu Estratagema inspirada hasta tus siguientes preparativos diarios.
 
 ---
 
@@ -448,7 +448,7 @@ Cuando te escabulles, liderándote de la presa de un enemigo, te llevas contigo 
 
 **Nivel 8** | **Rasgos:** Picaro
 
-**Prerrequisitos:** Rango maestro en Percepcion.
+**Prerrequisitos:** Rango maestro en Percepción.
 
 Tus instintos de batalla te hacen mas consciente de los oponentes ocultos e invisibles. No necesitas tener éxito en una prueba plana para designar como objetivo a criaturas ocultas. No estas desprevenido ante criaturas escondidas de ti (a menos que lo estes debido a razones distintas a estar escondidas), y necesitas tan solo una prueba plana CD 5 para designar como objetivo a una criatura escondida.
 
@@ -476,9 +476,9 @@ Tus ataques infligen mas dano, incluso contra criaturas que no estan desprevenid
 
 ---
 
-### Posicion de Rebote ◆
+### Posición de Rebote ◆
 
-**Nivel 8** | **Rasgos:** Picaro, Posicion
+**Nivel 8** | **Rasgos:** Picaro, Posición
 
 Adoptas una posición que hace rebotar hacia ti tus armas arrojadizas. Mientras estas en ella, cualquier arma arrojadiza que utilizas como parte de un Golpe a distancia para infligir dano contundente o cortante vuelve a tu mano de inmediato, lo que te permite utilizarla para dar Golpes adicionales. Debes estar dentro del incremento de rango de distancia indicado para el arma y tener una mano libre para recogerla. Si das un Golpe a distancia con una arma arrojadiza fuera de su incremento de rango de distancia, en su lugar vuela de vuelta hacia ti tantos pies como su incremento de rango de distancia y después cae al suelo.
 
@@ -641,7 +641,7 @@ Tus ataques a distancia pueden derribar a un enemigo volador no preparado. Da un
 
 **Nivel 12** | **Rasgos:** Picaro
 
-**Prerrequisitos:** Posicion de rebote
+**Prerrequisitos:** Posición de rebote
 
 Mientras estas en Posición de rebote, puedes hacer rebotar contra un enemigo una arma arrojadiza para distraerlo. Puedes hacer una Finta contra una criatura dentro del primer incremento de rango de distancia del arma arrojadiza que estas empuñando, en lugar de tan solo criaturas a tu alcance cuerpo a cuerpo.
 
@@ -737,7 +737,7 @@ Cuando buscas enemigos, te fijas incluso en los indicios mas insignificantes. In
 
 ## Dotes de 16.o Nivel
 
-### Distraccion Perfecta ◆
+### Distracción Perfecta ◆
 
 **Nivel 16** | **Rasgos:** Picaro
 
@@ -775,7 +775,7 @@ Utilizando una habilidad acrobatica fantastica, puedes caminar durante breves pe
 
 **Prerrequisitos:** Rango legendario en Engano
 
-Tus enganos confunden incluso a la magia mas poderosa que podría espiarte. Los efectos de detección, revelación y escudriñamiento pasaran sobre ti, tus posesiones y tus auras sin detectar nada a menos que el efecto detector tenga un rango de contrarrestar de 10 o mas. Por ejemplo, detectar magia seguira detectando otra magia en la zona, pero ninguna sobre ti, vision verdadera no te revelara, localizar o escudriñar no te encontraran y asi sucesivamente.
+Tus enganos confunden incluso a la magia mas poderosa que podría espiarte. Los efectos de detección, revelación y escudriñamiento pasaran sobre ti, tus posesiones y tus auras sin detectar nada a menos que el efecto detector tenga un rango de contrarrestar de 10 o mas. Por ejemplo, detectar magia seguira detectando otra magia en la zona, pero ninguna sobre ti, vision verdadera no te revelara, localizar o escudriñar no te encontraran y así sucesivamente.
 
 ---
 
@@ -783,7 +783,7 @@ Tus enganos confunden incluso a la magia mas poderosa que podría espiarte. Los 
 
 **Nivel 16** | **Rasgos:** Concentrar, Picaro
 
-Inviertes 1 minuto examinando un lugar pequeno (como por ejemplo una sola habitación) para obtener una impresión de los sucesos que tuvieron lugar en ella el dia anterior. Esto implica moverse por el area y estudiar las huellas de pisadas, las bebidas o la sangre derramadas y asi sucesivamente. Obtienes una impresión mental indistinta de los sucesos significativos que tuvieron lugar allí.
+Inviertes 1 minuto examinando un lugar pequeno (como por ejemplo una sola habitación) para obtener una impresión de los sucesos que tuvieron lugar en ella el dia anterior. Esto implica moverse por el area y estudiar las huellas de pisadas, las bebidas o la sangre derramadas y así sucesivamente. Obtienes una impresión mental indistinta de los sucesos significativos que tuvieron lugar allí.
 
 Esto te proporciona pistas y detalles del pasado, incluyendo los sucesos en general y su marco temporal, pero no es una grabación perfecta. Tampoco basta para identificar quien estuvo implicado en dichos sucesos si no eras ya consciente de que determinada persona estaba allí. A determinar por el DJ, tambien Rennes unos cuantos detalles aparentemente menores que podrían ser pistas importantes, como por ejemplo una arma memorable que alguien utilizo para un asesinato o el tipo de manto que alguien llevaba al pasar por allí.
 
@@ -845,15 +845,15 @@ Has aprendido a explotar las aberturas de tus enemigos. Tu dano por ataque furti
 
 ## Dotes de 20.o Nivel
 
-### Distraccion Reactiva ↺
+### Distracción Reactiva ↺
 
 **Nivel 20** | **Rasgos:** Concentrar, Manipular, Picaro
 
-**Prerrequisitos:** Rango legendario en Engano, Distraccion perfecta.
+**Prerrequisitos:** Rango legendario en Engano, Distracción perfecta.
 
 **Desencadenante:** Sufririas un impacto debido a un ataque, serias objetivo de un efecto o bien estas en el interior del area de un efecto.
 
-**Requisitos:** Tienes Distraccion perfecta lista para utilizar.
+**Requisitos:** Tienes Distracción perfecta lista para utilizar.
 
 Te intercambias de forma reactiva con tu señuelo para frustrar a tu enemigo. Utilizas Distracción perfecta, incluso si estas siendo observado, a condición de acabar tu Movimiento furtivo, o bien oculto, o bien en un lugar que dispone de cobertura o de cobertura mayor. Tu señuelo es el objetivo del ataque o del efecto en lugar de ti. En caso de un efecto de area, si tu Movimiento furtivo no te saca de la misma, tanto el señuelo como tu sois objetivos del efecto.
 

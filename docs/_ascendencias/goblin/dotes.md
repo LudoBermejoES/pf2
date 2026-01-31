@@ -19,11 +19,11 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 El fuego te fascina.
 
-**Beneficio:** Tus conjuros y tus sustancias alquimicas que infligen dano por fuego obtienen un bonificador por estatus al dano igual a la mitad del rango de conjuro o una cuarta parte del nivel de objeto del material (bonificador minimo +1). Tambien obtienes un bonificador +1 por estatus a cualquier dano persistente por fuego que infliges.
+**Beneficio:** Tus conjuros y tus sustancias alquímicas que infligen dano por fuego obtienen un bonificador por estatus al dano igual a la mitad del rango de conjuro o una cuarta parte del nivel de objeto del material (bonificador minimo +1). Tambien obtienes un bonificador +1 por estatus a cualquier dano persistente por fuego que infliges.
 
 ---
 
-### Cancion goblin ◆
+### Canción goblin ◆
 **Dote 1** - Goblin
 
 Cantas molestas canciones goblin, distrayendo a tus enemigos con rimas tontas y repetitivas.
@@ -111,7 +111,7 @@ Tambien obtienes la dote general Saber adicional para Saber (goblins).
 
 Puedes fabricar herramientas utiles, incluso de los desechos mas retorcidos u oxidados.
 
-**Beneficio:** Cuando utilizas la habilidad Artesania para Fabricar, puedes hacer objetos de nivel 0 (incluyendo armas y armaduras) a partir de chatarra. Esto reduce el Precio a una cuarta parte de la cantidad usual, pero siempre resulta en un objeto chapucero. Los objetos chapuceros normalmente imponen un penalizador, pero tu no lo sufres si utilizas objetos chapuceros fabricados por ti mismo (y tampoco se te aplica el mayor penalizador debido a una armadura chapucera).
+**Beneficio:** Cuando utilizas la habilidad Artesanía para Fabricar, puedes hacer objetos de nivel 0 (incluyendo armas y armaduras) a partir de chatarra. Esto reduce el Precio a una cuarta parte de la cantidad usual, pero siempre resulta en un objeto chapucero. Los objetos chapuceros normalmente imponen un penalizador, pero tu no lo sufres si utilizas objetos chapuceros fabricados por ti mismo (y tampoco se te aplica el mayor penalizador debido a una armadura chapucera).
 
 Tambien puedes incorporar chatarra para ahorrar dinero cuando Fabricas algún objeto. Esto te concede un descuento en el objeto como si hubieras invertido 1 dia adicional trabajando para reducir el coste, pero es obvio que el objeto esta hecho a base de chatarra. A discreción del DJ, esto podría afectar el valor de reventa del objeto, dependiendo de los gustos del comprador.
 
@@ -122,11 +122,11 @@ Tambien puedes incorporar chatarra para ahorrar dinero cuando Fabricas algún ob
 ### Cantar a voces
 **Dote 5** - Goblin
 
-**Prerrequisitos:** Cancion goblin
+**Prerrequisitos:** Canción goblin
 
 Afinar, controlar la respiración adecuadamente y recordar la letra son cosas mucho menos importantes que la medida real de un buen cantante: el volumen!
 
-**Beneficio:** El rango de distancia de tu Cancion goblin se incrementa a 60 pies (18 m) y puedes designar como objetivo a un enemigo adicional cuando la usas.
+**Beneficio:** El rango de distancia de tu Canción goblin se incrementa a 60 pies (18 m) y puedes designar como objetivo a un enemigo adicional cuando la usas.
 
 ---
 
@@ -144,7 +144,7 @@ Este penalizador solo se aplica si el objetivo tiene Velocidad terrestre y depen
 ### Vandalo
 **Dote 5** - Goblin
 
-Eres habil rompiendo y desmantelando cosas. Volverlas a montar es la parte aburrida, asi que no te sueles preocupar mucho de ello.
+Eres habil rompiendo y desmantelando cosas. Volverlas a montar es la parte aburrida, así que no te sueles preocupar mucho de ello.
 
 **Beneficio:** Obtienes el rango entrenado en Latrocinio. Si ya dispones de el automaticamente (por ejemplo, debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu eleccion.
 
@@ -207,6 +207,6 @@ Después de anos de arrastrarte por cavernas, puedes trepar facilmente a cualqui
 
 A pesar de una vida llena de decisiones cuestionables, has conseguido sobrevivir, como si tuvieras una suerte increíble que te permite evitar las consecuencias de tus acciones.
 
-**Beneficio:** Durante el resto de tu turno, si obtienes un fallo o un fallo critico en una tirada de salvacion contra un efecto danino, en su lugar obtienes un exito. Ademas, si sufririas dano de un enemigo o peligro este turno, sufres el dano minimo posible.
+**Beneficio:** Durante el resto de tu turno, si obtienes un fallo o un fallo critico en una tirada de salvacion contra un efecto dañino, en su lugar obtienes un exito. Ademas, si sufririas dano de un enemigo o peligro este turno, sufres el dano minimo posible.
 
 Estos beneficios solo se aplican a los efectos dañinos sufridos por completo durante tu turno en el que activas Abandono temerario, como por ejemplo atravesar corriendo un muro de fuego. El dano persistente y los estados que se aplicaron antes a tu turno funcionan con normalidad, y en cuanto el turno acabe te veras sujeto a las consecuencias completas de cualquier peligro que aun te amenace.

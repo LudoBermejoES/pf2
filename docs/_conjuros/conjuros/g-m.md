@@ -25,7 +25,7 @@ Transformas temporalmente tu extremidad en un apendice provisto de garras. Haz u
 **Area:** explosion de 10 pies (3 m) centrada en una esquina de tu espacio
 **Duracion:** 10 minutos
 
-Creas un globo inmóvil a tu alrededor, que trata de contrarrestar cualquier conjuro del exterior del mismo cuya area u objetivos entren en el, como si el globo fuera un conjuro de disipar magia 1 rango inferior a su rango de conjuro real. Con un éxito, el globo solo evita la parte del conjuro que hubiera entrado en el mismo (asi que si el conjuro tambien tiene objetivos fuera del globo, o parte de su area de efecto esta mas alla del mismo, dichos objetivos o dicha area se ven afectados con normalidad). Tienes que formar la esfera en un espacio abierto ininterrumpido de forma que sus bordes no atraviesen criatura u objeto alguno, o el conjuro se pierde (aunque las criaturas pueden entrar en el globo una vez lanzado el conjuro).
+Creas un globo inmóvil a tu alrededor, que trata de contrarrestar cualquier conjuro del exterior del mismo cuya area u objetivos entren en el, como si el globo fuera un conjuro de disipar magia 1 rango inferior a su rango de conjuro real. Con un éxito, el globo solo evita la parte del conjuro que hubiera entrado en el mismo (así que si el conjuro tambien tiene objetivos fuera del globo, o parte de su area de efecto esta mas alla del mismo, dichos objetivos o dicha area se ven afectados con normalidad). Tienes que formar la esfera en un espacio abierto ininterrumpido de forma que sus bordes no atraviesen criatura u objeto alguno, o el conjuro se pierde (aunque las criaturas pueden entrar en el globo una vez lanzado el conjuro).
 
 ---
 
@@ -96,7 +96,7 @@ Cuando Lanzas el conjuro y cada vez que lo Mantienes, puedes hacer que el guardi
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duracion:** 1 hora
 
-El objetivo puede entender todas las palabras, sea cual sea el idioma y tambien habla los idiomas de las demas criaturas. Cuando se encuentra en un grupo mixto de criaturas, cada vez que el objetivo habla puede elegir a una criatura y hablar en un idioma que esta entiende, incluso si no sabe de que idioma se trata.
+El objetivo puede entender todas las palabras, sea cual sea el idioma y tambien habla los idiomas de las demás criaturas. Cuando se encuentra en un grupo mixto de criaturas, cada vez que el objetivo habla puede elegir a una criatura y hablar en un idioma que esta entiende, incluso si no sabe de que idioma se trata.
 
 **Potenciado (7.o)** La duracion es 8 horas.
 
@@ -107,7 +107,7 @@ El objetivo puede entender todas las palabras, sea cual sea el idioma y tambien 
 **Tradiciones:** divina, ocultista, primigenia
 **Duracion:** 1 hora
 
-Puedes formular preguntas a la piedra natural o trabajada y recibir respuestas de ella. Si bien la piedra no es inteligente, con quien hablas es con los espíritus naturales de la piedra, que tienen una personalidad coloreada por el tipo de piedra, asi como por el tipo de estructura de la que forma parte la misma, en el caso de la piedra trabajada. La perspectiva, la Percepción y el conocimiento de la piedra le conceden una vision del mundo lo bastante diferente de la de un humano como para considerar importantes los mismos detalles. Las piedras pueden responder sobre todo preguntas acerca de las criaturas que las han tocado en el pasado y de lo que hay oculto debajo o detrás de las mismas.
+Puedes formular preguntas a la piedra natural o trabajada y recibir respuestas de ella. Si bien la piedra no es inteligente, con quien hablas es con los espíritus naturales de la piedra, que tienen una personalidad coloreada por el tipo de piedra, así como por el tipo de estructura de la que forma parte la misma, en el caso de la piedra trabajada. La perspectiva, la Percepción y el conocimiento de la piedra le conceden una vision del mundo lo bastante diferente de la de un humano como para considerar importantes los mismos detalles. Las piedras pueden responder sobre todo preguntas acerca de las criaturas que las han tocado en el pasado y de lo que hay oculto debajo o detrás de las mismas.
 
 **Potenciado (6.o)** La duracion es 8 horas.
 
@@ -157,13 +157,13 @@ Puedes Disipar el conjuro. Si utilizas acciones hostiles contra el objetivo, el 
 
 ---
 
-## Heroismo ◆◆ [CONJURO 3]
+## Heroísmo ◆◆ [CONJURO 3]
 **Rasgos:** Concentrar, Manipular, Mental
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duracion:** 10 minutos
 
-Liberas el heroismo interior del objetivo, concediéndole un bonificados +1 por estatus a las tiradas de ataque, pruebas de Percepción, tiradas de salvación y pruebas de habilidad.
+Liberas el heroísmo interior del objetivo, concediéndole un bonificados +1 por estatus a las tiradas de ataque, pruebas de Percepción, tiradas de salvación y pruebas de habilidad.
 
 **Potenciado (6.o)** El bonificador por estatus se incrementa a +2.
 
@@ -217,7 +217,7 @@ Chasqueas los dedos y señales a un objetivo, que empieza a arder. Haz una tirad
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura corporal
 **Defensa:** Fortaleza basica; **Duracion:** mantenida hasta 1 minuto
 
-Aplastas al objetivo haciendo que se colapse sobre si mismo, infligiendo 75 dano. La primera vez de cada asalto en que Mantengas el conjuro, deberas elegir un nuevo objetivo para que se vea sujeto al mismo efecto; la misma criatura no puede ser designada como objetivo mas de una sola vez por un solo lanzamiento de este conjuro. Tampoco puedes afectar a mas de una criatura por turno con implosion. No puedes designar como objetivo a una criatura incorporea, gaseosa o liquida o que de alguna otra forma carece de forma solida.
+Aplastas al objetivo haciendo que se colapso sobre si mismo, infligiendo 75 dano. La primera vez de cada asalto en que Mantengas el conjuro, deberas elegir un nuevo objetivo para que se vea sujeto al mismo efecto; la misma criatura no puede ser designada como objetivo mas de una sola vez por un solo lanzamiento de este conjuro. Tampoco puedes afectar a mas de una criatura por turno con implosion. No puedes designar como objetivo a una criatura incorporea, gaseosa o liquida o que de alguna otra forma carece de forma solida.
 
 **Potenciado (+1)** El dano se incrementa en 10.
 
@@ -231,7 +231,7 @@ Aplastas al objetivo haciendo que se colapse sobre si mismo, infligiendo 75 dano
 
 Especificas un desencadenante y un mensaje de hasta 25 palabras de longitud. Cuando el desencadenante especificado tiene lugar a 30 pies (9 m) o menos del objetivo, un texto ilusorio de tu mensaje rodea al objetivo acompañado por una voz incorporea. Puedes elegir un idioma de los que conoces para el texto y la voz y puedes elegir como suena esta. Una vez completado el mensaje, el conjuro se acaba.
 
-**Potenciado (4.o)** Puedes anadir un componente sensorial sencillo para enfatizar el mensaje, como por ejemplo un olor, un efecto visual o una sensacion fisica. Esta adicion es obviamente ilusoria y parte del mensaje, y solo dura mientras el mensaje esta siendo leido.
+**Potenciado (4.o)** Puedes añadir un componente sensorial sencillo para enfatizar el mensaje, como por ejemplo un olor, un efecto visual o una sensacion fisica. Esta adicion es obviamente ilusoria y parte del mensaje, y solo dura mientras el mensaje esta siendo leido.
 
 **Potenciado (6.o)** Como en 4.o rango, pero puedes elegir cuantas veces se repite el mensaje antes de que se acabe el conjuro; no hay limite al numero de repeticiones.
 
@@ -242,7 +242,7 @@ Especificas un desencadenante y un mensaje de hasta 25 palabras de longitud. Cua
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** hasta el inicio de tu siguiente turno
 
-Cortas tus lazos entre causa y efecto. Mientras dura el conjuro, eres inmune a cualquier efecto o dano que te podría danar, excluyendo los causados por artefactos, poder de los dioses y origenes similarmente poderosos. Podras permitir de forma selectiva que te afecte cualquier cosa que estes dispuesto a que te afecte.
+Cortas tus lazos entre causa y efecto. Mientras dura el conjuro, eres inmune a cualquier efecto o dano que te podría danar, excluyendo los causados por artefactos, poder de los dioses y orígenes similarmente poderosos. Podras permitir de forma selectiva que te afecte cualquier cosa que estes dispuesto a que te afecte.
 
 ---
 
@@ -266,7 +266,7 @@ Potencias tus ataques con energia vital. El numero de objetivos es igual al nume
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
 **Defensa:** Reflejos
 
-Llamas divinas afectan a todas las criaturas en el interior del area. Dichas criaturas sufren 6d6 dano por fuego y 2d6 dano persistente por fuego. El poder divino de las llamas chamusca tambien el espíritu; una criatura sufre dano espiritual en lugar de dano por fuego de inmolación divina si resulta mas danino para la criatura (a determinar por el DJ).
+Llamas divinas afectan a todas las criaturas en el interior del area. Dichas criaturas sufren 6d6 dano por fuego y 2d6 dano persistente por fuego. El poder divino de las llamas chamusca tambien el espíritu; una criatura sufre dano espiritual en lugar de dano por fuego de inmolación divina si resulta mas dañino para la criatura (a determinar por el DJ).
 
 **Exito critico** La criatura no resulta afectada.
 
@@ -302,7 +302,7 @@ Unas ilusiones retuercen la luz alrededor del objetivo, haciendolo invisible. Es
 ---
 
 ## Invocar Espiritus ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Emocion, Manipular, Mental, Miedo, Vacio
+**Rasgos:** Concentrar, Emocion, Manipular, Mental, Miedo, Vacío
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
@@ -311,7 +311,7 @@ Unas apariciones desastradas de personas muertas se alzan para acechar a los viv
 
 En asaltos subsiguientes, la primera vez que Mantengas el conjuro cada asalto, podras mover el area hasta 30 pies (9 m) dentro del alcance del conjuro. Las criaturas vivas en la nueva area deberán hacer salvaciones con los mismos efectos arriba indicados, excepto que con un fallo critico no huirán.
 
-**Potenciado (+2)** El dano mental y el dano por vacio se incrementan en 1d4 cada uno.
+**Potenciado (+2)** El dano mental y el dano por vacío se incrementan en 1d4 cada uno.
 
 ---
 
@@ -341,9 +341,9 @@ Canalizas la furia de la divinidad contra tus enemigos. Infliges 4d10 dano espir
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** hasta 10 criaturas
 **Duracion:** 1 hora
 
-Liberas a quienes viajan junto a ti de los obstáculos del medio ambiente. Los objetivos no sufren penalizadores por circunstancia a su Velocidad debido a los escombros, a la vegetación, al viento u otras propiedades del entorno y pueden ignorar el terreno dificil debido a dichas propiedades medioambientales.
+Liberas a quienes viajan junto a ti de los obstáculos del medio ambiente. Los objetivos no sufren penalizadores por circunstancia a su Velocidad debido a los escombros, a la vegetación, al viento u otras propiedades del entorno y pueden ignorar el terreno difícil debido a dichas propiedades medioambientales.
 
-**Potenciado (9.o)** Los objetivos ignoran tambien el terreno dificil mayor debido a las propiedades medioambientales.
+**Potenciado (9.o)** Los objetivos ignoran tambien el terreno difícil mayor debido a las propiedades medioambientales.
 
 ---
 
@@ -360,7 +360,7 @@ Desatas un rayo de energia divina. Haz un ataque de conjuro a distancia contra l
 ---
 
 ## Leer Augurios [CONJURO 4]
-**Rasgos:** Poco comun, Concentrar, Manipular, Prediccion
+**Rasgos:** Poco comun, Concentrar, Manipular, Predicción
 **Tradiciones:** divina, ocultista
 **Lanzamiento:** 10 minutos
 
@@ -369,7 +369,7 @@ Atisbas en el futuro. Elige un objetivo o actividad particular que planeas empre
 ---
 
 ## Leer el Aura [TRUCO 1]
-**Rasgos:** Concentrar, Deteccion, Manipular, Truco
+**Rasgos:** Concentrar, Detección, Manipular, Truco
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 1 minuto
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 objeto
@@ -383,7 +383,7 @@ Te centras en el objeto objetivo, abriendo tu mente para percibir auras magicas.
 ---
 
 ## Leer la Mente ◆◆ [CONJURO 3]
-**Rasgos:** Poco comun, Concentrar, Deteccion, Manipular
+**Rasgos:** Poco comun, Concentrar, Detección, Manipular
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** 1 asalto o mantenido hasta 1 minuto
@@ -462,9 +462,9 @@ El caparazón proporciona cobertura y puede cruzar terreno solido sin afectarlo.
 
 **Exito** La criatura sufre mitad de dano.
 
-**Fallo** La criatura sufre dano completo, es empujada hasta 10 pies (3 m) en una direccion que tu eliges y finaliza su movimiento.
+**Fallo** La criatura sufre dano completo, es empujada hasta 10 pies (3 m) en una dirección que tu eliges y finaliza su movimiento.
 
-**Fallo critico** La criatura sufre doble dano, es empujada hasta 20 pies (6 m) en una direccion que tu eliges y finaliza su movimiento.
+**Fallo critico** La criatura sufre doble dano, es empujada hasta 20 pies (6 m) en una dirección que tu eliges y finaliza su movimiento.
 
 **Potenciado (+1)** El dano se incrementa en 1d8.
 
@@ -479,7 +479,7 @@ Una suave magia restablecedora hace retroceder los efectos de las toxinas y de l
 
 **Potenciado (3.o)** Contrarrestas la afliccion si es una enfermedad o un veneno.
 
-**Potenciado (4.o)** Contrarrestas la afliccion si es una maldicion, enfermedad o veneno.
+**Potenciado (4.o)** Contrarrestas la afliccion si es una maldición, enfermedad o veneno.
 
 ---
 
@@ -517,12 +517,12 @@ Haces que el objetivo sea mas facil de abrir. Llamar concede un bonificados +4 p
 ---
 
 ## Localizar [CONJURO 3]
-**Rasgos:** Poco comun, Concentrar, Deteccion, Manipular
+**Rasgos:** Poco comun, Concentrar, Detección, Manipular
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** 1 objetivo especifico o tipo de objeto
 **Duracion:** mantenido
 
-Averiguas la dirección hasta el objetivo (si has seleccionado un objeto especifico, como por ejemplo "la espada de mi madre") o el objetivo mas proximo (si has seleccionado un tipo de objeto, como por ejemplo "espadas"). Si el objetivo es un objeto especifico, tienes que haberlo observado directamente con tus propios sentidos. Si es un tipo de objeto, aun asi has de tener una imagen mental precisa del tipo de objeto. Si hay plomo o agua corriente entre el objetivo y tu, este conjuro no puede localizarlo. Esto significa que podrías encontrar un tipo de objeto mas lejos si el mas cercano se encuentra detrás de plomo o agua corriente.
+Averiguas la dirección hasta el objetivo (si has seleccionado un objeto especifico, como por ejemplo "la espada de mi madre") o el objetivo mas proximo (si has seleccionado un tipo de objeto, como por ejemplo "espadas"). Si el objetivo es un objeto especifico, tienes que haberlo observado directamente con tus propios sentidos. Si es un tipo de objeto, aun así has de tener una imagen mental precisa del tipo de objeto. Si hay plomo o agua corriente entre el objetivo y tu, este conjuro no puede localizarlo. Esto significa que podrías encontrar un tipo de objeto mas lejos si el mas cercano se encuentra detrás de plomo o agua corriente.
 
 ---
 
@@ -587,7 +587,7 @@ Si la luz atraviesa un area de oscuridad magica o designa como objetivo a una cr
 ---
 
 ## Mal Fario ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Desventura, Maldicion, Manipular
+**Rasgos:** Concentrar, Desventura, Maldición, Manipular
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duracion:** 1 asalto
@@ -602,8 +602,8 @@ El objetivo se ve aquejado por la desventura, que le deja desequilibrado. El obj
 
 ---
 
-## Maldicion del Marinero ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Maldicion, Manipular
+## Maldición del Marinero ◆◆ [CONJURO 5]
+**Rasgos:** Concentrar, Maldición, Manipular
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** Voluntad
@@ -612,16 +612,16 @@ Afliges al objetivo con la maldición del mar agitado e implacable. El objetivo 
 
 **Exito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda indispuesto 1. Reducir a 0 su estado de indispuesto acaba con la maldicion.
+**Exito** El objetivo queda indispuesto 1. Reducir a 0 su estado de indispuesto acaba con la maldición.
 
-**Fallo** El objetivo queda indispuesto 1 y no puede reducir por debajo de 1 su estado mientras la maldicion esta activa. La maldicion se puede eliminar mediante un limpiar afliccion de 4.o rango o magia similar. Si el objetivo esta indispuesto y en el mar, a por lo menos una milla (1,6 km) de la costa, queda tambien lentificado 1.
+**Fallo** El objetivo queda indispuesto 1 y no puede reducir por debajo de 1 su estado mientras la maldición esta activa. La maldición se puede eliminar mediante un limpiar afliccion de 4.o rango o magia similar. Si el objetivo esta indispuesto y en el mar, a por lo menos una milla (1,6 km) de la costa, queda tambien lentificado 1.
 
 **Fallo critico** Como en fallo, pero el objetivo queda indispuesto 2.
 
 ---
 
-## Maldicion del Paria ◆◆ [CONJURO 4]
-**Rasgos:** Concentrar, Desventura, Maldicion, Manipular, Mental
+## Maldición del Paria ◆◆ [CONJURO 4]
+**Rasgos:** Concentrar, Desventura, Maldición, Manipular, Mental
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** Voluntad
@@ -630,7 +630,7 @@ Afliges al objetivo con una maldición que hace que su presencia sea abrasiva y 
 
 **Exito critico** El objetivo no resulta afectado.
 
-**Exito** Durante 10 minutos, el objetivo debe tirar 2 veces y utilizar el peor de los resultados cuando hace una prueba de Engano, Diplomacia, Intimidacion o Interpretacion, y las criaturas con las que se encuentra tienen una actitud inicial hacia el un paso peor (por ejemplo, malintencionado en lugar de indiferente).
+**Exito** Durante 10 minutos, el objetivo debe tirar 2 veces y utilizar el peor de los resultados cuando hace una prueba de Engano, Diplomacia, Intimidación o Interpretacion, y las criaturas con las que se encuentra tienen una actitud inicial hacia el un paso peor (por ejemplo, malintencionado en lugar de indiferente).
 
 **Fallo** Igual que exito, pero el efecto es permanente.
 
@@ -672,7 +672,7 @@ Creas una mano magica flotante, o bien invisible, o bien fantasmal, que aferra a
 ---
 
 ## Masacre ◆◆ [CONJURO 9]
-**Rasgos:** Concentrar, Manipular, Muerte, Vacio
+**Rasgos:** Concentrar, Manipular, Muerte, Vacío
 **Tradiciones:** arcana, divina, primigenia
 **Area:** linea de 60 pies (18 m)
 **Defensa:** Fortaleza
@@ -681,9 +681,9 @@ Desatas una ola de muerte para apagar la fuerza vital de quienes estan en su cam
 
 **Exito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre 9d6 dano por vacio.
+**Exito** La criatura sufre 9d6 dano por vacío.
 
-**Fallo** La criatura sufre 100 dano por vacio.
+**Fallo** La criatura sufre 100 dano por vacío.
 
 **Fallo critico** La criatura muere.
 
@@ -717,7 +717,7 @@ Cuando cualquier criatura utiliza una acción hostil contra el objetivo, la cria
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Duracion:** ver mas abajo
 
-Pronuncias unas palabras en voz baja, pero en lugar de salir de tu boca son transferidas directamente a los oídos del objetivo. Mientras que los demas no pueden oir tus palabras al no haberlas pronunciado en voz alta, el objetivo puede oirlas como si estuviera de pie junto a ti. Si quiere, el objetivo puede dar una respuesta breve como reacción, o como acción gratuita en su siguiente turno, pero debe ser capaz de verte y estar dentro del alcance para hacerlo. Si responde, su respuesta se entrega directamente a tus oídos, igual que el mensaje original.
+Pronuncias unas palabras en voz baja, pero en lugar de salir de tu boca son transferidas directamente a los oídos del objetivo. Mientras que los demás no pueden oir tus palabras al no haberlas pronunciado en voz alta, el objetivo puede oirlas como si estuviera de pie junto a ti. Si quiere, el objetivo puede dar una respuesta breve como reacción, o como acción gratuita en su siguiente turno, pero debe ser capaz de verte y estar dentro del alcance para hacerlo. Si responde, su respuesta se entrega directamente a tus oídos, igual que el mensaje original.
 
 **Potenciado (3.o)** El alcance del conjuro se incrementa a 500 pies (150 m).
 
@@ -762,7 +762,7 @@ Puedes Mantener el conjuro para adoptar una nueva forma que aun no has usado dur
 ---
 
 ## Metamorfosis Maldita ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Incapacitacion, Maldicion, Manipular, Polimorfia
+**Rasgos:** Concentrar, Incapacitacion, Maldición, Manipular, Polimorfia
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duracion:** variable
@@ -851,7 +851,7 @@ Los objetivos experimentan un dia completo de recuperación en un instante. Cual
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
 **Duracion:** mantenido hasta 1 minuto
 
-Espíritus de mono mágicos llenan el area amontonandose y subiendose unos encima de otros. Como quiera que son espíritus mágicos, no pueden ser ni atacados ni danados. Un lanzamiento de calmar o un efecto similar sobre los monos hace que se vuelvan dociles.
+Espíritus de mono mágicos llenan el area amontonándose y subiéndose unos encima de otros. Como quiera que son espíritus mágicos, no pueden ser ni atacados ni danados. Un lanzamiento de calmar o un efecto similar sobre los monos hace que se vuelvan dociles.
 
 Elige el tipo de travesura que tus monos llevan a cabo cuando Lanzas el conjuro. Eso contiene como resultado el efecto indicado para dicha travesura cuando Lanzas el conjuro y la primera vez de cada asalto en que Mantienes el conjuro. La primera vez que Mantienes el conjuro cada asalto, puedes mover el area de los monos 5 pies (1,5 m).
 
@@ -895,7 +895,7 @@ Conjuras una criatura fantastica de tamaño Grande para que sirva de montura al 
 **Rango de distancia:** toque; **Objetivos:** 1 criatura tocada
 **Duracion:** 10 minutos
 
-Repeles los obstáculos que afectarían a una criatura. Mientras se encuentra bajo los efectos de este conjuro, el objetivo ignora aquellos que le impondrian un penalizador por circunstancia a la velocidad. Cuando trata de Huir de un efecto que le tiene agarrado, inmovilizado o neutralizado, tiene éxito de forma automatica si el efecto no es magico y de un rango mayor que el del conjuro movimiento sin restricciones.
+Repeles los obstáculos que afectarían a una criatura. Mientras se encuentra bajo los efectos de este conjuro, el objetivo ignora aquellos que le impondrían un penalizador por circunstancia a la velocidad. Cuando trata de Huir de un efecto que le tiene agarrado, inmovilizado o neutralizado, tiene éxito de forma automatica si el efecto no es magico y de un rango mayor que el del conjuro movimiento sin restricciones.
 
 ---
 
@@ -905,11 +905,11 @@ Repeles los obstáculos que afectarían a una criatura. Mientras se encuentra ba
 **Rango de distancia:** 60 pies (18 m)
 **Duracion:** 1 minuto
 
-A lo largo de 1 minuto, haces brotar del suelo un muro de zarzas espinosas. Creas un muro de zarzas y espinos de 5 pies (1,5 m) de grosor en una linea recta de hasta 60 pies (18 m) de longitud y 10 pies (3 m) de altura. Tienes que formar el muro en un espacio abierto e ininterrumpido, de forma que sus bordes no atraviesen ninguna criatura u objeto, o el conjuro se pierde (aunque las criaturas pueden entrar en el globo una vez lanzado el conjuro). El muro se alza verticalmente. Si quieres, puede ser mas corto o mas bajo. Todo lo que esta a cada lado del muro tiene cobertura de las criaturas en el lado opuesto, y los espacios del mismo son terreno dificil. Por cada acción de movimiento que una criatura utiliza para entrar por lo menos en uno de los espacios del muro, dicha criatura sufre 3d4 dano perforante.
+A lo largo de 1 minuto, haces brotar del suelo un muro de zarzas espinosas. Creas un muro de zarzas y espinos de 5 pies (1,5 m) de grosor en una linea recta de hasta 60 pies (18 m) de longitud y 10 pies (3 m) de altura. Tienes que formar el muro en un espacio abierto e ininterrumpido, de forma que sus bordes no atraviesen ninguna criatura u objeto, o el conjuro se pierde (aunque las criaturas pueden entrar en el globo una vez lanzado el conjuro). El muro se alza verticalmente. Si quieres, puede ser mas corto o mas bajo. Todo lo que esta a cada lado del muro tiene cobertura de las criaturas en el lado opuesto, y los espacios del mismo son terreno difícil. Por cada acción de movimiento que una criatura utiliza para entrar por lo menos en uno de los espacios del muro, dicha criatura sufre 3d4 dano perforante.
 
 Cada sección de 10 x 10 pies (3 x 3 m) del muro tiene CA 10, Dureza 10 y 20 Puntos de Golpe. Es inmune a los impactos críticos y al dano de precision. Una sección destruida se puede atravesar libremente.
 
-**Potenciado (+1)** Los Puntos de Golpe de cada seccion del muro se incrementan en 5 y el dano perforante, en 1d4.
+**Potenciado (+1)** Los Puntos de Golpe de cada sección del muro se incrementan en 5 y el dano perforante, en 1d4.
 
 ---
 
@@ -931,7 +931,7 @@ Alzas un muro ardiente que quema a las criaturas que lo atraviesan. Creas, o bie
 **Rango de distancia:** 30 pies (9 m)
 **Duracion:** 1 minuto
 
-Formas una pared invisible de pura fuerza magica de hasta 50 pies (15 m) de longitud y hasta 20 pies (6 m) de altura. El muro no tiene ningún grosor discernible. Tienes que formar el muro en un espacio abierto e ininterrumpido, de forma que sus bordes no atraviesen ninguna criatura u objeto, o el conjuro se pierde. El muro tiene CA 10, Dureza 30 y 60 Puntos de Golpe, y es inmune a los impactos críticos y al dano de precision. El muro bloquea los efectos físicos que intentan atravesarlo y, como quiera que esta hecho de fuerza, bloquea tambien a las criaturas incorporeas y eternas. Los efectos de teletransporte pueden atravesar la barrera, asi como los efectos visuales (porque el muro es invisible).
+Formas una pared invisible de pura fuerza magica de hasta 50 pies (15 m) de longitud y hasta 20 pies (6 m) de altura. El muro no tiene ningún grosor discernible. Tienes que formar el muro en un espacio abierto e ininterrumpido, de forma que sus bordes no atraviesen ninguna criatura u objeto, o el conjuro se pierde. El muro tiene CA 10, Dureza 30 y 60 Puntos de Golpe, y es inmune a los impactos críticos y al dano de precision. El muro bloquea los efectos físicos que intentan atravesarlo y, como quiera que esta hecho de fuerza, bloquea tambien a las criaturas incorporeas y eternas. Los efectos de teletransporte pueden atravesar la barrera, así como los efectos visuales (porque el muro es invisible).
 
 Muro de fuerza es inmune a los efectos de su rango o menor que tratan de contrarrestarlo. El muro queda automaticamente destruido mediante un conjuro de desintegrar de cualquier rango.
 
@@ -947,9 +947,9 @@ Muro de fuerza es inmune a los efectos de su rango o menor que tratan de contrar
 
 Esculpes una barrera de hielo que bloquea la vision y que, una vez destruida, congela a los enemigos. Creas, o bien un muro de hielo de 1 pie (30 cm) de grueso en una linea recta de hasta 60 pies (18 m) de largo y 10 pies (3 m) de alto, que no tiene por que ser vertical pero que tiene que estar anclado por ambos lados en una superficie solida, o bien una semiesfera de hielo de un pie (30 cm) de grueso y 10 pies (3 m) de radio. El hielo que forma el muro es opaco. Si quieres, el muro puede ser mas corto, menos alto o de un radio menor. Tendras que formar el muro en un espacio abierto e ininterrumpido, de forma que sus bordes no atraviesen ninguna criatura u objeto, o el conjuro se perdera.
 
-Cada sección de 10 pies x 10 pies (3 m x 3 m) del muro tiene CA 10, Dureza 10 y 40 Puntos de Golpe, y es inmune a los impactos críticos, al dano por frio y al dano de precision. Una sección tambien tiene debilidad 15 al fuego; una sección del muro destruida por el fuego se funde, evaporandose en agua y vapor. Una sección destruida por medios diferentes al fuego deja atras una masa congeladora de hielo que es terreno dificil e inflige 2d6 dano por frio a cualquier criatura que la atraviesa.
+Cada sección de 10 pies x 10 pies (3 m x 3 m) del muro tiene CA 10, Dureza 10 y 40 Puntos de Golpe, y es inmune a los impactos críticos, al dano por frio y al dano de precision. Una sección tambien tiene debilidad 15 al fuego; una sección del muro destruida por el fuego se funde, evaporandose en agua y vapor. Una sección destruida por medios diferentes al fuego deja atras una masa congeladora de hielo que es terreno difícil e inflige 2d6 dano por frio a cualquier criatura que la atraviesa.
 
-**Potenciado (+2)** Los Puntos de Golpe de cada seccion del muro se incrementan en 10 y el dano por frio infligido a las criaturas que cruzan una seccion destruida se incrementa en 1d6.
+**Potenciado (+2)** Los Puntos de Golpe de cada sección del muro se incrementan en 10 y el dano por frio infligido a las criaturas que cruzan una sección destruida se incrementa en 1d6.
 
 ---
 
@@ -961,9 +961,9 @@ Cada sección de 10 pies x 10 pies (3 m x 3 m) del muro tiene CA 10, Dureza 10 y
 
 Das forma a una pared de piedra solida. Creas un muro de piedra de 1 pulgada (2,54 cm) de grosor y hasta 120 pies (36 m) de longitud y 20 pies (6 m) de altura. Puedes orientar la dirección del muro, colocando cada 5 pies (1,5 m) del mismo en el borde que hay entre dos casillas. El muro no tiene por que alzarse verticalmente, por lo que puedes utilizarlo, por ejemplo para formar un puente o unas escaleras. Tendras que conjurar el muro en un espacio abierto e ininterrumpido, de forma que sus bordes no atraviesen ninguna criatura u objeto, o el conjuro se perdera.
 
-Cada sección de 10 pies x 10 pies (3 m x 3 m) del muro tiene CA 10, Dureza 14 y 50 Puntos de Golpe, y es inmune a los impactos críticos y al dano de precision. Una sección destruida del muro se puede atravesar, pero los escombros creados son terreno dificil.
+Cada sección de 10 pies x 10 pies (3 m x 3 m) del muro tiene CA 10, Dureza 14 y 50 Puntos de Golpe, y es inmune a los impactos críticos y al dano de precision. Una sección destruida del muro se puede atravesar, pero los escombros creados son terreno difícil.
 
-**Potenciado (+2)** Los Puntos de Golpe de cada seccion del muro se incrementan en 15.
+**Potenciado (+2)** Los Puntos de Golpe de cada sección del muro se incrementan en 15.
 
 ---
 
@@ -976,9 +976,9 @@ Cada sección de 10 pies x 10 pies (3 m x 3 m) del muro tiene CA 10, Dureza 14 y
 Creas una barrera de vientos racheados que dificultan el movimiento de cualquier cosa que intenta atravesarla. El muro de vientos giratorios tiene 5 pies (1,5 m) de grosor, 60 pies (18 m) de longitud y 30 pies (9 m) de altura. El muro se alza en vertical, pero puedes dar forma a su recorrido. Aunque el muro de viento distorsiona el aire, no dificulta la visibilidad. El muro tiene los siguientes efectos:
 
 - La punición de los ataques físicos a distancia (como por ejemplo flechas, virotes, balas de honda y otros objetos de tamaño similar) no puede atravesarlo. Los ataques con armas a distancia mayores (como por ejemplo las jabalinas) sufren un penalizador -2 por circunstancia a sus tiradas de ataque si su trayectoria atraviesa el muro. La punición disparada por las armas de asedio y los efectos de conjuro que no crean objetos físicos atraviesan el muro sin penalizador.
-- El muro es terreno dificil para las criaturas que intentan atravesarlo a ras de suelo. Los gases, incluyendo las criaturas en forma de vapor, no pueden atravesarlo.
+- El muro es terreno difícil para las criaturas que intentan atravesarlo a ras de suelo. Los gases, incluyendo las criaturas en forma de vapor, no pueden atravesarlo.
 - Una criatura que intenta atravesar volando el muro mediante una acción de movimiento, tiene que hacer una salvación de Fortaleza.
   - **Exito critico** La criatura puede atravesar el muro normalmente este turno.
-  - **Exito** La criatura voladora puede atravesar el muro este turno, pero lo trata como terreno dificil.
+  - **Exito** La criatura voladora puede atravesar el muro este turno, pero lo trata como terreno difícil.
   - **Fallo** El muro detiene el movimiento de la criatura voladora y cualquier movimiento restante de su acción actual se pierde.
   - **Fallo critico** Igual que en fallo, y la criatura es rechazada 10 pies (3 m) del muro.

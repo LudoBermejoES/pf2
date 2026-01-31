@@ -12,7 +12,7 @@ Los PJs no tienen por que pasar todo su tiempo activo de aventuras. Tambien se p
 ## Actividades de tiempo libre
 
 - **Practicar una profesion**: ganar monedas
-- **Artesania**: crear equipo nuevo o incluso objetos magicos
+- **Artesanía**: crear equipo nuevo o incluso objetos mágicos
 - **Volver a entrenar**: reemplazar una eleccion de personaje con otra
 - **Investigar**: estudiar un problema
 - **Aprender conjuros nuevos**

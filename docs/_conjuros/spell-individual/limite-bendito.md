@@ -27,8 +27,8 @@ El caparazon proporciona cobertura y puede cruzar terreno solido sin afectarlo. 
 
 **Exito** La criatura sufre mitad de dano.
 
-**Fallo** La criatura sufre dano completo, es empujada hasta 10 pies (3 m) en una direccion que tu eliges y finaliza su movimiento.
+**Fallo** La criatura sufre dano completo, es empujada hasta 10 pies (3 m) en una dirección que tu eliges y finaliza su movimiento.
 
-**Fallo critico** La criatura sufre doble dano, es empujada hasta 20 pies (6 m) en una direccion que tu eliges y finaliza su movimiento.
+**Fallo critico** La criatura sufre doble dano, es empujada hasta 20 pies (6 m) en una dirección que tu eliges y finaliza su movimiento.
 
 **Potenciado (+1)** El dano se incrementa en 1d8.

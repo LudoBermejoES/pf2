@@ -120,7 +120,7 @@ El cocodrilo encoge sus patas y gira rapidamente arrastrando a su victima. Da un
 
 *Poco comun - Dragon*
 
-Tu compañero es un drago rapido pero incapaz de volar, de inteligencia limitada, menos cruel que la mayoría pero ferozmente leal a ti. Un drago de monta tiene el rasgo dragon en lugar del rasgo animal, pero por lo demas funciona normalmente como un compañero animal.
+Tu compañero es un drago rapido pero incapaz de volar, de inteligencia limitada, menos cruel que la mayoría pero ferozmente leal a ti. Un drago de monta tiene el rasgo dragon en lugar del rasgo animal, pero por lo demás funciona normalmente como un compañero animal.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -129,7 +129,7 @@ Tu compañero es un drago rapido pero incapaz de volar, de inteligencia limitada
 | **Cuerpo a cuerpo** | cola, Daño 1d6 contundente |
 | **Atributos** | Fue +2, Des +1, Con +2, Int -4, Sab +1, Car +2 |
 | **Puntos de Golpe** | 8 |
-| **Habilidad** | Intimidacion |
+| **Habilidad** | Intimidación |
 | **Sentidos** | Vision en la oscuridad |
 | **Velocidad** | 45 pies (13,5 m) |
 | **Especial** | montura |
@@ -159,7 +159,7 @@ Tu compañero es un dromaeosaurido (tambien llamado raptor), como por ejemplo un
 | **Sentidos** | Vision en la penumbra, olfato (impreciso, 30 pies [9 m]) |
 | **Velocidad** | 50 pies (15 m) |
 
-**Beneficio por apoyo:** Tu raptor salta constantemente a posiciones de flanqueo. Hasta el inicio de tu siguiente turno, cuenta como si estuviera en su espacio o en un espacio vacio a tu eleccion a 10 pies (3 m) o menos cuando determinas si tu compañero y tu estais flanqueando; puedes elegir un espacio diferente para cada uno de tus ataques.
+**Beneficio por apoyo:** Tu raptor salta constantemente a posiciones de flanqueo. Hasta el inicio de tu siguiente turno, cuenta como si estuviera en su espacio o en un espacio vacío a tu eleccion a 10 pies (3 m) o menos cuando determinas si tu compañero y tu estais flanqueando; puedes elegir un espacio diferente para cada uno de tus ataques.
 
 **Maniobra avanzada: Ataque en salto** [one-action]
 
@@ -299,7 +299,7 @@ Tu compañero es un oso negro, gris, polar o cualquier otro tipo de oso.
 | **Cuerpo a cuerpo** | garra (agil), Daño 1d6 cortante |
 | **Atributos** | Fue +3, Des +2, Con +2, Int -4, Sab +1, Car +0 |
 | **Puntos de Golpe** | 8 |
-| **Habilidad** | Intimidacion |
+| **Habilidad** | Intimidación |
 | **Sentidos** | Vision en la penumbra, olfato (impreciso, 30 pies [9 m]) |
 | **Velocidad** | 35 pies (10,5 m) |
 
@@ -319,7 +319,7 @@ El oso da otro Golpe de garra contra el mismo objetivo. Si dicho Golpe impacta, 
 
 **Acceso** Eres miembro de la orden de la hoja.
 
-Tu compañero es un árbol andante, un primo de los grandes custodios y de los regentes arbóreos. Un retoño arboreo tiene el rasgo planta en lugar de animal, pero por lo demas funciona normalmente como un compañero animal. Solo suelen seleccionarlos los druidas de la orden animal que ademas son miembros de la orden de la hoja.
+Tu compañero es un árbol andante, un primo de los grandes custodios y de los regentes arbóreos. Un retoño arboreo tiene el rasgo planta en lugar de animal, pero por lo demás funciona normalmente como un compañero animal. Solo suelen seleccionarlos los druidas de la orden animal que ademas son miembros de la orden de la hoja.
 
 | Estadistica | Valor |
 |-------------|-------|
@@ -331,7 +331,7 @@ Tu compañero es un árbol andante, un primo de los grandes custodios y de los r
 | **Sentidos** | Vision en la penumbra |
 | **Velocidad** | 25 pies (7,5 m) |
 
-**Beneficio por apoyo:** Tu retoño arboreo planta raices alrededor de tu enemigo, impidiendo su movimiento. Hasta el inicio de tu siguiente turno, si aciertas e infliges daño a una criatura al alcance de tu retoño arboreo, la primera casilla a la que mueve dicha criatura despues de sufrir el daño se considera terreno dificil.
+**Beneficio por apoyo:** Tu retoño arboreo planta raices alrededor de tu enemigo, impidiendo su movimiento. Hasta el inicio de tu siguiente turno, si aciertas e infliges daño a una criatura al alcance de tu retoño arboreo, la primera casilla a la que mueve dicha criatura después de sufrir el daño se considera terreno difícil.
 
 **Maniobra avanzada: Arrojar roca** [reaction]
 
@@ -373,7 +373,7 @@ Tu compañero es un simio u otro primate.
 | **Cuerpo a cuerpo** | puño, Daño 1d8 contundente |
 | **Atributos** | Fue +3, Des +1, Con +2, Int -4, Sab +2, Car +0 |
 | **Puntos de Golpe** | 8 |
-| **Habilidad** | Intimidacion |
+| **Habilidad** | Intimidación |
 | **Sentidos** | Vision en la penumbra |
 | **Velocidad** | 25 pies (7,5 m), trepar 25 pies (7,5 m) |
 
@@ -400,7 +400,7 @@ Tu compañero es un tejon, un glotón u otro mustelido grande.
 | **Sentidos** | Vision en la penumbra, olfato (impreciso, 30 pies [9 m]) |
 | **Velocidad** | 25 pies (7,5 m), excavar 10 pies (3 m), trepar 10 pies (3 m) |
 
-**Beneficio por apoyo:** Tu tejon excava alrededor de la posicion de tu enemigo, interfiriendo con sus movimientos. Hasta el inicio de tu siguiente turno, si aciertas e infliges daño a una criatura a la que amenaza tu tejon, el objetivo no puede utilizar una accion de Paso (a menos que pueda dar un Paso a traves de terreno dificil) hasta que se mueve de su posicion actual.
+**Beneficio por apoyo:** Tu tejon excava alrededor de la posición de tu enemigo, interfiriendo con sus movimientos. Hasta el inicio de tu siguiente turno, si aciertas e infliges daño a una criatura a la que amenaza tu tejon, el objetivo no puede utilizar una accion de Paso (a menos que pueda dar un Paso a traves de terreno difícil) hasta que se mueve de su posición actual.
 
 **Maniobra avanzada: Furia del tejon** [one-action]
 
@@ -486,13 +486,13 @@ Los compañeros animales especializados son mas inteligentes y tienen comportami
 
 #### Especializaciones
 
-**Corredor:** Tu compañero sabe correr. Obtiene un bonificador +10 pies (3 m) por estatus a su Velocidad terrestre, su Velocidad de nadar o su Velocidad de vuelo (tu eliges). Su rango de competencia en las salvaciones de Fortaleza se incrementa a legendario y su modificador por Constitucion se incrementa en 1.
+**Corredor:** Tu compañero sabe correr. Obtiene un bonificador +10 pies (3 m) por estatus a su Velocidad terrestre, su Velocidad de nadar o su Velocidad de vuelo (tu eliges). Su rango de competencia en las salvaciones de Fortaleza se incrementa a legendario y su modificador por Constitución se incrementa en 1.
 
 **Emboscador:** Tu compañero puede utilizar una accion de Movimiento furtivo en su entorno natural, incluso si esta siendo observado. Su rango de competencia en Sigilo se incrementa a experto (o a maestro si ya tenia rango experto debido a su tipo) y su bonificador por Destreza se incrementa en 1. Su rango de competencia para la defensa sin armadura se incrementa a experto.
 
-**Maton:** Tu compañero aterroriza a los enemigos con exhibiciones de dominacion y les empuja por el campo de batalla. Su rango de competencia en Atletismo e Intimidacion se incrementa a experto (o a maestro si ya tenia rango experto debido a su tipo), su modificador por Fuerza se incrementa en 1 y su modificador por Carisma se incrementa en 3.
+**Maton:** Tu compañero aterroriza a los enemigos con exhibiciones de dominacion y les empuja por el campo de batalla. Su rango de competencia en Atletismo e Intimidación se incrementa a experto (o a maestro si ya tenia rango experto debido a su tipo), su modificador por Fuerza se incrementa en 1 y su modificador por Carisma se incrementa en 3.
 
-**Rastreador:** Tu compañero es un rastreador sensacional. Se puede mover a Velocidad completa mientras rastrea. Su rango de competencia en supervivencia se incrementa a experto (o a maestro si ya tenia rango experto debido a su tipo) y su modificador por Sabiduria se incrementa en 1.
+**Rastreador:** Tu compañero es un rastreador sensacional. Se puede mover a Velocidad completa mientras rastrea. Su rango de competencia en supervivencia se incrementa a experto (o a maestro si ya tenia rango experto debido a su tipo) y su modificador por Sabiduría se incrementa en 1.
 
 **Rompedor:** Tu compañero destroza cosas. Sus ataques sin arma ignoran la mitad de la Dureza de un objeto. Su rango de competencia en Atletismo se incrementa a maestro y su modificador por Fuerza se incrementa en 1.
 

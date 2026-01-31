@@ -14,7 +14,7 @@ spell_level: 6
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Incapacitacion</span>
-<span class="trait-tag">Maldicion</span>
+<span class="trait-tag">Maldición</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Polimorfia</span>
 </div>

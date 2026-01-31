@@ -11,21 +11,21 @@ nav_order: 6
 **Rasgos:** Poco comun, Concentrar, Manipular, Teletransporte
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 10 minutos
-**Rango de distancia:** 100 millas (160 km); **Objetivos:** tu y hasta 4 objetivos tocados, o criaturas voluntarias u objetos de aproximadamente el tamano de una criatura
+**Rango de distancia:** 100 millas (160 km); **Objetivos:** tu y hasta 4 objetivos tocados, o criaturas voluntarias u objetos de aproximadamente el tamaño de una criatura
 
 Los objetivos y tu sois transportados instantaneamente a cualquier ubicación dentro del alcance, si puedes identificarla de forma precisa tanto por su posición relativa para con tu posición inicial, como por su apariencia (u otros rasgos identificativos). Un conocimiento incorrecto de la apariencia de la ubicación hace (por lo general) que el conjuro falle, pero en su lugar puede hacer que os teletransportéis a un lugar no deseado o algún otro percance poco usual determinado por el DJ. El teletransporte no es preciso a largas distancias. Los objetos aparecen a una distancia del destino previsto igual a aproximadamente un 1% de la distancia total viajada, en una dirección a determinar por el DJ. Para viajes cortos, esta falta de precision es irrelevante, pero para distancias largas podría ser de hasta una milla (1,6 km).
 
 **Potenciado (7.º)** Los otros objetivos y tu podeis viajar a cualquier ubicacion que este a 1000 millas (1600 km) o menos.
 
-**Potenciado (8.º)** Los otros objetivos y tu podeis viajar a cualquier ubicacion en el mismo planeta. Si viajais mas de 1000 millas (1600 km), tan solo llegais con 10 millas (16 km) de desvio.
+**Potenciado (8.º)** Los otros objetivos y tu podeis viajar a cualquier ubicacion en el mismo planeta. Si viajais mas de 1000 millas (1600 km), tan solo llegáis con 10 millas (16 km) de desvio.
 
-**Potenciado (9.º)** Los otros objetivos y tu podeis viajar a cualquier ubicacion en cualquier planeta del mismo sistema solar. Si tienes un conocimiento exacto de la posicion y apariencia del lugar, llegais al nuevo planeta con 100 millas (160 km) de desvio.
+**Potenciado (9.º)** Los otros objetivos y tu podeis viajar a cualquier ubicacion en cualquier planeta del mismo sistema solar. Si tienes un conocimiento exacto de la posición y apariencia del lugar, llegáis al nuevo planeta con 100 millas (160 km) de desvio.
 
 **Potenciado (10.º)** Como la version de 9.º rango, pero los otros objetivos y tu podeis viajar a cualquier planeta de la misma galaxia.
 
 ---
 
-## Teletransporte Interplanario [CONJURO 7]
+## Teletransporte Interplanar [CONJURO 7]
 **Rasgos:** Poco comun, Concentrar, Manipular, Teletransporte
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 10 minutos; **Requisitos:** Tienes una llave planaria para el Plano de destino, utilizada como locus
@@ -33,7 +33,7 @@ Los objetivos y tu sois transportados instantaneamente a cualquier ubicación de
 
 Tus aliados y tu atravesaos las barreras entre los planos de existencia. Los objetivos se trasladan a otro Plano, como por ejemplo el Plano del Fuego, el Informando o las Fisuras Exteriores. Tienes que saber que el Plano de destino existe y utilizar una llave planaria magica creada a partir de material de dicho Plano como locus para el conjuro. Si bien las llaves planarias para los Planos mas prominentes son poco comunes, igual que este conjuro, Planos y semiplanos mas oscuros a menudo tienen llaves planarias raras o posiblemente incluso unidas.
 
-El conjuro es altamente impreciso y apareces a 1d20 x 25 millas (1 milla = 1,6 km) desde el ultimo lugar en el que uno de los objetivos (a tu elección) estaba ubicado la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicación aleatoria del mismo. Teletransporte interplanario no proporciona un medio de viaje de retorno, aunque lanzarlo de nuevo te permite volver a tu Plano anterior a menos que concurran circunstancias atenuantes.
+El conjuro es altamente impreciso y apareces a 1d20 x 25 millas (1 milla = 1,6 km) desde el ultimo lugar en el que uno de los objetivos (a tu elección) estaba ubicado la ultima vez que viajo a dicho Plano. Si es la primera vez que todos los objetivos viajan a un Plano en particular, aparecen en una ubicación aleatoria del mismo. Teletransporte interplanar no proporciona un medio de viaje de retorno, aunque lanzarlo de nuevo te permite volver a tu Plano anterior a menos que concurran circunstancias atenuantes.
 
 ---
 
@@ -45,7 +45,7 @@ El conjuro es altamente impreciso y apareces a 1d20 x 25 millas (1 milla = 1,6 k
 
 Agitas el suelo, haces caer criaturas en brechas y derrumbas estructuras. El DJ podría añadir efectos adicionales en determinadas areas. Un acantilado podría derrumbarse, haciendo que las criaturas caigan por el, o un lago podría quedar drenado al abrirse fisuras bajo su superficie, dejando un pantano de arenas movedizas.
 
-- **Temblor de tierra** El suelo se convierte en terreno dificil, y las criaturas que lo pisan sufren un penalizador -2 por circunstancia a las tiradas de ataque, CA y pruebas de habilidad.
+- **Temblor de tierra** El suelo se convierte en terreno difícil, y las criaturas que lo pisan sufren un penalizador -2 por circunstancia a las tiradas de ataque, CA y pruebas de habilidad.
 - **Fisuras** Cada criatura a ras de suelo tiene que hacer una salvación de Reflejos al inicio de su turno para vigilar donde pisa y evitar una caida a una de las fisuras de 40 pies (12 m) de profundidad que se abren a sus pies. Las fisuras son permanentes y sus lados requieren pruebas con éxito de Atletismo CD 15 para Trepar.
 - **Derrumbe** Las estructuras y los techos podrían derrumbarse. El DJ hace una prueba plana para cada una de ellas (CD 16 para una estructura recia, CD 14 para una estructura normal y la mayoría de formaciones naturales, CD 9 para una estructura de mala calidad, todo ello ajustado hacia arriba o hacia abajo segun su criterio). Un colapso inflige 11d6 dano contundente a toda criatura atrapada en el mismo, que tiene que hacer una salvación basica de Reflejos. Una criatura queda tumbada si no obtiene un éxito critico, y cae a una grieta si sufre un fallo critico.
 
@@ -67,7 +67,7 @@ Haces oscilar un arma que estas empuñando, que se multiplica magicamente en dup
 
 **Fallo** El objetivo sufre dano completo.
 
-**Fallo critico** El objetivo sufre doble dano y queda sujeto al efecto de especializacion critica del arma.
+**Fallo critico** El objetivo sufre doble dano y queda sujeto al efecto de especialización critica del arma.
 
 **Potenciado (+1)** Anade otro dado de dano.
 
@@ -79,12 +79,12 @@ Haces oscilar un arma que estas empuñando, que se multiplica magicamente en dup
 **Rango de distancia:** 800 pies (240 m); **Area:** explosion de 400 pies (120 m)
 **Duracion:** mantenido hasta 1 minuto
 
-Una enorme nube de tormenta se forma en el aire por encima del area, extendiendo lluvia y vendavales. El viento impone un penalizador -4 por circunstancia a los ataques físicos a distancia. El aire en el area se convierte en terreno dificil mayor para las criaturas voladoras. Cuando Lanzas este conjuro y la primera vez cada asalto que lo Mantienes en asaltos subsiguientes, puedes elegir uno de los siguientes efectos de la tormenta. No puedes elegir el mismo efecto dos veces seguidas.
+Una enorme nube de tormenta se forma en el aire por encima del area, extendiendo lluvia y vendavales. El viento impone un penalizador -4 por circunstancia a los ataques físicos a distancia. El aire en el area se convierte en terreno difícil mayor para las criaturas voladoras. Cuando Lanzas este conjuro y la primera vez cada asalto que lo Mantienes en asaltos subsiguientes, puedes elegir uno de los siguientes efectos de la tormenta. No puedes elegir el mismo efecto dos veces seguidas.
 
 - **Granizo** Cada criatura en el interior de la tormenta o bajo la misma sufre 4d10 dano contundente con una salvación basica de Fortaleza.
 - **Rayo** Elige hasta 10 criaturas en el interior de la tormenta bajo la misma para que sean azotadas por un rayo. Cada una de ellas sufre 7d6 dano por electricidad con una salvación basica de Reflejos.
 - **Tornado** Un torbellino aproximadamente cilindrico aparece en el interior de la nube o bajo la misma en un radio de 30 pies (9 m). Cada criatura en el torbellino es lanzada 40 pies (12 m) hacia arriba.
-- **Ventisca** La nieve torrencial inflige 4d8 dano por frio a cada criatura en la tormenta o bajo la misma, sin salvación alguna. Todo lo que hay en la tormenta o bajo la misma queda oculto debido a la nieve torrencial y cualquier tipo de terreno se considera terreno dificil.
+- **Ventisca** La nieve torrencial inflige 4d8 dano por frio a cada criatura en la tormenta o bajo la misma, sin salvación alguna. Todo lo que hay en la tormenta o bajo la misma queda oculto debido a la nieve torrencial y cualquier tipo de terreno se considera terreno difícil.
 
 **Potenciado (10.º)** El alcance se incrementa a 2000 pies (600 m) y la nube es una explosion de 1000 pies (300 m).
 
@@ -129,7 +129,7 @@ El cadaver objetivo no se descompone ni se puede transformar en un muerto vivien
 ---
 
 ## Ubicar [CONJURO 8]
-**Rasgos:** Poco comun, Concentrar, Deteccion, Manipular
+**Rasgos:** Poco comun, Concentrar, Detección, Manipular
 **Tradiciones:** arcana, divina, ocultista
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** ilimitado; **Objetivos:** 1 criatura u objeto
@@ -166,12 +166,12 @@ Puedes, o bien transformarte en una planta, o bien fusionarte con la materia veg
 **Rango de distancia:** toque; **Objetivos:** 1 criatura u objeto
 **Duracion:** 8 horas
 
-Eriges unas custodias protectoras que hacen dificil detectar al objetivo mediante la magia. Velo de privacidad trata de contrarrestar todos los efectos de detección, escudriñamiento y revelación utilizados contra el objetivo o su equipo a lo largo de la duración del conjuro, considerando a este efecto que los trucos son conjuros de 1.er rango. Contrarrestar con éxito un conjuro que designa como objetivo un area u objetivos multiples niega los efectos tan solo para el objetivo de velo de privacidad.
+Eriges unas custodias protectoras que hacen difícil detectar al objetivo mediante la magia. Velo de privacidad trata de contrarrestar todos los efectos de detección, escudriñamiento y revelación utilizados contra el objetivo o su equipo a lo largo de la duración del conjuro, considerando a este efecto que los trucos son conjuros de 1.er rango. Contrarrestar con éxito un conjuro que designa como objetivo un area u objetivos multiples niega los efectos tan solo para el objetivo de velo de privacidad.
 
 ---
 
 ## Vendetta de Sangre ↺ [CONJURO 2]
-**Rasgos:** Maldicion
+**Rasgos:** Maldición
 **Tradiciones:** arcana, divina, ocultista
 **Desencadenante:** Una criatura te inflige dano perforante, cortante o persistente por sangrado; **Requisitos:** Puedes sangrar.
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** la criatura desencadenante
@@ -197,7 +197,7 @@ Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sa
 **Area:** variable
 **Defensa:** Reflejos
 
-Unos vientos gélidos se extienden desde tus manos, surgiendo con gran fuerza. Si Lanzas este conjuro con 2 acciones, tiene el area de un cono de 60 pies (18 m); si Lanzas este conjuro con 3 acciones, tiene un alcance de 500 pies (150 m) y el area de una explosion de 30 pies (9 m). Cada criatura en el area sufre 10d6 dano por frio con una salvación basica de Reflejos. Ventisqueros y vientos helados llenan el area hasta el inicio de tu siguiente turno, convirtiendola en terreno dificil.
+Unos vientos gélidos se extienden desde tus manos, surgiendo con gran fuerza. Si Lanzas este conjuro con 2 acciones, tiene el area de un cono de 60 pies (18 m); si Lanzas este conjuro con 3 acciones, tiene un alcance de 500 pies (150 m) y el area de una explosion de 30 pies (9 m). Cada criatura en el area sufre 10d6 dano por frio con una salvación basica de Reflejos. Ventisqueros y vientos helados llenan el area hasta el inicio de tu siguiente turno, convirtiendola en terreno difícil.
 
 **Potenciado (+1)** El dano se incrementa en 2d6.
 
@@ -210,12 +210,12 @@ Unos vientos gélidos se extienden desde tus manos, surgiendo con gran fuerza. S
 
 Siempre que hablas o haces algún otro sonido vocal, puedes hacer que tu localización parezca originarse en algún lugar diferente a 60 pies (18 m) o menos, y puedes cambiar libremente dicha ubicación aparente mientras vocalizas. Toda criatura que oye el sonido puede tratar de descreer tu ilusión.
 
-**Potenciado (2.º)** La duracion del conjuro se incrementa a 1 hora y tambien puedes cambiar el tono, la calidad y otros aspectos de tu voz. Antes de que una criatura pueda tratar de descreer tu ilusion tendra que hacer una prueba de Percepcion activa o utilizar acciones para Interactuar con el sonido.
+**Potenciado (2.º)** La duracion del conjuro se incrementa a 1 hora y tambien puedes cambiar el tono, la calidad y otros aspectos de tu voz. Antes de que una criatura pueda tratar de descreer tu ilusion tendra que hacer una prueba de Percepción activa o utilizar acciones para Interactuar con el sonido.
 
 ---
 
 ## Ver lo Invisible ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Manipular, Revelacion
+**Rasgos:** Concentrar, Manipular, Revelación
 **Tradiciones:** arcana, divina, ocultista
 **Duracion:** 10 minutos
 
@@ -273,11 +273,11 @@ El viento a tu espalda te empuja a buscar nuevos horizontes. Obtienes un bonific
 **Rango de distancia:** 100 pies (30 m); **Area:** un cilindro de 30 pies (9 m) de radio y 100 pies (30 m) de altura
 **Duracion:** mantenido hasta 1 minuto
 
-Unos vientos violentos y una poderosa corriente llenan el area, formando un ciclon. Todas las criaturas voladoras en el area descienden 40 pies (12 m). Toda el area se convierte en terreno dificil mayor para las criaturas Voladoras y en terreno dificil para las criaturas en el suelo o Trepando.
+Unos vientos violentos y una poderosa corriente llenan el area, formando un ciclon. Todas las criaturas voladoras en el area descienden 40 pies (12 m). Toda el area se convierte en terreno difícil mayor para las criaturas Voladoras y en terreno difícil para las criaturas en el suelo o Trepando.
 
 Toda criatura que acaba su turno volando en el area desciende 20 pies (6 m). Toda criatura empujada contra una superficie por los vientos de este conjuro sufre dano contundente como si hubiera caico al suelo.
 
-Las casillas de los extremos verticales exteriores del cilindro evitan que las criaturas lo abandonen. Dichas casillas son terreno dificil mayor y una criatura que intenta atravesarlas ha de tener éxito en una prueba de Atletismo o de Acrobacias para maniobrar en vuelo contra tu CD de conjuros para conseguirlo. Una criatura que falla acaba su acción actual pero puede probar de nuevo.
+Las casillas de los extremos verticales exteriores del cilindro evitan que las criaturas lo abandonen. Dichas casillas son terreno difícil mayor y una criatura que intenta atravesarlas ha de tener éxito en una prueba de Atletismo o de Acrobacias para maniobrar en vuelo contra tu CD de conjuros para conseguirlo. Una criatura que falla acaba su acción actual pero puede probar de nuevo.
 
 ---
 
@@ -313,7 +313,7 @@ Esta es una transferencia espiritual, por lo que no se aplicara efecto alguno qu
 
 Disparas un rayo de calor y llamas. Haz una tirada de ataque de conjuros contra una sola criatura. Con un impacto, el objetivo sufre 2d6 dano por fuego y, con un impacto critico, doble dano.
 
-Por cada acción adicional que utilizas al Lanzar el conjuro, puedes disparar un rayo adicional a un objetivo diferente, hasta un maximo de 3 rayos que designan como objetivo a tres objetivos diferentes para 3 acciones. Cada uno de dichos ataques incrementa tu penalizador por ataque multiple, pero no lo incrementa hasta después de haber hecho todas las tiradas de ataque para este conjuro. Si dedicas 2 o mas acciones a Lanzar el conjuro, el dano se incrementa a 4d6 dano por fuego con un impacto, y sigues infligiendo doble dano con un impacto critico.
+Por cada acción adicional que utilizas al Lanzar el conjuro, puedes disparar un rayo adicional a un objetivo diferente, hasta un máximo de 3 rayos que designan como objetivo a tres objetivos diferentes para 3 acciones. Cada uno de dichos ataques incrementa tu penalizador por ataque multiple, pero no lo incrementa hasta después de haber hecho todas las tiradas de ataque para este conjuro. Si dedicas 2 o mas acciones a Lanzar el conjuro, el dano se incrementa a 4d6 dano por fuego con un impacto, y sigues infligiendo doble dano con un impacto critico.
 
 **Potenciado (+1)** El dano para cada objetivo se incrementa en 1d6 para la version de 1 accion o en 2d6 para las versiones de 2 y 3 acciones.
 
@@ -373,7 +373,7 @@ Te concedes a ti mismo una vision sobrenatural en areas de oscuridad. Obtienes v
 ---
 
 ## Vision Verdadera ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Manipular, Revelacion
+**Rasgos:** Concentrar, Manipular, Revelación
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 10 minutos
 
@@ -399,7 +399,7 @@ El objetivo puede flotar por el aire, obteniendo una Velocidad de vuelo igual a 
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** CA
 
-Un zarcillo aparece de la nada, girando rapidamente desde tu mano y aferrandose al objetivo. Haz una tirada de ataque de conjuros contra el objetivo.
+Un zarcillo aparece de la nada, girando rapidamente desde tu mano y aferrándose al objetivo. Haz una tirada de ataque de conjuros contra el objetivo.
 
 **Exito critico** El objetivo sufre el estado inmovilizado, y un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador y el estado de inmovilizado.
 
@@ -414,7 +414,7 @@ Un zarcillo aparece de la nada, girando rapidamente desde tu mano y aferrandose 
 ---
 
 ## Zarcillos Macabros ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Manipular, Vacio
+**Rasgos:** Concentrar, Manipular, Vacío
 **Tradiciones:** arcana, ocultista
 **Area:** linea de 30 pies (9 m)
 **Defensa:** Fortaleza
@@ -423,10 +423,10 @@ Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el 
 
 **Exito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano por vacio y ningun dano persistente por sangrado.
+**Exito** La criatura sufre mitad de dano por vacío y ningun dano persistente por sangrado.
 
 **Fallo** La criatura sufre dano completo.
 
-**Fallo critico** La criatura sufre doble dano por vacio y doble dano persistente por sangrado.
+**Fallo critico** La criatura sufre doble dano por vacío y doble dano persistente por sangrado.
 
-**Potenciado (+1)** El dano por vacio se incrementa en 2d4 y el dano persistente por sangrado se incrementa en 1.
+**Potenciado (+1)** El dano por vacío se incrementa en 2d4 y el dano persistente por sangrado se incrementa en 1.

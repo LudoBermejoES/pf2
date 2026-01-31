@@ -20,7 +20,7 @@ spell_level: 3
 
 ---
 
-Tus palabras fascinan a tus objetivos. Hablas o cantas sin interrupción tanto en el lanzamiento como en la duración. Los objetivos que son conscientes de tu discurso o de tu canción podrían concederte su atención univoca; cada objetivo tiene que hacer una salvación de Voluntad. El DJ podría conceder un bonificados por circunstancia (con un maximo de +4) si el objetivo es de una religion, ascendencia o tendencia politica opuesta, o por lo demas es poco probable que este de acuerdo con lo que dices.
+Tus palabras fascinan a tus objetivos. Hablas o cantas sin interrupción tanto en el lanzamiento como en la duración. Los objetivos que son conscientes de tu discurso o de tu canción podrían concederte su atención univoca; cada objetivo tiene que hacer una salvación de Voluntad. El DJ podría conceder un bonificados por circunstancia (con un máximo de +4) si el objetivo es de una religion, ascendencia o tendencia politica opuesta, o por lo demás es poco probable que este de acuerdo con lo que dices.
 
 Cada criatura que llega al alcance tiene que hacer una salvación cuando Mantienes el conjuro. Si estas hablando, cautivar obtiene el rasgo linguistico.
 
@@ -28,6 +28,6 @@ Cada criatura que llega al alcance tiene que hacer una salvación cuando Mantien
 
 **Exito** El objetivo no tiene por que prestar atencion pero no se da cuenta de que has intentado utilizar la magia (podria darse cuenta de que otros estan cautivados).
 
-**Fallo** El objetivo esta fascinado por ti. Puede hacer otra salvacion de Voluntad si es testigo de acciones o de palabras con las que esta en desacuerdo. Si tiene exito, ya no esta fascinado y queda temporalmente inmune durante 1 hora. Si el objetivo es victima de una accion hostil o si otra criatura tiene exito en una prueba de Diplomacia o de Intimidacion contra ella, la fascinacion se acaba de inmediato.
+**Fallo** El objetivo esta fascinado por ti. Puede hacer otra salvacion de Voluntad si es testigo de acciones o de palabras con las que esta en desacuerdo. Si tiene exito, ya no esta fascinado y queda temporalmente inmune durante 1 hora. Si el objetivo es victima de una accion hostil o si otra criatura tiene exito en una prueba de Diplomacia o de Intimidación contra ella, la fascinacion se acaba de inmediato.
 
 **Fallo critico** Igual que en fallo, pero el objetivo no puede hacer una salvacion para acabar con la fascinacion si esta en desacuerdo contigo.

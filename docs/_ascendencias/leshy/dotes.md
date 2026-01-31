@@ -19,14 +19,14 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 Puedes extender una marana de enredaderas o de zarcillos para sostener tus brazos y aumentar tu alcance.
 
-**Beneficio:** Cuando Empunas una arma cuerpo a cuerpo que requiere dos manos, no tiene alcance e inflige por lo menos 1d6 de dano, puedes cambiar entre un agarre tipico a dos manos y un agarre a dos manos extendido utilizando una accion de Interactuar. Las armas empunadas en el agarre extendido obtienen un alcance de 10 pies (3 m). Este agarre es menos estable y potente que un agarre tipico, lo que reduce en 1 paso el dado de dano del arma.
+**Beneficio:** Cuando Empuñas una arma cuerpo a cuerpo que requiere dos manos, no tiene alcance e inflige por lo menos 1d6 de dano, puedes cambiar entre un agarre tipico a dos manos y un agarre a dos manos extendido utilizando una accion de Interactuar. Las armas empunadas en el agarre extendido obtienen un alcance de 10 pies (3 m). Este agarre es menos estable y potente que un agarre tipico, lo que reduce en 1 paso el dado de dano del arma.
 
 ---
 
 ### Inofensivamente bello
 **Dote 1** - Leshy
 
-Tu tamaño y tu comportamiento facilitan convencer a los demas de que no quieres hacerles dano.
+Tu tamaño y tu comportamiento facilitan convencer a los demás de que no quieres hacerles dano.
 
 **Beneficio:** Obtienes la dote de habilidad Peticion descarada como dote adicional. Ademas, obtienes un bonificador +1 por circunstancia a las pruebas de iniciativa cuando tiras Engano para la iniciativa.
 
@@ -55,9 +55,9 @@ Obtienes tambien la dote general Saber adicional para Saber (leshys).
 ### Sombra de las tierras salvajes
 **Dote 1** - Leshy
 
-Es dificil percibir tu paso por las areas salvajes.
+Es difícil percibir tu paso por las areas salvajes.
 
-**Beneficio:** Si no estas en un entorno urbano, se considera que siempre estas Cubriendo tus rastros, incluso si has elegido una actividad diferente en el modo exploracion.
+**Beneficio:** Si no estas en un entorno urbano, se considera que siempre estas Cubriendo tus rastros, incluso si has elegido una actividad diferente en el modo exploración.
 
 ---
 
@@ -77,7 +77,7 @@ Percibes los espíritus que habitan en los objetos, averiguando cuales dan buena
 
 Tu cuerpo produce un suministro casi interminable de duros tegumentos.
 
-**Beneficio:** Obtienes un ataque sin armas a distancia de tegumento con un incremento de rango de distancia de 30 pies (9 m) que inflige 1d4 dano contundente. Con un impacto critico, el tegumento explota, expulsando una marana de vegetacion que impone un penalizador -10 pies (3 m) por circunstancia a la Velocidad del objetivo hasta el inicio de tu siguiente turno. Los tegumentos no anaden efectos de especializacion critica.
+**Beneficio:** Obtienes un ataque sin armas a distancia de tegumento con un incremento de rango de distancia de 30 pies (9 m) que inflige 1d4 dano contundente. Con un impacto critico, el tegumento explota, expulsando una marana de vegetacion que impone un penalizador -10 pies (3 m) por circunstancia a la Velocidad del objetivo hasta el inicio de tu siguiente turno. Los tegumentos no añaden efectos de especialización critica.
 
 ---
 
@@ -115,7 +115,7 @@ Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 #### Anclar ◆
 **Requisitos:** Estas sobre una superficie solida.
 
-**Efecto:** Clavas tus raices en el terreno o cruzas el mismo con ellas, por lo que sera mas dificil que tropieces. Hasta que te muevas, obtendras un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra los intentos de Reposicionarte, Empujarte o Derribarte (o un bonificador +4 por circunstancia si eres un leshy de las raices). Este bonificador tambien se aplica a las tiradas de salvacion contra conjuros o efectos que intentan moverte o tumbarte. Si un efecto te obliga a moverte, solo te mueves la mitad de la distancia normal, puesto que parte del esfuerzo se tiene que dedicar a arrancar las raices.
+**Efecto:** Clavas tus raices en el terreno o cruzas el mismo con ellas, por lo que sera mas difícil que tropieces. Hasta que te muevas, obtendras un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra los intentos de Reposicionarte, Empujarte o Derribarte (o un bonificador +4 por circunstancia si eres un leshy de las raices). Este bonificador tambien se aplica a las tiradas de salvacion contra conjuros o efectos que intentan moverte o tumbarte. Si un efecto te obliga a moverte, solo te mueves la mitad de la distancia normal, puesto que parte del esfuerzo se tiene que dedicar a arrancar las raices.
 
 ---
 
@@ -124,7 +124,7 @@ Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 
 Puedes revertir temporalmente a una forma menos visible sin disminuir tus sentidos.
 
-**Beneficio:** Adoptas la forma de un especimen ordinario del tipo de planta u hongo que mas se parece a ti, retornando a la apariencia de tu cuerpo antes de que tu espiritu se uniera a el. Por lo demas esto tiene los efectos de unirse con las plantas, excepto que tu tamano sigue siendo Pequeno.
+**Beneficio:** Adoptas la forma de un especimen ordinario del tipo de planta u hongo que mas se parece a ti, retornando a la apariencia de tu cuerpo antes de que tu espiritu se uniera a el. Por lo demás esto tiene los efectos de unirse con las plantas, excepto que tu tamaño sigue siendo Pequeno.
 
 ---
 
@@ -146,14 +146,14 @@ Utilizas magia primigenia.
 
 Tienes un recuerdo que te otorga suerte.
 
-**Beneficio:** Obtienes un bonificador +1 por circunstancia a las salvaciones contra conjuros y efectos magicos en todo momento, no tan solo cuando utilizas Supersticion de leshy. Si pierdes el recuerdo, pierdes el bonificador hasta que designas un nuevo recuerdo, por lo general en el transcurso de una semana.
+**Beneficio:** Obtienes un bonificador +1 por circunstancia a las salvaciones contra conjuros y efectos mágicos en todo momento, no tan solo cuando utilizas Supersticion de leshy. Si pierdes el recuerdo, pierdes el bonificador hasta que designas un nuevo recuerdo, por lo general en el transcurso de una semana.
 
 ---
 
 ### Rejuvenecimiento solar
 **Dote 9** - Leshy
 
-**Beneficio:** Si descansas al aire libre durante 10 minutos durante el dia, recuperas tantos Puntos de Golpe como tu modificador por Constitucion multiplicado por la mitad de tu nivel. Obtienes este beneficio ademas de cualquier curacion debida a Tratar heridas.
+**Beneficio:** Si descansas al aire libre durante 10 minutos durante el dia, recuperas tantos Puntos de Golpe como tu modificador por Constitución multiplicado por la mitad de tu nivel. Obtienes este beneficio ademas de cualquier curacion debida a Tratar heridas.
 
 > Los leshys cuya nutrición vegetal no se basa en la fotosintesis requieren un ambiente similarmente adecuado. Por ejemplo, los leshys de los hongos necesitan entornos oscuros y húmedos y cierta cantidad de materia vegetal en descomposición.
 

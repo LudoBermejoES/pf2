@@ -37,7 +37,7 @@ Elige una musa como lo varias si fueras un bardo. Puedes adquirir las dotes de d
 
 Obtienes los beneficios de lanzamiento basico de conjuros. Cada vez que obtienes un espacio de conjuros de un nuevo rango debido al arquetipo bardo, suma a tu repertorio un conjuro ocultista comun del rango apropiado u otro conjuro ocultista apropiado que has descubierto o aprendido.
 
-### Susurros de la musa basicos - Dote 4
+### Susurros de la musa básicos - Dote 4
 
 **Rasgos:** Arquetipo
 
@@ -49,7 +49,7 @@ Obtienes una dote de bardo de 1.er o de 2.º nivel.
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Susurros de la musa basicos
+**Prerrequisitos:** Susurros de la musa básicos
 
 Obtienes una dote de bardo. A efectos de cumplir con sus prerrequisitos, tu nivel de bardo es igual a la mitad de tu nivel de personaje.
 
@@ -153,7 +153,7 @@ Puedes lanzar mas conjuros cada dia. Incrementa los espacios de conjuro que obti
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros basico de brujo, rango maestro en la habilidad asociada con la tradicion de tu patron
+**Prerrequisitos:** Lanzamiento de conjuros basico de brujo, rango maestro en la habilidad asociada con la tradición de tu patron
 
 Obtienes los beneficios de lanzamiento de conjuros experto.
 
@@ -161,39 +161,39 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros experto de brujo, rango legendario en la habilidad asociada con la tradicion de tu patron
+**Prerrequisitos:** Lanzamiento de conjuros experto de brujo, rango legendario en la habilidad asociada con la tradición de tu patron
 
 Obtienes los beneficios de lanzamiento de conjuros maestro.
 
 ---
 
-## Clerigo
+## Clérigo
 
 Has sido ordenado sacerdote de tu dios e incluso has aprendido a lanzar unos cuantos conjuros divinos. Aunque tu entrenamiento principal esta en otra parte, tu vocación religiosa te proporciona dones divinos.
 
-### Personajes multiclase clerigos
+### Personajes multiclase clérigos
 
 Aunque muchos personajes profesan tener fe en los dioses, el arquetipo clérigo representa un personaje de otra clase que ha sido reconocido por un dios en particular, que le ha concedido lanzamiento de conjuros divinos. Antes de que un personaje adopte el arquetipo clérigo es importante considerar cuales son los anatemas de su dios y si sera capaz de evitarlos. Los muchos dominios disponibles para los clérigos de los diferentes dioses presentan una amplia variedad de opciones para los conjuros de foco.
 
 - Los clérigos brujos divinos doblan como lanzadores de conjuros divinos definitivos.
 - Los clérigos marciales suelen buscar un conjuro de dominio potente o algo de curación para usar en caso de apuro.
-- Otros clérigos lanzadores de conjuros diversifican sus opciones, convirtiéndose en personajes teurgicos, que combinan dos tradiciones magicas.
+- Otros clérigos lanzadores de conjuros diversifican sus opciones, convirtiéndose en personajes teúrgicos, que combinan dos tradiciones magicas.
 
-### Dedicacion de clerigo - Dote 2
+### Dedicacion de clérigo - Dote 2
 
 **Rasgos:** Arquetipo, Dedicacion, Multiclase
 
-**Prerrequisitos:** Sabiduria +2
+**Prerrequisitos:** Sabiduría +2
 
 Lanzas conjuros como un clérigo. Obtienes la actividad Lanzar un conjuro. Puedes preparar 2 trucos comunes cada dia de la lista de conjuros divinos o cualesquiera otros trucos divinos a los que tienes acceso. Estas entrenado en las estadísticas modificador al ataque de conjuros y CD de conjuros.
 
 Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo clérigo es la Sabiduría y son conjuros de clérigo divinos. Elige un dios como varias si fueras un clérigo. Quedas vinculado a los anatemas de dicho dios y puedes recibir la santificación divina del mismo. Obtienes el rango entrenado en Religion y la habilidad asociada con tu dios; por cada una de estas habilidades en las que ya estuvieras entrenado, en su lugar obtendrían entrenamiento en una habilidad a tu elección. No obtienes ninguna otra aptitud debido a tu elección de dios.
 
-### Lanzamiento de conjuros basico de clerigo - Dote 4
+### Lanzamiento de conjuros basico de clérigo - Dote 4
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de clerigo
+**Prerrequisitos:** Dedicacion de clérigo
 
 Obtienes los beneficios de lanzamiento basico de conjuros. Puedes preparar los conjuros de tu dios en tus espacios de conjuro del rango apropiado del arquetipo clérigo.
 
@@ -201,7 +201,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros. Puedes preparar los c
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de clerigo
+**Prerrequisitos:** Dedicacion de clérigo
 
 Obtienes una dote de clérigo de 1.er o de 2.º nivel.
 
@@ -213,29 +213,29 @@ Obtienes una dote de clérigo de 1.er o de 2.º nivel.
 
 Obtienes una dote de clérigo. A efectos de cumplir con sus prerrequisitos, tu nivel de clérigo es igual a la mitad de tu nivel de personaje.
 
-**Especial:** Puedes adquirir esta dote mas de una vez. Cada vez que lo haces, obtienes otra dote de clerigo.
+**Especial:** Puedes adquirir esta dote mas de una vez. Cada vez que lo haces, obtienes otra dote de clérigo.
 
 ### Abundancia divina - Dote 8
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros basico de clerigo
+**Prerrequisitos:** Lanzamiento de conjuros basico de clérigo
 
 Conforme aumenta tu comprensión, tu dios te concede mas conjuros divinos cada dia. Incrementa los espacios de conjuro que obtienes debido a las dotes de arquetipo de clérigo en 1 por cada rango de conjuro diferente a tus dos espacios de conjuro de clérigo de mayor rango.
 
-### Lanzamiento de conjuros experto de clerigo - Dote 12
+### Lanzamiento de conjuros experto de clérigo - Dote 12
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros basico de clerigo, rango maestro en Religion
+**Prerrequisitos:** Lanzamiento de conjuros basico de clérigo, rango maestro en Religion
 
 Obtienes los beneficios de lanzamiento de conjuros experto.
 
-### Lanzamiento de conjuros maestro de clerigo - Dote 18
+### Lanzamiento de conjuros maestro de clérigo - Dote 18
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Lanzamiento de conjuros experto de clerigo, rango legendario en Religion
+**Prerrequisitos:** Lanzamiento de conjuros experto de clérigo, rango legendario en Religion
 
 Obtienes los beneficios de lanzamiento de conjuros maestro.
 
@@ -253,7 +253,7 @@ El arquetipo druida puede proporcionar un poco de curación o de dano elemental 
 
 **Rasgos:** Arquetipo, Dedicacion, Multiclase
 
-**Prerrequisitos:** Sabiduria +2
+**Prerrequisitos:** Sabiduría +2
 
 Lanzas conjuros como un druida. Obtienes la actividad Lanzar un conjuro. Puedes preparar 2 trucos comunes cada dia de la lista de conjuros primigenios o cualesquiera otros trucos primigenios a los que tienes acceso. Estas entrenado en las estadísticas modificador al ataque de conjuros y CD de conjuros. Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo druida es la Sabiduría, y son conjuros primigenios de druida.
 
@@ -331,10 +331,10 @@ El arquetipo explorador tiene acceso a unas opciones excelentes para mejorar el 
 
 - Los exploradores bardos apoyan a sus aliados y a sus compañeros animales con opciones de combate ampliadas. El conocimiento de bardo tambien puede complementar la investigación que hace el explorador de sus enemigos.
 - Los exploradores clérigos encajan particularmente con los dioses que conectan tematicamente con la Naturaleza o que tienen un arco como arma predilecta (en el caso de Errátil, las dos cosas).
-- Los exploradores druidas tienen la interaccion mas tematica con los exploradores de entre los lanzadores de conjuros, lo que te permite crear un autentico amo de las tierras virgenes.
+- Los exploradores druidas tienen la interacción mas tematica con los exploradores de entre los lanzadores de conjuros, lo que te permite crear un autentico amo de las tierras virgenes.
 - Los exploradores guerreros se cuentan entre los arqueros mas temibles, combinando las dotes de ambas clases para crear un estilo de combate unico para cada explorador guerrero. Algunos conjuros de guardian pueden ser tambien particularmente utiles para un guerrero.
 - Los exploradores picaros son excelentes francotiradores u hostigadores a distancia, y sus habilidades de picaro refuerzan de forma natural los puntos fuertes de un explorador.
-- Los exploradores brujos anaden una nueva pericia, mediante la información que pueden obtener a traves de su familiar y de su patron.
+- Los exploradores brujos añaden una nueva pericia, mediante la información que pueden obtener a traves de su familiar y de su patron.
 - Los exploradores magos se benefician en gran medida del apoyo que sus dotes proporcionan, respaldando sus conjuros con ataques con armas a distancia.
 
 ### Dedicacion de explorador - Dote 2
@@ -359,7 +359,7 @@ Obtienes una dote de explorador de 1.er o de 2.º nivel.
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de explorador, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitucion
+**Prerrequisitos:** Dedicacion de explorador, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitución
 
 Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo explorador de que dispones. Conforme continuas seleccionando dotes de clase del arquetipo explorador, continuas obteniendo Puntos de Golpe adicionales de esta forma.
 
@@ -377,7 +377,7 @@ Obtienes una dote de explorador. A efectos de cumplir con sus prerrequisitos, tu
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de explorador, rango experto en Percepcion
+**Prerrequisitos:** Dedicacion de explorador, rango experto en Percepción
 
 Tu rango de competencia en Percepción se incrementa a maestro.
 
@@ -417,7 +417,7 @@ Obtienes una dote de guerrero de 1.er o de 2.º nivel.
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Dedicacion de guerrero, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitucion
+**Prerrequisitos:** Dedicacion de guerrero, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitución
 
 Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo guerrero de que dispones. Conforme continuas seleccionando dotes de clase del arquetipo guerrero, continuas obteniendo Puntos de Golpe adicionales de esta forma.
 
@@ -473,7 +473,7 @@ Lanzas conjuros como un mago, obteniendo un libro de conjuros con 4 trucos arcan
 
 Obtienes el conjuro de escuela inicial de tu escuela. Si aun no lo tienes, obtienes una reserva de foco de 1 Punto de Foco, que puedes Reenfocar estudiando.
 
-### Arcanos basicos - Dote 4
+### Arcanos básicos - Dote 4
 
 **Rasgos:** Arquetipo
 
@@ -493,7 +493,7 @@ Obtienes los beneficios de lanzamiento de conjuros basico. Cada vez que obtienes
 
 **Rasgos:** Arquetipo
 
-**Prerrequisitos:** Arcanos basicos
+**Prerrequisitos:** Arcanos básicos
 
 Obtienes una dote de mago. A efectos de cumplir con sus prerrequisitos, tu nivel de mago es igual a la mitad de tu nivel de personaje.
 
@@ -533,7 +533,7 @@ Has aprendido a moverte con discreción, a robar y a inutilizar trampas. Con el 
 
 Casi cualquier personaje se podría beneficiar de las muchas habilidades y trucos que concede el arquetipo picaro.
 
-- Los picaros bardos expanden su robusta base de habilidades. Tambien estan bien situados para cobrar ventaja de las distracciones causadas por su Interpretación y por lo demas aplicar sus habilidades al combate.
+- Los picaros bardos expanden su robusta base de habilidades. Tambien estan bien situados para cobrar ventaja de las distracciones causadas por su Interpretación y por lo demás aplicar sus habilidades al combate.
 - Los picaros brujos aplican los maleficios de sus patrones desde las sombras y mejoran muchas de las armas sencillas en las que estan entrenados.
 - Los picaros clérigos a menudo siguen a dioses que apoyan hacer trampas en combate, como por ejemplo Calistria, aprendiendo un estilo de combate que encaja con su dios. Sin embargo, muchos clérigos pueden necesitar sigilo y trucos cuando su voz no es bienvenida.
 - Los picaros druidas pueden emboscar de otra forma a sus enemigos, pareciendo fundirse en las sombras del mundo natural.
@@ -605,12 +605,12 @@ Tu rango de competencia para las salvaciones de Reflejos se incrementa a maestro
 
 ## Resumen de arquetipos multiclase
 
-| Clase | Prerrequisito | Tradicion/Tipo | Beneficio principal |
+| Clase | Prerrequisito | Tradición/Tipo | Beneficio principal |
 |-------|---------------|----------------|---------------------|
 | Bardo | Carisma +2 | Ocultista | Conjuros de composicion, apoyo a aliados |
 | Brujo | Inteligencia +2 | Segun patron | Familiar, conjuros preparados versatiles |
-| Clerigo | Sabiduria +2 | Divino | Conjuros divinos, dominios |
-| Druida | Sabiduria +2 | Primigenio | Ordenes druidicas, conjuros de naturaleza |
+| Clérigo | Sabiduría +2 | Divino | Conjuros divinos, dominios |
+| Druida | Sabiduría +2 | Primigenio | Ordenes druidicas, conjuros de naturaleza |
 | Explorador | Destreza +2 | - | Supervivencia, combate a distancia |
 | Guerrero | Fuerza +2, Destreza +2 | - | Armas marciales, combate |
 | Mago | Inteligencia +2 | Arcano | Libro de conjuros, escuelas arcanas |

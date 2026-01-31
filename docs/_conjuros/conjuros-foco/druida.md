@@ -52,11 +52,11 @@ Curas las heridas de un animal, restableciendo al objetivo 1d8 Puntos de Golpe. 
 
 El terreno en el interior del area se transforma en una masa de peligrosas zarzas que atacan y obstaculizan a tus enemigos. Cuando Lanzas el conjuro y la primera vez que lo Mantienes cada turno en turnos subsiguientes, selecciona uno de los siguientes efectos para que tenga lugar en el area.
 
-- **Enmarañar** Los brezos se arraciman alrededor de tus enemigos, intentando retenerles. Un enemigo dentro del area (o volando como maximo a 20 pies [6 m] por encima de la misma) tiene que hacer una salvación de Reflejos. Con un fallo, sufre un penalizador -10 pies (3 m) por circunstancia a todas sus Velocidades durante 1 asalto, y con un fallo critico queda inmovilizado durante 1 asalto a menos que Huya.
-- **Muro** Un muro de espinos aparece en el area, con una duración de 1 asalto. El muro es terreno dificil mayor en lugar de terreno dificil.
-- **Obstaculizar** Los brezos giran y se entremezclan, convirtiendo toda el area en terreno dificil.
+- **Enmarañar** Los brezos se arraciman alrededor de tus enemigos, intentando retenerles. Un enemigo dentro del area (o volando como máximo a 20 pies [6 m] por encima de la misma) tiene que hacer una salvación de Reflejos. Con un fallo, sufre un penalizador -10 pies (3 m) por circunstancia a todas sus Velocidades durante 1 asalto, y con un fallo critico queda inmovilizado durante 1 asalto a menos que Huya.
+- **Muro** Un muro de espinos aparece en el area, con una duración de 1 asalto. El muro es terreno difícil mayor en lugar de terreno difícil.
+- **Obstaculizar** Los brezos giran y se entremezclan, convirtiendo toda el area en terreno difícil.
 
-Ademas, una vez por asalto puedes ordenar a los brezos que empalen a cualquier objetivo en el area (o volando como maximo a 20 pies [6 m] por encima de la misma) a quien puedes ver utilizando una sola acción, que tiene los rasgos concentrar y manipular. Haz una tirada de ataque de conjuros. Con un éxito, el objetivo sufre 10d6 dano perforante y un penalizador -10 pies (3 m) por circunstancia a todas sus Velocidades durante 1 asalto; con un fallo critico queda inmovilizado durante 1 asalto a menos que Huya.
+Ademas, una vez por asalto puedes ordenar a los brezos que empalen a cualquier objetivo en el area (o volando como máximo a 20 pies [6 m] por encima de la misma) a quien puedes ver utilizando una sola acción, que tiene los rasgos concentrar y manipular. Haz una tirada de ataque de conjuros. Con un éxito, el objetivo sufre 10d6 dano perforante y un penalizador -10 pies (3 m) por circunstancia a todas sus Velocidades durante 1 asalto; con un fallo critico queda inmovilizado durante 1 asalto a menos que Huya.
 
 ---
 
@@ -64,7 +64,7 @@ Ademas, una vez por asalto puedes ordenar a los brezos que empalen a cualquier o
 **Rasgos:** Poco comun, Concentrar, Druida, Foco, Curacion, Manipular, Planta, Vitalidad
 **Duracion:** 10 minutos
 
-Unos zarcillos se enredan en forma de cuerno de mimbre en tus manos, y de allí surge un solo fruto, nuez o pequeno producto similar. Una criatura que consume el producto mediante una acción de Interactuar recupera 1d6+4 PG. La cornucopia, asi como cualquier pieza no consumida de fruta, se marchita al final de la duración del conjuro.
+Unos zarcillos se enredan en forma de cuerno de mimbre en tus manos, y de allí surge un solo fruto, nuez o pequeno producto similar. Una criatura que consume el producto mediante una acción de Interactuar recupera 1d6+4 PG. La cornucopia, así como cualquier pieza no consumida de fruta, se marchita al final de la duración del conjuro.
 
 **Potenciado (+1)** La cornucopia produce una pieza adicional de comida. Una criatura puede consumir cualquier cantidad de comida del mismo lanzamiento con una sola accion de Interactuar. Comerse 6 piezas de producto de la cornucopia proporciona el mismo alimento que una comida completa para un humano tipico.
 
@@ -88,9 +88,9 @@ Rodeas a un enemigo con una tormenta giratoria de vientos violentos, nubes agita
 **Rasgos:** Poco comun, Aire, Concentrar, Druida, Foco, Manipular
 **Duracion:** 1 minuto
 
-Potentes vientos te llevan por los aires, otorgandote una Velocidad de vuelo igual a tu Velocidad. Cuando termina la duración de este conjuro, si aun estas volando, flotas hasta el suelo como en aterrizaje suave.
+Potentes vientos te llevan por los aires, otorgándote una Velocidad de vuelo igual a tu Velocidad. Cuando termina la duración de este conjuro, si aun estas volando, flotas hasta el suelo como en aterrizaje suave.
 
-**Potenciado (6.º)** Cuando vuelas utilizando vuelo del viento de la tormenta, ignoras el terreno dificil.
+**Potenciado (6.º)** Cuando vuelas utilizando vuelo del viento de la tormenta, ignoras el terreno difícil.
 
 ---
 
@@ -105,7 +105,7 @@ El cielo por encima de ti se oscurece en instantes, girando con nubes ominosas s
 - **Calma** No hay efecto adicional alguno.
 - **Lluvia** Lluvias torrenciales caen del cielo, extinguiendo las llamas ordinarias. Las criaturas en el area sufren un penalizador -2 por circunstancia a las pruebas de Acrobacias y de Percepción.
 - **Niebla** Se alza una densa bruma, con los efectos de niebla.
-- **Viento** Potentes vientos azotan el area en todas direcciones. Los ataques a distancia sufren un penalizador -4 por circunstancia y el area se convierte en terreno dificil para las criaturas voladoras.
+- **Viento** Potentes vientos azotan el area en todas direcciones. Los ataques a distancia sufren un penalizador -4 por circunstancia y el area se convierte en terreno difícil para las criaturas voladoras.
 
 Ademas, una vez por asalto puedes utilizar una sola acción, que tiene los rasgos concentrar y manipular, para llamar a un relámpago, que impacta en cualquier objetivo dentro del alcance al que puedes ver. Inflige 10d6 dano por electricidad al objetivo, que tiene que hacer una salvación basica de Reflejos. Con un fallo, tambien queda ensordecido durante 1 asalto.
 
@@ -117,7 +117,7 @@ Ademas, una vez por asalto puedes utilizar una sola acción, que tiene los rasgo
 **Rasgos:** Poco comun, Concentrar, Druida, Foco, Manipular, Polimorfia
 **Duracion:** variable
 
-Buscas en tu interior una parte diferente de ti mismo y la dejas en libertad, transformando tu cuerpo en otra forma. Te polimorfas en cualquier forma indicada en forma de peste, que dura 10 minutos. Todas las demas formas de forma indomita duran 1 minuto. Puedes añadir mas formas a tu lista de forma indomita mediante dotes de druida; la dote te podría conceder alguna o todas las formas de un conjuro de polimorfia determinado. Cuando te transformas en una forma concedida por un conjuro, obtienes todos los efectos de la forma elegida de una version del conjuro potenciada al rango de forma indomita. Forma indomita te permite utilizar tu propio entrenamiento como cambiaformas mas facilmente que la mayor parte de conjuros de polimorfia. Cuando eliges utilizar tu propio modificador al ataque mientras estas polimorfado en lugar del modificador al ataque por defecto de la forma, obtienes un bonificados +2 por estatus a tus tiradas de ataque.
+Buscas en tu interior una parte diferente de ti mismo y la dejas en libertad, transformando tu cuerpo en otra forma. Te polimorfas en cualquier forma indicada en forma de peste, que dura 10 minutos. Todas las demás formas de forma indomita duran 1 minuto. Puedes añadir mas formas a tu lista de forma indomita mediante dotes de druida; la dote te podría conceder alguna o todas las formas de un conjuro de polimorfia determinado. Cuando te transformas en una forma concedida por un conjuro, obtienes todos los efectos de la forma elegida de una version del conjuro potenciada al rango de forma indomita. Forma indomita te permite utilizar tu propio entrenamiento como cambiaformas mas facilmente que la mayor parte de conjuros de polimorfia. Cuando eliges utilizar tu propio modificador al ataque mientras estas polimorfado en lugar del modificador al ataque por defecto de la forma, obtienes un bonificados +2 por estatus a tus tiradas de ataque.
 
 **Potenciado (2.º)** Te puedes transformar en las formas indicadas en forma animal.
 

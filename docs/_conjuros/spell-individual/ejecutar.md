@@ -15,11 +15,11 @@ spell_level: 7
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Muerte</span>
-<span class="trait-tag">Vacio</span>
+<span class="trait-tag">Vacío</span>
 </div>
 
 ---
 
-Senalas a una criatura e invocas el final de todas las cosas. El objetivo sufre 70 dano por vacio con una salvacion basica de Fortaleza. Si el objetivo es un muerto viviente o dispone de curacion mediante el vacio de alguna otra forma, el conjuro pierde los rasgos muerte y vacio y obtiene el rasgo vitalidad, por lo que el objetivo sufre 70 dano por vitalidad con una salvacion basica de Fortaleza.
+Senalas a una criatura e invocas el final de todas las cosas. El objetivo sufre 70 dano por vacío con una salvacion basica de Fortaleza. Si el objetivo es un muerto viviente o dispone de curacion mediante el vacío de alguna otra forma, el conjuro pierde los rasgos muerte y vacío y obtiene el rasgo vitalidad, por lo que el objetivo sufre 70 dano por vitalidad con una salvacion basica de Fortaleza.
 
 **Potenciado (+1)** El dano se incrementa en 10.

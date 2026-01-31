@@ -7,11 +7,11 @@ category: equipo
 nav_order: 5
 ---
 
-Para dejar huella en el mundo necesitas el equipo adecuado, incluyendo armadura, armas y otro material. Este capitulo presenta los diversos objetos que puedes comprar durante la creacion de personaje. Por lo general suelen estar a la venta en la mayoria de ciudades y otros asentamientos grandes.
+Para dejar huella en el mundo necesitas el equipo adecuado, incluyendo armadura, armas y otro material. Este capitulo presenta los diversos objetos que puedes comprar durante la creacion de personaje. Por lo general suelen estar a la venta en la mayoría de ciudades y otros asentamientos grandes.
 
 Tu personaje empieza el juego con 15 piezas de oro (150 piezas de plata) para gastar en cualesquiera objetos comunes de este capitulo. Los de una rareza poco comun solo se pueden comprar si tienes acceso a ellos debido a aptitudes seleccionadas durante la creacion de personaje o si tu DJ te da permiso.
 
-Una vez has adquirido tu equipo inicial, hay tres formas principales de obtener nuevos objetos y equipo: los puedes encontrar durante una aventura, los puedes fabricar o elaborar utilizando la habilidad Artesania o los puedes comprar a un mercader.
+Una vez has adquirido tu equipo inicial, hay tres formas principales de obtener nuevos objetos y equipo: los puedes encontrar durante una aventura, los puedes fabricar o elaborar utilizando la habilidad Artesanía o los puedes comprar a un mercader.
 
 ---
 
@@ -28,21 +28,21 @@ Aunque en algunas zonas podrias hacer trueque de objetos valiosos, el efectivo e
 
 La **pieza de plata (pp)** es la unidad estandar de efectivo. Cada pieza de plata tiene un peso estandar en plata (que siempre es el mismo) y por eso suele ser tipicamente aceptada por cualquier mercader o reino, no importa donde ha sido acunada.
 
-La **pieza de oro (po)** se utiliza a menudo para comprar objetos magicos y otros objetos caros.
+La **pieza de oro (po)** se utiliza a menudo para comprar objetos mágicos y otros objetos caros.
 
 La **pieza de platino (ppt)** se utiliza para comprar objetos muy caros o como forma de transportar facilmente grandes cantidades de efectivo.
 
 ### Otros Tipos de Efectivo
 
-Los objetos de arte, las gemas y la materia prima (como la usada para la actividad Artesania) se pueden utilizar en gran medida como efectivo: los puedes vender al mismo Precio por el que los compras.
+Los objetos de arte, las gemas y la materia prima (como la usada para la actividad Artesanía) se pueden utilizar en gran medida como efectivo: los puedes vender al mismo Precio por el que los compras.
 
 ---
 
 ## Precio
 
-La mayoria de objetos de las siguientes tablas tienen un Precio, que es la cantidad de efectivo que cuesta tipicamente comprar dicho objeto. Un objeto con un Precio de "—" no se puede comprar. Un objeto con Precio 0 normalmente es gratuito, pero su valor podria ser mayor basado en los materiales utilizados para crearlo.
+La mayoría de objetos de las siguientes tablas tienen un Precio, que es la cantidad de efectivo que cuesta tipicamente comprar dicho objeto. Un objeto con un Precio de "—" no se puede comprar. Un objeto con Precio 0 normalmente es gratuito, pero su valor podria ser mayor basado en los materiales utilizados para crearlo.
 
-La mayoria de objetos se pueden vender por la mitad de su Precio, pero las monedas, las gemas, los objetos de arte y la materia prima (como por ejemplo los componentes para la actividad Artesania) se pueden intercambiar a Precio completo.
+La mayoría de objetos se pueden vender por la mitad de su Precio, pero las monedas, las gemas, los objetos de arte y la materia prima (como por ejemplo los componentes para la actividad Artesanía) se pueden intercambiar a Precio completo.
 
 ---
 
@@ -50,7 +50,7 @@ La mayoria de objetos se pueden vender por la mitad de su Precio, pero las moned
 
 Cada objeto tiene un nivel, que representa su complejidad y cualquier magia utilizada en su construccion. Los mas sencillos (con un nivel mas bajo) son mas faciles de construir y no puedes Elaborar objetos con un nivel superior al tuyo. Si no se indica el nivel de un objeto, su nivel es 0.
 
-Si bien los personajes pueden utilizar objetos de cualquier nivel, los DJ deberian tener en cuenta que conceder a los personajes acceso a objetos muy por encima de su nivel podria tener un impacto negativo en el juego.
+Si bien los personajes pueden utilizar objetos de cualquier nivel, los DJ deberían tener en cuenta que conceder a los personajes acceso a objetos muy por encima de su nivel podria tener un impacto negativo en el juego.
 
 ---
 
@@ -68,13 +68,13 @@ Los objetos puestos van alojados en bolsillos, saquillos de cinto, bandoleras, v
 
 ### Objetos Guardados
 
-Los objetos guardados estan en una mochila o recipiente similar, y su acceso es mas dificil.
+Los objetos guardados estan en una mochila o recipiente similar, y su acceso es mas difícil.
 
 ---
 
-## Empunar Objetos
+## Empuñar Objetos
 
-Algunas aptitudes requieren que empunes un objeto, tipicamente un arma. Empunas un objeto en cualquier momento en el que lo sostienes en el numero de manos necesarias para usarlo de forma efectiva. Cuando empunas un objeto, no te limitas a llevarlo por ahi: estas listo para utilizarlo.
+Algunas aptitudes requieren que empunes un objeto, tipicamente un arma. Empuñas un objeto en cualquier momento en el que lo sostienes en el numero de manos necesarias para usarlo de forma efectiva. Cuando empuñas un objeto, no te limitas a llevarlo por ahi: estas listo para utilizarlo.
 
 Otras aptitudes podrian requerir que te limitaras a llevarlo puesto, a sostenerlo o simplemente a tenerlo sobre tu persona.
 
@@ -84,17 +84,17 @@ Otras aptitudes podrian requerir que te limitaras a llevarlo puesto, a sostenerl
 
 Extraer un objeto puesto o cambiar la forma en que lo llevas suele requerir el uso de una accion de Interactuar (a veces la accion de Soltar).
 
-Muchas formas de usar los objetos requieren que inviertas multiples acciones. Por ejemplo, beber una pocion que llevas al cinto requiere que uses una accion de Interactuar para sacarla y una segunda para beberla, tal y como se describe en su entrada de Activar.
+Muchas formas de usar los objetos requieren que inviertas multiples acciones. Por ejemplo, beber una poción que llevas al cinto requiere que uses una accion de Interactuar para sacarla y una segunda para beberla, tal y como se describe en su entrada de Activar.
 
-El numero de manos que necesitas para Interactuar suele quedar claro y, si cambia durante la accion, esta requiere el numero maximo de manos necesarias durante la misma. En caso de que no quede claro, quien decide es el DJ.
+El numero de manos que necesitas para Interactuar suele quedar claro y, si cambia durante la accion, esta requiere el numero máximo de manos necesarias durante la misma. En caso de que no quede claro, quien decide es el DJ.
 
-Puedes desenvainar, recoger del suelo o sostener un objeto que requiere dos manos utilizando solo una mano, pero despues tienes que cambiar de agarre para sostenerlo a dos manos si pretendes empunarlo o utilizarlo.
+Puedes desenvainar, recoger del suelo o sostener un objeto que requiere dos manos utilizando solo una mano, pero después tienes que cambiar de agarre para sostenerlo a dos manos si pretendes empunarlo o utilizarlo.
 
 ### Interactuar
 
 Puedes utilizar la accion de Interactuar para:
 
-- **Sacar, guardar o intercambiar un objeto.** Para guardarlo tienes que estar empunando el objeto y para sacarlo tienes que llevarlo puesto. Intercambiar te permite guardar un objeto y sacar otro en la misma accion (como por ejemplo guardar una daga y sacar una maza). Las aptitudes que especifican que haces cuando Interactuas solo permiten esto si lo mencionan; la dote Desenvainado rapido permite a un picaro Interactuar para desenvainar un arma, pero no le permite envainarla tambien. Intercambiar te permite hacerlo con tan solo dos objetos; si estas empunando dos armas, podrias guardar una de ellas y sacar un objeto diferente, pero tendrias que guardar la segunda por separado.
+- **Sacar, guardar o intercambiar un objeto.** Para guardarlo tienes que estar empuñando el objeto y para sacarlo tienes que llevarlo puesto. Intercambiar te permite guardar un objeto y sacar otro en la misma accion (como por ejemplo guardar una daga y sacar una maza). Las aptitudes que especifican que haces cuando Interactúas solo permiten esto si lo mencionan; la dote Desenvainado rapido permite a un picaro Interactuar para desenvainar un arma, pero no le permite envainarla tambien. Intercambiar te permite hacerlo con tan solo dos objetos; si estas empuñando dos armas, podrias guardar una de ellas y sacar un objeto diferente, pero tendrías que guardar la segunda por separado.
 - **Recoger un objeto del suelo.**
 - **Dar o recoger un objeto sostenido por una criatura voluntaria.** La criatura a la que le das el objeto ha de tener una mano libre. Tambien puedes arrojar un objeto a alguien. Tipicamente tienes que tener exito en un ataque a distancia CD 15 con un incremento de rango de distancia de 10 pies (3 m) para conseguirlo.
 - **Soltar un escudo u otro objeto que llevas utilizando una mano.**
@@ -116,13 +116,13 @@ Si quieres decidir rapidamente como gastar tu dinero inicial en lo que tu clase 
 
 Un **equipo de aventurero**, que se incluye en cada equipo de clase, contiene: una mochila, un saco de dormir, 10 trozos de tiza, pedernal y acero, 50 pies (15 m) de cuerda, raciones para 2 semanas, jabon, 5 antorchas y un odre.
 
-La seccion Opciones indica objetos que no estan en el equipo de clase pero que muchos personajes de la clase podrian querer comprar.
+La sección Opciones indica objetos que no estan en el equipo de clase pero que muchos personajes de la clase podrian querer comprar.
 
 | Clase | Precio | Impedimenta | Dinero Restante | Armadura | Armas | Equipo | Opciones |
 |-------|--------|-------------|-----------------|----------|-------|--------|----------|
 | Bardo | 7 po, 5 pp, 2 pc | 4, L4 | 7 po, 4 pp, 8 pc | Cuero tachonado | Espada ropera, daga, honda con 20 balas | Equipo de aventurero, instrumento musical de mano | — |
 | Brujo | 1 po, 8 pp, 2 pc | 2, L5 | 13 po, 1 pp, 8 pc | Ropa de explorador | Baston, honda con 20 balas, hoz | Equipo de aventurero | Cacharros de cocina (1 po), material de curas (5 po) |
-| Clerigo | 1 po, 7 pp | 1, L2 | 13 po, 3 pp | Ropa de explorador | — | Equipo de aventurero, simbolo religioso (de madera) | El arma predilecta de tu dios, cota de malla (6 po), material de curas (5 po) |
+| Clérigo | 1 po, 7 pp | 1, L2 | 13 po, 3 pp | Ropa de explorador | — | Equipo de aventurero, simbolo religioso (de madera) | El arma predilecta de tu dios, cota de malla (6 po), material de curas (5 po) |
 | Druida | 4 po | 4, L4 | 11 po | Armadura de pieles | 4 jabalinas, lanza | Equipo de aventurero, simbolo primigenio | Material de curas (5 po) |
 | Explorador | 3 po, 7 pp | 2, L1 | 11 po, 3 pp | Armadura de cuero | Daga | Equipo de aventurero | Arco largo con 20 flechas (6 po, 2 pp), espada larga y escudo de acero (3 po), 2 espadas cortas (1 po, 8 pp) |
 | Guerrero | 5 po, 8 pp | 3, L2 | 9 po, 2 pp | Cota de escamas | Daga | Equipo de aventurero, garfio de abordaje | Arco largo con 20 flechas (6 po, 2 pp), mandoble (2 po), o bien espada larga y escudo de acero (3 po) |
@@ -133,7 +133,7 @@ La seccion Opciones indica objetos que no estan en el equipo de clase pero que m
 
 ## Impedimenta
 
-Cargar con objetos especialmente pesados o engorrosos puede hacer que tu movimiento sea mas dificil, igual que sobrecargarte llevando demasiado equipo. El valor de Impedimenta de un objeto refleja lo dificil que es de manejar, representando su tamano, su peso y su incomodidad en general. Si tienes un modificador por Fuerza alto, por lo general no tienes que preocuparte de la Impedimenta si no llevas encima numerosos objetos sustanciales.
+Cargar con objetos especialmente pesados o engorrosos puede hacer que tu movimiento sea mas difícil, igual que sobrecargarte llevando demasiado equipo. El valor de Impedimenta de un objeto refleja lo difícil que es de manejar, representando su tamaño, su peso y su incomodidad en general. Si tienes un modificador por Fuerza alto, por lo general no tienes que preocuparte de la Impedimenta si no llevas encima numerosos objetos sustanciales.
 
 ### Limites a la Impedimenta
 
@@ -157,13 +157,13 @@ Los objetos de Impedimenta insignificante no cuentan para tu Impedimenta a menos
 
 Por lo general, un objeto que pesa entre 5 y 10 libras (2,25 y 4,50 kg respectivamente) tiene Impedimenta 1, un objeto que pesa menos que unas pocas onzas (1 onza = 30 g) es insignificante y cualquier cosa entre ambas categorias es ligera.
 
-En particular, los objetos muy engorrosos podrian tener valores de Impedimenta mayores. Por ejemplo, una pertiga de 10 pies (3 m) no pesa demasiado, pero su longitud hace que sea dificil de transportar, por lo que su Impedimenta es 1.
+En particular, los objetos muy engorrosos podrian tener valores de Impedimenta mayores. Por ejemplo, una pertiga de 10 pies (3 m) no pesa demasiado, pero su longitud hace que sea difícil de transportar, por lo que su Impedimenta es 1.
 
 Los objetos hechos para criaturas mayores o menores tienen menor o mayor Impedimenta.
 
 ### Impedimenta de las Monedas
 
-Las monedas son una forma popular de cambio debido a su portabilidad, pero aun asi pueden llegar a pesar si llevas muchas. **Un millar de monedas de cualquier denominacion o combinacion de denominaciones cuenta como Impedimenta 1.**
+Las monedas son una forma popular de cambio debido a su portabilidad, pero aun así pueden llegar a pesar si llevas muchas. **Un millar de monedas de cualquier denominacion o combinacion de denominaciones cuenta como Impedimenta 1.**
 
 Por lo general no es necesario determinar la Impedimenta de las monedas en fracciones de 1000; simplemente redondea hacia abajo las fracciones de 1000. En otras palabras, 100 monedas no cuentan como un objeto ligero y 1999 monedas son Impedimenta 1, no 2.
 
@@ -171,7 +171,7 @@ Por lo general no es necesario determinar la Impedimenta de las monedas en fracc
 
 Podrias necesitar saber la Impedimenta de una criatura, sobre todo si tienes que sacar a alguien a cuestas. Esta tabla indica la Impedimenta tipica de una criatura, pero el DJ podria ajustar dichas cantidades.
 
-| Tamano de la Criatura | Impedimenta |
+| Tamaño de la Criatura | Impedimenta |
 |-----------------------|-------------|
 | Menudo | 1 |
 | Pequeno | 3 |
@@ -210,15 +210,15 @@ La Dureza, los Puntos de Golpe y el Umbral de rotura de un objeto suelen depende
 >
 > Una armadura rota sigue concediendo su bonificador por objeto a la CA, pero tambien impone un penalizador por estatus a la CA dependiendo de su categoria: -1 para una armadura ligera rota, -2 para una armadura intermedia rota o -3 para una armadura pesada rota.
 >
-> Un objeto roto sigue imponiendo los penalizadores y limitadores en los que normalmente se incurre por transportarlo, sostenerlo o llevarlo puesto. Por ejemplo, una armadura rota seguiria imponiendo su limite al modificador por Destreza, su penalizador a las pruebas y asi sucesivamente.
+> Un objeto roto sigue imponiendo los penalizadores y limitadores en los que normalmente se incurre por transportarlo, sostenerlo o llevarlo puesto. Por ejemplo, una armadura rota seguiria imponiendo su limite al modificador por Destreza, su penalizador a las pruebas y así sucesivamente.
 >
 > Si un efecto hace que un objeto quede automaticamente roto y este tiene mas PG que su Umbral de rotura, dicho efecto tambien reduce los PG actuales del objeto al Umbral de rotura.
 
 ### Inmunidades de Objeto
 
-Los objetos inanimados y los peligros son inmunes a los ataques no letales, la curacion, los efectos de muerte, los efectos mentales, las enfermedades, los espiritus, el sangrado, el vacio, el veneno y la vitalidad, ademas de los estados condenado, drenado, fatigado, inconsciente, indispuesto y paralizado.
+Los objetos inanimados y los peligros son inmunes a los ataques no letales, la curacion, los efectos de muerte, los efectos mentales, las enfermedades, los espiritus, el sangrado, el vacío, el veneno y la vitalidad, ademas de los estados condenado, drenado, fatigado, inconsciente, indispuesto y paralizado.
 
-Los objetos conscientes y pensantes no son inmunes a los efectos mentales. Muchos objetos son inmunes a otros estados, a discrecion del DJ. Por ejemplo, una espada no se puede mover, por lo que no puede sufrir un penalizador a su Velocidad, pero una trampa de cuchilla giratoria podria verse afectada.
+Los objetos conscientes y pensantes no son inmunes a los efectos mentales. Muchos objetos son inmunes a otros estados, a discreción del DJ. Por ejemplo, una espada no se puede mover, por lo que no puede sufrir un penalizador a su Velocidad, pero una trampa de cuchilla giratoria podria verse afectada.
 
 ---
 
@@ -240,11 +240,11 @@ Las criaturas grandes pueden llevar mas carga y las criaturas pequenas pueden ll
 
 ### Conversiones de Impedimenta
 
-Tal y como se muestra en la tabla Conversiones de Impedimenta, las criaturas Grandes o mayores se ven menos impedidas por los objetos engorrosos que las Pequenas o las Medianas. Una criatura Grande trata 10 objetos de Impedimenta 1 como Impedimenta 1; una criatura Enorme trata 10 objetos de Impedimenta 2 como Impedimenta 1; y asi sucesivamente.
+Tal y como se muestra en la tabla Conversiones de Impedimenta, las criaturas Grandes o mayores se ven menos impedidas por los objetos engorrosos que las Pequenas o las Medianas. Una criatura Grande trata 10 objetos de Impedimenta 1 como Impedimenta 1; una criatura Enorme trata 10 objetos de Impedimenta 2 como Impedimenta 1; y así sucesivamente.
 
 Una criatura Menuda trata 10 objetos de Impedimenta insignificante como Impedimenta 1. Los objetos insignificantes funcionan de forma similar: una criatura Enorme trata los objetos de Impedimenta 1 como insignificantes, por lo que puede llevar cualquier cantidad de objetos de Impedimenta 1. Una criatura Menuda no trata ningun objeto como si tuviera Impedimenta insignificante.
 
-| Tamano de la Criatura | Limite de Impedimenta | Trata como Ligera | Trata como Insignificante |
+| Tamaño de la Criatura | Limite de Impedimenta | Trata como Ligera | Trata como Insignificante |
 |-----------------------|-----------------------|-------------------|---------------------------|
 | Menudo | Mitad | — | ninguno |
 | Pequeno o Mediano | Normal | L | — |
@@ -254,11 +254,11 @@ Una criatura Menuda trata 10 objetos de Impedimenta insignificante como Impedime
 
 ### Objetos de Diferentes Tamanos
 
-Las criaturas de tamano distinto a Pequeno o Mediano necesitan objetos apropiados a su tamano. Dichos objetos tienen Impedimenta diferente y probablemente un Precio diferente.
+Las criaturas de tamaño distinto a Pequeno o Mediano necesitan objetos apropiados a su tamaño. Dichos objetos tienen Impedimenta diferente y probablemente un Precio diferente.
 
-En la mayoria de casos, las criaturas Pequenas o Medianas pueden empunar un arma Grande, aunque es engorrosa, lo que les impone el estado torpe 1, y el tamano mayor se equilibra con la dificultad de empunar el arma, por lo que no concede efecto especial alguno. La armadura de tamano Grande simplemente es demasiado grande para las criaturas Pequenas y Medianas.
+En la mayoría de casos, las criaturas Pequenas o Medianas pueden empuñar un arma Grande, aunque es engorrosa, lo que les impone el estado torpe 1, y el tamaño mayor se equilibra con la dificultad de empuñar el arma, por lo que no concede efecto especial alguno. La armadura de tamaño Grande simplemente es demasiado grande para las criaturas Pequenas y Medianas.
 
-| Tamano de la Criatura | Precio | Impedimenta | Se Vuelve Ligera | Se Vuelve Insignificante |
+| Tamaño de la Criatura | Precio | Impedimenta | Se Vuelve Ligera | Se Vuelve Insignificante |
 |-----------------------|--------|-------------|------------------|--------------------------|
 | Menudo | Normal | Mitad* | — | — |
 | Pequeno o Mediano | Normal | Normal | L | — |
@@ -268,8 +268,8 @@ En la mayoria de casos, las criaturas Pequenas o Medianas pueden empunar un arma
 
 *Un objeto que veria su Impedimenta reducida por debajo de 1 tiene Impedimenta ligera.
 
-**Ejemplo:** Un mangual del tamano de una criatura mediana tiene un Precio de 1 po e Impedimenta 1, por lo que uno construido para una criatura Enorme cuesta 4 po y tiene Impedimenta 4. Uno construido para una criatura Menuda sigue costando 1 po (debido a lo intrincado de su construccion) y tiene Impedimenta 1/2 (redondeado a Impedimenta ligera).
+**Ejemplo:** Un mangual del tamaño de una criatura mediana tiene un Precio de 1 po e Impedimenta 1, por lo que uno construido para una criatura Enorme cuesta 4 po y tiene Impedimenta 4. Uno construido para una criatura Menuda sigue costando 1 po (debido a lo intrincado de su construccion) y tiene Impedimenta 1/2 (redondeado a Impedimenta ligera).
 
-Debido a la forma en que una criatura trata la Impedimenta y que la Impedimenta del equipo de su tamano escala de la misma manera, las criaturas Menudas o Grandes (o mayores) suelen poder llevar y transportar mas o menos la misma cantidad de equipo que una criatura Mediana.
+Debido a la forma en que una criatura trata la Impedimenta y que la Impedimenta del equipo de su tamaño escala de la misma manera, las criaturas Menudas o Grandes (o mayores) suelen poder llevar y transportar mas o menos la misma cantidad de equipo que una criatura Mediana.
 
-Los objetos magicos de alto nivel que cuestan significativamente mas que 8 veces el coste de un objeto mundano utilizan su Precio de lista sin importar el tamano. Sin embargo, los materiales preciosos tienen un Precio que se basa en la Impedimenta del objeto, por lo que hay que multiplicar el valor de la Impedimenta tal y como se describe en la tabla y despues usar la formula que viene en la entrada del material para determinar el Precio del objeto.
+Los objetos mágicos de alto nivel que cuestan significativamente mas que 8 veces el coste de un objeto mundano utilizan su Precio de lista sin importar el tamaño. Sin embargo, los materiales preciosos tienen un Precio que se basa en la Impedimenta del objeto, por lo que hay que multiplicar el valor de la Impedimenta tal y como se describe en la tabla y después usar la formula que viene en la entrada del material para determinar el Precio del objeto.

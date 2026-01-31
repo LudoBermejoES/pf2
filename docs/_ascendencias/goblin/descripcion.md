@@ -17,10 +17,10 @@ Las retorcidas historias a las que se aferra otra gente no interesan a los gobli
 | Atributo | Valor |
 |----------|-------|
 | **Puntos de Golpe** | 6 |
-| **Tamano** | Pequeno |
+| **Tamaño** | Pequeno |
 | **Velocidad** | 25 pies (7,5 m) |
 | **Mejoras de Atributo** | Destreza, Carisma, Gratuita |
-| **Defecto de Atributo** | Sabiduria |
+| **Defecto de Atributo** | Sabiduría |
 | **Idiomas** | Comun, Goblin + idiomas adicionales igual a tu modificador por Inteligencia (si es positivo). Elige entre draconico, enano, gnomo, mediano, kholo, orco y cualquier otro idioma al que tienes acceso (como por ejemplo los idiomas predominantes en tu region). |
 | **Rasgos** | Goblin, Humanoide |
 | **Vision en la Penumbra** | Puedes ver en la oscuridad y en luz tenue igual de bien que en luz brillante, aunque tu vision en la oscuridad es en blanco y negro. |
@@ -28,7 +28,7 @@ Las retorcidas historias a las que se aferra otra gente no interesan a los gobli
 ## Podrias...
 
 - Luchar para demostrar que tienes un lugar entre otros pueblos civilizados, incluso a ti mismo.
-- Aliviar las pesadas cargas emocionales que llevan los demas (y divertirte) con payasadas y bromas pesadas.
+- Aliviar las pesadas cargas emocionales que llevan los demás (y divertirte) con payasadas y bromas pesadas.
 
 ## Otros probablemente...
 
@@ -43,9 +43,9 @@ Llegan a la adolescencia a los tres anos, y a la edad adulta cuatro o cinco anos
 
 ## Sociedad
 
-Los goblins tienden a acudir en manada a los lideres fuertes, formando pequenas tribus, que raramente cuentan con mas de un centenar de miembros, aunque cuanto mayor es una tribu, mas diligente tiene que ser el lider para mantener el orden, una labor notoriamente dificil. El juego y la creatividad les importan mas que la productividad o el estudio y sus campamentos explotan con canciones y risas.
+Los goblins tienden a acudir en manada a los lideres fuertes, formando pequenas tribus, que raramente cuentan con mas de un centenar de miembros, aunque cuanto mayor es una tribu, mas diligente tiene que ser el lider para mantener el orden, una labor notoriamente difícil. El juego y la creatividad les importan mas que la productividad o el estudio y sus campamentos explotan con canciones y risas.
 
-Los goblins se vinculan estrechamente con sus aliados, protegiendo ferozmente a aquellos compañeros que les han protegido o les han prestado oídos. Tienden a suponer, para protección propia, que los miembros de las ascendencias mas altas (a quienes se refieren coloquialmente como **"patilargos"**) no les van a tratar correctamente. Aprender a confiar en los patilargos es dificil para un goblin, y solo en tiempos recientes ha llegado a ser posible semejante colaboración.
+Los goblins se vinculan estrechamente con sus aliados, protegiendo ferozmente a aquellos compañeros que les han protegido o les han prestado oídos. Tienden a suponer, para protección propia, que los miembros de las ascendencias mas altas (a quienes se refieren coloquialmente como **"patilargos"**) no les van a tratar correctamente. Aprender a confiar en los patilargos es difícil para un goblin, y solo en tiempos recientes ha llegado a ser posible semejante colaboración.
 
 A los goblins les van los nombres muy sencillos. Un buen nombre debería ser facil de pronunciar, lo bastante corto como para gritarlo sin perder el aliento y tener buen sabor. Quien pone el nombre, a menudo elige una palabra que rima con algo que le gusta, para que escribir canciones sea mas facil.
 

@@ -18,7 +18,7 @@ class_name: Pícaro
 | 4 | Dote de picaro, dote de habilidad, incremento de habilidad |
 | 5 | Mejoras de atributo, dote de ascendencia, dote de habilidad, incremento de habilidad, ataque furtivo 2d6, trucos con las armas |
 | 6 | Dote de picaro, dote de habilidad, incremento de habilidad |
-| 7 | Reflejos evasivos, dote general, dote de habilidad, incremento de habilidad, sentidos vigilantes, maestria de la Percepcion, especializacion en armas |
+| 7 | Reflejos evasivos, dote general, dote de habilidad, incremento de habilidad, sentidos vigilantes, maestria de la Percepción, especialización en armas |
 | 8 | Dote de picaro, dote de habilidad, incremento de habilidad |
 | 9 | Dote de ascendencia, golpe debilitante, resiliencia de picaro, dote de habilidad, incremento de habilidad |
 | 10 | Mejoras de atributo, dote de picaro, dote de habilidad, incremento de habilidad |
@@ -26,7 +26,7 @@ class_name: Pícaro
 | 12 | Dote de picaro, dote de habilidad, incremento de habilidad |
 | 13 | Dote de ascendencia, reflejos de picaro mejorados, sentidos sensacionales, experiencia con armadura ligera, trucos maestros, dote de habilidad, incremento de habilidad |
 | 14 | Dote de picaro, dote de habilidad, incremento de habilidad |
-| 15 | Mejoras de atributo, debilitacion doble, dote general, especializacion mayor en armas, dote de habilidad, incremento de habilidad |
+| 15 | Mejoras de atributo, debilitacion doble, dote general, especialización mayor en armas, dote de habilidad, incremento de habilidad |
 | 16 | Dote de picaro, dote de habilidad, incremento de habilidad |
 | 17 | Dote de ascendencia, dote de habilidad, incremento de habilidad, mente resbaladiza, ataque furtivo 4d6 |
 | 18 | Dote de picaro, dote de habilidad, incremento de habilidad |
@@ -43,7 +43,7 @@ A continuación hay algunos términos clave que aparecen en muchos rasgos de cla
 
 **Floritura:** Las acciones con este rasgo son tecnicas especiales que requieren demasiado esfuerzo para que las lleves a cabo de forma frecuente. Solo puedes usar 1 accion con el rasgo floritura por turno.
 
-**Posicion:** Una posicion es una estrategia general de combate que inicias utilizando una accion con el rasgo posicion, y en la que permaneces durante algun tiempo. Una posicion dura hasta que te derriban, hasta que sus requisitos (si los tiene) son violados, hasta que acaba el encuentro o hasta que usas de nuevo una accion de posicion, lo que primero suceda. Una vez llevas a cabo una accion con el rasgo posicion, no puedes llevar a cabo otra durante 1 asalto. Solo puedes entrar en una posicion o estar en la misma en el modo encuentro. Puedes Deshacer una posicion.
+**Posición:** Una posición es una estrategia general de combate que inicias utilizando una accion con el rasgo posición, y en la que permaneces durante algún tiempo. Una posición dura hasta que te derriban, hasta que sus requisitos (si los tiene) son violados, hasta que acaba el encuentro o hasta que usas de nuevo una accion de posición, lo que primero suceda. Una vez llevas a cabo una accion con el rasgo posición, no puedes llevar a cabo otra durante 1 asalto. Solo puedes entrar en una posición o estar en la misma en el modo encuentro. Puedes Deshacer una posición.
 
 ---
 
@@ -57,7 +57,7 @@ Ademas de los que obtienes de tu clase a 1.er nivel, obtienes los beneficios der
 
 ### Mejoras de Atributo
 
-Ademas de lo que obtienes de tu clase a 1.er nivel, obtienes 4 mejoras de caracteristica gratuitas a diferentes modificadores por atributo.
+Ademas de lo que obtienes de tu clase a 1.er nivel, obtienes 4 mejoras de característica gratuitas a diferentes modificadores por atributo.
 
 A 5.o nivel y cada 5 niveles posteriores, tu personaje obtiene 4 mejoras gratuitas a modificadores por atributo diferentes. Si un modificador por atributo es ya +4 o mayor, se requieren 2 mejoras para incrementarlo; obtienes una mejora parcial y debes mejorar de nuevo dicho atributo en un nivel posterior para incrementarlo en 1.
 
@@ -127,13 +127,13 @@ A 1.er nivel y en cada nivel par, obtienes una dote de clase de picaro.
 
 ## Dotes de Habilidad
 
-Obtienes dotes de habilidad mas a menudo que los demas. A 1.er nivel y cada nivel posterior, obtienes una dote de habilidad. Las dotes de habilidad se encuentran en el Capitulo 4 y tienen el rasgo habilidad.
+Obtienes dotes de habilidad mas a menudo que los demás. A 1.er nivel y cada nivel posterior, obtienes una dote de habilidad. Las dotes de habilidad se encuentran en el Capitulo 4 y tienen el rasgo habilidad.
 
 ---
 
 ## Incrementos de Habilidad (2.o)
 
-Obtienes mas incrementos de habilidad que los miembros de las demas clases. A 2.o nivel y cada nivel posterior, obtienes un incremento de habilidad. Puedes utilizarlo, o bien para obtener el rango entrenado en una habilidad en la que no lo estas, o bien para obtener el rango experto en una habilidad en la que ya dispones del rango entrenado.
+Obtienes mas incrementos de habilidad que los miembros de las demás clases. A 2.o nivel y cada nivel posterior, obtienes un incremento de habilidad. Puedes utilizarlo, o bien para obtener el rango entrenado en una habilidad en la que no lo estas, o bien para obtener el rango experto en una habilidad en la que ya dispones del rango entrenado.
 
 A 7.o nivel, podras utilizar los incrementos de habilidad para alcanzar el rango maestro en una habilidad en la que ya dispongas del rango experto y a 15.o nivel podras utilizarlos para alcanzar el rango legendario en una habilidad en la que ya dispongas del rango maestro.
 
@@ -169,13 +169,13 @@ Has aprendido a moverte rapidamente para evitar las explosiones, el aliento de l
 
 ---
 
-## Maestria de la Percepcion (7.o)
+## Maestria de la Percepción (7.o)
 
 Has desarrollado una conciencia aguda y una gran atención al detalle. Tu rango de competencia para Percepción se incrementa a maestro.
 
 ---
 
-## Especializacion en Armas (7.o)
+## Especialización en Armas (7.o)
 
 Has aprendido a infligir heridas mayores con las armas que conoces mejor. Infliges 2 dano adicional con las armas y los ataques sin arma en los que tienes el rango experto. Este dano se incrementa a 3 si dispones del rango maestro y a 4 si dispones del legendario.
 
@@ -212,11 +212,11 @@ Tus técnicas son ahora mas difíciles de resistir. Tu rango de competencia para
 
 ## Reflejos de Picaro Mejorados (13.o)
 
-Esquivas el peligro hasta un grado que pocos pueden igualar. Tu rango de competencia para las salvaciones de Reflejos se incrementa a legendario. Cuando sufres un fallo critico en una salvación de Reflejos, en su lugar sufres un simple fallo. Cuando sufres un fallo en una salvación de Reflejos contra un efecto danino, tan solo sufres mitad de dano.
+Esquivas el peligro hasta un grado que pocos pueden igualar. Tu rango de competencia para las salvaciones de Reflejos se incrementa a legendario. Cuando sufres un fallo critico en una salvación de Reflejos, en su lugar sufres un simple fallo. Cuando sufres un fallo en una salvación de Reflejos contra un efecto dañino, tan solo sufres mitad de dano.
 
 ---
 
-## Leyenda de la Percepcion (13.o)
+## Leyenda de la Percepción (13.o)
 
 Notas cosas casi imposibles de percibir para una persona normal. Tu rango de competencia para la Percepción se incrementa a legendario.
 
@@ -240,7 +240,7 @@ Tus ataques oportunistas son particularmente nocivos. Cuando usas Golpe debilita
 
 ---
 
-## Especializacion Mayor en Armas (15.o)
+## Especialización Mayor en Armas (15.o)
 
 Tu dano procedente de especialización en armas se incrementa a 4 con las armas y los ataques sin arma en los que tienes el rango experto, 6 si tienes el rango maestro y 8 si tienes el rango legendario.
 

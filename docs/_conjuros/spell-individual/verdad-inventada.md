@@ -20,7 +20,7 @@ spell_level: 10
 
 ---
 
-Elige una sola declaracion que quieres que crean los objetivos. El hecho podria ser muy limitado, como por ejemplo "un dragon esta sobrevolandonos y me quiere matar"; extenso, como por ejemplo "todos los humanoides son abominaciones disfrazadas"; o conceptual, como por ejemplo "si no vivo una vida haciendo el bien, sere castigado en la otra vida". Las experiencias de cada objetivo dan color a la reaccion que tiene ante esta "verdad" y afectan a como cambia su comportamiento. Si la declaracion cambia lo que perciben, tratan el cambio como una revelacion repentina.
+Elige una sola declaracion que quieres que crean los objetivos. El hecho podria ser muy limitado, como por ejemplo "un dragon esta sobrevolandonos y me quiere matar"; extenso, como por ejemplo "todos los humanoides son abominaciones disfrazadas"; o conceptual, como por ejemplo "si no vivo una vida haciendo el bien, sere castigado en la otra vida". Las experiencias de cada objetivo dan color a la reaccion que tiene ante esta "verdad" y afectan a como cambia su comportamiento. Si la declaracion cambia lo que perciben, tratan el cambio como una revelación repentina.
 
 El efecto de conjuro depende de las salvaciones de Voluntad de los objetivos. Si el objetivo ya esta afectado por verdad inventada, tu conjuro lo contrarresta. Si la prueba de contrarrestar falla, el desenlace de la tirada de salvacion del objetivo no puede ser peor que un exito.
 

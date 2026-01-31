@@ -24,7 +24,7 @@ class_name: Bardo
 | 10 | Mejoras de atributo, dote de bardo, dote de habilidad |
 | 11 | Conjuros de 6.o nivel, experiencia en las armas de bardo, dote general, incremento de habilidad, sentidos vigilantes |
 | 12 | Dote de bardo, dote de habilidad |
-| 13 | Conjuros de 7.o nivel, dote de ascendencia, experiencia en armadura ligera, incremento de habilidad, especializacion en un arma |
+| 13 | Conjuros de 7.o nivel, dote de ascendencia, experiencia en armadura ligera, incremento de habilidad, especialización en un arma |
 | 14 | Dote de bardo, dote de habilidad |
 | 15 | Conjuros de 8.o nivel, mejoras de atributo, dote general, lanzador de conjuros maestro, incremento de habilidad |
 | 16 | Dote de bardo, dote de habilidad |
@@ -43,7 +43,7 @@ Ademas de los que obtienes de tu clase a 1.er nivel, obtienes los beneficios der
 
 ### Mejoras de Atributo
 
-Ademas de lo que obtienes de tu clase a 1.er nivel, obtienes 4 mejoras de caracteristica gratuitas a diferentes modificadores por atributo.
+Ademas de lo que obtienes de tu clase a 1.er nivel, obtienes 4 mejoras de característica gratuitas a diferentes modificadores por atributo.
 
 A 5.o nivel y cada 5 niveles posteriores, tu personaje obtiene 4 mejoras gratuitas a modificadores por atributo diferentes. Si un modificador por atributo es ya +4 o superior, hacen falta 2 mejoras para incrementarlo; obtienes una mejora parcial y debes mejorar de nuevo dicho atributo a un nivel posterior para incrementarlo en 1.
 
@@ -53,13 +53,13 @@ Extraes tu magia del conocimiento esoterico. Eres un lanzador de conjuros y pued
 
 Cada dia puedes lanzar hasta 2 conjuros de 1.er nivel. Debes conocer los conjuros para lanzarlos, y los aprendes mediante el rasgo de clase repertorio de conjuros. El numero de conjuros que puedes lanzar cada dia se denomina tus espacios de conjuro.
 
-Conforme subes de nivel como bardo, tu numero de conjuros por dia se incrementa, asi como el nivel superior de conjuros que puedes lanzar, tal y como se muestra en la tabla Conjuros de bardo por dia.
+Conforme subes de nivel como bardo, tu numero de conjuros por dia se incrementa, así como el nivel superior de conjuros que puedes lanzar, tal y como se muestra en la tabla Conjuros de bardo por dia.
 
 Algunos de tus conjuros requieren que hagas un ataque de conjuros para ver lo efectivos que son o que tus enemigos tiren contra tu CD de conjuros (tipicamente haciendo una tirada de salvación). Como quiera que tu atributo clave es el Carisma, los modificadores al ataque de conjuros y tus CD de conjuros utilizan tu modificador por Carisma.
 
 #### Potenciacion de Conjuros
 
-Cuando obtienes espacios de conjuro de 2.o nivel y superior, puedes rellenarlos con versiones mas potentes de conjuros de nivel menor. Esto incrementa el rango de conjuro, potenciandolo para que encaje con el espacio de conjuro. Has de tener un conjuro en tu repertorio al nivel que quieres lanzar para potenciarlo a dicho nivel. Muchos conjuros obtienen mejoras especificas cuando se les potencia a ciertos niveles. El rasgo de clase conjuros de signatura te permite potenciar libremente determinados conjuros.
+Cuando obtienes espacios de conjuro de 2.o nivel y superior, puedes rellenarlos con versiones mas potentes de conjuros de nivel menor. Esto incrementa el rango de conjuro, potenciándolo para que encaje con el espacio de conjuro. Has de tener un conjuro en tu repertorio al nivel que quieres lanzar para potenciarlo a dicho nivel. Muchos conjuros obtienen mejoras especificas cuando se les potencia a ciertos niveles. El rasgo de clase conjuros de signatura te permite potenciar libremente determinados conjuros.
 
 #### Trucos
 
@@ -69,7 +69,7 @@ Algunos de tus conjuros se denominan trucos. Un truco es un tipo especial de con
 
 La colección de conjuros que puedes lanzar se denomina tu repertorio de conjuros. A 1.er nivel, aprendes 2 conjuros ocultistas de 1.er nivel a tu elección y 5 trucos ocultistas tambien a tu elección. Los puedes elegir de entre los conjuros comunes de la lista de ocultismo u otros conjuros ocultistas a los que tienes acceso. Puedes lanzar cualquier conjuro de tu repertorio utilizando un espacio de conjuros de un rango de conjuro apropiado.
 
-Vas incrementando tu repertorio de conjuros conforme subes de nivel. Cada vez que obtienes un espacio de conjuro (ver la tabla Conjuros de bardo por dia) anades un conjuro del mismo nivel a tu repertorio. A 2.o nivel, seleccionas otro conjuro de 1.er nivel; a 3.er nivel, seleccionas 2 conjuros de 2.o nivel y asi sucesivamente. Cuando anades conjuros, puedes añadir una version de nivel superior de un conjuro que ya tienes, para poder lanzar una version potenciada del mismo.
+Vas incrementando tu repertorio de conjuros conforme subes de nivel. Cada vez que obtienes un espacio de conjuro (ver la tabla Conjuros de bardo por dia) anades un conjuro del mismo nivel a tu repertorio. A 2.o nivel, seleccionas otro conjuro de 1.er nivel; a 3.er nivel, seleccionas 2 conjuros de 2.o nivel y así sucesivamente. Cuando anades conjuros, puedes añadir una version de nivel superior de un conjuro que ya tienes, para poder lanzar una version potenciada del mismo.
 
 Aunque los obtienes al mismo ritmo, tus espacios de conjuro y los conjuros de tu repertorio van por separado. Si una dote u otra aptitud anade un conjuro a tu repertorio, no te concede otro espacio de conjuro y viceversa.
 
@@ -210,7 +210,7 @@ Las interpretaciones mayores requieren la comprensión de tu propia mente y una 
 
 Te has vuelto completamente competente con las armas de bardo. Tu rango de competencia para las armas marciales, las armas sencillas y los ataques sin armas se incrementa a experto. Cuando obtienes un éxito critico en una tirada de ataque utilizando una de dichas armas o un ataque sin armas mientras uno de tus compañeros esta activo, aplicas el efecto de especialización critica para dicha arma o ataque sin armas.
 
-### Dominio de la Percepcion (11.o)
+### Dominio de la Percepción (11.o)
 
 Has desarrollado una conciencia aguda y una gran atención al detalle. Tu rango de competencia para Percepción se incrementa a maestro.
 
@@ -218,7 +218,7 @@ Has desarrollado una conciencia aguda y una gran atención al detalle. Tu rango 
 
 Has aprendido a esquivar llevando armadura ligera o sin llevar armadura. Tus rangos de competencia con las armaduras ligeras y la defensa sin armaduras se incrementan a experto.
 
-### Especializacion en Armas (13.o)
+### Especialización en Armas (13.o)
 
 Has aprendido a infligir heridas mayores con las armas que conoces mejor. Infliges 2 dano adicional con las armas y los ataques sin arma en los que tienes el rango experto. Este dano se incrementa a 3 si tienes el rango maestro y a 4 si tienes el rango legendario.
 

@@ -14,7 +14,7 @@ Has aprendido a moverte con discreción, a robar y a inutilizar trampas. Con el 
 
 Casi cualquier personaje se podría beneficiar de las muchas habilidades y trucos que concede el arquetipo picaro.
 
-- Los picaros bardos expanden su robusta base de habilidades. Tambien estan bien situados para cobrar ventaja de las distracciones causadas por su Interpretación y por lo demas aplicar sus habilidades al combate.
+- Los picaros bardos expanden su robusta base de habilidades. Tambien estan bien situados para cobrar ventaja de las distracciones causadas por su Interpretación y por lo demás aplicar sus habilidades al combate.
 - Los picaros brujos aplican los maleficios de sus patrones desde las sombras y mejoran muchas de las armas sencillas en las que estan entrenados.
 - Los picaros clérigos a menudo siguen a dioses que apoyan hacer trampas en combate, como por ejemplo Calistria, aprendiendo un estilo de combate que encaja con su dios. Sin embargo, muchos clérigos pueden necesitar sigilo y trucos cuando su voz no es bienvenida.
 - Los picaros druidas pueden emboscar de otra forma a sus enemigos, pareciendo fundirse en las sombras del mundo natural.

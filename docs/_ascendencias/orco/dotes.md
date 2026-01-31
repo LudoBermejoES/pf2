@@ -63,14 +63,14 @@ La ferocidad en la batalla corre por tu sangre y te niegas a desplomarte debido 
 
 Luces cicatrices o tatuajes realzados por la marca de coraje de tu clan.
 
-**Beneficio:** Cuando seleccionas esta dote, elige una de las opciones de la tabla que viene a continuacion. Estas entrenado en la habilidad indicada y obtienes un bonificador +1 por estatus a las salvaciones contra los conjuros de la tradicion tambien indicada. Obtienes una gran marca o tatuaje en forma de emblema elegido o un concepto similar.
+**Beneficio:** Cuando seleccionas esta dote, elige una de las opciones de la tabla que viene a continuación. Estas entrenado en la habilidad indicada y obtienes un bonificador +1 por estatus a las salvaciones contra los conjuros de la tradición tambien indicada. Obtienes una gran marca o tatuaje en forma de emblema elegido o un concepto similar.
 
-| Emblema/marca de clan | Habilidad | Tradicion |
+| Emblema/marca de clan | Habilidad | Tradición |
 |-----------------------|-----------|-----------|
 | Sol ardiente | Diplomacia | Arcana |
 | Calavera | Supervivencia | Primigenia |
 | Cadaver profanado | Religion | Divina |
-| Mano vacia | Intimidacion | Ocultista |
+| Mano vacia | Intimidación | Ocultista |
 
 > El Sol ardiente podría ser una antorcha, el sol, un volcan u otro simbolo flamígero, mientras que la Mano dacia podría ser un puno o una zarpa.
 
@@ -114,7 +114,7 @@ Te defiendes contra la magia balándote en técnicas derivadas de las superstici
 
 **Prerrequisitos:** Ferocidad de orco
 
-Eres excepcionalmente dificil de matar.
+Eres excepcionalmente difícil de matar.
 
 **Beneficio:** La CD de tus pruebas de recuperacion es igual a 9 + tu valor de moribundo, o bien 8 + tu valor de moribundo si dispones de la dote general Dureza. Ademas, siempre que alguien te devuelve a la vida utilizando magia que normalmente te dejaria debilitado durante una semana (como por ejemplo revivir a los muertos o el ritual resurreccion), no sufres dicho estado.
 
@@ -167,7 +167,7 @@ Te resistes a las garras de la muerte con un vigor sobrenatural, desafiando a la
 
 Te infundes de superstición y practicas antiguos ejercicios mentales de los orcos para desprenderte de los efectos de la magia.
 
-**Beneficio:** Obtienes en todo momento un bonificador +1 por circunstancia a las tiradas de salvacion contra los conjuros y los efectos magicos.
+**Beneficio:** Obtienes en todo momento un bonificador +1 por circunstancia a las tiradas de salvacion contra los conjuros y los efectos mágicos.
 
 ---
 

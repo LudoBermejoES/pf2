@@ -14,7 +14,7 @@ spell_level: 4
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
-<span class="trait-tag">Prediccion</span>
+<span class="trait-tag">Predicción</span>
 </div>
 
 ---

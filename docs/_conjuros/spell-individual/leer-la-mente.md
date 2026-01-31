@@ -14,13 +14,13 @@ spell_level: 3
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Poco comun</span>
 <span class="trait-tag">Concentrar</span>
-<span class="trait-tag">Deteccion</span>
+<span class="trait-tag">Detección</span>
 <span class="trait-tag">Manipular</span>
 </div>
 
 ---
 
-Con un leve toque mental, tratas de leer la mente del objetivo, que tiene que hacer una salvacion de Voluntad. A continuacion, queda temporalmente inmune a tu lectura mental durante 1 hora.
+Con un leve toque mental, tratas de leer la mente del objetivo, que tiene que hacer una salvacion de Voluntad. A continuación, queda temporalmente inmune a tu lectura mental durante 1 hora.
 
 **Exito critico** El objetivo percibe vagos pensamientos superficiales de tu parte cuando Lanzas el conjuro.
 

@@ -19,7 +19,7 @@ spell_level: 5
 
 ---
 
-Envias al objetivo de vuelta a su Plano natal. El objetivo tiene que llevar a cabo una salvacion de Voluntad. Puedes invertir una accion adicional mientras Lanzas este conjuro y anadir un coste al mismo para imponer a la criatura un penalizador -2 por circunstancia a su salvacion. El coste tiene que ser un objeto especialmente elegido, que resulta anatema para la criatura. El conjuro falla si no estas en tu Plano natal cuando lo lanzas.
+Envias al objetivo de vuelta a su Plano natal. El objetivo tiene que llevar a cabo una salvacion de Voluntad. Puedes invertir una accion adicional mientras Lanzas este conjuro y añadir un coste al mismo para imponer a la criatura un penalizador -2 por circunstancia a su salvacion. El coste tiene que ser un objeto especialmente elegido, que resulta anatema para la criatura. El conjuro falla si no estas en tu Plano natal cuando lo lanzas.
 
 **Exito critico** El objetivo se resiste a ser desterrado y tu quedas aturdido 1.
 

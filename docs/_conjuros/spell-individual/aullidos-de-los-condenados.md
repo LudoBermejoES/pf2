@@ -15,7 +15,7 @@ spell_level: 9
 <span class="trait-tag">Concentrar</span>
 <span class="trait-tag">Manipular</span>
 <span class="trait-tag">Muerte</span>
-<span class="trait-tag">Vacio</span>
+<span class="trait-tag">Vacío</span>
 </div>
 
 ---

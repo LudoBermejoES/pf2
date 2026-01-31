@@ -19,7 +19,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 Tu conexión innata con la piedra te convierte en un adepto en cruzar superficies irregulares.
 
-**Beneficio:** Puedes ignorar el terreno dificil causado por la piedra (como por ejemplo los escombros o la grava) y el terreno irregular de piedra y tierra. Ademas, cuando utilizas la habilidad Acrobacias para Mantener el equilibrio en superficies estrechas o terreno irregular hecho de piedra o tierra, no estas desprevenido y cuando consigues un exito en una de estas pruebas de Acrobacias, en su lugar obtienes un exito critico.
+**Beneficio:** Puedes ignorar el terreno difícil causado por la piedra (como por ejemplo los escombros o la grava) y el terreno irregular de piedra y tierra. Ademas, cuando utilizas la habilidad Acrobacias para Mantener el equilibrio en superficies estrechas o terreno irregular hecho de piedra o tierra, no estas desprevenido y cuando consigues un exito en una de estas pruebas de Acrobacias, en su lugar obtienes un exito critico.
 
 ---
 
@@ -52,7 +52,7 @@ A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obt
 
 Has aprendido técnicas que fueron desarrolladas por tus antepasados durante sus antiguas guerras, lo que te permite vestir comodamente armaduras enormes.
 
-**Beneficio:** Ignoras la reduccion a tu Velocidad debido a cualquier armadura que llevas.
+**Beneficio:** Ignoras la reducción a tu Velocidad debido a cualquier armadura que llevas.
 
 Ademas, siempre que estas sufriendo un penalizador a tu Velocidad por algún otro motivo (por ejemplo, el estado impedido o a causa de un conjuro), resta 5 pies (1,5 m) del penalizador. Por ejemplo el estado impedido suele imponer un penalizador -10 pies (3 m) a la Velocidad, pero esta dote lo reduciría a un penalizador -5 pies (1,5 m). Si tu Velocidad esta sufriendo multiples penalizadores, elige solo uno para aplicar.
 
@@ -63,7 +63,7 @@ Ademas, siempre que estas sufriendo un penalizador a tu Velocidad por algún otr
 
 Entiendes la complejidad del trabajo en piedra.
 
-**Beneficio:** Obtienes el rango entrenado en Artesania. Si ya lo estabas, en su lugar obtienes la dote de habilidad Artesania especial para la canteria. Tambien obtienes un bonificador +2 por circunstancia a las pruebas de Percepcion para darte cuenta de trabajos en piedra poco usuales. Este bonificador se aplica a las pruebas para descubrir trampas mecanicas hechas de piedra u ocultas en el interior de la piedra.
+**Beneficio:** Obtienes el rango entrenado en Artesanía. Si ya lo estabas, en su lugar obtienes la dote de habilidad Artesanía especial para la canteria. Tambien obtienes un bonificador +2 por circunstancia a las pruebas de Percepción para darte cuenta de trabajos en piedra poco usuales. Este bonificador se aplica a las pruebas para descubrir trampas mecanicas hechas de piedra u ocultas en el interior de la piedra.
 
 Si no estas utilizando la acción de Buscar o registrando, el DJ hace automatica e igualmente una prueba secreta por ti para darte cuenta de que hay una canteria inusual. Esta prueba no se beneficia de su bonificados habitual por circunstancia.
 
@@ -74,7 +74,7 @@ Si no estas utilizando la acción de Buscar o registrando, el DJ hace automatica
 
 Absorbiste avidamente los viejos relatos y tradiciones de tus antepasados, tus dioses y tu gente, estudiando temas y técnicas transmitidos de generación en generación.
 
-**Beneficio:** Obtienes competencia a rango entrenado en Artesania y Religion. Si estas automaticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu eleccion.
+**Beneficio:** Obtienes competencia a rango entrenado en Artesanía y Religion. Si estas automaticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu eleccion.
 
 Obtienes tambien la dote general Saber adicional para Saber (enanos).
 
@@ -105,11 +105,11 @@ Utilizando antiguos metodos enanos desarrollados para luchar contra los enemigos
 ### Refuerzo enano
 **Dote 5** - Enano
 
-**Prerrequisitos:** Rango experto en Artesania
+**Prerrequisitos:** Rango experto en Artesanía
 
 Puedes utilizar tu conocimiento de la ingeniería y de la metalisteria para reforzar temporalmente objetos gruesos y estructuras.
 
-**Beneficio:** Invirtiendo 1 hora de trabajo en un objeto, puedes proporcionar un bonificador +1 por circunstancia a su Dureza durante 24 horas. Si tienes el rango maestro en Artesania, el bonificador es +2, y si tienes el rango legendario, el bonificador es +3. Puedes reforzar una parte de la estructura, aunque por lo general 1 hora solo refuerza una puerta, unas cuantas ventanas u otra seccion cubica de 10 pies (3 m) de lado.
+**Beneficio:** Invirtiendo 1 hora de trabajo en un objeto, puedes proporcionar un bonificador +1 por circunstancia a su Dureza durante 24 horas. Si tienes el rango maestro en Artesanía, el bonificador es +2, y si tienes el rango legendario, el bonificador es +3. Puedes reforzar una parte de la estructura, aunque por lo general 1 hora solo refuerza una puerta, unas cuantas ventanas u otra sección cubica de 10 pies (3 m) de lado.
 
 ---
 
@@ -120,7 +120,7 @@ Puedes utilizar tu conocimiento de la ingeniería y de la metalisteria para refo
 
 Tu constitución enana te permite empujar a tus enemigos de aqui para alla, de la misma forma en que una gran roca rueda por una camara subterránea.
 
-**Beneficio:** Da un Paso al interior de la casilla de un enemigo de tu tamano o menor, y el enemigo debera moverse al espacio vacio que tiene directamente detras. El enemigo tiene que moverse incluso si haciendolo se pone en peligro. El enemigo puede hacer una salvacion de Fortaleza contra tu CD de Atletismo para bloquear tu Paso. Si la hace y no obtiene un exito critico, sufre tanto dano contundente como tu nivel mas tu modificador por Fuerza.
+**Beneficio:** Da un Paso al interior de la casilla de un enemigo de tu tamaño o menor, y el enemigo debera moverse al espacio vacío que tiene directamente detras. El enemigo tiene que moverse incluso si haciendolo se pone en peligro. El enemigo puede hacer una salvacion de Fortaleza contra tu CD de Atletismo para bloquear tu Paso. Si la hace y no obtiene un exito critico, sufre tanto dano contundente como tu nivel mas tu modificador por Fuerza.
 
 Si el enemigo no puede moverse a un espacio dacio (por ejemplo si esta rodeado de objetos sólidos u otras criaturas), tu Rodar la roca no tiene efecto alguno.
 
@@ -157,7 +157,7 @@ Si tambien dispones de la dote Dureza, los Puntos de Golpe obtenidos de ella y l
 
 Te detienes un instante para sintonizar tus sentidos con la piedra que te rodea.
 
-**Beneficio:** Hasta el inicio de tu siguiente turno, obtienes sentido de la vibracion impreciso con un rango de distancia de 20 pies (6 m).
+**Beneficio:** Hasta el inicio de tu siguiente turno, obtienes sentido de la vibración impreciso con un rango de distancia de 20 pies (6 m).
 
 ---
 
@@ -190,7 +190,7 @@ Canalizas la fuerza de la tierra que hay bajo tus pies para machacar a tus enemi
 
 Atraviesas la tierra y llevas contigo a un aliado.
 
-**Beneficio:** Obtienes una Velocidad de excavar de 15 pies (4,5 m) cuando utilizas esta actividad (si no tienes una mayor) y a continuacion, o bien das dos Zancadas, o bien Excavas dos veces. Puedes elegir un aliado voluntario adyacente a ti al inicio de tu movimiento para que se mueva contigo. Dicho aliado finaliza su movimiento una casilla detras de ti.
+**Beneficio:** Obtienes una Velocidad de excavar de 15 pies (4,5 m) cuando utilizas esta actividad (si no tienes una mayor) y a continuación, o bien das dos Zancadas, o bien Excavas dos veces. Puedes elegir un aliado voluntario adyacente a ti al inicio de tu movimiento para que se mueva contigo. Dicho aliado finaliza su movimiento una casilla detras de ti.
 
 ---
 

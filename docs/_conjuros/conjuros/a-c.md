@@ -52,7 +52,7 @@ El arma brilla con magia al tiempo que unas runas temporales se graban a lo larg
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** hasta tus siguientes preparativos diarios
 
-Te proteges a ti mismo con una energia magica brillante, obteniendo un bonificados +1 por objeto a la CA y un modificador maximo por Destreza de +5. Mientras llevas armadura mistica, utilizas tu competencia sin armadura para calcular tu CA.
+Te proteges a ti mismo con una energia magica brillante, obteniendo un bonificados +1 por objeto a la CA y un modificador máximo por Destreza de +5. Mientras llevas armadura mistica, utilizas tu competencia sin armadura para calcular tu CA.
 
 **Potenciado (4.º)** Obtienes un bonificador +1 por objeto a las tiradas de salvacion.
 
@@ -79,7 +79,7 @@ Cada vez que mantienes el conjuro, puedes repetir el ataque contra cualquier cri
 ---
 
 ## Arruinaconjuros ◆◆ [CONJURO 6]
-**Rasgos:** concentrar, fuerza, maldicion, manipular
+**Rasgos:** concentrar, fuerza, maldición, manipular
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad
@@ -88,9 +88,9 @@ Haces que cualquier conjuro lanzado sobre el objetivo descargue su energia en ol
 
 **Exito critico** El objetivo no resulta afectado.
 
-**Exito** Cuando el objetivo resulta afectado por un conjuro con duracion, sufre 2d12 daño persistente por fuerza. Cada vez que sufre daño persistente por fuerza debido a arruinaconjuros, reduce en 1 asalto la duracion restante de los conjuros que le afectan. Solo una prueba con exito de Arcanos contra tu CD de conjuros puede ayudar al objetivo a recuperarse del daño persistente; la maldicion y el daño persistente acaban despues de 1 minuto.
+**Exito** Cuando el objetivo resulta afectado por un conjuro con duracion, sufre 2d12 daño persistente por fuerza. Cada vez que sufre daño persistente por fuerza debido a arruinaconjuros, reduce en 1 asalto la duracion restante de los conjuros que le afectan. Solo una prueba con exito de Arcanos contra tu CD de conjuros puede ayudar al objetivo a recuperarse del daño persistente; la maldición y el daño persistente acaban después de 1 minuto.
 
-**Fallo** Igual que exito, pero la maldicion y el daño persistente no acaban por si solos.
+**Fallo** Igual que exito, pero la maldición y el daño persistente no acaban por si solos.
 
 **Fallo critico** Igual que fallo, pero el daño persistente por fuerza es 4d12.
 
@@ -128,7 +128,7 @@ El objetivo se ve abrumado por una risa incontrolable. Tiene que hacer una salva
 
 **Fallo** El objetivo queda lentificado 1 y no puede utilizar reacciones.
 
-**Fallo critico** El objetivo queda tumbado y no puede utilizar acciones o reacciones durante 1 asalto. A continuacion sufre los efectos de un fallo.
+**Fallo critico** El objetivo queda tumbado y no puede utilizar acciones o reacciones durante 1 asalto. A continuación sufre los efectos de un fallo.
 
 ---
 
@@ -156,7 +156,7 @@ Te introduces en la mente del objetivo y lo aturdes con una sacudida mental. La 
 ---
 
 ## Augurio [CONJURO 2]
-**Rasgos:** concentrar, manipular, prediccion
+**Rasgos:** concentrar, manipular, predicción
 **Tradiciones:** divina, ocultista
 **Lanzamiento:** 10 minutos
 
@@ -167,7 +167,7 @@ El DJ hace una prueba plana CD 6 en secreto. Con un fallo, el resultado es siemp
 ---
 
 ## Aullidos de los Condenados ◆◆ [CONJURO 9]
-**Rasgos:** auditivo, concentrar, manipular, muerte, vacio
+**Rasgos:** auditivo, concentrar, manipular, muerte, vacío
 **Tradiciones:** divina, ocultista
 **Area:** emanacion de 40 pies (12 m)
 **Defensa:** Fortaleza
@@ -206,17 +206,17 @@ Obtienes tambien las aptitudes especificas indicadas a continuación para tu dio
 
 **Calistria** Velocidad 30 pies (9 m), volar 70 pies (21 m); Cuerpo a cuerpo ◆ latigo (alcance 20 pies [6 m], desarmar, no letal, sutil), Daño 6d4+6 cortante; A distancia ◆ aguijon placentero (incremento de rango de distancia 60 pies [18 m]), Daño 6d6+ veneno.
 
-**Cayden Cailean** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignora terreno dificil y terreno dificil mayor; Cuerpo a cuerpo ◆ espada ropera (alcance 15 pies [4,5 m], letal 3d8), Daño 6d6+6 perforante; A distancia ◆ salpicadura de cerveza (incremento de rango de distancia 120 pies [36 m]), Daño 6d6+3 veneno.
+**Cayden Cailean** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignora terreno difícil y terreno difícil mayor; Cuerpo a cuerpo ◆ espada ropera (alcance 15 pies [4,5 m], letal 3d8), Daño 6d6+6 perforante; A distancia ◆ salpicadura de cerveza (incremento de rango de distancia 120 pies [36 m]), Daño 6d6+3 veneno.
 
 **Desna** Velocidad 30 pies (9 m), volar 70 pies (21 m); Cuerpo a cuerpo ◆ cuchillo de estrella (agil, alcance 15 pies [4,5 m], arrojadizo 60 pies [18 m], letal 3d4, plata, sutil), Daño 6d4+6 perforante; A distancia ◆ rayo de luna (incremento de rango de distancia 120 pies [36 m], plata), Daño 6d6+3 fuego.
 
-**Erastil** Velocidad 60 pies (18 m), volar 70 pies (21 m), ignora el terreno dificil y el terreno dificil mayor; A distancia ◆ arco largo (incremento de rango de distancia 150 pies [45 m], letal 3d8), Daño 6d8+3 perforante.
+**Erastil** Velocidad 60 pies (18 m), volar 70 pies (21 m), ignora el terreno difícil y el terreno difícil mayor; A distancia ◆ arco largo (incremento de rango de distancia 150 pies [45 m], letal 3d8), Daño 6d8+3 perforante.
 
 **Farasma** Velocidad 70 pies (21 m), volar 70 pies (21 m); Cuerpo a cuerpo ◆ daga (agil, alcance 15 pies [4,5 m], arrojadiza 40 pies [12 m], sutil), Daño 6d6+6 cortante; A distancia ◆ explosion espiral (incremento de rango de distancia 120 pies [36 m], solo daña a los muertos vivientes), Daño 6d8+3 vitalidad.
 
 **Gorum** Velocidad 70 pies (21 m), inmune a inmovilizado; Cuerpo a cuerpo ◆ mandoble (alcance 15 pies [4,5 m], versatil Per), Daño 6d12+6 cortante.
 
-**Gozreh** sin Velocidad terrestre, volar 70 pies (21 m), nadar 70 pies (21 m), ignora el terreno dificil y el terreno dificil mayor; Cuerpo a cuerpo ◆ olas (alcance 15 pies [4,5 m], arrojadiza 20 pies [6 m], empujar), Daño 6d8+6 contundente; A distancia ◆ viento (incremento de rango de distancia 120 pies [36 m], versatil electricidad), Daño 6d6+3 contundente.
+**Gozreh** sin Velocidad terrestre, volar 70 pies (21 m), nadar 70 pies (21 m), ignora el terreno difícil y el terreno difícil mayor; Cuerpo a cuerpo ◆ olas (alcance 15 pies [4,5 m], arrojadiza 20 pies [6 m], empujar), Daño 6d8+6 contundente; A distancia ◆ viento (incremento de rango de distancia 120 pies [36 m], versatil electricidad), Daño 6d6+3 contundente.
 
 **Iomedae** Velocidad 70 pies (21 m), volar 70 pies (21 m); escudo (Dureza 15, no puede resultar dañado); Cuerpo a cuerpo ◆ espada larga (alcance 15 pies [4,5 m] versatil Per), Daño 6d8+6 cortante.
 
@@ -226,19 +226,19 @@ Obtienes tambien las aptitudes especificas indicadas a continuación para tu dio
 
 **Nethys** Velocidad 70 pies (21 m), volar 70 pies (21 m); A distancia ◆ magia en bruto (incremento de rango de distancia 120 pies [36 m], versatil electricidad, frio o fuego), Daño 6d6 fuerza.
 
-**Norgorber** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignorar el terreno dificil y el terreno dificil mayor; Cuerpo a cuerpo ◆ espada corta (agil, alcance 15 pies [4,5 m], sutil, versatil Cor), Daño 6d6+6 perforante; A distancia ◆ lanzamiento de dedo negro (incremento de rango de distancia 120 pies [36 m]), Daño 6d6+3 veneno.
+**Norgorber** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignorar el terreno difícil y el terreno difícil mayor; Cuerpo a cuerpo ◆ espada corta (agil, alcance 15 pies [4,5 m], sutil, versatil Cor), Daño 6d6+6 perforante; A distancia ◆ lanzamiento de dedo negro (incremento de rango de distancia 120 pies [36 m]), Daño 6d6+3 veneno.
 
 **Rovagug** Velocidad 50 pies (15 m), excavar 30 pies (9 m), inmune a inmovilizado; Cuerpo a cuerpo ◆ mandibulas (alcance 15 pies [4,5 m]), Daño 6d12+6 perforante; Cuerpo a cuerpo ◆ pierna (agil, alcance 15 pies [4,5 m], versatil Per), Daño 6d8+6 contundente.
 
 **Sarenrae** Velocidad 30 pies (9 m), volar 70 pies (21 m); Cuerpo a cuerpo ◆ cimitarra (alcance 15 pies [4,5 m], no letal, vigorosa), Daño 6d6+6 cortante; A distancia ◆ llama eterna (incremento de rango de distancia 120 pies [36 m], no letal), Daño 6d6+3 fuego.
 
-**Shelyn** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignora el terreno dificil y el terreno dificil mayor; Cuerpo a cuerpo ◆ guja (alcance 20 pies [6 m], letal 3d8, no letal), Daño 6d8+6 cortante; A distancia ◆ melodia de la belleza interior (incremento de rango de distancia 120 pies [36 m], no letal), Daño 6d6+3 sonico.
+**Shelyn** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignora el terreno difícil y el terreno difícil mayor; Cuerpo a cuerpo ◆ guja (alcance 20 pies [6 m], letal 3d8, no letal), Daño 6d8+6 cortante; A distancia ◆ melodia de la belleza interior (incremento de rango de distancia 120 pies [36 m], no letal), Daño 6d6+3 sonico.
 
 **Torag** Velocidad 50 pies (15 m), excavar 30 pies (9 m), inmune a inmovilizado; escudo (Dureza 15, no puede resultar dañado); Cuerpo a cuerpo ◆ martillo de guerra (alcance 15 pies [4,5 m], empujar), Daño 6d8+6 contundente.
 
-**Urgathoa** Velocidad 70 pies (21 m), volar 70 pies (21 m); Cuerpo a cuerpo ◆ guadaña (alcance 15 pies [4,5 m], derribo, letal 3d10), Daño 6d10+6 cortante; A distancia ◆ plaga palida (incremento de rango de distancia 120 pies [36 m]), Daño 6d6+3 vacio.
+**Urgathoa** Velocidad 70 pies (21 m), volar 70 pies (21 m); Cuerpo a cuerpo ◆ guadaña (alcance 15 pies [4,5 m], derribo, letal 3d10), Daño 6d10+6 cortante; A distancia ◆ plaga palida (incremento de rango de distancia 120 pies [36 m]), Daño 6d6+3 vacío.
 
-**Zon-Kuthon** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignora el terreno dificil y el terreno dificil mayor; Cuerpo a cuerpo ◆ cadena armada (alcance 15 pies [4,5 m], derribo, desarmar), Daño 6d8+6 cortante; A distancia ◆ dolor de medianoche (incremento de rango de distancia 120 pies [36 m], mental, no letal), Daño 6d6+3 mental.
+**Zon-Kuthon** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignora el terreno difícil y el terreno difícil mayor; Cuerpo a cuerpo ◆ cadena armada (alcance 15 pies [4,5 m], derribo, desarmar), Daño 6d8+6 cortante; A distancia ◆ dolor de medianoche (incremento de rango de distancia 120 pies [36 m], mental, no letal), Daño 6d6+3 mental.
 
 ---
 
@@ -257,7 +257,7 @@ Una vez por asalto en turnos subsiguientes, puedes Mantener el conjuro para incr
 ## Azote de Vitalidad ◆◆ [TRUCO 1]
 **Rasgos:** concentrar, manipular, truco, vitalidad
 **Tradiciones:** divina, primigenia
-**Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura que, o bien es un muerto viviente, o por lo demas dispone de curacion por el vacio
+**Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura que, o bien es un muerto viviente, o por lo demás dispone de curacion por el vacío
 **Defensa:** Fortaleza
 
 Destruyes la esencia corrupta del objetivo con energia procedente de la Forja de la Creación. Le infliges 2d6 daño por vitalidad con una salvación basica de Fortaleza. Si la criatura falla criticamente la salvación, tambien queda debilitada 1 hasta el inicio de tu siguiente turno.
@@ -350,7 +350,7 @@ Concedes al cadaver objetivo una semblanza de vida, que utiliza para responder a
 
 **Exito critico** El objetivo puede mentir o negarse a contestar, y su espiritu te persigue durante 24 horas, irritandote y haciendo que seas incapaz de descansar durante ese tiempo.
 
-**Exito** El objetivo puede proporcionar informacion falsa o negarse a contestar a tus preguntas.
+**Exito** El objetivo puede proporcionar información falsa o negarse a contestar a tus preguntas.
 
 **Fallo** El objetivo tiene que responder con la verdad, pero sus respuestas pueden ser breves, cripticas y repetitivas. Sigue pudiendo engañarte o intentando hacer que pase el tiempo para que se acabe la duracion del conjuro antes de que puedas formular todas tus preguntas.
 
@@ -364,7 +364,7 @@ Concedes al cadaver objetivo una semblanza de vida, que utiliza para responder a
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** 1 criatura, mas cualquier numero de criaturas adicionales
 **Defensa:** Reflejos basica
 
-Descargas un poderoso rayo contra el objetivo, que inflige 8d12 daño por electricidad, con una salvación basica de Reflejos. A continuación, la electricidad salta a otra criatura a 30 pies (9 m) del primer objetivo, salta a otra criatura a 30 pies (9 m) de la segunda y asi sucesivamente. Puedes acabar la cadena en cualquier punto. No puedes designar como objetivo a la misma criatura mas de una vez y debes tener linea de efecto a todos los objetivos. Tira el daño tan solo una vez y aplicaselo a cada objetivo (reduciendolo a la mitad o doblandolo segun el resultado de su tirada de salvación). La cadena se acaba si cualquiera de los objetivos obtiene un éxito critico en su salvación.
+Descargas un poderoso rayo contra el objetivo, que inflige 8d12 daño por electricidad, con una salvación basica de Reflejos. A continuación, la electricidad salta a otra criatura a 30 pies (9 m) del primer objetivo, salta a otra criatura a 30 pies (9 m) de la segunda y así sucesivamente. Puedes acabar la cadena en cualquier punto. No puedes designar como objetivo a la misma criatura mas de una vez y debes tener linea de efecto a todos los objetivos. Tira el daño tan solo una vez y aplicaselo a cada objetivo (reduciendolo a la mitad o doblandolo segun el resultado de su tirada de salvación). La cadena se acaba si cualquiera de los objetivos obtiene un éxito critico en su salvación.
 
 **Potenciado (+1)** El daño se incrementa en 1d12.
 
@@ -419,7 +419,7 @@ La vision de una destrucción apocaliptica llena la mente de cada criatura en el
 
 Te transportas de inmediato a ti mismo y a cualquier objeto que llevas puesto y que sostienes desde tu espacio actual hasta un espacio no ocupado dentro del alcance y al que puedes ver. Si esto mueve contigo a otra criatura (incluso si la llevas en un recipiente extradimensional) el conjuro se pierde.
 
-**Potenciado (5.º)** El alcance se incrementa a una milla (1,6 km). No necesitas ser capaz de ver tu destino si has estado alli en el pasado y conoces su situacion y distancia relativas. A continuacion quedas temporalmente inmune durante 1 hora.
+**Potenciado (5.º)** El alcance se incrementa a una milla (1,6 km). No necesitas ser capaz de ver tu destino si has estado allí en el pasado y conoces su situación y distancia relativas. A continuación quedas temporalmente inmune durante 1 hora.
 
 ---
 
@@ -449,7 +449,7 @@ Un campo de energia vital llena el area, exudando calidez y rejuvenecimiento a q
 
 ---
 
-## Cancion Insondable ◆◆ [CONJURO 9]
+## Canción Insondable ◆◆ [CONJURO 9]
 **Rasgos:** auditivo, concentrar, emocion, incapacitacion, manipular, mental, miedo
 **Tradiciones:** ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** hasta 5 criaturas
@@ -476,7 +476,7 @@ Notas fugaces de una canción extraña y antinatural llenan el aire, abrumando l
 ---
 
 ## Cantico del Dolor Eterno ◆◆ [CONJURO 8]
-**Rasgos:** auditivo, concentrar, emocion, maldicion, manipular, mental, miedo
+**Rasgos:** auditivo, concentrar, emocion, maldición, manipular, mental, miedo
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** variable
@@ -489,7 +489,7 @@ Creas una melodia destilada a partir del mas puro dolor, transmitiendo la perdid
 
 **Fallo** El objetivo sufre daño completo, queda asustado 3 y maldito durante 1 semana.
 
-**Fallo critico** El objetivo sufre doble daño, queda asustado 4 y maldito por tiempo ilimitado. Mientras la maldicion permanece, los aliados del objetivo tambien se ven afectados por la maldicion mientras estan a 15 pies (4,5 m) o menos de la criatura.
+**Fallo critico** El objetivo sufre doble daño, queda asustado 4 y maldito por tiempo ilimitado. Mientras la maldición permanece, los aliados del objetivo tambien se ven afectados por la maldición mientras estan a 15 pies (4,5 m) o menos de la criatura.
 
 ---
 
@@ -499,7 +499,7 @@ Creas una melodia destilada a partir del mas puro dolor, transmitiendo la perdid
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duracion:** 8 horas
 
-Refuerzas el sistema musculoesqueletico del objetivo para que sea capaz de soportar mas peso. El objetivo puede llevar 3 mas de Impedimenta de lo normal antes de quedar impedido y hasta un maximo de 6 mas de Impedimenta.
+Refuerzas el sistema musculoesqueletico del objetivo para que sea capaz de soportar mas peso. El objetivo puede llevar 3 mas de Impedimenta de lo normal antes de quedar impedido y hasta un máximo de 6 mas de Impedimenta.
 
 ---
 
@@ -519,7 +519,7 @@ Mueves el objetivo hasta 20 pies (6 m), haciendo potencialmente que flote en el 
 **Rango de distancia:** 1000 pies (300 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos basica
 
-Llamas al inimaginable poder de los cataclismos del fin del mundo, arrancando un trocito de cada uno y combinandolos en un ataque horriblemente poderoso. Los siguientes efectos les sobrevienen a todas las criaturas del area. Trata las resistencias de las criaturas del area como si fueran 10 menores a efectos de determinar el daño del cataclismo. Cada criatura hace una salvación basica de Reflejos que se aplica a todos y cada uno de los cinco tipos de daño.
+Llamas al inimaginable poder de los cataclismos del fin del mundo, arrancando un trocito de cada uno y combinándolos en un ataque horriblemente poderoso. Los siguientes efectos les sobrevienen a todas las criaturas del area. Trata las resistencias de las criaturas del area como si fueran 10 menores a efectos de determinar el daño del cataclismo. Cada criatura hace una salvación basica de Reflejos que se aplica a todos y cada uno de los cinco tipos de daño.
 
 - Una lluvia acida que disuelve la carne inflige 3d10 daño por acido.
 - Un rugiente terremoto azota y golpea a las criaturas a ras de suelo, infligiendo 3d10 daño contundente.
@@ -537,7 +537,7 @@ Llamas al inimaginable poder de los cataclismos del fin del mundo, arrancando un
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** todas las criaturas dentro del alcance
 **Defensa:** Voluntad; **Duracion:** mantenido
 
-Tus palabras fascinan a tus objetivos. Hablas o cantas sin interrupción tanto en el lanzamiento como en la duración. Los objetivos que son conscientes de tu discurso o de tu canción podrían concederte su atención univoca; cada objetivo tiene que hacer una salvación de Voluntad. El DJ podría conceder un bonificados por circunstancia (con un maximo de +4) si el objetivo es de una religion, ascendencia o tendencia politica opuesta, o por lo demas es poco probable que este de acuerdo con lo que dices.
+Tus palabras fascinan a tus objetivos. Hablas o cantas sin interrupción tanto en el lanzamiento como en la duración. Los objetivos que son conscientes de tu discurso o de tu canción podrían concederte su atención univoca; cada objetivo tiene que hacer una salvación de Voluntad. El DJ podría conceder un bonificados por circunstancia (con un máximo de +4) si el objetivo es de una religion, ascendencia o tendencia politica opuesta, o por lo demás es poco probable que este de acuerdo con lo que dices.
 
 Cada criatura que llega al alcance tiene que hacer una salvación cuando Mantienes el conjuro. Si estas hablando, cautivar obtiene el rasgo linguistico.
 
@@ -545,7 +545,7 @@ Cada criatura que llega al alcance tiene que hacer una salvación cuando Mantien
 
 **Exito** El objetivo no tiene por que prestar atencion pero no se da cuenta de que has intentado utilizar la magia (podria darse cuenta de que otros estan cautivados).
 
-**Fallo** El objetivo esta fascinado por ti. Puede hacer otra salvacion de Voluntad si es testigo de acciones o de palabras con las que esta en desacuerdo. Si tiene exito, ya no esta fascinado y queda temporalmente inmune durante 1 hora. Si el objetivo es victima de una accion hostil o si otra criatura tiene exito en una prueba de Diplomacia o de Intimidacion contra ella, la fascinacion se acaba de inmediato.
+**Fallo** El objetivo esta fascinado por ti. Puede hacer otra salvacion de Voluntad si es testigo de acciones o de palabras con las que esta en desacuerdo. Si tiene exito, ya no esta fascinado y queda temporalmente inmune durante 1 hora. Si el objetivo es victima de una accion hostil o si otra criatura tiene exito en una prueba de Diplomacia o de Intimidación contra ella, la fascinacion se acaba de inmediato.
 
 **Fallo critico** Igual que en fallo, pero el objetivo no puede hacer una salvacion para acabar con la fascinacion si esta en desacuerdo contigo.
 
@@ -609,7 +609,7 @@ Creas un ojo flotante invisible en un lugar dentro del alcance (incluso si esta 
 **Rasgos:** concentrar, ilusion, incapacitacion, manipular, visual
 **Tradiciones:** arcana, ocultista
 **Area:** cono de 15 pies (4,5 m)
-**Defensa:** Voluntad; **Duracion:** 1 o mas asaltos (ver a continuacion)
+**Defensa:** Voluntad; **Duracion:** 1 o mas asaltos (ver a continuación)
 
 Desatas una multitud giratoria de colores que abruma a las criaturas, segun sus salvaciones de Voluntad.
 
@@ -669,19 +669,19 @@ Un orbe de frio polar se forma alrededor de tu objetivo, congelando su cuerpo. E
 **Rasgos:** concentrar, manipular
 **Tradiciones:** arcana, ocultista
 
-Detienes temporalmente el tiempo para todos excepto para ti, lo que te permite utilizar varias acciones en lo que a los demas les parece que no consume tiempo alguno. Inmediatamente después de lanzar congelar el tiempo, puedes utilizar hasta 9 acciones en 3 conjuntos de hasta 3 acciones cada uno. Después de cada conjunto de acciones, pasa 1 asalto, pero solo para ti, los efectos que te designan especificamente como objetivo o que te afectan y los efectos creados por ti durante la parada. Todas las demas criaturas y objetos son invulnerables a tus ataques, y no puedes designarlos como objetivo o afectarlos con nada.
+Detienes temporalmente el tiempo para todos excepto para ti, lo que te permite utilizar varias acciones en lo que a los demás les parece que no consume tiempo alguno. Inmediatamente después de lanzar congelar el tiempo, puedes utilizar hasta 9 acciones en 3 conjuntos de hasta 3 acciones cada uno. Después de cada conjunto de acciones, pasa 1 asalto, pero solo para ti, los efectos que te designan especificamente como objetivo o que te afectan y los efectos creados por ti durante la parada. Todas las demás criaturas y objetos son invulnerables a tus ataques, y no puedes designarlos como objetivo o afectarlos con nada.
 
-Una vez has acabado tus acciones, el tiempo vuelve a fluir de nuevo para el resto del mundo. Si has creado un efecto una duración que se extiende mas alla de la de congelar el tiempo, como por ejemplo muro de fuego, afecta de nuevo y de inmediato a los demas, pero no tiene ninguno de los efectos que solo tienen lugar cuando Lanzas el conjuro por primera vez.
+Una vez has acabado tus acciones, el tiempo vuelve a fluir de nuevo para el resto del mundo. Si has creado un efecto una duración que se extiende mas alla de la de congelar el tiempo, como por ejemplo muro de fuego, afecta de nuevo y de inmediato a los demás, pero no tiene ninguno de los efectos que solo tienen lugar cuando Lanzas el conjuro por primera vez.
 
 ---
 
 ## Conocer el Camino ◆◆ [TRUCO 1]
-**Rasgos:** concentrar, deteccion, manipular, truco
+**Rasgos:** concentrar, detección, manipular, truco
 **Tradiciones:** divina, ocultista, primigenia
 
 En el ojo de tu mente, te reorientas magicamente. Sabes inmediatamente en que dirección esta el norte (si existe en tu ubicación actual), y puedes elegir una ubicación en la que estuviste en las ultimas 24 horas, averiguando en que dirección se encuentra.
 
-**Potenciado (3.º)** Puedes elegir una ubicacion en la que estuviste como maximo la semana pasada.
+**Potenciado (3.º)** Puedes elegir una ubicacion en la que estuviste como máximo la semana pasada.
 
 **Potenciado (7.º)** Puedes elegir una ubicacion en la que has estado, sin importar el tiempo transcurrido.
 
@@ -919,7 +919,7 @@ Juntas las manos en forma de cuenco y de ellas empieza a fluir el agua. Creas 2 
 **Lanzamiento:** 1 hora
 **Rango de distancia:** 30 pies (9 m)
 
-Creas suficiente comida como para alimentar a 6 criaturas Medianas durante 1 dia. Dicha comida es insipida y poco apetitosa, pero nutritiva. Al cabo de 1 dia, si nadie se la ha comido, se descompone y se vuelve incomestible. La mayoría de criaturas Pequeñas comen la cuarta parte que una criatura Mediana (y la decimosexta parte para la mayoría de criaturas Menudas), y la mayoría de criaturas Grandes comen diez veces mas (cien veces mas para criaturas Enormes y asi sucesivamente).
+Creas suficiente comida como para alimentar a 6 criaturas Medianas durante 1 dia. Dicha comida es insipida y poco apetitosa, pero nutritiva. Al cabo de 1 dia, si nadie se la ha comido, se descompone y se vuelve incomestible. La mayoría de criaturas Pequeñas comen la cuarta parte que una criatura Mediana (y la decimosexta parte para la mayoría de criaturas Menudas), y la mayoría de criaturas Grandes comen diez veces mas (cien veces mas para criaturas Enormes y así sucesivamente).
 
 **Potenciado (4.º)** Puedes alimentar a 12 criaturas Medianas.
 
@@ -935,7 +935,7 @@ Creas suficiente comida como para alimentar a 6 criaturas Medianas durante 1 dia
 **Rango de distancia:** 500 pies (150 m)
 **Duracion:** mantenido
 
-Creas una imagen ilusoria de una criatura Grande o mas pequeña. Genera los sonidos y olores apropiados, y es creíble incluso al tacto. Si la imagen y tu os llegais a separar mas de 500 pies (150 m), el conjuro se acaba.
+Creas una imagen ilusoria de una criatura Grande o mas pequeña. Genera los sonidos y olores apropiados, y es creíble incluso al tacto. Si la imagen y tu os llegáis a separar mas de 500 pies (150 m), el conjuro se acaba.
 
 La imagen no puede hablar, pero puedes utilizar tus acciones para hablar a traves de la criatura, y el conjuro disfraza tu voz de la forma mas apropiada. Puedes tener que hacer una prueba de Engaño o de Interpretación para imitar a la criatura, a juicio del DJ. Esto es especialmente probable si quieres imitar a una persona especifica e interaccionar con alguien a quien dicha persona conoce.
 
@@ -945,7 +945,7 @@ La ilusión puede causar daño haciendo que el objetivo crea que los ataques de 
 
 Cualquier criatura que toque la imagen o utilice la acción de Buscar para examinarla podrá hacer un intento de descreer tu ilusión. Cuando una criatura descree la ilusión, se recupera de la mitad del daño sufrido a causa de ella (si lo hay) y ya no sufre mas daño por ese motivo.
 
-**Potenciado (+1)** El daño de los Golpes de la imagen se incrementa en 1d4, y el tamaño maximo de criatura que puedes crear se incrementa en 1 (hasta un maximo de Gargantuesco).
+**Potenciado (+1)** El daño de los Golpes de la imagen se incrementa en 1d4, y el tamaño máximo de criatura que puedes crear se incrementa en 1 (hasta un máximo de Gargantuesco).
 
 ---
 
@@ -1038,7 +1038,7 @@ Una masa de serpientes de sombra se alza para capturar a las criaturas en el are
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** variable; **Objetivos:** 1 criatura viva voluntaria o 1 criatura muerta viviente
 
-Canalizas energia vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvación basica de Fortaleza. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demas parametros.
+Canalizas energia vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvación basica de Fortaleza. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demás parametros.
 
 **◆** El conjuro tiene un alcance de toque.
 

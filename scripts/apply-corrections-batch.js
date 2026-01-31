@@ -32,21 +32,25 @@ function processDirectory(dir) {
       let content = original;
       let replacements = 0;
 
-      // Procesar cada corrección
-      Object.entries(corrections).forEach(([sinAccento, conAccento]) => {
+      // Procesar cada corrección (mantener orden por cantidad)
+      const sortedCorrections = Object.entries(corrections)
+        .sort((a, b) => {
+          const countA = correctionsData.debenCambiar.find(c => c.word === a[0])?.count || 0;
+          const countB = correctionsData.debenCambiar.find(c => c.word === b[0])?.count || 0;
+          return countB - countA;
+        });
+
+      sortedCorrections.forEach(([sinAccento, conAccento]) => {
         // Crear regex que busque la palabra sin acento (case-insensitive)
-        // Usar word boundaries para no cambiar dentro de otras palabras
         const regex = new RegExp(`\\b${sinAccento}\\b`, 'gi');
 
         // Reemplazar todas las instancias en el contenido
-        let lastReplacements = 0;
         content = content.replace(regex, (match, offset, fullText) => {
           // Verificar si estamos dentro de un permalink o enlace
           if (isInPermalinkOrLink(fullText, offset)) {
             return match; // No cambiar
           }
           replacements++;
-          lastReplacements++;
 
           // Preservar la capitalizacion del match original
           if (match[0] === match[0].toUpperCase()) {
@@ -118,7 +122,7 @@ function isInPermalinkOrLink(text, offset) {
 }
 
 // Iniciar procesamiento
-console.log('🔄 Iniciando correcciones...\n');
+console.log('🔄 Iniciando correcciones en lote...\n');
 processDirectory(docsPath);
 
 console.log(`\n✅ Proceso completado:`);
