@@ -32,4 +32,4 @@ Si el globo se solapa con un area de luz magica o afecta a una criatura afectada
 
 **Fallo critico** La criatura sufre doble dano y queda cegada por la oscuridad, con una duracion ilimitada.
 
-**Potenciado (+1)** El dano por frio se incrementa en 1d10 y el dano por vacio contra los seres vivos se incrementa en 1d4.
+**Potenciado (+1)** El dano por frio se incrementa en 1d10 y el dano por vacío contra los seres vivos se incrementa en 1d4.

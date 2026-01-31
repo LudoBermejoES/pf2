@@ -31,4 +31,4 @@ Creas una melodia destilada a partir del mas puro dolor, transmitiendo la perdid
 
 **Fallo** El objetivo sufre daño completo, queda asustado 3 y maldito durante 1 semana.
 
-**Fallo critico** El objetivo sufre doble daño, queda asustado 4 y maldito por tiempo ilimitado. Mientras la maldicion permanece, los aliados del objetivo tambien se ven afectados por la maldicion mientras estan a 15 pies (4,5 m) o menos de la criatura.
+**Fallo critico** El objetivo sufre doble daño, queda asustado 4 y maldito por tiempo ilimitado. Mientras la maldición permanece, los aliados del objetivo tambien se ven afectados por la maldición mientras estan a 15 pies (4,5 m) o menos de la criatura.

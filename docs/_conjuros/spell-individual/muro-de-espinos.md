@@ -24,4 +24,4 @@ A lo largo de 1 minuto, haces brotar del suelo un muro de zarzas espinosas. Crea
 
 Cada seccion de 10 x 10 pies (3 x 3 m) del muro tiene CA 10, Dureza 10 y 20 Puntos de Golpe. Es inmune a los impactos criticos y al dano de precision. Una seccion destruida se puede atravesar libremente.
 
-**Potenciado (+1)** Los Puntos de Golpe de cada seccion del muro se incrementan en 5 y el dano perforante, en 1d4.
+**Potenciado (+1)** Los Puntos de Golpe de cada sección del muro se incrementan en 5 y el dano perforante, en 1d4.

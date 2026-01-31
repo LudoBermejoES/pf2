@@ -20,4 +20,4 @@ spell_level: 2
 
 ---
 
-Plantas y hongos surgen de forma espontanea o crecen rapidamente, enmaranando a las criaturas. Todas las superficies en el area se convierten en terreno dificil. Cada asalto que una criatura empieza su turno en el area tiene que hacer una salvacion de Reflejos. Con un fallo, sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades hasta que abandona el area y, con un fallo critico, queda tambien inmovilizado durante 1 asalto. Las criaturas pueden hacer una prueba de Huir para eliminar estos efectos.
+Plantas y hongos surgen de forma espontanea o crecen rapidamente, enmaranando a las criaturas. Todas las superficies en el area se convierten en terreno difícil. Cada asalto que una criatura empieza su turno en el area tiene que hacer una salvacion de Reflejos. Con un fallo, sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades hasta que abandona el area y, con un fallo critico, queda tambien inmovilizado durante 1 asalto. Las criaturas pueden hacer una prueba de Huir para eliminar estos efectos.

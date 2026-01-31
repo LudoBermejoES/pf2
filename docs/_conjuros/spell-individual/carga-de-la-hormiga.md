@@ -18,4 +18,4 @@ spell_level: 1
 
 ---
 
-Refuerzas el sistema musculoesqueletico del objetivo para que sea capaz de soportar mas peso. El objetivo puede llevar 3 mas de Impedimenta de lo normal antes de quedar impedido y hasta un maximo de 6 mas de Impedimenta.
+Refuerzas el sistema musculoesqueletico del objetivo para que sea capaz de soportar mas peso. El objetivo puede llevar 3 mas de Impedimenta de lo normal antes de quedar impedido y hasta un máximo de 6 mas de Impedimenta.

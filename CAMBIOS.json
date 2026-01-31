@@ -1,0 +1,6460 @@
+{
+  "resumen": {
+    "totalErrores": 1089,
+    "cambiosIdentificados": 580,
+    "noCambiosIdentificados": 509,
+    "porcentajeQueCambia": "53.26%",
+    "porcentajeQueNoCambia": "46.74%",
+    "palabrasParaCambiar": {
+      "eleccion": {
+        "count": 3,
+        "suggestion": "elección",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/tiempo-libre.md"
+        ]
+      },
+      "caidas": {
+        "count": 3,
+        "suggestion": "caídas",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "tratalas": {
+        "count": 1,
+        "suggestion": "tratabas",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "caida": {
+        "count": 14,
+        "suggestion": "caída",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_conjuros/conjuros/t-z.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_clases/picaro/dotes.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "artesania": {
+        "count": 11,
+        "suggestion": "Artesanía",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_habilidades/artesania.md"
+        ]
+      },
+      "alquimicas": {
+        "count": 4,
+        "suggestion": "alquímicas",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "podrian": {
+        "count": 11,
+        "suggestion": "podrían",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/exploracion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/herramientas.md",
+          "./docs/_introduccion/jugar-para-todos.md",
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "carpinteria": {
+        "count": 2,
+        "suggestion": "carpintería",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "podria": {
+        "count": 15,
+        "suggestion": "podría",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "herreria": {
+        "count": 1,
+        "suggestion": "herrería",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "acompanar": {
+        "count": 1,
+        "suggestion": "acompañar",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "investigacion": {
+        "count": 1,
+        "suggestion": "investigación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "diseno": {
+        "count": 1,
+        "suggestion": "diseño",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "alquimica": {
+        "count": 1,
+        "suggestion": "alquímica",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "maximo": {
+        "count": 3,
+        "suggestion": "máximo",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_conjuros/introduccion.md"
+        ]
+      },
+      "revendiendolas": {
+        "count": 1,
+        "suggestion": "revendiéndolas",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "algun": {
+        "count": 7,
+        "suggestion": "algún",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/jugar-para-todos.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "habrias": {
+        "count": 1,
+        "suggestion": "habrías",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "consiguiendolo": {
+        "count": 1,
+        "suggestion": "consiguiéndolo",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "creacion": {
+        "count": 10,
+        "suggestion": "creación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/herramientas.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "impresion": {
+        "count": 5,
+        "suggestion": "impresión",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "situacion": {
+        "count": 5,
+        "suggestion": "situación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/encuentros.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "conversacion": {
+        "count": 3,
+        "suggestion": "conversación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "increiblemente": {
+        "count": 1,
+        "suggestion": "increíblemente",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "despues": {
+        "count": 14,
+        "suggestion": "después",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "basandose": {
+        "count": 2,
+        "suggestion": "basando",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "vacios": {
+        "count": 1,
+        "suggestion": "vacíos",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "percepcion": {
+        "count": 7,
+        "suggestion": "Percepción",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "admiracion": {
+        "count": 1,
+        "suggestion": "admiración",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "interpretacion": {
+        "count": 6,
+        "suggestion": "Interpretación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "alli": {
+        "count": 5,
+        "suggestion": "allí",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "paises": {
+        "count": 1,
+        "suggestion": "países",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "oido": {
+        "count": 1,
+        "suggestion": "oído",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "reputacion": {
+        "count": 1,
+        "suggestion": "reputación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "disposicion": {
+        "count": 1,
+        "suggestion": "disposición",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "podian": {
+        "count": 1,
+        "suggestion": "podían",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "ubicacion": {
+        "count": 1,
+        "suggestion": "ubicación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "angeles": {
+        "count": 1,
+        "suggestion": "ángeles",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "oirte": {
+        "count": 2,
+        "suggestion": "oírte",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "aprobacion": {
+        "count": 1,
+        "suggestion": "aprobación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "intimidacion": {
+        "count": 1,
+        "suggestion": "Intimidación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "continuacion": {
+        "count": 8,
+        "suggestion": "continuación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/exploracion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "podrias": {
+        "count": 12,
+        "suggestion": "podrías",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "discrecion": {
+        "count": 1,
+        "suggestion": "discreción",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "informacion": {
+        "count": 4,
+        "suggestion": "información",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "dificil": {
+        "count": 2,
+        "suggestion": "difícil",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "ningun": {
+        "count": 1,
+        "suggestion": "ningún",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "exploracion": {
+        "count": 4,
+        "suggestion": "exploración",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/exploracion.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "terminos": {
+        "count": 2,
+        "suggestion": "términos",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/terminos-clave.md"
+        ]
+      },
+      "basicos": {
+        "count": 1,
+        "suggestion": "básicos",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "comunicacion": {
+        "count": 1,
+        "suggestion": "comunicación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "basandote": {
+        "count": 1,
+        "suggestion": "basándote",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "vegetacion": {
+        "count": 1,
+        "suggestion": "vegetación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "contorsionas": {
+        "count": 1,
+        "suggestion": "contorsiones",
+        "files": [
+          "./docs/_habilidades/acrobacias.md"
+        ]
+      },
+      "pág": {
+        "count": 30,
+        "suggestion": "pág.",
+        "files": [
+          "./docs/_habilidades/acrobacias.md",
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/religion.md",
+          "./docs/_habilidades/religion.md",
+          "./docs/_habilidades/religion.md",
+          "./docs/_habilidades/saber.md",
+          "./docs/_habilidades/saber.md",
+          "./docs/_apendices/estados-f-z.md",
+          "./docs/_apendices/estados-f-z.md",
+          "./docs/_apendices/estados-f-z.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-tiempo-libre.md",
+          "./docs/_reglas/modo-tiempo-libre.md",
+          "./docs/_reglas/modo-tiempo-libre.md",
+          "./docs/_reglas/modo-tiempo-libre.md",
+          "./docs/_ascendencias/bagajes.md"
+        ]
+      },
+      "constructos": {
+        "count": 3,
+        "suggestion": "constructor",
+        "files": [
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_reglas/puntos-golpe.md"
+        ]
+      },
+      "interactúas": {
+        "count": 1,
+        "suggestion": "Intercalas",
+        "files": [
+          "./docs/_habilidades/diplomacia.md"
+        ]
+      },
+      "interactuar": {
+        "count": 1,
+        "suggestion": "Intercalar",
+        "files": [
+          "./docs/_habilidades/engano.md"
+        ]
+      },
+      "ocultista": {
+        "count": 3,
+        "suggestion": "oculista",
+        "files": [
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/ocultismo.md"
+        ]
+      },
+      "societarios": {
+        "count": 1,
+        "suggestion": "solitarios",
+        "files": [
+          "./docs/_habilidades/sociedad.md"
+        ]
+      },
+      "humanoides": {
+        "count": 1,
+        "suggestion": "humanices",
+        "files": [
+          "./docs/_habilidades/sociedad.md"
+        ]
+      },
+      "dracónica": {
+        "count": 1,
+        "suggestion": "diacrónica",
+        "files": [
+          "./docs/_habilidades/sociedad.md"
+        ]
+      },
+      "oscurecedor": {
+        "count": 1,
+        "suggestion": "oscurecido",
+        "files": [
+          "./docs/_conjuros/conjuros-foco/brujo.md"
+        ]
+      },
+      "permanezcais": {
+        "count": 1,
+        "suggestion": "permanezcas",
+        "files": [
+          "./docs/_conjuros/conjuros/d-f.md"
+        ]
+      },
+      "podras": {
+        "count": 8,
+        "suggestion": "podrías",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_clases/bardo/caracteristicas.md",
+          "./docs/_clases/bardo/caracteristicas.md",
+          "./docs/_clases/picaro/caracteristicas.md",
+          "./docs/_clases/picaro/caracteristicas.md",
+          "./docs/_clases/arquetipos/introduccion.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "oirlas": {
+        "count": 1,
+        "suggestion": "orillas",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      },
+      "debera": {
+        "count": 1,
+        "suggestion": "debería",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      },
+      "evaporandose": {
+        "count": 1,
+        "suggestion": "evaporando",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      },
+      "otono": {
+        "count": 1,
+        "suggestion": "Otón",
+        "files": [
+          "./docs/_conjuros/rituales/rituales.md"
+        ]
+      },
+      "feerico": {
+        "count": 1,
+        "suggestion": "Federico",
+        "files": [
+          "./docs/_conjuros/rituales/rituales.md"
+        ]
+      },
+      "estadisticas": {
+        "count": 4,
+        "suggestion": "estadísticas",
+        "files": [
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/herramientas.md"
+        ]
+      },
+      "ocupacion": {
+        "count": 1,
+        "suggestion": "ocupación",
+        "files": [
+          "./docs/_introduccion/atributos.md"
+        ]
+      },
+      "profesion": {
+        "count": 4,
+        "suggestion": "profesión",
+        "files": [
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_introduccion/tiempo-libre.md",
+          "./docs/_introduccion/tiempo-libre.md"
+        ]
+      },
+      "salvacion": {
+        "count": 13,
+        "suggestion": "salvación",
+        "files": [
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "heroe": {
+        "count": 3,
+        "suggestion": "héroe",
+        "files": [
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "mecanicas": {
+        "count": 1,
+        "suggestion": "mecánicas",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "sarenrae": {
+        "count": 3,
+        "suggestion": "Saneare",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_ascendencias/orco/descripcion.md",
+          "./docs/_ascendencias/orco/index.md"
+        ]
+      },
+      "aproximacion": {
+        "count": 1,
+        "suggestion": "aproximación",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "combinacion": {
+        "count": 2,
+        "suggestion": "combinación",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "aprendio": {
+        "count": 1,
+        "suggestion": "aprendió",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "dromaar": {
+        "count": 2,
+        "suggestion": "drogar",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_ascendencias/herencias-versatiles/ascendencia-mixta.md"
+        ]
+      },
+      "seccion": {
+        "count": 1,
+        "suggestion": "sección",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "anotalas": {
+        "count": 1,
+        "suggestion": "anotadas",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "mayoria": {
+        "count": 15,
+        "suggestion": "mayoría",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "estadistica": {
+        "count": 5,
+        "suggestion": "estadística",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "tamano": {
+        "count": 7,
+        "suggestion": "tamaño",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "decidiendose": {
+        "count": 1,
+        "suggestion": "decidiendo",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "conexion": {
+        "count": 1,
+        "suggestion": "conexión",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "obtendra": {
+        "count": 1,
+        "suggestion": "obtendrá",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "poliedricos": {
+        "count": 2,
+        "suggestion": "poliédricos",
+        "files": [
+          "./docs/_introduccion/dados.md",
+          "./docs/_introduccion/herramientas.md"
+        ]
+      },
+      "actuacion": {
+        "count": 1,
+        "suggestion": "actuación",
+        "files": [
+          "./docs/_introduccion/encuentros.md"
+        ]
+      },
+      "recuperacion": {
+        "count": 1,
+        "suggestion": "recuperación",
+        "files": [
+          "./docs/_introduccion/encuentros.md"
+        ]
+      },
+      "poblacion": {
+        "count": 1,
+        "suggestion": "población",
+        "files": [
+          "./docs/_introduccion/exploracion.md"
+        ]
+      },
+      "aroden": {
+        "count": 3,
+        "suggestion": "Arden",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "murio": {
+        "count": 1,
+        "suggestion": "murió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "relojeria": {
+        "count": 2,
+        "suggestion": "relojería",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "excepcion": {
+        "count": 3,
+        "suggestion": "excepciona",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "historicas": {
+        "count": 1,
+        "suggestion": "históricas",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "terrorifico": {
+        "count": 1,
+        "suggestion": "terrorífico",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "punado": {
+        "count": 1,
+        "suggestion": "puñado",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "monton": {
+        "count": 1,
+        "suggestion": "montón",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "nacion": {
+        "count": 18,
+        "suggestion": "nación",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "victimas": {
+        "count": 2,
+        "suggestion": "víctimas",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "subacuaticas": {
+        "count": 1,
+        "suggestion": "subacuáticas",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "rapidos": {
+        "count": 1,
+        "suggestion": "rápidos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "incursores": {
+        "count": 2,
+        "suggestion": "incursiones",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "azlant": {
+        "count": 1,
+        "suggestion": "Alzan",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "navegacion": {
+        "count": 1,
+        "suggestion": "navegación",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "inhospitos": {
+        "count": 1,
+        "suggestion": "inhóspitos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "ilicitos": {
+        "count": 1,
+        "suggestion": "ilícitos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "qadira": {
+        "count": 1,
+        "suggestion": "Yadira",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "prohibio": {
+        "count": 1,
+        "suggestion": "prohibió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "tecnologicas": {
+        "count": 1,
+        "suggestion": "tecnológicas",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "arqueologo": {
+        "count": 1,
+        "suggestion": "arqueólogo",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "aullantes": {
+        "count": 1,
+        "suggestion": "aullase",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "descubrio": {
+        "count": 1,
+        "suggestion": "descubrió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "luciernaga": {
+        "count": 1,
+        "suggestion": "luciérnaga",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "carnivoros": {
+        "count": 1,
+        "suggestion": "carnívoros",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "kibwe": {
+        "count": 1,
+        "suggestion": "Kabwe",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "mzali": {
+        "count": 1,
+        "suggestion": "Malí",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "unicos": {
+        "count": 1,
+        "suggestion": "unidos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "usaro": {
+        "count": 1,
+        "suggestion": "Usar",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "vidrico": {
+        "count": 1,
+        "suggestion": "vidrio",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "consiguio": {
+        "count": 1,
+        "suggestion": "consiguió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "huracan": {
+        "count": 1,
+        "suggestion": "huracán",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "tuneles": {
+        "count": 2,
+        "suggestion": "túneles",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "subterraneos": {
+        "count": 1,
+        "suggestion": "subterráneos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "ejercitos": {
+        "count": 3,
+        "suggestion": "ejércitos",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "oprak": {
+        "count": 1,
+        "suggestion": "Oprah",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "recien": {
+        "count": 2,
+        "suggestion": "recién",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "licantropos": {
+        "count": 1,
+        "suggestion": "licántropos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "vastago": {
+        "count": 1,
+        "suggestion": "vástago",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "carmesi": {
+        "count": 1,
+        "suggestion": "Carmes",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "campeon": {
+        "count": 1,
+        "suggestion": "campeón",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "antano": {
+        "count": 3,
+        "suggestion": "antaño",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "andoran": {
+        "count": 2,
+        "suggestion": "Adoran",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_clases/mago/caracteristicas.md"
+        ]
+      },
+      "revolucion": {
+        "count": 1,
+        "suggestion": "revolución",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "taldor": {
+        "count": 1,
+        "suggestion": "Taladro",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "ocupandose": {
+        "count": 1,
+        "suggestion": "ocupantes",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "arriesgandose": {
+        "count": 1,
+        "suggestion": "arriesgando",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "senores": {
+        "count": 1,
+        "suggestion": "Señores",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "varisia": {
+        "count": 1,
+        "suggestion": "Viraría",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "extranas": {
+        "count": 1,
+        "suggestion": "extrañas",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "concedio": {
+        "count": 1,
+        "suggestion": "concedió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "atencion": {
+        "count": 2,
+        "suggestion": "atención",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "magicos": {
+        "count": 2,
+        "suggestion": "mágicos",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/tiempo-libre.md"
+        ]
+      },
+      "varisiano": {
+        "count": 1,
+        "suggestion": "vaticina",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "subditos": {
+        "count": 1,
+        "suggestion": "súbditos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "vudra": {
+        "count": 1,
+        "suggestion": "Vedra",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "nex": {
+        "count": 3,
+        "suggestion": "Ex",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_clases/mago/caracteristicas.md",
+          "./docs/_clases/mago/caracteristicas.md"
+        ]
+      },
+      "municion": {
+        "count": 1,
+        "suggestion": "punición",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "polvora": {
+        "count": 1,
+        "suggestion": "pólvora",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "muneca": {
+        "count": 1,
+        "suggestion": "muñeca",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "civilizacion": {
+        "count": 5,
+        "suggestion": "civilización",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "metalicos": {
+        "count": 2,
+        "suggestion": "metálicos",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_equipo/armaduras.md"
+        ]
+      },
+      "caidos": {
+        "count": 1,
+        "suggestion": "caídos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "mendev": {
+        "count": 1,
+        "suggestion": "Méndez",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "numeria": {
+        "count": 1,
+        "suggestion": "Numérica",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "roboticos": {
+        "count": 1,
+        "suggestion": "robotices",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "empuna": {
+        "count": 1,
+        "suggestion": "empuja",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "comprension": {
+        "count": 1,
+        "suggestion": "comprensión",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "disension": {
+        "count": 1,
+        "suggestion": "dimensión",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "isger": {
+        "count": 1,
+        "suggestion": "Isgur",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "vacio": {
+        "count": 1,
+        "suggestion": "dacio",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "suenos": {
+        "count": 3,
+        "suggestion": "buenos",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "taldano": {
+        "count": 1,
+        "suggestion": "taladro",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "anadir": {
+        "count": 3,
+        "suggestion": "añadir",
+        "files": [
+          "./docs/_introduccion/herramientas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "pasarselo": {
+        "count": 1,
+        "suggestion": "pasarela",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      },
+      "deberia": {
+        "count": 2,
+        "suggestion": "debería",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md",
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      },
+      "gustaria": {
+        "count": 1,
+        "suggestion": "gustaría",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      },
+      "deberian": {
+        "count": 1,
+        "suggestion": "deberían",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      },
+      "orientacion": {
+        "count": 1,
+        "suggestion": "orientación",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      },
+      "coordinacion": {
+        "count": 1,
+        "suggestion": "coordinación",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "intuicion": {
+        "count": 1,
+        "suggestion": "intuición",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "formacion": {
+        "count": 1,
+        "suggestion": "formación",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "clerigo": {
+        "count": 1,
+        "suggestion": "clérigo",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "progresion": {
+        "count": 1,
+        "suggestion": "progresión",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "jugable": {
+        "count": 1,
+        "suggestion": "jugarle",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "anaden": {
+        "count": 2,
+        "suggestion": "añade",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_clases/arquetipos/multiclase/explorador.md"
+        ]
+      },
+      "obstaculos": {
+        "count": 1,
+        "suggestion": "obstáculos",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "seleccion": {
+        "count": 1,
+        "suggestion": "selección",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "clerigos": {
+        "count": 1,
+        "suggestion": "clérigos",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "cooperacion": {
+        "count": 1,
+        "suggestion": "cooperación",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "guien": {
+        "count": 1,
+        "suggestion": "quien",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "cancion": {
+        "count": 1,
+        "suggestion": "canción",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "desesperacion": {
+        "count": 1,
+        "suggestion": "desesperación",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "iluminacion": {
+        "count": 1,
+        "suggestion": "iluminación",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "permitio": {
+        "count": 1,
+        "suggestion": "permitió",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "ensena": {
+        "count": 2,
+        "suggestion": "enseña",
+        "files": [
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "espiritu": {
+        "count": 2,
+        "suggestion": "espíritu",
+        "files": [
+          "./docs/_introduccion/religion.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "nethys": {
+        "count": 1,
+        "suggestion": "Tethys",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "desentranar": {
+        "count": 1,
+        "suggestion": "desentrañar",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "entendio": {
+        "count": 1,
+        "suggestion": "entendí",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "destruccion": {
+        "count": 3,
+        "suggestion": "destrucción",
+        "files": [
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "prision": {
+        "count": 1,
+        "suggestion": "presión",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "rendicion": {
+        "count": 1,
+        "suggestion": "rendición",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "convirtiendose": {
+        "count": 1,
+        "suggestion": "convirtiéndose",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "opcion": {
+        "count": 1,
+        "suggestion": "opción",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "restablecedor": {
+        "count": 1,
+        "suggestion": "restablecer",
+        "files": [
+          "./docs/_clases/brujo/caracteristicas.md"
+        ]
+      },
+      "restablecedora": {
+        "count": 1,
+        "suggestion": "establecedora",
+        "files": [
+          "./docs/_clases/clerigo/dotes.md"
+        ]
+      },
+      "reenfocas": {
+        "count": 5,
+        "suggestion": "Renazcas",
+        "files": [
+          "./docs/_clases/clerigo/dotes.md",
+          "./docs/_clases/mago/dotes.md",
+          "./docs/_clases/druida/dotes.md",
+          "./docs/_clases/explorador/dotes.md",
+          "./docs/_clases/explorador/dotes.md"
+        ]
+      },
+      "escorpion": {
+        "count": 3,
+        "suggestion": "escorpio",
+        "files": [
+          "./docs/_clases/companeros/animales.md",
+          "./docs/_clases/companeros/animales.md",
+          "./docs/_clases/companeros/animales.md"
+        ]
+      },
+      "hechizadora": {
+        "count": 2,
+        "suggestion": "hechizado",
+        "files": [
+          "./docs/_clases/bardo/descripcion.md",
+          "./docs/_clases/bardo/index.md"
+        ]
+      },
+      "haciendote": {
+        "count": 2,
+        "suggestion": "haciendo",
+        "files": [
+          "./docs/_clases/bardo/descripcion.md",
+          "./docs/_clases/bardo/index.md"
+        ]
+      },
+      "inspirandote": {
+        "count": 1,
+        "suggestion": "inspirando",
+        "files": [
+          "./docs/_clases/bardo/dotes.md"
+        ]
+      },
+      "sonicas": {
+        "count": 1,
+        "suggestion": "socias",
+        "files": [
+          "./docs/_clases/bardo/dotes.md"
+        ]
+      },
+      "desorientadores": {
+        "count": 1,
+        "suggestion": "desorientados",
+        "files": [
+          "./docs/_clases/picaro/dotes.md"
+        ]
+      },
+      "permitiendote": {
+        "count": 2,
+        "suggestion": "permitiendo",
+        "files": [
+          "./docs/_clases/mago/caracteristicas.md",
+          "./docs/_clases/explorador/dotes.md"
+        ]
+      },
+      "metalicas": {
+        "count": 4,
+        "suggestion": "metálicas",
+        "files": [
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md"
+        ]
+      },
+      "caparazon": {
+        "count": 1,
+        "suggestion": "caparazón",
+        "files": [
+          "./docs/_equipo/armaduras.md"
+        ]
+      },
+      "ponersela": {
+        "count": 1,
+        "suggestion": "ponédsela",
+        "files": [
+          "./docs/_equipo/armaduras.md"
+        ]
+      },
+      "proteccion": {
+        "count": 6,
+        "suggestion": "protección",
+        "files": [
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md"
+        ]
+      },
+      "jubon": {
+        "count": 1,
+        "suggestion": "jabón",
+        "files": [
+          "./docs/_equipo/armaduras.md"
+        ]
+      },
+      "págs": {
+        "count": 2,
+        "suggestion": "págs.",
+        "files": [
+          "./docs/_equipo/armas.md",
+          "./docs/_apendices/estados-f-z.md"
+        ]
+      },
+      "saquillos": {
+        "count": 1,
+        "suggestion": "asquillos",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "empunarlo": {
+        "count": 1,
+        "suggestion": "empurarlo",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "anadiendo": {
+        "count": 1,
+        "suggestion": "añadiendo",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "denominacion": {
+        "count": 1,
+        "suggestion": "denominación",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "tacticas": {
+        "count": 1,
+        "suggestion": "tácticas",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "reducirian": {
+        "count": 1,
+        "suggestion": "reducirían",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "combatis": {
+        "count": 1,
+        "suggestion": "combates",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "estaras": {
+        "count": 1,
+        "suggestion": "estarás",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "acuatico": {
+        "count": 1,
+        "suggestion": "acuático",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "posicion": {
+        "count": 2,
+        "suggestion": "posición",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "elevacion": {
+        "count": 2,
+        "suggestion": "elevación",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "tamanos": {
+        "count": 3,
+        "suggestion": "tamaños",
+        "files": [
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "bipedos": {
+        "count": 1,
+        "suggestion": "bípedos",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "cuadrupedos": {
+        "count": 1,
+        "suggestion": "cuadrúpedos",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "tentaculos": {
+        "count": 1,
+        "suggestion": "tentáculos",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "empujon": {
+        "count": 1,
+        "suggestion": "Empujón",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "harias": {
+        "count": 1,
+        "suggestion": "varias",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "costaria": {
+        "count": 1,
+        "suggestion": "costaría",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "exposicion": {
+        "count": 1,
+        "suggestion": "exposición",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "deteccion": {
+        "count": 1,
+        "suggestion": "detección",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "suposicion": {
+        "count": 2,
+        "suggestion": "suposición",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "corazon": {
+        "count": 1,
+        "suggestion": "corazón",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "vibracion": {
+        "count": 2,
+        "suggestion": "vibración",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "etune": {
+        "count": 2,
+        "suggestion": "Betune",
+        "files": [
+          "./docs/_ascendencias/mediano/descripcion.md",
+          "./docs/_ascendencias/mediano/index.md"
+        ]
+      },
+      "rillka": {
+        "count": 2,
+        "suggestion": "Rilke",
+        "files": [
+          "./docs/_ascendencias/mediano/descripcion.md",
+          "./docs/_ascendencias/mediano/index.md"
+        ]
+      },
+      "cailean": {
+        "count": 5,
+        "suggestion": "Calina",
+        "files": [
+          "./docs/_ascendencias/mediano/descripcion.md",
+          "./docs/_ascendencias/mediano/index.md",
+          "./docs/_ascendencias/goblin/descripcion.md",
+          "./docs/_ascendencias/gnomo/descripcion.md",
+          "./docs/_ascendencias/gnomo/index.md"
+        ]
+      },
+      "guzmuk": {
+        "count": 1,
+        "suggestion": "Guzmyuk",
+        "files": [
+          "./docs/_ascendencias/goblin/descripcion.md"
+        ]
+      },
+      "mazmord": {
+        "count": 1,
+        "suggestion": "Mazmorra",
+        "files": [
+          "./docs/_ascendencias/goblin/descripcion.md"
+        ]
+      },
+      "omgot": {
+        "count": 1,
+        "suggestion": "Ogot",
+        "files": [
+          "./docs/_ascendencias/goblin/descripcion.md"
+        ]
+      },
+      "acechante": {
+        "count": 2,
+        "suggestion": "acechan",
+        "files": [
+          "./docs/_ascendencias/leshy/descripcion.md",
+          "./docs/_ascendencias/leshy/index.md"
+        ]
+      },
+      "absorbesol": {
+        "count": 2,
+        "suggestion": "absorbeos",
+        "files": [
+          "./docs/_ascendencias/leshy/descripcion.md",
+          "./docs/_ascendencias/leshy/index.md"
+        ]
+      },
+      "shoanti": {
+        "count": 2,
+        "suggestion": "Shoantib",
+        "files": [
+          "./docs/_ascendencias/humano/descripcion.md",
+          "./docs/_ascendencias/humano/index.md"
+        ]
+      },
+      "varisianos": {
+        "count": 2,
+        "suggestion": "Vaticinamos",
+        "files": [
+          "./docs/_ascendencias/humano/descripcion.md",
+          "./docs/_ascendencias/humano/index.md"
+        ]
+      },
+      "faunra": {
+        "count": 2,
+        "suggestion": "Fauna",
+        "files": [
+          "./docs/_ascendencias/elfo/descripcion.md",
+          "./docs/_ascendencias/elfo/index.md"
+        ]
+      },
+      "lanliss": {
+        "count": 2,
+        "suggestion": "Lanillas",
+        "files": [
+          "./docs/_ascendencias/elfo/descripcion.md",
+          "./docs/_ascendencias/elfo/index.md"
+        ]
+      },
+      "seldlon": {
+        "count": 2,
+        "suggestion": "Seldglon",
+        "files": [
+          "./docs/_ascendencias/elfo/descripcion.md",
+          "./docs/_ascendencias/elfo/index.md"
+        ]
+      },
+      "abroshtor": {
+        "count": 2,
+        "suggestion": "Absortos",
+        "files": [
+          "./docs/_ascendencias/gnomo/descripcion.md",
+          "./docs/_ascendencias/gnomo/index.md"
+        ]
+      },
+      "bastargre": {
+        "count": 2,
+        "suggestion": "Bastare",
+        "files": [
+          "./docs/_ascendencias/gnomo/descripcion.md",
+          "./docs/_ascendencias/gnomo/index.md"
+        ]
+      },
+      "fijit": {
+        "count": 2,
+        "suggestion": "Fiji",
+        "files": [
+          "./docs/_ascendencias/gnomo/descripcion.md",
+          "./docs/_ascendencias/gnomo/index.md"
+        ]
+      },
+      "grillgiss": {
+        "count": 2,
+        "suggestion": "Griegos",
+        "files": [
+          "./docs/_ascendencias/orco/descripcion.md",
+          "./docs/_ascendencias/orco/index.md"
+        ]
+      },
+      "krugga": {
+        "count": 2,
+        "suggestion": "Kurda",
+        "files": [
+          "./docs/_ascendencias/orco/descripcion.md",
+          "./docs/_ascendencias/orco/index.md"
+        ]
+      },
+      "mahja": {
+        "count": 2,
+        "suggestion": "Maja",
+        "files": [
+          "./docs/_ascendencias/orco/descripcion.md",
+          "./docs/_ascendencias/orco/index.md"
+        ]
+      },
+      "calidos": {
+        "count": 2,
+        "suggestion": "caídos",
+        "files": [
+          "./docs/_ascendencias/enano/descripcion.md",
+          "./docs/_ascendencias/enano/index.md"
+        ]
+      },
+      "canteria": {
+        "count": 2,
+        "suggestion": "cantera",
+        "files": [
+          "./docs/_ascendencias/enano/descripcion.md",
+          "./docs/_ascendencias/enano/index.md"
+        ]
+      }
+    },
+    "palabrasParaNoCAmbiar": {
+      "amplian": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "otorgandote": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_conjuros/conjuros-foco/druida.md"
+        ]
+      },
+      "especificos": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/encuentros.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "tradicion": {
+        "count": 7,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "exito": {
+        "count": 50,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "basicos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "accion": {
+        "count": 75,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "direccion": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/acciones-basicas.md"
+        ]
+      },
+      "artesania": {
+        "count": 4,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "podria": {
+        "count": 14,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "magicos": {
+        "count": 4,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "podras": {
+        "count": 8,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_conjuros/conjuros/g-m.md",
+          "./docs/_conjuros/rituales/rituales.md",
+          "./docs/_clases/clerigo/caracteristicas.md",
+          "./docs/_clases/bardo/caracteristicas.md",
+          "./docs/_clases/bardo/caracteristicas.md",
+          "./docs/_clases/bardo/dotes.md"
+        ]
+      },
+      "salvacion": {
+        "count": 28,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/encuentros.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "distraccion": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "intimidacion": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "reaccion": {
+        "count": 6,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/encuentros.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "percepcion": {
+        "count": 4,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "ensenar": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "deteccion": {
+        "count": 7,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "escudrinamiento": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "prediccion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "revelacion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "discrecion": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "podrian": {
+        "count": 6,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "informacion": {
+        "count": 7,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "podrias": {
+        "count": 10,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "fenomenos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      },
+      "basandose": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "situacion": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "sabiduria": {
+        "count": 19,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "pág": {
+        "count": 22,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_habilidades/acrobacias.md",
+          "./docs/_habilidades/acrobacias.md",
+          "./docs/_habilidades/acrobacias.md",
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/atletismo.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/religion.md",
+          "./docs/_conjuros/conjuros-foco/clerigo.md",
+          "./docs/_conjuros/conjuros/n-r.md",
+          "./docs/_conjuros/conjuros/n-r.md",
+          "./docs/_reglas/cobertura-flanqueo.md",
+          "./docs/_reglas/cobertura-flanqueo.md",
+          "./docs/_reglas/efectos.md",
+          "./docs/_reglas/efectos.md",
+          "./docs/_reglas/efectos.md",
+          "./docs/_reglas/efectos.md",
+          "./docs/_reglas/efectos.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-encuentro.md"
+        ]
+      },
+      "reposicionar": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_habilidades/atletismo.md",
+          "./docs/_habilidades/atletismo.md"
+        ]
+      },
+      "interaccionas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_habilidades/engano.md"
+        ]
+      },
+      "ocultista": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/acciones/aprender-un-conjuro.md"
+        ]
+      },
+      "esperables": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_habilidades/sigilo.md"
+        ]
+      },
+      "maximo": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/introduccion.md"
+        ]
+      },
+      "asi": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/introduccion.md"
+        ]
+      },
+      "reenfocas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/introduccion.md"
+        ]
+      },
+      "origenes": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/introduccion.md"
+        ]
+      },
+      "caracteristica": {
+        "count": 1,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_conjuros/introduccion.md"
+        ]
+      },
+      "demas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/introduccion.md"
+        ]
+      },
+      "dacio": {
+        "count": 6,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/oculta.md",
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "dificil": {
+        "count": 4,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/oculta.md",
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "obligandola": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/oculta.md",
+          "./docs/_conjuros/listas/primigenia.md"
+        ]
+      },
+      "reposicionas": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "resiliencia": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md"
+        ]
+      },
+      "incorporeas": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "racheado": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md"
+        ]
+      },
+      "lentifica": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md"
+        ]
+      },
+      "descerebrado": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/divina.md"
+        ]
+      },
+      "erratica": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "desencadenante": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md"
+        ]
+      },
+      "inmovilizantes": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/primigenia.md"
+        ]
+      },
+      "indetectable": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md"
+        ]
+      },
+      "rastreais": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "caida": {
+        "count": 10,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md",
+          "./docs/_conjuros/listas/primigenia.md",
+          "./docs/_conjuros/conjuros/a-c.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "colapse": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/arcana.md"
+        ]
+      },
+      "traera": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "heroismo": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "danino": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/oculta.md"
+        ]
+      },
+      "danandolas": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/oculta.md",
+          "./docs/_conjuros/listas/primigenia.md"
+        ]
+      },
+      "danina": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/listas/primigenia.md"
+        ]
+      },
+      "cambiaformas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros-foco/druida.md"
+        ]
+      },
+      "polimorfado": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros-foco/druida.md"
+        ]
+      },
+      "combinandolos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/a-c.md"
+        ]
+      },
+      "llegais": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/a-c.md"
+        ]
+      },
+      "encerrandola": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/d-f.md"
+        ]
+      },
+      "interplanario": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/d-f.md",
+          "./docs/_conjuros/conjuros/n-r.md",
+          "./docs/_clases/clerigo/dotes.md"
+        ]
+      },
+      "obligandole": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/d-f.md"
+        ]
+      },
+      "reenfocado": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      },
+      "amontonandose": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      },
+      "subiendose": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      },
+      "impondrian": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      },
+      "aferrandose": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/conjuros/t-z.md"
+        ]
+      },
+      "haciendola": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_conjuros/rituales/rituales.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "opcion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/atributos.md"
+        ]
+      },
+      "anadir": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/atributos.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "tamano": {
+        "count": 7,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "algun": {
+        "count": 5,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "daninos": {
+        "count": 4,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/encuentros.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "clerigo": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "constitucion": {
+        "count": 14,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "cancion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "seccion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "marcandolos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      },
+      "exploracion": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/exploracion.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "extranas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "ficcion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "maldicion": {
+        "count": 2,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "rebanos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "epicos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "decadas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "canones": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      },
+      "fisicos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      },
+      "deberian": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "atraccion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "adoracion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "clerigos": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "devocion": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "sacrilegeas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "haciendolos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      },
+      "potenciandolo": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_clases/bardo/caracteristicas.md",
+          "./docs/_clases/mago/caracteristicas.md"
+        ]
+      },
+      "fortisimma": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_clases/bardo/dotes.md"
+        ]
+      },
+      "preparandoles": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_clases/bardo/dotes.md"
+        ]
+      },
+      "concediendote": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_clases/arquetipos/introduccion.md",
+          "./docs/_clases/arquetipos/introduccion.md"
+        ]
+      },
+      "teurgicos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_clases/arquetipos/multiclase/clerigo.md"
+        ]
+      },
+      "interaccion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_clases/arquetipos/multiclase/explorador.md"
+        ]
+      },
+      "piromanticas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_clases/mago/caracteristicas.md"
+        ]
+      },
+      "senescales": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_clases/druida/descripcion.md",
+          "./docs/_clases/druida/index.md"
+        ]
+      },
+      "asegurate": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_equipo/armaduras.md"
+        ]
+      },
+      "mayoria": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_equipo/armaduras.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "pocion": {
+        "count": 1,
+        "reason": "Término técnico de Pathfinder 2",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "empunando": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "interactuas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      },
+      "tendrias": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/acciones-basicas.md"
+        ]
+      },
+      "oscurecedor": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_apendices/estados-f-z.md"
+        ]
+      },
+      "empunar": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/acciones-basicas.md"
+        ]
+      },
+      "pags": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/acciones-basicas.md"
+        ]
+      },
+      "empunas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/acciones-basicas.md"
+        ]
+      },
+      "continuacion": {
+        "count": 6,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "sufrira": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "posicion": {
+        "count": 3,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/acciones-basicas.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "tendrian": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/acciones-basicas.md"
+        ]
+      },
+      "acabarian": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/acciones-basicas.md"
+        ]
+      },
+      "basandote": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "cleriga": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "requeriran": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "anaden": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "obstaculos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "alquimicas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "especializacion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      },
+      "despues": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "flamigera": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      },
+      "constructos": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/dano.md"
+        ]
+      },
+      "tactico": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "pajaro": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "tuneles": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "vibracion": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "dificiles": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "caidas": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "reduccion": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "interactuan": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "empujon": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "alli": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "vacio": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "reposicionan": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      },
+      "habitacion": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "quiza": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "ubicacion": {
+        "count": 2,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "haria": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      },
+      "dromaar": {
+        "count": 1,
+        "reason": "Parte de mecánica del juego",
+        "files": [
+          "./docs/_ascendencias/herencias-versatiles/ascendencia-mixta.md"
+        ]
+      }
+    }
+  },
+  "cambios": [
+    [
+      "eleccion",
+      {
+        "count": 3,
+        "suggestion": "elección",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/tiempo-libre.md"
+        ]
+      }
+    ],
+    [
+      "caidas",
+      {
+        "count": 3,
+        "suggestion": "caídas",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "tratalas",
+      {
+        "count": 1,
+        "suggestion": "tratabas",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "caida",
+      {
+        "count": 14,
+        "suggestion": "caída",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_conjuros/conjuros/t-z.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_clases/picaro/dotes.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "artesania",
+      {
+        "count": 11,
+        "suggestion": "Artesanía",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_habilidades/artesania.md"
+        ]
+      }
+    ],
+    [
+      "alquimicas",
+      {
+        "count": 4,
+        "suggestion": "alquímicas",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "podrian",
+      {
+        "count": 11,
+        "suggestion": "podrían",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/exploracion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/herramientas.md",
+          "./docs/_introduccion/jugar-para-todos.md",
+          "./docs/_equipo/introduccion.md"
+        ]
+      }
+    ],
+    [
+      "carpinteria",
+      {
+        "count": 2,
+        "suggestion": "carpintería",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "podria",
+      {
+        "count": 15,
+        "suggestion": "podría",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "herreria",
+      {
+        "count": 1,
+        "suggestion": "herrería",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "acompanar",
+      {
+        "count": 1,
+        "suggestion": "acompañar",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "investigacion",
+      {
+        "count": 1,
+        "suggestion": "investigación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "diseno",
+      {
+        "count": 1,
+        "suggestion": "diseño",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "alquimica",
+      {
+        "count": 1,
+        "suggestion": "alquímica",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "maximo",
+      {
+        "count": 3,
+        "suggestion": "máximo",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_conjuros/introduccion.md"
+        ]
+      }
+    ],
+    [
+      "revendiendolas",
+      {
+        "count": 1,
+        "suggestion": "revendiéndolas",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "algun",
+      {
+        "count": 7,
+        "suggestion": "algún",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/jugar-para-todos.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "habrias",
+      {
+        "count": 1,
+        "suggestion": "habrías",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "consiguiendolo",
+      {
+        "count": 1,
+        "suggestion": "consiguiéndolo",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "creacion",
+      {
+        "count": 10,
+        "suggestion": "creación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/herramientas.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md"
+        ]
+      }
+    ],
+    [
+      "impresion",
+      {
+        "count": 5,
+        "suggestion": "impresión",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "situacion",
+      {
+        "count": 5,
+        "suggestion": "situación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/encuentros.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "conversacion",
+      {
+        "count": 3,
+        "suggestion": "conversación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "increiblemente",
+      {
+        "count": 1,
+        "suggestion": "increíblemente",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "despues",
+      {
+        "count": 14,
+        "suggestion": "después",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "basandose",
+      {
+        "count": 2,
+        "suggestion": "basando",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "vacios",
+      {
+        "count": 1,
+        "suggestion": "vacíos",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "percepcion",
+      {
+        "count": 7,
+        "suggestion": "Percepción",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "admiracion",
+      {
+        "count": 1,
+        "suggestion": "admiración",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "interpretacion",
+      {
+        "count": 6,
+        "suggestion": "Interpretación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "alli",
+      {
+        "count": 5,
+        "suggestion": "allí",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "paises",
+      {
+        "count": 1,
+        "suggestion": "países",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "oido",
+      {
+        "count": 1,
+        "suggestion": "oído",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "reputacion",
+      {
+        "count": 1,
+        "suggestion": "reputación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "disposicion",
+      {
+        "count": 1,
+        "suggestion": "disposición",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "podian",
+      {
+        "count": 1,
+        "suggestion": "podían",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "ubicacion",
+      {
+        "count": 1,
+        "suggestion": "ubicación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "angeles",
+      {
+        "count": 1,
+        "suggestion": "ángeles",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "oirte",
+      {
+        "count": 2,
+        "suggestion": "oírte",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "aprobacion",
+      {
+        "count": 1,
+        "suggestion": "aprobación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "intimidacion",
+      {
+        "count": 1,
+        "suggestion": "Intimidación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "continuacion",
+      {
+        "count": 8,
+        "suggestion": "continuación",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/exploracion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "podrias",
+      {
+        "count": 12,
+        "suggestion": "podrías",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "discrecion",
+      {
+        "count": 1,
+        "suggestion": "discreción",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "informacion",
+      {
+        "count": 4,
+        "suggestion": "información",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "dificil",
+      {
+        "count": 2,
+        "suggestion": "difícil",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "ningun",
+      {
+        "count": 1,
+        "suggestion": "ningún",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "exploracion",
+      {
+        "count": 4,
+        "suggestion": "exploración",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/exploracion.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      }
+    ],
+    [
+      "terminos",
+      {
+        "count": 2,
+        "suggestion": "términos",
+        "files": [
+          "./docs/_dotes/habilidad.md",
+          "./docs/_introduccion/terminos-clave.md"
+        ]
+      }
+    ],
+    [
+      "basicos",
+      {
+        "count": 1,
+        "suggestion": "básicos",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "comunicacion",
+      {
+        "count": 1,
+        "suggestion": "comunicación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "basandote",
+      {
+        "count": 1,
+        "suggestion": "basándote",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "vegetacion",
+      {
+        "count": 1,
+        "suggestion": "vegetación",
+        "files": [
+          "./docs/_dotes/habilidad.md"
+        ]
+      }
+    ],
+    [
+      "contorsionas",
+      {
+        "count": 1,
+        "suggestion": "contorsiones",
+        "files": [
+          "./docs/_habilidades/acrobacias.md"
+        ]
+      }
+    ],
+    [
+      "pág",
+      {
+        "count": 30,
+        "suggestion": "pág.",
+        "files": [
+          "./docs/_habilidades/acrobacias.md",
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/religion.md",
+          "./docs/_habilidades/religion.md",
+          "./docs/_habilidades/religion.md",
+          "./docs/_habilidades/saber.md",
+          "./docs/_habilidades/saber.md",
+          "./docs/_apendices/estados-f-z.md",
+          "./docs/_apendices/estados-f-z.md",
+          "./docs/_apendices/estados-f-z.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-encuentro.md",
+          "./docs/_reglas/modo-tiempo-libre.md",
+          "./docs/_reglas/modo-tiempo-libre.md",
+          "./docs/_reglas/modo-tiempo-libre.md",
+          "./docs/_reglas/modo-tiempo-libre.md",
+          "./docs/_ascendencias/bagajes.md"
+        ]
+      }
+    ],
+    [
+      "constructos",
+      {
+        "count": 3,
+        "suggestion": "constructor",
+        "files": [
+          "./docs/_habilidades/arcanos.md",
+          "./docs/_habilidades/artesania.md",
+          "./docs/_reglas/puntos-golpe.md"
+        ]
+      }
+    ],
+    [
+      "interactúas",
+      {
+        "count": 1,
+        "suggestion": "Intercalas",
+        "files": [
+          "./docs/_habilidades/diplomacia.md"
+        ]
+      }
+    ],
+    [
+      "interactuar",
+      {
+        "count": 1,
+        "suggestion": "Intercalar",
+        "files": [
+          "./docs/_habilidades/engano.md"
+        ]
+      }
+    ],
+    [
+      "ocultista",
+      {
+        "count": 3,
+        "suggestion": "oculista",
+        "files": [
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/ocultismo.md",
+          "./docs/_habilidades/ocultismo.md"
+        ]
+      }
+    ],
+    [
+      "societarios",
+      {
+        "count": 1,
+        "suggestion": "solitarios",
+        "files": [
+          "./docs/_habilidades/sociedad.md"
+        ]
+      }
+    ],
+    [
+      "humanoides",
+      {
+        "count": 1,
+        "suggestion": "humanices",
+        "files": [
+          "./docs/_habilidades/sociedad.md"
+        ]
+      }
+    ],
+    [
+      "dracónica",
+      {
+        "count": 1,
+        "suggestion": "diacrónica",
+        "files": [
+          "./docs/_habilidades/sociedad.md"
+        ]
+      }
+    ],
+    [
+      "oscurecedor",
+      {
+        "count": 1,
+        "suggestion": "oscurecido",
+        "files": [
+          "./docs/_conjuros/conjuros-foco/brujo.md"
+        ]
+      }
+    ],
+    [
+      "permanezcais",
+      {
+        "count": 1,
+        "suggestion": "permanezcas",
+        "files": [
+          "./docs/_conjuros/conjuros/d-f.md"
+        ]
+      }
+    ],
+    [
+      "podras",
+      {
+        "count": 8,
+        "suggestion": "podrías",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_clases/bardo/caracteristicas.md",
+          "./docs/_clases/bardo/caracteristicas.md",
+          "./docs/_clases/picaro/caracteristicas.md",
+          "./docs/_clases/picaro/caracteristicas.md",
+          "./docs/_clases/arquetipos/introduccion.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "oirlas",
+      {
+        "count": 1,
+        "suggestion": "orillas",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      }
+    ],
+    [
+      "debera",
+      {
+        "count": 1,
+        "suggestion": "debería",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      }
+    ],
+    [
+      "evaporandose",
+      {
+        "count": 1,
+        "suggestion": "evaporando",
+        "files": [
+          "./docs/_conjuros/conjuros/g-m.md"
+        ]
+      }
+    ],
+    [
+      "otono",
+      {
+        "count": 1,
+        "suggestion": "Otón",
+        "files": [
+          "./docs/_conjuros/rituales/rituales.md"
+        ]
+      }
+    ],
+    [
+      "feerico",
+      {
+        "count": 1,
+        "suggestion": "Federico",
+        "files": [
+          "./docs/_conjuros/rituales/rituales.md"
+        ]
+      }
+    ],
+    [
+      "estadisticas",
+      {
+        "count": 4,
+        "suggestion": "estadísticas",
+        "files": [
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/herramientas.md"
+        ]
+      }
+    ],
+    [
+      "ocupacion",
+      {
+        "count": 1,
+        "suggestion": "ocupación",
+        "files": [
+          "./docs/_introduccion/atributos.md"
+        ]
+      }
+    ],
+    [
+      "profesion",
+      {
+        "count": 4,
+        "suggestion": "profesión",
+        "files": [
+          "./docs/_introduccion/atributos.md",
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_introduccion/tiempo-libre.md",
+          "./docs/_introduccion/tiempo-libre.md"
+        ]
+      }
+    ],
+    [
+      "salvacion",
+      {
+        "count": 13,
+        "suggestion": "salvación",
+        "files": [
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_reglas/acciones-especialidad.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "heroe",
+      {
+        "count": 3,
+        "suggestion": "héroe",
+        "files": [
+          "./docs/_introduccion/como-se-juega.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "mecanicas",
+      {
+        "count": 1,
+        "suggestion": "mecánicas",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "sarenrae",
+      {
+        "count": 3,
+        "suggestion": "Saneare",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_ascendencias/orco/descripcion.md",
+          "./docs/_ascendencias/orco/index.md"
+        ]
+      }
+    ],
+    [
+      "aproximacion",
+      {
+        "count": 1,
+        "suggestion": "aproximación",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "combinacion",
+      {
+        "count": 2,
+        "suggestion": "combinación",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_equipo/introduccion.md"
+        ]
+      }
+    ],
+    [
+      "aprendio",
+      {
+        "count": 1,
+        "suggestion": "aprendió",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "dromaar",
+      {
+        "count": 2,
+        "suggestion": "drogar",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_ascendencias/herencias-versatiles/ascendencia-mixta.md"
+        ]
+      }
+    ],
+    [
+      "seccion",
+      {
+        "count": 1,
+        "suggestion": "sección",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "anotalas",
+      {
+        "count": 1,
+        "suggestion": "anotadas",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "mayoria",
+      {
+        "count": 15,
+        "suggestion": "mayoría",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "estadistica",
+      {
+        "count": 5,
+        "suggestion": "estadística",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "tamano",
+      {
+        "count": 7,
+        "suggestion": "tamaño",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md",
+          "./docs/_equipo/introduccion.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "decidiendose",
+      {
+        "count": 1,
+        "suggestion": "decidiendo",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "conexion",
+      {
+        "count": 1,
+        "suggestion": "conexión",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "obtendra",
+      {
+        "count": 1,
+        "suggestion": "obtendrá",
+        "files": [
+          "./docs/_introduccion/creacion-personajes.md"
+        ]
+      }
+    ],
+    [
+      "poliedricos",
+      {
+        "count": 2,
+        "suggestion": "poliédricos",
+        "files": [
+          "./docs/_introduccion/dados.md",
+          "./docs/_introduccion/herramientas.md"
+        ]
+      }
+    ],
+    [
+      "actuacion",
+      {
+        "count": 1,
+        "suggestion": "actuación",
+        "files": [
+          "./docs/_introduccion/encuentros.md"
+        ]
+      }
+    ],
+    [
+      "recuperacion",
+      {
+        "count": 1,
+        "suggestion": "recuperación",
+        "files": [
+          "./docs/_introduccion/encuentros.md"
+        ]
+      }
+    ],
+    [
+      "poblacion",
+      {
+        "count": 1,
+        "suggestion": "población",
+        "files": [
+          "./docs/_introduccion/exploracion.md"
+        ]
+      }
+    ],
+    [
+      "aroden",
+      {
+        "count": 3,
+        "suggestion": "Arden",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "murio",
+      {
+        "count": 1,
+        "suggestion": "murió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "relojeria",
+      {
+        "count": 2,
+        "suggestion": "relojería",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "excepcion",
+      {
+        "count": 3,
+        "suggestion": "excepciona",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "historicas",
+      {
+        "count": 1,
+        "suggestion": "históricas",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "terrorifico",
+      {
+        "count": 1,
+        "suggestion": "terrorífico",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "punado",
+      {
+        "count": 1,
+        "suggestion": "puñado",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "monton",
+      {
+        "count": 1,
+        "suggestion": "montón",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "nacion",
+      {
+        "count": 18,
+        "suggestion": "nación",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "victimas",
+      {
+        "count": 2,
+        "suggestion": "víctimas",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "subacuaticas",
+      {
+        "count": 1,
+        "suggestion": "subacuáticas",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "rapidos",
+      {
+        "count": 1,
+        "suggestion": "rápidos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "incursores",
+      {
+        "count": 2,
+        "suggestion": "incursiones",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "azlant",
+      {
+        "count": 1,
+        "suggestion": "Alzan",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "navegacion",
+      {
+        "count": 1,
+        "suggestion": "navegación",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "inhospitos",
+      {
+        "count": 1,
+        "suggestion": "inhóspitos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "ilicitos",
+      {
+        "count": 1,
+        "suggestion": "ilícitos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "qadira",
+      {
+        "count": 1,
+        "suggestion": "Yadira",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "prohibio",
+      {
+        "count": 1,
+        "suggestion": "prohibió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "tecnologicas",
+      {
+        "count": 1,
+        "suggestion": "tecnológicas",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "arqueologo",
+      {
+        "count": 1,
+        "suggestion": "arqueólogo",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "aullantes",
+      {
+        "count": 1,
+        "suggestion": "aullase",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "descubrio",
+      {
+        "count": 1,
+        "suggestion": "descubrió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "luciernaga",
+      {
+        "count": 1,
+        "suggestion": "luciérnaga",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "carnivoros",
+      {
+        "count": 1,
+        "suggestion": "carnívoros",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "kibwe",
+      {
+        "count": 1,
+        "suggestion": "Kabwe",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "mzali",
+      {
+        "count": 1,
+        "suggestion": "Malí",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "unicos",
+      {
+        "count": 1,
+        "suggestion": "unidos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "usaro",
+      {
+        "count": 1,
+        "suggestion": "Usar",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "vidrico",
+      {
+        "count": 1,
+        "suggestion": "vidrio",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "consiguio",
+      {
+        "count": 1,
+        "suggestion": "consiguió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "huracan",
+      {
+        "count": 1,
+        "suggestion": "huracán",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "tuneles",
+      {
+        "count": 2,
+        "suggestion": "túneles",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "subterraneos",
+      {
+        "count": 1,
+        "suggestion": "subterráneos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "ejercitos",
+      {
+        "count": 3,
+        "suggestion": "ejércitos",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "oprak",
+      {
+        "count": 1,
+        "suggestion": "Oprah",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "recien",
+      {
+        "count": 2,
+        "suggestion": "recién",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "licantropos",
+      {
+        "count": 1,
+        "suggestion": "licántropos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "vastago",
+      {
+        "count": 1,
+        "suggestion": "vástago",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "carmesi",
+      {
+        "count": 1,
+        "suggestion": "Carmes",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "campeon",
+      {
+        "count": 1,
+        "suggestion": "campeón",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "antano",
+      {
+        "count": 3,
+        "suggestion": "antaño",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "andoran",
+      {
+        "count": 2,
+        "suggestion": "Adoran",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_clases/mago/caracteristicas.md"
+        ]
+      }
+    ],
+    [
+      "revolucion",
+      {
+        "count": 1,
+        "suggestion": "revolución",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "taldor",
+      {
+        "count": 1,
+        "suggestion": "Taladro",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "ocupandose",
+      {
+        "count": 1,
+        "suggestion": "ocupantes",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "arriesgandose",
+      {
+        "count": 1,
+        "suggestion": "arriesgando",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "senores",
+      {
+        "count": 1,
+        "suggestion": "Señores",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "varisia",
+      {
+        "count": 1,
+        "suggestion": "Viraría",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "extranas",
+      {
+        "count": 1,
+        "suggestion": "extrañas",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "concedio",
+      {
+        "count": 1,
+        "suggestion": "concedió",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "atencion",
+      {
+        "count": 2,
+        "suggestion": "atención",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "magicos",
+      {
+        "count": 2,
+        "suggestion": "mágicos",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/tiempo-libre.md"
+        ]
+      }
+    ],
+    [
+      "varisiano",
+      {
+        "count": 1,
+        "suggestion": "vaticina",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "subditos",
+      {
+        "count": 1,
+        "suggestion": "súbditos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "vudra",
+      {
+        "count": 1,
+        "suggestion": "Vedra",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "nex",
+      {
+        "count": 3,
+        "suggestion": "Ex",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_clases/mago/caracteristicas.md",
+          "./docs/_clases/mago/caracteristicas.md"
+        ]
+      }
+    ],
+    [
+      "municion",
+      {
+        "count": 1,
+        "suggestion": "punición",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "polvora",
+      {
+        "count": 1,
+        "suggestion": "pólvora",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "muneca",
+      {
+        "count": 1,
+        "suggestion": "muñeca",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "civilizacion",
+      {
+        "count": 5,
+        "suggestion": "civilización",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "metalicos",
+      {
+        "count": 2,
+        "suggestion": "metálicos",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_equipo/armaduras.md"
+        ]
+      }
+    ],
+    [
+      "caidos",
+      {
+        "count": 1,
+        "suggestion": "caídos",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "mendev",
+      {
+        "count": 1,
+        "suggestion": "Méndez",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "numeria",
+      {
+        "count": 1,
+        "suggestion": "Numérica",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "roboticos",
+      {
+        "count": 1,
+        "suggestion": "robotices",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "empuna",
+      {
+        "count": 1,
+        "suggestion": "empuja",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "comprension",
+      {
+        "count": 1,
+        "suggestion": "comprensión",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "disension",
+      {
+        "count": 1,
+        "suggestion": "dimensión",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "isger",
+      {
+        "count": 1,
+        "suggestion": "Isgur",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "vacio",
+      {
+        "count": 1,
+        "suggestion": "dacio",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "suenos",
+      {
+        "count": 3,
+        "suggestion": "buenos",
+        "files": [
+          "./docs/_introduccion/golarion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "taldano",
+      {
+        "count": 1,
+        "suggestion": "taladro",
+        "files": [
+          "./docs/_introduccion/golarion.md"
+        ]
+      }
+    ],
+    [
+      "anadir",
+      {
+        "count": 3,
+        "suggestion": "añadir",
+        "files": [
+          "./docs/_introduccion/herramientas.md",
+          "./docs/_reglas/ataques-defensas.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      }
+    ],
+    [
+      "pasarselo",
+      {
+        "count": 1,
+        "suggestion": "pasarela",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      }
+    ],
+    [
+      "deberia",
+      {
+        "count": 2,
+        "suggestion": "debería",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md",
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      }
+    ],
+    [
+      "gustaria",
+      {
+        "count": 1,
+        "suggestion": "gustaría",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      }
+    ],
+    [
+      "deberian",
+      {
+        "count": 1,
+        "suggestion": "deberían",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      }
+    ],
+    [
+      "orientacion",
+      {
+        "count": 1,
+        "suggestion": "orientación",
+        "files": [
+          "./docs/_introduccion/jugar-para-todos.md"
+        ]
+      }
+    ],
+    [
+      "coordinacion",
+      {
+        "count": 1,
+        "suggestion": "coordinación",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      }
+    ],
+    [
+      "intuicion",
+      {
+        "count": 1,
+        "suggestion": "intuición",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      }
+    ],
+    [
+      "formacion",
+      {
+        "count": 1,
+        "suggestion": "formación",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      }
+    ],
+    [
+      "clerigo",
+      {
+        "count": 1,
+        "suggestion": "clérigo",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      }
+    ],
+    [
+      "progresion",
+      {
+        "count": 1,
+        "suggestion": "progresión",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      }
+    ],
+    [
+      "jugable",
+      {
+        "count": 1,
+        "suggestion": "jugarle",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      }
+    ],
+    [
+      "anaden",
+      {
+        "count": 2,
+        "suggestion": "añade",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md",
+          "./docs/_clases/arquetipos/multiclase/explorador.md"
+        ]
+      }
+    ],
+    [
+      "obstaculos",
+      {
+        "count": 1,
+        "suggestion": "obstáculos",
+        "files": [
+          "./docs/_introduccion/puntos-basicos.md"
+        ]
+      }
+    ],
+    [
+      "seleccion",
+      {
+        "count": 1,
+        "suggestion": "selección",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "clerigos",
+      {
+        "count": 1,
+        "suggestion": "clérigos",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "cooperacion",
+      {
+        "count": 1,
+        "suggestion": "cooperación",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "guien",
+      {
+        "count": 1,
+        "suggestion": "quien",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "cancion",
+      {
+        "count": 1,
+        "suggestion": "canción",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "desesperacion",
+      {
+        "count": 1,
+        "suggestion": "desesperación",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "iluminacion",
+      {
+        "count": 1,
+        "suggestion": "iluminación",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "permitio",
+      {
+        "count": 1,
+        "suggestion": "permitió",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "ensena",
+      {
+        "count": 2,
+        "suggestion": "enseña",
+        "files": [
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "espiritu",
+      {
+        "count": 2,
+        "suggestion": "espíritu",
+        "files": [
+          "./docs/_introduccion/religion.md",
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      }
+    ],
+    [
+      "nethys",
+      {
+        "count": 1,
+        "suggestion": "Tethys",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "desentranar",
+      {
+        "count": 1,
+        "suggestion": "desentrañar",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "entendio",
+      {
+        "count": 1,
+        "suggestion": "entendí",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "destruccion",
+      {
+        "count": 3,
+        "suggestion": "destrucción",
+        "files": [
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md",
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "prision",
+      {
+        "count": 1,
+        "suggestion": "presión",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "rendicion",
+      {
+        "count": 1,
+        "suggestion": "rendición",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "convirtiendose",
+      {
+        "count": 1,
+        "suggestion": "convirtiéndose",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "opcion",
+      {
+        "count": 1,
+        "suggestion": "opción",
+        "files": [
+          "./docs/_introduccion/religion.md"
+        ]
+      }
+    ],
+    [
+      "restablecedor",
+      {
+        "count": 1,
+        "suggestion": "restablecer",
+        "files": [
+          "./docs/_clases/brujo/caracteristicas.md"
+        ]
+      }
+    ],
+    [
+      "restablecedora",
+      {
+        "count": 1,
+        "suggestion": "establecedora",
+        "files": [
+          "./docs/_clases/clerigo/dotes.md"
+        ]
+      }
+    ],
+    [
+      "reenfocas",
+      {
+        "count": 5,
+        "suggestion": "Renazcas",
+        "files": [
+          "./docs/_clases/clerigo/dotes.md",
+          "./docs/_clases/mago/dotes.md",
+          "./docs/_clases/druida/dotes.md",
+          "./docs/_clases/explorador/dotes.md",
+          "./docs/_clases/explorador/dotes.md"
+        ]
+      }
+    ],
+    [
+      "escorpion",
+      {
+        "count": 3,
+        "suggestion": "escorpio",
+        "files": [
+          "./docs/_clases/companeros/animales.md",
+          "./docs/_clases/companeros/animales.md",
+          "./docs/_clases/companeros/animales.md"
+        ]
+      }
+    ],
+    [
+      "hechizadora",
+      {
+        "count": 2,
+        "suggestion": "hechizado",
+        "files": [
+          "./docs/_clases/bardo/descripcion.md",
+          "./docs/_clases/bardo/index.md"
+        ]
+      }
+    ],
+    [
+      "haciendote",
+      {
+        "count": 2,
+        "suggestion": "haciendo",
+        "files": [
+          "./docs/_clases/bardo/descripcion.md",
+          "./docs/_clases/bardo/index.md"
+        ]
+      }
+    ],
+    [
+      "inspirandote",
+      {
+        "count": 1,
+        "suggestion": "inspirando",
+        "files": [
+          "./docs/_clases/bardo/dotes.md"
+        ]
+      }
+    ],
+    [
+      "sonicas",
+      {
+        "count": 1,
+        "suggestion": "socias",
+        "files": [
+          "./docs/_clases/bardo/dotes.md"
+        ]
+      }
+    ],
+    [
+      "desorientadores",
+      {
+        "count": 1,
+        "suggestion": "desorientados",
+        "files": [
+          "./docs/_clases/picaro/dotes.md"
+        ]
+      }
+    ],
+    [
+      "permitiendote",
+      {
+        "count": 2,
+        "suggestion": "permitiendo",
+        "files": [
+          "./docs/_clases/mago/caracteristicas.md",
+          "./docs/_clases/explorador/dotes.md"
+        ]
+      }
+    ],
+    [
+      "metalicas",
+      {
+        "count": 4,
+        "suggestion": "metálicas",
+        "files": [
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md"
+        ]
+      }
+    ],
+    [
+      "caparazon",
+      {
+        "count": 1,
+        "suggestion": "caparazón",
+        "files": [
+          "./docs/_equipo/armaduras.md"
+        ]
+      }
+    ],
+    [
+      "ponersela",
+      {
+        "count": 1,
+        "suggestion": "ponédsela",
+        "files": [
+          "./docs/_equipo/armaduras.md"
+        ]
+      }
+    ],
+    [
+      "proteccion",
+      {
+        "count": 6,
+        "suggestion": "protección",
+        "files": [
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md",
+          "./docs/_equipo/armaduras.md"
+        ]
+      }
+    ],
+    [
+      "jubon",
+      {
+        "count": 1,
+        "suggestion": "jabón",
+        "files": [
+          "./docs/_equipo/armaduras.md"
+        ]
+      }
+    ],
+    [
+      "págs",
+      {
+        "count": 2,
+        "suggestion": "págs.",
+        "files": [
+          "./docs/_equipo/armas.md",
+          "./docs/_apendices/estados-f-z.md"
+        ]
+      }
+    ],
+    [
+      "saquillos",
+      {
+        "count": 1,
+        "suggestion": "asquillos",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      }
+    ],
+    [
+      "empunarlo",
+      {
+        "count": 1,
+        "suggestion": "empurarlo",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      }
+    ],
+    [
+      "anadiendo",
+      {
+        "count": 1,
+        "suggestion": "añadiendo",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      }
+    ],
+    [
+      "denominacion",
+      {
+        "count": 1,
+        "suggestion": "denominación",
+        "files": [
+          "./docs/_equipo/introduccion.md"
+        ]
+      }
+    ],
+    [
+      "tacticas",
+      {
+        "count": 1,
+        "suggestion": "tácticas",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      }
+    ],
+    [
+      "reducirian",
+      {
+        "count": 1,
+        "suggestion": "reducirían",
+        "files": [
+          "./docs/_reglas/ataques-defensas.md"
+        ]
+      }
+    ],
+    [
+      "combatis",
+      {
+        "count": 1,
+        "suggestion": "combates",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      }
+    ],
+    [
+      "estaras",
+      {
+        "count": 1,
+        "suggestion": "estarás",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      }
+    ],
+    [
+      "acuatico",
+      {
+        "count": 1,
+        "suggestion": "acuático",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      }
+    ],
+    [
+      "posicion",
+      {
+        "count": 2,
+        "suggestion": "posición",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "elevacion",
+      {
+        "count": 2,
+        "suggestion": "elevación",
+        "files": [
+          "./docs/_reglas/batallas-especiales.md",
+          "./docs/_reglas/batallas-especiales.md"
+        ]
+      }
+    ],
+    [
+      "tamanos",
+      {
+        "count": 3,
+        "suggestion": "tamaños",
+        "files": [
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md",
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "bipedos",
+      {
+        "count": 1,
+        "suggestion": "bípedos",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "cuadrupedos",
+      {
+        "count": 1,
+        "suggestion": "cuadrúpedos",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "tentaculos",
+      {
+        "count": 1,
+        "suggestion": "tentáculos",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "empujon",
+      {
+        "count": 1,
+        "suggestion": "Empujón",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "harias",
+      {
+        "count": 1,
+        "suggestion": "varias",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "costaria",
+      {
+        "count": 1,
+        "suggestion": "costaría",
+        "files": [
+          "./docs/_reglas/movimiento.md"
+        ]
+      }
+    ],
+    [
+      "exposicion",
+      {
+        "count": 1,
+        "suggestion": "exposición",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "deteccion",
+      {
+        "count": 1,
+        "suggestion": "detección",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "suposicion",
+      {
+        "count": 2,
+        "suggestion": "suposición",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "corazon",
+      {
+        "count": 1,
+        "suggestion": "corazón",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "vibracion",
+      {
+        "count": 2,
+        "suggestion": "vibración",
+        "files": [
+          "./docs/_reglas/percepcion-deteccion.md",
+          "./docs/_reglas/percepcion-deteccion.md"
+        ]
+      }
+    ],
+    [
+      "etune",
+      {
+        "count": 2,
+        "suggestion": "Betune",
+        "files": [
+          "./docs/_ascendencias/mediano/descripcion.md",
+          "./docs/_ascendencias/mediano/index.md"
+        ]
+      }
+    ],
+    [
+      "rillka",
+      {
+        "count": 2,
+        "suggestion": "Rilke",
+        "files": [
+          "./docs/_ascendencias/mediano/descripcion.md",
+          "./docs/_ascendencias/mediano/index.md"
+        ]
+      }
+    ],
+    [
+      "cailean",
+      {
+        "count": 5,
+        "suggestion": "Calina",
+        "files": [
+          "./docs/_ascendencias/mediano/descripcion.md",
+          "./docs/_ascendencias/mediano/index.md",
+          "./docs/_ascendencias/goblin/descripcion.md",
+          "./docs/_ascendencias/gnomo/descripcion.md",
+          "./docs/_ascendencias/gnomo/index.md"
+        ]
+      }
+    ],
+    [
+      "guzmuk",
+      {
+        "count": 1,
+        "suggestion": "Guzmyuk",
+        "files": [
+          "./docs/_ascendencias/goblin/descripcion.md"
+        ]
+      }
+    ],
+    [
+      "mazmord",
+      {
+        "count": 1,
+        "suggestion": "Mazmorra",
+        "files": [
+          "./docs/_ascendencias/goblin/descripcion.md"
+        ]
+      }
+    ],
+    [
+      "omgot",
+      {
+        "count": 1,
+        "suggestion": "Ogot",
+        "files": [
+          "./docs/_ascendencias/goblin/descripcion.md"
+        ]
+      }
+    ],
+    [
+      "acechante",
+      {
+        "count": 2,
+        "suggestion": "acechan",
+        "files": [
+          "./docs/_ascendencias/leshy/descripcion.md",
+          "./docs/_ascendencias/leshy/index.md"
+        ]
+      }
+    ],
+    [
+      "absorbesol",
+      {
+        "count": 2,
+        "suggestion": "absorbeos",
+        "files": [
+          "./docs/_ascendencias/leshy/descripcion.md",
+          "./docs/_ascendencias/leshy/index.md"
+        ]
+      }
+    ],
+    [
+      "shoanti",
+      {
+        "count": 2,
+        "suggestion": "Shoantib",
+        "files": [
+          "./docs/_ascendencias/humano/descripcion.md",
+          "./docs/_ascendencias/humano/index.md"
+        ]
+      }
+    ],
+    [
+      "varisianos",
+      {
+        "count": 2,
+        "suggestion": "Vaticinamos",
+        "files": [
+          "./docs/_ascendencias/humano/descripcion.md",
+          "./docs/_ascendencias/humano/index.md"
+        ]
+      }
+    ],
+    [
+      "faunra",
+      {
+        "count": 2,
+        "suggestion": "Fauna",
+        "files": [
+          "./docs/_ascendencias/elfo/descripcion.md",
+          "./docs/_ascendencias/elfo/index.md"
+        ]
+      }
+    ],
+    [
+      "lanliss",
+      {
+        "count": 2,
+        "suggestion": "Lanillas",
+        "files": [
+          "./docs/_ascendencias/elfo/descripcion.md",
+          "./docs/_ascendencias/elfo/index.md"
+        ]
+      }
+    ],
+    [
+      "seldlon",
+      {
+        "count": 2,
+        "suggestion": "Seldglon",
+        "files": [
+          "./docs/_ascendencias/elfo/descripcion.md",
+          "./docs/_ascendencias/elfo/index.md"
+        ]
+      }
+    ],
+    [
+      "abroshtor",
+      {
+        "count": 2,
+        "suggestion": "Absortos",
+        "files": [
+          "./docs/_ascendencias/gnomo/descripcion.md",
+          "./docs/_ascendencias/gnomo/index.md"
+        ]
+      }
+    ],
+    [
+      "bastargre",
+      {
+        "count": 2,
+        "suggestion": "Bastare",
+        "files": [
+          "./docs/_ascendencias/gnomo/descripcion.md",
+          "./docs/_ascendencias/gnomo/index.md"
+        ]
+      }
+    ],
+    [
+      "fijit",
+      {
+        "count": 2,
+        "suggestion": "Fiji",
+        "files": [
+          "./docs/_ascendencias/gnomo/descripcion.md",
+          "./docs/_ascendencias/gnomo/index.md"
+        ]
+      }
+    ],
+    [
+      "grillgiss",
+      {
+        "count": 2,
+        "suggestion": "Griegos",
+        "files": [
+          "./docs/_ascendencias/orco/descripcion.md",
+          "./docs/_ascendencias/orco/index.md"
+        ]
+      }
+    ],
+    [
+      "krugga",
+      {
+        "count": 2,
+        "suggestion": "Kurda",
+        "files": [
+          "./docs/_ascendencias/orco/descripcion.md",
+          "./docs/_ascendencias/orco/index.md"
+        ]
+      }
+    ],
+    [
+      "mahja",
+      {
+        "count": 2,
+        "suggestion": "Maja",
+        "files": [
+          "./docs/_ascendencias/orco/descripcion.md",
+          "./docs/_ascendencias/orco/index.md"
+        ]
+      }
+    ],
+    [
+      "calidos",
+      {
+        "count": 2,
+        "suggestion": "caídos",
+        "files": [
+          "./docs/_ascendencias/enano/descripcion.md",
+          "./docs/_ascendencias/enano/index.md"
+        ]
+      }
+    ],
+    [
+      "canteria",
+      {
+        "count": 2,
+        "suggestion": "cantera",
+        "files": [
+          "./docs/_ascendencias/enano/descripcion.md",
+          "./docs/_ascendencias/enano/index.md"
+        ]
+      }
+    ]
+  ]
+}

@@ -28,4 +28,4 @@ El objetivo se ve abrumado por una risa incontrolable. Tiene que hacer una salva
 
 **Fallo** El objetivo queda lentificado 1 y no puede utilizar reacciones.
 
-**Fallo critico** El objetivo queda tumbado y no puede utilizar acciones o reacciones durante 1 asalto. A continuacion sufre los efectos de un fallo.
+**Fallo critico** El objetivo queda tumbado y no puede utilizar acciones o reacciones durante 1 asalto. A continuación sufre los efectos de un fallo.

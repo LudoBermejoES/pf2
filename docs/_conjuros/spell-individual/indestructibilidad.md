@@ -17,4 +17,4 @@ spell_level: 10
 
 ---
 
-Cortas tus lazos entre causa y efecto. Mientras dura el conjuro, eres inmune a cualquier efecto o dano que te podria danar, excluyendo los causados por artefactos, poder de los dioses y origenes similarmente poderosos. Podras permitir de forma selectiva que te afecte cualquier cosa que estes dispuesto a que te afecte.
+Cortas tus lazos entre causa y efecto. Mientras dura el conjuro, eres inmune a cualquier efecto o dano que te podria danar, excluyendo los causados por artefactos, poder de los dioses y orígenes similarmente poderosos. Podras permitir de forma selectiva que te afecte cualquier cosa que estes dispuesto a que te afecte.

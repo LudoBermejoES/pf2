@@ -20,4 +20,4 @@ spell_level: 7
 
 Liberas a quienes viajan junto a ti de los obstaculos del medio ambiente. Los objetivos no sufren penalizadores por circunstancia a su Velocidad debido a los escombros, a la vegetacion, al viento u otras propiedades del entorno y pueden ignorar el terreno dificil debido a dichas propiedades medioambientales.
 
-**Potenciado (9.o)** Los objetivos ignoran tambien el terreno dificil mayor debido a las propiedades medioambientales.
+**Potenciado (9.o)** Los objetivos ignoran tambien el terreno difícil mayor debido a las propiedades medioambientales.

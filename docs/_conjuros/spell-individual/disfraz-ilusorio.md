@@ -28,4 +28,4 @@ Lanzar disfraz ilusorio equivale a preparar un disfraz para el uso Imitar de Eng
 
 **Potenciado (4.o)** Puedes designar como objetivo hasta a 10 criaturas voluntarias. Si designas como objetivo a multiples criaturas, puedes elegir un disfraz diferente para cada objetivo, pero ninguna de ellas puede imitar a un individuo especifico. Puedes Disipar cada disfraz individualmente o todos de forma colectiva.
 
-**Potenciado (7.o)** Igual que en 4.o, pero puedes elegir disfraces que imitan a individuos especificos. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
+**Potenciado (7.o)** Igual que en 4.o, pero puedes elegir disfraces que imitan a individuos específicos. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.

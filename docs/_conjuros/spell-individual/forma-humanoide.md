@@ -24,4 +24,4 @@ Forma humanoide te concede un bonificador +4 por estatus a las pruebas de Engano
 
 **Potenciado (3.o)** Obtienes vision en la oscuridad o vision en la penumbra si la forma que adoptas dispone de dicha aptitud.
 
-**Potenciado (5.o)** Puedes adoptar la apariencia de un humanoide Grande. Si esto incrementa tu tamano, obtienes los efectos del conjuro agrandar.
+**Potenciado (5.o)** Puedes adoptar la apariencia de un humanoide Grande. Si esto incrementa tu tamaño, obtienes los efectos del conjuro agrandar.

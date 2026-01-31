@@ -32,4 +32,4 @@ La ilusion puede causar daño haciendo que el objetivo crea que los ataques de e
 
 Cualquier criatura que toque la imagen o utilice la accion de Buscar para examinarla podra hacer un intento de descreer tu ilusion. Cuando una criatura descree la ilusion, se recupera de la mitad del daño sufrido a causa de ella (si lo hay) y ya no sufre mas daño por ese motivo.
 
-**Potenciado (+1)** El daño de los Golpes de la imagen se incrementa en 1d4, y el tamaño maximo de criatura que puedes crear se incrementa en 1 (hasta un maximo de Gargantuesco).
+**Potenciado (+1)** El daño de los Golpes de la imagen se incrementa en 1d4, y el tamaño máximo de criatura que puedes crear se incrementa en 1 (hasta un máximo de Gargantuesco).

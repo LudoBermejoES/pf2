@@ -23,4 +23,4 @@ Unos vientos violentos y una poderosa corriente llenan el area, formando un cicl
 
 Toda criatura que acaba su turno volando en el area desciende 20 pies (6 m). Toda criatura empujada contra una superficie por los vientos de este conjuro sufre dano contundente como si hubiera caido al suelo.
 
-Las casillas de los extremos verticales exteriores del cilindro evitan que las criaturas lo abandonen. Dichas casillas son terreno dificil mayor y una criatura que intenta atravesarlas ha de tener exito en una prueba de Atletismo o de Acrobacias para maniobrar en vuelo contra tu CD de conjuros para conseguirlo. Una criatura que falla acaba su accion actual pero puede probar de nuevo.
+Las casillas de los extremos verticales exteriores del cilindro evitan que las criaturas lo abandonen. Dichas casillas son terreno difícil mayor y una criatura que intenta atravesarlas ha de tener exito en una prueba de Atletismo o de Acrobacias para maniobrar en vuelo contra tu CD de conjuros para conseguirlo. Una criatura que falla acaba su accion actual pero puede probar de nuevo.

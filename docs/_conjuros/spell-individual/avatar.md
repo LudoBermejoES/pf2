@@ -67,4 +67,4 @@ Obtienes tambien las aptitudes especificas indicadas a continuación para tu dio
 
 **Urgathoa** Velocidad 70 pies (21 m), volar 70 pies (21 m); Cuerpo a cuerpo ◆ guadaña (alcance 15 pies [4,5 m], derribo, letal 3d10), Daño 6d10+6 cortante; A distancia ◆ plaga palida (incremento de rango de distancia 120 pies [36 m]), Daño 6d6+3 vacio.
 
-**Zon-Kuthon** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignora el terreno dificil y el terreno dificil mayor; Cuerpo a cuerpo ◆ cadena armada (alcance 15 pies [4,5 m], derribo, desarmar), Daño 6d8+6 cortante; A distancia ◆ dolor de medianoche (incremento de rango de distancia 120 pies [36 m], mental, no letal), Daño 6d6+3 mental.
+**Zon-Kuthon** Velocidad 70 pies (21 m), volar 70 pies (21 m), ignora el terreno difícil y el terreno difícil mayor; Cuerpo a cuerpo ◆ cadena armada (alcance 15 pies [4,5 m], derribo, desarmar), Daño 6d8+6 cortante; A distancia ◆ dolor de medianoche (incremento de rango de distancia 120 pies [36 m], mental, no letal), Daño 6d6+3 mental.

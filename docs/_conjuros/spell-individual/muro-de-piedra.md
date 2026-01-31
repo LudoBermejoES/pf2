@@ -23,4 +23,4 @@ Das forma a una pared de piedra solida. Creas un muro de piedra de 1 pulgada (2,
 
 Cada seccion de 10 pies x 10 pies (3 m x 3 m) del muro tiene CA 10, Dureza 14 y 50 Puntos de Golpe, y es inmune a los impactos criticos y al dano de precision. Una seccion destruida del muro se puede atravesar, pero los escombros creados son terreno dificil.
 
-**Potenciado (+2)** Los Puntos de Golpe de cada seccion del muro se incrementan en 15.
+**Potenciado (+2)** Los Puntos de Golpe de cada sección del muro se incrementan en 15.

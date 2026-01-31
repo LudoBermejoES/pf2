@@ -22,4 +22,4 @@ Una suave magia restablecedora hace retroceder los efectos de las toxinas y de l
 
 **Potenciado (3.o)** Contrarrestas la afliccion si es una enfermedad o un veneno.
 
-**Potenciado (4.o)** Contrarrestas la afliccion si es una maldicion, enfermedad o veneno.
+**Potenciado (4.o)** Contrarrestas la afliccion si es una maldición, enfermedad o veneno.

@@ -1,0 +1,1548 @@
+{
+  "resumen": {
+    "totalEnNoCambios": 509,
+    "debenCambiar": 139,
+    "noDebenCambiar": 3,
+    "porcentajeErrorMisclasificacion": "27.31%"
+  },
+  "debenCambiar": [
+    {
+      "word": "sabiduria",
+      "suggestion": "sabiduría",
+      "count": 19,
+      "reason": "Término técnico de Pathfinder 2",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/puntos-basicos.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "constitucion",
+      "suggestion": "constitución",
+      "count": 14,
+      "reason": "Término técnico de Pathfinder 2",
+      "files": [
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/puntos-basicos.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/batallas-especiales.md"
+      ]
+    },
+    {
+      "word": "tradicion",
+      "suggestion": "tradición",
+      "count": 7,
+      "reason": "Término técnico de Pathfinder 2",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "deteccion",
+      "suggestion": "detección",
+      "count": 7,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "informacion",
+      "suggestion": "información",
+      "count": 7,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "tamano",
+      "suggestion": "tamaño",
+      "count": 7,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/batallas-especiales.md"
+      ]
+    },
+    {
+      "word": "continuacion",
+      "suggestion": "continuación",
+      "count": 6,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "algun",
+      "suggestion": "algún",
+      "count": 5,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "artesania",
+      "suggestion": "artesanía",
+      "count": 4,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "magicos",
+      "suggestion": "mágicos",
+      "count": 4,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "percepcion",
+      "suggestion": "percepción",
+      "count": 4,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "dificil",
+      "suggestion": "difícil",
+      "count": 4,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/oculta.md",
+        "./docs/_conjuros/listas/oculta.md"
+      ]
+    },
+    {
+      "word": "daninos",
+      "suggestion": "dañinos",
+      "count": 4,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/creacion-personajes.md",
+        "./docs/_introduccion/encuentros.md",
+        "./docs/_equipo/armaduras.md",
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "especificos",
+      "suggestion": "específicos",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_introduccion/encuentros.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "distraccion",
+      "suggestion": "distracción",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "ensenar",
+      "suggestion": "enseñar",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "discrecion",
+      "suggestion": "discreción",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/batallas-especiales.md"
+      ]
+    },
+    {
+      "word": "basandose",
+      "suggestion": "basándose",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "obligandola",
+      "suggestion": "obligándola",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/oculta.md",
+        "./docs/_conjuros/listas/primigenia.md"
+      ]
+    },
+    {
+      "word": "interplanario",
+      "suggestion": "interplanar",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/d-f.md",
+        "./docs/_conjuros/conjuros/n-r.md",
+        "./docs/_clases/clerigo/dotes.md"
+      ]
+    },
+    {
+      "word": "anadir",
+      "suggestion": "añadir",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/atributos.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "mayoria",
+      "suggestion": "mayoría",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_equipo/armaduras.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "empunando",
+      "suggestion": "empuñando",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_equipo/introduccion.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "sufrira",
+      "suggestion": "sufrirá",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "posicion",
+      "suggestion": "posición",
+      "count": 3,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "otorgandote",
+      "suggestion": "otorgándote",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_conjuros/conjuros-foco/druida.md"
+      ]
+    },
+    {
+      "word": "direccion",
+      "suggestion": "dirección",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/acciones-basicas.md"
+      ]
+    },
+    {
+      "word": "intimidacion",
+      "suggestion": "intimidación",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_introduccion/creacion-personajes.md"
+      ]
+    },
+    {
+      "word": "situacion",
+      "suggestion": "situación",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "reposicionar",
+      "suggestion": "reposicionar",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_habilidades/atletismo.md",
+        "./docs/_habilidades/atletismo.md"
+      ]
+    },
+    {
+      "word": "ocultista",
+      "suggestion": "ocultista",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_habilidades/ocultismo.md",
+        "./docs/_habilidades/acciones/aprender-un-conjuro.md"
+      ]
+    },
+    {
+      "word": "reposicionas",
+      "suggestion": "reposicionas",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/oculta.md"
+      ]
+    },
+    {
+      "word": "incorporeas",
+      "suggestion": "incorporeas",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/oculta.md"
+      ]
+    },
+    {
+      "word": "descerebrado",
+      "suggestion": "descerebrado",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/divina.md"
+      ]
+    },
+    {
+      "word": "erratica",
+      "suggestion": "errática",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/oculta.md"
+      ]
+    },
+    {
+      "word": "inmovilizantes",
+      "suggestion": "inmovilizantes",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/primigenia.md"
+      ]
+    },
+    {
+      "word": "rastreais",
+      "suggestion": "rastreáis",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md",
+        "./docs/_conjuros/listas/oculta.md"
+      ]
+    },
+    {
+      "word": "danandolas",
+      "suggestion": "dañándolas",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/oculta.md",
+        "./docs/_conjuros/listas/primigenia.md"
+      ]
+    },
+    {
+      "word": "haciendola",
+      "suggestion": "haciéndola",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/rituales/rituales.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "exploracion",
+      "suggestion": "exploración",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/exploracion.md",
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "maldicion",
+      "suggestion": "maldición",
+      "count": 2,
+      "reason": "Término técnico de Pathfinder 2",
+      "files": [
+        "./docs/_introduccion/golarion.md",
+        "./docs/_introduccion/golarion.md"
+      ]
+    },
+    {
+      "word": "clerigos",
+      "suggestion": "clérigos",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md"
+      ]
+    },
+    {
+      "word": "devocion",
+      "suggestion": "devoción",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/religion.md",
+        "./docs/_introduccion/religion.md"
+      ]
+    },
+    {
+      "word": "potenciandolo",
+      "suggestion": "potenciándolo",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_clases/bardo/caracteristicas.md",
+        "./docs/_clases/mago/caracteristicas.md"
+      ]
+    },
+    {
+      "word": "concediendote",
+      "suggestion": "concediéndote",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_clases/arquetipos/introduccion.md",
+        "./docs/_clases/arquetipos/introduccion.md"
+      ]
+    },
+    {
+      "word": "senescales",
+      "suggestion": "senescales",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_clases/druida/descripcion.md",
+        "./docs/_clases/druida/index.md"
+      ]
+    },
+    {
+      "word": "tendrias",
+      "suggestion": "tendrías",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_equipo/introduccion.md",
+        "./docs/_reglas/acciones-basicas.md"
+      ]
+    },
+    {
+      "word": "basandote",
+      "suggestion": "basándote",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "cleriga",
+      "suggestion": "clérига",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "despues",
+      "suggestion": "después",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/batallas-especiales.md"
+      ]
+    },
+    {
+      "word": "tactico",
+      "suggestion": "táctico",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "vibracion",
+      "suggestion": "vibración",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "alli",
+      "suggestion": "allí",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "habitacion",
+      "suggestion": "habitación",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "quiza",
+      "suggestion": "quizá",
+      "count": 2,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "amplian",
+      "suggestion": "amplían",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "basicos",
+      "suggestion": "básicos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "escudrinamiento",
+      "suggestion": "escudriñamiento",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "prediccion",
+      "suggestion": "predicción",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "revelacion",
+      "suggestion": "revelación",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "fenomenos",
+      "suggestion": "fenómenos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_dotes/habilidad.md"
+      ]
+    },
+    {
+      "word": "interaccionas",
+      "suggestion": "interaccionas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_habilidades/engano.md"
+      ]
+    },
+    {
+      "word": "esperables",
+      "suggestion": "esperables",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_habilidades/sigilo.md"
+      ]
+    },
+    {
+      "word": "maximo",
+      "suggestion": "máximo",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/introduccion.md"
+      ]
+    },
+    {
+      "word": "asi",
+      "suggestion": "así",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/introduccion.md"
+      ]
+    },
+    {
+      "word": "reenfocas",
+      "suggestion": "reenofcas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/introduccion.md"
+      ]
+    },
+    {
+      "word": "origenes",
+      "suggestion": "orígenes",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/introduccion.md"
+      ]
+    },
+    {
+      "word": "caracteristica",
+      "suggestion": "característica",
+      "count": 1,
+      "reason": "Término técnico de Pathfinder 2",
+      "files": [
+        "./docs/_conjuros/introduccion.md"
+      ]
+    },
+    {
+      "word": "demas",
+      "suggestion": "demás",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/introduccion.md"
+      ]
+    },
+    {
+      "word": "resiliencia",
+      "suggestion": "resiliencia",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md"
+      ]
+    },
+    {
+      "word": "racheado",
+      "suggestion": "achasado",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md"
+      ]
+    },
+    {
+      "word": "lentifica",
+      "suggestion": "lentifica",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md"
+      ]
+    },
+    {
+      "word": "desencadenante",
+      "suggestion": "desencadenante",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md"
+      ]
+    },
+    {
+      "word": "indetectable",
+      "suggestion": "indetectable",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md"
+      ]
+    },
+    {
+      "word": "colapse",
+      "suggestion": "colapso",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/arcana.md"
+      ]
+    },
+    {
+      "word": "traera",
+      "suggestion": "traerá",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/oculta.md"
+      ]
+    },
+    {
+      "word": "heroismo",
+      "suggestion": "heroísmo",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/oculta.md"
+      ]
+    },
+    {
+      "word": "danino",
+      "suggestion": "dañino",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/oculta.md"
+      ]
+    },
+    {
+      "word": "danina",
+      "suggestion": "dañina",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/listas/primigenia.md"
+      ]
+    },
+    {
+      "word": "cambiaformas",
+      "suggestion": "cambiaformas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros-foco/druida.md"
+      ]
+    },
+    {
+      "word": "polimorfado",
+      "suggestion": "polimorfado",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros-foco/druida.md"
+      ]
+    },
+    {
+      "word": "combinandolos",
+      "suggestion": "combinándolos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/a-c.md"
+      ]
+    },
+    {
+      "word": "llegais",
+      "suggestion": "llegáis",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/a-c.md"
+      ]
+    },
+    {
+      "word": "encerrandola",
+      "suggestion": "encerrándola",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/d-f.md"
+      ]
+    },
+    {
+      "word": "obligandole",
+      "suggestion": "obligándole",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/d-f.md"
+      ]
+    },
+    {
+      "word": "reenfocado",
+      "suggestion": "reenfocado",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/g-m.md"
+      ]
+    },
+    {
+      "word": "amontonandose",
+      "suggestion": "amontonándose",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/g-m.md"
+      ]
+    },
+    {
+      "word": "subiendose",
+      "suggestion": "subiéndose",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/g-m.md"
+      ]
+    },
+    {
+      "word": "impondrian",
+      "suggestion": "impondrían",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/g-m.md"
+      ]
+    },
+    {
+      "word": "aferrandose",
+      "suggestion": "aferrándose",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_conjuros/conjuros/t-z.md"
+      ]
+    },
+    {
+      "word": "opcion",
+      "suggestion": "opción",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/atributos.md"
+      ]
+    },
+    {
+      "word": "clerigo",
+      "suggestion": "clérigo",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/creacion-personajes.md"
+      ]
+    },
+    {
+      "word": "cancion",
+      "suggestion": "canción",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/creacion-personajes.md"
+      ]
+    },
+    {
+      "word": "seccion",
+      "suggestion": "sección",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/creacion-personajes.md"
+      ]
+    },
+    {
+      "word": "marcandolos",
+      "suggestion": "marcándolos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/creacion-personajes.md"
+      ]
+    },
+    {
+      "word": "extranas",
+      "suggestion": "extrañas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/golarion.md"
+      ]
+    },
+    {
+      "word": "ficcion",
+      "suggestion": "ficción",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/golarion.md"
+      ]
+    },
+    {
+      "word": "rebanos",
+      "suggestion": "rebaños",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/golarion.md"
+      ]
+    },
+    {
+      "word": "epicos",
+      "suggestion": "épicos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/golarion.md"
+      ]
+    },
+    {
+      "word": "decadas",
+      "suggestion": "décadas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/golarion.md"
+      ]
+    },
+    {
+      "word": "canones",
+      "suggestion": "cánones",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/golarion.md"
+      ]
+    },
+    {
+      "word": "fisicos",
+      "suggestion": "físicos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/puntos-basicos.md"
+      ]
+    },
+    {
+      "word": "deberian",
+      "suggestion": "deberían",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/religion.md"
+      ]
+    },
+    {
+      "word": "atraccion",
+      "suggestion": "atracción",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/religion.md"
+      ]
+    },
+    {
+      "word": "adoracion",
+      "suggestion": "adoración",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/religion.md"
+      ]
+    },
+    {
+      "word": "sacrilegeas",
+      "suggestion": "sacrilegas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/religion.md"
+      ]
+    },
+    {
+      "word": "haciendolos",
+      "suggestion": "haciéndolos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_introduccion/religion.md"
+      ]
+    },
+    {
+      "word": "fortisimma",
+      "suggestion": "fortísima",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_clases/bardo/dotes.md"
+      ]
+    },
+    {
+      "word": "preparandoles",
+      "suggestion": "preparándoles",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_clases/bardo/dotes.md"
+      ]
+    },
+    {
+      "word": "teurgicos",
+      "suggestion": "teúrgicos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_clases/arquetipos/multiclase/clerigo.md"
+      ]
+    },
+    {
+      "word": "interaccion",
+      "suggestion": "interacción",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_clases/arquetipos/multiclase/explorador.md"
+      ]
+    },
+    {
+      "word": "piromanticas",
+      "suggestion": "piromántcas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_clases/mago/caracteristicas.md"
+      ]
+    },
+    {
+      "word": "asegurate",
+      "suggestion": "asegúrate",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_equipo/armaduras.md"
+      ]
+    },
+    {
+      "word": "pocion",
+      "suggestion": "poción",
+      "count": 1,
+      "reason": "Término técnico de Pathfinder 2",
+      "files": [
+        "./docs/_equipo/introduccion.md"
+      ]
+    },
+    {
+      "word": "interactuas",
+      "suggestion": "interactúas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_equipo/introduccion.md"
+      ]
+    },
+    {
+      "word": "oscurecedor",
+      "suggestion": "oscurecedor",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_apendices/estados-f-z.md"
+      ]
+    },
+    {
+      "word": "empunar",
+      "suggestion": "empuñar",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/acciones-basicas.md"
+      ]
+    },
+    {
+      "word": "pags",
+      "suggestion": "págs",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/acciones-basicas.md"
+      ]
+    },
+    {
+      "word": "empunas",
+      "suggestion": "empuñas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/acciones-basicas.md"
+      ]
+    },
+    {
+      "word": "tendrian",
+      "suggestion": "tendrían",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/acciones-basicas.md"
+      ]
+    },
+    {
+      "word": "acabarian",
+      "suggestion": "acabarían",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/acciones-basicas.md"
+      ]
+    },
+    {
+      "word": "requeriran",
+      "suggestion": "requerirán",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "anaden",
+      "suggestion": "añaden",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "obstaculos",
+      "suggestion": "obstáculos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "alquimicas",
+      "suggestion": "alquímicas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "especializacion",
+      "suggestion": "especialización",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/ataques-defensas.md"
+      ]
+    },
+    {
+      "word": "flamigera",
+      "suggestion": "flamígera",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/batallas-especiales.md"
+      ]
+    },
+    {
+      "word": "constructos",
+      "suggestion": "constructos",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/dano.md"
+      ]
+    },
+    {
+      "word": "pajaro",
+      "suggestion": "pájaro",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "tuneles",
+      "suggestion": "túneles",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "dificiles",
+      "suggestion": "difíciles",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "caidas",
+      "suggestion": "caídas",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "reduccion",
+      "suggestion": "reducción",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "interactuan",
+      "suggestion": "interactúan",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "empujon",
+      "suggestion": "empujón",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "vacio",
+      "suggestion": "vacío",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "reposicionan",
+      "suggestion": "reposicionan",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/movimiento.md"
+      ]
+    },
+    {
+      "word": "haria",
+      "suggestion": "haría",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "dromaar",
+      "suggestion": "dromaar",
+      "count": 1,
+      "reason": "Parte de mecánica del juego",
+      "files": [
+        "./docs/_ascendencias/herencias-versatiles/ascendencia-mixta.md"
+      ]
+    }
+  ],
+  "noDebenCambiar": [
+    {
+      "word": "accion",
+      "count": 75,
+      "reason": "Término técnico core de Pathfinder 2",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_introduccion/como-se-juega.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/acciones-especialidad.md",
+        "./docs/_reglas/acciones-especialidad.md",
+        "./docs/_reglas/acciones-especialidad.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "exito",
+      "count": 50,
+      "reason": "Término técnico core de Pathfinder 2",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_dotes/habilidad.md",
+        "./docs/_introduccion/atributos.md",
+        "./docs/_introduccion/atributos.md",
+        "./docs/_introduccion/como-se-juega.md",
+        "./docs/_introduccion/como-se-juega.md",
+        "./docs/_equipo/introduccion.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/batallas-especiales.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/movimiento.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md",
+        "./docs/_reglas/percepcion-deteccion.md"
+      ]
+    },
+    {
+      "word": "reaccion",
+      "count": 6,
+      "reason": "Término técnico core de Pathfinder 2",
+      "files": [
+        "./docs/_dotes/habilidad.md",
+        "./docs/_introduccion/encuentros.md",
+        "./docs/_reglas/acciones-basicas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/ataques-defensas.md",
+        "./docs/_reglas/movimiento.md"
+      ]
+    }
+  ]
+}

@@ -28,4 +28,4 @@ Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el 
 
 **Fallo critico** La criatura sufre doble dano por vacio y doble dano persistente por sangrado.
 
-**Potenciado (+1)** El dano por vacio se incrementa en 2d4 y el dano persistente por sangrado se incrementa en 1.
+**Potenciado (+1)** El dano por vacío se incrementa en 2d4 y el dano persistente por sangrado se incrementa en 1.

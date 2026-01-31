@@ -19,4 +19,4 @@ spell_level: 4
 
 ---
 
-Atisbas en el futuro. Elige un objetivo o actividad particular que planeas emprender en el plazo de 1 semana, o un suceso que esperas pueda tener lugar en el plazo de 1 semana. Averiguas un fragmento criptico de informacion o un consejo que podria ayudarte en el acontecimiento elegido, a menudo en forma de una rima o presagio.
+Atisbas en el futuro. Elige un objetivo o actividad particular que planeas emprender en el plazo de 1 semana, o un suceso que esperas pueda tener lugar en el plazo de 1 semana. Averiguas un fragmento criptico de información o un consejo que podria ayudarte en el acontecimiento elegido, a menudo en forma de una rima o presagio.
