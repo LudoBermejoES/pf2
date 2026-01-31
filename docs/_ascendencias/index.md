@@ -5,37 +5,22 @@ title: Ascendencias
 description: Contenido del capítulo Ascendencias
 ---
 
-Contenido del capítulo Ascendencias
+Elige tu ascendencia para comenzar tu aventura en Pathfinder 2e. Cada ascendencia ofrece habilidades únicas, estadísticas y una perspectiva diferente del mundo de Golarion.
 
-## Contenido
+## Ascendencias
 
-- [Bagajes]({{ '/ascendencias/bagajes/' | relative_url }})
-- [Elfo]({{ '/ascendencias/elfo/descripcion/' | relative_url }})
-- [Dotes de Ascendencia: Elfo]({{ '/ascendencias/elfo/dotes/' | relative_url }})
-- [Herencias para Elfos]({{ '/ascendencias/elfo/herencias/' | relative_url }})
-- [Enano]({{ '/ascendencias/enano/descripcion/' | relative_url }})
-- [Dotes de Ascendencia: Enano]({{ '/ascendencias/enano/dotes/' | relative_url }})
-- [Herencias para Enanos]({{ '/ascendencias/enano/herencias/' | relative_url }})
-- [Gnomo]({{ '/ascendencias/gnomo/descripcion/' | relative_url }})
-- [Dotes de Ascendencia: Gnomo]({{ '/ascendencias/gnomo/dotes/' | relative_url }})
-- [Herencias para Gnomos]({{ '/ascendencias/gnomo/herencias/' | relative_url }})
-- [Goblin]({{ '/ascendencias/goblin/descripcion/' | relative_url }})
-- [Dotes de Ascendencia: Goblin]({{ '/ascendencias/goblin/dotes/' | relative_url }})
-- [Herencias para Goblins]({{ '/ascendencias/goblin/herencias/' | relative_url }})
-- [Ascendencia Mixta]({{ '/ascendencias/herencias-versatiles/ascendencia-mixta/' | relative_url }})
-- [Changeling]({{ '/ascendencias/herencias-versatiles/changeling/' | relative_url }})
-- [Herencias Versátiles]({{ '/ascendencias/herencias-versatiles/introduccion/' | relative_url }})
-- [Nefilim]({{ '/ascendencias/herencias-versatiles/nefilim/' | relative_url }})
-- [Humano]({{ '/ascendencias/humano/descripcion/' | relative_url }})
-- [Dotes de Ascendencia: Humano]({{ '/ascendencias/humano/dotes/' | relative_url }})
-- [Herencias para Humanos]({{ '/ascendencias/humano/herencias/' | relative_url }})
-- [Idiomas]({{ '/ascendencias/idiomas/' | relative_url }})
-- [Leshy]({{ '/ascendencias/leshy/descripcion/' | relative_url }})
-- [Dotes de Ascendencia: Leshy]({{ '/ascendencias/leshy/dotes/' | relative_url }})
-- [Herencias para Leshys]({{ '/ascendencias/leshy/herencias/' | relative_url }})
-- [Mediano]({{ '/ascendencias/mediano/descripcion/' | relative_url }})
-- [Dotes de Ascendencia: Mediano]({{ '/ascendencias/mediano/dotes/' | relative_url }})
-- [Herencias para Medianos]({{ '/ascendencias/mediano/herencias/' | relative_url }})
-- [Orco]({{ '/ascendencias/orco/descripcion/' | relative_url }})
-- [Dotes de Ascendencia: Orco]({{ '/ascendencias/orco/dotes/' | relative_url }})
-- [Herencias para Orcos]({{ '/ascendencias/orco/herencias/' | relative_url }})
+| Ascendencia | Descripción |
+|------------|-------------|
+| [Humano]({{ '/ascendencias/humano/' | relative_url }}) | Tan impredecibles y variados como cualquiera de los pueblos de Golarion, los humanos tienen un empuje excepcional y la capacidad de aguantar y expandirse. Ambición, versatilidad y potencial excepcional. |
+| [Elfo]({{ '/ascendencias/elfo/' | relative_url }}) | Un pueblo antiguo con perspectiva que procede de contemplar el arco de la historia. Valoran la amabilidad, la inteligencia y la belleza. Mágicos, místicos y misteriosos. |
+| [Enano]({{ '/ascendencias/enano/' | relative_url }}) | Gente estoica y severa con un celo desenfrenado por la artesanía. Para sus amigos, son cálidos y solícitos. Duro como el acero, obstinado y constante. |
+| [Mediano]({{ '/ascendencias/mediano/' | relative_url }}) | Sin reclamar ningún lugar como propio, los medianos viven entre otras ascendencias. Optimistas, alegres y empujados por una poderosa ansia viajera. |
+| [Gnomo]({{ '/ascendencias/gnomo/' | relative_url }}) | Antepasados procedentes del Primer Mundo buscan constantemente nuevas experiencias. Siempre en busca de inspiración, razonamientos extraños y excentricidad. |
+| [Orco]({{ '/ascendencias/orco/' | relative_url }}) | Forjados en los fuegos de la violencia, los orcos son resistentes y temibles. Destacan por sus proezas físicas y su fidelidad sin igual. |
+| [Goblin]({{ '/ascendencias/goblin/' | relative_url }}) | Pequeños pueblo que vive el momento y prefiere los relatos fantásticos a los hechos reales. Excéntricos, entusiastas y amantes de la diversión. |
+| [Leshy]({{ '/ascendencias/leshy/' | relative_url }}) | Espíritus inmortales de la Naturaleza en forma física temporal. Guardianes y emisarios del entorno, curiosos y conectados con la Naturaleza. |
+| [Herencias Versátiles]({{ '/ascendencias/herencias-versatiles/' | relative_url }}) | Resultado de fusiones de energía extraplanaria o circunstancias inusuales. Ascendencia Mixta, Changeling y Nefilim ofrecen posibilidades únicas. |
+
+## Bagajes
+
+- [Bagajes]({{ '/ascendencias/bagajes/' | relative_url }}) - Tu trasfondo y experiencia antes de convertirte en aventurero.
