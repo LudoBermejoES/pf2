@@ -44,7 +44,7 @@ PC = poco común.
 - **[Curar](/conjuros/curar/) P** Haces que la energía vital cure a los vivos o dañe a los muertos vivientes, o bien a una sola criatura, o a todas en una explosión.
 - **[Dañar](/conjuros/danar/) P** Haces que la energía del vacío dañe a los vivos o cure a los muertos vivientes, o bien a una sola criatura, o a todas en una explosión.
 - **[Debilitar](/conjuros/debilitar/) ** Minas la fuerza de una criatura.
-- **[Detectar venenoP, PC](/conjuros/detectar-venenop,-pc/) ** Determinas si un objeto o criatura es venenoso o está envenenado.
+- **[Detectar veneno, PC](/conjuros/detectar-venenop,-pc/) P** Determinas si un objeto o criatura es venenoso o está envenenado.
 - **[Infundir vitalidad](/conjuros/infundir-vitalidad/) P** Potencias los ataques con energía vital para dañar a los muertos vivientes.
 - **[Limpiar cocinados](/conjuros/limpiar-cocinados/) ** Haces que la comida y la bebida sean seguros y deliciosos.
 - **[Miedo](/conjuros/miedo/) P** Asustas a una criatura, obligándola posiblemente a huir.
@@ -72,7 +72,7 @@ PC = poco común.
 - **[Explosión de ruido](/conjuros/explosion-de-ruido/) P** Dañas y ensordeces a las criaturas con un poderoso estrépito.
 - **[Limpiar aflicción](/conjuros/limpiar-afliccion/) P** Tratas una maldición, enfermedad o veneno.
 - **[Luz eterna](/conjuros/luz-eterna/) ** Haces que una gema brille eternamente.
-- **[Luz reveladora](/conjuros/luz-reveladora/) ** Haces que una luz deslumbrante contrarrestre la invisibilidad y la ocultación.
+- **[Luz reveladora](/conjuros/luz-reveladora/) ** Haces que una luz deslumbrante contrarreste la invisibilidad y la ocultación.
 - **[Montura maravillosa](/conjuros/montura-maravillosa/) P** Conjuras una montura fantástica.
 - **[Oscuridad](/conjuros/oscuridad/) P** Suprimes toda la luz en un área.
 - **[Pisada segura](/conjuros/pisada-segura/) P** Contrarrestas los estados torpe, apresado, paralizado o los relacionados con ellos.
@@ -93,7 +93,7 @@ PC = poco común.
 - **[Festín vampírico](/conjuros/festin-vampirico/) P** Infliges daño por vacío y obtienes Puntos de Golpe temporales con un toque.
 - **[Hablar con las plantas](/conjuros/hablar-con-las-plantas/) P** Te comunicas con las plantas y con las criaturas del tipo planta.
 - **[Heroísmo](/conjuros/heroismo/) P** Avivas el heroísmo interior de una criatura para hacerla más competente.
-- **[LocalizarP, PC](/conjuros/localizarp,-pc/) ** Averiguas la dirección hasta un objeto.
+- **[Localizar, PC](/conjuros/localizarp,-pc/) P** Averiguas la dirección hasta un objeto.
 - **[Luz sagrada](/conjuros/luz-sagrada/) P** Haces que un rayo de luz ardiente inflija daño adicional a los infernales y a otras criaturas sacrílegas.
 - **[Mensaje onírico](/conjuros/mensaje-onirico/) P** Envías un mensaje que llega dentro de un sueño.
 - **[Oscuridad congeladora](/conjuros/oscuridad-congeladora/) P** Haces que un rayo de oscuridad sacrílega inflija daño por frío, disipe la luz y dañe a los objetivos sagrados.
@@ -123,7 +123,7 @@ PC = poco común.
 - **[Destierro](/conjuros/destierro/) P** Envías a una criatura de vuelta a su Plano natal.
 - **[Explosión de sombra](/conjuros/explosion-de-sombra/) P** Das forma a un cono dañino de sustancia sombría, que inflige daño de un tipo a elegir por ti.
 - **[Guardián espiritual](/conjuros/guardian-espiritual/) P** Creas un guardián mágico para que ataque a tu orden y sufra daño en lugar de tus aliados.
-- **[Habla verdaderaP, PC](/conjuros/habla-verdaderap,-pc/) ** Permites a una criatura que hable y entienda todos los idiomas.
+- **[Habla verdadera, PC](/conjuros/habla-verdaderap,-pc/) P** Permites a una criatura que hable y entienda todos los idiomas.
 - **[Hablar con las piedras](/conjuros/hablar-con-las-piedras/) P** Te comunicas con la piedra natural y la trabajada.
 - **[Inmolación divina](/conjuros/inmolacion-divina/) P** Haces caer del cielo fuego divino.
 - **[Invocar espíritus](/conjuros/invocar-espiritus/) P** Llamas a un grupo de apariciones fantasmales para que ataquen a tus enemigos.
@@ -141,7 +141,7 @@ PC = poco común.
 - **[Forma de dragón](/conjuros/forma-de-dragon/) P** Te conviertes en un dragón.
 - **[Límite bendito](/conjuros/limite-bendito/) P** Manifiestas fuerza divina en forma de una esfera protectora.
 - **[Rechazo](/conjuros/rechazo/) ** Evitas que las criaturas se te aproximen.
-- **[Revivir a los muertosP, PC](/conjuros/revivir-a-los-muertosp,-pc/) ** Retornas a la vida a una criatura muerta.
+- **[Revivir a los muertos, PC](/conjuros/revivir-a-los-muertosp,-pc/) P** Retornas a la vida a una criatura muerta.
 - **[Visión verdadera](/conjuros/vision-verdadera/) ** Ves a través de las ilusiones y de las transformaciones físicas.
 
 ## Conjuros de 7.º rango
@@ -159,7 +159,7 @@ PC = poco común.
 
 - **[Cántico del dolor eterno](/conjuros/cantico-del-dolor-eterno/) ** Cantas una endecha lastimera que asusta y daña mentalmente a un enemigo, anulando sus bonificadores.
 - **[Inspiración divina](/conjuros/inspiracion-divina/) ** Provocas que una energía espiritual recupere un conjuro gastado de una criatura.
-- **[Momento de renovación](/conjuros/momento-de-renovacion/) ** Concedes una criatura el equivalente a un día de recuperación en un instante.
+- **[Momento de renovación](/conjuros/momento-de-renovacion/) ** Concedes a una criatura el equivalente a un día de recuperación en un instante.
 - **[Ubicar](/conjuros/ubicar/) P** Averiguas la ubicación exacta de una criatura u objeto.
 
 ## Conjuros de 9.º rango
