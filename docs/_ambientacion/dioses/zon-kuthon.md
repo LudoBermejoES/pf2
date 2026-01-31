@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/zon-kuthon/
+permalink: /ambientacion/dioses/zon-kuthon/
 title: Zon-Kuthon
 subtitle: Señor de la Medianoche
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 20
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Antiguamente un dios del arte, la belleza y la musica como Shelyn, el Señor de la Medianoche volvio horriblemente cambiado de un viaje por los espacios oscuros entre los Planos. Ahora, Zon-Kuthon ensena los placeres del dolor y la oscuridad.

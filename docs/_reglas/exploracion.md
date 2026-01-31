@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /introduccion/exploracion/
+permalink: /reglas/exploracion/
 title: Exploración
-chapter: Introduccion
-category: introduccion
+chapter: Cómo Jugar
+category: reglas
 nav_order: 0
 ---
 

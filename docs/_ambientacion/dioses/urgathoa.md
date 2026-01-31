@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/urgathoa/
+permalink: /ambientacion/dioses/urgathoa/
 title: Urgathoa
 subtitle: Princesa Palida
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 19
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Encaprichada de los placeres del mundo de los vivos, Urgathoa escapo a las garras de la muerte y la otra vida, convirtiéndose en el primero de los muertos vivientes. Ahora, la Princesa Palida se regocija compartiendo sus apetitos hedonistas y extendiendo la muerte en vida.

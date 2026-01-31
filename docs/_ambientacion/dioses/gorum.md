@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/gorum/
+permalink: /ambientacion/dioses/gorum/
 title: Gorum
 subtitle: Señor del Hierro
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 8
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Quien busca la gloria en el campo de batalla reza plegarias a Nuestro Señor del Hierro. Gorum enfatiza el poder, animando a sus seguidores a buscar la guerra y el combate como la forma definitiva de adorarle.

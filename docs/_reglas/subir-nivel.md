@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /introduccion/subir-nivel/
+permalink: /reglas/subir-nivel/
 title: Subir de Nivel
-chapter: Introduccion
-category: introduccion
+chapter: Cómo Jugar
+category: reglas
 nav_order: 0
 ---
 

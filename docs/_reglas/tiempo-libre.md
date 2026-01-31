@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /introduccion/tiempo-libre/
+permalink: /reglas/tiempo-libre/
 title: Tiempo Libre
-chapter: Introduccion
-category: introduccion
+chapter: Cómo Jugar
+category: reglas
 nav_order: 0
 ---
 

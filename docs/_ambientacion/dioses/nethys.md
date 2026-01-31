@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/nethys/
+permalink: /ambientacion/dioses/nethys/
 title: Nethys
 subtitle: Ojo que Todo lo Ve
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 13
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Antiguamente un maestro mortal de la magia, Nethys busco desentrañar todos los secretos de los Planos, ascendiendo a la divinidad cuando su mente entendio del todo el potencial completo de la magia. El Ojo que Todo lo Ve es un dios dualista, que ensena a la vez los potenciales destructor y protector de la magia.

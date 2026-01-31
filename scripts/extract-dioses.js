@@ -82,13 +82,35 @@ grand_parent: Introducción
   console.log(`Created: ${filePath}`);
 });
 
+// Function to extract areas of interest from content
+function extractAreasOfInterest(content) {
+  const match = content.match(/- \*\*Areas de interes:\*\* ([^\n]+)/);
+  return match ? match[1] : '';
+}
+
+// Function to create a good short description (2-3 sentences)
+function createShortDescription(fullContent) {
+  const lines = fullContent.split('\n').filter(l => l.trim() && !l.startsWith('-') && !l.startsWith('|'));
+  let description = '';
+  let sentenceCount = 0;
+
+  for (let line of lines) {
+    description += ' ' + line;
+    sentenceCount += (line.match(/\./g) || []).length;
+    if (sentenceCount >= 2) break;
+  }
+
+  return description.trim().substring(0, 120) + '...';
+}
+
 // Generate table markdown for religion.md
-let tableMarkdown = '\n## Dioses principales\n\n| Dios | Epíteto | Descripción |\n|-----|---------|-------------|\n';
+let tableMarkdown = '\n## Dioses principales\n\n| Dios | Epíteto | Áreas de Interés | Descripción |\n|-----|---------|------------------|-------------|\n';
 
 gods.forEach((god) => {
   const slug = createSlug(god.name);
-  const shortDesc = god.description.split('\n')[0].substring(0, 100) + '...';
-  tableMarkdown += `| [${god.name}](/introduccion/dioses/${slug}/) | ${god.title} | ${shortDesc.replace(/\|/g, '\\|')} |\n`;
+  const areasOfInterest = extractAreasOfInterest(god.fullContent);
+  const shortDesc = createShortDescription(god.fullContent);
+  tableMarkdown += `| [${god.name}](/introduccion/dioses/${slug}/) | ${god.title} | ${areasOfInterest.replace(/\|/g, '\\|')} | ${shortDesc.replace(/\|/g, '\\|')} |\n`;
 });
 
 // Read the full religion.md file

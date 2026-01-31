@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/erastil/
+permalink: /ambientacion/dioses/erastil/
 title: Erastil
 subtitle: Viejo Certero
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 6
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Hace mucho, Erastil era un dios astado de la caza, pero su adoración evoluciono para centrarse en las comunidades rurales. El Viejo Certero no desea otra cosa que una vida pacifica para sus seguidores, llamandoles a las armas tan solo cuando esa existencia pastoril se ve amenazada.

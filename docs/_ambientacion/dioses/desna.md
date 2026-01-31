@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/desna/
+permalink: /ambientacion/dioses/desna/
 title: Desna
 subtitle: Canción de las Esferas
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 5
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a los viajeros a traves de la oscuridad y a los sonadores a traves de las pesadillas. Se deleita en la libertad y el misterio, y anima a sus seguidores a hacer lo propio.

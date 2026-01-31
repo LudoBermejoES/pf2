@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/iomedae/
+permalink: /ambientacion/dioses/iomedae/
 title: Iomedae
 subtitle: Heredera
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 10
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Antes de su ascension y de heredar muchos adoradores del dios de la humanidad, Iomedae era una combatiente sagrada en las guerras contra los muertos vivientes. La Heredera defiende los valores de la virtud, luchando contra los malvados y los injustos.

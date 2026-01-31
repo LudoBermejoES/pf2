@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/norgorber/
+permalink: /ambientacion/dioses/norgorber/
 title: Norgorber
 subtitle: La Sombra
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 14
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Esta sombria figura suele ser adorada en cuatro aspectos: Dedos Negros, aliado de los alquimistas y de los envenenadores; el asesino Padre Desollador; el Maestro Gris, dedicado al latrocinio; y el secretista Segador de Reputaciónes.

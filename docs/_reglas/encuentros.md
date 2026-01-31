@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /introduccion/encuentros/
+permalink: /reglas/encuentros/
 title: Encuentros
-chapter: Introduccion
-category: introduccion
+chapter: Cómo Jugar
+category: reglas
 nav_order: 0
 ---
 

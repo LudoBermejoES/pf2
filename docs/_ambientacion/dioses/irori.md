@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/irori/
+permalink: /ambientacion/dioses/irori/
 title: Irori
 subtitle: Maestro de Maestros
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 11
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Como mortal, Irori alcanzo la autentica iluminación, lo que le permitió liberarse de los grilletes de la mortalidad y alcanzar la divinidad. Como dios, es el Maestro de Maestros, promueve la disciplina y ensena que quien puede dominarse a si mismo encuentra los mayores beneficios que el mundo puede proporcionar.

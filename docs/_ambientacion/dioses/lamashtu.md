@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/lamashtu/
+permalink: /ambientacion/dioses/lamashtu/
 title: Lamashtu
 subtitle: Madre de los Monstruos
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 12
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Lamashtu se deleita en la corrupcion de lo que es puro. Los cambios físicos y las pesadillas que dejan sus intervenciones son tratados como regalos por sus seguidores y como terrores desagradables por el mundo exterior. Hay algunos que encuentran alivio o incluso una familia entre los seguidores de Lamashtu debido a la mayor aceptacion de las diferencias que tiene su fe.

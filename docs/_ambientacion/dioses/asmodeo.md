@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/asmodeo/
+permalink: /ambientacion/dioses/asmodeo/
 title: Asmodeo
 subtitle: Principe de la Oscuridad
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 2
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Asmodeo se deleita tentando a los mortales para que se den a la corrupcion. Promueve jerarquias en las que todo el mundo sabe cual es su lugar y se aprovecha del orden en beneficio propio.

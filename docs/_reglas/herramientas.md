@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /introduccion/herramientas/
+permalink: /reglas/herramientas/
 title: Herramientas de Juego
-chapter: Introduccion
-category: introduccion
+chapter: Cómo Jugar
+category: reglas
 nav_order: 0
 ---
 

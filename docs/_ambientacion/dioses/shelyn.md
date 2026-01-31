@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/shelyn/
+permalink: /ambientacion/dioses/shelyn/
 title: Shelyn
 subtitle: Rosa Eterna
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 17
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un mundo que a veces es oscuro. Busca redimir algún dia a su corrompido hermano Zon-Kuthon.

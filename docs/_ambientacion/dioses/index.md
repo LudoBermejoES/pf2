@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /introduccion/dioses/
+permalink: /ambientacion/dioses/
 title: Dioses
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 6
-parent: Introducción
+parent: Ambientación
 ---
 
 Los dioses principales de Golarion representan una variedad de creencias y dominios. Cada uno ofrece bendiciones únicas a sus devotos.

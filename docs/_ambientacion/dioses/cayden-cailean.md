@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/cayden-cailean/
+permalink: /ambientacion/dioses/cayden-cailean/
 title: Cayden Cailean
 subtitle: Héroe Borracho
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 4
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 El Dios Accidental ascendio de la vida mortal en un desafio de borracho. Cayden promueve la libertad y anima a otros a encontrar su propio camino en la vida. Lucha por las causas justas y se deleita en las mejores satisfacciones.

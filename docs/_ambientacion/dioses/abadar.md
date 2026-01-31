@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /introduccion/dioses/abadar/
+permalink: /ambientacion/dioses/abadar/
 title: Abadar
 subtitle: Amo de la Primera Boveda
-chapter: Introducción
-category: introduccion
+chapter: Ambientación
+category: ambientacion
 nav_order: 1
-parent: Religion
-grand_parent: Introducción
+parent: Dioses
+grand_parent: Ambientación
 ---
 
 Abadar busca llevar la civilización a las tierras virgenes del mundo, anima el respeto a la ley y promueve el comercio y el intercambio en el interior de la civilización. Tambien anima a la cooperación entre las diversas ascendencias.
