@@ -24,9 +24,9 @@ spell_level: 3
 
 Haces brillar un abrasador rayo de luz tenido de energia sagrada. Haz un ataque de conjuro a distancia. El rayo inflige 5d6 dano por fuego. Si el objetivo tiene el rasgo sacrilego, infliges 5d6 dano adicional espiritual.
 
-**Exito critico** El objetivo sufre doble dano.
+**Éxito critico** El objetivo sufre doble dano.
 
-**Exito** El objetivo sufre dano completo.
+**Éxito** El objetivo sufre dano completo.
 
 Si la luz atraviesa un area de oscuridad magica o designa como objetivo a una criatura afectada por oscuridad magica, luz sagrada hace una prueba para contrarrestar la oscuridad. Si tienes que determinar si la luz atraviesa o no un area de oscuridad, traza una linea entre ti mismo y el objetivo del conjuro.
 

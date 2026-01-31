@@ -19,7 +19,7 @@ spell_level: 3
 
 ---
 
-Liberas el heroísmo interior del objetivo, concediendole un bonificador +1 por estatus a las tiradas de ataque, pruebas de Percepción, tiradas de salvacion y pruebas de habilidad.
+Liberas el heroísmo interior del objetivo, concediendole un bonificador +1 por estatus a las tiradas de ataque, pruebas de Percepción, tiradas de salvación y pruebas de habilidad.
 
 **Potenciado (6.o)** El bonificador por estatus se incrementa a +2.
 

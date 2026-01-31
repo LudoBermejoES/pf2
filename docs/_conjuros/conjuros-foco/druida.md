@@ -66,7 +66,7 @@ Ademas, una vez por asalto puedes ordenar a los brezos que empalen a cualquier o
 
 Unos zarcillos se enredan en forma de cuerno de mimbre en tus manos, y de allí surge un solo fruto, nuez o pequeno producto similar. Una criatura que consume el producto mediante una acción de Interactuar recupera 1d6+4 PG. La cornucopia, así como cualquier pieza no consumida de fruta, se marchita al final de la duración del conjuro.
 
-**Potenciado (+1)** La cornucopia produce una pieza adicional de comida. Una criatura puede consumir cualquier cantidad de comida del mismo lanzamiento con una sola accion de Interactuar. Comerse 6 piezas de producto de la cornucopia proporciona el mismo alimento que una comida completa para un humano tipico.
+**Potenciado (+1)** La cornucopia produce una pieza adicional de comida. Una criatura puede consumir cualquier cantidad de comida del mismo lanzamiento con una sola acción de Interactuar. Comerse 6 piezas de producto de la cornucopia proporciona el mismo alimento que una comida completa para un humano tipico.
 
 ---
 

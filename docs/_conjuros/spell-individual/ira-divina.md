@@ -19,11 +19,11 @@ spell_level: 4
 
 ---
 
-Canalizas la furia de la divinidad contra tus enemigos. Infliges 4d10 dano espiritual a tus enemigos en el area; cada enemigo tiene que hacer una salvacion de Fortaleza.
+Canalizas la furia de la divinidad contra tus enemigos. Infliges 4d10 dano espiritual a tus enemigos en el area; cada enemigo tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y queda indispuesta 1.
 

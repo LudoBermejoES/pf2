@@ -11,7 +11,7 @@ Contenido del capítulo Introducción
 
 - [Atributos]({{ '/introduccion/atributos/' | relative_url }})
 - [Como se Juega]({{ '/introduccion/como-se-juega/' | relative_url }})
-- [Creacion de Personajes]({{ '/introduccion/creacion-personajes/' | relative_url }})
+- [Creación de Personajes]({{ '/introduccion/creacion-personajes/' | relative_url }})
 - [Dados]({{ '/introduccion/dados/' | relative_url }})
 - [Encuentros]({{ '/introduccion/encuentros/' | relative_url }})
 - [Exploración]({{ '/introduccion/exploración/' | relative_url }})

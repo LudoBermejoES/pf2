@@ -32,7 +32,7 @@ Los dientes de tu familia son armas formidables.
 
 Eres capaz de recuperarte rapidamente de las heridas debido a un craneo excepcionalmente grueso, huesos cartilaginosos o alguna otra cosa con ventajas e inconvenientes.
 
-**Beneficio:** Obtienes 10 Puntos de Golpe debido a tu ascendencia en lugar de 6. Cuando caes, reduces el dano por caida sufrido como si solo hubieras caido la mitad de la distancia.
+**Beneficio:** Obtienes 10 Puntos de Golpe debido a tu ascendencia en lugar de 6. Cuando caes, reduces el dano por caída sufrido como si solo hubieras caido la mitad de la distancia.
 
 ---
 
@@ -40,7 +40,7 @@ Eres capaz de recuperarte rapidamente de las heridas debido a un craneo excepcio
 
 Tus antepasados siempre han tenido conexión con el fuego y la piel mas gruesa, lo que te permite resistir las quemaduras.
 
-**Beneficio:** Obtienes tanta resistencia al fuego como la mitad de tu nivel (minimo 1). Tambien puedes recuperarte mas facilmente de estar ardiendo. Tu prueba plana para eliminar el dano persistente por fuego es CD 10 en lugar de CD 15, que se reduce a CD 5 si otra criatura utiliza una accion particularmente apropiada para ayudarte.
+**Beneficio:** Obtienes tanta resistencia al fuego como la mitad de tu nivel (minimo 1). Tambien puedes recuperarte mas facilmente de estar ardiendo. Tu prueba plana para eliminar el dano persistente por fuego es CD 10 en lugar de CD 15, que se reduce a CD 5 si otra criatura utiliza una acción particularmente apropiada para ayudarte.
 
 ---
 

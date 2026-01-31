@@ -22,9 +22,9 @@ spell_level: 1
 
 Desatas una multitud giratoria de colores que abruma a las criaturas, segun sus salvaciones de Voluntad.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura queda deslumbrada durante 1 asalto.
+**Éxito** La criatura queda deslumbrada durante 1 asalto.
 
 **Fallo** La criatura queda aturdida 1, cegada durante 1 asalto y deslumbrada durante 1 minuto.
 

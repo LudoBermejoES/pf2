@@ -41,9 +41,9 @@ A continuación hay algunos términos clave que aparecen en muchos rasgos de cla
 
 **Debilitacion:** Las debilitaciones imponen estados y otros efectos negativos a una criatura. Si una criatura resultara afectada por una nueva debilitacion, cualquier otra que la estuviera afectando se acabaria.
 
-**Floritura:** Las acciones con este rasgo son tecnicas especiales que requieren demasiado esfuerzo para que las lleves a cabo de forma frecuente. Solo puedes usar 1 accion con el rasgo floritura por turno.
+**Floritura:** Las acciones con este rasgo son tecnicas especiales que requieren demasiado esfuerzo para que las lleves a cabo de forma frecuente. Solo puedes usar 1 acción con el rasgo floritura por turno.
 
-**Posición:** Una posición es una estrategia general de combate que inicias utilizando una accion con el rasgo posición, y en la que permaneces durante algún tiempo. Una posición dura hasta que te derriban, hasta que sus requisitos (si los tiene) son violados, hasta que acaba el encuentro o hasta que usas de nuevo una accion de posición, lo que primero suceda. Una vez llevas a cabo una accion con el rasgo posición, no puedes llevar a cabo otra durante 1 asalto. Solo puedes entrar en una posición o estar en la misma en el modo encuentro. Puedes Deshacer una posición.
+**Posición:** Una posición es una estrategia general de combate que inicias utilizando una acción con el rasgo posición, y en la que permaneces durante algún tiempo. Una posición dura hasta que te derriban, hasta que sus requisitos (si los tiene) son violados, hasta que acaba el encuentro o hasta que usas de nuevo una acción de posición, lo que primero suceda. Una vez llevas a cabo una acción con el rasgo posición, no puedes llevar a cabo otra durante 1 asalto. Solo puedes entrar en una posición o estar en la misma en el modo encuentro. Puedes Deshacer una posición.
 
 ---
 
@@ -135,7 +135,7 @@ Obtienes dotes de habilidad mas a menudo que los demás. A 1.er nivel y cada niv
 
 Obtienes mas incrementos de habilidad que los miembros de las demás clases. A 2.o nivel y cada nivel posterior, obtienes un incremento de habilidad. Puedes utilizarlo, o bien para obtener el rango entrenado en una habilidad en la que no lo estas, o bien para obtener el rango experto en una habilidad en la que ya dispones del rango entrenado.
 
-A 7.o nivel, podras utilizar los incrementos de habilidad para alcanzar el rango maestro en una habilidad en la que ya dispongas del rango experto y a 15.o nivel podras utilizarlos para alcanzar el rango legendario en una habilidad en la que ya dispongas del rango maestro.
+A 7.o nivel, podrás utilizar los incrementos de habilidad para alcanzar el rango maestro en una habilidad en la que ya dispongas del rango experto y a 15.o nivel podrás utilizarlos para alcanzar el rango legendario en una habilidad en la que ya dispongas del rango maestro.
 
 ---
 
@@ -270,8 +270,8 @@ Puedes incapacitar a un enemigo incauto de un solo golpe. Tu rango de competenci
 
 El enemigo debe llevar a cabo una salvación de Fortaleza contra tu CD de clase. A continuación queda inmune de forma temporal a tu Golpe maestro durante 1 dia.
 
-- **Exito critico:** El objetivo no resulta afectado.
-- **Exito:** El objetivo queda debilitado 2 hasta el final de tu siguiente turno.
+- **Éxito critico:** El objetivo no resulta afectado.
+- **Éxito:** El objetivo queda debilitado 2 hasta el final de tu siguiente turno.
 - **Fallo:** El objetivo queda paralizado durante 4 asaltos.
 - **Fallo critico:** El objetivo queda paralizado durante 4 asaltos, inconsciente durante 2 horas o muerto (a elegir por ti).
 

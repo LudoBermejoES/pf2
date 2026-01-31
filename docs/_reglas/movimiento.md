@@ -13,60 +13,60 @@ Tu movimiento y tu posición determinan como interaccionas con el mundo. Moverse
 
 Las criaturas en Pathfinder flotan a traves de las nubes, escalan acantilados verticales y excavan bajo tierra. La mayor parte de las criaturas tiene una Velocidad, que es (por defecto) la rapidez con la que se puede mover por tierra.
 
-Algunas aptitudes conceden diferentes formas de movimiento, como por ejemplo a traves del aire o bajo tierra. Cada uno de estos tipos de movimiento especial tiene su propia Velocidad. Muchas criaturas disponen de estas Velocidades de forma natural, como por ejemplo un pájaro, que dispone de una Velocidad de vuelo o un pez, que dispone de una Velocidad de nado. Los diversos tipos de movimiento se indican a continuación. Como quiera que la accion Zancada solo puede usarse con tu Velocidad normal, moverse usando uno de estos tipos de movimiento requiere el uso de una accion especial y no puedes dar un Paso mientras utilizas uno de ellos. Dado que el termino Velocidad en si se refiere a tu Velocidad terrestre, las reglas que conciernen a los tipos de movimiento especiales especifican el tipo de movimiento al que se aplican.
+Algunas aptitudes conceden diferentes formas de movimiento, como por ejemplo a traves del aire o bajo tierra. Cada uno de estos tipos de movimiento especial tiene su propia Velocidad. Muchas criaturas disponen de estas Velocidades de forma natural, como por ejemplo un pájaro, que dispone de una Velocidad de vuelo o un pez, que dispone de una Velocidad de nado. Los diversos tipos de movimiento se indican a continuación. Como quiera que la acción Zancada solo puede usarse con tu Velocidad normal, moverse usando uno de estos tipos de movimiento requiere el uso de una acción especial y no puedes dar un Paso mientras utilizas uno de ellos. Dado que el termino Velocidad en si se refiere a tu Velocidad terrestre, las reglas que conciernen a los tipos de movimiento especiales especifican el tipo de movimiento al que se aplican.
 
 Las velocidades pueden verse aumentadas o reducidas debido a bonificadores y penalizadores por objeto, por circunstancia y por estatus. Los penalizadores no pueden reducir tus Velocidades por debajo de 5 pies (1,5 m) si no se indica lo contrario.
 
-Cambiar de un tipo de movimiento a otro requiere acabar la accion que tiene el primer tipo de movimiento y usar una nueva, esta con el segundo tipo de movimiento. Por ejemplo, si Trepas 10 pies (3 m) hasta lo alto de un risco, a continuación puedes dar una Zancada hacia adelante de 10 pies (3 m). En algunos casos, el DJ podria opinar lo contrario, especialmente si mueves una distancia muy corta utilizando uno de los tipos de movimiento.
+Cambiar de un tipo de movimiento a otro requiere acabar la acción que tiene el primer tipo de movimiento y usar una nueva, esta con el segundo tipo de movimiento. Por ejemplo, si Trepas 10 pies (3 m) hasta lo alto de un risco, a continuación puedes dar una Zancada hacia adelante de 10 pies (3 m). En algunos casos, el DJ podría opinar lo contrario, especialmente si mueves una distancia muy corta utilizando uno de los tipos de movimiento.
 
 ## Velocidad
 
 La mayoría de los PJs y de los monstruos tienen una estadistica de Velocidad que indica lo rapidamente que pueden moverse por tierra. A esta estadistica se le denomina Velocidad terrestre cuando es necesario diferenciarla de las Velocidades especiales.
 
-Cuando usas la accion Zancada, mueves tantos pies (1 pie = 30 cm) como tu Velocidad. Hay numerosas otras aptitudes que te permiten moverte, desde Gatear hasta Saltar, y la mayoría de ellas se basan de alguna forma en tu Velocidad. Siempre que una regla menciona tu Velocidad sin especificar un tipo, se refiere a tu Velocidad terrestre.
+Cuando usas la acción Zancada, mueves tantos pies (1 pie = 30 cm) como tu Velocidad. Hay numerosas otras aptitudes que te permiten moverte, desde Gatear hasta Saltar, y la mayoría de ellas se basan de alguna forma en tu Velocidad. Siempre que una regla menciona tu Velocidad sin especificar un tipo, se refiere a tu Velocidad terrestre.
 
 ### Velocidad de excavar
 
-Una Velocidad de excavar te permite cavar túneles a traves del terreno. Puedes utilizar la accion Excavar si tienes Velocidad de excavar. Excavar no suele dejar atras un tunel, si la aptitud no dice especificamente que lo hace. La mayor parte de las criaturas tiene que contener el aliento cuando excava, y podrian necesitar sentido de la vibración para orientarse.
+Una Velocidad de excavar te permite cavar túneles a traves del terreno. Puedes utilizar la acción Excavar si tienes Velocidad de excavar. Excavar no suele dejar atras un tunel, si la aptitud no dice especificamente que lo hace. La mayor parte de las criaturas tiene que contener el aliento cuando excava, y podrían necesitar sentido de la vibración para orientarse.
 
 ### Velocidad de trepar
 
-Una Velocidad de trepar te permite subir o bajar fuertes pendientes y superficies verticales. La mayor parte de las criaturas tienen que hacer pruebas de Atletismo para Trepar pero, si tienes Velocidad de trepar, tienes exito de forma automatica y subes tu Velocidad de trepar en lugar de la distancia indicada. Podrias necesitar pruebas de Atletismo para Trepar en condiciones peligrosas, para encaramarte por superficies extremadamente difíciles o para cruzar planos horizontales, como por ejemplo techos. Tambien puedes hacer una prueba de Atletismo para trepar en lugar de aceptar un exito automatico con la esperanza de obtener un exito critico. Tu Velocidad de trepar te concede un bonificador +4 por circunstancia a las pruebas de Atletismo para Trepar.
+Una Velocidad de trepar te permite subir o bajar fuertes pendientes y superficies verticales. La mayor parte de las criaturas tienen que hacer pruebas de Atletismo para Trepar pero, si tienes Velocidad de trepar, tienes éxito de forma automatica y subes tu Velocidad de trepar en lugar de la distancia indicada. Podrias necesitar pruebas de Atletismo para Trepar en condiciones peligrosas, para encaramarte por superficies extremadamente difíciles o para cruzar planos horizontales, como por ejemplo techos. Tambien puedes hacer una prueba de Atletismo para trepar en lugar de aceptar un éxito automatico con la esperanza de obtener un éxito critico. Tu Velocidad de trepar te concede un bonificador +4 por circunstancia a las pruebas de Atletismo para Trepar.
 
 Si tienes Velocidad de trepar, no estas desprevenido mientras trepas.
 
 ### Velocidad de vuelo
 
-Si tienes Velocidad de vuelo, puedes utilizar las acciones Volar y Detener una caida. Tambien puedes hacer una prueba de Maniobrar en vuelo si tienes el rango entrenado en la habilidad Acrobacias.
+Si tienes Velocidad de vuelo, puedes utilizar las acciones Volar y Detener una caída. Tambien puedes hacer una prueba de Maniobrar en vuelo si tienes el rango entrenado en la habilidad Acrobacias.
 
-Las condiciones del viento pueden afectar al uso de tu accion de Volar. Por lo general, moverse contra el viento usa las mismas reglas que moverse a traves de terreno difícil (o terreno difícil mayor si ademas estas ascendiendo) y mover a favor del viento te permite mover 10 pies (3 m) por cada 5 pies (1,5 m) de movimiento que gastas (esto no es acumulativo con moverse directamente hacia abajo). Para mas información sobre como gastar movimiento, consulta Movimiento táctico.
+Las condiciones del viento pueden afectar al uso de tu acción de Volar. Por lo general, moverse contra el viento usa las mismas reglas que moverse a traves de terreno difícil (o terreno difícil mayor si ademas estas ascendiendo) y mover a favor del viento te permite mover 10 pies (3 m) por cada 5 pies (1,5 m) de movimiento que gastas (esto no es acumulativo con moverse directamente hacia abajo). Para mas información sobre como gastar movimiento, consulta Movimiento táctico.
 
 Los movimientos hacia arriba y hacia abajo son ambos relativos a la gravedad en tu zona; si estas en un lugar con gravedad cero, moverse hacia arriba o hacia abajo no es diferente a moverse en horizontal.
 
 ### Velocidad de nadar
 
-Con una Velocidad de nadar, te puedes impulsar a traves del agua con pocos impedimentos. En lugar de hacer pruebas de Atletismo para nadar, tienes exito automaticamente y mueves tu Velocidad de nadar en lugar de la distancia indicada. Nadar hacia arriba o hacia abajo sigue siendo equivalente a moverse por terreno difícil. Sigues teniendo que hacer pruebas de Nadar en condiciones peligrosas o para cruzar aguas turbulentas. Tambien puedes hacer una prueba de Atletismo para Nadar en lugar de aceptar un exito automatico con la esperanza de obtener un exito critico. Tu Velocidad de nadar te concede un bonificador +4 por circunstancia a las pruebas de Atletismo para Nadar.
+Con una Velocidad de nadar, te puedes impulsar a traves del agua con pocos impedimentos. En lugar de hacer pruebas de Atletismo para nadar, tienes éxito automaticamente y mueves tu Velocidad de nadar en lugar de la distancia indicada. Nadar hacia arriba o hacia abajo sigue siendo equivalente a moverse por terreno difícil. Sigues teniendo que hacer pruebas de Nadar en condiciones peligrosas o para cruzar aguas turbulentas. Tambien puedes hacer una prueba de Atletismo para Nadar en lugar de aceptar un éxito automatico con la esperanza de obtener un éxito critico. Tu Velocidad de nadar te concede un bonificador +4 por circunstancia a las pruebas de Atletismo para Nadar.
 
 Tener una Velocidad de nadar no significa necesariamente que puedas respirar bajo el agua, por lo que podrias tener que contener el aliento estando bajo el agua para no ahogarte.
 
 ## Caídas
 
-Cuando caes mas de 5 pies (1,5 m), al aterrizar sufres tanto dano contundente como la mitad de la distancia caida (en pies, no en metros). Trata las caídas de mas de 1500 pies (450 m) como si fueran de 1500 pies (450 m), o sea dano 750. Si sufres cualquier cantidad de dano debido a una caida, aterrizas tumbado. En el primer asalto de caida, caes unos 500 pies (150 m) y aproximadamente 1500 pies (450 m) cada asalto posterior.
+Cuando caes mas de 5 pies (1,5 m), al aterrizar sufres tanto dano contundente como la mitad de la distancia caída (en pies, no en metros). Trata las caídas de mas de 1500 pies (450 m) como si fueran de 1500 pies (450 m), o sea dano 750. Si sufres cualquier cantidad de dano debido a una caída, aterrizas tumbado. En el primer asalto de caída, caes unos 500 pies (150 m) y aproximadamente 1500 pies (450 m) cada asalto posterior.
 
-Puedes Agarrarte a un saliente como reaccion para reducir el dano de algunas caídas, o Detener una caida si tienes Velocidad de vuelo. Ademas, si caes sobre agua, nieve u otra sustancia relativamente blanda, puedes tratar la caida como si fuera 20 pies (6 m) menor o 30 pies (9 m) menor si te tiras intencionadamente. La reducción efectiva no puede ser mayor que la profundidad por lo que, cuando caes al agua con una profundidad de 10 pies (3 m), tratas la caida como 10 pies (3 m) menor.
+Puedes Agarrarte a un saliente como reacción para reducir el dano de algunas caídas, o Detener una caída si tienes Velocidad de vuelo. Ademas, si caes sobre agua, nieve u otra sustancia relativamente blanda, puedes tratar la caída como si fuera 20 pies (6 m) menor o 30 pies (9 m) menor si te tiras intencionadamente. La reducción efectiva no puede ser mayor que la profundidad por lo que, cuando caes al agua con una profundidad de 10 pies (3 m), tratas la caída como 10 pies (3 m) menor.
 
 ### Caer sobre una criatura
 
-Si aterrizas sobre una criatura, dicha criatura tiene que hacer una salvacion de Reflejos CD 15. Aterrizar exacta e intencionadamente sobre una criatura tras una caida larga es casi imposible.
+Si aterrizas sobre una criatura, dicha criatura tiene que hacer una salvación de Reflejos CD 15. Aterrizar exacta e intencionadamente sobre una criatura tras una caída larga es casi imposible.
 
-- **Exito critico** La criatura no sufre dano.
-- **Exito** La criatura sufre tanto dano contundente como una cuarta parte del dano por caida sufrido por ti.
-- **Fallo** La criatura sufre tanto dano contundente como la mitad del dano por caida sufrido por ti.
-- **Fallo critico** La criatura sufre la misma cantidad de dano por caida sufrido por ti.
+- **Éxito critico** La criatura no sufre dano.
+- **Éxito** La criatura sufre tanto dano contundente como una cuarta parte del dano por caída sufrido por ti.
+- **Fallo** La criatura sufre tanto dano contundente como la mitad del dano por caída sufrido por ti.
+- **Fallo critico** La criatura sufre la misma cantidad de dano por caída sufrido por ti.
 
 ### Objetos que caen
 
-Un objeto que se deja caer sufre dano igual que una criatura. Si el objeto cae sobre una criatura, esta puede hacer una salvacion de Reflejos usando las mismas reglas que cuando una criatura cae sobre otra. Los peligros y los conjuros que implican objetos que caen, como por ejemplo un corrimiento de tierras, tienen sus propias reglas sobre como interactúan con las criaturas y el dano que infligen.
+Un objeto que se deja caer sufre dano igual que una criatura. Si el objeto cae sobre una criatura, esta puede hacer una salvación de Reflejos usando las mismas reglas que cuando una criatura cae sobre otra. Los peligros y los conjuros que implican objetos que caen, como por ejemplo un corrimiento de tierras, tienen sus propias reglas sobre como interactúan con las criaturas y el dano que infligen.
 
 ## Movimiento táctico
 
@@ -105,15 +105,15 @@ La entrada Espacio indica cuantos pies (metros) de lado tiene el espacio de la c
 
 Una criatura u objeto Pequeno o menor ocupa por lo menos 1 casilla en un tablero, y las criaturas de dichos tamanos no suelen compartir espacio excepto en situaciones como un PJ sobre una montura.
 
-Multiples criaturas Menudas pueden ocupar el mismo espacio. Por lo menos cuatro pueden caber en una sola casilla, aunque el DJ podria determinar que aun caben mas. Las criaturas Menudas pueden tambien compartir un espacio ocupado por una criatura mayor. Si el alcance de la criatura Menuda es 0 pies, tiene que compartir un espacio con una criatura para poder atacarla.
+Multiples criaturas Menudas pueden ocupar el mismo espacio. Por lo menos cuatro pueden caber en una sola casilla, aunque el DJ podría determinar que aun caben mas. Las criaturas Menudas pueden tambien compartir un espacio ocupado por una criatura mayor. Si el alcance de la criatura Menuda es 0 pies, tiene que compartir un espacio con una criatura para poder atacarla.
 
 ## Movimiento a traves del espacio de una criatura
 
-Puedes mover a traves del espacio de una criatura voluntaria. Si quieres moverte a traves del de una criatura involuntaria, puedes Pasar haciendo Acrobacias por el mismo (ver Acrobacias). No puedes acabar tu turno en una casilla ocupada por otra criatura, aunque puedes acabar una accion de movimiento en su casilla si a continuación utilizas otra accion de movimiento para abandonarla. Si dos criaturas acaban por accidente en la misma casilla, el DJ determina cual se ve expulsada de la misma (o si una de ellas queda tumbada).
+Puedes mover a traves del espacio de una criatura voluntaria. Si quieres moverte a traves del de una criatura involuntaria, puedes Pasar haciendo Acrobacias por el mismo (ver Acrobacias). No puedes acabar tu turno en una casilla ocupada por otra criatura, aunque puedes acabar una acción de movimiento en su casilla si a continuación utilizas otra acción de movimiento para abandonarla. Si dos criaturas acaban por accidente en la misma casilla, el DJ determina cual se ve expulsada de la misma (o si una de ellas queda tumbada).
 
 ### Criaturas tumbadas e incapacitadas
 
-Puedes compartir espacio con una criatura tumbada si dicha criatura es voluntaria, esta inconsciente o muerta y si es de tu tamaño o menor. El DJ podria permitir que te subieras al cadaver o al cuerpo inconsciente de una criatura mayor en determinadas situaciones. Una criatura tumbada no puede ponerse de pie si alguien mas ocupa su espacio, pero puede Gatear hasta otro espacio en el que le es posible incorporarse, o puede apartar de un Empujón a la otra criatura.
+Puedes compartir espacio con una criatura tumbada si dicha criatura es voluntaria, esta inconsciente o muerta y si es de tu tamaño o menor. El DJ podría permitir que te subieras al cadaver o al cuerpo inconsciente de una criatura mayor en determinadas situaciones. Una criatura tumbada no puede ponerse de pie si alguien mas ocupa su espacio, pero puede Gatear hasta otro espacio en el que le es posible incorporarse, o puede apartar de un Empujón a la otra criatura.
 
 ### Criaturas de diferente tamaño
 
@@ -123,7 +123,7 @@ Las criaturas Menudas son una excepcion, igual que con compartir un espacio. Pue
 
 ### Objetos
 
-Como quiera que los objetos no son tan moviles como las criaturas, es mas probable que llenen un espacio. Esto significa que no siempre podras atravesar sus espacios como lo harias con un espacio ocupado por una criatura. Podrias ocupar la misma casilla de una estatua de tu tamaño, pero no una columna ancha. El DJ es quien determina si puedes moverte normalmente a la casilla del objeto, si se aplican reglas especiales o si eres incapaz de moverte a dicha casilla.
+Como quiera que los objetos no son tan moviles como las criaturas, es mas probable que llenen un espacio. Esto significa que no siempre podrás atravesar sus espacios como lo harias con un espacio ocupado por una criatura. Podrias ocupar la misma casilla de una estatua de tu tamaño, pero no una columna ancha. El DJ es quien determina si puedes moverte normalmente a la casilla del objeto, si se aplican reglas especiales o si eres incapaz de moverte a dicha casilla.
 
 ## Movimiento forzado
 
@@ -135,15 +135,15 @@ Algunas aptitudes permiten a una criatura moverse mientras lleva consigo a otra.
 
 ## Reacciones al movimiento
 
-Algunas reacciones y acciones gratuitas son desencadenadas por una criatura que utiliza una accion con el rasgo movimiento. El ejemplo mas notable es Golpe reactivo. Las acciones con el rasgo movimiento pueden desencadenar reacciones o acciones gratuitas a lo largo de la distancia recorrida. Cada vez que sales de una casilla que esta dentro del alcance de la criatura, tu movimiento desencadena dichas reacciones y acciones gratuitas (aunque no mas de una vez por accion de movimiento por cada criatura que reacciona). Si usas una accion de movimiento pero no sales de la casilla, el desencadenante tiene lugar al final de dicha accion o aptitud.
+Algunas reacciones y acciones gratuitas son desencadenadas por una criatura que utiliza una acción con el rasgo movimiento. El ejemplo mas notable es Golpe reactivo. Las acciones con el rasgo movimiento pueden desencadenar reacciones o acciones gratuitas a lo largo de la distancia recorrida. Cada vez que sales de una casilla que esta dentro del alcance de la criatura, tu movimiento desencadena dichas reacciones y acciones gratuitas (aunque no mas de una vez por acción de movimiento por cada criatura que reacciona). Si usas una acción de movimiento pero no sales de la casilla, el desencadenante tiene lugar al final de dicha acción o aptitud.
 
 Algunas acciones, como por ejemplo Paso, especifican claramente que no desencadenan reacciones o acciones gratuitas basadas en el movimiento.
 
 ### Golpe reactivo ↺
 
-**Desencadenante** Una criatura a tu alcance utiliza una accion de manipular o de movimiento, hace un ataque a distancia o abandona una casilla durante una accion de movimiento que esta utilizando.
+**Desencadenante** Una criatura a tu alcance utiliza una acción de manipular o de movimiento, hace un ataque a distancia o abandona una casilla durante una acción de movimiento que esta utilizando.
 
-Fustigas a un enemigo que deja una abertura en sus defensas. Da un Golpe cuerpo a cuerpo contra la criatura desencadenante. Si tu ataque resulta en un impacto critico y el desencadenante era una accion de manipular, perturbas dicha accion. Este Golpe no cuenta contra tu penalizador por ataque multiple y tu penalizador por ataque multiple no se aplica a este Golpe.
+Fustigas a un enemigo que deja una abertura en sus defensas. Da un Golpe cuerpo a cuerpo contra la criatura desencadenante. Si tu ataque resulta en un impacto critico y el desencadenante era una acción de manipular, perturbas dicha acción. Este Golpe no cuenta contra tu penalizador por ataque multiple y tu penalizador por ataque multiple no se aplica a este Golpe.
 
 ---
 
@@ -171,11 +171,11 @@ El terreno arriesgado te dana cuando te mueves por el. Un estanque de acido o un
 
 ## Superficies estrechas
 
-Una superficie estrecha es tan precaria para el movimiento que tienes que Mantener el equilibrio (ver Acrobacias) o te arriesgas a caerte. Incluso con un exito, en una superficie estrecha siempre estas desprevenido. Cada vez que te acierta un ataque o fallas una salvacion en una superficie estrecha, tienes que tener exito en una salvacion de Reflejos (con la misma CD que la prueba de Acrobacias para Mantener el equilibrio) para no caerte.
+Una superficie estrecha es tan precaria para el movimiento que tienes que Mantener el equilibrio (ver Acrobacias) o te arriesgas a caerte. Incluso con un éxito, en una superficie estrecha siempre estas desprevenido. Cada vez que te acierta un ataque o fallas una salvación en una superficie estrecha, tienes que tener éxito en una salvación de Reflejos (con la misma CD que la prueba de Acrobacias para Mantener el equilibrio) para no caerte.
 
 ## Terreno desigual
 
-Un terreno desigual es un area lo suficientemente inestable como para que tengas que Mantener el equilibrio (ver Acrobacias) o arriesgarte a quedar tumbado y posiblemente resultar herido, dependiendo de la especificidad del terreno desigual. Siempre estas desprevenido en terreno desigual. Cada vez que te acierta un ataque o fallas una salvacion en terreno desigual, tienes que tener exito en una salvacion de Reflejos (con la misma CD que la prueba de Acrobacias para Mantener el equilibrio) para no quedar tumbado.
+Un terreno desigual es un area lo suficientemente inestable como para que tengas que Mantener el equilibrio (ver Acrobacias) o arriesgarte a quedar tumbado y posiblemente resultar herido, dependiendo de la especificidad del terreno desigual. Siempre estas desprevenido en terreno desigual. Cada vez que te acierta un ataque o fallas una salvación en terreno desigual, tienes que tener éxito en una salvación de Reflejos (con la misma CD que la prueba de Acrobacias para Mantener el equilibrio) para no quedar tumbado.
 
 ## Pendientes
 

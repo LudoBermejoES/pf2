@@ -26,7 +26,7 @@ Estas dotes pueden aplicarse a varias habilidades o tienen prerrequisitos flexib
 
 **Dote 1**
 
-**Prerrequisitos:** rango entrenado en una habilidad que dispone de la accion Recordar conocimiento
+**Prerrequisitos:** rango entrenado en una habilidad que dispone de la acción Recordar conocimiento
 
 Eres un tesoro de información, pero no toda ella procede de fuentes reputadas. Cuando sufres un fallo (pero no un fallo critico) en una prueba de Recordar conocimiento utilizando cualquier habilidad, averiguas la respuesta correcta y una respuesta erronea, pero no tienes forma alguna de diferenciar cual es cual. Esto puede ocurrir si no saber algo es significativo, pero no si es bueno o malo.
 
@@ -52,7 +52,7 @@ Obtienes el rango entrenado en una habilidad a tu eleccion.
 
 **Prerrequisitos:** rango entrenado en Arcanos, Naturaleza, Ocultismo o Religion
 
-Puedes Identificar magia rapidamente. Solo tardas 1 minuto cuando utilizas Identificar magia para determinar las propiedades del objeto, efecto continuado o ubicacion, en lugar de 10 minutos. Si tienes el rango maestro, solo necesitas una actividad de 3 acciones y, si tienes el rango legendario, te basta con 1 accion.
+Puedes Identificar magia rapidamente. Solo tardas 1 minuto cuando utilizas Identificar magia para determinar las propiedades del objeto, efecto continuado o ubicacion, en lugar de 10 minutos. Si tienes el rango maestro, solo necesitas una actividad de 3 acciones y, si tienes el rango legendario, te basta con 1 acción.
 
 ---
 
@@ -65,11 +65,11 @@ Puedes Identificar magia rapidamente. Solo tardas 1 minuto cuando utilizas Ident
 
 **Desencadenante:** Una criatura en tu linea visual lanza un conjuro que tu no has preparado o no esta en tu repertorio, o bien una trampa u objeto similar lanza dicho conjuro. Tienes que ser consciente del lanzamiento.
 
-Si tienes el rango entrenado en la habilidad apropiada para la tradición del conjuro y es un conjuro comun de 2.º rango o menor, lo identificas automaticamente (sigues teniendo que tirar para obtener un exito critico, pero no puedes obtener un resultado peor que exito). El rango mayor de conjuro que identificas automaticamente se incrementa a 4 si tienes el rango experto, 6 si tienes el rango maestro y 10 si tienes el rango legendario. El DJ hace una prueba secreta de Arcanos, Naturaleza, Ocultismo o Religion, la correspondiente a la tradición del conjuro lanzado. Si no estas entrenado en la habilidad, no puedes obtener un resultado mejor que un fallo.
+Si tienes el rango entrenado en la habilidad apropiada para la tradición del conjuro y es un conjuro comun de 2.º rango o menor, lo identificas automaticamente (sigues teniendo que tirar para obtener un éxito critico, pero no puedes obtener un resultado peor que éxito). El rango mayor de conjuro que identificas automaticamente se incrementa a 4 si tienes el rango experto, 6 si tienes el rango maestro y 10 si tienes el rango legendario. El DJ hace una prueba secreta de Arcanos, Naturaleza, Ocultismo o Religion, la correspondiente a la tradición del conjuro lanzado. Si no estas entrenado en la habilidad, no puedes obtener un resultado mejor que un fallo.
 
-**Exito critico:** Reconoces correctamente el conjuro y obtienes un bonificador +1 por circunstancia a tu tirada de salvacion o a tu CA contra el.
+**Éxito critico:** Reconoces correctamente el conjuro y obtienes un bonificador +1 por circunstancia a tu tirada de salvación o a tu CA contra el.
 
-**Exito:** Reconoces correctamente el conjuro.
+**Éxito:** Reconoces correctamente el conjuro.
 
 **Fallo:** No consigues reconocer el conjuro.
 
@@ -97,9 +97,9 @@ Incluso en las peores circunstancias, puedes llevar a cabo tareas basicas. Elige
 
 **Dote 2**
 
-**Prerrequisitos:** experto en una habilidad que dispone de la accion Recordar conocimiento, Seguro en dicha habilidad
+**Prerrequisitos:** experto en una habilidad que dispone de la acción Recordar conocimiento, Seguro en dicha habilidad
 
-Conoces hechos básicos sin pararte mucho a pensar. Elige una habilidad en la que tienes el rango experto, que dispone de la accion Recordar conocimiento y para la que dispones de la dote Seguro. Puedes usar la accion Recordar conocimiento con dicha habilidad como accion gratuita una vez por asalto. Si lo haces, debes utilizar Seguro en la prueba de habilidad.
+Conoces hechos básicos sin pararte mucho a pensar. Elige una habilidad en la que tienes el rango experto, que dispone de la acción Recordar conocimiento y para la que dispones de la dote Seguro. Puedes usar la acción Recordar conocimiento con dicha habilidad como acción gratuita una vez por asalto. Si lo haces, debes utilizar Seguro en la prueba de habilidad.
 
 **Especial:** Puedes seleccionar esta dote en multiples ocasiones, eligiendo una habilidad diferente cada vez. Puedes utilizar Conocimiento automatico en cualquier habilidad de que dispones, pero solo una vez por asalto.
 
@@ -112,7 +112,7 @@ Conoces hechos básicos sin pararte mucho a pensar. Elige una habilidad en la qu
 
 **Prerrequisitos:** rango experto en Arcanos, Naturaleza, Ocultismo o Religion
 
-Aprender conjuros es facil para ti. Cuando tienes exito en Aprender un conjuro, tardas 10 minutos sea cual sea el rango del mismo. Si tendrías exito en la prueba, en su lugar obtienes un exito critico. Si fallas, puedes probar de nuevo al cabo de una semana o después de subir un nivel, lo que sucede primero.
+Aprender conjuros es facil para ti. Cuando tienes éxito en Aprender un conjuro, tardas 10 minutos sea cual sea el rango del mismo. Si tendrías éxito en la prueba, en su lugar obtienes un éxito critico. Si fallas, puedes probar de nuevo al cabo de una semana o después de subir un nivel, lo que sucede primero.
 
 Puedes usar el tiempo libre para aprender e inscribir nuevos conjuros. Esto funciona como si utilizaras Obtener ingresos con la habilidad asociada a la tradición pero, en lugar de ganar dinero, eliges un conjuro disponible para que lo aprendas y obtienes un descuento, aprendiendolo gratis si la cantidad obtenida es igual o superior a su coste.
 
@@ -127,7 +127,7 @@ Puedes usar el tiempo libre para aprender e inscribir nuevos conjuros. Esto func
 
 **Prerrequisitos:** rango maestro en Arcanos, Naturaleza, Ocultismo o Religion; Reconocer conjuro
 
-Reconoces conjuros rapidamente. Una vez por asalto, puedes Reconocer un conjuro utilizando una habilidad en la que tienes el rango maestro como accion gratuita.
+Reconoces conjuros rapidamente. Una vez por asalto, puedes Reconocer un conjuro utilizando una habilidad en la que tienes el rango maestro como acción gratuita.
 
 ---
 
@@ -140,7 +140,7 @@ Reconoces conjuros rapidamente. Una vez por asalto, puedes Reconocer un conjuro 
 
 **Prerrequisitos:** rango legendario en Arcanos
 
-Entiendes los puntales básicos de las cuatro tradiciones de la magia y de las esencias magicas, lo que te permite visualizarlas todas a traves de una lente arcana. Siempre que utilizas una accion de habilidad o una dote de habilidad que requiere una prueba de Naturaleza, Ocultismo o Religion, dependiendo de la tradición magica, en su lugar puedes utilizar Arcanos. Si normalmente sufririas un penalizador o tendrías una CD mayor al usar Arcanos con otra magia (por ejemplo, al Identificar magia), ya no lo sufres.
+Entiendes los puntales básicos de las cuatro tradiciones de la magia y de las esencias magicas, lo que te permite visualizarlas todas a traves de una lente arcana. Siempre que utilizas una acción de habilidad o una dote de habilidad que requiere una prueba de Naturaleza, Ocultismo o Religion, dependiendo de la tradición magica, en su lugar puedes utilizar Arcanos. Si normalmente sufririas un penalizador o tendrías una CD mayor al usar Arcanos con otra magia (por ejemplo, al Identificar magia), ya no lo sufres.
 
 ---
 
@@ -148,14 +148,14 @@ Entiendes los puntales básicos de las cuatro tradiciones de la magia y de las e
 
 ### Nivel 1
 
-#### Caida de gato
+#### Caída de gato
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
 
 **Dote 1**
 
 **Prerrequisitos:** rango entrenado en Acrobacias
 
-Tu agilidad aerea gatuna te permite amortiguar tus caídas. Tratas tus caídas como 10 pies (3 m) mas cortas. Si tienes el rango experto en Acrobacias, tratalas como 25 pies (7,5 m) mas cortas y 50 pies (15 m) si tienes el rango maestro. Si tienes el rango legendario en Acrobacias, siempre aterrizas de pie y no sufres dano, sea cual sea la distancia de la caida.
+Tu agilidad aerea gatuna te permite amortiguar tus caídas. Tratas tus caídas como 10 pies (3 m) mas cortas. Si tienes el rango experto en Acrobacias, tratalas como 25 pies (7,5 m) mas cortas y 50 pies (15 m) si tienes el rango maestro. Si tienes el rango legendario en Acrobacias, siempre aterrizas de pie y no sufres dano, sea cual sea la distancia de la caída.
 
 ---
 
@@ -166,7 +166,7 @@ Tu agilidad aerea gatuna te permite amortiguar tus caídas. Tratas tus caídas c
 
 **Prerrequisitos:** rango entrenado en Acrobacias
 
-Puedes mantener facilmente el equilibrio, incluso en condiciones adversas. Siempre que obtienes un exito utilizando la accion Mantener el equilibrio, en su lugar obtienes un exito critico. No estas desprevenido mientras Mantienes el equilibrio en superficies estrechas y terreno desigual. Gracias a tu increible equilibrio, puedes hacer una prueba de Acrobacias en lugar de una salvacion de Reflejos para Agarrarte a un saliente.
+Puedes mantener facilmente el equilibrio, incluso en condiciones adversas. Siempre que obtienes un éxito utilizando la acción Mantener el equilibrio, en su lugar obtienes un éxito critico. No estas desprevenido mientras Mantienes el equilibrio en superficies estrechas y terreno desigual. Gracias a tu increible equilibrio, puedes hacer una prueba de Acrobacias en lugar de una salvación de Reflejos para Agarrarte a un saliente.
 
 ---
 
@@ -177,7 +177,7 @@ Puedes mantener facilmente el equilibrio, incluso en condiciones adversas. Siemp
 
 **Prerrequisitos:** rango entrenado en Acrobacias
 
-Te Escurres 5 pies (1,5 m) por asalto (10 pies [3 m] con un exito critico). Si tienes el rango legendario en Acrobacias, te Escurres a Velocidad completa.
+Te Escurres 5 pies (1,5 m) por asalto (10 pies [3 m] con un éxito critico). Si tienes el rango legendario en Acrobacias, te Escurres a Velocidad completa.
 
 ---
 
@@ -255,7 +255,7 @@ Dominas la preparacion de muchos tipos de comida y bebida. Obtienes un bonificad
 
 **Prerrequisitos:** rango entrenado en Artesanía
 
-Tu entrenamiento esta enfocado en la Artesanía de un tipo de objeto en particular. Selecciona una de las especialidades que se indican mas abajo; obtienes un bonificador +1 por circunstancia a las pruebas de Artesanía para Elaborar objetos de ese tipo. Si tienes el rango maestro en Artesanía, este bonificador se incrementa a +2. Si no queda claro si una especialidad es aplicable o no, quien decide es el DJ. Algunas especialidades podrian aplicarse tan solo parcialmente. Por ejemplo, si estuvieras construyendo un mangual y estuvieras especializado en carpinteria, el DJ podria concederte la mitad del bonificador puesto que el objeto requiere tanto herreria como carpinteria.
+Tu entrenamiento esta enfocado en la Artesanía de un tipo de objeto en particular. Selecciona una de las especialidades que se indican mas abajo; obtienes un bonificador +1 por circunstancia a las pruebas de Artesanía para Elaborar objetos de ese tipo. Si tienes el rango maestro en Artesanía, este bonificador se incrementa a +2. Si no queda claro si una especialidad es aplicable o no, quien decide es el DJ. Algunas especialidades podrían aplicarse tan solo parcialmente. Por ejemplo, si estuvieras construyendo un mangual y estuvieras especializado en carpinteria, el DJ podría concederte la mitad del bonificador puesto que el objeto requiere tanto herreria como carpinteria.
 
 | Especialidad | Objetos aplicables |
 |---|---|
@@ -283,7 +283,7 @@ Tu entrenamiento esta enfocado en la Artesanía de un tipo de objeto en particul
 
 **Prerrequisitos:** rango entrenado en Artesanía
 
-Para ti, la actividad de Reparar pierde el rasgo exploración y requiere 1 minuto en lugar de 10. Si tienes el rango maestro en Artesanía, requiere 3 acciones. Si tienes el rango legendario, te basta con 1 accion.
+Para ti, la actividad de Reparar pierde el rasgo exploración y requiere 1 minuto en lugar de 10. Si tienes el rango maestro en Artesanía, requiere 3 acciones. Si tienes el rango legendario, te basta con 1 acción.
 
 ---
 
@@ -296,9 +296,9 @@ Para ti, la actividad de Reparar pierde el rasgo exploración y requiere 1 minut
 
 **Prerrequisitos:** rango experto en Artesanía
 
-Puedes hacer que otros PJs te ayuden a elaborar un objeto, bajo tu dirección. Un PJ ayudante hace una prueba en una habilidad en la que esta entrenado. Dicha habilidad tiene que ser Artesanía u otra relevante al objeto, a determinar por el DJ. Por ejemplo, un PJ podria utilizar Religion para ayudarte a Fabricar un objeto con el rasgo Divino o Saber (guerra) para ayudarte a Fabricar una arma. Sigue siendo tu tirada la que determina si consigues crear con exito el objeto. Las tiradas de cualquier ayudante contribuyen a reducir el coste de materia prima utilizando las cifras de la tabla Obtener ingresos; esto utiliza el rango de competencia del PJ en la habilidad y su nivel -1 para su nivel.
+Puedes hacer que otros PJs te ayuden a elaborar un objeto, bajo tu dirección. Un PJ ayudante hace una prueba en una habilidad en la que esta entrenado. Dicha habilidad tiene que ser Artesanía u otra relevante al objeto, a determinar por el DJ. Por ejemplo, un PJ podría utilizar Religion para ayudarte a Fabricar un objeto con el rasgo Divino o Saber (guerra) para ayudarte a Fabricar una arma. Sigue siendo tu tirada la que determina si consigues crear con éxito el objeto. Las tiradas de cualquier ayudante contribuyen a reducir el coste de materia prima utilizando las cifras de la tabla Obtener ingresos; esto utiliza el rango de competencia del PJ en la habilidad y su nivel -1 para su nivel.
 
-Los PJs ayudantes te tienen que acompanar a lo largo de la actividad de Artesanía (lo que les impide dedicarse a otras actividades de tiempo libre) o el beneficio se pierde. El DJ podria determinar que tan solo cierto numero de PJs pueden ayudarte dependiendo de las circunstancias.
+Los PJs ayudantes te tienen que acompanar a lo largo de la actividad de Artesanía (lo que les impide dedicarse a otras actividades de tiempo libre) o el beneficio se pierde. El DJ podría determinar que tan solo cierto numero de PJs pueden ayudarte dependiendo de las circunstancias.
 
 Artesanía comunal tambien te permite adoptar el papel de un ayudante cuando alguien mas esta elaborando algo, siempre y cuando acepte tu ayuda.
 
@@ -322,9 +322,9 @@ Puedes Elaborar objetos mágicos, aunque algunos tienen otros requisitos, tal y 
 
 **Prerrequisitos:** rango experto en Artesanía
 
-Eres un genio de la Artesanía, facilmente capaz de determinar como se hacen las cosas y de crear nuevas invenciones. Puedes invertir tiempo libre en inventar una formula comun que aun no conoces. Esto funciona igual que la actividad Elaborar: gastas de antemano la mitad del Precio de la formula, haces una prueba de Artesanía y, con un exito, o bien acabas la formula pagando la diferencia, o bien trabajas mas tiempo para reducir el Precio. La diferencia es que inviertes el tiempo adicional en investigacion, diseno y desarrollo, en lugar de elaborando el objeto. Una vez esta completa, anades la nueva formula que has inventado a tu libro de formulas.
+Eres un genio de la Artesanía, facilmente capaz de determinar como se hacen las cosas y de crear nuevas invenciones. Puedes invertir tiempo libre en inventar una formula comun que aun no conoces. Esto funciona igual que la actividad Elaborar: gastas de antemano la mitad del Precio de la formula, haces una prueba de Artesanía y, con un éxito, o bien acabas la formula pagando la diferencia, o bien trabajas mas tiempo para reducir el Precio. La diferencia es que inviertes el tiempo adicional en investigacion, diseno y desarrollo, en lugar de elaborando el objeto. Una vez esta completa, anades la nueva formula que has inventado a tu libro de formulas.
 
-El DJ podria permitirte inventar formulas poco comunes o raras, tipicamente con una CD mayor. Necesitas la dote Artesanía alquimica para inventar formulas alquímicas y la dote Artesanía magica para inventar formulas magicas.
+El DJ podría permitirte inventar formulas poco comunes o raras, tipicamente con una CD mayor. Necesitas la dote Artesanía alquimica para inventar formulas alquímicas y la dote Artesanía magica para inventar formulas magicas.
 
 ---
 
@@ -337,7 +337,7 @@ El DJ podria permitirte inventar formulas poco comunes o raras, tipicamente con 
 
 **Prerrequisitos:** rango maestro en Artesanía, Especialidad artesana
 
-Consigues creaciones perfectas con gran eficacia. Siempre que obtienes un exito en una prueba de Artesanía para elaborar un objeto del tipo elegido con Especialidad artesana, en su lugar obtienes un exito critico.
+Consigues creaciones perfectas con gran eficacia. Siempre que obtienes un éxito en una prueba de Artesanía para elaborar un objeto del tipo elegido con Especialidad artesana, en su lugar obtienes un éxito critico.
 
 ---
 
@@ -350,7 +350,7 @@ Consigues creaciones perfectas con gran eficacia. Siempre que obtienes un exito 
 
 **Prerrequisitos:** rango legendario en Artesanía
 
-Puedes encontrar formas para elaborar casi cualquier cosa, a pesar de las restricciones. Mientras dispongas de la dote de habilidad de Artesanía apropiada (como por ejemplo Artesanía magica para objetos mágicos) y cumplas con el requisito de nivel de objeto de competencia, podras ignorar casi cualquier otro requisito, como por ejemplo pertenecer a una ascendencia especifica o proporcionar conjuros. Si un requisito incrementa el coste del objeto, sigues teniendo que pagarlo (incluyendo el lanzamiento de conjuros que tienen un coste de por si). No puedes ignorar los requisitos de objetos especiales que tienen medios de acceso y de Artesanía exclusivos, como por ejemplo los artefactos. El DJ es quien decide si puedes ignorar o no un requisito.
+Puedes encontrar formas para elaborar casi cualquier cosa, a pesar de las restricciones. Mientras dispongas de la dote de habilidad de Artesanía apropiada (como por ejemplo Artesanía magica para objetos mágicos) y cumplas con el requisito de nivel de objeto de competencia, podrás ignorar casi cualquier otro requisito, como por ejemplo pertenecer a una ascendencia especifica o proporcionar conjuros. Si un requisito incrementa el coste del objeto, sigues teniendo que pagarlo (incluyendo el lanzamiento de conjuros que tienen un coste de por si). No puedes ignorar los requisitos de objetos especiales que tienen medios de acceso y de Artesanía exclusivos, como por ejemplo los artefactos. El DJ es quien decide si puedes ignorar o no un requisito.
 
 ---
 
@@ -398,7 +398,7 @@ Puedes llevar mas peso de lo que aparentas. Incrementa en 2 tus limites máximo 
 
 **Prerrequisitos:** rango entrenado en Atletismo
 
-Puedes utilizar Salto de altura y Salto de longitud como una sola accion en lugar de 2 acciones. Si lo haces, no te hace falta la Zancada inicial (ni fallas si no das una Zancada de 10 pies [3 m]).
+Puedes utilizar Salto de altura y Salto de longitud como una sola acción en lugar de 2 acciones. Si lo haces, no te hace falta la Zancada inicial (ni fallas si no das una Zancada de 10 pies [3 m]).
 
 ---
 
@@ -422,7 +422,7 @@ Tu tecnica te permite luchar mientras trepas. No estas desprevenido mientras Tre
 
 **Prerrequisitos:** rango experto en Atletismo
 
-Te subes facilmente a los salientes. Cuando te Agarras a un saliente, te puedes alzar hasta dicha superficie y ponerte de pie. Puedes utilizar Atletismo en lugar de una salvacion de Reflejos para Agarrarte a un saliente. Si Trepas o Saltas hasta 5 pies (1,5 m) bajo la parte superior de un saliente, puedes alzarte hasta la superficie y ponerte de pie como parte de dicha accion.
+Te subes facilmente a los salientes. Cuando te Agarras a un saliente, te puedes alzar hasta dicha superficie y ponerte de pie. Puedes utilizar Atletismo en lugar de una salvación de Reflejos para Agarrarte a un saliente. Si Trepas o Saltas hasta 5 pies (1,5 m) bajo la parte superior de un saliente, puedes alzarte hasta la superficie y ponerte de pie como parte de dicha acción.
 
 ---
 
@@ -446,7 +446,7 @@ Puedes Saltar 5 pies (1,5 m) verticalmente sin llevar a cabo un Salto de altura.
 
 **Prerrequisitos:** rango maestro en Atletismo
 
-Cuando Trepas, te mueves 5 pies (1,5 m) mas con un exito y 10 pies (3 m) mas con un exito critico, hasta un máximo de tu Velocidad. Si tienes el rango legendario en Atletismo, obtienes una Velocidad de trepar igual a tu Velocidad terrestre.
+Cuando Trepas, te mueves 5 pies (1,5 m) mas con un éxito y 10 pies (3 m) mas con un éxito critico, hasta un máximo de tu Velocidad. Si tienes el rango legendario en Atletismo, obtienes una Velocidad de trepar igual a tu Velocidad terrestre.
 
 ---
 
@@ -457,7 +457,7 @@ Cuando Trepas, te mueves 5 pies (1,5 m) mas con un exito y 10 pies (3 m) mas con
 
 **Prerrequisitos:** rango maestro en Atletismo
 
-Nadas 5 pies (1,5 m) mas con un exito y 10 pies (3 m) mas con un exito critico, hasta un máximo de tu Velocidad. Si tienes el rango legendario en Atletismo, obtienes una Velocidad de nado igual a tu Velocidad terrestre.
+Nadas 5 pies (1,5 m) mas con un éxito y 10 pies (3 m) mas con un éxito critico, hasta un máximo de tu Velocidad. Si tienes el rango legendario en Atletismo, obtienes una Velocidad de nado igual a tu Velocidad terrestre.
 
 ---
 
@@ -468,7 +468,7 @@ Nadas 5 pies (1,5 m) mas con un exito y 10 pies (3 m) mas con un exito critico, 
 
 **Prerrequisitos:** rango maestro en Atletismo
 
-Puedes utilizar el impulso procedente de un salto para propulsarte a lo largo de una pared. Si estas adyacente a una pared al final de un salto (ya sea Sin carrerilla, de Altura o de Longitud), no te caes si tu siguiente accion es otro salto. El anterior te proporciona impulso, por lo que puedes utilizar Salto de altura o Salto de longitud como una sola accion, pero no puedes dar una Zancada como parte de la actividad.
+Puedes utilizar el impulso procedente de un salto para propulsarte a lo largo de una pared. Si estas adyacente a una pared al final de un salto (ya sea Sin carrerilla, de Altura o de Longitud), no te caes si tu siguiente acción es otro salto. El anterior te proporciona impulso, por lo que puedes utilizar Salto de altura o Salto de longitud como una sola acción, pero no puedes dar una Zancada como parte de la actividad.
 
 Tan solo puedes utilizar Saltar paredes una vez en un turno, si no tienes el rango legendario en Atletismo, en cuyo caso puedes utilizarlo tantas veces como puedes utilizar acciones de salto consecutivas en dicho turno.
 
@@ -483,9 +483,9 @@ Tan solo puedes utilizar Saltar paredes una vez en un turno, si no tienes el ran
 
 **Prerrequisitos:** rango experto en Atletismo
 
-Tu habilidad atletica sin paralelo te permite saltar distancias imposibles. Triplica la distancia para tu Salto de longitud (por lo que podrias saltar 60 pies [18 m] mediante una prueba con exito CD 20). Cuando haces un Salto de altura, utiliza el mismo calculo que para un salto de longitud, pero no tripliques la distancia.
+Tu habilidad atletica sin paralelo te permite saltar distancias imposibles. Triplica la distancia para tu Salto de longitud (por lo que podrias saltar 60 pies [18 m] mediante una prueba con éxito CD 20). Cuando haces un Salto de altura, utiliza el mismo calculo que para un salto de longitud, pero no tripliques la distancia.
 
-Cuando haces Saltos de altura o de longitud, puedes saltar una distancia mayor que tu Velocidad invirtiendo acciones adicionales. Por cada accion adicional invertida, suma tu Velocidad al limite de distancia a Saltar.
+Cuando haces Saltos de altura o de longitud, puedes saltar una distancia mayor que tu Velocidad invirtiendo acciones adicionales. Por cada acción adicional invertida, suma tu Velocidad al limite de distancia a Saltar.
 
 ---
 
@@ -500,7 +500,7 @@ Cuando haces Saltos de altura o de longitud, puedes saltar una distancia mayor q
 
 **Prerrequisitos:** rango entrenado en Diplomacia
 
-Puedes Obtener ingresos utilizando Diplomacia, invirtiendo dias en buscar gangas y revendiendolas a un precio mayor. Tambien puedes pasar algún tiempo husmeando especificamente una oferta muy especial por un objeto; esto funciona como si estuvieras utilizando Diplomacia para Obtener ingresos, excepto que en lugar de ganar dinero, compras el objeto con un descuento igual al dinero que habrias ganado, consiguiendolo gratis si los ingresos obtenidos son iguales o mayores que el coste. Finalmente, si seleccionas Buscador de gangas durante la creacion de personaje a 1.er nivel, inicias el juego con 2 po adicionales.
+Puedes Obtener ingresos utilizando Diplomacia, invirtiendo dias en buscar gangas y revendiendolas a un precio mayor. Tambien puedes pasar algún tiempo husmeando especificamente una oferta muy especial por un objeto; esto funciona como si estuvieras utilizando Diplomacia para Obtener ingresos, excepto que en lugar de ganar dinero, compras el objeto con un descuento igual al dinero que habrias ganado, consiguiendolo gratis si los ingresos obtenidos son iguales o mayores que el coste. Finalmente, si seleccionas Buscador de gangas durante la creación de personaje a 1.er nivel, inicias el juego con 2 po adicionales.
 
 ---
 
@@ -535,9 +535,9 @@ Cuando Causas impresion, puedes comparar el resultado de tu prueba de Diplomacia
 
 Tratas de reducir el panico. Haz una prueba de Diplomacia, comparandola con la CD de Voluntad de las criaturas en una emanacion de 10 pies (3 m) a tu alrededor que estan asustadas. Cada una de ellas queda temporalmente inmune durante 1 hora.
 
-**Exito critico:** Reduce en 2 el valor de asustado de la criatura.
+**Éxito critico:** Reduce en 2 el valor de asustado de la criatura.
 
-**Exito:** Reduce en 1 el valor de asustado de la criatura.
+**Éxito:** Reduce en 1 el valor de asustado de la criatura.
 
 ---
 
@@ -576,7 +576,7 @@ Puedes minimizar las consecuencias o la indignacion resultante de tus peticiones
 
 **Prerrequisitos:** rango legendario en Diplomacia
 
-Puedes negociar increiblemente rapido en situaciones adversas. Primero tratas de Causar impresion y después Pides que tu oponente deponga su actividad actual y emprenda negociaciones. Sufres un penalizador -5 a tu prueba de Diplomacia. En general, la CD de esta prueba es la CD de Voluntad de la criatura, aunque el DJ podria modificarla basándose en la situación. Algunas criaturas podrian ser incapaces de detenerse fueran cuales fueran sus deseos personales, e incluso las que estan de acuerdo en parlamentar podrian acabar encontrando tus argumentos vacios y retornar a la violencia.
+Puedes negociar increiblemente rapido en situaciones adversas. Primero tratas de Causar impresion y después Pides que tu oponente deponga su actividad actual y emprenda negociaciones. Sufres un penalizador -5 a tu prueba de Diplomacia. En general, la CD de esta prueba es la CD de Voluntad de la criatura, aunque el DJ podría modificarla basándose en la situación. Algunas criaturas podrían ser incapaces de detenerse fueran cuales fueran sus deseos personales, e incluso las que estan de acuerdo en parlamentar podrían acabar encontrando tus argumentos vacios y retornar a la violencia.
 
 ---
 
@@ -591,7 +591,7 @@ Puedes negociar increiblemente rapido en situaciones adversas. Primero tratas de
 
 **Prerrequisitos:** rango entrenado en Engano
 
-Cuando obtienes un exito critico en Crear una distracción, sigues escondido después del final de tu turno. Este efecto dura una cantidad de tiempo que depende de la distracción y de la situación, a determinar por el DJ (minimo 1 asalto adicional).
+Cuando obtienes un éxito critico en Crear una distracción, sigues escondido después del final de tu turno. Este efecto dura una cantidad de tiempo que depende de la distracción y de la situación, a determinar por el DJ (minimo 1 asalto adicional).
 
 ---
 
@@ -602,7 +602,7 @@ Cuando obtienes un exito critico en Crear una distracción, sigues escondido des
 
 **Prerrequisitos:** rango entrenado en Engano
 
-Puedes usar Engano para tejer trampas que confunden a cualquiera que intenta engañarte a ti. Si te pones a conversar con alguien que intenta mentirte, utiliza tu CD de Engano si es mayor que tu CD de Percepción para determinar si tiene exito. Esto no se aplica si el dialogo no es bilateral, como por ejemplo cuando alguien intenta Mentir durante un largo discurso.
+Puedes usar Engano para tejer trampas que confunden a cualquiera que intenta engañarte a ti. Si te pones a conversar con alguien que intenta mentirte, utiliza tu CD de Engano si es mayor que tu CD de Percepción para determinar si tiene éxito. Esto no se aplica si el dialogo no es bilateral, como por ejemplo cuando alguien intenta Mentir durante un largo discurso.
 
 ---
 
@@ -613,7 +613,7 @@ Puedes usar Engano para tejer trampas que confunden a cualquiera que intenta eng
 
 **Prerrequisitos:** rango entrenado en Engano
 
-Tu encanto te permite ganarte a aquellos a los que mientes. Cuando obtienes un exito critico utilizando la accion Mentir, la actitud del objeto hacia ti mejora un paso, como si hubieras tenido exito utilizando Diplomacia para Causar impresion. Esto solo funciona una vez por conversacion y, si obtienes un exito critico contra multiples objetivos utilizando el mismo resultado, eliges la criatura a la que mejorar la actitud. Tienes que estar mintiendo para impartir una información aparentemente importante, exagerar tu estatus o caer en gracia, es decir: cosas que no se pueden conseguir con mentiras triviales o irrelevantes.
+Tu encanto te permite ganarte a aquellos a los que mientes. Cuando obtienes un éxito critico utilizando la acción Mentir, la actitud del objeto hacia ti mejora un paso, como si hubieras tenido éxito utilizando Diplomacia para Causar impresion. Esto solo funciona una vez por conversacion y, si obtienes un éxito critico contra multiples objetivos utilizando el mismo resultado, eliges la criatura a la que mejorar la actitud. Tienes que estar mintiendo para impartir una información aparentemente importante, exagerar tu estatus o caer en gracia, es decir: cosas que no se pueden conseguir con mentiras triviales o irrelevantes.
 
 ---
 
@@ -637,7 +637,7 @@ Incluso cuando se te detecta una falsedad, amontonas mentira sobre mentira. Redu
 
 **Prerrequisitos:** rango experto en Engano
 
-Puedes preparar un disfraz en la decima parte del tiempo habitual (por lo general 1 minuto). Si tienes el rango maestro en Engano, puedes crear un disfraz completo e Imitar como una actividad de 3 acciones. Si tienes el rango legendario, te basta con 1 accion.
+Puedes preparar un disfraz en la decima parte del tiempo habitual (por lo general 1 minuto). Si tienes el rango maestro en Engano, puedes crear un disfraz completo e Imitar como una actividad de 3 acciones. Si tienes el rango legendario, te basta con 1 acción.
 
 ---
 
@@ -650,7 +650,7 @@ Puedes preparar un disfraz en la decima parte del tiempo habitual (por lo genera
 
 **Prerrequisitos:** rango maestro en Engano
 
-Esquivas y evitas todo intento de descubrir tu autentica naturaleza o intenciones. Cuando un conjuro o efecto magico intenta leerte la mente, detectar si mientes o revelar tu identidad, puedes hacer una prueba de Engano contra la CD del conjuro o del efecto. Si tienes exito, no se revela nada.
+Esquivas y evitas todo intento de descubrir tu autentica naturaleza o intenciones. Cuando un conjuro o efecto magico intenta leerte la mente, detectar si mientes o revelar tu identidad, puedes hacer una prueba de Engano contra la CD del conjuro o del efecto. Si tienes éxito, no se revela nada.
 
 ---
 
@@ -665,7 +665,7 @@ Esquivas y evitas todo intento de descubrir tu autentica naturaleza o intencione
 
 **Prerrequisitos:** rango entrenado en Interpretacion
 
-Cuando interpretas, compara tu resultado con la CD de Voluntad de un observador. Si tienes exito, el objetivo queda fascinado por ti durante 1 asalto. Si el observador esta en una situación que exige atencion inmediata, como por ejemplo un combate, debes obtener un exito critico para fascinarlo y la accion de Interpretar obtiene el rasgo incapacitacion. Tienes que elegir a que criatura quieres fascinar antes de hacer la tirada, y el objetivo queda a continuación inmune temporalmente durante 1 hora.
+Cuando interpretas, compara tu resultado con la CD de Voluntad de un observador. Si tienes éxito, el objetivo queda fascinado por ti durante 1 asalto. Si el observador esta en una situación que exige atencion inmediata, como por ejemplo un combate, debes obtener un éxito critico para fascinarlo y la acción de Interpretar obtiene el rasgo incapacitacion. Tienes que elegir a que criatura quieres fascinar antes de hacer la tirada, y el objetivo queda a continuación inmune temporalmente durante 1 hora.
 
 Si tienes el rango experto en Interpretacion, puedes fascinar hasta a 4 observadores; si tienes el rango maestro, hasta a 10; y si tienes el rango legendario, puedes fascinar a cualquier numero de observadores al mismo tiempo.
 
@@ -714,7 +714,7 @@ Tienes un talento excepcional en un tipo de interpretacion. Obtienes un bonifica
 
 **Prerrequisitos:** rango legendario en Interpretacion, Interprete virtuoso
 
-Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la habilidad Sociedad han oido hablar de ti y por lo general tienen una actitud hacia ti un paso mejor de lo normal, dependiendo de tu reputacion y de la disposicion de la criatura. Por ejemplo, si eres conocido por exhibir un comportamiento cruel y exigente, las criaturas podian verse intimidadas por ti, en lugar de ser amistosas hacia ti. Cuando Obtienes ingresos mediante la Interpretacion, atraes audiencias de nivel mayor al que la ubicacion permitiria, puesto que las audiencias acuden a verte desde lugares lejanos. Por ejemplo, gobernantes y angeles podrian viajar hasta tu pequena torre de los bosques para oirte interpretar. Tipicamente, esto incrementa las audiencias disponibles hasta tu nivel o en 2 niveles, el mas alto de ambos valores.
+Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la habilidad Sociedad han oido hablar de ti y por lo general tienen una actitud hacia ti un paso mejor de lo normal, dependiendo de tu reputacion y de la disposicion de la criatura. Por ejemplo, si eres conocido por exhibir un comportamiento cruel y exigente, las criaturas podian verse intimidadas por ti, en lugar de ser amistosas hacia ti. Cuando Obtienes ingresos mediante la Interpretacion, atraes audiencias de nivel mayor al que la ubicacion permitiria, puesto que las audiencias acuden a verte desde lugares lejanos. Por ejemplo, gobernantes y angeles podrían viajar hasta tu pequena torre de los bosques para oirte interpretar. Tipicamente, esto incrementa las audiencias disponibles hasta tu nivel o en 2 niveles, el mas alto de ambos valores.
 
 ---
 
@@ -729,7 +729,7 @@ Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la 
 
 **Prerrequisitos:** rango entrenado en Intimidación
 
-Puedes ponerte duro con la gente de forma efectiva, incluso si no la tienes aislada. Cuando Intimidas, puedes comparar el resultado de tu prueba de Intimidación con la CD de Voluntad de hasta 5 objetivos en lugar de uno. Es posible obtener grados de exito diferentes para cada objetivo. Aumenta a 10 el numero de criaturas adicionales a las que Intimidas con una sola accion si tienes el rango experto, a 25 si tienes el rango maestro y a 50 si tienes el rango legendario.
+Puedes ponerte duro con la gente de forma efectiva, incluso si no la tienes aislada. Cuando Intimidas, puedes comparar el resultado de tu prueba de Intimidación con la CD de Voluntad de hasta 5 objetivos en lugar de uno. Es posible obtener grados de éxito diferentes para cada objetivo. Aumenta a 10 el numero de criaturas adicionales a las que Intimidas con una sola acción si tienes el rango experto, a 25 si tienes el rango maestro y a 50 si tienes el rango legendario.
 
 ---
 
@@ -764,7 +764,7 @@ Puedes Desmoralizar con una simple mirada. Cuando lo haces, Desmoralizar pierde 
 
 **Prerrequisitos:** rango experto en Intimidación
 
-Cuando Intimidas con exito a alguien, la cantidad maxima de tiempo que te obedece se incrementa a una semana, sujeto a la aprobacion del DJ. Si tienes el rango legendario, el máximo se incrementa a un mes.
+Cuando Intimidas con éxito a alguien, la cantidad maxima de tiempo que te obedece se incrementa a una semana, sujeto a la aprobacion del DJ. Si tienes el rango legendario, el máximo se incrementa a un mes.
 
 ---
 
@@ -788,7 +788,7 @@ En las situaciones en las que puedes amenazar fisicamente al objetivo cuando Int
 
 **Prerrequisitos:** rango maestro en Intimidación
 
-Cuando tiras iniciativa, puedes lanzar un poderoso grito de guerra y Desmoralizar a un enemigo observado como accion gratuita. Si dispones del rango legendario en Intimidación, puedes usar una reaccion para Desmoralizar a tu enemigo cuando obtienes un exito critico en una tirada de ataque.
+Cuando tiras iniciativa, puedes lanzar un poderoso grito de guerra y Desmoralizar a un enemigo observado como acción gratuita. Si dispones del rango legendario en Intimidación, puedes usar una reacción para Desmoralizar a tu enemigo cuando obtienes un éxito critico en una tirada de ataque.
 
 ---
 
@@ -799,7 +799,7 @@ Cuando tiras iniciativa, puedes lanzar un poderoso grito de guerra y Desmoraliza
 
 **Prerrequisitos:** rango maestro en Intimidación
 
-Cuando obtienes un exito critico en una accion de Desmoralizar, si el nivel del objetivo es menor que el tuyo, este huye durante 1 asalto.
+Cuando obtienes un éxito critico en una acción de Desmoralizar, si el nivel del objetivo es menor que el tuyo, este huye durante 1 asalto.
 
 ---
 
@@ -812,11 +812,11 @@ Cuando obtienes un exito critico en una accion de Desmoralizar, si el nivel del 
 
 **Prerrequisitos:** rango legendario en Intimidación
 
-Puedes asustar tanto a tus enemigos que hasta podrian morir. Haz una prueba de Intimidación contra la CD de Voluntad de una criatura viva a 30 pies (9 m) o menos de ti que sientes u observas y que puede sentirte u observarte a ti. Si el objetivo no puede oirte o no entiende el idioma que hablas, sufres un penalizador -4 por circunstancia. La criatura queda temporalmente inmune durante 1 minuto.
+Puedes asustar tanto a tus enemigos que hasta podrían morir. Haz una prueba de Intimidación contra la CD de Voluntad de una criatura viva a 30 pies (9 m) o menos de ti que sientes u observas y que puede sentirte u observarte a ti. Si el objetivo no puede oirte o no entiende el idioma que hablas, sufres un penalizador -4 por circunstancia. La criatura queda temporalmente inmune durante 1 minuto.
 
-**Exito critico:** El objetivo debe llevar a cabo una salvacion de Fortaleza contra tu CD de Intimidación. Con un fallo critico, muere. Con cualquier otro resultado, queda asustado 2 y esta huyendo durante 1 asalto. El efecto de fallo critico tiene el rasgo muerte.
+**Éxito critico:** El objetivo debe llevar a cabo una salvación de Fortaleza contra tu CD de Intimidación. Con un fallo critico, muere. Con cualquier otro resultado, queda asustado 2 y esta huyendo durante 1 asalto. El efecto de fallo critico tiene el rasgo muerte.
 
-**Exito:** El objetivo queda asustado 2.
+**Éxito:** El objetivo queda asustado 2.
 
 **Fallo:** El objetivo queda asustado 1.
 
@@ -846,7 +846,7 @@ Puedes Sustraer o Escamotear un objeto fuertemente custodiado, como por ejemplo 
 
 **Prerrequisitos:** rango entrenado en Latrocinio
 
-Cuando Sustraes algo con exito, los observadores (toda criatura distinta a aquella a quien sustraes el objeto) sufren un penalizador -2 por circunstancia a sus CD de Percepción para detectar el robo. Ademas, si primero Creas una distracción utilizando Engano, utilizar una sola accion de Escamotear objeto o de Sustraer no acaba con tu estado de no detectado.
+Cuando Sustraes algo con éxito, los observadores (toda criatura distinta a aquella a quien sustraes el objeto) sufren un penalizador -2 por circunstancia a sus CD de Percepción para detectar el robo. Ademas, si primero Creas una distracción utilizando Engano, utilizar una sola acción de Escamotear objeto o de Sustraer no acaba con tu estado de no detectado.
 
 ---
 
@@ -859,7 +859,7 @@ Cuando Sustraes algo con exito, los observadores (toda criatura distinta a aquel
 
 **Prerrequisitos:** rango experto en Latrocinio
 
-Si desencadenas un artilugio o disparas una trampa cuando la estas desactivando, obtienes un bonificador +2 por circunstancia a tu CA o a tu tirada de salvacion contra el artilugio o trampa. Esto solo se aplica a ataques o efectos desencadenados por tu intento fallido, no a los ataques adicionales de una trampa compleja.
+Si desencadenas un artilugio o disparas una trampa cuando la estas desactivando, obtienes un bonificador +2 por circunstancia a tu CA o a tu tirada de salvación contra el artilugio o trampa. Esto solo se aplica a ataques o efectos desencadenados por tu intento fallido, no a los ataques adicionales de una trampa compleja.
 
 ---
 
@@ -872,7 +872,7 @@ Si desencadenas un artilugio o disparas una trampa cuando la estas desactivando,
 
 **Prerrequisitos:** rango maestro en Latrocinio
 
-Puedes Forzar una cerradura utilizando 1 accion en lugar de 2.
+Puedes Forzar una cerradura utilizando 1 acción en lugar de 2.
 
 ---
 
@@ -885,7 +885,7 @@ Puedes Forzar una cerradura utilizando 1 accion en lugar de 2.
 
 **Prerrequisitos:** rango legendario en Latrocinio, Carterista
 
-Tu capacidad para Sustraer desafia toda comprension. Puedes intentar Sustraer algo que esta siendo activamente empunado o cuya sustraccion seria extremadamente notoria o costaria mucho tiempo (como unos zapatos o una armadura puestos). Tienes que hacerlo de forma lenta y cuidadosa, invirtiendo por lo menos 1 minuto (y un tiempo significativamente mayor para objetos que normalmente son largos de quitar, como por ejemplo una armadura). A lo largo de este tiempo, has de tener algún medio de permanecer escondido, como por ejemplo la cobertura de la oscuridad o una muchedumbre bulliciosa. Incluso si tienes exito, si el objeto es extremadamente prominente (por ejemplo una armadura completa) los testigos se dan cuenta rapidamente de que ha desaparecido.
+Tu capacidad para Sustraer desafia toda comprension. Puedes intentar Sustraer algo que esta siendo activamente empunado o cuya sustraccion seria extremadamente notoria o costaria mucho tiempo (como unos zapatos o una armadura puestos). Tienes que hacerlo de forma lenta y cuidadosa, invirtiendo por lo menos 1 minuto (y un tiempo significativamente mayor para objetos que normalmente son largos de quitar, como por ejemplo una armadura). A lo largo de este tiempo, has de tener algún medio de permanecer escondido, como por ejemplo la cobertura de la oscuridad o una muchedumbre bulliciosa. Incluso si tienes éxito, si el objeto es extremadamente prominente (por ejemplo una armadura completa) los testigos se dan cuenta rapidamente de que ha desaparecido.
 
 ---
 
@@ -950,7 +950,7 @@ Controlas celosamente los progresos de un paciente a fin de administrar su trata
 
 **Prerrequisitos:** rango experto en Medicina
 
-Aprendiste medicina popular para que te ayudara a recuperarte de las enfermedades y los venenos, y un uso diligente de la misma te ha hecho especialmente resistente. Cuando Tratas una enfermedad o un veneno, o alguien mas usa una de dichas acciones sobre ti, aumenta a +4 el bonificador por circunstancia concedido con un exito y si el resultado de la tirada de salvacion del paciente es un exito, el paciente obtiene un exito critico.
+Aprendiste medicina popular para que te ayudara a recuperarte de las enfermedades y los venenos, y un uso diligente de la misma te ha hecho especialmente resistente. Cuando Tratas una enfermedad o un veneno, o alguien mas usa una de dichas acciones sobre ti, aumenta a +4 el bonificador por circunstancia concedido con un éxito y si el resultado de la tirada de salvación del paciente es un éxito, el paciente obtiene un éxito critico.
 
 ---
 
@@ -961,11 +961,11 @@ Aprendiste medicina popular para que te ayudara a recuperarte de las enfermedade
 
 **Prerrequisitos:** rango experto en Medicina
 
-Tu entrenamiento medico se extiende a estados menos obvios. Cuando tienes exito contra una CD 20 en una prueba para Tratar heridas, tambien puedes reducir en 1 el valor de uno de los siguientes estados: anonadado, debilitado o torpe. Si eres capaz de tratar a mas de una criatura a la vez, elige tan solo una para obtener este beneficio. Una criatura se puede beneficiar de Tratamiento inusual solo una vez al dia.
+Tu entrenamiento medico se extiende a estados menos obvios. Cuando tienes éxito contra una CD 20 en una prueba para Tratar heridas, tambien puedes reducir en 1 el valor de uno de los siguientes estados: anonadado, debilitado o torpe. Si eres capaz de tratar a mas de una criatura a la vez, elige tan solo una para obtener este beneficio. Una criatura se puede beneficiar de Tratamiento inusual solo una vez al dia.
 
 Si el estado es consecuencia de una afliccion, esta no se cura (aunque el estado se reduce mientras la afliccion permanece en dicho estado).
 
-Si tienes el rango maestro en Medicina, anade el estado drenado a la lista de estados que puedes quitar si tienes exito en una prueba a CD 30. Si tienes el rango legendario en Medicina, reduces en 2 en lugar de 1 el estado elegido.
+Si tienes el rango maestro en Medicina, anade el estado drenado a la lista de estados que puedes quitar si tienes éxito en una prueba a CD 30. Si tienes el rango legendario en Medicina, reduces en 2 en lugar de 1 el estado elegido.
 
 ---
 
@@ -978,7 +978,7 @@ Si tienes el rango maestro en Medicina, anade el estado drenado a la lista de es
 
 **Prerrequisitos:** rango maestro en Medicina
 
-Utilizas tu entrenamiento medico para mejorar enfermedades o aliviar temores. Cuando utilizas Medicina para administrar Primeros auxilios, en lugar de Estabilizar a un personaje o Detener el sangrado, puedes reducir en 2 el estado asustado o indispuesto de un aliado, o bien eliminar por completo dichos estados con un exito critico. Tan solo puedes eliminar un estado a la vez. La CD para la prueba de Medicina suele ser la misma que la del efecto que causo el estado.
+Utilizas tu entrenamiento medico para mejorar enfermedades o aliviar temores. Cuando utilizas Medicina para administrar Primeros auxilios, en lugar de Estabilizar a un personaje o Detener el sangrado, puedes reducir en 2 el estado asustado o indispuesto de un aliado, o bien eliminar por completo dichos estados con un éxito critico. Tan solo puedes eliminar un estado a la vez. La CD para la prueba de Medicina suele ser la misma que la del efecto que causo el estado.
 
 ---
 
@@ -1006,11 +1006,11 @@ Has descubierto avances medicos o tecnicas que consiguen resultados milagrosos. 
 
 **Prerrequisitos:** rango entrenado en Naturaleza
 
-Inviertes tiempo en enseñar a un animal a llevar a cabo determinada accion. Puedes, o bien seleccionar una accion basica que el animal ya sabe hacer (tipicamente las indicadas en la accion, Comandar a un animal) o enseñar al animal una nueva accion. El DJ es quien determina la CD de cualquier prueba requerida y la cantidad de tiempo necesario para el entrenamiento (en general, por lo menos 1 semana). Suele ser imposible enseñar a un animal un truco que requiere pensamiento critico.
+Inviertes tiempo en enseñar a un animal a llevar a cabo determinada acción. Puedes, o bien seleccionar una acción basica que el animal ya sabe hacer (tipicamente las indicadas en la acción, Comandar a un animal) o enseñar al animal una nueva acción. El DJ es quien determina la CD de cualquier prueba requerida y la cantidad de tiempo necesario para el entrenamiento (en general, por lo menos 1 semana). Suele ser imposible enseñar a un animal un truco que requiere pensamiento critico.
 
 Si tienes el rango experto, maestro o legendario en Naturaleza, podrias entrenar criaturas menos usuales, a discreción del DJ.
 
-**Exito:** El animal aprende la accion. Si era una accion que el animal ya conocia, puedes Comandar animal para que la lleve a cabo sin necesitar una prueba de Naturaleza. Si era una nueva accion basica, anade dicha accion a las que puede llevar a cabo el animal cuando se le Comanda, pero en ese caso tienes que hacer la prueba.
+**Éxito:** El animal aprende la acción. Si era una acción que el animal ya conocia, puedes Comandar animal para que la lleve a cabo sin necesitar una prueba de Naturaleza. Si era una nueva acción basica, anade dicha acción a las que puede llevar a cabo el animal cuando se le Comanda, pero en ese caso tienes que hacer la prueba.
 
 **Fallo:** El animal no aprende el truco.
 
@@ -1025,7 +1025,7 @@ Si tienes el rango experto, maestro o legendario en Naturaleza, podrias entrenar
 
 **Prerrequisitos:** rango experto en Naturaleza
 
-Forjas fuertes conexiones con los animales. Puedes invertir 7 dias de tiempo libre de forma regular interactuando con un animal normal (no un companero animal ni otro animal especial) que es amistoso o solicito para contigo. Después de dicho intervalo, haz una prueba de Naturaleza contra la CD de Voluntad del mismo. Si tienes exito, te vinculas con el. El animal queda permanentemente vinculado a ti hasta que formas un vinculo con un animal diferente o haces algo impresentable para romper el vinculo.
+Forjas fuertes conexiones con los animales. Puedes invertir 7 dias de tiempo libre de forma regular interactuando con un animal normal (no un companero animal ni otro animal especial) que es amistoso o solicito para contigo. Después de dicho intervalo, haz una prueba de Naturaleza contra la CD de Voluntad del mismo. Si tienes éxito, te vinculas con el. El animal queda permanentemente vinculado a ti hasta que formas un vinculo con un animal diferente o haces algo impresentable para romper el vinculo.
 
 Un animal solicito es mas facil de dirigir. Si tu animal vinculado es de nivel -1, obtiene el rasgo esbirro, lo que te permite Comandarlo de forma mas eficaz. El nivel máximo de criatura que puede ser tu esbirro aumenta a 3 si tienes el rango maestro en Naturaleza y a 11 si tienes el rango legendario.
 
@@ -1044,7 +1044,7 @@ Un animal solicito es mas facil de dirigir. Si tu animal vinculado es de nivel -
 
 **Prerrequisitos:** rango entrenado en Ocultismo
 
-Cuando eres consciente de un efecto magico o ves que se lanza un conjuro, puedes determinar de inmediato si retuerce las mentes (tiene el rasgo mental) si lucha contra la fortuna (rasgos fortuna o desventura) o si revela secretos (rasgos detección, escudriñamiento, predicción o revelación). A discreción del DJ, efectos similares podrian tambien encajar en dichas categorias. Cuando Identificas magia o Recuerdas conocimiento para averiguar mas acerca de dichos efectos, siempre puedes utilizar Ocultismo sin penalizadores y obtener un bonificador +2 por circunstancia.
+Cuando eres consciente de un efecto magico o ves que se lanza un conjuro, puedes determinar de inmediato si retuerce las mentes (tiene el rasgo mental) si lucha contra la fortuna (rasgos fortuna o desventura) o si revela secretos (rasgos detección, escudriñamiento, predicción o revelación). A discreción del DJ, efectos similares podrían tambien encajar en dichas categorias. Cuando Identificas magia o Recuerdas conocimiento para averiguar mas acerca de dichos efectos, siempre puedes utilizar Ocultismo sin penalizadores y obtener un bonificador +2 por circunstancia.
 
 ---
 
@@ -1094,7 +1094,7 @@ Inviertes 8 horas rezando o llevando a cabo rituales ocultista sobre el objetivo
 
 **Prerrequisitos:** rango entrenado en Religion
 
-Has investigado lo suficiente sobre muchas fes para reconocer que algunas nociones acerca de las mismas es poco probable que sean ciertas. Si sufres un fallo critico en una prueba de Religion para descifrar escritura de naturaleza religiosa o para Recordar conocimiento acerca de los dogmas de las fes, en su lugar sufres un fallo. Cuando pruebas a Recordar conocimiento acerca de los dogmas de tu propia fe, si sufres un fallo, en su lugar obtienes un exito, y si obtienes un exito, en su lugar obtienes un exito critico.
+Has investigado lo suficiente sobre muchas fes para reconocer que algunas nociones acerca de las mismas es poco probable que sean ciertas. Si sufres un fallo critico en una prueba de Religion para descifrar escritura de naturaleza religiosa o para Recordar conocimiento acerca de los dogmas de las fes, en su lugar sufres un fallo. Cuando pruebas a Recordar conocimiento acerca de los dogmas de tu propia fe, si sufres un fallo, en su lugar obtienes un éxito, y si obtienes un éxito, en su lugar obtienes un éxito critico.
 
 ---
 
@@ -1107,7 +1107,7 @@ Has investigado lo suficiente sobre muchas fes para reconocer que algunas nocion
 
 **Prerrequisitos:** rango legendario en Religion
 
-Estas tan inmerso en las escrituras divinas que encuentras en tus textos significado y guia para cualquier situación. Invierte 10 minutos Descifrando escritura en escrituras religiosas de tu dios o de tu filosofia mientras meditas acerca de un problema en particular o acertijo al que te enfrentas y después haz una prueba de Religion (CD a determinar por el DJ). Si tienes exito, desentierras un paisaje, parabola o aforismo relevante que te puede ayudar a avanzar o cambiar tu forma de pensar para ayudarte a resolver el acertijo.
+Estas tan inmerso en las escrituras divinas que encuentras en tus textos significado y guia para cualquier situación. Invierte 10 minutos Descifrando escritura en escrituras religiosas de tu dios o de tu filosofia mientras meditas acerca de un problema en particular o acertijo al que te enfrentas y después haz una prueba de Religion (CD a determinar por el DJ). Si tienes éxito, desentierras un paisaje, parabola o aforismo relevante que te puede ayudar a avanzar o cambiar tu forma de pensar para ayudarte a resolver el acertijo.
 
 ---
 
@@ -1146,7 +1146,7 @@ Tu conocimiento se ha expandido hasta abarcar un nuevo campo. Elige una subcateg
 
 **Prerrequisitos:** rango experto en Saber
 
-Nunca te equivocas con la información relativa a tus areas de experiencia. Cuando Recuerdas conocimiento utilizando cualquier subcategoria de Saber en la que estas entrenado, si sufres un fallo critico, en su lugar sufres un fallo. Si tienes el rango maestro en una subcategoria de Saber, con un exito critico obtienes aun mas información o contexto de lo usual.
+Nunca te equivocas con la información relativa a tus areas de experiencia. Cuando Recuerdas conocimiento utilizando cualquier subcategoria de Saber en la que estas entrenado, si sufres un fallo critico, en su lugar sufres un fallo. Si tienes el rango maestro en una subcategoria de Saber, con un éxito critico obtienes aun mas información o contexto de lo usual.
 
 ---
 
@@ -1189,7 +1189,7 @@ Durante la exploración, esto te permite tambien acercarte automaticamente a 15 
 
 **Prerrequisitos:** rango entrenado en Sigilo
 
-A menudo pasas cosas de contrabando sin que las autoridades se enteren. Cuando el DJ hace tu prueba de Sigilo para ver si un observador pasivo consigue ver un objeto pequeno que has ocultado, utiliza la cifra obtenida o 10 (la cifra mas alta) como resultado de tu tirada de dado, sumando tu modificador por Sigilo para determinar el resultado de la prueba. Si tienes el rango maestro en Sigilo, el DJ utiliza la cifra obtenida o 15 y, si tienes el rango legendario, tienes exito automatico en ocultar un objeto pequeno de cualquier observador pasivo. Esto no te proporciona beneficio alguno cuando una criatura hace una prueba de Percepción mientras te registra activamente en busca de objetos escondidos.
+A menudo pasas cosas de contrabando sin que las autoridades se enteren. Cuando el DJ hace tu prueba de Sigilo para ver si un observador pasivo consigue ver un objeto pequeno que has ocultado, utiliza la cifra obtenida o 10 (la cifra mas alta) como resultado de tu tirada de dado, sumando tu modificador por Sigilo para determinar el resultado de la prueba. Si tienes el rango maestro en Sigilo, el DJ utiliza la cifra obtenida o 15 y, si tienes el rango legendario, tienes éxito automatico en ocultar un objeto pequeno de cualquier observador pasivo. Esto no te proporciona beneficio alguno cuando una criatura hace una prueba de Percepción mientras te registra activamente en busca de objetos escondidos.
 
 ---
 
@@ -1254,7 +1254,7 @@ Siempre te mueves furtivamente a menos que elijas que te vean, incluso cuando no
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
-Dominas la vida en las calles y notas el pulso del asentamiento en el que estas. Puedes utilizar tu modificador por Sociedad en lugar de tu modificador por Diplomacia para Reunir información. En cualquier asentamiento que frecuentes regularmente, podras utilizar la accion de Recordar conocimiento con Sociedad para averiguar el mismo tipo de información que podrias descubrir con Diplomacia para Reunir información. La CD suele ser significativamente mayor, pero conoces la información sin tener que invertir tiempo en reunirla. Si no consigues recordar la información, puedes hacer intentos subsiguientes de Reunir información de la forma habitual.
+Dominas la vida en las calles y notas el pulso del asentamiento en el que estas. Puedes utilizar tu modificador por Sociedad en lugar de tu modificador por Diplomacia para Reunir información. En cualquier asentamiento que frecuentes regularmente, podrás utilizar la acción de Recordar conocimiento con Sociedad para averiguar el mismo tipo de información que podrias descubrir con Diplomacia para Reunir información. La CD suele ser significativamente mayor, pero conoces la información sin tener que invertir tiempo en reunirla. Si no consigues recordar la información, puedes hacer intentos subsiguientes de Reunir información de la forma habitual.
 
 ---
 
@@ -1276,7 +1276,7 @@ Te criaste entre la nobleza o has aprendido la etiqueta y el porte correctos, lo
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
-Puedes leer los labios de quienes estan cerca y a los que puedes ver claramente. El idioma elegido tiene que ser uno de los que conoces. Cuando estas tranquilo, puedes hacerlo automaticamente. En modo encuentro o cuando pretendes llevar a cabo una proeza de leer los labios mas difícil, quedas fascinado y desprevenido durante cada asalto en el que te centras en los movimientos de los labios y debes tener exito en una prueba de Sociedad (CD a determinar por el DJ) para leer con exito los labios de alguien.
+Puedes leer los labios de quienes estan cerca y a los que puedes ver claramente. El idioma elegido tiene que ser uno de los que conoces. Cuando estas tranquilo, puedes hacerlo automaticamente. En modo encuentro o cuando pretendes llevar a cabo una proeza de leer los labios mas difícil, quedas fascinado y desprevenido durante cada asalto en el que te centras en los movimientos de los labios y debes tener éxito en una prueba de Sociedad (CD a determinar por el DJ) para leer con éxito los labios de alguien.
 
 ---
 
@@ -1315,7 +1315,7 @@ Aprendes facilmente nuevos idiomas. Aprendes dos idiomas nuevos, elegidos de ent
 
 **Prerrequisitos:** rango legendario en Sociedad
 
-Tu habilidad con los idiomas y los codigos es tan grande que puedes descifrar información con poco mas que una ojeada rapida a un texto. Puedes Descifrar escritura utilizando Sociedad mientras lees a velocidad normal. Si vas mas despacio, inviertes la cantidad completa de tiempo que se requiere ordinariamente y obtienes un exito, en su lugar obtienes un exito critico; si obtienes un exito critico mientras inviertes la cantidad normal de tiempo, obtienes una comprension practicamente palabra por palabra del documento.
+Tu habilidad con los idiomas y los codigos es tan grande que puedes descifrar información con poco mas que una ojeada rapida a un texto. Puedes Descifrar escritura utilizando Sociedad mientras lees a velocidad normal. Si vas mas despacio, inviertes la cantidad completa de tiempo que se requiere ordinariamente y obtienes un éxito, en su lugar obtienes un éxito critico; si obtienes un éxito critico mientras inviertes la cantidad normal de tiempo, obtienes una comprension practicamente palabra por palabra del documento.
 
 ---
 
@@ -1354,9 +1354,9 @@ Tu experiencia en navegar por determinado tipo de terreno hace que tengas una co
 
 **Prerrequisitos:** rango entrenado en Supervivencia
 
-Cuando utilizas Supervivencia para Subsistir, si sacas cualquier resultado peor que un exito, obtienes un exito. Con un exito, puedes proporcionarte subsistencia a ti mismo y a 4 criaturas adicionales, y con un exito critico, puedes cuidar del doble de criaturas adicionales. Si eliges un nivel de vida comodo, puedes proporcionar subsistencia a la mitad de dichas criaturas.
+Cuando utilizas Supervivencia para Subsistir, si sacas cualquier resultado peor que un éxito, obtienes un éxito. Con un éxito, puedes proporcionarte subsistencia a ti mismo y a 4 criaturas adicionales, y con un éxito critico, puedes cuidar del doble de criaturas adicionales. Si eliges un nivel de vida comodo, puedes proporcionar subsistencia a la mitad de dichas criaturas.
 
-Aumenta a 8 el numero de criaturas adicionales a las que sustentas con un exito si tienes el rango experto en Supervivencia, en 16 si tienes el rango maestro y en 32 si tienes el rango legendario.
+Aumenta a 8 el numero de criaturas adicionales a las que sustentas con un éxito si tienes el rango experto en Supervivencia, en 16 si tienes el rango maestro y en 32 si tienes el rango legendario.
 
 ---
 
@@ -1378,7 +1378,7 @@ Rastrear es para ti instintivo y, cuando es necesario, puedes seguir un rastro s
 
 **Prerrequisitos:** rango entrenado en Supervivencia
 
-Puedes estudiar detalles de las tierras virgenes para determinar la presencia de criaturas cercanas. Puedes invertir 10 minutos estudiando la zona que te rodea para averiguar que criaturas hay cerca, basándote en los nidos, los excrementos y las marcas que hay en la vegetacion. Haz una prueba de Supervivencia contra una CD determinada por el DJ basándose en lo obvios que son los signos. Con un exito, puedes hacer una prueba de Recordar conocimiento con un penalizador -2 para averiguar mas cosas acerca de las criaturas tan solo a partir de dichos signos. Si tienes el rango maestro en Supervivencia, no sufres dicho penalizador.
+Puedes estudiar detalles de las tierras virgenes para determinar la presencia de criaturas cercanas. Puedes invertir 10 minutos estudiando la zona que te rodea para averiguar que criaturas hay cerca, basándote en los nidos, los excrementos y las marcas que hay en la vegetacion. Haz una prueba de Supervivencia contra una CD determinada por el DJ basándose en lo obvios que son los signos. Con un éxito, puedes hacer una prueba de Recordar conocimiento con un penalizador -2 para averiguar mas cosas acerca de las criaturas tan solo a partir de dichos signos. Si tienes el rango maestro en Supervivencia, no sufres dicho penalizador.
 
 ---
 
@@ -1393,7 +1393,7 @@ Puedes estudiar detalles de las tierras virgenes para determinar la presencia de
 
 Puedes utilizar trozos de monstruos para ayudarte con la Artesanía. Para Elaborar objetos, puedes usar el cuerpo de un monstruo, utilizando Supervivencia cuando lo haces en lugar de Artesanía para la actividad Elaborar. Si las partes del cuerpo del monstruo son valiosas, puedes gastarlas como parte del coste de la materia prima del objeto (el DJ es quien hace la determinacion si la entrada del monstruo no indica un material valioso procedente de su cuerpo).
 
-Si inviertes dias adicionales trabajando en el objeto, reduce el Precio utilizando el nivel del monstruo en lugar del tuyo. Ciertos objetos podrian requerir criaturas especificas en su requisito de Elaboracion.
+Si inviertes dias adicionales trabajando en el objeto, reduce el Precio utilizando el nivel del monstruo en lugar del tuyo. Ciertos objetos podrían requerir criaturas especificas en su requisito de Elaboracion.
 
 ---
 
@@ -1404,7 +1404,7 @@ Si inviertes dias adicionales trabajando en el objeto, reduce el Precio utilizan
 
 **Prerrequisitos:** rango maestro en Supervivencia
 
-Puedes Subsistir utilizando Supervivencia en diferentes Planos, incluso los que carecen de recursos o de fenómenos naturales que normalmente necesitas. Por ejemplo, puedes forrajear en busca de comida sin penalizador incluso si el Plano carece de comida que normalmente te puede sustentar. Un exito en tu prueba de Subsistir tambien evita el dano causado por el Plano a ti y a cualesquiera otros a los que apoyas con subsistir. Esto solo se aplica al dano infligido por las condiciones generales del Plano, no por los peligros menores.
+Puedes Subsistir utilizando Supervivencia en diferentes Planos, incluso los que carecen de recursos o de fenómenos naturales que normalmente necesitas. Por ejemplo, puedes forrajear en busca de comida sin penalizador incluso si el Plano carece de comida que normalmente te puede sustentar. Un éxito en tu prueba de Subsistir tambien evita el dano causado por el Plano a ti y a cualesquiera otros a los que apoyas con subsistir. Esto solo se aplica al dano infligido por las condiciones generales del Plano, no por los peligros menores.
 
 ---
 
@@ -1432,13 +1432,13 @@ Puedes sobrevivir de forma indefinida sin comida o agua y soportar un frio o un 
 
 **Prerrequisitos:** rango experto en Medicina
 
-Examinas un objeto magico que normalmente no podrias utilizar, en un esfuerzo por trucarlo y activarlo temporalmente. Por ejemplo, esto podria permitir a un guerrero lanzar un conjuro desde una varita o a un mago lanzar un conjuro que no esta en la lista arcana utilizando un pergamino. Tienes que saber que sucede cuando se activa el objeto o no puedes intentar trucarlo.
+Examinas un objeto magico que normalmente no podrias utilizar, en un esfuerzo por trucarlo y activarlo temporalmente. Por ejemplo, esto podría permitir a un guerrero lanzar un conjuro desde una varita o a un mago lanzar un conjuro que no esta en la lista arcana utilizando un pergamino. Tienes que saber que sucede cuando se activa el objeto o no puedes intentar trucarlo.
 
 Haz una prueba utilizando la habilidad correspondiente a la tradición magica del objeto o la que encaja con una tradición que tiene el conjuro en su lista, si tratas de lanzarlo desde el propio objeto. Las habilidades relevantes son Arcanos para la magia arcana, Naturaleza para la primigenia, Ocultismo para las ciencias ocultas, Religion para los divinos o cualquiera de las cuatro para un objeto que tiene el rasgo magico y carece de rasgo de tradición. El DJ es quien determina la CD basándose en el nivel del objeto (posiblemente ajustada dependiendo del objeto o de la situación).
 
 Si activas un objeto magico que requiere un modificador al ataque de conjuro o una CD de conjuro y no tienes la aptitud de lanzar conjuros de la tradición relevante, utiliza tu nivel como tu bonificador por competencia y el mayor de los modificadores de entre Inteligencia, Sabiduría o Carisma. Si tienes el rango maestro en la habilidad apropiada para la tradición del objeto, en su lugar utilizas el bonificador por competencia entrenado; si tienes el rango legendario, en su lugar utilizas el bonificador por competencia experto.
 
-**Exito:** Durante el resto del turno actual, puedes invertir acciones para activar el objeto como si pudieras usarlo normalmente.
+**Éxito:** Durante el resto del turno actual, puedes invertir acciones para activar el objeto como si pudieras usarlo normalmente.
 
 **Fallo:** No puedes usar el objeto ni intentar trucarlo de nuevo este turno, pero puedes intentarlo de nuevo en turnos subsiguientes.
 

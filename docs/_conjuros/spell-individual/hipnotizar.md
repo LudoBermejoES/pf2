@@ -19,9 +19,9 @@ spell_level: 3
 
 ---
 
-Creas una nube de esquemas y colores hipnoticos que flota en el aire. Las criaturas en el interior de la nube quedan deslumbradas. Ademas, una criatura tiene que hacer una salvacion de Voluntad si esta en el interior de la nube cuando la lanzas, cuando entra en la misma, cuando acaba su turno en ella o si utiliza una prueba de Buscar o de Interactuar estando dentro de la nube. Una criatura fascinada por hipnotizar no hace nuevas salvaciones.
+Creas una nube de esquemas y colores hipnoticos que flota en el aire. Las criaturas en el interior de la nube quedan deslumbradas. Ademas, una criatura tiene que hacer una salvación de Voluntad si esta en el interior de la nube cuando la lanzas, cuando entra en la misma, cuando acaba su turno en ella o si utiliza una prueba de Buscar o de Interactuar estando dentro de la nube. Una criatura fascinada por hipnotizar no hace nuevas salvaciones.
 
-**Exito** El objetivo no resulta afectado.
+**Éxito** El objetivo no resulta afectado.
 
 **Fallo** El objetivo queda fascinado por la nube.
 

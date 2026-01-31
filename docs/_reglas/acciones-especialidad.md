@@ -7,7 +7,7 @@ category: reglas
 nav_order: 7
 ---
 
-Estas acciones se utilizan solo en circunstancias especificas. Las acciones Detener una caida, Excavar y Volar requieren que dispongas de un tipo de movimiento especial. Las velocidades de trepar y de nadar utilizan las acciones correspondientes de la habilidad Atletismo.
+Estas acciones se utilizan solo en circunstancias especificas. Las acciones Detener una caída, Excavar y Volar requieren que dispongas de un tipo de movimiento especial. Las velocidades de trepar y de nadar utilizan las acciones correspondientes de la habilidad Atletismo.
 
 ---
 
@@ -19,13 +19,13 @@ Estas acciones se utilizan solo en circunstancias especificas. Las acciones Dete
 
 **Requisitos:** No tienes las manos atadas a la espalda ni estas neutralizado de alguna otra forma.
 
-Cuando caes de un saliente u otro asidero o pasas al lado mientras caes, puedes intentar agarrarte para, potencialmente, detener tu caida. Tienes que tener exito, o bien en una prueba de Acrobacias, o bien en una salvacion de Reflejos (tu eliges), por lo general con la CD de Trepar. Si consigues agarrarte al saliente, después puedes Trepar usando Atletismo.
+Cuando caes de un saliente u otro asidero o pasas al lado mientras caes, puedes intentar agarrarte para, potencialmente, detener tu caída. Tienes que tener éxito, o bien en una prueba de Acrobacias, o bien en una salvación de Reflejos (tu eliges), por lo general con la CD de Trepar. Si consigues agarrarte al saliente, después puedes Trepar usando Atletismo.
 
-**Exito critico:** Te agarras al saliente, tanto si tienes una mano libre como si no, usando por lo general un objeto sostenido adecuado (por ejemplo, clavando un hacha de batalla en el saliente). Sigues sufriendo dano debido a la distancia caida hasta ese momento, pero la tratas como si fuera 30 pies (9 m) mas corta.
+**Éxito critico:** Te agarras al saliente, tanto si tienes una mano libre como si no, usando por lo general un objeto sostenido adecuado (por ejemplo, clavando un hacha de batalla en el saliente). Sigues sufriendo dano debido a la distancia caída hasta ese momento, pero la tratas como si fuera 30 pies (9 m) mas corta.
 
-**Exito:** Si por lo menos tienes una mano libre, te agarras al saliente, deteniendo tu caida. Sigues sufriendo dano debido a la distancia caida hasta ese momento, pero la tratas como si fuera 20 pies (6 m) mas corta. Si no tienes ninguna mano libre, sigues cayendo como si hubieras fallado la prueba.
+**Éxito:** Si por lo menos tienes una mano libre, te agarras al saliente, deteniendo tu caída. Sigues sufriendo dano debido a la distancia caída hasta ese momento, pero la tratas como si fuera 20 pies (6 m) mas corta. Si no tienes ninguna mano libre, sigues cayendo como si hubieras fallado la prueba.
 
-**Fallo critico:** Continuas cayendo y, si has caido 20 pies (6 m) o mas antes de usar esta reaccion, sufres 10 dano contundente debido al impacto por cada 20 pies (6 m) caidos.
+**Fallo critico:** Continuas cayendo y, si has caido 20 pies (6 m) o mas antes de usar esta reacción, sufres 10 dano contundente debido al impacto por cada 20 pies (6 m) caidos.
 
 ---
 
@@ -43,15 +43,15 @@ Desvias la mirada de un peligro, como por ejemplo los ojos de una medusa. Obtien
 
 ---
 
-## Detener una Caida ↺
+## Detener una Caída ↺
 
 **Desencadenante:** Te caes.
 
 **Requisitos:** Tener Velocidad de vuelo
 
-Puedes elegir entre hacer una prueba de Acrobacias y una salvacion de Reflejos para hacer que tu caida sea mas lenta. La CD suele ser 15, pero podria ser mayor debido a turbulencias en el aire u otras circunstancias.
+Puedes elegir entre hacer una prueba de Acrobacias y una salvación de Reflejos para hacer que tu caída sea mas lenta. La CD suele ser 15, pero podría ser mayor debido a turbulencias en el aire u otras circunstancias.
 
-**Exito:** No sufres dano alguno debido a la caida.
+**Éxito:** No sufres dano alguno debido a la caída.
 
 ---
 
@@ -81,9 +81,9 @@ Elige uno de tus efectos con una duracion mantenida o que indica un beneficio es
 
 Si el efecto tiene una duracion mantenida, se prolonga hasta el final de tu siguiente turno (mantener mas de una vez en el mismo turno no prolonga la duracion a turnos subsiguientes). Si una aptitud puede ser mantenida pero no indica cuanto tiempo, puede serlo hasta 10 minutos.
 
-Un efecto podria indicar un beneficio adicional que tiene lugar cuando lo Mantienes, y esto puede incluso aparecer en efectos que no tienen una duracion mantenida. Si el efecto tiene a la vez un beneficio especial y una duracion mantenida, tu accion de Mantener prolonga la duracion así como el hecho de disponer del beneficio especial.
+Un efecto podría indicar un beneficio adicional que tiene lugar cuando lo Mantienes, y esto puede incluso aparecer en efectos que no tienen una duracion mantenida. Si el efecto tiene a la vez un beneficio especial y una duracion mantenida, tu acción de Mantener prolonga la duracion así como el hecho de disponer del beneficio especial.
 
-Si tu accion de Mantener es perturbada, la aptitud se acaba.
+Si tu acción de Mantener es perturbada, la aptitud se acaba.
 
 ---
 
@@ -93,7 +93,7 @@ Si tu accion de Mantener es perturbada, la aptitud se acaba.
 
 **Requisitos:** Estas adyacente a una criatura por lo menos un tamaño mayor que tu, que esta dispuesta a dejarse montar.
 
-Te mueves hasta la criatura y la montas. Si ya estas montado, en su lugar puedes utilizar esta accion para desmontar, abandonando la montura en un espacio adyacente a la misma.
+Te mueves hasta la criatura y la montas. Si ya estas montado, en su lugar puedes utilizar esta acción para desmontar, abandonando la montura en un espacio adyacente a la misma.
 
 ---
 
@@ -103,7 +103,7 @@ Te mueves hasta la criatura y la montas. Si ya estas montado, en su lugar puedes
 
 **Requisitos:** Una criatura no ha sido detectada por uno o mas de tus aliados, pero si por ti.
 
-Indicas a uno o mas de tus aliados donde esta una criatura a la que puedes ver, haciendo gestos en una dirección y describiendo verbalmente la distancia. Dicha criatura pasa a estar escondida de tus aliados, en lugar de no detectada. Esto solo funciona para los aliados que pueden verte y estan en una posición en la que podrian potencialmente detectar al objetivo. Si tus aliados no pueden oirte o entenderte, tienen que tener exito en una prueba de Percepción contra la CD de Sigilo de la criatura o te entienden mal y creen que el objetivo esta en un lugar diferente.
+Indicas a uno o mas de tus aliados donde esta una criatura a la que puedes ver, haciendo gestos en una dirección y describiendo verbalmente la distancia. Dicha criatura pasa a estar escondida de tus aliados, en lugar de no detectada. Esto solo funciona para los aliados que pueden verte y estan en una posición en la que podrían potencialmente detectar al objetivo. Si tus aliados no pueden oirte o entenderte, tienen que tener éxito en una prueba de Percepción contra la CD de Sigilo de la criatura o te entienden mal y creen que el objetivo esta en un lugar diferente.
 
 ---
 
@@ -113,10 +113,10 @@ Indicas a uno o mas de tus aliados donde esta una criatura a la que puedes ver, 
 
 **Requisitos:** Tienes Velocidad de vuelo
 
-Te mueves por el aire como máximo a tu Velocidad de vuelo. Moverse hacia arriba (en vertical o en diagonal) utiliza las reglas de movimiento a traves de terreno difícil. Puedes descender 10 pies (3 m) por cada 5 pies (1,5 m) de movimiento que gastas. Si bajas volando hasta el suelo, no sufres dano por caida. Puedes utilizar una accion para Volar 0 pies y mantenerte flotando en el mismo sitio. Si al final de tu turno estas en el aire y no has utilizado una accion de Volar en el mismo, caes.
+Te mueves por el aire como máximo a tu Velocidad de vuelo. Moverse hacia arriba (en vertical o en diagonal) utiliza las reglas de movimiento a traves de terreno difícil. Puedes descender 10 pies (3 m) por cada 5 pies (1,5 m) de movimiento que gastas. Si bajas volando hasta el suelo, no sufres dano por caída. Puedes utilizar una acción para Volar 0 pies y mantenerte flotando en el mismo sitio. Si al final de tu turno estas en el aire y no has utilizado una acción de Volar en el mismo, caes.
 
 ---
 
 ## Hablar
 
-Si puedes actuar, tambien puedes hablar. No tienes que gastar ningun tipo de accion para hablar pero, como quiera que un asalto representa 6 segundos de tiempo, lo normal es que solo puedas pronunciar como máximo una frase por asalto. Usos especiales del habla, como por ejemplo hacer una prueba de habilidad de Engano para Mentir, requiere gastar acciones y seguir sus propias reglas. El habla tiene el rasgo auditivo. Si te comunicas de alguna otra forma que el habla, podrian aplicarse otras reglas. Por ejemplo, usar el lenguaje de signos es visual en lugar de auditivo.
+Si puedes actuar, tambien puedes hablar. No tienes que gastar ningun tipo de acción para hablar pero, como quiera que un asalto representa 6 segundos de tiempo, lo normal es que solo puedas pronunciar como máximo una frase por asalto. Usos especiales del habla, como por ejemplo hacer una prueba de habilidad de Engano para Mentir, requiere gastar acciones y seguir sus propias reglas. El habla tiene el rasgo auditivo. Si te comunicas de alguna otra forma que el habla, podrían aplicarse otras reglas. Por ejemplo, usar el lenguaje de signos es visual en lugar de auditivo.

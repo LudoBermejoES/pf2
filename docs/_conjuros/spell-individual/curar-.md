@@ -18,7 +18,7 @@ spell_level: 1
 
 ---
 
-Canalizas energia vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvacion basica de Fortaleza. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demás parametros.
+Canalizas energia vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvación basica de Fortaleza. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demás parametros.
 
 **◆** El conjuro tiene un alcance de toque.
 

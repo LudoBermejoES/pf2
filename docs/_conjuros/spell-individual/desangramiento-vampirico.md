@@ -19,6 +19,6 @@ spell_level: 6
 
 ---
 
-Extraes la sangre y la fuerza vital de otras criaturas a traves de tus brazos extendidos. Infliges 12d6 dano por vacío a las criaturas vivas en el area, que tienen que hacer una salvacion basica de Fortaleza. Obtienes tantos Puntos de Golpe temporales como la mitad del dano que sufre una sola criatura debido a este conjuro; calculalos utilizando la criatura que sufre mas dano. Al cabo de 1 minuto, pierdes todos los Puntos de Golpe temporales que te quedan.
+Extraes la sangre y la fuerza vital de otras criaturas a traves de tus brazos extendidos. Infliges 12d6 dano por vacío a las criaturas vivas en el area, que tienen que hacer una salvación basica de Fortaleza. Obtienes tantos Puntos de Golpe temporales como la mitad del dano que sufre una sola criatura debido a este conjuro; calculalos utilizando la criatura que sufre mas dano. Al cabo de 1 minuto, pierdes todos los Puntos de Golpe temporales que te quedan.
 
 **Potenciado (+1)** El dano se incrementa en 2d6.

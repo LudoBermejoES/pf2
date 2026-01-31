@@ -27,7 +27,7 @@ Creas una escena imaginaria que incluye hasta 10 criaturas individuales u objeto
 
 Cuando creas la escena, puedes elegir que sea estatica o que siga un programa. Aunque una escena estatica es estacionaria, incluye movimiento natural basico. Por ejemplo, el viento soplando sobre un pedazo de papel ilusorio lo haría crujir. Un programa puede tener hasta 1 minuto de longitud y se repite cuando se acaba. Por ejemplo, podrias crear una escena con dos orcos luchando entre si y la lucha se desarrollaria de la misma forma en cada repeticion. Si creas un bucle, ambos combatientes acaban en el mismo lugar al inicio de la escena y al final de la misma, pero puedes refinar el programa para que sea difícil discernir cuando empieza y cuando acaba el bucle. Cualquiera que observe la escena mas de unos pocos minutos, casi siempre se dara cuenta del bucle. Una vez has creado la ilusion, no puedes alterar el programa.
 
-Cualquier criatura que toque cualquier parte de la imagen o utilice la accion de Buscar para examinarla podra hacer un intento de descreer tu ilusion. Si interacciona con una parte de la ilusion, solo descree dicha parte. Tan solo puede descreer la escena al completo con un exito critico.
+Cualquier criatura que toque cualquier parte de la imagen o utilice la acción de Buscar para examinarla podra hacer un intento de descreer tu ilusion. Si interacciona con una parte de la ilusion, solo descree dicha parte. Tan solo puede descreer la escena al completo con un éxito critico.
 
 **Potenciado (6.o)** Las criaturas o los objetos de tu escena pueden hablar. Tienes que dictar las palabras especificas para cada actor al crear tu programa. El conjuro disfraza tu voz para cada actor.
 

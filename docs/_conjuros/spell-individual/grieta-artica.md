@@ -18,11 +18,11 @@ spell_level: 8
 
 ---
 
-Una grieta irregular se abre en el aire, infligiendo 12d8 dano por frio al absorber el calor. Cada criatura junto a la grieta tiene que hacer una salvacion de Fortaleza.
+Una grieta irregular se abre en el aire, infligiendo 12d8 dano por frio al absorber el calor. Cada criatura junto a la grieta tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y queda lentificada 1 hasta el final de tu siguiente turno.
 

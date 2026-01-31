@@ -20,6 +20,6 @@ spell_level: 5
 
 ---
 
-Convocas a una criatura con el rasgo celestial y cuyo nivel es 5 o menor para que luche por ti. El DJ podria determinar que tu dios restringe los tipos específicos de celestiales a los que puedes convocar en determinados casos. Por ejemplo, Calistria no suele permitir que sus seguidores convoquen eones.
+Convocas a una criatura con el rasgo celestial y cuyo nivel es 5 o menor para que luche por ti. El DJ podría determinar que tu dios restringe los tipos específicos de celestiales a los que puedes convocar en determinados casos. Por ejemplo, Calistria no suele permitir que sus seguidores convoquen eones.
 
 **Potenciado** Como se indica en el rasgo convocar.

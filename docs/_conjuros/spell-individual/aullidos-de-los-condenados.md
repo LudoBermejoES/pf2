@@ -22,9 +22,9 @@ spell_level: 9
 
 Bullas el lamento de las almas condenadas. Cada enemigo vivo en el area sufre 8d10 daño por dacio dependiendo de su salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre daño completo.
+**Éxito** La criatura sufre daño completo.
 
 **Fallo** La criatura sufre daño completo y queda drenada 1d4.
 

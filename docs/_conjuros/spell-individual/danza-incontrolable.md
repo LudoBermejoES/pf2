@@ -20,11 +20,11 @@ spell_level: 8
 
 ---
 
-El objetivo se ve abrumado por un ansia absorbente de bailar. Mientras dura el conjuro, el objetivo queda desprevenido y no puede utilizar reacciones. Tampoco puede utilizar acciones de movimiento excepto para bailar, utilizando la accion Zancada para moverse hasta la mitad de su velocidad.
+El objetivo se ve abrumado por un ansia absorbente de bailar. Mientras dura el conjuro, el objetivo queda desprevenido y no puede utilizar reacciones. Tampoco puede utilizar acciones de movimiento excepto para bailar, utilizando la acción Zancada para moverse hasta la mitad de su velocidad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** La duracion del conjuro es de 3 asaltos y el objetivo debe invertir por lo menos 1 accion cada turno bailando.
+**Éxito** La duracion del conjuro es de 3 asaltos y el objetivo debe invertir por lo menos 1 acción cada turno bailando.
 
 **Fallo** La duracion del conjuro es de 1 minuto y el objetivo debe invertir por lo menos 2 acciones cada turno bailando.
 

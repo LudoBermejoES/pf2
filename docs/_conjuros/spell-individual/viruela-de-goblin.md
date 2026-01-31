@@ -19,11 +19,11 @@ spell_level: 1
 
 ---
 
-Tu toque aflige al objetivo con la viruela de goblin, un eczema alergico e irritante. El objetivo tiene que llevar a cabo una salvacion de Fortaleza.
+Tu toque aflige al objetivo con la viruela de goblin, un eczema alergico e irritante. El objetivo tiene que llevar a cabo una salvación de Fortaleza.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda indispuesto 1.
+**Éxito** El objetivo queda indispuesto 1.
 
 **Fallo** El objetivo queda afligido por la viruela de goblin en su etapa 1.
 

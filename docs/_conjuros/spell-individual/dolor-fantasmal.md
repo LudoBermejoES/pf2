@@ -21,11 +21,11 @@ spell_level: 1
 
 ---
 
-Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano persistente mental y tiene que hacer una salvacion de Voluntad.
+Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano persistente mental y tiene que hacer una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo sufre el dano inicial completo pero no dano persistente, y el conjuro se acaba de inmediato.
+**Éxito** El objetivo sufre el dano inicial completo pero no dano persistente, y el conjuro se acaba de inmediato.
 
 **Fallo** El objetivo sufre el dano inicial y el dano persistente completos, y queda indispuesto 1. Si se recupera del estado indispuesto, el dano persistente se acaba y el conjuro tambien.
 

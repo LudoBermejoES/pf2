@@ -20,9 +20,9 @@ spell_level: 2
 
 Una oleada de luz magica bana el area. Tu eres quien elige la apariencia de esta, por ejemplo unas llamas coloridas exentas de calor o unas motas brillantes. Una criatura afectada por luz reveladora queda deslumbrada. Si la criatura era invisible, en su lugar queda oculta. Si la criatura ya estaba oculta por cualquier otro motivo, ya no esta oculta.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** La luz afecta a la criatura durante 2 asaltos.
+**Éxito** La luz afecta a la criatura durante 2 asaltos.
 
 **Fallo** La luz afecta a la criatura durante 1 minuto.
 

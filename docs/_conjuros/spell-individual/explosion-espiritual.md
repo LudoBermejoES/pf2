@@ -19,6 +19,6 @@ spell_level: 6
 
 ---
 
-Concentras energia eterea y atacas al espiritu de la criatura, infligiendo 16d6 dano espiritual con una salvacion basica de Fortaleza.
+Concentras energia eterea y atacas al espiritu de la criatura, infligiendo 16d6 dano espiritual con una salvación basica de Fortaleza.
 
 **Potenciado (+1)** El dano se incrementa en 2d6.

@@ -57,7 +57,7 @@ PC = poco comun.
 - **[Miedo](/conjuros/miedo/) P** Asustas a una criatura, obligándola posiblemente a huir.
 - **[Objeto ilusorio](/conjuros/objeto-ilusorio/) P** Creas una ilusión convincente de un objeto.
 - **[Orden](/conjuros/orden/) P** Haces que una criatura se acerque, corra, deje caer algo, se tumbe o se ponga de pie.
-- **[Proteccion](/conjuros/proteccion/) ** Mejoras la CA de una criatura.
+- **[Protección](/conjuros/proteccion/) ** Mejoras la CA de una criatura.
 - **[Refugio para mascota](/conjuros/refugio-para-mascota/) ** Escondes a un familiar o compañero animal en una dimension de bolsillo.
 - **[Remendar](/conjuros/remendar/) P** Reparas un objeto no magico.
 - **[Santuario](/conjuros/santuario/) ** Proteges a una criatura de ser atacada.

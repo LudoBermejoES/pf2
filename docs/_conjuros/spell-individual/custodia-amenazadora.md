@@ -19,6 +19,6 @@ spell_level: TRUCO
 
 ---
 
-Proteges a un aliado contra los ataques y los conjuros hostiles del enemigo objetivo. El aliado objetivo obtiene un bonificador +1 por estatus a su CA y a sus tiradas de salvacion contra los ataques, conjuros y otros efectos del enemigo objetivo.
+Proteges a un aliado contra los ataques y los conjuros hostiles del enemigo objetivo. El aliado objetivo obtiene un bonificador +1 por estatus a su CA y a sus tiradas de salvación contra los ataques, conjuros y otros efectos del enemigo objetivo.
 
 **Potenciado (6.º)** El bonificador por estatus se incrementa a +2.

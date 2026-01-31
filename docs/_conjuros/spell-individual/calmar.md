@@ -20,9 +20,9 @@ spell_level: 2
 
 Calmas por la fuerza a las criaturas en el area, sosegandolas hasta un estado no violento; cada criatura tiene que hacer una salvación de Voluntad.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** Calmar sus intenciones impone un penalizador -1 por estatus a las tiradas de ataque de la criatura.
+**Éxito** Calmar sus intenciones impone un penalizador -1 por estatus a las tiradas de ataque de la criatura.
 
 **Fallo** Cualquier efecto de emocion que afectaria a la criatura queda suprimido y esta no puede utilizar acciones hostiles. Si el objetivo se ve sujeto a hostilidades por parte de cualquier otra criatura, deja de estar afectado por calmar.
 

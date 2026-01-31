@@ -34,7 +34,7 @@ Creas un globo inmóvil a tu alrededor, que trata de contrarrestar cualquier con
 **Tradiciones:** arcana, ocultista
 **Duracion:** hasta el final de tu siguiente turno
 
-Un atisbo del el futuro se asegura de que tu siguiente impacto resulta certero. La proxima vez que hagas una tirada de ataque antes del final de tu turno, podras hacer dos veces la tirada de ataque y quedarte con el mejor resultado. El ataque ignora cualquier penalizador por circunstancia a la tirada de ataque y cualquier prueba plana requerida debido a que el objetivo esta oculto o escondido.
+Un atisbo del el futuro se asegura de que tu siguiente impacto resulta certero. La proxima vez que hagas una tirada de ataque antes del final de tu turno, podrás hacer dos veces la tirada de ataque y quedarte con el mejor resultado. El ataque ignora cualquier penalizador por circunstancia a la tirada de ataque y cualquier prueba plana requerida debido a que el objetivo esta oculto o escondido.
 
 ---
 
@@ -59,9 +59,9 @@ Conjuras grasa, eligiendo un area o un objetivo.
 
 Una grieta irregular se abre en el aire, infligiendo 12d8 dano por frio al absorber el calor. Cada criatura junto a la grieta tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y queda lentificada 1 hasta el final de tu siguiente turno.
 
@@ -143,9 +143,9 @@ Para el objetivo, tus palabras son melifluas y tu rostro parece bajado en una br
 
 Puedes Disipar el conjuro. Si utilizas acciones hostiles contra el objetivo, el conjuro se acaba. Si ello sucede, el objetivo no se da cuenta necesariamente de que estaba hechizado a menos que su amistad contigo o las acciones que le has convencido de llevar a cabo choquen con sus expectativas, lo que significa que podrías potencialmente convencerle de continuar siendo tu amigo por medios mundanos.
 
-**Exito critico** El objetivo no resulta afectado pero es consciente de que has intentado hechizarlo.
+**Éxito critico** El objetivo no resulta afectado pero es consciente de que has intentado hechizarlo.
 
-**Exito** El objetivo no resulta afectado pero cree que tu conjuro era algo inofensivo en lugar de hechizar, si no identifica el conjuro (ver Como identificar conjuros).
+**Éxito** El objetivo no resulta afectado pero cree que tu conjuro era algo inofensivo en lugar de hechizar, si no identifica el conjuro (ver Como identificar conjuros).
 
 **Fallo** La actitud del objetivo se vuelve amistosa hacia ti. Si ya era amistosa, se vuelve solicita. No puede utilizar acciones hostiles contra ti.
 
@@ -187,7 +187,7 @@ Catalogas rapidamente y Rennes información relevante a tu situación actual. Pu
 
 Creas una nube de esquemas y colores hipnóticos que flota en el aire. Las criaturas en el interior de la nube quedan deslumbradas. Ademas, una criatura tiene que hacer una salvación de Voluntad si esta en el interior de la nube cuando la lanzas, cuando entra en la misma, cuando acaba su turno en ella o si utiliza una prueba de Buscar o de Interactuar estando dentro de la nube. Una criatura fascinada por hipnotizar no hace nuevas salvaciones.
 
-**Exito** El objetivo no resulta afectado.
+**Éxito** El objetivo no resulta afectado.
 
 **Fallo** El objetivo queda fascinado por la nube.
 
@@ -203,9 +203,9 @@ Creas una nube de esquemas y colores hipnóticos que flota en el aire. Las criat
 
 Chasqueas los dedos y señales a un objetivo, que empieza a arder. Haz una tirada de ataque de conjuro contra la CA del objetivo, infligiendo 2d4 dano por fuego con un impacto. Si el objetivo esta a tu alcance de cuerpo a cuerpo puedes elegir un ataque de conjuro cuerpo a cuerpo en lugar de un ataque de conjuro a distancia, lo que incrementa todos los dados de dano del conjuro a d6.
 
-**Exito critico** El objetivo sufre doble dano y 1d4 dano persistente por fuego.
+**Éxito critico** El objetivo sufre doble dano y 1d4 dano persistente por fuego.
 
-**Exito** El objetivo sufre dano completo.
+**Éxito** El objetivo sufre dano completo.
 
 **Potenciado (+1)** El dano inicial se incrementa en 1d4 y el dano persistente por fuego con un impacto critico se incrementa en 1d4.
 
@@ -242,7 +242,7 @@ Especificas un desencadenante y un mensaje de hasta 25 palabras de longitud. Cua
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** hasta el inicio de tu siguiente turno
 
-Cortas tus lazos entre causa y efecto. Mientras dura el conjuro, eres inmune a cualquier efecto o dano que te podría danar, excluyendo los causados por artefactos, poder de los dioses y orígenes similarmente poderosos. Podras permitir de forma selectiva que te afecte cualquier cosa que estes dispuesto a que te afecte.
+Cortas tus lazos entre causa y efecto. Mientras dura el conjuro, eres inmune a cualquier efecto o dano que te podría danar, excluyendo los causados por artefactos, poder de los dioses y orígenes similarmente poderosos. Podrás permitir de forma selectiva que te afecte cualquier cosa que estes dispuesto a que te afecte.
 
 ---
 
@@ -268,9 +268,9 @@ Potencias tus ataques con energia vital. El numero de objetivos es igual al nume
 
 Llamas divinas afectan a todas las criaturas en el interior del area. Dichas criaturas sufren 6d6 dano por fuego y 2d6 dano persistente por fuego. El poder divino de las llamas chamusca tambien el espíritu; una criatura sufre dano espiritual en lugar de dano por fuego de inmolación divina si resulta mas dañino para la criatura (a determinar por el DJ).
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano, sin dano persistente.
+**Éxito** La criatura sufre mitad de dano, sin dano persistente.
 
 **Fallo** La criatura sufre dano completo y dano persistente.
 
@@ -297,7 +297,7 @@ Infundes a un objetivo con energia espiritual, renovando su magia. Si prepara co
 
 Unas ilusiones retuercen la luz alrededor del objetivo, haciendolo invisible. Esto lo convierte en no detectado para todas las criaturas, aunque estas pueden intentar buscarlo, con lo que para ellas quedara escondido. Si el objetivo utiliza una acción hostil, el conjuro acaba una vez esta se ha completado.
 
-**Potenciado (4.o)** El conjuro dura 1 minuto pero no acaba si el objetivo utiliza una accion hostil.
+**Potenciado (4.o)** El conjuro dura 1 minuto pero no acaba si el objetivo utiliza una acción hostil.
 
 ---
 
@@ -309,7 +309,7 @@ Unas ilusiones retuercen la luz alrededor del objetivo, haciendolo invisible. Es
 
 Unas apariciones desastradas de personas muertas se alzan para acechar a los vivos. Infligen 2d4 dano mental y 2d4 dano por dacio a cada criatura viva en el area, que tiene que hacer una salvación basica de Reflejos. Ademas, las criaturas que fallan criticamente la salvación quedan asustadas 2 y huyen durante 1 asalto.
 
-En asaltos subsiguientes, la primera vez que Mantengas el conjuro cada asalto, podras mover el area hasta 30 pies (9 m) dentro del alcance del conjuro. Las criaturas vivas en la nueva area deberán hacer salvaciones con los mismos efectos arriba indicados, excepto que con un fallo critico no huirán.
+En asaltos subsiguientes, la primera vez que Mantengas el conjuro cada asalto, podrás mover el area hasta 30 pies (9 m) dentro del alcance del conjuro. Las criaturas vivas en la nueva area deberán hacer salvaciones con los mismos efectos arriba indicados, excepto que con un fallo critico no huirán.
 
 **Potenciado (+2)** El dano mental y el dano por vacío se incrementan en 1d4 cada uno.
 
@@ -323,9 +323,9 @@ En asaltos subsiguientes, la primera vez que Mantengas el conjuro cada asalto, p
 
 Canalizas la furia de la divinidad contra tus enemigos. Infliges 4d10 dano espiritual a tus enemigos en el area; cada enemigo tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y queda indispuesta 1.
 
@@ -390,13 +390,13 @@ Te centras en el objeto objetivo, abriendo tu mente para percibir auras magicas.
 
 Con un leve toque mental, tratas de leer la mente del objetivo, que tiene que hacer una salvación de Voluntad. A continuación, queda temporalmente inmune a tu lectura mental durante 1 hora.
 
-**Exito critico** El objetivo percibe vagos pensamientos superficiales de tu parte cuando Lanzas el conjuro.
+**Éxito critico** El objetivo percibe vagos pensamientos superficiales de tu parte cuando Lanzas el conjuro.
 
-**Exito** Descubres si el modificador por Inteligencia del objetivo es superior, igual o inferior al tuyo.
+**Éxito** Descubres si el modificador por Inteligencia del objetivo es superior, igual o inferior al tuyo.
 
 **Fallo** Percibes vagos pensamientos superficiales del objetivo cuando Lanzas el conjuro y averiguas si su Inteligencia es superior, igual o inferior a la tuya.
 
-**Fallo critico** Igual que fallo, y mientras dura el conjuro puedes Mantenerlo para detectar de nuevo los pensamientos superficiales del objetivo. El objetivo no obtiene ninguna salvacion adicional.
+**Fallo critico** Igual que fallo, y mientras dura el conjuro puedes Mantenerlo para detectar de nuevo los pensamientos superficiales del objetivo. El objetivo no obtiene ninguna salvación adicional.
 
 ---
 
@@ -408,9 +408,9 @@ Con un leve toque mental, tratas de leer la mente del objetivo, que tiene que ha
 
 Dilatas el flujo de tiempo alrededor del objetivo, lentificando sus acciones.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda lentificado 1 durante 1 asalto.
+**Éxito** El objetivo queda lentificado 1 durante 1 asalto.
 
 **Fallo** El objetivo queda lentificado 1 durante 1 minuto.
 
@@ -436,11 +436,11 @@ Desafias a la gravedad y haces levitar el objetivo 5 pies (1,5 m) por encima del
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura voladora
 **Defensa:** Fortaleza; **Duracion:** variable
 
-Utilizando el peso de la tierra, perturbas el vuelo del objetivo, con efectos que se basan en su salvación de Fortaleza. Si la criatura llega al suelo de forma segura, no sufre dano por caida.
+Utilizando el peso de la tierra, perturbas el vuelo del objetivo, con efectos que se basan en su salvación de Fortaleza. Si la criatura llega al suelo de forma segura, no sufre dano por caída.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo cae de forma segura hasta 120 pies (36 m).
+**Éxito** El objetivo cae de forma segura hasta 120 pies (36 m).
 
 **Fallo** El objetivo cae de forma segura hasta 120 pies (36 m). Si llega al suelo, no puede Volar, levitar o abandonar el suelo de ninguna otra forma durante 1 asalto.
 
@@ -458,9 +458,9 @@ Aparecen centenares de manifestaciones de fuerza divina, girando en una enorme e
 
 El caparazón proporciona cobertura y puede cruzar terreno solido sin afectarlo. Inflige 7d8 dano por fuerza a cualquier criatura con la que se cruza al crearse la esfera o que intenta atravesarla. La criatura tambien sufre el dano al final de su turno, pero solo si no ha sufrido ya dano por parte del caparazón en dicho turno. Los efectos vienen determinados por una salvación de Reflejos de la criatura.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo, es empujada hasta 10 pies (3 m) en una dirección que tu eliges y finaliza su movimiento.
 
@@ -558,9 +558,9 @@ La piedra preciosa que tocas brilla, extendiendo luz brillante con un color a tu
 
 Una oleada de luz magica bana el area. Tu eres quien elige la apariencia de esta, por ejemplo unas llamas coloridas exentas de calor o unas motas brillantes. Una criatura afectada por luz reveladora queda deslumbrada. Si la criatura era invisible, en su lugar queda oculta. Si la criatura ya estaba oculta por cualquier otro motivo, ya no esta oculta.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** La luz afecta a la criatura durante 2 asaltos.
+**Éxito** La luz afecta a la criatura durante 2 asaltos.
 
 **Fallo** La luz afecta a la criatura durante 1 minuto.
 
@@ -576,9 +576,9 @@ Una oleada de luz magica bana el area. Tu eres quien elige la apariencia de esta
 
 Haces brillar un abrasador rayo de luz tenido de energia sagrada. Haz un ataque de conjuro a distancia. El rayo inflige 5d6 dano por fuego. Si el objetivo tiene el rasgo sacrilego, infliges 5d6 dano adicional espiritual.
 
-**Exito critico** El objetivo sufre doble dano.
+**Éxito critico** El objetivo sufre doble dano.
 
-**Exito** El objetivo sufre dano completo.
+**Éxito** El objetivo sufre dano completo.
 
 Si la luz atraviesa un area de oscuridad magica o designa como objetivo a una criatura afectada por oscuridad magica, luz sagrada hace una prueba para contrarrestar la oscuridad. Si tienes que determinar si la luz atraviesa o no un area de oscuridad, traza una linea entre ti mismo y el objetivo del conjuro.
 
@@ -594,7 +594,7 @@ Si la luz atraviesa un area de oscuridad magica o designa como objetivo a una cr
 
 El objetivo se ve aquejado por la desventura, que le deja desequilibrado. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 
-**Exito** El objetivo no resulta afectado.
+**Éxito** El objetivo no resulta afectado.
 
 **Fallo** La primera vez de la duracion en que el objetivo haga una prueba de ataque o de habilidad, debera tirar dos veces y utilizar el peor resultado.
 
@@ -610,9 +610,9 @@ El objetivo se ve aquejado por la desventura, que le deja desequilibrado. El obj
 
 Afliges al objetivo con la maldición del mar agitado e implacable. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda indispuesto 1. Reducir a 0 su estado de indispuesto acaba con la maldición.
+**Éxito** El objetivo queda indispuesto 1. Reducir a 0 su estado de indispuesto acaba con la maldición.
 
 **Fallo** El objetivo queda indispuesto 1 y no puede reducir por debajo de 1 su estado mientras la maldición esta activa. La maldición se puede eliminar mediante un limpiar afliccion de 4.o rango o magia similar. Si el objetivo esta indispuesto y en el mar, a por lo menos una milla (1,6 km) de la costa, queda tambien lentificado 1.
 
@@ -628,11 +628,11 @@ Afliges al objetivo con la maldición del mar agitado e implacable. El objetivo 
 
 Afliges al objetivo con una maldición que hace que su presencia sea abrasiva y poco atractiva. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** Durante 10 minutos, el objetivo debe tirar 2 veces y utilizar el peor de los resultados cuando hace una prueba de Engano, Diplomacia, Intimidación o Interpretacion, y las criaturas con las que se encuentra tienen una actitud inicial hacia el un paso peor (por ejemplo, malintencionado en lugar de indiferente).
+**Éxito** Durante 10 minutos, el objetivo debe tirar 2 veces y utilizar el peor de los resultados cuando hace una prueba de Engano, Diplomacia, Intimidación o Interpretacion, y las criaturas con las que se encuentra tienen una actitud inicial hacia el un paso peor (por ejemplo, malintencionado en lugar de indiferente).
 
-**Fallo** Igual que exito, pero el efecto es permanente.
+**Fallo** Igual que éxito, pero el efecto es permanente.
 
 **Fallo critico** Como fallo, y las criaturas con las que se encuentra el objetivo tienen una actitud inicial hacia el dos pasos peor.
 
@@ -679,15 +679,15 @@ Creas una mano magica flotante, o bien invisible, o bien fantasmal, que aferra a
 
 Desatas una ola de muerte para apagar la fuerza vital de quienes estan en su camino. Cada criatura viva de nivel 17.o o menor en la linea tiene que hacer una salvación de Fortaleza. Si el dano debido a masacre reduce a una criatura a 0 Puntos de Golpe, dicha criatura muere instantaneamente. Si masacre no mata ni a una sola criatura, la energia del dacio se vuelve, hambrienta, hacia ti infligiendo 30 dano adicional por dacio a todas las criaturas vivas de la linea (incluso las que estan por encima de 17.o nivel) y 30 dano por dacio a ti.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre 9d6 dano por vacío.
+**Éxito** La criatura sufre 9d6 dano por vacío.
 
 **Fallo** La criatura sufre 100 dano por vacío.
 
 **Fallo critico** La criatura muere.
 
-**Potenciado (10.o)** El conjuro puede afectar criaturas vivas hasta 19.o nivel. Incrementa el dano a 10d6 con un exito y a 115 con un fallo.
+**Potenciado (10.o)** El conjuro puede afectar criaturas vivas hasta 19.o nivel. Incrementa el dano a 10d6 con un éxito y a 115 con un fallo.
 
 ---
 
@@ -701,13 +701,13 @@ El objetivo aparece como una criatura macabra y terrorífica. El efecto es unico
 
 Cuando cualquier criatura utiliza una acción hostil contra el objetivo, la criatura tiene que hacer una salvación de Voluntad. A continuación queda temporalmente inmune hasta el final de su siguiente turno.
 
-**Exito** La criatura no resulta afectada.
+**Éxito** La criatura no resulta afectada.
 
-**Fallo** La criatura queda asustada 2 antes de usar su accion.
+**Fallo** La criatura queda asustada 2 antes de usar su acción.
 
-**Fallo critico** La criatura queda asustada 2 y su accion falla y se desperdicia.
+**Fallo critico** La criatura queda asustada 2 y su acción falla y se desperdicia.
 
-**Potenciado (8.o)** Puedes designar como objetivo hasta 5 criaturas. Si una criatura utiliza una accion o reaccion hostil que afecta a multiples objetivos simultaneamente, solo tiene que hacer una salvacion contra mascara del terror.
+**Potenciado (8.o)** Puedes designar como objetivo hasta 5 criaturas. Si una criatura utiliza una acción o reacción hostil que afecta a multiples objetivos simultaneamente, solo tiene que hacer una salvación contra mascara del terror.
 
 ---
 
@@ -769,11 +769,11 @@ Puedes Mantener el conjuro para adoptar una nueva forma que aun no has usado dur
 
 Transformas la criatura objetivo en un animal inofensivo apropiado al area, con efectos basados en su salvación de Fortaleza.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El cuerpo del objetivo obtiene rasgos menores del animal. Sus organos internos se revuelven al transformarse parcialmente, haciendo que quede indispuesto 1. Cuando se recupera del estado indispuesto, sus rasgos revierten a la normalidad.
+**Éxito** El cuerpo del objetivo obtiene rasgos menores del animal. Sus organos internos se revuelven al transformarse parcialmente, haciendo que quede indispuesto 1. Cuando se recupera del estado indispuesto, sus rasgos revierten a la normalidad.
 
-**Fallo** El objetivo se transforma durante 1 minuto pero conserva su mente. Si invierte todas las acciones de su turno en concentrarse en su forma original, puede hacer una salvacion de Voluntad para acabar con el efecto de inmediato.
+**Fallo** El objetivo se transforma durante 1 minuto pero conserva su mente. Si invierte todas las acciones de su turno en concentrarse en su forma original, puede hacer una salvación de Voluntad para acabar con el efecto de inmediato.
 
 **Fallo critico** El objetivo es transformado en el animal elegido, en cuerpo y en mente, con una duracion ilimitada.
 
@@ -787,9 +787,9 @@ Transformas la criatura objetivo en un animal inofensivo apropiado al area, con 
 
 Implantas el miedo en el objetivo, que tiene que hacer una tirada de salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda asustado 1.
+**Éxito** El objetivo queda asustado 1.
 
 **Fallo** El objetivo queda asustado 2.
 
@@ -828,7 +828,7 @@ Das forma a la madera en una forma tosca de tu elección. El proceso de moldeo e
 
 Das forma a la piedra en una forma tosca de tu elección. El proceso de moldeo es demasiado basto como para dar como resultado partes intrincadas, detalles finos, piezas moviles o cosas parecidas. Cualquier criatura que este de pie encima de la piedra cuando la moldeas debera hacer una salvación de Reflejos o una prueba de Acrobacias.
 
-**Exito** La criatura no resulta afectada.
+**Éxito** La criatura no resulta afectada.
 
 **Fallo** La criatura cae tumbada encima de la piedra.
 
@@ -856,14 +856,14 @@ Espíritus de mono mágicos llenan el area amontonándose y subiéndose unos enc
 Elige el tipo de travesura que tus monos llevan a cabo cuando Lanzas el conjuro. Eso contiene como resultado el efecto indicado para dicha travesura cuando Lanzas el conjuro y la primera vez de cada asalto en que Mantienes el conjuro. La primera vez que Mantienes el conjuro cada asalto, puedes mover el area de los monos 5 pies (1,5 m).
 
 - **Estrepito bronco** Los monos gritan a pleno pulmon, ensordeciendo potencialmente a las criaturas en el area del conjuro. Cada criatura en el area de conjuro tiene que hacer una salvación de Fortaleza.
-  - **Exito critico** La criatura no resulta afectada y queda temporalmente inmune durante 10 minutos.
-  - **Exito** La criatura no resulta afectada.
+  - **Éxito critico** La criatura no resulta afectada y queda temporalmente inmune durante 10 minutos.
+  - **Éxito** La criatura no resulta afectada.
   - **Fallo** La criatura queda ensordecida durante 1 asalto.
   - **Fallo critico** La criatura queda ensordecida durante 1 minuto.
 
 - **Gimnasia tumultuosa** Los monos saltan y se encaraman por encima de todas las criaturas en el area del conjuro, interfiriendo con los movimientos complejos. Cada criatura en el area del conjuro tiene que hacer una salvación de Reflejos.
-  - **Exito critico** La criatura no resulta afectada y queda temporalmente inmune durante 10 minutos.
-  - **Exito** La criatura no resulta afectada.
+  - **Éxito critico** La criatura no resulta afectada y queda temporalmente inmune durante 10 minutos.
+  - **Éxito** La criatura no resulta afectada.
   - **Fallo** Durante 1 asalto, la criatura ha de tener éxito en una prueba plana CD 5 siempre que pretende llevar a cabo una acción de manipular. Si falla la prueba, la acción queda perturbada.
 
 - **Robo flagrante** Los monos hacen una prueba para Sustraer un unico objeto de una criatura en el area. Utiliza tu CD de conjuros -10 como modificador por Latrocinio de los monos. Su intento se basa mas en la distracción que la sutileza, por lo que la victima sabe que objeto intentaban llevarse los monos y si lo consiguieron o no. Recuperar un objeto robado de los monos (incluso para el lanzador) requiere Sustraérselo o Desarmarlo, utilizando tu CD de conjuros. Cuando se acaba el conjuro, cualquier objeto sustraído cae al suelo en cualquier casilla del area de conjuro a tu elección.
@@ -978,7 +978,7 @@ Creas una barrera de vientos racheados que dificultan el movimiento de cualquier
 - La punición de los ataques físicos a distancia (como por ejemplo flechas, virotes, balas de honda y otros objetos de tamaño similar) no puede atravesarlo. Los ataques con armas a distancia mayores (como por ejemplo las jabalinas) sufren un penalizador -2 por circunstancia a sus tiradas de ataque si su trayectoria atraviesa el muro. La punición disparada por las armas de asedio y los efectos de conjuro que no crean objetos físicos atraviesan el muro sin penalizador.
 - El muro es terreno difícil para las criaturas que intentan atravesarlo a ras de suelo. Los gases, incluyendo las criaturas en forma de vapor, no pueden atravesarlo.
 - Una criatura que intenta atravesar volando el muro mediante una acción de movimiento, tiene que hacer una salvación de Fortaleza.
-  - **Exito critico** La criatura puede atravesar el muro normalmente este turno.
-  - **Exito** La criatura voladora puede atravesar el muro este turno, pero lo trata como terreno difícil.
+  - **Éxito critico** La criatura puede atravesar el muro normalmente este turno.
+  - **Éxito** La criatura voladora puede atravesar el muro este turno, pero lo trata como terreno difícil.
   - **Fallo** El muro detiene el movimiento de la criatura voladora y cualquier movimiento restante de su acción actual se pierde.
   - **Fallo critico** Igual que en fallo, y la criatura es rechazada 10 pies (3 m) del muro.

@@ -15,7 +15,7 @@ Una dote de arquetipo esta sujeta a cualquier restricción de la dote de clase a
 
 ## Detalles de dedicacion
 
-Cada dote de dedicación de arquetipo representa el esfuerzo dedicado de tu PJ en aprender un nuevo conjunto de aptitudes, haciendo imposible dividir tu foco y perseguir otro arquetipo al mismo tiempo. Una vez adquieres una dote de dedicación, no puedes seleccionar una dote de dedicación diferente hasta que completas tu dedicación adquiriendo otras dos dotes de tu arquetipo actual. No podras reconvertir una dote de dedicación mientras tengas cualquier otra dote de dicho arquetipo.
+Cada dote de dedicación de arquetipo representa el esfuerzo dedicado de tu PJ en aprender un nuevo conjunto de aptitudes, haciendo imposible dividir tu foco y perseguir otro arquetipo al mismo tiempo. Una vez adquieres una dote de dedicación, no puedes seleccionar una dote de dedicación diferente hasta que completas tu dedicación adquiriendo otras dos dotes de tu arquetipo actual. No podrás reconvertir una dote de dedicación mientras tengas cualquier otra dote de dicho arquetipo.
 
 ---
 

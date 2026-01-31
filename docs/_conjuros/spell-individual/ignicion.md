@@ -23,8 +23,8 @@ spell_level: TRUCO
 
 Chasqueas los dedos y senalas a un objetivo, que empieza a arder. Haz una tirada de ataque de conjuro contra la CA del objetivo, infligiendo 2d4 dano por fuego con un impacto. Si el objetivo esta a tu alcance de cuerpo a cuerpo puedes elegir un ataque de conjuro cuerpo a cuerpo en lugar de un ataque de conjuro a distancia, lo que incrementa todos los dados de dano del conjuro a d6.
 
-**Exito critico** El objetivo sufre doble dano y 1d4 dano persistente por fuego.
+**Éxito critico** El objetivo sufre doble dano y 1d4 dano persistente por fuego.
 
-**Exito** El objetivo sufre dano completo.
+**Éxito** El objetivo sufre dano completo.
 
 **Potenciado (+1)** El dano inicial se incrementa en 1d4 y el dano persistente por fuego con un impacto critico se incrementa en 1d4.

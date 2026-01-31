@@ -19,6 +19,6 @@ spell_level: 2
 
 ---
 
-Creas un fuego que arde sin combustible y se mueve siguiendo tus ordenes. La llama inflige 3d6 dano por fuego a toda criatura que esta en la casilla en que aparece, con una salvacion basica de Reflejos. Cuando Mantienes este conjuro, puedes hacer levitar la llama hasta 10 pies (3 m). A continuación inflige dano a cada criatura cuyo espacio ha compartido en cualquier punto de su vuelo. Esto utiliza los mismos salvacion y dano, y solo tiras este cada vez que Mantienes. Una criatura dada solo puede sufrir dano de llama flotante una vez por asalto.
+Creas un fuego que arde sin combustible y se mueve siguiendo tus ordenes. La llama inflige 3d6 dano por fuego a toda criatura que esta en la casilla en que aparece, con una salvación basica de Reflejos. Cuando Mantienes este conjuro, puedes hacer levitar la llama hasta 10 pies (3 m). A continuación inflige dano a cada criatura cuyo espacio ha compartido en cualquier punto de su vuelo. Esto utiliza los mismos salvación y dano, y solo tiras este cada vez que Mantienes. Una criatura dada solo puede sufrir dano de llama flotante una vez por asalto.
 
 **Potenciado (+1)** El dano se incrementa en 1d6.

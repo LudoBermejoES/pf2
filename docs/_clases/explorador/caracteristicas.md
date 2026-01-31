@@ -102,7 +102,7 @@ A 3.er nivel y cada 4 niveles posteriores, obtienes una dote general.
 
 A 3.er nivel y cada 2 niveles posteriores, obtienes un incremento de habilidad. Puedes utilizarlo, o bien para obtener el rango entrenado en una habilidad en la que no lo estas, o bien para obtener el rango experto en una habilidad en la que ya dispones del rango entrenado.
 
-A 7.o nivel, podras utilizar los incrementos de habilidad para alcanzar el rango maestro en una habilidad en la que ya dispongas del rango experto y a 15.o nivel podras utilizarlos para alcanzar el rango legendario en una habilidad en la que ya dispongas del rango maestro.
+A 7.o nivel, podrás utilizar los incrementos de habilidad para alcanzar el rango maestro en una habilidad en la que ya dispongas del rango experto y a 15.o nivel podrás utilizarlos para alcanzar el rango legendario en una habilidad en la que ya dispongas del rango maestro.
 
 ### Experiencia en Voluntad (Nivel 3)
 

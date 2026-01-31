@@ -70,7 +70,7 @@ El poder mordiente de tu energia del dacio crece. Cuando lanzas dañar, tiras d1
 
 **Rasgos:** Clérigo, Divino, Predicción
 
-**Desencadenante:** Estas a punto de hacer una tirada de salvacion contra un peligro.
+**Desencadenante:** Estas a punto de hacer una tirada de salvación contra un peligro.
 
 Tu dios te concede un instante de premonición. Obtienes un bonificados +2 por circunstancia a la tirada de salvación desencadenante.
 
@@ -289,7 +289,7 @@ La bendición de tu dios potencia tu capacidad curativa, integrando la curación
 
 **Rasgos:** Clérigo, Divino
 
-**Desencadenante:** Un aliado tuyo esta a punto de hacer una tirada de salvacion contra una aptitud magica de una criatura a la que estas adyacente.
+**Desencadenante:** Un aliado tuyo esta a punto de hacer una tirada de salvación contra una aptitud magica de una criatura a la que estas adyacente.
 
 **Requisitos:** Empuñas el arma predilecta de tu dios.
 
@@ -366,7 +366,7 @@ Haces esfuerzos extremos para apoyar a tus aliados, incluso si ello significa da
 
 **Rasgos:** Clérigo
 
-**Desencadenante:** Lanzas un conjuro divino que tarda 1 accion o mas en lanzarse y que solo te afecta a ti o a tu equipo.
+**Desencadenante:** Lanzas un conjuro divino que tarda 1 acción o mas en lanzarse y que solo te afecta a ti o a tu equipo.
 
 Te bendices a ti mismo sobre la marcha. Da una Zancada de hasta 10 pies (3 m). Si el conjuro tarda 2 o mas acciones en lanzarse, en su lugar puedes dar una Zancada hasta el máximo de tu Velocidad.
 
@@ -503,8 +503,8 @@ Tu fe proporciona protección temporal ademas de curación. Si la siguiente acci
 
 Tu simbolo religioso brilla con energia sagrada, convirtiendo en debilidad la fuerza del atacante. Haz una prueba de Religion contra la CD de Voluntad de la criatura desencadenante. Sea cual sea el resultado, la criatura quedara temporalmente inmune durante 1 minuto.
 
-- **Exito critico:** La criatura queda debilitada 2 hasta que invierte por lo menos 1 acción apartandose de ti.
-- **Exito:** Igual que éxito critico, pero debilitada 1.
+- **Éxito critico:** La criatura queda debilitada 2 hasta que invierte por lo menos 1 acción apartandose de ti.
+- **Éxito:** Igual que éxito critico, pero debilitada 1.
 
 ---
 
@@ -568,13 +568,13 @@ Puedes extraer a la vez vitalidad y dacio para dañar a tus enemigos y curar a t
 
 **Frecuencia:** una vez por hora
 
-**Desencadenante:** Fallas una tirada de salvacion contra un efecto mental
+**Desencadenante:** Fallas una tirada de salvación contra un efecto mental
 
 Tu dios te envia una vision de fe para reforzarte contra los ataques mentales. Repite la tirada de salvación desencadenante con un bonificados +2 por circunstancia. Tienes que utilizar el segundo resultado, incluso si es peor.
 
 ---
 
-### Proteccion de tu Dios - Dote 14
+### Protección de tu Dios - Dote 14
 
 **Rasgos:** Clérigo
 
@@ -718,7 +718,7 @@ Eres un conducto para un poder autenticamente deifico. Obtienes un espacio de co
 
 ---
 
-### Proteccion del Avatar ↺ - Dote 20
+### Protección del Avatar ↺ - Dote 20
 
 **Rasgos:** Clérigo
 

@@ -99,11 +99,11 @@ Obtienes tambien la dote general Saber adicional para Saber (orcos).
 ### Supersticion de orco ◆
 **Dote 1** - Concentrar, Orco
 
-**Desencadenante:** Haces una tirada de salvacion contra un conjuro o un efecto magico, pero aun no has tirado los dados.
+**Desencadenante:** Haces una tirada de salvación contra un conjuro o un efecto magico, pero aun no has tirado los dados.
 
 Te defiendes contra la magia balándote en técnicas derivadas de las supersticiones culturales de los orcos.
 
-**Beneficio:** Obtienes un bonificador +1 por circunstancia a tu tirada de salvacion contra el conjuro o efecto magico desencadenante.
+**Beneficio:** Obtienes un bonificador +1 por circunstancia a tu tirada de salvación contra el conjuro o efecto magico desencadenante.
 
 ---
 
@@ -143,7 +143,7 @@ Unas cicatrices gloriosas e historiadas cubren y protegen gran parte de tu cuerp
 
 Sobrevivir en terrenos hostiles te ha proporcionado un gran talento para la movilidad.
 
-**Beneficio:** Siempre que obtienes un exito en una prueba de Atletismo para Trepar o Nadar, en su lugar obtienes un exito critico.
+**Beneficio:** Siempre que obtienes un éxito en una prueba de Atletismo para Trepar o Nadar, en su lugar obtienes un éxito critico.
 
 ---
 
@@ -167,7 +167,7 @@ Te resistes a las garras de la muerte con un vigor sobrenatural, desafiando a la
 
 Te infundes de superstición y practicas antiguos ejercicios mentales de los orcos para desprenderte de los efectos de la magia.
 
-**Beneficio:** Obtienes en todo momento un bonificador +1 por circunstancia a las tiradas de salvacion contra los conjuros y los efectos mágicos.
+**Beneficio:** Obtienes en todo momento un bonificador +1 por circunstancia a las tiradas de salvación contra los conjuros y los efectos mágicos.
 
 ---
 
@@ -180,7 +180,7 @@ Te infundes de superstición y practicas antiguos ejercicios mentales de los orc
 
 Desde los tiempos antiguos, los domadores de bestias orcos mas poderosos sacaban el verdadero espíritu de lucha de sus bestias compañeros, alimentando a las criaturas con una mezcla que incorporaba la propia sangre del orco.
 
-**Beneficio:** Todos los companeros animales, mascotas, familiares y animales vinculados de que dispones obtienen la dote Ferocidad de orco y obtienen una reaccion por asalto que pueden utilizar tan solo para Ferocidad de orco. Si tienes la dote de ascendencia Ferocidad inmortal, todos los companeros animales, mascotas, familiares y animales vinculados de que dispones obtienen tambien los beneficios de dicha dote utilizando la reaccion Ferocidad de orco.
+**Beneficio:** Todos los companeros animales, mascotas, familiares y animales vinculados de que dispones obtienen la dote Ferocidad de orco y obtienen una reacción por asalto que pueden utilizar tan solo para Ferocidad de orco. Si tienes la dote de ascendencia Ferocidad inmortal, todos los companeros animales, mascotas, familiares y animales vinculados de que dispones obtienen tambien los beneficios de dicha dote utilizando la reacción Ferocidad de orco.
 
 ---
 
@@ -191,7 +191,7 @@ Desde los tiempos antiguos, los domadores de bestias orcos mas poderosos sacaban
 
 No tan solo resistes la magia, sino que la devoras.
 
-**Beneficio:** Siempre que tienes exito en una tirada de salvacion contra un conjuro o un efecto magico, obtienes tantos Puntos de Golpe temporales como el doble del rango de conjuro, o bien como el nivel, si el efecto magico no es un conjuro. Dichos Puntos de Golpe temporales duran hasta el final de tu siguiente turno.
+**Beneficio:** Siempre que tienes éxito en una tirada de salvación contra un conjuro o un efecto magico, obtienes tantos Puntos de Golpe temporales como el doble del rango de conjuro, o bien como el nivel, si el efecto magico no es un conjuro. Dichos Puntos de Golpe temporales duran hasta el final de tu siguiente turno.
 
 ---
 

@@ -37,13 +37,13 @@ Puedes apelar a los misterios profundos de tu musa, concediendo al objetivo una 
 
 Tu interpretación cautiva a los oyentes, obligándoles a seguirte. Cada criatura dentro de la emanación tiene que hacer una salvación de Voluntad cuando Lanzas el conjuro o la primera vez que entra en el area, tras lo cual queda temporalmente inmune durante 1 dia. Una vez por turno, puedes Mantener la composición o incrementar el radio de la emanación en 5 pies (1,5 m). Puedes Disipar el conjuro.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura esta fascinada por ti.
+**Éxito** La criatura esta fascinada por ti.
 
-**Fallo** La criatura esta fascinada por ti y utiliza todas sus acciones para acercarse a ti y felicitarte por tu interpretacion. Este efecto acaba si se utiliza una accion hostil contra la criatura afectada.
+**Fallo** La criatura esta fascinada por ti y utiliza todas sus acciones para acercarse a ti y felicitarte por tu interpretacion. Este efecto acaba si se utiliza una acción hostil contra la criatura afectada.
 
-**Fallo critico** El objetivo obtiene el rasgo esbirro y queda controlado por ti. Este efecto acaba si se utiliza una accion hostil contra la criatura afectada o si ordenas a la criatura que utilice cualquier accion que le resulte dañina.
+**Fallo critico** El objetivo obtiene el rasgo esbirro y queda controlado por ti. Este efecto acaba si se utiliza una acción hostil contra la criatura afectada o si ordenas a la criatura que utilice cualquier acción que le resulte dañina.
 
 ---
 

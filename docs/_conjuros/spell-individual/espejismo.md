@@ -23,6 +23,6 @@ spell_level: 4
 
 Creas una ilusion que hace que el terreno natural parezca, suene, se sienta y huela como un tipo diferente de terreno. Esto no disfrazara ninguna estructura o criatura que haya en el area.
 
-Cualquier criatura que toque la ilusion o utilice la accion de Buscar para examinarla podra hacer un intento de descreer tu ilusion.
+Cualquier criatura que toque la ilusion o utilice la acción de Buscar para examinarla podra hacer un intento de descreer tu ilusion.
 
 **Potenciado (5.o)** Tu imagen tambien puede disfrazar estructuras o crear estructuras ilusorias (pero sigue sin poder disfrazar criaturas).

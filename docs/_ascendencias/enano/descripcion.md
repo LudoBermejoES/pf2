@@ -24,7 +24,7 @@ Los enanos tienen una bien merecida reputación como gente estoica y severa, per
 | **Idiomas** | Comun, Enano + idiomas adicionales igual a tu modificador por Inteligencia (si es positivo). Elige entre gnomo, goblin, jotun, orco, petrano, savkroth y cualquier otro idioma al que tienes acceso (por ejemplo, los predominantes en tu region). |
 | **Rasgos** | Enano, Humanoide |
 | **Vision en la Penumbra** | Puedes ver en la oscuridad y en luz tenue igual de bien que con luz brillante, aunque tu vision en la oscuridad es en blanco y negro. |
-| **Daga de Clan** | Obtienes una daga de clan (pag. 284) gratis, que te fue regalada cuando naciste. Vender esta daga de clan es un tabu terrible y te podria granjear el desden de otros enanos. |
+| **Daga de Clan** | Obtienes una daga de clan (pag. 284) gratis, que te fue regalada cuando naciste. Vender esta daga de clan es un tabu terrible y te podría granjear el desden de otros enanos. |
 
 ## Podrias...
 

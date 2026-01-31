@@ -31,7 +31,7 @@ Con por lo menos 1 minuto de conversación, durante el cual te dedicas a hacer p
 
 Puedes hacer una petición a una criatura que es amistosa o solícita hacia ti. Deberás formular la petición en unos términos que el objetivo acepte dada su actitud hacia ti en ese momento. El DJ es quien fija la CD basándose en la dificultad de la petición. Algunas peticiones son desagradables o imposibles, y ni siquiera un PNJ solícito estará de acuerdo con ellas.
 
-### Grados de exito
+### Grados de éxito
 
 - **Éxito crítico:** El objetivo está de acuerdo sin reservas con tu petición.
 - **Éxito:** El objetivo está de acuerdo con tu petición, pero puede imponer cláusulas o modificaciones a la misma.
@@ -46,7 +46,7 @@ Puedes hacer una petición a una criatura que es amistosa o solícita hacia ti. 
 
 Rastreas mercados locales, tabernas y lugares de reunión en un intento de averiguar cosas acerca de un individuo o de un tema en particular. El DJ es quien determina la CD de la prueba y la cantidad de tiempo que requiere (típicamente 2 horas, pero a veces más), junto con cualquier beneficio que puedes ser capaz de obtener invirtiendo dinero en sobornos, bebida o regalos.
 
-### Grados de exito
+### Grados de éxito
 
 - **Éxito:** Reúnes información acerca del individuo o del tema. El DJ es quien determina los detalles.
 - **Fallo crítico:** Reúnes información incorrecta acerca del individuo o del tema.

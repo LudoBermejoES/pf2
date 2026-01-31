@@ -32,8 +32,8 @@ Cantas molestas canciones goblin, distrayendo a tus enemigos con rimas tontas y 
 
 Puedes afectar hasta a 2 objetivos dentro del rango de distancia si tienes competencia a rango experto en Interpretar, a 4 si tu rango es maestro y a 8 si tu rango es legendario.
 
-- **Exito critico:** El objetivo sufre un penalizador -1 por estatus a las pruebas de Percepción y a las salvaciones de Voluntad durante 1 minuto.
-- **Exito:** El objetivo sufre un penalizador -1 por estatus a las pruebas de Percepción y a las salvaciones de Voluntad durante 1 asalto.
+- **Éxito critico:** El objetivo sufre un penalizador -1 por estatus a las pruebas de Percepción y a las salvaciones de Voluntad durante 1 minuto.
+- **Éxito:** El objetivo sufre un penalizador -1 por estatus a las pruebas de Percepción y a las salvaciones de Voluntad durante 1 asalto.
 - **Fallo critico:** El objetivo queda temporalmente inmune a la Canción goblin durante 1 hora.
 
 ---
@@ -63,9 +63,9 @@ A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obt
 ---
 
 ### Huida goblin ◆
-**Dote 1** - Goblin · Reaccion
+**Dote 1** - Goblin · Reacción
 
-**Desencadenante:** Un aliado acaba una accion de movimiento adyacente a ti.
+**Desencadenante:** Un aliado acaba una acción de movimiento adyacente a ti.
 
 Sacas partido del movimiento de tu aliado para ajustar tu posición.
 
@@ -89,7 +89,7 @@ Si obtienes un lobo como compañero animal, este obtiene la aptitud especial mon
 
 La gente grande raramente presta atención a las sombras que tiene a sus pies, y tu te aprovechas de ello por completo.
 
-**Beneficio:** Puedes moverte 5 pies (1,5 m) mas lejos cuando utilizas la accion Movimiento furtivo, hasta tu Velocidad.
+**Beneficio:** Puedes moverte 5 pies (1,5 m) mas lejos cuando utilizas la acción Movimiento furtivo, hasta tu Velocidad.
 
 Ademas, mientras continues utilizando acciones de Movimiento furtivo y tengas éxito en tu prueba de Sigilo, no quedaras observado si careces de cobertura o de cobertura mayor y no estas oculto al final de la acción de Sigilo, si dispones de cobertura o cobertura mayor o estas oculto al final de tu turno.
 
@@ -157,13 +157,13 @@ Ademas, siempre que aciertas con un Golpe contra una trampa o un objeto desatend
 ### Aferrarse ◆
 **Dote 9** - Goblin
 
-**Requisitos:** Tu ultima accion ha sido un Golpe con exito y tienes una mano libre.
+**Requisitos:** Tu ultima acción ha sido un Golpe con éxito y tienes una mano libre.
 
 Te acercas a un enemigo para someterlo.
 
-**Beneficio:** Si tu objetivo se mueve mientras estas aferrado a el, puedes elegir moverte con el. El objetivo queda liberado si eliges no hacerlo, al inicio de tu siguiente turno o si el objetivo Huye. Los intentos de Huir de un Aferramiento se hacen contra tu CD de Acrobacias y siguen las reglas de la pag. 416, pero acaban con el Aferramiento en lugar de con los estados que normalmente acaban mediante la accion de Huir.
+**Beneficio:** Si tu objetivo se mueve mientras estas aferrado a el, puedes elegir moverte con el. El objetivo queda liberado si eliges no hacerlo, al inicio de tu siguiente turno o si el objetivo Huye. Los intentos de Huir de un Aferramiento se hacen contra tu CD de Acrobacias y siguen las reglas de la pag. 416, pero acaban con el Aferramiento en lugar de con los estados que normalmente acaban mediante la acción de Huir.
 
-**Especial:** Puedes utilizar esta accion sin una mano libre si tu Golpe anterior lo has hecho con las mandibulas o un ataque sin armas similar que podrias utilizar para aferrarte. El DJ determina que ataques sin armas pueden aplicar para esto. Aferrarte de esta forma te impide utilizar dicho ataque sin armas.
+**Especial:** Puedes utilizar esta acción sin una mano libre si tu Golpe anterior lo has hecho con las mandibulas o un ataque sin armas similar que podrias utilizar para aferrarte. El DJ determina que ataques sin armas pueden aplicar para esto. Aferrarte de esta forma te impide utilizar dicho ataque sin armas.
 
 ---
 
@@ -194,7 +194,7 @@ Después de anos de arrastrarte por cavernas, puedes trepar facilmente a cualqui
 
 **Prerrequisitos:** Muy escurridizo
 
-**Beneficio:** Puedes moverte hasta tu Velocidad cuando utilizas la accion Movimiento furtivo y ya no necesitas cobertura o cobertura mayor o estar oculto para Esconderte o usar Movimiento furtivo.
+**Beneficio:** Puedes moverte hasta tu Velocidad cuando utilizas la acción Movimiento furtivo y ya no necesitas cobertura o cobertura mayor o estar oculto para Esconderte o usar Movimiento furtivo.
 
 ---
 
@@ -207,6 +207,6 @@ Después de anos de arrastrarte por cavernas, puedes trepar facilmente a cualqui
 
 A pesar de una vida llena de decisiones cuestionables, has conseguido sobrevivir, como si tuvieras una suerte increíble que te permite evitar las consecuencias de tus acciones.
 
-**Beneficio:** Durante el resto de tu turno, si obtienes un fallo o un fallo critico en una tirada de salvacion contra un efecto dañino, en su lugar obtienes un exito. Ademas, si sufririas dano de un enemigo o peligro este turno, sufres el dano minimo posible.
+**Beneficio:** Durante el resto de tu turno, si obtienes un fallo o un fallo critico en una tirada de salvación contra un efecto dañino, en su lugar obtienes un éxito. Ademas, si sufririas dano de un enemigo o peligro este turno, sufres el dano minimo posible.
 
 Estos beneficios solo se aplican a los efectos dañinos sufridos por completo durante tu turno en el que activas Abandono temerario, como por ejemplo atravesar corriendo un muro de fuego. El dano persistente y los estados que se aplicaron antes a tu turno funcionan con normalidad, y en cuanto el turno acabe te veras sujeto a las consecuencias completas de cualquier peligro que aun te amenace.

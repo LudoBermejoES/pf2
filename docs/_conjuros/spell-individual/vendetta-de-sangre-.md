@@ -18,11 +18,11 @@ spell_level: 2
 
 ---
 
-Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sangre. El objetivo sufre 2d6 dano persistente por sangrado y tiene que hacer una salvacion de Voluntad.
+Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sangre. El objetivo sufre 2d6 dano persistente por sangrado y tiene que hacer una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El sujeto sufre mitad dano persistente por sangrado.
+**Éxito** El sujeto sufre mitad dano persistente por sangrado.
 
 **Fallo** El sujeto sufre dano completo persistente por sangrado. Hasta que se detiene el sangrado, el objetivo tiene debilidad 1 al dano perforante y cortante.
 

@@ -24,4 +24,4 @@ Tu ingenio te permite entrenar una amplia variedad de habilidades.
 
 La versatilidad y la ambición de la humanidad han impulsado su ascenso hasta ser la ascendencia mas comun en la mayoría de las naciones del mundo.
 
-**Beneficio:** Selecciona una dote general a tu eleccion para la que cumples los prerrequisitos (igual que tu dote de ascendencia, puedes seleccionar esta dote general en cualquier momento durante la creacion de personaje).
+**Beneficio:** Selecciona una dote general a tu eleccion para la que cumples los prerrequisitos (igual que tu dote de ascendencia, puedes seleccionar esta dote general en cualquier momento durante la creación de personaje).

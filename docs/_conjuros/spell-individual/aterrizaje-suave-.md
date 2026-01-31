@@ -19,4 +19,4 @@ spell_level: 1
 
 ---
 
-Alzas una corriente de aire magica para detener una caida. La caida del objetivo se lentifica hasta 60 pies (18 m) por asalto, y la distancia que cae mientras el hechizo esta activo no cuenta para calcular el daño por caida. Si el objetivo llega a tierra con el conjuro aun en funcionamiento, no sufre daño alguno por caida. El conjuro se acaba en cuanto el objetivo aterriza.
+Alzas una corriente de aire magica para detener una caída. La caída del objetivo se lentifica hasta 60 pies (18 m) por asalto, y la distancia que cae mientras el hechizo esta activo no cuenta para calcular el daño por caída. Si el objetivo llega a tierra con el conjuro aun en funcionamiento, no sufre daño alguno por caída. El conjuro se acaba en cuanto el objetivo aterriza.

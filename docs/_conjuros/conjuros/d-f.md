@@ -15,9 +15,9 @@ nav_order: 6
 
 El objetivo se ve abrumado por un ansia absorbente de bailar. Mientras dura el conjuro, el objetivo queda desprevenido y no puede utilizar reacciones. Tampoco puede utilizar acciones de movimiento excepto para bailar, utilizando la acción Zancada para moverse hasta la mitad de su velocidad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** La duracion del conjuro es de 3 asaltos y el objetivo debe invertir por lo menos 1 accion cada turno bailando.
+**Éxito** La duracion del conjuro es de 3 asaltos y el objetivo debe invertir por lo menos 1 acción cada turno bailando.
 
 **Fallo** La duracion del conjuro es de 1 minuto y el objetivo debe invertir por lo menos 2 acciones cada turno bailando.
 
@@ -48,9 +48,9 @@ Canalizas energias del dacio para danar a los vivos o curar a los muertos vivien
 
 Debilitas al objetivo, dependiendo de su salvación de Fortaleza.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda debilitado 1 hasta el final de tu siguiente turno.
+**Éxito** El objetivo queda debilitado 1 hasta el final de tu siguiente turno.
 
 **Fallo** El objetivo queda debilitado 2 durante 1 minuto.
 
@@ -66,15 +66,15 @@ Debilitas al objetivo, dependiendo de su salvación de Fortaleza.
 
 Entonas una potente letanía de tu fe, un mandato que dana a quienes se oponen a tus ideales. Infliges 7d10 dano espiritual a tus enemigos en el area; cada enemigo tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y queda debilitada 2 durante 1 minuto.
 
-**Fallo critico** La criatura sufre doble dano y queda debilitada 2 durante 1 minuto. Si estas en tu Plano natal y la criatura no, es enviada de vuelta a su Plano natal. Una criatura de 10.o nivel o inferior tiene tambien que tener exito en una salvacion de Voluntad o quedar paralizada durante 1 minuto; si falla criticamente, muere (este es un efecto de muerte).
+**Fallo critico** La criatura sufre doble dano y queda debilitada 2 durante 1 minuto. Si estas en tu Plano natal y la criatura no, es enviada de vuelta a su Plano natal. Una criatura de 10.o nivel o inferior tiene tambien que tener éxito en una salvación de Voluntad o quedar paralizada durante 1 minuto; si falla criticamente, muere (este es un efecto de muerte).
 
-**Potenciado (+1)** El dano se incrementa en 1d10 y el nivel de las criaturas que tienen que hacer una segunda salvacion con un fallo critico se incrementa en 2.
+**Potenciado (+1)** El dano se incrementa en 1d10 y el nivel de las criaturas que tienen que hacer una segunda salvación con un fallo critico se incrementa en 2.
 
 ---
 
@@ -107,7 +107,7 @@ Escudas a una criatura de los sentidos de otros. El objetivo se vuelve no detect
 
 Disparas una esquirla de magia solidificada contra una criatura a la que puedes ver. Impacta automaticamente e inflige 1d4+1 dano por fuerza. Por cada acción adicional que utilizas cuando Lanzas el conjuro, incrementa en 1 el numero de esquirlas que lanzas, hasta un máximo de 3 esquirlas para 3 acciones. Eliges el objetivo de cada esquirla de forma individual. Si disparas mas de una esquirla contra el mismo objetivo, combina el dano antes de aplicar bonificadores o penalizadores al dano, resistencias, debilidades, etc.
 
-**Potenciado (+2)** Disparas una esquirla adicional con cada accion que inviertes.
+**Potenciado (+2)** Disparas una esquirla adicional con cada acción que inviertes.
 
 ---
 
@@ -160,9 +160,9 @@ Expulsas la contaminación mental del cerebro del objetivo. Contrarrestas un efe
 
 Envias al objetivo de vuelta a su Plano natal. El objetivo tiene que llevar a cabo una salvación de Voluntad. Puedes invertir una acción adicional mientras Lanzas este conjuro y añadir un coste al mismo para imponer a la criatura un penalizador -2 por circunstancia a su salvación. El coste tiene que ser un objeto especialmente elegido, que resulta anatema para la criatura. El conjuro falla si no estas en tu Plano natal cuando lo lanzas.
 
-**Exito critico** El objetivo se resiste a ser desterrado y tu quedas aturdido 1.
+**Éxito critico** El objetivo se resiste a ser desterrado y tu quedas aturdido 1.
 
-**Exito** El objetivo se resiste a ser desterrado.
+**Éxito** El objetivo se resiste a ser desterrado.
 
 **Fallo** El objetivo es desterrado.
 
@@ -241,9 +241,9 @@ Haces que la magia del objetivo se disipe en una explosion destructiva. Contrarr
 
 Transportas al objetivo a una habitación rompecabezas extraplanaria de origen misterioso, encerrándola allí. Una vez por turno como una sola acción, el objetivo puede hacer una prueba de Ocultismo, Percepción o Latrocinio contra tu CD de conjuros para resolver el rompecabezas. Los efectos de teletransporte no pueden transportar al objetivo al exterior de la habitación rompecabezas a menos que tambien puedan atravesar los Planos, como por ejemplo teletransporte interplanar. Cuando acaba el conjuro, el objetivo vuelve al espacio que ocupaba cuando fue desterrado, o al mas cercano si el original esta ahora ocupado.
 
-**Exito critico** El objetivo resuelve el rompecabezas y huye.
+**Éxito critico** El objetivo resuelve el rompecabezas y huye.
 
-**Exito** El objetivo esta en el camino correcto hacia la solucion. Si ya lo estaba, resuelve el rompecabezas y huye.
+**Éxito** El objetivo esta en el camino correcto hacia la solucion. Si ya lo estaba, resuelve el rompecabezas y huye.
 
 **Fallo** El objetivo no hace progreso alguno hacia una solucion.
 
@@ -313,9 +313,9 @@ Llamas al Dacio para que dane a la fuerza vital. El objetivo sufre 2d4 dano por 
 
 Revuelves las facultades mentales y las entradas sensoriales de una criatura. El objetivo tiene que llevar a cabo una salvación de Voluntad. Sea cual sea el resultado de dicha salvación, a continuación el objetivo queda temporalmente inmune durante 10 minutos. Los efectos de distorsionar la mente tienen lugar de forma instantanea, por lo que disipar magia y otros efectos que contrarrestan los conjuros no pueden contrarrestarlos. Sin embargo, los rituales de deseo y las aptitudes que pueden eliminar efectos que no son mágicos siguen pudiendo contrarrestar los efectos.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo pasa la primera accion de su siguiente turno en el estado confundido.
+**Éxito** El objetivo pasa la primera acción de su siguiente turno en el estado confundido.
 
 **Fallo** El objetivo queda confundido durante 1 minuto.
 
@@ -342,9 +342,9 @@ Si Lanzas un conjuro, atacas o interaccionas de alguna otra forma con otra criat
 
 Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano persistente mental y tiene que hacer una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo sufre el dano inicial completo pero no dano persistente, y el conjuro se acaba de inmediato.
+**Éxito** El objetivo sufre el dano inicial completo pero no dano persistente, y el conjuro se acaba de inmediato.
 
 **Fallo** El objetivo sufre el dano inicial y el dano persistente completos, y queda indispuesto 1. Si se recupera del estado indispuesto, el dano persistente se acaba y el conjuro tambien.
 
@@ -362,13 +362,13 @@ Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano pers
 
 Tomas el mando del objetivo, obligándole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda aturdido 1 mientras lucha contra tus ordenes.
+**Éxito** El objetivo queda aturdido 1 mientras lucha contra tus ordenes.
 
-**Fallo** Controlas al objetivo. Sufre el estado controlado, pero puede hacer una salvacion de Voluntad al final de cada uno de sus turnos. Con un exito, el conjuro se acaba.
+**Fallo** Controlas al objetivo. Sufre el estado controlado, pero puede hacer una salvación de Voluntad al final de cada uno de sus turnos. Con un éxito, el conjuro se acaba.
 
-**Fallo critico** Igual que fallo, pero el objetivo tan solo tiene derecho a una nueva salvacion si le das una nueva orden que va contra su naturaleza, como por ejemplo matar a sus aliados.
+**Fallo critico** Igual que fallo, pero el objetivo tan solo tiene derecho a una nueva salvación si le das una nueva orden que va contra su naturaleza, como por ejemplo matar a sus aliados.
 
 **Potenciado (10.o)** La duracion es ilimitada.
 
@@ -382,9 +382,9 @@ Tomas el mando del objetivo, obligándole a que te obedezca. Si le das una orden
 
 Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepción con éxito, lo que limita su utilidad en combate.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre un penalizador -1 por estatus a sus pruebas de Percepción durante 1 asalto.
+**Éxito** La criatura sufre un penalizador -1 por estatus a sus pruebas de Percepción durante 1 asalto.
 
 **Fallo** La criatura queda inconsciente. Si sigue inconsciente al cabo de 1 minuto, se despierta automaticamente.
 
@@ -408,9 +408,9 @@ El duplicado ataca a tus enemigos lo mejor que puede. Tambien puedes darle instr
 
 El duplicado es inestable, por lo que cada turno después de que lleva a cabo sus acciones, pierde 4d6 Puntos de Golpe. No es una criatura viva, y no puede recuperar sus Puntos de Golpe perdidos en modo alguno.
 
-**Exito critico** No consigues crear un duplicado.
+**Éxito critico** No consigues crear un duplicado.
 
-**Exito** El duplicado inflige mitad de dano con sus Golpes y la duracion se reduce a un máximo de 2 asaltos.
+**Éxito** El duplicado inflige mitad de dano con sus Golpes y la duracion se reduce a un máximo de 2 asaltos.
 
 **Fallo** El duplicado funciona tal y como se ha descrito.
 
@@ -451,9 +451,9 @@ Señales a una criatura e invocas el final de todas las cosas. El objetivo sufre
 
 Invocas una poderosa explosion de agua presurizada, que vapulea al objetivo y lo echa atras. Haz una tirada de ataque de conjuro a distancia.
 
-**Exito critico** El objetivo sufre 6d6 dano contundente y es empujado hacia atras 10 pies (3 m).
+**Éxito critico** El objetivo sufre 6d6 dano contundente y es empujado hacia atras 10 pies (3 m).
 
-**Exito** El objetivo sufre 3d6 dano contundente y es empujado hacia atras 5 pies (1,5 m).
+**Éxito** El objetivo sufre 3d6 dano contundente y es empujado hacia atras 5 pies (1,5 m).
 
 **Potenciado (+1)** El dano contundente se incrementa en 2d6.
 
@@ -498,13 +498,13 @@ Una vez por asalto, puedes Mantener el conjuro para hacer que una en particular 
 **Rango de distancia:** 120 pies (36 m); **Area:** un cilindro de 5 pies (1,5 m) de radio y 80 pies (24 m) de altura
 **Defensa:** Reflejos
 
-La tierra se abre, lanzando a gran altura una columna de lava en forma de cilindro vertical, que inflige 14d6 a las criaturas en el area. La lava se enfria rapidamente y envuelve a las criaturas del interior. Una criatura envuelta en lava solidificada queda torpe 1 y sufre un penalizador -10 pies (3 m) por estatus a sus Velocidades. Todo el terreno normal se convierte en terreno difícil para una criatura voladora y dichas criaturas descienden inmediatamente 20 pies (6 m) en el momento en que quedan recubiertas, pero no sufren dano debido a esta caida. Una criatura recubierta de lava solidificada puede tratar de Huir contra tu CD de conjuros para acabar con el efecto. De lo contrario, permanece envuelta hasta que sufre un total de 50 dano, lo que la libera de la lava solidificada.
+La tierra se abre, lanzando a gran altura una columna de lava en forma de cilindro vertical, que inflige 14d6 a las criaturas en el area. La lava se enfria rapidamente y envuelve a las criaturas del interior. Una criatura envuelta en lava solidificada queda torpe 1 y sufre un penalizador -10 pies (3 m) por estatus a sus Velocidades. Todo el terreno normal se convierte en terreno difícil para una criatura voladora y dichas criaturas descienden inmediatamente 20 pies (6 m) en el momento en que quedan recubiertas, pero no sufren dano debido a esta caída. Una criatura recubierta de lava solidificada puede tratar de Huir contra tu CD de conjuros para acabar con el efecto. De lo contrario, permanece envuelta hasta que sufre un total de 50 dano, lo que la libera de la lava solidificada.
 
 Ademas, las criaturas en el area y las que esten a 5 pies (1,5 m) o menos de la columna de lava sufrirán automaticamente 3d6 dano por fuego debido al intenso calor, sean cuales sean los resultados de sus tiradas de salvación.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y queda envuelta en lava solidificada.
 
@@ -573,9 +573,9 @@ Cualquier criatura que toque cualquier parte de la imagen o utilice la acción d
 
 Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros infligen 2d4 dano contundente a cada criatura en el area. Cada criatura tiene que hacer una salvación de Reflejos.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y es apartada 5 pies (1,5 m) de ti de un empujón.
 
@@ -622,13 +622,13 @@ Espias magicamente a una criatura de tu elección. Escudriñamiento funciona com
 
 El efecto de escudriñamiento depende de la salvación de Voluntad del objetivo.
 
-**Exito critico** El conjuro falla y el objetivo queda temporalmente inmune durante 1 semana. El objetivo tambien obtiene un atisbo de ti y averigua la distancia aproximada y la dirección entre ambos.
+**Éxito critico** El conjuro falla y el objetivo queda temporalmente inmune durante 1 semana. El objetivo tambien obtiene un atisbo de ti y averigua la distancia aproximada y la dirección entre ambos.
 
-**Exito** El conjuro falla y el objetivo queda temporalmente inmune durante 1 dia.
+**Éxito** El conjuro falla y el objetivo queda temporalmente inmune durante 1 dia.
 
-**Fallo** El conjuro tiene exito.
+**Fallo** El conjuro tiene éxito.
 
-**Fallo critico** El conjuro tiene exito y el ojo sigue al objetivo si se mueve, moviendose hasta 60 pies (18 m) por asalto.
+**Fallo critico** El conjuro tiene éxito y el ojo sigue al objetivo si se mueve, moviendose hasta 60 pies (18 m) por asalto.
 
 ---
 
@@ -655,9 +655,9 @@ Cualquier criatura que toque la ilusión o utilice la acción de Buscar para exa
 
 Creas una pauta de luces que late con intensidad. Las criaturas quedan deslumbradas en el interior de la misma. Ademas, una criatura tiene que hacer una salvación de Voluntad si esta en el interior de la pauta cuando la lanzas, cuando entra en ella, cuando acaba su turno en su interior o cuando utiliza una acción de Buscar o de Interactuar con la misma. Una criatura cegada por la pauta no tiene que hacer nuevas tiradas de salvación.
 
-**Exito** La criatura no resulta afectada.
+**Éxito** La criatura no resulta afectada.
 
-**Fallo** La criatura queda cegada por la pauta. Si sale de la misma, puede hacer una nueva salvacion para recuperarse del estado cegado al final de cada uno de sus turnos, hasta una duracion maxima de 1 minuto.
+**Fallo** La criatura queda cegada por la pauta. Si sale de la misma, puede hacer una nueva salvación para recuperarse del estado cegado al final de cada uno de sus turnos, hasta una duracion maxima de 1 minuto.
 
 **Fallo critico** La criatura queda cegada durante 1 minuto.
 
@@ -717,9 +717,9 @@ Un globo de oscuridad congeladora explota en el area, infligiendo 8d10 dano por 
 
 Si el globo se solapa con un area de luz magica o afecta a una criatura afectada por luz magica, explosion de eclipse contrarresta el efecto de luz.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo.
 
@@ -737,9 +737,9 @@ Si el globo se solapa con un area de luz magica o afecta a una criatura afectada
 
 Invocas un ruido cacofonico, que inflige 2d10 dano sonico. Cada criatura tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y queda ensordecida durante 1 asalto.
 
@@ -781,9 +781,9 @@ Concentras energia eterea y atacas al espíritu de la criatura, infligiendo 16d6
 
 Un poderoso globo de abrasadora luz solar explota en el area, infligiendo 8d10 dano por fuego a todas las criaturas en la misma, mas 8d10 dano adicional por vitalidad a las criaturas muertas vivientes. Cada criatura en el area tiene que hacer una salvación de Reflejos.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo.
 
@@ -849,9 +849,9 @@ Creas un sonido o una vision ilusoria sencilla. Un sonido anade el rasgo auditiv
 
 Llenas la mente del objetivo con imagenes inacabables, como buenos incontables y vidas que chocan unas contra otras. La avalancha de información inflige 16d6 dano mental a cada objetivo, dependiendo de su salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo sufre mitad de dano y no puede utilizar reacciones hasta el inicio de tu siguiente turno.
+**Éxito** El objetivo sufre mitad de dano y no puede utilizar reacciones hasta el inicio de tu siguiente turno.
 
 **Fallo** El objetivo sufre dano completo y queda confundido hasta el inicio de tu siguiente turno.
 
@@ -1075,11 +1075,11 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 
 Obtienes aptitudes especificas basadas en el monstruo elegido:
 
-**Fenix** Velocidad 30 pies (9 m), volar 90 pies (27 m); Cuerpo a cuerpo ◆ pico (alcance 15 pies [4,5 m]), Dano 2d6+12 perforante mas 2d4 fuego y 2d4 fuego persistente; Cuerpo a cuerpo ◆ garra (agil, alcance 15 pies [4,5 m]), Dano 2d8+12 cortante; **Sudario de llamas** (aura, fuego, primigenio) 20 pies (6 m). Obtienes una aura de fuego que se extiende desde ti. Toda criatura que entra o acaba su turno en el interior del aura sufre 2d6 dano por fuego. Una criatura solo puede sufrir este dano una vez por turno. Puedes activar o desactivar esta aura mediante una accion de Mantener.
+**Fenix** Velocidad 30 pies (9 m), volar 90 pies (27 m); Cuerpo a cuerpo ◆ pico (alcance 15 pies [4,5 m]), Dano 2d6+12 perforante mas 2d4 fuego y 2d4 fuego persistente; Cuerpo a cuerpo ◆ garra (agil, alcance 15 pies [4,5 m]), Dano 2d8+12 cortante; **Sudario de llamas** (aura, fuego, primigenio) 20 pies (6 m). Obtienes una aura de fuego que se extiende desde ti. Toda criatura que entra o acaba su turno en el interior del aura sufre 2d6 dano por fuego. Una criatura solo puede sufrir este dano una vez por turno. Puedes activar o desactivar esta aura mediante una acción de Mantener.
 
 **Gusano de las cavernas** Velocidad 40 pies (12 m), excavar 30 pies (9 m), nadar 20 pies (6 m); Cuerpo a cuerpo ◆ mandibulas (alcance 10 pies [3 m]), Dano 2d12+20 perforante; Cuerpo a cuerpo ◆ aguijon (agil, alcance 10 pies [3 m]), Dano 2d8+15 perforante +2d6 persistente veneno; Cuerpo a cuerpo ◆ cuerpo (alcance 10 pies [3 m]), Dano 2d8+20 contundente; **Inexorable** Te recuperas automaticamente de los estados paralizado, lentificado y aturdido al final de cada uno de tus turnos. Tambien eres inmune a quedar inmovilizado e ignoras el terreno difícil y el terreno difícil mayor.
 
-**Serpiente marina** Velocidad 20 pies (6 m), nadar 90 pies (27 m); Cuerpo a cuerpo ◆ mandibulas (alcance 15 pies [4,5 m]), Dano 2d12+20 perforante; Cuerpo a cuerpo ◆ cola (alcance 25 pies [7,5 m]), Dano 2d8+20 contundente; **Barrido con la espina** ◆◆ (movimiento) Extiendes tus espinas y Nadas o das una Zancada. Cada criatura a la que estas adyacente en cualquier punto durante tu movimiento sufre 4d8+10 dano cortante (salvacion basica de Reflejos contra tu CD de conjuros).
+**Serpiente marina** Velocidad 20 pies (6 m), nadar 90 pies (27 m); Cuerpo a cuerpo ◆ mandibulas (alcance 15 pies [4,5 m]), Dano 2d12+20 perforante; Cuerpo a cuerpo ◆ cola (alcance 25 pies [7,5 m]), Dano 2d8+20 contundente; **Barrido con la espina** ◆◆ (movimiento) Extiendes tus espinas y Nadas o das una Zancada. Cada criatura a la que estas adyacente en cualquier punto durante tu movimiento sufre 4d8+10 dano cortante (salvación basica de Reflejos contra tu CD de conjuros).
 
 **Potenciado (9.o)** En lugar de lo indicado obtienes CA = 22 + tu nivel, 25 PG temporales, modificador al ataque +31, incrementas el dano en un dado de dano y Atletismo +33.
 
@@ -1122,7 +1122,7 @@ Obtienes aptitudes especificas basadas en la planta elegida:
 
 **Arboral** Velocidad 30 pies (9 m); Cuerpo a cuerpo ◆ rama (alcance 15 pies [4,5 m]), Dano 2d10 contundente; Cuerpo a cuerpo ◆ pie, Dano 2d8 contundente; en esta forma puedes hablar.
 
-**Atrapamoscas** Velocidad 15 pies (4,5 m); resistencia 10 al acido; Cuerpo a cuerpo ◆ hoja (alcance 10 pies [3 m]), Dano 2d8 perforante, y puedes invertir una accion después de un impacto para Agarrar al objetivo.
+**Atrapamoscas** Velocidad 15 pies (4,5 m); resistencia 10 al acido; Cuerpo a cuerpo ◆ hoja (alcance 10 pies [3 m]), Dano 2d8 perforante, y puedes invertir una acción después de un impacto para Agarrar al objetivo.
 
 **Potenciado (6.o)** Tu forma de batalla es Enorme y el alcance de tus ataques se incrementa en 5 pies (1,5 m). En lugar de lo indicado obtienes CA = 22 + tu nivel, 24 PG temporales, modificador al ataque +21, bonificador al dano +16 y Atletismo +22.
 
@@ -1154,7 +1154,7 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 
 Obtienes aptitudes especificas basadas en el elemento elegido:
 
-**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo ◆ ola, Dano 1d12 contundente y después de un impacto puedes invertir de inmediato una accion para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujón con exito.
+**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo ◆ ola, Dano 1d12 contundente y después de un impacto puedes invertir de inmediato una acción para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujón con éxito.
 
 **Aire** volar 80 pies (24 m), tu movimiento no desencadena reacciones; Cuerpo a cuerpo ◆ rafaga, Dano 1d4 contundente.
 

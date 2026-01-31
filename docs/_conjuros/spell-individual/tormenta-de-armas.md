@@ -19,9 +19,9 @@ spell_level: 4
 
 Haces oscilar un arma que estas empuñando, que se multiplica magicamente en duplicados que atacan a todas las criaturas, o bien en un cono, o bien en una emanacion. Esta rafaga inflige 4 dados de dano a las criaturas en el area. El dano tiene el mismo tipo que el arma y utiliza el mismo tamaño de dado. Determina el tamaño de dado como si estuvieras atacando con el arma; por ejemplo, si estas empuñando un arma a dos manos con ambas manos, utilizarias su dado de dano a dos manos.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** El objetivo sufre mitad de dano.
+**Éxito** El objetivo sufre mitad de dano.
 
 **Fallo** El objetivo sufre dano completo.
 

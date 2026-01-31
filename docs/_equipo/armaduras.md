@@ -25,7 +25,7 @@ Utiliza tu bonificador por competencia para la categoría (ligera, intermedia o 
 
 Ponerse y quitarse una armadura cuesta un poco de tiempo, así que asegúrate de tenerla puesta cuando la necesitas. Tanto poner como quitar una armadura son actividades que implican muchas acciones de Interactuar.
 
-| Accion | Armadura ligera | Armadura intermedia o pesada |
+| Acción | Armadura ligera | Armadura intermedia o pesada |
 |--------|-----------------|------------------------------|
 | Ponerse | 1 minuto | 5 minutos |
 | Quitarse | 1 minuto | 1 minuto |
@@ -34,7 +34,7 @@ Ponerse y quitarse una armadura cuesta un poco de tiempo, así que asegúrate de
 
 ## Estadisticas de las Armaduras
 
-La tabla Defensa sin armadura proporciona las estadisticas de los diversos tipos de proteccion sin llevar armadura. La tabla Armaduras proporciona las estadisticas para las armaduras que se pueden comprar y llevar, organizadas por categoria.
+La tabla Defensa sin armadura proporciona las estadisticas de los diversos tipos de protección sin llevar armadura. La tabla Armaduras proporciona las estadisticas para las armaduras que se pueden comprar y llevar, organizadas por categoria.
 
 ### Categoria
 
@@ -157,19 +157,19 @@ Una armadura completa consiste en placas metalicas entrelazadas, que cubren casi
 
 ### Armadura de Cuero
 
-Una mezcla de cuero hervido flexible y moldeado, una armadura de este tipo proporciona algo de proteccion con una flexibilidad maxima.
+Una mezcla de cuero hervido flexible y moldeado, una armadura de este tipo proporciona algo de protección con una flexibilidad maxima.
 
 ### Armadura de Cuero Tachonado
 
-Esta armadura de cuero esta reforzada con remaches de metal y a veces pequenas placas metalicas, proporcionando gran parte de la flexibilidad de una armadura de cuero, pero con una proteccion mas robusta.
+Esta armadura de cuero esta reforzada con remaches de metal y a veces pequenas placas metalicas, proporcionando gran parte de la flexibilidad de una armadura de cuero, pero con una protección mas robusta.
 
 ### Armadura de Pieles
 
-Una mezcla de pelaje de animal, piel gruesa y a veces cuero hervido moldeado, esta armadura proporciona proteccion debido a sus capas de cuero, aunque su volumen lentifica al portador y reduce su movilidad.
+Una mezcla de pelaje de animal, piel gruesa y a veces cuero hervido moldeado, esta armadura proporciona protección debido a sus capas de cuero, aunque su volumen lentifica al portador y reduce su movilidad.
 
 ### Armadura de Placas y Mallas
 
-La armadura de placas y mallas consiste en la mayoría de las placas metalicas utilizadas en una armadura completa, con una proteccion mas ligera o menor para brazos y piernas. Esto proporciona parte de la proteccion de la armadura completa, permitiendo mayor flexibilidad y velocidad. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
+La armadura de placas y mallas consiste en la mayoría de las placas metalicas utilizadas en una armadura completa, con una protección mas ligera o menor para brazos y piernas. Esto proporciona parte de la protección de la armadura completa, permitiendo mayor flexibilidad y velocidad. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
 
 ### Armadura Laminada
 
@@ -181,7 +181,7 @@ A veces denominado joruca, se trata de una camisa larga construida con los mismo
 
 ### Coraza
 
-A pesar de su nombre, este tipo de armadura consiste en diversas piezas de armadura completa o armadura de placas y mallas que protegen el torso, el pecho, el cuello y a veces las caderas y las piernas. Estrategicamente concede parte de la proteccion de la armadura completa permitiendo mayor flexibilidad y velocidad.
+A pesar de su nombre, este tipo de armadura consiste en diversas piezas de armadura completa o armadura de placas y mallas que protegen el torso, el pecho, el cuello y a veces las caderas y las piernas. Estrategicamente concede parte de la protección de la armadura completa permitiendo mayor flexibilidad y velocidad.
 
 ### Cota de Escamas
 

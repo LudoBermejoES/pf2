@@ -21,11 +21,11 @@ spell_level: 1
 
 ---
 
-Implantas el miedo en el objetivo, que tiene que hacer una tirada de salvacion de Voluntad.
+Implantas el miedo en el objetivo, que tiene que hacer una tirada de salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda asustado 1.
+**Éxito** El objetivo queda asustado 1.
 
 **Fallo** El objetivo queda asustado 2.
 

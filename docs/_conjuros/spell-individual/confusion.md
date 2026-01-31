@@ -22,12 +22,12 @@ spell_level: 4
 
 Ofuscas a tu objetivo con extraños impulsos, haciendo que actue de forma aleatoria. Los efectos dependen de la salvación de Voluntad del objetivo. Puedes Disipar el conjuro.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo balbucea incoherentemente y queda aturdido 1.
+**Éxito** El objetivo balbucea incoherentemente y queda aturdido 1.
 
-**Fallo** El objetivo queda confundido durante 1 minuto. Puede intentar una nueva salvacion al final de cada uno de sus turnos para acabar con la confusion.
+**Fallo** El objetivo queda confundido durante 1 minuto. Puede intentar una nueva salvación al final de cada uno de sus turnos para acabar con la confusion.
 
-**Fallo critico** El objetivo queda confundido durante 1 minuto, sin derecho a salvacion para acabar antes.
+**Fallo critico** El objetivo queda confundido durante 1 minuto, sin derecho a salvación para acabar antes.
 
 **Potenciado (8.º)** Puedes designar como objetivo hasta 10 criaturas.

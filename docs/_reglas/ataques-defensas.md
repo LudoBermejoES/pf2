@@ -9,7 +9,7 @@ nav_order: 7
 
 ## Tiradas de Ataque
 
-Cuando usas una accion de Golpe o llevas a cabo un ataque de conjuros, haces una prueba llamada tirada de ataque. Las tiradas de ataque adoptan una gran variedad de formas y a menudo son altamente variables basándose en el arma que utilizas, pero hay tres tipos principales: tiradas de ataque cuerpo a cuerpo, tiradas de ataque a distancia y tiradas de ataque de conjuros. Las tiradas de ataque de conjuros funcionan de forma un poco diferente, por lo que se explican por separado mas adelante.
+Cuando usas una acción de Golpe o llevas a cabo un ataque de conjuros, haces una prueba llamada tirada de ataque. Las tiradas de ataque adoptan una gran variedad de formas y a menudo son altamente variables basándose en el arma que utilizas, pero hay tres tipos principales: tiradas de ataque cuerpo a cuerpo, tiradas de ataque a distancia y tiradas de ataque de conjuros. Las tiradas de ataque de conjuros funcionan de forma un poco diferente, por lo que se explican por separado mas adelante.
 
 ### Tirada de Ataque Cuerpo a Cuerpo
 
@@ -43,7 +43,7 @@ Cuando haces tiradas de ataque, es probable que se apliquen dos tipos principale
 
 ### Penalizador por Ataque Multiple
 
-Cuantos mas ataques llevas a cabo mas alla del primero en un solo turno, menos preciso te vuelves, lo que se representa mediante el penalizador por ataque multiple. La segunda vez que utilizas una accion de ataque durante tu turno, sufres un penalizador -5 a la prueba. La tercera vez que atacas, y en todos los ataques subsiguientes, sufres un penalizador -10 a la prueba. Cada prueba que tiene el rasgo ataque cuenta para tu penalizador por ataque multiple, incluyendo Golpes, tiradas de ataque de conjuros, ciertas acciones de habilidad como Empujar y muchas otras.
+Cuantos mas ataques llevas a cabo mas alla del primero en un solo turno, menos preciso te vuelves, lo que se representa mediante el penalizador por ataque multiple. La segunda vez que utilizas una acción de ataque durante tu turno, sufres un penalizador -5 a la prueba. La tercera vez que atacas, y en todos los ataques subsiguientes, sufres un penalizador -10 a la prueba. Cada prueba que tiene el rasgo ataque cuenta para tu penalizador por ataque multiple, incluyendo Golpes, tiradas de ataque de conjuros, ciertas acciones de habilidad como Empujar y muchas otras.
 
 Algunas armas y aptitudes reducen los penalizadores por ataque multiple, como por ejemplo las armas agiles, que reducen dichos penalizadores a -4 en el segundo ataque o a -8 en ataques posteriores.
 
@@ -55,7 +55,7 @@ Algunas armas y aptitudes reducen los penalizadores por ataque multiple, como po
 
 Has de calcular siempre tu penalizador por ataque multiple basándote en el arma que utilizas en dicho ataque, no en las utilizadas en ataques anteriores. Por ejemplo, supongamos que estas empuñando una espada larga en una mano y una espada corta (que tiene el rasgo agil) en la otra, y propinas tres Golpes con dichas armas a lo largo de tu turno. El primer Golpe de tu turno carecera de penalizador, sea cual sea el arma que utilices. El segundo sufrirá un penalizador -5 si utilizas la espada larga o un penalizador -4 si utilizas la espada corta. El tercero sufrirá un penalizador -10 si utilizas la espada larga y un penalizador -8 si utilizas la espada corta, sean cuales sean las armas utilizadas en los Golpes previos.
 
-El penalizador por ataque multiple se aplica solo durante tu turno, por lo que no tienes que llevar la cuenta de ello si puedes llevar a cabo un Golpe reactivo o una reaccion similar que te permite dar un Golpe en el turno de otro.
+El penalizador por ataque multiple se aplica solo durante tu turno, por lo que no tienes que llevar la cuenta de ello si puedes llevar a cabo un Golpe reactivo o una reacción similar que te permite dar un Golpe en el turno de otro.
 
 ### Penalizador por Rango de Distancia
 
@@ -77,7 +77,7 @@ Si tienes la aptitud de lanzar conjuros, tendras un rango de competencia para tu
 
 ### CD de Conjuros
 
-Muchas veces, en lugar de requerir que hagas una tirada de ataque de conjuros, los conjuros que lanzas requerirán de quienes esten en el area del conjuro o sean objetivo del mismo, que hagan una tirada de salvacion contra tu CD de conjuros para determinar como les afecta el mismo.
+Muchas veces, en lugar de requerir que hagas una tirada de ataque de conjuros, los conjuros que lanzas requerirán de quienes esten en el area del conjuro o sean objetivo del mismo, que hagan una tirada de salvación contra tu CD de conjuros para determinar como les afecta el mismo.
 
 > **CD de conjuros** = 10 + modificador por atributo de lanzamiento de conjuros + bonificador por competencia + otros bonificadores + penalizadores
 
@@ -85,11 +85,11 @@ Muchas veces, en lugar de requerir que hagas una tirada de ataque de conjuros, l
 
 ## Defensas
 
-Hay muchas estadisticas que te ayudan a defenderte contra ataques, conjuros, obstáculos y otros peligros de las aventuras: la Clase de armadura y las tres tiradas de salvacion.
+Hay muchas estadisticas que te ayudan a defenderte contra ataques, conjuros, obstáculos y otros peligros de las aventuras: la Clase de armadura y las tres tiradas de salvación.
 
 ### Clase de Armadura (CA)
 
-Las tiradas de ataque se comparan con una Clase de dificultad especial llamada Clase de armadura (CA), que mide lo difícil que es para los enemigos acertarte con acciones de Golpe, tiradas de ataque de conjuros y otros ataques. Igual que para cualquier otra prueba y CD, el resultado de una tirada de ataque tiene que ser igual o mayor que tu CA para tener exito, lo que permite a tu enemigo infligirte dano.
+Las tiradas de ataque se comparan con una Clase de dificultad especial llamada Clase de armadura (CA), que mide lo difícil que es para los enemigos acertarte con acciones de Golpe, tiradas de ataque de conjuros y otros ataques. Igual que para cualquier otra prueba y CD, el resultado de una tirada de ataque tiene que ser igual o mayor que tu CA para tener éxito, lo que permite a tu enemigo infligirte dano.
 
 > **Clase de armadura** = 10 + modificador por Destreza (hasta el limite por Destreza de tu armadura) + bonificador por competencia + bonificador por objeto de la armadura a la CA + otros modificadores + penalizadores
 
@@ -105,48 +105,48 @@ Los penalizadores a la CA proceden de situaciones y efectos de forma muy parecid
 
 ---
 
-## Tiradas de Salvacion
+## Tiradas de Salvación
 
-Hay tres tipos de tiradas de salvacion: de Fortaleza, de Reflejos y de Voluntad. Decimos indistintamente "salvacion" o "tirada de salvacion"; es lo mismo. Las tiradas de salvacion miden tu capacidad para quitarte de encima efectos dañinos en forma de aflicciones, dano o estados. Siempre sumas un bonificador por competencia a cada salvacion. Tu clase podria concederte una competencia diferente para cada salvacion, pero como minimo tendras el rango entrenado.
+Hay tres tipos de tiradas de salvación: de Fortaleza, de Reflejos y de Voluntad. Decimos indistintamente "salvación" o "tirada de salvación"; es lo mismo. Las tiradas de salvación miden tu capacidad para quitarte de encima efectos dañinos en forma de aflicciones, dano o estados. Siempre sumas un bonificador por competencia a cada salvación. Tu clase podría concederte una competencia diferente para cada salvación, pero como minimo tendras el rango entrenado.
 
-Algunas circunstancias y conjuros podrian concederte bonificadores por circunstancia o por estatus a las salvaciones, y podrias encontrar armaduras y objetos mágicos resilientes que te conceden un bonificador por objeto.
+Algunas circunstancias y conjuros podrían concederte bonificadores por circunstancia o por estatus a las salvaciones, y podrias encontrar armaduras y objetos mágicos resilientes que te conceden un bonificador por objeto.
 
-### Salvacion de Fortaleza
+### Salvación de Fortaleza
 
-Las tiradas de salvacion de Fortaleza te permiten reducir los efectos de las aptitudes y aflicciones que debilitan el cuerpo. Utilizan tu modificador por Constitución.
+Las tiradas de salvación de Fortaleza te permiten reducir los efectos de las aptitudes y aflicciones que debilitan el cuerpo. Utilizan tu modificador por Constitución.
 
-> **Resultado de la salvacion de Fortaleza** = tirada d20 + modificador por Constitución + bonificador por competencia + otros bonificadores + penalizadores
+> **Resultado de la salvación de Fortaleza** = tirada d20 + modificador por Constitución + bonificador por competencia + otros bonificadores + penalizadores
 
-### Salvacion de Reflejos
+### Salvación de Reflejos
 
-Las tiradas de salvacion de Reflejos miden lo bien y lo rapidamente que respondes a una situación y con que facilidad puedes evitar los efectos que te han lanzado. Utilizan tu modificador por Destreza.
+Las tiradas de salvación de Reflejos miden lo bien y lo rapidamente que respondes a una situación y con que facilidad puedes evitar los efectos que te han lanzado. Utilizan tu modificador por Destreza.
 
-> **Resultado de la salvacion de Reflejos** = tirada d20 + modificador por Destreza + bonificador por competencia + otros bonificadores + penalizadores
+> **Resultado de la salvación de Reflejos** = tirada d20 + modificador por Destreza + bonificador por competencia + otros bonificadores + penalizadores
 
-### Salvacion de Voluntad
+### Salvación de Voluntad
 
-Las tiradas de salvacion de Voluntad miden lo bien que puedes resistir ataques contra la mente y el espiritu. Utilizan tu modificador por Sabiduría.
+Las tiradas de salvación de Voluntad miden lo bien que puedes resistir ataques contra la mente y el espiritu. Utilizan tu modificador por Sabiduría.
 
-> **Resultado de la salvacion de Voluntad** = tirada d20 + modificador por Sabiduría + bonificador por competencia + otros bonificadores + penalizadores
+> **Resultado de la salvación de Voluntad** = tirada d20 + modificador por Sabiduría + bonificador por competencia + otros bonificadores + penalizadores
 
-### CD de Salvacion
+### CD de Salvación
 
-A veces necesitaras saber tu CD para una tirada de salvacion determinada (por ejemplo, una prueba de Presa requiere una tirada contra tu CD de Reflejos). Como cualquier otra CD derivada de un modificador, la CD para una salvacion es 10 + el modificador total para dicha tirada de salvacion.
+A veces necesitaras saber tu CD para una tirada de salvación determinada (por ejemplo, una prueba de Presa requiere una tirada contra tu CD de Reflejos). Como cualquier otra CD derivada de un modificador, la CD para una salvación es 10 + el modificador total para dicha tirada de salvación.
 
 ### Salvaciones y Acciones
 
-La mayor parte del tiempo, cuando haces una tirada de salvacion no tienes que utilizar ni tus acciones ni tu reaccion. Ni siquiera tienes que ser capaz de actuar para hacer tiradas de salvacion. Sin embargo, en algunos casos especiales, podrias tener que utilizar una accion para hacer una salvacion. Por ejemplo, puedes tratar de recuperarte del estado indispuesto invirtiendo una accion para hacer una salvacion de Fortaleza.
+La mayor parte del tiempo, cuando haces una tirada de salvación no tienes que utilizar ni tus acciones ni tu reacción. Ni siquiera tienes que ser capaz de actuar para hacer tiradas de salvación. Sin embargo, en algunos casos especiales, podrias tener que utilizar una acción para hacer una salvación. Por ejemplo, puedes tratar de recuperarte del estado indispuesto invirtiendo una acción para hacer una salvación de Fortaleza.
 
-### Tiradas de Salvacion Basicas
+### Tiradas de Salvación Basicas
 
-A veces se te pedira que hagas una tirada de salvacion basica (o "salvacion basica"). Este tipo de tirada de salvacion funciona como cualquier otra, lo de "basico" se refiere a los efectos.
+A veces se te pedira que hagas una tirada de salvación basica (o "salvación basica"). Este tipo de tirada de salvación funciona como cualquier otra, lo de "basico" se refiere a los efectos.
 
-Para una salvacion basica, haces la prueba y determinas si has tenido un exito critico, un exito, un fallo o un fallo critico como en cualquier otra tirada de salvacion. Entonces aplicas uno de los siguientes desenlaces basado en tu grado de exito, sin importar lo que causa la tirada de salvacion. Algunos conjuros o aptitudes añaden un efecto adicional en ciertos resultados, pero siguen utilizando una tirada de salvacion basica para mas brevedad.
+Para una salvación basica, haces la prueba y determinas si has tenido un éxito critico, un éxito, un fallo o un fallo critico como en cualquier otra tirada de salvación. Entonces aplicas uno de los siguientes desenlaces basado en tu grado de éxito, sin importar lo que causa la tirada de salvación. Algunos conjuros o aptitudes añaden un efecto adicional en ciertos resultados, pero siguen utilizando una tirada de salvación basica para mas brevedad.
 
-| Grado de Exito | Resultado |
+| Grado de Éxito | Resultado |
 |----------------|-----------|
-| **Exito critico** | No sufres dano debido al efecto. |
-| **Exito** | Sufres la mitad del dano indicado para el efecto. |
+| **Éxito critico** | No sufres dano debido al efecto. |
+| **Éxito** | Sufres la mitad del dano indicado para el efecto. |
 | **Fallo** | Sufres el dano completo indicado para el efecto. |
 | **Fallo critico** | Sufres el doble del dano indicado para el efecto. |
 
@@ -164,7 +164,7 @@ Los penalizadores por circunstancia a la Percepción tienen lugar cuando un ento
 
 ### CD de Percepción
 
-Muchas aptitudes se comparan con tu CD de Percepción para determinar si tienen exito. Como con cualquier CD basada en un modificador, tu CD de Percepción es 10 + tu modificador total a la Percepción.
+Muchas aptitudes se comparan con tu CD de Percepción para determinar si tienen éxito. Como con cualquier CD basada en un modificador, tu CD de Percepción es 10 + tu modificador total a la Percepción.
 
 ### La Percepción para la Iniciativa
 
@@ -229,11 +229,11 @@ Cuando un efecto te pide incrementar el tamaño de tu dado de dano por arma, en 
 
 ### Dano Persistente
 
-El dano persistente es un estado que hace que el dano sea recurrente mas alla del efecto original. Como el dano normal, se puede doblar o reducir a la mitad basándose en los resultados de una tirada de ataque o tirada de salvacion. A diferencia del dano normal, cuando te ves sujeto a dano persistente, no lo sufres directamente. En su lugar, sufres el dano especificado al final de tus turnos, tras lo cual haces una prueba plana CD 15 para ver si te recuperas del dano persistente.
+El dano persistente es un estado que hace que el dano sea recurrente mas alla del efecto original. Como el dano normal, se puede doblar o reducir a la mitad basándose en los resultados de una tirada de ataque o tirada de salvación. A diferencia del dano normal, cuando te ves sujeto a dano persistente, no lo sufres directamente. En su lugar, sufres el dano especificado al final de tus turnos, tras lo cual haces una prueba plana CD 15 para ver si te recuperas del dano persistente.
 
 ### Doblar y Reducir el Dano a la Mitad
 
-A veces necesitaras doblar o reducir a la mitad una cantidad de dano, por ejemplo cuando el resultado de tu Golpe sea un impacto critico o cuando tengas exito en una salvacion basica de Reflejos contra un conjuro. Cuando esto suceda, tira el dano normalmente, sumando todos los modificadores, bonificadores y penalizadores normales. Después dobla o reduce a la mitad la cantidad segun el caso. De la forma habitual, redondea hacia abajo si reduces el dano a la mitad (aunque dano 1 reducido a la mitad sigue siendo un minimo de dano 1).
+A veces necesitaras doblar o reducir a la mitad una cantidad de dano, por ejemplo cuando el resultado de tu Golpe sea un impacto critico o cuando tengas éxito en una salvación basica de Reflejos contra un conjuro. Cuando esto suceda, tira el dano normalmente, sumando todos los modificadores, bonificadores y penalizadores normales. Después dobla o reduce a la mitad la cantidad segun el caso. De la forma habitual, redondea hacia abajo si reduces el dano a la mitad (aunque dano 1 reducido a la mitad sigue siendo un minimo de dano 1).
 
 Al doblar, el DJ te puede permitir que tires el dado dos veces y dobles los modificadores, bonificadores y penalizadores en lugar de doblar el resultado completo, pero esto funciona normalmente mejor para ataques contra un solo objetivo o conjuros a rangos bajos cuando tienes un numero pequeno de dados de dano que tirar. Los beneficios que obtienes especificamente de un impacto critico, como el dado de dano adicional del rasgo de arma fatal, no se doblan.
 
@@ -241,9 +241,9 @@ Al doblar, el DJ te puede permitir que tires el dado dos veces y dobles los modi
 
 ## Dano Critico
 
-Obtienes un exito critico cuando el resultado de la prueba iguala o supera la CD en 10 o mas. Si la prueba es una tirada de ataque, se conoce tambien como un impacto critico. Un Golpe inflige doble dano con un impacto critico.
+Obtienes un éxito critico cuando el resultado de la prueba iguala o supera la CD en 10 o mas. Si la prueba es una tirada de ataque, se conoce tambien como un impacto critico. Un Golpe inflige doble dano con un impacto critico.
 
-Si has sacado un 20 en el d20 (un "20 natural"), tu resultado es un grado de exito mejor de lo que seria solo con los numeros. Esto significa que un 20 natural suele resultar en un exito critico.
+Si has sacado un 20 en el d20 (un "20 natural"), tu resultado es un grado de éxito mejor de lo que seria solo con los numeros. Esto significa que un 20 natural suele resultar en un éxito critico.
 
 ### Ataques No Letales
 

@@ -20,9 +20,9 @@ spell_level: 1
 
 ---
 
-El objetivo se ve aquejado por la desventura, que le deja desequilibrado. El objetivo tiene que llevar a cabo una salvacion de Voluntad.
+El objetivo se ve aquejado por la desventura, que le deja desequilibrado. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 
-**Exito** El objetivo no resulta afectado.
+**Éxito** El objetivo no resulta afectado.
 
 **Fallo** La primera vez de la duracion en que el objetivo haga una prueba de ataque o de habilidad, debera tirar dos veces y utilizar el peor resultado.
 

@@ -18,9 +18,9 @@ spell_level: 5
 
 ---
 
-Una masa de serpientes de sombra se alza para capturar a las criaturas en el area. Cada criatura en el area cuando lanzas el conjuro sufre 3d6 daño perforante y 1d6 daño persistente por veneno debido a un mordisco de serpiente, quedando agarrada o neutralizada dependiendo de su salvacion de Reflejos. Una criatura que acaba su turno en el area tiene que hacer esta Salvacion incluso si esta ya agarrada o neutralizada por las serpientes. Puedes Disipar el conjuro.
+Una masa de serpientes de sombra se alza para capturar a las criaturas en el area. Cada criatura en el area cuando lanzas el conjuro sufre 3d6 daño perforante y 1d6 daño persistente por veneno debido a un mordisco de serpiente, quedando agarrada o neutralizada dependiendo de su salvación de Reflejos. Una criatura que acaba su turno en el area tiene que hacer esta Salvación incluso si esta ya agarrada o neutralizada por las serpientes. Puedes Disipar el conjuro.
 
-**Exito** La criatura no resulta afectada.
+**Éxito** La criatura no resulta afectada.
 
 **Fallo** La criatura sufre daño completo y es agarrada por una serpiente. La CD de Huir de la serpiente es igual a tu CD de conjuros. Se puede atacar a una serpiente para liberar a la criatura. La CA de una serpiente es igual a tu CD de conjuros y es destruida si sufre 12 daño o mas de una sola vez. Conforme dura el conjuro, van apareciendo nuevas serpientes, por lo que destruir algunas no evita que culebrear capture mas criaturas.
 

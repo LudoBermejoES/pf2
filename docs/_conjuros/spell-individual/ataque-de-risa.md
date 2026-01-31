@@ -22,9 +22,9 @@ spell_level: 2
 
 El objetivo se ve abrumado por una risa incontrolable. Tiene que hacer una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo resulta afectado por una risa incontrolable. No puede utilizar reacciones.
+**Éxito** El objetivo resulta afectado por una risa incontrolable. No puede utilizar reacciones.
 
 **Fallo** El objetivo queda lentificado 1 y no puede utilizar reacciones.
 

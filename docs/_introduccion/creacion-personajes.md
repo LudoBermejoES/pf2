@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /introduccion/creacion-personajes/
-title: Creacion de Personajes
+permalink: /introduccion/creación-personajes/
+title: Creación de Personajes
 chapter: Introduccion
 category: introduccion
 nav_order: 0
@@ -9,7 +9,7 @@ nav_order: 0
 
 A menos que seas el DJ, lo primero que tienes que hacer cuando juegas a Pathfinder es crear tu personaje. Corre de tu cuenta imaginar las experiencias pasadas del mismo, su personalidad y su vision del mundo, y esto fijara el escenario de tu interpretacion durante la partida. Utilizaras las mecanicas del juego para determinar la capacidad de tu personaje para llevar a cabo diversas tareas y para utilizar aptitudes especiales mientras juegas.
 
-Los pasos de la creacion de personaje se presentan en el orden sugerido, pero podras completarlos en el orden que quieras.
+Los pasos de la creación de personaje se presentan en el orden sugerido, pero podrás completarlos en el orden que quieras.
 
 ---
 
@@ -23,18 +23,18 @@ Los pasos de la creacion de personaje se presentan en el orden sugerido, pero po
 6. **Acaba los modificadores por atributo** - Aplica 4 mejoras gratuitas adicionales
 7. **Anota los detalles de tu clase** - PG, competencias, habilidades, dotes de clase
 8. **Comprar equipo** - 15 po iniciales (150 pp)
-9. **Calcula modificadores** - Percepción, Tiradas de salvacion, Golpes, Habilidades
+9. **Calcula modificadores** - Percepción, Tiradas de salvación, Golpes, Habilidades
 10. **Detalles de acabado** - Edictos/Anatemas, Dios, Edad, Genero, CD de clase, Puntos de heroe, CA, Impedimenta
 
 ---
 
 ## Paso 1: Crea un concepto
 
-Que tipo de heroe quieres interpretar? La respuesta a esta pregunta podria ser tan simple como "un valeroso combatiente", o tan complicada como "el hijo de unos vagabundos elfos, criado en una ciudad dominada por humanos y devoto de Sarenrae, diosa del sol". Considera la personalidad de tu personaje, anota unos cuantos detalles acerca de su pasado y piensa en como y por que sale de aventuras.
+Que tipo de heroe quieres interpretar? La respuesta a esta pregunta podría ser tan simple como "un valeroso combatiente", o tan complicada como "el hijo de unos vagabundos elfos, criado en una ciudad dominada por humanos y devoto de Sarenrae, diosa del sol". Considera la personalidad de tu personaje, anota unos cuantos detalles acerca de su pasado y piensa en como y por que sale de aventuras.
 
 Te interesara consultar las ascendencias, los bagajes y las clases disponibles en Pathfinder. Antes de que empiece una partida, suele ser una buena idea que los jugadores comenten entre si como se han conocido sus personajes y como piensan trabajar juntos a lo largo de sus aventuras.
 
-Cada jugador adopta una aproximacion diferente a la creacion de personaje. Algunos quieren uno que encaje bien en el relato, mientras que otros buscan una combinacion de aptitudes que se complementen entre si mecanicamente. En tu caso, podrias querer combinar ambas aproximaciones. Cualquiera de ellas esta bien.
+Cada jugador adopta una aproximacion diferente a la creación de personaje. Algunos quieren uno que encaje bien en el relato, mientras que otros buscan una combinacion de aptitudes que se complementen entre si mecanicamente. En tu caso, podrias querer combinar ambas aproximaciones. Cualquiera de ellas esta bien.
 
 ### Fuentes de inspiracion
 
@@ -55,12 +55,12 @@ Todos los modificadores por atributo de tu personaje empiezan en **+0**. Conform
 
 **Atributos físicos:**
 - **Fuerza**: Mide la potencia fisica. Se suma a las tiradas de dano cuerpo a cuerpo y determina la cantidad de peso que puedes transportar.
-- **Destreza**: Mide la agilidad, el equilibrio y los reflejos. Se suma a la CA y a las tiradas de salvacion de Reflejos.
-- **Constitución**: Mide la salud y el vigor. Se suma a los Puntos de Golpe y a las tiradas de salvacion de Fortaleza.
+- **Destreza**: Mide la agilidad, el equilibrio y los reflejos. Se suma a la CA y a las tiradas de salvación de Reflejos.
+- **Constitución**: Mide la salud y el vigor. Se suma a los Puntos de Golpe y a las tiradas de salvación de Fortaleza.
 
 **Atributos mentales:**
 - **Inteligencia**: Mide lo bien que puedes aprender y razonar. Permite entrenar habilidades adicionales y dominar idiomas adicionales.
-- **Sabiduría**: Mide el sentido comun, la perspicacia y la intuicion. Se suma a la Percepción y a las tiradas de salvacion de Voluntad.
+- **Sabiduría**: Mide el sentido comun, la perspicacia y la intuicion. Se suma a la Percepción y a las tiradas de salvación de Voluntad.
 - **Carisma**: Mide el magnetismo personal y la fuerza de la personalidad. Ayuda a construir relaciones e influenciar a los demás.
 
 ### Mejoras de atributo
@@ -228,9 +228,9 @@ Si tu rango de competencia para una estadistica es entrenado, experto, maestro o
 
 El modificador a la Percepción de tu personaje mide lo alerta que esta y es igual a su bonificador por competencia en Percepción mas su modificador por Sabiduría.
 
-### Tiradas de salvacion
+### Tiradas de salvación
 
-Para cada tipo de tirada de salvacion, sumaras el bonificador por competencia de tu personaje mas el modificador por atributo asociado:
+Para cada tipo de tirada de salvación, sumaras el bonificador por competencia de tu personaje mas el modificador por atributo asociado:
 
 - **Fortaleza**: Modificador por Constitución
 - **Reflejos**: Modificador por Destreza
@@ -247,7 +247,7 @@ El modificador para un Golpe es igual al bonificador por competencia de tu perso
 
 Tambien sumas cualquier bonificador por objeto debido al arma y cualquier otro bonificador o penalizador permanente.
 
-**Dano**: Las armas cuerpo a cuerpo suelen sumar el modificador por Fuerza a las tiradas de dano, mientras que las armas a distancia podrian añadir todo o parte del modificador por Fuerza, dependiendo de los rasgos del arma.
+**Dano**: Las armas cuerpo a cuerpo suelen sumar el modificador por Fuerza a las tiradas de dano, mientras que las armas a distancia podrían añadir todo o parte del modificador por Fuerza, dependiendo de los rasgos del arma.
 
 ### Habilidades
 
@@ -316,7 +316,7 @@ La Impedimenta maxima de tu personaje determina la cantidad de peso que puede ll
 
 ## Ejemplo de personaje: Gar el druida enano
 
-Este ejemplo paso a paso ilustra el proceso de creacion de un personaje de Pathfinder.
+Este ejemplo paso a paso ilustra el proceso de creación de un personaje de Pathfinder.
 
 ### Pasos 1 y 2
 
@@ -378,7 +378,7 @@ Adam tiene que aplicar otras cuatro mejoras de atributo para determinar sus modi
 
 Conforme Adam aplica su clase, tiene que pensar cierta cantidad de cosas:
 
-1. **Competencias iniciales**: Marca las casillas apropiadas en las areas Clase de armadura, Tiradas de salvacion, Competencias en armas, Modificador al ataque de conjuro y CD de conjuro.
+1. **Competencias iniciales**: Marca las casillas apropiadas en las areas Clase de armadura, Tiradas de salvación, Competencias en armas, Modificador al ataque de conjuro y CD de conjuro.
 
 2. **Habilidades**: Marca Naturaleza como entrenada. Una vez elija su orden de druida, obtendra el rango entrenado en otra habilidad determinada por dicha orden. Elige otras dos habilidades: Atletismo y Medicina.
 
@@ -398,7 +398,7 @@ Anota la lanza corta tanto en Golpes cuerpo a cuerpo como en Golpes a distancia,
 
 ### Paso 9
 
-Adam anota todos los modificadores por atributo a la Percepción, las tiradas de salvacion, los Golpes y las habilidades. A continuación anota un "+3" en la casilla marcada "Comp" para indicar su bonificador por competencia en cada estadistica en la que esta entrenado (1 por su nivel, mas 2 por el rango entrenado) y "+5" en cualquiera en la que tiene el rango experto. Luego suma sus modificadores para cada estadistica.
+Adam anota todos los modificadores por atributo a la Percepción, las tiradas de salvación, los Golpes y las habilidades. A continuación anota un "+3" en la casilla marcada "Comp" para indicar su bonificador por competencia en cada estadistica en la que esta entrenado (1 por su nivel, mas 2 por el rango entrenado) y "+5" en cualquiera en la que tiene el rango experto. Luego suma sus modificadores para cada estadistica.
 
 ### Paso 10
 

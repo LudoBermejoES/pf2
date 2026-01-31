@@ -20,6 +20,6 @@ spell_level: TRUCO
 
 ---
 
-Llamas al Vacío para que dane a la fuerza vital. El objetivo sufre 2d4 dano por vacío con una salvacion basica de Fortaleza. Con un fallo critico, el objetivo queda tambien debilitado 1 hasta el inicio de tu siguiente turno.
+Llamas al Vacío para que dane a la fuerza vital. El objetivo sufre 2d4 dano por vacío con una salvación basica de Fortaleza. Con un fallo critico, el objetivo queda tambien debilitado 1 hasta el inicio de tu siguiente turno.
 
 **Potenciado (+1)** El dano se incrementa en 1d4.

@@ -116,7 +116,7 @@ Tus interpretaciones inspiran fuerza en tus aliados para que les ayude en las ta
 
 *Bardo, Concentrar*
 
-**Desencadenante** Un enemigo del que eres consciente falla su salvacion contra un conjuro de emocion.
+**Desencadenante** Un enemigo del que eres consciente falla su salvación contra un conjuro de emocion.
 
 Te preparas para cobrar ventaja del cambio repentino de emociones de tu enemigo, que queda desprevenido contra tu siguiente ataque antes del final de tu siguiente turno.
 
@@ -241,8 +241,8 @@ Una cuidadosa investigación sobre el arte de los rituales te ha hecho mejor a l
 
 Utilizas las técnicas de lectura en frio de un artista, leer el aura y otros trucos para descubrir las fortalezas y debilidades de tu enemigo. El DJ hace una prueba secreta de Ocultismo por ti contra la CD de Engano o Sigilo (la mayor) de un enemigo a tu elección que no esta oculto de ti, escondido de ti o no detectado por ti y que esta trabado en combate. El DJ podría aplicar un penalizador debido a la distancia entre el enemigo y tu. Después, el enemigo queda temporalmente inmune a tu Lectura de combate durante 1 dia.
 
-- **Exito critico** El DJ elige y te cuenta dos de los siguientes fragmentos de información acerca del enemigo: cual de sus debilidades es mayor, cual de sus tiradas de salvación tiene el modificador mas bajo, una inmunidad que tiene o cual es la mayor de sus resistencias. En caso de empate, el DJ elige una al azar.
-- **Exito** El DJ elige un fragmento de información acerca del enemigo de la lista superior para proporcionárselo.
+- **Éxito critico** El DJ elige y te cuenta dos de los siguientes fragmentos de información acerca del enemigo: cual de sus debilidades es mayor, cual de sus tiradas de salvación tiene el modificador mas bajo, una inmunidad que tiene o cual es la mayor de sus resistencias. En caso de empate, el DJ elige una al azar.
+- **Éxito** El DJ elige un fragmento de información acerca del enemigo de la lista superior para proporcionárselo.
 - **Fallo critico** El DJ te proporciona información falsa (que se inventa el mismo).
 
 ---
@@ -406,7 +406,7 @@ Cuando tienes éxito en una prueba de Recordar conocimiento, obtienes informaci�
 
 **Prerrequisitos** musa combatiente
 
-**Desencadenante** Una criatura a tu alcance utiliza un efecto auditivo, una accion de manipular o una accion de movimiento; lleva a cabo un ataque a distancia; o abandona una casilla durante su accion de movimiento.
+**Desencadenante** Una criatura a tu alcance utiliza un efecto auditivo, una acción de manipular o una acción de movimiento; lleva a cabo un ataque a distancia; o abandona una casilla durante su acción de movimiento.
 
 **Requisitos** Estas bajo los efectos de himno valeroso.
 
@@ -542,7 +542,7 @@ Tu conexión con tu musa te ha concedido un enfoque poco usual. Siempre que Reen
 
 **Prerrequisitos** polifacetico esoterico
 
-Tu flexible mente puede intercambiar conjuros rapidamente. Si anades un conjuro a tu repertorio durante tus preparativos diarios utilizando Polifacético esoterico, cuando prepares de nuevo podras mantener el nuevo conjuro de dicha dote en tu repertorio y en su lugar perder el acceso a otro conjuro del mismo nivel, tambien de tu repertorio.
+Tu flexible mente puede intercambiar conjuros rapidamente. Si anades un conjuro a tu repertorio durante tus preparativos diarios utilizando Polifacético esoterico, cuando prepares de nuevo podrás mantener el nuevo conjuro de dicha dote en tu repertorio y en su lugar perder el acceso a otro conjuro del mismo nivel, tambien de tu repertorio.
 
 ---
 
@@ -555,8 +555,8 @@ Tu flexible mente puede intercambiar conjuros rapidamente. Si anades un conjuro 
 
 Puedes manipular la acustica que te rodea para devolver el dano sonico a su origen. Haz una prueba de interpretación contra la CD de Voluntad de la criatura o la CD de Fortaleza de un peligro. Si el dano procede de un conjuro, utiliza la CD de conjuro de la criatura si es mas baja.
 
-- **Exito critico** Reduces el dano desencadenante en una cantidad igual hasta a 4 veces tu nivel. La criatura sufre tanto dano sonico como la cantidad de dano reducida por ti de esta manera.
-- **Exito** Como en éxito critico, pero reduces el dano desencadenante en una cantidad igual hasta a 2 veces tu nivel.
+- **Éxito critico** Reduces el dano desencadenante en una cantidad igual hasta a 4 veces tu nivel. La criatura sufre tanto dano sonico como la cantidad de dano reducida por ti de esta manera.
+- **Éxito** Como en éxito critico, pero reduces el dano desencadenante en una cantidad igual hasta a 2 veces tu nivel.
 
 ---
 

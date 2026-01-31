@@ -22,11 +22,11 @@ spell_level: 4
 
 ---
 
-Obligas al objetivo a ver una vision de su propia muerte. Sufre 8d6 dano mental y tiene que hacer una salvacion de Voluntad. Si el objetivo queda reducido a 0 PG por este conjuro, su vision se convierte en realidad y lo mata instantaneamente.
+Obligas al objetivo a ver una vision de su propia muerte. Sufre 8d6 dano mental y tiene que hacer una salvación de Voluntad. Si el objetivo queda reducido a 0 PG por este conjuro, su vision se convierte en realidad y lo mata instantaneamente.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo sufre mitad de dano y queda asustado 1.
+**Éxito** El objetivo sufre mitad de dano y queda asustado 1.
 
 **Fallo** El objetivo sufre dano completo y queda asustado 2.
 

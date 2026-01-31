@@ -59,7 +59,7 @@ En el 1.er nivel obtienes cierta cantidad de competencias que representan tu ent
 
 Como clérigo, eres un servidor mortal de un dios al que adoras por encima de todos los demás. Tu dios te concede el rango de competencia entrenado en una habilidad y con su arma predilecta. Aunque el arma predilecta de tu dios sea poco comun, obtendrás acceso a dicha arma.
 
-Tu dios tambien añade conjuros a tu lista. Podras prepararlos igual que cualquier conjuro de la lista de conjuros divinos una vez puedas preparar conjuros de dicho rango como clérigo. Algunos de estos conjuros no figuran normalmente en la lista divina, pero siguen siendo conjuros divinos si los preparas de esta forma.
+Tu dios tambien añade conjuros a tu lista. Podrás prepararlos igual que cualquier conjuro de la lista de conjuros divinos una vez puedas preparar conjuros de dicho rango como clérigo. Algunos de estos conjuros no figuran normalmente en la lista divina, pero siguen siendo conjuros divinos si los preparas de esta forma.
 
 ### Santificacion
 
@@ -165,7 +165,7 @@ Eres un clérigo con sotana, que se centra en la magia divina y en la conexión 
 | **Primera doctrina (1.º)** | Obtienes la dote de clérigo Iniciado de un dominio. |
 | **Segunda doctrina (3.º)** | Tu rango de competencia para las salvaciones de Fortaleza se incrementa a experto. |
 | **Tercera doctrina (7.º)** | Tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango experto. |
-| **Cuarta doctrina (11.º)** | Obtienes competencia a rango experto con el arma predilecta de tu dios, las armas sencillas y los ataques sin armas. Cuando obtienes un exito critico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especialización critica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase. |
+| **Cuarta doctrina (11.º)** | Obtienes competencia a rango experto con el arma predilecta de tu dios, las armas sencillas y los ataques sin armas. Cuando obtienes un éxito critico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especialización critica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase. |
 | **Quinta doctrina (15.º)** | Tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango maestro. |
 | **Doctrina final (19.º)** | Tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango legendario. |
 
@@ -175,11 +175,11 @@ Te has entrenado en las doctrinas mas militantes de tu Iglesia, centrándose tan
 
 | Nivel | Doctrina |
 |-------|----------|
-| **Primera doctrina (1.º)** | Tienes competencia a rango entrenado en armadura ligera e intermedia y competencia a rango experto en las salvaciones de Fortaleza. Obtienes la dote general Bloqueo con el escudo, una reaccion para reducir el daño mediante un escudo. Si el arma predilecta de tu dios es un arma sencilla o un ataque sin armas, obtienes la dote de clérigo Simplicidad mortal. A 13.er nivel, si obtienes el rasgo de clase defensa divina, tambien obtienes competencia a rango experto con las armaduras ligeras e intermedias. |
+| **Primera doctrina (1.º)** | Tienes competencia a rango entrenado en armadura ligera e intermedia y competencia a rango experto en las salvaciones de Fortaleza. Obtienes la dote general Bloqueo con el escudo, una reacción para reducir el daño mediante un escudo. Si el arma predilecta de tu dios es un arma sencilla o un ataque sin armas, obtienes la dote de clérigo Simplicidad mortal. A 13.er nivel, si obtienes el rasgo de clase defensa divina, tambien obtienes competencia a rango experto con las armaduras ligeras e intermedias. |
 | **Segunda doctrina (3.º)** | Estas entrenado en armas marciales. |
-| **Tercera doctrina (7.º)** | Obtienes competencia a rango experto con el arma predilecta de tu dios, las armas marciales, las armas sencillas y los ataques sin armas. Cuando obtienes un exito critico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especialización critica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase. |
+| **Tercera doctrina (7.º)** | Obtienes competencia a rango experto con el arma predilecta de tu dios, las armas marciales, las armas sencillas y los ataques sin armas. Cuando obtienes un éxito critico en una tirada de ataque utilizando el arma predilecta de tu dios, aplicas el efecto de especialización critica de la misma; puedes utilizar tu CD de conjuros en lugar de tu CD de clase. |
 | **Cuarta doctrina (11.º)** | Tus rangos de competencia para el modificador al ataque de conjuros y las CD de conjuros se incrementan a rango experto. |
-| **Quinta doctrina (15.º)** | Tu rango de competencia para las salvaciones de Fortaleza se incrementa a maestro. Cuando consigues un exito en una salvacion de Fortaleza, en su lugar consigues un exito critico. |
+| **Quinta doctrina (15.º)** | Tu rango de competencia para las salvaciones de Fortaleza se incrementa a maestro. Cuando consigues un éxito en una salvación de Fortaleza, en su lugar consigues un éxito critico. |
 | **Doctrina final (19.º)** | Obtienes competencia a rango maestro con el arma predilecta de tu dios, tu modificador al ataque de conjuros y tu CD de conjuro. |
 
 ---

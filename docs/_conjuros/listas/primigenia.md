@@ -124,7 +124,7 @@ PC = poco comun.
 ## Conjuros de 4.o rango
 
 - **[Baliza vital](/conjuros/baliza-vital/) P** Irradias vitalidad que cura a las criaturas que te tocan.
-- **[Creacion](/conjuros/creacion/) P** Creas un objeto temporal.
+- **[Creación](/conjuros/creacion/) P** Creas un objeto temporal.
 - **[Escudo de fuego](/conjuros/escudo-de-fuego/) P** Las llamas te protegen del frio y danan a quienes te tocan.
 - **[EspejismoP, PC](/conjuros/espejismop,-pc/) ** Disfrazas un entorno natural como si fuera otro.
 - **[Forma aerea](/conjuros/forma-aerea/) P** Te conviertes en un combatiente aereo.
@@ -193,7 +193,7 @@ PC = poco comun.
 
 ## Conjuros de 9.o rango
 
-- **[Caida de estrellas](/conjuros/caida-de-estrellas/) P** Llamas a cuatro fragmentos celestes para que, en su caida, inflijan dano contundente y elemental.
+- **[Caída de estrellas](/conjuros/caida-de-estrellas/) P** Llamas a cuatro fragmentos celestes para que, en su caída, inflijan dano contundente y elemental.
 - **[Detonar magia](/conjuros/detonar-magia/) P** Haces que un conjuro u objeto explote.
 - **[Implosion](/conjuros/implosion/) P** Haces que una criatura colapso sobre si misma.
 - **[Masacre](/conjuros/masacre/) P** Matas instantaneamente a multiples criaturas.

@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/proteccion/
+permalink: /conjuros/protección/
 title: Protección
 chapter: Conjuros
 spell_level: 1

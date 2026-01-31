@@ -310,12 +310,12 @@ Si un conjuro permite al objetivo una tirada de salvación o utilizar su CA para
 
 Si un conjuro solo permite una defensa en determinadas circunstancias o en un momento determinado, la entrada Defensas se omite, puesto que el texto tiene que explicarla en mas detalle. Siempre que un conjuro permite una tirada de salvación utiliza la CD de conjuro del lanzador, y una que permite la CA como defensa requiere tipicamente un ataque de conjuro.
 
-### Tiradas de salvacion basicas
+### Tiradas de salvación basicas
 
 Si la entrada Defensas de un conjuro especifica una tirada de salvación "basica", todos los efectos potenciales de conjuro tienen que ver con el dano indicado en la descripción del mismo:
 
-- **Exito critico**: El objetivo no sufre dano.
-- **Exito**: El objetivo sufre mitad de dano.
+- **Éxito critico**: El objetivo no sufre dano.
+- **Éxito**: El objetivo sufre mitad de dano.
 - **Fallo**: El objetivo sufre dano completo.
 - **Fallo critico**: El objetivo sufre doble dano.
 
@@ -384,7 +384,7 @@ Estos efectos transforman por completo al objetivo en una nueva forma. Un objeti
 
 Cualquier Golpe concedido por un efecto de polimorfia se considera magico. Si no se indica lo contrario, los conjuros de polimorfia no permiten al objetivo adoptar la apariencia de una criatura individual especifica, sino mas bien solo la de una criatura generica de un tipo o ascendencia general.
 
-**Forma de batalla**: Si adoptas una forma de batalla mediante un conjuro de polimorfia, sus estadisticas especiales se pueden ajustar tan solo mediante bonificadores por circunstancia, bonificadores por estatus y penalizadores. Si no se indica lo contrario, la forma de batalla te impide lanzar conjuros, hablar y la mayoría de acciones manipulativas que requieren tener manos (si existen dudas acerca de si puedes utilizar una accion o no, el DJ es quien decide).
+**Forma de batalla**: Si adoptas una forma de batalla mediante un conjuro de polimorfia, sus estadisticas especiales se pueden ajustar tan solo mediante bonificadores por circunstancia, bonificadores por estatus y penalizadores. Si no se indica lo contrario, la forma de batalla te impide lanzar conjuros, hablar y la mayoría de acciones manipulativas que requieren tener manos (si existen dudas acerca de si puedes utilizar una acción o no, el DJ es quien decide).
 
 Tu equipo se absorbe en tu cuerpo; sus aptitudes constantes siguen funcionando, pero no puedes activar objeto alguno. Si un efecto de polimorfia hace que aumentes de tamaño, necesitas espacio para expandirte o el efecto queda disipado.
 

@@ -20,9 +20,9 @@ spell_level: 4
 
 Amarras el objetivo a su Plano actual. Mientras el objetivo esta afectado por atadura planaria, el conjuro contrarresta cualquier efecto de teletransporte que moveria al objetivo, o cualquier efecto que lo transportaria a un Plano diferente. La duración de atadura planaria viene determinada por la salvación de Voluntad del objetivo.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** La duracion es 1 minuto.
+**Éxito** La duracion es 1 minuto.
 
 **Fallo** La duracion es 10 minutos.
 

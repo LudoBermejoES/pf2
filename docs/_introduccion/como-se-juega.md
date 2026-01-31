@@ -19,18 +19,18 @@ El juego se desarrolla en tres modos principales, cada uno con su propio ritmo y
 
 ## Pruebas
 
-Cuando el resultado de una accion es incierto, se realiza una prueba. El procedimiento basico es:
+Cuando el resultado de una acción es incierto, se realiza una prueba. El procedimiento basico es:
 
 1. Tirar 1d20
 2. Sumar el modificador correspondiente
 3. Comparar con la Clase de Dificultad (CD)
 
-### Grados de exito
+### Grados de éxito
 
-El resultado de una prueba determina uno de cuatro grados de exito:
+El resultado de una prueba determina uno de cuatro grados de éxito:
 
-- **Exito critico**: El resultado iguala o supera la CD por 10 o mas, o se obtiene un 20 natural en el dado (siempre que el resultado total iguale o supere la CD).
-- **Exito**: El resultado iguala o supera la CD.
+- **Éxito critico**: El resultado iguala o supera la CD por 10 o mas, o se obtiene un 20 natural en el dado (siempre que el resultado total iguale o supere la CD).
+- **Éxito**: El resultado iguala o supera la CD.
 - **Fallo**: El resultado es menor que la CD.
 - **Fallo critico**: El resultado es menor que la CD por 10 o mas, o se obtiene un 1 natural en el dado (siempre que el resultado total sea menor que la CD).
 
@@ -42,7 +42,7 @@ Un personaje intenta nadar a traves de una corriente turbulenta. El DJ establece
 - Suma su modificador de Atletismo: +8
 - Resultado total: 18 + 8 = 26
 - La CD es 16, y el resultado la supera por 10 (26 - 16 = 10)
-- El resultado es un **exito critico**
+- El resultado es un **éxito critico**
 
 El personaje no solo cruza la corriente, sino que lo hace con tal destreza que mantiene su equipo completamente seco.
 
@@ -64,7 +64,7 @@ El bonificador por competencia se suma a casi todas las estadisticas del juego:
 
 - **Tiradas de ataque** con armas en las que eres competente
 - **Pruebas de habilidad** como Sigilo, Diplomacia o Medicina
-- **Tiradas de salvacion** de Fortaleza, Reflejos y Voluntad
+- **Tiradas de salvación** de Fortaleza, Reflejos y Voluntad
 - **Clase de Armadura** basada en tu competencia con la armadura
 - **CD de clase** para determinar la efectividad de tus habilidades
 

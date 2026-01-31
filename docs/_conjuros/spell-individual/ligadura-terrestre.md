@@ -19,11 +19,11 @@ spell_level: 3
 
 ---
 
-Utilizando el peso de la tierra, perturbas el vuelo del objetivo, con efectos que se basan en su salvacion de Fortaleza. Si la criatura llega al suelo de forma segura, no sufre dano por caida.
+Utilizando el peso de la tierra, perturbas el vuelo del objetivo, con efectos que se basan en su salvación de Fortaleza. Si la criatura llega al suelo de forma segura, no sufre dano por caída.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo cae de forma segura hasta 120 pies (36 m).
+**Éxito** El objetivo cae de forma segura hasta 120 pies (36 m).
 
 **Fallo** El objetivo cae de forma segura hasta 120 pies (36 m). Si llega al suelo, no puede Volar, levitar o abandonar el suelo de ninguna otra forma durante 1 asalto.
 

@@ -11,7 +11,7 @@ Tanto si eres el DJ como si eres un jugador, participar en una partida de un jue
 
 Ten en cuenta a todo el mundo de la mesa y lo que buscan en la partida; cuando un grupo se reune por vez primera, deberia compartir lo que pretenden experimentar en la mesa, así como cualquier tema que les gustaria evitar.
 
-Todos deberían entender que podrian aparecer elementos que hicieran que algún jugador se sintiera incomodo o incluso molesto, y todo el mundo deberia estar de acuerdo en respetar dichos limites durante el juego. De esa forma, todos pueden disfrutar juntos de la partida.
+Todos deberían entender que podrían aparecer elementos que hicieran que algún jugador se sintiera incomodo o incluso molesto, y todo el mundo deberia estar de acuerdo en respetar dichos limites durante el juego. De esa forma, todos pueden disfrutar juntos de la partida.
 
 ## Inclusion
 

@@ -21,11 +21,11 @@ spell_level: 7
 
 ---
 
-Revuelves las facultades mentales y las entradas sensoriales de una criatura. El objetivo tiene que llevar a cabo una salvacion de Voluntad. Sea cual sea el resultado de dicha salvacion, a continuación el objetivo queda temporalmente inmune durante 10 minutos. Los efectos de distorsionar la mente tienen lugar de forma instantanea, por lo que disipar magia y otros efectos que contrarrestan los conjuros no pueden contrarrestarlos. Sin embargo, los rituales de deseo y las aptitudes que pueden eliminar efectos que no son mágicos siguen pudiendo contrarrestar los efectos.
+Revuelves las facultades mentales y las entradas sensoriales de una criatura. El objetivo tiene que llevar a cabo una salvación de Voluntad. Sea cual sea el resultado de dicha salvación, a continuación el objetivo queda temporalmente inmune durante 10 minutos. Los efectos de distorsionar la mente tienen lugar de forma instantanea, por lo que disipar magia y otros efectos que contrarrestan los conjuros no pueden contrarrestarlos. Sin embargo, los rituales de deseo y las aptitudes que pueden eliminar efectos que no son mágicos siguen pudiendo contrarrestar los efectos.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo pasa la primera accion de su siguiente turno en el estado confundido.
+**Éxito** El objetivo pasa la primera acción de su siguiente turno en el estado confundido.
 
 **Fallo** El objetivo queda confundido durante 1 minuto.
 

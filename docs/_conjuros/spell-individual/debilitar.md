@@ -18,11 +18,11 @@ spell_level: 1
 
 ---
 
-Debilitas al objetivo, dependiendo de su salvacion de Fortaleza.
+Debilitas al objetivo, dependiendo de su salvación de Fortaleza.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda debilitado 1 hasta el final de tu siguiente turno.
+**Éxito** El objetivo queda debilitado 1 hasta el final de tu siguiente turno.
 
 **Fallo** El objetivo queda debilitado 2 durante 1 minuto.
 

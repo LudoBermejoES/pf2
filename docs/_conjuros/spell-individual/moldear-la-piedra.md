@@ -18,9 +18,9 @@ spell_level: 4
 
 ---
 
-Das forma a la piedra en una forma tosca de tu eleccion. El proceso de moldeo es demasiado basto como para dar como resultado partes intrincadas, detalles finos, piezas moviles o cosas parecidas. Cualquier criatura que este de pie encima de la piedra cuando la moldeas debera hacer una salvacion de Reflejos o una prueba de Acrobacias.
+Das forma a la piedra en una forma tosca de tu eleccion. El proceso de moldeo es demasiado basto como para dar como resultado partes intrincadas, detalles finos, piezas moviles o cosas parecidas. Cualquier criatura que este de pie encima de la piedra cuando la moldeas debera hacer una salvación de Reflejos o una prueba de Acrobacias.
 
-**Exito** La criatura no resulta afectada.
+**Éxito** La criatura no resulta afectada.
 
 **Fallo** La criatura cae tumbada encima de la piedra.
 

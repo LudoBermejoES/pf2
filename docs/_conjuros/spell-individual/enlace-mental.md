@@ -18,4 +18,4 @@ spell_level: 1
 
 ---
 
-Enlazas tu mente con la del objetivo y le impartes mentalmente una cantidad de información en un instante que, de otra forma, se podria comunicar en 10 minutos.
+Enlazas tu mente con la del objetivo y le impartes mentalmente una cantidad de información en un instante que, de otra forma, se podría comunicar en 10 minutos.

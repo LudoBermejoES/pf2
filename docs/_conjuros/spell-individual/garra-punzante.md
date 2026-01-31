@@ -20,6 +20,6 @@ spell_level: TRUCO
 
 ---
 
-Transformas temporalmente tu extremidad en un apendice provisto de garras. Haz una tirada de ataque de conjuros cuerpo a cuerpo contra la CA de tu objetivo. Si impactas, infliges (a elegir) 2d6 dano cortante o 2d6 dano perforante, mas 2 dano persistente por sangrado. Con un exito critico, infliges doble dano y doble dano por sangrado.
+Transformas temporalmente tu extremidad en un apendice provisto de garras. Haz una tirada de ataque de conjuros cuerpo a cuerpo contra la CA de tu objetivo. Si impactas, infliges (a elegir) 2d6 dano cortante o 2d6 dano perforante, mas 2 dano persistente por sangrado. Con un éxito critico, infliges doble dano y doble dano por sangrado.
 
 **Potenciado (+1)** El dano se incrementa en 1d6 y el dano persistente por sangrado se incrementa en 1.

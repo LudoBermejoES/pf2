@@ -22,6 +22,6 @@ spell_level: TRUCO
 
 ---
 
-Pronuncias unas palabras en voz baja, pero en lugar de salir de tu boca son transferidas directamente a los oidos del objetivo. Mientras que los demás no pueden oir tus palabras al no haberlas pronunciado en voz alta, el objetivo puede oirlas como si estuviera de pie junto a ti. Si quiere, el objetivo puede dar una respuesta breve como reaccion, o como accion gratuita en su siguiente turno, pero debe ser capaz de verte y estar dentro del alcance para hacerlo. Si responde, su respuesta se entrega directamente a tus oidos, igual que el mensaje original.
+Pronuncias unas palabras en voz baja, pero en lugar de salir de tu boca son transferidas directamente a los oidos del objetivo. Mientras que los demás no pueden oir tus palabras al no haberlas pronunciado en voz alta, el objetivo puede oirlas como si estuviera de pie junto a ti. Si quiere, el objetivo puede dar una respuesta breve como reacción, o como acción gratuita en su siguiente turno, pero debe ser capaz de verte y estar dentro del alcance para hacerlo. Si responde, su respuesta se entrega directamente a tus oidos, igual que el mensaje original.
 
 **Potenciado (3.o)** El alcance del conjuro se incrementa a 500 pies (150 m).

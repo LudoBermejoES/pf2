@@ -35,9 +35,9 @@ El Director de Juego (DJ) determina que habilidad es apropiada segun las circuns
 
 En tu turno puedes utilizar hasta **tres acciones**. Las acciones se clasifican segun su coste:
 
-### Acciones simples (1 accion)
+### Acciones simples (1 acción)
 
-| Accion | Descripcion |
+| Acción | Descripcion |
 |--------|-------------|
 | Caminar | Moverte hasta tu Velocidad |
 | Golpear | Realizar un ataque cuerpo a cuerpo o a distancia |
@@ -56,7 +56,7 @@ Algunas acciones requieren mas tiempo y consumen multiples acciones:
 | Lanzar un conjuro | Variable (1-3) | Segun el conjuro |
 | Cargar | 2 acciones | Moverte el doble de tu Velocidad |
 | Levantarse y moverse | 2 acciones | Combinacion de acciones |
-| Preparar | 2 acciones | Preparar una accion para un desencadenante |
+| Preparar | 2 acciones | Preparar una acción para un desencadenante |
 
 ### Acciones gratuitas
 
@@ -64,18 +64,18 @@ Las acciones gratuitas no cuentan para tus tres acciones por turno. Pueden tener
 
 ### Reacciones
 
-Dispones de **1 reaccion por asalto** que puedes usar incluso fuera de tu turno. Las reacciones tienen un desencadenante especifico que debe ocurrir para poder usarlas.
+Dispones de **1 reacción por asalto** que puedes usar incluso fuera de tu turno. Las reacciones tienen un desencadenante especifico que debe ocurrir para poder usarlas.
 
-| Reaccion comun | Desencadenante |
+| Reacción comun | Desencadenante |
 |----------------|----------------|
-| Ataque de Oportunidad | Una criatura en tu alcance usa accion de manipular, movimiento o ataque a distancia |
+| Ataque de Oportunidad | Una criatura en tu alcance usa acción de manipular, movimiento o ataque a distancia |
 | Escudo alzado | Recibes dano fisico mientras tienes el escudo alzado |
 
 ## Ataques y Golpes
 
 ### Realizar un ataque
 
-**Golpear** es una accion de ataque que consiste en:
+**Golpear** es una acción de ataque que consiste en:
 
 1. Elegir un objetivo dentro del alcance de tu arma
 2. Tirar 1d20 + modificador de ataque
@@ -85,8 +85,8 @@ Dispones de **1 reaccion por asalto** que puedes usar incluso fuera de tu turno.
 
 | Resultado | Efecto |
 |-----------|--------|
-| Exito critico (supera CA por 10+) | Doble dano |
-| Exito (iguala o supera CA) | Dano normal |
+| Éxito critico (supera CA por 10+) | Doble dano |
+| Éxito (iguala o supera CA) | Dano normal |
 | Fallo (por debajo de CA) | Sin efecto |
 | Fallo critico (falla por 10+) | Posibles efectos negativos adicionales |
 
@@ -102,9 +102,9 @@ Cada ataque adicional en el mismo turno sufre un penalizador acumulativo:
 
 Este penalizador se reinicia al final de tu turno. Algunas armas con el rasgo agil reducen este penalizador a -4/-8.
 
-## Tiradas de salvacion
+## Tiradas de salvación
 
-Las tiradas de salvacion representan tu capacidad para resistir efectos dañinos. Se tiran cuando algo te afecta y debes evitarlo o reducir su impacto.
+Las tiradas de salvación representan tu capacidad para resistir efectos dañinos. Se tiran cuando algo te afecta y debes evitarlo o reducir su impacto.
 
 | Tipo | Atributo | Usos comunes |
 |------|----------|--------------|
@@ -112,12 +112,12 @@ Las tiradas de salvacion representan tu capacidad para resistir efectos dañinos
 | Reflejos | Destreza | Esquivar efectos de area (bola de fuego, trampa) |
 | Voluntad | Sabiduría | Efectos mentales (hechizar, confusion, miedo) |
 
-### Grados de exito en salvaciones
+### Grados de éxito en salvaciones
 
 | Resultado | Efecto tipico |
 |-----------|---------------|
-| Exito critico | Ningun efecto o efecto muy reducido |
-| Exito | Efecto reducido (a menudo la mitad del dano) |
+| Éxito critico | Ningun efecto o efecto muy reducido |
+| Éxito | Efecto reducido (a menudo la mitad del dano) |
 | Fallo | Efecto completo |
 | Fallo critico | Efecto aumentado o consecuencias adicionales |
 
@@ -144,8 +144,8 @@ Cuando llegas a 0 PG:
 
 | Resultado de prueba plana | Efecto |
 |---------------------------|--------|
-| Exito critico | Reduces muriendo en 2 |
-| Exito | Reduces muriendo en 1 |
+| Éxito critico | Reduces muriendo en 2 |
+| Éxito | Reduces muriendo en 1 |
 | Fallo | Aumentas muriendo en 1 |
 | Fallo critico | Aumentas muriendo en 2 |
 

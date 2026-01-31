@@ -27,9 +27,9 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 - **Experto** en Percepción
 
-### Tiradas de Salvacion
+### Tiradas de Salvación
 
-| Salvacion | Rango |
+| Salvación | Rango |
 |-----------|-------|
 | Fortaleza | Experto |
 | Reflejos | Experto |

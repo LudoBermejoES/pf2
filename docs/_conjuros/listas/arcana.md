@@ -156,7 +156,7 @@ PC = poco común.
 - **[Cambiar de sitio](/conjuros/cambiar-de-sitio/) P** - Te teletransportas una distancia moderada.
 - **[Clarividencia](/conjuros/clarividencia/)** - Ves a traves de un sensor magico invisible.
 - **[Confusion](/conjuros/confusion/) P** - Confundes a una criatura, haciendo que actue de forma aleatoria.
-- **[Creacion](/conjuros/creacion/) P** - Creas un objeto temporal.
+- **[Creación](/conjuros/creacion/) P** - Creas un objeto temporal.
 - **[Detectar escudriñamiento P](/conjuros/detectar-escudriñamiento-p/), P** - Compruebas si hay efectos de escudriñamiento en la zona.
 - **[Escudo de fuego](/conjuros/escudo-de-fuego/) P** - Las llamas te protegen del frio y danan a quienes te tocan.
 - **[Espejismo P](/conjuros/espejismo-p/), P** - Disfrazas un entorno natural como si fuera otro.
@@ -255,7 +255,7 @@ PC = poco común.
 
 ## Conjuros de 9.o rango
 
-- **[Caida de estrellas](/conjuros/caida-de-estrellas/) P** - Llamas a cuatro fragmentos celestes para que, en su caida, inflijan dano contundente y elemental.
+- **[Caída de estrellas](/conjuros/caida-de-estrellas/) P** - Llamas a cuatro fragmentos celestes para que, en su caída, inflijan dano contundente y elemental.
 - **[Detonar magia](/conjuros/detonar-magia/) P** - Haces que un conjuro u objeto explote.
 - **[Fantasmagoria](/conjuros/fantasmagoria/)** - Asustas, infliges dano mental y posiblemente matas a muchos objetivos.
 - **[Implosion](/conjuros/implosion/) P** - Haces que una criatura colapso sobre si misma.

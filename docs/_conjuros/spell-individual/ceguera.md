@@ -21,9 +21,9 @@ spell_level: 3
 
 Dejas ciego al objetivo. Los efectos vienen determinados por una salvación de Fortaleza del mismo. A continuación, queda temporalmente inmune durante 1 minuto.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda cegado hasta que empieza su siguiente turno.
+**Éxito** El objetivo queda cegado hasta que empieza su siguiente turno.
 
 **Fallo** El objetivo queda cegado durante 1 minuto.
 

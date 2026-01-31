@@ -120,7 +120,7 @@ Durante tus estudios para convertirte en mago, redactaste una tesis de investiga
 
 Tienes la teoria de que los espacios de conjuro son una especie de taquigrafia para una energia subyacente que potencia todo lanzamiento de conjuros, y has encontrado la forma de manipular la jerarquia de dichos espacios, combinándolos para potenciar conjuros mas poderosos.
 
-Durante tus preparativos diarios, puedes intercambiar 2 espacios de conjuro del mismo rango por un espacio de conjuro adicional de hasta 2 rangos de conjuro superior a los intercambiados. Podras intercambiar tantos espacios de conjuro como tengas disponibles. Los espacios de conjuro adicionales tienen que ser de un rango que puedes lanzar normalmente y cada uno de ellos debe ser de un rango diferente. Tambien puedes intercambiar cualquier espacio de conjuro por 2 trucos adicionales, aunque de esta manera no puedes intercambiar a la vez mas de 1 espacio de conjuros por trucos adicionales.
+Durante tus preparativos diarios, puedes intercambiar 2 espacios de conjuro del mismo rango por un espacio de conjuro adicional de hasta 2 rangos de conjuro superior a los intercambiados. Podrás intercambiar tantos espacios de conjuro como tengas disponibles. Los espacios de conjuro adicionales tienen que ser de un rango que puedes lanzar normalmente y cada uno de ellos debe ser de un rango diferente. Tambien puedes intercambiar cualquier espacio de conjuro por 2 trucos adicionales, aunque de esta manera no puedes intercambiar a la vez mas de 1 espacio de conjuros por trucos adicionales.
 
 ### Moldeo de Conjuros Experimental
 
@@ -232,7 +232,7 @@ La magia es poder y siempre hay quienes utilizan dicho poder para el arte de la 
 
 **8.o:** grieta artica, desecar
 
-**9.o:** caida de estrellas
+**9.o:** caída de estrellas
 
 **Conjuros de escuela inicial:** rayo de fuerza
 
@@ -282,7 +282,7 @@ Tanto si has estudiado en el Occularium de Manaste como en la Academia de Magia 
 
 **3.o:** cabana acogedora, pasaje seguro
 
-**4.o:** creacion, movimiento sin restricciones
+**4.o:** creación, movimiento sin restricciones
 
 **5.o:** controlar las aguas, muro de piedra
 
@@ -464,7 +464,7 @@ Eres un lanzador de conjuros consumado, mezclando tanto la teoria arcana como el
 
 Veras el siguiente termino clave en muchas aptitudes de mago.
 
-**Moldeo de conjuros:** las acciones con el rasgo moldeo de conjuros afinan las propiedades de tus conjuros. Dichas acciones suelen proceder de dotes de moldeo de conjuros. Tienes que utilizar una accion de moldeo de conjuros directamente antes de Lanzar el conjuro que pretendes alterar. Si utilizas cualquier accion (incluyendo acciones gratuitas y reacciones) distinta a Lanzar un conjuro directamente después, desperdicias los beneficios de la accion de moldeo de conjuro. Cualquier efecto adicional anadido por una accion de moldeo de conjuros forma parte de los efectos de este, no de la accion en si.
+**Moldeo de conjuros:** las acciones con el rasgo moldeo de conjuros afinan las propiedades de tus conjuros. Dichas acciones suelen proceder de dotes de moldeo de conjuros. Tienes que utilizar una acción de moldeo de conjuros directamente antes de Lanzar el conjuro que pretendes alterar. Si utilizas cualquier acción (incluyendo acciones gratuitas y reacciones) distinta a Lanzar un conjuro directamente después, desperdicias los beneficios de la acción de moldeo de conjuro. Cualquier efecto adicional anadido por una acción de moldeo de conjuros forma parte de los efectos de este, no de la acción en si.
 
 ---
 

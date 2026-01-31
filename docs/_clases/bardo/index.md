@@ -26,7 +26,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 ### Percepción
 - Experto en Percepción
 
-### Tiradas de Salvacion
+### Tiradas de Salvación
 - Entrenado en Fortaleza
 - Entrenado en Reflejos
 - Experto en Voluntad

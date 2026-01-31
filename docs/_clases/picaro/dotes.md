@@ -58,8 +58,8 @@ Haces una habil esquiva, obteniendo un bonificados +2 por circunstancia a la CA 
 
 Incitas a un enemigo a que se estire demasiado. Si haces una Finta con éxito, puedes utilizar los siguientes efectos de éxito y éxito critico en lugar de cualquier otro de los que tienen lugar cuando Fintas.
 
-- **Exito critico:** El objetivo sufre un penalizador -2 por circunstancia a todas las tiradas de ataque contra ti antes del final de su siguiente turno.
-- **Exito:** El objetivo sufre un penalizador -2 por circunstancia a su siguiente tirada de ataque contra ti antes del final de su siguiente turno.
+- **Éxito critico:** El objetivo sufre un penalizador -2 por circunstancia a todas las tiradas de ataque contra ti antes del final de su siguiente turno.
+- **Éxito:** El objetivo sufre un penalizador -2 por circunstancia a su siguiente tirada de ataque contra ti antes del final de su siguiente turno.
 
 ---
 
@@ -209,11 +209,11 @@ Tus movimientos con dos armas son tan rápidos y desorientadores que confunden a
 
 Aplicas veneno de contacto o de herida al arma requerida; si tienes una mano libre, puedes Interactuar para sacar un veneno como parte de esta acción. Dicho veneno puede ser uno de los venenos simples de herida que puedes crear debido a esta dote (ver Especial), o bien cualquier otro veneno de contacto o de herida adquirido por ti.
 
-**Especial:** Durante tus preparativos diarios, puedes preparar tantas dosis de veneno de herida sencillo como tu nivel de picaro. Dichos venenos siguen las reglas de los venenos de herida excepto porque infligen 1d4 dano por veneno sin tirada de salvacion. Tan solo tu puedes aplicar adecuadamente estos venenos, que expiran la siguiente vez que preparas.
+**Especial:** Durante tus preparativos diarios, puedes preparar tantas dosis de veneno de herida sencillo como tu nivel de picaro. Dichos venenos siguen las reglas de los venenos de herida excepto porque infligen 1d4 dano por veneno sin tirada de salvación. Tan solo tu puedes aplicar adecuadamente estos venenos, que expiran la siguiente vez que preparas.
 
 ---
 
-### Mas Dura Sera la Caida
+### Mas Dura Sera la Caída
 
 **Nivel 4** | **Rasgos:** Picaro
 
@@ -233,7 +233,7 @@ Capitalizas los miedos de tu enemigo para traspasar sus defensas. Toda criatura 
 
 **Nivel 4** | **Rasgos:** Picaro
 
-**Desencadenante:** Un enemigo adyacente se aparta de ti y puedes alcanzar por lo menos un espacio adyacente al mismo con una accion de Zancada.
+**Desencadenante:** Un enemigo adyacente se aparta de ti y puedes alcanzar por lo menos un espacio adyacente al mismo con una acción de Zancada.
 
 Mantienes la distancia con un enemigo que se retira. Das una Zancada, pero tienes que acabar el movimiento adyacente al enemigo desencadenante. Tu movimiento no desencadena reacciones por parte del enemigo desencadenante. Puedes utilizar Persecución reactiva cuando Excavas, Trepas, Vuelas o Nadas en lugar de dar Zancadas si dispones del tipo de movimiento correspondiente.
 
@@ -253,8 +253,8 @@ Da un Golpe cuerpo a cuerpo sin armas contra un objetivo tumbado. Si aciertas, h
 
 Observando a un oponente, puedes hacerte una idea de su proximo movimiento y prepararte para contrarrestarlo o resistirlo. Elige un objetivo y haz una prueba de Percepción para Averiguar intenciones contra la CD de Engano del objetivo o una CD difícil del nivel del enemigo, la mayor de ambas.
 
-- **Exito critico:** Disciernes con precision la estrategia del objetivo, obteniendo un bonificados +2 por circunstancia a la CA contra la criatura hasta el inicio de tu siguiente turno y un bonificados +2 por circunstancia a tu siguiente tirada de salvación contra la criatura antes del inicio de tu siguiente turno.
-- **Exito:** Deduces lo mas importante de la estrategia del objetivo; como éxito critico, excepto que el bonificados por circunstancia es tan solo +1.
+- **Éxito critico:** Disciernes con precision la estrategia del objetivo, obteniendo un bonificados +2 por circunstancia a la CA contra la criatura hasta el inicio de tu siguiente turno y un bonificados +2 por circunstancia a tu siguiente tirada de salvación contra la criatura antes del inicio de tu siguiente turno.
+- **Éxito:** Deduces lo mas importante de la estrategia del objetivo; como éxito critico, excepto que el bonificados por circunstancia es tan solo +1.
 - **Fallo:** No consigues discernir la estrategia del objetivo y no obtienes beneficio alguno.
 - **Fallo critico:** Malinterpretas la estrategia del objetivo, sufriendo un penalizador -1 por circunstancia a la CA contra la criatura hasta el inicio de tu siguiente turno y un penalizador -1 por circunstancia a tu siguiente tirada de salvación contra la criatura antes del inicio de tu siguiente turno.
 
@@ -268,8 +268,8 @@ Observando a un oponente, puedes hacerte una idea de su proximo movimiento y pre
 
 Danas sutilmente el equipo de otro. Elige un objeto que una criatura a tu alcance empuja o lleva encima. El objeto debe tener partes moviles que seas capaz de sabotear (un arco corto podría serlo, pero no una espada larga). Haz una prueba de Latrocinio contra la CD de Reflejos de la criatura. El dano infligido por Sabotaje no puede dejar al objeto por debajo de su Umbral de rotura.
 
-- **Exito critico:** Infliges un dano igual a 4 x tu bonificados por competencia en Latrocinio.
-- **Exito:** Infliges un dano igual a 2 x tu bonificados por competencia en Latrocinio.
+- **Éxito critico:** Infliges un dano igual a 4 x tu bonificados por competencia en Latrocinio.
+- **Éxito:** Infliges un dano igual a 2 x tu bonificados por competencia en Latrocinio.
 - **Fallo critico:** El objetivo queda temporalmente inmune a tu Sabotaje durante 1 dia.
 
 ---
@@ -332,7 +332,7 @@ Puedes Desarmar a una criatura usando la mana en lugar de la fuerza bruta. Puede
 
 **Prerrequisitos:** Rango entrenado en Atletismo
 
-**Requisitos:** Tu ultima accion ha sido un Empujón con exito.
+**Requisitos:** Tu ultima acción ha sido un Empujón con éxito.
 
 Haces palanca con tu peso para hacer caer a los enemigos a los que mueves. Tratas de Derribar al objetivo, incluso si ya no esta a tu alcance.
 
@@ -366,7 +366,7 @@ No te preocupan los suelos irregulares. Cuando das una Zancada o un Paso, puedes
 
 **Nivel 6** | **Rasgos:** Picaro
 
-**Requisitos:** Tu ultima accion ha sido un Golpe cuerpo a cuerpo que ha infligido dano por ataque furtivo a un objetivo desprevenido.
+**Requisitos:** Tu ultima acción ha sido un Golpe cuerpo a cuerpo que ha infligido dano por ataque furtivo a un objetivo desprevenido.
 
 Tras apunalar a tu oponente en un punto debil, ahondas en la herida. Infliges tanto dano persistente por sangrado al objetivo como tu numero de dados de dano por ataque furtivo.
 
@@ -502,8 +502,8 @@ Cuando tu aliado acierta a tu enemigo, capitalizas la distracción subsiguiente.
 
 Tratas de atascar los mecanismos de una trampa para retrasar sus efectos. Haz una prueba de Latrocinio para Inutilizar un mecanismo de la trampa con los resultados siguientes en lugar de los normales para dicha acción.
 
-- **Exito critico:** O bien evitas que la trampa se active, o bien retrasas la activación hasta el inicio o el final de tu siguiente turno.
-- **Exito:** Como mas arriba, pero el DJ es quien elige lo que resulta peor para ti.
+- **Éxito critico:** O bien evitas que la trampa se active, o bien retrasas la activación hasta el inicio o el final de tu siguiente turno.
+- **Éxito:** Como mas arriba, pero el DJ es quien elige lo que resulta peor para ti.
 - **Fallo:** No hay efecto.
 - **Fallo critico:** Quedas desprevenido hasta el inicio de tu siguiente turno.
 
@@ -606,8 +606,8 @@ Eres lo suficientemente astuto como para encontrar una abertura en el ataque de 
 Tus debilitaciones son especialmente efectivas en tus ataques mas poderosos. Siempre que obtienes un éxito critico en una tirada de ataque contra un enemigo y utilizas Golpe debilitante, anade la siguiente debilitación a la lista de la que puedes elegir.
 
 - **Debilitación:** El objetivo hace una salvación de Fortaleza contra tu CD de clase con los siguientes efectos.
-  - **Exito critico:** El objetivo no resulta afectado.
-  - **Exito:** El objetivo queda lentificado 1 hasta el final de tu siguiente turno.
+  - **Éxito critico:** El objetivo no resulta afectado.
+  - **Éxito:** El objetivo queda lentificado 1 hasta el final de tu siguiente turno.
   - **Fallo:** El objetivo queda lentificado 2 hasta el final de tu siguiente turno.
   - **Fallo critico:** El objetivo queda paralizado hasta el final de tu siguiente turno.
 
@@ -631,8 +631,8 @@ Tus ataques cortan arterias y venas. Anade las siguientes debilitaciones a la li
 
 Tus ataques a distancia pueden derribar a un enemigo volador no preparado. Da un Golpe a distancia contra una criatura desprevenida. Si es un éxito e inflige dano, el objetivo debe hacer una salvación de Reflejos contra tu CD de clase.
 
-- **Exito:** El objetivo no resulta afectado.
-- **Fallo:** El objetivo cae hasta 120 pies (36 m). Si impacta contra el suelo, no sufre dano debido a la caida.
+- **Éxito:** El objetivo no resulta afectado.
+- **Fallo:** El objetivo cae hasta 120 pies (36 m). Si impacta contra el suelo, no sufre dano debido a la caída.
 - **Fallo critico:** Igual que fallo, y el objetivo no puede volar, saltar, levitar o abandonar el suelo de ninguna otra forma hasta el final de tu siguiente turno.
 
 ---
@@ -651,7 +651,7 @@ Mientras estas en Posición de rebote, puedes hacer rebotar contra un enemigo un
 
 **Nivel 12** | **Rasgos:** Picaro
 
-**Desencadenante:** Un enemigo adyacente empieza a utilizar una reaccion.
+**Desencadenante:** Un enemigo adyacente empieza a utilizar una reacción.
 
 Agarrando de una manga, dando un tajo con el arma o creando alguna otra obstrucción, haces fracasar de forma reflexiva una respuesta enemiga. Si el nivel de la criatura desencadenante es igual o menor que el tuyo, perturbas la reacción desencadenante. Si el nivel de la criatura desencadenante es mayor que el tuyo, tienes que hacer una tirada de ataque contra su CA. Con un éxito, perturbas la reacción.
 
@@ -679,7 +679,7 @@ Saltando desde un escondrijo, atacas a tu objetivo cuando menos se lo espera. Da
 
 Te lanzas contra el enemigo a traves del aire. Haz un Salto de altura o un Salto de longitud. Si haces un Salto de altura, determina la altura del mismo como si determinaras la longitud de un Salto de longitud. Al final de tu salto, puedes dar un Golpe cuerpo a cuerpo.
 
-Después de tu Golpe, caes al suelo si estas en el aire. Si la distancia de tu caida no es mayor que la altura de tu salto, no sufres dano y caes de pie.
+Después de tu Golpe, caes al suelo si estas en el aire. Si la distancia de tu caída no es mayor que la altura de tu salto, no sufres dano y caes de pie.
 
 ---
 
@@ -799,7 +799,7 @@ Esto te proporciona pistas y detalles del pasado, incluyendo los sucesos en gene
 
 Puedes encontrar un resquicio en un efecto mental que te permite superarlo temporalmente. Hasta el final de tu siguiente turno, ignoras un solo efecto mental. Puedes suprimir un efecto en particular utilizando Resquicio cognitivo solo una vez. No puedes usar Resquicio cognitivo para suprimir un efecto que has elegido que te afecte.
 
-**Especial:** Puedes utilizar esta reaccion incluso si el efecto mental te impide utilizar reacciones.
+**Especial:** Puedes utilizar esta reacción incluso si el efecto mental te impide utilizar reacciones.
 
 ---
 
@@ -867,7 +867,7 @@ Te intercambias de forma reactiva con tu señuelo para frustrar a tu enemigo. Ut
 
 **Frecuencia:** Una vez por hora
 
-**Desencadenante:** Utilizas con exito Sigilo para Esconderte y permanecer escondido de todos tus enemigos actuales, o bien utilizas Sigilo para Moverte furtivamente y permanecer no detectado ante todos tus enemigos actuales.
+**Desencadenante:** Utilizas con éxito Sigilo para Esconderte y permanecer escondido de todos tus enemigos actuales, o bien utilizas Sigilo para Moverte furtivamente y permanecer no detectado ante todos tus enemigos actuales.
 
 Cuando se te antoja que nadie te vea, desapareces por completo. Te vuelves invisible durante 1 minuto, incluso si llevas a cabo una acción hostil. Ni siquiera luz reveladora, ver lo invisible o efectos similares pueden revelarte, aunque las criaturas pueden seguir utilizando la acción Buscar para localizarte de la forma normal.
 

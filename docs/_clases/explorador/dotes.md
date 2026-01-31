@@ -214,7 +214,7 @@ Puedes utilizar las dos armas para desviar ataques. Obtienes un bonificados +1 p
 
 **Rasgos:** Explorador
 
-**Desencadenante:** Tu presa perseguida esta a tu alcance y utiliza una accion de manipular, una accion de movimiento o abandona una casilla durante una accion de movimiento que esta utilizando.
+**Desencadenante:** Tu presa perseguida esta a tu alcance y utiliza una acción de manipular, una acción de movimiento o abandona una casilla durante una acción de movimiento que esta utilizando.
 
 Da un Golpe cuerpo a cuerpo contra tu presa perseguida. Si el ataque resulta en un impacto critico, perturbas la acción desencadenante.
 
@@ -314,7 +314,7 @@ Si tiras Supervivencia para calcular la iniciativa al rastrear a tu presa perseg
 
 **Rasgos:** Explorador
 
-**Desencadenante:** Obtienes un exito o un exito critico en una prueba para Recordar conocimiento sobre tu presa perseguida.
+**Desencadenante:** Obtienes un éxito o un éxito critico en una prueba para Recordar conocimiento sobre tu presa perseguida.
 
 Examinas rapidamente el campo de batalla, recordando detalles críticos acerca de multiples oponentes a los que te enfrentas. Haces de inmediato una prueba para Recordar conocimiento acerca de una criatura diferente que puedes percibir.
 
@@ -616,7 +616,7 @@ Tu compañero animal continua creciendo en poder y aptitudes, y ahora es lo sufi
 
 **Frecuencia:** una vez por asalto
 
-**Requisitos:** Tu ultima accion o actividad este turno fue lanzar un conjuro de guardian.
+**Requisitos:** Tu ultima acción o actividad este turno fue lanzar un conjuro de guardian.
 
 Tu dominio de la magia y de las armas como la ballesta te permite empujar ambas cosas con la misma facilidad. Interactuó para recargar un arma que actualmente Empujas.
 

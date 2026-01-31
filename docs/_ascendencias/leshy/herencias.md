@@ -16,7 +16,7 @@ La herencia de un leshy representa los beneficios que obtiene de su cuerpo. Elig
 
 Tienes una gran calabaza como craneo y, como careces de cerebro fisico, puedes utilizar el espacio que hay dentro de tu cabeza.
 
-**Beneficio:** Allí puedes guardar una coleccion de objetos de hasta Impedimenta 1. La CD de las pruebas para Robar objetos del interior de tu cabeza se incrementa en 4. Ademas, si solo almacenas un objeto en tu cabeza, puedes extraerlo sin esfuerzo a tu mano como parte de otra accion de utilizarlo. Extraer el objeto concede a esta otra accion el rasgo manipular.
+**Beneficio:** Allí puedes guardar una coleccion de objetos de hasta Impedimenta 1. La CD de las pruebas para Robar objetos del interior de tu cabeza se incrementa en 4. Ademas, si solo almacenas un objeto en tu cabeza, puedes extraerlo sin esfuerzo a tu mano como parte de otra acción de utilizarlo. Extraer el objeto concede a esta otra acción el rasgo manipular.
 
 ---
 
@@ -32,7 +32,7 @@ Tu cuerpo esta hecho de algas marinas tejidas, y te sientes tan comodo bajo el a
 
 Tu cuerpo fabrica continuamente pequenas frutas imbuidas de magia primigenia.
 
-**Beneficio:** Al amanecer de cada dia, madura una nueva fruta. Tu o un aliado tuyo puede extraer dicha fruta como una accion de Interactuar. Si una criatura viva que puede derivar sustento de la fruta la consume como una accion de Interactuar durante la siguiente hora, recupera 1d8 Puntos de Golpe ademas de 1d8 Puntos de Golpe adicionales por cada 2 de tus niveles mas alla del 1.o. Este efecto tiene los rasgos curacion y vitalidad.
+**Beneficio:** Al amanecer de cada dia, madura una nueva fruta. Tu o un aliado tuyo puede extraer dicha fruta como una acción de Interactuar. Si una criatura viva que puede derivar sustento de la fruta la consume como una acción de Interactuar durante la siguiente hora, recupera 1d8 Puntos de Golpe ademas de 1d8 Puntos de Golpe adicionales por cada 2 de tus niveles mas alla del 1.o. Este efecto tiene los rasgos curacion y vitalidad.
 
 ---
 
@@ -40,7 +40,7 @@ Tu cuerpo fabrica continuamente pequenas frutas imbuidas de magia primigenia.
 
 Tu cuerpo esta hecho principalmente de follaje natural y, como una hoja que cae de un árbol, aterrizas de las caídos con una gracia particular.
 
-**Beneficio:** No sufres dano alguno por caida, sea cual sea la distancia que caes.
+**Beneficio:** No sufres dano alguno por caída, sea cual sea la distancia que caes.
 
 ---
 
@@ -48,7 +48,7 @@ Tu cuerpo esta hecho principalmente de follaje natural y, como una hoja que cae 
 
 Tu cuerpo esta hecho de recias raíces que te fijan al suelo con firmeza.
 
-**Beneficio:** Obtienes 10 Puntos de Golpe debido a tu ascendencia en lugar de 8. Puedes subsistir sin luz solar durante 2 semanas antes de empezar a pasar hambre. Obtienes un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra intentos de Reposicionarte, Empujarte o Derribarte. Este bonificador tambien se aplica a las tiradas de salvacion contra conjuros o efectos que intentan moverte o tumbarte.
+**Beneficio:** Obtienes 10 Puntos de Golpe debido a tu ascendencia en lugar de 8. Puedes subsistir sin luz solar durante 2 semanas antes de empezar a pasar hambre. Obtienes un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra intentos de Reposicionarte, Empujarte o Derribarte. Este bonificador tambien se aplica a las tiradas de salvación contra conjuros o efectos que intentan moverte o tumbarte.
 
 ---
 
@@ -56,7 +56,7 @@ Tu cuerpo esta hecho de recias raíces que te fijan al suelo con firmeza.
 
 Tus zarcillos prensiles te conceden una habilidad incomparable a la hora de trepar.
 
-**Beneficio:** No necesitas tener ninguna mano libre para Trepar. Ademas, si obtienes un exito en una prueba de Atletismo para Trepar, en su lugar obtienes un exito critico.
+**Beneficio:** No necesitas tener ninguna mano libre para Trepar. Ademas, si obtienes un éxito en una prueba de Atletismo para Trepar, en su lugar obtienes un éxito critico.
 
 ---
 

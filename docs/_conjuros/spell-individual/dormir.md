@@ -20,11 +20,11 @@ spell_level: 1
 
 ---
 
-Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepción con exito, lo que limita su utilidad en combate.
+Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepción con éxito, lo que limita su utilidad en combate.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre un penalizador -1 por estatus a sus pruebas de Percepción durante 1 asalto.
+**Éxito** La criatura sufre un penalizador -1 por estatus a sus pruebas de Percepción durante 1 asalto.
 
 **Fallo** La criatura queda inconsciente. Si sigue inconsciente al cabo de 1 minuto, se despierta automaticamente.
 

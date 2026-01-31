@@ -18,4 +18,4 @@ spell_level: 4
 
 ---
 
-Repeles los obstáculos que afectarian a una criatura. Mientras se encuentra bajo los efectos de este conjuro, el objetivo ignora aquellos que le impondrían un penalizador por circunstancia a la velocidad. Cuando trata de Huir de un efecto que le tiene agarrado, inmovilizado o neutralizado, tiene exito de forma automatica si el efecto no es magico y de un rango mayor que el del conjuro movimiento sin restricciones.
+Repeles los obstáculos que afectarian a una criatura. Mientras se encuentra bajo los efectos de este conjuro, el objetivo ignora aquellos que le impondrían un penalizador por circunstancia a la velocidad. Cuando trata de Huir de un efecto que le tiene agarrado, inmovilizado o neutralizado, tiene éxito de forma automatica si el efecto no es magico y de un rango mayor que el del conjuro movimiento sin restricciones.

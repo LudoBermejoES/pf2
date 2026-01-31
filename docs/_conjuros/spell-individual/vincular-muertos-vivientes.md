@@ -18,4 +18,4 @@ spell_level: 3
 
 ---
 
-Mediante una palabra de poder, tomas el control del objetivo. Este obtiene el rasgo esbirro. Si tu o un aliado tuyo utilizais cualquier otra accion hostil contra el objetivo, el conjuro se acaba.
+Mediante una palabra de poder, tomas el control del objetivo. Este obtiene el rasgo esbirro. Si tu o un aliado tuyo utilizais cualquier otra acción hostil contra el objetivo, el conjuro se acaba.

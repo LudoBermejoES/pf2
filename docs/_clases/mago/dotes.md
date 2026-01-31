@@ -106,7 +106,7 @@ Moldeando las energias magicas y los parametros de tus conjuros en tu cabeza med
 
 ## Dotes de Nivel 4
 
-### Despliegue de Proteccion de Conjuros ◆
+### Despliegue de Protección de Conjuros ◆
 
 **Nivel 4** | **Rasgos:** Arcano, Mago, Manipular
 
@@ -120,7 +120,7 @@ Inscribes un circulo de runas arcanas que amortiguan la magia de tus enemigos. C
 
 **Frecuencia:** una vez por turno
 
-**Requisitos:** Tu accion mas reciente fue lanzar un conjuro, no un truco.
+**Requisitos:** Tu acción mas reciente fue lanzar un conjuro, no un truco.
 
 Vehículos la energia del conjuro a un arma que estas empuñando, o a uno de tus ataques sin armas, como por ejemplo un puñetazo. Hasta el final de tu turno, el arma o el ataque sin armas inflige 1d6 dano por fuerza adicional y obtiene el rasgo arcano si no lo tenia. Si el conjuro inflige un tipo diferente de dano, el Golpe inflige en su lugar ese tipo de dano (o un tipo a tu elección si el conjuro pudiera infligir multiples tipos de dano).
 
@@ -162,7 +162,7 @@ Puedes preparar dos conjuros en un espacio, lo que te concede la libertad de ele
 
 **Prerrequisitos:** experto en Engano
 
-**Desencadenante:** Una criatura tiene exito, pero no exito critico, en una prueba de Percepción o una salvacion de Voluntad para descreer una ilusion de un conjuro que has lanzado.
+**Desencadenante:** Una criatura tiene éxito, pero no éxito critico, en una prueba de Percepción o una salvación de Voluntad para descreer una ilusion de un conjuro que has lanzado.
 
 **Requisitos:** Estas a 30 pies (9 m) o menos del observador y de la ilusion.
 
@@ -210,7 +210,7 @@ Obtienes acceso a las enseñanzas avanzadas de tu institución arcana, aprendien
 
 **Prerrequisitos:** vinculo arcano
 
-**Requisitos:** La ultima accion que has utilizado ha sido Lanzar un conjuro mediante Drenar objeto vinculado.
+**Requisitos:** La ultima acción que has utilizado ha sido Lanzar un conjuro mediante Drenar objeto vinculado.
 
 Manipulando de forma eficiente cuidadosa las energias arcanas desatadas por tu objeto vinculado, puedes conservar exactamente el poder necesario para lanzar otro conjuro, aunque este segundo es ligeramente mas debil. Obtienes un uso adicional de Drenar objeto vinculado. Puedes utilizarlo para lanzar un conjuro 2 o mas rangos inferior al anterior, y hacerlo antes del final de tu siguiente turno, o lo pierdes.
 
@@ -376,7 +376,7 @@ No puedes utilizar esta dote si los beneficios de conjuro han sido ya utilizados
 
 **Nivel 18** | **Rasgos:** Concentrar, Mago, Mental
 
-**Desencadenante:** Has lanzado un conjuro mental que designa como objetivo a una criatura, y esta obtiene un exito critico en su salvacion de Voluntad.
+**Desencadenante:** Has lanzado un conjuro mental que designa como objetivo a una criatura, y esta obtiene un éxito critico en su salvación de Voluntad.
 
 Cuando tu objetivo se resiste a tus enganos mágicos, puedes probar de nuevo sobre otro objetivo. Puedes Lanzar el conjuro desencadenante una segunda vez, designando como objetivo a una criatura diferente, sin gastar un espacio de conjuro adicional. Solo puedes hacerlo hasta el final de tu siguiente turno, y no puedes utilizar Pensandolo bien en dicho turno tras el segundo lanzamiento del conjuro.
 
@@ -454,7 +454,7 @@ Has dominado los secretos mas grandes de la magia arcana. Obtienes un espacio de
 | Contraconjuro | 1 |
 | Contraconjuro astuto | 12 |
 | Despliegue de detonacion secundaria | 14 |
-| Despliegue de proteccion de conjuros | 4 |
+| Despliegue de protección de conjuros | 4 |
 | Detección magica entusiasta | 12 |
 | Encantar golpes | 4 |
 | Energia abrumadora | 10 |

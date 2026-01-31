@@ -19,7 +19,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 Te criaron para ser ambicioso y aspirar siempre a las estrellas, lo que hizo que progresaras rapidamente en tu campo elegido.
 
-**Beneficio:** Obtienes una dote de clase de 1.er nivel para tu clase. Debes cumplir los prerrequisitos, pero puedes seleccionar la dote mas adelante en el proceso de creacion de personaje a fin de determinar que prerrequisitos cumples.
+**Beneficio:** Obtienes una dote de clase de 1.er nivel para tu clase. Debes cumplir los prerrequisitos, pero puedes seleccionar la dote mas adelante en el proceso de creación de personaje a fin de determinar que prerrequisitos cumples.
 
 ---
 
@@ -39,7 +39,7 @@ Si estas entrenado en todas las armas marciales, en su lugar puedes elegir una a
 
 Tu adaptabilidad se manifiesta en tu dominio de un amplio abanico de aptitudes utiles.
 
-**Beneficio:** Obtienes una dote general de 1.er nivel. Debes cumplir los prerrequisitos de la dote pero, si la seleccionas durante la creacion de personaje, puedes seleccionarla mas tarde en el proceso a fin de determinar que prerrequisitos cumples.
+**Beneficio:** Obtienes una dote general de 1.er nivel. Debes cumplir los prerrequisitos de la dote pero, si la seleccionas durante la creación de personaje, puedes seleccionarla mas tarde en el proceso a fin de determinar que prerrequisitos cumples.
 
 **Especial:** Puedes seleccionar esta dote en multiples ocasiones, eligiendo una dote diferente cada vez.
 
@@ -68,7 +68,7 @@ La corta esperanza de vida humana concede perspectiva y te ha ensenado desde una
 
 Tu poderoso yo hace difícil que los demás te den ordenes.
 
-**Beneficio:** Si obtienes un exito en una tirada de salvacion contra un efecto mental que intenta controlar directamente tus acciones, en su lugar obtienes un exito critico. Si una criatura sufre un fallo en una prueba para Obligarte utilizando la Intimidación, en su lugar sufre un fallo critico (por lo que no puede intentar Obligarte de nuevo durante 1 semana).
+**Beneficio:** Si obtienes un éxito en una tirada de salvación contra un efecto mental que intenta controlar directamente tus acciones, en su lugar obtienes un éxito critico. Si una criatura sufre un fallo en una prueba para Obligarte utilizando la Intimidación, en su lugar sufre un fallo critico (por lo que no puede intentar Obligarte de nuevo durante 1 semana).
 
 ---
 
@@ -125,7 +125,7 @@ Como muchos humanos criados en una comunidad cerrada, siempre has estado fuertem
 
 Has desarrollado un vinculo anímico con tus camaradas y mantienes con ellos un grado aun mayor de cooperación.
 
-**Beneficio:** Si tienes por lo menos el rango experto en la habilidad en la que estas Prestando ayuda, cuando sufres un fallo o un fallo critico Prestando ayuda en una prueba de habilidad, en su lugar obtienes un exito.
+**Beneficio:** Si tienes por lo menos el rango experto en la habilidad en la que estas Prestando ayuda, cuando sufres un fallo o un fallo critico Prestando ayuda en una prueba de habilidad, en su lugar obtienes un éxito.
 
 ---
 
@@ -158,7 +158,7 @@ Si tienes la herencia versatil aiuvarin, no necesitas cumplir los prerrequisitos
 
 Tu educación puso énfasis en la labor de equipo, y ayudar a tus aliados es para ti algo natural.
 
-**Beneficio:** Después de Prestar ayuda a un aliado en una prueba de habilidad que no tiene el rasgo ataque, tambien puedes Prestar ayuda a cualquier otro aliado que lleva a cabo la misma prueba de habilidad para el mismo proposito ese mismo asalto. En ese caso, la accion se considera gratuita en lugar de una reaccion.
+**Beneficio:** Después de Prestar ayuda a un aliado en una prueba de habilidad que no tiene el rasgo ataque, tambien puedes Prestar ayuda a cualquier otro aliado que lleva a cabo la misma prueba de habilidad para el mismo proposito ese mismo asalto. En ese caso, la acción se considera gratuita en lugar de una reacción.
 
 La preparación que hiciste para ayudar tiene que poderse aplicar a los otros aliados, y tan solo puedes Prestar ayuda a cada aliado una vez. Por ejemplo, si has ayudado a aupar a un aliado para Prestarle ayuda en una prueba de Atletismo para escalar una pared, podrías mantener la misma postura para aupar a otros aliados que intentan escalar la pared en el mismo asalto.
 
@@ -191,7 +191,7 @@ A lo largo de tu vida aventurera, tu adaptabilidad te ha permitido obtener numer
 
 Los humanos son famosos por su aptitud de persistir a lo largo de las pruebas mas penosas, que dejarían a otros a punto de desplomarse.
 
-**Beneficio:** Cuando quedarias fatigado, haz una prueba plana CD 17. Con un exito, no estas fatigado. Si el estado fatigado tiene una causa subyacente que no remedias, como por ejemplo la falta de descanso, deberas hacer la prueba de nuevo en un intervalo determinado por el DJ hasta que falles la prueba plana o remedies la causa subyacente.
+**Beneficio:** Cuando quedarias fatigado, haz una prueba plana CD 17. Con un éxito, no estas fatigado. Si el estado fatigado tiene una causa subyacente que no remedias, como por ejemplo la falta de descanso, deberas hacer la prueba de nuevo en un intervalo determinado por el DJ hasta que falles la prueba plana o remedies la causa subyacente.
 
 ---
 
@@ -217,4 +217,4 @@ Te recuperas de las experiencias cercanas a la muerte con una resiliencia sorpre
 
 La sangre de los heroes recorre tus venas e inspiras a tus aliados para armarse de valor y encontrar un nuevo nivel de resolución.
 
-**Beneficio:** Concedes hasta a 10 criaturas voluntarias a 30 pies (9 m) o menos los efectos de un conjuro de *conviccion celosa* de 6.o rango, aunque el efecto acaba automaticamente sobre un objetivo si le das una orden que normalmente encontraria repugnante. Esta accion tendra el rasgo auditivo o visual, dependiendo de como inspires a tus aliados.
+**Beneficio:** Concedes hasta a 10 criaturas voluntarias a 30 pies (9 m) o menos los efectos de un conjuro de *conviccion celosa* de 6.o rango, aunque el efecto acaba automaticamente sobre un objetivo si le das una orden que normalmente encontraria repugnante. Esta acción tendra el rasgo auditivo o visual, dependiendo de como inspires a tus aliados.

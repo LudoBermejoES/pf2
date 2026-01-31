@@ -24,9 +24,9 @@ spell_level: TRUCO
 
 Un zarcillo aparece de la nada, girando rapidamente desde tu mano y aferrándose al objetivo. Haz una tirada de ataque de conjuros contra el objetivo.
 
-**Exito critico** El objetivo sufre el estado inmovilizado, y un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador y el estado de inmovilizado.
+**Éxito critico** El objetivo sufre el estado inmovilizado, y un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador y el estado de inmovilizado.
 
-**Exito** El objetivo sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador.
+**Éxito** El objetivo sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador.
 
 **Fallo** El objetivo no resulta afectado.
 

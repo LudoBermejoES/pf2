@@ -22,10 +22,10 @@ spell_level: 6
 
 Haces que cualquier conjuro lanzado sobre el objetivo descargue su energia en oleadas dañinas. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** Cuando el objetivo resulta afectado por un conjuro con duracion, sufre 2d12 daño persistente por fuerza. Cada vez que sufre daño persistente por fuerza debido a arruinaconjuros, reduce en 1 asalto la duracion restante de los conjuros que le afectan. Solo una prueba con exito de Arcanos contra tu CD de conjuros puede ayudar al objetivo a recuperarse del daño persistente; la maldición y el daño persistente acaban después de 1 minuto.
+**Éxito** Cuando el objetivo resulta afectado por un conjuro con duracion, sufre 2d12 daño persistente por fuerza. Cada vez que sufre daño persistente por fuerza debido a arruinaconjuros, reduce en 1 asalto la duracion restante de los conjuros que le afectan. Solo una prueba con éxito de Arcanos contra tu CD de conjuros puede ayudar al objetivo a recuperarse del daño persistente; la maldición y el daño persistente acaban después de 1 minuto.
 
-**Fallo** Igual que exito, pero la maldición y el daño persistente no acaban por si solos.
+**Fallo** Igual que éxito, pero la maldición y el daño persistente no acaban por si solos.
 
 **Fallo critico** Igual que fallo, pero el daño persistente por fuerza es 4d12.

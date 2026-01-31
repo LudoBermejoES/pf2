@@ -20,9 +20,9 @@ spell_level: 3
 
 Dilatas el flujo de tiempo alrededor del objetivo, lentificando sus acciones.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda lentificado 1 durante 1 asalto.
+**Éxito** El objetivo queda lentificado 1 durante 1 asalto.
 
 **Fallo** El objetivo queda lentificado 1 durante 1 minuto.
 

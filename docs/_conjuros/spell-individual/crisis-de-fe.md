@@ -19,11 +19,11 @@ spell_level: 3
 
 ---
 
-Asaltas la fe del objetivo, llenandole de dudas y de inquietud mental que le infligen 6d6 daño mental o 6d8 daño mental si puede lanzar conjuros divinos. Los efectos vienen determinados por su salvacion de Voluntad.
+Asaltas la fe del objetivo, llenandole de dudas y de inquietud mental que le infligen 6d6 daño mental o 6d8 daño mental si puede lanzar conjuros divinos. Los efectos vienen determinados por su salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo sufre mitad de daño.
+**Éxito** El objetivo sufre mitad de daño.
 
 **Fallo** El objetivo sufre daño completo; si puede lanzar conjuros divinos, queda anonadado 1 durante 1 asalto.
 

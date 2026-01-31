@@ -69,7 +69,7 @@ Las dotes representan aptitudes individuales y especializaciones:
 
 - Permiten personalizar al personaje mas alla de su clase
 - Pueden ser de ascendencia, clase, habilidad o generales
-- Se obtienen al subir de nivel o por elecciones de creacion
+- Se obtienen al subir de nivel o por elecciones de creación
 
 ### Habilidades
 

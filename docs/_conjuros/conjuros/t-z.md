@@ -46,7 +46,7 @@ El conjuro es altamente impreciso y apareces a 1d20 x 25 millas (1 milla = 1,6 k
 Agitas el suelo, haces caer criaturas en brechas y derrumbas estructuras. El DJ podría añadir efectos adicionales en determinadas areas. Un acantilado podría derrumbarse, haciendo que las criaturas caigan por el, o un lago podría quedar drenado al abrirse fisuras bajo su superficie, dejando un pantano de arenas movedizas.
 
 - **Temblor de tierra** El suelo se convierte en terreno difícil, y las criaturas que lo pisan sufren un penalizador -2 por circunstancia a las tiradas de ataque, CA y pruebas de habilidad.
-- **Fisuras** Cada criatura a ras de suelo tiene que hacer una salvación de Reflejos al inicio de su turno para vigilar donde pisa y evitar una caida a una de las fisuras de 40 pies (12 m) de profundidad que se abren a sus pies. Las fisuras son permanentes y sus lados requieren pruebas con éxito de Atletismo CD 15 para Trepar.
+- **Fisuras** Cada criatura a ras de suelo tiene que hacer una salvación de Reflejos al inicio de su turno para vigilar donde pisa y evitar una caída a una de las fisuras de 40 pies (12 m) de profundidad que se abren a sus pies. Las fisuras son permanentes y sus lados requieren pruebas con éxito de Atletismo CD 15 para Trepar.
 - **Derrumbe** Las estructuras y los techos podrían derrumbarse. El DJ hace una prueba plana para cada una de ellas (CD 16 para una estructura recia, CD 14 para una estructura normal y la mayoría de formaciones naturales, CD 9 para una estructura de mala calidad, todo ello ajustado hacia arriba o hacia abajo segun su criterio). Un colapso inflige 11d6 dano contundente a toda criatura atrapada en el mismo, que tiene que hacer una salvación basica de Reflejos. Una criatura queda tumbada si no obtiene un éxito critico, y cae a una grieta si sufre un fallo critico.
 
 **Potenciado (10.º)** Creas un terremoto enorme que puede devastar un asentamiento. El alcance se incrementa a media milla (800 m) y el area a una explosion de un cuarto de milla (400 m).
@@ -61,9 +61,9 @@ Agitas el suelo, haces caer criaturas en brechas y derrumbas estructuras. El DJ 
 
 Haces oscilar un arma que estas empuñando, que se multiplica magicamente en duplicados que atacan a todas las criaturas, o bien en un cono, o bien en una emanación. Esta ráfaga inflige 4 dados de dano a las criaturas en el area. El dano tiene el mismo tipo que el arma y utiliza el mismo tamaño de dado. Determina el tamaño de dado como si estuvieras atacando con el arma; por ejemplo, si estas empuñando un arma a dos manos con ambas manos, utilizarias su dado de dano a dos manos.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** El objetivo sufre mitad de dano.
+**Éxito** El objetivo sufre mitad de dano.
 
 **Fallo** El objetivo sufre dano completo.
 
@@ -124,7 +124,7 @@ El objetivo puede entender el significado de un solo idioma que esta oyendo o le
 
 El cadaver objetivo no se descompone ni se puede transformar en un muerto viviente. Si se ve sujeto a un conjuro que requiere que el cuerpo haya muerto en un cierto periodo de tiempo (por ejemplo, revivir a los muertos) la duración de tranquilo descanso no cuenta para dicho periodo. Este conjuro tambien evita que los bichos y las pestes normales (como por ejemplo los gusanos) consuman el cuerpo.
 
-**Potenciado (5.º)** La duracion del conjuro es ilimitada, pero se tarda una accion mas en lanzarlo y se incurre en un coste (fluido de embalsamar por valor de 6 po).
+**Potenciado (5.º)** La duracion del conjuro es ilimitada, pero se tarda una acción mas en lanzarlo y se incurre en un coste (fluido de embalsamar por valor de 6 po).
 
 ---
 
@@ -179,9 +179,9 @@ Eriges unas custodias protectoras que hacen difícil detectar al objetivo median
 
 Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sangre. El objetivo sufre 2d6 dano persistente por sangrado y tiene que hacer una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El sujeto sufre mitad dano persistente por sangrado.
+**Éxito** El sujeto sufre mitad dano persistente por sangrado.
 
 **Fallo** El sujeto sufre dano completo persistente por sangrado. Hasta que se detiene el sangrado, el objetivo tiene debilidad 1 al dano perforante y cortante.
 
@@ -235,9 +235,9 @@ Elige una sola declaración que quieres que crean los objetivos. El hecho podrí
 
 El efecto de conjuro depende de las salvaciones de Voluntad de los objetivos. Si el objetivo ya esta afectado por verdad inventada, tu conjuro lo contrarresta. Si la prueba de contrarrestar falla, el desenlace de la tirada de salvación del objetivo no puede ser peor que un éxito.
 
-**Exito critico** El objetivo no se cree la declaracion y sabe que has intentado enganarle.
+**Éxito critico** El objetivo no se cree la declaracion y sabe que has intentado enganarle.
 
-**Exito** El objetivo no se cree la declaracion o bien se da cuenta de que has intentado enganarle.
+**Éxito** El objetivo no se cree la declaracion o bien se da cuenta de que has intentado enganarle.
 
 **Fallo** El objetivo se cree la declaracion durante 1 semana.
 
@@ -315,7 +315,7 @@ Disparas un rayo de calor y llamas. Haz una tirada de ataque de conjuros contra 
 
 Por cada acción adicional que utilizas al Lanzar el conjuro, puedes disparar un rayo adicional a un objetivo diferente, hasta un máximo de 3 rayos que designan como objetivo a tres objetivos diferentes para 3 acciones. Cada uno de dichos ataques incrementa tu penalizador por ataque multiple, pero no lo incrementa hasta después de haber hecho todas las tiradas de ataque para este conjuro. Si dedicas 2 o mas acciones a Lanzar el conjuro, el dano se incrementa a 4d6 dano por fuego con un impacto, y sigues infligiendo doble dano con un impacto critico.
 
-**Potenciado (+1)** El dano para cada objetivo se incrementa en 1d6 para la version de 1 accion o en 2d6 para las versiones de 2 y 3 acciones.
+**Potenciado (+1)** El dano para cada objetivo se incrementa en 1d6 para la version de 1 acción o en 2d6 para las versiones de 2 y 3 acciones.
 
 ---
 
@@ -327,9 +327,9 @@ Por cada acción adicional que utilizas al Lanzar el conjuro, puedes disparar un
 
 Tu toque aflige al objetivo con la viruela de goblin, un eczema alérgico e irritante. El objetivo tiene que llevar a cabo una salvación de Fortaleza.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda indispuesto 1.
+**Éxito** El objetivo queda indispuesto 1.
 
 **Fallo** El objetivo queda afligido por la viruela de goblin en su etapa 1.
 
@@ -347,9 +347,9 @@ Tu toque aflige al objetivo con la viruela de goblin, un eczema alérgico e irri
 
 Obligas al objetivo a ver una vision de su propia muerte. Sufre 8d6 dano mental y tiene que hacer una salvación de Voluntad. Si el objetivo queda reducido a 0 PG por este conjuro, su vision se convierte en realidad y lo mata instantaneamente.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo sufre mitad de dano y queda asustado 1.
+**Éxito** El objetivo sufre mitad de dano y queda asustado 1.
 
 **Fallo** El objetivo sufre dano completo y queda asustado 2.
 
@@ -401,9 +401,9 @@ El objetivo puede flotar por el aire, obteniendo una Velocidad de vuelo igual a 
 
 Un zarcillo aparece de la nada, girando rapidamente desde tu mano y aferrándose al objetivo. Haz una tirada de ataque de conjuros contra el objetivo.
 
-**Exito critico** El objetivo sufre el estado inmovilizado, y un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador y el estado de inmovilizado.
+**Éxito critico** El objetivo sufre el estado inmovilizado, y un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador y el estado de inmovilizado.
 
-**Exito** El objetivo sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador.
+**Éxito** El objetivo sufre un penalizador -10 pies (3 m) por circunstancia a sus velocidades durante 1 asalto. Puede probar a Huir contra tu CD de conjuros para eliminar el penalizador.
 
 **Fallo** El objetivo no resulta afectado.
 
@@ -421,9 +421,9 @@ Un zarcillo aparece de la nada, girando rapidamente desde tu mano y aferrándose
 
 Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el aire. Infliges 2d4 dano por dacio y 1 dano persistente por sangrado a las criaturas vivas en la linea. Cada criatura viva en la linea tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano por vacío y ningun dano persistente por sangrado.
+**Éxito** La criatura sufre mitad de dano por vacío y ningun dano persistente por sangrado.
 
 **Fallo** La criatura sufre dano completo.
 

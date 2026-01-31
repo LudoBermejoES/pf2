@@ -26,8 +26,8 @@ Los modificadores de atributo representan como de desarrollada esta cada caracte
 
 - **Rango normal**: de -5 a +5
 - Los personajes de alto nivel pueden superar el +5
-- Un modificador superior a la media indica mayor probabilidad de exito en las acciones relacionadas
-- Un modificador inferior a la media indica menor probabilidad de exito
+- Un modificador superior a la media indica mayor probabilidad de éxito en las acciones relacionadas
+- Un modificador inferior a la media indica menor probabilidad de éxito
 
 | Modificador | Interpretacion |
 |-------------|----------------|
@@ -42,7 +42,7 @@ Los modificadores de atributo representan como de desarrollada esta cada caracte
 
 ### Mejoras de atributo
 
-Una **mejora de atributo** incrementa el modificador de un atributo en +1. Se obtienen de diversas fuentes durante la creacion del personaje:
+Una **mejora de atributo** incrementa el modificador de un atributo en +1. Se obtienen de diversas fuentes durante la creación del personaje:
 
 - **Ascendencia**: proporciona mejoras especificas segun tu linaje
 - **Bagaje**: refleja tu historia y ocupacion previa
@@ -59,7 +59,7 @@ Siempre tienes la opción de no aplicar las mejoras y defectos indicados en tu a
 
 Esta regla permite:
 
-- Mayor flexibilidad en la creacion de personajes
+- Mayor flexibilidad en la creación de personajes
 - Romper con estereotipos de ascendencia
 - Adaptar cualquier ascendencia a cualquier clase de forma optima
 

@@ -20,4 +20,4 @@ Durante la exploración, el juego adopta una forma relativamente libre, con los 
 
 ## Actividades de exploración
 
-Durante este modo de juego, el DJ pregunta a los jugadores que estan haciendo sus personajes mientras exploran. Esto es importante en caso de que surja un conflicto. Si estalla un combate, las tareas que emprendieron los PJs mientras exploraban podrian proporcionarles una ventaja o bien informar de como empieza el combate.
+Durante este modo de juego, el DJ pregunta a los jugadores que estan haciendo sus personajes mientras exploran. Esto es importante en caso de que surja un conflicto. Si estalla un combate, las tareas que emprendieron los PJs mientras exploraban podrían proporcionarles una ventaja o bien informar de como empieza el combate.

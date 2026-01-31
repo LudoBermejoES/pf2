@@ -34,6 +34,6 @@ Obtienes aptitudes especificas basadas en la planta elegida:
 
 **Arboral** Velocidad 30 pies (9 m); Cuerpo a cuerpo ◆ rama (alcance 15 pies [4,5 m]), Dano 2d10 contundente; Cuerpo a cuerpo ◆ pie, Dano 2d8 contundente; en esta forma puedes hablar.
 
-**Atrapamoscas** Velocidad 15 pies (4,5 m); resistencia 10 al acido; Cuerpo a cuerpo ◆ hoja (alcance 10 pies [3 m]), Dano 2d8 perforante, y puedes invertir una accion después de un impacto para Agarrar al objetivo.
+**Atrapamoscas** Velocidad 15 pies (4,5 m); resistencia 10 al acido; Cuerpo a cuerpo ◆ hoja (alcance 10 pies [3 m]), Dano 2d8 perforante, y puedes invertir una acción después de un impacto para Agarrar al objetivo.
 
 **Potenciado (6.o)** Tu forma de batalla es Enorme y el alcance de tus ataques se incrementa en 5 pies (1,5 m). En lugar de lo indicado obtienes CA = 22 + tu nivel, 24 PG temporales, modificador al ataque +21, bonificador al dano +16 y Atletismo +22.

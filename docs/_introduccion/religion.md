@@ -9,7 +9,7 @@ nav_order: 0
 
 La seleccion de un dios es critica para los clérigos, pero la mayoría de personajes presentan sus respetos a por lo menos un dios en busca de un foco en la vida y una guia en tiempos de adversidad o de necesidad. Algunos adoran en su lugar a un grupo de dioses dispuestos en un panteon, siguen una religion carente de dioses como la Fe Verde o una filosofia especifica.
 
-Cualquiera puede adorar a un dios, pero quienes lo hacen de forma devota deberían preocuparse de seguir los edictos de la fe (comportamientos que la fe anima) y evitar sus anatemas (acciones consideradas blasfemas que podrian hacer que un dios revocara sus bendiciones).
+Cualquiera puede adorar a un dios, pero quienes lo hacen de forma devota deberían preocuparse de seguir los edictos de la fe (comportamientos que la fe anima) y evitar sus anatemas (acciones consideradas blasfemas que podrían hacer que un dios revocara sus bendiciones).
 
 ## Dioses principales
 
@@ -28,7 +28,7 @@ Abadar busca llevar la civilizacion a las tierras virgenes del mundo, anima el r
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clérigo | 1ro: objeto ilusorio, 4to: creacion, 7mo: palacio planario |
+| Conjuros de clérigo | 1ro: objeto ilusorio, 4to: creación, 7mo: palacio planario |
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Sociedad |
@@ -320,7 +320,7 @@ Antiguamente un maestro mortal de la magia, Nethys busco desentranar todos los s
 | Fuente divina | curar o danar |
 | Santificacion divina | puede elegir sagrada o sacrilega |
 | Habilidad divina | Arcanos |
-| Dominios | conocimiento, destruccion, magia, proteccion |
+| Dominios | conocimiento, destruccion, magia, protección |
 | Arma predilecta | baston |
 
 ---
@@ -412,22 +412,22 @@ Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un 
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clérigo | 1ro: colores mareantes, 3ro: cautivar, 4to: creacion |
+| Conjuros de clérigo | 1ro: colores mareantes, 3ro: cautivar, 4to: creación |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
 | Habilidad divina | elige entre Artesanía o Interpretacion |
-| Dominios | creacion, familia, pasion, proteccion |
+| Dominios | creación, familia, pasion, protección |
 | Arma predilecta | guja |
 
 ---
 
 ### Torag
 
-**Padre de la Creacion**
+**Padre de la Creación**
 
-Aunque le adoran muchos enanos como el Padre de la Creacion, Torag lucha para proteger todas las comunidades en las que es adorado y tambien la siguen quienes valoran la artesanía y la creacion.
+Aunque le adoran muchos enanos como el Padre de la Creación, Torag lucha para proteger todas las comunidades en las que es adorado y tambien la siguen quienes valoran la artesanía y la creación.
 
-- **Areas de interes:** estrategia, forja y proteccion
+- **Areas de interes:** estrategia, forja y protección
 - **Edictos:** mantener la palabra dada, respetar la forja, ser honorable y directo, servir a tu pueblo
 - **Anatemas:** crear intencionalmente obras de calidad inferior, decir mentiras o enganar a alguien, mostrar compasion de forma continuada a los enemigos de tu pueblo cuando dichos enemigos han demostrado que no la merecen
 - **Atributo divino:** Constitución o Sabiduría
@@ -436,11 +436,11 @@ Aunque le adoran muchos enanos como el Padre de la Creacion, Torag lucha para pr
 
 | Aspecto | Descripcion |
 |---------|-------------|
-| Conjuros de clérigo | 1ro: enlace mental, 3ro: ligadura terrestre, 4to: creacion |
+| Conjuros de clérigo | 1ro: enlace mental, 3ro: ligadura terrestre, 4to: creación |
 | Fuente divina | curar |
 | Santificacion divina | puede elegir sagrada |
 | Habilidad divina | Artesanía |
-| Dominios | creacion, familia, proteccion, tierra |
+| Dominios | creación, familia, protección, tierra |
 | Arma predilecta | martillo de guerra |
 
 ---
@@ -548,7 +548,7 @@ Los clérigos y algunos otros devotos pueden obtener conjuros de dominio de sus 
 | Ciudades | Tienes poderes sobre los entornos urbanos y sus habitantes. |
 | Confianza | Vences tu miedo y proyectas orgullo. |
 | Conocimiento | Obtienes introspecciones divinas. |
-| Creacion | Tienes aptitudes divinas relacionadas con la artesanía y el arte. |
+| Creación | Tienes aptitudes divinas relacionadas con la artesanía y el arte. |
 | Curacion | Tu magia curativa es particularmente poderosa. |
 | Destino | Ves y entiendes inevitabilidades ocultas. |
 | Destruccion | Eres un conducto de la devastacion divina. |
@@ -567,7 +567,7 @@ Los clérigos y algunos otros devotos pueden obtener conjuros de dominio de sus 
 | Perfeccion | Luchas para perfeccionar tu mente, tu cuerpo y tu espiritu. |
 | Pesadillas | Llenas las mentes de horror y miedo. |
 | Poder | Tu potencia fisica se ve reforzada por la fuerza divina. |
-| Proteccion | Te proteges a ti mismo y a otros. |
+| Protección | Te proteges a ti mismo y a otros. |
 | Riqueza | Tienes poder sobre la riqueza, el comercio y los tesoros. |
 | Secretos | Proteges secretos y los mantienes ocultos. |
 | Sol | Aprovechas el poder del sol y de otras fuentes de luz castigando a los muertos vivientes. |

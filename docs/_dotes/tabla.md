@@ -29,9 +29,9 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Duro de pelar | 1 | — | Mueres a moribundo 5, en lugar de a moribundo 4 |
 | Iniciativa sensacional | 1 | — | +2 a las tiradas de iniciativa |
 | Mascota | 1 | — | Tienes una mascota leal |
-| Montar | 1 | — | Exito automatico al ordenar a tu montura que se mueva |
+| Montar | 1 | — | Éxito automatico al ordenar a tu montura que se mueva |
 | Paso de pluma | 1 | Destreza +2 | Das Pasos en terreno difícil |
-| Perspicacia astuta | 1 | — | Obtienes el rango experto en una tirada de salvacion o en Percepción |
+| Perspicacia astuta | 1 | — | Obtienes el rango experto en una tirada de salvación o en Percepción |
 | Pies ligeros | 1 | — | Aumentas tu Velocidad en 5 pies (1,5 m) |
 | Recuperacion rapida | 1 | Constitución +2 | Recuperas mas puntos de Golpe gracias al descanso, te recuperas mas rapido de enfermedades y venenos |
 | Improvisacion no entrenada | 3 | — | Se te da cada vez mejor el uso de habilidades no entrenadas |
@@ -49,12 +49,12 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Conocimiento dudoso | 1 | Entrenado en Recordar conocimiento | Obtienes conocimiento erroneo y verdadero con una prueba fallida |
 | Entrenamiento en una habilidad | 1 | Inteligencia +1 | Obtienes el rango entrenado en una habilidad |
 | Identificacion rapida | 1 | Entrenado en Arcanos, Naturaleza, Ocultismo o Religion | Identificas magia en 1 minuto o menos |
-| Reconocer conjuro | 1 | Entrenado en Arcanos, Naturaleza, Ocultismo o Religion | Identificas un conjuro como reaccion mientras lo lanzan |
+| Reconocer conjuro | 1 | Entrenado en Arcanos, Naturaleza, Ocultismo o Religion | Identificas un conjuro como reacción mientras lo lanzan |
 | Seguro | 1 | Entrenado en por lo menos una habilidad | Obtienes un resultado fijo en una prueba de habilidad |
 | Trucar objeto magico | 1 | Entrenado en Arcanos, Naturaleza, Ocultismo o Religion | Activas un objeto magico que normalmente no podrias activar |
-| Conocimiento automatico | 2 | Experto en la accion Recordar conocimiento, Seguro en la habilidad relevante | Recuerdas conocimiento como accion gratuita una vez por asalto |
+| Conocimiento automatico | 2 | Experto en la acción Recordar conocimiento, Seguro en la habilidad relevante | Recuerdas conocimiento como acción gratuita una vez por asalto |
 | Taquigrafia magica | 2 | Experto en Arcanos, Naturaleza, Ocultismo o Religion | Aprendes conjuros rapidamente y a un coste reducido |
-| Reconocimiento rapido | 7 | Maestro en Arcanos, Naturaleza, Ocultismo o Religion | Identificas conjuros como una accion gratuita |
+| Reconocimiento rapido | 7 | Maestro en Arcanos, Naturaleza, Ocultismo o Religion | Identificas conjuros como una acción gratuita |
 | Romper maldición | 7 | Maestro en Ocultismo o Religion | Usas tus conocimientos para romper maldiciones |
 
 ## Dotes de Habilidad por Habilidad
@@ -63,7 +63,7 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 
 | Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|----------------|------------|
-| Caida de gato | 1 | Entrenado en Acrobacias | Tratas las caídas como mas cortas de lo que son |
+| Caída de gato | 1 | Entrenado en Acrobacias | Tratas las caídas como mas cortas de lo que son |
 | Equilibrio firme | 1 | Entrenado en Acrobacias | Mantienes el equilibrio en condiciones adversas |
 | Escurrirse rapidamente | 1 | Entrenado en Acrobacias | Te mueves rapidamente mientras te escurres |
 | Gatear agilmente | 2 | Maestro en Acrobacias | Gateas de forma mas rapida |
@@ -96,7 +96,7 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Luchador titanico | 1 | Entrenado en Atletismo | Desarmas, Apresas, Empujas o Derribas a criaturas mayores |
 | Merodeador subacuatico | 1 | Entrenado en Atletismo | Peleas de forma mas efectiva bajo el agua |
 | Porteador recio | 1 | Entrenado en Atletismo | Incrementas en 2 tu limite de Impedimenta |
-| Salto veloz | 1 | Entrenado en Atletismo | Salto de altura o Salto de longitud como una sola accion |
+| Salto veloz | 1 | Entrenado en Atletismo | Salto de altura o Salto de longitud como una sola acción |
 | Trepador de combate | 1 | Entrenado en Atletismo | Peleas de forma mas efectiva mientras Trepas |
 | Saliente rapido | 2 | Experto en Atletismo | Subes rapidamente a los salientes |
 | Salto poderoso | 2 | Experto en Atletismo | Saltas mas lejos y mas alto |
@@ -148,7 +148,7 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Poderio intimidante | 2 | Fuerza +3, experto en Intimidación | Obtienes un bonificador a Desmoralizar fisicamente a un objetivo |
 | Grito de guerra | 7 | Maestro en Intimidación | Desmoralizas a tus enemigos al tirar iniciativa |
 | Retirada aterrada | 7 | Maestro en Intimidación | Haces huir a los enemigos a los que Desmoralizas |
-| Susto mortal | 15 | Legendario en Intimidación | Asustas tanto a un objetivo que podria morir |
+| Susto mortal | 15 | Legendario en Intimidación | Asustas tanto a un objetivo que podría morir |
 
 ### Latrocinio
 
@@ -157,7 +157,7 @@ Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen 
 | Carterista | 1 | Entrenado en Latrocinio | Sustraes o Escamoteas un objeto de forma mas efectiva |
 | Sustraccion sutil | 1 | Entrenado en Latrocinio | Tus sustracciones son mas difíciles de detectar |
 | Desactivacion cautelosa | 2 | Experto en Latrocinio | +2 a la CA o a las salvaciones contra artilugios o trampas que disparas cuando los estas desactivando |
-| Forzado rapido | 7 | Maestro en Latrocinio | Fuerzas una cerradura con 1 accion |
+| Forzado rapido | 7 | Maestro en Latrocinio | Fuerzas una cerradura con 1 acción |
 | Ladron legendario | 15 | Legendario en Latrocinio, Carterista | Sustraes cosas que normalmente serian imposibles de sustraer |
 
 ### Medicina

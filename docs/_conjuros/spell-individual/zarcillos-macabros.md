@@ -18,11 +18,11 @@ spell_level: 1
 
 ---
 
-Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el aire. Infliges 2d4 dano por vacío y 1 dano persistente por sangrado a las criaturas vivas en la linea. Cada criatura viva en la linea tiene que hacer una salvacion de Fortaleza.
+Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el aire. Infliges 2d4 dano por vacío y 1 dano persistente por sangrado a las criaturas vivas en la linea. Cada criatura viva en la linea tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano por vacío y ningun dano persistente por sangrado.
+**Éxito** La criatura sufre mitad de dano por vacío y ningun dano persistente por sangrado.
 
 **Fallo** La criatura sufre dano completo.
 

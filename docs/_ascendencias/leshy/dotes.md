@@ -19,7 +19,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 Puedes extender una marana de enredaderas o de zarcillos para sostener tus brazos y aumentar tu alcance.
 
-**Beneficio:** Cuando Empuñas una arma cuerpo a cuerpo que requiere dos manos, no tiene alcance e inflige por lo menos 1d6 de dano, puedes cambiar entre un agarre tipico a dos manos y un agarre a dos manos extendido utilizando una accion de Interactuar. Las armas empunadas en el agarre extendido obtienen un alcance de 10 pies (3 m). Este agarre es menos estable y potente que un agarre tipico, lo que reduce en 1 paso el dado de dano del arma.
+**Beneficio:** Cuando Empuñas una arma cuerpo a cuerpo que requiere dos manos, no tiene alcance e inflige por lo menos 1d6 de dano, puedes cambiar entre un agarre tipico a dos manos y un agarre a dos manos extendido utilizando una acción de Interactuar. Las armas empunadas en el agarre extendido obtienen un alcance de 10 pies (3 m). Este agarre es menos estable y potente que un agarre tipico, lo que reduce en 1 paso el dado de dano del arma.
 
 ---
 
@@ -37,7 +37,7 @@ Tu tamaño y tu comportamiento facilitan convencer a los demás de que no quiere
 
 Tu espíritu ha soportado muchos desafios a lo largo de tu dilatada existencia.
 
-**Beneficio:** Obtienes un bonificador +1 por circunstancia a las salvaciones contra los efectos de emocion. Si obtienes un exito en una tirada de salvacion contra un efecto de emocion, en su lugar obtienes un exito critico.
+**Beneficio:** Obtienes un bonificador +1 por circunstancia a las salvaciones contra los efectos de emocion. Si obtienes un éxito en una tirada de salvación contra un efecto de emocion, en su lugar obtienes un éxito critico.
 
 ---
 
@@ -64,11 +64,11 @@ Es difícil percibir tu paso por las areas salvajes.
 ### Supersticion leshy ◆
 **Dote 1** - Leshy
 
-**Desencadenante:** Haces una tirada de salvacion contra un conjuro o un efecto magico, pero aun no has tirado los dados.
+**Desencadenante:** Haces una tirada de salvación contra un conjuro o un efecto magico, pero aun no has tirado los dados.
 
 Percibes los espíritus que habitan en los objetos, averiguando cuales dan buena suerte y cuales traen mal faria. Te enfocas en el poder de un objeto afortunado.
 
-**Beneficio:** Obtienes un bonificador +1 por circunstancia a tu tirada de salvacion contra el efecto desencadenante.
+**Beneficio:** Obtienes un bonificador +1 por circunstancia a tu tirada de salvación contra el efecto desencadenante.
 
 ---
 
@@ -97,11 +97,11 @@ Tienes una conexión con las criaturas que comparten tu fisiologia.
 ### Leshy planeador ◆
 **Dote 5** - Leshy
 
-**Prerrequisitos:** Herencia leshy de las hojas o dote de habilidad Caida de gato
+**Prerrequisitos:** Herencia leshy de las hojas o dote de habilidad Caída de gato
 
 Utilizando tus propias hojas, puedes controlar tu descenso.
 
-**Beneficio:** Planeas lentamente hacia el suelo, 5 pies (1,5 m) hacia abajo y hasta 25 pies (7,5 m) hacia adelante por el aire. Mientras inviertas por lo menos 1 accion planeando cada asalto y aun no hayas llegado al suelo, permaneceras en el aire al final de tu turno.
+**Beneficio:** Planeas lentamente hacia el suelo, 5 pies (1,5 m) hacia abajo y hasta 25 pies (7,5 m) hacia adelante por el aire. Mientras inviertas por lo menos 1 acción planeando cada asalto y aun no hayas llegado al suelo, permaneceras en el aire al final de tu turno.
 
 ---
 
@@ -110,12 +110,12 @@ Utilizando tus propias hojas, puedes controlar tu descenso.
 
 Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 
-**Beneficio:** Obtienes la dote de habilidad Equilibrio firme, incluso si no dispones del rango entrenado en Acrobacias, y puedes utilizar la accion Anclar.
+**Beneficio:** Obtienes la dote de habilidad Equilibrio firme, incluso si no dispones del rango entrenado en Acrobacias, y puedes utilizar la acción Anclar.
 
 #### Anclar ◆
 **Requisitos:** Estas sobre una superficie solida.
 
-**Efecto:** Clavas tus raices en el terreno o cruzas el mismo con ellas, por lo que sera mas difícil que tropieces. Hasta que te muevas, obtendras un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra los intentos de Reposicionarte, Empujarte o Derribarte (o un bonificador +4 por circunstancia si eres un leshy de las raices). Este bonificador tambien se aplica a las tiradas de salvacion contra conjuros o efectos que intentan moverte o tumbarte. Si un efecto te obliga a moverte, solo te mueves la mitad de la distancia normal, puesto que parte del esfuerzo se tiene que dedicar a arrancar las raices.
+**Efecto:** Clavas tus raices en el terreno o cruzas el mismo con ellas, por lo que sera mas difícil que tropieces. Hasta que te muevas, obtendras un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra los intentos de Reposicionarte, Empujarte o Derribarte (o un bonificador +4 por circunstancia si eres un leshy de las raices). Este bonificador tambien se aplica a las tiradas de salvación contra conjuros o efectos que intentan moverte o tumbarte. Si un efecto te obliga a moverte, solo te mueves la mitad de la distancia normal, puesto que parte del esfuerzo se tiene que dedicar a arrancar las raices.
 
 ---
 
@@ -166,7 +166,7 @@ Tienes un recuerdo que te otorga suerte.
 
 Cuando tus tegumentos asestan un golpe derribador, explotan en zarcillos cruelmente espinados.
 
-**Beneficio:** Cuando obtienes un exito critico en un Golpe de tegumento, los zarcillos se retuercen y se clavan en tu enemigo, infligiendole 1d4 dano perforante persistente.
+**Beneficio:** Cuando obtienes un éxito critico en un Golpe de tegumento, los zarcillos se retuercen y se clavan en tu enemigo, infligiendole 1d4 dano perforante persistente.
 
 ---
 
@@ -188,7 +188,7 @@ Segregas una capa de veneno concentrado que dana a cualquiera que se atreve a at
 
 Puedes convocar a los espíritus de la Naturaleza cercanos para que potencien tu cuerpo.
 
-**Beneficio:** Una vez al dia puedes lanzar *forma de planta* como conjuro innato primigenio de 5.o rango. Cuando llegues a 17.o nivel, podras potenciar el conjuro a 6.o rango cuando lo lances.
+**Beneficio:** Una vez al dia puedes lanzar *forma de planta* como conjuro innato primigenio de 5.o rango. Cuando llegues a 17.o nivel, podrás potenciar el conjuro a 6.o rango cuando lo lances.
 
 ---
 

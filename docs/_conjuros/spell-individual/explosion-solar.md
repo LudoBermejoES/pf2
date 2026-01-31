@@ -20,11 +20,11 @@ spell_level: 7
 
 ---
 
-Un poderoso globo de abrasadora luz solar explota en el area, infligiendo 8d10 dano por fuego a todas las criaturas en la misma, mas 8d10 dano adicional por vitalidad a las criaturas muertas vivientes. Cada criatura en el area tiene que hacer una salvacion de Reflejos.
+Un poderoso globo de abrasadora luz solar explota en el area, infligiendo 8d10 dano por fuego a todas las criaturas en la misma, mas 8d10 dano adicional por vitalidad a las criaturas muertas vivientes. Cada criatura en el area tiene que hacer una salvación de Reflejos.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo.
 

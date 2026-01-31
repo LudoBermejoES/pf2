@@ -65,7 +65,7 @@ Puedes continuar trabajando en dicha tarea en días subsiguientes sin tener que 
 | 18 | 4 po | 20 po | 45 po | 70 po | 90 po |
 | 19 | 6 po | 30 po | 60 po | 100 po | 130 po |
 | 20 | 8 po | 40 po | 75 po | 150 po | 200 po |
-| 20 (exito critico) | - | 50 po | 90 po | 175 po | 300 po |
+| 20 (éxito critico) | - | 50 po | 90 po | 175 po | 300 po |
 
 ## Ejemplos de Tareas de Obtener Ingresos
 

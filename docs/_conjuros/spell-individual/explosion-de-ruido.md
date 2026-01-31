@@ -18,11 +18,11 @@ spell_level: 2
 
 ---
 
-Invocas un ruido cacofonico, que inflige 2d10 dano sonico. Cada criatura tiene que hacer una salvacion de Fortaleza.
+Invocas un ruido cacofonico, que inflige 2d10 dano sonico. Cada criatura tiene que hacer una salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y queda ensordecida durante 1 asalto.
 

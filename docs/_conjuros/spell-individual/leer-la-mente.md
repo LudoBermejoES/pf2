@@ -20,12 +20,12 @@ spell_level: 3
 
 ---
 
-Con un leve toque mental, tratas de leer la mente del objetivo, que tiene que hacer una salvacion de Voluntad. A continuación, queda temporalmente inmune a tu lectura mental durante 1 hora.
+Con un leve toque mental, tratas de leer la mente del objetivo, que tiene que hacer una salvación de Voluntad. A continuación, queda temporalmente inmune a tu lectura mental durante 1 hora.
 
-**Exito critico** El objetivo percibe vagos pensamientos superficiales de tu parte cuando Lanzas el conjuro.
+**Éxito critico** El objetivo percibe vagos pensamientos superficiales de tu parte cuando Lanzas el conjuro.
 
-**Exito** Descubres si el modificador por Inteligencia del objetivo es superior, igual o inferior al tuyo.
+**Éxito** Descubres si el modificador por Inteligencia del objetivo es superior, igual o inferior al tuyo.
 
 **Fallo** Percibes vagos pensamientos superficiales del objetivo cuando Lanzas el conjuro y averiguas si su Inteligencia es superior, igual o inferior a la tuya.
 
-**Fallo critico** Igual que fallo, y mientras dura el conjuro puedes Mantenerlo para detectar de nuevo los pensamientos superficiales del objetivo. El objetivo no obtiene ninguna salvacion adicional.
+**Fallo critico** Igual que fallo, y mientras dura el conjuro puedes Mantenerlo para detectar de nuevo los pensamientos superficiales del objetivo. El objetivo no obtiene ninguna salvación adicional.

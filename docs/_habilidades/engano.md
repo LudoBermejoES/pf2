@@ -19,7 +19,7 @@ Con un gesto, un truquillo o unas palabras engañosas, puedes crear una distracc
 
 Haz una sola prueba de Engaño y compárala con las CD de Percepción de las criaturas cuya atención tratas de distraer. Tanto si tienes éxito como si no, las criaturas que tratas de distraer obtienen un bonificador +4 por circunstancia a sus CD de Percepción contra tus intentos de Crear una distracción durante 1 minuto.
 
-### Grados de exito
+### Grados de éxito
 
 - **Éxito:** Quedas escondido ante todas las criaturas cuya CD de Percepción es menor o igual que tu resultado (el estado escondido te permite Moverte furtivamente para alejarte). Esto dura hasta el final de tu turno o hasta que haces cualquier cosa excepto dar un Paso o utilizar la habilidad Sigilo para Esconderte o Moverte furtivamente. Si das un Golpe a una criatura, esta queda desprevenida contra dicho ataque y a continuación quedas observado. Si haces cualquier otra cosa, quedas observado justo antes de actuar, si el DJ no determina lo contrario.
 - **Fallo:** No distraes la atención de ninguna criatura cuya CD de Percepción es mayor que tu resultado y dichas criaturas son conscientes de que pretendes engañarlas.
@@ -36,7 +36,7 @@ En la mayoría de casos, las criaturas tienen una probabilidad de detectar tu en
 
 Si vas disfrazado como un individuo específico, el DJ podría conceder a las criaturas con las que interaccionas un bonificador por circunstancia basado en lo bien que conocen a la persona imitada, o bien podría hacer una prueba secreta de Engaño incluso si no estás interaccionando directamente con otros.
 
-### Grados de exito
+### Grados de éxito
 
 - **Éxito:** Engañas a la criatura para que crea que eres la persona de la que vas disfrazado. Podrías tener que hacer una nueva prueba si tu comportamiento cambiara.
 - **Fallo:** La criatura puede ver que no eres quien dices ser.
@@ -52,7 +52,7 @@ Tratas de engañar a alguien con una falsedad. Hacerlo cuesta por lo menos 1 asa
 
 A discreción del DJ, si una criatura se cree inicialmente tu mentira, podría hacer una prueba de Percepción más tarde para Averiguar intenciones contra tu CD de Engaño para darse cuenta de que le has mentido. Esto suele pasar si la criatura descubre pruebas suficientes para contrarrestar tus afirmaciones.
 
-### Grados de exito
+### Grados de éxito
 
 - **Éxito:** El objetivo se cree tu mentira.
 - **Fallo:** El objetivo no se cree tu mentira y obtiene un bonificador +4 por circunstancia contra tus intentos de Mentir mientras dura vuestra conversacion. Ademas es probable que, en el futuro, el objetivo sospeche de ti.
@@ -67,7 +67,7 @@ A discreción del DJ, si una criatura se cree inicialmente tu mentira, podría h
 
 Con una floritura engañosa, dejas a un oponente mal preparado para tu ataque real. Haz una prueba de Engaño contra la CD de Percepción de tu objetivo.
 
-### Grados de exito
+### Grados de éxito
 
 - **Éxito crítico:** Desarbolas por completo las defensas de tu enemigo contra ti. El objetivo queda desprevenido contra los ataques cuerpo a cuerpo que haces contra él hasta el final de tu siguiente turno.
 - **Éxito:** Tu enemigo resulta engañado, pero solo momentáneamente. El objetivo queda desprevenido contra el siguiente ataque cuerpo a cuerpo que haces contra él hasta el final de tu turno actual.

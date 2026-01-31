@@ -19,7 +19,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 Tu conexión innata con la piedra te convierte en un adepto en cruzar superficies irregulares.
 
-**Beneficio:** Puedes ignorar el terreno difícil causado por la piedra (como por ejemplo los escombros o la grava) y el terreno irregular de piedra y tierra. Ademas, cuando utilizas la habilidad Acrobacias para Mantener el equilibrio en superficies estrechas o terreno irregular hecho de piedra o tierra, no estas desprevenido y cuando consigues un exito en una de estas pruebas de Acrobacias, en su lugar obtienes un exito critico.
+**Beneficio:** Puedes ignorar el terreno difícil causado por la piedra (como por ejemplo los escombros o la grava) y el terreno irregular de piedra y tierra. Ademas, cuando utilizas la habilidad Acrobacias para Mantener el equilibrio en superficies estrechas o terreno irregular hecho de piedra o tierra, no estas desprevenido y cuando consigues un éxito en una de estas pruebas de Acrobacias, en su lugar obtienes un éxito critico.
 
 ---
 
@@ -120,7 +120,7 @@ Puedes utilizar tu conocimiento de la ingeniería y de la metalisteria para refo
 
 Tu constitución enana te permite empujar a tus enemigos de aqui para alla, de la misma forma en que una gran roca rueda por una camara subterránea.
 
-**Beneficio:** Da un Paso al interior de la casilla de un enemigo de tu tamaño o menor, y el enemigo debera moverse al espacio vacío que tiene directamente detras. El enemigo tiene que moverse incluso si haciendolo se pone en peligro. El enemigo puede hacer una salvacion de Fortaleza contra tu CD de Atletismo para bloquear tu Paso. Si la hace y no obtiene un exito critico, sufre tanto dano contundente como tu nivel mas tu modificador por Fuerza.
+**Beneficio:** Da un Paso al interior de la casilla de un enemigo de tu tamaño o menor, y el enemigo debera moverse al espacio vacío que tiene directamente detras. El enemigo tiene que moverse incluso si haciendolo se pone en peligro. El enemigo puede hacer una salvación de Fortaleza contra tu CD de Atletismo para bloquear tu Paso. Si la hace y no obtiene un éxito critico, sufre tanto dano contundente como tu nivel mas tu modificador por Fuerza.
 
 Si el enemigo no puede moverse a un espacio dacio (por ejemplo si esta rodeado de objetos sólidos u otras criaturas), tu Rodar la roca no tiene efecto alguno.
 
@@ -164,13 +164,13 @@ Te detienes un instante para sintonizar tus sentidos con la piedra que te rodea.
 ### Huesos de piedra ◆◆◆
 **Dote 9** - Enano
 
-**Reaccion**
+**Reacción**
 
 **Desencadenante:** Sufres un impacto critico que inflige dano fisico.
 
 Tu intratable naturaleza te puede ayudar a quitarte de encima incluso las heridas mas graves.
 
-**Beneficio:** Haz una prueba plana CD 17. Si tienes exito, el ataque se convierte en un impacto normal.
+**Beneficio:** Haz una prueba plana CD 17. Si tienes éxito, el ataque se convierte en un impacto normal.
 
 ---
 
@@ -199,11 +199,11 @@ Atraviesas la tierra y llevas contigo a un aliado.
 ### Muro de roca ◆◆◆
 **Dote 17** - Enano, Polimorfia, Tierra
 
-**Reaccion**
+**Reacción**
 
 **Frecuencia:** Una vez al dia
 
-**Desencadenante:** El efecto de un enemigo o de un peligro te impacta, o fallas una salvacion de Fortaleza contra uno de ellos.
+**Desencadenante:** El efecto de un enemigo o de un peligro te impacta, o fallas una salvación de Fortaleza contra uno de ellos.
 
 La fuerza de la piedra te invade de forma tan abrumadora que reemplaza a tu recio cuerpo.
 

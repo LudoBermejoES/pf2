@@ -17,7 +17,7 @@ spell_level: 1
 
 ---
 
-Canalizas energias del vacío para danar a los vivos o curar a los muertos vivientes. Si el objetivo es una criatura viva, infliges 1d8 dano por vacío a la misma, con una salvacion basica de Fortaleza. Si el objetivo es una criatura muerta viviente voluntaria, restableces dicha cantidad de Puntos de Golpe. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demás parametros.
+Canalizas energias del vacío para danar a los vivos o curar a los muertos vivientes. Si el objetivo es una criatura viva, infliges 1d8 dano por vacío a la misma, con una salvación basica de Fortaleza. Si el objetivo es una criatura muerta viviente voluntaria, restableces dicha cantidad de Puntos de Golpe. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demás parametros.
 
 - ◆ El conjuro tiene un alcance de toque.
 - ◆◆ (concentrar) El conjuro tiene un alcance de 30 pies (9 m). Si estas curando a una criatura muerta viviente, incrementa en 8 los Puntos de Golpe restablecidos.

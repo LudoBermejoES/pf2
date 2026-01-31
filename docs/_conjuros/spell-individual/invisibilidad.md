@@ -19,6 +19,6 @@ spell_level: 2
 
 ---
 
-Unas ilusiones retuercen la luz alrededor del objetivo, haciendolo invisible. Esto lo convierte en no detectado para todas las criaturas, aunque estas pueden intentar buscarlo, con lo que para ellas quedara escondido. Si el objetivo utiliza una accion hostil, el conjuro acaba una vez esta se ha completado.
+Unas ilusiones retuercen la luz alrededor del objetivo, haciendolo invisible. Esto lo convierte en no detectado para todas las criaturas, aunque estas pueden intentar buscarlo, con lo que para ellas quedara escondido. Si el objetivo utiliza una acción hostil, el conjuro acaba una vez esta se ha completado.
 
-**Potenciado (4.o)** El conjuro dura 1 minuto pero no acaba si el objetivo utiliza una accion hostil.
+**Potenciado (4.o)** El conjuro dura 1 minuto pero no acaba si el objetivo utiliza una acción hostil.

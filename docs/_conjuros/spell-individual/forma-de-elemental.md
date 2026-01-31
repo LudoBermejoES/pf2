@@ -29,7 +29,7 @@ Obtienes las siguientes estadisticas y aptitudes, sin importar que forma de bata
 
 Obtienes aptitudes especificas basadas en el elemento elegido:
 
-**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo ◆ ola, Dano 1d12 contundente y después de un impacto puedes invertir de inmediato una accion para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujón con exito.
+**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo ◆ ola, Dano 1d12 contundente y después de un impacto puedes invertir de inmediato una acción para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujón con éxito.
 
 **Aire** volar 80 pies (24 m), tu movimiento no desencadena reacciones; Cuerpo a cuerpo ◆ rafaga, Dano 1d4 contundente.
 

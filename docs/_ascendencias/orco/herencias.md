@@ -16,7 +16,7 @@ Los orcos tienen una larga historia en la superficie del mundo, y una historia a
 
 Naciste en una selva tropical en la que solo hay marinas de arboles que te protegen de las tormentas torrenciales y de las inundaciones repentinas. Has aprendido a moverte con destreza por los terrenos de la selva y a resistir las diversas dolencias comunes en los entornos húmedos.
 
-**Beneficio:** Obtienes un bonificador +2 por circunstancia a las pruebas de Atletismo para Trepar o Nadar y un bonificador +1 por circunstancia a las tiradas de salvacion contra las enfermedades.
+**Beneficio:** Obtienes un bonificador +2 por circunstancia a las pruebas de Atletismo para Trepar o Nadar y un bonificador +1 por circunstancia a las tiradas de salvación contra las enfermedades.
 
 ---
 
@@ -32,7 +32,7 @@ Tus manos callosas y tus ojos rojos relatan una vida pasada en la profunda oscur
 
 Fuiste expuesto a poderosas energias nigrománticas que deberían haberte matado... pero sobreviviste. Tu piel es fria, humeda y gris.
 
-**Beneficio:** Obtienes tanta resistencia al dano por vacío como la mitad de tu nivel (minimo 1). Obtienes tambien un bonificador +1 por circunstancia a las tiradas de salvacion contra los efectos con los rasgos muerte o vacío.
+**Beneficio:** Obtienes tanta resistencia al dano por vacío como la mitad de tu nivel (minimo 1). Obtienes tambien un bonificador +1 por circunstancia a las tiradas de salvación contra los efectos con los rasgos muerte o vacío.
 
 ---
 

@@ -35,7 +35,7 @@ Complete alphabetical index of all Pathfinder 2e spells with links to individual
 | [Cabaña Acogedora](/conjuros/cabana-acogedora/) | 3 | concentrar, madera, manipular | a-c.md |
 | [Cadaver Parlante](/conjuros/cadaver-parlante/) | 4 | poco comun, concentrar, manipular | a-c.md |
 | [Cadena de Relampagos](/conjuros/cadena-de-relampagos/) | 6 | concentrar, electricidad, manipular | a-c.md |
-| [Caida de Estrellas](/conjuros/caida-de-estrellas/) | 9 | concentrar, manipular | a-c.md |
+| [Caída de Estrellas](/conjuros/caida-de-estrellas/) | 9 | concentrar, manipular | a-c.md |
 | [Calamidad Fantasmal](/conjuros/calamidad-fantasmal/) | 6 | concentrar, ilusion, manipular, mental | a-c.md |
 | [Calmar](/conjuros/calmar/) | 2 | poco comun, concentrar, manipular | a-c.md |
 | [Cambiar de Sitio](/conjuros/cambiar-de-sitio/) | 4 | concentrar, manipular, teletransporte | a-c.md |
@@ -74,7 +74,7 @@ Complete alphabetical index of all Pathfinder 2e spells with links to individual
 | [Convocar Muerto Viviente](/conjuros/convocar-muerto-viviente/) | 1 | concentrar, convocar, manipular | a-c.md |
 | [Convocar Planta u Hongo](/conjuros/convocar-planta-u-hongo/) | 1 | concentrar, convocar, manipular | a-c.md |
 | [Convocar Ser](/conjuros/convocar-ser/) | 5 | concentrar, convocar, manipular | a-c.md |
-| [Creacion](/conjuros/creacion/) | 4 | concentrar, manipular | a-c.md |
+| [Creación](/conjuros/creacion/) | 4 | concentrar, manipular | a-c.md |
 | [Crear Agua](/conjuros/crear-agua/) | 1 | agua, concentrar, manipular | a-c.md |
 | [Crear Comida](/conjuros/crear-comida/) | 2 | concentrar, manipular | a-c.md |
 | [Criatura Ilusoria](/conjuros/criatura-ilusoria/) | 2 | auditivo, concentrar, ilusion, manipular, olfativo, visual | a-c.md |

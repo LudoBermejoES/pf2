@@ -54,13 +54,13 @@ El arma brilla con magia al tiempo que unas runas temporales se graban a lo larg
 
 Te proteges a ti mismo con una energia magica brillante, obteniendo un bonificados +1 por objeto a la CA y un modificador máximo por Destreza de +5. Mientras llevas armadura mistica, utilizas tu competencia sin armadura para calcular tu CA.
 
-**Potenciado (4.º)** Obtienes un bonificador +1 por objeto a las tiradas de salvacion.
+**Potenciado (4.º)** Obtienes un bonificador +1 por objeto a las tiradas de salvación.
 
-**Potenciado (6.º)** El bonificador por objeto a la CA se incrementa a +2, y obtienes un bonificador +1 por objeto a las tiradas de salvacion.
+**Potenciado (6.º)** El bonificador por objeto a la CA se incrementa a +2, y obtienes un bonificador +1 por objeto a las tiradas de salvación.
 
-**Potenciado (8.º)** El bonificador por objeto a la CA se incrementa a +2, y obtienes un bonificador +2 por objeto a las tiradas de salvacion.
+**Potenciado (8.º)** El bonificador por objeto a la CA se incrementa a +2, y obtienes un bonificador +2 por objeto a las tiradas de salvación.
 
-**Potenciado (10.º)** El bonificador por objeto a la CA se incrementa a +3, y obtienes un bonificador +3 por objeto a las tiradas de salvacion.
+**Potenciado (10.º)** El bonificador por objeto a la CA se incrementa a +3, y obtienes un bonificador +3 por objeto a las tiradas de salvación.
 
 ---
 
@@ -86,11 +86,11 @@ Cada vez que mantienes el conjuro, puedes repetir el ataque contra cualquier cri
 
 Haces que cualquier conjuro lanzado sobre el objetivo descargue su energia en oleadas dañinas. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** Cuando el objetivo resulta afectado por un conjuro con duracion, sufre 2d12 daño persistente por fuerza. Cada vez que sufre daño persistente por fuerza debido a arruinaconjuros, reduce en 1 asalto la duracion restante de los conjuros que le afectan. Solo una prueba con exito de Arcanos contra tu CD de conjuros puede ayudar al objetivo a recuperarse del daño persistente; la maldición y el daño persistente acaban después de 1 minuto.
+**Éxito** Cuando el objetivo resulta afectado por un conjuro con duracion, sufre 2d12 daño persistente por fuerza. Cada vez que sufre daño persistente por fuerza debido a arruinaconjuros, reduce en 1 asalto la duracion restante de los conjuros que le afectan. Solo una prueba con éxito de Arcanos contra tu CD de conjuros puede ayudar al objetivo a recuperarse del daño persistente; la maldición y el daño persistente acaban después de 1 minuto.
 
-**Fallo** Igual que exito, pero la maldición y el daño persistente no acaban por si solos.
+**Fallo** Igual que éxito, pero la maldición y el daño persistente no acaban por si solos.
 
 **Fallo critico** Igual que fallo, pero el daño persistente por fuerza es 4d12.
 
@@ -104,9 +104,9 @@ Haces que cualquier conjuro lanzado sobre el objetivo descargue su energia en ol
 
 Amarras el objetivo a su Plano actual. Mientras el objetivo esta afectado por atadura planaria, el conjuro contrarresta cualquier efecto de teletransporte que moveria al objetivo, o cualquier efecto que lo transportaria a un Plano diferente. La duración de atadura planaria viene determinada por la salvación de Voluntad del objetivo.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** La duracion es 1 minuto.
+**Éxito** La duracion es 1 minuto.
 
 **Fallo** La duracion es 10 minutos.
 
@@ -122,9 +122,9 @@ Amarras el objetivo a su Plano actual. Mientras el objetivo esta afectado por at
 
 El objetivo se ve abrumado por una risa incontrolable. Tiene que hacer una salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo resulta afectado por una risa incontrolable. No puede utilizar reacciones.
+**Éxito** El objetivo resulta afectado por una risa incontrolable. No puede utilizar reacciones.
 
 **Fallo** El objetivo queda lentificado 1 y no puede utilizar reacciones.
 
@@ -139,7 +139,7 @@ El objetivo se ve abrumado por una risa incontrolable. Tiene que hacer una salva
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura que cae
 **Duracion:** 1 minuto
 
-Alzas una corriente de aire magica para detener una caida. La caida del objetivo se lentifica hasta 60 pies (18 m) por asalto, y la distancia que cae mientras el hechizo esta activo no cuenta para calcular el daño por caida. Si el objetivo llega a tierra con el conjuro aun en funcionamiento, no sufre daño alguno por caida. El conjuro se acaba en cuanto el objetivo aterriza.
+Alzas una corriente de aire magica para detener una caída. La caída del objetivo se lentifica hasta 60 pies (18 m) por asalto, y la distancia que cae mientras el hechizo esta activo no cuenta para calcular el daño por caída. Si el objetivo llega a tierra con el conjuro aun en funcionamiento, no sufre daño alguno por caída. El conjuro se acaba en cuanto el objetivo aterriza.
 
 ---
 
@@ -174,9 +174,9 @@ El DJ hace una prueba plana CD 6 en secreto. Con un fallo, el resultado es siemp
 
 Bullas el lamento de las almas condenadas. Cada enemigo vivo en el area sufre 8d10 daño por dacio dependiendo de su salvación de Fortaleza.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre daño completo.
+**Éxito** La criatura sufre daño completo.
 
 **Fallo** La criatura sufre daño completo y queda drenada 1d4.
 
@@ -348,9 +348,9 @@ El interior contiene tres catres, un orinal y una fogata pequeña que alberga un
 
 Concedes al cadaver objetivo una semblanza de vida, que utiliza para responder a las 3 preguntas que se le formulan. Este conjuro recupera los recuerdos latentes del cuerpo fisico en lugar de convocar el alma del fallecido, por lo que el cadaver tiene que estar bastante intacto para que el conjuro funcione. Cuanto mas daño ha sufrido el cadaver, mas inexactas o heterogéneas son sus respuestas, y tiene que disponer de una garganta y una boca para hablar. Si alguien ha lanzado previamente este conjuro sobre el cadaver durante la ultima semana, el conjuro falla automaticamente. El cadaver puede hacer una salvación de Voluntad para resistirse a responder las preguntas utilizando las estadísticas de la criatura original en el momento de su muerte, con los siguientes efectos.
 
-**Exito critico** El objetivo puede mentir o negarse a contestar, y su espiritu te persigue durante 24 horas, irritandote y haciendo que seas incapaz de descansar durante ese tiempo.
+**Éxito critico** El objetivo puede mentir o negarse a contestar, y su espiritu te persigue durante 24 horas, irritandote y haciendo que seas incapaz de descansar durante ese tiempo.
 
-**Exito** El objetivo puede proporcionar información falsa o negarse a contestar a tus preguntas.
+**Éxito** El objetivo puede proporcionar información falsa o negarse a contestar a tus preguntas.
 
 **Fallo** El objetivo tiene que responder con la verdad, pero sus respuestas pueden ser breves, cripticas y repetitivas. Sigue pudiendo engañarte o intentando hacer que pase el tiempo para que se acabe la duracion del conjuro antes de que puedas formular todas tus preguntas.
 
@@ -370,13 +370,13 @@ Descargas un poderoso rayo contra el objetivo, que inflige 8d12 daño por electr
 
 ---
 
-## Caida de Estrellas ◆◆ [CONJURO 9]
+## Caída de Estrellas ◆◆ [CONJURO 9]
 **Rasgos:** concentrar, manipular
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** 4 explosiones de 40 pies (12 m)
 **Defensa:** Reflejos basica
 
-Invocas a los cielos y provocas la caida de un puñado de estrellas fugaces que explotan al chocar con el suelo. Elige para las estrellas fugaces si son asteroides (fuego), cometas (frio), explosiones de aire (sonico) o plasma (electricidad). El conjuro obtiene el rasgo del tipo de estrella fugaz elegido. Las cuatro explosiones centrales de 10 pies (3 m) de las estrellas no se pueden solapar. Cada estrella fugaz inflige 6d10 daño contundente a cada criatura en la explosion de 10 pies (3 m) del centro de su area de efecto antes de explotar a su vez, infligiendo 14d6 daño por energia del tipo elegido a cada criatura en su explosion de 40 pies (12 m). Una criatura en cualquiera de las areas hace una salvación basica de Reflejos contra el conjuro, sin importar el numero de explosiones solapadas en el que se ve atrapado y puede sufrir cada tipo de daño tan solo una vez.
+Invocas a los cielos y provocas la caída de un puñado de estrellas fugaces que explotan al chocar con el suelo. Elige para las estrellas fugaces si son asteroides (fuego), cometas (frio), explosiones de aire (sonico) o plasma (electricidad). El conjuro obtiene el rasgo del tipo de estrella fugaz elegido. Las cuatro explosiones centrales de 10 pies (3 m) de las estrellas no se pueden solapar. Cada estrella fugaz inflige 6d10 daño contundente a cada criatura en la explosion de 10 pies (3 m) del centro de su area de efecto antes de explotar a su vez, infligiendo 14d6 daño por energia del tipo elegido a cada criatura en su explosion de 40 pies (12 m). Una criatura en cualquiera de las areas hace una salvación basica de Reflejos contra el conjuro, sin importar el numero de explosiones solapadas en el que se ve atrapado y puede sufrir cada tipo de daño tan solo una vez.
 
 **Potenciado (+1)** El daño contundente se incrementa en 1d10 y el daño por energia se incrementa en 2d6.
 
@@ -390,9 +390,9 @@ Invocas a los cielos y provocas la caida de un puñado de estrellas fugaces que 
 
 Calmas por la fuerza a las criaturas en el area, sosegandolas hasta un estado no violento; cada criatura tiene que hacer una salvación de Voluntad.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** Calmar sus intenciones impone un penalizador -1 por estatus a las tiradas de ataque de la criatura.
+**Éxito** Calmar sus intenciones impone un penalizador -1 por estatus a las tiradas de ataque de la criatura.
 
 **Fallo** Cualquier efecto de emocion que afectaria a la criatura queda suprimido y esta no puede utilizar acciones hostiles. Si el objetivo se ve sujeto a hostilidades por parte de cualquier otra criatura, deja de estar afectado por calmar.
 
@@ -457,9 +457,9 @@ Un campo de energia vital llena el area, exudando calidez y rejuvenecimiento a q
 
 Notas fugaces de una canción extraña y antinatural llenan el aire, abrumando la mente. Cada objetivo tiene que hacer una salvación de Voluntad cuando lanzas el conjuro y de nuevo la primera vez que lo Mantienes cada asalto. Una criatura solo tiene que hacer una salvación contra la canción cada asalto, y tienes que conservar los mismos objetivos cuando Mantienes el conjuro.
 
-**Exito critico** El objetivo no resulta afectado, no puede resultar afectado en asaltos subsiguientes y queda temporalmente inmune durante 1 minuto.
+**Éxito critico** El objetivo no resulta afectado, no puede resultar afectado en asaltos subsiguientes y queda temporalmente inmune durante 1 minuto.
 
-**Exito** El objetivo no resulta afectado este asalto, pero puede serlo en asaltos subsiguientes.
+**Éxito** El objetivo no resulta afectado este asalto, pero puede serlo en asaltos subsiguientes.
 
 **Fallo** Tira 1d4 en la siguiente tabla.
 
@@ -483,9 +483,9 @@ Notas fugaces de una canción extraña y antinatural llenan el aire, abrumando l
 
 Creas una melodia destilada a partir del mas puro dolor, transmitiendo la perdida inevitable de todo aquello que tu objetivo aprecia, y que solo es audible para el. El objetivo sufre 10d6 daño mental dependiendo de su salvación de Voluntad. Una criatura maldita por este conjuro no se puede beneficiar de bonificadores por circunstancia o por estatus, por la duración indicada en el grado de éxito.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo sufre mitad de daño, queda asustado 1 y maldito durante 1 asalto.
+**Éxito** El objetivo sufre mitad de daño, queda asustado 1 y maldito durante 1 asalto.
 
 **Fallo** El objetivo sufre daño completo, queda asustado 3 y maldito durante 1 semana.
 
@@ -541,13 +541,13 @@ Tus palabras fascinan a tus objetivos. Hablas o cantas sin interrupción tanto e
 
 Cada criatura que llega al alcance tiene que hacer una salvación cuando Mantienes el conjuro. Si estas hablando, cautivar obtiene el rasgo linguistico.
 
-**Exito critico** El objetivo no resulta afectado y se da cuenta de que has intentado utilizar la magia.
+**Éxito critico** El objetivo no resulta afectado y se da cuenta de que has intentado utilizar la magia.
 
-**Exito** El objetivo no tiene por que prestar atencion pero no se da cuenta de que has intentado utilizar la magia (podria darse cuenta de que otros estan cautivados).
+**Éxito** El objetivo no tiene por que prestar atencion pero no se da cuenta de que has intentado utilizar la magia (podría darse cuenta de que otros estan cautivados).
 
-**Fallo** El objetivo esta fascinado por ti. Puede hacer otra salvacion de Voluntad si es testigo de acciones o de palabras con las que esta en desacuerdo. Si tiene exito, ya no esta fascinado y queda temporalmente inmune durante 1 hora. Si el objetivo es victima de una accion hostil o si otra criatura tiene exito en una prueba de Diplomacia o de Intimidación contra ella, la fascinacion se acaba de inmediato.
+**Fallo** El objetivo esta fascinado por ti. Puede hacer otra salvación de Voluntad si es testigo de acciones o de palabras con las que esta en desacuerdo. Si tiene éxito, ya no esta fascinado y queda temporalmente inmune durante 1 hora. Si el objetivo es victima de una acción hostil o si otra criatura tiene éxito en una prueba de Diplomacia o de Intimidación contra ella, la fascinacion se acaba de inmediato.
 
-**Fallo critico** Igual que en fallo, pero el objetivo no puede hacer una salvacion para acabar con la fascinacion si esta en desacuerdo contigo.
+**Fallo critico** Igual que en fallo, pero el objetivo no puede hacer una salvación para acabar con la fascinacion si esta en desacuerdo contigo.
 
 ---
 
@@ -559,9 +559,9 @@ Cada criatura que llega al alcance tiene que hacer una salvación cuando Mantien
 
 Dejas ciego al objetivo. Los efectos vienen determinados por una salvación de Fortaleza del mismo. A continuación, queda temporalmente inmune durante 1 minuto.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda cegado hasta que empieza su siguiente turno.
+**Éxito** El objetivo queda cegado hasta que empieza su siguiente turno.
 
 **Fallo** El objetivo queda cegado durante 1 minuto.
 
@@ -613,9 +613,9 @@ Creas un ojo flotante invisible en un lugar dentro del alcance (incluso si esta 
 
 Desatas una multitud giratoria de colores que abruma a las criaturas, segun sus salvaciones de Voluntad.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura queda deslumbrada durante 1 asalto.
+**Éxito** La criatura queda deslumbrada durante 1 asalto.
 
 **Fallo** La criatura queda aturdida 1, cegada durante 1 asalto y deslumbrada durante 1 minuto.
 
@@ -641,13 +641,13 @@ Forjas un vinculo temporal entre la esencia vital del objetivo y la tuya. El obj
 
 Ofuscas a tu objetivo con extraños impulsos, haciendo que actue de forma aleatoria. Los efectos dependen de la salvación de Voluntad del objetivo. Puedes Disipar el conjuro.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo balbucea incoherentemente y queda aturdido 1.
+**Éxito** El objetivo balbucea incoherentemente y queda aturdido 1.
 
-**Fallo** El objetivo queda confundido durante 1 minuto. Puede intentar una nueva salvacion al final de cada uno de sus turnos para acabar con la confusion.
+**Fallo** El objetivo queda confundido durante 1 minuto. Puede intentar una nueva salvación al final de cada uno de sus turnos para acabar con la confusion.
 
-**Fallo critico** El objetivo queda confundido durante 1 minuto, sin derecho a salvacion para acabar antes.
+**Fallo critico** El objetivo queda confundido durante 1 minuto, sin derecho a salvación para acabar antes.
 
 **Potenciado (8.º)** Puedes designar como objetivo hasta 10 criaturas.
 
@@ -891,7 +891,7 @@ Convocas a una criatura con el rasgo aberración y cuyo nivel es 5 o menor para 
 
 ---
 
-## Creacion [CONJURO 4]
+## Creación [CONJURO 4]
 **Rasgos:** concentrar, manipular
 **Tradiciones:** arcana, primigenia
 **Lanzamiento:** 1 minuto
@@ -957,9 +957,9 @@ Cualquier criatura que toque la imagen o utilice la acción de Buscar para exami
 
 Asaltas la fe del objetivo, llenandole de dudas y de inquietud mental que le infligen 6d6 daño mental o 6d8 daño mental si puede lanzar conjuros divinos. Los efectos vienen determinados por su salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo sufre mitad de daño.
+**Éxito** El objetivo sufre mitad de daño.
 
 **Fallo** El objetivo sufre daño completo; si puede lanzar conjuros divinos, queda anonadado 1 durante 1 asalto.
 
@@ -1023,7 +1023,7 @@ Este conjuro no puede contrarrestar ni suprimir maldiciones, enfermedades o esta
 
 Una masa de serpientes de sombra se alza para capturar a las criaturas en el area. Cada criatura en el area cuando lanzas el conjuro sufre 3d6 daño perforante y 1d6 daño persistente por veneno debido a un mordisco de serpiente, quedando agarrada o neutralizada dependiendo de su salvación de Reflejos. Una criatura que acaba su turno en el area tiene que hacer esta Salvación incluso si esta ya agarrada o neutralizada por las serpientes. Puedes Disipar el conjuro.
 
-**Exito** La criatura no resulta afectada.
+**Éxito** La criatura no resulta afectada.
 
 **Fallo** La criatura sufre daño completo y es agarrada por una serpiente. La CD de Huir de la serpiente es igual a tu CD de conjuros. Se puede atacar a una serpiente para liberar a la criatura. La CA de una serpiente es igual a tu CD de conjuros y es destruida si sufre 12 daño o mas de una sola vez. Conforme dura el conjuro, van apareciendo nuevas serpientes, por lo que destruir algunas no evita que culebrear capture mas criaturas.
 

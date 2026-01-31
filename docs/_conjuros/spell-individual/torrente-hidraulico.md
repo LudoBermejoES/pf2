@@ -18,6 +18,6 @@ spell_level: 4
 
 ---
 
-Un torrente giratorio de agua se manifiesta a lo largo de una linea recta, golpeando a las criaturas y objetos desatendidos en su camino y posiblemente apartandolos de ti. El torrente inflige 8d6 dano contundente. Cada criatura en el area tiene que hacer una salvacion basica de Fortaleza; los objetos desatendidos la fallan automaticamente. Las criaturas y los objetos que fallan son tambien empujados hacia atras 5 pies (10 pies con un fallo critico [1,5 y 3 m respectivamente]).
+Un torrente giratorio de agua se manifiesta a lo largo de una linea recta, golpeando a las criaturas y objetos desatendidos en su camino y posiblemente apartandolos de ti. El torrente inflige 8d6 dano contundente. Cada criatura en el area tiene que hacer una salvación basica de Fortaleza; los objetos desatendidos la fallan automaticamente. Las criaturas y los objetos que fallan son tambien empujados hacia atras 5 pies (10 pies con un fallo critico [1,5 y 3 m respectivamente]).
 
 **Potenciado (+1)** El dano se incrementa en 2d6.

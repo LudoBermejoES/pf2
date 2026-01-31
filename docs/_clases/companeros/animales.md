@@ -23,8 +23,8 @@ Cada entrada de compañero animal incluye las siguientes estadísticas:
 | **Sentidos** | Los sentidos especiales que tiene tu compañero |
 | **Velocidad** | Las Velocidades de tu compañero |
 | **Especial** | Si esta presente, indica cualquier aptitud especial de la que dispone tu compañero, como por ejemplo si a menudo actua como montura |
-| **Beneficio por apoyo** | Un beneficio especial que obtienes Comandando al animal para utilizar la accion de Apoyar |
-| **Maniobra avanzada** | Una accion nueva y poderosa que tu compañero aprende a utilizar si se convierte en un compañero animal agil o salvaje |
+| **Beneficio por apoyo** | Un beneficio especial que obtienes Comandando al animal para utilizar la acción de Apoyar |
+| **Maniobra avanzada** | Una acción nueva y poderosa que tu compañero aprende a utilizar si se convierte en un compañero animal agil o salvaje |
 
 ## Apoyar
 
@@ -80,7 +80,7 @@ Tu compañero es un caballo, poni o equino similar.
 | **Velocidad** | 40 pies (12 m) |
 | **Especial** | montura |
 
-**Beneficio por apoyo:** Hasta el inicio de tu siguiente turno, si vas montado en tu caballo y has movido 10 pies (3 m) o mas en la accion anterior a un Golpe cuerpo a cuerpo, suma un bonificador por circunstancia al daño en dicho Golpe igual al doble del numero de dados de daño por arma. Si tu arma tiene el rasgo justa, incrementa en 2 por dado el bonificador al daño del rasgo.
+**Beneficio por apoyo:** Hasta el inicio de tu siguiente turno, si vas montado en tu caballo y has movido 10 pies (3 m) o mas en la acción anterior a un Golpe cuerpo a cuerpo, suma un bonificador por circunstancia al daño en dicho Golpe igual al doble del numero de dados de daño por arma. Si tu arma tiene el rasgo justa, incrementa en 2 por dado el bonificador al daño del rasgo.
 
 **Maniobra avanzada: Galope** [two-actions]
 
@@ -255,11 +255,11 @@ Tu compañero es un lobo, un perro u otro canido.
 | **Sentidos** | Vision en la penumbra, olfato (impreciso, 30 pies [9 m]) |
 | **Velocidad** | 40 pies (12 m) |
 
-**Beneficio por apoyo:** Tu lobo desgarra tendones con cada abertura. Hasta el inicio de tu siguiente turno, tus Golpes que dañan a las criaturas a las que amenaza tu lobo imponen al objetivo un penalizador -5 pies (1,5 m) por estatus a sus Velocidades durante 1 minuto (-10 pies [3 m] con un exito critico).
+**Beneficio por apoyo:** Tu lobo desgarra tendones con cada abertura. Hasta el inicio de tu siguiente turno, tus Golpes que dañan a las criaturas a las que amenaza tu lobo imponen al objetivo un penalizador -5 pies (1,5 m) por estatus a sus Velocidades durante 1 minuto (-10 pies [3 m] con un éxito critico).
 
 **Maniobra avanzada: Abatir** [one-action]
 
-**Requisitos** La ultima accion del compañero animal ha sido un Golpe de mandibulas con exito.
+**Requisitos** La ultima acción del compañero animal ha sido un Golpe de mandibulas con éxito.
 
 El lobo derriba automaticamente al objetivo de su Golpe de mandibula.
 
@@ -307,7 +307,7 @@ Tu compañero es un oso negro, gris, polar o cualquier otro tipo de oso.
 
 **Maniobra avanzada: Abrazo de oso** [one-action]
 
-**Requisitos** La ultima accion del oso ha sido un Golpe de garra con exito.
+**Requisitos** La ultima acción del oso ha sido un Golpe de garra con éxito.
 
 El oso da otro Golpe de garra contra el mismo objetivo. Si dicho Golpe impacta, el objetivo queda tambien apresado, como si el oso hubiera hecho una Presa con éxito sobre el mismo.
 
@@ -400,7 +400,7 @@ Tu compañero es un tejon, un glotón u otro mustelido grande.
 | **Sentidos** | Vision en la penumbra, olfato (impreciso, 30 pies [9 m]) |
 | **Velocidad** | 25 pies (7,5 m), excavar 10 pies (3 m), trepar 10 pies (3 m) |
 
-**Beneficio por apoyo:** Tu tejon excava alrededor de la posición de tu enemigo, interfiriendo con sus movimientos. Hasta el inicio de tu siguiente turno, si aciertas e infliges daño a una criatura a la que amenaza tu tejon, el objetivo no puede utilizar una accion de Paso (a menos que pueda dar un Paso a traves de terreno difícil) hasta que se mueve de su posición actual.
+**Beneficio por apoyo:** Tu tejon excava alrededor de la posición de tu enemigo, interfiriendo con sus movimientos. Hasta el inicio de tu siguiente turno, si aciertas e infliges daño a una criatura a la que amenaza tu tejon, el objetivo no puede utilizar una acción de Paso (a menos que pueda dar un Paso a traves de terreno difícil) hasta que se mueve de su posición actual.
 
 **Maniobra avanzada: Furia del tejon** [one-action]
 
@@ -436,7 +436,7 @@ Tu compañero es un tiburón de cualquier tipo, como por ejemplo un tiburón mar
 
 **Maniobra avanzada: Desmenuzar** [one-action]
 
-**Requisitos** El tiburon ha impactado con un Golpe de mandibulas en su accion mas reciente de este turno.
+**Requisitos** El tiburon ha impactado con un Golpe de mandibulas en su acción mas reciente de este turno.
 
 El tiburón desgarra salvajemente la herida. El objetivo del Golpe del tiburón sufre 1d8 daño cortante (2d8 para un tiburón maduro o 3d8 para un compañero especializado).
 
@@ -488,7 +488,7 @@ Los compañeros animales especializados son mas inteligentes y tienen comportami
 
 **Corredor:** Tu compañero sabe correr. Obtiene un bonificador +10 pies (3 m) por estatus a su Velocidad terrestre, su Velocidad de nadar o su Velocidad de vuelo (tu eliges). Su rango de competencia en las salvaciones de Fortaleza se incrementa a legendario y su modificador por Constitución se incrementa en 1.
 
-**Emboscador:** Tu compañero puede utilizar una accion de Movimiento furtivo en su entorno natural, incluso si esta siendo observado. Su rango de competencia en Sigilo se incrementa a experto (o a maestro si ya tenia rango experto debido a su tipo) y su bonificador por Destreza se incrementa en 1. Su rango de competencia para la defensa sin armadura se incrementa a experto.
+**Emboscador:** Tu compañero puede utilizar una acción de Movimiento furtivo en su entorno natural, incluso si esta siendo observado. Su rango de competencia en Sigilo se incrementa a experto (o a maestro si ya tenia rango experto debido a su tipo) y su bonificador por Destreza se incrementa en 1. Su rango de competencia para la defensa sin armadura se incrementa a experto.
 
 **Maton:** Tu compañero aterroriza a los enemigos con exhibiciones de dominacion y les empuja por el campo de batalla. Su rango de competencia en Atletismo e Intimidación se incrementa a experto (o a maestro si ya tenia rango experto debido a su tipo), su modificador por Fuerza se incrementa en 1 y su modificador por Carisma se incrementa en 3.
 

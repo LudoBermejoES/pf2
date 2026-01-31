@@ -87,7 +87,7 @@ Aprendes el conjuro de composición **contrarrestar interpretación**, que prote
 
 #### Trucos de Composicion
 
-Los trucos de composición son conjuros de composición especiales que no cuestan Puntos de Foco, por lo que podras utilizarlos tan a menudo como quieras. Los trucos de composición son adicionales a los trucos que eliges con lanzamiento de conjuros de bardo. A diferencia de otros trucos, no podras intercambiar trucos de composición obtenidos de dotes de bardo a un nivel posterior, a menos que intercambies la dote especifica mediante la reconversion.
+Los trucos de composición son conjuros de composición especiales que no cuestan Puntos de Foco, por lo que podrás utilizarlos tan a menudo como quieras. Los trucos de composición son adicionales a los trucos que eliges con lanzamiento de conjuros de bardo. A diferencia de otros trucos, no podrás intercambiar trucos de composición obtenidos de dotes de bardo a un nivel posterior, a menos que intercambies la dote especifica mediante la reconversion.
 
 Aprendes el truco de composición **himno valeroso** que refuerza los ataques, el dano y la defensa de tus aliados contra el miedo.
 
@@ -188,7 +188,7 @@ Si has aprendido un conjuro de signatura a un nivel superior a su minimo, tambie
 
 A 3.er nivel y cada 2 niveles posteriores, obtienes un incremento de habilidad. Puedes utilizarlo, o bien para obtener el rango entrenado en una habilidad en la que no lo estas, o bien para obtener el rango experto en una habilidad en la que ya dispones del rango entrenado.
 
-A 7.o nivel, podras utilizar los incrementos de habilidad para alcanzar el rango maestro en una habilidad en la que ya dispongas del rango experto y a 15.o nivel podras utilizarlos para alcanzar el rango legendario en una habilidad en la que ya dispongas del rango maestro.
+A 7.o nivel, podrás utilizar los incrementos de habilidad para alcanzar el rango maestro en una habilidad en la que ya dispongas del rango experto y a 15.o nivel podrás utilizarlos para alcanzar el rango legendario en una habilidad en la que ya dispongas del rango maestro.
 
 ### Dotes de Ascendencia (5.o)
 

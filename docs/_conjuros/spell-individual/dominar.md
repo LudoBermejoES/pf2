@@ -21,14 +21,14 @@ spell_level: 6
 
 ---
 
-Tomas el mando del objetivo, obligándole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvacion de Voluntad.
+Tomas el mando del objetivo, obligándole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvación de Voluntad.
 
-**Exito critico** El objetivo no resulta afectado.
+**Éxito critico** El objetivo no resulta afectado.
 
-**Exito** El objetivo queda aturdido 1 mientras lucha contra tus ordenes.
+**Éxito** El objetivo queda aturdido 1 mientras lucha contra tus ordenes.
 
-**Fallo** Controlas al objetivo. Sufre el estado controlado, pero puede hacer una salvacion de Voluntad al final de cada uno de sus turnos. Con un exito, el conjuro se acaba.
+**Fallo** Controlas al objetivo. Sufre el estado controlado, pero puede hacer una salvación de Voluntad al final de cada uno de sus turnos. Con un éxito, el conjuro se acaba.
 
-**Fallo critico** Igual que fallo, pero el objetivo tan solo tiene derecho a una nueva salvacion si le das una nueva orden que va contra su naturaleza, como por ejemplo matar a sus aliados.
+**Fallo critico** Igual que fallo, pero el objetivo tan solo tiene derecho a una nueva salvación si le das una nueva orden que va contra su naturaleza, como por ejemplo matar a sus aliados.
 
 **Potenciado (10.o)** La duracion es ilimitada.

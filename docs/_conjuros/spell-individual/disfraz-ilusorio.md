@@ -22,7 +22,7 @@ spell_level: 1
 
 Creas una ilusion que hace que el objetivo parezca otra criatura de la misma forma corporal y de estatura aproximadamente similar (mas o menos 6 pulgadas [15 cm]) y peso (mas o menos 50 libras [22,5 kg]). El disfraz es tipicamente lo bastante bueno como para ocultar su identidad, pero no para imitar a un individuo especifico. El conjuro cambia su apariencia y su voz, pero no sus manierismos. Puedes cambiar la apariencia de su ropa y de los objetos que lleva puestos, como por ejemplo hacer que su armadura parezca un vestido. Los objetos sostenidos no resultan afectados y cualquier objeto puesto sacado de la criatura vuelve a su apariencia verdadera.
 
-Lanzar disfraz ilusorio equivale a preparar un disfraz para el uso Imitar de Engano; ignora cualquier penalizador por circunstancia que el objetivo podria sufrir por disfrazarse como una criatura no similar, concede un bonificador +4 a las pruebas de Engano para evitar que otros vean a traves del disfraz y permite al objetivo sumar su nivel a dichas pruebas de Engano incluso si no esta entrenado. Puedes Disipar este conjuro.
+Lanzar disfraz ilusorio equivale a preparar un disfraz para el uso Imitar de Engano; ignora cualquier penalizador por circunstancia que el objetivo podría sufrir por disfrazarse como una criatura no similar, concede un bonificador +4 a las pruebas de Engano para evitar que otros vean a traves del disfraz y permite al objetivo sumar su nivel a dichas pruebas de Engano incluso si no esta entrenado. Puedes Disipar este conjuro.
 
 **Potenciado (3.o)** El objetivo puede parecer cualquier criatura del mismo tamaño, incluso un individuo especifico. Tienes que haber visto a un individuo para replicar su apariencia, y tienes que haber oido su voz para replicarla.
 

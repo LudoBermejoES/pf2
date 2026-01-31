@@ -17,4 +17,4 @@ spell_level: 2
 
 ---
 
-Descoses la magia que hay tras un conjuro o efecto. Haz una prueba de contrarrestar contra el objetivo. Si contrarrestas con exito un objeto magico, se convierte en un objeto mundano de su tipo durante 10 minutos. Esto no cambia las propiedades no magicas del objeto. Si el objetivo es un artefacto u objeto similar, fallas automaticamente.
+Descoses la magia que hay tras un conjuro o efecto. Haz una prueba de contrarrestar contra el objetivo. Si contrarrestas con éxito un objeto magico, se convierte en un objeto mundano de su tipo durante 10 minutos. Esto no cambia las propiedades no magicas del objeto. Si el objetivo es un artefacto u objeto similar, fallas automaticamente.

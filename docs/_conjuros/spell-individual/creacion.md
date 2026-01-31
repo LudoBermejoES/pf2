@@ -1,11 +1,11 @@
 ---
 layout: spell
-permalink: /conjuros/creacion/
-title: Creacion
+permalink: /conjuros/creación/
+title: Creación
 chapter: Conjuros
 spell_level: 4
 ---
-## Creacion [CONJURO 4]
+## Creación [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
 **Lanzamiento:** 1 minuto

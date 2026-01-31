@@ -18,11 +18,11 @@ spell_level: 1
 
 ---
 
-Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros infligen 2d4 dano contundente a cada criatura en el area. Cada criatura tiene que hacer una salvacion de Reflejos.
+Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros infligen 2d4 dano contundente a cada criatura en el area. Cada criatura tiene que hacer una salvación de Reflejos.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo y es apartada 5 pies (1,5 m) de ti de un empujón.
 

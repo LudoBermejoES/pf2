@@ -20,13 +20,13 @@ spell_level: 7
 
 ---
 
-Un globo de oscuridad congeladora explota en el area, infligiendo 8d10 dano por frio a las criaturas presentes, mas 8d4 dano adicional por vacío a las criaturas vivas. Cada criatura en el area tiene que hacer una salvacion de Reflejos.
+Un globo de oscuridad congeladora explota en el area, infligiendo 8d10 dano por frio a las criaturas presentes, mas 8d4 dano adicional por vacío a las criaturas vivas. Cada criatura en el area tiene que hacer una salvación de Reflejos.
 
 Si el globo se solapa con un area de luz magica o afecta a una criatura afectada por luz magica, explosion de eclipse contrarresta el efecto de luz.
 
-**Exito critico** La criatura no resulta afectada.
+**Éxito critico** La criatura no resulta afectada.
 
-**Exito** La criatura sufre mitad de dano.
+**Éxito** La criatura sufre mitad de dano.
 
 **Fallo** La criatura sufre dano completo.
 
