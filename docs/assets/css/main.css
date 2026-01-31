@@ -1305,7 +1305,14 @@ tbody tr:hover {
 /* Spell metadata in compact format */
 .spell-body strong {
   color: var(--text-primary);
-  font-weight: 600;
+  font-weight: 700;
+  display: block;
+  margin-top: var(--spacing-sm);
+  margin-bottom: var(--spacing-xs);
+}
+
+.spell-body strong:first-of-type {
+  margin-top: 0;
 }
 
 /* Trait tags styling */
@@ -1313,12 +1320,15 @@ tbody tr:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin: var(--spacing-md) 0;
+  margin: var(--spacing-lg) 0;
+  padding: var(--spacing-md) 0;
+  border-top: 1px solid var(--border-primary);
+  border-bottom: 1px solid var(--border-primary);
 }
 
 .trait-tag {
   display: inline-block;
-  padding: 0.3rem 0.6rem;
+  padding: 0.35rem 0.7rem;
   background: var(--pf-red-dark);
   color: var(--pf-gold);
   font-family: var(--font-display);
