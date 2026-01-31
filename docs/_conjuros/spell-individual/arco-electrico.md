@@ -19,8 +19,7 @@ spell_level: TRUCO
 <span class="trait-tag">truco</span>
 </div>
 
-**Alcance:** 30 pies (9 m)
-**Objetivos:** 1 o 2 criaturas
+**Alcance:** 30 pies (9 m); **Objetivos:** 1 o 2 criaturas
 **Defensa:** Reflejos básica
 
 ---

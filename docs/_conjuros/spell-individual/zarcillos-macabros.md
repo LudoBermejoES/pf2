@@ -8,8 +8,7 @@ spell_level: 1
 ## Zarcillos Macabros ◆◆ [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
-**Area:** linea de 30 pies (9 m)
-**Defensa:** Fortaleza
+**Area:** linea de 30 pies (9 m); **Defensa:** Fortaleza
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

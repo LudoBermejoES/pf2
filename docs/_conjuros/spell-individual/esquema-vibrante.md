@@ -8,8 +8,7 @@ spell_level: 6
 ## Esquema Vibrante ◆◆ [CONJURO 6]
 
 **Tradiciones:** arcana, ocultista
-**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
-**Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
+**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m); **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Discreto</span>

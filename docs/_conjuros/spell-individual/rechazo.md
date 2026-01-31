@@ -8,8 +8,7 @@ spell_level: 6
 ## Rechazo ◆◆ [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista
-**Área:** emanación de hasta 40 pies (12 m)
-**Defensa:** Voluntad; **Duración:** 1 minuto
+**Área:** emanación de hasta 40 pies (12 m); **Defensa:** Voluntad; **Duración:** 1 minuto
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aura</span>

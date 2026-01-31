@@ -8,8 +8,7 @@ spell_level: 2
 ## Explosion de Ruido ◆◆ [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista
-**Rango de distancia:** 30 pies (9 m); **Area:** explosion de 10 pies (3 m)
-**Defensa:** Fortaleza
+**Rango de distancia:** 30 pies (9 m); **Area:** explosion de 10 pies (3 m); **Defensa:** Fortaleza
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

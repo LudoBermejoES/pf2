@@ -8,8 +8,7 @@ spell_level: 4
 ## Tormenta de Armas ◆◆ [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
-**Area:** cono de 30 pies (9 m) o emanacion de 10 pies (3 m)
-**Defensa:** Reflejos
+**Area:** cono de 30 pies (9 m) o emanacion de 10 pies (3 m); **Defensa:** Reflejos
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

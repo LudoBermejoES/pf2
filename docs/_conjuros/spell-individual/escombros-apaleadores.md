@@ -8,8 +8,7 @@ spell_level: 1
 ## Escombros Apaleadores ◆◆ [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
-**Area:** cono de 15 pies (4,5 m)
-**Defensa:** Reflejos
+**Area:** cono de 15 pies (4,5 m); **Defensa:** Reflejos
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

@@ -8,8 +8,7 @@ spell_level: 7
 ## Decreto Divino ◆◆ [CONJURO 7]
 
 **Tradiciones:** divina
-**Rango de distancia:** 40 pies (12 m); **Area:** emanacion de 40 pies (12 m)
-**Defensa:** Fortaleza; **Duracion:** variable
+**Rango de distancia:** 40 pies (12 m); **Area:** emanacion de 40 pies (12 m); **Defensa:** Fortaleza; **Duracion:** variable
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

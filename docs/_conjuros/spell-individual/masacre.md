@@ -8,8 +8,7 @@ spell_level: 9
 ## Masacre ◆◆ [CONJURO 9]
 
 **Tradiciones:** arcana, divina, primigenia
-**Area:** linea de 60 pies (18 m)
-**Defensa:** Fortaleza
+**Area:** linea de 60 pies (18 m); **Defensa:** Fortaleza
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

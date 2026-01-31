@@ -8,8 +8,7 @@ spell_level: 2
 ## Luz Reveladora ◆◆ [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
-**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
-**Defensa:** Reflejos; **Duracion:** variable
+**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m); **Defensa:** Reflejos; **Duracion:** variable
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

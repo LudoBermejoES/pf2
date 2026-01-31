@@ -8,8 +8,7 @@ spell_level: 7
 ## Erupcion Volcanica ◆◆ [CONJURO 7]
 
 **Tradiciones:** primigenia
-**Rango de distancia:** 120 pies (36 m); **Area:** un cilindro de 5 pies (1,5 m) de radio y 80 pies (24 m) de altura
-**Defensa:** Reflejos
+**Rango de distancia:** 120 pies (36 m); **Area:** un cilindro de 5 pies (1,5 m) de radio y 80 pies (24 m) de altura; **Defensa:** Reflejos
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

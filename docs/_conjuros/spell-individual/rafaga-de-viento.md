@@ -8,8 +8,7 @@ spell_level: 1
 ## Ráfaga de Viento ◆◆ [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
-**Área:** línea de 60 pies (18 m)
-**Defensa:** Fortaleza; **Duración:** hasta el inicio de tu siguiente turno
+**Área:** línea de 60 pies (18 m); **Defensa:** Fortaleza; **Duración:** hasta el inicio de tu siguiente turno
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aire</span>

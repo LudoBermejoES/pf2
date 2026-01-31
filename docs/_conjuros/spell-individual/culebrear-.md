@@ -8,8 +8,7 @@ spell_level: 5
 ## Culebrear ◆◆/◆◆◆ [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
-**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
-**Defensa:** Reflejos; **Duracion:** 1 minuto
+**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Reflejos; **Duracion:** 1 minuto
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

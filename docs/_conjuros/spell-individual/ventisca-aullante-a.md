@@ -8,8 +8,7 @@ spell_level: 5
 ## Ventisca Aullante ◆◆ a ◆◆◆ [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
-**Area:** variable
-**Defensa:** Reflejos
+**Area:** variable; **Defensa:** Reflejos
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aire</span>

@@ -8,8 +8,7 @@ spell_level: 5
 ## Ola de Desesperación ◆◆ [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
-**Área:** cono de 30 pies (9 m)
-**Defensa:** Voluntad; **Duración:** 1 o más asaltos
+**Área:** cono de 30 pies (9 m); **Defensa:** Voluntad; **Duración:** 1 o más asaltos
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

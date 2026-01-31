@@ -8,8 +8,7 @@ spell_level: 1
 ## Colores Mareantes ◆◆ [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
-**Area:** cono de 15 pies (4,5 m)
-**Defensa:** Voluntad; **Duracion:** 1 o mas asaltos (ver a continuacion)
+**Area:** cono de 15 pies (4,5 m); **Defensa:** Voluntad; **Duracion:** 1 o mas asaltos (ver a continuacion)
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

@@ -8,8 +8,7 @@ spell_level: 3
 ## Bola de Fuego ◆◆ [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
-**Rango de distancia:** 500 pies (150 m); **Area:** explosion de 20 pies (6 m)
-**Defensa:** Reflejos basica
+**Rango de distancia:** 500 pies (150 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Reflejos basica
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

@@ -8,8 +8,7 @@ spell_level: 9
 ## Aullidos de los Condenados ◆◆ [CONJURO 9]
 
 **Tradiciones:** divina, ocultista
-**Area:** emanacion de 40 pies (12 m)
-**Defensa:** Fortaleza
+**Area:** emanacion de 40 pies (12 m); **Defensa:** Fortaleza
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Auditivo</span>

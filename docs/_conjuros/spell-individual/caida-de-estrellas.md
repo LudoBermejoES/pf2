@@ -8,8 +8,7 @@ spell_level: 9
 ## Caida de Estrellas ◆◆ [CONJURO 9]
 
 **Tradiciones:** arcana, primigenia
-**Rango de distancia:** 500 pies (150 m); **Area:** 4 explosiones de 40 pies (12 m)
-**Defensa:** Reflejos basica
+**Rango de distancia:** 500 pies (150 m); **Area:** 4 explosiones de 40 pies (12 m); **Defensa:** Reflejos basica
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

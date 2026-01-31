@@ -8,8 +8,7 @@ spell_level: 5
 ## Explosion de Sombra ◆◆ [CONJURO 5]
 
 **Tradiciones:** divina, ocultista
-**Rango de distancia:** variable; **Area:** variable
-**Defensa:** Reflejos o Voluntad basica (a elegir por el objetivo)
+**Rango de distancia:** variable; **Area:** variable; **Defensa:** Reflejos o Voluntad basica (a elegir por el objetivo)
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

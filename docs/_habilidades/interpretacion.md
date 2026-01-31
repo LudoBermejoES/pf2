@@ -1,34 +1,34 @@
 ---
 layout: page
 permalink: /habilidades/interpretacion/
-title: Interpretacion (Car)
+title: Interpretación (Car)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
 ---
 
-Eres habil en una forma de interpretacion, utilizando tu talento para impresionar a las multitudes o para ganarte la vida.
+Eres hábil en una forma de interpretación, utilizando tu talento para impresionar a las multitudes o para ganarte la vida.
 
 ---
 
-## Competencia basica
+## Competencia básica
 
-Algunas interpretaciones requieren algo mas que ser carismatico y si no cumples las demandas de la forma artistica o de la audiencia, el DJ te podria aplicar un penalizador basado en el atributo relevante. Por ejemplo, si quieres bailar y tienes un modificador negativo por Destreza, podrias sufrir un penalizador. Igualmente, si tienes que dar un discurso y tu modificador por inteligencia es negativo, podrias tener que esperar que tu Carisma en bruto superara los penalizadores debidos a tus limitaciones intelectuales... o pedirle a alguien que te ayude a escribirlo.
+Algunas interpretaciones requieren algo más que ser carismático y si no cumples las demandas de la forma artística o de la audiencia, el DJ te podría aplicar un penalizador basado en el atributo relevante. Por ejemplo, si quieres bailar y tienes un modificador negativo por Destreza, podrías sufrir un penalizador. Igualmente, si tienes que dar un discurso y tu modificador por inteligencia es negativo, podrías tener que esperar que tu Carisma en bruto superara los penalizadores debidos a tus limitaciones intelectuales... o pedirle a alguien que te ayude a escribirlo.
 
 ---
 
-## Rasgos de interpretacion
+## Rasgos de interpretación
 
-Cuando utilizas una accion que usa la habilidad Interpretacion, esta obtiene uno o mas rasgos relevantes al tipo de la misma. El DJ podria cambiarlos dependiendo de las circunstancias, pero los rasgos mas comunes basados en la interpretacion se indican mas abajo.
+Cuando utilizas una acción que usa la habilidad Interpretación, esta obtiene uno o más rasgos relevantes al tipo de la misma. El DJ podría cambiarlos dependiendo de las circunstancias, pero los rasgos más comunes basados en la interpretación se indican más abajo.
 
-Si quieres ser particularmente habil con un tipo de interpretacion, puedes seleccionar la dote de habilidad Interprete virtuoso. Dicha dote subdivide algunas de las interpretaciones indicadas mas abajo por tipo de instrumento especifico y tu DJ podria permitirte que anadieras tu propio tipo.
+Si quieres ser particularmente hábil con un tipo de interpretación, puedes seleccionar la dote de habilidad Intérprete virtuoso. Dicha dote subdivide algunas de las interpretaciones indicadas más abajo por tipo de instrumento específico y tu DJ podría permitirte que añadieras tu propio tipo.
 
-| Interpretacion | Rasgos adicionales |
+| Interpretación | Rasgos adicionales |
 |----------------|-------------------|
-| Actuar o Interpretar una comedia | Auditivo, linguistico y visual |
+| Actuar o Interpretar una comedia | Auditivo, lingüístico y visual |
 | Bailar | Auditivo y manipular |
 | Tocar un instrumento | Auditivo y manipular |
-| Hablar en publico o cantar | Auditivo y linguistico |
+| Hablar en público o cantar | Auditivo y lingüístico |
 
 ---
 
@@ -36,14 +36,14 @@ Si quieres ser particularmente habil con un tipo de interpretacion, puedes selec
 
 **Rasgos:** Concentrar
 
-Cuando llevas a cabo una interpretacion breve (una cancion, un baile rapido o unos cuantos chistes) utilizas la accion Interpretar. Esta accion es especialmente util cuando quieres demostrar tu capacidad o impresionar rapidamente a alguien. Interpretar raramente tiene impacto por si sola, pero podria influenciar las CD de las pruebas de Diplomacia subsiguientes contra quienes observan o incluso cambiar sus actitudes si el DJ lo cree conveniente.
+Cuando llevas a cabo una interpretación breve (una canción, un baile rápido o unos cuantos chistes) utilizas la acción Interpretar. Esta acción es especialmente útil cuando quieres demostrar tu capacidad o impresionar rápidamente a alguien. Interpretar raramente tiene impacto por sí sola, pero podría influir en las CD de las pruebas de Diplomacia subsiguientes contra quienes observan o incluso cambiar sus actitudes si el DJ lo cree conveniente.
 
-### Grados de exito
+### Grados de éxito
 
-- **Exito critico:** Tu interpretacion impresiona a los observadores, que es probable que compartan comentarios acerca de tu aptitud.
-- **Exito:** Demuestras tu valia y los observadores aprecian la calidad de tu interpretacion.
+- **Éxito crítico:** Tu interpretación impresiona a los observadores, que es probable que compartan comentarios acerca de tu aptitud.
+- **Éxito:** Demuestras tu valía y los observadores aprecian la calidad de tu interpretación.
 - **Fallo:** Tu interpretacion fracasa.
-- **Fallo critico:** Tan solo demuestras tu incompetencia.
+- **Fallo crítico:** Tan solo demuestras tu incompetencia.
 
 ### Ejemplos de tareas de Interpretar
 
@@ -59,6 +59,6 @@ Cuando llevas a cabo una interpretacion breve (una cancion, un baile rapido o un
 
 ## Obtener ingresos (entrenado)
 
-Tienes que estar entrenado en Interpretacion a fin de utilizarla para Obtener ingresos.
+Tienes que estar entrenado en Interpretación a fin de utilizarla para Obtener ingresos.
 
-Puedes utilizar Interpretacion para Obtener ingresos organizando una interpretacion. Consulta la accion general Obtener ingresos para mas detalles sobre como funciona esta actividad de intermedio.
+Puedes utilizar Interpretación para Obtener ingresos organizando una interpretación. Consulta la acción general Obtener ingresos para más detalles sobre cómo funciona esta actividad de intermedio.

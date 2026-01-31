@@ -8,8 +8,7 @@ spell_level: 4
 ## Ira Divina ◆◆ [CONJURO 4]
 
 **Tradiciones:** divina
-**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
-**Defensa:** Fortaleza
+**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Fortaleza
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

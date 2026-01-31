@@ -8,8 +8,7 @@ spell_level: 5
 ## Inmolacion Divina ◆◆ [CONJURO 5]
 
 **Tradiciones:** divina
-**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
-**Defensa:** Reflejos
+**Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Reflejos
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

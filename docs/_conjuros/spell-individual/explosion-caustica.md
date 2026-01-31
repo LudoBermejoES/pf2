@@ -20,8 +20,7 @@ spell_level: TRUCO
 </div>
 
 **Alcance:** 30 pies (9 m)
-**Área:** explosión de 5 pies (1,5 m)
-**Defensa:** Reflejos básica
+**Área:** explosión de 5 pies (1,5 m); **Defensa:** Reflejos básica
 
 ---
 

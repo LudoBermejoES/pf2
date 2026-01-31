@@ -8,8 +8,7 @@ spell_level: 6
 ## Desangramiento Vampirico ◆◆ [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista
-**Area:** cono de 30 pies (9 m)
-**Defensa:** Fortaleza basica
+**Area:** cono de 30 pies (9 m); **Defensa:** Fortaleza basica
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

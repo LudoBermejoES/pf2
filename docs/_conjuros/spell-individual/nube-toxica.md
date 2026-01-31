@@ -8,8 +8,7 @@ spell_level: 5
 ## Nube Tóxica ◆◆◆ [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
-**Rango de distancia:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)
-**Defensa:** Fortaleza básica; **Duración:** 1 minuto
+**Rango de distancia:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m); **Defensa:** Fortaleza básica; **Duración:** 1 minuto
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

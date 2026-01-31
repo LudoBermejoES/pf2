@@ -8,8 +8,7 @@ spell_level: 8
 ## Grieta Artica ◆◆ [CONJURO 8]
 
 **Tradiciones:** arcana, primigenia
-**Area:** linea de 120 pies (36 m)
-**Defensa:** Fortaleza
+**Area:** linea de 120 pies (36 m); **Defensa:** Fortaleza
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

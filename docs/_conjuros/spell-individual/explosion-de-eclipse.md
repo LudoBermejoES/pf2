@@ -8,8 +8,7 @@ spell_level: 7
 ## Explosion de Eclipse ◆◆ [CONJURO 7]
 
 **Tradiciones:** arcana, divina, primigenia
-**Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
-**Defensa:** Reflejos
+**Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m); **Defensa:** Reflejos
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Concentrar</span>

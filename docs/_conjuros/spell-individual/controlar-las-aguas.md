@@ -8,8 +8,7 @@ spell_level: 5
 ## Controlar las Aguas ◆◆ [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
-**Rango de distancia:** 500 pies (150 m); **Area:** 50 pies (15 m) de largo por 50 pies (15 m) de ancho
-**Defensa:** Fortaleza (ver texto)
+**Rango de distancia:** 500 pies (150 m); **Area:** 50 pies (15 m) de largo por 50 pies (15 m) de ancho; **Defensa:** Fortaleza (ver texto)
 **Duracion:** 1 hora
 
 <div class="spell-traits-wrapper" markdown="0">

@@ -8,8 +8,7 @@ spell_level: 4
 ## Torrente Hidraulico ◆◆ [CONJURO 4]
 
 **Tradiciones:** primigenia
-**Area:** linea de 60 pies (18 m)
-**Defensa:** Fortaleza
+**Area:** linea de 60 pies (18 m); **Defensa:** Fortaleza
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Agua</span>

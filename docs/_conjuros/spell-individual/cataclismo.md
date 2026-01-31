@@ -8,8 +8,7 @@ spell_level: 10
 ## Cataclismo ◆◆ [CONJURO 10]
 
 **Tradiciones:** arcana, primigenia
-**Rango de distancia:** 1000 pies (300 m); **Area:** explosion de 60 pies (18 m)
-**Defensa:** Reflejos basica
+**Rango de distancia:** 1000 pies (300 m); **Area:** explosion de 60 pies (18 m); **Defensa:** Reflejos basica
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Acido</span>

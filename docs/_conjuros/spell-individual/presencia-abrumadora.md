@@ -8,8 +8,7 @@ spell_level: 9
 ## Presencia Abrumadora ◆◆ [CONJURO 9]
 
 **Tradiciones:** divina, ocultista
-**Área:** explosión de 40 pies (12 m); **Objetivos:** cualquier número de criaturas
-**Defensa:** Voluntad; **Duración:** hasta que se rinde el tributo por completo
+**Área:** explosión de 40 pies (12 m); **Objetivos:** cualquier número de criaturas; **Defensa:** Voluntad; **Duración:** hasta que se rinde el tributo por completo
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Auditivo</span>

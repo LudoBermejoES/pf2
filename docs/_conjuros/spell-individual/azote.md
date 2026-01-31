@@ -8,8 +8,7 @@ spell_level: 1
 ## Azote ◆◆ [DOTE 1]
 
 **Tradiciones:** divina, ocultista
-**Area:** emanacion de 10 pies (3 m)
-**Defensa:** Voluntad; **Duracion:** 1 minuto
+**Area:** emanacion de 10 pies (3 m); **Defensa:** Voluntad; **Duracion:** 1 minuto
 
 <div class="spell-traits-wrapper" markdown="0">
 <span class="trait-tag">Aura</span>
