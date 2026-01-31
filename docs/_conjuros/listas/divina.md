@@ -12,22 +12,22 @@ PC = poco común.
 
 ## Trucos divinos
 
-- **[Atontar](/conjuros/atontar/) P** Nublas la mente de una criatura y posiblemente la aturdes.
-- **[Azote de vitalidad](/conjuros/azote-de-vitalidad/) P** Dañas y debilitas a los muertos vivientes con energía vital.
-- **[Conocer el camino](/conjuros/conocer-el-camino/) P** Averiguas dónde está el norte verdadero y la dirección hacia otro lugar.
-- **[Convocar instrumento](/conjuros/convocar-instrumento/) P** Llamas a un instrumento que solo tú puedes tocar.
-- **[Custodia amenazadora](/conjuros/custodia-amenazadora/) P** Proteges a un aliado contra un enemigo específico.
-- **[Detectar magia](/conjuros/detectar-magia/) P** Te permite notar cuando hay magia cerca.
-- **[Distorsión del vacío](/conjuros/distorsion-del-vacio/) P** Dañas y debilitas a los vivos con la energía del vacío.
-- **[Escudo](/conjuros/escudo/) P** Haces que un escudo de fuerza mágica bloquee ataques y conjuros.
-- **[Estabilizar](/conjuros/estabilizar/) ** Estabilizas a una criatura moribunda.
-- **[Lanza divina](/conjuros/lanza-divina/) P** Arrojas energía divina que inflige daño espiritual.
-- **[Leer el aura](/conjuros/leer-el-aura/) P** Detectas si un objeto es mágico.
-- **[Luz](/conjuros/luz/) P** Haces brillar un objeto.
-- **[Mensaje](/conjuros/mensaje/) P** Comunicas un mensaje a una criatura distante, que puede responder.
-- **[Orientación](/conjuros/orientacion/) ** Tu guía divina hace mejorar una tirada.
-- **[Prestidigitación](/conjuros/prestidigitacion/) ** Llevas a cabo un truco mágico menor.
-- **[Sello](/conjuros/sello/) P** Dejas una marca mágica.
+- **[Atontar](/pf2/conjuros/atontar/) P** Nublas la mente de una criatura y posiblemente la aturdes.
+- **[Azote de vitalidad](/pf2/conjuros/azote-de-vitalidad/) P** Dañas y debilitas a los muertos vivientes con energía vital.
+- **[Conocer el camino](/pf2/conjuros/conocer-el-camino/) P** Averiguas dónde está el norte verdadero y la dirección hacia otro lugar.
+- **[Convocar instrumento](/pf2/conjuros/convocar-instrumento/) P** Llamas a un instrumento que solo tú puedes tocar.
+- **[Custodia amenazadora](/pf2/conjuros/custodia-amenazadora/) P** Proteges a un aliado contra un enemigo específico.
+- **[Detectar magia](/pf2/conjuros/detectar-magia/) P** Te permite notar cuando hay magia cerca.
+- **[Distorsión del vacío](/pf2/conjuros/distorsion-del-vacio/) P** Dañas y debilitas a los vivos con la energía del vacío.
+- **[Escudo](/pf2/conjuros/escudo/) P** Haces que un escudo de fuerza mágica bloquee ataques y conjuros.
+- **[Estabilizar](/pf2/conjuros/estabilizar/) ** Estabilizas a una criatura moribunda.
+- **[Lanza divina](/pf2/conjuros/lanza-divina/) P** Arrojas energía divina que inflige daño espiritual.
+- **[Leer el aura](/pf2/conjuros/leer-el-aura/) P** Detectas si un objeto es mágico.
+- **[Luz](/pf2/conjuros/luz/) P** Haces brillar un objeto.
+- **[Mensaje](/pf2/conjuros/mensaje/) P** Comunicas un mensaje a una criatura distante, que puede responder.
+- **[Orientación](/pf2/conjuros/orientacion/) ** Tu guía divina hace mejorar una tirada.
+- **[Prestidigitación](/pf2/conjuros/prestidigitacion/) ** Llevas a cabo un truco mágico menor.
+- **[Sello](/pf2/conjuros/sello/) P** Dejas una marca mágica.
 
 ## Conjuros de 1.er rango
 

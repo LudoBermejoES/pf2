@@ -1,225 +1,225 @@
-# Ancestry Feats for Kholo
+# Dotes de ascendencia de Kholo
 
-At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a kholo, you can choose from among the following ancestry feats.
-
----
-
-## 1st Level
-
-### Ask the Bones · Feat 1 · ◇
-
-**Traits:** Kholo
-
-**Frequency:** once per day
-
-You keep the bone of an ancestor or a friend to call upon for advice. Attempt to Recall Knowledge. If the bones belonged to a person particularly knowledgeable on the subject, you gain a +1 circumstance bonus to your check.
+En el 1er nivel, ganas una dote de ascendencia, y ganas una dote de ascendencia adicional cada 4 niveles posteriores (en los niveles 5, 9, 13 y 17). Como kholo, puedes elegir entre las siguientes dotes de ascendencia.
 
 ---
 
-### Crunch · Feat 1
+## Nivel 1
 
-**Traits:** Kholo
+### Consultar a los huesos · Dote 1 · ◇
 
-Your jaws can crush bone and bite through armor. Your jaws unarmed attack deals 1d8 piercing damage instead of 1d6 and gains the grapple trait.
+**Rasgos:** Kholo
 
----
+**Frecuencia:** una vez al día
 
-### Hyena Familiar · Feat 1
-
-**Traits:** Kholo
-
-Hyenas serve kholo as pets and trackers. Some kholos, such as yourself, draw the attention of smaller hyenas that are vessels for magical spirits. You gain a Tiny hyena as a familiar.
+Conservas el hueso de un antepasado o amigo para pedir consejo. Intenta Recordar Conocimiento. Si los huesos pertenecían a una persona particularmente conocedora del tema, obtienes un bono de circunstancia +1 a tu prueba.
 
 ---
 
-### Kholo Lore · Feat 1
+### Crujir · Dote 1
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-You paid close attention to the senior hunters in your clan to learn their tricks. You gain the trained proficiency rank in Stealth and Survival. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.
-
-You also gain the Additional Lore general feat for Kholo Lore.
+Tus mandíbulas pueden triturar hueso y morder a través de la armadura. Tu ataque desarmado de mandíbulas inflige 1d8 de daño perforante en lugar de 1d6 y gana el rasgo agarre.
 
 ---
 
-### Kholo Weapon Familiarity · Feat 1
+### Familiar hiena · Dote 1
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-You gain access to all uncommon weapons with the kholo trait. You have familiarity with weapons with the kholo trait plus the flail, khopesh, mambele, and war flail—for the purpose of proficiency, you treat any of these that are martial weapons as simple weapons and any that are advanced weapons as martial weapons.
-
-At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
+Las hienas sirven a los kholos como mascotas y rastreadores. Algunos kholos, como tú, atraen la atención de hienas más pequeñas que son recipientes de espíritus mágicos. Obtienes una hiena Minúscula como familiar.
 
 ---
 
-### Pack Hunter · Feat 1
+### Saber de Kholo · Dote 1
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-You were taught how to hunt as part of a pack. You gain a +2 circumstance bonus to checks to Aid, and your allies gain a +2 circumstance bonus to checks to Aid you.
+Prestaste mucha atención a los cazadores veteranos de tu clan para aprender sus trucos. Obtienes competencia entrenado en Sigilo y Supervivencia. Si te volverías automáticamente entrenado en una de esas habilidades (por tu trasfondo o clase, por ejemplo), en su lugar te vuelves entrenado en una habilidad a tu elección.
 
----
-
-### Sensitive Nose · Feat 1
-
-**Traits:** Kholo
-
-Your large black nose isn't just for show. You can pick up on the faintest scents near you and track them down. You gain imprecise scent with a range of 30 feet.
-
-**Special:** You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.
+También obtienes la dote general Saber adicional para Saber de Kholo.
 
 ---
 
-## 5th Level
+### Familiaridad con armas de Kholo · Dote 1
 
-### Absorb Strength · Feat 5 · ◆
+**Rasgos:** Kholo
 
-**Traits:** Uncommon, Kholo
+Obtienes acceso a todas las armas no comunes con el rasgo kholo. Tienes familiaridad con las armas con el rasgo kholo además del mayal, khopesh, mambele y mayal de guerra; para fines de competencia, tratas cualquiera de estas que sean armas marciales como armas simples y cualquiera que sea arma avanzada como arma marcial.
 
-**Frequency:** once per hour
-
-**Requirements:** You are adjacent to an enemy's corpse who has been dead for no longer than 1 minute.
-
-You consume a piece of your enemy, absorbing their strength. You gain temporary Hit Points equal to the enemy's level that last for 1 minute.
+En el 5º nivel, siempre que obtienes un golpe crítico con una de estas armas, obtienes su efecto de especialización crítica.
 
 ---
 
-### Affliction Resistance · Feat 5
+### Cazador de manada · Dote 1
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-Your diet has strengthened you against diseases and poisons. You gain a +1 circumstance bonus to saving throws against diseases and poisons. If you roll a success on a saving throw against a disease or poison, you get a critical success instead. If you have a different ability that would improve the save in this way (such as the battle hardened fighter class feature), if you roll a critical failure on the save you get a failure instead.
-
----
-
-### Distant Cackle · Feat 5
-
-**Traits:** Kholo
-
-**Prerequisites:** witch kholo heritage
-
-It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast *ventriloquism* once per day as a 1st-rank occult innate spell.
+Te enseñaron a cazar como parte de una manada. Obtienes un bono de circunstancia +2 a las pruebas para Ayudar, y tus aliados obtienen un bono de circunstancia +2 a las pruebas para Ayudarte.
 
 ---
 
-### Left-Hand Blood · Feat 5 · ◆
+### Nariz sensible · Dote 1
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-**Frequency:** once per hour
+Tu gran nariz negra no es solo decorativa. Puedes captar los olores más leves a tu alrededor y seguirlos. Obtienes olfato impreciso con un alcance de 9 m.
 
-It's said that the flesh of the right side of a hyena can heal diseases, but that the flesh of the left side is deadly and poisonous. You deal 1 slashing damage to yourself to poison a weapon you are holding. If you hit with the weapon and deal damage, the target also takes 1d4 persistent poison damage. The poison on your weapon becomes inert after you hit, or at the end of your next turn, whichever comes first.
-
----
-
-### Pack Stalker · Feat 5
-
-**Traits:** Kholo
-
-**Prerequisites:** expert in Stealth
-
-Ambushes are an honored kholo tradition. You gain the Terrain Stalker feat and can extend its effects to a single ally so long as they remain within 10 feet of you. If you have master proficiency in Stealth, you can extend the effect to two allies. If you have legendary proficiency in Stealth, you can extend it to four allies.
+**Especial:** Solo puedes tomar esta dote en el 1er nivel, y no puedes reentrenar para salir de esta dote ni para entrar en ella.
 
 ---
 
-### Rabid Sprint · Feat 5 · ◆◆
+## Nivel 5
 
-**Traits:** Flourish, Kholo
+### Absorber fuerza · Dote 5 · ◆
 
-**Prerequisites:** dog kholo heritage
+**Rasgos:** Poco común, Kholo
 
-**Requirements:** You have both your hands free.
+**Frecuencia:** una vez por hora
 
-You run on all fours as fast as you can. Stride three times.
+**Requisitos:** Estás adyacente al cadáver de un enemigo que ha muerto hace no más de 1 minuto.
 
----
-
-### Right-Hand Blood · Feat 5
-
-**Traits:** Kholo
-
-It's said that the flesh of the right side of a hyena can heal diseases, but that the flesh of the left side is deadly and poisonous. You can deal 1 slashing damage to yourself to feed someone blood from your right side and Administer First Aid or take 2d8 damage to Treat Disease or Treat Wounds; in either case, you don't need a healer's toolkit, and you gain a +1 item bonus to your check. Blood from your left side causes the check to critically fail automatically.
+Consumes una pieza de tu enemigo, absorbiendo su fuerza. Obtienes Puntos de Golpe temporales iguales al nivel del enemigo que duran 1 minuto.
 
 ---
 
-## 9th Level
+### Resistencia a las aflicciones · Dote 5
 
-### Ambush Hunter · Feat 9
+**Rasgos:** Kholo
 
-**Traits:** Kholo
-
-You are always searching for the perfect opportunity to ambush your enemies. You can perform the Scout exploration activity at the same time as the Avoid Notice exploration activity.
+Tu dieta te ha fortalecido contra enfermedades y venenos. Obtienes un bono de circunstancia +1 a las tiradas de salvación contra enfermedades y venenos. Si obtienes un éxito en una tirada de salvación contra una enfermedad o veneno, obtienes un éxito crítico en su lugar. Si tienes una habilidad diferente que mejoraría la salvación de esta manera (como la característica de clase del luchador endurecido por la batalla), si obtienes un fallo crítico en la tirada, obtienes un fallo en su lugar.
 
 ---
 
-### Breath Like Honey · Feat 9
+### Carcajada distante · Dote 5
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-**Prerequisites:** sweetbreath kholo heritage
+**Prerrequisitos:** herencia de kholo bruja
 
-You smell of honey and savory things. Your circumstance bonus to checks to Make an Impression if the target can smell your breath increases to +2. In addition, you can cast *enthrall* as a 3rd-rank occult innate spell once per day, except the spell has a range of 30 feet and the olfactory trait instead of the auditory trait. Targets don't gain any circumstance bonus for disagreeing with you.
-
----
-
-### Grandmother's Wisdom · Feat 9
-
-**Traits:** Kholo
-
-You carry the bones of your ancestors with you, and you can ask them for counsel. You can cast *augury* twice per day as a 2nd-rank occult innate spell.
+Hace falta mucha valentía para entrar en el bosque encantado de risas donde habitas. Puedes lanzar *ventriloquia* una vez al día como conjuro innato oculto de 1er rango.
 
 ---
 
-### Laughing Kholo · Feat 9
+### Sangre de la mano izquierda · Dote 5 · ◆
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-**Prerequisites:** master in Intimidation
+**Frecuencia:** una vez por hora
 
-Your sinister giggle is a sound of warning and threat. You gain the Battle Cry skill feat. You don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language.
-
----
-
-## 13th Level
-
-### Ancestor's Rage · Feat 13
-
-**Traits:** Kholo
-
-You transform into an enormous, otherworldly hyena. You can cast *animal form* (canine form only) once per day as a 5th-rank occult innate spell.
+Se dice que la carne del lado derecho de una hiena puede curar enfermedades, pero que la carne del lado izquierdo es mortal y venenosa. Te infliges 1 daño cortante para envenenar un arma que estés sosteniendo. Si golpeas con el arma e infliges daño, el objetivo también recibe 1d4 de daño persistente por veneno. El veneno de tu arma se vuelve inerte después de que golpeas o al final de tu siguiente turno, lo que ocurra primero.
 
 ---
 
-### Bonekeeper's Bane · Feat 13
+### Acechador de manada · Dote 5
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-Whenever an enemy starts its turn adjacent to you, it must attempt a Will saving throw against your class DC or spell DC, whichever is highest. On a failure, the enemy takes a –1 status penalty to attack rolls and skill checks for as long as it remains adjacent to you. Regardless of the result of its save, the creature is then temporarily immune to bonekeeper's bane for 24 hours.
+**Prerrequisitos:** experto en Sigilo
 
----
-
-## 17th Level
-
-### First to Strike, First to Fall · Feat 17
-
-**Traits:** Kholo
-
-Whenever you successfully Strike a creature that has not acted in the first round of combat, that creature is off-guard until the end of your next turn. If that creature is reduced to 0 Hit Points before the end of your next turn, you and all allies within 30 feet of the creature become quickened until the end of your next turn. You can use the extra action only to Step, Stride, or Strike.
+Las emboscadas son una tradición honrada de los kholos. Obtienes la dote Acechador de Terreno y puedes extender sus efectos a un solo aliado mientras permanezca a 3 m de ti. Si tienes competencia maestra en Sigilo, puedes extender el efecto a dos aliados. Si tienes competencia legendaria en Sigilo, puedes extenderlo a cuatro aliados.
 
 ---
 
-### Impaling Bone · Feat 17
+### Carrera rabiosa · Dote 5 · ◆◆
 
-**Traits:** Kholo
+**Rasgos:** Flourish, Kholo
 
-Once per day, you can cast *impaling spike* as a 7th-rank innate occult spell, except the spike is made of bone instead of cold iron. The bone from the spell has the effects of the ghost touch property rune and can immobilize incorporeal creatures as if they were corporeal.
+**Prerrequisitos:** herencia de kholo de perro
+
+**Requisitos:** Tienes ambas manos libres.
+
+Corres a cuatro patas tan rápido como puedes. Avanzas tres veces.
 
 ---
 
-### Legendary Laugh · Feat 17
+### Sangre de la mano derecha · Dote 5
 
-**Traits:** Kholo
+**Rasgos:** Kholo
 
-**Prerequisites:** Laughing Kholo
+Se dice que la carne del lado derecho de una hiena puede curar enfermedades, pero que la carne del lado izquierdo es mortal y venenosa. Puedes infligirte 1 daño cortante para alimentar a alguien con sangre de tu lado derecho y Administrar Primeros Auxilios, o recibir 2d8 de daño para Tratar Enfermedad o Tratar Heridas; en cualquier caso, no necesitas un kit de curandero y obtienes un bono de objeto +1 a tu prueba. La sangre de tu lado izquierdo hace que la prueba falle automáticamente de forma crítica.
 
-Your laughter echoes in the minds of your enemies. You can Demoralize creatures up to 60 feet away. Additionally, whenever you successfully Demoralize a creature, it takes 3d8 mental damage (or 6d8 mental damage on a critical success).
+---
+
+## Nivel 9
+
+### Cazador de emboscadas · Dote 9
+
+**Rasgos:** Kholo
+
+Siempre estás buscando la oportunidad perfecta para emboscar a tus enemigos. Puedes realizar la actividad de exploración Vigilar al mismo tiempo que la actividad de exploración Evitar ser detectado.
+
+---
+
+### Aliento como miel · Dote 9
+
+**Rasgos:** Kholo
+
+**Prerrequisitos:** herencia de kholo aliento dulce
+
+Hueles a miel y cosas sabrosas. Tu bono de circunstancia a las pruebas para Causar impresión si el objetivo puede oler tu aliento aumenta a +2. Además, puedes lanzar *cautivar* como conjuro innato oculto de 3er rango una vez al día, excepto que el conjuro tiene un alcance de 9 m y el rasgo olfativo en lugar del rasgo auditivo. Los objetivos no ganan ningún bono de circunstancia por estar en desacuerdo contigo.
+
+---
+
+### Sabiduría de la abuela · Dote 9
+
+**Rasgos:** Kholo
+
+Llevas contigo los huesos de tus antepasados y puedes pedirles consejo. Puedes lanzar *augurio* dos veces al día como conjuro innato oculto de 2º rango.
+
+---
+
+### Kholo risueño · Dote 9
+
+**Rasgos:** Kholo
+
+**Prerrequisitos:** maestro en Intimidación
+
+Tu risita siniestra es un sonido de advertencia y amenaza. Obtienes la dote de habilidad Grito de batalla. No recibes penalizador cuando intentas Amedrentar a una criatura que no entiende tu idioma.
+
+---
+
+## Nivel 13
+
+### Furia del ancestro · Dote 13
+
+**Rasgos:** Kholo
+
+Te transformas en una hiena enorme y de otro mundo. Puedes lanzar *forma animal* (solo forma canina) una vez al día como conjuro innato oculto de 5º rango.
+
+---
+
+### Azote del guardián de huesos · Dote 13
+
+**Rasgos:** Kholo
+
+Siempre que un enemigo comience su turno adyacente a ti, debe intentar una tirada de salvación de Voluntad contra tu CD de clase o CD de conjuros, el que sea mayor. Con un fallo, el enemigo recibe un penalizador de estado –1 a las tiradas de ataque y pruebas de habilidad mientras permanezca adyacente a ti. Independientemente del resultado de su salvación, la criatura queda temporalmente inmune al azote del guardián de huesos durante 24 horas.
+
+---
+
+## Nivel 17
+
+### Primero en golpear, primero en caer · Dote 17
+
+**Rasgos:** Kholo
+
+Siempre que golpeas con éxito a una criatura que no ha actuado en la primera ronda de combate, esa criatura queda desprevenida hasta el final de tu siguiente turno. Si esa criatura se reduce a 0 Puntos de Golpe antes del final de tu siguiente turno, tú y todos los aliados dentro de 9 m de la criatura os volvéis acelerados hasta el final de tu siguiente turno. Puedes usar la acción extra solo para Paso, Avanzar o Golpear.
+
+---
+
+### Hueso empalador · Dote 17
+
+**Rasgos:** Kholo
+
+Una vez al día, puedes lanzar *espiga perforante* como conjuro innato oculto de 7º rango, excepto que la espiga está hecha de hueso en lugar de hierro frío. El hueso del conjuro tiene los efectos de la runa de propiedad toque espectral y puede inmovilizar criaturas incorpóreas como si fueran corpóreas.
+
+---
+
+### Risa legendaria · Dote 17
+
+**Rasgos:** Kholo
+
+**Prerrequisitos:** Kholo risueño
+
+Tu risa resuena en la mente de tus enemigos. Puedes Amedrentar criaturas a hasta 18 m de distancia. Además, siempre que Amedrentas con éxito a una criatura, sufre 3d8 de daño mental (o 6d8 de daño mental con un éxito crítico).

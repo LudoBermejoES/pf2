@@ -144,7 +144,7 @@ Amplías el alcance de tu comprensión mágica, permitiéndote encontrar el cami
 
 Los arcos de todo tipo son armas poderosas. Tanto generales como cazadores reconocen el poder de infligir muerte a distancia y desde una cobertura segura. Quienes se dedican al arco —desde misteriosos desconocidos encapuchados hasta francotiradores despiadados— suelen ser vistos con una mezcla de respeto y miedo.
 
-**Additional Feats:** 4th Assisting Shot, Crossbow Ace, Point Blank Stance; 6th Double Shot, Parting Shot, Running Reload; 8th Triple Shot; 10th Mobile Shot Stance; 18th Multishot Stance; 20th Impossible Volley
+**Dotes adicionales:** 4.º Disparo de asistencia, As de ballesta, Postura a quemarropa; 6.º Doble disparo, Disparo de despedida, Recarga en carrera; 8.º Triple disparo; 10.º Postura de disparo móvil; 18.º Postura de multidisparo; 20.º Descarga imposible
 
 ### Dedicación de Arquero · Dote 2
 
@@ -192,7 +192,7 @@ Con un rápido uso de la fuerza bruta, quitas un obstáculo y haces un disparo c
 
 La eliminación selectiva mediante sigilo y subterfugio es la especialidad de un asesino. Aunque los asesinos son hábiles para terminar con vidas y muchos son malvados, algunos siguen un código moral, depredando a los malvados, los crueles o quienes se regodean en la agresión o el poder descontrolado.
 
-**Additional Feats:** 4th Poison Resistance; 6th Poison Weapon; 10th Improved Poison Weapon
+**Dotes adicionales:** 4.º Resistencia al veneno; 6.º Arma venenosa; 10.º Arma venenosa mejorada
 
 ### Dedicación de Asesino · Dote 2
 
@@ -1451,896 +1451,896 @@ Atacas a todos los adversarios cercanos. Realiza un Golpe de melé con tu arma a
 
 ---
 
-## Medic
+## Médico
 
-You've studied countless techniques for providing medical aid, making you a peerless doctor and healer. While many healers happily practice the art of medicine in the safety and serenity of stationary buildings, few are in more dire need of medicinal aid than adventurers.
+Has estudiado incontables técnicas para proporcionar ayuda médica, lo que te convierte en un doctor y sanador sin igual. Aunque muchos sanadores practican gustosamente el arte de la medicina en la seguridad y serenidad de edificios fijos, pocos necesitan más ayuda medicinal que los aventureros.
 
-### Medic Dedication · Feat 2
+### Dedicación de Médico · Dote 2
 
-**Traits:** Archetype, Dedication
+**Rasgos:** Arquetipo, Dedicación
 
-**Prerequisites:** trained in Medicine, Battle Medicine
+**Prerrequisitos:** entrenado en Medicina, Medicina de batalla
 
-You become an expert in Medicine. When you succeed with Battle Medicine or Treat Wounds, the target gains a circumstance bonus to the number of Hit Points they regain equal to 5 HP at DC 20, 10 HP at DC 30, or 15 HP at DC 40.
+Pasas a ser experto en Medicina. Cuando tienes éxito con Medicina de batalla o Tratar heridas, el objetivo obtiene un bonificador circunstancial a los Puntos de Golpe que recupera igual a 5 PG con CD 20, 10 PG con CD 30, o 15 PG con CD 40.
 
-Once per day, you can use Battle Medicine on a creature that's temporarily immune due to having already been treated with Battle Medicine. If you're a master in Medicine, you can do so once per hour.
+Una vez al día, puedes usar Medicina de batalla en una criatura que sea temporalmente inmune por haber sido ya tratada con Medicina de batalla. Si eres maestro en Medicina, puedes hacerlo una vez por hora.
 
-### Doctor's Visitation · ◆ or ◆◆ · Feat 4
+### Visita del doctor · ◆ o ◆◆ · Dote 4
 
-**Traits:** Archetype, Flourish
+**Rasgos:** Arquetipo, Florecimiento
 
-**Prerequisites:** Medic Dedication
+**Prerrequisitos:** Dedicación de Médico
 
-You move to provide immediate care to those who need it. You Stride, then use Battle Medicine or Treat Poison. You can spend 2 actions for Doctor's Visitation to instead Stride and then use either Administer First Aid or Treat Condition (if you have that feat).
+Te desplazas para proporcionar atención inmediata a quienes la necesitan. Avanza y luego usa Medicina de batalla o Tratar veneno. Puedes gastar 2 acciones para, en su lugar, Avanzar y luego usar Administrar primeros auxilios o Tratar condición (si tienes esa dote).
 
-### Treat Condition · ◆◆ · Feat 4
+### Tratar condición · ◆◆ · Dote 4
 
-**Traits:** Archetype, Healing, Manipulate, Skill
+**Rasgos:** Arquetipo, Sanación, Manipular, Habilidad
 
-**Prerequisites:** Medic Dedication
+**Prerrequisitos:** Dedicación de Médico
 
-**Requirements:** You are holding healer's tools, or you are wearing them and have a hand free.
+**Requisitos:** Estás sosteniendo herramientas de sanador, o las llevas puestas y tienes una mano libre.
 
-You treat an adjacent creature in an attempt to reduce the clumsy, enfeebled, or sickened condition. If a creature has multiple conditions from this list, choose one. Attempt a counteract check against the condition using your Medicine modifier as your counteract modifier and the condition's source to determine the DC. You can't treat a condition that came from an artifact or effect above 20th level unless you have Legendary Medic; even if you do, the counteract DC increases by 10. Treating a Condition that is continually applied under certain circumstances (for instance, the enfeebled condition a holy character gains from carrying a weapon with the unholy rune) has no effect as long as the circumstances continue.
+Tratas a una criatura adyacente intentando reducir la condición torpe, debilitado o indispuesto. Si una criatura tiene múltiples condiciones de esta lista, elige una. Intenta una prueba de contrarrestar contra la condición usando tu modificador de Medicina como tu modificador de contrarrestar y la fuente de la condición para determinar la CD. No puedes tratar una condición proveniente de un artefacto o efecto por encima de nivel 20 a menos que tengas Médico legendario; incluso si lo haces, la CD de contrarrestar aumenta en 10. Tratar una condición que se aplica continuamente bajo ciertas circunstancias (por ejemplo, la condición debilitado que obtiene un personaje sagrado por portar un arma con runa impía) no tiene efecto mientras continúen las circunstancias.
 
-**Critical Success:** Reduce the condition value by 2.
+**Éxito crítico:** Reduce el valor de la condición en 2.
 
-**Success:** Reduce the condition value by 1.
+**Éxito:** Reduce el valor de la condición en 1.
 
-**Critical Failure:** Increase the condition value by 1.
+**Fallo crítico:** Aumenta el valor de la condición en 1.
 
-### Holistic Care · Feat 6
+### Cuidado holístico · Dote 6
 
-**Traits:** Archetype, Skill
+**Rasgos:** Arquetipo, Habilidad
 
-**Prerequisites:** trained in Diplomacy, Treat Condition
+**Prerrequisitos:** entrenado en Diplomacia, Tratar condición
 
-You provide emotional and spiritual care. Add frightened, stupefied, and stunned to the list of conditions you can reduce with Treat Condition. If the stunned condition has a duration instead of a value, you can't use Treat Condition to reduce it.
+Proporcionas cuidado emocional y espiritual. Añade asustado, aturdido y estupefacto a la lista de condiciones que puedes reducir con Tratar condición. Si la condición aturdido tiene una duración en lugar de un valor, no puedes usar Tratar condición para reducirla.
 
-### Resuscitate · ◆◆◆ · Feat 16
+### Resucitar · ◆◆◆ · Dote 16
 
-**Traits:** Archetype, Healing, Manipulate
+**Rasgos:** Arquetipo, Sanación, Manipular
 
-**Prerequisites:** Medic Dedication, legendary in Medicine
+**Prerrequisitos:** Dedicación de Médico, legendario en Medicina
 
-**Requirements:** You are holding healer's tools or are wearing them and have a hand free.
+**Requisitos:** Estás sosteniendo herramientas de sanador o las llevas puestas y tienes una mano libre.
 
-You resuscitate the dead. Attempt a DC 40 Medicine check to revive a dead creature who has been dead for no more than 3 rounds and whose body is mostly intact. If you succeed, the target returns to life with the effects of *raise dead*, except it still has the wounded condition it had before dying, increased by 1 (or wounded 1 if it wasn't wounded before dying). Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.
-
----
-
-## Pirate
-
-You live a life of freedom, taking by force and intimidation all that you could possibly desire. You may be a privateer, raiding and plundering on behalf of a particular nation or another authority, or you may answer to no one but your own capricious whims.
-
-**Additional Feats:** 4th Antagonize, You're Next
-
-### Pirate Dedication · Feat 2
-
-**Traits:** Archetype, Dedication
-
-**Prerequisites:** trained in Intimidation
-
-As a pirate, you sail the seas in search of enemy ships to plunder and great adventures to embark on. You gain the Additional Lore general feat for Sailing Lore or for a specific coastal city you have a connection to (such as Port Peril Lore). You ignore the effects of difficult terrain or uneven ground caused by unstable ground (such as the deck of a ship). Additionally, you gain the Boarding Assault action.
-
-**Boarding Assault · ◆◆** (flourish) Either Stride twice or attempt an Acrobatics check (DC determined by the GM, but usually DC 20) to swing up to twice your Speed on a rope or similar object, then Strike. If you boarded or disembarked from a boat or similar vehicle during this movement, the Strike deals one additional weapon damage die.
-
-### Pirate Combat Training · Feat 4
-
-**Traits:** Archetype
-
-**Prerequisites:** Pirate Dedication
-
-You're particularly skilled at wielding the weapons used traditionally by pirates. You gain either the Combat Climber or Underwater Marauder skill feat, even if you do not meet its prerequisites. You have familiarity with the following weapons: hatchet, rapier, scimitar, and whip—for the purposes of proficiency, you treat any of these weapons as simple weapons. Your GM may add additional martial weapons to this list as appropriate for your world or region.
-
-At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
-
-### Rope Runner · Feat 4
-
-**Traits:** Archetype, Skill
-
-**Prerequisites:** Pirate Dedication, trained in Acrobatics and Athletics
-
-You run and climb across ropes and rigging almost as easily as on the ground. You gain a climb Speed of 15 feet, but only when climbing ropes and similar objects. Whenever you succeed at an Athletics check to Climb or an Acrobatics check to Balance, you get a critical success instead. You aren't off-guard while Climbing or Balancing on a rope or similar object.
-
-### Walk the Plank · ◆◆ · Feat 8
-
-**Traits:** Archetype
-
-**Prerequisites:** Pirate Dedication
-
-You frighten a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to Demoralize an opponent. On a success, in addition to the normal effects, you can also force the target to Stride up to its Speed immediately. You choose the path the target takes, but you can't force it to move into an obviously harmful space (such as into hazardous terrain or a space where it would fall) unless your check was a critical success. As normal for forced movement, this movement doesn't trigger reactions. The target then becomes temporarily immune to Walk the Plank for 10 minutes.
+Resucitas a los muertos. Intenta una prueba de Medicina CD 40 para revivir a una criatura muerta que lleva muerta no más de 3 asaltos y cuyo cuerpo está mayormente intacto. Si tienes éxito, el objetivo regresa a la vida con los efectos de *revivir a los muertos*, excepto que aún tiene la condición herido que tenía antes de morir, aumentada en 1 (o herido 1 si no estaba herido antes de morir). Tanto si tienes éxito como si fallas, el objetivo es temporalmente inmune a Resucitar durante 1 día.
 
 ---
 
-## Poisoner
+## Pirata
 
-People are so delightfully fragile when exposed to the insidious power of nature. The bite of a certain serpent makes the blood congeal to jelly. A particular stone, suitably powdered, induces powerful hallucinations and delirium. You are a student of such dark wonders, making you a dangerous foe indeed.
+Vives una vida de libertad, tomando por la fuerza y la intimidación todo lo que puedas desear. Puedes ser un corsario, asaltando y saqueando en nombre de una nación o autoridad concreta, o quizá no respondas ante nadie salvo tus propios caprichos.
 
-**Additional Feats:** 4th Blowgun Poisoner, Poison Resistance; 6th Poison Weapon, Tenacious Toxins; 8th Sticky Poison; 10th Improved Poison Weapon, Pinpoint Poisoner
+**Dotes adicionales:** 4.º Provocar, Tú eres el siguiente
 
-### Poisoner Dedication · Feat 2
+### Dedicación de Pirata · Dote 2
 
-**Traits:** Archetype, Dedication
+**Rasgos:** Arquetipo, Dedicación
 
-**Prerequisites:** trained in Crafting
+**Prerrequisitos:** entrenado en Intimidación
 
-You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. You gain the advanced alchemy benefits. You can use advanced alchemy to create four alchemical poison consumables each day. You remember alchemical poison formulas and don't need a formula book for them.
+Como pirata, surcas los mares en busca de barcos enemigos que saquear y grandes aventuras en las que embarcarte. Obtienes la dote general Saber adicional para Saber de navegación o para una ciudad costera concreta con la que tengas conexión (como Saber Puerto Peligro). Ignoras los efectos de terreno difícil o suelo irregular causado por suelo inestable (como la cubierta de un barco). Además, obtienes la acción Asalto de abordaje.
 
-### Poisoner's Twist · ◆ · Feat 4
+**Asalto de abordaje · ◆◆** (florecimiento) Avanza dos veces o intenta una prueba de Acrobacias (CD determinada por el DJ, pero normalmente CD 20) para balancearte hasta el doble de tu Velocidad en una cuerda u objeto similar, luego Golpea. Si abordaste o desembarcaste de un barco o vehículo similar durante este movimiento, el Golpe inflige un dado de daño de arma adicional.
 
-**Traits:** Archetype
+### Entrenamiento de combate pirata · Dote 4
 
-**Prerequisites:** Poisoner Dedication, trained in Medicine
+**Rasgos:** Arquetipo
 
-**Requirements:** Your last action was a successful melee Strike that dealt damage against a target afflicted by a poison, and you know which poison.
+**Prerrequisitos:** Dedicación de Pirata
 
-Poisons attack specific parts of the body—one venom might target the lungs, another the circulatory system, while another deteriorates the nerves. You know how to take advantage of such weaknesses. You deal 1d6 damage of the required Strike's damage type and 1d6 poison damage to the target. If you're at least 18th level, you deal 2d6 damage of each type.
+Eres especialmente hábil empuñando las armas utilizadas tradicionalmente por los piratas. Obtienes la dote de habilidad Trepador de combate o Saqueador subacuático, incluso si no cumples sus prerrequisitos. Tienes familiaridad con las siguientes armas: hacha de mano, florete, cimitarra y látigo; a efectos de competencia, tratas cualquiera de estas armas como simples. Tu DJ puede añadir armas marciales adicionales a esta lista según tu mundo o región.
 
-### Advanced Poisoncraft · Feat 6
+En el 5.º nivel, siempre que obtienes un impacto crítico con una de estas armas, obtienes su efecto de especialización crítica.
 
-**Traits:** Archetype
+### Corredor de cuerdas · Dote 4
 
-**Prerequisites:** Poisoner Dedication
+**Rasgos:** Arquetipo, Habilidad
 
-You can create up to 6 poisons per day with advanced alchemy.
+**Prerrequisitos:** Dedicación de Pirata, entrenado en Acrobacias y Atletismo
 
-**Special:** At 10th level or higher, you can select this feat a second time to increase the number to 8.
+Corres y trepas por cuerdas y jarcias casi tan fácilmente como por el suelo. Obtienes una Velocidad de trepar de 4,5 m, pero solo al trepar por cuerdas y objetos similares. Siempre que tengas éxito en una prueba de Atletismo para Trepar o en una prueba de Acrobacias para Mantener el equilibrio, obtienes un éxito crítico en su lugar. No quedas desprevenido mientras Trepas o Mantienes el equilibrio en una cuerda u objeto similar.
 
-### Poison Coat · Feat 6
+### Caminar por la tabla · ◆◆ · Dote 8
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Poisoner Dedication
+**Prerrequisitos:** Dedicación de Pirata
 
-In nature, certain animals are covered in venomous spines, and just brushing against them can prove deadly. You expend a contact or injury poison and spend 10 minutes brushing that poison onto your clothing or weaving sharp, poisoned needles into the garment's fabric. You can have only one poison suffused into your clothing at a time. You can use the Once Bitten reaction while you have a poison suffused in this way.
-
-**Once Bitten · ◇** **Trigger:** A creature adjacent to you hits you with a melee unarmed Strike. **Requirements:** You have prepared your clothing to poison attackers. **Effect:** The triggering creature is exposed to the suffused poison, and the poison becomes inert.
-
-### Acquired Tolerance · ◇ · Feat 8
-
-**Traits:** Archetype, Fortune
-
-**Prerequisites:** Poisoner Dedication
-
-**Trigger:** You fail a save against a poison.
-
-A small amount of poison, taken at nonlethal doses, can help the body build up resistance against a more deadly dosage. Reroll the triggering check and use the second result. Once you use Acquired Tolerance, you can continue to use it against the same type of poison that day, but you can't use it against a different type of poison until after you make your next daily preparations. For instance, if you used the reaction on a save against giant scorpion venom, you could use it again against giant scorpion venom even if it came from a different source, but you couldn't use it against wyvern poison.
-
-### Chemical Contagion · Feat 18
-
-**Traits:** Archetype
-
-**Prerequisites:** Poisoner Dedication
-
-Your injury poisons can spray onto creatures. You gain the toxicologist alchemist's greater field discovery.
+Asustas a un enemigo para que se mueva donde deseas, tradicionalmente exigiendo que camine por la tabla. Intenta Desmoralizar a un oponente. En caso de éxito, además de los efectos normales, también puedes forzar al objetivo a Avanzar hasta su Velocidad de inmediato. Tú eliges el camino que toma, pero no puedes forzarle a moverse a un espacio obviamente dañino (como terreno peligroso o un espacio donde caería) a menos que tu prueba sea un éxito crítico. Como es normal para movimiento forzado, este movimiento no desencadena reacciones. El objetivo queda temporalmente inmune a Caminar por la tabla durante 10 minutos.
 
 ---
 
-## Ritualist
+## Envenenador
 
-While some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck grants them surprising skill at performing rituals, whether they want that power or not.
+Las personas son deliciosamente frágiles cuando se exponen al poder insidioso de la naturaleza. La mordedura de cierta serpiente hace que la sangre se coagule como gelatina. Una piedra en particular, convenientemente pulverizada, induce poderosas alucinaciones y delirios. Eres un estudiante de tales maravillas oscuras, lo que te convierte en un enemigo verdaderamente peligroso.
 
-### Ritualist Dedication · Feat 4
+**Dotes adicionales:** 4.º Envenenador con cerbatana, Resistencia a venenos; 6.º Arma envenenada, Toxinas tenaces; 8.º Veneno pegajoso; 10.º Arma envenenada mejorada, Envenenador certero
 
-**Traits:** Uncommon, Archetype, Dedication
+### Dedicación de Envenenador · Dote 2
 
-**Prerequisites:** expert in Arcana, Nature, Occultism, or Religion
+**Rasgos:** Arquetipo, Dedicación
 
-You have begun to master the difficult art of casting rituals. You gain a +2 circumstance bonus to all checks to perform a ritual. You learn two uncommon rituals of 2nd rank or lower. You must meet all prerequisites to be the primary caster of a ritual to select it, and you can't teach it to anyone else or allow someone else to serve as primary caster unless they know the ritual as well.
+**Prerrequisitos:** entrenado en Artesanía
 
-At 8th level and every 4 levels thereafter, you learn two more rituals with the same restrictions and with a maximum rank of half that level.
+Te aseguras de tener siempre algunas toxinas a mano: nunca se sabe cuándo un poco de arsénico u otro veneno puede resultar útil. Obtienes los beneficios de alquimia avanzada. Puedes usar alquimia avanzada para crear cuatro consumibles de veneno alquímico cada día. Recuerdas las fórmulas de venenos alquímicos y no necesitas un libro de fórmulas para ellos.
 
-### Flexible Ritualist · Feat 6
+### Giro del envenenador · ◆ · Dote 4
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Ritualist Dedication
+**Prerrequisitos:** Dedicación de Envenenador, entrenado en Medicina
 
-You can perform two aspects of a ritual yourself. When you cast a ritual, you can reduce the number of secondary casters by 1. When you do, you must fulfill any requirements for the secondary caster, and you attempt the secondary check normally performed by that secondary caster. You can't replace a secondary caster who is the target of the spell (as in the *atone* ritual).
+**Requisitos:** Tu última acción fue un Golpe de melé exitoso que infligió daño contra un objetivo afligido por un veneno, y sabes qué veneno.
 
-### Resourceful Ritualist · Feat 6
+Los venenos atacan partes específicas del cuerpo: uno puede dirigirse a los pulmones, otro al sistema circulatorio, mientras que otro deteriora los nervios. Sabes cómo aprovechar tales debilidades. Infliges 1d6 del tipo de daño del Golpe requerido y 1d6 de daño de veneno al objetivo. Si eres al menos de nivel 18, infliges 2d6 de cada tipo.
 
-**Traits:** Archetype, Skill
+### Venenotecnia avanzada · Dote 6
 
-**Prerequisites:** Ritualist Dedication
+**Rasgos:** Arquetipo
 
-You can cast difficult rituals that might otherwise be just beyond your skill. You can attempt checks to cast a ritual that requires expert proficiency if you are trained, master proficiency if you are an expert, or legendary proficiency if you are a master.
+**Prerrequisitos:** Dedicación de Envenenador
 
-### Efficient Rituals · Feat 8
+Puedes crear hasta 6 venenos al día con alquimia avanzada.
 
-**Traits:** Archetype
+**Especial:** En nivel 10 o superior, puedes seleccionar esta dote una segunda vez para aumentar el número a 8.
 
-**Prerequisites:** Ritualist Dedication
+### Prenda envenenada · Dote 6
 
-You can perform particularly extensive rituals in less time. If the ritual normally requires 1 day to cast, you can cast it in 4 hours. If it takes longer than 1 day, you cast it in half the number of days, rounded up.
+**Rasgos:** Arquetipo
 
-At 14th level, if a ritual has a casting time measured in days, you can cast it in an equal number of hours. If this results in a ritual longer than 8 hours, you split the ritual between multiple days, as normal for a ritual.
+**Prerrequisitos:** Dedicación de Envenenador
 
-### Assured Ritualist · Feat 10
+En la naturaleza, ciertos animales están cubiertos de espinas venenosas, y con solo rozarlas pueden resultar mortales. Gastas un veneno de contacto o de lesión y dedicas 10 minutos a aplicar ese veneno sobre tu ropa o a tejer agujas afiladas y envenenadas en la tela de la prenda. Solo puedes tener un veneno impregnado en tu ropa a la vez. Puedes usar la reacción Una vez mordido mientras tengas un veneno impregnado de esta manera.
 
-**Traits:** Archetype, Fortune
+**Una vez mordido · ◇** **Desencadenante:** Una criatura adyacente a ti te impacta con un Golpe desarmado de melé. **Requisitos:** Has preparado tu ropa para envenenar atacantes. **Efecto:** La criatura desencadenante se expone al veneno impregnado, y el veneno se vuelve inerte.
 
-**Prerequisites:** Flexible Ritualist
+### Tolerancia adquirida · ◇ · Dote 8
 
-You can cover for a secondary caster's error. If you are the primary caster, after all the secondary checks are rolled, you can choose one check that was a failure or critical failure, and improve the result to one degree of success better than what the secondary caster rolled.
+**Rasgos:** Arquetipo, Fortuna
 
-### Enterprising Ritualist · Feat 14
+**Prerrequisitos:** Dedicación de Envenenador
 
-**Traits:** Archetype
+**Desencadenante:** Fallas una salvación contra un veneno.
 
-**Prerequisites:** Ritualist Dedication
+Una pequeña cantidad de veneno, tomada en dosis no letales, puede ayudar al cuerpo a desarrollar resistencia contra una dosis más mortal. Vuelve a tirar la prueba desencadenante y usa el segundo resultado. Una vez que uses Tolerancia adquirida, puedes seguir usándola contra el mismo tipo de veneno ese día, pero no puedes usarla contra un tipo diferente de veneno hasta después de tus siguientes preparativos diarios. Por ejemplo, si usaste la reacción en una salvación contra veneno de escorpión gigante, podrías usarla de nuevo contra veneno de escorpión gigante incluso si proviene de otra fuente, pero no podrías usarla contra veneno de guiverno.
 
-Elegant and expensive components are no replacement for your skill and practice at ritual casting. If a ritual has a Cost entry that has a value in gp, reduce the amount you need to spend by 10%. If you critically succeed at the primary check for a ritual, the gp value of components the ritual consumes is reduced by the same amount.
+### Contagio químico · Dote 18
 
----
+**Rasgos:** Arquetipo
 
-## Scout
+**Prerrequisitos:** Dedicación de Envenenador
 
-You're an expert in espionage and reconnaissance, able to skulk silently through the wilderness to gather intelligence, sneak through enemy lines and report back to your comrades, or suddenly and decisively take down your foes.
-
-**Additional Feats:** 12th Camouflage
-
-### Scout Dedication · Feat 2
-
-**Traits:** Archetype, Dedication
-
-**Prerequisites:** trained in Stealth and Survival
-
-You are a highly skilled scout, capable of guiding your allies, detecting imminent threats, and avoiding the attention of dangerous enemies. You can perform the Scout exploration activity at the same time as the Avoid Notice exploration activity. The bonus to initiative you grant when you Scout is +2 instead of +1.
-
-### Scout's Charge · ◆◆ · Feat 4
-
-**Traits:** Archetype, Flourish
-
-**Prerequisites:** Scout Dedication
-
-You meander around unpredictably, and then ambush your opponents without warning. Choose one enemy. Stride, Feint against that opponent, and then make a Strike against it. For your Feint, you can attempt a Stealth check instead of the Deception check that's usually required, using the terrain around you to surprise your foe.
-
-### Terrain Scout · Feat 4
-
-**Traits:** Archetype
-
-**Prerequisites:** Scout Dedication
-
-You have mastered movement in many different environments. You gain the Terrain Stalker skill feat twice, choosing a different terrain each time. If you Avoid Notice while exploring and any allies use Follow the Expert to follow you as you do so, you can choose one of those allies to gain the benefit of any one Terrain Stalker feat you have.
-
-### Fleeting Shadow · ◆◆ · Feat 6
-
-**Traits:** Archetype, Flourish
-
-**Prerequisites:** Scout Dedication
-
-You're able to quickly disappear and then move about without drawing the attention of your enemies. You Hide, then Sneak twice.
-
-### Scout's Speed · Feat 6
-
-**Traits:** Archetype
-
-**Prerequisites:** Scout Dedication
-
-You move faster, especially when traveling, allowing you to scout out ahead and report back without slowing your allies. You gain a +10-foot status bonus to your Speed. When calculating your travel speed, this increases to a +20-foot status bonus.
-
-### Scout's Pounce · ◆◆ · Feat 10
-
-**Traits:** Archetype, Flourish
-
-**Prerequisites:** Scout Dedication
-
-**Requirements:** You are hidden from or undetected by all of your opponents, and you aren't within 10 feet of any enemy.
-
-You leap from the shadows to strike at your foes. Stride up to your Speed, then Strike twice. If you were hidden or unnoticed by the target of these Strikes, the target is off-guard against both attacks. Your multiple attack penalty applies normally for both attacks.
+Tus venenos de lesión pueden rociarse sobre criaturas. Obtienes el descubrimiento de campo superior del alquimista toxicólogo.
 
 ---
 
-## Scroll Trickster
+## Ritualista
 
-Magic has been written down in myriad forms for a very long time. From the classic rolled parchment to strings tied with a hundred intricate knots, from baked clay tablets covered with incisions to bound collections of bamboo slips, magic is everywhere. You just need to know how to read it.
+Si bien algunos aprenden el arte de lanzar rituales mediante estudio riguroso, otros individuos dotados pueden descubrir que una combinación de talento natural y suerte les otorga una sorprendente habilidad para realizar rituales, quieran ese poder o no.
 
-### Scroll Trickster Dedication · Feat 2
+### Dedicación de Ritualista · Dote 4
 
-**Traits:** Archetype, Dedication
+**Rasgos:** Poco común, Arquetipo, Dedicación
 
-**Prerequisites:** trained in Arcana, Nature, Occultism, or Religion
+**Prerrequisitos:** experto en Arcanos, Naturaleza, Ocultismo o Religión
 
-You've studied scrolls in depth. This might have been a comprehensive education in a formal setting or the sort of education where you somehow obtain a number of scrolls and try not to explode anything you didn't mean to explode. You gain the Trick Magic Item feat, and you gain a +2 circumstance bonus to skill checks to Trick scrolls. If you roll a critical failure to Trick a Magic Item that's a scroll, you get a failure instead.
+Has comenzado a dominar el difícil arte de lanzar rituales. Obtienes un bonificador circunstancial +2 a todas las pruebas para realizar un ritual. Aprendes dos rituales poco comunes de rango 2 o inferior. Debes cumplir todos los prerrequisitos para ser el lanzador principal de un ritual para seleccionarlo, y no puedes enseñarlo a nadie ni permitir que otro actúe como lanzador principal a menos que también conozca el ritual.
 
-### Basic Scroll Cache · Feat 6
+En el 8.º nivel y cada 4 niveles en adelante, aprendes dos rituales más con las mismas restricciones y con un rango máximo de la mitad de ese nivel.
 
-**Traits:** Archetype
+### Ritualista flexible · Dote 6
 
-**Prerequisites:** Scroll Trickster Dedication
+**Rasgos:** Arquetipo
 
-You have a vast and overflowing collection of scroll scraps, riddled with errors and misspellings and leaking energy like a sieve. With enough care, you can coax these scroll scraps into functioning—briefly. Each day during your daily preparations, you can create a single temporary scroll containing a 1st-rank spell. The spell must be a common spell, a spell to which you have access, or a spell you are able to cast, and you must be trained in the skill corresponding to at least one of the spell's traditions. You can use Learn a Spell to add spells to those you can use with this feat, even if you aren't a spellcaster. This scroll is an unstable, temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. This temporary scroll can't be used to Learn the Spell.
+**Prerrequisitos:** Dedicación de Ritualista
 
-At 8th level, add a second temporary scroll containing a 2nd-rank spell.
+Puedes realizar dos aspectos de un ritual tú mismo. Cuando lanzas un ritual, puedes reducir en 1 el número de lanzadores secundarios. Al hacerlo, debes cumplir cualquier requisito del lanzador secundario, e intentas la prueba secundaria que normalmente realiza ese lanzador secundario. No puedes reemplazar a un lanzador secundario que sea el objetivo del conjuro (como en el ritual *expiar*).
 
-### Skim Scroll · ◆ · Feat 8
+### Ritualista ingenioso · Dote 6
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo, Habilidad
 
-**Prerequisites:** Scroll Trickster Dedication
+**Prerrequisitos:** Dedicación de Ritualista
 
-You can activate the magic of a scroll with a cursory read as you draw it from your belt. You Interact to draw a scroll, then use Trick Magic Item on the scroll.
+Puedes lanzar rituales difíciles que de otro modo estarían justo más allá de tu habilidad. Puedes intentar pruebas para lanzar un ritual que requiera competencia experta si estás entrenado, competencia de maestro si eres experto o competencia legendaria si eres maestro.
 
-### Expert Scroll Cache · Feat 12
+### Rituales eficientes · Dote 8
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Basic Scroll Cache
+**Prerrequisitos:** Dedicación de Ritualista
 
-Your scroll collection has vastly grown, both in size and potency. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-rank spell. At 14th level, add a scroll with a 4th-rank spell. At 16th level, add a scroll with a 5th-rank spell.
+Puedes realizar rituales particularmente extensos en menos tiempo. Si el ritual normalmente requiere 1 día para lanzarse, puedes lanzarlo en 4 horas. Si requiere más de 1 día, lo lanzas en la mitad de días, redondeando hacia arriba.
 
-### Master Scroll Cache · Feat 18
+En el 14.º nivel, si un ritual tiene un tiempo de lanzamiento medido en días, puedes lanzarlo en un número igual de horas. Si esto resulta en un ritual de más de 8 horas, lo divides entre varios días, como es normal para un ritual.
 
-**Traits:** Archetype
+### Ritualista seguro · Dote 10
 
-**Prerequisites:** Expert Scroll Cache
+**Rasgos:** Arquetipo, Fortuna
 
-Your scroll collection is incredible, brimming with eldritch power, and you can prepare far more of them than an ordinary scroll trickster. In addition to your daily scrolls from the Basic and Expert Scroll Caches, add a single scroll with a 6th-rank spell. At 20th level, add a scroll with a 7th-rank spell.
+**Prerrequisitos:** Ritualista flexible
 
----
+Puedes cubrir el error de un lanzador secundario. Si eres el lanzador principal, después de que se tiren todas las pruebas secundarias, puedes elegir una prueba que fue fallo o fallo crítico y mejorar el resultado en un grado de éxito respecto a lo que tiró el lanzador secundario.
 
-## Scrounger
+### Ritualista emprendedor · Dote 14
 
-You have spent countless hours disassembling and rebuilding complex items to learn how they work, giving you the skill to create just about anything from the most unlikely materials.
+**Rasgos:** Arquetipo
 
-### Scrounger Dedication · Feat 2
+**Prerrequisitos:** Dedicación de Ritualista
 
-**Traits:** Uncommon, Archetype, Dedication
-
-**Prerequisites:** trained in Crafting
-
-While others need specialized tools and a dedicated space, you have found a way to build just about anything, anywhere. You can Craft items even without appropriate tools or a workshop. Additionally, you don't need a physical formula book to remember all of your formulas; you pay the same cost as normal to learn them, but you memorize them all. You gain the Cobble Together activity.
-
-**Cobble Together** (exploration) You Craft a temporary item out of anything, anywhere, with whatever materials happen to be on hand, spending only 10 minutes to perform the initial Crafting check. The temporary item must be one you've memorized or have the formula for, and must be common, non-magical, half your level or lower, and must be a weapon, armor, or a non-consumable piece of adventuring gear (non-consumable adventuring gear appears on page 291 of Player Core). Instead of a single item, you can create 10 pieces of a single type of ammunition. You can create only the physical item, not any information or magic, so for example, while you could create a blank journal or one with random pages, you couldn't use it as a scholarly journal or a religious text.
-
-An item you Cobble Together is a shoddy item, but when creating it you can choose one creature to build it specifically for. That creature doesn't take the normal penalty for using this shoddy item. Your temporary item lasts for 1d4 hours before falling apart into its raw components; the GM rolls the number of hours secretly.
-
-### Reverse Engineering · Feat 4
-
-**Traits:** Archetype, Skill
-
-**Prerequisites:** Scrounger Dedication, expert in Crafting
-
-Your nigh-constant tinkering and fiddling with objects means you are able to reverse engineer items into formulas more effectively than most. You gain a +2 circumstance bonus to Crafting checks to reverse engineer a formula from an item, and you can attempt a Crafting check to reverse engineer an item after spending 1 day of work setting up instead of 2. Additionally, if you get a critical success on your Crafting check, you can opt to not only create the formula but also reassemble the original item at the same time, leaving you with the formula and the item instead of the formula and raw materials equal to half the item's value.
-
-### Magical Scrounger · Feat 6
-
-**Traits:** Archetype
-
-**Prerequisites:** Scrounger Dedication, Magical Crafting
-
-You can craft a temporary wondrous item using the magic scrounged from all around. Once per day, you can Cobble Together a temporary magic item. The temporary item must be common, magical, half your level or lower, and be able to be held, wielded, or worn. Any Craft requirements must be provided as normal.
-
-You can't Cobble Together a consumable, a rune, or an item with runes. If the item must be worn or affixed, removing it once it's affixed or donned destroys it.
-
-### Expert Disassembly · Feat 7
-
-**Traits:** Archetype, Skill
-
-**Prerequisites:** Scrounger Dedication, master in Crafting
-
-You can apply the same techniques you use to reverse engineer objects to disable dangerous traps and break apart locks. You can use Crafting instead of Thievery to Disable a Device or Pick a Lock.
+Componentes elegantes y caros no sustituyen tu habilidad y práctica en lanzar rituales. Si un ritual tiene una entrada Coste con un valor en po, reduce la cantidad que necesitas gastar en un 10%. Si obtienes un éxito crítico en la prueba principal de un ritual, el valor en po de los componentes que consume se reduce en la misma cantidad.
 
 ---
 
-## Sentinel
+## Explorador
 
-Armor offers solid, reassuring protection in combat, and as someone who faces danger on a regular basis, you have made it your business to get the most out of your defenses. You stand solid on any battlefield, encased in the sturdiest armor you can find.
+Eres un experto en espionaje y reconocimiento, capaz de escabullirte silenciosamente por la naturaleza para reunir información, colarte entre las líneas enemigas y reportar a tus camaradas, o derribar de forma súbita y decisiva a tus enemigos.
 
-### Sentinel Dedication · Feat 2
+**Dotes adicionales:** 12.º Camuflaje
 
-**Traits:** Archetype, Dedication
+### Dedicación de Explorador · Dote 2
 
-You have trained carefully to maximize the protective qualities of your armor. You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you're 13th level or higher, you also become an expert in the armor types granted to you by this feat.
+**Rasgos:** Arquetipo, Dedicación
 
-### Steel Skin · Feat 4
+**Prerrequisitos:** entrenado en Sigilo y Supervivencia
 
-**Traits:** Archetype, Skill
+Eres un explorador altamente capacitado, capaz de guiar a tus aliados, detectar amenazas inminentes y evitar la atención de enemigos peligrosos. Puedes realizar la actividad de exploración Explorar a la vez que la actividad Evitar ser detectado. El bonificador a la iniciativa que otorgas al Explorar es +2 en lugar de +1.
 
-**Prerequisites:** Sentinel Dedication, trained in Survival
+### Carga del explorador · ◆◆ · Dote 4
 
-You wear your armor like a second skin, taking comfort in the protection it offers. You don't become fatigued if you sleep while wearing armor.
+**Rasgos:** Arquetipo, Florecimiento
 
-### Armor Specialist · Feat 6
+**Prerrequisitos:** Dedicación de Explorador
 
-**Traits:** Archetype
+Te mueves de forma impredecible y luego emboscas a tus oponentes sin aviso. Elige un enemigo. Avanza, Finta contra ese oponente y luego realiza un Golpe contra él. Para tu Finta, puedes intentar una prueba de Sigilo en lugar de la de Engaño normalmente requerida, utilizando el terreno a tu alrededor para sorprender a tu enemigo.
 
-**Prerequisites:** Sentinel Dedication
+### Explorador de terrenos · Dote 4
 
-You have trained hard to optimize your armor's unique protective qualities to maximize the materials used in its creation. You gain the armor specialization effects for all armors you are proficient with.
+**Rasgos:** Arquetipo
 
-### Armored Rebuff · ◇ · Feat 8
+**Prerrequisitos:** Dedicación de Explorador
 
-**Traits:** Archetype
+Has dominado el movimiento en muchos entornos distintos. Obtienes la dote de habilidad Acechador de terrenos dos veces, eligiendo un terreno distinto cada vez. Si Evitas ser detectado mientras exploras y algún aliado usa Seguir al experto para seguirte, puedes elegir a uno de esos aliados para que obtenga el beneficio de cualquier dote Acechador de terrenos que tengas.
 
-**Prerequisites:** Sentinel Dedication
+### Sombra fugaz · ◆◆ · Dote 6
 
-**Trigger:** An adjacent enemy critically fails an attack roll to Strike you with a melee weapon or unarmed attack.
+**Rasgos:** Arquetipo, Florecimiento
 
-**Requirements:** You are wearing medium armor or heavier.
+**Prerrequisitos:** Dedicación de Explorador
 
-You rebuff puny attacks with your armor, knocking back your foe. Attempt an Athletics check to Shove the triggering enemy, even if you don't have a hand free. If you succeed, you can't Stride to follow the enemy, as you're knocking the enemy back with the rebounded attack, not by physically moving towards them.
+Puedes desaparecer rápidamente y luego moverte sin atraer la atención de tus enemigos. Te Ocultas y luego Te escabulles dos veces.
 
-### Mighty Bulwark · Feat 10
+### Velocidad del explorador · Dote 6
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Sentinel Dedication
+**Prerrequisitos:** Dedicación de Explorador
 
-Thanks to the incredible connection you have forged with your armor, you can use it to shrug off an extensive array of dangers. Your bonus from the bulwark armor trait increases from +3 to +4, and it applies on all Reflex saves, not just damaging Reflex saves.
+Te mueves más rápido, especialmente al viajar, permitiéndote explorar por delante y volver sin ralentizar a tus aliados. Obtienes un bonificador de estado +3 m a tu Velocidad. Al calcular tu velocidad de viaje, esto aumenta a un bonificador de estado +6 m.
 
----
+### Zarpazo del explorador · ◆◆ · Dote 10
 
-## Snarecrafter
+**Rasgos:** Arquetipo, Florecimiento
 
-You're able to take ordinary materials and use them to create deadly snares—special traps that you can rig up quickly when the situation demands.
+**Prerrequisitos:** Dedicación de Explorador
 
-### Snarecrafter Dedication · Feat 2
+**Requisitos:** Estás oculto o no detectado por todos tus oponentes, y no estás a menos de 3 m de ningún enemigo.
 
-**Traits:** Archetype, Dedication
-
-**Prerequisites:** trained in Crafting
-
-You have studied the art of crafting snares and laying traps, and few have shown more talent in these arts than you. You gain the Snare Crafting feat. When you set a snare, the DC of any saving throw it requires uses the higher of your class DC or the snare's DC. If a snare normally takes 1 minute to Craft, you can Craft it with 3 Interact actions instead.
-
-Each day during your daily preparations, you can prepare four snares from your formula book for quick deployment (increasing to six snares if you're a master in Crafting and eight if you're legendary). Snares prepared in this way don't cost you any resources to Craft.
-
-When you increase your proficiency rank in Crafting to expert, master, or legendary, add three additional snare formulas to your formula book. The snares must be of your level or lower.
-
-**Special:** Rangers can adapt snare crafting techniques to create snares from natural materials. If you are a ranger, you can use Survival instead of Crafting for all prerequisites and functions of feats from this archetype. (This includes using Survival to Craft a snare.)
-
-### Surprise Snare · ◆◆◆ · Feat 4
-
-**Traits:** Archetype, Manipulate
-
-**Prerequisites:** Snarecrafter Dedication
-
-You install one prepared snare for deployment in a space that's occupied by an enemy. It must be a snare that normally takes 1 minute or less to Craft. The snare automatically triggers.
-
-### Remote Trigger · Feat 6
-
-**Traits:** Archetype
-
-**Prerequisites:** Snarecrafter Dedication
-
-You've learned how to trigger snares from afar, creating ranged hazards to assail your opponents and allowing you to disarm enemies' snares harmlessly. You can Strike a snare to trigger it prematurely. If you crafted the snare, you automatically hit. If someone else crafted it, attempt a ranged Strike against the Crafting DC, triggering the snare only if you hit.
-
-### Giant Snare · Feat 10
-
-**Traits:** Archetype
-
-**Prerequisites:** Snarecrafter Dedication
-
-You can create bigger snares for quick deployment, making it more likely for a creature to walk into your snares. When you prepare snares for quick deployment, you can prepare some of them as giant snares. A giant snare takes up a 10-foot-by-10-foot area but costs two of your quick deployment snares. A giant snare can trigger from a creature entering any portion of its area, and all its effects apply over the full area.
-
-### Lightning Snares · Feat 12
-
-**Traits:** Archetype
-
-**Prerequisites:** Snarecrafter Dedication, master in Crafting
-
-You can rig a trap with incredible speed. When you create a snare that normally takes 1 minute to Craft, you can Craft it using a single Interact action instead.
-
-### Plentiful Snares · Feat 12
-
-**Traits:** Archetype
-
-**Prerequisites:** Snarecrafter Dedication
-
-You can prepare incredible numbers of snares each day out of simple ingredients. Double the number of prepared snares granted by Snarecrafter Dedication.
+Saltas desde las sombras para atacar a tus enemigos. Avanza hasta tu Velocidad y luego Golpea dos veces. Si estabas oculto o inadvertido para el objetivo de estos Golpes, el objetivo está desprevenido contra ambos ataques. Tu penalización por ataques múltiples se aplica normalmente a ambos.
 
 ---
 
-## Talisman Dabbler
+## Tramposo de pergaminos
 
-The classic idea of magic is that of a hoary wizard, poring over a crumbling book of spells as years pass. But magic is so much more than that—it's thought, will, and action, and with the right talismans, you can make even the cut of a sword a deeply magical act.
+La magia ha sido escrita en innumerables formas durante mucho tiempo. Desde el clásico pergamino enrollado a cuerdas atadas con cien nudos intrincados, desde tablillas de arcilla cocida cubiertas de incisiones a colecciones encuadernadas de láminas de bambú, la magia está por todas partes. Solo necesitas saber leerla.
 
-### Talisman Dabbler Dedication · Feat 2
+### Dedicación de Tramposo de pergaminos · Dote 2
 
-**Traits:** Archetype, Dedication
+**Rasgos:** Arquetipo, Dedicación
 
-You are trained in the use of talismans and similar magical paraphernalia. This training might have occurred in a formal classroom or been an accumulation of folk magic picked up over time. You can craft talismans and know the formulas for all common talismans of your level or lower. You remember talisman formulas and don't need a formula book for them.
+**Prerrequisitos:** entrenado en Arcanos, Naturaleza, Ocultismo o Religión
 
-Additionally, you carry a vast collection of magical baubles you can turn into temporary talismans. Each day during your daily preparations, you can make two talismans with an item level no higher than half your level. You must know each talisman's formula. A talisman created this way is a temporary item and loses its magic the next time you make your daily preparations if you haven't already used it. Any saving throw DC required by a temporary talisman you create uses the highest of your class DC, spell DC, or the talisman's DC.
+Has estudiado los pergaminos en profundidad. Esto puede haber sido una educación completa en un entorno formal o el tipo de educación en la que de algún modo obtienes varios pergaminos y tratas de no hacer explotar nada que no pretendías. Obtienes la dote Engañar objeto mágico, y un bonificador circunstancial +2 a las pruebas de habilidad para Engañar pergaminos. Si obtienes un fallo crítico al Engañar un objeto mágico que sea un pergamino, obtienes un fallo en su lugar.
 
-Finally, when you Affix a Talisman, you can (in any combination) affix or remove up to four talismans in the 10-minute span.
+### Reserva básica de pergaminos · Dote 6
 
-### Quick Fix · Feat 4
+**Rasgos:** Arquetipo
 
-**Traits:** Archetype
+**Prerrequisitos:** Dedicación de Tramposo de pergaminos
 
-**Prerequisites:** Talisman Dabbler Dedication
+Tienes una vasta y desbordante colección de trozos de pergamino, plagados de errores y faltas y perdiendo energía como un colador. Con suficiente cuidado, puedes conseguir que estos fragmentos funcionen, brevemente. Cada día durante tus preparativos diarios, puedes crear un único pergamino temporal que contenga un conjuro de rango 1. El conjuro debe ser común, un conjuro al que tengas acceso, o un conjuro que seas capaz de lanzar, y debes estar entrenado en la habilidad correspondiente a al menos una de sus tradiciones. Puedes usar Aprender un conjuro para añadir conjuros a los que puedes usar con esta dote, incluso si no eres lanzador. Este pergamino es un objeto temporal inestable y pierde su magia la próxima vez que hagas tus preparativos diarios si no lo has usado. Este pergamino temporal no puede usarse para Aprender el conjuro.
 
-You can attach a talisman using only a bit of glue and some string. You gain the Rapid Affixture skill feat, even if you don't meet the prerequisites. When you use it, you can affix or remove up to four talismans in 1 minute instead of just one.
+En el 8.º nivel, añade un segundo pergamino temporal que contenga un conjuro de rango 2.
 
-You gain the ability to Affix a Talisman as a 3-action activity from that feat at 12th level, regardless of your Crafting proficiency.
+### Ojear pergamino · ◆ · Dote 8
 
-### Deeper Dabbler · Feat 8
+**Rasgos:** Arquetipo
 
-**Traits:** Archetype
+**Prerrequisitos:** Dedicación de Tramposo de pergaminos
 
-**Prerequisites:** Talisman Dabbler Dedication
+Puedes activar la magia de un pergamino con una lectura somera mientras lo sacas del cinto. Interactúas para sacar un pergamino y luego usas Engañar objeto mágico sobre el pergamino.
 
-With some streamlining to your process and a deeper collection of talisman materials, you make a greater number of talismans every day. You can create two additional talismans during your daily preparations.
+### Reserva experta de pergaminos · Dote 12
 
-**Special:** You can select this feat a second time if you are 14th level or higher.
+**Rasgos:** Arquetipo
 
-### Talismanic Sage · Feat 14
+**Prerrequisitos:** Reserva básica de pergaminos
 
-**Traits:** Archetype
+Tu colección de pergaminos ha crecido enormemente, tanto en tamaño como en potencia. Además de tus pergaminos diarios de Reserva básica de pergaminos, añade un pergamino con un conjuro de rango 3. En el 14.º nivel, añade un pergamino con un conjuro de rango 4. En el 16.º nivel, añade un pergamino con un conjuro de rango 5.
 
-**Prerequisites:** Talisman Dabbler Dedication
+### Reserva maestra de pergaminos · Dote 18
 
-Normally, affixing more than one talisman to an item causes the talismans to be suppressed, but when you Affix a Talisman, you can specially treat one item you're working on, allowing it to have two active talismans at once. This special treatment ends if you use Affix a Talisman to treat a new item for this ability.
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Reserva experta de pergaminos
+
+Tu colección de pergaminos es increíble, rebosante de poder arcano, y puedes preparar muchos más de los que podría un tramposo de pergaminos ordinario. Además de tus pergaminos diarios de las Reservas básica y experta, añade un único pergamino con un conjuro de rango 6. En el 20.º nivel, añade un pergamino con un conjuro de rango 7.
 
 ---
 
-## Vigilante
+## Buscavidas
 
-As a vigilante, you have two faces: a public persona, and a secret identity that lets you hide your extralegal actions from polite society. Your secret identity lets you adventure and carry out clandestine missions while keeping the civilians you care about safe.
+Has pasado incontables horas desmontando y reconstruyendo objetos complejos para aprender cómo funcionan, lo que te da la habilidad de crear prácticamente cualquier cosa a partir de los materiales más improbables.
 
-**Additional Feats:** 4th Quick Draw
+### Dedicación de Buscavidas · Dote 2
 
-### Vigilante Dedication · Feat 2
+**Rasgos:** Poco común, Arquetipo, Dedicación
 
-**Traits:** Uncommon, Archetype, Dedication
+**Prerrequisitos:** entrenado en Artesanía
 
-**Prerequisites:** trained in Deception
+Mientras otros necesitan herramientas especializadas y un espacio dedicado, tú has encontrado una forma de construir casi cualquier cosa, en cualquier lugar. Puedes Elaborar objetos incluso sin herramientas apropiadas o taller. Además, no necesitas un libro físico de fórmulas para recordar todas tus fórmulas; pagas el mismo coste que de costumbre para aprenderlas, pero las memorizas todas. Obtienes la actividad Improvisar montaje.
 
-You have two identities, each with its own name and abilities. Your social identity is an upstanding member of society, while your vigilante identity is a skilled and cunning warrior. Neither of these identities is a false front; you really are both of these people. If someone attempts to discern your other identity, they must use a Seek action to attempt a Perception check against your Deception DC, as if you were using the Impersonate action. Your Deception DC against such attempts is 20 + your proficiency modifier instead of the normal DC. Unlike with Impersonate, you don't have to attempt a Deception check to interact with someone to conceal your other identity—a check happens only if someone else specifically tries to uncover your other identity.
+**Improvisar montaje** (exploración) Elaboras un objeto temporal de cualquier cosa, en cualquier lugar, con los materiales que tengas a mano, dedicando solo 10 minutos para realizar la prueba inicial de Artesanía. El objeto temporal debe ser uno que hayas memorizado o para el que tengas la fórmula, y debe ser común, no mágico, de la mitad de tu nivel o inferior, y debe ser un arma, una armadura o un equipo de aventura no consumible (el equipo de aventura no consumible aparece en la página 291 de Player Core). En lugar de un único objeto, puedes crear 10 piezas de un único tipo de munición. Solo puedes crear el objeto físico, no información ni magia; por ejemplo, puedes crear un diario en blanco o con páginas aleatorias, pero no podrías usarlo como diario académico o texto religioso.
 
-Changing from one identity to the other takes 1 minute and must be done out of sight from other creatures. As this process involves both physical changes such as clothing and makeup, along with an altered state of mind, other effects that change your appearance don't reduce the time required to change identities.
+Un objeto que Improvisas es un objeto chapucero, pero al crearlo puedes elegir una criatura para la que lo construyes específicamente. Esa criatura no sufre la penalización normal por usar este objeto chapucero. Tu objeto temporal dura 1d4 horas antes de desmoronarse en sus componentes básicos; el DJ tira en secreto el número de horas.
 
-Your two identities are completely distinct. Checks to Recall Knowledge about one of your identities don't reveal information about the other unless the person attempting the check knows both identities are the same person. Effects that detect you based on your identity work only if you are currently in the identity the effect is trying to detect; otherwise, the effect fails as if the target didn't exist.
+### Ingeniería inversa · Dote 4
 
-To maintain the separation between your identities, some of your abilities have the vigilante trait. Your class feats and vigilante feats are associated with your vigilante identity, and using them while in your social identity may risk exposing you as a vigilante. If your identity is exposed to the public, you lose the benefits of Vigilante Dedication to disguising yourself, but you can spend 1 week of downtime to create a new social identity.
+**Rasgos:** Arquetipo, Habilidad
 
-### Hidden Magic · Feat 4
+**Prerrequisitos:** Dedicación de Buscavidas, experto en Artesanía
 
-**Traits:** Archetype, Skill
+Tu casi constante cacharreo con objetos te permite hacer ingeniería inversa de objetos a fórmulas más eficazmente que la mayoría. Obtienes un bonificador circunstancial +2 a las pruebas de Artesanía para obtener una fórmula desde un objeto, y puedes intentar una prueba de Artesanía para ingeniería inversa tras dedicar 1 día de trabajo de preparación en lugar de 2. Además, si obtienes un éxito crítico en tu prueba, puedes optar por no solo crear la fórmula sino también volver a ensamblar el objeto original al mismo tiempo, quedándote con la fórmula y el objeto en lugar de la fórmula y materiales en bruto equivalentes a la mitad del valor del objeto.
 
-**Prerequisites:** Vigilante Dedication; expert in Arcana, Nature, Occultism, or Religion
+### Buscavidas mágico · Dote 6
 
-You've learned to hide the magical auras of your gear. During your daily preparations, you carefully tweak any or all of your magic items to appear non-magical. Objects adjusted in this way remain so until your next preparations. A spellcaster using *detect magic* or *read aura* must succeed at a Perception check against your Deception DC to see through your obfuscations.
+**Rasgos:** Arquetipo
 
-### Minion Guise · Feat 4
+**Prerrequisitos:** Dedicación de Buscavidas, Elaboración mágica
 
-**Traits:** Archetype, Skill
+Puedes elaborar un objeto maravilloso temporal usando magia recolectada de tu entorno. Una vez al día, puedes Improvisar montaje de un objeto mágico temporal. El objeto temporal debe ser común, mágico, de la mitad de tu nivel o inferior, y que pueda sostenerse, empuñarse o llevarse puesto. Cualquier requisito de Elaborar debe proporcionarse como es habitual.
 
-**Prerequisites:** Vigilante Dedication, animal companion or familiar, expert in Deception
+No puedes Improvisar montaje de un consumible, una runa o un objeto con runas. Si el objeto debe llevarse puesto o fijarse, retirarlo una vez fijado o vestido lo destruye.
 
-When you are in your social identity, you can also grant a social identity to an animal companion, familiar, pet, or other minion you gained from a class feature or feat. When changing to your social identity, you also change your minion's appearance to that of a socially acceptable creature of its type, such as grooming a wolf to appear as a large dog or disguising a familiar to appear as an exotic pet. Commanding your minion to use unusual magical or combat abilities it gained from your class features or feats while in this social identity risks exposing your vigilante identity.
+### Desmontaje experto · Dote 7
 
-### Safe House · Feat 4
+**Rasgos:** Arquetipo, Habilidad
 
-**Traits:** Archetype
+**Prerrequisitos:** Dedicación de Buscavidas, maestro en Artesanía
 
-**Prerequisites:** Vigilante Dedication
-
-You establish a safe house—a secure space in which to hide your secrets from the outside world. This safe house is roughly the size of two 10-foot cubes. It's in a location you have access to, and it can be part of a larger building or structure, like a hidden room or an underground cave. The safe house protects objects and people inside it from magical detection. This has the effects of *veil of privacy*, using your Deception modifier for the counteract DC and half your level rounded up for the counteract rank. Setting up or moving your safe house takes a week of downtime. The size of the safe house expands to four 10-foot cubes if you're an expert in Deception, eight cubes if you're a master, and 16 cubes if you're legendary.
-
-### Social Purview · Feat 4
-
-**Traits:** Archetype, Skill
-
-**Prerequisites:** Vigilante Dedication
-
-You have built a reputation for yourself in your social identity. Choose one archetype that you meet the prerequisites for. You gain that archetype's dedication feat and can select feats from that archetype, even if you haven't yet gained enough feats in the vigilante archetype to take another dedication feat. These feats become part of your social identity—for instance, a fighter vigilante could take the wizard dedication feat and have a wizard social identity. Using these feats in your social identity doesn't risk exposing your vigilante identity, but using them in your vigilante identity could put you at risk for exposure.
-
-### Startling Appearance · ◆ · Feat 6
-
-**Traits:** Archetype, Emotion, Fear, Mental, Vigilante
-
-**Prerequisites:** Vigilante Dedication
-
-**Requirements:** You are unnoticed by the target creature.
-
-You can startle foes who are unaware of your presence. Make a Strike against your target. That creature is off-guard against this Strike, as normal. If your Strike hits, the target remains off-guard for the rest of your turn and is frightened 1 (frightened 2 on a critical hit).
-
-### Quick Change · Feat 7
-
-**Traits:** Archetype
-
-**Prerequisites:** Vigilante Dedication, master in Deception
-
-You can shift between your identities with ease. Instead of spending 1 minute to change your identity, you can now do so as a 3-action activity. If you are legendary in Deception, you can perform this change as a single action.
-
-### Subjective Truth · Feat 7
-
-**Traits:** Archetype, Skill
-
-**Prerequisites:** Vigilante Dedication, master in Deception
-
-Your disparate identities allow you to defeat magic that detects lies. As long as what you say is true from the point of view of your current identity, you can deceive effects like *ring of truth* that reveal lies.
-
-### Many Guises · Feat 8
-
-**Traits:** Archetype
-
-**Prerequisites:** Vigilante Dedication, master in Deception
-
-You can take on any number of mundane guises. Whenever you change your identity, instead of taking on your social or vigilante identity, you can become someone completely ordinary. This identity isn't a specific individual—rather, you become a nondescript member of your ancestry, of any gender, and from a mundane occupation such as common laborer, farmer, or peasant. Spells and abilities detect you as if you were this ordinary identity, rather than either of your two real identities, unless they succeed at a counteract check against the same Deception DC used for Vigilante Dedication.
-
-Using class or dedication abilities ends this disguise.
-
-### Frightening Appearance · Feat 12
-
-**Traits:** Archetype, Vigilante
-
-**Prerequisites:** expert in Intimidation, Startling Appearance
-
-Your dramatic appearances can frighten bystanders. When you make a Startling Appearance, you can also attempt to Demoralize each enemy in a 10-foot emanation you were unnoticed by before your Strike.
-
-### Stunning Appearance · Feat 16
-
-**Traits:** Archetype, Vigilante
-
-**Prerequisites:** Startling Appearance
-
-Your sudden appearance leaves your foe unable to respond. When you use Startling Appearance and your Strike hits an enemy of your level or lower, the enemy is also stunned 1 on a hit, or stunned 2 on a critical hit.
+Puedes aplicar las mismas técnicas que usas para ingeniería inversa para desactivar trampas peligrosas y forzar cerraduras. Puedes usar Artesanía en lugar de Latrocinio para Desactivar un dispositivo o Forzar una cerradura.
 
 ---
 
-## Viking
+## Centinela
 
-To go "a-viking" is to raid by sea, and thus vikings have spread far and wide. Some have even settled in the very communities they once raided. Vikings traditionally travel in longboats; a score of these warriors might live aboard their ship for days at a time, sailing the seas (or, as they call it, the "whale-road") to ambush coastal communities.
+La armadura ofrece una protección sólida y tranquilizadora en combate, y como alguien que afronta el peligro con regularidad, te has propuesto sacar el máximo partido a tus defensas. Permaneces firme en cualquier campo de batalla, enfundado en la armadura más resistente que puedas encontrar.
 
-**Additional Feats:** 4th Reactive Shield; 6th Shielded Stride; 10th Quick Shield Block
+### Dedicación de Centinela · Dote 2
 
-### Viking Dedication · Feat 2
+**Rasgos:** Arquetipo, Dedicación
 
-**Traits:** Archetype, Dedication
+Te has entrenado cuidadosamente para maximizar las cualidades protectoras de tu armadura. Pasas a estar entrenado en armadura ligera y media. Si ya estabas entrenado en armadura ligera y media, pasas a estar entrenado también en armadura pesada. Siempre que obtienes una característica de clase que te otorga competencia experta o superior en algún tipo de armadura (pero no defensa sin armadura), también obtienes esa competencia en los tipos de armadura otorgados por esta dote. Si tienes una característica de clase que te otorga competencia experta en defensa sin armadura y eres nivel 13 o superior, también pasas a ser experto en los tipos de armadura otorgados por esta dote.
 
-**Prerequisites:** trained in Athletics
+### Piel de acero · Dote 4
 
-Vikings spend long periods of time at sea, only to leap from their boats at a moment's notice, charge through the surf, and take their enemies by storm. You gain the Additional Lore general feat for Sailing Lore and Warfare Lore.
+**Rasgos:** Arquetipo, Habilidad
 
-When using your land Speed, you ignore difficult terrain from shallow water, such as in bogs or on beaches. In addition, if you roll a success on an Athletics check to Swim, you get a critical success instead.
+**Prerrequisitos:** Dedicación de Centinela, entrenado en Supervivencia
 
-### Hurling Charge · ◆◆ · Feat 4
+Llevas tu armadura como una segunda piel, confortado por la protección que ofrece. No quedas fatigado si duermes llevando armadura.
 
-**Traits:** Archetype
+### Especialista en armaduras · Dote 6
 
-**Prerequisites:** Viking Dedication
+**Rasgos:** Arquetipo
 
-**Requirements:** You're wielding a thrown weapon.
+**Prerrequisitos:** Dedicación de Centinela
 
-You make a ranged Strike with your thrown weapon, Stride, and then Interact to draw another weapon. This Interact action doesn't trigger reactions.
+Te has entrenado para optimizar las cualidades protectoras únicas de tu armadura y aprovechar al máximo los materiales usados en su creación. Obtienes los efectos de especialización de armadura para todas las armaduras con las que eres competente.
 
-**Special:** If you are raging and end the Stride adjacent to an enemy, that enemy is off-guard against the next Strike you make against it with the weapon you drew before the end of your next turn.
+### Rechazo acorazado · ◇ · Dote 8
 
-### Viking Weapon Familiarity · Feat 4
+**Rasgos:** Arquetipo
 
-**Traits:** Archetype
+**Prerrequisitos:** Dedicación de Centinela
 
-**Prerequisites:** Viking Dedication
+**Desencadenante:** Un enemigo adyacente falla críticamente una tirada de ataque para Golpearte con un arma de melé o un ataque desarmado.
 
-From childhood, you have been exposed to traditional viking combat techniques, and you soon learned to handle axe, sword, and shield in battle. Now, you can raid proudly alongside your fellows. You gain the Shield Block reaction. Additionally, you have familiarity with the battle axe, hatchet, longsword, shield boss, shield spikes, and shortsword—for the purposes of proficiency, you treat any of these weapons as simple weapons.
+**Requisitos:** Llevas armadura media o más pesada.
 
-At 5th level, whenever you get a critical hit with one of these weapons, you get its critical specialization effect.
+Rechazas ataques endebles con tu armadura, haciendo retroceder a tu enemigo. Intenta una prueba de Atletismo para Empujar al enemigo desencadenante, incluso si no tienes una mano libre. Si tienes éxito, no puedes Avanzar para seguir al enemigo, ya que lo estás expulsando con el ataque rebotado, no desplazándote físicamente hacia él.
 
-### Second Shield · ◇ · Feat 6
+### Baluarte poderoso · Dote 10
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Viking Dedication
+**Prerrequisitos:** Dedicación de Centinela
 
-**Trigger:** Your Shield Block causes your shield to break or be destroyed.
-
-You're used to your shield breaking in the middle of battle, and you're prepared to use a backup or any convenient nearby object to defend yourself. You Interact to draw a shield on your person or an unattended shield within your reach.
-
-If there is an object within your reach that could serve as an improvised shield—for example, a table or chair—you can Interact to draw it with this feat. The GM determines if something can be used as an improvised shield. Your new shield isn't raised until you use the Raise a Shield action, as normal.
-
-### Into the Fray · ◆◆ · Feat 8
-
-**Traits:** Archetype
-
-**Prerequisites:** Viking Dedication
-
-**Requirements:** You are wielding a one-handed melee weapon in one hand and a shield in another hand.
-
-You charge into battle with shield-splintering fury. You Leap, Stride, or Swim. Make two melee Strikes during this movement, one with your one-handed melee weapon and one with your shield or a weapon attached to the shield (like a shield boss or shield spikes). You can make these Strikes at any points during your movement, and each must target a different enemy. Both attacks count toward your multiple attack penalty, but don't increase your penalty until you have made both attacks.
+Gracias a la increíble conexión que has forjado con tu armadura, puedes usarla para desentenderte de un amplio abanico de peligros. Tu bonificador del rasgo de armadura baluarte aumenta de +3 a +4 y se aplica a todas las salvaciones de Reflejos, no solo a las que infligen daño.
 
 ---
 
-## Weapon Improviser
+## Fabricante de lazos
 
-As far as you're concerned, the best weapon to wield is the one that your opponents never see coming. By knowing how to fight effectively with whatever is at hand, you ensure that you're never caught unarmed, and you often get the drop on opponents who mistakenly think they've caught you unprepared.
+Eres capaz de tomar materiales ordinarios y usarlos para crear lazos mortales: trampas especiales que puedes preparar rápidamente cuando la situación lo requiere.
 
-**Improvised Weapon Ideas:** Use these for inspiration. Cavern: broken stalagmite, large mushroom, old bones; Docks: barrel, crate, hook; Forest: branch, needles, or thorns; Market: box, fruit, scale, sign; Courtroom or Study: gavel, goblet, quill, lectern; Tavern: bottle, mug, serving tray, stool
+### Dedicación de Fabricante de lazos · Dote 2
 
-**GM Advice:** For a GM setting damage, typically a one-handed improvised weapon's damage is 1d4, 1d6, or 1d8; one that needs two hands is 1d8, 1d10, or occasionally 1d12, and an extremely ineffective one might deal 1 damage. Improvised weapons typically have zero, one, or two traits, and often have the nonlethal trait. Agile improvised weapons usually have a smaller die size. It's extremely rare for an improvised weapon to deal more than one die of damage, but powerful magical objects might. Improvised weapons should be fun and don't last long, so feel free to experiment!
+**Rasgos:** Arquetipo, Dedicación
 
-### Weapon Improviser Dedication · Feat 2
+**Prerrequisitos:** entrenado en Artesanía
 
-**Traits:** Archetype, Dedication
+Has estudiado el arte de crear lazos y colocar trampas, y pocos han mostrado más talento en estas artes que tú. Obtienes la dote Crear lazos. Cuando colocas un lazo, la CD de cualquier tirada de salvación que requiera usa la mayor de tu CD de clase o la CD del lazo. Si un lazo normalmente lleva 1 minuto Elaborarlo, puedes Elaborarlo con 3 acciones de Interactuar en su lugar.
 
-**Prerequisites:** trained in martial weapons
+Cada día durante tus preparativos diarios, puedes preparar cuatro lazos de tu libro de fórmulas para despliegue rápido (aumentando a seis si eres maestro en Artesanía y a ocho si eres legendario). Los lazos preparados de esta manera no te cuestan recursos para Elaborarlos.
 
-You don't take the normal –2 penalty to attack rolls with improvised weapons. Improvised weapons you use have a minimum weapon damage die of 1d6, or 1d4 if the improvised weapon is agile.
+Cuando aumentas tu rango de competencia en Artesanía a experto, maestro o legendario, añade tres fórmulas de lazos adicionales a tu libro de fórmulas. Los lazos deben ser de tu nivel o inferior.
 
-### Improvised Pummel · Feat 4
+**Especial:** Los exploradores pueden adaptar técnicas de creación de lazos para crear lazos con materiales naturales. Si eres explorador, puedes usar Supervivencia en lugar de Artesanía para todos los prerrequisitos y funciones de las dotes de este arquetipo (incluye usar Supervivencia para Elaborar un lazo).
 
-**Traits:** Archetype
+### Lazo sorpresa · ◆◆◆ · Dote 4
 
-**Prerequisites:** Weapon Improviser Dedication
+**Rasgos:** Arquetipo, Manipular
 
-When you make a Strike with an improvised weapon you're wielding, you gain a +1 item bonus to the attack roll, and you can have the Strike deal two weapon damage dice instead of the improvised weapon's normal number. If the attack is a critical hit, the improvised weapon breaks after the normal effects of a critical hit occur. If the item has a Hardness greater than your level, or if it's an artifact, cursed item, or other item that's difficult to break or destroy, it doesn't break but the attack is a normal hit instead of a critical hit. You can choose not to get any of the effects of Improvised Pummel on a Strike if you don't want to risk breaking the item. At 12th level, the item bonus increases to +2, and at 16th level, the Strike deals three weapon damage dice instead of the improvised weapon's normal number.
+**Prerrequisitos:** Dedicación de Fabricante de lazos
 
-If you're benefiting from *handwraps of mighty blows*, you use the handwraps' item bonus if it's higher and can choose to use its number of damage dice. Any property runes from the handwraps also apply if you use the handwraps' number of weapon damage dice, provided they could apply to the improvised weapon (as determined by the GM).
+Instalas un lazo preparado para despliegue en un espacio ocupado por un enemigo. Debe ser un lazo que normalmente lleva 1 minuto o menos Elaborarlo. El lazo se activa automáticamente.
 
-### Surprise Strike · Feat 6
+### Activación remota · Dote 6
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Weapon Improviser Dedication
+**Prerrequisitos:** Dedicación de Fabricante de lazos
 
-Whenever you make a Strike with an improvised weapon against a creature that hasn't observed you making a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is off-guard against you for that Strike.
+Has aprendido a activar lazos desde lejos, creando peligros a distancia para hostigar a tus oponentes y permitiéndote desarmar lazos de enemigos de forma inofensiva. Puedes Golpear un lazo para activarlo prematuramente. Si tú elaboraste el lazo, impactas automáticamente. Si lo elaboró otra persona, intenta un Golpe a distancia contra la CD de Artesanía, activando el lazo solo si impactas.
 
-### Improvised Critical · Feat 8
+### Lazo gigante · Dote 10
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Weapon Improviser Dedication
+**Prerrequisitos:** Dedicación de Fabricante de lazos
 
-You can apply critical specialization effects to improvised weapons you wield. For any given improvised weapon, the GM determines which critical specialization effect is most applicable, based on the type of object it is.
+Puedes crear lazos más grandes para despliegue rápido, haciendo más probable que una criatura entre en tus lazos. Al preparar lazos para despliegue rápido, puedes preparar algunos como lazos gigantes. Un lazo gigante ocupa un área de 3 m por 3 m pero cuesta dos de tus lazos de despliegue rápido. Un lazo gigante puede activarse por una criatura que entre en cualquier parte de su área, y todos sus efectos se aplican sobre toda el área.
 
-### Makeshift Strike · ◆ · Feat 8
+### Lazos relámpago · Dote 12
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Weapon Improviser Dedication
+**Prerrequisitos:** Dedicación de Fabricante de lazos, maestro en Artesanía
 
-You quickly snatch up whatever is nearby and then attack with it as an improvised weapon. You Interact to pick up an unattended object in reach you could use as an improvised weapon, then Strike with that improvised weapon.
+Puedes preparar una trampa con velocidad increíble. Cuando creas un lazo que normalmente lleva 1 minuto Elaborarlo, puedes Elaborarlo usando una sola acción de Interactuar.
 
-### Shattering Strike · ◇ · Feat 10
+### Lazos abundantes · Dote 12
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Improvised Pummel
+**Prerrequisitos:** Dedicación de Fabricante de lazos
 
-**Trigger:** An improvised weapon you are wielding becomes broken as a result of a critical success on an Improvised Pummel.
-
-The improvised weapon shatters, destroying it completely but dealing an additional 3d6 piercing damage to the creature you hit with the Improvised Pummel. This extra damage you apply on the critical hit doesn't double from the critical hit, as normal.
+Puedes preparar cantidades increíbles de lazos cada día a partir de ingredientes simples. Duplica el número de lazos preparados otorgado por la Dedicación de Fabricante de lazos.
 
 ---
 
-## Wrestler
+## Diletante de talismanes
 
-Wrestlers are athletes who pit their strength and skill against powerful foes. Specializing in a variety of grabs, holds, and strikes, wrestlers are dangerous opponents whose techniques can leave a foe broken and defeated without taking their life.
+La idea clásica de la magia es la de un venerable mago, enfrascado en un crujiente libro de conjuros mientras pasan los años. Pero la magia es mucho más que eso: es pensamiento, voluntad y acción, y con los talismanes adecuados puedes hacer incluso del tajo de una espada un acto profundamente mágico.
 
-**Additional Feats:** 4th Combat Grab, Crushing Grab, Snagging Strike; 8th Whirling Throw; 20th Godbreaker
+### Dedicación de Diletante de talismanes · Dote 2
 
-### Wrestler Dedication · Feat 2
+**Rasgos:** Arquetipo, Dedicación
 
-**Traits:** Archetype, Dedication
+Estás entrenado en el uso de talismanes y similares utensilios mágicos. Este entrenamiento puede haber ocurrido en un aula formal o ser una acumulación de magia popular aprendida con el tiempo. Puedes elaborar talismanes y conoces las fórmulas de todos los talismanes comunes de tu nivel o inferior. Recuerdas las fórmulas de talismanes y no necesitas un libro de fórmulas para ellos.
 
-**Prerequisites:** trained in Athletics
+Además, llevas una amplia colección de abalorios mágicos que puedes convertir en talismanes temporales. Cada día durante tus preparativos diarios, puedes hacer dos talismanes con un nivel de objeto no superior a la mitad de tu nivel. Debes conocer la fórmula de cada talismán. Un talismán creado así es un objeto temporal y pierde su magia la próxima vez que hagas tus preparativos diarios si no lo has usado. Cualquier CD de salvación requerida por un talismán temporal que crees usa la mayor de tu CD de clase, CD de conjuros o la CD del talismán.
 
-Your training in the wrestling arts has made you particularly adept at moving, striking, and grappling while unencumbered. You become an expert in Athletics and gain the Titan Wrestler skill feat. You don't take the –2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks. In addition, you gain a +2 circumstance bonus to your Fortitude DC when resisting an opponent's attempts to Grapple you or Swallow you Whole.
+Por último, cuando Fijas un talismán, puedes (en cualquier combinación) fijar o retirar hasta cuatro talismanes en el intervalo de 10 minutos.
 
-### Disengaging Twist · ◇ · Feat 4
+### Fijación rápida · Dote 4
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Wrestler Dedication
+**Prerrequisitos:** Dedicación de Diletante de talismanes
 
-**Trigger:** A creature gives you the grabbed or restrained condition.
+Puedes fijar un talismán usando solo un poco de pegamento y algo de cuerda. Obtienes la dote de habilidad Fijación rápida, incluso si no cumples los prerrequisitos. Al usarla, puedes fijar o retirar hasta cuatro talismanes en 1 minuto en lugar de solo uno.
 
-Your ability to twist your opponents' bodies into painful locks and holds makes you particularly adept at escaping such predicaments. Attempt an Athletics check to Escape the triggering condition. You gain a +2 circumstance bonus to this check.
+Obtienes la capacidad de Fijar un talismán como actividad de 3 acciones con esa dote en el 12.º nivel, independientemente de tu competencia en Artesanía.
 
-### Elbow Breaker · ◆ · Feat 4
+### Diletante profundo · Dote 8
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Wrestler Dedication
+**Prerrequisitos:** Dedicación de Diletante de talismanes
 
-**Requirements:** You have a creature grabbed or restrained.
+Con algunos ajustes a tu proceso y una colección más amplia de materiales de talismán, haces un mayor número de talismanes cada día. Puedes crear dos talismanes adicionales durante tus preparativos diarios.
 
-You bend your opponent's body or limbs into agonizing positions that make it difficult for them to maintain their grip. Make an unarmed melee Strike against the creature you have grabbed or restrained. This Strike has the following effects in addition to its usual effects.
+**Especial:** Puedes seleccionar esta dote una segunda vez si eres nivel 14 o superior.
 
-**Critical Success:** You knock one held item out of the creature's grasp. It falls to the ground in the creature's space.
+### Sabio talismánico · Dote 14
 
-**Success:** You weaken your target's grasp on the item. Further attempts to Disarm the target of that item gain a +2 circumstance bonus, and the target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item. The creature can end the effect by Interacting to change its grip on the item; otherwise, it lasts as long as the creature holds the item.
+**Rasgos:** Arquetipo
 
-### Suplex · ◆ · Feat 4
+**Prerrequisitos:** Dedicación de Diletante de talismanes
 
-**Traits:** Archetype
+Normalmente, fijar más de un talismán a un objeto hace que los talismanes queden suprimidos, pero cuando Fijas un talismán, puedes tratar especialmente un objeto en el que estés trabajando, permitiéndole tener dos talismanes activos a la vez. Este tratamiento especial termina si usas Fijar un talismán para tratar un nuevo objeto para esta capacidad.
 
-**Prerequisites:** Wrestler Dedication
+---
 
-**Requirements:** You have a creature grabbed or restrained.
+## Justiciero
 
-Flexing your entire body, you heave your opponent over your head and slam them into the ground. Make an unarmed melee Strike against the creature you have grabbed or restrained. On a success, the target lands prone, and on a critical success, the target lands prone and takes an additional 2d6 bludgeoning damage. Regardless of whether the Strike is successful, you immediately release your hold on the target.
+Como justiciero, tienes dos rostros: una persona pública y una identidad secreta que te permite ocultar tus acciones extralegales de la sociedad educada. Tu identidad secreta te permite aventurarte y llevar a cabo misiones clandestinas manteniendo a salvo a los civiles a los que aprecias.
 
-### Clinch Strike · ◇ · Feat 6
+**Dotes adicionales:** 4.º Desenvaine rápido
 
-**Traits:** Archetype
+### Dedicación de Justiciero · Dote 2
 
-**Prerequisites:** Wrestler Dedication
+**Rasgos:** Poco común, Arquetipo, Dedicación
 
-**Trigger:** A creature you had grabbed or restrained successfully Escapes.
+**Prerrequisitos:** entrenado en Engaño
 
-Your opponents can't slip your grasp without punishment. Make an unarmed melee Strike against the triggering creature.
+Tienes dos identidades, cada una con su propio nombre y habilidades. Tu identidad social es un miembro honrado de la sociedad, mientras que tu identidad justiciera es un guerrero hábil y astuto. Ninguna de estas identidades es una fachada falsa; realmente eres ambas personas. Si alguien intenta discernir tu otra identidad, debe usar la acción Buscar para intentar una prueba de Percepción contra tu CD de Engaño, como si estuvieras usando la acción Suplantar. Tu CD de Engaño contra tales intentos es 20 + tu modificador de competencia en lugar de la CD normal. A diferencia de Suplantar, no tienes que intentar una prueba de Engaño al interactuar con alguien para ocultar tu otra identidad: una prueba ocurre solo si alguien intenta específicamente descubrir tu otra identidad.
 
-### Running Tackle · ◆◆ · Feat 8
+Cambiar de una identidad a otra lleva 1 minuto y debe hacerse fuera de la vista de otras criaturas. Como este proceso implica tanto cambios físicos como ropa y maquillaje, junto con un estado mental alterado, otros efectos que cambian tu apariencia no reducen el tiempo necesario para cambiar de identidad.
 
-**Traits:** Archetype
+Tus dos identidades son completamente distintas. Las pruebas para Recordar conocimiento sobre una de tus identidades no revelan información sobre la otra a menos que quien intenta la prueba sepa que ambas identidades son la misma persona. Los efectos que te detectan basándose en tu identidad solo funcionan si estás actualmente en la identidad que el efecto intenta detectar; de lo contrario, el efecto falla como si el objetivo no existiera.
 
-**Prerequisites:** Wrestler Dedication
+Para mantener la separación entre tus identidades, algunas de tus habilidades tienen el rasgo justiciero. Tus dotes de clase y dotes de justiciero se asocian con tu identidad justiciera, y usarlas mientras estás en tu identidad social puede exponerte como justiciero. Si tu identidad queda expuesta al público, pierdes los beneficios de la Dedicación de Justiciero para disfrazarte, pero puedes dedicar 1 semana de tiempo de inactividad a crear una nueva identidad social.
 
-You charge, throwing your body at your foe in a vicious tackle. Stride twice or make a High Jump or Long Jump, then attempt to Grapple or Shove. If you made a High Jump or Long Jump, you can make the Grapple or Shove at any point in the jump, but you can't travel any farther on the jump after you do.
+### Magia oculta · Dote 4
 
-### Strangle · ◆ · Feat 8
+**Rasgos:** Arquetipo, Habilidad
 
-**Traits:** Archetype
+**Prerrequisitos:** Dedicación de Justiciero; experto en Arcanos, Naturaleza, Ocultismo o Religión
 
-**Prerequisites:** Wrestler Dedication
+Has aprendido a ocultar las auras mágicas de tu equipo. Durante tus preparativos diarios, ajustas cuidadosamente cualquiera o todos tus objetos mágicos para que parezcan no mágicos. Los objetos ajustados así permanecen así hasta tus siguientes preparativos. Un lanzador que use *detectar magia* o *leer aura* debe superar una prueba de Percepción contra tu CD de Engaño para ver a través de tus ofuscaciones.
 
-**Requirements:** You have a creature grabbed or restrained.
+### Disfraz de esbirro · Dote 4
 
-You squeeze the breath out of your foe. Make an unarmed melee Strike against the creature you have grabbed or restrained. On a success, you gain a circumstance bonus to damage equal to the number of weapon damage dice, and the target can barely speak until the start of your next turn or until it Escapes, whichever comes first. While it can barely speak, the target can't vocalize above a hoarse whisper, and it must succeed at a DC 10 flat check or lose any action that requires speech. For an action requiring speech that is also a manipulate action, like Casting a Spell with the concentrate and manipulate trait, the target just rolls a single DC 10 flat check, rather than an additional DC 5 flat check for being grabbed.
+**Rasgos:** Arquetipo, Habilidad
 
-### Submission Hold · ◆ · Feat 8
+**Prerrequisitos:** Dedicación de Justiciero, compañero animal o familiar, experto en Engaño
 
-**Traits:** Archetype
+Cuando estás en tu identidad social, también puedes otorgar una identidad social a un compañero animal, familiar, mascota u otro esbirro que obtuviste de una característica de clase o dote. Al cambiar a tu identidad social, también cambias la apariencia de tu esbirro a la de una criatura socialmente aceptable de su tipo, como acicalar a un lobo para que parezca un perro grande o disfrazar a un familiar para que parezca una mascota exótica. Ordenar a tu esbirro que use habilidades mágicas o de combate inusuales que obtuvo de tus características de clase o dotes mientras está en esta identidad social puede exponer tu identidad justiciera.
 
-**Prerequisites:** Wrestler Dedication
+### Refugio seguro · Dote 4
 
-**Requirements:** You have a creature grabbed or restrained.
+**Rasgos:** Arquetipo
 
-Your iron grip saps your opponent's strength. Attempt an Athletics check to Grapple the creature you have grabbed or restrained, with the following additional effects if you succeed.
+**Prerrequisitos:** Dedicación de Justiciero
 
-**Critical Success:** The target is enfeebled 2 until the end of its next turn and then is enfeebled 1 for 1 minute.
+Estableces un refugio seguro: un espacio protegido en el que ocultar tus secretos del mundo exterior. Este refugio seguro tiene aproximadamente el tamaño de dos cubos de 3 m. Está en un lugar al que tienes acceso y puede formar parte de un edificio o estructura mayor, como una habitación oculta o una cueva subterránea. El refugio protege los objetos y personas en su interior de la detección mágica. Tiene los efectos de *velo de privacidad*, usando tu modificador de Engaño para la CD de contrarrestar y la mitad de tu nivel redondeado hacia arriba para el rango de contrarrestar. Configurar o mover tu refugio requiere una semana de tiempo de inactividad. El tamaño del refugio se expande a cuatro cubos de 3 m si eres experto en Engaño, ocho cubos si eres maestro y 16 cubos si eres legendario.
 
-**Success:** The target is enfeebled 1 until the end of its next turn.
+### Ámbito social · Dote 4
 
-### Aerial Piledriver · ◆◆ · Feat 10
+**Rasgos:** Arquetipo, Habilidad
 
-**Traits:** Archetype, Attack
+**Prerrequisitos:** Dedicación de Justiciero
 
-**Prerequisites:** Wrestler Dedication
+Has construido una reputación para ti en tu identidad social. Elige un arquetipo para el que cumplas los prerrequisitos. Obtienes la dote de dedicación de ese arquetipo y puedes seleccionar dotes de ese arquetipo, incluso si aún no has obtenido suficientes dotes en el arquetipo justiciero para tomar otra dote de dedicación. Estas dotes pasan a formar parte de tu identidad social: por ejemplo, un justiciero guerrero podría tomar la dote de dedicación de mago y tener una identidad social de mago. Usar estas dotes en tu identidad social no arriesga exponer tu identidad justiciera, pero usarlas en tu identidad justiciera podría exponerte.
 
-**Requirements:** You have a creature grabbed or restrained.
+### Aparición desconcertante · ◆ · Dote 6
 
-Heaving both yourself and your opponent into the air, you bring them crashing to the ground. Make an unarmed melee Strike against the creature you have grabbed or restrained. This Strike deals 1d6 additional damage per weapon damage die, and it has the following additional effects on a success, failure, and critical failure.
+**Rasgos:** Arquetipo, Emoción, Miedo, Mental, Justiciero
 
-**Success:** The target lands prone.
+**Prerrequisitos:** Dedicación de Justiciero
 
-**Failure:** You lose your grip on the target, and it is no longer grabbed or restrained by you.
+**Requisitos:** Estás inadvertido por la criatura objetivo.
 
-**Critical Failure:** You lose both your grip on the target and your balance. You fall prone, and the target is no longer grabbed or restrained by you.
+Puedes sobresaltar a enemigos que no son conscientes de tu presencia. Realiza un Golpe contra tu objetivo. Esa criatura está desprevenida contra este Golpe, como es normal. Si tu Golpe impacta, el objetivo permanece desprevenido el resto de tu turno y queda asustado 1 (asustado 2 con impacto crítico).
 
-### Spinebreaker · ◆ · Feat 10
+### Cambio rápido · Dote 7
 
-**Traits:** Archetype
+**Rasgos:** Arquetipo
 
-**Prerequisites:** Wrestler Dedication
+**Prerrequisitos:** Dedicación de Justiciero, maestro en Engaño
 
-**Requirements:** You have a creature grabbed or restrained.
+Puedes alternar entre tus identidades con facilidad. En lugar de gastar 1 minuto para cambiar tu identidad, ahora puedes hacerlo como una actividad de 3 acciones. Si eres legendario en Engaño, puedes realizar este cambio como una sola acción.
 
-You squeeze your opponent in a vicious bear hug, putting intense pressure on their nerves, joints, or other pain points. Attempt an Athletics check to Grapple a creature you have grabbed or restrained, with the following additional effects if you succeed.
+### Verdad subjetiva · Dote 7
 
-**Critical Success:** The target is clumsy 2 until the end of its next turn and then is clumsy 1 for 1 minute.
+**Rasgos:** Arquetipo, Habilidad
 
-**Success:** The target is clumsy 1 until the end of its next turn.
+**Prerrequisitos:** Dedicación de Justiciero, maestro en Engaño
 
-### Inescapable Grasp · Feat 12
+Tus identidades dispares te permiten vencer la magia que detecta mentiras. Mientras lo que digas sea cierto desde el punto de vista de tu identidad actual, puedes engañar efectos como *anillo de la verdad* que revelan mentiras.
 
-**Traits:** Archetype
+### Múltiples disfraces · Dote 8
 
-**Prerequisites:** Wrestler Dedication
+**Rasgos:** Arquetipo
 
-Your grasp has a supernatural quality to it, preventing your foes from easily escaping—with or without magical assistance. If a creature you have grabbed attempts to use a teleportation spell or effect, it must succeed at a DC 15 flat check or the spell fails. If a creature you have grabbed attempts to Escape while under the effect of *unfettered movement* or a similar effect, it must succeed at a DC 15 flat check or be forced to roll the Escape attempt normally, rather than automatically succeeding.
+**Prerrequisitos:** Dedicación de Justiciero, maestro en Engaño
 
-### Form Lock · ◆ · Feat 14
+Puedes adoptar cualquier número de disfraces mundanos. Siempre que cambias tu identidad, en lugar de adoptar tu identidad social o justiciera, puedes convertirte en alguien completamente ordinario. Esta identidad no es un individuo específico: más bien, te conviertes en un miembro anodino de tu ascendencia, de cualquier género y de una ocupación mundana como jornalero, granjero o campesino. Conjuros y habilidades te detectan como si fueras esta identidad ordinaria, en lugar de cualquiera de tus dos identidades reales, a menos que tengan éxito en una prueba de contrarrestar contra la misma CD de Engaño usada para la Dedicación de Justiciero.
 
-**Traits:** Archetype, Attack
+Usar habilidades de clase o de dedicación termina este disfraz.
 
-**Prerequisites:** Wrestler Dedication
+### Aparición aterradora · Dote 12
 
-**Requirements:** You have a creature grabbed or restrained.
+**Rasgos:** Arquetipo, Justiciero
 
-Your ability to manipulate your enemy's entire body is potent enough that you can tear and break apart alternate forms. Attempt an Athletics check to counteract a polymorph effect currently affecting the creature you have grabbed or restrained. If the target is somehow under the effect of multiple polymorph effects, you can choose which one to attempt to counteract; the GM chooses randomly if the separate effects aren't obvious. The target is then temporarily immune for 1 day.
+**Prerrequisitos:** experto en Intimidación, Aparición desconcertante
+
+Tus apariciones dramáticas pueden asustar a los espectadores. Cuando realizas una Aparición desconcertante, también puedes intentar Desmoralizar a cada enemigo en una emanación de 3 m por el que pasaste inadvertido antes de tu Golpe.
+
+### Aparición aturdidora · Dote 16
+
+**Rasgos:** Arquetipo, Justiciero
+
+**Prerrequisitos:** Aparición desconcertante
+
+Tu aparición repentina deja a tu enemigo incapaz de responder. Cuando usas Aparición desconcertante y tu Golpe impacta a un enemigo de tu nivel o menor, el enemigo también queda aturdido 1 con impacto, o aturdido 2 con impacto crítico.
+
+---
+
+## Vikingo
+
+Ir “a vikear” es saquear por mar, y así los vikingos se han extendido por doquier. Algunos incluso se han asentado en las mismas comunidades que antes saqueaban. Tradicionalmente viajan en drakkars; una veintena de estos guerreros puede vivir a bordo de su barco durante días, surcando los mares (o, como ellos lo llaman, la “carretera de ballenas”) para emboscar comunidades costeras.
+
+**Dotes adicionales:** 4.º Escudo reactivo; 6.º Avance con escudo; 10.º Bloquear con escudo rápido
+
+### Dedicación de Vikingo · Dote 2
+
+**Rasgos:** Arquetipo, Dedicación
+
+**Prerrequisitos:** entrenado en Atletismo
+
+Los vikingos pasan largos periodos en el mar, para luego saltar de sus barcos en cualquier momento, cargar a través del oleaje y tomar a sus enemigos por asalto. Obtienes la dote general Saber adicional para Saber de navegación y Saber de guerra.
+
+Al usar tu Velocidad terrestre, ignoras el terreno difícil por agua poco profunda, como en pantanos o playas. Además, si obtienes un éxito en una prueba de Atletismo para Nadar, obtienes un éxito crítico en su lugar.
+
+### Carga lanzando · ◆◆ · Dote 4
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Vikingo
+
+**Requisitos:** Estás empuñando un arma arrojadiza.
+
+Realizas un Golpe a distancia con tu arma arrojadiza, Avanzas y luego Interactúas para desenvainar otra arma. Esta acción de Interactuar no desencadena reacciones.
+
+**Especial:** Si estás en furia y terminas el Avance adyacente a un enemigo, ese enemigo queda desprevenido contra el siguiente Golpe que realices contra él con el arma que desenvainaste antes del final de tu siguiente turno.
+
+### Familiaridad con armas vikingas · Dote 4
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Vikingo
+
+Desde la infancia, te has expuesto a las técnicas de combate vikingas tradicionales, y pronto aprendiste a manejar hacha, espada y escudo en batalla. Ahora, puedes saquear orgullosamente junto a tus compañeros. Obtienes la reacción Bloquear con escudo. Además, tienes familiaridad con el hacha de batalla, hacha de mano, espada larga, umbo de escudo, pinchos de escudo y espada corta; a efectos de competencia, tratas cualquiera de estas armas como simples.
+
+En el 5.º nivel, siempre que obtienes un impacto crítico con una de estas armas, obtienes su efecto de especialización crítica.
+
+### Segundo escudo · ◇ · Dote 6
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Vikingo
+
+**Desencadenante:** Tu Bloquear con escudo hace que tu escudo se rompa o se destruya.
+
+Estás acostumbrado a que tu escudo se rompa en mitad de la batalla, y estás preparado para usar uno de repuesto o cualquier objeto cercano conveniente para defenderte. Interactúas para desenvainar un escudo que lleves o un escudo desatendido a tu alcance.
+
+Si hay un objeto a tu alcance que pueda servir como escudo improvisado (por ejemplo, una mesa o una silla), puedes Interactuar para cogerlo con esta dote. El DJ determina si algo puede usarse como escudo improvisado. Tu nuevo escudo no está alzado hasta que uses la acción Alzar escudo, como es normal.
+
+### A la refriega · ◆◆ · Dote 8
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Vikingo
+
+**Requisitos:** Estás empuñando un arma de melé de una mano en una mano y un escudo en la otra.
+
+Te lanzas a la batalla con una furia que astilla escudos. Saltas, Avanzas o Nadas. Realiza dos Golpes de melé durante este movimiento, uno con tu arma de una mano y otro con tu escudo o un arma acoplada al escudo (como un umbo o pinchos). Puedes realizar estos Golpes en cualquier punto durante tu movimiento, y cada uno debe apuntar a un enemigo diferente. Ambos ataques cuentan para tu penalización por ataques múltiples, pero no aumentan tu penalización hasta que hayas realizado ambos ataques.
+
+---
+
+## Improvisador de armas
+
+Para ti, el mejor arma para empuñar es aquella que tus oponentes nunca ven venir. Al saber luchar eficazmente con lo que tengas a mano, te aseguras de no ser sorprendido desarmado y a menudo tomas la delantera frente a oponentes que creen erróneamente que te han pillado desprevenido.
+
+**Ideas de armas improvisadas:** Úsalas como inspiración. Caverna: estalagmita rota, seta grande, huesos viejos; Muelles: barril, caja, gancho; Bosque: rama, agujas o espinas; Mercado: caja, fruta, balanza, cartel; Sala de audiencias o estudio: mazo, copa, pluma, atril; Taberna: botella, jarra, bandeja, taburete
+
+**Consejo del DJ:** Al definir el daño, típicamente un arma improvisada de una mano hace 1d4, 1d6 o 1d8; una que requiere dos manos hace 1d8, 1d10 o ocasionalmente 1d12, y una extremadamente ineficaz podría hacer 1 punto de daño. Las armas improvisadas suelen tener cero, uno o dos rasgos, y a menudo tienen el rasgo no letal. Las armas improvisadas Ágiles suelen tener un tamaño de dado menor. Es extremadamente raro que un arma improvisada haga más de un dado de daño, pero objetos mágicos poderosos podrían hacerlo. Las armas improvisadas deben ser divertidas y no durar mucho, así que ¡siéntete libre de experimentar!
+
+### Dedicación de Improvisador de armas · Dote 2
+
+**Rasgos:** Arquetipo, Dedicación
+
+**Prerrequisitos:** entrenado con armas marciales
+
+No sufres la penalización normal –2 a las tiradas de ataque con armas improvisadas. Las armas improvisadas que usas tienen un dado de daño mínimo de 1d6, o 1d4 si el arma improvisada es Ágil.
+
+### Aporreo improvisado · Dote 4
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Improvisador de armas
+
+Cuando realizas un Golpe con un arma improvisada que estás empuñando, obtienes un bonificador de objeto +1 a la tirada de ataque y puedes hacer que el Golpe inflija dos dados de daño del arma en lugar del número normal del arma improvisada. Si el ataque es un impacto crítico, el arma improvisada se rompe tras los efectos normales del crítico. Si el objeto tiene una Dureza mayor que tu nivel, o si es un artefacto, objeto maldito u otro objeto difícil de romper o destruir, no se rompe y el ataque es un impacto normal en lugar de crítico. Puedes elegir no obtener los efectos de Aporreo improvisado en un Golpe si no quieres arriesgarte a romper el objeto. En el nivel 12, el bonificador de objeto aumenta a +2, y en el nivel 16, el Golpe inflige tres dados de daño del arma en lugar del número normal del arma improvisada.
+
+Si te beneficias de las *vendas de poderosos golpes*, usas el bonificador de objeto de las vendas si es mayor y puedes elegir usar su número de dados de daño. Cualquier runa de propiedad de las vendas también se aplica si usas su número de dados de daño del arma, siempre que puedan aplicarse al arma improvisada (según determine el DJ).
+
+### Golpe sorpresa · Dote 6
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Improvisador de armas
+
+Siempre que realizas un Golpe con un arma improvisada contra una criatura que no te ha visto hacer un Golpe usando un arma improvisada o que desconoce tu pericia con armas improvisadas, la criatura queda desprevenida contra ti para ese Golpe.
+
+### Crítico improvisado · Dote 8
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Improvisador de armas
+
+Puedes aplicar efectos de especialización crítica a las armas improvisadas que empuñas. Para cada arma improvisada, el DJ determina qué efecto de especialización crítica es más aplicable, según el tipo de objeto.
+
+### Golpe improvisado · ◆ · Dote 8
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Improvisador de armas
+
+Coges rápidamente lo que tengas cerca y atacas con ello como arma improvisada. Interactúas para recoger un objeto desatendido a tu alcance que puedas usar como arma improvisada y luego realizas un Golpe con esa arma improvisada.
+
+### Golpe destrozador · ◇ · Dote 10
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Aporreo improvisado
+
+**Desencadenante:** Un arma improvisada que empuñas se rompe como resultado de un éxito crítico con Aporreo improvisado.
+
+El arma improvisada se hace añicos, destruyéndola por completo pero infligiendo 3d6 de daño perforante adicional a la criatura a la que impactaste con Aporreo improvisado. Este daño adicional que aplicas con el impacto crítico no se dobla por el crítico, como es normal.
+
+---
+
+## Luchador
+
+Los luchadores son atletas que oponen su fuerza y habilidad contra enemigos poderosos. Especializados en una variedad de agarres, llaves y golpes, los luchadores son oponentes peligrosos cuyas técnicas pueden dejar a un enemigo quebrado y derrotado sin quitarle la vida.
+
+**Dotes adicionales:** 4.º Agarre de combate, Agarre aplastante, Golpe trabador; 8.º Lanzamiento giratorio; 20.º Rompe dioses
+
+### Dedicación de Luchador · Dote 2
+
+**Rasgos:** Arquetipo, Dedicación
+
+**Prerrequisitos:** entrenado en Atletismo
+
+Tu entrenamiento en las artes de la lucha te hace especialmente diestro al moverte, golpear y agarrar sin carga. Pasas a ser experto en Atletismo y obtienes la dote de habilidad Luchador titán. No sufres la penalización circunstancial –2 por realizar un ataque letal con tus ataques desarmados no letales. Además, obtienes un bonificador circunstancial +2 a tu CD de Fortaleza al resistir intentos de un enemigo de Agarrarte o Engullirte entero.
+
+### Giro liberador · ◇ · Dote 4
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Desencadenante:** Una criatura te otorga la condición de agarrado o restringido.
+
+Tu capacidad para retorcer el cuerpo de tus oponentes en dolorosas llaves y agarres te hace especialmente diestro para escapar de tales apuros. Intenta una prueba de Atletismo para Escapar de la condición desencadenante. Obtienes un bonificador circunstancial +2 a esta prueba.
+
+### Rompe codos · ◆ · Dote 4
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Requisitos:** Tienes a una criatura agarrada o restringida.
+
+Doblas el cuerpo o las extremidades de tu oponente en posiciones agonizantes que le dificultan mantener el agarre. Realiza un Golpe de melé desarmado contra la criatura que tienes agarrada o restringida. Este Golpe tiene los siguientes efectos además de sus efectos habituales.
+
+**Éxito crítico:** Haces que un objeto que sostiene la criatura caiga de su mano. Cae al suelo en el espacio de la criatura.
+
+**Éxito:** Debilitas el agarre de tu objetivo sobre el objeto. Intentos posteriores de Desarmar al objetivo de ese objeto obtienen un bonificador circunstancial +2, y el objetivo sufre una penalización circunstancial –2 a los ataques con el objeto u otras pruebas que requieran un agarre firme sobre el objeto. La criatura puede terminar el efecto Interactuando para cambiar su agarre sobre el objeto; de lo contrario, dura mientras la criatura sostenga el objeto.
+
+### Suplex · ◆ · Dote 4
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Requisitos:** Tienes a una criatura agarrada o restringida.
+
+Flexionando todo tu cuerpo, elevas a tu oponente sobre tu cabeza y lo azotas contra el suelo. Realiza un Golpe de melé desarmado contra la criatura que tienes agarrada o restringida. En caso de éxito, el objetivo cae tumbado, y en caso de éxito crítico, el objetivo cae tumbado y recibe 2d6 de daño contundente adicional. Independientemente de si el Golpe tiene éxito, liberas inmediatamente tu agarre sobre el objetivo.
+
+### Golpe de clinch · ◇ · Dote 6
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Desencadenante:** Una criatura que tenías agarrada o restringida Escapa con éxito.
+
+Tus oponentes no pueden escapar de tu agarre sin castigo. Realiza un Golpe de melé desarmado contra la criatura desencadenante.
+
+### Placaje en carrera · ◆◆ · Dote 8
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+Cargas, lanzando tu cuerpo contra tu enemigo en un placaje feroz. Avanza dos veces o realiza un Salto alto o Salto largo, luego intenta Agarrar o Empujar. Si realizaste un Salto alto o Salto largo, puedes hacer el Agarrar o Empujar en cualquier punto del salto, pero no puedes continuar el salto más allá después de hacerlo.
+
+### Estrangulación · ◆ · Dote 8
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Requisitos:** Tienes a una criatura agarrada o restringida.
+
+Exprimes el aliento de tu enemigo. Realiza un Golpe de melé desarmado contra la criatura que tienes agarrada o restringida. En caso de éxito, obtienes un bonificador circunstancial al daño igual al número de dados de daño del arma, y el objetivo apenas puede hablar hasta el inicio de tu siguiente turno o hasta que Escape, lo que ocurra primero. Mientras apenas puede hablar, el objetivo no puede vocalizar por encima de un susurro ronco y debe superar una prueba plana de CD 10 o pierde cualquier acción que requiera hablar. Para una acción que requiere habla y también es una acción de manipular, como Lanzar un conjuro con los rasgos concentración y manipular, el objetivo solo tira una prueba plana de CD 10, en lugar de una prueba plana adicional de CD 5 por estar agarrado.
+
+### Llave de rendición · ◆ · Dote 8
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Requisitos:** Tienes a una criatura agarrada o restringida.
+
+Tu agarre de hierro merma la fuerza de tu oponente. Intenta una prueba de Atletismo para Agarrar a la criatura que tienes agarrada o restringida, con los siguientes efectos adicionales si tienes éxito.
+
+**Éxito crítico:** El objetivo queda debilitado 2 hasta el final de su siguiente turno y luego queda debilitado 1 durante 1 minuto.
+
+**Éxito:** El objetivo queda debilitado 1 hasta el final de su siguiente turno.
+
+### Martinete aéreo · ◆◆ · Dote 10
+
+**Rasgos:** Arquetipo, Ataque
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Requisitos:** Tienes a una criatura agarrada o restringida.
+
+Elevándote junto a tu oponente en el aire, lo haces estrellarse contra el suelo. Realiza un Golpe de melé desarmado contra la criatura que tienes agarrada o restringida. Este Golpe inflige 1d6 de daño adicional por cada dado de daño del arma y tiene los siguientes efectos adicionales en caso de éxito, fallo y fallo crítico.
+
+**Éxito:** El objetivo cae tumbado.
+
+**Fallo:** Pierdes tu agarre sobre el objetivo y deja de estar agarrado o restringido por ti.
+
+**Fallo crítico:** Pierdes el agarre sobre el objetivo y el equilibrio. Caes tumbado, y el objetivo deja de estar agarrado o restringido por ti.
+
+### Rompecolumnas · ◆ · Dote 10
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Requisitos:** Tienes a una criatura agarrada o restringida.
+
+Estrujas a tu oponente en un brutal abrazo de oso, aplicando intensa presión sobre sus nervios, articulaciones u otros puntos de dolor. Intenta una prueba de Atletismo para Agarrar a una criatura que tienes agarrada o restringida, con los siguientes efectos adicionales si tienes éxito.
+
+**Éxito crítico:** El objetivo queda torpe 2 hasta el final de su siguiente turno y luego queda torpe 1 durante 1 minuto.
+
+**Éxito:** El objetivo queda torpe 1 hasta el final de su siguiente turno.
+
+### Agarre ineludible · Dote 12
+
+**Rasgos:** Arquetipo
+
+**Prerrequisitos:** Dedicación de Luchador
+
+Tu agarre tiene una cualidad sobrenatural que impide que tus enemigos escapen fácilmente, con o sin ayuda mágica. Si una criatura que tienes agarrada intenta usar un conjuro o efecto de teletransportación, debe superar una prueba plana de CD 15 o el conjuro falla. Si una criatura que tienes agarrada intenta Escapar mientras está bajo el efecto de *movimiento sin trabas* o un efecto similar, debe superar una prueba plana de CD 15 o se ve obligada a tirar el intento de Escape de forma normal, en lugar de tener éxito automáticamente.
+
+### Bloqueo de forma · ◆ · Dote 14
+
+**Rasgos:** Arquetipo, Ataque
+
+**Prerrequisitos:** Dedicación de Luchador
+
+**Requisitos:** Tienes a una criatura agarrada o restringida.
+
+Tu capacidad para manipular todo el cuerpo de tu enemigo es lo bastante potente como para desgarrar y romper formas alternativas. Intenta una prueba de Atletismo para contrarrestar un efecto de polimorfismo que afecte actualmente a la criatura que tienes agarrada o restringida. Si el objetivo está bajo múltiples efectos de polimorfismo, puedes elegir cuál intentas contrarrestar; el DJ elige al azar si los efectos separados no son obvios. El objetivo queda temporalmente inmune durante 1 día.

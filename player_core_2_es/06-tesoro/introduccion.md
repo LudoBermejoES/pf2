@@ -1,33 +1,33 @@
-# Chapter 6: Treasure Trove
+# Capítulo 6: Tesoro
 
-The investigator's trusty detective tools, a swashbuckler's flashy dueling cape, and a champion's shining armor are nearly as iconic as the characters who use them. For any hero, the gear and treasure they wield and collect throughout their adventures can play as important a role as any other facet of their character, from weapons steeped in cultural history to fantastic treasures of unparalleled worth!
+Las confiables herramientas del investigador, la llamativa capa de duelo del bravucón y la reluciente armadura del campeón son casi tan icónicas como los personajes que las usan. Para cualquier héroe, el equipo y el tesoro que empuñan y reúnen a lo largo de sus aventuras pueden desempeñar un papel tan importante como cualquier otro aspecto de su personaje, desde armas impregnadas de historia cultural hasta tesoros fantásticos de valor inigualable.
 
-This chapter presents a variety of brand-new equipment and treasure that expands on and supplements the options provided in Chapter 6: Equipment of Player Core and Chapter 5: Treasure Trove of GM Core. In particular, the gear that follows is especially suitable for the new ancestries and classes presented in this book, but this multitude of new items can enhance and enrich all types of characters. Rules for activating and investing items, as well as a guide for reading an item's stat block, begin on page 219 of GM Core.
+Este capítulo presenta una variedad de equipo y tesoro totalmente nuevos que amplían y complementan las opciones proporcionadas en el Capítulo 6: Equipo de Player Core y el Capítulo 5: Tesoro de GM Core. En particular, el equipo que sigue es especialmente adecuado para las nuevas ascendencias y clases presentadas en este libro, pero esta multitud de objetos nuevos puede mejorar y enriquecer todo tipo de personajes. Las reglas para activar e invertir objetos, así como una guía para leer el bloque de estadísticas de un objeto, comienzan en la página 219 de GM Core.
 
-## Weapons & Materials
+## Armas y materiales
 
-Information on new weapons and a rare special material begins on page 276. This section includes class kits for the new classes presented in this book, so you can quickly equip a new character with the armor, weapons, and gear they'll need to start adventuring! The full rules for weapons and adventuring gear appear in Chapter 6 of Player Core. This section also contains the new precious material dragonhide.
+La información sobre nuevas armas y un material especial raro comienza en la página 276. Esta sección incluye kits de clase para las nuevas clases presentadas en este libro, para que puedas equipar rápidamente a un nuevo personaje con la armadura, armas y equipo que necesitará para comenzar a aventurarse. Las reglas completas para armas y equipo de aventuras aparecen en el Capítulo 6 de Player Core. Esta sección también contiene el nuevo material precioso, cuero de dragón.
 
-## Armor & Armaments
+## Armaduras y armamentos
 
-This section has a new assortment of new magic armor, shields, and weapons that are all specific items. If you want to create such an item with only abilities from runes, use those found in GM Core.
+Esta sección incluye una nueva variedad de armaduras mágicas, escudos y armas que son todos objetos específicos. Si deseas crear un objeto de este tipo solo con habilidades de runas, usa las que se encuentran en GM Core.
 
-## Alchemical Items
+## Objetos alquímicos
 
-Alchemical items are consumable, non-magical items that rely on the properties of volatile alchemical reagents to produce their effects. Alchemical items also appear starting on page 244 of GM Core, but this book contains all those items and more, particularly for the use of the alchemist class. The alchemical items in this book are presented by level in the Alchemical Items by Level Table on pages 281–282 as a reference for alchemists and other characters with alchemical abilities.
+Los objetos alquímicos son consumibles no mágicos que dependen de las propiedades de reactivos alquímicos volátiles para producir sus efectos. Los objetos alquímicos también aparecen a partir de la página 244 de GM Core, pero este libro contiene todos esos objetos y más, especialmente para el uso de la clase alquimista. Los objetos alquímicos de este libro se presentan por nivel en la tabla de Objetos alquímicos por nivel en las páginas 281–282 como referencia para alquimistas y otros personajes con habilidades alquímicas.
 
-## Snares
+## Trampas
 
-Snares are small, simple traps to damage or hamper your foes that you can create and deploy quickly enough to utilize on a battlefield. Snares are nonmagical consumable items. This section includes the full rules for creating and using snares. The Snare Crafting feat (page 234) and snarecrafter archetype (page 216) are the primary ways to gain snares.
+Las trampas son pequeñas y sencillas, diseñadas para dañar o entorpecer a tus enemigos, y puedes crearlas y desplegarlas lo bastante rápido como para utilizarlas en el campo de batalla. Las trampas son objetos consumibles no mágicos. Esta sección incluye las reglas completas para crear y usar trampas. La dote Fabricación de trampas (página 234) y el arquetipo fabricante de trampas (página 216) son las formas principales de obtener trampas.
 
-## Momentary Magic
+## Magia momentánea
 
-The items in this section are consumables. An item with the consumable trait can be used only once and is then destroyed. Here you'll find new ammunition, oils, potions, talismans, and wondrous consumables.
+Los objetos de esta sección son consumibles. Un objeto con el rasgo consumible puede usarse solo una vez y después se destruye. Aquí encontrarás nuevas municiones, aceites, pociones, talismanes y consumibles maravillosos.
 
-## Trappings of Power
+## Atavíos de poder
 
-The permanent items found here are typically held in the hands or worn on the body. These include new held items, staves, a variety of specific magic wands, and worn items.
+Los objetos permanentes que se encuentran aquí se sostienen normalmente en las manos o se llevan sobre el cuerpo. Estos incluyen nuevos objetos sostenidos, báculos, una variedad de varitas mágicas específicas y objetos de vestir.
 
-## Treasure Table
+## Tabla de tesoros
 
-The Treasure Table on pages 312–314 presents all the new items appearing in this book, organized by level and item category to help you find the appropriate gear for your character or adventure. The tables are divided by level, split into consumables or permanents, and then organized by item categories within each table.
+La tabla de tesoros en las páginas 312–314 presenta todos los objetos nuevos que aparecen en este libro, organizados por nivel y categoría de objeto para ayudarte a encontrar el equipo apropiado para tu personaje o aventura. Las tablas están divididas por nivel, separadas en consumibles o permanentes y luego organizadas por categorías de objeto dentro de cada tabla.

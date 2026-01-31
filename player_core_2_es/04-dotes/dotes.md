@@ -1,12 +1,12 @@
-# Chapter 4: Feats
+# Capítulo 4: Dotes
 
 Some talents can be acquired by any character, regardless of their ancestry or class, through dedication or specialized training. This chapter presents new general feats, including many new skill feats. For the full rules on general feats and skill feats, see page 249 of Player Core.
 
 ---
 
-## General Feats (Non-Skill)
+## Dotes generales (no de habilidad)
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Improvised Repair | 3 | — | Quickly patch a broken item |
 | Keen Follower | 3 | — | Improve bonuses when you Follow the Expert |
@@ -22,11 +22,11 @@ Some talents can be acquired by any character, regardless of their ancestry or c
 
 ---
 
-## Skill Feats
+## Dotes de habilidad
 
-### Varying Skill Feats
+### Dotes de habilidad variables
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Armor Assist | 1 | Trained in Athletics or Warfare Lore | Don armor more quickly |
 | Assured Identification | 2 | Expert in Arcana, Nature, Occultism, or Religion | Avoid misidentifying magic |
@@ -36,25 +36,25 @@ Some talents can be acquired by any character, regardless of their ancestry or c
 | Consult the Spirits | 7 | Master in Nature, Occultism, or Religion | Learn about your environment from resident spirits |
 | Tumbling Theft | 7 | Expert in Acrobatics and Thievery | Steal a small item when you Tumble Through |
 
-### Acrobatics Skill Feats
+### Dotes de habilidad de Acrobacias
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Acrobatic Performer | 1 | Trained in Acrobatics | Use Acrobatics to Perform |
 | Rolling Landing | 2 | Cat Fall | Land with a quick roll |
 | Tumbling Teamwork | 2 | Expert in Acrobatics | An ally can Step as a reaction when you Tumble Through |
 | Aerobatics Mastery | 7 | Master in Acrobatics | Improve your ability to Maneuver in Flight |
 
-### Athletics Skill Feats
+### Dotes de habilidad de Atletismo
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Lead Climber | 2 | Expert in Athletics | Make Climbing safer for allies who Follow the Expert |
 | Water Sprint | 7 | Master in Athletics | Stride across the surface of a body of water |
 
-### Crafting Skill Feats
+### Dotes de habilidad de Artesanía
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Crafter's Appraisal | 1 | Trained in Crafting | Use Crafting to identify magic items |
 | Improvise Tool | 1 | Trained in Crafting | Craft basic tools without the formulas |
@@ -62,73 +62,73 @@ Some talents can be acquired by any character, regardless of their ancestry or c
 | Rapid Affixture | 7 | Master in Crafting | Affix a Talisman in less time |
 | Signature Crafting | 7 | Master in Crafting, Magical Crafting | Magic items you create may gain quirks |
 
-### Deception Skill Feats
+### Dotes de habilidad de Engaño
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Backup Disguise | 2 | Expert in Deception | Wear a specific disguise under your outer garments |
 | Sow Rumor | 2 | Expert in Deception | Spread a rumor about a subject |
 | Doublespeak | 7 | Master at Deception | Pass a secret message to allies in your conversation |
 
-### Diplomacy Skill Feats
+### Dotes de habilidad de Diplomacia
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Bon Mot | 1 | Trained in Diplomacy | Distract a foe with a witty quip |
 | Evangelize | 7 | Master in Diplomacy, follower of a specific religion or philosophy | Stupefy a listener with details of your faith |
 
-### Intimidation Skill Feats
+### Dotes de habilidad de Intimidación
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Terrifying Resistance | 2 | Expert in Intimidation | +1 to spell saves from a creature you've Demoralized |
 
-### Lore Skill Feats
+### Dotes de habilidad de Saber
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Battle Planner | 2 | Expert in Warfare Lore | Make a battle plan and roll Warfare Lore for initiative |
 
-### Medicine Skill Feats
+### Dotes de habilidad de Medicina
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Forensic Acumen | 1 | Trained in Medicine | Rapidly examine a body and Recall Knowledge about it |
 | Inoculation | 1 | Trained in Medicine | Grant patients +2 to saves against getting a disease again |
 | Risky Surgery | 1 | Trained in Medicine | Deal damage to a patient to gain +2 to Treat Wounds |
 
-### Nature Skill Feats
+### Dotes de habilidad de Naturaleza
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Express Rider | 1 | Trained in Nature | Increase your mount's travel Speed |
 | Influence Nature | 7 | Master in Nature | Influence the behavior of certain animals in the area |
 
-### Occultism Skill Feats
+### Dotes de habilidad de Ocultismo
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Deceptive Worship | 1 | Trained in Occultism | Pass yourself off as a member of a religion |
 | Root Magic | 1 | Trained in Occultism | Create a token that grants a bonus against a spell or haunt |
 | Disturbing Knowledge | 7 | Master in Occultism | Frighten foes with occult secrets |
 
-### Performance Skill Feats
+### Dotes de habilidad de Interpretación
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Distracting Performance | 2 | Expert in Performance | Create a Diversion for an ally |
 
-### Religion Skill Feats
+### Dotes de habilidad de Religión
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Pilgrim's Token | 1 | Trained in Religion, follower of a specific religion | A religious token lets you act first on a tie for initiative |
 | Exhort the Faithful | 2 | Expert in Religion, follower of a specific religion | +2 to Request something of or Coerce members of your own faith |
 | Sanctify Water | 2 | Expert in Religion; you follow a deity with "holy" or "unholy" sanctification | You imbue water with your deity's blessing |
 
-### Society Skill Feats
+### Dotes de habilidad de Sociedad
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Eye for Numbers | 1 | Trained in Society | +2 to Decipher Writing about math and count items quickly |
 | Glean Contents | 1 | Trained in Society | Decipher Writing even when you can't see the document well |
@@ -136,86 +136,86 @@ Some talents can be acquired by any character, regardless of their ancestry or c
 | Underground Network | 2 | Expert in Society, Streetwise | Gather Information without drawing attention and gain a bonus to Recall Knowledge about that subject |
 | Biographical Eye | 7 | Master in Society | Intuit details about someone's profession and residence |
 
-### Stealth Skill Feats
+### Dotes de habilidad de Sigilo
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Armored Stealth | 2 | Expert in Stealth | Reduce the Stealth penalty of your armor |
 | Shadow Mark | 2 | Expert in Stealth | Targets you're following take a penalty to notice you |
 
-### Survival Skill Feats
+### Dotes de habilidad de Supervivencia
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Environmental Guide | 7 | Master in Survival | Help your party adapt to environments |
 | Legendary Guide | 15 | Legendary in Survival | Increase your party's travel Speed through the wilderness |
 
-### Thievery Skill Feats
+### Dotes de habilidad de Latrocinio
 
-| Feat | Level | Prerequisites | Benefits |
+| Dote | Nivel | Prerrequisitos | Beneficios |
 |------|-------|---------------|----------|
 | Concealing Legerdemain | 1 | Trained in Thievery | Conceal an Object using Thievery instead of Stealth |
 | Dirty Trick | 1 | Trained in Thievery | Make a target clumsy through underhanded means |
 
 ---
 
-## Feat Descriptions
+## Descripciones de dotes
 
-### A Home in Every Port · Feat 11
+### Un hogar en cada puerto · Dote 11
 
-**Traits:** Downtime, General
+**Rasgos:** Entre descansos, General
 
-**Prerequisites:** Charisma +3
+**Prerrequisitos:** Carisma +3
 
 You have a reputation in towns and villages you've visited, and residents are always willing to open their doors to you. When in a town or village, during downtime, you can spend 8 hours to locate a resident willing to provide lodging for you and up to six allies for up to 24 hours at no charge. The standard of living within the acquired lodging is comfortable (GM Core 50), and square meals are provided at no cost. After 24 hours, you must pay standard prices for further lodging and meals or use this feat again to find a new resident willing to host you.
 
 ---
 
-### Acrobatic Performer · Feat 1
+### Intérprete acrobático · Dote 1
 
-**Traits:** General, Skill
+**Rasgos:** General, Habilidad
 
-**Prerequisites:** trained in Acrobatics
+**Prerrequisitos:** entrenado en Acrobacias
 
 You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. You can roll an Acrobatics check instead of a Performance check when using the Perform action. If you are trained in both Acrobatics and Performance, you gain a +1 circumstances bonus on Acrobatics checks made to Perform.
 
 ---
 
-### Aerobatics Mastery · Feat 7
+### Maestría en acrobacias aéreas · Dote 7
 
-**Traits:** General, Skill
+**Rasgos:** General, Habilidad
 
-**Prerequisites:** master in Acrobatics
+**Prerrequisitos:** maestro en Acrobacias
 
 You move with grace in flight and can perform amazing aerial stunts. You gain a +2 circumstance bonus to Acrobatics checks to Maneuver in Flight and can combine two maneuvers into a single action, such as reversing direction while making a steep ascent or descent or hovering in gale-force winds. The DC of the Acrobatics check is equal to the DC of the most difficult maneuver + 5. If you're legendary in Acrobatics, you can combine three such maneuvers into a single action; the DC of the Acrobatics check is equal to the DC of the most difficult maneuver + 10. Regardless of the combination, these maneuvers rarely allow you to move farther than your fly Speed.
 
 ---
 
-### Armor Assist · Feat 1
+### Asistencia con armadura · Dote 1
 
-**Traits:** General, Skill
+**Rasgos:** General, Habilidad
 
-**Prerequisites:** trained in Athletics or Warfare Lore
+**Prerrequisitos:** entrenado en Atletismo o Saber bélico
 
 You are practiced in helping yourself and others don heavy gear. You can attempt an Athletics or Warfare Lore check with a DC determined by the GM (usually DC 15 for common armor, DC 20 for uncommon armor, and DC 25 for rare armor) to halve the time you take to don armor. You can halve an ally's time to don armor by working with them to don the armor and succeeding at an Athletics or Warfare Lore check against the same DC.
 
 ---
 
-### Armored Stealth · Feat 2
+### Sigilo con armadura · Dote 2
 
-**Traits:** General, Skill
+**Rasgos:** General, Habilidad
 
-**Prerequisites:** expert in Stealth
+**Prerrequisitos:** experto en Sigilo
 
 You have learned techniques to adjust and modify your armor and movements to reduce the noise you make. When you wear non-noisy armor with which you are trained, your penalty to Stealth checks is reduced by 1 (to a minimum penalty of 0). If you're a master in Stealth, reduce the penalty by 2, and if you're legendary, reduce the penalty by 3. If your armor has the noisy trait, instead of reducing the penalty to Stealth checks, you ignore the effects of the noisy trait, enabling you to remove the penalty with a sufficient Strength score as normal.
 
 ---
 
-### Assured Identification · Feat 2
+### Identificación segura · Dote 2
 
-**Traits:** General, Skill
+**Rasgos:** General, Habilidad
 
-**Prerequisites:** expert in Arcana, Nature, Occultism, or Religion
+**Prerrequisitos:** experto en Arcanos, Naturaleza, Ocultismo o Religión
 
 You rarely misidentify an item. When using Arcana, Nature, Occultism, or Religion checks to Identify Magic, if you roll a critical failure, you get a failure instead. If you would misidentify a cursed item because you roll a success but not a critical success (GM Core 306), you simply can't identify it instead.
 
