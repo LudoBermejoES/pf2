@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# La Extensión de Mwangi
 
 **Tema:** Ciudades poderosas y tierras vírgenes exuberantes
 

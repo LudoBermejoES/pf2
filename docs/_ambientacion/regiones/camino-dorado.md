@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# El Camino Dorado
 
 **Tema:** Riqueza y antiguos imperios
 

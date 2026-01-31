@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# Alta Mar
 
 **Tema:** Confines sin ley y aventuras de capa y espada
 

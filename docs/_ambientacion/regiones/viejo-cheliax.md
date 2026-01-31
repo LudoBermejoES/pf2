@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# El Viejo Cheliax
 
 **Tema:** Corrupción política y espiritual
 

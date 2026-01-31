@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# El Ojo del Terror
 
 **Tema:** Horror y guerra
 

@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# Los Reinos Brillantes
 
 **Tema:** Caballeros, concilios y castillos
 

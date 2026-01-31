@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# Las Tierras Quebradas
 
 **Tema:** Supervivencia en un territorio extremo
 
@@ -19,7 +18,7 @@ Esta región incluye Brevoy, una nación antaño unida por un conquistador monta
 ## Ejemplos de Personaje
 
 - Un matador de demonios con heridas de guerra, veterano de una cruzada contra las Fisuras Exteriores que duró más de cien años.
-- Un bárbaro que empu ña una espada de otro mundo, un trofeo tecnológico más allá de su comprensión.
+- Un bárbaro que empuña una espada de otro mundo, un trofeo tecnológico más allá de su comprensión.
 - Un llamador de dioses, que convoca a uno de los antiguos dioses sarkorianos en forma encarnada para que recorra la tierra a su lado.
 - Un androide disfrazado, surgido de una nave espacial caída, y con la misión de encontrar su camino en un mundo que no le entiende.
 - Un aspirante a rey, determinado a forjar una nación a partir de las tierras vírgenes; y, si tiene mucha suerte, a conservarla.

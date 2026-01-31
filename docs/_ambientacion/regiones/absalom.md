@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# Absalom y la Isla de la Piedra Estelar
 
 **Tema:** Megaciudad de fantasía
 

@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# Las Tierras de la Saga
 
 **Tema:** Aventura y legado heroicos
 

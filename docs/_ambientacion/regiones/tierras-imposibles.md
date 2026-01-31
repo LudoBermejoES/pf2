@@ -6,7 +6,6 @@ chapter: Ambientación
 category: ambientacion
 ---
 
-# Las Tierras Imposibles
 
 **Tema:** Magia poderosa... y sus consecuencias
 
