@@ -28,6 +28,9 @@ collections:
   introduccion:
     output: true
     permalink: /introduccion/:name/
+  ambientacion:
+    output: true
+    permalink: /ambientacion/:path/
   ascendencias:
     output: true
     permalink: /ascendencias/:path/
@@ -65,6 +68,12 @@ defaults:
     values:
       layout: page
       chapter: "Introducción"
+  - scope:
+      path: ""
+      type: "ambientacion"
+    values:
+      layout: page
+      chapter: "Ambientación"
   - scope:
       path: ""
       type: "ascendencias"
@@ -117,6 +126,7 @@ defaults:
 # Include hidden files for collection processing
 include:
   - _introduccion
+  - _ambientacion
   - _ascendencias
   - _clases
   - _habilidades
