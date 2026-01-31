@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /reglas/percepción-detección/
+permalink: /reglas/percepcion-deteccion/
 title: Percepción y Detección
 chapter: Como Jugar
 category: reglas

@@ -1,6 +1,6 @@
 ---
 layout: redirect
-permalink: /clases/arquetipos/introducción/
+permalink: /clases/arquetipos/introduccion/
 redirect_to: /clases/arquetipos/
 ---
 

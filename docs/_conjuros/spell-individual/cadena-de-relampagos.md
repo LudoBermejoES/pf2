@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/cadena-de-relámpagos/
+permalink: /conjuros/cadena-de-relampagos/
 title: Cadena de Relámpagos
 chapter: Conjuros
 spell_level: 6

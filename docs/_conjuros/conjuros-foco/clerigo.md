@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /conjuros/conjuros-foco/clérigo/
+permalink: /conjuros/conjuros-foco/clerigo/
 title: Conjuros de Foco: Clérigo
 chapter: Conjuros
 category: conjuros

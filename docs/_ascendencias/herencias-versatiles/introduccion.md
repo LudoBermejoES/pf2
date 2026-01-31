@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/herencias-versatiles/introducción/
+permalink: /ascendencias/herencias-versatiles/introduccion/
 title: Herencias Versátiles
 chapter: Ascendencias
 category: ascendencias

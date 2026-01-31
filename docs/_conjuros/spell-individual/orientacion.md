@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/orientación/
+permalink: /conjuros/orientacion/
 title: Orientación
 chapter: Conjuros
 spell_level: TRUCO

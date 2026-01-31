@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/detectar-escudriñamiento/
+permalink: /conjuros/detectar-escudrinamiento/
 title: Detectar Escudriñamiento
 chapter: Conjuros
 spell_level: 4

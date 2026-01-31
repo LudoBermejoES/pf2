@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/compañeros/animales/
+permalink: /clases/companeros/animales/
 title: Compañeros Animales
 chapter: Clases
 category: clases

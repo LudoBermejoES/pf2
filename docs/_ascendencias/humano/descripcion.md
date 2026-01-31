@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/humano/descripción/
+permalink: /ascendencias/humano/descripcion/
 title: Humano
 chapter: Ascendencias
 category: ascendencias

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/orco/descripción/
+permalink: /ascendencias/orco/descripcion/
 title: Orco
 chapter: Ascendencias
 category: ascendencias

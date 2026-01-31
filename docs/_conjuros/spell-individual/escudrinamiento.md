@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/escudriñamiento/
+permalink: /conjuros/escudrinamiento/
 title: Escudriñamiento
 chapter: Conjuros
 spell_level: 6

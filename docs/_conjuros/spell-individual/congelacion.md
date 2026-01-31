@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/congelación/
+permalink: /conjuros/congelacion/
 title: Congelación
 chapter: Conjuros
 spell_level: TRUCO

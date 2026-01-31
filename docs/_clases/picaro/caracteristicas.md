@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/picaro/características/
+permalink: /clases/picaro/caracteristicas/
 title: Características del Picaro
 chapter: Clases
 category: clases

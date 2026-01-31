@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /habilidades/artesanía/
+permalink: /habilidades/artesania/
 title: Artesanía (Int)
 chapter: Habilidades
 category: habilidades

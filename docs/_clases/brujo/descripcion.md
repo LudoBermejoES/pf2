@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/brujo/descripción/
+permalink: /clases/brujo/descripcion/
 title: Brujo
 chapter: Clases
 category: clases

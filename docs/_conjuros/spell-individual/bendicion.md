@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/bendición/
+permalink: /conjuros/bendicion/
 title: Bendición
 chapter: Conjuros
 spell_level: 1

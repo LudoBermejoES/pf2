@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/clérigo/características/
+permalink: /clases/clerigo/caracteristicas/
 title: Características del Clérigo
 chapter: Clases
 category: clases

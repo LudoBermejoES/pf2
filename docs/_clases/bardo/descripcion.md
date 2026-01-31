@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/bardo/descripción/
+permalink: /clases/bardo/descripcion/
 title: Bardo
 chapter: Clases
 category: clases

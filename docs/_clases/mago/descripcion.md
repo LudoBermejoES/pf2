@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/mago/descripción/
+permalink: /clases/mago/descripcion/
 title: Mago
 chapter: Clases
 category: clases

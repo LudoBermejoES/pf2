@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /apéndices/estados-f-z/
+permalink: /apendices/estados-f-z/
 title: Estados (F-Z)
 chapter: Apéndices
 category: apéndices

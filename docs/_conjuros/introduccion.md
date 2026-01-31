@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /conjuros/introducción/
+permalink: /conjuros/introduccion/
 title: Conjuros - Introducción
 chapter: Conjuros
 category: conjuros

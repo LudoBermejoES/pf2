@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/leshy/descripción/
+permalink: /ascendencias/leshy/descripcion/
 title: Leahy
 chapter: Ascendencias
 category: ascendencias

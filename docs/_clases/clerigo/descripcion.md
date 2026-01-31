@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/clérigo/descripción/
+permalink: /clases/clerigo/descripcion/
 title: Clérigo
 chapter: Clases
 category: clases

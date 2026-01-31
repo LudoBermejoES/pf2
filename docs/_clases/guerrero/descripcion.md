@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/guerrero/descripción/
+permalink: /clases/guerrero/descripcion/
 title: Guerrero
 chapter: Clases
 category: clases

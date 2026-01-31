@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/enano/descripción/
+permalink: /ascendencias/enano/descripcion/
 title: Enano
 chapter: Ascendencias
 category: ascendencias

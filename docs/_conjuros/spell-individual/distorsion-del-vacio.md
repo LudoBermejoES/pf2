@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/distorsion-del-vacío/
+permalink: /conjuros/distorsion-del-vacio/
 title: Distorsion del Vacío
 chapter: Conjuros
 spell_level: TRUCO

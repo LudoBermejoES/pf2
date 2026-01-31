@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/gnomo/descripción/
+permalink: /ascendencias/gnomo/descripcion/
 title: Gnomo
 chapter: Ascendencias
 category: ascendencias

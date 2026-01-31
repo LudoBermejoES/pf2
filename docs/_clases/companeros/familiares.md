@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/compañeros/familiares/
+permalink: /clases/companeros/familiares/
 title: Familiares
 chapter: Clases
 category: clases

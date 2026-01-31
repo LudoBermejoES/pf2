@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/mago/características/
+permalink: /clases/mago/caracteristicas/
 title: Características del Mago
 chapter: Clases
 category: clases

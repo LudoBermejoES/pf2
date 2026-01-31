@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/empujón-hidraulico/
+permalink: /conjuros/empujon-hidraulico/
 title: Empujón Hidraulico
 chapter: Conjuros
 spell_level: 1

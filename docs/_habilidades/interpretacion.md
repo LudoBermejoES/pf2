@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /habilidades/interpretación/
+permalink: /habilidades/interpretacion/
 title: Interpretación (Car)
 chapter: Habilidades
 category: habilidades

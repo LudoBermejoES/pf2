@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/brujo/características/
+permalink: /clases/brujo/caracteristicas/
 title: Características del Brujo
 chapter: Clases
 category: clases

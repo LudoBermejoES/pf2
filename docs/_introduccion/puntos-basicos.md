@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduccion/puntos-básicos/
+permalink: /introduccion/puntos-basicos/
 title: Puntos Básicos del Juego
 chapter: Introduccion
 category: introduccion

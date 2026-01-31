@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/maldición-del-marinero/
+permalink: /conjuros/maldicion-del-marinero/
 title: Maldición del Marinero
 chapter: Conjuros
 spell_level: 5

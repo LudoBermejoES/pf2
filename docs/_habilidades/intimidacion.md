@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /habilidades/intimidación/
+permalink: /habilidades/intimidacion/
 title: Intimidación (Car)
 chapter: Habilidades
 category: habilidades

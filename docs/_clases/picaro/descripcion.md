@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/picaro/descripción/
+permalink: /clases/picaro/descripcion/
 title: Picaro
 chapter: Clases
 category: clases

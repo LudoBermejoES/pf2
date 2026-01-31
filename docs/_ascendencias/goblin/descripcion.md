@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/goblin/descripción/
+permalink: /ascendencias/goblin/descripcion/
 title: Goblin
 chapter: Ascendencias
 category: ascendencias

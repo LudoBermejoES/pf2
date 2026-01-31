@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/explorador/características/
+permalink: /clases/explorador/caracteristicas/
 title: Características del Explorador
 chapter: Clases
 category: clases

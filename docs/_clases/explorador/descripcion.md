@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/explorador/descripción/
+permalink: /clases/explorador/descripcion/
 title: Explorador
 chapter: Clases
 category: clases

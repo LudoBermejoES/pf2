@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/canción-insondable/
+permalink: /conjuros/cancion-insondable/
 title: Canción Insondable
 chapter: Conjuros
 spell_level: 9

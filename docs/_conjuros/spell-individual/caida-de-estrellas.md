@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/caída-de-estrellas/
+permalink: /conjuros/caida-de-estrellas/
 title: Caída de Estrellas
 chapter: Conjuros
 spell_level: 9

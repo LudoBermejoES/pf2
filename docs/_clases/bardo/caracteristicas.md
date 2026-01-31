@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/bardo/características/
+permalink: /clases/bardo/caracteristicas/
 title: Características del Bardo
 chapter: Clases
 category: clases

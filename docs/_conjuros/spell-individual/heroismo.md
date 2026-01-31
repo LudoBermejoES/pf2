@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/heroísmo/
+permalink: /conjuros/heroismo/
 title: Heroísmo
 chapter: Conjuros
 spell_level: 3

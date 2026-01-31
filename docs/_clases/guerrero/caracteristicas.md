@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/guerrero/características/
+permalink: /clases/guerrero/caracteristicas/
 title: Características del Guerrero
 chapter: Clases
 category: clases

@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/maldición-del-paria/
+permalink: /conjuros/maldicion-del-paria/
 title: Maldición del Paria
 chapter: Conjuros
 spell_level: 4

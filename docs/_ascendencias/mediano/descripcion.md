@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/mediano/descripción/
+permalink: /ascendencias/mediano/descripcion/
 title: Mediano
 chapter: Ascendencias
 category: ascendencias

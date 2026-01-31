@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ascendencias/elfo/descripción/
+permalink: /ascendencias/elfo/descripcion/
 title: Elfo
 chapter: Ascendencias
 category: ascendencias

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/druida/características/
+permalink: /clases/druida/caracteristicas/
 title: Druida - Características de Clase
 chapter: Clases
 category: clases

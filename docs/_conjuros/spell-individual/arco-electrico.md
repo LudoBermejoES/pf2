@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/arco-eléctrico/
+permalink: /conjuros/arco-electrico/
 title: Arco Eléctrico
 chapter: Conjuros
 spell_level: TRUCO

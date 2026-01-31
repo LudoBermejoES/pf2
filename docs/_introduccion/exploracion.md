@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduccion/exploración/
+permalink: /introduccion/exploracion/
 title: Exploración
 chapter: Introduccion
 category: introduccion
