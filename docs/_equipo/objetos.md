@@ -163,12 +163,8 @@ Una bomba inflige cualquier daño por salpicadura indicado al objetivo con un fa
 
 | Bomba alquímica | Precio | Imp. | Rasgos de objeto |
 |-----------------|--------|------|------------------|
-| Frasco de ácido menor | 3 po | L | Ácido, bomba, salpicadura |
-| Fuego de alquimista menor | 3 po | L | Bomba, fuego, salpicadura |
-
-**Frasco de ácido menor:** Esta bomba alquímica inflige 1 daño por ácido, 1d6 daño por ácido persistente y 1 daño por ácido por salpicadura.
-
-**Fuego de alquimista menor:** Esta bomba alquímica inflige 1d8 daño por fuego, 1 daño por fuego persistente y 1 daño por fuego por salpicadura.
+| [Frasco de ácido menor](/equipo/objetos/sustancias-alquimicas/frasco-acido-menor/) | 3 po | L | Ácido, bomba, salpicadura |
+| [Fuego de alquimista menor](/equipo/objetos/sustancias-alquimicas/fuego-alquimista-menor/) | 3 po | L | Bomba, fuego, salpicadura |
 
 ### Elixires
 
@@ -176,15 +172,9 @@ Los elixires son sustancias alquímicas que bebes como una sola acción que tien
 
 | Elixir | Precio | Imp. | Rasgos de objeto |
 |--------|--------|------|------------------|
-| Antídoto menor | 3 po | L | Elixir, curación |
-| Antiplaga menor | 3 po | L | Elixir, curación |
-| Elixir de la vida inferior | 3 po | L | Elixir, curación |
-
-**Antídoto menor:** Obtienes un bonificador +2 por objeto a las salvaciones de Fortaleza contra venenos durante 6 horas.
-
-**Antiplaga menor:** Obtienes un bonificador +2 por objeto a las salvaciones de Fortaleza contra las enfermedades durante 24 horas, incluyendo cualquier salvación diaria contra la aflicción de una enfermedad.
-
-**Elixir de la vida inferior:** Recuperas 1d6 Puntos de Golpe y obtienes un bonificador +1 por objeto a las tiradas de salvación contra enfermedades y venenos durante 10 minutos.
+| [Antídoto menor](/equipo/objetos/sustancias-alquimicas/antidoto-menor/) | 3 po | L | Elixir, curación |
+| [Antiplaga menor](/equipo/objetos/sustancias-alquimicas/antiplaga-menor/) | 3 po | L | Elixir, curación |
+| [Elixir de la vida inferior](/equipo/objetos/sustancias-alquimicas/elixir-vida-inferior/) | 3 po | L | Elixir, curación |
 
 ### Material alquímico
 
@@ -192,15 +182,9 @@ El material alquímico es un tipo de sustancia alquímica que utilizas, en lugar
 
 | Material alquímico | Precio | Imp. | Rasgos de objeto |
 |--------------------|--------|------|------------------|
-| Bola de humo menor | 3 po | L | — |
-| Cetro brillante | 3 po | L | Luz |
-| Ramita yesquera (10) | 2 po | — | Fuego |
-
-**Bola de humo menor:** Creas una pantalla de humo de 5 pies (1,5 m) centrada en una esquina de tu espacio. Todas las criaturas en el interior del humo están ocultas y todas las demás están ocultas de ellas. El humo dura 1 minuto o hasta que lo disipa un viento fuerte.
-
-**Cetro brillante:** Puedes golpear un cetro brillante contra una superficie dura como una acción de Interactuar para hacer que emita una luz brillante en un radio de 20 pies (6 m) y luz tenue en los siguientes 20 pies (6 m) durante 6 horas.
-
-**Ramita yesquera:** Puedes utilizar una ramita yesquera para encender algo inflamable mediante una sola acción de Interactuar, con más rapidez que con pedernal y yesca.
+| [Bola de humo menor](/equipo/objetos/sustancias-alquimicas/bola-humo-menor/) | 3 po | L | — |
+| [Cetro brillante](/equipo/objetos/sustancias-alquimicas/cetro-brillante/) | 3 po | L | Luz |
+| [Ramita yesquera (10)](/equipo/objetos/sustancias-alquimicas/ramita-yesquera/) | 2 po | — | Fuego |
 
 ---
 
@@ -210,33 +194,15 @@ Se incluyen en esta sección objetos asistenciales para unas cuantas discapacida
 
 | Objeto | Precio | Imp. | Manos |
 |--------|--------|------|-------|
-| Audífono | 5 pp | — | — |
-| Audífono mágico (nivel 1) | 5 po | — | — |
-| Bastón | 5 pp | L | 1 |
-| Gafas correctoras | 5 pp | — | — |
-| Muleta | 5 pp | L | 1 |
-| Prótesis | 5 pp | — | — |
-| Silla de ruedas | 5 pp | 2 | ver texto |
-| Silla de viaje | 5 pp | 3 | ver texto |
-| Almacenaje de silla | 1 po | — | — |
-
-**Audífono:** Un audífono se lleva en el oído, y está hecho de madera tallada, metal al que se ha dado forma o incluso pequeñas piezas de relojería. La forma del aparato ayuda a los que son duros de oído y puedes llevar uno o dos dependiendo de tu pérdida auditiva. Te puedes quitar y poner unos audífonos como una acción de Interactuar.
-
-**Audífono mágico:** Un audífono mágico tiene el rasgo mágico. Con su forma curvada, se engancha en la parte superior de la oreja y permanece tras la misma, con un receptor que encaja en la apertura auricular. La parte externa del aparato detecta ondas de sonido y, utilizando la magia, las transfiere por el receptor hasta tu oído.
-
-**Bastón:** Un bastón es una pieza recta de madera provista de un mango curvo, en forma de gancho. Su diseño sencillo ayuda con el equilibrio y sólo ayuda ligeramente a soportar el peso de la pierna contraria, más débil.
-
-**Gafas correctoras:** Un juego de gafas correctoras puede adoptar la forma de unas gafas normales o de unas gafas de protección llevadas sobre los ojos. Te puedes quitar y poner unas gafas correctoras como una acción de Interactuar.
-
-**Muleta:** Las muletas vienen solas o en pareja dependiendo de cuánto apoyo necesites para caminar. Una muleta encaja bajo tu axila y utilizas la mano y el balanceo del brazo para moverte con ella.
-
-**Prótesis:** Una prótesis reemplaza una parte corporal perdida o dañada. Las prótesis típicas incluyen pies, ojos, manos y extremidades artificiales. Una prótesis dispone de cierta cantidad de correas o manguillas que la mantienen fijada al cuerpo. Te puedes quitar y poner una prótesis con una acción de Interactuar.
-
-**Silla de ruedas:** Una silla de ruedas común es ideal para el uso diario pero no está diseñada para actividades movidas. Estas sillas de ruedas son las más comunes entre los no aventureros.
-
-**Silla de viaje:** Una silla de viaje está diseñada para aventuras y viajes frecuentes. El diseño es elegante y a la moda, para proporcionar una comodidad y un soporte excelentes. Una silla de viaje tiene pequeños mecanismos que le permiten subir o bajar escaleras sin dificultad adicional (sin embargo, subir escaleras sigue siendo terreno difícil), y atravesar otro terreno de aventuras común sin ninguna dificultad adicional.
-
-**Almacenaje de silla:** Se puede comprar almacenaje de silla y aplicarse a cualquier silla de ruedas. Esto reduce la cantidad de Impedimenta que pesan los objetos cuando se almacenan en la silla. Los primeros 2 puntos de Impedimenta de objetos almacenados en la silla no cuentan contra tu límite de Impedimenta.
+| [Audífono](/equipo/objetos/asistencia/auditivo/) | 5 pp | — | — |
+| [Audífono mágico](/equipo/objetos/asistencia/auditivo-magico/) (nivel 1) | 5 po | — | — |
+| [Bastón](/equipo/objetos/asistencia/baston-asistencia/) | 5 pp | L | 1 |
+| [Gafas correctoras](/equipo/objetos/asistencia/gafas-correctoras/) | 5 pp | — | — |
+| [Muleta](/equipo/objetos/asistencia/muleta/) | 5 pp | L | 1 |
+| [Prótesis](/equipo/objetos/asistencia/protesis/) | 5 pp | — | — |
+| [Silla de ruedas](/equipo/objetos/asistencia/silla-ruedas/) | 5 pp | 2 | ver texto |
+| [Silla de viaje](/equipo/objetos/asistencia/silla-viaje/) | 5 pp | 3 | ver texto |
+| [Almacenaje de silla](/equipo/objetos/asistencia/almacenaje-silla/) | 1 po | — | — |
 
 ### Reglas de las sillas de ruedas
 
