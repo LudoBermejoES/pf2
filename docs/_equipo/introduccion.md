@@ -273,3 +273,11 @@ En la mayoría de casos, las criaturas Pequenas o Medianas pueden empuñar un ar
 Debido a la forma en que una criatura trata la Impedimenta y que la Impedimenta del equipo de su tamaño escala de la misma manera, las criaturas Menudas o Grandes (o mayores) suelen poder llevar y transportar mas o menos la misma cantidad de equipo que una criatura Mediana.
 
 Los objetos mágicos de alto nivel que cuestan significativamente mas que 8 veces el coste de un objeto mundano utilizan su Precio de lista sin importar el tamaño. Sin embargo, los materiales preciosos tienen un Precio que se basa en la Impedimenta del objeto, por lo que hay que multiplicar el valor de la Impedimenta tal y como se describe en la tabla y después usar la formula que viene en la entrada del material para determinar el Precio del objeto.
+
+## Contenido
+
+- [Armaduras]({{ '/equipo/armaduras/' | relative_url }})
+- [Armas]({{ '/equipo/armas/' | relative_url }})
+- [Escudos]({{ '/equipo/escudos/' | relative_url }})
+- [Introduccion al Equipo]({{ '/equipo/introduccion/' | relative_url }})
+- [Objetos]({{ '/equipo/objetos/' | relative_url }})
