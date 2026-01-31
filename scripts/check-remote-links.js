@@ -159,38 +159,53 @@ class RemoteLinkChecker {
   }
 
   /**
-   * Ejecuta la verificación completa
+   * Ejecuta la verificación completa con crawling de múltiples páginas
    */
   async run(startUrl, options = {}) {
-    const maxPages = options.maxPages || 1; // Por defecto solo la página principal
+    const maxPages = options.maxPages || 500; // Por defecto crawlear hasta 500 páginas
     const internalOnly = options.internalOnly !== false; // Por defecto solo links internos
+    const baseDomain = new URL(startUrl).hostname;
 
-    console.log(`\n🚀 VERIFICADOR DE LINKS REMOTOS\n`);
+    console.log(`\n🚀 VERIFICADOR DE LINKS REMOTOS (Crawler)\n`);
     console.log(`📄 URL inicial: ${startUrl}`);
     console.log(`⚙️  Configuración:`);
-    console.log(`   - Máximo de páginas: ${maxPages}`);
+    console.log(`   - Máximo de páginas a crawlear: ${maxPages}`);
     console.log(`   - Solo links internos: ${internalOnly}`);
     console.log(`   - Timeout: ${this.timeout}ms`);
     console.log(`   - Concurrencia: ${this.maxConcurrent} simultáneas\n`);
 
-    const urlsToScan = [startUrl];
     let allLinks = [];
+    const urlQueue = [startUrl];
 
-    // Escanear páginas (de momento solo la principal)
-    for (const pageUrl of urlsToScan) {
-      if (this.visitedPages.size >= maxPages) break;
+    // Crawlear múltiples páginas
+    while (urlQueue.length > 0 && this.visitedPages.size < maxPages) {
+      const pageUrl = urlQueue.shift();
+
+      if (this.visitedPages.has(pageUrl)) continue;
 
       const links = await this.scrapePage(pageUrl);
 
       // Filtrar solo links internos si está configurado
       let filteredLinks = links;
       if (internalOnly) {
-        const baseDomain = new URL(startUrl).hostname;
         filteredLinks = links.filter(link => {
-          const linkDomain = new URL(link.url).hostname;
-          return linkDomain === baseDomain;
+          try {
+            const linkDomain = new URL(link.url).hostname;
+            return linkDomain === baseDomain;
+          } catch {
+            return false;
+          }
         });
       }
+
+      // Agregar nuevas URLs al queue para crawlear
+      filteredLinks.forEach(link => {
+        const linkUrl = new URL(link.url).pathname;
+        // Solo agregar URLs que no sean anchors y que sean del dominio
+        if (!linkUrl.includes('#') && !urlQueue.includes(link.url) && !this.visitedPages.has(link.url)) {
+          urlQueue.push(link.url);
+        }
+      });
 
       allLinks = allLinks.concat(filteredLinks);
     }
@@ -200,7 +215,8 @@ class RemoteLinkChecker {
       new Map(allLinks.map(link => [link.url, link])).values()
     );
 
-    console.log(`\n📊 Links encontrados: ${uniqueLinks.length}`);
+    console.log(`\n📊 Páginas escaneadas: ${this.visitedPages.size}`);
+    console.log(`📊 Links únicos encontrados: ${uniqueLinks.length}`);
     console.log(`🔗 Verificando links...\n`);
 
     // Verificar todos los links con concurrencia
