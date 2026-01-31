@@ -1,0 +1,15 @@
+---
+layout: page
+permalink: /reglas/acciones-especialidad/volar/
+title: Volar
+chapter: Como Jugar
+category: reglas
+---
+
+## Volar ◆
+
+**Rasgos:** Movimiento
+
+**Requisitos:** Tienes Velocidad de vuelo
+
+Te mueves por el aire como máximo a tu Velocidad de vuelo. Moverse hacia arriba (en vertical o en diagonal) utiliza las reglas de movimiento a traves de terreno difícil. Puedes descender 10 pies (3 m) por cada 5 pies (1,5 m) de movimiento que gastas. Si bajas volando hasta el suelo, no sufres dano por caída. Puedes utilizar una acción para Volar 0 pies y mantenerte flotando en el mismo sitio. Si al final de tu turno estas en el aire y no has utilizado una acción de Volar en el mismo, caes.
