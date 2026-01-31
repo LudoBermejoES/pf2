@@ -1,18 +1,18 @@
-# Alchemy
+# Alquimia
 
-Sometimes the reactions of alchemical reagents create effects that seem magical, and at other times, they straddle the line between purely reactive and the inexplicable. Alchemists explore the secrets of these reagents, learning how to blend their essence with these special chemicals to efficiently create short-lived alchemical items at no monetary cost. Even in these cases, alchemical items don't radiate magic auras, instead using the alchemist's infused essence as one additional catalyst for the item's alchemical effects.
+A veces, las reacciones de los reactivos alquímicos crean efectos que parecen mágicos y, en otras ocasiones, se sitúan en la línea entre lo puramente reactivo y lo inexplicable. Los alquimistas exploran los secretos de estos reactivos, aprendiendo a mezclar su esencia con estos químicos especiales para crear de forma eficiente objetos alquímicos efímeros sin coste monetario. Incluso en estos casos, los objetos alquímicos no irradian auras mágicas; en su lugar usan la esencia infundida del alquimista como un catalizador adicional para los efectos alquímicos del objeto.
 
-Alchemical items aren't magical. They instead use the properties of volatile chemicals, exotic minerals, potent plants, and other substances, collectively referred to as alchemical reagents. As such, alchemical items don't radiate magical auras, and they can't be dismissed or affected by dispel magic. Their effects last for a set amount of time or until they're countered in some way, typically physically.
+Los objetos alquímicos no son mágicos. En su lugar utilizan las propiedades de químicos volátiles, minerales exóticos, plantas potentes y otras sustancias, referidas colectivamente como reactivos alquímicos. Por ello, los objetos alquímicos no irradian auras mágicas y no pueden disiparse ni verse afectados por disipar magia. Sus efectos duran un tiempo determinado o hasta que se contrarrestan de algún modo, normalmente de forma física.
 
-Rules for creating alchemical items are found in the Craft activity (Player Core 236), and you must have the Alchemical Crafting skill feat to use Crafting to create alchemical items. Critically failing a Crafting check to make alchemical items often causes a dangerous effect, such as an explosion for a bomb or accidental exposure for a poison, in addition to losing some of the materials.
+Las reglas para crear objetos alquímicos se encuentran en la actividad Elaborar (Player Core 236), y debes tener la dote de habilidad Artesanía alquímica para usar Artesanía y crear objetos alquímicos. Fallar críticamente una prueba de Artesanía para fabricar objetos alquímicos a menudo provoca un efecto peligroso, como una explosión en el caso de una bomba o una exposición accidental en el caso de un veneno, además de perder parte de los materiales.
 
-Some alchemical items have additional requirements beyond those stated in the Craft activity; these items list their requirements in a Craft Requirements entry.
+Algunos objetos alquímicos tienen requisitos adicionales más allá de los indicados en la actividad Elaborar; estos objetos enumeran sus requisitos en una entrada de Requisitos de Fabricación.
 
-All alchemical items have the alchemical trait. Most also have the consumable trait, which means that the item is used up once activated. The bomb, elixir, mutagen, and poison traits indicate special categories of alchemical items, each of which is described on the following pages. Alchemical items without any of these traits are called alchemical tools.
+Todos los objetos alquímicos tienen el rasgo alquímico. La mayoría también tiene el rasgo consumible, lo que significa que el objeto se agota una vez activado. Los rasgos bomba, elixir, mutágeno y veneno indican categorías especiales de objetos alquímicos, cada una de las cuales se describe en las páginas siguientes. Los objetos alquímicos sin ninguno de estos rasgos se llaman herramientas alquímicas.
 
 ---
 
-## Alchemical Items by Level
+## Objetos alquímicos por nivel
 
 ### 1st-Level Alchemical Items
 
@@ -286,36 +286,36 @@ All alchemical items have the alchemical trait. Most also have the consumable tr
 
 ---
 
-## Alchemical Bombs
+## Bombas alquímicas
 
-An alchemical bomb combines volatile components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though some produce other effects. Bombs have the bomb trait.
+Una bomba alquímica combina componentes volátiles que explotan cuando la bomba impacta contra una criatura u objeto. La mayoría de bombas alquímicas infligen daño, aunque algunas producen otros efectos. Las bombas tienen el rasgo bomba.
 
-Bombs are martial thrown weapons with a range increment of 20 feet. When you throw a bomb, you make a weapon attack roll against the target's AC, as you would for any other weapon. It takes one hand to draw, prepare, and throw a bomb. The bomb is activated when thrown as a Strike—you don't have to activate it separately. As consumables, bombs can't have runes etched onto them, have talismans attached to them, or benefit from runes granted in other ways (such as from spells or from items that replicate runes from other items). Spells and magic items that give you a bonus to all your attacks (or to all thrown weapons, for example) can still apply to them.
+Las bombas son armas arrojadizas marciales con un incremento de alcance de 20 pies. Cuando lanzas una bomba, haces una tirada de ataque con arma contra la CA del objetivo, como harías con cualquier otra arma. Se necesita una mano para sacar, preparar y lanzar una bomba. La bomba se activa al ser lanzada como un Golpe; no tienes que activarla por separado. Al ser consumibles, las bombas no pueden tener runas grabadas, talismanes adheridos, ni beneficiarse de runas concedidas de otros modos (como por conjuros o por objetos que replican runas de otros objetos). Los conjuros y objetos mágicos que te dan un bonificador a todos tus ataques (o a todas las armas arrojadizas, por ejemplo) pueden seguir aplicándose a ellas.
 
-### Splash Trait
+### Rasgo de salpicadura
 
-Some weapons and effects, such as alchemical bombs, have the splash trait. When you use a weapon or effect with the splash trait, you don't add your Strength modifier to the damage roll. A splash weapon or effect deals any listed splash damage to the target on a failure, success, or critical success and to all other creatures within 5 feet of the target on a success or critical success. On a critical failure, the weapon or effect misses entirely, dealing no damage. Add splash damage together with the initial damage against the target before applying the target's resistance or weakness. You don't multiply splash damage on a critical hit.
+Algunas armas y efectos, como las bombas alquímicas, tienen el rasgo salpicadura. Cuando usas un arma o efecto con el rasgo salpicadura, no añades tu modificador de Fuerza a la tirada de daño. Un arma o efecto de salpicadura inflige el daño por salpicadura indicado al objetivo con un fallo, éxito o éxito crítico, y a todas las demás criaturas a 5 pies del objetivo con un éxito o éxito crítico. Con un fallo crítico, el arma o efecto falla por completo y no inflige daño. Suma el daño por salpicadura junto con el daño inicial contra el objetivo antes de aplicar la resistencia o debilidad del objetivo. No multiplicas el daño por salpicadura con un golpe crítico.
 
-For example, if you throw a lesser acid flask and hit your target, that creature takes 1 acid damage, 1d6 persistent acid damage, and 1 acid splash damage. All other creatures within 5 feet of it take 1 acid splash damage. On a critical hit, the target takes 2 acid damage and 2d6 persistent acid damage, but the splash damage is still 1. If you miss, the target takes only 1 splash damage. If you critically fail, no one takes any damage.
+Por ejemplo, si lanzas un frasco de ácido menor e impactas al objetivo, esa criatura recibe 1 de daño de ácido, 1d6 de daño de ácido persistente y 1 de daño de ácido por salpicadura. Todas las demás criaturas a 5 pies de él reciben 1 de daño de ácido por salpicadura. Con un golpe crítico, el objetivo recibe 2 de daño de ácido y 2d6 de daño de ácido persistente, pero el daño por salpicadura sigue siendo 1. Si fallas, el objetivo recibe solo 1 de daño por salpicadura. Si fallas críticamente, nadie recibe daño.
 
 ---
 
-### Acid Flask · Item 1+
+### Frasco de ácido · Objeto 1+
 
-**Traits:** Acid, Alchemical, Bomb, Consumable, Splash
+**Rasgos:** Ácido, Alquímico, Bomba, Consumible, Salpicadura
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ Strike
+**Activar** ◆ Golpe
 
-This flask filled with corrosive acid deals 1 acid damage, the listed persistent acid damage, and the listed acid splash damage. Many types grant an item bonus to attack rolls.
+Este frasco lleno de ácido corrosivo inflige 1 de daño de ácido, el daño de ácido persistente indicado y el daño de ácido por salpicadura indicado. Muchos tipos conceden un bonificador de objeto a las tiradas de ataque.
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 1d6 persistent acid damage, 1 acid splash damage |
-| Moderate | 3 | 10 gp | +1 item bonus to attack rolls, 2d6 persistent acid damage, 2 acid splash damage |
-| Greater | 11 | 250 gp | +2 item bonus to attack rolls, 3d6 persistent acid damage, 3 acid splash damage |
-| Major | 17 | 2,500 gp | +3 item bonus to attack rolls, 4d6 persistent acid damage, 4 acid splash damage |
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | 1d6 de daño de ácido persistente; 1 de daño de ácido por salpicadura |
+| Moderado | 3 | 10 mo | Bonificador de objeto +1 a las tiradas de ataque; 2d6 de daño de ácido persistente; 2 de daño de ácido por salpicadura |
+| Mayor | 11 | 250 mo | Bonificador de objeto +2 a las tiradas de ataque; 3d6 de daño de ácido persistente; 3 de daño de ácido por salpicadura |
+| Superior | 17 | 2.500 mo | Bonificador de objeto +3 a las tiradas de ataque; 4d6 de daño de ácido persistente; 4 de daño de ácido por salpicadura |
 
 ---
 
