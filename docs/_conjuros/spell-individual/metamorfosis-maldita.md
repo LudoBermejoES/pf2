@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/metamorfosis-maldita/
 title: Metamorfosis Maldita
 chapter: Conjuros

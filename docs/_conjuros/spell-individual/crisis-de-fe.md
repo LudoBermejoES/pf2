@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/crisis-de-fe/
 title: Crisis de Fe
 chapter: Conjuros

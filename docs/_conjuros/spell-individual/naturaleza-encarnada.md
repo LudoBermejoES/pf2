@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/naturaleza-encarnada/
 title: Naturaleza Encarnada
 chapter: Conjuros

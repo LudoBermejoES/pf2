@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/resiliencia-de-la-montana/
 title: Resiliencia de la Montaña
 chapter: Conjuros

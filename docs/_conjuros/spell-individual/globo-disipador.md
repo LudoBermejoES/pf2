@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/globo-disipador/
 title: Globo Disipador
 chapter: Conjuros

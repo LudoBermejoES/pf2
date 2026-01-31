@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/culebrear-/
 title: Culebrear ◆◆/◆◆◆
 chapter: Conjuros

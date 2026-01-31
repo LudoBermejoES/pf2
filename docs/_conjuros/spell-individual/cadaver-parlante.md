@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cadaver-parlante/
 title: Cadaver Parlante
 chapter: Conjuros

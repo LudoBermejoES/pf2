@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-constructo/
 title: Convocar Constructo
 chapter: Conjuros

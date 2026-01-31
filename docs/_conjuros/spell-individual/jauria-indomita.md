@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/jauria-indomita/
 title: Jauria Indomita
 chapter: Conjuros

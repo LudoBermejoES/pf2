@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/crear-agua/
 title: Crear Agua
 chapter: Conjuros

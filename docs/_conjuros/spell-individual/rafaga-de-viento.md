@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/rafaga-de-viento/
 title: Ráfaga de Viento
 chapter: Conjuros

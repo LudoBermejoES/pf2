@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ventisca-aullante-a/
 title: Ventisca Aullante ◆◆ a
 chapter: Conjuros

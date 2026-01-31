@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/descarga-de-fuerza-a/
 title: Descarga de Fuerza ◆ a
 chapter: Conjuros

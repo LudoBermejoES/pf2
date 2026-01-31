@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/hablar-con-los-animales/
 title: Hablar con los Animales
 chapter: Conjuros

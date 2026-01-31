@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cuerpo-flamigero/
 title: Cuerpo Flamigero
 chapter: Conjuros

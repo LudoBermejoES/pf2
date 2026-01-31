@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ejecutar/
 title: Ejecutar
 chapter: Conjuros

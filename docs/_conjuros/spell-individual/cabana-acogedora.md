@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cabana-acogedora/
 title: Cabaña Acogedora
 chapter: Conjuros

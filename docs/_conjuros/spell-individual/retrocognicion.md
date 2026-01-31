@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/retrocognicion/
 title: Retrocognición
 chapter: Conjuros

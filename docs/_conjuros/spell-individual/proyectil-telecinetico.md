@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/proyectil-telecinetico/
 title: Proyectil Telecinético
 chapter: Conjuros

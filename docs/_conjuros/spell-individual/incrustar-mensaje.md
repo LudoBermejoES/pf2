@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/incrustar-mensaje/
 title: Incrustar Mensaje
 chapter: Conjuros

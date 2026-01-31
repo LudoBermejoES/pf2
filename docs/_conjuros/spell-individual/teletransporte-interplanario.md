@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/teletransporte-interplanario/
 title: Teletransporte Interplanario
 chapter: Conjuros

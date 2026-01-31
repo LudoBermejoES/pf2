@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/distorsion-del-vacio/
 title: Distorsion del Vacio
 chapter: Conjuros

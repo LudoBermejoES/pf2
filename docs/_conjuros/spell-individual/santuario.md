@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/santuario/
 title: Santuario
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/sello/
 title: Sello
 chapter: Conjuros

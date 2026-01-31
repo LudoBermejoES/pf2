@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cuerpo-sano/
 title: Cuerpo Sano
 chapter: Conjuros

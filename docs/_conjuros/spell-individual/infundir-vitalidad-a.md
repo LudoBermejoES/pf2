@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/infundir-vitalidad-a/
 title: Infundir Vitalidad ◆ a
 chapter: Conjuros

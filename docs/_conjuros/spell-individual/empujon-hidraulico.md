@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/empujon-hidraulico/
 title: Empujon Hidraulico
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/indestructibilidad/
 title: Indestructibilidad
 chapter: Conjuros

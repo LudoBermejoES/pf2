@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/revivir-a-los-muertos/
 title: Revivir a los Muertos
 chapter: Conjuros

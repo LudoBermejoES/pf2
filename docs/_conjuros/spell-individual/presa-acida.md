@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/presa-acida/
 title: Presa Ácida
 chapter: Conjuros

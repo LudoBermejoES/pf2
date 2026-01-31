@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/vendetta-de-sangre-/
 title: Vendetta de Sangre ↺
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/conviccion-celosa/
 title: Conviccion Celosa
 chapter: Conjuros

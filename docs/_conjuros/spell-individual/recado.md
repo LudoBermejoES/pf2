@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/recado/
 title: Recado
 chapter: Conjuros

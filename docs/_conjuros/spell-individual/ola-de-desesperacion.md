@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ola-de-desesperacion/
 title: Ola de Desesperación
 chapter: Conjuros

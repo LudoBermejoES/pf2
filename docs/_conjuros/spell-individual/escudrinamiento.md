@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/escudrinamiento/
 title: Escudrinamiento
 chapter: Conjuros

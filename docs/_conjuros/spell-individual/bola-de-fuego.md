@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/bola-de-fuego/
 title: Bola de Fuego
 chapter: Conjuros

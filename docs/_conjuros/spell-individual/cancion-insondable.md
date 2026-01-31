@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cancion-insondable/
 title: Cancion Insondable
 chapter: Conjuros

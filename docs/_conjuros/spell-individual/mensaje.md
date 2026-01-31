@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/mensaje/
 title: Mensaje
 chapter: Conjuros

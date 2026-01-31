@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/azote-de-vitalidad/
 title: Azote de Vitalidad
 chapter: Conjuros

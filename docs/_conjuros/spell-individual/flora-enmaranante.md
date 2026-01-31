@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/flora-enmaranante/
 title: Flora Enmaranante
 chapter: Conjuros

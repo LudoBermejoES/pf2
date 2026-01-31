@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/hablar-con-las-plantas/
 title: Hablar con las Plantas
 chapter: Conjuros

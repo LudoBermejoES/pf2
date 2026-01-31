@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/detectar-magia/
 title: Detectar Magia
 chapter: Conjuros

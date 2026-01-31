@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/escena-ilusoria/
 title: Escena Ilusoria
 chapter: Conjuros

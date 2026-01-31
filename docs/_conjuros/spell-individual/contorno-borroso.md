@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/contorno-borroso/
 title: Contorno Borroso
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/detectar-veneno/
 title: Detectar Veneno
 chapter: Conjuros

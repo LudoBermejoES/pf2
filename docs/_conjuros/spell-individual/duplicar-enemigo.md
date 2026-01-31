@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/duplicar-enemigo/
 title: Duplicar Enemigo
 chapter: Conjuros

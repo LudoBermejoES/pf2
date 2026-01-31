@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/disfraz-ilusorio/
 title: Disfraz Ilusorio
 chapter: Conjuros

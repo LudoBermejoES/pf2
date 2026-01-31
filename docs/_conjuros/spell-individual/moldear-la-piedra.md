@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/moldear-la-piedra/
 title: Moldear la Piedra
 chapter: Conjuros

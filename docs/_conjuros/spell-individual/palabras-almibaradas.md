@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/palabras-almibaradas/
 title: Palabras Almibaradas
 chapter: Conjuros

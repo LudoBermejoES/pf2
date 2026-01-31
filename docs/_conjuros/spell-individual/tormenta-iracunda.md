@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/tormenta-iracunda/
 title: Tormenta Iracunda
 chapter: Conjuros

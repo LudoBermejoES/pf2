@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-ser/
 title: Convocar Ser
 chapter: Conjuros

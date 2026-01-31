@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ojo-explorador/
 title: Ojo Explorador
 chapter: Conjuros

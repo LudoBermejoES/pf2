@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/orbe-acuoso/
 title: Orbe Acuoso
 chapter: Conjuros

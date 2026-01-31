@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/senda-de-la-naturaleza/
 title: Senda de la Naturaleza
 chapter: Conjuros

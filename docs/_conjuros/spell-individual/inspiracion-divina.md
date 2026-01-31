@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/inspiracion-divina/
 title: Inspiracion Divina
 chapter: Conjuros

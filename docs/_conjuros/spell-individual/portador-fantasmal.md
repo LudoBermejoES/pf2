@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/portador-fantasmal/
 title: Portador Fantasmal
 chapter: Conjuros

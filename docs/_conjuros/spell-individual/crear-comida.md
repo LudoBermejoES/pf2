@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/crear-comida/
 title: Crear Comida
 chapter: Conjuros

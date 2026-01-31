@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/estallar/
 title: Estallar
 chapter: Conjuros

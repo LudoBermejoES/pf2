@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/muro-de-espinos/
 title: Muro de Espinos
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/disipar-magia/
 title: Disipar Magia
 chapter: Conjuros

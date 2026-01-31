@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/presciencia/
 title: Presciencia
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/sonda-mental/
 title: Sonda Mental
 chapter: Conjuros

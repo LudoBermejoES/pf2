@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/disfrazar-magia/
 title: Disfrazar Magia
 chapter: Conjuros

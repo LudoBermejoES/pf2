@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/limpiar-cocinados/
 title: Limpiar Cocinados
 chapter: Conjuros

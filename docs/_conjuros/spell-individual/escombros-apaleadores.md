@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/escombros-apaleadores/
 title: Escombros Apaleadores
 chapter: Conjuros

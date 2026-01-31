@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/dilema/
 title: Dilema
 chapter: Conjuros

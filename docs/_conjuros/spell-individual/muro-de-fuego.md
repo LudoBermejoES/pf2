@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/muro-de-fuego/
 title: Muro de Fuego
 chapter: Conjuros

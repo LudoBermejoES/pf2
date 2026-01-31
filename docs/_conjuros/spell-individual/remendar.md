@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/remendar/
 title: Remendar
 chapter: Conjuros

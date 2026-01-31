@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/falsa-vision/
 title: Falsa Vision
 chapter: Conjuros

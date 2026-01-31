@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/leer-la-mente/
 title: Leer la Mente
 chapter: Conjuros

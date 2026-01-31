@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/uno-con-las-plantas/
 title: Uno con las Plantas
 chapter: Conjuros

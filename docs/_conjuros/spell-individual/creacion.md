@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/creacion/
 title: Creacion
 chapter: Conjuros

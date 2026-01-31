@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/doble-enganoso/
 title: Doble Enganoso
 chapter: Conjuros

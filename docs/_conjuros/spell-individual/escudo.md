@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/escudo/
 title: Escudo
 chapter: Conjuros

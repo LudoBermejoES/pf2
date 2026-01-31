@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/monos-locos/
 title: Monos Locos
 chapter: Conjuros

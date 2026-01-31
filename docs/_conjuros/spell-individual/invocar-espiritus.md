@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/invocar-espiritus/
 title: Invocar Espiritus
 chapter: Conjuros

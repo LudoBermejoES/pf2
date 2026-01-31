@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/danza-incontrolable/
 title: Danza Incontrolable
 chapter: Conjuros

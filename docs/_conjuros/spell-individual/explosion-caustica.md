@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/explosion-caustica/
 title: Explosion Caustica
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/momento-de-renovacion/
 title: Momento de Renovacion
 chapter: Conjuros

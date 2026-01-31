@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ignicion/
 title: Ignicion
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-infernal/
 title: Convocar Infernal
 chapter: Conjuros

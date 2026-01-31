@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/luz-sagrada/
 title: Luz Sagrada
 chapter: Conjuros

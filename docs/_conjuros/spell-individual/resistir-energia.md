@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/resistir-energia/
 title: Resistir Energía
 chapter: Conjuros

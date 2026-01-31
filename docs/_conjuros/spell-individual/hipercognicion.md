@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/hipercognicion/
 title: Hipercognicion
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/respirar-agua/
 title: Respirar Agua
 chapter: Conjuros

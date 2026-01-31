@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/vinculo-espiritual/
 title: Vinculo Espiritual
 chapter: Conjuros

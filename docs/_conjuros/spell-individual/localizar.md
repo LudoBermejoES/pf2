@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/localizar/
 title: Localizar
 chapter: Conjuros

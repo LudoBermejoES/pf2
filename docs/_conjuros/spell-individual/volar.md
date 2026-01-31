@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/volar/
 title: Volar
 chapter: Conjuros

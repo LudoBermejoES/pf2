@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-de-dinosaurio/
 title: Forma de Dinosaurio
 chapter: Conjuros

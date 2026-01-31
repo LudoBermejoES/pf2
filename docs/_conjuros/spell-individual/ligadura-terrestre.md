@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ligadura-terrestre/
 title: Ligadura Terrestre
 chapter: Conjuros

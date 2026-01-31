@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/limpiar-afliccion/
 title: Limpiar Afliccion
 chapter: Conjuros

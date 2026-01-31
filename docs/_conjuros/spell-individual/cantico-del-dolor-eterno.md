@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cantico-del-dolor-eterno/
 title: Cantico del Dolor Eterno
 chapter: Conjuros

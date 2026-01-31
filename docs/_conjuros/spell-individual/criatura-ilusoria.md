@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/criatura-ilusoria/
 title: Criatura Ilusoria
 chapter: Conjuros

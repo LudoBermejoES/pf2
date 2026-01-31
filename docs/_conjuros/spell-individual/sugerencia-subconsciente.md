@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/sugerencia-subconsciente/
 title: Sugerencia Subconsciente
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ventriloquia/
 title: Ventriloquia
 chapter: Conjuros

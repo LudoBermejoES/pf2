@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/grieta-artica/
 title: Grieta Artica
 chapter: Conjuros

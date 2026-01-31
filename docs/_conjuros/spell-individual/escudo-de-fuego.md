@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/escudo-de-fuego/
 title: Escudo de Fuego
 chapter: Conjuros

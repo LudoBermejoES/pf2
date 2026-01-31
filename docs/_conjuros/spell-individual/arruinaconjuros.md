@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/arruinaconjuros/
 title: Arruinaconjuros
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cataclismo/
 title: Cataclismo
 chapter: Conjuros

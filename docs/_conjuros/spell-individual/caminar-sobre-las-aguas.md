@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/caminar-sobre-las-aguas/
 title: Caminar Sobre las Aguas
 chapter: Conjuros

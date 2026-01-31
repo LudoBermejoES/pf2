@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/carga-de-la-hormiga/
 title: Carga de la Hormiga
 chapter: Conjuros

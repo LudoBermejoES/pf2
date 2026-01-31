@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/luz-eterna/
 title: Luz Eterna
 chapter: Conjuros

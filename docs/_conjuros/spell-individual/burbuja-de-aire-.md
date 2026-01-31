@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/burbuja-de-aire-/
 title: Burbuja de Aire ↺
 chapter: Conjuros

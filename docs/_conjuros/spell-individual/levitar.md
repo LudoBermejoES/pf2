@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/levitar/
 title: Levitar
 chapter: Conjuros

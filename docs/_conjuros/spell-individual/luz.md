@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/luz/
 title: Luz
 chapter: Conjuros

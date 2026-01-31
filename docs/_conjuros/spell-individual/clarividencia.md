@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/clarividencia/
 title: Clarividencia
 chapter: Conjuros

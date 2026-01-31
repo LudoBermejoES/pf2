@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/atadura-planaria/
 title: Atadura Planaria
 chapter: Conjuros

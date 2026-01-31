@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/sugerencia/
 title: Sugerencia
 chapter: Conjuros

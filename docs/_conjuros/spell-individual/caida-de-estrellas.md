@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/caida-de-estrellas/
 title: Caida de Estrellas
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/heroismo/
 title: Heroismo
 chapter: Conjuros

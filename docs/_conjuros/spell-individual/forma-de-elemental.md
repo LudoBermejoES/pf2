@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-de-elemental/
 title: Forma de Elemental
 chapter: Conjuros

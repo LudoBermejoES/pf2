@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-animal/
 title: Forma Animal
 chapter: Conjuros

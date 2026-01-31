@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/mano-telecinetica/
 title: Mano Telecinetica
 chapter: Conjuros

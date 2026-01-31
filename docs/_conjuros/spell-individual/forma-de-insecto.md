@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-de-insecto/
 title: Forma de Insecto
 chapter: Conjuros

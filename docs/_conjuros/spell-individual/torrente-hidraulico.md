@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/torrente-hidraulico/
 title: Torrente Hidraulico
 chapter: Conjuros

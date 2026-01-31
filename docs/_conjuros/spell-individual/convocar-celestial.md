@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-celestial/
 title: Convocar Celestial
 chapter: Conjuros

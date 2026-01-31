@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cerrar/
 title: Cerrar
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/vision-en-la-oscuridad/
 title: Vision en la Oscuridad
 chapter: Conjuros

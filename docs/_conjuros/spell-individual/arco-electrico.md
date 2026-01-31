@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/arco-electrico/
 title: Arco Eléctrico
 chapter: Conjuros

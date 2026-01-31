@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ubicar/
 title: Ubicar
 chapter: Conjuros

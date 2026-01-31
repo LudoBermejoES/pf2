@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/controlar-las-aguas/
 title: Controlar las Aguas
 chapter: Conjuros

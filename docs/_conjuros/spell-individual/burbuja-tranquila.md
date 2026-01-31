@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/burbuja-tranquila/
 title: Burbuja Tranquila
 chapter: Conjuros

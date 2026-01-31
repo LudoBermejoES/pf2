@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/fantasia/
 title: Fantasia
 chapter: Conjuros

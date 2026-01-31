@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/detonar-magia/
 title: Detonar Magia
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/distorsionar-la-mente/
 title: Distorsionar la Mente
 chapter: Conjuros

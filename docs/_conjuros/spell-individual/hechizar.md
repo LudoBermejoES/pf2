@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/hechizar/
 title: Hechizar
 chapter: Conjuros

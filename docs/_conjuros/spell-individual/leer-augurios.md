@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/leer-augurios/
 title: Leer Augurios
 chapter: Conjuros

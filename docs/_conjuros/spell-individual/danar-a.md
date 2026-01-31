@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/danar-a/
 title: Danar ◆ a
 chapter: Conjuros

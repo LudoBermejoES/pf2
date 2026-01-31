@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/manifestacion/
 title: Manifestacion
 chapter: Conjuros

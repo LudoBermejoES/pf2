@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/avatar/
 title: Avatar
 chapter: Conjuros

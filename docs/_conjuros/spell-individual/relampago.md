@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/relampago/
 title: Relámpago
 chapter: Conjuros

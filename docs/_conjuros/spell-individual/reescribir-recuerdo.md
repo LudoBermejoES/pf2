@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/reescribir-recuerdo/
 title: Reescribir Recuerdo
 chapter: Conjuros

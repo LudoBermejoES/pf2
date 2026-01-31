@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/campo-de-vida/
 title: Campo de Vida
 chapter: Conjuros

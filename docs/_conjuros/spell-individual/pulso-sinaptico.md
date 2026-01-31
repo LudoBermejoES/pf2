@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/pulso-sinaptico/
 title: Pulso Sináptico
 chapter: Conjuros

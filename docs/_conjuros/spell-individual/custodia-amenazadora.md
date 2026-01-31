@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/custodia-amenazadora/
 title: Custodia Amenazadora
 chapter: Conjuros

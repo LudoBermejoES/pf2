@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/explosion-solar/
 title: Explosion Solar
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/potencial-onirico/
 title: Potencial Onírico
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/mascara-del-terror/
 title: Mascara del Terror
 chapter: Conjuros

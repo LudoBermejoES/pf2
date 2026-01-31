@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/nube-toxica/
 title: Nube Tóxica
 chapter: Conjuros

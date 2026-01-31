@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/montura-maravillosa/
 title: Montura Maravillosa
 chapter: Conjuros

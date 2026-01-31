@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/dominar/
 title: Dominar
 chapter: Conjuros

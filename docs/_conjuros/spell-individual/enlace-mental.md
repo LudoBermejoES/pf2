@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/enlace-mental/
 title: Enlace Mental
 chapter: Conjuros

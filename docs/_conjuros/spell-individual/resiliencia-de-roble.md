@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/resiliencia-de-roble/
 title: Resiliencia de Roble
 chapter: Conjuros

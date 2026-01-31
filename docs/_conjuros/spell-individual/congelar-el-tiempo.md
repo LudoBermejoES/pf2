@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/congelar-el-tiempo/
 title: Congelar el Tiempo
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/palacio-planario/
 title: Palacio Planario
 chapter: Conjuros

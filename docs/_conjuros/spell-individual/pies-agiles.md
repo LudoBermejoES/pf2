@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/pies-agiles/
 title: Pies Ágiles
 chapter: Conjuros

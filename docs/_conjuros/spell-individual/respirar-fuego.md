@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/respirar-fuego/
 title: Respirar Fuego
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/calamidad-fantasmal/
 title: Calamidad Fantasmal
 chapter: Conjuros

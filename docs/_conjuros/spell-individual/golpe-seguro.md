@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/golpe-seguro/
 title: Golpe Seguro
 chapter: Conjuros

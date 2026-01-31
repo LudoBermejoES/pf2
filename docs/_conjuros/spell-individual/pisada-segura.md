@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/pisada-segura/
 title: Pisada Segura
 chapter: Conjuros

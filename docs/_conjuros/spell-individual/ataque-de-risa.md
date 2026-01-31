@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ataque-de-risa/
 title: Ataque de Risa
 chapter: Conjuros

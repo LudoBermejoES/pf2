@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/baliza-vital/
 title: Baliza Vital
 chapter: Conjuros

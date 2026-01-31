@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/frenesi-lunar/
 title: Frenesi Lunar
 chapter: Conjuros

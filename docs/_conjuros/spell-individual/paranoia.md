@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/paranoia/
 title: Paranoia
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-de-dragon/
 title: Forma de Dragon
 chapter: Conjuros

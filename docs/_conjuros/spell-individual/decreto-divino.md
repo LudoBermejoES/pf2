@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/decreto-divino/
 title: Decreto Divino
 chapter: Conjuros

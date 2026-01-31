@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/arma-runica/
 title: Arma Runica
 chapter: Conjuros

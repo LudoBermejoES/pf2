@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cambiar-de-sitio/
 title: Cambiar de Sitio
 chapter: Conjuros

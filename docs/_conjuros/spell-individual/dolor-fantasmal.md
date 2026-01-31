@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/dolor-fantasmal/
 title: Dolor Fantasmal
 chapter: Conjuros

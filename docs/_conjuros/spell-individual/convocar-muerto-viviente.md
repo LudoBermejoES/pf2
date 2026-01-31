@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-muerto-viviente/
 title: Convocar Muerto Viviente
 chapter: Conjuros

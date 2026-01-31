@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cuerpo-runico/
 title: Cuerpo Runico
 chapter: Conjuros

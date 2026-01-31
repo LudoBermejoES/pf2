@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/movimiento-sin-restricciones/
 title: Movimiento sin Restricciones
 chapter: Conjuros

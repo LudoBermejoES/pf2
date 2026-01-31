@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/orientacion/
 title: Orientación
 chapter: Conjuros

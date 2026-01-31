@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/azote/
 title: Azote
 chapter: Conjuros

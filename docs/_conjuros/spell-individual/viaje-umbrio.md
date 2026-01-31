@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/viaje-umbrio/
 title: Viaje Umbrio
 chapter: Conjuros

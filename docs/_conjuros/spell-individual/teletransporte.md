@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/teletransporte/
 title: Teletransporte
 chapter: Conjuros

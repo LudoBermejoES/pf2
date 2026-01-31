@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/limite-bendito/
 title: Limite Bendito
 chapter: Conjuros

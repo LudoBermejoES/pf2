@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/oscuridad/
 title: Oscuridad
 chapter: Conjuros

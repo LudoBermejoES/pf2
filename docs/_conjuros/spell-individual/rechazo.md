@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/rechazo/
 title: Rechazo
 chapter: Conjuros

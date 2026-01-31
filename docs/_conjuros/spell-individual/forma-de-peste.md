@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-de-peste/
 title: Forma de Peste
 chapter: Conjuros

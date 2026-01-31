@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/hipnotizar/
 title: Hipnotizar
 chapter: Conjuros

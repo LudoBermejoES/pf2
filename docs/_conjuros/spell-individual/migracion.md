@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/migracion/
 title: Migracion
 chapter: Conjuros

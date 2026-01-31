@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/conocer-el-camino/
 title: Conocer el Camino
 chapter: Conjuros

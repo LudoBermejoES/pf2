@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-animal/
 title: Convocar Animal
 chapter: Conjuros

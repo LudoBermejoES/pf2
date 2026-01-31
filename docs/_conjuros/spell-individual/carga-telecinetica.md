@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/carga-telecinetica/
 title: Carga Telecinetica
 chapter: Conjuros

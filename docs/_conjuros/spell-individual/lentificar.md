@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/lentificar/
 title: Lentificar
 chapter: Conjuros

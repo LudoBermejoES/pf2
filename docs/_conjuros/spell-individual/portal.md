@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/portal/
 title: Portal
 chapter: Conjuros

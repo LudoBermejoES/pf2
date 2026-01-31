@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/armadura-mistica/
 title: Armadura Mistica
 chapter: Conjuros

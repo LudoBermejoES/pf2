@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/encoger/
 title: Encoger
 chapter: Conjuros

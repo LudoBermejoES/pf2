@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/viruela-de-goblin/
 title: Viruela de Goblin
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/explosion-espiritual/
 title: Explosion Espiritual
 chapter: Conjuros

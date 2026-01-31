@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/lanza-divina/
 title: Lanza Divina
 chapter: Conjuros

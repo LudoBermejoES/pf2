@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/terremoto/
 title: Terremoto
 chapter: Conjuros

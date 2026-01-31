@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/uno-con-la-piedra/
 title: Uno con la Piedra
 chapter: Conjuros

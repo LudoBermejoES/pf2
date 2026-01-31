@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/esbirro-fantasmal/
 title: Esbirro Fantasmal
 chapter: Conjuros

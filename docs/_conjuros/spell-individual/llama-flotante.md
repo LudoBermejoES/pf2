@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/llama-flotante/
 title: Llama Flotante
 chapter: Conjuros

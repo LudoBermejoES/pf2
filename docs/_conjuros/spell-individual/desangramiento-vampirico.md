@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/desangramiento-vampirico/
 title: Desangramiento Vampirico
 chapter: Conjuros

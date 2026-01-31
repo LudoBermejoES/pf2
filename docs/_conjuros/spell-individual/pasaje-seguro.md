@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/pasaje-seguro/
 title: Pasaje Seguro
 chapter: Conjuros

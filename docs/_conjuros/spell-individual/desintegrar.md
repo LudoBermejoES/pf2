@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/desintegrar/
 title: Desintegrar
 chapter: Conjuros

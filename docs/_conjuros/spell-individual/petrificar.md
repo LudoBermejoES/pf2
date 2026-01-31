@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/petrificar/
 title: Petrificar
 chapter: Conjuros

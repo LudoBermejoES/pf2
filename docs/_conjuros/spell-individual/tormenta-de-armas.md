@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/tormenta-de-armas/
 title: Tormenta de Armas
 chapter: Conjuros

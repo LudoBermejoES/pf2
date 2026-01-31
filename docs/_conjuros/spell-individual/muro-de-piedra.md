@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/muro-de-piedra/
 title: Muro de Piedra
 chapter: Conjuros

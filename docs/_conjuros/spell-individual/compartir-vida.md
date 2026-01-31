@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/compartir-vida/
 title: Compartir Vida
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/hablar-con-las-piedras/
 title: Hablar con las Piedras
 chapter: Conjuros

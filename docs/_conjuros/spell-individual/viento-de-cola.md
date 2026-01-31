@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/viento-de-cola/
 title: Viento de Cola
 chapter: Conjuros

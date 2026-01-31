@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/zarcillos-macabros/
 title: Zarcillos Macabros
 chapter: Conjuros

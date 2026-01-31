@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-dragon/
 title: Convocar Dragon
 chapter: Conjuros

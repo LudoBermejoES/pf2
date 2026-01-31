@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/vision-verdadera/
 title: Vision Verdadera
 chapter: Conjuros

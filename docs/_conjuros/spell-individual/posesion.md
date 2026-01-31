@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/posesion/
 title: Posesión
 chapter: Conjuros

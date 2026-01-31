@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/despejar-la-mente/
 title: Despejar la Mente
 chapter: Conjuros

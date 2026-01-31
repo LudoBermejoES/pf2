@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/detectar-escudrinamiento/
 title: Detectar Escudrinamiento
 chapter: Conjuros

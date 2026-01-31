@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/virote-ardiente-a/
 title: Virote Ardiente ◆ a
 chapter: Conjuros

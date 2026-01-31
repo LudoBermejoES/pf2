@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/zarcillo-enmaranador/
 title: Zarcillo Enmaranador
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/armamento-espiritual/
 title: Armamento Espiritual
 chapter: Conjuros

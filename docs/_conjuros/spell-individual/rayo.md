@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/rayo/
 title: Rayo
 chapter: Conjuros

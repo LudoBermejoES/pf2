@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/explosion-de-sombra/
 title: Explosion de Sombra
 chapter: Conjuros

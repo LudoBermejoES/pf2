@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/leer-el-aura/
 title: Leer el Aura
 chapter: Conjuros

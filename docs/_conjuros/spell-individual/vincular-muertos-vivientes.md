@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/vincular-muertos-vivientes/
 title: Vincular Muertos Vivientes
 chapter: Conjuros

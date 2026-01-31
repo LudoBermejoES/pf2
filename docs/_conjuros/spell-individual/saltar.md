@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/saltar/
 title: Saltar
 chapter: Conjuros

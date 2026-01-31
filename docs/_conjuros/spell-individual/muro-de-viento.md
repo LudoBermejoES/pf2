@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/muro-de-viento/
 title: Muro de Viento
 chapter: Conjuros

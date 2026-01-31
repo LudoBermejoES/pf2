@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/masacre/
 title: Masacre
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/muro-de-fuerza/
 title: Muro de Fuerza
 chapter: Conjuros

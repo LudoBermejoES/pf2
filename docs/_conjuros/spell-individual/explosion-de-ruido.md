@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/explosion-de-ruido/
 title: Explosion de Ruido
 chapter: Conjuros

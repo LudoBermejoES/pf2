@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/desvanecer-rastros/
 title: Desvanecer Rastros
 chapter: Conjuros

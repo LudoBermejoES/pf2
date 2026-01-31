@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/traducir/
 title: Traducir
 chapter: Conjuros

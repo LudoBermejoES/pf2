@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/objetivo-verdadero/
 title: Objetivo Verdadero
 chapter: Conjuros

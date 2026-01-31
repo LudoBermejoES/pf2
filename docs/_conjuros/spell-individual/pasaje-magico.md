@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/pasaje-magico/
 title: Pasaje Mágico
 chapter: Conjuros

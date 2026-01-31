@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/proyectar-imagen/
 title: Proyectar Imagen
 chapter: Conjuros

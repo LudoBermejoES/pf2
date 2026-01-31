@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/desecar/
 title: Desecar
 chapter: Conjuros

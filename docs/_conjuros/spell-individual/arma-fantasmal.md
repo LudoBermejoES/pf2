@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/arma-fantasmal/
 title: Arma Fantasmal
 chapter: Conjuros

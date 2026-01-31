@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/muro-de-hielo/
 title: Muro de Hielo
 chapter: Conjuros

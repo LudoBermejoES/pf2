@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/orden/
 title: Orden
 chapter: Conjuros

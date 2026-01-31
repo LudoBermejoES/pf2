@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/maldicion-del-paria/
 title: Maldicion del Paria
 chapter: Conjuros

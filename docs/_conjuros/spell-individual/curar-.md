@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/curar-/
 title: Curar ◆/◆◆/◆◆◆
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/aterrizaje-suave-/
 title: Aterrizaje Suave ↺
 chapter: Conjuros

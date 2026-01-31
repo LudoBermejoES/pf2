@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/vientos-castigadores/
 title: Vientos Castigadores
 chapter: Conjuros

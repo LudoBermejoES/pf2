@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/garra-punzante/
 title: Garra Punzante
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/resurgimiento/
 title: Resurgimiento
 chapter: Conjuros

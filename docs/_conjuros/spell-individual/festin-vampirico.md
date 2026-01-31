@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/festin-vampirico/
 title: Festin Vampirico
 chapter: Conjuros

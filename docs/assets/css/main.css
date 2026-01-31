@@ -1256,3 +1256,76 @@ tbody tr:hover {
     text-decoration: underline;
   }
 }
+
+/* ============================================
+   SPELL LAYOUT - Compact Design
+   ============================================ */
+
+.spell-header {
+  margin-bottom: var(--spacing-md);
+}
+
+.spell-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--spacing-lg);
+  margin-bottom: var(--spacing-md);
+}
+
+.spell-title-row h1 {
+  margin: 0;
+  flex: 1;
+}
+
+.spell-body {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.spell-body h2 {
+  font-size: 1.125rem;
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-sm);
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 1px solid var(--border-primary);
+}
+
+.spell-body h3 {
+  font-size: 1rem;
+  margin-top: var(--spacing-md);
+  margin-bottom: var(--spacing-xs);
+}
+
+.spell-body > hr {
+  margin: var(--spacing-md) 0;
+  opacity: 0.5;
+}
+
+/* Spell metadata in compact format */
+.spell-body strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+/* Trait tags styling */
+.spell-traits-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: var(--spacing-md) 0;
+}
+
+.trait-tag {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  background: var(--pf-red-dark);
+  color: var(--pf-gold);
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: 1px solid var(--pf-gold-dark);
+  border-radius: 2px;
+}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-de-vapor/
 title: Forma de Vapor
 chapter: Conjuros

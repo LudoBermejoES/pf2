@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/tranquilo-descanso/
 title: Tranquilo Descanso
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-aerea/
 title: Forma Aerea
 chapter: Conjuros

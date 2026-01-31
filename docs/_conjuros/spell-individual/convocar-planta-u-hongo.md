@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-planta-u-hongo/
 title: Convocar Planta u Hongo
 chapter: Conjuros

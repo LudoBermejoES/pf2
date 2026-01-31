@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/desaparicion/
 title: Desaparicion
 chapter: Conjuros

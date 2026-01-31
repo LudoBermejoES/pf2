@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/bendicion/
 title: Bendicion
 chapter: Conjuros

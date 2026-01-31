@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/inmolacion-divina/
 title: Inmolacion Divina
 chapter: Conjuros

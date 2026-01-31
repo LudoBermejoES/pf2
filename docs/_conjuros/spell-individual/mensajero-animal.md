@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/mensajero-animal/
 title: Mensajero Animal
 chapter: Conjuros

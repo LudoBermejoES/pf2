@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ver-lo-invisible/
 title: Ver lo Invisible
 chapter: Conjuros

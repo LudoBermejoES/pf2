@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/maldicion-del-marinero/
 title: Maldicion del Marinero
 chapter: Conjuros

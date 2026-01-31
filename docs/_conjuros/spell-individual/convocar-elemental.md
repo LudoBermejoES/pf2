@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-elemental/
 title: Convocar Elemental
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/colores-mareantes/
 title: Colores Mareantes
 chapter: Conjuros

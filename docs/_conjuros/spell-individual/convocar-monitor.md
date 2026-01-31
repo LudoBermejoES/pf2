@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-monitor/
 title: Convocar Monitor
 chapter: Conjuros

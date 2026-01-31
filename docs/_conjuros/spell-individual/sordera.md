@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/sordera/
 title: Sordera
 chapter: Conjuros

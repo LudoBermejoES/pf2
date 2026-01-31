@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/cadena-de-relampagos/
 title: Cadena de Relampagos
 chapter: Conjuros

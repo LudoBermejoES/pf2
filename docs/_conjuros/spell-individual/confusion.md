@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/confusion/
 title: Confusion
 chapter: Conjuros

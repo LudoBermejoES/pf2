@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/refugio-para-mascota/
 title: Refugio para Mascota
 chapter: Conjuros

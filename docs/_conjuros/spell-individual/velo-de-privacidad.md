@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/velo-de-privacidad/
 title: Velo de Privacidad
 chapter: Conjuros

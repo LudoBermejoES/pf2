@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/vision-de-la-muerte/
 title: Vision de la Muerte
 chapter: Conjuros

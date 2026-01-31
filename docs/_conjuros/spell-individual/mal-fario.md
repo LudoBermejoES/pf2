@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/mal-fario/
 title: Mal Fario
 chapter: Conjuros

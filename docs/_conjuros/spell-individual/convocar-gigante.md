@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-gigante/
 title: Convocar Gigante
 chapter: Conjuros

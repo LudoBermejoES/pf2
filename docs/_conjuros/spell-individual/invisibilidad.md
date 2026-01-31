@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/invisibilidad/
 title: Invisibilidad
 chapter: Conjuros

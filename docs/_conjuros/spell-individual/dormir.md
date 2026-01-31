@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/dormir/
 title: Dormir
 chapter: Conjuros

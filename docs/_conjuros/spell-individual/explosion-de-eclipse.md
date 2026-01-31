@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/explosion-de-eclipse/
 title: Explosion de Eclipse
 chapter: Conjuros

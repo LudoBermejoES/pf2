@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/fachada-de-objeto/
 title: Fachada de Objeto
 chapter: Conjuros

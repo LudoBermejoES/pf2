@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/luz-reveladora/
 title: Luz Reveladora
 chapter: Conjuros

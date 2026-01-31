@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/habla-verdadera/
 title: Habla Verdadera
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/ocultar-la-mente/
 title: Ocultar la Mente
 chapter: Conjuros

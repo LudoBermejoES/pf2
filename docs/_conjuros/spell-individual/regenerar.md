@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/regenerar/
 title: Regenerar
 chapter: Conjuros

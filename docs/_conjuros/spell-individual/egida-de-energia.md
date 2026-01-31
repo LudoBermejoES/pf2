@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/egida-de-energia/
 title: Egida de Energia
 chapter: Conjuros

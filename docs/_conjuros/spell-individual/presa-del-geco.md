@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/presa-del-geco/
 title: Presa del Geco
 chapter: Conjuros

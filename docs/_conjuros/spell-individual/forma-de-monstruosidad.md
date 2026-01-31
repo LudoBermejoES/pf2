@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-de-monstruosidad/
 title: Forma de Monstruosidad
 chapter: Conjuros

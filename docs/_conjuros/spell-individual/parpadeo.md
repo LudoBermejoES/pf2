@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/parpadeo/
 title: Parpadeo
 chapter: Conjuros

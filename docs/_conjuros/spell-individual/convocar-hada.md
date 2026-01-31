@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-hada/
 title: Convocar Hada
 chapter: Conjuros

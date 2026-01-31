@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/estatus/
 title: Estatus
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/llamar/
 title: Llamar
 chapter: Conjuros

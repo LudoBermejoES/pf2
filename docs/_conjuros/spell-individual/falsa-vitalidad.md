@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/falsa-vitalidad/
 title: Falsa Vitalidad
 chapter: Conjuros

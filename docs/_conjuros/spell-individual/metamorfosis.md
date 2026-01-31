@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/metamorfosis/
 title: Metamorfosis
 chapter: Conjuros

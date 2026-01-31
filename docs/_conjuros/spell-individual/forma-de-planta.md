@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/forma-de-planta/
 title: Forma de Planta
 chapter: Conjuros

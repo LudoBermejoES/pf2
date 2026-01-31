@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/miedo/
 title: Miedo
 chapter: Conjuros

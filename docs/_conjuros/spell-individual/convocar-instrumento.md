@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/convocar-instrumento/
 title: Convocar Instrumento
 chapter: Conjuros

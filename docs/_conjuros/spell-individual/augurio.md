@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/augurio/
 title: Augurio
 chapter: Conjuros

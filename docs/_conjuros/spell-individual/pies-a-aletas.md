@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/pies-a-aletas/
 title: Pies a Aletas
 chapter: Conjuros

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/verdad-inventada/
 title: Verdad Inventada
 chapter: Conjuros

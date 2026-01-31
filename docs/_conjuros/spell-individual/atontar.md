@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: spell
 permalink: /conjuros/atontar/
 title: Atontar
 chapter: Conjuros

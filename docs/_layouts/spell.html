@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<header class="spell-header">
+  <div class="spell-title-row">
+    <h1>{{ page.title }}</h1>
+  </div>
+</header>
+
+<div class="spell-body">
+  {{ content }}
+</div>
+
+{% if page.related %}
+<section class="related-content">
+  <h2>Contenido Relacionado</h2>
+  <div class="related-grid">
+    {% for item in page.related %}
+    <a href="{{ item.url | relative_url }}" class="related-card">
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.description }}</p>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
