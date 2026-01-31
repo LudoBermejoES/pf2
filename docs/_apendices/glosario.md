@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /apéndices/glosario/
+permalink: /apendices/glosario/
 title: Glosario e Índice
 chapter: Apéndices
 category: apéndices

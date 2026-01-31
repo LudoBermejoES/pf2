@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/multiclase/clérigo/
+permalink: /clases/arquetipos/multiclase/clerigo/
 title: Arquetipo de Clérigo Multiclase
 chapter: Clases
 category: clases

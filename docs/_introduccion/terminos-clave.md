@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduccion/términos-clave/
+permalink: /introduccion/terminos-clave/
 title: Términos Clave
 chapter: Introduccion
 category: introduccion

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /apéndices/estados-a-e/
+permalink: /apendices/estados-a-e/
 title: Apendice de estados
 chapter: Apéndices
 category: apéndices

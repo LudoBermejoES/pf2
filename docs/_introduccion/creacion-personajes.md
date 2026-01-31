@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduccion/creación-personajes/
+permalink: /introduccion/creacion-personajes/
 title: Creación de Personajes
 chapter: Introduccion
 category: introduccion
