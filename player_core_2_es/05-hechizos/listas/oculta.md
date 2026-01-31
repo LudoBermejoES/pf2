@@ -1,88 +1,88 @@
-# Occult Spell List (Player Core 2 Additions)
+# Lista de Conjuros Ocultos (Añadidos de Player Core 2)
 
-An "H" indicates a spell has extra effects when heightened.
-U = Uncommon.
+Una «H» indica que un conjuro tiene efectos adicionales cuando está potenciado.
+U = Poco común.
 
-## Occult Cantrips
+## Trucos ocultos
 
-- **Bullhorn H** - Magnify your voice to be heard at a distance.
-- **Haunting Hymn H** - A powerful hymn harms and deafens.
+- **Megáfono H** - Amplifica tu voz para oírse a distancia.
+- **Himno inquietante H** - Un himno poderoso hiere y ensordece.
 
-## Occult 1st-Rank Spells
+## Conjuros ocultos de 1.º rango
 
-- **Carryall H** - A floating platform follows you, carrying objects.
-- **Concordant Choir H** - Damage foes with music.
-- **Déjà Vu** - Make a creature do the same thing repeatedly.
-- **Imprint Message** - Put a false psychic imprint in an object.
-- **Invisible Item H** - Make an item disappear.
-- **Object Reading H** - Get psychic impressions from an object.
-- **Schadenfreude** - Distract foes with their exultation at your failure.
-- **Thoughtful Gift H** - Teleport an item to an ally's grasp.
+- **Plataforma de carga H** - Una plataforma flotante te sigue, llevando objetos.
+- **Coro concordante H** - Daña a los enemigos con música.
+- **Déjà vu** - Obliga a una criatura a repetir la misma acción.
+- **Imprimir mensaje** - Inserta una falsa huella psíquica en un objeto.
+- **Objeto invisible H** - Haz que un objeto desaparezca.
+- **Lectura de objetos H** - Obtén impresiones psíquicas de un objeto.
+- **Schadenfreude** - Distrae a los enemigos con su regocijo por tu fallo.
+- **Regalo considerado H** - Teletransporta un objeto a la mano de un aliado.
 
-## Occult 2nd-Rank Spells
+## Conjuros ocultos de 2.º rango
 
-- **Animated Assault H** - Temporarily animate small objects to attack.
-- **Blistering Invective H** - Light a creature on fire with harsh words.
-- **Charitable Urge** - Make a creature give away an object.
-- **Final Sacrifice H** - Channel energy to blow up your minion.
-- **Ghoulish Cravings** - Afflict a creature with a craving for raw meat.
-- **Phantasmal Treasure** - Tempt a creature with an illusory reward.
-- **Reaper's Lantern** - A ghostly lantern diminishes healing for the living and weakens the undead.
-- **Spirit Sense H** - Detect spirits and haunts.
-- **Vomit Swarm H** - Vermin erupt in a cone from your mouth.
+- **Asalto animado H** - Anima temporalmente pequeños objetos para atacar.
+- **Invectiva abrasadora H** - Prende fuego a una criatura con palabras duras.
+- **Ímpetu caritativo** - Obliga a una criatura a regalar un objeto.
+- **Sacrificio final H** - Canaliza energía para hacer explotar a tu esbirro.
+- **Ansias necrófagas** - Afecta a una criatura con ansias de carne cruda.
+- **Tesoro fantasmal** - Tienta a una criatura con una recompensa ilusoria.
+- **Farol del Segador** - Un farol espectral merma la curación de los vivos y debilita a los no muertos.
+- **Sentido de espíritus H** - Detecta espíritus y apariciones.
+- **Vomitar enjambre H** - Alimañas erupcionan en un cono desde tu boca.
 
-## Occult 3rd-Rank Spells
+## Conjuros ocultos de 3.º rango
 
-- **Curse of Lost Time H** - Artificially erode or age a target.
-- **Familiar's Face** - Implant your senses and voice in your companion.
-- **Gravity Well** - Pull all creatures towards the center of a sphere of altered gravity.
-- **Rouse Skeletons H** - Rouse a squadron of skeletons to claw foes.
-- **Shared Invisibility H** - You and nearby creatures become invisible.
-- **Threefold Aspect** - Shift yourself between three ages.
-- **Wanderer's Guide** - Find an ideal route to a location.
+- **Maldición del tiempo perdido H** - Erosiona o envejece artificialmente a un objetivo.
+- **Rostro del familiar** - Implanta tus sentidos y voz en tu compañero.
+- **Pozo gravitatorio** - Atrae a todas las criaturas al centro de una esfera de gravedad alterada.
+- **Despertar esqueletos H** - Despierta un escuadrón de esqueletos para arañar enemigos.
+- **Invisibilidad compartida H** - Tú y criaturas cercanas os volvéis invisibles.
+- **Aspecto triple** - Te desplazas entre tres edades.
+- **Guía del caminante** - Encuentra una ruta ideal hacia un lugar.
 
-## Occult 4th-Rank Spells
+## Conjuros ocultos de 4.º rango
 
-- **Bestial Curse** - Make a humanoid take on features of a beast.
-- **Chroma Leach** - Sap the color and vitality from a living creature.
-- **Containment H** - Seal a creature in a sphere to contain or protect it.
-- **Countless Eyes** - Spawn magical eyes all over a creature's body.
-- **Dull Ambition** - Curse a creature with a lack of ambition.
-- **Ghostly Tragedy U** - Have spirits re-enact a violent event.
-- **Seal Fate H** - Curse a creature to be harmed by a type of damage.
-- **Vampiric Maiden H** - An iron maiden steals a creature's vitality.
-- **Whispers of the Void H** - Drain creatures' vigor with void energy.
+- **Maldición bestial** - Haz que un humanoide adopte rasgos de bestia.
+- **Sanguijuela cromática** - Roba el color y la vitalidad de una criatura viva.
+- **Contención H** - Encierra a una criatura en una esfera para contenerla o protegerla.
+- **Ojos innumerables** - Brotan ojos mágicos por todo el cuerpo de una criatura.
+- **Ambición apagada** - Maldice a una criatura con falta de ambición.
+- **Tragedia fantasmal U** - Haz que espíritus recreen un acontecimiento violento.
+- **Sellar destino H** - Maldice a una criatura para dañarla con un tipo de daño.
+- **Doncella vampírica H** - Una doncella de hierro roba la vitalidad de una criatura.
+- **Susurros del vacío H** - Drena el vigor de las criaturas con energía de vacío.
 
-## Occult 5th-Rank Spells
+## Conjuros ocultos de 5.º rango
 
-- **Blister H** - Grow blisters on a creature and pop them to spray acid.
-- **Cloak of Colors** - Bright colors dazzle and blind creatures.
-- **Drop Dead H, U** - The target appears to die, but turns invisible.
-- **Imaginary Lockbox** - Hide items in a mental compartment.
-- **Strange Geometry** - Confoundingly warp spatial geometry, making passage difficult and destinations unpredictable.
-- **Synesthesia H** - Rewire a creature's senses.
-- **Wall of Flesh H** - Spawn a wall of living flesh.
+- **Ampollas H** - Haz crecer ampollas y revéntalas para rociar ácido.
+- **Capa de colores** - Colores brillantes deslumbran y ciegan criaturas.
+- **Caer muerto H, U** - El objetivo parece morir, pero se vuelve invisible.
+- **Cofre imaginario** - Oculta objetos en un compartimento mental.
+- **Geometría extraña** - Deforma desconcertantemente la geometría espacial, dificultando el paso y volviendo impredecibles los destinos.
+- **Sinestesia H** - Reconfigura los sentidos de una criatura.
+- **Muro de carne H** - Genera un muro de carne viva.
 
-## Occult 6th-Rank Spells
+## Conjuros ocultos de 6.º rango
 
-- **Blanket of Stars** - A cloak of darkness hides you in the dark.
-- **Blinding Fury** - Curse a creature to be unable to see its victims.
-- **Collective Transposition H** - Teleport up to two creatures to new positions near you.
-- **Scintillating Safeguard H** - Reactively form a protective barrier.
+- **Manto de estrellas** - Una capa de oscuridad te oculta en la oscuridad.
+- **Furia cegadora** - Maldice a una criatura para que no vea a sus víctimas.
+- **Transposición colectiva H** - Teletransporta hasta dos criaturas a nuevas posiciones cercanas.
+- **Salvaguarda centelleante H** - Forma reactivamente una barrera protectora.
 
-## Occult 7th-Rank Spells
+## Conjuros ocultos de 7.º rango
 
-- **Spell Riposte U** - Reflect a spell targeted at you.
-- **Visions of Danger H** - A vision of a swarm deals mental damage.
+- **Rechazar conjuro U** - Refleja un conjuro dirigido contra ti.
+- **Visiones de peligro H** - Una visión de enjambre inflige daño mental.
 
-## Occult 8th-Rank Spells
+## Conjuros ocultos de 8.º rango
 
-- **Confusing Colors** - Dazzle, confuse, or stun creatures in a cloud.
-- **Dream Council** - Communicate through a shared dream.
-- **Spirit Song H** - Sing a song that damages any creature with a spirit.
-- **Spiritual Epidemic** - Weaken a target with a communicable curse.
+- **Colores confusos** - Deslumbra, confunde o aturde criaturas en una nube.
+- **Consejo onírico** - Comunícate mediante un sueño compartido.
+- **Canción de los espíritus H** - Entona una canción que daña a cualquier criatura con espíritu.
+- **Epidemia espiritual** - Debilita a un objetivo con una maldición transmisible.
 
-## Occult 9th-Rank Spells
+## Conjuros ocultos de 9.º rango
 
-- **Resplendent Mansion** - Conjure a towering mansion.
-- **Telepathic Demand** - Impel a creature with a mental message.
+- **Mansión resplandeciente** - Conjura una mansión imponente.
+- **Exigencia telepática** - Impulsa a una criatura con un mensaje mental.

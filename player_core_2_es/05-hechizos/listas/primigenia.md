@@ -1,71 +1,71 @@
-# Primal Spell List (Player Core 2 Additions)
+# Lista de Conjuros Primigenios (Añadidos de Player Core 2)
 
-An "H" indicates a spell has extra effects when heightened.
-U = Uncommon.
+Una «H» indica que un conjuro tiene efectos adicionales cuando está potenciado.
+U = Poco común.
 
-## Primal Cantrips
+## Trucos primigenios
 
-- **Gale Blast H** - Damage and push adjacent creatures with air.
-- **Live Wire H** - Slash and shock a creature with an electrified filament.
-- **Puff of Poison H** - Exhale toxins to poison a foe.
-- **Scatter Scree H** - Evoke rocks to bludgeon and create difficult terrain.
-- **Spout H** - Batter creatures with a water blast.
+- **Ráfaga de vendaval H** - Daña y empuja criaturas adyacentes con aire.
+- **Cable vivo H** - Corta y sacude a una criatura con un filamento electrificado.
+- **Soplo de veneno H** - Exhala toxinas para envenenar a un enemigo.
+- **Rocas dispersas H** - Evoca rocas para aporrear y crear terreno difícil.
+- **Chorro H** - Azota criaturas con una descarga de agua.
 
-## Primal 1st-Rank Spells
+## Conjuros primigenios de 1.º rango
 
-- **Chilling Spray H** - Icy shards fly out from you in a cone.
-- **Leaden Steps H** - Make creatures heavy and weak to electricity.
-- **Mud Pit** - Conjure mud to slow movement.
-- **Noxious Vapors H** - Form a toxic cloud that poisons and sickens.
-- **Protector Tree H** - Conjure a tree that guards allies.
+- **Rociada gélida H** - Fragmentos helados salen de ti en un cono.
+- **Pasos de plomo H** - Vuelve pesadas a las criaturas y más débiles frente a electricidad.
+- **Foso de barro** - Conjura barro para ralentizar el movimiento.
+- **Vapores nocivos H** - Forma una nube tóxica que envenena y indis pone.
+- **Árbol protector H** - Conjura un árbol que protege a los aliados.
 
-## Primal 2nd-Rank Spells
+## Conjuros primigenios de 2.º rango
 
-- **Dismantle H** - Disassemble an object temporarily.
-- **Final Sacrifice H** - Channel energy to blow up your minion.
-- **Fungal Infestation H** - Plant poisonous fungal growths in a creature.
-- **Reaper's Lantern** - A ghostly lantern diminishes healing for the living and weakens the undead.
-- **Sudden Blight H** - Decay living creatures and plants.
-- **Vomit Swarm H** - Vermin erupt in a cone from your mouth.
-- **Web H** - Form a web that keeps creatures from moving.
+- **Desmantelar H** - Desmonta temporalmente un objeto.
+- **Sacrificio final H** - Canaliza energía para hacer explotar a tu esbirro.
+- **Infestación fúngica H** - Planta crecimientos fúngicos venenosos en una criatura.
+- **Farol del Segador** - Un farol espectral merma la curación de los vivos y debilita a los no muertos.
+- **Añublo súbito H** - Marchita a criaturas vivas y plantas.
+- **Vomitar enjambre H** - Alimañas erupcionan en un cono desde tu boca.
+- **Telaraña H** - Forma una red que impide moverse a las criaturas.
 
-## Primal 3rd-Rank Spells
+## Conjuros primigenios de 3.º rango
 
-- **Animal Vision** - Project your senses through an animal.
-- **Crashing Wave H** - Smash a cone of water against foes.
-- **Curse of Lost Time H** - Artificially erode or age a target.
-- **Familiar's Face** - Implant your senses and voice in your companion.
-- **Threefold Aspect** - Shift yourself between three ages.
+- **Visión animal** - Proyecta tus sentidos a través de un animal.
+- **Ola rompiente H** - Estrella un cono de agua contra enemigos.
+- **Maldición del tiempo perdido H** - Erosiona o envejece artificialmente a un objetivo.
+- **Rostro del familiar** - Implanta tus sentidos y voz en tu compañero.
+- **Aspecto triple** - Te desplazas entre tres edades.
 
-## Primal 4th-Rank Spells
+## Conjuros primigenios de 4.º rango
 
-- **Bestial Curse** - Make a humanoid take on features of a beast.
-- **Countless Eyes** - Spawn magical eyes all over a creature's body.
-- **Ice Storm H** - Call a storm cloud that pelts creatures with hail.
+- **Maldición bestial** - Haz que un humanoide adopte rasgos de bestia.
+- **Ojos innumerables** - Brotan ojos mágicos por todo el cuerpo de una criatura.
+- **Tormenta de hielo H** - Invoca una nube que azota con granizo.
 
-## Primal 5th-Rank Spells
+## Conjuros primigenios de 5.º rango
 
-- **Blister H** - Grow blisters on a creature and pop them to spray acid.
-- **Chameleon Coat H** - Camouflage creatures to their environment.
-- **Corrosive Muck H** - Create two puddles of acidic slime.
-- **Grisly Growths H** - A creature grows sickening limbs and organs.
-- **Lightning Storm H** - Create clouds and call down lightning.
-- **Wall of Flesh H** - Spawn a wall of living flesh.
+- **Ampollas H** - Haz crecer ampollas y revéntalas para rociar ácido.
+- **Capa de colores H** - Los colores camuflan a las criaturas con su entorno.
+- **Fango corrosivo H** - Crea dos charcos de baba ácida.
+- **Crecimientos macabros H** - A una criatura le crecen miembros y órganos repugnantes.
+- **Tormenta eléctrica H** - Crea nubes y hace caer rayos.
+- **Muro de carne H** - Genera un muro de carne viva.
 
-## Primal 6th-Rank Spells
+## Conjuros primigenios de 6.º rango
 
-- **Blanket of Stars** - A cloak of darkness hides you in the dark.
-- **Blinding Fury** - Curse a creature to be unable to see its victims.
-- **Scintillating Safeguard H** - Reactively form a protective barrier.
+- **Manto de estrellas** - Una capa de oscuridad te oculta en la oscuridad.
+- **Furia cegadora** - Maldice a una criatura para que no vea a sus víctimas.
+- **Salvaguarda centelleante H** - Forma reactivamente una barrera protectora.
 
-## Primal 7th-Rank Spells
+## Conjuros primigenios de 7.º rango
 
-- **Lifewood Cage** - Trap a creature in a wooden cage.
+- **Jaula de madera viva** - Atrapa a una criatura en una jaula de madera.
 
-## Primal 9th-Rank Spells
+## Conjuros primigenios de 9.º rango
 
-- **Nature's Enmity** - Turn animals, plants, and weather against foes.
+- **Enemistad de la naturaleza** - Vuelve contra los enemigos a animales, plantas y el clima.
 
-## Primal 10th-Rank Spells
+## Conjuros primigenios de 10.º rango
 
-- **Primal Herd** - Transform willing creatures into a herd of mammoths.
+- **Manada primigenia** - Transforma criaturas voluntarias en una manada de mamuts.

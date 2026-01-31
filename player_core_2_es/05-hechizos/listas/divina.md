@@ -1,66 +1,66 @@
-# Divine Spell List (Player Core 2 Additions)
+# Lista de Conjuros Divinos (Añadidos de Player Core 2)
 
-An "H" indicates a spell has extra effects when heightened.
-U = Uncommon.
+Una «H» indica que un conjuro tiene efectos adicionales cuando está potenciado.
+U = Poco común.
 
-## Divine Cantrips
+## Trucos divinos
 
-- **Bullhorn H** - Magnify your voice to be heard at a distance.
-- **Haunting Hymn H** - A powerful hymn harms and deafens.
+- **Megáfono H** - Amplifica tu voz para oírse a distancia.
+- **Himno inquietante H** - Un himno poderoso hiere y ensordece.
 
-## Divine 1st-Rank Spells
+## Conjuros divinos de 1.º rango
 
-- **Concordant Choir H** - Damage foes with music.
-- **Schadenfreude** - Distract foes with their exultation at your failure.
-- **Summon Lesser Servitor H** - Summon a minor celestial, monitor, or fiend.
-- **Thoughtful Gift H** - Teleport an item to an ally's grasp.
+- **Coro concordante H** - Daña a los enemigos con música.
+- **Schadenfreude** - Distrae a los enemigos con su regocijo por tu fallo.
+- **Invocar servidor menor H** - Convoca un celestial, monitor o infernal menor.
+- **Regalo considerado H** - Teletransporta un objeto a la mano de un aliado.
 
-## Divine 2nd-Rank Spells
+## Conjuros divinos de 2.º rango
 
-- **Charitable Urge** - Make a creature give away an object.
-- **Final Sacrifice H** - Channel energy to blow up your minion.
-- **Ghoulish Cravings** - Afflict a creature with a craving for raw meat.
-- **Reaper's Lantern** - A ghostly lantern diminishes healing for the living and weakens the undead.
-- **Spirit Sense H** - Detect spirits and haunts.
-- **Sudden Blight H** - Decay living creatures and plants.
+- **Ímpetu caritativo** - Obliga a una criatura a regalar un objeto.
+- **Sacrificio final H** - Canaliza energía para hacer explotar a tu esbirro.
+- **Ansias necrófagas** - Afecta a una criatura con ansias de carne cruda.
+- **Farol del Segador** - Un farol espectral merma la curación de los vivos y debilita a los no muertos.
+- **Sentido de espíritus H** - Detecta espíritus y apariciones.
+- **Añublo súbito H** - Marchita a criaturas vivas y plantas.
 
-## Divine 3rd-Rank Spells
+## Conjuros divinos de 3.º rango
 
-- **Anointed Ground** - Create a 24-hour area of protection against aberrations, celestials, dragons, fiends, monitors, or undead.
-- **Familiar's Face** - Implant your senses and voice in your companion.
-- **Rouse Skeletons H** - Rouse a squadron of skeletons to claw foes.
-- **Wanderer's Guide** - Find an ideal route to a location.
+- **Suelo ungido** - Crea durante 24 horas un área de protección contra aberraciones, celestes, dragones, infernales, monitores o no muertos.
+- **Rostro del familiar** - Implanta tus sentidos y voz en tu compañero.
+- **Despertar esqueletos H** - Despierta un escuadrón de esqueletos para arañar enemigos.
+- **Guía del caminante** - Encuentra una ruta ideal hacia un lugar.
 
-## Divine 4th-Rank Spells
+## Conjuros divinos de 4.º rango
 
-- **Dull Ambition** - Curse a creature with a lack of ambition.
-- **Ghostly Tragedy U** - Have spirits re-enact a violent event.
-- **Holy Cascade H** - Make an explosion of holy water.
-- **Seal Fate H** - Curse a creature to be harmed by a type of damage.
-- **Vampiric Maiden H** - An iron maiden steals a creature's vitality.
-- **Whispers of the Void H** - Drain creatures' vigor with void energy.
+- **Ambición apagada** - Maldice a una criatura con falta de ambición.
+- **Tragedia fantasmal U** - Haz que espíritus recreen un acontecimiento violento.
+- **Cascada sagrada H** - Provoca una explosión de agua sagrada.
+- **Sellar destino H** - Maldice a una criatura para que sea dañada por un tipo de daño.
+- **Doncella vampírica H** - Una doncella de hierro roba la vitalidad de una criatura.
+- **Susurros del vacío H** - Drena el vigor de las criaturas con energía de vacío.
 
-## Divine 5th-Rank Spells
+## Conjuros divinos de 5.º rango
 
-- **Drop Dead H, U** - The target appears to die, but turns invisible.
-- **Wall of Flesh H** - Spawn a wall of living flesh.
+- **Caer muerto H, U** - El objetivo parece morir, pero se vuelve invisible.
+- **Muro de carne H** - Genera un muro de carne viva.
 
-## Divine 6th-Rank Spells
+## Conjuros divinos de 6.º rango
 
-- **Blinding Fury** - Curse a creature to be unable to see its victims.
-- **Sacred Form H** - Transform into a battle form with sacred armaments.
-- **Scintillating Safeguard H** - Reactively form a protective barrier.
+- **Furia cegadora** - Maldice a una criatura para que no vea a sus víctimas.
+- **Forma sagrada H** - Te transformas en una forma de batalla con armamento sagrado.
+- **Salvaguarda centelleante H** - Forma reactivamente una barrera protectora.
 
-## Divine 7th-Rank Spells
+## Conjuros divinos de 7.º rango
 
-- **Spell Riposte U** - Reflect a spell targeted at you.
+- **Rechazar conjuro U** - Refleja un conjuro dirigido contra ti.
 
-## Divine 8th-Rank Spells
+## Conjuros divinos de 8.º rango
 
-- **Spirit Song H** - Sing a song that damages any creature with a spirit.
-- **Spiritual Epidemic** - Weaken a target with a communicable curse.
+- **Canción de los espíritus H** - Entona una canción que daña a cualquier criatura con espíritu.
+- **Epidemia espiritual** - Debilita a un objetivo con una maldición transmisible.
 
-## Divine 9th-Rank Spells
+## Conjuros divinos de 9.º rango
 
-- **Telepathic Demand** - Impel a creature with a mental message.
-- **Weapon of Judgment H** - Form a divine weapon of war or peace.
+- **Exigencia telepática** - Impulsa a una criatura con un mensaje mental.
+- **Arma del Juicio H** - Forma un arma divina de guerra o paz.
