@@ -1,0 +1,18 @@
+---
+layout: page
+permalink: /conjuros/desvanecer-rastros/
+title: Desvanecer Rastros
+chapter: Conjuros
+spell_level: 1
+---
+
+## Desvanecer Rastros ◆◆ [CONJURO 1]
+**Rasgos:** Concentrar, Manipular
+**Tradiciones:** primigenia
+**Duracion:** 1 hora
+
+Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastrearte obtendra un bonificador +4 por estatus o sera igual a tu CD de conjuros, lo que arroje un resultado mayor.
+
+**Potenciado (2.o)** La duracion se incrementa a 8 horas.
+
+**Potenciado (4.o)** La duracion se incrementa a 8 horas. El conjuro tiene un alcance de 20 pies (6 m) y un area de una emanacion de 20 pies (6 m), afectando hasta 10 criaturas a tu eleccion en dicha area.

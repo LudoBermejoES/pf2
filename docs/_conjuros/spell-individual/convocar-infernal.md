@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: /conjuros/convocar-infernal/
+title: Convocar Infernal
+chapter: Conjuros
+spell_level: 5
+---
+
+## Convocar Infernal ◆◆◆ [CONJURO 5]
+**Rasgos:** concentrar, convocar, manipular, sacrilego
+**Tradiciones:** divina
+**Rango de distancia:** 30 pies (9 m)
+**Duracion:** mantenido hasta 1 minuto
+
+Convocas a una criatura con el rasgo infernal y cuyo nivel es 5 o menor para que luche por ti. El DJ podria determinar que tu dios restringe los tipos especificos de infernales a los que puedes convocar en determinados casos. Por ejemplo, los archidiablos permiten tipicamente a sus seguidores que convoquen diablos, pero no otros infernales.
+
+**Potenciado** Como se indica en el rasgo convocar.

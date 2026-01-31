@@ -1,0 +1,18 @@
+---
+layout: page
+permalink: /conjuros/burbuja-tranquila/
+title: Burbuja Tranquila
+chapter: Conjuros
+spell_level: 4
+---
+
+## Burbuja Tranquila [CONJURO 4]
+**Rasgos:** poco comun, concentrar, manipular
+**Tradiciones:** arcana, ocultista
+**Lanzamiento:** 10 minutos
+**Rango de distancia:** toque; **Area:** explosion de 100 pies (30 m)
+**Duracion:** 24 horas
+
+Una concha opaca de runas flotantes e iridiscentes cubre el area, creando una burbuja. Puedes elegir que la explosion sea mas pequeña, en incrementos de 10 pies (3 m). Las runas no impiden el paso, pero quienes estan en el interior de la burbuja no pueden percibir a los del exterior, y viceversa. Los efectos de deteccion y de escudriñamiento estan igualmente bloqueados.
+
+Las criaturas que duermen en el interior de la burbuja son inmunes a los sueños enviados por los conjuros. Quienes duermen 8 horas reducen en 2 en lugar de en 1 su estado condenado.

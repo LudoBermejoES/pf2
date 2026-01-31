@@ -1,0 +1,20 @@
+---
+layout: page
+permalink: /conjuros/mensajero-animal/
+title: Mensajero Animal
+chapter: Conjuros
+spell_level: 2
+---
+
+## Mensajero Animal [CONJURO 2]
+**Rasgos:** Concentrar, Manipular, Mental
+**Tradiciones:** primigenia
+**Lanzamiento:** 1 minuto
+**Rango de distancia:** 120 pies (36 m)
+**Duracion:** ver texto
+
+Ofreces comida y un animal Menudo normal dentro del alcance se acerca a comerla. Grabas en el animal la imagen, la direccion y la distancia de un lugar obvio o de un punto de referencia muy conocido por ti. Tambien puedes fijarle un pequeno objeto o nota de hasta Impedimenta ligera. El animal hace todo lo que puede para llegar a destino; si lo consigue, espera en sus inmediaciones y permite a las criaturas no hostiles que se acerquen y recuperen el objeto fijado.
+
+El conjuro se acaba despues de entregar el mensaje o 24 horas despues, lo que sucede antes.
+
+Si no hay animales salvajes Menudos en el alcance, el conjuro se pierde.

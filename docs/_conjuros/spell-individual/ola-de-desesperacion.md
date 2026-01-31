@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /conjuros/ola-de-desesperacion/
+title: Ola de Desesperación
+chapter: Conjuros
+spell_level: 5
+---
+
+## Ola de Desesperación ◆◆ [CONJURO 5]
+**Rasgos:** Concentrar, Emoción, Manipular, Mental
+**Tradiciones:** arcana, ocultista
+**Área:** cono de 30 pies (9 m)
+**Defensa:** Voluntad; **Duración:** 1 o más asaltos
+
+Infliges la desesperación a las criaturas en el área. Los efectos para cada criatura los determina su salvación de Voluntad.
+
+**Éxito crítico** La criatura no resulta afectada.
+
+**Éxito** Durante 1 asalto, la criatura no puede utilizar reacciones y tiene que hacer otra salvación al inicio de su turno; con un fallo, queda lentificada 1 durante dicho turno mientras solloza de forma incontrolable.
+
+**Fallo** Como en éxito, pero la duración es 1 minuto.
+
+**Fallo crítico** Como fallo, y la criatura queda automáticamente lentificada 1 durante 1 minuto.
+
+**Potenciado (7.º)** El área se incrementa a un cono de 60 pies (18 m).

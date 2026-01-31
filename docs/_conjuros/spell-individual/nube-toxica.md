@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: /conjuros/nube-toxica/
+title: Nube Tóxica
+chapter: Conjuros
+spell_level: 5
+---
+
+## Nube Tóxica ◆◆◆ [CONJURO 5]
+**Rasgos:** Concentrar, Manipular, Muerte, Veneno
+**Tradiciones:** arcana, primigenia
+**Rango de distancia:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)
+**Defensa:** Fortaleza básica; **Duración:** 1 minuto
+
+Conjuras una niebla venenosa. Esto funciona igual que niebla, excepto que el área se aleja de ti 10 pies (3 m) cada asalto. Una criatura que respire y que empiece su turno en el área sufrirá 6d8 daño por veneno y tendrá que hacer una salvación básica de Fortaleza. Puedes Disipar el conjuro.
+
+**Potenciado (+1)** El daño se incrementa en 1d8.

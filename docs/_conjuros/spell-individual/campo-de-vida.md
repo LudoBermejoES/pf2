@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /conjuros/campo-de-vida/
+title: Campo de Vida
+chapter: Conjuros
+spell_level: 6
+---
+
+## Campo de Vida ◆◆ [CONJURO 6]
+**Rasgos:** concentrar, curacion, manipular, vitalidad
+**Tradiciones:** divina, primigenia
+**Rango de distancia:** 30 pies (9 m); **Area:** explosion de 20 pies (6 m)
+**Duracion:** mantenido hasta 1 minuto
+
+Un campo de energia vital llena el area, exudando calidez y rejuvenecimiento a quienes estan en su interior. Cada criatura viva que empieza su turno en el area recupera 1d8 Puntos de Golpe y cualquier criatura muerta viviente que empieza su turno en el area sufre 1d8 daño por vitalidad.
+
+**Potenciado (8.º)** La curacion y el daño se incrementan a 1d10.
+
+**Potenciado (9.º)** La curacion y el daño se incrementan a 1d12.

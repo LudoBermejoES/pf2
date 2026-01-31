@@ -1,0 +1,23 @@
+---
+layout: page
+permalink: /conjuros/ligadura-terrestre/
+title: Ligadura Terrestre
+chapter: Conjuros
+spell_level: 3
+---
+
+## Ligadura Terrestre ◆◆ [CONJURO 3]
+**Rasgos:** Concentrar, Manipular, Tierra
+**Tradiciones:** arcana, primigenia
+**Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura voladora
+**Defensa:** Fortaleza; **Duracion:** variable
+
+Utilizando el peso de la tierra, perturbas el vuelo del objetivo, con efectos que se basan en su salvacion de Fortaleza. Si la criatura llega al suelo de forma segura, no sufre dano por caida.
+
+**Exito critico** El objetivo no resulta afectado.
+
+**Exito** El objetivo cae de forma segura hasta 120 pies (36 m).
+
+**Fallo** El objetivo cae de forma segura hasta 120 pies (36 m). Si llega al suelo, no puede Volar, levitar o abandonar el suelo de ninguna otra forma durante 1 asalto.
+
+**Fallo critico** El objetivo cae de forma segura hasta 120 pies (36 m). Si llega al suelo, no puede Volar, levitar o abandonar el suelo de ninguna otra forma durante 1 minuto.

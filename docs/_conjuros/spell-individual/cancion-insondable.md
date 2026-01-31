@@ -1,0 +1,31 @@
+---
+layout: page
+permalink: /conjuros/cancion-insondable/
+title: Cancion Insondable
+chapter: Conjuros
+spell_level: 9
+---
+
+## Cancion Insondable ◆◆ [CONJURO 9]
+**Rasgos:** auditivo, concentrar, emocion, incapacitacion, manipular, mental, miedo
+**Tradiciones:** ocultista
+**Rango de distancia:** 120 pies (36 m); **Objetivos:** hasta 5 criaturas
+**Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
+
+Notas fugaces de una cancion extraña y antinatural llenan el aire, abrumando la mente. Cada objetivo tiene que hacer una salvacion de Voluntad cuando lanzas el conjuro y de nuevo la primera vez que lo Mantienes cada asalto. Una criatura solo tiene que hacer una salvacion contra la cancion cada asalto, y tienes que conservar los mismos objetivos cuando Mantienes el conjuro.
+
+**Exito critico** El objetivo no resulta afectado, no puede resultar afectado en asaltos subsiguientes y queda temporalmente inmune durante 1 minuto.
+
+**Exito** El objetivo no resulta afectado este asalto, pero puede serlo en asaltos subsiguientes.
+
+**Fallo** Tira 1d4 en la siguiente tabla.
+
+**Fallo critico** Tira 1d4+1 en la siguiente tabla.
+
+| Resultado | Efecto |
+|-----------|--------|
+| 1 | El objetivo queda asustado 2. |
+| 2 | El objetivo queda confundido durante 1 asalto. |
+| 3 | El objetivo queda anonadado 4 durante 1 asalto. |
+| 4 | El objetivo queda cegado durante 1 asalto. |
+| 5 | El objetivo queda aturdido durante 1 asalto y anonadado 1 durante un tiempo ilimitado. |

@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /conjuros/dolor-fantasmal/
+title: Dolor Fantasmal
+chapter: Conjuros
+spell_level: 1
+---
+
+## Dolor Fantasmal ◆◆ [CONJURO 1]
+**Rasgos:** Concentrar, Ilusion, Manipular, Mental, No letal
+**Tradiciones:** ocultista
+**Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
+**Defensa:** Voluntad; **Duracion:** 1 minuto
+
+Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano persistente mental y tiene que hacer una salvacion de Voluntad.
+
+**Exito critico** El objetivo no resulta afectado.
+
+**Exito** El objetivo sufre el dano inicial completo pero no dano persistente, y el conjuro se acaba de inmediato.
+
+**Fallo** El objetivo sufre el dano inicial y el dano persistente completos, y queda indispuesto 1. Si se recupera del estado indispuesto, el dano persistente se acaba y el conjuro tambien.
+
+**Fallo critico** Como fallo, pero el objetivo queda indispuesto 2.
+
+**Potenciado (+1)** El dano se incrementa en 2d4 y el dano persistente en 1d4.

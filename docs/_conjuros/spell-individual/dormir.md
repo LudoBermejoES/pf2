@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /conjuros/dormir/
+title: Dormir
+chapter: Conjuros
+spell_level: 1
+---
+
+## Dormir ◆◆ [CONJURO 1]
+**Rasgos:** Concentrar, Incapacitacion, Manipular, Mental, Sueno
+**Tradiciones:** arcana, ocultista
+**Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
+**Defensa:** Voluntad
+
+Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepcion con exito, lo que limita su utilidad en combate.
+
+**Exito critico** La criatura no resulta afectada.
+
+**Exito** La criatura sufre un penalizador -1 por estatus a sus pruebas de Percepcion durante 1 asalto.
+
+**Fallo** La criatura queda inconsciente. Si sigue inconsciente al cabo de 1 minuto, se despierta automaticamente.
+
+**Fallo critico** La criatura queda inconsciente. Si sigue inconsciente al cabo de 1 hora, se despierta automaticamente.
+
+**Potenciado (4.o)** Las criaturas quedan inconscientes durante 1 asalto con un fallo o 1 minuto con un fallo critico. Caen tumbadas y sueltan lo que estan agarrando, sin poder hacer pruebas de Percepcion para despertarse. Cuando la duracion se acaba, la criatura duerme normalmente en lugar de despertarse automaticamente.

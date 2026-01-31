@@ -1,0 +1,23 @@
+---
+layout: page
+permalink: /conjuros/sugerencia/
+title: Sugerencia
+chapter: Conjuros
+spell_level: 4
+---
+
+## Sugerencia ◆◆ [CONJURO 4]
+**Rasgos:** concentrar, discreto, incapacitación, lingüístico, manipular, mental
+**Tradiciones:** arcana, ocultista
+**Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
+**Defensa:** Voluntad; **Duración:** variable
+
+Tus palabras almibaradas son difíciles de resistir por parte de las criaturas. Sugieres un curso de acción al objetivo, que debe estar formulado de manera que le parezca lógico y no puede ser autodestructivo ni ir obviamente en contra de sus propios intereses. El objetivo tiene que llevar a cabo una salvación de Voluntad.
+
+**Éxito** El objetivo no resulta afectado.
+
+**Fallo** El objetivo sigue de inmediato tu sugerencia. El efecto tiene una duración de 1 minuto, o hasta que el objetivo ha completado una sugerencia finita, o se vuelve autodestructiva o tiene otros efectos negativos obvios.
+
+**Fallo crítico** Igual que fallo, pero la duración es 1 hora.
+
+**Potenciado (8.º)** Puedes designar como objetivo hasta 10 criaturas.

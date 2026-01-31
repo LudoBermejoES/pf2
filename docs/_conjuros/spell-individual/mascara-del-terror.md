@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /conjuros/mascara-del-terror/
+title: Mascara del Terror
+chapter: Conjuros
+spell_level: 7
+---
+
+## Mascara del Terror ◆◆ [CONJURO 7]
+**Rasgos:** Concentrar, Emocion, Ilusion, Manipular, Mental, Miedo, Visual
+**Tradiciones:** arcana, ocultista, primigenia
+**Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
+**Duracion:** 1 minuto
+
+El objetivo aparece como una criatura macabra y terrorifica. El efecto es unico para cada observador, por lo que un humano que contemple el objetivo podria ver un demonio con colmillos ensangrentados, pero un demonio que observara al objetivo podria ver un rostro angelico brillante.
+
+Cuando cualquier criatura utiliza una accion hostil contra el objetivo, la criatura tiene que hacer una salvacion de Voluntad. A continuacion queda temporalmente inmune hasta el final de su siguiente turno.
+
+**Exito** La criatura no resulta afectada.
+
+**Fallo** La criatura queda asustada 2 antes de usar su accion.
+
+**Fallo critico** La criatura queda asustada 2 y su accion falla y se desperdicia.
+
+**Potenciado (8.o)** Puedes designar como objetivo hasta 5 criaturas. Si una criatura utiliza una accion o reaccion hostil que afecta a multiples objetivos simultaneamente, solo tiene que hacer una salvacion contra mascara del terror.

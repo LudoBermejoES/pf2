@@ -1,0 +1,15 @@
+---
+layout: page
+permalink: /conjuros/portal/
+title: Portal
+chapter: Conjuros
+spell_level: 10
+---
+
+## Portal ◆◆ [CONJURO 10]
+**Rasgos:** Poco común, Concentrar, Manipular, Teletransporte
+**Tradiciones:** arcana, divina, ocultista
+**Rango de distancia:** 120 pies (36 m)
+**Duración:** mantenido hasta 1 minuto
+
+Abres de un tirón una grieta a otro Plano, creando un portal que las criaturas pueden atravesar en ambas direcciones. El portal es vertical y circular, con un radio de 40 pies (12 m). Aparecerá en un lugar a tu elección en el Plano del destino, suponiendo que tengas una idea clara, tanto de la ubicación del destino en el Plano, como de la apariencia de dicha ubicación. Si pretendes crear un portal de entrada o de salida al reino de un dios u otro ser similarmente poderoso, dicho ser puede evitar que se forme el portal.

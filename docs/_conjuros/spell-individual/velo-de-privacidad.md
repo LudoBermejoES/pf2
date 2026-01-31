@@ -1,0 +1,16 @@
+---
+layout: page
+permalink: /conjuros/velo-de-privacidad/
+title: Velo de Privacidad
+chapter: Conjuros
+spell_level: 3
+---
+
+## Velo de Privacidad [CONJURO 3]
+**Rasgos:** Poco comun, Concentrar, Manipular
+**Tradiciones:** arcana, ocultista, primigenia
+**Lanzamiento:** 10 minutos
+**Rango de distancia:** toque; **Objetivos:** 1 criatura u objeto
+**Duracion:** 8 horas
+
+Eriges unas custodias protectoras que hacen dificil detectar al objetivo mediante la magia. Velo de privacidad trata de contrarrestar todos los efectos de deteccion, escudrinamiento y revelacion utilizados contra el objetivo o su equipo a lo largo de la duracion del conjuro, considerando a este efecto que los trucos son conjuros de 1.er rango. Contrarrestar con exito un conjuro que designa como objetivo un area u objetivos multiples niega los efectos tan solo para el objetivo de velo de privacidad.

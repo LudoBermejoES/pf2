@@ -1,0 +1,25 @@
+---
+layout: page
+permalink: /conjuros/explosion-de-ruido/
+title: Explosion de Ruido
+chapter: Conjuros
+spell_level: 2
+---
+
+## Explosion de Ruido ◆◆ [CONJURO 2]
+**Rasgos:** Concentrar, Manipular, Sonico
+**Tradiciones:** arcana, divina, ocultista
+**Rango de distancia:** 30 pies (9 m); **Area:** explosion de 10 pies (3 m)
+**Defensa:** Fortaleza
+
+Invocas un ruido cacofonico, que inflige 2d10 dano sonico. Cada criatura tiene que hacer una salvacion de Fortaleza.
+
+**Exito critico** La criatura no resulta afectada.
+
+**Exito** La criatura sufre mitad de dano.
+
+**Fallo** La criatura sufre dano completo y queda ensordecida durante 1 asalto.
+
+**Fallo critico** La criatura sufre doble dano, queda ensordecida durante 1 minuto y aturdida 1.
+
+**Potenciado (+1)** El dano se incrementa en 1d10.
