@@ -5,12 +5,21 @@ title: Orden
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Orden ◆◆ [CONJURO 1]
-**Rasgos:** Auditivo, Concentrar, Lingüístico, Manipular, Mental
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** hasta el final del siguiente turno del objetivo
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Auditivo</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Lingüístico</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Gritas una orden que es difícil de ignorar. Puedes ordenar al objetivo que se aproxime a ti, que salga corriendo (como si tuviera el estado huyendo), soltar lo que tiene agarrado, tirarse al suelo o quedarse donde está. No puede Retrasar ni llevar a cabo ninguna reacción hasta haber obedecido tu orden. Los efectos dependen de la salvación de Voluntad del objetivo.
 

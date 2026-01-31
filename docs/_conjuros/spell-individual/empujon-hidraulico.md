@@ -5,12 +5,20 @@ title: Empujon Hidraulico
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Empujon Hidraulico ◆◆ [CONJURO 1]
-**Rasgos:** Agua, Ataque, Concentrar, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura u objeto desatendido
 **Defensa:** CA
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Agua</span>
+<span class="trait-tag">Ataque</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Invocas una poderosa explosion de agua presurizada, que vapulea al objetivo y lo echa atras. Haz una tirada de ataque de conjuro a distancia.
 

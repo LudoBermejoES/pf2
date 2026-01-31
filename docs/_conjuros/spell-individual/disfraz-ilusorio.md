@@ -5,12 +5,20 @@ title: Disfraz Ilusorio
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Disfraz Ilusorio ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Ilusion, Manipular, Visual
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura voluntaria
 **Duracion:** 1 hora
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Visual</span>
+</div>
+
+---
 
 Creas una ilusion que hace que el objetivo parezca otra criatura de la misma forma corporal y de estatura aproximadamente similar (mas o menos 6 pulgadas [15 cm]) y peso (mas o menos 50 libras [22,5 kg]). El disfraz es tipicamente lo bastante bueno como para ocultar su identidad, pero no para imitar a un individuo especifico. El conjuro cambia su apariencia y su voz, pero no sus manierismos. Puedes cambiar la apariencia de su ropa y de los objetos que lleva puestos, como por ejemplo hacer que su armadura parezca un vestido. Los objetos sostenidos no resultan afectados y cualquier objeto puesto sacado de la criatura vuelve a su apariencia verdadera.
 

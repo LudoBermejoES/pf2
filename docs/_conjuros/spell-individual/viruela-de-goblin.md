@@ -5,12 +5,19 @@ title: Viruela de Goblin
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Viruela de Goblin ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Enfermedad, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** Fortaleza
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Enfermedad</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Tu toque aflige al objetivo con la viruela de goblin, un eczema alergico e irritante. El objetivo tiene que llevar a cabo una salvacion de Fortaleza.
 

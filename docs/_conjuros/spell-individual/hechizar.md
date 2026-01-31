@@ -5,12 +5,22 @@ title: Hechizar
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Hechizar ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Emocion, Incapacitacion, Manipular, Mental, Sutil
+
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** 1 hora
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Incapacitacion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Sutil</span>
+</div>
+
+---
 
 Para el objetivo, tus palabras son melifluas y tu rostro parece banado en una bruma onirica. Tiene que hacer una salvacion de Voluntad, con un bonificador +4 por circunstancia si tus aliados o tu lo habeis amenazado recientemente o utilizado acciones hostiles en su contra.
 

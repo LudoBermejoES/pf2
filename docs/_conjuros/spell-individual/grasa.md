@@ -5,12 +5,18 @@ title: Grasa
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Grasa ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m); **Area:** 4 casillas contiguas de 5 pies (1,5 m) de lado; **Objetivos:** 1 objeto de Impedimenta 1 o menos
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Conjuras grasa, eligiendo un area o un objetivo.
 

@@ -5,12 +5,18 @@ title: Jauria Indomita
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Jauria Indomita ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** hasta 10 criaturas
 **Duracion:** 1 hora
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Liberas a quienes viajan junto a ti de los obstaculos del medio ambiente. Los objetivos no sufren penalizadores por circunstancia a su Velocidad debido a los escombros, a la vegetacion, al viento u otras propiedades del entorno y pueden ignorar el terreno dificil debido a dichas propiedades medioambientales.
 

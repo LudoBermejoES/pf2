@@ -5,11 +5,17 @@ title: Desvanecer Rastros
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Desvanecer Rastros ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** primigenia
 **Duracion:** 1 hora
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Escondes los rastros que vas dejando tras de ti. La CD de las pruebas para Rastrearte obtendra un bonificador +4 por estatus o sera igual a tu CD de conjuros, lo que arroje un resultado mayor.
 

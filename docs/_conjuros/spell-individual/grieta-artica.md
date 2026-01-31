@@ -5,12 +5,19 @@ title: Grieta Artica
 chapter: Conjuros
 spell_level: 8
 ---
-
 ## Grieta Artica ◆◆ [CONJURO 8]
-**Rasgos:** Concentrar, Frio, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Area:** linea de 120 pies (36 m)
 **Defensa:** Fortaleza
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Frio</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Una grieta irregular se abre en el aire, infligiendo 12d8 dano por frio al absorber el calor. Cada criatura junto a la grieta tiene que hacer una salvacion de Fortaleza.
 

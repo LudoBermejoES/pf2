@@ -5,12 +5,19 @@ title: Convocar Animal
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Convocar Animal ◆◆◆ [CONJURO 1]
-**Rasgos:** concentrar, convocar, manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m)
 **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Convocar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Convocas a una criatura con el rasgo animal y cuyo nivel es -1 para que luche por ti.
 

@@ -5,12 +5,20 @@ title: Revivir a los Muertos
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Revivir a los Muertos [CONJURO 6]
-**Rasgos:** Poco común, Concentrar, Curación, Manipular
+
 **Tradiciones:** divina
 **Lanzamiento:** 10 minutos; **Coste:** piedras preciosas por un valor total del nivel del objetivo (mínimo 1) x 200 po
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 criatura muerta de 13.er nivel o inferior
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco común</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Curación</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Tratas de recuperar el alma de la criatura muerta, lo que requiere que su cuerpo esté presente y relativamente intacto. La criatura tiene que haber muerto hace menos de 3 días. Si Farasma ha decidido que el tiempo de la criatura ha llegado (a discreción del DJ), o si la criatura no quiere volver a la vida, el conjuro falla automáticamente, pero el coste no se consume en el lanzamiento.
 

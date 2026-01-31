@@ -5,12 +5,22 @@ title: Mensaje
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Mensaje ◆ [TRUCO 1]
-**Rasgos:** Concentrar, Disimulado, Ilusion, Linguistico, Mental, Truco
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Duracion:** ver mas abajo
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Disimulado</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Linguistico</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Truco</span>
+</div>
+
+---
 
 Pronuncias unas palabras en voz baja, pero en lugar de salir de tu boca son transferidas directamente a los oidos del objetivo. Mientras que los demas no pueden oir tus palabras al no haberlas pronunciado en voz alta, el objetivo puede oirlas como si estuviera de pie junto a ti. Si quiere, el objetivo puede dar una respuesta breve como reaccion, o como accion gratuita en su siguiente turno, pero debe ser capaz de verte y estar dentro del alcance para hacerlo. Si responde, su respuesta se entrega directamente a tus oidos, igual que el mensaje original.
 

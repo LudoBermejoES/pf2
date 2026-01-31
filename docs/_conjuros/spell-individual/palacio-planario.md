@@ -5,13 +5,21 @@ title: Palacio Planario
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Palacio Planario [CONJURO 7]
-**Rasgos:** Poco común, Concentrar, Extradimensional, Manipular
+
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 1 minuto
 **Rango de distancia:** 30 pies (9 m)
 **Duración:** hasta tus siguientes preparativos diarios
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco común</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Extradimensional</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Haces crecer un semiplano extradimensional que consiste en una espaciosa vivienda de una sola entrada. La entrada conecta con el Plano en el que has Lanzado el conjuro, apareciendo en cualquier parte dentro del alcance del mismo como un rectángulo vertical, débil y brillante de 5 pies (1,50 m) de anchura y 10 pies (3 m) de altura. Tú eres quien designa quién puede entrar cuando Lanzas el conjuro. Una vez dentro, puedes cerrar la entrada, haciéndola invisible. Tanto tú como las criaturas designadas por ti podéis abrir de nuevo la puerta a voluntad.
 

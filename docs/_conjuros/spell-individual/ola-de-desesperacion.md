@@ -5,12 +5,20 @@ title: Ola de Desesperación
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Ola de Desesperación ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Emoción, Manipular, Mental
+
 **Tradiciones:** arcana, ocultista
 **Área:** cono de 30 pies (9 m)
 **Defensa:** Voluntad; **Duración:** 1 o más asaltos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emoción</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Infliges la desesperación a las criaturas en el área. Los efectos para cada criatura los determina su salvación de Voluntad.
 

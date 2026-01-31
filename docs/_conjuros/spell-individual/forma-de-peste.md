@@ -5,11 +5,18 @@ title: Forma de Peste
 chapter: Conjuros
 spell_level: 8
 ---
-
 ## Forma de Peste ◆◆ [CONJURO 8]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** arcana, primigenia
 **Duracion:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Te transformas una forma de batalla de animal Menudo, como por ejemplo un gato, un insecto, un lagarto o una rata. Tu eres quien decide el tipo especifico de animal (como por ejemplo una rata o una mantis religiosa), pero eso no afecta ni a tu Tamano ni a tus estadisticas. En esta forma, tienes el rasgo animal y no puedes llevar a cabo Golpes. Puedes Disipar el conjuro.
 

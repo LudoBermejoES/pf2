@@ -5,13 +5,18 @@ title: Vendetta de Sangre ↺
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Vendetta de Sangre ↺ [CONJURO 2]
-**Rasgos:** Maldicion
+
 **Tradiciones:** arcana, divina, ocultista
 **Desencadenante:** Una criatura te inflige dano perforante, cortante o persistente por sangrado; **Requisitos:** Puedes sangrar.
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** la criatura desencadenante
 **Defensa:** Voluntad; **Duracion:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Maldicion</span>
+</div>
+
+---
 
 Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sangre. El objetivo sufre 2d6 dano persistente por sangrado y tiene que hacer una salvacion de Voluntad.
 

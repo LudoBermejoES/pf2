@@ -5,11 +5,18 @@ title: Forma de Dinosaurio
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Forma de Dinosaurio ◆◆ [CONJURO 4]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Canalizas las fuerzas primigenias de la Naturaleza para transformarte en una forma de batalla Grande de animal, especificamente la de un poderoso y terrorifico dinosaurio. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal, pero esto no tiene efecto alguno en el Tamano o las estadisticas de la forma. Cuando estas en esta forma, obtienes los rasgos animal y dinosaurio. Puedes Disipar el conjuro.
 

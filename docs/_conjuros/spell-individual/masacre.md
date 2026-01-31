@@ -5,12 +5,20 @@ title: Masacre
 chapter: Conjuros
 spell_level: 9
 ---
-
 ## Masacre ◆◆ [CONJURO 9]
-**Rasgos:** Concentrar, Manipular, Muerte, Vacio
+
 **Tradiciones:** arcana, divina, primigenia
 **Area:** linea de 60 pies (18 m)
 **Defensa:** Fortaleza
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Muerte</span>
+<span class="trait-tag">Vacio</span>
+</div>
+
+---
 
 Desatas una ola de muerte para apagar la fuerza vital de quienes estan en su camino. Cada criatura viva de nivel 17.o o menor en la linea tiene que hacer una salvacion de Fortaleza. Si el dano debido a masacre reduce a una criatura a 0 Puntos de Golpe, dicha criatura muere instantaneamente. Si masacre no mata ni a una sola criatura, la energia del vacio se vuelve, hambrienta, hacia ti infligiendo 30 dano adicional por vacio a todas las criaturas vivas de la linea (incluso las que estan por encima de 17.o nivel) y 30 dano por vacio a ti.
 

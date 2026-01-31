@@ -5,12 +5,19 @@ title: Ligadura Terrestre
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Ligadura Terrestre ◆◆ [CONJURO 3]
-**Rasgos:** Concentrar, Manipular, Tierra
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura voladora
 **Defensa:** Fortaleza; **Duracion:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Tierra</span>
+</div>
+
+---
 
 Utilizando el peso de la tierra, perturbas el vuelo del objetivo, con efectos que se basan en su salvacion de Fortaleza. Si la criatura llega al suelo de forma segura, no sufre dano por caida.
 

@@ -5,12 +5,20 @@ title: Teletransporte Interplanario
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Teletransporte Interplanario [CONJURO 7]
-**Rasgos:** Poco comun, Concentrar, Manipular, Teletransporte
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 10 minutos; **Requisitos:** Tienes una llave planaria para el Plano de destino, utilizada como locus
 **Rango de distancia:** 5 pies (1,5 m); **Objetivos:** hasta 8 criaturas voluntarias
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco comun</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Teletransporte</span>
+</div>
+
+---
 
 Tus aliados y tu atravesais las barreras entre los planos de existencia. Los objetivos se trasladan a otro Plano, como por ejemplo el Plano del Fuego, el Inframundo o las Fisuras Exteriores. Tienes que saber que el Plano de destino existe y utilizar una llave planaria magica creada a partir de material de dicho Plano como locus para el conjuro. Si bien las llaves planarias para los Planos mas prominentes son poco comunes, igual que este conjuro, Planos y semiplanos mas oscuros a menudo tienen llaves planarias raras o posiblemente incluso unicas.
 

@@ -5,12 +5,18 @@ title: Refugio para Mascota
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Refugio para Mascota ◆ [CONJURO 1]
-**Rasgos:** Extradimensional, Manipular
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria que es tu compañero
 **Duración:** 8 horas
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Extradimensional</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Abres tu manto o creas un hueco con las manos, llevando al objetivo a una dimensión de bolsillo lo suficientemente grande para su comodidad básica. Ninguna otra criatura puede entrar en este espacio extradimensional y el objetivo sólo puede llevar consigo objetos si han sido diseñados para que los lleve puestos una criatura de su especie. El espacio tiene suficiente aire, comida y agua para que el objetivo subsista toda la duración del conjuro.
 

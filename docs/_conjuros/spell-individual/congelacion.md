@@ -5,12 +5,20 @@ title: Congelacion
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Congelacion ◆◆ [TRUCO 1]
-**Rasgos:** concentrar, frio, manipular, truco
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura
 **Duracion:** hasta tus siguientes preparativos diarios
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Frio</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Truco</span>
+</div>
+
+---
 
 Un orbe de frio polar se forma alrededor de tu objetivo, congelando su cuerpo. El objetivo sufre 2d4 daño por frio con una salvacion basica de Fortaleza. Con un fallo critico, el objetivo ademas sufre debilidad 1 a contundente hasta el inicio de tu siguiente turno.
 

@@ -5,11 +5,19 @@ title: Cuerpo Flamigero
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Cuerpo Flamigero ◆◆ [CONJURO 7]
-**Rasgos:** concentrar, fuego, manipular, polimorfia
+
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuego</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Te conviertes en una llama viva, lo que te concede inmunidad al fuego, resistencia 10 al daño de precision y debilidad 5 al frio y al agua. Cualquier criatura que toca o te daña con un ataque sin arma o con un arma cuerpo a cuerpo sin alcance sufre 3d6 daño por fuego.
 

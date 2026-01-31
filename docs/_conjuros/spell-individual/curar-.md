@@ -5,11 +5,18 @@ title: Curar ◆/◆◆/◆◆◆
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Curar ◆/◆◆/◆◆◆ [CONJURO 1]
-**Rasgos:** curacion, manipular, vitalidad
+
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** variable; **Objetivos:** 1 criatura viva voluntaria o 1 criatura muerta viviente
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Curacion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Vitalidad</span>
+</div>
+
+---
 
 Canalizas energia vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvacion basica de Fortaleza. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demas parametros.
 

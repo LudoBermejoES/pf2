@@ -5,12 +5,19 @@ title: Culebrear ◆◆/◆◆◆
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Culebrear ◆◆/◆◆◆ [CONJURO 5]
-**Rasgos:** concentrar, manipular, sombra
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
 **Defensa:** Reflejos; **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Sombra</span>
+</div>
+
+---
 
 Una masa de serpientes de sombra se alza para capturar a las criaturas en el area. Cada criatura en el area cuando lanzas el conjuro sufre 3d6 daño perforante y 1d6 daño persistente por veneno debido a un mordisco de serpiente, quedando agarrada o neutralizada dependiendo de su salvacion de Reflejos. Una criatura que acaba su turno en el area tiene que hacer esta Salvacion incluso si esta ya agarrada o neutralizada por las serpientes. Puedes Disipar el conjuro.
 

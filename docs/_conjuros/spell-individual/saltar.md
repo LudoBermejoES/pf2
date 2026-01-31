@@ -5,10 +5,16 @@ title: Saltar
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Saltar ◆ [CONJURO 1]
-**Rasgos:** Manipular, Mover
+
 **Tradiciones:** arcana, primigenia
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mover</span>
+</div>
+
+---
 
 Tus piernas se llenan de fuerza, listas para saltar alto y lejos. Saltas 30 pies (9 m) en cualquier dirección sin tocar el suelo. Tienes que aterrizar en un espacio de terreno sólido a 30 pies (9 m) o menos de ti, o bien te caes después de utilizar tu siguiente acción.
 

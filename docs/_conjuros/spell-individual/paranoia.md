@@ -5,12 +5,20 @@ title: Paranoia
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Paranoia ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Ilusión, Manipular, Mental
+
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusión</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Haces que el objetivo vea a todas las demás criaturas como amenazas terribles. El objetivo resulta afectado por una intensa paranoia hacia todas las criaturas que la rodean y tiene que hacer una salvación de Voluntad.
 

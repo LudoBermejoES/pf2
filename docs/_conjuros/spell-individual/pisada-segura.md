@@ -5,11 +5,18 @@ title: Pisada Segura
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Pisada Segura ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Curación, Manipular
+
 **Tradiciones:** divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Curación</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Liberas las extremidades del objetivo de las aflicciones que entorpecen su movilidad. Contrarrestas (pág. 431) un efecto a tu elección que impone uno de los siguientes estados al objetivo: agarrado, paralizado o torpe. Si la prueba falla, pero habría tenido éxito si su rango de contrarrestar hubiera sido 2 inferior, en su lugar suprime el efecto hasta el inicio de tu siguiente turno. La duración del efecto no se gasta mientras está suprimido.
 

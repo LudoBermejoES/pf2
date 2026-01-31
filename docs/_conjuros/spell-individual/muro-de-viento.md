@@ -5,12 +5,19 @@ title: Muro de Viento
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Muro de Viento ◆◆◆ [CONJURO 3]
-**Rasgos:** Aire, Concentrar, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m)
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Aire</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Creas una barrera de vientos racheados que dificultan el movimiento de cualquier cosa que intenta atravesarla. El muro de vientos giratorios tiene 5 pies (1,5 m) de grosor, 60 pies (18 m) de longitud y 30 pies (9 m) de altura. El muro se alza en vertical, pero puedes dar forma a su recorrido. Aunque el muro de viento distorsiona el aire, no dificulta la visibilidad. El muro tiene los siguientes efectos:
 

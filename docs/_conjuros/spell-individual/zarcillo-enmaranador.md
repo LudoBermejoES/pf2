@@ -5,12 +5,22 @@ title: Zarcillo Enmaranador
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Zarcillo Enmaranador ◆◆ [TRUCO 1]
-**Rasgos:** Ataque, Concentrar, Manipular, Madera, Planta, Truco
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** CA
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Ataque</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Madera</span>
+<span class="trait-tag">Planta</span>
+<span class="trait-tag">Truco</span>
+</div>
+
+---
 
 Un zarcillo aparece de la nada, girando rapidamente desde tu mano y aferrandose al objetivo. Haz una tirada de ataque de conjuros contra el objetivo.
 

@@ -5,12 +5,21 @@ title: No Importa
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## No Importa ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Incapacitación, Maldición, Manipular, Mental
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Incapacitación</span>
+<span class="trait-tag">Maldición</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Reduces drásticamente las facultades mentales del objetivo. El objetivo tiene que llevar a cabo una salvación de Voluntad. Los efectos esta maldición sólo se pueden eliminar mediante efectos que tienen como objetivo las maldiciones.
 

@@ -5,12 +5,21 @@ title: Maldicion del Paria
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Maldicion del Paria ◆◆ [CONJURO 4]
-**Rasgos:** Concentrar, Desventura, Maldicion, Manipular, Mental
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** Voluntad
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Desventura</span>
+<span class="trait-tag">Maldicion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Afliges al objetivo con una maldicion que hace que su presencia sea abrasiva y poco atractiva. El objetivo tiene que llevar a cabo una salvacion de Voluntad.
 

@@ -5,12 +5,20 @@ title: Reescribir Recuerdo
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Reescribir Recuerdo ◆◆ [CONJURO 4]
-**Rasgos:** Poco común, Concentrar, Manipular, Mental
+
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** ilimitada
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco común</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Alteras los recuerdos del objetivo, borrando uno, potenciando su calidad, alterándolo o añadiendo uno falso. El objetivo puede hacer una salvación de Voluntad para resistirse al conjuro.
 

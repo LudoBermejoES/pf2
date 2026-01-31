@@ -5,11 +5,20 @@ title: Forma de Planta
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Forma de Planta ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Madera, Manipular, Planta, Polimorfia
+
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Madera</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Planta</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Inspirandote en las criaturas frondosas, te transformas en una forma de batalla de planta Grande. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes elegir una planta especifica similar en la que convertirte (como por ejemplo una Nepenthes en lugar de una Dionea), pero esto no tiene efecto alguno ni en el Tamano ni en las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo planta. Puedes Disipar el conjuro.
 

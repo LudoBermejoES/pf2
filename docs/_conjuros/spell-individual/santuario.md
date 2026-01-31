@@ -5,12 +5,18 @@ title: Santuario
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Santuario ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duración:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Custodias a una criatura con energía protectora que impide los ataques. Las criaturas que quieren atacar al objetivo tienen que hacer una salvación de Voluntad cada vez. Si el objetivo utiliza una acción hostil, el conjuro se acaba.
 

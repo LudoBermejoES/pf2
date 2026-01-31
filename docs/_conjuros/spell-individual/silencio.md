@@ -5,12 +5,19 @@ title: Silencio
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Silencio ◆◆ [CONJURO 2]
-**Rasgos:** ilusión, manipular, disimulado
+
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 **Duración:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Ilusión</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Disimulado</span>
+</div>
+
+---
 
 El objetivo no emite sonido alguno, evitando que las criaturas lo detecten utilizando tan solo el oído. No puede utilizar ataques sónicos ni utilizar acciones auditivas. Esto impide también que el objetivo lance conjuros debido a las palabras mágicas implicadas en el lanzamiento, con la excepción de los conjuros disimulados.
 

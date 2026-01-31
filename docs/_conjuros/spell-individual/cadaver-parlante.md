@@ -5,13 +5,20 @@ title: Cadaver Parlante
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Cadaver Parlante [CONJURO 4]
-**Rasgos:** poco comun, concentrar, manipular
+
 **Tradiciones:** divina, ocultista
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** toque; **Objetivos:** 1 cadaver
 **Defensa:** Voluntad; **Duracion:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco comun</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Concedes al cadaver objetivo una semblanza de vida, que utiliza para responder a las 3 preguntas que se le formulan. Este conjuro recupera los recuerdos latentes del cuerpo fisico en lugar de convocar el alma del fallecido, por lo que el cadaver tiene que estar bastante intacto para que el conjuro funcione. Cuanto mas daño ha sufrido el cadaver, mas inexactas o heterogeneas son sus respuestas, y tiene que disponer de una garganta y una boca para hablar. Si alguien ha lanzado previamente este conjuro sobre el cadaver durante la ultima semana, el conjuro falla automaticamente. El cadaver puede hacer una salvacion de Voluntad para resistirse a responder las preguntas utilizando las estadisticas de la criatura original en el momento de su muerte, con los siguientes efectos.
 

@@ -5,12 +5,18 @@ title: Duplicar Enemigo
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Duplicar Enemigo ◆◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 enemigo de nivel 15 o inferior
 **Defensa:** Fortaleza; **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Creas un duplicado temporal de un enemigo para que luche por ti. El objetivo puede hacer una salvacion de Fortaleza para perturbar el conjuro. El duplicado aparece en un espacio desocupado adyacente al objetivo y tiene su mismo modificador al ataque, CA, modificadores a las tiradas de salvacion, Percepcion y modificadores por habilidad, pero tan solo tiene 70 Puntos de Golpe y carece de las aptitudes especiales del objetivo, incluyendo inmunidades, resistencias y debilidades. No dispone de objetos magicos excepto runas de potencia de arma.
 

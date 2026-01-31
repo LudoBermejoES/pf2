@@ -5,12 +5,22 @@ title: Vision de la Muerte
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Vision de la Muerte ◆◆ [CONJURO 4]
-**Rasgos:** Concentrar, Muerte, Emocion, Miedo, Manipular, Mental
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura viva
 **Defensa:** Voluntad
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Muerte</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Miedo</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Obligas al objetivo a ver una vision de su propia muerte. Sufre 8d6 dano mental y tiene que hacer una salvacion de Voluntad. Si el objetivo queda reducido a 0 PG por este conjuro, su vision se convierte en realidad y lo mata instantaneamente.
 

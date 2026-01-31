@@ -5,12 +5,19 @@ title: Crisis de Fe
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Crisis de Fe ◆◆ [CONJURO 3]
-**Rasgos:** concentrar, manipular, mental
+
 **Tradiciones:** divina
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Asaltas la fe del objetivo, llenandole de dudas y de inquietud mental que le infligen 6d6 daño mental o 6d8 daño mental si puede lanzar conjuros divinos. Los efectos vienen determinados por su salvacion de Voluntad.
 

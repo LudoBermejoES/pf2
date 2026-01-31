@@ -5,11 +5,18 @@ title: Forma de Monstruosidad
 chapter: Conjuros
 spell_level: 8
 ---
-
 ## Forma de Monstruosidad ◆◆ [CONJURO 8]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Te transformas en un monstruo legendario, adoptando una forma de batalla Enorme. Cuando lanzas este conjuro, elige entre ave fenix, gusano de las cavernas o serpiente marina. Mientras estas en esta forma, obtienes el rasgo bestia (para el fenix) o el rasgo animal (para el gusano de las cavernas o la serpiente marina). Puedes Disipar el conjuro.
 

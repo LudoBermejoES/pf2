@@ -5,12 +5,19 @@ title: Orbe Acuoso
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Orbe Acuoso ◆◆ [CONJURO 3]
-**Rasgos:** Agua, Concentrar, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m)
 **Defensa:** Reflejos; **Duración:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Agua</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Una esfera de agua de 10 pies (3 m) de diámetro se forma en un espacio ocupado dentro del alcance, o bien en el suelo, o bien en la superficie de un líquido. Cuando Lanzas este conjuro y cada vez que lo Mantienes, puedes hacer rodar el orbe, moviéndolo hasta 10 pies (3 m) a lo largo del suelo o de la superficie de un líquido.
 

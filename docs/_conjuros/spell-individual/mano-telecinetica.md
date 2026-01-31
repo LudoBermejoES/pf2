@@ -5,12 +5,19 @@ title: Mano Telecinetica
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Mano Telecinetica ◆◆ [TRUCO 1]
-**Rasgos:** Concentrar, Manipular, Truco
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 objeto desatendido de Impedimenta ligera o menor
 **Duracion:** mantenido
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Truco</span>
+</div>
+
+---
 
 Creas una mano magica flotante, o bien invisible, o bien fantasmal, que aferra al objeto objetivo y lo hace flotar lentamente hasta 20 pies (6 m) en cualquier direccion. Cuando Mantienes el conjuro, puedes mover el objeto 20 pies (6 m) adicionales. Si el objeto esta en el aire cuando el conjuro se acaba, se cae.
 

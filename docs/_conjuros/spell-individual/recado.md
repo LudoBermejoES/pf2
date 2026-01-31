@@ -5,10 +5,17 @@ title: Recado
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Recado ◆◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Manipular, Mental
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** planetario; **Objetivos:** 1 criatura a la que conoces bien
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Envías a la criatura un mensaje mental de 25 palabras o menos, al que puede responder de inmediato con su propio mensaje de 25 palabras o menos.

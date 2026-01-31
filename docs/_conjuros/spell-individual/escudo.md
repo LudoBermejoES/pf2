@@ -5,11 +5,18 @@ title: Escudo
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Escudo ◆ [TRUCO 1]
-**Rasgos:** Concentrar, Fuerza, Truco
+
 **Tradiciones:** arcana, divina, ocultista
 **Duracion:** hasta el inicio de tu siguiente turno
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuerza</span>
+<span class="trait-tag">Truco</span>
+</div>
+
+---
 
 Alzas un escudo de fuerza magico. Esto cuenta como utilizar la accion Alzar un escudo, lo que te concede un bonificador +1 por circunstancia a tu CA hasta el inicio de tu siguiente turno, pero no requiere una mano para utilizarlo.
 

@@ -5,11 +5,18 @@ title: Doble Enganoso
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Doble Enganoso ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Ilusion, Manipular
+
 **Tradiciones:** arcana, ocultista
 **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Te haces invisible y creas un duplicado ilusorio de ti mismo. Cuando Mantienes el conjuro, puedes dictar mentalmente un curso de accion para que tu duplicado lo siga dicho asalto. Tu duplicado actua como si tuviera tu numero completo de acciones, aunque en realidad no puede afectar nada del entorno. Tanto el duplicado como tu invisibilidad persisten a lo largo de la duracion del conjuro. Llevar a cabo una accion hostil no acaba con la invisibilidad de doble enganoso, igual que con un conjuro de invisibilidad de 4.o rango. Una criatura que determina que el duplicado es una ilusion no sabe necesariamente que eres invisible, y una que puede ver tu forma invisible no sabe necesariamente que tu duplicado es una ilusion.
 

@@ -85,308 +85,308 @@ Arremeter contra un enemigo indefenso te anima con la emoción del combate, otor
 
 ---
 
-## Bones
+## Huesos
 
-### Soul Siphon · ◆ · Focus 1
+### Sifón de Alma · ◆ · Foco 1
 
-**Traits:** Uncommon, Focus, Manipulate, Oracle, Void
+**Rasgos:** Poco común, Foco, Manipular, Oráculo, Vacío
 
-**Range:** 30 feet; **Targets:** 1 living creature
+**Alcance:** 30 pies; **Objetivos:** 1 criatura viviente
 
-**Defense:** Fortitude
+**Defensa:** Fortaleza
 
-You siphon off a portion of the target's soul to bolster your own vitality. The target must attempt a Fortitude save or take 1d4 void damage. You gain temporary Hit Points equal to the total amount of HP the target loses, including the HP lost from becoming drained.
+Extraes una porción del alma del objetivo para reforzar tu propia vitalidad. El objetivo debe intentar una salvación de Fortaleza o sufre 1d4 de daño de vacío. Obtienes Puntos de Golpe temporales iguales al total de PG que el objetivo pierde, incluidos los PG perdidos por quedar drenado.
 
-**Critical Success** The creature is unaffected.
+**Éxito crítico** La criatura no se ve afectada.
 
-**Success** The creature takes half damage.
+**Éxito** La criatura sufre la mitad de daño.
 
-**Failure** The creature takes full damage and becomes drained 1.
+**Fracaso** La criatura sufre el daño completo y queda drenada 1.
 
-**Critical Failure** The creature takes double damage and becomes drained 2.
+**Fracaso crítico** La criatura sufre el doble de daño y queda drenada 2.
 
-**Heightened (+1)** The damage increases by 1d4.
-
----
-
-### Armor of Bones · ◆ · Focus 3
-
-**Traits:** Uncommon, Focus, Manipulate, Oracle
-
-**Duration:** 1 minute
-
-You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.
-
-**Heightened (+1)** The resistance increases by 1.
+**Potenciado (+1)** El daño aumenta en 1d4.
 
 ---
 
-### Claim Undead · ◆◆ · Focus 6
+### Armadura de Huesos · ◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Focus, Incapacitation, Manipulate, Oracle
+**Rasgos:** Poco común, Foco, Manipular, Oráculo
 
-**Range:** 30 feet; **Targets:** 1 undead creature
+**Duración:** 1 minuto
 
-**Defense:** Will; **Duration:** 10 minutes
+Oseificas tu forma física, imitando la durabilidad del hueso. Ganas resistencia 3 al daño de frío, electricidad, fuego, perforante y cortante.
 
-You attempt to wrest control of a target undead or force it to recognize you as its master. If the target is controlled by another creature, that controller attempts a Will saving throw to retain control; otherwise, the target must attempt a Will save.
+**Potenciado (+1)** La resistencia aumenta en 1.
 
-**Critical Success** The target is unaffected.
+---
 
-**Success** The target is stunned 1 and confused for 1 round as it fights off your commands.
+### Reclamar No Muerto · ◆◆ · Foco 6
 
-**Failure** The target becomes controlled by you and follows your orders. It (or the creature previously controlling it) can attempt a new Will save at the end of each of its turns; on a success, the spell ends, and the creature becomes stunned 1 and confused for 1 round. If you issue an obviously self-destructive order, the target doesn't act until you issue a new order.
+**Rasgos:** Poco común, Concentración, Foco, Incapacitación, Manipular, Oráculo
 
-**Critical Failure** As failure, but the target (or the creature previously controlling it) receives a new save only if you give it a new order that is against its nature.
+**Alcance:** 30 pies; **Objetivos:** 1 criatura no muerta
+
+**Defensa:** Voluntad; **Duración:** 10 minutos
+
+Intentas arrebatar el control de un no muerto objetivo o lo fuerzas a reconocerte como su amo. Si el objetivo está controlado por otra criatura, ese controlador intenta una salvación de Voluntad para conservar el control; de lo contrario, el objetivo debe intentar una salvación de Voluntad.
+
+**Éxito crítico** El objetivo no se ve afectado.
+
+**Éxito** El objetivo queda aturdido 1 y confundido durante 1 asalto mientras resiste tus órdenes.
+
+**Fracaso** El objetivo queda bajo tu control y sigue tus órdenes. Él (o la criatura que lo controlaba previamente) puede intentar una nueva salvación de Voluntad al final de cada uno de sus turnos; con un éxito, el conjuro termina y la criatura queda aturdida 1 y confundida durante 1 asalto. Si emites una orden obviamente autodestructiva, el objetivo no actúa hasta que le des una nueva orden.
+
+**Fracaso crítico** Como en fracaso, pero el objetivo (o la criatura que lo controlaba previamente) recibe una nueva salvación solo si le das una nueva orden que vaya contra su naturaleza.
 
 ---
 
 ## Cosmos
 
-### Spray of Stars · ◆◆ · Focus 1
+### Rociada de Estrellas · ◆◆ · Foco 1
 
-**Traits:** Uncommon, Concentrate, Fire, Focus, Light, Manipulate, Oracle
+**Rasgos:** Poco común, Concentración, Fuego, Foco, Luz, Manipular, Oráculo
 
-**Area:** 15-foot cone
+**Área:** cono de 15 pies
 
-**Defense:** Reflex
+**Defensa:** Reflejos
 
-You fling a spray of tiny shooting stars, dealing 2d4 fire damage. Each creature in the area must attempt a Reflex save.
+Lanzas una rociada de pequeñas estrellas fugaces, causando 2d4 de daño de fuego. Cada criatura en el área debe intentar una salvación de Reflejos.
 
-**Critical Success** The creature is unaffected.
+**Éxito crítico** La criatura no se ve afectada.
 
-**Success** The creature takes half damage and is dazzled for 1 round.
+**Éxito** La criatura sufre la mitad de daño y queda deslumbrada durante 1 asalto.
 
-**Failure** The creature takes full damage and is dazzled for 3 rounds.
+**Fracaso** La criatura sufre el daño completo y queda deslumbrada durante 3 asaltos.
 
-**Critical Failure** The creature takes double damage and is dazzled for 1 minute.
+**Fracaso crítico** La criatura sufre el doble de daño y queda deslumbrada durante 1 minuto.
 
-**Heightened (+1)** The damage increases by 1d4.
-
----
-
-### Interstellar Void · ◆◆ · Focus 3
-
-**Traits:** Uncommon, Cold, Concentrate, Focus, Manipulate, Oracle
-
-**Range:** 30 feet; **Targets:** 1 creature
-
-**Defense:** Fortitude; **Duration:** sustained up to 1 minute
-
-You call upon the frigid depths of outer space to bring a terrible chill to your enemy. The target is cloaked in the freezing void, which deals 3d6 cold damage immediately and the first time each round you Sustain the spell on future turns, with a basic Fortitude save. The target is fatigued for as long as the effect persists.
-
-**Heightened (+1)** The cold damage increases by 1d6.
+**Potenciado (+1)** El daño aumenta en 1d4.
 
 ---
 
-### Moonlight Bridge · ◆◆ · Focus 6
+### Vacío Interestelar · ◆◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Focus, Light, Manipulate, Oracle
+**Rasgos:** Poco común, Frío, Concentración, Foco, Manipular, Oráculo
 
-**Range:** 30 feet
+**Alcance:** 30 pies; **Objetivos:** 1 criatura
 
-**Duration:** 10 minutes
+**Defensa:** Fortaleza; **Duración:** mantenido hasta 1 minuto
 
-You summon a bridge of radiant, shimmering moonlight. The 10-foot-wide span must start at the ground on a point within range, and it extends as a horizontal plane, either in a straight line or at any angle up to 45 degrees upward or downward, for up to 120 feet. This bridge has AC 10, Hardness 30, and 60 Hit Points, and it's immune to all damage (except force, spirit, and damage from Strikes with the ghost touch property rune). You and your allies can cross the bridge normally, but other creatures simply pass through it if they try to do so. The bridge blocks physical, ethereal, and incorporeal attacks from crossing through it, whether from above or below. You can Dismiss the spell.
+Invocas las gélidas profundidades del espacio exterior para traer un frío terrible a tu enemigo. El objetivo queda envuelto en el vacío helado, que inflige 3d6 de daño de frío inmediatamente y la primera vez cada asalto que Mantienes el conjuro en turnos futuros, con una salvación básica de Fortaleza. El objetivo queda fatigado mientras el efecto persista.
 
-**Heightened (+1)** The length of the bridge increases by 20 feet, its Hit Points increase by 20, and you can increase the width of the span by up to an additional 5 feet.
-
----
-
-## Flames
-
-### Incendiary Aura · ◆◆ · Focus 1
-
-**Traits:** Uncommon, Concentrate, Fire, Focus, Manipulate, Oracle
-
-**Area:** 10-foot emanation
-
-**Duration:** 1 minute
-
-You surround yourself with a combustible aura. Each time a creature within the emanation takes fire damage, it catches on fire, taking 2d4 persistent fire damage.
-
-**Heightened (+2)** The persistent damage increases by 1d4 and the radius of the emanation increases by 5 feet.
+**Potenciado (+1)** El daño de frío aumenta en 1d6.
 
 ---
 
-### Whirling Flames · ◆◆ · Focus 3
+### Puente de Luz de Luna · ◆◆ · Foco 6
 
-**Traits:** Uncommon, Concentrate, Fire, Focus, Manipulate, Oracle
+**Rasgos:** Poco común, Concentración, Foco, Luz, Manipular, Oráculo
 
-**Range:** 30 feet; **Area:** up to two 5-foot bursts that don't overlap
+**Alcance:** 30 pies
 
-**Defense:** basic Reflex
+**Duración:** 10 minutos
 
-You call forth a storm of whirling flames, engulfing all creatures in that area and dealing 5d6 fire damage with a basic Reflex save.
+Invocas un puente de luz de luna radiante y centelleante. El tramo de 10 pies de ancho debe comenzar en el suelo en un punto dentro del alcance y se extiende como un plano horizontal, ya sea en línea recta o con un ángulo de hasta 45 grados hacia arriba o hacia abajo, hasta 120 pies. Este puente tiene CA 10, Dureza 30 y 60 Puntos de Golpe, y es inmune a todo el daño (excepto fuerza, espíritu y daño de Golpes con la runa de propiedad toque fantasmal). Tú y tus aliados podéis cruzar el puente normalmente, pero otras criaturas simplemente lo atraviesan si lo intentan. El puente bloquea que ataques físicos, etéreos e incorpóreos lo crucen, ya sea desde arriba o desde abajo. Puedes Descartar el conjuro.
 
-**Heightened (+2)** The damage increases by 3d6, and you can add another nonoverlapping 5-foot burst to the area.
-
----
-
-### Flaming Fusillade · ◆◆ · Focus 6
-
-**Traits:** Uncommon, Concentrate, Fire, Focus, Manipulate, Oracle
-
-**Duration:** 1 minute
-
-You call upon an endless barrage of flames, a series of explosions bursting around you like miniature suns. You cast ignition as part of casting flaming fusillade. For the duration of flaming fusillade, ignition's casting time is reduced from 2 actions to 1.
-
-**Heightened (9th)** For the duration, you also gain a status bonus to damage dealt by ignition equal to flaming fusillade's spell rank.
+**Potenciado (+1)** La longitud del puente aumenta en 20 pies, sus Puntos de Golpe aumentan en 20 y puedes aumentar el ancho del tramo hasta en 5 pies adicionales.
 
 ---
 
-## Life
+## Llamas
 
-### Life Link · ◆ · Focus 1
+### Aura Incendiaria · ◆◆ · Foco 1
 
-**Traits:** Uncommon, Focus, Healing, Manipulate, Oracle, Vitality
+**Rasgos:** Poco común, Concentración, Fuego, Foco, Manipular, Oráculo
 
-**Range:** 30 feet; **Targets:** 1 creature other than you
+**Área:** emanación de 10 pies
 
-**Duration:** 1 minute
+**Duración:** 1 minuto
 
-You forge a connection of life energy between you and your target, distributing harm between both of you. When you first Cast the Spell, the target recovers 1d4 Hit Points. The first time each round that the target takes damage, reduce the damage it takes by 3 (to a minimum of 0 damage). You lose 3 Hit Points each time, or the total damage dealt, if less than 3; this damage ignores any immunities or resistances you have and can't otherwise be mitigated in any way.
+Te rodeas de un aura combustible. Cada vez que una criatura dentro de la emanación recibe daño de fuego, prende fuego, sufriendo 2d4 de daño de fuego persistente.
 
-The spell ends immediately if you fall unconscious. You can Dismiss the spell.
-
-**Heightened (3rd)** You can target 2 creatures other than you. The initial healing increases to 3d4, and the maximum damage reduced and Hit Points lost increases to 5.
-
-**Heightened (6th)** You can target 3 creatures other than you. The initial healing increases to 6d4, and the maximum damage reduced and Hit Points lost increases to 10.
-
-**Heightened (9th)** You can target 4 creatures other than you. The initial healing increases to 9d4, and the maximum damage reduced and Hit Points lost increases to 15.
+**Potenciado (+2)** El daño persistente aumenta en 1d4 y el radio de la emanación aumenta en 5 pies.
 
 ---
 
-### Delay Affliction · ◆◆ · Focus 3
+### Llamas Giratorias · ◆◆ · Foco 3
 
-**Traits:** Uncommon, Concentrate, Focus, Healing, Manipulate, Oracle, Vitality
+**Rasgos:** Poco común, Concentración, Fuego, Foco, Manipular, Oráculo
 
-**Range:** 30 feet; **Targets:** 1 creature
+**Alcance:** 30 pies; **Área:** hasta dos estallidos de 5 pies que no se superpongan
 
-With a surge of healing energy, you push back against an affliction threatening the target and grant a small amount of healing. The target recovers 3d8 Hit Points. You attempt to counteract any one affliction you are aware the target has, suspending its effects for 1 hour on a success rather than removing it. The target is then temporarily immune to delay affliction for 1 day. You don't need to have identified the name of the specific affliction, but you do need to be aware of it; for instance, you couldn't delay an ingested poison during its onset period unless you were aware of the poison.
+**Defensa:** Reflejos básicos
 
-**Heightened (+1)** The target recovers an additional 1d8 Hit Points, and you can attempt to suspend an additional affliction.
+Invocas una tormenta de llamas giratorias, envolviendo a todas las criaturas en esa área e infligiendo 5d6 de daño de fuego con una salvación básica de Reflejos.
 
----
-
-### Life-Giving Form · ◆◆ · Focus 6
-
-**Traits:** Uncommon, Concentrate, Focus, Healing, Light, Manipulate, Oracle, Vitality
-
-**Duration:** 1 minute
-
-You transcend your physical form, becoming a beacon of healing energy. Your body exudes bright light like a torch. You gain resistance 5 to precision damage and weakness 5 to void damage, and your unarmed Strikes deal an extra 1d4 vitality damage.
-
-You can touch a living creature with an Interact action to restore 6d8 Hit Points to it, and when a creature touches you with an Interact action you can allow it to gain the same healing; either way, the creature becomes temporarily immune to life-giving form's healing for 1 minute. This is a vitality healing effect. You can't heal yourself with life-giving form. A creature harmed by vitality damage (such as an undead) that touches you or damages you with an unarmed attack or non-reach melee weapon instead takes 3d4 vitality damage, and it doesn't become temporarily immune.
-
-You can Dismiss this spell.
-
-**Heightened (+1)** The Hit Points restored with an Interact action increases by 1d8, the vitality damage increases by 1, and the resistance and weakness increases by 1.
+**Potenciado (+2)** El daño aumenta en 3d6 y puedes añadir otro estallido de 5 pies que no se superponga al área.
 
 ---
 
-## Lore
+### Fusilada Llameante · ◆◆ · Foco 6
 
-### Brain Drain · ◆◆ · Focus 1
+**Rasgos:** Poco común, Concentración, Fuego, Foco, Manipular, Oráculo
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Mental, Oracle
+**Duración:** 1 minuto
 
-**Range:** 30 feet; **Targets:** 1 creature
+Invocas una andanada interminable de llamas, una serie de explosiones que estallan a tu alrededor como soles en miniatura. Lanzas ignición como parte del lanzamiento de fusilada llameante. Durante la duración de fusilada llameante, el tiempo de lanzamiento de ignición se reduce de 2 acciones a 1.
 
-**Defense:** Will
-
-You probe the target's mind to glean knowledge. This deals 1d8 mental damage with a basic Will save. If the target fails the save, you sort through the stolen memories to attempt a single check to Recall Knowledge. Choose a skill that has the Recall Knowledge action, and use the target's skill modifier for the check.
-
-**Heightened (+1)** The mental damage increases by 1d8.
+**Potenciado (9º)** Durante la duración, también obtienes un bonificador de estado al daño infligido por ignición igual al rango del conjuro de fusilada llameante.
 
 ---
 
-### Access Lore · ◆ · Focus 3
+## Vida
 
-**Traits:** Uncommon, Focus, Fortune, Manipulate, Oracle
+### Vínculo de Vida · ◆ · Foco 1
 
-**Duration:** 1 minute
+**Rasgos:** Poco común, Foco, Sanación, Manipular, Oráculo, Vitalidad
 
-You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one Lore skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.
+**Alcance:** 30 pies; **Objetivos:** 1 criatura que no seas tú
 
----
+**Duración:** 1 minuto
 
-### Dread Secret · ◆◆ · Focus 6
+Forjas una conexión de energía vital entre tú y tu objetivo, distribuyendo el daño entre ambos. Cuando lanzas el conjuro por primera vez, el objetivo recupera 1d4 Puntos de Golpe. La primera vez en cada asalto que el objetivo recibe daño, reduce el daño que sufre en 3 (hasta un mínimo de 0). Tú pierdes 3 Puntos de Golpe cada vez, o el total del daño infligido si es menor que 3; este daño ignora cualquier inmunidad o resistencia que tengas y no puede mitigarse de ninguna otra manera.
 
-**Traits:** Uncommon, Concentrate, Emotion, Fear, Focus, Manipulate, Mental, Oracle
+El conjuro termina inmediatamente si quedas inconsciente. Puedes Descartar el conjuro.
 
-**Range:** 60 feet; **Targets:** up to 6 creatures
+**Potenciado (3º)** Puedes elegir 2 criaturas que no seas tú. La sanación inicial aumenta a 3d4 y el daño máximo reducido y los Puntos de Golpe perdidos aumentan a 5.
 
-**Defense:** Will; **Duration:** until the start of your next turn
+**Potenciado (6º)** Puedes elegir 3 criaturas que no seas tú. La sanación inicial aumenta a 6d4 y el daño máximo reducido y los Puntos de Golpe perdidos aumentan a 10.
 
-You utter a powerful secret at odds with the fundamental nature of the target creatures. Choose a specific resistance or weakness with a numerical value that you believe one or more of the targets have due to Recall Knowledge or previous experience with the targets, such as resistance to fire or weakness to silver. If the information is incorrect for a given target, the spell has no effect on that target. Affected targets must attempt a Will saving throw.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes 1 damage that matches the type or trait of weakness you chose (thus triggering the creature's weakness) if you chose a weakness, or loses its resistance until the end of your next turn if you chose a resistance.
-
-**Failure** As success, and the creature becomes frightened 1 from the revelation of its dread secret.
-
-**Critical Failure** As failure, except the creature is frightened 3.
+**Potenciado (9º)** Puedes elegir 4 criaturas que no seas tú. La sanación inicial aumenta a 9d4 y el daño máximo reducido y los Puntos de Golpe perdidos aumentan a 15.
 
 ---
 
-## Tempest
+### Demorar Aflicción · ◆◆ · Foco 3
 
-### Tempest Touch · ◆ · Focus 1
+**Rasgos:** Poco común, Concentración, Foco, Sanación, Manipular, Oráculo, Vitalidad
 
-**Traits:** Uncommon, Cold, Focus, Manipulate, Oracle, Water
+**Alcance:** 30 pies; **Objetivos:** 1 criatura
 
-**Range:** touch; **Targets:** 1 creature
+Con una oleada de energía curativa, te opones a una aflicción que amenaza al objetivo y otorgas una pequeña cantidad de sanación. El objetivo recupera 3d8 Puntos de Golpe. Intentas contrarrestar cualquier aflicción de la que seas consciente que el objetivo tenga, suspendiendo sus efectos durante 1 hora con un éxito en lugar de eliminarla. El objetivo queda luego temporalmente inmune a demorar aflicción durante 1 día. No necesitas haber identificado el nombre de la aflicción específica, pero sí debes ser consciente de ella; por ejemplo, no podrías demorar un veneno ingerido durante su periodo de aparición a menos que seas consciente del veneno.
 
-**Defense:** Fortitude
-
-Your touch calls forth a churning mass of icy water that clings to your target, dealing 1d4 bludgeoning damage and 1d4 cold damage. The target must attempt a Fortitude save.
-
-**Critical Success** The target is unaffected.
-
-**Success** The target takes half damage and a –5-foot circumstance penalty to its Speeds until the end of your next turn.
-
-**Failure** The target takes full damage and a –10-foot circumstance penalty to its Speeds until the end of your next turn.
-
-**Critical Failure** As failure, but the target takes double damage.
-
-**Heightened (+1)** The bludgeoning and cold damage each increase by 1d4.
+**Potenciado (+1)** El objetivo recupera 1d8 Puntos de Golpe adicionales y puedes intentar suspender una aflicción adicional.
 
 ---
 
-### Thunderburst · ◆◆ · Focus 3
+### Forma Vivificante · ◆◆ · Foco 6
 
-**Traits:** Uncommon, Air, Concentrate, Focus, Manipulate, Oracle, Sonic
+**Rasgos:** Poco común, Concentración, Foco, Sanación, Luz, Manipular, Oráculo, Vitalidad
 
-**Range:** 100 feet; **Area:** 20-foot burst
+**Duración:** 1 minuto
 
-**Defense:** Fortitude
+Trasciendes tu forma física, convirtiéndote en un faro de energía curativa. Tu cuerpo emite luz brillante como una antorcha. Ganas resistencia 5 al daño de precisión y debilidad 5 al daño de vacío, y tus Golpes desarmados infligen 1d4 de daño de vitalidad adicional.
 
-You create a powerful blast of air and a loud peal of thunder, dealing 2d6 bludgeoning damage and 2d6 sonic damage. Each creature in the area must attempt a Fortitude save.
+Puedes tocar a una criatura viviente con una acción Interactuar para restaurarle 6d8 Puntos de Golpe, y cuando una criatura te toca con una acción Interactuar puedes permitirle obtener la misma curación; en cualquier caso, la criatura se vuelve temporalmente inmune a la curación de forma vivificante durante 1 minuto. Esto es un efecto de curación de vitalidad. No puedes curarte a ti mismo con forma vivificante. Una criatura perjudicada por daño de vitalidad (como un no muerto) que te toque o te dañe con un ataque desarmado o un arma cuerpo a cuerpo sin alcance, en su lugar sufre 3d4 de daño de vitalidad, y no obtiene inmunidad temporal.
 
-**Critical Success** The creature is unaffected.
+Puedes Descartar este conjuro.
 
-**Success** The creature takes half damage.
-
-**Failure** The creature takes full damage and is deafened for 1 minute.
-
-**Critical Failure** The creature takes double damage and is deafened for 1 hour.
-
-**Heightened (+2)** Each type of damage increases by 2d6, and the area increases by 5 feet.
+**Potenciado (+1)** Los Puntos de Golpe restaurados con una acción Interactuar aumentan en 1d8, el daño de vitalidad aumenta en 1 y la resistencia y la debilidad aumentan en 1.
 
 ---
 
-### Tempest Form · ◆◆ · Focus 6
+## Saber
 
-**Traits:** Uncommon, Concentrate, Focus, Manipulate, Oracle, Polymorph
+### Drenaje Cerebral · ◆◆ · Foco 1
 
-**Duration:** sustained up to 1 minute
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Mental, Oráculo
 
-Your body becomes fluid. Choose whether to become air, water, or mist. The spell gains the air trait if you choose air or mist, and the water trait if you choose water or mist. You become amorphous, as does your armor. You lose any item bonus to AC and use your proficiency bonus for unarmored defense to determine your AC. You also gain resistance 10 to physical damage and become immune to precision damage. You can slip through tiny cracks and don't need to breathe. You can't cast spells, activate items, or use actions that have the attack or manipulate trait, except those granted by this spell. You also gain the following effects based on your form.
+**Alcance:** 30 pies; **Objetivos:** 1 criatura
 
-- **Air** You gain a fly Speed of 20 feet and become invisible while you are in the air. You can create the effects of a gust of wind from your space as a 2-action activity, which has the manipulate trait.
-- **Mist** You gain a fly Speed of 20 feet, and it becomes hard to see through you. Any creature on one side of your space who is targeted by a creature on the opposite side is concealed to the targeting creature.
-- **Water** You gain a swim Speed of 20 feet and become invisible while you are in the water. You can electrically charge yourself by taking a single action, which has the manipulate trait. If you do, you are no longer invisible in the water due to electricity indicating your location, but any creature that makes a melee attack against you takes 1d6 electricity damage.
+**Defensa:** Voluntad
 
-**Heightened (+2)** The resistance increases by 5, and the electricity damage from the charged water form increases by 1.
+Sondeas la mente del objetivo para extraer conocimiento. Esto inflige 1d8 de daño mental con una salvación básica de Voluntad. Si el objetivo falla la salvación, revisas los recuerdos robados para intentar una única prueba de Recordar Conocimientos. Elige una habilidad que tenga la acción Recordar Conocimientos y usa el modificador de habilidad del objetivo para la prueba.
+
+**Potenciado (+1)** El daño mental aumenta en 1d8.
+
+---
+
+### Acceder a Saber · ◆ · Foco 3
+
+**Rasgos:** Poco común, Foco, Fortuna, Manipular, Oráculo
+
+**Duración:** 1 minuto
+
+Tamizas el conocimiento divino del multiverso, buscando fragmentos relacionados con un tema particular. Elige una habilidad de Saber. Obtienes temporalmente el mismo rango de competencia en esa habilidad de Saber que tu rango de competencia para tu lanzamiento de conjuros de oráculo.
+
+---
+
+### Secreto Pavoroso · ◆◆ · Foco 6
+
+**Rasgos:** Poco común, Concentración, Emoción, Miedo, Foco, Manipular, Mental, Oráculo
+
+**Alcance:** 60 pies; **Objetivos:** hasta 6 criaturas
+
+**Defensa:** Voluntad; **Duración:** hasta el comienzo de tu próximo turno
+
+Pronuncias un secreto poderoso contrario a la naturaleza fundamental de las criaturas objetivo. Elige una resistencia o debilidad específica con un valor numérico que creas que uno o más de los objetivos tienen, debido a Recordar Conocimientos o experiencia previa con los objetivos, como resistencia al fuego o debilidad a la plata. Si la información es incorrecta para un objetivo, el conjuro no tiene efecto sobre dicho objetivo. Los objetivos afectados deben intentar una salvación de Voluntad.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura sufre 1 de daño que coincide con el tipo o rasgo de la debilidad que elegiste (activando así la debilidad de la criatura) si elegiste una debilidad, o pierde su resistencia hasta el final de tu próximo turno si elegiste una resistencia.
+
+**Fracaso** Como en éxito, y la criatura queda asustada 1 por la revelación de su secreto pavoroso.
+
+**Fracaso crítico** Como en fracaso, excepto que la criatura queda asustada 3.
+
+---
+
+## Tempestad
+
+### Toque de Tempestad · ◆ · Foco 1
+
+**Rasgos:** Poco común, Frío, Foco, Manipular, Oráculo, Agua
+
+**Alcance:** toque; **Objetivos:** 1 criatura
+
+**Defensa:** Fortaleza
+
+Tu toque convoca una masa arremolinada de agua helada que se adhiere a tu objetivo, infligiendo 1d4 de daño contundente y 1d4 de daño de frío. El objetivo debe intentar una salvación de Fortaleza.
+
+**Éxito crítico** El objetivo no se ve afectado.
+
+**Éxito** El objetivo sufre la mitad de daño y un penalizador circunstancial de –5 pies a sus Velocidades hasta el final de tu próximo turno.
+
+**Fracaso** El objetivo sufre el daño completo y un penalizador circunstancial de –10 pies a sus Velocidades hasta el final de tu próximo turno.
+
+**Fracaso crítico** Como en fracaso, pero el objetivo sufre el doble de daño.
+
+**Potenciado (+1)** El daño contundente y el de frío aumentan cada uno en 1d4.
+
+---
+
+### Explosión de Trueno · ◆◆ · Foco 3
+
+**Rasgos:** Poco común, Aire, Concentración, Foco, Manipular, Oráculo, Sónico
+
+**Alcance:** 100 pies; **Área:** estallido de 20 pies
+
+**Defensa:** Fortaleza
+
+Creas una potente ráfaga de aire y un fuerte trueno, infligiendo 2d6 de daño contundente y 2d6 de daño sónico. Cada criatura en el área debe intentar una salvación de Fortaleza.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura sufre la mitad de daño.
+
+**Fracaso** La criatura sufre el daño completo y queda ensordecida durante 1 minuto.
+
+**Fracaso crítico** La criatura sufre el doble de daño y queda ensordecida durante 1 hora.
+
+**Potenciado (+2)** Cada tipo de daño aumenta en 2d6 y el área aumenta en 5 pies.
+
+---
+
+### Forma de Tempestad · ◆◆ · Foco 6
+
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Oráculo, Polimorfo
+
+**Duración:** mantenido hasta 1 minuto
+
+Tu cuerpo se vuelve fluido. Elige si te conviertes en aire, agua o niebla. El conjuro obtiene el rasgo aire si eliges aire o niebla, y el rasgo agua si eliges agua o niebla. Te vuelves amorfo, al igual que tu armadura. Pierdes cualquier bonificador por objeto a la CA y usas tu bonificador de competencia por defensa sin armadura para determinar tu CA. También ganas resistencia 10 al daño físico y te vuelves inmune al daño de precisión. Puedes deslizarte por pequeñas grietas y no necesitas respirar. No puedes lanzar conjuros, activar objetos ni usar acciones que tengan el rasgo de ataque o manipular, excepto las otorgadas por este conjuro. También ganas los siguientes efectos según tu forma.
+
+- **Aire** Ganas una Velocidad de vuelo de 20 pies y te vuelves invisible mientras estás en el aire. Puedes crear los efectos de una ráfaga de viento desde tu espacio como una actividad de 2 acciones, que tiene el rasgo manipular.
+- **Niebla** Ganas una Velocidad de vuelo de 20 pies y se vuelve difícil ver a través de ti. Cualquier criatura a un lado de tu espacio que sea objetivo de una criatura en el lado opuesto está oculta para la criatura que ataca.
+- **Agua** Ganas una Velocidad de nado de 20 pies y te vuelves invisible mientras estás en el agua. Puedes cargarte eléctricamente realizando una sola acción, que tiene el rasgo manipular. Si lo haces, dejas de ser invisible en el agua debido a la electricidad que indica tu ubicación, pero cualquier criatura que realice un ataque cuerpo a cuerpo contra ti sufre 1d6 de daño de electricidad.
+
+**Potenciado (+2)** La resistencia aumenta en 5, y el daño de electricidad de la forma de agua cargada aumenta en 1.

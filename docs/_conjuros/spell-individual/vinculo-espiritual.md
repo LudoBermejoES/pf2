@@ -5,12 +5,20 @@ title: Vinculo Espiritual
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Vinculo Espiritual ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Curar, Espiritu, Manipular
+
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura voluntaria
 **Duracion:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Curar</span>
+<span class="trait-tag">Espiritu</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Formas un vinculo espiritual con otra criatura, absorbiendo su dolor. Cuando Lanzas este conjuro y al inicio de cada uno de tus turnos, si el objetivo se encuentra por debajo de sus Puntos de Golpe maximos, recupera 2 (o la diferencia entre sus Puntos de Golpe maximos y los actuales si es menor). Pierdes tantos como recupera el objetivo.
 

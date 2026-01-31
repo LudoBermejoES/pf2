@@ -5,12 +5,18 @@ title: Pasaje Seguro
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Pasaje Seguro ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** arcana, divina, primigenia
 **Rango de distancia:** toque; **Área:** una sección de terreno de 10 pies (3 m) de anchura, 10 pies (3 m) de altura y 60 pies (18 m) de longitud
 **Duración:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Haces que el paso a través del área sea seguro durante un breve periodo de tiempo. Cualquiera que atraviese el área obtendrá los siguientes beneficios contra los efectos dañinos del terreno y del medio ambiente, incluyendo daño medioambiental, terreno arriesgado y peligros en el área. El conjuro concede un bonificador +2 por estatus a la CA y a las salvaciones contra dichos efectos, y resistencia 5 a todo el daño debido a dichos efectos. Además, evita que cualquier cosa del área que está a punto de derrumbarse, como por ejemplo un puente desvencijado o un techo inestable lo haga, excepto bajo una tensión extrema que derrumbaría una estructura normal de su tipo.
 

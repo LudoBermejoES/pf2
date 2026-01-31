@@ -5,12 +5,22 @@ title: Sugerencia
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Sugerencia ◆◆ [CONJURO 4]
-**Rasgos:** concentrar, discreto, incapacitación, lingüístico, manipular, mental
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Discreto</span>
+<span class="trait-tag">Incapacitación</span>
+<span class="trait-tag">Lingüístico</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Tus palabras almibaradas son difíciles de resistir por parte de las criaturas. Sugieres un curso de acción al objetivo, que debe estar formulado de manera que le parezca lógico y no puede ser autodestructivo ni ir obviamente en contra de sus propios intereses. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 

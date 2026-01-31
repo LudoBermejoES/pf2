@@ -5,12 +5,20 @@ title: Cautivar
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Cautivar ◆◆ [CONJURO 3]
-**Rasgos:** auditivo, concentrar, emocion, manipular
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** todas las criaturas dentro del alcance
 **Defensa:** Voluntad; **Duracion:** mantenido
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Auditivo</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Tus palabras fascinan a tus objetivos. Hablas o cantas sin interrupcion tanto en el lanzamiento como en la duracion. Los objetivos que son conscientes de tu discurso o de tu cancion podrian concederte su atencion univoca; cada objetivo tiene que hacer una salvacion de Voluntad. El DJ podria conceder un bonificador por circunstancia (con un maximo de +4) si el objetivo es de una religion, ascendencia o tendencia politica opuesta, o por lo demas es poco probable que este de acuerdo con lo que dices.
 

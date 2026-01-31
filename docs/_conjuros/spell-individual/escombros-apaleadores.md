@@ -5,12 +5,19 @@ title: Escombros Apaleadores
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Escombros Apaleadores ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Manipular, Tierra
+
 **Tradiciones:** arcana, primigenia
 **Area:** cono de 15 pies (4,5 m)
 **Defensa:** Reflejos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Tierra</span>
+</div>
+
+---
 
 Una rociada de pesadas piedras vuela por los aires frente a ti. Los escombros infligen 2d4 dano contundente a cada criatura en el area. Cada criatura tiene que hacer una salvacion de Reflejos.
 

@@ -5,12 +5,22 @@ title: Luz Sagrada
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Luz Sagrada ◆◆ [CONJURO 3]
-**Rasgos:** Ataque, Concentrar, Fuego, Luz, Manipular, Sagrado
+
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Defensa:** CA
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Ataque</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuego</span>
+<span class="trait-tag">Luz</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Sagrado</span>
+</div>
+
+---
 
 Haces brillar un abrasador rayo de luz tenido de energia sagrada. Haz un ataque de conjuro a distancia. El rayo inflige 5d6 dano por fuego. Si el objetivo tiene el rasgo sacrilego, infliges 5d6 dano adicional espiritual.
 

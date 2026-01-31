@@ -5,11 +5,18 @@ title: Forma Humanoide
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Forma Humanoide ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** arcana, ocultista, primigenia
 **Duracion:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Transformas tu apariencia a la de un humanoide Pequeno o Mediano, como por ejemplo un elfo, enano, goblin, humano, mediano u orco. Obtienes el rasgo humanoide ademas de tus demas rasgos mientras estas en esta forma, asi como cualquier rasgo relacionado con el tipo de la criatura (como por ejemplo, goblin o humano). Si la transformacion reduce tu tamano, tu alcance queda reducido en identica medida (tipicamente: 5 pies (1,5 m)). La transformacion no cambia tus estadisticas en modo alguno, y no obtienes ninguna aptitud especial de la forma humanoide que adoptas. Sigues pudiendo vestir y utilizar tu equipo, que cambia de tamano (si es necesario) para encajar con tu nueva forma. Si algun objeto abandona tu persona, vuelve a su tamano habitual.
 

@@ -5,12 +5,18 @@ title: Resistir Energía
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Resistir Energía ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duración:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Un escudo de energía elemental protege a una criatura contra un tipo de daño por energía. Elige entre daño por ácido, electricidad, frío, fuego o sónico. El objetivo y su equipo obtienen resistencia 5 contra el tipo de daño elegido.
 

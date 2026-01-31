@@ -5,12 +5,19 @@ title: Terremoto
 chapter: Conjuros
 spell_level: 8
 ---
-
 ## Terremoto ◆◆ [CONJURO 8]
-**Rasgos:** Concentrar, Manipular, Tierra
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
 **Duracion:** 1 asalto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Tierra</span>
+</div>
+
+---
 
 Agitas el suelo, haces caer criaturas en brechas y derrumbas estructuras. El DJ podria anadir efectos adicionales en determinadas areas. Un acantilado podria derrumbarse, haciendo que las criaturas caigan por el, o un lago podria quedar drenado al abrirse fisuras bajo su superficie, dejando un pantano de arenas movedizas.
 

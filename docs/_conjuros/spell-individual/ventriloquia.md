@@ -5,11 +5,19 @@ title: Ventriloquia
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Ventriloquia ◆◆ [CONJURO 1]
-**Rasgos:** Auditivo, Concentrar, Ilusion, Manipular
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Auditivo</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Siempre que hablas o haces algun otro sonido vocal, puedes hacer que tu vocalizacion parezca originarse en algun lugar diferente a 60 pies (18 m) o menos, y puedes cambiar libremente dicha ubicacion aparente mientras vocalizas. Toda criatura que oye el sonido puede tratar de descreer tu ilusion.
 

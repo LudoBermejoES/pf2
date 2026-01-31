@@ -5,13 +5,23 @@ title: Escena Ilusoria
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Escena Ilusoria [CONJURO 5]
-**Rasgos:** Auditivo, Concentrar, Ilusion, Manipular, Olfativo, Visual
+
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 30 pies (9 m)
 **Duracion:** 1 hora
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Auditivo</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Olfativo</span>
+<span class="trait-tag">Visual</span>
+</div>
+
+---
 
 Creas una escena imaginaria que incluye hasta 10 criaturas individuales u objetos de diverso tamano, todos los cuales deben estar en el area del conjuro. Dichos elementos generan los sonidos y los olores apropiados, y su tacto es el correcto. Los elementos de una escena ilusoria no pueden hablar. A diferencia del conjuro criatura ilusoria, las criaturas de tu escena carecen de aptitudes y estadisticas de combate. Tu escena no incluye cambios al entorno que la rodea, aunque puedes colocarla en el entorno ilusorio de un conjuro de espejismo.
 

@@ -5,12 +5,22 @@ title: Posesión
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Posesión ◆◆ [CONJURO 7]
-**Rasgos:** Poco común, Concentrar, Incapacitación, Manipular, Mental, Posesión
+
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura viva
 **Defensa:** Voluntad; **Duración:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco común</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Incapacitación</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Posesión</span>
+</div>
+
+---
 
 Envías tu mente y tu alma al cuerpo del objetivo, intentando tomar el control. El objetivo tiene que llevar a cabo una salvación de Voluntad. Si quieres ejercer menos control sobre el objetivo, puedes elegir los efectos de cualquier grado de éxito más favorable para el mismo.
 

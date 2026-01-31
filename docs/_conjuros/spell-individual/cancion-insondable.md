@@ -5,12 +5,23 @@ title: Cancion Insondable
 chapter: Conjuros
 spell_level: 9
 ---
-
 ## Cancion Insondable ◆◆ [CONJURO 9]
-**Rasgos:** auditivo, concentrar, emocion, incapacitacion, manipular, mental, miedo
+
 **Tradiciones:** ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** hasta 5 criaturas
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Auditivo</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Incapacitacion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Miedo</span>
+</div>
+
+---
 
 Notas fugaces de una cancion extraña y antinatural llenan el aire, abrumando la mente. Cada objetivo tiene que hacer una salvacion de Voluntad cuando lanzas el conjuro y de nuevo la primera vez que lo Mantienes cada asalto. Una criatura solo tiene que hacer una salvacion contra la cancion cada asalto, y tienes que conservar los mismos objetivos cuando Mantienes el conjuro.
 

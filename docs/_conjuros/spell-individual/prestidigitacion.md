@@ -5,12 +5,19 @@ title: Prestidigitación
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Prestidigitación ◆◆ [TRUCO 1]
-**Rasgos:** Concentrar, Manipular, Truco
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 objeto (sólo cocinar, elevar o limpiar)
 **Duración:** mantenido
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Truco</span>
+</div>
+
+---
 
 La más sencilla de las magias obedece tus órdenes. Puede llevar a cabo efectos mágicos sencillos mientras Mantienes el conjuro. Cada vez que lo haces, puedes elegir una de cuatro opciones.
 

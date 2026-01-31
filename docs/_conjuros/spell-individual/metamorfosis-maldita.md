@@ -5,12 +5,21 @@ title: Metamorfosis Maldita
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Metamorfosis Maldita ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Incapacitacion, Maldicion, Manipular, Polimorfia
+
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duracion:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Incapacitacion</span>
+<span class="trait-tag">Maldicion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Transformas la criatura objetivo en un animal inofensivo apropiado al area, con efectos basados en su salvacion de Fortaleza.
 

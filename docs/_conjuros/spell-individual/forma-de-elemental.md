@@ -5,11 +5,18 @@ title: Forma de Elemental
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Forma de Elemental ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Llamas al poder de los Planos para transformarte en una forma de batalla elemental Mediana. Cuando Lanzas este conjuro, elige un elemento de los indicados. Cuando estas en esta forma obtienes el rasgo correspondiente ademas del rasgo elemental. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar el conjuro.
 

@@ -5,11 +5,18 @@ title: Forma de Insecto
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Forma de Insecto ◆◆ [CONJURO 3]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Te concentras en un bicho sencillo y te transformas en una forma de batalla animal de tamano Mediano. Cuando Lanzas este conjuro, eliges una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (como por ejemplo una mariquita o un escarabajo para los coleopteros), pero esto no tiene efecto alguno ni en el Tamano ni en las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar este conjuro.
 

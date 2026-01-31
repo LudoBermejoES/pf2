@@ -5,12 +5,19 @@ title: Observación Implacable
 chapter: Conjuros
 spell_level: 8
 ---
-
 ## Observación Implacable ◆◆ [CONJURO 8]
-**Rasgos:** Concentrar, Escudriñamiento, Manipular
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 100 pies (30 m); **Área:** explosión de 20 pies (6 m); **Objetivos:** 1 criatura u objeto rastreado y hasta otras 5 criaturas voluntarias
 **Duración:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Escudriñamiento</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Este conjuro concede una visión perfecta basada en el escudriñamiento, lo que permite a diversos objetivos voluntarios seguir los movimientos o fijar la posición exacta de una criatura u objeto. Elige una criatura u objeto objetivo a rastrear en el área, que se convierte en el sensor del conjuro. Hasta 5 criaturas voluntarias a tu elección en el área pueden ver una imagen fantasmal de dicha criatura u objeto cuando lo pierden de vista. Pueden percibir perfectamente a la criatura u objeto, lo que les permite ignorar el estado oculto o invisible, aunque las barreras físicas siguen proporcionando cobertura.
 

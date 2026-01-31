@@ -5,13 +5,20 @@ title: Ojo Explorador
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Ojo Explorador [CONJURO 5]
-**Rasgos:** Concentrar, Escudriñamiento, Manipular
+
 **Tradiciones:** arcana, divina, ocultista
 **Lanzamiento:** 1 minuto
 **Rango de distancia:** consulta el texto
 **Duración:** mantenido
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Escudriñamiento</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Creas un ojo invisible y flotante, de 1 pulgada (2,54 cm) de diámetro, en un lugar que puedes ver, a 500 pies (150 m) o menos. Ve en todas las direcciones con tus sentidos visuales normales y te transmite continuamente lo que ve.
 

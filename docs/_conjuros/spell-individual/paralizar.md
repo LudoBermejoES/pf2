@@ -5,12 +5,20 @@ title: Paralizar
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Paralizar ◆◆ [CONJURO 3]
-**Rasgos:** Concentrar, Incapacitación, Manipular, Mental
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Incapacitación</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Bloqueas los impulsos motores del objetivo antes de que puedan abandonar su mente, inmovilizándolo donde está. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 

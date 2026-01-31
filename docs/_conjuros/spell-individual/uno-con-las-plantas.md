@@ -5,11 +5,19 @@ title: Uno con las Plantas
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Uno con las Plantas ◆◆ [DOTE 2]
-**Rasgos:** Concentrar, Madera, Manipular, Planta
+
 **Tradiciones:** primigenia
 **Duracion:** 10 minutos u 8 horas
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Madera</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Planta</span>
+</div>
+
+---
 
 Puedes, o bien transformarte en una planta, o bien fusionarte con la materia vegetal. Mientras estas transformado, no puedes moverte ni afectar a nada fuera de la planta, pero puedes lanzar conjuros si no requieren linea de efecto mas alla de la planta. Puedes Disipar este conjuro.
 

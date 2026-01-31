@@ -5,12 +5,21 @@ title: Dominar
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Dominar ◆◆ [CONJURO 6]
-**Rasgos:** Poco comun, Concentrar, Incapacitacion, Manipular, Mental
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** hasta tus siguientes preparativos diarios
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco comun</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Incapacitacion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Tomas el mando del objetivo, obligandole a que te obedezca. Si le das una orden obviamente autodestructiva, el objetivo no actua hasta que le das una nueva orden. El efecto depende de su salvacion de Voluntad.
 

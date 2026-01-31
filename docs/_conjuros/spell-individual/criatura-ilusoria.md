@@ -5,12 +5,22 @@ title: Criatura Ilusoria
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Criatura Ilusoria ◆◆ [CONJURO 2]
-**Rasgos:** auditivo, concentrar, ilusion, manipular, olfativo, visual
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 500 pies (150 m)
 **Duracion:** mantenido
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Auditivo</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Olfativo</span>
+<span class="trait-tag">Visual</span>
+</div>
+
+---
 
 Creas una imagen ilusoria de una criatura Grande o mas pequeña. Genera los sonidos y olores apropiados, y es creible incluso al tacto. Si la imagen y tu os llegais a separar mas de 500 pies (150 m), el conjuro se acaba.
 

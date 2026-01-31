@@ -5,12 +5,21 @@ title: Tormenta Iracunda
 chapter: Conjuros
 spell_level: 9
 ---
-
 ## Tormenta Iracunda ◆◆◆ [CONJURO 9]
-**Rasgos:** Aire, Concentrar, Electricidad, Frio, Manipular
+
 **Tradiciones:** primigenia
 **Rango de distancia:** 800 pies (240 m); **Area:** explosion de 400 pies (120 m)
 **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Aire</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Electricidad</span>
+<span class="trait-tag">Frio</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Una enorme nube de tormenta se forma en el aire por encima del area, extendiendo lluvia y vendavales. El viento impone un penalizador -4 por circunstancia a los ataques fisicos a distancia. El aire en el area se convierte en terreno dificil mayor para las criaturas voladoras. Cuando Lanzas este conjuro y la primera vez cada asalto que lo Mantienes en asaltos subsiguientes, puedes elegir uno de los siguientes efectos de la tormenta. No puedes elegir el mismo efecto dos veces seguidas.
 

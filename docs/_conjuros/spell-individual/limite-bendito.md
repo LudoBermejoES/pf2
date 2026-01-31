@@ -5,12 +5,20 @@ title: Limite Bendito
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Limite Bendito ◆◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Fuerza, Manipular, Santificado
+
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Area:** una explosion de hasta 60 pies (18 m)
 **Defensa:** Reflejos; **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuerza</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Santificado</span>
+</div>
+
+---
 
 Aparecen centenares de manifestaciones de fuerza divina, girando en una enorme esfera protectora. Tipicamente parecen fragmentos puntiagudos, pero a menudo adoptan una apariencia tematicamente vinculada al dios del lanzador. La esfera es hueca y las manifestaciones forman un caparazon de 2 pulgadas (5 cm) de profundidad en el borde exterior. Puedes elegir que la explosion sea mas pequena, en incrementos de 5 pies (1,5 m) cuando la lanzas.
 

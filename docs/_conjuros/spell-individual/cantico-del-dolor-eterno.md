@@ -5,12 +5,23 @@ title: Cantico del Dolor Eterno
 chapter: Conjuros
 spell_level: 8
 ---
-
 ## Cantico del Dolor Eterno ◆◆ [CONJURO 8]
-**Rasgos:** auditivo, concentrar, emocion, maldicion, manipular, mental, miedo
+
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Auditivo</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Maldicion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Miedo</span>
+</div>
+
+---
 
 Creas una melodia destilada a partir del mas puro dolor, transmitiendo la perdida inevitable de todo aquello que tu objetivo aprecia, y que solo es audible para el. El objetivo sufre 10d6 daño mental dependiendo de su salvacion de Voluntad. Una criatura maldita por este conjuro no se puede beneficiar de bonificadores por circunstancia o por estatus, por la duracion indicada en el grado de exito.
 

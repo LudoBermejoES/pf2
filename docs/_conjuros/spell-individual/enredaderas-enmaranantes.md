@@ -5,12 +5,19 @@ title: Enredaderas Enmaranantes
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Enredaderas Enmaranantes ◆◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Madera, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 40 pies (9 m)
 **Duracion:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Madera</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Unas enredaderas densas y retorcidas brotan de todas las superficies y llenan todas las masas de agua de la zona. Cualquier criatura que se mueva por tierra, o Trepando o Nadando en la zona de las enredaderas sufre un penalizador -10 pies (3 m) por circunstancia a sus Velocidades.
 

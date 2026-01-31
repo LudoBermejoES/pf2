@@ -5,12 +5,22 @@ title: Invocar Espiritus
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Invocar Espiritus ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Emocion, Manipular, Mental, Miedo, Vacio
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Miedo</span>
+<span class="trait-tag">Vacio</span>
+</div>
+
+---
 
 Unas apariciones desastradas de personas muertas se alzan para acechar a los vivos. Infligen 2d4 dano mental y 2d4 dano por vacio a cada criatura viva en el area, que tiene que hacer una salvacion basica de Reflejos. Ademas, las criaturas que fallan criticamente la salvacion quedan asustadas 2 y huyen durante 1 asalto.
 

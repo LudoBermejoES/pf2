@@ -5,11 +5,18 @@ title: Escudo de Fuego
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Escudo de Fuego ◆◆ [CONJURO 4]
-**Rasgos:** Concentrar, Fuerza, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuerza</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Creas un escudo flotante hecho de fuego. Mientras el escudo persiste, su calor te concede resistencia al frio 5 y te hace inmune al frio ambiental suave y severo. Puedes Alzar un escudo con el escudo de fuego como si fuera un escudo normal para obtener un bonificador +1 por circunstancia a tu CA.
 

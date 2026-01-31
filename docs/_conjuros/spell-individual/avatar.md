@@ -5,11 +5,18 @@ title: Avatar
 chapter: Conjuros
 spell_level: 10
 ---
-
 ## Avatar ◆◆ [CONJURO 10]
-**Rasgos:** concentrar, manipular, polimorfia
+
 **Tradiciones:** divina
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Te transformas en un avatar de tu dios, adoptando una forma de batalla Enorme. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar este conjuro.
 

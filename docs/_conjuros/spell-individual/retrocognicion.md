@@ -5,12 +5,18 @@ title: Retrocognición
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Retrocognición [CONJURO 7]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 1 minuto
 **Duración:** mantenido
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Abriendo tu mente a los ecos mentales, obtienes impresiones de acontecimientos pasados que tuvieron lugar en tu ubicación actual. Retrocognición revela impresiones psíquicas de sucesos que ocurrieron el día anterior a lo largo del primer minuto de la duración, seguidas de impresiones del día anterior el siguiente minuto, y así sucesivamente. Estos ecos no funcionan como una visión, sino que en su lugar revelan impresiones de emociones y metáforas que proporcionan pistas y detalles crípticos del pasado.
 

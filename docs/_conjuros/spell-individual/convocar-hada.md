@@ -5,12 +5,19 @@ title: Convocar Hada
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Convocar Hada ◆◆◆ [CONJURO 1]
-**Rasgos:** concentrar, convocar, manipular
+
 **Tradiciones:** ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m)
 **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Convocar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Convocas a una criatura con el rasgo hada y cuyo nivel es -1 para que luche por ti.
 

@@ -5,12 +5,19 @@ title: Púa Empaladora
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Púa Empaladora ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Manipular, Metal
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Reflejos; **Duración:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Metal</span>
+</div>
+
+---
 
 Conjuras una púa que surge del suelo bajo una criatura objetivo, con el potencial de empalarla. La púa es de hierro frío e inflige 8d6 daño perforante. El objetivo tiene que hacer una salvación de Reflejos.
 

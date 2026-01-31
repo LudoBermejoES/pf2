@@ -5,12 +5,20 @@ title: Ataque de Risa
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Ataque de Risa ◆◆ [CONJURO 2]
-**Rasgos:** concentrar, emocion, manipular, mental
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura viva
 **Defensa:** Voluntad; **Duracion:** mantenido
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 El objetivo se ve abrumado por una risa incontrolable. Tiene que hacer una salvacion de Voluntad.
 

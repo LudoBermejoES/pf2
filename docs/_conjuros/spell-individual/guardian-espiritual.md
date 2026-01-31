@@ -5,12 +5,19 @@ title: Guardian Espiritual
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Guardian Espiritual ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m)
 **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Un guardian de tamano Mediano hecho de fuerza magica aparece en un espacio sin ocupar dentro del alcance. El guardian espiritual es translucido y empuna un eco fantasmal de un arma que empunas o llevas. Si tienes un dios, adopta la forma de uno de los asistentes o servidores del mismo. Si santificas el conjuro, sus ataques tambien son santificados.
 

@@ -5,13 +5,21 @@ title: Espejismo
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Espejismo [CONJURO 4]
-**Rasgos:** Poco comun, Concentrar, Ilusion, Manipular
+
 **Tradiciones:** arcana, ocultista, primigenia
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 50 pies (15 m)
 **Duracion:** hasta tus siguientes preparativos diarios
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco comun</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Creas una ilusion que hace que el terreno natural parezca, suene, se sienta y huela como un tipo diferente de terreno. Esto no disfrazara ninguna estructura o criatura que haya en el area.
 

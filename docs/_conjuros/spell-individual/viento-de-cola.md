@@ -5,11 +5,18 @@ title: Viento de Cola
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Viento de Cola ◆◆ [TRUCO]
-**Rasgos:** Aire, Concentrar, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 hora
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Aire</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 El viento a tu espalda te empuja a buscar nuevos horizontes. Obtienes un bonificador +10 pies (3 m) por estatus a tu Velocidad.
 

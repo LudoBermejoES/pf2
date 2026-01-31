@@ -5,12 +5,19 @@ title: Ráfaga de Viento
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Ráfaga de Viento ◆◆ [CONJURO 1]
-**Rasgos:** Aire, Concentrar, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Área:** línea de 60 pies (18 m)
 **Defensa:** Fortaleza; **Duración:** hasta el inicio de tu siguiente turno
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Aire</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Un violento viento surge de la palma de tu mano, soplando desde el punto en el que estás cuando Lanzas el conjuro hasta el extremo opuesto de la línea. El viento apaga pequeños fuegos no mágicos, dispersa la niebla y la bruma, mueve objetos de Impedimenta ligera o menor y empuja objetos mayores. Las criaturas Grandes o menores del área tienen que hacer una salvación de Fortaleza. Las criaturas Grandes o menores que se mueven más tarde al camino de la ráfaga tienen que hacer la salvación al entrar.
 

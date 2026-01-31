@@ -5,11 +5,18 @@ title: Forma de Dragon
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Forma de Dragon ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Invocando magia poderosa, obtienes una forma de batalla de dragon Grande. Cuando Lanzas este conjuro, elige un tipo de dragon comun u otro tipo al que tu DJ te permite el acceso. Cuando te encuentras en esta forma, obtienes el rasgo dragon. En esta forma de batalla puedes tener manos, y puedes llevar a cabo acciones de manipular. Puedes Disipar el conjuro.
 

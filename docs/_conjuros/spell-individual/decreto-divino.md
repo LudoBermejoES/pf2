@@ -5,12 +5,20 @@ title: Decreto Divino
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Decreto Divino ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Espiritu, Manipular, Santificado
+
 **Tradiciones:** divina
 **Rango de distancia:** 40 pies (12 m); **Area:** emanacion de 40 pies (12 m)
 **Defensa:** Fortaleza; **Duracion:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Espiritu</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Santificado</span>
+</div>
+
+---
 
 Entonas una potente letania de tu fe, un mandato que dana a quienes se oponen a tus ideales. Infliges 7d10 dano espiritual a tus enemigos en el area; cada enemigo tiene que hacer una salvacion de Fortaleza.
 

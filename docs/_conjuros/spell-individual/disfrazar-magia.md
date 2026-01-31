@@ -5,13 +5,20 @@ title: Disfrazar Magia
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Disfrazar Magia [CONJURO 1]
-**Rasgos:** Concentrar, Ilusion, Manipular
+
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 1 minuto
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 objeto o efecto de conjuro
 **Duracion:** hasta tus siguientes preparativos diarios
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Alteras la forma en que el aura magica de un objeto o conjuro aparece ante efectos como los de detectar magia. Puedes ocultar las auras por completo, hacer que un objeto parezca un objeto comun de un nivel menor o hacer que un conjuro parezca un conjuro comun del mismo rango o inferior. Puedes Disipar el conjuro.
 

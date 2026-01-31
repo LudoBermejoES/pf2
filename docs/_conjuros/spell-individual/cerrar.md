@@ -5,12 +5,18 @@ title: Cerrar
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Cerrar ◆◆ [DOTE 1]
-**Rasgos:** concentrar, manipular
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 cerradura, o una puerta o recipiente con un cierre
 **Duracion:** hasta tus siguientes preparativos diarios
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 El mecanismo del objetivo se cierra con un chasquido, sujeto por custodias magicas invisibles. Cuando cierras magicamente un objetivo, fijas una CD de Atletismo y de Latrocinio para abrirlo igual a tu CD de conjuros o a la CD basica de la cerradura con un bonificador +4 por estatus, el mas alto de los dos valores. Cualquier llave o combinacion que antes abria una cerradura afectada por este conjuro ya no lo hara mientras dure este, aunque disponer de la llave o de la combinacion conceden un bonificador +4 por circunstancia a las pruebas para abrir.
 

@@ -5,11 +5,18 @@ title: Forma Animal
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Forma Animal ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Llamas a la energia primigenia para que te transforme en una forma de batalla de animal Mediano. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo un leon o un leopardo de la nieve para felinos), pero esto no afecta ni al Tamano ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
 

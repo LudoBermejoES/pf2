@@ -5,12 +5,19 @@ title: Maldicion del Marinero
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Maldicion del Marinero ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Maldicion, Manipular
+
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** Voluntad
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Maldicion</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Afliges al objetivo con la maldicion del mar agitado e implacable. El objetivo tiene que llevar a cabo una salvacion de Voluntad.
 

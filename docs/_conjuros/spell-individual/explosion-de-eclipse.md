@@ -5,12 +5,21 @@ title: Explosion de Eclipse
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Explosion de Eclipse ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Frio, Manipular, Oscuridad, Vacio
+
 **Tradiciones:** arcana, divina, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Frio</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Oscuridad</span>
+<span class="trait-tag">Vacio</span>
+</div>
+
+---
 
 Un globo de oscuridad congeladora explota en el area, infligiendo 8d10 dano por frio a las criaturas presentes, mas 8d4 dano adicional por vacio a las criaturas vivas. Cada criatura en el area tiene que hacer una salvacion de Reflejos.
 

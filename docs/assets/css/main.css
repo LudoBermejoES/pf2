@@ -893,26 +893,61 @@ tbody tr:hover {
   color: var(--text-primary);
 }
 
-/* Trait Tags */
+/* Trait Tags - Enhanced Design */
+.spell-traits-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  padding: 1rem 0;
+}
+
 .trait-tag {
-  display: inline-block;
-  padding: 2px 8px;
-  margin: 2px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 0.75rem;
   background: var(--pf-red);
   color: var(--pf-gold);
   font-family: var(--font-display);
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-size: 0.8rem;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  border-radius: var(--radius-sm);
-  border: 1px solid var(--pf-red-light);
+  border-radius: 3px;
+  border: 2px solid var(--pf-gold);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  transition: all 0.2s ease;
 }
 
-.trait-tag.common { background: var(--bg-tertiary); border-color: var(--border-secondary); }
-.trait-tag.uncommon { background: #4a3a1a; border-color: #7a5a2a; }
-.trait-tag.rare { background: #1a3a4a; border-color: #2a5a7a; }
-.trait-tag.unique { background: #4a1a4a; border-color: #7a2a7a; }
+.trait-tag:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.trait-tag.common {
+  background: #6b4423;
+  border-color: #d4a574;
+  color: #d4a574;
+}
+
+.trait-tag.uncommon {
+  background: #4a3a1a;
+  border-color: #7a5a2a;
+  color: #7a5a2a;
+}
+
+.trait-tag.rare {
+  background: #1a3a4a;
+  border-color: #2a5a7a;
+  color: #2a5a7a;
+}
+
+.trait-tag.unique {
+  background: #4a1a4a;
+  border-color: #7a2a7a;
+  color: #7a2a7a;
+}
 
 /* Action Symbols */
 .action-cost {

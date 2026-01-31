@@ -5,12 +5,20 @@ title: Confusion
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Confusion ◆◆ [CONJURO 4]
-**Rasgos:** concentrar, emocion, manipular, mental
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Ofuscas a tu objetivo con extraños impulsos, haciendo que actue de forma aleatoria. Los efectos dependen de la salvacion de Voluntad del objetivo. Puedes Disipar el conjuro.
 

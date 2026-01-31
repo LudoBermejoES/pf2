@@ -5,12 +5,22 @@ title: Oscuridad Congeladora
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Oscuridad Congeladora ◆◆ [CONJURO 3]
-**Rasgos:** Ataque, Concentrar, Frío, Manipular, Oscuridad, Sacrílego
+
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Defensa:** CA
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Ataque</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Frío</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Oscuridad</span>
+<span class="trait-tag">Sacrílego</span>
+</div>
+
+---
 
 Disparas un rayo de oscuridad increíblemente frío, teñido de energía sacrílega. Haz un ataque de conjuro a distancia. El rayo inflige 5d6 daño por frío. Si el objetivo tiene el rasgo sagrado, infliges 5d6 daño espiritual adicional.
 

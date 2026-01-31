@@ -5,12 +5,21 @@ title: Colores Mareantes
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Colores Mareantes ◆◆ [CONJURO 1]
-**Rasgos:** concentrar, ilusion, incapacitacion, manipular, visual
+
 **Tradiciones:** arcana, ocultista
 **Area:** cono de 15 pies (4,5 m)
 **Defensa:** Voluntad; **Duracion:** 1 o mas asaltos (ver a continuacion)
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Incapacitacion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Visual</span>
+</div>
+
+---
 
 Desatas una multitud giratoria de colores que abruma a las criaturas, segun sus salvaciones de Voluntad.
 

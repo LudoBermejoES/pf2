@@ -5,12 +5,18 @@ title: Monos Locos
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Monos Locos ◆◆ [CONJURO 3]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** primigenia
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
 **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Espiritus de mono magicos llenan el area amontonandose y subiendose unos encima de otros. Como quiera que son espiritus magicos, no pueden ser ni atacados ni danados. Un lanzamiento de calmar o un efecto similar sobre los monos hace que se vuelvan dociles.
 

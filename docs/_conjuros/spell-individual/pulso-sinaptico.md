@@ -5,12 +5,20 @@ title: Pulso Sináptico
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Pulso Sináptico ◆◆ [CONJURO 5]
-**Rasgos:** Concentrar, Incapacitación, Manipular, Mental
+
 **Tradiciones:** ocultista
 **Área:** emanación de 30 pies (9 m)
 **Defensa:** Voluntad; **Duración:** 1 asalto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Incapacitación</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Emites una explosión mental pulsante que perfora la mente de todos los enemigos en el área. Cada enemigo en la misma tiene que hacer una salvación de Voluntad.
 

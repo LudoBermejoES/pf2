@@ -5,12 +5,20 @@ title: Arruinaconjuros
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Arruinaconjuros ◆◆ [CONJURO 6]
-**Rasgos:** concentrar, fuerza, maldicion, manipular
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuerza</span>
+<span class="trait-tag">Maldicion</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Haces que cualquier conjuro lanzado sobre el objetivo descargue su energia en oleadas dañinas. El objetivo tiene que llevar a cabo una salvacion de Voluntad.
 

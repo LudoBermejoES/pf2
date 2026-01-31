@@ -5,12 +5,21 @@ title: Esquema Vibrante
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Esquema Vibrante ◆◆ [CONJURO 6]
-**Rasgos:** Discreto, Ilusion, Incapacitacion, Manipular, Visual
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Discreto</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Incapacitacion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Visual</span>
+</div>
+
+---
 
 Creas una pauta de luces que late con intensidad. Las criaturas quedan deslumbradas en el interior de la misma. Ademas, una criatura tiene que hacer una salvacion de Voluntad si esta en el interior de la pauta cuando la lanzas, cuando entra en ella, cuando acaba su turno en su interior o cuando utiliza una accion de Buscar o de Interactuar con la misma. Una criatura cegada por la pauta no tiene que hacer nuevas tiradas de salvacion.
 

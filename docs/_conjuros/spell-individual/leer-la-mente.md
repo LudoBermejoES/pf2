@@ -5,12 +5,20 @@ title: Leer la Mente
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Leer la Mente ◆◆ [CONJURO 3]
-**Rasgos:** Poco comun, Concentrar, Deteccion, Manipular
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** 1 asalto o mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco comun</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Deteccion</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Con un leve toque mental, tratas de leer la mente del objetivo, que tiene que hacer una salvacion de Voluntad. A continuacion, queda temporalmente inmune a tu lectura mental durante 1 hora.
 

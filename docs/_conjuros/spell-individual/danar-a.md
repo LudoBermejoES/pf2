@@ -5,11 +5,17 @@ title: Danar ◆ a
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Danar ◆ a ◆◆◆ [CONJURO 1]
-**Rasgos:** Manipular, Vacio
+
 **Tradiciones:** divina
 **Rango de distancia:** variable; **Objetivos:** 1 criatura viva o 1 criatura muerta viviente voluntaria
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Vacio</span>
+</div>
+
+---
 
 Canalizas energias del vacio para danar a los vivos o curar a los muertos vivientes. Si el objetivo es una criatura viva, infliges 1d8 dano por vacio a la misma, con una salvacion basica de Fortaleza. Si el objetivo es una criatura muerta viviente voluntaria, restableces dicha cantidad de Puntos de Golpe. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demas parametros.
 

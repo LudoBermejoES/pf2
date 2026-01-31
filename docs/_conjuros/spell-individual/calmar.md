@@ -5,12 +5,19 @@ title: Calmar
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Calmar ◆◆ [CONJURO 2]
-**Rasgos:** poco comun, concentrar, manipular
+
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Poco comun</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Calmas por la fuerza a las criaturas en el area, sosegandolas hasta un estado no violento; cada criatura tiene que hacer una salvacion de Voluntad.
 

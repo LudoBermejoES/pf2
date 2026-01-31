@@ -5,12 +5,20 @@ title: Objeto Ilusorio
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Objeto Ilusorio ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Ilusión, Manipular, Visual
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 500 pies (150 m); **Área:** explosión de 20 pies (6 m)
 **Duración:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusión</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Visual</span>
+</div>
+
+---
 
 Creas una imagen visual ilusoria de un objeto estacionario. Toda la imagen debe encajar en el área del conjuro. El objeto parece estar animado de forma natural, pero no hace sonidos ni genera olores. Por ejemplo, el agua parecería caer de una catarata ilusoria, pero lo haría en silencio.
 

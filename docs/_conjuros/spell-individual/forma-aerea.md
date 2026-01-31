@@ -5,11 +5,18 @@ title: Forma Aerea
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Forma Aerea ◆◆ [CONJURO 4]
-**Rasgos:** Concentrar, Manipular, Polimorfia
+
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfia</span>
+</div>
+
+---
 
 Empleas tu dominio del aire para cambiar la forma de tu cuerpo a una forma de batalla de animal Mediano volador. Cuando Lanzas este conjuro, elige una forma de batalla indicada en la lista de mas abajo. Puedes decidir el tipo especifico de animal (por ejemplo una lechuza o un aguila para ave), pero esto no afecta ni al Tamano ni a las estadisticas de la forma. Cuando te encuentras en esta forma, obtienes el rasgo animal. Puedes Disipar el conjuro.
 

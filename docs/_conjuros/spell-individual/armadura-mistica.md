@@ -5,11 +5,17 @@ title: Armadura Mistica
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Armadura Mistica ◆◆ [CONJURO 1]
-**Rasgos:** concentrar, manipular
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** hasta tus siguientes preparativos diarios
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Te proteges a ti mismo con una energia magica brillante, obteniendo un bonificador +1 por objeto a la CA y un modificador maximo por Destreza de +5. Mientras llevas armadura mistica, utilizas tu competencia sin armadura para calcular tu CA.
 

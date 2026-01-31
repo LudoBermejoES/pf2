@@ -5,11 +5,18 @@ title: Naturaleza Encarnada
 chapter: Conjuros
 spell_level: 10
 ---
-
 ## Naturaleza Encarnada ◆◆ [CONJURO 10]
-**Rasgos:** Concentrar, Manipular, Polimorfía
+
 **Tradiciones:** primigenia
 **Duración:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Polimorfía</span>
+</div>
+
+---
 
 El poder primigenio del mundo fluye a través de ti. Te transformas en una encarnación de la Naturaleza, o bien un hombre verde o bien un kaiju. Tu forma de batalla es Mediana para un hombre verde o Gargantuesca (un espacio de 30 pies x 30 pies [9 m x 9 m]) para un kaiju.
 

@@ -5,11 +5,19 @@ title: Detectar Magia
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Detectar Magia ◆◆ [TRUCO 1]
-**Rasgos:** Concentrar, Deteccion, Manipular, Truco
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Area:** emanacion de 30 pies (9 m)
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Deteccion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Truco</span>
+</div>
+
+---
 
 Envias un pulso que registra la presencia de la magia. No recibes otra informacion aparte de la presencia o la ausencia de magia. Puedes ignorar la magia de la que eres consciente, como por ejemplo los objetos magicos y los conjuros activos, tanto tuyos como de tus aliados.
 

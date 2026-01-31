@@ -5,12 +5,21 @@ title: Distorsionar la Mente
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Distorsionar la Mente ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Emocion, Incapacitacion, Manipular, Mental
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Incapacitacion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Revuelves las facultades mentales y las entradas sensoriales de una criatura. El objetivo tiene que llevar a cabo una salvacion de Voluntad. Sea cual sea el resultado de dicha salvacion, a continuacion el objetivo queda temporalmente inmune durante 10 minutos. Los efectos de distorsionar la mente tienen lugar de forma instantanea, por lo que disipar magia y otros efectos que contrarrestan los conjuros no pueden contrarrestarlos. Sin embargo, los rituales de deseo y las aptitudes que pueden eliminar efectos que no son magicos siguen pudiendo contrarrestar los efectos.
 

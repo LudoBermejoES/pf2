@@ -5,12 +5,20 @@ title: Virote Ardiente ◆ a
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Virote Ardiente ◆ a ◆◆◆ [CONJURO 2]
-**Rasgos:** Ataque, Concentrar, Fuego, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 o mas criaturas
 **Defensa:** CA
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Ataque</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuego</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Disparas un rayo de calor y llamas. Haz una tirada de ataque de conjuros contra una sola criatura. Con un impacto, el objetivo sufre 2d6 dano por fuego y, con un impacto critico, doble dano.
 

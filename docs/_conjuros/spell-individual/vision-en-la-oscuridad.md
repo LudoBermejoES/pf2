@@ -5,11 +5,17 @@ title: Vision en la Oscuridad
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Vision en la Oscuridad ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 1 hora
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Te concedes a ti mismo una vision sobrenatural en areas de oscuridad. Obtienes vision en la oscuridad.
 

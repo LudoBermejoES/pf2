@@ -5,12 +5,21 @@ title: Dolor Fantasmal
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Dolor Fantasmal ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Ilusion, Manipular, Mental, No letal
+
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">No letal</span>
+</div>
+
+---
 
 Un dolor ilusorio azota al objetivo, infligiendo 2d4 dano mental y 1d4 dano persistente mental y tiene que hacer una salvacion de Voluntad.
 

@@ -5,12 +5,20 @@ title: Ira Divina
 chapter: Conjuros
 spell_level: 4
 ---
-
 ## Ira Divina ◆◆ [CONJURO 4]
-**Rasgos:** Concentrar, Espiritu, Manipular, Santificado
+
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m)
 **Defensa:** Fortaleza
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Espiritu</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Santificado</span>
+</div>
+
+---
 
 Canalizas la furia de la divinidad contra tus enemigos. Infliges 4d10 dano espiritual a tus enemigos en el area; cada enemigo tiene que hacer una salvacion de Fortaleza.
 

@@ -5,13 +5,19 @@ title: Montura Maravillosa
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Montura Maravillosa [CONJURO 2]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 10 minutos
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duracion:** 8 horas
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Conjuras una criatura fantastica de tamano Grande para que sirva de montura al objetivo. La montura es el esbirro del objetivo, tiene una Velocidad de 40 pies (12 m) y podra llevar a lomos al objetivo con cualquier posesion que este lleve encima. No puede llevar a ninguna otra criatura. La montura usa la CA y las salvaciones del objetivo, pero resulta destruida si sufre mas de 10 dano en un momento dado, acabando el conjuro.
 

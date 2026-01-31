@@ -5,12 +5,23 @@ title: Mascara del Terror
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Mascara del Terror ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Emocion, Ilusion, Manipular, Mental, Miedo, Visual
+
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Emocion</span>
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Miedo</span>
+<span class="trait-tag">Visual</span>
+</div>
+
+---
 
 El objetivo aparece como una criatura macabra y terrorifica. El efecto es unico para cada observador, por lo que un humano que contemple el objetivo podria ver un demonio con colmillos ensangrentados, pero un demonio que observara al objetivo podria ver un rostro angelico brillante.
 

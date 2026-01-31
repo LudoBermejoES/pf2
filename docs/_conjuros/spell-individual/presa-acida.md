@@ -5,12 +5,19 @@ title: Presa Ácida
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Presa Ácida ◆◆ [CONJURO 2]
-**Rasgos:** Ácido, Concentrar, Manipular
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura
 **Defensa:** Reflejos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Ácido</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Una mano efímera y provista de garras aferra al objetivo quemándolo con ácido mágico. El objetivo sufre 2d8 daño por ácido más 1d6 daño persistente por ácido dependiendo de su salvación de Reflejos. Una criatura que sufre daño persistente debido a este conjuro sufre además un penalizador -10 pies (3 m) por estatus a sus Velocidades.
 

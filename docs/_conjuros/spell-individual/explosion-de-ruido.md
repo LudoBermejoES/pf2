@@ -5,12 +5,19 @@ title: Explosion de Ruido
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Explosion de Ruido ◆◆ [CONJURO 2]
-**Rasgos:** Concentrar, Manipular, Sonico
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 10 pies (3 m)
 **Defensa:** Fortaleza
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Sonico</span>
+</div>
+
+---
 
 Invocas un ruido cacofonico, que inflige 2d10 dano sonico. Cada criatura tiene que hacer una salvacion de Fortaleza.
 

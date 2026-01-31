@@ -5,12 +5,21 @@ title: Dormir
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Dormir ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Incapacitacion, Manipular, Mental, Sueno
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)
 **Defensa:** Voluntad
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Incapacitacion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Sueno</span>
+</div>
+
+---
 
 Cada criatura en el area sentira sueno, y posiblemente dara alguna cabezada. Una criatura que queda inconsciente debido este conjuro no queda tumbada ni suelta lo que esta agarrando. El conjuro no evita que las criaturas se despierten debido a una prueba de Percepcion con exito, lo que limita su utilidad en combate.
 

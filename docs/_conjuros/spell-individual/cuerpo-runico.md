@@ -5,12 +5,18 @@ title: Cuerpo Runico
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Cuerpo Runico ◆◆ [CONJURO 1]
-**Rasgos:** concentrar, manipular
+
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria
 **Duracion:** 1 minuto
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Unas runas brillantes aparecen en el cuerpo del objetivo. Todos sus ataques sin arma se convierten en ataques sin arma +1 de golpe obteniendo un bonificador +1 por objeto a las tiradas de ataque e incrementando a 2 el numero de dados de daño.
 

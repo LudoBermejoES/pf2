@@ -5,12 +5,19 @@ title: Erupcion Volcanica
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Erupcion Volcanica ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Fuego, Manipular
+
 **Tradiciones:** primigenia
 **Rango de distancia:** 120 pies (36 m); **Area:** un cilindro de 5 pies (1,5 m) de radio y 80 pies (24 m) de altura
 **Defensa:** Reflejos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuego</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 La tierra se abre, lanzando a gran altura una columna de lava en forma de cilindro vertical, que inflige 14d6 a las criaturas en el area. La lava se enfria rapidamente y envuelve a las criaturas del interior. Una criatura envuelta en lava solidificada queda torpe 1 y sufre un penalizador -10 pies (3 m) por estatus a sus Velocidades. Todo el terreno normal se convierte en terreno dificil para una criatura voladora y dichas criaturas descienden inmediatamente 20 pies (6 m) en el momento en que quedan recubiertas, pero no sufren dano debido a esta caida. Una criatura recubierta de lava solidificada puede tratar de Huir contra tu CD de conjuros para acabar con el efecto. De lo contrario, permanece envuelta hasta que sufre un total de 50 dano, lo que la libera de la lava solidificada.
 

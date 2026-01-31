@@ -5,12 +5,21 @@ title: Explosion Solar
 chapter: Conjuros
 spell_level: 7
 ---
-
 ## Explosion Solar ◆◆ [CONJURO 7]
-**Rasgos:** Concentrar, Fuego, Luz, Manipular, Vitalidad
+
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Fuego</span>
+<span class="trait-tag">Luz</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Vitalidad</span>
+</div>
+
+---
 
 Un poderoso globo de abrasadora luz solar explota en el area, infligiendo 8d10 dano por fuego a todas las criaturas en la misma, mas 8d10 dano adicional por vitalidad a las criaturas muertas vivientes. Cada criatura en el area tiene que hacer una salvacion de Reflejos.
 

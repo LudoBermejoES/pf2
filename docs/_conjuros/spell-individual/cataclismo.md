@@ -5,12 +5,25 @@ title: Cataclismo
 chapter: Conjuros
 spell_level: 10
 ---
-
 ## Cataclismo ◆◆ [CONJURO 10]
-**Rasgos:** acido, agua, aire, concentrar, electricidad, frio, fuego, manipular, tierra
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 1000 pies (300 m); **Area:** explosion de 60 pies (18 m)
 **Defensa:** Reflejos basica
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Acido</span>
+<span class="trait-tag">Agua</span>
+<span class="trait-tag">Aire</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Electricidad</span>
+<span class="trait-tag">Frio</span>
+<span class="trait-tag">Fuego</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Tierra</span>
+</div>
+
+---
 
 Llamas al inimaginable poder de los cataclismos del fin del mundo, arrancando un trocito de cada uno y combinandolos en un ataque horriblemente poderoso. Los siguientes efectos les sobrevienen a todas las criaturas del area. Trata las resistencias de las criaturas del area como si fueran 10 menores a efectos de determinar el daño del cataclismo. Cada criatura hace una salvacion basica de Reflejos que se aplica a todos y cada uno de los cinco tipos de daño.
 

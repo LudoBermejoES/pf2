@@ -5,12 +5,19 @@ title: Zarcillos Macabros
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Zarcillos Macabros ◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Manipular, Vacio
+
 **Tradiciones:** arcana, ocultista
 **Area:** linea de 30 pies (9 m)
 **Defensa:** Fortaleza
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Vacio</span>
+</div>
+
+---
 
 Zarcillos de oscuridad surgen enroscandose de la punta de tus dedos y surcan el aire. Infliges 2d4 dano por vacio y 1 dano persistente por sangrado a las criaturas vivas en la linea. Cada criatura viva en la linea tiene que hacer una salvacion de Fortaleza.
 

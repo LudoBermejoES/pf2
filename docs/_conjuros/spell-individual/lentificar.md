@@ -5,12 +5,18 @@ title: Lentificar
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Lentificar ◆◆ [CONJURO 3]
-**Rasgos:** Concentrar, Manipular
+
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duracion:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Dilatas el flujo de tiempo alrededor del objetivo, lentificando sus acciones.
 

@@ -5,12 +5,20 @@ title: Garra Punzante
 chapter: Conjuros
 spell_level: TRUCO
 ---
-
 ## Garra Punzante ◆◆ [TRUCO 1]
-**Rasgos:** Ataque, Concentrar, Manipular, Morfismo
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Defensa:** CA
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Ataque</span>
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Morfismo</span>
+</div>
+
+---
 
 Transformas temporalmente tu extremidad en un apendice provisto de garras. Haz una tirada de ataque de conjuros cuerpo a cuerpo contra la CA de tu objetivo. Si impactas, infliges (a elegir) 2d6 dano cortante o 2d6 dano perforante, mas 2 dano persistente por sangrado. Con un exito critico, infliges doble dano y doble dano por sangrado.
 

@@ -5,12 +5,19 @@ title: Invisibilidad
 chapter: Conjuros
 spell_level: 2
 ---
-
 ## Invisibilidad ◆◆ [CONJURO 2]
-**Rasgos:** Ilusion, Manipular, Disimulado
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duracion:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Ilusion</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Disimulado</span>
+</div>
+
+---
 
 Unas ilusiones retuercen la luz alrededor del objetivo, haciendolo invisible. Esto lo convierte en no detectado para todas las criaturas, aunque estas pueden intentar buscarlo, con lo que para ellas quedara escondido. Si el objetivo utiliza una accion hostil, el conjuro acaba una vez esta se ha completado.
 

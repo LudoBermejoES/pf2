@@ -5,12 +5,20 @@ title: Presciencia
 chapter: Conjuros
 spell_level: 9
 ---
-
 ## Presciencia ◆◆ [CONJURO 9]
-**Rasgos:** Concentrar, Manipular, Mental, Predicción
+
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duración:** 1 hora
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+<span class="trait-tag">Predicción</span>
+</div>
+
+---
 
 Obtienes un sexto sentido que te avisa del peligro que podría correr el objetivo del conjuro. Si eliges una criatura distinta a ti como objetivo, creas un enlace psíquico a través del cual puedes informarla del peligro. Este enlace es un efecto mental. Debido a la cantidad de información que este conjuro requiere que proceses, no puedes tener más de un conjuro de presciencia activo en un momento dado. Lanzarlo de nuevo acaba con el lanzamiento anterior.
 

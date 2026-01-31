@@ -5,12 +5,19 @@ title: Esbirro Fantasmal
 chapter: Conjuros
 spell_level: 1
 ---
-
 ## Esbirro Fantasmal ◆◆◆ [CONJURO 1]
-**Rasgos:** Concentrar, Convocar, Manipular
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 60 pies (18 m)
 **Duracion:** mantenido
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Convocar</span>
+<span class="trait-tag">Manipular</span>
+</div>
+
+---
 
 Convocas a un esbirro fantasmal. El esbirro tiene aproximadamente la forma de un humanoide. Puedes elegir entre que sea invisible o que tenga una apariencia efimera, pero se trata obviamente de un efecto magico y no de una criatura real.
 

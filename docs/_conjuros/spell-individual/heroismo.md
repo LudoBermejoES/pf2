@@ -5,12 +5,19 @@ title: Heroismo
 chapter: Conjuros
 spell_level: 3
 ---
-
 ## Heroismo ◆◆ [CONJURO 3]
-**Rasgos:** Concentrar, Manipular, Mental
+
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura
 **Duracion:** 10 minutos
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Liberas el heroismo interior del objetivo, concediendole un bonificador +1 por estatus a las tiradas de ataque, pruebas de Percepcion, tiradas de salvacion y pruebas de habilidad.
 

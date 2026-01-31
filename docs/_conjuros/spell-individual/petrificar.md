@@ -5,12 +5,19 @@ title: Petrificar
 chapter: Conjuros
 spell_level: 6
 ---
-
 ## Petrificar ◆◆ [CONJURO 6]
-**Rasgos:** Concentrar, Manipular, Tierra
+
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura hecha de material orgánico
 **Defensa:** Fortaleza; **Duración:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Tierra</span>
+</div>
+
+---
 
 El cuerpo del objetivo se convierte lentamente en una estatua de piedra. El objetivo tiene que llevar a cabo una salvación de Fortaleza.
 

@@ -5,12 +5,22 @@ title: Sugerencia Subconsciente
 chapter: Conjuros
 spell_level: 5
 ---
-
 ## Sugerencia Subconsciente ◆◆ [CONJURO 5]
-**Rasgos:** concentrar, discreto, incapacitación, lingüístico, manipular, mental
+
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** variable
+
+<div class="spell-traits-wrapper">
+<span class="trait-tag">Concentrar</span>
+<span class="trait-tag">Discreto</span>
+<span class="trait-tag">Incapacitación</span>
+<span class="trait-tag">Lingüístico</span>
+<span class="trait-tag">Manipular</span>
+<span class="trait-tag">Mental</span>
+</div>
+
+---
 
 Implantas una sugerencia subconsciente a gran profundidad en la mente del objetivo, para que la siga cuando tenga lugar un desencadenante especificado por ti. Sugieres un curso de acción al objetivo. Tu directiva tiene que estar formulada de manera que parezca un curso de acción lógico para él, no pudiendo ser autodestructiva ni obviamente contraria a sus propios intereses. El objetivo tiene que llevar a cabo una salvación de Voluntad.
 
