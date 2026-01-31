@@ -25,236 +25,116 @@ Puedes hacer que un juego de herramientas (como el material de alquimista o el m
 
 ---
 
-## Equipo de aventura
-
-Estos objetos siguen reglas especiales o requieren más detalle.
-
-**Abrojos:** Estas púas de metal de cuatro puntas pueden dañar los pies de una criatura. Puedes esparcir abrojos en una casilla vacía adyacente a ti con una acción de Interactuar. La primera criatura que se mueve a dicha casilla tiene que superar una prueba de Acrobacias CD 14 o sufrir 1d4 daño perforante y 1 daño persistente por sangrado. Una criatura que sufre daño persistente por sangrado debido a los abrojos sufre un penalizador -5 a su Velocidad. Invertir una acción de Interactuar para quitarse los abrojos reduce la CD para detener el sangrado. Una vez que una criatura haya sufrido daño debido a los abrojos, se habrán gastado los suficientes como para que otras criaturas que muevan a dicha casilla estén seguras.
-
-**Aceite:** Puedes utilizar el aceite para encender linternas, pero también puedes prenderle fuego a 1 pinta (0,5 l) de aceite y lanzarla. Debes primero invertir una acción de Interactuar preparando el aceite, y después lanzarlo con otra acción como un ataque a distancia. Si aciertas, salpica a la criatura o a un solo cuadrado de 5 pies (1,5 m) de lado al que designas como objetivo. Has de tener éxito en una prueba plana CD 10 para que el aceite se encienda con éxito cuando impacta. Si el aceite se enciende, el objetivo sufre 1d6 daño por fuego.
-
-**Alforjas:** Las alforjas vienen por parejas. Cada una puede contener hasta Impedimenta 3 en objetos, pero la primera Impedimenta 1 de objetos en cada una no cuenta contra el límite de Impedimenta de tu montura. El valor de Impedimenta que se da es para unas alforjas puestas en una montura. Si las llevas tú o las llevas guardadas, cuentan como Impedimenta 1 en lugar de ligera.
-
-**Antorcha:** Una antorcha emite luz brillante en un radio de 20 pies (6 m) y luz tenue en los siguientes 20 pies (6 m) durante 1 hora. Se puede usar como arma improvisada que inflige 1d4 daño contundente mas 1 daño por fuego.
-
-**Arreos:** Los arreos incluyen todo el equipo necesario para equipar a un animal de monta, incluyendo una silla de montar, brida y bocado y estribos si es necesario. Los animales especialmente grandes o de forma extraña podrían requerir sillas de montar especializadas. El valor de Impedimenta que se da es para unos arreos puestos en una criatura. Si se transportan, la Impedimenta se incrementa a 2.
-
-**Brújula:** Una brújula te ayuda a Sentir la dirección o a orientarte, si estás en un lugar donde los campos magnéticos son uniformes. Sin una de ellas, sufres un penalizador -2 por objeto a dichas pruebas. Una brújula de lente y dial te concede un bonificador +1 por objeto a estas pruebas.
-
-**Capa de duelo:** Te puedes quitar una capa de duelo que llevas puesta y enrollarla alrededor de tu brazo con una acción de Interactuar. Mientras llevas la capa de duelo de esa forma, esa mano y ese brazo están ocupados y no puedes sostener nada más. Mientras lo haces, puedes invertir una acción para sostenerla en una posición protectora, lo que te concede un bonificador +1 por circunstancia a la CA y a las pruebas de Engaño para Fintar hasta el inicio de tu siguiente turno.
-
-**Catalejo:** Un catalejo típico te permite ver ocho veces más lejos de lo normal. Un catalejo de gran calidad suma un bonificador +1 por objeto a las pruebas de Percepción para ver detalles a distancia.
-
-**Cerradura:** Forzar una cerradura requiere diferentes números de pruebas de Latrocinio según su calidad:
-- Barata: 2 éxitos a CD 15
-- Sencilla: 3 éxitos a CD 20
-- Normal: 4 éxitos a CD 25
-- Buena: 5 éxitos a CD 30
-- Superior: 6 éxitos a CD 40
-
-**Cofre:** Un cofre de madera puede almacenar hasta Impedimenta 8 en objetos.
-
-**Diario de erudito (poco común):** Cada uno de ellos es un libro de tamaño folio sobre un tema específico, como por ejemplo los vampiros o la historia de una sola población. Si inviertes 1 minuto consultando un diario de erudito antes de hacer una prueba de habilidad para Recordar conocimiento acerca del tema, obtienes un bonificador +1 por objeto a la prueba. Un compendio de diarios cuesta cinco veces lo que un solo diario y se ha de sostener a dos manos; cada compendio contiene diversos diarios y concede su bonificador sobre un tema más amplio.
-
-**Equipo de aventurero:** Éste es el conjunto inicial para un aventurero y contiene los objetos esenciales para la exploración y la supervivencia. Contiene: una mochila (que contiene los demás objetos), 10 trozos de tiza, pedernal y yesca, 50 pies (15 m) de cuerda, raciones para 2 semanas, jabón, 5 antorchas y un odre.
-
-**Equipo de reparaciones:** Un equipo de reparaciones te permite llevar a cabo reparaciones sencillas cuando viajas. Contiene un yunque portátil, tenazas, herramientas de carpintero, una piedra de amolar y aceites para tratar el cuero y la madera. Puedes utilizar un equipo de reparaciones para Reparar objetos utilizando la habilidad Artesanía. Un equipo de reparaciones soberbio te concede un bonificador +1 por objeto a la prueba.
-
-**Garfio de abordaje:** Puedes lanzar un garfio de abordaje con una cuerda atada al mismo para hacer más fácil una escalada. Para anclar un garfio de abordaje, haz una tirada de ataque a distancia utilizando tu competencia con armas sencillas contra una CD que depende del objetivo, típicamente por lo menos CD 20. Este ataque tiene el rasgo secreto. Con un éxito, tu garfio queda firmemente anclado, aunque con un fallo crítico parece como si fuera a aguantar, pero en realidad se suelta cuando estás a media subida.
-
-**Grilletes:** Puedes ponerle unos grilletes a alguien con su consentimiento o si está a tu merced como una actividad de exploración que dura entre 10 y 30 segundos dependiendo del tamaño de la criatura y de cuántos grilletes le pongas. Una criatura de dos piernas con las piernas ligadas sufre un penalizador -15 pies (4,5 m) por circunstancia a sus Velocidades. Una criatura de dos manos con ellas ligadas tiene que tener éxito en una prueba plana CD 5 cada vez que utiliza una acción de manipular, o la acción falla. Liberar a una criatura de unos grilletes requiere diferentes pruebas de Latrocinio:
-- Baratos: 2 éxitos a CD 17
-- Sencillos: 3 éxitos a CD 22
-- Normales: 4 éxitos a CD 27
-- Buenos: 5 éxitos a CD 32
-- Superiores: 6 éxitos a CD 42
-
-**Herramienta:** Esta entrada es un cajón de sastre para las herramientas de mano básicas que no tienen un propósito aventurero específico. Una azada, una pala o un martillo pilón son herramientas largas, y un berbiquí, un gancho para hielo o una paleta son herramientas cortas. Una herramienta se suele poder utilizar como arma improvisada, infligiendo 1d4 daño para una corta o 1d6 para una larga.
-
-**Herramientas de ladrón:** Necesitas un juego de herramientas de ladrón para Forzar cerraduras o Inutilizar mecanismos (de algunos tipos) mediante la habilidad Latrocinio. Unas herramientas de ladrón infiltrador añaden un bonificador +1 por objeto a las pruebas para Forzar cerraduras e Inutilizar mecanismos. Si llevas puestas tus herramientas de ladrón, puedes poner y sacar cosas como parte de la acción que las utiliza.
-
-**Instrumento musical:** Los instrumentos de mano incluyen gaitas, un carillón pequeño, tamboriles, violines y violas, flautas dulces y traveseras, arpas pequeñas, laúdes, trompetas e instrumentos de tamaño similar. Los instrumentos pesados, como los tambores grandes, un carillón completo y los instrumentos de teclado son menos portátiles y por lo general requieren permanecer estacionarios cuando se tocan. Un instrumento de virtuoso está más finamente construido y concede un bonificador +1 por objeto a las pruebas de Interpretación utilizándolo.
-
-**Juego de herramientas de alquimista:** Esta colección móvil de viales y productos químicos se puede utilizar para tareas alquímicas sencillas. Si llevas puesto tu juego de herramientas de alquimista, puedes quitarlas y ponerlas como parte de la acción que las utiliza.
-
-**Juego de herramientas de artesano:** Necesitas este juego de herramientas para crear objetos a partir de materia prima con la habilidad Artesanía. Un juego de herramientas de artesano excelentes te concede un bonificador +1 por objeto a la prueba.
-
-**Laboratorio de alquimista:** Necesitas un laboratorio de alquimista para Elaborar sustancias alquímicas durante el tiempo libre. Un laboratorio de alquimista mejorado te concede un bonificador +1 por objeto a las pruebas de Artesanía para elaborar sustancias alquímicas.
-
-**Libro básico de artesano:** Este libro contiene las fórmulas para Elaborar todos los objetos comunes de nivel 0 de este Capítulo.
-
-**Libro de conjuros:** Un libro de conjuros contiene el conocimiento escrito necesario para aprender y preparar diversos conjuros, algo necesario para los magos (que suelen obtener uno gratis) y un lujo útil para otros lanzadores de conjuros que buscan aprender conjuros adicionales. Cada libro puede albergar hasta 100 conjuros.
-
-**Libro de fórmulas:** Un libro de fórmulas contiene las fórmulas necesarias para crear objetos diferentes al equipo común de este capítulo; los personajes de la clase alquimista suelen obtener uno gratuitamente. Cada libro de fórmulas puede albergar la fórmula de hasta 100 objetos diferentes.
-
-**Linterna:** Una linterna emite luz brillante y requiere 1 pinta (0,5 l) de aceite para funcionar durante 6 horas. Una linterna de ojo de buey emite su luz en un cono de 60 pies (18 m), y luz tenue en los siguientes 60 pies (18 m). Una linterna sorda emite luz en un radio de 30 pies (9 m), y luz tenue en los siguientes 30 pies (9 m) y va equipada con obturadores que puedes cerrar para bloquear la luz. Abrir o cerrar los obturadores requiere una acción de Interactuar.
-
-**Lupa:** Esta lente de calidad que se puede empuñar te concede un bonificador +1 por objeto a las pruebas de Percepción para notar detalles minúsculos de documentos, telas, etc.
-
-**Mapa topográfico (poco común):** Un mapa topográfico detalla una sola ubicación con un nivel de detalle excelente. Uno de estos mapas te concede un bonificador +1 por objeto a las pruebas de Supervivencia y a cualquier prueba de habilidad para Recordar conocimiento, si está relacionada con la ubicación detallada en el mapa.
-
-**Material de curas:** Este conjunto de vendajes, hierbas y suturas es necesario para las pruebas de Medicina a fin de administrar Primeros auxilios, Tratar enfermedades, Tratar veneno o Tratar heridas. El material mejorado te proporciona un bonificador +1 por objeto a dichas pruebas.
-
-**Material de detective:** Este morral de cuero contiene unos cuantos viales vacíos, unas pinzas, paños de lino pequeños, un juego de calibradores de bronce y un bramante anudado para medir distancias, varios trozos de tiza, una pluma y un bloc de notas en blanco. Todos los componentes son de calidad excelente y por lo tanto suman un bonificador +1 por objeto a las pruebas para investigar la escena de un crimen.
-
-**Material de disfraz:** Esta cajita de madera contiene cosméticos, vello facial falso, goma líquida y unas cuantas pelucas sencillas. Por lo general necesitas material de disfraz para Imitar a otra persona mediante el uso de la habilidad Engaño. Un material de élite suma un bonificador +1 por objeto a las pruebas relevantes.
-
-**Material de escalada:** Este morral contiene 50 pies (15 m) de cuerda, poleas, una docena de pitones, un martillo, un garfio de abordaje y un juego de crampones. El material de escalada te permite fijarte a la pared que estás Trepando, moviéndote la mitad de lo habitual (mínimo 5 pies [1,5 m]) y permitiéndote hacer una prueba plana CD 5 siempre que fallas críticamente para evitar una caída. Obtienes un bonificador +1 por objeto a las pruebas de Atletismo para Trepar si utilizas material de escalada extrema.
-
-**Material de escritura:** Utilizando material de escritura, puedes redactar correspondencia e inscribir pergaminos. Un juego incluye papel y sobres, con una gran variedad de papeles y pergaminos, así como tinta, un cálamo o pluma, lacre y un sello sencillo.
-
-**Material de pesca:** Esto incluye una caña de pescar plegable, anzuelos, sedal, cebos y una red de pesca. El material de pesca profesional concede un bonificador +1 por objeto a las pruebas para pescar.
-
-**Mochila:** Una mochila contiene hasta Impedimenta 4 de objetos y los primeros 2 puntos de Impedimenta de dichos objetos no cuentan contra tu límite. Si, en lugar de llevar la mochila a la espalda, la sostienes o la llevas guardada, su Impedimenta es ligera en lugar de insignificante.
-
-**Odre:** Cuando está lleno, un odre contiene aproximadamente la cantidad necesaria de agua de 1 día para una criatura Pequeña o Mediana.
-
-**Oreja de bronce:** Una oreja de bronce es un tubo corto y acampanado con un extremo lo suficientemente estrecho para introducirlo cómodamente en un oído. Cuando se usa para escuchar a través de una puerta, ventana, pared delgada o barrera similar, si la barrera incrementaría normalmente la CD de tu prueba de Percepción para oír sonidos al otro lado, sólo lo hace en la mitad de lo normal.
-
-**Palanqueta:** Cuando se Abre a la fuerza un objeto que no se puede agarrar fácilmente, una palanqueta hace más fácil obtener el brazo de palanca necesario. Sin una palanqueta, la prueba de Atletismo para Abrir algo a la fuerza sufre un penalizador -2 por objeto. Una palanqueta reforzada te concede un bonificador +1 por objeto a las pruebas de Atletismo para Abrir por la fuerza.
-
-**Pedernal y yesca:** El pedernal y la yesca se utilizan para encender fuego si tienes tiempo para utilizar una chispa aunque usarlos suele alargarse. Incluso en las condiciones ideales, utilizar el pedernal y la yesca para encender una llama requiere el uso de por lo menos 3 acciones, y a menudo mucho más.
-
-**Periscopio:** Esto es un tubo de 2 pies (60 cm) de longitud con dos espejos angulados, uno en cada extremo. Cuando los espejos están correctamente alineados, puedes mirar alrededor de un obstáculo desde detrás de una cobertura. Esto no proporciona una línea de efecto suficiente para designar como objetivo a una criatura alrededor de una esquina.
-
-**Pértiga de 10 pies (3 m):** Cuando empuñas esta larga pértiga puedes Buscar para sondear una casilla hasta a 10 pies (3 m) de distancia. La pértiga no es lo suficientemente recia como para utilizarla como arma.
-
-**Pitón:** Estas pequeñas púas se pueden utilizar como anclajes para trepar con más facilidad. Para fijar un pitón, tienes que sostenerlo en una mano y utilizar un martillo para clavarlo con la otra. Puedes fijar una cuerda al pitón clavado para no caer al suelo si sufres un fallo crítico mientras Trepas.
-
-**Red:** Puedes utilizar una red, o bien sola, o bien amarrada a una cuerda. Cuando está amarrada a una cuerda, puedes utilizar la red para Apresar a una criatura Mediana o más pequeña a una distancia de hasta 10 pies (3 m) en lugar de sólo a criaturas adyacentes. La criatura apresada obtiene un bonificador +2 por circunstancia a sus pruebas de Huir si no estás adyacente a ella y puede hacer una prueba de Atletismo CD 16 para Abrir la red por la fuerza.
-
-Cuando la red no está amarrada puedes hacer una tirada de ataque a distancia utilizando tu competencia en armas sencillas contra una criatura Mediana o más pequeña a 20 pies (6 m) o menos. Con un impacto, el objetivo queda desprevenido y sufre un penalizador -10 pies (3 m) por circunstancia a sus Velocidades hasta que Huye y, con un impacto crítico, también queda inmovilizado hasta que Huye. La CD de Huir es 16.
-
-**Ropa:** La ropa normal es funcional y tiene un corte básico, como la de campesino, la de monje o la de trabajo. La ropa de explorador es lo suficientemente recia como para poderla reforzar y que te proteja, aunque no se puede considerar armadura.
-
-**Saco:** Un saco puede acarrear hasta Impedimenta 8 en objetos. Un saco que contiene Impedimenta 2 o menos se puede llevar en el cuerpo. Puedes llevar un saco en una mano, pero tienes que usar las dos para meter y sacar objetos.
-
-**Silbato de señales:** Cuando se sopla, un silbato de señales se puede oír claramente hasta a media milla (800 m) en terreno despejado.
-
-**Símbolo primigenio:** Los lanzadores de conjuros primigenios, especialmente los druidas, a menudo lucen adornos con materiales naturales para simbolizar su conexión con la Naturaleza.
-
-**Símbolo religioso:** Este trozo de madera o de plata está blasonado con una imagen que representa a un dios. Algunos lanzadores de conjuros divinos, como por ejemplo los clérigos, pueden emplear un símbolo religioso para usar ciertas aptitudes. Un símbolo religioso se puede llevar puesto en el cuerpo mediante una cadena o un broche, o puede sostenerse con la mano.
-
-**Texto religioso:** Este manuscrito contiene escrituras de una religión en particular. Algunos lanzadores de conjuros divinos pueden utilizar un texto religioso para usar ciertas aptitudes. Un texto religioso se tiene que sostener en una mano para utilizarlo.
-
-**Vaina de parada:** Puedes sacar esta vaina reforzada durante la misma acción de Interactuar que usas para desenvainar el arma que contiene, empuñando el arma en una mano y la vaina en la otra. Puedes utilizar para tu defensa una vaina de parada en gran medida como un arma con el rasgo parada: inviertes una acción para posicionarla defensivamente y obtienes un bonificador +1 por circunstancia a la CA hasta el inicio de tu siguiente turno.
-
-**Vaina oculta:** Esta vaina de cuero es lo suficientemente grande como para alojar un objeto de hasta Impedimenta ligera y se utiliza típicamente para dagas, varitas, juegos de herramientas de ladrón y objetos similares. Te otorga un bonificador +1 por objeto a las pruebas de Sigilo y a las clases de dificultad para esconder u ocultar el objeto de su interior.
-
-**Vela:** Una vela encendida emite luz tenue en un radio de 10 pies (3 m) durante 8 horas.
-
----
-
 ## Tabla de equipo de aventura
 
 | Objeto | Precio | Imp. | Manos |
 |--------|--------|------|-------|
-| Abrojos | 3 pp | L | 1 |
-| Aceite (1 pinta) | 1 pc | — | 2 |
-| Alforjas | 2 pp | L | 2 |
-| Antorcha | 1 pc | L | 1 |
-| Arreos | 4 po | 1 | — |
+| [Abrojos](/equipo/objetos/abrojos/) | 3 pp | L | 1 |
+| [Aceite](/equipo/objetos/aceite/) (1 pinta) | 1 pc | — | 2 |
+| [Alforjas](/equipo/objetos/alforjas/) | 2 pp | L | 2 |
+| [Antorcha](/equipo/objetos/antorcha/) | 1 pc | L | 1 |
+| [Arreos](/equipo/objetos/arreos/) | 4 po | 1 | — |
 | Balanza de mercader | 2 pp | L | 2 |
-| Brújula | 1 po | — | 1 |
-| Brújula de lente y dial (nivel 3) | 20 po | — | 1 |
+| [Brújula](/equipo/objetos/brujula/) | 1 po | — | 1 |
+| [Brújula](/equipo/objetos/brujula/) de lente y dial (nivel 3) | 20 po | — | 1 |
 | Cadena (10 pies) | 4 po | 1 | 2 |
-| Capa de duelo | 5 pp | L | 1 |
-| Catalejo | 20 po | L | 2 |
-| Catalejo de gran calidad (nivel 4) | 80 po | L | 2 |
-| **Cerraduras** | | | |
-| — Cerradura barata | 2 pp | — | 2 |
-| — Cerradura sencilla (nivel 1) | 2 po | — | 2 |
-| — Cerradura normal (nivel 3) | 15 po | — | 2 |
-| — Cerradura buena (nivel 9) | 200 po | — | 2 |
-| — Cerradura superior (nivel 17) | 4500 po | — | 2 |
-| Cofre | 6 pp | 2 | 2 |
+| [Capa de duelo](/equipo/objetos/capa-duelo/) | 5 pp | L | 1 |
+| [Catalejo](/equipo/objetos/catalejo/) | 20 po | L | 2 |
+| [Catalejo](/equipo/objetos/catalejo/) de gran calidad (nivel 4) | 80 po | L | 2 |
+| **[Cerraduras](/equipo/objetos/cerradura/)** | | | |
+| — [Cerradura](/equipo/objetos/cerradura/) barata | 2 pp | — | 2 |
+| — [Cerradura](/equipo/objetos/cerradura/) sencilla (nivel 1) | 2 po | — | 2 |
+| — [Cerradura](/equipo/objetos/cerradura/) normal (nivel 3) | 15 po | — | 2 |
+| — [Cerradura](/equipo/objetos/cerradura/) buena (nivel 9) | 200 po | — | 2 |
+| — [Cerradura](/equipo/objetos/cerradura/) superior (nivel 17) | 4500 po | — | 2 |
+| [Cofre](/equipo/objetos/cofre/) | 6 pp | 2 | 2 |
 | Cuerda (50 pies) | 5 pp | L | 2 |
-| Equipo de aventurero | 15 pp | 1 | — |
-| Equipo de reparaciones | 2 po | 1 | 2 |
-| Equipo de reparaciones soberbio (nivel 3) | 25 po | 1 | 2 |
+| [Equipo de aventurero](/equipo/objetos/equipo-aventurero/) | 15 pp | 1 | — |
+| [Equipo de reparaciones](/equipo/objetos/equipo-reparaciones/) | 2 po | 1 | 2 |
+| [Equipo de reparaciones](/equipo/objetos/equipo-reparaciones/) soberbio (nivel 3) | 25 po | 1 | 2 |
 | Escala (10 pies) | 3 pc | 3 | 2 |
 | Espejo | 1 po | — | 1 |
-| Garfio de abordaje | 1 pp | L | 1 |
-| **Grilletes** | | | |
-| — Grilletes baratos | 3 pp | — | 2 |
-| — Grilletes sencillos (nivel 1) | 3 po | — | 2 |
-| — Grilletes normales (nivel 3) | 20 po | — | 2 |
-| — Grilletes buenos (nivel 9) | 250 po | — | 2 |
-| — Grilletes superiores (nivel 17) | 5000 po | — | 2 |
-| **Herramienta** | | | |
-| — Herramienta larga | 1 po | 1 | 2 |
-| — Herramienta corta | 4 pp | L | 1 o 2 |
-| **Instrumento musical** | | | |
-| — De mano | 8 pp | 1 | 2 |
-| — De mano de virtuoso (nivel 3) | 50 po | 1 | 2 |
-| — Pesado | 2 po | 16 | 2 |
-| — Pesado de virtuoso (nivel 3) | 100 po | 16 | 2 |
+| [Garfio de abordaje](/equipo/objetos/garfio-abordaje/) | 1 pp | L | 1 |
+| **[Grilletes](/equipo/objetos/grilletes/)** | | | |
+| — [Grilletes](/equipo/objetos/grilletes/) baratos | 3 pp | — | 2 |
+| — [Grilletes](/equipo/objetos/grilletes/) sencillos (nivel 1) | 3 po | — | 2 |
+| — [Grilletes](/equipo/objetos/grilletes/) normales (nivel 3) | 20 po | — | 2 |
+| — [Grilletes](/equipo/objetos/grilletes/) buenos (nivel 9) | 250 po | — | 2 |
+| — [Grilletes](/equipo/objetos/grilletes/) superiores (nivel 17) | 5000 po | — | 2 |
+| **[Herramienta](/equipo/objetos/herramienta/)** | | | |
+| — [Herramienta](/equipo/objetos/herramienta/) larga | 1 po | 1 | 2 |
+| — [Herramienta](/equipo/objetos/herramienta/) corta | 4 pp | L | 1 o 2 |
+| **[Instrumento musical](/equipo/objetos/instrumento-musical/)** | | | |
+| — [Instrumento musical](/equipo/objetos/instrumento-musical/) de mano | 8 pp | 1 | 2 |
+| — [Instrumento musical](/equipo/objetos/instrumento-musical/) de mano de virtuoso (nivel 3) | 50 po | 1 | 2 |
+| — [Instrumento musical](/equipo/objetos/instrumento-musical/) pesado | 2 po | 16 | 2 |
+| — [Instrumento musical](/equipo/objetos/instrumento-musical/) pesado de virtuoso (nivel 3) | 100 po | 16 | 2 |
 | Jabón | 2 pc | — | 1 |
 | Jarra | 1 pc | — | 1 |
-| Juego de herramientas de alquimista | 3 po | 1 | 1 o 2* |
-| Juego de herramientas de artesano | 4 po | 2 | 1 o 2* |
-| Juego de herramientas de artesano excelentes (nivel 3) | 50 po | 2 | 1 o 2* |
-| Juego de herramientas de ladrón | 3 po | L | 1 o 2* |
+| [Juego de herramientas de alquimista](/equipo/objetos/juego-herramientas-alquimista/) | 3 po | 1 | 1 o 2* |
+| [Juego de herramientas de artesano](/equipo/objetos/juego-herramientas-artesano/) | 4 po | 2 | 1 o 2* |
+| [Juego de herramientas de artesano](/equipo/objetos/juego-herramientas-artesano/) excelentes (nivel 3) | 50 po | 2 | 1 o 2* |
+| [Juego de herramientas de ladrón](/equipo/objetos/herramientas-ladron/) | 3 po | L | 1 o 2* |
 | — Ganzúas de repuesto | 3 pp | — | — |
-| Juego de herramientas de ladrón infiltrador (nivel 3) | 50 po | L | 1 o 2* |
+| [Juego de herramientas de ladrón](/equipo/objetos/herramientas-ladron/) infiltrador (nivel 3) | 50 po | L | 1 o 2* |
 | — Ganzúas de infiltrador (nivel 3) | 3 po | — | — |
-| Laboratorio de alquimista | 5 po | 6 | 2 |
-| Laboratorio de alquimista mejorado (nivel 3) | 55 po | 6 | 2 |
-| Libro básico de artesano | 1 pp | L | 2 |
-| Libro de conjuros (en blanco) | 1 po | L | 1 |
-| Libro de fórmulas (en blanco) | 1 po | L | 1 |
-| Linterna de ojo de buey | 1 po | 1 | 1 |
-| Linterna sorda | 7 pp | L | 1 |
-| Lupa (nivel 3) | 40 po | — | 1 |
+| [Laboratorio de alquimista](/equipo/objetos/laboratorio-alquimista/) | 5 po | 6 | 2 |
+| [Laboratorio de alquimista](/equipo/objetos/laboratorio-alquimista/) mejorado (nivel 3) | 55 po | 6 | 2 |
+| [Libro básico de artesano](/equipo/objetos/libro-artesano/) | 1 pp | L | 2 |
+| [Libro de conjuros](/equipo/objetos/libro-conjuros/) (en blanco) | 1 po | L | 1 |
+| [Libro de fórmulas](/equipo/objetos/libro-formulas/) (en blanco) | 1 po | L | 1 |
+| [Linterna](/equipo/objetos/linterna/) de ojo de buey | 1 po | 1 | 1 |
+| [Linterna](/equipo/objetos/linterna/) sorda | 7 pp | L | 1 |
+| [Lupa](/equipo/objetos/lupa/) (nivel 3) | 40 po | — | 1 |
 | Martillo | 1 pp | L | 1 |
 | Material de cocina | 1 po | 2 | 2 |
-| Material de curas | 5 po | 1 | 1 o 2* |
-| Material de curas mejorado (nivel 3) | 50 po | 1 | 1 o 2* |
-| Material de detective (nivel 3) | 25 po | 1 | 1 o 2* |
-| Material de disfraz | 2 po | L | 2 |
+| [Material de curas](/equipo/objetos/material-curas/) | 5 po | 1 | 1 o 2* |
+| [Material de curas](/equipo/objetos/material-curas/) mejorado (nivel 3) | 50 po | 1 | 1 o 2* |
+| [Material de detective](/equipo/objetos/material-detective/) (nivel 3) | 25 po | 1 | 1 o 2* |
+| [Material de disfraz](/equipo/objetos/material-disfraz/) | 2 po | L | 2 |
 | — Cosméticos de repuesto | 1 pp | — | — |
-| Material de disfraz de élite (nivel 3) | 40 po | L | 2 |
+| [Material de disfraz](/equipo/objetos/material-disfraz/) de élite (nivel 3) | 40 po | L | 2 |
 | — Cosméticos de élite (nivel 3) | 5 pp | — | — |
-| Material de escalada | 5 pp | 1 | 2 |
-| Material de escalada extrema (nivel 3) | 40 po | 1 | 2 |
-| Material de escritura | 1 po | L | 2 |
+| [Material de escalada](/equipo/objetos/material-escalada/) | 5 pp | 1 | 2 |
+| [Material de escalada](/equipo/objetos/material-escalada/) extrema (nivel 3) | 40 po | 1 | 2 |
+| [Material de escritura](/equipo/objetos/material-escritura/) | 1 po | L | 2 |
 | — Papel y tinta de repuesto | 1 pp | — | — |
-| Material de pesca | 8 pp | 1 | 2 |
-| Material de pesca profesional (nivel 3) | 20 po | 1 | 2 |
-| Mochila | 1 pp | — | — |
-| Odre | 5 pc | L | 1 |
-| Oreja de bronce | 1 po | — | 1 |
-| Palanqueta | 5 pp | L | 2 |
-| Palanqueta reforzada (nivel 3) | 20 po | L | 2 |
-| Pedernal y yesca | 5 pc | — | 2 |
-| Periscopio (nivel 2) | 25 po | L | 2 |
-| Pértiga de 10 pies | 1 pc | 1 | 2 |
-| Pitón | 1 pc | — | 1 |
+| [Material de pesca](/equipo/objetos/material-pesca/) | 8 pp | 1 | 2 |
+| [Material de pesca](/equipo/objetos/material-pesca/) profesional (nivel 3) | 20 po | 1 | 2 |
+| [Mochila](/equipo/objetos/mochila/) | 1 pp | — | — |
+| [Odre](/equipo/objetos/odre/) | 5 pc | L | 1 |
+| [Oreja de bronce](/equipo/objetos/oreja-bronce/) | 1 po | — | 1 |
+| [Palanqueta](/equipo/objetos/palanqueta/) | 5 pp | L | 2 |
+| [Palanqueta](/equipo/objetos/palanqueta/) reforzada (nivel 3) | 20 po | L | 2 |
+| [Pedernal y yesca](/equipo/objetos/pedernal-yesca/) | 5 pc | — | 2 |
+| [Periscopio](/equipo/objetos/periscopio/) (nivel 2) | 25 po | L | 2 |
+| [Pértiga de 10 pies](/equipo/objetos/pertiga/) | 1 pc | 1 | 2 |
+| [Pitón](/equipo/objetos/piton/) | 1 pc | — | 1 |
 | Raciones (1 semana) | 4 pp | L | 1 |
-| Red | 1 po | 1 | 2 |
+| [Red](/equipo/objetos/red/) | 1 po | 1 | 2 |
 | Reloj de arena | 3 po | L | 1 |
-| **Ropa** | | | |
-| — Ropa normal | 1 pp | — | — |
-| — Ropa de explorador | 1 pp | L | — |
-| — Ropa de calidad | 2 po | L | — |
-| — Ropa de calidad y diseño (nivel 3) | 55 po | L | — |
-| — Ropa de invierno | 4 pp | L | — |
-| Saco (5) | 1 pc | L | 1 |
+| **[Ropa](/equipo/objetos/ropa/)** | | | |
+| — [Ropa](/equipo/objetos/ropa/) normal | 1 pp | — | — |
+| — [Ropa](/equipo/objetos/ropa/) de explorador | 1 pp | L | — |
+| — [Ropa](/equipo/objetos/ropa/) de calidad | 2 po | L | — |
+| — [Ropa](/equipo/objetos/ropa/) de calidad y diseño (nivel 3) | 55 po | L | — |
+| — [Ropa](/equipo/objetos/ropa/) de invierno | 4 pp | L | — |
+| [Saco](/equipo/objetos/saco/) (5) | 1 pc | L | 1 |
 | Saco de dormir | 2 pc | L | — |
-| Silbato de señales | 8 pc | — | 1 |
-| Símbolo primigenio | 0 | — | 1 |
-| **Símbolo religioso** | | | |
-| — De madera | 1 pp | L | 1 |
-| — De plata | 2 po | L | 1 |
-| Texto religioso | 1 po | L | 1 |
+| [Silbato de señales](/equipo/objetos/silbato-senales/) | 8 pc | — | 1 |
+| [Símbolo primigenio](/equipo/objetos/simbolo-primigenio/) | 0 | — | 1 |
+| **[Símbolo religioso](/equipo/objetos/simbolo-religioso/)** | | | |
+| — [Símbolo religioso](/equipo/objetos/simbolo-religioso/) de madera | 1 pp | L | 1 |
+| — [Símbolo religioso](/equipo/objetos/simbolo-religioso/) de plata | 2 po | L | 1 |
+| [Texto religioso](/equipo/objetos/texto-religioso/) | 1 po | L | 1 |
 | **Tienda de campaña** | | | |
 | — Ratonera | 8 pp | L | 2 |
 | — Para cuatro personas | 5 po | 1 | 2 |
 | — Pabellón (nivel 2) | 40 po | 12 | 2 |
 | Tiza (10) | 1 pc | — | 1 |
-| Vaina de parada | 5 pp | L | 1 |
-| Vaina oculta (nivel 3) | 25 po | — | — |
-| Vela (10) | 1 pc | — | 1 |
+| [Vaina de parada](/equipo/objetos/vaina-parada/) | 5 pp | L | 1 |
+| [Vaina oculta](/equipo/objetos/vaina-oculta/) (nivel 3) | 25 po | — | — |
+| [Vela](/equipo/objetos/vela/) (10) | 1 pc | — | 1 |
 
 *Puedes usar un juego de herramientas con 1 mano si lo llevas puesto o con 2 si lo sostienes.
 
