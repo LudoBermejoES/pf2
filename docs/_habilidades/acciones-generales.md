@@ -24,14 +24,19 @@ Las acciones de habilidad generales son acciones de habilidad que se pueden util
 
 ## Aprender un Conjuro (Entrenado)
 
-**Habilidades:** Arcanos, Naturaleza, Ocultismo, Religion
+**Habilidades:**
+
+Arcanos, Naturaleza, Ocultismo, Religion
 
 Si eres un lanzador de conjuros, puedes utilizar la habilidad correspondiente a tu tradicion magica para aprender un nuevo conjuro de dicha tradicion. La tabla de Aprender un conjuro indica el Precio de los materiales necesarios para Aprender uno de cada rango. Esto es util sobre todo para las clases que utilizan una lista limitada de conjuros, como por ejemplo el bardo, el brujo o el mago, aunque otras clases podrian utilizar esta actividad para obtener conjuros raros o poco comunes.
 
 ### Aprender un Conjuro
-<span class="trait">Concentrar</span> <span class="trait">Exploracion</span>
 
-**Requisitos:** Tienes un rasgo de clase de lanzamiento de conjuros y el que quieres aprender esta en la lista de tu tradicion magica.
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span></div>
+
+**Requisitos:**
+
+Tienes un rasgo de clase de lanzamiento de conjuros y el que quieres aprender esta en la lista de tu tradicion magica.
 
 Puedes obtener acceso a un nuevo conjuro de tu tradicion a partir de alguien que lo conoce o a partir de escritura magica, como un libro de conjuros o un pergamino. Si puedes lanzar conjuros de diversas tradiciones, puedes Aprender un conjuro de cualquiera de las mismas, pero debes utilizar para ello la habilidad correspondiente. Por ejemplo, si eres un clerigo con el arquetipo multiclase bardo no puedes utilizar Religion para anadir un conjuro ocultista a tu repertorio de conjuros de bardo.
 
@@ -80,7 +85,9 @@ Un conjuro que aprendes se anade a tu deposito de conjuros, como por ejemplo un 
 
 ## Descifrar Escritura (Entrenado)
 
-**Habilidades:** Arcanos, Ocultismo, Religion, Sociedad
+**Habilidades:**
+
+Arcanos, Ocultismo, Religion, Sociedad
 
 Cuando te encuentras con textos particularmente arcaicos o esotericos, el DJ puede requerir que Descifres la escritura antes de poder entenderla. Tienes que estar entrenado en la habilidad relevante para Descifrar la escritura.
 
@@ -91,7 +98,8 @@ Las habilidades utilizadas para esta accion y los tipos de textos que suelen des
 - **Sociedad** para mensajes en clave o documentos arcaicos
 
 ### Descifrar Escritura
-<span class="trait">Concentrar</span> <span class="trait">Exploracion</span> <span class="trait">Secreto</span>
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
 
 Tratas de descifrar una escritura o literatura complicada sobre un tema oscuro. Esto suele requerir 1 minuto por pagina de texto, pero podria durar mas (tipicamente una hora por pagina para desencriptar mensajes cifrados o cosas parecidas). El texto tendra que estar en un idioma que sepas leer, aunque el DJ te podria permitir intentos de descifrar textos escritos en un idioma poco familiar utilizando Sociedad en su lugar.
 
@@ -118,12 +126,15 @@ La CD la determina el DJ basandose en el estado o en la complejidad del document
 
 ## Identificar Magia (Entrenado)
 
-**Habilidades:** Arcanos, Naturaleza, Ocultismo, Religion
+**Habilidades:**
+
+Arcanos, Naturaleza, Ocultismo, Religion
 
 Utilizando la habilidad relacionada con la tradicion magica apropiada, puedes tratar de identificar un objeto magico, un lugar magico, o un efecto magico continuado. En muchos casos, puedes utilizar una habilidad para tratar de Identificar magia de una tradicion diferente a la tuya, con una CD mayor. El DJ es quien determina si puedes hacerlo, y cual es la CD.
 
 ### Identificar Magia
-<span class="trait">Concentrar</span> <span class="trait">Exploracion</span> <span class="trait">Secreto</span>
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
 
 Una vez descubres que un objeto, lugar o efecto continuado es magico, puedes invertir 10 minutos en identificar los detalles de su magia. Si tu intento se ve interrumpido, tienes que empezar de nuevo. El DJ es quien fija la CD para tu prueba. Los objetos magicos o esotericos malditos suelen tener una CD mayor o podrian ser incluso imposibles de identificar utilizando tan solo esta actividad. Potenciar un conjuro no incrementa la CD para identificarlo.
 
@@ -139,7 +150,9 @@ Una vez descubres que un objeto, lugar o efecto continuado es magico, puedes inv
 
 ## Obtener Ingresos (Entrenado)
 
-**Habilidades:** Artesania, Interpretacion, Saber, otros
+**Habilidades:**
+
+Artesania, Interpretacion, Saber, otros
 
 Puedes utilizar una habilidad para ganar dinero durante el tiempo libre. Para eso, tienes que estar entrenado en la habilidad. Organizar esto requiere tiempo, y tus ingresos dependen de tu rango de competencia y de lo lucrativa que es la tarea.
 
@@ -151,7 +164,8 @@ Las formas mas tipicas de Obtener ingresos son:
 En algunos casos, el DJ te podria permitir el uso de una habilidad diferente para Obtener ingresos mediante el trabajo especializado.
 
 ### Obtener Ingresos
-<span class="trait">Tiempo Libre</span>
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
 
 Utilizas una de tus habilidades para ganar dinero durante tu tiempo libre. El DJ asigna un nivel de tarea que representa el trabajo mas lucrativo disponible. Puedes buscar tareas de nivel inferior, y el DJ determinara si las encuentras o no.
 
@@ -217,14 +231,17 @@ Cuando una tarea que estas llevando a cabo esta completa o te detienes en mitad 
 
 ## Recordar Conocimiento (No Entrenado)
 
-**Habilidades:** Arcanos, Artesania, Medicina, Naturaleza, Ocultismo, Religion, Saber, Sociedad, otros
+**Habilidades:**
+
+Arcanos, Artesania, Medicina, Naturaleza, Ocultismo, Religion, Saber, Sociedad, otros
 
 Para recordar informacion util acerca de un tema determinado, puedes Recordar conocimiento. Esta accion es una que es probable que uses frecuentemente. Aprender mas acerca del mundo y de la gente que te rodea es una de las mejores maneras de que tus decisiones sean informadas y Recordar conocimiento puede ayudarte a pelear mejor contra los monstruos, descifrar rompecabezas y enfrentarte a desafios sociales.
 
 Podrias conocer informacion basica acerca de algo sin ni siquiera tener que hacer una prueba, pero Recordar conocimiento requiere que te detengas y pienses durante unos momentos para reunir mas hechos especificos y aplicarlos.
 
 ### Recordar Conocimiento ◆
-<span class="trait">Concentrar</span> <span class="trait">Secreto</span>
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Secreto</span></div>
 
 Haces una prueba de habilidad para intentar recordar un fragmento de conocimiento sobre un tema relacionado con dicha habilidad. Sugiere que habilidad querrias usar y formula una pregunta al DJ. El DJ es quien determina la CD. Podrias tener que colaborar con el para estrechar la pregunta o las habilidades, y podrias decidir no Recordar conocimiento antes de decidirte por la accion si no te gustan tus opciones.
 
@@ -283,12 +300,15 @@ Cuando te encuentras con un tema por vez primera, tu primera pregunta sera proba
 
 ## Subsistir (No Entrenado)
 
-**Habilidades:** Sociedad, Supervivencia
+**Habilidades:**
+
+Sociedad, Supervivencia
 
 Si necesitas proveerte de comida y cobijo, puedes utilizar la actividad de tiempo libre Subsistir. Si estas en un asentamiento se suele utilizar Sociedad y, si estas en las tierras virgenes, Supervivencia.
 
 ### Subsistir
-<span class="trait">Tiempo Libre</span>
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
 
 Tratas de proporcionarte a ti mismo comida y cobijo, y posiblemente tambien a otros, con un nivel de vida descrito en las reglas de equipo. El DJ es quien determina la CD basandose en la naturaleza del lugar en el que tratas de Subsistir. Podrias necesitar un rango de competencia minimo para Subsistir en entornos particularmente extranos. A diferencia de la mayoria de las actividades de tiempo libre, puedes Subsistir despues de 8 horas o menos de exploracion, pero si lo haces sufres un penalizador -5.
 
