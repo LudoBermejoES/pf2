@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /conjuros/spell-index/
-title: Spell Index
+title: Índice de conjuros
 chapter: Conjuros
 nav_order: 1
 ---
 
-# Spell Index
-
-Complete alphabetical index of all Pathfinder 2e spells with links to individual pages.
+Índice alfabético de conjuors
 
 | Spell Name | Level | Traits | Source |
 |-----------|-------|--------|--------|

@@ -120,7 +120,7 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 
 | Ataque sin armas | Precio | Daño | Imp. | Manos | Grupo | Rasgos de arma |
 |------------------|--------|------|------|-------|-------|----------------|
-| Puño | — | 1d4 Con | — | 1 | Pelea | Ágil, no letal, sin armas, sutil |
+| [Puño](/equipo/armas/puno/) | — | 1d4 Con | — | 1 | Pelea | Ágil, no letal, sin armas, sutil |
 
 ---
 
@@ -128,24 +128,24 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 
 | Arma sencilla | Precio | Daño | Imp. | Manos | Grupo | Rasgos de arma |
 |---------------|--------|------|------|-------|-------|----------------|
-| Bastón | 0 | 1d4 Con | 1 | 1 | Palos | A dos manos d8, monje |
-| Clava | 0 | 1d6 Con | 1 | 1 | Palos | Arrojadiza 10 pies (3 m) |
-| Daga | 2 pp | 1d4 Per | L | 1 | Cuchillos | Ágil, arrojadiza 10 pies (3 m), sutil, versátil Cor |
-| Guantelete | 2 pp | 1d4 Con | L | 1 | Pelea | Ágil, mano libre |
-| Guantelete armado | 3 pp | 1d4 Per | L | 1 | Pelea | Ágil, mano libre |
-| Hoz | 2 pp | 1d4 Cor | L | 1 | Cuchillos | Ágil, derribo, sutil |
-| Lanza | 1 pp | 1d6 Per | 1 | 1 | Lanzas | Arrojadiza 20 pies (6 m), monje |
-| Lanza larga | 5 pp | 1d8 Per | 2 | 2 | Lanzas | Alcance |
-| Maza | 1 po | 1d6 Con | 1 | 1 | Palos | Empujar |
-| Maza de armas | 1 po | 1d6 Con | 1 | 1 | Palos | Versátil Per |
-| Maza ligera | 4 pp | 1d4 Con | L | 1 | Palos | Ágil, empujar, sutil |
+| [Bastón](/equipo/armas/baston/) | 0 | 1d4 Con | 1 | 1 | Palos | A dos manos d8, monje |
+| [Clava](/equipo/armas/clava/) | 0 | 1d6 Con | 1 | 1 | Palos | Arrojadiza 10 pies (3 m) |
+| [Daga](/equipo/armas/daga/) | 2 pp | 1d4 Per | L | 1 | Cuchillos | Ágil, arrojadiza 10 pies (3 m), sutil, versátil Cor |
+| [Guantelete](/equipo/armas/guantelete/) | 2 pp | 1d4 Con | L | 1 | Pelea | Ágil, mano libre |
+| [Guantelete armado](/equipo/armas/guantelete-armado/) | 3 pp | 1d4 Per | L | 1 | Pelea | Ágil, mano libre |
+| [Hoz](/equipo/armas/hoz/) | 2 pp | 1d4 Cor | L | 1 | Cuchillos | Ágil, derribo, sutil |
+| [Lanza](/equipo/armas/lanza/) | 1 pp | 1d6 Per | 1 | 1 | Lanzas | Arrojadiza 20 pies (6 m), monje |
+| [Lanza larga](/equipo/armas/lanza-larga/) | 5 pp | 1d8 Per | 2 | 2 | Lanzas | Alcance |
+| [Maza](/equipo/armas/maza/) | 1 po | 1d6 Con | 1 | 1 | Palos | Empujar |
+| [Maza de armas](/equipo/armas/maza-armas/) | 1 po | 1d6 Con | 1 | 1 | Palos | Versátil Per |
+| [Maza ligera](/equipo/armas/maza-ligera/) | 4 pp | 1d4 Con | L | 1 | Palos | Ágil, empujar, sutil |
 
 ### Armas sencillas poco comunes
 
 | Arma | Precio | Daño | Imp. | Manos | Grupo | Rasgos de arma |
 |------|--------|------|------|-------|-------|----------------|
-| Daga de clan | 2 po | 1d4 Per | L | 1 | Cuchillos | Ágil, enano, parada, versátil Con |
-| Katar | 3 pp | 1d4 Per | L | 1 | Cuchillos | Ágil, letal d6, monje |
+| [Daga de clan](/equipo/armas/daga-clan/) | 2 po | 1d4 Per | L | 1 | Cuchillos | Ágil, enano, parada, versátil Con |
+| [Katar](/equipo/armas/katar/) | 3 pp | 1d4 Per | L | 1 | Cuchillos | Ágil, letal d6, monje |
 
 ---
 
@@ -153,61 +153,61 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 
 | Arma marcial | Precio | Daño | Imp. | Manos | Grupo | Rasgos de arma |
 |--------------|--------|------|------|-------|-------|----------------|
-| Alabarda | 2 po | 1d10 Per | 2 | 2 | De asta | Alcance, arrojadiza 10 pies (3 m), versátil Cor |
-| Alfanje | 3 po | 1d10 Cor | 2 | 2 | Espadas | Derribo, vigorosa |
-| Bastón bo | 2 pp | 1d8 Con | 2 | 2 | Palos | Alcance, derribo, monje, parada |
-| Bastón estoque | 5 po | 1d6 Per | 1 | 1 | Espadas | Ágil, ocultable, sutil |
-| Bisarma | 2 po | 1d10 Cor | 2 | 2 | De asta | Alcance, derribo |
-| Cachiporra | 1 pp | 1d6 Con | L | 1 | Palos | Ágil, no letal |
-| Cimitarra | 1 po | 1d6 Cor | 1 | 1 | Espadas | Barrido, vigorosa |
-| Cuchillo de estrella | 2 po | 1d4 Per | L | 1 | Cuchillos | Ágil, arrojadiza 20 pies (6 m), letal d6, sutil |
-| Daga de guardamano | 5 po | 1d4 Per | L | 1 | Cuchillos | Ágil, desarme, parada, sutil, versátil Cor |
-| Espada bastarda | 4 po | 1d8 Cor | 1 | 1 | Espadas | A dos manos d12 |
-| Espada corta | 9 pp | 1d6 Per | L | 1 | Espadas | Ágil, sutil, versátil Cor |
-| Espada larga | 1 po | 1d8 Cor | 1 | 1 | Espadas | Versátil Per |
-| Espada ropera | 2 po | 1d6 Per | 1 | 1 | Espadas | Desarme, letal d8, sutil |
-| Golpe con el escudo | — | 1d4 Con | — | 1 | Escudos | — |
-| Gran clava | 1 po | 1d10 Con | 2 | 2 | Palos | Empujar, revés |
-| Gran hacha | 2 po | 1d12 Cor | 2 | 2 | Hachas | Barrido |
-| Gran pico | 1 po | 1d10 Per | 2 | 2 | Picos | Fatal d12 |
-| Guadaña | 2 po | 1d10 Cor | 2 | 2 | De asta | Derribo, letal d10 |
-| Guja | 1 po | 1d8 Cor | 1 | 1 | De asta | Alcance, letal d8, vigorosa |
-| Hacha de batalla | 1 po | 1d8 Cor | 1 | 1 | Hachas | Barrido |
-| Hacha de mano | 4 pp | 1d6 Cor | L | 1 | Hachas | Ágil, barrido |
-| Lanza de caballería | 1 po | 1d8 Per | 2 | 2 | Lanzas | Alcance, de justa d6, letal d8 |
-| Látigo | 1 pp | 1d4 Cor | 1 | 1 | Látigos | Alcance, derribo, desarme, no letal, sutil |
-| Mandoble | 2 po | 1d12 Cor | 2 | 2 | Espadas | Versátil Per |
-| Mangual | 8 pp | 1d6 Con | 1 | 1 | Manguales | Barrido, derribo, desarme |
-| Mangual de guerra | 2 po | 1d10 Con | 2 | 2 | Manguales | Barrido, derribo, desarme |
-| Martillo de guerra | 1 po | 1d8 Con | 1 | 1 | Martillos | Empujar |
-| Martillo ligero | 3 pp | 1d6 Con | L | 1 | Martillos | Ágil, arrojadiza 20 pies (6 m) |
-| Mazo | 3 po | 1d12 Con | 2 | 2 | Martillos | Empujar |
-| Pico | 7 pp | 1d6 Per | 1 | 1 | Picos | Fatal d10 |
-| Pico ligero | 4 pp | 1d4 Per | L | 1 | Picos | Ágil, fatal d8 |
-| Púas de escudo | 5 pp | 1d6 Per | — | 1 | Escudos | Fijadas al escudo |
-| Ronca | 2 po | 1d10 Per | 2 | 2 | De asta | Alcance, desarme |
-| Tridente | 1 po | 1d8 Per | 1 | 1 | Lanzas | Arrojadiza 20 pies (6 m) |
-| Umbo de escudo | 5 pp | 1d6 Con | — | 1 | Escudos | Fijado al escudo |
+| [Alabarda](/equipo/armas/alabarda/) | 2 po | 1d10 Per | 2 | 2 | De asta | Alcance, arrojadiza 10 pies (3 m), versátil Cor |
+| [Alfanje](/equipo/armas/alfanje/) | 3 po | 1d10 Cor | 2 | 2 | Espadas | Derribo, vigorosa |
+| [Bastón bo](/equipo/armas/baston-bo/) | 2 pp | 1d8 Con | 2 | 2 | Palos | Alcance, derribo, monje, parada |
+| [Bastón estoque](/equipo/armas/baston-estoque/) | 5 po | 1d6 Per | 1 | 1 | Espadas | Ágil, ocultable, sutil |
+| [Bisarma](/equipo/armas/bisarma/) | 2 po | 1d10 Cor | 2 | 2 | De asta | Alcance, derribo |
+| [Cachiporra](/equipo/armas/cachiporra/) | 1 pp | 1d6 Con | L | 1 | Palos | Ágil, no letal |
+| [Cimitarra](/equipo/armas/cimitarra/) | 1 po | 1d6 Cor | 1 | 1 | Espadas | Barrido, vigorosa |
+| [Cuchillo de estrella](/equipo/armas/cuchillo-estrella/) | 2 po | 1d4 Per | L | 1 | Cuchillos | Ágil, arrojadiza 20 pies (6 m), letal d6, sutil |
+| [Daga de guardamano](/equipo/armas/daga-guardamano/) | 5 po | 1d4 Per | L | 1 | Cuchillos | Ágil, desarme, parada, sutil, versátil Cor |
+| [Espada bastarda](/equipo/armas/espada-bastarda/) | 4 po | 1d8 Cor | 1 | 1 | Espadas | A dos manos d12 |
+| [Espada corta](/equipo/armas/espada-corta/) | 9 pp | 1d6 Per | L | 1 | Espadas | Ágil, sutil, versátil Cor |
+| [Espada larga](/equipo/armas/espada-larga/) | 1 po | 1d8 Cor | 1 | 1 | Espadas | Versátil Per |
+| [Espada ropera](/equipo/armas/espada-ropera/) | 2 po | 1d6 Per | 1 | 1 | Espadas | Desarme, letal d8, sutil |
+| [Golpe con el escudo](/equipo/armas/golpe-escudo/) | — | 1d4 Con | — | 1 | Escudos | — |
+| [Gran clava](/equipo/armas/gran-clava/) | 1 po | 1d10 Con | 2 | 2 | Palos | Empujar, revés |
+| [Gran hacha](/equipo/armas/gran-hacha/) | 2 po | 1d12 Cor | 2 | 2 | Hachas | Barrido |
+| [Gran pico](/equipo/armas/gran-pico/) | 1 po | 1d10 Per | 2 | 2 | Picos | Fatal d12 |
+| [Guadaña](/equipo/armas/guadana/) | 2 po | 1d10 Cor | 2 | 2 | De asta | Derribo, letal d10 |
+| [Guja](/equipo/armas/guja/) | 1 po | 1d8 Cor | 1 | 1 | De asta | Alcance, letal d8, vigorosa |
+| [Hacha de batalla](/equipo/armas/hacha-batalla/) | 1 po | 1d8 Cor | 1 | 1 | Hachas | Barrido |
+| [Hacha de mano](/equipo/armas/hacha-mano/) | 4 pp | 1d6 Cor | L | 1 | Hachas | Ágil, barrido |
+| [Lanza de caballería](/equipo/armas/lanza-caballeria/) | 1 po | 1d8 Per | 2 | 2 | Lanzas | Alcance, de justa d6, letal d8 |
+| [Látigo](/equipo/armas/latigo/) | 1 pp | 1d4 Cor | 1 | 1 | Látigos | Alcance, derribo, desarme, no letal, sutil |
+| [Mandoble](/equipo/armas/mandoble/) | 2 po | 1d12 Cor | 2 | 2 | Espadas | Versátil Per |
+| [Mangual](/equipo/armas/mangual/) | 8 pp | 1d6 Con | 1 | 1 | Manguales | Barrido, derribo, desarme |
+| [Mangual de guerra](/equipo/armas/mangual-guerra/) | 2 po | 1d10 Con | 2 | 2 | Manguales | Barrido, derribo, desarme |
+| [Martillo de guerra](/equipo/armas/martillo-guerra/) | 1 po | 1d8 Con | 1 | 1 | Martillos | Empujar |
+| [Martillo ligero](/equipo/armas/martillo-ligero/) | 3 pp | 1d6 Con | L | 1 | Martillos | Ágil, arrojadiza 20 pies (6 m) |
+| [Mazo](/equipo/armas/mazo/) | 3 po | 1d12 Con | 2 | 2 | Martillos | Empujar |
+| [Pico](/equipo/armas/pico/) | 7 pp | 1d6 Per | 1 | 1 | Picos | Fatal d10 |
+| [Pico ligero](/equipo/armas/pico-ligero/) | 4 pp | 1d4 Per | L | 1 | Picos | Ágil, fatal d8 |
+| [Púas de escudo](/equipo/armas/puas-escudo/) | 5 pp | 1d6 Per | — | 1 | Escudos | Fijadas al escudo |
+| [Ronca](/equipo/armas/ronca/) | 2 po | 1d10 Per | 2 | 2 | De asta | Alcance, desarme |
+| [Tridente](/equipo/armas/tridente/) | 1 po | 1d8 Per | 1 | 1 | Lanzas | Arrojadiza 20 pies (6 m) |
+| [Umbo de escudo](/equipo/armas/umbo-escudo/) | 5 pp | 1d6 Con | — | 1 | Escudos | Fijado al escudo |
 
 ### Armas marciales poco comunes
 
 | Arma | Precio | Daño | Imp. | Manos | Grupo | Rasgos de arma |
 |------|--------|------|------|-------|-------|----------------|
-| Cadena armada | 3 po | 1d8 Cor | 1 | 2 | Manguales | Derribo, desarme, sutil |
-| Daga orca de nudillos | 7 pp | 1d6 Per | L | 1 | Cuchillos | Ágil, desarme, orco |
-| Espada curva elfa | 4 po | 1d8 Cor | 2 | 2 | Espadas | Elfo, sutil, vigorosa |
-| Espada del templo | 2 po | 1d8 Cor | 1 | 1 | Espadas | Derribo, monje |
-| Kama | 1 po | 1d6 Cor | L | 1 | Cuchillos | Ágil, derribo, monje |
-| Katana | 2 po | 1d6 Cor | 1 | 1 | Espadas | A dos manos d10, letal d8, versátil Per |
-| Khakkara | 2 po | 1d6 Con | 1 | 1 | Palos | A dos manos d10, empujar, monje, versátil Per |
-| Kukri | 6 pp | 1d6 Cor | L | 1 | Cuchillos | Ágil, derribo, sutil |
-| Martillo ganchudo gnomo | 2 po | 1d6 Con | 1 | 1 | Martillos | A dos manos d10, derribo, gnomo, versátil Per |
-| Nunchaku | 2 pp | 1d6 Con | L | 1 | Palos | Desarme, monje, revés, sutil |
-| Rajaperros | 1 pp | 1d6 Cor | L | 1 | Espadas | Ágil, goblin, puñalada trapera, sutil |
-| Sai | 6 pp | 1d4 Per | L | 1 | Cuchillos | Ágil, desarme, monje, sutil, versátil Con |
-| Sajacaballos | 9 pp | 1d8 Cor | 2 | 2 | De asta | Alcance, derribo, goblin, versátil Per |
-| Tenedor de afanar | 1 po | 1d4 Per | L | 1 | Lanzas | Ágil, arrojadiza 20 pies (6 m), letal d6, mediano, sutil, puñalada trapera |
-| Wakizashi | 1 po | 1d4 Cor | L | 1 | Espadas | Ágil, letal d8, sutil, versátil Per |
+| [Cadena armada](/equipo/armas/cadena-armada/) | 3 po | 1d8 Cor | 1 | 2 | Manguales | Derribo, desarme, sutil |
+| [Daga orca de nudillos](/equipo/armas/daga-orca-nudillos/) | 7 pp | 1d6 Per | L | 1 | Cuchillos | Ágil, desarme, orco |
+| [Espada curva elfa](/equipo/armas/espada-curva-elfa/) | 4 po | 1d8 Cor | 2 | 2 | Espadas | Elfo, sutil, vigorosa |
+| [Espada del templo](/equipo/armas/espada-templo/) | 2 po | 1d8 Cor | 1 | 1 | Espadas | Derribo, monje |
+| [Kama](/equipo/armas/kama/) | 1 po | 1d6 Cor | L | 1 | Cuchillos | Ágil, derribo, monje |
+| [Katana](/equipo/armas/katana/) | 2 po | 1d6 Cor | 1 | 1 | Espadas | A dos manos d10, letal d8, versátil Per |
+| [Khakkara](/equipo/armas/khakkara/) | 2 po | 1d6 Con | 1 | 1 | Palos | A dos manos d10, empujar, monje, versátil Per |
+| [Kukri](/equipo/armas/kukri/) | 6 pp | 1d6 Cor | L | 1 | Cuchillos | Ágil, derribo, sutil |
+| [Martillo ganchudo gnomo](/equipo/armas/martillo-ganchudo-gnomo/) | 2 po | 1d6 Con | 1 | 1 | Martillos | A dos manos d10, derribo, gnomo, versátil Per |
+| [Nunchaku](/equipo/armas/nunchaku/) | 2 pp | 1d6 Con | L | 1 | Palos | Desarme, monje, revés, sutil |
+| [Rajaperros](/equipo/armas/rajaperros/) | 1 pp | 1d6 Cor | L | 1 | Espadas | Ágil, goblin, puñalada trapera, sutil |
+| [Sai](/equipo/armas/sai/) | 6 pp | 1d4 Per | L | 1 | Cuchillos | Ágil, desarme, monje, sutil, versátil Con |
+| [Sajacaballos](/equipo/armas/sajacaballos/) | 9 pp | 1d8 Cor | 2 | 2 | De asta | Alcance, derribo, goblin, versátil Per |
+| [Tenedor de afanar](/equipo/armas/tenedor-afanar/) | 1 po | 1d4 Per | L | 1 | Lanzas | Ágil, arrojadiza 20 pies (6 m), letal d6, mediano, sutil, puñalada trapera |
+| [Wakizashi](/equipo/armas/wakizashi/) | 1 po | 1d4 Cor | L | 1 | Espadas | Ágil, letal d8, sutil, versátil Per |
 
 ---
 
@@ -215,10 +215,10 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 
 | Arma avanzada | Precio | Daño | Imp. | Manos | Grupo | Rasgos de arma |
 |---------------|--------|------|------|-------|-------|----------------|
-| Hacha de guerra enana | 3 po | 1d8 Cor | 2 | 1 | Hachas | A dos manos d12, barrido, enano |
-| Maza de giro gnoma | 3 po | 1d6 Con | 1 | 1 | Manguales | Alcance, gnomo |
-| Partecuellos orco | 3 po | 1d8 Cor | 1 | 1 | Hachas | Barrido, orco, vigorosa |
-| Sable aserrado | 5 po | 1d6 Cor | L | 1 | Espadas | Ágil, gemela, sutil |
+| [Hacha de guerra enana](/equipo/armas/hacha-guerra-enana/) | 3 po | 1d8 Cor | 2 | 1 | Hachas | A dos manos d12, barrido, enano |
+| [Maza de giro gnoma](/equipo/armas/maza-giro-gnoma/) | 3 po | 1d6 Con | 1 | 1 | Manguales | Alcance, gnomo |
+| [Partecuellos orco](/equipo/armas/partecuellos-orco/) | 3 po | 1d8 Cor | 1 | 1 | Hachas | Barrido, orco, vigorosa |
+| [Sable aserrado](/equipo/armas/sable-aserrado/) | 5 po | 1d6 Cor | L | 1 | Espadas | Ágil, gemela, sutil |
 
 ---
 
@@ -226,18 +226,18 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 
 | Arma sencilla | Precio | Daño | R. dist. | Recarga | Imp. | Manos | Grupo | Rasgos de arma |
 |---------------|--------|------|----------|---------|------|-------|-------|----------------|
-| Ballesta | 3 po | 1d8 Per | 120 pies (36 m) | 1 | 1 | 2 | Ballestas | — |
+| [Ballesta](/equipo/armas/ballesta/) | 3 po | 1d8 Per | 120 pies (36 m) | 1 | 1 | 2 | Ballestas | — |
 | — 10 virotes | 1 pp | — | — | — | L | — | — | — |
-| Ballesta de mano | 3 po | 1d6 Per | 60 pies (18 m) | 1 | L | 1 | Ballestas | — |
+| [Ballesta de mano](/equipo/armas/ballesta-mano/) | 3 po | 1d6 Per | 60 pies (18 m) | 1 | L | 1 | Ballestas | — |
 | — 10 virotes | 1 pp | — | — | — | L | — | — | — |
-| Ballesta pesada | 4 po | 1d10 Per | 120 pies (36 m) | 2 | 2 | 2 | Ballestas | — |
+| [Ballesta pesada](/equipo/armas/ballesta-pesada/) | 4 po | 1d10 Per | 120 pies (36 m) | 2 | 2 | 2 | Ballestas | — |
 | — 10 virotes | 1 pp | — | — | — | L | — | — | — |
-| Cerbatana | 1 pp | 1 Per | 20 pies (6 m) | 1 | L | 1 | Dardos | Ágil, no letal |
+| [Cerbatana](/equipo/armas/cerbatana/) | 1 pp | 1 Per | 20 pies (6 m) | 1 | L | 1 | Dardos | Ágil, no letal |
 | — 10 dardos de cerbatana | 5 pc | — | — | — | L | — | — | — |
-| Dardo | 1 pc | 1d4 Per | 20 pies (6 m) | — | L | 1 | Dardos | Ágil, arrojadizo |
-| Honda | 0 | 1d6 Con | 50 pies (15 m) | 1 | L | 1 | Hondas | Propulsión |
+| [Dardo](/equipo/armas/dardo/) | 1 pc | 1d4 Per | 20 pies (6 m) | — | L | 1 | Dardos | Ágil, arrojadizo |
+| [Honda](/equipo/armas/honda/) | 0 | 1d6 Con | 50 pies (15 m) | 1 | L | 1 | Hondas | Propulsión |
 | — 10 balas de honda | 1 pc | — | — | — | L | — | — | — |
-| Jabalina | 1 pp | 1d6 Per | 30 pies (9 m) | — | L | 1 | Dardos | Arrojadizo |
+| [Jabalina](/equipo/armas/jabalina/) | 1 pp | 1d6 Per | 30 pies (9 m) | — | L | 1 | Dardos | Arrojadizo |
 
 ---
 
@@ -245,26 +245,26 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 
 | Arma marcial | Precio | Daño | R. dist. | Recarga | Imp. | Manos | Grupo | Rasgos de arma |
 |--------------|--------|------|----------|---------|------|-------|-------|----------------|
-| Arbalesta | 8 po | 1d10 Per | 110 pies (33 m) | 1 | 2 | 2 | Ballestas | Puñalada trapera |
+| [Arbalesta](/equipo/armas/arbalesta/) | 8 po | 1d10 Per | 110 pies (33 m) | 1 | 2 | 2 | Ballestas | Puñalada trapera |
 | — 10 virotes | 1 pp | — | — | — | L | — | — | — |
-| Arco corto | 3 po | 1d6 Per | 60 pies (18 m) | 0 | 1 | 1+ | Arcos | Letal d10 |
+| [Arco corto](/equipo/armas/arco-corto/) | 3 po | 1d6 Per | 60 pies (18 m) | 0 | 1 | 1+ | Arcos | Letal d10 |
 | — 10 flechas | 1 pp | — | — | — | L | — | — | — |
-| Arco corto compuesto | 14 po | 1d6 Per | 60 pies (18 m) | 0 | 1 | 1+ | Arcos | Letal d10, propulsión |
+| [Arco corto compuesto](/equipo/armas/arco-corto-compuesto/) | 14 po | 1d6 Per | 60 pies (18 m) | 0 | 1 | 1+ | Arcos | Letal d10, propulsión |
 | — 10 flechas | 1 pp | — | — | — | L | — | — | — |
-| Arco largo | 6 po | 1d8 Per | 100 pies (30 m) | 0 | 2 | 1+ | Arcos | Letal d10, volea 30 pies (9 m) |
+| [Arco largo](/equipo/armas/arco-largo/) | 6 po | 1d8 Per | 100 pies (30 m) | 0 | 2 | 1+ | Arcos | Letal d10, volea 30 pies (9 m) |
 | — 10 flechas | 1 pp | — | — | — | L | — | — | — |
-| Arco largo compuesto | 20 po | 1d8 Per | 100 pies (30 m) | 0 | 2 | 1+ | Arcos | Letal d10, propulsión, volea 30 pies (9 m) |
+| [Arco largo compuesto](/equipo/armas/arco-largo-compuesto/) | 20 po | 1d8 Per | 100 pies (30 m) | 0 | 2 | 1+ | Arcos | Letal d10, propulsión, volea 30 pies (9 m) |
 | — 10 flechas | 1 pp | — | — | — | L | — | — | — |
-| Boleadoras | 1 pp | 1d6 Con | 20 pies (6 m) | — | L | 1 | Hondas | A distancia, arrojadizo, derribo, no letal |
+| [Boleadoras](/equipo/armas/boleadoras/) | 1 pp | 1d6 Con | 20 pies (6 m) | — | L | 1 | Hondas | A distancia, arrojadizo, derribo, no letal |
 | Bomba alquímica* | Variable | Variable | 20 pies (6 m) | — | L | 1 | Bombas | Variable |
 
 ### Armas marciales a distancia poco comunes
 
 | Arma | Precio | Daño | R. dist. | Recarga | Imp. | Manos | Grupo | Rasgos de arma |
 |------|--------|------|----------|---------|------|-------|-------|----------------|
-| Bastón honda mediano | 5 po | 1d10 Con | 80 pies (24 m) | 1 | 1 | 2 | Hondas | Mediano, propulsión |
+| [Bastón honda mediano](/equipo/armas/baston-honda-mediano/) | 5 po | 1d10 Con | 80 pies (24 m) | 1 | 1 | 2 | Hondas | Mediano, propulsión |
 | — 10 balas de honda | 1 pc | — | — | — | L | — | — | — |
-| Shuriken | 1 pc | 1d4 Per | 20 pies (6 m) | 0 | — | 1 | Dardos | Ágil, arrojadiza, monje |
+| [Shuriken](/equipo/armas/shuriken/) | 1 pc | 1d4 Per | 20 pies (6 m) | 0 | — | 1 | Dardos | Ágil, arrojadiza, monje |
 
 *Las estadísticas de las bombas alquímicas están en la sección de sustancias alquímicas.
 
@@ -356,181 +356,3 @@ Ciertos efectos te pueden conceder beneficios cuando llevas a cabo un Golpe con 
 | **Picos** | El arma atraviesa cruelmente el objetivo, que sufre 2 daño adicional por dado de daño de arma. |
 
 ---
-
-## Descripciones de las armas
-
-Cada una de las armas indicadas en las tablas de armas se describe a continuación.
-
-**Alabarda:** Esta arma de asta es relativamente corta, unos 5 pies (1,5 m). La parte afilada es una larga púa a la que se ha fijado una hoja de hacha.
-
-**Alfanje:** Esta arma de hoja curva es una versión más pesada y a dos manos de la cimitarra. Tiene más peso hacia el final de la cuchilla, lo que la convierte en una potente arma cortante.
-
-**Arbalesta:** Esta ballesta grande y de buena manufactura requiere algún entrenamiento para usarla de forma efectiva, pero está ensamblada con un mecanismo de disparo de vanguardia, que maximiza su velocidad, su potencia y su precisión.
-
-**Arco corto:** Este pequeño arco está hecho de una sola pieza de madera y es el favorito de los hostigadores y de la caballería.
-
-**Arco corto compuesto:** Este arco corto está hecho de cuerno, madera y tendones, todo ello laminado junto para incrementar el poder de su tensión y la fuerza de su proyectil. Su tamaño compacto y su potencia hacen que sea el favorito de los arqueros montados.
-
-**Arco largo:** Este arco de 5 pies (1,5 m) de altura, hecho por lo general a partir de una sola pieza de madera de un nogal o tejo, tiene una fuerte tensión y es excelente para impulsar flechas con gran fuerza y a una distancia extrema. Tienes que usar las dos manos para dispararlo y no se puede utilizar montado.
-
-**Arco largo compuesto:** Esta arma de proyectiles está hecha de cuerno, madera y tendones, todo ello laminado junto para incrementar el poder de su tensión y la fuerza de su proyectil. Como todos los arcos largos, su gran tamaño también incrementa su distancia efectiva y su potencia. Tienes que usar las dos manos para dispararlo y no se puede utilizar montado.
-
-**Bala de honda:** Pequeñas bolas de metal, típicamente hierro o plomo, diseñadas para utilizarse como munición en las hondas.
-
-**Ballesta:** Esta arma a distancia es un arco montado sobre una base recta llamada timón (o culata). El timón tiene un mecanismo para fijar la cuerda en su lugar y está conectado con un gatillo que libera la tensión y dispara el virote.
-
-**Ballesta de mano:** A veces denominada arco de callejón por los pícaros y los rufianes, esta pequeña ballesta dispara virotes igualmente pequeños, que a veces se utilizan para envenenar al objetivo. Es lo suficientemente pequeña como para dispararse a una mano, pero sigues requiriendo ambas manos para cargarla.
-
-**Ballesta pesada:** Esta gran ballesta es difícil de cargar y pesa más que una ballesta normal, pero tiene más pegada.
-
-**Bastón:** Este largo trozo de madera puede ayudar a caminar y además propinar poderosos golpes.
-
-**Bastón bo:** Este bastón fuerte pero delgado es más fino en los extremos y bien equilibrado. Está diseñado como arma ofensiva y defensiva.
-
-**Bastón estoque:** Esta espada fina parecida a una ropera está oculta en una caña de madera o de metal que le sirve de vaina, convirtiéndola en un arma disimulada que no despierta sospechas en una inspección simple y es fácil de introducir en un evento de la alta sociedad.
-
-**Bastón honda mediano:** Este bastón acaba en una bifurcación en forma de "Y" que aloja una honda. La longitud del bastón proporciona un excelente brazo de palanca cuando se usa a dos manos para lanzar piedras o proyectiles con la honda.
-
-**Bisarma:** Esta arma de asta lleva una hoja larga y curva, a menudo de un solo filo, con un gancho que sobresale del lado romo la misma, lo que puede permitir a su portador derribar oponentes a distancia. El asta suele medir unos 8 pies (2,4 m) de largo.
-
-**Boleadoras:** Esta arma arrojadiza consiste en dos pesos atados al extremo de unas largas cuerdas, que se pueden usar para golpear a los enemigos o para enredar sus piernas.
-
-**Bomba alquímica:** Estas bombas exhiben una gran variedad y niveles de potencia pero, sea cual sea la variedad, arrojas la bomba contra el objetivo y explota, desencadenando su explosión alquímica.
-
-**Cachiporra:** Una cachiporra tiene una cobertura blanda alrededor de un núcleo denso, típicamente una funda de cuero alrededor de una vara de plomo. Tiene la cabeza más ancha que la empuñadura para dispersar la fuerza del golpe, puesto que el propósito del arma es noquear a su víctima en lugar de derramar sangre.
-
-**Cadena armada:** Esta cadena de 4 pies (1,2 m) de longitud está cubierta de espinas y dispone de púas afiladas en uno o en ambos extremos.
-
-**Cerbatana:** Este tubo largo y estrecho se utiliza para disparar dardos, usando sólo el poder del aliento exhalado con fuerza.
-
-**Cimitarra:** Esta espada curva a una mano sólo está afilada por un lado.
-
-**Clava:** Esto es un trozo de madera recia, al que se da forma o se readapta para atizar con él a un enemigo. Las clavas pueden ser piezas intrincadamente talladas de arte marcial o algo tan simple como una rama de árbol o un trozo de madera.
-
-**Cuchillo de estrella:** A partir de un aro metálico central, se extienden cuatro cuchillas también metálicas y puntiagudas, como las puntas de una rosa de los vientos. Cuando se empuña un cuchillo de estrella por el centro, quien lo hace lo puede utilizar como arma cuerpo a cuerpo. También se puede lanzar a distancias cortas.
-
-**Daga:** Esta pequeña arma blanca se empuña a una mano y se utiliza para apuñalar a una criatura en combate cerrado. También se puede usar como arma arrojadiza.
-
-**Daga de clan:** Esta ancha daga es la que lucen los enanos como arma, herramienta y designación de clan. Perder o tener que rendir una daga de clan se considera altamente embarazoso por parte de la mayoría de los enanos.
-
-**Daga de guardamano:** Esta daga de parada dispone de una robusta guarda para proteger la mano de quien la empuña.
-
-**Daga orca de nudillos:** Esta recia hoja de diseño orco tiene un puño horizontal en forma de cesta del que sobresalen cuchillas a cada extremo o, a veces, una cuchilla como la de un katar.
-
-**Dardo de cerbatana:** Estos dardos finos y ligeros están hechos típicamente de madera dura y estabilizados con un emplumado de plumón o de pelaje. A menudo están huecos para poder utilizarlos con veneno.
-
-**Dardo:** Esta arma arrojadiza es más grande que una flecha pero más corta que una jabalina. Suele tener un mástil corto de madera que acaba en una punta metálica y a veces va estabilizado con plumas o pelaje.
-
-**Espada bastarda:** Esta espada de hoja ancha, a veces llamada espada de mano y media, tiene una empuñadura más larga, por lo que se puede utilizar a una mano o a dos manos para un poder cortante mayor.
-
-**Espada corta:** Estas hojas suelen tener una gran variedad de formas y de estilos, pero miden típicamente 2 pies (60 cm) de longitud.
-
-**Espada curva elfa:** Esencialmente una versión más larga de la cimitarra, esta arma tradicional elfa tiene una hoja más delgada que la de la cimitarra.
-
-**Espada de templo:** Esta hoja pesada es la favorita de los guardianes de los lugares religiosos. Tiene una cuchilla distintiva en forma de media luna, que parece una mezcla entre una hoz y una espada.
-
-**Espada larga:** Las espadas largas, también conocidas como espadas de armas, pueden ser de filo simple y de doble filo. Tienen la hoja pesada y miden entre 3 y 4 pies (90 cm y 1,2 m) de longitud.
-
-**Espada ropera:** La ropera es una cuchilla larga y fina, con una empuñadura de cesta (llamada recazo). Muchos la prefieren como arma para duelos.
-
-**Flecha:** Estos proyectiles son la munición de los arcos. El astil de una flecha suele ser de madera. La estabilización en vuelo se la proporciona un emplumado en un extremo y lleva una punta metálica en el otro.
-
-**Golpe con el escudo:** Un golpe con el escudo no es en realidad un arma, sino una maniobra en la que empujas o haces girar el escudo para atizar a tu enemigo con un ataque improvisado.
-
-**Gran clava:** Si bien muchas grandes clavas están intrincadamente talladas, otras son poco más que una recia rama de árbol. Estas enormes clavas son demasiado pesadas como para empuñarlas a una mano.
-
-**Gran hacha:** Esta gran hacha de batalla es demasiado pesada para empuñarla a una mano. Muchas de ellas incorporan dos hojas y a menudo son "barbadas", disponiendo de un gancho en la base para aumentar la fuerza de su poder cortante.
-
-**Gran pico:** Este pico tiene un mango más largo y una cabeza más ancha que un pico normal. Es demasiado pesado para empuñarlo a una mano.
-
-**Guadaña:** Derivada de una herramienta agrícola utilizada para segar granos largos y cereales, esta arma tiene un largo mango de madera con asideros sobresalientes, rematado por una cuchilla curva fijada en ángulo recto.
-
-**Guantelete:** Un par de estos guantes de metal viene junto a una armadura completa, una de placas y mallas o una laminada; también se pueden comprar por separado y llevarse con otros tipos de armadura. No tan sólo protegen tus manos, sino que también las transforman en armas letales.
-
-**Guantelete armado:** Proporcionando la misma función defensiva que un guantelete normal, esta versión tiene un grupo de púas que sobresalen de los nudillos.
-
-**Guja:** Esta arma de asta es una larga cuchilla de un solo filo al final de un asta de 7 pies (2,1 m). Es extremadamente efectiva para propinar cortes letales a distancia.
-
-**Hacha de batalla:** Estas hachas han sido diseñadas explícitamente como armas, y no como herramientas. Pesan típicamente menos, tienen el mango reforzado con bandas metálicas o con remaches y su hoja es más afilada, lo que las convierte en ideales para cortar extremidades en lugar de madera.
-
-**Hacha de guerra enana:** Esta arma predilecta de los enanos tiene una cabeza larga y adornada, montada sobre un grueso mango. Esta potente hacha se puede empuñar a una o a dos manos.
-
-**Hacha de mano:** Esta pequeña hacha se puede utilizar en combate cerrado o arrojarla.
-
-**Honda:** Poco más que un trozo de cuero atado a un par de cuerdas, una honda se puede utilizar para lanzar a distancia piedras lisas o balas de honda.
-
-**Hoz:** Originalmente una herramienta agrícola utilizada para segar el grano, esta arma a una mano tiene un mango corto de madera que acaba en una cuchilla curva, a veces afilada por ambos lados.
-
-**Jabalina:** Esta fina lanza está bien equilibrada para arrojarla, pero no está diseñada para uso cuerpo a cuerpo.
-
-**Kama:** Similar a una hoz y utilizado en algunas regiones para cosechar el grano, un kama tiene una hoja corta y ligeramente curva y un mango de madera.
-
-**Katana:** Una katana es una espada curva y de un solo filo, conocida por lo tremendamente afilado de su hoja.
-
-**Katar:** También conocidos como puñales, los katar se caracterizan por su empuñadura en forma de "H" que permite a la cuchilla sobresalir de los nudillos.
-
-**Khakkara:** Este bastón está rematado por un círculo de metal puntiagudo del que cuelgan varios anillos más pequeños que tintinean y hacen otros sonidos metálicos cuando se mueve, lo que te permite anunciar tu presencia y asustar a los animales salvajes mientras caminas.
-
-**Kukri:** La hoja de este cuchillo de un pie (30 cm) de longitud se curva hacia dentro y carece de guarda en la empuñadura.
-
-**Lanza:** Un largo mango de metal que acaba en una púa metálica, una lanza se puede usar a una mano como arma cuerpo a cuerpo, pero también puede ser arrojada.
-
-**Lanza de caballería:** Esta arma parecida a una lanza (pero más larga), la utilizan las criaturas montadas para infligir una gran cantidad de daño.
-
-**Lanza larga:** Esta lanza de grandes dimensiones, a veces llamada pica, está diseñada solamente para perforar y no para lanzar. Utilizada por muchos soldados y por la guardia de las ciudades para control de multitudes y defensa contra enemigos a la carga, hay que empuñarla a dos manos.
-
-**Látigo:** Este largo trozo de grueso cuero, a menudo trenzado, propina un golpe cortante, doloroso pero no letal, a distancia acompañado por lo general de un chasquido distintivo.
-
-**Mandoble:** Esta inmensa espada a dos manos (a veces llamada montante) es casi tan alta como quien la empuña. La parte de la hoja más cercana a la empuñadura a menudo se afila poco para permitir aferrarla más en combate cerrado.
-
-**Mangual:** Esta arma consiste en un mango de madera fijado a una bola con púas o un cilindro, mediante una cadena, cuerda o tira de cuero.
-
-**Mangual de guerra:** Este mangual de grandes dimensiones tiene un mango largo, conectado a una pieza más corta de recia madera o de metal, a veces tachonada de púas.
-
-**Martillo de guerra:** Esta arma tiene un mango de madera que acaba en una cabeza grande y pesada de metal. La cabeza del martillo puede ser sencilla o doble, pero siempre es capaz de propinar fuertes golpes.
-
-**Martillo ganchudo gnomo:** Esta herramienta y arma de los gnomos tiene un martillo en un extremo y un pico curvo en el otro. Es un arma tan extraña e incómoda que los demás piensan que los gnomos son ligeramente erráticos por utilizarla.
-
-**Martillo ligero:** Esta versión más pequeña del martillo de guerra tiene un mango de metal o de madera que acaba en una cabeza metálica. A diferencia de su primo más pesado, es lo suficientemente ligero como para ser arrojado.
-
-**Maza:** Con un recio mango y una pesada cabeza de metal, una maza es recia y permite a quien la empuña asestar poderosos golpes y abollar armaduras.
-
-**Maza de armas:** Esta arma tiene un mango corto que acaba en una bola de metal tachonada de púas.
-
-**Maza de giro gnoma:** Más un mangual que una maza, esta arma tiene un mango corto fijado a un trozo de cadena con una bola en el extremo. La bola es impulsada hasta su alcance por un giro de la muñeca, el impulso del cual devuelve la bola a quien la empuña después del golpe.
-
-**Maza ligera:** Una maza ligera tiene un mango corto de madera o de metal que acaba en una densa cabeza metálica. Utilizada en gran medida como una clava, propina golpes muy contundentes, pero con potencia adicional derivada de las rugosidades o púas de metal de que está provista la cabeza.
-
-**Mazo:** Los mazos (también conocidos como atarragas) son enormes martillos de guerra que se tienen que empuñar a dos manos.
-
-**Nunchaku:** Un nunchaku está construido a partir de dos barras de madera o de metal, conectadas por un trozo corto de cuerda o de cadena.
-
-**Partecuellos orco:** Esta hacha barbada de una sola hoja tiene una cuchilla aserrada, perfecta para separar el hueso de los tendones y los cartílagos.
-
-**Pico:** Un pico diseñado únicamente para el combate tiene un recio mango de madera y una cabeza pesada y puntiaguda con la que asestar golpes devastadores.
-
-**Pico ligero:** Un pico ligero es una herramienta minera modificada, con un mango de madera que acaba en una cabeza de pico, diseñada más para atravesar armaduras y carne que para partir rocas.
-
-**Púas de escudo:** Estas púas de metal están estratégicamente colocadas en el lado defensivo del escudo para infligir daño perforante mediante un golpe con el mismo.
-
-**Rajaperros:** Esta espada corta, curva y de tosca manufactura, suele tener agujeros en la hoja para reducir su peso. Es el arma predilecta de los goblins.
-
-**Ronca:** Esta arma de asta es un tridente largo con una púa central más larga que las otras dos.
-
-**Sable aserrado:** El arma de signatura de los asesinos Mantis Roja, esta hoja curva tiene dientes de sierra y de ahí el nombre.
-
-**Sai:** Esta daga perforante es una púa de metal, flanqueada por un par de puntas que se pueden utilizar para enganchar la hoja de un enemigo.
-
-**Sajacaballos:** Creada por los goblins para luchar contra los caballos, esta arma es esencialmente una larga asta que acaba en una cuchilla provista de un gancho grande.
-
-**Shuriken:** Esta "estrella arrojadiza" es una pequeña pieza de metal plano y bordes afilados, diseñada para lanzarse con un giro de muñeca.
-
-**Tenedor de afanar:** Esta arma de los medianos parece un tenedor largo y con dos puntas y se utiliza (indistintamente) como arma o como instrumento de cocina.
-
-**Tridente:** Esta arma de tres puntas, parecida a una lanza, suele tener un mango de 4 pies (1,2 m) de longitud. Igual que una lanza, se puede empuñar a una mano o lanzarse.
-
-**Umbo de escudo:** Típicamente una pieza redonda, convexa o cónica de grueso metal fijada en el centro del escudo, un umbo incrementa el daño contundente de un golpe con el escudo.
-
-**Virote:** Más cortos que las flechas tradicionales pero de construcción similar, los virotes (a veces llamados incorrectamente cuadrillos; los cuadrillos son más grandes y son la munición de las balistas) son la munición que utilizan las ballestas.
-
-**Wakizashi:** Esta espada de hoja corta y un solo filo suele formar parte de una pareja junto a una katana.

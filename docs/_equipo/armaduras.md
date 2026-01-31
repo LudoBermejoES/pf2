@@ -107,33 +107,33 @@ Determinados rasgos de clase te pueden conceder beneficios adicionales con ciert
 | Sin armadura | Precio | Bon. CA | Tope Des. | Pen. pruebas | Pen. Velocidad | Imp. | Grupo | Rasgos |
 |--------------|--------|---------|-----------|--------------|----------------|------|-------|--------|
 | Sin armadura | — | +0 | — | — | — | — | — | — |
-| Ropa de explorador | 1 pp | +0 | +5 | — | — | L | Ropa | Comoda |
+| [Ropa de explorador](/equipo/armaduras/ropa-explorador/) | 1 pp | +0 | +5 | — | — | L | Ropa | Comoda |
 
 ### Armadura Ligera
 
 | Armadura ligera | Precio | Bon. CA | Tope Des. | Pen. pruebas | Pen. Velocidad | Fuerza | Imp. | Grupo | Rasgos |
 |-----------------|--------|---------|-----------|--------------|----------------|--------|------|-------|--------|
-| Ropa acolchada | 2 pp | +1 | +3 | — | — | +0 | L | — | Comoda |
-| Cuero | 2 po | +1 | +4 | -1 | — | +0 | 1 | Cuero | — |
-| Cuero tachonado | 3 po | +2 | +3 | -1 | — | +1 | 1 | Cuero | — |
-| Camisote de malla | 5 po | +2 | +3 | -1 | — | +1 | 1 | Malla | Flexible, ruidosa |
+| [Ropa acolchada](/equipo/armaduras/ropa-acolchada/) | 2 pp | +1 | +3 | — | — | +0 | L | — | Comoda |
+| [Cuero](/equipo/armaduras/armadura-cuero/) | 2 po | +1 | +4 | -1 | — | +0 | 1 | [Cuero](/equipo/armaduras/armadura-cuero/) | — |
+| [Cuero tachonado](/equipo/armaduras/armadura-cuero-tachonado/) | 3 po | +2 | +3 | -1 | — | +1 | 1 | [Cuero](/equipo/armaduras/armadura-cuero/) | — |
+| [Camisote de malla](/equipo/armaduras/camisote-malla/) | 5 po | +2 | +3 | -1 | — | +1 | 1 | Malla | Flexible, ruidosa |
 
 ### Armadura Intermedia
 
 | Armadura intermedia | Precio | Bon. CA | Tope Des. | Pen. pruebas | Pen. Velocidad | Fuerza | Imp. | Grupo | Rasgos |
 |---------------------|--------|---------|-----------|--------------|----------------|--------|------|-------|--------|
-| Pieles | 2 po | +3 | +2 | -2 | -5 pies (1,5 m) | +2 | 2 | Cuero | — |
-| Cota de escamas | 4 po | +3 | +2 | -2 | -5 pies (1,5 m) | +2 | 2 | Compuesta | — |
-| Cota de malla | 6 po | +4 | +1 | -2 | -5 pies (1,5 m) | +3 | 2 | Malla | Flexible, ruidosa |
-| Coraza | 8 po | +4 | +1 | -2 | -5 pies (1,5 m) | +3 | 2 | Placas | — |
+| [Pieles](/equipo/armaduras/armadura-pieles/) | 2 po | +3 | +2 | -2 | -5 pies (1,5 m) | +2 | 2 | [Cuero](/equipo/armaduras/armadura-cuero/) | — |
+| [Cota de escamas](/equipo/armaduras/cota-escamas/) | 4 po | +3 | +2 | -2 | -5 pies (1,5 m) | +2 | 2 | Compuesta | — |
+| [Cota de malla](/equipo/armaduras/cota-malla/) | 6 po | +4 | +1 | -2 | -5 pies (1,5 m) | +3 | 2 | Malla | Flexible, ruidosa |
+| [Coraza](/equipo/armaduras/coraza/) | 8 po | +4 | +1 | -2 | -5 pies (1,5 m) | +3 | 2 | Placas | — |
 
 ### Armadura Pesada
 
 | Armadura pesada | Precio | Bon. CA | Tope Des. | Pen. pruebas | Pen. Velocidad | Fuerza | Imp. | Grupo | Rasgos |
 |-----------------|--------|---------|-----------|--------------|----------------|--------|------|-------|--------|
-| Laminada (nivel 1) | 13 po | +5 | +1 | -3 | -10 pies (3 m) | +3 | 3 | Compuesta | — |
-| Placas y mallas (nivel 1) | 18 po | +5 | +1 | -3 | -10 pies (3 m) | +3 | 3 | Placas | — |
-| Completa (nivel 2) | 30 po | +6 | +0 | -3 | -10 pies (3 m) | +4 | 4 | Completa | Baluarte |
+| [Laminada (nivel 1)](/equipo/armaduras/armadura-laminada/) | 13 po | +5 | +1 | -3 | -10 pies (3 m) | +3 | 3 | Compuesta | — |
+| [Placas y mallas (nivel 1)](/equipo/armaduras/armadura-placas-mallas/) | 18 po | +5 | +1 | -3 | -10 pies (3 m) | +3 | 3 | Placas | — |
+| [Completa (nivel 2)](/equipo/armaduras/armadura-completa/) | 30 po | +6 | +0 | -3 | -10 pies (3 m) | +4 | 4 | Completa | Baluarte |
 
 ---
 
@@ -144,60 +144,8 @@ Las estadísticas de tu armadura se basan en el material que predomina en su con
 | Material | Dureza | PG | UR | Armaduras |
 |----------|--------|----|----|-----------|
 | Ropa | 1 | 4 | 2 | Ropa de explorador, armadura acolchada |
-| Cuero | 4 | 16 | 8 | Pieles, cuero, cuero tachonado |
+| [Cuero](/equipo/armaduras/armadura-cuero/) | 4 | 16 | 8 | Pieles, cuero, cuero tachonado |
 | Metal | 9 | 36 | 18 | Armadura de placas y mallas, armadura laminada, camisote de malla, armadura completa, coraza, cota de escamas, cota de malla |
-
----
-
-## Descripciones de las Armaduras
-
-### Armadura Completa
-
-Una armadura completa consiste en placas metálicas entrelazadas, que cubren casi todo el cuerpo en un caparazón de acero. Es cara y pesada y el portador a menudo requiere ayuda para ponersela correctamente, pero proporciona la mejor defensa que una armadura puede conceder. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
-
-### Armadura de Cuero
-
-Una mezcla de cuero hervido flexible y moldeado, una armadura de este tipo proporciona algo de protección con una flexibilidad maxima.
-
-### Armadura de Cuero Tachonado
-
-Esta armadura de cuero esta reforzada con remaches de metal y a veces pequenas placas metálicas, proporcionando gran parte de la flexibilidad de una armadura de cuero, pero con una protección mas robusta.
-
-### Armadura de Pieles
-
-Una mezcla de pelaje de animal, piel gruesa y a veces cuero hervido moldeado, esta armadura proporciona protección debido a sus capas de cuero, aunque su volumen lentifica al portador y reduce su movilidad.
-
-### Armadura de Placas y Mallas
-
-La armadura de placas y mallas consiste en la mayoría de las placas metálicas utilizadas en una armadura completa, con una protección mas ligera o menor para brazos y piernas. Esto proporciona parte de la protección de la armadura completa, permitiendo mayor flexibilidad y velocidad. Una armadura de este tipo lleva por debajo una armadura acolchada e incluye unos guanteletes.
-
-### Armadura Laminada
-
-Este tipo de armadura es una cota de malla reforzada con placas de metal flexibles y entrelazadas, situadas tipicamente en el torso, los brazos y las piernas del portador. Una armadura de este tipo lleva por debajo una armadura acolchada y unos guanteletes.
-
-### Camisote de Malla
-
-A veces denominado joruca, se trata de una camisa larga construida con los mismos anillos de metal que una cota de malla. Sin embargo, es mucho mas ligero que la cota de malla y solo protege el torso, los brazos y los muslos de su portador.
-
-### Coraza
-
-A pesar de su nombre, este tipo de armadura consiste en diversas piezas de armadura completa o armadura de placas y mallas que protegen el torso, el pecho, el cuello y a veces las caderas y las piernas. Estrategicamente concede parte de la protección de la armadura completa permitiendo mayor flexibilidad y velocidad.
-
-### Cota de Escamas
-
-Una cota de escamas consiste en muchas escamas metálicas cosidas a una base de cuero reforzado, a menudo en forma de una camisa larga (o jubon) que protege el torso, los brazos y las piernas.
-
-### Cota de Malla
-
-Una cota de malla consiste en varias piezas de armadura compuestas de pequenos anillos metálicos entrelazados formando una malla protectora. Suele incluir un camisote de malla, grebas, brazales y una escarcela, protegiendo colectivamente la mayor parte del cuerpo.
-
-### Ropa Acolchada
-
-Esta armadura (comúnmente denominada gambesón) es simplemente una capa de tela gruesa y guateada, pero a veces se usa porque es muy barata. La ropa acolchada es más fácil de dañar y destruir que otros tipos de armadura. Las armaduras pesadas vienen con una capa interior de ropa acolchada incluida en el Precio, aunque esta ultima pierde el rasgo comoda cuando se lleva bajo una armadura pesada. Para dormir, si tu armadura pesada resulta destruida o cuando por lo demás no llevas la armadura pesada completa, puedes llevar tan solo tu ropa acolchada. Eso te permite mantener investida la armadura magica y beneficiarte del poder de cualesquiera runas de la armadura pesada asociada, pero nadie mas puede llevar tu armadura pesada sin la capa interior acolchada.
-
-### Ropa de Explorador
-
-Los aventureros que no llevan armadura viajan equipados con ropa duradera. Aunque no se trata de armadura y utiliza tu competencia en defensa sin armadura, sigue teniendo un tope por Des y puede conceder un bonificador por objeto a la CA si se le graban runas de potencia.
 
 ---
 
