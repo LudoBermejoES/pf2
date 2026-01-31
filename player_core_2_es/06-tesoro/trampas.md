@@ -1,409 +1,409 @@
-# Snares
+# Trampas
 
-Snares are simple traps that can be created quickly with the Snare Crafting feat (page 234) to injure or bedevil intruders. Unlike other items, found snares can't be collected or sold in their complete form. Snares have the snare trait.
-
----
-
-## Crafting Snares
-
-A snare is built within a single 5-foot square. Only one snare can occupy a single 5-foot square at a time. Once constructed, it can't be moved without destroying (and often triggering) the snare. Snares usually last until they're triggered, though at the GM's discretion, certain snares might become inert after extended periods of time (such as months or years). Snares made for quick deployment, such as those from the Snarecrafter archetype, are less durable and become inert after 24 hours.
-
-You must have the Snare Crafting feat as well as be wielding or wearing a snare toolkit (which is a type of artisan's toolkit, as found on page 287 of Player Core) to create snares. You can spend 1 minute to Craft a snare by expending an amount of money equal to the snare's listed Price. This expenditure represents the use of raw materials that are included in your snare toolkit. If you want to Craft a snare at a discount, you must spend downtime as described in the Craft activity. Some snares have additional requirements beyond those stated in the Craft activity; these snares list their requirements in a Craft Requirements entry. Despite having the consumable trait, you make only one snare when you spend the minute to Craft a snare.
-
-## Detecting Snares
-
-Creatures can detect snares they aren't already aware of as they would any trap or hazard (as described on page 98 of GM Core), using the creator's Crafting DC as the snare's Stealth DC. If your proficiency rank is expert or better in Crafting, only creatures actively searching can find your snares.
-
-## Triggering Snares
-
-Unless stated otherwise in a snare's description, when a Small or larger creature enters a snare's square, the snare's effect occurs, and then the snare is destroyed.
-
-## Disabling Snares
-
-Once a creature discovers a snare, it can disable it much like it can other physical traps, using the Disable a Device action of the Thievery skill and using the Crafting DC of the snare's creator as the DC. You can automatically disarm a snare that you personally Crafted without triggering it by taking an Interact action while adjacent to the snare.
-
-Snares can't be targeted by Strikes or other attacks unless otherwise noted. At the GM's discretion, a snare might be triggered or destroyed by a particularly large effect, such as a boulder rolling through the snare's square, or an area effect that specifically mentions unattended objects, such as hydraulic torrent.
+Las trampas son dispositivos sencillos que pueden crearse rápidamente con la dote Fabricación de trampas (página 234) para herir o molestar a intrusos. A diferencia de otros objetos, las trampas encontradas no pueden recogerse ni venderse en su forma completa. Las trampas tienen el rasgo trampa.
 
 ---
 
-## Snare Descriptions
+## Fabricación de trampas
 
-### Alarm Snare · Snare 1
+Una trampa se construye dentro de un único cuadro de 5 pies. Solo una trampa puede ocupar un cuadro de 5 pies a la vez. Una vez construida, no puede moverse sin destruir (y a menudo activar) la trampa. Las trampas suelen durar hasta que se activan, aunque a discreción del DJ, ciertas trampas pueden quedar inertes tras periodos prolongados (como meses o años). Las trampas hechas para despliegue rápido, como las del arquetipo Fabricante de trampas, son menos duraderas y quedan inertes después de 24 horas.
 
-**Traits:** Auditory, Consumable, Mechanical, Snare, Trap
+Debes tener la dote Fabricación de trampas y además empuñar o llevar un kit de trampas (que es un tipo de kit de artesano, como se encuentra en la página 287 de Player Core) para crear trampas. Puedes gastar 1 minuto para Fabricar una trampa gastando una cantidad de dinero igual al Precio indicado de la trampa. Este gasto representa el uso de materias primas incluidas en tu kit de trampas. Si quieres Fabricar una trampa con descuento, debes gastar tiempo de inactividad como se describe en la actividad Fabricar. Algunas trampas tienen requisitos adicionales más allá de los indicados en la actividad Fabricar; estas trampas enumeran sus requisitos en una entrada de Requisitos de fabricación. A pesar de tener el rasgo consumible, haces solo una trampa cuando gastas el minuto para Fabricarla.
 
-**Price** 3 gp
+## Detectar trampas
 
-You create an alarm snare by rigging one or more noisy objects to a trip wire or pressure plate. When you create an alarm snare, you designate a range between 100 to 500 feet at which it can be heard. When a Small or larger creature enters the square, the snare makes a noise loud enough that it can be heard by all creatures in the range you designated.
+Las criaturas pueden detectar trampas de las que no son conscientes como harían con cualquier trampa o peligro (como se describe en la página 98 de GM Core), usando la CD de Artesanía del creador como la CD de Sigilo de la trampa. Si tu rango de competencia en Artesanía es experto o superior, solo las criaturas que estén buscando activamente pueden encontrar tus trampas.
 
----
+## Desencadenar trampas
 
-### Biting Snare · Snare 4
+Salvo que se indique lo contrario en la descripción de una trampa, cuando una criatura Pequeña o mayor entra en el cuadro de la trampa, se produce el efecto de la trampa y después la trampa se destruye.
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+## Desactivar trampas
 
-**Price** 15 gp
+Una vez que una criatura descubre una trampa, puede desactivarla como haría con otras trampas físicas, usando la acción Desactivar un dispositivo de la habilidad de Latrocinio y usando la CD de Artesanía del creador de la trampa como la CD. Puedes desarmar automáticamente una trampa que tú mismo Fabricaste sin activarla realizando una acción Interactuar mientras estás adyacente a la trampa.
 
-This snare closes shut on the leg of a creature. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 21 Reflex save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage.
-
-**Failure** The creature takes full damage.
-
-**Critical Failure** The creature takes double damage and takes a –10-foot status penalty to its Speed until it recovers at least 1 Hit Point.
+Las trampas no pueden ser objetivo de Golpes u otros ataques salvo que se indique lo contrario. A discreción del DJ, una trampa podría activarse o destruirse por un efecto particularmente grande, como una roca rodando a través del cuadro de la trampa, o un efecto de área que mencione específicamente objetos desatendidos, como torrente hidráulico.
 
 ---
 
-### Bleeding Spines Snare · Snare 12
+## Descripciones de trampas
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+### Trampa de alarma · Trampa 1
 
-**Price** 320 gp
+**Rasgos:** Auditivo, Consumible, Mecánico, Trampa, Trampa
 
-When a creature enters the square, thorny spines protrude out to stab it, dealing 8d8 piercing damage and 2d8 persistent bleed damage. The creature must attempt a DC 31 basic Reflex saving throw. After the initial trigger, the spines retract and protrude again repeatedly for 1 minute, forcing any creature that enters the space or ends its turn in the space to take damage from the spines (attempting the same basic Reflex save).
+**Precio** 3 mo
 
----
-
-### Bomb Snare · Snare 6
-
-**Traits:** Consumable, Mechanical, Snare, Trap
-
-**Price** 40 gp
-
-You create a snare that causes three 3rd-level moderate alchemical bombs of the same type to explode when a creature triggers the snare. The target and all creatures in adjacent squares must attempt a DC 24 Reflex save, as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, 6d6 electricity damage from three moderate bottled lightnings) with no splash damage or other effects.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage and no other effects.
-
-**Failure** The creature takes full damage. It also takes all other effects of a direct hit from one of the component bombs (such as off-guard from bottled lightning or persistent damage from an acid flask).
-
-**Critical Failure** The creature takes double damage, plus all other effects of a direct hit (as failure).
-
-**Craft Requirements** Supply three of the same damaging 3rd-level moderate alchemical bomb.
+Creas una trampa de alarma al preparar uno o más objetos ruidosos con un cable trampa o una placa de presión. Cuando creas una trampa de alarma, designas un alcance de entre 100 y 500 pies a la que puede oírse. Cuando una criatura Pequeña o mayor entra en el cuadro, la trampa emite un ruido lo suficientemente fuerte como para ser escuchado por todas las criaturas dentro del alcance que designaste.
 
 ---
 
-### Caltrop Snare · Snare 1
+### Trampa mordedora · Trampa 4
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 3 gp
+**Precio** 15 mo
 
-This snare consists of a hidden canister of caltrops (Player Core 287) attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare's square or a square adjacent to the snare. You choose which square when you set up the snare.
+Esta trampa se cierra sobre la pierna de una criatura. La trampa inflige 5d6 de daño perforante a la primera criatura que entra en su cuadro; esa criatura debe intentar una salvación de Reflejos CD 21.
 
-If the caltrops scatter into the same square as a creature, that creature must attempt the Acrobatics check immediately.
+**Éxito crítico** La criatura no se ve afectada.
 
-**Craft Requirements** Supply a container of caltrops.
+**Éxito** La criatura recibe la mitad de daño.
 
----
+**Fallo** La criatura recibe el daño completo.
 
-### Deadweight Snare · Snare 2
-
-**Traits:** Uncommon, Consumable, Kobold, Mechanical, Snare, Trap
-
-**Price** 6 gp
-
-This snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and ropes deploy, weighing down the creature's weapons and limbs. The creature must attempt a DC 18 Reflex save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes a –1 status penalty to attack rolls for 1 round or until it Escapes (DC 18).
-
-**Failure** The creature takes a –2 status penalty to attack rolls for 1 minute or until it Escapes (DC 18).
-
-**Critical Failure** As failure, but the creature drops any metallic items it's holding.
+**Fallo crítico** La criatura recibe el doble de daño y sufre un penalizador de estado de –10 pies a su Velocidad hasta que recupere al menos 1 Punto de Golpe.
 
 ---
 
-### Engulfing Snare · Snare 14
+### Trampa de espinas sangrantes · Trampa 12
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 900 gp
+**Precio** 320 mo
 
-You arrange a spiky cage of bones, particularly tough vegetation, or other material to spring up when disturbed. The snare deals 10d8 piercing damage to the first creature to enter this square; that creature must attempt a DC 34 Reflex save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature is knocked aside by the snare's deployment, takes half damage, and is off-guard until the end of its next turn.
-
-**Failure** The creature is captured by the cage, taking full damage and falling prone. It's immobilized while it remains within the cage. It can get free by Escaping (DC 34) or by destroying the cage (AC 30, Fort +18, Ref +24, Hardness 5, HP 30, object immunities).
-
-**Critical Failure** As failure, but the creature takes double damage.
+Cuando una criatura entra en el cuadro, espinas espinosas sobresalen para apuñalarla, infligiendo 8d8 de daño perforante y 2d8 de daño persistente por sangrado. La criatura debe intentar una tirada de salvación básica de Reflejos CD 31. Tras el desencadenante inicial, las espinas se retraen y vuelven a sobresalir repetidamente durante 1 minuto, obligando a cualquier criatura que entre en el espacio o termine su turno en él a recibir el daño de las espinas (intentando la misma salvación básica de Reflejos).
 
 ---
 
-### Flare Snare · Snare 2
+### Trampa de bomba · Trampa 6
 
-**Traits:** Consumable, Mechanical, Snare, Trap, Visual
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 5 gp
+**Precio** 40 mo
 
-Using bioluminescent matter or alchemical reagents, you rig a short-lived flare to a trip wire or pressure plate. When a Small or larger creature enters the square, this flare shoots into the sky. To creatures with a clear view of the sky, this flare is visible from up to 2 miles away on a clear day or up to 5 miles away on a clear night.
+Creas una trampa que hace que tres bombas alquímicas moderadas de 3er nivel del mismo tipo exploten cuando una criatura activa la trampa. El objetivo y todas las criaturas en cuadros adyacentes deben intentar una salvación de Reflejos CD 24, ya que la trampa inflige un daño igual a tres veces el daño de impacto directo de una de las bombas componentes (por ejemplo, 6d6 de daño de electricidad de tres relámpagos embotellados moderados) sin daño por salpicadura ni otros efectos.
 
----
+**Éxito crítico** La criatura no se ve afectada.
 
-### Flying Blade Wheel Snare · Snare 20
+**Éxito** La criatura recibe la mitad de daño y ningún otro efecto.
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Fallo** La criatura recibe el daño completo. También sufre todos los demás efectos de un impacto directo de una de las bombas componentes (como desprevenido por relámpago embotellado o daño persistente por un vial de ácido).
 
-**Price** 10,000 gp
+**Fallo crítico** La criatura recibe el doble de daño, más todos los demás efectos de un impacto directo (como en fallo).
 
-When a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a Strike with an attack modifier of +35 that deals 8d8 slashing damage on a hit.
-
-Once on each of your turns, you can use an Interact action within 120 feet of the wheel to cause it to Fly up to 60 feet toward the creature it's chasing and make another Strike if it's within 5 feet of its target after it moves. After 1 minute, the spinning ceases, and the wheel falls to the ground. Creatures can destroy the wheel to stop it (AC 37, Fort +29, Ref +20, Hardness 10, HP 200, object immunities).
+**Requisitos de fabricación** Suministra tres bombas alquímicas moderadas de 3er nivel del mismo tipo que inflijan daño.
 
 ---
 
-### Grasping Snare · Snare 8
+### Trampa de abrojos · Trampa 1
 
-**Traits:** Uncommon, Consumable, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 75 gp
+**Precio** 3 mo
 
-You rig vines and ropes to hold a creature in place. The first creature to enter the square must attempt a DC 26 Reflex save with the following effects.
+Esta trampa consiste en un contenedor oculto de abrojos (Player Core 287) unido a un cable trampa. Cuando la trampa se activa, lanza los abrojos al cuadro de la trampa o a un cuadro adyacente. Eliges qué cuadro al preparar la trampa.
 
-**Critical Success** The creature is unaffected.
+Si los abrojos se esparcen en el mismo cuadro que una criatura, esa criatura debe intentar inmediatamente la prueba de Acrobacias.
 
-**Success** The creature takes a –5-foot status penalty to its Speed for 1 minute or until it Escapes (DC 26).
-
-**Failure** The creature is immobilized for 1 round, then takes a –5-foot status penalty to its Speed for 1 minute. Both effects end early if it Escapes (DC 26).
-
-**Critical Failure** The creature is immobilized for 1 minute or until it Escapes (DC 26).
+**Requisitos de fabricación** Suministra un contenedor de abrojos.
 
 ---
 
-### Hail of Arrows Snare · Snare 16
+### Trampa de peso muerto · Trampa 2
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Rasgos:** Poco común, Consumible, Kóbold, Mecánico, Trampa, Trampa
 
-**Price** 1,500 gp
+**Precio** 6 mo
 
-When a creature enters the snare's square, it releases hundreds upon hundreds of carefully prepared arrows, blanketing a 20-foot radius around the snare's square with massive arrow fire that deals 18d6 piercing damage. Creatures in the area must attempt a DC 37 basic Reflex save.
+Esta trampa está hecha de pesos magnetizados y cuerdas pesadas preparadas con un cable trampa o una placa de presión. Cuando una criatura entra en el cuadro, los imanes y las cuerdas se despliegan, haciendo más pesadas las armas y extremidades de la criatura. La criatura debe intentar una salvación de Reflejos CD 18.
 
----
+**Éxito crítico** La criatura no se ve afectada.
 
-### Hampering Snare · Snare 1
+**Éxito** La criatura sufre un penalizador de estado de –1 a las tiradas de ataque durante 1 asalto o hasta que Escape (CD 18).
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Fallo** La criatura sufre un penalizador de estado de –2 a las tiradas de ataque durante 1 minuto o hasta que Escape (CD 18).
 
-**Price** 3 gp
-
-You arrange brambles, wires, sticky goo, or other materials to interfere with a creature's movement. The square with this snare as well as three adjacent squares (to form a 10-foot-by-10-foot area) become difficult terrain when the first creature enters the snare's square. The difficult terrain affects the creature's movement right away, including its movement into the triggering square, and it lasts for 1d4 rounds after the snare is triggered. A creature can use an Interact action to clear the difficult terrain out of a single square early.
+**Fallo crítico** Como en fallo, pero la criatura deja caer cualquier objeto metálico que esté sosteniendo.
 
 ---
 
-### Hobbling Snare · Snare 4
+### Trampa envolvente · Trampa 14
 
-**Traits:** Uncommon, Consumable, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 15 gp
+**Precio** 900 mo
 
-You rig vines, ropes, or wires to cinch tight around a creature that triggers this snare. The first creature to enter the square must attempt a DC 20 Reflex save.
+Organizas una jaula puntiaguda de huesos, vegetación especialmente resistente u otro material para que surja al ser perturbada. La trampa inflige 10d8 de daño perforante a la primera criatura que entra en este cuadro; esa criatura debe intentar una salvación de Reflejos CD 34.
 
-**Critical Success** The creature is unaffected.
+**Éxito crítico** La criatura no se ve afectada.
 
-**Success** The creature takes a –5-foot status penalty to its Speed for 1 minute or until it Escapes (DC 18).
+**Éxito** La criatura es apartada por el despliegue de la trampa, recibe la mitad de daño y queda desprevenida hasta el final de su siguiente turno.
 
-**Failure** As success, but the penalty is –10 feet.
+**Fallo** La criatura queda atrapada por la jaula, recibe el daño completo y cae derribada. Queda inmovilizada mientras permanezca dentro de la jaula. Puede liberarse Escapando (CD 34) o destruyendo la jaula (CA 30, Fortaleza +18, Reflejos +24, Dureza 5, PG 30, inmunidades de objeto).
 
-**Critical Failure** As success, but the penalty is –20 feet.
-
----
-
-### Instant Evisceration Snare · Snare 20
-
-**Traits:** Consumable, Mechanical, Snare, Trap
-
-**Price** 10,000 gp
-
-When a creature enters the snare's square, the snare releases an unbelievable arsenal of blades at the creature, dealing 18d8 piercing damage (DC 42 basic Reflex save).
+**Fallo crítico** Como en fallo, pero la criatura recibe el doble de daño.
 
 ---
 
-### Marking Snare · Snare 1
+### Trampa bengala · Trampa 2
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa, Visual
 
-**Price** 3 gp
+**Precio** 5 mo
 
-This snare is often used to mark intruders for later tracking or identification. When you create this snare, you must decide whether to make it a dye or a scent marker. Either type of marking grants a +2 circumstance bonus to Track the creature for up to 24 hours or until the dye or scent is washed off (requiring at least a gallon of water and 10 minutes of scrubbing). A creature that enters a square of the snare must attempt a DC 17 Reflex save.
-
-**Success** The creature is unaffected.
-
-**Failure** The snare marks the creature.
-
-**Critical Failure** The snare marks the creature, and the creature is blinded until the end of its next turn.
+Usando materia bioluminiscente o reactivos alquímicos, preparas una bengala efímera a un cable trampa o una placa de presión. Cuando una criatura Pequeña o mayor entra en el cuadro, esta bengala se dispara al cielo. Para criaturas con vista despejada del cielo, la bengala es visible hasta 2 millas en un día claro o hasta 5 millas en una noche despejada.
 
 ---
 
-### Mudrock Snare · Snare 10
+### Trampa de rueda de cuchillas voladora · Trampa 20
 
-**Traits:** Uncommon, Consumable, Kobold, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 170 gp
+**Precio** 10.000 mo
 
-Fired clay covers a shallow pit of thin mud interspersed with fragile vials of a quick-drying agent. The first creature to step into the square breaks through the clay and sinks into the pit, fracturing the vials and releasing the chemicals that harden the mud. That creature must attempt a DC 29 Fortitude save as the mud solidifies over its legs.
+Cuando una criatura entra en el cuadro, una mortal rueda voladora de cuchillas giratorias se lanza contra ella, realizando un Golpe con un modificador de ataque de +35 que inflige 8d8 de daño cortante con un impacto.
 
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes a –5-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
-
-**Failure** The creature is stunned 2, and it takes a –10-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
-
-**Critical Failure** The creature is stunned 3, and it's immobilized for 1 minute or until it Escapes (DC 27).
+Una vez en cada uno de tus turnos, puedes usar una acción Interactuar a 120 pies de la rueda para hacer que Vuele hasta 60 pies hacia la criatura a la que persigue y realice otro Golpe si está a 5 pies de su objetivo tras moverse. Después de 1 minuto, el giro cesa y la rueda cae al suelo. Las criaturas pueden destruir la rueda para detenerla (CA 37, Fortaleza +29, Reflejos +20, Dureza 10, PG 200, inmunidades de objeto).
 
 ---
 
-### Nauseating Snare · Snare 6
+### Trampa atrapadora · Trampa 8
 
-**Traits:** Consumable, Mechanical, Poison, Snare, Trap
+**Rasgos:** Poco común, Consumible, Mecánico, Trampa, Trampa
 
-**Price** 40 gp
+**Precio** 75 mo
 
-You position particularly foul substances to splash over a creature. The first creature to enter the square must attempt a DC 24 Fortitude saving throw.
+Preparas lianas y cuerdas para sostener a una criatura en su lugar. La primera criatura que entra en el cuadro debe intentar una salvación de Reflejos CD 26 con los siguientes efectos.
 
-**Critical Success** The creature is unaffected.
+**Éxito crítico** La criatura no se ve afectada.
 
-**Success** The creature becomes sickened 1.
+**Éxito** La criatura sufre un penalizador de estado de –5 pies a su Velocidad durante 1 minuto o hasta que Escape (CD 26).
 
-**Failure** The creature becomes sickened 2.
+**Fallo** La criatura queda inmovilizada durante 1 asalto, luego sufre un penalizador de estado de –5 pies a su Velocidad durante 1 minuto. Ambos efectos terminan antes si Escapa (CD 26).
 
-**Critical Failure** The creature becomes sickened 3.
-
----
-
-### Omnidirectional Spear Snare · Snare 16
-
-**Traits:** Consumable, Mechanical, Snare, Trap
-
-**Price** 1,500 gp
-
-As soon as a creature enters the snare's square, the snare unleashes wickedly powerful spears at the creature from all directions, dealing 15d8 piercing damage (DC 37 basic Reflex save).
+**Fallo crítico** La criatura queda inmovilizada durante 1 minuto o hasta que Escape (CD 26).
 
 ---
 
-### Rending Snare · Snare 14
+### Trampa granizada de flechas · Trampa 16
 
-**Traits:** Uncommon, Consumable, Kobold, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 700 gp
+**Precio** 1.500 mo
 
-Sharp metal jaws wind tightly into the pressure plate mechanism of this snare. When triggered, the jaws clamp shut and spin, damaging limbs in the process. The snare deals 10d8 piercing damage to the first creature to enter the square; that creature must attempt a DC 34 Reflex save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage and is off-guard until the end of its next turn.
-
-**Failure** The creature takes full damage plus 2d6 persistent bleed damage, and it becomes clumsy 2 for 1 round.
-
-**Critical Failure** The creature takes double damage plus 4d6 persistent bleed damage, and it becomes clumsy 2 for 1 minute.
+Cuando una criatura entra en el cuadro de la trampa, esta libera cientos y cientos de flechas cuidadosamente preparadas, cubriendo un radio de 20 pies alrededor del cuadro de la trampa con un masivo fuego de flechas que inflige 18d6 de daño perforante. Las criaturas en el área deben intentar una salvación básica de Reflejos CD 37.
 
 ---
 
-### Scything Blade Snare · Snare 12
+### Trampa entorpecedora · Trampa 1
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 320 gp
+**Precio** 3 mo
 
-This snare sends a powerful series of scything blades to slice through a creature entering the snare's square, dealing 10d8 slashing damage (DC 32 basic Reflex save).
-
----
-
-### Signaling Snare · Snare 1
-
-**Traits:** Consumable, Mechanical, Snare, Trap
-
-**Price** 3 gp
-
-A subtle snare used in hunting or tracking, a signaling snare often consists of carefully prepared earth, piled sand or stones, specific arrangements of vegetation, and so forth. When a creature enters a square of a signaling snare, nothing happens to the creature, but instead it causes a small, unobtrusive disruption to the terrain that allows the snare's creator or another creature who knows what to look for to determine whether a creature of the appropriate size entered the square.
+Organizas zarzas, alambres, sustancia pegajosa u otros materiales para interferir con el movimiento de una criatura. El cuadro con esta trampa y tres cuadros adyacentes (para formar un área de 10 pies por 10 pies) se convierten en terreno difícil cuando la primera criatura entra en el cuadro de la trampa. El terreno difícil afecta al movimiento de la criatura de inmediato, incluyendo su movimiento hacia el cuadro desencadenante, y dura 1d4 asaltos tras activarse la trampa. Una criatura puede usar una acción Interactuar para despejar antes el terreno difícil de un solo cuadro.
 
 ---
 
-### Snagging Hook Snare · Snare 10
+### Trampa cojeadora · Trampa 4
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Rasgos:** Poco común, Consumible, Mecánico, Trampa, Trampa
 
-**Price** 180 gp
+**Precio** 15 mo
 
-This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes 5d8 piercing damage and 5d8 slashing damage, with a DC 29 basic Reflex save. On a critical failure, the hooks piercing its flesh make the creature immobilized until it successfully Escapes (DC 29).
+Preparas lianas, cuerdas o alambres para ceñirse firmemente alrededor de una criatura que active esta trampa. La primera criatura que entra en el cuadro debe intentar una salvación de Reflejos CD 20.
 
----
+**Éxito crítico** La criatura no se ve afectada.
 
-### Spike Snare · Snare 1
+**Éxito** La criatura sufre un penalizador de estado de –5 pies a su Velocidad durante 1 minuto o hasta que Escape (CD 18).
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Fallo** Como en éxito, pero el penalizador es de –10 pies.
 
-**Price** 3 gp
-
-This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.
+**Fallo crítico** Como en éxito, pero el penalizador es de –20 pies.
 
 ---
 
-### Stalker Bane Snare · Snare 4
+### Trampa de evisceración instantánea · Trampa 20
 
-**Traits:** Uncommon, Consumable, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 15 gp
+**Precio** 10.000 mo
 
-This snare explodes in a burst of cloying powder that can cling to a creature stepping into its square. A creature that enters the square of a stalker bane snare must attempt a DC 20 Reflex save.
-
-**Critical Success** The target is unaffected.
-
-**Success** Powder sticks to the target, causing it to leave behind telltale footprints. Being invisible makes the target hidden, rather than undetected, to creatures that could see it if it weren't invisible.
-
-**Failure** Powder clumps on the target, constantly flaking away. Being invisible makes the target concealed, rather than hidden or undetected, to creatures that could see it if it weren't invisible.
-
-**Critical Failure** As failure, and the creature is blinded until the end of its next turn.
+Cuando una criatura entra en el cuadro de la trampa, esta libera un arsenal increíble de cuchillas contra la criatura, infligiendo 18d8 de daño perforante (salvación básica de Reflejos CD 42).
 
 ---
 
-### Striking Snare · Snare 8
+### Trampa marcadora · Trampa 1
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
 
-**Price** 75 gp
+**Precio** 3 mo
 
-You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare's square. The creature must attempt a DC 26 basic Reflex saving throw. If you choose stones when you Craft the snare, it deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage.
+Esta trampa se usa a menudo para marcar intrusos para su posterior rastreo o identificación. Al crear esta trampa, debes decidir si haces que sea un marcador de tinte o de olor. Cualquiera de los tipos de marcado otorga un bonificador circunstancial de +2 para Rastrear a la criatura durante hasta 24 horas o hasta que el tinte u olor se lave (requiere al menos un galón de agua y 10 minutos de fregado). Una criatura que entra en un cuadro de la trampa debe intentar una salvación de Reflejos CD 17.
 
----
+**Éxito** La criatura no se ve afectada.
 
-### Stunning Snare · Snare 12
+**Fallo** La trampa marca a la criatura.
 
-**Traits:** Consumable, Mechanical, Snare, Trap
-
-**Price** 320 gp
-
-You rig a snare to disorient a creature with a quick bash, leaving it with little ability to defend itself. The trap deals 10d6 bludgeoning damage to the first creature to enter its square; that creature must attempt a DC 32 Reflex save.
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage and is off-guard for 1 round and stunned 1.
-
-**Failure** The creature takes full damage and is off-guard for 1 round and stunned 2.
-
-**Critical Failure** The creature takes double damage and is off-guard for 1 minute and stunned 4.
+**Fallo crítico** La trampa marca a la criatura, y la criatura queda cegada hasta el final de su siguiente turno.
 
 ---
 
-### Trip Snare · Snare 4
+### Trampa de barro endurecido · Trampa 10
 
-**Traits:** Consumable, Mechanical, Snare, Trap
+**Rasgos:** Poco común, Consumible, Kóbold, Mecánico, Trampa, Trampa
 
-**Price** 15 gp
+**Precio** 170 mo
 
-You set a cunning wire to trip a creature. A Medium or smaller creature that enters this snare's square must attempt a DC 21 Reflex save.
+Arcilla cocida cubre un pozo poco profundo de barro fino intercalado con frascos frágiles de un agente de secado rápido. La primera criatura que pisa el cuadro rompe la arcilla y se hunde en el pozo, fracturando los frascos y liberando los químicos que endurecen el barro. Esa criatura debe intentar una salvación de Fortaleza CD 29 mientras el barro se solidifica sobre sus piernas.
 
-If you want to create a trip snare to trip a larger creature, you must create a group of contiguous snares of a length equal to the edge of that larger creature's space, and the creature must be moving such that it moves into the full set of snares. For example, three trip snares in a 15-foot-line can trip a Huge creature coming down a corridor into the line of snares.
+**Éxito crítico** La criatura no se ve afectada.
 
-**Critical Success** The creature is unaffected.
+**Éxito** La criatura sufre un penalizador circunstancial de –5 pies a su Velocidad durante 1 minuto o hasta que Escape (CD 27).
 
-**Success** The creature is off-guard until the start of its next turn.
+**Fallo** La criatura queda aturdida 2 y sufre un penalizador circunstancial de –10 pies a su Velocidad durante 1 minuto o hasta que Escape (CD 27).
 
-**Failure** The creature falls prone.
+**Fallo crítico** La criatura queda aturdida 3 y queda inmovilizada durante 1 minuto o hasta que Escape (CD 27).
 
-**Critical Failure** The creature falls prone and takes 1d6 bludgeoning damage.
+---
+
+### Trampa nauseabunda · Trampa 6
+
+**Rasgos:** Consumible, Mecánico, Veneno, Trampa, Trampa
+
+**Precio** 40 mo
+
+Posicionas sustancias particularmente fétidas para salpicar a una criatura. La primera criatura que entra en el cuadro debe intentar una tirada de salvación de Fortaleza CD 24.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura queda indispuesta 1.
+
+**Fallo** La criatura queda indispuesta 2.
+
+**Fallo crítico** La criatura queda indispuesta 3.
+
+---
+
+### Trampa de lanzas omnidireccional · Trampa 16
+
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 1.500 mo
+
+Tan pronto como una criatura entra en el cuadro de la trampa, esta lanza potentes lanzas contra la criatura desde todas las direcciones, infligiendo 15d8 de daño perforante (salvación básica de Reflejos CD 37).
+
+---
+
+### Trampa desgarradora · Trampa 14
+
+**Rasgos:** Poco común, Consumible, Kóbold, Mecánico, Trampa, Trampa
+
+**Precio** 700 mo
+
+Mandíbulas metálicas afiladas se enrollan firmemente en el mecanismo de la placa de presión de esta trampa. Al activarse, las mandíbulas se cierran y giran, dañando las extremidades en el proceso. La trampa inflige 10d8 de daño perforante a la primera criatura que entra en el cuadro; esa criatura debe intentar una salvación de Reflejos CD 34.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura recibe la mitad de daño y queda desprevenida hasta el final de su siguiente turno.
+
+**Fallo** La criatura recibe el daño completo más 2d6 de daño persistente por sangrado, y se vuelve torpe 2 durante 1 asalto.
+
+**Fallo crítico** La criatura recibe el doble de daño más 4d6 de daño persistente por sangrado, y se vuelve torpe 2 durante 1 minuto.
+
+---
+
+### Trampa de cuchillas segadoras · Trampa 12
+
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 320 mo
+
+Esta trampa envía una potente serie de cuchillas segadoras para cortar a una criatura que entra en el cuadro de la trampa, infligiendo 10d8 de daño cortante (salvación básica de Reflejos CD 32).
+
+---
+
+### Trampa señalizadora · Trampa 1
+
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 3 mo
+
+Una trampa sutil usada en la caza o el rastreo, una trampa señalizadora a menudo consiste en tierra cuidadosamente preparada, montículos de arena o piedras, disposiciones específicas de vegetación, etc. Cuando una criatura entra en un cuadro de una trampa señalizadora, no le ocurre nada a la criatura, pero causa una pequeña y discreta alteración del terreno que permite al creador de la trampa u otra criatura que sabe qué buscar determinar si una criatura del tamaño adecuado entró en el cuadro.
+
+---
+
+### Trampa de garfios · Trampa 10
+
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 180 mo
+
+Esta trampa engancha a una criatura con sus malvados garfios metálicos. La primera criatura que entra en el cuadro recibe 5d8 de daño perforante y 5d8 de daño cortante, con una salvación básica de Reflejos CD 29. Con un fallo crítico, los garfios que perforan su carne hacen que la criatura quede inmovilizada hasta que Escape con éxito (CD 29).
+
+---
+
+### Trampa de pinchos · Trampa 1
+
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 3 mo
+
+Esta trampa básica consiste en pinchos ocultos que dependen del impulso de una criatura para lacerarla o potencialmente empalarla al entrar en el cuadro de la trampa, infligiendo 2d8 de daño perforante. La criatura debe intentar una tirada de salvación básica de Reflejos CD 17.
+
+---
+
+### Trampa azote del acechador · Trampa 4
+
+**Rasgos:** Poco común, Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 15 mo
+
+Esta trampa explota en una ráfaga de polvo pegajoso que puede adherirse a una criatura que pisa su cuadro. Una criatura que entra en el cuadro de una trampa azote del acechador debe intentar una salvación de Reflejos CD 20.
+
+**Éxito crítico** El objetivo no se ve afectado.
+
+**Éxito** El polvo se adhiere al objetivo, haciendo que deje huellas reveladoras. Estar invisible hace que el objetivo esté oculto, en lugar de indetectado, para las criaturas que podrían verlo si no estuviera invisible.
+
+**Fallo** El polvo se agrupa en el objetivo, desprendiéndose constantemente. Estar invisible hace que el objetivo esté velado (oculto), en lugar de oculto o indetectado, para las criaturas que podrían verlo si no estuviera invisible.
+
+**Fallo crítico** Como en fallo, y la criatura queda cegada hasta el final de su siguiente turno.
+
+---
+
+### Trampa golpeadora · Trampa 8
+
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 75 mo
+
+Fijas un cable trampa u otro desencadenante a un grupo de piedras o estacas de madera para golpear a una criatura que entra en el cuadro de la trampa. La criatura debe intentar una tirada de salvación básica de Reflejos CD 26. Si eliges piedras al Fabricar la trampa, inflige 9d8 de daño contundente; si eliges pinchos, inflige 9d8 de daño perforante.
+
+---
+
+### Trampa aturdidora · Trampa 12
+
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 320 mo
+
+Preparas una trampa para desorientar a una criatura con un golpe rápido, dejándola con poca capacidad para defenderse. La trampa inflige 10d6 de daño contundente a la primera criatura que entra en su cuadro; esa criatura debe intentar una salvación de Reflejos CD 32.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura recibe la mitad de daño, queda desprevenida durante 1 asalto y aturdida 1.
+
+**Fallo** La criatura recibe el daño completo, queda desprevenida durante 1 asalto y aturdida 2.
+
+**Fallo crítico** La criatura recibe el doble de daño, queda desprevenida durante 1 minuto y aturdida 4.
+
+---
+
+### Trampa de tropiezo · Trampa 4
+
+**Rasgos:** Consumible, Mecánico, Trampa, Trampa
+
+**Precio** 15 mo
+
+Preparas un ingenioso alambre para hacer tropezar a una criatura. Una criatura Mediana o más pequeña que entra en el cuadro de esta trampa debe intentar una salvación de Reflejos CD 21.
+
+Si quieres crear una trampa de tropiezo para hacer tropezar a una criatura más grande, debes crear un grupo de trampas contiguas de una longitud igual al borde del espacio de esa criatura más grande, y la criatura debe moverse de modo que entre en el conjunto completo de trampas. Por ejemplo, tres trampas de tropiezo en una línea de 15 pies pueden hacer tropezar a una criatura Enorme que baja por un corredor hacia la línea de trampas.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura queda desprevenida hasta el inicio de su siguiente turno.
+
+**Fallo** La criatura cae derribada.
+
+**Fallo crítico** La criatura cae derribada y recibe 1d6 de daño contundente.

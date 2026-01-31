@@ -1,598 +1,598 @@
-# Treasure Table
+# Tabla de tesoros
 
-The following tables include the items from this book organized by level and category. A superscript "U" indicates the item is uncommon and a superscript "R" indicates it's rare.
-
----
-
-## 1st-Level Items
-
-### 1st-Level Consumables
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Acid flask, lesser | Bomb | 3 gp | 283 |
-| Alchemist's fire, lesser | Bomb | 3 gp | 283 |
-| Blasting stone, lesser | Bomb | 3 gp | 283 |
-| Blight bomb, lesser | Bomb | 3 gp | 284 |
-| Bottled lightning, lesser | Bomb | 3 gp | 284 |
-| Dread ampoule, lesser | Bomb | 3 gp | 285 |
-| Frost vial, lesser | Bomb | 3 gp | 285 |
-| Ghost charge, lesser | Bomb | 3 gp | 285 |
-| Glue bomb, lesser | Bomb | 3 gp | 285 |
-| Antidote, lesser | Elixir | 3 gp | 286 |
-| Antiplague, lesser | Elixir | 3 gp | 286 |
-| Cheetah's elixir, lesser | Elixir | 3 gp | 287 |
-| Eagle-eye elixir, lesser | Elixir | 4 gp | 287 |
-| Elixir of gender transformation, lesser | Elixir | 1 gp | 287 |
-| Elixir of life, minor | Elixir | 3 gp | 288 |
-| Bestial mutagen, lesser | Mutagen | 4 gp | 289 |
-| Cognitive mutagen, lesser | Mutagen | 4 gp | 289 |
-| Drakeheart mutagen, lesser | Mutagen | 4 gp | 289 |
-| Juggernaut mutagen, lesser | Mutagen | 4 gp | 289 |
-| Quicksilver mutagen, lesser | Mutagen | 4 gp | 290 |
-| Serene mutagen, lesser | Mutagen | 4 gp | 290 |
-| Silvertongue mutagen, lesser | Mutagen | 4 gp | 290 |
-| Shielding salve | Oil | 4 gp | 303 |
-| Arsenic | Poison | 3 gp | 291 |
-| Giant centipede venom | Poison | 4 gp | 292 |
-| Potion of emergency escape | Potion | 3 gp | 304 |
-| Potion of retaliation, minor | Potion | 4 gp | 304 |
-| Ration tonic | Potion | 3 gp | 304 |
-| Alarm snare | Snare | 3 gp | 297 |
-| Caltrop snare | Snare | 3 gp | 298 |
-| Hampering snare | Snare | 3 gp | 298 |
-| Marking snare | Snare | 3 gp | 299 |
-| Signaling snare | Snare | 3 gp | 300 |
-| Spike snare | Snare | 3 gp | 300 |
-| Forensic dye | Tool | 3 gp | 295 |
-| Ghost ink | Tool | 3 gp | 295 |
-| Glow rod | Tool | 3 gp | 295 |
-| Matchstick | Tool | 2 sp | 295 |
-| Smoke ball, lesser | Tool | 3 gp | 296 |
-| Snake oil | Tool | 2 gp | 296 |
-
-### 1st-Level Permanent Items
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Predictable silver piece | Held | 3 gp | 307 |
+Las siguientes tablas incluyen los objetos de este libro organizados por nivel y categoría. Un superíndice "U" indica que el objeto es poco común y un superíndice "R" indica que es raro.
 
 ---
 
-## 2nd-Level Items
+## Objetos de nivel 1
 
-### 2nd-Level Consumables
+### Consumibles de nivel 1
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Antler arrow | Ammunition | 7 gp | 301 |
-| Bottled catharsis, minor | Elixir | 5 gp | 286 |
-| Bravo's brew, lesser | Elixir | 7 gp | 286 |
-| Cat's eye elixir | Elixir | 7 gp | 286 |
-| Comprehension elixir, lesser | Elixir | 7 gp | 287 |
-| Darkvision elixir, lesser | Elixir | 6 gp | 287 |
-| Surging serum, minor | Elixir | 5 gp | 288 |
-| Belladonna | Poison | 5 gp | 291 |
-| Black adder venom | Poison | 6 gp | 291 |
-| Lethargy poison ^U^ | Poison | 7 gp | 293 |
-| Deadweight snare ^U^ | Snare | 6 gp | 298 |
-| Flare snare | Snare | 5 gp | 298 |
-| Hunter's bane | Talisman | 6 gp | 305 |
-| Silver salve | Tool | 6 gp | 296 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Vial de ácido, inferior | Bomba | 3 mo | 283 |
+| Fuego de alquimista, inferior | Bomba | 3 mo | 283 |
+| Piedra explosiva, inferior | Bomba | 3 mo | 283 |
+| Bomba de añublo, inferior | Bomba | 3 mo | 284 |
+| Relámpago embotellado, inferior | Bomba | 3 mo | 284 |
+| Ámpula de pavor, inferior | Bomba | 3 mo | 285 |
+| Vial gélido, inferior | Bomba | 3 mo | 285 |
+| Carga espectral, inferior | Bomba | 3 mo | 285 |
+| Bomba de pegamento, inferior | Bomba | 3 mo | 285 |
+| Antídoto, inferior | Elixir | 3 mo | 286 |
+| Antipeste, inferior | Elixir | 3 mo | 286 |
+| Elixir del guepardo, inferior | Elixir | 3 mo | 287 |
+| Elixir ojo de águila, inferior | Elixir | 4 mo | 287 |
+| Elixir de transformación de género, inferior | Elixir | 1 mo | 287 |
+| Elixir de vida, menor | Elixir | 3 mo | 288 |
+| Mutágeno bestial, inferior | Mutágeno | 4 mo | 289 |
+| Mutágeno cognitivo, inferior | Mutágeno | 4 mo | 289 |
+| Mutágeno corazón de draco, inferior | Mutágeno | 4 mo | 289 |
+| Mutágeno imparable, inferior | Mutágeno | 4 mo | 289 |
+| Mutágeno de azogue, inferior | Mutágeno | 4 mo | 290 |
+| Mutágeno sereno, inferior | Mutágeno | 4 mo | 290 |
+| Mutágeno de lengua de plata, inferior | Mutágeno | 4 mo | 290 |
+| Ungüento protector | Aceite | 4 mo | 303 |
+| Arsénico | Veneno | 3 mo | 291 |
+| Veneno de ciempiés gigante | Veneno | 4 mo | 292 |
+| Poción de escape de emergencia | Poción | 3 mo | 304 |
+| Poción de represalia, menor | Poción | 4 mo | 304 |
+| Tónico de ración | Poción | 3 mo | 304 |
+| Trampa de alarma | Trampa | 3 mo | 297 |
+| Trampa de abrojos | Trampa | 3 mo | 298 |
+| Trampa entorpecedora | Trampa | 3 mo | 298 |
+| Trampa marcadora | Trampa | 3 mo | 299 |
+| Trampa de señalización | Trampa | 3 mo | 300 |
+| Trampa de clavos | Trampa | 3 mo | 300 |
+| Tinte forense | Herramienta | 3 mo | 295 |
+| Tinta espectral | Herramienta | 3 mo | 295 |
+| Vara luminosa | Herramienta | 3 mo | 295 |
+| Cerilla | Herramienta | 2 mp | 295 |
+| Bola de humo, menor | Herramienta | 3 mo | 296 |
+| Aceite de serpiente | Herramienta | 2 mo | 296 |
 
-### 2nd-Level Permanent Items
+### Objetos permanentes de nivel 1
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Glamorous buckler | Shield | 35 gp | 279 |
-
----
-
-## 3rd-Level Items
-
-### 3rd-Level Consumables
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Slumber arrow | Ammunition | 10 gp | 301 |
-| Acid flask, moderate | Bomb | 10 gp | 283 |
-| Alchemist's fire, moderate | Bomb | 10 gp | 283 |
-| Blasting stone, moderate | Bomb | 10 gp | 283 |
-| Blight bomb, moderate | Bomb | 10 gp | 284 |
-| Bottled lightning, moderate | Bomb | 10 gp | 284 |
-| Dread ampoule, moderate | Bomb | 10 gp | 285 |
-| Frost vial, moderate | Bomb | 10 gp | 285 |
-| Ghost charge, moderate | Bomb | 10 gp | 285 |
-| Glue bomb, moderate | Bomb | 10 gp | 285 |
-| Elixir of gender transformation, moderate | Elixir | 8 gp | 288 |
-| Bestial mutagen, moderate | Mutagen | 12 gp | 289 |
-| Cognitive mutagen, moderate | Mutagen | 12 gp | 289 |
-| Drakeheart mutagen, moderate | Mutagen | 12 gp | 289 |
-| Juggernaut mutagen, moderate | Mutagen | 12 gp | 289 |
-| Quicksilver mutagen, moderate | Mutagen | 12 gp | 290 |
-| Serene mutagen, moderate | Mutagen | 12 gp | 290 |
-| Silvertongue mutagen, moderate | Mutagen | 12 gp | 290 |
-| Cytillesh oil | Poison | 10 gp | 292 |
-| Graveroot | Poison | 10 gp | 293 |
-| Potion of retaliation, lesser | Potion | 12 gp | 304 |
-
-### 3rd-Level Permanent Items
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Twisting twine, lesser | Held | 45 gp | 307 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Moneda de plata predecible | Sostenido | 3 mo | 307 |
 
 ---
 
-## 4th-Level Items
+## Objetos de nivel 2
 
-### 4th-Level Consumables
+### Consumibles de nivel 2
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Viper arrow | Ammunition | 17 gp | 302 |
-| Crystal shards, moderate | Bomb | 16 gp | 284 |
-| Bomber's eye elixir, lesser | Elixir | 14 gp | 286 |
-| Bottled catharsis, lesser | Elixir | 15 gp | 286 |
-| Cooling elixir, lesser | Elixir | 15 gp | 287 |
-| Darkvision elixir, moderate | Elixir | 11 gp | 287 |
-| Mistform elixir, lesser | Elixir | 18 gp | 288 |
-| Stone fist elixir | Elixir | 13 gp | 288 |
-| Surging serum, lesser | Elixir | 15 gp | 288 |
-| Witchwarg elixir, lesser | Elixir | 15 gp | 288 |
-| Fearflower nectar | Poison | 16 gp | 292 |
-| Leadenleg | Poison | 15 gp | 293 |
-| Biting snare | Snare | 15 gp | 297 |
-| Hobbling snare ^U^ | Snare | 15 gp | 299 |
-| Stalker bane snare ^U^ | Snare | 15 gp | 300 |
-| Trip snare | Snare | 15 gp | 300 |
-| Timeless salts | Tool | 14 gp | 296 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Flecha de cornamenta | Munición | 7 mo | 301 |
+| Catarsis embotellada, menor | Elixir | 5 mo | 286 |
+| Brebaje del bravo, inferior | Elixir | 7 mo | 286 |
+| Elixir ojo de gato | Elixir | 7 mo | 286 |
+| Elixir de comprensión, inferior | Elixir | 7 mo | 287 |
+| Elixir de visión en la oscuridad, inferior | Elixir | 6 mo | 287 |
+| Suero en auge, menor | Elixir | 5 mo | 288 |
+| Belladona | Veneno | 5 mo | 291 |
+| Veneno de víbora negra | Veneno | 6 mo | 291 |
+| Veneno de letargo ^U^ | Veneno | 7 mo | 293 |
+| Trampa de peso muerto ^U^ | Trampa | 6 mo | 298 |
+| Trampa de bengala | Trampa | 5 mo | 298 |
+| Azote del cazador | Talismán | 6 mo | 305 |
+| Ungüento de plata | Herramienta | 6 mo | 296 |
 
-### 4th-Level Permanent Items
+### Objetos permanentes de nivel 2
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Alchemist goggles | Worn | 100 gp | 310 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Broquel glamuroso | Escudo | 35 mo | 279 |
 
 ---
 
-## 5th-Level Items
+## Objetos de nivel 3
 
-### 5th-Level Consumables
+### Consumibles de nivel 3
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Freezing ammunition | Ammunition | 25 gp | 301 |
-| Cheetah's elixir, moderate | Elixir | 25 gp | 287 |
-| Eagle-eye elixir, moderate | Elixir | 27 gp | 287 |
-| Elixir of life, lesser | Elixir | 30 gp | 288 |
-| Sea touch elixir, lesser | Elixir | 22 gp | 288 |
-| Oil of revelation | Oil | 25 gp | 303 |
-| Tricky liniment | Oil | 25 gp | 303 |
-| Spider venom | Poison | 25 gp | 294 |
-| Potion of disguise, lesser ^U^ | Potion | 30 gp | 304 |
-| Absolute solvent, moderate | Tool | 21 gp | 295 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Flecha de sueño | Munición | 10 mo | 301 |
+| Vial de ácido, moderado | Bomba | 10 mo | 283 |
+| Fuego de alquimista, moderado | Bomba | 10 mo | 283 |
+| Piedra explosiva, moderado | Bomba | 10 mo | 283 |
+| Bomba de añublo, moderado | Bomba | 10 mo | 284 |
+| Relámpago embotellado, moderado | Bomba | 10 mo | 284 |
+| Ámpula de pavor, moderado | Bomba | 10 mo | 285 |
+| Vial gélido, moderado | Bomba | 10 mo | 285 |
+| Carga espectral, moderado | Bomba | 10 mo | 285 |
+| Bomba de pegamento, moderado | Bomba | 10 mo | 285 |
+| Elixir de transformación de género, moderado | Elixir | 8 mo | 288 |
+| Mutágeno bestial, moderado | Mutágeno | 12 mo | 289 |
+| Mutágeno cognitivo, moderado | Mutágeno | 12 mo | 289 |
+| Mutágeno corazón de draco, moderado | Mutágeno | 12 mo | 289 |
+| Mutágeno imparable, moderado | Mutágeno | 12 mo | 289 |
+| Mutágeno de azogue, moderado | Mutágeno | 12 mo | 290 |
+| Mutágeno sereno, moderado | Mutágeno | 12 mo | 290 |
+| Mutágeno de lengua de plata, moderado | Mutágeno | 12 mo | 290 |
+| Aceite de cytillesh | Veneno | 10 mo | 292 |
+| Raíz de tumba | Veneno | 10 mo | 293 |
+| Poción de represalia, inferior | Poción | 12 mo | 304 |
 
-### 5th-Level Permanent Items
+### Objetos permanentes de nivel 3
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Mariner's splint ^U^ | Armor | 180 gp | 278 |
-| Twisting twine, moderate | Held | 125 gp | 307 |
-| Exploding shield | Shield | 25 gp | 279 |
-| Infiltrator's accessory | Weapon | 150 gp | 280 |
-
----
-
-## 6th-Level Items
-
-### 6th-Level Consumables
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Terrifying ammunition | Ammunition | 50 gp | 302 |
-| Antidote, moderate | Elixir | 35 gp | 286 |
-| Antiplague, moderate | Elixir | 35 gp | 286 |
-| Elixir of gender transformation, greater | Elixir | 35 gp | 288 |
-| Mistform elixir, moderate | Elixir | 56 gp | 288 |
-| Giant scorpion venom | Poison | 40 gp | 292 |
-| Potion of retaliation, moderate | Potion | 50 gp | 304 |
-| Bomb snare | Snare | 40 gp | 297 |
-| Nauseating snare | Snare | 40 gp | 299 |
-
-### 6th-Level Permanent Items
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Ghoul hide ^U^ | Armor | 220 gp | 278 |
-| Staff of impossible visions ^U^ | Staff | 230 gp | 308 |
-| Staff of providence | Staff | 230 gp | 308 |
-| Staff of the tempest | Staff | 230 gp | 308 |
-| Wand of hopeless night 2nd | Wand | 250 gp | 309 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Cordel retorcido, inferior | Sostenido | 45 mo | 307 |
 
 ---
 
-## 7th-Level Items
+## Objetos de nivel 4
 
-### 7th-Level Consumables
+### Consumibles de nivel 4
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Corrosive ammunition | Ammunition | 70 gp | 301 |
-| Comprehension elixir, greater | Elixir | 54 gp | 287 |
-| Candle of revealing | Other | 60 gp | 306 |
-| Tangle root toxin | Poison | 55 gp | 294 |
-| Ration tonic, greater | Potion | 55 gp | 304 |
-| Everlasting adhesive | Tool | 55 gp | 295 |
-| Skinstitch salve | Tool | 55 gp | 296 |
-| Smoke ball, greater | Tool | 53 gp | 296 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Flecha víbora | Munición | 17 mo | 302 |
+| Fragmentos de cristal, moderado | Bomba | 16 mo | 284 |
+| Elixir ojo del bombardero, inferior | Elixir | 14 mo | 286 |
+| Catarsis embotellada, inferior | Elixir | 15 mo | 286 |
+| Elixir refrigerante, inferior | Elixir | 15 mo | 287 |
+| Elixir de visión en la oscuridad, moderado | Elixir | 11 mo | 287 |
+| Elixir de forma brumosa, inferior | Elixir | 18 mo | 288 |
+| Elixir puño de piedra | Elixir | 13 mo | 288 |
+| Suero en auge, inferior | Elixir | 15 mo | 288 |
+| Elixir witchwarg, inferior | Elixir | 15 mo | 288 |
+| Néctar flor del miedo | Veneno | 16 mo | 292 |
+| Piernaplomo | Veneno | 15 mo | 293 |
+| Trampa mordedora | Trampa | 15 mo | 297 |
+| Trampa que entorpece ^U^ | Trampa | 15 mo | 299 |
+| Trampa azote del acechador ^U^ | Trampa | 15 mo | 300 |
+| Trampa de zancadilla | Trampa | 15 mo | 300 |
+| Sales atemporales | Herramienta | 14 mo | 296 |
 
-### 7th-Level Permanent Items
+### Objetos permanentes de nivel 4
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Twisting twine, greater | Held | 300 gp | 307 |
-| Wand of the spider 2nd | Wand | 360 gp | 309 |
-| Spellguard blade | Weapon | 320 gp | 280 |
-
----
-
-## 8th-Level Items
-
-### 8th-Level Consumables
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Bottled catharsis, moderate | Elixir | 75 gp | 286 |
-| Darkvision elixir, greater | Elixir | 90 gp | 287 |
-| Surging serum, moderate | Elixir | 75 gp | 288 |
-| Oil of dynamism ^U^ | Oil | 85 gp | 303 |
-| Dust of corpse animation ^U^ | Other | 100 gp | 306 |
-| Nettleweed residue | Poison | 75 gp | 294 |
-| Wyvern poison | Poison | 80 gp | 294 |
-| Potion of disguise, moderate ^U^ | Potion | 100 gp | 304 |
-| Grasping snare ^U^ | Snare | 75 gp | 298 |
-| Striking snare | Snare | 75 gp | 300 |
-| Jade bauble | Talisman | 100 gp | 305 |
-
-### 8th-Level Permanent Items
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Dragonhide buckler, standard-grade | Shield | 400 gp | 277 |
-| Dragonhide shield, standard-grade | Shield | 440 gp | 277 |
-| Wand of crackling lightning 3rd | Wand | 500 gp | 309 |
-| Wand of smoldering fireballs 3rd | Wand | 500 gp | 309 |
-| Spiritsight crossbow ^U^ | Weapon | 450 gp | 280 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Gafas de alquimista | Vestido | 100 mo | 310 |
 
 ---
 
-## 9th-Level Items
+## Objetos de nivel 5
 
-### 9th-Level Consumables
+### Consumibles de nivel 5
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Storm arrow | Ammunition | 130 gp | 301 |
-| Cheetah's elixir, greater | Elixir | 110 gp | 287 |
-| Elixir of life, moderate | Elixir | 150 gp | 288 |
-| Enervating powder | Poison | 110 gp | 292 |
-| Spider root | Poison | 110 gp | 294 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Munición gélida | Munición | 25 mo | 301 |
+| Elixir del guepardo, moderado | Elixir | 25 mo | 287 |
+| Elixir ojo de águila, moderado | Elixir | 27 mo | 287 |
+| Elixir de vida, inferior | Elixir | 30 mo | 288 |
+| Elixir toque marino, inferior | Elixir | 22 mo | 288 |
+| Aceite de revelación | Aceite | 25 mo | 303 |
+| Linimento tramposo | Aceite | 25 mo | 303 |
+| Veneno de araña | Veneno | 25 mo | 294 |
+| Poción de disfraz, inferior ^U^ | Poción | 30 mo | 304 |
+| Disolvente absoluto, moderado | Herramienta | 21 mo | 295 |
 
-### 9th-Level Permanent Items
+### Objetos permanentes de nivel 5
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Onslaught hide | Armor | 700 gp | 278 |
-| Earthsight box ^U^ | Held | 575 gp | 307 |
-| Urn of ashes | Held | 700 gp | 307 |
-| Wand of overflowing life 3rd | Wand | 700 gp | 309 |
-| Guise of the smirking devil | Worn | 700 gp | 310 |
-
----
-
-## 10th-Level Items
-
-### 10th-Level Consumables
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Antidote, greater | Elixir | 160 gp | 286 |
-| Antiplague, greater | Elixir | 160 gp | 286 |
-| Bravo's brew, moderate | Elixir | 150 gp | 286 |
-| Eagle-eye elixir, greater | Elixir | 200 gp | 287 |
-| Mistform elixir, greater | Elixir | 180 gp | 288 |
-| Nethershade | Poison | 160 gp | 294 |
-| Wolfsbane | Poison | 155 gp | 294 |
-| Mudrock snare ^U^ | Snare | 170 gp | 299 |
-| Snagging hook snare | Snare | 180 gp | 300 |
-
-### 10th-Level Permanent Items
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Warleader's bulwark | Armor | 1,000 gp | 279 |
-| Staff of providence, greater | Staff | 900 gp | 308 |
-| Staff of the tempest, greater | Staff | 900 gp | 308 |
-| Wand of crackling lightning 4th | Wand | 1,000 gp | 309 |
-| Wand of hopeless night 4th | Wand | 1,000 gp | 309 |
-| Fire-jump ring ^U^ | Worn | 940 gp | 310 |
-| Prognostic veil | Worn | 1,000 gp | 311 |
-| Sanguine pendant | Worn | 1,000 gp | 311 |
-| Sash of prowess | Worn | 1,000 gp | 311 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Cota de tablillas marinera ^U^ | Armadura | 180 mo | 278 |
+| Cordel retorcido, moderado | Sostenido | 125 mo | 307 |
+| Escudo explosivo | Escudo | 25 mo | 279 |
+| Accesorio del infiltrador | Arma | 150 mo | 280 |
 
 ---
 
-## 11th-Level Items
+## Objetos de nivel 6
 
-### 11th-Level Consumables
+### Consumibles de nivel 6
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Acid flask, greater | Bomb | 250 gp | 283 |
-| Alchemist's fire, greater | Bomb | 250 gp | 283 |
-| Blasting stone, greater | Bomb | 250 gp | 283 |
-| Blight bomb, greater | Bomb | 250 gp | 284 |
-| Bottled lightning, greater | Bomb | 250 gp | 284 |
-| Dread ampoule, greater | Bomb | 300 gp | 285 |
-| Frost vial, greater | Bomb | 250 gp | 285 |
-| Ghost charge, greater | Bomb | 250 gp | 285 |
-| Glue bomb, greater | Bomb | 250 gp | 285 |
-| Bestial mutagen, greater | Mutagen | 300 gp | 289 |
-| Cognitive mutagen, greater | Mutagen | 300 gp | 289 |
-| Drakeheart mutagen, greater | Mutagen | 300 gp | 289 |
-| Juggernaut mutagen, greater | Mutagen | 300 gp | 290 |
-| Quicksilver mutagen, greater | Mutagen | 300 gp | 290 |
-| Serene mutagen, greater | Mutagen | 300 gp | 290 |
-| Silvertongue mutagen, greater | Mutagen | 300 gp | 290 |
-| Blightburn resin | Poison | 225 gp | 291 |
-| Potion of disguise, greater | Potion | 300 gp | 304 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Munición aterradora | Munición | 50 mo | 302 |
+| Antídoto, moderado | Elixir | 35 mo | 286 |
+| Antipeste, moderado | Elixir | 35 mo | 286 |
+| Elixir de transformación de género, mayor | Elixir | 35 mo | 288 |
+| Elixir de forma brumosa, moderado | Elixir | 56 mo | 288 |
+| Veneno de escorpión gigante | Veneno | 40 mo | 292 |
+| Poción de represalia, moderada | Poción | 50 mo | 304 |
+| Trampa de bomba | Trampa | 40 mo | 297 |
+| Trampa nauseabunda | Trampa | 40 mo | 299 |
 
-### 11th-Level Permanent Items
+### Objetos permanentes de nivel 6
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Wand of overflowing life 4th | Wand | 1,400 gp | 309 |
-| Wand of the spider 4th | Wand | 1,400 gp | 309 |
-| Alchemist goggles, greater | Worn | 1,400 gp | 310 |
-| Helm of zeal | Worn | 1,250 gp | 310 |
-| Ring of maniacal devices | Worn | 1,175 gp | 311 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Piel de necrófago ^U^ | Armadura | 220 mo | 278 |
+| Bastón de visiones imposibles ^U^ | Bastón | 230 mo | 308 |
+| Bastón de la providencia | Bastón | 230 mo | 308 |
+| Bastón de la tempestad | Bastón | 230 mo | 308 |
+| Varita de noche desesperanzadora 2.º | Varita | 250 mo | 309 |
 
 ---
 
-## 12th-Level Items
+## Objetos de nivel 7
 
-### 12th-Level Consumables
+### Consumibles de nivel 7
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Crystal shards, greater | Bomb | 350 gp | 284 |
-| Bottled catharsis, greater | Elixir | 325 gp | 286 |
-| Cooling elixir, moderate | Elixir | 320 gp | 287 |
-| Sea touch elixir, moderate | Elixir | 300 gp | 288 |
-| Surging serum, greater | Elixir | 325 gp | 288 |
-| Witchwarg elixir, moderate | Elixir | 320 gp | 288 |
-| Incense of distilled death | Other | 350 gp | 306 |
-| Cave worm venom | Poison | 500 gp | 292 |
-| Slumber wine | Poison | 325 gp | 294 |
-| Potion of retaliation, greater | Potion | 400 gp | 304 |
-| Bleeding spines snare | Snare | 320 gp | 297 |
-| Scything blade snare | Snare | 320 gp | 300 |
-| Stunning snare | Snare | 320 gp | 300 |
-| Balisse feather | Talisman | 400 gp | 305 |
-| Iron equalizer | Talisman | 400 gp | 305 |
-| Absolute solvent, greater | Tool | 325 gp | 295 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Munición corrosiva | Munición | 70 mo | 301 |
+| Elixir de comprensión, mayor | Elixir | 54 mo | 287 |
+| Vela reveladora | Otro | 60 mo | 306 |
+| Toxina raíz enmarañada | Veneno | 55 mo | 294 |
+| Tónico de ración, mayor | Poción | 55 mo | 304 |
+| Adhesivo perpetuo | Herramienta | 55 mo | 295 |
+| Ungüento de sutura de piel | Herramienta | 55 mo | 296 |
+| Bola de humo, mayor | Herramienta | 53 mo | 296 |
 
-### 12th-Level Permanent Items
+### Objetos permanentes de nivel 7
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Dragonhide armor, standard-grade ^U^ | Armor | 1,600 gp | 276 |
-| Staff of impossible visions, greater ^U^ | Staff | 1,800 gp | 308 |
-| Wand of smoldering fireballs 5th | Wand | 2,000 gp | 309 |
-| Four-ways dogslicer ^U^ | Weapon | 1,700 gp | 280 |
-| Berserker's cloak | Worn | 2,000 gp | 310 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Cordel retorcido, mayor | Sostenido | 300 mo | 307 |
+| Varita de la araña 2.º | Varita | 360 mo | 309 |
+| Hoja guardaconjuros | Arma | 320 mo | 280 |
 
 ---
 
-## 13th-Level Items
+## Objetos de nivel 8
 
-### 13th-Level Consumables
+### Consumibles de nivel 8
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Elixir of life, greater | Elixir | 600 gp | 288 |
-| Taper of sanctification ^U^ | Other | 600 gp | 306 |
-| Deathcap powder | Poison | 450 gp | 292 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Catarsis embotellada, moderada | Elixir | 75 mo | 286 |
+| Elixir de visión en la oscuridad, mayor | Elixir | 90 mo | 287 |
+| Suero en auge, moderado | Elixir | 75 mo | 288 |
+| Aceite de dinamismo ^U^ | Aceite | 85 mo | 303 |
+| Polvo de animación de cadáver ^U^ | Otro | 100 mo | 306 |
+| Residuo de ortiga | Veneno | 75 mo | 294 |
+| Veneno de wyvern | Veneno | 80 mo | 294 |
+| Poción de disfraz, moderada ^U^ | Poción | 100 mo | 304 |
+| Trampa aferradora ^U^ | Trampa | 75 mo | 298 |
+| Trampa impactante | Trampa | 75 mo | 300 |
+| Adorno de jade | Talismán | 100 mo | 305 |
 
-### 13th-Level Permanent Items
+### Objetos permanentes de nivel 8
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Holy chain | Armor | 2,500 gp | 278 |
-| Unholy plate | Armor | 2,500 gp | 278 |
-| Medusa's scream | Shield | 3,000 gp | 279 |
-| Wand of overflowing life 5th | Wand | 3,000 gp | 309 |
-
----
-
-## 14th-Level Items
-
-### 14th-Level Consumables
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Antidote, major | Elixir | 675 gp | 286 |
-| Antiplague, major | Elixir | 675 gp | 286 |
-| Bomber's eye elixir, greater | Elixir | 700 gp | 286 |
-| Engulfing snare | Snare | 900 gp | 298 |
-| Rending snare ^U^ | Snare | 700 gp | 299 |
-| Iron cudgel | Talisman | 900 gp | 305 |
-
-### 14th-Level Permanent Items
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Staff of providence, major | Staff | 4,100 gp | 308 |
-| Staff of the tempest, major | Staff | 14,000 gp | 308 |
-| Wand of crackling lightning 6th | Wand | 4,500 gp | 309 |
-| Wand of the snowfields 5th | Wand | 4,500 gp | 309 |
-| Chalice of justice ^U^ | Weapon | 4,500 gp | 280 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Broquel de piel de dragón, calidad estándar | Escudo | 400 mo | 277 |
+| Escudo de piel de dragón, calidad estándar | Escudo | 440 mo | 277 |
+| Varita de rayos crepitantes 3.º | Varita | 500 mo | 309 |
+| Varita de bolas de fuego humeantes 3.º | Varita | 500 mo | 309 |
+| Ballesta de vista espiritual ^U^ | Arma | 450 mo | 280 |
 
 ---
 
-## 15th-Level Items
+## Objetos de nivel 9
 
-### 15th-Level Consumables
+### Consumibles de nivel 9
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Disintegration bolt ^U^ | Ammunition | 1,300 gp | 301 |
-| Bravo's brew, greater | Elixir | 700 gp | 286 |
-| Elixir of life, major | Elixir | 1,300 gp | 288 |
-| Sea touch elixir, greater | Elixir | 920 gp | 288 |
-| Mindfog mist | Poison | 1,000 gp | 293 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Flecha de tormenta | Munición | 130 mo | 301 |
+| Elixir del guepardo, mayor | Elixir | 110 mo | 287 |
+| Elixir de vida, moderado | Elixir | 150 mo | 288 |
+| Polvo debilitante | Veneno | 110 mo | 292 |
+| Raíz de araña | Veneno | 110 mo | 294 |
 
-### 15th-Level Permanent Items
+### Objetos permanentes de nivel 9
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Wand of overflowing life 6th | Wand | 6,500 gp | 309 |
-
----
-
-## 16th-Level Items
-
-### 16th-Level Consumables
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Cooling elixir, greater | Elixir | 1,400 gp | 287 |
-| Eagle-eye elixir, major | Elixir | 2,000 gp | 287 |
-| Witchwarg elixir, greater | Elixir | 1,400 gp | 288 |
-| Oil of dynamism, greater ^U^ | Oil | 1,400 gp | 303 |
-| Dust of corpse animation, greater ^U^ | Other | 1,500 gp | 306 |
-| Brimstone fumes | Poison | 1,500 gp | 292 |
-| Cerulean scourge | Poison | 1,450 gp | 292 |
-| Hail of arrows snare | Snare | 1,500 gp | 298 |
-| Omnidirectional snare | Snare | 1,500 gp | 299 |
-| Balisse feather, greater | Talisman | 2,000 gp | 305 |
-| Flame navette | Talisman | 1,800 gp | 305 |
-
-### 16th-Level Permanent Items
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Dragonplate ^U^ | Armor | 10,000 gp | 278 |
-| Dragonhide buckler, high-grade | Shield | 8,000 gp | 277 |
-| Dragonhide shield, high-grade | Shield | 8,800 gp | 277 |
-| Medusa's scream, greater | Shield | 9,000 gp | 279 |
-| Staff of impossible visions, major ^U^ | Staff | 10,000 gp | 308 |
-| Wand of slaughter 7th | Wand | 10,000 gp | 309 |
-| Wand of smoldering fireballs 7th | Wand | 10,000 gp | 309 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Piel de embate | Armadura | 700 mo | 278 |
+| Caja de visión terrestre ^U^ | Sostenido | 575 mo | 307 |
+| Urna de cenizas | Sostenido | 700 mo | 307 |
+| Varita de vida desbordante 3.º | Varita | 700 mo | 309 |
+| Apariencia del diablo sonriente | Vestido | 700 mo | 310 |
 
 ---
 
-## 17th-Level Items
+## Objetos de nivel 10
 
-### 17th-Level Consumables
+### Consumibles de nivel 10
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Acid flask, major | Bomb | 2,500 gp | 283 |
-| Alchemist's fire, major | Bomb | 2,500 gp | 283 |
-| Blasting stone, major | Bomb | 2,500 gp | 283 |
-| Blight bomb, major | Bomb | 2,500 gp | 284 |
-| Bottled lightning, major | Bomb | 2,500 gp | 284 |
-| Dread ampoule, major | Bomb | 3,000 gp | 285 |
-| Frost vial, major | Bomb | 2,500 gp | 285 |
-| Ghost charge, major | Bomb | 2,500 gp | 285 |
-| Glue bomb, major | Bomb | 2,500 gp | 285 |
-| Bestial mutagen, major | Mutagen | 3,000 gp | 289 |
-| Cognitive mutagen, major | Mutagen | 3,000 gp | 289 |
-| Drakeheart mutagen, major | Mutagen | 3,000 gp | 289 |
-| Juggernaut mutagen, major | Mutagen | 3,000 gp | 290 |
-| Quicksilver mutagen, major | Mutagen | 3,000 gp | 290 |
-| Serene mutagen, major | Mutagen | 3,000 gp | 290 |
-| Silvertongue mutagen, major | Mutagen | 3,000 gp | 290 |
-| Hemlock | Poison | 2,250 gp | 293 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Antídoto, mayor | Elixir | 160 mo | 286 |
+| Antipeste, mayor | Elixir | 160 mo | 286 |
+| Brebaje del bravo, moderado | Elixir | 150 mo | 286 |
+| Elixir ojo de águila, mayor | Elixir | 200 mo | 287 |
+| Elixir de forma brumosa, mayor | Elixir | 180 mo | 288 |
+| Sombra abisal | Veneno | 160 mo | 294 |
+| Acónito | Veneno | 155 mo | 294 |
+| Trampa roca de barro ^U^ | Trampa | 170 mo | 299 |
+| Trampa gancho atrapador | Trampa | 180 mo | 300 |
 
-### 17th-Level Permanent Items
+### Objetos permanentes de nivel 10
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Wand of overflowing life 7th | Wand | 15,000 gp | 309 |
-| Alchemist goggles, major | Worn | 15,000 gp | 310 |
-| Sanguine pendant, greater | Worn | 13,000 gp | 311 |
-| Sash of prowess, greater | Worn | 13,000 gp | 311 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Baluarte del caudillo | Armadura | 1.000 mo | 279 |
+| Bastón de la providencia, mayor | Bastón | 900 mo | 308 |
+| Bastón de la tempestad, mayor | Bastón | 900 mo | 308 |
+| Varita de rayos crepitantes 4.º | Varita | 1.000 mo | 309 |
+| Varita de noche desesperanzadora 4.º | Varita | 1.000 mo | 309 |
+| Anillo salto de fuego ^U^ | Vestido | 940 mo | 310 |
+| Velo pronóstico | Vestido | 1.000 mo | 311 |
+| Colgante sanguíneo | Vestido | 1.000 mo | 311 |
+| Faja de proeza | Vestido | 1.000 mo | 311 |
 
 ---
 
-## 18th-Level Items
+## Objetos de nivel 11
 
-### 18th-Level Consumables
+### Consumibles de nivel 11
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Crystal shards, major | Bomb | 4,000 gp | 284 |
-| Bottled catharsis, major | Elixir | 3,250 gp | 286 |
-| Surging serum, major | Elixir | 3,250 gp | 288 |
-| King's sleep | Poison | 4,000 gp | 293 |
-| Potion of retaliation, major | Potion | 5,000 gp | 304 |
-| Absolute solvent, major | Tool | 3,250 gp | 295 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Vial de ácido, mayor | Bomba | 250 mo | 283 |
+| Fuego de alquimista, mayor | Bomba | 250 mo | 283 |
+| Piedra explosiva, mayor | Bomba | 250 mo | 283 |
+| Bomba de añublo, mayor | Bomba | 250 mo | 284 |
+| Relámpago embotellado, mayor | Bomba | 250 mo | 284 |
+| Ámpula de pavor, mayor | Bomba | 300 mo | 285 |
+| Vial gélido, mayor | Bomba | 250 mo | 285 |
+| Carga espectral, mayor | Bomba | 250 mo | 285 |
+| Bomba de pegamento, mayor | Bomba | 250 mo | 285 |
+| Mutágeno bestial, mayor | Mutágeno | 300 mo | 289 |
+| Mutágeno cognitivo, mayor | Mutágeno | 300 mo | 289 |
+| Mutágeno corazón de draco, mayor | Mutágeno | 300 mo | 289 |
+| Mutágeno imparable, mayor | Mutágeno | 300 mo | 290 |
+| Mutágeno de azogue, mayor | Mutágeno | 300 mo | 290 |
+| Mutágeno sereno, mayor | Mutágeno | 300 mo | 290 |
+| Mutágeno de lengua de plata, mayor | Mutágeno | 300 mo | 290 |
+| Resina de blightburn | Veneno | 225 mo | 291 |
+| Poción de disfraz, mayor | Poción | 300 mo | 304 |
 
-### 18th-Level Permanent Items
+### Objetos permanentes de nivel 11
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Warleader's bulwark, greater | Armor | 22,000 gp | 279 |
-| Wand of crackling lightning 8th | Wand | 24,000 gp | 309 |
-| Wand of slaughter 8th | Wand | 24,000 gp | 309 |
-| Wand of the snowfields 7th | Wand | 24,000 gp | 309 |
-| Helm of zeal, greater | Worn | 21,000 gp | 310 |
-| Prognostic veil, greater | Worn | 21,000 gp | 311 |
-| Ring of maniacal devices, greater | Worn | 21,000 gp | 311 |
-
----
-
-## 19th-Level Items
-
-### 19th-Level Consumables
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Elixir of life, true | Elixir | 8,000 gp | 288 |
-| Black lotus extract | Poison | 6,500 gp | 291 |
-
-### 19th-Level Permanent Items
-
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Dragonhide armor, high-grade | Armor | 32,000 gp | 276 |
-| Wand of overflowing life 8th | Wand | 40,000 gp | 309 |
-| Berserker's cloak, greater | Worn | 40,000 gp | 310 |
-| Guise of the smirking devil, greater | Worn | 35,000 gp | 310 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Varita de vida desbordante 4.º | Varita | 1.400 mo | 309 |
+| Varita de la araña 4.º | Varita | 1.400 mo | 309 |
+| Gafas de alquimista, mayor | Vestido | 1.400 mo | 310 |
+| Yelmo de celo | Vestido | 1.250 mo | 310 |
+| Anillo de artilugios maniáticos | Vestido | 1.175 mo | 311 |
 
 ---
 
-## 20th-Level Items
+## Objetos de nivel 12
 
-### 20th-Level Consumables
+### Consumibles de nivel 12
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Elixir of rejuvenation ^U^ | Elixir | — | 288 |
-| Tears of death | Poison | 12,000 gp | 294 |
-| Flying bladewheel snare | Snare | 10,000 gp | 298 |
-| Instant evisceration snare | Snare | 10,000 gp | 299 |
-| Philosopher's stone ^U^ | Tool | — | 295 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Fragmentos de cristal, mayor | Bomba | 350 mo | 284 |
+| Catarsis embotellada, mayor | Elixir | 325 mo | 286 |
+| Elixir refrigerante, moderado | Elixir | 320 mo | 287 |
+| Elixir toque marino, moderado | Elixir | 300 mo | 288 |
+| Suero en auge, mayor | Elixir | 325 mo | 288 |
+| Elixir witchwarg, moderado | Elixir | 320 mo | 288 |
+| Incienso de muerte destilada | Otro | 350 mo | 306 |
+| Veneno de gusano cavernario | Veneno | 500 mo | 292 |
+| Vino de sueño | Veneno | 325 mo | 294 |
+| Poción de represalia, mayor | Poción | 400 mo | 304 |
+| Trampa espinas sangrantes | Trampa | 320 mo | 297 |
+| Trampa hoja segadora | Trampa | 320 mo | 300 |
+| Trampa aturdidora | Trampa | 320 mo | 300 |
+| Pluma de balisse | Talismán | 400 mo | 305 |
+| Igualador de hierro | Talismán | 400 mo | 305 |
+| Disolvente absoluto, mayor | Herramienta | 325 mo | 295 |
 
-### 20th-Level Permanent Items
+### Objetos permanentes de nivel 12
 
-| Item | Category | Price | Page |
-|------|----------|-------|------|
-| Cloth of nullification ^R^ | Held | 75,000 gp | 307 |
-| Staff of impossible visions, true ^U^ | Staff | 70,000 gp | 308 |
-| Staff of providence, true | Staff | 64,000 gp | 308 |
-| Wand of slaughter 9th | Wand | 70,000 gp | 309 |
-| Wand of smoldering fireballs 9th | Wand | 70,000 gp | 309 |
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Armadura de piel de dragón, calidad estándar ^U^ | Armadura | 1.600 mo | 276 |
+| Bastón de visiones imposibles, mayor ^U^ | Bastón | 1.800 mo | 308 |
+| Varita de bolas de fuego humeantes 5.º | Varita | 2.000 mo | 309 |
+| Rebanaperros de las cuatro vías ^U^ | Arma | 1.700 mo | 280 |
+| Capa del berserker | Vestido | 2.000 mo | 310 |
+
+---
+
+## Objetos de nivel 13
+
+### Consumibles de nivel 13
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Elixir de vida, mayor | Elixir | 600 mo | 288 |
+| Cirio de santificación ^U^ | Otro | 600 mo | 306 |
+| Polvo de sombrerete mortal | Veneno | 450 mo | 292 |
+
+### Objetos permanentes de nivel 13
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Cadena sagrada | Armadura | 2.500 mo | 278 |
+| Placa sacrílega | Armadura | 2.500 mo | 278 |
+| Grito de la Medusa | Escudo | 3.000 mo | 279 |
+| Varita de vida desbordante 5.º | Varita | 3.000 mo | 309 |
+
+---
+
+## Objetos de nivel 14
+
+### Consumibles de nivel 14
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Antídoto, supremo | Elixir | 675 mo | 286 |
+| Antipeste, supremo | Elixir | 675 mo | 286 |
+| Elixir ojo del bombardero, mayor | Elixir | 700 mo | 286 |
+| Trampa envolvente | Trampa | 900 mo | 298 |
+| Trampa desgarradora ^U^ | Trampa | 700 mo | 299 |
+| Porra de hierro | Talismán | 900 mo | 305 |
+
+### Objetos permanentes de nivel 14
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Bastón de la providencia, supremo | Bastón | 4.100 mo | 308 |
+| Bastón de la tempestad, supremo | Bastón | 14.000 mo | 308 |
+| Varita de rayos crepitantes 6.º | Varita | 4.500 mo | 309 |
+| Varita de los campos de nieve 5.º | Varita | 4.500 mo | 309 |
+| Cáliz de la Justicia ^U^ | Arma | 4.500 mo | 280 |
+
+---
+
+## Objetos de nivel 15
+
+### Consumibles de nivel 15
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Virote de desintegración ^U^ | Munición | 1.300 mo | 301 |
+| Brebaje del bravo, mayor | Elixir | 700 mo | 286 |
+| Elixir de vida, supremo | Elixir | 1.300 mo | 288 |
+| Elixir toque marino, mayor | Elixir | 920 mo | 288 |
+| Niebla de mente | Veneno | 1.000 mo | 293 |
+
+### Objetos permanentes de nivel 15
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Varita de vida desbordante 6.º | Varita | 6.500 mo | 309 |
+
+---
+
+## Objetos de nivel 16
+
+### Consumibles de nivel 16
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Elixir refrigerante, mayor | Elixir | 1.400 mo | 287 |
+| Elixir ojo de águila, supremo | Elixir | 2.000 mo | 287 |
+| Elixir witchwarg, mayor | Elixir | 1.400 mo | 288 |
+| Aceite de dinamismo, mayor ^U^ | Aceite | 1.400 mo | 303 |
+| Polvo de animación de cadáver, mayor ^U^ | Otro | 1.500 mo | 306 |
+| Vapores de azufre | Veneno | 1.500 mo | 292 |
+| Azote cerúleo | Veneno | 1.450 mo | 292 |
+| Trampa granizada de flechas | Trampa | 1.500 mo | 298 |
+| Trampa omnidireccional | Trampa | 1.500 mo | 299 |
+| Pluma de balisse, mayor | Talismán | 2.000 mo | 305 |
+| Navette de llama | Talismán | 1.800 mo | 305 |
+
+### Objetos permanentes de nivel 16
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Placa de dragón ^U^ | Armadura | 10.000 mo | 278 |
+| Broquel de piel de dragón, alta calidad | Escudo | 8.000 mo | 277 |
+| Escudo de piel de dragón, alta calidad | Escudo | 8.800 mo | 277 |
+| Grito de la Medusa, mayor | Escudo | 9.000 mo | 279 |
+| Bastón de visiones imposibles, supremo ^U^ | Bastón | 10.000 mo | 308 |
+| Varita de matanza 7.º | Varita | 10.000 mo | 309 |
+| Varita de bolas de fuego humeantes 7.º | Varita | 10.000 mo | 309 |
+
+---
+
+## Objetos de nivel 17
+
+### Consumibles de nivel 17
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Vial de ácido, supremo | Bomba | 2.500 mo | 283 |
+| Fuego de alquimista, supremo | Bomba | 2.500 mo | 283 |
+| Piedra explosiva, supremo | Bomba | 2.500 mo | 283 |
+| Bomba de añublo, supremo | Bomba | 2.500 mo | 284 |
+| Relámpago embotellado, supremo | Bomba | 2.500 mo | 284 |
+| Ámpula de pavor, suprema | Bomba | 3.000 mo | 285 |
+| Vial gélido, supremo | Bomba | 2.500 mo | 285 |
+| Carga espectral, supremo | Bomba | 2.500 mo | 285 |
+| Bomba de pegamento, supremo | Bomba | 2.500 mo | 285 |
+| Mutágeno bestial, supremo | Mutágeno | 3.000 mo | 289 |
+| Mutágeno cognitivo, supremo | Mutágeno | 3.000 mo | 289 |
+| Mutágeno corazón de draco, supremo | Mutágeno | 3.000 mo | 289 |
+| Mutágeno imparable, supremo | Mutágeno | 3.000 mo | 290 |
+| Mutágeno de azogue, supremo | Mutágeno | 3.000 mo | 290 |
+| Mutágeno sereno, supremo | Mutágeno | 3.000 mo | 290 |
+| Mutágeno de lengua de plata, supremo | Mutágeno | 3.000 mo | 290 |
+| Cicuta | Veneno | 2.250 mo | 293 |
+
+### Objetos permanentes de nivel 17
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Varita de vida desbordante 7.º | Varita | 15.000 mo | 309 |
+| Gafas de alquimista, supremo | Vestido | 15.000 mo | 310 |
+| Colgante sanguíneo, mayor | Vestido | 13.000 mo | 311 |
+| Faja de proeza, mayor | Vestido | 13.000 mo | 311 |
+
+---
+
+## Objetos de nivel 18
+
+### Consumibles de nivel 18
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Fragmentos de cristal, supremo | Bomba | 4.000 mo | 284 |
+| Catarsis embotellada, suprema | Elixir | 3.250 mo | 286 |
+| Suero enérgico, supremo | Elixir | 3.250 mo | 288 |
+| Sueño del rey | Veneno | 4.000 mo | 293 |
+| Poción de represalia, suprema | Poción | 5.000 mo | 304 |
+| Disolvente absoluto, supremo | Herramienta | 3.250 mo | 295 |
+
+### Objetos permanentes de nivel 18
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Baluarte del gran caudillo | Armadura | 22.000 mo | 279 |
+| Varita de relámpago crepitante 8.º | Varita | 24.000 mo | 309 |
+| Varita de matanza 8.º | Varita | 24.000 mo | 309 |
+| Varita de los campos nevados 7.º | Varita | 24.000 mo | 309 |
+| Yelmo del celo, mayor | Vestido | 21.000 mo | 310 |
+| Velo pronóstico, mayor | Vestido | 21.000 mo | 311 |
+| Anillo de dispositivos maníacos, mayor | Vestido | 21.000 mo | 311 |
+
+---
+
+## Objetos de nivel 19
+
+### Consumibles de nivel 19
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Elixir de vida, verdadero | Elixir | 8.000 mo | 288 |
+| Extracto de loto negro | Veneno | 6.500 mo | 291 |
+
+### Objetos permanentes de nivel 19
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Armadura de piel de dragón, alta calidad | Armadura | 32.000 mo | 276 |
+| Varita de vida desbordante 8.º | Varita | 40.000 mo | 309 |
+| Capa del berserker, mayor | Vestido | 40.000 mo | 310 |
+| Guisa del diablo burlón, mayor | Vestido | 35.000 mo | 310 |
+
+---
+
+## Objetos de nivel 20
+
+### Consumibles de nivel 20
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Elixir de rejuvenecimiento ^U^ | Elixir | — | 288 |
+| Lágrimas de la muerte | Veneno | 12.000 mo | 294 |
+| Trampa de rueda de cuchillas voladora | Trampa | 10.000 mo | 298 |
+| Trampa de evisceración instantánea | Trampa | 10.000 mo | 299 |
+| Piedra filosofal ^U^ | Herramienta | — | 295 |
+
+### Objetos permanentes de nivel 20
+
+| Objeto | Categoría | Precio | Página |
+|--------|-----------|--------|--------|
+| Tela de anulación ^R^ | Sostenido | 75.000 mo | 307 |
+| Bastón de visiones imposibles, verdadero ^U^ | Bastón | 70.000 mo | 308 |
+| Bastón de la providencia, verdadero | Bastón | 64.000 mo | 308 |
+| Varita de matanza 9.º | Varita | 70.000 mo | 309 |
+| Varita de bolas de fuego humeantes 9.º | Varita | 70.000 mo | 309 |

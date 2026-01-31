@@ -1,279 +1,279 @@
-# Weapons & Materials
+# Armas y Materiales
 
-The following weapons and new dragonhide material are of particular interest to members of ancestries and classes introduced in this book.
-
----
-
-## Weapons
-
-From tripkee clubs to catfolk blades to tengu slings, many of the weapons presented here are often used by particular societies.
-
-### New Weapon Traits
-
-The weapons in this section use the following new traits, in addition to those found on pages 282–283 of Player Core.
-
-**Hampering:** A weapon with the hampering trait includes a disruptive limb or flange. After you hit with the weapon, you can use an Interact action to give the target a –10-foot circumstance penalty to all Speeds. The penalty ends after the target takes a move action, at the start of your next turn, if you attack with the weapon, or if you move out of reach of the target, whichever comes first.
-
-**Modular:** The weapon has multiple configurations that you can switch between using an Interact action. Typically, switching between configurations of a modular weapon allows it to deal different types of damage (listed in the trait, such as "modular B, P, or S"), though it's possible for a modular weapon's description to list more complicated configurations.
-
-**Razing:** This weapon is particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including shields and animated objects), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice.
-
-**Tethered:** This weapon is attached to a length of rope or chain that allows you to retrieve it after it has left your hand. If you have a free hand (including if you've just thrown a two-handed tethered weapon and have a hand holding nothing but the weapon's tether), you can use an Interact action to pull the weapon back into your grasp after you have thrown it as a ranged attack or after it has been disarmed (unless it's being held by another creature).
-
-### Weapon Descriptions
-
-Each of the weapons listed in the weapon tables are described below.
-
-**Adze:** A common cutting tool, an adze resembles an axe—but the cutting edge is horizontal, rather than vertical. The adze's shape makes it popular among woodworkers, and tripkee builders often use them to construct their treetop homes. The tool also serves as an effective weapon, due in part to the immense strength required to swing it.
-
-**Breaching Pike:** Forged with a heavy metal wedge effective at damaging enemy shields, breaching pikes are often used by hobgoblin infantry alongside a tower shield.
-
-**Capturing Spetum:** Hobgoblins use these polearms both as standard issue for aggressive military units and on an individual basis for hunting fugitives.
-
-**Claw Blade:** This handheld weapon's three parallel blades extend between the fingers to resemble the natural claws of the amurruns who created them, providing a way for those catfolk without suitable natural claws to share the fighting customs of their kin.
-
-**Cruuk:** This specialized club is designed for throwing and useful in both combat and hunting. Tripkees use them to take down creatures that hide high in treetops.
-
-**Daikyu:** This asymmetrical bow, made of laminated bamboo, wood, and leather, stands 6 feet or more in height. It's most often used while mounted.
-
-**Fangwire:** This kobold wire is thin and hard to see, making it perfect for an ambush. The wielder flicks one handle around a vulnerable spot so that it serves as a catch for the wire, then yanks the other handle back, pulling the wire tight and inflicting painful lacerations. The function and name come from a wire-based trap called a "slow fang."
-
-**Hand Adze:** The adze's smaller version is useful for delicate woodworking in cramped spaces. Tripkees use hand adzes for crafting and as close quarters weapons.
-
-**Khopesh:** This curved sickle sword has a pointed tip, allowing it to be swung in wide arcs or thrust vertically around enemy defenses. The tip of a khopesh is hooked and can be used to trip an opponent.
-
-**Mambele:** Also known as a hunga munga or danisco, this knife-axe hybrid consists of a hilt and blade that curves backward toward the wielder. The blade's curve is such that, after a mambele has struck a victim, more damage is dealt as the weapon is extracted from the victim's body.
-
-**Flying Talon:** This weapon consists of a three-pronged barbed hook attached to a length of chain. It can be used in melee to stab foes or hurled at a range. Some kobolds are particularly fond of using flying talons, especially as a sort of badge of office above those who serve them.
-
-**Spirit Thresher:** Bones, some solid and others splintered, are affixed to metal chains at the end of a long stick to form a powerful flail. Many kholo warriors insist the vicious crack the weapon makes as it strikes loosens fragments of the soul like husks struck from grains.
-
-**Tengu Gale Blade:** This fan-shaped sword designed by tengu smiths has five broad blades that join at its hilt. Tengu sailors use them as makeshift weather vanes, for the sword spins in the wind's direction when loosely held aloft.
-
-**Thunder Sling:** Tengu use these specialized slings to fire darts further and with greater force than when thrown by hand. A thunder sling uses darts as ammunition. It can also hurl blowgun darts as ammunition but deals 1d4 piercing damage instead of 1d6 when used this way.
-
-**Tricky Pick:** This ingenious kobold pick conceals several hidden traps that the wielder can activate to trick and befuddle foes with a variety of damaging blades and bludgeoning surfaces.
-
-**Whip Claw:** The whip claw is a long tether affixed to claw-like daggers, allowing the wielder to fling and retract them with deadly precision. Catfolk first developed this weapon to provide extended reach when hunting dangerous animals, and they wield them with unmatched expertise.
+Las siguientes armas y el nuevo material de piel de dragón son de especial interés para miembros de ascendencias y clases introducidas en este libro.
 
 ---
 
-## Melee Weapons
+## Armas
 
-### Martial Weapons
+Desde garrotes tripkee hasta hojas amurrun y hondas tengu, muchas de las armas presentadas aquí son usadas habitualmente por sociedades particulares.
 
-| Weapon | Price | Damage | Bulk | Hands | Group | Weapon Traits |
-|--------|-------|--------|------|-------|-------|---------------|
-| Adze | 1 gp | 1d10 S | 2 | 2 | Axe | Forceful, sweep, tripkee |
-| Cruuk | 4 sp | 1d6 B | L | 1 | Club | Shove, thrown 30 ft., tripkee |
-| Hand adze | 5 sp | 1d4 S | L | 1 | Axe | Agile, finesse, sweep, thrown 10 ft., tripkee |
+### Nuevos Rasgos de Arma
 
-### Uncommon Martial Weapons
+Las armas de esta sección usan los siguientes rasgos nuevos, además de los que se encuentran en las páginas 282–283 de Player Core.
 
-| Weapon | Price | Damage | Bulk | Hands | Group | Weapon Traits |
-|--------|-------|--------|------|-------|-------|---------------|
-| Breaching pike | 8 gp | 1d6 P | 1 | 1 | Spear | Hobgoblin, razing, reach |
-| Claw blade | 2 gp | 1d4 S | L | 1 | Knife | Agile, catfolk, deadly d8, disarm, finesse, versatile P |
-| Fangwire | 4 gp | 1d4 S | L | 1 | Brawling | Agile, backstabber, deadly d8, finesse, grapple, kobold |
-| Khopesh | 2 gp | 1d8 S | 1 | 1 | Sword | Trip |
-| Mambele | 6 sp | 1d6 S | 1 | 1 | Axe | Deadly d8, disarm, thrown 20 ft. |
-| Tengu gale blade | 4 gp | 1d6 S | L | 1 | Sword | Agile, disarm, finesse, tengu |
+**Entorpecedor:** Un arma con el rasgo entorpecedor incluye una protuberancia o apéndice disruptivo. Tras impactar con el arma, puedes usar una acción de Interactuar para imponer al objetivo un penalizador circunstancial de –10 pies a todas sus Velocidades. El penalizador termina después de que el objetivo realice una acción de movimiento, al comienzo de tu siguiente turno, si atacas con el arma, o si te mueves fuera del alcance del objetivo, lo que ocurra primero.
 
-### Uncommon Advanced Weapons
+**Modular:** El arma tiene múltiples configuraciones entre las que puedes cambiar usando una acción de Interactuar. Normalmente, cambiar entre configuraciones de un arma modular le permite infligir distintos tipos de daño (listados en el rasgo, como "modular B, P o S"), aunque es posible que la descripción de un arma modular liste configuraciones más complicadas.
 
-| Weapon | Price | Damage | Bulk | Hands | Group | Weapon Traits |
-|--------|-------|--------|------|-------|-------|---------------|
-| Capturing spetum | 9 gp | 1d10 P | 2 | 2 | Polearm | Hampering, hobgoblin, reach, trip |
-| Flying talon | 6 gp | 1d4 P | 1 | 1 | Flail | Agile, finesse, kobold, ranged trip, tethered, thrown 10 ft., trip |
-| Spirit thresher | 2 gp | 1d12 B | 2 | 2 | Flail | Kholo, sweep, versatile S |
-| Tricky pick | 10 gp | 1d6 modular | 1 | 1 | Pick | Backstabber, fatal d10, kobold, modular (B, P, or S) |
-| Whip claw | 5 gp | 1d6 S | 1 | 2 | Flail | Catfolk, finesse, hampering, reach |
+**Arrasador:** Esta arma es especialmente buena dañando objetos, estructuras y vehículos. Siempre que infliges daño a un objeto (incluidos escudos y objetos animados), estructura o vehículo con un arma arrasadora, el objeto recibe una cantidad de daño adicional igual al doble del número de dados de daño del arma.
 
----
+**Atado:** Esta arma está unida a una longitud de cuerda o cadena que te permite recuperarla después de que haya salido de tu mano. Si tienes una mano libre (incluido si acabas de lanzar un arma a dos manos con rasgo atado y tienes una mano sosteniendo solo la cuerda del arma), puedes usar una acción de Interactuar para tirar del arma de vuelta a tu mano tras haberla arrojado como ataque a distancia o después de que haya sido desarmada (a menos que la esté sosteniendo otra criatura).
 
-## Ranged Weapons
+### Descripciones de Armas
 
-### Uncommon Martial Weapons
+Cada una de las armas listadas en las tablas de armas se describe a continuación.
 
-| Weapon | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits |
-|--------|-------|--------|-------|--------|------|-------|-------|---------------|
-| Thunder sling | 5 gp | 1d6 P | 50 ft. | 1 | L | 1 | Sling | Agile, propulsive, tengu |
+**Azuela:** Una herramienta de corte común, una azuela se parece a un hacha, pero el filo es horizontal en lugar de vertical. La forma de la azuela la hace popular entre los carpinteros, y los constructores tripkee a menudo las usan para construir sus hogares en las copas de los árboles. La herramienta también sirve como un arma efectiva, en parte por la inmensa fuerza requerida para blandirla.
 
-### Uncommon Advanced Weapons
+**Pica rompemuros:** Forjadas con una pesada cuña metálica eficaz para dañar los escudos enemigos, las picas rompemuros son usadas a menudo por la infantería hobgoblin junto con un escudo torre.
 
-| Weapon | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits |
-|--------|-------|--------|-------|--------|------|-------|-------|---------------|
-| Daikyu | 8 gp | 1d8 P | 80 ft. | 0 | 2 | 1+ | Bow | Forceful, propulsive |
+**Spetum capturador:** Los hobgoblins usan estas armas de asta tanto como dotación estándar para unidades militares agresivas como a nivel individual para cazar fugitivos.
 
-10 arrows cost 1 sp.
+**Hoja de garra:** Las tres hojas paralelas de esta arma de mano se extienden entre los dedos para asemejarse a las garras naturales de los amurrun que la crearon, proporcionando una manera para que aquellos amurrun sin garras naturales adecuadas compartan las costumbres de combate de su gente.
 
----
+**Cruuk:** Este garrote especializado está diseñado para ser arrojado y es útil tanto en combate como en caza. Los tripkee los usan para abatir criaturas que se esconden alto en las copas.
 
-## Quick Equipment Packages
+**Daikyu:** Este arco asimétrico, hecho de bambú laminado, madera y cuero, mide 6 pies (1,8 m) o más de altura. Se usa con mayor frecuencia montado.
 
-If you want to quickly decide how to spend your starting money when playing a class from this book, start with one of these kits. The Armor, Weapons, and Gear entries include the basics, and the Options entries suggest additional items you might purchase with your leftover money to fit your character. Note that an adventurer's pack, which is included in each kit, is 1 Bulk and contains a backpack, bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks' rations, soap, 5 torches, and a waterskin.
+**Fangwire:** Este alambre kobold es fino y difícil de ver, perfecto para una emboscada. El portador hace girar una empuñadura alrededor de un punto vulnerable para que sirva de sujeción del alambre, y luego tira de la otra empuñadura, tensando el alambre y provocando dolorosas laceraciones. La función y el nombre provienen de una trampa basada en alambre llamada "colmillo lento".
 
-### Alchemist
+**Azuela de mano:** La versión más pequeña de la azuela es útil para carpintería delicada en espacios estrechos. Los tripkee usan las azuelas de mano para artesanía y como armas en espacios reducidos.
 
-**Price** 8 gp, 3 sp, 2 cp; **Bulk** 3 Bulk, 7 light; **Money Left Over** 6 gp, 6 sp, 8 cp
+**Khopesh:** Esta espada-guadaña curva tiene una punta afilada, lo que permite balancearla en amplios arcos o embestir verticalmente alrededor de las defensas enemigas. La punta de un khopesh está enganchada y puede usarse para derribar a un oponente.
 
-**Armor** studded leather armor
+**Mambele:** También conocido como hunga munga o danisco, este híbrido de cuchillo y hacha consiste en una empuñadura y una hoja que se curva hacia atrás hacia el portador. La curva de la hoja es tal que, después de que un mambele ha golpeado a una víctima, se inflige más daño al extraer el arma del cuerpo de la víctima.
 
-**Weapons** dagger, sling with 20 bullets
+**Garra voladora:** Esta arma consiste en un gancho barbado de tres puntas unido a una longitud de cadena. Puede usarse en cuerpo a cuerpo para apuñalar enemigos o arrojarse a distancia. Algunos kobolds son especialmente aficionados a usar garras voladoras, especialmente como una especie de insignia de cargo por encima de quienes les sirven.
 
-**Gear** adventurer's pack, alchemist's toolkit, caltrops (2 sets)
+**Trilladora espiritual:** Huesos, algunos sólidos y otros astillados, están fijados a cadenas metálicas en el extremo de un largo palo para formar un poderoso mangual. Muchos guerreros kholo insisten en que el crujido feroz que hace el arma al impactar desprende fragmentos del alma como cáscaras golpeadas de los granos.
 
-**Options** repair toolkit (2 gp)
+**Hoja de vendaval tengu:** Esta espada en forma de abanico diseñada por herreros tengu tiene cinco anchas hojas que se unen en su empuñadura. Los marineros tengu las usan como veletas improvisadas, pues la espada gira en la dirección del viento cuando se sostiene flojamente en alto.
 
-### Barbarian
+**Honda atronadora:** Los tengu usan estas hondas especializadas para disparar dardos más lejos y con mayor fuerza que cuando se lanzan a mano. Una honda atronadora usa dardos como munición. También puede lanzar dardos de cerbatana como munición pero inflige 1d4 de daño perforante en lugar de 1d6 cuando se usa de este modo.
 
-**Price** 4 gp; **Bulk** 3 Bulk, 5 light; **Money Left Over** 11 gp
+**Pico tramposo:** Este ingenioso pico kobold oculta varias trampas que el portador puede activar para engañar y confundir a los enemigos con una variedad de hojas dañinas y superficies contundentes.
 
-**Armor** hide armor
-
-**Weapons** javelins (4)
-
-**Gear** adventurer's pack, grappling hook
-
-**Options** greataxe (2 gp), greatclub (1 gp), greatsword (2 gp), or battle axe and steel shield (3 gp)
-
-### Champion
-
-**Price** 8 gp, 7 sp; **Bulk** 3 Bulk, 7 light; **Money Left Over** 6 gp, 3 sp
-
-**Armor** chain mail
-
-**Weapons** dagger, javelins (4)
-
-**Gear** adventurer's pack, crowbar, grappling hook
-
-**Options** steel shield (2 gp), your deity's favored weapon (see your deity's entry; use the Price listed in the weapon's entry)
-
-### Investigator
-
-**Price** 9 gp, 2 sp; **Bulk** 3 Bulk, 5 light; **Money Left Over** 5 gp, 8 sp
-
-**Armor** studded leather armor
-
-**Weapons** sap, shortsword, crossbow with 20 bolts
-
-**Gear** adventurer's pack, crowbar
-
-**Options** alchemist's toolkit (3 gp), simple manacles (3 gp), writing set (1 gp)
-
-### Monk
-
-**Price** 5 gp, 3 sp; **Bulk** 3 Bulk, 3 light; **Money Left Over** 9 gp, 7 sp
-
-**Armor** explorer's clothing
-
-**Weapons** darts (10)
-
-**Gear** adventurer's pack, climbing kit, grappling hook, lesser smoke ball (page 296)
-
-**Options** staff (0 gp), longspear (5 sp)
-
-### Oracle
-
-**Price** 5 gp, 5 sp, 2 cp; **Bulk** 3 Bulk, 3 light; **Money Left Over** 9 gp, 4 sp, 8 cp
-
-**Armor** studded leather armor
-
-**Weapons** mace, sling with 20 sling bullets
-
-**Gear** adventurer's pack
-
-**Options** steel shield (2 gp), healer's toolkit (5 gp)
-
-### Sorcerer
-
-**Price** 2 gp, 4 sp, 2 cp; **Bulk** 1 Bulk, 7 light; **Money Left Over** 12 gp, 5 sp, 8 cp
-
-**Armor** explorer's clothing
-
-**Weapons** dagger, sling with 20 sling bullets
-
-**Gear** adventurer's pack, caltrops (2 sets)
-
-### Swashbuckler
-
-**Price** 8 gp, 7 sp; **Bulk** 3 Bulk, 3 light; **Money Left Over** 6 gp, 3 sp
-
-**Armor** leather armor
-
-**Weapons** hand crossbow with 20 bolts, rapier
-
-**Gear** adventurer's pack
-
-**Options** buckler (1 gp), dueling cape (5 sp), fine clothing (2 gp), grappling hook (1 sp), main-gauche (5 sp)
+**Garra látigo:** La garra látigo es una larga atadura fijada a dagas similares a garras, lo que permite al portador lanzarlas y retraerlas con mortal precisión. Los amurrun desarrollaron primero esta arma para proporcionar alcance extendido al cazar animales peligrosos, y la blanden con destreza inigualable.
 
 ---
 
-## Precious Materials
+## Armas Cuerpo a Cuerpo
 
-Materials with the precious trait can be substituted for base materials. Items made of a precious material cost more than typical items; not only does precious material cost more, but the crafter must invest more time working with it. In addition, more powerful items require precious materials of greater purity. Many precious materials and the process for crafting with them are described starting on page 252 of GM Core. A new precious material, dragonhide, is described below. The Price entry gives the price of a simple non-magical item made of that material, based on its Bulk (if the item is lighter than 1 Bulk, use the price for 1 Bulk) as well as prices for different amounts of the material. Armor and shields made of dragonhide are included here.
+### Armas Marciales
 
-### Dragonhide · Material 8+
+| Arma | Precio | Daño | Volumen | Manos | Grupo | Rasgos de arma |
+|--------|-------|--------|--------|-------|-------|---------------|
+| Azuela | 1 mo | 1d10 S | 2 | 2 | Hacha | Fuerte, barrido, tripkee |
+| Cruuk | 4 mp | 1d6 B | L | 1 | Garrote | Empujar, arrojadiza 30 pies, tripkee |
+| Azuela de mano | 5 mp | 1d4 S | L | 1 | Hacha | Ágil, preciso, barrido, arrojadiza 10 pies, tripkee |
 
-**Traits:** Uncommon, Precious
+### Armas Marciales Poco Comunes
 
-The hide and scales of a dragon can be used to Craft any item normally made of ordinary leather or hide. Dragonhide varies in color and texture, depending on the dragon it came from. Due to dragonhide's resiliency, it can also be used to Craft armor usually made out of metal plates (such as a breastplate, half plate, and full plate), allowing such armor to be made without metal. Dragonhide objects are immune to one damage type, depending on the tradition associated with the dragon (see the table below).
+| Arma | Precio | Daño | Volumen | Manos | Grupo | Rasgos de arma |
+|--------|-------|--------|--------|-------|-------|---------------|
+| Pica rompemuros | 8 mo | 1d6 P | 1 | 1 | Lanza | Hobgoblin, arrasador, alcance |
+| Hoja de garra | 2 mo | 1d4 S | L | 1 | Cuchillo | Ágil, amurrun, letal d8, desarmar, preciso, versátil P |
+| Fangwire | 4 mo | 1d4 S | L | 1 | Lucha | Ágil, traicionero, letal d8, preciso, agarrar, kobold |
+| Khopesh | 2 mo | 1d8 S | 1 | 1 | Espada | Derribar |
+| Mambele | 6 mp | 1d6 S | 1 | 1 | Hacha | Letal d8, desarmar, arrojadiza 20 pies |
+| Hoja de vendaval tengu | 4 mo | 1d6 S | L | 1 | Espada | Ágil, desarmar, preciso, tengu |
 
-| Type | Level | Price |
+### Armas Avanzadas Poco Comunes
+
+| Arma | Precio | Daño | Volumen | Manos | Grupo | Rasgos de arma |
+|--------|-------|--------|--------|-------|-------|---------------|
+| Spetum capturador | 9 mo | 1d10 P | 2 | 2 | Asta | Entorpecedor, hobgoblin, alcance, derribar |
+| Garra voladora | 6 mo | 1d4 P | 1 | 1 | Mangual | Ágil, preciso, kobold, derribo a distancia, atado, arrojadiza 10 pies, derribar |
+| Trilladora espiritual | 2 mo | 1d12 B | 2 | 2 | Mangual | Kholo, barrido, versátil S |
+| Pico tramposo | 10 mo | 1d6 modular | 1 | 1 | Pico | Traicionero, fatal d10, kobold, modular (B, P o S) |
+| Garra látigo | 5 mo | 1d6 S | 1 | 2 | Mangual | Amurrun, preciso, entorpecedor, alcance |
+
+---
+
+## Armas a Distancia
+
+### Armas Marciales Poco Comunes
+
+| Arma | Precio | Daño | Alcance | Recarga | Volumen | Manos | Grupo | Rasgos de arma |
+|--------|-------|--------|--------|--------|--------|-------|-------|---------------|
+| Honda atronadora | 5 mo | 1d6 P | 50 pies | 1 | L | 1 | Honda | Ágil, propulsivo, tengu |
+
+### Armas Avanzadas Poco Comunes
+
+| Arma | Precio | Daño | Alcance | Recarga | Volumen | Manos | Grupo | Rasgos de arma |
+|--------|-------|--------|--------|--------|--------|-------|-------|---------------|
+| Daikyu | 8 mo | 1d8 P | 80 pies | 0 | 2 | 1+ | Arco | Fuerte, propulsivo |
+
+10 flechas cuestan 1 mp.
+
+---
+
+## Paquetes Rápidos de Equipo
+
+Si quieres decidir rápidamente cómo gastar tu dinero inicial al jugar una clase de este libro, comienza con uno de estos kits. Las entradas de Armadura, Armas y Equipo incluyen lo básico, y las opciones sugieren artículos adicionales que podrías comprar con tu dinero restante para ajustar tu personaje. Ten en cuenta que un paquete de aventurero, que está incluido en cada kit, tiene Volumen 1 y contiene una mochila, saco de dormir, 10 tizas, yesca y pedernal, 50 pies (15 m) de cuerda, raciones para 2 semanas, jabón, 5 antorchas y una cantimplora.
+
+### Alquimista
+
+**Precio** 8 mo, 3 mp, 2 mc; **Volumen** 3 Volumen, 7 ligero; **Dinero restante** 6 mo, 6 mp, 8 mc
+
+**Armadura** armadura de cuero tachonado
+
+**Armas** daga, honda con 20 balines
+
+**Equipo** paquete de aventurero, juego de herramientas de alquimista, abrojos (2 juegos)
+
+**Opciones** juego de herramientas de reparación (2 mo)
+
+### Bárbaro
+
+**Precio** 4 mo; **Volumen** 3 Volumen, 5 ligero; **Dinero restante** 11 mo
+
+**Armadura** armadura de piel
+
+**Armas** jabalinas (4)
+
+**Equipo** paquete de aventurero, garfio
+
+**Opciones** gran hacha (2 mo), gran garrote (1 mo), gran espada (2 mo), o hacha de batalla y escudo de acero (3 mo)
+
+### Paladín
+
+**Precio** 8 mo, 7 mp; **Volumen** 3 Volumen, 7 ligero; **Dinero restante** 6 mo, 3 mp
+
+**Armadura** cota de malla
+
+**Armas** daga, jabalinas (4)
+
+**Equipo** paquete de aventurero, palanca, garfio
+
+**Opciones** escudo de acero (2 mo), arma predilecta de tu deidad (consulta la entrada de tu deidad; usa el Precio listado en la entrada del arma)
+
+### Investigador
+
+**Precio** 9 mo, 2 mp; **Volumen** 3 Volumen, 5 ligero; **Dinero restante** 5 mo, 8 mp
+
+**Armadura** armadura de cuero tachonado
+
+**Armas** porra, espada corta, ballesta con 20 virotes
+
+**Equipo** paquete de aventurero, palanca
+
+**Opciones** juego de herramientas de alquimista (3 mo), grilletes simples (3 mo), juego de escritura (1 mo)
+
+### Monje
+
+**Precio** 5 mo, 3 mp; **Volumen** 3 Volumen, 3 ligero; **Dinero restante** 9 mo, 7 mp
+
+**Armadura** ropa de explorador
+
+**Armas** dardos (10)
+
+**Equipo** paquete de aventurero, equipo de escalada, garfio, bola de humo menor (pág. 296)
+
+**Opciones** bastón (0 mo), lanza larga (5 mp)
+
+### Oráculo
+
+**Precio** 5 mo, 5 mp, 2 mc; **Volumen** 3 Volumen, 3 ligero; **Dinero restante** 9 mo, 4 mp, 8 mc
+
+**Armadura** armadura de cuero tachonado
+
+**Armas** maza, honda con 20 balines de honda
+
+**Equipo** paquete de aventurero
+
+**Opciones** escudo de acero (2 mo), juego de herramientas de sanador (5 mo)
+
+### Hechicero
+
+**Precio** 2 mo, 4 mp, 2 mc; **Volumen** 1 Volumen, 7 ligero; **Dinero restante** 12 mo, 5 mp, 8 mc
+
+**Armadura** ropa de explorador
+
+**Armas** daga, honda con 20 balines de honda
+
+**Equipo** paquete de aventurero, abrojos (2 juegos)
+
+### Espadachín
+
+**Precio** 8 mo, 7 mp; **Volumen** 3 Volumen, 3 ligero; **Dinero restante** 6 mo, 3 mp
+
+**Armadura** armadura de cuero
+
+**Armas** ballesta de mano con 20 virotes, estoque
+
+**Equipo** paquete de aventurero
+
+**Opciones** broquel (1 mo), capa de duelo (5 mp), ropa fina (2 mo), garfio (1 mp), main-gauche (5 mp)
+
+---
+
+## Materiales Preciosos
+
+Los materiales con el rasgo precioso pueden sustituirse por materiales base. Los objetos hechos de un material precioso cuestan más que los objetos típicos; no solo el material precioso cuesta más, sino que el artesano debe invertir más tiempo trabajando con él. Además, los objetos más poderosos requieren materiales preciosos de mayor pureza. Muchos materiales preciosos y el proceso para fabricarlos se describen a partir de la página 252 de GM Core. A continuación se describe un nuevo material precioso, piel de dragón. La entrada de Precio indica el precio de un objeto sencillo no mágico hecho de ese material, basado en su Volumen (si el objeto es más ligero que 1 de Volumen, usa el precio para 1 de Volumen), así como los precios para diferentes cantidades del material. Las armaduras y escudos de piel de dragón se incluyen aquí.
+
+### Piel de dragón · Material 8+
+
+**Rasgos:** Poco común, Precioso
+
+La piel y las escamas de un dragón pueden usarse para fabricar cualquier objeto que normalmente se haga de cuero o piel ordinaria. La piel de dragón varía en color y textura, dependiendo del dragón del que proceda. Debido a su resistencia, también puede usarse para fabricar armaduras que normalmente se hacen de placas metálicas (como coraza, media armadura y armadura completa), permitiendo que dichas armaduras se fabriquen sin metal. Los objetos de piel de dragón son inmunes a un tipo de daño, dependiendo de la tradición asociada al dragón (consulta la tabla siguiente).
+
+| Tipo | Nivel | Precio |
 |------|-------|-------|
-| Standard-grade dragonhide object | 8 | 350 gp per Bulk |
-| High-grade dragonhide object | 16 | 6,000 gp per Bulk |
+| Objeto de piel de dragón de calidad estándar | 8 | 350 mo por Volumen |
+| Objeto de piel de dragón de alta calidad | 16 | 6.000 mo por Volumen |
 
-| Dragon Tradition | Damage Immunity |
-|------------------|-----------------|
-| Arcane | Force |
-| Divine | Spirit |
-| Occult | Mental |
-| Primal | Poison |
+| Tradición dracónica | Inmunidad al daño |
+|---------------------|--------------------|
+| Arcana | Fuerza |
+| Divina | Espiritual |
+| Oculta | Mental |
+| Primigenia | Veneno |
 
-### Dragonhide Items
+### Objetos de piel de dragón
 
-| Items | Hardness | HP | BT |
-|-------|----------|----|----|
-| **Thin Items** | | | |
-| Standard-grade | 4 | 16 | 8 |
-| High-grade | 8 | 32 | 16 |
-| **Standard Items** | | | |
-| Standard-grade | 7 | 28 | 14 |
-| High-grade | 11 | 44 | 22 |
+| Objetos | Dureza | PG | UR |
+|---------|--------|----|----|
+| **Objetos delgados** | | | |
+| Calidad estándar | 4 | 16 | 8 |
+| Alta calidad | 8 | 32 | 16 |
+| **Objetos estándar** | | | |
+| Calidad estándar | 7 | 28 | 14 |
+| Alta calidad | 11 | 44 | 22 |
 
-### Precious Material Armor
+### Armaduras de material precioso
 
-You can make leather, hide, or any armor usually made out of plates (such as breastplate, half plate, and full plate) from dragonhide. Because armor's Bulk is reduced when the armor is worn, use its carried Bulk when determining its material Price.
+Puedes fabricar armaduras de cuero, piel o cualquier armadura que normalmente se haga de placas (como coraza, media armadura y armadura completa) con piel de dragón. Debido a que el Volumen de la armadura se reduce cuando se viste, usa su Volumen cargado al determinar el Precio del material.
 
-### Dragonhide Armor · Item 12+
+### Armadura de piel de dragón · Objeto 12+
 
-**Traits:** Uncommon
+**Rasgos:** Poco común
 
-**Usage** worn armor; **Bulk** varies by armor
+**Uso** armadura vestida; **Volumen** varía según la armadura
 
-Dragonhide armor is immune to one damage type based on the type of dragon it's made from (as listed in the table above). Wearing armor made from dragonhide also grants you a +1 circumstance bonus to your AC and saving throws against attacks and spells that deal the corresponding damage type.
+La armadura de piel de dragón es inmune a un tipo de daño según el tipo de dragón del que esté hecha (como se indica en la tabla anterior). Llevar armadura hecha de piel de dragón también te concede un bonificador circunstancial +1 a la CA y a las tiradas de salvación contra ataques y conjuros que inflijan el tipo de daño correspondiente.
 
-| Type | Level | Price | Craft Requirements |
-|------|-------|-------|-------------------|
-| Standard-grade dragonhide armor | 12 | 1,600 gp + 160 gp per Bulk | The initial raw materials must include dragonhide worth at least 200 gp + 20 gp per Bulk. |
-| High-grade dragonhide armor | 19 | 32,000 gp + 3,200 gp per Bulk | The initial raw materials must include dragonhide worth at least 16,000 gp + 1,600 gp per Bulk. |
+| Tipo | Nivel | Precio | Requisitos de fabricación |
+|------|-------|--------|---------------------------|
+| Armadura de piel de dragón de calidad estándar | 12 | 1.600 mo + 160 mo por Volumen | Los materiales brutos iniciales deben incluir piel de dragón por valor de al menos 200 mo + 20 mo por Volumen. |
+| Armadura de piel de dragón de alta calidad | 19 | 32.000 mo + 3.200 mo por Volumen | Los materiales brutos iniciales deben incluir piel de dragón por valor de al menos 16.000 mo + 1.600 mo por Volumen. |
 
-### Precious Material Shields
+### Escudos de material precioso
 
-You can make bucklers and most shields (except tower shields) out of dragonhide.
+Puedes fabricar broqueles y la mayoría de los escudos (excepto escudos torre) de piel de dragón.
 
-### Dragonhide Shield · Item 8+
+### Escudo de piel de dragón · Objeto 8+
 
-**Traits:** Uncommon
+**Rasgos:** Poco común
 
-**Usage** varies by shield
+**Uso** varía según el escudo
 
-Dragonhide shields are each immune to one damage type based on the tradition associated with the dragon (see the table on page 276).
+Cada escudo de piel de dragón es inmune a un tipo de daño según la tradición asociada al dragón (consulta la tabla en la página 276).
 
-| Type | Level | Price | Bulk | Hardness | HP | BT | Craft Requirements |
-|------|-------|-------|------|----------|----|----|-------------------|
-| Standard-grade dragonhide buckler | 8 | 400 gp | L | 2 | 8 | 4 | dragonhide worth at least 50 gp |
-| Standard-grade dragonhide shield | 8 | 440 gp | 1 | 4 | 16 | 8 | dragonhide worth at least 55 gp |
-| High-grade dragonhide buckler | 16 | 8,000 gp | L | 5 | 20 | 10 | dragonhide worth at least 4,000 gp |
-| High-grade dragonhide shield | 16 | 8,800 gp | 1 | 7 | 28 | 14 | dragonhide worth at least 4,400 gp |
+| Tipo | Nivel | Precio | Volumen | Dureza | PG | UR | Requisitos de fabricación |
+|------|-------|--------|---------|--------|----|----|---------------------------|
+| Broquel de piel de dragón de calidad estándar | 8 | 400 mo | L | 2 | 8 | 4 | piel de dragón por valor de al menos 50 mo |
+| Escudo de piel de dragón de calidad estándar | 8 | 440 mo | 1 | 4 | 16 | 8 | piel de dragón por valor de al menos 55 mo |
+| Broquel de piel de dragón de alta calidad | 16 | 8.000 mo | L | 5 | 20 | 10 | piel de dragón por valor de al menos 4.000 mo |
+| Escudo de piel de dragón de alta calidad | 16 | 8.800 mo | 1 | 7 | 28 | 14 | piel de dragón por valor de al menos 4.400 mo |

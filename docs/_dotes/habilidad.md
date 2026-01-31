@@ -22,7 +22,9 @@ Estas dotes pueden aplicarse a varias habilidades o tienen prerrequisitos flexib
 ### Nivel 1
 
 #### Conocimiento dudoso
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en una habilidad que dispone de la accion Recordar conocimiento
 
@@ -31,7 +33,9 @@ Eres un tesoro de informacion, pero no toda ella procede de fuentes reputadas. C
 ---
 
 #### Entrenamiento en una habilidad
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** Inteligencia +1
 
@@ -42,7 +46,9 @@ Obtienes el rango entrenado en una habilidad a tu eleccion.
 ---
 
 #### Identificacion rapida
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Arcanos, Naturaleza, Ocultismo o Religion
 
@@ -51,7 +57,9 @@ Puedes Identificar magia rapidamente. Solo tardas 1 minuto cuando utilizas Ident
 ---
 
 #### Reconocer conjuro ↺
-**Dote 1** · General, Habilidad, Secreto
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Secreto</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Arcanos, Naturaleza, Ocultismo o Religion
 
@@ -70,7 +78,9 @@ Si tienes el rango entrenado en la habilidad apropiada para la tradicion del con
 ---
 
 #### Seguro
-**Dote 1** · Fortuna, General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">Fortuna</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** entrenado en por lo menos una habilidad
 
@@ -83,7 +93,9 @@ Incluso en las peores circunstancias, puedes llevar a cabo tareas basicas. Elige
 ### Nivel 2
 
 #### Conocimiento automatico
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** experto en una habilidad que dispone de la accion Recordar conocimiento, Seguro en dicha habilidad
 
@@ -94,7 +106,9 @@ Conoces hechos basicos sin pararte mucho a pensar. Elige una habilidad en la que
 ---
 
 #### Taquigrafia magica
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Arcanos, Naturaleza, Ocultismo o Religion
 
@@ -107,7 +121,9 @@ Puedes usar el tiempo libre para aprender e inscribir nuevos conjuros. Esto func
 ### Nivel 7
 
 #### Reconocimiento rapido
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Arcanos, Naturaleza, Ocultismo o Religion; Reconocer conjuro
 
@@ -118,7 +134,9 @@ Reconoces conjuros rapidamente. Una vez por asalto, puedes Reconocer un conjuro 
 ### Nivel 15
 
 #### Teoria unificada
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Arcanos
 
@@ -131,7 +149,9 @@ Entiendes los puntales basicos de las cuatro tradiciones de la magia y de las es
 ### Nivel 1
 
 #### Caida de gato
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Acrobacias
 
@@ -140,7 +160,9 @@ Tu agilidad aerea gatuna te permite amortiguar tus caidas. Tratas tus caidas com
 ---
 
 #### Equilibrio firme
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Acrobacias
 
@@ -149,7 +171,9 @@ Puedes mantener facilmente el equilibrio, incluso en condiciones adversas. Siemp
 ---
 
 #### Escurrirse rapidamente
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Acrobacias
 
@@ -160,7 +184,9 @@ Te Escurres 5 pies (1,5 m) por asalto (10 pies [3 m] con un exito critico). Si t
 ### Nivel 2
 
 #### Gatear agilmente
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Acrobacias
 
@@ -171,7 +197,9 @@ Puedes Gatear de forma increiblemente rapida, hasta la mitad de tu Velocidad, en
 ### Nivel 7
 
 #### Levantarse ◆
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Reacción</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Acrobacias
 
@@ -184,7 +212,9 @@ Te pones de pie. Este movimiento no desencadena reacciones.
 ### Nivel 1
 
 #### Sentido arcano
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Arcanos
 
@@ -197,7 +227,9 @@ Tu estudio de la magia te permite notar su presencia de forma instintiva. Puedes
 ### Nivel 1
 
 #### Artesania alquimica
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Artesania
 
@@ -206,7 +238,9 @@ Puedes utilizar la actividad Artesania para crear sustancias alquimicas. Cuando 
 ---
 
 #### Conocedor
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Saber (alcohol), Saber (cocina) o Artesania
 
@@ -215,7 +249,9 @@ Dominas la preparacion de muchos tipos de comida y bebida. Obtienes un bonificad
 ---
 
 #### Especialidad artesana
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Artesania
 
@@ -241,7 +277,9 @@ Tu entrenamiento esta enfocado en la Artesania de un tipo de objeto en particula
 ---
 
 #### Reparacion rapida
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Artesania
 
@@ -252,7 +290,9 @@ Para ti, la actividad de Reparar pierde el rasgo exploracion y requiere 1 minuto
 ### Nivel 2
 
 #### Artesania comunal
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Artesania
 
@@ -265,7 +305,9 @@ Artesania comunal tambien te permite adoptar el papel de un ayudante cuando algu
 ---
 
 #### Artesania magica
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Artesania
 
@@ -274,7 +316,9 @@ Puedes Elaborar objetos magicos, aunque algunos tienen otros requisitos, tal y c
 ---
 
 #### Inventor
-**Dote 2** · General, Habilidad, Tiempo libre
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Tiempo libre</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Artesania
 
@@ -287,7 +331,9 @@ El DJ podria permitirte inventar formulas poco comunes o raras, tipicamente con 
 ### Nivel 7
 
 #### Artesania impecable
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Artesania, Especialidad artesana
 
@@ -298,7 +344,9 @@ Consigues creaciones perfectas con gran eficacia. Siempre que obtienes un exito 
 ### Nivel 15
 
 #### Elaborar cualquier cosa
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Artesania
 
@@ -311,7 +359,9 @@ Puedes encontrar formas para elaborar casi cualquier cosa, a pesar de las restri
 ### Nivel 1
 
 #### Luchador titanico
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Atletismo
 
@@ -320,7 +370,9 @@ Puedes hacer pruebas de Desarmar, Agarrar, Reposicionar, Empujar o Derribar a cr
 ---
 
 #### Merodeador subacuatico
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Atletismo
 
@@ -329,7 +381,9 @@ Has aprendido a pelear bajo el agua. No estas desprevenido en el agua y no estas
 ---
 
 #### Porteador recio
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Atletismo
 
@@ -338,7 +392,9 @@ Puedes llevar mas peso de lo que aparentas. Incrementa en 2 tus limites maximo e
 ---
 
 #### Salto rapido
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Atletismo
 
@@ -347,7 +403,9 @@ Puedes utilizar Salto de altura y Salto de longitud como una sola accion en luga
 ---
 
 #### Trepador de combate
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Atletismo
 
@@ -358,7 +416,9 @@ Tu tecnica te permite luchar mientras trepas. No estas desprevenido mientras Tre
 ### Nivel 2
 
 #### Saliente rapido
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Atletismo
 
@@ -367,7 +427,9 @@ Te subes facilmente a los salientes. Cuando te Agarras a un saliente, te puedes 
 ---
 
 #### Salto poderoso
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango legendario en Atletismo
 
@@ -378,7 +440,9 @@ Puedes Saltar 5 pies (1,5 m) verticalmente sin llevar a cabo un Salto de altura.
 ### Nivel 7
 
 #### Escalada rapida
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Atletismo
 
@@ -387,7 +451,9 @@ Cuando Trepas, te mueves 5 pies (1,5 m) mas con un exito y 10 pies (3 m) mas con
 ---
 
 #### Natacion rapida
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Atletismo
 
@@ -396,7 +462,9 @@ Nadas 5 pies (1,5 m) mas con un exito y 10 pies (3 m) mas con un exito critico, 
 ---
 
 #### Saltar paredes
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Atletismo
 
@@ -409,7 +477,9 @@ Tan solo puedes utilizar Saltar paredes una vez en un turno, si no tienes el ran
 ### Nivel 15
 
 #### Salto nuboso
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango experto en Atletismo
 
@@ -424,7 +494,9 @@ Cuando haces Saltos de altura o de longitud, puedes saltar una distancia mayor q
 ### Nivel 1
 
 #### Buscador de gangas
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Diplomacia
 
@@ -433,7 +505,9 @@ Puedes Obtener ingresos utilizando Diplomacia, invirtiendo dias en buscar gangas
 ---
 
 #### Confraternizador
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Diplomacia
 
@@ -442,7 +516,9 @@ Eres habil en averiguar informacion conversando. La actividad de exploracion Reu
 ---
 
 #### Impresion de grupo
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Diplomacia
 
@@ -451,7 +527,9 @@ Cuando Causas impresion, puedes comparar el resultado de tu prueba de Diplomacia
 ---
 
 #### Que no cunda el panico ◆◆◆
-**Dote 1** · Auditivo, Concentrar, Emocion, General, Habilidad, Linguistico, Mental
+<div class="feat-traits-header"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emocion</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Linguistico</span><span class="feat-trait">Mental</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Diplomacia
 
@@ -466,7 +544,9 @@ Tratas de reducir el panico. Haz una prueba de Diplomacia, comparandola con la C
 ### Nivel 2
 
 #### Estrechar manos
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Diplomacia
 
@@ -477,7 +557,9 @@ Las primeras impresiones son tu punto fuerte. Cuando te encuentras con alguien e
 ### Nivel 7
 
 #### Peticion descarada
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Diplomacia
 
@@ -488,7 +570,9 @@ Puedes minimizar las consecuencias o la indignacion resultante de tus peticiones
 ### Nivel 15
 
 #### Negociacion legendaria ◆◆◆
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Diplomacia
 
@@ -501,7 +585,9 @@ Puedes negociar increiblemente rapido en situaciones adversas. Primero tratas de
 ### Nivel 1
 
 #### Distraccion extensa
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Engano
 
@@ -510,7 +596,9 @@ Cuando obtienes un exito critico en Crear una distraccion, sigues escondido desp
 ---
 
 #### Menteme
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Engano
 
@@ -519,7 +607,9 @@ Puedes usar Engano para tejer trampas que confunden a cualquiera que intenta eng
 ---
 
 #### Mentiroso encantador
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Engano
 
@@ -530,7 +620,9 @@ Tu encanto te permite ganarte a aquellos a los que mientes. Cuando obtienes un e
 ### Nivel 2
 
 #### Confabulador
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Engano
 
@@ -539,7 +631,9 @@ Incluso cuando se te detecta una falsedad, amontonas mentira sobre mentira. Redu
 ---
 
 #### Disfraz rapido
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Engano
 
@@ -550,7 +644,9 @@ Puedes preparar un disfraz en la decima parte del tiempo habitual (por lo genera
 ### Nivel 7
 
 #### Secretos escurridizos
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Engano
 
@@ -563,7 +659,9 @@ Esquivas y evitas todo intento de descubrir tu autentica naturaleza o intencione
 ### Nivel 1
 
 #### Interpretacion fascinante
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Interpretacion
 
@@ -574,7 +672,9 @@ Si tienes el rango experto en Interpretacion, puedes fascinar hasta a 4 observad
 ---
 
 #### Interpretacion impresionante
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Interpretacion
 
@@ -583,7 +683,9 @@ Tus interpretaciones inspiran admiracion y te granjean seguidores. Puedes Causar
 ---
 
 #### Interprete virtuoso
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Interpretacion
 
@@ -606,7 +708,9 @@ Tienes un talento excepcional en un tipo de interpretacion. Obtienes un bonifica
 ### Nivel 15
 
 #### Interprete legendario
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Interpretacion, Interprete virtuoso
 
@@ -619,7 +723,9 @@ Tu fama se ha extendido por todos los paises. Todas las criaturas que tienen la 
 ### Nivel 1
 
 #### Intimidacion de grupo
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Intimidacion
 
@@ -628,7 +734,9 @@ Puedes ponerte duro con la gente de forma efectiva, incluso si no la tienes aisl
 ---
 
 #### Intimidacion rapida
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Intimidacion
 
@@ -637,7 +745,9 @@ Puedes amedrentar a otros con tan solo unas pocas implicaciones bien elegidas. P
 ---
 
 #### Mirada intimidante
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Intimidacion
 
@@ -648,7 +758,9 @@ Puedes Desmoralizar con una simple mirada. Cuando lo haces, Desmoralizar pierde 
 ### Nivel 2
 
 #### Intimidacion duradera
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Intimidacion
 
@@ -657,7 +769,9 @@ Cuando Intimidas con exito a alguien, la cantidad maxima de tiempo que te obedec
 ---
 
 #### Poderio intimidante
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** Fuerza +3, rango experto en Intimidacion
 
@@ -668,7 +782,9 @@ En las situaciones en las que puedes amenazar fisicamente al objetivo cuando Int
 ### Nivel 7
 
 #### Grito de guerra
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Intimidacion
 
@@ -677,7 +793,9 @@ Cuando tiras iniciativa, puedes lanzar un poderoso grito de guerra y Desmoraliza
 ---
 
 #### Retirada aterrada
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Intimidacion
 
@@ -688,7 +806,9 @@ Cuando obtienes un exito critico en una accion de Desmoralizar, si el nivel del 
 ### Nivel 15
 
 #### Susto mortal ◆
-**Dote 15** · Emocion, General, Manipular, Incapacitacion, Miedo
+<div class="feat-traits-header"><span class="feat-trait">Emocion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Incapacitacion</span><span class="feat-trait">Miedo</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Intimidacion
 
@@ -709,7 +829,9 @@ Puedes asustar tanto a tus enemigos que hasta podrian morir. Haz una prueba de I
 ### Nivel 1
 
 #### Carterista
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Latrocinio
 
@@ -718,7 +840,9 @@ Puedes Sustraer o Escamotear un objeto fuertemente custodiado, como por ejemplo 
 ---
 
 #### Sustraccion sutil
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Latrocinio
 
@@ -729,7 +853,9 @@ Cuando Sustraes algo con exito, los observadores (toda criatura distinta a aquel
 ### Nivel 2
 
 #### Desactivacion cautelosa
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Latrocinio
 
@@ -740,7 +866,9 @@ Si desencadenas un artilugio o disparas una trampa cuando la estas desactivando,
 ### Nivel 7
 
 #### Forzado rapido
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Latrocinio
 
@@ -751,7 +879,9 @@ Puedes Forzar una cerradura utilizando 1 accion en lugar de 2.
 ### Nivel 15
 
 #### Ladron legendario
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Latrocinio, Carterista
 
@@ -764,7 +894,9 @@ Tu capacidad para Sustraer desafia toda comprension. Puedes intentar Sustraer al
 ### Nivel 1
 
 #### Medicina de guerra ◆
-**Dote 1** · Curacion, General, Manipular, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">Curacion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Medicina
 
@@ -775,7 +907,9 @@ Puedes apanar heridas, incluso en combate. Haz una prueba de Medicina con la mis
 ---
 
 #### Medicina natural
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Naturaleza
 
@@ -788,7 +922,9 @@ Si estas en las tierras virgenes, podrias tener un acceso mas facil a los ingred
 ### Nivel 2
 
 #### Medico de sala
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Medicina
 
@@ -797,7 +933,9 @@ Has estudiado en grandes salas medicas, tratando varios pacientes a la vez y ate
 ---
 
 #### Recuperacion continua
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Medicina
 
@@ -806,7 +944,9 @@ Controlas celosamente los progresos de un paciente a fin de administrar su trata
 ---
 
 #### Recuperacion robusta
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Medicina
 
@@ -815,7 +955,9 @@ Aprendiste medicina popular para que te ayudara a recuperarte de las enfermedade
 ---
 
 #### Tratamiento inusual
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Medicina
 
@@ -830,7 +972,9 @@ Si tienes el rango maestro en Medicina, anade el estado drenado a la lista de es
 ### Nivel 7
 
 #### Primeros auxilios avanzados
-**Dote 7** · Curacion, General, Manipular, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">Curacion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Medicina
 
@@ -841,7 +985,9 @@ Utilizas tu entrenamiento medico para mejorar enfermedades o aliviar temores. Cu
 ### Nivel 15
 
 #### Medico legendario
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Medicina
 
@@ -854,7 +1000,9 @@ Has descubierto avances medicos o tecnicas que consiguen resultados milagrosos. 
 ### Nivel 1
 
 #### Adiestrar animal
-**Dote 1** · General, Habilidad, Manipular, Tiempo libre
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Manipular</span><span class="feat-trait">Tiempo libre</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Naturaleza
 
@@ -871,7 +1019,9 @@ Si tienes el rango experto, maestro o legendario en Naturaleza, podrias entrenar
 ### Nivel 2
 
 #### Animal vinculado
-**Dote 2** · General, Habilidad, Tiempo libre
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Tiempo libre</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Naturaleza
 
@@ -888,7 +1038,9 @@ Un animal solicito es mas facil de dirigir. Si tu animal vinculado es de nivel -
 ### Nivel 1
 
 #### Identificar extranezas
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Ocultismo
 
@@ -897,7 +1049,9 @@ Cuando eres consciente de un efecto magico o ves que se lanza un conjuro, puedes
 ---
 
 #### Instruido en secretos
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Ocultismo
 
@@ -907,17 +1061,21 @@ Te fijas en los signos y simbolos que los miembros de las sectas mistericas y ot
 
 ### Nivel 7
 
-#### Magia extrana
-**Dote 7** · General, Habilidad
+#### Magia extraña
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Ocultismo
 
-Te puedes basar en extranas variaciones en tu lanzamiento de conjuros, tanto si puedes lanzar conjuros ocultistas como si no. La CD para Reconocer los conjuros que lanzas e Identificar la magia que utilizas se incrementa en 5.
+Te puedes basar en extrañas variaciones en tu lanzamiento de conjuros, tanto si puedes lanzar conjuros ocultistas como si no. La CD para Reconocer los conjuros que lanzas e Identificar la magia que utilizas se incrementa en 5.
 
 ---
 
 #### Romper maldicion
-**Dote 7** · Concentrar, Curacion, Exploracion, General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">Concentrar</span><span class="feat-trait">Curacion</span><span class="feat-trait">Exploracion</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Ocultismo o Religion
 
@@ -930,7 +1088,9 @@ Inviertes 8 horas rezando o llevando a cabo rituales ocultista sobre el objetivo
 ### Nivel 1
 
 #### Alumno del canon
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Religion
 
@@ -941,7 +1101,9 @@ Has investigado lo suficiente sobre muchas fes para reconocer que algunas nocion
 ### Nivel 15
 
 #### Guia divina
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Religion
 
@@ -954,7 +1116,9 @@ Estas tan inmerso en las escrituras divinas que encuentras en tus textos signifi
 ### Nivel 1
 
 #### Profesional experto
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Saber
 
@@ -963,7 +1127,9 @@ Salvaguardas con cuidado tus empenos profesionales para evitar el desastre. Cuan
 ---
 
 #### Saber adicional
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 Tu conocimiento se ha expandido hasta abarcar un nuevo campo. Elige una subcategoria adicional de Saber. Obtienes el rango entrenado en ella. En los niveles 3.º, 7.º y 15.º, obtienes un incremento de habilidad adicional que tan solo puedes aplicar a la subcategoria de Saber elegida.
 
@@ -974,7 +1140,9 @@ Tu conocimiento se ha expandido hasta abarcar un nuevo campo. Elige una subcateg
 ### Nivel 2
 
 #### Saber inconfundible
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Saber
 
@@ -985,7 +1153,9 @@ Nunca te equivocas con la informacion relativa a tus areas de experiencia. Cuand
 ### Nivel 15
 
 #### Profesional legendario
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Saber
 
@@ -998,7 +1168,9 @@ Tu fama se ha extendido por todos los paises (por ejemplo, si tienes Saber [guer
 ### Nivel 1
 
 #### Acechador del terreno
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Sigilo
 
@@ -1011,7 +1183,9 @@ Durante la exploracion, esto te permite tambien acercarte automaticamente a 15 p
 ---
 
 #### Contrabandista experto
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Sigilo
 
@@ -1022,7 +1196,9 @@ A menudo pasas cosas de contrabando sin que las autoridades se enteren. Cuando e
 ### Nivel 2
 
 #### Aliados silenciosos
-**Dote 2** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 2**
 
 **Prerrequisitos:** rango experto en Sigilo
 
@@ -1033,7 +1209,9 @@ Eres muy habil en moverte con un grupo. Cuando Evitas ser detectado y tus aliado
 ### Nivel 7
 
 #### Frustrar los sentidos
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Sigilo
 
@@ -1042,7 +1220,9 @@ Tienes una gran habilidad para frustrar los sentidos especiales de las criaturas
 ---
 
 #### Movimiento furtivo rapido
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Sigilo
 
@@ -1053,7 +1233,9 @@ Te puedes mover a Velocidad completa cuando Mueves furtivamente. Puedes utilizar
 ### Nivel 15
 
 #### Movimiento furtivo legendario
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Sigilo, Movimiento furtivo rapido
 
@@ -1066,7 +1248,9 @@ Siempre te mueves furtivamente a menos que elijas que te vean, incluso cuando no
 ### Nivel 1
 
 #### Callejeo
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
@@ -1075,7 +1259,9 @@ Dominas la vida en las calles y notas el pulso del asentamiento en el que estas.
 ---
 
 #### Gracia cortesana
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
@@ -1084,7 +1270,9 @@ Te criaste entre la nobleza o has aprendido la etiqueta y el porte correctos, lo
 ---
 
 #### Leer los labios
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
@@ -1093,7 +1281,9 @@ Puedes leer los labios de quienes estan cerca y a los que puedes ver claramente.
 ---
 
 #### Lenguaje de signos
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
@@ -1104,7 +1294,9 @@ Un lenguaje de signos es dificil de entender durante el combate debido al nivel 
 ---
 
 #### Multilingue
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Sociedad
 
@@ -1117,7 +1309,9 @@ Aprendes facilmente nuevos idiomas. Aprendes dos idiomas nuevos, elegidos de ent
 ### Nivel 15
 
 #### Descifrador legendario
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Sociedad
 
@@ -1126,7 +1320,9 @@ Tu habilidad con los idiomas y los codigos es tan grande que puedes descifrar in
 ---
 
 #### Linguista legendario
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Sociedad, Multilingue
 
@@ -1139,7 +1335,9 @@ Eres tan habil con los idiomas que puedes crear una lengua franca instantaneamen
 ### Nivel 1
 
 #### Experiencia en un terreno
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Supervivencia
 
@@ -1150,7 +1348,9 @@ Tu experiencia en navegar por determinado tipo de terreno hace que tengas una co
 ---
 
 #### Forrajeador
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Supervivencia
 
@@ -1161,7 +1361,9 @@ Aumenta a 8 el numero de criaturas adicionales a las que sustentas con un exito 
 ---
 
 #### Rastreador experto
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Supervivencia
 
@@ -1170,7 +1372,9 @@ Rastrear es para ti instintivo y, cuando es necesario, puedes seguir un rastro s
 ---
 
 #### Supervisor de la fauna
-**Dote 1** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango entrenado en Supervivencia
 
@@ -1181,7 +1385,9 @@ Puedes estudiar detalles de las tierras virgenes para determinar la presencia de
 ### Nivel 7
 
 #### Artesania monstruosa
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Supervivencia
 
@@ -1192,7 +1398,9 @@ Si inviertes dias adicionales trabajando en el objeto, reduce el Precio utilizan
 ---
 
 #### Supervivencia planaria
-**Dote 7** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 7**
 
 **Prerrequisitos:** rango maestro en Supervivencia
 
@@ -1203,7 +1411,9 @@ Puedes Subsistir utilizando Supervivencia en diferentes Planos, incluso los que 
 ### Nivel 15
 
 #### Supervivencialista legendario
-**Dote 15** · General, Habilidad
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+
+**Dote 15**
 
 **Prerrequisitos:** rango legendario en Supervivencia
 
@@ -1216,7 +1426,9 @@ Puedes sobrevivir de forma indefinida sin comida o agua y soportar un frio o un 
 ### Nivel 1
 
 #### Trucar objeto magico ◆
-**Dote 1** · General, Habilidad, Manipular
+<div class="feat-traits-header"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Manipular</span></div>
+
+**Dote 1**
 
 **Prerrequisitos:** rango experto en Medicina
 

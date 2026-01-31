@@ -795,7 +795,7 @@ Esta mezcla salobre altera la piel de tus manos y pies. Los espacios entre tus d
 
 ### Elixir puño de piedra · Objeto 4
 
-**Rasgos:** Alquímico, Consumible, Elixir, Morfo
+**Rasgos:** Alquímico, Consumible, Elixir, Polimorfo
 
 **Precio** 13 mo
 
@@ -1068,7 +1068,7 @@ Esta toxina es un compuesto de arsénico y otras sustancias. No puedes reducir t
 
 Llamada a veces "hierba mora mortal", la belladona es una toxina ampliamente disponible producida a partir de una planta similar al tomate.
 
-**TS** CD 19 Fortaleza; **Inicio** 10 minutos; **Duración máxima** 30 minutos; **Etapa 1** deslumbrado (10 minutos); **Etapa 2** 1d6 de daño de veneno e indispuesto 1 (10 minutos); **Etapa 3** 1d6 de daño de veneno, confuso e indispuesto 1 (1 minuto)
+**TS** CD 19 Fortaleza; **Inicio** 10 minutos; **Duración máxima** 30 minutos; **Etapa 1** deslumbrado (10 minutos); **Etapa 2** 1d6 de daño de veneno e indispuesto 1 (10 minutos); **Etapa 3** 1d6 de daño de veneno, confundido e indispuesto 1 (1 minuto)
 
 ---
 
@@ -1088,613 +1088,613 @@ El veneno de víbora es una forma simple pero eficaz de potenciar un arma.
 
 ---
 
-### Black Lotus Extract · Item 19
+### Extracto de loto negro · Objeto 19
 
-**Traits:** Alchemical, Consumable, Contact, Poison, Virulent
+**Rasgos:** Alquímico, Consumible, Contacto, Veneno, Virulento
 
-**Price** 6,500 gp
+**Precio** 6.500 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Black lotus extract causes severe internal bleeding.
+El extracto de loto negro provoca un grave sangrado interno.
 
-**Saving Throw** DC 42 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 13d6 poison damage and drained 1 (1 round); **Stage 2** 15d6 poison damage and drained 1 (1 round); **Stage 3** 17d6 poison damage and drained 2 (1 round)
-
----
-
-### Blightburn Resin · Item 11
-
-**Traits:** Alchemical, Consumable, Contact, Poison
-
-**Price** 225 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-This tacky, hardened sap is harvested from trees infected by fungal blights and exposed to open flames.
-
-**Saving Throw** DC 30 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage (1 round); **Stage 2** 7d6 poison damage (1 round); **Stage 3** 9d6 poison damage (1 round)
+**TS** CD 42 Fortaleza; **Inicio** 1 minuto; **Duración máxima** 6 asaltos; **Etapa 1** 13d6 de daño de veneno y drenado 1 (1 asalto); **Etapa 2** 15d6 de daño de veneno y drenado 1 (1 asalto); **Etapa 3** 17d6 de daño de veneno y drenado 2 (1 asalto)
 
 ---
 
-### Brimstone Fumes · Item 16
+### Resina de blightburn · Objeto 11
 
-**Traits:** Alchemical, Consumable, Inhaled, Poison
+**Rasgos:** Alquímico, Consumible, Contacto, Veneno
 
-**Price** 1,500 gp
+**Precio** 225 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Fumes from the forges of Hell drain health and strength alike.
+Esta savia pegajosa y endurecida se cosecha de árboles infectados por tizones fúngicos y expuestos a llamas abiertas.
 
-**Saving Throw** DC 36 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** 7d8 poison damage and enfeebled 1 (1 round); **Stage 2** 8d8 poison damage and enfeebled 2 (1 round); **Stage 3** 10d8 poison damage and enfeebled 3 (1 round)
-
----
-
-### Cave Worm Venom · Item 12
-
-**Traits:** Alchemical, Consumable, Injury, Poison
-
-**Price** 500 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆◆ (manipulate)
-
-Venom from enormous cave worms leaves a victim weakened.
-
-**Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 5d6 poison damage and enfeebled 2 (1 round); **Stage 2** 6d6 poison damage and enfeebled 2 (1 round); **Stage 3** 8d6 poison and enfeebled 2 (1 round)
+**TS** CD 30 Fortaleza; **Inicio** 1 minuto; **Duración máxima** 6 asaltos; **Etapa 1** 6d6 de daño de veneno (1 asalto); **Etapa 2** 7d6 de daño de veneno (1 asalto); **Etapa 3** 9d6 de daño de veneno (1 asalto)
 
 ---
 
-### Cerulean Scourge · Item 16
+### Humos de azufre · Objeto 16
 
-**Traits:** Alchemical, Consumable, Injury, Poison
+**Rasgos:** Alquímico, Consumible, Inhalado, Veneno
 
-**Price** 1,450 gp
+**Precio** 1.500 mo
 
-**Usage** held in 2 hands; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆◆ (manipulate)
+**Activar** ◆ (manipular)
 
-This poison is infamous for making the victim's blood vessels glow with a bright blue light before painfully bursting.
+Humos de las forjas del Infierno drenan por igual la salud y la fuerza.
 
-**Saving Throw** DC 37 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 10d6 poison damage (1 round); **Stage 2** 12d6 poison damage (1 round); **Stage 3** 14d6 poison damage (1 round)
-
----
-
-### Cytillesh Oil · Item 3
-
-**Traits:** Alchemical, Consumable, Injury, Poison
-
-**Price** 10 gp
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆◆ (manipulate)
-
-This thick substance is distilled from the mind-robbing cytillesh fungus, though it lacks memory-altering capabilities.
-
-**Saving Throw** DC 19 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d8 poison damage (1 round); **Stage 2** 1d10 poison damage (1 round); **Stage 3** 2d8 poison damage (1 round)
+**TS** CD 36 Fortaleza; **Inicio** 1 asalto; **Duración máxima** 6 asaltos; **Etapa 1** 7d8 de daño de veneno y debilitado 1 (1 asalto); **Etapa 2** 8d8 de daño de veneno y debilitado 2 (1 asalto); **Etapa 3** 10d8 de daño de veneno y debilitado 3 (1 asalto)
 
 ---
 
-### Deathcap Powder · Item 13
+### Veneno de gusano de cueva · Objeto 12
 
-**Traits:** Alchemical, Consumable, Ingested, Poison
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
 
-**Price** 450 gp
+**Precio** 500 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆◆ (manipular)
 
-The toxic deathcap mushroom can be dried, ground, and treated to form a flavorless powder with accelerated effects.
+El veneno de enormes gusanos de cueva deja a la víctima debilitada.
 
-**Saving Throw** DC 33 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** 7d8 poison damage (1 minute); **Stage 2** 9d6 poison damage and sickened 2 (1 minute); **Stage 3** 8d10 poison damage and sickened 3 (1 minute)
-
----
-
-### Enervating Powder · Item 9
-
-**Traits:** Alchemical, Consumable, Ingested, Poison
-
-**Price** 110 gp
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-This carefully concocted mixture of fungal spores and ground bones has paralytic properties that make it a valuable poison.
-
-**Saving Throw** DC 28 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** fatigued (1 minute); **Stage 2** 5d6 poison damage and fatigued (1 minute); **Stage 3** 6d6 poison damage, fatigued, and paralyzed (1 minute)
+**TS** CD 32 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 5d6 de daño de veneno y debilitado 2 (1 asalto); **Etapa 2** 6d6 de daño de veneno y debilitado 2 (1 asalto); **Etapa 3** 8d6 de veneno y debilitado 2 (1 asalto)
 
 ---
 
-### Fearflower Nectar · Item 4
+### Azote cerúleo · Objeto 16
 
-**Traits:** Alchemical, Consumable, Injury, Poison
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
 
-**Price** 16 gp
+**Precio** 1.450 mo
 
-**Usage** held in 2 hands; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆◆ (manipulate)
+**Activar** ◆◆ (manipular)
 
-The nectar of a night-blooming desert flower attacks a victim's central nervous system and causes feelings of panic.
+Este veneno es infame por hacer que los vasos sanguíneos de la víctima brillen con una luz azul intensa antes de estallar dolorosamente.
 
-**Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and frightened 1 (1 round); **Stage 2** 1d6 poison damage and frightened 2 (1 round); **Stage 3** 1d6 poison damage and frightened 3 (1 round)
-
----
-
-### Giant Centipede Venom · Item 1
-
-**Traits:** Alchemical, Consumable, Injury, Poison
-
-**Price** 4 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆◆ (manipulate)
-
-Giant centipede venom causes severe muscle stiffness and general fatigue.
-
-**Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d4 poison damage and fatigued (1 round); **Stage 3** 1d4 poison damage, clumsy 1, and fatigued (1 round)
+**TS** CD 37 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 10d6 de daño de veneno (1 asalto); **Etapa 2** 12d6 de daño de veneno (1 asalto); **Etapa 3** 14d6 de daño de veneno (1 asalto)
 
 ---
 
-### Giant Scorpion Venom · Item 6
+### Aceite de cytillesh · Objeto 3
 
-**Traits:** Alchemical, Consumable, Injury, Poison
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
 
-**Price** 40 gp
+**Precio** 10 mo
 
-**Usage** held in 2 hands; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆◆ (manipulate)
+**Activar** ◆◆ (manipular)
 
-The venom of a giant scorpion is excruciating and its effects are somewhat debilitating.
+Esta sustancia espesa se destila del hongo cytillesh, que roba la mente, aunque carece de capacidades de alteración de la memoria.
 
-**Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and enfeebled 1 (1 round); **Stage 2** 2d8 poison damage and enfeebled 1 (1 round); **Stage 3** 2d10 poison damage and enfeebled 2 (1 round)
-
----
-
-### Graveroot · Item 3
-
-**Traits:** Alchemical, Consumable, Injury, Poison
-
-**Price** 10 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆◆ (manipulate)
-
-The opaque white sap from the graveroot shrub clouds the mind.
-
-**Saving Throw** DC 19 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d8 poison damage (1 round); **Stage 2** 1d10 poison damage and stupefied 1 (1 round); **Stage 3** 2d6 poison damage and stupefied 2 (1 round)
+**TS** CD 19 Fortaleza; **Duración máxima** 4 asaltos; **Etapa 1** 1d8 de daño de veneno (1 asalto); **Etapa 2** 1d10 de daño de veneno (1 asalto); **Etapa 3** 2d8 de daño de veneno (1 asalto)
 
 ---
 
-### Hemlock · Item 17
+### Polvo de hongo mortal · Objeto 13
 
-**Traits:** Alchemical, Consumable, Ingested, Poison
+**Rasgos:** Alquímico, Consumible, Ingerido, Veneno
 
-**Price** 2,250 gp
+**Precio** 450 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Concentrated hemlock is a particularly deadly toxin that halts muscle action—including that of the victim's heart.
+El tóxico hongo mortal puede secarse, molerse y tratarse para formar un polvo sin sabor con efectos acelerados.
 
-**Saving Throw** DC 38 Fortitude; **Onset** 30 minutes; **Maximum Duration** 60 minutes; **Stage 1** 16d6 poison damage and enfeebled 2 (10 minutes); **Stage 2** 17d6 poison damage and enfeebled 3 (10 minutes); **Stage 3** 18d6 poison damage and enfeebled 4 (10 minutes)
-
----
-
-### King's Sleep · Item 18
-
-**Traits:** Alchemical, Consumable, Ingested, Poison, Virulent
-
-**Price** 4,000 gp
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The drained condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.
-
-**Saving Throw** DC 41 Fortitude; **Onset** 1 day; **Stage 1** drained 1 (1 day); **Stage 2** drained 1 (1 day); **Stage 3** drained 2 (1 day)
+**TS** CD 33 Fortaleza; **Inicio** 10 minutos; **Duración máxima** 6 minutos; **Etapa 1** 7d8 de daño de veneno (1 minuto); **Etapa 2** 9d6 de daño de veneno e indispuesto 2 (1 minuto); **Etapa 3** 8d10 de daño de veneno e indispuesto 3 (1 minuto)
 
 ---
 
-### Leadenleg · Item 4
+### Polvo enervante · Objeto 9
 
-**Traits:** Alchemical, Consumable, Injury, Poison
+**Rasgos:** Alquímico, Consumible, Ingerido, Veneno
 
-**Price** 15 gp
+**Precio** 110 mo
 
-**Usage** held in 2 hands; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.
+Esta mezcla cuidadosamente preparada de esporas fúngicas y huesos molidos tiene propiedades paralizantes que la convierten en un veneno valioso.
 
-**Saving Throw** DC 20 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and –5-foot status penalty to all Speeds (1 round); **Stage 2** 2d6 poison damage and –10-foot status penalty to all Speeds (1 round); **Stage 3** 2d6 poison damage and –20-foot status penalty to all Speeds (1 round)
-
----
-
-### Lethargy Poison · Item 2
-
-**Traits:** Uncommon, Alchemical, Consumable, Incapacitation, Injury, Poison, Sleep
-
-**Price** 7 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆◆ (manipulate)
-
-Lethargy poison is commonly used in hit-and-run tactics by attackers who want their victims alive; the ambusher retreats until the poison sets in and the victim falls unconscious. Further exposure to lethargy poison doesn't require the target to attempt additional saving throws; only failing a saving throw against an ongoing exposure can progress its stage.
-
-**Saving Throw** DC 18 Fortitude; **Maximum Duration** 4 hours; **Stage 1** slowed 1 (1 round); **Stage 2** slowed 1 (1 minute); **Stage 3** unconscious with no Perception check to wake up (1 round); **Stage 4** unconscious with no Perception check to wake up (1d4 hours)
+**TS** CD 28 Fortaleza; **Inicio** 10 minutos; **Duración máxima** 6 minutos; **Etapa 1** fatigado (1 minuto); **Etapa 2** 5d6 de daño de veneno y fatigado (1 minuto); **Etapa 3** 6d6 de daño de veneno, fatigado y paralizado (1 minuto)
 
 ---
 
-### Mindfog Mist · Item 15
+### Néctar de flor del miedo · Objeto 4
 
-**Traits:** Alchemical, Consumable, Inhaled, Poison
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
 
-**Price** 1,000 gp
+**Precio** 16 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆◆ (manipular)
 
-Mindfog mist can be used to undermine spellcasters, as its effect on a victim's mental faculties are swift and powerful.
+El néctar de una flor desértica de floración nocturna ataca el sistema nervioso central de la víctima y provoca sentimientos de pánico.
 
-**Saving Throw** DC 35 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds; **Stage 1** stupefied 2 (1 round); **Stage 2** confused and stupefied 3 (1 round); **Stage 3** confused and stupefied 4 (1 round)
-
----
-
-### Nethershade · Item 10
-
-**Traits:** Alchemical, Consumable, Injury, Poison, Void
-
-**Price** 160 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆◆ (manipulate)
-
-Distilled from the Netherworld, this oily substance imposes tenebrous effects. The enfeebled condition from nethershade lasts for 24 hours.
-
-**Saving Throw** DC 29 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 void damage and 2d6 poison damage (1 round); **Stage 2** 3d6 void damage, 2d6 poison damage, and enfeebled 1 (1 round); **Stage 3** 3d6 void damage, 3d6 poison damage, and enfeebled 2 (1 round)
+**TS** CD 21 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 1d6 de daño de veneno y asustado 1 (1 asalto); **Etapa 2** 1d6 de daño de veneno y asustado 2 (1 asalto); **Etapa 3** 1d6 de daño de veneno y asustado 3 (1 asalto)
 
 ---
 
-### Nettleweed Residue · Item 8
+### Veneno de ciempiés gigante · Objeto 1
 
-**Traits:** Alchemical, Consumable, Contact, Poison
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
 
-**Price** 75 gp
+**Precio** 4 mo
 
-**Usage** held in 2 hands; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆◆ (manipular)
 
-Concentrated sap of stinging weeds makes an effective toxin.
+El veneno de ciempiés gigante provoca rigidez muscular severa y fatiga general.
 
-**Saving Throw** DC 27 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** 3d6 poison damage (1 minute); **Stage 2** 4d6 poison damage (1 minute); **Stage 3** 6d6 poison damage (1 minute)
-
----
-
-### Slumber Wine · Item 12
-
-**Traits:** Alchemical, Consumable, Ingested, Poison, Sleep
-
-**Price** 325 gp
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-Slumber wine sees its greatest use in matters of social intrigue, where an absence can be more devastating than injury. Characters unconscious from slumber wine can't wake up by any means while the poison lasts, don't need to eat or drink while unconscious in this way, and appear to be recently dead unless an examiner succeeds at a DC 40 Medicine check.
-
-**Saving Throw** DC 32 Fortitude; **Onset** 1 hour; **Maximum Duration** 7 days; **Stage 1** unconscious (1 day); **Stage 2** unconscious (2 days); **Stage 3** unconscious (3 days)
+**TS** CD 17 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 1d4 de daño de veneno (1 asalto); **Etapa 2** 1d4 de daño de veneno y fatigado (1 asalto); **Etapa 3** 1d4 de daño de veneno, torpe 1 y fatigado (1 asalto)
 
 ---
 
-### Spider Root · Item 9
+### Veneno de escorpión gigante · Objeto 6
 
-**Traits:** Alchemical, Consumable, Contact, Poison
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
 
-**Price** 110 gp
+**Precio** 40 mo
 
-**Usage** held in 2 hands; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆◆ (manipular)
 
-A paste made by mashing the fine, threadlike roots of a certain creeper vine, spider root renders a victim clumsy and maladroit.
+El veneno de un escorpión gigante es insoportable y sus efectos son algo debilitantes.
 
-**Saving Throw** DC 28 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** 3d6 poison damage and clumsy 1 (1 minute); **Stage 2** 4d6 poison damage and clumsy 2 (1 minute); **Stage 3** 6d6 poison damage and clumsy 3 (1 minute)
-
----
-
-### Spider Venom · Item 5
-
-**Traits:** Alchemical, Consumable, Injury, Poison
-
-**Price** 25 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆◆ (manipulate)
-
-This spider venom erodes a target's defenses.
-
-**Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and sickened 1 (1 round); **Stage 2** 1d12 poison damage, clumsy 1, and sickened 2 (1 round); **Stage 3** 2d6 poison damage, clumsy 2, and sickened 3 (1 round)
+**TS** CD 22 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 2d6 de daño de veneno y debilitado 1 (1 asalto); **Etapa 2** 2d8 de daño de veneno y debilitado 1 (1 asalto); **Etapa 3** 2d10 de daño de veneno y debilitado 2 (1 asalto)
 
 ---
 
-### Tangle Root Toxin · Item 7
+### Raíz funeraria · Objeto 3
 
-**Traits:** Alchemical, Consumable, Contact, Poison
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
 
-**Price** 55 gp
+**Precio** 10 mo
 
-**Usage** held in 2 hands; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆◆ (manipular)
 
-Tangle root toxin sees use to impede opponents in athletic competitions, in addition to espionage and tracking.
+La savia blanca opaca del arbusto raíz funeraria nubla la mente.
 
-**Saving Throw** DC 26 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** clumsy 1 and –10-foot status penalty to all Speeds (1 minute); **Stage 2** clumsy 2 and –20-foot status penalty to all Speeds (1 minute); **Stage 3** clumsy 3, off-guard, and –30-foot status penalty to all Speeds (1 minute)
-
----
-
-### Tears of Death · Item 20
-
-**Traits:** Alchemical, Consumable, Contact, Poison, Virulent
-
-**Price** 12,000 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-Tears of death are among the most powerful of alchemical poisons, distilled from extracts of five other deadly poisons in just the right ratios.
-
-**Saving Throw** DC 44 Fortitude; **Onset** 1 minute; **Maximum Duration** 10 minutes; **Stage 1** 20d6 poison damage and paralyzed (1 round); **Stage 2** 22d6 poison damage and paralyzed (1 minute); **Stage 3** 24d6 poison damage and paralyzed (1 minute)
+**TS** CD 19 Fortaleza; **Duración máxima** 4 asaltos; **Etapa 1** 1d8 de daño de veneno (1 asalto); **Etapa 2** 1d10 de daño de veneno y estupefacto 1 (1 asalto); **Etapa 3** 2d6 de daño de veneno y estupefacto 2 (1 asalto)
 
 ---
 
-### Wolfsbane · Item 10
+### Cicuta · Objeto 17
 
-**Traits:** Alchemical, Consumable, Ingested, Poison
+**Rasgos:** Alquímico, Consumible, Ingerido, Veneno
 
-**Price** 155 gp
+**Precio** 2.250 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-Wolfsbane appears in folklore for its link to werecreatures. If you are afflicted with the curse of a werecreature and survive stage 3 of wolfsbane, you're immediately cured of the curse.
+La cicuta concentrada es una toxina particularmente mortal que detiene la acción muscular, incluida la del corazón de la víctima.
 
-**Saving Throw** DC 30 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** 3d10 poison damage (1 minute); **Stage 2** 4d10 poison damage (1 minute); **Stage 3** 5d10 poison damage (1 minute)
-
----
-
-### Wyvern Poison · Item 8
-
-**Traits:** Alchemical, Consumable, Injury, Poison
-
-**Price** 80 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆◆ (manipulate)
-
-Properly harvested, distilled, and preserved, the poison from a wyvern's sting is effective and direct.
-
-**Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage (1 round); **Stage 2** 3d8 poison damage (1 round); **Stage 3** 3d10 poison damage (1 round)
+**TS** CD 38 Fortaleza; **Inicio** 30 minutos; **Duración máxima** 60 minutos; **Etapa 1** 16d6 de daño de veneno y debilitado 2 (10 minutos); **Etapa 2** 17d6 de daño de veneno y debilitado 3 (10 minutos); **Etapa 3** 18d6 de daño de veneno y debilitado 4 (10 minutos)
 
 ---
 
-## Alchemical Tools
+### Sueño del rey · Objeto 18
 
-Alchemical tools are consumable items you don't drink.
+**Rasgos:** Alquímico, Consumible, Ingerido, Veneno, Virulento
 
----
+**Precio** 4.000 mo
 
-### Absolute Solvent · Item 5+
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Traits:** Alchemical, Consumable
+**Activar** ◆ (manipular)
 
-**Usage** held in 1 hand; **Bulk** L
+El sueño del rey es un veneno insidioso de larga duración que puede parecer una enfermedad o incluso muerte por causas naturales en un objetivo venerable. La condición drenado del sueño del rey es acumulativa con cada salvación fallida y no puede eliminarse mientras dure el veneno.
 
-**Activate** ◆ (manipulate)
-
-Originally formulated as a means of dissolving everlasting adhesive, this powerful solvent can break almost any adhesive's grip. As absolute solvent is particularly effective against everlasting adhesive, it automatically dissolves everlasting adhesive. It attempts to counteract (Player Core 431) any other adhesives, such as glue bombs, with a counteract modifier depending on the type.
-
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 5 | 21 gp | 3rd-rank, +9 counteract modifier |
-| Moderate | 12 | 325 gp | 6th-rank, +19 counteract modifier |
-| Greater | 18 | 3,250 gp | 9th-rank, +28 counteract modifier |
+**TS** CD 41 Fortaleza; **Inicio** 1 día; **Etapa 1** drenado 1 (1 día); **Etapa 2** drenado 1 (1 día); **Etapa 3** drenado 2 (1 día)
 
 ---
 
-### Everlasting Adhesive · Item 7
+### Pierna de plomo · Objeto 4
 
-**Traits:** Alchemical, Consumable
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
 
-**Price** 55 gp
+**Precio** 15 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** 1 minute (manipulate)
+**Activar** ◆◆ (manipular)
 
-This peculiar amber adhesive bonds two surfaces together almost inseparably. A single flask covers an area up to 1 square foot and must be used all at once to form a single bond between two surfaces. If the activation is interrupted, the bond fails, and the adhesive is wasted.
+Una vez inyectada, esta toxina sintética se hunde en las extremidades, entumeciéndolas casi hasta la parálisis.
 
-Once two surfaces are joined with everlasting adhesive, a creature can separate them only with a successful DC 50 Athletics check. The adhered objects tend to break before the adhesive does unless they're particularly durable, though a creature determined to separate the objects can break off the parts connected by the everlasting adhesive and later Repair the objects.
-
-The adhesive can affect creatures only if they're willing, and its bond can be broken by exfoliating the outermost layer of skin.
+**TS** CD 20 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 1d10 de daño de veneno y penalizador de estado de –5 pies a todas las Velocidades (1 asalto); **Etapa 2** 2d6 de daño de veneno y penalizador de estado de –10 pies a todas las Velocidades (1 asalto); **Etapa 3** 2d6 de daño de veneno y penalizador de estado de –20 pies a todas las Velocidades (1 asalto)
 
 ---
 
-### Forensic Dye · Item 1
+### Veneno de letargo · Objeto 2
 
-**Traits:** Alchemical, Consumable
+**Rasgos:** Poco común, Alquímico, Consumible, Incapacitación, Herida, Veneno, Sueño
 
-**Price** 3 gp
+**Precio** 7 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆◆ (manipular)
 
-Activating this vial of colorless liquid requires inserting a small amount of another chemical or material, such as blood or mud. The vial reacts rapidly, transforming into a murky, reddish-brown substance for a brief moment before turning clear once more.
+El veneno de letargo se utiliza comúnmente en tácticas de golpear y huir por atacantes que quieren a sus víctimas con vida; el emboscador se retira hasta que el veneno surte efecto y la víctima queda inconsciente. Una exposición adicional al veneno de letargo no requiere que el objetivo intente tiradas de salvación adicionales; solo fallar una tirada de salvación contra una exposición en curso puede progresar su etapa.
 
-Once activated, the dye remains potent for up to 10 minutes, during which time you can spend 1 minute to brush it onto a single object of up to 1 Bulk or across the ground in a single 5-foot square. Where the dye comes in contact with an exact match for the activating chemical, it takes on a bright blue hue while staying transparent in areas with no activating component present.
-
----
-
-### Ghost Ink · Item 1
-
-**Traits:** Alchemical, Consumable
-
-**Price** 3 gp
-
-**Usage** held in 1 hand; **Bulk** L
-
-**Activate** 10 minutes (manipulate)
-
-This pale-blue ink dries rapidly, becoming fully transparent 1 minute after application. The ink glows red when exposed to heat, such as that from a torch or other open flame. This glow lasts only as long as the ink is exposed to heat, after which the ink becomes invisible again. The crafter of the ghost ink can alter the formula slightly to instead make the ink sensitive to sunlight, starlight, magical light, or heatless light created by an alchemical effect, such as a glow rod.
-
-While the text isn't glowing, a creature closely examining a surface marked with ghost ink can detect the presence of the ink with a successful DC 25 Perception check. On a critical success, they can make out the ink well enough to use Society to Decipher Writing. One vial of ghost ink is sufficient to write a page worth of text.
+**TS** CD 18 Fortaleza; **Duración máxima** 4 horas; **Etapa 1** ralentizado 1 (1 asalto); **Etapa 2** ralentizado 1 (1 minuto); **Etapa 3** inconsciente sin prueba de Percepción para despertar (1 asalto); **Etapa 4** inconsciente sin prueba de Percepción para despertar (1d4 horas)
 
 ---
 
-### Glow Rod · Item 1
+### Niebla mente-nublada · Objeto 15
 
-**Traits:** Alchemical, Consumable, Light
+**Rasgos:** Alquímico, Consumible, Inhalado, Veneno
 
-**Price** 3 gp
+**Precio** 1.000 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-This 1-foot-long, gold-tipped rod glows after it's struck on a hard surface. For the next 6 hours, it sheds bright light in a 20-foot radius (and dim light to the next 40 feet).
+La niebla mente-nublada puede usarse para debilitar a los lanzadores de conjuros, ya que sus efectos sobre las facultades mentales de la víctima son rápidos y poderosos.
 
----
-
-### Matchstick · Item 1
-
-**Traits:** Alchemical, Consumable, Fire
-
-**Price** 2 sp
-
-**Usage** held in 1 hand; **Bulk** —
-
-**Activate** ◆ (manipulate)
-
-An alchemical substance applied to one end of this tiny wooden stick ignites when struck against a rough surface. Creating a flame with a matchstick is much faster than creating a flame with flint and steel. You can ignite it and touch it to a flammable object as part of the same Interact action. A matchstick remains lit for 1 round, after which it's consumed and extinguished.
+**TS** CD 35 Fortaleza; **Inicio** 1 asalto; **Duración máxima** 6 asaltos; **Etapa 1** estupefacto 2 (1 asalto); **Etapa 2** confundido y estupefacto 3 (1 asalto); **Etapa 3** confundido y estupefacto 4 (1 asalto)
 
 ---
 
-### Philosopher's Stone · Item 20
+### Sombra del Nexo · Objeto 10
 
-**Traits:** Uncommon, Alchemical, Consumable
+**Rasgos:** Alquímico, Consumible, Herida, Veneno, Vacío
 
-**Price** —
+**Precio** 160 mo
 
-**Usage** held in 2 hands; **Bulk** 2
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate) or 1 or more days; see below
+**Activar** ◆◆ (manipular)
 
-An alchemist with the Craft Philosopher's Stone feat adds the formula for this item to their formula book. This allows them to create a philosopher's stone once per month during their daily preparations using advanced alchemy. Unlike other items created with advanced alchemy, the philosopher's stone remains potent for 1 month or until the alchemist creates a new one. This is the only way to create a philosopher's stone.
+Destilada del Inframundo, esta sustancia aceitosa impone efectos tenebrosos. La condición debilitado de la sombra del Nexo dura 24 horas.
 
-At a glance, a philosopher's stone appears to be an ordinary, sooty piece of natural rock. Breaking the rock open with a Force Open action (DC 35) reveals a cavity at the stone's heart. The cavity is lined with a rare type of quicksilver that can transmute base metals into precious metals or create an elixir of rejuvenation.
-
-To use the quicksilver, you must be legendary in Crafting and have the Alchemical Crafting feat. You can then use the stone's quicksilver for one of two effects:
-- You can apply the stone's quicksilver to an infused true elixir of life using an Interact action. This turns the elixir into an infused elixir of rejuvenation instantaneously. This doesn't require any crafting time or additional materials.
-- You can spend up to a month of downtime applying the quicksilver either to iron to create silver or to lead to create gold. Treat this as a 20th-level task to Earn Income using Crafting, except that you create 500 gp worth of your chosen metal per day on a success or 750 gp worth per day on a critical success.
+**TS** CD 29 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 2d6 de daño de vacío y 2d6 de daño de veneno (1 asalto); **Etapa 2** 3d6 de daño de vacío, 2d6 de daño de veneno y debilitado 1 (1 asalto); **Etapa 3** 3d6 de daño de vacío, 3d6 de daño de veneno y debilitado 2 (1 asalto)
 
 ---
 
-### Silver Salve · Item 2
+### Residuo de ortiga · Objeto 8
 
-**Traits:** Alchemical, Consumable
+**Rasgos:** Alquímico, Consumible, Contacto, Veneno
 
-**Price** 6 gp
+**Precio** 75 mo
 
-**Usage** held in 2 hands; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-You can slather this silvery paste onto one melee or ranged weapon, or 10 pieces of ammunition. Silver salve spoils quickly, so you must use a vial all at once. For the next hour, the weapon or ammunition counts as silver instead of its normal precious material (such as cold iron) for any physical damage it deals.
+La savia concentrada de malezas urticantes constituye una toxina eficaz.
 
----
-
-### Skinstitch Salve · Item 7
-
-**Traits:** Alchemical, Consumable, Healing
-
-**Price** 55 gp
-
-**Usage** held in 1 hand; **Bulk** L
-
-This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.
-
-**Activate—Administer Stitch** ◆ (manipulate); **Effect** You Administer First Aid without requiring healer's tools. You can either gain a +2 item bonus to the Medicine check or use the salve's Medicine modifier of +13 instead of your own.
-
-**Activate—Stitch Wounds** ◇ (manipulate); **Trigger** You Treat Wounds or use Battle Medicine; **Effect** You gain a +2 item bonus to the triggering Medicine check. If you roll a success on the Medicine check, you get a critical success instead.
+**TS** CD 27 Fortaleza; **Inicio** 1 minuto; **Duración máxima** 6 minutos; **Etapa 1** 3d6 de daño de veneno (1 minuto); **Etapa 2** 4d6 de daño de veneno (1 minuto); **Etapa 3** 6d6 de daño de veneno (1 minuto)
 
 ---
 
-### Smoke Ball · Item 1+
+### Vino del sueño · Objeto 12
 
-**Traits:** Alchemical, Consumable
+**Rasgos:** Alquímico, Consumible, Ingerido, Veneno, Sueño
 
-**Usage** held in 2 hands; **Bulk** L
+**Precio** 325 mo
 
-**Activate** ◆ (manipulate)
+**Uso** sostenido en 1 mano; **Volumen** L
 
-With a sharp twist of this item, you instantly create a screen of thick, opaque smoke in a burst centered on one corner of your space. All creatures within that area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
+**Activar** ◆ (manipular)
 
-| Type | Level | Price | Effect |
-|------|-------|-------|--------|
-| Lesser | 1 | 3 gp | 5-foot radius burst |
-| Greater | 7 | 53 gp | 20-foot radius burst |
+El vino del sueño se usa principalmente en asuntos de intriga social, donde una ausencia puede ser más devastadora que una herida. Los personajes inconscientes por el vino del sueño no pueden despertar por ningún medio mientras dure el veneno, no necesitan comer ni beber mientras estén inconscientes de este modo y parecen estar recientemente muertos a menos que un examinador tenga éxito en una prueba de Medicina CD 40.
 
----
-
-### Snake Oil · Item 1
-
-**Traits:** Alchemical, Consumable
-
-**Price** 2 gp
-
-**Usage** held in 2 hands; **Bulk** L
-
-**Activate** ◆ (manipulate)
-
-You can apply snake oil on a wound or other outward symptom of an affliction or condition (such as sores from a disease or discoloration from a poison). For the next hour, the symptom disappears, and the wounded or afflicted creature doesn't feel as if it still has the wound or affliction, though all effects remain. A creature can uncover the ruse by succeeding at a DC 17 Perception check, but only if it uses a Seek action to specifically examine the snake oil's effects.
+**TS** CD 32 Fortaleza; **Inicio** 1 hora; **Duración máxima** 7 días; **Etapa 1** inconsciente (1 día); **Etapa 2** inconsciente (2 días); **Etapa 3** inconsciente (3 días)
 
 ---
 
-### Timeless Salts · Item 4
+### Raíz de araña · Objeto 9
 
-**Traits:** Alchemical, Consumable
+**Rasgos:** Alquímico, Consumible, Contacto, Veneno
 
-**Price** 14 gp
+**Precio** 110 mo
 
-**Usage** held in 1 hand; **Bulk** L
+**Uso** sostenido en 2 manos; **Volumen** L
 
-**Activate** ◆ (manipulate)
+**Activar** ◆ (manipular)
 
-You sprinkle these salts onto a single object up to 10 cubic feet in volume and no more than 40 Bulk to preserve it for 1 week. The object doesn't decay, and effects that require the object to be fresh don't count the time passing during this duration as having elapsed. When sprinkled on a corpse, this extends the period in which a creature can be revived by magic as well as the wait time required before a corpse can be targeted again with talking corpse. The salts prevent ordinary pests from consuming the target (such as maggots for a corpse or moths for a piece of clothing). Any creature can use an Interact action to disperse the salts from an unattended object and end this effect.
+Una pasta hecha machacando las finas raíces filiformes de cierta enredadera, la raíz de araña vuelve torpe y torpón a la víctima.
+
+**TS** CD 28 Fortaleza; **Inicio** 1 minuto; **Duración máxima** 6 minutos; **Etapa 1** 3d6 de daño de veneno y torpe 1 (1 minuto); **Etapa 2** 4d6 de daño de veneno y torpe 2 (1 minuto); **Etapa 3** 6d6 de daño de veneno y torpe 3 (1 minuto)
+
+---
+
+### Veneno de araña · Objeto 5
+
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
+
+**Precio** 25 mo
+
+**Uso** sostenido en 2 manos; **Volumen** L
+
+**Activar** ◆◆ (manipular)
+
+Este veneno de araña erosiona las defensas del objetivo.
+
+**TS** CD 22 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 1d10 de daño de veneno e indispuesto 1 (1 asalto); **Etapa 2** 1d12 de daño de veneno, torpe 1 e indispuesto 2 (1 asalto); **Etapa 3** 2d6 de daño de veneno, torpe 2 e indispuesto 3 (1 asalto)
+
+---
+
+### Toxina de raíz enredada · Objeto 7
+
+**Rasgos:** Alquímico, Consumible, Contacto, Veneno
+
+**Precio** 55 mo
+
+**Uso** sostenido en 2 manos; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+La toxina de raíz enredada se usa para impedir a oponentes en competiciones atléticas, además de en espionaje y rastreo.
+
+**TS** CD 26 Fortaleza; **Inicio** 1 minuto; **Duración máxima** 6 minutos; **Etapa 1** torpe 1 y penalizador de estado de –10 pies a todas las Velocidades (1 minuto); **Etapa 2** torpe 2 y penalizador de estado de –20 pies a todas las Velocidades (1 minuto); **Etapa 3** torpe 3, desprevenido y penalizador de estado de –30 pies a todas las Velocidades (1 minuto)
+
+---
+
+### Lágrimas de la muerte · Objeto 20
+
+**Rasgos:** Alquímico, Consumible, Contacto, Veneno, Virulento
+
+**Precio** 12.000 mo
+
+**Uso** sostenido en 2 manos; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Las lágrimas de la muerte están entre los venenos alquímicos más poderosos, destiladas a partir de extractos de otros cinco venenos mortales en las proporciones adecuadas.
+
+**TS** CD 44 Fortaleza; **Inicio** 1 minuto; **Duración máxima** 10 minutos; **Etapa 1** 20d6 de daño de veneno y paralizado (1 asalto); **Etapa 2** 22d6 de daño de veneno y paralizado (1 minuto); **Etapa 3** 24d6 de daño de veneno y paralizado (1 minuto)
+
+---
+
+### Acónito · Objeto 10
+
+**Rasgos:** Alquímico, Consumible, Ingerido, Veneno
+
+**Precio** 155 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+El acónito aparece en el folclore por su vínculo con las licántropos. Si padeces la maldición de una licántropo y sobrevives a la etapa 3 del acónito, quedas inmediatamente curado de la maldición.
+
+**TS** CD 30 Fortaleza; **Inicio** 10 minutos; **Duración máxima** 6 minutos; **Etapa 1** 3d10 de daño de veneno (1 minuto); **Etapa 2** 4d10 de daño de veneno (1 minuto); **Etapa 3** 5d10 de daño de veneno (1 minuto)
+
+---
+
+### Veneno de guiverno · Objeto 8
+
+**Rasgos:** Alquímico, Consumible, Herida, Veneno
+
+**Precio** 80 mo
+
+**Uso** sostenido en 2 manos; **Volumen** L
+
+**Activar** ◆◆ (manipular)
+
+Debidamente recolectado, destilado y conservado, el veneno del aguijón de una guiverno es eficaz y directo.
+
+**TS** CD 26 Fortaleza; **Duración máxima** 6 asaltos; **Etapa 1** 3d6 de daño de veneno (1 asalto); **Etapa 2** 3d8 de daño de veneno (1 asalto); **Etapa 3** 3d10 de daño de veneno (1 asalto)
+
+---
+
+## Herramientas alquímicas
+
+Las herramientas alquímicas son objetos consumibles que no se beben.
+
+---
+
+### Disolvente absoluto · Objeto 5+
+
+**Rasgos:** Alquímico, Consumible
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Originalmente formulado como un medio para disolver el adhesivo perdurable, este potente disolvente puede romper casi cualquier adhesión. Como el disolvente absoluto es particularmente eficaz contra el adhesivo perdurable, lo disuelve automáticamente. Intenta contrarrestar (Player Core 431) cualquier otro adhesivo, como las bombas de pegamento, con un modificador de contrarrestar según el tipo.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 5 | 21 mo | Grado 3; modificador de contrarrestar +9 |
+| Moderado | 12 | 325 mo | Grado 6; modificador de contrarrestar +19 |
+| Mayor | 18 | 3.250 mo | Grado 9; modificador de contrarrestar +28 |
+
+---
+
+### Adhesivo perdurable · Objeto 7
+
+**Rasgos:** Alquímico, Consumible
+
+**Precio** 55 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** 1 minuto (manipular)
+
+Este peculiar adhesivo ámbar une dos superficies casi inseparablemente. Un solo vial cubre un área de hasta 1 pie cuadrado y debe usarse de una vez para formar una única unión entre dos superficies. Si la activación se interrumpe, la unión falla y el adhesivo se desperdicia.
+
+Una vez que dos superficies se unen con adhesivo perdurable, una criatura puede separarlas solo con una prueba de Atletismo CD 50 exitosa. Los objetos adheridos tienden a romperse antes que el adhesivo, a menos que sean particularmente duraderos; aunque una criatura decidida a separar los objetos puede romper las partes conectadas por el adhesivo perdurable y más tarde Reparar los objetos.
+
+El adhesivo solo puede afectar a criaturas si están dispuestas, y su unión puede romperse exfoliando la capa más externa de la piel.
+
+---
+
+### Tinte forense · Objeto 1
+
+**Rasgos:** Alquímico, Consumible
+
+**Precio** 3 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Activar este vial de líquido incoloro requiere insertar una pequeña cantidad de otro químico o material, como sangre o barro. El vial reacciona rápidamente, transformándose en una sustancia turbia de color marrón rojizo por un breve momento antes de volverse claro nuevamente.
+
+Una vez activado, el tinte permanece potente hasta 10 minutos, tiempo durante el cual puedes gastar 1 minuto para aplicarlo sobre un solo objeto de hasta 1 de Volumen o sobre el suelo en un único cuadrado de 5 pies. Cuando el tinte entra en contacto con una coincidencia exacta del químico activador, adquiere un tono azul brillante mientras permanece transparente en áreas sin el componente activador presente.
+
+---
+
+### Tinta fantasma · Objeto 1
+
+**Rasgos:** Alquímico, Consumible
+
+**Precio** 3 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** 10 minutos (manipular)
+
+Esta tinta azul pálida se seca rápidamente, volviéndose completamente transparente 1 minuto después de la aplicación. La tinta brilla en rojo cuando se expone al calor, como el de una antorcha u otra llama abierta. Este brillo dura solo mientras la tinta está expuesta al calor; luego la tinta vuelve a ser invisible. El creador de la tinta fantasma puede alterar ligeramente la fórmula para que, en su lugar, la tinta sea sensible a la luz solar, la luz de las estrellas, la luz mágica o la luz sin calor creada por un efecto alquímico, como una varilla luminosa.
+
+Mientras el texto no esté brillando, una criatura que examine de cerca una superficie marcada con tinta fantasma puede detectar la presencia de la tinta con una prueba de Percepción CD 25 exitosa. Con un éxito crítico, puede distinguir la tinta lo suficiente como para usar Sociedad para Descifrar Escritura. Un vial de tinta fantasma es suficiente para escribir una página de texto.
+
+---
+
+### Varilla luminosa · Objeto 1
+
+**Rasgos:** Alquímico, Consumible, Luz
+
+**Precio** 3 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Esta varilla de 1 pie de largo, con punta dorada, brilla después de golpearse contra una superficie dura. Durante las próximas 6 horas, emite luz brillante en un radio de 20 pies (y luz tenue en los siguientes 40 pies).
+
+---
+
+### Cerilla · Objeto 1
+
+**Rasgos:** Alquímico, Consumible, Fuego
+
+**Precio** 2 mp
+
+**Uso** sostenido en 1 mano; **Volumen** —
+
+**Activar** ◆ (manipular)
+
+Una sustancia alquímica aplicada a un extremo de este diminuto palo de madera se enciende al frotarse contra una superficie rugosa. Crear una llama con una cerilla es mucho más rápido que hacerlo con pedernal y acero. Puedes encenderla y tocar con ella un objeto inflamable como parte de la misma acción de Interactuar. Una cerilla permanece encendida durante 1 asalto, tras lo cual se consume y se apaga.
+
+---
+
+### Piedra filosofal · Objeto 20
+
+**Rasgos:** Poco común, Alquímico, Consumible
+
+**Precio** —
+
+**Uso** sostenido en 2 manos; **Volumen** 2
+
+**Activar** ◆ (manipular) o 1 o más días; ver más abajo
+
+Un alquimista con la dote Crear piedra filosofal añade la fórmula de este objeto a su libro de fórmulas. Esto le permite crear una piedra filosofal una vez al mes durante sus preparativos diarios usando alquimia avanzada. A diferencia de otros objetos creados con alquimia avanzada, la piedra filosofal permanece potente durante 1 mes o hasta que el alquimista cree una nueva. Esta es la única forma de crear una piedra filosofal.
+
+A primera vista, una piedra filosofal parece ser un trozo ordinario de roca natural ennegrecida por hollín. Romper la roca con una acción Forzar apertura (CD 35) revela una cavidad en el corazón de la piedra. La cavidad está recubierta con un tipo raro de azogue que puede transmutar metales base en metales preciosos o crear un elixir de rejuvenecimiento.
+
+Para usar el azogue, debes ser legendario en Artesanía y tener la dote Artesanía alquímica. Entonces puedes usar el azogue de la piedra para uno de dos efectos:
+- Puedes aplicar el azogue de la piedra a un elixir de vida verdadero infundido usando una acción Interactuar. Esto convierte el elixir en un elixir de rejuvenecimiento infundido instantáneamente. No requiere tiempo de fabricación ni materiales adicionales.
+- Puedes gastar hasta un mes de tiempo de inactividad aplicando el azogue ya sea al hierro para crear plata o al plomo para crear oro. Trátalo como una tarea de nivel 20 para Ganar ingresos usando Artesanía, excepto que creas metal por valor de 500 mo por día con un éxito o 750 mo por día con un éxito crítico.
+
+---
+
+### Ungüento de plata · Objeto 2
+
+**Rasgos:** Alquímico, Consumible
+
+**Precio** 6 mo
+
+**Uso** sostenido en 2 manos; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Puedes untar esta pasta plateada en un arma cuerpo a cuerpo o a distancia, o en 10 piezas de munición. El ungüento de plata se estropea rápidamente, por lo que debes usar un vial de una vez. Durante la próxima hora, el arma o munición cuenta como plata en lugar de su material precioso normal (como hierro frío) para cualquier daño físico que inflija.
+
+---
+
+### Ungüento de sutura · Objeto 7
+
+**Rasgos:** Alquímico, Consumible, Curación
+
+**Precio** 55 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+Este ungüento pegajoso mantiene tercamente cerradas las heridas y fomenta una rápida curación natural. Puedes activar el ungüento de cualquiera de las siguientes maneras.
+
+**Activar—Aplicar sutura** ◆ (manipular); **Efecto** Administras primeros auxilios sin requerir herramientas de sanador. Puedes obtener un bonificador de objeto +2 a la prueba de Medicina o usar el modificador de Medicina del ungüento de +13 en lugar del tuyo.
+
+**Activar—Suturar heridas** ◇ (manipular); **Desencadenante** Tratas heridas o usas Medicina de combate; **Efecto** Obtienes un bonificador de objeto +2 a la prueba de Medicina que lo desencadena. Si obtienes un éxito en la prueba de Medicina, obtienes un éxito crítico en su lugar.
+
+---
+
+### Bola de humo · Objeto 1+
+
+**Rasgos:** Alquímico, Consumible
+
+**Uso** sostenido en 2 manos; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Con un giro brusco de este objeto, creas instantáneamente una pantalla de humo espeso y opaco en una explosión centrada en una esquina de tu espacio. Todas las criaturas dentro de esa área tienen ocultación, y todas las demás criaturas les resultan con ocultación. El humo dura 1 minuto o hasta que sea dispersado por un viento fuerte.
+
+| Tipo | Nivel | Precio | Efecto |
+|------|-------|--------|--------|
+| Menor | 1 | 3 mo | Explosión de radio 5 pies |
+| Mayor | 7 | 53 mo | Explosión de radio 20 pies |
+
+---
+
+### Aceite de serpiente · Objeto 1
+
+**Rasgos:** Alquímico, Consumible
+
+**Precio** 2 mo
+
+**Uso** sostenido en 2 manos; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Puedes aplicar aceite de serpiente sobre una herida u otro síntoma externo de una aflicción o condición (como llagas de una enfermedad o decoloración por un veneno). Durante la próxima hora, el síntoma desaparece y la criatura herida o afligida no siente como si aún tuviera la herida o aflicción, aunque todos los efectos permanecen. Una criatura puede descubrir el engaño con una prueba de Percepción CD 17 exitosa, pero solo si usa una acción Buscar para examinar específicamente los efectos del aceite de serpiente.
+
+---
+
+### Sales atemporales · Objeto 4
+
+**Rasgos:** Alquímico, Consumible
+
+**Precio** 14 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** ◆ (manipular)
+
+Espolvoreas estas sales sobre un solo objeto de hasta 10 pies cúbicos de volumen y no más de 40 de Volumen para preservarlo durante 1 semana. El objeto no se descompone, y los efectos que requieren que el objeto esté fresco no cuentan el tiempo transcurrido durante esta duración como si hubiera pasado. Cuando se espolvorean sobre un cadáver, esto extiende el período en el que una criatura puede ser reanimada por magia, así como el tiempo de espera requerido antes de que se pueda apuntar de nuevo a un cadáver con hablar con cadáver. Las sales evitan que las plagas ordinarias consuman el objetivo (como larvas en un cadáver o polillas en una prenda). Cualquier criatura puede usar una acción Interactuar para dispersar las sales de un objeto desatendido y terminar este efecto.

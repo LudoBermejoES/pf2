@@ -14,12 +14,21 @@ Las dotes generales representan aptitudes diversas que cualquier personaje puede
 ### Ascendencia Adoptada
 **Dote 1** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Estás completamente inmerso en la cultura y las tradiciones de otra ascendencia, ya sea porque nacieras en ella, la obtuvieras mediante un rito de paso o te vincularas con la misma a través de una amistad profunda o un romance. Elige una ascendencia común u otra ascendencia a la que tienes acceso. Puedes seleccionar dotes de la ascendencia elegida, además de la propia de tu personaje, si no requieren ningún rasgo fisiológico del que careces, a determinar por el DJ.
 
 ---
 
 ### Bloqueo con el Escudo ↺
 **Dote 1** · General
+
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+<span class="feat-trait">REACCIÓN</span>
+</div>
 
 **Desencadenante:** Podrías sufrir daño debido a un ataque físico (contundente, perforante o cortante) debido a un ataque cuando tienes el escudo alzado.
 
@@ -30,6 +39,10 @@ Interpones tu escudo para protegerte de un Golpe. El escudo evita que sufras una
 ### Competencia con Armadura
 **Dote 1** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Obtienes el rango entrenado en armadura ligera. Si ya lo estabas, obtienes el rango entrenado en armadura intermedia. Si lo estabas en ambas, obtienes el rango entrenado en armadura pesada. Si eres por lo menos de 13.er nivel, obtienes el rango experto en este tipo de armadura.
 
 **Especial:** Puedes seleccionar esta dote más de una vez. Cada vez obtienes el rango entrenado en el siguiente tipo de armadura de los arriba indicados.
@@ -38,6 +51,10 @@ Obtienes el rango entrenado en armadura ligera. Si ya lo estabas, obtienes el ra
 
 ### Competencia con Armas
 **Dote 1** · General
+
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
 
 Obtienes el rango entrenado en todas las armas marciales. Si ya estabas entrenado en todas las armas marciales, obtienes el rango entrenado en una arma avanzada a tu elección. Si eres por lo menos de 11.º nivel, obtienes también el rango experto en dichas armas.
 
@@ -48,12 +65,20 @@ Obtienes el rango entrenado en todas las armas marciales. Si ya estabas entrenad
 ### Control de la Respiración
 **Dote 1** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Puedes respirar incluso cuando el aire es peligroso o escaso. Puedes contener el aliento 25 veces más de lo normal antes de ahogarte. Obtienes un bonificador +1 por circunstancia a las tiradas de salvación contra las amenazas inhaladas, del tipo venenos que se transmiten por vía aérea y, si consigues un éxito en dicha tirada de salvación, en su lugar obtienes un éxito crítico.
 
 ---
 
 ### Dureza
 **Dote 1** · General
+
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
 
 Tu cuerpo puede resistir más castigo que la mayoría antes de sucumbir. Incrementa tus Puntos de Golpe máximos en una cantidad igual a tu nivel. Reduces en 1 la CD de las pruebas de recuperación.
 
@@ -62,6 +87,10 @@ Tu cuerpo puede resistir más castigo que la mayoría antes de sucumbir. Increme
 ### Duro de Pelar
 **Dote 1** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Matarte resulta más difícil que a la mayoría de personas. Si estás moribundo, mueres a moribundo 5, en lugar de a moribundo 4.
 
 ---
@@ -69,12 +98,20 @@ Matarte resulta más difícil que a la mayoría de personas. Si estás moribundo
 ### Iniciativa Sensacional
 **Dote 1** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Reaccionas más rápidamente que otros. Obtienes un bonificador +2 por circunstancia a las tiradas de iniciativa.
 
 ---
 
 ### Mascota
 **Dote 1** · General
+
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
 
 Tienes una mascota; un animal Menudo de un tipo elegido por ti, como por ejemplo un gato, un pájaro o un roedor. Tiene el rasgo esbirro, lo que significa que obtiene 2 acciones durante tu turno si usas la acción Comandar a un animal para Comandarlo; esto reemplaza los efectos usuales de Comandar a un animal y no hace falta que hagas una prueba de Naturaleza. Una mascota no puede dar Golpes.
 
@@ -108,12 +145,20 @@ Tienes una mascota; un animal Menudo de un tipo elegido por ti, como por ejemplo
 ### Montar
 **Dote 1** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Cuando Comandas a un animal en el que vas montado para que lleve a cabo una acción de movimiento (como por ejemplo, dar una Zancada), tienes éxito automáticamente en lugar de necesitar una prueba. Todo animal en el que vas montado actúa en tu turno, igual que un esbirro. Si Montas un animal en medio de un encuentro, pierde su siguiente turno y a continuación actúa en tu siguiente turno.
 
 ---
 
 ### Paso de Pluma
 **Dote 1** · General
+
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
 
 **Prerrequisitos:** Destreza +2
 
@@ -124,6 +169,10 @@ Das pasos rápidos y cuidadosos. Puedes dar Pasos en terreno difícil.
 ### Perspicacia Astuta
 **Dote 1** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Tu capacidad de evitar ser observado está más allá de la capacidad de la mayoría de personas de tu profesión. Elige entre salvaciones de Fortaleza, de Reflejos, de Voluntad o pruebas de Percepción. Obtienes el rango experto en lo elegido. A 17.º nivel, obtienes el rango maestro.
 
 ---
@@ -131,12 +180,20 @@ Tu capacidad de evitar ser observado está más allá de la capacidad de la mayo
 ### Pies Ligeros
 **Dote 1** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Te mueves más rápidamente a pie. Tu Velocidad se incrementa en 5 pies (1,5 m).
 
 ---
 
 ### Recuperación Rápida
 **Dote 1** · General
+
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
 
 **Prerrequisitos:** Constitución +2
 
@@ -149,6 +206,10 @@ Tu cuerpo se recupera rápidamente de las aflicciones. Recuperas el doble de Pun
 ### Improvisación No Entrenada
 **Dote 3** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Has aprendido a manejar las situaciones cuando te encuentras fuera de lugar. Tu bonificador por competencia para las pruebas de habilidades no entrenadas es igual a la mitad de tu nivel -2. Esto mejora a tu nivel menos uno a 5.º nivel y a tu nivel completo a 7.º nivel. Sin embargo, esto no te permite utilizar las acciones entrenadas de la habilidad.
 
 ---
@@ -156,12 +217,21 @@ Has aprendido a manejar las situaciones cuando te encuentras fuera de lugar. Tu 
 ### Parangón Ancestral
 **Dote 3** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 Ya sea a través del instinto, del estudio o de la magia, notas una conexión más profunda con tu linaje. Obtienes una dote de ascendencia de 1.er nivel.
 
 ---
 
 ### Planificador Presciente
 **Dote 3** · General
+
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+<span class="feat-trait">MANIPULAR</span>
+</div>
 
 **Coste:** El Precio del objeto elegido.
 
@@ -176,6 +246,10 @@ Sueles preparar planes enrevesados y contingencias, utilizando tus recursos para
 ### Búsqueda Expeditiva
 **Dote 7** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 **Prerrequisitos:** Rango maestro en Percepción
 
 Dispones de un sistema que te permite buscar a gran velocidad, encontrando detalles y secretos el doble de rápido que los demás. Cuando Buscas, te cuesta la mitad de lo normal Buscar en una área determinada. Esto significa que cuando exploras, doblas la Velocidad que puedes mover a la vez que te aseguras de que has Buscado en un área antes de ir a la siguiente (hasta la mitad de tu Velocidad).
@@ -187,6 +261,10 @@ Si tienes el rango legendario en Percepción, en su lugar Buscas en una área 4 
 ### Consumible Presciente
 **Dote 7** · General
 
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
+
 **Prerrequisitos:** Planificador presciente
 
 Puedes predecir con antelación los consumibles que podrías necesitar. Cuando utilizas Planificador presciente, puedes sacar un objeto consumible de tu mochila, en lugar de una pieza de equipo de aventurero. El consumible debe ser común, de un nivel no superior a la mitad del tuyo y su Impedimenta debe ser lo suficientemente baja como para que acarrearlo no te deje impedido.
@@ -197,6 +275,10 @@ Puedes predecir con antelación los consumibles que podrías necesitar. Cuando u
 
 ### Investidura Sensacional
 **Dote 11** · General
+
+<div class="feat-traits-header">
+<span class="feat-trait">GENERAL</span>
+</div>
 
 **Prerrequisitos:** Carisma +3
 
