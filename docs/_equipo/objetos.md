@@ -144,9 +144,9 @@ Puedes hacer que un juego de herramientas (como el material de alquimista o el m
 
 | Objeto | Precio | Imp. | Manos |
 |--------|--------|------|-------|
-| Diario de erudito (nivel 3) | 6 po | L | 1 |
+| [Diario de erudito](/equipo/objetos/diario-erudito/) (nivel 3) | 6 po | L | 1 |
 | Compendio de diarios de erudito (nivel 3) | 30 po | L | 2 |
-| Mapa topográfico (nivel 3) | 10 po | L | 1 |
+| [Mapa topográfico](/equipo/objetos/mapa-topografico/) (nivel 3) | 10 po | L | 1 |
 | Atlas topográfico (nivel 3) | 50 po | L | 2 |
 
 ---
