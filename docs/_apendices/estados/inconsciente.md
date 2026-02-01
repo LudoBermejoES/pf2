@@ -7,6 +7,7 @@ category: apéndices
 nav_order: 25
 parent: Estados
 grand_parent: Apéndices
+source: PC1
 ---
 
 Estás dormido o te han noqueado. No puedes actuar. Sufres un penalizador -4 por estatus a la CA, la Percepción y las salvaciones de Reflejos, además de los estados cegado y desprevenido. Cuando sufres este estado, caes tumbado y sueltas los objetos que sostienes, si el efecto no indica lo contrario o el DJ no determina que estás en una posición que no te lo permite.

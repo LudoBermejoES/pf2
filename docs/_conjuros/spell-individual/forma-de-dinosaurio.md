@@ -4,6 +4,7 @@ permalink: /conjuros/forma-de-dinosaurio/
 title: Forma de Dinosaurio
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Forma de Dinosaurio ◆◆ [CONJURO 4]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/zarcillos-macabros/
 title: Zarcillos Macabros
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Zarcillos Macabros ◆◆ [CONJURO 1]
 

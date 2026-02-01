@@ -4,6 +4,7 @@ permalink: /conjuros/detectar-escudrinamiento/
 title: Detectar Escudriñamiento
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Detectar Escudriñamiento ◆◆ [CONJURO 4]
 

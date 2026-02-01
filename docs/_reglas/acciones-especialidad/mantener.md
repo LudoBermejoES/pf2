@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/mantener/
 title: Mantener
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Mantener ◆

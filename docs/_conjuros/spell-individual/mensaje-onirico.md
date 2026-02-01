@@ -4,6 +4,7 @@ permalink: /conjuros/mensaje-onirico/
 title: Mensaje Onirico
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Mensaje Onirico [CONJURO 3]
 

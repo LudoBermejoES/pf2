@@ -4,6 +4,7 @@ permalink: /conjuros/muro-de-piedra/
 title: Muro de Piedra
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Muro de Piedra ◆◆◆ [CONJURO 5]
 

@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 3
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Calistria es una diosa traviesa y mercurial de la atracción que se deleita enganando a otros y que busca venganza contra quienes le faltan al respeto. Aunque la adoración de Calistria esta mas extendida entre los elfos, miembros de otras muchas ascendencias tambien la siguen.

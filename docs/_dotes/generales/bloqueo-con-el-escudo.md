@@ -5,6 +5,7 @@ title: Bloqueo con el Escudo ↺
 chapter: Dotes
 category: dotes
 level: 1
+source: PC1
 ---
 
 **Dote 1** · General

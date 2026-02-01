@@ -4,6 +4,7 @@ permalink: /conjuros/cantico-del-dolor-eterno/
 title: Cantico del Dolor Eterno
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Cantico del Dolor Eterno ◆◆ [CONJURO 8]
 

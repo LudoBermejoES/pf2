@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-infernal/
 title: Convocar Infernal
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Convocar Infernal ◆◆◆ [CONJURO 5]
 

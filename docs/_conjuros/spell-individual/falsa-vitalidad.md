@@ -4,6 +4,7 @@ permalink: /conjuros/falsa-vitalidad/
 title: Falsa Vitalidad
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Falsa Vitalidad ◆◆ [CONJURO 2]
 

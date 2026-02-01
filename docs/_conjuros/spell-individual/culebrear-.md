@@ -4,6 +4,7 @@ permalink: /conjuros/culebrear-/
 title: Culebrear ◆◆/◆◆◆
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Culebrear ◆◆/◆◆◆ [CONJURO 5]
 

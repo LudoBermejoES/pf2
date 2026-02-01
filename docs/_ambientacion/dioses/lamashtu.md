@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 12
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Lamashtu se deleita en la corrupcion de lo que es puro. Los cambios físicos y las pesadillas que dejan sus intervenciones son tratados como regalos por sus seguidores y como terrores desagradables por el mundo exterior. Hay algunos que encuentran alivio o incluso una familia entre los seguidores de Lamashtu debido a la mayor aceptacion de las diferencias que tiene su fe.

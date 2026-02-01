@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 2
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Asmodeo se deleita tentando a los mortales para que se den a la corrupcion. Promueve jerarquias en las que todo el mundo sabe cual es su lugar y se aprovecha del orden en beneficio propio.

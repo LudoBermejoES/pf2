@@ -4,6 +4,7 @@ permalink: /conjuros/caminar-sobre-las-aguas/
 title: Caminar Sobre las Aguas
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Caminar Sobre las Aguas ◆◆ [CONJURO 2]
 

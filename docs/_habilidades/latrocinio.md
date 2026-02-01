@@ -5,6 +5,7 @@ title: Latrocinio (Des)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Estas entrenado en un conjunto de habilidades en particular, típicas de ladrones y de facinerosos.

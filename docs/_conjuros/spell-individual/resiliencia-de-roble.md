@@ -4,6 +4,7 @@ permalink: /conjuros/resiliencia-de-roble/
 title: Resiliencia de Roble
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Resiliencia de Roble ◆◆ [CONJURO 2]
 

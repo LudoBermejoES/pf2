@@ -4,6 +4,7 @@ permalink: /conjuros/tranquilo-descanso/
 title: Tranquilo Descanso
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Tranquilo Descanso ◆◆ [CONJURO 2]
 

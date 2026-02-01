@@ -4,6 +4,7 @@ permalink: /conjuros/uno-con-la-piedra/
 title: Uno con la Piedra
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Uno con la Piedra ◆◆ [CONJURO 3]
 

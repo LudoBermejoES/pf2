@@ -5,6 +5,7 @@ title: Religión (Sab)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Los secretos de los dioses, los dogmas, la fe y los reinos de las criaturas divinas, tanto las sublimes como las siniestras, están abiertos para ti. También comprendes cómo funciona la magia, aunque tu formación imparte un sesgo religioso a dicho conocimiento. Incluso si no estás entrenado en Religión, puedes utilizarla para Recordar conocimiento.

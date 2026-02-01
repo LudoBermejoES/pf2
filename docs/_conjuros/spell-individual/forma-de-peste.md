@@ -4,6 +4,7 @@ permalink: /conjuros/forma-de-peste/
 title: Forma de Peste
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Forma de Peste ◆◆ [CONJURO 8]
 

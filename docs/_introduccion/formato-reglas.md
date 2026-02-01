@@ -5,6 +5,7 @@ title: Formato de las Reglas
 chapter: Introducción
 category: introduccion
 nav_order: 5
+source: PC1
 ---
 
 Las reglas en Pathfinder 2 están presentadas de una manera consistente para facilitar su comprensión y referencia durante el juego.

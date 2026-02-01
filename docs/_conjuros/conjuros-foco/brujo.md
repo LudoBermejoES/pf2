@@ -5,6 +5,7 @@ title: Conjuros de Foco: Brujo
 chapter: Conjuros
 category: conjuros
 nav_order: 6
+source: PC1
 ---
 
 ## Maleficios de Brujo

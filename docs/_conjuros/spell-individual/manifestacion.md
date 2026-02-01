@@ -4,6 +4,7 @@ permalink: /conjuros/manifestacion/
 title: Manifestacion
 chapter: Conjuros
 spell_level: 10
+source: PC1
 ---
 ## Manifestacion ◆◆◆ [CONJURO 10]
 

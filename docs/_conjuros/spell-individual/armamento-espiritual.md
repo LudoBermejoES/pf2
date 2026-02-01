@@ -4,6 +4,7 @@ permalink: /conjuros/armamento-espiritual/
 title: Armamento Espiritual
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Armamento Espiritual ◆◆ [CONJURO 2]
 

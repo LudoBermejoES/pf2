@@ -4,6 +4,7 @@ permalink: /conjuros/aterrizaje-suave-/
 title: Aterrizaje Suave ↺
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Aterrizaje Suave ↺ [CONJURO 1]
 

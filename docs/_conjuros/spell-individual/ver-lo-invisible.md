@@ -4,6 +4,7 @@ permalink: /conjuros/ver-lo-invisible/
 title: Ver lo Invisible
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Ver lo Invisible ◆◆ [CONJURO 2]
 

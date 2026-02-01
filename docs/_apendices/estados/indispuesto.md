@@ -7,6 +7,7 @@ category: apéndices
 nav_order: 27
 parent: Estados
 grand_parent: Apéndices
+source: PC1
 ---
 
 No te encuentras bien. Indispuesto siempre incluye un valor. Sufres un penalizador por estatus igual a dicho valor a todas tus pruebas y CD. No puedes ingerir nada voluntariamente (incluyendo elixires y pociones) mientras estás indispuesto.

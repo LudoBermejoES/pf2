@@ -7,6 +7,7 @@ category: apéndices
 nav_order: 6
 parent: Estados
 grand_parent: Apéndices
+source: PC1
 ---
 
 Has perdido el control de tus sentidos. No puedes actuar. Aturdido suele incluir un valor que indica cuantas acciones en total pierdes, posiblemente a lo largo de turnos multiples, debido a estar aturdido. Cada vez que recuperas acciones, reduce en tu valor de aturdido el numero que recuperas, y después reduce tu valor de aturdido en el numero de acciones perdidas. Por ejemplo, si estabas aturdido 4, perderias tus 3 acciones del turno, lo que te reduciría a aturdido 1; en tu siguiente turno, perderias una acción mas, y después podrías utilizar de forma normal tus 2 acciones restantes. En lugar de ello, aturdido podría tener una duración, como por ejemplo «aturdido durante 1 minuto», lo que te había perder todas tus acciones durante ese tiempo.

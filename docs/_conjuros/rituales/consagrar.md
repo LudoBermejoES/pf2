@@ -5,6 +5,7 @@ title: Consagrar
 chapter: Conjuros
 category: conjuros
 ritual_rank: 2
+source: PC1
 ---
 
 ## Consagrar [RITUAL 2]

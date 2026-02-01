@@ -5,6 +5,7 @@ title: Dotes de Habilidad
 chapter: Dotes
 category: dotes
 nav_order: 2
+source: PC1
 ---
 
 Las dotes de habilidad son dotes generales con el rasgo habilidad. Amplían lo que puedes hacer con las habilidades, otorgándote nuevas capacidades o mejorando las existentes. Las obtienes a niveles específicos de tu clase y tambien puedes seleccionarlas como dotes generales.

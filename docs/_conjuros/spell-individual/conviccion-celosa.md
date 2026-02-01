@@ -4,6 +4,7 @@ permalink: /conjuros/conviccion-celosa/
 title: Conviccion Celosa
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Conviccion Celosa ◆◆ [CONJURO 6]
 

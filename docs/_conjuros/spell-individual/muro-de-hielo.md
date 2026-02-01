@@ -4,6 +4,7 @@ permalink: /conjuros/muro-de-hielo/
 title: Muro de Hielo
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Muro de Hielo ◆◆◆ [CONJURO 5]
 

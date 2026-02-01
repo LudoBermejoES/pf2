@@ -4,6 +4,7 @@ permalink: /conjuros/muro-de-viento/
 title: Muro de Viento
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Muro de Viento ◆◆◆ [CONJURO 3]
 

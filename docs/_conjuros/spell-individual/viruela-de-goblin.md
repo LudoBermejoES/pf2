@@ -4,6 +4,7 @@ permalink: /conjuros/viruela-de-goblin/
 title: Viruela de Goblin
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Viruela de Goblin ◆◆ [CONJURO 1]
 

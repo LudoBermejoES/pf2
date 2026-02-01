@@ -5,6 +5,7 @@ title: Escudos
 chapter: Equipo
 category: equipo
 nav_order: 5
+source: PC1
 ---
 
 Un escudo puede incrementar la defensa de tu personaje más allá de la protección que su armadura le proporciona. El personaje debe estar empuñando un escudo en una mano para poder utilizarlo y sólo le concede su bonificador a la CA si utiliza una acción para Alzar un escudo. Esta acción concede el bonificador por escudo a la CA como un bonificador por circunstancia hasta que empieza su siguiente turno. El penalizador a la Velocidad del escudo se aplica siempre que el personaje lo sostiene, tanto si lo ha alzado como si no.

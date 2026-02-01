@@ -4,6 +4,7 @@ permalink: /conjuros/festin-vampirico/
 title: Festin Vampirico
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Festin Vampirico ◆◆ [CONJURO 3]
 

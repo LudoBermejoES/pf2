@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Leahy
+source: PC1
 ---
 
 Los leshys son espíritus inmortales de la Naturaleza a los que temporalmente se otorga forma fisica. Como guardianes y emisarios del entorno, "nacen" cuando un druida experto u otro maestro de la magia primigenia lleva a cabo un ritual para crear un recipiente adecuado y después un espíritu elige dicho recipiente como hogar temporal. Los leshys son autosuficientes desde el momento en que acaba el ritual, aunque no es raro para ellos mantener vínculos de por vida con sus creadores. Muchos de ellos disfrutan de la oportunidad de interactuar con el mundo fisico. Si bien la mayoría de los espíritus de los leshys son antiguos, raramente recuerdan vidas pasadas y ven su nueva vida como una ocasión de experimentar de nuevo las maravillas del mundo.

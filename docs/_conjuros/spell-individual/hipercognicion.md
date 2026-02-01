@@ -4,6 +4,7 @@ permalink: /conjuros/hipercognicion/
 title: Hipercognicion
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Hipercognicion ◆ [CONJURO 3]
 

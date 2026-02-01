@@ -5,6 +5,7 @@ title: Conjuros de Foco: Druida
 chapter: Conjuros
 category: conjuros
 nav_order: 6
+source: PC1
 ---
 
 Los druidas obtienen conjuros de foco a traves de sus ordenes druídicas. Cada orden representa una conexión diferente con la naturaleza y otorga acceso a conjuros unidos que reflejan esa afinidad. Un druida puede pertenecer a multiples ordenes a medida que avanza, expandiendo su repertorio de conjuros de foco.

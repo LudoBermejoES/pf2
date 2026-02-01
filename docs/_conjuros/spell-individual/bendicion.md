@@ -4,6 +4,7 @@ permalink: /conjuros/bendicion/
 title: Bendición
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Bendicion ◆◆ [CONJURO 1]
 

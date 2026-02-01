@@ -4,6 +4,7 @@ permalink: /conjuros/palacio-planario/
 title: Palacio Planario
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Palacio Planario [CONJURO 7]
 

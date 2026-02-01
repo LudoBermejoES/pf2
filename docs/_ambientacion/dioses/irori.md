@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 11
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Como mortal, Irori alcanzo la autentica iluminación, lo que le permitió liberarse de los grilletes de la mortalidad y alcanzar la divinidad. Como dios, es el Maestro de Maestros, promueve la disciplina y ensena que quien puede dominarse a si mismo encuentra los mayores beneficios que el mundo puede proporcionar.

@@ -4,6 +4,7 @@ permalink: /conjuros/sello/
 title: Sello
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Sello ◆◆ [TRUCO 1]
 

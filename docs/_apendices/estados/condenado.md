@@ -7,6 +7,7 @@ category: apéndices
 nav_order: 8
 parent: Estados
 grand_parent: Apéndices
+source: PC1
 ---
 
 Tu alma ha sido aferrada por una poderosa fuerza que te lleva a las puertas de la muerte. Condenado siempre incluye un valor. El valor de moribundo al que mueres se reduce en la misma cantidad que tu valor de condenado. Si tu valor de moribundo máximo queda reducido a 0, mueres al instante. Cuando mueres, dejas de estar condenado.

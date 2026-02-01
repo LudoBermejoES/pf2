@@ -5,6 +5,7 @@ title: Diplomacia (Car)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Influencias a otros mediante la negociación y la adulación, o buscas información mediante charlas amistosas.

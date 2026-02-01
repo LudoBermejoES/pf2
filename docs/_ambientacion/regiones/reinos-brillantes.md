@@ -4,6 +4,7 @@ permalink: /ambientacion/regiones/reinos-brillantes/
 title: Los Reinos Brillantes
 chapter: Ambientación
 category: ambientacion
+source: PC1
 ---
 
 

@@ -4,6 +4,7 @@ permalink: /conjuros/lanza-divina/
 title: Lanza Divina
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Lanza Divina ◆◆ [TRUCO 1]
 

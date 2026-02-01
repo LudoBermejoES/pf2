@@ -5,6 +5,7 @@ title: Intimidación (Car)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Doblegas a la tuya la voluntad de otros utilizando amenazas. A diferencia del Engaño o de la Diplomacia, la Intimidación es típicamente un instrumento romo, con poco espacio para los matices o la delicadeza.

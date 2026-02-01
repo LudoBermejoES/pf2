@@ -4,6 +4,7 @@ permalink: /conjuros/torrente-hidraulico/
 title: Torrente Hidraulico
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Torrente Hidraulico ◆◆ [CONJURO 4]
 

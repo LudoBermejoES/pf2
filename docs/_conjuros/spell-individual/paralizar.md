@@ -4,6 +4,7 @@ permalink: /conjuros/paralizar/
 title: Paralizar
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Paralizar ◆◆ [CONJURO 3]
 

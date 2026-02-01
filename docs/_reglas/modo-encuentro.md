@@ -5,6 +5,7 @@ title: Modo de Encuentro
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 Cuando cada acción individual cuenta, entras en el modo de juego denominado modo de encuentro. En este modo, el tiempo se divide en asaltos, cada uno de los cuales dura 6 segundos de tiempo en el mundo de juego. En cada asalto, cada participante tiene un turno en un orden establecido. Durante tu turno, puedes usar acciones y, dependiendo de los detalles del encuentro, puedes tener la oportunidad de utilizar reacciones y acciones gratuitas, tanto en tu propio turno como en el turno de algún otro.

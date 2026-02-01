@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 8
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Quien busca la gloria en el campo de batalla reza plegarias a Nuestro Señor del Hierro. Gorum enfatiza el poder, animando a sus seguidores a buscar la guerra y el combate como la forma definitiva de adorarle.

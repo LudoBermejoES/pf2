@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Gnomo
+source: PC1
 ---
 
 Como corresponde a una colección de excéntricos, las herencias para gnomos no vienen a menudo determinadas por la geografía sino por alguna peculiaridad de la magia. Elige una de las siguientes herencias para gnomos a 1.er nivel.

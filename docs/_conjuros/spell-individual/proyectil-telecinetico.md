@@ -4,6 +4,7 @@ permalink: /conjuros/proyectil-telecinetico/
 title: Proyectil Telecinético
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Proyectil Telecinético ◆◆ [TRUCO 1]
 

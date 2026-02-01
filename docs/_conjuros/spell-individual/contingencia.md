@@ -4,6 +4,7 @@ permalink: /conjuros/contingencia/
 title: Contingencia
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Contingencia [CONJURO 7]
 

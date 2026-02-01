@@ -1,49 +1,49 @@
 ---
 layout: page
 permalink: /ascendencias/herencias-versatiles/introduccion/
-title: Herencias Versátiles
+title: Herencias versátiles
 chapter: Ascendencias
 category: ascendencias
-nav_order: 1
+source: PC2
+nav_order: 202
 ---
 
-Golarion alberga una gran variedad de herencias versátiles. Algunas han nacido de criaturas inusuales o surgen de circunstancias específicas mundanas o sobrenaturales. Sin embargo, muchas resultan de una fusión de energía extraplanaria, ya sea a través de un progenitor directo, de antepasados más distantes o simplemente debido a una exposición directa a la quintaesencia de dicho Plano. A dichos individuos se les conoce como **retoños plenarios**.
+# Herencias versátiles
 
-## Cómo funcionan las herencias versátiles
+Las herencias versátiles más comunes con mucha diferencia son las nacidas de la unión de dos ascendencias distintas, como las herencias mixtas aiuvarin y dromaar (Player Core 82). Otras personas nacen bajo circunstancias mucho más extrañas, como tener un progenitor afectado por energías monstruosas, no muertas o extraplanares. Como estas circunstancias no son exclusivas de una sola ascendencia, estas herencias se comparten igualmente entre muchas ascendencias.
 
-Como quiera que las circunstancias que dan origen a las herencias versátiles no están limitadas a una sola ascendencia, una herencia versátil puede ser elegida por un personaje de casi cualquier ascendencia. Algunas de ellas son más comunes que otras entre algunas ascendencias, y otras podrían indicar restricciones adicionales específicas a dicha herencia. Tu DJ puede imponer otras restricciones sobre qué ascendencias pueden utilizar una herencia versátil dada, basándose en el relato y el escenario.
+Golarion alberga una gran variedad de herencias versátiles. Algunas nacen de criaturas inusuales o surgen debido a circunstancias mundanas o sobrenaturales específicas. Muchas, sin embargo, resultan de una infusión de energía extraplanar, ya sea por progenitores directos, ancestros más lejanos o simplemente por exposición directa a la quintaesencia de ese plano. A estos individuos se les conoce como vástagos planares.
 
-## Las posibilidades son ilimitadas
+Debido a que las circunstancias que dan lugar a las herencias versátiles no se limitan a una única ascendencia, una herencia versátil puede ser elegida por un personaje de casi cualquier ascendencia. Algunas herencias versátiles son más comunes entre ciertas ascendencias que entre otras, y algunas pueden indicar restricciones adicionales específicas de esa herencia. Tu DJ puede imponer otras restricciones sobre qué ascendencias pueden usar una herencia versátil dada según la historia y el entorno.
 
-Aunque un personaje sólo puede tener una herencia y una dote de linaje, las posibles permutaciones del bagaje y del árbol genealógico de un personaje son virtualmente ilimitadas. Un personaje aiuvarin podría tener un pariente changeling cuya naturaleza es visible en la coloración de sus ojos, incluso si no tienes acceso a dotes de ascendencia de changeling, y un enano nacido del foso podría muy bien tener un antepasado con influencias feéricas en su linaje.
+## Jugar una herencia versátil
 
-## Cómo interpretar una herencia versátil
+Para jugar un personaje con una herencia versátil, primero selecciona tu ascendencia, como harías con cualquier personaje. Obtienes Puntos de Golpe, Tamaño, Velocidad, mejoras y defectos de atributo, idiomas, rasgos y otras habilidades de esa ascendencia. Luego, en lugar de elegir una herencia de las normalmente disponibles para esa ascendencia, aplica tu herencia versátil elegida. Obtienes todas las características de tu herencia versátil, algunas de las cuales pueden modificar o reemplazar estadísticas, habilidades o rasgos de tu ascendencia.
 
-Para jugar con un personaje que tiene una herencia versátil:
+Como una herencia versátil es una herencia, solo puedes tener una, y no puedes tener ninguna otra herencia además de tu herencia versátil.
 
-1. **Primero** selecciona su ascendencia, igual que harías con cualquier personaje
-2. Obtienes Puntos de Golpe, tamaño, Velocidad, mejoras de atributo y defectos de atributo, idiomas, rasgos y otras aptitudes de dicha ascendencia
-3. **A continuación**, en lugar de elegir una herencia de las normalmente disponibles para dicha ascendencia, aplica la herencia versátil elegida
-4. Obtienes todos los rasgos de tu herencia versátil, algunos de los cuales podrían modificar o reemplazar estadísticas, aptitudes o rasgos de tu ascendencia
+A veces, una herencia versátil puede darte una habilidad que entre en conflicto con una habilidad de tu ascendencia. En estos casos, eliges cuál de las habilidades en conflicto tiene tu personaje.
 
-> Como quiera que una herencia versátil es una herencia, sólo puedes tener una y no puedes tener ninguna otra además de esta.
-
-A veces una herencia versátil podría concederte una aptitud que entra en conflicto con otra de tu ascendencia. En dichos casos, tú eliges de cuál de las aptitudes en conflicto dispone tu personaje.
-
-Al seleccionar dotes de ascendencia, puedes elegir de entre las disponibles para tu ascendencia así como de entre las específicas para tu herencia versátil.
+Al seleccionar dotes de ascendencia, puedes elegir entre las disponibles para tu ascendencia, así como las específicas de tu herencia versátil.
 
 ## Dotes de linaje
 
-Algunas dotes de ascendencia con una herencia versátil tienen el rasgo **linaje**. Dichas dotes especifican un linaje fisiológico del que dispone tu personaje, como por ejemplo el tipo de saga que dio a luz a un personaje changeling o el tipo de ser extraplanario que influenció el nacimiento de un nefilim.
+Algunas dotes de ascendencia dentro de una herencia versátil tienen el rasgo de linaje. Estas dotes especifican un linaje fisiológico que tiene tu personaje—como el tipo de vampiro que engendró a un personaje dhampiro, o el tipo de dragón que influyó en el nacimiento de una sangre dracónica. Solo puedes tener una dote de linaje; puedes seleccionar una dote de este tipo solo a nivel 1 y no puedes reentrenar dentro o fuera de esta dote.
 
-**Importante:** Tan solo obtienes una dote de linaje; sólo puedes seleccionar semejante dote a 1.er nivel y no puedes reconvertir dicha dote en otra ni otra dote en ésta.
+## Interpretar una herencia versátil
+
+Como la mayoría de las herencias versátiles son poco comunes o raras, interpretar un personaje con una herencia versátil generalmente ofrece oportunidades de rol únicas y a veces desafiantes. Los orígenes de la herencia versátil de un personaje ofrecen de inmediato una fuerte oportunidad para crear un trasfondo interesante y convincente para tu personaje.
+
+Mientras que eventos obvios relacionados con el nacimiento de un personaje, como tener progenitores únicos, ofrecen explicaciones para su herencia versátil, esta también puede ser una buena oportunidad para crear una explicación aún más personalizada para la herencia.
+
+Una herencia versátil puede influir no solo en los orígenes de un personaje, sino también en su perspectiva y personalidad. La naturaleza de una herencia versátil hace que un personaje destaque entre la mayoría de culturas y sociedades. En muchos casos, una herencia versátil puede aislar a un personaje. Esto puede manifestarse en desconfianza hacia los orígenes del personaje, una fijación poco saludable con el personaje u otras respuestas desafortunadamente excluyentes por parte de desconocidos.
+
+Por supuesto, los jugadores que prefieran ignorar todas estas oportunidades y desafíos de interpretación también son bienvenidos a hacerlo. Interpretar a un personaje debería ser, en general, una experiencia gratificante y emocionante, y eliminar estos aspectos adicionales es perfectamente razonable.
 
 ## En este libro
 
-Este libro incluye las reglas para tres tipos de herencias versátiles:
+Este libro incluye las reglas para tres herencias versátiles:
 
-| Herencia | Descripción |
-|----------|-------------|
-| **Changeling** | Hijos de las criaturas malignas conocidas como sagas |
-| **Nefilim** | Retoños planarios de celestiales, infernales o monitores |
-| **Ascendencia Mixta** | Aiuvarins (herencia élfica) y Dromaars (herencia orca) |
+- **Dhampir:** Los descendientes mortales de vampiros no muertos están atrapados entre la vida y la no vida, la mortalidad y la inmortalidad, la existencia mundana y la poderosa magia.
+- **Sangre de dragón:** Si bien hay muchas formas en que un mortal puede ser imbuido de poderes dracónicos, las sangres de dragón tienen una afinidad natural inherente.
+- **Caminante del ocaso:** Un caminante del ocaso no nace; en su lugar, es creado, manifestándose cada uno como un niño mortal en un lugar con estrechos vínculos con la muerte.

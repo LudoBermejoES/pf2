@@ -5,6 +5,7 @@ title: Crear Muerto Viviente
 chapter: Conjuros
 category: conjuros
 ritual_rank: 2
+source: PC1
 ---
 
 ## Crear Muerto Viviente [RITUAL 2]

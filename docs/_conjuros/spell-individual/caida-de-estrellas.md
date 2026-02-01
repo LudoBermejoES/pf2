@@ -4,6 +4,7 @@ permalink: /conjuros/caida-de-estrellas/
 title: Caída de Estrellas
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Caída de Estrellas ◆◆ [CONJURO 9]
 

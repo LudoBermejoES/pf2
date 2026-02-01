@@ -7,6 +7,7 @@ category: apéndices
 nav_order: 11
 parent: Estados
 grand_parent: Apéndices
+source: PC1
 ---
 
 Estas sufriendo dano de un efecto continuado, como por ejemplo estar ardiendo. Esto aparece como «X dano persistente [tipo]», donde «X» es la cantidad de dano infligido y «[tipo]» es el tipo de dano. Como el dano normal, se puede doblar o reducir a la mitad basándose en los resultados de una tirada de ataque o tirada de salvación. En lugar de sufrir el dano persistente de inmediato, lo sufres al final de cada uno de tus turnos si tienes el estado, tirando de nuevo cualquier dado de dano cada vez. Después de sufrir dano persistente, haz una prueba plana CD 15 para ver si te recuperas del mismo. Si tienes éxito, el estado se acaba.

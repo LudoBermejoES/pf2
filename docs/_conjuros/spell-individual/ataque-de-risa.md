@@ -4,6 +4,7 @@ permalink: /conjuros/ataque-de-risa/
 title: Ataque de Risa
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Ataque de Risa ◆◆ [CONJURO 2]
 

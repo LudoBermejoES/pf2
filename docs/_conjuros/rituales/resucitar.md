@@ -5,6 +5,7 @@ title: Resucitar
 chapter: Conjuros
 category: conjuros
 ritual_rank: 5
+source: PC1
 ---
 
 ## Resucitar [RITUAL 5]

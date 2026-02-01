@@ -4,6 +4,7 @@ permalink: /conjuros/azote/
 title: Azote
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Azote ◆◆ [DOTE 1]
 

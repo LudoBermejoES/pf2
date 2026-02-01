@@ -4,6 +4,7 @@ permalink: /conjuros/dormir/
 title: Dormir
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Dormir ◆◆ [CONJURO 1]
 

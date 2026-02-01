@@ -4,6 +4,7 @@ permalink: /conjuros/petrificar/
 title: Petrificar
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Petrificar ◆◆ [CONJURO 6]
 

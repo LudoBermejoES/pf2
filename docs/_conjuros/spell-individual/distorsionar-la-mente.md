@@ -4,6 +4,7 @@ permalink: /conjuros/distorsionar-la-mente/
 title: Distorsionar la Mente
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Distorsionar la Mente ◆◆ [CONJURO 7]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/mensajero-animal/
 title: Mensajero Animal
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Mensajero Animal [CONJURO 2]
 

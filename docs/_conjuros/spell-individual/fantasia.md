@@ -4,6 +4,7 @@ permalink: /conjuros/fantasia/
 title: Fantasia
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Fantasia ◆◆ [TRUCO 1]
 

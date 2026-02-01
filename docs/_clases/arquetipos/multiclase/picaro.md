@@ -4,6 +4,7 @@ permalink: /clases/arquetipos/multiclase/picaro/
 title: Arquetipo de Pícaro Multiclase
 chapter: Clases
 category: clases
+source: PC1
 ---
 
 ## Pícaro

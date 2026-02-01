@@ -4,6 +4,7 @@ permalink: /conjuros/observacion-implacable/
 title: Observación Implacable
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Observación Implacable ◆◆ [CONJURO 8]
 

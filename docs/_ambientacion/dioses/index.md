@@ -6,6 +6,7 @@ chapter: Ambientación
 category: ambientacion
 nav_order: 6
 parent: Ambientación
+source: PC1
 ---
 
 Los dioses principales de Golarion representan una variedad de creencias y dominios. Cada uno ofrece bendiciones únicas a sus devotos.

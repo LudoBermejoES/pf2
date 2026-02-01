@@ -4,6 +4,7 @@ permalink: /conjuros/forma-de-insecto/
 title: Forma de Insecto
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Forma de Insecto ◆◆ [CONJURO 3]
 

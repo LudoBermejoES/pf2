@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/huir/
 title: Huir
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Huir ◆

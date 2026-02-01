@@ -4,6 +4,7 @@ permalink: /conjuros/despejar-la-mente/
 title: Despejar la Mente
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Despejar la Mente ◆◆ [CONJURO 2]
 

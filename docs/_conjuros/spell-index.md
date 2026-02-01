@@ -4,6 +4,7 @@ permalink: /conjuros/spell-index/
 title: Índice de conjuros
 chapter: Conjuros
 nav_order: 1
+source: PC1
 ---
 
 Índice alfabético de conjuors

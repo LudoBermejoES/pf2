@@ -4,6 +4,7 @@ permalink: /conjuros/destierro/
 title: Destierro
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Destierro ◆◆ [CONJURO 5]
 

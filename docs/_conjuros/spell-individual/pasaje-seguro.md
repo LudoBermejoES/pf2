@@ -4,6 +4,7 @@ permalink: /conjuros/pasaje-seguro/
 title: Pasaje Seguro
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Pasaje Seguro ◆◆ [CONJURO 5]
 

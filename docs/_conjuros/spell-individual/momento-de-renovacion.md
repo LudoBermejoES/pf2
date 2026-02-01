@@ -4,6 +4,7 @@ permalink: /conjuros/momento-de-renovacion/
 title: Momento de Renovacion
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Momento de Renovacion ◆◆ [CONJURO 8]
 

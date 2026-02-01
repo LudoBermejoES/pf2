@@ -4,6 +4,7 @@ permalink: /conjuros/explosion-solar/
 title: Explosion Solar
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Explosion Solar ◆◆ [CONJURO 7]
 

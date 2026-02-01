@@ -5,6 +5,7 @@ title: Deseo
 chapter: Conjuros
 category: conjuros
 ritual_rank: 10
+source: PC1
 ---
 
 ## Deseo [RITUAL 10]

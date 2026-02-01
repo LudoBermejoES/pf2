@@ -4,6 +4,7 @@ permalink: /conjuros/disipar-magia/
 title: Disipar Magia
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Disipar Magia ◆◆ [CONJURO 2]
 

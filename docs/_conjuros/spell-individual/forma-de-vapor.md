@@ -4,6 +4,7 @@ permalink: /conjuros/forma-de-vapor/
 title: Forma de Vapor
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Forma de Vapor ◆◆ [CONJURO 4]
 

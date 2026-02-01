@@ -4,6 +4,7 @@ permalink: /conjuros/falsa-vision/
 title: Falsa Vision
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Falsa Vision [CONJURO 5]
 

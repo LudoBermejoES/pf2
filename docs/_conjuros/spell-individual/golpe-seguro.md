@@ -4,6 +4,7 @@ permalink: /conjuros/golpe-seguro/
 title: Golpe Seguro
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Golpe Seguro ◆ [CONJURO 1]
 

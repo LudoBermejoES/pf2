@@ -5,6 +5,7 @@ title: Daño
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 El daño y los efectos pueden ser negados, infligir menos daño o infligir más daño debido a la inmunidad, la debilidad o la resistencia del receptor.

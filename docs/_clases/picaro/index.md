@@ -6,6 +6,7 @@ chapter: Clases
 category: clases
 nav_order: 1
 class_name: Pícaro
+source: PC1
 ---
 
 <img src="{{ '/assets/images/clases/picaro.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Pícaro">

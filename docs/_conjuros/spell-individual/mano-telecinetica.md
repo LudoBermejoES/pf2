@@ -4,6 +4,7 @@ permalink: /conjuros/mano-telecinetica/
 title: Mano Telecinetica
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Mano Telecinetica ◆◆ [TRUCO 1]
 

@@ -5,6 +5,7 @@ title: Competencia con Armas
 chapter: Dotes
 category: dotes
 level: 1
+source: PC1
 ---
 
 **Dote 1** · General

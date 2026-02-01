@@ -4,6 +4,7 @@ permalink: /conjuros/curar-/
 title: Curar ◆/◆◆/◆◆◆
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Curar ◆/◆◆/◆◆◆ [CONJURO 1]
 

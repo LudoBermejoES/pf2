@@ -4,6 +4,7 @@ permalink: /conjuros/creacion/
 title: Creación
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Creación [CONJURO 4]
 

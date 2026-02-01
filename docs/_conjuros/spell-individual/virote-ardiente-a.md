@@ -4,6 +4,7 @@ permalink: /conjuros/virote-ardiente-a/
 title: Virote Ardiente ◆ a
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Virote Ardiente ◆ a ◆◆◆ [CONJURO 2]
 

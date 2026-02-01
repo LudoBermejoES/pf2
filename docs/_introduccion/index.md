@@ -6,6 +6,7 @@ description: Capítulo 1 - Introducción a Pathfinder 2ª Edición
 chapter: Introducción
 category: introduccion
 nav_order: 1
+source: PC1
 ---
 
 Pathfinder es un juego de rol (JdR) de fantasía de sobremesa, en el que un grupo de amigos y tú os reunís para relatar una historia de héroes valientes y de villanos astutos, en un mundo lleno de monstruos terroríficos y de tesoros increíbles. Y lo más importante es que Pathfinder es un juego en el que las elecciones de tu personaje determinan cómo se desarrolla el relato.

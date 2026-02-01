@@ -4,6 +4,7 @@ permalink: /conjuros/respirar-fuego/
 title: Respirar Fuego
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Respirar Fuego ◆◆ [CONJURO 1]
 

@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/volar/
 title: Volar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Volar ◆

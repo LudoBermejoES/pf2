@@ -4,6 +4,7 @@ permalink: /conjuros/empujon-hidraulico/
 title: Empujón Hidraulico
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Empujón Hidraulico ◆◆ [CONJURO 1]
 

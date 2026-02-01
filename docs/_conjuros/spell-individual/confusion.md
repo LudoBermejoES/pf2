@@ -4,6 +4,7 @@ permalink: /conjuros/confusion/
 title: Confusion
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Confusion ◆◆ [CONJURO 4]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/nube-toxica/
 title: Nube Tóxica
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Nube Tóxica ◆◆◆ [CONJURO 5]
 

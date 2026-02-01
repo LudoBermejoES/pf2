@@ -4,6 +4,7 @@ permalink: /conjuros/atontar/
 title: Atontar
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Atontar ◆◆ [TRUCO 1]
 

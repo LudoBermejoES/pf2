@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/prestar-ayuda/
 title: Prestar ayuda
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Prestar ayuda ↺

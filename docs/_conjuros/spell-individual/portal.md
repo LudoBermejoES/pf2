@@ -4,6 +4,7 @@ permalink: /conjuros/portal/
 title: Portal
 chapter: Conjuros
 spell_level: 10
+source: PC1
 ---
 ## Portal ◆◆ [CONJURO 10]
 

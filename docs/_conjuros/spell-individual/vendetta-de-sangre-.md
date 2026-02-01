@@ -4,6 +4,7 @@ permalink: /conjuros/vendetta-de-sangre-/
 title: Vendetta de Sangre ↺
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Vendetta de Sangre ↺ [CONJURO 2]
 

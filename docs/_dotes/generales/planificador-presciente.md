@@ -5,6 +5,7 @@ title: Planificador Presciente
 chapter: Dotes
 category: dotes
 level: 7
+source: PC1
 ---
 
 **Dote 3** · General

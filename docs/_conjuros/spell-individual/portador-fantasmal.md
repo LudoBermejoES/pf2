@@ -4,6 +4,7 @@ permalink: /conjuros/portador-fantasmal/
 title: Portador Fantasmal
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Portador Fantasmal ◆◆ [CONJURO 2]
 

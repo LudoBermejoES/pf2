@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 4
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 El Dios Accidental ascendio de la vida mortal en un desafio de borracho. Cayden promueve la libertad y anima a otros a encontrar su propio camino en la vida. Lucha por las causas justas y se deleita en las mejores satisfacciones.

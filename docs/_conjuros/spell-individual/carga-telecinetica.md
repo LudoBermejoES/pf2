@@ -4,6 +4,7 @@ permalink: /conjuros/carga-telecinetica/
 title: Carga Telecinetica
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Carga Telecinetica ◆◆ [CONJURO 5]
 

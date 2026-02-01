@@ -4,6 +4,7 @@ permalink: /clases/arquetipos/multiclase/brujo/
 title: Arquetipo de Brujo Multiclase
 chapter: Clases
 category: clases
+source: PC1
 ---
 
 ## Brujo

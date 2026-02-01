@@ -4,6 +4,7 @@ permalink: /clases/arquetipos/multiclase/bardo/
 title: Arquetipo de Bardo Multiclase
 chapter: Clases
 category: clases
+source: PC1
 ---
 
 ## Bardo

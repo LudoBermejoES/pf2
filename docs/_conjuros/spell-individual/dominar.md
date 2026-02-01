@@ -4,6 +4,7 @@ permalink: /conjuros/dominar/
 title: Dominar
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Dominar ◆◆ [CONJURO 6]
 

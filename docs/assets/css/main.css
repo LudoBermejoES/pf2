@@ -1553,3 +1553,39 @@ tbody tr:last-child td {
   border: 1px solid var(--pf-gold-dark);
   border-radius: 2px;
 }
+
+/* ============================================
+   SOURCE BADGE - PC1/PC2 System
+   ============================================ */
+
+.source-badge {
+  display: inline-block;
+  margin-left: var(--spacing-md);
+  padding: 0.35rem 0.7rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 3px;
+  border: 1px solid;
+  vertical-align: middle;
+  font-family: var(--font-display);
+}
+
+.source-badge.pc1 {
+  background-color: #e3f2fd;
+  color: #1565c0;
+  border-color: #1565c0;
+}
+
+.source-badge.pc2 {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  border-color: #2e7d32;
+}
+
+.source-badge.pc1-pc2 {
+  background-color: #fff3e0;
+  color: #e65100;
+  border-color: #e65100;
+}

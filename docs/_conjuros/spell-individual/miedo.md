@@ -4,6 +4,7 @@ permalink: /conjuros/miedo/
 title: Miedo
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Miedo ◆◆ [CONJURO 1]
 

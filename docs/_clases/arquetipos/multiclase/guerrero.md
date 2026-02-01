@@ -4,6 +4,7 @@ permalink: /clases/arquetipos/multiclase/guerrero/
 title: Arquetipo de Guerrero Multiclase
 chapter: Clases
 category: clases
+source: PC1
 ---
 
 ## Guerrero

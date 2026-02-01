@@ -4,6 +4,7 @@ permalink: /conjuros/campo-de-vida/
 title: Campo de Vida
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Campo de Vida ◆◆ [CONJURO 6]
 

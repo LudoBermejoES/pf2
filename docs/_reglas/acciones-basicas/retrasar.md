@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/retrasar/
 title: Retrasar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Retrasar ◇

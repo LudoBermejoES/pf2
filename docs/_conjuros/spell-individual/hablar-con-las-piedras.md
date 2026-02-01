@@ -4,6 +4,7 @@ permalink: /conjuros/hablar-con-las-piedras/
 title: Hablar con las Piedras
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Hablar con las Piedras ◆◆ [CONJURO 5]
 

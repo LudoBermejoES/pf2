@@ -4,6 +4,7 @@ permalink: /conjuros/ventriloquia/
 title: Ventriloquia
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Ventriloquia ◆◆ [CONJURO 1]
 

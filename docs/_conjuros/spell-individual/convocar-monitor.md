@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-monitor/
 title: Convocar Monitor
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Convocar Monitor ◆◆◆ [CONJURO 5]
 

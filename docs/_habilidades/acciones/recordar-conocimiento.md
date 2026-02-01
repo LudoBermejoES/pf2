@@ -5,6 +5,7 @@ title: Recordar Conocimiento
 chapter: Habilidades
 parent: Acciones de Habilidad Generales
 nav_order: 5
+source: PC1
 ---
 
 ## Recordar Conocimiento (No Entrenado)

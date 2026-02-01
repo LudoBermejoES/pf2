@@ -5,6 +5,7 @@ title: Conjuros
 description: Sistema de magia en Pathfinder 2ª Edición
 chapter: Conjuros
 category: conjuros
+source: PC1
 ---
 
 En este capítulo encontrarás todo lo relacionado con la magia en Pathfinder 2ª Edición, desde conceptos fundamentales hasta listas completas de hechizos organizadas por tradición.

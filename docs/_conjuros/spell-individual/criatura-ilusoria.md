@@ -4,6 +4,7 @@ permalink: /conjuros/criatura-ilusoria/
 title: Criatura Ilusoria
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Criatura Ilusoria ◆◆ [CONJURO 2]
 

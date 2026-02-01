@@ -4,6 +4,7 @@ permalink: /conjuros/traducir/
 title: Traducir
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Traducir ◆◆ [CONJURO 2]
 

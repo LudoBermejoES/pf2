@@ -6,6 +6,7 @@ chapter: Clases
 category: clases
 nav_order: 2
 class_name: Bardo
+source: PC1
 ---
 
 En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de las siguientes. Debes cumplir todos los requisitos antes de seleccionarla.

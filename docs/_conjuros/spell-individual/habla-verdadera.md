@@ -4,6 +4,7 @@ permalink: /conjuros/habla-verdadera/
 title: Habla Verdadera
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Habla Verdadera ◆◆ [CONJURO 5]
 

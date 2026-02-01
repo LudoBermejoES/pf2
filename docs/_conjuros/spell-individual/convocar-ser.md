@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-ser/
 title: Convocar Ser
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Convocar Ser ◆◆◆ [CONJURO 5]
 

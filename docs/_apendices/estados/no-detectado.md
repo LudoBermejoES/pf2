@@ -7,6 +7,7 @@ category: apéndices
 nav_order: 34
 parent: Estados
 grand_parent: Apéndices
+source: PC1
 ---
 
 Cuando no has sido detectado por una criatura, dicha criatura no puede verte, no tiene idea alguna del espacio que ocupas, y no puede designarte como objetivo, aunque sigues pudiendo verte afectado por aptitudes con área de efecto. Cuando no has sido detectado por una criatura, dicha criatura está desprevenida ante ti.

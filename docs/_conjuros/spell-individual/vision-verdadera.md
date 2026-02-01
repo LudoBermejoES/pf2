@@ -4,6 +4,7 @@ permalink: /conjuros/vision-verdadera/
 title: Vision Verdadera
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Vision Verdadera ◆◆ [CONJURO 6]
 

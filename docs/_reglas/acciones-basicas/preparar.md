@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/preparar/
 title: Preparar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Preparar ◆◆

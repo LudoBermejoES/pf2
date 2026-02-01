@@ -4,6 +4,7 @@ permalink: /conjuros/estatus/
 title: Estatus
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Estatus ◆◆ [CONJURO 2]
 

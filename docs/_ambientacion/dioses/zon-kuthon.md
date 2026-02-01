@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 20
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Antiguamente un dios del arte, la belleza y la musica como Shelyn, el Señor de la Medianoche volvio horriblemente cambiado de un viaje por los espacios oscuros entre los Planos. Ahora, Zon-Kuthon ensena los placeres del dolor y la oscuridad.

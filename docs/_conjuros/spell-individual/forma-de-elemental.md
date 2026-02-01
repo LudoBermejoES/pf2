@@ -4,6 +4,7 @@ permalink: /conjuros/forma-de-elemental/
 title: Forma de Elemental
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Forma de Elemental ◆◆ [CONJURO 5]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/forma-animal/
 title: Forma Animal
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Forma Animal ◆◆ [CONJURO 2]
 

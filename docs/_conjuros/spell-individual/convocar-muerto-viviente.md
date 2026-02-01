@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-muerto-viviente/
 title: Convocar Muerto Viviente
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Convocar Muerto Viviente ◆◆◆ [CONJURO 1]
 

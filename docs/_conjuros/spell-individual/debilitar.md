@@ -4,6 +4,7 @@ permalink: /conjuros/debilitar/
 title: Debilitar
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Debilitar ◆◆ [CONJURO 1]
 

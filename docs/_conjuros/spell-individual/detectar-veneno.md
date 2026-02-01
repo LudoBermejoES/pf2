@@ -4,6 +4,7 @@ permalink: /conjuros/detectar-veneno/
 title: Detectar Veneno
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Detectar Veneno ◆◆ [CONJURO 1]
 

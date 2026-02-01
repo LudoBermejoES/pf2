@@ -4,6 +4,7 @@ permalink: /conjuros/ojo-explorador/
 title: Ojo Explorador
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Ojo Explorador [CONJURO 5]
 

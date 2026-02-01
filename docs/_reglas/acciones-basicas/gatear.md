@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/gatear/
 title: Gatear
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Gatear ◆

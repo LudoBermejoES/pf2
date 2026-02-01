@@ -4,6 +4,7 @@ permalink: /conjuros/implosion/
 title: Implosion
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Implosion ◆◆ [CONJURO 9]
 

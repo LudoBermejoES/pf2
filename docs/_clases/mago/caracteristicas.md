@@ -6,6 +6,7 @@ chapter: Clases
 category: clases
 nav_order: 2
 class_name: Mago
+source: PC1
 ---
 
 ## Tabla de Avance del Mago

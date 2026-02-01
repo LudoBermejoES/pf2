@@ -4,6 +4,7 @@ permalink: /conjuros/remendar/
 title: Remendar
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Remendar [CONJURO 1]
 

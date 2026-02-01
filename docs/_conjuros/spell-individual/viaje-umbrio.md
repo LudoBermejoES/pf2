@@ -4,6 +4,7 @@ permalink: /conjuros/viaje-umbrio/
 title: Viaje Umbrio
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Viaje Umbrio [CONJURO 5]
 

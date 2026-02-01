@@ -4,6 +4,7 @@ permalink: /conjuros/sello-planario/
 title: Sello Planario
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Sello Planario ◆◆ [CONJURO 7]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/disfrazar-magia/
 title: Disfrazar Magia
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Disfrazar Magia [CONJURO 1]
 

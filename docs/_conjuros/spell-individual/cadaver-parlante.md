@@ -4,6 +4,7 @@ permalink: /conjuros/cadaver-parlante/
 title: Cadaver Parlante
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Cadaver Parlante [CONJURO 4]
 

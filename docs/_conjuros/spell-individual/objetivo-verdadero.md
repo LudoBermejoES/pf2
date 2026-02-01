@@ -4,6 +4,7 @@ permalink: /conjuros/objetivo-verdadero/
 title: Objetivo Verdadero
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Objetivo Verdadero ◆ [CONJURO 7]
 

@@ -5,6 +5,7 @@ title: Objetos
 chapter: Equipo
 category: equipo
 nav_order: 5
+source: PC1
 ---
 
 Tu personaje necesita todo tipo de objetos cuando explora y en su tiempo libre, que van desde raciones a equipo de escalada pasando por ropas vistosas, dependiendo de la situación.

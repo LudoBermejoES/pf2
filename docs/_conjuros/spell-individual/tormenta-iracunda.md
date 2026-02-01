@@ -4,6 +4,7 @@ permalink: /conjuros/tormenta-iracunda/
 title: Tormenta Iracunda
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Tormenta Iracunda ◆◆◆ [CONJURO 9]
 

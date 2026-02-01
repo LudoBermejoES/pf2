@@ -4,6 +4,7 @@ permalink: /conjuros/cancion-insondable/
 title: Canción Insondable
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Canción Insondable ◆◆ [CONJURO 9]
 

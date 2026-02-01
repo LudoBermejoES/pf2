@@ -4,6 +4,7 @@ permalink: /conjuros/globo-disipador/
 title: Globo Disipador
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Globo Disipador ◆◆ [CONJURO 4]
 

@@ -5,6 +5,7 @@ title: Circulo de Ligadura
 chapter: Conjuros
 category: conjuros
 ritual_rank: 6
+source: PC1
 ---
 
 ## Circulo de Ligadura [RITUAL 6]

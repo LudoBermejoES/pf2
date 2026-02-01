@@ -4,6 +4,7 @@ permalink: /conjuros/presencia-abrumadora/
 title: Presencia Abrumadora
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Presencia Abrumadora ◆◆ [CONJURO 9]
 

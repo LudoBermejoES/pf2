@@ -5,6 +5,7 @@ title: Boleadoras
 chapter: Equipo
 category: equipo
 nav_order: 17
+source: PC1
 ---
 
 Esta arma arrojadiza consiste en dos pesos atados al extremo de unas largas cuerdas, que se pueden usar para golpear a los enemigos o para enredar sus piernas.

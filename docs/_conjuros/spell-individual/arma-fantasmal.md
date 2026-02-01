@@ -4,6 +4,7 @@ permalink: /conjuros/arma-fantasmal/
 title: Arma Fantasmal
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Arma Fantasmal ◆◆ [CONJURO 3]
 

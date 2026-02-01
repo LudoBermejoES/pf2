@@ -5,6 +5,7 @@ title: Puntos de Golpe, Curación y Moribundo
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 Para los aventureros, las heridas y la muerte acechan detrás de cada esquina.

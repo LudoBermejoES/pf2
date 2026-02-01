@@ -4,6 +4,7 @@ permalink: /conjuros/explosion-espiritual/
 title: Explosion Espiritual
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Explosion Espiritual ◆◆ [CONJURO 6]
 

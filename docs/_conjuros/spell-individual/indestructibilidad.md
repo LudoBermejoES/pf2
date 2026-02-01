@@ -4,6 +4,7 @@ permalink: /conjuros/indestructibilidad/
 title: Indestructibilidad
 chapter: Conjuros
 spell_level: 10
+source: PC1
 ---
 ## Indestructibilidad ◆◆ [CONJURO 10]
 

@@ -5,6 +5,7 @@ title: Bastón
 chapter: Equipo
 category: equipo
 nav_order: 12
+source: PC1
 ---
 
 Este largo trozo de madera puede ayudar a caminar y además propinar poderosos golpes.

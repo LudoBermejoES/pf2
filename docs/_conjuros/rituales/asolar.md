@@ -5,6 +5,7 @@ title: Asolar
 chapter: Conjuros
 category: conjuros
 ritual_rank: 4
+source: PC1
 ---
 
 ## Asolar [RITUAL 4]

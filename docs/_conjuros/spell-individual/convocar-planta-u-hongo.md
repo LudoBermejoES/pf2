@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-planta-u-hongo/
 title: Convocar Planta u Hongo
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Convocar Planta u Hongo ◆◆◆ [CONJURO 1]
 

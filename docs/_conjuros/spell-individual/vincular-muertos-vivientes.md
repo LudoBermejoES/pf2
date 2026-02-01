@@ -4,6 +4,7 @@ permalink: /conjuros/vincular-muertos-vivientes/
 title: Vincular Muertos Vivientes
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Vincular Muertos Vivientes ◆◆ [CONJURO 3]
 

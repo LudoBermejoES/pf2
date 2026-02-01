@@ -5,6 +5,7 @@ title: Comunion
 chapter: Conjuros
 category: conjuros
 ritual_rank: 6
+source: PC1
 ---
 
 ## Comunion [RITUAL 6]

@@ -4,6 +4,7 @@ permalink: /conjuros/santuario/
 title: Santuario
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Santuario ◆◆ [CONJURO 1]
 

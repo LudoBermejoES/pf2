@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 18
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Aunque le adoran muchos enanos como el Padre de la Creación, Torag lucha para proteger todas las comunidades en las que es adorado y tambien la siguen quienes valoran la artesanía y la creación.

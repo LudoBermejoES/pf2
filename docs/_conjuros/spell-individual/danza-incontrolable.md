@@ -4,6 +4,7 @@ permalink: /conjuros/danza-incontrolable/
 title: Danza Incontrolable
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Danza Incontrolable ◆◆ [CONJURO 8]
 

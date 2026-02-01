@@ -4,6 +4,7 @@ permalink: /conjuros/mascara-del-terror/
 title: Mascara del Terror
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Mascara del Terror ◆◆ [CONJURO 7]
 

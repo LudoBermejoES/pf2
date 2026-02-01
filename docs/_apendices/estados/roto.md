@@ -7,6 +7,7 @@ category: apéndices
 nav_order: 40
 parent: Estados
 grand_parent: Apéndices
+source: PC1
 ---
 
 Roto es un estado que sólo afecta a los objetos. Un objeto se rompe cuando el daño reduce sus Puntos de Golpe a una cifra igual o menor que su Umbral de rotura. Un objeto roto no se puede utilizar para su función normal, ni concede bonificadores, a excepción de la armadura. Una armadura rota sigue concediendo su bonificados por objeto a la CA, pero también impone un penalizador por estatus a la CA dependiendo de su categoría: -1 para una armadura ligera rota, -2 para una armadura intermedia rota o -3 para una armadura pesada rota.

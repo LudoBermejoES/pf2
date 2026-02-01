@@ -4,6 +4,7 @@ permalink: /conjuros/garra-punzante/
 title: Garra Punzante
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Garra Punzante ◆◆ [TRUCO 1]
 

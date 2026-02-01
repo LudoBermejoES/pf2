@@ -4,6 +4,7 @@ permalink: /conjuros/presa-del-geco/
 title: Presa del Geco
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Presa del Geco ◆◆ [CONJURO 2]
 

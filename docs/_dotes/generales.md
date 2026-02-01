@@ -5,6 +5,7 @@ title: Dotes Generales
 chapter: Dotes
 category: dotes
 nav_order: 1
+source: PC1
 ---
 
 Las dotes generales representan aptitudes diversas que cualquier personaje puede aprender, independientemente de su clase o entrenamiento en habilidades. A diferencia de las dotes de habilidad, no requieren entrenamiento específico en una habilidad particular.

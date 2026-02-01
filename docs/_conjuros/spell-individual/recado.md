@@ -4,6 +4,7 @@ permalink: /conjuros/recado/
 title: Recado
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Recado ◆◆◆ [CONJURO 1]
 

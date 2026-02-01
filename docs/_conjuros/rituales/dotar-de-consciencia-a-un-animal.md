@@ -5,6 +5,7 @@ title: Dotar de Consciencia a un Animal
 chapter: Conjuros
 category: conjuros
 ritual_rank: 6
+source: PC1
 ---
 
 ## Dotar de Consciencia a un Animal [RITUAL 6]

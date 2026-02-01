@@ -4,6 +4,7 @@ permalink: /conjuros/teletransporte/
 title: Teletransporte
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Teletransporte [CONJURO 6]
 

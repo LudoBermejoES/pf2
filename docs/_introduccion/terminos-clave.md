@@ -5,6 +5,7 @@ title: Términos Clave
 chapter: Introducción
 category: introduccion
 nav_order: 3
+source: PC1
 ---
 
 Existe cierta cantidad de términos importantes que necesitas conocer para crear tu primer personaje o tu primera aventura.

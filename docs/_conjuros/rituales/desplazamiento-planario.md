@@ -5,6 +5,7 @@ title: Desplazamiento Planario
 chapter: Conjuros
 category: conjuros
 ritual_rank: 7
+source: PC1
 ---
 
 ## Desplazamiento Planario [RITUAL 7]

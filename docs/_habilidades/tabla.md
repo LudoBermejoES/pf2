@@ -5,6 +5,7 @@ title: Tabla de Habilidades
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 ## Habilidades, Atributos Clave y Acciones

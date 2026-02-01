@@ -5,6 +5,7 @@ title: Subsistir
 chapter: Habilidades
 parent: Acciones de Habilidad Generales
 nav_order: 6
+source: PC1
 ---
 
 ## Subsistir (No Entrenado)

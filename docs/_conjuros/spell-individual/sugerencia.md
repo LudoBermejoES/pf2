@@ -4,6 +4,7 @@ permalink: /conjuros/sugerencia/
 title: Sugerencia
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Sugerencia ◆◆ [CONJURO 4]
 

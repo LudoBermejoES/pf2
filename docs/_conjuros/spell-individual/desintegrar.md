@@ -4,6 +4,7 @@ permalink: /conjuros/desintegrar/
 title: Desintegrar
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Desintegrar ◆◆ [CONJURO 6]
 

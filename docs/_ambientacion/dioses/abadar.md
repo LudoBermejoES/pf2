@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 1
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Abadar busca llevar la civilización a las tierras virgenes del mundo, anima el respeto a la ley y promueve el comercio y el intercambio en el interior de la civilización. Tambien anima a la cooperación entre las diversas ascendencias.

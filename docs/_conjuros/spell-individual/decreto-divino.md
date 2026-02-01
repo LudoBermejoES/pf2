@@ -4,6 +4,7 @@ permalink: /conjuros/decreto-divino/
 title: Decreto Divino
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Decreto Divino ◆◆ [CONJURO 7]
 

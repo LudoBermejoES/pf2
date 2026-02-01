@@ -4,6 +4,7 @@ permalink: /conjuros/escombros-apaleadores/
 title: Escombros Apaleadores
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Escombros Apaleadores ◆◆ [CONJURO 1]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/inmolacion-divina/
 title: Inmolacion Divina
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Inmolacion Divina ◆◆ [CONJURO 5]
 

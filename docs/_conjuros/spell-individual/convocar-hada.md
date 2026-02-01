@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-hada/
 title: Convocar Hada
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Convocar Hada ◆◆◆ [CONJURO 1]
 

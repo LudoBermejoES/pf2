@@ -5,6 +5,7 @@ title: Descifrar Escritura
 chapter: Habilidades
 parent: Acciones de Habilidad Generales
 nav_order: 2
+source: PC1
 ---
 
 ## Descifrar Escritura (Entrenado)

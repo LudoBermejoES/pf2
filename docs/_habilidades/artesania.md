@@ -5,6 +5,7 @@ title: Artesanía (Int)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Puedes utilizar esta habilidad para crear y para reparar objetos. Incluso si no estás entrenado, puedes Recordar conocimiento.

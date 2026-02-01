@@ -4,6 +4,7 @@ permalink: /clases/arquetipos/multiclase/explorador/
 title: Arquetipo de Explorador Multiclase
 chapter: Clases
 category: clases
+source: PC1
 ---
 
 ## Explorador

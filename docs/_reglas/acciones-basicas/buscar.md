@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/buscar/
 title: Buscar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Buscar ◆

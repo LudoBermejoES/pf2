@@ -4,6 +4,7 @@ permalink: /conjuros/cabana-acogedora/
 title: Cabaña Acogedora
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Cabaña Acogedora [CONJURO 3]
 

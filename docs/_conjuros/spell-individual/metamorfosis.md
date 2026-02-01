@@ -4,6 +4,7 @@ permalink: /conjuros/metamorfosis/
 title: Metamorfosis
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Metamorfosis ◆◆ [CONJURO 9]
 

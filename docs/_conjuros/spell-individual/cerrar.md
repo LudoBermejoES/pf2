@@ -4,6 +4,7 @@ permalink: /conjuros/cerrar/
 title: Cerrar
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Cerrar ◆◆ [DOTE 1]
 

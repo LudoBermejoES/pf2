@@ -4,6 +4,7 @@ permalink: /conjuros/explosion-de-eclipse/
 title: Explosion de Eclipse
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Explosion de Eclipse ◆◆ [CONJURO 7]
 

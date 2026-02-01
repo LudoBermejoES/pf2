@@ -7,6 +7,7 @@ category: equipo
 nav_order: 7
 parent: Objetos de asistencia
 grand_parent: Objetos
+source: PC1
 ---
 
 Una silla de ruedas común es ideal para el uso diario pero no está diseñada para actividades movidas. Estas sillas de ruedas son las más comunes entre los no aventureros.

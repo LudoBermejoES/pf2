@@ -5,6 +5,7 @@ title: Arcanos (Int)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Arcanos mide lo que sabes acerca de la magia y de las criaturas arcanas. Incluso si no estás entrenado, puedes Recordar conocimiento.

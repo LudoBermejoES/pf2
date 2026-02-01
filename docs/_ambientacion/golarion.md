@@ -5,6 +5,7 @@ title: Golarion y el Mar Interior
 chapter: Ambientación
 category: ambientacion
 nav_order: 1
+source: PC1
 ---
 
 Las reglas del JdR Pathfinder vienen con su propio escenario de campana por defecto, conocido como Golarion. Golarion es un mundo de magia, extrañas bestias y monstruos, dragones, aventuras en las que se lucha con espadas e incluso algunos elementos de ciencia-ficción y de tecnologia. Extrae su inspiracion de muchas naciones y culturas del mundo real, a la vez que las combina con fantasia para convertirlo en un lugar aparte y unico.

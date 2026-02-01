@@ -5,6 +5,7 @@ title: Puntos Básicos del Juego
 chapter: Introduccion
 category: introduccion
 nav_order: 0
+source: PC1
 ---
 
 ## Como se definen los personajes

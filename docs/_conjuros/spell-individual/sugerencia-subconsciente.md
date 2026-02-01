@@ -4,6 +4,7 @@ permalink: /conjuros/sugerencia-subconsciente/
 title: Sugerencia Subconsciente
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Sugerencia Subconsciente ◆◆ [CONJURO 5]
 

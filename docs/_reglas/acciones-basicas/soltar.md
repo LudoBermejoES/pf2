@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/soltar/
 title: Soltar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Soltar ◇

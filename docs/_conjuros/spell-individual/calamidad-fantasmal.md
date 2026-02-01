@@ -4,6 +4,7 @@ permalink: /conjuros/calamidad-fantasmal/
 title: Calamidad Fantasmal
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Calamidad Fantasmal ◆◆ [CONJURO 6]
 

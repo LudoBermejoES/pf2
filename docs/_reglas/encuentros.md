@@ -5,6 +5,7 @@ title: Encuentros
 chapter: Cómo Jugar
 category: reglas
 nav_order: 0
+source: PC1
 ---
 
 Habra momentos en los que una simple prueba no bastara para resolver un desafio, como cuando unos monstruos se interpongan en el camino. Los encuentros suelen implicar combate, pero tambien persecuciones o esquivar peligros.

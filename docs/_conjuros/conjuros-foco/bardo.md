@@ -5,6 +5,7 @@ title: Conjuros de Foco: Bardo
 chapter: Conjuros
 category: conjuros
 nav_order: 6
+source: PC1
 ---
 
 Los conjuros de foco del bardo se conocen como **composiciones**. Estas poderosas manifestaciones mágicas canalizan el poder de la musa del bardo a través de la música, el canto, la oratoria o la interpretación. Las composiciones pueden ser trucos (que no consumen puntos de foco) o conjuros de foco propiamente dichos. Muchas composiciones afectan a un área de emanación centrada en el bardo, inspirando a los aliados o desmoralizando a los enemigos.

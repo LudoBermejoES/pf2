@@ -4,6 +4,7 @@ permalink: /conjuros/revivir-a-los-muertos/
 title: Revivir a los Muertos
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Revivir a los Muertos [CONJURO 6]
 

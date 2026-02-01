@@ -4,6 +4,7 @@ permalink: /conjuros/vision-en-la-oscuridad/
 title: Vision en la Oscuridad
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Vision en la Oscuridad ◆◆ [CONJURO 2]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/saltar/
 title: Saltar
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Saltar ◆ [CONJURO 1]
 

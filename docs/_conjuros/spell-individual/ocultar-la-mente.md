@@ -4,6 +4,7 @@ permalink: /conjuros/ocultar-la-mente/
 title: Ocultar la Mente
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Ocultar la Mente ◆◆ [CONJURO 8]
 

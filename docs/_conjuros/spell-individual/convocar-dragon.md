@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-dragon/
 title: Convocar Dragon
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Convocar Dragon ◆◆◆ [CONJURO 5]
 

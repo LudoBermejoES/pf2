@@ -5,6 +5,7 @@ title: Capítulo 8: Cómo se juega
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 Antes de sumergirte en cómo se juega a Pathfinder, es importante
 entender los tres modos de juego, que determinan el ritmo de tu

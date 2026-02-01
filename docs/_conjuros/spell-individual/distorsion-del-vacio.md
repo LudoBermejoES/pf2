@@ -4,6 +4,7 @@ permalink: /conjuros/distorsion-del-vacio/
 title: Distorsion del Vacío
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Distorsion del Vacío ◆◆ [TRUCO 1]
 

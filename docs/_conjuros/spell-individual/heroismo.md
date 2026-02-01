@@ -4,6 +4,7 @@ permalink: /conjuros/heroismo/
 title: Heroísmo
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Heroísmo ◆◆ [CONJURO 3]
 

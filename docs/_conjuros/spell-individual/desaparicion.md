@@ -4,6 +4,7 @@ permalink: /conjuros/desaparicion/
 title: Desaparicion
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Desaparicion ◆◆ [CONJURO 8]
 

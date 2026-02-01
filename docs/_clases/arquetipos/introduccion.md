@@ -2,6 +2,7 @@
 layout: redirect
 permalink: /clases/arquetipos/introduccion/
 redirect_to: /clases/arquetipos/
+source: PC1
 ---
 
 Obtienes un arquetipo seleccionando dotes de arquetipo en lugar de dotes normales. En primer lugar, busca el arquetipo que encaja mejor con tu concepto de personaje. A continuación, selecciona la dote de dedicación de dicho arquetipo utilizando una de tus elecciones de dotes de clase. Una vez has adquirido la dote de dedicación, puedes seleccionar cualquier dote de dicho arquetipo, si cumples sus prerrequisitos. La mayoría de dotes de arquetipo se adquieren en lugar de dotes de clase y por lo tanto se llaman **dotes de clase de arquetipo**.

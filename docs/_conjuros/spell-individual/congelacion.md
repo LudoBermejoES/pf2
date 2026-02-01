@@ -4,6 +4,7 @@ permalink: /conjuros/congelacion/
 title: Congelación
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Congelacion ◆◆ [TRUCO 1]
 

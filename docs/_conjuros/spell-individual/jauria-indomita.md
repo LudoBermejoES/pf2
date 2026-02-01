@@ -4,6 +4,7 @@ permalink: /conjuros/jauria-indomita/
 title: Jauria Indomita
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Jauria Indomita ◆◆ [CONJURO 7]
 

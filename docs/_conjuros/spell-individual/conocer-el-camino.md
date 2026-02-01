@@ -4,6 +4,7 @@ permalink: /conjuros/conocer-el-camino/
 title: Conocer el Camino
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Conocer el Camino ◆◆ [TRUCO 1]
 

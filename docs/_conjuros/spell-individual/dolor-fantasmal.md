@@ -4,6 +4,7 @@ permalink: /conjuros/dolor-fantasmal/
 title: Dolor Fantasmal
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Dolor Fantasmal ◆◆ [CONJURO 1]
 

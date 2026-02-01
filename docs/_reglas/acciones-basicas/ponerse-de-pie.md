@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/ponerse-de-pie/
 title: Ponerse de pie
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Ponerse de pie ◆

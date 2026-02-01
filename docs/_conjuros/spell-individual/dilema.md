@@ -4,6 +4,7 @@ permalink: /conjuros/dilema/
 title: Dilema
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Dilema ◆◆ [CONJURO 8]
 

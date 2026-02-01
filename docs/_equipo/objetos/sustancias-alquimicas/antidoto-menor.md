@@ -7,6 +7,7 @@ category: equipo
 nav_order: 3
 parent: Sustancias alquímicas
 grand_parent: Objetos
+source: PC1
 ---
 
 Obtienes un bonificador +2 por objeto a las salvaciones de Fortaleza contra venenos durante 6 horas.

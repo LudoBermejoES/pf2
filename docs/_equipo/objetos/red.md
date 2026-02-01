@@ -5,6 +5,7 @@ title: Red
 chapter: Equipo
 category: equipo
 nav_order: 42
+source: PC1
 ---
 
 Puedes utilizar una red, o bien sola, o bien amarrada a una cuerda. Cuando está amarrada a una cuerda, puedes utilizar la red para Apresar a una criatura Mediana o más pequeña a una distancia de hasta 10 pies (3 m) en lugar de sólo a criaturas adyacentes. La criatura apresada obtiene un bonificador +2 por circunstancia a sus pruebas de Huir si no estás adyacente a ella y puede hacer una prueba de Atletismo CD 16 para Abrir la red por la fuerza.

@@ -4,6 +4,7 @@ permalink: /conjuros/aullidos-de-los-condenados/
 title: Aullidos de los Condenados
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Aullidos de los Condenados ◆◆ [CONJURO 9]
 

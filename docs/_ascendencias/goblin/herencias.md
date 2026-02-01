@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Goblin
+source: PC1
 ---
 
 Los goblins, especialmente los de tribus diferentes, tienen todo tipo de diferencias fisiológicas, que a menudo descubren tan solo mediante "experimentos" peligrosos. Elige una de las siguientes herencias para goblins a 1.er nivel.

@@ -4,6 +4,7 @@ permalink: /conjuros/montura-maravillosa/
 title: Montura Maravillosa
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Montura Maravillosa [CONJURO 2]
 

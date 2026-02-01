@@ -4,6 +4,7 @@ permalink: /conjuros/congelar-el-tiempo/
 title: Congelar el Tiempo
 chapter: Conjuros
 spell_level: 10
+source: PC1
 ---
 ## Congelar el Tiempo ◆◆◆ [CONJURO 10]
 

@@ -5,6 +5,7 @@ title: Geas
 chapter: Conjuros
 category: conjuros
 ritual_rank: 3
+source: PC1
 ---
 
 ## Geas [RITUAL 3]
