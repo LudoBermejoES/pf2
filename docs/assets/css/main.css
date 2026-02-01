@@ -523,11 +523,11 @@ tbody tr:last-child td {
 }
 
 .sidebar-links a:hover {
-  color: var(--pf-gold);
-  background: rgba(201, 162, 39, 0.12);
+  color: #ffffff;
+  background: #0f2818;
   text-decoration: none;
-  border-left-color: var(--pf-gold);
-  padding-left: var(--spacing-lg);
+  border-left-color: transparent;
+  padding-left: var(--spacing-md);
 }
 
 .sidebar-links a.active {
@@ -563,10 +563,10 @@ tbody tr:last-child td {
 }
 
 .sidebar-sublinks a:hover {
-  color: var(--pf-gold);
-  background: rgba(201, 162, 39, 0.08);
+  color: #ffffff;
+  background: #0f2818;
   text-decoration: none;
-  padding-left: var(--spacing-md);
+  padding-left: var(--spacing-sm);
 }
 
 .sidebar-sublinks a.active {
