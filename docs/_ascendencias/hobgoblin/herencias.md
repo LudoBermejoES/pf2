@@ -9,8 +9,6 @@ nav_order: 111
 ancestry: Hobgoblin
 ---
 
-# Herencias para Hobgoblin
-
 Los hobgoblins presentan una amplia gama de diferencias fisiológicas basadas principalmente en su linaje familiar. Elige una de las siguientes herencias de hobgoblin a nivel 1.
 
 ---

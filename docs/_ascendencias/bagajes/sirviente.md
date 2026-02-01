@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Sirviente
-
 **Bagaje**
 
 Desempeñaste un papel de servidumbre, atendiendo a nobles y ganándote su confianza como una de las personas de confianza del hogar. Puede que te marcharas en buenos términos, o quizá conozcas secretos peligrosos sobre tus antiguos empleadores. Sea como sea, aventuras por un cambio y descubres que en este nuevo papel las habilidades que aprendiste ahora te sirven.

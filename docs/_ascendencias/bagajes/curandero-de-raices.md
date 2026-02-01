@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Curandero de raíces
-
 **Bagaje**
 
 Algunas dolencias no pueden curarse solo con hierbas. También aprendiste remedios rituales, invocando a espíritus de la naturaleza para calmar dolores y ahuyentar el mal de ojo. Unirte a aventureros te ha dado compañía en el camino, así como protección frente a quienes te tacharían de impostor—o algo peor.

@@ -9,8 +9,6 @@ nav_order: 151
 ancestry: Ratfolk
 ---
 
-# Herencias ysoki
-
 Los ysoki son originarios de regiones subterráneas, pero son una ascendencia altamente adaptable que se encuentra en casi cualquier entorno. Elige una de las siguientes herencias ysoki en 1.er nivel.
 
 ---

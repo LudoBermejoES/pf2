@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Labrador
-
 **Bagaje**
 
 Con una fuerte espalda y una comprensión de los ciclos estacionales, arabas la tierra y te ocupabas de las cosechas. Tu granja pudo haber sido arrasada por unos invasores, pudiste haber perdido la familia que te vinculaba a la tierra o simplemente te pudiste haber cansado del trabajo, pero en algún momento te convertiste en aventurero.

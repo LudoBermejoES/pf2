@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Combatiente
-
 **Bagaje**
 
 En tus años mozos, te adentraste en la batalla como mercenario, combatiente defendiendo a un pueblo nómada, o miembro de una milicia o ejército. Podrías haber querido apartarte de la estructura regimentada de estas fuerzas o podrías haber sido siempre un combatiente independiente como eres ahora.

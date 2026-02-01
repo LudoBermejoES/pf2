@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Manitas
-
 **Bagaje**
 
 Crear todo tipo de inventos menores sacia tu sed de resolución de problemas. Tus habilidades para la ingeniería tienen una deriva particularmente creativa y nadie es capaz de decir con qué saldrás la próxima vez. Podría tratarse de un artilugio genial con un potencial tremendo… o podría explotar.

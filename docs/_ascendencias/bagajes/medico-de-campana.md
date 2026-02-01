@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Médico de campaña
-
 **Bagaje**
 
 En el caótico ajetreo de la batalla, aprendiste a adaptarte a condiciones rápidamente cambiantes mientras atendías a las bajas. Apañaste a soldados, guardias u otros combatientes y aprendiste bastante acerca de la logística de la guerra.

@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Ermitaño
-
 **Bagaje**
 
 En un lugar aislado, como por ejemplo una cueva, un oasis remoto o una mansión solitaria, llevaste una vida de soledad. Las aventuras podrían representar un alivio temporal a la soledad o un cambio no deseado, pero en cualquier caso, lo más probable es que seas muy poco sofisticado.

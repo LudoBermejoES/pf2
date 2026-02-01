@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Escudero
-
 **Bagaje**
 
 Te formaste a las órdenes de un caballero, manteniendo su equipo y apoyándolo en torneos y en batalla. Ahora buscas un desafío que demuestre que mereces ser nombrado caballero, o has despreciado el boato y la ceremonia para ponerte a prueba en un combate honesto, aunque menos formal.

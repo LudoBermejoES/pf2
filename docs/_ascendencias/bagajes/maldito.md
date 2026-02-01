@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Maldito
-
 **Bagaje**
 
 **Rasgos:** Raro

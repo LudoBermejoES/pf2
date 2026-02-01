@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Minero
-
 **Bagaje**
 
 Te ganabas la vida arrancando minerales preciosos de las profundidades sin luz de la tierra. Las aventuras pueden haberte parecido lucrativas o sofisticadas, comparadas con tan agotadora tarea y, si tienes que volver bajo tierra, esta vez piensas hacerlo provisto de un arma real en lugar de un pico de minero.

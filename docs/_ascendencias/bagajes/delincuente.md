@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Delincuente
-
 **Bagaje**
 
 Como un independiente carente de escrúpulos o como miembro de una organización de los bajos fondos, viviste una vida delictiva. Te podrías haber convertido en aventurero en busca de redención, para huir de la ley o simplemente para tener acceso a más y mejor botín.

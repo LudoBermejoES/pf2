@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Rebuscador
-
 **Bagaje**
 
 Te has ganado la vida rebuscando entre las cosas que la sociedad desecha. Puede que rebuscaras simplemente para sobrevivir, o que ejercieras un oficio como el de traper@, carreter@ de estiércol o similar. Aunque dejaste atrás esa vida, aún mantienes un ojo en el suelo por costumbre.

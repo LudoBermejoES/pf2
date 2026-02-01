@@ -9,8 +9,6 @@ nav_order: 101
 ancestry: Catfolk
 ---
 
-# Herencias para Catfolk
-
 Los catfolk tienen ancestros tan variados como cualquier felino. Elige una de las siguientes herencias de catfolk a nivel 1.
 
 ---

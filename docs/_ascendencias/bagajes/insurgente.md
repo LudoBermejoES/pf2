@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Insurgente
-
 **Bagaje**
 
 Fuiste más que un rebelde; fuiste un revolucionario, luchando por la promesa de un país nuevo o mejor. Puede que aún creas en la causa, o quizá la victoria o el exilio te han llevado a este nuevo camino para pregonar tu gloria... o para escapar de las consecuencias de tu derrota.

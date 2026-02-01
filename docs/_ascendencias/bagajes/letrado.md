@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Letrado
-
 **Bagaje**
 
 Montones de manuales de jurisprudencia, profesores austeros y mucha experiencia en los tribunales te han instruido en los asuntos legales. Eres capaz de organizar una acusación o una defensa en un tribunal y tiendes a estar al día de las leyes locales, puesto que nunca se puede decir cuándo vas a necesitar dicho conocimiento a corto plazo.

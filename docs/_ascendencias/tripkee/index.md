@@ -10,8 +10,6 @@ ancestry: Tripkee
 rarity: uncommon
 ---
 
-# Tripkee
-
 Los tripkee son un pueblo tímido y cauto que en general procura evitar verse involucrado en los asuntos de otros. A pesar de su perspectiva prudente y su pequeña estatura, los tripkee aventureros actúan con audacia y nobleza cuando la situación lo exige.
 
 Los tripkee son supervivientes retraídos de copa de los árboles que cosechan la abundancia de sus hogares, utilizando sus viviendas en el dosel como fortificaciones naturales contra las amenazas de depredadores mayores. Su dependencia del ingenio y de herramientas simples ha llevado a que los tripkee sean a menudo mal caracterizados como rudimentarios, lo cual hace poca justicia a su pericia en cultivar huertos ocultos y pasarelas camufladas escondidas en naciones arbóreas. Es más probable que los tripkee emerjan de sus bosques para comerciar, explorar y combatir amenazas que mancillarían el mundo.

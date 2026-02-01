@@ -9,8 +9,6 @@ nav_order: 122
 ancestry: Kholo
 ---
 
-# Dotes de ascendencia de Kholo
-
 En el 1er nivel, ganas una dote de ascendencia, y ganas una dote de ascendencia adicional cada 4 niveles posteriores (en los niveles 5, 9, 13 y 17). Como kholo, puedes elegir entre las siguientes dotes de ascendencia.
 
 ---

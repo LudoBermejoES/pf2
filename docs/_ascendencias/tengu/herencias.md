@@ -9,8 +9,6 @@ nav_order: 161
 ancestry: Tengu
 ---
 
-# Herencias tengu
-
 Como pueblo fluido dispersado de sus hogares originales, existe una amplia variedad de tengu en Golarion. Elige una de las siguientes herencias tengu en 1.er nivel.
 
 ---

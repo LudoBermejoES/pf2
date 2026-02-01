@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Bandido
-
 **Bagaje**
 
 Tu pasado incluye una cantidad poco desdeñable de bandidaje rural, robando a los viajeros y sobreviviendo por los pelos. Tanto si tus robos eran sancionados por un noble local o lo hiciste por propia iniciativa, acabaste por integrarte en la vida aventurera.

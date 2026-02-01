@@ -9,8 +9,6 @@ nav_order: 141
 ancestry: Lizardfolk
 ---
 
-# Herencias iruxi
-
 Aunque la mayoría de los iruxi prefieren las zonas húmedas, eones de evolución y adaptación cultural les permiten vivir en entornos más desafiantes. Elige una de las siguientes herencias iruxi en 1.er nivel.
 
 ---

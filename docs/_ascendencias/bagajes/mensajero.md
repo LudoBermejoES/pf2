@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Mensajero
-
 **Bagaje**
 
 En tu juventud, ganaste monedas llevando mensajes para personas con riqueza e influencia, atravesando a toda prisa las concurridas calles de la ciudad. Tu tenaz compromiso de entregar tu mensaje fue un buen entrenamiento para la vida de aventurero.

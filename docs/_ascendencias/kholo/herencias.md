@@ -9,8 +9,6 @@ nav_order: 121
 ancestry: Kholo
 ---
 
-# Heritages for Kholo
-
 Kholo physiology can vary greatly across the land. Choose one of the following kholo heritages at 1st level.
 
 ---

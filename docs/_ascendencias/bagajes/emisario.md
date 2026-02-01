@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Emisario
-
 **Bagaje**
 
 Como diplomático o mensajero, has viajado por todas partes. Comunicarte con gente nueva y tejer alianzas eran tus puntos fuertes.

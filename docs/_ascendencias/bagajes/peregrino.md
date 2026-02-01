@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Peregrino
-
 **Bagaje**
 
 En tu juventud, realizaste varias peregrinaciones a importantes santuarios y lugares sagrados. Podrías haber sido un fraile mendicante, un vendedor de reliquias religiosas (reales o fraudulentas), o simplemente un granjero que seguía los dictados de su fe. Sean cuales sean los objetivos de tus andanzas ahora, tu fe aún te protege en el camino.

@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Artista
-
 **Bagaje**
 
 Tu arte es tu mayor pasión, sea cual sea la forma que adopta. Salir de aventuras te podría ayudar a encontrar la inspiración o simplemente ser la forma de sobrevivir hasta que te conviertas en un artista de fama mundial.

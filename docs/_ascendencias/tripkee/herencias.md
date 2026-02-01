@@ -9,8 +9,6 @@ nav_order: 171
 ancestry: Tripkee
 ---
 
-# Herencias tripkee
-
 Elige una de las siguientes herencias tripkee en 1.er nivel.
 
 ---

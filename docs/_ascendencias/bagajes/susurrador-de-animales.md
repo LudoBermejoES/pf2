@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Susurrador de animales
-
 **Bagaje**
 
 Siempre has notado una conexión con los animales y te costó un esfuerzo mínimo aprender a entrenarlos. Cuando viajas, te encuentras continuamente con diferentes criaturas, haciéndote amigo de ellas por el camino.

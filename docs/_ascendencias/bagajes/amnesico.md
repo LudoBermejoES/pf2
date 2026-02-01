@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Amnésico
-
 **Bagaje**
 
 **Rasgos:** Raro

@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Nómada
-
 **Bagaje**
 
 Viajando por todo lo largo y ancho del mundo, has acumulado tácticas básicas para sobrevivir por los caminos y las tierras desconocidas, aprendiendo a subsistir con pocos suministros y aún menos comodidades. Como aventurero, sigues viajando, a menudo a lugares incluso más peligrosos.

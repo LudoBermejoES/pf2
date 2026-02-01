@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Barman
-
 **Bagaje**
 
 Tienes cinco especialidades: levantar barriles, beber, pulir jarras, beber y beber. Trabajabas en un bar, donde aprendiste a resistir el licor y a socializar de forma bulliciosa.

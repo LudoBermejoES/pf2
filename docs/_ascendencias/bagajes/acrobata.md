@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Acróbata
-
 **Bagaje**
 
 En un circo o en las calles, te ganaste el sustento haciendo de acróbata. Podrías haberte decidido por las aventuras cuando se te acabó el dinero o simplemente cuando decidiste dar un uso mejor a tus habilidades.

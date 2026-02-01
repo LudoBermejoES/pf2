@@ -9,8 +9,6 @@ nav_order: 102
 ancestry: Catfolk
 ---
 
-# Dotes de ascendencia para Catfolk
-
 A nivel 1, obtienes una dote de ascendencia, y obtienes una dote de ascendencia adicional cada 4 niveles a partir de entonces (a niveles 5, 9, 13 y 17). Como catfolk, puedes seleccionar entre las siguientes dotes de ascendencia.
 
 ---

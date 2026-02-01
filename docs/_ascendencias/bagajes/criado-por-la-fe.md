@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Criado por la fe
-
 **Bagaje**
 
 Ya fuera en un monasterio, en una familia religiosa o tan sólo como parte de tu vida diaria, tu crianza estuvo impregnada de las tradiciones de un dios en particular. Podrías seguir dedicado a ello o podrías haberte apartado del credo de tu infancia, pero tus habilidades siguen basadas en tu devoción.

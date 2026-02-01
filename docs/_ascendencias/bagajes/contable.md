@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Contable
-
 **Bagaje**
 
 Llevabas las cuentas en una gran granja, para las empresas de un mercader o en un gremio importante de la ciudad. Controlabas gastos, nóminas, beneficios y cualquier otra cosa relacionada con el dinero, para bien o para mal. Si fue para bien, puede que te dediques a aventurar para aprender cómo otros ejercen este oficio. Si fue para mal, quizá huyes de consecuencias inminentes con la esperanza de que nadie te encuentre.

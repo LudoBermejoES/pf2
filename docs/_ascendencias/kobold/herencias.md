@@ -9,8 +9,6 @@ nav_order: 131
 ancestry: Kobold
 ---
 
-# Herencias para Kobold
-
 Orgullosos, oportunistas y astutos, los kobolds manifiestan ciertos aspectos físicos debido a su benefactor. Elige una de las siguientes herencias de kobold a nivel 1.
 
 ---

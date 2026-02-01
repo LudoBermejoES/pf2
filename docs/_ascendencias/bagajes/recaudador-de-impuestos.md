@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Recaudador de impuestos
-
 **Bagaje**
 
 Detestado pero necesario, eras quien se enviaba cuando tocaba pagar impuestos. Realizar tu trabajo podía requerir viajes y persuasión, o quizá eras responsable de cobrar impuestos sobre el comercio. En cualquier caso, a veces significaba ensuciarse las manos, y aventurar te pareció el siguiente paso lógico.

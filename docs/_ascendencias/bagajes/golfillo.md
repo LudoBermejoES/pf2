@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Golfillo
-
 **Bagaje**
 
 Te ganabas (muy poco) la vida vaciando bolsillos en las calles de una gran ciudad, sin saber dónde ibas a encontrar tu siguiente comida. Si bien algunos se van de aventuras en busca de la gloria, tú lo hiciste para sobrevivir.

@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Vinculado al Primer Mundo
-
 **Bagaje**
 
 **Rasgos:** Raro

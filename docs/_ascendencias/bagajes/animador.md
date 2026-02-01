@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Animador
-
 **Bagaje**
 
 Gracias a una educación en las artes o bien debido a la práctica persistente, has aprendido a entretener a las multitudes. Puedes haber sido actor, bailarín, músico, mago callejero o cualquier otro tipo de animador.

@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Jinete explorador
-
 **Bagaje**
 
 En tu juventud, cabalgaste a través de vastas praderas, sirviendo como vanguardia para tu asentamiento, un ejército u otro grupo. Ver tantas tierras diferentes despertó en ti la sed de aventurar y explorar el mundo en lugar de simplemente pasar galopando.

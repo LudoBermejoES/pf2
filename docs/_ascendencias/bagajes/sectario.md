@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Sectario
-
 **Bagaje**
 
 Eras (o sigues siendo) miembro de una secta cuyos ritos podrían implicar danzas sagradas para asegurar una buena cosecha o tremebundos rituales que llaman a los poderes oscuros. Podrías haberte dedicado a las aventuras para hacer avanzar los objetivos de tu secta, para iniciarte en los misterios mayores del mundo o para huir de prácticas o de exigencias poco agradables.

@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Discípulo marcial
-
 **Bagaje**
 
 Te has dedicado a un entrenamiento intenso y a un estudio riguroso para convertirte en un gran guerrero. La escuela a la que asististe pudo haber sido un monasterio tradicionalista, una academia militar de élite o la rama local de una prestigiosa organización mercenaria.

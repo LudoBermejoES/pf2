@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Artesano
-
 **Bagaje**
 
 Como aprendiz, has practicado una forma particular de construir o de fabricar, desarrollando una habilidad especializada. Podrías haber sido un aprendiz de herrero, trabajando en la forja durante muchas horas, un joven sastre cosiendo ropa de todo tipo o un carpintero naval dando forma al casco de los barcos.

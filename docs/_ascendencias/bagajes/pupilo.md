@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Pupilo
-
 **Bagaje**
 
 Cuando eras joven, te convertiste en pupilo de otra casa—alojado, alimentado y educado, pero nunca del todo parte de la familia. Quizá tuviste que atender sus necesidades a cambio de alimentarte y criarte, o quizá se ocuparon de ti pero te ignoraron. Ahora, aventurar es tu oportunidad de crecer y vagar libre.

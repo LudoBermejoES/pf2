@@ -9,8 +9,6 @@ nav_order: 142
 ancestry: Lizardfolk
 ---
 
-# Dotes de ascendencia para iruxi
-
 En 1.er nivel, obtienes una dote de ascendencia, y obtienes una dote de ascendencia adicional cada 4 niveles a partir de entonces (en los niveles 5, 9, 13 y 17). Como iruxi, eliges entre las siguientes dotes de ascendencia.
 
 ---

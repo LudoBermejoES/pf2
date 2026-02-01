@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Refugiado
-
 **Bagaje**
 
 Vienes de una tierra muy distante de aquella en la que ahora te encuentras, empujado por la guerra, la plaga o simplemente en la búsqueda de oportunidades. Independientemente de tu origen o del motivo por el que dejaste tu hogar, te encuentras como forastero en esta nueva tierra. Aventurar es una forma de mantenerte mientras ofreces esperanza a quienes más lo necesitan.

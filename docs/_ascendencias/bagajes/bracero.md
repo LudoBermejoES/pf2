@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Bracero
-
 **Bagaje**
 
 Has pasado años llevando a cabo trabajos físicos arduos. Era una vida difícil, pero de alguna forma sobreviviste. Puedes haber abrazado las aventuras como forma más fácil de abrirte camino o te podrías aventurar a las órdenes de otro.

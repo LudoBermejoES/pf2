@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Batidor
-
 **Bagaje**
 
 Las tierras vírgenes eran tu hogar y en ellas encontrabas senderos por los que guiar a los viajeros. Tu ansia viajera te puede haber llevado a la vida de aventurero, o quizás fueras batidor para un ejército y averiguaste que te gustaba la batalla.

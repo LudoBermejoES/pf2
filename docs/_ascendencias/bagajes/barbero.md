@@ -8,8 +8,6 @@ source: PC2
 parent: Bagajes
 ---
 
-# Barbero
-
 **Bagaje**
 
 Cortes de pelo, odontología, sangrías y cirugía: si requiere una mano firme y una navaja, tú puedes hacerlo. Puede que te echaras a la carretera para ampliar tus habilidades o para ponerte a prueba contra un mundo que deja a tus pacientes tan maltrechos y magullados.

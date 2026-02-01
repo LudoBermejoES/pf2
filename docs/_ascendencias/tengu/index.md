@@ -10,8 +10,6 @@ ancestry: Tengu
 rarity: uncommon
 ---
 
-# Tengu
-
 Los tengu son supervivientes y conversadores, igual de cómodos viviendo de la naturaleza que encontrando su hueco en ciudades densas. Acumulan conocimientos, herramientas y compañeros, añadiéndolos a su colección a medida que viajan.
 
 La diáspora tengu se ha extendido por Golarion en busca de una vida mejor, llevando su habilidad en la forja de hojas a tierras lejanas de su hogar. En regiones marítimas, los tengu trabajan notablemente como pescadores, herreros y “devoradores de mal fario”: miembros de tripulaciones navales que se cree, con acierto o no, que absorben la mala fortuna. Habiendo vivido en una variedad de condiciones y lugares, los tengu tienden a no juzgar, aunque su disposición a asociarse con transgresores de la ley a menudo conduce a que algunos los miren con sospecha.

@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Cazador
-
 **Bagaje**
 
 Has perseguido y abatido animales y otras criaturas de las tierras vírgenes. Despellejar animales, preparar su carne y cocinarla formaron también parte de tu aprendizaje, todo lo cual te puede proporcionar recursos útiles al ir de aventuras.

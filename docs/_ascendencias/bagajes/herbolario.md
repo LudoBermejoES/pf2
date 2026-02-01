@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Herbolario
-
 **Bagaje**
 
 Como boticario formalmente entrenado o practicante rural de la medicina popular, averiguaste las propiedades curativas de las diversas hierbas. Estás acostumbrado a recolectar las curas naturales adecuadas en todo tipo de entorno y prepararlas correctamente.

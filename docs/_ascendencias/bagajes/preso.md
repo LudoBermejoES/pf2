@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Preso
-
 **Bagaje**
 
 Puedes haber estado preso por algún delito (siendo culpable o no). Ahora que tu sentencia ha acabado o has huido, te aprovechas al máximo de la recién estrenada libertad de tu vida como aventurero.

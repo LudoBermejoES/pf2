@@ -8,8 +8,6 @@ source: PC1
 parent: Bagajes
 ---
 
-# Guardia
-
 **Bagaje**
 
 Serviste en la guardia, o bien por patriotismo, o bien por la necesidad de ganarte la vida. De una forma u otra, sabes cómo hacer hablar a un sospechoso difícil. Dejaras la guardia por el motivo que la dejaras, podrías pensar que las aventuras son una forma de utilizar tus habilidades en un escenario mayor.
