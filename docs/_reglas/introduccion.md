@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/introduccion/
 title: Capítulo 8: Cómo se juega
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 nav_order: 7
 ---

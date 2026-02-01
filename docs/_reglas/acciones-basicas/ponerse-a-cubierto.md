@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/ponerse-a-cubierto/
 title: Ponerse a cubierto
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/soltar/
 title: Soltar
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

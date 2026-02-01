@@ -196,24 +196,52 @@
   {% endif %}
 
   <!-- Cómo Jugar Section -->
-  {% if page.chapter == "Cómo Jugar" %}
+  {% if page.chapter == "Cómo Jugar" or page.chapter == "Como Jugar" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">📜</span>
       Cómo Jugar
     </h3>
     <ul class="sidebar-links">
-      <li><a href="{{ '/reglas/' | relative_url }}">Reglas Básicas</a></li>
+      <li><a href="{{ '/reglas/' | relative_url }}">Introducción</a></li>
+      <li><a href="{{ '/reglas/introduccion/' | relative_url }}">Conceptos y Convenciones</a></li>
+      <li>
+        <span class="subsection-label">Modos de Juego</span>
+        <ul class="subsection-links">
+          <li><a href="{{ '/reglas/modo-encuentro/' | relative_url }}">Modo de Encuentro</a></li>
+          <li><a href="{{ '/reglas/modo-exploracion/' | relative_url }}">Modo de Exploración</a></li>
+          <li><a href="{{ '/reglas/modo-tiempo-libre/' | relative_url }}">Modo de Tiempo Libre</a></li>
+        </ul>
+      </li>
+      <li><a href="{{ '/reglas/pruebas/' | relative_url }}">Pruebas</a></li>
+      <li><a href="{{ '/reglas/ataques-defensas/' | relative_url }}">Ataques y Defensas</a></li>
+      <li>
+        <span class="subsection-label">Daño y Curación</span>
+        <ul class="subsection-links">
+          <li><a href="{{ '/reglas/dano/' | relative_url }}">Tipos de Daño</a></li>
+          <li><a href="{{ '/reglas/puntos-golpe/' | relative_url }}">Puntos de Golpe y Moribundo</a></li>
+        </ul>
+      </li>
       <li>
         <span class="subsection-label">Acciones</span>
         <ul class="subsection-links">
-          <li><a href="{{ '/reglas/acciones/' | relative_url }}">Acciones Generales</a></li>
+          <li><a href="{{ '/reglas/acciones/' | relative_url }}">Visión General</a></li>
           <li><a href="{{ '/reglas/acciones-basicas/' | relative_url }}">Acciones Básicas</a></li>
           <li><a href="{{ '/reglas/acciones-especialidad/' | relative_url }}">Acciones de Especialidad</a></li>
         </ul>
       </li>
-      <li><a href="{{ '/reglas/encuentros/' | relative_url }}">Encuentros</a></li>
-      <li><a href="{{ '/apendices/estados/' | relative_url }}">Estados</a></li>
+      <li><a href="{{ '/reglas/movimiento/' | relative_url }}">Movimiento y Terreno</a></li>
+      <li><a href="{{ '/reglas/cobertura-flanqueo/' | relative_url }}">Cobertura y Flanqueo</a></li>
+      <li>
+        <span class="subsection-label">Efectos</span>
+        <ul class="subsection-links">
+          <li><a href="{{ '/reglas/efectos/' | relative_url }}">Efectos y Áreas</a></li>
+          <li><a href="{{ '/reglas/aflicciones/' | relative_url }}">Aflicciones</a></li>
+          <li><a href="{{ '/apendices/estados/' | relative_url }}">Estados</a></li>
+        </ul>
+      </li>
+      <li><a href="{{ '/reglas/percepcion-deteccion/' | relative_url }}">Percepción y Detección</a></li>
+      <li><a href="{{ '/reglas/batallas-especiales/' | relative_url }}">Batallas Especiales</a></li>
     </ul>
   </div>
   {% endif %}

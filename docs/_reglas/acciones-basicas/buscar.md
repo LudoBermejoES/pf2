@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/buscar/
 title: Buscar
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

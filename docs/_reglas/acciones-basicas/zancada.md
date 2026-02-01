@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/zancada/
 title: Zancada
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

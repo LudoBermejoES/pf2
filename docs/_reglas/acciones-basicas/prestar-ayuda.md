@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/prestar-ayuda/
 title: Prestar ayuda
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

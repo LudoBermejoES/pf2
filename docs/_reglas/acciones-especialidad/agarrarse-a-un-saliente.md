@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/agarrarse-a-un-saliente/
 title: Agarrarse a un Saliente
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

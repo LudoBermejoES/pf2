@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/movimiento/
 title: Movimiento
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 nav_order: 7
 ---

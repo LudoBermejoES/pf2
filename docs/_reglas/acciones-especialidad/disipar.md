@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/disipar/
 title: Disipar
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

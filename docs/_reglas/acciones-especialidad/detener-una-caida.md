@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/detener-una-caida/
 title: Detener una Caída
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

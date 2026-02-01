@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/aflicciones/
 title: Aflicciones
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 nav_order: 7
 ---

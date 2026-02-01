@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/ponerse-de-pie/
 title: Ponerse de pie
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

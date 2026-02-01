@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/huir/
 title: Huir
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

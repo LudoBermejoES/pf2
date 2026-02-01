@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/
 title: Acciones Basicas de Especialidad
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 nav_order: 7
 ---

@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/alzar-un-escudo/
 title: Alzar un Escudo
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

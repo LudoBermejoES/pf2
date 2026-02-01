@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/excavar/
 title: Excavar
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

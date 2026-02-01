@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/tumbarse/
 title: Tumbarse
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/dano/
 title: Daño
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 nav_order: 7
 ---

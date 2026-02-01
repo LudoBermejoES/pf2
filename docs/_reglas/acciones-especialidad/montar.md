@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/montar/
 title: Montar
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/mantener/
 title: Mantener
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

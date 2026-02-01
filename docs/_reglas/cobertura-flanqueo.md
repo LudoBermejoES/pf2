@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/cobertura-flanqueo/
 title: Cobertura y Flanqueo
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 nav_order: 7
 ---

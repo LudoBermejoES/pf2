@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/volar/
 title: Volar
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/senalar/
 title: Senalar
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

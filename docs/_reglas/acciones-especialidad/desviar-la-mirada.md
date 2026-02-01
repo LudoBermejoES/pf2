@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-especialidad/desviar-la-mirada/
 title: Desviar la Mirada
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 

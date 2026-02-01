@@ -2,7 +2,7 @@
 layout: page
 permalink: /reglas/acciones-basicas/averiguar-intenciones/
 title: Averiguar intenciones
-chapter: Como Jugar
+chapter: Cómo Jugar
 category: reglas
 ---
 
