@@ -7,30 +7,30 @@ category: alquimia
 source: PC2
 nav_order: 10
 item_type: Combustible
+level: 0
 price: 2 PO
-description: Objeto alquímico Líquido Inflamable
+description: Líquido Inflamable de Player Core 2
 ---
 
 ## Líquido Inflamable
 
-**Tipo**: Combustible | **Precio**: 2 PO
+**Tipo**: Combustible | **Nivel**: 0 | **Precio**: 2 PO
 
 ### Descripción
 
-[Descripción del objeto alquímico Líquido Inflamable a completar según PC2]
+[Descripción detallada de Líquido Inflamable a completar según PC2]
 
-### Cómo Se Usa
+### Propiedades
 
-[Instrucciones de uso a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Efectos
+### Uso
 
-[Efectos específicos del objeto alquímico a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Alquimia](/equipo/alquimia/)
 - [Equipo](/equipo/)
-- [Objetos Consumibles](/equipo/consumibles/)
+- [Alquimia](/equipo/alquimia/)

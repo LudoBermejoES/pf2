@@ -7,30 +7,30 @@ category: alquimia
 source: PC2
 nav_order: 10
 item_type: Veneno
+level: 0
 price: 1 PO
-description: Objeto alquímico Ácido Alquímico
+description: Ácido Alquímico de Player Core 2
 ---
 
 ## Ácido Alquímico
 
-**Tipo**: Veneno | **Precio**: 1 PO
+**Tipo**: Veneno | **Nivel**: 0 | **Precio**: 1 PO
 
 ### Descripción
 
-[Descripción del objeto alquímico Ácido Alquímico a completar según PC2]
+[Descripción detallada de Ácido Alquímico a completar según PC2]
 
-### Cómo Se Usa
+### Propiedades
 
-[Instrucciones de uso a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Efectos
+### Uso
 
-[Efectos específicos del objeto alquímico a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Alquimia](/equipo/alquimia/)
 - [Equipo](/equipo/)
-- [Objetos Consumibles](/equipo/consumibles/)
+- [Alquimia](/equipo/alquimia/)

@@ -3,13 +3,13 @@ layout: page
 permalink: /equipo/magicos/espada-llameante/
 title: Espada Llameante
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Arma
 level: 2
 price: 125 PO
-description: Objeto mágico Espada Llameante
+description: Espada Llameante de Player Core 2
 ---
 
 ## Espada Llameante
@@ -18,24 +18,19 @@ description: Objeto mágico Espada Llameante
 
 ### Descripción
 
-[Descripción del objeto mágico Espada Llameante a completar según PC2]
+[Descripción detallada de Espada Llameante a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

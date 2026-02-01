@@ -6,36 +6,31 @@ chapter: Equipo
 category: trampas
 source: PC2
 nav_order: 10
-trap_type: Mecánica
+item_type: Mecánica
 level: 2
-dc: 17
-description: Trampa Gas Paralizante
+price: 17
+description: Gas Paralizante de Player Core 2
 ---
 
 ## Gas Paralizante
 
-**Tipo**: Mecánica | **Nivel**: 2 | **DC**: 17
+**Tipo**: Mecánica | **Nivel**: 2 | **Precio**: 17
 
 ### Descripción
 
-[Descripción de la trampa Gas Paralizante a completar según PC2]
+[Descripción detallada de Gas Paralizante a completar según PC2]
 
-### Construcción
+### Propiedades
 
-[Cómo se construye o activa esta trampa a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Defensa
+### Uso
 
-[Cómo los personajes pueden defenderse o desactivar esta trampa a documentar según PC2]
-
-### Efectos
-
-[Efectos cuando la trampa se activa a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Trampas](/equipo/trampas/)
 - [Equipo](/equipo/)
-- [Construcción de Trampas](/reglas/construccion-trampas/)
+- [Trampas](/equipo/trampas/)

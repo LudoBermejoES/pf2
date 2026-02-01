@@ -6,31 +6,31 @@ chapter: Equipo
 category: alquimia
 source: PC2
 nav_order: 10
-item_type: Poción
+item_type: Medicamento
+level: 0
 price: 6 PO
-description: Objeto alquímico Poción de Cicatrización
+description: Poción de Cicatrización de Player Core 2
 ---
 
 ## Poción de Cicatrización
 
-**Tipo**: Poción | **Precio**: 6 PO
+**Tipo**: Medicamento | **Nivel**: 0 | **Precio**: 6 PO
 
 ### Descripción
 
-[Descripción del objeto alquímico Poción de Cicatrización a completar según PC2]
+[Descripción detallada de Poción de Cicatrización a completar según PC2]
 
-### Cómo Se Usa
+### Propiedades
 
-[Instrucciones de uso a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Efectos
+### Uso
 
-[Efectos específicos del objeto alquímico a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Alquimia](/equipo/alquimia/)
 - [Equipo](/equipo/)
-- [Objetos Consumibles](/equipo/consumibles/)
+- [Alquimia](/equipo/alquimia/)

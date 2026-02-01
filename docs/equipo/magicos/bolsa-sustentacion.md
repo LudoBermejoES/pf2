@@ -3,13 +3,13 @@ layout: page
 permalink: /equipo/magicos/bolsa-sustentacion/
 title: Bolsa de Sustentación
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Bolsa
 level: 1
 price: 50 PO
-description: Objeto mágico Bolsa de Sustentación
+description: Bolsa de Sustentación de Player Core 2
 ---
 
 ## Bolsa de Sustentación
@@ -18,24 +18,19 @@ description: Objeto mágico Bolsa de Sustentación
 
 ### Descripción
 
-[Descripción del objeto mágico Bolsa de Sustentación a completar según PC2]
+[Descripción detallada de Bolsa de Sustentación a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

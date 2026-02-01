@@ -7,30 +7,30 @@ category: alquimia
 source: PC2
 nav_order: 10
 item_type: Elixir
+level: 0
 price: 20 PO
-description: Objeto alquímico Elixir de Resistencia
+description: Elixir de Resistencia de Player Core 2
 ---
 
 ## Elixir de Resistencia
 
-**Tipo**: Elixir | **Precio**: 20 PO
+**Tipo**: Elixir | **Nivel**: 0 | **Precio**: 20 PO
 
 ### Descripción
 
-[Descripción del objeto alquímico Elixir de Resistencia a completar según PC2]
+[Descripción detallada de Elixir de Resistencia a completar según PC2]
 
-### Cómo Se Usa
+### Propiedades
 
-[Instrucciones de uso a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Efectos
+### Uso
 
-[Efectos específicos del objeto alquímico a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Alquimia](/equipo/alquimia/)
 - [Equipo](/equipo/)
-- [Objetos Consumibles](/equipo/consumibles/)
+- [Alquimia](/equipo/alquimia/)

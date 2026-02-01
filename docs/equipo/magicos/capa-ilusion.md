@@ -3,13 +3,13 @@ layout: page
 permalink: /equipo/magicos/capa-ilusion/
 title: Capa de Ilusión
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Objeto Portado
 level: 2
 price: 130 PO
-description: Objeto mágico Capa de Ilusión
+description: Capa de Ilusión de Player Core 2
 ---
 
 ## Capa de Ilusión
@@ -18,24 +18,19 @@ description: Objeto mágico Capa de Ilusión
 
 ### Descripción
 
-[Descripción del objeto mágico Capa de Ilusión a completar según PC2]
+[Descripción detallada de Capa de Ilusión a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

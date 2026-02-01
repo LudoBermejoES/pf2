@@ -3,13 +3,13 @@ layout: page
 permalink: /equipo/magicos/botas-velocidad/
 title: Botas de Velocidad
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Objeto Portado
 level: 2
 price: 110 PO
-description: Objeto mágico Botas de Velocidad
+description: Botas de Velocidad de Player Core 2
 ---
 
 ## Botas de Velocidad
@@ -18,24 +18,19 @@ description: Objeto mágico Botas de Velocidad
 
 ### Descripción
 
-[Descripción del objeto mágico Botas de Velocidad a completar según PC2]
+[Descripción detallada de Botas de Velocidad a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

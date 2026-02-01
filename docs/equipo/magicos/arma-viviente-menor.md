@@ -1,41 +1,36 @@
 ---
 layout: page
 permalink: /equipo/magicos/arma-viviente-menor/
-title: Arma Viviente Menor
+title: Espada Viviente Menor
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Arma
 level: 2
 price: 90 PO
-description: Objeto mágico Arma Viviente Menor
+description: Espada Viviente Menor de Player Core 2
 ---
 
-## Arma Viviente Menor
+## Espada Viviente Menor
 
 **Tipo**: Arma | **Nivel**: 2 | **Precio**: 90 PO
 
 ### Descripción
 
-[Descripción del objeto mágico Arma Viviente Menor a completar según PC2]
+[Descripción detallada de Espada Viviente Menor a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

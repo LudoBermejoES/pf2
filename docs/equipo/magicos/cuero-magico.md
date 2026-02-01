@@ -3,13 +3,13 @@ layout: page
 permalink: /equipo/magicos/cuero-magico/
 title: Cuero Mágico
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Armadura
 level: 1
 price: 60 PO
-description: Objeto mágico Cuero Mágico
+description: Cuero Mágico de Player Core 2
 ---
 
 ## Cuero Mágico
@@ -18,24 +18,19 @@ description: Objeto mágico Cuero Mágico
 
 ### Descripción
 
-[Descripción del objeto mágico Cuero Mágico a completar según PC2]
+[Descripción detallada de Cuero Mágico a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

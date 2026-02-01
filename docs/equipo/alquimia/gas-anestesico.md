@@ -7,30 +7,30 @@ category: alquimia
 source: PC2
 nav_order: 10
 item_type: Gas
+level: 0
 price: 10 PO
-description: Objeto alquímico Gas Anestésico
+description: Gas Anestésico de Player Core 2
 ---
 
 ## Gas Anestésico
 
-**Tipo**: Gas | **Precio**: 10 PO
+**Tipo**: Gas | **Nivel**: 0 | **Precio**: 10 PO
 
 ### Descripción
 
-[Descripción del objeto alquímico Gas Anestésico a completar según PC2]
+[Descripción detallada de Gas Anestésico a completar según PC2]
 
-### Cómo Se Usa
+### Propiedades
 
-[Instrucciones de uso a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Efectos
+### Uso
 
-[Efectos específicos del objeto alquímico a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Alquimia](/equipo/alquimia/)
 - [Equipo](/equipo/)
-- [Objetos Consumibles](/equipo/consumibles/)
+- [Alquimia](/equipo/alquimia/)

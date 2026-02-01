@@ -3,39 +3,34 @@ layout: page
 permalink: /equipo/magicos/brazalete-defensa/
 title: Brazalete de Defensa
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
-item_type: Pulsera
+item_type: Objeto Portado
 level: 1
 price: 50 PO
-description: Objeto mágico Brazalete de Defensa
+description: Brazalete de Defensa de Player Core 2
 ---
 
 ## Brazalete de Defensa
 
-**Tipo**: Pulsera | **Nivel**: 1 | **Precio**: 50 PO
+**Tipo**: Objeto Portado | **Nivel**: 1 | **Precio**: 50 PO
 
 ### Descripción
 
-[Descripción del objeto mágico Brazalete de Defensa a completar según PC2]
+[Descripción detallada de Brazalete de Defensa a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

@@ -3,13 +3,13 @@ layout: page
 permalink: /equipo/magicos/espejo-verdad/
 title: Espejo de Verdad
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Objeto
 level: 3
 price: 250 PO
-description: Objeto mágico Espejo de Verdad
+description: Espejo de Verdad de Player Core 2
 ---
 
 ## Espejo de Verdad
@@ -18,24 +18,19 @@ description: Objeto mágico Espejo de Verdad
 
 ### Descripción
 
-[Descripción del objeto mágico Espejo de Verdad a completar según PC2]
+[Descripción detallada de Espejo de Verdad a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

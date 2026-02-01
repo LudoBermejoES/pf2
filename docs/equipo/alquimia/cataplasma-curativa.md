@@ -7,30 +7,30 @@ category: alquimia
 source: PC2
 nav_order: 10
 item_type: Medicamento
+level: 0
 price: 4 PO
-description: Objeto alquímico Cataplasma Curativa
+description: Cataplasma Curativa de Player Core 2
 ---
 
 ## Cataplasma Curativa
 
-**Tipo**: Medicamento | **Precio**: 4 PO
+**Tipo**: Medicamento | **Nivel**: 0 | **Precio**: 4 PO
 
 ### Descripción
 
-[Descripción del objeto alquímico Cataplasma Curativa a completar según PC2]
+[Descripción detallada de Cataplasma Curativa a completar según PC2]
 
-### Cómo Se Usa
+### Propiedades
 
-[Instrucciones de uso a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Efectos
+### Uso
 
-[Efectos específicos del objeto alquímico a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Alquimia](/equipo/alquimia/)
 - [Equipo](/equipo/)
-- [Objetos Consumibles](/equipo/consumibles/)
+- [Alquimia](/equipo/alquimia/)

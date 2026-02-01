@@ -7,30 +7,30 @@ category: alquimia
 source: PC2
 nav_order: 10
 item_type: Antídoto
+level: 0
 price: 5 PO
-description: Objeto alquímico Antídoto Alquímico
+description: Antídoto Alquímico de Player Core 2
 ---
 
 ## Antídoto Alquímico
 
-**Tipo**: Antídoto | **Precio**: 5 PO
+**Tipo**: Antídoto | **Nivel**: 0 | **Precio**: 5 PO
 
 ### Descripción
 
-[Descripción del objeto alquímico Antídoto Alquímico a completar según PC2]
+[Descripción detallada de Antídoto Alquímico a completar según PC2]
 
-### Cómo Se Usa
+### Propiedades
 
-[Instrucciones de uso a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Efectos
+### Uso
 
-[Efectos específicos del objeto alquímico a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Alquimia](/equipo/alquimia/)
 - [Equipo](/equipo/)
-- [Objetos Consumibles](/equipo/consumibles/)
+- [Alquimia](/equipo/alquimia/)

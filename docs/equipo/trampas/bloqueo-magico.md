@@ -6,36 +6,31 @@ chapter: Equipo
 category: trampas
 source: PC2
 nav_order: 10
-trap_type: Mágica
+item_type: Mágica
 level: 2
-dc: 15
-description: Trampa Bloqueo Mágico
+price: 15
+description: Bloqueo Mágico de Player Core 2
 ---
 
 ## Bloqueo Mágico
 
-**Tipo**: Mágica | **Nivel**: 2 | **DC**: 15
+**Tipo**: Mágica | **Nivel**: 2 | **Precio**: 15
 
 ### Descripción
 
-[Descripción de la trampa Bloqueo Mágico a completar según PC2]
+[Descripción detallada de Bloqueo Mágico a completar según PC2]
 
-### Construcción
+### Propiedades
 
-[Cómo se construye o activa esta trampa a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Defensa
+### Uso
 
-[Cómo los personajes pueden defenderse o desactivar esta trampa a documentar según PC2]
-
-### Efectos
-
-[Efectos cuando la trampa se activa a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Trampas](/equipo/trampas/)
 - [Equipo](/equipo/)
-- [Construcción de Trampas](/reglas/construccion-trampas/)
+- [Trampas](/equipo/trampas/)

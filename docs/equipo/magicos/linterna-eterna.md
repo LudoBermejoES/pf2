@@ -3,13 +3,13 @@ layout: page
 permalink: /equipo/magicos/linterna-eterna/
 title: Linterna Eterna
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Objeto
 level: 1
 price: 30 PO
-description: Objeto mágico Linterna Eterna
+description: Linterna Eterna de Player Core 2
 ---
 
 ## Linterna Eterna
@@ -18,24 +18,19 @@ description: Objeto mágico Linterna Eterna
 
 ### Descripción
 
-[Descripción del objeto mágico Linterna Eterna a completar según PC2]
+[Descripción detallada de Linterna Eterna a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)

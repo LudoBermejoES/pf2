@@ -3,13 +3,13 @@ layout: page
 permalink: /equipo/magicos/lapiz-creacion/
 title: Lápiz de Creación
 chapter: Equipo
-category: objetos-magicos
+category: mágicos
 source: PC2
 nav_order: 10
 item_type: Herramienta
 level: 2
 price: 200 PO
-description: Objeto mágico Lápiz de Creación
+description: Lápiz de Creación de Player Core 2
 ---
 
 ## Lápiz de Creación
@@ -18,24 +18,19 @@ description: Objeto mágico Lápiz de Creación
 
 ### Descripción
 
-[Descripción del objeto mágico Lápiz de Creación a completar según PC2]
+[Descripción detallada de Lápiz de Creación a completar según PC2]
 
-### Activación
+### Propiedades
 
-[Cómo activar este objeto mágico a documentar según PC2]
+[Propiedades específicas a documentar según PC2]
 
-### Poderes
+### Uso
 
-[Poderes específicos del objeto mágico a documentar según PC2]
-
-### Construcción
-
-[Requisitos de construcción a documentar según PC2]
+[Cómo utilizar este objeto a documentar según PC2]
 
 ---
 
 ## Temas Relacionados
 
-- [Objetos Mágicos](/equipo/magicos/)
 - [Equipo](/equipo/)
-- [Construcción Mágica](/reglas/construccion-magica/)
+- [Mágicos](/equipo/mágicos/)
