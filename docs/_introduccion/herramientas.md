@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /tu-personaje/herramientas/
+permalink: /introduccion/herramientas/
 title: Herramientas de Juego
-chapter: Tu Personaje
-category: tu-personaje
-nav_order: 0
+chapter: Introducción
+category: introduccion
+nav_order: 5
 ---
 
 Ademas del libro de reglas, hay unas pocas cosas que necesitaras para jugar a Pathfinder.

@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /tu-personaje/atributos/
+permalink: /introduccion/atributos/
 title: Atributos
-chapter: Tu Personaje
-category: tu-personaje
-nav_order: 2
+chapter: Introducción
+category: introduccion
+nav_order: 6
 ---
 
 Los atributos miden el potencial en bruto de un personaje y se utilizan para calcular la mayor parte de sus demás estadísticas.
