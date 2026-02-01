@@ -49,8 +49,10 @@ sidebar:
   ascendencias:
     title: Ascendencias
     items:
-      - title: "PC1 - Ascendencias Básicas"
+      - title: "Ascendencias"
         items:
+          - title: "Catfolk"
+            url: /ascendencias/catfolk/
           - title: "Elfo"
             url: /ascendencias/elfo/
           - title: "Enano"
@@ -59,26 +61,22 @@ sidebar:
             url: /ascendencias/gnomo/
           - title: "Goblin"
             url: /ascendencias/goblin/
-          - title: "Humano"
-            url: /ascendencias/humano/
-          - title: "Leshy"
-            url: /ascendencias/leshy/
-          - title: "Mediano"
-            url: /ascendencias/mediano/
-          - title: "Orco"
-            url: /ascendencias/orco/
-      - title: "PC2 - Ascendencias Nuevas"
-        items:
-          - title: "Catfolk"
-            url: /ascendencias/catfolk/
           - title: "Hobgoblin"
             url: /ascendencias/hobgoblin/
+          - title: "Humano"
+            url: /ascendencias/humano/
           - title: "Kholo"
             url: /ascendencias/kholo/
           - title: "Kobold"
             url: /ascendencias/kobold/
+          - title: "Leshy"
+            url: /ascendencias/leshy/
           - title: "Lizardfolk"
             url: /ascendencias/lizardfolk/
+          - title: "Mediano"
+            url: /ascendencias/mediano/
+          - title: "Orco"
+            url: /ascendencias/orco/
           - title: "Ratfolk"
             url: /ascendencias/ratfolk/
           - title: "Tengu"
@@ -88,22 +86,18 @@ sidebar:
       - title: "Herencias Versátiles"
         url: /ascendencias/herencias-versatiles/
         sub_items:
-          - title: "PC1 - Herencias Clásicas"
-            items:
-              - title: "Changeling"
-                url: /ascendencias/herencias-versatiles/changeling/
-              - title: "Nefilim"
-                url: /ascendencias/herencias-versatiles/nefilim/
-              - title: "Ascendencia Mixta"
-                url: /ascendencias/herencias-versatiles/ascendencia-mixta/
-          - title: "PC2 - Herencias Nuevas"
-            items:
-              - title: "Dhampir"
-                url: /ascendencias/herencias-versatiles/dhampir/
-              - title: "Sangre de Dragón"
-                url: /ascendencias/herencias-versatiles/sangre-de-dragon/
-              - title: "Caminante del Ocaso"
-                url: /ascendencias/herencias-versatiles/caminante-del-ocaso/
+          - title: "Ascendencia Mixta"
+            url: /ascendencias/herencias-versatiles/ascendencia-mixta/
+          - title: "Caminante del Ocaso"
+            url: /ascendencias/herencias-versatiles/caminante-del-ocaso/
+          - title: "Changeling"
+            url: /ascendencias/herencias-versatiles/changeling/
+          - title: "Dhampir"
+            url: /ascendencias/herencias-versatiles/dhampir/
+          - title: "Nefilim"
+            url: /ascendencias/herencias-versatiles/nefilim/
+          - title: "Sangre de Dragón"
+            url: /ascendencias/herencias-versatiles/sangre-de-dragon/
       - title: "---"
       - title: "Bagajes"
         url: /ascendencias/bagajes/
@@ -115,25 +109,7 @@ sidebar:
     items:
       - title: "Introducción"
         url: /clases/
-      - title: "PC1 - Clases Básicas"
-        items:
-          - title: "Bardo"
-            url: /clases/bardo/
-          - title: "Brujo"
-            url: /clases/brujo/
-          - title: "Clérigo"
-            url: /clases/clerigo/
-          - title: "Druida"
-            url: /clases/druida/
-          - title: "Explorador"
-            url: /clases/explorador/
-          - title: "Guerrero"
-            url: /clases/guerrero/
-          - title: "Mago"
-            url: /clases/mago/
-          - title: "Pícaro"
-            url: /clases/picaro/
-      - title: "PC2 - Clases Nuevas"
+      - title: "Clases Marciales"
         items:
           - title: "Alquimista"
             url: /clases/alquimista/
@@ -143,12 +119,30 @@ sidebar:
             url: /clases/campeon/
           - title: "Espadachín"
             url: /clases/espadachin/
-          - title: "Hechicero"
-            url: /clases/hechicero/
+          - title: "Explorador"
+            url: /clases/explorador/
+          - title: "Guerrero"
+            url: /clases/guerrero/
           - title: "Investigador"
             url: /clases/investigador/
           - title: "Monje"
             url: /clases/monje/
+          - title: "Pícaro"
+            url: /clases/picaro/
+      - title: "Clases Lanzadoras"
+        items:
+          - title: "Bardo"
+            url: /clases/bardo/
+          - title: "Brujo"
+            url: /clases/brujo/
+          - title: "Clérigo"
+            url: /clases/clerigo/
+          - title: "Druida"
+            url: /clases/druida/
+          - title: "Hechicero"
+            url: /clases/hechicero/
+          - title: "Mago"
+            url: /clases/mago/
           - title: "Oráculo"
             url: /clases/oraculo/
       - title: "---"
