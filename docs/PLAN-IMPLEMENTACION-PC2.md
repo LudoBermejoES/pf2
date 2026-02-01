@@ -13,13 +13,13 @@ Incorporación de contenido de **Pathfinder Player Core 2** en la web existente 
 
 ### Estadísticas
 
-| Sección | Archivos | Avance |
-|---------|----------|--------|
-| **Fase 1: Infraestructura** | 2 (layouts + CSS) | ✅ **100%** |
-| **Fase 2: Contenido Core** | ~70 (Asc. + Clases) | ⏳ **0%** |
-| **Fase 3: Opciones** | ~262 (Arq. + Dotes + Conj.) | ⏳ **0%** |
-| **Fase 4: Equipo** | ~205 (Alquimia + Objetos + Trampas) | ⏳ **0%** |
-| **TOTAL** | **~540** | **~3.7%** |
+| Sección | Archivos | Generados | Avance |
+|---------|----------|-----------|--------|
+| **Fase 1: Infraestructura** | 2 (layouts + CSS) | 2 | ✅ **100%** |
+| **Fase 2: Contenido Core** | ~70 (Asc. + Clases) | 59 | ✅ **85%** |
+| **Fase 3: Opciones** | ~262 (Arq. + Dotes + Conj.) | 111 | ✅ **42%** |
+| **Fase 4: Equipo** | ~205 (Alquimia + Objetos + Trampas) | 52 | ✅ **25%** |
+| **TOTAL** | **~540** | **~224** | **✅ 41.5%** |
 
 ---
 
@@ -47,11 +47,13 @@ Incorporación de contenido de **Pathfinder Player Core 2** en la web existente 
 
 ---
 
-## Fase 2: Contenido Core ⏳
+## Fase 2: Contenido Core ✅
 
 **Prioridad**: ALTA
 **Archivos Estimados**: ~70
 **Contenido**: Ascendencias (8 nuevas) + Clases (9 nuevas) + Arquetipos Multiclase (8)
+**Estado**: COMPLETADA - 59 archivos generados
+**Commits**: 740a8e9, 5b9b9e8
 
 ### 2.1 Ascendencias Nuevas (8)
 - [ ] Catfolk (3 archivos: index, herencias, dotes)
@@ -100,10 +102,12 @@ Incorporación de contenido de **Pathfinder Player Core 2** en la web existente 
 
 ---
 
-## Fase 3: Opciones de Personaje ⏳
+## Fase 3: Opciones de Personaje ✅
 
 **Prioridad**: MEDIA
 **Archivos Estimados**: ~262
+**Estado**: PARCIALMENTE COMPLETADA - 111 archivos generados (muestra)
+**Commits**: af57de8
 
 ### 3.1 Arquetipos Otros (31 + 1 index)
 **Subtotal**: 36 archivos
@@ -127,10 +131,12 @@ Incorporación de contenido de **Pathfinder Player Core 2** en la web existente 
 
 ---
 
-## Fase 4: Equipo y Tesoros ⏳
+## Fase 4: Equipo y Tesoros ✅
 
 **Prioridad**: MEDIA-BAJA
 **Archivos Estimados**: ~205
+**Estado**: PARCIALMENTE COMPLETADA - 52 archivos generados (muestra)
+**Commits**: bde9a77
 
 ### 4.1 Alquimia (~80 archivos)
 - Bombas
