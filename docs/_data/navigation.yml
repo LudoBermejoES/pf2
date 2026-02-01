@@ -49,29 +49,36 @@ sidebar:
   ascendencias:
     title: Ascendencias
     items:
-      - title: "Humano"
-        url: /ascendencias/humano/
       - title: "Elfo"
         url: /ascendencias/elfo/
       - title: "Enano"
         url: /ascendencias/enano/
-      - title: "Mediano"
-        url: /ascendencias/mediano/
       - title: "Gnomo"
         url: /ascendencias/gnomo/
-      - title: "Orco"
-        url: /ascendencias/orco/
       - title: "Goblin"
         url: /ascendencias/goblin/
+      - title: "Humano"
+        url: /ascendencias/humano/
       - title: "Leshy"
         url: /ascendencias/leshy/
+      - title: "Mediano"
+        url: /ascendencias/mediano/
+      - title: "Orco"
+        url: /ascendencias/orco/
       - title: "Herencias Versátiles"
         url: /ascendencias/herencias-versatiles/
+        sub_items:
+          - title: "Changeling"
+            url: /ascendencias/herencias-versatiles/changeling/
+          - title: "Nefilim"
+            url: /ascendencias/herencias-versatiles/nefilim/
+          - title: "Ascendencia Mixta"
+            url: /ascendencias/herencias-versatiles/ascendencia-mixta/
       - title: "---"
       - title: "Bagajes"
         url: /ascendencias/bagajes/
       - title: "Idiomas"
-        url: /ascendencias/idiomas/
+        url: /ambientacion/idiomas/
 
   clases:
     title: Clases
