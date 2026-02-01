@@ -15,8 +15,8 @@ Comienza aquí si eres nuevo en el sistema de magia:
 
 - [**Introducción a los Conjuros**]({{ '/conjuros/introduccion/' | relative_url }}) - Conceptos clave, tipos de conjuros, y cómo funcionan
 - [**Las Cuatro Tradiciones Mágicas**]({{ '/conjuros/tradiciones/' | relative_url }}) - Arcana, Divina, Ocultista y Primigenia
-- [**Las Cuatro Esencias**]({{ '/conjuros/esencias/' | relative_url }}) - Materia, Espíritu, Mente y Vida
-- [**Cómo Lanzar Conjuros**]({{ '/conjuros/lanzamiento/' | relative_url }}) - Gestos, acciones y manifestaciones
+- [**Las Cuatro Esencias**]({{ '/conjuros/introduccion/#las-cuatro-esencias' | relative_url }}) - Materia, Espíritu, Mente y Vida
+- [**Cómo Lanzar Conjuros**]({{ '/conjuros/introduccion/#como-lanzar-conjuros' | relative_url }}) - Gestos, acciones y manifestaciones
 
 ## 📚 Búsqueda de Hechizos
 
@@ -29,10 +29,10 @@ Encuentra conjuros específicos por lista o nombre:
 - [**Lista de Conjuros Primigenios**]({{ '/conjuros/listas/primigenia/' | relative_url }}) - Magia de la naturaleza
 
 ### Por Tipo de Conjuro
-- [**Conjuros de Foco**]({{ '/conjuros/conjuros-foco/' | relative_url }})
+- [**Conjuros de Foco**]({{ '/conjuros/conjuros-de-foco/' | relative_url }})
   - [Bardo]({{ '/conjuros/conjuros-foco/bardo/' | relative_url }})
   - [Brujo]({{ '/conjuros/conjuros-foco/brujo/' | relative_url }})
-  - [Clérigo]({{ '/conjuros/conjuros-foco/clérigo/' | relative_url }})
+  - [Clérigo]({{ '/conjuros/conjuros-foco/clerigo/' | relative_url }})
   - [Druida]({{ '/conjuros/conjuros-foco/druida/' | relative_url }})
   - [Explorador]({{ '/conjuros/conjuros-foco/explorador/' | relative_url }})
   - [Mago]({{ '/conjuros/conjuros-foco/mago/' | relative_url }})
@@ -46,9 +46,9 @@ Encuentra conjuros específicos por lista o nombre:
 
 Para jugadores experimentados:
 
-- [**Potenciación de Conjuros**]({{ '/conjuros/potenciacion/' | relative_url }}) - Cómo lanzar conjuros en rangos superiores
-- [**Contrarrestar y Disipar**]({{ '/conjuros/contrarrestar/' | relative_url }}) - Magia vs. Magia
-- [**Rasgos y Propiedades Especiales**]({{ '/conjuros/rasgos-especiales/' | relative_url }}) - Ilusiones, polimorfias, y más
+- [**Potenciación de Conjuros**]({{ '/conjuros/introduccion/#potenciacion' | relative_url }}) - Cómo lanzar conjuros en rangos superiores
+- [**Contrarrestar y Disipar**]({{ '/conjuros/introduccion/#contrarrestar-conjuros' | relative_url }}) - Magia vs. Magia
+- [**Rasgos y Propiedades Especiales**]({{ '/conjuros/introduccion/#otros-rasgos-de-conjuro' | relative_url }}) - Ilusiones, polimorfias, y más
 
 ---
 
