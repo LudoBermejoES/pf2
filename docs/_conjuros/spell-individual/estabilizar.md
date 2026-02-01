@@ -4,6 +4,7 @@ permalink: /conjuros/estabilizar/
 title: Estabilizar
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Estabilizar ◆◆ [TRUCO 1]
 

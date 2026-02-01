@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-elemental/
 title: Convocar Elemental
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Convocar Elemental ◆◆◆ [CONJURO 1]
 

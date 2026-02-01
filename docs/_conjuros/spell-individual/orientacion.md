@@ -4,6 +4,7 @@ permalink: /conjuros/orientacion/
 title: Orientación
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Orientación ◆ [TRUCO 1]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/forma-de-monstruosidad/
 title: Forma de Monstruosidad
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Forma de Monstruosidad ◆◆ [CONJURO 8]
 

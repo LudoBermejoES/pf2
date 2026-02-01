@@ -4,6 +4,7 @@ permalink: /conjuros/velo-de-privacidad/
 title: Velo de Privacidad
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Velo de Privacidad [CONJURO 3]
 

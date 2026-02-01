@@ -4,6 +4,7 @@ permalink: /conjuros/duplicar-enemigo/
 title: Duplicar Enemigo
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Duplicar Enemigo ◆◆◆ [CONJURO 7]
 

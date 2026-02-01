@@ -5,6 +5,7 @@ title: Acciones Basicas de Especialidad
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 Estas acciones se utilizan solo en circunstancias especificas. Las acciones Detener una caída, Excavar y Volar requieren que dispongas de un tipo de movimiento especial. Las velocidades de trepar y de nadar utilizan las acciones correspondientes de la habilidad Atletismo.

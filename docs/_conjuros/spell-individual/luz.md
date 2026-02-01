@@ -4,6 +4,7 @@ permalink: /conjuros/luz/
 title: Luz
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Luz ◆◆ [TRUCO 1]
 

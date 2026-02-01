@@ -4,6 +4,7 @@ permalink: /conjuros/calmar/
 title: Calmar
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Calmar ◆◆ [CONJURO 2]
 

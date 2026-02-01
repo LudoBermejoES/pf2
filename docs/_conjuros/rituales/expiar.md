@@ -5,6 +5,7 @@ title: Expiar
 chapter: Conjuros
 category: conjuros
 ritual_rank: 4
+source: PC1
 ---
 
 ## Expiar [RITUAL 4]

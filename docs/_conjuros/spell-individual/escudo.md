@@ -4,6 +4,7 @@ permalink: /conjuros/escudo/
 title: Escudo
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Escudo ◆ [TRUCO 1]
 

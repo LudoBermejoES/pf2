@@ -4,6 +4,7 @@ permalink: /conjuros/limite-bendito/
 title: Limite Bendito
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Limite Bendito ◆◆◆ [CONJURO 6]
 

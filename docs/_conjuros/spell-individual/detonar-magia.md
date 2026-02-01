@@ -4,6 +4,7 @@ permalink: /conjuros/detonar-magia/
 title: Detonar Magia
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Detonar Magia ◆◆ [CONJURO 9]
 

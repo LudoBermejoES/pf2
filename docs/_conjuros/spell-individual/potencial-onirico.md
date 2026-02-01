@@ -4,6 +4,7 @@ permalink: /conjuros/potencial-onirico/
 title: Potencial Onírico
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Potencial Onírico [CONJURO 5]
 

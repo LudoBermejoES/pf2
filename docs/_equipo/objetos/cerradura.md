@@ -5,6 +5,7 @@ title: Cerradura
 chapter: Equipo
 category: equipo
 nav_order: 9
+source: PC1
 ---
 
 Forzar una cerradura requiere diferentes números de pruebas de Latrocinio según su calidad:

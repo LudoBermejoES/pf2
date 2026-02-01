@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 6
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Hace mucho, Erastil era un dios astado de la caza, pero su adoración evoluciono para centrarse en las comunidades rurales. El Viejo Certero no desea otra cosa que una vida pacifica para sus seguidores, llamandoles a las armas tan solo cuando esa existencia pastoril se ve amenazada.

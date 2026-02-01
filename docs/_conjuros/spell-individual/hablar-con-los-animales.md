@@ -4,6 +4,7 @@ permalink: /conjuros/hablar-con-los-animales/
 title: Hablar con los Animales
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Hablar con los Animales ◆◆ [CONJURO 2]
 

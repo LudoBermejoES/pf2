@@ -4,6 +4,7 @@ permalink: /conjuros/orden/
 title: Orden
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Orden ◆◆ [CONJURO 1]
 

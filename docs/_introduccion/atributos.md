@@ -5,6 +5,7 @@ title: Atributos
 chapter: Introducción
 category: introduccion
 nav_order: 6
+source: PC1
 ---
 
 Los atributos miden el potencial en bruto de un personaje y se utilizan para calcular la mayor parte de sus demás estadísticas.

@@ -4,6 +4,7 @@ permalink: /conjuros/enredaderas-enmaranantes/
 title: Enredaderas Enmaranantes
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Enredaderas Enmaranantes ◆◆◆ [CONJURO 6]
 

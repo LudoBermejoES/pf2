@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-constructo/
 title: Convocar Constructo
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Convocar Constructo ◆◆◆ [CONJURO 1]
 

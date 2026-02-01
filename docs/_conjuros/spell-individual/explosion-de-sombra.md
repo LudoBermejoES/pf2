@@ -4,6 +4,7 @@ permalink: /conjuros/explosion-de-sombra/
 title: Explosion de Sombra
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Explosion de Sombra ◆◆ [CONJURO 5]
 

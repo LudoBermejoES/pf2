@@ -4,6 +4,7 @@ permalink: /conjuros/sordera/
 title: Sordera
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Sordera ◆◆ [CONJURO 2]
 

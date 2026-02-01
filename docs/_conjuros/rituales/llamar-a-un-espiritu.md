@@ -5,6 +5,7 @@ title: Llamar a un Espíritu
 chapter: Conjuros
 category: conjuros
 ritual_rank: 5
+source: PC1
 ---
 
 ## Llamar a un Espíritu [RITUAL 5]

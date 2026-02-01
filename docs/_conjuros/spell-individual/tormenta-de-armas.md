@@ -4,6 +4,7 @@ permalink: /conjuros/tormenta-de-armas/
 title: Tormenta de Armas
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Tormenta de Armas ◆◆ [CONJURO 4]
 

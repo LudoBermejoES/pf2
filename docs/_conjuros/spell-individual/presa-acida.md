@@ -4,6 +4,7 @@ permalink: /conjuros/presa-acida/
 title: Presa Ácida
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Presa Ácida ◆◆ [CONJURO 2]
 

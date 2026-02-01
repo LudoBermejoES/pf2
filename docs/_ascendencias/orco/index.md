@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Orco
+source: PC1
 ---
 
 <img src="{{ '/assets/images/ancestries/orco.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Orco">

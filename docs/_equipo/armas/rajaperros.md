@@ -5,6 +5,7 @@ title: Rajaperros
 chapter: Equipo
 category: equipo
 nav_order: 78
+source: PC1
 ---
 
 Esta espada corta, curva y de tosca manufactura, suele tener agujeros en la hoja para reducir su peso. Es el arma predilecta de los goblins.

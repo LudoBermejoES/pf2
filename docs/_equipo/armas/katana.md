@@ -5,6 +5,7 @@ title: Katana
 chapter: Equipo
 category: equipo
 nav_order: 53
+source: PC1
 ---
 
 Una katana es una espada curva y de un solo filo, conocida por lo tremendamente afilado de su hoja.

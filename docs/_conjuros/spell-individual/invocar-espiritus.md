@@ -4,6 +4,7 @@ permalink: /conjuros/invocar-espiritus/
 title: Invocar Espiritus
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Invocar Espiritus ◆◆ [CONJURO 5]
 

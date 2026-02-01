@@ -4,6 +4,7 @@ permalink: /conjuros/moldear-la-piedra/
 title: Moldear la Piedra
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Moldear la Piedra ◆◆ [CONJURO 4]
 

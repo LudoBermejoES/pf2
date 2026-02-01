@@ -5,6 +5,7 @@ title: Ejemplo de Juego
 chapter: Introducción
 category: introduccion
 nav_order: 4
+source: PC1
 ---
 
 En esta sección encontrarás un ejemplo práctico de cómo se desarrolla una partida de Pathfinder 2, con los participantes en un encuentro típico.

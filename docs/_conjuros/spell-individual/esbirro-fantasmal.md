@@ -4,6 +4,7 @@ permalink: /conjuros/esbirro-fantasmal/
 title: Esbirro Fantasmal
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Esbirro Fantasmal ◆◆◆ [CONJURO 1]
 

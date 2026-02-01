@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 7
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Mas antigua y poderosa que la mayoría de los demás dioses, Farasma juzga las almas de todos los que mueren desde su trono en el Osario. Mediante dichos juicios, la Dama de las Sepulturas se asegura de que el ciclo natural del nacimiento y la muerte (el Rio de las Almas) no se interrumpe.

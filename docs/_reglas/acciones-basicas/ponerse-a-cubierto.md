@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/ponerse-a-cubierto/
 title: Ponerse a cubierto
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Ponerse a cubierto ◆

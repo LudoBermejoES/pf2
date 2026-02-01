@@ -5,6 +5,7 @@ title: Herramientas de Juego
 chapter: Introducción
 category: introduccion
 nav_order: 5
+source: PC1
 ---
 
 Ademas del libro de reglas, hay unas pocas cosas que necesitaras para jugar a Pathfinder.

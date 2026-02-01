@@ -3,6 +3,7 @@ layout: page
 permalink: /clases/
 title: Clases
 chapter: Clases
+source: PC1
 ---
 
 Las clases son la profesión elegida de tu personaje, definiendo tu rol principal en la aventura. Tu clase te concede una profesión, atributos clave, puntos de vida, competencias iniciales con armas y armaduras, y dotes especiales que reflejan tu entrenamiento en esa profesión. Mientras te mejoras, obtienes más capacidades de tu clase a través de dotes y mejoras que redefinen tu rol y te permiten personalizar tu personaje para adaptarse a tu concepto.

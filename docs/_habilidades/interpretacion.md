@@ -5,6 +5,7 @@ title: Interpretación (Car)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Eres hábil en una forma de interpretación, utilizando tu talento para impresionar a las multitudes o para ganarte la vida.

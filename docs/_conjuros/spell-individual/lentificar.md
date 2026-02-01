@@ -4,6 +4,7 @@ permalink: /conjuros/lentificar/
 title: Lentificar
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Lentificar ◆◆ [CONJURO 3]
 

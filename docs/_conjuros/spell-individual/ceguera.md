@@ -4,6 +4,7 @@ permalink: /conjuros/ceguera/
 title: Ceguera
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Ceguera ◆◆ [CONJURO 3]
 

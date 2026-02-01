@@ -4,6 +4,7 @@ permalink: /conjuros/fachada-de-objeto/
 title: Fachada de Objeto
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Fachada de Objeto ◆◆ [CONJURO 1]
 

@@ -5,6 +5,7 @@ title: Sigilo (Des)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Eres hábil en evitar la detección, lo que te permite pasar desapercibido por delante de tus enemigos, esconderte u ocultar un objeto.

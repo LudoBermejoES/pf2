@@ -4,6 +4,7 @@ permalink: /conjuros/forma-humanoide/
 title: Forma Humanoide
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Forma Humanoide ◆◆ [CONJURO 2]
 

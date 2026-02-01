@@ -6,6 +6,7 @@ chapter: Clases
 category: clases
 nav_order: 2
 class_name: Druida
+source: PC1
 ---
 
 En cada nivel en el que obtienes una dote de druida, puedes seleccionar una de las siguientes. Tienes que cumplir todos los requisitos antes de seleccionarla.

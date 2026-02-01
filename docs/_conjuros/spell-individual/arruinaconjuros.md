@@ -4,6 +4,7 @@ permalink: /conjuros/arruinaconjuros/
 title: Arruinaconjuros
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Arruinaconjuros ◆◆ [CONJURO 6]
 

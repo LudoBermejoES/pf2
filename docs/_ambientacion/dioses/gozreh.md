@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 9
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Un dios de aspecto dual, Gozreh es el mar que encapsula la tierra y el viento que mueve su superficie. El Viento y las Olas es popular entre los druidas y entre quienes buscan preservar las tierras virgenes.

@@ -3,6 +3,7 @@ layout: page
 permalink: /ascendencias/
 title: Ascendencias
 description: Contenido del capítulo Ascendencias
+source: PC1
 ---
 
 Elige tu ascendencia para comenzar tu aventura en Pathfinder 2e. Cada ascendencia ofrece habilidades únicas, estadísticas y una perspectiva diferente del mundo de Golarion.

@@ -4,6 +4,7 @@ permalink: /conjuros/guardian-espiritual/
 title: Guardian Espiritual
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Guardian Espiritual ◆◆ [CONJURO 5]
 

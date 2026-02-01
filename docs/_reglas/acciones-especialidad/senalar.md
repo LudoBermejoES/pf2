@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/senalar/
 title: Senalar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Senalar ◆

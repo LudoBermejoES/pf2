@@ -4,6 +4,7 @@ permalink: /conjuros/armadura-mistica/
 title: Armadura Mistica
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Armadura Mistica ◆◆ [CONJURO 1]
 

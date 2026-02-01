@@ -4,6 +4,7 @@ permalink: /conjuros/terremoto/
 title: Terremoto
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Terremoto ◆◆ [CONJURO 8]
 

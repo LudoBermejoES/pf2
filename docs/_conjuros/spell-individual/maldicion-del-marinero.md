@@ -4,6 +4,7 @@ permalink: /conjuros/maldicion-del-marinero/
 title: Maldición del Marinero
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Maldición del Marinero ◆◆ [CONJURO 5]
 

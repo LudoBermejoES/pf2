@@ -4,6 +4,7 @@ permalink: /conjuros/levitar/
 title: Levitar
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Levitar ◆◆ [CONJURO 3]
 

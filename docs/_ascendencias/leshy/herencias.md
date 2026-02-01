@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Leahy
+source: PC1
 ---
 
 La herencia de un leshy representa los beneficios que obtiene de su cuerpo. Elige una de las siguientes herencias para leshys a 1.er nivel.

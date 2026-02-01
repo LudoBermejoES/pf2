@@ -5,6 +5,7 @@ title: Arquetipos de Multiclase
 chapter: Clases
 category: clases
 nav_order: 2
+source: PC1
 ---
 
 Los arquetipos multiclase te permiten diversificar tu entrenamiento en las especialidades de otra clase. No puedes seleccionar una dote de dedicación de arquetipo multiclase si eres miembro de dicha clase.

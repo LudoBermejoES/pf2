@@ -4,6 +4,7 @@ permalink: /conjuros/ola-de-desesperacion/
 title: Ola de Desesperación
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Ola de Desesperación ◆◆ [CONJURO 5]
 

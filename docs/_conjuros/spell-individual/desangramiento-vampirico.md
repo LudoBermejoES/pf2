@@ -4,6 +4,7 @@ permalink: /conjuros/desangramiento-vampirico/
 title: Desangramiento Vampirico
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Desangramiento Vampirico ◆◆ [CONJURO 6]
 

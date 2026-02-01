@@ -4,6 +4,7 @@ permalink: /conjuros/resistir-energia/
 title: Resistir Energía
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Resistir Energía ◆◆ [CONJURO 2]
 

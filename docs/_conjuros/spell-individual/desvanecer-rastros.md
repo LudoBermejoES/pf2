@@ -4,6 +4,7 @@ permalink: /conjuros/desvanecer-rastros/
 title: Desvanecer Rastros
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Desvanecer Rastros ◆◆ [CONJURO 1]
 

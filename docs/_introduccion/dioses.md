@@ -5,6 +5,7 @@ title: Dioses
 chapter: Introducción
 category: introduccion
 nav_order: 9
+source: PC1
 ---
 
 En Golarion existen múltiples dioses venerados por los habitantes del mundo. La religión es un aspecto importante de muchas culturas y comunidades.

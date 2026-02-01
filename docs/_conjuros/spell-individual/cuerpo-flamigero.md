@@ -4,6 +4,7 @@ permalink: /conjuros/cuerpo-flamigero/
 title: Cuerpo Flamigero
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Cuerpo Flamigero ◆◆ [CONJURO 7]
 

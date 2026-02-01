@@ -4,6 +4,7 @@ permalink: /conjuros/enlace-mental/
 title: Enlace Mental
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Enlace Mental ◆◆ [CONJURO 1]
 

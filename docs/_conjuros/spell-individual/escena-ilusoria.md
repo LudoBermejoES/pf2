@@ -4,6 +4,7 @@ permalink: /conjuros/escena-ilusoria/
 title: Escena Ilusoria
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Escena Ilusoria [CONJURO 5]
 

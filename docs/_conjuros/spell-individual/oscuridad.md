@@ -4,6 +4,7 @@ permalink: /conjuros/oscuridad/
 title: Oscuridad
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Oscuridad ◆◆◆ [CONJURO 2]
 

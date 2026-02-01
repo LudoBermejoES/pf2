@@ -4,6 +4,7 @@ permalink: /conjuros/monos-locos/
 title: Monos Locos
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Monos Locos ◆◆ [CONJURO 3]
 

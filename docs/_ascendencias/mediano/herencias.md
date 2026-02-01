@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Mediano
+source: PC1
 ---
 
 Diseminados por todo el país, los medianos de diferentes herencias podrían aparecer en regiones lejos de donde han vivido sus antepasados. Elige una de las siguientes herencias para medianos a 1.er nivel.

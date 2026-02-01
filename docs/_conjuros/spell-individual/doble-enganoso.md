@@ -4,6 +4,7 @@ permalink: /conjuros/doble-enganoso/
 title: Doble Enganoso
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Doble Enganoso ◆◆ [CONJURO 6]
 

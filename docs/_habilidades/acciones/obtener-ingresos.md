@@ -5,6 +5,7 @@ title: Obtener Ingresos
 chapter: Habilidades
 parent: Acciones de Habilidad Generales
 nav_order: 4
+source: PC1
 ---
 
 ## Obtener Ingresos (Entrenado)

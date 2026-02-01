@@ -5,6 +5,7 @@ title: Acciones de Habilidad Generales
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Las acciones de habilidad generales son acciones de habilidad que se pueden utilizar con múltiples habilidades diferentes. Cuando utilizas una de ellas, podrías utilizar tu modificador debido a cualquier habilidad que la indicara como una de las acciones de la misma, dependiendo de la situación.

@@ -4,6 +4,7 @@ permalink: /conjuros/no-importa/
 title: No Importa
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## No Importa ◆◆ [CONJURO 6]
 

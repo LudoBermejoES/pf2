@@ -4,6 +4,7 @@ permalink: /conjuros/invisibilidad/
 title: Invisibilidad
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Invisibilidad ◆◆ [CONJURO 2]
 

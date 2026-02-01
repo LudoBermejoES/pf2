@@ -5,6 +5,7 @@ title: Conjuros de Foco: Mago
 chapter: Conjuros
 category: conjuros
 nav_order: 6
+source: PC1
 ---
 
 Los magos obtienen conjuros de foco a través de su escuela de magia elegida. Cada escuela proporciona un conjuro inicial de foco de 1.º rango y un conjuro avanzado de foco de 4.º rango.

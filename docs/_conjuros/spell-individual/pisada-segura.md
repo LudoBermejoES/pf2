@@ -4,6 +4,7 @@ permalink: /conjuros/pisada-segura/
 title: Pisada Segura
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Pisada Segura ◆◆ [CONJURO 2]
 

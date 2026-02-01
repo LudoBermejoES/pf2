@@ -4,6 +4,7 @@ permalink: /conjuros/localizar/
 title: Localizar
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Localizar [CONJURO 3]
 

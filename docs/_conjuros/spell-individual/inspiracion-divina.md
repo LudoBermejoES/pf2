@@ -4,6 +4,7 @@ permalink: /conjuros/inspiracion-divina/
 title: Inspiracion Divina
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Inspiracion Divina ◆◆ [CONJURO 8]
 

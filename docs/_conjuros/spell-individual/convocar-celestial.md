@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-celestial/
 title: Convocar Celestial
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Convocar Celestial ◆◆◆ [CONJURO 5]
 

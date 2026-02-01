@@ -5,6 +5,7 @@ title: Cobertura y Flanqueo
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 ## Cobertura

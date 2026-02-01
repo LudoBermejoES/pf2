@@ -6,6 +6,7 @@ chapter: Clases
 category: clases
 nav_order: 2
 class_name: Explorador
+source: PC1
 ---
 
 En cada nivel en el que obtienes una dote de explorador, puedes seleccionar una de las siguientes dotes. Has de cumplir cualquier prerrequisito antes de elegirla.

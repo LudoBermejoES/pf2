@@ -4,6 +4,7 @@ permalink: /conjuros/leer-el-aura/
 title: Leer el Aura
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Leer el Aura [TRUCO 1]
 

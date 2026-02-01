@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 14
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Esta sombria figura suele ser adorada en cuatro aspectos: Dedos Negros, aliado de los alquimistas y de los envenenadores; el asesino Padre Desollador; el Maestro Gris, dedicado al latrocinio; y el secretista Segador de Reputaciónes.

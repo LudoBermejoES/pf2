@@ -4,6 +4,7 @@ permalink: /conjuros/oscuridad-congeladora/
 title: Oscuridad Congeladora
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Oscuridad Congeladora ◆◆ [CONJURO 3]
 

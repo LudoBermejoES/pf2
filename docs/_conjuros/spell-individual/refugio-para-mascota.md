@@ -4,6 +4,7 @@ permalink: /conjuros/refugio-para-mascota/
 title: Refugio para Mascota
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Refugio para Mascota ◆ [CONJURO 1]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/resiliencia-de-la-montana/
 title: Resiliencia de la Montaña
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Resiliencia de la Montaña ◆◆ [CONJURO 4]
 

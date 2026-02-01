@@ -5,6 +5,7 @@ title: Pruebas
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 Cuando el éxito no está asegurado (ya estés atacando con la espada a una asquerosa bestia, intentando cruzar de un salto una grieta o esforzándote para recordar el nombre del primo segundo del conde en una velada social) haces una prueba.

@@ -4,6 +4,7 @@ permalink: /conjuros/compartir-vida/
 title: Compartir Vida
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Compartir Vida ◆◆ [CONJURO 2]
 

@@ -5,6 +5,7 @@ title: Crecimiento Vegetal
 chapter: Conjuros
 category: conjuros
 ritual_rank: 4
+source: PC1
 ---
 
 ## Crecimiento Vegetal [RITUAL 4]

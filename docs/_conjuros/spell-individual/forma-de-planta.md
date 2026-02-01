@@ -4,6 +4,7 @@ permalink: /conjuros/forma-de-planta/
 title: Forma de Planta
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Forma de Planta ◆◆ [CONJURO 5]
 

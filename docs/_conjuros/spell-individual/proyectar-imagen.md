@@ -4,6 +4,7 @@ permalink: /conjuros/proyectar-imagen/
 title: Proyectar Imagen
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Proyectar Imagen ◆◆ [CONJURO 7]
 

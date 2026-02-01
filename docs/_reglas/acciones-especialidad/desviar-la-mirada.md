@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/desviar-la-mirada/
 title: Desviar la Mirada
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Desviar la Mirada ◆

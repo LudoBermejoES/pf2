@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/interactuar/
 title: Interactuar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Interactuar ◆

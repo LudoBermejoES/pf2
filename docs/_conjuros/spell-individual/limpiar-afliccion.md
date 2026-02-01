@@ -4,6 +4,7 @@ permalink: /conjuros/limpiar-afliccion/
 title: Limpiar Afliccion
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Limpiar Afliccion ◆◆ [CONJURO 2]
 

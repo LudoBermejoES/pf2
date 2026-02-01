@@ -4,6 +4,7 @@ permalink: /conjuros/incrustar-mensaje/
 title: Incrustar Mensaje
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Incrustar Mensaje ◆◆ [CONJURO 2]
 

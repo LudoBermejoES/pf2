@@ -4,6 +4,7 @@ permalink: /conjuros/ventisca-aullante-a/
 title: Ventisca Aullante ◆◆ a
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Ventisca Aullante ◆◆ a ◆◆◆ [CONJURO 5]
 

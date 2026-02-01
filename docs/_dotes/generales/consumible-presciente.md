@@ -5,6 +5,7 @@ title: Consumible Presciente
 chapter: Dotes
 category: dotes
 level: 11
+source: PC1
 ---
 
 **Dote 7** · General

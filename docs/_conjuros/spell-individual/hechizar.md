@@ -4,6 +4,7 @@ permalink: /conjuros/hechizar/
 title: Hechizar
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Hechizar ◆◆ [CONJURO 1]
 

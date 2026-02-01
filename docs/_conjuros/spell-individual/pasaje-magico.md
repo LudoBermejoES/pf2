@@ -4,6 +4,7 @@ permalink: /conjuros/pasaje-magico/
 title: Pasaje Mágico
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Pasaje Mágico ◆◆ [CONJURO 5]
 

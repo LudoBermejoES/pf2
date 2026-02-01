@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/excavar/
 title: Excavar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Excavar ◆

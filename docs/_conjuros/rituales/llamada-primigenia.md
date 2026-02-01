@@ -5,6 +5,7 @@ title: Llamada Primigenia
 chapter: Conjuros
 category: conjuros
 ritual_rank: 6
+source: PC1
 ---
 
 ## Llamada Primigenia [RITUAL 6]

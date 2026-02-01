@@ -5,6 +5,7 @@ title: Religion
 chapter: Ambientación
 category: ambientacion
 nav_order: 0
+source: PC1
 ---
 
 La selección de un dios es critica para los clérigos, pero la mayoría de personajes presentan sus respetos a por lo menos un dios en busca de un foco en la vida y una guia en tiempos de adversidad o de necesidad. Algunos adoran en su lugar a un grupo de dioses dispuestos en un panteon, siguen una religion carente de dioses como la Fe Verde o una filosofia especifica.

@@ -4,6 +4,7 @@ permalink: /conjuros/vientos-castigadores/
 title: Vientos Castigadores
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Vientos Castigadores ◆◆◆ [CONJURO 8]
 

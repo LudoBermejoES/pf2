@@ -4,6 +4,7 @@ permalink: /conjuros/relampago/
 title: Relámpago
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Relámpago ◆◆ [CONJURO 3]
 

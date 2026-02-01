@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-animal/
 title: Convocar Animal
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Convocar Animal ◆◆◆ [CONJURO 1]
 

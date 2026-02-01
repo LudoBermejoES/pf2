@@ -4,6 +4,7 @@ permalink: /conjuros/grieta-artica/
 title: Grieta Artica
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Grieta Artica ◆◆ [CONJURO 8]
 

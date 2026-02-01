@@ -6,6 +6,7 @@ chapter: Dotes
 category: dotes
 habilidad: Ocultismo
 level: 7
+source: PC1
 ---
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Curacion</span><span class="feat-trait">Exploración</span><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>

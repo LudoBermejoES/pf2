@@ -4,6 +4,7 @@ permalink: /conjuros/crisis-de-fe/
 title: Crisis de Fe
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Crisis de Fe ◆◆ [CONJURO 3]
 

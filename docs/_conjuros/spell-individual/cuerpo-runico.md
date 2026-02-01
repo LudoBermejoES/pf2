@@ -4,6 +4,7 @@ permalink: /conjuros/cuerpo-runico/
 title: Cuerpo Runico
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Cuerpo Runico ◆◆ [CONJURO 1]
 

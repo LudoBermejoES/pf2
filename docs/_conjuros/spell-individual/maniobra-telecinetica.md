@@ -4,6 +4,7 @@ permalink: /conjuros/maniobra-telecinetica/
 title: Maniobra Telecinetica
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Maniobra Telecinetica ◆◆ [CONJURO 2]
 

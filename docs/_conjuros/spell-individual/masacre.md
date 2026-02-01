@@ -4,6 +4,7 @@ permalink: /conjuros/masacre/
 title: Masacre
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Masacre ◆◆ [CONJURO 9]
 

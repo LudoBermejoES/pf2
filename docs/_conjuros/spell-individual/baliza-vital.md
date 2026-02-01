@@ -4,6 +4,7 @@ permalink: /conjuros/baliza-vital/
 title: Baliza Vital
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Baliza Vital [CONJURO 4]
 

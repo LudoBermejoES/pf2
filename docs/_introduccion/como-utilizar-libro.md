@@ -5,6 +5,7 @@ title: Cómo Utilizar este Libro
 chapter: Introducción
 category: introduccion
 nav_order: 5
+source: PC1
 ---
 
 Este libro es una guía completa para jugar a Pathfinder 2. Está organizado en secciones que cubren todos los aspectos del juego, desde la creación de personajes hasta las reglas avanzadas.

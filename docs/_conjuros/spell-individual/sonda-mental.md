@@ -4,6 +4,7 @@ permalink: /conjuros/sonda-mental/
 title: Sonda Mental
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Sonda Mental [CONJURO 5]
 

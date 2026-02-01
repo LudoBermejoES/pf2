@@ -4,6 +4,7 @@ permalink: /conjuros/luz-sagrada/
 title: Luz Sagrada
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Luz Sagrada ◆◆ [CONJURO 3]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/viento-de-cola/
 title: Viento de Cola
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Viento de Cola ◆◆ [TRUCO]
 

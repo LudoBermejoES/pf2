@@ -4,6 +4,7 @@ permalink: /conjuros/limpiar-cocinados/
 title: Limpiar Cocinados
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Limpiar Cocinados ◆◆ [CONJURO 1]
 

@@ -5,6 +5,7 @@ title: Percepción y Detección
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 Tu Percepción mide tu capacidad para darte cuenta de las cosas, buscar lo que esta escondido y discernir si algo acerca de una situación resulta sospechoso.

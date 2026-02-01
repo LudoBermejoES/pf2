@@ -5,6 +5,7 @@ title: Escenario
 chapter: Introducción
 category: introduccion
 nav_order: 8
+source: PC1
 ---
 
 Pathfinder 2 se desarrolla en el mundo de Golarion, un planeta fantástico lleno de magia, misterio y aventura.

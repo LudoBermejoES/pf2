@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 10
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Antes de su ascension y de heredar muchos adoradores del dios de la humanidad, Iomedae era una combatiente sagrada en las guerras contra los muertos vivientes. La Heredera defiende los valores de la virtud, luchando contra los malvados y los injustos.

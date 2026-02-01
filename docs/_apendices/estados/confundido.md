@@ -7,6 +7,7 @@ category: apéndices
 nav_order: 9
 parent: Estados
 grand_parent: Apéndices
+source: PC1
 ---
 
 No estas alerta y atacas de forma incontrolada. Estas desprevenido, no tratas a nadie como aliado (aunque ellos podrían seguirte tratando a ti como aliado suyo) y no puedes Retrasar, Preparar o utilizar acciones.

@@ -4,6 +4,7 @@ permalink: /conjuros/cataclismo/
 title: Cataclismo
 chapter: Conjuros
 spell_level: 10
+source: PC1
 ---
 ## Cataclismo ◆◆ [CONJURO 10]
 

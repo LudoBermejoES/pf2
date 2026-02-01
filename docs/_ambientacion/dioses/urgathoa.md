@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 19
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Encaprichada de los placeres del mundo de los vivos, Urgathoa escapo a las garras de la muerte y la otra vida, convirtiéndose en el primero de los muertos vivientes. Ahora, la Princesa Palida se regocija compartiendo sus apetitos hedonistas y extendiendo la muerte en vida.

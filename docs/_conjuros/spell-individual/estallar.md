@@ -4,6 +4,7 @@ permalink: /conjuros/estallar/
 title: Estallar
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Estallar ◆◆ [CONJURO 2]
 

@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/alzar-un-escudo/
 title: Alzar un Escudo
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Alzar un Escudo ◆

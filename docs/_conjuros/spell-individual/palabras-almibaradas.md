@@ -4,6 +4,7 @@ permalink: /conjuros/palabras-almibaradas/
 title: Palabras Almibaradas
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Palabras Almibaradas ◆◆ [CONJURO 4]
 

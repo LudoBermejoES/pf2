@@ -4,6 +4,7 @@ permalink: /conjuros/ligadura-terrestre/
 title: Ligadura Terrestre
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Ligadura Terrestre ◆◆ [CONJURO 3]
 

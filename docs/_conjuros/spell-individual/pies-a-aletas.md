@@ -4,6 +4,7 @@ permalink: /conjuros/pies-a-aletas/
 title: Pies a Aletas
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Pies a Aletas ◆◆ [CONJURO 3]
 

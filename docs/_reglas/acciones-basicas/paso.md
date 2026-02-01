@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/paso/
 title: Paso
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Paso ◆

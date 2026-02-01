@@ -5,6 +5,7 @@ title: Engaño (Car)
 chapter: Habilidades
 category: habilidades
 nav_order: 3
+source: PC1
 ---
 
 Puedes engañar y desorientar a otros utilizando disfraces, mentiras y otras formas de subterfugio. El Engaño a menudo tiene inconvenientes si te descubren, y a menudo lo mejor es haber abandonado la población para cuando eso sucede.

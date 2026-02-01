@@ -4,6 +4,7 @@ permalink: /clases/arquetipos/multiclase/mago/
 title: Arquetipo de Mago Multiclase
 chapter: Clases
 category: clases
+source: PC1
 ---
 
 ## Mago

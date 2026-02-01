@@ -4,6 +4,7 @@ permalink: /conjuros/azote-de-vitalidad/
 title: Azote de Vitalidad
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Azote de Vitalidad ◆◆ [TRUCO 1]
 

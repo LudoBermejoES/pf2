@@ -4,6 +4,7 @@ permalink: /conjuros/burbuja-tranquila/
 title: Burbuja Tranquila
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Burbuja Tranquila [CONJURO 4]
 

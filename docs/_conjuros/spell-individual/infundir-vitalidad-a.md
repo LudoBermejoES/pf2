@@ -4,6 +4,7 @@ permalink: /conjuros/infundir-vitalidad-a/
 title: Infundir Vitalidad ◆ a
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Infundir Vitalidad ◆ a ◆◆◆ [CONJURO 1]
 

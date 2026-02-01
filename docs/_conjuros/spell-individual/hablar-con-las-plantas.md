@@ -4,6 +4,7 @@ permalink: /conjuros/hablar-con-las-plantas/
 title: Hablar con las Plantas
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Hablar con las Plantas ◆◆ [CONJURO 3]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/moldear-la-madera/
 title: Moldear la Madera
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Moldear la Madera ◆◆ [CONJURO 2]
 

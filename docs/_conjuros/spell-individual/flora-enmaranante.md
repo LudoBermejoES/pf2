@@ -4,6 +4,7 @@ permalink: /conjuros/flora-enmaranante/
 title: Flora Enmaranante
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Flora Enmaranante ◆◆ [CONJURO 2]
 

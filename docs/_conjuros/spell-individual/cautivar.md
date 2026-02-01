@@ -4,6 +4,7 @@ permalink: /conjuros/cautivar/
 title: Cautivar
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Cautivar ◆◆ [CONJURO 3]
 

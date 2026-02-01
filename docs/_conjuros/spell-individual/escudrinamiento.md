@@ -4,6 +4,7 @@ permalink: /conjuros/escudrinamiento/
 title: Escudriñamiento
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Escudriñamiento [CONJURO 6]
 

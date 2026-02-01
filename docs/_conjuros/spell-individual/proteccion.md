@@ -4,6 +4,7 @@ permalink: /conjuros/proteccion/
 title: Protección
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Protección ◆◆ [CONJURO 1]
 

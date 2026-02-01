@@ -7,6 +7,7 @@ category: equipo
 nav_order: 8
 parent: Sustancias alquímicas
 grand_parent: Objetos
+source: PC1
 ---
 
 Puedes utilizar una ramita yesquera para encender algo inflamable mediante una sola acción de Interactuar, con más rapidez que con pedernal y yesca.

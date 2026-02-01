@@ -4,6 +4,7 @@ permalink: /conjuros/resurgimiento/
 title: Resurgimiento
 chapter: Conjuros
 spell_level: 10
+source: PC1
 ---
 ## Resurgimiento ◆◆ [CONJURO 10]
 

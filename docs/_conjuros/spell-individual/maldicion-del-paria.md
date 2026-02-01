@@ -4,6 +4,7 @@ permalink: /conjuros/maldicion-del-paria/
 title: Maldición del Paria
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Maldición del Paria ◆◆ [CONJURO 4]
 

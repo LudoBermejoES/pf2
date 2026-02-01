@@ -4,6 +4,7 @@ permalink: /conjuros/silencio/
 title: Silencio
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Silencio ◆◆ [CONJURO 2]
 

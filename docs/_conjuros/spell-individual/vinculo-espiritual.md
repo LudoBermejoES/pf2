@@ -4,6 +4,7 @@ permalink: /conjuros/vinculo-espiritual/
 title: Vinculo Espiritual
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Vinculo Espiritual ◆◆ [CONJURO 1]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-gigante/
 title: Convocar Gigante
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Convocar Gigante ◆◆◆ [CONJURO 5]
 

@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 versatile_heritage: Ascendencia Mixta
+source: PC1
 ---
 
 <img src="{{ '/assets/images/ancestries/ascendencia-mixta.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Ascendencia Mixta">

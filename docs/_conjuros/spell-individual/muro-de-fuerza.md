@@ -4,6 +4,7 @@ permalink: /conjuros/muro-de-fuerza/
 title: Muro de Fuerza
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Muro de Fuerza ◆◆◆ [CONJURO 6]
 

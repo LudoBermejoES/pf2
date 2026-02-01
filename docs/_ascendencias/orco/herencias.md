@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Orco
+source: PC1
 ---
 
 Los orcos tienen una larga historia en la superficie del mundo, y una historia aun mas larga bajo tierra. Su robusto fisico y su exigente estilo de vida han dado lugar a diversas adaptaciones. Elige una de las siguientes herencias para orcos a 1.er nivel.

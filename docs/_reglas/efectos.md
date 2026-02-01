@@ -5,6 +5,7 @@ title: Efectos
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 Cualquier cosa que haces durante la partida tiene un efecto. Muchos de ellos son fáciles de adjudicar durante el juego. Si le dices al DJ que desenvainas la espada, no hace falta prueba alguna. Otras veces, el efecto específico requiere reglas más detalladas que gobiernan como se resuelve tu elección.

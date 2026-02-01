@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/averiguar-intenciones/
 title: Averiguar intenciones
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Averiguar intenciones ◆

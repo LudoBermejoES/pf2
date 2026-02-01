@@ -4,6 +4,7 @@ permalink: /conjuros/custodia-amenazadora/
 title: Custodia Amenazadora
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Custodia Amenazadora ◆◆ [TRUCO 1]
 

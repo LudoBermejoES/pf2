@@ -4,6 +4,7 @@ permalink: /conjuros/detectar-magia/
 title: Detectar Magia
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Detectar Magia ◆◆ [TRUCO 1]
 

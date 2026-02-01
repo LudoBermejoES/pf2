@@ -5,6 +5,7 @@ title: ¿Qué es un juego de rol?
 chapter: Introduccion
 category: introduccion
 nav_order: 0
+source: PC1
 ---
 
 Un juego de rol es una historia interactiva donde un grupo de jugadores colabora para crear una narrativa compartida. A diferencia de los videojuegos o los juegos de mesa tradicionales, en un juego de rol la historia no está completamente predeterminada: se desarrolla a través de las decisiones de los participantes, las tiradas de dados y la imaginación colectiva.

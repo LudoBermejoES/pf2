@@ -4,6 +4,7 @@ permalink: /conjuros/espejismo/
 title: Espejismo
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Espejismo [CONJURO 4]
 

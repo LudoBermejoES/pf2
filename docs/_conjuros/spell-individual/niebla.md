@@ -4,6 +4,7 @@ permalink: /conjuros/niebla/
 title: Niebla
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Niebla ◆◆ [CONJURO 2]
 

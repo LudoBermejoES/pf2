@@ -4,6 +4,7 @@ permalink: /conjuros/rechazo/
 title: Rechazo
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Rechazo ◆◆ [CONJURO 6]
 

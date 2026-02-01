@@ -4,6 +4,7 @@ permalink: /conjuros/crear-comida/
 title: Crear Comida
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Crear Comida [CONJURO 2]
 

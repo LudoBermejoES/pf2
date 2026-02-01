@@ -4,6 +4,7 @@ permalink: /conjuros/bola-de-fuego/
 title: Bola de Fuego
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Bola de Fuego ◆◆ [CONJURO 3]
 

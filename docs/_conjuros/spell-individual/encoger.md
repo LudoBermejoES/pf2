@@ -4,6 +4,7 @@ permalink: /conjuros/encoger/
 title: Encoger
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Encoger ◆◆ [CONJURO 2]
 

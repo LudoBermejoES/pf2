@@ -4,6 +4,7 @@ permalink: /conjuros/carga-de-la-hormiga/
 title: Carga de la Hormiga
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Carga de la Hormiga ◆◆ [CONJURO 1]
 

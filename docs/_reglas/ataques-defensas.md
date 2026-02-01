@@ -5,6 +5,7 @@ title: Ataques y Defensas
 chapter: Cómo Jugar
 category: reglas
 nav_order: 7
+source: PC1
 ---
 
 ## Tiradas de Ataque

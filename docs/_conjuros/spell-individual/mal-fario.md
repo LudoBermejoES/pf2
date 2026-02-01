@@ -4,6 +4,7 @@ permalink: /conjuros/mal-fario/
 title: Mal Fario
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Mal Fario ◆◆ [CONJURO 1]
 

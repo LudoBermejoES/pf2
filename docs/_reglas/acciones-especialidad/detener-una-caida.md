@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/detener-una-caida/
 title: Detener una Caída
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Detener una Caída ↺

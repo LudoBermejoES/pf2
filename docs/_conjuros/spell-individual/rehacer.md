@@ -4,6 +4,7 @@ permalink: /conjuros/rehacer/
 title: Rehacer
 chapter: Conjuros
 spell_level: 10
+source: PC1
 ---
 ## Rehacer [CONJURO 10]
 

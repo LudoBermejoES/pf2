@@ -7,6 +7,7 @@ category: equipo
 nav_order: 5
 parent: Objetos de asistencia
 grand_parent: Objetos
+source: PC1
 ---
 
 Las muletas vienen solas o en pareja dependiendo de cuánto apoyo necesites para caminar. Una muleta encaja bajo tu axila y utilizas la mano y el balanceo del brazo para moverte con ella.

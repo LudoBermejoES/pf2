@@ -4,6 +4,7 @@ permalink: /conjuros/explosion-de-ruido/
 title: Explosion de Ruido
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Explosion de Ruido ◆◆ [CONJURO 2]
 

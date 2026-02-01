@@ -4,6 +4,7 @@ permalink: /conjuros/pesadilla/
 title: Pesadilla
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Pesadilla [CONJURO 4]
 

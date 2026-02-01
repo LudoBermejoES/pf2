@@ -4,6 +4,7 @@ permalink: /conjuros/erupcion-volcanica/
 title: Erupcion Volcanica
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Erupcion Volcanica ◆◆ [CONJURO 7]
 

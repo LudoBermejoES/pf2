@@ -4,6 +4,7 @@ permalink: /conjuros/ira-divina/
 title: Ira Divina
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Ira Divina ◆◆ [CONJURO 4]
 

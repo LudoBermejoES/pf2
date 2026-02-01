@@ -4,6 +4,7 @@ permalink: /conjuros/regenerar/
 title: Regenerar
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Regenerar ◆◆ [CONJURO 7]
 

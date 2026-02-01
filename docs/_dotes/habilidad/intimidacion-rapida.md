@@ -6,6 +6,7 @@ chapter: Dotes
 category: dotes
 habilidad: Intimidación
 level: 1
+source: PC1
 ---
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>

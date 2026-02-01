@@ -4,6 +4,7 @@ permalink: /conjuros/teletransporte-interplanar/
 title: Teletransporte Interplanar
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Teletransporte Interplanar [CONJURO 7]
 

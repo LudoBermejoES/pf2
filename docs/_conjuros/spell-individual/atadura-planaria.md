@@ -4,6 +4,7 @@ permalink: /conjuros/atadura-planaria/
 title: Atadura Planaria
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Atadura Planaria ◆◆ [CONJURO 4]
 

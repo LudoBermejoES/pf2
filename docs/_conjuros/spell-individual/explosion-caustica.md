@@ -4,6 +4,7 @@ permalink: /conjuros/explosion-caustica/
 title: Explosion Caustica
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Explosion Caustica ◆◆ [TRUCO 1]
 

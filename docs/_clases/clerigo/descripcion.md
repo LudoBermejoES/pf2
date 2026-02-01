@@ -6,6 +6,7 @@ chapter: Clases
 category: clases
 nav_order: 2
 class_name: Clérigo
+source: PC1
 ---
 
 Los clérigos son siervos mortales de los dioses, canalizando el poder divino para cumplir la voluntad de sus deidades. Ya sea mediante la curación de los fieles, la destrucción de los enemigos de la fe o la difusion de la palabra sagrada, el clérigo es el conducto entre lo mortal y lo divino.

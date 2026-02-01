@@ -4,6 +4,7 @@ permalink: /reglas/acciones-basicas/golpe/
 title: Golpe
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Golpe ◆

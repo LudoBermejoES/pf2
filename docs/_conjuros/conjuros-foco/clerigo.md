@@ -5,6 +5,7 @@ title: Conjuros de Foco: Clérigo
 chapter: Conjuros
 category: conjuros
 nav_order: 6
+source: PC1
 ---
 
 Los clérigos obtienen conjuros de foco a través de sus dominios. Cada deidad otorga acceso a ciertos dominios, y cada dominio proporciona un conjuro de foco inicial (rango 1) y un conjuro de foco avanzado (rango 4). Estos conjuros representan la conexión especial del clérigo con los aspectos de su deidad.

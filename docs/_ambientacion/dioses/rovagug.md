@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 15
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Rovagug fue aprisionado hace mucho en el nucleo de Golarion a manos de otros muchos dioses trabajando de conjunto, y busca liberarse algún dia y desatar el caos sobre el mundo. Le sirven sus semillas y quienes buscan la destrucción definitiva de todas las cosas.

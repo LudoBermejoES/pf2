@@ -4,6 +4,7 @@ permalink: /conjuros/forma-de-dragon/
 title: Forma de Dragon
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Forma de Dragon ◆◆ [CONJURO 6]
 

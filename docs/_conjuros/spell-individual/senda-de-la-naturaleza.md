@@ -4,6 +4,7 @@ permalink: /conjuros/senda-de-la-naturaleza/
 title: Senda de la Naturaleza
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Senda de la Naturaleza [CONJURO 5]
 

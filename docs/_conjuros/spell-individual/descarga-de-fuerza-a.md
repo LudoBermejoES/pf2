@@ -4,6 +4,7 @@ permalink: /conjuros/descarga-de-fuerza-a/
 title: Descarga de Fuerza ◆ a
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Descarga de Fuerza ◆ a ◆◆◆ [CONJURO 1]
 

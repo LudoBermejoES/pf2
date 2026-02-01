@@ -6,6 +6,7 @@ description: Conceptos fundamentales del sistema de magia en Pathfinder 2ª Edic
 chapter: Conjuros
 category: conjuros
 nav_order: 1
+source: PC1
 ---
 
 En este capítulo encontrarás todo lo relacionado con la magia en Pathfinder 2ª Edición, desde conceptos fundamentales hasta la ejecución práctica de conjuros.

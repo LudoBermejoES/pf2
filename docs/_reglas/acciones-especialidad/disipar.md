@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/disipar/
 title: Disipar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Disipar ◆

@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 5
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a los viajeros a traves de la oscuridad y a los sonadores a traves de las pesadillas. Se deleita en la libertad y el misterio, y anima a sus seguidores a hacer lo propio.

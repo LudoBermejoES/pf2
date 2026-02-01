@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/agarrarse-a-un-saliente/
 title: Agarrarse a un Saliente
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Agarrarse a un Saliente ↺

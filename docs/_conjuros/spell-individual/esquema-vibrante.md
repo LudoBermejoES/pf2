@@ -4,6 +4,7 @@ permalink: /conjuros/esquema-vibrante/
 title: Esquema Vibrante
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Esquema Vibrante ◆◆ [CONJURO 6]
 

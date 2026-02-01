@@ -4,6 +4,7 @@ permalink: /conjuros/leer-la-mente/
 title: Leer la Mente
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Leer la Mente ◆◆ [CONJURO 3]
 

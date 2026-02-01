@@ -4,6 +4,7 @@ permalink: /conjuros/vision-de-la-muerte/
 title: Vision de la Muerte
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Vision de la Muerte ◆◆ [CONJURO 4]
 

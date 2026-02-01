@@ -5,6 +5,7 @@ title: Cómo Jugar
 description: Reglas fundamentales de Pathfinder 2ª Edición - Capítulo 8
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 Este capítulo contiene todas las reglas fundamentales para jugar a Pathfinder 2ª Edición. Aquí encontrarás cómo funcionan las pruebas, el combate, el movimiento y todos los demás elementos mecánicos del juego.

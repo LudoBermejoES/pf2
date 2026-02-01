@@ -4,6 +4,7 @@ permalink: /conjuros/desecar/
 title: Desecar
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Desecar ◆◆ [CONJURO 8]
 

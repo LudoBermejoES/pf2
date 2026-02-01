@@ -4,6 +4,7 @@ permalink: /conjuros/pulso-sinaptico/
 title: Pulso Sináptico
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Pulso Sináptico ◆◆ [CONJURO 5]
 

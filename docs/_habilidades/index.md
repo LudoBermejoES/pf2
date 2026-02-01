@@ -3,6 +3,7 @@ layout: page
 permalink: /habilidades/
 title: Habilidades
 chapter: Habilidades
+source: PC1
 ---
 
 Las habilidades miden tu entrenamiento en actividades específicas y determinan lo bien que puedes llevarlas a cabo. Cada habilidad está asociada con uno de tus atributos, reflejando la capacidad natural que subyace bajo tus intentos. Mejoras tus probabilidades de éxito en una prueba de habilidad si estás entrenado en la habilidad o tienes un modificador positivo en el atributo correspondiente.

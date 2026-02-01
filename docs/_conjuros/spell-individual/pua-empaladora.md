@@ -4,6 +4,7 @@ permalink: /conjuros/pua-empaladora/
 title: Púa Empaladora
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Púa Empaladora ◆◆ [CONJURO 5]
 

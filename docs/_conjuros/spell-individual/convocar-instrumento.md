@@ -4,6 +4,7 @@ permalink: /conjuros/convocar-instrumento/
 title: Convocar Instrumento
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Convocar Instrumento ◆◆◆ [TRUCO 1]
 

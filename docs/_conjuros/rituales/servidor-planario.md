@@ -5,6 +5,7 @@ title: Servidor Planario
 chapter: Conjuros
 category: conjuros
 ritual_rank: 5
+source: PC1
 ---
 
 ## Servidor Planario [RITUAL 5]

@@ -4,6 +4,7 @@ permalink: /conjuros/llama-flotante/
 title: Llama Flotante
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Llama Flotante ◆◆ [CONJURO 2]
 

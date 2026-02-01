@@ -4,6 +4,7 @@ permalink: /conjuros/hipnotizar/
 title: Hipnotizar
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Hipnotizar ◆◆ [CONJURO 3]
 

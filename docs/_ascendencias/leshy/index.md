@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Leahy
+source: PC1
 ---
 
 <img src="{{ '/assets/images/ancestries/leshy.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Leshy">

@@ -4,6 +4,7 @@ permalink: /conjuros/mensaje/
 title: Mensaje
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Mensaje ◆ [TRUCO 1]
 

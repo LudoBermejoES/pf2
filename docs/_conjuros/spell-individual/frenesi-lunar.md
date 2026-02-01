@@ -4,6 +4,7 @@ permalink: /conjuros/frenesi-lunar/
 title: Frenesi Lunar
 chapter: Conjuros
 spell_level: 5
+source: PC1
 ---
 ## Frenesi Lunar ◆◆ [CONJURO 5]
 

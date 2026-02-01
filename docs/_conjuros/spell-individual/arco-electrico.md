@@ -4,6 +4,7 @@ permalink: /conjuros/arco-electrico/
 title: Arco Eléctrico
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Arco Eléctrico ◆◆ [TRUCO 1]
 

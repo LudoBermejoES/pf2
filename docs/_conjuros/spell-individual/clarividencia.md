@@ -4,6 +4,7 @@ permalink: /conjuros/clarividencia/
 title: Clarividencia
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Clarividencia [CONJURO 4]
 

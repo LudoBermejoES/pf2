@@ -4,6 +4,7 @@ permalink: /conjuros/muro-de-espinos/
 title: Muro de Espinos
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Muro de Espinos ◆◆◆ [CONJURO 3]
 

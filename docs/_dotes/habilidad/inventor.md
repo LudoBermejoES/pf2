@@ -6,6 +6,7 @@ chapter: Dotes
 category: dotes
 habilidad: Artesanía
 level: 2
+source: PC1
 ---
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span><span class="feat-trait">Tiempo libre</span></div>

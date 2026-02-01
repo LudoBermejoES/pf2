@@ -4,6 +4,7 @@ permalink: /conjuros/paranoia/
 title: Paranoia
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Paranoia ◆◆ [CONJURO 2]
 

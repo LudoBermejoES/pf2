@@ -4,6 +4,7 @@ permalink: /conjuros/contorno-borroso/
 title: Contorno Borroso
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Contorno Borroso ◆◆ [CONJURO 2]
 

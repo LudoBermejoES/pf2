@@ -4,6 +4,7 @@ permalink: /conjuros/cadena-de-relampagos/
 title: Cadena de Relámpagos
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Cadena de Relampagos ◆◆ [CONJURO 6]
 

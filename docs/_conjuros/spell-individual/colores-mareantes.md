@@ -4,6 +4,7 @@ permalink: /conjuros/colores-mareantes/
 title: Colores Mareantes
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Colores Mareantes ◆◆ [CONJURO 1]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/clariaudiencia/
 title: Clariaudiencia
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Clariaudiencia [CONJURO 3]
 

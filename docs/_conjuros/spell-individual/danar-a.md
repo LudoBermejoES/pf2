@@ -4,6 +4,7 @@ permalink: /conjuros/danar-a/
 title: Danar ◆ a
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Danar ◆ a ◆◆◆ [CONJURO 1]
 

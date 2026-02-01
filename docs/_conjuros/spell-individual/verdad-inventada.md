@@ -4,6 +4,7 @@ permalink: /conjuros/verdad-inventada/
 title: Verdad Inventada
 chapter: Conjuros
 spell_level: 10
+source: PC1
 ---
 ## Verdad Inventada ◆◆◆ [CONJURO 10]
 

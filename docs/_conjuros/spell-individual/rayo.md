@@ -4,6 +4,7 @@ permalink: /conjuros/rayo/
 title: Rayo
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Rayo ◆◆ [CONJURO 1]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/uno-con-las-plantas/
 title: Uno con las Plantas
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Uno con las Plantas ◆◆ [DOTE 2]
 

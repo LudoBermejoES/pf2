@@ -4,6 +4,7 @@ permalink: /conjuros/leer-augurios/
 title: Leer Augurios
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Leer Augurios [CONJURO 4]
 

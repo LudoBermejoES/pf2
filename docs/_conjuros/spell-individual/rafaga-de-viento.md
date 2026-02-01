@@ -4,6 +4,7 @@ permalink: /conjuros/rafaga-de-viento/
 title: Ráfaga de Viento
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Ráfaga de Viento ◆◆ [CONJURO 1]
 

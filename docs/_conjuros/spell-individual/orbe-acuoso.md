@@ -4,6 +4,7 @@ permalink: /conjuros/orbe-acuoso/
 title: Orbe Acuoso
 chapter: Conjuros
 spell_level: 3
+source: PC1
 ---
 ## Orbe Acuoso ◆◆ [CONJURO 3]
 

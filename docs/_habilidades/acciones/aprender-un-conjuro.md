@@ -5,6 +5,7 @@ title: Aprender un Conjuro
 chapter: Habilidades
 parent: Acciones de Habilidad Generales
 nav_order: 1
+source: PC1
 ---
 
 ## Aprender un Conjuro (Entrenado)

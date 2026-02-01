@@ -4,6 +4,7 @@ permalink: /conjuros/luz-eterna/
 title: Luz Eterna
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Luz Eterna ◆◆◆ [CONJURO 2]
 

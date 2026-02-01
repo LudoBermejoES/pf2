@@ -4,6 +4,7 @@ permalink: /conjuros/reescribir-recuerdo/
 title: Reescribir Recuerdo
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Reescribir Recuerdo ◆◆ [CONJURO 4]
 

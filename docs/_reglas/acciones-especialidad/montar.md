@@ -4,6 +4,7 @@ permalink: /reglas/acciones-especialidad/montar/
 title: Montar
 chapter: Cómo Jugar
 category: reglas
+source: PC1
 ---
 
 ## Montar ◆

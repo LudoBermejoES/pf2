@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 16
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Antiguamente una poderosa angel y señora empierea, Sarenrae dirigio los esfuerzos para aprisionar a Rovagug. La Flor del Alba busca redimir el mal donde le es posible, hacer que arda mediante el fuego del sol cuando no puede ser redimido y restablecer a quienes han sido danados por las maquinaciones del mal.

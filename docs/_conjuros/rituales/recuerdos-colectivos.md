@@ -5,6 +5,7 @@ title: Recuerdos Colectivos
 chapter: Conjuros
 category: conjuros
 ritual_rank: 7
+source: PC1
 ---
 
 ## Recuerdos Colectivos [RITUAL 7]

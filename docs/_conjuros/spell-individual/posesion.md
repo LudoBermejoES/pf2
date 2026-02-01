@@ -4,6 +4,7 @@ permalink: /conjuros/posesion/
 title: Posesión
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Posesión ◆◆ [CONJURO 7]
 

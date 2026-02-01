@@ -8,6 +8,7 @@ category: ambientacion
 nav_order: 17
 parent: Dioses
 grand_parent: Ambientación
+source: PC1
 ---
 
 Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un mundo que a veces es oscuro. Busca redimir algún dia a su corrompido hermano Zon-Kuthon.

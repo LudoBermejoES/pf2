@@ -6,6 +6,7 @@ chapter: Ascendencias
 category: ascendencias
 nav_order: 1
 ancestry: Humano
+source: PC1
 ---
 
 A diferencia de otras ascendencias, los humanos no tienen diferencias fisiologicamente significativas definidas por su linaje. En su lugar, sus herencias revelan su potencial como pueblo y podrían reflejar las habilidades adicionales de sus numerosos grupos etnicos. Elige una de las siguientes herencias para humanos a 1.er nivel.

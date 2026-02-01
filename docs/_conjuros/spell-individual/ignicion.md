@@ -4,6 +4,7 @@ permalink: /conjuros/ignicion/
 title: Ignicion
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Ignicion ◆◆ [TRUCO 1]
 

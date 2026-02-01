@@ -4,6 +4,7 @@ permalink: /conjuros/metamorfosis-maldita/
 title: Metamorfosis Maldita
 chapter: Conjuros
 spell_level: 6
+source: PC1
 ---
 ## Metamorfosis Maldita ◆◆ [CONJURO 6]
 

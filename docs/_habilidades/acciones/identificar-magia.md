@@ -5,6 +5,7 @@ title: Identificar Magia
 chapter: Habilidades
 parent: Acciones de Habilidad Generales
 nav_order: 3
+source: PC1
 ---
 
 ## Identificar Magia (Entrenado)

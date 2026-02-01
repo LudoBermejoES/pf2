@@ -4,6 +4,7 @@ permalink: /conjuros/ubicar/
 title: Ubicar
 chapter: Conjuros
 spell_level: 8
+source: PC1
 ---
 ## Ubicar [CONJURO 8]
 

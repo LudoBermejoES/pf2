@@ -4,6 +4,7 @@ permalink: /conjuros/luz-reveladora/
 title: Luz Reveladora
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Luz Reveladora ◆◆ [CONJURO 2]
 

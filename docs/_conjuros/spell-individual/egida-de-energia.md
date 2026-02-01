@@ -4,6 +4,7 @@ permalink: /conjuros/egida-de-energia/
 title: Egida de Energia
 chapter: Conjuros
 spell_level: 7
+source: PC1
 ---
 ## Egida de Energia [CONJURO 7]
 

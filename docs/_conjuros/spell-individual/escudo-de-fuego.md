@@ -4,6 +4,7 @@ permalink: /conjuros/escudo-de-fuego/
 title: Escudo de Fuego
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Escudo de Fuego ◆◆ [CONJURO 4]
 

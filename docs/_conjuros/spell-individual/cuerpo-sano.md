@@ -4,6 +4,7 @@ permalink: /conjuros/cuerpo-sano/
 title: Cuerpo Sano
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Cuerpo Sano ◆◆ [CONJURO 2]
 

@@ -4,6 +4,7 @@ permalink: /conjuros/prestidigitacion/
 title: Prestidigitación
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Prestidigitación ◆◆ [TRUCO 1]
 

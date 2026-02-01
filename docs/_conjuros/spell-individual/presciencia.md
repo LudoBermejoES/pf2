@@ -4,6 +4,7 @@ permalink: /conjuros/presciencia/
 title: Presciencia
 chapter: Conjuros
 spell_level: 9
+source: PC1
 ---
 ## Presciencia ◆◆ [CONJURO 9]
 

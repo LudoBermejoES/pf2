@@ -4,6 +4,7 @@ permalink: /conjuros/zarcillo-enmaranador/
 title: Zarcillo Enmaranador
 chapter: Conjuros
 spell_level: TRUCO
+source: PC1
 ---
 ## Zarcillo Enmaranador ◆◆ [TRUCO 1]
 

@@ -5,6 +5,7 @@ title: Controlar el Clima
 chapter: Conjuros
 category: conjuros
 ritual_rank: 8
+source: PC1
 ---
 
 ## Controlar el Clima [RITUAL 8]

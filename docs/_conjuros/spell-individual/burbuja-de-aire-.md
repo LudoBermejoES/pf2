@@ -4,6 +4,7 @@ permalink: /conjuros/burbuja-de-aire-/
 title: Burbuja de Aire ↺
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Burbuja de Aire ↺ [CONJURO 1]
 

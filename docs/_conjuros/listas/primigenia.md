@@ -5,6 +5,7 @@ title: Lista de Conjuros Primigenios
 chapter: Conjuros
 category: conjuros
 nav_order: 6
+source: PC1
 ---
 
 Una "P" indica que el conjuro tiene efectos adicionales cuando es potenciado.

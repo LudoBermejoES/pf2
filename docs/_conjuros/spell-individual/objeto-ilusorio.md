@@ -4,6 +4,7 @@ permalink: /conjuros/objeto-ilusorio/
 title: Objeto Ilusorio
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Objeto Ilusorio ◆◆ [CONJURO 1]
 

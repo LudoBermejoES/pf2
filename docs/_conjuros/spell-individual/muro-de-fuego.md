@@ -4,6 +4,7 @@ permalink: /conjuros/muro-de-fuego/
 title: Muro de Fuego
 chapter: Conjuros
 spell_level: 4
+source: PC1
 ---
 ## Muro de Fuego ◆◆◆ [CONJURO 4]
 

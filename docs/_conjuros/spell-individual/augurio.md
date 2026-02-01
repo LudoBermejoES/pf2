@@ -4,6 +4,7 @@ permalink: /conjuros/augurio/
 title: Augurio
 chapter: Conjuros
 spell_level: 2
+source: PC1
 ---
 ## Augurio [CONJURO 2]
 

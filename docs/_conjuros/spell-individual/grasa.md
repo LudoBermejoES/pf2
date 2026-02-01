@@ -4,6 +4,7 @@ permalink: /conjuros/grasa/
 title: Grasa
 chapter: Conjuros
 spell_level: 1
+source: PC1
 ---
 ## Grasa ◆◆ [CONJURO 1]
 
