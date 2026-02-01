@@ -116,30 +116,53 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   color: var(--pf-gold);
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+  margin-bottom: var(--spacing-lg);
+  letter-spacing: 0.02em;
 }
 
 h2 {
-  font-size: 1.875rem;
+  font-size: 2rem;
   color: var(--pf-gold-light);
-  border-bottom: 2px solid var(--border-accent);
-  padding-bottom: var(--spacing-sm);
+  border-bottom: 3px solid var(--pf-gold-dark);
+  padding-bottom: var(--spacing-md);
+  margin-top: var(--spacing-2xl);
+  margin-bottom: var(--spacing-lg);
+  position: relative;
+}
+
+h2::after {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, var(--pf-gold-dark), transparent);
 }
 
 h3 {
   font-size: 1.5rem;
   color: var(--text-primary);
+  margin-top: var(--spacing-xl);
+  padding-left: var(--spacing-md);
+  border-left: 3px solid var(--pf-gold);
 }
 
 h4 {
   font-size: 1.25rem;
   color: var(--text-secondary);
+  margin-top: var(--spacing-lg);
 }
 
 p {
-  margin-bottom: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+  line-height: 1.8;
+  color: var(--text-primary);
+  font-size: 1.1rem;
 }
 
 a {
@@ -183,23 +206,45 @@ pre code {
 }
 
 blockquote {
-  margin: var(--spacing-lg) 0;
-  padding: var(--spacing-md) var(--spacing-lg);
+  margin: var(--spacing-2xl) 0;
+  padding: var(--spacing-lg) var(--spacing-xl);
   border-left: 4px solid var(--pf-gold);
-  background: var(--bg-card);
+  background: linear-gradient(90deg, rgba(201, 162, 39, 0.05) 0%, transparent 100%);
   border-radius: 0 var(--radius-md) var(--radius-md) 0;
   font-style: italic;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  box-shadow: -2px 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 blockquote p:last-child {
   margin-bottom: 0;
 }
 
+blockquote strong {
+  font-style: normal;
+  color: var(--pf-gold-light);
+}
+
 hr {
   border: none;
   height: 2px;
-  background: linear-gradient(90deg, transparent, var(--border-accent), transparent);
-  margin: var(--spacing-xl) 0;
+  background: linear-gradient(90deg, transparent, var(--pf-gold-dark) 20%, var(--pf-gold-dark) 80%, transparent);
+  margin: var(--spacing-2xl) 0;
+  position: relative;
+}
+
+hr::before {
+  content: '◆';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--pf-gold);
+  font-size: 1rem;
+  background: var(--bg-primary);
+  padding: 0 var(--spacing-sm);
 }
 
 /* Lists */
@@ -220,30 +265,46 @@ li::marker {
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: var(--spacing-lg) 0;
+  margin: var(--spacing-2xl) 0;
   font-size: 0.95rem;
+  border: 1px solid var(--border-primary);
+  border-radius: var(--radius-md);
+  overflow: hidden;
 }
 
 thead {
-  background: var(--pf-red-dark);
+  background: linear-gradient(135deg, var(--pf-red-dark) 0%, var(--pf-red) 100%);
 }
 
 th {
   font-family: var(--font-display);
-  font-weight: 600;
+  font-weight: 700;
   color: var(--pf-gold);
   text-align: left;
-  padding: var(--spacing-sm) var(--spacing-md);
-  border-bottom: 2px solid var(--pf-gold-dark);
+  padding: var(--spacing-md) var(--spacing-lg);
+  border-bottom: 3px solid var(--pf-gold-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.9rem;
 }
 
 td {
-  padding: var(--spacing-sm) var(--spacing-md);
+  padding: var(--spacing-md) var(--spacing-lg);
   border-bottom: 1px solid var(--border-primary);
+  vertical-align: top;
+}
+
+tbody tr:nth-child(odd) {
+  background: rgba(201, 162, 39, 0.02);
 }
 
 tbody tr:hover {
-  background: var(--bg-hover);
+  background: rgba(201, 162, 39, 0.08);
+  transition: background 0.2s ease;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
 }
 
 /* ============================================
@@ -570,6 +631,51 @@ tbody tr:hover {
   opacity: 1;
 }
 
+/* Subsection Labels */
+.subsection-label {
+  display: block;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: capitalize;
+  margin: var(--spacing-sm) 0 var(--spacing-xs) 0;
+  border-bottom: 1px solid var(--border-primary);
+}
+
+/* Subsection Links */
+.subsection-links {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 var(--spacing-md);
+}
+
+.subsection-links li {
+  margin: 0;
+}
+
+.subsection-links a {
+  display: block;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border-radius: var(--radius-sm);
+  transition: all 0.15s ease;
+}
+
+.subsection-links a:hover {
+  color: var(--pf-gold);
+  background: rgba(201, 162, 39, 0.08);
+  text-decoration: none;
+  padding-left: var(--spacing-md);
+}
+
+.subsection-links a.active {
+  color: var(--pf-gold);
+  background: rgba(201, 162, 39, 0.12);
+  font-weight: 600;
+}
+
 /* ============================================
    MAIN CONTENT
    ============================================ */
@@ -618,21 +724,36 @@ tbody tr:hover {
 }
 
 .page-header {
-  margin-bottom: var(--spacing-xl);
+  margin-bottom: var(--spacing-2xl);
+  padding-bottom: var(--spacing-xl);
+  border-bottom: 2px solid var(--pf-gold-dark);
+  position: relative;
+}
+
+.page-header::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, var(--pf-gold-dark), transparent);
 }
 
 .chapter-badge {
   display: inline-block;
-  padding: var(--spacing-xs) var(--spacing-sm);
-  background: var(--pf-red);
+  padding: var(--spacing-xs) var(--spacing-md);
+  background: linear-gradient(135deg, var(--pf-red) 0%, var(--pf-red-dark) 100%);
   color: var(--pf-gold);
   font-family: var(--font-display);
   font-size: 0.75rem;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.15em;
   border-radius: var(--radius-sm);
-  margin-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+  border: 1px solid var(--pf-gold-dark);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 .page-description {
