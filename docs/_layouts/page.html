@@ -5,7 +5,12 @@ layout: default
   {% if page.chapter %}
   <span class="chapter-badge">{{ page.chapter }}</span>
   {% endif %}
-  <h1>{{ page.title }}</h1>
+  <h1>
+    {{ page.title }}
+    {% if page.source %}
+    <span class="source-badge {% if page.source == 'PC2' %}pc2{% elsif page.source == 'PC1' %}pc1{% else %}pc1-pc2{% endif %}">{{ page.source }}</span>
+    {% endif %}
+  </h1>
   {% if page.description %}
   <p class="page-description">{{ page.description }}</p>
   {% endif %}

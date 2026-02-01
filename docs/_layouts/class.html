@@ -8,7 +8,12 @@ layout: default
     </div>
     <div class="class-title">
       <span class="chapter-badge">Clase</span>
-      <h1>{{ page.title }}</h1>
+      <h1>
+        {{ page.title }}
+        {% if page.source %}
+        <span class="source-badge {% if page.source == 'PC2' %}pc2{% elsif page.source == 'PC1' %}pc1{% else %}pc1-pc2{% endif %}">{{ page.source }}</span>
+        {% endif %}
+      </h1>
       {% if page.tagline %}
       <p class="class-tagline">{{ page.tagline }}</p>
       {% endif %}
