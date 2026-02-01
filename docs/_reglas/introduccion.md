@@ -50,7 +50,9 @@ Las secciones que cubren cada uno de los modos de juego detallan
 cómo funciona la estructura de dichos modos durante una
 sesión de juego. Las demás partes de este capítulo explican reglas
 que aparecen en el transcurso de la partida.
-Toma de decisiones
+
+## Toma de decisiones
+
 A lo largo de la partida, el DJ describe lo que sucede en el mundo y
 
 Después pregunta a los jugadores, "¿Qué hacéis?". Exactamente qué elegís hacer y cómo responde el DJ a dichas elecciones es lo que constituye una experiencia narrativa única. Cada partida es diferente, puesto que raramente tomaréis las mismas decisiones que otro grupo de jugadores (si es que alguna vez lo hacéis). Esto también es cierto para el DJ: dos DJ que dirijan exactamente la misma aventura pondrán un énfasis diferente y adornarán de forma diferente la forma de presentar cada escenario y encuentro.
@@ -82,21 +84,21 @@ Este juego presenta tres métodos principales de estructurar su mecánica.
 
 ### Modo de encuentro
 
-El **modo de encuentro** está altamente estructurado y se usa sobre todo para el combate o las situaciones tensas. Todo el mundo en el modo de encuentro tira iniciativa para determinar el orden en el que actúa, con los resultados más altos actuando primero. Un participante lleva a cabo su turno cuando llega su orden de iniciativa. Puedes Retrasar para cambiar el momento en el que llevas a cabo tu turno.
+El modo de **encuentro** está altamente estructurado y se usa sobre todo para el combate o las situaciones tensas. Todo el mundo en el modo de encuentro tira **iniciativa** para determinar el orden en el que actúa, con los resultados más altos actuando primero. Un participante lleva a cabo su turno cuando llega su orden de iniciativa. Puedes **Retrasar** para cambiar el momento en el que llevas a cabo tu turno.
 
 ### Modo de exploración
 
-El **modo de exploración** tiene lugar a lo largo de minutos o de horas. Si te estás moviendo, utilizas tu Velocidad de viaje y emprendes actividades de exploración como Evitar ser visto, Detectar magia, Explorar o Buscar. Puedes descansar durante la noche mientras exploras para recuperar PG y aptitudes, y llevar a cabo preparativos diarios al inicio de cada día.
+El modo de **exploración** tiene lugar a lo largo de minutos o de horas. Si te estás moviendo, utilizas tu Velocidad de viaje y emprendes **actividades de exploración** como Evitar ser visto, Detectar magia, Explorar o Buscar. Puedes **descansar** durante la noche mientras exploras para recuperar PG y aptitudes, y llevar a cabo **preparativos diarios** al inicio de cada día.
 
 ### Modo de tiempo libre
 
-El **modo de tiempo libre** tiene lugar a lo largo de días. Entre otras cosas podrías ganar dinero, entrenarte o recuperarte.
+El modo de **tiempo libre** tiene lugar a lo largo de días. Entre otras cosas podrías ganar dinero, entrenarte o recuperarte.
 
 ## Acciones
 
 Durante un encuentro, obtienes 3 acciones y 1 reacción por turno. Los iconos indican si tus aptitudes requieren una acción individual ◆, 2 acciones ◆◆, 3 acciones ◆◆◆, una reacción ↺, o una acción gratuita ◇. Las reacciones tienen desencadenantes, lo que te permite utilizarlas cuando se presenta la ocasión. La acción básica Preparar te permite prepararte para usar una acción individual como una reacción. Las acciones gratuitas pueden tener desencadenantes como las reacciones; una acción gratuita sin desencadenante se puede utilizar como una acción individual, pero no cuesta ninguna de tus acciones del turno.
 
-Las acciones más importantes que aprender son las acciones básicas. Las acciones básicas de especialidad aparecen con menos frecuencia y lo típico es que no las tengas que consultar hasta que lo necesites. Hablar no suele contar como una acción.
+Las acciones más importantes que aprender son las **acciones básicas**. Las acciones básicas de especialidad aparecen con menos frecuencia y lo típico es que no las tengas que consultar hasta que lo necesites. **Hablar** no suele contar como una acción.
 
 **Temas relacionados:** actividades, perturbar acciones.
 
