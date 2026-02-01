@@ -75,10 +75,10 @@
   --shadow-glow: 0 0 20px rgba(201, 162, 39, 0.2);
 
   /* Layout */
-  --sidebar-width: 280px;
+  --sidebar-width: 320px;
   --header-height: 64px;
   --content-max-width: 900px;
-  --toc-width: 220px;
+  --toc-width: 240px;
 }
 
 /* Reset & Base */
@@ -438,12 +438,13 @@ tbody tr:last-child td {
   left: 0;
   width: var(--sidebar-width);
   height: calc(100vh - var(--header-height));
-  background: var(--bg-secondary);
-  border-right: 1px solid var(--border-primary);
+  background: linear-gradient(180deg, rgba(35, 31, 26, 0.95) 0%, rgba(26, 22, 18, 0.95) 100%);
+  border-right: 2px solid var(--pf-gold-dark);
   overflow-y: auto;
   z-index: 900;
   scrollbar-width: thin;
-  scrollbar-color: var(--border-secondary) transparent;
+  scrollbar-color: var(--pf-gold-dark) transparent;
+  box-shadow: inset -2px 0 8px rgba(0, 0, 0, 0.4);
 }
 
 .sidebar::-webkit-scrollbar {
@@ -498,24 +499,27 @@ tbody tr:last-child td {
 
 .sidebar-links a {
   display: block;
-  padding: var(--spacing-xs) var(--spacing-sm);
+  padding: var(--spacing-sm) var(--spacing-md);
   font-size: 0.9rem;
   color: var(--text-secondary);
   border-radius: var(--radius-sm);
-  transition: all 0.15s ease;
+  transition: all 0.2s ease;
+  border-left: 2px solid transparent;
 }
 
 .sidebar-links a:hover {
   color: var(--pf-gold);
-  background: rgba(201, 162, 39, 0.1);
+  background: rgba(201, 162, 39, 0.12);
   text-decoration: none;
-  padding-left: var(--spacing-md);
+  border-left-color: var(--pf-gold);
+  padding-left: var(--spacing-lg);
 }
 
 .sidebar-links a.active {
   color: var(--pf-gold);
-  background: rgba(201, 162, 39, 0.15);
+  background: rgba(201, 162, 39, 0.18);
   font-weight: 600;
+  border-left-color: var(--pf-gold);
 }
 
 .sidebar-divider {
@@ -684,11 +688,11 @@ tbody tr:last-child td {
   margin-left: var(--sidebar-width);
   margin-top: var(--header-height);
   min-height: calc(100vh - var(--header-height));
-  padding: var(--spacing-xl);
+  padding: var(--spacing-2xl) var(--spacing-2xl);
   display: grid;
   grid-template-columns: 1fr var(--toc-width);
-  gap: var(--spacing-xl);
-  max-width: calc(var(--content-max-width) + var(--toc-width) + var(--spacing-xl) * 3);
+  gap: var(--spacing-2xl);
+  max-width: calc(var(--content-max-width) + var(--toc-width) + var(--spacing-2xl) * 3);
 }
 
 /* Breadcrumb */
@@ -721,6 +725,7 @@ tbody tr:last-child td {
 /* Page Content */
 .page-content {
   max-width: var(--content-max-width);
+  line-height: 1.8;
 }
 
 .page-header {
