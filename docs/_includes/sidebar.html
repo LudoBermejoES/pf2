@@ -1,20 +1,28 @@
 <nav class="sidebar-nav">
+  <!-- Introducción Section - Ordered by PDF -->
+  {% if page.chapter == "Introducción" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">📖</span>
       Introducción
     </h3>
     <ul class="sidebar-links">
-      <li><a href="{{ '/introduccion/que-es-jdr/' | relative_url }}">¿Qué es un JDR?</a></li>
-      <li><a href="{{ '/introduccion/primera-regla/' | relative_url }}">Primera Regla</a></li>
+      <li><a href="{{ '/introduccion/introduccion/' | relative_url }}">Introducción</a></li>
       <li><a href="{{ '/introduccion/como-se-juega/' | relative_url }}">Cómo se Juega</a></li>
-      <li><a href="{{ '/introduccion/puntos-basicos/' | relative_url }}">Puntos Básicos</a></li>
-      <li><a href="{{ '/introduccion/dados/' | relative_url }}">Dados</a></li>
       <li><a href="{{ '/introduccion/terminos-clave/' | relative_url }}">Términos Clave</a></li>
-      <li><a href="{{ '/apendices/glosario/' | relative_url }}">Glosario</a></li>
+      <li><a href="{{ '/introduccion/ejemplo-juego/' | relative_url }}">Ejemplo de Juego</a></li>
+      <li><a href="{{ '/introduccion/como-utilizar-libro/' | relative_url }}">Cómo Utilizar este Libro</a></li>
+      <li><a href="{{ '/introduccion/formato-reglas/' | relative_url }}">Formato de las Reglas</a></li>
+      <li><a href="{{ '/introduccion/creacion-personajes/' | relative_url }}">Creación de Personajes</a></li>
+      <li><a href="{{ '/introduccion/subir-nivel/' | relative_url }}">Subir de Nivel</a></li>
+      <li><a href="{{ '/introduccion/escenario/' | relative_url }}">Escenario</a></li>
+      <li><a href="{{ '/introduccion/dioses/' | relative_url }}">Dioses</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Tu Personaje Section -->
+  {% if page.chapter == "Tu Personaje" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">🧙</span>
@@ -23,14 +31,15 @@
     <ul class="sidebar-links">
       <li><a href="{{ '/tu-personaje/' | relative_url }}">Introducción</a></li>
       <li><a href="{{ '/tu-personaje/herramientas/' | relative_url }}">Herramientas de Juego</a></li>
-      <li><a href="{{ '/tu-personaje/creacion-personajes/' | relative_url }}">Creación de Personajes</a></li>
       <li><a href="{{ '/tu-personaje/atributos/' | relative_url }}">Atributos</a></li>
-      <li><a href="{{ '/tu-personaje/subir-nivel/' | relative_url }}">Subir de Nivel</a></li>
       <li><a href="{{ '/tu-personaje/exploracion/' | relative_url }}">Exploración</a></li>
       <li><a href="{{ '/tu-personaje/tiempo-libre/' | relative_url }}">Tiempo Libre</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Ambientación Section -->
+  {% if page.chapter == "Ambientación" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">🌍</span>
@@ -42,7 +51,10 @@
       <li><a href="{{ '/ambientacion/idiomas/' | relative_url }}">Idiomas</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Ascendencias Section -->
+  {% if page.chapter == "Ascendencias" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">👥</span>
@@ -53,7 +65,10 @@
       <li><a href="{{ '/ascendencias/bagajes/' | relative_url }}">Bagajes</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Clases Section -->
+  {% if page.chapter == "Clases" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">⚔</span>
@@ -66,7 +81,10 @@
       <li><a href="{{ '/clases/companeros/familiares/' | relative_url }}">Familiares</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Habilidades Section -->
+  {% if page.chapter == "Habilidades" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">🎯</span>
@@ -77,7 +95,10 @@
       <li><a href="{{ '/habilidades/' | relative_url }}">Acciones por Habilidades</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Dotes Section -->
+  {% if page.chapter == "Dotes" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">✨</span>
@@ -89,7 +110,10 @@
       <li><a href="{{ '/dotes/habilidad/' | relative_url }}">Dotes de Habilidad</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Equipo Section -->
+  {% if page.chapter == "Equipo" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">🛡</span>
@@ -103,7 +127,10 @@
       <li><a href="{{ '/equipo/objetos/' | relative_url }}">Objetos</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Conjuros Section -->
+  {% if page.chapter == "Conjuros" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">🔮</span>
@@ -117,7 +144,10 @@
       <li><a href="{{ '/conjuros/rituales/rituales/' | relative_url }}">Rituales</a></li>
     </ul>
   </div>
+  {% endif %}
 
+  <!-- Cómo Jugar Section -->
+  {% if page.chapter == "Cómo Jugar" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
       <span class="section-icon">📜</span>
@@ -137,4 +167,19 @@
       <li><a href="{{ '/apendices/estados/' | relative_url }}">Estados</a></li>
     </ul>
   </div>
+  {% endif %}
+
+  <!-- Apéndices Section -->
+  {% if page.chapter == "Apéndices" %}
+  <div class="sidebar-section">
+    <h3 class="sidebar-heading">
+      <span class="section-icon">📑</span>
+      Apéndices
+    </h3>
+    <ul class="sidebar-links">
+      <li><a href="{{ '/apendices/glosario/' | relative_url }}">Glosario</a></li>
+      <li><a href="{{ '/apendices/estados/' | relative_url }}">Estados</a></li>
+    </ul>
+  </div>
+  {% endif %}
 </nav>

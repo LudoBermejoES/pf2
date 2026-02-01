@@ -73,3 +73,11 @@ A medida que un personaje sube de nivel, su bonificador por competencia aumenta 
 ### Ejemplo de competencia
 
 Un guerrero de nivel 5 que es experto con espadas largas tiene un bonificador por competencia de +9 (nivel 5 + 4 por ser experto) en sus tiradas de ataque con esa arma.
+
+## Acciones
+
+Las acciones son la forma fundamental en que los personajes interactúan con el mundo. Todo lo que haces en Pathfinder, desde combatir hasta moverte, se resuelve mediante acciones.
+
+- [Acciones Generales]({{ '/reglas/acciones/' | relative_url }}) - Conceptos y reglas fundamentales sobre cómo funcionan las acciones
+- [Acciones Básicas]({{ '/reglas/acciones-basicas/' | relative_url }}) - 15 acciones que todos los personajes pueden usar
+- [Acciones de Especialidad]({{ '/reglas/acciones-especialidad/' | relative_url }}) - Acciones especiales que requieren circunstancias específicas
