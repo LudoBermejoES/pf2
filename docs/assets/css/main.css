@@ -6,35 +6,35 @@
 /* CSS Variables - Pathfinder 2 Color Palette */
 :root {
   /* Primary Colors */
-  --pf-red: #5c1a1a;
-  --pf-red-light: #8b2635;
-  --pf-red-dark: #3d1111;
-  --pf-gold: #c9a227;
-  --pf-gold-light: #e6c866;
-  --pf-gold-dark: #9a7b1c;
+  --pf-red: #7d4437;
+  --pf-red-light: #a85a4f;
+  --pf-red-dark: #5c3530;
+  --pf-gold: #b8860b;
+  --pf-gold-light: #daa520;
+  --pf-gold-dark: #8b6914;
 
-  /* Background Colors */
-  --bg-primary: #1a1612;
-  --bg-secondary: #231f1a;
-  --bg-tertiary: #2d2722;
-  --bg-card: #272220;
-  --bg-hover: #332e28;
+  /* Background Colors - Light parchment theme */
+  --bg-primary: #e8dcc8;
+  --bg-secondary: #dfd5bf;
+  --bg-tertiary: #d9cebc;
+  --bg-card: #e2d7c3;
+  --bg-hover: #d4c9b8;
 
   /* Parchment/Paper Colors */
   --parchment: #f4e4c9;
   --parchment-dark: #e8d4b0;
   --parchment-shadow: #d4c4a0;
 
-  /* Text Colors */
-  --text-primary: #f0e6d8;
-  --text-secondary: #b8a890;
-  --text-muted: #8a7d6d;
+  /* Text Colors - Dark on light */
+  --text-primary: #2d2722;
+  --text-secondary: #5a5550;
+  --text-muted: #8a8680;
   --text-accent: var(--pf-gold);
-  --text-dark: #2d2722;
+  --text-dark: #1a1612;
 
   /* Border Colors */
-  --border-primary: #3d3530;
-  --border-secondary: #524a42;
+  --border-primary: #c4bdb0;
+  --border-secondary: #b5aea0;
   --border-accent: var(--pf-gold-dark);
 
   /* Semantic Colors */
@@ -100,8 +100,8 @@ body {
   color: var(--text-primary);
   background-color: var(--bg-primary);
   background-image:
-    radial-gradient(ellipse at top, rgba(92, 26, 26, 0.1) 0%, transparent 50%),
-    radial-gradient(ellipse at bottom, rgba(201, 162, 39, 0.05) 0%, transparent 50%);
+    radial-gradient(ellipse at top, rgba(125, 68, 55, 0.05) 0%, transparent 50%),
+    radial-gradient(ellipse at bottom, rgba(184, 134, 11, 0.03) 0%, transparent 50%);
   min-height: 100vh;
 }
 
@@ -193,16 +193,16 @@ code {
   font-family: var(--font-mono);
   font-size: 0.9em;
   padding: 0.2em 0.5em;
-  background: var(--bg-tertiary);
-  border: 1px solid var(--pf-gold-dark);
+  background: var(--bg-card);
+  border: 1px solid var(--border-secondary);
   border-radius: var(--radius-sm);
-  color: var(--pf-gold-light);
+  color: var(--pf-red);
   font-weight: 500;
 }
 
 pre {
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-primary);
+  background: var(--bg-card);
+  border: 1px solid var(--border-secondary);
   border-left: 3px solid var(--pf-gold);
   border-radius: var(--radius-md);
   padding: var(--spacing-lg);
@@ -221,13 +221,13 @@ blockquote {
   margin: var(--spacing-2xl) 0;
   padding: var(--spacing-lg) var(--spacing-xl);
   border-left: 4px solid var(--pf-gold);
-  background: linear-gradient(90deg, rgba(201, 162, 39, 0.05) 0%, transparent 100%);
+  background: linear-gradient(90deg, rgba(184, 134, 11, 0.08) 0%, transparent 100%);
   border-radius: 0 var(--radius-md) var(--radius-md) 0;
   font-style: italic;
   font-size: 1.05rem;
   line-height: 1.8;
   color: var(--text-secondary);
-  box-shadow: -2px 2px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: -2px 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 blockquote p:last-child {
@@ -332,10 +332,10 @@ tbody tr:last-child td {
   left: 0;
   right: 0;
   height: var(--header-height);
-  background: linear-gradient(180deg, var(--pf-red-dark) 0%, var(--bg-primary) 100%);
-  border-bottom: 2px solid var(--pf-gold-dark);
+  background: linear-gradient(180deg, #a85a4f 0%, var(--bg-primary) 100%);
+  border-bottom: 3px solid var(--pf-gold-dark);
   z-index: 1000;
-  box-shadow: var(--shadow-lg);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .header-content {
@@ -453,13 +453,13 @@ tbody tr:last-child td {
   left: 0;
   width: var(--sidebar-width);
   height: calc(100vh - var(--header-height));
-  background: linear-gradient(180deg, rgba(35, 31, 26, 0.95) 0%, rgba(26, 22, 18, 0.95) 100%);
-  border-right: 2px solid var(--pf-gold-dark);
+  background: linear-gradient(180deg, #4a5d3f 0%, #3d5238 100%);
+  border-right: 3px solid var(--pf-gold-dark);
   overflow-y: auto;
   z-index: 900;
   scrollbar-width: thin;
   scrollbar-color: var(--pf-gold-dark) transparent;
-  box-shadow: inset -2px 0 8px rgba(0, 0, 0, 0.4);
+  box-shadow: inset -2px 0 8px rgba(0, 0, 0, 0.3);
 }
 
 .sidebar::-webkit-scrollbar {
@@ -489,13 +489,13 @@ tbody tr:last-child td {
   gap: var(--spacing-sm);
   font-family: var(--font-display);
   font-size: 0.875rem;
-  font-weight: 600;
-  color: var(--pf-gold);
+  font-weight: 700;
+  color: var(--pf-gold-light);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin-bottom: var(--spacing-sm);
   padding-bottom: var(--spacing-xs);
-  border-bottom: 1px solid var(--border-primary);
+  border-bottom: 1px solid rgba(218, 165, 32, 0.4);
 }
 
 .section-icon {
@@ -788,12 +788,12 @@ tbody tr:last-child td {
   top: calc(var(--header-height) + var(--spacing-2xl));
   align-self: start;
   padding: var(--spacing-lg);
-  background: linear-gradient(135deg, rgba(45, 39, 34, 0.8) 0%, rgba(35, 31, 26, 0.8) 100%);
+  background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-secondary) 100%);
   border: 2px solid var(--pf-gold-dark);
   border-radius: var(--radius-md);
   max-height: calc(100vh - var(--header-height) - var(--spacing-2xl) * 2);
   overflow-y: auto;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .table-of-contents h3 {
@@ -821,7 +821,7 @@ tbody tr:last-child td {
 .table-of-contents a {
   display: block;
   font-size: 0.8rem;
-  color: var(--text-secondary);
+  color: var(--text-primary);
   padding: var(--spacing-sm) var(--spacing-sm);
   border-left: 3px solid transparent;
   padding-left: var(--spacing-md);
@@ -864,7 +864,7 @@ tbody tr:last-child td {
 .search-modal-backdrop {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(4px);
 }
 
@@ -873,10 +873,10 @@ tbody tr:last-child td {
   width: 90%;
   max-width: 700px;
   max-height: 70vh;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-accent);
+  background: var(--bg-primary);
+  border: 2px solid var(--border-accent);
   border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-lg), var(--shadow-glow);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -963,7 +963,7 @@ tbody tr:last-child td {
   gap: var(--spacing-xs);
   padding: var(--spacing-sm) var(--spacing-md);
   border-bottom: 1px solid var(--border-primary);
-  background: var(--bg-tertiary);
+  background: var(--bg-secondary);
 }
 
 .filter-btn {
