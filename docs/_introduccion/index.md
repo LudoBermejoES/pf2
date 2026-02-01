@@ -1,8 +1,10 @@
 ---
 layout: page
-permalink: /introduccion/
-title: Introduccion
-description: Contenido del capítulo Introducción
+permalink: /introduccion/introduccion/
+title: Introducción
+chapter: Introducción
+category: introduccion
+nav_order: 1
 ---
 
 Contenido del capítulo Introducción

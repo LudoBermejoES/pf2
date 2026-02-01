@@ -4,7 +4,7 @@ permalink: /introduccion/subir-nivel/
 title: Subir de Nivel
 chapter: Introducción
 category: introduccion
-nav_order: 8
+nav_order: 7
 ---
 
 Con cada bestia terrorífica y trampa mortal superadas, un personaje obtiene Puntos de Experiencia (PX), que le permiten subir de nivel. Cada nivel concede mayores aptitudes, una resistencia incrementada y nuevas capacidades, lo que permitirá que tu personaje se enfrente a desafíos aún mayores y consiga recompensas aún más impresionantes.

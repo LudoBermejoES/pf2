@@ -2,9 +2,9 @@
 layout: page
 permalink: /introduccion/terminos-clave/
 title: Términos Clave
-chapter: Introduccion
+chapter: Introducción
 category: introduccion
-nav_order: 0
+nav_order: 3
 ---
 
 Existe cierta cantidad de términos importantes que necesitas conocer para crear tu primer personaje o tu primera aventura.

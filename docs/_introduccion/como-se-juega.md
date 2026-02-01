@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /introduccion/como-se-juega/
-title: Como se Juega
-chapter: Introduccion
+title: Cómo se Juega
+chapter: Introducción
 category: introduccion
-nav_order: 0
+nav_order: 2
 ---
 
 Pathfinder es un juego de rol de mesa en el que un grupo de jugadores asume el papel de heroes que exploran un mundo de fantasia, enfrentan peligros y forjan su propia leyenda. Un jugador toma el rol de Director de Juego (DJ), quien narra la historia, controla a los personajes no jugadores y arbitra las reglas.
