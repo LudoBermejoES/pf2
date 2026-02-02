@@ -69,4 +69,20 @@ Durante un encuentro dispones de **3 acciones** (◆) y **1 reacción** (↺) po
 
 ---
 
+## Ejemplos de Juego
+
+Aprende cómo funcionan las reglas en la práctica con estos ejemplos paso a paso:
+
+| Ejemplo | Descripción |
+|---------|-------------|
+| [**Combate Completo**]({{ '/reglas/ejemplos/combate/' | relative_url }}) | Encuentro contra bandidos: iniciativa, turnos, ataques y estados |
+| [**Explorando una Mazmorra**]({{ '/reglas/ejemplos/exploracion/' | relative_url }}) | Actividades de exploración, trampas y descansos |
+| [**Semana en la Ciudad**]({{ '/reglas/ejemplos/tiempo-libre/' | relative_url }}) | Ganar dinero, fabricar objetos y recuperarse |
+| [**Negociación Tensa**]({{ '/reglas/ejemplos/encuentro-social/' | relative_url }}) | Encuentro social con Diplomacia, Engaño e Intimidación |
+| [**Tiradas y Grados de Éxito**]({{ '/reglas/ejemplos/tiradas/' | relative_url }}) | Críticos, fallos críticos y modificadores |
+
+[Ver todos los ejemplos →]({{ '/reglas/ejemplos/' | relative_url }})
+
+---
+
 **Capítulo 8**: Cómo se Juega - Pathfinder 2ª Edición
