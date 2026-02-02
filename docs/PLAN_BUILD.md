@@ -54,11 +54,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Fuerza (+4), luego Constitución (+3), Destreza y Sabiduría secundarios (+1)
 - **Arma**: Espada bastarda o Hacha de guerra
 - **Dotes clave**:
-  - Nivel 1: Momento de Claridad
-  - Nivel 4: Carga del Dragón
-  - Nivel 6: Aliento de Furia del Dragón
-  - Nivel 12: Alas de Furia del Dragón
-  - Nivel 16: Transformación del Dragón
+  - Nivel 1: Momento de Claridad ✓
+  - Nivel 1: Arrogancia Dracónica ✓
+  - Nivel 6: Aliento de Ira Dracónica ✓
+  - Nivel 12: Alas de Ira Dracónica ✓
+  - Nivel 16: Transformación Dracónica ✓
 - **Estilo de juego**: Daño de energía que ignora resistencias físicas, culminando en transformación dracónica.
 
 ### Build 2: Gigante con Alcance
@@ -67,11 +67,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Fuerza (+4), luego Constitución (+3), Destreza secundaria (+1)
 - **Arma**: Arma de tamaño Grande (gratis con el instinto) - Guadaña o Martillo de guerra
 - **Dotes clave**:
-  - Nivel 1: Ataque de Oportunidad (esencial)
-  - Nivel 6: Estatura de Gigante (+5 pies de alcance)
-  - Nivel 8: Abusón Furioso
-  - Nivel 12: Estatura de Titán
-  - Nivel 14: Acometida del Gigante
+  - Nivel 1: Ataque de Oportunidad ✓ (capacidad de clase con Instinto Gigante)
+  - Nivel 6: Estatura de Gigante ✓
+  - Nivel 8: Abusón Furioso ✓
+  - Nivel 12: Estatura de Titán ✗ (no existe - usar Forma de Gigante a nivel 12)
+  - Nivel 14: Estocada de Gigante ✓
 - **Estilo de juego**: Control del campo de batalla con alcance masivo, amenazando un área enorme.
 
 ### Build 3: Bárbaro Espiritual Totémico
@@ -80,10 +80,10 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Fuerza y Constitución (+3 ambos), Destreza (+2), Sabiduría secundaria (+1)
 - **Arma**: Depende del animal - Garras (Lobo), Mandíbulas (Oso)
 - **Dotes clave**:
-  - Nivel 1: Piel Animal
-  - Nivel 4: Atleta Furioso
-  - Nivel 6: Furia Renovada
-  - Nivel 10: Furia Compartida (con compañero animal vía arquetipo)
+  - Nivel 6: Piel Animal ✓
+  - Nivel 4: Atleta Rabioso ✓
+  - Nivel 6: Furia Renovada ✗ (no existe)
+  - Nivel 8: Compartir Ira ✓
 - **Estilo de juego**: Más defensivo que otros bárbaros, con transformaciones animales.
 
 ---
@@ -98,12 +98,12 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Armadura**: Placas completas
 - **Aliado Divino**: Escudo
 - **Dotes clave**:
-  - Nivel 1: Deidad con Sanación
-  - Nivel 2: Bloqueo con Escudo divino
-  - Nivel 4: Golpe de la Misericordia
-  - Nivel 6: Escudo del Aliado
-  - Nivel 8: Armadura Divina
+  - Nivel 1: Corcel Fiel ✓ o Dominio del Campeón ✓
+  - Nivel 6: Guardián del Escudo ✓
+  - Nivel 6: Expandir Aura ✓
+  - Nivel 8: Bloqueo con Escudo Rápido ✓
 - **Estilo de juego**: Reacción para reducir daño a aliados y Enfeeble al atacante. Muy difícil de matar.
+- **Nota**: Imposición de manos es un conjuro de devoción (capacidad de clase), no una dote.
 
 ### Build 2: Liberador de Alta Movilidad
 **Concepto**: Permite a los aliados reposicionarse mientras los protege.
@@ -112,11 +112,12 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Arma**: Lucero del alba + Escudo
 - **Aliado Divino**: Corcel (Compañero Animal)
 - **Dotes clave**:
-  - Nivel 1: Imposición de Manos
-  - Nivel 4: Aura de Valentía
-  - Nivel 6: Montura de Campeón
-  - Nivel 10: Litania contra el Mal
+  - Nivel 1: Corcel Fiel ✓
+  - Nivel 4: Aura de Coraje ✓
+  - Nivel 6: Montura Leal ✓
+  - Nivel 10: Corcel Imponente ✓
 - **Estilo de juego**: Combate montado, liberando aliados de restricciones mientras cabalga al rescate.
+- **Nota**: Imposición de manos es un conjuro de devoción (capacidad de clase), no una dote.
 
 ### Build 3: Paladín Castigador
 **Concepto**: El campeón más ofensivo, con golpe de represalia.
@@ -125,10 +126,10 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Arma**: Espada de dos manos (Espadón) o Martillo de guerra
 - **Aliado Divino**: Hoja
 - **Dotes clave**:
-  - Nivel 1: Canalizar Castigo
-  - Nivel 4: Juramento contra el Mal
-  - Nivel 6: Ataque de Represalia mejorado
-  - Nivel 8: Armadura Sagrada
+  - Nivel 1: Avance Defensivo ✓
+  - Nivel 4: Aura de Coraje ✓
+  - Nivel 6: Ataque del Desafío ✗ (no existe - usar Golpe Retributivo a Distancia ✓)
+  - Nivel 10: Armamento Radiante ✓
 - **Estilo de juego**: Daño extra contra el mal, contraataques frecuentes.
 
 ---
@@ -141,11 +142,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Armas**: Rapier + Espada corta o Espada Aldori + Daga
 - **Armadura**: Cuero tachonado o Cota de malla ligera
 - **Dotes clave**:
-  - Nivel 1: Doble Corte
-  - Nivel 2: Parada Gemela
-  - Nivel 4: Finta Gemela
-  - Nivel 6: Riposte Gemela
-  - Nivel 8: Ráfaga de Doble Arma (Flourish/Press)
+  - Nivel 1: Doble Tajo ✓
+  - Nivel 2: Parada Gemela ✓
+  - Nivel 4: Distracción Gemela ✓ (antes "Finta Gemela")
+  - Nivel 6: Réplica Gemela ✓ (antes "Riposte Gemela")
+  - Nivel 8: Posición de Doble Arma ✗ (no existe)
 - **Estilo de juego**: Muchos ataques con penalización reducida, defensa con parada gemela.
 
 ### Build 2: Guerrero de Escudo Reactivo
@@ -154,11 +155,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Armas**: Espada larga/Hacha de batalla + Escudo pesado
 - **Armadura**: Placas completas
 - **Dotes clave**:
-  - Nivel 1: Ataque Reactivo
-  - Nivel 2: Bloqueo con Escudo Agresivo
-  - Nivel 4: Puñetazo de Escudo
-  - Nivel 6: Fortificación del Escudo
-  - Nivel 8: Reflejos del Escudo
+  - Nivel 1: Escudo Reactivo ✓
+  - Nivel 2: Bloqueo Agresivo ✓
+  - Nivel 4: Golpe de Escudo ✗ (no existe - usar Embestida con Escudo ✓)
+  - Nivel 6: Guardián Escudo ✓
+  - Nivel 8: Bloqueo con el Escudo Rápido ✓
 - **Estilo de juego**: Bloquea, contraataca, nunca muere. Simple pero devastador.
 
 ### Build 3: Arquero de Precisión
@@ -167,11 +168,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Arma**: Arco largo compuesto
 - **Armadura**: Cuero
 - **Dotes clave**:
-  - Nivel 1: Disparo en Movimiento
-  - Nivel 2: Disparo Certero
-  - Nivel 4: Triple Disparo
-  - Nivel 6: Puntería Firme
-  - Nivel 8: Disparo Penetrante
+  - Nivel 1: Disparo de Ayuda ✓
+  - Nivel 2: Disparo Doble ✓
+  - Nivel 6: Disparo Triple ✓
+  - Nivel 8: Posición de Disparo Móvil ✓
+  - Nivel 10: Disparo Debilitante ✓
   - Nivel 10: Disparo Múltiple
 - **Estilo de juego**: Alto daño a distancia, excelente precisión gracias a la progresión de competencia del guerrero.
 
@@ -185,12 +186,13 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Destreza (+4), Carisma (+3), Constitución secundaria (+1)
 - **Armas**: Pistola + Rapier
 - **Dotes clave**:
-  - Nivel 1: Fanfarronear
-  - Nivel 2: Recarga Oportuna
-  - Nivel 4: Estocada del Espadachín
-  - Nivel 6: Disparo de Precisión
-  - Nivel 8: Estilo del Mosquetero
+  - Nivel 1: Broquel Elegante ✓ o Cuchilla Voladora ✓
+  - Nivel 2: Desenfundado Ostentoso ✓
+  - Nivel 4: Remate Desequilibrante ✓
+  - Nivel 6: Lanzamiento Giratorio ✓
+  - Nivel 8: Remate Aturdidor ✓
 - **Estilo de juego**: Dispara, gana Aplomo, acércate para el Finisher devastador.
+- **Nota**: Espadachín no tiene dotes específicas de pistola; usar arquetipo Pistolero.
 
 ### Build 2: Duelista Gimnástico
 **Concepto**: Acrobático y elegante, usando el entorno.
@@ -198,11 +200,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Destreza (+4), Carisma (+2), Fuerza secundaria (+1)
 - **Arma**: Rapier o Sable
 - **Dotes clave**:
-  - Nivel 1: Caída de Gato
-  - Nivel 2: Tumbada Acrobática
-  - Nivel 4: Salto del Duende
-  - Nivel 6: Salto Derribador
-  - Nivel 8: Evasión Elegante
+  - Nivel 1: Caída de Gato ✓ (dote de habilidad)
+  - Nivel 1: Caída en Picado ✓
+  - Nivel 4: Atleta Extravagante ✓
+  - Nivel 6: Voltereta Vejatoria ✓
+  - Nivel 8: Rodar Llamativo ✓
 - **Estilo de juego**: Volteretas, saltos, tropiezos - el espadachín más móvil.
 
 ### Build 3: Espadachín Ingenioso (Wit)
@@ -211,11 +213,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Carisma (+4), Destreza (+3), Inteligencia secundaria (+1)
 - **Arma**: Espada corta o Estoque
 - **Dotes clave**:
-  - Nivel 1: Insulto Desestabilizador
-  - Nivel 2: Burla Provocadora
-  - Nivel 4: Golpe Oportunista
-  - Nivel 6: Charme Encantador
-  - Nivel 8: Distracción Verbal
+  - Nivel 1: Fascinación Concentrada ✓
+  - Nivel 2: Finta Provocadora ✓
+  - Nivel 2: Antagonizar ✓
+  - Nivel 4: Disfrutar el Espectáculo ✓
+  - Nivel 8: Fanfarronería Vivaz ✓
 - **Estilo de juego**: Control social y mental, confunde enemigos, Face del grupo.
 
 ---
@@ -228,11 +230,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Destreza (+4), Inteligencia (+2), Carisma secundario (+1)
 - **Armas**: Dagas (arrojadizas también), Espada corta
 - **Dotes clave**:
-  - Nivel 1: Movilidad
-  - Nivel 2: Desaparición Rápida
-  - Nivel 4: Movimiento Furtivo
-  - Nivel 6: Golpe Taimado
-  - Nivel 8: Desviación Oportunista
+  - Nivel 1: Movilidad ✓
+  - Nivel 2: Adepto del Movimiento Furtivo ✓
+  - Nivel 4: Golpe Hostigador ✓
+  - Nivel 6: Golpe Desequilibrante ✓
+  - Nivel 8: Desviar Atención ✓
 - **Estilo de juego**: Entra, apuñala, desaparece. El pícaro clásico.
 
 ### Build 2: Matón Intimidante (Ruffian)
@@ -242,11 +244,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Armas**: Maza, Sap, o armas d8
 - **Armadura**: Armadura media
 - **Dotes clave**:
-  - Nivel 1: Intimidación Brutal
-  - Nivel 2: Nocaut
-  - Nivel 4: Golpe Intimidante
-  - Nivel 6: Postura Amenazante
-  - Nivel 8: Mirada Aterradora
+  - Nivel 1: Tu Eres el Siguiente ✓ (de Espadachín, vía arquetipo)
+  - Nivel 2: Paliza Brutal ✓
+  - Nivel 4: Golpe Hostigador ✓
+  - Nivel 6: Derribo Doloroso ✓
+  - Nivel 8: Desarme Taimado ✓
 - **Estilo de juego**: Golpea fuerte, aterroriza, deja inconscientes. Menos sigiloso, más contundente.
 
 ### Build 3: Cerebro Criminal (Mastermind)
@@ -255,11 +257,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Inteligencia (+4), Destreza (+3), Carisma secundario (+1)
 - **Armas**: Ballesta de mano, Rapier
 - **Dotes clave**:
-  - Nivel 1: Recordar Conocimiento en combate
-  - Nivel 2: Evaluación Rápida
-  - Nivel 4: Trucos del Oficio (multiclase Investigador recomendado)
-  - Nivel 6: Explotación de Debilidad
-  - Nivel 8: Conocimiento Estratégico
+  - Nivel 1: Analizar Debilidad ✓ (capacidad del racket Cerebro)
+  - Nivel 2: Golpe Estratégico ✓
+  - Nivel 4: Conocimiento Perturbador ✓ (dote de habilidad)
+  - Nivel 6: Predicción Táctica ✓
+  - Nivel 8: Ataque de Puntos de Presión ✓
 - **Estilo de juego**: Identifica enemigos, comunica debilidades al grupo, ataca puntos vitales.
 
 ---
@@ -273,11 +275,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Armas**: Dos espadas cortas o Hacha de mano + Hacha arrojadiza
 - **Compañero Animal**: Lobo (Derribar) o Leopardo (Velocidad)
 - **Dotes clave**:
-  - Nivel 1: Compañero Animal
-  - Nivel 2: Derribo Doble
-  - Nivel 4: Compañero Maduro
-  - Nivel 6: Compañero Increíble
-  - Nivel 8: Grito del Compañero
+  - Nivel 1: Compañero Animal ✓
+  - Nivel 2: Derribo Gemelo ✓
+  - Nivel 4: Compañero Animal Maduro ✓
+  - Nivel 6: Ataque del Compañero Increíble ✗ (no existe - usar Disparo Instantáneo ✓)
+  - Nivel 8: Grito del Compañero ✓
 - **Estilo de juego**: 4 ataques propios + 2-3 del compañero por turno. Abrumador.
 
 ### Build 2: Arquero de Precisión
@@ -286,11 +288,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Destreza (+4), Sabiduría (+2), Fuerza secundaria (+1 para arcos compuestos)
 - **Arma**: Arco largo compuesto
 - **Dotes clave**:
-  - Nivel 1: Disparo Cazador
-  - Nivel 2: Apuntar
-  - Nivel 4: Tiro Corriendo
-  - Nivel 6: Disparo Penetrante
-  - Nivel 8: Doble Presa
+  - Nivel 1: Puntería del Cazador ✓
+  - Nivel 2: Disparo a Larga Distancia ✓
+  - Nivel 4: Presa Predilecta ✓
+  - Nivel 6: Disparo Instantáneo ✓
+  - Nivel 8: Doble Presa ✓
 - **Estilo de juego**: Menos ataques pero más daño por disparo. Ideal para ballestas también.
 
 ### Build 3: Explorador de Artimañas (Outwit)
@@ -299,11 +301,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Sabiduría y Destreza (+3 ambos), Carisma secundario (+2)
 - **Arma**: Arco corto + Espada corta
 - **Dotes clave**:
-  - Nivel 1: Conocimiento del Monstruo
-  - Nivel 2: Rastreo Rápido
-  - Nivel 4: Camuflaje del Terreno
-  - Nivel 6: Escondite Propio
-  - Nivel 8: Cazador Evasivo
+  - Nivel 1: Cazador de Monstruos ✓
+  - Nivel 2: Terreno Predilecto ✓
+  - Nivel 4: Presa Predilecta ✓
+  - Nivel 6: Guardián contra Monstruos ✓
+  - Nivel 8: Maestro del Terreno ✓
 - **Estilo de juego**: El scout definitivo. Bonus a Sigilo, Engaño, Intimidación contra la presa.
 
 ---
@@ -315,23 +317,24 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Stance**: Postura de la Grulla
 - **Atributos**: Prioriza Destreza (+4), Sabiduría (+3), Constitución secundaria (+2)
 - **Dotes clave**:
-  - Nivel 1: Postura de la Grulla (+1 CA, ataques de ala)
-  - Nivel 2: Flurry de Golpes
-  - Nivel 4: Posición Defensiva
-  - Nivel 6: Aleteo de Grulla
-  - Nivel 8: Bloqueo con Palma
+  - Nivel 1: Postura de la Grulla ✓
+  - Nivel 2: Golpes Aturdidores ✓
+  - Nivel 4: Postura Reflexiva ✓
+  - Nivel 6: Aleteo de Grulla ✓
+  - Nivel 8: Atrapar Proyectil ✓
 - **Estilo de juego**: CA altísima, aguanta en primera línea, contraataques elegantes.
+- **Nota**: Ráfaga de Golpes es capacidad de clase, no una dote.
 
 ### Build 2: Monje Dragón (Daño)
 **Concepto**: El monje más ofensivo con aliento de dragón.
 - **Stance**: Postura del Dragón
 - **Atributos**: Prioriza Fuerza (+4), Sabiduría y Constitución secundarios (+2)
 - **Dotes clave**:
-  - Nivel 1: Postura del Dragón (d10 daño)
-  - Nivel 2: Rugido del Dragón
-  - Nivel 4: Aliento del Dragón
-  - Nivel 6: Garra del Dragón
-  - Nivel 8: Embestida del Dragón
+  - Nivel 1: Postura del Dragón ✓
+  - Nivel 2: Rugido del Dragón ✓
+  - Nivel 4: Golpe de Empujón ✓
+  - Nivel 6: Zarpa de Tigre Fiera ✓
+  - Nivel 8: Golpe de un Centímetro ✓
 - **Estilo de juego**: Alto daño cuerpo a cuerpo más daño de área ocasional.
 
 ### Build 3: Monje Ki Místico
@@ -339,13 +342,13 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Stance**: Flexible (Wolf Stance o Mountain Stance)
 - **Atributos**: Prioriza Sabiduría (+4), Destreza (+3), Constitución secundaria (+2)
 - **Dotes clave**:
-  - Nivel 1: Golpe Ki
-  - Nivel 2: Ráfaga Ki
-  - Nivel 4: Carrera Ki
-  - Nivel 6: Forma del Viento
-  - Nivel 8: Puñetazo Elemental
-  - Nivel 12: Vuelo Abundante
+  - Nivel 1: Golpe Ki ✗ (no existe como dote - buscar conjuros de qi)
+  - Nivel 4: Salto de Viento ✓
+  - Nivel 6: Iniciado de Vientos Salvajes ✓
+  - Nivel 8: Puño Elemental ✓
+  - Nivel 10: Cuerpo Abundante ✗ (no existe)
 - **Estilo de juego**: Poderes sobrenaturales, movilidad mágica, versatilidad.
+- **Nota**: Los poderes ki son "conjuros de qi" en el Remaster.
 
 ---
 
@@ -361,10 +364,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
   - Nivel 2: Bola de Fuego Menor, Flecha Ácida
   - Nivel 3: Bola de Fuego, Relámpago
 - **Dotes clave**:
-  - Nivel 1: Conjuro Alcanzado
-  - Nivel 2: Canalizar Elementos
-  - Nivel 4: Conjuro Ensanchado
+  - Nivel 1: Ampliar Conjuro ✓
+  - Nivel 2: Canalizar Elementos ✗ (no existe - es tema de tradición)
+  - Nivel 4: Lanzamiento Silencioso ✓
 - **Estilo de juego**: Explosiones masivas, control de multitudes con daño.
+- **Nota**: Los conjuros listados arriba no son dotes, son conjuros de la tradición arcana.
 
 ### Build 2: Mago de Control
 **Concepto**: Manipula el campo de batalla sin necesidad de tiradas de salvación enemigas.
@@ -376,9 +380,9 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
   - Nivel 2: Telaraña, Oscuridad
   - Nivel 3: Ralentizar, Muros elementales
 - **Dotes clave**:
-  - Nivel 1: Familar
-  - Nivel 4: Vínculo Mejorado
-  - Nivel 6: Conjuro Silencioso
+  - Nivel 1: Familiar ✓ (dote general)
+  - Nivel 4: Vínculo Mejorado ✗ (no existe como dote)
+  - Nivel 6: Lanzamiento Silencioso ✓
 - **Estilo de juego**: Crea obstáculos, dificulta el movimiento enemigo, protege al grupo.
 
 ### Build 3: Mago de Invocación
@@ -391,10 +395,11 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
   - Nivel 3: Invocar Animal/Planta
   - Niveles altos: Invocar criaturas progresivamente más poderosas
 - **Dotes clave**:
-  - Nivel 2: Invocación Aumentada
-  - Nivel 4: Magia de Vínculo
-  - Nivel 8: Invocación en Cadena
+  - Nivel 2: Invocación Aumentada ✗ (no existe)
+  - Nivel 4: Vínculo con el Familiar ✓
+  - Nivel 8: Conjuro Rápido ✓
 - **Estilo de juego**: Economía de acción masiva, muchos cuerpos en el campo.
+- **Nota**: Los conjuros de invocación son parte de la tradición, no dotes específicas.
 
 ---
 
@@ -410,9 +415,9 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
   - Nivel 3: Aliento del Dragón (Focus Spell)
   - Nivel 3+: Bola de Fuego, Cono de Frío
 - **Dotes clave**:
-  - Nivel 1: Peligroso Hechicería
-  - Nivel 4: Metamagia de Linaje
-  - Nivel 6: Invocación del Linaje
+  - Nivel 1: Sangre Emergente ✓
+  - Nivel 1: Ampliar Conjuro ✓
+  - Nivel 6: Linaje Avanzado ✓
 - **Estilo de juego**: Daño masivo de área, resistencia al tipo de daño elegido, escamas de dragón.
 
 ### Build 2: Hechicero Angélico (Support)
@@ -424,9 +429,9 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
   - Sanación, Bendición, Restauración
   - Focus: Aureola de Sanación
 - **Dotes clave**:
-  - Nivel 1: Sangre de los Cielos
-  - Nivel 4: Sanación Divina
-  - Nivel 8: Aura de Protección
+  - Nivel 1: Sangre Emergente ✓
+  - Nivel 4: Evolución Divina ✓
+  - Nivel 8: Resistencia del Linaje ✓
 - **Estilo de juego**: El sanador espontáneo, mejor que el clérigo en situaciones imprevistas.
 
 ### Build 3: Hechicero Aberrante (Control)
@@ -439,9 +444,9 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
   - Control mental, confusión
   - Focus: Miembros Tentaculares
 - **Dotes clave**:
-  - Nivel 1: Conjuro Alcanzado (esencial)
-  - Nivel 4: Anatomía Aberrante
-  - Nivel 8: Forma Alienígena
+  - Nivel 1: Extender Conjuro ✓
+  - Nivel 4: Evolución Oculta ✓
+  - Nivel 8: Explosión de Poder ✓
 - **Estilo de juego**: Raro y perturbador, extiende toque a 10 pies, control mental.
 
 ---
@@ -455,10 +460,10 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Sabiduría y Fuerza (+3 ambos), Constitución secundaria (+2)
 - **Dominio**: Guerra, Celo, o Confianza
 - **Dotes clave**:
-  - Nivel 1: Arma Letal (Deadly Simplicity)
-  - Nivel 2: Armadura de Fe
-  - Nivel 4: Canalizar Castigo
-  - Nivel 6: Escudo de Fe
+  - Nivel 1: Simplicidad Mortal ✓
+  - Nivel 2: Armadura del Sacerdote de Guerra ✓
+  - Nivel 4: Canalizar Castigo ✓
+  - Nivel 6: Arma Divina ✓
 - **Estilo de juego**: Tanque que sana, combate cuerpo a cuerpo con magia de apoyo.
 
 ### Build 2: Clérigo Sanador (Cloistered Cleric)
@@ -468,10 +473,10 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Sabiduría (+4), Carisma y Constitución secundarios (+2)
 - **Font**: Fuente de Sanación
 - **Dotes clave**:
-  - Nivel 1: Sanación de Comunidad
-  - Nivel 2: Canalización Selectiva
-  - Nivel 4: Despertar
-  - Nivel 8: Sanación Masiva
+  - Nivel 1: Manos Curativas ✓
+  - Nivel 2: Curación en Común ✓
+  - Nivel 4: Canalización Dirigida ✓
+  - Nivel 6: Energía Selectiva ✓
 - **Estilo de juego**: Sanaciones de área gratuitas, mantiene al grupo vivo sin esfuerzo.
 
 ### Build 3: Clérigo de Daño (Harm Font)
@@ -481,10 +486,10 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 - **Atributos**: Prioriza Sabiduría (+4), Constitución (+2), Carisma secundario (+1)
 - **Font**: Fuente de Daño
 - **Dotes clave**:
-  - Nivel 1: Daño de Comunidad
-  - Nivel 2: Canalización Selectiva
-  - Nivel 4: Necrosis
-  - Nivel 6: Toque Vampírico mejorado
+  - Nivel 1: Manos Dañinas ✓
+  - Nivel 2: Minar la Vida ✓
+  - Nivel 4: Canalizar Castigo ✓
+  - Nivel 6: Energía Selectiva ✓
 - **Estilo de juego**: Daña a todos los vivos en área, excelente contra hordas.
 
 ---
@@ -753,3 +758,15 @@ El **Pathfinder 2e Remaster** (Player Core 1 y 2) introdujo cambios significativ
 5. **Nuevas clases en PC2**: Guardian, algunas actualizaciones mayores
 
 Las builds de este documento están diseñadas para funcionar con el contenido Remastered.
+
+---
+
+## Leyenda de Verificación de Dotes
+
+- ✓ = Dote verificada (existe en la documentación)
+- ✗ = Dote que NO existe o tiene nombre incorrecto
+- Sin marca = Pendiente de verificación
+
+**Clases verificadas:** Bárbaro, Campeón, Guerrero, Espadachín, Pícaro, Explorador, Monje, Mago, Hechicero, Clérigo
+
+**Clases pendientes de verificar:** Druida, Oráculo, Bardo, Alquimista, Taumaturgo, Kineticista, Psíquico, Inventor, Pistolero, Invocador, Investigador, Magus, Brujo
