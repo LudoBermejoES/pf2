@@ -11,12 +11,6 @@ Esta página cubre aspectos adicionales a tener en cuenta al crear un personaje 
 
 ---
 
-## Alineamiento
-
-Kingmaker funciona mejor si los PJs comparten al menos un alineamiento primario en común, pero mientras los jugadores trabajen bien juntos, cualquier alineamiento puede funcionar en esta campaña.
-
----
-
 ## Compañeros Animales y Familiares
 
 Aunque un personaje con un compañero animal o familiar no está limitado en sus elecciones en Kingmaker, los siguientes animales son nativos de la región y temáticamente apropiados para esta campaña:
@@ -49,15 +43,15 @@ La exploración salvaje juega un papel importante en Kingmaker, lo que significa
 
 | Categoría | Habilidades |
 |-----------|-------------|
-| **Exploración** | Acrobacias, Atletismo, Naturaleza, Supervivencia |
-| **Social** | Engaño, Diplomacia, Intimidación |
-| **Conocimiento** | Arcanos, Ocultismo, Religión |
+| **Exploración** | [Acrobacias]({{ '/habilidades/acrobacias/' | relative_url }}), [Atletismo]({{ '/habilidades/atletismo/' | relative_url }}), [Naturaleza]({{ '/habilidades/naturaleza/' | relative_url }}), [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}) |
+| **Social** | [Engaño]({{ '/habilidades/engano/' | relative_url }}), [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}), [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}) |
+| **Conocimiento** | [Arcanos]({{ '/habilidades/arcanos/' | relative_url }}), [Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }}), [Religión]({{ '/habilidades/religion/' | relative_url }}) |
 
 > **Nota especial**: La capacidad de rastrear criaturas es particularmente útil en ciertos encuentros de Kingmaker.
 
 ### Saberes Recomendados
 
-Las siguientes especialidades de Saber son elecciones fuertes:
+Las siguientes especialidades de [Saber]({{ '/habilidades/saber/' | relative_url }}) son elecciones fuertes:
 
 | Categoría | Saberes |
 |-----------|---------|
@@ -72,13 +66,13 @@ Los saberes enfocados en deidades que juegan papeles importantes en esta campañ
 
 | Deidad | Relevancia |
 |--------|------------|
-| Calistria | Venganza y manipulación |
-| Cayden Cailean | Libertad y aventura |
-| Desna | Viajes y sueños |
-| Erastil | Comunidad y caza |
-| Gorum | Guerra y conquista |
-| Gozreh | Naturaleza y clima |
-| Shelyn | Arte y belleza |
+| [Calistria]({{ '/ambientacion/dioses/calistria/' | relative_url }}) | Venganza y manipulación |
+| [Cayden Cailean]({{ '/ambientacion/dioses/cayden-cailean/' | relative_url }}) | Libertad y aventura |
+| [Desna]({{ '/ambientacion/dioses/desna/' | relative_url }}) | Viajes y sueños |
+| [Erastil]({{ '/ambientacion/dioses/erastil/' | relative_url }}) | Comunidad y caza |
+| [Gorum]({{ '/ambientacion/dioses/gorum/' | relative_url }}) | Guerra y conquista |
+| [Gozreh]({{ '/ambientacion/dioses/gozreh/' | relative_url }}) | Naturaleza y clima |
+| [Shelyn]({{ '/ambientacion/dioses/shelyn/' | relative_url }}) | Arte y belleza |
 | **Saber de los Ancianos** | Conocimiento del panteón de semidioses feéricos |
 
 ### Saberes de Criaturas
@@ -96,21 +90,19 @@ Las elecciones temáticas más fuertes incluyen:
 
 ## Arquetipos
 
-Todos los arquetipos de multiclase funcionan bien para Kingmaker. Otros arquetipos temáticamente apropiados incluyen:
+Todos los [arquetipos de multiclase]({{ '/clases/arquetipos/multiclase/' | relative_url }}) funcionan bien para Kingmaker. Otros arquetipos temáticamente apropiados incluyen:
 
 | Arquetipo | Razón |
 |-----------|-------|
-| Arqueólogo | Descubrir secretos antiguos |
-| Asesino | Eliminar amenazas silenciosamente |
-| Señor de Bestias | Vínculos con la fauna local |
-| Cazarrecompensas | Perseguir fugitivos |
-| Celebridad | Influencia social en el reino |
-| Herbalista | Medicina y pociones |
-| Caminante del Horizonte | Exploración de tierras desconocidas |
-| Maestro del Saber | Acumular conocimiento |
-| Mariscal | Liderar tropas |
-| Explorador | Reconocimiento y sigilo |
-| Fabricante de Trampas | Defensa del territorio |
+| [Arqueólogo]({{ '/clases/arquetipos/pc2/arqueologo/' | relative_url }}) | Descubrir secretos antiguos |
+| [Asesino]({{ '/clases/arquetipos/pc2/asesino/' | relative_url }}) | Eliminar amenazas silenciosamente |
+| [Maestro de Bestias]({{ '/clases/arquetipos/pc2/maestro-de-bestias/' | relative_url }}) | Vínculos con la fauna local |
+| [Cazarrecompensas]({{ '/clases/arquetipos/pc2/cazarrecompensas/' | relative_url }}) | Perseguir fugitivos |
+| [Celebridad]({{ '/clases/arquetipos/pc2/celebridad/' | relative_url }}) | Influencia social en el reino |
+| [Herborista]({{ '/clases/arquetipos/pc2/herborista/' | relative_url }}) | Medicina y pociones |
+| [Explorador]({{ '/clases/arquetipos/pc2/explorador/' | relative_url }}) | Reconocimiento y sigilo |
+| [Mariscal]({{ '/clases/arquetipos/pc2/mariscal/' | relative_url }}) | Liderar tropas |
+| [Fabricante de Lazos]({{ '/clases/arquetipos/pc2/fabricante-de-lazos/' | relative_url }}) | Defensa del territorio |
 
 ### Duelista Aldori
 
