@@ -1,4 +1,4 @@
-# Plan de Builds Divertidas para Pathfinder 2e Remaster
+  # Plan de Builds Divertidas para Pathfinder 2e Remaster
 
 Este documento contiene 3 builds divertidas y efectivas para cada clase del Pathfinder 2e Remaster, basadas en investigación de guías populares, foros de la comunidad y recursos especializados.
 
@@ -51,7 +51,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Furia del Dragón
 **Concepto**: Canaliza el poder de un dragón ancestral, ganando aliento de dragón y eventualmente alas.
 - **Instinto**: Dragón (Plata o Blanco recomendado para daño de frío - menos resistido)
-- **Atributos**: FUE 18, CON 16, DES 12, SAB 12
+- **Atributos**: Prioriza Fuerza (+4), luego Constitución (+3), Destreza y Sabiduría secundarios (+1)
 - **Arma**: Espada bastarda o Hacha de guerra
 - **Dotes clave**:
   - Nivel 1: Momento de Claridad
@@ -64,7 +64,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Gigante con Alcance
 **Concepto**: Un bárbaro que empuña armas enormes y controla el campo de batalla.
 - **Instinto**: Gigante
-- **Atributos**: FUE 18, CON 16, DES 12, SAB 10
+- **Atributos**: Prioriza Fuerza (+4), luego Constitución (+3), Destreza secundaria (+1)
 - **Arma**: Arma de tamaño Grande (gratis con el instinto) - Guadaña o Martillo de guerra
 - **Dotes clave**:
   - Nivel 1: Ataque de Oportunidad (esencial)
@@ -77,7 +77,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Bárbaro Espiritual Totémico
 **Concepto**: Conectado con espíritus animales, versátil y resistente.
 - **Instinto**: Animal (Lobo, Oso o Ciervo)
-- **Atributos**: FUE 16, CON 16, DES 14, SAB 12
+- **Atributos**: Prioriza Fuerza y Constitución (+3 ambos), Destreza (+2), Sabiduría secundaria (+1)
 - **Arma**: Depende del animal - Garras (Lobo), Mandíbulas (Oso)
 - **Dotes clave**:
   - Nivel 1: Piel Animal
@@ -93,7 +93,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Redentor Protector
 **Concepto**: El tanque definitivo que protege aliados y debilita enemigos.
 - **Causa**: Redentor
-- **Atributos**: FUE 16, CON 14, CAR 16, SAB 12
+- **Atributos**: Prioriza Fuerza y Carisma (+3 ambos), Constitución (+2), Sabiduría secundaria (+1)
 - **Arma**: Espada larga + Escudo
 - **Armadura**: Placas completas
 - **Aliado Divino**: Escudo
@@ -108,7 +108,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Liberador de Alta Movilidad
 **Concepto**: Permite a los aliados reposicionarse mientras los protege.
 - **Causa**: Liberador
-- **Atributos**: FUE 16, DES 14, CON 14, CAR 14
+- **Atributos**: Prioriza Fuerza (+3), Destreza, Constitución y Carisma equilibrados (+2)
 - **Arma**: Lucero del alba + Escudo
 - **Aliado Divino**: Corcel (Compañero Animal)
 - **Dotes clave**:
@@ -121,7 +121,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Paladín Castigador
 **Concepto**: El campeón más ofensivo, con golpe de represalia.
 - **Causa**: Paladín
-- **Atributos**: FUE 18, CON 14, CAR 14
+- **Atributos**: Prioriza Fuerza (+4), Constitución y Carisma secundarios (+2)
 - **Arma**: Espada de dos manos (Espadón) o Martillo de guerra
 - **Aliado Divino**: Hoja
 - **Dotes clave**:
@@ -137,7 +137,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 
 ### Build 1: Duelista de Doble Arma
 **Concepto**: Dos armas, muchos ataques, alto DPS sostenido.
-- **Atributos**: DES 18, CON 14, FUE 12
+- **Atributos**: Prioriza Destreza (+4), Constitución secundaria (+2), Fuerza terciaria (+1)
 - **Armas**: Rapier + Espada corta o Espada Aldori + Daga
 - **Armadura**: Cuero tachonado o Cota de malla ligera
 - **Dotes clave**:
@@ -150,7 +150,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 
 ### Build 2: Guerrero de Escudo Reactivo
 **Concepto**: El tanque guerrero definitivo con contraataques.
-- **Atributos**: FUE 18, CON 16, DES 12
+- **Atributos**: Prioriza Fuerza (+4), Constitución (+3), Destreza secundaria (+1)
 - **Armas**: Espada larga/Hacha de batalla + Escudo pesado
 - **Armadura**: Placas completas
 - **Dotes clave**:
@@ -163,7 +163,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 
 ### Build 3: Arquero de Precisión
 **Concepto**: Disparos devastadores a distancia con críticos frecuentes.
-- **Atributos**: DES 18, FUE 14, SAB 12
+- **Atributos**: Prioriza Destreza (+4), Fuerza (+2 para arcos compuestos), Sabiduría secundaria (+1)
 - **Arma**: Arco largo compuesto
 - **Armadura**: Cuero
 - **Dotes clave**:
@@ -182,7 +182,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Pistolero Fanfarrón
 **Concepto**: Combina pistola y espada al estilo pirata.
 - **Estilo**: Pistolero (Bravado)
-- **Atributos**: DES 18, CAR 16, CON 12
+- **Atributos**: Prioriza Destreza (+4), Carisma (+3), Constitución secundaria (+1)
 - **Armas**: Pistola + Rapier
 - **Dotes clave**:
   - Nivel 1: Fanfarronear
@@ -195,7 +195,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Duelista Gimnástico
 **Concepto**: Acrobático y elegante, usando el entorno.
 - **Estilo**: Gimnasta
-- **Atributos**: DES 18, CAR 14, FUE 12
+- **Atributos**: Prioriza Destreza (+4), Carisma (+2), Fuerza secundaria (+1)
 - **Arma**: Rapier o Sable
 - **Dotes clave**:
   - Nivel 1: Caída de Gato
@@ -208,7 +208,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Espadachín Ingenioso (Wit)
 **Concepto**: Usa el ingenio y las burlas para confundir enemigos.
 - **Estilo**: Ingenioso (Wit)
-- **Atributos**: CAR 18, DES 16, INT 12
+- **Atributos**: Prioriza Carisma (+4), Destreza (+3), Inteligencia secundaria (+1)
 - **Arma**: Espada corta o Estoque
 - **Dotes clave**:
   - Nivel 1: Insulto Desestabilizador
@@ -225,7 +225,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Ladrón Clásico (Thief)
 **Concepto**: El pícaro ágil de dagas que ataca desde las sombras.
 - **Racket**: Ladrón (Thief)
-- **Atributos**: DES 18, INT 14, CAR 12
+- **Atributos**: Prioriza Destreza (+4), Inteligencia (+2), Carisma secundario (+1)
 - **Armas**: Dagas (arrojadizas también), Espada corta
 - **Dotes clave**:
   - Nivel 1: Movilidad
@@ -238,7 +238,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Matón Intimidante (Ruffian)
 **Concepto**: El pícaro de fuerza bruta que intimida.
 - **Racket**: Rufián (Ruffian)
-- **Atributos**: FUE 18, CON 14, DES 14
+- **Atributos**: Prioriza Fuerza (+4), Constitución y Destreza equilibrados (+2)
 - **Armas**: Maza, Sap, o armas d8
 - **Armadura**: Armadura media
 - **Dotes clave**:
@@ -252,7 +252,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Cerebro Criminal (Mastermind)
 **Concepto**: El pícaro que usa conocimiento para encontrar debilidades.
 - **Racket**: Cerebro (Mastermind)
-- **Atributos**: INT 18, DES 16, CAR 12
+- **Atributos**: Prioriza Inteligencia (+4), Destreza (+3), Carisma secundario (+1)
 - **Armas**: Ballesta de mano, Rapier
 - **Dotes clave**:
   - Nivel 1: Recordar Conocimiento en combate
@@ -269,7 +269,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Explorador de Ráfaga con Compañero
 **Concepto**: Muchos ataques con tu compañero animal.
 - **Hunter's Edge**: Ráfaga (Flurry)
-- **Atributos**: DES 18, SAB 14, CON 12
+- **Atributos**: Prioriza Destreza (+4), Sabiduría (+2), Constitución secundaria (+1)
 - **Armas**: Dos espadas cortas o Hacha de mano + Hacha arrojadiza
 - **Compañero Animal**: Lobo (Derribar) o Leopardo (Velocidad)
 - **Dotes clave**:
@@ -283,7 +283,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Arquero de Precisión
 **Concepto**: Un disparo devastador por turno.
 - **Hunter's Edge**: Precisión
-- **Atributos**: DES 18, SAB 14, FUE 12
+- **Atributos**: Prioriza Destreza (+4), Sabiduría (+2), Fuerza secundaria (+1 para arcos compuestos)
 - **Arma**: Arco largo compuesto
 - **Dotes clave**:
   - Nivel 1: Disparo Cazador
@@ -296,7 +296,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Explorador de Artimañas (Outwit)
 **Concepto**: El explorador de habilidades, experto en rastreo y engaño.
 - **Hunter's Edge**: Artimañas (Outwit)
-- **Atributos**: SAB 16, DES 16, CAR 14
+- **Atributos**: Prioriza Sabiduría y Destreza (+3 ambos), Carisma secundario (+2)
 - **Arma**: Arco corto + Espada corta
 - **Dotes clave**:
   - Nivel 1: Conocimiento del Monstruo
@@ -313,7 +313,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Monje de la Grulla (Tanque)
 **Concepto**: El monje más defensivo, difícil de golpear.
 - **Stance**: Postura de la Grulla
-- **Atributos**: DES 18, SAB 16, CON 14
+- **Atributos**: Prioriza Destreza (+4), Sabiduría (+3), Constitución secundaria (+2)
 - **Dotes clave**:
   - Nivel 1: Postura de la Grulla (+1 CA, ataques de ala)
   - Nivel 2: Flurry de Golpes
@@ -325,7 +325,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Monje Dragón (Daño)
 **Concepto**: El monje más ofensivo con aliento de dragón.
 - **Stance**: Postura del Dragón
-- **Atributos**: FUE 18, SAB 14, CON 14
+- **Atributos**: Prioriza Fuerza (+4), Sabiduría y Constitución secundarios (+2)
 - **Dotes clave**:
   - Nivel 1: Postura del Dragón (d10 daño)
   - Nivel 2: Rugido del Dragón
@@ -337,7 +337,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Monje Ki Místico
 **Concepto**: Combina artes marciales con poderes sobrenaturales.
 - **Stance**: Flexible (Wolf Stance o Mountain Stance)
-- **Atributos**: SAB 18, DES 16, CON 14
+- **Atributos**: Prioriza Sabiduría (+4), Destreza (+3), Constitución secundaria (+2)
 - **Dotes clave**:
   - Nivel 1: Golpe Ki
   - Nivel 2: Ráfaga Ki
@@ -354,7 +354,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Evocador de Batalla
 **Concepto**: Especialista en magia de daño de área.
 - **Escuela**: Escuela de la Destrucción (o Sin escuela para flexibilidad)
-- **Atributos**: INT 18, CON 14, DES 12
+- **Atributos**: Prioriza Inteligencia (+4), Constitución (+2), Destreza secundaria (+1)
 - **Conjuros clave**:
   - Trucos: Rayo de Escarcha, Cuchillas Eléctricas
   - Nivel 1: Manos Ardientes, Proyectil Mágico
@@ -369,7 +369,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Mago de Control
 **Concepto**: Manipula el campo de batalla sin necesidad de tiradas de salvación enemigas.
 - **Escuela**: Ilusión o Conjuración
-- **Atributos**: INT 18, SAB 14, CAR 12
+- **Atributos**: Prioriza Inteligencia (+4), Sabiduría (+2), Carisma secundario (+1)
 - **Conjuros clave**:
   - Trucos: Mano Mágica, Prestidigitación
   - Nivel 1: Grasa, Niebla Oscurecedora
@@ -384,7 +384,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Mago de Invocación
 **Concepto**: Llena el campo de batalla con criaturas invocadas.
 - **Escuela**: Conjuración
-- **Atributos**: INT 18, CON 14, SAB 12
+- **Atributos**: Prioriza Inteligencia (+4), Constitución (+2), Sabiduría secundaria (+1)
 - **Conjuros clave**:
   - Nivel 1: Invocar Construcción
   - Nivel 2: Invocar Elemental
@@ -404,7 +404,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 **Concepto**: El blaster definitivo con sangre de dragón.
 - **Linaje**: Dracónico (Plata o Blanco - frío)
 - **Tradición**: Arcano
-- **Atributos**: CAR 18, CON 14, DES 12
+- **Atributos**: Prioriza Carisma (+4), Constitución (+2), Destreza secundaria (+1)
 - **Conjuros clave**:
   - Trucos: Rayo de Escarcha
   - Nivel 3: Aliento del Dragón (Focus Spell)
@@ -419,7 +419,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 **Concepto**: Sanador y protector con sangre celestial.
 - **Linaje**: Angélico
 - **Tradición**: Divino
-- **Atributos**: CAR 18, SAB 14, CON 14
+- **Atributos**: Prioriza Carisma (+4), Sabiduría y Constitución equilibrados (+2)
 - **Conjuros clave**:
   - Sanación, Bendición, Restauración
   - Focus: Aureola de Sanación
@@ -433,7 +433,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 **Concepto**: Magia alienígena y tentáculos.
 - **Linaje**: Aberrante
 - **Tradición**: Oculto
-- **Atributos**: CAR 18, CON 14, INT 12
+- **Atributos**: Prioriza Carisma (+4), Constitución (+2), Inteligencia secundaria (+1)
 - **Conjuros clave**:
   - Conjuros de toque con alcance extendido
   - Control mental, confusión
@@ -452,7 +452,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 **Concepto**: En primera línea con armadura pesada y arma.
 - **Doctrina**: Sacerdote de Guerra (Warpriest)
 - **Deidad**: Gorum (Espadón), Iomedae (Espada larga), o Sarenrae (Cimitarra)
-- **Atributos**: SAB 16, FUE 16, CON 14
+- **Atributos**: Prioriza Sabiduría y Fuerza (+3 ambos), Constitución secundaria (+2)
 - **Dominio**: Guerra, Celo, o Confianza
 - **Dotes clave**:
   - Nivel 1: Arma Letal (Deadly Simplicity)
@@ -465,7 +465,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 **Concepto**: El mejor sanador del juego.
 - **Doctrina**: Clérigo Enclaustrado
 - **Deidad**: Sarenrae, Farasma, o Shelyn
-- **Atributos**: SAB 18, CAR 14, CON 14
+- **Atributos**: Prioriza Sabiduría (+4), Carisma y Constitución secundarios (+2)
 - **Font**: Fuente de Sanación
 - **Dotes clave**:
   - Nivel 1: Sanación de Comunidad
@@ -478,7 +478,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 **Concepto**: El clérigo ofensivo que canaliza energía negativa.
 - **Doctrina**: Sacerdote de Guerra o Enclaustrado
 - **Deidad**: Urgathoa, Zon-Kuthon, o Farasma
-- **Atributos**: SAB 18, CON 14, CAR 12
+- **Atributos**: Prioriza Sabiduría (+4), Constitución (+2), Carisma secundario (+1)
 - **Font**: Fuente de Daño
 - **Dotes clave**:
   - Nivel 1: Daño de Comunidad
@@ -494,7 +494,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Druida Salvaje (Wild Shape)
 **Concepto**: Se transforma en bestias poderosas.
 - **Orden**: Salvaje (Wild)
-- **Atributos**: SAB 18, CON 14, FUE 14
+- **Atributos**: Prioriza Sabiduría (+4), Constitución y Fuerza secundarios (+2)
 - **Dotes clave**:
   - Nivel 1: Forma Salvaje
   - Nivel 2: Forma de Insecto
@@ -507,7 +507,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Druida de Tormenta (Blaster)
 **Concepto**: Controla el clima y lanza rayos.
 - **Orden**: Tormenta
-- **Atributos**: SAB 18, DEX 14, CON 12
+- **Atributos**: Prioriza Sabiduría (+4), Destreza (+2), Constitución secundaria (+1)
 - **Conjuros clave**:
   - Llamar Relámpago, Control del Clima
   - Tempest Surge (Focus)
@@ -520,7 +520,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Druida Animal (Compañero)
 **Concepto**: Lucha junto a un compañero animal poderoso.
 - **Orden**: Animal
-- **Atributos**: SAB 16, CON 14, DES 14
+- **Atributos**: Prioriza Sabiduría (+3), Constitución y Destreza equilibrados (+2)
 - **Compañero**: Oso (tanque), Lobo (flanqueo), o Dinosaurio
 - **Dotes clave**:
   - Nivel 1: Compañero Animal (orden)
@@ -536,7 +536,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Oráculo de las Llamas
 **Concepto**: Control del fuego con maldición de calor.
 - **Misterio**: Llamas
-- **Atributos**: CAR 18, CON 14, SAB 12
+- **Atributos**: Prioriza Carisma (+4), Constitución (+2), Sabiduría secundaria (+1)
 - **Maldición**: Ardor (ganas debilidad al frío pero poderes de fuego)
 - **Dotes clave**:
   - Nivel 1: Revelación del Fuego
@@ -547,7 +547,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Oráculo de Huesos (Necromante)
 **Concepto**: Controla muertos vivientes y drena vida.
 - **Misterio**: Huesos
-- **Atributos**: CAR 18, CON 16, SAB 12
+- **Atributos**: Prioriza Carisma (+4), Constitución (+3), Sabiduría secundaria (+1)
 - **Dotes clave**:
   - Nivel 1: Toque de Muerte
   - Nivel 4: Invocar No-Muerto
@@ -558,7 +558,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Oráculo de la Vida (Sanador)
 **Concepto**: El sanador más poderoso pero con maldición de dolor.
 - **Misterio**: Vida
-- **Atributos**: CAR 18, SAB 14, CON 14
+- **Atributos**: Prioriza Carisma (+4), Sabiduría y Constitución equilibrados (+2)
 - **Dotes clave**:
   - Nivel 1: Enlace Vital
   - Nivel 4: Sanación de Revelación
@@ -572,7 +572,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Bardo de Inspiración (Buff Master)
 **Concepto**: El mejor buffer del juego.
 - **Musa**: Maestro de Ceremonias o Guerrero
-- **Atributos**: CAR 18, DEX 14, CON 12
+- **Atributos**: Prioriza Carisma (+4), Destreza (+2), Constitución secundaria (+1)
 - **Composiciones clave**:
   - Inspirar Coraje (+1 ataque y daño)
   - Inspirar Defensa (+1 CA)
@@ -586,7 +586,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Bardo de Ocultismo (Debuffer)
 **Concepto**: Debilita a los enemigos con magia mental.
 - **Musa**: Enigma
-- **Atributos**: CAR 18, INT 14, SAB 12
+- **Atributos**: Prioriza Carisma (+4), Inteligencia (+2), Sabiduría secundaria (+1)
 - **Conjuros clave**:
   - Miedo, Risas Histéricas, Sugestión
   - Canción de Perdición
@@ -599,7 +599,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Bardo de Combate (Valor)
 **Concepto**: El bardo que pelea en primera línea.
 - **Musa**: Guerrero
-- **Atributos**: CAR 16, DEX 16, CON 14
+- **Atributos**: Prioriza Carisma y Destreza (+3 ambos), Constitución secundaria (+2)
 - **Armas**: Rapier + Escudo o Arco
 - **Dotes clave**:
   - Nivel 1: Composición de Guerra
@@ -615,7 +615,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Bombardero
 **Concepto**: Lanza bombas explosivas constantemente.
 - **Campo de Investigación**: Bombardero
-- **Atributos**: INT 18, DEX 16, CON 12
+- **Atributos**: Prioriza Inteligencia (+4), Destreza (+3), Constitución secundaria (+1)
 - **Items clave**: Bombas Alquímicas de todo tipo
 - **Dotes clave**:
   - Nivel 1: Lanzamiento Rápido
@@ -627,7 +627,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Mutagenista
 **Concepto**: Se potencia con mutágenos para combate cuerpo a cuerpo.
 - **Campo de Investigación**: Mutagenista
-- **Atributos**: INT 16, FUE 16, CON 14
+- **Atributos**: Prioriza Inteligencia y Fuerza (+3 ambos), Constitución secundaria (+2)
 - **Items clave**: Mutágeno Bestial, Mutágeno de Fuerza
 - **Dotes clave**:
   - Nivel 1: Mutación Extendida
@@ -638,7 +638,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Quirurgo/Sanador
 **Concepto**: El médico del grupo con elixires de sanación.
 - **Campo de Investigación**: Quirurgo
-- **Atributos**: INT 18, SAB 14, DEX 12
+- **Atributos**: Prioriza Inteligencia (+4), Sabiduría (+2), Destreza secundaria (+1)
 - **Items clave**: Elixires de Vida, Antídotos
 - **Dotes clave**:
   - Nivel 1: Rápida Administración
@@ -653,7 +653,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 1: Taumaturgo de Espejo
 **Concepto**: Usa un espejo como implemento para confundir.
 - **Implemento**: Espejo
-- **Atributos**: CAR 18, CON 14, DEX 14
+- **Atributos**: Prioriza Carisma (+4), Constitución y Destreza equilibrados (+2)
 - **Arma**: Espada de una mano + implemento
 - **Dotes clave**:
   - Nivel 1: Reflejos del Espejo
@@ -664,7 +664,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 2: Taumaturgo de Arma
 **Concepto**: Tu arma ES tu implemento.
 - **Implemento**: Arma
-- **Atributos**: CAR 16, FUE 16, CON 14
+- **Atributos**: Prioriza Carisma y Fuerza (+3 ambos), Constitución secundaria (+2)
 - **Arma**: Espada bastarda o Martillo de guerra
 - **Dotes clave**:
   - Nivel 1: Golpe del Implemento
@@ -675,7 +675,7 @@ Este documento contiene 3 builds divertidas y efectivas para cada clase del Path
 ### Build 3: Taumaturgo de Libro (Conocimiento)
 **Concepto**: El experto en monstruos definitivo.
 - **Implemento**: Tomo
-- **Atributos**: CAR 16, INT 16, SAB 12
+- **Atributos**: Prioriza Carisma e Inteligencia (+3 ambos), Sabiduría secundaria (+1)
 - **Arma**: Ballesta de mano + Tomo
 - **Dotes clave**:
   - Nivel 1: Conocimiento Esotérico
