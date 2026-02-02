@@ -10,7 +10,7 @@ source: PC1
 
 ## Cobertura
 
-Cuando estas tras un obstáculo que podría bloquear armas, protegerte de explosiones y hacerte más difícil de detectar, dispones de cobertura. La cobertura normal te concede un **bonificador +2 por circunstancia a la CA**, a las **salvaciones de Reflejos** contra los efectos de área y a las **pruebas de Sigilo** para Esconderte, Moverte furtivamente o evitar la detección de alguna otra forma. Puedes incrementarla a cobertura mayor utilizando la acción básica Ponerse a cubierto (pág. 417), lo que incrementa a +4 el bonificador por circunstancia. Si la cobertura es especialmente ligera, típicamente cuando la proporciona una criatura, tienes cobertura menor, que sólo concede un bonificador +1 por circunstancia a la CA. Una criatura con cobertura normal o mayor puede utilizar Sigilo para Esconderse pero la cobertura menor no basta.
+Cuando estas tras un obstáculo que podría bloquear armas, protegerte de explosiones y hacerte más difícil de detectar, dispones de cobertura. La cobertura normal te concede un **bonificador +2 por circunstancia a la CA**, a las **salvaciones de Reflejos** contra los efectos de área y a las **pruebas de Sigilo** para Esconderte, Moverte furtivamente o evitar la detección de alguna otra forma. Puedes incrementarla a cobertura mayor utilizando la acción básica Ponerse a cubierto (pág. 417 ([ver](/reglas/acciones-basicas/retrasar/))), lo que incrementa a +4 el bonificador por circunstancia. Si la cobertura es especialmente ligera, típicamente cuando la proporciona una criatura, tienes cobertura menor, que sólo concede un bonificador +1 por circunstancia a la CA. Una criatura con cobertura normal o mayor puede utilizar Sigilo para Esconderse pero la cobertura menor no basta.
 
 ### Tipos de Cobertura
 
@@ -20,7 +20,7 @@ Cuando estas tras un obstáculo que podría bloquear armas, protegerte de explos
 | Normal | +2 a la CA, Reflejos, Sigilo | Sí |
 | Mayor | +4 a la CA, Reflejos, Sigilo | Sí |
 
-La cobertura es relativa, por lo que podrías simultáneamente tener cobertura contra una criatura y no contra otra. La cobertura sólo se aplica si tu camino hasta el objetivo está parcialmente bloqueado. Si la criatura está por completo tras una pared o algo parecido, no tienes línea de efecto (pág. 426) y lo normal es que no puedas designarla como objetivo.
+La cobertura es relativa, por lo que podrías simultáneamente tener cobertura contra una criatura y no contra otra. La cobertura sólo se aplica si tu camino hasta el objetivo está parcialmente bloqueado. Si la criatura está por completo tras una pared o algo parecido, no tienes línea de efecto (pág. 426 ([ver](/reglas/efectos/))) y lo normal es que no puedas designarla como objetivo.
 
 Por lo general, el DJ puede decidir rápidamente si tu objetivo dispone (o no) de cobertura. Si no lo tienes claro o tienes que ser más preciso, traza una línea desde el centro de tu espacio hasta el centro del espacio del objetivo. Si dicha línea atraviesa cualquier terreno u objeto que bloquearía el efecto, el objetivo tiene cobertura normal (o cobertura mayor si la obstrucción es extrema o el objetivo se ha Puesto a cubierto). Si, en vez de ello, la línea atraviesa a una criatura, el objetivo tiene cobertura menor. Al medir la cobertura contra un efecto de área, traza una línea desde el punto de origen del efecto hasta el centro del espacio de la criatura.
 

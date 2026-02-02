@@ -35,7 +35,7 @@ Has aprendido a meter grandes cantidades en espacios pequeños. Puedes encajar u
 
 **Rasgos:** Ysoki
 
-Tienes una rata mascota que se ha vinculado mágicamente contigo. Obtienes un familiar usando las reglas de la página 212 de Player Core, y este familiar debe ser una rata. Sigue obteniendo los beneficios de las habilidades de familiar, pero su forma base sigue siendo una rata.
+Tienes una rata mascota que se ha vinculado mágicamente contigo. Obtienes un familiar usando las reglas de la página 212 ([ver](/clases/companeros/familiares/)) de Player Core, y este familiar debe ser una rata. Sigue obteniendo los beneficios de las habilidades de familiar, pero su forma base sigue siendo una rata.
 
 ---
 

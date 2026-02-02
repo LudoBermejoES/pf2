@@ -31,7 +31,7 @@ Además, siempre que te encuentras con una criatura feérica en una situación s
 
 Creas una relación con un animal, que se vincula mágicamente contigo.
 
-**Beneficio:** Obtienes un familiar utilizando las reglas de la pág. 212. El tipo de animal es cosa tuya, pero la mayoría de gnomos eligen animales que tienen Velocidad de excavar.
+**Beneficio:** Obtienes un familiar utilizando las reglas de la pág. 212 ([ver](/clases/companeros/familiares/)). El tipo de animal es cosa tuya, pero la mayoría de gnomos eligen animales que tienen Velocidad de excavar.
 
 ---
 
@@ -63,7 +63,7 @@ A 5.º nivel, siempre que obtienes un impacto crítico con una de estas armas, o
 
 Tu conexión con el Primer Mundo te concede un conjuro innato primigenio, muy parecido a los de las hadas.
 
-**Beneficio:** Elige un truco de la lista de conjuros primigenios (pág. 311). Puedes lanzarlo a voluntad como un conjuro innato primigenio. Un truco se potencia a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba.
+**Beneficio:** Elige un truco de la lista de conjuros primigenios (pág. 311 ([ver](/conjuros/))). Puedes lanzarlo a voluntad como un conjuro innato primigenio. Un truco se potencia a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba.
 
 ---
 
@@ -72,7 +72,7 @@ Tu conexión con el Primer Mundo te concede un conjuro innato primigenio, muy pa
 
 Puede que tengas una naturaleza veleidosa, pero cuando un tema capta tu atención, te sumerges en él de cabeza.
 
-**Beneficio:** Obtienes la dote Saber adicional (pág. 251) y la dote Seguro para el Saber elegido. Como quiera que las obsesiones de gnomo pueden ir y venir rápidamente, puedes reconvertir Obsesión de gnomo a una subcategoría diferente de Saber en 1 día de tiempo libre.
+**Beneficio:** Obtienes la dote Saber adicional (pág. 251 ([ver](/dotes/habilidad/))) y la dote Seguro para el Saber elegido. Como quiera que las obsesiones de gnomo pueden ir y venir rápidamente, puedes reconvertir Obsesión de gnomo a una subcategoría diferente de Saber en 1 día de tiempo libre.
 
 ---
 

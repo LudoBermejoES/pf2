@@ -8,7 +8,7 @@ nav_order: 3
 source: PC1
 ---
 
-Las Acrobacias miden tu capacidad para llevar a cabo tareas que requieren coordinación y gracilidad. Cuando utilizas la acción básica Huir (pág. 416) puedes utilizar tu modificador por Acrobacias en lugar de tu modificador por ataque sin armas. También puedes utilizarlo para las acciones básicas de especialidad Detener una caída (pág. 419) y Agarrarte a un saliente (pág. 418) en lugar de Reflejos.
+Las Acrobacias miden tu capacidad para llevar a cabo tareas que requieren coordinación y gracilidad. Cuando utilizas la acción básica Huir (pág. 416 ([ver](/reglas/acciones-basicas/huir/))) puedes utilizar tu modificador por Acrobacias en lugar de tu modificador por ataque sin armas. También puedes utilizarlo para las acciones básicas de especialidad Detener una caída (pág. 419 ([ver](/reglas/acciones-especialidad/))) y Agarrarte a un saliente (pág. 418 ([ver](/reglas/acciones-especialidad/agarrarse-a-un-saliente/))) en lugar de Reflejos.
 
 ## Mantener el equilibrio ◆
 
@@ -52,7 +52,7 @@ Das una Zancada hasta tu Velocidad. Durante este movimiento, puedes intentar atr
 
 **Exploración, Movimiento**
 
-Te contorsionas para escurrirte a través de un espacio tan pequeño que apenas puedes encajar en él. Esta acción es para espacios excepcionalmente pequeños; muchos espacios estrechos son terreno difícil (pág. 423) que puedes atravesar más rápido y sin necesitar prueba alguna.
+Te contorsionas para escurrirte a través de un espacio tan pequeño que apenas puedes encajar en él. Esta acción es para espacios excepcionalmente pequeños; muchos espacios estrechos son terreno difícil (pág. 423 ([ver](/reglas/movimiento/))) que puedes atravesar más rápido y sin necesitar prueba alguna.
 
 **Éxito crítico:** Te escurres a través del estrecho espacio a razón de 10 pies (3 m) por minuto.
 

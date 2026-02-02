@@ -447,7 +447,7 @@ Has perfeccionado las formulas para bombas que obstaculizan a tus enemigos. Cuan
 
 **Rasgos:** Alquimista
 
-Si mueres mientras estas bajo el efecto de al menos un elixir, los compuestos alquimicos en tu torrente sanguineo te devuelven a la vida al inicio de tu siguiente turno. Eres afectado por un elixir de rejuvenecimiento (pagina 288), luego un elixir de vida verdadero, luego tu eleccion de un mutageno bestial mayor, mutageno de titan mayor, o mutageno azogue mayor como si acabaras de beberlo. Estas reacciones automaticas no obtienen ningun beneficio especial que anades al crear o usar estos objetos. Debido a que moriste, todos los demas compuestos alquimicos en tu torrente sanguineo estan inertes. Despues de ser revivido, eres temporalmente inmune a Revivificacion Alquimica por 1d4 horas.
+Si mueres mientras estas bajo el efecto de al menos un elixir, los compuestos alquimicos en tu torrente sanguineo te devuelven a la vida al inicio de tu siguiente turno. Eres afectado por un elixir de rejuvenecimiento (pagina 288 ([ver](/equipo/objetos/))), luego un elixir de vida verdadero, luego tu eleccion de un mutageno bestial mayor, mutageno de titan mayor, o mutageno azogue mayor como si acabaras de beberlo. Estas reacciones automaticas no obtienen ningun beneficio especial que anades al crear o usar estos objetos. Debido a que moriste, todos los demas compuestos alquimicos en tu torrente sanguineo estan inertes. Despues de ser revivido, eres temporalmente inmune a Revivificacion Alquimica por 1d4 horas.
 
 ---
 
@@ -455,7 +455,7 @@ Si mueres mientras estas bajo el efecto de al menos un elixir, los compuestos al
 
 **Rasgos:** Alquimista
 
-Tu investigacion ha dado sus frutos, culminando en la legendaria piedra filosofal. Aprendes la formula para la piedra filosofal (pagina 295) y puedes anadirla a tu libro de formulas.
+Tu investigacion ha dado sus frutos, culminando en la legendaria piedra filosofal. Aprendes la formula para la piedra filosofal (pagina 295 ([ver](/habilidades/artesania/))) y puedes anadirla a tu libro de formulas.
 
 ---
 

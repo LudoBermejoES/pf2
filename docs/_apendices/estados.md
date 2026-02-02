@@ -32,7 +32,7 @@ Algunos estados prevalecen sobre otros. Esto se especifica siempre en la entrada
 
 > ### Reglas de muerte y de moribundos
 >
-> Los estados condenado, moribundo, inconsciente y herido tienen que ver todos ellos con el proceso de estar cerca de la muerte. Las reglas completas estan en las paginas 410 a 411. La información mas significativa no contenida en los propios estados es la siguiente: cuando has sido reducido a 0 Puntos de Golpe, estas inconsciente y con los siguientes efectos.
+> Los estados condenado, moribundo, inconsciente y herido tienen que ver todos ellos con el proceso de estar cerca de la muerte. Las reglas completas estan en las paginas 410 a 411 ([ver](/reglas/puntos-golpe/)). La información mas significativa no contenida en los propios estados es la siguiente: cuando has sido reducido a 0 Puntos de Golpe, estas inconsciente y con los siguientes efectos.
 >
 > - Mueves de inmediato tu posición de iniciativa a directamente antes de la criatura o efecto que te ha reducido a 0 Puntos de Golpe.
 > - Sufres el estado moribundo 1. Si el efecto que te dejo inconsciente era un éxito critico del atacante o resultado de un fallo critico tuyo, sufres en su lugar el estado moribundo 2. Si sufres el estado herido, incrementa el valor de moribundo en tu valor de herido. Si el dano procede de un ataque o efecto no letal, no sufres el estado moribundo sino que estas inconsciente con 0 Puntos de Golpe.

@@ -12,7 +12,7 @@ Los secretos de los dioses, los dogmas, la fe y los reinos de las criaturas divi
 
 ## Recordar conocimiento
 
-Puedes usar Religión para **Recordar conocimiento** (pág. 231) acerca de:
+Puedes usar Religión para **Recordar conocimiento** (pág. 231 ([ver](/habilidades/recordar-conocimiento/))) acerca de:
 
 - Los agentes divinos
 - Los puntos más sutiles de la teología
@@ -24,6 +24,6 @@ Puedes usar Religión para **Recordar conocimiento** (pág. 231) acerca de:
 
 Tienes que estar entrenado en Religión para utilizarla con las siguientes acciones generales de habilidad.
 
-- **Descifrar escritura** (pág. 228) de naturaleza religiosa, incluyendo alegorías, homilías y proverbios.
-- **Identificar magia** (pág. 229), en particular la magia de la tradición divina.
-- **Aprender un conjuro** (pág. 228) de la tradición divina.
+- **Descifrar escritura** (pág. 228 ([ver](/habilidades/descifrar-escritura/))) de naturaleza religiosa, incluyendo alegorías, homilías y proverbios.
+- **Identificar magia** (pág. 229 ([ver](/habilidades/obtener-ingresos/))), en particular la magia de la tradición divina.
+- **Aprender un conjuro** (pág. 228 ([ver](/habilidades/descifrar-escritura/))) de la tradición divina.

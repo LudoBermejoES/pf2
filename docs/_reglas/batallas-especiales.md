@@ -10,7 +10,7 @@ source: PC1
 
 ## Combate montado
 
-Puedes ir montado al combate en diversos tipos de criatura. Tal y como se indica en la acción basica de especialidad Montar (pag. 419), tu montura tiene que ser voluntaria y por lo menos de una categoria de tamaño mayor que tu. Tu montura actua en tu cuenta de iniciativa. Tienes que usar la acción Comandar a un animal (pag. 243) para hacer que tu montura gaste sus acciones. Si no lo haces, el animal las malgasta. Si tienes la dote general Montar, tienes éxito de forma automatica cuando Comandas a un animal que es tu montura.
+Puedes ir montado al combate en diversos tipos de criatura. Tal y como se indica en la acción basica de especialidad Montar (pag. 419 ([ver](/reglas/acciones-especialidad/))), tu montura tiene que ser voluntaria y por lo menos de una categoria de tamaño mayor que tu. Tu montura actua en tu cuenta de iniciativa. Tienes que usar la acción Comandar a un animal (pag. 243) para hacer que tu montura gaste sus acciones. Si no lo haces, el animal las malgasta. Si tienes la dote general Montar, tienes éxito de forma automatica cuando Comandas a un animal que es tu montura.
 
 Por ejemplo, si vas montado a caballo y haces tres ataques, tu caballo permanece estacionario puesto que no le has dado ordenes. Si en lugar de ello, inviertes tu primera acción en Comandar a un animal y tienes éxito, puedes hacer que tu montura de una Zancada. Puedes invertir tu siguiente acción en atacar o en ordenar a tu caballo que ataque, pero no ambas cosas.
 
@@ -28,7 +28,7 @@ Como quiera que no puedes mover el cuerpo tan libremente cuando montas, sufres u
 
 ## Combate aereo
 
-Muchos monstruos pueden volar y los PJs pueden utilizar conjuros y objetos para obtener dicha aptitud. Las criaturas voladoras tienen que utilizar la acción Volar (pag. 419) para moverse por el aire. Llevar a cabo una maniobra especialmente complicada podría requerir el uso de Acrobacias para Maniobrar en vuelo. Las criaturas pueden caer del aire utilizando las reglas de caída, que estan en la pag. 421. A discreción del DJ, algunas acciones basadas en tierra podrían no funcionar en el aire. Por ejemplo una criatura en vuelo no puede Saltar.
+Muchos monstruos pueden volar y los PJs pueden utilizar conjuros y objetos para obtener dicha aptitud. Las criaturas voladoras tienen que utilizar la acción Volar (pag. 419 ([ver](/reglas/acciones-especialidad/))) para moverse por el aire. Llevar a cabo una maniobra especialmente complicada podría requerir el uso de Acrobacias para Maniobrar en vuelo. Las criaturas pueden caer del aire utilizando las reglas de caída, que estan en la pag. 421 ([ver](/reglas/movimiento/)). A discreción del DJ, algunas acciones basadas en tierra podrían no funcionar en el aire. Por ejemplo una criatura en vuelo no puede Saltar.
 
 ## Combate acuático
 

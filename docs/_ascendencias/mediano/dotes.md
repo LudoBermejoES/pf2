@@ -113,7 +113,7 @@ Tu naturaleza despreocupada hace que parezca que la desventura te evita y, hasta
 
 Has aprendido a utilizar la honda para abatir criaturas enormes.
 
-**Beneficio:** Cuando aciertas con un ataque de una arma del grupo de las hondas contra una criatura Grande o mayor, incrementa en un paso el tamaño del dado de daño (los detalles sobre cómo incrementar el tamaño del dado de daño de una arma están en la pág. 276).
+**Beneficio:** Cuando aciertas con un ataque de una arma del grupo de las hondas contra una criatura Grande o mayor, incrementa en un paso el tamaño del dado de daño (los detalles sobre cómo incrementar el tamaño del dado de daño de una arma están en la pág. 276 ([ver](/equipo/armas/))).
 
 ---
 

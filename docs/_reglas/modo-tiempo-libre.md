@@ -14,7 +14,7 @@ El tiempo libre te concede tiempo para descansar por completo, dedicarte a un em
 
 ## Obtener ingresos
 
-La acción de habilidad Obtener ingresos (pág. 229) te permite ganarte la vida utilizando una amplia variedad de habilidades. Puedes usar la creatividad con las habilidades que pretendes utilizar, comentando los detalles con el DJ. Con algunas habilidades puede ser mucho más difícil ganar dinero que con otras. Artesanía, Saber e Interpretación son las más fiables. Los trabajos en un mundo de fantasía tienden a no ser particularmente estables, por lo que podrías tener que buscar nuevas tareas de forma bastante regular.
+La acción de habilidad Obtener ingresos (pág. 229 ([ver](/habilidades/obtener-ingresos/))) te permite ganarte la vida utilizando una amplia variedad de habilidades. Puedes usar la creatividad con las habilidades que pretendes utilizar, comentando los detalles con el DJ. Con algunas habilidades puede ser mucho más difícil ganar dinero que con otras. Artesanía, Saber e Interpretación son las más fiables. Los trabajos en un mundo de fantasía tienden a no ser particularmente estables, por lo que podrías tener que buscar nuevas tareas de forma bastante regular.
 
 El DJ es quien determina los niveles de los trabajos que puedes buscar, tal y como se indica en la actividad Obtener ingresos. A menudo te interesa determinar qué tipos de trabajos hay disponibles para una pequeña variedad de habilidades, y así poderte dedicar a la opción más lucrativa o interesante.
 
@@ -60,7 +60,7 @@ El Precio del objeto indica el coste completo para comprarlo. Puedes vender un o
 
 ### Creación de objetos
 
-Podéis invertir tiempo libre utilizando la actividad de habilidad Artesanía (pág. 234), elaborando objetos nuevos a partir de materia prima. La Artesanía puede ser una forma excelente de refinar el equipo que utiliza el grupo, incluyendo mejorar objetos y preparar los que probablemente necesitéis en una misión subsiguiente.
+Podéis invertir tiempo libre utilizando la actividad de habilidad Artesanía (pág. 234 ([ver](/habilidades/artesania/))), elaborando objetos nuevos a partir de materia prima. La Artesanía puede ser una forma excelente de refinar el equipo que utiliza el grupo, incluyendo mejorar objetos y preparar los que probablemente necesitéis en una misión subsiguiente.
 
 ## Otras actividades
 
@@ -76,20 +76,20 @@ Puedes ayudar a dirigir el curso de la campaña fijando objetivos a largo plazo 
 >
 > El Capítulo 4: Habilidades incluye unas cuantas habilidades de tiempo libre que se resumen aquí.
 >
-> **Elaborar:** utilizando la habilidad Artesanía, puedes elaborar objetos a partir de materia prima (pág. 234). (NdT: dependiendo de lo creado, podríamos hablar de elaborar, fabricar, crear, etc. Usamos elaborar como genérico).
+> **Elaborar:** utilizando la habilidad Artesanía, puedes elaborar objetos a partir de materia prima (pág. 234 ([ver](/habilidades/artesania/))). (NdT: dependiendo de lo creado, podríamos hablar de elaborar, fabricar, crear, etc. Usamos elaborar como genérico).
 >
-> **Falsificar:** falsificas un documento (pág. 246).
+> **Falsificar:** falsificas un documento (pág. 246 ([ver](/habilidades/latrocinio/))).
 >
-> **Obtener ingresos:** ganas dinero, típicamente utilizando Artesanía, Saber o Interpretación (pág. 229).
+> **Obtener ingresos:** ganas dinero, típicamente utilizando Artesanía, Saber o Interpretación (pág. 229 ([ver](/habilidades/obtener-ingresos/))).
 >
-> **Subsistir:** encuentras comida y abrigo en las tierras vírgenes o en un asentamiento (pág. 232).
+> **Subsistir:** encuentras comida y abrigo en las tierras vírgenes o en un asentamiento (pág. 232 ([ver](/habilidades/subsistir/))).
 >
-> **Tratar enfermedad:** pasas algún tiempo cuidando a una criatura enferma, a la espera de curarla (pág. 242).
+> **Tratar enfermedad:** pasas algún tiempo cuidando a una criatura enferma, a la espera de curarla (pág. 242 ([ver](/habilidades/medicina/))).
 
 ---
 
 > ### Coste de la vida
 >
-> Podrías tener que pagar el coste de la vida de los días pasados durante el tiempo libre (los precios están en la pág. 294). Para evitar pagar el coste, puedes Subsistir (pág. 232), utilizando Sociedad en un asentamiento o Supervivencia en las tierras vírgenes.
+> Podrías tener que pagar el coste de la vida de los días pasados durante el tiempo libre (los precios están en la pág. 294 ([ver](/habilidades/artesania/))). Para evitar pagar el coste, puedes Subsistir (pág. 232 ([ver](/habilidades/subsistir/))), utilizando Sociedad en un asentamiento o Supervivencia en las tierras vírgenes.
 >
 > Los aventureros experimentados tienen a menudo amigos o mecenas que se ocupan de cubrir dicho coste. Podrían incluso disponer de tanto tesoro que el coste de la vida (incluso en las opciones más caras) se convirtiera en una nimiedad.

@@ -62,7 +62,7 @@ Has acumulado un amplio abanico de conocimientos vividos a lo largo de los años
 
 Tu magia élfica se manifiesta como un conjuro arcano sencillo, incluso si no estás entrenado formalmente en la magia.
 
-**Beneficio:** Elige un truco de la lista de conjuros arcanos (pág. 304). Puedes lanzar a voluntad este truco como un conjuro innato arcano. Un truco se potencia a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba.
+**Beneficio:** Elige un truco de la lista de conjuros arcanos (pág. 304 ([ver](/conjuros/))). Puedes lanzar a voluntad este truco como un conjuro innato arcano. Un truco se potencia a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba.
 
 ---
 

@@ -32,7 +32,7 @@ cantidad de acciones (típicamente 3 en el caso de los PJs y otras
 criaturas) así como de una acción especial denominada reacción.
 Dichas acciones, y lo que haces con ellas, son la forma en la que
 afectas al mundo durante un encuentro. Las reglas completas para
-jugar en el modo de encuentro empiezan en la pág. 435.
+jugar en el modo de encuentro empiezan en la pág. 435 ([ver](/reglas/modo-encuentro/)).
 En el modo de exploración, el tiempo es más flexible y la forma
 de jugar, más libre. Los minutos, las horas o incluso los días en el
 mundo de juego pasan rápidamente en el mundo real, mientras los
@@ -41,12 +41,12 @@ de un dungeon, se recuperan de una batalla o interpretan durante
 una reunión social. A menudo, cosas que suceden durante la exploración
 conducen a un encuentro y el DJ cambiará a dicho modo
 hasta el final del encuentro, antes de volver al modo de exploración.
-Las reglas para la exploración empiezan en la pág. 438.
+Las reglas para la exploración empiezan en la pág. 438 ([ver](/reglas/modo-exploracion/)).
 El tercer modo es el modo de tiempo libre. Durante el tiempo libre,
 los PJs corren pocos riesgos y el paso del tiempo se mide en días
 o periodos más largos. Aquí es cuando puedes forjar una espada
 mágica, investigar un nuevo conjuro o prepararte para la siguiente
-aventura. Las reglas para el tiempo libre empiezan en la pág. 440.
+aventura. Las reglas para el tiempo libre empiezan en la pág. 440 ([ver](/reglas/modo-tiempo-libre/)).
 Las secciones que cubren cada uno de los modos de juego detallan
 cómo funciona la estructura de dichos modos durante una
 sesión de juego. Las demás partes de este capítulo explican reglas

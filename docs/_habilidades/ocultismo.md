@@ -12,7 +12,7 @@ Sabes mucho acerca de las filosofías antiguas, la sabiduría esotérica, el mis
 
 ## Recordar conocimiento
 
-Puedes usar Ocultismo para **Recordar conocimiento** (pág. 231) acerca de:
+Puedes usar Ocultismo para **Recordar conocimiento** (pág. 231 ([ver](/habilidades/recordar-conocimiento/))) acerca de:
 
 - Antiguos misterios
 - Filosofías oscuras
@@ -23,6 +23,6 @@ Puedes usar Ocultismo para **Recordar conocimiento** (pág. 231) acerca de:
 
 Tienes que estar entrenado en Ocultismo para utilizarlo con las siguientes acciones generales de habilidad.
 
-- **Descifrar escritura** (pág. 228) sobre temática ocultista, incluyendo sistemas metafísicos complejos, principios sincréticos, filosofías oscuras y divagaciones incoherentes.
-- **Identificar magia** (pág. 229), en particular la magia de la tradición ocultista.
-- **Aprender un conjuro** (pág. 228) de la tradición ocultista.
+- **Descifrar escritura** (pág. 228 ([ver](/habilidades/descifrar-escritura/))) sobre temática ocultista, incluyendo sistemas metafísicos complejos, principios sincréticos, filosofías oscuras y divagaciones incoherentes.
+- **Identificar magia** (pág. 229 ([ver](/habilidades/obtener-ingresos/))), en particular la magia de la tradición ocultista.
+- **Aprender un conjuro** (pág. 228 ([ver](/habilidades/descifrar-escritura/))) de la tradición ocultista.

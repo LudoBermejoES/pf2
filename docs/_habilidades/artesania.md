@@ -12,7 +12,7 @@ Puedes utilizar esta habilidad para crear y para reparar objetos. Incluso si no 
 
 ## Recordar conocimiento
 
-Puedes Recordar conocimiento (pág. 231) acerca de:
+Puedes Recordar conocimiento (pág. 231 ([ver](/habilidades/recordar-conocimiento/))) acerca de:
 - Las reacciones químicas
 - El valor de los objetos
 - La ingeniería
@@ -23,7 +23,7 @@ Puedes Recordar conocimiento (pág. 231) acerca de:
 
 **Exploración, Manipular**
 
-**Requisitos:** Empuñas o sostienes una herramienta (pág. 288).
+**Requisitos:** Empuñas o sostienes una herramienta (pág. 288 ([ver](/equipo/objetos/))).
 
 Inviertes 10 minutos tratando de arreglar un objeto dañado, colocándolo en una superficie estable y utilizando con ambas manos la herramienta (o herramientas). Haz una prueba de Artesanía. El DJ es quien fija la CD, pero la de Reparar un objeto determinado suele ser la misma que la de Fabricarlo. No puedes Reparar un objeto destruido.
 
@@ -37,7 +37,7 @@ Inviertes 10 minutos tratando de arreglar un objeto dañado, colocándolo en una
 
 Tienes que estar entrenado en Artesanía a fin de utilizarla para Obtener ingresos.
 
-- **Obtener ingresos** (pág. 229) fabricando mercancías para el mercado.
+- **Obtener ingresos** (pág. 229 ([ver](/habilidades/obtener-ingresos/))) fabricando mercancías para el mercado.
 
 ### Elaborar
 
@@ -76,7 +76,7 @@ Después de transcurridos esos días de tiempo libre, puedes completar el objeto
 
 **Concentrar, Exploración, Secreto**
 
-**Requisitos:** Empuñas o sostienes un juego de herramientas de alquimista (pág. 288).
+**Requisitos:** Empuñas o sostienes un juego de herramientas de alquimista (pág. 288 ([ver](/equipo/objetos/))).
 
 Puedes identificar la naturaleza de una sustancia alquímica tras 10 minutos de ensayo utilizando tu juego de herramientas de alquimista. Si tu intento es interrumpido de alguna forma, tienes que empezar de nuevo.
 
@@ -88,7 +88,7 @@ Puedes identificar la naturaleza de una sustancia alquímica tras 10 minutos de 
 
 ## Consumibles y munición
 
-Puedes Elaborar objetos con el rasgo consumible en lotes, preparando hasta cuatro lotes del mismo objeto a la vez con una sola prueba. Esto requiere que incluyas la materia prima para todos los objetos del lote al inicio, y tienes que completar todo el lote a la vez. También puedes elaborar munición no mágica en lotes, utilizando la cantidad indicada en la tabla Armas a distancia (típicamente 10, pág. 281).
+Puedes Elaborar objetos con el rasgo consumible en lotes, preparando hasta cuatro lotes del mismo objeto a la vez con una sola prueba. Esto requiere que incluyas la materia prima para todos los objetos del lote al inicio, y tienes que completar todo el lote a la vez. También puedes elaborar munición no mágica en lotes, utilizando la cantidad indicada en la tabla Armas a distancia (típicamente 10, pág. 281 ([ver](/equipo/armas/))).
 
 ## Fórmulas
 
@@ -97,7 +97,7 @@ Una fórmula escrita para un objeto te ayuda a crearlo con menos dificultad. Est
 1. **Reduce el tiempo:** El tiempo necesario para empezar a Elaborar se reduce de 2 días a 1, porque tienes menos preparación que hacer.
 2. **Acceso a objetos raros:** Puedes Elaborar objetos poco comunes y aún más raros si eres capaz de obtener sus fórmulas.
 
-Consulta las reglas de la pág. 294 para más información sobre las fórmulas.
+Consulta las reglas de la pág. 294 ([ver](/habilidades/artesania/)) para más información sobre las fórmulas.
 
 ## Ejemplo de Artesanía
 
@@ -111,4 +111,4 @@ Si el resultado de la prueba de Artesanía hubiera sido 29 o mayor, habría obte
 
 ## Material alquímico y objetos mágicos
 
-Si quieres Elaborar objetos mágicos o material alquímico, tienes que utilizar la dote de habilidad Artesanía alquímica (pág. 252) o Artesanía mágica (pág. 252) además de estar entrenado. Los bloques de estadísticas y los detalles de estos objetos aparecen en el Manual de dirección, así que consulta con tu DJ.
+Si quieres Elaborar objetos mágicos o material alquímico, tienes que utilizar la dote de habilidad Artesanía alquímica (pág. 252 ([ver](/dotes/habilidad/))) o Artesanía mágica (pág. 252 ([ver](/dotes/habilidad/))) además de estar entrenado. Los bloques de estadísticas y los detalles de estos objetos aparecen en el Manual de dirección, así que consulta con tu DJ.

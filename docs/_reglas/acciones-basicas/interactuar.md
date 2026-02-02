@@ -11,4 +11,4 @@ source: PC1
 
 **MANIPULAR**
 
-Utilizas tu mano o tus manos para manipular un objeto o el terreno. Puedes hacerte con un objeto desatendido o almacenado, desenvainar un arma, intercambiar por otro un objeto sostenido (pag. 268), abrir una puerta o conseguir un efecto similar. En raras ocasiones, podrías tener que hacer una prueba de habilidad para determinar si tu acción de Interactuar tiene éxito.
+Utilizas tu mano o tus manos para manipular un objeto o el terreno. Puedes hacerte con un objeto desatendido o almacenado, desenvainar un arma, intercambiar por otro un objeto sostenido (pag. 268 ([ver](/equipo/objetos/))), abrir una puerta o conseguir un efecto similar. En raras ocasiones, podrías tener que hacer una prueba de habilidad para determinar si tu acción de Interactuar tiene éxito.

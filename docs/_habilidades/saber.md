@@ -20,13 +20,13 @@ Si estás haciendo una prueba y se podrían aplicar múltiples subcategorías de
 
 Incluso si no estás entrenado en Saber, puedes utilizarlo para Recordar conocimiento.
 
-Puedes usar Saber para **Recordar conocimiento** (pág. 231) acerca del tema de la subcategoría de la habilidad de Saber.
+Puedes usar Saber para **Recordar conocimiento** (pág. 231 ([ver](/habilidades/recordar-conocimiento/))) acerca del tema de la subcategoría de la habilidad de Saber.
 
 ## Acción entrenada de Saber
 
 Tienes que estar entrenado en Saber a fin de utilizarlo para Obtener ingresos.
 
-- **Obtener ingresos** (pág. 229) utilizando tu conocimiento para practicar un oficio.
+- **Obtener ingresos** (pág. 229 ([ver](/habilidades/obtener-ingresos/))) utilizando tu conocimiento para practicar un oficio.
 
 ## Subcategorías comunes de Saber
 

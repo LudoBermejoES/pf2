@@ -404,7 +404,7 @@ Una fruta o verdura cruda a tu elección, del tamaño de la palma de una mano, a
 
 **Duración:** 1 minuto
 
-Envuelves el objetivo en una capa de sombras giratorias, que hace más difícil verle. La capa reduce la luz brillante en un emanación de 20 pies (6 m) a luz tenue. Ésta es una forma de oscuridad mágica y por lo tanto puede superar a la luz no mágica o contrarrestar a la luz mágica tal y como se describe en la pág. 431.
+Envuelves el objetivo en una capa de sombras giratorias, que hace más difícil verle. La capa reduce la luz brillante en un emanación de 20 pies (6 m) a luz tenue. Ésta es una forma de oscuridad mágica y por lo tanto puede superar a la luz no mágica o contrarrestar a la luz mágica tal y como se describe en la pág. 431 ([ver](/conjuros/introduccion/)).
 
 El objetivo puede utilizar su estado oculto debido a las sombras para Esconderse, aunque las criaturas observadoras pueden seguir siguiendo su aura de sombra que se mueve, haciendo difícil para el objetivo permanecer completamente indetectado. El objetivo puede utilizar una acción de Interactuar para quitarse la capa y dejarla tras de sí como un señuelo, puesto que permanece en su lugar, reduciendo la luz durante el resto de la duración del conjuro. Si alguien recoge la capa una vez se la ha quitado el objetivo original, ésta se evapora y el conjuro se acaba.
 
@@ -431,7 +431,7 @@ Infundes de oscuridad la visión de una criatura. Obtiene visión en la oscurida
 Infundes a tu objetivo con atracción, haciendo que actúe hacia ti de forma más amistosa. El objetivo hace una tirada de salvación de Voluntad. Obtiene un bonificados +4 por circunstancia a esta salvación si tú o tus aliados le habéis amenazado recientemente o habéis sido hostiles para con él.
 
 - **Éxito crítico** El objetivo no resulta afectado, pero es consciente de que has intentado hechizarlo.
-- **Éxito** El objetivo no resulta afectado, pero cree que tu conjuro era inofensivo en lugar de toque encantador, si no lo identifica (ver Cómo identificar conjuros en la pág. 303).
+- **Éxito** El objetivo no resulta afectado, pero cree que tu conjuro era inofensivo en lugar de toque encantador, si no lo identifica (ver Cómo identificar conjuros en la pág. 303 ([ver](/conjuros/introduccion/))).
 - **Fallo** La actitud del objetivo se vuelve amistosa hacia ti. Si ya era amistosa, se vuelve solícita. No puede utilizar acciones hostiles contra ti. Si utilizas acciones hostiles contra el objetivo, el conjuro se acaba. Puedes Disipar el conjuro. Una vez se acabe el conjuro, el objetivo no se dará cuenta necesariamente de que estaba hechizado a menos que su amistad contigo o las acciones que le has convencido de adoptar choquen con sus expectativas. Si no se da cuenta de que le has hechizado, podrías potencialmente convencerle de que continúe siendo amigo tuyo por medios mundanos.
 - **Fallo crítico** Igual que fallo, pero el objetivo se vuelve solícito.
 

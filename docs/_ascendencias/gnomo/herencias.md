@@ -37,7 +37,7 @@ Siempre que obtienes un conjuro innato primigenio de una dote de ascendencia de 
 
 Ves todos los colores más brillantes, oyes todos los sonidos mejor y, especialmente, detectas todos los olores con increíble detalle.
 
-**Beneficio:** Obtienes un sentido especial: olfato impreciso con un rango de distancia de 30 pies (9 m). Esto significa que puedes utilizar tu sentido del olfato para determinar la ubicación exacta de una criatura (tal y como se explica en la pág. 434). El DJ por lo general doblará el rango de distancia si estás a sotavento de la criatura o lo reducirá a la mitad si estás a barlovento.
+**Beneficio:** Obtienes un sentido especial: olfato impreciso con un rango de distancia de 30 pies (9 m). Esto significa que puedes utilizar tu sentido del olfato para determinar la ubicación exacta de una criatura (tal y como se explica en la pág. 434 ([ver](/reglas/percepcion-deteccion/))). El DJ por lo general doblará el rango de distancia si estás a sotavento de la criatura o lo reducirá a la mitad si estás a barlovento.
 
 Además obtienes un bonificados +2 por circunstancia a las pruebas de Percepción siempre que tratas de localizar una criatura no detectada dentro del rango de distancia de tu olfato.
 
@@ -55,6 +55,6 @@ Ya sea debido a una conexión con las hadas oscuras o sombrías, con los gnomos 
 
 La sangre de las hadas fluye por tus venas, saturándote con su magia y convirtiéndote en una de ellas.
 
-**Beneficio:** Obtienes el rasgo feérico, además de los rasgos gnomo y humanoide. Elige un truco de la lista de conjuros primigenios (pág. 311). Puedes lanzarlo a voluntad como un conjuro innato primigenio. Un truco se potencia a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba.
+**Beneficio:** Obtienes el rasgo feérico, además de los rasgos gnomo y humanoide. Elige un truco de la lista de conjuros primigenios (pág. 311 ([ver](/conjuros/))). Puedes lanzarlo a voluntad como un conjuro innato primigenio. Un truco se potencia a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba.
 
 Puedes cambiar este truco por uno diferente de la misma lista una vez al día meditando para volverte a alinear con el Primer Mundo; ésta es una actividad de 10 minutos con el rasgo concentrar.

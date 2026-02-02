@@ -31,7 +31,7 @@ La magia en tu sangre surge en respuesta al conjuro de tu enemigo. Generas un ef
 
 **Rasgos:** Hechicero
 
-Un animal te sirve y asiste tu lanzamiento de conjuros. Obtienes un familiar (las reglas para familiares se encuentran en la pagina 212 de Player Core).
+Un animal te sirve y asiste tu lanzamiento de conjuros. Obtienes un familiar (las reglas para familiares se encuentran en la pagina 212 ([ver](/clases/companeros/familiares/)) de Player Core).
 
 ---
 

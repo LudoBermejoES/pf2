@@ -10,7 +10,7 @@ source: PC1
 
 El Atletismo te permite llevar a cabo proezas de vigor físico. La mayoría de las acciones de Atletismo te permiten moverte por el entorno (Nadar, Salto de altura, Salto de longitud, Trepar) o controlar el movimiento de tu oponente en combate (Apresar, Derribar, Desarmar, Empujar, Reposicionar).
 
-**Huir:** Cuando utilizas la acción básica Huir (pág. 416), puedes utilizar tu modificador por Atletismo en lugar de tu modificador por ataque sin armas.
+**Huir:** Cuando utilizas la acción básica Huir (pág. 416 ([ver](/reglas/acciones-basicas/huir/))), puedes utilizar tu modificador por Atletismo en lugar de tu modificador por ataque sin armas.
 
 ## Abrir por la fuerza ◆
 
@@ -74,7 +74,7 @@ Si acabas tu turno en el agua y no has conseguido llevar a cabo una acción de N
 
 **Éxito:** Te mueves atravesando el agua.
 
-**Fallo crítico:** No consigues avanzar. Si estás conteniendo el aliento (pág. 437), pierdes 1 asalto de aire.
+**Fallo crítico:** No consigues avanzar. Si estás conteniendo el aliento (pág. 437 ([ver](/reglas/batallas-especiales/))), pierdes 1 asalto de aire.
 
 ### Ejemplos de tareas de Nadar
 
@@ -94,7 +94,7 @@ Si acabas tu turno en el agua y no has conseguido llevar a cabo una acción de N
 
 Pretendes apresar a una criatura u objeto con la mano libre. Haz una prueba de Atletismo contra la CD de Fortaleza del objetivo. Puedes hacer una Presa a un objetivo que ya has apresado o neutralizado sin tener una mano libre.
 
-**Éxito crítico:** Tu objetivo queda neutralizado hasta el final de tu siguiente turno si no te mueves o tu objetivo Huye (pág. 416).
+**Éxito crítico:** Tu objetivo queda neutralizado hasta el final de tu siguiente turno si no te mueves o tu objetivo Huye (pág. 416 ([ver](/reglas/acciones-basicas/huir/))).
 
 **Éxito:** Tu objetivo queda agarrado hasta el final de tu siguiente turno si no te mueves o tu objetivo Huye.
 
@@ -186,4 +186,4 @@ Tratas de desalojar un objeto del agarre de una criatura. Haz una prueba de Atle
 
 ## Movimiento forzado
 
-Reposicionar y Empujar obligan a una criatura a moverse. Cuando un efecto te obliga a moverte, o si empiezas a caer, la distancia que te mueves viene definida por el efecto que te ha movido, no por tu Velocidad. Como quiera que no actúas para moverte, esto no desencadena reacciones dependientes del movimiento. Consulta la pág. 422 para los detalles completos.
+Reposicionar y Empujar obligan a una criatura a moverse. Cuando un efecto te obliga a moverte, o si empiezas a caer, la distancia que te mueves viene definida por el efecto que te ha movido, no por tu Velocidad. Como quiera que no actúas para moverte, esto no desencadena reacciones dependientes del movimiento. Consulta la pág. 422 ([ver](/reglas/movimiento/)) para los detalles completos.

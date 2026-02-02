@@ -27,7 +27,7 @@ Esta sección incluye una variedad de armaduras mágicas, escudos y armas que so
 
 ## Activación e inversión de objetos
 
-Las reglas para activar e invertir objetos, así como una guía para leer el bloque de estadísticas de un objeto, comienzan en la página 219 de GM Core.
+Las reglas para activar e invertir objetos, así como una guía para leer el bloque de estadísticas de un objeto, comienzan en la página 219 ([ver](/equipo/magia/)) de GM Core.
 
 ### Activar un objeto
 

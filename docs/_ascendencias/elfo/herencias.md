@@ -17,7 +17,7 @@ Los elfos viven muchos años, tienen multitud de experiencias y se adaptan a su 
 
 En tu larga vida, te has aventurado en muchos caminos y muchos estilos. Un elfo antiguo típico tiene por lo menos cien años de edad, aunque podrías ser más joven a discreción del DJ.
 
-**Beneficio:** Elige una clase diferente a la tuya. Obtienes la dote de dedicación multiclase para dicha clase, incluso si no cumples su prerrequisito de nivel (pág. 215). Sigues teniendo que cumplir los demás prerrequisitos para obtener la dote.
+**Beneficio:** Elige una clase diferente a la tuya. Obtienes la dote de dedicación multiclase para dicha clase, incluso si no cumples su prerrequisito de nivel (pág. 215 ([ver](/clases/arquetipos/))). Sigues teniendo que cumplir los demás prerrequisitos para obtener la dote.
 
 ---
 

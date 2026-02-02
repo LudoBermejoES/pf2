@@ -12,7 +12,7 @@ A 1.er nivel, cuando creas tu personaje, obtienes un bagaje a tu elección. Esta
 
 Si obtienes el rango de competencia entrenado en una habilidad debido a tu bagaje y después obtendrías el rango de competencia entrenado en la misma habilidad debido a tu clase a 1.er nivel, en su lugar obtienes el rango entrenado en otra habilidad a tu elección.
 
-Las habilidades de Saber representan un conocimiento profundo de un tema específico y se describen en la pág. 244. Si una de ellas implica una elección (por ejemplo, un tipo de terreno), explica tu preferencia al DJ, que tiene la última palabra sobre si es aceptable o no.
+Las habilidades de Saber representan un conocimiento profundo de un tema específico y se describen en la pág. 244 ([ver](/habilidades/sigilo/)). Si una de ellas implica una elección (por ejemplo, un tipo de terreno), explica tu preferencia al DJ, que tiene la última palabra sobre si es aceptable o no.
 
 Las dotes de habilidad expanden las funciones de tus habilidades y aparecen en el Capítulo 5: Dotes.
 

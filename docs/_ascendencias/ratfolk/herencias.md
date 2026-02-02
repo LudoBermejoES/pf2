@@ -33,7 +33,7 @@ Eres originario de llanuras áridas y probablemente creciste viajando por las ca
 
 Tu hocico alargado te proporciona un sentido del olfato más agudo que el de la mayoría de los ysoki.
 
-**Beneficio:** Obtienes olor impreciso con un alcance de 30 pies. Esto significa que puedes usar tu sentido del olfato para determinar la ubicación de una criatura, tal y como se explica en la página 433 de Player Core. El DJ normalmente duplicará el alcance si estás a favor del viento respecto de la criatura o lo reducirá a la mitad si estás en contra del viento.
+**Beneficio:** Obtienes olor impreciso con un alcance de 30 pies. Esto significa que puedes usar tu sentido del olfato para determinar la ubicación de una criatura, tal y como se explica en la página 433 ([ver](/reglas/percepcion-deteccion/)) de Player Core. El DJ normalmente duplicará el alcance si estás a favor del viento respecto de la criatura o lo reducirá a la mitad si estás en contra del viento.
 
 Además, obtienes un bonificador +2 por circunstancia a las pruebas de Percepción para Buscar una criatura u objeto dentro del alcance de tu olfato.
 

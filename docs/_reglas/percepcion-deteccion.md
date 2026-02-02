@@ -10,7 +10,7 @@ source: PC1
 
 Tu Percepción mide tu capacidad para darte cuenta de las cosas, buscar lo que esta escondido y discernir si algo acerca de una situación resulta sospechoso.
 
-La Percepción se utiliza frecuentemente para tirar iniciativa en un encuentro, y para la acción de Buscar. Consulta la pag. 404 para el procedimiento de hacer una prueba de Percepción.
+La Percepción se utiliza frecuentemente para tirar iniciativa en un encuentro, y para la acción de Buscar. Consulta la pag. 404 ([ver](/reglas/pruebas/)) para el procedimiento de hacer una prueba de Percepción.
 
 ## Luz
 
@@ -22,7 +22,7 @@ En luz brillante, como por ejemplo la luz solar, las criaturas y los objetos son
 
 ### Luz tenue
 
-Las zonas de sombra o iluminadas por fuentes de luz debiles disponen de luz tenue. Las criaturas y los objetos en luz tenue tienen el estado oculto si quien las mira carece de vision en la oscuridad o vision en la penumbra (ver pag. 433) o de un sentido preciso diferente a la vista.
+Las zonas de sombra o iluminadas por fuentes de luz debiles disponen de luz tenue. Las criaturas y los objetos en luz tenue tienen el estado oculto si quien las mira carece de vision en la oscuridad o vision en la penumbra (ver pag. 433 ([ver](/reglas/percepcion-deteccion/))) o de un sentido preciso diferente a la vista.
 
 ### Oscuridad
 
@@ -60,7 +60,7 @@ Las reglas de Pathfinder suponen que una criatura determinada tiene la vista com
 
 ## Sentidos especiales
 
-Si bien un ser humano podría tenerlo difícil para distinguir criaturas en luz tenue, un elfo puede divisarlas perfectamente. Y aunque los elfos no tienen problema en ver en una noche de luna, su vista no puede traspasar la oscuridad completa, mientras que la de un enano si. Los sentidos especiales permiten a una criatura ignorar o reducir los efectos de los estados no detectado, escondido u oculto (descritos en la pag. 434) cuando tienen lugar situaciones que frustran la vista normal.
+Si bien un ser humano podría tenerlo difícil para distinguir criaturas en luz tenue, un elfo puede divisarlas perfectamente. Y aunque los elfos no tienen problema en ver en una noche de luna, su vista no puede traspasar la oscuridad completa, mientras que la de un enano si. Los sentidos especiales permiten a una criatura ignorar o reducir los efectos de los estados no detectado, escondido u oculto (descritos en la pag. 434 ([ver](/reglas/percepcion-deteccion/))) cuando tienen lugar situaciones que frustran la vista normal.
 
 ### Vision en la oscuridad y vision en la oscuridad mayor
 
@@ -80,13 +80,13 @@ El sentido de la vibración permite a una criatura notar las vibraciones causada
 
 ## Como detectar criaturas
 
-Hay tres estados que miden el grado hasta el que puedes notar a una criatura: observado, escondido y no detectado. Sin embargo, los estados oculto e invisible pueden enmascarar parcialmente a una criatura y el estado inadvertido indica que no tienes ni idea de que hay una criatura determinada en un lugar. Puedes encontrar dichos estados en el Apendice Estados, de las paginas 442 a 447.
+Hay tres estados que miden el grado hasta el que puedes notar a una criatura: observado, escondido y no detectado. Sin embargo, los estados oculto e invisible pueden enmascarar parcialmente a una criatura y el estado inadvertido indica que no tienes ni idea de que hay una criatura determinada en un lugar. Puedes encontrar dichos estados en el Apendice Estados, de las paginas 442 a 447 ([ver](/apendices/estados/)).
 
 Con la excepcion de invisible, estos estados son relativos al que mira: es posible que una criatura este observada por ti, pero permanezca escondida de un aliado tuyo. La mayor parte de estas reglas se aplican tanto a los objetos como las criaturas.
 
 Tipicamente, el DJ tiene anotado lo bien que las criaturas se detectan entre si, puesto que ninguno de los bandos dispone de información perfecta. Por ejemplo podrías creer que una criatura esta en el ultimo lugar en el que la has notado, pero en realidad se ha podido alejar mediante Movimiento furtivo. O podrías creer que una criatura no te puede ver porque esta oscuro, pero dispone de vision en la oscuridad.
 
-Puedes tratar de evitar la detección utilizando la habilidad Sigilo (pag. 244) para Evitar ser visto, Esconderte o Moverte furtivamente o usar Engano para Crear una distracción (pag. 239).
+Puedes tratar de evitar la detección utilizando la habilidad Sigilo (pag. 244 ([ver](/habilidades/sigilo/))) para Evitar ser visto, Esconderte o Moverte furtivamente o usar Engano para Crear una distracción (pag. 239 ([ver](/habilidades/engano/))).
 
 ### Observado
 
@@ -116,6 +116,6 @@ Una criatura oculta esta en la niebla, en luz tenue o entre alguna otra cosa que
 
 ### Invisible
 
-Una criatura con el estado invisible (mediante un conjuro de invisibilidad, por ejemplo) esta automaticamente no detectada ante cualquier criatura que se basa en la vista como su unico sentido preciso. Los sentidos precisos distintos a la vista ignoran el estado invisible. Puedes Buscar (pag. 416) para imaginarte donde esta una criatura invisible y hacer que tan solo este escondida de ti. Esto dura hasta que la criatura invisible usa con éxito Movimiento furtivo para quedar de nuevo no detectada. Si estas observando a una criatura cuando se hace invisible, empieza escondida puesto que sabes donde estaba cuando se hizo invisible, aunque a continuación puede usar Movimiento furtivo para quedar no detectada.
+Una criatura con el estado invisible (mediante un conjuro de invisibilidad, por ejemplo) esta automaticamente no detectada ante cualquier criatura que se basa en la vista como su unico sentido preciso. Los sentidos precisos distintos a la vista ignoran el estado invisible. Puedes Buscar (pag. 416 ([ver](/reglas/acciones-basicas/huir/))) para imaginarte donde esta una criatura invisible y hacer que tan solo este escondida de ti. Esto dura hasta que la criatura invisible usa con éxito Movimiento furtivo para quedar de nuevo no detectada. Si estas observando a una criatura cuando se hace invisible, empieza escondida puesto que sabes donde estaba cuando se hizo invisible, aunque a continuación puede usar Movimiento furtivo para quedar no detectada.
 
 Otros efectos pueden frustrar parcialmente la invisibilidad. Por ejemplo, si estas rastreando las pisadas de una criatura invisible sobre la nieve, las propias pisadas la convierten en simplemente escondida. Lanzar una red sobre una criatura invisible haría que pasara a estar observada (pero oculta) mientras tuviera la red encima.

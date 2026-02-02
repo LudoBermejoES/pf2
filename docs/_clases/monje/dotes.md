@@ -122,7 +122,7 @@ Entras en una postura aparentemente desenfocada que imita los movimientos del eb
 
 *Monje*
 
-Has cultivado tu qi para producir efectos magicos. Obtienes conmocion interna, oleada de qi u otro hechizo de qi de monje de rango 1 al que tengas acceso. Las reglas para hechizos de qi estan resumidas en el recuadro de esta pagina, y los hechizos de qi aparecen en la pagina 257.
+Has cultivado tu qi para producir efectos magicos. Obtienes conmocion interna, oleada de qi u otro hechizo de qi de monje de rango 1 al que tengas acceso. Las reglas para hechizos de qi estan resumidas en el recuadro de esta pagina, y los hechizos de qi aparecen en la pagina 257 ([ver](/conjuros/conjuros-foco/)).
 
 ---
 
@@ -241,7 +241,7 @@ Tu guardia esta en alto, incluso mientras te mueves. Obtienes un bonificador de 
 
 **Prerrequisitos** Hechizos de Qi
 
-Puedes restaurar tu salud aprovechando tu qi. Obtienes el hechizo de qi armonizar el ser (pagina 258).
+Puedes restaurar tu salud aprovechando tu qi. Obtienes el hechizo de qi armonizar el ser (pagina 258 ([ver](/conjuros/conjuros-foco/))).
 
 ---
 
@@ -442,7 +442,7 @@ Arrancas a tu enemigo de sus pies. Haz un Golpe de mandibula de lobo. Tu mandibu
 
 **Prerrequisitos** Hechizos de Qi
 
-Aprendes una postura mistica que transforma tu qi en humo pegajoso que envuelve tus extremidades. Obtienes el hechizo de qi postura de sombras adherentes (pagina 258). Aunque entrar en la postura es un hechizo de qi, los ataques de agarre de sombra que otorga no lo son, asi que puedes usarlos tan a menudo como quieras mientras estes en la postura.
+Aprendes una postura mistica que transforma tu qi en humo pegajoso que envuelve tus extremidades. Obtienes el hechizo de qi postura de sombras adherentes (pagina 258 ([ver](/conjuros/conjuros-foco/))). Aunque entrar en la postura es un hechizo de qi, los ataques de agarre de sombra que otorga no lo son, asi que puedes usarlos tan a menudo como quieras mientras estes en la postura.
 
 ---
 
@@ -521,7 +521,7 @@ Desafias la gravedad, atravesando planos verticales tan facilmente como el suelo
 
 **Prerrequisitos** Hechizos de Qi
 
-Aprendes una postura que te permite atacar a distancia. Obtienes el hechizo de qi postura de vientos salvajes (pagina 258). Aunque entrar en la postura es un hechizo de qi, los Golpes de impacto de viento que otorga la postura no lo son, asi que puedes usarlos tan a menudo como quieras mientras estes en la postura.
+Aprendes una postura que te permite atacar a distancia. Obtienes el hechizo de qi postura de vientos salvajes (pagina 258 ([ver](/conjuros/conjuros-foco/))). Aunque entrar en la postura es un hechizo de qi, los Golpes de impacto de viento que otorga la postura no lo son, asi que puedes usarlos tan a menudo como quieras mientras estes en la postura.
 
 ---
 
@@ -588,7 +588,7 @@ Pellizcas puntos cruciales del sistema nervioso de tu objetivo, impidiendo su ca
 
 **Prerrequisitos** Hechizos de Qi
 
-Reunes el viento bajo ti, permitiendote elevarte mientras saltas. Obtienes el hechizo de qi salto de viento (pagina 258).
+Reunes el viento bajo ti, permitiendote elevarte mientras saltas. Obtienes el hechizo de qi salto de viento (pagina 258 ([ver](/conjuros/conjuros-foco/))).
 
 ---
 
@@ -741,7 +741,7 @@ Tu dominio sobre tu cuerpo es lo suficientemente perfecto para contener los estr
 
 **Prerrequisitos** Iniciado de Sombras Adherentes
 
-Puedes lanzar una ola de qi sombrio hacia afuera desde tu cuerpo, danando a tus oponentes y potencialmente atandolos en su lugar. Obtienes el hechizo de qi red de sombras (pagina 258).
+Puedes lanzar una ola de qi sombrio hacia afuera desde tu cuerpo, danando a tus oponentes y potencialmente atandolos en su lugar. Obtienes el hechizo de qi red de sombras (pagina 258 ([ver](/conjuros/conjuros-foco/))).
 
 ---
 

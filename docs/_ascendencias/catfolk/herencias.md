@@ -25,7 +25,7 @@ Tu familia tiene garras particularmente largas y afiladas capaces de provocar he
 
 Provienes de un largo linaje de cazadores y rastreadores expertos y tienes un sentido del olfato especialmente agudo.
 
-**Beneficio:** Obtienes olfato impreciso con un alcance de 30 pies. Esto significa que puedes usar tu sentido del olfato para determinar la localización de una criatura, como se explica en la página 433 de Player Core. El DJ normalmente duplicará el alcance si estás a sotavento de la criatura o lo reducirá a la mitad si estás a barlovento.
+**Beneficio:** Obtienes olfato impreciso con un alcance de 30 pies. Esto significa que puedes usar tu sentido del olfato para determinar la localización de una criatura, como se explica en la página 433 ([ver](/reglas/percepcion-deteccion/)) de Player Core. El DJ normalmente duplicará el alcance si estás a sotavento de la criatura o lo reducirá a la mitad si estás a barlovento.
 
 Además, obtienes un bonificador circunstancial +2 para Rastrear una criatura u objeto si lo has olido antes.
 

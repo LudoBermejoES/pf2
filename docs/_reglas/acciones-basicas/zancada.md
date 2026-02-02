@@ -11,4 +11,4 @@ source: PC1
 
 **MOVIMIENTO**
 
-Te mueves hasta tu Velocidad (pag. 420).
+Te mueves hasta tu Velocidad (pag. 420 ([ver](/reglas/movimiento/))).

@@ -22,7 +22,7 @@ Para un efecto que dura cierta cantidad de asaltos, la duración restante dismin
 
 En lugar de durar un número fijo de asaltos, una duración podría acabar solamente cuando se cumplan ciertas condiciones (o dejen de ser ciertas). Si es así, los efectos duran hasta que se cumplen dichas condiciones.
 
-Algunos efectos se pueden acabar antes con la acción Disipar (pág. 419). Un efecto con duración mantenida dura hasta el final de tu siguiente turno, pero se puede prolongar tal y como se describe en la acción Mantener (pág. 419).
+Algunos efectos se pueden acabar antes con la acción Disipar (pág. 419 ([ver](/reglas/acciones-especialidad/))). Un efecto con duración mantenida dura hasta el final de tu siguiente turno, pero se puede prolongar tal y como se describe en la acción Mantener (pág. 419 ([ver](/reglas/acciones-especialidad/))).
 
 ## Rango de Distancia y Alcance
 
@@ -74,7 +74,7 @@ Un área siempre tiene un punto de origen y se extiende a partir de él. Hay cua
 
 Algunos efectos ocupan un área de un tamaño y forma específicos. Un efecto de área siempre tiene un punto de origen y se extiende a partir de él.
 
-Cuando juegas en el modo de encuentro y utilizas un tablero, las áreas se miden de la misma forma que el movimiento (pág. 420), pero las distancias de las áreas nunca se ven afectadas por el terreno difícil. La cobertura normal o la mayor pueden aplicarse contra las áreas, pero no la cobertura menor. Puedes utilizar los diagramas como plantillas de referencia común para las áreas, en lugar de medir casillas cada vez.
+Cuando juegas en el modo de encuentro y utilizas un tablero, las áreas se miden de la misma forma que el movimiento (pág. 420 ([ver](/reglas/movimiento/))), pero las distancias de las áreas nunca se ven afectadas por el terreno difícil. La cobertura normal o la mayor pueden aplicarse contra las áreas, pero no la cobertura menor. Puedes utilizar los diagramas como plantillas de referencia común para las áreas, en lugar de medir casillas cada vez.
 
 Muchos efectos de área describen tan solo los efectos sobre las criaturas que hay en el área. El DJ es quien determina cualquier efecto sobre el entorno y sobre los objetos desatendidos.
 

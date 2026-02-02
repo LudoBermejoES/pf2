@@ -383,7 +383,7 @@ Cuando proteges a tu aliado contra un ataque con tu escudo, invocas tu poder par
 
 **Prerrequisitos:** rapidez bendita
 
-Obtienes el conjuro de devoción avance espectral (página 257), que te permite moverte hacia un enemigo, evitando obstáculos.
+Obtienes el conjuro de devoción avance espectral (página 257 ([ver](/conjuros/conjuros-foco/))), que te permite moverte hacia un enemigo, evitando obstáculos.
 
 ---
 
@@ -429,7 +429,7 @@ Invocas poder divino y haces un Golpe con arma o desarmado contra el enemigo que
 
 **Prerrequisitos:** no eres profano
 
-Puedes sufrir para que otros puedan vivir. Puedes lanzar el conjuro de devoción sacrificio del campeón (página 257).
+Puedes sufrir para que otros puedan vivir. Puedes lanzar el conjuro de devoción sacrificio del campeón (página 257 ([ver](/conjuros/conjuros-foco/))).
 
 ---
 

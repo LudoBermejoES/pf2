@@ -363,7 +363,7 @@ Invocas espíritus protectores para defenderte de ataques a distancia. Hasta que
 
 **Prerrequisitos:** instinto animal
 
-Profundizas la conexión con tus instintos animales. Tu ataque sin armas de ira bestial obtiene uno de los siguientes rasgos hasta que dejes de estar en ira: contragolpe, contundente, parada, arrasador (página 274) o barrido. No puedes usar esta habilidad de nuevo hasta la próxima vez que entres en Ira. Puedes elegir un rasgo diferente cada vez que uses Brutalidad Animalística.
+Profundizas la conexión con tus instintos animales. Tu ataque sin armas de ira bestial obtiene uno de los siguientes rasgos hasta que dejes de estar en ira: contragolpe, contundente, parada, arrasador (página 274 ([ver](/equipo/armas/))) o barrido. No puedes usar esta habilidad de nuevo hasta la próxima vez que entres en Ira. Puedes elegir un rasgo diferente cada vez que uses Brutalidad Animalística.
 
 ---
 
