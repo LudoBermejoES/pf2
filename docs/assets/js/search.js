@@ -34,7 +34,8 @@ class PF2Search {
 
       this.searchData = await response.json();
 
-      // Build Lunr index
+      // Build Lunr index - documents must be added inside the callback
+      const searchData = this.searchData;
       this.searchIndex = lunr(function() {
         this.ref('id');
         this.field('title', { boost: 10 });
@@ -48,16 +49,16 @@ class PF2Search {
 
         this.searchPipeline.remove(lunr.stemmer);
         this.searchPipeline.remove(lunr.stopWordFilter);
-      });
 
-      // Add documents to index
-      this.searchData.forEach((doc, index) => {
-        this.searchIndex.add({
-          id: index,
-          title: doc.title,
-          content: doc.content,
-          category: doc.category,
-          tags: doc.tags?.join(' ') || ''
+        // Add documents inside callback (required by Lunr)
+        searchData.forEach((doc, index) => {
+          this.add({
+            id: index,
+            title: doc.title,
+            content: doc.content,
+            category: doc.category,
+            tags: doc.tags?.join(' ') || ''
+          });
         });
       });
 
