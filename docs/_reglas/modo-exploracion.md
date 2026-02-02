@@ -12,6 +12,8 @@ Gran parte del modo de exploración implica movimiento e interpretación. Podrí
 
 Mientras que los encuentros utilizan asaltos para el combate, la exploración es más espontánea. El DJ determina el flujo del tiempo, puesto que podrías estar cruzando a caballo unas tierras altas rocosas, negociando con mercaderes o excavando en un dungeon en busca de peligro y tesoros. La exploración carece del peligro inmediato del modo de encuentro, pero plantea sus propios desafíos.
 
+---
+
 ## Velocidad de viaje
 
 Dependiendo de cómo registre el movimiento el DJ, te moverás en pies o millas (1 pie = 0,3 m, 1 milla = 1,6 km) basándote en la Velocidad de tu PJ con el tipo de movimiento relevante. Los ritmos típicos se encuentran en la tabla a continuación.
@@ -32,77 +34,56 @@ Dependiendo de cómo registre el movimiento el DJ, te moverás en pies o millas 
 
 Los ritmos de la tabla suponen que se viaja por terreno llano y despejado a un ritmo determinado, pero no agotador. Atravesar terreno difícil reduce a la mitad el ritmo de movimiento indicado. El terreno difícil mayor reduce la distancia viajada a una tercera parte de la cantidad indicada. Si el viaje requiere una prueba de habilidad, como por ejemplo escalar montañas o nadar, el DJ podría pedir una prueba una vez por hora usando el resultado y la tabla de más arriba para determinar tu avance.
 
+---
+
 ## Actividades de Exploración
 
 Mientras viajas y exploras, informa al DJ de lo que te gustaría hacer por el camino. Si no haces más que avanzar directamente hacia el objetivo, te mueves a las velocidades de viaje completas que aparecen en la tabla.
 
-Cuando quieres hacer algo diferente a simplemente viajar, describes lo que tratas de hacer. No es necesario extenderse en detalles, como por ejemplo "Usando la daga, muevo suavemente la puerta para buscar trampas taimadas". En su lugar, "Registro el área en busca de peligros" basta. El DJ busca la mejor actividad de exploración que encaja con tu descripción y describe los efectos de la misma. Algunas actividades de exploración limitan la rapidez con la que puedes viajar y ser efectivo a la vez.
+Cuando quieres hacer algo diferente a simplemente viajar, describes lo que tratas de hacer. El DJ busca la mejor actividad de exploración que encaja con tu descripción y describe los efectos de la misma. Algunas actividades de exploración limitan la rapidez con la que puedes viajar y ser efectivo a la vez.
 
-Las actividades de exploración más comunes se exponen a continuación.
+### Actividades Principales
 
-### Aligerar
+| Actividad | Rasgos | Velocidad | Descripción |
+|-----------|--------|-----------|-------------|
+| [Aligerar]({{ '/reglas/actividades-exploracion/aligerar/' | relative_url }}) | Exploración, Movimiento | x2 | Te mueves al doble de tu velocidad de viaje |
+| [Defender]({{ '/reglas/actividades-exploracion/defender/' | relative_url }}) | Exploración | ½ | Mueves con el escudo alzado, listo para el combate |
+| [Detectar Magia]({{ '/reglas/actividades-exploracion/detectar-magia/' | relative_url }}) | Concentrar, Exploración | ½ | Lanzas *detectar magia* a intervalos regulares |
+| [Evitar Ser Visto]({{ '/reglas/actividades-exploracion/evitar-ser-visto/' | relative_url }}) | Exploración | ½ | Haces pruebas de Sigilo mientras viajas |
+| [Explorar]({{ '/reglas/actividades-exploracion/explorar/' | relative_url }}) | Concentrar, Exploración | ½ | Exploras en busca de peligros, +1 iniciativa al grupo |
+| [Investigar]({{ '/reglas/actividades-exploracion/investigar/' | relative_url }}) | Concentrar, Exploración | ½ | Buscas información con Recordar Conocimiento |
+| [Mantener un Efecto]({{ '/reglas/actividades-exploracion/mantener-efecto/' | relative_url }}) | Concentrar, Exploración | ½ | Mantienes un efecto de duración mantenida |
+| [Registrar]({{ '/reglas/actividades-exploracion/registrar/' | relative_url }}) | Concentrar, Exploración | ½ | Buscas puertas secretas y peligros ocultos |
+| [Repetir un Conjuro]({{ '/reglas/actividades-exploracion/repetir-conjuro/' | relative_url }}) | Concentrar, Exploración | ½ | Lanzas repetidamente un truco |
+| [Seguir al Experto]({{ '/reglas/actividades-exploracion/seguir-experto/' | relative_url }}) | Auditivo, Concentrar, Exploración, Visual | Normal | Imitas la táctica de un aliado experto |
 
-**Exploración, Movimiento**
+> **Ver también:** [Lista completa de actividades de exploración]({{ '/reglas/actividades-exploracion/' | relative_url }})
 
-Te esfuerzas por moverte al doble de tu velocidad de viaje. Puedes aligerar sólo tantos minutos como tu modificador por Constitución x 10 (mínimo 10 minutos). Si formas parte de un grupo que está Aligerando, usa el modificador por Constitución más bajo de entre todos para determinar durante cuánto tiempo el grupo puede Aligerar junto.
+---
 
-### Defender
+## Actividades de Exploración por Habilidad
 
-**Exploración**
+El Capítulo 4: Habilidades incluye actividades de exploración adicionales.
 
-Mueves a la mitad de tu velocidad de viaje con el escudo alzado. Si se desata un combate, obtienes el beneficio de Alzar un escudo antes de que empiece tu primer turno.
+| Actividad | Habilidad | Descripción |
+|-----------|-----------|-------------|
+| [Aprender un Conjuro]({{ '/reglas/actividades-exploracion/aprender-conjuro/' | relative_url }}) | Arcanos, Ocultismo, etc. | Obtienes acceso a un nuevo conjuro |
+| [Causar Impresión]({{ '/reglas/actividades-exploracion/causar-impresion/' | relative_url }}) | Diplomacia | Causas una buena impresión a alguien |
+| [Cubrir Rastro]({{ '/reglas/actividades-exploracion/cubrir-rastro/' | relative_url }}) | Supervivencia | Disimulas tu paso |
+| [Descifrar Escritura]({{ '/reglas/actividades-exploracion/descifrar-escritura/' | relative_url }}) | Sociedad, Arcanos, etc. | Entiendes textos arcaicos u obscuros |
+| [Escurrirse]({{ '/reglas/actividades-exploracion/escurrirse/' | relative_url }}) | Acrobacias | Te abres paso por lugares muy estrechos |
+| [Identificar Alquimia]({{ '/reglas/actividades-exploracion/identificar-alquimia/' | relative_url }}) | Artesanía | Identificas una sustancia alquímica |
+| [Identificar Magia]({{ '/reglas/actividades-exploracion/identificar-magia/' | relative_url }}) | Arcanos, Ocultismo, etc. | Averiguas información sobre un objeto mágico |
+| [Imitar]({{ '/reglas/actividades-exploracion/imitar/' | relative_url }}) | Engaño | Creas un disfraz |
+| [Obligar]({{ '/reglas/actividades-exploracion/obligar/' | relative_url }}) | Intimidación | Amenazas a una criatura para que haga lo que quieras |
+| [Pedir Prestado Conjuro]({{ '/reglas/actividades-exploracion/pedir-prestado-conjuro/' | relative_url }}) | Arcanos | Preparas un conjuro del libro de otro mago |
+| [Rastrear]({{ '/reglas/actividades-exploracion/rastrear/' | relative_url }}) | Supervivencia | Sigues rastros y huellas |
+| [Reparar]({{ '/reglas/actividades-exploracion/reparar/' | relative_url }}) | Artesanía | Arreglas un objeto dañado |
+| [Reunir Información]({{ '/reglas/actividades-exploracion/reunir-informacion/' | relative_url }}) | Diplomacia | Sondeas en una zona para averiguar cosas |
+| [Sentir la Dirección]({{ '/reglas/actividades-exploracion/sentir-direccion/' | relative_url }}) | Supervivencia | Determinas dónde estás o las direcciones cardinales |
+| [Tratar Heridas]({{ '/reglas/actividades-exploracion/tratar-heridas/' | relative_url }}) | Medicina | Tratas las heridas de una criatura viva |
 
-### Detectar Magia
-
-**Concentrar, Exploración**
-
-Lanzas *detectar magia* a intervalos regulares. Mueves a la mitad de tu velocidad de viaje o menos. No tienes probabilidad alguna de pasar por alto accidentalmente un aura mágica a una Velocidad de viaje de hasta 300 pies (90 m) por minuto, pero no puedes viajar a más de 150 pies (45 m) por minuto para detectar auras mágicas antes de que el grupo se tope con las mismas.
-
-### Evitar Ser Visto
-
-**Exploración**
-
-Haces una prueba de Sigilo para Evitar ser visto cuando viajas a media velocidad. Si estás Evitando ser visto al inicio de un encuentro, sueles hacer una prueba de Sigilo en lugar de Percepción, tanto para determinar tu iniciativa como para ver si los enemigos te ven (basándose en la CD de sus pruebas de Percepción, como es normal para el Movimiento furtivo, sea cual sea el resultado de su prueba de iniciativa).
-
-### Explorar
-
-**Concentrar, Exploración**
-
-Exploras por delante y por detrás del grupo en busca de peligros, moviéndote a media velocidad. Al inicio del siguiente encuentro, cada criatura de tu grupo obtiene un bonificador +1 por circunstancia a su tirada de iniciativa.
-
-### Investigar
-
-**Concentrar, Exploración**
-
-Buscas información acerca de lo que te rodea mientras viajas a media velocidad. Utilizas Recordar conocimiento como una prueba secreta para descubrir pistas entre las diversas cosas que puedes ver y hacer mientras viajas. Puedes utilizar cualquier habilidad provista de una acción de Recordar conocimiento mientras investigas, pero es el DJ quien determina si la habilidad es relevante para las pistas a encontrar.
-
-### Mantener un Efecto
-
-**Concentrar, Exploración**
-
-Mantienes un efecto cuya duración es mantenido mientras te mueves a media velocidad. La mayoría de dichos efectos se pueden mantener durante 10 minutos, aunque algunos especifican que la duración puede ser diferente. Mantener un efecto que requiere tomar decisiones complejas, como por ejemplo *arma espectral* puede dejarte fatigado, a determinar por el DJ.
-
-### Registrar
-
-**Concentrar, Exploración**
-
-Buscas meticulosamente puertas secretas, peligros ocultos y cosas parecidas. Por lo general puedes hacer una estimación fundamentada acerca de qué ubicaciones son las mejores para buscar y moverte a media velocidad, pero si quieres ser concienzudo y garantizar que lo has comprobado todo, tienes que viajar a una Velocidad no superior a 300 pies (90 m) por minuto, o 150 (45 m) por minuto para asegurarte de que lo compruebas todo antes de adentrarte en un sitio.
-
-Siempre puedes moverte más lentamente mientras Registras para cubrir el área de forma más concienzuda y la dote Registro expeditivo incrementa dichas Velocidades máximas. Si te encuentras con una puerta secreta, objeto o peligro mientras Registras, el DJ hace una prueba secreta gratuita de Buscar para ver si percibes el objeto o peligro escondido. En lugares con muchos objetos para registrar, tienes que detenerte e invertir un tiempo significativamente más largo para hacerlo de forma concienzuda.
-
-### Repetir un Conjuro
-
-**Concentrar, Exploración**
-
-Lanzas repetidamente el mismo conjuro mientras te mueves a media velocidad. Típicamente se trata de un truco que quieres que esté funcionando en caso de que surja un combate y tiene que ser uno que puedes lanzar en 2 acciones o menos. Repetir un conjuro que requiere tomar decisiones complejas, como por ejemplo *quimera* puede dejarte fatigado, a determinar por el DJ.
-
-### Seguir al Experto
-
-**Auditivo, Concentrar, Exploración, Visual**
-
-Elige un aliado que hace una prueba de habilidad recurrente mientras explora, como por ejemplo trepar, o lleva a cabo una táctica de exploración diferente que requiere una prueba de habilidad (como por ejemplo, Evitar ser visto). El aliado tiene que tener por lo menos el rango experto en dicha habilidad y estar dispuesto a proporcionar asistencia. Mientras Sigues al experto, imitas su táctica o haces pruebas de habilidad similares.
-
-Gracias a la asistencia de tu aliado, puedes sumar tu nivel como bonificador por competencia a la prueba de habilidad asociada, incluso si no dispones del rango entrenado. Además, obtienes un bonificador por circunstancia a tu prueba de habilidad basado en la competencia de tu aliado (+2 para experto, +3 para maestro y +4 para legendario).
+---
 
 ## Descanso y Preparativos Diarios
 
@@ -121,22 +102,8 @@ Después de descansar, llevas a cabo tus preparativos diarios, lo que implica al
 - Te pones la armadura y preparas las armas y otro equipo.
 - Invistes hasta 10 objetos mágicos puestos para obtener sus beneficios durante el día (tal y como se explica en el Manual de dirección).
 
-## Actividades de Exploración por Habilidad
+---
 
-El Capítulo 4: Habilidades incluye actividades de exploración adicionales.
+## Ejemplo de Juego
 
-- **Aprender un conjuro:** utilizas la habilidad correspondiente a la tradición del conjuro para obtener acceso a un nuevo conjuro.
-- **Causar impresión:** usas la Diplomacia para causar una buena impresión a alguien.
-- **Cubrir rastro:** usas la Supervivencia para disimular tu paso.
-- **Descifrar escritura:** utilizas una habilidad adecuada para entender textos arcaicos, esotéricos u obscuros.
-- **Escurrirse:** usando las Acrobacias, consigues abrirte paso por lugares muy estrechos.
-- **Identificar alquimia:** utilizas la Artesanía y material de alquimista para identificar una sustancia alquímica.
-- **Identificar magia:** utilizando una amplia variedad de habilidades, averiguas cosas acerca de un objeto mágico, lugar o efecto continuado.
-- **Imitar:** utilizas el Engaño y normalmente material de disfraz para crear un disfraz.
-- **Obligar:** usas la Intimidación para amenazar a una criatura para que haga lo que quieras.
-- **Pedir prestado un conjuro arcano:** utilizas Arcanos para preparar un conjuro a partir del libro de conjuros de otro.
-- **Rastrear:** usas la Supervivencia para seguir rastros.
-- **Reparar:** con material de reparaciones y la habilidad Artesanía, arreglas un objeto dañado.
-- **Reunir información:** usas la Diplomacia para sondear en una zona y averiguar cosas acerca de un individuo o tema específico.
-- **Sentir la dirección:** usas la Supervivencia para hacerte una idea de dónde estás o determinar las direcciones cardinales.
-- **Tratar heridas:** usas la Medicina para tratar las heridas de una criatura viva.
+Ver [Ejemplo: Explorando una Mazmorra]({{ '/reglas/ejemplos/exploracion/' | relative_url }}) para un uso detallado del modo de exploración, incluyendo actividades, trampas, puertas secretas y Tratar Heridas.
