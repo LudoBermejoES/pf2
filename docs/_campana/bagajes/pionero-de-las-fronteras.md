@@ -13,6 +13,6 @@ Has vivido toda tu vida a lo largo de la frontera sur de Brevoy, a la sombra de 
 | | |
 |---|---|
 | **Incrementos de Atributo** | Uno debe ser Fuerza o Sabiduría, y uno es libre |
-| **Habilidad** | Naturaleza |
+| **Habilidad** | [Naturaleza]({{ '/habilidades/naturaleza/' | relative_url }}) |
 | **Saber** | Un tipo de terreno salvaje (elige entre bosque, colinas, montañas, llanuras, ríos o pantano) |
-| **Dote de habilidad** | Entrenar Animal |
+| **Dote de habilidad** | [Adiestrar Animal]({{ '/dotes/habilidad/adiestrar-animal/' | relative_url }}) |

@@ -13,6 +13,6 @@ Vienes de los Reinos Fluviales o de los confines más sin ley de Brevoy. Tu vida
 | | |
 |---|---|
 | **Incrementos de Atributo** | Uno debe ser Fuerza o Constitución, y uno es libre |
-| **Habilidad** | Intimidación |
+| **Habilidad** | [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}) |
 | **Saber** | Bandidaje |
-| **Dote de habilidad** | Coacción Grupal |
+| **Dote de habilidad** | [Intimidación de Grupo]({{ '/dotes/habilidad/intimidacion-de-grupo/' | relative_url }}) |

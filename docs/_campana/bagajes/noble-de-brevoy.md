@@ -24,9 +24,9 @@ Los lazos familiares con los enanos de las Montañas Golushkin dejaron su marca.
 
 | | |
 |---|---|
-| **Habilidad** | Artesanía |
+| **Habilidad** | [Artesanía]({{ '/habilidades/artesania/' | relative_url }}) |
 | **Saber** | Arquitectura |
-| **Dote** | Artesanía Especializada |
+| **Dote** | [Especialidad Artesana]({{ '/dotes/habilidad/especialidad-artesana/' | relative_url }}) |
 
 ---
 
@@ -36,9 +36,9 @@ La historia de comercio de tu familia a lo largo de las orillas del Lago Reykal 
 
 | | |
 |---|---|
-| **Habilidad** | Sociedad |
+| **Habilidad** | [Sociedad]({{ '/habilidades/sociedad/' | relative_url }}) |
 | **Saber** | Mercantil |
-| **Dote** | Políglota |
+| **Dote** | [Multilingüe]({{ '/dotes/habilidad/multilingue/' | relative_url }}) |
 
 ---
 
@@ -48,9 +48,9 @@ Tu familia se ha ganado la vida de las costas del Lago de las Nieblas y los Velo
 
 | | |
 |---|---|
-| **Habilidad** | Atletismo |
+| **Habilidad** | [Atletismo]({{ '/habilidades/atletismo/' | relative_url }}) |
 | **Saber** | Pesca |
-| **Dote** | Merodeador Submarino |
+| **Dote** | [Merodeador Subacuático]({{ '/dotes/habilidad/merodeador-subacuatico/' | relative_url }}) |
 
 ---
 
@@ -60,9 +60,9 @@ Tu familia tiene un profundo respeto por la naturaleza salvaje y es hábil en la
 
 | | |
 |---|---|
-| **Habilidad** | Supervivencia |
+| **Habilidad** | [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}) |
 | **Saber** | Caza |
-| **Dote** | Experto en Terreno (elige acuático, bosque, montaña, llanuras o pantano) |
+| **Dote** | [Experiencia en un Terreno]({{ '/dotes/habilidad/experiencia-en-un-terreno/' | relative_url }}) (elige acuático, bosque, montaña, llanuras o pantano) |
 
 ---
 
@@ -72,9 +72,9 @@ Tu familia tiene reputación de evitar conflictos. El lema de tu familia es "Muy
 
 | | |
 |---|---|
-| **Habilidad** | Diplomacia |
+| **Habilidad** | [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}) |
 | **Saber** | Brevoy |
-| **Dote** | Impresión Grupal |
+| **Dote** | [Impresión de Grupo]({{ '/dotes/habilidad/impresion-de-grupo/' | relative_url }}) |
 
 ---
 
@@ -84,6 +84,6 @@ Tu familia es bien conocida por su agilidad política y naturaleza intrigante. E
 
 | | |
 |---|---|
-| **Habilidad** | Engaño |
+| **Habilidad** | [Engaño]({{ '/habilidades/engano/' | relative_url }}) |
 | **Saber** | Política |
-| **Dote** | Mentiroso Encantador |
+| **Dote** | [Mentiroso Encantador]({{ '/dotes/habilidad/mentiroso-encantador/' | relative_url }}) |

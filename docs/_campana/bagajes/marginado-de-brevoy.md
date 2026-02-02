@@ -14,6 +14,6 @@ Uno de tus padres era miembro de una de las grandes familias de Brevoy, quizás 
 |---|---|
 | **Incrementos de Atributo** | Uno debe ser Carisma o Constitución, y uno es libre |
 | **Saber** | Política |
-| **Especial** | Sufres un penalizador -1 en todas las pruebas de habilidad basadas en Carisma cuando tratas con miembros de la nobleza, pero obtienes la dote de ascendencia humana Obstinación Altiva, incluso si no eres humano |
+| **Especial** | Sufres un penalizador -1 en todas las pruebas de habilidad basadas en Carisma cuando tratas con miembros de la nobleza, pero obtienes la dote de ascendencia humana [Obstinación Altanera]({{ '/ascendencias/humano/dotes/' | relative_url }}), incluso si no eres humano |
 
 > **Nota**: Si logras establecerte como un verdadero noble o asegurar un rol de liderazgo en un reino, ya no sufres el penalizador a las pruebas basadas en Carisma.

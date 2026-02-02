@@ -13,6 +13,6 @@ Creciste en el norte de Brevoy, pero la llamada de héroes dispuestos a ayudar a
 | | |
 |---|---|
 | **Incrementos de Atributo** | Uno debe ser Destreza o Inteligencia, y uno es libre |
-| **Habilidad** | Sociedad |
+| **Habilidad** | [Sociedad]({{ '/habilidades/sociedad/' | relative_url }}) |
 | **Saber** | Legal |
-| **Dote de habilidad** | Callejero |
+| **Dote de habilidad** | [Callejeo]({{ '/dotes/habilidad/callejeo/' | relative_url }}) |

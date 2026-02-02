@@ -13,6 +13,6 @@ Fuiste criado en el sur de Brevoy, una tierra de densos bosques y llanuras ondul
 | | |
 |---|---|
 | **Incrementos de Atributo** | Uno debe ser Fuerza o Constitución, y uno es libre |
-| **Habilidad** | Atletismo |
+| **Habilidad** | [Atletismo]({{ '/habilidades/atletismo/' | relative_url }}) |
 | **Saber** | Agricultura |
-| **Dote de habilidad** | Cargador Robusto |
+| **Dote de habilidad** | [Porteador Recio]({{ '/dotes/habilidad/porteador-recio/' | relative_url }}) |
