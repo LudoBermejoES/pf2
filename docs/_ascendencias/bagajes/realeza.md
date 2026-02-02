@@ -16,7 +16,7 @@ Eres un miembro destacado de una familia real. Has dejado de lado las rutinas di
 
 Elige dos mejoras de atributo. Una debe ser a **Inteligencia** o **Carisma**, y una es una mejora libre.
 
-Estás entrenado en **[Sociedad]({{ '/habilidades/sociedad/' | relative_url }})**. Obtienes la dote de habilidad **Modales cortesanos** y puedes influir en plebeyos en el territorio de tu familia, así como en la nobleza en cualquier lugar. Si más adelante obtienes la dote de habilidad **Aprovechar conexiones**, automáticamente tendrás conexiones comunes y nobles dentro de cualquier comunidad en el territorio de tu familia real y conexiones nobles en grandes comunidades fuera de tu territorio.
+Estás entrenado en **[Sociedad]({{ '/habilidades/sociedad/' | relative_url }})**. Obtienes la dote de habilidad **[Gracia Cortesana]({{ '/dotes/habilidad/gracia-cortesana/' | relative_url }})** y puedes influir en plebeyos en el territorio de tu familia, así como en la nobleza en cualquier lugar. Si más adelante obtienes la dote de habilidad **[Aprovechar Contactos]({{ '/dotes/habilidad/aprovechar-contactos/' | relative_url }})**, automáticamente tendrás conexiones comunes y nobles dentro de cualquier comunidad en el territorio de tu familia real y conexiones nobles en grandes comunidades fuera de tu territorio.
 
 ---
 

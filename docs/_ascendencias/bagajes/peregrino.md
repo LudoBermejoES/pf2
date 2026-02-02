@@ -14,7 +14,7 @@ En tu juventud, realizaste varias peregrinaciones a importantes santuarios y lug
 
 Elige dos mejoras de atributo. Una debe ser a **Sabiduría** o **Carisma**, y una es una mejora libre.
 
-Estás entrenado en **[Religión]({{ '/habilidades/religion/' | relative_url }})** y en **Saber sobre tu deidad patrona**. Obtienes la dote de habilidad **Emblema del peregrino**.
+Estás entrenado en **[Religión]({{ '/habilidades/religion/' | relative_url }})** y en **Saber sobre tu deidad patrona**. Obtienes la dote de habilidad **[Símbolo del Peregrino]({{ '/dotes/habilidad/simbolo-del-peregrino/' | relative_url }})**.
 
 ---
 
