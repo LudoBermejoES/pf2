@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/hobgoblin/etnias/
-title: Hobgoblins de Oprak
+permalink: /ascendencias/hobgoblin/cultura-sociedad/
+title: Cultura y Sociedad Hobgoblin
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

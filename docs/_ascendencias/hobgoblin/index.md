@@ -75,4 +75,4 @@ La mayoría de los hobgoblins prefieren vivir dentro de jerarquías establecidas
 
 - [Dotes]({{ '/ascendencias/hobgoblin/dotes/' | relative_url }})
 - [Herencias]({{ '/ascendencias/hobgoblin/herencias/' | relative_url }})
-- [Oprak y la Legión]({{ '/ascendencias/hobgoblin/etnias/' | relative_url }})
+- [Cultura y Sociedad]({{ '/ascendencias/hobgoblin/cultura-sociedad/' | relative_url }})

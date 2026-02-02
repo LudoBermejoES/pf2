@@ -72,4 +72,4 @@ Aunque existen dioses de los orcos, su adoración es sorprendentemente poco comu
 
 - [Dotes]({{ '/ascendencias/orco/dotes/' | relative_url }})
 - [Herencias]({{ '/ascendencias/orco/herencias/' | relative_url }})
-- [Orcos y Semiorcos]({{ '/ascendencias/orco/etnias/' | relative_url }})
+- [Cultura y Sociedad]({{ '/ascendencias/orco/cultura-sociedad/' | relative_url }})

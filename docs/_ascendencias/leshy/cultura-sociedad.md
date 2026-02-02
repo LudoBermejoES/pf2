@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/leshy/etnias/
-title: Naturaleza y Espíritus Leshy
+permalink: /ascendencias/leshy/cultura-sociedad/
+title: Cultura y Sociedad Leshy
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

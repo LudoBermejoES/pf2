@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/gnomo/etnias/
-title: Tipos de Gnomos y Enclaves
+permalink: /ascendencias/gnomo/cultura-sociedad/
+title: Cultura y Sociedad Gnoma
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

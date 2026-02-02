@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/elfo/etnias/
-title: Etnias Élficas
+permalink: /ascendencias/elfo/cultura-sociedad/
+title: Cultura y Sociedad Élfica
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

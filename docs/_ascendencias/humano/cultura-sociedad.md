@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/humano/etnias/
-title: Etnias Humanas
+permalink: /ascendencias/humano/cultura-sociedad/
+title: Cultura y Sociedad Humana
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

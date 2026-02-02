@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/enano/etnias/
-title: Etnias y Tradiciones Enanas
+permalink: /ascendencias/enano/cultura-sociedad/
+title: Cultura y Sociedad Enana
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

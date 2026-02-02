@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/mediano/etnias/
-title: Etnias Medianas
+permalink: /ascendencias/mediano/cultura-sociedad/
+title: Cultura y Sociedad Mediana
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

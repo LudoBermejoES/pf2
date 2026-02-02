@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /ascendencias/lizardfolk/etnias/
-title: Cultura y Tradiciones Iruxi
+permalink: /ascendencias/hombres-lagarto/cultura-sociedad/
+title: Cultura y Sociedad de los Hombres Lagarto
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2
-ancestry: Iruxi (Lizardfolk)
+ancestry: Hombres Lagarto (Iruxi)
 source: Presagios Perdidos
 ---
 

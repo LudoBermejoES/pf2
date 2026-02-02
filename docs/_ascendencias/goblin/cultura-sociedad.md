@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/goblin/etnias/
-title: Etnias y Tribus Goblin
+permalink: /ascendencias/goblin/cultura-sociedad/
+title: Cultura y Sociedad Goblin
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

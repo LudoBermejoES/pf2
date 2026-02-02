@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /ascendencias/lizardfolk/
-title: Iruxi (Lizardfolk)
+permalink: /ascendencias/hombres-lagarto/
+title: Hombres Lagarto (Iruxi)
 chapter: Ascendencias
 category: ascendencias
 source: PC2
 nav_order: 140
-ancestry: Iruxi (Lizardfolk)
+ancestry: Hombres Lagarto (Iruxi)
 rarity: uncommon
 ---
 
@@ -77,6 +77,6 @@ La mayoría de los iruxi no se preocupan por grandes cuestiones morales y centra
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/lizardfolk/dotes/' | relative_url }})
-- [Herencias]({{ '/ascendencias/lizardfolk/herencias/' | relative_url }})
-- [Imperios y Tradiciones Iruxi]({{ '/ascendencias/lizardfolk/etnias/' | relative_url }})
+- [Dotes]({{ '/ascendencias/hombres-lagarto/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/hombres-lagarto/herencias/' | relative_url }})
+- [Cultura y Sociedad]({{ '/ascendencias/hombres-lagarto/cultura-sociedad/' | relative_url }})

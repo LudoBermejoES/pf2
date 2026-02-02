@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ascendencias/orco/etnias/
-title: Orcos y Semiorcos en Golarion
+permalink: /ascendencias/orco/cultura-sociedad/
+title: Cultura y Sociedad Orca
 chapter: Ascendencias
 category: ascendencias
 nav_order: 2

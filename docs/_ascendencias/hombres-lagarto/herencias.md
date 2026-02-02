@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /ascendencias/lizardfolk/herencias/
-title: Herencias iruxi
+permalink: /ascendencias/hombres-lagarto/herencias/
+title: Herencias de Hombres Lagarto
 chapter: Ascendencias
 category: ascendencias
 source: PC2
 nav_order: 141
-ancestry: Lizardfolk
+ancestry: Hombres Lagarto (Iruxi)
 ---
 
 Aunque la mayoría de los iruxi prefieren las zonas húmedas, eones de evolución y adaptación cultural les permiten vivir en entornos más desafiantes. Elige una de las siguientes herencias iruxi en 1.er nivel.
