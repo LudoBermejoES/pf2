@@ -210,10 +210,23 @@
     </h3>
     <ul class="sidebar-links">
       <li><a href="{{ '/equipo/' | relative_url }}">Introducción</a></li>
-      <li><a href="{{ '/equipo/armas/' | relative_url }}">Armas</a></li>
-      <li><a href="{{ '/equipo/armaduras/' | relative_url }}">Armaduras</a></li>
-      <li><a href="{{ '/equipo/escudos/' | relative_url }}">Escudos</a></li>
-      <li><a href="{{ '/equipo/objetos/' | relative_url }}">Objetos</a></li>
+      <li>
+        <span class="subsection-label">Equipo Básico (PC1)</span>
+        <ul class="subsection-links">
+          <li><a href="{{ '/equipo/armas/' | relative_url }}">Armas</a></li>
+          <li><a href="{{ '/equipo/armaduras/' | relative_url }}">Armaduras</a></li>
+          <li><a href="{{ '/equipo/escudos/' | relative_url }}">Escudos</a></li>
+          <li><a href="{{ '/equipo/objetos/' | relative_url }}">Objetos</a></li>
+        </ul>
+      </li>
+      <li>
+        <span class="subsection-label">Tesoro (PC2)</span>
+        <ul class="subsection-links">
+          <li><a href="{{ '/equipo/alquimia/' | relative_url }}">Objetos Alquímicos</a></li>
+          <li><a href="{{ '/equipo/magia/' | relative_url }}">Objetos Mágicos</a></li>
+          <li><a href="{{ '/equipo/trampas/' | relative_url }}">Trampas</a></li>
+        </ul>
+      </li>
     </ul>
   </div>
   {% endif %}

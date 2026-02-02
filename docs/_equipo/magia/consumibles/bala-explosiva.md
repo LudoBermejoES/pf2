@@ -1,0 +1,30 @@
+---
+layout: page
+permalink: /equipo/magia/consumibles/bala-explosiva/
+title: Bala explosiva
+chapter: Equipo
+category: equipo
+source: PC2
+---
+
+**Nivel** 4; **Precio** 18 mo
+
+**Rasgos:** Consumible, Mágico, Evocación, Fuego
+
+**Tipo:** Munición
+
+**Uso:** Munición; **Impedimenta** —
+
+---
+
+Esta bala de honda contiene un núcleo explosivo que detona al impactar.
+
+**Activar** —
+
+**Efecto** Cuando aciertas con esta bala, explota en un radio de 5 pies (1,5 m). El objetivo sufre el daño normal más 2d6 de daño de fuego. Todas las demás criaturas en el área sufren 2d6 de daño de fuego (salvación básica de Reflejos CD 18).
+
+---
+
+## Ver también
+
+- [Consumibles mágicos](/equipo/magia/consumibles/)

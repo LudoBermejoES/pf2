@@ -1,0 +1,30 @@
+---
+layout: page
+permalink: /equipo/magia/consumibles/diente-de-tiburon/
+title: Diente de tiburón
+chapter: Equipo
+category: equipo
+source: PC2
+---
+
+**Nivel** 3; **Precio** 11 mo
+
+**Rasgos:** Consumible, Mágico, Evocación, Talismán
+
+**Tipo:** Talismán
+
+**Uso:** Adherir a un arma; **Impedimenta** —
+
+---
+
+Este afilado diente de tiburón causa heridas sangrantes.
+
+**Activar** ◇ Imaginar (desencadenante: aciertas con el arma)
+
+**Efecto** Activas el talismán cuando aciertas con el arma. El objetivo sufre 1d6 de sangrado persistente. El talismán se consume.
+
+---
+
+## Ver también
+
+- [Consumibles mágicos](/equipo/magia/consumibles/)

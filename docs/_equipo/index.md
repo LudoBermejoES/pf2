@@ -3,7 +3,7 @@ layout: page
 permalink: /equipo/
 title: Equipo
 description: Contenido del capítulo Equipo
-source: PC1
+source: PC1+PC2
 ---
 
 Para dejar huella en el mundo necesitas el equipo adecuado, incluyendo armadura, armas y otro material. Este capitulo presenta los diversos objetos que puedes comprar durante la creación de personaje. Por lo general suelen estar a la venta en la mayoría de ciudades y otros asentamientos grandes.
@@ -275,8 +275,16 @@ Los objetos mágicos de alto nivel que cuestan significativamente mas que 8 vece
 
 ## Contenido
 
+### Equipo Básico (PC1)
+
 - [Armaduras]({{ '/equipo/armaduras/' | relative_url }})
 - [Armas]({{ '/equipo/armas/' | relative_url }})
 - [Escudos]({{ '/equipo/escudos/' | relative_url }})
 - [Introduccion al Equipo]({{ '/equipo/introduccion/' | relative_url }})
 - [Objetos]({{ '/equipo/objetos/' | relative_url }})
+
+### Tesoro (PC2)
+
+- [Objetos Alquímicos]({{ '/equipo/alquimia/' | relative_url }})
+- [Objetos Mágicos]({{ '/equipo/magia/' | relative_url }})
+- [Trampas]({{ '/equipo/trampas/' | relative_url }})

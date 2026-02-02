@@ -1,0 +1,247 @@
+{
+  "traps": [
+    {
+      "name": "Trampa de alarma",
+      "slug": "trampa-de-alarma",
+      "level": 1,
+      "price": "3 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa emite un sonido fuerte y agudo audible a 500 pies (150 m). El sonido dura 1 minuto o hasta que la trampa sea destruida (la trampa tiene CA 10, Dureza 2 y 8 PG)."
+    },
+    {
+      "name": "Trampa de abrojos",
+      "slug": "trampa-de-abrojos",
+      "level": 1,
+      "price": "3 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa esparce abrojos en su cuadro y todos los cuadros adyacentes. Las criaturas que se muevan a través de los abrojos sufren 1 de daño perforante por cada cuadro de abrojos por el que pasen. Una criatura puede Buscar o Caminar con Cuidado para evitar pisar los abrojos."
+    },
+    {
+      "name": "Trampa entorpecedora",
+      "slug": "trampa-entorpecedora",
+      "level": 1,
+      "price": "3 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa libera una sustancia pegajosa que cubre el cuadro de la trampa y todos los cuadros adyacentes, convirtiendo el área en terreno difícil durante 1 minuto."
+    },
+    {
+      "name": "Trampa marcadora",
+      "slug": "trampa-marcadora",
+      "level": 1,
+      "price": "3 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa rocía a la criatura desencadenante con un tinte brillante, un olor acre o alguna otra sustancia que la marca. La marca dura 24 horas o hasta que se limpie gastando 10 minutos frotando con agua y jabón. Un rastreador gana un bonificador de circunstancia +2 a las pruebas de Supervivencia para Rastrear a una criatura marcada."
+    },
+    {
+      "name": "Trampa señalizadora",
+      "slug": "trampa-senalizadora",
+      "level": 1,
+      "price": "3 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa deja una señal sutil que indica el paso de criaturas, como una ramita rota, un hilo cortado o una marca de tiza. Una criatura que tenga éxito en una prueba de Percepción CD 15 mientras Busca en el área nota la señal."
+    },
+    {
+      "name": "Trampa de pinchos",
+      "slug": "trampa-de-pinchos",
+      "level": 1,
+      "price": "3 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Pinchos afilados surgen del suelo e infligen 2d8 de daño perforante a la criatura desencadenante (salvación básica de Reflejos contra la CD de Artesanía del creador)."
+    },
+    {
+      "name": "Trampa bengala",
+      "slug": "trampa-bengala",
+      "level": 2,
+      "price": "5 mo",
+      "traits": ["Trampa", "Fuego", "Luz"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa dispara una bengala brillante que se eleva 100 pies (30 m) en el aire antes de explotar en una señal luminosa visible a 1 milla (1,6 km) de distancia en condiciones claras."
+    },
+    {
+      "name": "Trampa de peso muerto",
+      "slug": "trampa-de-peso-muerto",
+      "level": 2,
+      "price": "6 mo",
+      "traits": ["Trampa", "Kobold"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Un peso cae sobre la criatura desencadenante. Esta debe intentar una salvación de Reflejos contra la CD de Artesanía del creador. **Éxito crítico** La criatura no se ve afectada. **Éxito** La criatura sufre un penalizador de circunstancia -1 a las tiradas de ataque hasta el final de su siguiente turno. **Fracaso** La criatura sufre un penalizador de circunstancia -2 a las tiradas de ataque hasta el final de su siguiente turno. **Fracaso crítico** La criatura sufre un penalizador de circunstancia -2 a las tiradas de ataque durante 1 minuto."
+    },
+    {
+      "name": "Trampa mordedora",
+      "slug": "trampa-mordedora",
+      "level": 4,
+      "price": "15 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Un mecanismo con mandíbulas se cierra sobre la criatura desencadenante, infligiendo 5d6 de daño perforante (salvación básica de Reflejos contra la CD de Artesanía del creador)."
+    },
+    {
+      "name": "Trampa cojeadora",
+      "slug": "trampa-cojeadora",
+      "level": 4,
+      "price": "15 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa se cierra sobre el pie de la criatura desencadenante. La criatura debe intentar una salvación de Reflejos contra la CD de Artesanía del creador. **Éxito crítico** La criatura no se ve afectada. **Éxito** La Velocidad de la criatura se reduce en 5 pies durante 1 minuto. **Fracaso** La Velocidad de la criatura se reduce en 10 pies durante 1 hora. **Fracaso crítico** La Velocidad de la criatura se reduce en 15 pies durante 24 horas."
+    },
+    {
+      "name": "Trampa azote del acechador",
+      "slug": "trampa-azote-del-acechador",
+      "level": 4,
+      "price": "15 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa libera un polvo revelador que cubre a la criatura desencadenante y todas las criaturas en un radio de 10 pies (3 m). Las criaturas afectadas deben intentar una salvación de Reflejos contra la CD de Artesanía del creador. **Fracaso** La criatura queda cubierta de polvo. Si era invisible, la invisibilidad queda anulada. La criatura no puede beneficiarse de estar oculta por ser invisible durante 1 minuto."
+    },
+    {
+      "name": "Trampa de tropiezo",
+      "slug": "trampa-de-tropiezo",
+      "level": 4,
+      "price": "15 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Un cable oculto hace tropezar a la criatura desencadenante. La criatura debe intentar una salvación de Reflejos contra la CD de Artesanía del creador. **Éxito crítico** La criatura no se ve afectada. **Éxito** La criatura queda desprevenida hasta el final de su turno. **Fracaso** La criatura cae derribada. **Fracaso crítico** La criatura cae derribada y queda desprevenida hasta el final de su siguiente turno."
+    },
+    {
+      "name": "Trampa de bomba",
+      "slug": "trampa-de-bomba",
+      "level": 6,
+      "price": "40 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Tres bombas alquímicas (que deben proporcionarse por separado durante la construcción) explotan, centradas en el cuadro de la trampa. Cada criatura en el área de las bombas sufre el daño y los efectos de las bombas como si hubieran sido arrojadas con un ataque exitoso."
+    },
+    {
+      "name": "Trampa nauseabunda",
+      "slug": "trampa-nauseabunda",
+      "level": 6,
+      "price": "40 mo",
+      "traits": ["Trampa", "Veneno"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa libera un gas nauseabundo en un radio de 10 pies (3 m). Cada criatura en el área debe intentar una salvación de Fortaleza contra la CD de Artesanía del creador. **Éxito crítico** La criatura no se ve afectada. **Éxito** La criatura está indispuesta 1. **Fracaso** La criatura está indispuesta 2. **Fracaso crítico** La criatura está indispuesta 3 y ralentizada 1 mientras esté indispuesta."
+    },
+    {
+      "name": "Trampa atrapadora",
+      "slug": "trampa-atrapadora",
+      "level": 8,
+      "price": "75 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa se cierra alrededor de la criatura desencadenante. La criatura debe intentar una salvación de Reflejos contra la CD de Artesanía del creador. **Éxito crítico** La criatura no se ve afectada. **Éxito** La criatura está agarrada por la trampa (CD de Escape igual a la CD de Artesanía del creador). **Fracaso** La criatura está inmovilizada por la trampa (CD de Escape igual a la CD de Artesanía del creador). **Fracaso crítico** La criatura está inmovilizada por la trampa y sufre 4d6 de daño perforante."
+    },
+    {
+      "name": "Trampa golpeadora",
+      "slug": "trampa-golpeadora",
+      "level": 8,
+      "price": "75 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Un objeto pesado oscilante golpea a la criatura desencadenante, infligiendo 9d8 de daño contundente o perforante (a elección del creador durante la construcción). La criatura debe intentar una salvación básica de Reflejos contra la CD de Artesanía del creador."
+    },
+    {
+      "name": "Trampa de barro endurecido",
+      "slug": "trampa-de-barro-endurecido",
+      "level": 10,
+      "price": "170 mo",
+      "traits": ["Trampa", "Kobold"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa libera barro que se endurece rápidamente. La criatura desencadenante debe intentar una salvación de Reflejos contra la CD de Artesanía del creador. **Éxito crítico** La criatura no se ve afectada. **Éxito** La criatura queda ralentizada 1 durante 1 ronda. **Fracaso** La criatura queda inmovilizada y aturdida 1 (CD de Escape igual a la CD de Artesanía del creador para librarse del barro). **Fracaso crítico** La criatura queda inmovilizada y aturdida 2, y sufre 4d6 de daño contundente del impacto del barro."
+    },
+    {
+      "name": "Trampa de garfios",
+      "slug": "trampa-de-garfios",
+      "level": 10,
+      "price": "180 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Múltiples garfios metálicos surgen del suelo y se enganchan en la criatura desencadenante, infligiendo 5d8 de daño perforante más 3d8 de daño cortante (salvación básica de Reflejos contra la CD de Artesanía del creador)."
+    },
+    {
+      "name": "Trampa de espinas sangrantes",
+      "slug": "trampa-de-espinas-sangrantes",
+      "level": 12,
+      "price": "320 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Espinas con púas surgen y perforan a la criatura desencadenante. Esta sufre 8d8 de daño perforante y 2d6 de sangrado persistente (salvación básica de Reflejos contra la CD de Artesanía del creador; con un fracaso crítico, el sangrado aumenta a 4d6)."
+    },
+    {
+      "name": "Trampa de cuchillas segadoras",
+      "slug": "trampa-de-cuchillas-segadoras",
+      "level": 12,
+      "price": "320 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Cuchillas giratorias surgen del suelo, infligiendo 10d8 de daño cortante a la criatura desencadenante (salvación básica de Reflejos contra la CD de Artesanía del creador)."
+    },
+    {
+      "name": "Trampa aturdidora",
+      "slug": "trampa-aturdidora",
+      "level": 12,
+      "price": "320 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Un objeto contundente golpea a la criatura desencadenante en la cabeza. Esta sufre 10d6 de daño contundente y debe intentar una salvación de Fortaleza contra la CD de Artesanía del creador. **Éxito crítico** La criatura sufre la mitad de daño. **Éxito** La criatura sufre daño completo. **Fracaso** La criatura sufre daño completo y queda aturdida 1. **Fracaso crítico** La criatura sufre el doble de daño y queda aturdida 3."
+    },
+    {
+      "name": "Trampa envolvente",
+      "slug": "trampa-envolvente",
+      "level": 14,
+      "price": "900 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa envuelve a la criatura desencadenante con múltiples cables con púas. Esta sufre 10d8 de daño perforante y queda agarrada (CD de Escape igual a la CD de Artesanía del creador). Mientras está agarrada, la criatura sufre 3d8 de daño perforante al inicio de cada uno de sus turnos. La salvación básica de Reflejos contra la CD de Artesanía del creador reduce el daño inicial; con un éxito crítico, la criatura no queda agarrada."
+    },
+    {
+      "name": "Trampa desgarradora",
+      "slug": "trampa-desgarradora",
+      "level": 14,
+      "price": "700 mo",
+      "traits": ["Trampa", "Kobold"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Mandíbulas dentadas se cierran sobre la criatura desencadenante. Esta sufre 10d8 de daño perforante y 3d6 de sangrado persistente (salvación básica de Reflejos contra la CD de Artesanía del creador; con un fracaso crítico, el sangrado aumenta a 6d6)."
+    },
+    {
+      "name": "Trampa granizada de flechas",
+      "slug": "trampa-granizada-de-flechas",
+      "level": 16,
+      "price": "1.500 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "La trampa dispara una lluvia de flechas en un cono de 30 pies (9 m) desde la trampa. Cada criatura en el área sufre 18d6 de daño perforante (salvación básica de Reflejos contra la CD de Artesanía del creador)."
+    },
+    {
+      "name": "Trampa de lanzas omnidireccional",
+      "slug": "trampa-de-lanzas-omnidireccional",
+      "level": 16,
+      "price": "1.500 mo",
+      "traits": ["Trampa"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Lanzas surgen desde múltiples direcciones, atravesando a la criatura desencadenante. Esta sufre 15d8 de daño perforante (salvación básica de Reflejos contra la CD de Artesanía del creador)."
+    },
+    {
+      "name": "Trampa de rueda de cuchillas",
+      "slug": "trampa-de-rueda-de-cuchillas",
+      "level": 20,
+      "price": "10.000 mo",
+      "traits": ["Trampa", "Complejo"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Una rueda giratoria de cuchillas surge de la trampa. En el turno de la trampa, se mueve hasta 30 pies (9 m) hacia la criatura más cercana y realiza un Golpe con una tirada de ataque igual a la CD de Artesanía del creador -10. **Golpe** 8d8 de daño cortante. La rueda persigue a las criaturas durante 1 minuto antes de detenerse."
+    },
+    {
+      "name": "Trampa de evisceración instantánea",
+      "slug": "trampa-de-evisceracion-instantanea",
+      "level": 20,
+      "price": "10.000 mo",
+      "traits": ["Trampa", "Muerte"],
+      "trigger": "Una criatura Pequeña o mayor entra en el cuadro de la trampa",
+      "effect": "Cuchillas mortales surgen desde todas direcciones. La criatura desencadenante sufre 18d8 de daño perforante (salvación básica de Reflejos contra la CD de Artesanía del creador). Con un fracaso crítico, la criatura además muere instantáneamente a menos que tenga éxito en una salvación de Fortaleza contra la misma CD."
+    }
+  ]
+}

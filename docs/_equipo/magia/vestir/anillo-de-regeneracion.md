@@ -1,0 +1,30 @@
+---
+layout: page
+permalink: /equipo/magia/vestir/anillo-de-regeneracion/
+title: Anillo de regeneración
+chapter: Equipo
+category: equipo
+source: PC2
+---
+
+**Nivel** 11; **Precio** 1.300 mo
+
+**Rasgos:** Invertir, Mágico, Vitalidad, Poco común
+
+**Ranura:** Dedo
+
+**Uso:** llevado puesto; **Impedimenta** —
+
+---
+
+Este anillo de oro tiene grabados símbolos de serpientes que se muerden la cola.
+
+**Activar** —
+
+**Efecto** Ganas regeneración 5 (desactivada por fuego o ácido). Al inicio de cada uno de tus turnos, recuperas 5 Puntos de Golpe a menos que hayas sufrido daño de fuego o ácido desde el inicio de tu turno anterior.
+
+---
+
+## Ver también
+
+- [Objetos de vestir](/equipo/magia/vestir/)

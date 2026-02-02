@@ -1,0 +1,35 @@
+---
+layout: page
+permalink: /equipo/alquimia/venenos/veneno-de-vibora-negra/
+title: Veneno de víbora negra
+chapter: Equipo
+category: alquimia
+subcategory: veneno
+source: PC2
+item_level: "4"
+---
+
+**Nivel** 4; **Precio** 20 mo
+
+**Rasgos:** Alquímico, Consumible, Lesión, Veneno
+
+**Uso:** sostenido en 1 mano; **Impedimenta** L
+
+**Activar** ◆◆ Interactuar
+
+---
+
+El veneno de esta serpiente mortal causa necrosis tisular.
+
+**Salvación** Fortaleza CD 21
+
+**Duración máxima** 6 rondas
+
+**Etapa 1** 1d8 de daño de veneno (1 ronda); **Etapa 2** 1d10 de daño de veneno (1 ronda); **Etapa 3** 2d6 de daño de veneno y debilitado 1 (1 ronda)
+
+---
+
+## Ver también
+
+- [Venenos](/equipo/alquimia/venenos/)
+- [Objetos alquímicos](/equipo/alquimia/)

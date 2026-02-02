@@ -5,7 +5,7 @@ title: Armaduras
 chapter: Equipo
 category: equipo
 nav_order: 5
-source: PC1
+source: PC1+PC2
 ---
 
 La armadura incrementa las defensas de tu personaje, pero algunos tipos de armadura intermedia o pesada pueden dificultar el movimiento. Si quieres incrementar la defensa de tu personaje más allá de la protección que tu armadura proporciona, puedes usar un escudo. La armadura solo protege a tu personaje cuando la lleva puesta.
@@ -154,4 +154,67 @@ Las estadísticas de tu armadura se basan en el material que predomina en su con
 
 La mayoría de las armaduras y de las armas estan hechas de materiales ordinarios y comunmente disponibles como el acero, el cuero, el hierro y la madera. Si no estas seguro de la procedencia de los materiales de una armadura, el DJ es quien determina los detalles.
 
-Por otra parte, algunas armaduras, escudos y armas estan hechas de materiales preciosos, que a menudo tienen propiedades sobrenaturales inherentes. El hierro frio (por ejemplo) dana a las hadas y la plata puede danar a los licántropos. Estos materiales se detallan en el Manual de dirección.
+Por otra parte, algunas armaduras, escudos y armas están hechas de materiales preciosos, que a menudo tienen propiedades sobrenaturales inherentes. El hierro frío (por ejemplo) daña a las hadas y la plata puede dañar a los licántropos. Estos materiales se detallan en el Manual de dirección.
+
+---
+
+## Piel de Dragón (PC2)
+
+La piel y las escamas de un dragón pueden usarse para fabricar cualquier objeto que normalmente se haga de cuero o piel ordinaria. La piel de dragón varía en color y textura, dependiendo del dragón del que proceda. Debido a su resistencia, también puede usarse para fabricar armaduras que normalmente se hacen de placas metálicas (como coraza, armadura laminada y armadura completa), permitiendo que dichas armaduras se fabriquen sin metal.
+
+**Rasgos:** Poco común, Precioso
+
+Los objetos de piel de dragón son inmunes a un tipo de daño, dependiendo de la tradición asociada al dragón:
+
+| Tradición dracónica | Inmunidad al daño |
+|---------------------|-------------------|
+| Arcana | Fuerza |
+| Divina | Espiritual |
+| Oculta | Mental |
+| Primigenia | Veneno |
+
+### Precio de Piel de Dragón
+
+| Tipo | Nivel | Precio |
+|------|-------|--------|
+| Objeto de calidad estándar | 8 | 350 mo por Impedimenta |
+| Objeto de alta calidad | 16 | 6.000 mo por Impedimenta |
+
+### Dureza de Objetos de Piel de Dragón
+
+| Objetos | Dureza | PG | UR |
+|---------|--------|----|----|
+| **Objetos delgados** | | | |
+| Calidad estándar | 4 | 16 | 8 |
+| Alta calidad | 8 | 32 | 16 |
+| **Objetos estándar** | | | |
+| Calidad estándar | 7 | 28 | 14 |
+| Alta calidad | 11 | 44 | 22 |
+
+### Armadura de Piel de Dragón · Objeto 12+
+
+**Rasgos:** Poco común
+
+**Uso** armadura vestida; **Impedimenta** varía según la armadura
+
+Puedes fabricar armaduras de cuero, piel o cualquier armadura que normalmente se haga de placas (como coraza, armadura laminada y armadura completa) con piel de dragón.
+
+La armadura de piel de dragón es inmune a un tipo de daño según el tipo de dragón del que esté hecha. Llevar armadura hecha de piel de dragón también te concede un **bonificador circunstancial +1 a la CA y a las tiradas de salvación** contra ataques y conjuros que inflijan el tipo de daño correspondiente.
+
+| Tipo | Nivel | Precio | Requisitos de fabricación |
+|------|-------|--------|---------------------------|
+| Calidad estándar | 12 | 1.600 mo + 160 mo por Imp. | Piel de dragón por valor de al menos 200 mo + 20 mo por Imp. |
+| Alta calidad | 19 | 32.000 mo + 3.200 mo por Imp. | Piel de dragón por valor de al menos 16.000 mo + 1.600 mo por Imp. |
+
+### Escudo de Piel de Dragón · Objeto 8+
+
+**Rasgos:** Poco común
+
+Puedes fabricar broqueles y la mayoría de los escudos (excepto escudos torre) de piel de dragón. Cada escudo de piel de dragón es inmune a un tipo de daño según la tradición asociada al dragón.
+
+| Tipo | Nivel | Precio | Imp. | Dureza | PG | UR | Requisitos |
+|------|-------|--------|------|--------|----|----|------------|
+| Broquel calidad estándar | 8 | 400 mo | L | 2 | 8 | 4 | 50 mo en piel |
+| Escudo calidad estándar | 8 | 440 mo | 1 | 4 | 16 | 8 | 55 mo en piel |
+| Broquel alta calidad | 16 | 8.000 mo | L | 5 | 20 | 10 | 4.000 mo en piel |
+| Escudo alta calidad | 16 | 8.800 mo | 1 | 7 | 28 | 14 | 4.400 mo en piel |

@@ -5,7 +5,7 @@ title: Armas
 chapter: Equipo
 category: equipo
 nav_order: 5
-source: PC1
+source: PC1+PC2
 ---
 
 La mayoría de personajes de Pathfinder llevan armas, que van desde poderosos martillos de guerra a gráciles arcos, pasando por sencillas clavas. Los detalles completos sobre cómo calcular los bonificadores, modificadores y penalizadores a las tiradas de ataque y de daño están en las págs. 400 a 403 y 406 a 407, pero se resumen aquí, seguidos de las reglas para las armas y docenas de elecciones de arma.
@@ -189,6 +189,9 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 | [Ronca](/equipo/armas/ronca/) | 2 po | 1d10 Per | 2 | 2 | De asta | Alcance, desarme |
 | [Tridente](/equipo/armas/tridente/) | 1 po | 1d8 Per | 1 | 1 | Lanzas | Arrojadiza 20 pies (6 m) |
 | [Umbo de escudo](/equipo/armas/umbo-escudo/) | 5 pp | 1d6 Con | — | 1 | Escudos | Fijado al escudo |
+| [Azuela](/equipo/armas/azuela/) | 1 mo | 1d10 Cor | 2 | 2 | Hachas | Fuerte, barrido, tripkee |
+| [Cruuk](/equipo/armas/cruuk/) | 4 mp | 1d6 Con | L | 1 | Garrotes | Empujar, arrojadiza 30 pies, tripkee |
+| [Azuela de mano](/equipo/armas/azuela-de-mano/) | 5 mp | 1d4 Cor | L | 1 | Hachas | Ágil, preciso, barrido, arrojadiza 10 pies, tripkee |
 
 ### Armas marciales poco comunes
 
@@ -209,6 +212,12 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 | [Sajacaballos](/equipo/armas/sajacaballos/) | 9 pp | 1d8 Cor | 2 | 2 | De asta | Alcance, derribo, goblin, versátil Per |
 | [Tenedor de afanar](/equipo/armas/tenedor-afanar/) | 1 po | 1d4 Per | L | 1 | Lanzas | Ágil, arrojadiza 20 pies (6 m), letal d6, mediano, sutil, puñalada trapera |
 | [Wakizashi](/equipo/armas/wakizashi/) | 1 po | 1d4 Cor | L | 1 | Espadas | Ágil, letal d8, sutil, versátil Per |
+| [Pica rompemuros](/equipo/armas/pica-rompemuros/) | 8 mo | 1d6 Per | 1 | 1 | Lanzas | Hobgoblin, arrasador, alcance |
+| [Hoja de garra](/equipo/armas/hoja-de-garra/) | 2 mo | 1d4 Cor | L | 1 | Cuchillos | Ágil, amurrun, letal d8, desarmar, preciso, versátil Per |
+| [Fangwire](/equipo/armas/fangwire/) | 4 mo | 1d4 Cor | L | 1 | Lucha | Ágil, traicionero, letal d8, preciso, agarrar, kobold |
+| [Khopesh](/equipo/armas/khopesh/) | 2 mo | 1d8 Cor | 1 | 1 | Espadas | Derribo |
+| [Mambele](/equipo/armas/mambele/) | 6 mp | 1d6 Cor | 1 | 1 | Hachas | Letal d8, desarmar, arrojadiza 20 pies |
+| [Hoja de vendaval tengu](/equipo/armas/hoja-de-vendaval-tengu/) | 4 mo | 1d6 Cor | L | 1 | Espadas | Ágil, desarmar, preciso, tengu |
 
 ---
 
@@ -220,6 +229,11 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 | [Maza de giro gnoma](/equipo/armas/maza-giro-gnoma/) | 3 po | 1d6 Con | 1 | 1 | Manguales | Alcance, gnomo |
 | [Partecuellos orco](/equipo/armas/partecuellos-orco/) | 3 po | 1d8 Cor | 1 | 1 | Hachas | Barrido, orco, vigorosa |
 | [Sable aserrado](/equipo/armas/sable-aserrado/) | 5 po | 1d6 Cor | L | 1 | Espadas | Ágil, gemela, sutil |
+| [Spetum capturador](/equipo/armas/spetum-capturador/) | 9 mo | 1d10 Per | 2 | 2 | Astas | Entorpecedor, hobgoblin, alcance, derribo |
+| [Garra voladora](/equipo/armas/garra-voladora/) | 6 mo | 1d4 Per | 1 | 1 | Manguales | Ágil, preciso, kobold, derribo a distancia, atado, arrojadiza 10 pies, derribo |
+| [Trilladora espiritual](/equipo/armas/trilladora-espiritual/) | 2 mo | 1d12 Con | 2 | 2 | Manguales | Kholo, barrido, versátil Cor |
+| [Pico tramposo](/equipo/armas/pico-tramposo/) | 10 mo | 1d6 modular | 1 | 1 | Picos | Traicionero, fatal d10, kobold, modular (B, P o S) |
+| [Garra látigo](/equipo/armas/garra-latigo/) | 5 mo | 1d6 Cor | 1 | 2 | Manguales | Amurrun, preciso, entorpecedor, alcance |
 
 ---
 
@@ -266,14 +280,37 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 | [Bastón honda mediano](/equipo/armas/baston-honda-mediano/) | 5 po | 1d10 Con | 80 pies (24 m) | 1 | 1 | 2 | Hondas | Mediano, propulsión |
 | — 10 balas de honda | 1 pc | — | — | — | L | — | — | — |
 | [Shuriken](/equipo/armas/shuriken/) | 1 pc | 1d4 Per | 20 pies (6 m) | 0 | — | 1 | Dardos | Ágil, arrojadiza, monje |
+| [Honda atronadora](/equipo/armas/honda-atronadora/) | 5 mo | 1d6 Per | 50 pies | 1 | L | 1 | Hondas | Ágil, propulsivo, tengu |
 
 *Las estadísticas de las bombas alquímicas están en la sección de sustancias alquímicas.
+
+### Armas a distancia avanzadas (poco comunes)
+
+| Arma | Precio | Daño | R. dist. | Recarga | Imp. | Manos | Grupo | Rasgos de arma |
+|------|--------|------|----------|---------|------|-------|-------|----------------|
+| [Daikyu](/equipo/armas/daikyu/) | 8 mo | 1d8 Per | 80 pies | 0 | 2 | 1+ | Arcos | Fuerte, propulsivo |
+
+10 flechas cuestan 1 mp.
 
 ---
 
 ## Rasgos de arma
 
 Las armas y los ataques sin armas pueden tener estos rasgos. Las armas fabricadas y utilizadas por una ascendencia determinada (como la espada curva elfa) a menudo tienen el rasgo correspondiente a dicha ascendencia.
+
+### Nuevos rasgos de arma (PC2)
+
+**Entorpecedor:** Un arma con el rasgo entorpecedor incluye una protuberancia o apéndice disruptivo. Tras impactar con el arma, puedes usar una acción de Interactuar para imponer al objetivo un penalizador circunstancial de –10 pies a todas sus Velocidades. El penalizador termina después de que el objetivo realice una acción de movimiento, al comienzo de tu siguiente turno, si atacas con el arma, o si te mueves fuera del alcance del objetivo, lo que ocurra primero.
+
+**Modular:** El arma tiene múltiples configuraciones entre las que puedes cambiar usando una acción de Interactuar. Normalmente, cambiar entre configuraciones de un arma modular le permite infligir distintos tipos de daño (listados en el rasgo, como "modular B, P o S"), aunque es posible que la descripción de un arma modular liste configuraciones más complicadas.
+
+**Arrasador:** Esta arma es especialmente buena dañando objetos, estructuras y vehículos. Siempre que infliges daño a un objeto (incluidos escudos y objetos animados), estructura o vehículo con un arma arrasadora, el objeto recibe una cantidad de daño adicional igual al doble del número de dados de daño del arma.
+
+**Atado:** Esta arma está unida a una longitud de cuerda o cadena que te permite recuperarla después de que haya salido de tu mano. Si tienes una mano libre (incluido si acabas de lanzar un arma a dos manos con rasgo atado y tienes una mano sosteniendo solo la cuerda del arma), puedes usar una acción de Interactuar para tirar del arma de vuelta a tu mano tras haberla arrojado como ataque a distancia o después de que haya sido desarmada (a menos que la esté sosteniendo otra criatura).
+
+---
+
+### Rasgos de arma (PC1)
 
 **A dos manos:** Esta arma se puede empuñar con ambas manos para cambiar su dado de daño al valor indicado. Este cambio se aplica a todos los dados de daño del arma.
 
