@@ -9,8 +9,6 @@ nav_order: 110
 class_name: Bárbaro
 ---
 
-# Bárbaro
-
 La ira te consume en combate. Te deleitas causando estragos y usando poderosas armas para abrirte paso entre tus enemigos, confiando en una durabilidad asombrosa sin necesidad de técnicas complicadas ni entrenamiento rígido. Tus iras se nutren de un instinto feroz, que puedes asociar con un animal, un espíritu o alguna parte de ti. Para muchos bárbaros, la fuerza bruta es un martillo y cada problema parece un clavo, mientras que otros intentan contener la tormenta de emociones en su interior y liberar su ira solo cuando más importa.
 
 ## Estadísticas

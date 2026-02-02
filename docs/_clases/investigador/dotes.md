@@ -9,8 +9,6 @@ nav_order: 152
 class_name: Investigador
 ---
 
-# Dotes de Investigador
-
 En cada nivel en el que obtienes una dote de investigador, puedes seleccionar una de las siguientes. Debes cumplir todos los requisitos antes de seleccionarla.
 
 ---

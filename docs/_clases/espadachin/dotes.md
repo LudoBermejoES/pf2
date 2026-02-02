@@ -9,8 +9,6 @@ nav_order: 132
 class_name: Espadachin
 ---
 
-# Dotes de Espadachin
-
 En cada nivel en el que obtienes una dote de espadachin, puedes seleccionar una de las siguientes. Debes cumplir todos los requisitos antes de seleccionarla.
 
 ---

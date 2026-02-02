@@ -9,8 +9,6 @@ nav_order: 130
 class_name: Espadachín
 ---
 
-# Espadachín
-
 Muchos guerreros confían en la fuerza bruta, armaduras pesadas o armas engorrosas. Para ti, el combate es una danza en la que te mueves entre tus enemigos con estilo y gracia. Te deslizas entre los combatientes con descaro y propinas potentes remates con un giro de muñeca y un destello de la hoja, mientras contrarrestas los ataques con elegantes ripostes que mantienen a los enemigos desequilibrados. Hostigar y frustrar a tus adversarios te permite encantar a la suerte y burlar a la muerte una y otra vez con aplomo y abundante estilo.
 
 ## Estadísticas

@@ -9,8 +9,6 @@ nav_order: 120
 class_name: Campeón
 ---
 
-# Campeón
-
 Eres un emisario de una deidad, un servidor devoto que ha asumido un pesado manto, y persigues con devoción una causa que te distingue de quienes te rodean. Tienes poderosas defensas que compartes libremente con tus aliados y transeúntes inocentes, así como poder divino que usas para acabar con las amenazas que tu deidad se opone.
 
 ## Estadísticas

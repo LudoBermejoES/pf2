@@ -9,8 +9,6 @@ nav_order: 122
 class_name: Campeón
 ---
 
-# Dotes de Campeón
-
 En cada nivel en el que obtienes una dote de campeón, puedes seleccionar una de las siguientes. Debes cumplir todos los prerrequisitos antes de seleccionar la dote.
 
 ---

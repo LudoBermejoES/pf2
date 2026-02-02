@@ -9,8 +9,6 @@ nav_order: 142
 class_name: Hechicero
 ---
 
-# Dotes de Hechicero
-
 En cada nivel en el que obtengas una dote de hechicero, puedes seleccionar una de las siguientes dotes. Debes cumplir todos los prerrequisitos antes de elegir la dote.
 
 ## Dotes de Nivel 1

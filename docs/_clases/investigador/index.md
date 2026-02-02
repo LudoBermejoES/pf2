@@ -9,8 +9,6 @@ nav_order: 150
 class_name: Investigador
 ---
 
-# Investigador
-
 Buscas descubrir la verdad, persiguiendo con tenacidad pistas para revelar los planes de villanos astutos, descubrir secretos antiguos o desentrañar otros misterios. Tu mente analítica formula rápidamente soluciones a problemas complicados, y tus sentidos afinados identifican incluso las pistas más ocultas. Empuñando el conocimiento como arma, estudias las criaturas y peligros que encuentras para explotar sus debilidades.
 
 ## Estadísticas

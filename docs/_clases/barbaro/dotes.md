@@ -9,8 +9,6 @@ nav_order: 112
 class_name: Bárbaro
 ---
 
-# Dotes de Bárbaro
-
 En cada nivel en el que obtienes una dote de bárbaro, puedes seleccionar una de las siguientes. Debes cumplir todos los prerrequisitos antes de seleccionarla.
 
 ---

@@ -9,8 +9,6 @@ nav_order: 160
 class_name: Monje
 ---
 
-# Monje
-
 La fuerza de tu puño fluye desde tu mente y tu espíritu. Buscas la perfección, puliendo tu cuerpo hasta convertirlo en un instrumento impecable y tu mente en un bastión ordenado de sabiduría. Eres un fiero combatiente reconocido por tus habilidades en artes marciales y posturas de combate que te otorgan movimientos únicos. Aunque el desafío de dominar muchos estilos de lucha te impulsa a grandes alturas, también disfrutas meditando sobre cuestiones filosóficas y descubriendo nuevas formas de alcanzar la paz y la iluminación.
 
 ## Estadísticas

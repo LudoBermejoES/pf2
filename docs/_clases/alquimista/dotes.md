@@ -9,8 +9,6 @@ nav_order: 102
 class_name: Alquimista
 ---
 
-# Dotes de Alquimista
-
 A continuacion se presentan las dotes de clase del alquimista, organizadas por nivel.
 
 ## Dotes de Nivel 1

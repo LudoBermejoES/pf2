@@ -9,8 +9,6 @@ nav_order: 162
 class_name: Monje
 ---
 
-# Dotes de Monje
-
 En cada nivel en el que obtienes una dote de monje, puedes seleccionar una de las siguientes. Debes cumplir todos los requisitos antes de seleccionarla.
 
 ---

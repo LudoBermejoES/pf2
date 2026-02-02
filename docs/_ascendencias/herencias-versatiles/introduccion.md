@@ -8,8 +8,6 @@ source: PC2
 nav_order: 202
 ---
 
-# Herencias versátiles
-
 Las herencias versátiles más comunes con mucha diferencia son las nacidas de la unión de dos ascendencias distintas, como las herencias mixtas aiuvarin y dromaar (Player Core 82). Otras personas nacen bajo circunstancias mucho más extrañas, como tener un progenitor afectado por energías monstruosas, no muertas o extraplanares. Como estas circunstancias no son exclusivas de una sola ascendencia, estas herencias se comparten igualmente entre muchas ascendencias.
 
 Golarion alberga una gran variedad de herencias versátiles. Algunas nacen de criaturas inusuales o surgen debido a circunstancias mundanas o sobrenaturales específicas. Muchas, sin embargo, resultan de una infusión de energía extraplanar, ya sea por progenitores directos, ancestros más lejanos o simplemente por exposición directa a la quintaesencia de ese plano. A estos individuos se les conoce como vástagos planares.

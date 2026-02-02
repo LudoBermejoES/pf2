@@ -9,8 +9,6 @@ nav_order: 170
 class_name: Oráculo
 ---
 
-# Oráculo
-
 Tu canal hacia el poder divino evita los canales tradicionales de oración y servidumbre: en su lugar, captas verdades sagradas y grandes misterios encarnados en conceptos generales, ya sea porque percibes el terreno común entre múltiples deidades o porque eludes su poder por completo. Exploras uno de estos misterios y extraes su poder para lanzar conjuros milagrosos, pero ese poder viene con un precio terrible: una maldición que se vuelve más fuerte cuanto más recurres a él, que puedes sostener como instrumento de lo divino o ver como un castigo de los dioses.
 
 ## Estadísticas

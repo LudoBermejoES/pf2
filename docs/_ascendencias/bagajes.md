@@ -8,8 +8,6 @@ nav_order: 1
 source: PC1
 ---
 
-# Bagajes
-
 A 1.er nivel, cuando creas tu personaje, obtienes un bagaje a tu elección. Esta decisión es permanente, y no puedes cambiarla a niveles posteriores. Cada bagaje indicado aquí concede dos mejoras, una dote de habilidad y el rango de competencia entrenado en dos habilidades, una de las cuales es de Saber.
 
 Si obtienes el rango de competencia entrenado en una habilidad debido a tu bagaje y después obtendrías el rango de competencia entrenado en la misma habilidad debido a tu clase a 1.er nivel, en su lugar obtienes el rango entrenado en otra habilidad a tu elección.
