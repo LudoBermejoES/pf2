@@ -1,0 +1,22 @@
+---
+layout: page
+permalink: /dotes/habilidad/simbolo-del-peregrino/
+title: Símbolo del peregrino
+chapter: Dotes
+category: dotes
+habilidad: Religión
+level: 1
+source: PC2
+---
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">GENERAL</span><span class="feat-trait">HABILIDAD</span></div>
+
+**Dote 1**
+
+**Prerrequisitos:** entrenado en Religión, seguidor de una religión específica
+
+Llevas un pequeño símbolo de protección de un sitio sagrado para tu fe. Obtienes un símbolo religioso de madera para tu deidad gratis. Mientras este símbolo religioso esté en tu posesión, cuando empates la tirada de iniciativa de un adversario, actúas primero.
+
+Si pierdes este símbolo religioso, debes comprar o Fabricar un reemplazo y sintonizarlo. Tal símbolo normalmente cuesta al menos 1 pp, y la sintonización toma 10 minutos de oración. También puedes sintonizar un símbolo religioso diferente con la misma cantidad de tiempo, pero pierdes el beneficio del símbolo religioso anterior.
+
+---

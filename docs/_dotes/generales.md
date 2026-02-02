@@ -5,7 +5,7 @@ title: Dotes Generales
 chapter: Dotes
 category: dotes
 nav_order: 1
-source: PC1
+source: PC1+PC2
 ---
 
 Las dotes generales representan aptitudes diversas que cualquier personaje puede aprender, independientemente de su clase o entrenamiento en habilidades. A diferencia de las dotes de habilidad, no requieren entrenamiento específico en una habilidad particular.
@@ -33,9 +33,14 @@ Las dotes generales representan aptitudes diversas que cualquier personaje puede
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|-----------|
+| [Acelerar el Paso]({{ '/dotes/generales/acelerar-el-paso/' | relative_url }}) | Tu grupo puede Apresurarse durante más tiempo. | General | Con +2 |
+| [Búsqueda Exhaustiva]({{ '/dotes/generales/busqueda-exhaustiva/' | relative_url }}) | +2 a Percepción cuando pasas el doble de tiempo Buscando. | General | Experto en Percepción |
 | [Improvisación No Entrenada]({{ '/dotes/generales/improvisacion-no-entrenada/' | relative_url }}) | Puedes usar habilidades no entrenadas con bonificador basado en tu nivel. | General | — |
 | [Parangón Ancestral]({{ '/dotes/generales/parangon-ancestral/' | relative_url }}) | Obtienes una dote de ascendencia de 1.er nivel adicional. | General | — |
 | [Planificador Presciente]({{ '/dotes/generales/planificador-presciente/' | relative_url }}) | Sacas objetos de tu mochila que no habías declarado comprar previamente. | General, Manipular | — |
+| [Reparación Improvisada]({{ '/dotes/generales/reparacion-improvisada/' | relative_url }}) | Repara rápidamente un objeto roto. | General | — |
+| [Salud Robusta]({{ '/dotes/generales/salud-robusta/' | relative_url }}) | Recuperas PG adicionales cuando te curan con Medicina. | General | — |
+| [Seguidor Entusiasta]({{ '/dotes/generales/seguidor-entusiasta/' | relative_url }}) | Mejora las bonificaciones cuando Sigues al experto. | General | — |
 
 ## Nivel 7
 
@@ -43,9 +48,20 @@ Las dotes generales representan aptitudes diversas que cualquier personaje puede
 |------|-------------|--------|-----------|
 | [Búsqueda Expeditiva]({{ '/dotes/generales/busqueda-expeditiva/' | relative_url }}) | Buscas áreas a gran velocidad, el doble de rápido que los demás. | General | Rango maestro en Percepción |
 | [Consumible Presciente]({{ '/dotes/generales/consumible-presciente/' | relative_url }}) | Puedes sacar consumibles con Planificador Presciente en lugar de equipo. | General | Planificador Presciente |
+| [Insensible a la Muerte]({{ '/dotes/generales/insensible-a-la-muerte/' | relative_url }}) | Recuperas más PG cuando estás muriendo. | General | Tenaz, haber muerto |
+| [Supercatador]({{ '/dotes/generales/supercatador/' | relative_url }}) | Obtienes pruebas secretas para detectar veneno por el sabor. | General | Maestro en Percepción |
 
 ## Nivel 11
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|-----------|
+| [Explorador Increíble]({{ '/dotes/generales/explorador-increible/' | relative_url }}) | Otorgas a los aliados +2 a las tiradas de iniciativa cuando Exploras. | Exploración, General | Maestro en Percepción |
 | [Investidura Sensacional]({{ '/dotes/generales/investidura-sensacional/' | relative_url }}) | Aumentas tu límite de objetos mágicos investidos de 10 a 12. | General | Car +3 |
+| [Líder de Caravana]({{ '/dotes/generales/lider-de-caravana/' | relative_url }}) | Tu grupo puede Apresurarse durante mucho más tiempo. | General | Acelerar el paso |
+| [Un Hogar en Cada Puerto]({{ '/dotes/generales/un-hogar-en-cada-puerto/' | relative_url }}) | Gasta tiempo de inactividad para conseguir alojamiento gratuito. | Entre descansos, General | Car +3 |
+
+## Nivel 19
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|-----------|
+| [Percepción Verdadera]({{ '/dotes/generales/percepcion-verdadera/' | relative_url }}) | Obtienes efectos constantes de visión verdadera. | General, Revelación | Legendario en Percepción |
