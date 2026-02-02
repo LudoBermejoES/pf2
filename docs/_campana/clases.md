@@ -133,25 +133,6 @@ Los oráculos son una **excelente elección temática** para esta campaña, part
 
 ---
 
-## Clases Especiales (Requieren Aprobación del DJ)
-
-Estas clases son poco comunes y requieren trabajar con el DJ antes de construir el personaje:
-
-| Clase | Consideraciones |
-|-------|-----------------|
-| Artillero (Gunslinger) | Las armas de fuego son increíblemente raras en la región. El DJ debe estar dispuesto a ajustar la campaña para apoyar las necesidades de recursos especializados |
-| Inventor | Los inventores existen en Brevoy, particularmente los influenciados por la tecnología futurista de la vecina Numeria |
-
----
-
-## Invocador
-
-Los invocadores de la tradición **Invocador de Dioses** son los más comúnmente encontrados en la región.
-
-**Mejores elecciones para eidolon**: Bestia, Dragón, Feérico y Planta.
-
----
-
 ## Resumen de Recomendaciones
 
 | Nivel | Clases |
@@ -159,4 +140,3 @@ Los invocadores de la tradición **Invocador de Dioses** son los más comúnment
 | **Muy recomendadas** | Explorador, Druida, Hechicero (feérico), Oráculo, Guerrero (Aldori) |
 | **Recomendadas** | Bardo, Clérigo, Pícaro, Bárbaro, Brujo |
 | **Funcionan bien** | Alquimista, Campeón, Espadachín, Investigador, Mago, Monje, Invocador |
-| **Requieren aprobación** | Artillero, Inventor |
