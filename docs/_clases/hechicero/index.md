@@ -7,12 +7,12 @@ category: clases
 source: PC2
 nav_order: 140
 class_name: Hechicero
-complexity: Moderada
+complexity: Accesible
 ---
 
 <img src="{{ '/assets/images/clases/hechicero.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Hechicero">
 
-> **Complejidad:** Moderada — El lanzamiento espontáneo simplifica la gestión de conjuros comparado con clases preparadas. El linaje es puramente beneficioso, sin desventajas que gestionar.
+> **Complejidad:** Accesible — La mejor opción para aprender magia. El lanzamiento espontáneo elimina la preparación diaria y el linaje es puramente beneficioso.
 
 No elegiste convertirte en lanzador de conjuros: naciste siéndolo. Hay magia en tu sangre. Quizá una influencia divina bendijo a uno de tus ancestros, un antepasado se comunicó con una entidad antigua y primordial, o un poderoso ritual oculto realizado hace mucho tiempo influyó en tu linaje. La autorreflexión y el estudio te permiten perfeccionar tus habilidades mágicas innatas y desbloquear nuevas capacidades más poderosas. El poder en tu sangre conlleva un riesgo, y constantemente te enfrentas a la elección de si te elevarás para convertirte en un maestro lanzador o caerás en la destrucción.
 

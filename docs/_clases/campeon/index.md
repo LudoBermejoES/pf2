@@ -7,12 +7,12 @@ category: clases
 source: PC2
 nav_order: 120
 class_name: Campeón
-complexity: Moderada
+complexity: Accesible
 ---
 
 <img src="{{ '/assets/images/clases/campeon.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Campeón">
 
-> **Complejidad:** Moderada — Combina combate y habilidades divinas. Requiere entender las reacciones de campeón y gestionar edictos y anatemas.
+> **Complejidad:** Accesible — Combate sólido con reacciones defensivas intuitivas. Las mecánicas de proteger aliados son fáciles de entender.
 
 Eres un emisario de una deidad, un servidor devoto que ha asumido un pesado manto, y persigues con devoción una causa que te distingue de quienes te rodean. Tienes poderosas defensas que compartes libremente con tus aliados y transeúntes inocentes, así como poder divino que usas para acabar con las amenazas que tu deidad se opone.
 

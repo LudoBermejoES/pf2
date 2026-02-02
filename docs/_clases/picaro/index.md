@@ -7,12 +7,12 @@ category: clases
 nav_order: 1
 class_name: Pícaro
 source: PC1
-complexity: Moderada
+complexity: Accesible
 ---
 
 <img src="{{ '/assets/images/clases/picaro.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Pícaro">
 
-> **Complejidad:** Moderada — Muchas habilidades y opciones de dotes. Posicionar para el Ataque Furtivo requiere pensamiento táctico.
+> **Complejidad:** Accesible — Muchas habilidades pero mecánicas de combate intuitivas. El Ataque Furtivo recompensa el posicionamiento básico.
 
 Eres habil y oportunista. Utilizando tu aguda inteligencia y tus rapidas reacciones, sacas partido de los pasos en falso de tu oponente y pegas donde mas duele. Tu juego es peligroso, buscando emociones y poniendo a prueba tus habilidades sin que probablemente te preocupen demasiado las leyes que se interpongan en tu camino. Si bien la senda de cada picaro es unica y esta salpicada de peligros, lo que tenéis todos en comun es la amplitud y la profundidad de vuestras habilidades.
 

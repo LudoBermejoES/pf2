@@ -7,12 +7,12 @@ category: clases
 nav_order: 1
 class_name: Explorador
 source: PC1
-complexity: Moderada
+complexity: Accesible
 ---
 
 <img src="{{ '/assets/images/clases/explorador.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Explorador">
 
-> **Complejidad:** Moderada — Versátil entre combate cuerpo a cuerpo y a distancia. Gestionar la presa y los conjuros opcionales añade algo de complejidad.
+> **Complejidad:** Accesible — Versátil y flexible con mecánicas intuitivas. Marcar presa es simple y los conjuros son opcionales.
 
 El explorador es un cazador y rastreador consumado, capaz de perseguir a su presa a través de cualquier terreno. Ya sea que rastrees bestias salvajes en la naturaleza o aceches criminales en las calles de la ciudad, tus habilidades de caza son incomparables.
 
