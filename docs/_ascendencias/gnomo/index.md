@@ -75,3 +75,4 @@ Aunque los gnomos son tramposos impulsivos con motivos inescrutables y métodos 
 
 - [Dotes]({{ '/ascendencias/gnomo/dotes/' | relative_url }})
 - [Herencias]({{ '/ascendencias/gnomo/herencias/' | relative_url }})
+- [Tipos y Enclaves]({{ '/ascendencias/gnomo/etnias/' | relative_url }})

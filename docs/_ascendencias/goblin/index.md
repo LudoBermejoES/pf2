@@ -75,3 +75,4 @@ Incluso los goblins mejor intencionados tienen problemas para seguir las reglas,
 
 - [Dotes]({{ '/ascendencias/goblin/dotes/' | relative_url }})
 - [Herencias]({{ '/ascendencias/goblin/herencias/' | relative_url }})
+- [Etnias y Tribus]({{ '/ascendencias/goblin/etnias/' | relative_url }})
