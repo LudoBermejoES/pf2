@@ -56,3 +56,15 @@ La ira te consume en combate. Te deleitas causando estragos y usando poderosas a
 - Creen que eres leal a tus amigos y aliados y que nunca cederás hasta que la lucha termine.
 
 ---
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/clases/barbaro/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+- [Bárbaro del Dragón]({{ '/clases/barbaro/builds/barbaro-dragon/' | relative_url }}) — Aliento elemental y transformación dracónica
+- [Bárbaro de Furia Pura]({{ '/clases/barbaro/builds/barbaro-furia/' | relative_url }}) — Máximo daño físico y resistencia
+- [Bárbaro del Gigante]({{ '/clases/barbaro/builds/barbaro-gigante/' | relative_url }}) — Alcance extendido y control de área

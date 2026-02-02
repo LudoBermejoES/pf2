@@ -77,3 +77,17 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 - [Características]({{ '/clases/explorador/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/explorador/dotes/' | relative_url }})
+
+---
+
+## Builds Recomendadas
+
+Configuraciones probadas y divertidas para el Explorador:
+
+### Para Kingmaker
+- ⭐ [Explorador de las Tierras Robadas]({{ '/clases/explorador/builds/explorador-tierras-robadas/' | relative_url }}) — **Recomendada para Kingmaker** — Arquero con compañero animal, rastreador experto
+
+### Builds Generales
+- [Arquero de Precisión]({{ '/clases/explorador/builds/arquero-precision/' | relative_url }}) — Francotirador con daño devastador a distancia
+- [Duelista de Doble Arma]({{ '/clases/explorador/builds/duelista-doble-arma/' | relative_url }}) — Torbellino de ataques cuerpo a cuerpo
+- [Guardián Primigenio]({{ '/clases/explorador/builds/guardian-primigenio/' | relative_url }}) — Híbrido marcial-mágico con conjuros primigenios

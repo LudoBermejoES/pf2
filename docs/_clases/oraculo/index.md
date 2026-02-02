@@ -10,6 +10,8 @@ class_name: Oráculo
 complexity: Compleja
 ---
 
+<img src="{{ '/assets/images/clases/oraculo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Oráculo">
+
 > **Complejidad:** Compleja — La gestión de la maldición es central al juego del oráculo. Requiere equilibrar riesgo y recompensa mientras se escalan los niveles de maldición.
 
 Tu canal hacia el poder divino evita los canales tradicionales de oración y servidumbre: en su lugar, captas verdades sagradas y grandes misterios encarnados en conceptos generales, ya sea porque percibes el terreno común entre múltiples deidades o porque eludes su poder por completo. Exploras uno de estos misterios y extraes su poder para lanzar conjuros milagrosos, pero ese poder viene con un precio terrible: una maldición que se vuelve más fuerte cuanto más recurres a él, que puedes sostener como instrumento de lo divino o ver como un castigo de los dioses.
@@ -55,3 +57,15 @@ Tu canal hacia el poder divino evita los canales tradicionales de oración y ser
 - Admiren tu determinación y los sacrificios que haces para realizar actos prodigiosos.
 
 ---
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/clases/oraculo/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+- [Oráculo de Batalla]({{ '/clases/oraculo/builds/oraculo-batalla/' | relative_url }}) — Híbrido marcial-lanzador con guerreros fantasmales
+- [Oráculo de Huesos]({{ '/clases/oraculo/builds/oraculo-huesos/' | relative_url }}) — Manipulador de la muerte y el destino
+- [Oráculo de las Llamas]({{ '/clases/oraculo/builds/oraculo-llamas/' | relative_url }}) — Devastador de fuego sagrado con daño de área

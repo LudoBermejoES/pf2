@@ -71,3 +71,13 @@ Aprendes nuevos conjuros, creas objetos mágicos o inscribes pergaminos para el 
 
 - [Características]({{ '/clases/mago/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/mago/dotes/' | relative_url }})
+
+---
+
+## Builds Recomendadas
+
+Configuraciones probadas y divertidas para el Mago:
+
+- [Mago de Batalla]({{ '/clases/mago/builds/mago-batalla/' | relative_url }}) — Destructor arcano de área con conjuros de energía
+- [Mago Mentalista (Control)]({{ '/clases/mago/builds/mago-mentalista/' | relative_url }}) — Controlador de mentes e ilusiones
+- [Mago Invocador]({{ '/clases/mago/builds/mago-invocador/' | relative_url }}) — General arcano con ejército de criaturas invocadas

@@ -10,7 +10,7 @@ source: PC1
 complexity: Moderada
 ---
 
-<img src="{{ '/assets/images/clases/clérigo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Clérigo">
+<img src="{{ '/assets/images/clases/clerigo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Clérigo">
 
 > **Complejidad:** Moderada — La fuente divina permite acceso a todos los conjuros de la lista, pero el lanzamiento preparado requiere planificación. Buena opción para aprender magia.
 
@@ -74,5 +74,19 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 ## Selecciones relacionadas
 
-- [Características]({{ '/clases/clérigo/caracteristicas/' | relative_url }})
-- [Dotes]({{ '/clases/clérigo/dotes/' | relative_url }})
+- [Características]({{ '/clases/clerigo/caracteristicas/' | relative_url }})
+- [Dotes]({{ '/clases/clerigo/dotes/' | relative_url }})
+
+---
+
+## Builds Recomendadas
+
+Configuraciones probadas y divertidas para el Clérigo:
+
+### Para Kingmaker
+- ⭐ [Clérigo Arquero de Erastil]({{ '/clases/clerigo/builds/clerigo-erastil-kingmaker/' | relative_url }}) — **Recomendada para Kingmaker** — Sanador y cazador devoto del Viejo Desencadenado
+
+### Builds Generales
+- [Redentor Protector (Sacerdote de Guerra)]({{ '/clases/clerigo/builds/sacerdote-guerra/' | relative_url }}) — Tanque que sana, combate cuerpo a cuerpo con magia de apoyo
+- [Clérigo Sanador (Enclaustrado)]({{ '/clases/clerigo/builds/sanador-enclaustrado/' | relative_url }}) — El mejor sanador del juego, oleadas de curación en área
+- [Clérigo de Daño (Fuente Dañina)]({{ '/clases/clerigo/builds/fuente-danina/' | relative_url }}) — Destructor divino con energía de vacío

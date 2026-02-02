@@ -72,3 +72,13 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 - [Características]({{ '/clases/guerrero/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/guerrero/dotes/' | relative_url }})
+
+---
+
+## Builds Recomendadas
+
+Configuraciones probadas y divertidas para el Guerrero:
+
+- [Duelista de Doble Arma]({{ '/clases/guerrero/builds/duelista-doble-arma/' | relative_url }}) — Tormenta de acero con dos armas, muchos ataques y contraataques
+- [Guerrero de Escudo Reactivo]({{ '/clases/guerrero/builds/escudo-reactivo/' | relative_url }}) — Tanque indestructible que protege aliados y castiga atacantes
+- [Arquero de Precisión]({{ '/clases/guerrero/builds/arquero-precision/' | relative_url }}) — Muerte a distancia con disparos múltiples y precisión letal

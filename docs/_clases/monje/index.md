@@ -10,6 +10,8 @@ class_name: Monje
 complexity: Moderada
 ---
 
+<img src="{{ '/assets/images/clases/monje.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Monje">
+
 > **Complejidad:** Moderada — Las posturas y ataques desarmados son intuitivos, pero optimizar el uso de ki y las combinaciones de acciones requiere práctica.
 
 La fuerza de tu puño fluye desde tu mente y tu espíritu. Buscas la perfección, puliendo tu cuerpo hasta convertirlo en un instrumento impecable y tu mente en un bastión ordenado de sabiduría. Eres un fiero combatiente reconocido por tus habilidades en artes marciales y posturas de combate que te otorgan movimientos únicos. Aunque el desafío de dominar muchos estilos de lucha te impulsa a grandes alturas, también disfrutas meditando sobre cuestiones filosóficas y descubriendo nuevas formas de alcanzar la paz y la iluminación.
@@ -54,3 +56,15 @@ La fuerza de tu puño fluye desde tu mente y tu espíritu. Buscas la perfección
 - Acudan a ti en busca de consejo filosófico.
 
 ---
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/clases/monje/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+- [Monje de Qi]({{ '/clases/monje/builds/monje-qi/' | relative_url }}) — Maestro de los hechizos de qi con control elemental y curación
+- [Monje del Tigre]({{ '/clases/monje/builds/monje-tigre/' | relative_url }}) — Depredador ágil con daño persistente y movilidad letal
+- [Monje de la Montaña]({{ '/clases/monje/builds/monje-montana/' | relative_url }}) — Tanque inamovible con defensa impenetrable

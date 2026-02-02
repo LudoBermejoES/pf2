@@ -57,3 +57,21 @@ No elegiste convertirte en lanzador de conjuros: naciste siéndolo. Hay magia en
 - Suponen que eres tan impredecible como la magia que invocas, incluso si tu personalidad demuestra lo contrario.
 
 ---
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/clases/hechicero/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+### Para Kingmaker
+
+- ⭐ [Hechicero del Linaje Feérico]({{ '/clases/hechicero/builds/hechicero-feerico-kingmaker/' | relative_url }}) — Encantador conectado con el Primer Mundo
+
+### Builds generales
+
+- [Hechicero Dracónico]({{ '/clases/hechicero/builds/hechicero-draconico/' | relative_url }}) — Destructor elemental con sangre de dragón
+- [Hechicero del Linaje Divino]({{ '/clases/hechicero/builds/hechicero-divino/' | relative_url }}) — Sanador y apoyo con poder celestial o infernal
+- [Hechicero Aberrante]({{ '/clases/hechicero/builds/hechicero-aberrante/' | relative_url }}) — Maestro del control mental oculto

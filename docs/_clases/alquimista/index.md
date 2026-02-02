@@ -56,3 +56,15 @@ No hay vista más hermosa para ti que un extraño brebaje burbujeando en un matr
 - Suponen que, si aún no has causado una catástrofe con tus experimentos, inevitablemente lo harás.
 
 ---
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/clases/alquimista/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+- [Alquimista Bombardero]({{ '/clases/alquimista/builds/alquimista-bombardero/' | relative_url }}) — Artillero de bombas con devastador daño de área
+- [Alquimista Mutagenista]({{ '/clases/alquimista/builds/alquimista-mutagenista/' | relative_url }}) — Transformador de combate con mutágenos bestiales
+- [Alquimista Cirujano]({{ '/clases/alquimista/builds/alquimista-cirujano/' | relative_url }}) — Sanador de campo con elixires curativos

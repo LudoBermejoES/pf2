@@ -88,3 +88,17 @@ Puedes ganar dinero y prestigio con tus interpretaciones, haciendote un nombre y
 
 - [Características]({{ '/clases/bardo/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/bardo/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+### Para Kingmaker
+
+- ⭐ [Cronista del Reino]({{ '/clases/bardo/builds/cronista-reino-kingmaker/' | relative_url }}) — Erudito diplomático con conocimiento enciclopédico
+
+### Builds generales
+
+- [Bardo Combatiente]({{ '/clases/bardo/builds/bardo-combatiente/' | relative_url }}) — Luchador de primera línea que inspira con cada golpe
+- [Maestro de Ceremonias]({{ '/clases/bardo/builds/maestro-ceremonias/' | relative_url }}) — Director de orquesta con composiciones perfectas
+- [Bardo Polifacético]({{ '/clases/bardo/builds/bardo-polifacetico/' | relative_url }}) — Versátil adaptable con acceso a múltiples tradiciones

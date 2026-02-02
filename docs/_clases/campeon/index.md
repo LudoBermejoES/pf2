@@ -57,3 +57,21 @@ Eres un emisario de una deidad, un servidor devoto que ha asumido un pesado mant
 - Saben que has jurado votos divinos de servicio que pueden confiar en que cumplirás.
 
 ---
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/clases/campeon/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+### Para Kingmaker
+
+- ⭐ [Campeón de Erastil]({{ '/clases/campeon/builds/campeon-erastil-kingmaker/' | relative_url }}) — Protector de comunidades fronterizas
+
+### Builds generales
+
+- [Campeón del Escudo]({{ '/clases/campeon/builds/campeon-escudo/' | relative_url }}) — Tanque definitivo con múltiples bloqueos
+- [Caballero Montado]({{ '/clases/campeon/builds/campeon-caballero/' | relative_url }}) — Carga devastadora sobre corcel divino
+- [Campeón Profano]({{ '/clases/campeon/builds/campeon-profano/' | relative_url }}) — Vengador oscuro con daño drenante

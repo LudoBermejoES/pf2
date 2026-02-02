@@ -10,6 +10,8 @@ class_name: Espadachín
 complexity: Compleja
 ---
 
+<img src="{{ '/assets/images/clases/espadachin.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Espadachín">
+
 > **Complejidad:** Compleja — Requiere gestionar el Panache, encadenar acciones y arriesgarse para maximizar el daño. Recompensa el juego audaz pero tiene una curva de aprendizaje pronunciada.
 
 Muchos guerreros confían en la fuerza bruta, armaduras pesadas o armas engorrosas. Para ti, el combate es una danza en la que te mueves entre tus enemigos con estilo y gracia. Te deslizas entre los combatientes con descaro y propinas potentes remates con un giro de muñeca y un destello de la hoja, mientras contrarrestas los ataques con elegantes ripostes que mantienen a los enemigos desequilibrados. Hostigar y frustrar a tus adversarios te permite encantar a la suerte y burlar a la muerte una y otra vez con aplomo y abundante estilo.
@@ -54,3 +56,15 @@ Muchos guerreros confían en la fuerza bruta, armaduras pesadas o armas engorros
 - Subestiman la amenaza que representas hasta que se enfrentan al filo de tu mortal hoja.
 
 ---
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/clases/espadachin/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+- [Espadachín Duelista]({{ '/clases/espadachin/builds/espadachin-duelista/' | relative_url }}) — Maestro de la riposte y el contraataque elegante
+- [Espadachín Acróbata]({{ '/clases/espadachin/builds/espadachin-acrobata/' | relative_url }}) — Artista del movimiento con piruetas y saltos mortales
+- [Espadachín Bravucón]({{ '/clases/espadachin/builds/espadachin-bravucon/' | relative_url }}) — Intimidador carismático que desmoraliza con palabras y acero

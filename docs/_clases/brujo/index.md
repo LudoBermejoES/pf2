@@ -107,3 +107,11 @@ Con el corazón de hielo, quizá heredado de tu patrón, comandas los vientos g�
 
 - [Características]({{ '/clases/brujo/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/brujo/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+- [Brujo del Caldero]({{ '/clases/brujo/builds/brujo-caldero/' | relative_url }}) — Maestro de pociones con brewing alquímico
+- [Brujo del Familiar]({{ '/clases/brujo/builds/brujo-familiar/' | relative_url }}) — Vínculo profundo con un familiar poderoso
+- [Brujo de Maleficios]({{ '/clases/brujo/builds/brujo-maleficio/' | relative_url }}) — Acumulador de maldiciones debilitantes

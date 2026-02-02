@@ -10,6 +10,8 @@ class_name: Investigador
 complexity: Compleja
 ---
 
+<img src="{{ '/assets/images/clases/investigador.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Investigador">
+
 > **Complejidad:** Compleja — Requiere planificación táctica con Idear una Estratagema y gestionar casos activos. Recompensa el pensamiento anticipado pero demanda mayor conocimiento del sistema.
 
 Buscas descubrir la verdad, persiguiendo con tenacidad pistas para revelar los planes de villanos astutos, descubrir secretos antiguos o desentrañar otros misterios. Tu mente analítica formula rápidamente soluciones a problemas complicados, y tus sentidos afinados identifican incluso las pistas más ocultas. Empuñando el conocimiento como arma, estudias las criaturas y peligros que encuentras para explotar sus debilidades.
@@ -54,3 +56,15 @@ Buscas descubrir la verdad, persiguiendo con tenacidad pistas para revelar los p
 - Dependan de ti para resolver misterios, acertijos u otros desafíos que requieran curiosidad intelectual.
 
 ---
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/clases/investigador/dotes/' | relative_url }})
+
+---
+
+## Builds recomendadas
+
+- [Investigador Empirista]({{ '/clases/investigador/builds/investigador-empirista/' | relative_url }}) — Observador analítico con percepción superior
+- [Investigador Forense]({{ '/clases/investigador/builds/investigador-forense/' | relative_url }}) — Médico detective con daño de sangrado
+- [Investigador Interrogador]({{ '/clases/investigador/builds/investigador-interrogador/' | relative_url }}) — Manipulador social que extrae la verdad

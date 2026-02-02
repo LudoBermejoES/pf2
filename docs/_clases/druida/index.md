@@ -81,3 +81,17 @@ Tu elección de orden de druida añade otros anatemas, tal y como se detalla en 
 
 - [Características]({{ '/clases/druida/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/druida/dotes/' | relative_url }})
+
+---
+
+## Builds Recomendadas
+
+Configuraciones probadas y divertidas para el Druida:
+
+### Para Kingmaker
+- ⭐ [Druida del Bosque Verde]({{ '/clases/druida/builds/druida-bosque-verde/' | relative_url }}) — **Recomendada para Kingmaker** — Guardián de la flora con familiar leshy
+
+### Builds Generales
+- [Druida Salvaje (Cambiaformas)]({{ '/clases/druida/builds/druida-salvaje/' | relative_url }}) — Transformación en bestias, dragones y elementales
+- [Druida de la Tormenta]({{ '/clases/druida/builds/druida-tormenta/' | relative_url }}) — Destructor elemental con relámpagos y viento
+- [Druida Animal (Compañero)]({{ '/clases/druida/builds/druida-animal/' | relative_url }}) — Híbrido lanzador-marcial con compañero letal

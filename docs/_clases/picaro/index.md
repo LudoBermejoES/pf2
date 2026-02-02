@@ -82,3 +82,13 @@ Podrías dedicarte a vaciar bolsillos o a comerciar en mercancias ilegales. Tamb
 
 - [Características]({{ '/clases/picaro/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/picaro/dotes/' | relative_url }})
+
+---
+
+## Builds Recomendadas
+
+Configuraciones probadas y divertidas para el Pícaro:
+
+- [Ladrón de las Sombras]({{ '/clases/picaro/builds/ladron-sombras/' | relative_url }}) — Asesino de las sombras con daño explosivo y movilidad
+- [Granuja Callejero (Fintero)]({{ '/clases/picaro/builds/granuja-callejero/' | relative_url }}) — Controlador con Fintas y presión psicológica
+- [Mente Maestra (Estratega)]({{ '/clases/picaro/builds/mente-maestra/' | relative_url }}) — Táctico que usa conocimiento para obtener desprevenido y apoyar
