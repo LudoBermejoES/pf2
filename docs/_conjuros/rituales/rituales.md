@@ -5,7 +5,7 @@ title: Rituales
 chapter: Conjuros
 category: conjuros
 nav_order: 6
-source: PC1
+source: PC1+PC2
 ---
 
 Un ritual es un conjuro complejo y esoterico que todo el mundo puede lanzar. Se tarda mucho mas en lanzar un ritual que un conjuro normal, pero los rituales pueden tener efectos mas poderosos.
@@ -32,6 +32,19 @@ Un ritual es un conjuro complejo y esoterico que todo el mundo puede lanzar. Se 
 | 7 | [Recuerdos Colectivos]({{ '/conjuros/rituales/recuerdos-colectivos/' | relative_url }}) | Poco comun |
 | 5 | [Resucitar]({{ '/conjuros/rituales/resucitar/' | relative_url }}) | Poco comun, curacion |
 | 5 | [Servidor Planario]({{ '/conjuros/rituales/servidor-planario/' | relative_url }}) | Poco comun |
+| 5 | [Círculo de Teletransportación]({{ '/conjuros/rituales/circulo-de-teletransportacion/' | relative_url }}) | Poco común, teletransporte (PC2) |
+| 4 | [Dominio Protector]({{ '/conjuros/rituales/dominio-protector/' | relative_url }}) | Poco común, consagración (PC2) |
+| 5 | [Doble Sombrío]({{ '/conjuros/rituales/doble-sombrio/' | relative_url }}) | Poco común, sombra (PC2) |
+| 4 | [Descanso Eterno]({{ '/conjuros/rituales/descanso-eterno/' | relative_url }}) | Poco común (PC2) |
+| 5 | [Reencarnar]({{ '/conjuros/rituales/reencarnar/' | relative_url }}) | Poco común, curación (PC2) |
+| 2 | [Adivinación de Huesos]({{ '/conjuros/rituales/adivinacion-de-huesos/' | relative_url }}) | Poco común, predicción (PC2) |
+| 6 | [Convocar Arquetipo]({{ '/conjuros/rituales/convocar-arquetipo/' | relative_url }}) | Poco común (PC2) |
+| 3 | [Generar Progenie]({{ '/conjuros/rituales/generar-progenie/' | relative_url }}) | Poco común, sacrílego (PC2) |
+| 6 | [Corazón del Kaiju]({{ '/conjuros/rituales/corazon-del-kaiju/' | relative_url }}) | Raro, polimorfia (PC2) |
+| 6 | [Conversión Elemental]({{ '/conjuros/rituales/conversion-elemental/' | relative_url }}) | Poco común, metamórfico (PC2) |
+| 8 | [Marejada]({{ '/conjuros/rituales/marejada/' | relative_url }}) | Poco común, agua (PC2) |
+| 6 | [Atadura del Alma]({{ '/conjuros/rituales/atadura-del-alma/' | relative_url }}) | Poco común, maldición (PC2) |
+| 7 | [Castillo Instantáneo]({{ '/conjuros/rituales/castillo-instantaneo/' | relative_url }}) | Poco común, extradimensional (PC2) |
 
 
 ## Como Aprender Rituales

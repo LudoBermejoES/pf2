@@ -5,7 +5,7 @@ title: Conjuros de Foco
 chapter: Conjuros
 category: conjuros
 nav_order: 2
-source: PC1
+source: PC1+PC2
 ---
 
 ## ¿Qué son los Conjuros de Foco?
@@ -35,3 +35,7 @@ Los conjuros de foco son recursos limitados que se usan durante el combate y otr
 | **Druida** | Hechizos de orden que conectan con las fuerzas primigenias y el orden natural. | [Ver Hechizos de Orden]({{ '/conjuros/conjuros-foco/druida/' | relative_url }}) |
 | **Explorador** | Hechizos que potencian compañeros animales y guardianes del explorador. | [Ver Hechizos de Compañero]({{ '/conjuros/conjuros-foco/explorador/' | relative_url }}) |
 | **Mago** | Hechizos de escuela que representan especializaciones arcanas del mago. | [Ver Hechizos de Escuela]({{ '/conjuros/conjuros-foco/mago/' | relative_url }}) |
+| **Campeón** | Devociones y poderes sagrados que protegen a los aliados y castigan a los enemigos. | [Ver Devociones del Campeón]({{ '/conjuros/conjuros-foco/campeon/' | relative_url }}) |
+| **Hechicero** | Poderes de linaje que surgen de la sangre mágica heredada. | [Ver Poderes de Linaje]({{ '/conjuros/conjuros-foco/hechicero/' | relative_url }}) |
+| **Monje** | Ki y poderes espirituales que potencian las artes marciales. | [Ver Poderes de Ki]({{ '/conjuros/conjuros-foco/monje/' | relative_url }}) |
+| **Oráculo** | Revelaciones místicas concedidas por misterios divinos. | [Ver Revelaciones del Oráculo]({{ '/conjuros/conjuros-foco/oraculo/' | relative_url }}) |

@@ -5,7 +5,7 @@ title: Lista de Conjuros Primigenios
 chapter: Conjuros
 category: conjuros
 nav_order: 6
-source: PC1
+source: PC1+PC2
 ---
 
 Una "P" indica que el conjuro tiene efectos adicionales cuando es potenciado.
@@ -15,8 +15,10 @@ PC = poco comun.
 
 - **[Arco electrico](/conjuros/arco-electrico/) P** Das un calambre a una o dos criaturas con un relámpago.
 - **[Azote de vitalidad](/conjuros/azote-de-vitalidad/) P** Danas y debilitas a los muertos vivientes con energia vital.
+- **[Chorro](/conjuros/chorro/) P** Lanzas un chorro de agua a presión. (PC2)
 - **[Congelacion](/conjuros/congelacion/) P** Danas a una criatura con un frio tremendo.
 - **[Conocer el camino](/conjuros/conocer-el-camino/) P** Averiguas donde esta el norte verdadero y la dirección hacia otro lugar.
+- **[Derramar cascajo](/conjuros/derramar-cascajo/) P** Cubres el suelo de cascajo que dificulta el movimiento. (PC2)
 - **[Detectar magia](/conjuros/detectar-magia/) P** Te permite notar cuando hay magia cerca.
 - **[Estabilizar](/conjuros/estabilizar/) ** Estabilizas a una criatura moribunda.
 - **[Explosion caustica](/conjuros/explosion-caustica/) P** Lanzas un pegote de acido que salpica en un area pequena.
@@ -26,7 +28,9 @@ PC = poco comun.
 - **[Luz](/conjuros/luz/) P** Haces brillar un objeto.
 - **[Orientación](/conjuros/orientacion/) ** Tu guia divina hace mejorar una tirada.
 - **[Prestidigitacion](/conjuros/prestidigitacion/) ** Llevas a cabo un truco magico menor.
+- **[Ráfaga de vendaval](/conjuros/rafaga-de-vendaval/) P** Creas una ráfaga de viento que empuja y daña. (PC2)
 - **[Sello](/conjuros/sello/) P** Dejas una marca magica.
+- **[Soplo de veneno](/conjuros/soplo-de-veneno/) P** Exhalas una nube venenosa. (PC2)
 - **[Zarcillo enmaranante](/conjuros/zarcillo-enmaranante/) P** Conjuras un zarcillo para que enrede a una criatura.
 
 ## Conjuros de 1.er rango
@@ -61,6 +65,9 @@ PC = poco comun.
 - **[Respirar fuego](/conjuros/respirar-fuego/) P** Liberas por la boca un pequeno cono de llamas.
 - **[Saltar](/conjuros/saltar/) P** Das un salto impresionante.
 - **[Ventriloquia](/conjuros/ventriloquia/) P** Proyectas tu voz.
+- **[Foso de barro](/conjuros/foso-de-barro/)** Creas un hoyo lleno de barro que atrapa criaturas. (PC2)
+- **[Pasos de plomo](/conjuros/pasos-de-plomo/) P** Haces que el objetivo se mueva lentamente. (PC2)
+- **[Visión animal](/conjuros/vision-animal/)** Percibes a través de los sentidos de un animal. (PC2)
 - **[Viento de cola](/conjuros/viento-de-cola/) P** Incrementas tu velocidad durante 1 hora.
 - **[Viruela de goblin](/conjuros/viruela-de-goblin/) ** Infectas a una criatura con viruela de goblin.
 
@@ -101,6 +108,7 @@ PC = poco comun.
 - **[Uno con las plantas](/conjuros/uno-con-las-plantas/) ** Te fundes con una planta o te conviertes en una de ellas.
 - **[Virote ardiente](/conjuros/virote-ardiente/) P** Disparas entre uno y tres virotes en llamas contra enemigos diferentes.
 - **[Vision en la oscuridad](/conjuros/vision-en-la-oscuridad/) P** Ves en la oscuridad.
+- **[Vomitar enjambre](/conjuros/vomitar-enjambre/) P** Eructas un enjambre de alimañas mágicas. (PC2)
 
 ## Conjuros de 3.er rango
 
@@ -120,6 +128,7 @@ PC = poco comun.
 - **[Pies a aletas](/conjuros/pies-a-aletas/) P** Conviertes los pies de una criatura en aletas, lo que le permite nadar pero le lentifica en tierra firme.
 - **[RelampagoP](/conjuros/relampagop/) P** Un relámpago golpea a todas las criaturas en una linea.
 - **[Uno con la piedra](/conjuros/uno-con-la-piedra/) ** Puedes fusionarte con una piedra o convertirte en ella.
+- **[Triple aspecto](/conjuros/triple-aspecto/)** Cambias entre tres versiones de ti mismo de diferentes edades. (PC2)
 - **[Velo de privacidadPC](/conjuros/velo-de-privacidadpc/) ** Proteges a una criatura u objeto de la detección magica.
 
 ## Conjuros de 4.o rango
@@ -137,6 +146,9 @@ PC = poco comun.
 - **[Resiliencia de la montana](/conjuros/resiliencia-de-la-montana/) P** Endureces a una criatura para que resista ataques físicos.
 - **[Tormenta de armas](/conjuros/tormenta-de-armas/) P** Multiplicas un arma que estas empuñando y atacas con ellas a multiples criaturas.
 - **[Torrente hidraulico](/conjuros/torrente-hidraulico/) P** Obligas a retroceder a las criaturas mediante una linea dañina de agua.
+- **[Árbol protector](/conjuros/arbol-protector/) P** Convocas un árbol que proporciona refugio y curación. (PC2)
+- **[Infestación fúngica](/conjuros/infestacion-fungica/) P** Infectas al objetivo con esporas que causan daño. (PC2)
+- **[Tormenta eléctrica](/conjuros/tormenta-electrica/) P** Invocas una tormenta con rayos que dañan a las criaturas. (PC2)
 - **[Volar](/conjuros/volar/) P** Concedes a un objetivo una Velocidad de vuelo.
 
 ## Conjuros de 5.o rango
@@ -156,6 +168,9 @@ PC = poco comun.
 - **[Pasaje magicoP, PC](/conjuros/pasaje-magicop,-pc/) ** Abres un pasaje temporal a traves de una superficie.
 - **[Pua empaladora](/conjuros/pua-empaladora/) P** Empalas a una criatura con una pua de hierro frio.
 - **[Senda de la NaturalezaP, PC](/conjuros/senda-de-la-naturalezap,-pc/) ** Te teletransportas de un árbol a otro.
+- **[Enemistad de la naturaleza](/conjuros/enemistad-de-la-naturaleza/)** Vuelves a la naturaleza hostil contra una criatura. (PC2)
+- **[Hacerse el muerto](/conjuros/hacerse-el-muerto/) P** Entras en un trance de muerte aparente. (PC2)
+- **[Muro de carne](/conjuros/muro-de-carne/) P** Creas un muro de carne viva con bocas, ojos o brazos. (PC2)
 - **[Ventisca aullante](/conjuros/ventisca-aullante/) P** Llenas un cono o una explosion con vientos frios y ventisqueros.
 
 ## Conjuros de 6.o rango
@@ -167,6 +182,7 @@ PC = poco comun.
 - **[Forma de dragon](/conjuros/forma-de-dragon/) P** Te conviertes en un dragon.
 - **[Metamorfosis maldita](/conjuros/metamorfosis-maldita/) ** Transformas al objetivo en un animal inofensivo.
 - **[Petrificar](/conjuros/petrificar/) ** Conviertes a una criatura en una estatua de piedra.
+- **[Manada primigenia](/conjuros/manada-primigenia/)** Convocas una manada de bestias primigenias. (PC2)
 - **[Vision verdadera](/conjuros/vision-verdadera/) ** Ves a traves de las ilusiones y de las transformaciones físicas.
 
 ## Conjuros de 7.o rango
@@ -180,6 +196,7 @@ PC = poco comun.
 - **[Jauria indomita](/conjuros/jauria-indomita/) P** Permite a las criaturas evitar los obstáculos medioambientales.
 - **[Mascara del terror](/conjuros/mascara-del-terror/) P** Creas una apariencia ilusoria terrorífica que asusta a los observadores.
 - **[Regenerar](/conjuros/regenerar/) P** Haces que con el tiempo una criatura se cure, le vuelvan a crecer organos y ensamble de nuevo extremidades perdidas.
+- **[Abrigo camaleónico](/conjuros/abrigo-camaleonico/) P** Te vuelves invisible mientras te muevas lentamente. (PC2)
 - **[Teletransporte interplanetarioPC](/conjuros/teletransporte-interplanetariopc/) ** Transportas criaturas a otro Plano en el Multiverso.
 
 ## Conjuros de 8.o rango

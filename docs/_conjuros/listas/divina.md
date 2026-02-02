@@ -5,7 +5,7 @@ title: Lista de Conjuros Divinos
 chapter: Conjuros
 category: conjuros
 nav_order: 6
-source: PC1
+source: PC1+PC2
 ---
 
 Una "P" indica que el conjuro tiene efectos adicionales cuando es potenciado.
@@ -22,9 +22,11 @@ PC = poco común.
 - **[Distorsión del vacío](/conjuros/distorsion-del-vacío/) P** Dañas y debilitas a los vivos con la energía del vacío.
 - **[Escudo](/conjuros/escudo/) P** Haces que un escudo de fuerza mágica bloquee ataques y conjuros.
 - **[Estabilizar](/conjuros/estabilizar/) ** Estabilizas a una criatura moribunda.
+- **[Himno inquietante](/conjuros/himno-inquietante/) P** Ecos de un himno estridente infligen daño sónico. (PC2)
 - **[Lanza divina](/conjuros/lanza-divina/) P** Arrojas energía divina que inflige daño espiritual.
 - **[Leer el aura](/conjuros/leer-el-aura/) P** Detectas si un objeto es mágico.
 - **[Luz](/conjuros/luz/) P** Haces brillar un objeto.
+- **[Megafono](/conjuros/megafono/) P** Amplificas tu voz para ser oído a gran distancia. (PC2)
 - **[Mensaje](/conjuros/mensaje/) P** Comunicas un mensaje a una criatura distante, que puede responder.
 - **[Orientación](/conjuros/orientacion/) ** Tu guía divina hace mejorar una tirada.
 - **[Prestidigitación](/conjuros/prestidigitacion/) ** Llevas a cabo un truco mágico menor.
@@ -40,6 +42,7 @@ PC = poco común.
 - **[Burbuja de aire](/conjuros/burbuja-de-aire/) ** Reaccionas para crear aire que una criatura pueda respirar.
 - **[Cerrar](/conjuros/cerrar/) P** Haces que una cerradura sea mucho más difícil de abrir.
 - **[Convocar muerto viviente](/conjuros/convocar-muerto-viviente/) P** Conjuras a un muerto viviente para que luche por ti.
+- **[Coro concordante](/conjuros/coro-concordante/) P** Desatas una consonancia de sonido que inflige daño sónico. (PC2)
 - **[Crear agua](/conjuros/crear-agua/) ** Conjuras dos galones (8 l) de agua.
 - **[Cuerpo rúnico](/conjuros/cuerpo-runico/) P** Aplicas temporalmente runas mágicas a los ataques sin armas de una criatura.
 - **[Curar](/conjuros/curar/) P** Haces que la energía vital cure a los vivos o dañe a los muertos vivientes, o bien a una sola criatura, o a todas en una explosión.
@@ -47,19 +50,23 @@ PC = poco común.
 - **[Debilitar](/conjuros/debilitar/) ** Minas la fuerza de una criatura.
 - **[Detectar veneno, PC](/conjuros/detectar-venenop,-pc/) P** Determinas si un objeto o criatura es venenoso o está envenenado.
 - **[Infundir vitalidad](/conjuros/infundir-vitalidad/) P** Potencias los ataques con energía vital para dañar a los muertos vivientes.
+- **[Invocar servitor menor](/conjuros/invocar-servitor-menor/) P** Invocas un celestial, infernal o monitor de nivel –1. (PC2)
 - **[Limpiar cocinados](/conjuros/limpiar-cocinados/) ** Haces que la comida y la bebida sean seguros y deliciosos.
 - **[Miedo](/conjuros/miedo/) P** Asustas a una criatura, obligándola posiblemente a huir.
 - **[Orden](/conjuros/orden/) P** Haces que una criatura se acerque, corra, deje caer algo, se tumbe o se ponga de pie.
 - **[Protección](/conjuros/proteccion/) ** Mejoras la CA de una criatura.
 - **[Refugio para mascota](/conjuros/refugio-para-mascota/) ** Escondes a un familiar o compañero animal en una dimensión de bolsillo.
+- **[Regalo considerado](/conjuros/regalo-considerado/) P** Teletransportas un objeto a una criatura voluntaria. (PC2)
 - **[Remendar](/conjuros/remendar/) P** Reparas un objeto no mágico.
 - **[Santuario](/conjuros/santuario/) ** Proteges a una criatura de ser atacada.
+- **[Schadenfreude](/conjuros/schadenfreude/)** Distraes a un enemigo con su satisfacción arrogante. (PC2)
 - **[Ventriloquía](/conjuros/ventriloquia/) P** Proyectas tu voz.
 - **[Vínculo espiritual](/conjuros/vinculo-espiritual/) P** Transfieres continuamente tu salud a alguien más.
 
 ## Conjuros de 2.º rango
 
 - **[Aguante ambiental](/conjuros/aguante-ambiental/) P** Proteges a una criatura de un frío o de un calor severos.
+- **[Ansias de gul](/conjuros/ansias-de-gul/)** Afliges al objetivo con un deseo de comer carne cruda. (PC2)
 - **[Armamento espiritual](/conjuros/armamento-espiritual/) P** Proyectas un arma imbuida de poder espiritual.
 - **[Augurio](/conjuros/augurio/) ** Predices si un curso de acción traerá buena fortuna.
 - **[Calmar](/conjuros/calmar/) ** Suprimes las emociones fuertes y la hostilidad.
@@ -71,14 +78,18 @@ PC = poco común.
 - **[Disipar magia](/conjuros/disipar-magia/) ** Acabas con un conjuro o suprimes la magia de un objeto.
 - **[Estatus](/conjuros/estatus/) P** Controlas la ubicación y el bienestar de una criatura voluntaria.
 - **[Explosión de ruido](/conjuros/explosion-de-ruido/) P** Dañas y ensordeces a las criaturas con un poderoso estrépito.
+- **[Linterna del Segador](/conjuros/linterna-del-segador/)** Invocas una linterna espectral que guía hacia la muerte. (PC2)
 - **[Limpiar aflicción](/conjuros/limpiar-afliccion/) P** Tratas una maldición, enfermedad o veneno.
 - **[Luz eterna](/conjuros/luz-eterna/) ** Haces que una gema brille eternamente.
 - **[Luz reveladora](/conjuros/luz-reveladora/) ** Haces que una luz deslumbrante contrarreste la invisibilidad y la ocultación.
 - **[Montura maravillosa](/conjuros/montura-maravillosa/) P** Conjuras una montura fantástica.
 - **[Oscuridad](/conjuros/oscuridad/) P** Suprimes toda la luz en un área.
 - **[Pisada segura](/conjuros/pisada-segura/) P** Contrarrestas los estados torpe, apresado, paralizado o los relacionados con ellos.
+- **[Plaga subita](/conjuros/plaga-subita/) P** Aceleras los procesos de descomposición en el área. (PC2)
 - **[Resistir energía](/conjuros/resistir-energia/) P** Proteges a una criatura de un tipo de daño por energía.
 - **[Respirar agua](/conjuros/respirar-agua/) P** Permites a las criaturas respirar bajo el agua.
+- **[Sacrificio final](/conjuros/sacrificio-final/) P** Haces explotar a tu esbirro invocado. (PC2)
+- **[Sentido espiritual](/conjuros/sentido-espiritual/) P** Abres tu mente para percibir espíritus cercanos. (PC2)
 - **[Silencio](/conjuros/silencio/) P** Haces enmudecer todos los sonidos de una criatura voluntaria.
 - **[Sordera](/conjuros/sordera/) ** Ensordeces a una criatura.
 - **[Traducir](/conjuros/traducir/) P** Concedes a una criatura comprensión de un idioma.
@@ -92,26 +103,36 @@ PC = poco común.
 - **[Ceguera](/conjuros/ceguera/) ** Dejas ciego a un objetivo.
 - **[Crisis de fe](/conjuros/crisis-de-fe/) P** Causas daño mental y posiblemente haces que un adorador sea incapaz de lanzar conjuros.
 - **[Festín vampírico](/conjuros/festin-vampirico/) P** Infliges daño por vacío y obtienes Puntos de Golpe temporales con un toque.
+- **[Guia del caminante](/conjuros/guia-del-caminante/)** Invocas al más allá para guiar tu ruta. (PC2)
 - **[Hablar con las plantas](/conjuros/hablar-con-las-plantas/) P** Te comunicas con las plantas y con las criaturas del tipo planta.
 - **[Heroísmo](/conjuros/heroísmo/) P** Avivas el heroísmo interior de una criatura para hacerla más competente.
+- **[Incitar esqueletos](/conjuros/incitar-esqueletos/) P** Formas esqueléticas surgen del suelo y agarran criaturas. (PC2)
 - **[Localizar, PC](/conjuros/localizarp,-pc/) P** Averiguas la dirección hasta un objeto.
 - **[Luz sagrada](/conjuros/luz-sagrada/) P** Haces que un rayo de luz ardiente inflija daño adicional a los infernales y a otras criaturas sacrílegas.
 - **[Mensaje onírico](/conjuros/mensaje-onirico/) P** Envías un mensaje que llega dentro de un sueño.
 - **[Oscuridad congeladora](/conjuros/oscuridad-congeladora/) P** Haces que un rayo de oscuridad sacrílega inflija daño por frío, disipe la luz y dañe a los objetivos sagrados.
 - **[Pasaje seguro](/conjuros/pasaje-seguro/) P** Haces que un área sea segura de atravesar.
+- **[Rostro del familiar](/conjuros/rostro-del-familiar/)** Usas a tu familiar como sensor de escrutinio. (PC2)
+- **[Suelo ungido](/conjuros/suelo-ungido/)** Santificas el área, protegiéndola contra ciertos enemigos. (PC2)
 - **[Tañido de la verdad, PC](/conjuros/tanido-de-la-verdad,-pc/) ** Haces sonar una campana cuando se dice la verdad.
 - **[Vincular muertos vivientes](/conjuros/vincular-muertos-vivientes/) ** Tomas el control de un muerto viviente descerebrado.
 
 ## Conjuros de 4.º rango
 
+- **[Ambición apagada](/conjuros/ambicion-apagada/)** Maldices al objetivo para que fracase en sus ambiciones. (PC2)
 - **[Atadura planaria](/conjuros/atadura-planaria/) ** Mantienes a una criatura en su Plano actual.
 - **[Baliza vital](/conjuros/baliza-vital/) P** Irradias vitalidad que cura a las criaturas que te tocan.
 - **[Cadáver parlante, PC](/conjuros/cadaver-parlante,-pc/) ** Haces que un cadáver responda a 3 preguntas.
+- **[Cascada sagrada](/conjuros/cascada-sagrada/) P** Invocas energía sagrada con agua bendita amplificada. (PC2)
+- **[Doncella vampirica](/conjuros/doncella-vampirica/) P** Una doncella de hierro espectral drena vitalidad. (PC2)
 - **[Globo disipador, PC](/conjuros/globo-disipador,-pc/) ** Contrarrestas la magia que entra en esta esfera.
 - **[Ira divina](/conjuros/ira-divina/) P** Dañas y obstaculizas a las criaturas que se oponen a la voluntad de tu dios.
 - **[Leer presagios, PC](/conjuros/leer-presagios,-pc/) ** Obtienes consejo acerca de un suceso que se aproxima.
 - **[Maldición del paria](/conjuros/maldición-del-paria/) ** Maldices a una criatura con ser poco atractiva e insoportable.
 - **[Movimiento sin restricciones](/conjuros/movimiento-sin-restricciones/) ** Repeles los efectos que mantendrían en su lugar a una criatura.
+- **[Sellar destino](/conjuros/sellar-destino/) P** Pronuncias una maldición por la que la criatura encontrará un cierto fin. (PC2)
+- **[Susurros del vacio](/conjuros/susurros-del-vacio/) P** Susurras secretos siniestros que debilitan la fuerza vital. (PC2)
+- **[Tragedia espectral PC](/conjuros/tragedia-espectral/)** Los espíritus recrean un evento violento del pasado. (PC2)
 - **[Volar](/conjuros/volar/) P** Concedes a un objetivo una Velocidad de vuelo.
 
 ## Conjuros de 5.º rango
@@ -126,8 +147,10 @@ PC = poco común.
 - **[Guardián espiritual](/conjuros/guardian-espiritual/) P** Creas un guardián mágico para que ataque a tu orden y sufra daño en lugar de tus aliados.
 - **[Habla verdadera, PC](/conjuros/habla-verdaderap,-pc/) P** Permites a una criatura que hable y entienda todos los idiomas.
 - **[Hablar con las piedras](/conjuros/hablar-con-las-piedras/) P** Te comunicas con la piedra natural y la trabajada.
+- **[Hacerse el muerto](/conjuros/hacerse-el-muerto/) P** Entras en un trance de muerte aparente. (PC2)
 - **[Inmolación divina](/conjuros/inmolacion-divina/) P** Haces caer del cielo fuego divino.
 - **[Invocar espíritus](/conjuros/invocar-espiritus/) P** Llamas a un grupo de apariciones fantasmales para que ataquen a tus enemigos.
+- **[Muro de carne](/conjuros/muro-de-carne/) P** Creas un muro de carne viva con bocas, ojos o brazos. (PC2)
 - **[Ojo explorador](/conjuros/ojo-explorador/) ** Un ojo invisible te transmite lo que ve.
 - **[Recado](/conjuros/recado/) ** Envías un mensaje a una criatura en cualquier parte del planeta y obtienes respuesta.
 
@@ -140,9 +163,11 @@ PC = poco común.
 - **[DominarP, PC](/conjuros/dominarp,-pc/) ** Haces que una criatura tenga que obedecer tus órdenes.
 - **[Explosión espiritual](/conjuros/explosion-espiritual/) P** Dañas la esencia espiritual de una criatura.
 - **[Forma de dragón](/conjuros/forma-de-dragon/) P** Te conviertes en un dragón.
+- **[Forma sagrada](/conjuros/forma-sagrada/) P** Te transformas en un avatar de tu deidad. (PC2)
 - **[Límite bendito](/conjuros/limite-bendito/) P** Manifiestas fuerza divina en forma de una esfera protectora.
 - **[Rechazo](/conjuros/rechazo/) ** Evitas que las criaturas se te aproximen.
 - **[Revivir a los muertos, PC](/conjuros/revivir-a-los-muertosp,-pc/) P** Retornas a la vida a una criatura muerta.
+- **[Salvaguarda centelleante](/conjuros/salvaguarda-centelleante/) P** Creas un escudo de luz que protege contra ataques. (PC2)
 - **[Visión verdadera](/conjuros/vision-verdadera/) ** Ves a través de las ilusiones y de las transformaciones físicas.
 
 ## Conjuros de 7.º rango
@@ -153,12 +178,15 @@ PC = poco común.
 - **[Explosión de eclipse](/conjuros/explosion-de-eclipse/) P** Haces explotar un globo de oscuridad que inflige daño por frío, daña a los vivos y abruma la luz.
 - **[Explosión solar](/conjuros/explosion-solar/) P** Haces que un globo de luz solar inflija daño por fuego, dañe a los muertos vivientes y supere la oscuridad.
 - **[Regenerar](/conjuros/regenerar/) P** Haces que con el tiempo una criatura se cure, le vuelvan a crecer órganos y ensamble de nuevo extremidades perdidas.
+- **[Réplica de conjuro](/conjuros/replica-de-conjuro/)** Copias y devuelves un conjuro que te apunta. (PC2)
 - **[Sello planario, PC](/conjuros/sello-planario,-pc/) ** Alzas una barrera contra el teletransporte y la convocación.
 - **[Teletransporte interplanetario, PC](/conjuros/teletransporte-interplanetario,-pc/) ** Transportas criaturas a otro Plano del Multiverso.
 
 ## Conjuros de 8.º rango
 
+- **[Canción espiritual](/conjuros/cancion-espiritual/) P** Canalizas poder espiritual en una canción que afecta a las criaturas. (PC2)
 - **[Cántico del dolor eterno](/conjuros/cantico-del-dolor-eterno/) ** Cantas una endecha lastimera que asusta y daña mentalmente a un enemigo, anulando sus bonificadores.
+- **[Epidemia espiritual](/conjuros/epidemia-espiritual/) P** Infectas a las criaturas con una enfermedad espiritual. (PC2)
 - **[Inspiración divina](/conjuros/inspiracion-divina/) ** Provocas que una energía espiritual recupere un conjuro gastado de una criatura.
 - **[Momento de renovación](/conjuros/momento-de-renovacion/) ** Concedes a una criatura el equivalente a un día de recuperación en un instante.
 - **[Ubicar](/conjuros/ubicar/) P** Averiguas la ubicación exacta de una criatura u objeto.
@@ -166,7 +194,9 @@ PC = poco común.
 ## Conjuros de 9.º rango
 
 - **[Apoderarse del alma, PC](/conjuros/apoderarse-del-alma,-pc/) ** Atrapas un alma en el interior de un objeto.
+- **[Arma del juicio](/conjuros/arma-del-juicio/) P** Un arma divina gigante castiga a quien desobedece. (PC2)
 - **[Aullidos de los condenados](/conjuros/aullidos-de-los-condenados/) ** Gritas, drenando a los vivos y causando daño por vacío.
+- **[Exigencia telepática](/conjuros/exigencia-telepatica/)** Envías un mensaje telepático con efecto de sugerencia. (PC2)
 - **[Masacre](/conjuros/masacre/) P** Matas instantáneamente a múltiples criaturas.
 - **[Presciencia](/conjuros/presciencia/) ** Un sentido del peligro te avisa cuando una criatura está en peligro y la protege con buena fortuna.
 - **[Presencia abrumadora](/conjuros/presencia-abrumadora/) ** Asumes la majestad de un dios.

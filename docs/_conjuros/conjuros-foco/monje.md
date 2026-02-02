@@ -1,0 +1,175 @@
+---
+layout: page
+permalink: /conjuros/conjuros-foco/monje/
+title: Conjuros de Foco: Monje
+chapter: Conjuros
+category: conjuros
+nav_order: 9
+source: PC2
+---
+
+Los conjuros de foco del monje se conocen como **conjuros de qi**. Estos poderosos conjuros canalizan la energía vital interna del monje, permitiéndole realizar hazañas sobrehumanas de combate, movimiento y resistencia.
+
+---
+
+## Conjuros de Qi
+
+### Agitación Interna ◆ FOCO 1
+**Rasgos:** Poco común, Concentración, Foco, Monje
+
+Canalizas tu qi en ataques mágicos devastadores. Realiza un Golpe desarmado o Ráfaga de Golpes (esto no cambia el límite de usar solo una floritura por turno). Obtienes un bonificador de estado +1 a tus tiradas de ataque con los Golpes, y los Golpes infligen 1d6 de daño adicional. Este daño puede ser de cualquiera de los siguientes tipos a tu elección, elegido cada vez que realizas un Golpe: fuerza, espíritu, vitalidad o vacío.
+
+**Potenciado (+4)** El daño adicional aumenta en 1d6.
+
+---
+
+### Ímpetu de Qi ◆ FOCO 1
+**Rasgos:** Poco común, Concentración, Foco, Monje
+
+Acelerado por tu qi, te mueves con tal velocidad que te vuelves un borrón. Muévete dos veces: dos Avances, dos Pasos, o un Avance y un Paso (en cualquier orden). Obtienes la condición de oculto durante este movimiento y hasta el comienzo de tu siguiente turno.
+
+---
+
+## Conjuros de Qi Avanzados
+
+### Explosión de Qi ◆ a ◆◆◆ FOCO 3
+**Rasgos:** Poco común, Concentración, Foco, Fuerza, Manipular, Monje
+**Área:** cono de 15 pies o más
+**Defensa:** Fortaleza
+
+Liberas tu qi como una poderosa explosión que inflige 2d6 de daño de fuerza. Si usas 2 acciones para lanzar explosión de qi, aumenta el tamaño del cono a 30 pies y el daño a 3d6. Si usas 3 acciones para lanzar explosión de qi, aumenta el cono a 60 pies y el daño a 4d6. Cada criatura en el área debe intentar una salvación de Fortaleza.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura sufre la mitad de daño.
+
+**Fallo** La criatura sufre el daño completo y es empujada 5 pies.
+
+**Fallo crítico** La criatura sufre el doble de daño y es empujada 10 pies.
+
+**Potenciado (+1)** El daño aumenta en 1d6, o en 2d6 si usas 2 o 3 acciones.
+
+---
+
+### Acortar la Distancia ◆ FOCO 3
+**Rasgos:** Poco común, Foco, Manipular, Monje, Teletransportación
+**Alcance:** ver texto
+
+El mundo parece encogerse ante tus pisadas. Te teletransportas hasta una distancia igual a tu Velocidad dentro de tu línea de visión.
+
+---
+
+## Conjuros de Qi de Maestro
+
+### Ira de la Medusa ◆◆ FOCO 8
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
+
+Realizas un ataque imbuido del poder petrificador de una medusa. Haz un Golpe desarmado con los siguientes efectos adicionales.
+
+**Éxito crítico** El objetivo queda ralentizado 2 y debe intentar una salvación de Fortaleza al final de cada uno de sus turnos; esta salvación continua tiene el rasgo de incapacitación. En una salvación fallida, la condición ralentizado aumenta en 1 (2 en un fallo crítico). Una salvación exitosa reduce la condición ralentizado en 1. Cuando una criatura no puede actuar debido a la condición ralentizado por ira de la medusa, queda petrificada permanentemente. El conjuro termina si la criatura queda petrificada o si se elimina la condición ralentizado.
+
+**Éxito** Como en éxito crítico, pero el objetivo queda inicialmente ralentizado 1.
+
+---
+
+### Toque de Muerte ◆◆ FOCO 8
+**Rasgos:** Poco común, Concentración, Foco, Incapacitación, Manipular, Monje
+**Defensa:** Fortaleza; **Duración:** 1 mes
+
+Realiza un Golpe desarmado cuerpo a cuerpo. Si impactas y el objetivo está vivo, en cualquier momento durante la duración puedes gastar una sola acción, que tiene los rasgos auditivo y concentración, para pronunciar una palabra de muerte que podría matarlo al instante. El objetivo debe intentar una salvación de Fortaleza.
+
+**Éxito crítico** El objetivo sobrevive, el conjuro termina y el objetivo queda temporalmente inmune durante 24 horas.
+
+**Éxito** El objetivo queda aturdido 1 y sufre 40 de daño, el conjuro termina y el objetivo queda temporalmente inmune durante 24 horas.
+
+**Fallo** El objetivo queda aturdido 3 y sufre 80 de daño. La duración del conjuro continúa, pero el objetivo queda temporalmente inmune durante 24 horas a ser muerto por toque de muerte.
+
+**Fallo crítico** El objetivo muere.
+
+Si lanzas toque de muerte de nuevo, los efectos de cualquier toque de muerte que hubieras lanzado previamente terminan.
+
+**Potenciado (+1)** El daño aumenta en 10 en un fallo, o en 5 en un éxito.
+
+---
+
+## Conjuros de Qi de Gran Maestro
+
+### Abrazar la Nada ◆◆ FOCO 9
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
+**Duración:** 1 minuto
+
+Vacías tu cuerpo de sustancia, volviéndote uno con la nada. Ganas resistencia al daño físico igual a tu nivel. Te mueves a la mitad de tu Velocidad normal, pero puedes moverte en cualquier dirección (incluyendo arriba y abajo). Mientras te mueves, estás oculto. Cuando no es tu turno y durante tu turno hasta que realizas una acción con el rasgo de movimiento, eres invisible. Puedes atravesar objetos sólidos inanimados siempre que no tengan más de 2 pies de grosor.
+
+---
+
+### Forma de Qi ◆ FOCO 9
+**Rasgos:** Poco común, Concentración, Foco, Monje, Polimorfo
+**Duración:** 1 minuto
+
+Extrayendo de profundos pozos de poder espiritual, adoptas una forma especial de qi. En tu forma de qi, tu cabello, plumas, piel o escamas cambian de color y empiezan a brillar. En esta forma, ganas una Velocidad de vuelo igual a tu Velocidad terrestre. Elige daño de fuerza, espíritu, vitalidad o vacío. Todos tus Golpes infligen 1d6 de daño adicional del tipo elegido. Todo tu cuerpo también está rodeado por una corona brillante del mismo color que tu qi interior; esto es un efecto de luz. Tu corona es un aura en una emanación de 5 pies que inflige 2d6 de daño del tipo elegido a las criaturas que comienzan su turno dentro de la emanación. Si la emanación se superpone con un efecto de oscuridad, el brillo de la corona intenta contrarrestar la oscuridad. Independientemente del resultado, la corona no puede intentar contrarrestar ese efecto de nuevo durante 1 día. Puedes Mantener para expandir tu corona hasta convertirse en una emanación de 30 pies o devolver la corona a una emanación de 5 pies.
+
+En tu forma de qi, tus emociones toman protagonismo y es difícil moderar tus ataques. Tus armas y ataques desarmados pierden el rasgo no letal. Sufres un penalizador de estado –2 a las salvaciones contra efectos de emoción pero obtienes un bonificador de estado +2 a las salvaciones contra todos los demás efectos mentales.
+
+---
+
+## Posturas de Qi y Habilidades de Postura de Qi
+
+### Postura de Sombras Adherentes ◆ FOCO 4
+**Rasgos:** Poco común, Foco, Manipular, Monje, Sombra, Postura
+**Duración:** hasta que abandones la postura
+
+Adoptas la postura de sombras adherentes. Puedes realizar Golpes de garra de sombra. Estos infligen 1d4 de daño de vacío; están en el grupo de pugilato; y tienen los rasgos ágil, agarrar, alcance y desarmado. Mientras estés en la postura de sombras adherentes, obtienes un bonificador circunstancial +2 a las pruebas de Atletismo para Agarrar, y a la CD para que las criaturas Escapen de ti.
+
+---
+
+### Postura de Vientos Salvajes ◆ FOCO 4
+**Rasgos:** Poco común, Aire, Foco, Manipular, Monje, Postura
+**Duración:** hasta que abandones la postura
+
+Adoptas la postura de los vientos fluidos, enviando ondas de energía a distancia. Puedes realizar Golpes desarmados de choque de viento como Golpes a distancia contra objetivos a 30 pies. Estos infligen 1d6 de daño contundente; están en el grupo de pugilato; y tienen los rasgos ágil, no letal, propulsivo y desarmado. Los Golpes de choque de viento ignoran la ocultación y toda cobertura.
+
+Mientras estés en la postura de vientos salvajes, obtienes un bonificador circunstancial +2 a la CA contra ataques a distancia.
+
+---
+
+### Red de la Sombra ◆◆ FOCO 7
+**Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
+**Requisitos:** Estás en la postura de sombras adherentes.
+**Área:** emanación de 30 pies
+**Defensa:** Fortaleza
+
+Oscuridad aferradora surge de ti, infligiendo 14d4 de daño de vacío. Cada criatura en el área debe intentar una salvación de Fortaleza.
+
+**Éxito crítico** La criatura no se ve afectada.
+
+**Éxito** La criatura sufre la mitad de daño y queda debilitada 1 durante 1 asalto.
+
+**Fallo** La criatura sufre el daño completo y queda debilitada 2 durante 1 asalto.
+
+**Fallo crítico** La criatura sufre el doble de daño, queda aturdida 1 y debilitada 2 durante 1 asalto, e inmovilizada durante 1 asalto o hasta que Escape, lo que ocurra primero.
+
+**Potenciado (+1)** El daño de vacío aumenta en 2d4.
+
+---
+
+## Otros Conjuros de Qi
+
+### Armonizarse ◆ FOCO 2
+**Rasgos:** Poco común, Concentración, Foco, Sanación, Monje, Vitalidad
+
+Te curas de una de las siguientes maneras, elegida por ti al lanzar el conjuro.
+
+- Recuperas 8 Puntos de Golpe.
+- Intentas curar un veneno o enfermedad que te afecte; intenta contrarrestar la aflicción.
+
+**Potenciado (+1)** Si eliges recuperar Puntos de Golpe, los Puntos de Golpe recuperados aumentan en 8.
+
+---
+
+### Salto de Viento ◆ FOCO 5
+**Rasgos:** Poco común, Aire, Concentración, Foco, Monje
+**Duración:** 1 minuto
+
+Ganas una Velocidad de vuelo igual a tu Velocidad. Debes terminar tu turno sobre terreno sólido, o caes.
+
+**Potenciado (6º)** Al final de tu turno, puedes intentar una prueba de Acrobacias CD 30 para afianzarte en el aire. Si tienes éxito, no caes.

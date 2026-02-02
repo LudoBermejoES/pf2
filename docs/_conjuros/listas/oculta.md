@@ -5,7 +5,7 @@ title: Lista de Conjuros Ocultistas
 chapter: Conjuros
 category: conjuros
 nav_order: 6
-source: PC1
+source: PC1+PC2
 ---
 
 Una "P" indica que el conjuro tiene efectos adicionales cuando es potenciado.
@@ -21,9 +21,11 @@ PC = poco comun.
 - **[Distorsion del vacío](/conjuros/distorsion-del-vacío/) P** Danas y debilitas a los vivos con la energia del dacio.
 - **[Escudo](/conjuros/escudo/) P** Haces que un escudo de fuerza magica bloquee ataques y conjuros.
 - **[Fantasia](/conjuros/fantasia/) ** Creas una ilusión auditiva o visual sencilla.
+- **[Himno inquietante](/conjuros/himno-inquietante/) P** Ecos de un himno estridente infligen daño sónico. (PC2)
 - **[Leer el aura](/conjuros/leer-el-aura/) P** Detectas si un objeto es magico.
 - **[Luz](/conjuros/luz/) P** Haces brillar un objeto.
 - **[Mano telecinetica](/conjuros/mano-telecinetica/) P** Mueves un objeto con una mano flotante.
+- **[Megafono](/conjuros/megafono/) P** Amplificas tu voz para ser oído a gran distancia. (PC2)
 - **[Mensaje](/conjuros/mensaje/) P** Comunicas un mensaje a una criatura distante, que puede responder.
 - **[Orientación](/conjuros/orientacion/) ** Tu guia divina hace mejorar una tirada.
 - **[Prestidigitacion](/conjuros/prestidigitacion/) ** Llevas a cabo un truco magico menor.
@@ -62,6 +64,11 @@ PC = poco comun.
 - **[Refugio para mascota](/conjuros/refugio-para-mascota/) ** Escondes a un familiar o compañero animal en una dimension de bolsillo.
 - **[Remendar](/conjuros/remendar/) P** Reparas un objeto no magico.
 - **[Santuario](/conjuros/santuario/) ** Proteges a una criatura de ser atacada.
+- **[Coro concordante](/conjuros/coro-concordante/) P** Desatas una consonancia de sonido que inflige daño sónico. (PC2)
+- **[Déjà vu](/conjuros/deja-vu/) P** Haces que el objetivo repita sus acciones anteriores. (PC2)
+- **[Invocar servitor menor](/conjuros/invocar-servitor-menor/) P** Invocas un celestial, infernal o monitor de nivel –1. (PC2)
+- **[Regalo considerado](/conjuros/regalo-considerado/) P** Teletransportas un objeto a una criatura voluntaria. (PC2)
+- **[Schadenfreude](/conjuros/schadenfreude/)** Distraes a un enemigo con su satisfacción arrogante. (PC2)
 - **[Ventriloquia](/conjuros/ventriloquia/) P** Proyectas tu voz.
 - **[Vinculo espiritual](/conjuros/vinculo-espiritual/) P** Transfieres continuamente tu salud a alguien mas.
 - **[Zarcillos macabros](/conjuros/zarcillos-macabros/) P** Haces que las criaturas en una linea sufran dano por dacio y sangren.
@@ -100,9 +107,14 @@ PC = poco comun.
 - **[Sordera](/conjuros/sordera/) ** Ensordeces a una criatura.
 - **[Traducir](/conjuros/traducir/) P** Concedes a una criatura comprensión de un idioma.
 - **[Tranquilo descanso](/conjuros/tranquilo-descanso/) P** Un cadaver no se descompone y no puede convertirse en muerto viviente.
+- **[Ansias de gul](/conjuros/ansias-de-gul/)** Afliges al objetivo con un deseo de comer carne cruda. (PC2)
+- **[Invectiva abrasadora](/conjuros/invectiva-abrasadora/) P** Tus insultos infligen daño de fuego y hacen huir al objetivo. (PC2)
+- **[Linterna del Segador](/conjuros/linterna-del-segador/)** Invocas una linterna espectral que guía hacia la muerte. (PC2)
+- **[Sentido espiritual](/conjuros/sentido-espiritual/) P** Abres tu mente para percibir espíritus cercanos. (PC2)
 - **[Vendetta de sangre](/conjuros/vendetta-de-sangre/) P** Haces que una criatura que te ataca empiece a sangrar.
 - **[Ver lo invisible](/conjuros/ver-lo-invisible/) P** Revelas criaturas invisibles a tu vista.
 - **[Vision en la oscuridad](/conjuros/vision-en-la-oscuridad/) P** Ves en la oscuridad.
+- **[Vomitar enjambre](/conjuros/vomitar-enjambre/) P** Eructas un enjambre de alimañas mágicas. (PC2)
 
 ## Conjuros de 3.er rango
 
@@ -123,7 +135,12 @@ PC = poco comun.
 - **[LocalizarP, PC](/conjuros/localizarp,-pc/) ** Averiguas la dirección hasta un objeto.
 - **[Mensaje onirico](/conjuros/mensaje-onirico/) P** Envias un mensaje que llega dentro de un sueño.
 - **[Paralizar](/conjuros/paralizar/) P** Inmovilizas a una criatura donde esta.
+- **[Drenaje de croma](/conjuros/drenaje-de-croma/)** Extraes el color de las criaturas, infligiendo daño y cegándolas. (PC2)
+- **[Guia del caminante](/conjuros/guia-del-caminante/)** Invocas al más allá para guiar tu ruta. (PC2)
+- **[Incitar esqueletos](/conjuros/incitar-esqueletos/) P** Formas esqueléticas surgen del suelo y agarran criaturas. (PC2)
+- **[Rostro del familiar](/conjuros/rostro-del-familiar/)** Usas a tu familiar como sensor de escrutinio. (PC2)
 - **[Tanido de la verdadPC](/conjuros/tanido-de-la-verdadpc/) ** Haces sonar una campana cuando se dice la verdad.
+- **[Triple aspecto](/conjuros/triple-aspecto/)** Cambias entre tres versiones de ti mismo de diferentes edades. (PC2)
 - **[Velo de privacidadPC](/conjuros/velo-de-privacidadpc/) ** Proteges a una criatura u objeto de la detección magica.
 - **[Vincular muertos vivientes](/conjuros/vincular-muertos-vivientes/) ** Tomas el control de un muerto viviente descerebrado.
 
@@ -148,6 +165,13 @@ PC = poco comun.
 - **[Reescribir recuerdoP, PC](/conjuros/reescribir-recuerdop,-pc/) ** Alteras, borras o implantas memorias.
 - **[Sugerencia](/conjuros/sugerencia/) P** Sugieres un curso de acción que una criatura debe seguir.
 - **[Telepatia](/conjuros/telepatia/) P** Te comunicas telepaticamente con cualquier criatura que tienes cerca.
+- **[Ambición apagada](/conjuros/ambicion-apagada/)** Maldices al objetivo para que fracase en sus ambiciones. (PC2)
+- **[Doncella vampirica](/conjuros/doncella-vampirica/) P** Una doncella de hierro espectral drena vitalidad. (PC2)
+- **[Geometría extraña](/conjuros/geometria-extrana/)** Alteras la geometría del espacio, dificultando el movimiento. (PC2)
+- **[Sellar destino](/conjuros/sellar-destino/) P** Pronuncias una maldición por la que la criatura encontrará un cierto fin. (PC2)
+- **[Sinestesia](/conjuros/sinestesia/) P** Sobresaturas los sentidos del objetivo con información sensorial conflictiva. (PC2)
+- **[Susurros del vacio](/conjuros/susurros-del-vacio/) P** Susurras secretos siniestros que debilitan la fuerza vital. (PC2)
+- **[Tragedia espectral PC](/conjuros/tragedia-espectral/)** Los espíritus recrean un evento violento del pasado. (PC2)
 - **[Vision de la muerte](/conjuros/vision-de-la-muerte/) ** Muestras al objetivo una vision de su propia muerte, causandole miedo y dano mental.
 - **[Volar](/conjuros/volar/) P** Concedes a un objetivo una Velocidad de vuelo.
 
@@ -172,6 +196,9 @@ PC = poco comun.
 - **[Pulso sinaptico](/conjuros/pulso-sinaptico/) P** Lentificas a las criaturas con una explosion mental.
 - **[Recado](/conjuros/recado/) ** Envias un mensaje a una criatura en cualquier parte del planeta y obtienes respuesta.
 - **[Sonda mentalPC](/conjuros/sonda-mentalpc/) ** Descubres conocimientos y recuerdos en la mente de una criatura.
+- **[Hacerse el muerto](/conjuros/hacerse-el-muerto/) P** Entras en un trance de muerte aparente. (PC2)
+- **[Muro de carne](/conjuros/muro-de-carne/) P** Creas un muro de carne viva con bocas, ojos o brazos. (PC2)
+- **[Sinestesia de grupo](/conjuros/sinestesia-de-grupo/) P** Sobresaturas los sentidos de múltiples objetivos. (PC2)
 - **[Sugerencia subconsciente](/conjuros/sugerencia-subconsciente/) P** Plantas una sugerencia en la mente de una criatura, que esta ha de seguir tras un desencadenante.
 - **[Viaje umbrioPC](/conjuros/viaje-umbriopc/) ** Viajas rapidamente via el Informando.
 
@@ -192,6 +219,7 @@ PC = poco comun.
 - **[No importa](/conjuros/no-importa/) ** Dejas a una criatura anonadada de forma permanente.
 - **[Rechazo](/conjuros/rechazo/) ** Evitas que las criaturas se te aproximen.
 - **[TeletransporteP, PC](/conjuros/teletransportep,-pc/) ** Te transportas a gran distancia a ti mismo y a criaturas voluntarias.
+- **[Salvaguarda centelleante](/conjuros/salvaguarda-centelleante/) P** Creas un escudo de luz que protege contra ataques. (PC2)
 - **[Vision verdadera](/conjuros/vision-verdadera/) ** Ves a traves de las ilusiones y de las transformaciones físicas.
 
 ## Conjuros de 7.o rango
@@ -204,9 +232,11 @@ PC = poco comun.
 - **[Palacio planarioPC](/conjuros/palacio-planariopc/) ** Conjuras un alojamiento seguro en un semiplano.
 - **[PosesionP, PC](/conjuros/posesionp,-pc/) ** Envias tu mente y tu alma al cuerpo de otra criatura.
 - **[Proyectar imagen](/conjuros/proyectar-imagen/) P** Creas un ilusión de ti mismo a traves de la cual puedes lanzar conjuros.
+- **[Réplica de conjuro](/conjuros/replica-de-conjuro/)** Copias y devuelves un conjuro que te apunta. (PC2)
 - **[Retrocognicion](/conjuros/retrocognicion/) P** Sientes impresiones de los sucesos pasados en el lugar en el que estas.
 - **[Sello planarioPC](/conjuros/sello-planariopc/) ** Alzas una barrera contra el teletransporte y la convocación.
 - **[Teletransporte interplanetarioPC](/conjuros/teletransporte-interplanetariopc/) ** Transportas criaturas a otro Plano en el Multiverso.
+- **[Visiones de peligro](/conjuros/visiones-de-peligro/) P** Una ilusión de criaturas horribles inflige daño mental. (PC2)
 
 ## Conjuros de 8.o rango
 
@@ -216,6 +246,8 @@ PC = poco comun.
 - **[Dilema](/conjuros/dilema/) ** Atrapas a una criatura en un rompecabezas extradimensional.
 - **[Observacion implacable](/conjuros/observacion-implacable/) ** Otras criaturas y tu rastreáis a un sujeto de forma exacta utilizando el escudriñamiento.
 - **[Ocultar la mente](/conjuros/ocultar-la-mente/) P** Proteges a una criatura de la magia mental y de los efectos que curiosean en sus secretos.
+- **[Canción espiritual](/conjuros/cancion-espiritual/) P** Canalizas poder espiritual en una canción que afecta a las criaturas. (PC2)
+- **[Epidemia espiritual](/conjuros/epidemia-espiritual/) P** Infectas a las criaturas con una enfermedad espiritual. (PC2)
 - **[Ubicar](/conjuros/ubicar/) P** Averiguas la ubicación exacta de una criatura u objeto.
 
 ## Conjuros de 9.o rango
@@ -225,6 +257,7 @@ PC = poco comun.
 - **[Canción insondable](/conjuros/canción-insondable/) ** Haces que una canción debilite a las criaturas de formas extrañas y poderosas.
 - **[Fantasmagoria](/conjuros/fantasmagoria/) ** Asustas, infliges dano mental y posiblemente matas a muchos objetivos.
 - **[Presciencia](/conjuros/presciencia/) ** Un sentido del peligro te avisa cuando una criatura esta en peligro y la protege con buena fortuna.
+- **[Exigencia telepática](/conjuros/exigencia-telepatica/)** Envías un mensaje telepático con efecto de sugerencia. (PC2)
 - **[Presencia abrumadora](/conjuros/presencia-abrumadora/) ** Asumes la majestad de un dios.
 
 ## Conjuros de 10.o rango
