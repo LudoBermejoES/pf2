@@ -14,9 +14,9 @@ Despachabas mercancías a cambio de dinero (o las intercambiabas) en una tienda 
 
 **Mejoras de atributo:** Una a Inteligencia o Carisma, otra gratuita
 
-**Habilidades:** Diplomacia, Saber (mercantil)
+**Habilidades:** [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}), Saber (mercantil)
 
-**Dote:** Buscador de gangas
+**Dote:** [Buscador de gangas]({{ '/dotes/habilidad/buscador-de-gangas/' | relative_url }})
 
 ---
 

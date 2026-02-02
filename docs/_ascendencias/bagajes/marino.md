@@ -14,9 +14,9 @@ Oíste la llamada del mar desde muy temprana edad. Quizá te enrolaste en un mer
 
 **Mejoras de atributo:** Una a Fuerza o Destreza, otra gratuita
 
-**Habilidades:** Atletismo, Saber (navegar)
+**Habilidades:** [Atletismo]({{ '/habilidades/atletismo/' | relative_url }}), Saber (navegar)
 
-**Dote:** Merodeador subacuático
+**Dote:** [Merodeador subacuático]({{ '/dotes/habilidad/merodeador-subacuatico/' | relative_url }})
 
 ---
 

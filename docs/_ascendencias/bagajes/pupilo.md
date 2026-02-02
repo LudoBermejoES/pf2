@@ -14,7 +14,7 @@ Cuando eras joven, te convertiste en pupilo de otra casa—alojado, alimentado y
 
 Elige dos mejoras de atributo. Una debe ser a **Constitución** o **Carisma**, y una es una mejora libre.
 
-Estás entrenado en **Interpretación** y en **Saber sobre genealogía**. Obtienes la dote de habilidad **Actuación fascinante**.
+Estás entrenado en **[Interpretación]({{ '/habilidades/interpretacion/' | relative_url }})** y en **Saber sobre genealogía**. Obtienes la dote de habilidad **[Interpretación fascinante]({{ '/dotes/habilidad/interpretacion-fascinante/' | relative_url }})**.
 
 ---
 

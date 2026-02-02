@@ -14,9 +14,9 @@ Has perseguido y abatido animales y otras criaturas de las tierras vírgenes. De
 
 **Mejoras de atributo:** Una a Destreza o Sabiduría, otra gratuita
 
-**Habilidades:** Supervivencia, Saber (curtición)
+**Habilidades:** [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}), Saber (curtición)
 
-**Dote:** Supervisar vida salvaje
+**Dote:** [Supervisor de la fauna]({{ '/dotes/habilidad/supervisor-de-la-fauna/' | relative_url }})
 
 ---
 

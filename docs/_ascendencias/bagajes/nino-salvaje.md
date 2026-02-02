@@ -16,7 +16,7 @@ Pasaste tu juventud en la naturaleza, viviendo cerca de animales o quizá criado
 
 Elige una mejora de atributo. Debe ser a **Fuerza**, **Destreza** o **Constitución**.
 
-Estás entrenado en **Naturaleza** y **Supervivencia**. Obtienes **visión en penumbra** (o **visión en la oscuridad** si ya tenías visión en penumbra), **olfato impreciso** con un alcance de 30 pies, y la dote de habilidad **Recolector**.
+Estás entrenado en **[Naturaleza]({{ '/habilidades/naturaleza/' | relative_url }})** y **[Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }})**. Obtienes **visión en penumbra** (o **visión en la oscuridad** si ya tenías visión en penumbra), **olfato impreciso** con un alcance de 30 pies, y la dote de habilidad **[Forrajeador]({{ '/dotes/habilidad/forrajeador/' | relative_url }})**.
 
 ---
 

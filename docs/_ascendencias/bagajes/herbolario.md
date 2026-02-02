@@ -14,9 +14,9 @@ Como boticario formalmente entrenado o practicante rural de la medicina popular,
 
 **Mejoras de atributo:** Una a Constitución o Sabiduría, otra gratuita
 
-**Habilidades:** Naturaleza, Saber (hierbas)
+**Habilidades:** [Naturaleza]({{ '/habilidades/naturaleza/' | relative_url }}), Saber (hierbas)
 
-**Dote:** Medicina natural
+**Dote:** [Medicina natural]({{ '/dotes/habilidad/medicina-natural/' | relative_url }})
 
 ---
 

@@ -14,9 +14,9 @@ Tu arte es tu mayor pasión, sea cual sea la forma que adopta. Salir de aventura
 
 **Mejoras de atributo:** Una a Destreza o Carisma, otra gratuita
 
-**Habilidades:** Artesanía, Saber (arte)
+**Habilidades:** [Artesanía]({{ '/habilidades/artesania/' | relative_url }}), Saber (arte)
 
-**Dote:** Especialidad artesana
+**Dote:** [Especialidad artesana]({{ '/dotes/habilidad/especialidad-artesana/' | relative_url }})
 
 ---
 

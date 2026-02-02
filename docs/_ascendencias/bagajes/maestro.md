@@ -14,9 +14,9 @@ Eres increíblemente culto, hábil y quizás incluso estás entrenado en enseña
 
 **Mejoras de atributo:** Una a Inteligencia o Sabiduría, otra gratuita
 
-**Habilidades:** Interpretar o Sociedad (elige una), Saber (academia)
+**Habilidades:** [Interpretación]({{ '/habilidades/interpretacion/' | relative_url }}) o [Sociedad]({{ '/habilidades/sociedad/' | relative_url }}) (elige una), Saber (academia)
 
-**Dote:** Profesional experto
+**Dote:** [Profesional experto]({{ '/dotes/habilidad/profesional-experto/' | relative_url }})
 
 ---
 

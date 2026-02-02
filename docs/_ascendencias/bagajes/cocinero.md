@@ -14,9 +14,9 @@ Creciste en la cocina de una taberna u otro establecimiento de comidas y allí l
 
 **Mejoras de atributo:** Una a Constitución o Inteligencia, otra gratuita
 
-**Habilidades:** Supervivencia, Saber (cocina)
+**Habilidades:** [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}), Saber (cocina)
 
-**Dote:** Conocedor
+**Dote:** [Conocedor]({{ '/dotes/habilidad/conocedor/' | relative_url }})
 
 ---
 

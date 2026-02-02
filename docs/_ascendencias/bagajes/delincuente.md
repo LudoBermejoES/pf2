@@ -14,9 +14,9 @@ Como un independiente carente de escrúpulos o como miembro de una organización
 
 **Mejoras de atributo:** Una a Destreza o Inteligencia, otra gratuita
 
-**Habilidades:** Sigilo, Saber (bajos fondos)
+**Habilidades:** [Sigilo]({{ '/habilidades/sigilo/' | relative_url }}), Saber (bajos fondos)
 
-**Dote:** Contrabandista experto
+**Dote:** [Contrabandista experto]({{ '/dotes/habilidad/contrabandista-experto/' | relative_url }})
 
 ---
 

@@ -14,9 +14,9 @@ Has pasado años llevando a cabo trabajos físicos arduos. Era una vida difícil
 
 **Mejoras de atributo:** Una a Fuerza o Constitución, otra gratuita
 
-**Habilidades:** Atletismo, Saber (trabajo)
+**Habilidades:** [Atletismo]({{ '/habilidades/atletismo/' | relative_url }}), Saber (trabajo)
 
-**Dote:** Porteador recio
+**Dote:** [Porteador recio]({{ '/dotes/habilidad/porteador-recio/' | relative_url }})
 
 ---
 

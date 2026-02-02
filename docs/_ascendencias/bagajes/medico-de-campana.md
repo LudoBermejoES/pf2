@@ -14,9 +14,9 @@ En el caótico ajetreo de la batalla, aprendiste a adaptarte a condiciones rápi
 
 **Mejoras de atributo:** Una a Constitución o Sabiduría, otra gratuita
 
-**Habilidades:** Medicina, Saber (guerra)
+**Habilidades:** [Medicina]({{ '/habilidades/medicina/' | relative_url }}), Saber (guerra)
 
-**Dote:** Medicina de batalla
+**Dote:** [Medicina de guerra]({{ '/dotes/habilidad/medicina-de-guerra/' | relative_url }})
 
 ---
 

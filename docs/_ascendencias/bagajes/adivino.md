@@ -14,9 +14,9 @@ Las hebras del Destino son claras para ti, puesto que has aprendido muchas de la
 
 **Mejoras de atributo:** Una a Inteligencia o Carisma, otra gratuita
 
-**Habilidades:** Ocultismo, Saber (buenaventura)
+**Habilidades:** [Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }}), Saber (buenaventura)
 
-**Dote:** Identificación de rarezas
+**Dote:** [Identificar extranezas]({{ '/dotes/habilidad/identificar-extranezas/' | relative_url }})
 
 ---
 

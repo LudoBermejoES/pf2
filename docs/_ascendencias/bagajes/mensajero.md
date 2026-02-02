@@ -14,7 +14,7 @@ En tu juventud, ganaste monedas llevando mensajes para personas con riqueza e in
 
 Elige dos mejoras de atributo. Una debe ser a **Destreza** o **Inteligencia**, y una es una mejora libre.
 
-Estás entrenado en **Sociedad** y en **Saber sobre tu ciudad de origen**. Obtienes la dote de habilidad **Deducir contenido**.
+Estás entrenado en **[Sociedad]({{ '/habilidades/sociedad/' | relative_url }})** y en **Saber sobre tu ciudad de origen**. Obtienes la dote de habilidad **Deducir contenido**.
 
 ---
 

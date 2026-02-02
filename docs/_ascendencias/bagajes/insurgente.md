@@ -14,7 +14,7 @@ Fuiste más que un rebelde; fuiste un revolucionario, luchando por la promesa de
 
 Elige dos mejoras de atributo. Una debe ser a **Fuerza** o **Sabiduría**, y una es una mejora libre.
 
-Estás entrenado en **Engaño** y en **Saber sobre guerra**. Obtienes la dote de habilidad **Distracción prolongada**.
+Estás entrenado en **[Engaño]({{ '/habilidades/engano/' | relative_url }})** y en **Saber sobre guerra**. Obtienes la dote de habilidad **[Distracción extensa]({{ '/dotes/habilidad/distraccion-extensa/' | relative_url }})**.
 
 ---
 

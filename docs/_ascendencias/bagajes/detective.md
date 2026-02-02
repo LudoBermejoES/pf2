@@ -14,9 +14,9 @@ Resolviste delitos como inspector de policía o bien aceptaste trabajos de clien
 
 **Mejoras de atributo:** Una a Inteligencia o Sabiduría, otra gratuita
 
-**Habilidades:** Sociedad, Saber (bajos fondos)
+**Habilidades:** [Sociedad]({{ '/habilidades/sociedad/' | relative_url }}), Saber (bajos fondos)
 
-**Dote:** Callejeo
+**Dote:** [Callejeo]({{ '/dotes/habilidad/callejeo/' | relative_url }})
 
 ---
 

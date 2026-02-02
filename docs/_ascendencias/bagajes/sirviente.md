@@ -14,7 +14,7 @@ Desempeñaste un papel de servidumbre, atendiendo a nobles y ganándote su confi
 
 Elige dos mejoras de atributo. Una debe ser a **Destreza** o **Carisma**, y una es una mejora libre.
 
-Estás entrenado en **Sociedad** y en **Saber sobre trabajo**. Obtienes la dote de habilidad **Leer labios**.
+Estás entrenado en **[Sociedad]({{ '/habilidades/sociedad/' | relative_url }})** y en **Saber sobre trabajo**. Obtienes la dote de habilidad **[Leer los labios]({{ '/dotes/habilidad/leer-los-labios/' | relative_url }})**.
 
 ---
 

@@ -14,9 +14,9 @@ Has viajado de un lugar a otro, vendiendo falsos amuletos y aceite de serpiente 
 
 **Mejoras de atributo:** Una a Inteligencia o Carisma, otra gratuita
 
-**Habilidades:** Engaño, Saber (bajos fondos)
+**Habilidades:** [Engaño]({{ '/habilidades/engano/' | relative_url }}), Saber (bajos fondos)
 
-**Dote:** Mentiroso encantador
+**Dote:** [Mentiroso encantador]({{ '/dotes/habilidad/mentiroso-encantador/' | relative_url }})
 
 ---
 

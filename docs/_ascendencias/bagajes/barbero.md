@@ -14,7 +14,7 @@ Cortes de pelo, odontología, sangrías y cirugía: si requiere una mano firme y
 
 Elige dos mejoras de atributo. Una debe ser a **Destreza** o **Sabiduría**, y una es una mejora libre.
 
-Estás entrenado en **Medicina** y en **Saber sobre cirugía**. Obtienes la dote de habilidad **Cirugía arriesgada**.
+Estás entrenado en **[Medicina]({{ '/habilidades/medicina/' | relative_url }})** y en **Saber sobre cirugía**. Obtienes la dote de habilidad **[Cirugía arriesgada]({{ '/dotes/habilidad/cirugia-arriesgada/' | relative_url }})**.
 
 ---
 

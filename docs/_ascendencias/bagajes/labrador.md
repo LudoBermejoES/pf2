@@ -14,9 +14,9 @@ Con una fuerte espalda y una comprensión de los ciclos estacionales, arabas la 
 
 **Mejoras de atributo:** Una a Constitución o Sabiduría, otra gratuita
 
-**Habilidades:** Atletismo, Saber (agricultura)
+**Habilidades:** [Atletismo]({{ '/habilidades/atletismo/' | relative_url }}), Saber (agricultura)
 
-**Dote:** Seguro (con Atletismo)
+**Dote:** [Seguro]({{ '/dotes/habilidad/seguro/' | relative_url }}) (con Atletismo)
 
 ---
 

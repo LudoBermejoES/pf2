@@ -14,9 +14,9 @@ Eras (o sigues siendo) miembro de una secta cuyos ritos podrían implicar danzas
 
 **Mejoras de atributo:** Una a Inteligencia o Carisma, otra gratuita
 
-**Habilidades:** Ocultismo, Saber (relacionado con tu dios o secta)
+**Habilidades:** [Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }}), Saber (relacionado con tu dios o secta)
 
-**Dote:** Instruido en secretos
+**Dote:** [Instruido en secretos]({{ '/dotes/habilidad/instruido-en-secretos/' | relative_url }})
 
 ---
 

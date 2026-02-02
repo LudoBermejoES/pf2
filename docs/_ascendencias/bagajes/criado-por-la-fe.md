@@ -16,7 +16,7 @@ Ya fuera en un monasterio, en una familia religiosa o tan sólo como parte de tu
 
 **Habilidades:** La habilidad divina indicada para tu dios, Saber (relacionado con tu dios)
 
-**Dote:** Seguro (con la habilidad divina)
+**Dote:** [Seguro]({{ '/dotes/habilidad/seguro/' | relative_url }}) (con la habilidad divina)
 
 ---
 

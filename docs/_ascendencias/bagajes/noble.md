@@ -14,9 +14,9 @@ Para la gente común, la vida de un noble puede parecer un lujo idílico, pero t
 
 **Mejoras de atributo:** Una a Inteligencia o Carisma, otra gratuita
 
-**Habilidades:** Sociedad, Saber (genealogía) o Saber (heráldica)
+**Habilidades:** [Sociedad]({{ '/habilidades/sociedad/' | relative_url }}), Saber (genealogía) o Saber (heráldica)
 
-**Dote:** Gracia cortesana
+**Dote:** [Gracia cortesana]({{ '/dotes/habilidad/gracia-cortesana/' | relative_url }})
 
 ---
 

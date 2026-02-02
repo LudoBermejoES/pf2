@@ -14,9 +14,9 @@ Tienes cinco especialidades: levantar barriles, beber, pulir jarras, beber y beb
 
 **Mejoras de atributo:** Una a Constitución o Carisma, otra gratuita
 
-**Habilidades:** Diplomacia, Saber (alcohol)
+**Habilidades:** [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}), Saber (alcohol)
 
-**Dote:** Codearse
+**Dote:** [Confraternizador]({{ '/dotes/habilidad/confraternizador/' | relative_url }})
 
 ---
 

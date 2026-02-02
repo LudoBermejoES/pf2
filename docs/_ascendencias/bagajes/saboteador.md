@@ -14,7 +14,7 @@ Ya sea por disfrute personal o por encargo de una compañía mercenaria u organi
 
 Elige dos mejoras de atributo. Una debe ser a **Fuerza** o **Destreza**, y una es una mejora libre.
 
-Estás entrenado en **Latrocinio** y en **Saber sobre ingeniería**. Obtienes la dote de habilidad **Prestidigitación encubierta**.
+Estás entrenado en **[Latrocinio]({{ '/habilidades/latrocinio/' | relative_url }})** y en **Saber sobre ingeniería**. Obtienes la dote de habilidad **Prestidigitación encubierta**.
 
 ---
 

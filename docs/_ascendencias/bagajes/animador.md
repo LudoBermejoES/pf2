@@ -14,9 +14,9 @@ Gracias a una educación en las artes o bien debido a la práctica persistente, 
 
 **Mejoras de atributo:** Una a Destreza o Carisma, otra gratuita
 
-**Habilidades:** Interpretar, Saber (teatro)
+**Habilidades:** [Interpretación]({{ '/habilidades/interpretacion/' | relative_url }}), Saber (teatro)
 
-**Dote:** Interpretación fascinante
+**Dote:** [Interpretación fascinante]({{ '/dotes/habilidad/interpretacion-fascinante/' | relative_url }})
 
 ---
 

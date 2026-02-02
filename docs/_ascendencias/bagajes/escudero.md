@@ -14,7 +14,7 @@ Te formaste a las órdenes de un caballero, manteniendo su equipo y apoyándolo 
 
 Elige dos mejoras de atributo. Una debe ser a **Fuerza** o **Constitución**, y una es una mejora libre.
 
-Estás entrenado en **Atletismo** y, a tu elección, en **Saber sobre heráldica** o **Saber sobre guerra**. Obtienes la dote de habilidad **Asistencia de armadura**.
+Estás entrenado en **[Atletismo]({{ '/habilidades/atletismo/' | relative_url }})** y, a tu elección, en **Saber sobre heráldica** o **Saber sobre guerra**. Obtienes la dote de habilidad **[Asistencia con armadura]({{ '/dotes/habilidad/asistencia-con-armadura/' | relative_url }})**.
 
 ---
 

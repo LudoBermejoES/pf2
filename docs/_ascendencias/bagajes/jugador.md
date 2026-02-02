@@ -14,9 +14,9 @@ La excitación de ganar te atrajo a los juegos de azar. Podría haberse tratado 
 
 **Mejoras de atributo:** Una a Destreza o Carisma, otra gratuita
 
-**Habilidades:** Engaño, Saber (juego)
+**Habilidades:** [Engaño]({{ '/habilidades/engano/' | relative_url }}), Saber (juego)
 
-**Dote:** Miénteme
+**Dote:** [Miénteme]({{ '/dotes/habilidad/menteme/' | relative_url }})
 
 ---
 

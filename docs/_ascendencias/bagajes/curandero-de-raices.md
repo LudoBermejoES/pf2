@@ -14,7 +14,7 @@ Algunas dolencias no pueden curarse solo con hierbas. También aprendiste remedi
 
 Elige dos mejoras de atributo. Una debe ser a **Inteligencia** o **Sabiduría**, y una es una mejora libre.
 
-Estás entrenado en **Ocultismo** y en **Saber sobre herboristería**. Obtienes la dote de habilidad **Magia de raíces**.
+Estás entrenado en **[Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }})** y en **Saber sobre herboristería**. Obtienes la dote de habilidad **Magia de raíces**.
 
 ---
 

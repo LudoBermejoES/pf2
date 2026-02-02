@@ -14,9 +14,9 @@ Los sangrientos juegos de la arena te enseñaron el arte del combate. Antes de l
 
 **Mejoras de atributo:** Una a Fuerza o Carisma, otra gratuita
 
-**Habilidades:** Interpretar, Saber (gladiadores)
+**Habilidades:** [Interpretación]({{ '/habilidades/interpretacion/' | relative_url }}), Saber (gladiadores)
 
-**Dote:** Interpretación impresionante
+**Dote:** [Interpretación impresionante]({{ '/dotes/habilidad/interpretacion-impresionante/' | relative_url }})
 
 ---
 

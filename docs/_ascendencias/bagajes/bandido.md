@@ -14,9 +14,9 @@ Tu pasado incluye una cantidad poco desdeñable de bandidaje rural, robando a lo
 
 **Mejoras de atributo:** Una a Destreza o Carisma, otra gratuita
 
-**Habilidades:** Intimidación, Saber (terreno relacionado, como Saber [desierto] o Saber [llanuras])
+**Habilidades:** [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}), Saber (terreno relacionado, como Saber [desierto] o Saber [llanuras])
 
-**Dote:** Intimidación de grupo
+**Dote:** [Intimidación de grupo]({{ '/dotes/habilidad/intimidacion-de-grupo/' | relative_url }})
 
 ---
 

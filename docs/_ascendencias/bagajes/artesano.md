@@ -14,9 +14,9 @@ Como aprendiz, has practicado una forma particular de construir o de fabricar, d
 
 **Mejoras de atributo:** Una a Fuerza o Inteligencia, otra gratuita
 
-**Habilidades:** Artesanía, Saber (gremio)
+**Habilidades:** [Artesanía]({{ '/habilidades/artesania/' | relative_url }}), Saber (gremio)
 
-**Dote:** Especialidad artesana
+**Dote:** [Especialidad artesana]({{ '/dotes/habilidad/especialidad-artesana/' | relative_url }})
 
 ---
 

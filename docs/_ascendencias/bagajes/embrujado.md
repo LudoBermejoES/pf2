@@ -16,7 +16,7 @@ Te acompaña un espíritu o entidad, ya sea desde la infancia o desde un evento 
 
 Elige dos mejoras de atributo. Una debe ser a **Sabiduría** o **Carisma**, y una es una mejora libre.
 
-Estás entrenado en **Ocultismo** y en una habilidad adicional en la que la entidad que te embruja esté versada, determinada por el DJ. Cada vez que intentes una comprobación de habilidad para la habilidad de la entidad, el DJ puede ofrecerte un bonificador circunstancial +1 a la comprobación, como si la entidad te estuviera Ayudando. Si aceptas pero fallas la comprobación, quedas **asustado 2** (asustado 4 en un fallo crítico). El valor inicial de asustado no puede reducirse por efectos que reducirían o impedirían la condición (como la **valentía** de un guerrero).
+Estás entrenado en **[Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }})** y en una habilidad adicional en la que la entidad que te embruja esté versada, determinada por el DJ. Cada vez que intentes una comprobación de habilidad para la habilidad de la entidad, el DJ puede ofrecerte un bonificador circunstancial +1 a la comprobación, como si la entidad te estuviera Ayudando. Si aceptas pero fallas la comprobación, quedas **asustado 2** (asustado 4 en un fallo crítico). El valor inicial de asustado no puede reducirse por efectos que reducirían o impedirían la condición (como la **valentía** de un guerrero).
 
 ---
 

@@ -14,9 +14,9 @@ Llevar ante un tribunal a los prófugos de la ley te llenaba los bolsillos. Quiz
 
 **Mejoras de atributo:** Una a Fuerza o Sabiduría, otra gratuita
 
-**Habilidades:** Supervivencia, Saber (legal)
+**Habilidades:** [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}), Saber (legal)
 
-**Dote:** Rastreador experto
+**Dote:** [Rastreador experto]({{ '/dotes/habilidad/rastreador-experto/' | relative_url }})
 
 ---
 

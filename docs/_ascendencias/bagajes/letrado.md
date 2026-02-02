@@ -14,9 +14,9 @@ Montones de manuales de jurisprudencia, profesores austeros y mucha experiencia 
 
 **Mejoras de atributo:** Una a Inteligencia o Carisma, otra gratuita
 
-**Habilidades:** Diplomacia, Saber (legal)
+**Habilidades:** [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}), Saber (legal)
 
-**Dote:** Impresión de grupo
+**Dote:** [Impresión de grupo]({{ '/dotes/habilidad/impresion-de-grupo/' | relative_url }})
 
 ---
 

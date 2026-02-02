@@ -14,9 +14,9 @@ Las tierras vírgenes eran tu hogar y en ellas encontrabas senderos por los que 
 
 **Mejoras de atributo:** Una a Destreza o Sabiduría, otra gratuita
 
-**Habilidades:** Supervivencia, Saber (terreno relacionado, como Saber [bosques] o Saber [cavernas])
+**Habilidades:** [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}), Saber (terreno relacionado, como Saber [bosques] o Saber [cavernas])
 
-**Dote:** Forrajeador
+**Dote:** [Forrajeador]({{ '/dotes/habilidad/forrajeador/' | relative_url }})
 
 ---
 

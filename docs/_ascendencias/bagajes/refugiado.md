@@ -14,7 +14,7 @@ Vienes de una tierra muy distante de aquella en la que ahora te encuentras, empu
 
 Elige dos mejoras de atributo. Una debe ser a **Constitución** o **Sabiduría**, y una es una mejora libre.
 
-Estás entrenado en **Sociedad** y en un **Saber** relacionado con el asentamiento del que procedes. Obtienes la dote de habilidad **Saber callejero**.
+Estás entrenado en **[Sociedad]({{ '/habilidades/sociedad/' | relative_url }})** y en un **Saber** relacionado con el asentamiento del que procedes. Obtienes la dote de habilidad **[Callejeo]({{ '/dotes/habilidad/callejeo/' | relative_url }})**.
 
 ---
 

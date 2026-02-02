@@ -14,9 +14,9 @@ Crear todo tipo de inventos menores sacia tu sed de resolución de problemas. Tu
 
 **Mejoras de atributo:** Una a Destreza o Inteligencia, otra gratuita
 
-**Habilidades:** Artesanía, Saber (ingeniería)
+**Habilidades:** [Artesanía]({{ '/habilidades/artesania/' | relative_url }}), Saber (ingeniería)
 
-**Dote:** Especialidad artesana
+**Dote:** [Especialidad artesana]({{ '/dotes/habilidad/especialidad-artesana/' | relative_url }})
 
 ---
 

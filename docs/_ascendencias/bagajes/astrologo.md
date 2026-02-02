@@ -14,7 +14,7 @@ Los astrólogos miran a las estrellas en busca de signos y presagios, usando sus
 
 Elige dos mejoras de atributo. Una debe ser a **Inteligencia** o **Sabiduría**, y una es una mejora libre.
 
-Estás entrenado en **Ocultismo** y en **Saber sobre astrología**. Obtienes la dote de habilidad **Identificación de rarezas**.
+Estás entrenado en **[Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }})** y en **Saber sobre astrología**. Obtienes la dote de habilidad **[Identificar extranezas]({{ '/dotes/habilidad/identificar-extranezas/' | relative_url }})**.
 
 ---
 

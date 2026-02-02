@@ -14,9 +14,9 @@ Serviste en la guardia, o bien por patriotismo, o bien por la necesidad de ganar
 
 **Mejoras de atributo:** Una a Fuerza o Carisma, otra gratuita
 
-**Habilidades:** Intimidación, Saber (legal) o Saber (guerra)
+**Habilidades:** [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}), Saber (legal) o Saber (guerra)
 
-**Dote:** Intimidación rápida
+**Dote:** [Intimidación rápida]({{ '/dotes/habilidad/intimidacion-rapida/' | relative_url }})
 
 ---
 

@@ -14,9 +14,9 @@ Como diplomático o mensajero, has viajado por todas partes. Comunicarte con gen
 
 **Mejoras de atributo:** Una a Inteligencia o Carisma, otra gratuita
 
-**Habilidades:** Sociedad, Saber (una ciudad que has visitado a menudo)
+**Habilidades:** [Sociedad]({{ '/habilidades/sociedad/' | relative_url }}), Saber (una ciudad que has visitado a menudo)
 
-**Dote:** Multilingüe
+**Dote:** [Multilingüe]({{ '/dotes/habilidad/multilingue/' | relative_url }})
 
 ---
 

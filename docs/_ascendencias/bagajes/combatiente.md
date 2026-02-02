@@ -14,9 +14,9 @@ En tus años mozos, te adentraste en la batalla como mercenario, combatiente def
 
 **Mejoras de atributo:** Una a Fuerza o Constitución, otra gratuita
 
-**Habilidades:** Intimidación, Saber (guerra)
+**Habilidades:** [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}), Saber (guerra)
 
-**Dote:** Mirada intimidatoria
+**Dote:** [Mirada intimidante]({{ '/dotes/habilidad/mirada-intimidante/' | relative_url }})
 
 ---
 

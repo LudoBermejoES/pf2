@@ -14,9 +14,9 @@ Te has dedicado a un entrenamiento intenso y a un estudio riguroso para converti
 
 **Mejoras de atributo:** Una a Fuerza o Destreza, otra gratuita
 
-**Habilidades:** Acrobacias o Atletismo (elige una), Saber (guerra)
+**Habilidades:** [Acrobacias]({{ '/habilidades/acrobacias/' | relative_url }}) o [Atletismo]({{ '/habilidades/atletismo/' | relative_url }}) (elige una), Saber (guerra)
 
-**Dote:** Caída de gato (si eliges Acrobacias) o Salto veloz (si eliges Atletismo)
+**Dote:** [Caída de gato]({{ '/dotes/habilidad/caida-de-gato/' | relative_url }}) (si eliges Acrobacias) o [Salto rápido]({{ '/dotes/habilidad/salto-rapido/' | relative_url }}) (si eliges Atletismo)
 
 ---
 

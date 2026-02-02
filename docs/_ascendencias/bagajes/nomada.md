@@ -14,9 +14,9 @@ Viajando por todo lo largo y ancho del mundo, has acumulado tácticas básicas p
 
 **Mejoras de atributo:** Una a Constitución o Sabiduría, otra gratuita
 
-**Habilidades:** Supervivencia, Saber (terreno relacionado, como Saber [desierto] o Saber [pantano])
+**Habilidades:** [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}), Saber (terreno relacionado, como Saber [desierto] o Saber [pantano])
 
-**Dote:** Seguro (con Supervivencia)
+**Dote:** [Seguro]({{ '/dotes/habilidad/seguro/' | relative_url }}) (con Supervivencia)
 
 ---
 

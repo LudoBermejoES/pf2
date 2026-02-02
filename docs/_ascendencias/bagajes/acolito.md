@@ -14,9 +14,9 @@ Pasaste tus primeros días en un monasterio o claustro religioso. Puedes haber v
 
 **Mejoras de atributo:** Una a Inteligencia o Sabiduría, otra gratuita
 
-**Habilidades:** Religión, Saber (escritura)
+**Habilidades:** [Religión]({{ '/habilidades/religion/' | relative_url }}), Saber (escritura)
 
-**Dote:** Alumno del canon
+**Dote:** [Alumno del canon]({{ '/dotes/habilidad/alumno-del-canon/' | relative_url }})
 
 ---
 

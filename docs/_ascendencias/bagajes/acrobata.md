@@ -14,9 +14,9 @@ En un circo o en las calles, te ganaste el sustento haciendo de acr√≥bata. Podr√
 
 **Mejoras de atributo:** Una a Fuerza o Destreza, otra gratuita
 
-**Habilidades:** Acrobacias, Saber (circo)
+**Habilidades:** [Acrobacias]({{ '/habilidades/acrobacias/' | relative_url }}), Saber (circo)
 
-**Dote:** Equilibrio estable
+**Dote:** [Equilibrio firme]({{ '/dotes/habilidad/equilibrio-firme/' | relative_url }})
 
 ---
 

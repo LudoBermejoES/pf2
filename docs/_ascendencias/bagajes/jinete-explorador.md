@@ -14,7 +14,7 @@ En tu juventud, cabalgaste a través de vastas praderas, sirviendo como vanguard
 
 Elige dos mejoras de atributo. Una debe ser a **Constitución** o **Sabiduría**, y una es una mejora libre.
 
-Estás entrenado en **Naturaleza** y en **Saber sobre praderas**. Obtienes la dote de habilidad **Jinete expreso**.
+Estás entrenado en **[Naturaleza]({{ '/habilidades/naturaleza/' | relative_url }})** y en **Saber sobre praderas**. Obtienes la dote de habilidad **[Jinete expreso]({{ '/dotes/habilidad/jinete-expreso/' | relative_url }})**.
 
 ---
 

@@ -14,7 +14,7 @@ Te has ganado la vida rebuscando entre las cosas que la sociedad desecha. Puede 
 
 Elige dos mejoras de atributo. Una debe ser a **Inteligencia** o **Sabiduría**, y una es una mejora libre.
 
-Estás entrenado en **Supervivencia** y en un **Saber** sobre el asentamiento en el que creciste rebuscando. Obtienes la dote de habilidad **Recolector**.
+Estás entrenado en **[Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }})** y en un **Saber** sobre el asentamiento en el que creciste rebuscando. Obtienes la dote de habilidad **[Forrajeador]({{ '/dotes/habilidad/forrajeador/' | relative_url }})**.
 
 ---
 

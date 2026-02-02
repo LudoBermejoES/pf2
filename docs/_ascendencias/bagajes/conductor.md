@@ -14,7 +14,7 @@ Prácticamente vives tras los mandos de un vehículo y puedes manejar casi cualq
 
 Elige dos mejoras de atributo. Una debe ser a **Fuerza** o **Destreza**, y una es una mejora libre.
 
-Estás entrenado en **Acrobacias** y en **Saber sobre pilotaje**. Obtienes la dote de habilidad **Garantía** con Saber sobre pilotaje.
+Estás entrenado en **[Acrobacias]({{ '/habilidades/acrobacias/' | relative_url }})** y en **Saber sobre pilotaje**. Obtienes la dote de habilidad **[Seguro]({{ '/dotes/habilidad/seguro/' | relative_url }})** con Saber sobre pilotaje.
 
 ---
 

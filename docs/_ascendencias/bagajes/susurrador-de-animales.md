@@ -14,9 +14,9 @@ Siempre has notado una conexión con los animales y te costó un esfuerzo mínim
 
 **Mejoras de atributo:** Una a Sabiduría o Carisma, otra gratuita
 
-**Habilidades:** Naturaleza, Saber (terreno relacionado, como Saber [llanuras] o Saber [pantanos])
+**Habilidades:** [Naturaleza]({{ '/habilidades/naturaleza/' | relative_url }}), Saber (terreno relacionado, como Saber [llanuras] o Saber [pantanos])
 
-**Dote:** Adiestrar animal
+**Dote:** [Adiestrar animal]({{ '/dotes/habilidad/adiestrar-animal/' | relative_url }})
 
 ---
 

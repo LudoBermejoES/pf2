@@ -14,9 +14,9 @@ Se te da muy bien aprender y pasaste mucho tiempo apartado del mundo exterior pa
 
 **Mejoras de atributo:** Una a Inteligencia o Sabiduría, otra gratuita
 
-**Habilidades:** Arcanos, Naturaleza, Ocultismo o Religión (elige una), Saber (academia)
+**Habilidades:** [Arcanos]({{ '/habilidades/arcanos/' | relative_url }}), [Naturaleza]({{ '/habilidades/naturaleza/' | relative_url }}), [Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }}) o [Religión]({{ '/habilidades/religion/' | relative_url }}) (elige una), Saber (academia)
 
-**Dote:** Seguro (en la habilidad elegida)
+**Dote:** [Seguro]({{ '/dotes/habilidad/seguro/' | relative_url }}) (en la habilidad elegida)
 
 ---
 

@@ -14,7 +14,7 @@ Llevabas las cuentas en una gran granja, para las empresas de un mercader o en u
 
 Elige dos mejoras de atributo. Una debe ser a **Inteligencia** o **Sabiduría**, y una es una mejora libre.
 
-Estás entrenado en **Sociedad** y en **Saber sobre contabilidad**. Obtienes la dote de habilidad **Ojo para los números**.
+Estás entrenado en **[Sociedad]({{ '/habilidades/sociedad/' | relative_url }})** y en **Saber sobre contabilidad**. Obtienes la dote de habilidad **[Ojo para los números]({{ '/dotes/habilidad/ojo-para-los-numeros/' | relative_url }})**.
 
 ---
 

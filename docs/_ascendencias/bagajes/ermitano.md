@@ -14,9 +14,9 @@ En un lugar aislado, como por ejemplo una cueva, un oasis remoto o una mansión 
 
 **Mejoras de atributo:** Una a Constitución o Inteligencia, otra gratuita
 
-**Habilidades:** Naturaleza u Ocultismo (elige una), Saber (terreno relacionado, como Saber [cuevas] o Saber [desierto])
+**Habilidades:** [Naturaleza]({{ '/habilidades/naturaleza/' | relative_url }}) u [Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }}) (elige una), Saber (terreno relacionado, como Saber [cuevas] o Saber [desierto])
 
-**Dote:** Conocimiento dudoso
+**Dote:** [Conocimiento dudoso]({{ '/dotes/habilidad/conocimiento-dudoso/' | relative_url }})
 
 ---
 

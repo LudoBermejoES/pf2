@@ -14,9 +14,9 @@ Te ganabas la vida arrancando minerales preciosos de las profundidades sin luz d
 
 **Mejoras de atributo:** Una a Fuerza o Sabiduría, otra gratuita
 
-**Habilidades:** Supervivencia, Saber (minería)
+**Habilidades:** [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}), Saber (minería)
 
-**Dote:** Experiencia en un terreno (subterráneo)
+**Dote:** [Experiencia en un terreno]({{ '/dotes/habilidad/experiencia-en-un-terreno/' | relative_url }}) (subterráneo)
 
 ---
 
