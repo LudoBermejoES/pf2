@@ -25,6 +25,9 @@ plugins:
 
 # Collections for organized content
 collections:
+  campana:
+    output: true
+    permalink: /campana/:name/
   introduccion:
     output: true
     permalink: /introduccion/:name/
@@ -131,9 +134,16 @@ defaults:
     values:
       layout: page
       chapter: "Apéndices"
+  - scope:
+      path: ""
+      type: "campana"
+    values:
+      layout: page
+      chapter: "Campaña"
 
 # Include hidden files for collection processing
 include:
+  - _campana
   - _introduccion
   - _tu-personaje
   - _ambientacion
