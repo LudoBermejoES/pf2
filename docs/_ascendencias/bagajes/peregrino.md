@@ -18,6 +18,4 @@ Estás entrenado en **[Religión]({{ '/habilidades/religion/' | relative_url }})
 
 ---
 
----
-
 [← Volver a Bagajes]({{ '/ascendencias/bagajes/' | relative_url }})

@@ -18,6 +18,4 @@ Estás entrenado en **[Sociedad]({{ '/habilidades/sociedad/' | relative_url }})*
 
 ---
 
----
-
 [← Volver a Bagajes]({{ '/ascendencias/bagajes/' | relative_url }})
