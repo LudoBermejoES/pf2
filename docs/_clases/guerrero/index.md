@@ -7,9 +7,12 @@ category: clases
 nav_order: 1
 class_name: Guerrero
 source: PC1
+complexity: Sencilla
 ---
 
 <img src="{{ '/assets/images/clases/guerrero.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Guerrero">
+
+> **Complejidad:** Sencilla — Ideal para jugadores nuevos. El guerrero se centra en el combate directo con mecánicas claras y pocas decisiones complicadas.
 
 Luchas por aquellos que no pueden luchar por sí mismos. Eres un maestro de las artes marciales y utilizas tu experiencia en el combate para proteger a los inocentes. Sea cual sea tu formación, has perfeccionado tus habilidades hasta convertirte en un combatiente formidable.
 

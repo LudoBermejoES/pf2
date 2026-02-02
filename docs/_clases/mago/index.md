@@ -7,9 +7,12 @@ category: clases
 nav_order: 1
 class_name: Mago
 source: PC1
+complexity: Moderada
 ---
 
 <img src="{{ '/assets/images/clases/mago.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Mago">
+
+> **Complejidad:** Moderada — Lanzamiento preparado que requiere planificación diaria. El grimorio permite gran versatilidad pero exige conocer bien los conjuros disponibles.
 
 Eres un alumno eterno de los secretos arcanos del universo y utilizas tu dominio de la magia para lanzar potentes conjuros. Tratas la magia como una ciencia, cruzando referencias entre los últimos textos sobre lanzamiento practico de conjuros y antiguos tomos para descubrir y entender como funciona la magia arcana. Aun así, la teoria magica es vasta y no hay forma de estudiarla en su totalidad. La mayoría de los magos aprenden a traves de una educación formal y su currículo informa una rubrica especifica, aunque a veces, algunos investigadores particularmente motivados reúnen por si solos sus propias teorias.
 

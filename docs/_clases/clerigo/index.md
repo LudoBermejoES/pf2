@@ -7,9 +7,12 @@ category: clases
 nav_order: 1
 class_name: Clérigo
 source: PC1
+complexity: Moderada
 ---
 
 <img src="{{ '/assets/images/clases/clérigo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Clérigo">
+
+> **Complejidad:** Moderada — La fuente divina permite acceso a todos los conjuros de la lista, pero el lanzamiento preparado requiere planificación. Buena opción para aprender magia.
 
 Los clérigos son siervos mortales de los dioses, canalizando el poder divino para cumplir la voluntad de sus deidades. Ya sea mediante la curación de los fieles, la destrucción de los enemigos de la fe o la difusion de la palabra sagrada, el clérigo es el conducto entre lo mortal y lo divino.
 

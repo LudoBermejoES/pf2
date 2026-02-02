@@ -7,9 +7,12 @@ category: clases
 nav_order: 1
 class_name: Bardo
 source: PC1
+complexity: Moderada
 ---
 
 <img src="{{ '/assets/images/clases/bardo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Bardo">
+
+> **Complejidad:** Moderada — Requiere gestionar composiciones, efectos de estado y economía de acciones. Excelente para jugadores que disfrutan apoyar al grupo.
 
 Eres un maestro del arte, un erudito de los secretos ocultos y un persuasor que cautiva. Utilizando poderosas interpretaciones, influencias las mentes y elevas las almas a nuevos niveles de heroísmo. Podrías utilizar tus poderes para convertirte en un lider carismatico o quizá en su lugar ser un consejero, un manipulador, un erudito, una sabandija o un virtuoso. Si bien tu versatilidad lleva a algunos a considerarte como un vago cautivador y una persona que hace de todo, es peligroso suponer que no dominas nada.
 

@@ -7,9 +7,12 @@ category: clases
 nav_order: 1
 class_name: Druida
 source: PC1
+complexity: Moderada
 ---
 
 <img src="{{ '/assets/images/clases/druida.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Druida">
+
+> **Complejidad:** Moderada — Lanzamiento preparado con lista amplia. Forma Salvaje y compañero animal añaden capas de complejidad según la orden elegida.
 
 El poder de la Naturaleza es imposible de resistir. Es capaz de reducir a escombros la más recia de las fortalezas, convirtiendo en ruinas incluso sus baluartes más resistentes, dejándolos en cenizas, enterrándolos bajo una avalancha de nieve o ahogándolos bajo las olas. Puede proporcionar un botín infinito y un esplendor impresionante a quienes la respetan... y una muerte agónica a quienes se la toman a la ligera. Eres uno de los que oyen la llamada de la Naturaleza. Contemplas embelesado la majestad de su poder y te pones a su servicio.
 

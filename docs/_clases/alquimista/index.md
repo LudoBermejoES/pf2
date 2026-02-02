@@ -7,7 +7,10 @@ category: clases
 source: PC2
 nav_order: 100
 class_name: Alquimista
+complexity: Compleja
 ---
+
+> **Complejidad:** Compleja — Requiere gestionar reactivos, preparar objetos alquímicos y conocer una amplia variedad de fórmulas. Recomendado para jugadores experimentados.
 
 No hay vista más hermosa para ti que un extraño brebaje burbujeando en un matraz, y consumes tus ingeniosos elixires sin reparo. Te fascina desentrañar los secretos de la ciencia y el mundo natural, y estás en constante experimentación en tu laboratorio o sobre la marcha con mezclas inventivas para cada eventualidad. Eres intrépido ante el riesgo, lanzando creaciones explosivas o tóxicas contra tus enemigos. Tu camino único hacia la grandeza está jalonado de brebajes alquímicos que llevan tu mente y cuerpo al límite.
 
