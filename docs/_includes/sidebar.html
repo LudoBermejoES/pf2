@@ -3,6 +3,15 @@
   {% if page.chapter == nil and page.url == "/" %}
   <div class="sidebar-section">
     <h3 class="sidebar-heading">
+      <span class="section-icon">👑</span>
+      La Campaña
+    </h3>
+    <ul class="sidebar-links">
+      <li><a href="{{ '/campana/' | relative_url }}"><span class="section-icon">🏰</span> Kingmaker</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-section">
+    <h3 class="sidebar-heading">
       <span class="section-icon">📚</span>
       Secciones
     </h3>
@@ -310,6 +319,23 @@
     <ul class="sidebar-links">
       <li><a href="{{ '/apendices/glosario/' | relative_url }}">Glosario</a></li>
       <li><a href="{{ '/apendices/estados/' | relative_url }}">Estados</a></li>
+    </ul>
+  </div>
+  {% endif %}
+
+  <!-- Campaña Section -->
+  {% if page.chapter == "Campaña" %}
+  <div class="sidebar-section">
+    <h3 class="sidebar-heading">
+      <span class="section-icon">👑</span>
+      La Campaña
+    </h3>
+    <ul class="sidebar-links">
+      <li><a href="{{ '/campana/' | relative_url }}">Kingmaker</a></li>
+      <li><a href="{{ '/campana/ascendencias/' | relative_url }}">Ascendencias</a></li>
+      <li><a href="{{ '/campana/clases/' | relative_url }}">Clases</a></li>
+      <li><a href="{{ '/campana/bagajes/' | relative_url }}">Bagajes</a></li>
+      <li><a href="{{ '/campana/consideraciones/' | relative_url }}">Otras Consideraciones</a></li>
     </ul>
   </div>
   {% endif %}
