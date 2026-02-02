@@ -10,6 +10,8 @@ ancestry: Catfolk
 rarity: uncommon
 ---
 
+<img src="{{ '/assets/images/ancestries/catfolk.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Catfolk">
+
 Curiosos y gregarios viajeros, los catfolk combinan rasgos felinos y humanoides tanto en apariencia como en temperamento. Disfrutan aprendiendo cosas nuevas, recopilando relatos y pequeños tesoros, y asegurándose de que sus seres queridos estén seguros y felices. Los catfolk se consideran los guardianes elegidos de los lugares naturales del mundo y a menudo son temerariamente valientes, incluso frente a una oposición abrumadora. Creen que las comunidades fuertes, la amplitud de experiencias y la mejora personal continua les ayudan en esta lucha.
 
 Tan rápidos como son sus reflejos, los catfolk tienen un temperamento aún más rápido, pasando de la alegría efusiva a la furia agraviada en un instante. Como los felinos mundanos, los catfolk ronronean involuntariamente cuando están complacidos y gruñen cuando se sorprenden o enfadan.

@@ -10,6 +10,8 @@ ancestry: Hombres Lagarto (Iruxi)
 rarity: uncommon
 ---
 
+<img src="{{ '/assets/images/ancestries/hombres-lagarto.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Hombres Lagarto">
+
 Los iruxi son supervivientes consumados, herederos de imperios considerados antiguos incluso por los elfos.
 
 Los iruxi se mueven por las sociedades de otros humanoides con la reserva acerada de depredadores natos. Tienen una merecida reputación como exploradores sobresalientes y combatientes poco sentimentales. Aunque los iruxi se han adaptado a muchos entornos distintos, muchos siguen prefiriendo permanecer cerca de masas de agua, aprovechando su capacidad para aguantar la respiración. Por ello, suelen preferir equipo que no se dañe fácilmente con la humedad, evitando el cuero y el metal en favor de materiales de piedra, marfil, vidrio y hueso.

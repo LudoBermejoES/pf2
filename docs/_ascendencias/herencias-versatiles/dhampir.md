@@ -8,6 +8,8 @@ source: PC2
 nav_order: 201
 ---
 
+<img src="{{ '/assets/images/ancestries/dhampir.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Dhampir">
+
 Muchos llaman a los vampiros hijos de la noche, pero son los dhampiros quienes pueden reclamar verdaderamente ese título. Estos descendientes mortales de vampiros caminan por la línea entre la vida y la no‑muerte no solo fisiológicamente, sino también en su posición social, temperamento y visión del mundo. Las circunstancias que rodean el nacimiento de un dhampiro son raras, complejas y a menudo envueltas en horrendos rumores. Algunos dhampiros son hijos de un mortal y un progenitor vampírico, mientras que otros nacen de quienes fueron convertidos en vampiros estando embarazados. Otros surgen de rituales ocultos u otras influencias sobrenaturales que imponen una maldición vampírica a un infante mortal. La vida de un dhampiro es a menudo difícil; pocos progenitores vampíricos tienen la inclinación de criar a un niño mortal, mientras que las comunidades mortales encuentran la piel cetrina, los ojos penetrantes y la presencia inquietante de un dhampiro cuando menos desagradables.
 
 A pesar de ser criaturas vivas, los dhampiros responden a la energía de vitalidad y del vacío como si fueran no muertos, lo que los hace poco bienvenidos en muchas comunidades sagradas y a menudo los impulsa hacia las artes nigrománticas. Los dhampiros no son inmortales, pero envejecen mucho más lentamente que la mayoría de mortales, con una esperanza de vida similar a la de un elfo. Los dhampiros tienen dificultades para procrear, y los pocos nacidos de un dhampiro nunca son dhampiros.

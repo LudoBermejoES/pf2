@@ -10,6 +10,8 @@ ancestry: Kobold
 rarity: uncommon
 ---
 
+<img src="{{ '/assets/images/ancestries/kobold.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Kobold">
+
 Todo kobold entiende instintivamente la importancia del poder, y muchos se inclinan a venerar a quienes lo poseen, ya sean poderosos dragones, crueles diablos, feéricos imperiosos o incluso artefactos antiguos. Los kobolds buscan estas alianzas por pragmatismo—al fin y al cabo, ¿quién se atrevería a intimidar a un kobold que sirve a un dragón ancestral?—pero también porque los huevos de kobold incubados cerca de tales focos de poder adquieren rasgos físicos (y a veces capacidades) similares a los del benefactor de la madriguera. Por sí mismos, los kobolds son artesanos ingeniosos y aliados devotos, pero los forasteros que se entrometen en su territorio descubren que son escaramuzadores inspirados y emboscadores inteligentes. Sin embargo, estos oportunistas reptilianos se muestran encantados de cooperar con otros humanoides cuando les beneficia, combinando cautela y astucia para hacer fortuna en el mundo más amplio.
 
 > Si quieres un personaje de astucia letal que lleve la marca de un poderoso benefactor, deberías jugar un kobold.

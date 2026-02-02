@@ -10,6 +10,8 @@ ancestry: Ysoki (Ratfolk)
 rarity: uncommon
 ---
 
+<img src="{{ '/assets/images/ancestries/ratfolk.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Ysoki">
+
 Los ysoki son seres a los que la mayoría de los humanoides de la superficie se refieren como «ratfolk». Son un pueblo comunitario que prefiere condiciones estrechas, con hasta 100 individuos viviendo en una misma casa. Si no encuentran hogares en la ciudad, los ysoki pueden vivir en cuevas y complejos cavernosos, ya que ofrecen excelente almacenamiento para los muchos y variados bienes que traen de sus expediciones comerciales.
 
 Los ysoki adoran viajar y a menudo se les encuentra en ruta formando parte de caravanas mercantes. Son habilidosos con las manos y tienen buen ojo para detectar cualquier cosa fuera de lo normal, desde amenazas hasta tesoros. También son acaparadores empedernidos; las madrigueras ysoki están abarrotadas de cachivaches inusuales reunidos por generaciones anteriores y guardados en preparación para alguna futura emergencia.
