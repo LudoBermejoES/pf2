@@ -1,4 +1,25 @@
 <nav class="sidebar-nav">
+  <!-- Index Page - Show main sections like top nav -->
+  {% if page.chapter == nil and page.url == "/" %}
+  <div class="sidebar-section">
+    <h3 class="sidebar-heading">
+      <span class="section-icon">📚</span>
+      Secciones
+    </h3>
+    <ul class="sidebar-links">
+      <li><a href="{{ '/introduccion/' | relative_url }}"><span class="section-icon">📖</span> Introducción</a></li>
+      <li><a href="{{ '/ascendencias/' | relative_url }}"><span class="section-icon">👥</span> Ascendencias</a></li>
+      <li><a href="{{ '/clases/' | relative_url }}"><span class="section-icon">⚔</span> Clases</a></li>
+      <li><a href="{{ '/habilidades/' | relative_url }}"><span class="section-icon">🎯</span> Habilidades</a></li>
+      <li><a href="{{ '/dotes/' | relative_url }}"><span class="section-icon">✨</span> Dotes</a></li>
+      <li><a href="{{ '/equipo/' | relative_url }}"><span class="section-icon">🛡</span> Equipo</a></li>
+      <li><a href="{{ '/conjuros/' | relative_url }}"><span class="section-icon">🔮</span> Conjuros</a></li>
+      <li><a href="{{ '/reglas/' | relative_url }}"><span class="section-icon">📜</span> Cómo Jugar</a></li>
+      <li><a href="{{ '/apendices/glosario/' | relative_url }}"><span class="section-icon">📑</span> Apéndices</a></li>
+    </ul>
+  </div>
+  {% endif %}
+
   <!-- Introducción Section - Ordered by PDF -->
   {% if page.chapter == "Introducción" %}
   <div class="sidebar-section">
