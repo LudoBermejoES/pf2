@@ -16,6 +16,7 @@ BASE_DIR = Path(__file__).parent.parent / "docs"
 
 # Colecciones a indexar con su categoría
 COLLECTIONS = {
+    "_campana": "campana",
     "_introduccion": "introduccion",
     "_ambientacion": "ambientacion",
     "_ascendencias": "ascendencias",
