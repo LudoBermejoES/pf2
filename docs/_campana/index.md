@@ -7,6 +7,8 @@ category: campana
 source: Kingmaker
 ---
 
+![Kingmaker Adventure Path]({{ '/assets/images/kingmaker/logo_kingmaker.png' | relative_url }}){: .campaign-logo }
+
 Esta web ha sido creada para jugar la campaña **Kingmaker** de Pathfinder 2ª Edición. Esta sección contiene toda la información específica para crear personajes adecuados para esta aventura épica.
 
 ---
