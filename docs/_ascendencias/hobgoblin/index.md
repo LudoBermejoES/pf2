@@ -70,3 +70,9 @@ La mayoría de los hobgoblins prefieren vivir dentro de jerarquías establecidas
 ### Anatemas populares
 
 - Desobedecer órdenes militares
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/ascendencias/hobgoblin/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/hobgoblin/herencias/' | relative_url }})
+- [Oprak y la Legión]({{ '/ascendencias/hobgoblin/etnias/' | relative_url }})

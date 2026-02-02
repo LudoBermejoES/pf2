@@ -74,3 +74,9 @@ La mayoría de los iruxi no se preocupan por grandes cuestiones morales y centra
 ### Anatemas populares
 
 - Desafiar la voluntad de las estrellas
+
+## Selecciones relacionadas
+
+- [Dotes]({{ '/ascendencias/lizardfolk/dotes/' | relative_url }})
+- [Herencias]({{ '/ascendencias/lizardfolk/herencias/' | relative_url }})
+- [Imperios y Tradiciones Iruxi]({{ '/ascendencias/lizardfolk/etnias/' | relative_url }})

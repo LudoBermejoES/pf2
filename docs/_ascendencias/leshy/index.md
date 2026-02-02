@@ -74,3 +74,4 @@ Las creencias de los leshys se suelen centrar en el mundo natural. Los que estan
 
 - [Dotes]({{ '/ascendencias/leshy/dotes/' | relative_url }})
 - [Herencias]({{ '/ascendencias/leshy/herencias/' | relative_url }})
+- [Naturaleza y Espíritus]({{ '/ascendencias/leshy/etnias/' | relative_url }})
