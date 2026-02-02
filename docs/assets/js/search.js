@@ -1,6 +1,6 @@
 /**
  * Pathfinder 2 Player Core - Advanced Search System
- * Uses Lunr.js for full-text search with Spanish support
+ * Uses MiniSearch for fuzzy full-text search with Spanish support
  */
 
 class PF2Search {
@@ -22,6 +22,18 @@ class PF2Search {
     this.init();
   }
 
+  /**
+   * Normalize text for search - removes accents/diacritics for Spanish
+   * This allows "espadachin" to match "espadachín" and vice versa
+   */
+  normalizeText(text) {
+    if (!text) return '';
+    return text
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '') // Remove diacritics
+      .toLowerCase();
+  }
+
   async init() {
     await this.loadSearchIndex();
     this.bindEvents();
@@ -34,35 +46,41 @@ class PF2Search {
 
       this.searchData = await response.json();
 
-      // Build Lunr index - documents must be added inside the callback
-      const searchData = this.searchData;
-      this.searchIndex = lunr(function() {
-        this.ref('id');
-        this.field('title', { boost: 10 });
-        this.field('content');
-        this.field('category', { boost: 5 });
-        this.field('tags', { boost: 3 });
-
-        // Spanish stemmer support (basic)
-        this.pipeline.remove(lunr.stemmer);
-        this.pipeline.remove(lunr.stopWordFilter);
-
-        this.searchPipeline.remove(lunr.stemmer);
-        this.searchPipeline.remove(lunr.stopWordFilter);
-
-        // Add documents inside callback (required by Lunr)
-        searchData.forEach((doc, index) => {
-          this.add({
-            id: index,
-            title: doc.title,
-            content: doc.content,
-            category: doc.category,
-            tags: doc.tags?.join(' ') || ''
-          });
-        });
+      // Create MiniSearch instance with Spanish-optimized settings
+      this.searchIndex = new MiniSearch({
+        fields: ['title', 'content', 'category', 'tags', 'normalizedTitle', 'normalizedContent'],
+        storeFields: ['title', 'url', 'category', 'content'],
+        searchOptions: {
+          boost: { title: 10, normalizedTitle: 8, tags: 5, category: 3 },
+          fuzzy: 0.2, // Allow ~20% character errors (typos)
+          prefix: true, // Enable prefix search
+          combineWith: 'OR' // Match any term
+        },
+        // Custom tokenizer that handles Spanish better
+        tokenize: (text) => {
+          // Split on whitespace and punctuation, keep words of 2+ chars
+          return text.toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || [];
+        },
+        // Process terms to normalize accents
+        processTerm: (term) => this.normalizeText(term)
       });
 
-      console.log('Search index loaded:', this.searchData.length, 'documents');
+      // Add documents with normalized versions for accent-insensitive search
+      const documents = this.searchData.map((doc, index) => ({
+        id: index,
+        title: doc.title,
+        content: doc.content,
+        category: doc.category,
+        tags: Array.isArray(doc.tags) ? doc.tags.join(' ') : (doc.tags || ''),
+        url: doc.url,
+        // Normalized versions for accent-insensitive matching
+        normalizedTitle: this.normalizeText(doc.title),
+        normalizedContent: this.normalizeText(doc.content)
+      }));
+
+      this.searchIndex.addAll(documents);
+
+      console.log('MiniSearch index loaded:', this.searchData.length, 'documents');
     } catch (error) {
       console.error('Error loading search index:', error);
       this.showError('No se pudo cargar el índice de búsqueda.');
@@ -105,9 +123,13 @@ class PF2Search {
       }
     });
 
-    // Search input
+    // Search input with debounce
+    let debounceTimer;
     this.input?.addEventListener('input', () => {
-      this.performSearch(this.input.value);
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        this.performSearch(this.input.value);
+      }, 100); // 100ms debounce for responsive feel
       this.clearBtn?.classList.toggle('visible', this.input.value.length > 0);
     });
 
@@ -158,15 +180,17 @@ class PF2Search {
     }
 
     try {
-      // Search with wildcards for partial matches
-      const searchQuery = query.trim().split(/\s+/).map(term => `${term}* ${term}`).join(' ');
-      let results = this.searchIndex.search(searchQuery);
+      // Search with MiniSearch - fuzzy and prefix enabled
+      let results = this.searchIndex.search(query, {
+        fuzzy: 0.25, // Slightly more tolerance for user queries
+        prefix: true,
+        combineWith: 'OR'
+      });
 
       // Filter by category if needed
       if (this.currentFilter !== 'all') {
         results = results.filter(result => {
-          const doc = this.searchData[result.ref];
-          return doc.category === this.currentFilter;
+          return result.category === this.currentFilter;
         });
       }
 
@@ -174,54 +198,42 @@ class PF2Search {
       this.selectedIndex = -1;
 
       if (this.searchResults.length === 0) {
-        this.showNoResults(query);
+        // Try with more fuzzy tolerance
+        results = this.searchIndex.search(query, {
+          fuzzy: 0.4, // More tolerant for difficult queries
+          prefix: true,
+          combineWith: 'OR'
+        });
+
+        if (this.currentFilter !== 'all') {
+          results = results.filter(result => result.category === this.currentFilter);
+        }
+
+        this.searchResults = results.slice(0, 20);
+
+        if (this.searchResults.length === 0) {
+          this.showNoResults(query);
+        } else {
+          this.renderResults(query);
+        }
       } else {
         this.renderResults(query);
       }
     } catch (error) {
       console.error('Search error:', error);
-      // Fallback to simple search
-      this.performSimpleSearch(query);
-    }
-  }
-
-  performSimpleSearch(query) {
-    const lowerQuery = query.toLowerCase();
-    let results = this.searchData.filter(doc => {
-      const matchTitle = doc.title.toLowerCase().includes(lowerQuery);
-      const matchContent = doc.content.toLowerCase().includes(lowerQuery);
-      const matchTags = doc.tags?.some(tag => tag.toLowerCase().includes(lowerQuery));
-      return matchTitle || matchContent || matchTags;
-    });
-
-    if (this.currentFilter !== 'all') {
-      results = results.filter(doc => doc.category === this.currentFilter);
-    }
-
-    this.searchResults = results.slice(0, 20).map((doc, i) => ({
-      ref: this.searchData.indexOf(doc),
-      score: doc.title.toLowerCase().includes(lowerQuery) ? 10 : 1
-    }));
-
-    this.selectedIndex = -1;
-
-    if (this.searchResults.length === 0) {
-      this.showNoResults(query);
-    } else {
-      this.renderResults(query);
+      this.showError('Error al realizar la búsqueda.');
     }
   }
 
   renderResults(query) {
     const html = this.searchResults.map((result, index) => {
-      const doc = this.searchData[result.ref];
-      const excerpt = this.getExcerpt(doc.content, query);
-      const highlightedTitle = this.highlightMatch(doc.title, query);
+      const excerpt = this.getExcerpt(result.content, query);
+      const highlightedTitle = this.highlightMatch(result.title, query);
       const highlightedExcerpt = this.highlightMatch(excerpt, query);
 
       return `
-        <a href="${doc.url}" class="search-result-item" data-index="${index}">
-          <span class="result-category">${this.getCategoryLabel(doc.category)}</span>
+        <a href="${result.url}" class="search-result-item" data-index="${index}">
+          <span class="result-category">${this.getCategoryLabel(result.category)}</span>
           <span class="result-title">${highlightedTitle}</span>
           <p class="result-excerpt">${highlightedExcerpt}</p>
         </a>
@@ -240,9 +252,11 @@ class PF2Search {
   }
 
   getExcerpt(content, query) {
-    const lowerContent = content.toLowerCase();
-    const lowerQuery = query.toLowerCase().split(/\s+/)[0];
-    const index = lowerContent.indexOf(lowerQuery);
+    if (!content) return '';
+
+    const normalizedContent = this.normalizeText(content);
+    const normalizedQuery = this.normalizeText(query.split(/\s+/)[0]);
+    const index = normalizedContent.indexOf(normalizedQuery);
 
     if (index === -1) {
       return content.substring(0, 150) + '...';
@@ -259,14 +273,33 @@ class PF2Search {
   }
 
   highlightMatch(text, query) {
-    if (!query) return text;
+    if (!query || !text) return text;
 
     const words = query.trim().split(/\s+/);
     let result = text;
 
     words.forEach(word => {
       if (word.length < 2) return;
-      const regex = new RegExp(`(${this.escapeRegExp(word)})`, 'gi');
+
+      // Create regex that matches both accented and non-accented versions
+      const normalizedWord = this.normalizeText(word);
+
+      // Build a regex pattern that matches characters with or without accents
+      let pattern = '';
+      for (const char of normalizedWord) {
+        const accentMap = {
+          'a': '[aáàâäã]',
+          'e': '[eéèêë]',
+          'i': '[iíìîï]',
+          'o': '[oóòôöõ]',
+          'u': '[uúùûü]',
+          'n': '[nñ]',
+          'c': '[cç]'
+        };
+        pattern += accentMap[char] || this.escapeRegExp(char);
+      }
+
+      const regex = new RegExp(`(${pattern})`, 'gi');
       result = result.replace(regex, '<mark>$1</mark>');
     });
 
@@ -287,9 +320,10 @@ class PF2Search {
       equipo: 'Equipo',
       conjuros: 'Conjuro',
       reglas: 'Regla',
-      apendices: 'Apéndice'
+      apendices: 'Apéndice',
+      ambientacion: 'Ambientación'
     };
-    return labels[category] || category;
+    return labels[category] || category || 'General';
   }
 
   navigateResults(direction) {
@@ -330,10 +364,10 @@ class PF2Search {
         <div class="search-tips">
           <p><strong>Consejos de búsqueda:</strong></p>
           <ul>
+            <li>Busca clases: <code>espadachin</code> o <code>espadachín</code></li>
             <li>Busca conjuros: <code>bola de fuego</code></li>
-            <li>Busca clases: <code>guerrero</code></li>
             <li>Busca reglas: <code>flanqueo</code></li>
-            <li>Busca acciones: <code>golpear</code></li>
+            <li>Tolera errores: <code>gerero</code> encuentra <code>guerrero</code></li>
           </ul>
         </div>
       </div>
@@ -341,12 +375,50 @@ class PF2Search {
   }
 
   showNoResults(query) {
+    // Get suggestions using MiniSearch autoSuggest
+    let suggestions = [];
+    if (this.searchIndex) {
+      try {
+        suggestions = this.searchIndex.autoSuggest(query, {
+          fuzzy: 0.3,
+          prefix: true
+        }).slice(0, 3);
+      } catch (e) {
+        console.warn('AutoSuggest error:', e);
+      }
+    }
+
+    let suggestionsHtml = '';
+    if (suggestions.length > 0) {
+      suggestionsHtml = `
+        <p>¿Quisiste decir?</p>
+        <div class="search-suggestions">
+          ${suggestions.map(s => `<button class="suggestion-btn" data-suggestion="${s.suggestion}">${s.suggestion}</button>`).join('')}
+        </div>
+      `;
+    }
+
     this.results.innerHTML = `
       <div class="search-no-results">
-        <p>No se encontraron resultados para "<strong>${query}</strong>"</p>
+        <p>No se encontraron resultados para "<strong>${this.escapeHtml(query)}</strong>"</p>
+        ${suggestionsHtml}
         <p>Intenta con términos más generales o revisa la ortografía.</p>
       </div>
     `;
+
+    // Add click handlers for suggestions
+    this.results.querySelectorAll('.suggestion-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        this.input.value = btn.dataset.suggestion;
+        this.performSearch(btn.dataset.suggestion);
+      });
+    });
+  }
+
+  escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
   }
 
   showError(message) {
