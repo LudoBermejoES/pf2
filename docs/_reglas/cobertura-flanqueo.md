@@ -36,6 +36,8 @@ Tu DJ podría permitirte superar la cobertura de tu objetivo en algunas situacio
 
 ### Diagrama: Cobertura
 
+<img src="{{ '/assets/images/diagramas/cobertura.png' | relative_url }}" alt="Diagrama de cobertura" style="max-width: 100%; margin: 1rem 0;">
+
 *El diagrama muestra un campo de batalla con cinco personajes: Kyra, Ezren, Valeros, Merisiel y un Ogro, separados por terreno infranqueable (muros).*
 
 **1. Valeros y el ogro no tienen cobertura entre sí.** La línea desde el centro del espacio de Valeros hasta el centro del espacio del ogro no atraviesa terreno infranqueable ni otras criaturas.
