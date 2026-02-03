@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Cuerpo Flamigero ◆◆ [CONJURO 7]
+## Cuerpo Flamigero {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto

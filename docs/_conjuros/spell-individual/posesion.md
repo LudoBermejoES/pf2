@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Posesión ◆◆ [CONJURO 7]
+## Posesión {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura viva

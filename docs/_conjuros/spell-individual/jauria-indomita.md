@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Jauria Indomita ◆◆ [CONJURO 7]
+## Jauria Indomita {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** hasta 10 criaturas

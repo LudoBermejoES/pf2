@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Ponerse a cubierto ◆
+## Ponerse a cubierto {% include accion.html tipo="1" %}
 
 **Requisitos** Te estas beneficiando de cobertura, estas cerca de un rasgo del terreno que te permite ponerte a cubierto o estas tumbado.
 

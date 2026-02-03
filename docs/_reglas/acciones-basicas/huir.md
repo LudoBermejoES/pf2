@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Huir ◆
+## Huir {% include accion.html tipo="1" %}
 
 **ATAQUE**
 

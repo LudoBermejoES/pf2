@@ -17,7 +17,7 @@ source: PC2
 
 Esta varita de cristal tiene una punta en forma de flecha que brilla con luz azulada.
 
-**Activar** ◆◆ Mando (1/día)
+**Activar** {% include accion.html tipo="2" %} Mando (1/día)
 
 **Efecto** Lanzas *proyectil mágico* de rango 1 (3 proyectiles, 1d4+1 de daño de fuerza cada uno).
 

@@ -23,7 +23,7 @@ Conjuras extrañas esferas de llama espiritual que flotan sobre o bajo la superf
 
 ---
 
-### Salto de un dedo · Dote 1 · ◆
+### Salto de un dedo · Dote 1 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Tengu
 
@@ -39,7 +39,7 @@ Siempre estás al acecho de suministros y objetos de valor. Obtienes un bonifica
 
 ---
 
-### ¡Graznido! · Dote 1 · ◇
+### ¡Graznido! · Dote 1 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Tengu
 
@@ -89,7 +89,7 @@ Posees un aplomo casi sobrenatural que te permite moverte con rapidez sobre las 
 
 ## 5.º nivel
 
-### Comer fortuna · Dote 5 · ◇
+### Comer fortuna · Dote 5 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Concentrar, Divino, Tengu
 
@@ -101,7 +101,7 @@ A medida que alguien intenta torcer el destino, consumes la interferencia. El ef
 
 ---
 
-### Forma de nariz larga · Dote 5 · ◆
+### Forma de nariz larga · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Concentrar, Polimorfo, Primitivo, Tengu
 
@@ -111,7 +111,7 @@ Pierdes tu Golpe desarmado de pico en tu forma humana, así como cualquier otro 
 
 ---
 
-### Arrebatar como grajo · Dote 5 · ◆◆
+### Arrebatar como grajo · Dote 5 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Tengu
 
@@ -119,7 +119,7 @@ Te mueves con rapidez, arrebatando un objeto brillante que llama tu atención. A
 
 ---
 
-### Vuelo en ascenso · Dote 5 · ◆
+### Vuelo en ascenso · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Tengu
 
@@ -131,7 +131,7 @@ Vuelas. Si normalmente no tienes Velocidad de vuelo, obtienes una Velocidad de v
 
 ---
 
-### Abanico de plumas tengu · Dote 5 · ◆
+### Abanico de plumas tengu · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Tengu
 
@@ -173,7 +173,7 @@ Tu abanico puede agitar vientos aún más poderosos. Puedes usar la activación 
 
 ## 13.º nivel
 
-### Garra del heraldo · Dote 13 · ◇
+### Garra del heraldo · Dote 13 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Auditivo, Divino, Fortuna adversa, Tengu
 

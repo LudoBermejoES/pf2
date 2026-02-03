@@ -14,7 +14,7 @@ Los magos obtienen conjuros de foco a través de su escuela de magia elegida. Ca
 
 ## Arte Gramática
 
-### Custodias Protectoras ◆ FOCO 1
+### Custodias Protectoras {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, aura, foco, mago, manipular
 **Área:** Emanación de 5 pies (1,5 m) centrada en ti
 **Duración:** Mantenido hasta 1 minuto
@@ -23,7 +23,7 @@ Expandes un anillo de glifos que escuda a tus aliados. Tú y cualquier aliado tu
 
 ---
 
-### Runa de Observación ◆ FOCO 4
+### Runa de Observación {% include accion.html tipo="1" %} FOCO 4
 **Rasgos:** Poco común, concentrar, foco, mago
 **Rango:** 500 pies (150 m)
 **Duración:** 1 hora
@@ -36,7 +36,7 @@ Cada vez que se acaba la duración de conjuro, puedes gastar 1 Punto de Foco com
 
 ## El Límite
 
-### Fortificar Convocación ◆ FOCO 1
+### Fortificar Convocación {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, concentrar, foco, mago
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura convocada por ti
 
@@ -44,7 +44,7 @@ Cuando llamas a tu lado a una criatura, tu magia transforma su cuerpo, potencian
 
 ---
 
-### Espiral de Horrores ◆◆ FOCO 4
+### Espiral de Horrores {% include accion.html tipo="2" %} FOCO 4
 **Rasgos:** Poco común, aura, concentrar, emoción, foco, mago, manipular, mental, miedo
 **Área:** Emanación de 30 pies (9 m)
 **Duración:** Mantenido hasta 1 minuto
@@ -55,7 +55,7 @@ Sombras y espíritus aúllan y giran a tu alrededor en una manifestación que in
 
 ## Forma Proteica
 
-### Revolver el Cuerpo ◆◆ FOCO 1
+### Revolver el Cuerpo {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco común, concentrar, foco, mago, manipular
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viva
 **Defensa:** Fortaleza
@@ -70,7 +70,7 @@ Tu magia pone patas arriba la biología de la criatura, induciendo mareos, fiebr
 
 ---
 
-### Forma Cambiante ◆ FOCO 4
+### Forma Cambiante {% include accion.html tipo="1" %} FOCO 4
 **Rasgos:** Poco común, concentrar, foco, mago, morfismo
 **Duración:** 1 minuto
 
@@ -86,7 +86,7 @@ Cambias tu cuerpo para que encaje mejor con el momento. Obtienes una de las sigu
 
 ## Magia Cívica
 
-### Movimiento de Tierras ◆ a ◆◆◆ FOCO 1
+### Movimiento de Tierras {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 1
 **Rasgos:** Poco común, concentrar, foco, mago, manipular, tierra
 **Rango:** 60 pies (18 m); **Área:** Explosión de 5 pies (1,5 m) o más
 **Duración:** 1 minuto
@@ -107,7 +107,7 @@ Cuando utilizas tu magia para apoyar a tus aliados, una fuerza compartida os ref
 
 ## Magia de Batalla
 
-### Rayo de Fuerza ◆ FOCO 1
+### Rayo de Fuerza {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, foco, fuerza, mago, manipular
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
@@ -129,7 +129,7 @@ Estás acostumbrado a mitigar el daño hecho por las bombas, las máquinas de as
 
 ## Mentalismo
 
-### Empujón Encantador ◆ FOCO 1
+### Empujón Encantador {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, concentrar, foco, incapacitación, mago, mental
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** Hasta el inicio de tu siguiente turno
@@ -146,7 +146,7 @@ Haces presión contra la mente del objetivo para desviar su ira. El objetivo tie
 
 ---
 
-### Capa de Invisibilidad ◆◆ FOCO 4
+### Capa de Invisibilidad {% include accion.html tipo="2" %} FOCO 4
 **Rasgos:** Poco común, foco, ilusión, mago, manipular
 **Duración:** 1 minuto
 
@@ -160,7 +160,7 @@ Te vuelves invisible, con las mismas restricciones del conjuro *invisibilidad* d
 
 ## Teoría Mágica Unificada
 
-### Mano del Aprendiz ◆ FOCO 1
+### Mano del Aprendiz {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, ataque, foco, mago, manipular
 **Rango:** 500 pies (150 m); **Objetivos:** 1 criatura
 **Defensa:** CA

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Decreto Divino ◆◆ [CONJURO 7]
+## Decreto Divino {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** divina
 **Rango de distancia:** 40 pies (12 m); **Area:** emanacion de 40 pies (12 m); **Defensa:** Fortaleza; **Duracion:** variable

@@ -16,7 +16,7 @@ Incluso si no estás entrenado en Medicina, puedes utilizarla para Recordar cono
 
 ---
 
-## Primeros auxilios ◆◆
+## Primeros auxilios {% include accion.html tipo="2" %}
 
 **Rasgos:** Manipular
 
@@ -34,7 +34,7 @@ Administras Primeros auxilios a una criatura adyacente que está moribunda o san
 
 ---
 
-## Tratar veneno ◆
+## Tratar veneno {% include accion.html tipo="1" %}
 
 **Rasgos:** Manipular
 

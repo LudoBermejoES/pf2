@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Objetivo Verdadero ◆ [CONJURO 7]
+## Objetivo Verdadero {% include accion.html tipo="1" %} [CONJURO 7]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 4 criaturas

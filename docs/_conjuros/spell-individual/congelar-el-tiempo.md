@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
-## Congelar el Tiempo ◆◆◆ [CONJURO 10]
+## Congelar el Tiempo {% include accion.html tipo="3" %} [CONJURO 10]
 
 **Tradiciones:** arcana, ocultista
 

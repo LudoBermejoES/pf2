@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Invocar servitor menor ◆◆◆ [1]
+## Invocar servitor menor {% include accion.html tipo="3" %} [1]
 
 **Tradiciones:** divina
 **Rango:** 30 pies (9 m)

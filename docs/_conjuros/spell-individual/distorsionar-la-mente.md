@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Distorsionar la Mente ◆◆ [CONJURO 7]
+## Distorsionar la Mente {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

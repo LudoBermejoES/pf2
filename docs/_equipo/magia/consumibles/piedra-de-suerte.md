@@ -19,7 +19,7 @@ source: PC2
 
 Esta pequeña piedra verde trae buena fortuna a quien la lleva.
 
-**Activar** ◇ Imaginar (desencadenante: fallas una salvación)
+**Activar** {% include accion.html tipo="libre" %} Imaginar (desencadenante: fallas una salvación)
 
 **Efecto** Activas el talismán cuando fallas una salvación. Puedes volver a tirar la salvación y quedarte con el segundo resultado. El talismán se consume.
 

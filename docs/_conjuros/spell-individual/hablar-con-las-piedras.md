@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Hablar con las Piedras ◆◆ [CONJURO 5]
+## Hablar con las Piedras {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Duracion:** 1 hora

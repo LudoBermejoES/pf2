@@ -19,7 +19,7 @@ source: PC2
 
 Esta poción plateada con reflejos de nubes otorga el don del vuelo.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Ganas una Velocidad de vuelo de 40 pies (12 m) durante 1 minuto.
 

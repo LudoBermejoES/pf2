@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
-## Drenaje de croma ◆◆ [4]
+## Drenaje de croma {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** ocultista
 **Rango:** toque; **Objetivos:** 1 criatura viviente

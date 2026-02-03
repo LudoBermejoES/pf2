@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Detectar Magia ◆◆ [TRUCO 1]
+## Detectar Magia {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Area:** emanacion de 30 pies (9 m)

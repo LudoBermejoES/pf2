@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Mensaje ◆ [TRUCO 1]
+## Mensaje {% include accion.html tipo="1" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

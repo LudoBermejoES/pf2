@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
-## Tesoro fantasmal ◆◆ [2]
+## Tesoro fantasmal {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 60 pies (18 m); **Objetivos:** 1 criatura viviente

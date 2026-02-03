@@ -35,7 +35,7 @@ Obtienes los servicios de un compañero animal joven que viaja contigo en tus av
 
 ---
 
-### Conjuro de Alcance ◆ | Dote 1
+### Conjuro de Alcance {% include accion.html tipo="1" %} | Dote 1
 
 **Rasgos:** Concentrar, Druida, Moldeo de conjuros
 
@@ -59,7 +59,7 @@ Tienes una conexión con la flora que te permite comunicarte con ella a un nivel
 
 ---
 
-### Extender Conjuro ◆ | Dote 1
+### Extender Conjuro {% include accion.html tipo="1" %} | Dote 1
 
 **Rasgos:** Druida, Manipular, Moldeo de conjuros
 
@@ -149,7 +149,7 @@ Tu compañero animal tiene una independencia mayor. Durante un encuentro, inclus
 
 ---
 
-### Conjuro de Ventisquero ◆ | Dote 4
+### Conjuro de Ventisquero {% include accion.html tipo="1" %} | Dote 4
 
 **Rasgos:** Druida, Frío, Manipular, Moldeo de conjuros
 
@@ -159,7 +159,7 @@ El aullarte viento y la precipitación de tu magia se convierten en gruesa nieve
 
 ---
 
-### Controlar Forma ◆ | Dote 4
+### Controlar Forma {% include accion.html tipo="1" %} | Dote 4
 
 **Rasgos:** Druida, Manipular, Moldeo de conjuros
 
@@ -225,7 +225,7 @@ Los secretos de la orden de la hoja permiten que tu familiar saque partido de su
 
 ## Dotes de 6.º Nivel
 
-### Apoyo Instintivo ◇ | Dote 6
+### Apoyo Instintivo {% include accion.html tipo="libre" %} | Dote 6
 
 **Rasgos:** Druida
 
@@ -251,7 +251,7 @@ Te revuelves, dirigiendo una explosión de furia tormentosa contra la criatura q
 
 ---
 
-### Conjuro de Corriente ◆ | Dote 6
+### Conjuro de Corriente {% include accion.html tipo="1" %} | Dote 6
 
 **Rasgos:** Concentrar, Druida, Moldeo de conjuros
 
@@ -289,7 +289,7 @@ Confiado en tu técnica, no pierdes conjuros fácilmente. Si una reacción inter
 
 ## Dotes de 8.º Nivel
 
-### Alzar Megalito ◆◆ | Dote 8
+### Alzar Megalito {% include accion.html tipo="2" %} | Dote 8
 
 **Rasgos:** Druida
 
@@ -309,7 +309,7 @@ Tu compañero animal continúa creciendo y desarrollándose. Se convierte, a ele
 
 ---
 
-### Exhibición Deimática ◆ | Dote 8
+### Exhibición Deimática {% include accion.html tipo="1" %} | Dote 8
 
 **Rasgos:** Druida
 
@@ -357,7 +357,7 @@ Has aprendido algunos de los trucos que las hadas utilizan para doblegar la magi
 
 ---
 
-### Restablecimiento Floral ◆ | Dote 8
+### Restablecimiento Floral {% include accion.html tipo="1" %} | Dote 8
 
 **Rasgos:** Curación, Druida, Vitalidad
 
@@ -393,7 +393,7 @@ Tu arma verde puede atravesar las resistencias de las criaturas mágicas. Se con
 
 Tu compañero puede emitir un aullido imbricado en tu magia primigenia. Obtiene la siguiente maniobra avanzada, además de cualquier otra maniobra avanzada que ya conoce.
 
-**Aullido primigenio ◆◆** (primigenio, sónico); **Frecuencia** una vez por hora; **Efecto** Tu familiar chilla y aúlla, potenciado por magia natural. Todas las criaturas en un cono de 30 pies (9 m) sufren 1d6 daño sónico por cada 2 niveles que tiene tu compañero, con derecho a una salvación de Fortaleza básica contra tu CD de conjuros. Las criaturas que fallan quedan asustadas 1 y las que fallan críticamente quedan asustadas 2. El miedo es un efecto de emoción, miedo y mental.
+**Aullido primigenio {% include accion.html tipo="2" %}** (primigenio, sónico); **Frecuencia** una vez por hora; **Efecto** Tu familiar chilla y aúlla, potenciado por magia natural. Todas las criaturas en un cono de 30 pies (9 m) sufren 1d6 daño sónico por cada 2 niveles que tiene tu compañero, con derecho a una salvación de Fortaleza básica contra tu CD de conjuros. Las criaturas que fallan quedan asustadas 1 y las que fallan críticamente quedan asustadas 2. El miedo es un efecto de emoción, miedo y mental.
 
 ---
 
@@ -407,7 +407,7 @@ Tu compañero animal y tú lucháis en tándem, distrayendo a vuestros enemigos 
 
 ---
 
-### Conjuro Atronador ◆ | Dote 10
+### Conjuro Atronador {% include accion.html tipo="1" %} | Dote 10
 
 **Rasgos:** Druida, Moldeo de conjuros, Sónico
 
@@ -417,7 +417,7 @@ Tu relámpago corta el aire, generando una atronadora onda de choque. Si tu sigu
 
 ---
 
-### Energía Abrumadora ◆ | Dote 10
+### Energía Abrumadora {% include accion.html tipo="1" %} | Dote 10
 
 **Rasgos:** Druida, Manipular, Moldeo de conjuros
 
@@ -445,7 +445,7 @@ Entiendes los elementos fundamentales de la Naturaleza, de forma que puedes imbu
 
 ---
 
-### Transformación Curativa ◆ | Dote 10
+### Transformación Curativa {% include accion.html tipo="1" %} | Dote 10
 
 **Rasgos:** Druida, Moldeo de conjuros
 
@@ -455,7 +455,7 @@ Puedes beneficiarte de la magia de cambio de forma para cerrar heridas y aliviar
 
 ## Dotes de 12.º Nivel
 
-### Conjuro de Guirnalda ◆ | Dote 12
+### Conjuro de Guirnalda {% include accion.html tipo="1" %} | Dote 12
 
 **Rasgos:** Druida, Manipular, Moldeo de conjuros
 
@@ -529,7 +529,7 @@ Tu compañero animal continúa creciendo en poder y en aptitudes. Obtiene una es
 
 Te has convertido en una versión vegetal de ti mismo, obteniendo el rasgo planta y perdiendo los rasgos inapropiados a tu nueva forma (típicamente humanoide). También obtienes la acción Descanso verde.
 
-**Descanso verde ◆** (concentrar) Te conviertes en un árbol o en otra planta que no es una criatura. Esto tiene el mismo efecto que utilizar *uno con las plantas* para convertirte en una planta, excepto que tu CA es 30. Puedes Deshacer este efecto para volver. Si descansas durante 10 minutos en esta forma bajo luz solar natural, recuperas la mitad de tus Puntos de Golpe máximos. Si llevas a cabo tu descanso diario en esta forma, recuperas el máximo de tus Puntos de Golpe y eliminas todos los estados no permanentes de drenado, debilitado, torpe y anonadado, así como todos los venenos y enfermedades de nivel 19 o menor.
+**Descanso verde {% include accion.html tipo="1" %}** (concentrar) Te conviertes en un árbol o en otra planta que no es una criatura. Esto tiene el mismo efecto que utilizar *uno con las plantas* para convertirte en una planta, excepto que tu CA es 30. Puedes Deshacer este efecto para volver. Si descansas durante 10 minutos en esta forma bajo luz solar natural, recuperas la mitad de tus Puntos de Golpe máximos. Si llevas a cabo tu descanso diario en esta forma, recuperas el máximo de tus Puntos de Golpe y eliminas todos los estados no permanentes de drenado, debilitado, torpe y anonadado, así como todos los venenos y enfermedades de nivel 19 o menor.
 
 ---
 
@@ -541,7 +541,7 @@ Como quiera que la magia primigenia te sustenta, dejas de envejecer. La energía
 
 ---
 
-### Sembrar Conjuro ◆ | Dote 14
+### Sembrar Conjuro {% include accion.html tipo="1" %} | Dote 14
 
 **Rasgos:** Concentrar, Druida, Moldeo de conjuros
 
@@ -578,7 +578,7 @@ Puedes llenar una zona con brezos devastadores. Obtienes el conjuro de orden *br
 
 ---
 
-### Concentración sin Esfuerzo ◇ | Dote 16
+### Concentración sin Esfuerzo {% include accion.html tipo="libre" %} | Dote 16
 
 **Rasgos:** Druida
 
@@ -648,11 +648,11 @@ Puedes invocar sobre tus enemigos la furia de la Naturaleza. Obtienes el conjuro
 
 Trasciendes las limitaciones de la forma. Una vez al día puedes lanzar *Naturaleza encarnada*, incluso si no lo tienes preparado, para transformarte en un kaiju. Si tienes Forma de planta, en su lugar puedes transformarte en un hombre verde. También obtienes la actividad Cambio de forma verdadero.
 
-**Cambio de forma verdadero ◆◆** (concentrar); **Requisitos:** Estás bajo los efectos de *forma indómita*; **Efecto:** Cambias a cualquier otra forma de tu lista de *forma indómita*. Si la duración de dicha forma es diferente a la que tenías previamente, utiliza la más corta para determinar la que queda.
+**Cambio de forma verdadero {% include accion.html tipo="2" %}** (concentrar); **Requisitos:** Estás bajo los efectos de *forma indómita*; **Efecto:** Cambias a cualquier otra forma de tu lista de *forma indómita*. Si la duración de dicha forma es diferente a la que tenías previamente, utiliza la más corta para determinar la que queda.
 
 ---
 
-### Conducto de Líneas Ley ◆ | Dote 20
+### Conducto de Líneas Ley {% include accion.html tipo="1" %} | Dote 20
 
 **Rasgos:** Concentrar, Druida, Manipular, Moldeo de conjuros
 

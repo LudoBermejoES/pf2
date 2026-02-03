@@ -1,12 +1,12 @@
 ---
 layout: spell
 permalink: /conjuros/descarga-de-fuerza-a/
-title: Descarga de Fuerza ◆ a
+title: Descarga de Fuerza {% include accion.html tipo="1" %} a
 chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Descarga de Fuerza ◆ a ◆◆◆ [CONJURO 1]
+## Descarga de Fuerza {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

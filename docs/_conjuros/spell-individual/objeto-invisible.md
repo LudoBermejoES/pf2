@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Objeto invisible ◆◆ [1]
+## Objeto invisible {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** toque; **Objetivos:** 1 objeto

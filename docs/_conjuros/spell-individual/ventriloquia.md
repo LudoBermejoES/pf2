@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Ventriloquia ◆◆ [CONJURO 1]
+## Ventriloquia {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 10 minutos

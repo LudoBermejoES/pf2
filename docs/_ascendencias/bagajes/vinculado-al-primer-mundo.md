@@ -18,7 +18,7 @@ Elige dos mejoras de atributo. Una debe ser a **Destreza** o **Carisma**, y una 
 
 Estás entrenado en **Saber sobre hadas** y obtienes la acción libre **Fortuna feérica**. Obtienes un **anatema** como parte de tu pacto con las hadas. Si violas este anatema, pierdes Fortuna feérica hasta que recibas los efectos de un ritual de *expiación* exitoso usando la habilidad de Naturaleza. El anatema exacto depende de ti y del DJ, pero el requisito más común es que debes cumplir una petición de cualquier hada que conozca tu nombre.
 
-### Fortuna feérica · ◇
+### Fortuna feérica · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Concentrar, Fortuna
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC2
 ---
-## Jaula de madera vital ◆◆◆ [7]
+## Jaula de madera vital {% include accion.html tipo="3" %} [7]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 30 pies (9 m); **Área:** 1 cubo de 20 pies (6 m) por lado

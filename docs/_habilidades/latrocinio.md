@@ -12,7 +12,7 @@ Estas entrenado en un conjunto de habilidades en particular, típicas de ladrone
 
 ---
 
-## Escamotear un objeto ◆
+## Escamotear un objeto {% include accion.html tipo="1" %}
 
 **Rasgos:** Manipular
 
@@ -24,7 +24,7 @@ Te haces con un objeto pequeño no atendido e intentas que nadie se dé cuenta. 
 
 ---
 
-## Sustraer ◆
+## Sustraer {% include accion.html tipo="1" %}
 
 **Rasgos:** Manipular
 
@@ -44,7 +44,7 @@ También podrías tener que comparar el resultado de tu prueba de Latrocinio con
 
 ## Acciones entrenadas de Latrocinio
 
-### Forzar una cerradura ◆◆
+### Forzar una cerradura {% include accion.html tipo="2" %}
 
 **Rasgos:** Manipular
 
@@ -60,7 +60,7 @@ Abrir una cerradura sin tener la llave es muy parecido a Inutilizar un mecanismo
 
 ---
 
-### Inutilizar un mecanismo ◆◆
+### Inutilizar un mecanismo {% include accion.html tipo="2" %}
 
 **Rasgos:** Manipular
 

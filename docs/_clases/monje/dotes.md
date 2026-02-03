@@ -28,7 +28,7 @@ Si obtienes el beneficio de especialidad critica para ataques desarmados--con la
 
 ---
 
-### Postura de Arquero Monastico ◆
+### Postura de Arquero Monastico {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Monje, Postura*
@@ -41,7 +41,7 @@ Entras en una postura especializada para un arte marcial unico centrado en el us
 
 ---
 
-### Postura de la Grulla ◆
+### Postura de la Grulla {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Monje, Postura*
@@ -54,7 +54,7 @@ Mientras estas en Postura de la Grulla, reduce la CD para Salto alto y Salto lar
 
 ---
 
-### Postura del Dragon ◆
+### Postura del Dragon {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Monje, Postura*
@@ -67,7 +67,7 @@ Mientras estas en Postura del Dragon, puedes ignorar la primera casilla de terre
 
 ---
 
-### Postura de la Montana ◆
+### Postura de la Montana {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Monje, Postura*
@@ -80,7 +80,7 @@ Mientras estas en Postura de la Montana, obtienes un bonificador de objeto +4 a 
 
 ---
 
-### Postura del Tigre ◆
+### Postura del Tigre {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Monje, Postura*
@@ -93,7 +93,7 @@ Mientras tu Velocidad sea de al menos 6 m en Postura del Tigre, puedes dar un Pa
 
 ---
 
-### Postura del Lobo ◆
+### Postura del Lobo {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Monje, Postura*
@@ -106,7 +106,7 @@ Si estas flanqueando a un objetivo mientras estas en Postura del Lobo, tus ataqu
 
 ---
 
-### Postura Tambaleante ◆
+### Postura Tambaleante {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Monje, Postura*
@@ -157,7 +157,7 @@ Puedes colorear tu qi con brillante energia elemental. Cuando lanzas conmocion i
 
 ---
 
-### Postura de Estrellas Fugaces ◆
+### Postura de Estrellas Fugaces {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Monje, Postura*
@@ -181,7 +181,7 @@ El poder concentrado de tu rafaga amenaza con abrumar a tu oponente. Cuando apun
 
 ## Nivel 4
 
-### Postura de la Cobra ◆
+### Postura de la Cobra {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Monje, Postura*
@@ -216,7 +216,7 @@ Tu rafaga es una combinacion de maniobras. Puedes reemplazar uno o ambos de tus 
 
 ---
 
-### Patada Voladora ◆◆
+### Patada Voladora {% include accion.html tipo="2" %}
 **Dote 4**
 
 *Monje*
@@ -310,7 +310,7 @@ Interpones tu brazo entre tu y tu oponente. Tu bonificador de circunstancia a la
 
 ---
 
-### Rugido del Dragon ◆
+### Rugido del Dragon {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Auditivo, Emocion, Miedo, Mental, Monje*
@@ -325,7 +325,7 @@ Despues de usar Rugido del Dragon, no puedes usarlo de nuevo durante 1d4 rondas.
 
 ---
 
-### Baluarte de la Montana ◆
+### Baluarte de la Montana {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Monje*
@@ -340,7 +340,7 @@ Te concentras en tu conexion con la tierra e invocas a la montana para bloquear 
 
 ---
 
-### Golpe de un Centimetro ◆◆ o ◆◆◆
+### Golpe de un Centimetro {% include accion.html tipo="2" %} o {% include accion.html tipo="3" %}
 **Dote 6**
 
 *Monje*
@@ -379,7 +379,7 @@ Golpeas confusamente, con lo que parece ser un movimiento debil, pero en su luga
 
 ---
 
-### Tajo del Tigre ◆◆
+### Tajo del Tigre {% include accion.html tipo="2" %}
 **Dote 6**
 
 *Monje*
@@ -401,7 +401,7 @@ Puedes dar una Zancada a traves de liquidos y superficies que no soportan tu pes
 
 ---
 
-### Lanzamiento Giratorio ◆
+### Lanzamiento Giratorio {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Ataque, Monje*
@@ -420,7 +420,7 @@ Impulsas a tu enemigo lejos. Intenta una prueba de Atletismo contra la CD de For
 
 ---
 
-### Arrastre del Lobo ◆◆
+### Arrastre del Lobo {% include accion.html tipo="2" %}
 **Dote 6**
 
 *Monje*
@@ -446,7 +446,7 @@ Aprendes una postura mistica que transforma tu qi en humo pegajoso que envuelve 
 
 ---
 
-### Postura de Sangre de Hierro ◆
+### Postura de Sangre de Hierro {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Monje, Postura*
@@ -459,7 +459,7 @@ Mientras estas en Postura de Sangre de Hierro, obtienes resistencia 2 a todo el 
 
 ---
 
-### Maniobra Mixta ◆◆
+### Maniobra Mixta {% include accion.html tipo="2" %}
 **Dote 8**
 
 *Monje*
@@ -492,7 +492,7 @@ Arrancas misiles del aire y los lanzas de vuelta a su origen. Cuando desvias con
 
 ---
 
-### Postura del Bosque Enmaranado ◆
+### Postura del Bosque Enmaranado {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Monje, Postura*
@@ -505,7 +505,7 @@ Mientras estas en Postura del Bosque Enmaranado y puedes actuar, cada enemigo en
 
 ---
 
-### Correr por Paredes ◆
+### Correr por Paredes {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Monje*
@@ -527,7 +527,7 @@ Aprendes una postura que te permite atacar a distancia. Obtienes el hechizo de q
 
 ## Nivel 10
 
-### Envenenar Cobra ◆
+### Envenenar Cobra {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Monje, Veneno*
@@ -544,7 +544,7 @@ Deslocas ligeramente tus articulaciones para golpear con intencion traicionera y
 
 ---
 
-### Golpe de Empujon ◆◆
+### Golpe de Empujon {% include accion.html tipo="2" %}
 **Dote 10**
 
 *Concentrar, Monje*
@@ -566,7 +566,7 @@ Tu flexibilidad con posturas te permite sacrificar sus beneficios para protegert
 
 ---
 
-### Presa Asfixiante ◆
+### Presa Asfixiante {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Incapacitacion, Monje*
@@ -592,7 +592,7 @@ Reunes el viento bajo ti, permitiendote elevarte mientras saltas. Obtienes el he
 
 ---
 
-### Fluir Sinuoso ◆
+### Fluir Sinuoso {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Monje*
@@ -605,7 +605,7 @@ Cualquier viaje consiste en mas que simplemente llegar a tu destino. Usas dos de
 
 ## Nivel 12
 
-### Interrumpir Qi ◆◆
+### Interrumpir Qi {% include accion.html tipo="2" %}
 **Dote 12**
 
 *Monje, Vacio*
@@ -627,7 +627,7 @@ Esquivas un golpe en el ultimo momento posible. Das un Paso y obtienes resistenc
 
 ---
 
-### Disparo Concentrado ◆
+### Disparo Concentrado {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Concentrar, Monje*
@@ -662,7 +662,7 @@ Tu meditacion es tan efectiva que puedes alcanzar una concentracion profunda con
 
 ---
 
-### Aliento Abrumador ◆
+### Aliento Abrumador {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Concentrar, Monje, Moldear Hechizo*
@@ -673,7 +673,7 @@ Controlas tu respiracion y la alineas con tu qi, exhalando con fuerza controlada
 
 ---
 
-### Postura Reflexiva ◇
+### Postura Reflexiva {% include accion.html tipo="libre" %}
 **Dote 12**
 
 *Monje*
@@ -686,7 +686,7 @@ Entras en una postura sin pensarlo. Usa una accion que tenga el rasgo postura.
 
 ## Nivel 14
 
-### Bloquear Forma ◆
+### Bloquear Forma {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Ataque, Monje*
@@ -697,7 +697,7 @@ Tu habilidad para controlar tu propio qi te empodera para presionar a otras cria
 
 ---
 
-### Oleada de Sangre de Hierro ◆
+### Oleada de Sangre de Hierro {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Monje*
@@ -710,7 +710,7 @@ Te preparas, listo para resistir ataques entrantes y usando tus musculos para ab
 
 ---
 
-### Terremoto de Montana ◆
+### Terremoto de Montana {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Monje*
@@ -745,7 +745,7 @@ Puedes lanzar una ola de qi sombrio hacia afuera desde tu cuerpo, danando a tus 
 
 ---
 
-### Rastrillada del Bosque Enmaranado ◆
+### Rastrillada del Bosque Enmaranado {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Monje*
@@ -758,7 +758,7 @@ Reposicionas a los enemigos con ataques rastrillantes. Haz un Golpe de rama azot
 
 ---
 
-### Postura de Hoja Giratoria ◆
+### Postura de Hoja Giratoria {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Monje, Postura*
@@ -771,7 +771,7 @@ Una vez que hayas hecho un Golpe arrojadizo con tal arma, puedes usar la precisi
 
 ---
 
-### Rafaga de Vientos Salvajes ◆◆
+### Rafaga de Vientos Salvajes {% include accion.html tipo="2" %}
 **Dote 14**
 
 *Aire, Concentrar, Manipular, Monje*
@@ -799,7 +799,7 @@ Si las posturas ambas otorgan ataques especiales, obtienes todos esos ataques. S
 
 ---
 
-### Maestro de Muchos Estilos ◇
+### Maestro de Muchos Estilos {% include accion.html tipo="libre" %}
 **Dote 16**
 
 *Monje*
@@ -842,7 +842,7 @@ Tus punos tienen fuerza y control increibles. Cuando danas a un objetivo usando 
 
 ---
 
-### Golpe Destrozador ◆◆
+### Golpe Destrozador {% include accion.html tipo="2" %}
 **Dote 16**
 
 *Monje*
@@ -873,7 +873,7 @@ Has desbloqueado una tecnica de qi alcanzable solo por aquellos que logran el do
 
 ---
 
-### Centro de Qi ◇
+### Centro de Qi {% include accion.html tipo="libre" %}
 **Dote 18**
 
 *Monje*
@@ -886,7 +886,7 @@ Te centras con el universo y aprovechas su vasto poder. Lanzas un hechizo de qi 
 
 ---
 
-### Rio Veloz ◇
+### Rio Veloz {% include accion.html tipo="libre" %}
 **Dote 18**
 
 *Monje*
@@ -897,7 +897,7 @@ Fluyes como el agua, evitando todas las restricciones. Termina un penalizador de
 
 ---
 
-### Disparo Triangular ◆◆
+### Disparo Triangular {% include accion.html tipo="2" %}
 **Dote 18**
 
 *Concentrar, Fortuna, Monje*
@@ -921,7 +921,7 @@ Te mueves tan rapido y libremente como el viento. Estas permanentemente acelerad
 
 ---
 
-### Rompedioses ◆◆◆
+### Rompedioses {% include accion.html tipo="3" %}
 **Dote 20**
 
 *Monje*
@@ -960,7 +960,7 @@ Ejecutas una maniobra que desafia la posibilidad. Si el efecto desencadenante fu
 
 ---
 
-### Qi Relampagueante ◇
+### Qi Relampagueante {% include accion.html tipo="libre" %}
 **Dote 20**
 
 *Monje*

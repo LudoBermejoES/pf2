@@ -37,7 +37,7 @@ Los heroes enanos de la antigüedad podían sacudirse la magia de sus enemigos y
 
 **Beneficio:** Obtienes la reacción Llamar a la sangre antigua.
 
-### Llamar a la sangre antigua ◆◆◆
+### Llamar a la sangre antigua {% include accion.html tipo="3" %}
 **Reacción**
 
 **Desencadenante:** Haces una tirada de salvación contra un efecto magico pero aun no has tirado los dados.

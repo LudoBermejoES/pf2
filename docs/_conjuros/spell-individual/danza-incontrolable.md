@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
-## Danza Incontrolable ◆◆ [CONJURO 8]
+## Danza Incontrolable {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

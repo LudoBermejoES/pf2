@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
-## Incitar esqueletos ◆◆ [3]
+## Incitar esqueletos {% include accion.html tipo="2" %} [3]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango:** 60 pies (18 m); **Área:** explosión de 10 pies (3 m)

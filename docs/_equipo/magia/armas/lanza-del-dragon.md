@@ -19,7 +19,7 @@ source: PC2
 
 Esta lanza tiene la punta forjada con la garra de un dragón y está imbuida con poder elemental.
 
-**Activar** ◆◆ Mando (1/día)
+**Activar** {% include accion.html tipo="2" %} Mando (1/día)
 
 **Efecto** Puedes activar la lanza para lanzar un cono de aliento de 30 pies (9 m) que inflige 6d6 de daño elemental (el tipo depende del dragón de origen: fuego, frío, ácido, electricidad o veneno). Las criaturas en el área pueden intentar una salvación básica de Reflejos CD 24.
 

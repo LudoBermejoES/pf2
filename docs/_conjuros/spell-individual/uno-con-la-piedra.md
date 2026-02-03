@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Uno con la Piedra ◆◆ [CONJURO 3]
+## Uno con la Piedra {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 10 minutos u 8 horas

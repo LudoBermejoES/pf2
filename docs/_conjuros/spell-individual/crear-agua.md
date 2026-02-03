@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Crear Agua ◆◆ [CONJURO 1]
+## Crear Agua {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, primigenia
 **Rango de distancia:** 0 pies

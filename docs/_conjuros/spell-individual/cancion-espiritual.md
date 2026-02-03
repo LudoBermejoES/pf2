@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC2
 ---
-## Canción espiritual ◆◆ [8]
+## Canción espiritual {% include accion.html tipo="2" %} [8]
 
 **Tradiciones:** divina, ocultista
 **Área:** cono de 60 pies (18 m)

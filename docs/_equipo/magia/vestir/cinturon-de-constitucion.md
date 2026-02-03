@@ -21,7 +21,7 @@ Este cinturón de cuero grueso está reforzado con placas de metal.
 
 **Activar** —
 
-**Efecto** Ganas un bonificador por objeto +1 a las salvaciones de Fortaleza. Además, una vez al día cuando recibirías daño que te reduciría a 0 PG, puedes activar el cinturón (◇) para reducir ese daño en 10.
+**Efecto** Ganas un bonificador por objeto +1 a las salvaciones de Fortaleza. Además, una vez al día cuando recibirías daño que te reduciría a 0 PG, puedes activar el cinturón ({% include accion.html tipo="libre" %}) para reducir ese daño en 10.
 
 ---
 

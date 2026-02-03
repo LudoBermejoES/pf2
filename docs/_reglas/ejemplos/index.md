@@ -23,11 +23,11 @@ En cada ejemplo encontrarás:
 
 Los iconos de acciones te ayudarán a seguir el flujo:
 
-- ◆ = Una acción
-- ◆◆ = Dos acciones
-- ◆◆◆ = Tres acciones
+- {% include accion.html tipo="1" %} = Una acción
+- {% include accion.html tipo="2" %} = Dos acciones
+- {% include accion.html tipo="3" %} = Tres acciones
 - ↺ = Reacción
-- ◇ = Acción gratuita
+- {% include accion.html tipo="libre" %} = Acción gratuita
 
 ---
 

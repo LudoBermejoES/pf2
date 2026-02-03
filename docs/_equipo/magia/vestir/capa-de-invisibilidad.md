@@ -19,7 +19,7 @@ source: PC2
 
 Esta capa gris parece absorber la luz y hace difícil enfocar la vista en ella.
 
-**Activar** ◆◆ Mando (1/día)
+**Activar** {% include accion.html tipo="2" %} Mando (1/día)
 
 **Efecto** Puedes activar la capa para volverte invisible durante 10 minutos. La invisibilidad termina si atacas o lanzas un conjuro hostil.
 

@@ -49,7 +49,7 @@ Tus estudios abren nuevos horizontes. Elige un asentamiento específico. Obtiene
 
 Tienes el conocimiento necesario para comprender textos antiguos y artefactos culturales. Puedes usar Sociedad al Descifrar escritura, sin importar el tipo de escritura que examines. También puedes usar Sociedad para Identificar magia cuando examinas un objeto mágico o un lugar con significado cultural.
 
-### Suerte del arqueólogo · ◇ · Dote 8
+### Suerte del arqueólogo · {% include accion.html tipo="libre" %} · Dote 8
 
 **Rasgos:** Arquetipo, Fortuna
 

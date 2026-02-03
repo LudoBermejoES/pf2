@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Muro de Espinos ◆◆◆ [CONJURO 3]
+## Muro de Espinos {% include accion.html tipo="3" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m)

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Saltar ◆ [CONJURO 1]
+## Saltar {% include accion.html tipo="1" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 

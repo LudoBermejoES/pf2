@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Hablar con los Animales ◆◆ [CONJURO 2]
+## Hablar con los Animales {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** primigenia
 **Duracion:** 1 hora

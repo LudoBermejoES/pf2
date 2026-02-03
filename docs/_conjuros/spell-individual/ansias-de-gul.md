@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
-## Ansias de gul ◆◆ [2]
+## Ansias de gul {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** divina, ocultista
 **Rango:** toque; **Objetivos:** 1 criatura

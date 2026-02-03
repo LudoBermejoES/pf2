@@ -19,7 +19,7 @@ source: PC2
 
 Esta faja de cuero tiene múltiples bolsillos que parecen contener munición infinita.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Puedes sacar munición mundana (flechas, virotes o balas de honda) de la faja como si tuvieras un suministro infinito. La munición creada de esta forma desaparece 1 minuto después de ser sacada si no ha sido disparada.
 

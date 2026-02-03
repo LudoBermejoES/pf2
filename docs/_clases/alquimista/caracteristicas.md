@@ -69,7 +69,7 @@ Durante tus preparativos diarios, puedes crear un número de viales versátiles 
 
 **Rasgos:** Ácido, Alquímico, Bomba, Consumible, Infundido, Salpicadura
 
-### Alquimia rápida · ◆
+### Alquimia rápida · {% include accion.html tipo="1" %}
 
 **Rasgos:** Alquimista, Manipular
 

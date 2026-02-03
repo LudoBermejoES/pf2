@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Ráfaga de Viento ◆◆ [CONJURO 1]
+## Ráfaga de Viento {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Área:** línea de 60 pies (18 m); **Defensa:** Fortaleza; **Duración:** hasta el inicio de tu siguiente turno

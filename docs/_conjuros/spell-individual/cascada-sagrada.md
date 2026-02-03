@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
-## Cascada sagrada ◆◆ [4]
+## Cascada sagrada {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** divina
 **Coste:** una ampolla de agua bendita (Pathfinder GM Core 268)

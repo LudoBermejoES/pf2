@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
-## Ampollas ◆◆ [5]
+## Ampollas {% include accion.html tipo="2" %} [5]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango:** 60 pies (18 m); **Objetivos:** 1 criatura

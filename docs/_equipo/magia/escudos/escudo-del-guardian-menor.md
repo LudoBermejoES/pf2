@@ -19,7 +19,7 @@ source: PC2
 
 Este escudo de acero tiene grabado el símbolo de un guardián vigilante.
 
-**Activar** ◇ Imaginar
+**Activar** {% include accion.html tipo="libre" %} Imaginar
 
 **Efecto** Cuando usas Bloqueo con el escudo para proteger a un aliado adyacente, el aliado gana un bonificador de circunstancia +1 adicional a la CA contra el ataque desencadenante.
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Moldear la Madera ◆◆ [CONJURO 2]
+## Moldear la Madera {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** un trozo de madera sin trabajar de hasta 20 pies cubicos (0,57 m3) de volumen

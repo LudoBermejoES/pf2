@@ -24,7 +24,7 @@ En algunos casos, puede ser imposible para una criatura observarte por completo.
 
 ---
 
-## Esconderse ◆
+## Esconderse {% include accion.html tipo="1" %}
 
 **Rasgos:** Secreto
 
@@ -38,7 +38,7 @@ Si una criatura utiliza Buscar para que quedes observado por ella, deberás Esco
 
 ---
 
-## Movimiento furtivo ◆
+## Movimiento furtivo {% include accion.html tipo="1" %}
 
 **Rasgos:** Movimiento, Secreto
 
@@ -58,7 +58,7 @@ Si una criatura utiliza Buscar y como resultado quedas escondido de la misma, de
 
 ---
 
-## Ocultar un objeto ◆
+## Ocultar un objeto {% include accion.html tipo="1" %}
 
 **Rasgos:** Manipular, Secreto
 

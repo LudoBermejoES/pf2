@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Vision en la Oscuridad ◆◆ [CONJURO 2]
+## Vision en la Oscuridad {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 1 hora

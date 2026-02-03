@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Soltar ◇
+## Soltar {% include accion.html tipo="libre" %}
 
 **MANIPULAR**
 

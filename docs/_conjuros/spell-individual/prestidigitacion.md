@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Prestidigitación ◆◆ [TRUCO 1]
+## Prestidigitación {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 objeto (sólo cocinar, elevar o limpiar)

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Ver lo Invisible ◆◆ [CONJURO 2]
+## Ver lo Invisible {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista
 **Duracion:** 10 minutos

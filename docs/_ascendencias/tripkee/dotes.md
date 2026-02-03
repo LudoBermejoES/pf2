@@ -23,7 +23,7 @@ Puedes comunicarte con las ranas más simples y criaturas similares usando croar
 
 ---
 
-### Defensa del cazador · Dote 1 · ◇
+### Defensa del cazador · Dote 1 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Tripkee
 
@@ -55,7 +55,7 @@ Tiendes a cazar y trabajar principalmente de noche y te has adaptado a los requi
 
 ---
 
-### Croar aterrador · Dote 1 · ◆
+### Croar aterrador · Dote 1 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Tripkee
 
@@ -123,7 +123,7 @@ Escapar de tus redes no es tarea sencilla. La CD de Atletismo para Forzar la ape
 
 ---
 
-### Planeo tripkee · Dote 5 · ◆
+### Planeo tripkee · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Tripkee
 
@@ -135,7 +135,7 @@ Puedes usar tus pies palmeados para guiar tu caída. Planeas lentamente hacia el
 
 ---
 
-### Estómago vomitado · Dote 5 · ◇
+### Estómago vomitado · Dote 5 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Tripkee
 
@@ -149,7 +149,7 @@ En circunstancias extremas puedes vomitar tu estómago para expulsar toxinas. Re
 
 ## 9.º nivel
 
-### Absorber toxina · Dote 9 · ◇
+### Absorber toxina · Dote 9 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Tripkee
 
@@ -161,7 +161,7 @@ Tu piel absorbe fácilmente el veneno y puede atraer conscientemente toxinas a t
 
 ---
 
-### Baño de humedad · Dote 9 · ◆
+### Baño de humedad · Dote 9 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Manipular, Tripkee
 
@@ -201,7 +201,7 @@ Con una combinación de tus glándulas de veneno y preparados herbales, puedes i
 
 ---
 
-### Incorporarse · Dote 13 · ◇
+### Incorporarse · Dote 13 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Tripkee
 

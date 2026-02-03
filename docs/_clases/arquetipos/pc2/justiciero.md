@@ -61,7 +61,7 @@ Estableces un refugio seguro: un espacio protegido en el que ocultar tus secreto
 
 Has construido una reputación para ti en tu identidad social. Elige un arquetipo para el que cumplas los prerrequisitos. Obtienes la dote de dedicación de ese arquetipo y puedes seleccionar dotes de ese arquetipo, incluso si aún no has obtenido suficientes dotes en el arquetipo justiciero para tomar otra dote de dedicación. Estas dotes pasan a formar parte de tu identidad social: por ejemplo, un justiciero guerrero podría tomar la dote de dedicación de mago y tener una identidad social de mago. Usar estas dotes en tu identidad social no arriesga exponer tu identidad justiciera, pero usarlas en tu identidad justiciera podría exponerte.
 
-### Aparición desconcertante · ◆ · Dote 6
+### Aparición desconcertante · {% include accion.html tipo="1" %} · Dote 6
 
 **Rasgos:** Arquetipo, Emoción, Miedo, Mental, Justiciero
 

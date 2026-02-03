@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Forma de Vapor ◆◆ [CONJURO 4]
+## Forma de Vapor {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Cuerpo Runico ◆◆ [CONJURO 1]
+## Cuerpo Runico {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria

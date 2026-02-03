@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Ceguera ◆◆ [CONJURO 3]
+## Ceguera {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

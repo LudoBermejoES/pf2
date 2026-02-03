@@ -19,7 +19,7 @@ source: PC2
 
 Este escudo tiene grabada la cabeza de un león rugiente que parece cobrar vida en combate.
 
-**Activar** ◆ Mando
+**Activar** {% include accion.html tipo="1" %} Mando
 
 **Efecto** Puedes activar el escudo para hacer un Golpe de escudo mejorado. El Golpe inflige 2d6 de daño contundente adicional y la criatura debe tener éxito en una salvación de Fortaleza CD 19 o quedar desprevenida hasta el final de tu siguiente turno.
 

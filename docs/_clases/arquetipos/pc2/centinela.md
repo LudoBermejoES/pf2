@@ -35,7 +35,7 @@ Llevas tu armadura como una segunda piel, confortado por la protección que ofre
 
 Te has entrenado para optimizar las cualidades protectoras únicas de tu armadura y aprovechar al máximo los materiales usados en su creación. Obtienes los efectos de especialización de armadura para todas las armaduras con las que eres competente.
 
-### Rechazo acorazado · ◇ · Dote 8
+### Rechazo acorazado · {% include accion.html tipo="libre" %} · Dote 8
 
 **Rasgos:** Arquetipo
 

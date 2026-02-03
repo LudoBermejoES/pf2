@@ -35,7 +35,7 @@ Creas una relación con un animal, que se vincula mágicamente contigo.
 
 ---
 
-### Escándalo ◇
+### Escándalo {% include accion.html tipo="libre" %}
 **Dote 1** · Gnomo
 
 **Frecuencia:** Una vez por hora
@@ -98,7 +98,7 @@ Cuando te acercas a menos de 10 pies (3 m) de una ilusión que se puede descreer
 
 ## Nivel 5
 
-### Fuente energizada ◆
+### Fuente energizada {% include accion.html tipo="1" %}
 **Dote 5** · Gnomo
 
 **Prerrequisitos:** Reserva de foco, por lo menos un conjuro innato de una herencia o dote de ascendencia de gnomo que comparte una tradición con por lo menos uno de tus conjuros de foco
@@ -110,7 +110,7 @@ Puedes enfocar tu mente con más rapidez debido a la magia que fluye en tu inter
 
 ---
 
-### Proyectar persona ◆
+### Proyectar persona {% include accion.html tipo="1" %}
 **Dote 5** · Concentrar, Gnomo, Ilusión, Primigenio, Visual
 
 Donde otros graban su armadura para que sirva como conducto para sus imaginaciones, tu vívida mente y tu osada personalidad te permiten proyectar una personalidad más adecuada sobre tu deslucida armadura.
@@ -154,7 +154,7 @@ Has aprendido unas pocas técnicas mágicas para meterte en problemas y salir de
 
 ---
 
-### Salto vital ◆
+### Salto vital {% include accion.html tipo="1" %}
 **Dote 9** · Gnomo, Movimiento, Teletransporte
 
 **Requisitos:** Tienes que estar adyacente a una criatura viva.
@@ -169,7 +169,7 @@ Atraviesas la fuerza vital de la criatura, apareciendo en la ubicación seleccio
 
 ## Nivel 13
 
-### Ofuscación instintiva ◆◆
+### Ofuscación instintiva {% include accion.html tipo="2" %}
 **Dote 13** · Gnomo, Ilusión, Visual
 
 **Prerrequisitos:** Por lo menos un conjuro innato arcano u ocultista obtenido gracias a una herencia de gnomo o dote de ascendencia de gnomo

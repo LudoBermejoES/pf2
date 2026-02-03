@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Llamar ◆◆ [CONJURO 2]
+## Llamar {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 puerta, cerradura o recipiente

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
-## Tormenta de hielo ◆◆◆ [4]
+## Tormenta de hielo {% include accion.html tipo="3" %} [4]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)

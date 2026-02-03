@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Ponerse de pie ◆
+## Ponerse de pie {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**
 

@@ -83,7 +83,7 @@ Oyes los sonidos de los reptiles como si fueran lenguaje. Puedes hacer preguntas
 
 ## 5.º nivel
 
-### Colmillos envenenados · Dote 5 · ◆
+### Colmillos envenenados · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Iruxi
 
@@ -113,7 +113,7 @@ Te aferras a las paredes con un agarre sobrenatural. Obtienes la dote Escalador 
 
 ---
 
-### Soltar la cola · Dote 5 · ◇
+### Soltar la cola · Dote 5 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Iruxi
 
@@ -147,7 +147,7 @@ Puedes colgarte por la cola de cualquier punto de anclaje adecuado, como una ram
 
 ---
 
-### Afilar garras · Dote 9 · ◆
+### Afilar garras · Dote 9 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Iruxi
 

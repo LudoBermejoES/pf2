@@ -31,7 +31,7 @@ Te conviertes en experto en Acrobacias. Al 7.º nivel te conviertes en maestro e
 
 Puedes salir de situaciones estrechas retorciendo y doblando tu cuerpo en posiciones antinaturales, obteniendo ventaja contra rivales que intentan inmovilizarte. Obtienes la dote de habilidad Compresión rápida y, si eres maestro en Acrobacias, puedes Comprimir a Velocidad completa. Siempre que Escapes con éxito usando Acrobacias, la criatura de la que escapaste queda desprevenida contra el siguiente ataque que le hagas antes del final de tu próximo turno.
 
-### Esquiva evasiva · ◇ · Dote 6
+### Esquiva evasiva · {% include accion.html tipo="libre" %} · Dote 6
 
 **Rasgos:** Arquetipo
 
@@ -51,7 +51,7 @@ Usas tu destreza acrobática para evadir un ataque, aprovechando el impulso para
 
 La masa y el músculo no importan cuando te impulsas por el aire; solo importan la gracia y el equilibrio. Puedes tirar una prueba de Acrobacias en lugar de una de Atletismo al hacer un Salto alto o Salto largo.
 
-### Golpe rodante · ◆ · Dote 8
+### Golpe rodante · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Arquetipo, Florecimiento, Movimiento
 
@@ -69,7 +69,7 @@ Te zambulles hábilmente por un hueco que deja un enemigo para asestar un golpe 
 
 **Fallo crítico:** Ni te mueves ni Golpeas.
 
-### Oportunista rodante · ◇ · Dote 10
+### Oportunista rodante · {% include accion.html tipo="libre" %} · Dote 10
 
 **Rasgos:** Arquetipo, Ataque
 

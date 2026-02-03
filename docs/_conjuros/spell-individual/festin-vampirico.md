@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Festin Vampirico ◆◆ [CONJURO 3]
+## Festin Vampirico {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura viva

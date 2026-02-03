@@ -51,7 +51,7 @@ A nivel 5, siempre que obtienes un golpe crítico con una de estas armas, obtien
 
 ---
 
-### Cortar al desertor · Dote 1 · ◆◆
+### Cortar al desertor · Dote 1 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Hobgoblin
 
@@ -109,7 +109,7 @@ Mientras exploras, cuando lideras y tus aliados están Siguiendo al experto, en 
 
 ---
 
-### Reconocer emboscada · Dote 5 · ◇
+### Reconocer emboscada · Dote 5 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Hobgoblin
 
@@ -129,7 +129,7 @@ A diferencia de la mayoría de los tuyos, que descartan a los goblins como verg�
 
 ## Nivel 9
 
-### Rejuvenecimiento cantoriano · Dote 9 · ◆◆
+### Rejuvenecimiento cantoriano · Dote 9 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Sanación, Hobgoblin, Vitalidad
 
@@ -149,7 +149,7 @@ Te has entrenado con tu compañero animal para convertirte en una mole aterrador
 
 ---
 
-### Orgullo en armas · Dote 9 · ◇
+### Orgullo en armas · Dote 9 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Auditivo, Emoción, Hobgoblin, Mental
 
@@ -169,7 +169,7 @@ Eres diestro trabajando con tus aliados para rodear a un enemigo. Si un enemigo 
 
 ## Nivel 13
 
-### Aquí no caes · Dote 13 · ◇
+### Aquí no caes · Dote 13 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Auditivo, Hobgoblin, Manipular
 
@@ -191,7 +191,7 @@ Tienes entrenamiento extensivo en entornos remotos, lo que te permite moverte po
 
 ## Nivel 17
 
-### Restauración cantoriana · Dote 17 · ◇
+### Restauración cantoriana · Dote 17 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Sanación, Hobgoblin, Vitalidad
 
@@ -203,7 +203,7 @@ La energía que fluye en tu sangre puede salvar una vida en los momentos más ac
 
 ---
 
-### Grito de arenga · Dote 17 · ◆◆
+### Grito de arenga · Dote 17 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Auditivo, Hobgoblin
 

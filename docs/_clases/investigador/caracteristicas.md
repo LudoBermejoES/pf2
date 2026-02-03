@@ -52,7 +52,7 @@ Nombras un detalle que has identificado y que crees que forma parte de un mister
 
 **Investigaciones activas:** Puedes mantener dos investigaciones activas a la vez.
 
-#### Aportar pista · ◇
+#### Aportar pista · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Concentración, Investigador
 
@@ -62,7 +62,7 @@ Nombras un detalle que has identificado y que crees que forma parte de un mister
 
 Compartes información con la criatura desencadenante. Esta obtiene una bonificación circunstancial a su prueba igual a tu bonificación de investigación.
 
-### Idear una estratagema · ◆ o ◇
+### Idear una estratagema · {% include accion.html tipo="1" %} o {% include accion.html tipo="libre" %}
 
 **Rasgos:** Concentración, Fortuna, Investigador
 
@@ -90,7 +90,7 @@ Estás entrenado en Artesanía y obtienes la dote de habilidad Elaboración alqu
 
 Durante las preparaciones diarias, puedes crear un número de viales versátiles igual a tu modificador de Inteligencia. Obtienes la acción Tintura rápida.
 
-**Tintura rápida · ◆**
+**Tintura rápida · {% include accion.html tipo="1" %}**
 
 **Rasgos:** Investigador, Manipular
 
@@ -106,7 +106,7 @@ Todo se reduce a datos. Calcular estadísticas y usar el razonamiento inductivo 
 
 Estás entrenado en una habilidad basada en Inteligencia de tu elección. Obtienes la dote de investigador Eso es raro y la acción gratuita Inspección expedita.
 
-**Inspección expedita · ◇**
+**Inspección expedita · {% include accion.html tipo="libre" %}**
 
 **Rasgos:** Investigador
 
@@ -126,7 +126,7 @@ La gente no puede evitar confiar en ti.
 
 Estás entrenado en Diplomacia. Obtienes la dote de habilidad Sin motivo de alarma. Puedes Perseguir una pista al mismo tiempo que Causas impresión si haces una pregunta relacionada. Obtienes la acción Pregunta punzante.
 
-**Pregunta punzante · ◆**
+**Pregunta punzante · {% include accion.html tipo="1" %}**
 
 **Rasgos:** Auditivo, Concentración, Investigador, Lingüístico, Mental
 

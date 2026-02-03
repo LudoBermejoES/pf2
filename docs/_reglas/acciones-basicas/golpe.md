@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Golpe ◆
+## Golpe {% include accion.html tipo="1" %}
 
 **ATAQUE**
 

@@ -15,7 +15,7 @@ A nivel 1, obtienes una dote de ascendencia, y obtienes una dote de ascendencia 
 
 ## Nivel 1
 
-### Encogerse · Dote 1 · ◇
+### Encogerse · Dote 1 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Emoción, Kobold, Mental, Visual
 
@@ -57,7 +57,7 @@ A nivel 5, siempre que obtienes un golpe crítico con una de estas armas, obtien
 
 ---
 
-### Corretear · Dote 1 · ◆
+### Corretear · Dote 1 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Kobold
 
@@ -79,7 +79,7 @@ Dominas el arte kobold de fabricar trampas. Obtienes la competencia entrenado en
 
 ## Nivel 5
 
-### Amparo de aliado · Dote 5 · ◇
+### Amparo de aliado · Dote 5 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Fortuna, Kobold
 
@@ -91,7 +91,7 @@ Sigues el ejemplo de tus aliados. Tira la salvación usando el modificador de un
 
 ---
 
-### Humillarse · Dote 5 · ◆
+### Humillarse · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Auditivo, Concentración, Emoción, Kobold, Mental
 
@@ -157,7 +157,7 @@ Tu poder arcano innato crece. Elige un conjuro arcano común de rango 1 y uno co
 
 ---
 
-### Grito de huida · Dote 9 · ◆◆
+### Grito de huida · Dote 9 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Auditivo, Kobold, Sónico
 
@@ -169,7 +169,7 @@ A nivel 11 y cada 2 niveles a partir de entonces, el daño aumenta en 1d6.
 
 ---
 
-### Vuelo con alitas · Dote 9 · ◆
+### Vuelo con alitas · Dote 9 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Kobold
 
@@ -193,7 +193,7 @@ Tu magia sigue floreciendo. Elige un conjuro arcano común de rango 3 y uno com�
 
 ---
 
-### Desvío rodante · Dote 13 · ◆
+### Desvío rodante · Dote 13 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Kobold
 
@@ -215,7 +215,7 @@ Infliges 1d6 de daño de precisión adicional con los lazos de daño que fabrica
 
 ## Nivel 17
 
-### Majestad del benefactor · Dote 17 · ◆
+### Majestad del benefactor · Dote 17 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Sanación, Kobold, Visual
 

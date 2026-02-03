@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Torrente Hidraulico ◆◆ [CONJURO 4]
+## Torrente Hidraulico {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** primigenia
 **Area:** linea de 60 pies (18 m); **Defensa:** Fortaleza

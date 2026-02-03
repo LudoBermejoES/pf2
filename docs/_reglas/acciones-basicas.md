@@ -22,19 +22,19 @@ Ademas de las acciones de estas dos secciones, las acciones de lanzamiento de co
 
 | Acción | Tipo | Rasgos | Requisitos |
 |--------|------|--------|------------|
-| [Averiguar intenciones]({{ '/reglas/acciones-basicas/averiguar-intenciones/' | relative_url }}) | ◆ | CONCENTRAR, SECRETO, Fallo, Fallo critico | - |
-| [Buscar]({{ '/reglas/acciones-basicas/buscar/' | relative_url }}) | ◆ | CONCENTRAR, SECRETO | - |
-| [Gatear]({{ '/reglas/acciones-basicas/gatear/' | relative_url }}) | ◆ | MOVIMIENTO, Requisitos | * Estas tumbado y tu Velocidad es de por lo menos 10 pies (3 m). |
-| [Golpe]({{ '/reglas/acciones-basicas/golpe/' | relative_url }}) | ◆ | ATAQUE | - |
-| [Huir]({{ '/reglas/acciones-basicas/huir/' | relative_url }}) | ◆ | ATAQUE, Fallo critico | - |
-| [Interactuar]({{ '/reglas/acciones-basicas/interactuar/' | relative_url }}) | ◆ | MANIPULAR | - |
-| [Paso]({{ '/reglas/acciones-basicas/paso/' | relative_url }}) | ◆ | MOVIMIENTO, Requisitos | * Tu Velocidad es por lo menos 10 pies (3 m). |
-| [Ponerse a cubierto]({{ '/reglas/acciones-basicas/ponerse-a-cubierto/' | relative_url }}) | ◆ | Requisitos | * Te estas beneficiando de cobertura, estas cerca de un rasgo del terreno que te permite ponerte a cubierto o estas tumbado. |
-| [Ponerse de pie]({{ '/reglas/acciones-basicas/ponerse-de-pie/' | relative_url }}) | ◆ | MOVIMIENTO | - |
-| [Preparar]({{ '/reglas/acciones-basicas/preparar/' | relative_url }}) | ◆◆ | CONCENTRAR | - |
+| [Averiguar intenciones]({{ '/reglas/acciones-basicas/averiguar-intenciones/' | relative_url }}) | {% include accion.html tipo="1" %} | CONCENTRAR, SECRETO, Fallo, Fallo critico | - |
+| [Buscar]({{ '/reglas/acciones-basicas/buscar/' | relative_url }}) | {% include accion.html tipo="1" %} | CONCENTRAR, SECRETO | - |
+| [Gatear]({{ '/reglas/acciones-basicas/gatear/' | relative_url }}) | {% include accion.html tipo="1" %} | MOVIMIENTO, Requisitos | * Estas tumbado y tu Velocidad es de por lo menos 10 pies (3 m). |
+| [Golpe]({{ '/reglas/acciones-basicas/golpe/' | relative_url }}) | {% include accion.html tipo="1" %} | ATAQUE | - |
+| [Huir]({{ '/reglas/acciones-basicas/huir/' | relative_url }}) | {% include accion.html tipo="1" %} | ATAQUE, Fallo critico | - |
+| [Interactuar]({{ '/reglas/acciones-basicas/interactuar/' | relative_url }}) | {% include accion.html tipo="1" %} | MANIPULAR | - |
+| [Paso]({{ '/reglas/acciones-basicas/paso/' | relative_url }}) | {% include accion.html tipo="1" %} | MOVIMIENTO, Requisitos | * Tu Velocidad es por lo menos 10 pies (3 m). |
+| [Ponerse a cubierto]({{ '/reglas/acciones-basicas/ponerse-a-cubierto/' | relative_url }}) | {% include accion.html tipo="1" %} | Requisitos | * Te estas beneficiando de cobertura, estas cerca de un rasgo del terreno que te permite ponerte a cubierto o estas tumbado. |
+| [Ponerse de pie]({{ '/reglas/acciones-basicas/ponerse-de-pie/' | relative_url }}) | {% include accion.html tipo="1" %} | MOVIMIENTO | - |
+| [Preparar]({{ '/reglas/acciones-basicas/preparar/' | relative_url }}) | {% include accion.html tipo="2" %} | CONCENTRAR | - |
 | [Prestar ayuda]({{ '/reglas/acciones-basicas/prestar-ayuda/' | relative_url }}) | ↺ | Desencadenante, Requisitos, Fallo critico | * El aliado esta dispuesto a aceptar tu ayuda y te has preparado para prestarla (ver a continuación). |
-| [Retrasar]({{ '/reglas/acciones-basicas/retrasar/' | relative_url }}) | ◇ | Desencadenante | * Empieza tu turno. |
-| [Soltar]({{ '/reglas/acciones-basicas/soltar/' | relative_url }}) | ◇ | MANIPULAR | - |
-| [Tumbarse]({{ '/reglas/acciones-basicas/tumbarse/' | relative_url }}) | ◆ | MOVIMIENTO | - |
-| [Zancada]({{ '/reglas/acciones-basicas/zancada/' | relative_url }}) | ◆ | MOVIMIENTO | - |
+| [Retrasar]({{ '/reglas/acciones-basicas/retrasar/' | relative_url }}) | {% include accion.html tipo="libre" %} | Desencadenante | * Empieza tu turno. |
+| [Soltar]({{ '/reglas/acciones-basicas/soltar/' | relative_url }}) | {% include accion.html tipo="libre" %} | MANIPULAR | - |
+| [Tumbarse]({{ '/reglas/acciones-basicas/tumbarse/' | relative_url }}) | {% include accion.html tipo="1" %} | MOVIMIENTO | - |
+| [Zancada]({{ '/reglas/acciones-basicas/zancada/' | relative_url }}) | {% include accion.html tipo="1" %} | MOVIMIENTO | - |
 

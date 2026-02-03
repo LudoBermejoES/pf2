@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Inmolacion Divina ◆◆ [CONJURO 5]
+## Inmolacion Divina {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Reflejos

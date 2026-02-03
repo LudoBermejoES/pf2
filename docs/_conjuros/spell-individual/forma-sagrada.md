@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC2
 ---
-## Forma sagrada ◆◆ [6]
+## Forma sagrada {% include accion.html tipo="2" %} [6]
 
 **Tradiciones:** divina
 **Duración:** 1 minuto

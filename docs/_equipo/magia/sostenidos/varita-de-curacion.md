@@ -17,7 +17,7 @@ source: PC2
 
 Esta varita de madera de sauce tiene un cristal rosado en la punta.
 
-**Activar** ◆◆ Mando (1/día)
+**Activar** {% include accion.html tipo="2" %} Mando (1/día)
 
 **Efecto** Lanzas *curar* de rango 2 (2d8+16 Puntos de Golpe recuperados).
 

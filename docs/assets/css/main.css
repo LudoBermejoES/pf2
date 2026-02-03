@@ -1614,3 +1614,74 @@ tbody tr:last-child td {
   color: #e65100;
   border-color: #e65100;
 }
+
+/* ============================================
+   ACTION ICONS - Pathfinder 2e Actions
+   Las imágenes están definidas aquí como background.
+   Para cambiar los iconos, solo edita las URLs de background-image.
+   ============================================ */
+
+.accion {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 0.1em;
+  width: 1.2em;
+  height: 1.2em;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Cada tipo de acción con su imagen */
+.accion-1 {
+  background-image: url('/assets/images/acciones/Una_accion.png');
+}
+
+.accion-2 {
+  background-image: url('/assets/images/acciones/dos_acciones.png');
+}
+
+.accion-3 {
+  background-image: url('/assets/images/acciones/tres_acciones.png');
+}
+
+.accion-libre {
+  background-image: url('/assets/images/acciones/accion_libre.png');
+}
+
+.accion-reaccion {
+  background-image: url('/assets/images/acciones/reaccion.png');
+}
+
+/* Tamaños específicos para contextos diferentes */
+.accion.accion-inline {
+  width: 1em;
+  height: 1em;
+}
+
+.accion.accion-large {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+/* En encabezados, un poco más pequeños */
+h1 .accion,
+h2 .accion,
+h3 .accion {
+  width: 0.9em;
+  height: 0.9em;
+}
+
+/* En tablas, tamaño ajustado */
+td .accion,
+th .accion {
+  width: 1.1em;
+  height: 1.1em;
+}
+
+/* Para listas de acciones */
+.acciones-lista {
+  display: inline-flex;
+  gap: 0.25em;
+  align-items: center;
+}

@@ -14,7 +14,7 @@ Las ordenes druídicas incluyen la Orden Animal (conexión con las criaturas sal
 
 ---
 
-## Convocatoria Primigenia ◇ FOCO 6
+## Convocatoria Primigenia {% include accion.html tipo="libre" %} FOCO 6
 **Rasgos:** Poco comun, Concentrar, Druida, Foco
 
 Potencias a una criatura convocada con el poder de los elementos. Si tu siguiente acción es lanzar convocar animal o convocar planta u hongo, elige entre agua, aire, fuego, madera, metal o tierra; la criatura que convocas obtiene las aptitudes correspondientes.
@@ -30,15 +30,15 @@ Potencias a una criatura convocada con el poder de los elementos. Si tu siguient
 
 ## Orden Animal
 
-### Curar Animal ◆ a ◆◆ FOCO 1
+### Curar Animal {% include accion.html tipo="1" %} a {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco comun, Druida, Foco, Curacion, Manipular, Vitalidad
 **Rango:** toque o 30 pies (9 m), ver texto
 **Objetivos:** 1 animal vivo voluntario
 
 Curas las heridas de un animal, restableciendo al objetivo 1d8 Puntos de Golpe. El numero de acciones invertidas Lanzando este conjuro determina su efecto.
 
-- ◆ El conjuro tiene un alcance de toque.
-- ◆◆ (concentrar) El conjuro tiene un alcance de 30 pies (9 m) y restablece 8 Puntos de Golpe adicionales al objetivo.
+- {% include accion.html tipo="1" %} El conjuro tiene un alcance de toque.
+- {% include accion.html tipo="2" %} (concentrar) El conjuro tiene un alcance de 30 pies (9 m) y restablece 8 Puntos de Golpe adicionales al objetivo.
 
 **Potenciado (+1)** La cantidad de curacion se incrementa en 1d8 y la curacion adicional por la version de dos acciones se incrementa en 8.
 
@@ -46,7 +46,7 @@ Curas las heridas de un animal, restableciendo al objetivo 1d8 Puntos de Golpe. 
 
 ## Orden de la Hoja
 
-### Brezal Empalador ◆◆◆ FOCO 8
+### Brezal Empalador {% include accion.html tipo="3" %} FOCO 8
 **Rasgos:** Poco comun, Concentrar, Druida, Foco, Madera, Manipular, Planta
 **Area:** el terreno en el interior de una emanacion de 100 pies (30 m)
 **Duracion:** mantenido hasta 1 minuto
@@ -61,7 +61,7 @@ Ademas, una vez por asalto puedes ordenar a los brezos que empalen a cualquier o
 
 ---
 
-### Cornucopia ◆◆ FOCO 1
+### Cornucopia {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco comun, Concentrar, Druida, Foco, Curacion, Manipular, Planta, Vitalidad
 **Duracion:** 10 minutos
 
@@ -73,7 +73,7 @@ Unos zarcillos se enredan en forma de cuerno de mimbre en tus manos, y de allí 
 
 ## Orden de la Tormenta
 
-### Oleada de Tempestad ◆◆ FOCO 1
+### Oleada de Tempestad {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco comun, Aire, Concentrar, Druida, Electricidad, Foco, Manipular
 **Rango:** 30 pies (9 m)
 **Objetivos:** 1 criatura
@@ -85,7 +85,7 @@ Rodeas a un enemigo con una tormenta giratoria de vientos violentos, nubes agita
 
 ---
 
-### Vuelo del Viento de la Tormenta ◆◆ FOCO 4
+### Vuelo del Viento de la Tormenta {% include accion.html tipo="2" %} FOCO 4
 **Rasgos:** Poco comun, Aire, Concentrar, Druida, Foco, Manipular
 **Duracion:** 1 minuto
 
@@ -95,7 +95,7 @@ Potentes vientos te llevan por los aires, otorgándote una Velocidad de vuelo ig
 
 ---
 
-### Señor de la Tormenta ◆◆ FOCO 9
+### Señor de la Tormenta {% include accion.html tipo="2" %} FOCO 9
 **Rasgos:** Poco comun, Aire, Concentrar, Druida, Electricidad, Foco, Manipular
 **Requisitos:** Estas en el exterior y en la superficie.
 **Area:** emanacion de 100 pies (30 m), que te incluye a ti
@@ -114,7 +114,7 @@ Ademas, una vez por asalto puedes utilizar una sola acción, que tiene los rasgo
 
 ## Orden Indomita
 
-### Forma Indomita ◆◆ FOCO 1
+### Forma Indomita {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco comun, Concentrar, Druida, Foco, Manipular, Polimorfia
 **Duracion:** variable
 
@@ -124,7 +124,7 @@ Buscas en tu interior una parte diferente de ti mismo y la dejas en libertad, tr
 
 ---
 
-### Cambio Indomito ◆ a ◆◆ FOCO 1
+### Cambio Indomito {% include accion.html tipo="1" %} a {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco comun, Concentrar, Druida, Foco, Manipular, Polimorfia
 **Duracion:** 1 minuto
 

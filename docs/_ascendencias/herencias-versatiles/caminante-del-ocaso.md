@@ -33,7 +33,7 @@ Gracias a un antiguo pacto, tu alma ha renacido como caminante del ocaso, un vá
 
 ## Dotes de nivel 1
 
-### Chance de la muerte · Dote 1 · ◇
+### Chance de la muerte · Dote 1 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Caminante del ocaso, Fortuna
 
@@ -47,7 +47,7 @@ Tu vida anterior terminó por pura mala suerte, alcanzado por un rayo o atragant
 
 ---
 
-### Muerte deliberada · Dote 1 · ◇
+### Muerte deliberada · Dote 1 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Caminante del ocaso
 

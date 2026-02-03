@@ -130,7 +130,7 @@ Has desarrollado un vinculo anímico con tus camaradas y mantienes con ellos un 
 
 ---
 
-### Improvisacion sensacional ◆
+### Improvisacion sensacional {% include accion.html tipo="1" %}
 **Dote 9** · Humano
 
 **Frecuencia:** Una vez al dia
@@ -196,7 +196,7 @@ Los humanos son famosos por su aptitud de persistir a lo largo de las pruebas ma
 
 ---
 
-### Rebotar ◆
+### Rebotar {% include accion.html tipo="1" %}
 **Dote 13** · Humano, Fortuna
 
 **Frecuencia:** Una vez al dia
@@ -211,7 +211,7 @@ Te recuperas de las experiencias cercanas a la muerte con una resiliencia sorpre
 
 ## Nivel 17
 
-### Presencia heroica ◆
+### Presencia heroica {% include accion.html tipo="1" %}
 **Dote 17** · Emocion, Humano, Mental
 
 **Frecuencia:** Una vez al dia

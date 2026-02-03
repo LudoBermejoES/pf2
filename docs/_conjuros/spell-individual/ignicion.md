@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Ignicion ◆◆ [TRUCO 1]
+## Ignicion {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

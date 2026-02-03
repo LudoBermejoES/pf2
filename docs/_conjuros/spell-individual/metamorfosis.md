@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
-## Metamorfosis ◆◆ [CONJURO 9]
+## Metamorfosis {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto

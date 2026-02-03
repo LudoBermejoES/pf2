@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC2
 ---
-## Colores confusos ◆◆ [8]
+## Colores confusos {% include accion.html tipo="2" %} [8]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)

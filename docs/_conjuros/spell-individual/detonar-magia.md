@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
-## Detonar Magia ◆◆ [CONJURO 9]
+## Detonar Magia {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 objeto magico o efecto de conjuro

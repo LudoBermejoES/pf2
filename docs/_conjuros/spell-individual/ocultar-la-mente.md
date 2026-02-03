@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
-## Ocultar la Mente ◆◆ [CONJURO 8]
+## Ocultar la Mente {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Golpe Seguro ◆ [CONJURO 1]
+## Golpe Seguro {% include accion.html tipo="1" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Duracion:** hasta el final de tu siguiente turno

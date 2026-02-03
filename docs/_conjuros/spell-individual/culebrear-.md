@@ -1,12 +1,12 @@
 ---
 layout: spell
 permalink: /conjuros/culebrear-/
-title: Culebrear ◆◆/◆◆◆
+title: Culebrear {% include accion.html tipo="2" %}/{% include accion.html tipo="3" %}
 chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Culebrear ◆◆/◆◆◆ [CONJURO 5]
+## Culebrear {% include accion.html tipo="2" %}/{% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Reflejos; **Duracion:** 1 minuto

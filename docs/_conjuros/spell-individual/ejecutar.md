@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Ejecutar ◆◆ [CONJURO 7]
+## Ejecutar {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

@@ -12,7 +12,7 @@ Puedes engañar y desorientar a otros utilizando disfraces, mentiras y otras for
 
 ---
 
-## Crear una distracción ◆
+## Crear una distracción {% include accion.html tipo="1" %}
 
 **Rasgos:** Mental
 
@@ -60,7 +60,7 @@ A discreción del DJ, si una criatura se cree inicialmente tu mentira, podría h
 
 ---
 
-## Fintar ◆ (entrenado)
+## Fintar {% include accion.html tipo="1" %} (entrenado)
 
 **Rasgos:** Mental
 

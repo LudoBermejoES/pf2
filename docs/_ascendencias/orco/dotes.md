@@ -46,7 +46,7 @@ A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obt
 
 ---
 
-### Ferocidad de orco ◆
+### Ferocidad de orco {% include accion.html tipo="1" %}
 **Dote 1** - Orco
 
 **Frecuencia:** Una vez al dia
@@ -97,7 +97,7 @@ Obtienes tambien la dote general Saber adicional para Saber (orcos).
 
 ---
 
-### Supersticion de orco ◆
+### Supersticion de orco {% include accion.html tipo="1" %}
 **Dote 1** - Concentrar, Orco
 
 **Desencadenante:** Haces una tirada de salvación contra un conjuro o un efecto magico, pero aun no has tirado los dados.
@@ -209,7 +209,7 @@ Si tienes tiempo para recomponerte tras un escarceo con la muerte, puedes recons
 
 ## Nivel 17
 
-### Ferocidad desatada ◆
+### Ferocidad desatada {% include accion.html tipo="1" %}
 **Dote 17** - Orco
 
 **Prerrequisitos:** Ferocidad de orco

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Frenesi Lunar ◆◆ [CONJURO 5]
+## Frenesi Lunar {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** hasta 5 criaturas voluntarias

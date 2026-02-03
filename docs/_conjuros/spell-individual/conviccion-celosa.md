@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Conviccion Celosa ◆◆ [CONJURO 6]
+## Conviccion Celosa {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** hasta 10 criaturas voluntarias

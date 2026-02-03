@@ -19,7 +19,7 @@ Este cetro dorado irradia un aura de autoridad y poder.
 
 **Activar** —
 
-**Efecto** Ganas un bonificador por objeto +1 a las pruebas de Intimidación. Además, una vez al día puedes activar el cetro (◆◆ Mando) para lanzar *mandar* de rango 3.
+**Efecto** Ganas un bonificador por objeto +1 a las pruebas de Intimidación. Además, una vez al día puedes activar el cetro ({% include accion.html tipo="2" %} Mando) para lanzar *mandar* de rango 3.
 
 ---
 

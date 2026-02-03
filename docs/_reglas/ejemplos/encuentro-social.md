@@ -82,7 +82,7 @@ Mira abre con una aproximación respetuosa.
 
 > **Jugadora:** "Me inclino formalmente y digo: 'Barón Aldric, agradecemos que nos reciba. Venimos como servidores de Sarenrae, buscando solo paso seguro para llevar ayuda a los pueblos de las montañas.'"
 
-**Mira usa [Causar Buena Impresión]({{ '/habilidades/diplomacia/' | relative_url }}) (◆):**
+**Mira usa [Causar Buena Impresión]({{ '/habilidades/diplomacia/' | relative_url }}) ({% include accion.html tipo="1" %}):**
 
 > **Regla:** **[Causar Buena Impresión]({{ '/habilidades/diplomacia/' | relative_url }})** usa [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}) y puede mejorar la actitud de un PNJ en un paso si tienes éxito.
 
@@ -144,7 +144,7 @@ Valeria responde directamente.
 
 > **Jugadora:** "Un pueblo de mineros ha perdido contacto. Creemos que puede haber una amenaza de no muertos. Llevamos provisiones y nuestra espada."
 
-**Valeria usa [Hacer una Petición]({{ '/habilidades/diplomacia/' | relative_url }}) (◆):**
+**Valeria usa [Hacer una Petición]({{ '/habilidades/diplomacia/' | relative_url }}) ({% include accion.html tipo="1" %}):**
 
 > **Regla:** **[Hacer una Petición]({{ '/habilidades/diplomacia/' | relative_url }})** usa [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}). El éxito depende de lo razonable que sea la petición y la actitud del PNJ.
 
@@ -171,7 +171,7 @@ La capitán, amistosa hacia el grupo, interviene a su favor.
 
 Zander aprovechó la distracción de Theron para observar a Varn.
 
-**Zander usa Percibir Engaño (◆) contra Varn:**
+**Zander usa Percibir Engaño ({% include accion.html tipo="1" %}) contra Varn:**
 
 > **Regla:** **Percibir Engaño** usa Percepción y permite detectar si alguien miente o tiene motivos ocultos.
 
@@ -243,7 +243,7 @@ El barón capta la insinuación y mira a Varn con ojos entrecerrados.
 
 > **Jugadora:** "Quiero intimidar a Varn directamente. 'Consejero, ¿tenéis algo que decir sobre el medallón?'"
 
-**Valeria usa [Coaccionar]({{ '/habilidades/intimidacion/' | relative_url }}) (◆):**
+**Valeria usa [Coaccionar]({{ '/habilidades/intimidacion/' | relative_url }}) ({% include accion.html tipo="1" %}):**
 
 > **Regla:** **[Coaccionar]({{ '/habilidades/intimidacion/' | relative_url }})** usa [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}). Si tienes éxito, el objetivo se vuelve **[asustado]({{ '/apendices/estados/' | relative_url }})** y puede verse obligado a actuar.
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Vapores nocivos ◆◆ [1]
+## Vapores nocivos {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** arcana, primigenia
 **Área:** emanación de 10 pies (3 m)

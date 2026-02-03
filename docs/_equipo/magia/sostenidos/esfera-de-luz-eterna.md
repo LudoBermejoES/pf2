@@ -17,7 +17,7 @@ source: PC2
 
 Esta pequeña esfera de cristal brilla permanentemente con una luz cálida.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Puedes activar o desactivar la luz de la esfera. Mientras está activa, la esfera emite luz brillante en un radio de 20 pies (6 m) y luz tenue en 20 pies adicionales. La luz nunca se agota.
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Regalo considerado ◆ [1]
+## Regalo considerado {% include accion.html tipo="1" %} [1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango:** 120 pies (36 m); **Objetivos:** 1 criatura voluntaria

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Calamidad Fantasmal ◆◆ [CONJURO 6]
+## Calamidad Fantasmal {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 30 pies (9 m); **Defensa:** Voluntad

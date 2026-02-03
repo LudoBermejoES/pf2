@@ -19,7 +19,7 @@ source: PC2
 
 Este vial más grande contiene un líquido rojo brillante más concentrado.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Bebes la poción y recuperas 3d8+10 Puntos de Golpe.
 

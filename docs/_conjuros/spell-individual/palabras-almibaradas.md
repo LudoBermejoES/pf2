@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Palabras Almibaradas ◆◆ [CONJURO 4]
+## Palabras Almibaradas {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** ocultista
 **Duración:** 10 minutos

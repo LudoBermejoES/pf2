@@ -75,14 +75,14 @@ Theron está escondido detrás de unos arbustos, a 20 pies del líder bandido.
 
 > **Jugador:** "Quiero acercarme sigilosamente y apuñalar al líder por la espalda."
 
-**Acción 1 (◆): Zancada Sigilosa**
+**Acción 1 {% include accion.html tipo="1" %}: Zancada Sigilosa**
 
 Theron tiene la dote **Zancada Sigilosa**, que le permite moverse a mitad de velocidad sin romper el [sigilo]({{ '/habilidades/sigilo/' | relative_url }}).
 
 - Velocidad: 30 pies → Se mueve 15 pies (mitad de velocidad)
 - Sigue **escondido** del líder
 
-**Acción 2 (◆): Golpe**
+**Acción 2 {% include accion.html tipo="1" %}: Golpe**
 
 Como está escondido, el líder está **[desprevenido]({{ '/apendices/estados/' | relative_url }})** contra él (-2 CA).
 
@@ -101,7 +101,7 @@ El líder bandido recibe 30 de daño. PG restantes: 30-30 = **0 PG** → ¡Incon
 
 > **DJ:** "Tu espada corta atraviesa la garganta del líder. Se desploma sin hacer ruido."
 
-**Acción 3 (◆): Esconderse**
+**Acción 3 {% include accion.html tipo="1" %}: Esconderse**
 
 Theron intenta volver a [esconderse]({{ '/habilidades/sigilo/' | relative_url }}) tras el ataque.
 
@@ -117,7 +117,7 @@ Mira ve que Theron ya eliminó al líder. Decide prepararse para el combate.
 
 > **Jugadora:** "Lanzo *bendición* para ayudar al grupo y me acerco."
 
-**Acción 1-2 (◆◆): Lanzar *Bendición***
+**Acción 1-2 {% include accion.html tipo="2" %}: Lanzar *Bendición***
 
 *Bendición* es un conjuro de 2 acciones con área de emanación de 10 pies.
 
@@ -126,7 +126,7 @@ Mira ve que Theron ya eliminó al líder. Decide prepararse para el combate.
 - Mira y todos los aliados a 3 m ganan **+1 de estado a tiradas de ataque**
 - Duración: 1 minuto (sustentado)
 
-**Acción 3 (◆): Zancada**
+**Acción 3 {% include accion.html tipo="1" %}: Zancada**
 
 Mira se mueve 20 pies hacia adelante para incluir a Valeria en el área de *bendición*.
 
@@ -151,16 +151,16 @@ Los bandidos aún no han actuado. Valeria ve a Bandido 1 a 30 pies.
 
 > **Jugadora:** "Cargo contra el bandido más cercano y lo ataco dos veces."
 
-**Acción 1 (◆): Zancada**
+**Acción 1 {% include accion.html tipo="1" %}: Zancada**
 
 - Velocidad: 20 pies (con armadura pesada)
 - Se mueve 20 pies, quedando a 10 pies del Bandido 1
 
-**Acción 2 (◆): Zancada**
+**Acción 2 {% include accion.html tipo="1" %}: Zancada**
 
 - Se mueve otros 20 pies, llegando junto al Bandido 1
 
-**Acción 3 (◆): Golpe**
+**Acción 3 {% include accion.html tipo="1" %}: Golpe**
 
 - Tirada de ataque: 1d20+11 = 13+11 = **24**
 - Bonificador por *bendición*: +1 → Total: **25**
@@ -180,7 +180,7 @@ Zander está a 40 pies de Bandido 2.
 
 > **Jugador:** "Lanzo *rayo de escarcha* contra el otro bandido."
 
-**Acción 1-2 (◆◆): Lanzar *Rayo de Escarcha***
+**Acción 1-2 {% include accion.html tipo="2" %}: Lanzar *Rayo de Escarcha***
 
 *Rayo de escarcha* es un ataque de conjuro a distancia.
 
@@ -192,7 +192,7 @@ Zander está a 40 pies de Bandido 2.
 
 Bandido 2: 15-9 = **6 PG restantes**
 
-**Acción 3 (◆): Zancada**
+**Acción 3 {% include accion.html tipo="1" %}: Zancada**
 
 Zander se mueve 20 pies hacia atrás para mantener distancia.
 
@@ -202,7 +202,7 @@ Zander se mueve 20 pies hacia atrás para mantener distancia.
 
 El bandido está herido y enfrentando a Valeria.
 
-**Acción 1 (◆): Golpe contra Valeria**
+**Acción 1 {% include accion.html tipo="1" %}: Golpe contra Valeria**
 
 - Tirada de ataque: 1d20+8 = 14+8 = **22**
 - CA de Valeria: 20 → **Éxito**
@@ -211,14 +211,14 @@ El bandido está herido y enfrentando a Valeria.
 
 Valeria: 44-7 = **37 PG restantes**
 
-**Acción 2 (◆): Golpe contra Valeria (segundo ataque)**
+**Acción 2 {% include accion.html tipo="1" %}: Golpe contra Valeria (segundo ataque)**
 
 > **Regla:** Cada ataque después del primero en un turno tiene una **penalización por ataques múltiples (PAM)**: -5 en el segundo, -10 en el tercero.
 
 - Tirada de ataque: 1d20+8-5 = 10+3 = **13**
 - CA de Valeria: 20 → **Fallo**
 
-**Acción 3 (◆): Alzar un Escudo**
+**Acción 3 {% include accion.html tipo="1" %}: Alzar un Escudo**
 
 El bandido alza su escudo.
 
@@ -230,15 +230,15 @@ El bandido alza su escudo.
 
 El bandido herido por el rayo ve a Zander alejándose.
 
-**Acción 1 (◆): Zancada**
+**Acción 1 {% include accion.html tipo="1" %}: Zancada**
 
 Se mueve 25 pies hacia Zander.
 
-**Acción 2 (◆): Zancada**
+**Acción 2 {% include accion.html tipo="1" %}: Zancada**
 
 Se mueve otros 25 pies, llegando junto a Zander.
 
-**Acción 3 (◆): Golpe**
+**Acción 3 {% include accion.html tipo="1" %}: Golpe**
 
 - Tirada de ataque: 1d20+8 = 18+8 = **26**
 - CA de Zander: 16 → **Éxito crítico** (supera por 10+)
@@ -261,13 +261,13 @@ Theron ve a Zander en problemas.
 
 > **Jugador:** "Salgo de mi escondite y ataco al bandido que atacó a Zander."
 
-**Acción 1 (◆): Zancada**
+**Acción 1 {% include accion.html tipo="1" %}: Zancada**
 
 Se mueve 30 pies hasta llegar junto a Bandido 2.
 
 > **Nota:** Al moverse, Theron deja de estar escondido.
 
-**Acción 2 (◆): Golpe**
+**Acción 2 {% include accion.html tipo="1" %}: Golpe**
 
 Theron y Zander están flanqueando al bandido.
 
@@ -284,7 +284,7 @@ Theron y Zander están flanqueando al bandido.
 
 Bandido 2: 6-12 = **-6 PG** → ¡Derrotado!
 
-**Acción 3 (◆): Zancada**
+**Acción 3 {% include accion.html tipo="1" %}: Zancada**
 
 Theron corre hacia Bandido 1.
 
@@ -294,15 +294,15 @@ Theron corre hacia Bandido 1.
 
 > **Jugadora:** "Sustento *bendición* y curo a Zander."
 
-**Acción Gratuita (◇): Inicio de turno**
+**Acción Gratuita {% include accion.html tipo="libre" %}: Inicio de turno**
 
 El contador de *bendición* baja de 10 asaltos a 9.
 
-**Acción 1 (◆): Sustentar *Bendición***
+**Acción 1 {% include accion.html tipo="1" %}: Sustentar *Bendición***
 
 > **Regla:** Los conjuros sustentados requieren 1 acción por turno para mantenerlos activos.
 
-**Acción 2-3 (◆◆): Lanzar *Curar* (2 acciones)**
+**Acción 2-3 {% include accion.html tipo="2" %}: Lanzar *Curar* (2 acciones)**
 
 Mira lanza *curar* de rango 2 tocando a Zander.
 
@@ -316,7 +316,7 @@ Zander: 10+23 = **33 PG** (supera su máximo de 26, queda en 26)
 
 Valeria tiene al Bandido 1 frente a ella. Theron está llegando por el otro lado.
 
-**Acción 1 (◆): Golpe**
+**Acción 1 {% include accion.html tipo="1" %}: Golpe**
 
 - Tirada: 1d20+11+1 (bendición) = 8+12 = **20**
 - CA del bandido (con escudo): 18 → **Éxito**

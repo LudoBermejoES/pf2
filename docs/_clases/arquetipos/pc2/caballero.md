@@ -33,7 +33,7 @@ Obtienes un compañero animal joven que sirve como tu montura. Puedes elegir ent
 
 Enarbolas el estandarte de tu juramento desde tu montura, elevando el ánimo de tus aliados. Tú y todos los aliados en una emanación de 9 m desde tu montura obtenéis un bonificador circunstancial +1 a las tiradas de Voluntad y a las CD contra efectos de miedo. Si tu estandarte es destruido o retirado, los aliados a 9 m se vuelven asustados 1.
 
-### Carga del caballero · ◆◆ · Dote 4
+### Carga del caballero · {% include accion.html tipo="2" %} · Dote 4
 
 **Rasgos:** Arquetipo, Florecimiento
 
@@ -53,7 +53,7 @@ Has entrenado a tu montura para convertirse en una fuerza poderosa en el campo d
 
 Tu montura tiene mayor independencia. Durante un encuentro, incluso si no usas la acción Ordenar a un animal, tu montura puede usar 1 acción ese asalto en tu turno para Avanzar o Golpear. Puede hacerlo en cualquier punto durante tu turno, siempre que no estés realizando una acción en ese momento. Si lo hace, esas son todas las acciones que obtiene ese asalto: no puedes Ordenarla más tarde.
 
-### Montar rápido · ◆ · Dote 4
+### Montar rápido · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo, Habilidad
 
@@ -63,7 +63,7 @@ Tu montura tiene mayor independencia. Durante un encuentro, incluso si no usas l
 
 Tú y tu montura podéis entrar en acción en un instante. Montas a la criatura y Ordenas a un animal para darle una orden de tu elección.
 
-### Defender montura · ◇ · Dote 6
+### Defender montura · {% include accion.html tipo="libre" %} · Dote 6
 
 **Rasgos:** Arquetipo
 
@@ -89,7 +89,7 @@ Has entrenado con tu escudo para defenderte tanto a ti como a tu montura. Cuando
 
 Bajo tu cuidado y entrenamiento, tu montura ha realizado su potencial innato. La montura que obtuviste mediante la dote Dedicación de Caballero se convierte en un compañero animal ágil o salvaje (a tu elección), ganando capacidades adicionales determinadas por el tipo de compañero.
 
-### Carga arrolladora · ◆◆◆ · Dote 10
+### Carga arrolladora · {% include accion.html tipo="3" %} · Dote 10
 
 **Rasgos:** Arquetipo, Florecimiento
 
@@ -99,7 +99,7 @@ Bajo tu cuidado y entrenamiento, tu montura ha realizado su potencial innato. La
 
 Espoleas a tu montura para cargar en la refriega, arrollando a todos los enemigos que se interpongan en tu camino. Ordenas a tu montura Avanzar hasta el doble de su Velocidad (o Excavar, Trepar, Volar o Nadar, si tiene el tipo de movimiento correspondiente), moviéndose a través de los espacios de cualquier enemigo en tu camino de hasta un tamaño menor que tu montura. Tu montura inflige el daño de uno de sus Golpes de melé a cada criatura cuyo espacio atraviesas, con una tirada de Reflejos básica contra la CD de Atletismo de tu montura. En un fallo crítico, la criatura también queda desprevenida hasta el final de tu próximo turno. Tira el daño solo una vez. Solo puedes dañar a una criatura dada una vez durante este movimiento.
 
-### Descabalgar · ◆ · Dote 10
+### Descabalgar · {% include accion.html tipo="1" %} · Dote 10
 
 **Rasgos:** Arquetipo
 

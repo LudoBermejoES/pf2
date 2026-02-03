@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Paso ◆
+## Paso {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**
 

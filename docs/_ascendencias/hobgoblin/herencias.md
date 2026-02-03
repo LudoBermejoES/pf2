@@ -19,7 +19,7 @@ Hace mucho tiempo, los hobgoblins fueron diseñados a partir de los inconstantes
 
 **Beneficio:** Obtienes la reacción Resistir magia élfica.
 
-> **Resistir magia élfica** ◇
+> **Resistir magia élfica** {% include accion.html tipo="libre" %}
 >
 > **Desencadenante:** Intentas una tirada de salvación contra un efecto mágico pero aún no has tirado.
 >

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Forma Aerea ◆◆ [CONJURO 4]
+## Forma Aerea {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
@@ -30,13 +30,13 @@ Obtienes aptitudes especificas basadas en el animal elegido:
 
 Obtienes tambien aptitudes especificas basadas en la forma elegida:
 
-**Ave** Velocidad 10 pies (3 m), volar 50 pies (15 m); Cuerpo a cuerpo ◆ pico, Dano 2d8 perforante; Cuerpo a cuerpo ◆ garra (agil), Dano 1d10 cortante.
+**Ave** Velocidad 10 pies (3 m), volar 50 pies (15 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} pico, Dano 2d8 perforante; Cuerpo a cuerpo {% include accion.html tipo="1" %} garra (agil), Dano 1d10 cortante.
 
-**Avispa** Velocidad 20 pies (6 m), volar 40 pies (12 m); Cuerpo a cuerpo ◆ aguijon, Dano 1d8 perforante +1d6 persistente por veneno.
+**Avispa** Velocidad 20 pies (6 m), volar 40 pies (12 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} aguijon, Dano 1d8 perforante +1d6 persistente por veneno.
 
-**Murcielago** Velocidad 20 pies (6 m), volar 30 pies (9 m); ecolocalizacion precisa 40 pies (12 m); Cuerpo a cuerpo ◆ colmillos, Dano 2d8 perforante; Cuerpo a cuerpo ◆ ala (agil), Dano 2d6 contundente.
+**Murcielago** Velocidad 20 pies (6 m), volar 30 pies (9 m); ecolocalizacion precisa 40 pies (12 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} colmillos, Dano 2d8 perforante; Cuerpo a cuerpo {% include accion.html tipo="1" %} ala (agil), Dano 2d6 contundente.
 
-**Pterosauro** Velocidad 10 pies (3 m), volar 40 pies (12 m); olfato impreciso 30 pies (9 m); Cuerpo a cuerpo ◆ pico, Dano 3d6 perforante.
+**Pterosauro** Velocidad 10 pies (3 m), volar 40 pies (12 m); olfato impreciso 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} pico, Dano 3d6 perforante.
 
 **Potenciado (5.o)** Tu forma de batalla es Grande y tu Velocidad de vuelo obtiene un bonificador +10 pies (3 m) por estatus. En lugar de lo indicado obtienes 10 PG temporales, modificador al ataque +18, modificador al dano +8 y Acrobacias +20.
 

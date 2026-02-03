@@ -10,7 +10,7 @@ source: PC1
 
 Las Acrobacias miden tu capacidad para llevar a cabo tareas que requieren coordinación y gracilidad. Cuando utilizas la acción básica Huir (pág. 416 ([ver](/reglas/acciones-basicas/huir/))) puedes utilizar tu modificador por Acrobacias en lugar de tu modificador por ataque sin armas. También puedes utilizarlo para las acciones básicas de especialidad Detener una caída (pág. 419 ([ver](/reglas/acciones-especialidad/))) y Agarrarte a un saliente (pág. 418 ([ver](/reglas/acciones-especialidad/agarrarse-a-un-saliente/))) en lugar de Reflejos.
 
-## Mantener el equilibrio ◆
+## Mantener el equilibrio {% include accion.html tipo="1" %}
 
 **Movimiento**
 
@@ -36,7 +36,7 @@ Cruzas una superficie estrecha o terreno desigual mediante una prueba de Acrobac
 | Maestro | cuerda fija, placa de hielo lisa |
 | Legendario | el filo de una navaja, fragmentos de terreno cayendo por los aires |
 
-## Pasar haciendo acrobacias ◆
+## Pasar haciendo acrobacias {% include accion.html tipo="1" %}
 
 **Movimiento**
 
@@ -67,7 +67,7 @@ Te contorsionas para escurrirte a través de un espacio tan pequeño que apenas 
 | Entrenado | un espacio en el que apenas caben tus hombros |
 | Maestro | un espacio en el que apenas cabe tu cabeza |
 
-### Maniobrar en vuelo ◆
+### Maniobrar en vuelo {% include accion.html tipo="1" %}
 
 **Movimiento**
 

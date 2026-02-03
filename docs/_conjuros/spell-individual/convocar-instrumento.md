@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Convocar Instrumento ◆◆◆ [TRUCO 1]
+## Convocar Instrumento {% include accion.html tipo="3" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Duracion:** 1 hora

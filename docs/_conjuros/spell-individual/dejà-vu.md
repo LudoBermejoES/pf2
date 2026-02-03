@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Déjà Vu ◆◆ [1]
+## Déjà Vu {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 100 pies (30 m); **Objetivos:** 1 criatura

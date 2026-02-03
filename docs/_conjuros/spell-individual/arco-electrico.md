@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Arco Eléctrico ◆◆ [TRUCO 1]
+## Arco Eléctrico {% include accion.html tipo="2" %} [TRUCO 1]
 
 
 ---

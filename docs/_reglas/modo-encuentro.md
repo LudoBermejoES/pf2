@@ -40,7 +40,7 @@ Cuando tus enemigos han sido derrotados, se alcanza algún tipo de tregua o alg�
 
 ## Turnos
 
-Cuando es tu turno de actuar, puedes utilizar acciones individuales (◆), actividades cortas (◆◆ y ◆◆◆), reacciones (↺), y acciones gratuitas (◇). Cuando has acabado, acaba tu turno y empieza el siguiente PJ en el orden de iniciativa. A veces es importante anotar cuándo sucede algo durante tu turno por lo que un turno se divide en tres pasos.
+Cuando es tu turno de actuar, puedes utilizar acciones individuales ({% include accion.html tipo="1" %}), actividades cortas ({% include accion.html tipo="2" %} y {% include accion.html tipo="3" %}), reacciones (↺), y acciones gratuitas ({% include accion.html tipo="libre" %}). Cuando has acabado, acaba tu turno y empieza el siguiente PJ en el orden de iniciativa. A veces es importante anotar cuándo sucede algo durante tu turno por lo que un turno se divide en tres pasos.
 
 ### Paso 1: Empieza tu Turno
 

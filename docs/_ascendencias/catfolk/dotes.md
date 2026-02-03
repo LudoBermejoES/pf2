@@ -25,7 +25,7 @@ Puedes recuperar tu energía rápidamente con una breve siesta. Duermes durante 
 
 ---
 
-### Suerte felina · Dote 1 · ◇
+### Suerte felina · Dote 1 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Catfolk, Fortuna
 
@@ -37,7 +37,7 @@ Te apartas instintivamente del peligro. Vuelve a tirar la salvación detonante y
 
 ---
 
-### Danza catfolk · Dote 1 · ◆
+### Danza catfolk · Dote 1 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Catfolk
 
@@ -105,7 +105,7 @@ Puedes mostrar cómo girar rápidamente fuera del alcance de efectos peligrosos.
 
 ---
 
-### Patas ligeras · Dote 5 · ◆◆
+### Patas ligeras · Dote 5 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Catfolk
 
@@ -179,7 +179,7 @@ Cuando usas Suerte felina para repetir tirada, cualquier criatura que elijas a 1
 
 ---
 
-### Gruñido depredador · Dote 9 · ◇
+### Gruñido depredador · Dote 9 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Catfolk
 
@@ -191,7 +191,7 @@ Das un gruñido profundo para intentar Desmoralizar a una criatura que acabas de
 
 ---
 
-### Paso silencioso · Dote 9 · ◆
+### Paso silencioso · Dote 9 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Catfolk, Flourish
 
@@ -209,7 +209,7 @@ Puedes realizar la actividad de exploración Explorar al mismo tiempo que la act
 
 ## Nivel 13
 
-### Maldición del gato negro · Dote 13 · ◇
+### Maldición del gato negro · Dote 13 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Catfolk, Desgracia, Ocultista
 
@@ -221,7 +221,7 @@ Siseas una maldición rencorosa. El objetivo repite la tirada de salvación deto
 
 ---
 
-### Aullido felino · Dote 13 · ◇
+### Aullido felino · Dote 13 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Auditivo, Catfolk, Concentración, Emoción, Mental
 
@@ -235,7 +235,7 @@ Das un aullido audaz, llamando a tu compañero de vuelta del borde de la inconsc
 
 ## Nivel 17
 
-### Eludir problemas · Dote 17 · ◇
+### Eludir problemas · Dote 17 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Catfolk
 

@@ -19,7 +19,7 @@ source: PC2
 
 Esta poción azulada otorga resistencia temporal a un tipo de daño.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Cuando bebes esta poción, eliges un tipo de daño de energía (ácido, frío, electricidad, fuego o sónico). Ganas resistencia 5 a ese tipo de daño durante 1 hora.
 

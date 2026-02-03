@@ -379,7 +379,7 @@ Tus estudios sobre la propia naturaleza de la magia te permiten emplearla de for
 
 Situas parte de tu poder magico en un objeto vinculado. Cada dia, cuando preparas tus conjuros, puedes designar un solo objeto en tu posesión como objeto vinculado. Se trata tipicamente de un objeto asociado con el lanzamiento de conjuros, como una varita, anillo o baston, pero eres libre de designar un arma u otro objeto. Obtienes la acción gratuita Drenar objeto vinculado.
 
-### Drenar Objeto Vinculado ◇
+### Drenar Objeto Vinculado {% include accion.html tipo="libre" %}
 
 **Rasgos:** Arcano, Mago
 

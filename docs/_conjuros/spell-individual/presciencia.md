@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
-## Presciencia ◆◆ [CONJURO 9]
+## Presciencia {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

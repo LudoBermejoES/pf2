@@ -15,7 +15,7 @@ En el 1er nivel, ganas una dote de ascendencia, y ganas una dote de ascendencia 
 
 ## Nivel 1
 
-### Consultar a los huesos · Dote 1 · ◇
+### Consultar a los huesos · Dote 1 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Kholo
 
@@ -81,7 +81,7 @@ Tu gran nariz negra no es solo decorativa. Puedes captar los olores más leves a
 
 ## Nivel 5
 
-### Absorber fuerza · Dote 5 · ◆
+### Absorber fuerza · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Poco común, Kholo
 
@@ -111,7 +111,7 @@ Hace falta mucha valentía para entrar en el bosque encantado de risas donde hab
 
 ---
 
-### Sangre de la mano izquierda · Dote 5 · ◆
+### Sangre de la mano izquierda · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Kholo
 
@@ -131,7 +131,7 @@ Las emboscadas son una tradición honrada de los kholos. Obtienes la dote Acecha
 
 ---
 
-### Carrera rabiosa · Dote 5 · ◆◆
+### Carrera rabiosa · Dote 5 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Flourish, Kholo
 

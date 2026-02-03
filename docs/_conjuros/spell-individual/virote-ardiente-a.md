@@ -1,12 +1,12 @@
 ---
 layout: spell
 permalink: /conjuros/virote-ardiente-a/
-title: Virote Ardiente ◆ a
+title: Virote Ardiente {% include accion.html tipo="1" %} a
 chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Virote Ardiente ◆ a ◆◆◆ [CONJURO 2]
+## Virote Ardiente {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} [CONJURO 2]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 o mas criaturas

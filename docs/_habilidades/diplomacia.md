@@ -26,7 +26,7 @@ Con por lo menos 1 minuto de conversación, durante el cual te dedicas a hacer p
 
 ---
 
-## Pedir ◆
+## Pedir {% include accion.html tipo="1" %}
 
 **Rasgos:** Auditivo, Concentrar, Lingüístico, Mental
 

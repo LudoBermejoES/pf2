@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Forma de Dinosaurio ◆◆ [CONJURO 4]
+## Forma de Dinosaurio {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto
@@ -30,17 +30,17 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 
 Obtienes tambien aptitudes especificas basadas en la forma elegida:
 
-**Ankylosaurus** Velocidad 25 pies (7,5 m); Cuerpo a cuerpo ◆ cola (alcance 10 pies [3 m], coletazo), Dano 2d6 contundente; Cuerpo a cuerpo ◆ pata, Dano 2d6 contundente.
+**Ankylosaurus** Velocidad 25 pies (7,5 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} cola (alcance 10 pies [3 m], coletazo), Dano 2d6 contundente; Cuerpo a cuerpo {% include accion.html tipo="1" %} pata, Dano 2d6 contundente.
 
-**Brontosaurus** Velocidad 25 pies (7,5 m); Cuerpo a cuerpo ◆ cola (alcance 15 pies [4,5 m], coletazo), Dano 2d6 contundente; Cuerpo a cuerpo ◆ pata, Dano 2d8 contundente.
+**Brontosaurus** Velocidad 25 pies (7,5 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} cola (alcance 15 pies [4,5 m], coletazo), Dano 2d6 contundente; Cuerpo a cuerpo {% include accion.html tipo="1" %} pata, Dano 2d8 contundente.
 
-**Deinonychus** Velocidad 40 pies (12 m); Cuerpo a cuerpo ◆ garra (agil), Dano 2d4 perforante + 1 persistente por sangrado; Cuerpo a cuerpo ◆ mandibulas, Dano 1d10 perforante.
+**Deinonychus** Velocidad 40 pies (12 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} garra (agil), Dano 2d4 perforante + 1 persistente por sangrado; Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 1d10 perforante.
 
-**Stegosaurus** Velocidad 30 pies (9 m); Cuerpo a cuerpo ◆ cola (alcance 10 pies [3 m]), Dano 2d8 perforante.
+**Stegosaurus** Velocidad 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} cola (alcance 10 pies [3 m]), Dano 2d8 perforante.
 
-**Triceratops** Velocidad 30 pies (9 m); Cuerpo a cuerpo ◆ cuerno, Dano 2d8 perforante + 1d6 persistente por sangrado con un impacto critico; Cuerpo a cuerpo ◆ pata, Dano 2d6 contundente.
+**Triceratops** Velocidad 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} cuerno, Dano 2d8 perforante + 1d6 persistente por sangrado con un impacto critico; Cuerpo a cuerpo {% include accion.html tipo="1" %} pata, Dano 2d6 contundente.
 
-**Tyrannosaurus** Velocidad 30 pies (9 m); Cuerpo a cuerpo ◆ mandibulas (alcance 10 pies [3 m], letal d12), Dano 1d12 perforante; Cuerpo a cuerpo ◆ cola, Dano 1d10 contundente.
+**Tyrannosaurus** Velocidad 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas (alcance 10 pies [3 m], letal d12), Dano 1d12 perforante; Cuerpo a cuerpo {% include accion.html tipo="1" %} cola, Dano 1d10 contundente.
 
 **Potenciado (5.o)** Tu forma de batalla es Enorme y tus ataques tienen un alcance de 15 pies (4,5 m), o 20 pies (6 m) si empezaste con 15. En lugar de lo indicado obtienes 20 PG temporales, un modificador al ataque de +18, un bonificador al dano de +6, el doble de dados de dano y Atletismo +21.
 

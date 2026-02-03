@@ -25,7 +25,7 @@ Te especializas en armas de melé que requieren dos manos. Tienes familiaridad c
 
 Si eres al menos experto con tal arma, obtienes acceso al efecto de especialización crítica con esa arma.
 
-### Abrir paso · ◆◆ · Dote 6
+### Abrir paso · {% include accion.html tipo="2" %} · Dote 6
 
 **Rasgos:** Arquetipo
 
@@ -35,7 +35,7 @@ Si eres al menos experto con tal arma, obtienes acceso al efecto de especializac
 
 Pones tu cuerpo tras tu arma masiva y la haces girar, empujando a los enemigos para abrir un amplio camino. Intentas Empujar hasta a cinco criaturas adyacentes a ti, tirando una prueba de Atletismo separada por cada objetivo e ignorando el requisito de tener una mano libre. Luego Avanza hasta la mitad de tu Velocidad. Este movimiento no desencadena reacciones de ninguna de las criaturas a las que empujaste con éxito. Cada intento cuenta para tu penalización por ataques múltiples, pero no aumentes tu penalización hasta que hayas realizado todos tus intentos.
 
-### Barrido de empuje · ◇ · Dote 8
+### Barrido de empuje · {% include accion.html tipo="libre" %} · Dote 8
 
 **Rasgos:** Arquetipo
 
@@ -47,7 +47,7 @@ Pones tu cuerpo tras tu arma masiva y la haces girar, empujando a los enemigos p
 
 Balanceas tu arma contra tu enemigo, rechazándolo hacia atrás. Intentas Empujar a la criatura desencadenante, ignorando el requisito de tener una mano libre. A menos que obtengas éxito crítico en tu prueba, la criatura continúa su movimiento tras el Empujón.
 
-### Martillazo sísmico · ◆◆◆ · Dote 14
+### Martillazo sísmico · {% include accion.html tipo="3" %} · Dote 14
 
 **Rasgos:** Arquetipo, Florecimiento
 
@@ -59,7 +59,7 @@ Golpeas el suelo con tu arma, derribando a las criaturas cercanas. Elige una cas
 
 Martillazo sísmico cuenta como tres ataques para tu penalización por ataques múltiples, pero la penalización no aumenta hasta después de que hayas realizado el Golpe, si lo hubiera, y todos los intentos de Derribar.
 
-### Golpe de avalancha · ◆◆◆ · Dote 16
+### Golpe de avalancha · {% include accion.html tipo="3" %} · Dote 16
 
 **Rasgos:** Arquetipo, Florecimiento
 

@@ -18,7 +18,7 @@ Elige dos mejoras de atributo. Una debe ser a **Inteligencia** o **Carisma**, y 
 
 Estás entrenado en **[Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }})** y en **Saber sobre maldiciones**. Obtienes la reacción **Signo protector**. Tú y el DJ deberíais determinar los efectos completos de la maldición, aunque por ahora has conjurado la mayoría de ellos. El DJ determina las manifestaciones persistentes de la maldición sobre ti, que normalmente incluyen al menos un efecto temático constante o muy frecuente y efectos ocasionales más peligrosos.
 
-### Signo protector · ◇
+### Signo protector · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Concentrar
 

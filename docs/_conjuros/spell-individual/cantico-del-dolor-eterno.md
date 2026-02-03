@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
-## Cantico del Dolor Eterno ◆◆ [CONJURO 8]
+## Cantico del Dolor Eterno {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

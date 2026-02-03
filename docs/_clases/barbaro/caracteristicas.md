@@ -38,7 +38,7 @@ class_name: Bárbaro
 
 ## Características de clase
 
-### Ira · ◆
+### Ira · {% include accion.html tipo="1" %}
 
 **Rasgos:** Bárbaro, Concentrar, Emoción, Mental
 
@@ -51,7 +51,7 @@ Accedes a tu furia interior y comienzas a irarte. Ganas un número de PG tempora
 
 La Ira dura 1 minuto, hasta que quedas inconsciente o hasta que el encuentro termina, lo que ocurra primero. No puedes detener voluntariamente tu ira. Cuando dejas de irarte, pierdes los PG temporales restantes de Ira y no puedes ganar PG temporales por usar la acción Ira de nuevo durante 1 minuto.
 
-### Fogoso · ◇
+### Fogoso · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Bárbaro
 

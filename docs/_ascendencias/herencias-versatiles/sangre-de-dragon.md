@@ -89,7 +89,7 @@ Un dragón con una profunda conexión con el mundo natural, como un dragón adam
 
 ## Dotes de nivel 1
 
-### Aliento de dragón · Dote 1 · ◆◆
+### Aliento de dragón · Dote 1 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Sangre de dragón, Mágico
 
@@ -171,7 +171,7 @@ Tu sentido del olfato se ha agudizado hasta ser tan fino como el de un dragón. 
 
 ---
 
-### Vuelo de dragón · Dote 5 · ◆
+### Vuelo de dragón · Dote 5 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Sangre de dragón
 
@@ -213,7 +213,7 @@ Tus alas se han fortalecido, capaces de mantenerte en el aire durante más tiemp
 
 ---
 
-### Aleteo de alas · Dote 9 · ◆◆
+### Aleteo de alas · Dote 9 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Ataque, Sangre de dragón
 
@@ -241,7 +241,7 @@ Como algunos dragones, tu antepasado tenía la capacidad sobrenatural de cambiar
 
 ---
 
-### Presencia majestuosa · Dote 13 · ◆
+### Presencia majestuosa · Dote 13 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Sangre de dragón, Emoción, Miedo, Mental, Visual
 

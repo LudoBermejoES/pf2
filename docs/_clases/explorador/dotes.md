@@ -15,7 +15,7 @@ En cada nivel en el que obtienes una dote de explorador, puedes seleccionar una 
 
 ## Dotes de Nivel 1
 
-### As de la Ballesta ◆
+### As de la Ballesta {% include accion.html tipo="1" %}
 
 **Dote 1**
 
@@ -47,7 +47,7 @@ Obtienes los servicios de un compañero animal joven que viaja contigo y obedece
 
 ---
 
-### Derribo Gemelo ◆
+### Derribo Gemelo {% include accion.html tipo="1" %}
 
 **Dote 1**
 
@@ -71,7 +71,7 @@ Has entrenado con una de las sectas de exploradores conocidas como guardianes, q
 
 ---
 
-### Tiro Cazado ◆
+### Tiro Cazado {% include accion.html tipo="1" %}
 
 **Dote 1**
 
@@ -85,7 +85,7 @@ Haces dos disparos seguidos contra lo que persigues. Da dos Golpes contra tu pre
 
 ## Dotes de Nivel 2
 
-### Desenvainado Rapido ◆
+### Desenvainado Rapido {% include accion.html tipo="1" %}
 
 **Dote 2**
 
@@ -117,7 +117,7 @@ Entiendes como defenderte a ti y a otros de tu presa. Cuando concedas bonificado
 
 ---
 
-### Punteria del Cazador ◆◆
+### Punteria del Cazador {% include accion.html tipo="2" %}
 
 **Dote 2**
 
@@ -149,7 +149,7 @@ Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en t
 
 ## Dotes de Nivel 4
 
-### Aviso del Batidor ◇
+### Aviso del Batidor {% include accion.html tipo="libre" %}
 
 **Dote 4**
 
@@ -197,7 +197,7 @@ Desbloqueas mas conjuros primigenios poderosos. Obtienes un conjuro de guardian 
 
 ---
 
-### Parada Gemela ◆
+### Parada Gemela {% include accion.html tipo="1" %}
 
 **Dote 4**
 
@@ -235,7 +235,7 @@ Puedes usar esta acción gratuita incluso si aun no has identificado a la criatu
 
 ---
 
-### Recarga a la Carrera ◆
+### Recarga a la Carrera {% include accion.html tipo="1" %}
 
 **Dote 4**
 
@@ -271,7 +271,7 @@ Has aprendido a reaccionar con armas a distancia cuando hay un enemigo a distanc
 
 ---
 
-### Golpe Hostigador ◆
+### Golpe Hostigador {% include accion.html tipo="1" %}
 
 **Dote 6**
 
@@ -309,7 +309,7 @@ Si tiras Supervivencia para calcular la iniciativa al rastrear a tu presa perseg
 
 ---
 
-### Recuerdo Adicional ◇
+### Recuerdo Adicional {% include accion.html tipo="libre" %}
 
 **Dote 6**
 
@@ -359,7 +359,7 @@ Eres capaz de adaptarte a lo que te rodea en cualquier terreno natural. Puedes i
 
 ---
 
-### Merced del Guardian ◆
+### Merced del Guardian {% include accion.html tipo="1" %}
 
 **Dote 8**
 
@@ -369,7 +369,7 @@ Señales las vulnerabilidades presentes en tu presa perseguida, concediendo los 
 
 ---
 
-### Punteria Mortal ◆
+### Punteria Mortal {% include accion.html tipo="1" %}
 
 **Dote 8**
 
@@ -419,7 +419,7 @@ Tu compañero animal continua creciendo y desarrollandose. Se convierte en un co
 
 ---
 
-### Disparo Perforante ◆◆
+### Disparo Perforante {% include accion.html tipo="2" %}
 
 **Dote 10**
 
@@ -509,7 +509,7 @@ Tu conexión con lo que te rodea se hace mas profunda y se expande, lo que te pe
 
 ---
 
-### Segundo Aguijon ◆
+### Segundo Aguijon {% include accion.html tipo="1" %}
 
 **Dote 12**
 
@@ -609,7 +609,7 @@ Tu compañero animal continua creciendo en poder y aptitudes, y ahora es lo sufi
 
 ---
 
-### Recarga del Guardian ◇
+### Recarga del Guardian {% include accion.html tipo="libre" %}
 
 **Dote 16**
 
@@ -673,7 +673,7 @@ Tu compañero animal comparte tus sensacionales habilidades para la caza, lo que
 
 ---
 
-### Disparo Perfecto ◆◆◆
+### Disparo Perfecto {% include accion.html tipo="3" %}
 
 **Dote 18**
 
@@ -685,7 +685,7 @@ Después de contemplar los movimientos del combate con una intensidad y una prec
 
 ---
 
-### Rafaga Imposible ◆◆◆
+### Rafaga Imposible {% include accion.html tipo="3" %}
 
 **Dote 18**
 
@@ -709,7 +709,7 @@ Has aprendido a utilizar cualquier ventaja posible. Cuando utilizas Perseguir pr
 
 ---
 
-### Volea Imposible ◆◆◆
+### Volea Imposible {% include accion.html tipo="3" %}
 
 **Dote 18**
 

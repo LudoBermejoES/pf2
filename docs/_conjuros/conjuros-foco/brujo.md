@@ -10,7 +10,7 @@ source: PC1
 
 ## Maleficios de Brujo
 
-### Aguja de Venganza ◆ FOCO 1
+### Aguja de Venganza {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Brujo, Foco, Maleficio, Manipular, Mental
 **Lección:** Venganza
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 enemigo
@@ -22,7 +22,7 @@ Una aguja larga y dentada se clava en la psique del objetivo enemigo siempre que
 
 ---
 
-### Capa del Embaucador ◆◆ FOCO 3
+### Capa del Embaucador {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Brujo, Concentrar, Foco, Ilusión, Maleficio, Manipular
 **Lección:** Travesura
 **Duración:** mantenido hasta 1 hora
@@ -33,7 +33,7 @@ Tu patrón envuelve a tu alrededor una capa de ilusión, haciendo que parezcas o
 
 ---
 
-### Custodia de Sangre ◆ FOCO 1
+### Custodia de Sangre {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Brujo, Foco, Maleficio, Manipular
 **Lección:** Protección
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -56,7 +56,7 @@ Tu patrón llama momentáneamente al éter a tu familiar, moviéndolo de su form
 
 ---
 
-### Maldición de Muerte ◆◆ FOCO 5
+### Maldición de Muerte {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Brujo, Concentrar, Foco, Maldición, Maleficio, Manipular, Muerte, Vacío
 **Lección:** Muerte
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -74,7 +74,7 @@ Tu patrón envuelve con la mano el corazón de tu objetivo, que tiene que hacer 
 
 ---
 
-### Marioneta del Patrón ◇ FOCO 1
+### Marioneta del Patrón {% include accion.html tipo="libre" %} FOCO 1
 **Rasgos:** Poco común, Brujo, Foco, Maleficio
 **Desencadenante:** Empieza tu turno.
 
@@ -82,7 +82,7 @@ Con una petición tuya sin palabras, tu patrón asume temporalmente el control d
 
 ---
 
-### Momento Restablecedor ◆◆ FOCO 5
+### Momento Restablecedor {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Brujo, Concentrar, Foco, Maleficio, Manipular
 **Lección:** Renovación
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -91,7 +91,7 @@ Tu patrón entreteje las hebras del tiempo alrededor del objetivo, concediéndol
 
 ---
 
-### Refuerzo Vital ◆ FOCO 1
+### Refuerzo Vital {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Brujo, Foco, Curación, Maleficio, Manipular, Vitalidad
 **Lección:** Vida
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -103,14 +103,14 @@ La fuerza vital de tu patrón fluye al objetivo, asegurándose de que puede cont
 
 ---
 
-### Risotada ◇ FOCO 1
+### Risotada {% include accion.html tipo="libre" %} FOCO 1
 **Rasgos:** Poco común, Brujo, Concentrar, Foco, Maleficio
 
 Con una rápida risotada, prolongas un efecto mágico creado por ti. Mantienes un conjuro.
 
 ---
 
-### Sombra Maliciosa ◆◆ FOCO 3
+### Sombra Maliciosa {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Brujo, Concentrar, Foco, Maleficio, Manipular, Sombra
 **Lección:** Sombra
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -124,7 +124,7 @@ La sombra se desvanece si el objetivo deja de proyectar sombra (por lo general, 
 
 ---
 
-### Traición Elemental ◆ FOCO 1
+### Traición Elemental {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Brujo, Concentrar, Foco, Maleficio
 **Lección:** Elementos
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -136,7 +136,7 @@ Tu patrón utiliza su dominio superior de los elementos, potenciándolos para qu
 
 ---
 
-### Velo de Sueños ◆ FOCO 1
+### Velo de Sueños {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Brujo, Foco, Maleficio, Manipular, Mental
 **Lección:** Sueños
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -152,7 +152,7 @@ Tu patrón induce en el objetivo un estado somnoliento, que le provoca ensoñaci
 
 ---
 
-### Ventisca Personal ◆ FOCO 3
+### Ventisca Personal {% include accion.html tipo="1" %} FOCO 3
 **Rasgos:** Poco común, Brujo, Concentrar, Foco, Frío, Maleficio
 **Lección:** Nieve
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -174,7 +174,7 @@ El aliento de tu patrón se convierte una ventisca de hielo oscurecedor y agotad
 
 ## Trucos de Maleficio de Patrón
 
-### Avivar el Corazón ◆ TRUCO 1
+### Avivar el Corazón {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco común, Brujo, Concentrar, Emoción, Maleficio, Truco
 **Patrón:** Guardián de la llama de la fe
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -186,7 +186,7 @@ Tu patrón llena de fervor a una criatura, potenciando sus golpes. El objetivo o
 
 ---
 
-### Discernir Secretos ◆ TRUCO 1
+### Discernir Secretos {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco común, Brujo, Maleficio, Manipular, Truco
 **Patrón:** El inscrito
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -198,7 +198,7 @@ Tu patrón se digna susurrar unos cuantos secretos. El objetivo puede Recordar c
 
 ---
 
-### Empujar al Destino ◆ TRUCO 1
+### Empujar al Destino {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco común, Brujo, Concentrar, Maleficio, Truco
 **Patrón:** Tejedor de hebras
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -210,7 +210,7 @@ Si lanzas empujar al destino mientras está en funcionamiento un lanzamiento ant
 
 ---
 
-### Hielo Aferrante ◆ TRUCO 1
+### Hielo Aferrante {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco común, Brujo, Frío, Maleficio, Manipular, Truco
 **Patrón:** Silencio en la nieve
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -230,7 +230,7 @@ Aguanieve helada y una fuerte nevada se concentran en los pies y en las piernas 
 
 ---
 
-### Mal de Ojo ◆ TRUCO 1
+### Mal de Ojo {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco común, Brujo, Maldición, Maleficio, Manipular, Truco
 **Patrón:** El resentimiento
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -240,7 +240,7 @@ El resentimiento de tu patrón se manifiesta en una mirada siniestra y envidiosa
 
 ---
 
-### Palabra Salvaje ◆ TRUCO 1
+### Palabra Salvaje {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco común, Brujo, Maleficio, Mental, Truco
 **Patrón:** Senescal de lo salvaje
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
@@ -258,7 +258,7 @@ La majestad de tu patrón (o su desagrado) surge como un gruñido de tu garganta
 
 ---
 
-### Sudario de la Noche ◆ TRUCO 1
+### Sudario de la Noche {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco común, Brujo, Maleficio, Manipular, Oscuridad, Truco
 **Patrón:** Sombra sin estrellas
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura

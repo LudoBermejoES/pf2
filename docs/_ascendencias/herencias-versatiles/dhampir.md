@@ -140,7 +140,7 @@ Puedes canalizar la magia que recorre tu sangre. Obtienes *forma animal* (solo l
 
 ## Dotes de nivel 13
 
-### Forma de murciélago · Dote 13 · ◆
+### Forma de murciélago · Dote 13 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Concentrar, Dhampir, Divino, Polimorfo
 

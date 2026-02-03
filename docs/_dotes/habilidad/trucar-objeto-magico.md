@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/habilidad/trucar-objeto-magico/
-title: Trucar objeto magico ◆
+title: Trucar objeto magico {% include accion.html tipo="1" %}
 chapter: Dotes
 category: dotes
 habilidad: Trucar objetos mágicos

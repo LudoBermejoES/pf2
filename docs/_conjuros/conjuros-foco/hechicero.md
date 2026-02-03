@@ -14,7 +14,7 @@ Los conjuros de foco del hechicero se conocen como **conjuros de linaje**. Estos
 
 ## Aberrante
 
-### Brazos tentaculares ◆ FOCO 1
+### Brazos tentaculares {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Foco, Manipular, Morfo, Hechicero
 **Duración:** 1 minuto
 
@@ -24,7 +24,7 @@ Tus brazos se convierten en largos tentáculos flexibles, aumentando tu alcance 
 
 ---
 
-### Susurros aberrantes ◆ a ◆◆◆ FOCO 3
+### Susurros aberrantes {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 3
 **Rasgos:** Poco común, Auditivo, Concentrar, Foco, Mental, Hechicero
 **Área:** emanación de 5 pies (1,5 m) o más; **Objetivos:** cada enemigo en el área
 **Defensa:** Voluntad; **Duración:** 1 asalto
@@ -41,7 +41,7 @@ Pronuncias frases en una lengua desconocida, asaltando las mentes de los present
 
 ---
 
-### Anatomía insólita ◆ FOCO 5
+### Anatomía insólita {% include accion.html tipo="1" %} FOCO 5
 **Rasgos:** Poco común, Foco, Manipular, Polimorfo, Hechicero
 **Duración:** 1 minuto
 
@@ -57,7 +57,7 @@ Transformas tu carne y órganos en una extraña amalgama de piel reluciente, esc
 
 ## Angélico
 
-### Halo angélico ◆ FOCO 1
+### Halo angélico {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Aura, Concentrar, Foco, Sagrado, Hechicero
 **Área:** emanación de 15 pies (4,5 m)
 **Duración:** 1 minuto
@@ -66,7 +66,7 @@ Obtienes un halo angélico con un aura que incrementa la curación de tus aliado
 
 ---
 
-### Alas angélicas ◆◆ FOCO 3
+### Alas angélicas {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Concentrar, Foco, Luz, Manipular, Hechicero
 **Duración:** 3 asaltos
 
@@ -76,7 +76,7 @@ Alas de luz pura se extienden desde tu espalda, concediéndote una Velocidad de 
 
 ---
 
-### Marca celestial ◆ FOCO 5
+### Marca celestial {% include accion.html tipo="1" %} FOCO 5
 **Rasgos:** Poco común, Maldición, Foco, Manipular, Hechicero
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura sacrílega
 **Duración:** 1 asalto
@@ -89,7 +89,7 @@ Aparece un símbolo llameante sobre el objetivo, maldiciéndolo para que enfrent
 
 ## Demoníaco
 
-### Mandíbulas glotonas ◆◆ FOCO 1
+### Mandíbulas glotonas {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco común, Ataque, Concentrar, Foco, Manipular, Hechicero
 **Rango:** 30 pies (9 m); **Objetivo:** 1 criatura
 **Defensa:** CA
@@ -100,7 +100,7 @@ Una fauce babeante se abre bajo un objetivo e intenta darle un mordisco. Haz una
 
 ---
 
-### Pantano de pereza ◆ a ◆◆◆ FOCO 3
+### Pantano de pereza {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 3
 **Rasgos:** Poco común, Concentrar, Foco, Manipular, Olfativo, Hechicero
 **Rango:** 120 pies (36 m); **Área:** explosión de 5 pies (1,5 m) o más
 **Defensa:** salvación básica de Fortaleza; **Duración:** 1 minuto
@@ -111,7 +111,7 @@ El suelo del área se vuelve pantanoso y fétido. El área es terreno difícil. 
 
 ---
 
-### Ira ctónica ◆◆ FOCO 5
+### Ira ctónica {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 **Área:** cono de 60 pies (18 m)
 **Defensa:** salvación básica de Reflejos
@@ -131,7 +131,7 @@ Evocas la energía de una parte de las Grietas Exteriores. Los tipos de daño de
 
 ## Diabólico
 
-### Edicto diabólico ◆ FOCO 1
+### Edicto diabólico {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Concentrar, Foco, Hechicero
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viviente dispuesta
 **Duración:** 1 asalto
@@ -140,7 +140,7 @@ Proclamas un edicto diabólico, exigiendo que el objetivo realice una tarea conc
 
 ---
 
-### Abrazo del Abismo ◆ FOCO 3
+### Abrazo del Abismo {% include accion.html tipo="1" %} FOCO 3
 **Rasgos:** Poco común, Concentrar, Foco, Morfo, Hechicero
 **Duración:** 1 minuto
 
@@ -150,7 +150,7 @@ Cuernos diabólicos crecen de tu cráneo y tu piel adquiere rasgos del diablo re
 
 ---
 
-### Penacho de fuego infernal ◆◆ FOCO 5
+### Penacho de fuego infernal {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Concentrar, Fuego, Foco, Manipular, Hechicero, Espíritu
 **Rango:** 60 pies (18 m); **Área:** cilindro de 10 pies (3 m) de radio y 60 pies (18 m) de altura
 **Defensa:** salvación básica de Reflejos
@@ -163,7 +163,7 @@ Invocas un penacho de fuego infernal que estalla desde abajo, infligiendo 4d6 de
 
 ## Dracónico
 
-### Ráfaga de garras ◆◆ FOCO 1
+### Ráfaga de garras {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco común, Ataque, Concentrar, Foco, Manipular, Hechicero
 **Rango:** 30 pies (9 m); **Objetivos:** 2 criaturas a no más de 10 pies (3 m) entre sí
 **Defensa:** CA
@@ -174,7 +174,7 @@ Aparecen feroces garras de dragón y desgarran a dos enemigos cercanos. Haz una 
 
 ---
 
-### Aliento de dragón ◆◆ FOCO 3
+### Aliento de dragón {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 **Área:** cono de 30 pies (9 m)
 **Defensa:** salvación básica de Reflejos
@@ -185,7 +185,7 @@ Exhalas energía por la boca, infligiendo 5d6 de daño con una salvación básic
 
 ---
 
-### Alas de dragón ◆◆ FOCO 5
+### Alas de dragón {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Concentrar, Foco, Manipular, Morfo, Hechicero
 **Duración:** 1 minuto
 
@@ -197,7 +197,7 @@ Brota de tu espalda un par de alas coriáceas, concediéndote una Velocidad de v
 
 ## Elemental
 
-### Lanzamiento elemental ◆ FOCO 1
+### Lanzamiento elemental {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Ataque, Foco, Manipular, Hechicero
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** CA
@@ -208,7 +208,7 @@ Con un giro de muñeca, arrojas un fragmento de tu materia elemental contra tu e
 
 ---
 
-### Movimiento elemental ◆◆ FOCO 3
+### Movimiento elemental {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 **Duración:** 1 minuto
 
@@ -227,7 +227,7 @@ Invocas a tu elemento para impulsarte, mejorando tus Velocidades según tu eleme
 
 ---
 
-### Explosión elemental ◆◆ FOCO 5
+### Explosión elemental {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 **Rango:** 30 pies (9 m) (solo explosión); **Área:** explosión de 10 pies (3 m) de radio, cono de 30 pies (9 m), o línea de 60 pies (18 m)
 **Defensa:** salvación básica de Reflejos
@@ -240,7 +240,7 @@ Reúnes energía elemental y la descargas sobre tus enemigos en una de las forma
 
 ## Feérico
 
-### Polvo feérico ◆ a ◆◆◆ FOCO 1
+### Polvo feérico {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 1
 **Rasgos:** Poco común, Concentrar, Foco, Manipular, Mental, Hechicero
 **Rango:** 30 pies (9 m); **Área:** explosión de 5 pies (1,5 m) o más
 **Defensa:** Voluntad; **Duración:** 1 asalto
@@ -257,7 +257,7 @@ Espolvoreas polvo mágico en el área del conjuro, haciendo a quienes están den
 
 ---
 
-### Desaparición feérica ◆ FOCO 3
+### Desaparición feérica {% include accion.html tipo="1" %} FOCO 3
 **Rasgos:** Poco común, Foco, Manipular, Hechicero
 **Duración:** hasta el final de tu siguiente turno
 
@@ -267,7 +267,7 @@ Te vuelves invisible e ignoras el terreno difícil natural (como sotobosque). Cu
 
 ---
 
-### Engalanamiento feérico ◆◆ FOCO 5
+### Engalanamiento feérico {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Concentrar, Foco, Ilusión, Manipular, Hechicero
 **Rango:** 30 pies (9 m); **Área:** explosión de 30 pies (9 m) o **Objetivos:** hasta 10 criaturas dispuestas
 **Duración:** 10 minutos
@@ -278,7 +278,7 @@ Invocas galas feéricas para envolver un área o a los objetivos en ilusión. Es
 
 ## Bruja
 
-### Maldición celosa ◆ FOCO 1
+### Maldición celosa {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Concentrar, Maldición, Foco, Hechicero
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** 1 minuto
@@ -293,7 +293,7 @@ Extraes la innata celosía de una bruja para negar a un objetivo su mayor atribu
 
 ---
 
-### Faz horrenda ◆◆ FOCO 3
+### Faz horrenda {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Concentrar, Emoción, Miedo, Foco, Ilusión, Manipular, Mental, Hechicero, Visual
 **Área:** emanación de 30 pies (9 m) de radio
 **Defensa:** Voluntad
@@ -310,7 +310,7 @@ Transformas brevemente tus rasgos en la faz horrenda de una bruja, infundiendo m
 
 ---
 
-### ¡Eres mío! ◆◆ FOCO 5
+### ¡Eres mío! {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Concentrar, Emoción, Foco, Incapacitación, Manipular, Mental, Hechicero
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** 1 asalto
@@ -331,7 +331,7 @@ Manipulas las emociones del objetivo, permitiéndote potencialmente controlarlo 
 
 ## Imperial
 
-### Recuerdos ancestrales ◆ FOCO 1
+### Recuerdos ancestrales {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Concentrar, Foco, Hechicero
 
 Los recuerdos de lanzadores de conjuros de tiempos remotos te conceden su conocimiento, haciendo tus conjuros más formidables. Obtienes o bien un bonificador de estado +1 a la siguiente tirada de ataque de conjuro que intentes antes de que termine tu turno, o un enemigo a 60 pies (18 m) sufre un penalizador de estado –1 a la siguiente tirada de salvación que intente contra un conjuro que lances antes de que termine tu turno.
@@ -342,14 +342,14 @@ Los recuerdos de lanzadores de conjuros de tiempos remotos te conceden su conoci
 
 ---
 
-### Extender magia de linaje ◆ FOCO 3
+### Extender magia de linaje {% include accion.html tipo="1" %} FOCO 3
 **Rasgos:** Poco común, Concentrar, Foco, Forma de conjuro, Hechicero
 
 Invocas la energía arcana que fluye por tu sangre para extender la magia que concede. Si tu siguiente acción es Lanzar un Conjuro que te conceda un efecto de magia de linaje que dure al menos 1 asalto, tú o un objetivo obtenéis el efecto de magia de linaje durante 1 asalto adicional. Solo puedes tener un efecto de magia de linaje extendido a la vez.
 
 ---
 
-### Contramedida arcana ◇ FOCO 5
+### Contramedida arcana {% include accion.html tipo="libre" %} FOCO 5
 **Rasgos:** Poco común, Foco, Manipular, Hechicero
 **Desencadenante:** Una criatura en alcance que puedas ver Lanza un Conjuro.
 **Rango:** 120 pies (36 m); **Objetivos:** el conjuro lanzado por la criatura que desencadenó
@@ -362,7 +362,7 @@ No puedes reducir el rango del conjuro por debajo de su mínimo. Por ejemplo, un
 
 ## No muerto
 
-### Bendición de la no muerte ◆ FOCO 1
+### Bendición de la no muerte {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Foco, Manipular, Hechicero, Vacío
 **Rango:** toque; **Objetivos:** 1 criatura viviente
 **Defensa:** Voluntad; **Duración:** 1 minuto
@@ -379,7 +379,7 @@ Infundes en una criatura el toque de la tumba. Durante la duración, los conjuro
 
 ---
 
-### Drenar vida ◆ FOCO 3
+### Drenar vida {% include accion.html tipo="1" %} FOCO 3
 **Rasgos:** Poco común, Foco, Manipular, Hechicero, Vacío
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viviente
 **Defensa:** salvación básica de Fortaleza
@@ -390,7 +390,7 @@ Cierras la mano y extraes energía vital de otra criatura hacia ti. Esto inflige
 
 ---
 
-### Tumba aferradora ◆◆ FOCO 5
+### Tumba aferradora {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Concentrar, Foco, Manipular, Hechicero
 **Rango:** 60 pies (18 m); **Área:** radio de 20 pies (6 m) en el suelo
 **Defensa:** Reflejos

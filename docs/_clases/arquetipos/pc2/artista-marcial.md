@@ -21,7 +21,7 @@ Te has entrenado en artes marciales, haciendo letales tus golpes desarmados. No 
 
 Te has entrenado para usar tus puños como armas mortales y puedes asestar golpes devastadores con ellos. El dado de daño de tus ataques desarmados con puño pasa a ser 1d6 en lugar de 1d4. No recibes la penalización circunstancial –2 por realizar un ataque letal con tus ataques desarmados no letales.
 
-### Golpe de seguimiento · ◆ · Dote 6
+### Golpe de seguimiento · {% include accion.html tipo="1" %} · Dote 6
 
 **Rasgos:** Arquetipo, Florecimiento
 
@@ -31,7 +31,7 @@ Te has entrenado para usar tus puños como armas mortales y puedes asestar golpe
 
 Te has entrenado rigurosamente para usar todas las partes de tu cuerpo como arma, y cuando fallas un ataque, normalmente puedes continuar el ataque con otra parte del cuerpo y aún infligir daño. Realiza otro Golpe con un ataque desarmado de melé, usando la misma penalización por ataques múltiples que el Golpe fallido, si la hubiera.
 
-### Golpe atroz · ◆◆ · Dote 8
+### Golpe atroz · {% include accion.html tipo="2" %} · Dote 8
 
 **Rasgos:** Arquetipo, Florecimiento
 
@@ -41,7 +41,7 @@ Sabes cómo asestar golpes concentrados y poderosos que eluden las resistencias 
 
 Si eres al menos nivel 18, incrementa el daño adicional a tres dados de daño de arma.
 
-### Sendero de hierro · ◆◆◆ · Dote 14
+### Sendero de hierro · {% include accion.html tipo="3" %} · Dote 14
 
 **Rasgos:** Arquetipo, Florecimiento
 

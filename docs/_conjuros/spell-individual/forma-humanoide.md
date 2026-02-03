@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Forma Humanoide ◆◆ [CONJURO 2]
+## Forma Humanoide {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Duracion:** 10 minutos

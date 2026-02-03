@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Objeto Ilusorio ◆◆ [CONJURO 1]
+## Objeto Ilusorio {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 500 pies (150 m); **Área:** explosión de 20 pies (6 m)

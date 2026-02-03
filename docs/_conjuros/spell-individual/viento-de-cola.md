@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Viento de Cola ◆◆ [TRUCO]
+## Viento de Cola {% include accion.html tipo="2" %} [TRUCO]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 hora

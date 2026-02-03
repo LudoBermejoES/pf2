@@ -18,7 +18,7 @@ Para recordar información útil acerca de un tema determinado, puedes Recordar 
 
 Podrías conocer información básica acerca de algo sin ni siquiera tener que hacer una prueba, pero Recordar conocimiento requiere que te detengas y pienses durante unos momentos para reunir más hechos específicos y aplicarlos.
 
-### Recordar Conocimiento ◆
+### Recordar Conocimiento {% include accion.html tipo="1" %}
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Secreto</span></div>
 

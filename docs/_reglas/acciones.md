@@ -30,11 +30,11 @@ Estos iconos aparecen en los bloques de estadística como abreviaturas para cada
 
 | Icono | Tipo |
 |-------|------|
-| ◆ | Acción individual |
-| ◆◆ | Actividad de dos acciones |
-| ◆◆◆ | Actividad de tres acciones |
+| {% include accion.html tipo="1" %} | Acción individual |
+| {% include accion.html tipo="2" %} | Actividad de dos acciones |
+| {% include accion.html tipo="3" %} | Actividad de tres acciones |
 | ↺ | Reacción |
-| ◇ | Acción gratuita |
+| {% include accion.html tipo="libre" %} | Acción gratuita |
 
 ## Actividades
 

@@ -51,7 +51,7 @@ Siempre que realizas un Golpe con un arma improvisada contra una criatura que no
 
 Puedes aplicar efectos de especialización crítica a las armas improvisadas que empuñas. Para cada arma improvisada, el DJ determina qué efecto de especialización crítica es más aplicable, según el tipo de objeto.
 
-### Golpe improvisado · ◆ · Dote 8
+### Golpe improvisado · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Arquetipo
 
@@ -59,7 +59,7 @@ Puedes aplicar efectos de especialización crítica a las armas improvisadas que
 
 Coges rápidamente lo que tengas cerca y atacas con ello como arma improvisada. Interactúas para recoger un objeto desatendido a tu alcance que puedas usar como arma improvisada y luego realizas un Golpe con esa arma improvisada.
 
-### Golpe destrozador · ◇ · Dote 10
+### Golpe destrozador · {% include accion.html tipo="libre" %} · Dote 10
 
 **Rasgos:** Arquetipo
 

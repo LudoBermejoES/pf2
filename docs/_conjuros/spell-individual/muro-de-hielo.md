@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Muro de Hielo ◆◆◆ [CONJURO 5]
+## Muro de Hielo {% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m)

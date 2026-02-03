@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Averiguar intenciones ◆
+## Averiguar intenciones {% include accion.html tipo="1" %}
 
 **CONCENTRAR** **SECRETO**
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
-## Ráfaga de vendaval ◆◆ [TRUCO 1]
+## Ráfaga de vendaval {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Área:** emanación de 5 pies (1,5 m)

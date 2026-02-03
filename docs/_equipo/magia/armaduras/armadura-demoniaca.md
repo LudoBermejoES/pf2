@@ -19,7 +19,7 @@ source: PC2
 
 Esta siniestra armadura negra está adornada con cuernos y rostros demoníacos que parecen moverse.
 
-**Activar** ◆◆ Mando
+**Activar** {% include accion.html tipo="2" %} Mando
 
 **Efecto** Puedes activar la armadura para emanar un aura de terror. Todas las criaturas enemigas en un radio de 30 pies (9 m) deben intentar una salvación de Voluntad CD 27. **Fracaso** La criatura queda asustada 1. **Fracaso crítico** La criatura queda asustada 2.
 

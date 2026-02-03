@@ -37,7 +37,7 @@ Usas múltiples idiomas para crear y romper códigos. Obtienes un bonificador ci
 
 Puedes pronunciar y repetir palabras con una precisión casi perfecta, incluso si no entiendes su significado, y puedes escribirlas en una escritura fonética que te permita a ti u otra criatura con Entrenamiento fonético leerla más tarde. Incluso si las palabras están en un idioma con sonidos que no puedes pronunciar, puedes transcribirlas fielmente. Memorizar largas secuencias de palabras sigue siendo tan difícil como normalmente.
 
-### Traducción instantánea · ◇ · Dote 4
+### Traducción instantánea · {% include accion.html tipo="libre" %} · Dote 4
 
 **Rasgos:** Arquetipo, Auditivo, Lingüístico
 

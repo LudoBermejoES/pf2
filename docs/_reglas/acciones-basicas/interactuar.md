@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Interactuar ◆
+## Interactuar {% include accion.html tipo="1" %}
 
 **MANIPULAR**
 

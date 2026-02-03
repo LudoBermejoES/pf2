@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
-## Susurros del vacío ◆◆ [4]
+## Susurros del vacío {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** divina, ocultista
 **Rango:** 60 pies (18 m); **Área:** explosión de 10 pies (3 m)

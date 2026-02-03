@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Volar ◆◆ [CONJURO 4]
+## Volar {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

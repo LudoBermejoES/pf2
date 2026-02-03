@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Hipercognicion ◆ [CONJURO 3]
+## Hipercognicion {% include accion.html tipo="1" %} [CONJURO 3]
 
 **Tradiciones:** ocultista
 

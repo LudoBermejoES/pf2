@@ -23,7 +23,7 @@ Las personas son deliciosamente frágiles cuando se exponen al poder insidioso d
 
 Te aseguras de tener siempre algunas toxinas a mano: nunca se sabe cuándo un poco de arsénico u otro veneno puede resultar útil. Obtienes los beneficios de alquimia avanzada. Puedes usar alquimia avanzada para crear cuatro consumibles de veneno alquímico cada día. Recuerdas las fórmulas de venenos alquímicos y no necesitas un libro de fórmulas para ellos.
 
-### Giro del envenenador · ◆ · Dote 4
+### Giro del envenenador · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo
 
@@ -51,9 +51,9 @@ Puedes crear hasta 6 venenos al día con alquimia avanzada.
 
 En la naturaleza, ciertos animales están cubiertos de espinas venenosas, y con solo rozarlas pueden resultar mortales. Gastas un veneno de contacto o de lesión y dedicas 10 minutos a aplicar ese veneno sobre tu ropa o a tejer agujas afiladas y envenenadas en la tela de la prenda. Solo puedes tener un veneno impregnado en tu ropa a la vez. Puedes usar la reacción Una vez mordido mientras tengas un veneno impregnado de esta manera.
 
-**Una vez mordido · ◇** **Desencadenante:** Una criatura adyacente a ti te impacta con un Golpe desarmado de melé. **Requisitos:** Has preparado tu ropa para envenenar atacantes. **Efecto:** La criatura desencadenante se expone al veneno impregnado, y el veneno se vuelve inerte.
+**Una vez mordido · {% include accion.html tipo="libre" %}** **Desencadenante:** Una criatura adyacente a ti te impacta con un Golpe desarmado de melé. **Requisitos:** Has preparado tu ropa para envenenar atacantes. **Efecto:** La criatura desencadenante se expone al veneno impregnado, y el veneno se vuelve inerte.
 
-### Tolerancia adquirida · ◇ · Dote 8
+### Tolerancia adquirida · {% include accion.html tipo="libre" %} · Dote 8
 
 **Rasgos:** Arquetipo, Fortuna
 

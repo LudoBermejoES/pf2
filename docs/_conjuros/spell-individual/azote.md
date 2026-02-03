@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Azote ◆◆ [DOTE 1]
+## Azote {% include accion.html tipo="2" %} [DOTE 1]
 
 **Tradiciones:** divina, ocultista
 **Area:** emanacion de 10 pies (3 m); **Defensa:** Voluntad; **Duracion:** 1 minuto

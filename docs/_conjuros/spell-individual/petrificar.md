@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Petrificar ◆◆ [CONJURO 6]
+## Petrificar {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura hecha de material orgánico

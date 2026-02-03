@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Hablar con las Plantas ◆◆ [CONJURO 3]
+## Hablar con las Plantas {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Duracion:** 1 hora

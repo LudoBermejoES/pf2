@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Campo de Vida ◆◆ [CONJURO 6]
+## Campo de Vida {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 20 pies (6 m)

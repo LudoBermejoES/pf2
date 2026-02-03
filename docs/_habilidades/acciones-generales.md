@@ -18,5 +18,5 @@ Las acciones de habilidad generales son acciones de habilidad que se pueden util
 | [Descifrar escritura](/habilidades/descifrar-escritura/) | Entrenado | Descifra textos arcaicos o esotéricos |
 | [Identificar magia](/habilidades/identificar-magia/) | Entrenado | Identifica objetos, lugares o efectos mágicos |
 | [Obtener ingresos](/habilidades/obtener-ingresos/) | Entrenado | Gana dinero durante el tiempo libre |
-| [Recordar conocimiento ◆](/habilidades/recordar-conocimiento/) | No entrenado | Recuerda información sobre un tema |
+| [Recordar conocimiento {% include accion.html tipo="1" %}](/habilidades/recordar-conocimiento/) | No entrenado | Recuerda información sobre un tema |
 | [Subsistir](/habilidades/subsistir/) | No entrenado | Provee comida y cobijo a ti mismo |

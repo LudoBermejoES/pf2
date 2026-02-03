@@ -17,7 +17,7 @@ source: PC2
 
 Esta varita de cobre chisporrotea con pequeños arcos eléctricos.
 
-**Activar** ◆◆ Mando (1/día)
+**Activar** {% include accion.html tipo="2" %} Mando (1/día)
 
 **Efecto** Lanzas *rayo* de rango 3 (4d12 de daño de electricidad en una línea de 120 pies/36 m, salvación básica de Reflejos CD 20).
 

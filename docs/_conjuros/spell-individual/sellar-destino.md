@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
-## Sellar destino ◆◆ [4]
+## Sellar destino {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango:** toque; **Objetivos:** 1 criatura viviente

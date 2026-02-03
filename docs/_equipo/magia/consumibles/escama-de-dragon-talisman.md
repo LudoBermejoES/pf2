@@ -19,7 +19,7 @@ source: PC2
 
 Esta escama de dragón auténtica otorga protección elemental.
 
-**Activar** ◇ Imaginar (desencadenante: sufrirías daño de energía)
+**Activar** {% include accion.html tipo="libre" %} Imaginar (desencadenante: sufrirías daño de energía)
 
 **Efecto** Activas el talismán cuando sufrirías daño de ácido, frío, electricidad, fuego o sónico. Ganas resistencia 10 contra ese daño. El talismán se consume.
 

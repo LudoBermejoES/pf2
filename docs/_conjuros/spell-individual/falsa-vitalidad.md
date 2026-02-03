@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Falsa Vitalidad ◆◆ [CONJURO 2]
+## Falsa Vitalidad {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, ocultista
 **Duracion:** 8 horas

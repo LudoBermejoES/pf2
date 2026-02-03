@@ -186,7 +186,7 @@ Has aprendido a infligir heridas mayores con las armas que conoces mejor. Inflig
 
 Cuando sacas partido de una abertura, a la vez obstaculizas y danas a tu enemigo. Obtienes la acción gratuita golpe debilitante.
 
-### Golpe Debilitante ◇
+### Golpe Debilitante {% include accion.html tipo="libre" %}
 
 **Rasgos:** Picaro
 
@@ -263,7 +263,7 @@ Tu habilidad con la armadura ligera mejora, incrementando tu capacidad para esqu
 
 Puedes incapacitar a un enemigo incauto de un solo golpe. Tu rango de competencia para tu CD de picaro se incrementa a maestro. Obtienes la acción gratuita golpe maestro.
 
-### Golpe Maestro ◇
+### Golpe Maestro {% include accion.html tipo="libre" %}
 
 **Rasgos:** Incapacitacion, Picaro
 

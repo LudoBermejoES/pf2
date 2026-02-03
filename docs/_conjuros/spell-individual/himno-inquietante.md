@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
-## Himno inquietante ◆◆ [TRUCO 1]
+## Himno inquietante {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** divina, ocultista
 **Área:** cono de 15 pies (4,5 m)

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Uno con las Plantas ◆◆ [DOTE 2]
+## Uno con las Plantas {% include accion.html tipo="2" %} [DOTE 2]
 
 **Tradiciones:** primigenia
 **Duracion:** 10 minutos u 8 horas

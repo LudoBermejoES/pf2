@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Heroísmo ◆◆ [CONJURO 3]
+## Heroísmo {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

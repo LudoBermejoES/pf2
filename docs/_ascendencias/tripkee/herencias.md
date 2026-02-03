@@ -19,7 +19,7 @@ Puede que seas pequeño, pero las glándulas de veneno ocultas por tu cuerpo esc
 
 **Beneficio:** Obtienes la reacción Piel tóxica.
 
-> **Piel tóxica** ◇
+> **Piel tóxica** {% include accion.html tipo="libre" %}
 >
 > **Rasgos:** Veneno
 >

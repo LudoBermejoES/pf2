@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/habilidad/negociacion-legendaria/
-title: Negociacion legendaria ◆◆◆
+title: Negociacion legendaria {% include accion.html tipo="3" %}
 chapter: Dotes
 category: dotes
 habilidad: Diplomacia

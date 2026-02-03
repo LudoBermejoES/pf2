@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Compartir Vida ◆◆ [CONJURO 2]
+## Compartir Vida {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** divina
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

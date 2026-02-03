@@ -1,0 +1,34 @@
+{% comment %}
+  Include para mostrar iconos de acciones de Pathfinder 2e.
+
+  Las imágenes se definen en CSS (main.css), no aquí.
+  Para cambiar los iconos, edita las clases .accion-X en el CSS.
+
+  Uso:
+    {% include accion.html tipo="1" %} - Una acción
+    {% include accion.html tipo="2" %} - Dos acciones
+    {% include accion.html tipo="3" %} - Tres acciones
+    {% include accion.html tipo="libre" %} - Acción libre
+    {% include accion.html tipo="reaccion" %} - Reacción
+
+  Los tipos también aceptan:
+    "una", "uno", "1" para una acción
+    "dos", "2" para dos acciones
+    "tres", "3" para tres acciones
+    "libre", "gratis", "free", "0" para acción libre
+    "reaccion", "reaction", "r" para reacción
+{% endcomment -%}
+{%- assign t = include.tipo | downcase -%}
+{%- if t == "1" or t == "una" or t == "uno" -%}
+<span class="accion accion-1" role="img" aria-label="Una acción" title="Una acción"></span>
+{%- elsif t == "2" or t == "dos" -%}
+<span class="accion accion-2" role="img" aria-label="Dos acciones" title="Dos acciones"></span>
+{%- elsif t == "3" or t == "tres" -%}
+<span class="accion accion-3" role="img" aria-label="Tres acciones" title="Tres acciones"></span>
+{%- elsif t == "libre" or t == "gratis" or t == "free" or t == "0" -%}
+<span class="accion accion-libre" role="img" aria-label="Acción libre" title="Acción libre"></span>
+{%- elsif t == "reaccion" or t == "reaction" or t == "r" -%}
+<span class="accion accion-reaccion" role="img" aria-label="Reacción" title="Reacción"></span>
+{%- else -%}
+<span class="accion">{{ include.tipo }}</span>
+{%- endif -%}

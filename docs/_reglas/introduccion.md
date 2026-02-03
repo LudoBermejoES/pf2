@@ -97,7 +97,7 @@ El modo de **tiempo libre** tiene lugar a lo largo de días. Entre otras cosas p
 
 ## Acciones
 
-Durante un encuentro, obtienes 3 acciones y 1 reacción por turno. Los iconos indican si tus aptitudes requieren una acción individual ◆, 2 acciones ◆◆, 3 acciones ◆◆◆, una reacción ↺, o una acción gratuita ◇. Las reacciones tienen desencadenantes, lo que te permite utilizarlas cuando se presenta la ocasión. La acción básica Preparar te permite prepararte para usar una acción individual como una reacción. Las acciones gratuitas pueden tener desencadenantes como las reacciones; una acción gratuita sin desencadenante se puede utilizar como una acción individual, pero no cuesta ninguna de tus acciones del turno.
+Durante un encuentro, obtienes 3 acciones y 1 reacción por turno. Los iconos indican si tus aptitudes requieren una acción individual {% include accion.html tipo="1" %}, 2 acciones {% include accion.html tipo="2" %}, 3 acciones {% include accion.html tipo="3" %}, una reacción ↺, o una acción gratuita {% include accion.html tipo="libre" %}. Las reacciones tienen desencadenantes, lo que te permite utilizarlas cuando se presenta la ocasión. La acción básica Preparar te permite prepararte para usar una acción individual como una reacción. Las acciones gratuitas pueden tener desencadenantes como las reacciones; una acción gratuita sin desencadenante se puede utilizar como una acción individual, pero no cuesta ninguna de tus acciones del turno.
 
 Las acciones más importantes que aprender son las **acciones básicas**. Las acciones básicas de especialidad aparecen con menos frecuencia y lo típico es que no las tengas que consultar hasta que lo necesites. **Hablar** no suele contar como una acción.
 

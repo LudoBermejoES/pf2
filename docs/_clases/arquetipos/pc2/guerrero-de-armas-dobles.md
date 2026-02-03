@@ -29,7 +29,7 @@ Eres excepcional en el uso de dos armas. Obtienes la dote de guerrero Tajo doble
 
 Sabes lanzar dos armas con la misma facilidad que golpear con ellas. Siempre que una dote que obtuviste del arquetipo guerrero de armas dobles te permita hacer un Golpe de melé, puedes en su lugar hacer un Golpe a distancia con un arma arrojadiza o un arma a distancia de una mano que estés empuñando (las armas que necesitan «1+» manos, como los arcos largos, no califican). Cualquier efecto de estas dotes que se aplique a armas de melé de una mano o a Golpes de melé también se aplica a armas a distancia de una mano y Golpes a distancia.
 
-### Recarga dual · ◆ · Dote 4
+### Recarga dual · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo
 
@@ -37,7 +37,7 @@ Sabes lanzar dos armas con la misma facilidad que golpear con ellas. Siempre que
 
 Llevas tu munición de manera que te permite recargar mientras sostienes dos armas. Mientras empuñas dos armas de una mano, cada una en una mano diferente, no necesitas una mano libre para recargar un arma a distancia de una mano que estés empuñando.
 
-### Corte desollante · ◆ · Dote 8
+### Corte desollante · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Arquetipo
 
@@ -47,7 +47,7 @@ Llevas tu munición de manera que te permite recargar mientras sostienes dos arm
 
 Cuando golpeas con ambos ataques de Tajo doble, desuellas al objetivo, provocándole sangrado y creando un punto débil. El objetivo recibe 1d8 de daño persistente por desangrado por cada dado de daño de arma de cualquiera de las armas usadas que tenga más dados de daño de arma (máximo 4d8 para un arma de golpe mayor). Además, hasta el inicio de tu siguiente turno, el objetivo queda desprevenido y sus resistencias a cualquier tipo de daño físico se reducen en 5.
 
-### Blitz de armas dobles · ◆◆ · Dote 10
+### Blitz de armas dobles · {% include accion.html tipo="2" %} · Dote 10
 
 **Rasgos:** Arquetipo
 

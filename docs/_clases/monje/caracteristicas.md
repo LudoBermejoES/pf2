@@ -38,7 +38,7 @@ class_name: Monje
 
 ## Características de clase
 
-### Ráfaga de golpes · ◆
+### Ráfaga de golpes · {% include accion.html tipo="1" %}
 
 **Rasgos:** Florecer, Monje
 
@@ -74,7 +74,7 @@ Algunas posturas de monje te permiten realizar ataques desarmados especiales mie
 
 ## Posturas clave (dotes de nivel 1)
 
-### Postura de grulla · ◆
+### Postura de grulla · {% include accion.html tipo="1" %}
 
 **Rasgos:** Monje, Postura
 
@@ -84,7 +84,7 @@ Tus brazos aletean como las alas de una grulla. Obtienes una bonificación circu
 
 Mientras estés en Postura de grulla, reduce en 5 la CD de Salto alto y Salto largo, y cuando Saltas, puedes desplazarte 1,5 m adicionales en horizontal o 0,6 m en vertical.
 
-### Postura de dragón · ◆
+### Postura de dragón · {% include accion.html tipo="1" %}
 
 **Rasgos:** Monje, Postura
 
@@ -94,7 +94,7 @@ Adoptas la postura de un dragón y realizas poderosos golpes de pierna como la c
 
 Mientras estés en Postura de dragón, puedes ignorar el primer cuadro de terreno difícil al Avanzar.
 
-### Postura de montaña · ◆
+### Postura de montaña · {% include accion.html tipo="1" %}
 
 **Rasgos:** Monje, Postura
 
@@ -104,7 +104,7 @@ Adoptas la postura de una montaña implacable. Los únicos Golpes que puedes rea
 
 Mientras estés en Postura de montaña, obtienes una bonificación de objeto +4 a CA y una bonificación circunstancial +2 a cualquier defensa contra Reposicionar, Empujar, Derribar y otros efectos de movimiento forzado. Tienes un tope al modificador de Destreza para tu CA de +0, y todas tus Velocidades se reducen en 1,5 m.
 
-### Postura de tigre · ◆
+### Postura de tigre · {% include accion.html tipo="1" %}
 
 **Rasgos:** Monje, Postura
 
@@ -114,7 +114,7 @@ Adoptas la postura de un tigre y puedes realizar ataques de garra de tigre. Esto
 
 Mientras tu Velocidad sea de al menos 6 m en Postura de tigre, puedes Dar un paso 3 m.
 
-### Postura de lobo · ◆
+### Postura de lobo · {% include accion.html tipo="1" %}
 
 **Rasgos:** Monje, Postura
 
@@ -124,7 +124,7 @@ Adoptas la postura de un lobo, bajo y con las manos como colmillos. Puedes reali
 
 Si flanqueas a un objetivo mientras estás en Postura de lobo, tus ataques desarmados de mandíbula de lobo también ganan el rasgo trip.
 
-### Postura tambaleante · ◆
+### Postura tambaleante · {% include accion.html tipo="1" %}
 
 **Rasgos:** Monje, Postura
 
@@ -134,7 +134,7 @@ Adoptas una postura aparentemente desenfocada que imita los movimientos de un eb
 
 Si un enemigo te golpea con un Golpe cuerpo a cuerpo mientras estás en esta postura, queda desprevenido contra el siguiente Golpe de golpe tambaleante que le hagas antes del final de tu siguiente turno.
 
-### Postura de arquero monástico · ◆
+### Postura de arquero monástico · {% include accion.html tipo="1" %}
 
 **Rasgos:** Monje, Postura
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Muro de Viento ◆◆◆ [CONJURO 3]
+## Muro de Viento {% include accion.html tipo="3" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m)

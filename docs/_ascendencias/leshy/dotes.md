@@ -62,7 +62,7 @@ Es difícil percibir tu paso por las areas salvajes.
 
 ---
 
-### Supersticion leshy ◆
+### Supersticion leshy {% include accion.html tipo="1" %}
 **Dote 1** - Leshy
 
 **Desencadenante:** Haces una tirada de salvación contra un conjuro o un efecto magico, pero aun no has tirado los dados.
@@ -95,7 +95,7 @@ Tienes una conexión con las criaturas que comparten tu fisiologia.
 
 ---
 
-### Leshy planeador ◆
+### Leshy planeador {% include accion.html tipo="1" %}
 **Dote 5** - Leshy
 
 **Prerrequisitos:** Herencia leshy de las hojas o dote de habilidad Caída de gato
@@ -113,14 +113,14 @@ Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 
 **Beneficio:** Obtienes la dote de habilidad Equilibrio firme, incluso si no dispones del rango entrenado en Acrobacias, y puedes utilizar la acción Anclar.
 
-#### Anclar ◆
+#### Anclar {% include accion.html tipo="1" %}
 **Requisitos:** Estas sobre una superficie solida.
 
 **Efecto:** Clavas tus raices en el terreno o cruzas el mismo con ellas, por lo que sera mas difícil que tropieces. Hasta que te muevas, obtendrás un bonificador +2 por circunstancia a tu CD de Fortaleza o de Reflejos contra los intentos de Reposicionarte, Empujarte o Derribarte (o un bonificador +4 por circunstancia si eres un leshy de las raices). Este bonificador tambien se aplica a las tiradas de salvación contra conjuros o efectos que intentan moverte o tumbarte. Si un efecto te obliga a moverte, solo te mueves la mitad de la distancia normal, puesto que parte del esfuerzo se tiene que dedicar a arrancar las raices.
 
 ---
 
-### Reversion ritual ◆◆
+### Reversion ritual {% include accion.html tipo="2" %}
 **Dote 5** - Leshy, Polimorfia, Primigenio
 
 Puedes revertir temporalmente a una forma menos visible sin disminuir tus sentidos.
@@ -173,7 +173,7 @@ Cuando tus tegumentos asestan un golpe derribador, explotan en zarcillos cruelme
 
 ## Nivel 13
 
-### Capa de veneno ◆◆
+### Capa de veneno {% include accion.html tipo="2" %}
 **Dote 13** - Leshy, Veneno
 
 **Frecuencia:** Una vez al dia

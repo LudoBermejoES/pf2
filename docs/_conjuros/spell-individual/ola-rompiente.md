@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
-## Ola rompiente ◆◆ [3]
+## Ola rompiente {% include accion.html tipo="2" %} [3]
 
 **Tradiciones:** arcana, primigenia
 **Área:** cono de 30 pies (9 m)

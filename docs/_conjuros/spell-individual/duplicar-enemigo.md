@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Duplicar Enemigo ◆◆◆ [CONJURO 7]
+## Duplicar Enemigo {% include accion.html tipo="3" %} [CONJURO 7]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 enemigo de nivel 15 o inferior

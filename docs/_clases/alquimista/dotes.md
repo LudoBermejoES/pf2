@@ -49,7 +49,7 @@ Has aprendido a lanzar a mayor distancia. Cuando lanzas una bomba alquimica, tie
 
 ---
 
-### Bombardero Rapido · ◆ · Dote 1
+### Bombardero Rapido · {% include accion.html tipo="1" %} · Dote 1
 
 **Rasgos:** Alquimista
 
@@ -77,7 +77,7 @@ Tus brebajes restauradores tienen un efecto coagulante en la sangre del bebedor.
 
 ---
 
-### Improvisar Mezcla · ◆ · Dote 2
+### Improvisar Mezcla · {% include accion.html tipo="1" %} · Dote 2
 
 **Rasgos:** Alquimista, Concentracion, Manipular
 
@@ -105,7 +105,7 @@ Puedes anadir un aditivo toxico a un veneno alquimico para hacer que salpique ve
 
 ---
 
-### Mutageno Revivificante · ◆ · Dote 2
+### Mutageno Revivificante · {% include accion.html tipo="1" %} · Dote 2
 
 **Rasgos:** Alquimista, Concentracion
 
@@ -165,7 +165,7 @@ Puedes mezclar un ungueento aromatico en un elixir con el rasgo curativo para al
 
 ---
 
-### Regurgitar Mutageno · ◆ · Dote 4
+### Regurgitar Mutageno · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Alquimista, Manipular
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
-## Presencia Abrumadora ◆◆ [CONJURO 9]
+## Presencia Abrumadora {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** divina, ocultista
 **Área:** explosión de 40 pies (12 m); **Objetivos:** cualquier número de criaturas; **Defensa:** Voluntad; **Duración:** hasta que se rinde el tributo por completo

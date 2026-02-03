@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
-## Pozo gravitacional ◆◆ [3]
+## Pozo gravitacional {% include accion.html tipo="2" %} [3]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 120 pies (36 m); **Área:** explosión de 30 pies (9 m)

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
-## Infestación fúngica ◆◆ [2]
+## Infestación fúngica {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** primigenia
 **Rango:** toque; **Área:** cono de 15 pies (4,5 m)

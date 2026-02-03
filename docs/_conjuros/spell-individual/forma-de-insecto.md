@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Forma de Insecto ◆◆ [CONJURO 3]
+## Forma de Insecto {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto
@@ -30,17 +30,17 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 
 Obtienes aptitudes especificas basadas en la forma elegida:
 
-**Arana** Velocidad 25 pies (7,5 m), trepar 25 pies (7,5 m); Cuerpo a cuerpo ◆ colmillos, Dano 1d6 perforante mas 1d4 persistente veneno; A distancia ◆ telarana (incremento de rango de distancia 20 pies [6 m]), Dano enmarana al objetivo durante 1 asalto.
+**Arana** Velocidad 25 pies (7,5 m), trepar 25 pies (7,5 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} colmillos, Dano 1d6 perforante mas 1d4 persistente veneno; A distancia {% include accion.html tipo="1" %} telarana (incremento de rango de distancia 20 pies [6 m]), Dano enmarana al objetivo durante 1 asalto.
 
-**Ciempies** Velocidad 25 pies (7,5 m), trepar 25 pies (7,5 m); vision en la oscuridad; Cuerpo a cuerpo ◆ mandibulas, Dano 1d8 perforante mas 1d4 persistente veneno.
+**Ciempies** Velocidad 25 pies (7,5 m), trepar 25 pies (7,5 m); vision en la oscuridad; Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 1d8 perforante mas 1d4 persistente veneno.
 
-**Escarabajo** Velocidad 25 pies (7,5 m); Cuerpo a cuerpo ◆ mandibulas, Dano 2d10 contundente.
+**Escarabajo** Velocidad 25 pies (7,5 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d10 contundente.
 
-**Escorpion** Velocidad 40 pies (12 m), vision en la oscuridad, sentido de la vibración impreciso 60 pies (18 m); Cuerpo a cuerpo ◆ aguijon, Dano 1d8 perforante mas 1d4 persistente veneno; Cuerpo a cuerpo ◆ pinza (agil), Dano 1d6 contundente.
+**Escorpion** Velocidad 40 pies (12 m), vision en la oscuridad, sentido de la vibración impreciso 60 pies (18 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} aguijon, Dano 1d8 perforante mas 1d4 persistente veneno; Cuerpo a cuerpo {% include accion.html tipo="1" %} pinza (agil), Dano 1d6 contundente.
 
-**Hormiga** Velocidad 30 pies (9 m), trepar 30 pies (9 m); Cuerpo a cuerpo ◆ mandibulas, Dano 2d6 contundente.
+**Hormiga** Velocidad 30 pies (9 m), trepar 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d6 contundente.
 
-**Mantis** Velocidad 40 pies (12 m); olfato impreciso 30 pies (9 m); Cuerpo a cuerpo ◆ pata delantera, Dano 2d8 perforante.
+**Mantis** Velocidad 40 pies (12 m); olfato impreciso 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} pata delantera, Dano 2d8 perforante.
 
 **Potenciado (4.o)** Tu forma de batalla es Grande y tus ataques tienen un alcance de 10 pies (3 m). En lugar de lo indicado obtienes 15 PG temporales, modificador al ataque +16, bonificador al dano +6 y Atletismo +16.
 

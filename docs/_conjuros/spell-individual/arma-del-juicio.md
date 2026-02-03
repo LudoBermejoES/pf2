@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC2
 ---
-## Arma del juicio ◆◆ [9]
+## Arma del juicio {% include accion.html tipo="2" %} [9]
 
 **Tradiciones:** divina
 **Requisitos:** Tienes una deidad.

@@ -19,7 +19,7 @@ source: PC2
 
 Esta legendaria espada brilla con luz dorada y fue forjada para un héroe destinado a grandes hazañas.
 
-**Activar** ◆ Mando (frecuencia variable)
+**Activar** {% include accion.html tipo="1" %} Mando (frecuencia variable)
 
 **Efecto** La espada tiene los siguientes poderes:
 - **Siempre activo:** +2 de daño contra criaturas malignas.

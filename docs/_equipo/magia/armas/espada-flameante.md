@@ -19,7 +19,7 @@ source: PC2
 
 Esta espada tiene runas de fuego grabadas en la hoja que brillan con un resplandor anaranjado.
 
-**Activar** ◆ Mando
+**Activar** {% include accion.html tipo="1" %} Mando
 
 **Efecto** Puedes activar la espada para envolverla en llamas. Durante 1 minuto, la espada inflige 1d6 de daño de fuego adicional con cada Golpe.
 

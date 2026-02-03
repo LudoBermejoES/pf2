@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Mal Fario ◆◆ [CONJURO 1]
+## Mal Fario {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

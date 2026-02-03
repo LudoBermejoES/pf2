@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
-## Crecimientos macabros ◆◆ [5]
+## Crecimientos macabros {% include accion.html tipo="2" %} [5]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 60 pies (18 m); **Objetivos:** 1 criatura corpórea

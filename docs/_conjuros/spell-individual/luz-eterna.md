@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Luz Eterna ◆◆◆ [CONJURO 2]
+## Luz Eterna {% include accion.html tipo="3" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** una piedra preciosa por valor de 6 po o mas

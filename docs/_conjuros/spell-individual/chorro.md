@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
-## Chorro ◆◆ [TRUCO 1]
+## Chorro {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 30 pies (9 m); **Área:** un cubo de 5 pies (1,5 m)

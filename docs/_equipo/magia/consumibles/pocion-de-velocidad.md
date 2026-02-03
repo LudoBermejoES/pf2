@@ -19,7 +19,7 @@ source: PC2
 
 Esta poción amarilla efervescente te acelera tremendamente.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Ganas el estado acelerado durante 1 minuto. Mientras estás acelerado, puedes usar la acción adicional para Caminar, Dar un Paso o Golpear.
 

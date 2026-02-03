@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Cambiar de Sitio ◆◆ [CONJURO 4]
+## Cambiar de Sitio {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m)

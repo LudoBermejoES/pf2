@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Detectar Escudriñamiento ◆◆ [CONJURO 4]
+## Detectar Escudriñamiento {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista
 **Area:** emanacion de 30 pies (9 m)

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
-## Soplo de veneno ◆◆ [TRUCO 1]
+## Soplo de veneno {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 10 pies (3 m); **Objetivos:** 1 criatura

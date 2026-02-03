@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
-## Forma de Peste ◆◆ [CONJURO 8]
+## Forma de Peste {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 10 minutos

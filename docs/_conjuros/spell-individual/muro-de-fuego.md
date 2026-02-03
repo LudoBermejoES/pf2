@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Muro de Fuego ◆◆◆ [CONJURO 4]
+## Muro de Fuego {% include accion.html tipo="3" %} [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m)

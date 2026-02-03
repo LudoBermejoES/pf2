@@ -99,7 +99,7 @@ Has pasado más tiempo del que te corresponde en un laboratorio de alquimia. Has
 
 ---
 
-### Guardar rápido · Dote 5 · ◇
+### Guardar rápido · Dote 5 · {% include accion.html tipo="libre" %}
 
 **Rasgos:** Ysoki
 
@@ -119,7 +119,7 @@ Siempre parece haber una pequeña rata cerca para llevar tus mensajes. Puedes la
 
 ---
 
-### Rodar ysoki · Dote 5 · ◆◆
+### Rodar ysoki · Dote 5 · {% include accion.html tipo="2" %}
 
 **Rasgos:** Movimiento, Ysoki
 
@@ -147,7 +147,7 @@ Mientras seas Pequeño, puedes terminar tu movimiento en la misma casilla que un
 
 ---
 
-### Forma de rata · Dote 9 · ◆
+### Forma de rata · Dote 9 · {% include accion.html tipo="1" %}
 
 **Rasgos:** Concentrar, Polimorfo, Primitivo, Ysoki
 
@@ -193,7 +193,7 @@ Has aprendido a poner a trabajar tus robustas garras para excavar la tierra. Obt
 
 ## 17.º nivel
 
-### Llamar al enjambre · Dote 17 · ◆◆◆
+### Llamar al enjambre · Dote 17 · {% include accion.html tipo="3" %}
 
 **Rasgos:** Ysoki
 

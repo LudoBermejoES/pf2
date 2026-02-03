@@ -27,7 +27,7 @@ Cuando aumentas tu rango de competencia en Artesanía a experto, maestro o legen
 
 **Especial:** Los exploradores pueden adaptar técnicas de creación de lazos para crear lazos con materiales naturales. Si eres explorador, puedes usar Supervivencia en lugar de Artesanía para todos los prerrequisitos y funciones de las dotes de este arquetipo (incluye usar Supervivencia para Elaborar un lazo).
 
-### Lazo sorpresa · ◆◆◆ · Dote 4
+### Lazo sorpresa · {% include accion.html tipo="3" %} · Dote 4
 
 **Rasgos:** Arquetipo, Manipular
 

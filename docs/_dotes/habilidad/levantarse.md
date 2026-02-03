@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/habilidad/levantarse/
-title: Levantarse ◆
+title: Levantarse {% include accion.html tipo="1" %}
 chapter: Dotes
 category: dotes
 habilidad: Acrobacias

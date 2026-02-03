@@ -29,7 +29,7 @@ Has forjado un vínculo místico con una criatura. Esto podría haber implicado 
 
 Al seleccionar habilidades de amo, puedes elegir a un aliado para que se beneficie de cualquier habilidad específica de amo. Cada habilidad de amo solo puede beneficiar a un único personaje, y solo puedes seleccionar una habilidad específica de amo una vez, a menos que la habilidad diga lo contrario.
 
-### Canalizador familiar · ◆ · Dote 4
+### Canalizador familiar · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo, Concentrar, Dar forma al conjuro
 

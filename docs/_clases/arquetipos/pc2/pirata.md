@@ -23,7 +23,7 @@ Vives una vida de libertad, tomando por la fuerza y la intimidación todo lo que
 
 Como pirata, surcas los mares en busca de barcos enemigos que saquear y grandes aventuras en las que embarcarte. Obtienes la dote general Saber adicional para Saber de navegación o para una ciudad costera concreta con la que tengas conexión (como Saber Puerto Peligro). Ignoras los efectos de terreno difícil o suelo irregular causado por suelo inestable (como la cubierta de un barco). Además, obtienes la acción Asalto de abordaje.
 
-**Asalto de abordaje · ◆◆** (florecimiento) Avanza dos veces o intenta una prueba de Acrobacias (CD determinada por el DJ, pero normalmente CD 20) para balancearte hasta el doble de tu Velocidad en una cuerda u objeto similar, luego Golpea. Si abordaste o desembarcaste de un barco o vehículo similar durante este movimiento, el Golpe inflige un dado de daño de arma adicional.
+**Asalto de abordaje · {% include accion.html tipo="2" %}** (florecimiento) Avanza dos veces o intenta una prueba de Acrobacias (CD determinada por el DJ, pero normalmente CD 20) para balancearte hasta el doble de tu Velocidad en una cuerda u objeto similar, luego Golpea. Si abordaste o desembarcaste de un barco o vehículo similar durante este movimiento, el Golpe inflige un dado de daño de arma adicional.
 
 ### Entrenamiento de combate pirata · Dote 4
 
@@ -43,7 +43,7 @@ En el 5.º nivel, siempre que obtienes un impacto crítico con una de estas arma
 
 Corres y trepas por cuerdas y jarcias casi tan fácilmente como por el suelo. Obtienes una Velocidad de trepar de 4,5 m, pero solo al trepar por cuerdas y objetos similares. Siempre que tengas éxito en una prueba de Atletismo para Trepar o en una prueba de Acrobacias para Mantener el equilibrio, obtienes un éxito crítico en su lugar. No quedas desprevenido mientras Trepas o Mantienes el equilibrio en una cuerda u objeto similar.
 
-### Caminar por la tabla · ◆◆ · Dote 8
+### Caminar por la tabla · {% include accion.html tipo="2" %} · Dote 8
 
 **Rasgos:** Arquetipo
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Carga Telecinetica ◆◆ [CONJURO 5]
+## Carga Telecinetica {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 objeto desatendido de hasta Impedimenta 80 sin ninguna dimension superior a 20 pies (6 m)

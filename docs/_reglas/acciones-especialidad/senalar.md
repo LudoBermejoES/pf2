@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Senalar ◆
+## Senalar {% include accion.html tipo="1" %}
 
 **Rasgos:** Auditivo, Manipular, Visual
 

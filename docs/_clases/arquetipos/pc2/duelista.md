@@ -23,7 +23,7 @@ Por todo el mundo, los estudiantes en academias de esgrima practican con sus arm
 
 Siempre estás listo para desenvainar tu arma y comenzar un duelo, sin importar las circunstancias. Obtienes la dote Desenvaine rápido, que te permite tanto desenvainar como atacar con un arma como 1 acción.
 
-### Desafío del duelista · ◆ · Dote 4
+### Desafío del duelista · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo
 

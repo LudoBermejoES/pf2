@@ -25,7 +25,7 @@ Has combinado tus habilidades sociales y tu entrenamiento de combate para conver
 
 Además, mientras estás consciente, te rodea un aura de mariscal en una emanación de 4,5 m. Tu aura tiene los rasgos emoción, mental y visual y otorga a ti y a los aliados en el aura un bonificador de estado +1 a las tiradas de salvación contra miedo.
 
-### Postura de mariscal temible · ◆ · Dote 4
+### Postura de mariscal temible · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo, Postura
 
@@ -39,7 +39,7 @@ Con un semblante sombrío para la batalla que se avecina, animas a tus aliados a
 
 **Fallo crítico:** No entras en la postura y no puedes realizar esta acción de nuevo durante 1 minuto.
 
-### Postura de mariscal inspirador · ◆ · Dote 4
+### Postura de mariscal inspirador · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo, Postura
 
@@ -53,7 +53,7 @@ Te conviertes en un brillante ejemplo de dedicación y aplomo en batalla, animan
 
 **Fallo crítico:** No entras en la postura y no puedes realizar esta acción de nuevo durante 1 minuto.
 
-### ¡Espabila! · ◆ · Dote 4
+### ¡Espabila! · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo, Auditivo, Emoción, Mental
 
@@ -61,7 +61,7 @@ Te conviertes en un brillante ejemplo de dedicación y aplomo en batalla, animan
 
 Das un grito rápido, esperando disipar la niebla que nubla los pensamientos de tu aliado. Elige a un aliado objetivo en tu aura de mariscal que esté afectado por un efecto mental que permitió una salvación de Voluntad y tenga una duración no superior a 1 minuto. Ese aliado puede intentar inmediatamente una salvación de Voluntad con un bonificador circunstancial +1 contra la CD del efecto, terminándolo en caso de éxito. Esto no puede terminar el efecto para criaturas distintas del aliado objetivo. Independientemente del resultado, tu aliado es temporalmente inmune a ¡Espabila! durante 10 minutos.
 
-### ¡Fortalécete! · ◆ · Dote 4
+### ¡Fortalécete! · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo, Auditivo, Emoción, Mental
 
@@ -69,7 +69,7 @@ Das un grito rápido, esperando disipar la niebla que nubla los pensamientos de 
 
 Animas a un aliado a endurecerse, dándole una oportunidad en la lucha. Elige a un aliado en tu aura de mariscal. El aliado obtiene Puntos de Golpe temporales iguales a tu modificador de Carisma y un bonificador circunstancial +2 a las salvaciones de Fortaleza. Ambos beneficios duran hasta el inicio de tu siguiente turno.
 
-### Llamada de cadencia · ◆ · Dote 6
+### Llamada de cadencia · {% include accion.html tipo="1" %} · Dote 6
 
 **Rasgos:** Arquetipo, Auditivo, Florecimiento
 
@@ -79,7 +79,7 @@ Animas a un aliado a endurecerse, dándole una oportunidad en la lucha. Elige a 
 
 Lanzas una rápida cadencia, guiando a tus aliados hacia un ritmo más eficiente. Cada aliado dispuesto en tu aura de mariscal queda acelerado hasta el final de su siguiente turno, y puede usar la acción adicional solo para Avanzar. Si un aliado usa esta acción adicional, al final de su turno ese aliado queda ralentizado 1 hasta el final de su turno siguiente.
 
-### Carga alentadora · ◆◆ · Dote 6
+### Carga alentadora · {% include accion.html tipo="2" %} · Dote 6
 
 **Rasgos:** Arquetipo, Visual
 
@@ -95,7 +95,7 @@ Tu carga intrépida en batalla reaviva a tus aliados para continuar la lucha. Av
 
 Destacas vigilando la espalda de tus aliados y ayudándoles a vigilar la tuya. Cualquier aliado adyacente a ti no puede quedar desprevenido por flanqueo a menos que tú también estés flanqueado. Asimismo, mientras estés adyacente a al menos un aliado, no puedes quedar desprevenido por flanqueo a menos que al menos uno de tus aliados adyacentes esté flanqueado también.
 
-### ¡A la batalla! · ◆ o ◆◆ · Dote 8
+### ¡A la batalla! · {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %} · Dote 8
 
 **Rasgos:** Arquetipo, Auditivo, Florecimiento
 
@@ -103,7 +103,7 @@ Destacas vigilando la espalda de tus aliados y ayudándoles a vigilar la tuya. C
 
 Con un grito resonante, animas a tu aliado a pasar a la ofensiva. Elige a un aliado en tu aura de mariscal que tenga una reacción disponible. Si gastas 1 acción, ese aliado puede usar su reacción para Avanzar de inmediato. Si gastas 2 acciones, ese aliado puede usar su reacción para Golpear de inmediato.
 
-### Derribar enemigo · ◇ · Dote 10
+### Derribar enemigo · {% include accion.html tipo="libre" %} · Dote 10
 
 **Rasgos:** Arquetipo
 
@@ -113,7 +113,7 @@ Con un grito resonante, animas a tu aliado a pasar a la ofensiva. Elige a un ali
 
 Aprovechas la abertura creada por tu aliado para hacer caer a tu enemigo. Intenta una prueba de Atletismo para Derribar al objetivo del ataque desencadenante.
 
-### Carga coordinada · ◆◆ · Dote 12
+### Carga coordinada · {% include accion.html tipo="2" %} · Dote 12
 
 **Rasgos:** Arquetipo, Florecimiento, Visual
 
@@ -129,7 +129,7 @@ Te lanzas heroicamente a la refriega, inspirando a tus aliados a seguirte. Avanz
 
 Tu notable control de la respiración e instrucciones concisas te permiten coordinar a tus aliados más eficazmente, incluso en situaciones desesperadas. Cuando otorgas la condición acelerado con Llamada de cadencia, pueden usar la acción adicional para Avanzar o Golpear, y no quedan ralentizados 1 en su turno siguiente si usan la acción adicional.
 
-### Blanco de oportunidad · ◇ · Dote 14
+### Blanco de oportunidad · {% include accion.html tipo="libre" %} · Dote 14
 
 **Rasgos:** Arquetipo, Manipular
 

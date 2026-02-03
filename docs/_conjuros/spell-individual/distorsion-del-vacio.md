@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Distorsion del Vacío ◆◆ [TRUCO 1]
+## Distorsion del Vacío {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura viva

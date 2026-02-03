@@ -83,7 +83,7 @@ Durante tus preparativos diarios, puedes crear un aceite o poción temporal util
 
 ---
 
-### Conjuro de alcance ◆ | Dote 1
+### Conjuro de alcance {% include accion.html tipo="1" %} | Dote 1
 
 **Rasgos:** Brujo, Concentrar, Moldeo de conjuros
 
@@ -103,7 +103,7 @@ Cuando un enemigo Lanza un conjuro y puedes ver sus manifestaciones, puedes util
 
 ---
 
-### Extender conjuro ◆ | Dote 1
+### Extender conjuro {% include accion.html tipo="1" %} | Dote 1
 
 **Rasgos:** Brujo, Manipular, Moldeo de conjuros
 
@@ -161,7 +161,7 @@ Tu patrón te concede una lección especial, revelando una faceta escondida de s
 
 ---
 
-### Ocultar conjuro ◆ | Dote 2
+### Ocultar conjuro {% include accion.html tipo="1" %} | Dote 2
 
 **Rasgos:** Brujo, Concentrar, Moldeo de conjuros
 
@@ -171,7 +171,7 @@ A través de puro esfuerzo mental, puedes simplificar los encantamientos y gesto
 
 ## Dotes de 4.º nivel
 
-### Golpe simpático ◆ | Dote 4
+### Golpe simpático {% include accion.html tipo="1" %} | Dote 4
 
 **Rasgos:** Brujo
 
@@ -251,7 +251,7 @@ Toda poción que creas de esta forma pierde su poder la siguiente vez que llevas
 
 Tu familiar puede subsumir su cuerpo y convertirse en un espíritu puro. Obtiene la actividad mudar espíritu.
 
-**Mudar espíritu ◆◆** (espíritu)
+**Mudar espíritu {% include accion.html tipo="2" %}** (espíritu)
 
 **Frecuencia:** una vez cada 10 minutos
 
@@ -267,7 +267,7 @@ Tu familiar puede subsumir su cuerpo y convertirse en un espíritu puro. Obtiene
 
 Tu familiar puede abandonar su forma material, convirtiéndose en una masa de magia animada. Tu familiar obtiene la actividad golpe hilvanado.
 
-**Golpe hilvanado ◆◆**
+**Golpe hilvanado {% include accion.html tipo="2" %}**
 
 **Frecuencia:** una vez cada 10 minutos
 
@@ -317,7 +317,7 @@ Por cada aceite o poción temporal que elaboras durante tus preparativos diarios
 
 ---
 
-### Lanzamiento apresurado ◇ | Dote 10
+### Lanzamiento apresurado {% include accion.html tipo="libre" %} | Dote 10
 
 **Rasgos:** Brujo, Concentrar, Moldeo de conjuros
 
@@ -378,7 +378,7 @@ Las enseñanzas de tu patrón te han permitido conseguir un foco más profundo. 
 
 Tu patrón puede dirigir su atención a través de tu familiar, y su mera presencia se convierte en un peso ominoso sobre la mente de otros seres para distraerles y anular su magia. Tu familiar obtiene la siguiente actividad.
 
-**Presencia del patrón ◆◆** (aura)
+**Presencia del patrón {% include accion.html tipo="2" %}** (aura)
 
 **Frecuencia:** una vez por hora
 
@@ -406,7 +406,7 @@ Puedes adaptar el poder de tu patrón para transformar a otras criaturas en form
 
 ## Dotes de 16.º nivel
 
-### Concentración sin esfuerzo ◇ | Dote 16
+### Concentración sin esfuerzo {% include accion.html tipo="libre" %} | Dote 16
 
 **Rasgos:** Brujo
 
@@ -416,7 +416,7 @@ Mantienes tus conjuros activos casi sin pensarlo. Obtienes de inmediato los efec
 
 ---
 
-### Succionar poder ◇ | Dote 16
+### Succionar poder {% include accion.html tipo="libre" %} | Dote 16
 
 **Rasgos:** Brujo
 
@@ -432,7 +432,7 @@ Recurres a la reserva de magia de tu patrón que reside en tu familiar. Durante 
 
 ## Dotes de 18.º nivel
 
-### Dividir maleficio ◆ | Dote 18
+### Dividir maleficio {% include accion.html tipo="1" %} | Dote 18
 
 **Rasgos:** Brujo, Concentrar, Moldeo de conjuros
 
@@ -446,7 +446,7 @@ Derivas parte del poder de un maleficio ofensivo que estás lanzando para dirigi
 
 Tu patrón se manifiesta parcialmente a través de tu familiar reclamando para sí el poder de un enemigo. Tu familiar obtiene la siguiente actividad.
 
-**Reclamación del patrón ◆◆**
+**Reclamación del patrón {% include accion.html tipo="2" %}**
 
 **Frecuencia:** una vez por hora
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC2
 ---
-## Exigencia telepática ◆◆◆ [9]
+## Exigencia telepática {% include accion.html tipo="3" %} [9]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango:** planetario; **Objetivos:** 1 criatura con la que te hayas comunicado telepáticamente antes

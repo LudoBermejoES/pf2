@@ -19,7 +19,7 @@ source: PC2
 
 Esta armadura de mithral reluciente parece estar hecha de luz solidificada y tiene grabados de alas angelicales.
 
-**Activar** ◆◆ Mando (1/día)
+**Activar** {% include accion.html tipo="2" %} Mando (1/día)
 
 **Efecto** Puedes activar la armadura para que te crezcan alas de luz. Ganas una Velocidad de vuelo de 30 pies (9 m) durante 10 minutos.
 

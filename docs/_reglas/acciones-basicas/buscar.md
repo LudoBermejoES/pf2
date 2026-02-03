@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Buscar ◆
+## Buscar {% include accion.html tipo="1" %}
 
 **CONCENTRAR** **SECRETO**
 

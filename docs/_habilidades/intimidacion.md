@@ -12,7 +12,7 @@ Doblegas a la tuya la voluntad de otros utilizando amenazas. A diferencia del En
 
 ---
 
-## Desmoralizar ◆
+## Desmoralizar {% include accion.html tipo="1" %}
 
 **Rasgos:** Auditivo, Concentrar, Emoción, Mental, Miedo
 

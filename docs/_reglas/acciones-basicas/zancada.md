@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Zancada ◆
+## Zancada {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**
 

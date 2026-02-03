@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Oscuridad Congeladora ◆◆ [CONJURO 3]
+## Oscuridad Congeladora {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

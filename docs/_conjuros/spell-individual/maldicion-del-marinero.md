@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Maldición del Marinero ◆◆ [CONJURO 5]
+## Maldición del Marinero {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

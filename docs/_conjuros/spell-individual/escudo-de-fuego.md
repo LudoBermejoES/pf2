@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Escudo de Fuego ◆◆ [CONJURO 4]
+## Escudo de Fuego {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto

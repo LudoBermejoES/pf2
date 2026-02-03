@@ -19,7 +19,7 @@ source: PC2
 
 Esta capa de lana gruesa está tejida con hilos mágicos protectores.
 
-**Activar** ◇ Imaginar
+**Activar** {% include accion.html tipo="libre" %} Imaginar
 
 **Efecto** Cuando sufres daño de energía (ácido, frío, electricidad, fuego o sónico), puedes activar la capa como acción gratuita para ganar resistencia 5 a ese tipo de daño hasta el final del turno. Puedes usar esta habilidad una vez cada 10 minutos.
 

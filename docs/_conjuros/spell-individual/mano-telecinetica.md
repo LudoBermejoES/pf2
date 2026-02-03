@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Mano Telecinetica ◆◆ [TRUCO 1]
+## Mano Telecinetica {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 objeto desatendido de Impedimenta ligera o menor

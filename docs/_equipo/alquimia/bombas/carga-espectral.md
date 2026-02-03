@@ -11,7 +11,7 @@ source: PC2
 
 **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activar** ◆ Golpe
+**Activar** {% include accion.html tipo="1" %} Golpe
 
 ---
 

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Hipnotizar ◆◆ [CONJURO 3]
+## Hipnotizar {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m); **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
-## Indestructibilidad ◆◆ [CONJURO 10]
+## Indestructibilidad {% include accion.html tipo="2" %} [CONJURO 10]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** hasta el inicio de tu siguiente turno

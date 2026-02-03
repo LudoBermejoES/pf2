@@ -25,7 +25,7 @@ La gracia de tu dios no se extiende a tus enemigos jurados. Cuando lanzas un con
 
 ---
 
-### Conjuro de Alcance ◆ - Dote 1
+### Conjuro de Alcance {% include accion.html tipo="1" %} - Dote 1
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -168,7 +168,7 @@ Trabajas rapido en caso de emergencia. Das una Zancada hacia el aliado desencade
 
 ## Dotes de Nivel 4
 
-### Alzar Simbolo ◆ - Dote 4
+### Alzar Simbolo {% include accion.html tipo="1" %} - Dote 4
 
 **Rasgos:** Clérigo
 
@@ -188,7 +188,7 @@ Puedes moldear en una sola dirección la energia que canalizas. Cuando lanzas un
 
 ---
 
-### Canalizar Castigo ◆◆ - Dote 4
+### Canalizar Castigo {% include accion.html tipo="2" %} - Dote 4
 
 **Rasgos:** Clérigo, Divino
 
@@ -200,7 +200,7 @@ El conjuro se gasta sin efecto alguno si tu Golpe falla o si impacta a una criat
 
 ---
 
-### Golpe Restablecedor ◆◆ - Dote 4
+### Golpe Restablecedor {% include accion.html tipo="2" %} - Dote 4
 
 **Rasgos:** Clérigo
 
@@ -214,7 +214,7 @@ Si el Golpe acierta, puedes designar como objetivo a una segunda criatura volunt
 
 ---
 
-### Infusion Divina ◆ - Dote 4
+### Infusion Divina {% include accion.html tipo="1" %} - Dote 4
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -240,7 +240,7 @@ Si tienes una fuente curativa, esta actividad tiene los rasgos curación y vital
 
 ## Dotes de Nivel 6
 
-### Arma Divina ◇ - Dote 6
+### Arma Divina {% include accion.html tipo="libre" %} - Dote 6
 
 **Rasgos:** Clérigo
 
@@ -252,7 +252,7 @@ Desvias energia de conjuro residual a un arma que estas empuñando. Hasta el fin
 
 ---
 
-### Derribar ◆ - Dote 6
+### Derribar {% include accion.html tipo="1" %} - Dote 6
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -335,7 +335,7 @@ Con las fuerzas elementales, haces que tus símbolos estampados sean mas potente
 
 ---
 
-### Foco Emergente ◇ - Dote 8
+### Foco Emergente {% include accion.html tipo="libre" %} - Dote 8
 
 **Rasgos:** Clérigo
 
@@ -355,7 +355,7 @@ Tu abrumadora vitalidad prende fuego a los muertos vivientes. Cuando utilizas un
 
 ---
 
-### Martir ◆ - Dote 8
+### Martir {% include accion.html tipo="1" %} - Dote 8
 
 **Rasgos:** Clérigo, Moldeo de Conjuros
 
@@ -373,7 +373,7 @@ Te bendices a ti mismo sobre la marcha. Da una Zancada de hasta 10 pies (3 m). S
 
 ---
 
-### Santificar Armamento ◆ - Dote 8
+### Santificar Armamento {% include accion.html tipo="1" %} - Dote 8
 
 **Rasgos:** Clérigo, Divino
 
@@ -435,7 +435,7 @@ Golpear a tus enemigos despierta elogios y genera protección por parte de tu di
 
 ---
 
-### Recuperación Heroica ◆ - Dote 10
+### Recuperación Heroica {% include accion.html tipo="1" %} - Dote 10
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -486,7 +486,7 @@ Cuando tu dios bendice tus actos belicosos, puedes extender dicho favor a tus al
 
 ---
 
-### Recuperación Defensiva ◆ - Dote 12
+### Recuperación Defensiva {% include accion.html tipo="1" %} - Dote 12
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -553,7 +553,7 @@ La fuerza de tu golpe envia a tu victima de vuelta a su Plano de origen. Gastas 
 
 ---
 
-### Flujo y Reflujo ◆ - Dote 14
+### Flujo y Reflujo {% include accion.html tipo="1" %} - Dote 14
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -619,7 +619,7 @@ La energia de tu castigo persiste unos instantes, lo que te permite traspasarla 
 
 ---
 
-### Remediar ◇ - Dote 16
+### Remediar {% include accion.html tipo="libre" %} - Dote 16
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -647,7 +647,7 @@ Puedes verter poder divino en un objeto, permitiendo que el portador exceda sus 
 
 ---
 
-### Canalizacion Resonante ◆ - Dote 18
+### Canalizacion Resonante {% include accion.html tipo="1" %} - Dote 18
 
 **Rasgos:** Clérigo, Concentrar, Moldeo de Conjuros
 
@@ -701,7 +701,7 @@ Tus extensos servicios te han concedido ciertos privilegios divinos. En primer l
 
 ---
 
-### Canalizacion de Moldeo de Conjuros ◇ - Dote 20
+### Canalizacion de Moldeo de Conjuros {% include accion.html tipo="libre" %} - Dote 20
 
 **Rasgos:** Clérigo, Concentrar
 

@@ -23,7 +23,7 @@ Eres un experto en espionaje y reconocimiento, capaz de escabullirte silenciosam
 
 Eres un explorador altamente capacitado, capaz de guiar a tus aliados, detectar amenazas inminentes y evitar la atención de enemigos peligrosos. Puedes realizar la actividad de exploración Explorar a la vez que la actividad Evitar ser detectado. El bonificador a la iniciativa que otorgas al Explorar es +2 en lugar de +1.
 
-### Carga del explorador · ◆◆ · Dote 4
+### Carga del explorador · {% include accion.html tipo="2" %} · Dote 4
 
 **Rasgos:** Arquetipo, Florecimiento
 
@@ -39,7 +39,7 @@ Te mueves de forma impredecible y luego emboscas a tus oponentes sin aviso. Elig
 
 Has dominado el movimiento en muchos entornos distintos. Obtienes la dote de habilidad Acechador de terrenos dos veces, eligiendo un terreno distinto cada vez. Si Evitas ser detectado mientras exploras y algún aliado usa Seguir al experto para seguirte, puedes elegir a uno de esos aliados para que obtenga el beneficio de cualquier dote Acechador de terrenos que tengas.
 
-### Sombra fugaz · ◆◆ · Dote 6
+### Sombra fugaz · {% include accion.html tipo="2" %} · Dote 6
 
 **Rasgos:** Arquetipo, Florecimiento
 
@@ -55,7 +55,7 @@ Puedes desaparecer rápidamente y luego moverte sin atraer la atención de tus e
 
 Te mueves más rápido, especialmente al viajar, permitiéndote explorar por delante y volver sin ralentizar a tus aliados. Obtienes un bonificador de estado +3 m a tu Velocidad. Al calcular tu velocidad de viaje, esto aumenta a un bonificador de estado +6 m.
 
-### Zarpazo del explorador · ◆◆ · Dote 10
+### Zarpazo del explorador · {% include accion.html tipo="2" %} · Dote 10
 
 **Rasgos:** Arquetipo, Florecimiento
 

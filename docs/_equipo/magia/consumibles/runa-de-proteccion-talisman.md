@@ -19,7 +19,7 @@ source: PC2
 
 Esta pequeña runa de metal brilla con poder protector.
 
-**Activar** ◇ Imaginar (desencadenante: serías golpeado por un ataque)
+**Activar** {% include accion.html tipo="libre" %} Imaginar (desencadenante: serías golpeado por un ataque)
 
 **Efecto** Activas el talismán cuando un ataque te golpearía. Ganas un bonificador de circunstancia +2 a la CA contra ese ataque (potencialmente convirtiendo el golpe en un fallo). El talismán se consume.
 

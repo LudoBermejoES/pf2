@@ -19,7 +19,7 @@ source: PC2
 
 Este escudo es en realidad un dispositivo que proyecta un campo de fuerza sólido cuando se activa.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Puedes activar o desactivar el campo de fuerza. Mientras está activo, el escudo es inmune al daño físico pero puede ser disipado temporalmente por efectos que afecten a la fuerza.
 

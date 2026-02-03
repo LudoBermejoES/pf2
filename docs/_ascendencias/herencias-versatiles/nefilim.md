@@ -234,7 +234,7 @@ La larga y complicada historia de tu linaje se manifiesta en tu capacidad para e
 
 ### Nivel 9
 
-#### Alas divinas ◆◆
+#### Alas divinas {% include accion.html tipo="2" %}
 **Dote 9** · Divino, Morfismo, Nefilim
 
 **Frecuencia:** Una vez al día

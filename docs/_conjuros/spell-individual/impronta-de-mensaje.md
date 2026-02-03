@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Impronta de mensaje ◆◆ [1]
+## Impronta de mensaje {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** ocultista
 **Rango:** toque; **Objetivos:** 1 objeto

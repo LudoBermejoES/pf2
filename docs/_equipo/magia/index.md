@@ -33,10 +33,10 @@ Las reglas para activar e invertir objetos, así como una guía para leer el blo
 
 La mayoría de objetos mágicos que tienen un efecto activo requieren que los actives mediante una acción indicada en su entrada de **Activar**. Los tipos de acciones más comunes son:
 
-- **Mando (◆):** Una orden verbal o frase clave
-- **Interactuar (◆):** Una manipulación física del objeto
+- **Mando ({% include accion.html tipo="1" %}):** Una orden verbal o frase clave
+- **Interactuar ({% include accion.html tipo="1" %}):** Una manipulación física del objeto
 - **Lanzar un conjuro (variable):** El objeto replica un conjuro
-- **Imaginar (◆):** Un pensamiento o visualización mental
+- **Imaginar ({% include accion.html tipo="1" %}):** Un pensamiento o visualización mental
 
 ### Invertir un objeto
 

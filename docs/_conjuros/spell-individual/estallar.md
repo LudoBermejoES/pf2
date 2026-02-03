@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Estallar ◆◆ [CONJURO 2]
+## Estallar {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 objeto desatendido

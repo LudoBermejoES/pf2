@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
-## Grieta Artica ◆◆ [CONJURO 8]
+## Grieta Artica {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, primigenia
 **Area:** linea de 120 pies (36 m); **Defensa:** Fortaleza

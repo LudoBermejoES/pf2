@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Bola de Fuego ◆◆ [CONJURO 3]
+## Bola de Fuego {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Reflejos basica

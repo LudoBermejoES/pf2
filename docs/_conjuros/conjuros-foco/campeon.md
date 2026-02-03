@@ -14,7 +14,7 @@ Los conjuros de foco del campeón se conocen como **conjuros de devoción**. Est
 
 ## Conjuros de devoción iniciales
 
-### Imposición de manos ◆ FOCO 1
+### Imposición de manos {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Campeón, Foco, Curación, Manipular, Vitalidad
 **Rango:** toque; **Objetivos:** 1 criatura viviente dispuesta o 1 criatura no muerta
 
@@ -27,7 +27,7 @@ Tus manos se infunden con poderosa vitalidad, capaces de curar a una criatura vi
 
 ---
 
-### Toque del Vacío ◆ FOCO 1
+### Toque del Vacío {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Campeón, Foco, Manipular, Vacío
 **Rango:** toque; **Objetivos:** 1 criatura no muerta dispuesta o 1 criatura viviente
 
@@ -40,7 +40,7 @@ Infundes al objetivo con energía del vacío, sanando a no muertos o dañando a 
 
 ---
 
-### Escudos del espíritu ◆ FOCO 1
+### Escudos del espíritu {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Campeón, Concentrar, Foco, Santificado, Espíritu
 **Requisitos:** Estás empuñando un escudo.
 
@@ -54,7 +54,7 @@ El beneficio se aplica solo mientras un aliado esté en tu aura, terminando para
 
 ## Conjuros de devoción adicionales
 
-### Sacrificio del Campeón ◇ FOCO 6
+### Sacrificio del Campeón {% include accion.html tipo="libre" %} FOCO 6
 **Rasgos:** Poco común, Campeón, Foco, Manipular
 **Desencadenante:** A un aliado le impacta un Golpe o falla una tirada de salvación contra un efecto que no te afecta.
 **Rango:** 30 pies (9 m); **Objetivos:** el aliado que desencadenó
@@ -63,7 +63,7 @@ Formas un vínculo con un aliado, permitiéndote recibir el daño en su lugar. T
 
 ---
 
-### Desafío del héroe ◇ FOCO 10
+### Desafío del héroe {% include accion.html tipo="libre" %} FOCO 10
 **Rasgos:** Poco común, Campeón, Concentrar, Foco, Curación, Vitalidad
 **Desencadenante:** Un ataque te dejaría en 0 PG.
 
@@ -71,7 +71,7 @@ Gritas desafiando y te llenas de una ráfaga de curación. Justo antes de aplica
 
 ---
 
-### Avance espectral ◆ o ◆◆ FOCO 5
+### Avance espectral {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco común, Campeón, Concentrar, Foco, Polimorfo, Espíritu
 
 Adoptando una forma espiritual, te deslizas por el campo de batalla para enfrentarte a un enemigo. Avanzas hasta un espacio adyacente a un enemigo. Si lanzas el conjuro usando 2 acciones, puedes Avanzar dos veces en lugar de una. Si tienes Velocidad de vuelo, puedes Volar en lugar de Avanzar. Si estás montado, puedes hacer que tu montura se mueva en tu lugar.

@@ -12,7 +12,7 @@ El Atletismo te permite llevar a cabo proezas de vigor físico. La mayoría de l
 
 **Huir:** Cuando utilizas la acción básica Huir (pág. 416 ([ver](/reglas/acciones-basicas/huir/))), puedes utilizar tu modificador por Atletismo en lugar de tu modificador por ataque sin armas.
 
-## Abrir por la fuerza ◆
+## Abrir por la fuerza {% include accion.html tipo="1" %}
 
 **Ataque**
 
@@ -34,7 +34,7 @@ Utilizando tu cuerpo, una palanca o alguna otra herramienta, tratas de abrir por
 | Maestro | puerta de madera recia, rastrillo de hierro, barra de metal |
 | Legendario | puerta de piedra o de hierro |
 
-## Derribar ◆
+## Derribar {% include accion.html tipo="1" %}
 
 **Ataque**
 
@@ -48,7 +48,7 @@ Tratas de tirar al suelo a una criatura. Haz una prueba de Atletismo contra la C
 
 **Fallo crítico:** Pierdes el equilibrio, caes y acabas tumbado.
 
-## Empujar ◆
+## Empujar {% include accion.html tipo="1" %}
 
 **Ataque**
 
@@ -62,7 +62,7 @@ Apartas de ti a una criatura de un empujón. Haz una prueba de Atletismo contra 
 
 **Fallo crítico:** Pierdes el equilibrio, caes y acabas tumbado.
 
-## Nadar ◆
+## Nadar {% include accion.html tipo="1" %}
 
 **Movimiento**
 
@@ -86,7 +86,7 @@ Si acabas tu turno en el agua y no has conseguido llevar a cabo una acción de N
 | Maestro | mar tormentoso |
 | Legendario | remolino, catarata |
 
-## Presa ◆
+## Presa {% include accion.html tipo="1" %}
 
 **Ataque**
 
@@ -102,7 +102,7 @@ Pretendes apresar a una criatura u objeto con la mano libre. Haz una prueba de A
 
 **Fallo crítico:** Si ya tenías al objetivo agarrado o neutralizado, se suelta. Tu objetivo puede, o bien agarrarte, como si hubiera tenido éxito en utilizar contra ti la acción de Presa, o bien obligarte a caer tumbado.
 
-## Reposicionar ◆
+## Reposicionar {% include accion.html tipo="1" %}
 
 **Ataque**
 
@@ -116,7 +116,7 @@ Mueves a la fuerza una criatura u objeto. Haz una prueba de Atletismo contra la 
 
 **Fallo crítico:** El objetivo puede moverte hasta 5 pies (1,5 m) como si te hubiera reposicionado a ti con éxito.
 
-## Salto de altura ◆◆
+## Salto de altura {% include accion.html tipo="2" %}
 
 Das una Zancada y después haces una prueba de Atletismo CD 30 para saltar en vertical. Si tu Zancada no es de por lo menos 10 pies (3 m), fallas automáticamente. Esta CD podrá aumentar o disminuir debido a la situación, a discreción del DJ.
 
@@ -134,7 +134,7 @@ La acción básica de Saltar se utiliza para el Salto de altura y el Salto de lo
 
 Un Salto vertical te permite elevarte 3 pies (90 cm) verticalmente y 5 pies (1,5 m) horizontalmente a una superficie elevada.
 
-## Salto de longitud ◆◆
+## Salto de longitud {% include accion.html tipo="2" %}
 
 Das una Zancada y después haces una prueba de Atletismo CD 15 para dar un Salto de longitud en la dirección en la que das la Zancada. Si tu Zancada no es de por lo menos 10 pies (3 m), fallas automáticamente la prueba. El DJ puede aumentar o disminuir esta CD dependiendo de la situación.
 
@@ -144,7 +144,7 @@ Das una Zancada y después haces una prueba de Atletismo CD 15 para dar un Salto
 
 **Fallo crítico:** Das un Salto de longitud normal, pero después caes y acabas tumbado.
 
-## Trepar ◆
+## Trepar {% include accion.html tipo="1" %}
 
 **Movimiento**
 
@@ -170,7 +170,7 @@ Haces una prueba de Atletismo para moverte una distancia máxima de 5 pies (1,5 
 
 ## Acción entrenada de Atletismo
 
-### Desarmar ◆
+### Desarmar {% include accion.html tipo="1" %}
 
 **Ataque**
 

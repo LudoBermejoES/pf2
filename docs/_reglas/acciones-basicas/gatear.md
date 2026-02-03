@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Gatear ◆
+## Gatear {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**
 

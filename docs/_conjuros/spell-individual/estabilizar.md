@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Estabilizar ◆◆ [TRUCO 1]
+## Estabilizar {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura moribunda

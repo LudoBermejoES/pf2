@@ -23,7 +23,7 @@ Eres un estudiante consumado de la dignidad, la etiqueta y la moda. Pasas a esta
 
 **Influir en rumores** (tiempo de inactividad) Pasas al menos 1 día de tiempo de inactividad intentando manipular el curso, tono o contenido de un rumor en tu beneficio. Debes tener éxito en una prueba de Diplomacia para orientar el rumor como pretendes. La dificultad la determina el DJ en función del tamaño de la comunidad, la perceptividad relativa de los habitantes y la acción de otros difusores de rumores, pero normalmente no es inferior a CD 15 para una aldea pequeña, CD 20 para una ciudad, CD 30 para una gran ciudad o CD 40 para una metrópolis.
 
-### Halago distractor · ◇ · Dote 4
+### Halago distractor · {% include accion.html tipo="libre" %} · Dote 4
 
 **Rasgos:** Arquetipo, Habilidad
 

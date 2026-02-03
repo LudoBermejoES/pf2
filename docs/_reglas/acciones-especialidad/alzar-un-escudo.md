@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Alzar un Escudo ◆
+## Alzar un Escudo {% include accion.html tipo="1" %}
 
 **Requisitos:** Estas embrazando un escudo.
 

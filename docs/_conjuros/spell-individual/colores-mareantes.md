@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Colores Mareantes ◆◆ [CONJURO 1]
+## Colores Mareantes {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Area:** cono de 15 pies (4,5 m); **Defensa:** Voluntad; **Duracion:** 1 o mas asaltos (ver a continuación)

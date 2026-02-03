@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Árbol protector ◆◆ [1]
+## Árbol protector {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** primigenia
 **Rango:** 30 pies (9 m)

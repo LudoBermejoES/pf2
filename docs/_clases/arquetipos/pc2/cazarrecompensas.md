@@ -47,7 +47,7 @@ Dominas las armas que te permiten devolver a las capturas enteras, o al menos vi
 
 Además, no sufres penalización al hacer un ataque no letal con un arma que no tenga el rasgo no letal.
 
-### Mantener el ritmo · ◇ · Dote 6
+### Mantener el ritmo · {% include accion.html tipo="libre" %} · Dote 6
 
 **Rasgos:** Arquetipo
 
@@ -57,7 +57,7 @@ Además, no sufres penalización al hacer un ataque no letal con un arma que no 
 
 Una vez que estás sobre tu presa, no puede escapar. Avanza hasta tu Velocidad, siguiendo al enemigo y manteniéndolo a tu alcance durante todo su movimiento hasta que deje de moverse o hayas avanzado tu Velocidad completa. Puedes usar Mantener el ritmo para Excavar, Trepar, Volar o Nadar en lugar de Avanzar si tienes el tipo de movimiento correspondiente.
 
-### Agarrón oportunista · ◇ · Dote 8
+### Agarrón oportunista · {% include accion.html tipo="libre" %} · Dote 8
 
 **Rasgos:** Arquetipo
 

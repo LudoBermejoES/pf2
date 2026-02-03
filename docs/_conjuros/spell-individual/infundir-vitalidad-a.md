@@ -1,12 +1,12 @@
 ---
 layout: spell
 permalink: /conjuros/infundir-vitalidad-a/
-title: Infundir Vitalidad ◆ a
+title: Infundir Vitalidad {% include accion.html tipo="1" %} a
 chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Infundir Vitalidad ◆ a ◆◆◆ [CONJURO 1]
+## Infundir Vitalidad {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} [CONJURO 1]
 
 **Tradiciones:** divina
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 a 3 criaturas voluntarias

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
-## Observación Implacable ◆◆ [CONJURO 8]
+## Observación Implacable {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 100 pies (30 m); **Área:** explosión de 20 pies (6 m); **Objetivos:** 1 criatura u objeto rastreado y hasta otras 5 criaturas voluntarias

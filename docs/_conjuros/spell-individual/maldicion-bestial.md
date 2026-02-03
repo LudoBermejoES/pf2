@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
-## Maldición bestial ◆◆ [4]
+## Maldición bestial {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango:** toque; **Objetivos:** 1 humanoide viviente

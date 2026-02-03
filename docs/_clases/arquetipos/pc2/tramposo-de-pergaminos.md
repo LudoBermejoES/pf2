@@ -31,7 +31,7 @@ Tienes una vasta y desbordante colección de trozos de pergamino, plagados de er
 
 En el 8.º nivel, añade un segundo pergamino temporal que contenga un conjuro de rango 2.
 
-### Ojear pergamino · ◆ · Dote 8
+### Ojear pergamino · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Arquetipo
 

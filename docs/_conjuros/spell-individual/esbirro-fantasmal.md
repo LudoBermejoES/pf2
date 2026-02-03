@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Esbirro Fantasmal ◆◆◆ [CONJURO 1]
+## Esbirro Fantasmal {% include accion.html tipo="3" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 60 pies (18 m)

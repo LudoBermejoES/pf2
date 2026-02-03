@@ -19,7 +19,7 @@ source: PC2
 
 Este anillo de platino tiene una gema que parece desaparecer cuando la miras directamente.
 
-**Activar** ◆◆ Mando
+**Activar** {% include accion.html tipo="2" %} Mando
 
 **Efecto** Te vuelves invisible durante 10 minutos. La invisibilidad termina si atacas o lanzas un conjuro hostil. Puedes usar esta habilidad dos veces al día.
 

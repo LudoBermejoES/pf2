@@ -81,16 +81,16 @@ source: PC1+PC2
 | [Cuerpo Flamigero](/conjuros/cuerpo-flamigero/) | 7 | concentrar, fuego, manipular, polimorfia | a-c.md |
 | [Cuerpo Runico](/conjuros/cuerpo-runico/) | 1 | concentrar, manipular | a-c.md |
 | [Cuerpo Sano](/conjuros/cuerpo-sano/) | 2 | concentrar, curacion, manipular, vitalidad | a-c.md |
-| [Culebrear ◆◆/◆◆◆](/conjuros/culebrear-/) | 5 | concentrar, manipular, sombra | a-c.md |
-| [Curar ◆/◆◆/◆◆◆](/conjuros/curar-/) | 1 | curacion, manipular, vitalidad | a-c.md |
+| [Culebrear {% include accion.html tipo="2" %}/{% include accion.html tipo="3" %}](/conjuros/culebrear-/) | 5 | concentrar, manipular, sombra | a-c.md |
+| [Curar {% include accion.html tipo="1" %}/{% include accion.html tipo="2" %}/{% include accion.html tipo="3" %}](/conjuros/curar-/) | 1 | curacion, manipular, vitalidad | a-c.md |
 | [Custodia Amenazadora](/conjuros/custodia-amenazadora/) | TRUCO | concentrar, manipular, truco | a-c.md |
-| [Danar ◆ a](/conjuros/danar-a/) | 1 | Manipular, Vacío | d-f.md |
+| [Danar {% include accion.html tipo="1" %} a](/conjuros/danar-a/) | 1 | Manipular, Vacío | d-f.md |
 | [Danza Incontrolable](/conjuros/danza-incontrolable/) | 8 | Concentrar, Incapacitacion, Manipular, Mental | d-f.md |
 | [Debilitar](/conjuros/debilitar/) | 1 | Concentrar, Manipular | d-f.md |
 | [Decreto Divino](/conjuros/decreto-divino/) | 7 | Concentrar, Espíritu, Manipular, Santificado | d-f.md |
 | [Desangramiento Vampirico](/conjuros/desangramiento-vampirico/) | 6 | Concentrar, Manipular, Muerte, Vacío | d-f.md |
 | [Desaparicion](/conjuros/desaparicion/) | 8 | Ilusion, Manipular, Disimulado | d-f.md |
-| [Descarga de Fuerza ◆ a](/conjuros/descarga-de-fuerza-a/) | 1 | Concentrar, Fuerza, Manipular | d-f.md |
+| [Descarga de Fuerza {% include accion.html tipo="1" %} a](/conjuros/descarga-de-fuerza-a/) | 1 | Concentrar, Fuerza, Manipular | d-f.md |
 | [Desecar](/conjuros/desecar/) | 8 | Concentrar, Manipular, Vacío | d-f.md |
 | [Desintegrar](/conjuros/desintegrar/) | 6 | Ataque, Concentrar, Manipular | d-f.md |
 | [Despejar la Mente](/conjuros/despejar-la-mente/) | 2 | Concentrar, Curacion, Manipular, Mental | d-f.md |
@@ -172,7 +172,7 @@ source: PC1+PC2
 | [Implosion](/conjuros/implosion/) | 9 | Concentrar, Manipular | g-m.md |
 | [Incrustar Mensaje](/conjuros/incrustar-mensaje/) | 2 | Concentrar, Ilusion, Manipular | g-m.md |
 | [Indestructibilidad](/conjuros/indestructibilidad/) | 10 | Concentrar, Manipular | g-m.md |
-| [Infundir Vitalidad ◆ a](/conjuros/infundir-vitalidad-a/) | 1 | Concentrar, Manipular, Vitalidad | g-m.md |
+| [Infundir Vitalidad {% include accion.html tipo="1" %} a](/conjuros/infundir-vitalidad-a/) | 1 | Concentrar, Manipular, Vitalidad | g-m.md |
 | [Inmolacion Divina](/conjuros/inmolacion-divina/) | 5 | Concentrar, Espíritu, Fuego, Manipular, Santificado | g-m.md |
 | [Inspiracion Divina](/conjuros/inspiracion-divina/) | 8 | Concentrar, Manipular, Mental | g-m.md |
 | [Invisibilidad](/conjuros/invisibilidad/) | 2 | Ilusion, Manipular, Disimulado | g-m.md |
@@ -305,7 +305,7 @@ source: PC1+PC2
 | [Uno con las Plantas](/conjuros/uno-con-las-plantas/) | 2 | Concentrar, Madera, Manipular, Planta | t-z.md |
 | [Velo de Privacidad](/conjuros/velo-de-privacidad/) | 3 | Poco comun, Concentrar, Manipular | t-z.md |
 | [Vendetta de Sangre ↺](/conjuros/vendetta-de-sangre-/) | 2 | Maldición | t-z.md |
-| [Ventisca Aullante ◆◆ a](/conjuros/ventisca-aullante-a/) | 5 | Aire, Concentrar, Frio, Manipular | t-z.md |
+| [Ventisca Aullante {% include accion.html tipo="2" %} a](/conjuros/ventisca-aullante-a/) | 5 | Aire, Concentrar, Frio, Manipular | t-z.md |
 | [Ventriloquia](/conjuros/ventriloquia/) | 1 | Auditivo, Concentrar, Ilusion, Manipular | t-z.md |
 | [Ver lo Invisible](/conjuros/ver-lo-invisible/) | 2 | Concentrar, Manipular, Revelación | t-z.md |
 | [Verdad Inventada](/conjuros/verdad-inventada/) | 10 | Concentrar, Incapacitacion, Manipular, Mental | t-z.md |
@@ -314,7 +314,7 @@ source: PC1+PC2
 | [Vientos Castigadores](/conjuros/vientos-castigadores/) | 8 | Aire, Concentrar, Manipular | t-z.md |
 | [Vincular Muertos Vivientes](/conjuros/vincular-muertos-vivientes/) | 3 | Concentrar, Manipular | t-z.md |
 | [Vinculo Espiritual](/conjuros/vinculo-espiritual/) | 1 | Concentrar, Curar, Espíritu, Manipular | t-z.md |
-| [Virote Ardiente ◆ a](/conjuros/virote-ardiente-a/) | 2 | Ataque, Concentrar, Fuego, Manipular | t-z.md |
+| [Virote Ardiente {% include accion.html tipo="1" %} a](/conjuros/virote-ardiente-a/) | 2 | Ataque, Concentrar, Fuego, Manipular | t-z.md |
 | [Viruela de Goblin](/conjuros/viruela-de-goblin/) | 1 | Concentrar, Enfermedad, Manipular | t-z.md |
 | [Vision de la Muerte](/conjuros/vision-de-la-muerte/) | 4 | Concentrar, Muerte, Emocion, Miedo, Manipular, Mental | t-z.md |
 | [Vision en la Oscuridad](/conjuros/vision-en-la-oscuridad/) | 2 | Concentrar, Manipular | t-z.md |

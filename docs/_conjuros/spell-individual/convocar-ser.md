@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Convocar Ser ◆◆◆ [CONJURO 5]
+## Convocar Ser {% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m)

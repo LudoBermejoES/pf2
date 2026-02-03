@@ -71,7 +71,7 @@ El grupo avanza 60 pies por el pasillo.
 
 El grupo detiene el movimiento. Mira puede usar la acción **Buscar** (como acción, no actividad) para examinar.
 
-**Mira usa Buscar (◆):**
+**Mira usa Buscar ({% include accion.html tipo="1" %}):**
 - Tirada de Percepción: 1d20+9 = 12+9 = **21**
 - Información obtenida: "Es una placa de presión conectada a agujeros en las paredes. Probablemente dispara dardos."
 
@@ -81,7 +81,7 @@ Theron tiene [Latrocinio]({{ '/habilidades/latrocinio/' | relative_url }}) entre
 
 > **Jugador (Theron):** "Saco mis herramientas de ladrón e intento desactivarla."
 
-**Theron usa [Desactivar un Mecanismo]({{ '/habilidades/latrocinio/' | relative_url }}) (◆◆):**
+**Theron usa [Desactivar un Mecanismo]({{ '/habilidades/latrocinio/' | relative_url }}) ({% include accion.html tipo="2" %}):**
 
 > **Regla:** Desactivar un Mecanismo requiere 2 acciones, herramientas de ladrón, y una tirada de [Latrocinio]({{ '/habilidades/latrocinio/' | relative_url }}) contra la CD de la trampa.
 
@@ -122,7 +122,7 @@ El grupo decide examinar la sala más detenidamente.
 
 > **Jugador (Zander):** "Quiero examinar el cuenco del pedestal con Arcanos."
 
-**Zander usa [Recordar Conocimiento]({{ '/habilidades/acciones-generales/' | relative_url }}) (◆) con [Arcanos]({{ '/habilidades/arcanos/' | relative_url }}):**
+**Zander usa [Recordar Conocimiento]({{ '/habilidades/acciones-generales/' | relative_url }}) ({% include accion.html tipo="1" %}) con [Arcanos]({{ '/habilidades/arcanos/' | relative_url }}):**
 
 > **Regla:** Recordar Conocimiento es una acción que usa una habilidad de conocimiento (Arcanos, Ocultismo, Religión, etc.) para obtener información.
 
@@ -135,7 +135,7 @@ El grupo decide examinar la sala más detenidamente.
 
 > **Jugadora (Mira):** "Quiero examinar las paredes específicamente, buscando puertas secretas."
 
-**Mira usa Buscar (◆) específicamente en las paredes:**
+**Mira usa Buscar ({% include accion.html tipo="1" %}) específicamente en las paredes:**
 
 > **Regla:** Buscar activamente en un área específica da mejor resultado que la búsqueda pasiva durante exploración.
 
@@ -148,7 +148,7 @@ El grupo decide examinar la sala más detenidamente.
 
 > **Jugador (Theron):** "¿Puedo encontrar el mecanismo de apertura?"
 
-**Theron usa Buscar (◆):**
+**Theron usa Buscar ({% include accion.html tipo="1" %}):**
 - Tirada de Percepción: 1d20+8 = 14+8 = **22**
 - Resultado: Encuentra una piedra que se puede empujar
 

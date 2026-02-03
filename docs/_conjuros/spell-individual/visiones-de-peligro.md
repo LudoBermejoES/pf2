@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC2
 ---
-## Visiones de peligro ◆◆◆ [7]
+## Visiones de peligro {% include accion.html tipo="3" %} [7]
 
 **Tradiciones:** ocultista
 **Rango:** 500 pies (150 m); **Área:** explosión de 30 pies (9 m)

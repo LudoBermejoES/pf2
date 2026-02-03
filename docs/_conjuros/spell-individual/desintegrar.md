@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Desintegrar ◆◆ [CONJURO 6]
+## Desintegrar {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura, objeto desatendido o constructo de fuerza

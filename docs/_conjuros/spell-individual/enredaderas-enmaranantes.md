@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Enredaderas Enmaranantes ◆◆◆ [CONJURO 6]
+## Enredaderas Enmaranantes {% include accion.html tipo="3" %} [CONJURO 6]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 40 pies (9 m)

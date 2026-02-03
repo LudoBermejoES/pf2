@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC2
 ---
-## Furia cegadora ◇ [6]
+## Furia cegadora {% include accion.html tipo="libre" %} [6]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Desencadenante:** Una criatura te inflige daño.

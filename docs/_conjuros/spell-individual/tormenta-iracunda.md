@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
-## Tormenta Iracunda ◆◆◆ [CONJURO 9]
+## Tormenta Iracunda {% include accion.html tipo="3" %} [CONJURO 9]
 
 **Tradiciones:** primigenia
 **Rango de distancia:** 800 pies (240 m); **Area:** explosion de 400 pies (120 m)

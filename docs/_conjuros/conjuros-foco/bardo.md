@@ -12,7 +12,7 @@ Los conjuros de foco del bardo se conocen como **composiciones**. Estas poderosa
 
 ---
 
-## Endecha de Perdición ◆ TRUCO 3
+## Endecha de Perdición {% include accion.html tipo="1" %} TRUCO 3
 **Rasgos:** Poco común, Bardo, Composición, Concentrar, Emocion, Mental, Miedo, Truco
 **Area:** emanacion de 30 pies (9 m)
 **Duracion:** 1 asalto
@@ -21,7 +21,7 @@ Los enemigos en el interior del area quedan asustados 1. No pueden reducir su va
 
 ---
 
-## Estudio del Maestro del Saber ◇ FOCO 1
+## Estudio del Maestro del Saber {% include accion.html tipo="libre" %} FOCO 1
 **Rasgos:** Poco comun, Bardo, Foco, Fortuna, Manipular
 **Musa:** enigma
 **Desencadenante:** Tu o un aliado tuyo dentro del alcance haceis una prueba de habilidad para Recordar conocimiento
@@ -31,7 +31,7 @@ Puedes apelar a los misterios profundos de tu musa, concediendo al objetivo una 
 
 ---
 
-## Flautista de Hamelin ◆◆ FOCO 10
+## Flautista de Hamelin {% include accion.html tipo="2" %} FOCO 10
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Foco, Incapacitacion, Mental, Sonico
 **Area:** emanacion de 5 pies (1,5 m)
 **Defensa:** Voluntad; **Duracion:** 1 minuto
@@ -48,7 +48,7 @@ Tu interpretación cautiva a los oyentes, obligándoles a seguirte. Cada criatur
 
 ---
 
-## Himno de Curacion ◆◆ FOCO 1
+## Himno de Curacion {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Foco, Curacion, Vitalidad
 **Rango:** 30 pies (9 m); **Objetivos:** tu o 1 aliado
 **Duracion:** mantenido hasta 4 asaltos
@@ -59,7 +59,7 @@ Tu glorioso cantico remienda las heridas y proporciona un respiro temporal contr
 
 ---
 
-## Himno de Reagrupamiento ◆ TRUCO 2
+## Himno de Reagrupamiento {% include accion.html tipo="1" %} TRUCO 2
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Emocion, Mental, Truco
 **Area:** emanacion de 60 pies (18 m)
 **Duracion:** 1 asalto
@@ -68,7 +68,7 @@ Tu canción anima a tus aliados a protegerse de forma mas efectiva. Tu y todos t
 
 ---
 
-## Himno Valeroso ◆ TRUCO 1
+## Himno Valeroso {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Emocion, Mental, Truco
 **Area:** emanacion de 60 pies (18 m)
 **Duracion:** 1 asalto
@@ -77,7 +77,7 @@ Te inspiras a ti mismo y a tus aliados con palabras o canciones de animo. Tu y t
 
 ---
 
-## La Casa de los Muros Imaginarios ◆ TRUCO 5
+## La Casa de los Muros Imaginarios {% include accion.html tipo="1" %} TRUCO 5
 **Rasgos:** Poco comun, Bardo, Composicion, Ilusion, Manipular, Truco, Visual
 **Rango:** toque
 **Duracion:** 1 asalto
@@ -86,7 +86,7 @@ Expresas con mimica la creación de un muro de 10 x 10 pies (3 x 3 m) invisible,
 
 ---
 
-## Obertura Estimulante ◆ TRUCO 1
+## Obertura Estimulante {% include accion.html tipo="1" %} TRUCO 1
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Emocion, Mental, Truco
 **Musa:** maestro
 **Rango:** 60 pies (18 m); **Objetivos:** 1 aliado
@@ -107,7 +107,7 @@ Tu oda mantiene a raya a la muerte. El estado moribundo del objetivo permanece 1
 
 ---
 
-## Sinfonia del Corazón Libre ◆◆ FOCO 5
+## Sinfonia del Corazón Libre {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Foco
 **Rango:** 30 pies (9 m); **Objetivos:** tu o 1 aliado
 
@@ -117,7 +117,7 @@ Tu sinfonia eleva a quienes la escuchan de sus preocupaciones mundanas. Haz una 
 
 ---
 
-## Triplicar la Marcha ◆ TRUCO 2
+## Triplicar la Marcha {% include accion.html tipo="1" %} TRUCO 2
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Emocion, Mental, Truco
 **Area:** emanacion de 60 pies (18 m)
 **Duracion:** 1 asalto

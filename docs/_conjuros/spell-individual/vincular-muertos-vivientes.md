@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Vincular Muertos Vivientes ◆◆ [CONJURO 3]
+## Vincular Muertos Vivientes {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura muerta viviente descerebrada cuyo nivel no es mayor que el rango del conjuro atar muertos vivientes.

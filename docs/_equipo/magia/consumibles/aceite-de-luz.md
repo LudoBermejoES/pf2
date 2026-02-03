@@ -19,7 +19,7 @@ source: PC2
 
 Este aceite luminiscente hace que los objetos brillen con luz mágica.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Aplicas el aceite a un objeto. El objeto emite luz brillante en un radio de 20 pies (6 m) y luz tenue en 20 pies adicionales durante 8 horas.
 

@@ -19,7 +19,7 @@ source: PC2
 
 Este aceite plateado hace que cualquier arma cortante sea extraordinariamente afilada.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Aplicas el aceite a un arma con daño cortante. Durante 1 minuto, el arma inflige 1 punto de daño adicional con cada Golpe exitoso.
 

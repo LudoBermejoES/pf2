@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Zarcillo Enmaranador ◆◆ [TRUCO 1]
+## Zarcillo Enmaranador {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

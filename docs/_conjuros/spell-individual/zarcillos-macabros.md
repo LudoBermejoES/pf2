@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Zarcillos Macabros ◆◆ [CONJURO 1]
+## Zarcillos Macabros {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Area:** linea de 30 pies (9 m); **Defensa:** Fortaleza

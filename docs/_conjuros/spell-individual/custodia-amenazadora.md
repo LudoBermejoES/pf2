@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Custodia Amenazadora ◆◆ [TRUCO 1]
+## Custodia Amenazadora {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 aliado y 1 enemigo

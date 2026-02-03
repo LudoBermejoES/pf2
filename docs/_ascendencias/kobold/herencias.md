@@ -67,7 +67,7 @@ Gracias a la proximidad de una criatura venenosa a tu madriguera, naciste con un
 
 **Beneficio:** Obtienes la acción Toxina de cola.
 
-> **Toxina de cola** ◆
+> **Toxina de cola** {% include accion.html tipo="1" %}
 >
 > **Rasgos:** Manipular
 >

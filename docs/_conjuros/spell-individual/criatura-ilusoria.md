@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Criatura Ilusoria ◆◆ [CONJURO 2]
+## Criatura Ilusoria {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 500 pies (150 m)

@@ -19,7 +19,7 @@ source: PC2
 
 Esta capa negra tiene bordes dentados que parecen alas de murciélago.
 
-**Activar** ◆◆ Mando
+**Activar** {% include accion.html tipo="2" %} Mando
 
 **Efecto** Puedes activar la capa para que se transforme en alas de murciélago funcionales. Ganas una Velocidad de vuelo de 25 pies (7,5 m) durante 10 minutos. Puedes usar esta habilidad dos veces al día.
 

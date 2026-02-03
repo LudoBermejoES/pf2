@@ -15,7 +15,7 @@ En cada nivel en el que obtienes una dote de mago, puedes seleccionar una de las
 
 ## Dotes de Nivel 1
 
-### Conjuro de Alcance ◆
+### Conjuro de Alcance {% include accion.html tipo="1" %}
 
 **Nivel 1** | **Rasgos:** Concentrar, Mago, Moldeo de conjuros
 
@@ -33,7 +33,7 @@ Cuando un enemigo Lanza un conjuro y puedes ver sus manifestaciones, puedes util
 
 ---
 
-### Extender Conjuro ◆
+### Extender Conjuro {% include accion.html tipo="1" %}
 
 **Nivel 1** | **Rasgos:** Concentrar, Mago, Moldeo de conjuros
 
@@ -61,7 +61,7 @@ Estas particularmente versado en aprender conjuros que añadir a tu libro de con
 
 ## Dotes de Nivel 2
 
-### Ablacion de Energia ◆
+### Ablacion de Energia {% include accion.html tipo="1" %}
 
 **Nivel 2** | **Rasgos:** Mago, Moldeo de conjuros
 
@@ -69,7 +69,7 @@ Mientras diriges energia destructiva contra un enemigo, puedes desviar parte de 
 
 ---
 
-### Conjuro No Letal ◆
+### Conjuro No Letal {% include accion.html tipo="1" %}
 
 **Nivel 2** | **Rasgos:** Mago, Manipular, Moldeo de conjuros
 
@@ -97,7 +97,7 @@ Infundes a tu familiar con energia magica adicional. Puedes seleccionar cuatro a
 
 ---
 
-### Ocultar Conjuro ◆
+### Ocultar Conjuro {% include accion.html tipo="1" %}
 
 **Nivel 2** | **Rasgos:** Concentrar, Mago, Moldeo de conjuros
 
@@ -107,7 +107,7 @@ Moldeando las energias magicas y los parametros de tus conjuros en tu cabeza med
 
 ## Dotes de Nivel 4
 
-### Despliegue de Protección de Conjuros ◆
+### Despliegue de Protección de Conjuros {% include accion.html tipo="1" %}
 
 **Nivel 4** | **Rasgos:** Arcano, Mago, Manipular
 
@@ -115,7 +115,7 @@ Inscribes un circulo de runas arcanas que amortiguan la magia de tus enemigos. C
 
 ---
 
-### Encantar Golpes ◇
+### Encantar Golpes {% include accion.html tipo="libre" %}
 
 **Nivel 4** | **Rasgos:** Mago
 
@@ -137,7 +137,7 @@ Has enlazado tu objeto vinculado al pozo de energia que impulsa tus conjuros de 
 
 ---
 
-### Llamar Herramientas de Mago ◆
+### Llamar Herramientas de Mago {% include accion.html tipo="1" %}
 
 **Nivel 4** | **Rasgos:** Concentrar, Mago, Teletransporte
 
@@ -179,7 +179,7 @@ Confiado en tu tecnica y poseedor de una concentración acorazada, no la pierdes
 
 ---
 
-### Llegada Explosiva ◇
+### Llegada Explosiva {% include accion.html tipo="libre" %}
 
 **Nivel 6** | **Rasgos:** Concentrar, Mago, Manipular, Moldeo de conjuros
 
@@ -205,7 +205,7 @@ Obtienes acceso a las enseñanzas avanzadas de tu institución arcana, aprendien
 
 ---
 
-### Conservacion del Vinculo ◆
+### Conservacion del Vinculo {% include accion.html tipo="1" %}
 
 **Nivel 8** | **Rasgos:** Mago, Manipular, Moldeo de conjuros
 
@@ -247,7 +247,7 @@ Si dispones de competencia a rango maestro en la CD de conjuro, puedes crear 3 p
 
 ---
 
-### Energia Abrumadora ◆
+### Energia Abrumadora {% include accion.html tipo="1" %}
 
 **Nivel 10** | **Rasgos:** Mago, Manipular, Moldeo de conjuros
 
@@ -255,7 +255,7 @@ Multiples círculos de runas giran alrededor de tu mano mientras sobrecargas tu 
 
 ---
 
-### Lanzamiento Apresurado ◇
+### Lanzamiento Apresurado {% include accion.html tipo="libre" %}
 
 **Nivel 10** | **Rasgos:** Concentrar, Mago, Moldeo de conjuros
 
@@ -285,7 +285,7 @@ Tienes sensibilidad a los peligros mágicos. Cuando utilizas la actividad de exp
 
 ---
 
-### Energia Contundente ◆
+### Energia Contundente {% include accion.html tipo="1" %}
 
 **Nivel 12** | **Rasgos:** Mago, Manipular, Moldeo de conjuros
 
@@ -303,7 +303,7 @@ Tienes literalmente un sexto sentido para la magia ambiental en tus proximidades
 
 ## Dotes de Nivel 14
 
-### Despliegue de Detonacion Secundaria ◆
+### Despliegue de Detonacion Secundaria {% include accion.html tipo="1" %}
 
 **Nivel 14** | **Rasgos:** Mago, Manipular, Moldeo de conjuros
 
@@ -343,7 +343,7 @@ Cuando extraes energia de tu objeto vinculado, puedes dejar en su interior una p
 
 ## Dotes de Nivel 16
 
-### Concentracion sin Esfuerzo ◇
+### Concentracion sin Esfuerzo {% include accion.html tipo="libre" %}
 
 **Nivel 16** | **Rasgos:** Mago
 
@@ -353,7 +353,7 @@ Mantienes tus conjuros activos casi sin pensarlo. Obtienes de inmediato los efec
 
 ---
 
-### Conjuro Brillante ◆
+### Conjuro Brillante {% include accion.html tipo="1" %}
 
 **Nivel 16** | **Rasgos:** Concentrar, Luz, Mago, Moldeo de conjuros
 
@@ -361,7 +361,7 @@ Tus conjuros se convierten en una exhibición radiante de luz y color. Si tu sig
 
 ---
 
-### Manipular Conjuro ◆◆
+### Manipular Conjuro {% include accion.html tipo="2" %}
 
 **Nivel 16** | **Rasgos:** Concentrar, Mago
 

@@ -14,7 +14,7 @@ Los conjuros de foco del monje se conocen como **conjuros de qi**. Estos poderos
 
 ## Conjuros de Qi
 
-### Agitación Interna ◆ FOCO 1
+### Agitación Interna {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Concentración, Foco, Monje
 
 Canalizas tu qi en ataques mágicos devastadores. Realiza un Golpe desarmado o Ráfaga de Golpes (esto no cambia el límite de usar solo una floritura por turno). Obtienes un bonificador de estado +1 a tus tiradas de ataque con los Golpes, y los Golpes infligen 1d6 de daño adicional. Este daño puede ser de cualquiera de los siguientes tipos a tu elección, elegido cada vez que realizas un Golpe: fuerza, espíritu, vitalidad o vacío.
@@ -23,7 +23,7 @@ Canalizas tu qi en ataques mágicos devastadores. Realiza un Golpe desarmado o R
 
 ---
 
-### Ímpetu de Qi ◆ FOCO 1
+### Ímpetu de Qi {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Concentración, Foco, Monje
 
 Acelerado por tu qi, te mueves con tal velocidad que te vuelves un borrón. Muévete dos veces: dos Avances, dos Pasos, o un Avance y un Paso (en cualquier orden). Obtienes la condición de oculto durante este movimiento y hasta el comienzo de tu siguiente turno.
@@ -32,7 +32,7 @@ Acelerado por tu qi, te mueves con tal velocidad que te vuelves un borrón. Mué
 
 ## Conjuros de Qi Avanzados
 
-### Explosión de Qi ◆ a ◆◆◆ FOCO 3
+### Explosión de Qi {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 3
 **Rasgos:** Poco común, Concentración, Foco, Fuerza, Manipular, Monje
 **Área:** cono de 15 pies o más
 **Defensa:** Fortaleza
@@ -51,7 +51,7 @@ Liberas tu qi como una poderosa explosión que inflige 2d6 de daño de fuerza. S
 
 ---
 
-### Acortar la Distancia ◆ FOCO 3
+### Acortar la Distancia {% include accion.html tipo="1" %} FOCO 3
 **Rasgos:** Poco común, Foco, Manipular, Monje, Teletransportación
 **Alcance:** ver texto
 
@@ -61,7 +61,7 @@ El mundo parece encogerse ante tus pisadas. Te teletransportas hasta una distanc
 
 ## Conjuros de Qi de Maestro
 
-### Ira de la Medusa ◆◆ FOCO 8
+### Ira de la Medusa {% include accion.html tipo="2" %} FOCO 8
 **Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
 
 Realizas un ataque imbuido del poder petrificador de una medusa. Haz un Golpe desarmado con los siguientes efectos adicionales.
@@ -72,7 +72,7 @@ Realizas un ataque imbuido del poder petrificador de una medusa. Haz un Golpe de
 
 ---
 
-### Toque de Muerte ◆◆ FOCO 8
+### Toque de Muerte {% include accion.html tipo="2" %} FOCO 8
 **Rasgos:** Poco común, Concentración, Foco, Incapacitación, Manipular, Monje
 **Defensa:** Fortaleza; **Duración:** 1 mes
 
@@ -94,7 +94,7 @@ Si lanzas toque de muerte de nuevo, los efectos de cualquier toque de muerte que
 
 ## Conjuros de Qi de Gran Maestro
 
-### Abrazar la Nada ◆◆ FOCO 9
+### Abrazar la Nada {% include accion.html tipo="2" %} FOCO 9
 **Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
 **Duración:** 1 minuto
 
@@ -102,7 +102,7 @@ Vacías tu cuerpo de sustancia, volviéndote uno con la nada. Ganas resistencia 
 
 ---
 
-### Forma de Qi ◆ FOCO 9
+### Forma de Qi {% include accion.html tipo="1" %} FOCO 9
 **Rasgos:** Poco común, Concentración, Foco, Monje, Polimorfo
 **Duración:** 1 minuto
 
@@ -114,7 +114,7 @@ En tu forma de qi, tus emociones toman protagonismo y es difícil moderar tus at
 
 ## Posturas de Qi y Habilidades de Postura de Qi
 
-### Postura de Sombras Adherentes ◆ FOCO 4
+### Postura de Sombras Adherentes {% include accion.html tipo="1" %} FOCO 4
 **Rasgos:** Poco común, Foco, Manipular, Monje, Sombra, Postura
 **Duración:** hasta que abandones la postura
 
@@ -122,7 +122,7 @@ Adoptas la postura de sombras adherentes. Puedes realizar Golpes de garra de som
 
 ---
 
-### Postura de Vientos Salvajes ◆ FOCO 4
+### Postura de Vientos Salvajes {% include accion.html tipo="1" %} FOCO 4
 **Rasgos:** Poco común, Aire, Foco, Manipular, Monje, Postura
 **Duración:** hasta que abandones la postura
 
@@ -132,7 +132,7 @@ Mientras estés en la postura de vientos salvajes, obtienes un bonificador circu
 
 ---
 
-### Red de la Sombra ◆◆ FOCO 7
+### Red de la Sombra {% include accion.html tipo="2" %} FOCO 7
 **Rasgos:** Poco común, Concentración, Foco, Manipular, Monje
 **Requisitos:** Estás en la postura de sombras adherentes.
 **Área:** emanación de 30 pies
@@ -154,7 +154,7 @@ Oscuridad aferradora surge de ti, infligiendo 14d4 de daño de vacío. Cada cria
 
 ## Otros Conjuros de Qi
 
-### Armonizarse ◆ FOCO 2
+### Armonizarse {% include accion.html tipo="1" %} FOCO 2
 **Rasgos:** Poco común, Concentración, Foco, Sanación, Monje, Vitalidad
 
 Te curas de una de las siguientes maneras, elegida por ti al lanzar el conjuro.
@@ -166,7 +166,7 @@ Te curas de una de las siguientes maneras, elegida por ti al lanzar el conjuro.
 
 ---
 
-### Salto de Viento ◆ FOCO 5
+### Salto de Viento {% include accion.html tipo="1" %} FOCO 5
 **Rasgos:** Poco común, Aire, Concentración, Foco, Monje
 **Duración:** 1 minuto
 

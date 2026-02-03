@@ -18,17 +18,17 @@ source: PC1
 
 **aberración** (rasgo) — Las aberraciones son criaturas de más allá de los Planos o bien corrupciones del orden natural.
 
-**Abrir por la fuerza** ◆ (acción de habilidad) — Abrir algo violentamente. (Atletismo)
+**Abrir por la fuerza** {% include accion.html tipo="1" %} (acción de habilidad) — Abrir algo violentamente. (Atletismo)
 
 **acción básica** — Una acción que todas las criaturas pueden utilizar.
 
 **acción básica de especialidad**
 
-**acción gratuita** ◇ — Una acción que puedes usar sin gastar una de tus acciones. Las acciones gratuitas con desencadenante se pueden utilizar en cualquier momento, pero no utilizan tu única reacción por asalto.
+**acción gratuita** {% include accion.html tipo="libre" %} — Una acción que puedes usar sin gastar una de tus acciones. Las acciones gratuitas con desencadenante se pueden utilizar en cualquier momento, pero no utilizan tu única reacción por asalto.
 
 **acción hostil** — Una acción hostil es una que puede causar daño a otra criatura de forma directa o indirecta, pero no si la criatura no es consciente de que puede causar daño.
 
-**acción individual** (◆) — Una acción que gasta una de las tres acciones de tu turno.
+**acción individual** ({% include accion.html tipo="1" %}) — Una acción que gasta una de las tres acciones de tu turno.
 
 **acciones** — Tareas discretas que generan un efecto específico, posiblemente requiriendo una prueba para determinar el resultado. Las acciones pueden implicar una gran variedad de cosas, como por ejemplo mover, atacar, lanzar un conjuro o interactuar con un objeto o sustancia. La mayoría de criaturas pueden utilizar hasta 3 acciones durante su turno.
 
@@ -46,7 +46,7 @@ source: PC1
 
 **actitudes**
 
-**actividad** — Una categoría de acción que típicamente requiere más de una acción individual. Las actividades en tu turno requieren 2 acciones (◆◆) o 3 acciones (◆◆◆). Las actividades de exploración y de tiempo libre pueden requerir minutos, horas o días.
+**actividad** — Una categoría de acción que típicamente requiere más de una acción individual. Las actividades en tu turno requieren 2 acciones ({% include accion.html tipo="2" %}) o 3 acciones ({% include accion.html tipo="3" %}). Las actividades de exploración y de tiempo libre pueden requerir minutos, horas o días.
 
 **actividades de exploración**
 
@@ -80,7 +80,7 @@ source: PC1
 
 **alquímico** (rasgo) — Las sustancias alquímicas se alimentan de las reacciones de los reactivos alquímicos. Las sustancias alquímicas no son mágicas y no irradian un aura mágica.
 
-**Alzar un escudo** ◆ (acción básica de especialidad) — Obtienes tu bonificador por escudo a la CA.
+**Alzar un escudo** {% include accion.html tipo="1" %} (acción básica de especialidad) — Obtienes tu bonificador por escudo a la CA.
 
 **amistoso** (estado) — A un PNJ amistoso le caes bien.
 
@@ -96,7 +96,7 @@ source: PC1
 
 **aparición** (rasgo) — Un riesgo con este rasgo es un eco espiritual, a menudo de alguien que murió trágicamente.
 
-**Apoyar** ◆ — Indicar a tu compañero animal que te apoye.
+**Apoyar** {% include accion.html tipo="1" %} — Indicar a tu compañero animal que te apoye.
 
 **Aprender un conjuro** (acción de habilidad) — Aprender un nuevo conjuro. (Arcanos, Naturaleza, Ocultismo, Religión; entrenado)
 
@@ -152,7 +152,7 @@ source: PC1
 
 **aventura** — Una narrativa única, incluyendo planteamiento, nudo y desenlace. Los PJs juegan una aventura a lo largo de una o más sesiones de juego, y dicha aventura podría formar parte de una campaña mayor.
 
-**Averiguar intenciones** ◆ (acción básica) — Determinar si una criatura está mintiendo.
+**Averiguar intenciones** {% include accion.html tipo="1" %} (acción básica) — Determinar si una criatura está mintiendo.
 
 **azata** (rasgo) — Esta familia de celestiales es nativa del Elíseo.
 
@@ -190,7 +190,7 @@ source: PC1
 
 **brujo** (rasgo) — Esto indica aptitudes de la clase brujo.
 
-**Buscar** ◆ (acción básica) — Examinar un área utilizando la Percepción.
+**Buscar** {% include accion.html tipo="1" %} (acción básica) — Examinar un área utilizando la Percepción.
 
 ## C
 
@@ -232,7 +232,7 @@ source: PC1
 
 **cobertura** — Cuando estás tras un obstáculo físico, obtienes un bonificador +2 por circunstancia a la CA, las salvaciones de Reflejos contra los efectos de área y las pruebas de Sigilo. Esto se incrementa a +4 en caso de cobertura mayor. Las criaturas pueden proporcionar cobertura menor: un bonificador por +1 por circunstancia a la CA.
 
-**Comandar a un animal** ◆ (acción de habilidad) — Conseguir que un animal te obedezca. (Naturaleza)
+**Comandar a un animal** {% include accion.html tipo="1" %} (acción de habilidad) — Conseguir que un animal te obedezca. (Naturaleza)
 
 **combate acuático**
 
@@ -296,7 +296,7 @@ source: PC1
 
 **coste de la vida**
 
-**Crear una distracción** ◆ (acción de habilidad) — Distraer a alguien. (Engaño)
+**Crear una distracción** {% include accion.html tipo="1" %} (acción de habilidad) — Distraer a alguien. (Engaño)
 
 **criatura** — Un participante activo en la historia y en el mundo. Esto incluye monstruos y PNJs (dirigidos por el DJ) y PJs (interpretados por los demás jugadores).
 
@@ -340,13 +340,13 @@ source: PC1
 
 **demonio** (rasgo) — Una familia de infernales pecaminosos de las Fisuras Exteriores.
 
-**Derribar** ◆ (acción de habilidad) — Hacer caer al suelo a una criatura. (Atletismo)
+**Derribar** {% include accion.html tipo="1" %} (acción de habilidad) — Hacer caer al suelo a una criatura. (Atletismo)
 
 **derribo** (rasgo de arma)
 
 **derribo a distancia** (rasgo de arma)
 
-**Desarmar** ◆ (acción de habilidad) — Hacer que una criatura deje caer un objeto. (Atletismo, entrenado)
+**Desarmar** {% include accion.html tipo="1" %} (acción de habilidad) — Hacer que una criatura deje caer un objeto. (Atletismo, entrenado)
 
 **desarme** (rasgo de arma)
 
@@ -362,7 +362,7 @@ source: PC1
 
 **deslumbrado** (estado) — Todo está oculto de ti.
 
-**Desmoralizar** ◆ (acción de habilidad) — Asustar a tus enemigos. (Intimidación)
+**Desmoralizar** {% include accion.html tipo="1" %} (acción de habilidad) — Asustar a tus enemigos. (Intimidación)
 
 **desprevenido** (estado) — Sufres un penalizador -2 por circunstancia a la CA.
 
@@ -370,7 +370,7 @@ source: PC1
 
 **desventura** (rasgo)
 
-**Desviar la mirada** ◆ (acción básica de especialidad) — Evitar las aptitudes visuales.
+**Desviar la mirada** {% include accion.html tipo="1" %} (acción básica de especialidad) — Evitar las aptitudes visuales.
 
 **detección** (rasgo) — Los efectos con este rasgo tratan de determinar la presencia o la ubicación de una persona, objeto o aura.
 
@@ -394,7 +394,7 @@ source: PC1
 
 **disimulado** (rasgo) — Un conjuro con el rasgo disimulado se puede lanzar sin encantamientos y no tiene manifestaciones obvias.
 
-**Disipar** ◆ (acción básica de especialidad) — Acabar con un efecto que puede ser Disipado.
+**Disipar** {% include accion.html tipo="1" %} (acción básica de especialidad) — Acabar con un efecto que puede ser Disipado.
 
 **disipar** — Ver también contrarrestar.
 
@@ -448,7 +448,7 @@ source: PC1
 
 **emoción** (rasgo) — Este efecto altera las emociones de una criatura. Los efectos con este rasgo siempre tienen también el rasgo mental. Las criaturas con entrenamiento especial o que disponen de inteligencia artificial o mecánica son inmunes a dichos efectos.
 
-**Empujar** ◆ (acción de habilidad) — Empujar a una criatura. (Atletismo)
+**Empujar** {% include accion.html tipo="1" %} (acción de habilidad) — Empujar a una criatura. (Atletismo)
 
 **empujón** (rasgo de arma)
 
@@ -474,9 +474,9 @@ source: PC1
 
 **esbirro** (rasgo)
 
-**Escamotear un objeto** ◆ (acción de habilidad) — Llevarse un objeto sin que nadie se dé cuenta. (Latrocinio)
+**Escamotear un objeto** {% include accion.html tipo="1" %} (acción de habilidad) — Llevarse un objeto sin que nadie se dé cuenta. (Latrocinio)
 
-**Esconderse** ◆ (acción de habilidad) — Pasar al estado escondido. (Sigilo)
+**Esconderse** {% include accion.html tipo="1" %} (acción de habilidad) — Pasar al estado escondido. (Sigilo)
 
 **escondido** (estado) — Una criatura conoce tu ubicación pero no puede verte.
 
@@ -484,7 +484,7 @@ source: PC1
 
 **escudriñamiento** (rasgo) — Un efecto de escudriñamiento te permite ver, oír u obtener de alguna otra forma información sensorial a distancia utilizando un sensor o aparato en lugar de tus propios ojos y oídos.
 
-**Escurrirse** ◆ (acción de habilidad) — Atravesar una grieta mientras se explora.
+**Escurrirse** {% include accion.html tipo="1" %} (acción de habilidad) — Atravesar una grieta mientras se explora.
 
 **espacio** — El espacio que ocupa el cuerpo de la criatura y las casillas que una criatura ocupa en un tablero.
 
@@ -502,7 +502,7 @@ source: PC1
 
 **Evitar ser visto** (actividad de exploración) — Viajar de forma sigilosa.
 
-**Excavar** ◆ (acción básica de especialidad) — Mover tu Velocidad de excavar.
+**Excavar** {% include accion.html tipo="1" %} (acción básica de especialidad) — Mover tu Velocidad de excavar.
 
 **éxito** — Un resultado en una prueba que es mayor igual que la CD. Superar la CD en 10 o más es aún mejor: un éxito crítico. Si un bloque de estadísticas carece de la entrada éxito, no hay efecto alguno con un éxito.
 
@@ -540,7 +540,7 @@ source: PC1
 
 **fijada** (rasgo de arma)
 
-**Finta** ◆ (acción de habilidad) — Engañar a alguien. (Engaño, entrenado)
+**Finta** {% include accion.html tipo="1" %} (acción de habilidad) — Engañar a alguien. (Engaño, entrenado)
 
 **físico** (tipo de daño) — Un agrupamiento de daño contundente, perforante y cortante.
 
@@ -558,7 +558,7 @@ source: PC1
 
 **fortuna** (rasgo)
 
-**Forzar una cerradura** ◆◆ (acción de habilidad) — Abrir una cerradura. (Latrocinio, entrenado)
+**Forzar una cerradura** {% include accion.html tipo="2" %} (acción de habilidad) — Abrir una cerradura. (Latrocinio, entrenado)
 
 **frecuencia** — Una aptitud que no se puede usar a Voluntad podría indicar una frecuencia.
 
@@ -582,7 +582,7 @@ source: PC1
 
 **Gargantuesco** (tamaño)
 
-**Gatear** ◆ (acción básica) — Moverse 5 pies (1,5 m) estando tumbado.
+**Gatear** {% include accion.html tipo="1" %} (acción básica) — Moverse 5 pies (1,5 m) estando tumbado.
 
 **gemela** (rasgo de arma)
 
@@ -598,7 +598,7 @@ source: PC1
 
 **Golarion** — Golarion es el mundo más importante del escenario de campaña de los Presagios Perdidos.
 
-**Golpe** ◆ (acción básica) — Llevar a cabo un ataque físico.
+**Golpe** {% include accion.html tipo="1" %} (acción básica) — Llevar a cabo un ataque físico.
 
 **grados de éxito** — Los cuatro desenlaces posibles de una prueba: éxito crítico, éxito, fallo y fallo crítico.
 
@@ -638,7 +638,7 @@ source: PC1
 
 **hryngar** (rasgo) — Parientes subterráneos de los enanos, los hryngars suelen tener visión en la oscuridad, resisten al veneno y retroceden ante la luz brillante.
 
-**Huir** ◆ (acción básica) — Intento de liberarse cuando se está inmovilizado.
+**Huir** {% include accion.html tipo="1" %} (acción básica) — Intento de liberarse cuando se está inmovilizado.
 
 **humano** (rasgo) — Una criatura con este rasgo es un miembro de la ascendencia de los humanos. Los humanos conforman un amplio abanico de gente conocida por su adaptabilidad. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por humanos.
 
@@ -688,17 +688,17 @@ source: PC1
 
 **Inteligencia** (Int) — Este modificador por atributo mide tu raciocinio y tu intelecto.
 
-**Interactuar** ◆ (acción básica) — Agarrar o manipular un objeto.
+**Interactuar** {% include accion.html tipo="1" %} (acción básica) — Agarrar o manipular un objeto.
 
 **Interpretación** (habilidad) — Usar tus talentos para un espectáculo. (Car)
 
 **interpretación** — Describir las acciones de un PJ, a menudo cuando se actúa desde la perspectiva del mismo.
 
-**Interpretar** ◆ (acción de habilidad) — Impresionar interpretando. (Interpretación)
+**Interpretar** {% include accion.html tipo="1" %} (acción de habilidad) — Impresionar interpretando. (Interpretación)
 
 **Intimidación** (habilidad) — Doblegar a otros a tu voluntad utilizando amenazas. (Car)
 
-**Inutilizar mecanismo** ◆◆ (acción de habilidad) — Inutilizar una trampa o mecanismo complejo similar. (Latrocinio, entrenado)
+**Inutilizar mecanismo** {% include accion.html tipo="2" %} (acción de habilidad) — Inutilizar una trampa o mecanismo complejo similar. (Latrocinio, entrenado)
 
 **Investigar** (actividad de exploración) — Estudiar lo que te rodea.
 
@@ -776,17 +776,17 @@ source: PC1
 
 **malintencionado** (estado) — A un PNJ malintencionado no le caes bien.
 
-**Maniobrar en vuelo** ◆ (acción de habilidad) — Ejecutar un movimiento difícil mientras vuelas. (Acrobacias, entrenado)
+**Maniobrar en vuelo** {% include accion.html tipo="1" %} (acción de habilidad) — Ejecutar un movimiento difícil mientras vuelas. (Acrobacias, entrenado)
 
 **manipular** (rasgo) — Tienes que manipular físicamente un objeto o hacer gestos para usar una acción con este rasgo. Las criaturas que carecen de un apéndice adecuado no pueden llevar a cabo acciones con este rasgo. Las acciones de manipular a menudo desencadenan reacciones.
 
 **mano libre** (rasgo de arma)
 
-**Mantener el equilibrio** ◆ (acción de habilidad) — Moverse sobre una superficie estrecha o inestable. (Acrobacias)
+**Mantener el equilibrio** {% include accion.html tipo="1" %} (acción de habilidad) — Moverse sobre una superficie estrecha o inestable. (Acrobacias)
 
 **Mantener un efecto** (actividad de exploración) — Mantener un efecto de forma repetitiva mientras te mueves.
 
-**Mantener** ◆ (acción básica de especialidad) — Prolongar la duración de un efecto que puede ser Mantenido.
+**Mantener** {% include accion.html tipo="1" %} (acción básica de especialidad) — Prolongar la duración de un efecto que puede ser Mantenido.
 
 **mantenido** — Un conjuro con esta duración se puede prolongar mediante la acción básica de especialidad Mantener.
 
@@ -830,7 +830,7 @@ source: PC1
 
 **monstruo** — Una criatura que sirve para frustrar de alguna forma a los PJs. Los monstruos beneficiosos son una excepción en la mayoría de partidas. El DJ interpreta el papel de cualquier monstruo con el que se encuentran los PJs.
 
-**Montar** ◆ (acción básica de especialidad) — Montar a una criatura aliada.
+**Montar** {% include accion.html tipo="1" %} (acción básica de especialidad) — Montar a una criatura aliada.
 
 **montura** — Un compañero animal con esta aptitud especial apoya a su jinete.
 
@@ -844,7 +844,7 @@ source: PC1
 
 **movimiento forzado**
 
-**Movimiento furtivo** ◆ (acción de habilidad) — Moverse sin hacer ruido estando escondido. (Sigilo)
+**Movimiento furtivo** {% include accion.html tipo="1" %} (acción de habilidad) — Moverse sin hacer ruido estando escondido. (Sigilo)
 
 **muerte** (rasgo) — Un efecto con el rasgo muerte te mata de inmediato si te reduce a 0 PG. Algunos efectos de muerte te pueden llevar más cerca de la muerte o matarte directamente sin reducirte a 0 PG.
 
@@ -860,7 +860,7 @@ source: PC1
 
 ## N
 
-**Nadar** ◆ (acción de habilidad) — Moverse por el agua. (Atletismo)
+**Nadar** {% include accion.html tipo="1" %} (acción de habilidad) — Moverse por el agua. (Atletismo)
 
 **Naturaleza** (habilidad) — Conocer las tierras vírgenes y la magia primigenia. (Sab)
 
@@ -902,7 +902,7 @@ source: PC1
 
 **ocultable** (rasgo de arma)
 
-**Ocultar un objeto** ◆ (acción de habilidad) — Esconder un objeto. (Sigilo)
+**Ocultar un objeto** {% include accion.html tipo="1" %} (acción de habilidad) — Esconder un objeto. (Sigilo)
 
 **Ocultismo** (habilidad) — Conocer filosofías y magia ocultista. (Int)
 
@@ -926,13 +926,13 @@ source: PC1
 
 **paralizado** (estado) — No puedes moverte ni defenderte a ti mismo por completo.
 
-**Pasar haciendo Acrobacias** ◆ (acción de habilidad) — Atravesar el espacio de alguien. (Acrobacias)
+**Pasar haciendo Acrobacias** {% include accion.html tipo="1" %} (acción de habilidad) — Atravesar el espacio de alguien. (Acrobacias)
 
-**Paso** ◆ (acción básica) — Moverse 5 pies (1,5 m) sin desencadenar reacciones.
+**Paso** {% include accion.html tipo="1" %} (acción básica) — Moverse 5 pies (1,5 m) sin desencadenar reacciones.
 
 **pc** (pieza de cobre)
 
-**Pedir** ◆ (acción de habilidad) — Conseguir que alguien te ayude. (Diplomacia)
+**Pedir** {% include accion.html tipo="1" %} (acción de habilidad) — Conseguir que alguien te ayude. (Diplomacia)
 
 **Pedir prestado un conjuro arcano** (acción de habilidad) — Obtener acceso temporalmente a un conjuro arcano. (Arcanos, entrenado)
 
@@ -1004,9 +1004,9 @@ source: PC1
 
 **polimorfía** (rasgo)
 
-**Ponerse a cubierto** ◆ (acción básica) — Obtener cobertura o mejorarla.
+**Ponerse a cubierto** {% include accion.html tipo="1" %} (acción básica) — Obtener cobertura o mejorarla.
 
-**Ponerse de pie** ◆ (acción básica) — Levantarse estando tumbado.
+**Ponerse de pie** {% include accion.html tipo="1" %} (acción básica) — Levantarse estando tumbado.
 
 **posesión** (rasgo) — Los efectos con este rasgo permiten a una criatura proyectar su mente y su espíritu a un objetivo. Una criatura inmune a los efectos mentales no puede utilizar un efecto de posesión. Mientras posee a un objetivo, el cuerpo verdadero de un posesor permanece inconsciente (y no se puede despertar de forma normal) si el efecto de posesión no permite a la criatura entrar físicamente en su objetivo. Si el objetivo sufre daño, el posesor sufre la mitad del mismo como daño mental. Un posesor pierde los beneficios de cualquiera de sus conjuros o aptitudes activos que afectan a su cuerpo físico, aunque obtiene los beneficios de los conjuros y aptitudes activos del objetivo que afectan a su cuerpo. Un posesor puede usar cualquiera de las aptitudes puramente físicas del objetivo y no puede usar las suyas excepto los conjuros y las aptitudes puramente mentales. El DJ es quien decide si una aptitud es puramente física o puramente mental. Un posesor utiliza el modificador al ataque del objetivo, su CA, salvación de Fortaleza, salvación de Reflejos, Percepción y habilidades físicas, y su propia salvación de Voluntad, habilidades mentales, modificador al ataque de conjuros y CD de conjuros; los beneficios de los objetos investidos se aplican donde es relevante (los objetos investidos del posesor se aplican cuando usan sus propios valores y los objetos investidos del objetivo se aplican cuando usan los valores del objetivo). Un posesor no obtiene beneficio alguno de lanzar conjuros que normalmente afectarían al lanzador, puesto que no se encuentra en su propio cuerpo. El posesor tiene que utilizar sus propias acciones para hacer actuar a la criatura poseída. Si un posesor llega a 0 Puntos de Golpe a través de cualquier combinación de daño sufrido por su cuerpo verdadero y daño mental debido a la posesión, queda noqueado de la forma habitual y la posesión se acaba de inmediato. Si el objetivo llega a 0 Puntos de Golpe primero el posesor puede, o bien quedar inconsciente con el cuerpo y continuar la posesión, o acabar el efecto como acción gratuita y volver a su cuerpo. Si el objetivo muere, la posesión se acaba de inmediato y el posesor queda aturdido durante 1 minuto.
 
@@ -1024,7 +1024,7 @@ source: PC1
 
 **Prestar ayuda** ↺ (acción básica) — Mejorar la prueba de habilidad o el ataque de un aliado.
 
-**Preparar** ◆◆ (acción básica) — Preparar una acción para utilizarla fuera de tu turno.
+**Preparar** {% include accion.html tipo="2" %} (acción básica) — Preparar una acción para utilizarla fuera de tu turno.
 
 **preparativos** — Ver también preparativos diarios.
 
@@ -1032,11 +1032,11 @@ source: PC1
 
 **prerrequisitos**
 
-**Presa** ◆ (acción de habilidad) — Agarrar o neutralizar a una criatura. (Atletismo)
+**Presa** {% include accion.html tipo="1" %} (acción de habilidad) — Agarrar o neutralizar a una criatura. (Atletismo)
 
 **presa** (rasgo de arma)
 
-**Primeros auxilios** ◆◆ (acción de habilidad) — Estabilizar a una criatura moribunda o detener una hemorragia. (Medicina)
+**Primeros auxilios** {% include accion.html tipo="2" %} (acción de habilidad) — Estabilizar a una criatura moribunda o detener una hemorragia. (Medicina)
 
 **primigenio** (rasgo) — Esta magia procede de la tradición primigenia, que conecta con el mundo natural y con los instintos. Cualquier cosa con este rasgo es mágica.
 
@@ -1112,7 +1112,7 @@ source: PC1
 
 **repetir** — Una aptitud que te hace repetir una tirada tiene el rasgo fortuna o desventura.
 
-**Reposicionar** ◆ (acción de habilidad) — Mover a una criatura dentro de tu alcance.
+**Reposicionar** {% include accion.html tipo="1" %} (acción de habilidad) — Mover a una criatura dentro de tu alcance.
 
 **requisitos**
 
@@ -1120,7 +1120,7 @@ source: PC1
 
 **resultado de una prueba**
 
-**Retrasar** ◇ (acción básica) — Llevar a cabo tu turno más tarde.
+**Retrasar** {% include accion.html tipo="libre" %} (acción básica) — Llevar a cabo tu turno más tarde.
 
 **Reunir información** (acción de habilidad) — Socializar para averiguar cosas. (Diplomacia)
 
@@ -1152,11 +1152,11 @@ source: PC1
 
 **salpicadura** (rasgo)
 
-**Saltar** ◆ (acción básica) — Saltar horizontalmente 10 pies (15 pies si tu Velocidad es de 30 pies o más [3 m, 4,5 m y 9 m respectivamente]) o verticalmente 3 pies y horizontalmente 5 pies (90 cm y 1,5 m respectivamente).
+**Saltar** {% include accion.html tipo="1" %} (acción básica) — Saltar horizontalmente 10 pies (15 pies si tu Velocidad es de 30 pies o más [3 m, 4,5 m y 9 m respectivamente]) o verticalmente 3 pies y horizontalmente 5 pies (90 cm y 1,5 m respectivamente).
 
-**Salto de altura** ◆◆ (acción de habilidad) — Saltar en vertical. (Atletismo)
+**Salto de altura** {% include accion.html tipo="2" %} (acción de habilidad) — Saltar en vertical. (Atletismo)
 
-**Salto de longitud** ◆◆ (acción de habilidad) — Saltar en horizontal. (Atletismo)
+**Salto de longitud** {% include accion.html tipo="2" %} (acción de habilidad) — Saltar en horizontal. (Atletismo)
 
 **salvación, tirada de**
 
@@ -1184,7 +1184,7 @@ source: PC1
 
 **Sentir la dirección** (acción de habilidad) — Determinar tu ubicación. (Supervivencia)
 
-**Señalar** ◆ (acción básica de especialidad) — Indicar la ubicación de una criatura no detectada.
+**Señalar** {% include accion.html tipo="1" %} (acción básica de especialidad) — Indicar la ubicación de una criatura no detectada.
 
 **servicios**
 
@@ -1200,7 +1200,7 @@ source: PC1
 
 **solícito** (estado) — Es probable que un PNJ solícito te ayude.
 
-**Soltar** ◇ (acción básica) — Dejar de sostener algo que tienes en la mano.
+**Soltar** {% include accion.html tipo="libre" %} (acción básica) — Dejar de sostener algo que tienes en la mano.
 
 **sombra** (rasgo) — La magia con este rasgo implica las sombras o la energía del Inframundo.
 
@@ -1218,7 +1218,7 @@ source: PC1
 
 **sustancias alquímicas**
 
-**Sustraer** ◆ (acción de habilidad) — Echarle el guante a un objeto. (Latrocinio)
+**Sustraer** {% include accion.html tipo="1" %} (acción de habilidad) — Echarle el guante a un objeto. (Latrocinio)
 
 **sutil** (rasgo de arma)
 
@@ -1266,15 +1266,15 @@ source: PC1
 
 **Tratar heridas** (acción de habilidad) — Restablecer Puntos de Golpe. (Medicina, entrenado)
 
-**Tratar veneno** ◆ (acción de habilidad) — Ayudar a recuperarse a un paciente envenenado. (Medicina, entrenado)
+**Tratar veneno** {% include accion.html tipo="1" %} (acción de habilidad) — Ayudar a recuperarse a un paciente envenenado. (Medicina, entrenado)
 
-**Trepar** ◆ (acción de habilidad) — Moverse a lo largo de una pendiente o superficie vertical.
+**Trepar** {% include accion.html tipo="1" %} (acción de habilidad) — Moverse a lo largo de una pendiente o superficie vertical.
 
 **truco** (rasgo) — Un conjuro que lanzas a voluntad, potenciado automáticamente a la mitad de tu nivel redondeado hacia arriba.
 
 **tumbado** (estado) — Estás tirado en el suelo.
 
-**Tumbarse** ◆ (acción básica) — Dejarse caer al suelo.
+**Tumbarse** {% include accion.html tipo="1" %} (acción básica) — Dejarse caer al suelo.
 
 **turno** — Durante un asalto en un encuentro, cada criatura lleva a cabo un turno, que normalmente consta de 3 acciones.
 
@@ -1320,7 +1320,7 @@ source: PC1
 
 **vitalidad** (tipo de daño)
 
-**Volar** ◆ (acción básica de especialidad) — Mover tu Velocidad de vuelo.
+**Volar** {% include accion.html tipo="1" %} (acción básica de especialidad) — Mover tu Velocidad de vuelo.
 
 **volea** (rasgo de arma)
 
@@ -1328,4 +1328,4 @@ source: PC1
 
 ## Z
 
-**Zancada** ◆ (acción básica) — Moverte hasta tu velocidad.
+**Zancada** {% include accion.html tipo="1" %} (acción básica) — Moverte hasta tu velocidad.

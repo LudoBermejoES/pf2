@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
-## Maldición del Paria ◆◆ [CONJURO 4]
+## Maldición del Paria {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

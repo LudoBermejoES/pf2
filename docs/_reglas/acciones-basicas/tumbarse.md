@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Tumbarse ◆
+## Tumbarse {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**
 

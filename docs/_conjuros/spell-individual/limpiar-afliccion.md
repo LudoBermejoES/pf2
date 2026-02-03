@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Limpiar Afliccion ◆◆ [CONJURO 2]
+## Limpiar Afliccion {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria

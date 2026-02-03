@@ -509,7 +509,7 @@ Obtienes una dote de espadachín de nivel 1 o 2 a tu elección.
 
 Has aprendido a asestar golpes atrevidos cuando tienes desparpajo. Obtienes la característica de clase golpe preciso pero infliges 1 de daño de precisión adicional en un golpe y 1d6 de daño de precisión en un remate. Este daño no aumenta al subir de nivel. Además, obtienes la acción Remate básico.
 
-**Remate básico · ◆**
+**Remate básico · {% include accion.html tipo="1" %}**
 
 **Rasgos:** Remate, Espadachín
 

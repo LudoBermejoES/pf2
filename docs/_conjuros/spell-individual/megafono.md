@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
-## Megáfono ◆◆ [TRUCO 1]
+## Megáfono {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Duración:** 10 minutos

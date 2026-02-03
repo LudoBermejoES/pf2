@@ -76,7 +76,7 @@ Siempre tomas lo que te place, sin importar a quién hiera.
 
 **Edictos:** Subvierte o corrompe todo lo puro o sagrado que encuentres en tu camino, siembra duda entre quienes sostienen ideales de pureza o santidad.
 
-**Escudo egoísta · ◇**
+**Escudo egoísta · {% include accion.html tipo="libre" %}**
 
 **Desencadenante:** Un enemigo en tu aura de campeón te inflige daño.
 
@@ -94,7 +94,7 @@ La resplandeciente grandeza de los reinos celestiales te inspira.
 
 **Anatema:** Mancharte asociándote con diablos y fuerzas profanas.
 
-**Destello de grandeza · ◇**
+**Destello de grandeza · {% include accion.html tipo="libre" %}**
 
 **Desencadenante:** Un enemigo daña a tu aliado, y ambos están en tu aura de campeón.
 
@@ -112,7 +112,7 @@ Eres deshonroso, deshonesto y estás comprometido con quebrar las falsas esperan
 
 **Anatema:** Atarte con una ley distinta de la que requiere tu deidad.
 
-**Venganza destructiva · ◇**
+**Venganza destructiva · {% include accion.html tipo="libre" %}**
 
 **Desencadenante:** Un enemigo en tu aura de campeón te inflige daño.
 
@@ -130,7 +130,7 @@ Buscas la justicia, siguiendo la ley y castigando a los transgresores.
 
 **Anatema:** Aprovecharte de otro, engañar.
 
-**Golpe retributivo · ◇**
+**Golpe retributivo · {% include accion.html tipo="libre" %}**
 
 **Desencadenante:** Un enemigo daña a tu aliado, y ambos están en tu aura de campeón.
 
@@ -148,7 +148,7 @@ Verás a todas las personas libres de ataduras y prohibiciones.
 
 **Anatema:** Obligar o amenazar a alguien para que actúe de cierta manera, participar en esclavitud o tiranía.
 
-**Paso liberador · ◇**
+**Paso liberador · {% include accion.html tipo="libre" %}**
 
 **Desencadenante:** Un enemigo daña, agarra o restriñe a tu aliado, y ambos están en tu aura de campeón.
 
@@ -166,7 +166,7 @@ La sociedad está ordenada con buen motivo, y las personas deben comportarse ade
 
 **Anatema:** Permitir que alguien inferior a ti ejerza poder sobre ti o te dirija.
 
-**Orden férrea · ◇**
+**Orden férrea · {% include accion.html tipo="libre" %}**
 
 **Rasgos:** Emoción, Mental
 
@@ -186,7 +186,7 @@ Haces todo intento por redimir a quienes otros podrían matar o desechar.
 
 **Anatema:** Matar a un enemigo sapiente sin ofrecer antes una oportunidad de redención.
 
-**Vislumbre de redención · ◇**
+**Vislumbre de redención · {% include accion.html tipo="libre" %}**
 
 **Desencadenante:** Un enemigo daña a tu aliado, y ambos están en tu aura de campeón.
 

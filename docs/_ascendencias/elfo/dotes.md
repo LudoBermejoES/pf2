@@ -140,7 +140,7 @@ Cuando los efectos de Longevidad ancestral y Longevidad experta expiran, puedes 
 
 ---
 
-### Paso elfo ◆
+### Paso elfo {% include accion.html tipo="1" %}
 **Dote 9** · Elfo
 
 Te mueves en una danza grácil, e incluso tus pasos son amplios.
@@ -173,7 +173,7 @@ Has pasado gran parte de tu vida en las copas de los árboles y te has vuelto un
 
 ## Nivel 13
 
-### Longevidad universal ◆
+### Longevidad universal {% include accion.html tipo="1" %}
 **Dote 13** · Elfo, Fortuna
 
 **Prerrequisitos:** Longevidad ancestral
@@ -185,7 +185,7 @@ Has perfeccionado tu capacidad para mantenerte al día en todas las habilidades 
 
 ---
 
-### Vengar aliado ◆
+### Vengar aliado {% include accion.html tipo="1" %}
 **Dote 13** · Elfo, Fortuna
 
 **Frecuencia:** Una vez cada 10 minutos

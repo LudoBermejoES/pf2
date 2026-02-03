@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Arruinaconjuros ◆◆ [CONJURO 6]
+## Arruinaconjuros {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

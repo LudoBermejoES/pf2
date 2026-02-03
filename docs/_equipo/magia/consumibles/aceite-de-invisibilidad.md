@@ -19,7 +19,7 @@ source: PC2
 
 Este aceite transparente vuelve invisible a cualquier cosa que toque.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Aplicas el aceite a una criatura o un objeto de hasta Impedimenta 2. El objetivo se vuelve invisible durante 10 minutos. Si es una criatura, la invisibilidad termina si realiza un ataque o lanza un conjuro hostil.
 

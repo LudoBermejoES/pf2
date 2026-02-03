@@ -24,7 +24,7 @@ El fuego te fascina.
 
 ---
 
-### Canción goblin ◆
+### Canción goblin {% include accion.html tipo="1" %}
 **Dote 1** - Goblin
 
 Cantas molestas canciones goblin, distrayendo a tus enemigos con rimas tontas y repetitivas.
@@ -63,7 +63,7 @@ A 5.o nivel, siempre que obtienes un impacto critico con una de estas armas, obt
 
 ---
 
-### Huida goblin ◆
+### Huida goblin {% include accion.html tipo="1" %}
 **Dote 1** - Goblin · Reacción
 
 **Desencadenante:** Un aliado acaba una acción de movimiento adyacente a ti.
@@ -131,7 +131,7 @@ Afinar, controlar la respiración adecuadamente y recordar la letra son cosas mu
 
 ---
 
-### Rodilla ◆
+### Rodilla {% include accion.html tipo="1" %}
 **Dote 5** - Goblin
 
 Asestas un tremendo golpe a la rodilla, la espinilla u otra parte vulnerable a tu alcance de la anatomia de un enemigo.
@@ -155,7 +155,7 @@ Ademas, siempre que aciertas con un Golpe contra una trampa o un objeto desatend
 
 ## Nivel 9
 
-### Aferrarse ◆
+### Aferrarse {% include accion.html tipo="1" %}
 **Dote 9** - Goblin
 
 **Requisitos:** Tu ultima acción ha sido un Golpe con éxito y tienes una mano libre.
@@ -201,7 +201,7 @@ Después de anos de arrastrarte por cavernas, puedes trepar facilmente a cualqui
 
 ## Nivel 17
 
-### Abandono temerario ◆
+### Abandono temerario {% include accion.html tipo="1" %}
 **Dote 17** - Fortuna, Goblin
 
 **Frecuencia:** Una vez al dia

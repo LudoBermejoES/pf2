@@ -114,7 +114,7 @@ Puedes utilizar tu conocimiento de la ingeniería y de la metalisteria para refo
 
 ---
 
-### Rodar la roca ◆◆
+### Rodar la roca {% include accion.html tipo="2" %}
 **Dote 5** - Enano
 
 **Prerrequisitos:** Corredor de las rocas
@@ -151,7 +151,7 @@ Si tambien dispones de la dote Dureza, los Puntos de Golpe obtenidos de ella y l
 
 ---
 
-### Ecos en la piedra ◆
+### Ecos en la piedra {% include accion.html tipo="1" %}
 **Dote 9** - Enano, Concentrar
 
 **Requisitos:** Estas de pie sobre una superficie de piedra o de tierra.
@@ -162,7 +162,7 @@ Te detienes un instante para sintonizar tus sentidos con la piedra que te rodea.
 
 ---
 
-### Huesos de piedra ◆◆◆
+### Huesos de piedra {% include accion.html tipo="3" %}
 **Dote 9** - Enano
 
 **Reacción**
@@ -186,7 +186,7 @@ Canalizas la fuerza de la tierra que hay bajo tus pies para machacar a tus enemi
 
 ---
 
-### Recorrer las minas ◆◆
+### Recorrer las minas {% include accion.html tipo="2" %}
 **Dote 13** - Enano
 
 Atraviesas la tierra y llevas contigo a un aliado.
@@ -197,7 +197,7 @@ Atraviesas la tierra y llevas contigo a un aliado.
 
 ## Nivel 17
 
-### Muro de roca ◆◆◆
+### Muro de roca {% include accion.html tipo="3" %}
 **Dote 17** - Enano, Polimorfia, Tierra
 
 **Reacción**

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
-## Portal ◆◆ [CONJURO 10]
+## Portal {% include accion.html tipo="2" %} [CONJURO 10]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 120 pies (36 m)

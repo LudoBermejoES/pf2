@@ -25,7 +25,7 @@ Los vikingos pasan largos periodos en el mar, para luego saltar de sus barcos en
 
 Al usar tu Velocidad terrestre, ignoras el terreno difícil por agua poco profunda, como en pantanos o playas. Además, si obtienes un éxito en una prueba de Atletismo para Nadar, obtienes un éxito crítico en su lugar.
 
-### Carga lanzando · ◆◆ · Dote 4
+### Carga lanzando · {% include accion.html tipo="2" %} · Dote 4
 
 **Rasgos:** Arquetipo
 
@@ -47,7 +47,7 @@ Desde la infancia, te has expuesto a las técnicas de combate vikingas tradicion
 
 En el 5.º nivel, siempre que obtienes un impacto crítico con una de estas armas, obtienes su efecto de especialización crítica.
 
-### Segundo escudo · ◇ · Dote 6
+### Segundo escudo · {% include accion.html tipo="libre" %} · Dote 6
 
 **Rasgos:** Arquetipo
 
@@ -59,7 +59,7 @@ Estás acostumbrado a que tu escudo se rompa en mitad de la batalla, y estás pr
 
 Si hay un objeto a tu alcance que pueda servir como escudo improvisado (por ejemplo, una mesa o una silla), puedes Interactuar para cogerlo con esta dote. El DJ determina si algo puede usarse como escudo improvisado. Tu nuevo escudo no está alzado hasta que uses la acción Alzar escudo, como es normal.
 
-### A la refriega · ◆◆ · Dote 8
+### A la refriega · {% include accion.html tipo="2" %} · Dote 8
 
 **Rasgos:** Arquetipo
 

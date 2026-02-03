@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
-## Sinestesia ◆◆ [5]
+## Sinestesia {% include accion.html tipo="2" %} [5]
 
 **Tradiciones:** ocultista
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura

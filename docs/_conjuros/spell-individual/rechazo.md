@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Rechazo ◆◆ [CONJURO 6]
+## Rechazo {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista
 **Área:** emanación de hasta 40 pies (12 m); **Defensa:** Voluntad; **Duración:** 1 minuto

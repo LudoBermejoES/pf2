@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Disipar ◆
+## Disipar {% include accion.html tipo="1" %}
 
 **Rasgos:** Concentrar
 

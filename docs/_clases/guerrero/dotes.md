@@ -15,7 +15,7 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 
 ## Nivel 1
 
-### Ataque Imprevisto ◆
+### Ataque Imprevisto {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Guerrero*
@@ -26,7 +26,7 @@ Combinas un ataque con movimientos rápidos de presa para desequilibrar a un ene
 
 ---
 
-### Carga Repentina ◆◆
+### Carga Repentina {% include accion.html tipo="2" %}
 **Dote 1**
 
 *Floritura, Guerrero*
@@ -35,7 +35,7 @@ Con una rápida carrera, llegas hasta un enemigo y le atacas. Da dos Zancadas. S
 
 ---
 
-### Doble Tajo ◆◆
+### Doble Tajo {% include accion.html tipo="2" %}
 **Dote 1**
 
 *Guerrero*
@@ -61,7 +61,7 @@ Puedes colocar tu escudo en su lugar cuando te llevarías un golpe, evitando el 
 
 ---
 
-### Evaluación de Combate ◆
+### Evaluación de Combate {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Guerrero*
@@ -70,7 +70,7 @@ Llevas a cabo un ataque telegrafiado para aprender cosas acerca de tu enemigo. D
 
 ---
 
-### Golpe Cruel ◆◆
+### Golpe Cruel {% include accion.html tipo="2" %}
 **Dote 1**
 
 *Floritura, Guerrero*
@@ -79,7 +79,7 @@ Desatas un ataque particularmente potente, que machaca a tu enemigo pero que te 
 
 ---
 
-### Golpe Riguroso ◆
+### Golpe Riguroso {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Aprovechar, Guerrero*
@@ -90,7 +90,7 @@ Llevas a cabo un ataque de continuación controlado, aprovechando por completo t
 
 ---
 
-### Posición a Quemarropa ◆
+### Posición a Quemarropa {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Guerrero, Posición*
@@ -103,7 +103,7 @@ Apuntas para eliminar rápidamente a enemigos cercanos. Cuando utilizas un arma 
 
 ## Nivel 2
 
-### Acometer ◆
+### Acometer {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Guerrero*
@@ -114,7 +114,7 @@ Atacas a un enemigo al límite de tu alcance. Da un Golpe con un arma cuerpo a c
 
 ---
 
-### Agarrón de Combate ◆
+### Agarrón de Combate {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Aprovechar, Guerrero*
@@ -125,7 +125,7 @@ Utilizando tu ataque anterior para cambiar la guardia de tu oponente, lanzas otr
 
 ---
 
-### Bloqueo Agresivo ◇
+### Bloqueo Agresivo {% include accion.html tipo="libre" %}
 **Dote 2**
 
 *Guerrero*
@@ -136,7 +136,7 @@ Empujas a la vez que bloqueas, derribando a tu enemigo o desequilibrándolo. Uti
 
 ---
 
-### Cambio Relámpago ◆
+### Cambio Relámpago {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Floritura, Guerrero*
@@ -145,7 +145,7 @@ Has practicado cambiar rápidamente de estilo de combate y el equipo necesario p
 
 ---
 
-### Disparo de Ayuda ◆
+### Disparo de Ayuda {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Aprovechar, Guerrero*
@@ -156,7 +156,7 @@ Utilizando tu disparo anterior para calibrar tu puntería, puedes hacer un dispa
 
 ---
 
-### Empujón Brutal ◆
+### Empujón Brutal {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Aprovechar, Guerrero*
@@ -182,7 +182,7 @@ Clavas el arma en un suelo, pared u otra superficie recia, anclándote dónde es
 
 ---
 
-### Golpe Intimidante ◆◆
+### Golpe Intimidante {% include accion.html tipo="2" %}
 **Dote 2**
 
 *Emoción, Guerrero, Mental, Miedo*
@@ -191,7 +191,7 @@ Tu ataque no tan solo hiere a las criaturas, sino que también resquebraja su co
 
 ---
 
-### Lanzamiento de Rebote ◆◆
+### Lanzamiento de Rebote {% include accion.html tipo="2" %}
 **Dote 2**
 
 *Floritura, Guerrero*
@@ -202,7 +202,7 @@ Haces rebotar tu arma en un enemigo para que impacte en otro. Da un Golpe a dist
 
 ---
 
-### Parada de Duelo ◆
+### Parada de Duelo {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Guerrero*
@@ -213,7 +213,7 @@ Puedes parar ataques dirigidos contra ti con tu arma a una mano. Obtienes un bon
 
 ---
 
-### Reposicionamiento Elegante ◆
+### Reposicionamiento Elegante {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Aprovechar, Guerrero*
@@ -230,7 +230,7 @@ Este Golpe tiene el siguiente efecto de fallo.
 
 ## Nivel 4
 
-### Asalto a Dos Manos ◆
+### Asalto a Dos Manos {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Floritura, Guerrero*
@@ -241,7 +241,7 @@ Mueves rápidamente la mano libre para agarrar tu arma lo suficiente como para a
 
 ---
 
-### Barrido ◆◆
+### Barrido {% include accion.html tipo="2" %}
 **Dote 4**
 
 *Floritura, Guerrero*
@@ -252,7 +252,7 @@ Si estás usando un arma con el rasgo barrido, su modificador se aplica a todos 
 
 ---
 
-### Carga de Empujón ◆◆
+### Carga de Empujón {% include accion.html tipo="2" %}
 **Dote 4**
 
 *Floritura, Guerrero*
@@ -263,7 +263,7 @@ Te lanzas hacia adelante, apartando a un lado a otros enemigos hasta llegar al q
 
 ---
 
-### Derribar ◆◆
+### Derribar {% include accion.html tipo="2" %}
 **Dote 4**
 
 *Floritura, Guerrero*
@@ -274,7 +274,7 @@ Llevas a cabo un ataque para desequilibrar a un enemigo, y después sigues de in
 
 ---
 
-### Disparo de Despedida ◆◆
+### Disparo de Despedida {% include accion.html tipo="2" %}
 **Dote 4**
 
 *Guerrero*
@@ -285,7 +285,7 @@ Saltas hacia atrás y haces un disparo rápido que toma por sorpresa al oponente
 
 ---
 
-### Disparo Doble ◆◆
+### Disparo Doble {% include accion.html tipo="2" %}
 **Dote 4**
 
 *Floritura, Guerrero*
@@ -309,7 +309,7 @@ Cuando una criatura a la que Empujas o echas atrás mediante un efecto de especi
 
 ---
 
-### Parada Gemela ◆
+### Parada Gemela {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Guerrero*
@@ -320,7 +320,7 @@ Utilizas ambas armas para parar ataques. Obtienes un bonificados +1 por circunst
 
 ---
 
-### Redirección Rápida ◆
+### Redirección Rápida {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Aprovechar, Floritura, Guerrero*
@@ -342,7 +342,7 @@ Cuando tienes el escudo alzado, los golpes de tus enemigos no te pueden tocar. C
 
 ## Nivel 6
 
-### Asalto Ventajoso ◆
+### Asalto Ventajoso {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Aprovechar, Guerrero*
@@ -408,7 +408,7 @@ Has aprendido a mantener el equilibrio incluso cuando atacas furiosamente. Cuand
 
 ---
 
-### Golpe Aturdidor ◆
+### Golpe Aturdidor {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Aprovechar, Guerrero*
@@ -435,7 +435,7 @@ Cuando tienes un escudo alzado, puedes utilizar tu reacción Bloqueo con el escu
 
 ---
 
-### Posición de Rebote ◆
+### Posición de Rebote {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Guerrero, Posición*
@@ -444,7 +444,7 @@ Adoptas una posición que hace rebotar hacia ti tus armas arrojadizas. Mientras 
 
 ---
 
-### Posición Desarmante ◆
+### Posición Desarmante {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Guerrero, Posición*
@@ -457,7 +457,7 @@ Adoptas una posición de esgrima que mejora tu control sobre tu arma. Mientras t
 
 ---
 
-### Puñalada Reveladora ◆◆
+### Puñalada Reveladora {% include accion.html tipo="2" %}
 **Dote 6**
 
 *Guerrero*
@@ -470,7 +470,7 @@ Este beneficio dura hasta que el arma es retirada de la criatura. Una criatura a
 
 ---
 
-### Resquebrajar Defensas ◆
+### Resquebrajar Defensas {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Aprovechar, Guerrero*
@@ -494,7 +494,7 @@ Utilizas las aberturas de tu enemigo para exponer debilidades aún mayores. Cuan
 
 ---
 
-### Asalto Posicionador ◆◆
+### Asalto Posicionador {% include accion.html tipo="2" %}
 **Dote 8**
 
 *Floritura, Guerrero*
@@ -516,7 +516,7 @@ Puedes colocar el escudo en su lugar sin apenas pensarlo. Al inicio de cada uno 
 
 ---
 
-### Golpe Derribador ◆◆
+### Golpe Derribador {% include accion.html tipo="2" %}
 **Dote 8**
 
 *Guerrero*
@@ -540,7 +540,7 @@ Cuando estás adyacente a una criatura no detectada de tu nivel o inferior, en s
 
 ---
 
-### Posición de Disparo Móvil ◆
+### Posición de Disparo Móvil {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Guerrero, Posición*
@@ -551,7 +551,7 @@ Tus disparos se vuelven ágiles y letales. Cuando estás en esta posición, tus 
 
 ---
 
-### Puntería Sensacional ◆◆
+### Puntería Sensacional {% include accion.html tipo="2" %}
 **Dote 8**
 
 *Concentrar, Guerrero*
@@ -575,7 +575,7 @@ Contraatacas elegantemente los torpes movimientos de tu enemigo. Da un Golpe cue
 
 ---
 
-### Salto Repentino ◆◆
+### Salto Repentino {% include accion.html tipo="2" %}
 **Dote 8**
 
 *Guerrero*
@@ -623,7 +623,7 @@ Pisoteas a tus enemigos mientras cargas contra ellos. Cuando utilizas Carga de e
 
 ---
 
-### Carga Lanzadora ◆◆
+### Carga Lanzadora {% include accion.html tipo="2" %}
 **Dote 10**
 
 *Floritura, Guerrero*
@@ -643,7 +643,7 @@ Puedes tirar al suelo a tu objetivo de un solo golpe. Cuando utilizas Derribar, 
 
 ---
 
-### Disparo Debilitante ◆◆
+### Disparo Debilitante {% include accion.html tipo="2" %}
 **Dote 10**
 
 *Floritura, Guerrero*
@@ -678,7 +678,7 @@ Haces que el conjuro rebote contra su lanzador. Haz un ataque a distancia contra
 
 ---
 
-### Giro Desarmante ◆
+### Giro Desarmante {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Aprovechar, Guerrero*
@@ -695,7 +695,7 @@ Después de que tu ataque inicial redirigiera las defensas de tu enemigo, tu con
 
 ---
 
-### Golpe Certero ◆
+### Golpe Certero {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Aprovechar, Guerrero*
@@ -715,7 +715,7 @@ Tus gráciles movimientos empuñando armas ágiles son incomparables. Tu penaliz
 
 ---
 
-### Posición Perturbadora ◆
+### Posición Perturbadora {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Guerrero, Posición*
@@ -748,7 +748,7 @@ Una inteligente parada con un arma deja a tu oponente abierto a un ataque con la
 
 ## Nivel 12
 
-### Ataque Elegante ◆
+### Ataque Elegante {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Aprovechar, Guerrero*
@@ -759,7 +759,7 @@ Alejándote de un salto de un enemigo, das un Golpe a otro. Da una Zancada hasta
 
 ---
 
-### Danza de Duelo ◆
+### Danza de Duelo {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Guerrero, Posición*
@@ -783,7 +783,7 @@ Ya se trate de empujar a tus oponentes con el escudo o con un arma de gran tama�
 
 ---
 
-### Guardia del Parangón ◆
+### Guardia del Parangón {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Guerrero, Posición*
@@ -794,7 +794,7 @@ Una vez has tenido unos instantes para adoptar tu posición, siempre tienes prep
 
 ---
 
-### Posición Acometedora ◆
+### Posición Acometedora {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Guerrero, Posición*
@@ -807,7 +807,7 @@ Con tu cuerpo en tensión para atacar, puedes fustigar a enemigos distantes. Mie
 
 ---
 
-### Rebote Sensacional ◆
+### Rebote Sensacional {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Aprovechar, Concentrar, Guerrero*
@@ -818,7 +818,7 @@ Después de que tu primer disparo marque la posición de tu oponente, lanzas otr
 
 ---
 
-### Remate Brutal ◆
+### Remate Brutal {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Aprovechar, Guerrero*
@@ -844,7 +844,7 @@ Tu arma gira y avanza, acertando a tus enemigos siempre que se presenta la menor
 
 ## Nivel 14
 
-### Determinación ◆
+### Determinación {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Concentrar, Guerrero*
@@ -857,7 +857,7 @@ Esto no quita ningún daño en Puntos de Golpe que ya has sufrido debido al conj
 
 ---
 
-### Golpe de Torbellino ◆◆◆
+### Golpe de Torbellino {% include accion.html tipo="3" %}
 **Dote 14**
 
 *Floritura, Guerrero*
@@ -866,7 +866,7 @@ Atacas a todos los adversarios cercanos, fustigándoles en un torbellino de movi
 
 ---
 
-### Posición de Abertura ◇
+### Posición de Abertura {% include accion.html tipo="libre" %}
 **Dote 14**
 
 *Guerrero*
@@ -877,7 +877,7 @@ A la primera señal de problemas, a menudo antes de que te des cuenta del peligr
 
 ---
 
-### Ráfaga con Dos Armas ◆
+### Ráfaga con Dos Armas {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Aprovechar, Floritura, Guerrero*
@@ -899,7 +899,7 @@ Lo pones todo en un último y desesperado esfuerzo. Utiliza una sola acción que
 
 ---
 
-### Remate Orientador ◆
+### Remate Orientador {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Aprovechar, Guerrero*
@@ -936,7 +936,7 @@ Haciendo bascular tu peso y variando el ángulo de tu arma, guías a tu oponente
 
 ## Nivel 16
 
-### Defensa Gemela ◆
+### Defensa Gemela {% include accion.html tipo="1" %}
 **Dote 16**
 
 *Guerrero, Posición*
@@ -949,7 +949,7 @@ Siempre estás preparado para utilizar tu arma de mano torpe a fin de interferir
 
 ---
 
-### Elegancia Grácil ◆
+### Elegancia Grácil {% include accion.html tipo="1" %}
 **Dote 16**
 
 *Guerrero, Posición*
@@ -971,7 +971,7 @@ Tu escudo puede ayudarte a salvar a tus aliados próximos. Cuando utilizas Bloqu
 
 ---
 
-### Golpe Abrumador ◆◆◆
+### Golpe Abrumador {% include accion.html tipo="3" %}
 **Dote 16**
 
 *Guerrero*
@@ -980,7 +980,7 @@ Lanzas tu peso en un poderoso ataque que te deja vulnerable. Da un Golpe cuerpo 
 
 ---
 
-### Maestro de Muchos Estilos ◇
+### Maestro de Muchos Estilos {% include accion.html tipo="libre" %}
 **Dote 16**
 
 *Guerrero*
@@ -993,7 +993,7 @@ Te mueves de forma fluida entre posiciones, utilizando tu dominio del combate pa
 
 ---
 
-### Posición de Disparo Múltiple ◆
+### Posición de Disparo Múltiple {% include accion.html tipo="1" %}
 **Dote 16**
 
 *Guerrero, Posición*
@@ -1030,7 +1030,7 @@ Tu pericia te permite desviar conjuros. Puedes utilizar En pleno vuelo contra at
 
 ---
 
-### Volea Imposible ◆◆◆
+### Volea Imposible {% include accion.html tipo="3" %}
 **Dote 18**
 
 *Floritura, Guerrero*

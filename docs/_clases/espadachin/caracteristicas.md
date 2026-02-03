@@ -56,7 +56,7 @@ A medida que aumenta tu nivel de espadachín, también aumenta tu daño adiciona
 
 Ganas una bonificación circunstancial +1 a las pruebas de habilidad con el rasgo bravura mientras estás en un encuentro de combate. Mientras tengas desparpajo, ganas una bonificación de estado +1,5 m a tus Velocidades.
 
-### Remate confiado · ◆
+### Remate confiado · {% include accion.html tipo="1" %}
 
 **Rasgos:** Remate, Espadachín
 
@@ -94,7 +94,7 @@ Eres afable, ingenioso y lleno de humor, siempre sabes qué decir. Tus ingeniosa
 
 ---
 
-## Riposte oportuno · ◇ (3º)
+## Riposte oportuno · {% include accion.html tipo="libre" %} (3º)
 
 **Rasgos:** Bravura, Espadachín
 

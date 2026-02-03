@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Preparar ◆◆
+## Preparar {% include accion.html tipo="2" %}
 
 **CONCENTRAR**
 

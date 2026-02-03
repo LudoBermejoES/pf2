@@ -43,7 +43,7 @@ Pocos pueden desviarte de tus objetivos mientras la furia del combate te llena. 
 
 ---
 
-### Momento de Claridad · ◆ · Dote 1
+### Momento de Claridad · {% include accion.html tipo="1" %} · Dote 1
 
 **Rasgos:** Bárbaro, Concentración, Ira
 
@@ -67,7 +67,7 @@ Las armas arrojadizas se vuelven especialmente letales en tu furia. Aplicas el d
 
 ---
 
-### Carga Repentina · ◆◆ · Dote 1
+### Carga Repentina · {% include accion.html tipo="2" %} · Dote 1
 
 **Rasgos:** Bárbaro, Floritura
 
@@ -87,7 +87,7 @@ Cuando tu ira se intensifica, tu sentido del olfato mejora. Mientras estás en i
 
 ---
 
-### Carga Demoledora · ◆◆ · Dote 2
+### Carga Demoledora · {% include accion.html tipo="2" %} · Dote 2
 
 **Rasgos:** Bárbaro, Floritura
 
@@ -97,7 +97,7 @@ Atraviesas, destrozas y cargas a través de obstáculos sólidos sin dudarlo. Ca
 
 ---
 
-### Remate Furioso · ◆ · Dote 2
+### Remate Furioso · {% include accion.html tipo="1" %} · Dote 2
 
 **Rasgos:** Bárbaro, Ira
 
@@ -105,7 +105,7 @@ Desesperado por terminar la pelea, vuelcas toda tu ira en un golpe final. Realiz
 
 ---
 
-### Golpe Intimidante · ◆◆ · Dote 2
+### Golpe Intimidante · {% include accion.html tipo="2" %} · Dote 2
 
 **Rasgos:** Bárbaro, Emoción, Miedo, Mental
 
@@ -113,7 +113,7 @@ Tu golpe no solo hiere a las criaturas sino que también destroza su confianza. 
 
 ---
 
-### Sin Escapatoria · ◇ · Dote 2
+### Sin Escapatoria · {% include accion.html tipo="libre" %} · Dote 2
 
 **Rasgos:** Bárbaro, Ira
 
@@ -131,7 +131,7 @@ Puedes entrar en una segunda ira, pero después necesitas recuperar el aliento. 
 
 ---
 
-### Quitárselo de Encima · ◆ · Dote 2
+### Quitárselo de Encima · {% include accion.html tipo="1" %} · Dote 2
 
 **Rasgos:** Bárbaro, Concentración, Ira
 
@@ -143,7 +143,7 @@ Te concentras en tu ira, superando el miedo y combatiendo la náusea. Reduce el 
 
 ---
 
-### Carga Arrolladora · ◆◆ · Dote 4
+### Carga Arrolladora · {% include accion.html tipo="2" %} · Dote 4
 
 **Rasgos:** Bárbaro, Floritura
 
@@ -153,7 +153,7 @@ Te abalanzas hacia adelante, apartando enemigos para alcanzar a tu objetivo. Cam
 
 ---
 
-### Lanzamiento Descomunal · ◆◆ · Dote 4
+### Lanzamiento Descomunal · {% include accion.html tipo="2" %} · Dote 4
 
 **Rasgos:** Bárbaro, Ira
 
@@ -173,7 +173,7 @@ Los obstáculos físicos no pueden contener tu furia. Mientras estás en ira, ob
 
 ---
 
-### Cicatrices de Acero · ◇ · Dote 4
+### Cicatrices de Acero · {% include accion.html tipo="libre" %} · Dote 4
 
 **Rasgos:** Bárbaro, Ira
 
@@ -187,7 +187,7 @@ Cuando recibes los golpes más poderosos, puedes tensar tus músculos para desvi
 
 ---
 
-### Guías Espirituales · ◇ · Dote 4
+### Guías Espirituales · {% include accion.html tipo="libre" %} · Dote 4
 
 **Rasgos:** Bárbaro, Fortuna
 
@@ -211,7 +211,7 @@ Tu olfato es sobrenaturalmente agudo, y siempre puedes confiar en tu sentido del
 
 ---
 
-### Barrido · ◆◆ · Dote 4
+### Barrido · {% include accion.html tipo="2" %} · Dote 4
 
 **Rasgos:** Bárbaro, Floritura
 
@@ -221,7 +221,7 @@ Si estás usando un arma con el rasgo barrido, su modificador se aplica a todos 
 
 ---
 
-### Ira Herida · ◇ · Dote 4
+### Ira Herida · {% include accion.html tipo="libre" %} · Dote 4
 
 **Rasgos:** Bárbaro
 
@@ -255,7 +255,7 @@ Empujas a tus enemigos y les dejas moretones. Mientras estás en ira, cuando log
 
 ---
 
-### Hendir · ◇ · Dote 6
+### Hendir · {% include accion.html tipo="libre" %} · Dote 6
 
 **Rasgos:** Bárbaro, Ira
 
@@ -265,7 +265,7 @@ Atraviesas limpiamente a un enemigo y alcanzas a otro. Realiza un Golpe cuerpo a
 
 ---
 
-### Aliento de Ira Dracónica · ◆◆ · Dote 6
+### Aliento de Ira Dracónica · {% include accion.html tipo="2" %} · Dote 6
 
 **Rasgos:** Bárbaro, Concentración, Ira
 
@@ -277,7 +277,7 @@ Respiras profundamente y exhalas energía poderosa en un cono de 9 metros (30 pi
 
 ---
 
-### Estatura de Gigante · ◆ · Dote 6
+### Estatura de Gigante · {% include accion.html tipo="1" %} · Dote 6
 
 **Rasgos:** Bárbaro, Polimorfo, Primigenio, Ira
 
@@ -289,7 +289,7 @@ Creces hasta un tamaño increíble. Te vuelves Grande, aumentando tu alcance en 
 
 ---
 
-### Fuerza Interior · ◆ · Dote 6
+### Fuerza Interior · {% include accion.html tipo="1" %} · Dote 6
 
 **Rasgos:** Bárbaro, Concentración, Ira
 
@@ -299,7 +299,7 @@ Tu fuerza es parte de tu ira. Mientras tu furia permanezca, puedes reunir tu fue
 
 ---
 
-### Cazador de Magos · ◆◆ · Dote 6
+### Cazador de Magos · {% include accion.html tipo="2" %} · Dote 6
 
 **Rasgos:** Bárbaro, Ira
 
@@ -321,7 +321,7 @@ Tus sentidos obtienen aún mayor claridad. Mientras estás en ira, si tienes vis
 
 ---
 
-### Golpe Reactivo · ◇ · Dote 6
+### Golpe Reactivo · {% include accion.html tipo="libre" %} · Dote 6
 
 **Rasgos:** Bárbaro
 
@@ -343,7 +343,7 @@ Emites una poderosa oleada de energía instintiva cuando desatas tu ira. Cada en
 
 ---
 
-### Interferencia de los Espíritus · ◆ · Dote 6
+### Interferencia de los Espíritus · {% include accion.html tipo="1" %} · Dote 6
 
 **Rasgos:** Bárbaro, Divino, Ira
 
@@ -357,7 +357,7 @@ Invocas espíritus protectores para defenderte de ataques a distancia. Hasta que
 
 ---
 
-### Brutalidad Animalística · ◆ · Dote 8
+### Brutalidad Animalística · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Bárbaro, Concentración, Metamorfosis, Primigenio, Ira
 
@@ -367,7 +367,7 @@ Profundizas la conexión con tus instintos animales. Tu ataque sin armas de ira 
 
 ---
 
-### Asalto Desarmante · ◆ · Dote 8
+### Asalto Desarmante · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Bárbaro, Floritura, Ira
 
@@ -377,7 +377,7 @@ Atacas con suficiente fuerza para sacar el arma de las manos de tu enemigo. Real
 
 ---
 
-### Asalto de Seguimiento · ◆ · Dote 8
+### Asalto de Seguimiento · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Bárbaro, Ira
 
@@ -387,7 +387,7 @@ Incluso ante el fracaso presionas el ataque, determinado a tener éxito. Realiza
 
 ---
 
-### Lanzamiento Amistoso · ◆◆ · Dote 8
+### Lanzamiento Amistoso · {% include accion.html tipo="2" %} · Dote 8
 
 **Rasgos:** Bárbaro, Manipular, Ira
 
@@ -425,7 +425,7 @@ Incluso las armaduras más pesadas sirven solo para mejorar tu furia desatada. E
 
 ---
 
-### Vigor Renovado · ◆ · Dote 8
+### Vigor Renovado · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Bárbaro, Concentración, Ira
 
@@ -433,7 +433,7 @@ A través de la bruma de la batalla, recuperas rápidamente tu vigor rabioso. Ob
 
 ---
 
-### Compartir Ira · ◆ · Dote 8
+### Compartir Ira · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Auditivo, Bárbaro, Ira, Visual
 
@@ -443,7 +443,7 @@ Avivar la furia de un aliado. Mientras estás en ira, una criatura voluntaria a 
 
 ---
 
-### Salto Repentino · ◆◆ · Dote 8
+### Salto Repentino · {% include accion.html tipo="2" %} · Dote 8
 
 **Rasgos:** Bárbaro
 
@@ -453,7 +453,7 @@ Cuando intentas un Salto Alto o Salto Largo durante un Salto Repentino, determin
 
 ---
 
-### Sacudir · ◆ · Dote 8
+### Sacudir · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Bárbaro, Ira
 
@@ -467,7 +467,7 @@ Sacudes a tu enemigo de un lado a otro. Un enemigo que tengas agarrado o inmovil
 
 ---
 
-### Ven a por Mí · ◆ · Dote 10
+### Ven a por Mí · {% include accion.html tipo="1" %} · Dote 10
 
 **Rasgos:** Bárbaro, Concentración, Ira
 
@@ -475,7 +475,7 @@ Te abres a los ataques para poder responder a cambio. Hasta que termine tu ira, 
 
 ---
 
-### Carrera Furiosa · ◆◆ o ◆◆◆ · Dote 10
+### Carrera Furiosa · {% include accion.html tipo="2" %} o {% include accion.html tipo="3" %} · Dote 10
 
 **Rasgos:** Bárbaro, Ira
 
@@ -493,7 +493,7 @@ Tu furia lleva tu arma a través de múltiples enemigos. Cuando Hendes, si tu Go
 
 ---
 
-### Aterrizaje Impresionante · ◇ · Dote 10
+### Aterrizaje Impresionante · {% include accion.html tipo="libre" %} · Dote 10
 
 **Rasgos:** Bárbaro
 
@@ -503,7 +503,7 @@ Te estrellas contra el suelo, destrozándolo a tu alrededor. Trata la caída com
 
 ---
 
-### Empellón · ◆ · Dote 10
+### Empellón · {% include accion.html tipo="1" %} · Dote 10
 
 **Rasgos:** Bárbaro, Ira
 
@@ -523,7 +523,7 @@ Pisoteas a tus enemigos mientras los atraviesas. Cuando usas Carga Arrolladora y
 
 ---
 
-### Golpe Resonante · ◆◆ · Dote 10
+### Golpe Resonante · {% include accion.html tipo="2" %} · Dote 10
 
 **Rasgos:** Bárbaro, Ira
 
@@ -533,7 +533,7 @@ Golpeas a tu enemigo en la cabeza con tal fuerza que le zumban los oídos. Reali
 
 ---
 
-### Golpe Silenciador · ◆ · Dote 10
+### Golpe Silenciador · {% include accion.html tipo="1" %} · Dote 10
 
 **Rasgos:** Bárbaro, Incapacitación, Ira
 
@@ -547,7 +547,7 @@ Un golpe rápido a la cara o la boca silencia a tu oponente. Realiza un Golpe cu
 
 ---
 
-### Enredo de Batalla · ◇ · Dote 10
+### Enredo de Batalla · {% include accion.html tipo="libre" %} · Dote 10
 
 **Rasgos:** Bárbaro, Ira
 
@@ -557,7 +557,7 @@ Tu golpe vicioso acerca a tu enemigo, dándote la oportunidad de agarrarlo. Inte
 
 ---
 
-### Aullido Terrorífico · ◆ · Dote 10
+### Aullido Terrorífico · {% include accion.html tipo="1" %} · Dote 10
 
 **Rasgos:** Auditivo, Bárbaro, Ira
 
@@ -569,7 +569,7 @@ Sueltas un aullido terrorífico. Intenta pruebas de Intimidación para Desmorali
 
 ---
 
-### Alas de Ira Dracónica · ◆ · Dote 12
+### Alas de Ira Dracónica · {% include accion.html tipo="1" %} · Dote 12
 
 **Rasgos:** Bárbaro, Metamorfosis, Ira
 
@@ -579,7 +579,7 @@ Te brotan alas de dragón de la espalda del mismo color que tu dragón elegido. 
 
 ---
 
-### Abrazar el Dolor · ◇ · Dote 12
+### Abrazar el Dolor · {% include accion.html tipo="libre" %} · Dote 12
 
 **Rasgos:** Bárbaro, Ira
 
@@ -589,7 +589,7 @@ Ignorando tu dolor, extiendes la mano y agarras a la criatura o el arma que te c
 
 ---
 
-### Agarre Furioso · ◆ · Dote 12
+### Agarre Furioso · {% include accion.html tipo="1" %} · Dote 12
 
 **Rasgos:** Bárbaro, Ira
 
@@ -599,7 +599,7 @@ Agarras a tu enemigo mientras está distraído por tu ataque. El enemigo que gol
 
 ---
 
-### Salto del Depredador · ◆ · Dote 12
+### Salto del Depredador · {% include accion.html tipo="1" %} · Dote 12
 
 **Rasgos:** Bárbaro, Floritura, Ira
 
@@ -611,7 +611,7 @@ Acortas la distancia con tu presa en un borrón, abalanzándote sobre la criatur
 
 ---
 
-### Ira del Espíritu · ◆ · Dote 12
+### Ira del Espíritu · {% include accion.html tipo="1" %} · Dote 12
 
 **Rasgos:** Ataque, Bárbaro, Concentración, Ira
 
@@ -621,7 +621,7 @@ Invocas un espíritu efímero, típicamente la aparición de un ancestro o un es
 
 ---
 
-### Destruir Conjuro · ◆◆ · Dote 12
+### Destruir Conjuro · {% include accion.html tipo="2" %} · Dote 12
 
 **Rasgos:** Ataque, Bárbaro, Concentración, Ira
 
@@ -643,7 +643,7 @@ Creces hasta un tamaño aún mayor. Cuando usas Estatura de Gigante, puedes en s
 
 ---
 
-### Barrido Desequilibrante · ◆◆◆ · Dote 12
+### Barrido Desequilibrante · {% include accion.html tipo="3" %} · Dote 12
 
 **Rasgos:** Bárbaro, Floritura
 
@@ -671,7 +671,7 @@ Tus ataques son tan poderosos que pueden aplanar a tus oponentes. Cuando usas Em
 
 ---
 
-### Estocada de Gigante · ◆ · Dote 14
+### Estocada de Gigante · {% include accion.html tipo="1" %} · Dote 14
 
 **Rasgos:** Bárbaro, Concentración, Ira
 
@@ -681,7 +681,7 @@ Extiendes tu cuerpo y te preparas para atacar enemigos fuera de tu alcance norma
 
 ---
 
-### Estocada Empaladora · ◆◆ · Dote 14
+### Estocada Empaladora · {% include accion.html tipo="2" %} · Dote 14
 
 **Rasgos:** Bárbaro, Ira
 
@@ -701,7 +701,7 @@ Puedes enfocar tu superstición para romper la magia de un objeto, además de de
 
 ---
 
-### Golpe Vengativo · ◇ · Dote 14
+### Golpe Vengativo · {% include accion.html tipo="libre" %} · Dote 14
 
 **Rasgos:** Bárbaro, Ira
 
@@ -715,7 +715,7 @@ Cuando te golpea un enemigo, respondes a cambio. Realiza un Golpe cuerpo a cuerp
 
 ---
 
-### Golpe Torbellino · ◆◆◆ · Dote 14
+### Golpe Torbellino · {% include accion.html tipo="3" %} · Dote 14
 
 **Rasgos:** Bárbaro, Floritura
 
@@ -747,7 +747,7 @@ Tu sangre hierve cuando te dan una paliza, y tiras la cautela por la borda para 
 
 ---
 
-### Transformación Dracónica · ◆ · Dote 16
+### Transformación Dracónica · {% include accion.html tipo="1" %} · Dote 16
 
 **Rasgos:** Bárbaro, Concentración, Polimorfo, Primigenio, Ira
 
@@ -761,7 +761,7 @@ A nivel 18, obtienes un bonificador de estado de +6 metros (+20 pies) a tu Veloc
 
 ---
 
-### Venganza Furiosa · ◇ · Dote 16
+### Venganza Furiosa · {% include accion.html tipo="libre" %} · Dote 16
 
 **Rasgos:** Bárbaro, Ira
 
@@ -773,7 +773,7 @@ El golpe de tu enemigo alimenta tu ira y provoca tu represalia inmediata. Realiz
 
 ---
 
-### Proyectil Penetrante · ◆◆ · Dote 16
+### Proyectil Penetrante · {% include accion.html tipo="2" %} · Dote 16
 
 **Rasgos:** Bárbaro, Floritura, Ira
 
@@ -803,7 +803,7 @@ Tus golpes críticos son particularmente devastadores. En un golpe crítico con 
 
 ---
 
-### Claridad Perfecta · ◇ · Dote 18
+### Claridad Perfecta · {% include accion.html tipo="libre" %} · Dote 18
 
 **Rasgos:** Bárbaro, Concentración, Fortuna, Ira
 
@@ -813,7 +813,7 @@ Consumes toda tu ira para asegurarte de que tu ataque impacte y tu mente permane
 
 ---
 
-### Evisceración Viciosa · ◆◆ · Dote 18
+### Evisceración Viciosa · {% include accion.html tipo="2" %} · Dote 18
 
 **Rasgos:** Bárbaro, Ira
 
@@ -821,7 +821,7 @@ Realizas un ataque vicioso que mutila a tu enemigo. Realiza un Golpe cuerpo a cu
 
 ---
 
-### Lanzamiento en Torbellino · ◆◆ · Dote 18
+### Lanzamiento en Torbellino · {% include accion.html tipo="2" %} · Dote 18
 
 **Rasgos:** Bárbaro, Ira
 
@@ -837,7 +837,7 @@ Si el enemigo que eliges para Sacudida Colateral también está adyacente a ti, 
 
 ---
 
-### Golpe Aniquilador · ◆◆ · Dote 20
+### Golpe Aniquilador · {% include accion.html tipo="2" %} · Dote 20
 
 **Rasgos:** Bárbaro
 
@@ -859,7 +859,7 @@ Puedes llevar a tus aliados a un frenesí, otorgándoles increíbles beneficios.
 
 ---
 
-### Pisotón Sismico · ◆ · Dote 20
+### Pisotón Sismico · {% include accion.html tipo="1" %} · Dote 20
 
 **Rasgos:** Bárbaro, Manipular, Ira
 

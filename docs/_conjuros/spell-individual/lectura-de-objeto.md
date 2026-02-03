@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Lectura de objeto ◆◆ [1]
+## Lectura de objeto {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** ocultista
 **Rango:** toque; **Objetivos:** 1 objeto

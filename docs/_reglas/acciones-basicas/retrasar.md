@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Retrasar ◇
+## Retrasar {% include accion.html tipo="libre" %}
 
 **Desencadenante** Empieza tu turno.
 

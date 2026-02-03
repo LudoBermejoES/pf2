@@ -15,7 +15,7 @@ item_level: "4"
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 ---
 

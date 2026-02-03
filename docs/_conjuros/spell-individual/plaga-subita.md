@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
-## Plaga súbita ◆◆ [2]
+## Plaga súbita {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** divina, primigenia
 **Rango:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)

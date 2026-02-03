@@ -19,7 +19,7 @@ source: PC2
 
 Esta brutal hacha de doble filo está imbuida con la furia de antiguos guerreros.
 
-**Activar** ◆ Mando
+**Activar** {% include accion.html tipo="1" %} Mando
 
 **Efecto** Puedes activar el hacha para entrar en un frenesí. Ganas un bonificador de circunstancia +2 a las tiradas de daño con el hacha pero sufres un penalizador de circunstancia -1 a la CA. El efecto dura 1 minuto o hasta que lo desactives (acción gratuita).
 

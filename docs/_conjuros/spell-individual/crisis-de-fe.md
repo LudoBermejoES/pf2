@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Crisis de Fe ◆◆ [CONJURO 3]
+## Crisis de Fe {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** divina
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

@@ -23,7 +23,7 @@ Algunos dicen que una buena ofensiva es la mejor defensa, pero consideras que ta
 
 Eres particularmente hábil usando un escudo para protegerte en combate. Obtienes la dote de guerrero Escudo reactivo.
 
-### Bloqueo desarmante · ◇ · Dote 4
+### Bloqueo desarmante · {% include accion.html tipo="libre" %} · Dote 4
 
 **Rasgos:** Arquetipo
 

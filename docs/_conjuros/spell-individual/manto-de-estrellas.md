@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC2
 ---
-## Manto de estrellas ◆◆ [6]
+## Manto de estrellas {% include accion.html tipo="2" %} [6]
 
 **Tradiciones:** ocultista, primigenia
 **Defensa:** Voluntad; **Duración:** 10 minutos

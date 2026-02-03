@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Proyectar Imagen ◆◆ [CONJURO 7]
+## Proyectar Imagen {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m)

@@ -35,7 +35,7 @@ Puedes desplegar tu gorguera del cuello y flexionar tus espinas dorsales, Desmor
 
 **Beneficio:** Al hacerlo, Desmoralizar pierde el rasgo auditivo y gana el rasgo visual, y no sufres penalizador cuando intentas Desmoralizar a una criatura que no entiende tu idioma. También obtienes la acción Aproximación amenazante.
 
-> **Aproximación amenazante** ◆◆
+> **Aproximación amenazante** {% include accion.html tipo="2" %}
 >
 > Avanzas para quedar adyacente a un enemigo y lo Desmoralizas. Si tienes éxito, el enemigo queda asustado 2 en lugar de asustado 1.
 

@@ -33,7 +33,7 @@ Si quieres ser particularmente hábil con un tipo de interpretación, puedes sel
 
 ---
 
-## Interpretar ◆
+## Interpretar {% include accion.html tipo="1" %}
 
 **Rasgos:** Concentrar
 

@@ -95,7 +95,7 @@ Has aprendido a permanecer oculto usando a la gente grande como distracción, y 
 
 ---
 
-### Suerte del mediano ◇
+### Suerte del mediano {% include accion.html tipo="libre" %}
 **Dote 1** · Fortuna, Mediano
 
 **Frecuencia:** Una vez al día
@@ -128,7 +128,7 @@ Durante tus aventuras, has refinado tu capacidad para adaptarte a la cultura de 
 
 ---
 
-### Pisada vivaz ◆
+### Pisada vivaz {% include accion.html tipo="1" %}
 **Dote 5** · Mediano
 
 **Desencadenante:** Un enemigo Grande o mayor acaba una acción de movimiento adyacente a ti.

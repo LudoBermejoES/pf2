@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Limite Bendito ◆◆◆ [CONJURO 6]
+## Limite Bendito {% include accion.html tipo="3" %} [CONJURO 6]
 
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Area:** una explosion de hasta 60 pies (18 m); **Defensa:** Reflejos; **Duracion:** 1 minuto

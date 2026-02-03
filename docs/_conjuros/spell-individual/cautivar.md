@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Cautivar ◆◆ [CONJURO 3]
+## Cautivar {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** todas las criaturas dentro del alcance

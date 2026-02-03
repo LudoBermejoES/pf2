@@ -53,7 +53,7 @@ Tu compañero animal tiene mayor independencia. Durante un encuentro, incluso si
 
 Puedes entrar en un trance que te permite habitar brevemente el cuerpo de uno de tus compañeros animales y compartir sus sentidos. Obtienes el conjuro de foco *trance del maestro de bestias*.
 
-### Guardián veloz · ◇ · Dote 6
+### Guardián veloz · {% include accion.html tipo="libre" %} · Dote 6
 
 **Rasgos:** Arquetipo, Concentrar
 
@@ -79,7 +79,7 @@ Tus compañeros animales maduros siguen creciendo y desarrollándose. Cada uno d
 
 Puedes comunicarte telepáticamente con tus compañeros animales dentro de 100 pies. Si eres legendario en Naturaleza, puedes comunicarte telepáticamente con tus compañeros animales en cualquier lugar del planeta.
 
-### Llamada del maestro de bestias · ◆ · Dote 12
+### Llamada del maestro de bestias · {% include accion.html tipo="1" %} · Dote 12
 
 **Rasgos:** Arquetipo, Auditivo, Concentrar, Primigenio
 
@@ -109,7 +109,7 @@ Puedes tener hasta dos compañeros animales activos a la vez. Sin embargo, cuand
 
 ### Conjuro de foco del maestro de bestias
 
-#### Trance del maestro de bestias · ◆◆◆ · Foco 3
+#### Trance del maestro de bestias · {% include accion.html tipo="3" %} · Foco 3
 
 **Rasgos:** Poco común, Arquetipo, Concentrar, Foco, Manipular, Mental
 

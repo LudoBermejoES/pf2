@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Vision Verdadera ◆◆ [CONJURO 6]
+## Vision Verdadera {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 10 minutos

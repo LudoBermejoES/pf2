@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
-## Abrigo camaleónico ◆◆◆ [5]
+## Abrigo camaleónico {% include accion.html tipo="3" %} [5]
 
 **Tradiciones:** primigenia
 **Rango:** 15 pies (4,5 m); **Objetivos:** hasta 8 criaturas

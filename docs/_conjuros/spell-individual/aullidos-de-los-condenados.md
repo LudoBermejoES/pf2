@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
-## Aullidos de los Condenados ◆◆ [CONJURO 9]
+## Aullidos de los Condenados {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** divina, ocultista
 **Area:** emanacion de 40 pies (12 m); **Defensa:** Fortaleza

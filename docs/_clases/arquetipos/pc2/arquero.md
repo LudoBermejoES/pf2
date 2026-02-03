@@ -23,7 +23,7 @@ Tienes familiaridad con todas las armas de los grupos de arco y ballesta. A efec
 
 Si eres al menos experto con el arco o la ballesta que estás usando, obtienes el efecto de especialización crítica de esa arma cuando logras un golpe crítico con ella.
 
-### Disparo rápido · ◆ · Dote 4
+### Disparo rápido · {% include accion.html tipo="1" %} · Dote 4
 
 **Rasgos:** Arquetipo
 
@@ -31,7 +31,7 @@ Si eres al menos experto con el arco o la ballesta que estás usando, obtienes e
 
 Desenvainas tu arco y atacas con la misma acción. Interactúas para desenvainar un arma del grupo de arco o ballesta que esté cargada o tenga recarga 0, y luego haces un Golpe con esa arma.
 
-### Terror de ballesta · ◆ · Dote 6
+### Terror de ballesta · {% include accion.html tipo="1" %} · Dote 6
 
 **Rasgos:** Arquetipo
 
@@ -39,7 +39,7 @@ Desenvainas tu arco y atacas con la misma acción. Interactúas para desenvainar
 
 Tu pericia con la ballesta infunde terror en tus oponentes cuando los amenazas con el siguiente virote. Interactúas para recargar una ballesta y luego intentas una prueba de Intimidación para Desmoralizar. Obtienes un bonificador circunstancial +2 a esta prueba si tuviste éxito en un Golpe con una ballesta este turno.
 
-### Puntería del arquero · ◆◆ · Dote 8
+### Puntería del arquero · {% include accion.html tipo="2" %} · Dote 8
 
 **Rasgos:** Arquetipo, Concentrar
 
@@ -47,7 +47,7 @@ Tu pericia con la ballesta infunde terror en tus oponentes cuando los amenazas c
 
 Te detienes, te concentras y realizas un disparo cuidadoso. Realiza un Golpe a distancia con un arma del grupo de arco o ballesta. Obtienes un bonificador circunstancial +2 a la tirada de ataque e ignoras la condición encubierto del objetivo. Si el objetivo está oculto, reduce la prueba plana de estar oculto de 11 a 5.
 
-### Disparo despejado · ◆◆ · Dote 10
+### Disparo despejado · {% include accion.html tipo="2" %} · Dote 10
 
 **Rasgos:** Arquetipo, Florecimiento
 

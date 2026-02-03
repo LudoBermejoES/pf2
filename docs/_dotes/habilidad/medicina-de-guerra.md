@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/habilidad/medicina-de-guerra/
-title: Medicina de guerra ◆
+title: Medicina de guerra {% include accion.html tipo="1" %}
 chapter: Dotes
 category: dotes
 habilidad: Medicina

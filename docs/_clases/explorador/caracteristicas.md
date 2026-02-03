@@ -40,7 +40,7 @@ source: PC1
 
 Cuando centras tu atención en un solo enemigo, te vuelves imparable en tu persecución. Obtienes la acción Perseguir presa.
 
-### Perseguir Presa ◆
+### Perseguir Presa {% include accion.html tipo="1" %}
 
 **Rasgos:** Concentrar, Explorador
 

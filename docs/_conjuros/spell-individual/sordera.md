@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Sordera ◆◆ [CONJURO 2]
+## Sordera {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

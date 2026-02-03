@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Silencio ◆◆ [CONJURO 2]
+## Silencio {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria

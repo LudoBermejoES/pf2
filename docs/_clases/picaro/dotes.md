@@ -64,7 +64,7 @@ Incitas a un enemigo a que se estire demasiado. Si haces una Finta con éxito, p
 
 ---
 
-### Finta Gemela ◆◆
+### Finta Gemela {% include accion.html tipo="2" %}
 
 **Nivel 1** | **Rasgos:** Picaro
 
@@ -74,7 +74,7 @@ Utilizas un ataque con una arma para distraer a tu enemigo de un segundo ataque 
 
 ---
 
-### Incriminar ◆
+### Incriminar {% include accion.html tipo="1" %}
 
 **Nivel 1** | **Rasgos:** Picaro
 
@@ -94,7 +94,7 @@ Pasas rodando por detrás y por debajo de tu enemigo, y tu rapido movimiento te 
 
 ## Dotes de 2.o Nivel
 
-### Asalto Enganoso ◆◆
+### Asalto Enganoso {% include accion.html tipo="2" %}
 
 **Nivel 2** | **Rasgos:** Picaro
 
@@ -112,7 +112,7 @@ Cuando das un Golpe con una arma arrojadiza, el incremento de rango de distancia
 
 ---
 
-### Desenvainado Rapido ◆
+### Desenvainado Rapido {% include accion.html tipo="1" %}
 
 **Nivel 2** | **Rasgos:** Picaro
 
@@ -172,7 +172,7 @@ Tus impactos críticos quiebran la confianza de tus enemigos. Siempre que tu Gol
 
 ## Dotes de 4.o Nivel
 
-### Atracar ◆◆
+### Atracar {% include accion.html tipo="2" %}
 
 **Nivel 4** | **Rasgos:** Picaro
 
@@ -180,7 +180,7 @@ Haces un ataque rapido y robas a tu enemigo en el proceso. Da un Golpe cuerpo a 
 
 ---
 
-### Aviso del Batidor ◇
+### Aviso del Batidor {% include accion.html tipo="libre" %}
 
 **Nivel 4** | **Rasgos:** Picaro
 
@@ -202,7 +202,7 @@ Tus movimientos con dos armas son tan rápidos y desorientadores que confunden a
 
 ---
 
-### Envenenar Arma ◆
+### Envenenar Arma {% include accion.html tipo="1" %}
 
 **Nivel 4** | **Rasgos:** Manipular, Picaro
 
@@ -240,7 +240,7 @@ Mantienes la distancia con un enemigo que se retira. Das una Zancada, pero tiene
 
 ---
 
-### Pisoton en la Cabeza ◆
+### Pisoton en la Cabeza {% include accion.html tipo="1" %}
 
 **Nivel 4** | **Rasgos:** Picaro
 
@@ -248,7 +248,7 @@ Da un Golpe cuerpo a cuerpo sin armas contra un objetivo tumbado. Si aciertas, h
 
 ---
 
-### !Predecible! ◆
+### !Predecible! {% include accion.html tipo="1" %}
 
 **Nivel 4** | **Rasgos:** Picaro
 
@@ -261,7 +261,7 @@ Observando a un oponente, puedes hacerte una idea de su proximo movimiento y pre
 
 ---
 
-### Sabotaje ◆
+### Sabotaje {% include accion.html tipo="1" %}
 
 **Nivel 4** | **Rasgos:** Incapacitacion, Picaro
 
@@ -275,7 +275,7 @@ Danas sutilmente el equipo de otro. Elige un objeto que una criatura a tu alcanc
 
 ---
 
-### Sorpresa del Granuja ◆
+### Sorpresa del Granuja {% include accion.html tipo="1" %}
 
 **Nivel 4** | **Rasgos:** Manipular, Picaro
 
@@ -285,7 +285,7 @@ Dejas caer tu disfraz en el momento justo y sorprendes a tu objetivo. Después d
 
 ## Dotes de 6.o Nivel
 
-### Analizar Debilidad ◆
+### Analizar Debilidad {% include accion.html tipo="1" %}
 
 **Nivel 6** | **Rasgos:** Picaro
 
@@ -299,7 +299,7 @@ A 10.o nivel, el dano adicional se convierte en 3d6 y a 17.o nivel se convierte 
 
 ---
 
-### Andate con Ojo ◆
+### Andate con Ojo {% include accion.html tipo="1" %}
 
 **Nivel 6** | **Rasgos:** Emocion, Mental, Miedo, Picaro
 
@@ -327,7 +327,7 @@ Puedes Desarmar a una criatura usando la mana en lugar de la fuerza bruta. Puede
 
 ---
 
-### Echar Abajo ◇
+### Echar Abajo {% include accion.html tipo="libre" %}
 
 **Nivel 6** | **Rasgos:** Picaro
 
@@ -339,7 +339,7 @@ Haces palanca con tu peso para hacer caer a los enemigos a los que mueves. Trata
 
 ---
 
-### Golpe Hostigador ◆
+### Golpe Hostigador {% include accion.html tipo="1" %}
 
 **Nivel 6** | **Rasgos:** Floritura, Picaro
 
@@ -363,7 +363,7 @@ No te preocupan los suelos irregulares. Cuando das una Zancada o un Paso, puedes
 
 ---
 
-### Retorcer el Cuchillo ◆
+### Retorcer el Cuchillo {% include accion.html tipo="1" %}
 
 **Nivel 6** | **Rasgos:** Picaro
 
@@ -391,7 +391,7 @@ De alguna forma consigues tener siempre el objeto adecuado para cada situación.
 
 ---
 
-### Diana ◆
+### Diana {% include accion.html tipo="1" %}
 
 **Nivel 8** | **Rasgos:** Picaro
 
@@ -399,7 +399,7 @@ Apuntas cuidadosamente para evitar el ocultamiento y la cobertura de tu enemigo.
 
 ---
 
-### Entrada Tactica ◇
+### Entrada Tactica {% include accion.html tipo="libre" %}
 
 **Nivel 8** | **Rasgos:** Picaro
 
@@ -435,7 +435,7 @@ Durante tus preparativos diarios, puedes revisar tus estratagemas para las avent
 
 ---
 
-### Llevarte un Recuerdo ◆◆
+### Llevarte un Recuerdo {% include accion.html tipo="2" %}
 
 **Nivel 8** | **Rasgos:** Picaro
 
@@ -477,7 +477,7 @@ Tus ataques infligen mas dano, incluso contra criaturas que no estan desprevenid
 
 ---
 
-### Posición de Rebote ◆
+### Posición de Rebote {% include accion.html tipo="1" %}
 
 **Nivel 8** | **Rasgos:** Picaro, Posición
 
@@ -626,7 +626,7 @@ Tus ataques cortan arterias y venas. Anade las siguientes debilitaciones a la li
 
 ---
 
-### Disparo Derribador ◆◆
+### Disparo Derribador {% include accion.html tipo="2" %}
 
 **Nivel 12** | **Rasgos:** Picaro
 
@@ -658,7 +658,7 @@ Agarrando de una manga, dando un tajo con el arma o creando alguna otra obstrucc
 
 ---
 
-### Preparacion ◆
+### Preparacion {% include accion.html tipo="1" %}
 
 **Nivel 12** | **Rasgos:** Floritura, Picaro
 
@@ -666,7 +666,7 @@ Examinas el campo de batalla, calculando las posibilidades. Obtienes una reacci�
 
 ---
 
-### Saltar desde las Sombras ◆
+### Saltar desde las Sombras {% include accion.html tipo="1" %}
 
 **Nivel 12** | **Rasgos:** Floritura, Picaro
 
@@ -674,7 +674,7 @@ Saltando desde un escondrijo, atacas a tu objetivo cuando menos se lo espera. Da
 
 ---
 
-### Salto Fantastico ◆◆
+### Salto Fantastico {% include accion.html tipo="2" %}
 
 **Nivel 12** | **Rasgos:** Picaro
 
@@ -686,7 +686,7 @@ Después de tu Golpe, caes al suelo si estas en el aire. Si la distancia de tu c
 
 ## Dotes de 14.o Nivel
 
-### Abertura Instantanea ◆
+### Abertura Instantanea {% include accion.html tipo="1" %}
 
 **Nivel 14** | **Rasgos:** Concentrar, Picaro
 
@@ -714,7 +714,7 @@ Tienes formas de hacer que tus enemigos permanezcan tumbados. Haz una prueba de 
 
 ---
 
-### Rodar a la Defensiva ◇
+### Rodar a la Defensiva {% include accion.html tipo="libre" %}
 
 **Nivel 14** | **Rasgos:** Picaro
 
@@ -738,7 +738,7 @@ Cuando buscas enemigos, te fijas incluso en los indicios mas insignificantes. In
 
 ## Dotes de 16.o Nivel
 
-### Distracción Perfecta ◆
+### Distracción Perfecta {% include accion.html tipo="1" %}
 
 **Nivel 16** | **Rasgos:** Picaro
 
@@ -804,7 +804,7 @@ Puedes encontrar un resquicio en un efecto mental que te permite superarlo tempo
 
 ---
 
-### Tajo Disipador ◆◆
+### Tajo Disipador {% include accion.html tipo="2" %}
 
 **Nivel 16** | **Rasgos:** Picaro
 
@@ -824,7 +824,7 @@ Puedes utilizar Planificador presciente incluso si ya lo has utilizado después 
 
 ---
 
-### Infiltracion Inverosimil ◆◆
+### Infiltracion Inverosimil {% include accion.html tipo="2" %}
 
 **Nivel 18** | **Rasgos:** Magico, Movimiento, Picaro
 

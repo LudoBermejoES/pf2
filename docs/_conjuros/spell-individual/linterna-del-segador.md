@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
-## Linterna del Segador ◆◆ [2]
+## Linterna del Segador {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Área:** emanación de 5 pies (1,5 m)

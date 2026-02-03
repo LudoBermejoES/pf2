@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Respirar Fuego ◆◆ [CONJURO 1]
+## Respirar Fuego {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Área:** cono de 15 pies (4,5 m); **Defensa:** Reflejos básica

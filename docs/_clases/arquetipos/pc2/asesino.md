@@ -23,7 +23,7 @@ La eliminación selectiva mediante sigilo y subterfugio es la especialidad de un
 
 Te has entrenado para asesinar a tus enemigos, y lo haces con tenacidad y precisión. Obtienes la actividad Marca de muerte.
 
-**Marca de muerte · ◆◆◆** (concentrar) **Requisitos:** La criatura que pretendes marcar está observada por ti. **Efecto:** Designas una única criatura como tu marca. Usar Marca de muerte mientras estás oculto o no detectado no te hace observado. La Marca de muerte dura hasta que la marca muere o usas Marca de muerte de nuevo. Obtienes un bonificador circunstancial +2 a las pruebas de Percepción para Buscar a tu marca, así como a las pruebas de Engaño para hacer una Finta contra tu marca. Tu marca recibe una penalización circunstancial –2 a todas las pruebas de Percepción para Buscarte.
+**Marca de muerte · {% include accion.html tipo="3" %}** (concentrar) **Requisitos:** La criatura que pretendes marcar está observada por ti. **Efecto:** Designas una única criatura como tu marca. Usar Marca de muerte mientras estás oculto o no detectado no te hace observado. La Marca de muerte dura hasta que la marca muere o usas Marca de muerte de nuevo. Obtienes un bonificador circunstancial +2 a las pruebas de Percepción para Buscar a tu marca, así como a las pruebas de Engaño para hacer una Finta contra tu marca. Tu marca recibe una penalización circunstancial –2 a todas las pruebas de Percepción para Buscarte.
 
 Además, al atacar tu marca, tienes la característica de clase ataque furtivo, excepto que inflige 1d4 de daño de precisión y no aumentas el número de dados al subir de nivel. Al 6.º nivel, el daño aumenta a 1d6. Si ya tienes la característica de clase ataque furtivo, en su lugar infliges 1 de daño de precisión adicional con tus ataques furtivos contra tu marca, aumentando a 2 de daño de precisión al 6.º nivel.
 
@@ -51,7 +51,7 @@ Actúas antes de que los enemigos puedan reaccionar. En la primera ronda de comb
 
 Todos tus Golpes contra una criatura que has marcado con Marca de muerte tienen el rasgo muerte, lo que hace que la marca sea asesinada instantáneamente cuando se reduce a 0 Puntos de Golpe. Además, si la criatura muere de este modo, los intentos de comunicarse con ella, devolverla a la vida, convertirla en no muerto u otra forma de perturbar su vida después de la muerte fallan a menos que el rango de contrarrestar del efecto sea superior a la mitad de tu nivel redondeado hacia arriba, o provenga de un artefacto o una deidad. Usa el nivel que tenías cuando mataste a la criatura, incluso si tu nivel es superior en el momento del intento.
 
-### Asesinar · ◆◆ · Dote 12
+### Asesinar · {% include accion.html tipo="2" %} · Dote 12
 
 **Rasgos:** Arquetipo
 

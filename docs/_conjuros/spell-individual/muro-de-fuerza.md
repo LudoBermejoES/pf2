@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Muro de Fuerza ◆◆◆ [CONJURO 6]
+## Muro de Fuerza {% include accion.html tipo="3" %} [CONJURO 6]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m)

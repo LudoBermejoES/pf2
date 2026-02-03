@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Excavar ◆
+## Excavar {% include accion.html tipo="1" %}
 
 **Rasgos:** Movimiento
 

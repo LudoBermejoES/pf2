@@ -19,7 +19,7 @@ source: PC2
 
 Esta elegante espada puede flotar en el aire y luchar por sí sola al mando de su portador.
 
-**Activar** ◆◆ Mando
+**Activar** {% include accion.html tipo="2" %} Mando
 
 **Efecto** Puedes activar la espada para que flote y luche de forma autónoma. La espada permanece flotando en tu espacio y realiza un Golpe al final de cada uno de tus turnos contra un enemigo a tu alcance, usando tu modificador de ataque. El efecto dura 1 minuto o hasta que recuperes la espada (acción de Interactuar).
 

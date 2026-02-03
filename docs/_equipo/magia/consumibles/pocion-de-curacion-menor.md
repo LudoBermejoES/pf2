@@ -19,7 +19,7 @@ source: PC2
 
 Este vial contiene un líquido rojo brillante que restaura la vitalidad.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Bebes la poción y recuperas 1d8+5 Puntos de Golpe.
 

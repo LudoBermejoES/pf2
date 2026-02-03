@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
-## Ojos innumerables ◆◆ [4]
+## Ojos innumerables {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango:** toque; **Objetivos:** 1 criatura

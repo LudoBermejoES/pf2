@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC2
 ---
-## Epidemia espiritual ◆◆ [8]
+## Epidemia espiritual {% include accion.html tipo="2" %} [8]
 
 **Tradiciones:** divina, ocultista
 **Rango:** 120 pies (36 m); **Objetivos:** 1 criatura

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Atontar ◆◆ [TRUCO 1]
+## Atontar {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura

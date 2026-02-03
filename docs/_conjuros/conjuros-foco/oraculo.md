@@ -14,7 +14,7 @@ Los conjuros de foco del oráculo se conocen como **conjuros de revelación**. E
 
 ## Ancestros
 
-### Toque Ancestral ◆ FOCO 1
+### Toque Ancestral {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Emoción, Miedo, Foco, Manipular, Mental, Oráculo
 **Alcance:** toque; **Objetivos:** 1 criatura viviente
 **Defensa:** Voluntad
@@ -33,7 +33,7 @@ Tocas a una criatura y la obligas a ver y sentir a los ancestros que te rodean. 
 
 ---
 
-### Defensa Ancestral ◇ FOCO 3
+### Defensa Ancestral {% include accion.html tipo="libre" %} FOCO 3
 **Rasgos:** Poco común, Foco, Fortuna, Manipular, Mental, Oráculo
 **Desencadenante:** Estás a punto de intentar una salvación de Voluntad.
 
@@ -41,7 +41,7 @@ Tu ancestro te protege contra quienes intentarían doblegar tu voluntad. Tirará
 
 ---
 
-### Forma Ancestral ◆◆ FOCO 6
+### Forma Ancestral {% include accion.html tipo="2" %} FOCO 6
 **Rasgos:** Poco común, Concentración, Foco, Manipular, Oráculo
 **Duración:** mantenido hasta 1 minuto
 
@@ -53,7 +53,7 @@ Adoptas la forma de tus espíritus ancestrales, volviéndote invisible y cuasi c
 
 ## Batalla
 
-### Trance de Armas ◆ FOCO 1
+### Trance de Armas {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Concentración, Foco, Oráculo
 **Duración:** mantenido hasta 1 minuto; ver texto
 
@@ -61,7 +61,7 @@ La serenidad de la violencia llena tu mente, dándote una sensación agudizada d
 
 ---
 
-### Persistencia en el Campo de Batalla ◇ FOCO 3
+### Persistencia en el Campo de Batalla {% include accion.html tipo="libre" %} FOCO 3
 **Rasgos:** Poco común, Concentración, Foco, Oráculo
 **Desencadenante:** Estás a punto de intentar una tirada de salvación, pero aún no has tirado.
 
@@ -69,7 +69,7 @@ Eres difícil de disuadir en combate. Obtienes un bonificador de estado +2 a la 
 
 ---
 
-### Deleite en la Retribución ◆ FOCO 6
+### Deleite en la Retribución {% include accion.html tipo="1" %} FOCO 6
 **Rasgos:** Poco común, Concentración, Foco, Manipular, Mental, Oráculo
 **Duración:** 1 minuto
 
@@ -83,7 +83,7 @@ Arremeter contra un enemigo indefenso te anima con la emoción del combate, otor
 
 ## Huesos
 
-### Sifón de Alma ◆ FOCO 1
+### Sifón de Alma {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Foco, Manipular, Oráculo, Vacío
 **Alcance:** 30 pies; **Objetivos:** 1 criatura viviente
 **Defensa:** Fortaleza
@@ -102,7 +102,7 @@ Extraes una porción del alma del objetivo para reforzar tu propia vitalidad. El
 
 ---
 
-### Armadura de Huesos ◆ FOCO 3
+### Armadura de Huesos {% include accion.html tipo="1" %} FOCO 3
 **Rasgos:** Poco común, Foco, Manipular, Oráculo
 **Duración:** 1 minuto
 
@@ -112,7 +112,7 @@ Oseificas tu forma física, imitando la durabilidad del hueso. Ganas resistencia
 
 ---
 
-### Reclamar No Muerto ◆◆ FOCO 6
+### Reclamar No Muerto {% include accion.html tipo="2" %} FOCO 6
 **Rasgos:** Poco común, Concentración, Foco, Incapacitación, Manipular, Oráculo
 **Alcance:** 30 pies; **Objetivos:** 1 criatura no muerta
 **Defensa:** Voluntad; **Duración:** 10 minutos
@@ -131,7 +131,7 @@ Intentas arrebatar el control de un no muerto objetivo o lo fuerzas a reconocert
 
 ## Cosmos
 
-### Rociada de Estrellas ◆◆ FOCO 1
+### Rociada de Estrellas {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco común, Concentración, Fuego, Foco, Luz, Manipular, Oráculo
 **Área:** cono de 15 pies
 **Defensa:** Reflejos
@@ -150,7 +150,7 @@ Lanzas una rociada de pequeñas estrellas fugaces, causando 2d4 de daño de fueg
 
 ---
 
-### Vacío Interestelar ◆◆ FOCO 3
+### Vacío Interestelar {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Frío, Concentración, Foco, Manipular, Oráculo
 **Alcance:** 30 pies; **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duración:** mantenido hasta 1 minuto
@@ -161,7 +161,7 @@ Invocas las gélidas profundidades del espacio exterior para traer un frío terr
 
 ---
 
-### Puente de Luz de Luna ◆◆ FOCO 6
+### Puente de Luz de Luna {% include accion.html tipo="2" %} FOCO 6
 **Rasgos:** Poco común, Concentración, Foco, Luz, Manipular, Oráculo
 **Alcance:** 30 pies
 **Duración:** 10 minutos
@@ -174,7 +174,7 @@ Invocas un puente de luz de luna radiante y centelleante. El tramo de 10 pies de
 
 ## Llamas
 
-### Aura Incendiaria ◆◆ FOCO 1
+### Aura Incendiaria {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco común, Concentración, Fuego, Foco, Manipular, Oráculo
 **Área:** emanación de 10 pies
 **Duración:** 1 minuto
@@ -185,7 +185,7 @@ Te rodeas de un aura combustible. Cada vez que una criatura dentro de la emanaci
 
 ---
 
-### Llamas Giratorias ◆◆ FOCO 3
+### Llamas Giratorias {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Concentración, Fuego, Foco, Manipular, Oráculo
 **Alcance:** 30 pies; **Área:** hasta dos estallidos de 5 pies que no se superpongan
 **Defensa:** Reflejos básicos
@@ -196,7 +196,7 @@ Invocas una tormenta de llamas giratorias, envolviendo a todas las criaturas en 
 
 ---
 
-### Fusilada Llameante ◆◆ FOCO 6
+### Fusilada Llameante {% include accion.html tipo="2" %} FOCO 6
 **Rasgos:** Poco común, Concentración, Fuego, Foco, Manipular, Oráculo
 **Duración:** 1 minuto
 
@@ -208,7 +208,7 @@ Invocas una andanada interminable de llamas, una serie de explosiones que estall
 
 ## Vida
 
-### Vínculo de Vida ◆ FOCO 1
+### Vínculo de Vida {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Foco, Sanación, Manipular, Oráculo, Vitalidad
 **Alcance:** 30 pies; **Objetivos:** 1 criatura que no seas tú
 **Duración:** 1 minuto
@@ -225,7 +225,7 @@ El conjuro termina inmediatamente si quedas inconsciente. Puedes Descartar el co
 
 ---
 
-### Demorar Aflicción ◆◆ FOCO 3
+### Demorar Aflicción {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Concentración, Foco, Sanación, Manipular, Oráculo, Vitalidad
 **Alcance:** 30 pies; **Objetivos:** 1 criatura
 
@@ -235,7 +235,7 @@ Con una oleada de energía curativa, te opones a una aflicción que amenaza al o
 
 ---
 
-### Forma Vivificante ◆◆ FOCO 6
+### Forma Vivificante {% include accion.html tipo="2" %} FOCO 6
 **Rasgos:** Poco común, Concentración, Foco, Sanación, Luz, Manipular, Oráculo, Vitalidad
 **Duración:** 1 minuto
 
@@ -251,7 +251,7 @@ Puedes Descartar este conjuro.
 
 ## Saber
 
-### Drenaje Cerebral ◆◆ FOCO 1
+### Drenaje Cerebral {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** Poco común, Concentración, Foco, Manipular, Mental, Oráculo
 **Alcance:** 30 pies; **Objetivos:** 1 criatura
 **Defensa:** Voluntad
@@ -262,7 +262,7 @@ Sondeas la mente del objetivo para extraer conocimiento. Esto inflige 1d8 de da�
 
 ---
 
-### Acceder a Saber ◆ FOCO 3
+### Acceder a Saber {% include accion.html tipo="1" %} FOCO 3
 **Rasgos:** Poco común, Foco, Fortuna, Manipular, Oráculo
 **Duración:** 1 minuto
 
@@ -270,7 +270,7 @@ Tamizas el conocimiento divino del multiverso, buscando fragmentos relacionados 
 
 ---
 
-### Secreto Pavoroso ◆◆ FOCO 6
+### Secreto Pavoroso {% include accion.html tipo="2" %} FOCO 6
 **Rasgos:** Poco común, Concentración, Emoción, Miedo, Foco, Manipular, Mental, Oráculo
 **Alcance:** 60 pies; **Objetivos:** hasta 6 criaturas
 **Defensa:** Voluntad; **Duración:** hasta el comienzo de tu próximo turno
@@ -289,7 +289,7 @@ Pronuncias un secreto poderoso contrario a la naturaleza fundamental de las cria
 
 ## Tempestad
 
-### Toque de Tempestad ◆ FOCO 1
+### Toque de Tempestad {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** Poco común, Frío, Foco, Manipular, Oráculo, Agua
 **Alcance:** toque; **Objetivos:** 1 criatura
 **Defensa:** Fortaleza
@@ -308,7 +308,7 @@ Tu toque convoca una masa arremolinada de agua helada que se adhiere a tu objeti
 
 ---
 
-### Explosión de Trueno ◆◆ FOCO 3
+### Explosión de Trueno {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** Poco común, Aire, Concentración, Foco, Manipular, Oráculo, Sónico
 **Alcance:** 100 pies; **Área:** estallido de 20 pies
 **Defensa:** Fortaleza
@@ -327,7 +327,7 @@ Creas una potente ráfaga de aire y un fuerte trueno, infligiendo 2d6 de daño c
 
 ---
 
-### Forma de Tempestad ◆◆ FOCO 6
+### Forma de Tempestad {% include accion.html tipo="2" %} FOCO 6
 **Rasgos:** Poco común, Concentración, Foco, Manipular, Oráculo, Polimorfo
 **Duración:** mantenido hasta 1 minuto
 

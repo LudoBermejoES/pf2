@@ -29,7 +29,7 @@ Has sido tocado por una deidad y dotado de la capacidad de aliviar el sufrimient
 
 Obtienes el conjuro de dominio *sacrificio del protector* como conjuro de devoción.
 
-### Conjuro bendito · ◆ · Dote 8
+### Conjuro bendito · {% include accion.html tipo="1" %} · Dote 8
 
 **Rasgos:** Arquetipo, Concentrar, Dar forma al conjuro
 
@@ -39,7 +39,7 @@ Obtienes el conjuro de dominio *sacrificio del protector* como conjuro de devoci
 
 Cuando enfocas tu magia en un aliado, puedes eliminar condiciones perjudiciales. Si tu siguiente acción es Lanzar un conjuro desde un espacio, y ese conjuro solo tiene como objetivo a un único aliado, también puedes intentar eliminar una condición perjudicial de ese aliado. La condición debe ser una que pueda eliminarse mediante tu dote Misericordia, incluyendo las concedidas por dotes posteriores como Gran misericordia. Intenta una prueba de contrarrestar basada en la CD y el rango del conjuro. Este efecto es adicional a los efectos normales de tu conjuro.
 
-### Negación bendita · ◇ · Dote 12
+### Negación bendita · {% include accion.html tipo="libre" %} · Dote 12
 
 **Rasgos:** Arquetipo
 

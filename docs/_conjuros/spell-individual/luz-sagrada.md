@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
-## Luz Sagrada ◆◆ [CONJURO 3]
+## Luz Sagrada {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

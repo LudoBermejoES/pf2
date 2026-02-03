@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
-## Migracion ◆◆ [CONJURO 8]
+## Migracion {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** primigenia
 **Lanzamiento:** 10 minutos

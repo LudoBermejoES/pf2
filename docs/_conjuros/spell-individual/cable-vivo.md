@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
-## Cable vivo ◆◆ [TRUCO 1]
+## Cable vivo {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura

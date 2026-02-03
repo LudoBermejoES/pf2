@@ -23,7 +23,7 @@ Pasas a ser experto en Medicina. Cuando tienes éxito con Medicina de batalla o 
 
 Una vez al día, puedes usar Medicina de batalla en una criatura que sea temporalmente inmune por haber sido ya tratada con Medicina de batalla. Si eres maestro en Medicina, puedes hacerlo una vez por hora.
 
-### Visita del doctor · ◆ o ◆◆ · Dote 4
+### Visita del doctor · {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %} · Dote 4
 
 **Rasgos:** Arquetipo, Florecimiento
 
@@ -31,7 +31,7 @@ Una vez al día, puedes usar Medicina de batalla en una criatura que sea tempora
 
 Te desplazas para proporcionar atención inmediata a quienes la necesitan. Avanza y luego usa Medicina de batalla o Tratar veneno. Puedes gastar 2 acciones para, en su lugar, Avanzar y luego usar Administrar primeros auxilios o Tratar condición (si tienes esa dote).
 
-### Tratar condición · ◆◆ · Dote 4
+### Tratar condición · {% include accion.html tipo="2" %} · Dote 4
 
 **Rasgos:** Arquetipo, Sanación, Manipular, Habilidad
 
@@ -55,7 +55,7 @@ Tratas a una criatura adyacente intentando reducir la condición torpe, debilita
 
 Proporcionas cuidado emocional y espiritual. Añade asustado, aturdido y estupefacto a la lista de condiciones que puedes reducir con Tratar condición. Si la condición aturdido tiene una duración en lugar de un valor, no puedes usar Tratar condición para reducirla.
 
-### Resucitar · ◆◆◆ · Dote 16
+### Resucitar · {% include accion.html tipo="3" %} · Dote 16
 
 **Rasgos:** Arquetipo, Sanación, Manipular
 

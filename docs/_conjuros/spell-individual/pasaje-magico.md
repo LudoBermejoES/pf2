@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Pasaje Mágico ◆◆ [CONJURO 5]
+## Pasaje Mágico {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Área:** una sección de una pared de madera, yeso o piedra de 5 pies de grueso, 10 pies de alto y 10 pies de largo (1,5 x 3 x 3 m)

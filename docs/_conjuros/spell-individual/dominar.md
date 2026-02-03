@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Dominar ◆◆ [CONJURO 6]
+## Dominar {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

@@ -19,7 +19,7 @@ source: PC2
 
 Este afilado diente de tiburón causa heridas sangrantes.
 
-**Activar** ◇ Imaginar (desencadenante: aciertas con el arma)
+**Activar** {% include accion.html tipo="libre" %} Imaginar (desencadenante: aciertas con el arma)
 
 **Efecto** Activas el talismán cuando aciertas con el arma. El objetivo sufre 1d6 de sangrado persistente. El talismán se consume.
 

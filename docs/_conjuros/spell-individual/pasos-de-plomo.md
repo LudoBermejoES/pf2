@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Pasos de plomo ◆◆ [1]
+## Pasos de plomo {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura

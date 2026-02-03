@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
-## Resurgimiento ◆◆ [CONJURO 10]
+## Resurgimiento {% include accion.html tipo="2" %} [CONJURO 10]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** criaturas muertas y criaturas vivas a tu elección dentro del alcance

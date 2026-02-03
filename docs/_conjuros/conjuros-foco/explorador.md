@@ -10,7 +10,7 @@ source: PC1
 
 ## Conjuros de Guardián Iniciado
 
-### Arma de Gravedad ◆ FOCO 1
+### Arma de Gravedad {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** poco comun, foco, explorador
 
 **Duracion:** 1 minuto
@@ -19,21 +19,21 @@ Acumulas fuerza gravitacional y la canalizas a tus golpes, lo que lleva a ataque
 
 ---
 
-### Curar Companero ◆ o ◆◆ FOCO 1
+### Curar Companero {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %} FOCO 1
 **Rasgos:** poco comun, curacion, explorador, foco, vitalidad
 
 **Rango:** toque o 30 pies (9 m); **Objetivos:** tu companero animal
 
 Curas las heridas de tu compañero animal. Restableces 1d10 Puntos de Golpe a tu compañero animal. El numero de acciones que inviertes Lanzando este conjuro determina el alcance y otros parametros.
 
-- ◆ (manipular) El conjuro tiene un alcance de toque.
-- ◆◆ (concentrar, manipular) El conjuro tiene un alcance de 30 pies (9 m) y restablece 8 Puntos de Golpe adicionales al objetivo.
+- {% include accion.html tipo="1" %} (manipular) El conjuro tiene un alcance de toque.
+- {% include accion.html tipo="2" %} (concentrar, manipular) El conjuro tiene un alcance de 30 pies (9 m) y restablece 8 Puntos de Golpe adicionales al objetivo.
 
 **Potenciado (+1)** La cantidad de curacion se incrementa en 1d10 y la curacion adicional por la version de dos acciones se incrementa en 8.
 
 ---
 
-### Pelaje Magico ◆ FOCO 1
+### Pelaje Magico {% include accion.html tipo="1" %} FOCO 1
 **Rasgos:** poco comun, foco, explorador, manipular
 
 **Rango:** 30 pies (9 m); **Objetivos:** tu companero animal
@@ -46,7 +46,7 @@ A tu compañero animal le crece una piel gruesa, un pelaje tupido o una concha m
 
 ## Conjuros de Guardian Avanzado
 
-### Agrandar Companero ◆◆ FOCO 2
+### Agrandar Companero {% include accion.html tipo="2" %} FOCO 2
 **Rasgos:** poco comun, concentrar, explorador, foco, manipular, polimorfia
 
 **Rango:** 30 pies (9 m); **Objetivos:** tu companero animal
@@ -59,7 +59,7 @@ Tu compañero animal se hace mucho mas grande, quedando por encima de sus enemig
 
 ---
 
-### Niebla Tranquilizadora ◆◆ FOCO 2
+### Niebla Tranquilizadora {% include accion.html tipo="2" %} FOCO 2
 **Rasgos:** poco comun, concentrar, curacion, explorador, foco, manipular, vitalidad
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viva voluntaria o 1 criatura muerta viviente
@@ -70,7 +70,7 @@ Invocas una bruma magica que envuelve a una criatura. La bruma restablece 2d8 Pu
 
 ---
 
-### Rasgo Animal ◆ FOCO 2
+### Rasgo Animal {% include accion.html tipo="1" %} FOCO 2
 **Rasgos:** poco comun, concentrar, explorador, foco, manipular, morfismo
 
 **Duracion:** 1 minuto
@@ -88,7 +88,7 @@ Sin transformar por completo tu cuerpo, obtienes un rasgo animal que puedes sele
 
 ---
 
-### Suerte del Cazador ◇ FOCO 2
+### Suerte del Cazador {% include accion.html tipo="libre" %} FOCO 2
 **Rasgos:** poco comun, concentrar, explorador, foco, fortuna
 
 **Desencadenante:** Haces una prueba de Recordar conocimiento sobre una criatura, pero aun no has tirado los dados.
@@ -99,7 +99,7 @@ Tienes una aptitud sobrenatural para recordar detalles acerca de tus enemigos. H
 
 ## Conjuros de Guardian Maestro
 
-### Rastreo Efimero ◆◆ FOCO 3
+### Rastreo Efimero {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** poco comun, concentrar, explorador, foco, manipular
 
 **Duracion:** 1 hora
@@ -108,7 +108,7 @@ Puedes contemplar las corrientes en el aire y en el agua y ver rastros que puede
 
 ---
 
-### Zarzas del Explorador ◆◆ FOCO 3
+### Zarzas del Explorador {% include accion.html tipo="2" %} FOCO 3
 **Rasgos:** poco comun, concentrar, explorador, foco, manipular, planta
 
 **Rango:** 100 pies (30 m); **Area:** todas las casillas que contienen plantas en una explosion de 5 pies (1,5 m)
@@ -123,7 +123,7 @@ Haces que las plantas en el area enmarañan a tus enemigos, con los efectos de f
 
 ## Conjuros de Guardian Sin Igual
 
-### Transposicion de Terreno ◆◆ FOCO 5
+### Transposicion de Terreno {% include accion.html tipo="2" %} FOCO 5
 **Rasgos:** poco comun, concentrar, explorador, foco, manipular, teletransporte
 
 **Rango:** 90 pies (27 m)
@@ -132,7 +132,7 @@ Transpones misticamente tu ubicación actual con otra. Cuando estas en un entorn
 
 ---
 
-### Vision del Cazador ◆ FOCO 5
+### Vision del Cazador {% include accion.html tipo="1" %} FOCO 5
 **Rasgos:** poco comun, concentrar, explorador, foco
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 presa perseguida

@@ -17,7 +17,7 @@ source: PC2
 
 Esta varita de bronce tiene runas de fuego que brillan con un resplandor anaranjado.
 
-**Activar** ◆◆ Mando (1/día)
+**Activar** {% include accion.html tipo="2" %} Mando (1/día)
 
 **Efecto** Lanzas *bola de fuego* de rango 3 (6d6 de daño de fuego en una explosión de 20 pies/6 m de radio, salvación básica de Reflejos CD 23).
 

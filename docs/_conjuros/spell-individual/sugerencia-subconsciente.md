@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Sugerencia Subconsciente ◆◆ [CONJURO 5]
+## Sugerencia Subconsciente {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

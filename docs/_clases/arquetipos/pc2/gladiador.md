@@ -31,7 +31,7 @@ Al comienzo de un encuentro de combate, si tienes espectadores, obtienes una can
 
 Presumes tu estilo de lucha para desanimar a tus enemigos. Puedes usar Interpretación para Desmoralizar.
 
-### Complacer a la multitud · ◇ · Dote 4
+### Complacer a la multitud · {% include accion.html tipo="libre" %} · Dote 4
 
 **Rasgos:** Arquetipo, Concentrar
 

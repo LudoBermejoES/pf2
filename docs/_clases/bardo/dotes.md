@@ -35,7 +35,7 @@ Añadiendo un floreo haces que tus composiciones duren mas. Aprendes el conjuro 
 
 ---
 
-### Conjuro de Alcance ◆
+### Conjuro de Alcance {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Bardo, Concentrar, Moldeo de Conjuros*
@@ -180,7 +180,7 @@ Durante tus preparativos diarios, elige cualquier conjuro de tu libro de conjuro
 
 ## Nivel 4
 
-### Afinado ◆
+### Afinado {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Bardo, Concentrar, Moldeo de Conjuros*
@@ -193,7 +193,7 @@ Si dispones de Audiencia dirigida, en su lugar puedes hacer que el cono se origi
 
 ---
 
-### Avance Valeroso ◆
+### Avance Valeroso {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
@@ -204,7 +204,7 @@ Con un grito de animo, exhortas a un aliado a avanzar. Si tu siguiente acción e
 
 ---
 
-### Conjuro Melodioso ◆
+### Conjuro Melodioso {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Bardo, Concentrar, Moldeo de Conjuros*
@@ -235,7 +235,7 @@ Una cuidadosa investigación sobre el arte de los rituales te ha hecho mejor a l
 
 ---
 
-### Lectura de Combate ◆
+### Lectura de Combate {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Bardo, Secreto*
@@ -270,7 +270,7 @@ Aprendes el truco de composición triplicar la marcha, que os acelera a tus alia
 
 ## Nivel 6
 
-### Armonizar ◆
+### Armonizar {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Bardo, Concentrar, Manipular, Moldeo de Conjuros*
@@ -303,7 +303,7 @@ Si dispones del rango experto en una habilidad, cumples los prerrequisitos para 
 
 ---
 
-### Coordinación Defensiva ◆
+### Coordinación Defensiva {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
@@ -380,7 +380,7 @@ Tu amplia experiencia se refleja en una buena gama de habilidades. Tu bonificado
 
 ---
 
-### Llamada y Respuesta ◆
+### Llamada y Respuesta {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
@@ -428,7 +428,7 @@ Como quiera que sentido espiritual detecta esencias espirituales y no cuerpos f�
 
 ## Nivel 10
 
-### Asalto Valeroso ◆
+### Asalto Valeroso {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
@@ -454,7 +454,7 @@ Una composición que creas de esta forma pierde su poder la siguiente vez que ha
 
 ---
 
-### Composicion Inusual ◆
+### Composicion Inusual {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Bardo, Concentrar, Manipular, Moldeo de Conjuros*
@@ -474,7 +474,7 @@ Eliges una barrera imaginaria que los demás creen que es real. Aprendes el truc
 
 ---
 
-### Lanzamiento Apresurado ◇
+### Lanzamiento Apresurado {% include accion.html tipo="libre" %}
 **Dote 10**
 
 *Bardo, Concentrar, Moldeo de Conjuros*
@@ -592,7 +592,7 @@ Una vez has creado el gusano auditivo, debes hacer una prueba de interpretación
 
 ---
 
-### Himno Vigoroso ◆
+### Himno Vigoroso {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
@@ -601,7 +601,7 @@ Inspiras un vigor magico en tus aliados cuando les inspiras a atacar. Si tu sigu
 
 ---
 
-### Hipercognicion Verdadera ◆
+### Hipercognicion Verdadera {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Bardo*
@@ -612,7 +612,7 @@ Tu mente funciona a un ritmo increíble. Utilizas de forma instantanea hasta 5 a
 
 ---
 
-### Inspiracion Triunfante ◇
+### Inspiracion Triunfante {% include accion.html tipo="libre" %}
 **Dote 14**
 
 *Bardo*
@@ -627,7 +627,7 @@ Con un grito triunfal, inspiras a tus aliados. Lanzas un truco de composición q
 
 ## Nivel 16
 
-### Arremetida Valerosa ◆
+### Arremetida Valerosa {% include accion.html tipo="1" %}
 **Dote 16**
 
 *Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
@@ -649,7 +649,7 @@ Tus estudios continuados de la magia ocultista han incrementado tu capacidad mag
 
 ---
 
-### Concentracion sin Esfuerzo ◇
+### Concentracion sin Esfuerzo {% include accion.html tipo="libre" %}
 **Dote 16**
 
 *Bardo*

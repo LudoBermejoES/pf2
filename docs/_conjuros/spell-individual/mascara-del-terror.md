@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
-## Mascara del Terror ◆◆ [CONJURO 7]
+## Mascara del Terror {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

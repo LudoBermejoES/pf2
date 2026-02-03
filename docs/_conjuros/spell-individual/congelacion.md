@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Congelacion ◆◆ [TRUCO 1]
+## Congelacion {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura

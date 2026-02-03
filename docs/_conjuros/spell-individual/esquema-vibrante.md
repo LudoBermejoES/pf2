@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Esquema Vibrante ◆◆ [CONJURO 6]
+## Esquema Vibrante {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m); **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto

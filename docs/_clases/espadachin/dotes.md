@@ -100,7 +100,7 @@ Tus trucos hacen que los enemigos se excedan en sus ataques. En una Finta, puede
 
 ---
 
-### Parada Extravagante ◆
+### Parada Extravagante {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Espadachin*
@@ -111,7 +111,7 @@ Usas armas de una mano para parar con estilo. Obtienes un bonificador +1 por cir
 
 ---
 
-### Todos para Uno ◆
+### Todos para Uno {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Auditivo, Concentracion, Emocion, Espadachin, Linguistico, Mental*
@@ -122,7 +122,7 @@ Con precisamente las palabras de animo adecuadas, refuerzas los esfuerzos de un 
 
 ---
 
-### Tu Eres el Siguiente ◆
+### Tu Eres el Siguiente {% include accion.html tipo="1" %}
 **Dote 1**
 
 *Emocion, Espadachin, Mental, Miedo*
@@ -146,7 +146,7 @@ Tus burlas y amenazas ganan la ira de tus enemigos. Cuando Desmoralizas exitosam
 
 ---
 
-### Desenfundado Ostentoso ◆
+### Desenfundado Ostentoso {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Espadachin*
@@ -155,7 +155,7 @@ Desenfundas y atacas con el mismo movimiento. Interactuas para desenfundar un ar
 
 ---
 
-### Despues de Ti ◇
+### Despues de Ti {% include accion.html tipo="libre" %}
 **Dote 2**
 
 *Espadachin*
@@ -181,7 +181,7 @@ Te diriges a un aliado o a cualquier espectador de tu combate, alardeando ante t
 
 ---
 
-### Remate Desequilibrante ◆
+### Remate Desequilibrante {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Espadachin, Remate*
@@ -190,7 +190,7 @@ Atacas con un asalto llamativo que deja a tu objetivo desequilibrado. Da un Golp
 
 ---
 
-### Remate en Retirada ◆
+### Remate en Retirada {% include accion.html tipo="1" %}
 **Dote 2**
 
 *Espadachin, Remate*
@@ -234,7 +234,7 @@ Cuando el peligro llama, tienes un extraño don para salir adelante. Obtienes un
 
 ## Nivel 4
 
-### Arremetida Villana ◆
+### Arremetida Villana {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Espadachin, Floritura*
@@ -271,7 +271,7 @@ Usas tu arma para desviar el ataque contra tu aliado, otorgandole un bonificador
 
 ---
 
-### Equilibrar las Probabilidades ◇
+### Equilibrar las Probabilidades {% include accion.html tipo="libre" %}
 **Dote 4**
 
 *Espadachin*
@@ -286,7 +286,7 @@ Brillas mas en los momentos desesperados. Esbozas una sonrisa confiada o haces u
 
 ---
 
-### Iniciativa Arrogante ◇
+### Iniciativa Arrogante {% include accion.html tipo="libre" %}
 **Dote 4**
 
 *Espadachin*
@@ -297,7 +297,7 @@ Entras arrogantemente en cualquier combate. Obtienes un bonificador +2 por circu
 
 ---
 
-### Danza Guiada ◆
+### Danza Guiada {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Espadachin, Fanfarronada, Movimiento*
@@ -318,7 +318,7 @@ Barres a tu enemigo dentro de tu danza. Intenta una prueba de Interpretacion con
 
 ---
 
-### Remate Empalador ◆
+### Remate Empalador {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Espadachin, Remate*
@@ -327,7 +327,7 @@ Ensartas a dos enemigos con una unica estocada o los golpeas juntos con un puñe
 
 ---
 
-### Lanzamiento Giratorio ◆
+### Lanzamiento Giratorio {% include accion.html tipo="1" %}
 **Dote 4**
 
 *Espadachin, Remate*
@@ -382,7 +382,7 @@ Incluso cuando tu enemigo evita tu Remate Confiado, aun puedes golpear un punto 
 
 ---
 
-### Voltereta Vejatoria ◆
+### Voltereta Vejatoria {% include accion.html tipo="1" %}
 **Dote 6**
 
 *Espadachin, Fanfarronada*
@@ -399,7 +399,7 @@ Das volteretas alrededor de tus enemigos, evitando expertamente sus reacciones. 
 
 ## Nivel 8
 
-### Doble Remate ◆
+### Doble Remate {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Espadachin, Remate*
@@ -410,7 +410,7 @@ Divides tus ataques. Da dos Golpes cuerpo a cuerpo, uno con cada arma requerida,
 
 ---
 
-### Fanfarroneria Vivaz ◆
+### Fanfarroneria Vivaz {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Espadachin*
@@ -421,7 +421,7 @@ Tu ego se hincha, otorgandote un respiro temporal de tu dolor. Obtienes Puntos d
 
 ---
 
-### Lanzamiento Distractor ◆◆
+### Lanzamiento Distractor {% include accion.html tipo="2" %}
 **Dote 8**
 
 *Espadachin, Fanfarronada, Floritura*
@@ -430,7 +430,7 @@ Lanzas un arma al aire como distraccion mientras lanzas otra. Elige una criatura
 
 ---
 
-### Remate Aturdidor ◆
+### Remate Aturdidor {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Espadachin, Remate*
@@ -447,7 +447,7 @@ Intentas un golpe aturdidor. Da un Golpe cuerpo a cuerpo. Si impactas, tu enemig
 
 ---
 
-### Remate Sangrante ◆
+### Remate Sangrante {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Espadachin, Remate*
@@ -492,7 +492,7 @@ Intentas cambiar diestramente de lugar con un enemigo adyacente para evitar el a
 
 ---
 
-### Danza del Broquel ◆
+### Danza del Broquel {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Espadachin, Posicion*
@@ -512,7 +512,7 @@ Cuando combinas panache con aun mas derring-do, de alguna manera tiende a funcio
 
 ---
 
-### Remate Dirigido ◆
+### Remate Dirigido {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Espadachin, Remate*
@@ -525,7 +525,7 @@ Tu ataque daña y obstaculiza a tu enemigo. Elige una parte particular de tu ene
 
 ---
 
-### Remate Tropezante ◆
+### Remate Tropezante {% include accion.html tipo="1" %}
 **Dote 10**
 
 *Espadachin, Remate*
@@ -547,7 +547,7 @@ Puedes hacer un riposte casi sin pensarlo. Al inicio de cada uno de tus turnos c
 
 ## Nivel 12
 
-### Acostumbrate a la Decepcion ◇
+### Acostumbrate a la Decepcion {% include accion.html tipo="libre" %}
 **Dote 12**
 
 *Espadachin, Fanfarronada*
@@ -571,7 +571,7 @@ De alguna manera siempre escapas de la muerte por un pelo. Evitas quedar inconsc
 
 ---
 
-### Cuanto Mas Grandes Son ◆
+### Cuanto Mas Grandes Son {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Espadachin, Fanfarronada*
@@ -588,7 +588,7 @@ Con velocidad temeraria, te precipitas, saltas y te balanceas alrededor de una c
 
 ---
 
-### Remate Movil ◆
+### Remate Movil {% include accion.html tipo="1" %}
 **Dote 12**
 
 *Espadachin, Remate*
@@ -610,7 +610,7 @@ Tus ripostes pueden desviar ataques de vuelta a su origen. Puedes usar Riposte O
 
 ---
 
-### Remate Perfecto ◆
+### Remate Perfecto {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Espadachin, Fortuna, Remate*
@@ -619,7 +619,7 @@ Concentras tu panache en un asalto impecable. Da un Golpe, tirando la tirada de 
 
 ---
 
-### Salto Extravagante ◆◆
+### Salto Extravagante {% include accion.html tipo="2" %}
 **Dote 14**
 
 *Espadachin*
@@ -643,7 +643,7 @@ Tus ataques elegantes son especialmente poderosos. Cuando obtienes un impacto cr
 
 ---
 
-### Remate Revitalizante ◆
+### Remate Revitalizante {% include accion.html tipo="1" %}
 **Dote 16**
 
 *Espadachin, Remate*
@@ -676,7 +676,7 @@ Tus paradas y remates te permiten hacer ripostes con la menor provocacion. Puede
 
 ---
 
-### Remate Letal ◆
+### Remate Letal {% include accion.html tipo="1" %}
 **Dote 18**
 
 *Espadachin, Muerte, Remate*
@@ -726,7 +726,7 @@ Encuentras oportunidades para realizar hazañas con estilo en los momentos entre
 
 ---
 
-### Remate Ilimitado ◆
+### Remate Ilimitado {% include accion.html tipo="1" %}
 **Dote 20**
 
 *Espadachin, Fortuna, Remate*

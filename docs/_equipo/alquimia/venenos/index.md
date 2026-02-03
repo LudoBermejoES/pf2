@@ -21,7 +21,7 @@ La mayoría de venenos requieren una tirada de salvación de **Fortaleza** para 
 
 ### Envenenar arma
 
-**◆ Interactuar** (manipular)
+**{% include accion.html tipo="1" %} Interactuar** (manipular)
 
 Aplicas un veneno de lesión a un arma que empuñas o a una munición. Si atacas y aciertas con el arma o munición envenenada antes del final de tu próximo turno, la criatura impactada queda expuesta al veneno. En caso contrario, el veneno se desperdicia.
 

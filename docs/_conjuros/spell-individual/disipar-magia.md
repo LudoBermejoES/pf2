@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Disipar Magia ◆◆ [CONJURO 2]
+## Disipar Magia {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 efecto de conjuro u objeto magico desatendido

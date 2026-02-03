@@ -19,7 +19,7 @@ source: PC2
 
 Este aceite dorado restaura objetos dañados cuando se aplica.
 
-**Activar** ◆ Interactuar
+**Activar** {% include accion.html tipo="1" %} Interactuar
 
 **Efecto** Aplicas el aceite a un objeto dañado. El objeto recupera 2d8+5 Puntos de Golpe. Esto no puede reparar objetos rotos o destruidos.
 

@@ -1,12 +1,12 @@
 ---
 layout: spell
 permalink: /conjuros/ventisca-aullante-a/
-title: Ventisca Aullante ◆◆ a
+title: Ventisca Aullante {% include accion.html tipo="2" %} a
 chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
-## Ventisca Aullante ◆◆ a ◆◆◆ [CONJURO 5]
+## Ventisca Aullante {% include accion.html tipo="2" %} a {% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
 **Area:** variable; **Defensa:** Reflejos

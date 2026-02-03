@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Conocer el Camino ◆◆ [TRUCO 1]
+## Conocer el Camino {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** divina, ocultista, primigenia
 

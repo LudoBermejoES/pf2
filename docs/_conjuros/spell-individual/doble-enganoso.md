@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
-## Doble Enganoso ◆◆ [CONJURO 6]
+## Doble Enganoso {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, ocultista
 **Duracion:** mantenido hasta 1 minuto

@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Azote de Vitalidad ◆◆ [TRUCO 1]
+## Azote de Vitalidad {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura que, o bien es un muerto viviente, o por lo demás dispone de curacion por el vacío

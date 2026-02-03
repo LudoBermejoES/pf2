@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
-## Lanza Divina ◆◆ [TRUCO 1]
+## Lanza Divina {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** divina
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura

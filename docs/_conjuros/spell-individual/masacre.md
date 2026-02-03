@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
-## Masacre ◆◆ [CONJURO 9]
+## Masacre {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** arcana, divina, primigenia
 **Area:** linea de 60 pies (18 m); **Defensa:** Fortaleza

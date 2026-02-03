@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC2
 ---
-## Salvaguarda centelleante ◇ [6]
+## Salvaguarda centelleante {% include accion.html tipo="libre" %} [6]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Desencadenante:** Un efecto infligiría daño físico o de energía a ti o a una criatura en alcance.

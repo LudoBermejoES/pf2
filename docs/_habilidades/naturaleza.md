@@ -14,7 +14,7 @@ Sabes mucho acerca del mundo natural, pudiendo comandar y entrenar a los animale
 
 ---
 
-## Comandar a un animal ◆
+## Comandar a un animal {% include accion.html tipo="1" %}
 
 **Rasgos:** Auditivo, Concentrar
 

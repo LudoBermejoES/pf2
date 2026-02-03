@@ -6,7 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
-## Schadenfreude ◇ [1]
+## Schadenfreude {% include accion.html tipo="libre" %} [1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Desencadenante:** Fallas críticamente una tirada de salvación contra el efecto de un enemigo.
