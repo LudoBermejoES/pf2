@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/interactuar.png' | relative_url }}){: .action-card-image }
+
 ## Interactuar {% include accion.html tipo="1" %}
 
 **MANIPULAR**

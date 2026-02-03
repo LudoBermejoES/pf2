@@ -19,25 +19,19 @@ Incluso si no estás entrenado en Sociedad, puedes utilizarla con las siguientes
 
 ---
 
+## Acciones de Sociedad
+
+| Acción | Coste | Rango | Detalle |
+|--------|-------|-------|---------|
+| [Falsificar](/habilidades/sociedad/falsificar/) | Tiempo libre | Entrenado | Crear un documento falso |
+
+---
+
 ## Acciones entrenadas de Sociedad
 
 Tienes que estar entrenado en Sociedad a fin de utilizarla para Descifrar escritura.
 
 - **Descifrar escritura**, que es un mensaje codificado, un texto escrito en una forma incompleta o arcaica o, en algunos casos, un texto en un idioma que no conoces.
-
----
-
-## Falsificar
-
-**Rasgos:** Secreto, Tiempo libre
-
-**Requisitos:** Proporcionas el material de escritura adecuado para tu falsificación.
-
-Creas un documento falso, por lo general a lo largo de un día o de una semana. El DJ hace una prueba secreta de Sociedad CD 20. Si tienes que falsificar la caligrafía de una persona específica, necesitas una muestra de la misma. De lo contrario, tan sólo necesitas haber visto un documento similar, y obtienes hasta un bonificador +4 por circunstancia a la prueba (el DJ es quien determina el bonificador).
-
-**Éxito** La falsificación es lo bastante buena como para que los observadores pasivos no se den cuenta (pero consulta Cómo examinar falsificaciones).
-
-**Fallo** La falsificación tiene signos obvios de que es un documento falso, permitiendo potencialmente que los observadores pasivos lo detecten. Cada vez que un observador pasivo ve el documento, el DJ compara el resultado de tu prueba con la CD de Percepción del observador o su CD de Sociedad, la mayor de ambas. Si tu resultado no excede la CD de un observador pasivo, éste determina que el documento es una falsificación.
 
 ---
 

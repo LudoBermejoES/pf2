@@ -1,0 +1,40 @@
+---
+layout: page
+permalink: /habilidades/medicina/tratar-heridas/
+title: Tratar heridas
+chapter: Habilidades
+category: habilidades
+skill: Medicina
+action_cost: 0
+trained: true
+source: PC1
+---
+
+![Carta de acción]({{ '/assets/images/acciones/tratar-heridas.png' | relative_url }}){: .action-card-image }
+
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Curación</span><span class="feat-trait">Exploración</span><span class="feat-trait">Manipular</span></div>
+
+**Requisitos:** Tienes en tus manos material de curas o dispones de él.
+
+Inviertes 10 minutos tratando a una criatura viva herida (designándote a ti mismo como objetivo, si así lo decides). El objetivo queda a continuación temporalmente inmune a las acciones de Tratar heridas durante 1 hora, pero este intervalo se solapa con el tiempo que has pasado tratándolo (por lo que un paciente puede ser tratado una vez por hora, no una vez cada 70 minutos).
+
+La CD de la prueba de Medicina suele ser 15, aunque el DJ podría ajustarla basándose en las circunstancias, como por ejemplo tratar un paciente en el exterior en mitad de una tormenta, o tratar heridas mágicamente malditas.
+
+### CD por rango de competencia
+
+| Rango | CD | Bonus PG |
+|-------|-----|----------|
+| Entrenado | 15 | Base |
+| Experto | 20 | +10 PG |
+| Maestro | 30 | +30 PG |
+| Legendario | 40 | +50 PG |
+
+El daño infligido con un fallo crítico sigue siendo el mismo.
+
+Si tienes éxito en tu prueba, puedes continuar tratando al objetivo para concederle curación adicional. Si le tratas durante 1 hora, dobla los Puntos de Golpe que recupera debido a Tratar heridas.
+
+**Éxito crítico** El objetivo recupera 4d8 Puntos de Golpe y pierde el estado herido.
+
+**Éxito** El objetivo recupera 2d8 Puntos de Golpe y pierde el estado herido.
+
+**Fallo crítico** El objetivo sufre 1d8 daño.

@@ -18,6 +18,16 @@ Puedes Recordar conocimiento (pág. 231 ([ver](/habilidades/recordar-conocimient
 - Criaturas de significado arcano (como constructos, bestias y elementales)
 - Los Planos Elemental, Astral y el Inframundo
 
+---
+
+## Acciones de Arcanos
+
+| Acción | Coste | Rango | Detalle |
+|--------|-------|-------|---------|
+| [Pedir prestado un conjuro arcano](/habilidades/arcanos/pedir-prestado-un-conjuro-arcano/) | Exploración | Entrenado | Preparar un conjuro del libro de otro lanzador |
+
+---
+
 ## Acciones entrenadas de Arcanos
 
 Tienes que estar entrenado en Arcanos para utilizarlos con las siguientes acciones de habilidad generales:
@@ -25,13 +35,3 @@ Tienes que estar entrenado en Arcanos para utilizarlos con las siguientes accion
 - **Descifrar escritura** (pág. 228 ([ver](/habilidades/descifrar-escritura/))) acerca de la teoría arcana
 - **Identificar magia** (pág. 229 ([ver](/habilidades/obtener-ingresos/))), en particular: magia de la tradición arcana
 - **Aprender un conjuro** (pág. 228 ([ver](/habilidades/descifrar-escritura/))) de la tradición arcana
-
-### Pedir prestado un conjuro arcano
-
-**Concentrar, Exploración**
-
-Si eres un lanzador de conjuros arcanos que los prepara, puedes intentar preparar uno a partir del libro de conjuros de otro, del familiar de un brujo arcano o algo similar. El DJ es quien fija la CD basándose en el rango y en la rareza del conjuro; típicamente es un poco más fácil que Aprender el conjuro (pág. 228 ([ver](/habilidades/descifrar-escritura/))).
-
-**Éxito:** Preparas el conjuro prestado como parte de tus preparativos diarios normales.
-
-**Fallo:** No consigues preparar el conjuro, pero el espacio de conjuro sigue disponible para que prepares uno diferente. No podrás intentar preparar este conjuro de nuevo hasta la siguiente vez que prepares conjuros.

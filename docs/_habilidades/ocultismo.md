@@ -19,6 +19,8 @@ Puedes usar Ocultismo para **Recordar conocimiento** (pág. 231 ([ver](/habilida
 - Criaturas de significación ocultista (como por ejemplo las aberraciones, los espíritus y los cienos)
 - Los Planos esotéricos como el Plano Astral, la Forja de la Creación, el Plano Etéreo, el Inframundo y el Vacío
 
+---
+
 ## Acciones entrenadas de Ocultismo
 
 Tienes que estar entrenado en Ocultismo para utilizarlo con las siguientes acciones generales de habilidad.

@@ -8,6 +8,8 @@ nav_order: 4
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/obtener-ingresos.png' | relative_url }}){: .action-card-image }
+
 ## Obtener Ingresos (Entrenado)
 
 **Habilidades:**

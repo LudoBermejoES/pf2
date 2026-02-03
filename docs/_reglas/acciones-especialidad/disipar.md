@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/disipar.png' | relative_url }}){: .action-card-image }
+
 ## Disipar {% include accion.html tipo="1" %}
 
 **Rasgos:** Concentrar

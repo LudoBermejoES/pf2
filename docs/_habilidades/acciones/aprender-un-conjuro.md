@@ -8,6 +8,8 @@ nav_order: 1
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/aprender-un-conjuro.png' | relative_url }}){: .action-card-image }
+
 ## Aprender un Conjuro (Entrenado)
 
 **Habilidades:**

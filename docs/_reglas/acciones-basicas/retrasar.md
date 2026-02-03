@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/retrasar.png' | relative_url }}){: .action-card-image }
+
 ## Retrasar {% include accion.html tipo="libre" %}
 
 **Desencadenante** Empieza tu turno.

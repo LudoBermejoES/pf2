@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/preparar.png' | relative_url }}){: .action-card-image }
+
 ## Preparar {% include accion.html tipo="2" %}
 
 **CONCENTRAR**

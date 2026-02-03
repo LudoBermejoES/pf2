@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/excavar.png' | relative_url }}){: .action-card-image }
+
 ## Excavar {% include accion.html tipo="1" %}
 
 **Rasgos:** Movimiento

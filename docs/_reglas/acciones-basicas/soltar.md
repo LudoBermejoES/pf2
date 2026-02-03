@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/soltar.png' | relative_url }}){: .action-card-image }
+
 ## Soltar {% include accion.html tipo="libre" %}
 
 **MANIPULAR**

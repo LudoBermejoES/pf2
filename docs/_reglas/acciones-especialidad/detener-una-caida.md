@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/detener-una-caida.png' | relative_url }}){: .action-card-image }
+
 ## Detener una Caída {% include accion.html tipo="reaccion" %}
 
 **Desencadenante:** Te caes.

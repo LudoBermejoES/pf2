@@ -1,0 +1,7 @@
+# PF2e Action Cards Generator - Python Dependencies
+
+# Required for card image generation
+Pillow>=10.0.0
+
+# Required for PDF generation
+reportlab>=4.0.0

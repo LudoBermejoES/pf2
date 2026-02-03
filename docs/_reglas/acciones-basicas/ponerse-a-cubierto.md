@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/ponerse-a-cubierto.png' | relative_url }}){: .action-card-image }
+
 ## Ponerse a cubierto {% include accion.html tipo="1" %}
 
 **Requisitos** Te estas beneficiando de cobertura, estas cerca de un rasgo del terreno que te permite ponerte a cubierto o estas tumbado.

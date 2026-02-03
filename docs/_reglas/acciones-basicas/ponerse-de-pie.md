@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/ponerse-de-pie.png' | relative_url }}){: .action-card-image }
+
 ## Ponerse de pie {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**

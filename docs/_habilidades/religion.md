@@ -20,6 +20,8 @@ Puedes usar Religión para **Recordar conocimiento** (pág. 231 ([ver](/habilida
 - Las criaturas de significado religioso (como los celestiales, los infernales y los muertos vivientes)
 - La Forja de la Creación, el Vacío y la Esfera Exterior
 
+---
+
 ## Acciones entrenadas de Religión
 
 Tienes que estar entrenado en Religión para utilizarla con las siguientes acciones generales de habilidad.

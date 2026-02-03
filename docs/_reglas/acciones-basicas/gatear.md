@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/gatear.png' | relative_url }}){: .action-card-image }
+
 ## Gatear {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**

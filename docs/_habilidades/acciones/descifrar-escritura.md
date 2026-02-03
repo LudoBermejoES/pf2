@@ -8,6 +8,8 @@ nav_order: 2
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/descifrar-escritura.png' | relative_url }}){: .action-card-image }
+
 ## Descifrar Escritura (Entrenado)
 
 **Habilidades:**

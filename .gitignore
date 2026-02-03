@@ -30,3 +30,6 @@ claude-flow
 hive-mind-prompt-*.txt
 original/
 img/
+
+# Generated action cards (keep only in assets)
+tools/actionsCardCreator/generated_cards/

@@ -8,6 +8,8 @@ nav_order: 6
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/subsistir.png' | relative_url }}){: .action-card-image }
+
 ## Subsistir (No Entrenado)
 
 **Habilidades:**

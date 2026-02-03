@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/golpe.png' | relative_url }}){: .action-card-image }
+
 ## Golpe {% include accion.html tipo="1" %}
 
 **ATAQUE**

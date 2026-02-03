@@ -8,6 +8,8 @@ nav_order: 3
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/identificar-magia.png' | relative_url }}){: .action-card-image }
+
 ## Identificar Magia (Entrenado)
 
 **Habilidades:**

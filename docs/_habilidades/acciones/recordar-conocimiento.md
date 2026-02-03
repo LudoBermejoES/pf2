@@ -8,6 +8,8 @@ nav_order: 5
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/recordar-conocimiento.png' | relative_url }}){: .action-card-image }
+
 ## Recordar Conocimiento (No Entrenado)
 
 **Habilidades:**

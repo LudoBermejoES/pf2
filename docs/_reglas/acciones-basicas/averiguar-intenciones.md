@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/averiguar-intenciones.png' | relative_url }}){: .action-card-image }
+
 ## Averiguar intenciones {% include accion.html tipo="1" %}
 
 **CONCENTRAR** **SECRETO**

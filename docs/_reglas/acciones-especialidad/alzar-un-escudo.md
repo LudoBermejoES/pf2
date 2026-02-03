@@ -7,6 +7,8 @@ category: reglas
 source: PC1
 ---
 
+![Carta de acción]({{ '/assets/images/acciones/alzar-un-escudo.png' | relative_url }}){: .action-card-image }
+
 ## Alzar un Escudo {% include accion.html tipo="1" %}
 
 **Requisitos:** Estas embrazando un escudo.
