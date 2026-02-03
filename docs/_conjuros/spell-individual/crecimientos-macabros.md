@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+## Crecimientos macabros {% include accion.html tipo="2" %} [5]
 
 <img src="{{ '/assets/images/conjuros/crecimientos-macabros.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Crecimientos macabros {% include accion.html tipo="2" %} [5]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 60 pies (18 m); **Objetivos:** 1 criatura corpórea

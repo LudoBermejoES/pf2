@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Augurio [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/augurio.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Augurio [CONJURO 2]
 
 **Tradiciones:** divina, ocultista
 **Lanzamiento:** 10 minutos

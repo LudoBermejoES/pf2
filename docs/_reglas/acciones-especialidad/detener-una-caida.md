@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Detener una Caída {% include accion.html tipo="reaccion" %}
 
 <img src="{{ '/assets/images/acciones/detener-una-caida.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Detener una Caída {% include accion.html tipo="reaccion" %}
 
 **Desencadenante:** Te caes.
 

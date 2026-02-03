@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+## Rociada gélida {% include accion.html tipo="2" %} [1]
 
 <img src="{{ '/assets/images/conjuros/rociada-gelida.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Rociada gélida {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** arcana, primigenia
 **Área:** cono de 15 pies (4,5 m)

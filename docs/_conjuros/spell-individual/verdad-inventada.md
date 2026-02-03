@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
+## Verdad Inventada {% include accion.html tipo="3" %} [CONJURO 10]
 
 <img src="{{ '/assets/images/conjuros/verdad-inventada.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Verdad Inventada {% include accion.html tipo="3" %} [CONJURO 10]
 
 **Tradiciones:** ocultista
 **Rango de distancia:** 100 pies (30 m); **Objetivos:** hasta 5 criaturas

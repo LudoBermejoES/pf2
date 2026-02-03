@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+## Suelo ungido [3]
 
 <img src="{{ '/assets/images/conjuros/suelo-ungido.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Suelo ungido [3]
 
 **Tradiciones:** divina
 **Lanzamiento:** 1 minuto; **Coste:** aceites por valor de 3 mo

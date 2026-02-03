@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+## Inspiracion Divina {% include accion.html tipo="2" %} [CONJURO 8]
 
 <img src="{{ '/assets/images/conjuros/inspiracion-divina.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Inspiracion Divina {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** divina
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Nube Tóxica {% include accion.html tipo="3" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/nube-toxica.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Nube Tóxica {% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m); **Defensa:** Fortaleza básica; **Duración:** 1 minuto

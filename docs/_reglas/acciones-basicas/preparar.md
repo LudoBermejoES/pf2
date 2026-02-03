@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Preparar {% include accion.html tipo="2" %}
 
 <img src="{{ '/assets/images/acciones/preparar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Preparar {% include accion.html tipo="2" %}
 
 **CONCENTRAR**
 

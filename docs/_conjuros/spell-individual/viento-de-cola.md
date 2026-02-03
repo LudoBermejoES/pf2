@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Viento de Cola {% include accion.html tipo="2" %} [TRUCO]
 
 <img src="{{ '/assets/images/conjuros/viento-de-cola.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Viento de Cola {% include accion.html tipo="2" %} [TRUCO]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 hora

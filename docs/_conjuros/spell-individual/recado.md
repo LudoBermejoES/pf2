@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Recado {% include accion.html tipo="3" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/recado.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Recado {% include accion.html tipo="3" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** planetario; **Objetivos:** 1 criatura a la que conoces bien

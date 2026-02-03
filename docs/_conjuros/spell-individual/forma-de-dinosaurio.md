@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Forma de Dinosaurio {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/forma-de-dinosaurio.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Forma de Dinosaurio {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto

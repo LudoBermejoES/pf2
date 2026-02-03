@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Montura Maravillosa [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/montura-maravillosa.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Montura Maravillosa [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 10 minutos

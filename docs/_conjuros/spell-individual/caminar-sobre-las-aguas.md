@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Caminar Sobre las Aguas {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/caminar-sobre-las-aguas.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Caminar Sobre las Aguas {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

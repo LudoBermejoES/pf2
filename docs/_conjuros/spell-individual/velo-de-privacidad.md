@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Velo de Privacidad [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/velo-de-privacidad.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Velo de Privacidad [CONJURO 3]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Lanzamiento:** 10 minutos

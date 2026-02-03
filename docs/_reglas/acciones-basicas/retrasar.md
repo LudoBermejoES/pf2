@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Retrasar {% include accion.html tipo="libre" %}
 
 <img src="{{ '/assets/images/acciones/retrasar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Retrasar {% include accion.html tipo="libre" %}
 
 **Desencadenante** Empieza tu turno.
 

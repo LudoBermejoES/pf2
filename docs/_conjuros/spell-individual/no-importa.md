@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+## No Importa {% include accion.html tipo="2" %} [CONJURO 6]
 
 <img src="{{ '/assets/images/conjuros/no-importa.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## No Importa {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

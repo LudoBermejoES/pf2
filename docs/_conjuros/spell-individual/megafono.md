@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
+## Megáfono {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/megafono.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Megáfono {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Duración:** 10 minutos

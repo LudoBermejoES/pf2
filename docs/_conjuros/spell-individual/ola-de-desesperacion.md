@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Ola de Desesperación {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/ola-de-desesperacion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ola de Desesperación {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
 **Área:** cono de 30 pies (9 m); **Defensa:** Voluntad; **Duración:** 1 o más asaltos

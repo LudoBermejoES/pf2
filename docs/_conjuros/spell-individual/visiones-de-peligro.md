@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC2
 ---
+## Visiones de peligro {% include accion.html tipo="3" %} [7]
 
 <img src="{{ '/assets/images/conjuros/visiones-de-peligro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Visiones de peligro {% include accion.html tipo="3" %} [7]
 
 **Tradiciones:** ocultista
 **Rango:** 500 pies (150 m); **Área:** explosión de 30 pies (9 m)

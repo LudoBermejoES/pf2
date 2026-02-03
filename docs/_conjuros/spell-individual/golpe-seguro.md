@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Golpe Seguro {% include accion.html tipo="1" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/golpe-seguro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Golpe Seguro {% include accion.html tipo="1" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Duracion:** hasta el final de tu siguiente turno

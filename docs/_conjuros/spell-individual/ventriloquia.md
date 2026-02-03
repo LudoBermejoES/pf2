@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Ventriloquia {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/ventriloquia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ventriloquia {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 10 minutos

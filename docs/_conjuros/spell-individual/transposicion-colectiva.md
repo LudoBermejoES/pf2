@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 6
 source: PC2
 ---
+## Transposición colectiva {% include accion.html tipo="2" %} [6]
 
 <img src="{{ '/assets/images/conjuros/transposicion-colectiva.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Transposición colectiva {% include accion.html tipo="2" %} [6]
 
 **Tradiciones:** arcana, ocultista
 **Área:** emanación de 30 pies (9 m); **Objetivos:** hasta 2 criaturas

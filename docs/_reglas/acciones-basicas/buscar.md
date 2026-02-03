@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Buscar {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/buscar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Buscar {% include accion.html tipo="1" %}
 
 **CONCENTRAR** **SECRETO**
 

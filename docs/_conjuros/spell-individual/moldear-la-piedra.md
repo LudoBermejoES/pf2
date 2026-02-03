@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Moldear la Piedra {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/moldear-la-piedra.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Moldear la Piedra {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** un cubo de piedra de 10 pies (3 m) de lado o mas pequeno

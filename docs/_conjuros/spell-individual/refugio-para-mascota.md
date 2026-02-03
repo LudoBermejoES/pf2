@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Refugio para Mascota {% include accion.html tipo="1" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/refugio-para-mascota.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Refugio para Mascota {% include accion.html tipo="1" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria que es tu compañero

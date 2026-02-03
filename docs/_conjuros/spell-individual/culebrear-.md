@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Culebrear {% include accion.html tipo="2" %}/{% include accion.html tipo="3" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/culebrear-.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Culebrear {% include accion.html tipo="2" %}/{% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Reflejos; **Duracion:** 1 minuto

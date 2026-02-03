@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+## Rechazo {% include accion.html tipo="2" %} [CONJURO 6]
 
 <img src="{{ '/assets/images/conjuros/rechazo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Rechazo {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista
 **Área:** emanación de hasta 40 pies (12 m); **Defensa:** Voluntad; **Duración:** 1 minuto

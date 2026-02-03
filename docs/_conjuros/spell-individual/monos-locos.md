@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Monos Locos {% include accion.html tipo="2" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/monos-locos.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Monos Locos {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** primigenia
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m)

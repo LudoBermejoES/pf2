@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+## Maldición del tiempo perdido {% include accion.html tipo="2" %} [3]
 
 <img src="{{ '/assets/images/conjuros/maldicion-del-tiempo-perdido.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Maldición del tiempo perdido {% include accion.html tipo="2" %} [3]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango:** toque; **Objetivos:** 1 objeto Grande o menor, constructo o criatura viviente

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Guardian Espiritual {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/guardian-espiritual.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Guardian Espiritual {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m)

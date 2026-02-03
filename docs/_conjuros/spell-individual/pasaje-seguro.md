@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Pasaje Seguro {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/pasaje-seguro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Pasaje Seguro {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, divina, primigenia
 **Rango de distancia:** toque; **Área:** una sección de terreno de 10 pies (3 m) de anchura, 10 pies (3 m) de altura y 60 pies (18 m) de longitud

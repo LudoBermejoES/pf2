@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Paso {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/paso.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Paso {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**
 

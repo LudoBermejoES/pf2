@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Uno con la Piedra {% include accion.html tipo="2" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/uno-con-la-piedra.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Uno con la Piedra {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 10 minutos u 8 horas

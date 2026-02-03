@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
+## Caída de Estrellas {% include accion.html tipo="2" %} [CONJURO 9]
 
 <img src="{{ '/assets/images/conjuros/caida-de-estrellas.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Caída de Estrellas {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** 4 explosiones de 40 pies (12 m); **Defensa:** Reflejos basica

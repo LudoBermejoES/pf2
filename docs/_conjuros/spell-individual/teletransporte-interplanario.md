@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+## Teletransporte Interplanar [CONJURO 7]
 
 <img src="{{ '/assets/images/conjuros/teletransporte-interplanario.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Teletransporte Interplanar [CONJURO 7]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 10 minutos; **Requisitos:** Tienes una llave planaria para el Plano de destino, utilizada como locus

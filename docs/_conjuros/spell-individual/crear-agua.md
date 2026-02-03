@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Crear Agua {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/crear-agua.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Crear Agua {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, primigenia
 **Rango de distancia:** 0 pies

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Sacrificio final {% include accion.html tipo="2" %} [2]
 
 <img src="{{ '/assets/images/conjuros/sacrificio-final.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Sacrificio final {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango:** 120 pies (36 m); **Objetivos:** 1 criatura con el rasgo esbirro que has invocado o que controlas permanentemente

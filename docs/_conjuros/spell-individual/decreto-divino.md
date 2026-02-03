@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+## Decreto Divino {% include accion.html tipo="2" %} [CONJURO 7]
 
 <img src="{{ '/assets/images/conjuros/decreto-divino.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Decreto Divino {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** divina
 **Rango de distancia:** 40 pies (12 m); **Area:** emanacion de 40 pies (12 m); **Defensa:** Fortaleza; **Duracion:** variable

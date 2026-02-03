@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Sello {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/sello.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Sello {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura u objeto

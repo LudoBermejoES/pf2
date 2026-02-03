@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+## Sello Planario {% include accion.html tipo="2" %} [CONJURO 7]
 
 <img src="{{ '/assets/images/conjuros/sello-planario.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Sello Planario {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Área:** explosión de 60 pies (18 m)

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+## Contención {% include accion.html tipo="2" %} [4]
 
 <img src="{{ '/assets/images/conjuros/contencion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Contención {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura

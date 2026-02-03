@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+## Ola rompiente {% include accion.html tipo="2" %} [3]
 
 <img src="{{ '/assets/images/conjuros/ola-rompiente.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ola rompiente {% include accion.html tipo="2" %} [3]
 
 **Tradiciones:** arcana, primigenia
 **Área:** cono de 30 pies (9 m)

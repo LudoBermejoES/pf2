@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Santuario {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/santuario.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Santuario {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

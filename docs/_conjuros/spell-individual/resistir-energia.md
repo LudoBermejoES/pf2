@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Resistir Energía {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/resistir-energia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Resistir Energía {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

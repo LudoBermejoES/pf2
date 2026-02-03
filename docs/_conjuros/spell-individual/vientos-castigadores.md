@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+## Vientos Castigadores {% include accion.html tipo="3" %} [CONJURO 8]
 
 <img src="{{ '/assets/images/conjuros/vientos-castigadores.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Vientos Castigadores {% include accion.html tipo="3" %} [CONJURO 8]
 
 **Tradiciones:** primigenia
 **Rango de distancia:** 100 pies (30 m); **Area:** un cilindro de 30 pies (9 m) de radio y 100 pies (30 m) de altura

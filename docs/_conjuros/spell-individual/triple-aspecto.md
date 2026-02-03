@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+## Triple aspecto [3]
 
 <img src="{{ '/assets/images/conjuros/triple-aspecto.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Triple aspecto [3]
 
 **Tradiciones:** ocultista, primigenia
 **Lanzamiento:** 1 minuto

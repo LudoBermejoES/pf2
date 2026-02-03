@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Volar {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/volar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Volar {% include accion.html tipo="1" %}
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 

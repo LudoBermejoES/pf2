@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Leer Augurios [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/leer-augurios.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Leer Augurios [CONJURO 4]
 
 **Tradiciones:** divina, ocultista
 **Lanzamiento:** 10 minutos

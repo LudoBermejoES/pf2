@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Heroísmo {% include accion.html tipo="2" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/heroismo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Heroísmo {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

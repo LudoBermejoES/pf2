@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Hipercognicion {% include accion.html tipo="1" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/hipercognicion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Hipercognicion {% include accion.html tipo="1" %} [CONJURO 3]
 
 **Tradiciones:** ocultista
 

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
+## Canción Insondable {% include accion.html tipo="2" %} [CONJURO 9]
 
 <img src="{{ '/assets/images/conjuros/cancion-insondable.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Canción Insondable {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** hasta 5 criaturas

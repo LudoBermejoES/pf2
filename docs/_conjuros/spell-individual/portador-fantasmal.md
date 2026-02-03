@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Portador Fantasmal {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/portador-fantasmal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Portador Fantasmal {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m)

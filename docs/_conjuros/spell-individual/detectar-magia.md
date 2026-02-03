@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Detectar Magia {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/detectar-magia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Detectar Magia {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Area:** emanacion de 30 pies (9 m)

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Garra Punzante {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/garra-punzante.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Garra Punzante {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

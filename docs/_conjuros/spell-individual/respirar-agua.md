@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Respirar Agua [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/respirar-agua.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Respirar Agua [CONJURO 2]
 
 **Tradiciones:** arcana, divina, primigenia
 **Lanzamiento:** 1 minuto

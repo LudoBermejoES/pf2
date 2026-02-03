@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+## Guía del caminante [3]
 
 <img src="{{ '/assets/images/conjuros/guia-del-caminante.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Guía del caminante [3]
 
 **Tradiciones:** divina, ocultista
 **Lanzamiento:** 1 minuto

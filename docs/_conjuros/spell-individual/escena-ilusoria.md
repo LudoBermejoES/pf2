@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Escena Ilusoria [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/escena-ilusoria.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Escena Ilusoria [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 10 minutos

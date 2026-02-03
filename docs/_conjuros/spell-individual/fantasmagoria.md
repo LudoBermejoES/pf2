@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
+## Fantasmagoria {% include accion.html tipo="2" %} [CONJURO 9]
 
 <img src="{{ '/assets/images/conjuros/fantasmagoria.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Fantasmagoria {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** cualquier cantidad de criaturas

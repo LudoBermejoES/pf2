@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+## Desecar {% include accion.html tipo="2" %} [CONJURO 8]
 
 <img src="{{ '/assets/images/conjuros/desecar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Desecar {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** cualquier numero de criaturas vivas

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Empujón Hidraulico {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/empujon-hidraulico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Empujón Hidraulico {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura u objeto desatendido

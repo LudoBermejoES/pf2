@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
+## Rehacer [CONJURO 10]
 
 <img src="{{ '/assets/images/conjuros/rehacer.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Rehacer [CONJURO 10]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 1 hora; **Coste:** un resto del objeto

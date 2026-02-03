@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+## Regalo considerado {% include accion.html tipo="1" %} [1]
 
 <img src="{{ '/assets/images/conjuros/regalo-considerado.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Regalo considerado {% include accion.html tipo="1" %} [1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango:** 120 pies (36 m); **Objetivos:** 1 criatura voluntaria

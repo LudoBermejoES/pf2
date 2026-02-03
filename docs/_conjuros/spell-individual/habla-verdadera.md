@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Habla Verdadera {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/habla-verdadera.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Habla Verdadera {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

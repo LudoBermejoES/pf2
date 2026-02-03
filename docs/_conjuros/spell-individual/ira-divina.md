@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Ira Divina {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/ira-divina.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ira Divina {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** divina
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 20 pies (6 m); **Defensa:** Fortaleza

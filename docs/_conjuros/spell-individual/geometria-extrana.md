@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+## Geometría extraña {% include accion.html tipo="3" %} [5]
 
 <img src="{{ '/assets/images/conjuros/geometria-extrana.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Geometría extraña {% include accion.html tipo="3" %} [5]
 
 **Tradiciones:** ocultista
 **Rango:** 60 pies (18 m); **Área:** 4 cubos, cada uno de 10 pies (3 m) por lado

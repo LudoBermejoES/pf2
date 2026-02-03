@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+## Cadena de Relampagos {% include accion.html tipo="2" %} [CONJURO 6]
 
 <img src="{{ '/assets/images/conjuros/cadena-de-relampagos.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Cadena de Relampagos {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 500 pies (150 m); **Objetivos:** 1 criatura, mas cualquier numero de criaturas adicionales

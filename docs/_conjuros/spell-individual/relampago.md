@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Relámpago {% include accion.html tipo="2" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/relampago.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Relámpago {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m)

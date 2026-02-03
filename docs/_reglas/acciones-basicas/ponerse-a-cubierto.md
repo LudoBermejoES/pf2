@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Ponerse a cubierto {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/ponerse-a-cubierto.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Ponerse a cubierto {% include accion.html tipo="1" %}
 
 **Requisitos** Te estas beneficiando de cobertura, estas cerca de un rasgo del terreno que te permite ponerte a cubierto o estas tumbado.
 

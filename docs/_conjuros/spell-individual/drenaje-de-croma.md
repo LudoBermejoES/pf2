@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+## Drenaje de croma {% include accion.html tipo="2" %} [4]
 
 <img src="{{ '/assets/images/conjuros/drenaje-de-croma.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Drenaje de croma {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** ocultista
 **Rango:** toque; **Objetivos:** 1 criatura viviente

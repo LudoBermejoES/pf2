@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Fachada de Objeto {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/fachada-de-objeto.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Fachada de Objeto {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 objeto no mayor que 10 pies por 10 pies por 10 pies (3 x 3 x 3 m)

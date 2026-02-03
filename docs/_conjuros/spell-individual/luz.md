@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Luz {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/luz.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Luz {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 120 pies (36 m)

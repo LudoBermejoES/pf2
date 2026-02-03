@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+## Fango corrosivo {% include accion.html tipo="2" %} [5]
 
 <img src="{{ '/assets/images/conjuros/fango-corrosivo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Fango corrosivo {% include accion.html tipo="2" %} [5]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 120 pies (36 m); **Área:** todas las casillas en dos explosiones de 10 pies (3 m)

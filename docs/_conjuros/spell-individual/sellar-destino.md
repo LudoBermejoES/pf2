@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+## Sellar destino {% include accion.html tipo="2" %} [4]
 
 <img src="{{ '/assets/images/conjuros/sellar-destino.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Sellar destino {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango:** toque; **Objetivos:** 1 criatura viviente

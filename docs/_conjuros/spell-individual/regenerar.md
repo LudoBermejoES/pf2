@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+## Regenerar {% include accion.html tipo="2" %} [CONJURO 7]
 
 <img src="{{ '/assets/images/conjuros/regenerar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Regenerar {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura viva voluntaria

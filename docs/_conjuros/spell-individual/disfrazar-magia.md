@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Disfrazar Magia [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/disfrazar-magia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Disfrazar Magia [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 1 minuto

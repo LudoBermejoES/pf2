@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Soltar {% include accion.html tipo="libre" %}
 
 <img src="{{ '/assets/images/acciones/soltar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Soltar {% include accion.html tipo="libre" %}
 
 **MANIPULAR**
 

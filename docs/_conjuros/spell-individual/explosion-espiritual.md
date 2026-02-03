@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+## Explosion Espiritual {% include accion.html tipo="2" %} [CONJURO 6]
 
 <img src="{{ '/assets/images/conjuros/explosion-espiritual.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Explosion Espiritual {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

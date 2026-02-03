@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Infundir Vitalidad {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/infundir-vitalidad-a.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Infundir Vitalidad {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} [CONJURO 1]
 
 **Tradiciones:** divina
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 a 3 criaturas voluntarias

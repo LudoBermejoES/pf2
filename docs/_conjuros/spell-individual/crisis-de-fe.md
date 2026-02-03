@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Crisis de Fe {% include accion.html tipo="2" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/crisis-de-fe.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Crisis de Fe {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** divina
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

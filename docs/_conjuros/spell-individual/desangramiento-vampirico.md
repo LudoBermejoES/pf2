@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+## Desangramiento Vampirico {% include accion.html tipo="2" %} [CONJURO 6]
 
 <img src="{{ '/assets/images/conjuros/desangramiento-vampirico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Desangramiento Vampirico {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista
 **Area:** cono de 30 pies (9 m); **Defensa:** Fortaleza basica

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Plaga súbita {% include accion.html tipo="2" %} [2]
 
 <img src="{{ '/assets/images/conjuros/plaga-subita.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Plaga súbita {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** divina, primigenia
 **Rango:** 120 pies (36 m); **Área:** explosión de 20 pies (6 m)

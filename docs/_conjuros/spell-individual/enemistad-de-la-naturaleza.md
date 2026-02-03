@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 9
 source: PC2
 ---
+## Enemistad de la naturaleza {% include accion.html tipo="2" %} [9]
 
 <img src="{{ '/assets/images/conjuros/enemistad-de-la-naturaleza.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Enemistad de la naturaleza {% include accion.html tipo="2" %} [9]
 
 **Tradiciones:** primigenia
 **Rango:** 120 pies (36 m); **Área:** explosión de 500 pies (150 m); **Objetivos:** hasta 5 criaturas

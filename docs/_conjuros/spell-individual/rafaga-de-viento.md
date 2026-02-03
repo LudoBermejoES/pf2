@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Ráfaga de Viento {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/rafaga-de-viento.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ráfaga de Viento {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Área:** línea de 60 pies (18 m); **Defensa:** Fortaleza; **Duración:** hasta el inicio de tu siguiente turno

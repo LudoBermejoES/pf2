@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Presa del Geco {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/presa-del-geco.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Presa del Geco {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

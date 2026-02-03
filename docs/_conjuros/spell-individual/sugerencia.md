@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Sugerencia {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/sugerencia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Sugerencia {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

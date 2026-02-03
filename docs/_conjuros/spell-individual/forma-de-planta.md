@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Forma de Planta {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/forma-de-planta.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Forma de Planta {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto

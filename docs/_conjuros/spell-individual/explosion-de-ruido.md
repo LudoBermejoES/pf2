@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Explosion de Ruido {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/explosion-de-ruido.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Explosion de Ruido {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 10 pies (3 m); **Defensa:** Fortaleza

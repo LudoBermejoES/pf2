@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Tormenta de Armas {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/tormenta-de-armas.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Tormenta de Armas {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
 **Area:** cono de 30 pies (9 m) o emanacion de 10 pies (3 m); **Defensa:** Reflejos

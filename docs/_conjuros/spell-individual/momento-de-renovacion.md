@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+## Momento de Renovacion {% include accion.html tipo="2" %} [CONJURO 8]
 
 <img src="{{ '/assets/images/conjuros/momento-de-renovacion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Momento de Renovacion {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** toque; **Objetivos:** hasta 6 criaturas

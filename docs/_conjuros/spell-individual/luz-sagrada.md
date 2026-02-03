@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Luz Sagrada {% include accion.html tipo="2" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/luz-sagrada.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Luz Sagrada {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

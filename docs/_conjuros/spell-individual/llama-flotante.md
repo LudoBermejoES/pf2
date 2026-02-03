@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Llama Flotante {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/llama-flotante.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Llama Flotante {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 casilla de 5 pies (1,5 m)

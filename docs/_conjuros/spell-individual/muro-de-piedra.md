@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Muro de Piedra {% include accion.html tipo="3" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/muro-de-piedra.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Muro de Piedra {% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m)

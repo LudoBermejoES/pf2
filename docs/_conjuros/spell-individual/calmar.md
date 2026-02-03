@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Calmar {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/calmar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Calmar {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m); **Defensa:** Voluntad; **Duracion:** mantenido hasta 1 minuto

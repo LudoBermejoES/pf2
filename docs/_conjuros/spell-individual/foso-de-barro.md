@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+## Foso de barro {% include accion.html tipo="3" %} [1]
 
 <img src="{{ '/assets/images/conjuros/foso-de-barro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Foso de barro {% include accion.html tipo="3" %} [1]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 60 pies (18 m); **Área:** casillas en el suelo en una explosión de 15 pies (4,5 m)

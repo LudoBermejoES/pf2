@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
+## Chorro {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/chorro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Chorro {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 30 pies (9 m); **Área:** un cubo de 5 pies (1,5 m)

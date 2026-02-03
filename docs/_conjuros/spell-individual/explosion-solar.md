@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+## Explosion Solar {% include accion.html tipo="2" %} [CONJURO 7]
 
 <img src="{{ '/assets/images/conjuros/explosion-solar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Explosion Solar {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 500 pies (150 m); **Area:** explosion de 60 pies (18 m); **Defensa:** Reflejos

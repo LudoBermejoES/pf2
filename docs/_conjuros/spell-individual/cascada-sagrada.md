@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+## Cascada sagrada {% include accion.html tipo="2" %} [4]
 
 <img src="{{ '/assets/images/conjuros/cascada-sagrada.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Cascada sagrada {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** divina
 **Coste:** una ampolla de agua bendita (Pathfinder GM Core 268)

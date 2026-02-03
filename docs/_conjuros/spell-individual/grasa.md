@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Grasa {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/grasa.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Grasa {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m); **Area:** 4 casillas contiguas de 5 pies (1,5 m) de lado; **Objetivos:** 1 objeto de Impedimenta 1 o menos

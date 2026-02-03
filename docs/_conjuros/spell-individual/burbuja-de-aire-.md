@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Burbuja de Aire {% include accion.html tipo="reaccion" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/burbuja-de-aire-.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Burbuja de Aire {% include accion.html tipo="reaccion" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, primigenia
 **Desencadenante:** Una criatura dentro del alcance entra en un entorno en el que no puede respirar.

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Zarcillos Macabros {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/zarcillos-macabros.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Zarcillos Macabros {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Area:** linea de 30 pies (9 m); **Defensa:** Fortaleza

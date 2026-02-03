@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+## Ojos innumerables {% include accion.html tipo="2" %} [4]
 
 <img src="{{ '/assets/images/conjuros/ojos-innumerables.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ojos innumerables {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Rango:** toque; **Objetivos:** 1 criatura

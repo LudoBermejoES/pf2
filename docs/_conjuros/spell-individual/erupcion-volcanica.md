@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+## Erupcion Volcanica {% include accion.html tipo="2" %} [CONJURO 7]
 
 <img src="{{ '/assets/images/conjuros/erupcion-volcanica.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Erupcion Volcanica {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** primigenia
 **Rango de distancia:** 120 pies (36 m); **Area:** un cilindro de 5 pies (1,5 m) de radio y 80 pies (24 m) de altura; **Defensa:** Reflejos

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Clariaudiencia [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/clariaudiencia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Clariaudiencia [CONJURO 3]
 
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 1 minuto

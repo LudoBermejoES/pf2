@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Forma Animal {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/forma-animal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Forma Animal {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** primigenia
 **Duracion:** 1 minuto

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Dormir {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/dormir.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Dormir {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Area:** explosion de 5 pies (1,5 m); **Defensa:** Voluntad

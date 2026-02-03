@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Forma de Insecto {% include accion.html tipo="2" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/forma-de-insecto.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Forma de Insecto {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 1 minuto

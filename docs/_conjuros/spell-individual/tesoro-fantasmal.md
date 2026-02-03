@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Tesoro fantasmal {% include accion.html tipo="2" %} [2]
 
 <img src="{{ '/assets/images/conjuros/tesoro-fantasmal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Tesoro fantasmal {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 60 pies (18 m); **Objetivos:** 1 criatura viviente

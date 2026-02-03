@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Mantener {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/mantener.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Mantener {% include accion.html tipo="1" %}
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 

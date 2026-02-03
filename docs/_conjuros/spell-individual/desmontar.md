@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Desmontar {% include accion.html tipo="2" %} [2]
 
 <img src="{{ '/assets/images/conjuros/desmontar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Desmontar {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** toque; **Objetivos:** 1 objeto no mágico en tu posesión de 1 Volumen o menos

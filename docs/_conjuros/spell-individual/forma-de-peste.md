@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+## Forma de Peste {% include accion.html tipo="2" %} [CONJURO 8]
 
 <img src="{{ '/assets/images/conjuros/forma-de-peste.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Forma de Peste {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, primigenia
 **Duracion:** 10 minutos

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+## Pozo gravitacional {% include accion.html tipo="2" %} [3]
 
 <img src="{{ '/assets/images/conjuros/pozo-gravitacional.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Pozo gravitacional {% include accion.html tipo="2" %} [3]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 120 pies (36 m); **Área:** explosión de 30 pies (9 m)

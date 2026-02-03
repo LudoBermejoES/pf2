@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Telaraña {% include accion.html tipo="3" %} [2]
 
 <img src="{{ '/assets/images/conjuros/telarana.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Telaraña {% include accion.html tipo="3" %} [2]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 30 pies (9 m); **Área:** explosión de 10 pies (3 m)

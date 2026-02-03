@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+## Rostro del familiar {% include accion.html tipo="2" %} [3]
 
 <img src="{{ '/assets/images/conjuros/rostro-del-familiar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Rostro del familiar {% include accion.html tipo="2" %} [3]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango:** 1 milla (1,6 km); **Objetivos:** 1 criatura voluntaria que sea tu compañero animal o tu familiar

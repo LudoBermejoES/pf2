@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 10
 source: PC2
 ---
+## Manada primigenia {% include accion.html tipo="2" %} [10]
 
 <img src="{{ '/assets/images/conjuros/manada-primigenia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Manada primigenia {% include accion.html tipo="2" %} [10]
 
 **Tradiciones:** primigenia
 **Rango:** 30 pies (9 m); **Objetivos:** tú y hasta 5 objetivos voluntarios

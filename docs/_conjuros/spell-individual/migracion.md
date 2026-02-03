@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+## Migracion {% include accion.html tipo="2" %} [CONJURO 8]
 
 <img src="{{ '/assets/images/conjuros/migracion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Migracion {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** primigenia
 **Lanzamiento:** 10 minutos

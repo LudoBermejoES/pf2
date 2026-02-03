@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+## Invocar servitor menor {% include accion.html tipo="3" %} [1]
 
 <img src="{{ '/assets/images/conjuros/invocar-servitor-menor.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Invocar servitor menor {% include accion.html tipo="3" %} [1]
 
 **Tradiciones:** divina
 **Rango:** 30 pies (9 m)

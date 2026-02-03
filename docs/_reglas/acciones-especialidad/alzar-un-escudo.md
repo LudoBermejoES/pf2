@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Alzar un Escudo {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/alzar-un-escudo.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Alzar un Escudo {% include accion.html tipo="1" %}
 
 **Requisitos:** Estas embrazando un escudo.
 

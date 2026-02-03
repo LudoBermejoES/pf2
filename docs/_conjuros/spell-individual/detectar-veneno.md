@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Detectar Veneno {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/detectar-veneno.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Detectar Veneno {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 objeto o criatura

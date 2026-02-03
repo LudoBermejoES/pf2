@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Saltar {% include accion.html tipo="1" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/saltar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Saltar {% include accion.html tipo="1" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 

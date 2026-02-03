@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Destierro {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/destierro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Destierro {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura que no esta en su Plano natal

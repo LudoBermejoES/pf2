@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Pies Ágiles {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/pies-agiles.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Pies Ágiles {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Duración:** 1 minuto

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+## Lectura de objeto {% include accion.html tipo="2" %} [1]
 
 <img src="{{ '/assets/images/conjuros/lectura-de-objeto.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Lectura de objeto {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** ocultista
 **Rango:** toque; **Objetivos:** 1 objeto

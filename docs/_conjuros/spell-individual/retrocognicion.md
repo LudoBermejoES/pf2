@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+## Retrocognición [CONJURO 7]
 
 <img src="{{ '/assets/images/conjuros/retrocognicion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Retrocognición [CONJURO 7]
 
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 1 minuto

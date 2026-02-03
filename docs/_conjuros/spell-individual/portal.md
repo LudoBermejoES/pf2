@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
+## Portal {% include accion.html tipo="2" %} [CONJURO 10]
 
 <img src="{{ '/assets/images/conjuros/portal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Portal {% include accion.html tipo="2" %} [CONJURO 10]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 120 pies (36 m)

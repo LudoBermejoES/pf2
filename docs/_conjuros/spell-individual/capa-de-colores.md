@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+## Capa de colores {% include accion.html tipo="2" %} [5]
 
 <img src="{{ '/assets/images/conjuros/capa-de-colores.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Capa de colores {% include accion.html tipo="2" %} [5]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura

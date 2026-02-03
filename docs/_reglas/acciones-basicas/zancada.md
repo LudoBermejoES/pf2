@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Zancada {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/zancada.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Zancada {% include accion.html tipo="1" %}
 
 **MOVIMIENTO**
 

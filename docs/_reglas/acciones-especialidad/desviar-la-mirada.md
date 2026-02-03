@@ -6,9 +6,8 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Desviar la Mirada {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/desviar-la-mirada.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Desviar la Mirada {% include accion.html tipo="1" %}
 
 Desvias la mirada de un peligro, como por ejemplo los ojos de una medusa. Obtienes un bonificador +2 por circunstancia a las salvaciones contra las aptitudes visuales que requieren que mires a una criatura u objeto, como por ejemplo la mirada petrificante de una medusa. Tu mirada permanece desviada hasta el inicio de tu siguiente turno.

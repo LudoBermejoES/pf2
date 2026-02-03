@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Agarrarse a un Saliente {% include accion.html tipo="reaccion" %}
 
 <img src="{{ '/assets/images/acciones/agarrarse-a-un-saliente.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Agarrarse a un Saliente {% include accion.html tipo="reaccion" %}
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 

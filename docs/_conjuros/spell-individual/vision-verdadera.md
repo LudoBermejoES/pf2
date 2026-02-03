@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+## Vision Verdadera {% include accion.html tipo="2" %} [CONJURO 6]
 
 <img src="{{ '/assets/images/conjuros/vision-verdadera.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Vision Verdadera {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** 10 minutos

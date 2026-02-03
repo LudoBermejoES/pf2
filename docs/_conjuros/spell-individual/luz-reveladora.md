@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Luz Reveladora {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/luz-reveladora.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Luz Reveladora {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 120 pies (36 m); **Area:** explosion de 10 pies (3 m); **Defensa:** Reflejos; **Duracion:** variable

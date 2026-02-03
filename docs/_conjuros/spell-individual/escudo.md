@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Escudo {% include accion.html tipo="1" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/escudo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Escudo {% include accion.html tipo="1" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Duracion:** hasta el inicio de tu siguiente turno

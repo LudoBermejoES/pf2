@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Orientación {% include accion.html tipo="1" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/orientacion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Orientación {% include accion.html tipo="1" %} [TRUCO 1]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

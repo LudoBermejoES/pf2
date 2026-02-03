@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Ansias de gul {% include accion.html tipo="2" %} [2]
 
 <img src="{{ '/assets/images/conjuros/ansias-de-gul.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ansias de gul {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** divina, ocultista
 **Rango:** toque; **Objetivos:** 1 criatura

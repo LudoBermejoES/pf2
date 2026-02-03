@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Limpiar Cocinados {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/limpiar-cocinados.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Limpiar Cocinados {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** divina, primigenia
 **Rango de distancia:** 10 pies (3 m); **Area:** 1 pie cubico (0,03 m3)

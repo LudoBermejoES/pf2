@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Escombros Apaleadores {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/escombros-apaleadores.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Escombros Apaleadores {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Area:** cono de 15 pies (4,5 m); **Defensa:** Reflejos

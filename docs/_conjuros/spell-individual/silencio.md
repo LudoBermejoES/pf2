@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Silencio {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/silencio.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Silencio {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura voluntaria

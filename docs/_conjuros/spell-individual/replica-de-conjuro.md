@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 7
 source: PC2
 ---
+## Réplica de conjuro {% include accion.html tipo="libre" %} [7]
 
 <img src="{{ '/assets/images/conjuros/replica-de-conjuro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Réplica de conjuro {% include accion.html tipo="libre" %} [7]
 
 **Tradiciones:** arcana, divina, ocultista
 **Desencadenante:** Eres el objetivo de un conjuro del que eres consciente.

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Explosion de Sombra {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/explosion-de-sombra.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Explosion de Sombra {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** variable; **Area:** variable; **Defensa:** Reflejos o Voluntad basica (a elegir por el objetivo)

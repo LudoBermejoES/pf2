@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+## Desaparicion {% include accion.html tipo="2" %} [CONJURO 8]
 
 <img src="{{ '/assets/images/conjuros/desaparicion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Desaparicion {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

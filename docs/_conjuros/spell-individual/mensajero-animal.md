@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Mensajero Animal [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/mensajero-animal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Mensajero Animal [CONJURO 2]
 
 **Tradiciones:** primigenia
 **Lanzamiento:** 1 minuto

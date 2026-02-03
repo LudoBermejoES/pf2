@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Potencial Onírico [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/potencial-onirico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Potencial Onírico [CONJURO 5]
 
 **Tradiciones:** ocultista
 **Lanzamiento:** 10 minutos

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Palabras Almibaradas {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/palabras-almibaradas.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Palabras Almibaradas {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** ocultista
 **Duración:** 10 minutos

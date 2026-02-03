@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+## Impronta de mensaje {% include accion.html tipo="2" %} [1]
 
 <img src="{{ '/assets/images/conjuros/impronta-de-mensaje.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Impronta de mensaje {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** ocultista
 **Rango:** toque; **Objetivos:** 1 objeto

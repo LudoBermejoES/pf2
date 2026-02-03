@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Senalar {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/senalar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Senalar {% include accion.html tipo="1" %}
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 

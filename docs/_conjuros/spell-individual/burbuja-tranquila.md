@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Burbuja Tranquila [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/burbuja-tranquila.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Burbuja Tranquila [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 10 minutos

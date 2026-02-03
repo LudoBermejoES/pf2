@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Flora Enmaranante {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/flora-enmaranante.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Flora Enmaranante {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m); **Area:** todas las casillas en una explosion de 20 pies (6 m)

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Convocar Planta u Hongo {% include accion.html tipo="3" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/convocar-planta-u-hongo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Convocar Planta u Hongo {% include accion.html tipo="3" %} [CONJURO 1]
 
 **Tradiciones:** primigenia
 **Rango de distancia:** 30 pies (9 m)

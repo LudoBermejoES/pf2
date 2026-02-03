@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Atontar {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/atontar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Atontar {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** 60 pies (18 m); **Objetivos:** 1 criatura

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Vision de la Muerte {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/vision-de-la-muerte.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Vision de la Muerte {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura viva

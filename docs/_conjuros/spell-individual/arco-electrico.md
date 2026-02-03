@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Arco Eléctrico {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/arco-electrico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Arco Eléctrico {% include accion.html tipo="2" %} [TRUCO 1]
 
 
 ---

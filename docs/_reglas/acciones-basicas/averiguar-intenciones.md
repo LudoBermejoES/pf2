@@ -6,10 +6,9 @@ chapter: Cómo Jugar
 category: reglas
 source: PC1
 ---
+## Averiguar intenciones {% include accion.html tipo="1" %}
 
 <img src="{{ '/assets/images/acciones/averiguar-intenciones.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
-
-## Averiguar intenciones {% include accion.html tipo="1" %}
 
 **CONCENTRAR** **SECRETO**
 

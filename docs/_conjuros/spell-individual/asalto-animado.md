@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Asalto animado {% include accion.html tipo="2" %} [2]
 
 <img src="{{ '/assets/images/conjuros/asalto-animado.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Asalto animado {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** arcana, ocultista
 **Rango:** 120 pies (36 m); **Área:** explosión de 10 pies (3 m)

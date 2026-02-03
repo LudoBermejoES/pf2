@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Pulso Sináptico {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/pulso-sinaptico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Pulso Sináptico {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** ocultista
 **Área:** emanación de 30 pies (9 m); **Defensa:** Voluntad; **Duración:** 1 asalto

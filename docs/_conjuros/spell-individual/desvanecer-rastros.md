@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Desvanecer Rastros {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/desvanecer-rastros.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Desvanecer Rastros {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** primigenia
 **Duracion:** 1 hora

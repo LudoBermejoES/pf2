@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
+## Derramar cascajo {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/derramar-cascajo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Derramar cascajo {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 30 pies (9 m); **Área:** dos cubos contiguos de 5 pies (1,5 m)

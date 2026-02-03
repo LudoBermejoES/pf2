@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Frenesi Lunar {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/frenesi-lunar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Frenesi Lunar {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** hasta 5 criaturas voluntarias

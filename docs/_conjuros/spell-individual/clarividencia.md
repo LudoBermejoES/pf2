@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Clarividencia [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/clarividencia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Clarividencia [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 1 minuto

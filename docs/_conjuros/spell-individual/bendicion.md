@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Bendicion {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/bendicion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Bendicion {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** divina, ocultista
 **Area:** emanacion de 15 pies (4,5 m)

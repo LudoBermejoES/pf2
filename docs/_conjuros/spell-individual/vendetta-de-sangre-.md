@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Vendetta de Sangre {% include accion.html tipo="reaccion" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/vendetta-de-sangre-.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Vendetta de Sangre {% include accion.html tipo="reaccion" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista
 **Desencadenante:** Una criatura te inflige dano perforante, cortante o persistente por sangrado; **Requisitos:** Puedes sangrar.

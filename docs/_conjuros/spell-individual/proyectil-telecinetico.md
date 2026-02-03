@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Proyectil Telecinético {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/proyectil-telecinetico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Proyectil Telecinético {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

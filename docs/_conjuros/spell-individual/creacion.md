@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Creación [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/creacion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Creación [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
 **Lanzamiento:** 1 minuto

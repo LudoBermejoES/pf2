@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Ataque de Risa {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/ataque-de-risa.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ataque de Risa {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura viva

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Mensaje Onirico [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/mensaje-onirico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Mensaje Onirico [CONJURO 3]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** planetario; **Objetivos:** 1 criatura cuyo nombre conoces y con la que te has reunido en persona

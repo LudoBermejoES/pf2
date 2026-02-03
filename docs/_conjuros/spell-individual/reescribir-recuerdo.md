@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Reescribir Recuerdo {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/reescribir-recuerdo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Reescribir Recuerdo {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

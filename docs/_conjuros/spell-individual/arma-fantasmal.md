@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+## Arma Fantasmal {% include accion.html tipo="2" %} [CONJURO 3]
 
 <img src="{{ '/assets/images/conjuros/arma-fantasmal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Arma Fantasmal {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 arma, o bien desatendida, o bien empuñada por ti o por un aliado voluntario

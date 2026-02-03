@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+## Hacerse el muerto {% include accion.html tipo="libre" %} [5]
 
 <img src="{{ '/assets/images/conjuros/hacerse-el-muerto.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Hacerse el muerto {% include accion.html tipo="libre" %} [5]
 
 **Tradiciones:** arcana, divina, ocultista
 **Desencadenante:** Una criatura dentro del rango es impactada por un ataque de un enemigo.

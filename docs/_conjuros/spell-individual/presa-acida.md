@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Presa Ácida {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/presa-acida.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Presa Ácida {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Sentido espiritual {% include accion.html tipo="2" %} [2]
 
 <img src="{{ '/assets/images/conjuros/sentido-espiritual.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Sentido espiritual {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** divina, ocultista
 **Área:** emanación de 30 pies (9 m)

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+## Revivir a los Muertos [CONJURO 6]
 
 <img src="{{ '/assets/images/conjuros/revivir-a-los-muertos.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Revivir a los Muertos [CONJURO 6]
 
 **Tradiciones:** divina
 **Lanzamiento:** 10 minutos; **Coste:** piedras preciosas por un valor total del nivel del objetivo (mínimo 1) x 200 po

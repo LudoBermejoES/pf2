@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
+## Indestructibilidad {% include accion.html tipo="2" %} [CONJURO 10]
 
 <img src="{{ '/assets/images/conjuros/indestructibilidad.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Indestructibilidad {% include accion.html tipo="2" %} [CONJURO 10]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Duracion:** hasta el inicio de tu siguiente turno

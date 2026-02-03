@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Leer el Aura [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/leer-el-aura.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Leer el Aura [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Lanzamiento:** 1 minuto

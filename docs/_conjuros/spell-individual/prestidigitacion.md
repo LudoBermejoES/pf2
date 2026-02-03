@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Prestidigitación {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/prestidigitacion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Prestidigitación {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** 10 pies (3 m); **Objetivos:** 1 objeto (sólo cocinar, elevar o limpiar)

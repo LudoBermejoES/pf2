@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Viaje Umbrio [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/viaje-umbrio.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Viaje Umbrio [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista
 **Lanzamiento:** 1 minuto

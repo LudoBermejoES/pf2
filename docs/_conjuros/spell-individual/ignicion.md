@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+## Ignicion {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/ignicion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Ignicion {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 30 pies (9 m); **Objetivos:** 1 criatura

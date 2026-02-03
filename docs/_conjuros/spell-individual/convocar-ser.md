@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Convocar Ser {% include accion.html tipo="3" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/convocar-ser.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Convocar Ser {% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** ocultista
 **Rango de distancia:** 30 pies (9 m)

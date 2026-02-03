@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Arma Runica {% include accion.html tipo="2" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/arma-runica.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Arma Runica {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 arma desatendida o empuñada por una criatura voluntaria

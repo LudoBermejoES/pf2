@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
+## Cataclismo {% include accion.html tipo="2" %} [CONJURO 10]
 
 <img src="{{ '/assets/images/conjuros/cataclismo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Cataclismo {% include accion.html tipo="2" %} [CONJURO 10]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** 1000 pies (300 m); **Area:** explosion de 60 pies (18 m); **Defensa:** Reflejos basica

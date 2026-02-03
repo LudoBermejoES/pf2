@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Resiliencia de la Montaña {% include accion.html tipo="2" %} [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/resiliencia-de-la-montana.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Resiliencia de la Montaña {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 criatura

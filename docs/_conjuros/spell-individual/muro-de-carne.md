@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+## Muro de carne {% include accion.html tipo="2" %} [5]
 
 <img src="{{ '/assets/images/conjuros/muro-de-carne.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Muro de carne {% include accion.html tipo="2" %} [5]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Rango:** 60 pies (18 m)

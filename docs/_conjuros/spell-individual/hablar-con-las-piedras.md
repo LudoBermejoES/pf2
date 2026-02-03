@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+## Hablar con las Piedras {% include accion.html tipo="2" %} [CONJURO 5]
 
 <img src="{{ '/assets/images/conjuros/hablar-con-las-piedras.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Hablar con las Piedras {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** divina, ocultista, primigenia
 **Duracion:** 1 hora

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
+## Soplo de veneno {% include accion.html tipo="2" %} [TRUCO 1]
 
 <img src="{{ '/assets/images/conjuros/soplo-de-veneno.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Soplo de veneno {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, primigenia
 **Rango:** 10 pies (3 m); **Objetivos:** 1 criatura

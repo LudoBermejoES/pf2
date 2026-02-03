@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+## Espejismo [CONJURO 4]
 
 <img src="{{ '/assets/images/conjuros/espejismo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Espejismo [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista, primigenia
 **Lanzamiento:** 10 minutos

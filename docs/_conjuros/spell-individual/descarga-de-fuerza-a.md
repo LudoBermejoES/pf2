@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Descarga de Fuerza {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} [CONJURO 1]
 
 <img src="{{ '/assets/images/conjuros/descarga-de-fuerza-a.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Descarga de Fuerza {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} [CONJURO 1]
 
 **Tradiciones:** arcana, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

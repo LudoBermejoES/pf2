@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Armamento Espiritual {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/armamento-espiritual.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Armamento Espiritual {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** divina, ocultista
 **Rango de distancia:** 120 pies (36 m); **Objetivos:** 1 criatura

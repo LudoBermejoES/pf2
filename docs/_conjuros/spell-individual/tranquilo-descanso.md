@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+## Tranquilo Descanso {% include accion.html tipo="2" %} [CONJURO 2]
 
 <img src="{{ '/assets/images/conjuros/tranquilo-descanso.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Tranquilo Descanso {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia
 **Rango de distancia:** toque; **Objetivos:** 1 cadaver

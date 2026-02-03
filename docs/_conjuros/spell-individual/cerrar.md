@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+## Cerrar {% include accion.html tipo="2" %} [DOTE 1]
 
 <img src="{{ '/assets/images/conjuros/cerrar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Cerrar {% include accion.html tipo="2" %} [DOTE 1]
 
 **Tradiciones:** arcana, divina, ocultista
 **Rango de distancia:** toque; **Objetivos:** 1 cerradura, o una puerta o recipiente con un cierre

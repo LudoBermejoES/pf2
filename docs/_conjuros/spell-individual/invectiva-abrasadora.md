@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+## Invectiva abrasadora {% include accion.html tipo="2" %} [2]
 
 <img src="{{ '/assets/images/conjuros/invectiva-abrasadora.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Invectiva abrasadora {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** ocultista
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura

@@ -6,10 +6,9 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+## Tragedia espectral [4]
 
 <img src="{{ '/assets/images/conjuros/tragedia-espectral.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
-
-## Tragedia espectral [4]
 
 **Tradiciones:** divina, ocultista
 **Lanzamiento:** 1 minuto
