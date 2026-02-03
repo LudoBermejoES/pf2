@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/kholo/herencias/
-title: Heritages for Kholo
+title: Herencias de Kholo
 chapter: Ascendencias
 category: ascendencias
 source: PC2
@@ -9,60 +9,60 @@ nav_order: 121
 ancestry: Kholo
 ---
 
-Kholo physiology can vary greatly across the land. Choose one of the following kholo heritages at 1st level.
+La fisiología kholo puede variar mucho a lo largo de las tierras. Elige una de las siguientes herencias kholo en el 1er nivel.
 
 ---
 
-## Ant Kholo
+## Kholo hormiga
 
-You're a sharp-featured, big-eared kholo about 3 feet tall. Many are skeptical that you are in fact a kholo.
+Eres un kholo de rasgos afilados y orejas grandes de aproximadamente 90 cm de altura. Muchos dudan de que seas realmente un kholo.
 
-**Benefit:** Your size is Small instead of Medium. You are trained in Deception (or another skill if you were already trained in Deception). You gain a +1 circumstance bonus to Deception checks to Lie when specifically claiming innocence, to Deception DCs against Sense Motive checks to uncover such lies, and to initiative checks when you roll Deception for initiative.
-
----
-
-## Cave Kholo
-
-Storytellers spin ancient tales claiming that kholo lived in caves and underground before most of your kind ventured into the light. You're a throwback to these ancients, with a broad chest and markings that resemble short black slashes instead of spots. Your eyes are developed to see perfectly in the dark, a valuable advantage to your clan.
-
-**Benefit:** You gain darkvision.
+**Beneficio:** Tu tamaño es Pequeño en lugar de Mediano. Estás entrenado en Engaño (o en otra habilidad si ya estabas entrenado en Engaño). Obtienes un bono de circunstancia +1 a las pruebas de Engaño para Mentir cuando reclamas específicamente inocencia, a las CD de Engaño contra pruebas de Intuir la Intención para descubrir tales mentiras, y a las pruebas de iniciativa cuando tiras Engaño para iniciativa.
 
 ---
 
-## Dog Kholo
+## Kholo de las cavernas
 
-You're a nimble-bodied kholo with a prehistoric, almost dog-like build. Though you typically move like a quadruped, you can still stand and fight like a biped, allowing you to use all equipment normally.
+Los narradores cuentan antiguas historias que afirman que los kholos vivían en cuevas y bajo tierra antes de que la mayoría de tu especie se aventurara a la luz. Eres un retroceso a estos antiguos, con un pecho ancho y marcas que se asemejan a cortas barras negras en lugar de manchas. Tus ojos están desarrollados para ver perfectamente en la oscuridad, una valiosa ventaja para tu clan.
 
-**Benefit:** If you have both hands free, you can increase your Speed to 30 feet as you run on all fours.
-
----
-
-## Great Kholo
-
-You're an imposing, powerful kholo, with tawny fur and brown spots on your hide.
-
-**Benefit:** You gain 10 Hit Points from your ancestry instead of 8 and gain a +1 circumstance bonus to Athletics checks to Reposition, Shove, or Trip.
+**Beneficio:** Obtienes visión en la oscuridad.
 
 ---
 
-## Sweetbreath Kholo
+## Kholo perro
 
-You're a striped, pale-furred kholo with oddly pleasant breath, which you can use to entrance your prey.
+Eres un kholo de cuerpo ágil con una constitución prehistórica, casi canina. Aunque normalmente te mueves como un cuadrúpedo, aún puedes ponerte de pie y luchar como un bípedo, lo que te permite usar todo el equipo normalmente.
 
-**Benefit:** You are trained in Diplomacy (or another skill if you were already trained in Diplomacy). You also gain a +1 circumstance bonus to checks to Make an Impression if the target can smell your breath.
-
----
-
-## Winter Kholo
-
-You're a hardy kholo covered in thick, tufted fur that makes you able to survive in the harsh winters of the colder territories.
-
-**Benefit:** You gain cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
+**Beneficio:** Si tienes ambas manos libres, puedes aumentar tu Velocidad a 30 pies mientras corres a cuatro patas.
 
 ---
 
-## Witch Kholo
+## Gran kholo
 
-You're a shaggy, dark-furred kholo capable of making some truly uncanny sounds.
+Eres un kholo imponente y poderoso, con pelaje leonado y manchas marrones en tu piel.
 
-**Benefit:** You can cast the *figment* cantrip as an occult innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. In addition, you gain a +1 circumstance bonus to checks to Create a Diversion and Impersonate when using only your voice.
+**Beneficio:** Obtienes 10 Puntos de Golpe de tu ascendencia en lugar de 8 y obtienes un bono de circunstancia +1 a las pruebas de Atletismo para Reposicionar, Empujar o Derribar.
+
+---
+
+## Kholo aliento dulce
+
+Eres un kholo rayado y de pelaje pálido con un aliento extrañamente agradable, que puedes usar para cautivar a tu presa.
+
+**Beneficio:** Estás entrenado en Diplomacia (o en otra habilidad si ya estabas entrenado en Diplomacia). También obtienes un bono de circunstancia +1 a las pruebas para Causar Impresión si el objetivo puede oler tu aliento.
+
+---
+
+## Kholo invernal
+
+Eres un kholo resistente cubierto de pelaje grueso y tupido que te permite sobrevivir en los duros inviernos de los territorios más fríos.
+
+**Beneficio:** Obtienes resistencia al frío igual a la mitad de tu nivel (mínimo 1). Tratas los efectos ambientales de frío como si fueran un paso menos extremos (frío increíble se convierte en extremo, frío extremo se convierte en severo, y así sucesivamente).
+
+---
+
+## Kholo bruja
+
+Eres un kholo desgreñado y de pelaje oscuro capaz de producir algunos sonidos verdaderamente extraños.
+
+**Beneficio:** Puedes lanzar el truco *ilusión menor* como conjuro innato oculto a voluntad. Un truco se intensifica a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba. Además, obtienes un bono de circunstancia +1 a las pruebas para Crear Distracción y Hacerse Pasar por Otro cuando usas solo tu voz.

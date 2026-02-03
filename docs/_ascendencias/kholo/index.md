@@ -10,68 +10,72 @@ ancestry: Kholo
 rarity: uncommon
 ---
 
-Kholo have bad reputations as brutal raiders and demon-worshipers. Many believe that kholo are witches, cannibals, and worse. The truth is more complex. Kholo are eminently practical and pragmatic hunters and raiders. To them, honor is just another word for pointless risk. Any loss of a kholo affects not just the individual, but their packmates and kin as well. Wasting time on anything but victory, whether it's mercy or cruelty, is seen as little shy of immoral. Kholo are masters of ambushes, tactical feints, and psychological warfare.
+<img src="{{ '/assets/images/ancestries/kholo.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Kholo">
 
-Equally misunderstood is the kholo practice of ancestor worship and endocannibalism. Kholo consume their dead as a sign of reverence, holding a grand feast and transforming the bones into art or weapons. Kholo extend this honor to respected foes, hoping to bring their enemy's cunning or strength into the clan.
+Los kholos tienen mala reputación como asaltantes brutales y adoradores de demonios. Muchos creen que los kholos son brujos, caníbales y cosas peores. La verdad es más compleja. Los kholos son cazadores y asaltantes eminentemente prácticos y pragmáticos. Para ellos, el honor es solo otra palabra para riesgo innecesario. Cualquier pérdida de un kholo afecta no solo al individuo, sino también a sus compañeros de manada y parientes. Perder el tiempo en cualquier cosa que no sea la victoria, ya sea misericordia o crueldad, se considera poco menos que inmoral. Los kholos son maestros de las emboscadas, las fintas tácticas y la guerra psicológica.
 
-## Statistics
+Igualmente malinterpretada es la práctica kholo del culto a los ancestros y el endocanibalismo. Los kholos consumen a sus muertos como señal de reverencia, celebrando un gran festín y transformando los huesos en arte o armas. Los kholos extienden este honor a los enemigos respetados, esperando traer la astucia o la fuerza de su enemigo al clan.
 
-| Attribute | Value |
-|-----------|-------|
-| **Rarity** | Uncommon |
-| **Hit Points** | 8 |
-| **Size** | Medium |
-| **Speed** | 25 feet |
-| **Attribute Boosts** | Strength, Intelligence, Free |
-| **Attribute Flaw** | Wisdom |
-| **Languages** | Common, Kholo. Additional languages equal to your Intelligence modifier (if it's positive). Choose from Draconic, Elven, Fey, Iruxi, Necril, Orcish, and any other languages to which you have access (such as the languages prevalent in your region). |
-| **Traits** | Kholo, Humanoid |
+> Si quieres un personaje astuto, práctico y ferozmente leal a su manada, deberías interpretar a un kholo.
 
-### Bite
+## Estadísticas
 
-Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group.
+| Atributo | Valor |
+|----------|-------|
+| **Rareza** | Poco común |
+| **Puntos de Golpe** | 8 |
+| **Tamaño** | Mediano |
+| **Velocidad** | 25 pies (7,5 m) |
+| **Mejoras de Atributo** | Fuerza, Inteligencia, Libre |
+| **Defecto de Atributo** | Sabiduría |
+| **Idiomas** | Común, Kholo + tantos idiomas adicionales como tu modificador por Inteligencia (si es positivo). Elige de entre Dracónico, Élfico, Feérico, Iruxi, Necril, Orco y cualquier otro idioma al que tengas acceso (como los idiomas predominantes en tu región). |
+| **Rasgos** | Kholo, Humanoide |
 
-### Low-Light Vision
+### Mordisco
 
-You can see in dim light as though it were bright light, and you ignore the concealed condition due to dim light.
+Tus afilados dientes y poderosas mandíbulas son armas temibles. Tienes un ataque desarmado de mandíbulas que inflige 1d6 de daño perforante. Tus mandíbulas están en el grupo de pelea.
 
-## You Might...
+### Visión en penumbra
 
-- Be physically demonstrative—hugging, punching, or licking your friends.
-- Keep a bone from a favorite relative to ask for advice.
+Puedes ver en luz tenue como si fuera luz brillante, e ignoras la condición de oculto debido a la luz tenue.
 
-## Others Probably...
+## Podrías...
 
-- Are intimidated by your size, teeth, and eerie laugh.
-- Respect the brutal efficiency of your hunting style.
+- Ser físicamente demostrativo: abrazar, golpear o lamer a tus amigos.
+- Conservar un hueso de un pariente favorito para pedirle consejo.
 
-## Physical Description
+## Otros probablemente...
 
-Kholo are hyena-like humanoids with short muzzles, sharp teeth, and large and expressive round ears. Their bodies are covered in shaggy fur, rougher on the back and softer and lighter on the stomach and throat, usually in an off-white, tan, or brown shade; spots and stripes are both common. Kholo typically stand between 6 and 7 feet tall. Women are usually about a head taller than men and correspondingly stronger. Kholo are considered adults at 15 and live about 60 years on average.
+- Se sienten intimidados por tu tamaño, dientes y risa espeluznante.
+- Respetan la brutal eficiencia de tu estilo de caza.
 
-## Society
+## Descripción física
 
-Kholo generally live in semi-nomadic clans of 10 to 20 family groups, containing between 100 to 200 members. They are ruled by a council of female kholo who are typically selected from the elders of each family. Bonekeepers focus on tending to the wishes of kholo ancestors and gods—they take their name from the ancestral bones that festoon their clothing and homes. Storytellers serve as teachers and sages, and are expected to have an encyclopedic knowledge of clan history, regional lore, and anything else relevant to the clan.
+Los kholos son humanoides con aspecto de hiena, con hocicos cortos, dientes afilados y orejas redondas grandes y expresivas. Sus cuerpos están cubiertos de pelaje desgreñado, más áspero en la espalda y más suave y claro en el estómago y la garganta, generalmente en tonos blanquecinos, tostados o marrones; las manchas y las rayas son comunes. Los kholos típicamente miden entre 1,80 y 2,10 metros de altura. Las mujeres suelen ser aproximadamente una cabeza más altas que los hombres y proporcionalmente más fuertes. Los kholos se consideran adultos a los 15 años y viven unos 60 años de media.
 
-## Names
+## Sociedad
 
-Newborn kholo are given a root name, typically that of a bone, plant, or animal (though never Hyena, as this is considered narcissistic). As a kholo reaches certain milestones in their life, they add descriptors to their name.
+Los kholos generalmente viven en clanes seminómadas de 10 a 20 grupos familiares, que contienen entre 100 y 200 miembros. Están gobernados por un consejo de mujeres kholo que típicamente se seleccionan de los ancianos de cada familia. Las guardadoras de huesos se centran en atender los deseos de los ancestros y dioses kholo; toman su nombre de los huesos ancestrales que adornan su ropa y hogares. Los narradores sirven como maestros y sabios, y se espera que tengan un conocimiento enciclopédico de la historia del clan, el saber regional y cualquier otra cosa relevante para el clan.
 
-**Sample Names:** Baobab, Jackal, Onyx Elephant in Shadows, Red Thorn, Unbent Iron Reed, White Acacia, Wistful Tooth, Woodpecker
+## Nombres
 
-## Beliefs
+Los kholos recién nacidos reciben un nombre raíz, típicamente el de un hueso, planta o animal (aunque nunca Hiena, ya que esto se considera narcisista). A medida que un kholo alcanza ciertos hitos en su vida, añade descriptores a su nombre.
 
-Kholo have an unsentimental, matter-of-fact approach to life and prioritize results over methods. They are usually loyal and generous to their people and ruthless toward outsiders—whether this behavior is considered acceptable varies depending on who they view as "their people."
+**Nombres de ejemplo:** Baobab, Chacal, Elefante Ónix en las Sombras, Espina Roja, Caña de Hierro Inquebrantable, Acacia Blanca, Diente Melancólico, Pájaro Carpintero
 
-Many kholo pay homage to Lamashtu, both as the originator of their people and a guide in a chaotic world. However, some kholo often give homage to Calistria and Shelyn. Nethys is the patron of bonekeepers.
+## Creencias
 
-### Popular Edicts
+Los kholos tienen un enfoque de la vida poco sentimental y pragmático, priorizando los resultados sobre los métodos. Suelen ser leales y generosos con su gente y despiadados hacia los forasteros; que este comportamiento se considere aceptable varía según a quién vean como "su gente".
 
-- Strengthen your allies and packmates
-- Recount the tales of your ancestors
-- Neutralize foes with tactics and cunning
+Muchos kholos rinden homenaje a Lamashtu, tanto como la creadora de su pueblo como guía en un mundo caótico. Sin embargo, algunos kholos a menudo rinden homenaje a Calistria y Shelyn. Nethys es el patrón de las guardadoras de huesos.
 
-### Popular Anathema
+### Edictos populares
 
-- Risk yourself or your packmates for no reason
-- Let a dead kholo or loved one rot like carrion
+- Fortalecer a tus aliados y compañeros de manada
+- Relatar las historias de tus ancestros
+- Neutralizar enemigos con tácticas y astucia
+
+### Anatemas populares
+
+- Arriesgarte a ti mismo o a tus compañeros de manada sin razón
+- Dejar que un kholo muerto o un ser querido se pudra como carroña
