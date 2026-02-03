@@ -15,7 +15,7 @@ Los magos obtienen conjuros de foco a través de su escuela de magia elegida. Ca
 ## Arte Gramática
 
 ### Custodias Protectoras {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">aura</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span><span class="feat-trait">manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">aura</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
 **Área:** Emanación de 5 pies (1,5 m) centrada en ti
 **Duración:** Mantenido hasta 1 minuto
 
@@ -24,7 +24,7 @@ Expandes un anillo de glifos que escuda a tus aliados. Tú y cualquier aliado tu
 ---
 
 ### Runa de Observación {% include accion.html tipo="1" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">concentrar</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a></div>
 **Rango:** 500 pies (150 m)
 **Duración:** 1 hora
 
@@ -37,7 +37,7 @@ Cada vez que se acaba la duración de conjuro, puedes gastar 1 Punto de Foco com
 ## El Límite
 
 ### Fortificar Convocación {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">concentrar</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura convocada por ti
 
 Cuando llamas a tu lado a una criatura, tu magia transforma su cuerpo, potenciando su ferocidad y fortificando su resiliencia. El objetivo obtiene un bonificados +1 por estatus a todas sus pruebas y CD (incluyendo su CA) mientras dura la convocación, hasta 1 minuto.
@@ -45,7 +45,7 @@ Cuando llamas a tu lado a una criatura, tu magia transforma su cuerpo, potencian
 ---
 
 ### Espiral de Horrores {% include accion.html tipo="2" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">aura</span><span class="feat-trait">concentrar</span><span class="feat-trait">emoción</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span><span class="feat-trait">manipular</span><span class="feat-trait">mental</span><span class="feat-trait">miedo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">aura</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/emocion/" class="feat-trait">emoción</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/miedo/" class="feat-trait">miedo</a></div>
 **Área:** Emanación de 30 pies (9 m)
 **Duración:** Mantenido hasta 1 minuto
 
@@ -56,7 +56,7 @@ Sombras y espíritus aúllan y giran a tu alrededor en una manifestación que in
 ## Forma Proteica
 
 ### Revolver el Cuerpo {% include accion.html tipo="2" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">concentrar</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span><span class="feat-trait">manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viva
 **Defensa:** Fortaleza
 
@@ -71,7 +71,7 @@ Tu magia pone patas arriba la biología de la criatura, induciendo mareos, fiebr
 ---
 
 ### Forma Cambiante {% include accion.html tipo="1" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">concentrar</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span><span class="feat-trait">morfismo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/morfismo/" class="feat-trait">morfismo</a></div>
 **Duración:** 1 minuto
 
 Cambias tu cuerpo para que encaje mejor con el momento. Obtienes una de las siguientes aptitudes a tu elección. Puedes Disipar este conjuro.
@@ -87,7 +87,7 @@ Cambias tu cuerpo para que encaje mejor con el momento. Obtienes una de las sigu
 ## Magia Cívica
 
 ### Movimiento de Tierras {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">concentrar</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span><span class="feat-trait">manipular</span><span class="feat-trait">tierra</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/tierra/" class="feat-trait">tierra</a></div>
 **Rango:** 60 pies (18 m); **Área:** Explosión de 5 pies (1,5 m) o más
 **Duración:** 1 minuto
 
@@ -98,7 +98,7 @@ Con una ondulación de la tierra, elevas del suelo pequeños terraplenes. El sue
 ---
 
 ### Restablecimiento Comunitario {% include accion.html tipo="reaccion" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">concentrar</span><span class="feat-trait">curación</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/curacion/" class="feat-trait">curación</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a></div>
 **Desencadenante:** Lanzas un conjuro desde un espacio de conjuro de mago, que afecta a uno o más aliados voluntarios sin dañarlos.
 
 Cuando utilizas tu magia para apoyar a tus aliados, una fuerza compartida os refuerza a todos. Obtienes 2 Puntos de Golpe temporales por rango del conjuro desencadenante y puedes conceder un número igual dividido como quieras entre los aliados afectados por el conjuro desencadenante. Estos Puntos de Golpe temporales duran 1 minuto.
@@ -108,7 +108,7 @@ Cuando utilizas tu magia para apoyar a tus aliados, una fuerza compartida os ref
 ## Magia de Batalla
 
 ### Rayo de Fuerza {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">foco</span><span class="feat-trait">fuerza</span><span class="feat-trait">mago</span><span class="feat-trait">manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/fuerza/" class="feat-trait">fuerza</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
 Disparas un rayo de fuerza en forma de flecha, una de las formas más comunes y fiables de magia de batalla. Impacta automáticamente e inflige 1d4+1 daño por fuerza al objetivo.
@@ -118,7 +118,7 @@ Disparas un rayo de fuerza en forma de flecha, una de las formas más comunes y 
 ---
 
 ### Absorción de Energía {% include accion.html tipo="reaccion" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a></div>
 **Desencadenante:** Un efecto te infligiría daño por ácido, electricidad, frío o fuego.
 
 Estás acostumbrado a mitigar el daño hecho por las bombas, las máquinas de asedio y la artillería mágica. Obtienes resistencia 15 a elegir entre daño por ácido, electricidad, frío o fuego por parte del efecto desencadenante. La resistencia sólo se aplica al daño inicial del efecto desencadenante.
@@ -130,7 +130,7 @@ Estás acostumbrado a mitigar el daño hecho por las bombas, las máquinas de as
 ## Mentalismo
 
 ### Empujón Encantador {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">concentrar</span><span class="feat-trait">foco</span><span class="feat-trait">incapacitación</span><span class="feat-trait">mago</span><span class="feat-trait">mental</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/incapacitacion/" class="feat-trait">incapacitación</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** Hasta el inicio de tu siguiente turno
 
@@ -147,7 +147,7 @@ Haces presión contra la mente del objetivo para desviar su ira. El objetivo tie
 ---
 
 ### Capa de Invisibilidad {% include accion.html tipo="2" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">foco</span><span class="feat-trait">ilusión</span><span class="feat-trait">mago</span><span class="feat-trait">manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
 **Duración:** 1 minuto
 
 Te vuelves invisible, con las mismas restricciones del conjuro *invisibilidad* de 2.º rango.
@@ -161,7 +161,7 @@ Te vuelves invisible, con las mismas restricciones del conjuro *invisibilidad* d
 ## Teoría Mágica Unificada
 
 ### Mano del Aprendiz {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">ataque</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span><span class="feat-trait">manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/ataque/" class="feat-trait">ataque</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
 **Rango:** 500 pies (150 m); **Objetivos:** 1 criatura
 **Defensa:** CA
 
@@ -170,7 +170,7 @@ Te aprovechas de una de las lecciones más fundamentales de la magia para hacer 
 ---
 
 ### Encantamiento Interdisciplinario {% include accion.html tipo="reaccion" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">concentrar</span><span class="feat-trait">foco</span><span class="feat-trait">mago</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mago/" class="feat-trait">mago</a></div>
 **Desencadenante:** Una criatura a 30 pies (9 m) o menos lanza un conjuro arcano.
 
 Reúnes las ascuas del conjuro de otro lanzador, utilizando tu comprensión de la magia unificada para descifrar lo suficientemente bien sus fórmulas y sus encantamientos como para imitar el conjuro, si bien por un breve periodo de tiempo. Hasta el final de tu siguiente turno, puedes Lanzar el conjuro desencadenante utilizando un espacio de conjuro de mago del mismo rango. Los conjuros del lanzador no pueden desencadenar tu encantamiento interdisciplinario de nuevo durante 24 horas.

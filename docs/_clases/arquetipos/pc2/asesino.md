@@ -17,7 +17,7 @@ La eliminación selectiva mediante sigilo y subterfugio es la especialidad de un
 
 ### Dedicación de Asesino · Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Engaño y Sigilo
 
@@ -29,7 +29,7 @@ Además, al atacar tu marca, tienes la característica de clase ataque furtivo, 
 
 ### Apuñalador experto · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Asesino
 
@@ -37,7 +37,7 @@ Destacas en despachar rápidamente a tus enemigos. Cuando haces un Golpe contra 
 
 ### Ataque sorpresa · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Asesino
 
@@ -45,7 +45,7 @@ Actúas antes de que los enemigos puedan reaccionar. En la primera ronda de comb
 
 ### Ángel de la Muerte · Dote 10
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Asesino
 
@@ -53,7 +53,7 @@ Todos tus Golpes contra una criatura que has marcado con Marca de muerte tienen 
 
 ### Asesinar · {% include accion.html tipo="2" %} · Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Asesino
 

@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 4; **Precio** 95 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Conjuración</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/conjuracion/" class="feat-trait">Conjuración</a></div>
 
 **Ranura:** Cintura
 

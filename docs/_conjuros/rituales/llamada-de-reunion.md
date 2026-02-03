@@ -10,7 +10,7 @@ source: PC2
 
 ## Llamada de reunión [RITUAL 7]
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span><span class="feat-trait">Teletransportación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/raro/" class="feat-trait">Raro</a><a href="/rasgos/teletransportacion/" class="feat-trait">Teletransportación</a></div>
 
 **Lanzamiento:** 7 días; **Coste:** aceites raros y minerales en polvo por valor de 5.000 mo; **Lanzadores secundarios:** 2
 

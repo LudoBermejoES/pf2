@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 10; **Precio** 170 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span><span class="feat-trait">Kobold</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/trampa/" class="feat-trait">Trampa</a><a href="/rasgos/kobold/" class="feat-trait">Kobold</a></div>
 
 ---
 

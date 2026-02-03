@@ -7,7 +7,7 @@ category: equipo
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Luz</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/luz/" class="feat-trait">Luz</a></div>
 
 **Nivel** 1; **Precio** 3 mo
 

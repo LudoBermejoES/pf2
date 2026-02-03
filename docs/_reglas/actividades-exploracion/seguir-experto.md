@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Auditivo, Concentrar, Exploración, Visual]
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Visual</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/visual/" class="feat-trait">Visual</a></div>
 
 Elige un aliado que hace una prueba de habilidad recurrente mientras explora, como por ejemplo trepar, o lleva a cabo una táctica de exploración diferente que requiere una prueba de habilidad (como por ejemplo, Evitar ser visto).
 

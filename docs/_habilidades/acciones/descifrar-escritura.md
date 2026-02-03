@@ -24,7 +24,7 @@ Las habilidades utilizadas para esta acción y los tipos de textos que suelen de
 
 ### Descifrar Escritura
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
 <img src="{{ '/assets/images/acciones/descifrar-escritura.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

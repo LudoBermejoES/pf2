@@ -11,7 +11,7 @@ source: PC1
 
 ## Montar {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 
 **Requisitos:** Estas adyacente a una criatura por lo menos un tamaño mayor que tu, que esta dispuesta a dejarse montar.
 

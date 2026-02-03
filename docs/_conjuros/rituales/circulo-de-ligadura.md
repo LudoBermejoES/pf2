@@ -10,7 +10,7 @@ source: PC1
 
 ## Circulo de Ligadura [RITUAL 6]
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a></div>
 
 **Lanzamiento:** 1 dia; **Coste:** los ingredientes de un circulo de custodia por un valor total de 2 po x el rango del conjuro x el nivel del objetivo
 

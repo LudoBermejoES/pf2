@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 4; **Precio** 100 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Varita</span><span class="feat-trait">Vitalidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/varita/" class="feat-trait">Varita</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
 **Uso:** sostenida en 1 mano; **Impedimenta** L
 

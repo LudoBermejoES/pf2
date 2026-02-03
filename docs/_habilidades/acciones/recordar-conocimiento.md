@@ -20,7 +20,7 @@ Podrías conocer información básica acerca de algo sin ni siquiera tener que h
 
 ### Recordar Conocimiento {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Secreto</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
 <img src="{{ '/assets/images/acciones/recordar-conocimiento.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

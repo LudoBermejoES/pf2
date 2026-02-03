@@ -44,7 +44,7 @@ Obtienes Perseguir una pista y Aportar pista.
 
 #### Perseguir una pista
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentración</span><span class="feat-trait">Exploración</span><span class="feat-trait">Investigador</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
 Nombras un detalle que has identificado y que crees que forma parte de un misterio mayor, y dedicas 1 minuto a examinarlo. El DJ confirma que hay un misterio mayor o te dice que no hay nada más que aprender. Si hay un misterio mayor, puedes abrir una investigación definiendo la pregunta en el corazón del misterio.
 
@@ -54,7 +54,7 @@ Nombras un detalle que has identificado y que crees que forma parte de un mister
 
 #### Aportar pista · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentración</span><span class="feat-trait">Investigador</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
 **Frecuencia:** una vez cada 10 minutos
 
@@ -64,7 +64,7 @@ Compartes información con la criatura desencadenante. Esta obtiene una bonifica
 
 ### Idear una estratagema · {% include accion.html tipo="1" %} o {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentración</span><span class="feat-trait">Fortuna</span><span class="feat-trait">Investigador</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
 **Frecuencia:** una vez por asalto
 
@@ -92,7 +92,7 @@ Durante las preparaciones diarias, puedes crear un número de viales versátiles
 
 **Tintura rápida · {% include accion.html tipo="1" %}**
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span><span class="feat-trait">Manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/investigador/" class="feat-trait">Investigador</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
 **Coste:** 1 vial versátil
 
@@ -108,7 +108,7 @@ Estás entrenado en una habilidad basada en Inteligencia de tu elección. Obtien
 
 **Inspección expedita · {% include accion.html tipo="libre" %}**
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
 **Frecuencia:** una vez cada 10 minutos
 
@@ -128,7 +128,7 @@ Estás entrenado en Diplomacia. Obtienes la dote de habilidad Sin motivo de alar
 
 **Pregunta punzante · {% include accion.html tipo="1" %}**
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentración</span><span class="feat-trait">Investigador</span><span class="feat-trait">Lingüístico</span><span class="feat-trait">Mental</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/investigador/" class="feat-trait">Investigador</a><a href="/rasgos/linguistico/" class="feat-trait">Lingüístico</a><a href="/rasgos/mental/" class="feat-trait">Mental</a></div>
 
 Haz una pregunta a una criatura no aliada que puedas ver. Realiza una prueba de Diplomacia contra la CD de Voluntad de la criatura.
 

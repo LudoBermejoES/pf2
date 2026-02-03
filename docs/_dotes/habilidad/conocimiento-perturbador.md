@@ -9,7 +9,7 @@ level: 7
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">EMOCIÓN</span><span class="feat-trait">MIEDO</span><span class="feat-trait">GENERAL</span><span class="feat-trait">MENTAL</span><span class="feat-trait">HABILIDAD</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/emocion/" class="feat-trait">EMOCIÓN</a><a href="/rasgos/miedo/" class="feat-trait">MIEDO</a><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/mental/" class="feat-trait">MENTAL</a><a href="/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
 **Dote 7**
 

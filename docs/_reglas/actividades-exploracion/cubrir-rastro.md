@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración, Movimiento]
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Movimiento</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 
 Usas la [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}) para disimular tu paso.
 

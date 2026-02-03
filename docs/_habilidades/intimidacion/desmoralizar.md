@@ -9,7 +9,7 @@ action_cost: 1
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emoción</span><span class="feat-trait">Mental</span><span class="feat-trait">Miedo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a></div>
 
 <img src="{{ '/assets/images/acciones/desmoralizar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

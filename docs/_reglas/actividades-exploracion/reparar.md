@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Exploración, Manipular]
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploración</span><span class="feat-trait">Manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
 Con material de reparaciones y la habilidad [Artesanía]({{ '/habilidades/artesania/' | relative_url }}), arreglas un objeto dañado.
 

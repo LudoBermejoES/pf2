@@ -9,7 +9,7 @@ action_cost: 1
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
 <img src="{{ '/assets/images/acciones/tratar-veneno.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

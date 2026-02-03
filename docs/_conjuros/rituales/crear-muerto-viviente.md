@@ -10,7 +10,7 @@ source: PC1
 
 ## Crear Muerto Viviente [RITUAL 2]
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">sacrilego</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/sacrilego/" class="feat-trait">sacrilego</a></div>
 
 **Lanzamiento:** 1 dia; **Coste:** onice negro, ver Rituales de creación de criaturas
 

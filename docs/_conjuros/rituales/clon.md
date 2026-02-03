@@ -10,7 +10,7 @@ source: PC2
 
 ## Clon [RITUAL 9]
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/raro/" class="feat-trait">Raro</a></div>
 
 **Lanzamiento:** 7 días; **Coste:** suministros y reactivos de laboratorio raros por valor de el nivel del objetivo (mínimo 1) × 100 mo; **Lanzadores secundarios:** 3
 

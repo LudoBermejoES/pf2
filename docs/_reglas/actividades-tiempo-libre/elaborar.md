@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Tiempo Libre, Manipular]
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span><span class="feat-trait">Manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/tiempo-libre/" class="feat-trait">Tiempo Libre</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
 Utilizas la habilidad [Artesanía]({{ '/habilidades/artesania/' | relative_url }}) para elaborar objetos a partir de materia prima.
 

@@ -42,7 +42,7 @@ Cuando centras tu atención en un solo enemigo, te vuelves imparable en tu perse
 
 ### Perseguir Presa {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Explorador</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
 Designas a una sola criatura como presa y centras tus ataques en dicha criatura. Tienes que ser capaz de verla u oírla, o debes estarla rastreando durante la exploración.
 

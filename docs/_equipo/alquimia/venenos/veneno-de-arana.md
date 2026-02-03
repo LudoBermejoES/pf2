@@ -11,7 +11,7 @@ item_level: "3"
 
 **Nivel** 3; **Precio** 10 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Lesión</span><span class="feat-trait">Veneno</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/lesion/" class="feat-trait">Lesión</a><a href="/rasgos/veneno/" class="feat-trait">Veneno</a></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

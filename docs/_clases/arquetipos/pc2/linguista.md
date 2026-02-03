@@ -15,7 +15,7 @@ Ya sea que estudies para avanzar tus propias ambiciones o simplemente por fascin
 
 ### Dedicación de Lingüista · Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** Hablas al menos tres idiomas.
 
@@ -23,7 +23,7 @@ Has estudiado los idiomas y su desarrollo. Pasas a estar entrenado en Sociedad; 
 
 ### Cifrado multilingüe · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Lingüista, experto en Sociedad
 
@@ -31,7 +31,7 @@ Usas múltiples idiomas para crear y romper códigos. Obtienes un bonificador ci
 
 ### Entrenamiento fonético · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Lingüista, experto en Sociedad
 
@@ -39,7 +39,7 @@ Puedes pronunciar y repetir palabras con una precisión casi perfecta, incluso s
 
 ### Traducción instantánea · {% include accion.html tipo="libre" %} · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Auditivo</span><span class="feat-trait">Lingüístico</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/linguistico/" class="feat-trait">Lingüístico</a></div>
 
 **Prerrequisitos:** Dedicación de Lingüista
 
@@ -49,7 +49,7 @@ Salvas una brecha de idioma, repitiendo el mensaje en otro idioma que conozcas. 
 
 ### Analizar idiolecto · Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Lingüista, experto en Engaño y Sociedad
 
@@ -57,7 +57,7 @@ Desglosas el idiolecto de un individuo concreto, memorizando sus manierismos y h
 
 ### Leer shibboleths · Dote 7
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Lingüístico</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/linguistico/" class="feat-trait">Lingüístico</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Lingüista, maestro en Sociedad
 
@@ -67,7 +67,7 @@ Una vez que has obtenido uno o más hechos menores verdaderos sobre una persona,
 
 ### Comunicación rudimentaria · Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Lingüista
 

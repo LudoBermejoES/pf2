@@ -15,7 +15,7 @@ Has pasado incontables horas desmontando y reconstruyendo objetos complejos para
 
 ### Dedicación de Buscavidas · Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Artesanía
 
@@ -27,7 +27,7 @@ Un objeto que Improvisas es un objeto chapucero, pero al crearlo puedes elegir u
 
 ### Ingeniería inversa · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Buscavidas, experto en Artesanía
 
@@ -35,7 +35,7 @@ Tu casi constante cacharreo con objetos te permite hacer ingeniería inversa de 
 
 ### Buscavidas mágico · Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Buscavidas, Elaboración mágica
 
@@ -45,7 +45,7 @@ No puedes Improvisar montaje de un consumible, una runa o un objeto con runas. S
 
 ### Desmontaje experto · Dote 7
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Buscavidas, maestro en Artesanía
 

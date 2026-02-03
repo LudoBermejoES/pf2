@@ -9,7 +9,7 @@ action_cost: 1
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Ataque</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/ataque/" class="feat-trait">Ataque</a></div>
 
 <img src="{{ '/assets/images/acciones/abrir-por-la-fuerza.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 2; **Precio** 5 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span><span class="feat-trait">Fuego</span><span class="feat-trait">Luz</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/trampa/" class="feat-trait">Trampa</a><a href="/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/rasgos/luz/" class="feat-trait">Luz</a></div>
 
 ---
 

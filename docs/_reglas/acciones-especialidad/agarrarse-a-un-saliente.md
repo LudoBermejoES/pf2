@@ -11,7 +11,7 @@ source: PC1
 
 ## Agarrarse a un Saliente {% include accion.html tipo="reaccion" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
 **Desencadenante:** Caes de un saliente o asidero o pasas al lado mientras caes.
 

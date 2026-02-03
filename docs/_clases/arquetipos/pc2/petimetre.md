@@ -15,7 +15,7 @@ Eres un refinado maestro del estilo, la cultura y el decoro, consciente incluso 
 
 ### Dedicación de Petimetre · Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Diplomacia
 
@@ -25,7 +25,7 @@ Eres un estudiante consumado de la dignidad, la etiqueta y la moda. Pasas a esta
 
 ### Halago distractor · {% include accion.html tipo="libre" %} · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Petimetre, experto en Engaño
 
@@ -41,7 +41,7 @@ Sabes mantener una buena impresión y gestionar tu imagen incluso en compañía 
 
 ### Saber de chismes · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Petimetre
 
@@ -51,7 +51,7 @@ Si tienes competencia legendaria en Sociedad, obtienes competencia experta en Sa
 
 ### Conexiones fabricadas · Dote 7
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Petimetre, maestro en Engaño
 
@@ -59,7 +59,7 @@ Puedes mentir acerca de haber realizado una acción de forma tan convincente que
 
 ### Colado en fiestas · Dote 7
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Petimetre, maestro en Sociedad
 

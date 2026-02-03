@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Tiempo Libre]
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/tiempo-libre/" class="feat-trait">Tiempo Libre</a></div>
 
 Reconvertir ofrece una forma de alterar algunas de tus elecciones de personaje, lo que resulta útil cuando quieres llevarlo en una nueva dirección o cambiar decisiones que no han cumplido tus expectativas.
 

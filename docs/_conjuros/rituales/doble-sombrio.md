@@ -10,7 +10,7 @@ source: PC2
 
 ## Doble sombrío [RITUAL 4]
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span><span class="feat-trait">Ilusión</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/raro/" class="feat-trait">Raro</a><a href="/rasgos/ilusion/" class="feat-trait">Ilusión</a></div>
 
 **Lanzamiento:** 1 día; **Coste:** un pequeño objeto de importancia personal para la criatura a duplicar (como una prenda que vista todos los días o un recuerdo de una cita romántica), más aceites, minerales y pigmentos raros por valor total de 300 mo; **Lanzadores secundarios:** 3
 

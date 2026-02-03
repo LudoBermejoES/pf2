@@ -10,7 +10,7 @@ source: PC1
 
 ## Consagrar [RITUAL 2]
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">consagracion</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/consagracion/" class="feat-trait">consagracion</a></div>
 
 **Lanzamiento:** 3 dias; **Coste:** incienso raro y ofrendas por un valor total de 20 po x el rango del conjuro
 

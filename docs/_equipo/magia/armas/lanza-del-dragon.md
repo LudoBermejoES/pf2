@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 8; **Precio** 480 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Evocación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/evocacion/" class="feat-trait">Evocación</a></div>
 
 **Tipo base:** Lanza
 

@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 20; **Precio** 10.000 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span><span class="feat-trait">Muerte</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/trampa/" class="feat-trait">Trampa</a><a href="/rasgos/muerte/" class="feat-trait">Muerte</a></div>
 
 ---
 

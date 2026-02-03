@@ -9,7 +9,7 @@ source: PC2
 item_level: "5, 12"
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Elixir</span><span class="feat-trait">Poco común</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/elixir/" class="feat-trait">Elixir</a><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

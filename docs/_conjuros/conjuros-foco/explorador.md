@@ -11,7 +11,7 @@ source: PC1
 ## Conjuros de Guardián Iniciado
 
 ### Arma de Gravedad {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">foco</span><span class="feat-trait">explorador</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a></div>
 
 **Duracion:** 1 minuto
 
@@ -20,7 +20,7 @@ Acumulas fuerza gravitacional y la canalizas a tus golpes, lo que lleva a ataque
 ---
 
 ### Curar Companero {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">curacion</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span><span class="feat-trait">vitalidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/curacion/" class="feat-trait">curacion</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
 
 **Rango:** toque o 30 pies (9 m); **Objetivos:** tu companero animal
 
@@ -34,7 +34,7 @@ Curas las heridas de tu compañero animal. Restableces 1d10 Puntos de Golpe a tu
 ---
 
 ### Pelaje Magico {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">foco</span><span class="feat-trait">explorador</span><span class="feat-trait">manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** tu companero animal
 
@@ -47,7 +47,7 @@ A tu compañero animal le crece una piel gruesa, un pelaje tupido o una concha m
 ## Conjuros de Guardian Avanzado
 
 ### Agrandar Companero {% include accion.html tipo="2" %} FOCO 2
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">concentrar</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span><span class="feat-trait">manipular</span><span class="feat-trait">polimorfia</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** tu companero animal
 
@@ -60,7 +60,7 @@ Tu compañero animal se hace mucho mas grande, quedando por encima de sus enemig
 ---
 
 ### Niebla Tranquilizadora {% include accion.html tipo="2" %} FOCO 2
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">concentrar</span><span class="feat-trait">curacion</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span><span class="feat-trait">manipular</span><span class="feat-trait">vitalidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/curacion/" class="feat-trait">curacion</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viva voluntaria o 1 criatura muerta viviente
 
@@ -71,7 +71,7 @@ Invocas una bruma magica que envuelve a una criatura. La bruma restablece 2d8 Pu
 ---
 
 ### Rasgo Animal {% include accion.html tipo="1" %} FOCO 2
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">concentrar</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span><span class="feat-trait">manipular</span><span class="feat-trait">morfismo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/morfismo/" class="feat-trait">morfismo</a></div>
 
 **Duracion:** 1 minuto
 
@@ -89,7 +89,7 @@ Sin transformar por completo tu cuerpo, obtienes un rasgo animal que puedes sele
 ---
 
 ### Suerte del Cazador {% include accion.html tipo="libre" %} FOCO 2
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">concentrar</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span><span class="feat-trait">fortuna</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/fortuna/" class="feat-trait">fortuna</a></div>
 
 **Desencadenante:** Haces una prueba de Recordar conocimiento sobre una criatura, pero aun no has tirado los dados.
 
@@ -100,7 +100,7 @@ Tienes una aptitud sobrenatural para recordar detalles acerca de tus enemigos. H
 ## Conjuros de Guardian Maestro
 
 ### Rastreo Efimero {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">concentrar</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span><span class="feat-trait">manipular</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Duracion:** 1 hora
 
@@ -109,7 +109,7 @@ Puedes contemplar las corrientes en el aire y en el agua y ver rastros que puede
 ---
 
 ### Zarzas del Explorador {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">concentrar</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span><span class="feat-trait">manipular</span><span class="feat-trait">planta</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/planta/" class="feat-trait">planta</a></div>
 
 **Rango:** 100 pies (30 m); **Area:** todas las casillas que contienen plantas en una explosion de 5 pies (1,5 m)
 
@@ -124,7 +124,7 @@ Haces que las plantas en el area enmarañan a tus enemigos, con los efectos de f
 ## Conjuros de Guardian Sin Igual
 
 ### Transposicion de Terreno {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">concentrar</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span><span class="feat-trait">manipular</span><span class="feat-trait">teletransporte</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/teletransporte/" class="feat-trait">teletransporte</a></div>
 
 **Rango:** 90 pies (27 m)
 
@@ -133,7 +133,7 @@ Transpones misticamente tu ubicación actual con otra. Cuando estas en un entorn
 ---
 
 ### Vision del Cazador {% include accion.html tipo="1" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">poco comun</span><span class="feat-trait">concentrar</span><span class="feat-trait">explorador</span><span class="feat-trait">foco</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">poco comun</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/explorador/" class="feat-trait">explorador</a><a href="/rasgos/foco/" class="feat-trait">foco</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 presa perseguida
 

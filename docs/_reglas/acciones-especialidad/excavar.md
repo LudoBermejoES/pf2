@@ -11,7 +11,7 @@ source: PC1
 
 ## Excavar {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 
 **Requisitos:** Tienes Velocidad de excavar.
 

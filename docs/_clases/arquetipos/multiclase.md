@@ -22,7 +22,7 @@ El arquetipo bardo te concede saber y poderosas composiciones que apoyan a tus a
 
 ### Dedicacion de bardo - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Carisma +2
 
@@ -32,7 +32,7 @@ Elige una musa como lo varias si fueras un bardo. Puedes adquirir las dotes de d
 
 ### Lanzamiento de conjuros basico de bardo - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de bardo
 
@@ -40,7 +40,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros. Cada vez que obtienes
 
 ### Susurros de la musa básicos - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de bardo
 
@@ -48,7 +48,7 @@ Obtienes una dote de bardo de 1.er o de 2.º nivel.
 
 ### Susurros de la musa avanzados - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Susurros de la musa básicos
 
@@ -58,7 +58,7 @@ Obtienes una dote de bardo. A efectos de cumplir con sus prerrequisitos, tu nive
 
 ### Contrainterpretacion - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de bardo
 
@@ -66,7 +66,7 @@ Obtienes el conjuro de composición contrarrestar interpretación. Este es un co
 
 ### Interpretación de himno - Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de bardo
 
@@ -74,7 +74,7 @@ Tu musica, tu habla u otra interpretación inspira a tus aliados a la batalla. O
 
 ### Abundancia ocultista - Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de bardo
 
@@ -82,7 +82,7 @@ Tu repertorio se expande y cada dia puedes lanzar mas conjuros ocultistas. Incre
 
 ### Lanzamiento de conjuros experto de bardo - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de bardo, rango maestro en Ocultismo
 
@@ -90,7 +90,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de bardo - Dote 18
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de bardo, rango legendario en Ocultismo
 
@@ -108,7 +108,7 @@ El arquetipo otorga conjuros preparados versatiles, perfectos para los personaje
 
 ### Dedicacion de brujo - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Inteligencia +2
 
@@ -118,7 +118,7 @@ Obtienes la actividad Lanzar un conjuro. Puedes preparar un truco cada dia graci
 
 ### Lanzamiento de conjuros basico de brujo - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de brujo
 
@@ -126,7 +126,7 @@ Obtienes los beneficios de lanzamiento de conjuros basico. Cada vez que obtienes
 
 ### Brujeria basica - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de brujo
 
@@ -134,7 +134,7 @@ Obtienes una dote de brujo de 1.er o de 2.º nivel. Cada dia puedes seleccionar 
 
 ### Brujeria avanzada - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Brujeria basica
 
@@ -144,7 +144,7 @@ Obtienes una dote de brujo. A efectos de cumplir con sus prerrequisitos, tu nive
 
 ### Abundancia del patron - Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de brujo
 
@@ -152,7 +152,7 @@ Puedes lanzar mas conjuros cada dia. Incrementa los espacios de conjuro que obti
 
 ### Lanzamiento de conjuros experto de brujo - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de brujo, rango maestro en la habilidad asociada con la tradición de tu patron
 
@@ -160,7 +160,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de brujo - Dote 18
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de brujo, rango legendario en la habilidad asociada con la tradición de tu patron
 
@@ -182,7 +182,7 @@ Aunque muchos personajes profesan tener fe en los dioses, el arquetipo clérigo 
 
 ### Dedicacion de clérigo - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Sabiduría +2
 
@@ -192,7 +192,7 @@ Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo cl�
 
 ### Lanzamiento de conjuros basico de clérigo - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de clérigo
 
@@ -200,7 +200,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros. Puedes preparar los c
 
 ### Dogma basico - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de clérigo
 
@@ -208,7 +208,7 @@ Obtienes una dote de clérigo de 1.er o de 2.º nivel.
 
 ### Dogma avanzado - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dogma basico
 
@@ -218,7 +218,7 @@ Obtienes una dote de clérigo. A efectos de cumplir con sus prerrequisitos, tu n
 
 ### Abundancia divina - Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de clérigo
 
@@ -226,7 +226,7 @@ Conforme aumenta tu comprensión, tu dios te concede mas conjuros divinos cada d
 
 ### Lanzamiento de conjuros experto de clérigo - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de clérigo, rango maestro en Religion
 
@@ -234,7 +234,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de clérigo - Dote 18
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de clérigo, rango legendario en Religion
 
@@ -252,7 +252,7 @@ El arquetipo druida puede proporcionar un poco de curación o de dano elemental 
 
 ### Dedicacion de druida - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Sabiduría +2
 
@@ -264,7 +264,7 @@ Elige una orden druidica. Te conviertes en miembro de dicha orden y quedas tambi
 
 ### Lanzamiento de conjuros basico de druida - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de druida
 
@@ -272,7 +272,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros.
 
 ### Salvajismo basico - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de druida
 
@@ -280,7 +280,7 @@ Obtienes una dote de druida de 1.er o de 2.º nivel.
 
 ### Conjuro de orden - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de druida
 
@@ -288,7 +288,7 @@ Obtienes el conjuro de orden inicial de tu orden. Este es un conjuro de foco, qu
 
 ### Salvajismo avanzado - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Salvajismo basico
 
@@ -298,7 +298,7 @@ Obtienes una dote de druida. A efectos de cumplir con sus prerrequisitos, tu niv
 
 ### Abundancia primigenia - Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de druida
 
@@ -306,7 +306,7 @@ Incrementa los espacios de conjuro que obtienes debido a las dotes de arquetipo 
 
 ### Lanzamiento de conjuros experto de druida - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de druida, rango maestro en Naturaleza
 
@@ -314,7 +314,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de druida - Dote 18
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de druida, rango legendario en Naturaleza
 
@@ -340,7 +340,7 @@ El arquetipo explorador tiene acceso a unas opciones excelentes para mejorar el 
 
 ### Dedicacion de explorador - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Destreza +2
 
@@ -350,7 +350,7 @@ Si obtienes un conjuro de guardian a traves de este arquetipo, obtienes el rango
 
 ### Mana basica de cazador - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de explorador
 
@@ -358,7 +358,7 @@ Obtienes una dote de explorador de 1.er o de 2.º nivel.
 
 ### Resiliencia de explorador - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de explorador, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitución
 
@@ -366,7 +366,7 @@ Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo expl
 
 ### Mana avanzada de cazador - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Mana basica de cazador
 
@@ -376,7 +376,7 @@ Obtienes una dote de explorador. A efectos de cumplir con sus prerrequisitos, tu
 
 ### Avistador maestro - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de explorador, rango experto en Percepción
 
@@ -400,7 +400,7 @@ El arquetipo guerrero concede acceso a grandes dotes para los personajes que se 
 
 ### Dedicacion de guerrero - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Fuerza +2, Destreza +2
 
@@ -408,7 +408,7 @@ Obtienes el rango entrenado en armas marciales. Tambien lo obtienes en Acrobacia
 
 ### Maniobra basica - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de guerrero
 
@@ -416,7 +416,7 @@ Obtienes una dote de guerrero de 1.er o de 2.º nivel.
 
 ### Resiliencia de guerrero - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de guerrero, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitución
 
@@ -424,7 +424,7 @@ Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo guer
 
 ### Pegador reactivo - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de guerrero
 
@@ -432,7 +432,7 @@ Obtienes la reacción Golpe reactivo.
 
 ### Maniobra avanzada - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Maniobra basica
 
@@ -442,7 +442,7 @@ Obtienes una dote de guerrero. A efectos de cumplir con sus prerrequisitos, tu n
 
 ### Experto en armas diversas - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de guerrero, rango experto cualquier tipo de arma o ataque sin armas
 
@@ -460,7 +460,7 @@ El arquetipo mago otorga conjuros preparados versatiles, perfectos para los pers
 
 ### Dedicacion de mago - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Inteligencia +2
 
@@ -468,7 +468,7 @@ Lanzas conjuros como un mago, obteniendo un libro de conjuros con 4 trucos arcan
 
 ### Conjuro de escuela arcana - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de mago
 
@@ -476,7 +476,7 @@ Obtienes el conjuro de escuela inicial de tu escuela. Si aun no lo tienes, obtie
 
 ### Arcanos básicos - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de mago
 
@@ -484,7 +484,7 @@ Obtienes una dote de mago de 1.er o de 2.º nivel.
 
 ### Lanzamiento de conjuros basico de mago - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de mago
 
@@ -492,7 +492,7 @@ Obtienes los beneficios de lanzamiento de conjuros basico. Cada vez que obtienes
 
 ### Arcanos avanzados - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Arcanos básicos
 
@@ -502,7 +502,7 @@ Obtienes una dote de mago. A efectos de cumplir con sus prerrequisitos, tu nivel
 
 ### Abundancia arcana - Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de mago
 
@@ -510,7 +510,7 @@ Tus concienzudos estudios te permiten lanzar mas conjuros arcanos cada dia. Incr
 
 ### Lanzamiento de conjuros experto de mago - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de mago, rango maestro en Arcanos
 
@@ -518,7 +518,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de mago - Dote 18
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de mago, rango legendario en Arcanos
 
@@ -544,7 +544,7 @@ Casi cualquier personaje se podría beneficiar de las muchas habilidades y truco
 
 ### Dedicacion de picaro - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Destreza +2
 
@@ -552,7 +552,7 @@ Obtienes una dote de habilidad y el rasgo de clase de picaro ataque por sorpresa
 
 ### Artimanas basicas - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de picaro
 
@@ -560,7 +560,7 @@ Obtienes una dote de picaro de 1.er o de 2.º nivel.
 
 ### Atacante furtivo - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de picaro
 
@@ -568,7 +568,7 @@ Obtienes el rasgo de clase ataque furtivo, excepto en que inflige 1d4 dano, que 
 
 ### Artimanas avanzadas - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Artimanas basicas
 
@@ -578,7 +578,7 @@ Obtienes una dote de picaro. A efectos de cumplir con sus prerrequisitos, tu niv
 
 ### Maestria en habilidades - Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de picaro, rango entrenado en por lo menos una habilidad y rango experto en por lo menos una habilidad
 
@@ -588,7 +588,7 @@ Incrementa tu rango de competencia en una de tus habilidades de experto a maestr
 
 ### Esquiva asombrosa - Dote 10
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de picaro
 
@@ -596,7 +596,7 @@ Obtienes el rasgo de clase negar ventaja.
 
 ### Evasividad - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de picaro, rango experto en salvaciones de Reflejos
 

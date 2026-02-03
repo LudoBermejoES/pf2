@@ -381,7 +381,7 @@ Situas parte de tu poder magico en un objeto vinculado. Cada dia, cuando prepara
 
 ### Drenar Objeto Vinculado {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arcano</span><span class="feat-trait">Mago</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arcano/" class="feat-trait">Arcano</a><a href="/rasgos/mago/" class="feat-trait">Mago</a></div>
 
 **Frecuencia:** una vez al dia
 

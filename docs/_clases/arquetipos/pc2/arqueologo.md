@@ -17,7 +17,7 @@ Los aventureros saquean tumbas por ganancia material, pero los verdaderos arque�
 
 ### Dedicación de Arqueólogo · Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Sociedad y Latrocinio
 
@@ -25,7 +25,7 @@ Eres un estudioso de los pueblos y sus historias, y estás en constante búsqued
 
 ### Estudios mágicos · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Arqueólogo
 
@@ -33,7 +33,7 @@ Si bien el estudio es clave para tu éxito, un poco de magia puede ayudar a desc
 
 ### Estudios de asentamientos · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Arqueólogo
 
@@ -43,7 +43,7 @@ Tus estudios abren nuevos horizontes. Elige un asentamiento específico. Obtiene
 
 ### Identificación académica · Dote 7
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Arqueólogo, maestro en Sociedad
 
@@ -51,7 +51,7 @@ Tienes el conocimiento necesario para comprender textos antiguos y artefactos cu
 
 ### Suerte del arqueólogo · {% include accion.html tipo="libre" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Fortuna</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
 **Prerrequisitos:** Dedicación de Arqueólogo
 
@@ -63,7 +63,7 @@ Eres más que habilidoso; tu impulso por encontrar los secretos del pasado se ma
 
 ### Estudios mágicos mayores · Dote 10
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Estudios mágicos
 

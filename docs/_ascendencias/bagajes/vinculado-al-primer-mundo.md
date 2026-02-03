@@ -10,7 +10,7 @@ parent: Bagajes
 
 **Bagaje**
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/raro/" class="feat-trait">Raro</a></div>
 
 Has pasado tiempo en el **Primer Mundo** u otro reino de las hadas y no eres exactamente la misma persona que antes. Quizá hiciste una compra en el legendario Mercado de las Brujas o degustaste profundamente la comida y el vino feéricos. Sea cual sea el caso, de forma voluntaria o involuntaria, hiciste un pacto con las hadas cuyos beneficios tienen un precio.
 
@@ -20,7 +20,7 @@ Estás entrenado en **Saber sobre hadas** y obtienes la acción libre **Fortuna 
 
 ### Fortuna feérica · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Fortuna</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
 **Frecuencia:** una vez por día
 

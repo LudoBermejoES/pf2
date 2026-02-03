@@ -25,7 +25,7 @@ En algunos casos, el DJ te podría permitir el uso de una habilidad diferente pa
 
 ### Obtener Ingresos
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/tiempo-libre/" class="feat-trait">Tiempo Libre</a></div>
 
 <img src="{{ '/assets/images/acciones/obtener-ingresos.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

@@ -9,7 +9,7 @@ level: 15
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">General</span><span class="feat-trait">Habilidad</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Dote 15**
 

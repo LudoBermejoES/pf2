@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración, Secreto]
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
 Utilizando una amplia variedad de habilidades, averiguas cosas acerca de un objeto mágico, lugar o efecto continuado.
 

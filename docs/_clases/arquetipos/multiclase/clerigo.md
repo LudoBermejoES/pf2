@@ -23,7 +23,7 @@ Aunque muchos personajes profesan tener fe en los dioses, el arquetipo clérigo 
 
 ### Dedicacion de clérigo - Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
 **Prerrequisitos:** Sabiduría +2
 
@@ -35,7 +35,7 @@ Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo cl�
 
 ### Lanzamiento de conjuros basico de clérigo - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de clérigo
 
@@ -45,7 +45,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros. Puedes preparar los c
 
 ### Dogma basico - Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicacion de clérigo
 
@@ -55,7 +55,7 @@ Obtienes una dote de clérigo de 1.er o de 2.º nivel.
 
 ### Dogma avanzado - Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dogma basico
 
@@ -67,7 +67,7 @@ Obtienes una dote de clérigo. A efectos de cumplir con sus prerrequisitos, tu n
 
 ### Abundancia divina - Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de clérigo
 
@@ -77,7 +77,7 @@ Conforme aumenta tu comprensión, tu dios te concede mas conjuros divinos cada d
 
 ### Lanzamiento de conjuros experto de clérigo - Dote 12
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de clérigo, rango maestro en Religion
 
@@ -87,7 +87,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de clérigo - Dote 18
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de clérigo, rango legendario en Religion
 

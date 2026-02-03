@@ -11,8 +11,8 @@ source: PC1
 **Dote 1** · General
 
 <div class="feat-traits-header">
-<span class="feat-trait">GENERAL</span>
-<span class="feat-trait">REACCIÓN</span>
+<a href="/rasgos/general/" class="feat-trait">General</a>
+<a href="/rasgos/reaccion/" class="feat-trait">Reacción</a>
 </div>
 
 **Desencadenante:** Podrías sufrir daño debido a un ataque físico (contundente, perforante o cortante) debido a un ataque cuando tienes el escudo alzado.

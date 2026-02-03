@@ -10,7 +10,7 @@ trained: true
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 
 <img src="{{ '/assets/images/acciones/maniobrar-en-vuelo.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

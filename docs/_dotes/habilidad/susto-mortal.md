@@ -9,7 +9,7 @@ level: 15
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Emocion</span><span class="feat-trait">General</span><span class="feat-trait">Manipular</span><span class="feat-trait">Incapacitacion</span><span class="feat-trait">Miedo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a></div>
 
 **Dote 15**
 

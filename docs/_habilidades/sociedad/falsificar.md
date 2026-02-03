@@ -10,7 +10,7 @@ trained: true
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Secreto</span><span class="feat-trait">Tiempo libre</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/secreto/" class="feat-trait">Secreto</a><a href="/rasgos/tiempo-libre/" class="feat-trait">Tiempo libre</a></div>
 
 <img src="{{ '/assets/images/acciones/falsificar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

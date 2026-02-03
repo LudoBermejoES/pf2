@@ -9,7 +9,7 @@ source: PC2
 item_level: "1, 3, 11, 17"
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Elixir</span><span class="feat-trait">Mutágeno</span><span class="feat-trait">Polimórfico</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/elixir/" class="feat-trait">Elixir</a><a href="/rasgos/mutageno/" class="feat-trait">Mutágeno</a><a href="/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

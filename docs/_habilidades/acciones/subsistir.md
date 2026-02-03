@@ -18,7 +18,7 @@ Si necesitas proveerte de comida y cobijo, puedes utilizar la actividad de tiemp
 
 ### Subsistir
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/tiempo-libre/" class="feat-trait">Tiempo Libre</a></div>
 
 <img src="{{ '/assets/images/acciones/subsistir.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

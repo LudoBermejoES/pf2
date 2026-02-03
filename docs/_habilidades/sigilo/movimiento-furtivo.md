@@ -9,7 +9,7 @@ action_cost: 1
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span><span class="feat-trait">Secreto</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/movimiento/" class="feat-trait">Movimiento</a><a href="/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
 <img src="{{ '/assets/images/acciones/movimiento-furtivo.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

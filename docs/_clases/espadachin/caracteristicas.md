@@ -58,7 +58,7 @@ Ganas una bonificación circunstancial +1 a las pruebas de habilidad con el rasg
 
 ### Remate confiado · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Remate</span><span class="feat-trait">Espadachín</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/remate/" class="feat-trait">Remate</a><a href="/rasgos/espadachin/" class="feat-trait">Espadachín</a></div>
 
 Realizas un ataque increíblemente elegante, atravesando las defensas de tu enemigo. Realiza un Golpe con el siguiente efecto de fallo.
 
@@ -96,7 +96,7 @@ Eres afable, ingenioso y lleno de humor, siempre sabes qué decir. Tus ingeniosa
 
 ## Riposte oportuno · {% include accion.html tipo="libre" %} (3º)
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bravura</span><span class="feat-trait">Espadachín</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/bravura/" class="feat-trait">Bravura</a><a href="/rasgos/espadachin/" class="feat-trait">Espadachín</a></div>
 
 **Desencadenante:** Un enemigo a tu alcance falla críticamente un Golpe contra ti.
 

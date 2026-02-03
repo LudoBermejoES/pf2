@@ -17,7 +17,7 @@ Ir “a vikear” es saquear por mar, y así los vikingos se han extendido por d
 
 ### Dedicación de Vikingo · Dote 2
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Atletismo
 
@@ -27,7 +27,7 @@ Al usar tu Velocidad terrestre, ignoras el terreno difícil por agua poco profun
 
 ### Carga lanzando · {% include accion.html tipo="2" %} · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Vikingo
 
@@ -39,7 +39,7 @@ Realizas un Golpe a distancia con tu arma arrojadiza, Avanzas y luego Interactú
 
 ### Familiaridad con armas vikingas · Dote 4
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Vikingo
 
@@ -49,7 +49,7 @@ En el 5.º nivel, siempre que obtienes un impacto crítico con una de estas arma
 
 ### Segundo escudo · {% include accion.html tipo="libre" %} · Dote 6
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Vikingo
 
@@ -61,7 +61,7 @@ Si hay un objeto a tu alcance que pueda servir como escudo improvisado (por ejem
 
 ### A la refriega · {% include accion.html tipo="2" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Vikingo
 

@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 6; **Precio** 40 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span><span class="feat-trait">Veneno</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/trampa/" class="feat-trait">Trampa</a><a href="/rasgos/veneno/" class="feat-trait">Veneno</a></div>
 
 ---
 

@@ -10,7 +10,7 @@ source: PC1
 
 ## Dotar de Consciencia a un Animal [RITUAL 6]
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">mental</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Lanzamiento:** 1 dia; **Coste:** hierbas, 1/5 del valor que aparece en Rituales de creación de criaturas
 

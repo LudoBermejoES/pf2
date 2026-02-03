@@ -9,7 +9,7 @@ level: 1
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">AUDITIVO</span><span class="feat-trait">CONCENTRAR</span><span class="feat-trait">EMOCIÓN</span><span class="feat-trait">GENERAL</span><span class="feat-trait">LINGÜÍSTICO</span><span class="feat-trait">MENTAL</span><span class="feat-trait">HABILIDAD</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">AUDITIVO</a><a href="/rasgos/concentrar/" class="feat-trait">CONCENTRAR</a><a href="/rasgos/emocion/" class="feat-trait">EMOCIÓN</a><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/linguistico/" class="feat-trait">LINGÜÍSTICO</a><a href="/rasgos/mental/" class="feat-trait">MENTAL</a><a href="/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
 **Dote 1**
 

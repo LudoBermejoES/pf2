@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 2; **Precio** 7 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Consumible</span><span class="feat-trait">Mágico</span><span class="feat-trait">Adivinación</span><span class="feat-trait">Fortuna</span><span class="feat-trait">Talismán</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/adivinacion/" class="feat-trait">Adivinación</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/rasgos/talisman/" class="feat-trait">Talismán</a></div>
 
 **Tipo:** Talismán
 

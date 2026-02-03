@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 18; **Precio** 20.000 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Abjuración</span><span class="feat-trait">Raro</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/abjuracion/" class="feat-trait">Abjuración</a><a href="/rasgos/raro/" class="feat-trait">Raro</a></div>
 
 **Dureza** 22; **PG** 88 (UR 44)
 

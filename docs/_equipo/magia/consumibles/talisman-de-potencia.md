@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 1; **Precio** 4 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Consumible</span><span class="feat-trait">Mágico</span><span class="feat-trait">Evocación</span><span class="feat-trait">Talismán</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/rasgos/talisman/" class="feat-trait">Talismán</a></div>
 
 **Tipo:** Talismán
 

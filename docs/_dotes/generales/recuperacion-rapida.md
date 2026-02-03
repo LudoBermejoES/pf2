@@ -11,7 +11,7 @@ source: PC1
 **Dote 1** · General
 
 <div class="feat-traits-header">
-<span class="feat-trait">GENERAL</span>
+<a href="/rasgos/general/" class="feat-trait">General</a>
 </div>
 
 **Prerrequisitos:** Constitución +2

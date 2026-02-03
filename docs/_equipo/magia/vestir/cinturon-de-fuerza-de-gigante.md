@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 7; **Precio** 340 mo
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Transmutación</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/transmutacion/" class="feat-trait">Transmutación</a></div>
 
 **Ranura:** Cintura
 

@@ -10,7 +10,7 @@ source: PC1
 
 ## Expiar [RITUAL 4]
 
-<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span></div>
+<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a></div>
 
 **Lanzamiento:** 1 dia; **Coste:** incienso raro y ofrendas por un valor total de 20 piezas de oro x el nivel del objetivo
 
