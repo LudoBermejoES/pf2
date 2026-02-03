@@ -7,6 +7,8 @@ category: equipo
 nav_order: 3
 source: PC1
 ---
+<img src="{{ '/assets/images/escudos/escudo-paves.png' | relative_url }}" class="shield-card-image" alt="Carta de escudo">
+
 
 **Precio** 10 po
 

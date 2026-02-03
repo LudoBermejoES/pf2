@@ -7,6 +7,8 @@ category: equipo
 nav_order: 4
 source: PC1
 ---
+<img src="{{ '/assets/images/escudos/rodela.png' | relative_url }}" class="shield-card-image" alt="Carta de escudo">
+
 
 **Precio** 1 po
 

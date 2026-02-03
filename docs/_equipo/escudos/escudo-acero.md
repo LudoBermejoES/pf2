@@ -7,6 +7,8 @@ category: equipo
 nav_order: 1
 source: PC1
 ---
+<img src="{{ '/assets/images/escudos/escudo-acero.png' | relative_url }}" class="shield-card-image" alt="Carta de escudo">
+
 
 **Precio** 2 po
 
