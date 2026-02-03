@@ -15,7 +15,7 @@ La idea clásica de la magia es la de un venerable mago, enfrascado en un crujie
 
 ### Dedicación de Diletante de talismanes · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 Estás entrenado en el uso de talismanes y similares utensilios mágicos. Este entrenamiento puede haber ocurrido en un aula formal o ser una acumulación de magia popular aprendida con el tiempo. Puedes elaborar talismanes y conoces las fórmulas de todos los talismanes comunes de tu nivel o inferior. Recuerdas las fórmulas de talismanes y no necesitas un libro de fórmulas para ellos.
 
@@ -25,7 +25,7 @@ Por último, cuando Fijas un talismán, puedes (en cualquier combinación) fijar
 
 ### Fijación rápida · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Diletante de talismanes
 
@@ -35,7 +35,7 @@ Obtienes la capacidad de Fijar un talismán como actividad de 3 acciones con esa
 
 ### Diletante profundo · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Diletante de talismanes
 
@@ -45,7 +45,7 @@ Con algunos ajustes a tu proceso y una colección más amplia de materiales de t
 
 ### Sabio talismánico · Dote 14
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Diletante de talismanes
 

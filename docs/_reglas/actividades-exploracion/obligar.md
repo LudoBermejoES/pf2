@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Auditivo, Concentrar, Emoción, Exploración, Lingüístico, Mental]
 ---
 
-**Rasgos:** Auditivo, Concentrar, Emoción, Exploración, Lingüístico, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emoción</span><span class="feat-trait">Exploración</span><span class="feat-trait">Lingüístico</span><span class="feat-trait">Mental</span></div>
 
 Usas la [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}) para amenazar a una criatura para que haga lo que quieras.
 

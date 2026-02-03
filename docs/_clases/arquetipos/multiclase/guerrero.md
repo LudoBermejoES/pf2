@@ -25,7 +25,7 @@ El arquetipo guerrero concede acceso a grandes dotes para los personajes que se 
 
 ### Dedicacion de guerrero - Dote 2
 
-**Rasgos:** Arquetipo, Dedicacion, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
 
 **Prerrequisitos:** Fuerza +2, Destreza +2
 
@@ -35,7 +35,7 @@ Obtienes el rango entrenado en armas marciales. Tambien lo obtienes en Acrobacia
 
 ### Maniobra basica - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de guerrero
 
@@ -45,7 +45,7 @@ Obtienes una dote de guerrero de 1.er o de 2.º nivel.
 
 ### Resiliencia de guerrero - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de guerrero, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitución
 
@@ -55,7 +55,7 @@ Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo guer
 
 ### Pegador reactivo - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de guerrero
 
@@ -65,7 +65,7 @@ Obtienes la reacción Golpe reactivo.
 
 ### Maniobra avanzada - Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Maniobra basica
 
@@ -77,7 +77,7 @@ Obtienes una dote de guerrero. A efectos de cumplir con sus prerrequisitos, tu n
 
 ### Experto en armas diversas - Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de guerrero, rango experto cualquier tipo de arma o ataque sin armas
 

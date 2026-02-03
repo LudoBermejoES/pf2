@@ -10,7 +10,7 @@ source: PC2
 
 ## Engatusar [RITUAL 2]
 
-**Rasgos:** Poco común, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">Mental</span></div>
 
 **Lanzamiento:** 1 día; **Coste:** aceites raros por valor total de 10 mo × el nivel del objetivo
 

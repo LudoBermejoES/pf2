@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 20; **Precio** 10.000 mo
 
-**Rasgos:** Trampa, Complejo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span><span class="feat-trait">Complejo</span></div>
 
 ---
 

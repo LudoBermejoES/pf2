@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 5; **Precio** 140 mo
 
-**Rasgos:** Invertir, Mágico, Adivinación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Adivinación</span></div>
 
 **Tipo base:** Arco corto
 

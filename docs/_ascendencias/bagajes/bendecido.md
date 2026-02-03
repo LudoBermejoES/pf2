@@ -10,7 +10,7 @@ parent: Bagajes
 
 **Bagaje**
 
-**Rasgos:** Raro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span></div>
 
 Has sido bendecido por una divinidad. Por una razón desconocida, e independientemente de tus creencias reales, una deidad te ha concedido un don para usarlo para bien o para mal. Tu bendición te otorga sabiduría y perspicacia para ayudarte en tus luchas. Puede que ni siquiera conozcas la identidad del ser que te bendijo, y la bendición podría traer consigo un costo que descubras más adelante.
 

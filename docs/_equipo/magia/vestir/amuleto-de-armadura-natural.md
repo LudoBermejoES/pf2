@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 2; **Precio** 30 mo
 
-**Rasgos:** Invertir, Mágico, Abjuración
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Abjuración</span></div>
 
 **Ranura:** Cuello
 

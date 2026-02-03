@@ -10,7 +10,7 @@ parent: Bagajes
 
 **Bagaje**
 
-**Rasgos:** Raro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span></div>
 
 Te acompaña un espíritu o entidad, ya sea desde la infancia o desde un evento trascendental. Tú y otros pueden haber visto a esta entidad. Has estudiado temas esotéricos intentando comprender tu situación, pero esta presencia en tu vida sigue siendo un misterio. Sea lo que sea o quiera esta entidad, influye en tu vida de formas sutiles, y no siempre para bien. A veces la entidad te ayuda, pero otras su influencia es malévola o perjudicial. La entidad es más proclive a manifestarse en situaciones de estrés.
 

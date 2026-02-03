@@ -17,7 +17,7 @@ Las personas son deliciosamente frágiles cuando se exponen al poder insidioso d
 
 ### Dedicación de Envenenador · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Artesanía
 
@@ -25,7 +25,7 @@ Te aseguras de tener siempre algunas toxinas a mano: nunca se sabe cuándo un po
 
 ### Giro del envenenador · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Envenenador, entrenado en Medicina
 
@@ -35,7 +35,7 @@ Los venenos atacan partes específicas del cuerpo: uno puede dirigirse a los pul
 
 ### Venenotecnia avanzada · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Envenenador
 
@@ -45,7 +45,7 @@ Puedes crear hasta 6 venenos al día con alquimia avanzada.
 
 ### Prenda envenenada · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Envenenador
 
@@ -55,7 +55,7 @@ En la naturaleza, ciertos animales están cubiertos de espinas venenosas, y con 
 
 ### Tolerancia adquirida · {% include accion.html tipo="libre" %} · Dote 8
 
-**Rasgos:** Arquetipo, Fortuna
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Fortuna</span></div>
 
 **Prerrequisitos:** Dedicación de Envenenador
 
@@ -65,7 +65,7 @@ Una pequeña cantidad de veneno, tomada en dosis no letales, puede ayudar al cue
 
 ### Contagio químico · Dote 18
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Envenenador
 

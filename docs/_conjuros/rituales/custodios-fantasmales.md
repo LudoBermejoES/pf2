@@ -10,7 +10,7 @@ source: PC2
 
 ## Custodios fantasmales [RITUAL 3]
 
-**Rasgos:** Poco común
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span></div>
 
 **Lanzamiento:** 1 día; **Coste:** aceites, sales y hierbas raras por valor total de 15 mo; **Lanzadores secundarios:** 2
 

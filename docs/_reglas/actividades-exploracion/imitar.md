@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración, Manipular, Secreto]
 ---
 
-**Rasgos:** Concentrar, Exploración, Manipular, Secreto
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Manipular</span><span class="feat-trait">Secreto</span></div>
 
 Utilizas el [Engaño]({{ '/habilidades/engano/' | relative_url }}) y normalmente material de disfraz para crear un disfraz.
 

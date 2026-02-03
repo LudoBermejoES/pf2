@@ -10,7 +10,7 @@ source: PC1
 
 ## Llamar a un Espíritu [RITUAL 5]
 
-**Rasgos:** Poco comun, espíritu
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">espíritu</span></div>
 
 **Lanzamiento:** 1 hora; **Coste:** velas e incienso raros por un valor total de 50 po
 

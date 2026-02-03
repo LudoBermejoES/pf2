@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 5; **Precio** 150 mo
 
-**Rasgos:** Invertir, Mágico, Adivinación, Videncia
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Adivinación</span><span class="feat-trait">Videncia</span></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

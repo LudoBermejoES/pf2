@@ -17,7 +17,7 @@ A menudo subestimada, tal maestría del cuerpo es útil tanto en el escenario co
 
 ### Dedicación de Acróbata · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Acrobacias
 
@@ -25,7 +25,7 @@ Te conviertes en experto en Acrobacias. Al 7.º nivel te conviertes en maestro e
 
 ### Contorsionista · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Acróbata
 
@@ -33,7 +33,7 @@ Puedes salir de situaciones estrechas retorciendo y doblando tu cuerpo en posici
 
 ### Esquiva evasiva · {% include accion.html tipo="libre" %} · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Acróbata
 
@@ -45,7 +45,7 @@ Usas tu destreza acrobática para evadir un ataque, aprovechando el impulso para
 
 ### Saltador elegante · Dote 7
 
-**Rasgos:** Arquetipo, Habilidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
 
 **Prerrequisitos:** Dedicación de Acróbata, maestro en Acrobacias
 
@@ -53,7 +53,7 @@ La masa y el músculo no importan cuando te impulsas por el aire; solo importan 
 
 ### Golpe rodante · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Arquetipo, Florecimiento, Movimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span><span class="feat-trait">Movimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Acróbata
 
@@ -71,7 +71,7 @@ Te zambulles hábilmente por un hueco que deja un enemigo para asestar un golpe 
 
 ### Oportunista rodante · {% include accion.html tipo="libre" %} · Dote 10
 
-**Rasgos:** Arquetipo, Ataque
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Ataque</span></div>
 
 **Prerrequisitos:** Dedicación de Acróbata
 

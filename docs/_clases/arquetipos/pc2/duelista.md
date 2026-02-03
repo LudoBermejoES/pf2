@@ -17,7 +17,7 @@ Por todo el mundo, los estudiantes en academias de esgrima practican con sus arm
 
 ### Dedicación de Duelista · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en armadura ligera y armas simples
 
@@ -25,7 +25,7 @@ Siempre estás listo para desenvainar tu arma y comenzar un duelo, sin importar 
 
 ### Desafío del duelista · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Duelista
 
@@ -35,7 +35,7 @@ Si atacas a una criatura distinta de tu oponente de duelo, recibes una penalizac
 
 ### Parada desinteresada · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Duelista, Parada de duelo
 
@@ -43,7 +43,7 @@ Proteges a los que están cerca de ti con un destello de acero y un golpe de sue
 
 ### Estudiante de las artes del duelo · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Duelista
 

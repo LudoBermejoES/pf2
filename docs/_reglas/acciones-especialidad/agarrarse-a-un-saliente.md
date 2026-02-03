@@ -11,7 +11,7 @@ source: PC1
 
 ## Agarrarse a un Saliente {% include accion.html tipo="reaccion" %}
 
-**Rasgos:** Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Manipular</span></div>
 
 **Desencadenante:** Caes de un saliente o asidero o pasas al lado mientras caes.
 

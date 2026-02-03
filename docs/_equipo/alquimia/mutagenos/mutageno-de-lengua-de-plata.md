@@ -9,7 +9,7 @@ source: PC2
 item_level: "1, 3, 11, 17"
 ---
 
-**Rasgos:** Alquímico, Consumible, Elixir, Mutágeno, Polimórfico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Elixir</span><span class="feat-trait">Mutágeno</span><span class="feat-trait">Polimórfico</span></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

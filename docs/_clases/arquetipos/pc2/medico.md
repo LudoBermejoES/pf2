@@ -15,7 +15,7 @@ Has estudiado incontables técnicas para proporcionar ayuda médica, lo que te c
 
 ### Dedicación de Médico · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Medicina, Medicina de batalla
 
@@ -25,7 +25,7 @@ Una vez al día, puedes usar Medicina de batalla en una criatura que sea tempora
 
 ### Visita del doctor · {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %} · Dote 4
 
-**Rasgos:** Arquetipo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Médico
 
@@ -33,7 +33,7 @@ Te desplazas para proporcionar atención inmediata a quienes la necesitan. Avanz
 
 ### Tratar condición · {% include accion.html tipo="2" %} · Dote 4
 
-**Rasgos:** Arquetipo, Sanación, Manipular, Habilidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Sanación</span><span class="feat-trait">Manipular</span><span class="feat-trait">Habilidad</span></div>
 
 **Prerrequisitos:** Dedicación de Médico
 
@@ -49,7 +49,7 @@ Tratas a una criatura adyacente intentando reducir la condición torpe, debilita
 
 ### Cuidado holístico · Dote 6
 
-**Rasgos:** Arquetipo, Habilidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
 
 **Prerrequisitos:** entrenado en Diplomacia, Tratar condición
 
@@ -57,7 +57,7 @@ Proporcionas cuidado emocional y espiritual. Añade asustado, aturdido y estupef
 
 ### Resucitar · {% include accion.html tipo="3" %} · Dote 16
 
-**Rasgos:** Arquetipo, Sanación, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Sanación</span><span class="feat-trait">Manipular</span></div>
 
 **Prerrequisitos:** Dedicación de Médico, legendario en Medicina
 

@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Exploración]
 ---
 
-**Rasgos:** Exploración
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploración</span></div>
 
 Haces una prueba de [Sigilo]({{ '/habilidades/sigilo/' | relative_url }}) para Evitar ser visto mientras viajas a media velocidad.
 

@@ -10,7 +10,7 @@ source: PC2
 
 ## Descanso eterno [RITUAL 4]
 
-**Rasgos:** Poco común, Espíritu
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">Espíritu</span></div>
 
 **Lanzamiento:** 1 día; **Coste:** aceites raros para ungir el cuerpo por valor total de el nivel del objetivo (mínimo 1) × 25 mo; **Lanzadores secundarios:** 2
 

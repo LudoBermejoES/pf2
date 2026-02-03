@@ -19,7 +19,7 @@ En cada nivel en el que obtienes una dote de bárbaro, puedes seleccionar una de
 
 ### Visión Aguda · Dote 1
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Cuando estás en ira, tus sentidos visuales mejoran, otorgándote visión en la oscuridad.
 
@@ -27,7 +27,7 @@ Cuando estás en ira, tus sentidos visuales mejoran, otorgándote visión en la 
 
 ### Ímpetu de Adrenalina · Dote 1
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 En el fragor de la batalla, eres capaz de hazañas asombrosas de fuerza. Mientras estás en ira, aumenta tus límites de Volumen de carga máxima y sobrecargado en 2; también obtienes un bonificador de estado de +1 a pruebas de Atletismo para levantar objetos pesados, Escapar y Abrir por la Fuerza.
 
@@ -35,7 +35,7 @@ En el fragor de la batalla, eres capaz de hazañas asombrosas de fuerza. Mientra
 
 ### Arrogancia Dracónica · Dote 1
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto del dragón
 
@@ -45,7 +45,7 @@ Pocos pueden desviarte de tus objetivos mientras la furia del combate te llena. 
 
 ### Momento de Claridad · {% include accion.html tipo="1" %} · Dote 1
 
-**Rasgos:** Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 Reprimes tu ira por un momento para pensar con claridad. Hasta el final de este turno, puedes usar acciones con el rasgo concentración incluso si esas acciones no tienen el rasgo ira.
 
@@ -53,7 +53,7 @@ Reprimes tu ira por un momento para pensar con claridad. Hasta el final de este 
 
 ### Intimidación Rabiosa · Dote 1
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Tu furia llena de miedo a tus enemigos. Mientras estás en ira, tus acciones Desmoralizar y Aterrar hasta la Muerte (de la habilidad Intimidación y una dote de habilidad de Intimidación, respectivamente) obtienen el rasgo ira, permitiéndote usarlas mientras estás en ira. Tan pronto como cumples los prerrequisitos para las dotes de habilidad Mirada Intimidante y Aterrar hasta la Muerte, obtienes estas dotes.
 
@@ -61,7 +61,7 @@ Tu furia llena de miedo a tus enemigos. Mientras estás en ira, tus acciones Des
 
 ### Lanzador Rabioso · Dote 1
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Las armas arrojadizas se vuelven especialmente letales en tu furia. Aplicas el daño adicional de Ira a tus ataques con armas arrojadizas. Si tienes la dote Crítico Brutal o el rasgo de clase devastador, aplica sus beneficios a los ataques con armas arrojadizas.
 
@@ -69,7 +69,7 @@ Las armas arrojadizas se vuelven especialmente letales en tu furia. Aplicas el d
 
 ### Carga Repentina · {% include accion.html tipo="2" %} · Dote 1
 
-**Rasgos:** Bárbaro, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span></div>
 
 Con un rápido sprint, te abalanzas sobre tu enemigo y atacas. Camina dos veces. Si terminas tu movimiento dentro del alcance cuerpo a cuerpo de al menos un enemigo, puedes hacer un Golpe cuerpo a cuerpo contra ese enemigo. Puedes usar Carga Repentina mientras Excavas, Escalas, Vuelas o Nadas en lugar de Caminar si tienes el tipo de movimiento correspondiente.
 
@@ -81,7 +81,7 @@ Con un rápido sprint, te abalanzas sobre tu enemigo y atacas. Camina dos veces.
 
 ### Olfato Agudo · Dote 2
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Cuando tu ira se intensifica, tu sentido del olfato mejora. Mientras estás en ira, obtienes olfato impreciso con un alcance de 9 metros (30 pies).
 
@@ -89,7 +89,7 @@ Cuando tu ira se intensifica, tu sentido del olfato mejora. Mientras estás en i
 
 ### Carga Demoledora · {% include accion.html tipo="2" %} · Dote 2
 
-**Rasgos:** Bárbaro, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span></div>
 
 **Prerrequisitos:** entrenado en Atletismo
 
@@ -99,7 +99,7 @@ Atraviesas, destrozas y cargas a través de obstáculos sólidos sin dudarlo. Ca
 
 ### Remate Furioso · {% include accion.html tipo="1" %} · Dote 2
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 Desesperado por terminar la pelea, vuelcas toda tu ira en un golpe final. Realiza un Golpe. Si impacta, obtienes un bonificador de circunstancia al daño igual al número de asaltos restantes en tu Ira (máximo 10). Después de este Golpe, tu Ira termina inmediatamente, y quedas fatigado hasta que descanses al menos 10 minutos.
 
@@ -107,7 +107,7 @@ Desesperado por terminar la pelea, vuelcas toda tu ira en un golpe final. Realiz
 
 ### Golpe Intimidante · {% include accion.html tipo="2" %} · Dote 2
 
-**Rasgos:** Bárbaro, Emoción, Miedo, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Emoción</span><span class="feat-trait">Miedo</span><span class="feat-trait">Mental</span></div>
 
 Tu golpe no solo hiere a las criaturas sino que también destroza su confianza. Realiza un Golpe cuerpo a cuerpo. Si impactas y causas daño, el objetivo queda asustado 1, o asustado 2 en un golpe crítico.
 
@@ -115,7 +115,7 @@ Tu golpe no solo hiere a las criaturas sino que también destroza su confianza. 
 
 ### Sin Escapatoria · {% include accion.html tipo="libre" %} · Dote 2
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Detonante:** Un enemigo dentro de tu alcance intenta alejarse de ti.
 
@@ -125,7 +125,7 @@ Sigues el ritmo de un enemigo en retirada. Camina hasta tu Velocidad, siguiendo 
 
 ### Segundo Aliento · Dote 2
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Puedes entrar en una segunda ira, pero después necesitas recuperar el aliento. Cuando entras en Ira, puedes elegir obtener Puntos de Golpe temporales de la Ira incluso si no ha pasado 1 minuto (o un turno completo si tienes el rasgo de clase ira revitalizante). Si lo haces, una vez que esta Ira termine, quedas fatigado hasta que descanses 10 minutos.
 
@@ -133,7 +133,7 @@ Puedes entrar en una segunda ira, pero después necesitas recuperar el aliento. 
 
 ### Quitárselo de Encima · {% include accion.html tipo="1" %} · Dote 2
 
-**Rasgos:** Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 Te concentras en tu ira, superando el miedo y combatiendo la náusea. Reduce el valor de tu condición asustado en 1, e intenta una tirada de salvación de Fortaleza para recuperarte de la condición enfermo como si hubieras gastado una acción vomitando; reduces el valor de tu condición enfermo en 1 en un fallo (pero no en un fallo crítico), en 2 en un éxito, o en 3 en un éxito crítico.
 
@@ -145,7 +145,7 @@ Te concentras en tu ira, superando el miedo y combatiendo la náusea. Reduce el 
 
 ### Carga Arrolladora · {% include accion.html tipo="2" %} · Dote 4
 
-**Rasgos:** Bárbaro, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span></div>
 
 **Prerrequisitos:** entrenado en Atletismo
 
@@ -155,7 +155,7 @@ Te abalanzas hacia adelante, apartando enemigos para alcanzar a tu objetivo. Cam
 
 ### Lanzamiento Descomunal · {% include accion.html tipo="2" %} · Dote 4
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Tienes una o más manos libres.
 
@@ -165,7 +165,7 @@ Con un gran esfuerzo, agarras una pieza de tu entorno, como una roca, tronco, me
 
 ### Atleta Rabioso · Dote 4
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Prerrequisitos:** experto en Atletismo
 
@@ -175,7 +175,7 @@ Los obstáculos físicos no pueden contener tu furia. Mientras estás en ira, ob
 
 ### Cicatrices de Acero · {% include accion.html tipo="libre" %} · Dote 4
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto de furia
 
@@ -189,7 +189,7 @@ Cuando recibes los golpes más poderosos, puedes tensar tus músculos para desvi
 
 ### Guías Espirituales · {% include accion.html tipo="libre" %} · Dote 4
 
-**Rasgos:** Bárbaro, Fortuna
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Fortuna</span></div>
 
 **Prerrequisitos:** instinto del espíritu
 
@@ -203,7 +203,7 @@ Aunque nadie los ve y solo tú puedes oírlos, los espíritus a tu alrededor par
 
 ### Sentidos Sobrenaturales · Dote 4
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** Olfato Agudo u olfato
 
@@ -213,7 +213,7 @@ Tu olfato es sobrenaturalmente agudo, y siempre puedes confiar en tu sentido del
 
 ### Barrido · {% include accion.html tipo="2" %} · Dote 4
 
-**Rasgos:** Bárbaro, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span></div>
 
 Realizas un amplio golpe en arco. Haz un único Golpe cuerpo a cuerpo y compara el resultado de la tirada de ataque con las CA de hasta dos enemigos, cada uno de los cuales debe estar dentro de tu alcance cuerpo a cuerpo y adyacente al otro. Tira el daño solo una vez y aplícalo a cada criatura que impactes. Un Barrido cuenta como dos ataques para tu penalización por ataques múltiples.
 
@@ -223,7 +223,7 @@ Si estás usando un arma con el rasgo barrido, su modificador se aplica a todos 
 
 ### Ira Herida · {% include accion.html tipo="libre" %} · Dote 4
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Detonante:** Recibes daño y eres capaz de entrar en ira.
 
@@ -237,7 +237,7 @@ Ruges de dolor, despertando la ira dentro de ti. Entras en Ira.
 
 ### Piel Animal · Dote 6
 
-**Rasgos:** Bárbaro, Metamorfosis, Primigenio
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Metamorfosis</span><span class="feat-trait">Primigenio</span></div>
 
 **Prerrequisitos:** instinto animal
 
@@ -247,7 +247,7 @@ Tu competencia en defensa sin armadura aumenta a experto. Cuando estás en ira y
 
 ### Abusón Brutal · Dote 6
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Prerrequisitos:** experto en Atletismo
 
@@ -257,7 +257,7 @@ Empujas a tus enemigos y les dejas moretones. Mientras estás en ira, cuando log
 
 ### Hendir · {% include accion.html tipo="libre" %} · Dote 6
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Detonante:** Tu Golpe cuerpo a cuerpo reduce a un enemigo a 0 Puntos de Golpe, y otro enemigo está adyacente a esa criatura.
 
@@ -267,7 +267,7 @@ Atraviesas limpiamente a un enemigo y alcanzas a otro. Realiza un Golpe cuerpo a
 
 ### Aliento de Ira Dracónica · {% include accion.html tipo="2" %} · Dote 6
 
-**Rasgos:** Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto del dragón
 
@@ -279,7 +279,7 @@ Respiras profundamente y exhalas energía poderosa en un cono de 9 metros (30 pi
 
 ### Estatura de Gigante · {% include accion.html tipo="1" %} · Dote 6
 
-**Rasgos:** Bárbaro, Polimorfo, Primigenio, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Polimorfo</span><span class="feat-trait">Primigenio</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto del gigante
 
@@ -291,7 +291,7 @@ Creces hasta un tamaño increíble. Te vuelves Grande, aumentando tu alcance en 
 
 ### Fuerza Interior · {% include accion.html tipo="1" %} · Dote 6
 
-**Rasgos:** Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto del espíritu
 
@@ -301,7 +301,7 @@ Tu fuerza es parte de tu ira. Mientras tu furia permanezca, puedes reunir tu fue
 
 ### Cazador de Magos · {% include accion.html tipo="2" %} · Dote 6
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto de la superstición
 
@@ -313,7 +313,7 @@ Usas tu odio por la magia para atacar a un lanzador de conjuros conocido. Realiz
 
 ### Sentidos Nocturnos · Dote 6
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** visión en penumbra u olfato
 
@@ -323,7 +323,7 @@ Tus sentidos obtienen aún mayor claridad. Mientras estás en ira, si tienes vis
 
 ### Golpe Reactivo · {% include accion.html tipo="libre" %} · Dote 6
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Detonante:** Una criatura dentro de tu alcance usa una acción de manipular o una acción de movimiento, realiza un ataque a distancia, o abandona una casilla durante una acción de movimiento que está usando.
 
@@ -333,7 +333,7 @@ Atacas a un enemigo que deja una apertura. Realiza un Golpe cuerpo a cuerpo cont
 
 ### Ira Purificadora · ◈ · Dote 6
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Prerrequisitos:** un instinto que te permita cambiar tu daño adicional de Ira a un tipo de daño diferente
 
@@ -345,7 +345,7 @@ Emites una poderosa oleada de energía instintiva cuando desatas tu ira. Cada en
 
 ### Interferencia de los Espíritus · {% include accion.html tipo="1" %} · Dote 6
 
-**Rasgos:** Bárbaro, Divino, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Divino</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto del espíritu
 
@@ -359,7 +359,7 @@ Invocas espíritus protectores para defenderte de ataques a distancia. Hasta que
 
 ### Brutalidad Animalística · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Bárbaro, Concentración, Metamorfosis, Primigenio, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Metamorfosis</span><span class="feat-trait">Primigenio</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto animal
 
@@ -369,7 +369,7 @@ Profundizas la conexión con tus instintos animales. Tu ataque sin armas de ira 
 
 ### Asalto Desarmante · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Bárbaro, Floritura, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** entrenado en Atletismo
 
@@ -379,7 +379,7 @@ Atacas con suficiente fuerza para sacar el arma de las manos de tu enemigo. Real
 
 ### Asalto de Seguimiento · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Usaste tu acción anterior para realizar un Golpe cuerpo a cuerpo que falló.
 
@@ -389,7 +389,7 @@ Incluso ante el fracaso presionas el ataque, determinado a tener éxito. Realiza
 
 ### Lanzamiento Amistoso · {% include accion.html tipo="2" %} · Dote 8
 
-**Rasgos:** Bárbaro, Manipular, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Manipular</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Estás adyacente a un aliado y tienes una o más manos libres.
 
@@ -399,7 +399,7 @@ Lanzas a tus amigos por el campo de batalla. Levanta a un aliado adyacente de tu
 
 ### Abusón Furioso · Dote 8
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Prerrequisitos:** maestro en Atletismo
 
@@ -409,7 +409,7 @@ Intimidas a los enemigos por todo el campo de batalla. Mientras estás en ira, o
 
 ### Golpe Instintivo · Dote 8
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Prerrequisitos:** Olfato Agudo u olfato
 
@@ -419,7 +419,7 @@ Confías en tus instintos y tu sentido del olfato, usando todos tus sentidos par
 
 ### Rabioso Invulnerable · Dote 8
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Incluso las armaduras más pesadas sirven solo para mejorar tu furia desatada. Estás entrenado en armadura pesada. Siempre que obtengas un rasgo de clase de bárbaro que te otorgue competencia de experto o mayor en armadura mediana, también obtienes esa competencia en armadura pesada. Si tienes la acción Irascible, puedes usarla mientras llevas armadura pesada.
 
@@ -427,7 +427,7 @@ Incluso las armaduras más pesadas sirven solo para mejorar tu furia desatada. E
 
 ### Vigor Renovado · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 A través de la bruma de la batalla, recuperas rápidamente tu vigor rabioso. Obtienes Puntos de Golpe temporales iguales a la mitad de tu nivel más tu modificador de Constitución. Si realizaste una acción de ataque este turno, aumenta el número de Puntos de Golpe temporales a tu nivel más tu modificador de Constitución. Estos Puntos de Golpe temporales duran hasta el final de tu ira.
 
@@ -435,7 +435,7 @@ A través de la bruma de la batalla, recuperas rápidamente tu vigor rabioso. Ob
 
 ### Compartir Ira · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Auditivo, Bárbaro, Ira, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span><span class="feat-trait">Visual</span></div>
 
 **Requisitos:** No has usado esta habilidad desde la última vez que entraste en Ira.
 
@@ -445,7 +445,7 @@ Avivar la furia de un aliado. Mientras estás en ira, una criatura voluntaria a 
 
 ### Salto Repentino · {% include accion.html tipo="2" %} · Dote 8
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Atacas a un enemigo mientras saltas. Realiza un Salto, Salto Alto o Salto Largo e intenta un Golpe cuerpo a cuerpo en cualquier punto durante tu salto. Inmediatamente después del Golpe, caes al suelo si estás en el aire, incluso si no has alcanzado la distancia máxima de tu salto. Si la distancia que caes no es mayor que la altura de tu salto, no sufres daño y aterrizas de pie.
 
@@ -455,7 +455,7 @@ Cuando intentas un Salto Alto o Salto Largo durante un Salto Repentino, determin
 
 ### Sacudir · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Tienes a un enemigo agarrado o inmovilizado.
 
@@ -469,7 +469,7 @@ Sacudes a tu enemigo de un lado a otro. Un enemigo que tengas agarrado o inmovil
 
 ### Ven a por Mí · {% include accion.html tipo="1" %} · Dote 10
 
-**Rasgos:** Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 Te abres a los ataques para poder responder a cambio. Hasta que termine tu ira, estás desprevenido, y las tiradas de daño contra ti obtienen un bonificador de circunstancia de +2. Si una criatura te golpea, esa criatura está desprevenida contra ti hasta el final de tu siguiente turno. Si la golpeas antes del final de tu siguiente turno, obtienes Puntos de Golpe temporales iguales a tu modificador de Constitución, o el doble en un golpe crítico. Estos Puntos de Golpe temporales duran hasta el final de tu ira.
 
@@ -477,7 +477,7 @@ Te abres a los ataques para poder responder a cambio. Hasta que termine tu ira, 
 
 ### Carrera Furiosa · {% include accion.html tipo="2" %} o {% include accion.html tipo="3" %} · Dote 10
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 Te abalanzas hacia adelante. Camina hasta cinco veces, u ocho veces si usaste 3 acciones. Todo este movimiento debe ser en línea recta (aunque el DJ podría permitir una variación razonable). Puedes reemplazar cualquiera de estos Caminar por una acción Equilibrarse si lo necesitas, que intentas usando una prueba de Atletismo en lugar de una prueba de Acrobacia, usando la misma CD.
 
@@ -485,7 +485,7 @@ Te abalanzas hacia adelante. Camina hasta cinco veces, u ocho veces si usaste 3 
 
 ### Gran Hendidura · Dote 10
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** Hendir
 
@@ -495,7 +495,7 @@ Tu furia lleva tu arma a través de múltiples enemigos. Cuando Hendes, si tu Go
 
 ### Aterrizaje Impresionante · {% include accion.html tipo="libre" %} · Dote 10
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Detonante:** Caes al menos 3 metros (10 pies) y aterrizas sobre una superficie sólida.
 
@@ -505,7 +505,7 @@ Te estrellas contra el suelo, destrozándolo a tu alrededor. Trata la caída com
 
 ### Empellón · {% include accion.html tipo="1" %} · Dote 10
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Tu última acción fue un Golpe exitoso.
 
@@ -515,7 +515,7 @@ El peso de tu golpe hace retroceder a tu enemigo. Empujas al enemigo 1,5 metros 
 
 ### Carga Abrumadora · Dote 10
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Prerrequisitos:** Carga Arrolladora
 
@@ -525,7 +525,7 @@ Pisoteas a tus enemigos mientras los atraviesas. Cuando usas Carga Arrolladora y
 
 ### Golpe Resonante · {% include accion.html tipo="2" %} · Dote 10
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Estás empuñando un arma cuerpo a cuerpo que inflige daño contundente.
 
@@ -535,7 +535,7 @@ Golpeas a tu enemigo en la cabeza con tal fuerza que le zumban los oídos. Reali
 
 ### Golpe Silenciador · {% include accion.html tipo="1" %} · Dote 10
 
-**Rasgos:** Bárbaro, Incapacitación, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Incapacitación</span><span class="feat-trait">Ira</span></div>
 
 Un golpe rápido a la cara o la boca silencia a tu oponente. Realiza un Golpe cuerpo a cuerpo contra un enemigo. Si impacta, el enemigo debe superar una tirada de salvación de Fortaleza contra tu CD de clase.
 
@@ -549,7 +549,7 @@ Un golpe rápido a la cara o la boca silencia a tu oponente. Realiza un Golpe cu
 
 ### Enredo de Batalla · {% include accion.html tipo="libre" %} · Dote 10
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Detonante:** Golpeas críticamente a un enemigo adyacente.
 
@@ -559,7 +559,7 @@ Tu golpe vicioso acerca a tu enemigo, dándote la oportunidad de agarrarlo. Inte
 
 ### Aullido Terrorífico · {% include accion.html tipo="1" %} · Dote 10
 
-**Rasgos:** Auditivo, Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 Sueltas un aullido terrorífico. Intenta pruebas de Intimidación para Desmoralizar a cada enemigo a 9 metros (30 pies): no recibes penalización si la criatura no entiende tu idioma. Independientemente de los resultados de tus pruebas, cada objetivo queda entonces temporalmente inmune a Aullido Terrorífico durante 1 minuto.
 
@@ -571,7 +571,7 @@ Sueltas un aullido terrorífico. Intenta pruebas de Intimidación para Desmorali
 
 ### Alas de Ira Dracónica · {% include accion.html tipo="1" %} · Dote 12
 
-**Rasgos:** Bárbaro, Metamorfosis, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Metamorfosis</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto del dragón
 
@@ -581,7 +581,7 @@ Te brotan alas de dragón de la espalda del mismo color que tu dragón elegido. 
 
 ### Abrazar el Dolor · {% include accion.html tipo="libre" %} · Dote 12
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Detonante:** Una criatura dentro de tu alcance te daña con un ataque cuerpo a cuerpo.
 
@@ -591,7 +591,7 @@ Ignorando tu dolor, extiendes la mano y agarras a la criatura o el arma que te c
 
 ### Agarre Furioso · {% include accion.html tipo="1" %} · Dote 12
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Tu última acción fue un Golpe exitoso, y o bien tienes una mano libre o tu Golpe usó un arma con el rasgo agarre.
 
@@ -601,7 +601,7 @@ Agarras a tu enemigo mientras está distraído por tu ataque. El enemigo que gol
 
 ### Salto del Depredador · {% include accion.html tipo="1" %} · Dote 12
 
-**Rasgos:** Bárbaro, Floritura, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto animal
 
@@ -613,7 +613,7 @@ Acortas la distancia con tu presa en un borrón, abalanzándote sobre la criatur
 
 ### Ira del Espíritu · {% include accion.html tipo="1" %} · Dote 12
 
-**Rasgos:** Ataque, Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Ataque</span><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto del espíritu
 
@@ -623,7 +623,7 @@ Invocas un espíritu efímero, típicamente la aparición de un ancestro o un es
 
 ### Destruir Conjuro · {% include accion.html tipo="2" %} · Dote 12
 
-**Rasgos:** Ataque, Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Ataque</span><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto de la superstición
 
@@ -635,7 +635,7 @@ Tanto si tienes éxito en tu Golpe como si no, el objetivo queda temporalmente i
 
 ### Estatura de Titán · Dote 12
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Prerrequisitos:** Estatura de Gigante
 
@@ -645,7 +645,7 @@ Creces hasta un tamaño aún mayor. Cuando usas Estatura de Gigante, puedes en s
 
 ### Barrido Desequilibrante · {% include accion.html tipo="3" %} · Dote 12
 
-**Rasgos:** Bárbaro, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span></div>
 
 Realizas un gran barrido con tu arma o puños a tu alrededor, derribando criaturas y alejándolas de ti. Elige hasta tres enemigos dentro de tu alcance y elige si Empujar o Derribar a los tres. Sea cual sea la opción que elijas, tira una prueba de Atletismo separada contra cada enemigo, realizando la misma acción contra cada uno. Cada intento cuenta para tu penalización por ataques múltiples, pero no aumentes tu penalización hasta que hayas realizado todos los intentos.
 
@@ -657,7 +657,7 @@ Realizas un gran barrido con tu arma o puños a tu alrededor, derribando criatur
 
 ### Golpe Impresionante · Dote 14
 
-**Rasgos:** Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** Empellón
 
@@ -673,7 +673,7 @@ Tus ataques son tan poderosos que pueden aplanar a tus oponentes. Cuando usas Em
 
 ### Estocada de Gigante · {% include accion.html tipo="1" %} · Dote 14
 
-**Rasgos:** Bárbaro, Concentración, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto del gigante
 
@@ -683,7 +683,7 @@ Extiendes tu cuerpo y te preparas para atacar enemigos fuera de tu alcance norma
 
 ### Estocada Empaladora · {% include accion.html tipo="2" %} · Dote 14
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Estás empuñando un arma cuerpo a cuerpo que inflige daño perforante.
 
@@ -693,7 +693,7 @@ Empalas a tu enemigo y lo mantienes en su lugar con tu arma, dejándolo sangrand
 
 ### Destruir Encantamiento · Dote 14
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Prerrequisitos:** Destruir Conjuro
 
@@ -703,7 +703,7 @@ Puedes enfocar tu superstición para romper la magia de un objeto, además de de
 
 ### Golpe Vengativo · {% include accion.html tipo="libre" %} · Dote 14
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** Ven a por Mí
 
@@ -717,7 +717,7 @@ Cuando te golpea un enemigo, respondes a cambio. Realiza un Golpe cuerpo a cuerp
 
 ### Golpe Torbellino · {% include accion.html tipo="3" %} · Dote 14
 
-**Rasgos:** Bárbaro, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span></div>
 
 Atacas a todos los adversarios cercanos. Realiza un Golpe cuerpo a cuerpo contra cada enemigo dentro de tu alcance cuerpo a cuerpo. Cada ataque cuenta para tu penalización por ataques múltiples, pero no aumentes tu penalización hasta que hayas realizado todos tus ataques.
 
@@ -729,7 +729,7 @@ Atacas a todos los adversarios cercanos. Realiza un Golpe cuerpo a cuerpo contra
 
 ### Sacudida Colateral · Dote 16
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** Sacudir
 
@@ -739,7 +739,7 @@ Golpeas al enemigo que estás sacudiendo contra alguien más. Cuando usas Sacudi
 
 ### Ira Desesperada · ◈ · Dote 16
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Detonante:** Comienza tu turno, y tus Puntos de Golpe actuales están a la mitad de tu máximo o menos.
 
@@ -749,7 +749,7 @@ Tu sangre hierve cuando te dan una paliza, y tiras la cautela por la borda para 
 
 ### Transformación Dracónica · {% include accion.html tipo="1" %} · Dote 16
 
-**Rasgos:** Bárbaro, Concentración, Polimorfo, Primigenio, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Polimorfo</span><span class="feat-trait">Primigenio</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** Alas de Ira Dracónica
 
@@ -763,7 +763,7 @@ A nivel 18, obtienes un bonificador de estado de +6 metros (+20 pies) a tu Veloc
 
 ### Venganza Furiosa · {% include accion.html tipo="libre" %} · Dote 16
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** instinto de furia
 
@@ -775,7 +775,7 @@ El golpe de tu enemigo alimenta tu ira y provoca tu represalia inmediata. Realiz
 
 ### Proyectil Penetrante · {% include accion.html tipo="2" %} · Dote 16
 
-**Rasgos:** Bárbaro, Floritura, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Floritura</span><span class="feat-trait">Ira</span></div>
 
 **Requisitos:** Estás empuñando un arma a distancia o arrojadiza que inflige daño perforante.
 
@@ -785,7 +785,7 @@ Tus proyectiles no son obstaculizados por carne y hueso. Realiza un Golpe a dist
 
 ### Golpes Destrozadores · Dote 16
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 Tus golpes contundentes destrozan objetos con facilidad. Mientras estás en ira, el daño de tus Golpes cuerpo a cuerpo ignora los primeros 5 puntos de Dureza de un objeto. Si tienes el rasgo de clase devastador, el daño en su lugar ignora los primeros 10 puntos de Dureza de un objeto.
 
@@ -797,7 +797,7 @@ Tus golpes contundentes destrozan objetos con facilidad. Mientras estás en ira,
 
 ### Crítico Brutal · Dote 18
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Tus golpes críticos son particularmente devastadores. En un golpe crítico con un Golpe cuerpo a cuerpo, añade un dado de daño extra. Esto se suma a cualquier dado extra que obtengas si el arma es mortífera o fatal. El objetivo también sufre daño de sangrado persistente igual a dos dados de daño.
 
@@ -805,7 +805,7 @@ Tus golpes críticos son particularmente devastadores. En un golpe crítico con 
 
 ### Claridad Perfecta · {% include accion.html tipo="libre" %} · Dote 18
 
-**Rasgos:** Bárbaro, Concentración, Fortuna, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentración</span><span class="feat-trait">Fortuna</span><span class="feat-trait">Ira</span></div>
 
 **Detonante:** Fallas o fallas críticamente una tirada de ataque o de salvación de Voluntad.
 
@@ -815,7 +815,7 @@ Consumes toda tu ira para asegurarte de que tu ataque impacte y tu mente permane
 
 ### Evisceración Viciosa · {% include accion.html tipo="2" %} · Dote 18
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 Realizas un ataque vicioso que mutila a tu enemigo. Realiza un Golpe cuerpo a cuerpo. Si el Golpe impacta e inflige daño, el objetivo queda extenuado 1, o extenuado 2 en un éxito crítico.
 
@@ -823,7 +823,7 @@ Realizas un ataque vicioso que mutila a tu enemigo. Realiza un Golpe cuerpo a cu
 
 ### Lanzamiento en Torbellino · {% include accion.html tipo="2" %} · Dote 18
 
-**Rasgos:** Bárbaro, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span></div>
 
 **Prerrequisitos:** Sacudida Colateral
 
@@ -839,7 +839,7 @@ Si el enemigo que eliges para Sacudida Colateral también está adyacente a ti, 
 
 ### Golpe Aniquilador · {% include accion.html tipo="2" %} · Dote 20
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Has abrazado el poder destructivo bruto. Realizas un Golpe cuerpo a cuerpo que ignora cualquier resistencia que tenga el objetivo. Si apuntas a un objeto sólido desatendido o superficie con tu Golpe, podrías destruirlo automáticamente sin una tirada de ataque. Si apuntas a cualquier objeto o superficie con Dureza 20 o menos que no sea un objeto mágico o el efecto de un conjuro, lo destruyes.
 
@@ -851,7 +851,7 @@ Destruyes hasta un cubo de 1,5 metros (5 pies) de un objeto o superficie mayor q
 
 ### Ira Contagiosa · Dote 20
 
-**Rasgos:** Auditivo, Bárbaro, Ira, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Bárbaro</span><span class="feat-trait">Ira</span><span class="feat-trait">Visual</span></div>
 
 **Prerrequisitos:** Compartir Ira
 
@@ -861,7 +861,7 @@ Puedes llevar a tus aliados a un frenesí, otorgándoles increíbles beneficios.
 
 ### Pisotón Sismico · {% include accion.html tipo="1" %} · Dote 20
 
-**Rasgos:** Bárbaro, Manipular, Ira
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Manipular</span><span class="feat-trait">Ira</span></div>
 
 **Frecuencia:** una vez cada 10 minutos
 
@@ -871,7 +871,7 @@ Pisoteas el suelo con tal fuerza que creas un terremoto menor, con los efectos d
 
 ### Juggernaut Imparable · Dote 20
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 Te has convertido en una fuerza de la naturaleza brutal e imparable, capaz de ignorar heridas mortales con facilidad. Obtienes resistencia igual a 3 + tu modificador de Constitución a todo el daño, y tu resistencia por estar en ira aumenta a 8 + tu modificador de Constitución.
 

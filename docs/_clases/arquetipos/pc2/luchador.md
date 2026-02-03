@@ -17,7 +17,7 @@ Los luchadores son atletas que oponen su fuerza y habilidad contra enemigos pode
 
 ### Dedicación de Luchador · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Atletismo
 
@@ -25,7 +25,7 @@ Tu entrenamiento en las artes de la lucha te hace especialmente diestro al mover
 
 ### Giro liberador · {% include accion.html tipo="libre" %} · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -35,7 +35,7 @@ Tu capacidad para retorcer el cuerpo de tus oponentes en dolorosas llaves y agar
 
 ### Rompe codos · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -49,7 +49,7 @@ Doblas el cuerpo o las extremidades de tu oponente en posiciones agonizantes que
 
 ### Suplex · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -59,7 +59,7 @@ Flexionando todo tu cuerpo, elevas a tu oponente sobre tu cabeza y lo azotas con
 
 ### Golpe de clinch · {% include accion.html tipo="libre" %} · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -69,7 +69,7 @@ Tus oponentes no pueden escapar de tu agarre sin castigo. Realiza un Golpe de me
 
 ### Placaje en carrera · {% include accion.html tipo="2" %} · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -77,7 +77,7 @@ Cargas, lanzando tu cuerpo contra tu enemigo en un placaje feroz. Avanza dos vec
 
 ### Estrangulación · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -87,7 +87,7 @@ Exprimes el aliento de tu enemigo. Realiza un Golpe de melé desarmado contra la
 
 ### Llave de rendición · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -101,7 +101,7 @@ Tu agarre de hierro merma la fuerza de tu oponente. Intenta una prueba de Atleti
 
 ### Martinete aéreo · {% include accion.html tipo="2" %} · Dote 10
 
-**Rasgos:** Arquetipo, Ataque
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Ataque</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -117,7 +117,7 @@ Elevándote junto a tu oponente en el aire, lo haces estrellarse contra el suelo
 
 ### Rompecolumnas · {% include accion.html tipo="1" %} · Dote 10
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -131,7 +131,7 @@ Estrujas a tu oponente en un brutal abrazo de oso, aplicando intensa presión so
 
 ### Agarre ineludible · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 
@@ -139,7 +139,7 @@ Tu agarre tiene una cualidad sobrenatural que impide que tus enemigos escapen f�
 
 ### Bloqueo de forma · {% include accion.html tipo="1" %} · Dote 14
 
-**Rasgos:** Arquetipo, Ataque
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Ataque</span></div>
 
 **Prerrequisitos:** Dedicación de Luchador
 

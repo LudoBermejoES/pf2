@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración]
 ---
 
-**Rasgos:** Concentrar, Exploración
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span></div>
 
 Exploras por delante y por detrás del grupo en busca de peligros, moviéndote a media velocidad.
 

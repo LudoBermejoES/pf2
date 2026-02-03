@@ -27,7 +27,7 @@ Casi cualquier personaje se podría beneficiar de las muchas habilidades y truco
 
 ### Dedicacion de picaro - Dote 2
 
-**Rasgos:** Arquetipo, Dedicacion, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
 
 **Prerrequisitos:** Destreza +2
 
@@ -37,7 +37,7 @@ Obtienes una dote de habilidad y el rasgo de clase de picaro ataque por sorpresa
 
 ### Artimanas basicas - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de picaro
 
@@ -47,7 +47,7 @@ Obtienes una dote de picaro de 1.er o de 2.º nivel.
 
 ### Atacante furtivo - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de picaro
 
@@ -57,7 +57,7 @@ Obtienes el rasgo de clase ataque furtivo, excepto en que inflige 1d4 dano, que 
 
 ### Artimanas avanzadas - Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Artimanas basicas
 
@@ -69,7 +69,7 @@ Obtienes una dote de picaro. A efectos de cumplir con sus prerrequisitos, tu niv
 
 ### Maestria en habilidades - Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de picaro, rango entrenado en por lo menos una habilidad y rango experto en por lo menos una habilidad
 
@@ -81,7 +81,7 @@ Incrementa tu rango de competencia en una de tus habilidades de experto a maestr
 
 ### Esquiva asombrosa - Dote 10
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de picaro
 
@@ -91,7 +91,7 @@ Obtienes el rasgo de clase negar ventaja.
 
 ### Evasividad - Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de picaro, rango experto en salvaciones de Reflejos
 

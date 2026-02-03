@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Tiempo Libre, Secreto]
 ---
 
-**Rasgos:** Tiempo Libre, Secreto
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span><span class="feat-trait">Secreto</span></div>
 
 Utilizas el [Engaño]({{ '/habilidades/engano/' | relative_url }}) para falsificar un documento.
 

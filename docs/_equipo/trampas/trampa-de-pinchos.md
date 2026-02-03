@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 1; **Precio** 3 mo
 
-**Rasgos:** Trampa
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span></div>
 
 ---
 

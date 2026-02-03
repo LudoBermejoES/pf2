@@ -15,7 +15,7 @@ Las plantas a tu alrededor pueden proporcionar más remedios que el mejor hospit
 
 ### Dedicación de Herborista · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Naturaleza, Medicina natural
 
@@ -25,7 +25,7 @@ Pasas a ser experto en Naturaleza y puedes usar Naturaleza en lugar de Artesaní
 
 ### Ingredientes frescos · Dote 2
 
-**Rasgos:** Arquetipo, Habilidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
 
 **Prerrequisitos:** Dedicación de Herborista
 
@@ -33,7 +33,7 @@ Es increíble la diferencia que pueden marcar las hierbas frescas. Al usar Medic
 
 ### Preparación de cataplasma · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Herborista
 
@@ -41,7 +41,7 @@ Cuando creas un elixir como producto herbal, puedes prepararlo como una cataplas
 
 ### Herboristería avanzada · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Herborista, experto en Naturaleza
 
@@ -51,7 +51,7 @@ Tus talentos de herborista siguen creciendo con el uso y te has vuelto capaz de 
 
 ### Hierbas endémicas · Dote 6
 
-**Rasgos:** Aditivo, Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Herborista, entrenado en Supervivencia
 

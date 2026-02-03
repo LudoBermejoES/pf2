@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 4; **Precio** 20 mo
 
-**Rasgos:** Consumible, Mágico, Ilusión
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Consumible</span><span class="feat-trait">Mágico</span><span class="feat-trait">Ilusión</span></div>
 
 **Tipo:** Aceite
 

@@ -10,7 +10,7 @@ source: PC2
 
 ## Brebaje fortificante [RITUAL 5]
 
-**Rasgos:** Poco común
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span></div>
 
 **Lanzamiento:** 4 horas; **Coste:** ingredientes de alta calidad y equipo de elaboración por valor de 25 mo; **Lanzadores secundarios:** 1
 

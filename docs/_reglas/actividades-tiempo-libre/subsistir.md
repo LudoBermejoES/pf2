@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Tiempo Libre]
 ---
 
-**Rasgos:** Tiempo Libre
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
 
 Encuentras comida y abrigo sin tener que pagar el coste de la vida.
 

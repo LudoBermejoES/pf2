@@ -17,13 +17,13 @@ Desde el sabio búho posado en el hombro del mago hasta el astuto gremlin que si
 
 ### Dedicación de Maestro de familiares · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 Has forjado un vínculo místico con una criatura. Esto podría haber implicado rituales e invocaciones complejas, como meditar bajo la luna hasta que algo emergiera del bosque. O quizá simplemente os hicisteis un favor mutuo, como rescatar a la bestia de una trampa o de un enemigo, y luego ser rescatado a tu vez. Sean cuales sean los detalles, ahora sois camaradas hasta el final. Obtienes un familiar. Si ya tienes un familiar, obtienes la dote Familiar mejorado.
 
 ### Mascota familiar · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Maestro de familiares
 
@@ -31,7 +31,7 @@ Al seleccionar habilidades de amo, puedes elegir a un aliado para que se benefic
 
 ### Canalizador familiar · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo, Concentrar, Dar forma al conjuro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Dar forma al conjuro</span></div>
 
 **Prerrequisitos:** Dedicación de Maestro de familiares, capaz de lanzar conjuros
 
@@ -41,7 +41,7 @@ Bajo tu tutela, tu familiar se ha sintonizado con las corrientes ocultas del mun
 
 ### Familiar mejorado · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Maestro de familiares
 
@@ -49,7 +49,7 @@ Te resulta fácil atraer a tu lado un familiar poderoso e inusual. El número de
 
 ### Familiar mutable · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Maestro de familiares
 
@@ -57,7 +57,7 @@ El espíritu sobrenatural de tu familiar ha superado su cuerpo corpóreo. Puedes
 
 ### Familiar increíble · Dote 10
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Familiar mejorado
 

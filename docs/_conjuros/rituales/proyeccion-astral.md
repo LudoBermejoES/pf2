@@ -10,7 +10,7 @@ source: PC2
 
 ## Proyección astral [RITUAL 5]
 
-**Rasgos:** Poco común
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span></div>
 
 **Lanzamiento:** 1 hora; **Coste:** una gema por valor total de el nivel del objetivo (mínimo 1) × 5 mo, por cada objetivo; **Lanzadores secundarios:** 2
 

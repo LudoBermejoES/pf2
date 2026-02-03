@@ -17,13 +17,13 @@ Te has entrenado en artes marciales, haciendo letales tus golpes desarmados. No 
 
 ### Dedicación de Artista marcial · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 Te has entrenado para usar tus puños como armas mortales y puedes asestar golpes devastadores con ellos. El dado de daño de tus ataques desarmados con puño pasa a ser 1d6 en lugar de 1d4. No recibes la penalización circunstancial –2 por realizar un ataque letal con tus ataques desarmados no letales.
 
 ### Golpe de seguimiento · {% include accion.html tipo="1" %} · Dote 6
 
-**Rasgos:** Arquetipo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Artista marcial
 
@@ -33,7 +33,7 @@ Te has entrenado rigurosamente para usar todas las partes de tu cuerpo como arma
 
 ### Golpe atroz · {% include accion.html tipo="2" %} · Dote 8
 
-**Rasgos:** Arquetipo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Artista marcial
 
@@ -43,7 +43,7 @@ Si eres al menos nivel 18, incrementa el daño adicional a tres dados de daño d
 
 ### Sendero de hierro · {% include accion.html tipo="3" %} · Dote 14
 
-**Rasgos:** Arquetipo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Artista marcial
 

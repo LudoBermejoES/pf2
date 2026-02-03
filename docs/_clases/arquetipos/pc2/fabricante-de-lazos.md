@@ -15,7 +15,7 @@ Eres capaz de tomar materiales ordinarios y usarlos para crear lazos mortales: t
 
 ### Dedicación de Fabricante de lazos · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Artesanía
 
@@ -29,7 +29,7 @@ Cuando aumentas tu rango de competencia en Artesanía a experto, maestro o legen
 
 ### Lazo sorpresa · {% include accion.html tipo="3" %} · Dote 4
 
-**Rasgos:** Arquetipo, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Manipular</span></div>
 
 **Prerrequisitos:** Dedicación de Fabricante de lazos
 
@@ -37,7 +37,7 @@ Instalas un lazo preparado para despliegue en un espacio ocupado por un enemigo.
 
 ### Activación remota · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Fabricante de lazos
 
@@ -45,7 +45,7 @@ Has aprendido a activar lazos desde lejos, creando peligros a distancia para hos
 
 ### Lazo gigante · Dote 10
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Fabricante de lazos
 
@@ -53,7 +53,7 @@ Puedes crear lazos más grandes para despliegue rápido, haciendo más probable 
 
 ### Lazos relámpago · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Fabricante de lazos, maestro en Artesanía
 
@@ -61,7 +61,7 @@ Puedes preparar una trampa con velocidad increíble. Cuando creas un lazo que no
 
 ### Lazos abundantes · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Fabricante de lazos
 

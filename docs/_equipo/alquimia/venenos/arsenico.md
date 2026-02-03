@@ -7,7 +7,7 @@ category: equipo
 source: PC2
 ---
 
-**Rasgos:** Alquímico, Consumible, Ingerido, Veneno
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Ingerido</span><span class="feat-trait">Veneno</span></div>
 
 **Nivel** 1; **Precio** 3 mo
 

@@ -188,7 +188,7 @@ Cuando sacas partido de una abertura, a la vez obstaculizas y danas a tu enemigo
 
 ### Golpe Debilitante {% include accion.html tipo="libre" %}
 
-**Rasgos:** Picaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Picaro</span></div>
 
 **Desencadenante:** Tu Golpe impacta en una criatura desprevenida e inflige dano.
 
@@ -265,7 +265,7 @@ Puedes incapacitar a un enemigo incauto de un solo golpe. Tu rango de competenci
 
 ### Golpe Maestro {% include accion.html tipo="libre" %}
 
-**Rasgos:** Incapacitacion, Picaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Incapacitacion</span><span class="feat-trait">Picaro</span></div>
 
 **Desencadenante:** Tu Golpe impacta en una criatura desprevenida e inflige dano.
 

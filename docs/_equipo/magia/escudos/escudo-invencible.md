@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 18; **Precio** 20.000 mo
 
-**Rasgos:** Invertir, Mágico, Abjuración, Raro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Abjuración</span><span class="feat-trait">Raro</span></div>
 
 **Dureza** 22; **PG** 88 (UR 44)
 

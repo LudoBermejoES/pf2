@@ -15,7 +15,7 @@ A continuacion se presentan las dotes de clase del alquimista, organizadas por n
 
 ### Familiar Alquimico · Dote 1
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Has usado la alquimia para crear vida, una criatura simple formada a partir de materiales alquimicos, reactivos y un poco de tu propia sangre. Obtienes un familiar, que tiene la capacidad de familiar constructo (Player Core 212); esto es permanente, no requiere que el familiar tenga la capacidad de familiar resistente, y no cuenta contra tu limite usual de capacidades de familiar (normalmente 2). El familiar usa tu modificador de Inteligencia para determinar sus modificadores de Percepcion, Acrobacia y Sigilo.
 
@@ -23,7 +23,7 @@ Has usado la alquimia para crear vida, una criatura simple formada a partir de m
 
 ### Evaluacion Alquimica · Dote 1
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** entrenado en Artesania
 
@@ -33,7 +33,7 @@ Puedes identificar objetos alquimicos rapidamente. Cuando usas la habilidad Arte
 
 ### Envenenador de Cerbatana · Dote 1
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Puedes administrar toxinas competentemente con una cerbatana. Tus Golpes de cerbatana pueden aplicar venenos de herida incluso si no causan dano debido a la resistencia de una criatura. Si tienes un exito critico en un Golpe de cerbatana usando un dardo envenenado, la tirada de salvacion inicial del objetivo contra el veneno es un grado de exito peor de lo que la criatura obtuvo; esto es un efecto de infortunio.
 
@@ -43,7 +43,7 @@ Ademas, si realizas un Golpe de cerbatana mientras estas oculto o sin detectar, 
 
 ### Lanzador Lejano · Dote 1
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Has aprendido a lanzar a mayor distancia. Cuando lanzas una bomba alquimica, tiene un incremento de alcance de 9 metros en lugar de los 6 metros habituales.
 
@@ -51,7 +51,7 @@ Has aprendido a lanzar a mayor distancia. Cuando lanzas una bomba alquimica, tie
 
 ### Bombardero Rapido · {% include accion.html tipo="1" %} · Dote 1
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Mantienes tus bombas y reactivos relacionados con bombas en bolsas de facil acceso de las cuales extraes sin pensar. Interactuas para sacar una bomba, sacar un vial versatil, o usar Alquimia Rapida para crear una bomba, luego Golpeas con la bomba. Si tienes la capacidad de crear mas de una bomba a la vez con Alquimia Rapida (como del rasgo de clase elaboracion doble), solo puedes Golpear con una de las bombas que creas con esta accion.
 
@@ -59,7 +59,7 @@ Mantienes tus bombas y reactivos relacionados con bombas en bolsas de facil acce
 
 ### Viales Reconfortantes · Dote 1
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** campo de investigacion cirujano
 
@@ -71,7 +71,7 @@ Los quimicos curativos en tus viales versatiles tambien ayudan a calmar la mente
 
 ### Elixires Coagulantes · Dote 2
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Tus brebajes restauradores tienen un efecto coagulante en la sangre del bebedor. Cuando una criatura viviente bebe un elixir imbuido con el rasgo curativo que has creado, puede intentar inmediatamente una prueba simple de CD 10 para eliminar cualquier dano de sangrado persistente.
 
@@ -79,7 +79,7 @@ Tus brebajes restauradores tienen un efecto coagulante en la sangre del bebedor.
 
 ### Improvisar Mezcla · {% include accion.html tipo="1" %} · Dote 2
 
-**Rasgos:** Alquimista, Concentracion, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span><span class="feat-trait">Concentracion</span><span class="feat-trait">Manipular</span></div>
 
 **Frecuencia:** una vez por dia
 
@@ -99,7 +99,7 @@ Reunes suficientes ingredientes de lo que queda en tu juego de herramientas de a
 
 ### Veneno Pernicioso · Dote 2
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes anadir un aditivo toxico a un veneno alquimico para hacer que salpique veneno sobre su objetivo. Un veneno con este aditivo causa una cantidad de dano de veneno igual al nivel del veneno si el objetivo tiene exito en su tirada de salvacion inicial contra el. Un objetivo que tiene un exito critico en su tirada de salvacion contra este veneno aun no recibe dano.
 
@@ -107,7 +107,7 @@ Puedes anadir un aditivo toxico a un veneno alquimico para hacer que salpique ve
 
 ### Mutageno Revivificante · {% include accion.html tipo="1" %} · Dote 2
 
-**Rasgos:** Alquimista, Concentracion
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span><span class="feat-trait">Concentracion</span></div>
 
 **Requisitos:** Estas bajo los efectos de un mutageno.
 
@@ -117,7 +117,7 @@ Metabolizas un mutageno para curarte. Recuperas 1d6 Puntos de Golpe por cada 2 n
 
 ### Bomba de Humo · Dote 2
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes anadir un aditivo alquitranado a una bomba alquimica para hacer que emita humo. Cuando se lanza, ademas de sus efectos normales, la bomba crea una nube de humo en una explosion de 3 metros. Eliges desde que esquina del espacio del objetivo (o el espacio en el que cae la bomba) se centra la nube. Las criaturas dentro de esa area tienen la condicion oculto, y todas las demas criaturas estan ocultas para ellas. El humo dura 1 minuto o hasta que sea dispersado por un viento fuerte.
 
@@ -127,7 +127,7 @@ Puedes anadir un aditivo alquitranado a una bomba alquimica para hacer que emita
 
 ### Alquimia Eficiente · Dote 4
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Gracias al tiempo que has pasado estudiando y experimentando, sabes como escalar tus formulas a lotes mas grandes que no requieren atencion adicional. Aumenta el numero de objetos que puedes crear cada dia con alquimia avanzada a 6 + tu modificador de Inteligencia.
 
@@ -137,7 +137,7 @@ Ademas, cuando elaboras consumibles alquimicos durante el tiempo de inactividad,
 
 ### Alquimia Duradera · Dote 4
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Has aprendido como hacer que tu energia personal dure un poco mas cuando preparas brebajes ad hoc rapidamente. Cuando usas Alquimia Rapida para crear una herramienta alquimica o elixir, esa herramienta o elixir permanece potente hasta el final de tu siguiente turno, en lugar de perder su potencia al inicio de tu siguiente turno.
 
@@ -145,7 +145,7 @@ Has aprendido como hacer que tu energia personal dure un poco mas cuando prepara
 
 ### Bomba Curativa · Dote 4
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes anadir un catalizador espumoso a un elixir de vida para convertirlo en un proyectil topico. Puedes lanzar el elixir como si fuera una bomba alquimica, con los siguientes resultados.
 
@@ -159,7 +159,7 @@ Puedes anadir un catalizador espumoso a un elixir de vida para convertirlo en un
 
 ### Elixir Vigorizante · Dote 4
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes mezclar un ungueento aromatico en un elixir con el rasgo curativo para aliviar dolencias fisicas. Ademas de sus efectos normales, el elixir puede ser bebido por una criatura a la que se le impide hacerlo (como una criatura con nauseas). Ademas de sus otros efectos, el elixir intenta contrarrestar un efecto que impone una de las siguientes condiciones a eleccion del bebedor: torpe, debilitado, con nauseas o estupefacto. Usa la mitad de tu nivel redondeado hacia arriba para el rango de contrarrestar y tu CD de clase - 10 para el modificador de contrarrestar. El bebedor es entonces temporalmente inmune a los efectos de este aditivo por 10 minutos. El aditivo no puede contrarrestar maldiciones, enfermedades o condiciones que son parte del estado normal de la criatura.
 
@@ -167,7 +167,7 @@ Puedes mezclar un ungueento aromatico en un elixir con el rasgo curativo para al
 
 ### Regurgitar Mutageno · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Alquimista, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span><span class="feat-trait">Manipular</span></div>
 
 **Requisitos:** Estas bajo los efectos de un mutageno.
 
@@ -177,7 +177,7 @@ Redireccionas un mutageno dentro de tu cuerpo para escupir un chorro de acido es
 
 ### Toxinas Tenaces · Dote 4
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Tus victimas tienden a expirar mucho antes que tus venenos, ya que estos ultimos han sido formulados especificamente para durar mas. La duracion maxima de cualquier veneno que crees aumenta en una cantidad igual al intervalo de la etapa 1 del veneno, hasta un maximo del doble de la duracion maxima del veneno.
 
@@ -187,7 +187,7 @@ Tus victimas tienden a expirar mucho antes que tus venenos, ya que estos ultimos
 
 ### Combinar Elixires · Dote 6
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes anadir los ingredientes completos de un segundo elixir a un elixir que hagas para crear un brebaje hibrido. Debes gastar un vial versatil adicional para hacer este elixir combinado, y los ingredientes deben ser para un elixir que pudieras crear con Alquimia Rapida. Cuando este elixir de combinacion es consumido, ambos elixires constituyentes surten efecto. Por ejemplo, puedes combinar dos elixires de vida menores para crear un elixir combinado que cura el doble de la cantidad normal, o puedes combinar un elixir de vision en la oscuridad menor con un elixir de ojo de aguila menor para obtener vision en la oscuridad y encontrar puertas secretas.
 
@@ -195,7 +195,7 @@ Puedes anadir los ingredientes completos de un segundo elixir a un elixir que ha
 
 ### Bomba Debilitante · Dote 6
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes anadir un aditivo cristalino a una bomba alquimica para que debilite a tu enemigo. Elige deslumbrado, ensordecido, desprevenido, o una penalizacion de estado de -1,5 metros a las Velocidades. Si el ataque con la bomba golpea, ademas de los efectos normales de la bomba, el objetivo debe tener exito en una tirada de salvacion de Fortaleza o sufrir ese efecto hasta el inicio de tu siguiente turno. Usa tu CD de clase para esta tirada de salvacion, incluso si otra persona lanza la bomba.
 
@@ -203,7 +203,7 @@ Puedes anadir un aditivo cristalino a una bomba alquimica para que debilite a tu
 
 ### Bombas Direccionales · Dote 6
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Puedes lanzar bombas con gran fuerza y una trayectoria precisa para angular la salpicadura en un cono que rocia en una sola direccion, potencialmente permitiendote evitar a aliados y salpicar mas profundo en las lineas enemigas. Cuando lanzas una bomba alquimica con el rasgo salpicadura, en lugar de salpicar todas las casillas adyacentes al objetivo, puedes crear una salpicadura en un cono de 4,5 metros. Eliges la direccion del cono, pero su primera casilla debe ser una casilla en el espacio del objetivo.
 
@@ -213,7 +213,7 @@ Puedes lanzar bombas con gran fuerza y una trayectoria precisa para angular la s
 
 ### Elixires Fortificados · Dote 6
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Tus tratamientos para enfermedades y venenos pueden ser muy eficaces, aunque tienden a no durar tanto. Una criatura que esta bajo el efecto de un antidoto o antiplaga imbuido que creaste puede elegir volver a tirar una tirada de salvacion de Fortaleza fallida contra una afliccion apropiada (veneno para antidoto y enfermedad para antiplaga). La criatura no obtiene el bonificador de objeto usual del elixir a la nueva tirada, y despues de la nueva tirada, la duracion del elixir termina inmediatamente. Este es un efecto de fortuna.
 
@@ -221,7 +221,7 @@ Tus tratamientos para enfermedades y venenos pueden ser muy eficaces, aunque tie
 
 ### Veneno Pegajoso · Dote 6
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Una combinacion de viscosidad adicional y aplicacion cuidadosa mantiene tus armas envenenadas incluso cuando sufren un desgaste significativo. Si tu Golpe con un arma envenenada gastaria su veneno sin que tu objetivo intente una tirada de salvacion inicial (debido a resistencia o a que tu Golpe fue un fallo critico, por ejemplo), intenta una prueba simple de CD 5. En un exito, tu arma permanece envenenada. Si tu Golpe con un arma envenenada tiene exito, intenta una prueba simple de CD 17. En un exito, tu arma permanece envenenada hasta el final de tu siguiente turno.
 
@@ -231,7 +231,7 @@ Una combinacion de viscosidad adicional y aplicacion cuidadosa mantiene tus arma
 
 ### Alterar Mezcla · Dote 8
 
-**Rasgos:** Alquimista, Exploracion
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span><span class="feat-trait">Exploracion</span></div>
 
 **Requisitos:** Estas sosteniendo o vistiendo un juego de herramientas de alquimista.
 
@@ -241,7 +241,7 @@ A veces, necesitas adaptar tus mezclas alquimicas a nuevas situaciones. En un pr
 
 ### Elixir Vigorizante Mejorado · Dote 8
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** Elixir Vigorizante
 
@@ -253,7 +253,7 @@ Elige vigorizacion fisica o vigorizacion mental, y anade las condiciones listada
 
 ### Fisiologia Mutante · Dote 8
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Los mutagenos basicos que afectan tu forma fisica pueden sacar la bestia interior, volverte casi invencible, o hacer tu cuerpo mas elastico. Mientras estas afectado por uno de los mutagenos listados, obtienes un beneficio adicional.
 
@@ -267,7 +267,7 @@ Los mutagenos basicos que afectan tu forma fisica pueden sacar la bestia interio
 
 ### Envenenador Preciso · Dote 8
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Los objetivos desprevenidos son especialmente vulnerables a tus venenos. Cuando Golpeas exitosamente a una criatura desprevenida con un arma envenenada o expones a una criatura desprevenida a un veneno inhalado, esa criatura recibe una penalizacion de circunstancia -2 a su tirada de salvacion inicial contra ese veneno.
 
@@ -275,7 +275,7 @@ Los objetivos desprevenidos son especialmente vulnerables a tus venenos. Cuando 
 
 ### Bomba Pegajosa · Dote 8
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes mezclar un aditivo pegajoso en una bomba alquimica para hacer que su contenido se adhiera y continue causando dano. Una criatura golpeada por una bomba pegajosa tambien recibe dano persistente igual y del mismo tipo que el dano de salpicadura de la bomba. Si la bomba ya causa dano persistente, combina las dos cantidades.
 
@@ -285,7 +285,7 @@ Puedes mezclar un aditivo pegajoso en una bomba alquimica para hacer que su cont
 
 ### Alquimia Eficiente Avanzada · Dote 10
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** Alquimia Eficiente
 
@@ -295,7 +295,7 @@ Haces un lote aun mas grande de objetos alquimicos cada manana. Aumenta el numer
 
 ### Salpicadura Expandida · Dote 10
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Puedes lanzar bombas en la trayectoria correcta para crear explosiones especialmente grandes y poderosas. Cuando lanzas una bomba alquimica y esa bomba tiene el rasgo salpicadura, puedes hacer que el dano de salpicadura afecte a todas las criaturas dentro de 3 metros del objetivo en lugar de 1,5 metros. Si lo haces, obtienes un bonificador de estado al dano de salpicadura de la bomba igual a tu modificador de Inteligencia. Si tienes el descubrimiento de campo de bombardero de nivel 5, este dano adicional se aplica incluso si hiciste que tu bomba cause dano de salpicadura igual a tu modificador de Inteligencia en lugar de la cantidad normal, permitiendo que tus bombas causen dano de salpicadura igual al doble de tu modificador de Inteligencia.
 
@@ -303,7 +303,7 @@ Puedes lanzar bombas en la trayectoria correcta para crear explosiones especialm
 
 ### Bomba Debilitante Mayor · Dote 10
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** Bomba Debilitante
 
@@ -313,7 +313,7 @@ Has aprendido tecnicas mejoradas y secretos alquimicos que te permiten expandir 
 
 ### Brebaje Inestable · Dote 10
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes mezclar un liquido maravilloso pero volatil en un consumible alquimico si tiene un efecto inicial que usa dados. Aumentas el tamano de cualquier dado para el efecto inicial del objeto en un paso. Por ejemplo, podrias aumentar el dano de un fuego de alquimista moderado a 2d10 o la curacion de un elixir de vida moderado a 5d8+12. Debido a que esto afecta solo los dados iniciales, no aumentaria el dano de ataques desarmados de un mutageno bestial, el dano persistente de un frasco de acido, y similares. Cuando este objeto es activado, la criatura que lo activa debe tener exito en una prueba simple de CD 10 o recibir dano de acido igual al nivel del objeto.
 
@@ -323,7 +323,7 @@ Puedes mezclar un liquido maravilloso pero volatil en un consumible alquimico si
 
 ### Extender Elixir · Dote 12
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Integrar tu propia energia personal en los elixires que creas hace que te afecten por mas tiempo. Cuando consumes uno de tus objetos alquimicos que tiene los rasgos elixir e imbuido y una duracion de 1 minuto o mas, la duracion de ese elixir se duplica. Si creaste el objeto con Alquimia Rapida, esto no puede hacer que exceda el limite de duracion de 10 minutos.
 
@@ -331,7 +331,7 @@ Integrar tu propia energia personal en los elixires que creas hace que te afecte
 
 ### Elixir Vigorizante Supremo · Dote 12
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** Elixir Vigorizante
 
@@ -341,7 +341,7 @@ A efectos de contrarrestar efectos con elixires vigorizantes, trata tu nivel com
 
 ### Bombas Infalibles · Dote 12
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** Lanzador Lejano
 
@@ -353,7 +353,7 @@ Lanzas bombas infaliblemente, a pesar de obstrucciones o distancia. Cuando lanza
 
 ### Veneno Doble · Dote 14
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Puedes aplicar dos venenos de herida imbuidos diferentes a la misma arma, aunque no a una pieza de municion. El nivel de cada veneno debe ser 2 o mas niveles inferior a tu nivel. Tienes que aplicar los dos venenos individualmente. Una vez que has aplicado ambos, los venenos se fusionan en un veneno doble que usa la CD mas baja de los dos venenos y el numero de etapas. Este veneno doble es virulento solo si ambos venenos eran virulentos. Combina los efectos de cada etapa del veneno en cualquier criatura afectada por el. Para cada etapa del veneno, usa los efectos de ambos venenos y el intervalo mas largo para esa etapa entre los dos venenos.
 
@@ -361,7 +361,7 @@ Puedes aplicar dos venenos de herida imbuidos diferentes a la misma arma, aunque
 
 ### Inervacion Mutante · Dote 14
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Los mutagenos basicos que afectan tu mente y pensamientos pueden hacerte comunicar telepaticamente, protegerte de ser detectado, o dejarte comunicarte con cualquiera. Mientras estas afectado por uno de los mutagenos listados, obtienes un beneficio adicional.
 
@@ -375,7 +375,7 @@ Los mutagenos basicos que afectan tu mente y pensamientos pueden hacerte comunic
 
 ### Bomba Debilitante Verdadera · Dote 14
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** Bomba Debilitante Mayor
 
@@ -387,7 +387,7 @@ Has descubierto formas cada vez mas devastadoras para que tus bombas obstaculice
 
 ### Elixir Eterno · Dote 16
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** Extender Elixir
 
@@ -397,7 +397,7 @@ Tu cuerpo acepta y retiene facilmente cambios menores. Cuando bebes uno de tus o
 
 ### Bomba Explotadora · Dote 16
 
-**Rasgos:** Aditivo, Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span></div>
 
 Puedes mezclar una sustancia refractil en una bomba alquimica para frustrar resistencias. Elige un tipo de dano que la bomba pueda causar. Cualquier dano causado por la bomba—incluyendo dano inicial, de salpicadura y persistente—ignora una cantidad de esa resistencia igual a tu nivel.
 
@@ -405,7 +405,7 @@ Puedes mezclar una sustancia refractil en una bomba alquimica para frustrar resi
 
 ### Mutageno Persistente · Dote 16
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Prerrequisitos:** Extender Elixir
 
@@ -417,7 +417,7 @@ Has entrenado tu forma fisica para permanecer estable. Una vez por dia, cuando c
 
 ### Elixires Improbables · Dote 18
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Tu maestria de los secretos alquimicos te permite replicar efectos que la mayoria cree que solo se pueden lograr mediante magia. Selecciona un numero de pociones igual a tu modificador de Inteligencia (minimo 1); estas pociones deben ser de nivel 9 o inferior. Obtienes formulas para crear estas pociones como consumibles alquimicos con el rasgo elixir. Al hacer estos elixires alquimicos, puedes sustituir reactivos alquimicos por un valor igual de componentes magicos, y puedes usar un juego de herramientas de alquimista (para Alquimia Rapida) o un laboratorio de alquimista (para la actividad Elaborar) en lugar de cualquier otro juego de herramientas requerido. Aparte de eso, la formula no cambia. Una vez que hayas elegido las formulas de pociones, no pueden cambiarse.
 
@@ -425,7 +425,7 @@ Tu maestria de los secretos alquimicos te permite replicar efectos que la mayori
 
 ### Obrador de Milagros · Dote 18
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 **Frecuencia:** una vez cada 10 minutos
 
@@ -435,7 +435,7 @@ Tu maestria alquimica puede resucitar a los recien fallecidos. Puedes administra
 
 ### Debilitacion Perfecta · Dote 18
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Has perfeccionado las formulas para bombas que obstaculizan a tus enemigos. Cuando usas Bomba Debilitante, tu objetivo evita la condicion que la bomba impone solo si tiene un exito critico en su tirada de salvacion.
 
@@ -445,7 +445,7 @@ Has perfeccionado las formulas para bombas que obstaculizan a tus enemigos. Cuan
 
 ### Revivificacion Alquimica · Dote 20
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Si mueres mientras estas bajo el efecto de al menos un elixir, los compuestos alquimicos en tu torrente sanguineo te devuelven a la vida al inicio de tu siguiente turno. Eres afectado por un elixir de rejuvenecimiento (pagina 288 ([ver](/equipo/objetos/))), luego un elixir de vida verdadero, luego tu eleccion de un mutageno bestial mayor, mutageno de titan mayor, o mutageno azogue mayor como si acabaras de beberlo. Estas reacciones automaticas no obtienen ningun beneficio especial que anades al crear o usar estos objetos. Debido a que moriste, todos los demas compuestos alquimicos en tu torrente sanguineo estan inertes. Despues de ser revivido, eres temporalmente inmune a Revivificacion Alquimica por 1d4 horas.
 
@@ -453,7 +453,7 @@ Si mueres mientras estas bajo el efecto de al menos un elixir, los compuestos al
 
 ### Elaborar Piedra Filosofal · Dote 20
 
-**Rasgos:** Alquimista
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span></div>
 
 Tu investigacion ha dado sus frutos, culminando en la legendaria piedra filosofal. Aprendes la formula para la piedra filosofal (pagina 295 ([ver](/habilidades/artesania/))) y puedes anadirla a tu libro de formulas.
 
@@ -461,7 +461,7 @@ Tu investigacion ha dado sus frutos, culminando en la legendaria piedra filosofa
 
 ### Mega Bomba · Dote 20
 
-**Rasgos:** Aditivo, Alquimista, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aditivo</span><span class="feat-trait">Alquimista</span><span class="feat-trait">Manipular</span></div>
 
 Puedes anadir un aditivo altamente explosivo a una bomba alquimica para convertirla en una mega bomba. Lanzar esta bomba es una actividad de 2 acciones en lugar de un Golpe. Esto no es un Golpe, y no haces una tirada de ataque. La mega bomba explota en una explosion de 9 metros dentro de 18 metros. Causa dano como si cada criatura fuera el objetivo principal, con una tirada de salvacion de Reflejos basica. En una tirada fallida, una criatura tambien recibe cualquier efecto adicional que afecte a un objetivo principal (como desprevenido por relampago embotellado). Aunque todos los objetivos en el area reciben dano de salpicadura como objetivos principales, no hay salpicadura adicional mas alla de esa area.
 

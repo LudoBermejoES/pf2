@@ -40,7 +40,7 @@ class_name: Bárbaro
 
 ### Ira · {% include accion.html tipo="1" %}
 
-**Rasgos:** Bárbaro, Concentrar, Emoción, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emoción</span><span class="feat-trait">Mental</span></div>
 
 **Requisitos:** No estás fatigado ni en ira.
 
@@ -53,7 +53,7 @@ La Ira dura 1 minuto, hasta que quedas inconsciente o hasta que el encuentro ter
 
 ### Fogoso · {% include accion.html tipo="libre" %}
 
-**Rasgos:** Bárbaro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Bárbaro</span></div>
 
 **Desencadenante:** Tiras iniciativa.
 

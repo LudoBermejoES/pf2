@@ -19,7 +19,7 @@ En cada nivel en el que obtienes una dote de explorador, puedes seleccionar una 
 
 **Dote 1**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Requisitos:** Empuñas una ballesta con recarga 1 o mayor.
 
@@ -31,7 +31,7 @@ Tu profunda comprensión de la ballesta te permite recargarla de forma eficiente
 
 **Dote 1**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Evaluar rapidamente a tu presa y aplicas lo que sabes. Como parte de la acción utilizada para Perseguir a tu presa, puedes hacer una prueba para Recordar conocimiento acerca de la misma. Cuando obtienes un éxito critico al identificar a tu presa perseguida con Recordar conocimiento, detectas una debilidad en las defensas de la criatura ademas de cualquier otro beneficio. Los aliados a quienes se lo cuentas y tu obtenéis un bonificados +1 por circunstancia a vuestra siguiente tirada de ataque contra dicha presa. Puedes conceder bonificadores derivados de Cazador de monstruos una vez al dia contra una criatura en particular.
 
@@ -41,7 +41,7 @@ Evaluar rapidamente a tu presa y aplicas lo que sabes. Como parte de la acción 
 
 **Dote 1**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Obtienes los servicios de un compañero animal joven que viaja contigo y obedece ordenes sencillas. Cuando Persigues a una presa, tu compañero animal obtiene los beneficios de la acción y el beneficio de tu ventaja del cazador, si la tienes.
 
@@ -51,7 +51,7 @@ Obtienes los servicios de un compañero animal joven que viaja contigo y obedece
 
 **Dote 1**
 
-**Rasgos:** Explorador, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span><span class="feat-trait">Floritura</span></div>
 
 **Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
@@ -63,7 +63,7 @@ Atacas rapidamente a tu presa perseguida con ambas armas, potencialmente combina
 
 **Dote 1**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Has entrenado con una de las sectas de exploradores conocidas como guardianes, que practican un tipo especializado de magia primigenia. Obtienes un conjuro de guardian a elegir de los conjuros iniciales de guardian (u otro al que tienes acceso).
 
@@ -75,7 +75,7 @@ Has entrenado con una de las sectas de exploradores conocidas como guardianes, q
 
 **Dote 1**
 
-**Rasgos:** Explorador, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span><span class="feat-trait">Floritura</span></div>
 
 **Requisitos:** Empuñas un arma a distancia con recarga 0.
 
@@ -89,7 +89,7 @@ Haces dos disparos seguidos contra lo que persigues. Da dos Golpes contra tu pre
 
 **Dote 2**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Desenfundas el arma y atacas con ella en el mismo movimiento. Interactúas para desenfundar un arma y después Golpeas con ella.
 
@@ -99,7 +99,7 @@ Desenfundas el arma y atacas con ella en el mismo movimiento. Interactúas para 
 
 **Dote 2**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Tienes una conexión con las criaturas del mundo natural que te permite comunicarte con ellas a un nivel rudimentario. Puedes utilizar Diplomacia para Causar impresión sobre los animales y hacerles Peticiones muy simples. En la mayoría de circunstancias, los animales salvajes te concederán tiempo para exponer tus argumentos.
 
@@ -109,7 +109,7 @@ Tienes una conexión con las criaturas del mundo natural que te permite comunica
 
 **Dote 2**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Cazador de monstruos
 
@@ -121,7 +121,7 @@ Entiendes como defenderte a ti y a otros de tu presa. Cuando concedas bonificado
 
 **Dote 2**
 
-**Rasgos:** Concentrar, Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Explorador</span></div>
 
 Cuando te concentras en apuntar, tu ataque se vuelve particularmente preciso. Da un Golpe a distancia con arma contra tu presa perseguida. Para este golpe, obtienes un bonificados +2 por circunstancia a la tirada de ataque e ignoras el (posible) estado de oculto de tu presa y cualquier cobertura menor.
 
@@ -131,7 +131,7 @@ Cuando te concentras en apuntar, tu ataque se vuelve particularmente preciso. Da
 
 **Dote 2**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Has estudiado un terreno especifico para superar sus desafios. Elige entre acuático, artico, bosque, cielo, desierto, llanuras, montanas, pantano o subterráneo como terreno predilecto. Cuando estas en dicho terreno, puedes ignorar los efectos del terreno difícil no magico.
 
@@ -153,7 +153,7 @@ Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en t
 
 **Dote 4**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Desencadenante:** Estas a punto de hacer una prueba de Percepción o de Supervivencia para calcular la iniciativa.
 
@@ -165,7 +165,7 @@ Previenes visual o auditivamente a tus aliados del peligro, concediendo a cada u
 
 **Dote 4**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Tu experiencia en el campo te ha ensenado a enfocar tu punteria a distancia, incrementando tu precision. Dobla los incrementos de rango de distancia de tu arma.
 
@@ -175,7 +175,7 @@ Tu experiencia en el campo te ha ensenado a enfocar tu punteria a distancia, inc
 
 **Dote 4**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** un companero animal
 
@@ -187,7 +187,7 @@ Puedes urgir a tu compañero animal a esforzarse al máximo. Puedes invertir dos
 
 **Dote 4**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Guardian iniciado
 
@@ -201,7 +201,7 @@ Desbloqueas mas conjuros primigenios poderosos. Obtienes un conjuro de guardian 
 
 **Dote 4**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
@@ -213,7 +213,7 @@ Puedes utilizar las dos armas para desviar ataques. Obtienes un bonificados +1 p
 
 **Dote 4**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Desencadenante:** Tu presa perseguida esta a tu alcance y utiliza una acción de manipular, una acción de movimiento o abandona una casilla durante una acción de movimiento que esta utilizando.
 
@@ -225,7 +225,7 @@ Da un Golpe cuerpo a cuerpo contra tu presa perseguida. Si el ataque resulta en 
 
 **Dote 4**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Has estudiado un tipo especifico de criatura salvaje y puedes cazarla con mas facilidad. Cuando adquieres esta dote, elige entre animales, bestias, dragones u hongos y plantas (ambos) como presa predilecta.
 
@@ -239,7 +239,7 @@ Puedes usar esta acción gratuita incluso si aun no has identificado a la criatu
 
 **Dote 4**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Puedes recargar tu arma mientras te mueves. Das una Zancada, un Paso o bien usas el Sigilo, y después Interactúas para recargar.
 
@@ -251,7 +251,7 @@ Puedes recargar tu arma mientras te mueves. Das una Zancada, un Paso o bien usas
 
 **Dote 6**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Companero animal
 
@@ -265,7 +265,7 @@ Tu compañero animal tiene una independencia mayor. Durante un encuentro, inclus
 
 **Dote 6**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Has aprendido a reaccionar con armas a distancia cuando hay un enemigo a distancia corta. Puedes usar una reacción que normalmente te permite dar un Golpe con un arma cuerpo a cuerpo para en su lugar dar un Golpe con un arma a distancia. Debes estar Golpeando a un objetivo adyacente. Si es necesario para el desencadenante de la reacción, trata tu arma a distancia como si tuviera un alcance de 5 pies (1,5 m). Si la reacción tiene otros requisitos, como por ejemplo empujar un tipo de arma especifico, Disparo instantáneo no te permite ignorarlos; solo te permite reemplazar un Golpe con un arma cuerpo a cuerpo por un Golpe con un arma a distancia.
 
@@ -275,7 +275,7 @@ Has aprendido a reaccionar con armas a distancia cuando hay un enemigo a distanc
 
 **Dote 6**
 
-**Rasgos:** Explorador, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span><span class="feat-trait">Floritura</span></div>
 
 Tus pies y tu arma se mueven en tandem. Puedes, o bien dar un Paso y luego Golpear, o bien Golpear y luego dar un Paso.
 
@@ -285,7 +285,7 @@ Tus pies y tu arma se mueven en tandem. Puedes, o bien dar un Paso y luego Golpe
 
 **Dote 6**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Guardian iniciado
 
@@ -299,7 +299,7 @@ Tu dominio de la magia del guardian crece. Obtienes un conjuro de guardian a ele
 
 **Dote 6**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango experto en Supervivencia, Rastreador experto
 
@@ -313,7 +313,7 @@ Si tiras Supervivencia para calcular la iniciativa al rastrear a tu presa perseg
 
 **Dote 6**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Desencadenante:** Obtienes un éxito o un éxito critico en una prueba para Recordar conocimiento sobre tu presa perseguida.
 
@@ -327,7 +327,7 @@ Examinas rapidamente el campo de batalla, recordando detalles críticos acerca d
 
 **Dote 8**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Tienes una aptitud intuitiva para notar los riesgos. Obtienes un bonificados +1 por circunstancia a las pruebas de Percepción para buscar trampas y riesgos, a la CD contra sus ataques y a las salvaciones contra sus efectos. Puedes encontrar riesgos que normalmente requerirán que Buscaras incluso si no estas Buscando.
 
@@ -337,7 +337,7 @@ Tienes una aptitud intuitiva para notar los riesgos. Obtienes un bonificados +1 
 
 **Dote 8**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango maestro en Percepción
 
@@ -351,7 +351,7 @@ Cuando estas adyacente a una criatura no detectada de tu nivel o inferior, en su
 
 **Dote 8**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango maestro en Supervivencia, Terreno predilecto
 
@@ -363,7 +363,7 @@ Eres capaz de adaptarte a lo que te rodea en cualquier terreno natural. Puedes i
 
 **Dote 8**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Señales las vulnerabilidades presentes en tu presa perseguida, concediendo los beneficios indicados en Perseguir presa y tu ventaja del cazador a un aliado hasta el final de su siguiente turno. Dependiendo de si lo dices en voz alta o utilizas gestos, esta acción obtiene, o bien el rasgo auditivo, o bien el rasgo visual.
 
@@ -373,7 +373,7 @@ Señales las vulnerabilidades presentes en tu presa perseguida, concediendo los 
 
 **Dote 8**
 
-**Rasgos:** Explorador, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span><span class="feat-trait">Floritura</span></div>
 
 **Prerrequisitos:** especialización en armas
 
@@ -387,7 +387,7 @@ Apuntas a los puntos debiles de tu presa, haciendo que tu disparo sea mas difíc
 
 **Dote 10**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango maestro en Sigilo
 
@@ -399,7 +399,7 @@ Alteras tu apariencia para difuminarte en las tierras virgenes. En terreno natur
 
 **Dote 10**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango maestro en Naturaleza, Cazador de monstruos
 
@@ -411,7 +411,7 @@ Dispones de un conocimiento casi enciclopedico acerca de todas las criaturas del
 
 **Dote 10**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Companero animal maduro
 
@@ -423,7 +423,7 @@ Tu compañero animal continua creciendo y desarrollandose. Se convierte en un co
 
 **Dote 10**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Requisitos:** Empuñas un arma a distancia
 
@@ -435,7 +435,7 @@ Disparas atravesando a una criatura interpuesta para acertar a tu presa. Elige u
 
 **Dote 10**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Guardian iniciado
 
@@ -449,7 +449,7 @@ Tu dominio de la magia primigenia te ha concedido acceso a los mayores secretos 
 
 **Dote 10**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango maestro en Sigilo
 
@@ -461,7 +461,7 @@ Puedes guiar a tus aliados para que se muevan sigilosamente a traves de las tier
 
 **Dote 10**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Parada gemela
 
@@ -479,7 +479,7 @@ Una inteligente parada con un arma deja a tu oponente abierto a un ataque con la
 
 **Dote 12**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** un companero animal
 
@@ -491,7 +491,7 @@ Tu compañero animal y tu luchais en tandem. Siempre que tu compañero animal y 
 
 **Dote 12**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Puedes centrarte en dos enemigos a la vez, persiguiendo a ambos. Cuando utilizas la acción Perseguir presa, puedes elegir como presa a dos criaturas.
 
@@ -501,7 +501,7 @@ Puedes centrarte en dos enemigos a la vez, persiguiendo a ambos. Cuando utilizas
 
 **Dote 12**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** conjuros de guardian
 
@@ -513,7 +513,7 @@ Tu conexión con lo que te rodea se hace mas profunda y se expande, lo que te pe
 
 **Dote 12**
 
-**Rasgos:** Aprovechar, Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Aprovechar</span><span class="feat-trait">Explorador</span></div>
 
 **Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
@@ -527,7 +527,7 @@ Lees los movimientos de tu presa y los transformas en aberturas, por lo que los 
 
 **Dote 12**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 El mero poder de tus ataques o el numero abrumador de ellos, pone nervioso a un enemigo. Si obtienes un impacto critico contra tu presa perseguida con un arma a distancia, u obtienes por lo menos dos impactos en el mismo turno con un arma a distancia, queda desprevenida hasta el inicio de tu siguiente turno.
 
@@ -539,7 +539,7 @@ El mero poder de tus ataques o el numero abrumador de ellos, pone nervioso a un 
 
 **Dote 14**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Companero animal, Camuflaje
 
@@ -551,7 +551,7 @@ Has entrenado a tu compañero animal para que se confunda con lo que le rodea. T
 
 **Dote 14**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 Transmites la ubicación de tu presa a tus aliados mediante una serie de palabras o de gestos cuidadosos. Mientras tu presa perseguida este siendo observada por ti, todos tus aliados que sufran fallos y fallos críticos cuando la Buscan obtendrán en su lugar éxitos. Tus aliados tienen que ser capaces de verte o de oírte para obtener este beneficio. Tienes que ser capaz de gritar o de hacer gestos visibles para que tus aliados obtengan este beneficio.
 
@@ -561,7 +561,7 @@ Transmites la ubicación de tu presa a tus aliados mediante una serie de palabra
 
 **Dote 14**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Doble presa, Merced del guardian
 
@@ -573,7 +573,7 @@ Cazando como un duo, tu aliado y tu individualizais a vuestra presa. Cuando util
 
 **Dote 14**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Desencadenante:** Fallas una prueba de Buscar.
 
@@ -587,7 +587,7 @@ Cuando buscas enemigos, puedes hacerte incluso con las pistas mas nimias, como p
 
 **Dote 16**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango legendario en Naturaleza, Cazador de monstruos maestro
 
@@ -599,7 +599,7 @@ Tu conocimiento de los monstruos es tan sensacional que revela fallos garrafales
 
 **Dote 16**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Companero sensacional
 
@@ -613,7 +613,7 @@ Tu compañero animal continua creciendo en poder y aptitudes, y ahora es lo sufi
 
 **Dote 16**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Frecuencia:** una vez por asalto
 
@@ -627,7 +627,7 @@ Tu dominio de la magia y de las armas como la ballesta te permite empujar ambas 
 
 **Dote 16**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Replica gemela
 
@@ -639,7 +639,7 @@ Al inicio de cada uno de tus turnos, obtienes una reacción adicional que puedes
 
 **Dote 16**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Tiro de distracción
 
@@ -653,7 +653,7 @@ Incluso un solo proyectil puede desequilibrar a tu enemigo, y ataques mas podero
 
 **Dote 18**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Camuflaje
 
@@ -665,7 +665,7 @@ Te fundes con lo que te rodea de tal forma que los demás tienen problemas para 
 
 **Dote 18**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** cazador maestro, Companero animal
 
@@ -677,7 +677,7 @@ Tu compañero animal comparte tus sensacionales habilidades para la caza, lo que
 
 **Dote 18**
 
-**Rasgos:** Explorador, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span><span class="feat-trait">Floritura</span></div>
 
 **Requisitos:** Empuñas un arma a distancia cargada que tiene recarga 1 o mas y que no has recargado desde tu ultimo turno.
 
@@ -689,7 +689,7 @@ Después de contemplar los movimientos del combate con una intensidad y una prec
 
 **Dote 18**
 
-**Rasgos:** Explorador, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span><span class="feat-trait">Floritura</span></div>
 
 **Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
@@ -701,7 +701,7 @@ Dejas a un lado la precision para atacar con una velocidad imposible. Da 3 Golpe
 
 **Dote 18**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** ventaja del cazador, cazador maestro
 
@@ -713,7 +713,7 @@ Has aprendido a utilizar cualquier ventaja posible. Cuando utilizas Perseguir pr
 
 **Dote 18**
 
-**Rasgos:** Explorador, Floritura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span><span class="feat-trait">Floritura</span></div>
 
 **Requisitos:** Empuñas un arma a distancia con el rasgo volea y recarga 0.
 
@@ -729,7 +729,7 @@ Cada ataque cuenta para tu penalizador por ataque multiple, pero no incrementas 
 
 **Dote 20**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango legendario en Supervivencia
 
@@ -743,7 +743,7 @@ Tienes que tener el rango legendario en Naturaleza para rastrear la posición de
 
 **Dote 20**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** viaje sin trabas
 
@@ -755,7 +755,7 @@ Tienes tanta habilidad en orientarte por las tierras virgenes, que tu movimiento
 
 **Dote 20**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** rango legendario en Percepción, Disparo a larga distancia
 
@@ -767,7 +767,7 @@ Te centras en tu presa perseguida, percibiendo los angulos, la resistencia del a
 
 **Dote 20**
 
-**Rasgos:** Explorador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Explorador</span></div>
 
 **Prerrequisitos:** Presa compartida
 

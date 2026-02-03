@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 6; **Precio** 225 mo
 
-**Rasgos:** Invertir, Mágico, Evocación, Luz
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Evocación</span><span class="feat-trait">Luz</span></div>
 
 **Uso:** sostenida en 1 mano; **Impedimenta** L
 

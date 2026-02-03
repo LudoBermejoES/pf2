@@ -10,7 +10,7 @@ parent: Bagajes
 
 **Bagaje**
 
-**Rasgos:** Raro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span></div>
 
 Eres víctima de una maldición personal o hereditaria. Mediante gran esfuerzo y estudio oculto, has aprendido a protegerte de los peores efectos de la maldición y, por extensión, a resguardarte de otras magias dañinas. Sin embargo, la maldición aún pesa sobre ti y a veces se manifiesta de formas peligrosas.
 
@@ -20,7 +20,7 @@ Estás entrenado en **[Ocultismo]({{ '/habilidades/ocultismo/' | relative_url }}
 
 ### Signo protector · {% include accion.html tipo="libre" %}
 
-**Rasgos:** Concentrar
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span></div>
 
 **Frecuencia:** una vez por minuto
 

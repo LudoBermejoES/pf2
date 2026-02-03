@@ -17,7 +17,7 @@ A nivel 1, obtienes una dote de ascendencia, y obtienes una dote de ascendencia 
 
 ### Encogerse · Dote 1 · {% include accion.html tipo="libre" %}
 
-**Rasgos:** Emoción, Kobold, Mental, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Emoción</span><span class="feat-trait">Kobold</span><span class="feat-trait">Mental</span><span class="feat-trait">Visual</span></div>
 
 **Desencadenante:** Una criatura de la que eres consciente obtiene éxito crítico con un Golpe contra ti y te infligiría daño.
 
@@ -27,7 +27,7 @@ Con una postura lastimosa, haces que tu enemigo retire un ataque mortal. La cria
 
 ### Presencia dracónica · Dote 1
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisito:** herencia kobold de escamas dracónicas
 
@@ -39,7 +39,7 @@ Además, cuando intentas Desmoralizar a un enemigo de tu nivel o inferior, obtie
 
 ### Saber kobold · Dote 1
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 Has aprendido con atención estrategias clave de supervivencia kobold de tus mayores. Obtienes el rango de competencia entrenado en Sigilo y Latrocinio. Si te volvieras entrenado automáticamente en una de esas habilidades (por tu bagaje o clase, por ejemplo), en su lugar te vuelves entrenado en una habilidad a tu elección.
 
@@ -49,7 +49,7 @@ También obtienes la dote general Saber adicional para Saber kobold.
 
 ### Familiaridad con armas kobold · Dote 1
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 Obtienes acceso a todas las armas poco comunes con el rasgo kobold. Tienes familiaridad con las armas con el rasgo kobold además de la gran pica, pica ligera y pica—para propósitos de competencia, tratas cualquiera de estas que sean armas marciales como armas simples y cualquiera que sean armas avanzadas como armas marciales.
 
@@ -59,7 +59,7 @@ A nivel 5, siempre que obtienes un golpe crítico con una de estas armas, obtien
 
 ### Corretear · Dote 1 · {% include accion.html tipo="1" %}
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisitos:** Estás adyacente a al menos un enemigo.
 
@@ -69,7 +69,7 @@ Avanzas hasta tu Velocidad, con un bonificador de estatus +5 pies a tu Velocidad
 
 ### Colocador de lazos · Dote 1
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisitos:** entrenado en Elaboración
 
@@ -81,7 +81,7 @@ Dominas el arte kobold de fabricar trampas. Obtienes la competencia entrenado en
 
 ### Amparo de aliado · Dote 5 · {% include accion.html tipo="libre" %}
 
-**Rasgos:** Fortuna, Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Fortuna</span><span class="feat-trait">Kobold</span></div>
 
 **Frecuencia:** una vez por día
 
@@ -93,7 +93,7 @@ Sigues el ejemplo de tus aliados. Tira la salvación usando el modificador de un
 
 ### Humillarse · Dote 5 · {% include accion.html tipo="1" %}
 
-**Rasgos:** Auditivo, Concentración, Emoción, Kobold, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentración</span><span class="feat-trait">Emoción</span><span class="feat-trait">Kobold</span><span class="feat-trait">Mental</span></div>
 
 **Requisitos:** entrenado en Engaño
 
@@ -103,7 +103,7 @@ Convences a tu enemigo de que eres menos peligroso. Intentas Engañar a una cria
 
 ### Genio de lazos · Dote 5
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisitos:** experto en Elaboración, Elaboración de lazos
 
@@ -115,7 +115,7 @@ Cuando una criatura falla críticamente su tirada de salvación contra y sufre d
 
 ### Alitas · Dote 5
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 Por la influencia persistente del patrón de tu madriguera, te han brotado un pequeño par de alas. Aunque no son aptas para un vuelo completo, estas débiles alas pueden ayudarte a saltar más lejos con un pequeño aleteo. Cuando Saltas horizontalmente, te mueves 5 pies adicionales. Esta distancia adicional no es acumulativa con el aumento de distancia al Saltar de la dote Salto potente. Además, cuando intentas un Salto largo, puedes saltar una distancia hasta 10 pies mayor de la que saltarías normalmente según el resultado de tu prueba de Atletismo, aunque aún no puedes saltar más allá de tu Velocidad. No fallas automáticamente tus pruebas para Salto alto o Salto largo si no Avanzas al menos 10 pies primero.
 
@@ -125,7 +125,7 @@ Por la influencia persistente del patrón de tu madriguera, te han brotado un pe
 
 ### Entre las escamas · Dote 9
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 Has aprendido a aprovechar las fisuras en las defensas de tus enemigos. Cuando Golpeas a una criatura desprevenida usando un arma cuerpo a cuerpo o ataque desarmado que tenga los rasgos ágil y delicadeza, gana el rasgo apuñalador.
 
@@ -133,7 +133,7 @@ Has aprendido a aprovechar las fisuras en las defensas de tus enemigos. Cuando G
 
 ### Luchador de zarzas · Dote 9
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 Cuando estás en terreno difícil por un rasgo ambiental, puedes Poner a Cubierto, incluso si el rasgo no sería normalmente lo bastante grande como para Poner a Cubierto.
 
@@ -141,7 +141,7 @@ Cuando estás en terreno difícil por un rasgo ambiental, puedes Poner a Cubiert
 
 ### Distancias cortas · Dote 9
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 Si eres Pequeño o menor, puedes terminar tu movimiento en el mismo espacio que un aliado Pequeño o menor. No más de dos criaturas pueden compartir el mismo espacio al usar esta habilidad o una similar.
 
@@ -149,7 +149,7 @@ Si eres Pequeño o menor, puedes terminar tu movimiento en el mismo espacio que 
 
 ### Cuernoconjuro evolucionado · Dote 9
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisitos:** herencia kobold cuernoconjuro
 
@@ -159,7 +159,7 @@ Tu poder arcano innato crece. Elige un conjuro arcano común de rango 1 y uno co
 
 ### Grito de huida · Dote 9 · {% include accion.html tipo="2" %}
 
-**Rasgos:** Auditivo, Kobold, Sónico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Kobold</span><span class="feat-trait">Sónico</span></div>
 
 **Frecuencia:** una vez por hora
 
@@ -171,7 +171,7 @@ A nivel 11 y cada 2 niveles a partir de entonces, el daño aumenta en 1d6.
 
 ### Vuelo con alitas · Dote 9 · {% include accion.html tipo="1" %}
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisitos:** Alitas
 
@@ -185,7 +185,7 @@ El uso intenso y el ejercicio han hecho tus alitas más poderosas. Vuelas. Si no
 
 ### Cuernoconjuro resplandeciente · Dote 13
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisitos:** Cuernoconjuro evolucionado
 
@@ -195,7 +195,7 @@ Tu magia sigue floreciendo. Elige un conjuro arcano común de rango 3 y uno com�
 
 ### Desvío rodante · Dote 13 · {% include accion.html tipo="1" %}
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisitos:** experto en Acrobacias y Engaño
 
@@ -205,7 +205,7 @@ Intenta Rodar a través del espacio de un oponente. Si tienes éxito o éxito cr
 
 ### Lazos viciosos · Dote 13
 
-**Rasgos:** Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Kobold</span></div>
 
 **Requisitos:** experto en Elaboración, Elaboración de lazos
 
@@ -217,7 +217,7 @@ Infliges 1d6 de daño de precisión adicional con los lazos de daño que fabrica
 
 ### Majestad del benefactor · Dote 17 · {% include accion.html tipo="1" %}
 
-**Rasgos:** Sanación, Kobold, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Sanación</span><span class="feat-trait">Kobold</span><span class="feat-trait">Visual</span></div>
 
 **Frecuencia:** una vez por día
 

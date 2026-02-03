@@ -15,7 +15,7 @@ Eres una personalidad especial... y lo sabes. No solo te sientes cómodo bajo lo
 
 ### Dedicación de Celebridad · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 Cuantas más personas te miran, más contento estás, y aprovechas cada oportunidad para dejar mal a otros cuando sus interpretaciones son menos que perfectas. Obtienes la reacción Robar la escena. Además, cuando Ganas ingresos, si el nivel de la tarea es superior a tu nivel, obtienes un bonificador circunstancial +1 a tu prueba para Ganar ingresos.
 
@@ -27,7 +27,7 @@ Cuantas más personas te miran, más contento estás, y aprovechas cada oportuni
 
 ### Incansable · {% include accion.html tipo="libre" %} · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Celebridad
 
@@ -39,7 +39,7 @@ Mientras tengas audiencia, puedes seguir interpretando incluso al borde del cola
 
 ### Mirada hipnótica · {% include accion.html tipo="2" %} · Dote 6
 
-**Rasgos:** Arquetipo, Concentrar, Emoción, Mental, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emoción</span><span class="feat-trait">Mental</span><span class="feat-trait">Visual</span></div>
 
 **Prerrequisitos:** Dedicación de Celebridad
 
@@ -47,7 +47,7 @@ Cuando te cruzas con la mirada de alguien, le resulta imposible apartarla de ti.
 
 ### Ordenar atención · {% include accion.html tipo="1" %} · Dote 10
 
-**Rasgos:** Arquetipo, Auditivo, Aura, Concentrar, Emoción, Mental, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Auditivo</span><span class="feat-trait">Aura</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emoción</span><span class="feat-trait">Mental</span><span class="feat-trait">Visual</span></div>
 
 **Prerrequisitos:** Dedicación de Celebridad
 

@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Tiempo Libre]
 ---
 
-**Rasgos:** Tiempo Libre
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
 
 Utilizas tus habilidades para ganarte la vida trabajando.
 

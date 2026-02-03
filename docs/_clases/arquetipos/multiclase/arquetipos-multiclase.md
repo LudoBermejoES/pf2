@@ -21,7 +21,7 @@ Disfrutas trasteando con fórmulas y sustancias alquímicas en tu tiempo libre, 
 
 ### Dedicación de Alquimista · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Multiclase</span></div>
 
 **Requisitos:** Inteligencia +2
 
@@ -31,7 +31,7 @@ Obtienes los beneficios de Alquimia rápida, creando hasta 4 viales versátiles 
 
 ### Alquimia avanzada · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Alquimista
 
@@ -39,7 +39,7 @@ Obtienes los beneficios de Alquimia avanzada, y puedes crear 4 consumibles alqu�
 
 ### Preparado básico · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Alquimista
 
@@ -47,7 +47,7 @@ Obtienes una dote de alquimista de nivel 1 o 2.
 
 ### Preparado avanzado · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Preparado básico
 
@@ -57,7 +57,7 @@ Obtienes una dote de alquimista. A efectos de cumplir sus requisitos, tu nivel d
 
 ### Viales abundantes · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Alquimista, experto en Artesanía
 
@@ -67,7 +67,7 @@ Tu número de viales versátiles por día aumenta a 5.
 
 ### Potencia alquímica · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Alquimista, maestro en Artesanía
 
@@ -81,7 +81,7 @@ Hay una furia profunda dentro de ti que a veces se desata, otorgándote parte de
 
 ### Dedicación de Bárbaro · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Multiclase</span></div>
 
 **Requisitos:** Fuerza +2, Constitución +2
 
@@ -93,7 +93,7 @@ Elige un instinto como lo harías si fueras un bárbaro. Tienes ese instinto a t
 
 ### Robustez bárbara · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Bárbaro, clase que conceda no más Puntos de Golpe por nivel que 10 + tu modificador de Constitución
 
@@ -101,7 +101,7 @@ Obtienes 3 Puntos de Golpe adicionales por cada dote de clase de arquetipo de b�
 
 ### Furia básica · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Bárbaro
 
@@ -109,7 +109,7 @@ Obtienes una dote de bárbaro de nivel 1 o 2.
 
 ### Furia avanzada · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Furia básica
 
@@ -119,7 +119,7 @@ Obtienes una dote de bárbaro. A efectos de cumplir sus requisitos, tu nivel de 
 
 ### Habilidad de instinto · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Bárbaro
 
@@ -127,7 +127,7 @@ Tu furia aviva la chispa de tu instinto bárbaro hasta convertirla en una llama 
 
 ### Fortaleza de gigante · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Bárbaro, experto en salvaciones de Fortaleza
 
@@ -141,7 +141,7 @@ Has jurado un solemne juramento a tu deidad, que te ha concedido poderes de camp
 
 ### Dedicación de Campeón · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Multiclase</span></div>
 
 **Requisitos:** Fuerza +2, Carisma +2
 
@@ -153,7 +153,7 @@ Pasas a estar entrenado en armadura ligera y armadura media. Si ya estabas entre
 
 ### Devoción básica · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Campeón
 
@@ -161,7 +161,7 @@ Obtienes una dote de campeón de nivel 1 o 2.
 
 ### Robustez de campeón · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Campeón, clase que conceda no más Puntos de Golpe por nivel que 8 + tu modificador de Constitución
 
@@ -169,7 +169,7 @@ Obtienes 3 Puntos de Golpe adicionales por cada dote de clase de arquetipo de ca
 
 ### Magia devota · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Campeón
 
@@ -177,7 +177,7 @@ Obtienes un conjuro de devoción a tu elección de los listados en la caracterí
 
 ### Devoción avanzada · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Devoción básica
 
@@ -187,7 +187,7 @@ Obtienes una dote de campeón. A efectos de cumplir sus requisitos, tu nivel de 
 
 ### Reacción de campeón · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Campeón
 
@@ -195,7 +195,7 @@ Puedes obtener y usar la reacción de campeón asociada a tu causa.
 
 ### Bendición del devoto · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Campeón
 
@@ -209,7 +209,7 @@ Has desarrollado un agudo ojo para investigar misterios.
 
 ### Dedicación de Investigador · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Multiclase</span></div>
 
 **Requisitos:** Inteligencia +2
 
@@ -217,7 +217,7 @@ Obtienes la característica de clase Sobre el caso, que te concede tanto la acti
 
 ### Deducción básica · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Investigador
 
@@ -225,7 +225,7 @@ Obtienes una dote de investigador de nivel 1 o 2 a tu elección.
 
 ### Estratagema del investigador · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Investigador
 
@@ -233,7 +233,7 @@ Representas mentalmente los combates, lo que te permite golpear en el momento op
 
 ### Deducción avanzada · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Deducción básica
 
@@ -243,7 +243,7 @@ Obtienes una dote de investigador. A efectos de cumplir sus requisitos, tu nivel
 
 ### Recuerdo agudo · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Investigador
 
@@ -251,7 +251,7 @@ Puedes recordar todo tipo de información. Obtienes la característica de clase 
 
 ### Maestría en habilidades · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Investigador, entrenado en al menos una habilidad y experto en al menos una habilidad
 
@@ -261,7 +261,7 @@ Incrementa tu rango de competencia en una de tus habilidades de experto a maestr
 
 ### Observador maestro · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Investigador, experto en Percepción
 
@@ -275,7 +275,7 @@ El entrenamiento monástico te ha enseñado artes marciales y te ha permitido pe
 
 ### Dedicación de Monje · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Multiclase</span></div>
 
 **Requisitos:** Fuerza +2, Destreza +2
 
@@ -283,7 +283,7 @@ Pasas a estar entrenado en ataques desarmados y obtienes la característica de c
 
 ### Kata básico · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Monje
 
@@ -291,7 +291,7 @@ Obtienes una dote de monje de nivel 1 o 2.
 
 ### Robustez de monje · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Monje, clase que conceda no más Puntos de Golpe por nivel que 8 + tu modificador de Constitución
 
@@ -299,7 +299,7 @@ Obtienes 3 Puntos de Golpe adicionales por cada dote de clase de arquetipo de mo
 
 ### Kata avanzado · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Kata básico
 
@@ -309,7 +309,7 @@ Obtienes una dote de monje. A efectos de cumplir sus requisitos, tu nivel de mon
 
 ### Movimientos de monje · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Monje
 
@@ -317,7 +317,7 @@ Obtienes una bonificación de estado +3 m a tu Velocidad cuando no llevas armadu
 
 ### Ráfaga del monje · Dote 10
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Monje
 
@@ -325,7 +325,7 @@ Obtienes la acción Ráfaga de golpes. No obstante, el poder de tus puños exced
 
 ### Camino de la perfección · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Monje, experto en al menos una tirada de salvación
 
@@ -339,7 +339,7 @@ Una fuerza misteriosa te ha otorgado magia divina y una maldición.
 
 ### Dedicación de Oráculo · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Multiclase</span></div>
 
 **Requisitos:** Carisma +2
 
@@ -349,7 +349,7 @@ Lanzas conjuros como un oráculo y obtienes la actividad Lanzar conjuro. Obtiene
 
 ### Misterios básicos · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Oráculo
 
@@ -357,7 +357,7 @@ Obtienes una dote de oráculo de nivel 1 o 2 a tu elección.
 
 ### Lanzamiento básico de Oráculo · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Oráculo
 
@@ -365,7 +365,7 @@ Obtienes los beneficios de lanzamiento básico. Cuando obtienes un espacio de co
 
 ### Primera revelación · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Oráculo
 
@@ -373,7 +373,7 @@ Obtienes el conjuro de revelación inicial de tu misterio. Si no tienes uno, obt
 
 ### Misterios avanzados · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Misterios básicos
 
@@ -383,7 +383,7 @@ Obtienes una dote de oráculo. Para cumplir sus requisitos, tu nivel de oráculo
 
 ### Amplitud misteriosa · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Lanzamiento básico de Oráculo
 
@@ -391,7 +391,7 @@ Incrementa en 1 los espacios de conjuro que obtienes de las dotes de arquetipo d
 
 ### Lanzamiento experto de Oráculo · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Lanzamiento básico de Oráculo, maestro en Religión
 
@@ -399,7 +399,7 @@ Obtienes los beneficios de lanzamiento experto.
 
 ### Lanzamiento maestro de Oráculo · Dote 18
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Lanzamiento experto de Oráculo, legendario en Religión
 
@@ -413,7 +413,7 @@ Convences al poder mágico de tu sangre para que se manifieste, accediendo a mag
 
 ### Dedicación de Hechicero · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Multiclase</span></div>
 
 **Requisitos:** Carisma +2
 
@@ -423,7 +423,7 @@ Lanzas conjuros como un hechicero. Obtienes acceso a la actividad Lanzar conjuro
 
 ### Lanzamiento básico de Hechicero · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Hechicero
 
@@ -431,7 +431,7 @@ Obtienes los beneficios de lanzamiento básico. Cada vez que obtienes un espacio
 
 ### Potencia de sangre básica · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Hechicero
 
@@ -439,7 +439,7 @@ Obtienes una dote de hechicero de nivel 1 o 2.
 
 ### Conjuro de linaje básico · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Hechicero
 
@@ -447,7 +447,7 @@ Obtienes el conjuro de linaje inicial de tu linaje. Si aún no tienes uno, tambi
 
 ### Potencia de sangre avanzada · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Potencia de sangre básica
 
@@ -457,7 +457,7 @@ Obtienes una dote de hechicero. A efectos de requisitos, tu nivel de hechicero e
 
 ### Amplitud de linaje · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Lanzamiento básico de Hechicero
 
@@ -465,7 +465,7 @@ Tu repertorio se amplía y puedes lanzar más conjuros de la tradición de tu li
 
 ### Lanzamiento experto de Hechicero · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Lanzamiento básico de Hechicero; maestro en Arcanos, Naturaleza, Ocultismo o Religión, según el linaje
 
@@ -473,7 +473,7 @@ Obtienes los beneficios de lanzamiento experto.
 
 ### Lanzamiento maestro de Hechicero · Dote 18
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Lanzamiento experto de Hechicero; legendario en Arcanos, Naturaleza, Ocultismo o Religión, según el linaje
 
@@ -487,7 +487,7 @@ Combates con estilo y gracia, añadiendo trucos de espadachín a tu repertorio d
 
 ### Dedicación de Espadachín · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Multiclase</span></div>
 
 **Requisitos:** Carisma +2, Destreza +2
 
@@ -495,7 +495,7 @@ Elige un estilo de espadachín. Obtienes la característica de clase desparpajo,
 
 ### Estilo básico · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Espadachín
 
@@ -503,7 +503,7 @@ Obtienes una dote de espadachín de nivel 1 o 2 a tu elección.
 
 ### Precisión de remate · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Espadachín
 
@@ -511,13 +511,13 @@ Has aprendido a asestar golpes atrevidos cuando tienes desparpajo. Obtienes la c
 
 **Remate básico · {% include accion.html tipo="1" %}**
 
-**Rasgos:** Remate, Espadachín
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Remate</span><span class="feat-trait">Espadachín</span></div>
 
 Realizas un ataque elegante y mortal. Intenta un Golpe; si impactas y tu arma cumple los requisitos de golpe preciso, infliges el 1d6 completo de daño de golpe preciso.
 
 ### Estilo avanzado · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Estilo básico
 
@@ -527,7 +527,7 @@ Obtienes una dote de espadachín. A efectos de cumplir sus requisitos, tu nivel 
 
 ### Riposte de espadachín · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Espadachín
 
@@ -535,7 +535,7 @@ Has aprendido a contragolpear contra ataques mal concebidos. Obtienes la reacci�
 
 ### Velocidad del espadachín · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Espadachín
 
@@ -543,7 +543,7 @@ Te mueves con la velocidad y gracia de un espadachín. Obtienes una bonificació
 
 ### Evasividad · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Requisitos:** Dedicación de Espadachín, experto en salvaciones de Reflejos
 

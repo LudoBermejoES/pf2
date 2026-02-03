@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Tiempo Libre]
 ---
 
-**Rasgos:** Tiempo Libre
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
 
 Si estás en un lugar provisto de tiendas que compran o venden objetos, puedes comerciar durante tu tiempo libre.
 

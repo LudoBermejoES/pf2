@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Exploración, Curación, Manipular]
 ---
 
-**Rasgos:** Exploración, Curación, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploración</span><span class="feat-trait">Curación</span><span class="feat-trait">Manipular</span></div>
 
 Usas la [Medicina]({{ '/habilidades/medicina/' | relative_url }}) para tratar las heridas de una criatura viva.
 

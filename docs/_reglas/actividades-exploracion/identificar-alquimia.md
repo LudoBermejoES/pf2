@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración, Secreto]
 ---
 
-**Rasgos:** Concentrar, Exploración, Secreto
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
 
 Utilizas la [Artesanía]({{ '/habilidades/artesania/' | relative_url }}) y material de alquimista para identificar una sustancia alquímica.
 

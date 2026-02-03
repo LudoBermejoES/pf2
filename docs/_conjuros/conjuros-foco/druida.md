@@ -15,7 +15,7 @@ Las ordenes druídicas incluyen la Orden Animal (conexión con las criaturas sal
 ---
 
 ## Convocatoria Primigenia {% include accion.html tipo="libre" %} FOCO 6
-**Rasgos:** Poco comun, Concentrar, Druida, Foco
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Druida</span><span class="feat-trait">Foco</span></div>
 
 Potencias a una criatura convocada con el poder de los elementos. Si tu siguiente acción es lanzar convocar animal o convocar planta u hongo, elige entre agua, aire, fuego, madera, metal o tierra; la criatura que convocas obtiene las aptitudes correspondientes.
 
@@ -31,7 +31,7 @@ Potencias a una criatura convocada con el poder de los elementos. Si tu siguient
 ## Orden Animal
 
 ### Curar Animal {% include accion.html tipo="1" %} a {% include accion.html tipo="2" %} FOCO 1
-**Rasgos:** Poco comun, Druida, Foco, Curacion, Manipular, Vitalidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Druida</span><span class="feat-trait">Foco</span><span class="feat-trait">Curacion</span><span class="feat-trait">Manipular</span><span class="feat-trait">Vitalidad</span></div>
 **Rango:** toque o 30 pies (9 m), ver texto
 **Objetivos:** 1 animal vivo voluntario
 
@@ -47,7 +47,7 @@ Curas las heridas de un animal, restableciendo al objetivo 1d8 Puntos de Golpe. 
 ## Orden de la Hoja
 
 ### Brezal Empalador {% include accion.html tipo="3" %} FOCO 8
-**Rasgos:** Poco comun, Concentrar, Druida, Foco, Madera, Manipular, Planta
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Druida</span><span class="feat-trait">Foco</span><span class="feat-trait">Madera</span><span class="feat-trait">Manipular</span><span class="feat-trait">Planta</span></div>
 **Area:** el terreno en el interior de una emanacion de 100 pies (30 m)
 **Duracion:** mantenido hasta 1 minuto
 
@@ -62,7 +62,7 @@ Ademas, una vez por asalto puedes ordenar a los brezos que empalen a cualquier o
 ---
 
 ### Cornucopia {% include accion.html tipo="2" %} FOCO 1
-**Rasgos:** Poco comun, Concentrar, Druida, Foco, Curacion, Manipular, Planta, Vitalidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Druida</span><span class="feat-trait">Foco</span><span class="feat-trait">Curacion</span><span class="feat-trait">Manipular</span><span class="feat-trait">Planta</span><span class="feat-trait">Vitalidad</span></div>
 **Duracion:** 10 minutos
 
 Unos zarcillos se enredan en forma de cuerno de mimbre en tus manos, y de allí surge un solo fruto, nuez o pequeno producto similar. Una criatura que consume el producto mediante una acción de Interactuar recupera 1d6+4 PG. La cornucopia, así como cualquier pieza no consumida de fruta, se marchita al final de la duración del conjuro.
@@ -74,7 +74,7 @@ Unos zarcillos se enredan en forma de cuerno de mimbre en tus manos, y de allí 
 ## Orden de la Tormenta
 
 ### Oleada de Tempestad {% include accion.html tipo="2" %} FOCO 1
-**Rasgos:** Poco comun, Aire, Concentrar, Druida, Electricidad, Foco, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Aire</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Druida</span><span class="feat-trait">Electricidad</span><span class="feat-trait">Foco</span><span class="feat-trait">Manipular</span></div>
 **Rango:** 30 pies (9 m)
 **Objetivos:** 1 criatura
 **Defensa:** Reflejos basica
@@ -86,7 +86,7 @@ Rodeas a un enemigo con una tormenta giratoria de vientos violentos, nubes agita
 ---
 
 ### Vuelo del Viento de la Tormenta {% include accion.html tipo="2" %} FOCO 4
-**Rasgos:** Poco comun, Aire, Concentrar, Druida, Foco, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Aire</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Druida</span><span class="feat-trait">Foco</span><span class="feat-trait">Manipular</span></div>
 **Duracion:** 1 minuto
 
 Potentes vientos te llevan por los aires, otorgándote una Velocidad de vuelo igual a tu Velocidad. Cuando termina la duración de este conjuro, si aun estas volando, flotas hasta el suelo como en aterrizaje suave.
@@ -96,7 +96,7 @@ Potentes vientos te llevan por los aires, otorgándote una Velocidad de vuelo ig
 ---
 
 ### Señor de la Tormenta {% include accion.html tipo="2" %} FOCO 9
-**Rasgos:** Poco comun, Aire, Concentrar, Druida, Electricidad, Foco, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Aire</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Druida</span><span class="feat-trait">Electricidad</span><span class="feat-trait">Foco</span><span class="feat-trait">Manipular</span></div>
 **Requisitos:** Estas en el exterior y en la superficie.
 **Area:** emanacion de 100 pies (30 m), que te incluye a ti
 **Duracion:** mantenido hasta 1 minuto
@@ -115,7 +115,7 @@ Ademas, una vez por asalto puedes utilizar una sola acción, que tiene los rasgo
 ## Orden Indomita
 
 ### Forma Indomita {% include accion.html tipo="2" %} FOCO 1
-**Rasgos:** Poco comun, Concentrar, Druida, Foco, Manipular, Polimorfia
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Druida</span><span class="feat-trait">Foco</span><span class="feat-trait">Manipular</span><span class="feat-trait">Polimorfia</span></div>
 **Duracion:** variable
 
 Buscas en tu interior una parte diferente de ti mismo y la dejas en libertad, transformando tu cuerpo en otra forma. Te polimorfas en cualquier forma indicada en forma de peste, que dura 10 minutos. Todas las demás formas de forma indomita duran 1 minuto. Puedes añadir mas formas a tu lista de forma indomita mediante dotes de druida; la dote te podría conceder alguna o todas las formas de un conjuro de polimorfia determinado. Cuando te transformas en una forma concedida por un conjuro, obtienes todos los efectos de la forma elegida de una version del conjuro potenciada al rango de forma indomita. Forma indomita te permite utilizar tu propio entrenamiento como cambiaformas mas facilmente que la mayor parte de conjuros de polimorfia. Cuando eliges utilizar tu propio modificador al ataque mientras estas polimorfado en lugar del modificador al ataque por defecto de la forma, obtienes un bonificados +2 por estatus a tus tiradas de ataque.
@@ -125,7 +125,7 @@ Buscas en tu interior una parte diferente de ti mismo y la dejas en libertad, tr
 ---
 
 ### Cambio Indomito {% include accion.html tipo="1" %} a {% include accion.html tipo="2" %} FOCO 1
-**Rasgos:** Poco comun, Concentrar, Druida, Foco, Manipular, Polimorfia
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Druida</span><span class="feat-trait">Foco</span><span class="feat-trait">Manipular</span><span class="feat-trait">Polimorfia</span></div>
 **Duracion:** 1 minuto
 
 Solo transformas una parte de tu cuerpo. Elige cualquier efecto que encaje con una dote de la orden indomita de que dispongas.

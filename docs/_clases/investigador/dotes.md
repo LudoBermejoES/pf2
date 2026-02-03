@@ -19,7 +19,7 @@ En cada nivel en el que obtienes una dote de investigador, puedes seleccionar un
 
 ### Eliminar Pistas Falsas · Dote 1
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Tienes un agudo sentido para evitar lineas de investigacion espurias. Cuando obtienes un fracaso critico en una prueba de habilidad para Recordar Conocimiento relacionada con una pregunta sobre una de tus investigaciones activas, obtienes un fracaso en su lugar.
 
@@ -27,7 +27,7 @@ Tienes un agudo sentido para evitar lineas de investigacion espurias. Cuando obt
 
 ### Estudios Flexibles · Dote 1
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Has recopilado una muestra de informacion sobre varias disciplinas a las que puedes referirte cuando te preparas para diversas tareas. Durante tus preparaciones diarias, puedes estudiar intensivamente un tema para quedar temporalmente entrenado en una habilidad de tu eleccion. Esta competencia dura hasta que te prepares de nuevo. Como esta competencia es temporal, no puedes usarla como prerrequisito para una opcion de personaje permanente como un incremento de habilidad o una dote.
 
@@ -35,7 +35,7 @@ Has recopilado una muestra de informacion sobre varias disciplinas a las que pue
 
 ### Debilidades Conocidas · Dote 1
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Siempre que Idees una Estratagema, tambien puedes intentar una prueba para Recordar Conocimiento como parte de esa accion antes de tirar el d20. Si tienes un exito critico en la prueba de Recordar Conocimiento, notas una debilidad y puedes transmitir la informacion a tus aliados para otorgar a cada uno de ellos un bonificador por circunstancia de +1 a su siguiente tirada de ataque contra el sujeto, siempre que su ataque se realice antes del comienzo de tu siguiente turno. Si eliges una estratagema de ataque, este bonificador se aplica a esa tirada de ataque tambien.
 
@@ -43,7 +43,7 @@ Siempre que Idees una Estratagema, tambien puedes intentar una prueba para Recor
 
 ### Experto en Derribos · Dote 1
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Has dominado practicas de combate que te permiten acercarte y derribar a los perpetradores vivos. Puedes usar tu modificador de Inteligencia en las tiradas de ataque para una estratagema de ataque si estas usando un arma del grupo maza en una mano (como una maza o un baston), ademas de las armas habituales, y esos Golpes califican para tu golpe estrategico. Adicionalmente, puedes hacer que cualquiera de tus Golpes sea no letal sin recibir la penalizacion normal de -2.
 
@@ -51,7 +51,7 @@ Has dominado practicas de combate que te permiten acercarte y derribar a los per
 
 ### Eso Es Raro · Dote 1
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Cuando entras en una nueva ubicacion, como una habitacion o pasillo, inmediatamente notas una cosa fuera de lo comun. El DJ determina que es, o si no hay nada razonable que detectar, omitiendo pistas obvias que pueden notarse facilmente sin una prueba o buscando especificamente. Solo aprendes que un area u objeto es sospechoso, pero no por que es sospechoso.
 
@@ -63,7 +63,7 @@ Eso Es Raro no revela si las criaturas son sospechosas. Normalmente no obtienes 
 
 ### Buscador de Trampas · Dote 1
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Tienes un sentido intuitivo que te alerta de los peligros y presencia de trampas. Ganas un bonificador por circunstancia de +1 a las pruebas de Percepcion para encontrar trampas, a la CA contra ataques realizados por trampas, y a las salvaciones contra trampas. Incluso si no estas Buscando, obtienes una prueba para encontrar trampas que normalmente requieren que estes Buscando. Aun necesitas cumplir cualquier otro requisito para encontrar la trampa.
 
@@ -73,7 +73,7 @@ Puedes desactivar trampas que requieren un rango de competencia de maestro en La
 
 ### Investigador del Submundo · Dote 1
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Tu trabajo como investigador te hace familiar con el elemento criminal. Podrias ser un criminal tu mismo, o podrias haber obtenido una comprension de como operan desde fuera. Te vuelves entrenado en Saber del Submundo, y ganas tu bonificador de investigacion de Seguir una Pista a las pruebas de Latrocinio para investigar un caso (como pruebas para Robar una pista de un sospechoso o Forzar una Cerradura para abrir una caja fuerte con documentos incriminatorios).
 
@@ -85,7 +85,7 @@ Tu trabajo como investigador te hace familiar con el elemento criminal. Podrias 
 
 ### Estratega Atletico · Dote 2
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** entrenado en Atletismo
 
@@ -97,7 +97,7 @@ Tambien puedes usar tu modificador de Inteligencia en lugar de Fuerza para la pr
 
 ### Estratagema Certera · Dote 2
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Sabes exactamente donde golpear a un enemigo para atacar sus puntos debiles. Cuando haces un Golpe al que estas anadiendo tu modificador de Inteligencia debido a Idear una Estratagema y fallas, infliges la mitad del dano de tu golpe estrategico al objetivo. Este tipo de dano es el del arma o ataque desarmado que usaste para el Golpe.
 
@@ -105,7 +105,7 @@ Sabes exactamente donde golpear a un enemigo para atacar sus puntos debiles. Cua
 
 ### Explotar Error · :r: · Dote 2
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Desencadenante:** Una criatura contra la que Ideaste una Estratagema en tu turno mas reciente falla o fracasa criticamente en un Golpe contra ti.
 
@@ -115,7 +115,7 @@ Observando a tus enemigos de cerca, puedes sacar el maximo provecho de sus error
 
 ### Persona de Interes · :1a: · Dote 2
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Frecuencia:** una vez cada 10 minutos
 
@@ -125,7 +125,7 @@ A veces, necesitas seguir las pistas segun llegan en medio de una investigacion.
 
 ### Estratagema Compartida · Dote 2
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Los planes que haces incluyen a tus aliados asi como a ti mismo. Cuando golpeas a una criatura con un ataque en el que sustituiste tu tirada de ataque debido a Idear una Estratagema, designa un aliado. La criatura que golpeaste esta desprevenida para ese aliado en el siguiente ataque que ese aliado haga contra esa criatura antes del comienzo de tu siguiente turno.
 
@@ -133,7 +133,7 @@ Los planes que haces incluyen a tus aliados asi como a ti mismo. Cuando golpeas 
 
 ### Pista Solida · Dote 2
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 A veces tu caso se divide en misterios mas pequenos, pero nunca pierdes de vista el panorama general. Una vez al dia cuando abandonas el sujeto de una pista debido a usar Seguir una Pista de nuevo, puedes designar la pista que dejaste de seguir como tu pista solida del dia. Aunque dejaste de seguir la pista solida, puedes volver a tu pista solida cualquier numero de veces usando una sola accion, que tiene el rasgo concentracion. Hacerlo termina una de tus pistas actuales como es normal.
 
@@ -147,7 +147,7 @@ Durante tus siguientes preparaciones diarias, puedes mantener tu pista solida o 
 
 ### Descubrimientos Alquimicos · Dote 4
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** metodologia de ciencias alquimicas
 
@@ -157,7 +157,7 @@ Has dedicado tiempo extra en el laboratorio para mejorar tu conocimiento de alqu
 
 ### Preparacion del Detective · Dote 4
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Cuando estas en un caso, permaneces vigilante y resuelto para evitar trucos que tu sospechoso podria intentar. Ganas tu bonificador de investigacion de Seguir una Pista en salvaciones (y sus CDs, como es normal) contra criaturas o efectos que estan relacionados con la pregunta en el corazon de una investigacion abierta, y puedes usar Dar una Pista para asistir la salvacion de un aliado contra esa criatura o efecto.
 
@@ -165,7 +165,7 @@ Cuando estas en un caso, permaneces vigilante y resuelto para evitar trucos que 
 
 ### Detector de Mentiras · Dote 4
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** metodologia de empirismo o interrogatorio
 
@@ -177,7 +177,7 @@ Si obtendrias tu bonificador de investigacion de Seguir una Pista a cualquiera d
 
 ### Investigacion Continua · Dote 4
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Siempre estas investigando lo que te rodea, incluso mientras realizas otras actividades. Puedes moverte a Velocidad completa mientras usas la actividad de exploracion Investigar, y puedes usar otra actividad de exploracion mientras Investigas.
 
@@ -185,7 +185,7 @@ Siempre estas investigando lo que te rodea, incluso mientras realizas otras acti
 
 ### Punta del Escalpelo · Dote 4
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** metodologia de medicina forense
 
@@ -195,7 +195,7 @@ Tus estratagemas se benefician de tu conocimiento preciso de anatomia. Cuando ob
 
 ### Evaluacion Estrategica · Dote 4
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Aprendes las fortalezas y debilidades de tus enemigos observando como se mueven. Cuando golpeas a una criatura con un Golpe en el que sustituiste tu tirada de ataque debido a Idear una Estratagema, el DJ elige una de las siguientes piezas de informacion sobre el enemigo para decirte:
 
@@ -214,7 +214,7 @@ El DJ puede elegir deliberadamente o al azar, pero no puede elegir informacion q
 
 ### Conectar los Puntos · :2a: · Dote 6
 
-**Rasgos:** Auditivo, concentracion, investigador, linguistico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">concentracion</span><span class="feat-trait">investigador</span><span class="feat-trait">linguistico</span></div>
 
 Las conexiones efimeras entre personas, lugares y conceptos son invisibles para la mayoria, pero verlas es tu especialidad. Elige un aliado y una criatura no aliada. Debes poder ver a ambos. Estudias brevemente la forma en que ambos se mueven e intentas una prueba de Percepcion contra la mas alta entre la CD de Enganar de la criatura no aliada o su CD de Voluntad. Ambos objetivos quedan entonces temporalmente inmunes a Conectar los Puntos durante 10 minutos.
 
@@ -230,7 +230,7 @@ Las conexiones efimeras entre personas, lugares y conceptos son invisibles para 
 
 ### Compra Predictiva · Dote 6
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Tienes justo lo que necesitas para la situacion. Ganas las dotes Planificador Presciente y Consumible Presciente (Player Core 260). Cuando usas Planificador Presciente, puedes sacar el objeto como una actividad de 2 acciones para quitarte tu mochila (o un contenedor similar) y sacar el objeto, en lugar de tomar 1 minuto.
 
@@ -238,7 +238,7 @@ Tienes justo lo que necesitas para la situacion. Ganas las dotes Planificador Pr
 
 ### Investigacion Exhaustiva · Dote 6
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Tienes conocimiento comprensivo en tus campos de interes. Cuando tienes exito en una prueba de Recordar Conocimiento, ganas informacion o contexto adicional. Cuando tienes un exito critico en una prueba de Recordar Conocimiento, obtienes informacion o contexto adicional o puedes hacer una pregunta de seguimiento adicional (el DJ elige cual).
 
@@ -250,7 +250,7 @@ Tienes conocimiento comprensivo en tus campos de interes. Cuando tienes exito en
 
 ### Pelear a Ciegas · Dote 8
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** maestro en Percepcion
 
@@ -262,7 +262,7 @@ Mientras estas adyacente a una criatura no detectada de tu nivel o inferior, en 
 
 ### Darles Pistas a Todos · Dote 8
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Puedes dar pistas a todos tus aliados a la vez. Cuando usas la reaccion Dar una Pista, cualquiera de tus aliados que este intentando la misma prueba para investigar una de tus investigaciones activas recibe el bonificador por circunstancia de Dar una Pista. Si usas esta capacidad durante un encuentro, deben intentar su prueba dentro de 1 asalto de cuando les Diste la Pista.
 
@@ -270,7 +270,7 @@ Puedes dar pistas a todos tus aliados a la vez. Cuando usas la reaccion Dar una 
 
 ### Estratagema Defensiva · Dote 8
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Al escrutar a un enemigo, aprendes como evitar mejor sus ataques. Cuando usas Idear una Estratagema, puedes elegir una estratagema defensiva en lugar de una estratagema de ataque o habilidad despues de tirar un d20.
 
@@ -280,7 +280,7 @@ Al escrutar a un enemigo, aprendes como evitar mejor sus ataques. Cuando usas Id
 
 ### ¿Quien lo Hizo? · Dote 8
 
-**Rasgos:** Investigador, poco comun
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span><span class="feat-trait">poco comun</span></div>
 
 **Frecuencia:** una vez al dia
 
@@ -302,7 +302,7 @@ Tus preguntas deben venir de la siguiente lista, aplicando al detalle que impuls
 
 ### Solo Una Cosa Mas · :1a: · Dote 10
 
-**Rasgos:** Fortuna, investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Fortuna</span><span class="feat-trait">investigador</span></div>
 
 **Requisitos:** Tu accion mas reciente fue Desmoralizar, Fintar o Solicitar, y fallaste pero no fracasaste criticamente.
 
@@ -314,7 +314,7 @@ Tambien puedes usar esta accion si fallaste, pero no fracasaste criticamente, en
 
 ### Estrategia Continua · Dote 10
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** golpe estrategico
 
@@ -324,7 +324,7 @@ Estas constantemente estudiando pequenos aspectos de los movimientos de todos, i
 
 ### Sospechoso de Oportunidad · :r: · Dote 10
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** Persona de Interes
 
@@ -340,7 +340,7 @@ A veces algo irrumpe en tu caso inesperadamente, como una emboscada enviada para
 
 ### Ojo del Empirista · Dote 12
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** metodologia de empirismo
 
@@ -352,7 +352,7 @@ Agudos y penetrantes, tus ojos lo ven todo y transmiten mas. Tus acciones de Sen
 
 ### Prever el Peligro · :r: · Dote 12
 
-**Rasgos:** Concentracion, investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentracion</span><span class="feat-trait">investigador</span></div>
 
 **Desencadenante:** Una criatura te tiene como objetivo con un ataque, y puedes ver al atacante.
 
@@ -362,7 +362,7 @@ Percibes cada forma posible en que el ataque de tu enemigo podria impactar e int
 
 ### Tal Como lo Planee · :f: · Dote 12
 
-**Rasgos:** Fortuna, investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Fortuna</span><span class="feat-trait">investigador</span></div>
 
 **Frecuencia:** una vez por hora
 
@@ -372,7 +372,7 @@ En un abrir y cerrar de ojos, calculas los movimientos de tu enemigo y sabes exa
 
 ### Hacerlos Sudar · Dote 12
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** metodologia de interrogatorio
 
@@ -382,7 +382,7 @@ Tu linea de cuestionamiento le hace saber a un sospechoso que puedes ver a trave
 
 ### Razonar Rapidamente · :1a: · Dote 12
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Tu mente procesa las pistas a una velocidad increible. Instantaneamente usas hasta cinco acciones de Recordar Conocimiento. Si tienes alguna capacidad especial o acciones gratuitas que normalmente se desencadenarian cuando Recuerdas Conocimiento, no puedes usarlas para estas acciones.
 
@@ -390,7 +390,7 @@ Tu mente procesa las pistas a una velocidad increible. Instantaneamente usas has
 
 ### Compartir Tintura · :1a: · Dote 12
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** metodologia de ciencias alquimicas
 
@@ -400,7 +400,7 @@ Usas Tintura Rapida, y el objeto que creas permanece potente hasta el comienzo d
 
 ### Shock Quirurgico · :1a: · Dote 12
 
-**Rasgos:** Ataque, investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Ataque</span><span class="feat-trait">investigador</span></div>
 
 **Prerrequisitos:** metodologia de medicina forense
 
@@ -422,7 +422,7 @@ Con unos pocos golpes bien colocados con tu puno o arma, dejas a tu oponente des
 
 ### Trazar el Futuro · Dote 14
 
-**Rasgos:** Concentracion, investigador, prediccion, poco comun
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentracion</span><span class="feat-trait">investigador</span><span class="feat-trait">prediccion</span><span class="feat-trait">poco comun</span></div>
 
 Pasas 10 minutos en contemplacion para predecir extrañamente como se desarrollaran los eventos. Elige un objetivo o actividad particular en la que planeas participar dentro de 1 semana, o un evento que esperas que pueda ocurrir dentro de 1 semana. Analizas si es probable que ocurra, aprendiendo si es muy probable, algo probable, algo improbable o muy improbable. Tambien ganas un consejo sugiriendo un curso de accion que tu o tus aliados podrian tomar que podria hacer el evento elegido mas o menos probable, lo que prefieras. El DJ determina la probabilidad del evento y el consejo que aprendes.
 
@@ -430,7 +430,7 @@ Pasas 10 minutos en contemplacion para predecir extrañamente como se desarrolla
 
 ### Sentir lo Invisible · :r: · Dote 14
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Desencadenante:** Fallas una prueba para Buscar.
 
@@ -440,7 +440,7 @@ Cuando buscas enemigos, notas las senales mas leves. Aunque fallaste en la prueb
 
 ### Derivacion Estrategica · Dote 14
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Tus planes tienen en cuenta las resistencias de tus enemigos, permitiendote asestar un golpe certero. Cuando golpeas con un Golpe en el que sustituiste tu tirada de ataque debido a Idear una Estratagema, ignoras una cantidad de resistencia igual a tu modificador de Inteligencia por cada resistencia que aplique contra tu ataque.
 
@@ -452,7 +452,7 @@ Tus planes tienen en cuenta las resistencias de tus enemigos, permitiendote ases
 
 ### Golpe Didactico · Dote 16
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** Estratagema Compartida
 
@@ -462,7 +462,7 @@ Cuando encuentras una debilidad evidente, puedes preparar a tus aliados para ani
 
 ### Compra Inverosimil · Dote 16
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** Compra Predictiva
 
@@ -472,7 +472,7 @@ Parece imposible, pero has analizado cada angulo y puedes seguir sacando exactam
 
 ### Reconstruir la Escena · Dote 16
 
-**Rasgos:** Concentracion, investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentracion</span><span class="feat-trait">investigador</span></div>
 
 Pasas 1 minuto examinando una ubicacion pequena (como una sola habitacion) para obtener una impresion de los eventos que ocurrieron alli en el ultimo dia. Esto implica moverte por el area y estudiar huellas, la colocacion de objetos, bebidas o sangre derramada, y demas.
 
@@ -488,7 +488,7 @@ Como determine el DJ, tambien detectas varios detalles aparentemente pequenos qu
 
 ### Investigador Principal · Dote 18
 
-**Rasgos:** Exploracion, investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploracion</span><span class="feat-trait">investigador</span></div>
 
 **Prerrequisitos:** Darles Pistas a Todos
 
@@ -498,7 +498,7 @@ Pasas 1 minuto informando hasta a cuatro aliados sobre una de tus investigacione
 
 ### As del Tramposo · :r: · Dote 18
 
-**Rasgos:** Concentracion, investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentracion</span><span class="feat-trait">investigador</span></div>
 
 **Desencadenante:** Especificas el desencadenante cuando haces tus preparaciones diarias (ver Requisitos abajo).
 
@@ -514,7 +514,7 @@ Ya sea por objetos magicos improvisados, deduccion del estudio de interacciones 
 
 ### Todos Son Sospechosos · Dote 20
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 Eres tan suspicaz de todos los que conoces que mantienes notas mentales sobre como derrotarlos a todos—incluso a tus propios aliados. Despues de interactuar con una criatura durante al menos 1 minuto, automaticamente Sigues una Pista con esa criatura como sujeto. Puedes tener cualquier numero de tales pistas en cualquier momento, y cuando Sigues una Pista de nuevo, no abandonas ninguno de estos sujetos automaticos.
 
@@ -522,7 +522,7 @@ Eres tan suspicaz de todos los que conoces que mantienes notas mentales sobre co
 
 ### Solo los Hechos · Dote 20
 
-**Rasgos:** Investigador
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Investigador</span></div>
 
 **Prerrequisitos:** Investigacion Exhaustiva
 

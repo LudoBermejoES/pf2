@@ -10,7 +10,7 @@ source: PC1
 
 ## Animar Objeto [RITUAL 2]
 
-**Rasgos:** Poco comun
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span></div>
 
 **Lanzamiento:** 1 dia; **Coste:** aceites raros, ver Rituales de creación de criaturas
 

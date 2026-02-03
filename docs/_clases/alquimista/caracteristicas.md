@@ -67,11 +67,11 @@ Durante tus preparativos diarios, puedes crear un número de viales versátiles 
 | Mayor | 12 | 3d6 ácido | +2 |
 | Superior | 18 | 4d6 ácido | +3 |
 
-**Rasgos:** Ácido, Alquímico, Bomba, Consumible, Infundido, Salpicadura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Ácido</span><span class="feat-trait">Alquímico</span><span class="feat-trait">Bomba</span><span class="feat-trait">Consumible</span><span class="feat-trait">Infundido</span><span class="feat-trait">Salpicadura</span></div>
 
 ### Alquimia rápida · {% include accion.html tipo="1" %}
 
-**Rasgos:** Alquimista, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquimista</span><span class="feat-trait">Manipular</span></div>
 
 **Requisitos:** Portas o llevas puesto un kit de alquimista y tienes una mano libre.
 

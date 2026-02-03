@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 1; **Precio** 3 mo
 
-**Rasgos:** Consumible, Mágico, Encantamiento, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Consumible</span><span class="feat-trait">Mágico</span><span class="feat-trait">Encantamiento</span><span class="feat-trait">Mental</span></div>
 
 **Tipo:** Munición
 

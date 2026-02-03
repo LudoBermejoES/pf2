@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 11; **Precio** 1.300 mo
 
-**Rasgos:** Invertir, Mágico, Vitalidad, Poco común
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Vitalidad</span><span class="feat-trait">Poco común</span></div>
 
 **Ranura:** Dedo
 

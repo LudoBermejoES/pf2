@@ -40,7 +40,7 @@ class_name: Monje
 
 ### Ráfaga de golpes · {% include accion.html tipo="1" %}
 
-**Rasgos:** Florecer, Monje
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Florecer</span><span class="feat-trait">Monje</span></div>
 
 Realizas dos Golpes desarmados. Si ambos impactan a la misma criatura, combina su daño a efectos de resistencias y debilidades. Aplica tu penalizador por múltiples ataques normalmente a los Golpes. Como una habilidad de florecer, solo puedes usar Ráfaga de golpes una vez por turno.
 
@@ -76,7 +76,7 @@ Algunas posturas de monje te permiten realizar ataques desarmados especiales mie
 
 ### Postura de grulla · {% include accion.html tipo="1" %}
 
-**Rasgos:** Monje, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Monje</span><span class="feat-trait">Postura</span></div>
 
 **Requisitos:** No llevas armadura.
 
@@ -86,7 +86,7 @@ Mientras estés en Postura de grulla, reduce en 5 la CD de Salto alto y Salto la
 
 ### Postura de dragón · {% include accion.html tipo="1" %}
 
-**Rasgos:** Monje, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Monje</span><span class="feat-trait">Postura</span></div>
 
 **Requisitos:** No llevas armadura.
 
@@ -96,7 +96,7 @@ Mientras estés en Postura de dragón, puedes ignorar el primer cuadro de terren
 
 ### Postura de montaña · {% include accion.html tipo="1" %}
 
-**Rasgos:** Monje, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Monje</span><span class="feat-trait">Postura</span></div>
 
 **Requisitos:** No llevas armadura y estás en contacto con el suelo.
 
@@ -106,7 +106,7 @@ Mientras estés en Postura de montaña, obtienes una bonificación de objeto +4 
 
 ### Postura de tigre · {% include accion.html tipo="1" %}
 
-**Rasgos:** Monje, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Monje</span><span class="feat-trait">Postura</span></div>
 
 **Requisitos:** No llevas armadura.
 
@@ -116,7 +116,7 @@ Mientras tu Velocidad sea de al menos 6 m en Postura de tigre, puedes Dar un pas
 
 ### Postura de lobo · {% include accion.html tipo="1" %}
 
-**Rasgos:** Monje, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Monje</span><span class="feat-trait">Postura</span></div>
 
 **Requisitos:** No llevas armadura.
 
@@ -126,7 +126,7 @@ Si flanqueas a un objetivo mientras estás en Postura de lobo, tus ataques desar
 
 ### Postura tambaleante · {% include accion.html tipo="1" %}
 
-**Rasgos:** Monje, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Monje</span><span class="feat-trait">Postura</span></div>
 
 **Requisito previo:** entrenado en Engaño
 
@@ -136,7 +136,7 @@ Si un enemigo te golpea con un Golpe cuerpo a cuerpo mientras estás en esta pos
 
 ### Postura de arquero monástico · {% include accion.html tipo="1" %}
 
-**Rasgos:** Monje, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Monje</span><span class="feat-trait">Postura</span></div>
 
 **Requisitos:** No llevas armadura y empuñas un arco largo, un arco corto o un arco con el rasgo de monje.
 

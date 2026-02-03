@@ -17,7 +17,7 @@ Los mariscales son líderes, ante todo. Pueden provenir de cualquier clase o tra
 
 ### Dedicación de Mariscal · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en armas marciales y en Diplomacia o Intimidación
 
@@ -27,7 +27,7 @@ Además, mientras estás consciente, te rodea un aura de mariscal en una emanaci
 
 ### Postura de mariscal temible · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Postura</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal, entrenado en Intimidación
 
@@ -41,7 +41,7 @@ Con un semblante sombrío para la batalla que se avecina, animas a tus aliados a
 
 ### Postura de mariscal inspirador · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo, Postura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Postura</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal, entrenado en Diplomacia
 
@@ -55,7 +55,7 @@ Te conviertes en un brillante ejemplo de dedicación y aplomo en batalla, animan
 
 ### ¡Espabila! · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo, Auditivo, Emoción, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Auditivo</span><span class="feat-trait">Emoción</span><span class="feat-trait">Mental</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal
 
@@ -63,7 +63,7 @@ Das un grito rápido, esperando disipar la niebla que nubla los pensamientos de 
 
 ### ¡Fortalécete! · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo, Auditivo, Emoción, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Auditivo</span><span class="feat-trait">Emoción</span><span class="feat-trait">Mental</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal
 
@@ -71,7 +71,7 @@ Animas a un aliado a endurecerse, dándole una oportunidad en la lucha. Elige a 
 
 ### Llamada de cadencia · {% include accion.html tipo="1" %} · Dote 6
 
-**Rasgos:** Arquetipo, Auditivo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Auditivo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal
 
@@ -81,7 +81,7 @@ Lanzas una rápida cadencia, guiando a tus aliados hacia un ritmo más eficiente
 
 ### Carga alentadora · {% include accion.html tipo="2" %} · Dote 6
 
-**Rasgos:** Arquetipo, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Visual</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal
 
@@ -89,7 +89,7 @@ Tu carga intrépida en batalla reaviva a tus aliados para continuar la lucha. Av
 
 ### Espalda con espalda · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal
 
@@ -97,7 +97,7 @@ Destacas vigilando la espalda de tus aliados y ayudándoles a vigilar la tuya. C
 
 ### ¡A la batalla! · {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %} · Dote 8
 
-**Rasgos:** Arquetipo, Auditivo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Auditivo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal
 
@@ -105,7 +105,7 @@ Con un grito resonante, animas a tu aliado a pasar a la ofensiva. Elige a un ali
 
 ### Derribar enemigo · {% include accion.html tipo="libre" %} · Dote 10
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal, entrenado en Atletismo
 
@@ -115,7 +115,7 @@ Aprovechas la abertura creada por tu aliado para hacer caer a tu enemigo. Intent
 
 ### Carga coordinada · {% include accion.html tipo="2" %} · Dote 12
 
-**Rasgos:** Arquetipo, Florecimiento, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span><span class="feat-trait">Visual</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal
 
@@ -123,7 +123,7 @@ Te lanzas heroicamente a la refriega, inspirando a tus aliados a seguirte. Avanz
 
 ### Cadencia táctica · Dote 14
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Llamada de cadencia
 
@@ -131,7 +131,7 @@ Tu notable control de la respiración e instrucciones concisas te permiten coord
 
 ### Blanco de oportunidad · {% include accion.html tipo="libre" %} · Dote 14
 
-**Rasgos:** Arquetipo, Manipular
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Manipular</span></div>
 
 **Prerrequisitos:** Dedicación de Mariscal
 

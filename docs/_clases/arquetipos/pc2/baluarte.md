@@ -17,7 +17,7 @@ Algunos dicen que una buena ofensiva es la mejor defensa, pero consideras que ta
 
 ### Dedicación de Baluarte · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** Bloqueo con escudo
 
@@ -25,7 +25,7 @@ Eres particularmente hábil usando un escudo para protegerte en combate. Obtiene
 
 ### Bloqueo desarmante · {% include accion.html tipo="libre" %} · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Baluarte, entrenado en Atletismo
 
@@ -35,7 +35,7 @@ Con un movimiento diestro y practicado, bloqueas en ángulo para potencialmente 
 
 ### Mano de escudo ágil · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Baluarte
 
@@ -43,7 +43,7 @@ Estás tan acostumbrado a empuñar un escudo que puedes hacerlo incluso usando l
 
 ### Bloqueo destructivo · Dote 10
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Baluarte
 
@@ -51,7 +51,7 @@ Puedes protegerte de manera más efectiva, a expensas de tu escudo. Cuando Bloqu
 
 ### Salvación del escudo · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Baluarte
 

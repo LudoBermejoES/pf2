@@ -11,7 +11,7 @@ source: PC1
 
 ## Volar {% include accion.html tipo="1" %}
 
-**Rasgos:** Movimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span></div>
 
 **Requisitos:** Tienes Velocidad de vuelo
 

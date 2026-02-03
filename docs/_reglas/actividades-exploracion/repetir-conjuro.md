@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración]
 ---
 
-**Rasgos:** Concentrar, Exploración
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span></div>
 
 Lanzas repetidamente el mismo conjuro mientras te mueves a media velocidad.
 

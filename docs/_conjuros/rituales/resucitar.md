@@ -10,7 +10,7 @@ source: PC1
 
 ## Resucitar [RITUAL 5]
 
-**Rasgos:** Poco comun, curacion
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">curacion</span></div>
 
 **Lanzamiento:** 1 dia; **Coste:** piedras preciosas por un valor total de 75 piezas de oro x el nivel del objetivo
 

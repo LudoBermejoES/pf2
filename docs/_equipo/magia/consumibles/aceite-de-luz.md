@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 2; **Precio** 7 mo
 
-**Rasgos:** Consumible, Mágico, Evocación, Luz
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Consumible</span><span class="feat-trait">Mágico</span><span class="feat-trait">Evocación</span><span class="feat-trait">Luz</span></div>
 
 **Tipo:** Aceite
 

@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Auditivo, Concentrar, Exploración, Lingüístico, Mental]
 ---
 
-**Rasgos:** Auditivo, Concentrar, Exploración, Lingüístico, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Lingüístico</span><span class="feat-trait">Mental</span></div>
 
 Usas la [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}) para causar una buena impresión a alguien.
 

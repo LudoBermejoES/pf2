@@ -19,7 +19,7 @@ El arquetipo otorga conjuros preparados versatiles, perfectos para los personaje
 
 ### Dedicacion de brujo - Dote 2
 
-**Rasgos:** Arquetipo, Dedicacion, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
 
 **Prerrequisitos:** Inteligencia +2
 
@@ -31,7 +31,7 @@ Obtienes la actividad Lanzar un conjuro. Puedes preparar un truco cada dia graci
 
 ### Lanzamiento de conjuros basico de brujo - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de brujo
 
@@ -41,7 +41,7 @@ Obtienes los beneficios de lanzamiento de conjuros basico. Cada vez que obtienes
 
 ### Brujeria basica - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de brujo
 
@@ -51,7 +51,7 @@ Obtienes una dote de brujo de 1.er o de 2.º nivel. Cada dia puedes seleccionar 
 
 ### Brujeria avanzada - Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Brujeria basica
 
@@ -63,7 +63,7 @@ Obtienes una dote de brujo. A efectos de cumplir con sus prerrequisitos, tu nive
 
 ### Abundancia del patron - Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de brujo
 
@@ -73,7 +73,7 @@ Puedes lanzar mas conjuros cada dia. Incrementa los espacios de conjuro que obti
 
 ### Lanzamiento de conjuros experto de brujo - Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de brujo, rango maestro en la habilidad asociada con la tradición de tu patron
 
@@ -83,7 +83,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de brujo - Dote 18
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de brujo, rango legendario en la habilidad asociada con la tradición de tu patron
 

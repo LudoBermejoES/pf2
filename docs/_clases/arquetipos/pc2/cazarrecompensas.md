@@ -17,7 +17,7 @@ Sea por dinero, gloria o justicia, sabes cómo rastrear, derrotar y capturar ind
 
 ### Dedicación de Cazarrecompensas · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Supervivencia
 
@@ -27,7 +27,7 @@ Si ya tienes Cazar presa, obtienes la dote Cazador de monstruos además de los o
 
 ### Comitiva · Dote 4
 
-**Rasgos:** Arquetipo, Exploración
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Exploración</span></div>
 
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
@@ -39,7 +39,7 @@ Estos beneficios duran hasta que designas una nueva presa o tu presa muere, lo q
 
 ### Herramientas del oficio · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
@@ -49,7 +49,7 @@ Además, no sufres penalización al hacer un ataque no letal con un arma que no 
 
 ### Mantener el ritmo · {% include accion.html tipo="libre" %} · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
@@ -59,7 +59,7 @@ Una vez que estás sobre tu presa, no puede escapar. Avanza hasta tu Velocidad, 
 
 ### Agarrón oportunista · {% include accion.html tipo="libre" %} · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 

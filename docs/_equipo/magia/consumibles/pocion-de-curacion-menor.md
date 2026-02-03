@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 1; **Precio** 4 mo
 
-**Rasgos:** Consumible, Mágico, Curación, Vitalidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Consumible</span><span class="feat-trait">Mágico</span><span class="feat-trait">Curación</span><span class="feat-trait">Vitalidad</span></div>
 
 **Tipo:** Poción
 

@@ -19,7 +19,7 @@ El arquetipo mago otorga conjuros preparados versatiles, perfectos para los pers
 
 ### Dedicacion de mago - Dote 2
 
-**Rasgos:** Arquetipo, Dedicacion, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
 
 **Prerrequisitos:** Inteligencia +2
 
@@ -29,7 +29,7 @@ Lanzas conjuros como un mago, obteniendo un libro de conjuros con 4 trucos arcan
 
 ### Conjuro de escuela arcana - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de mago
 
@@ -39,7 +39,7 @@ Obtienes el conjuro de escuela inicial de tu escuela. Si aun no lo tienes, obtie
 
 ### Arcanos básicos - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de mago
 
@@ -49,7 +49,7 @@ Obtienes una dote de mago de 1.er o de 2.º nivel.
 
 ### Lanzamiento de conjuros basico de mago - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de mago
 
@@ -59,7 +59,7 @@ Obtienes los beneficios de lanzamiento de conjuros basico. Cada vez que obtienes
 
 ### Arcanos avanzados - Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Arcanos básicos
 
@@ -71,7 +71,7 @@ Obtienes una dote de mago. A efectos de cumplir con sus prerrequisitos, tu nivel
 
 ### Abundancia arcana - Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de mago
 
@@ -81,7 +81,7 @@ Tus concienzudos estudios te permiten lanzar mas conjuros arcanos cada dia. Incr
 
 ### Lanzamiento de conjuros experto de mago - Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de mago, rango maestro en Arcanos
 
@@ -91,7 +91,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de mago - Dote 18
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de mago, rango legendario en Arcanos
 

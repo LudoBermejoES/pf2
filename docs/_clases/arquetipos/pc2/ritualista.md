@@ -15,7 +15,7 @@ Si bien algunos aprenden el arte de lanzar rituales mediante estudio riguroso, o
 
 ### Dedicación de Ritualista · Dote 4
 
-**Rasgos:** Poco común, Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** experto en Arcanos, Naturaleza, Ocultismo o Religión
 
@@ -25,7 +25,7 @@ En el 8.º nivel y cada 4 niveles en adelante, aprendes dos rituales más con la
 
 ### Ritualista flexible · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Ritualista
 
@@ -33,7 +33,7 @@ Puedes realizar dos aspectos de un ritual tú mismo. Cuando lanzas un ritual, pu
 
 ### Ritualista ingenioso · Dote 6
 
-**Rasgos:** Arquetipo, Habilidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
 
 **Prerrequisitos:** Dedicación de Ritualista
 
@@ -41,7 +41,7 @@ Puedes lanzar rituales difíciles que de otro modo estarían justo más allá de
 
 ### Rituales eficientes · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Ritualista
 
@@ -51,7 +51,7 @@ En el 14.º nivel, si un ritual tiene un tiempo de lanzamiento medido en días, 
 
 ### Ritualista seguro · Dote 10
 
-**Rasgos:** Arquetipo, Fortuna
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Fortuna</span></div>
 
 **Prerrequisitos:** Ritualista flexible
 
@@ -59,7 +59,7 @@ Puedes cubrir el error de un lanzador secundario. Si eres el lanzador principal,
 
 ### Ritualista emprendedor · Dote 14
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Ritualista
 

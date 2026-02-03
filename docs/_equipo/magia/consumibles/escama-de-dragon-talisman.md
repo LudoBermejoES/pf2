@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 4; **Precio** 18 mo
 
-**Rasgos:** Consumible, Mágico, Abjuración, Talismán
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Consumible</span><span class="feat-trait">Mágico</span><span class="feat-trait">Abjuración</span><span class="feat-trait">Talismán</span></div>
 
 **Tipo:** Talismán
 

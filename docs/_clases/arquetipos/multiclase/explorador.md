@@ -27,7 +27,7 @@ El arquetipo explorador tiene acceso a unas opciones excelentes para mejorar el 
 
 ### Dedicacion de explorador - Dote 2
 
-**Rasgos:** Arquetipo, Dedicacion, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
 
 **Prerrequisitos:** Destreza +2
 
@@ -39,7 +39,7 @@ Si obtienes un conjuro de guardian a traves de este arquetipo, obtienes el rango
 
 ### Mana basica de cazador - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de explorador
 
@@ -49,7 +49,7 @@ Obtienes una dote de explorador de 1.er o de 2.º nivel.
 
 ### Resiliencia de explorador - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de explorador, una clase que no concede mas Puntos de Golpe por nivel que 8 + tu modificador por Constitución
 
@@ -59,7 +59,7 @@ Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo expl
 
 ### Mana avanzada de cazador - Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Mana basica de cazador
 
@@ -71,7 +71,7 @@ Obtienes una dote de explorador. A efectos de cumplir con sus prerrequisitos, tu
 
 ### Avistador maestro - Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de explorador, rango experto en Percepción
 

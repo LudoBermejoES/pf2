@@ -15,7 +15,7 @@ Has pasado incontables horas desmontando y reconstruyendo objetos complejos para
 
 ### Dedicación de Buscavidas · Dote 2
 
-**Rasgos:** Poco común, Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco común</span><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Artesanía
 
@@ -27,7 +27,7 @@ Un objeto que Improvisas es un objeto chapucero, pero al crearlo puedes elegir u
 
 ### Ingeniería inversa · Dote 4
 
-**Rasgos:** Arquetipo, Habilidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
 
 **Prerrequisitos:** Dedicación de Buscavidas, experto en Artesanía
 
@@ -35,7 +35,7 @@ Tu casi constante cacharreo con objetos te permite hacer ingeniería inversa de 
 
 ### Buscavidas mágico · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Buscavidas, Elaboración mágica
 
@@ -45,7 +45,7 @@ No puedes Improvisar montaje de un consumible, una runa o un objeto con runas. S
 
 ### Desmontaje experto · Dote 7
 
-**Rasgos:** Arquetipo, Habilidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Habilidad</span></div>
 
 **Prerrequisitos:** Dedicación de Buscavidas, maestro en Artesanía
 

@@ -10,7 +10,7 @@ source: PC1
 
 ## Crecimiento Vegetal [RITUAL 4]
 
-**Rasgos:** Poco comun, madera, planta, vitalidad
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">madera</span><span class="feat-trait">planta</span><span class="feat-trait">vitalidad</span></div>
 
 **Lanzamiento:** 1 dia
 

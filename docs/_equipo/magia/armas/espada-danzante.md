@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 10; **Precio** 950 mo
 
-**Rasgos:** Invertir, Mágico, Evocación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Evocación</span></div>
 
 **Tipo base:** Espada larga
 

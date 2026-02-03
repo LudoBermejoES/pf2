@@ -10,7 +10,7 @@ source: PC1
 
 ## Comunion [RITUAL 6]
 
-**Rasgos:** Poco comun, predicción
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">predicción</span></div>
 
 **Lanzamiento:** 1 dia; **Coste:** incienso raro por un valor total de 150 po
 

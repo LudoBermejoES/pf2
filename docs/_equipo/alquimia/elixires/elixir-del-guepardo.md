@@ -9,7 +9,7 @@ source: PC2
 item_level: "1, 5, 9"
 ---
 
-**Rasgos:** Alquímico, Consumible, Elixir
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Elixir</span></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

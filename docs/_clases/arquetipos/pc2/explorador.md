@@ -17,7 +17,7 @@ Eres un experto en espionaje y reconocimiento, capaz de escabullirte silenciosam
 
 ### Dedicación de Explorador · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 **Prerrequisitos:** entrenado en Sigilo y Supervivencia
 
@@ -25,7 +25,7 @@ Eres un explorador altamente capacitado, capaz de guiar a tus aliados, detectar 
 
 ### Carga del explorador · {% include accion.html tipo="2" %} · Dote 4
 
-**Rasgos:** Arquetipo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Explorador
 
@@ -33,7 +33,7 @@ Te mueves de forma impredecible y luego emboscas a tus oponentes sin aviso. Elig
 
 ### Explorador de terrenos · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Explorador
 
@@ -41,7 +41,7 @@ Has dominado el movimiento en muchos entornos distintos. Obtienes la dote de hab
 
 ### Sombra fugaz · {% include accion.html tipo="2" %} · Dote 6
 
-**Rasgos:** Arquetipo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Explorador
 
@@ -49,7 +49,7 @@ Puedes desaparecer rápidamente y luego moverte sin atraer la atención de tus e
 
 ### Velocidad del explorador · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Explorador
 
@@ -57,7 +57,7 @@ Te mueves más rápido, especialmente al viajar, permitiéndote explorar por del
 
 ### Zarpazo del explorador · {% include accion.html tipo="2" %} · Dote 10
 
-**Rasgos:** Arquetipo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Explorador
 

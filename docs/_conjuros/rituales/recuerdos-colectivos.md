@@ -10,7 +10,7 @@ source: PC1
 
 ## Recuerdos Colectivos [RITUAL 7]
 
-**Rasgos:** Poco comun
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span></div>
 
 **Lanzamiento:** 1 dia; **Coste:** incienso raro por un valor total de 300 po
 

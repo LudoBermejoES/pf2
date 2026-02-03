@@ -10,7 +10,7 @@ source: PC1
 
 ## Geas [RITUAL 3]
 
-**Rasgos:** Poco comun, maldición, mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Poco comun</span><span class="feat-trait">maldición</span><span class="feat-trait">mental</span></div>
 
 **Lanzamiento:** 1 dia
 

@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 3; **Precio** 12 mo
 
-**Rasgos:** Consumible, Mágico, Transmutación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Consumible</span><span class="feat-trait">Mágico</span><span class="feat-trait">Transmutación</span></div>
 
 **Tipo:** Aceite
 

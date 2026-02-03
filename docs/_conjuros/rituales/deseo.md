@@ -10,7 +10,7 @@ source: PC1
 
 ## Deseo [RITUAL 10]
 
-**Rasgos:** Raro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span></div>
 
 **Lanzamiento:** 1 dia; **Coste:** cenizas finas, pigmentos magicamente imbuidos y una gema de talla marquesa por valor de 100.000 po en total
 

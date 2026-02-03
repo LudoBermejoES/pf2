@@ -11,7 +11,7 @@ item_level: "1"
 
 **Nivel** 1; **Precio** 2 mo
 
-**Rasgos:** Alquímico, Consumible
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

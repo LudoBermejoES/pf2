@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Exploración, Movimiento]
 ---
 
-**Rasgos:** Exploración, Movimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploración</span><span class="feat-trait">Movimiento</span></div>
 
 Usando las [Acrobacias]({{ '/habilidades/acrobacias/' | relative_url }}), consigues abrirte paso por lugares muy estrechos.
 

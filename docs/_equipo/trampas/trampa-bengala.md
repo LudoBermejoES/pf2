@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 2; **Precio** 5 mo
 
-**Rasgos:** Trampa, Fuego, Luz
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span><span class="feat-trait">Fuego</span><span class="feat-trait">Luz</span></div>
 
 ---
 

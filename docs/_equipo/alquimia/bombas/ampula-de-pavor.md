@@ -7,7 +7,7 @@ category: equipo
 source: PC2
 ---
 
-**Rasgos:** Alquímico, Bomba, Consumible, Emoción, Miedo, Mental, Veneno, Salpicadura
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Bomba</span><span class="feat-trait">Consumible</span><span class="feat-trait">Emoción</span><span class="feat-trait">Miedo</span><span class="feat-trait">Mental</span><span class="feat-trait">Veneno</span><span class="feat-trait">Salpicadura</span></div>
 
 **Uso** sostenido en 1 mano; **Volumen** L
 

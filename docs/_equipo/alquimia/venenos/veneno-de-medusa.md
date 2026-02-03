@@ -11,7 +11,7 @@ item_level: "10"
 
 **Nivel** 10; **Precio** 180 mo
 
-**Rasgos:** Alquímico, Consumible, Contacto, Veneno, Poco común
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Contacto</span><span class="feat-trait">Veneno</span><span class="feat-trait">Poco común</span></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

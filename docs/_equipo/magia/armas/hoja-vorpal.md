@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 15; **Precio** 6.000 mo
 
-**Rasgos:** Invertir, Mágico, Evocación, Muerte, Raro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Evocación</span><span class="feat-trait">Muerte</span><span class="feat-trait">Raro</span></div>
 
 **Tipo base:** Espada larga
 

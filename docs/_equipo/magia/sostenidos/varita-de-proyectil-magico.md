@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 2; **Precio** 30 mo
 
-**Rasgos:** Invertir, Mágico, Varita, Evocación, Fuerza
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Varita</span><span class="feat-trait">Evocación</span><span class="feat-trait">Fuerza</span></div>
 
 **Uso:** sostenida en 1 mano; **Impedimenta** L
 

@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 6; **Precio** 40 mo
 
-**Rasgos:** Trampa, Veneno
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span><span class="feat-trait">Veneno</span></div>
 
 ---
 

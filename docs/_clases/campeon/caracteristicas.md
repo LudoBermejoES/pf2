@@ -168,7 +168,7 @@ La sociedad está ordenada con buen motivo, y las personas deben comportarse ade
 
 **Orden férrea · {% include accion.html tipo="libre" %}**
 
-**Rasgos:** Emoción, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Emoción</span><span class="feat-trait">Mental</span></div>
 
 **Desencadenante:** Un enemigo en tu aura de campeón te inflige daño.
 

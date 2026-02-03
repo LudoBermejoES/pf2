@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Exploración, Movimiento]
 ---
 
-**Rasgos:** Exploración, Movimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploración</span><span class="feat-trait">Movimiento</span></div>
 
 Te esfuerzas por moverte al doble de tu velocidad de viaje.
 

@@ -19,7 +19,7 @@ El arquetipo bardo te concede saber y poderosas composiciones que apoyan a tus a
 
 ### Dedicacion de bardo - Dote 2
 
-**Rasgos:** Arquetipo, Dedicacion, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
 
 **Prerrequisitos:** Carisma +2
 
@@ -31,7 +31,7 @@ Elige una musa como lo varias si fueras un bardo. Puedes adquirir las dotes de d
 
 ### Lanzamiento de conjuros basico de bardo - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de bardo
 
@@ -41,7 +41,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros. Cada vez que obtienes
 
 ### Susurros de la musa básicos - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de bardo
 
@@ -51,7 +51,7 @@ Obtienes una dote de bardo de 1.er o de 2.º nivel.
 
 ### Susurros de la musa avanzados - Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Susurros de la musa básicos
 
@@ -63,7 +63,7 @@ Obtienes una dote de bardo. A efectos de cumplir con sus prerrequisitos, tu nive
 
 ### Contrainterpretacion - Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de bardo
 
@@ -73,7 +73,7 @@ Obtienes el conjuro de composición contrarrestar interpretación. Este es un co
 
 ### Interpretación de himno - Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de bardo
 
@@ -83,7 +83,7 @@ Tu musica, tu habla u otra interpretación inspira a tus aliados a la batalla. O
 
 ### Abundancia ocultista - Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de bardo
 
@@ -93,7 +93,7 @@ Tu repertorio se expande y cada dia puedes lanzar mas conjuros ocultistas. Incre
 
 ### Lanzamiento de conjuros experto de bardo - Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de bardo, rango maestro en Ocultismo
 
@@ -103,7 +103,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de bardo - Dote 18
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de bardo, rango legendario en Ocultismo
 

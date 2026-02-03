@@ -17,7 +17,7 @@ Aunque muchos arqueros ven su oficio como una forma de arte tanto como un medio 
 
 ### Dedicación de Arquero arcano · Dote 6
 
-**Rasgos:** Arquetipo, Dedicación, Mágico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span><span class="feat-trait">Mágico</span></div>
 
 **Prerrequisitos:** experto en al menos un arma del grupo de arco o ballesta
 
@@ -29,7 +29,7 @@ Independientemente de si ya puedes lanzar conjuros o si obtuviste la capacidad m
 
 ### Lanzamiento arcano básico · Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero arcano
 
@@ -37,7 +37,7 @@ Obtienes los beneficios básicos de lanzamiento de conjuros. Cada vez que obtien
 
 ### Disparo encantador · {% include accion.html tipo="2" %} · Dote 8
 
-**Rasgos:** Arquetipo, Emoción, Mágico, Mental
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Emoción</span><span class="feat-trait">Mágico</span><span class="feat-trait">Mental</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero arcano
 
@@ -45,7 +45,7 @@ Con un único susurro llevado por el viento, encantas tu munición para hacer a 
 
 ### Munición mágica · Dote 8
 
-**Rasgos:** Arquetipo, Mágico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Mágico</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero arcano
 
@@ -57,7 +57,7 @@ Imbuyes tu munición con magia cruda y potente, transformándola para adaptarla 
 
 ### Munición preciosa · {% include accion.html tipo="1" %} · Dote 8
 
-**Rasgos:** Arquetipo, Mágico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Mágico</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero arcano
 
@@ -65,7 +65,7 @@ Has aprendido a imitar el poder entre la magia y el material. Encantas una pieza
 
 ### Recarga arcana · {% include accion.html tipo="libre" %} · Dote 10
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero arcano
 
@@ -75,7 +75,7 @@ Integras tu talento para la magia en el uso de armas que requieren recarga. Inte
 
 ### Lanzamiento arcano experto · Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento arcano básico
 
@@ -83,7 +83,7 @@ Aprendes magia adicional de arquero arcano. Obtienes los beneficios de lanzamien
 
 ### Disparo rastreador · {% include accion.html tipo="1" %} · Dote 14
 
-**Rasgos:** Arquetipo, Mágico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Mágico</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero arcano
 
@@ -91,7 +91,7 @@ Tus disparos se deslizan alrededor de esquinas y vuelan en ángulos imposibles p
 
 ### Disparo incorpóreo · {% include accion.html tipo="1" %} · Dote 16
 
-**Rasgos:** Arquetipo, Mágico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Mágico</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero arcano
 
@@ -101,7 +101,7 @@ Puedes concentrar una inmensa cantidad de magia para crear una pieza de munició
 
 ### Disparo fatal · {% include accion.html tipo="3" %} · Dote 18
 
-**Rasgos:** Arquetipo, Mágico
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Mágico</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero arcano
 
@@ -111,7 +111,7 @@ Modificas una flecha o virote para traer la muerte a tu objetivo en un solo impa
 
 ### Lanzamiento arcano maestro · Dote 18
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento arcano experto
 

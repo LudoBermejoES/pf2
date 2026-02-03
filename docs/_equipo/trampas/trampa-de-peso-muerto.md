@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 2; **Precio** 6 mo
 
-**Rasgos:** Trampa, Kobold
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Trampa</span><span class="feat-trait">Kobold</span></div>
 
 ---
 

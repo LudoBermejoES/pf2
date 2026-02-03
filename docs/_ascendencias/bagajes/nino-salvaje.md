@@ -10,7 +10,7 @@ parent: Bagajes
 
 **Bagaje**
 
-**Rasgos:** Raro
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Raro</span></div>
 
 Pasaste tu juventud en la naturaleza, viviendo cerca de animales o quizá criado por ellos. Tienes una conexión estrecha y mística con esos animales y obtuviste ciertas habilidades de ellos, aunque esto limitó tu formación integral en ámbitos mentales.
 

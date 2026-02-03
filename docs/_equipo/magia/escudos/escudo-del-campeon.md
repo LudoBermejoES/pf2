@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 7; **Precio** 325 mo
 
-**Rasgos:** Invertir, Mágico, Abjuración
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Invertir</span><span class="feat-trait">Mágico</span><span class="feat-trait">Abjuración</span></div>
 
 **Dureza** 10; **PG** 40 (UR 20)
 

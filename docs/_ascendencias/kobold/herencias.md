@@ -69,7 +69,7 @@ Gracias a la proximidad de una criatura venenosa a tu madriguera, naciste con un
 
 > **Toxina de cola** {% include accion.html tipo="1" %}
 >
-> **Rasgos:** Manipular
+> <div class="feat-traits-header" markdown="0"><span class="feat-trait">Manipular</span></div>
 >
 > **Frecuencia:** una vez por día
 >

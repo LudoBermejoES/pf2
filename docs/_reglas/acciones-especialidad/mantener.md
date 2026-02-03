@@ -11,7 +11,7 @@ source: PC1
 
 ## Mantener {% include accion.html tipo="1" %}
 
-**Rasgos:** Concentrar
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span></div>
 
 Elige uno de tus efectos con una duracion mantenida o que indica un beneficio especial cuando lo Mantienes. La mayoría de dichos efectos proceden de conjuros o de activaciones de objetos mágicos.
 

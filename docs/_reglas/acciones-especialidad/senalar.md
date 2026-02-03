@@ -11,7 +11,7 @@ source: PC1
 
 ## Senalar {% include accion.html tipo="1" %}
 
-**Rasgos:** Auditivo, Manipular, Visual
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Manipular</span><span class="feat-trait">Visual</span></div>
 
 **Requisitos:** Una criatura no ha sido detectada por uno o mas de tus aliados, pero si por ti.
 

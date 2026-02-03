@@ -19,7 +19,7 @@ El arquetipo druida puede proporcionar un poco de curación o de dano elemental 
 
 ### Dedicacion de druida - Dote 2
 
-**Rasgos:** Arquetipo, Dedicacion, Multiclase
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicacion</span><span class="feat-trait">Multiclase</span></div>
 
 **Prerrequisitos:** Sabiduría +2
 
@@ -33,7 +33,7 @@ Elige una orden druidica. Te conviertes en miembro de dicha orden y quedas tambi
 
 ### Lanzamiento de conjuros basico de druida - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de druida
 
@@ -43,7 +43,7 @@ Obtienes los beneficios de lanzamiento basico de conjuros.
 
 ### Salvajismo basico - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de druida
 
@@ -53,7 +53,7 @@ Obtienes una dote de druida de 1.er o de 2.º nivel.
 
 ### Conjuro de orden - Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicacion de druida
 
@@ -63,7 +63,7 @@ Obtienes el conjuro de orden inicial de tu orden. Este es un conjuro de foco, qu
 
 ### Salvajismo avanzado - Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Salvajismo basico
 
@@ -75,7 +75,7 @@ Obtienes una dote de druida. A efectos de cumplir con sus prerrequisitos, tu niv
 
 ### Abundancia primigenia - Dote 8
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de druida
 
@@ -85,7 +85,7 @@ Incrementa los espacios de conjuro que obtienes debido a las dotes de arquetipo 
 
 ### Lanzamiento de conjuros experto de druida - Dote 12
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros basico de druida, rango maestro en Naturaleza
 
@@ -95,7 +95,7 @@ Obtienes los beneficios de lanzamiento de conjuros experto.
 
 ### Lanzamiento de conjuros maestro de druida - Dote 18
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Lanzamiento de conjuros experto de druida, rango legendario en Naturaleza
 

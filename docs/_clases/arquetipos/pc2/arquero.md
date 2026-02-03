@@ -17,7 +17,7 @@ Los arcos de todo tipo son armas poderosas. Tanto generales como cazadores recon
 
 ### Dedicación de Arquero · Dote 2
 
-**Rasgos:** Arquetipo, Dedicación
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Dedicación</span></div>
 
 Tienes familiaridad con todas las armas de los grupos de arco y ballesta. A efectos de competencia, trata cualquiera de estas que sean armas marciales como armas simples y cualquiera que sean armas avanzadas como armas marciales.
 
@@ -25,7 +25,7 @@ Si eres al menos experto con el arco o la ballesta que estás usando, obtienes e
 
 ### Disparo rápido · {% include accion.html tipo="1" %} · Dote 4
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero
 
@@ -33,7 +33,7 @@ Desenvainas tu arco y atacas con la misma acción. Interactúas para desenvainar
 
 ### Terror de ballesta · {% include accion.html tipo="1" %} · Dote 6
 
-**Rasgos:** Arquetipo
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero
 
@@ -41,7 +41,7 @@ Tu pericia con la ballesta infunde terror en tus oponentes cuando los amenazas c
 
 ### Puntería del arquero · {% include accion.html tipo="2" %} · Dote 8
 
-**Rasgos:** Arquetipo, Concentrar
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Concentrar</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero
 
@@ -49,7 +49,7 @@ Te detienes, te concentras y realizas un disparo cuidadoso. Realiza un Golpe a d
 
 ### Disparo despejado · {% include accion.html tipo="2" %} · Dote 10
 
-**Rasgos:** Arquetipo, Florecimiento
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Arquetipo</span><span class="feat-trait">Florecimiento</span></div>
 
 **Prerrequisitos:** Dedicación de Arquero, experto en Atletismo
 

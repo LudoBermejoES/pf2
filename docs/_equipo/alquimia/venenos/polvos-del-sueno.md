@@ -11,7 +11,7 @@ item_level: "4"
 
 **Nivel** 4; **Precio** 19 mo
 
-**Rasgos:** Alquímico, Consumible, Inhalado, Veneno, Sueño
+<div class="feat-traits-header" markdown="0"><span class="feat-trait">Alquímico</span><span class="feat-trait">Consumible</span><span class="feat-trait">Inhalado</span><span class="feat-trait">Veneno</span><span class="feat-trait">Sueño</span></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 
