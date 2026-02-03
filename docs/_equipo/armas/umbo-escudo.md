@@ -8,4 +8,20 @@ nav_order: 86
 source: PC1
 ---
 
+**Precio** 5 pp
+
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/fijada/" class="feat-trait">Fijado al escudo</a></div>
+
+---
+
+**Daño** 1d6 Con; **Manos** 1; **Grupo** Escudos; **Categoría** Arma cuerpo a cuerpo marcial
+
+---
+
 Típicamente una pieza redonda, convexa o cónica de grueso metal fijada en el centro del escudo, un umbo incrementa el daño contundente de un golpe con el escudo.
+
+---
+
+## Ver también
+
+- [Lista de armas](/equipo/armas/)
