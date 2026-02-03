@@ -7,6 +7,8 @@ category: equipo
 nav_order: 27
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/daga-guardamano.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 5 po
 

@@ -7,6 +7,8 @@ category: equipo
 nav_order: 17
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/boleadoras.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 1 pp
 

@@ -7,6 +7,8 @@ category: equipo
 nav_order: 11
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/ballesta-pesada.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 4 po
 

@@ -7,6 +7,8 @@ category: equipo
 nav_order: 23
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/clava.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 0
 

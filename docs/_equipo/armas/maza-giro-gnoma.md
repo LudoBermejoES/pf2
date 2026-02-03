@@ -7,6 +7,8 @@ category: equipo
 nav_order: 69
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/maza-giro-gnoma.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 3 po
 

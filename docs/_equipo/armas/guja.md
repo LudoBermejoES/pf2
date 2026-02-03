@@ -7,6 +7,8 @@ category: equipo
 nav_order: 45
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/guja.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 1 po
 

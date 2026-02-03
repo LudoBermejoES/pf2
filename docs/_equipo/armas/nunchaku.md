@@ -7,6 +7,8 @@ category: equipo
 nav_order: 72
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/nunchaku.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 2 pp
 

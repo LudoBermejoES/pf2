@@ -45,7 +45,7 @@ BODY_FONT_SIZE = 20
 TRAIT_FONT_SIZE = 15
 LABEL_FONT_SIZE = 18
 SMALL_FONT_SIZE = 16
-TRAIT_DESC_FONT_SIZE = 16
+TRAIT_DESC_FONT_SIZE = 20  # Increased +4
 
 # Paths
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -132,7 +132,7 @@ def draw_title(draw, title, y, max_width):
     x = (CARD_WIDTH - text_width) // 2
     draw.text((x, y), title, fill=COLOR_TITLE, font=font)
 
-    return bbox[3] - bbox[1] + 6
+    return bbox[3] - bbox[1] + 17  # More margin after title (+5px)
 
 
 def draw_separator(draw, y):
@@ -140,7 +140,7 @@ def draw_separator(draw, y):
     x1 = SAFE_ZONE + BORDER_WIDTH + 5
     x2 = CARD_WIDTH - SAFE_ZONE - BORDER_WIDTH - 5
     draw.line([(x1, y), (x2, y)], fill=COLOR_SEPARATOR, width=1)
-    return 4
+    return 8  # More margin after separator
 
 
 def draw_traits(draw, traits, y):
@@ -225,10 +225,16 @@ def draw_traits(draw, traits, y):
 
 
 def draw_stat_box(draw, weapon_data, y):
-    """Draw the stats box with weapon stats"""
+    """Draw the stats box with weapon stats - improved layout"""
     x = SAFE_ZONE + BORDER_WIDTH + 5
     width = CARD_WIDTH - (2 * SAFE_ZONE) - (2 * BORDER_WIDTH) - 10
-    box_height = 70
+    padding = 10
+    row_height = 26
+
+    # Determine number of rows needed
+    is_ranged = weapon_data.get('isRanged')
+    num_rows = 3 if is_ranged else 2
+    box_height = padding * 2 + (num_rows * row_height)
 
     # Draw background box
     draw.rounded_rectangle(
@@ -241,66 +247,57 @@ def draw_stat_box(draw, weapon_data, y):
 
     # Fonts
     label_font = get_font(LABEL_FONT_SIZE, bold=True, display=True)
-    value_font = get_font(BODY_FONT_SIZE - 2)
+    value_font = get_font(BODY_FONT_SIZE - 1)
 
-    padding = 8
     current_y = y + padding
 
-    # First row: Price and Damage
+    # Helper to draw label:value pair with proper spacing
+    def draw_stat(sx, sy, label, value, spacing=12):
+        draw.text((sx, sy), label, fill=COLOR_LABEL, font=label_font)
+        bbox = draw.textbbox((0, 0), label, font=label_font)
+        label_width = bbox[2] - bbox[0]
+        draw.text((sx + label_width + spacing, sy), value, fill=COLOR_TEXT, font=value_font)
+
+    # Row 1: Precio | Daño
     price = weapon_data.get('price', '—')
     damage = weapon_data.get('damage', '—')
 
-    draw.text((x + padding, current_y), "Precio:", fill=COLOR_LABEL, font=label_font)
-    draw.text((x + padding + 70, current_y), price, fill=COLOR_TEXT, font=value_font)
+    col1_x = x + padding
+    col2_x = x + width // 2 + 20
 
-    draw.text((x + width // 2, current_y), "Daño:", fill=COLOR_LABEL, font=label_font)
-    draw.text((x + width // 2 + 60, current_y), damage, fill=COLOR_TEXT, font=value_font)
+    draw_stat(col1_x, current_y, "Precio:", price, 12)
+    draw_stat(col2_x, current_y, "Daño:", damage, 12)
 
-    current_y += LINE_HEIGHT
+    current_y += row_height
 
-    # Second row: Hands, Bulk, Group
+    # Row 2: Manos | Imp. | Grupo
     hands = weapon_data.get('hands', '—')
     bulk = weapon_data.get('bulk', '—')
     group = weapon_data.get('group', '—')
 
-    draw.text((x + padding, current_y), "Manos:", fill=COLOR_LABEL, font=label_font)
-    draw.text((x + padding + 65, current_y), hands, fill=COLOR_TEXT, font=value_font)
-
-    draw.text((x + width // 3, current_y), "Imp.:", fill=COLOR_LABEL, font=label_font)
-    draw.text((x + width // 3 + 45, current_y), bulk, fill=COLOR_TEXT, font=value_font)
-
-    draw.text((x + 2 * width // 3, current_y), "Grupo:", fill=COLOR_LABEL, font=label_font)
     # Truncate group if too long
-    if len(group) > 12:
-        group = group[:11] + "."
-    draw.text((x + 2 * width // 3 + 60, current_y), group, fill=COLOR_TEXT, font=value_font)
+    if len(group) > 10:
+        group = group[:9] + "…"
 
-    current_y += LINE_HEIGHT
+    col3_x = x + 2 * width // 3
 
-    # Third row (if ranged): Range and Reload
-    if weapon_data.get('isRanged'):
+    draw_stat(col1_x, current_y, "Manos:", hands, 12)
+    draw_stat(col2_x - 50, current_y, "Imp.:", bulk, 12)
+    draw_stat(col3_x, current_y, "Grupo:", group, 12)
+
+    current_y += row_height
+
+    # Row 3 (if ranged): Rango | Recarga
+    if is_ranged:
         range_val = weapon_data.get('range', '—')
         reload_val = weapon_data.get('reload', '—')
 
-        draw.text((x + padding, current_y), "Rango:", fill=COLOR_LABEL, font=label_font)
-        # Truncate range if too long
-        if len(range_val) > 15:
+        # Simplify range display
+        if '(' in range_val:
             range_val = range_val.split('(')[0].strip()
-        draw.text((x + padding + 65, current_y), range_val, fill=COLOR_TEXT, font=value_font)
 
-        draw.text((x + width // 2, current_y), "Recarga:", fill=COLOR_LABEL, font=label_font)
-        draw.text((x + width // 2 + 75, current_y), reload_val, fill=COLOR_TEXT, font=value_font)
-
-        box_height = 95
-        # Redraw box with new height
-        draw.rounded_rectangle(
-            [(x, y), (x + width, y + box_height)],
-            radius=5,
-            fill=COLOR_STAT_BG,
-            outline=COLOR_BORDER,
-            width=1
-        )
-        # Redraw all text (simplified - in production would optimize)
+        draw_stat(col1_x, current_y, "Rango:", range_val, 60)
+        draw_stat(col2_x, current_y, "Recarga:", reload_val, 75)
 
     return box_height + 6
 
@@ -334,40 +331,69 @@ def draw_description(draw, text, y, max_width, font_size=None):
     return total_height + 4
 
 
-def draw_trait_descriptions(draw, trait_descriptions, y, max_width):
-    """Draw trait descriptions section"""
+def draw_trait_descriptions(draw, trait_descriptions, y, max_width, remaining_space):
+    """Draw trait descriptions section - compact inline format"""
     if not trait_descriptions:
         return 0
 
     x = SAFE_ZONE + BORDER_WIDTH + 5
     width = CARD_WIDTH - (2 * SAFE_ZONE) - (2 * BORDER_WIDTH) - 10
+    padding = 10
 
-    # Calculate total height needed
-    font = get_font(TRAIT_DESC_FONT_SIZE)
-    label_font = get_font(TRAIT_DESC_FONT_SIZE, bold=True, display=True)
+    # Font size increased by 4 points (was 14, now 18)
+    font_size = TRAIT_DESC_FONT_SIZE  # Uses the constant (20)
+    font = get_font(font_size)
+    name_font = get_font(font_size, bold=True, display=True)
 
-    test_text = "abcdefghijklmnopqrst"
+    # Calculate available chars per line
+    test_text = "abcdefghijklmnopqrstuvwxyz"
     bbox = draw.textbbox((0, 0), test_text, font=font)
     avg_char_width = (bbox[2] - bbox[0]) / len(test_text)
-    chars_per_line = int((width - 20) / avg_char_width)
+    chars_per_line = int((width - padding * 2 - 10) / avg_char_width)
 
-    total_height = 8  # Initial padding
-    trait_data = []
+    line_height = 22  # Increased for larger font
 
+    # Build trait lines - format: "• Name: description..."
+    trait_lines = []
     for trait in trait_descriptions:
         name = trait['name']
         desc = trait['description']
 
-        # Truncate long descriptions
-        if len(desc) > 150:
-            desc = desc[:147] + "..."
+        # Clean up name (remove values like "Versátil Per" -> "Versátil")
+        base_name = name.split()[0] if ' ' in name else name
 
-        wrapped = textwrap.wrap(desc, width=chars_per_line)
-        lines_height = len(wrapped) * (LINE_HEIGHT - 6)
-        trait_data.append((name, wrapped, lines_height))
-        total_height += LINE_HEIGHT - 4 + lines_height + 4
+        # Truncate description based on available space
+        max_desc_len = 80 if remaining_space > 300 else 50
+        if len(desc) > max_desc_len:
+            desc = desc[:max_desc_len-3].rsplit(' ', 1)[0] + "…"
 
-    total_height += 4  # Final padding
+        # Format as single line or wrapped
+        full_text = f"{base_name}: {desc}"
+        wrapped = textwrap.wrap(full_text, width=chars_per_line)
+
+        # Limit to 2 lines per trait max
+        if len(wrapped) > 2:
+            wrapped = wrapped[:2]
+            if not wrapped[-1].endswith('…'):
+                wrapped[-1] = wrapped[-1][:-3] + "…"
+
+        trait_lines.append(wrapped)
+
+    # Calculate total height
+    total_lines = sum(len(lines) for lines in trait_lines)
+    total_height = padding * 2 + total_lines * line_height + (len(trait_lines) - 1) * 4
+
+    # Check if it fits
+    if total_height > remaining_space - 10:
+        # Reduce further - one line per trait
+        trait_lines = []
+        for trait in trait_descriptions[:3]:  # Max 3 traits
+            name = trait['name'].split()[0]
+            desc = trait['description'][:40]
+            if len(trait['description']) > 40:
+                desc = desc.rsplit(' ', 1)[0] + "…"
+            trait_lines.append([f"{name}: {desc}"])
+        total_height = padding * 2 + len(trait_lines) * line_height
 
     # Draw background
     draw.rounded_rectangle(
@@ -378,25 +404,32 @@ def draw_trait_descriptions(draw, trait_descriptions, y, max_width):
         width=1
     )
 
-    # Draw header
-    current_y = y + 6
-    header_font = get_font(LABEL_FONT_SIZE, bold=True, display=True)
-    draw.text((x + 8, current_y), "Rasgos:", fill=COLOR_LABEL, font=header_font)
-    current_y += LINE_HEIGHT
+    # Draw traits
+    current_y = y + padding
+    for i, wrapped_lines in enumerate(trait_lines):
+        for j, line in enumerate(wrapped_lines):
+            text_x = x + padding
+            if j == 0:
+                # First line - draw bullet
+                draw.text((text_x, current_y), "•", fill=COLOR_LABEL, font=name_font)
+                text_x += 12
 
-    # Draw each trait description
-    line_height = LINE_HEIGHT - 6
-    for name, wrapped_lines, _ in trait_data:
-        # Draw trait name
-        draw.text((x + 8, current_y), f"• {name}:", fill=COLOR_LABEL, font=label_font)
-        current_y += line_height + 2
+                # Draw name part in bold, rest in normal
+                if ':' in line:
+                    name_part, rest = line.split(':', 1)
+                    draw.text((text_x, current_y), name_part + ":", fill=COLOR_LABEL, font=name_font)
+                    name_bbox = draw.textbbox((0, 0), name_part + ":", font=name_font)
+                    name_width = name_bbox[2] - name_bbox[0]
+                    draw.text((text_x + name_width + 4, current_y), rest.strip(), fill=COLOR_TEXT, font=font)
+                else:
+                    draw.text((text_x, current_y), line, fill=COLOR_TEXT, font=font)
+            else:
+                # Continuation line - indent
+                draw.text((text_x + 12, current_y), line, fill=COLOR_TEXT, font=font)
 
-        # Draw description lines
-        for line in wrapped_lines:
-            draw.text((x + 16, current_y), line, fill=COLOR_TEXT, font=font)
             current_y += line_height
 
-        current_y += 2
+        current_y += 2  # Small gap between traits
 
     return total_height + 4
 
@@ -464,10 +497,10 @@ def generate_weapon_card(weapon_data, output_path):
     # Draw trait descriptions
     trait_descriptions = weapon_data.get('trait_descriptions', [])
     remaining_space = CARD_HEIGHT - current_y - SAFE_ZONE - 10
-    if trait_descriptions and remaining_space > 80:
+    if trait_descriptions and remaining_space > 60:
         current_y += draw_separator(draw, current_y)
         current_y += 2
-        draw_trait_descriptions(draw, trait_descriptions, current_y, content_width)
+        draw_trait_descriptions(draw, trait_descriptions, current_y, content_width, remaining_space)
 
     # Convert to RGB and save
     rgb_card = Image.new('RGB', card.size, (255, 255, 255))

@@ -7,6 +7,8 @@ category: equipo
 nav_order: 60
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/latigo.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 1 pp
 

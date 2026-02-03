@@ -7,6 +7,8 @@ category: equipo
 nav_order: 7
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/arco-largo-compuesto.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 20 po
 

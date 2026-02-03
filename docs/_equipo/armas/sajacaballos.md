@@ -7,6 +7,8 @@ category: equipo
 nav_order: 82
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/sajacaballos.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 9 pp
 

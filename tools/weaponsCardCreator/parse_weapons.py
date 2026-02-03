@@ -154,7 +154,16 @@ def extract_description(content):
                 continue
             # This should be the description
             if not text.startswith('#') and not text.startswith('**'):
-                return text
+                # Remove any markdown tables (lines starting with |)
+                lines = text.split('\n')
+                clean_lines = []
+                for line in lines:
+                    # Stop at tables or empty lines followed by tables
+                    if line.strip().startswith('|'):
+                        break
+                    clean_lines.append(line)
+
+                return '\n'.join(clean_lines).strip()
 
     return None
 

@@ -6,6 +6,8 @@ chapter: Equipo
 category: equipo
 source: PC2
 ---
+<img src="{{ '/assets/images/armas/azuela.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 1 mo
 

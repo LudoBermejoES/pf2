@@ -7,6 +7,8 @@ category: equipo
 nav_order: 40
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/gran-hacha.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 2 po
 

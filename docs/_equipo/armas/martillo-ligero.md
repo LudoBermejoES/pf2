@@ -7,6 +7,8 @@ category: equipo
 nav_order: 66
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/martillo-ligero.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 3 pp
 

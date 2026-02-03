@@ -7,6 +7,8 @@ category: equipo
 nav_order: 32
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/espada-corta.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 9 pp
 

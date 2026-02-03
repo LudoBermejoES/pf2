@@ -7,6 +7,8 @@ category: equipo
 nav_order: 33
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/espada-curva-elfa.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 4 po
 

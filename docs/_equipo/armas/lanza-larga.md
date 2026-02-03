@@ -7,6 +7,8 @@ category: equipo
 nav_order: 59
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/lanza-larga.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 5 pp
 

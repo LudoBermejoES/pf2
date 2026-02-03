@@ -7,6 +7,8 @@ category: equipo
 nav_order: 14
 source: PC1
 ---
+<img src="{{ '/assets/images/armas/baston-estoque.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
+
 
 **Precio** 5 po
 
