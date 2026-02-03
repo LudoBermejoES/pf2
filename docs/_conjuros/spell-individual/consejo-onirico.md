@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 8
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/consejo-onirico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Consejo onírico [8]
 
 **Tradiciones:** arcana, ocultista

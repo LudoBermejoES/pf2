@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/forma-de-monstruosidad.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Forma de Monstruosidad {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, primigenia
@@ -28,12 +30,12 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 - Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +28, y utilizas el dano indicado. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
 - Un modificador +30 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
-Obtienes aptitudes especificas basadas en el monstruo elegido:
+### Formas de monstruosidad
 
-**Fenix** Velocidad 30 pies (9 m), volar 90 pies (27 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} pico (alcance 15 pies [4,5 m]), Dano 2d6+12 perforante mas 2d4 fuego y 2d4 fuego persistente; Cuerpo a cuerpo {% include accion.html tipo="1" %} garra (agil, alcance 15 pies [4,5 m]), Dano 2d8+12 cortante; **Sudario de llamas** (aura, fuego, primigenio) 20 pies (6 m). Obtienes una aura de fuego que se extiende desde ti. Toda criatura que entra o acaba su turno en el interior del aura sufre 2d6 dano por fuego. Una criatura solo puede sufrir este dano una vez por turno. Puedes activar o desactivar esta aura mediante una acción de Mantener.
-
-**Gusano de las cavernas** Velocidad 40 pies (12 m), excavar 30 pies (9 m), nadar 20 pies (6 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas (alcance 10 pies [3 m]), Dano 2d12+20 perforante; Cuerpo a cuerpo {% include accion.html tipo="1" %} aguijon (agil, alcance 10 pies [3 m]), Dano 2d8+15 perforante +2d6 persistente veneno; Cuerpo a cuerpo {% include accion.html tipo="1" %} cuerpo (alcance 10 pies [3 m]), Dano 2d8+20 contundente; **Inexorable** Te recuperas automaticamente de los estados paralizado, lentificado y aturdido al final de cada uno de tus turnos. Tambien eres inmune a quedar inmovilizado e ignoras el terreno difícil y el terreno difícil mayor.
-
-**Serpiente marina** Velocidad 20 pies (6 m), nadar 90 pies (27 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas (alcance 15 pies [4,5 m]), Dano 2d12+20 perforante; Cuerpo a cuerpo {% include accion.html tipo="1" %} cola (alcance 25 pies [7,5 m]), Dano 2d8+20 contundente; **Barrido con la espina** {% include accion.html tipo="2" %} (movimiento) Extiendes tus espinas y Nadas o das una Zancada. Cada criatura a la que estas adyacente en cualquier punto durante tu movimiento sufre 4d8+10 dano cortante (salvación basica de Reflejos contra tu CD de conjuros).
+| Forma | Velocidad | Ataques | Especial |
+|-------|-----------|---------|----------|
+| Fenix | 30 pies, volar 90 pies | Pico (alcance 15 pies) 2d6+12 Per +2d4 fuego +2d4 fuego persistente; garra (agil, alcance 15 pies) 2d8+12 Cor | **Sudario de llamas** (aura 20 pies): 2d6 fuego a criaturas que entran o acaban turno. Activar/desactivar con Mantener |
+| Gusano de las cavernas | 40 pies, excavar 30 pies, nadar 20 pies | Mandibulas (alcance 10 pies) 2d12+20 Per; aguijon (agil, alcance 10 pies) 2d8+15 Per +2d6 veneno; cuerpo (alcance 10 pies) 2d8+20 Con | **Inexorable**: Recuperas de paralizado, lentificado, aturdido al final del turno. Inmune a inmovilizado, ignora terreno dificil |
+| Serpiente marina | 20 pies, nadar 90 pies | Mandibulas (alcance 15 pies) 2d12+20 Per; cola (alcance 25 pies) 2d8+20 Con | **Barrido con la espina** (2 acciones): Nada o Zancada, criaturas adyacentes sufren 4d8+10 Cor (Reflejos basica) |
 
 **Potenciado (9.o)** En lugar de lo indicado obtienes CA = 22 + tu nivel, 25 PG temporales, modificador al ataque +31, incrementas el dano en un dado de dano y Atletismo +33.

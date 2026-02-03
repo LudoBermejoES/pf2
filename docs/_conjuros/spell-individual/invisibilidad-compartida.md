@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/invisibilidad-compartida.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Invisibilidad compartida {% include accion.html tipo="2" %} [3]
 
 **Tradiciones:** arcana, ocultista

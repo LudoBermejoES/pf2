@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/metamorfosis-maldita.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Metamorfosis Maldita {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** arcana, ocultista, primigenia

@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/crear-comida.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Crear Comida [CONJURO 2]
 
 **Tradiciones:** arcana, divina, primigenia

@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/forma-de-planta.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Forma de Planta {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** primigenia
@@ -31,10 +33,11 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 - Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +17 y tu bonificador al dano es +11. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
 - Un modificador +19 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
-Obtienes aptitudes especificas basadas en la planta elegida:
+### Formas de planta
 
-**Arboral** Velocidad 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} rama (alcance 15 pies [4,5 m]), Dano 2d10 contundente; Cuerpo a cuerpo {% include accion.html tipo="1" %} pie, Dano 2d8 contundente; en esta forma puedes hablar.
-
-**Atrapamoscas** Velocidad 15 pies (4,5 m); resistencia 10 al acido; Cuerpo a cuerpo {% include accion.html tipo="1" %} hoja (alcance 10 pies [3 m]), Dano 2d8 perforante, y puedes invertir una acción después de un impacto para Agarrar al objetivo.
+| Forma | Velocidad | Resistencia | Ataques | Especial |
+|-------|-----------|-------------|---------|----------|
+| Arboral | 30 pies | - | Rama (alcance 15 pies) 2d10 Con; pie 2d8 Con | Puedes hablar |
+| Atrapamoscas | 15 pies | Acido 10 | Hoja (alcance 10 pies) 2d8 Per | Tras impacto puedes gastar 1 accion para Agarrar |
 
 **Potenciado (6.o)** Tu forma de batalla es Enorme y el alcance de tus ataques se incrementa en 5 pies (1,5 m). En lugar de lo indicado obtienes CA = 22 + tu nivel, 24 PG temporales, modificador al ataque +21, bonificador al dano +16 y Atletismo +22.

@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/verdad-inventada.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Verdad Inventada {% include accion.html tipo="3" %} [CONJURO 10]
 
 **Tradiciones:** ocultista

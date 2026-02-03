@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/infestacion-fungica.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Infestación fúngica {% include accion.html tipo="2" %} [2]
 
 **Tradiciones:** primigenia

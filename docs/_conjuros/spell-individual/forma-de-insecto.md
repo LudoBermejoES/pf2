@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/forma-de-insecto.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Forma de Insecto {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia
@@ -28,19 +30,16 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 - Uno o mas ataques específicos a la forma de batalla que eliges, que son los unicos con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +13 y tu bonificador al dano es +2. Estos ataques estan basados en la Fuerza (a efectos del estado debilitado). Si tu modificador al ataque sin armas es mayor, puedes usarlo en lugar de este.
 - Un modificador +13 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
-Obtienes aptitudes especificas basadas en la forma elegida:
+### Formas de insecto
 
-**Arana** Velocidad 25 pies (7,5 m), trepar 25 pies (7,5 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} colmillos, Dano 1d6 perforante mas 1d4 persistente veneno; A distancia {% include accion.html tipo="1" %} telarana (incremento de rango de distancia 20 pies [6 m]), Dano enmarana al objetivo durante 1 asalto.
-
-**Ciempies** Velocidad 25 pies (7,5 m), trepar 25 pies (7,5 m); vision en la oscuridad; Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 1d8 perforante mas 1d4 persistente veneno.
-
-**Escarabajo** Velocidad 25 pies (7,5 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d10 contundente.
-
-**Escorpion** Velocidad 40 pies (12 m), vision en la oscuridad, sentido de la vibración impreciso 60 pies (18 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} aguijon, Dano 1d8 perforante mas 1d4 persistente veneno; Cuerpo a cuerpo {% include accion.html tipo="1" %} pinza (agil), Dano 1d6 contundente.
-
-**Hormiga** Velocidad 30 pies (9 m), trepar 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d6 contundente.
-
-**Mantis** Velocidad 40 pies (12 m); olfato impreciso 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} pata delantera, Dano 2d8 perforante.
+| Forma | Velocidad | Sentidos | Ataques |
+|-------|-----------|----------|---------|
+| Arana | 25 pies, trepar 25 pies | - | Colmillos 1d6 Per +1d4 veneno; telarana (distancia 20 pies) enmarana 1 asalto |
+| Ciempies | 25 pies, trepar 25 pies | Vision en la oscuridad | Mandibulas 1d8 Per +1d4 veneno |
+| Escarabajo | 25 pies | - | Mandibulas 2d10 Con |
+| Escorpion | 40 pies | Vision oscuridad, vibracion 60 pies | Aguijon 1d8 Per +1d4 veneno; pinza (agil) 1d6 Con |
+| Hormiga | 30 pies, trepar 30 pies | - | Mandibulas 2d6 Con |
+| Mantis | 40 pies | Olfato impreciso 30 pies | Pata delantera 2d8 Per |
 
 **Potenciado (4.o)** Tu forma de batalla es Grande y tus ataques tienen un alcance de 10 pies (3 m). En lugar de lo indicado obtienes 15 PG temporales, modificador al ataque +16, bonificador al dano +6 y Atletismo +16.
 

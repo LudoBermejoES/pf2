@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/dejà-vu.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Déjà Vu {% include accion.html tipo="2" %} [1]
 
 **Tradiciones:** arcana, ocultista

@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/ambicion-apagada.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Ambición apagada {% include accion.html tipo="2" %} [4]
 
 **Tradiciones:** arcana, divina, ocultista

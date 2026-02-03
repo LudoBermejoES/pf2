@@ -1,0 +1,13 @@
+# Generated files
+generated_cards/
+data/spells.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/

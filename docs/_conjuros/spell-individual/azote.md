@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/azote.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Azote {% include accion.html tipo="2" %} [DOTE 1]
 
 **Tradiciones:** divina, ocultista

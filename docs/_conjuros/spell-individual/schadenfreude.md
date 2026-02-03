@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/schadenfreude.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Schadenfreude {% include accion.html tipo="libre" %} [1]
 
 **Tradiciones:** arcana, divina, ocultista

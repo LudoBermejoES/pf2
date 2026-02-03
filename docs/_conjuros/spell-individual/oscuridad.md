@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/oscuridad.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Oscuridad {% include accion.html tipo="3" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia

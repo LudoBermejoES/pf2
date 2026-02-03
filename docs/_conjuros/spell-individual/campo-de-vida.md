@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/campo-de-vida.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Campo de Vida {% include accion.html tipo="2" %} [CONJURO 6]
 
 **Tradiciones:** divina, primigenia

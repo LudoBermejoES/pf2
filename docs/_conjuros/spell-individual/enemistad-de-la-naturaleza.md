@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 9
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/enemistad-de-la-naturaleza.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Enemistad de la naturaleza {% include accion.html tipo="2" %} [9]
 
 **Tradiciones:** primigenia

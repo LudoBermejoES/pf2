@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 9
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/detonar-magia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Detonar Magia {% include accion.html tipo="2" %} [CONJURO 9]
 
 **Tradiciones:** arcana, primigenia

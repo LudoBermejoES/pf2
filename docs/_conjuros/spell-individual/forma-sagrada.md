@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 6
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/forma-sagrada.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Forma sagrada {% include accion.html tipo="2" %} [6]
 
 **Tradiciones:** divina

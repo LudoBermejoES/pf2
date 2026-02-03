@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/mascara-del-terror.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Mascara del Terror {% include accion.html tipo="2" %} [CONJURO 7]
 
 **Tradiciones:** arcana, ocultista, primigenia

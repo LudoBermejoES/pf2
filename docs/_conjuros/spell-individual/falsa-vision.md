@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/falsa-vision.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Falsa Vision [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista

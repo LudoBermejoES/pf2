@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 9
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/arma-del-juicio.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Arma del juicio {% include accion.html tipo="2" %} [9]
 
 **Tradiciones:** divina

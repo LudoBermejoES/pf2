@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/forma-animal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Forma Animal {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** primigenia
@@ -28,25 +30,19 @@ Obtienes aptitudes especificas basadas en el animal elegido:
 - Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +9 y tu bonificador al dano es +1. Dichos ataques estan basados en la Fuerza (por ejemplo, a efectos del estado debilitado). Si tu bonificador al ataque sin armas es mayor, puedes utilizarlo en su lugar.
 - Un modificador +9 a las pruebas de Atletismo, a menos que el tuyo propio sea superior.
 
-Obtienes tambien aptitudes especificas basadas en el animal elegido:
+### Formas de animal
 
-**Canido** Velocidad 40 pies (12 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d8 perforante.
-
-**Ciervo** Velocidad 50 pies (15 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} asta, Dano 2d6 perforante.
-
-**Felino** Velocidad 40 pies (12 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d6 perforante; Cuerpo a cuerpo {% include accion.html tipo="1" %} zarpa (agil), Dano 1d10 cortante.
-
-**Oso** Velocidad 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d8 perforante; Cuerpo a cuerpo {% include accion.html tipo="1" %} garra (agil), Dano 1d8 cortante.
-
-**Rana** Velocidad 25 pies (7,5 m), nadar 25 pies (7,5 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d6 contundente; Cuerpo a cuerpo {% include accion.html tipo="1" %} lengua (alcance 15 pies [4,5 m]), Dano 2d4 contundente.
-
-**Serpiente** Velocidad 20 pies (6 m), trepar 20 pies (6 m), nadar 20 pies (6 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} colmillos, Dano 2d4 perforante +1d6 veneno.
-
-**Simio** Velocidad 25 pies (7,5 m), trepar 20 pies (6 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} puno, Dano 2d6 contundente.
-
-**Tiburon** nadar 35 pies (10,5 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} mandibulas, Dano 2d8 perforante; respira bajo el agua pero no en el aire.
-
-**Toro** Velocidad 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} cuerno, Dano 2d8 perforante.
+| Forma | Velocidad | Ataques |
+|-------|-----------|---------|
+| Canido | 40 pies (12 m) | Mandibulas 2d8 Per |
+| Ciervo | 50 pies (15 m) | Asta 2d6 Per |
+| Felino | 40 pies (12 m) | Mandibulas 2d6 Per; zarpa (agil) 1d10 Cor |
+| Oso | 30 pies (9 m) | Mandibulas 2d8 Per; garra (agil) 1d8 Cor |
+| Rana | 25 pies, nadar 25 pies | Mandibulas 2d6 Con; lengua (alcance 15 pies) 2d4 Con |
+| Serpiente | 20 pies, trepar 20 pies, nadar 20 pies | Colmillos 2d4 Per +1d6 veneno |
+| Simio | 25 pies, trepar 20 pies | Puno 2d6 Con |
+| Tiburon | nadar 35 pies | Mandibulas 2d8 Per; respira bajo el agua pero no en el aire |
+| Toro | 30 pies (9 m) | Cuerno 2d8 Per |
 
 **Potenciado (3.o)** En lugar de lo indicado obtienes 10 PG temporales, CA = 17 + tu nivel, modificador al ataque +14, bonificador al dano +5 y Atletismo +14.
 

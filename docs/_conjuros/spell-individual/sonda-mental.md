@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/sonda-mental.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Sonda Mental [CONJURO 5]
 
 **Tradiciones:** arcana, ocultista

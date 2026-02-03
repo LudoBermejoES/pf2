@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/mensaje-onirico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Mensaje Onirico [CONJURO 3]
 
 **Tradiciones:** arcana, divina, ocultista

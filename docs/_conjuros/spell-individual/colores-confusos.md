@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 8
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/colores-confusos.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Colores confusos {% include accion.html tipo="2" %} [8]
 
 **Tradiciones:** arcana, ocultista

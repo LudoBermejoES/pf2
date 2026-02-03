@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/estatus.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Estatus {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** divina, ocultista, primigenia

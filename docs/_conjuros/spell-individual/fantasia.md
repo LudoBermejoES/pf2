@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/fantasia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Fantasia {% include accion.html tipo="2" %} [TRUCO 1]
 
 **Tradiciones:** arcana, ocultista

@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/convocar-hada.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Convocar Hada {% include accion.html tipo="3" %} [CONJURO 1]
 
 **Tradiciones:** ocultista, primigenia

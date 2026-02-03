@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/frenesi-lunar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Frenesi Lunar {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** primigenia

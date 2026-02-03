@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/confusion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Confusion {% include accion.html tipo="2" %} [CONJURO 4]
 
 **Tradiciones:** arcana, ocultista

@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/carga-de-la-hormiga.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Carga de la Hormiga {% include accion.html tipo="2" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia

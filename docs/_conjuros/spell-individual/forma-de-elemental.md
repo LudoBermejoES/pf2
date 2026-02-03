@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/forma-de-elemental.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Forma de Elemental {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
@@ -28,19 +30,16 @@ Obtienes las siguientes estadísticas y aptitudes, sin importar que forma de bat
 - Uno o mas ataques cuerpo a cuerpo sin armas específicos de la forma de batalla elegida, que son los unicos ataques con los que puedes dar Golpes. Obtienes el rango entrenado en ellos. Tu modificador al ataque es +18 y tu bonificador al dano es +9. Son ataques basados en la Destreza (aire, fuego o metal) o en la Fuerza (agua, madera o tierra). Si tu modificador por ataque sin armas correspondiente es mayor, puedes usarlo en su lugar.
 - Acrobacias (aire, fuego o metal) o Atletismo (agua, madera o tierra), modificador +20; ignora este cambio si tu propio modificador es mas grande.
 
-Obtienes aptitudes especificas basadas en el elemento elegido:
+### Formas elementales
 
-**Agua** Velocidad 20 pies (6 m), nadar 60 pies (18 m); resistencia al fuego 5; Cuerpo a cuerpo {% include accion.html tipo="1" %} ola, Dano 1d12 contundente y después de un impacto puedes invertir de inmediato una acción para empujar 5 pies (1,5 m) al objetivo con los efectos de un Empujón con éxito.
-
-**Aire** volar 80 pies (24 m), tu movimiento no desencadena reacciones; Cuerpo a cuerpo {% include accion.html tipo="1" %} rafaga, Dano 1d4 contundente.
-
-**Fuego** Velocidad 50 pies (15 m); resistencia al fuego 10, debilidad 5 al frio y 5 al agua; Cuerpo a cuerpo {% include accion.html tipo="1" %} zarcillo, Dano 1d8 fuego mas 1d4 persistente por fuego.
-
-**Madera** Velocidad 20 pies (6 m), trepar 30 pies (9 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} rama, Dano 2d10 contundente.
-
-**Metal** Velocidad 40 pies (12 m), volar 20 pies (6 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} cuchilla (versatil Per), Dano 1d8 cortante mas 1d4 electricidad.
-
-**Tierra** Velocidad 20 pies (6 m), excavar 20 pies (6 m); Cuerpo a cuerpo {% include accion.html tipo="1" %} pedrusco, Dano 2d10 contundente.
+| Elemento | Velocidad | Resistencia/Debilidad | Ataques | Especial |
+|----------|-----------|----------------------|---------|----------|
+| Agua | 20 pies, nadar 60 pies | Resistencia fuego 5 | Ola 1d12 Con | Empujar 5 pies tras impacto |
+| Aire | volar 80 pies | - | Rafaga 1d4 Con | Movimiento no provoca reacciones |
+| Fuego | 50 pies | Resist fuego 10; debil frio 5, agua 5 | Zarcillo 1d8 fuego +1d4 persistente | - |
+| Madera | 20 pies, trepar 30 pies | - | Rama 2d10 Con | - |
+| Metal | 40 pies, volar 20 pies | - | Cuchilla (versatil Per) 1d8 Cor +1d4 elec | - |
+| Tierra | 20 pies, excavar 20 pies | - | Pedrusco 2d10 Con | - |
 
 **Potenciado (6.o)** Tu forma de batalla es Grande y tus ataques tienen un alcance de 10 pies (3 m). En lugar de lo indicado obtienes CA = 22 + tu nivel, 15 PG temporales, un modificador al ataque de +23, un bonificador al dano de +3 y Acrobacias o Atletismo +23.
 

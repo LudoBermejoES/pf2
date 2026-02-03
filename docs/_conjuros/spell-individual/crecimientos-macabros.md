@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/crecimientos-macabros.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Crecimientos macabros {% include accion.html tipo="2" %} [5]
 
 **Tradiciones:** arcana, primigenia

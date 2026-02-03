@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/vision-animal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Visión animal [3]
 
 **Tradiciones:** primigenia

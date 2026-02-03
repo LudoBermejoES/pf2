@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/naturaleza-encarnada.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Naturaleza Encarnada {% include accion.html tipo="2" %} [CONJURO 10]
 
 **Tradiciones:** primigenia

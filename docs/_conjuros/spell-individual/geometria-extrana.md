@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/geometria-extrana.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Geometría extraña {% include accion.html tipo="3" %} [5]
 
 **Tradiciones:** ocultista

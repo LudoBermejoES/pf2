@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/coro-concordante.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Coro concordante {% include accion.html tipo="3" %} [1]
 
 **Tradiciones:** divina, ocultista

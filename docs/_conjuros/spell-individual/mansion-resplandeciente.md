@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 9
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/mansion-resplandeciente.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Mansión resplandeciente [9]
 
 **Tradiciones:** arcana, ocultista

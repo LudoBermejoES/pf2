@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/cautivar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Cautivar {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, ocultista

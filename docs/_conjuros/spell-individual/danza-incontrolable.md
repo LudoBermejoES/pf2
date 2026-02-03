@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/danza-incontrolable.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Danza Incontrolable {% include accion.html tipo="2" %} [CONJURO 8]
 
 **Tradiciones:** arcana, ocultista

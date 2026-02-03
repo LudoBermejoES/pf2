@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/ligadura-terrestre.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Ligadura Terrestre {% include accion.html tipo="2" %} [CONJURO 3]
 
 **Tradiciones:** arcana, primigenia

@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/muro-de-fuerza.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Muro de Fuerza {% include accion.html tipo="3" %} [CONJURO 6]
 
 **Tradiciones:** arcana, ocultista

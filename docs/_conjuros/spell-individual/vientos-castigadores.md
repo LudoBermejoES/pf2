@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/vientos-castigadores.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Vientos Castigadores {% include accion.html tipo="3" %} [CONJURO 8]
 
 **Tradiciones:** primigenia

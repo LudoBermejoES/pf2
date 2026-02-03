@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/teletransporte-interplanario.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Teletransporte Interplanar [CONJURO 7]
 
 **Tradiciones:** arcana, divina, ocultista, primigenia

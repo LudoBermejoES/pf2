@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/ojo-explorador.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Ojo Explorador [CONJURO 5]
 
 **Tradiciones:** arcana, divina, ocultista

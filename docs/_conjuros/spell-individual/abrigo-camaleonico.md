@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/abrigo-camaleonico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Abrigo camaleónico {% include accion.html tipo="3" %} [5]
 
 **Tradiciones:** primigenia

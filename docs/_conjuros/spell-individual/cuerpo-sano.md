@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/cuerpo-sano.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Cuerpo Sano {% include accion.html tipo="2" %} [CONJURO 2]
 
 **Tradiciones:** divina, ocultista, primigenia

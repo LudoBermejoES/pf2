@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/ventisca-aullante-a.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Ventisca Aullante {% include accion.html tipo="2" %} a {% include accion.html tipo="3" %} [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia

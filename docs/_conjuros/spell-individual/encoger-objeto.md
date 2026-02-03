@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+<img src="{{ '/assets/images/conjuros/encoger-objeto.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Encoger objeto [3]
 
 **Tradiciones:** arcana

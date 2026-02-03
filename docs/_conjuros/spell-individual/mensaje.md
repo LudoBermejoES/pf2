@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/mensaje.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Mensaje {% include accion.html tipo="1" %} [TRUCO 1]
 
 **Tradiciones:** arcana, divina, ocultista

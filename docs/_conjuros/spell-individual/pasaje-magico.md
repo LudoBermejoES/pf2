@@ -6,6 +6,8 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/conjuros/pasaje-magico.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
+
 ## Pasaje Mágico {% include accion.html tipo="2" %} [CONJURO 5]
 
 **Tradiciones:** arcana, primigenia
