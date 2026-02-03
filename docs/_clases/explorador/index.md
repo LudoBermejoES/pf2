@@ -77,6 +77,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 - [Características]({{ '/clases/explorador/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/explorador/dotes/' | relative_url }})
+- [Ejemplos de Juego]({{ '/clases/explorador/ejemplos/' | relative_url }})
 
 ---
 

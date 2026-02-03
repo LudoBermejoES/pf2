@@ -91,7 +91,7 @@ Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas 
 
 ---
 
-### Contraconjuro ↺ | Dote 1
+### Contraconjuro {% include accion.html tipo="reaccion" %} | Dote 1
 
 **Rasgos:** Brujo
 
@@ -339,7 +339,7 @@ Tu patrón te revela secretos aún mayores. Elige una lección superior, mayor o
 
 ## Dotes de 12.º nivel
 
-### Conjuro de aquelarre ↺ | Dote 12
+### Conjuro de aquelarre {% include accion.html tipo="reaccion" %} | Dote 12
 
 **Rasgos:** Brujo, Moldeo de conjuros
 

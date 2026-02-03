@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Prestar ayuda ↺
+## Prestar ayuda {% include accion.html tipo="reaccion" %}
 
 **Desencadenante** Un aliado esta a punto de utilizar una acción que requiere una prueba de habilidad o una tirada de ataque.
 

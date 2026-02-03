@@ -26,7 +26,7 @@ Los iconos de acciones te ayudarán a seguir el flujo:
 - {% include accion.html tipo="1" %} = Una acción
 - {% include accion.html tipo="2" %} = Dos acciones
 - {% include accion.html tipo="3" %} = Tres acciones
-- ↺ = Reacción
+- {% include accion.html tipo="reaccion" %} = Reacción
 - {% include accion.html tipo="libre" %} = Acción gratuita
 
 ---

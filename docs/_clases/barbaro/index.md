@@ -60,6 +60,7 @@ La ira te consume en combate. Te deleitas causando estragos y usando poderosas a
 ## Selecciones relacionadas
 
 - [Dotes]({{ '/clases/barbaro/dotes/' | relative_url }})
+- [Ejemplos de Juego]({{ '/clases/barbaro/ejemplos/' | relative_url }})
 
 ---
 

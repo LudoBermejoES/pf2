@@ -209,7 +209,7 @@ Puedes utilizar las dos armas para desviar ataques. Obtienes un bonificados +1 p
 
 ---
 
-### Perturbar Presa ↺
+### Perturbar Presa {% include accion.html tipo="reaccion" %}
 
 **Dote 4**
 
@@ -457,7 +457,7 @@ Puedes guiar a tus aliados para que se muevan sigilosamente a traves de las tier
 
 ---
 
-### Replica Gemela ↺
+### Replica Gemela {% include accion.html tipo="reaccion" %}
 
 **Dote 10**
 
@@ -569,7 +569,7 @@ Cazando como un duo, tu aliado y tu individualizais a vuestra presa. Cuando util
 
 ---
 
-### Sentir lo que no Ves ↺
+### Sentir lo que no Ves {% include accion.html tipo="reaccion" %}
 
 **Dote 14**
 

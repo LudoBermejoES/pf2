@@ -23,7 +23,7 @@ Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas 
 
 ---
 
-### Contraconjuro ↺
+### Contraconjuro {% include accion.html tipo="reaccion" %}
 
 **Nivel 1** | **Rasgos:** Arcano, Mago
 
@@ -157,7 +157,7 @@ Puedes preparar dos conjuros en un espacio, lo que te concede la libertad de ele
 
 ---
 
-### Ilusion Convincente ↺
+### Ilusion Convincente {% include accion.html tipo="reaccion" %}
 
 **Nivel 6** | **Rasgos:** Mago
 
@@ -373,7 +373,7 @@ No puedes utilizar esta dote si los beneficios de conjuro han sido ya utilizados
 
 ## Dotes de Nivel 18
 
-### Pensandolo Bien ↺
+### Pensandolo Bien {% include accion.html tipo="reaccion" %}
 
 **Nivel 18** | **Rasgos:** Concentrar, Mago, Mental
 

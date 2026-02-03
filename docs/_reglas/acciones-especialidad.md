@@ -16,10 +16,10 @@ Estas acciones se utilizan solo en circunstancias especificas. Las acciones Dete
 
 | Acción | Tipo | Rasgos | Requisitos |
 |--------|------|--------|------------|
-| [Agarrarse a un Saliente]({{ '/reglas/acciones-especialidad/agarrarse-a-un-saliente/' | relative_url }}) | ↺ | Rasgos:, * Manipular, Desencadenante:, Requisitos:, Fallo critico: | ** No tienes las manos atadas a la espalda ni estas neutralizado de alguna otra forma. |
+| [Agarrarse a un Saliente]({{ '/reglas/acciones-especialidad/agarrarse-a-un-saliente/' | relative_url }}) | {% include accion.html tipo="reaccion" %} | Rasgos:, * Manipular, Desencadenante:, Requisitos:, Fallo critico: | ** No tienes las manos atadas a la espalda ni estas neutralizado de alguna otra forma. |
 | [Alzar un Escudo]({{ '/reglas/acciones-especialidad/alzar-un-escudo/' | relative_url }}) | {% include accion.html tipo="1" %} | Requisitos: | ** Estas embrazando un escudo. |
 | [Desviar la Mirada]({{ '/reglas/acciones-especialidad/desviar-la-mirada/' | relative_url }}) | {% include accion.html tipo="1" %} | - | - |
-| [Detener una Caída]({{ '/reglas/acciones-especialidad/detener-una-caida/' | relative_url }}) | ↺ | Desencadenante:, Requisitos: | ** Tener Velocidad de vuelo |
+| [Detener una Caída]({{ '/reglas/acciones-especialidad/detener-una-caida/' | relative_url }}) | {% include accion.html tipo="reaccion" %} | Desencadenante:, Requisitos: | ** Tener Velocidad de vuelo |
 | [Disipar]({{ '/reglas/acciones-especialidad/disipar/' | relative_url }}) | {% include accion.html tipo="1" %} | Rasgos:, * Concentrar | - |
 | [Excavar]({{ '/reglas/acciones-especialidad/excavar/' | relative_url }}) | {% include accion.html tipo="1" %} | Rasgos:, * Movimiento, Requisitos: | ** Tienes Velocidad de excavar. |
 | [Mantener]({{ '/reglas/acciones-especialidad/mantener/' | relative_url }}) | {% include accion.html tipo="1" %} | Rasgos:, * Concentrar | - |

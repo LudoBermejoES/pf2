@@ -61,6 +61,7 @@ Tu canal hacia el poder divino evita los canales tradicionales de oración y ser
 ## Selecciones relacionadas
 
 - [Dotes]({{ '/clases/oraculo/dotes/' | relative_url }})
+- [Ejemplos de Juego]({{ '/clases/oraculo/ejemplos/' | relative_url }})
 
 ---
 

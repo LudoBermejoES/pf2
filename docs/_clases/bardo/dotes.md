@@ -112,7 +112,7 @@ Tus interpretaciones inspiran fuerza en tus aliados para que les ayude en las ta
 
 ---
 
-### Empujón Emocional ↺
+### Empujón Emocional {% include accion.html tipo="reaccion" %}
 **Dote 2**
 
 *Bardo, Concentrar*
@@ -314,7 +314,7 @@ Como los heroes de los relatos que persisten frente a probabilidades abrumadoras
 
 ---
 
-### Educar Aliados ↺
+### Educar Aliados {% include accion.html tipo="reaccion" %}
 **Dote 6**
 
 *Bardo, Concentrar*
@@ -347,7 +347,7 @@ No pierdes facilmente tus conjuros. Si una reacción interrumpiría tu acción d
 
 ## Nivel 8
 
-### Acompañar ↺
+### Acompañar {% include accion.html tipo="reaccion" %}
 **Dote 8**
 
 *Bardo, Concentrar, Manipular*
@@ -400,7 +400,7 @@ Cuando tienes éxito en una prueba de Recordar conocimiento, obtienes informaci�
 
 ---
 
-### Valor Reflexivo ↺
+### Valor Reflexivo {% include accion.html tipo="reaccion" %}
 **Dote 8**
 
 *Auditivo, Bardo, Concentrar*
@@ -547,7 +547,7 @@ Tu flexible mente puede intercambiar conjuros rapidamente. Si anades un conjuro 
 
 ---
 
-### Reverberar ↺
+### Reverberar {% include accion.html tipo="reaccion" %}
 **Dote 12**
 
 *Bardo*
@@ -660,7 +660,7 @@ Puedes mantener un conjuro apenas pensando. Obtienes de inmediato los efectos de
 
 ---
 
-### Final Resonante ↺
+### Final Resonante {% include accion.html tipo="reaccion" %}
 **Dote 16**
 
 *Bardo, Concentrar*
@@ -710,7 +710,7 @@ Tu repertorio es vasto y contiene muchos mas conjuros de lo habitual. Anade un c
 
 ---
 
-### Todo Esta en mi Cabeza ↺
+### Todo Esta en mi Cabeza {% include accion.html tipo="reaccion" %}
 **Dote 18**
 
 *Bardo, Ilusion, Mental*

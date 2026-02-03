@@ -192,7 +192,7 @@ Mientras estas en Postura de la Cobra, obtienes un bonificador de circunstancia 
 
 ---
 
-### Desviar Proyectil ↺
+### Desviar Proyectil {% include accion.html tipo="reaccion" %}
 **Dote 4**
 
 *Monje*
@@ -245,7 +245,7 @@ Puedes restaurar tu salud aprovechando tu qi. Obtienes el hechizo de qi armoniza
 
 ---
 
-### Quedarse Quieto ↺
+### Quedarse Quieto {% include accion.html tipo="reaccion" %}
 **Dote 4**
 
 *Monje*
@@ -280,7 +280,7 @@ Tu talento para controlar tu qi ha alcanzado nuevas alturas. Obtienes explosion 
 
 ---
 
-### Alinear Qi ↺
+### Alinear Qi {% include accion.html tipo="reaccion" %}
 **Dote 6**
 
 *Monje*
@@ -295,7 +295,7 @@ El poder de tu qi calma tus heridas y te energiza para la batalla. Recuperas Pun
 
 ---
 
-### Aleteo de Grulla ↺
+### Aleteo de Grulla {% include accion.html tipo="reaccion" %}
 **Dote 6**
 
 *Monje*
@@ -470,7 +470,7 @@ Aprovechas tu conocimiento de artes marciales para mezclar diferentes maniobras 
 
 ---
 
-### Fuego Clavador ↺
+### Fuego Clavador {% include accion.html tipo="reaccion" %}
 **Dote 8**
 
 *Monje*
@@ -553,7 +553,7 @@ Concentras tu fuerza en un golpe lo suficientemente poderoso para empujar a un e
 
 ---
 
-### Posicion Prevaleciente ↺
+### Posicion Prevaleciente {% include accion.html tipo="reaccion" %}
 **Dote 10**
 
 *Monje*
@@ -614,7 +614,7 @@ Apuntas cuidadosamente a los puntos de presion de una criatura para bloquear su 
 
 ---
 
-### Rodada Evasiva ↺
+### Rodada Evasiva {% include accion.html tipo="reaccion" %}
 **Dote 12**
 
 *Monje*
@@ -947,7 +947,7 @@ Fluyes de tecnica a tecnica, renovandote mientras abrazas cada estilo que has do
 
 ---
 
-### Tecnica Imposible ↺
+### Tecnica Imposible {% include accion.html tipo="reaccion" %}
 **Dote 20**
 
 *Fortuna, Monje*

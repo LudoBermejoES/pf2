@@ -237,7 +237,7 @@ Cuando apoyas a tu compañero animal, éste te apoya a su vez. Después de que t
 
 ---
 
-### Castigo de la Tormenta ↺ | Dote 6
+### Castigo de la Tormenta {% include accion.html tipo="reaccion" %} | Dote 6
 
 **Rasgos:** Druida
 
@@ -549,7 +549,7 @@ Doblas tu conjuro en el interior de una semilla. Si tu siguiente acción es Lanz
 
 ---
 
-### Transformación Reactiva ↺ | Dote 14
+### Transformación Reactiva {% include accion.html tipo="reaccion" %} | Dote 14
 
 **Rasgos:** Druida
 

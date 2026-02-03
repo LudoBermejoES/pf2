@@ -86,7 +86,7 @@ Tratas de averiguar más acerca del destino a corto plazo del objetivo, por lo g
 
 Averiguas una sola palabra enigmática conectada con el destino de la criatura en ese espacio de tiempo. El destino es notoriamente inescrutable y no necesariamente hay que tomarse la palabra al pie de la letra, por lo que su significado a menudo sólo queda claro en retrospectiva. El DJ hace una prueba plana CD 6 en secreto. Si el destino de las criaturas es demasiado incierto o si se falla la prueba plana, el conjuro arroja la palabra "no concluyente". De una u otra forma, a continuación el objetivo queda temporalmente inmune durante 24 horas.
 
-### Tentar al Destino ↺ [FOCO 4]
+### Tentar al Destino {% include accion.html tipo="reaccion" %} [FOCO 4]
 **Rasgos:** Poco común, clérigo, foco, fortuna, manipular
 
 **Desencadenante:** Tú o un aliado dentro del alcance hacéis una tirada de salvación.
@@ -145,7 +145,7 @@ Infliges dolor al objetivo y te regocijas en su angustia. Infliges 1d4 daño men
 
 **Potenciado (+1)** El daño inicial se incrementa en 1d4 y el daño persistente se incrementa en 1d4.
 
-### Dolor Retributivo ↺ [FOCO 4]
+### Dolor Retributivo {% include accion.html tipo="reaccion" %} [FOCO 4]
 **Rasgos:** Poco común, clérigo, foco, manipular, mental, no letal
 
 **Desencadenante:** Una criatura dentro del alcance te daña.
@@ -173,7 +173,7 @@ Además, cuando Lanzas este conjuro, puedes contrarrestar un efecto de emoción 
 
 **Potenciado (5.º)** El bonificador a las salvaciones se incrementa a +2 o a +3 contra los efectos de emoción.
 
-### Unidad ↺ [FOCO 4]
+### Unidad {% include accion.html tipo="reaccion" %} [FOCO 4]
 **Rasgos:** Poco común, clérigo, concentrar, foco, fortuna
 
 **Desencadenante:** Tú y 1 o más aliados dentro del alcance sois designados como objetivo por un conjuro o aptitud que permite una tirada de salvación.
@@ -197,7 +197,7 @@ Una banda brillante de fuego se arquea por el aire, prendiendo fuego a tu oponen
 
 **Potenciado (+1)** El daño inicial del rayo se incrementa en 2d6 y el daño por fuego infligido por el espacio ardiente se incrementa en 1d6.
 
-### Barrera de Llama ↺ [FOCO 4]
+### Barrera de Llama {% include accion.html tipo="reaccion" %} [FOCO 4]
 **Rasgos:** Poco común, clérigo, concentrar, foco
 
 **Desencadenante:** Un efecto infligiría daño por fuego a ti o a un aliado dentro del alcance.
@@ -320,7 +320,7 @@ El siguiente conjuro dañino o curativo que el objetivo lanza antes del inicio d
 
 ## Dominio de Muerte
 
-### Llamada de la Muerte ↺ [FOCO 1]
+### Llamada de la Muerte {% include accion.html tipo="reaccion" %} [FOCO 1]
 **Rasgos:** Poco común, clérigo, concentrar, foco
 
 **Desencadenante:** Una criatura viva a 20 pies (6 m) o menos de ti muere, o una criatura muerta viviente a 20 pies (6 m) o menos de ti queda destruida.
@@ -460,7 +460,7 @@ Te envuelves intensamente cautivador, y las criaturas se distraen contigo si per
 
 Meditas sobre la perfección para eliminar de tu mente todas las distracciones. Haz una nueva salvación de Voluntad contra un efecto mental que te afecta actualmente y que requirió una salvación de Voluntad. Utiliza el resultado de esta nueva salvación para determinar el desenlace del efecto mental, a menos que fuera peor que el original, en cuyo caso no sucede nada. Sólo puedes utilizar mente perfeccionada contra un efecto determinado una vez.
 
-### Cuerpo Perfeccionado ↺ [FOCO 4]
+### Cuerpo Perfeccionado {% include accion.html tipo="reaccion" %} [FOCO 4]
 **Rasgos:** Poco común, clérigo, concentrar, foco
 
 **Desencadenante:** Fallas o fallas críticamente una tirada de salvación contra un efecto con el rasgo morfismo, polimorfía o veneno, o que te dejaría condenado, debilitado, indispuesto, petrificado o torpe.
@@ -512,7 +512,7 @@ Fusionando tu mente con la del objetivo, intercambiáis visiones inquietantes. U
 
 Tu cuerpo se llena de potencia física y de habilidad. Obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad y un bonificados +2 por estatus a las pruebas de Atletismo. Como parte de Lanzar este conjuro, puedes utilizar una acción de Zancada, Salto, Trepar o Nadar. Los bonificadores del conjuro se aplican durante dicha acción.
 
-### Potencia Duradera ↺ [FOCO 4]
+### Potencia Duradera {% include accion.html tipo="reaccion" %} [FOCO 4]
 **Rasgos:** Poco común, clérigo, foco, manipular
 
 **Desencadenante:** Un ataque o efecto te infligiría daño.
@@ -525,7 +525,7 @@ Tu propia potencia se mezcla con el poder divino para protegerte del daño. Obti
 
 ## Dominio de Protección
 
-### Sacrificio del Protector ↺ [FOCO 1]
+### Sacrificio del Protector {% include accion.html tipo="reaccion" %} [FOCO 1]
 **Rasgos:** Poco común, clérigo, foco, manipular
 
 **Desencadenante:** Un aliado a 30 pies (9 m) o menos sufre daño.
@@ -692,7 +692,7 @@ Inclinas ligeramente la balanza de la fortuna para proteger del desastre a una c
 
 Si lanzas un poco de suerte de nuevo, cualquier lanzamiento anterior del conjuro aún en efecto se acaba. Una vez que una criatura ha sido designada como objetivo de un poco de suerte, queda temporalmente inmune durante 24 horas.
 
-### Buena Racha ↺ [FOCO 4]
+### Buena Racha {% include accion.html tipo="reaccion" %} [FOCO 4]
 **Rasgos:** Poco común, clérigo, concentrar, foco, fortuna
 
 **Desencadenante:** Fallas, pero no críticamente, una tirada de salvación.
@@ -761,7 +761,7 @@ Con la amenaza de más dolor, coaccionas a una criatura a la que has dañado rec
 
 ## Dominio de Trampas
 
-### Cambio Repentino ↺ [FOCO 1]
+### Cambio Repentino {% include accion.html tipo="reaccion" %} [FOCO 1]
 **Rasgos:** Poco común, clérigo, foco, manipular
 
 **Desencadenante:** Un enemigo te falla con un ataque cuerpo a cuerpo.

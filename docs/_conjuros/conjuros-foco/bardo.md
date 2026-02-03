@@ -98,7 +98,7 @@ El DJ podría establecer que no puedes utilizar esta aptitud si la acción de an
 
 ---
 
-## Oda a Ouroboros ↺ FOCO 5
+## Oda a Ouroboros {% include accion.html tipo="reaccion" %} FOCO 5
 **Rasgos:** Poco comun, Bardo, Composicion, Concentrar, Foco
 **Desencadenante:** El estado moribundo de una criatura alcanzaria el valor en el que muere.
 **Rango:** 60 pies (18 m); **Objetivos:** la criatura desencadenante

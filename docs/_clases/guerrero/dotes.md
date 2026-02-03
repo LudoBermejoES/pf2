@@ -48,7 +48,7 @@ Si ambos ataques aciertan, combina el daño y suma después cualquier otro efect
 
 ---
 
-### Escudo Reactivo ↺
+### Escudo Reactivo {% include accion.html tipo="reaccion" %}
 **Dote 1**
 
 *Guerrero*
@@ -169,7 +169,7 @@ Utilizando el impulso de tu último ataque para poner tu peso tras otro, haces q
 
 ---
 
-### Frenar con la Espada ↺
+### Frenar con la Espada {% include accion.html tipo="reaccion" %}
 **Dote 2**
 
 *Guerrero, Manipular*
@@ -353,7 +353,7 @@ Tras comprometer el movimiento de tu enemigo, le asestas un golpe más mortal. D
 
 ---
 
-### Desvío del Guardián ↺
+### Desvío del Guardián {% include accion.html tipo="reaccion" %}
 **Dote 6**
 
 *Guerrero*
@@ -560,7 +560,7 @@ Invirtiendo un momento para centrarte, puedes asegurarte de que tu ataque es cer
 
 ---
 
-### Réplica de Duelo ↺
+### Réplica de Duelo {% include accion.html tipo="reaccion" %}
 **Dote 8**
 
 *Guerrero*
@@ -652,7 +652,7 @@ Apuntando a un punto débil, dejas impedido a tu enemigo con un disparo preciso.
 
 ---
 
-### En Pleno Vuelo ↺
+### En Pleno Vuelo {% include accion.html tipo="reaccion" %}
 **Dote 10**
 
 *Guerrero*
@@ -665,7 +665,7 @@ Puedes desviar los ataques a distancia. Obtienes un bonificados +4 por circunsta
 
 ---
 
-### Escudo Espejo ↺
+### Escudo Espejo {% include accion.html tipo="reaccion" %}
 **Dote 10**
 
 *Guerrero*
@@ -733,7 +733,7 @@ Eres particularmente rápido en castigar a los enemigos que te dejan aberturas. 
 
 ---
 
-### Réplica Gemela ↺
+### Réplica Gemela {% include accion.html tipo="reaccion" %}
 **Dote 10**
 
 *Guerrero*
@@ -888,7 +888,7 @@ Utilizando el impulso del ataque anterior, fustigas a la vez con tus dos armas e
 
 ---
 
-### Rematador Desesperado ↺
+### Rematador Desesperado {% include accion.html tipo="reaccion" %}
 **Dote 14**
 
 *Aprovechar, Guerrero*

@@ -19,7 +19,7 @@ source: PC2
 
 Este escudo de mithral brillante está imbuido con poderosa magia protectora.
 
-**Activar** ↺ Mando
+**Activar** {% include accion.html tipo="reaccion" %} Mando
 
 **Efecto** Cuando un aliado a 15 pies (4,5 m) o menos sería golpeado por un ataque, puedes activar el escudo como reacción para interponer un campo de fuerza, otorgando al aliado un bonificador de circunstancia +2 a la CA contra ese ataque.
 

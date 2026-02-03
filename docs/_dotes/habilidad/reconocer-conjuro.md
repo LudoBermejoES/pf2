@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/habilidad/reconocer-conjuro/
-title: Reconocer conjuro ↺
+title: Reconocer conjuro {% include accion.html tipo="reaccion" %}
 chapter: Dotes
 category: dotes
 habilidad: Dotes de Habilidad Generales

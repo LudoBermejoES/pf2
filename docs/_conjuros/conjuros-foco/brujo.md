@@ -45,7 +45,7 @@ La égida de tu patrón desciende para escudar del daño a un objetivo. Designa 
 
 ---
 
-### Familiar en Fase ↺ FOCO 1
+### Familiar en Fase {% include accion.html tipo="reaccion" %} FOCO 1
 **Rasgos:** Poco común, Brujo, Foco, Maleficio, Manipular
 **Desencadenante:** Tu familiar sufriría daño.
 **Rango:** distancia 60 pies (18 m); **Objetivos:** tu familiar

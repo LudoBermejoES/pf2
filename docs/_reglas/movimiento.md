@@ -140,7 +140,7 @@ Algunas reacciones y acciones gratuitas son desencadenadas por una criatura que 
 
 Algunas acciones, como por ejemplo Paso, especifican claramente que no desencadenan reacciones o acciones gratuitas basadas en el movimiento.
 
-### Golpe reactivo ↺
+### Golpe reactivo {% include accion.html tipo="reaccion" %}
 
 **Desencadenante** Una criatura a tu alcance utiliza una acción de manipular o de movimiento, hace un ataque a distancia o abandona una casilla durante una acción de movimiento que esta utilizando.
 

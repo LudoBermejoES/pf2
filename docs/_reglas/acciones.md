@@ -33,7 +33,7 @@ Estos iconos aparecen en los bloques de estadística como abreviaturas para cada
 | {% include accion.html tipo="1" %} | Acción individual |
 | {% include accion.html tipo="2" %} | Actividad de dos acciones |
 | {% include accion.html tipo="3" %} | Actividad de tres acciones |
-| ↺ | Reacción |
+| {% include accion.html tipo="reaccion" %} | Reacción |
 | {% include accion.html tipo="libre" %} | Acción gratuita |
 
 ## Actividades

@@ -1,12 +1,12 @@
 ---
 layout: spell
 permalink: /conjuros/burbuja-de-aire-/
-title: Burbuja de Aire ↺
+title: Burbuja de Aire {% include accion.html tipo="reaccion" %}
 chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Burbuja de Aire ↺ [CONJURO 1]
+## Burbuja de Aire {% include accion.html tipo="reaccion" %} [CONJURO 1]
 
 **Tradiciones:** arcana, divina, primigenia
 **Desencadenante:** Una criatura dentro del alcance entra en un entorno en el que no puede respirar.

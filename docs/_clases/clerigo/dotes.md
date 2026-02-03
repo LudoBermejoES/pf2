@@ -67,7 +67,7 @@ El poder mordiente de tu energia del dacio crece. Cuando lanzas dañar, tiras d1
 
 ---
 
-### Premonicion de Abstinencia ↺ - Dote 1
+### Premonicion de Abstinencia {% include accion.html tipo="reaccion" %} - Dote 1
 
 **Rasgos:** Clérigo, Divino, Predicción
 
@@ -156,7 +156,7 @@ Extraes la fuerza vital de tus enemigos. Cuando lanzas un conjuro de dañar y da
 
 ---
 
-### Respuesta Rapida ↺ - Dote 2
+### Respuesta Rapida {% include accion.html tipo="reaccion" %} - Dote 2
 
 **Rasgos:** Clérigo
 
@@ -286,7 +286,7 @@ La bendición de tu dios potencia tu capacidad curativa, integrando la curación
 
 ---
 
-### Rechazo Divino ↺ - Dote 6
+### Rechazo Divino {% include accion.html tipo="reaccion" %} - Dote 6
 
 **Rasgos:** Clérigo, Divino
 
@@ -363,7 +363,7 @@ Haces esfuerzos extremos para apoyar a tus aliados, incluso si ello significa da
 
 ---
 
-### Prisa Celosa ↺ - Dote 8
+### Prisa Celosa {% include accion.html tipo="reaccion" %} - Dote 8
 
 **Rasgos:** Clérigo
 
@@ -494,7 +494,7 @@ Tu fe proporciona protección temporal ademas de curación. Si la siguiente acci
 
 ---
 
-### Simbolo Absorbedor ↺ - Dote 12
+### Simbolo Absorbedor {% include accion.html tipo="reaccion" %} - Dote 12
 
 **Rasgos:** Clérigo, Divino
 
@@ -541,7 +541,7 @@ El poder divino esta siempre a tu alcance, respondiendo rapidamente a tu llamada
 
 ---
 
-### Destierro Rapido ↺ - Dote 14
+### Destierro Rapido {% include accion.html tipo="reaccion" %} - Dote 14
 
 **Rasgos:** Clérigo
 
@@ -563,7 +563,7 @@ Puedes extraer a la vez vitalidad y dacio para dañar a tus enemigos y curar a t
 
 ---
 
-### Premonicion de Claridad ↺ - Dote 14
+### Premonicion de Claridad {% include accion.html tipo="reaccion" %} - Dote 14
 
 **Rasgos:** Clérigo, Fortuna
 
@@ -607,7 +607,7 @@ Tus buenas obras te han granjeado la gracia de tu dios para toda la eternidad. E
 
 ---
 
-### Castigo con Rebote ↺ - Dote 16
+### Castigo con Rebote {% include accion.html tipo="reaccion" %} - Dote 16
 
 **Rasgos:** Clérigo
 
@@ -719,7 +719,7 @@ Eres un conducto para un poder autenticamente deifico. Obtienes un espacio de co
 
 ---
 
-### Protección del Avatar ↺ - Dote 20
+### Protección del Avatar {% include accion.html tipo="reaccion" %} - Dote 20
 
 **Rasgos:** Clérigo
 

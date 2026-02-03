@@ -97,7 +97,7 @@ Con una ondulación de la tierra, elevas del suelo pequeños terraplenes. El sue
 
 ---
 
-### Restablecimiento Comunitario ↺ FOCO 4
+### Restablecimiento Comunitario {% include accion.html tipo="reaccion" %} FOCO 4
 **Rasgos:** Poco común, concentrar, curación, foco, mago
 **Desencadenante:** Lanzas un conjuro desde un espacio de conjuro de mago, que afecta a uno o más aliados voluntarios sin dañarlos.
 
@@ -117,7 +117,7 @@ Disparas un rayo de fuerza en forma de flecha, una de las formas más comunes y 
 
 ---
 
-### Absorción de Energía ↺ FOCO 4
+### Absorción de Energía {% include accion.html tipo="reaccion" %} FOCO 4
 **Rasgos:** Poco común, foco, mago
 **Desencadenante:** Un efecto te infligiría daño por ácido, electricidad, frío o fuego.
 
@@ -169,7 +169,7 @@ Te aprovechas de una de las lecciones más fundamentales de la magia para hacer 
 
 ---
 
-### Encantamiento Interdisciplinario ↺ FOCO 4
+### Encantamiento Interdisciplinario {% include accion.html tipo="reaccion" %} FOCO 4
 **Rasgos:** Poco común, concentrar, foco, mago
 **Desencadenante:** Una criatura a 30 pies (9 m) o menos lanza un conjuro arcano.
 

@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Detener una Caída ↺
+## Detener una Caída {% include accion.html tipo="reaccion" %}
 
 **Desencadenante:** Te caes.
 

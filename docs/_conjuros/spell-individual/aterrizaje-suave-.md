@@ -1,12 +1,12 @@
 ---
 layout: spell
 permalink: /conjuros/aterrizaje-suave-/
-title: Aterrizaje Suave ↺
+title: Aterrizaje Suave {% include accion.html tipo="reaccion" %}
 chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
-## Aterrizaje Suave ↺ [CONJURO 1]
+## Aterrizaje Suave {% include accion.html tipo="reaccion" %} [CONJURO 1]
 
 **Tradiciones:** arcana, primigenia
 **Desencadenante:** Una criatura dentro del alcance esta cayendo.

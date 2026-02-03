@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-## Agarrarse a un Saliente ↺
+## Agarrarse a un Saliente {% include accion.html tipo="reaccion" %}
 
 **Rasgos:** Manipular
 

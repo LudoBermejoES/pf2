@@ -37,7 +37,7 @@ Mientras tienes un broquel alzado, si una criatura falla criticamente un Golpe c
 
 A traves de movimientos agiles, un aterrizaje elegante y un poco de suerte, puedes conseguir caer desde alturas espectaculares sin un rasguño. Obtienes la dote de habilidad Caida Felina y la siguiente reaccion.
 
-**Caida en Picado** ↺ **Desencadenante** Caes al menos 10 pies (3 m) y no recibes daño por la caida; **Efecto** Te acurrucas y ruedas con el movimiento. Aterrizas de pie y das una Zancada de hasta la mitad de tu Velocidad.
+**Caida en Picado** {% include accion.html tipo="reaccion" %} **Desencadenante** Caes al menos 10 pies (3 m) y no recibes daño por la caida; **Efecto** Te acurrucas y ruedas con el movimiento. Aterrizas de pie y das una Zancada de hasta la mitad de tu Velocidad.
 
 ---
 
@@ -61,7 +61,7 @@ Desarmas armas de las manos de tus enemigos con estilo. Cuando Desarmas, la acci
 
 ---
 
-### Esquiva Llamativa ↺
+### Esquiva Llamativa {% include accion.html tipo="reaccion" %}
 **Dote 1**
 
 *Espadachin*
@@ -219,7 +219,7 @@ Tu voltereta pone a tus enemigos en desventaja. Cuando Ruedas a traves exitosame
 
 ---
 
-### Vida con Suerte ↺
+### Vida con Suerte {% include accion.html tipo="reaccion" %}
 **Dote 2**
 
 *Espadachin*
@@ -258,7 +258,7 @@ Tu panache te permite realizar hazañas increibles: escalar, nadar y saltar much
 
 ---
 
-### Desviacion del Guardian ↺
+### Desviacion del Guardian {% include accion.html tipo="reaccion" %}
 **Dote 4**
 
 *Espadachin*
@@ -349,7 +349,7 @@ Combinas una serie de ataques con un poderoso golpe final. Los Golpes de tus rem
 
 ---
 
-### Golpe Reactivo ↺
+### Golpe Reactivo {% include accion.html tipo="reaccion" %}
 **Dote 6**
 
 *Espadachin*
@@ -471,7 +471,7 @@ Cuando usas Esquiva Llamativa y el ataque desencadenante falla o falla criticame
 
 ## Nivel 10
 
-### Cambiazo ↺
+### Cambiazo {% include accion.html tipo="reaccion" %}
 **Dote 10**
 
 *Espadachin*
@@ -560,7 +560,7 @@ Capitalizas el fracaso de un oponente con actitud presumida y fanfarroneria, rec
 
 ---
 
-### Burlar a la Muerte ↺
+### Burlar a la Muerte {% include accion.html tipo="reaccion" %}
 **Dote 12**
 
 *Espadachin*

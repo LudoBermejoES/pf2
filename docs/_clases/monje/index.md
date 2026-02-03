@@ -60,6 +60,7 @@ La fuerza de tu puño fluye desde tu mente y tu espíritu. Buscas la perfección
 ## Selecciones relacionadas
 
 - [Dotes]({{ '/clases/monje/dotes/' | relative_url }})
+- [Ejemplos de Juego]({{ '/clases/monje/ejemplos/' | relative_url }})
 
 ---
 

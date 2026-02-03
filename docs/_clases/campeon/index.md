@@ -61,6 +61,7 @@ Eres un emisario de una deidad, un servidor devoto que ha asumido un pesado mant
 ## Selecciones relacionadas
 
 - [Dotes]({{ '/clases/campeon/dotes/' | relative_url }})
+- [Ejemplos de Juego]({{ '/clases/campeon/ejemplos/' | relative_url }})
 
 ---
 

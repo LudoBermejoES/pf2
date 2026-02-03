@@ -15,7 +15,7 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 
 ## Dotes de 1.er Nivel
 
-### Ahora Te Toca a Ti ↺
+### Ahora Te Toca a Ti {% include accion.html tipo="reaccion" %}
 
 **Nivel 1** | **Rasgos:** Emocion, Mental, Miedo, Picaro, Visual
 
@@ -39,7 +39,7 @@ Puedes inutilizar trampas que requieren un rango de competencia maestro en Latro
 
 ---
 
-### Esquiva Agil ↺
+### Esquiva Agil {% include accion.html tipo="reaccion" %}
 
 **Nivel 1** | **Rasgos:** Picaro
 
@@ -130,7 +130,7 @@ Tus Fintas distraen mucho mas de lo normal. Cuando una criatura queda despreveni
 
 ---
 
-### Gambito Astuto ↺
+### Gambito Astuto {% include accion.html tipo="reaccion" %}
 
 **Nivel 2** | **Rasgos:** Picaro
 
@@ -230,7 +230,7 @@ Capitalizas los miedos de tu enemigo para traspasar sus defensas. Toda criatura 
 
 ---
 
-### Persecucion Reactiva ↺
+### Persecucion Reactiva {% include accion.html tipo="reaccion" %}
 
 **Nivel 4** | **Rasgos:** Picaro
 
@@ -427,7 +427,7 @@ Aplicas los venenos de una forma que maximiza sus efectos dañinos. Cuando aplic
 
 Durante tus preparativos diarios, puedes revisar tus estratagemas para las aventuras diarias con hasta cinco aliados. Mas tarde, puedes avisarles rapidamente de lo que vas hacer utilizando la reacción siguiente.
 
-**Estratagema Inspirada ↺** (fortuna, linguistico)
+**Estratagema Inspirada {% include accion.html tipo="reaccion" %}** (fortuna, linguistico)
 
 **Desencadenante:** Un aliado con el que has revisado estratagemas esta a punto de hacer una tirada de ataque o una prueba de habilidad.
 
@@ -457,7 +457,7 @@ Cuando estas adyacente a una criatura no detectada de tu nivel o inferior, en su
 
 ---
 
-### Paso Lateral ↺
+### Paso Lateral {% include accion.html tipo="reaccion" %}
 
 **Nivel 8** | **Rasgos:** Picaro
 
@@ -485,7 +485,7 @@ Adoptas una posición que hace rebotar hacia ti tus armas arrojadizas. Mientras 
 
 ---
 
-### Punalada Trapera Oportuna ↺
+### Punalada Trapera Oportuna {% include accion.html tipo="reaccion" %}
 
 **Nivel 8** | **Rasgos:** Picaro
 
@@ -495,7 +495,7 @@ Cuando tu aliado acierta a tu enemigo, capitalizas la distracción subsiguiente.
 
 ---
 
-### Retrasar Trampa ↺
+### Retrasar Trampa {% include accion.html tipo="reaccion" %}
 
 **Nivel 8** | **Rasgos:** Picaro
 
@@ -648,7 +648,7 @@ Mientras estas en Posición de rebote, puedes hacer rebotar contra un enemigo un
 
 ---
 
-### Interferencia Reactiva ↺
+### Interferencia Reactiva {% include accion.html tipo="reaccion" %}
 
 **Nivel 12** | **Rasgos:** Picaro
 
@@ -702,7 +702,7 @@ Cuando pegas lo suficientemente duro, creas una abertura para que un aliado pued
 
 ---
 
-### !Quedate en el Suelo! ↺
+### !Quedate en el Suelo! {% include accion.html tipo="reaccion" %}
 
 **Nivel 14** | **Rasgos:** Picaro
 
@@ -726,7 +726,7 @@ Dejandote caer y poniendote a rodar para dispersar la fuerza del golpe, puedes e
 
 ---
 
-### Sentir lo que No Ves ↺
+### Sentir lo que No Ves {% include accion.html tipo="reaccion" %}
 
 **Nivel 14** | **Rasgos:** Picaro
 
@@ -748,7 +748,7 @@ Utilizas tácticas inteligentes para enganar a tus enemigos mientras te alejas f
 
 ---
 
-### Eludir Rapidamente ↺
+### Eludir Rapidamente {% include accion.html tipo="reaccion" %}
 
 **Nivel 16** | **Rasgos:** Picaro
 
@@ -790,7 +790,7 @@ Esto te proporciona pistas y detalles del pasado, incluyendo los sucesos en gene
 
 ---
 
-### Resquicio Cognitivo ↺
+### Resquicio Cognitivo {% include accion.html tipo="reaccion" %}
 
 **Nivel 16** | **Rasgos:** Picaro
 
@@ -846,7 +846,7 @@ Has aprendido a explotar las aberturas de tus enemigos. Tu dano por ataque furti
 
 ## Dotes de 20.o Nivel
 
-### Distracción Reactiva ↺
+### Distracción Reactiva {% include accion.html tipo="reaccion" %}
 
 **Nivel 20** | **Rasgos:** Concentrar, Manipular, Picaro
 
@@ -860,7 +860,7 @@ Te intercambias de forma reactiva con tu señuelo para frustrar a tu enemigo. Ut
 
 ---
 
-### Parangon Oculto ↺
+### Parangon Oculto {% include accion.html tipo="reaccion" %}
 
 **Nivel 20** | **Rasgos:** Picaro
 

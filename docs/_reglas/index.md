@@ -39,7 +39,7 @@ Pathfinder estructura el juego en tres modos que determinan cómo se mide el tie
 
 ## Acciones
 
-Durante un encuentro dispones de **3 acciones** ({% include accion.html tipo="1" %}) y **1 reacción** (↺) por turno:
+Durante un encuentro dispones de **3 acciones** ({% include accion.html tipo="1" %}) y **1 reacción** ({% include accion.html tipo="reaccion" %}) por turno:
 
 - [**Acciones**]({{ '/reglas/acciones/' | relative_url }}) - Tipos de acciones, actividades, reacciones y acciones gratuitas
 - [**Acciones Básicas**]({{ '/reglas/acciones-basicas/' | relative_url }}) - Zancada, Golpe, Paso, Buscar, Interactuar, Preparar, Retrasar y más

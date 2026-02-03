@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/generales/bloqueo-con-el-escudo/
-title: Bloqueo con el Escudo ↺
+title: Bloqueo con el Escudo {% include accion.html tipo="reaccion" %}
 chapter: Dotes
 category: dotes
 level: 1

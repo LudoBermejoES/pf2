@@ -76,6 +76,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 
 - [Características]({{ '/clases/clerigo/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/clerigo/dotes/' | relative_url }})
+- [Ejemplos de Juego]({{ '/clases/clerigo/ejemplos/' | relative_url }})
 
 ---
 

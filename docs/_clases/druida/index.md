@@ -81,6 +81,7 @@ Tu elección de orden de druida añade otros anatemas, tal y como se detalla en 
 
 - [Características]({{ '/clases/druida/caracteristicas/' | relative_url }})
 - [Dotes]({{ '/clases/druida/dotes/' | relative_url }})
+- [Ejemplos de Juego]({{ '/clases/druida/ejemplos/' | relative_url }})
 
 ---
 

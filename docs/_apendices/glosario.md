@@ -58,7 +58,7 @@ source: PC1
 
 **agarrado** (estado) — Algo te mantiene fijo en tu lugar.
 
-**Agarrarse a un saliente** ↺ (acción básica de especialidad) — Tratar de agarrarse a algo mientras caes.
+**Agarrarse a un saliente** {% include accion.html tipo="reaccion" %} (acción básica de especialidad) — Tratar de agarrarse a algo mientras caes.
 
 **ágil** (rasgo de arma)
 
@@ -278,7 +278,7 @@ source: PC1
 
 **contener el aliento**
 
-**Contraconjuro** ↺ — Una reacción que algunos lanzadores de conjuros pueden usar para negar conjuros.
+**Contraconjuro** {% include accion.html tipo="reaccion" %} — Una reacción que algunos lanzadores de conjuros pueden usar para negar conjuros.
 
 **contrarrestar** — El proceso utilizado cuando un efecto intenta negar otro.
 
@@ -378,7 +378,7 @@ source: PC1
 
 **Detectar magia** (actividad de exploración) — Detectar magia repetidamente.
 
-**Detener una caída** ↺ (acción básica de especialidad) — Hacer más lenta tu caída mientras vuelas.
+**Detener una caída** {% include accion.html tipo="reaccion" %} (acción básica de especialidad) — Hacer más lenta tu caída mientras vuelas.
 
 **diablo** (rasgo) — Una familia de infernales regimentados procedente del Infierno.
 
@@ -1022,7 +1022,7 @@ source: PC1
 
 **predicción** (rasgo) — Los efectos con este rasgo determinan lo que es probable que suceda en un futuro próximo.
 
-**Prestar ayuda** ↺ (acción básica) — Mejorar la prueba de habilidad o el ataque de un aliado.
+**Prestar ayuda** {% include accion.html tipo="reaccion" %} (acción básica) — Mejorar la prueba de habilidad o el ataque de un aliado.
 
 **Preparar** {% include accion.html tipo="2" %} (acción básica) — Preparar una acción para utilizarla fuera de tu turno.
 
@@ -1080,7 +1080,7 @@ source: PC1
 
 **Rastrear** (acción de habilidad) — Seguir las huellas de una criatura. (Supervivencia)
 
-**reacción** ↺ — Una acción que puedes utilizar incluso cuando no es tu turno. Puedes utilizar 1 reacción por asalto.
+**reacción** {% include accion.html tipo="reaccion" %} — Una acción que puedes utilizar incluso cuando no es tu turno. Puedes utilizar 1 reacción por asalto.
 
 **recargar**
 

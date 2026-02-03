@@ -1,12 +1,12 @@
 ---
 layout: spell
 permalink: /conjuros/vendetta-de-sangre-/
-title: Vendetta de Sangre ↺
+title: Vendetta de Sangre {% include accion.html tipo="reaccion" %}
 chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
-## Vendetta de Sangre ↺ [CONJURO 2]
+## Vendetta de Sangre {% include accion.html tipo="reaccion" %} [CONJURO 2]
 
 **Tradiciones:** arcana, divina, ocultista
 **Desencadenante:** Una criatura te inflige dano perforante, cortante o persistente por sangrado; **Requisitos:** Puedes sangrar.

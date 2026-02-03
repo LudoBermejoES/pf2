@@ -56,11 +56,11 @@ A 1.er nivel obtienes un número de competencias que representa tu entrenamiento
 
 ---
 
-## Golpe Reactivo ↺
+## Golpe Reactivo {% include accion.html tipo="reaccion" %}
 
 Siempre vigilante ante las debilidades, puedes atacar rápidamente a los enemigos que dejan una abertura en sus defensas. Obtienes la reacción Golpe reactivo.
 
-### Golpe Reactivo ↺
+### Golpe Reactivo {% include accion.html tipo="reaccion" %}
 **Reacción**
 
 **Desencadenante** Una criatura a tu alcance utiliza una acción de manipular o de movimiento, lleva a cabo un ataque a distancia o abandona una casilla durante una acción de movimiento que está utilizando.

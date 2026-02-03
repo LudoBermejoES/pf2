@@ -19,7 +19,7 @@ source: PC1+PC2
 | [Arruinaconjuros](/conjuros/arruinaconjuros/) | 6 | concentrar, fuerza, maldición, manipular | a-c.md |
 | [Atadura Planaria](/conjuros/atadura-planaria/) | 4 | concentrar, manipular | a-c.md |
 | [Ataque de Risa](/conjuros/ataque-de-risa/) | 2 | concentrar, emocion, manipular, mental | a-c.md |
-| [Aterrizaje Suave ↺](/conjuros/aterrizaje-suave-/) | 1 | aire, concentrar | a-c.md |
+| [Aterrizaje Suave {% include accion.html tipo="reaccion" %}](/conjuros/aterrizaje-suave-/) | 1 | aire, concentrar | a-c.md |
 | [Atontar](/conjuros/atontar/) | TRUCO | concentrar, manipular, mental, no letal, truco | a-c.md |
 | [Augurio](/conjuros/augurio/) | 2 | concentrar, manipular, predicción | a-c.md |
 | [Aullidos de los Condenados](/conjuros/aullidos-de-los-condenados/) | 9 | auditivo, concentrar, manipular, muerte, vacío | a-c.md |
@@ -29,7 +29,7 @@ source: PC1+PC2
 | [Baliza Vital](/conjuros/baliza-vital/) | 4 | concentrar, curacion, manipular, vitalidad | a-c.md |
 | [Bendicion](/conjuros/bendicion/) | 1 | aura, concentrar, manipular, mental | a-c.md |
 | [Bola de Fuego](/conjuros/bola-de-fuego/) | 3 | concentrar, fuego, manipular | a-c.md |
-| [Burbuja de Aire ↺](/conjuros/burbuja-de-aire-/) | 1 | aire, concentrar | a-c.md |
+| [Burbuja de Aire {% include accion.html tipo="reaccion" %}](/conjuros/burbuja-de-aire-/) | 1 | aire, concentrar | a-c.md |
 | [Burbuja Tranquila](/conjuros/burbuja-tranquila/) | 4 | poco comun, concentrar, manipular | a-c.md |
 | [Cabaña Acogedora](/conjuros/cabana-acogedora/) | 3 | concentrar, madera, manipular | a-c.md |
 | [Cadaver Parlante](/conjuros/cadaver-parlante/) | 4 | poco comun, concentrar, manipular | a-c.md |
@@ -304,7 +304,7 @@ source: PC1+PC2
 | [Uno con la Piedra](/conjuros/uno-con-la-piedra/) | 3 | Concentrar, Manipular, Polimorfia, Tierra | t-z.md |
 | [Uno con las Plantas](/conjuros/uno-con-las-plantas/) | 2 | Concentrar, Madera, Manipular, Planta | t-z.md |
 | [Velo de Privacidad](/conjuros/velo-de-privacidad/) | 3 | Poco comun, Concentrar, Manipular | t-z.md |
-| [Vendetta de Sangre ↺](/conjuros/vendetta-de-sangre-/) | 2 | Maldición | t-z.md |
+| [Vendetta de Sangre {% include accion.html tipo="reaccion" %}](/conjuros/vendetta-de-sangre-/) | 2 | Maldición | t-z.md |
 | [Ventisca Aullante {% include accion.html tipo="2" %} a](/conjuros/ventisca-aullante-a/) | 5 | Aire, Concentrar, Frio, Manipular | t-z.md |
 | [Ventriloquia](/conjuros/ventriloquia/) | 1 | Auditivo, Concentrar, Ilusion, Manipular | t-z.md |
 | [Ver lo Invisible](/conjuros/ver-lo-invisible/) | 2 | Concentrar, Manipular, Revelación | t-z.md |
