@@ -52,10 +52,10 @@ Esta columna indica los Puntos de Golpe (PG) del escudo y su Umbral de rotura (U
 
 | Escudo | Precio | Bon. CA | Pen. Velocidad | Imp. | Dureza | PG (UR) |
 |--------|--------|---------|----------------|------|--------|---------|
-| Escudo de acero | 2 po | +2^1^ | — | 1 | 5 | 20 (10) |
-| Escudo de madera | 1 po | +2^1^ | — | 1 | 3 | 12 (6) |
-| Escudo pavés | 10 po | +2/+4^1,2^ | -5 pies | 4 | 5 | 20 (10) |
-| Rodela | 1 po | +1^1^ | — | L | 3 | 6 (3) |
+| [Escudo de acero](/equipo/escudos/escudo-acero/) | 2 po | +2^1^ | — | 1 | 5 | 20 (10) |
+| [Escudo de madera](/equipo/escudos/escudo-madera/) | 1 po | +2^1^ | — | 1 | 3 | 12 (6) |
+| [Escudo pavés](/equipo/escudos/escudo-paves/) | 10 po | +2/+4^1,2^ | -5 pies | 4 | 5 | 20 (10) |
+| [Rodela](/equipo/escudos/rodela/) | 1 po | +1^1^ | — | L | 3 | 6 (3) |
 
 ^1^ Obtener un bonificador por circunstancia a la CA de un escudo requiere utilizar la acción Alzar un escudo.
 
@@ -69,22 +69,3 @@ Un escudo se puede utilizar como arma marcial para atacar, mediante las estadís
 
 También puedes comprar y fijar a un escudo un umbo o unas púas de escudo para convertirlo en un arma más práctica. Una y otra cosa también se encuentran en la tabla Armas cuerpo a cuerpo marciales. Funcionan como otras armas e incluso se les pueden grabar runas.
 
----
-
-## Descripciones de los Escudos
-
-### Escudo de Acero
-
-Como los escudos de madera, los de acero se construyen en una gran variedad de formas y tamaños. Aunque más caros que los de madera, son mucho más duraderos.
-
-### Escudo de Madera
-
-Aunque hay una gran variedad de formas y tamaños, la protección ofrecida por los escudos de madera procede de la reciedumbre de sus materiales. Si bien los escudos de madera son más baratos que los de acero, se rompen con más facilidad.
-
-### Escudo Pavés
-
-Estos enormes escudos se pueden utilizar para proporcionar cobertura a casi todo el cuerpo. Debido a su tamaño, suelen ser de madera reforzada con metal.
-
-### Rodela
-
-Este escudo, muy pequeño, es el favorito de los duelistas y de los guerreros rápidos y provistos de armadura ligera. Típicamente está hecho de acero y va atado a tu antebrazo. Puedes Alzar un escudo con tu rodela si tienes libre dicha mano o sostienes en la misma un objeto ligero distinto de un arma.
