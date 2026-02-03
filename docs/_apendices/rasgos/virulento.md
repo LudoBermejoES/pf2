@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**visión en la oscuridad** (sentido) — Ver claramente en la oscuridad, aunque sólo en blanco y negro.
+Un veneno virulento es particularmente difícil de eliminar. Necesitas dos salvaciones con éxito consecutivas para reducir una fase de un veneno virulento.

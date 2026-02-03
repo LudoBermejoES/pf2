@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**descanso** — Los PJs recuperan PG (normalmente su modificador por Con x nivel) y recursos con 8 horas de sueño.
+Puedes usar esta arma para realizar la acción de Desarmar con un ataque cuerpo a cuerpo, incluso si no tienes una mano libre.

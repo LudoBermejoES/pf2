@@ -18,7 +18,7 @@ Los rasgos son etiquetas que describen propiedades específicas de reglas, criat
 | [Concentrar](/apendices/rasgos/concentrar/) | Una acción con esta rasgo requiere cierto grado de concentración y disciplina mental. |
 | [Exploración](/apendices/rasgos/exploracion/) | Una actividad con este rasgo tarda más de un turno en usarse y por lo general sólo se utiliza durant... |
 | [Floritura](/apendices/rasgos/floritura/) | Las acciones con este rasgo son técnicas especiales que requieren demasiado cuidado como para que la... |
-| [Fortuna](/apendices/rasgos/fortuna/) | **Forzar una cerradura** {% include accion.html tipo="2" %} (acción de habilidad) — Abrir una cerrad... |
+| [Fortuna](/apendices/rasgos/fortuna/) | Un efecto de fortuna te permite tirar dos veces y tomar el mejor resultado. No puedes tener más de u... |
 | [Fortuna Adversa](/apendices/rasgos/fortuna-adversa/) | Un efecto de fortuna adversa te obliga a tirar dos veces y tomar el peor resultado. |
 | [Manipular](/apendices/rasgos/manipular/) | Tienes que manipular físicamente un objeto o hacer gestos para usar una acción con este rasgo. Las c... |
 | [Movimiento](/apendices/rasgos/movimiento/) | Una acción con este rasgo implica moverse de un espacio a otro. |
@@ -64,12 +64,12 @@ Los rasgos son etiquetas que describen propiedades específicas de reglas, criat
 
 | Rasgo | Descripción |
 |-------|-------------|
-| [Composición](/apendices/rasgos/composicion/) | **común** (rasgo) |
+| [Composición](/apendices/rasgos/composicion/) | Para lanzar un conjuro de composición, usas una forma de Interpretación. Si el conjuro incluye un co... |
 | [Consagración](/apendices/rasgos/consagracion/) | Un conjuro de consagración refuerza un área durante un período de tiempo prolongado. Un área determi... |
 | [Disimulado](/apendices/rasgos/disimulado/) | Un conjuro con el rasgo disimulado se puede lanzar sin encantamientos y no tiene manifestaciones obv... |
 | [Escudriñamiento](/apendices/rasgos/escudrinamiento/) | Un efecto de escudriñamiento te permite ver, oír u obtener de alguna otra forma información sensoria... |
 | [Foco](/apendices/rasgos/foco/) | Un conjuro que puedes lanzar gastando 1 Punto de Foco y que es potenciado automáticamente a la mitad... |
-| [Moldeo de conjuros](/apendices/rasgos/moldeo-de-conjuros/) | **monedas** |
+| [Moldeo de conjuros](/apendices/rasgos/moldeo-de-conjuros/) | Las acciones de moldeo de conjuros te permiten modificar los efectos de tus conjuros. |
 | [Predicción](/apendices/rasgos/prediccion/) | Los efectos con este rasgo determinan lo que es probable que suceda en un futuro próximo. |
 | [Revelación](/apendices/rasgos/revelacion/) | Los efectos con este rasgo ven las cosas como son en realidad. |
 | [Santificado](/apendices/rasgos/santificado/) | Los conjuros y otros efectos con el rasgo santificado se alinean con tu naturaleza sagrada o sacríle... |
@@ -114,7 +114,7 @@ Los rasgos son etiquetas que describen propiedades específicas de reglas, criat
 | [Hechicero](/apendices/rasgos/hechicero/) | Esto indica aptitudes de la clase hechicero. |
 | [Investigador](/apendices/rasgos/investigador/) | Esto indica aptitudes de la clase investigador. |
 | [Mago](/apendices/rasgos/mago/) | Esto indica aptitudes de la clase mago. |
-| [Monje](/apendices/rasgos/monje/) | **monstruo** — Una criatura que sirve para frustrar de alguna forma a los PJs. Los monstruos benefic... |
+| [Monje](/apendices/rasgos/monje/) | Esto indica aptitudes de la clase monje. |
 | [Oráculo](/apendices/rasgos/oraculo/) | Esto indica aptitudes de la clase oráculo. |
 | [Pícaro](/apendices/rasgos/picaro/) | Esto indica aptitudes de la clase pícaro. |
 
@@ -123,14 +123,14 @@ Los rasgos son etiquetas que describen propiedades específicas de reglas, criat
 | Rasgo | Descripción |
 |-------|-------------|
 | [Aditivo](/apendices/rasgos/aditivo/) | Los aditivos son sustancias especiales que pueden añadirse a objetos alquímicos. |
-| [Composición](/apendices/rasgos/composicion/) | **común** (rasgo) |
-| [Dedicación](/apendices/rasgos/dedicacion/) | **defecto de atributo** — Un defecto de atributo disminuye uno de tus modificadores por atributo en ... |
+| [Composición](/apendices/rasgos/composicion/) | Para lanzar un conjuro de composición, usas una forma de Interpretación. Si el conjuro incluye un co... |
+| [Dedicación](/apendices/rasgos/dedicacion/) | Esta dote representa un entrenamiento especializado que te da acceso a un conjunto de aptitudes. Sol... |
 | [Furia](/apendices/rasgos/furia/) | Tienes que estar en furia para usar las aptitudes con el rasgo furia, que acaban automáticamente cua... |
 | [Ira](/apendices/rasgos/ira/) | Este efecto causa o se relaciona con la emoción de ira. |
-| [Maleficio](/apendices/rasgos/maleficio/) | **malintencionado** (estado) — A un PNJ malintencionado no le caes bien. |
+| [Maleficio](/apendices/rasgos/maleficio/) | Un maleficio es un tipo de conjuro de foco asociado con la clase de brujo. Los maleficios se lanzan ... |
 | [Mutágeno](/apendices/rasgos/mutageno/) | Un mutágeno es un elixir alquímico que causa cambios físicos temporales. |
 | [Postura](/apendices/rasgos/postura/) | Una postura es una posición de combate que adoptas y que dura hasta que quedas inconsciente, usas ot... |
-| [Puñalada trapera](/apendices/rasgos/punalada-trapera/) | **PX** (Puntos de Experiencia) — Ver también Puntos de Experiencia. |
+| [Puñalada trapera](/apendices/rasgos/punalada-trapera/) | Cuando haces un Golpe con esta arma contra un enemigo desprevenido, infliges 1d6 de daño de precisió... |
 | [Remate](/apendices/rasgos/remate/) | Una acción con este rasgo solo puede usarse como la última acción de tu turno. |
 
 ## Rasgos de Ascendencia
@@ -224,34 +224,34 @@ Los rasgos son etiquetas que describen propiedades específicas de reglas, criat
 
 | Rasgo | Descripción |
 |-------|-------------|
-| [A dos manos](/apendices/rasgos/a-dos-manos/) | **aberración** (rasgo) — Las aberraciones son criaturas de más allá de los Planos o bien corrupcione... |
-| [Ágil](/apendices/rasgos/agil/) | **agua** (rasgo) — Los efectos con el rasgo agua, o bien manipulan, o bien conjuran agua. Los que ma... |
-| [Alcance](/apendices/rasgos/alcance/) | **alcance** — La distancia a la que puedes llegar físicamente con tu cuerpo o con un arma. |
-| [Arrojadiza](/apendices/rasgos/arrojadiza/) | **Artesanía** (habilidad) — Crear, entender y reparar objetos. (Int) |
-| [Baluarte](/apendices/rasgos/baluarte/) | **bardas** — Armadura para animales. |
-| [Barrido](/apendices/rasgos/barrido/) | **bastón** (rasgo) — Este objeto mágico permite a un lanzador de conjuros lanzar conjuros adicionale... |
-| [Cómoda](/apendices/rasgos/comoda/) | **compañero animal** — Un animal que lucha a tu lado. |
-| [Derribo](/apendices/rasgos/derribo/) | **derribo a distancia** (rasgo de arma) |
-| [Desarme](/apendices/rasgos/desarme/) | **descanso** — Los PJs recuperan PG (normalmente su modificador por Con x nivel) y recursos con 8 ho... |
-| [Empujón](/apendices/rasgos/empujon/) | **enano** (rasgo) — Una criatura con este rasgo es un miembro de la ascendencia de los enanos. Los e... |
-| [Fatal](/apendices/rasgos/fatal/) | **fatigado** (estado) — Tus defensas son bajas y no puedes utilizar actividades de exploración mient... |
-| [Fijada](/apendices/rasgos/fijada/) | **Finta** {% include accion.html tipo="1" %} (acción de habilidad) — Engañar a alguien. (Engaño, ent... |
-| [Flexible](/apendices/rasgos/flexible/) | **floritura** (rasgo) |
-| [Gemela](/apendices/rasgos/gemela/) | **general** (rasgo) — Un tipo de dote que cualquier PJ puede seleccionar, sin importar ascendencia y... |
-| [Justa, de](/apendices/rasgos/justa-de/) |  |
-| [Letal](/apendices/rasgos/letal/) | **libro de conjuros** |
-| [Mano libre](/apendices/rasgos/mano-libre/) | **Mantener el equilibrio** {% include accion.html tipo="1" %} (acción de habilidad) — Moverse sobre ... |
-| [No letal](/apendices/rasgos/no-letal/) | **noqueado** |
-| [Ocultable](/apendices/rasgos/ocultable/) | **Ocultar un objeto** {% include accion.html tipo="1" %} (acción de habilidad) — Esconder un objeto.... |
-| [Parada](/apendices/rasgos/parada/) | **paralizado** (estado) — No puedes moverte ni defenderte a ti mismo por completo. |
-| [Presa](/apendices/rasgos/presa/) | **Primeros auxilios** {% include accion.html tipo="2" %} (acción de habilidad) — Estabilizar a una c... |
-| [Propulsión, de](/apendices/rasgos/propulsion-de/) | **prueba** — Cuando tiras 1d20 y sumas modificadores, bonificadores y penalizadores, comparando desp... |
-| [Revés](/apendices/rasgos/reves/) | **riesgo** — Los riesgos son peligros distintos a las criaturas y con los que se encuentran los aven... |
-| [Ruidosa](/apendices/rasgos/ruidosa/) | **runa** (objeto mágico) — Las runas son similares a los objetos mágicos, pero se pueden grabar en l... |
-| [Salpicadura](/apendices/rasgos/salpicadura/) | **Saltar** {% include accion.html tipo="1" %} (acción básica) — Saltar horizontalmente 10 pies (15 p... |
-| [Sin armas](/apendices/rasgos/sin-armas/) | **Sociedad** (habilidad) — Conocimientos acerca de la civilización, la cultura y la historia. (Int) |
-| [Versátil](/apendices/rasgos/versatil/) | **vigorosa** (rasgo de arma) |
-| [Volea](/apendices/rasgos/volea/) | **Voluntad** — Una tirada de salvación utilizada para resistir efectos que designan como objetivo la... |
+| [A dos manos](/apendices/rasgos/a-dos-manos/) | Este arma se puede empuñar con una o dos manos. Se aplica el dado de daño indicado entre paréntesis ... |
+| [Ágil](/apendices/rasgos/agil/) | El penalizador por ataque múltiple que sufres con este arma en el segundo ataque de un turno es -4 e... |
+| [Alcance](/apendices/rasgos/alcance/) | Esta arma puede usarse para atacar a enemigos hasta 10 pies de distancia en lugar de 5 pies. Para la... |
+| [Arrojadiza](/apendices/rasgos/arrojadiza/) | Puedes lanzar esta arma como ataque a distancia, y utiliza el mismo modificador por atributo que nor... |
+| [Baluarte](/apendices/rasgos/baluarte/) | Agarrar esta arma otorga un bonificador +2 por circunstancia a tu CA mientras estés en posición defe... |
+| [Barrido](/apendices/rasgos/barrido/) | Este arma hace amplios barridos. Cuando atacas con esta arma, obtienes un bonificador +1 por circuns... |
+| [Cómoda](/apendices/rasgos/comoda/) | Esta armadura es cómoda de llevar durante largos periodos de tiempo. |
+| [Derribo](/apendices/rasgos/derribo/) | Puedes usar esta arma para realizar la acción de Derribar con un ataque cuerpo a cuerpo, incluso si ... |
+| [Desarme](/apendices/rasgos/desarme/) | Puedes usar esta arma para realizar la acción de Desarmar con un ataque cuerpo a cuerpo, incluso si ... |
+| [Empujón](/apendices/rasgos/empujon/) | Puedes usar esta arma para realizar la acción de Empujar con un ataque cuerpo a cuerpo, incluso si n... |
+| [Fatal](/apendices/rasgos/fatal/) | El dado de daño de fatal de esta arma se muestra entre paréntesis. En un impacto crítico, el arma in... |
+| [Fijada](/apendices/rasgos/fijada/) | Esta arma puede fijarse en el suelo, lo que requiere una acción de Interactuar. Cuando está fijada, ... |
+| [Flexible](/apendices/rasgos/flexible/) | Esta armadura es flexible y no penaliza tanto tus movimientos. |
+| [Gemela](/apendices/rasgos/gemela/) | Estas armas se utilizan en pareja, complementando los ataques de una con la otra. Cuando usas tu seg... |
+| [Justa, de](/apendices/rasgos/justa-de/) | Esta arma está diseñada para usarse mientras estás montado. Mientras estés montado, puedes empuñar e... |
+| [Letal](/apendices/rasgos/letal/) | El dado de daño letal de esta arma se muestra entre paréntesis. En un impacto crítico, el arma infli... |
+| [Mano libre](/apendices/rasgos/mano-libre/) | Esta arma no ocupa tu mano, permitiéndote usar esa mano para otras acciones. |
+| [No letal](/apendices/rasgos/no-letal/) | Todas las armas con este rasgo son no letales y se usan para someter a los enemigos en lugar de mata... |
+| [Ocultable](/apendices/rasgos/ocultable/) | Esta arma está diseñada para ser ocultada. Obtienes un bonificador +2 por circunstancia a las prueba... |
+| [Parada](/apendices/rasgos/parada/) | Esta arma puede usarse de forma defensiva para bloquear ataques. Mientras empuñas esta arma, si tu c... |
+| [Presa](/apendices/rasgos/presa/) | Puedes usar esta arma para realizar la acción de Agarrar con un ataque cuerpo a cuerpo, incluso si n... |
+| [Propulsión, de](/apendices/rasgos/propulsion-de/) | Añades la mitad de tu modificador por Fuerza (si es positivo) a las tiradas de daño con esta arma de... |
+| [Revés](/apendices/rasgos/reves/) | Puedes usar el lado romo de esta arma cortante para infligir daño contundente en lugar de cortante. |
+| [Ruidosa](/apendices/rasgos/ruidosa/) | Esta armadura es ruidosa y puede alertar a otros de tu presencia. |
+| [Salpicadura](/apendices/rasgos/salpicadura/) | Cuando usas esta arma arrojadiza, además del objetivo principal, puedes elegir otra criatura adyacen... |
+| [Sin armas](/apendices/rasgos/sin-armas/) | Un ataque sin armas usa tu cuerpo en lugar de un arma manufacturada. |
+| [Versátil](/apendices/rasgos/versatil/) | Un arma versátil puede usarse para infligir un tipo diferente de daño mostrado entre paréntesis. |
+| [Volea](/apendices/rasgos/volea/) | Esta arma está diseñada para ser disparada en rápida sucesión. Si usas la acción Volear para dispara... |
 
 ## Rasgos de Objeto
 
@@ -279,7 +279,7 @@ Los rasgos son etiquetas que describen propiedades específicas de reglas, criat
 | [Herida](/apendices/rasgos/herida/) | Este veneno se aplica dañando a su receptor. |
 | [Ingerido](/apendices/rasgos/ingerido/) | Este veneno se introduce en el cuerpo cuando lo tragas. |
 | [Inhalado](/apendices/rasgos/inhalado/) | Este veneno se aplica cuando se respira. |
-| [Virulento](/apendices/rasgos/virulento/) | **visión en la oscuridad** (sentido) — Ver claramente en la oscuridad, aunque sólo en blanco y negro... |
+| [Virulento](/apendices/rasgos/virulento/) | Un veneno virulento es particularmente difícil de eliminar. Necesitas dos salvaciones con éxito cons... |
 
 ## Rasgos de Peligro
 
@@ -294,20 +294,20 @@ Los rasgos son etiquetas que describen propiedades específicas de reglas, criat
 
 | Rasgo | Descripción |
 |-------|-------------|
-| [Poco común](/apendices/rasgos/poco-comun/) | **polimorfía** (rasgo) |
-| [Raro](/apendices/rasgos/raro/) | **rasgo** — Una palabra clave que transmite información acerca de un elemento de las reglas. A menud... |
-| [Único](/apendices/rasgos/unico/) | **UR** (Umbral de rotura) |
+| [Poco común](/apendices/rasgos/poco-comun/) | Algo de rareza poco común requiere circunstancias especiales para que un personaje lo obtenga. |
+| [Raro](/apendices/rasgos/raro/) | Algo con rareza rara es muy difícil de encontrar en el mundo del juego. |
+| [Único](/apendices/rasgos/unico/) | Un objeto único es uno de su tipo en el mundo. Solo existe uno. |
 
 ## Rasgos de Dote
 
 | Rasgo | Descripción |
 |-------|-------------|
 | [Arquetipo](/apendices/rasgos/arquetipo/) | Esta dote pertenece a un arquetipo. |
-| [Dedicación](/apendices/rasgos/dedicacion/) | **defecto de atributo** — Un defecto de atributo disminuye uno de tus modificadores por atributo en ... |
+| [Dedicación](/apendices/rasgos/dedicacion/) | Esta dote representa un entrenamiento especializado que te da acceso a un conjunto de aptitudes. Sol... |
 | [General](/apendices/rasgos/general/) | Una dote con este rasgo está disponible para todos los personajes que cumplan sus prerrequisitos. |
 | [Habilidad](/apendices/rasgos/habilidad/) | Una dote general con el rasgo habilidad mejora tus habilidades y tus acciones o te concede nuevas ac... |
 | [Linaje](/apendices/rasgos/linaje/) | Una dote con este rasgo indica la descendencia de un PJ de un tipo particular de criatura. Sólo pued... |
-| [Multiclase](/apendices/rasgos/multiclase/) | **multiplicar** |
+| [Multiclase](/apendices/rasgos/multiclase/) | Los arquetipos con el rasgo multiclase representan diversificar tu entrenamiento en las aptitudes de... |
 
 ## Rasgos Sensoriales
 
@@ -322,21 +322,21 @@ Los rasgos son etiquetas que describen propiedades específicas de reglas, criat
 
 | Rasgo | Descripción |
 |-------|-------------|
-| [Aprovechar](/apendices/rasgos/aprovechar/) | **aptitud** — Éste es un término general que se refiere a las reglas que proporcionan una excepción ... |
+| [Aprovechar](/apendices/rasgos/aprovechar/) | Esta acción te permite hacer uso de una circunstancia o posición ventajosa. |
 | [Bravura](/apendices/rasgos/bravura/) | Este efecto inspira valor y determinación. |
-| [Convocado](/apendices/rasgos/convocado/) | **convocar** (rasgo) |
+| [Convocado](/apendices/rasgos/convocado/) | Una criatura convocada no puede convocar a otras criaturas, crear objetos de valor duradero o lanzar... |
 | [Desgracia](/apendices/rasgos/desgracia/) | Una desgracia es un efecto negativo basado en la suerte. |
-| [Desventura](/apendices/rasgos/desventura/) | **Desviar la mirada** {% include accion.html tipo="1" %} (acción básica de especialidad) — Evitar la... |
+| [Desventura](/apendices/rasgos/desventura/) | Un efecto de desventura te obliga a tirar dos veces y tomar el peor resultado. |
 | [Entre descansos](/apendices/rasgos/entre-descansos/) | Esta actividad o aptitud solo puede usarse una vez entre descansos prolongados. |
-| [Esbirro](/apendices/rasgos/esbirro/) | **Escamotear un objeto** {% include accion.html tipo="1" %} (acción de habilidad) — Llevarse un obje... |
+| [Esbirro](/apendices/rasgos/esbirro/) | Los esbirros son criaturas que siguen tus órdenes sin cuestionar. Tu esbirro actúa en tu turno en co... |
 | [Justiciero](/apendices/rasgos/justiciero/) | Esto indica aptitudes del arquetipo justiciero. |
 | [Lesión](/apendices/rasgos/lesion/) | Un veneno de lesión se introduce en el cuerpo a través de una herida abierta, ya sea por un ataque o... |
-| [Morfismo](/apendices/rasgos/morfismo/) | **moribundo** (estado) — Tienes 0 PG y estás cerca de la muerte. |
+| [Morfismo](/apendices/rasgos/morfismo/) | Los efectos con este rasgo cambian la forma física del objetivo. |
 | [Ocultismo](/apendices/rasgos/ocultismo/) | Esta magia procede de la tradición ocultista, y se basa en misterios extraños y efímeros. Cualquier ... |
 | [Ocultista](/apendices/rasgos/ocultista/) | Esto indica aptitudes de la clase ocultista. |
-| [Posición](/apendices/rasgos/posicion/) | **pp** (pieza de plata) |
+| [Posición](/apendices/rasgos/posicion/) | Las aptitudes con el rasgo posición requieren que estés en una posición específica para usarlas. |
 | [Primitivo](/apendices/rasgos/primitivo/) | Un objeto con este rasgo usa métodos y materiales accesibles para culturas sin metalurgia avanzada. |
 | [Saga](/apendices/rasgos/saga/) | Estas malignas lanzadoras de conjuros forman aquelarres. |
 | [Secreto](/apendices/rasgos/secreto/) | El DJ hace en secreto la prueba para esta aptitud. No sabrás el resultado exacto de tu tirada, solo ... |
-| [Sutil](/apendices/rasgos/sutil/) |  |
+| [Sutil](/apendices/rasgos/sutil/) | Un conjuro sutil no tiene manifestaciones obvias. Si el conjuro normalmente tendría una manifestació... |
 | [Videncia](/apendices/rasgos/videncia/) | Los efectos de videncia revelan información oculta, permiten ver a distancia o ver a través de ilusi... |

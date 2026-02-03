@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-## L
+Esta arma está diseñada para usarse mientras estás montado. Mientras estés montado, puedes empuñar esta arma con una mano, cambiando el requisito de manos a 1.

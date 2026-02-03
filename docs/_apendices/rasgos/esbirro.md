@@ -8,4 +8,4 @@ trait_type: acción
 source: PC1
 ---
 
-**Escamotear un objeto** {% include accion.html tipo="1" %} (acción de habilidad) — Llevarse un objeto sin que nadie se dé cuenta. (Latrocinio)
+Los esbirros son criaturas que siguen tus órdenes sin cuestionar. Tu esbirro actúa en tu turno en combate, una vez por ronda, cuando gastas una acción para ordenarle que actúe.

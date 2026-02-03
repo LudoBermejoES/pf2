@@ -8,4 +8,4 @@ trait_type: acción
 source: PC1
 ---
 
-**Mantener el equilibrio** {% include accion.html tipo="1" %} (acción de habilidad) — Moverse sobre una superficie estrecha o inestable. (Acrobacias)
+Esta arma no ocupa tu mano, permitiéndote usar esa mano para otras acciones.

@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**floritura** (rasgo)
+Esta armadura es flexible y no penaliza tanto tus movimientos.

@@ -8,4 +8,4 @@ trait_type: arma
 source: PC1
 ---
 
-**bardas** — Armadura para animales.
+Agarrar esta arma otorga un bonificador +2 por circunstancia a tu CA mientras estés en posición defensiva.

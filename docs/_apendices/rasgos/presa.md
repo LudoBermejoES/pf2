@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**Primeros auxilios** {% include accion.html tipo="2" %} (acción de habilidad) — Estabilizar a una criatura moribunda o detener una hemorragia. (Medicina)
+Puedes usar esta arma para realizar la acción de Agarrar con un ataque cuerpo a cuerpo, incluso si no tienes una mano libre.

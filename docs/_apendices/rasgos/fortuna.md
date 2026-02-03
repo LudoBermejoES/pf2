@@ -8,4 +8,4 @@ trait_type: acción
 source: PC1
 ---
 
-**Forzar una cerradura** {% include accion.html tipo="2" %} (acción de habilidad) — Abrir una cerradura. (Latrocinio, entrenado)
+Un efecto de fortuna te permite tirar dos veces y tomar el mejor resultado. No puedes tener más de un efecto de fortuna en una tirada dada.

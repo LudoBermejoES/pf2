@@ -8,4 +8,4 @@ trait_type: conjuro
 source: PC1
 ---
 
-**bastón** (rasgo) — Este objeto mágico permite a un lanzador de conjuros lanzar conjuros adicionales preparando el bastón.
+Este arma hace amplios barridos. Cuando atacas con esta arma, obtienes un bonificador +1 por circunstancia a tu tirada de ataque si ya has intentado atacar con ella a otra criatura diferente este turno.

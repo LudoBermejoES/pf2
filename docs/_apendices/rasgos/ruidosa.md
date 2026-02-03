@@ -8,4 +8,4 @@ trait_type: arma
 source: PC1
 ---
 
-**runa** (objeto mágico) — Las runas son similares a los objetos mágicos, pero se pueden grabar en las armas, las armaduras y los escudos para hacerlos más poderosos.
+Esta armadura es ruidosa y puede alertar a otros de tu presencia.

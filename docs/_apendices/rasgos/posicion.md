@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**pp** (pieza de plata)
+Las aptitudes con el rasgo posición requieren que estés en una posición específica para usarlas.

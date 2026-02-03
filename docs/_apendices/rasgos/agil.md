@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**agua** (rasgo) — Los efectos con el rasgo agua, o bien manipulan, o bien conjuran agua. Los que manipulan agua carecen de efecto en un área sin agua. Las criaturas con este rasgo están hechas principalmente de agua o tienen una conexión con el agua mágica.
+El penalizador por ataque múltiple que sufres con este arma en el segundo ataque de un turno es -4 en lugar de -5, y -8 en lugar de -10 en el tercer ataque o siguientes.

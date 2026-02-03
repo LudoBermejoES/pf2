@@ -8,4 +8,4 @@ trait_type: acción
 source: PC1
 ---
 
-**Ocultar un objeto** {% include accion.html tipo="1" %} (acción de habilidad) — Esconder un objeto. (Sigilo)
+Esta arma está diseñada para ser ocultada. Obtienes un bonificador +2 por circunstancia a las pruebas de habilidad para ocultarla.

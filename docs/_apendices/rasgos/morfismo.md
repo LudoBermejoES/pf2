@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**moribundo** (estado) — Tienes 0 PG y estás cerca de la muerte.
+Los efectos con este rasgo cambian la forma física del objetivo.

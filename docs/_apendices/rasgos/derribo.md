@@ -8,4 +8,4 @@ trait_type: arma
 source: PC1
 ---
 
-**derribo a distancia** (rasgo de arma)
+Puedes usar esta arma para realizar la acción de Derribar con un ataque cuerpo a cuerpo, incluso si no tienes una mano libre.

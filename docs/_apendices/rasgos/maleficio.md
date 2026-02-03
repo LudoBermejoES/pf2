@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**malintencionado** (estado) — A un PNJ malintencionado no le caes bien.
+Un maleficio es un tipo de conjuro de foco asociado con la clase de brujo. Los maleficios se lanzan utilizando Puntos de Foco.

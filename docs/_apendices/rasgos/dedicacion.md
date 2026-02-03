@@ -8,4 +8,4 @@ trait_type: efecto
 source: PC1
 ---
 
-**defecto de atributo** — Un defecto de atributo disminuye uno de tus modificadores por atributo en 1.
+Esta dote representa un entrenamiento especializado que te da acceso a un conjunto de aptitudes. Solo puedes seleccionar una dote de dedicación de un arquetipo dado una vez.

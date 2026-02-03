@@ -8,4 +8,4 @@ trait_type: acción
 source: PC1
 ---
 
-**Desviar la mirada** {% include accion.html tipo="1" %} (acción básica de especialidad) — Evitar las aptitudes visuales.
+Un efecto de desventura te obliga a tirar dos veces y tomar el peor resultado.

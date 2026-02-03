@@ -8,4 +8,4 @@ trait_type: ascendencia
 source: PC1
 ---
 
-**enano** (rasgo) — Una criatura con este rasgo es un miembro de la ascendencia de los enanos. Los enanos son gente recia que a menudo vive bajo tierra y típicamente dispone de visión en la oscuridad. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por enanos. Un objeto con este rasgo es creado y utilizado por los enanos.
+Puedes usar esta arma para realizar la acción de Empujar con un ataque cuerpo a cuerpo, incluso si no tienes una mano libre.

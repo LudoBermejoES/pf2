@@ -8,4 +8,4 @@ trait_type: conjuro
 source: PC1
 ---
 
-**libro de conjuros**
+El dado de daño letal de esta arma se muestra entre paréntesis. En un impacto crítico, el arma inflige daño letal adicional igual a ese dado de daño.

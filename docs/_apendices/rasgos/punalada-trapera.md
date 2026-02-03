@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**PX** (Puntos de Experiencia) — Ver también Puntos de Experiencia.
+Cuando haces un Golpe con esta arma contra un enemigo desprevenido, infliges 1d6 de daño de precisión adicional.

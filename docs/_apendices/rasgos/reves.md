@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**riesgo** — Los riesgos son peligros distintos a las criaturas y con los que se encuentran los aventureros durante sus viajes, incluyendo riesgos medioambientales, apariciones y trampas.
+Puedes usar el lado romo de esta arma cortante para infligir daño contundente en lugar de cortante.

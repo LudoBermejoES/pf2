@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**UR** (Umbral de rotura)
+Un objeto único es uno de su tipo en el mundo. Solo existe uno.

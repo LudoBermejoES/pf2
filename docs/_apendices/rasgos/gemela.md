@@ -8,4 +8,4 @@ trait_type: clase
 source: PC1
 ---
 
-**general** (rasgo) — Un tipo de dote que cualquier PJ puede seleccionar, sin importar ascendencia y clase, si cumple los prerrequisitos. Puedes seleccionar una dote con este rasgo cuando tu clase te concede una dote general.
+Estas armas se utilizan en pareja, complementando los ataques de una con la otra. Cuando usas tu segunda arma gemela para hacer un Golpe mientras empuñas ambas armas gemelas, añades un bonificador +1 por circunstancia a la tirada de daño.

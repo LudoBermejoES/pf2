@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**aberración** (rasgo) — Las aberraciones son criaturas de más allá de los Planos o bien corrupciones del orden natural.
+Este arma se puede empuñar con una o dos manos. Se aplica el dado de daño indicado entre paréntesis cuando el arma se empuña con dos manos.

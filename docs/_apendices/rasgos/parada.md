@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**paralizado** (estado) — No puedes moverte ni defenderte a ti mismo por completo.
+Esta arma puede usarse de forma defensiva para bloquear ataques. Mientras empuñas esta arma, si tu competencia con ella es al menos entrenado, puedes usar la acción Parar.

@@ -8,4 +8,4 @@ trait_type: arma
 source: PC1
 ---
 
-**alcance** — La distancia a la que puedes llegar físicamente con tu cuerpo o con un arma.
+Esta arma puede usarse para atacar a enemigos hasta 10 pies de distancia en lugar de 5 pies. Para las criaturas con un alcance mayor, añade 5 pies a su alcance normal.

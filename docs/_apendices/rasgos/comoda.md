@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**compañero animal** — Un animal que lucha a tu lado.
+Esta armadura es cómoda de llevar durante largos periodos de tiempo.

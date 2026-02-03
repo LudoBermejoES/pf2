@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**Artesanía** (habilidad) — Crear, entender y reparar objetos. (Int)
+Puedes lanzar esta arma como ataque a distancia, y utiliza el mismo modificador por atributo que normalmente, generalmente Fuerza.

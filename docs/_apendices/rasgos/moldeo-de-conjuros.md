@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**monedas**
+Las acciones de moldeo de conjuros te permiten modificar los efectos de tus conjuros.

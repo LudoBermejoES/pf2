@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**polimorfía** (rasgo)
+Algo de rareza poco común requiere circunstancias especiales para que un personaje lo obtenga.

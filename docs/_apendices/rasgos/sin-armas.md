@@ -8,4 +8,4 @@ trait_type: general
 source: PC1
 ---
 
-**Sociedad** (habilidad) — Conocimientos acerca de la civilización, la cultura y la historia. (Int)
+Un ataque sin armas usa tu cuerpo en lugar de un arma manufacturada.
