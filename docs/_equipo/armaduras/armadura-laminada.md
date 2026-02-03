@@ -7,6 +7,8 @@ category: equipo
 nav_order: 6
 source: PC1
 ---
+<img src="{{ '/assets/images/armaduras/armadura-laminada.png' | relative_url }}" class="armor-card-image" alt="Carta de armadura">
+
 
 **Precio** 13 po
 

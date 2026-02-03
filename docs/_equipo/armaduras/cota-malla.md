@@ -7,6 +7,8 @@ category: equipo
 nav_order: 10
 source: PC1
 ---
+<img src="{{ '/assets/images/armaduras/cota-malla.png' | relative_url }}" class="armor-card-image" alt="Carta de armadura">
+
 
 **Precio** 6 po
 

@@ -7,6 +7,8 @@ category: equipo
 nav_order: 5
 source: PC1
 ---
+<img src="{{ '/assets/images/armaduras/armadura-placas-mallas.png' | relative_url }}" class="armor-card-image" alt="Carta de armadura">
+
 
 **Precio** 18 po
 

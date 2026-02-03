@@ -7,6 +7,8 @@ category: equipo
 nav_order: 3
 source: PC1
 ---
+<img src="{{ '/assets/images/armaduras/armadura-cuero-tachonado.png' | relative_url }}" class="armor-card-image" alt="Carta de armadura">
+
 
 **Precio** 3 po
 

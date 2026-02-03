@@ -7,6 +7,8 @@ category: equipo
 nav_order: 12
 source: PC1
 ---
+<img src="{{ '/assets/images/armaduras/ropa-explorador.png' | relative_url }}" class="armor-card-image" alt="Carta de armadura">
+
 
 **Precio** 1 pp
 
