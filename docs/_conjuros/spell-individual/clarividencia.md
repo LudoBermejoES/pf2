@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/clarividencia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Clarividencia [CONJURO 4]

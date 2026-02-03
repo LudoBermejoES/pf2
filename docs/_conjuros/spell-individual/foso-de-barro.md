@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/foso-de-barro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Foso de barro {% include accion.html tipo="3" %} [1]

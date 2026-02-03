@@ -7,6 +7,7 @@ category: equipo
 nav_order: 20
 source: PC1
 ---
+
 <img src="{{ '/assets/images/armas/cadena-armada.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
 
 

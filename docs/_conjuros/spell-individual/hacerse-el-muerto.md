@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/hacerse-el-muerto.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Hacerse el muerto {% include accion.html tipo="libre" %} [5]

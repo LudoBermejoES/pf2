@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/golpe-seguro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Golpe Seguro {% include accion.html tipo="1" %} [CONJURO 1]

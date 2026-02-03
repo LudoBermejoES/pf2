@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/monos-locos.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Monos Locos {% include accion.html tipo="2" %} [CONJURO 3]

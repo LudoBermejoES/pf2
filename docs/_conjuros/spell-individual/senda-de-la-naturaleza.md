@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/senda-de-la-naturaleza.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Senda de la Naturaleza [CONJURO 5]

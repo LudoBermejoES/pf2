@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/pisada-segura.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Pisada Segura {% include accion.html tipo="2" %} [CONJURO 2]

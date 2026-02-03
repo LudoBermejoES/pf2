@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 10
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/manifestacion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Manifestacion {% include accion.html tipo="3" %} [CONJURO 10]

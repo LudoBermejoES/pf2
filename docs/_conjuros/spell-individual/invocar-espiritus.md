@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/invocar-espiritus.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Invocar Espiritus {% include accion.html tipo="2" %} [CONJURO 5]

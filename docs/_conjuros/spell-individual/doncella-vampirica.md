@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/doncella-vampirica.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Doncella vampírica {% include accion.html tipo="2" %} [4]

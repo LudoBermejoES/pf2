@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/hablar-con-las-piedras.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Hablar con las Piedras {% include accion.html tipo="2" %} [CONJURO 5]

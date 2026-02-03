@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/maldicion-del-tiempo-perdido.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Maldición del tiempo perdido {% include accion.html tipo="2" %} [3]

@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/leer-el-aura.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Leer el Aura [TRUCO 1]

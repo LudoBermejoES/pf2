@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/vendetta-de-sangre-.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Vendetta de Sangre {% include accion.html tipo="reaccion" %} [CONJURO 2]

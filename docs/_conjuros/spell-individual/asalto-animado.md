@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/asalto-animado.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Asalto animado {% include accion.html tipo="2" %} [2]

@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/visiones-de-peligro.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Visiones de peligro {% include accion.html tipo="3" %} [7]

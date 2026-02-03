@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/cancion-espiritual.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Canción espiritual {% include accion.html tipo="2" %} [8]

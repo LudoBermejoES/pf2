@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/orientacion.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Orientación {% include accion.html tipo="1" %} [TRUCO 1]

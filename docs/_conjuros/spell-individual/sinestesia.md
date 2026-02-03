@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/sinestesia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Sinestesia {% include accion.html tipo="2" %} [5]

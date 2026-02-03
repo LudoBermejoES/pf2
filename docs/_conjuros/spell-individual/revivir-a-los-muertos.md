@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/revivir-a-los-muertos.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Revivir a los Muertos [CONJURO 6]

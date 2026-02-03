@@ -7,7 +7,8 @@ category: equipo
 nav_order: 22
 source: PC1
 ---
-<img src="{{ '/assets/images/objetos/libro-artesano.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
+
+<img src="{{ '/assets/images/objetos/libro-artesano.png' | relative_url }}" class="item-card-image" alt="Carta de objeto">
 
 **Precio** 1 pp
 

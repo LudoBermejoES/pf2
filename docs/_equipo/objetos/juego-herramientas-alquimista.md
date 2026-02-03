@@ -7,7 +7,8 @@ category: equipo
 nav_order: 19
 source: PC1
 ---
-<img src="{{ '/assets/images/objetos/juego-herramientas-alquimista.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
+
+<img src="{{ '/assets/images/objetos/juego-herramientas-alquimista.png' | relative_url }}" class="item-card-image" alt="Carta de objeto">
 
 **Precio** 3 po
 

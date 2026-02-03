@@ -7,6 +7,7 @@ category: equipo
 nav_order: 47
 source: PC1
 ---
-<img src="{{ '/assets/images/objetos/simbolo-religioso.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
+
+<img src="{{ '/assets/images/objetos/simbolo-religioso.png' | relative_url }}" class="item-card-image" alt="Carta de objeto">
 
 Este trozo de madera o de plata está blasonado con una imagen que representa a un dios. Algunos lanzadores de conjuros divinos, como por ejemplo los clérigos, pueden emplear un símbolo religioso para usar ciertas aptitudes. Un símbolo religioso se puede llevar puesto en el cuerpo mediante una cadena o un broche, o puede sostenerse con la mano.

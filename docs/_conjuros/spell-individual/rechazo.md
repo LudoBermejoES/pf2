@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/rechazo.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Rechazo {% include accion.html tipo="2" %} [CONJURO 6]

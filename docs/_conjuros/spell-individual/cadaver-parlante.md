@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/cadaver-parlante.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Cadaver Parlante [CONJURO 4]

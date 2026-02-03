@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/distorsion-del-vacio.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Distorsion del Vacío {% include accion.html tipo="2" %} [TRUCO 1]

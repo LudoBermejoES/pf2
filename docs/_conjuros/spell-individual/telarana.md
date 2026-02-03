@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/telarana.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Telaraña {% include accion.html tipo="3" %} [2]

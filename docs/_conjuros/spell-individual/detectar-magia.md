@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/detectar-magia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Detectar Magia {% include accion.html tipo="2" %} [TRUCO 1]

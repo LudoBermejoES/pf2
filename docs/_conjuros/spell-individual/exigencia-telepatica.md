@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 9
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/exigencia-telepatica.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Exigencia telepática {% include accion.html tipo="3" %} [9]

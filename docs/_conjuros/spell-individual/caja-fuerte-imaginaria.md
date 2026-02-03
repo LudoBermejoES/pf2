@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 5
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/caja-fuerte-imaginaria.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Caja fuerte imaginaria [5]

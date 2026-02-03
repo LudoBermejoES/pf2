@@ -7,7 +7,8 @@ category: equipo
 nav_order: 39
 source: PC1
 ---
-<img src="{{ '/assets/images/objetos/periscopio.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
+
+<img src="{{ '/assets/images/objetos/periscopio.png' | relative_url }}" class="item-card-image" alt="Carta de objeto">
 
 **Precio** 25 po
 

@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/convocar-animal.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Convocar Animal {% include accion.html tipo="3" %} [CONJURO 1]

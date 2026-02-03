@@ -7,6 +7,7 @@ category: equipo
 nav_order: 1
 source: PC1
 ---
+
 <img src="{{ '/assets/images/armaduras/armadura-completa.png' | relative_url }}" class="armor-card-image" alt="Carta de armadura">
 
 

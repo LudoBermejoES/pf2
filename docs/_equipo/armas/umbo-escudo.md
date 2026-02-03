@@ -7,6 +7,7 @@ category: equipo
 nav_order: 86
 source: PC1
 ---
+
 <img src="{{ '/assets/images/armas/umbo-escudo.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
 
 

@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: TRUCO
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/himno-inquietante.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Himno inquietante {% include accion.html tipo="2" %} [TRUCO 1]

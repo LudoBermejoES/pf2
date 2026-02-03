@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/muro-de-viento.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Muro de Viento {% include accion.html tipo="3" %} [CONJURO 3]

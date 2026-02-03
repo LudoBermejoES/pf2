@@ -6,6 +6,7 @@ chapter: Equipo
 category: equipo
 source: PC2
 ---
+
 <img src="{{ '/assets/images/armas/honda-atronadora.png' | relative_url }}" class="weapon-card-image" alt="Carta de arma">
 
 

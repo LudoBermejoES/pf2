@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/sellar-destino.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Sellar destino {% include accion.html tipo="2" %} [4]

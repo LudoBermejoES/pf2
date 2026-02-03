@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/levitar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Levitar {% include accion.html tipo="2" %} [CONJURO 3]

@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 6
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/manto-de-estrellas.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Manto de estrellas {% include accion.html tipo="2" %} [6]

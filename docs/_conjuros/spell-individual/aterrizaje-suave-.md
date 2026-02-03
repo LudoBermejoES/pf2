@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 1
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/aterrizaje-suave-.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Aterrizaje Suave {% include accion.html tipo="reaccion" %} [CONJURO 1]

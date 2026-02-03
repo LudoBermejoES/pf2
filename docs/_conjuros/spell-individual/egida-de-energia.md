@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/egida-de-energia.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Egida de Energia [CONJURO 7]

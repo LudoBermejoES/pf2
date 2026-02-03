@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/vincular-muertos-vivientes.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Vincular Muertos Vivientes {% include accion.html tipo="2" %} [CONJURO 3]

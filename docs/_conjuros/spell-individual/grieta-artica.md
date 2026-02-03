@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/grieta-artica.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Grieta Artica {% include accion.html tipo="2" %} [CONJURO 8]

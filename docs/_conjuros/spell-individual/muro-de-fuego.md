@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 4
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/muro-de-fuego.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Muro de Fuego {% include accion.html tipo="3" %} [CONJURO 4]

@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/jaula-de-madera-vital.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Jaula de madera vital {% include accion.html tipo="3" %} [7]

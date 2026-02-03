@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/rostro-del-familiar.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Rostro del familiar {% include accion.html tipo="2" %} [3]

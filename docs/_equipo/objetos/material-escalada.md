@@ -7,7 +7,8 @@ category: equipo
 nav_order: 31
 source: PC1
 ---
-<img src="{{ '/assets/images/objetos/material-escalada.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
+
+<img src="{{ '/assets/images/objetos/material-escalada.png' | relative_url }}" class="item-card-image" alt="Carta de objeto">
 
 **Precio** 5 pp
 

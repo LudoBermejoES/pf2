@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 7
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/decreto-divino.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Decreto Divino {% include accion.html tipo="2" %} [CONJURO 7]

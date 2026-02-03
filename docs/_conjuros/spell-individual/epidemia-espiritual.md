@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 8
 source: PC2
 ---
+
 <img src="{{ '/assets/images/conjuros/epidemia-espiritual.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Epidemia espiritual {% include accion.html tipo="2" %} [8]

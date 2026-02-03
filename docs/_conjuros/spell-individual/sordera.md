@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 2
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/sordera.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Sordera {% include accion.html tipo="2" %} [CONJURO 2]

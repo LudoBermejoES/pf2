@@ -6,6 +6,7 @@ chapter: Conjuros
 spell_level: 3
 source: PC1
 ---
+
 <img src="{{ '/assets/images/conjuros/bola-de-fuego.png' | relative_url }}" class="spell-card-image" alt="Carta de conjuro">
 
 ## Bola de Fuego {% include accion.html tipo="2" %} [CONJURO 3]
