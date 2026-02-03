@@ -13,7 +13,7 @@ Los conjuros de foco del bardo se conocen como **composiciones**. Estas poderosa
 ---
 
 ## Endecha de Perdición {% include accion.html tipo="1" %} TRUCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composición</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composición</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Area:** emanacion de 30 pies (9 m)
 **Duracion:** 1 asalto
 
@@ -22,7 +22,7 @@ Los enemigos en el interior del area quedan asustados 1. No pueden reducir su va
 ---
 
 ## Estudio del Maestro del Saber {% include accion.html tipo="libre" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 **Musa:** enigma
 **Desencadenante:** Tu o un aliado tuyo dentro del alcance haceis una prueba de habilidad para Recordar conocimiento
 **Rango:** 30 pies (9 m); **Objetivos:** tu o el aliado desencadenante
@@ -32,7 +32,7 @@ Puedes apelar a los misterios profundos de tu musa, concediendo al objetivo una 
 ---
 
 ## Flautista de Hamelin {% include accion.html tipo="2" %} FOCO 10
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/sonico/" class="feat-trait">Sonico</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/sonico/" class="feat-trait">Sonico</a></div>
 **Area:** emanacion de 5 pies (1,5 m)
 **Defensa:** Voluntad; **Duracion:** 1 minuto
 
@@ -49,7 +49,7 @@ Tu interpretación cautiva a los oyentes, obligándoles a seguirte. Cada criatur
 ---
 
 ## Himno de Curacion {% include accion.html tipo="2" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/curacion/" class="feat-trait">Curacion</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curacion</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** tu o 1 aliado
 **Duracion:** mantenido hasta 4 asaltos
 
@@ -60,7 +60,7 @@ Tu glorioso cantico remienda las heridas y proporciona un respiro temporal contr
 ---
 
 ## Himno de Reagrupamiento {% include accion.html tipo="1" %} TRUCO 2
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Area:** emanacion de 60 pies (18 m)
 **Duracion:** 1 asalto
 
@@ -69,7 +69,7 @@ Tu canción anima a tus aliados a protegerse de forma mas efectiva. Tu y todos t
 ---
 
 ## Himno Valeroso {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Area:** emanacion de 60 pies (18 m)
 **Duracion:** 1 asalto
 
@@ -78,7 +78,7 @@ Te inspiras a ti mismo y a tus aliados con palabras o canciones de animo. Tu y t
 ---
 
 ## La Casa de los Muros Imaginarios {% include accion.html tipo="1" %} TRUCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/ilusion/" class="feat-trait">Ilusion</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/truco/" class="feat-trait">Truco</a><a href="/rasgos/visual/" class="feat-trait">Visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">Ilusion</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 **Rango:** toque
 **Duracion:** 1 asalto
 
@@ -87,7 +87,7 @@ Expresas con mimica la creación de un muro de 10 x 10 pies (3 x 3 m) invisible,
 ---
 
 ## Obertura Estimulante {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Musa:** maestro
 **Rango:** 60 pies (18 m); **Objetivos:** 1 aliado
 **Duracion:** 1 asalto
@@ -99,7 +99,7 @@ El DJ podría establecer que no puedes utilizar esta aptitud si la acción de an
 ---
 
 ## Oda a Ouroboros {% include accion.html tipo="reaccion" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a></div>
 **Desencadenante:** El estado moribundo de una criatura alcanzaria el valor en el que muere.
 **Rango:** 60 pies (18 m); **Objetivos:** la criatura desencadenante
 
@@ -108,7 +108,7 @@ Tu oda mantiene a raya a la muerte. El estado moribundo del objetivo permanece 1
 ---
 
 ## Sinfonia del Corazón Libre {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** tu o 1 aliado
 
 Tu sinfonia eleva a quienes la escuchan de sus preocupaciones mundanas. Haz una prueba de Interpretación para contrarrestar un efecto que aplica al objetivo uno de los siguientes estados: agarrado, aturdido, inmovilizado, lentificado, neutralizado o paralizado. Si fallas, no puedes contrarrestar el mismo efecto sobre el objetivo durante 1 dia. Utiliza el origen del estado para determinar la CD de contrarrestar (por ejemplo, la CD de Huir para agarrado).
@@ -118,7 +118,7 @@ Tu sinfonia eleva a quienes la escuchan de sus preocupaciones mundanas. Haz una 
 ---
 
 ## Triplicar la Marcha {% include accion.html tipo="1" %} TRUCO 2
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/composicion/" class="feat-trait">Composicion</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Area:** emanacion de 60 pies (18 m)
 **Duracion:** 1 asalto
 

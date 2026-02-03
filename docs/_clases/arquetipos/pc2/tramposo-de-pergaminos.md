@@ -15,7 +15,7 @@ La magia ha sido escrita en innumerables formas durante mucho tiempo. Desde el c
 
 ### Dedicación de Tramposo de pergaminos · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Arcanos, Naturaleza, Ocultismo o Religión
 
@@ -23,7 +23,7 @@ Has estudiado los pergaminos en profundidad. Esto puede haber sido una educació
 
 ### Reserva básica de pergaminos · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Tramposo de pergaminos
 
@@ -33,7 +33,7 @@ En el 8.º nivel, añade un segundo pergamino temporal que contenga un conjuro d
 
 ### Ojear pergamino · {% include accion.html tipo="1" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Tramposo de pergaminos
 
@@ -41,7 +41,7 @@ Puedes activar la magia de un pergamino con una lectura somera mientras lo sacas
 
 ### Reserva experta de pergaminos · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Reserva básica de pergaminos
 
@@ -49,7 +49,7 @@ Tu colección de pergaminos ha crecido enormemente, tanto en tamaño como en pot
 
 ### Reserva maestra de pergaminos · Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Reserva experta de pergaminos
 

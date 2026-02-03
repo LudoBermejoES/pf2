@@ -9,7 +9,7 @@ level: 7
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/curacion/" class="feat-trait">Curacion</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curacion</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Dote 7**
 

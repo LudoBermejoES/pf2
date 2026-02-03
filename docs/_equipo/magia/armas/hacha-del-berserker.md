@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 7; **Precio** 340 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/encantamiento/" class="feat-trait">Encantamiento</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/encantamiento/" class="feat-trait">Encantamiento</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a></div>
 
 **Tipo base:** Hacha de batalla
 

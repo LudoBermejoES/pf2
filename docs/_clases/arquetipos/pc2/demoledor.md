@@ -17,7 +17,7 @@ Te abres paso a empujones entre legiones de enemigos, derribas a los oponentes a
 
 ### Dedicación de Demoledor · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** Fuerza 14
 
@@ -27,7 +27,7 @@ Si eres al menos experto con tal arma, obtienes acceso al efecto de especializac
 
 ### Abrir paso · {% include accion.html tipo="2" %} · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Demoledor
 
@@ -37,7 +37,7 @@ Pones tu cuerpo tras tu arma masiva y la haces girar, empujando a los enemigos p
 
 ### Barrido de empuje · {% include accion.html tipo="libre" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Demoledor, experto en Atletismo
 
@@ -49,7 +49,7 @@ Balanceas tu arma contra tu enemigo, rechazándolo hacia atrás. Intentas Empuja
 
 ### Martillazo sísmico · {% include accion.html tipo="3" %} · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/floritura/" class="feat-trait">Floritura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
 **Prerrequisitos:** Dedicación de Demoledor
 
@@ -61,7 +61,7 @@ Martillazo sísmico cuenta como tres ataques para tu penalización por ataques m
 
 ### Golpe de avalancha · {% include accion.html tipo="3" %} · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/floritura/" class="feat-trait">Floritura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
 **Prerrequisitos:** Dedicación de Demoledor
 

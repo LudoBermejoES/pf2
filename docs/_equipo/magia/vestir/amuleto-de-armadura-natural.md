@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 2; **Precio** 30 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/abjuracion/" class="feat-trait">Abjuración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/abjuracion/" class="feat-trait">Abjuración</a></div>
 
 **Ranura:** Cuello
 

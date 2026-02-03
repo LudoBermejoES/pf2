@@ -10,7 +10,7 @@ source: PC2
 
 ## Reencarnar [RITUAL 3]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 **Lanzamiento:** 4 horas; **Coste:** hierbas raras por valor total de el nivel del objetivo (mínimo 1) × 25 mo; **Lanzadores secundarios:** 2
 

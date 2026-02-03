@@ -11,8 +11,8 @@ source: PC1
 **Dote 3** · General
 
 <div class="feat-traits-header">
-<a href="/rasgos/general/" class="feat-trait">General</a>
-<a href="/rasgos/manipular/" class="feat-trait">MANIPULAR</a>
+<a href="/apendices/rasgos/general/" class="feat-trait">General</a>
+<a href="/apendices/rasgos/manipular/" class="feat-trait">MANIPULAR</a>
 </div>
 
 **Coste:** El Precio del objeto elegido.

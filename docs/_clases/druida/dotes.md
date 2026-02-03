@@ -17,7 +17,7 @@ En cada nivel en el que obtienes una dote de druida, puedes seleccionar una de l
 
 ### Arma Verde | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
 Cultivas una semilla que puede brotar en forma de un bastón de madera, un látigo de enredaderas u otra arma. Inviertes 10 minutos enfocando energía primigenia en una semilla, impregnándola con el potencial de una sola arma de nivel 0 en la que estás entrenado y que no tiene partes mecánicas ni componentes metálicos. Mientras sostienes la semilla impregnada, puedes usar una acción de Interactuar para hacer que crezca de inmediato, convirtiéndose en dicha arma; una segunda acción de Interactuar la devuelve a su forma de semilla. Sobre el arma verde se pueden grabar runas o se le pueden fijar talismanes de la forma habitual, todo lo cual queda suprimido cuando el arma está en forma de semilla.
 
@@ -27,7 +27,7 @@ Tan solo puedes tener una semilla verde a la vez. Si preparas una segunda, la pr
 
 ### Compañero Animal | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden animal
 
@@ -37,7 +37,7 @@ Obtienes los servicios de un compañero animal joven que viaja contigo en tus av
 
 ### Conjuro de Alcance {% include accion.html tipo="1" %} | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas es Lanzar un conjuro que tiene alcance, incrementa dicho alcance en 30 pies (9 m). Si el conjuro tiene normalmente un alcance de toque, lo prolonga hasta 30 pies (9 m).
 
@@ -45,7 +45,7 @@ Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas 
 
 ### Empatía Animal | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Tienes una conexión con las criaturas del mundo natural que te permite comunicarte con ellas a un nivel rudimentario. Puedes formularles preguntas, obtener respuestas y utilizar la habilidad Diplomacia con los animales. En la mayoría de circunstancias, los animales salvajes te concederán tiempo para exponer tus argumentos.
 
@@ -53,7 +53,7 @@ Tienes una conexión con las criaturas del mundo natural que te permite comunica
 
 ### Empatía Vegetal | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Tienes una conexión con la flora que te permite comunicarte con ella a un nivel rudimentario. Puedes formular preguntas, obtener respuestas y utilizar la habilidad Diplomacia con las plantas y los hongos.
 
@@ -61,7 +61,7 @@ Tienes una conexión con la flora que te permite comunicarte con ella a un nivel
 
 ### Extender Conjuro {% include accion.html tipo="1" %} | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Manipulas la energía de tu conjuro, haciendo que se extienda y afecte a una área mayor. Si la siguiente acción que utilizas es Lanzar un conjuro que tiene una área de efecto de explosión o línea y carece de duración, incrementa el área del mismo. Añade 5 pies (1,5 m) al radio de una explosión que normalmente tiene un radio de por lo menos 10 pies (3 m); una explosión con un radio menor no resulta afectada. Añade 5 pies (1,5 m) a la longitud de un cono o una línea que normalmente es de 15 pies (4,5 m) o menor y añade 10 pies (3 m) a la longitud de un cono o una línea mayor.
 
@@ -69,7 +69,7 @@ Manipulas la energía de tu conjuro, haciendo que se extienda y afecte a una ár
 
 ### Familiar Leshy | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la hoja
 
@@ -79,7 +79,7 @@ Llamas a un espíritu menor de la Naturaleza, que adopta la forma de una planta,
 
 ### Forma Salvaje | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden salvaje
 
@@ -89,7 +89,7 @@ Eres uno con las tierras vírgenes, siempre cambiando y adaptándote para enfren
 
 ### Nacido de la Tormenta | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la tormenta
 
@@ -101,7 +101,7 @@ Te encuentras como en casa expuesto a los elementos, gozando del poder de la Nat
 
 ### Explorador de la Orden | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Has averiguado los secretos de otra orden druídica, superando cualesquiera ritos de iniciación requeridos por dicha orden y obteniendo acceso a sus secretos. Elige una orden diferente a la tuya. Obtienes una dote de 1.er nivel que indica dicha orden como prerrequisito y ya eres miembro de dicha orden a efectos de cumplir los prerrequisitos de la misma. Si cometes algún acto que tu nueva orden considera anatema, pierdes todas las dotes y aptitudes que requieren dicha orden, pero retienes el resto de dotes y atributos de druida. No obtienes ningún otro beneficio de la orden elegida.
 
@@ -111,7 +111,7 @@ Has averiguado los secretos de otra orden druídica, superando cualesquiera rito
 
 ### Familiar Potenciado | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** un familiar
 
@@ -121,7 +121,7 @@ Infundes a tu familiar con energía primigenia adicional, incrementando sus apti
 
 ### Llamada Salvaje | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Llamas a las criaturas de la Naturaleza para que acudan en tu ayuda. Puedes invertir 10 minutos en sintonizarte con la Naturaleza para reemplazar un conjuro que has preparado en uno de tus espacios de conjuro de druida por un conjuro de *convocar animal* o *convocar planta u hongo* del mismo rango.
 
@@ -129,7 +129,7 @@ Llamas a las criaturas de la Naturaleza para que acudan en tu ayuda. Puedes inve
 
 ### Resistencia al Veneno | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Tu afinidad por el mundo natural te concede protección contra algunos de sus peligros. Obtienes tanta resistencia al veneno como la mitad de tu nivel, y un bonificados +1 por estatus a las tiradas de salvación contra venenos.
 
@@ -139,7 +139,7 @@ Tu afinidad por el mundo natural te concede protección contra algunos de sus pe
 
 ### Compañero Animal Maduro | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Compañero animal
 
@@ -151,7 +151,7 @@ Tu compañero animal tiene una independencia mayor. Durante un encuentro, inclus
 
 ### Conjuro de Ventisquero {% include accion.html tipo="1" %} | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/frio/" class="feat-trait">Frío</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/frio/" class="feat-trait">Frío</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 **Prerrequisitos:** Orden de la tormenta
 
@@ -161,7 +161,7 @@ El aullarte viento y la precipitación de tu magia se convierten en gruesa nieve
 
 ### Controlar Forma {% include accion.html tipo="1" %} | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 **Prerrequisitos:** Orden salvaje
 
@@ -171,7 +171,7 @@ Con cuidado y esfuerzo adicionales, puedes adoptar una forma alternativa durante
 
 ### Convocatoria Elemental | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Puedes llamar a ti a los elementos. Puedes invertir 10 minutos en sintonizarte con la Naturaleza para reemplazar un conjuro que has preparado en uno de tus espacios de conjuro de druida por un conjuro de *convocar elemental* del mismo rango.
 
@@ -179,7 +179,7 @@ Puedes llamar a ti a los elementos. Puedes invertir 10 minutos en sintonizarte c
 
 ### Forma Antropomórfica | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden salvaje
 
@@ -189,7 +189,7 @@ Que los humanoides supuestamente estén aparte de los animales es una tontería:
 
 ### Magia de la Orden | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Explorador de la orden
 
@@ -201,7 +201,7 @@ Has excavado a más profundidad en las enseñanzas de una nueva orden, obteniend
 
 ### Paso Forestal | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la hoja
 
@@ -211,7 +211,7 @@ Siempre puedes encontrar un camino, casi como si el follaje se apartara ante ti.
 
 ### Secretos del Familiar Leshy | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** orden de la hoja
 
@@ -227,7 +227,7 @@ Los secretos de la orden de la hoja permiten que tu familiar saque partido de su
 
 ### Apoyo Instintivo {% include accion.html tipo="libre" %} | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Compañero animal
 
@@ -239,7 +239,7 @@ Cuando apoyas a tu compañero animal, éste te apoya a su vez. Después de que t
 
 ### Castigo de la Tormenta {% include accion.html tipo="reaccion" %} | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la tormenta, conjuro de orden *oleada de tempestad*
 
@@ -253,7 +253,7 @@ Te revuelves, dirigiendo una explosión de furia tormentosa contra la criatura q
 
 ### Conjuro de Corriente {% include accion.html tipo="1" %} | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Mientras usas tu magia para manipular aire y agua, haces girar algunas de sus corrientes para que formen una barrera a tu alrededor. Si tu siguiente acción es Lanzar un conjuro con el rasgo aire o agua, hasta el inicio de tu siguiente turno obtienes un bonificados +1 por circunstancia a la CA o un bonificados +2 por circunstancia contra los ataques a distancia. Este efecto tiene el rasgo aire, agua, o ambos, dependiendo de los del conjuro que lanzas. También obtienes un bonificados +1 por circunstancia a todas las salvaciones contra los efectos con los rasgos aire, agua, o ambos hasta el inicio de tu siguiente turno, dependiendo de los rasgos del conjuro.
 
@@ -261,7 +261,7 @@ Mientras usas tu magia para manipular aire y agua, haces girar algunas de sus co
 
 ### Crecido del Roble | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la hoja
 
@@ -271,7 +271,7 @@ Puedes hacer que tu piel adopte la apariencia leñosa de un árbol antiguo y que
 
 ### Forma de Insecto | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Forma salvaje
 
@@ -281,7 +281,7 @@ Tu comprensión de la vida se expande, permitiéndote imitar a una gama más amp
 
 ### Lanzamiento de Conjuros Firme | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Confiado en tu técnica, no pierdes conjuros fácilmente. Si una reacción interrumpiría tu acción de lanzamiento de conjuros, haz una prueba plana CD 15. Si tienes éxito, tu acción no queda interrumpida.
 
@@ -291,7 +291,7 @@ Confiado en tu técnica, no pierdes conjuros fácilmente. Si una reacción inter
 
 ### Alzar Megalito {% include accion.html tipo="2" %} | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Frecuencia:** una vez por hora
 
@@ -301,7 +301,7 @@ Alzas un monumento druídico, como por ejemplo un menhir o un árbol custodio, d
 
 ### Compañero Sensacional | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Compañero animal maduro
 
@@ -311,7 +311,7 @@ Tu compañero animal continúa creciendo y desarrollándose. Se convierte, a ele
 
 ### Exhibición Deimática {% include accion.html tipo="1" %} | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** rango entrenado en Intimidación
 
@@ -321,7 +321,7 @@ Imitando las exhibiciones de amenaza de los animales, te haces parecer a ti mism
 
 ### Forma Feroz | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Forma salvaje
 
@@ -331,7 +331,7 @@ Has dominado la forma de los dinosaurios. Añade las formas indicadas en *forma 
 
 ### Forma Voladora | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Forma salvaje
 
@@ -341,7 +341,7 @@ Unas alas te liberan de los grilletes de la superficie. Añade las formas de mur
 
 ### Llamador del Viento | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la tormenta
 
@@ -351,7 +351,7 @@ Vinculas los vientos a tu voluntad para que te ayuden, transportándote por los 
 
 ### Llamador Feérico | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Has aprendido algunos de los trucos que las hadas utilizan para doblegar la magia primigenia hacia las ilusiones y los engaños. Añade *disfraz ilusorio*, *escena ilusoria* y *objeto ilusorio* a tu lista de conjuros, y los lanzas como conjuros primigenios.
 
@@ -359,7 +359,7 @@ Has aprendido algunos de los trucos que las hadas utilizan para doblegar la magi
 
 ### Restablecimiento Floral {% include accion.html tipo="1" %} | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/curacion/" class="feat-trait">Curación</a><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
 **Prerrequisitos:** orden de la hoja
 
@@ -377,7 +377,7 @@ A 9.º nivel y cada 2 niveles posteriores, incrementa en 1d8 la curación.
 
 ### Arma Prístina | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Arma verde
 
@@ -387,7 +387,7 @@ Tu arma verde puede atravesar las resistencias de las criaturas mágicas. Se con
 
 ### Aullido Primigenio | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Compañero sensacional
 
@@ -399,7 +399,7 @@ Tu compañero puede emitir un aullido imbricado en tu magia primigenia. Obtiene 
 
 ### Codo con Codo | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Compañero animal
 
@@ -409,7 +409,7 @@ Tu compañero animal y tú lucháis en tándem, distrayendo a vuestros enemigos 
 
 ### Conjuro Atronador {% include accion.html tipo="1" %} | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/sonico/" class="feat-trait">Sónico</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/sonico/" class="feat-trait">Sónico</a></div>
 
 **Prerrequisitos:** Orden de la tormenta
 
@@ -419,7 +419,7 @@ Tu relámpago corta el aire, generando una atronadora onda de choque. Si tu sigu
 
 ### Energía Abrumadora {% include accion.html tipo="1" %} | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Con un complejo gesto, haces que el poder primigenio de tu conjuro supere las resistencias de un enemigo. Si la siguiente acción que utilizas es Lanzar un conjuro, éste ignora una cantidad igual a tu nivel de la resistencia del objetivo al daño por ácido, electricidad, frío, fuego o sónico. Esto se aplica a todo el daño que causa el conjuro, incluyendo el persistente y el causado por un efecto continuado del mismo, como por ejemplo el muro creado por *muro de fuego*. Las inmunidades de una criatura no se ven afectadas.
 
@@ -427,7 +427,7 @@ Con un complejo gesto, haces que el poder primigenio de tu conjuro supere las re
 
 ### Forma de Planta | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la hoja o Forma salvaje
 
@@ -437,7 +437,7 @@ Puedes adoptar la forma de una criatura vegetal. Si no dispones de *forma indóm
 
 ### Forma Elemental | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Forma salvaje
 
@@ -447,7 +447,7 @@ Entiendes los elementos fundamentales de la Naturaleza, de forma que puedes imbu
 
 ### Transformación Curativa {% include accion.html tipo="1" %} | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Puedes beneficiarte de la magia de cambio de forma para cerrar heridas y aliviar el dolor. Si tu siguiente acción es Lanzar un conjuro de polimorfía que no es un truco y que tiene como objetivo a una sola criatura, dicho conjuro restablece además 1d6 Puntos de Golpe por rango de conjuro a dicha criatura. Este es un efecto de curación.
 
@@ -457,7 +457,7 @@ Puedes beneficiarte de la magia de cambio de forma para cerrar heridas y aliviar
 
 ### Conjuro de Guirnalda {% include accion.html tipo="1" %} | Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 **Prerrequisitos:** Orden de la hoja
 
@@ -471,7 +471,7 @@ El daño se incrementa a 3d6 a 16.º nivel y a 4d6 a 20.º nivel.
 
 ### Convocación Primigenia | Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Llamada salvaje
 
@@ -481,7 +481,7 @@ Siempre que convocas a un aliado, puedes potenciarlo con el poder elemental del 
 
 ### Foco Primigenio | Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Tu conexión con la Naturaleza es particularmente fuerte y los espíritus de la misma se arraciman a tu alrededor, ayudándote a reponer tu foco. Siempre que Reenofcas, rellenas por completo tu reserva de foco.
 
@@ -489,7 +489,7 @@ Tu conexión con la Naturaleza es particularmente fuerte y los espíritus de la 
 
 ### Forma de Dragón | Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Forma voladora
 
@@ -499,7 +499,7 @@ Puedes adoptar la forma de algunas de las criaturas más temibles del mundo. Añ
 
 ### Oasis Ambulante | Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** rango maestro en Supervivencia
 
@@ -511,7 +511,7 @@ Estás rodeado de energía reconfortante. Tú y tus aliados a 60 pies (18 m) o m
 
 ### Compañero Especializado | Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Compañero sensacional
 
@@ -523,7 +523,7 @@ Tu compañero animal continúa creciendo en poder y en aptitudes. Obtiene una es
 
 ### Metamorfosis Verde | Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la hoja
 
@@ -535,7 +535,7 @@ Te has convertido en una versión vegetal de ti mismo, obteniendo el rasgo plant
 
 ### Naturaleza Atemporal | Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Como quiera que la magia primigenia te sustenta, dejas de envejecer. La energía primigenia que te desborda te concede un bonificados +2 por estatus a las salvaciones contra las enfermedades y la magia primigenia.
 
@@ -543,7 +543,7 @@ Como quiera que la magia primigenia te sustenta, dejas de envejecer. La energía
 
 ### Sembrar Conjuro {% include accion.html tipo="1" %} | Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Doblas tu conjuro en el interior de una semilla. Si tu siguiente acción es Lanzar un conjuro utilizando 1 acción o 2 acciones, en su lugar el conjuro se planta en una casilla adyacente. Debes tomar todas las decisiones relativas al mismo en el momento en que lo lanzas. En los siguientes 10 minutos, puedes ordenar a tu conjuro sembrado que brote y dé lugar a sus efectos como una reacción, desencadenada cuando una criatura entra en el espacio de conjuro sembrado o en uno adyacente. Tan sólo puedes tener un conjuro sembrado a la vez y, si no se desencadena en 10 minutos, se disipa y se pierde. Una criatura puede darse cuenta del conjuro sembrado mediante una prueba con éxito de Percepción contra tu CD de conjuros.
 
@@ -551,7 +551,7 @@ Doblas tu conjuro en el interior de una semilla. Si tu siguiente acción es Lanz
 
 ### Transformación Reactiva {% include accion.html tipo="reaccion" %} | Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Forma salvaje; Forma de dragón, Forma elemental, Forma de planta o Forma voladora
 
@@ -570,7 +570,7 @@ Te transformas de forma reflexiva cuando estas en peligro. Lanzas *forma indómi
 
 ### Brezal Empalador | Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** orden de la hoja
 
@@ -580,7 +580,7 @@ Puedes llenar una zona con brezos devastadores. Obtienes el conjuro de orden *br
 
 ### Concentración sin Esfuerzo {% include accion.html tipo="libre" %} | Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Desencadenante:** Empieza tu turno.
 
@@ -590,7 +590,7 @@ Mantienes un conjuro apenas sin pensar. Obtienes de inmediato los efectos de la 
 
 ### Forma de Monstruosidad | Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Forma salvaje
 
@@ -600,7 +600,7 @@ Te puedes transformar en una poderosa criatura mágica. Añade las formas gusano
 
 ### Vientos Inspiradores | Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Orden de la tormenta
 
@@ -612,7 +612,7 @@ Los vientos están ansiosos de mantenerte en el aire. Cuando estás volando y La
 
 ### Control de Forma Perfecto | Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Control de forma, Fuerza +4
 
@@ -622,7 +622,7 @@ Gracias a la magia y a la memoria muscular, puedes permanecer indefinidamente en
 
 ### Égida Primigenia | Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Te rodeas de un grueso campo de energía primigenia protectora. Tú y tus aliados a 30 pies (9 m) de ti obtenéis tanta resistencia como tu modificador por Sabiduría al daño por ácido, electricidad, frío, fuego, vacío y vitalidad.
 
@@ -630,7 +630,7 @@ Te rodeas de un grueso campo de energía primigenia protectora. Tú y tus aliado
 
 ### Invocar Desastre | Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Llamador del viento
 
@@ -642,7 +642,7 @@ Puedes invocar sobre tus enemigos la furia de la Naturaleza. Obtienes el conjuro
 
 ### Cambiaformas Verdadero | Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 **Prerrequisitos:** Forma de dragón, Forma salvaje
 
@@ -654,7 +654,7 @@ Trasciendes las limitaciones de la forma. Una vez al día puedes lanzar *Natural
 
 ### Conducto de Líneas Ley {% include accion.html tipo="1" %} | Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/druida/" class="feat-trait">Druida</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 **Frecuencia:** una vez por minuto
 
@@ -664,6 +664,6 @@ Puedes extraer magia de las líneas Ley del mundo. Si tu siguiente acción es La
 
 ### Poder del Hierofante | Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/druida/" class="feat-trait">Druida</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
 Te has entretejido con el mundo natural y su poder al completo fluye a través de ti. Obtienes un espacio de conjuro adicional de 10.º rango.

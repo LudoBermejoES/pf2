@@ -17,7 +17,7 @@ Los conjuros de dominio se lanzan usando Puntos de Foco y no consumen espacios d
 ## Dominio de Creación
 
 ### Salpicadura Creativa {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/visual/" class="feat-trait">visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/visual/" class="feat-trait">visual</a></div>
 
 **Rango:** 30 pies (9 m); **Área:** explosión de 5 pies (1,5 m)
 
@@ -33,7 +33,7 @@ Un diluvio de pintura de coloridas ilusiones desciende sobre el área, reflejand
 | 4 | Azul | Torpe 1 durante 1 asalto | Torpe 2 durante 1 asalto |
 
 ### Floritura Artística {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 15 pies (4,5 m); **Objetivos:** 1 objeto u obra de arte que queda por completo dentro del alcance
 
@@ -52,7 +52,7 @@ Cuando Lanzas este conjuro, cualquier lanzamiento previo se acaba.
 ## Dominio de Curación
 
 ### Bendición del Sanador {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viva voluntaria
 
@@ -65,7 +65,7 @@ El objetivo recupera Puntos de Golpe adicionales gracias a bendición del sanado
 **Potenciado (+1)** La curación adicional se incrementa en 2 PG.
 
 ### Rechazar a la Muerte {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/curacion/" class="feat-trait">curación</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/curacion/" class="feat-trait">curación</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
 
 **Área:** emanación de 20 pies (6 m); **Objetivos:** 1 criatura viva por acción invertida en Lanzar este conjuro
 
@@ -78,7 +78,7 @@ Arrancas a las criaturas de las fauces de la muerte, restableciéndolas sin la t
 ## Dominio de Destino
 
 ### Leer el Destino {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/prediccion/" class="feat-trait">predicción</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/prediccion/" class="feat-trait">predicción</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura distinta de ti
 
@@ -87,7 +87,7 @@ Tratas de averiguar más acerca del destino a corto plazo del objetivo, por lo g
 Averiguas una sola palabra enigmática conectada con el destino de la criatura en ese espacio de tiempo. El destino es notoriamente inescrutable y no necesariamente hay que tomarse la palabra al pie de la letra, por lo que su significado a menudo sólo queda claro en retrospectiva. El DJ hace una prueba plana CD 6 en secreto. Si el destino de las criaturas es demasiado incierto o si se falla la prueba plana, el conjuro arroja la palabra "no concluyente". De una u otra forma, a continuación el objetivo queda temporalmente inmune durante 24 horas.
 
 ### Tentar al Destino {% include accion.html tipo="reaccion" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/fortuna/" class="feat-trait">fortuna</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">fortuna</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Desencadenante:** Tú o un aliado dentro del alcance hacéis una tirada de salvación.
 
@@ -104,7 +104,7 @@ Si la aptitud desencadenante no tiene tanto un resultado de éxito crítico como
 ## Dominio de Destrucción
 
 ### Grito de Destrucción {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/sonico/" class="feat-trait">sónico</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/sonico/" class="feat-trait">sónico</a></div>
 
 **Área:** cono de 15 pies (4,5 m)
 
@@ -115,7 +115,7 @@ Tu voz resuena, destrozando lo que hay ante ti. Cada criatura y objeto desatendi
 **Potenciado (+1)** El daño se incrementa en 1d8.
 
 ### Aura Destructiva {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">aura</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aura/" class="feat-trait">aura</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Área:** emanación de 15 pies (4,5 m)
 
@@ -130,7 +130,7 @@ Unas arenas giratorias de devastación divina te rodean, debilitando las defensa
 ## Dominio de Dolor
 
 ### Saborear el Aguijón {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/no-letal/" class="feat-trait">no letal</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a><a href="/apendices/rasgos/no-letal/" class="feat-trait">no letal</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura
 
@@ -146,7 +146,7 @@ Infliges dolor al objetivo y te regocijas en su angustia. Infliges 1d4 daño men
 **Potenciado (+1)** El daño inicial se incrementa en 1d4 y el daño persistente se incrementa en 1d4.
 
 ### Dolor Retributivo {% include accion.html tipo="reaccion" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/no-letal/" class="feat-trait">no letal</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a><a href="/apendices/rasgos/no-letal/" class="feat-trait">no letal</a></div>
 
 **Desencadenante:** Una criatura dentro del alcance te daña.
 
@@ -161,7 +161,7 @@ Reflejas de forma vengativa tu dolor sobre quien te atormenta. El objetivo sufre
 ## Dominio de Familia
 
 ### Palabras Tranquilizadoras {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/emocion/" class="feat-trait">emoción</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">emoción</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 aliado
 
@@ -174,7 +174,7 @@ Además, cuando Lanzas este conjuro, puedes contrarrestar un efecto de emoción 
 **Potenciado (5.º)** El bonificador a las salvaciones se incrementa a +2 o a +3 contra los efectos de emoción.
 
 ### Unidad {% include accion.html tipo="reaccion" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/fortuna/" class="feat-trait">fortuna</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">fortuna</a></div>
 
 **Desencadenante:** Tú y 1 o más aliados dentro del alcance sois designados como objetivo por un conjuro o aptitud que permite una tirada de salvación.
 
@@ -187,7 +187,7 @@ Organizas una defensa unida. Cada aliado puede utilizar tu modificador a las tir
 ## Dominio de Fuego
 
 ### Rayo de Fuego {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/ataque/" class="feat-trait">ataque</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/fuego/" class="feat-trait">fuego</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/ataque/" class="feat-trait">ataque</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/fuego/" class="feat-trait">fuego</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 60 pies (18 m); **Objetivos:** 1 criatura
 
@@ -198,7 +198,7 @@ Una banda brillante de fuego se arquea por el aire, prendiendo fuego a tu oponen
 **Potenciado (+1)** El daño inicial del rayo se incrementa en 2d6 y el daño por fuego infligido por el espacio ardiente se incrementa en 1d6.
 
 ### Barrera de Llama {% include accion.html tipo="reaccion" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a></div>
 
 **Desencadenante:** Un efecto infligiría daño por fuego a ti o a un aliado dentro del alcance.
 
@@ -213,7 +213,7 @@ Desvías rápidamente las llamas que se acercan. El objetivo obtiene resistencia
 ## Dominio de Indulgencia
 
 ### Atiborrar {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viva
 
@@ -227,7 +227,7 @@ Enormes cantidades de comida y de bebida llenan al objetivo, que obtiene el valo
 - **Fallo crítico** El objetivo queda indispuesto 2.
 
 ### Seguir su Curso {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura
 
@@ -247,12 +247,12 @@ El efecto de este conjuro depende de si tratas de acabar con una aflicción o un
 ## Dominio de Libertad
 
 ### Zancada sin Trabas {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 La gracia divina se asegura de que nada pueda mantenerte prisionero ni retenerte. Huyes de inmediato de cualquier efecto mágico que te inmoviliza o te agarra si el efecto no es de un rango superior a tu conjuro de zancada sin trabas. A continuación das una Zancada. Durante este movimiento, ignoras el terreno difícil y cualquier penalizador por circunstancia o por estatus a tu velocidad.
 
 ### Palabra de Libertad {% include accion.html tipo="1" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
@@ -267,7 +267,7 @@ Si no eliminas el efecto que causó el estado, retorna después de la finalizaci
 ## Dominio de Luna
 
 ### Rayo de Luna {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/ataque/" class="feat-trait">ataque</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/fuego/" class="feat-trait">fuego</a><a href="/rasgos/luz/" class="feat-trait">luz</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/ataque/" class="feat-trait">ataque</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/fuego/" class="feat-trait">fuego</a><a href="/apendices/rasgos/luz/" class="feat-trait">luz</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 120 pies (36 m); **Objetivos:** 1 criatura
 
@@ -281,7 +281,7 @@ Haces brillar un rayo de luz de luna. Haz una tirada de ataque de conjuros. El r
 **Potenciado (+1)** El daño del rayo se incrementa en 1d6.
 
 ### Toque de la Luna {% include accion.html tipo="1" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/luz/" class="feat-trait">luz</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/luz/" class="feat-trait">luz</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura
 
@@ -299,7 +299,7 @@ Cuando tocas al objetivo, un símbolo de la luna aparece en su frente, brillando
 ## Dominio de Magia
 
 ### Receptáculo de la Magia {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura
 
@@ -308,7 +308,7 @@ Cuando tocas al objetivo, un símbolo de la luna aparece en su frente, brillando
 Una criatura se convierte en un receptáculo divino para contener energía mágica pura. El objetivo obtiene un bonificados +1 por estatus a las tiradas de salvación. Cada vez que Lanzas un conjuro desde tus espacios de conjuro, lo Mantienes automáticamente y concede a su objetivo tanta resistencia al daño por conjuros como el rango del conjuro, hasta el inicio de tu siguiente turno.
 
 ### Baliza Mística {% include accion.html tipo="1" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura voluntaria
 
@@ -321,7 +321,7 @@ El siguiente conjuro dañino o curativo que el objetivo lanza antes del inicio d
 ## Dominio de Muerte
 
 ### Llamada de la Muerte {% include accion.html tipo="reaccion" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a></div>
 
 **Desencadenante:** Una criatura viva a 20 pies (6 m) o menos de ti muere, o una criatura muerta viviente a 20 pies (6 m) o menos de ti queda destruida.
 
@@ -330,7 +330,7 @@ El siguiente conjuro dañino o curativo que el objetivo lanza antes del inicio d
 Ver cómo otro abandona este mundo te vigoriza. Obtienes tantos Puntos de Golpe temporales como el nivel de la criatura desencadenante, más tu modificador por atributo de lanzamiento de conjuros. Si la criatura desencadenante era un muerto viviente, dobla la cantidad de Puntos de Golpe temporales que obtienes. Estos puntos duran todo lo que dura el conjuro, y éste se acaba si todos los Puntos de Golpe temporales se gastan antes.
 
 ### Erradicar la Muerte en Vida {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
 
 **Área:** cono de 30 pies (9 m)
 
@@ -345,7 +345,7 @@ Un enorme diluvio de energía vital hace que los muertos vivientes se desmoronen
 ## Dominio de Muerte en Vida
 
 ### Toque de Muerte en Vida {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/vacio/" class="feat-trait">vacío</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/vacio/" class="feat-trait">vacío</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura viva
 
@@ -361,7 +361,7 @@ Atacas la fuerza vital del objetivo con la muerte en vida, infligiendo 1d6 daño
 **Potenciado (+1)** El daño se incrementa en 1d6.
 
 ### Sustento Maligno {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/vacio/" class="feat-trait">vacío</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/vacio/" class="feat-trait">vacío</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura muerta viviente voluntaria
 
@@ -376,7 +376,7 @@ Implantas en una criatura muerta viviente una semilla de energía del vacío, qu
 ## Dominio de Naturaleza
 
 ### Espinos Vibrantes {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/madera/" class="feat-trait">madera</a><a href="/rasgos/morfismo/" class="feat-trait">morfismo</a><a href="/rasgos/planta/" class="feat-trait">planta</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/madera/" class="feat-trait">madera</a><a href="/apendices/rasgos/morfismo/" class="feat-trait">morfismo</a><a href="/apendices/rasgos/planta/" class="feat-trait">planta</a></div>
 
 **Duración:** 1 minuto
 
@@ -385,7 +385,7 @@ De tu cuerpo brotan zarzas espinosas que se alimentan de la magia vital. Las cri
 **Potenciado (+1)** El daño se incrementa en 1 o en 1d6 después de que lanzas un conjuro de vitalidad.
 
 ### Botín de la Naturaleza {% include accion.html tipo="1" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/planta/" class="feat-trait">planta</a><a href="/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/planta/" class="feat-trait">planta</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
 
 **Requisitos:** Tener una mano libre.
 
@@ -398,7 +398,7 @@ Una fruta o verdura cruda a tu elección, del tamaño de la palma de una mano, a
 ## Dominio de Oscuridad
 
 ### Capa de Sombra {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">aura</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/oscuridad/" class="feat-trait">oscuridad</a><a href="/rasgos/sombra/" class="feat-trait">sombra</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aura/" class="feat-trait">aura</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/oscuridad/" class="feat-trait">oscuridad</a><a href="/apendices/rasgos/sombra/" class="feat-trait">sombra</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura voluntaria
 
@@ -409,7 +409,7 @@ Envuelves el objetivo en una capa de sombras giratorias, que hace más difícil 
 El objetivo puede utilizar su estado oculto debido a las sombras para Esconderse, aunque las criaturas observadoras pueden seguir siguiendo su aura de sombra que se mueve, haciendo difícil para el objetivo permanecer completamente indetectado. El objetivo puede utilizar una acción de Interactuar para quitarse la capa y dejarla tras de sí como un señuelo, puesto que permanece en su lugar, reduciendo la luz durante el resto de la duración del conjuro. Si alguien recoge la capa una vez se la ha quitado el objetivo original, ésta se evapora y el conjuro se acaba.
 
 ### Visión Oscurecida {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/oscuridad/" class="feat-trait">oscuridad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/oscuridad/" class="feat-trait">oscuridad</a></div>
 
 **Rango:** 60 pies (18 m); **Objetivos:** 1 criatura
 
@@ -422,7 +422,7 @@ Infundes de oscuridad la visión de una criatura. Obtiene visión en la oscurida
 ## Dominio de Pasión
 
 ### Toque Encantador {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/emocion/" class="feat-trait">emoción</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/incapacitacion/" class="feat-trait">incapacitación</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/emocion/" class="feat-trait">emoción</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">incapacitación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura que podría encontrarte atractivo
 
@@ -436,7 +436,7 @@ Infundes a tu objetivo con atracción, haciendo que actúe hacia ti de forma má
 - **Fallo crítico** Igual que fallo, pero el objetivo se vuelve solícito.
 
 ### Adoración Cautivadora {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">aura</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/emocion/" class="feat-trait">emoción</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/visual/" class="feat-trait">visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aura/" class="feat-trait">aura</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">emoción</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a><a href="/apendices/rasgos/visual/" class="feat-trait">visual</a></div>
 
 **Área:** emanación de 15 pies (4,5 m)
 
@@ -456,12 +456,12 @@ Te envuelves intensamente cautivador, y las criaturas se distraen contigo si per
 ## Dominio de Perfección
 
 ### Mente Perfeccionada {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a></div>
 
 Meditas sobre la perfección para eliminar de tu mente todas las distracciones. Haz una nueva salvación de Voluntad contra un efecto mental que te afecta actualmente y que requirió una salvación de Voluntad. Utiliza el resultado de esta nueva salvación para determinar el desenlace del efecto mental, a menos que fuera peor que el original, en cuyo caso no sucede nada. Sólo puedes utilizar mente perfeccionada contra un efecto determinado una vez.
 
 ### Cuerpo Perfeccionado {% include accion.html tipo="reaccion" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a></div>
 
 **Desencadenante:** Fallas o fallas críticamente una tirada de salvación contra un efecto con el rasgo morfismo, polimorfía o veneno, o que te dejaría condenado, debilitado, indispuesto, petrificado o torpe.
 
@@ -472,7 +472,7 @@ La perfección de tu cuerpo te mantiene un poco más sano que la mayoría. Si la
 ## Dominio de Pesadillas
 
 ### Pesadilla Despierta {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/emocion/" class="feat-trait">emoción</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/miedo/" class="feat-trait">miedo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">emoción</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a><a href="/apendices/rasgos/miedo/" class="feat-trait">miedo</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
@@ -488,7 +488,7 @@ Llenas la mente de una criatura con una visión terrorífica. El objetivo tiene 
 **Potenciado (+1)** El daño mental se incrementa en 1.
 
 ### Pesadilla Compartida {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/emocion/" class="feat-trait">emoción</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/incapacitacion/" class="feat-trait">incapacitación</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">emoción</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">incapacitación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
@@ -506,14 +506,14 @@ Fusionando tu mente con la del objetivo, intercambiáis visiones inquietantes. U
 ## Dominio de Potencia
 
 ### Carrera Atlética {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Duración:** 1 asalto
 
 Tu cuerpo se llena de potencia física y de habilidad. Obtienes un bonificados +10 pies (3 m) por estatus a tu Velocidad y un bonificados +2 por estatus a las pruebas de Atletismo. Como parte de Lanzar este conjuro, puedes utilizar una acción de Zancada, Salto, Trepar o Nadar. Los bonificadores del conjuro se aplican durante dicha acción.
 
 ### Potencia Duradera {% include accion.html tipo="reaccion" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Desencadenante:** Un ataque o efecto te infligiría daño.
 
@@ -526,7 +526,7 @@ Tu propia potencia se mezcla con el poder divino para protegerte del daño. Obti
 ## Dominio de Protección
 
 ### Sacrificio del Protector {% include accion.html tipo="reaccion" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Desencadenante:** Un aliado a 30 pies (9 m) o menos sufre daño.
 
@@ -539,7 +539,7 @@ No estás sujeto a ningún estado u otro efecto de lo que dañará a tu aliado (
 **Potenciado (+1)** El daño que rediriges se incrementa en 3.
 
 ### Esfera del Protector {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">aura</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aura/" class="feat-trait">aura</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Área:** emanación de 15 pies (4,5 m)
 
@@ -554,7 +554,7 @@ Emana de ti un aura protectora, salvaguardándote a ti y a tus aliados. Obtienes
 ## Dominio de Riqueza
 
 ### Apariencia de Riqueza {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 30 pies (9 m); **Área:** explosión de 5 pies (1,5 m)
 
@@ -567,7 +567,7 @@ Creas una previsión de una riqueza inmensa que llena el área del conjuro. Toda
 - **Fallo** La criatura queda fascinada por la ilusión.
 
 ### Metales Preciosos {% include accion.html tipo="1" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/metal/" class="feat-trait">metal</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/metal/" class="feat-trait">metal</a></div>
 
 **Rango:** toque; **Objetivos:** 1 escudo o arma de metal, 1 armadura metálica o hasta impedimenta 1 de materiales metálicos (como por ejemplo monedas o munición con punta de metal)
 
@@ -586,7 +586,7 @@ Este cambio es claramente mágico y temporal, por lo que el valor monetario del 
 ## Dominio de Secreto
 
 ### Tranquilidad Susurrante {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/sonico/" class="feat-trait">sónico</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/sonico/" class="feat-trait">sónico</a></div>
 
 **Rango:** 60 pies (18 m); **Área:** explosión de 15 pies (4,5 m)
 
@@ -595,7 +595,7 @@ Este cambio es claramente mágico y temporal, por lo que el valor monetario del 
 Suprimes el sonido en un área, evitando que se revelen secretos valiosos. Esto no evita que las personas del interior del área hablen o Lancen un conjuro, pero ninguna criatura a más de 5 pies (1,5 m) de distancia puede oír su voz sin tener éxito en una prueba de Percepción contra tu CD de conjuros, que podría interferir con los efectos auditivos o lingüísticos así como con la comunicación. Otros sonidos creados en el área quedan apagados hasta un volumen similar a menos que dicho sonido haya sido creado por un efecto con el rasgo sónico.
 
 ### Salvaguardar Secreto {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** tú y cualquier número de aliados voluntarios
 
@@ -610,7 +610,7 @@ Si Lanzas este conjuro de nuevo, cualquier salvaguardar secreto que hayas lanzad
 ## Dominio de Sol
 
 ### Fogonazo Deslumbrante {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/luz/" class="feat-trait">luz</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/visual/" class="feat-trait">visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/luz/" class="feat-trait">luz</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/visual/" class="feat-trait">visual</a></div>
 
 **Área:** cono de 15 pies (4,5 m)
 
@@ -626,7 +626,7 @@ Alzas tu símbolo religioso y creas un fogonazo de luz brillante. Cada criatura 
 **Potenciado (3.º)** El área se incrementa a un cono de 30 pies (9 m).
 
 ### Luminancia Vital {% include accion.html tipo="1" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">aura</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/luz/" class="feat-trait">luz</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aura/" class="feat-trait">aura</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/luz/" class="feat-trait">luz</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">vitalidad</a></div>
 
 **Duración:** 1 minuto
 
@@ -645,7 +645,7 @@ Si Lanzas este conjuro de nuevo, cualquier lanzamiento previo se acaba.
 ## Dominio de Sueños
 
 ### Dulce Sueño {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/auditivo/" class="feat-trait">auditivo</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/linguistico/" class="feat-trait">lingüístico</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/sueno/" class="feat-trait">sueño</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/auditivo/" class="feat-trait">auditivo</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/linguistico/" class="feat-trait">lingüístico</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a><a href="/apendices/rasgos/sueno/" class="feat-trait">sueño</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura voluntaria
 
@@ -664,7 +664,7 @@ Si Lanzas este conjuro de nuevo, cualquier dulce sueño lanzado previamente se a
 **Potenciado (7.º)** El bonificador para un sueño de perspicacia o de encanto es +3.
 
 ### Llamada del Soñador {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/rasgos/incapacitacion/" class="feat-trait">incapacitación</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">incapacitación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
@@ -682,7 +682,7 @@ Creas una ensoñación vivida e ilusoria extraída de las imágenes de los sueñ
 ## Dominio de Suerte
 
 ### Un Poco de Suerte {% include accion.html tipo="2" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/fortuna/" class="feat-trait">fortuna</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">fortuna</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura voluntaria
 
@@ -693,7 +693,7 @@ Inclinas ligeramente la balanza de la fortuna para proteger del desastre a una c
 Si lanzas un poco de suerte de nuevo, cualquier lanzamiento anterior del conjuro aún en efecto se acaba. Una vez que una criatura ha sido designada como objetivo de un poco de suerte, queda temporalmente inmune durante 24 horas.
 
 ### Buena Racha {% include accion.html tipo="reaccion" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/fortuna/" class="feat-trait">fortuna</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">fortuna</a></div>
 
 **Desencadenante:** Fallas, pero no críticamente, una tirada de salvación.
 
@@ -704,7 +704,7 @@ Repite la tirada de salvación y utiliza el mejor de ambos resultados. A continu
 ## Dominio de Tierra
 
 ### Arrojar Piedra {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/ataque/" class="feat-trait">ataque</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/tierra/" class="feat-trait">tierra</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/ataque/" class="feat-trait">ataque</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/tierra/" class="feat-trait">tierra</a></div>
 
 **Rango:** 60 pies (18 m); **Objetivos:** 1 criatura
 
@@ -718,7 +718,7 @@ Evocas una piedra mágica y la arrojas, utilizando una guía divina para apuntar
 **Potenciado (+1)** El daño de la piedra se incrementa en 1d6.
 
 ### Temblor Localizado {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/tierra/" class="feat-trait">tierra</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/tierra/" class="feat-trait">tierra</a></div>
 
 **Área:** emanación de 15 pies (4,5 m) o cono de 15 pies (4,5 m)
 
@@ -733,7 +733,7 @@ Haces temblar la tierra, derribando a las criaturas cercanas. Elige el área del
 ## Dominio de Tiranía
 
 ### Toque de Obediencia {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Rango:** toque; **Objetivos:** 1 criatura viva
 
@@ -747,7 +747,7 @@ Tu imperioso toque erosiona la fuerza de voluntad del objetivo, haciendo que sea
 - **Fallo crítico** El objetivo queda anonadado 2 durante 1 minuto y cae de rodillas, quedando tumbado.
 
 ### Orden con Azote {% include accion.html tipo="1" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/linguistico/" class="feat-trait">lingüístico</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/linguistico/" class="feat-trait">lingüístico</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Requisitos:** Tu acción más reciente ha infligido daño a un objetivo.
 
@@ -762,7 +762,7 @@ Con la amenaza de más dolor, coaccionas a una criatura a la que has dañado rec
 ## Dominio de Trampas
 
 ### Cambio Repentino {% include accion.html tipo="reaccion" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Desencadenante:** Un enemigo te falla con un ataque cuerpo a cuerpo.
 
@@ -771,7 +771,7 @@ Con la amenaza de más dolor, coaccionas a una criatura a la que has dañado rec
 Te apartas rápidamente de un lugar peligroso y te cubres. Das un Paso y quedas oculto.
 
 ### Gemelo del Bromista {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/visual/" class="feat-trait">visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">ilusión</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/visual/" class="feat-trait">visual</a></div>
 
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 
@@ -789,14 +789,14 @@ Raramente te conformas con estar en un solo lugar. Elige una ubicación a 100 pi
 ## Dominio de Verdad
 
 ### Palabra de Verdad {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a></div>
 
 **Duración:** mantenido hasta 1 minuto
 
 Haces una declaración que tú crees que es verdad y que está libre de todo intento de engañar retorciendo las palabras, por omisión, etc. La declaración tiene que constar de 25 palabras o menos. Un símbolo de tu dios brilla sobre tu cabeza y dura lo mismo que el conjuro, y cualquiera que la ve y la oye sabe instintivamente que crees que lo que dices es cierto. Este seguro de honestidad te concede un bonificados +2 por estatus a las pruebas de Diplomacia mientras persiste el símbolo. Puedes Disipar el conjuro y, si dices algo que no crees que es completamente cierto, el conjuro se acaba antes de que completes tu declaración.
 
 ### Atisbar la Verdad {% include accion.html tipo="1" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">aura</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a><a href="/rasgos/revelacion/" class="feat-trait">revelación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aura/" class="feat-trait">aura</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a><a href="/apendices/rasgos/revelacion/" class="feat-trait">revelación</a></div>
 
 **Área:** emanación de 30 pies (9 m)
 
@@ -811,14 +811,14 @@ Una inspiración divina te permite ver las cosas como son, sin el velo de intent
 ## Dominio de Viaje
 
 ### Pies Ágiles {% include accion.html tipo="1" %} [FOCO 1]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Duración:** hasta el final del turno actual
 
 Las bendiciones de tu dios hacen que tus pies sean más rápidos y, tus movimientos, más fluidos. Obtienes un bonificados +5 pies (1,5 m) por estatus a tu Velocidad e ignoras el terreno difícil. Como parte de lanzar pies ágiles, puedes Pasar haciendo acrobacias, dar un Paso o una Zancada; si dispones de la Velocidad apropiada, en su lugar puedes Excavar, Nadar, Trepar o Volar.
 
 ### Tránsito del Viajero {% include accion.html tipo="2" %} [FOCO 4]
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/rasgos/foco/" class="feat-trait">foco</a><a href="/rasgos/manipular/" class="feat-trait">manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/clerigo/" class="feat-trait">clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">manipular</a></div>
 
 **Duración:** 5 minutos
 

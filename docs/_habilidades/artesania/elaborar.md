@@ -10,7 +10,7 @@ trained: true
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/tiempo-libre/" class="feat-trait">Tiempo libre</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/tiempo-libre/" class="feat-trait">Tiempo libre</a></div>
 
 <img src="{{ '/assets/images/acciones/elaborar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

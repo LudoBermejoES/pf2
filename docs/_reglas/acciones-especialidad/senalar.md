@@ -11,7 +11,7 @@ source: PC1
 
 ## Senalar {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/visual/" class="feat-trait">Visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 
 **Requisitos:** Una criatura no ha sido detectada por uno o mas de tus aliados, pero si por ti.
 

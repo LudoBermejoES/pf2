@@ -19,7 +19,7 @@ En cada nivel en el que obtienes una dote de campeón, puedes seleccionar una de
 
 ### Destello Brillante · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** causa grandeza
 
@@ -29,7 +29,7 @@ Tu luz purifica las almas del miedo. Cuando usas Destello de Grandeza, el atacan
 
 ### Avance Defensivo · :aa: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/rasgos/floritura/" class="feat-trait">Floritura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
 Con la protección de tu escudo, te lanzas a la batalla. Alzas tu Escudo y Avanzas. Si terminas tu movimiento dentro del alcance cuerpo a cuerpo de al menos un enemigo, puedes hacer un Golpe cuerpo a cuerpo contra ese enemigo. Puedes usar Avance Defensivo mientras Excavas, Escalas, Vuelas o Nadas en lugar de Avanzar si tienes el tipo de movimiento correspondiente.
 
@@ -37,7 +37,7 @@ Con la protección de tu escudo, te lanzas a la batalla. Alzas tu Escudo y Avanz
 
 ### Dominio de la Deidad · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 Encarnas un aspecto de tu deidad. Elige uno de los dominios de tu deidad. (Las principales deidades de Golarion y sus dominios aparecen en las páginas 35-39 de Player Core.) Obtienes el conjuro de dominio inicial del dominio como un conjuro de devoción.
 
@@ -45,7 +45,7 @@ Encarnas un aspecto de tu deidad. Elige uno de los dominios de tu deidad. (Las p
 
 ### Plegaria Desesperada · :a: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -57,7 +57,7 @@ Clamas a tu deidad en una súplica por su ayuda. Obtienes 1 Punto de Enfoque, qu
 
 ### Corcel Fiel · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 Obtienes el servicio de un compañero animal joven como montura. Consulta Compañeros Animales (Player Core 206). Si tienes el rasgo extrasagrado o profano, tu montura también lo obtiene, al igual que los Golpes de la montura. Típicamente, el corcel es un compañero animal con la capacidad de montura (como un caballo). El DJ podría permitir otra opción de compañero animal, o permitir que la criatura tenga una apariencia diferente que encaje temáticamente con tu deidad.
 
@@ -65,7 +65,7 @@ Obtienes el servicio de un compañero animal joven como montura. Consulta Compa�
 
 ### Repercusiones de Hierro · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** causa obediencia
 
@@ -75,7 +75,7 @@ Desobedecer tu Orden de Hierro tiene consecuencias duraderas. Si un enemigo se n
 
 ### Represalia Ágil · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** causa justicia
 
@@ -85,7 +85,7 @@ Puedes usar Golpe Retributivo a mayor distancia. Puedes usar un arma a distancia
 
 ### Egoísmo Continuo · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 **Prerrequisitos:** causa profanación
 
@@ -95,7 +95,7 @@ Tu poderosa personalidad e increíble ego exigen que te protejas a ti mismo por 
 
 ### Paso Libre · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** causa liberación
 
@@ -105,7 +105,7 @@ Con una explosión de liberación divina, el movimiento de tu aliado por tu Paso
 
 ### Venganza Despiadada · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 **Prerrequisitos:** causa iniquidad
 
@@ -115,7 +115,7 @@ Aunque tu venganza es dolorosa tanto para ti como para tu enemigo, nadie puede d
 
 ### Peso de la Culpa · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** causa redención
 
@@ -129,7 +129,7 @@ La culpa nubla las mentes de quienes ignoran tu Atisbo de Redención. En lugar d
 
 ### Gracia Divina · :r: · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Detonante:** Intentas una salvación contra un conjuro, pero aún no has tirado.
 
@@ -139,7 +139,7 @@ Invocas la gracia de tu deidad, obteniendo una bonificación de circunstancia de
 
 ### Salud Divina · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 Tu fe te hace resistente a las enfermedades, protegiéndote mientras ofreces socorro a los enfermos. Obtienes una bonificación de estado de +2 a las salvaciones contra enfermedades y venenos y a las pruebas simples para recuperarte del daño de veneno persistente. Los aliados en tu aura de campeón obtienen este beneficio, pero su bonificación es de +1.
 
@@ -153,7 +153,7 @@ Además, si sacas un éxito en una salvación contra una enfermedad o veneno, ob
 
 ### Aura de Coraje · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** aura de campeón, extrasagrado
 
@@ -163,7 +163,7 @@ Te mantienes firme ante el peligro e inspiras a tus aliados a hacer lo mismo. Si
 
 ### Aura de Desesperación · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 **Prerrequisitos:** aura de campeón, profano
 
@@ -173,7 +173,7 @@ Tu presencia como avatar del mal hace que tus enemigos sean más susceptibles al
 
 ### Crueldad · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** toque del vacío
 
@@ -183,7 +183,7 @@ El daño que infliges con tu toque corruptor drena la fuerza del cuerpo de tu en
 
 ### Clemencia · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** imposición de manos
 
@@ -195,7 +195,7 @@ Tu toque alivia el cuerpo o la mente. Puedes lanzar imposición de manos apuntan
 
 ### Protección · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** escudos del espíritu
 
@@ -209,7 +209,7 @@ Aquellos a quienes proteges pueden beneficiarse de tu protección duradera. Pued
 
 ### Expandir Aura · :a: · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
 **Prerrequisitos:** aura de campeón
 
@@ -219,7 +219,7 @@ Enfocas tu poder divino para extender tu influencia y protección. Expande el ra
 
 ### Caballo de Guerra Leal · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Corcel Fiel
 
@@ -229,7 +229,7 @@ La lealtad que tú y tu montura comparten es inquebrantable. La montura que obtu
 
 ### Golpe Reactivo · :r: · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Detonante:** Una criatura dentro de tu alcance usa una acción de manipular o una acción de movimiento, hace un ataque a distancia, o abandona una casilla durante una acción de movimiento que está usando.
 
@@ -239,7 +239,7 @@ Arremetes contra un enemigo que deja una abertura. Haz un Golpe cuerpo a cuerpo 
 
 ### Guardián del Escudo · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Bloquear con Escudo
 
@@ -249,7 +249,7 @@ Cuando tienes un escudo alzado, puedes usar tu reacción de Bloquear con Escudo 
 
 ### Castigar · :a: · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
 Señalas a un enemigo para destruirlo en nombre de tu deidad. Designa a un enemigo que puedas ver. Hasta el inicio de tu siguiente turno, tus Golpes contra ese enemigo obtienen una bonificación de estado de +3 al daño, aumentando a +4 si tienes competencia de maestro con el arma o ataque desarmado que estás usando para el Golpe. Si eres extrasagrado o profano y el objetivo tiene el rasgo opuesto, la bonificación es de +4 (o +6 si eres maestro).
 
@@ -265,7 +265,7 @@ Tu Castigar actual termina si usas la acción Castigar nuevamente.
 
 ### Dominio Avanzado de la Deidad · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Dominio de la Deidad
 
@@ -275,7 +275,7 @@ A través de tu convicción, has vislumbrado los secretos más profundos del dom
 
 ### Crueldad Mayor · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Crueldad
 
@@ -285,7 +285,7 @@ El alcance de tu corrupción devasta las mentes y reflejos de tus enemigos. Cuan
 
 ### Clemencia Mayor · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Clemencia
 
@@ -295,7 +295,7 @@ Tu fe mejora tu capacidad para eliminar condiciones. Añade las siguientes opcio
 
 ### Protección Mayor · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Protección
 
@@ -305,7 +305,7 @@ Escudo en mano, ofreces a tu aliado la misma protección total que a ti mismo. M
 
 ### Sanar Montura · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Corcel Fiel, imposición de manos
 
@@ -315,7 +315,7 @@ Tu devoción a tu montura se manifiesta como una oleada de energía vital. Cuand
 
 ### Bloqueo con Escudo Rápido · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Bloquear con Escudo
 
@@ -325,7 +325,7 @@ Puedes poner tu escudo en posición casi sin pensarlo. Al inicio de cada uno de 
 
 ### Segunda Bendición · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** bendición del devoto
 
@@ -339,7 +339,7 @@ Tu servicio continuado te otorga otra dádiva. Elige una segunda bendición del 
 
 ### Corcel Imponente · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Caballo de Guerra Leal
 
@@ -351,7 +351,7 @@ Tu compañero animal tiene mayor independencia. Durante un encuentro, incluso si
 
 ### Armamento Radiante · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** armamento bendito
 
@@ -363,7 +363,7 @@ Además, puedes cambiar la runa que has seleccionado para el día a una runa dif
 
 ### Escudo de Ajuste de Cuentas · :r: · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** escudo bendito, reacción de campeón, Guardián del Escudo
 
@@ -379,7 +379,7 @@ Cuando proteges a tu aliado contra un ataque con tu escudo, invocas tu poder par
 
 ### Avance Espectral · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/divino/" class="feat-trait">Divino</a><a href="/rasgos/teletransportacion/" class="feat-trait">Teletransportación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/teletransportacion/" class="feat-trait">Teletransportación</a></div>
 
 **Prerrequisitos:** rapidez bendita
 
@@ -393,7 +393,7 @@ Obtienes el conjuro de devoción avance espectral (página 257 ([ver](/conjuros/
 
 ### Clemencia de Aflicciones · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Clemencia
 
@@ -403,7 +403,7 @@ La gracia divina que fluye a través de ti otorga respiro de una aflicción. Añ
 
 ### Aura de Fe · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** extrasagrado o profano
 
@@ -413,7 +413,7 @@ Irradias un aura de creencia que impregna tus ataques y los de aliados cercanos 
 
 ### Contragolpe Bendito · :a: · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/rasgos/floritura/" class="feat-trait">Floritura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
 **Prerrequisitos:** reacción de campeón que otorga a un aliado resistencia al daño de un enemigo (incluyendo las causas grandeza, justicia, liberación y redención)
 
@@ -425,7 +425,7 @@ Invocas poder divino y haces un Golpe con arma o desarmado contra el enemigo que
 
 ### Sacrificio del Campeón · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** no eres profano
 
@@ -435,7 +435,7 @@ Puedes sufrir para que otros puedan vivir. Puedes lanzar el conjuro de devoción
 
 ### Enfoque Devoto · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** conjuros de devoción
 
@@ -445,7 +445,7 @@ Tu devoción es lo suficientemente fuerte como para aumentar tu enfoque a altura
 
 ### Muro Divino · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Requisitos:** Estás empuñando un escudo.
 
@@ -455,7 +455,7 @@ Usas tu escudo para hostigar a tus enemigos, impidiéndoles alejarse o rodearte.
 
 ### Golpe Macabro · :a: · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** reacción de campeón que otorga daño extra con tus Golpes (incluyendo las causas profanación, iniquidad y obediencia)
 
@@ -471,7 +471,7 @@ Haz un Golpe contra la criatura que activó tu reacción de campeón. Si impacta
 
 ### Aura de Determinación · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Requisitos:** aura de campeón
 
@@ -481,7 +481,7 @@ Tu aura protege contra poderes que torcerían la mente y el cuerpo. Tú y todos 
 
 ### Aura de Vida · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Requisitos:** aura de campeón
 
@@ -491,7 +491,7 @@ Tu aura protege contra el poder del Vacío. Tú y todos los aliados en tu aura d
 
 ### Aura de Rectitud · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** aura de campeón, extrasagrado
 
@@ -501,7 +501,7 @@ Tu aura de rectitud amortigua el poder del mal e impide que los profanos escapen
 
 ### Reflejos Divinos · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 Al inicio de cada uno de tus turnos, obtienes una reacción adicional que solo puedes usar para tu reacción de campeón.
 
@@ -513,7 +513,7 @@ Al inicio de cada uno de tus turnos, obtienes una reacción adicional que solo p
 
 ### Montura Auspiciosa · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Corcel Imponente
 
@@ -530,7 +530,7 @@ Guiado por tu cuidado continuo, tu corcel ha desarrollado una inteligencia y hab
 
 ### Instrumento de Masacre · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** reacción de campeón que otorga daño extra con tus Golpes (incluyendo las causas profanación, iniquidad y obediencia)
 
@@ -540,7 +540,7 @@ Tu armamento bendito tiene sed de la sangre de tus enemigos. Siempre que obtenga
 
 ### Instrumento de Fervor · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** dote Contragolpe Bendito o reacción Golpe Retributivo, reacción de campeón que otorga a un aliado resistencia al daño de un enemigo (incluyendo las causas grandeza, justicia, liberación y redención)
 
@@ -550,7 +550,7 @@ La energía divina llena tu arma. Siempre que obtengas un golpe crítico contra 
 
 ### Escudo de Gracia · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Guardián del Escudo
 
@@ -564,7 +564,7 @@ Proteges a un aliado tanto con tu escudo como con tu cuerpo. Siempre que uses la
 
 ### Toque Rejuvenecedor · Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** imposición de manos
 
@@ -574,7 +574,7 @@ Tus energías curativas persisten después de lanzar, proporcionando beneficios 
 
 ### Retribución Veloz · Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** reacción de campeón
 
@@ -584,7 +584,7 @@ Las transgresiones de tus enemigos te impulsan a tomar represalias con velocidad
 
 ### Clemencia Definitiva · Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** Clemencia
 
@@ -598,7 +598,7 @@ Tu clemencia trasciende los límites de la vida y la muerte. Añade clemencia de
 
 ### Dechado de Armamento · Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** armamento bendito
 
@@ -610,7 +610,7 @@ Además, puedes cambiar la runa que has seleccionado para el día a una runa dif
 
 ### Defensor Sagrado · Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 Eres un gran guerrero que puede mantenerse firme contra los oponentes más feroces de tu causa. Obtienes resistencia 5 al daño contundente, perforante y cortante. Si eres extrasagrado, esta resistencia aumenta a 10 contra criaturas profanas, y si eres profano aumenta a 10 contra criaturas extrasagradas. Además, las criaturas y efectos que saquen un 20 natural en una tirada de ataque contra ti no mejoran su resultado en un grado de éxito.
 
@@ -618,7 +618,7 @@ Eres un gran guerrero que puede mantenerse firme contra los oponentes más feroc
 
 ### Dechado de Escudo · Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** escudo bendito
 
@@ -630,7 +630,7 @@ Si el escudo fuera destruido, desaparece al reino de tu deidad en su lugar, dond
 
 ### Dechado de Rapidez · Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/campeon/" class="feat-trait">Campeón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
 **Prerrequisitos:** rapidez bendita
 

@@ -17,7 +17,7 @@ A nivel 1, obtienes una dote de ascendencia, y obtienes una dote de ascendencia 
 
 ### Erudito alquímico · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Obtienes la dote Elaboración alquímica. Si fueras a obtener automáticamente esa dote (por tu bagaje o por la clase alquimista, por ejemplo), en su lugar obtienes una dote de habilidad de Elaboración de nivel 1 diferente. Añade una fórmula alquímica común adicional de nivel 1 a tu libro de fórmulas cuando tomes esta dote. Cada vez que ganes un nivel más allá del 1, añade una fórmula alquímica común de ese nivel a tu libro de fórmulas.
 
@@ -25,7 +25,7 @@ Obtienes la dote Elaboración alquímica. Si fueras a obtener automáticamente e
 
 ### Reforzamiento cantoriano · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 La energía vital que ayudó a crear a los primeros hobgoblins es especialmente potente en ti, protegiéndote de dolencias continuadas. Si obtienes un éxito en una tirada de salvación contra una enfermedad o veneno, obtienes un éxito crítico en su lugar. Si tienes una habilidad distinta que mejoraría la salvación de este modo (como la característica de clase luchador endurecido por la batalla), si obtienes un fallo crítico en la salvación, obtienes un fallo en su lugar.
 
@@ -33,7 +33,7 @@ La energía vital que ayudó a crear a los primeros hobgoblins es especialmente 
 
 ### Saber hobgoblin · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Has estudiado ejercicios tradicionales hobgoblins y artes de campaña, todos con un sesgo militar. Obtienes el rango de competencia entrenado en Atletismo y Elaboración. Si te volvieras entrenado automáticamente en una de esas habilidades (por tu bagaje o clase, por ejemplo), en su lugar te vuelves entrenado en una habilidad a tu elección.
 
@@ -43,7 +43,7 @@ Obtienes la dote general Saber adicional para Saber hobgoblin.
 
 ### Familiaridad con armas hobgoblin · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Obtienes acceso a todas las armas poco comunes con el rasgo hobgoblin. Tienes familiaridad con las armas con el rasgo hobgoblin además del arco largo compuesto, arco corto compuesto, guja, arco largo, espada larga y arco corto—para efectos de competencia, tratas cualquiera de estas que sean armas marciales como armas simples y cualquiera que sean armas avanzadas como armas marciales.
 
@@ -53,7 +53,7 @@ A nivel 5, siempre que obtienes un golpe crítico con una de estas armas, obtien
 
 ### Cortar al desertor · Dote 1 · {% include accion.html tipo="2" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Estás entrenado para capturar desertores, o «sanguijuelas». Haz un Golpe cuerpo a cuerpo con un arma del grupo de manguales. Con un impacto, el objetivo sufre un penalizador de estatus –10 pies a su Velocidad (o –15 pies con un impacto crítico). El penalizador dura 1 asalto. Se aplica solo si el objetivo tiene Velocidad terrestre y depende de piernas u otras extremidades apuntables para usar su Velocidad terrestre. Como con todos los penalizadores a la Velocidad, esto no puede reducir la Velocidad de una criatura por debajo de 5 pies.
 
@@ -61,7 +61,7 @@ Estás entrenado para capturar desertores, o «sanguijuelas». Haz un Golpe cuer
 
 ### Latigazo implacable · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Eres hábil golpeando a un enemigo cuando su moral ya se está quebrando. Cuando tienes éxito con un Golpe de arma cuerpo a cuerpo contra un enemigo asustado, ese enemigo no puede reducir su condición asustado por debajo de 1 hasta el inicio de tu siguiente turno.
 
@@ -69,7 +69,7 @@ Eres hábil golpeando a un enemigo cuando su moral ya se está quebrando. Cuando
 
 ### Sigiloso · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 El Sigilo es una herramienta importante en tu arsenal. Puedes moverte 5 pies adicionales cuando realizas la acción Escabullirte, hasta tu Velocidad. Además, mientras sigas usando acciones de Escabullirte y tengas éxito en tu prueba de Sigilo, no pasas a estar observado si no tienes cobertura o cobertura superior y no estás oculto al final de la acción de Escabullirte, siempre que tengas cobertura o cobertura superior o estés oculto al final de tu turno.
 
@@ -77,7 +77,7 @@ El Sigilo es una herramienta importante en tu arsenal. Puedes moverte 5 pies adi
 
 ### Rostro pétreo · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Has dominado el arte de la compostura, incluso frente al miedo. Obtienes un bonificador +1 por circunstancia a las salvaciones contra efectos con el rasgo miedo y un bonificador +2 por circunstancia a tu CD de Voluntad contra acciones de la habilidad Intimidación, como Desmoralizar.
 
@@ -85,7 +85,7 @@ Has dominado el arte de la compostura, incluso frente al miedo. Obtienes un boni
 
 ### Salud vigorosa · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Puedes soportar la pérdida de sangre sorprendentemente bien. Siempre que fueras a ganar la condición drenado, puedes intentar una prueba plana CD 17. Con un éxito, no ganas la condición drenado.
 
@@ -95,7 +95,7 @@ Puedes soportar la pérdida de sangre sorprendentemente bien. Siempre que fueras
 
 ### Reprensión agonizante · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Cuando aterrorizas a tus enemigos, también les causas un doloroso malestar mental. Cuando Desmoralizas con éxito a un enemigo, ese enemigo sufre 1d4 de daño mental al inicio de cada uno de sus turnos. Este efecto termina si la criatura pierde la condición asustado, si está a más de 30 pies de ti, o si pasa 1 minuto, lo que ocurra primero. Si tienes competencia maestra en Intimidación, el daño aumenta a 2d4, y si tienes competencia legendaria, el daño aumenta a 3d4.
 
@@ -103,7 +103,7 @@ Cuando aterrorizas a tus enemigos, también les causas un doloroso malestar ment
 
 ### Sargento instructor experto · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Mientras exploras, cuando lideras y tus aliados están Siguiendo al experto, en lugar de otorgar un bonificador +2 por circunstancia en la habilidad aplicable, otorgas un +3 por circunstancia si eres experto y un +4 por circunstancia si eres maestro.
 
@@ -111,7 +111,7 @@ Mientras exploras, cuando lideras y tus aliados están Siguiendo al experto, en 
 
 ### Reconocer emboscada · Dote 5 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 **Desencadenante:** Tiras iniciativa.
 
@@ -121,7 +121,7 @@ Tu entrenamiento de combate te ha afinado para estar listo ante un ataque en tod
 
 ### Sabio de renacuajos · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 A diferencia de la mayoría de los tuyos, que descartan a los goblins como vergüenzas o molestias prescindibles, has estudiado la metodología tras sus acciones irresponsables e incomprensibles. Obtienes la dote general Ascendencia adoptada y debes seleccionar goblin como la ascendencia elegida por la dote. También obtienes una dote de ascendencia goblin de nivel 1.
 
@@ -131,7 +131,7 @@ A diferencia de la mayoría de los tuyos, que descartan a los goblins como verg�
 
 ### Rejuvenecimiento cantoriano · Dote 9 · {% include accion.html tipo="2" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/curacion/" class="feat-trait">Curación</a><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -141,7 +141,7 @@ La energía vital que fluye en tu sangre te revitaliza. Recuperas 4d6 Puntos de 
 
 ### Jinete funesto · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 **Requisito:** compañero animal
 
@@ -151,7 +151,7 @@ Te has entrenado con tu compañero animal para convertirte en una mole aterrador
 
 ### Orgullo en armas · Dote 9 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/rasgos/mental/" class="feat-trait">Mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
 **Desencadenante:** Un aliado a 30 pies reduce a un enemigo a 0 Puntos de Golpe.
 
@@ -161,7 +161,7 @@ Con un grito de triunfo, concedes inspiración para que un aliado siga luchando.
 
 ### Tácticas de escuadra · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Eres diestro trabajando con tus aliados para rodear a un enemigo. Si un enemigo está a tu alcance y al menos al alcance de dos de tus aliados, ese enemigo está desprevenido para ti.
 
@@ -171,7 +171,7 @@ Eres diestro trabajando con tus aliados para rodear a un enemigo. Si un enemigo 
 
 ### Aquí no caes · Dote 13 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -183,7 +183,7 @@ Ayudas físicamente a un aliado a permanecer en pie y lo animas a superar el dol
 
 ### Acondicionamiento de guerra · Dote 13
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 Tienes entrenamiento extensivo en entornos remotos, lo que te permite moverte por estas áreas con facilidad. Cuando adquieres esta dote, puedes elegir obtener una Velocidad de trepar de 20 pies o una Velocidad de nado de 20 pies.
 
@@ -193,7 +193,7 @@ Tienes entrenamiento extensivo en entornos remotos, lo que te permite moverte po
 
 ### Restauración cantoriana · Dote 17 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/curacion/" class="feat-trait">Curación</a><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -205,7 +205,7 @@ La energía que fluye en tu sangre puede salvar una vida en los momentos más ac
 
 ### Grito de arenga · Dote 17 · {% include accion.html tipo="2" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
 **Frecuencia:** una vez por día
 

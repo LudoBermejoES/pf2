@@ -17,13 +17,13 @@ Puedes luchar sin esfuerzo con múltiples armas a la vez, entretejiendo tus arma
 
 ### Dedicación de Guerrero de armas dobles · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 Eres excepcional en el uso de dos armas. Obtienes la dote de guerrero Tajo doble.
 
 ### Lanzador dual · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Guerrero de armas dobles
 
@@ -31,7 +31,7 @@ Sabes lanzar dos armas con la misma facilidad que golpear con ellas. Siempre que
 
 ### Recarga dual · {% include accion.html tipo="1" %} · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Guerrero de armas dobles
 
@@ -39,7 +39,7 @@ Llevas tu munición de manera que te permite recargar mientras sostienes dos arm
 
 ### Corte desollante · {% include accion.html tipo="1" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Guerrero de armas dobles
 
@@ -49,7 +49,7 @@ Cuando golpeas con ambos ataques de Tajo doble, desuellas al objetivo, provocán
 
 ### Blitz de armas dobles · {% include accion.html tipo="2" %} · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Guerrero de armas dobles
 
@@ -59,7 +59,7 @@ Atacas mientras te abres paso por el campo de batalla. Avanza hasta tu Velocidad
 
 ### Embestida dual · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Armas dobles
 

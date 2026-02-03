@@ -10,7 +10,7 @@ source: PC2
 
 ## Vínculo del corazón [RITUAL 2]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 **Lanzamiento:** 1 hora; **Coste:** bebidas sacramentales y un juego de anillos u otros símbolos coincidentes por valor de 20 mo por lanzador secundario; **Lanzadores secundarios:** 2 o más
 

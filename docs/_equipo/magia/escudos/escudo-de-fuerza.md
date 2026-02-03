@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 13; **Precio** 2.500 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/rasgos/fuerza/" class="feat-trait">Fuerza</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/apendices/rasgos/fuerza/" class="feat-trait">Fuerza</a></div>
 
 **Dureza** 18; **PG** 72 (UR 36)
 

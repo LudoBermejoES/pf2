@@ -10,7 +10,7 @@ parent: Bagajes
 
 **Bagaje**
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/raro/" class="feat-trait">Raro</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/raro/" class="feat-trait">Raro</a></div>
 
 Eres un miembro destacado de una familia real. Has dejado de lado las rutinas diarias de la vida real y te has embarcado en una búsqueda aventurera—quizá seas una reina depuesta con la esperanza de recuperar su trono, un príncipe que busca una vida más emocionante, o el heredero de un soberano en una misión secreta.
 

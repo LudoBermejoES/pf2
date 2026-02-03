@@ -57,7 +57,7 @@ La sangre de dragón puede seleccionar cualquiera de los siguientes linajes. Sol
 
 ### Sangre de dragón arcana · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/rasgos/linaje/" class="feat-trait">Linaje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/apendices/rasgos/linaje/" class="feat-trait">Linaje</a></div>
 
 Desciendes de un dragón que domina sus habilidades mágicas, como un dragón de fortuna o un dragón de espejismo. Por ello, puedes captar instintivamente las complejidades de la magia. Obtienes el rango de competencia entrenado en Arcanos. Si automáticamente pasarías a estar entrenado en Arcanos (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección. Obtienes la dote de habilidad Sentido arcano. Si eliges un ejemplar dracónico, debes elegir un dragón arcano.
 
@@ -65,7 +65,7 @@ Desciendes de un dragón que domina sus habilidades mágicas, como un dragón de
 
 ### Sangre de dragón divina · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/rasgos/linaje/" class="feat-trait">Linaje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/apendices/rasgos/linaje/" class="feat-trait">Linaje</a></div>
 
 Puedes rastrear tu linaje hasta un dragón con poderes casi divinos, como un dragón diabólico o un dragón empíreo. Estás bendecido con un pequeño ápice de protección divina. Obtienes el rango de competencia entrenado en Religión. Si automáticamente pasarías a estar entrenado en Religión (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección. Además, se te dota de reacciones rápidas. Obtienes un bonificador circunstancial +1 a las tiradas de iniciativa. Si eliges un ejemplar dracónico, debes elegir un dragón divino.
 
@@ -73,7 +73,7 @@ Puedes rastrear tu linaje hasta un dragón con poderes casi divinos, como un dra
 
 ### Sangre de dragón oculta · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/rasgos/linaje/" class="feat-trait">Linaje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/apendices/rasgos/linaje/" class="feat-trait">Linaje</a></div>
 
 Tu sangre contiene un pequeño fragmento de poder inusual o inexplicable de un dragón misterioso, como un dragón conspirador o un dragón de augurio. Te atraen las partes más extrañas del mundo y por lo general puedes identificarlas de un vistazo. Obtienes el rango de competencia entrenado en Ocultismo. Si automáticamente pasarías a estar entrenado en Ocultismo (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección. Obtienes la dote de habilidad Identificación de rarezas. Si eliges un ejemplar dracónico, debes elegir un dragón oculto.
 
@@ -81,7 +81,7 @@ Tu sangre contiene un pequeño fragmento de poder inusual o inexplicable de un d
 
 ### Sangre de dragón primigenia · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/rasgos/linaje/" class="feat-trait">Linaje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/apendices/rasgos/linaje/" class="feat-trait">Linaje</a></div>
 
 Un dragón con una profunda conexión con el mundo natural, como un dragón adamantino o un dragón cornudo, se encuentra en algún lugar de tu árbol genealógico. Tiendes a confiar en tus instintos y podrías asumir el papel de protector de la naturaleza. Obtienes el rango de competencia entrenado en Naturaleza. Si automáticamente pasarías a estar entrenado en Naturaleza (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección. Puedes usar Naturaleza para Orientarte y Subsistir en lo salvaje. Si eliges un ejemplar dracónico, debes elegir un dragón primigenio.
 
@@ -91,7 +91,7 @@ Un dragón con una profunda conexión con el mundo natural, como un dragón adam
 
 ### Aliento de dragón · Dote 1 · {% include accion.html tipo="2" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a></div>
 
 Canalizando la fisiología de tu ancestro dracónico, puedes exhalar una torrentera de energía en un cono de 15 pies o una línea de 30 pies, infligiendo 1d4 de daño. Cada criatura en el área debe intentar una tirada de salvación básica contra la mayor de tu CD de clase o tu CD de conjuros. No puedes usar esta habilidad de nuevo durante 1d4 asaltos.
 
@@ -101,7 +101,7 @@ Al 3.º nivel y cada 2 niveles a partir de entonces, el daño aumenta en 1d4. La
 
 ### Aspecto dracónico · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 Tienes un rasgo dracónico evidente, como garras afiladas, un hocico lleno de dientes afilados o una cola reptiliana fuerte, que puedes usar ofensivamente. Obtienes a tu elección uno de los siguientes ataques desarmados. El ataque está en el grupo pelea y tiene el dado de daño y rasgos indicados.
 
@@ -115,7 +115,7 @@ Tienes un rasgo dracónico evidente, como garras afiladas, un hocico lleno de di
 
 ### Resistencia dracónica · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 La magia dracónica te protege del daño. Obtienes resistencia igual a la mitad de tu nivel (mínimo 1) al tipo de daño asociado con tu ejemplar dracónico. Duplica esta resistencia contra daño de ese tipo infligido por dragones. Si tu ejemplar dracónico está asociado con daño contundente, perforante o cortante, en lugar de obtener resistencia a ese tipo puedes elegir ácido, frío, fuego, electricidad o sónico.
 
@@ -123,7 +123,7 @@ La magia dracónica te protege del daño. Obtienes resistencia igual a la mitad 
 
 ### Vista dracónica · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 **Prerrequisitos:** visión en penumbra
 
@@ -133,7 +133,7 @@ Tienes una fracción de los sentidos de tu antepasado dracónico. Obtienes visi�
 
 ### Saber dracónico · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 Te has propuesto aprender más sobre tu ancestro y los de su estirpe, y quizás incluso fuiste criado por un progenitor dragón. Has llegado a comprender cómo los dragones pueden inspirar miedo, pero también cómo han contribuido a la sociedad en su conjunto. Obtienes el rango de competencia entrenado en Diplomacia e Intimidación. Si automáticamente pasarías a estar entrenado en una de esas habilidades (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección.
 
@@ -143,7 +143,7 @@ También obtienes la dote general Saber adicional para Saber sobre dragones.
 
 ### Piel escamosa · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 Naciste con una capa de escamas por todo tu cuerpo que se asemejan a las de tu progenitor dracónico. Cuando no llevas armadura, las escamas te otorgan un bonificador de objeto +2 a la CA con un límite de Destreza de +3. El bonificador de objeto a la CA de estas escamas es acumulativo con runas de potencia de armadura en tu ropa de explorador, el conjuro armadura mística o brazaletes de fuerza (Núcleo del DJ 286).
 
@@ -155,7 +155,7 @@ Naciste con una capa de escamas por todo tu cuerpo que se asemejan a las de tu p
 
 ### Aspecto letal · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 **Prerrequisitos:** Aspecto dracónico
 
@@ -165,7 +165,7 @@ Has perfeccionado el ataque desarmado que te ha otorgado tu herencia dracónica 
 
 ### Olfato dracónico · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 Tu sentido del olfato se ha agudizado hasta ser tan fino como el de un dragón. Obtienes olfato impreciso con un alcance de 30 pies. A su discreción, el DJ podría duplicar este alcance si estás a sotavento de la criatura o reducirlo a la mitad si estás a barlovento.
 
@@ -173,7 +173,7 @@ Tu sentido del olfato se ha agudizado hasta ser tan fino como el de un dragón. 
 
 ### Vuelo de dragón · Dote 5 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 **Frecuencia:** una vez por asalto
 
@@ -183,7 +183,7 @@ Has desarrollado un pequeño par de alas dracónicas o has perfeccionado el uso 
 
 ### Resistencias tradicionales · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 **Prerrequisitos:** Sangre de dragón arcana, sangre de dragón divina, sangre de dragón oculta o sangre de dragón primigenia
 
@@ -195,7 +195,7 @@ Debido a tu sangre, tienes cierta resistencia a tipos concretos de magia. Obtien
 
 ### Aliento formidable · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 **Prerrequisitos:** Aliento de dragón
 
@@ -205,7 +205,7 @@ Gracias a rigurosos ejercicios de respiración y una dieta similar a la de tu li
 
 ### Vuelo de verdadero dragón · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 **Prerrequisitos:** Vuelo de dragón
 
@@ -215,7 +215,7 @@ Tus alas se han fortalecido, capaces de mantenerte en el aire durante más tiemp
 
 ### Aleteo de alas · Dote 9 · {% include accion.html tipo="2" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 **Prerrequisitos:** experto en Atletismo
 
@@ -235,7 +235,7 @@ Tienes un par de alas dracónicas lo bastante fuertes como para azotar a tus ene
 
 ### Velo dracónico · Dote 13
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 Como algunos dragones, tu antepasado tenía la capacidad sobrenatural de cambiar de forma para caminar entre humanoides. Has aprendido a imitar esta habilidad. Puedes lanzar *forma humanoide* como conjuro innato de rango 5 una vez por día, excepto que la duración aumenta a 1 hora. La tradición del conjuro coincide con la de tu ejemplar dracónico.
 
@@ -243,7 +243,7 @@ Como algunos dragones, tu antepasado tenía la capacidad sobrenatural de cambiar
 
 ### Presencia majestuosa · Dote 13 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/visual/" class="feat-trait">Visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 
 Adoptando una postura impresionante, la fuerza total de tu personalidad amedrenta a los seres menores. Cada criatura en una emanación de 20 pies debe intentar una tirada de salvación de Voluntad contra la mayor de tu CD de clase o tu CD de conjuros. Independientemente del resultado de la tirada de salvación, la criatura queda temporalmente inmune a tu Presencia majestuosa durante 24 horas.
 
@@ -261,7 +261,7 @@ Adoptando una postura impresionante, la fuerza total de tu personalidad amedrent
 
 ### Forma de dragón · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 Puedes transformarte brevemente en un paradigma de tu ascendencia dracónica. Puedes lanzar *forma de dragón* como conjuro innato de rango 8 una vez por día. Este conjuro tiene la misma tradición que tu ejemplar dracónico. Cuando lanzas este conjuro innato, debes transformarte en tu ejemplar dracónico. Sin embargo, si tienes la dote de linaje Sangre de dragón arcana, Sangre de dragón divina, Sangre de dragón oculta o Sangre de dragón primigenia, puedes en su lugar elegir cualquier dragón de esa tradición.
 
@@ -269,7 +269,7 @@ Puedes transformarte brevemente en un paradigma de tu ascendencia dracónica. Pu
 
 ### Aliento persistente · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
 **Prerrequisitos:** Aliento de dragón
 

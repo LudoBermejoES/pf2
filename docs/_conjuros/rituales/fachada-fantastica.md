@@ -10,7 +10,7 @@ source: PC2
 
 ## Fachada fantástica [RITUAL 9]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/raro/" class="feat-trait">Raro</a><a href="/rasgos/ilusion/" class="feat-trait">Ilusión</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/raro/" class="feat-trait">Raro</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">Ilusión</a></div>
 
 **Lanzamiento:** 1 semana; **Coste:** pintura mística, velos elaborados y minerales en polvo por valor total de 20.000 mo; **Lanzadores secundarios:** 3
 

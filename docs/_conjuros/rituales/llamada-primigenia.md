@@ -10,7 +10,7 @@ source: PC1
 
 ## Llamada Primigenia [RITUAL 6]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a></div>
 
 **Lanzamiento:** 1 dia; **Coste:** los ingredientes de un circulo feérico por un valor total de 1 po x el rango del conjuro x el nivel del objetivo
 

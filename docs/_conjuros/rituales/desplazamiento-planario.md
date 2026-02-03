@@ -10,7 +10,7 @@ source: PC1
 
 ## Desplazamiento Planario [RITUAL 7]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/teletransporte/" class="feat-trait">teletransporte</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/teletransporte/" class="feat-trait">teletransporte</a></div>
 
 **Lanzamiento:** 1 dia; **Requisitos:** llave planaria para el Plano de destino utilizada como locus; **Coste:** incienso raro, metales preciosos y tiza purificada por valor de 500 po
 

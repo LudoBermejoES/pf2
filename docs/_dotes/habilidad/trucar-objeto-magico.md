@@ -9,7 +9,7 @@ level: 1
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
 **Dote 1**
 

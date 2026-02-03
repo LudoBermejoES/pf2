@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración]
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
 Mantienes un efecto cuya duración es "mantenido" mientras te mueves a media velocidad.
 

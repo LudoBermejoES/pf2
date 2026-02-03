@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 4; **Precio** 90 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/baculo/" class="feat-trait">Báculo</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/baculo/" class="feat-trait">Báculo</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** 1
 

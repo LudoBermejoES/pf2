@@ -7,7 +7,7 @@ category: equipo
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/rasgos/bomba/" class="feat-trait">Bomba</a><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/salpicadura/" class="feat-trait">Salpicadura</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/apendices/rasgos/bomba/" class="feat-trait">Bomba</a><a href="/apendices/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/apendices/rasgos/salpicadura/" class="feat-trait">Salpicadura</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
 **Uso** sostenido en 1 mano; **Volumen** L
 

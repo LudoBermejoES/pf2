@@ -162,7 +162,7 @@ Por otra parte, algunas armaduras, escudos y armas están hechas de materiales p
 
 La piel y las escamas de un dragón pueden usarse para fabricar cualquier objeto que normalmente se haga de cuero o piel ordinaria. La piel de dragón varía en color y textura, dependiendo del dragón del que proceda. Debido a su resistencia, también puede usarse para fabricar armaduras que normalmente se hacen de placas metálicas (como coraza, armadura laminada y armadura completa), permitiendo que dichas armaduras se fabriquen sin metal.
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/precioso/" class="feat-trait">Precioso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/precioso/" class="feat-trait">Precioso</a></div>
 
 Los objetos de piel de dragón son inmunes a un tipo de daño, dependiendo de la tradición asociada al dragón:
 
@@ -193,7 +193,7 @@ Los objetos de piel de dragón son inmunes a un tipo de daño, dependiendo de la
 
 ### Armadura de Piel de Dragón · Objeto 12+
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 **Uso** armadura vestida; **Impedimenta** varía según la armadura
 
@@ -208,7 +208,7 @@ La armadura de piel de dragón es inmune a un tipo de daño según el tipo de dr
 
 ### Escudo de Piel de Dragón · Objeto 8+
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 Puedes fabricar broqueles y la mayoría de los escudos (excepto escudos torre) de piel de dragón. Cada escudo de piel de dragón es inmune a un tipo de daño según la tradición asociada al dragón.
 

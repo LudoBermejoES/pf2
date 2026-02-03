@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Exploración, Secreto]
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/secreto/" class="feat-trait">Secreto</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/apendices/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
 Usas la [Diplomacia]({{ '/habilidades/diplomacia/' | relative_url }}) para sondear en una zona y averiguar cosas acerca de un individuo o tema específico.
 

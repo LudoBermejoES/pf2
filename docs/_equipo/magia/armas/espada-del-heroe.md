@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 17; **Precio** 14.000 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/rasgos/bueno/" class="feat-trait">Bueno</a><a href="/rasgos/raro/" class="feat-trait">Raro</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/apendices/rasgos/bueno/" class="feat-trait">Bueno</a><a href="/apendices/rasgos/raro/" class="feat-trait">Raro</a></div>
 
 **Tipo base:** Espada bastarda
 

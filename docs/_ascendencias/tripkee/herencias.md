@@ -21,7 +21,7 @@ Puede que seas pequeño, pero las glándulas de veneno ocultas por tu cuerpo esc
 
 > **Piel tóxica** {% include accion.html tipo="libre" %}
 >
-> <div class="feat-traits-header" markdown="0"><a href="/rasgos/veneno/" class="feat-trait">Veneno</a></div>
+> <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/veneno/" class="feat-trait">Veneno</a></div>
 >
 > **Frecuencia:** una vez por hora
 >

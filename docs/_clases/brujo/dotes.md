@@ -61,7 +61,7 @@ En cada nivel en el que obtienes una dote de brujo, puedes seleccionar una de la
 
 ### Armamentos de brujo | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 El poder de tu patrón cambia tu cuerpo para asegurarse de que nunca careces de defensas. Obtienes uno de los siguientes ataques sin armas.
 
@@ -75,7 +75,7 @@ El poder de tu patrón cambia tu cuerpo para asegurarse de que nunca careces de 
 
 ### Caldero | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Puedes elaborar magia en tu caldero, creando preparaciones mágicas útiles. Puedes utilizar la actividad Artesanía para crear aceites y pociones. Obtienes de inmediato las fórmulas de 4 aceites o pociones comunes de 1.er nivel. A 4.º nivel y cada 2 niveles posteriores, obtienes la fórmula de un aceite o poción común de dicho nivel o inferior (una poción de 4.º nivel si eres de 4.º, una poción de 6.º nivel si eres de 6.º y así sucesivamente). Si tienes un familiar, puedes hacer que aprenda dichas fórmulas en lugar de almacenarlas en un libro de fórmulas. Tu familiar puede aprender nuevas fórmulas del mismo modo en que aprende nuevos conjuros, y se transfieren de un familiar muerto a uno nuevo de la misma forma que los conjuros.
 
@@ -85,7 +85,7 @@ Durante tus preparativos diarios, puedes crear un aceite o poción temporal util
 
 ### Conjuro de alcance {% include accion.html tipo="1" %} | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas es Lanzar un conjuro que tiene alcance, incrementa dicho alcance en 30 pies (9 m). Como es habitual cuando se incrementan los alcances de conjuro, si éste tiene normalmente un alcance de toque, lo alargas a 30 pies (9 m).
 
@@ -93,7 +93,7 @@ Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas 
 
 ### Contraconjuro {% include accion.html tipo="reaccion" %} | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Desencadenante:** Una criatura lanza un conjuro que tú tienes preparado.
 
@@ -105,7 +105,7 @@ Cuando un enemigo Lanza un conjuro y puedes ver sus manifestaciones, puedes util
 
 ### Extender conjuro {% include accion.html tipo="1" %} | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Manipulas la energía de tu conjuro, haciendo que afecte a una área más amplia. Si la siguiente acción que utilizas es Lanzar un conjuro que tiene una área tipo explosión, cono o línea y no tiene duración, incrementa su área de efecto. Añade 5 pies (1,5 m) al radio de una explosión que normalmente tiene un radio de por lo menos 10 pies (3 m); una explosión con un radio menor no se ve afectada. Añade 5 pies (1,5 m) a la longitud de un cono o una línea que normalmente es de 15 pies (4,5 m) o menor y añade 10 pies (3 m) a la longitud de un cono o una línea mayor.
 
@@ -113,7 +113,7 @@ Manipulas la energía de tu conjuro, haciendo que afecte a una área más amplia
 
 ### Risa estridente | Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 El poder de tu patrón te llena de confianza, permitiéndote mantener la magia en funcionamiento incluso cuando un rápido brote de risa sale de tus labios. Aprendes el maleficio *risotada*.
 
@@ -123,7 +123,7 @@ El poder de tu patrón te llena de confianza, permitiéndote mantener la magia e
 
 ### Expansión de truco | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu patrón reconoce tu necesidad de ser flexible y versátil y te concede el poder de preparar una gama más amplia de conjuros sencillos. Puedes preparar 2 trucos adicionales cada día.
 
@@ -131,7 +131,7 @@ Tu patrón reconoce tu necesidad de ser flexible y versátil y te concede el pod
 
 ### Familiar potenciado | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** un familiar
 
@@ -143,7 +143,7 @@ Infundes a tu familiar con energía mágica adicional. Puedes seleccionar 4 apti
 
 ### Idioma del familiar | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** un familiar
 
@@ -155,7 +155,7 @@ Has aprendido a hablar con tu familiar y con otras criaturas como él. Puedes fo
 
 ### Lección básica | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu patrón te concede una lección especial, revelando una faceta escondida de su naturaleza. Elige una lección básica. Obtienes el maleficio asociado y tu familiar aprende el conjuro asociado.
 
@@ -163,7 +163,7 @@ Tu patrón te concede una lección especial, revelando una faceta escondida de s
 
 ### Ocultar conjuro {% include accion.html tipo="1" %} | Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 A través de puro esfuerzo mental, puedes simplificar los encantamientos y gestos necesarios para lanzar los conjuros, haciendo que apenas se vean. Si la siguiente acción que utilizas es Lanzar un conjuro, éste obtiene el rasgo sutil, ocultando las runas brillantes, las chispas de magia y otras manifestaciones que por lo general delatarían tu lanzamiento de conjuros. El rasgo oculta tan sólo las acciones de lanzamiento de conjuros y sus manifestaciones, no sus efectos, por lo que un observador podría seguir viendo un rayo saliendo de ti o a ti desaparecer por completo.
 
@@ -173,7 +173,7 @@ A través de puro esfuerzo mental, puedes simplificar los encantamientos y gesto
 
 ### Golpe simpático {% include accion.html tipo="1" %} | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** Armamento de brujo
 
@@ -185,7 +185,7 @@ Almacenas magia de tu patrón en uno de tus armamentos de brujo, haciendo que br
 
 ### Ritos de convocación | Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu patrón te concede el poder de convocar a otras criaturas para que te ayuden. Elige un conjuro de convocar (por ejemplo *convocar animal*, *convocar constructo*, etc.) que aparece en la lista de conjuros de tu tradición de lanzamiento de conjuros. Puedes invertir 10 minutos en comunión con tu familiar para reemplazar un conjuro que tienes preparado en uno de tus espacios de conjuro de brujo con el conjuro elegido, potenciado al mismo rango. El conjuro reemplazado tiene que ser por lo menos del rango de conjuros mínimo que el de convocar.
 
@@ -195,7 +195,7 @@ Tu patrón te concede el poder de convocar a otras criaturas para que te ayuden.
 
 ### Cuchillo ceremonial | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Has preparado un cuchillo especial para dirigir las energías cuando lanzas conjuros. Durante tus preparativos diarios, tu familiar y tú podéis llevar a cabo un ritual corto sobre un arma del grupo cuchillos, típicamente una daga. Esto hace que el cuchillo funcione como una varita mágica, conteniendo cualquier conjuro de 1.er rango conocido por tu familiar. Tú (y solamente tú) puedes Activar el cuchillo para Lanzar el conjuro de su interior, de la forma habitual para una varita. Puedes intentar sobrecargar el cuchillo y esto puede romperlo o destruirlo de la forma habitual.
 
@@ -205,7 +205,7 @@ A 8.º nivel y cada 2 niveles posteriores, el rango máximo de conjuro que puede
 
 ### Lanzamiento de conjuros firme | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Confiado en tu técnica, no pierdes fácilmente tu concentración cuando Lanzas un conjuro. Si la reacción de otra criatura puede interrumpir tu acción de lanzamiento de conjuros, haz una prueba plana CD 15. Si tienes éxito, tu acción no queda interrumpida.
 
@@ -213,7 +213,7 @@ Confiado en tu técnica, no pierdes fácilmente tu concentración cuando Lanzas 
 
 ### Lección mayor | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu patrón te concede un conocimiento mayor. Elige una lección mayor o básica. Obtienes el maleficio asociado y tu familiar aprende el conjuro asociado.
 
@@ -221,7 +221,7 @@ Tu patrón te concede un conocimiento mayor. Elige una lección mayor o básica.
 
 ### Tutela de brujo | Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/deteccion/" class="feat-trait">Detección</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/deteccion/" class="feat-trait">Detección</a></div>
 
 Forjas un vínculo mágico con otra criatura, que te permite conocer el estado de dicha criatura y crear un conducto para el lanzamiento de conjuros. Durante tus preparativos diarios puedes designar una criatura voluntaria como tutelada. Siempre estás al corriente de la dirección en la que está el tutelado, la distancia que hay entre ambos y cualquier estado que le afecta. Además, puedes lanzar conjuros con rango toque sobre tu tutelado desde una distancia de hasta 30 pies (9 m). Dichos efectos persisten hasta tus siguientes preparativos diarios.
 
@@ -233,7 +233,7 @@ Forjas un vínculo mágico con otra criatura, que te permite conocer el estado d
 
 ### Botella de brujo | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** Caldero
 
@@ -245,7 +245,7 @@ Toda poción que creas de esta forma pierde su poder la siguiente vez que llevas
 
 ### Familiar espiritual | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** patrón divino u ocultista
 
@@ -261,7 +261,7 @@ Tu familiar puede subsumir su cuerpo y convertirse en un espíritu puro. Obtiene
 
 ### Familiar hilvanado | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** patrón arcano o primigenio
 
@@ -277,7 +277,7 @@ Tu familiar puede abandonar su forma material, convirtiéndose en una masa de ma
 
 ### Familiar sensacional | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** Familiar potenciado
 
@@ -289,7 +289,7 @@ Tu familiar está imbuido con aún más magia que otros familiares. Puedes selec
 
 ### Vista lúgubre | Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu visión atraviesa la niebla, la bruma, la lluvia y la nieve no mágicas. No se te imponen penalizadores por circunstancia a los ataques a distancia o a las pruebas de Percepción causadas por las precipitaciones no mágicas y tus ataques dirigidos no requieren una prueba plana para tener éxito contra un objetivo que está oculto sólo por dichos efectos.
 
@@ -299,7 +299,7 @@ Tu visión atraviesa la niebla, la bruma, la lluvia y la nieve no mágicas. No s
 
 ### Comunión de brujo | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** Tutela de brujo
 
@@ -309,7 +309,7 @@ Puedes tutelar a varios individuos. Cada día, durante tus preparativos diarios,
 
 ### Doble, doble | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** Caldero
 
@@ -319,7 +319,7 @@ Por cada aceite o poción temporal que elaboras durante tus preparativos diarios
 
 ### Lanzamiento apresurado {% include accion.html tipo="libre" %} | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 **Frecuencia:** una vez al día
 
@@ -329,7 +329,7 @@ Aceleras tu lanzamiento de conjuros. Si tu siguiente acción es lanzar un truco 
 
 ### Lección superior | Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu patrón te revela secretos aún mayores. Elige una lección superior, mayor o básica. Obtienes el maleficio asociado y tu familiar aprende el conjuro asociado.
 
@@ -341,7 +341,7 @@ Tu patrón te revela secretos aún mayores. Elige una lección superior, mayor o
 
 ### Conjuro de aquelarre {% include accion.html tipo="reaccion" %} | Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 **Desencadenante:** Un aliado a 30 pies (9 m) o menos Lanza un conjuro.
 
@@ -354,7 +354,7 @@ Rimas con los encantamientos de tu aliado o te haces eco de sus movimientos, vin
 
 ### Escoba de brujo | Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Una escoba es la única montura que necesitas para volar por el cielo nocturno. Durante tus preparativos diarios, puedes embadurnar una sola escoba, bastón, arma de asta u objeto de forma similar con un ungüento volador hecho de hierbas y aceites especiales. Hasta tus siguientes preparativos diarios, obtiene el rasgo mágico y puedes montar en ella sosteniéndola con por lo menos 1 mano. Tiene una Velocidad de vuelo de 20 pies (6 m). La escoba sufre un penalizador -10 pies (3 m) a su Velocidad si va cargada con más de Impedimenta 20 y se estrella contra el suelo si lleva más de Impedimenta 30. El único que puede controlarla eres tú. Si embadurnas un arma u otro objeto sostenido, no puedes montar en la escoba y empuñarlo al mismo tiempo.
 
@@ -364,7 +364,7 @@ Puedes utilizar Artesanía para convertir tu escoba en una escoba voladora como 
 
 ### Foco de maleficios | Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Las enseñanzas de tu patrón te han permitido conseguir un foco más profundo. Siempre que Reenofcas, rellenas por completo tu reserva de foco.
 
@@ -374,7 +374,7 @@ Las enseñanzas de tu patrón te han permitido conseguir un foco más profundo. 
 
 ### Presencia del patrón | Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu patrón puede dirigir su atención a través de tu familiar, y su mera presencia se convierte en un peso ominoso sobre la mente de otros seres para distraerles y anular su magia. Tu familiar obtiene la siguiente actividad.
 
@@ -388,7 +388,7 @@ Tu patrón puede dirigir su atención a través de tu familiar, y su mera presen
 
 ### Reflejar conjuro | Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** Contraconjuro
 
@@ -398,7 +398,7 @@ Cuando utilizas con éxito Contraconjuro para contrarrestar un conjuro que afect
 
 ### Ritos de transfiguración | Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Puedes adaptar el poder de tu patrón para transformar a otras criaturas en formas más adecuadas a su comportamiento o a tus caprichos. Tu familiar aprende *metamorfosis maldita*, incluso si dicho conjuro no está en la lista de tu tradición. Invirtiendo 10 minutos en comunión con tu familiar, puedes reemplazar un conjuro de 6.º rango o superior que tienes preparado en uno de tus espacios de conjuro de brujo por una *metamorfosis maldita* del mismo rango.
 
@@ -408,7 +408,7 @@ Puedes adaptar el poder de tu patrón para transformar a otras criaturas en form
 
 ### Concentración sin esfuerzo {% include accion.html tipo="libre" %} | Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Desencadenante:** Empieza tu turno.
 
@@ -418,7 +418,7 @@ Mantienes tus conjuros activos casi sin pensarlo. Obtienes de inmediato los efec
 
 ### Succionar poder {% include accion.html tipo="libre" %} | Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Frecuencia:** una vez al día
 
@@ -434,7 +434,7 @@ Recurres a la reserva de magia de tu patrón que reside en tu familiar. Durante 
 
 ### Dividir maleficio {% include accion.html tipo="1" %} | Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 Derivas parte del poder de un maleficio ofensivo que estás lanzando para dirigirlo contra un segundo objetivo. Si la siguiente acción que utilizas es Lanzar un conjuro para lanzar un maleficio dañino con un solo objetivo, reduce en 2 su rango (haciéndolo 2 rangos más bajo que el rango de conjuro máximo que puedes lanzar). Si lo haces, puedes seleccionar un segundo objetivo para que sea afectado por dicho maleficio.
 
@@ -442,7 +442,7 @@ Derivas parte del poder de un maleficio ofensivo que estás lanzando para dirigi
 
 ### Reclamación del patrón | Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu patrón se manifiesta parcialmente a través de tu familiar reclamando para sí el poder de un enemigo. Tu familiar obtiene la siguiente actividad.
 
@@ -458,7 +458,7 @@ Tu patrón se manifiesta parcialmente a través de tu familiar reclamando para s
 
 ### Cabaña de brujo | Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Tu hogar es una estructura animada que obedece tus órdenes. Llevando a cabo un ritual que dura 1 día creas un objeto animado a partir de una cabaña, casita, carromato cubierto, tienda o construcción similar de tamaño hasta Enorme.
 
@@ -478,7 +478,7 @@ Tan sólo puedes tener una cabaña a la vez. Si animas una nueva, la anterior re
 
 ### Maestro de los maleficios | Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 Personificas tanto el vínculo con tu patrón que puedes lanzar tus maleficios en rápida sucesión. Ya no estás limitado a lanzar 1 solo maleficio por turno. Además, cuando Lanzas *risotada* para mantener un maleficio, obtienes los efectos de Mantener para todos tus maleficios activos que tienen una duración de mantenido.
 
@@ -486,7 +486,7 @@ Personificas tanto el vínculo con tu patrón que puedes lanzar tus maleficios e
 
 ### Verdad del patrón | Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/brujo/" class="feat-trait">Brujo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
 **Prerrequisitos:** Don del patrón
 

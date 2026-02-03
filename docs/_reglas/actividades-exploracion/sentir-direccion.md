@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Exploración, Secreto]
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/secreto/" class="feat-trait">Secreto</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/apendices/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
 Usas la [Supervivencia]({{ '/habilidades/supervivencia/' | relative_url }}) para hacerte una idea de dónde estás o determinar las direcciones cardinales.
 

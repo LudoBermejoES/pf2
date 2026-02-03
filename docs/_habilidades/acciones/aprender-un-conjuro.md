@@ -18,7 +18,7 @@ Si eres un lanzador de conjuros, puedes utilizar la habilidad correspondiente a 
 
 ### Aprender un Conjuro
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
 <img src="{{ '/assets/images/acciones/aprender-un-conjuro.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

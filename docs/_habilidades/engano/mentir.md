@@ -9,7 +9,7 @@ action_cost: 0
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/linguistico/" class="feat-trait">Lingüístico</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/secreto/" class="feat-trait">Secreto</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/linguistico/" class="feat-trait">Lingüístico</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
 <img src="{{ '/assets/images/acciones/mentir.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

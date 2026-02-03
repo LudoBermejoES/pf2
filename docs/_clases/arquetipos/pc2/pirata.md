@@ -17,7 +17,7 @@ Vives una vida de libertad, tomando por la fuerza y la intimidación todo lo que
 
 ### Dedicación de Pirata · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Intimidación
 
@@ -27,7 +27,7 @@ Como pirata, surcas los mares en busca de barcos enemigos que saquear y grandes 
 
 ### Entrenamiento de combate pirata · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Pirata
 
@@ -37,7 +37,7 @@ En el 5.º nivel, siempre que obtienes un impacto crítico con una de estas arma
 
 ### Corredor de cuerdas · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Pirata, entrenado en Acrobacias y Atletismo
 
@@ -45,7 +45,7 @@ Corres y trepas por cuerdas y jarcias casi tan fácilmente como por el suelo. Ob
 
 ### Caminar por la tabla · {% include accion.html tipo="2" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Pirata
 

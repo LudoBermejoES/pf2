@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración]
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
 Buscas información acerca de lo que te rodea mientras viajas a media velocidad.
 

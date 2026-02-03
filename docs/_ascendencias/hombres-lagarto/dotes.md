@@ -17,7 +17,7 @@ En 1.er nivel, obtienes una dote de ascendencia, y obtienes una dote de ascenden
 
 ### Magia ósea · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Tu conexión con tus ancestros iruxi se manifiesta como un sencillo conjuro primitivo que lanzas usando un fragmento de los huesos de un antepasado. Elige un truco de la lista de conjuros ocultos o de la lista de conjuros primitivos. Puedes lanzar este truco como conjuro innato a voluntad, y está aumentado a un nivel de conjuro igual a la mitad de tu nivel redondeada hacia arriba.
 
@@ -27,7 +27,7 @@ Tu conexión con tus ancestros iruxi se manifiesta como un sencillo conjuro prim
 
 ### Armas iruxi · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Tus armas son aquellas con las que naciste. Elige una de las siguientes opciones:
 
@@ -43,7 +43,7 @@ En el 5.º nivel, siempre que obtengas un golpe crítico con uno de los ataques 
 
 ### Tradición iruxi · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Has escuchado con atención los relatos transmitidos en tu comunidad. Obtienes el rango de competencia entrenado en Supervivencia y en Naturaleza u Ocultismo. Si fueras a volverte entrenado automáticamente en una de esas habilidades (por tu trasfondo o clase, por ejemplo), en su lugar te vuelves entrenado en una habilidad de tu elección.
 
@@ -53,7 +53,7 @@ También obtienes la dote general Conocimientos adicionales para Conocimientos d
 
 ### Corredor de pantanos · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 **Prerrequisitos:** Tienes una Velocidad de nado.
 
@@ -63,7 +63,7 @@ Cuando usas la acción Dar un paso, puedes ignorar el terreno difícil causado p
 
 ### Cría partenogénica · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Eclosionaste de un huevo no fertilizado durante tiempos difíciles para tu pueblo y eres una copia biológica de tu madre. Obtienes un bonificador +1 por circunstancia a las tiradas de salvación contra enfermedades. Si obtienes un éxito en una tirada de salvación contra una enfermedad, en su lugar obtienes un éxito crítico. Si tienes otra capacidad que mejoraría la salvación de este modo (como la característica de clase del guerrero endurecido por la batalla), si obtienes un fallo crítico en la salvación, en su lugar obtienes un fallo.
 
@@ -75,7 +75,7 @@ Sufres daño por sed solo cada 2 horas y daño por hambre cada 2 días, en lugar
 
 ### Hablante de reptiles · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Oyes los sonidos de los reptiles como si fueran lenguaje. Puedes hacer preguntas, recibir respuestas y usar la habilidad Diplomacia con animales que sean reptiles (el DJ determina qué animales cuentan como reptiles).
 
@@ -85,7 +85,7 @@ Oyes los sonidos de los reptiles como si fueran lenguaje. Puedes hacer preguntas
 
 ### Colmillos envenenados · Dote 5 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 **Prerrequisitos:** Armas iruxi (Colmillos)
 
@@ -97,7 +97,7 @@ Envenenas tus colmillos. Si el próximo Golpe con colmillos que realices antes d
 
 ### Cola flexible · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Puedes realizar acciones de Interactuar simples con tu cola, como abrir una puerta sin cerrar. Tu cola no puede realizar acciones que requieran dedos o destreza manual significativa, incluyendo cualquier acción que requiera una prueba para lograrse, y no puedes usarla para sostener objetos.
 
@@ -105,7 +105,7 @@ Puedes realizar acciones de Interactuar simples con tu cola, como abrir una puer
 
 ### Agarre de gecko · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Te aferras a las paredes con un agarre sobrenatural. Obtienes la dote Escalador de combate como dote adicional y, si obtienes un éxito en una prueba de Atletismo para Trepar, en su lugar obtienes un éxito crítico.
 
@@ -115,7 +115,7 @@ Te aferras a las paredes con un agarre sobrenatural. Obtienes la dote Escalador 
 
 ### Soltar la cola · Dote 5 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 **Prerrequisitos:** Armas iruxi (Cola)
 
@@ -129,7 +129,7 @@ Puedes desprender una parte de tu cola para escapar. Dejas de estar agarrado y l
 
 ### Nadador veloz · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Obtienes una Velocidad de nado de 15 pies.
 
@@ -141,7 +141,7 @@ Obtienes una Velocidad de nado de 15 pies.
 
 ### Colgarse · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Puedes colgarte por la cola de cualquier punto de anclaje adecuado, como una rama, balcón o saliente rocoso (a discreción del DJ), normalmente mientras trepas. Mientras estás colgado, tienes libre uso de todas tus otras extremidades, por lo que puedes realizar tareas que requieran ambas manos, como disparar un arco o blandir una espada bastarda.
 
@@ -149,7 +149,7 @@ Puedes colgarte por la cola de cualquier punto de anclaje adecuado, como una ram
 
 ### Afilar garras · Dote 9 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 **Prerrequisitos:** Armas iruxi (Garras)
 
@@ -161,7 +161,7 @@ Limas o muerdes un filo particularmente cruel en tus garras. El próximo Golpe c
 
 ### Ventaja del terreno · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Las criaturas que no sean iruxi en terreno difícil están desprevenidas frente a ti. Si tienes Velocidad de nado, las criaturas que no sean iruxi que estén en el agua y carezcan de Velocidad de nado también están desprevenidas frente a ti.
 
@@ -171,7 +171,7 @@ Las criaturas que no sean iruxi en terreno difícil están desprevenidas frente 
 
 ### Investidura ósea · Dote 13
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 **Prerrequisitos:** Magia ósea
 
@@ -181,7 +181,7 @@ Te recubres con huesos espirituales de dinosaurio para convertirte en un dinosau
 
 ### Golpe espiritual iruxi · Dote 13
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Tus ataques desarmados iruxi canalizan la energía espiritual de tus ancestros. Cualquier ataque desarmado que adquieras de la ascendencia iruxi, herencias iruxi o dotes de ascendencia iruxi gana los efectos de una runa de propiedad toque fantasmal.
 
@@ -189,7 +189,7 @@ Tus ataques desarmados iruxi canalizan la energía espiritual de tus ancestros. 
 
 ### Desenfreno primordial · Dote 13
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 Obtienes *movimiento sin trabas* y *resiliencia de montaña* como conjuros innatos primitivos de 4.º nivel que puedes lanzar una vez al día.
 
@@ -201,7 +201,7 @@ Como actividad de 3 acciones, puedes Lanzar un conjuro dos veces para lanzar amb
 
 ### Jinete fósil · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
 **Prerrequisitos:** Magia ósea
 
@@ -211,6 +211,6 @@ Usando los huesos de tus ancestros, manifiestas sus espíritus a tu alrededor en
 
 ### Transformación de vástago · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/iruxi/" class="feat-trait">Iruxi</a><a href="/rasgos/primitivo/" class="feat-trait">Primitivo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a><a href="/apendices/rasgos/primitivo/" class="feat-trait">Primitivo</a></div>
 
 Hibernas durante veinticuatro horas y realizas un ritual dedicado a tus ancestros, sometiéndote a una metamorfosis única. Ganas permanentemente los efectos de *agrandar*, y tus Puntos de Golpe máximos aumentan en un valor igual a tu nivel. El ritual transforma la mayoría de tu equipo al tamaño apropiado para tu nuevo cuerpo (aunque objetos poderosos como artefactos o aquellos muy ligados a su tamaño original pueden no transformarse, a discreción del DJ).

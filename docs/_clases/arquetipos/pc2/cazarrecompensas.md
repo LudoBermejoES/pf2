@@ -17,7 +17,7 @@ Sea por dinero, gloria o justicia, sabes cómo rastrear, derrotar y capturar ind
 
 ### Dedicación de Cazarrecompensas · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Supervivencia
 
@@ -27,7 +27,7 @@ Si ya tienes Cazar presa, obtienes la dote Cazador de monstruos además de los o
 
 ### Comitiva · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
@@ -39,7 +39,7 @@ Estos beneficios duran hasta que designas una nueva presa o tu presa muere, lo q
 
 ### Herramientas del oficio · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
@@ -49,7 +49,7 @@ Además, no sufres penalización al hacer un ataque no letal con un arma que no 
 
 ### Mantener el ritmo · {% include accion.html tipo="libre" %} · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
@@ -59,7 +59,7 @@ Una vez que estás sobre tu presa, no puede escapar. Avanza hasta tu Velocidad, 
 
 ### Agarrón oportunista · {% include accion.html tipo="libre" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 

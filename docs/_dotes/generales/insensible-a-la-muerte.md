@@ -8,7 +8,7 @@ level: 7
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/general/" class="feat-trait">General</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a></div>
 
 **Dote 7**
 

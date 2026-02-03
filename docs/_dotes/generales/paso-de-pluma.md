@@ -11,7 +11,7 @@ source: PC1
 **Dote 1** · General
 
 <div class="feat-traits-header">
-<a href="/rasgos/general/" class="feat-trait">General</a>
+<a href="/apendices/rasgos/general/" class="feat-trait">General</a>
 </div>
 
 **Prerrequisitos:** Destreza +2

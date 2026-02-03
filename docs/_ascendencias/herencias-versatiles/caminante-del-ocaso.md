@@ -37,7 +37,7 @@ Gracias a un antiguo pacto, tu alma ha renacido como caminante del ocaso, un vá
 
 ### Chance de la muerte · Dote 1 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -51,7 +51,7 @@ Tu vida anterior terminó por pura mala suerte, alcanzado por un rayo o atragant
 
 ### Muerte deliberada · Dote 1 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -65,7 +65,7 @@ Una vez, moriste porque alguien—asesino, monstruo o soldado—eligió derribar
 
 ### Saber sobre caminante del ocaso · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Encontraste a otro caminante del ocaso que te enseñó los secretos de los de tu clase, o investigaste tu inusual herencia. Obtienes el rango de competencia entrenado en Medicina y Religión. Si automáticamente pasarías a estar entrenado en una de esas habilidades (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección.
 
@@ -75,7 +75,7 @@ También obtienes la dote general Saber adicional para Saber sobre el Osario.
 
 ### Familiaridad con armas de caminante del ocaso · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Tienes familiaridad con el bastón bo, arco largo, arco largo compuesto, guadaña y bastón; a efectos de competencia, tratas cualquiera de estas armas que sean marciales como simples y cualquiera que sea avanzada como marcial.
 
@@ -85,7 +85,7 @@ Al 5.º nivel, siempre que obtienes un impacto crítico con una de estas armas, 
 
 ### Cazador de fantasmas · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Tu conexión con el Osario garantiza que tus golpes impacten con precisión contra seres espectrales. Tus Golpes de arma y desarmados contra criaturas incorpóreas se vuelven mágicos. Si ya fueran mágicos, en su lugar obtienen los efectos de una runa de propiedad toque fantasmal.
 
@@ -93,7 +93,7 @@ Tu conexión con el Osario garantiza que tus golpes impacten con precisión cont
 
 ### Vista de tumba · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Puedes ver en la oscuridad tan fácilmente como un psicopompo. Obtienes visión en la oscuridad.
 
@@ -105,7 +105,7 @@ Puedes ver en la oscuridad tan fácilmente como un psicopompo. Obtienes visión 
 
 ### Sentido de vida · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/divino/" class="feat-trait">Divino</a><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Tienes una capacidad limitada para percibir la fuerza vital, como tus precursores psicopompos. Obtienes sentido de vida como un sentido impreciso con un alcance de 10 pies. Esto te permite percibir la fuerza vital de criaturas vivas y no muertas dentro del alcance indicado. El sentido puede distinguir entre la energía de vitalidad que anima a las criaturas vivas y la energía del vacío que anima a las criaturas no muertas, del mismo modo que la vista distingue colores.
 
@@ -113,7 +113,7 @@ Tienes una capacidad limitada para percibir la fuerza vital, como tus precursore
 
 ### Calmador de espíritus · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Estás sintonizado con los sonidos y sensaciones más sutiles de los espíritus inquietos. Incluso si no estás Buscando, puedes intentar una comprobación para encontrar apariciones que normalmente requieran que estés Buscando. Aún necesitas cumplir cualquier otro requisito para encontrar la aparición. Obtienes un bonificador circunstancial +1 a las comprobaciones para desactivar apariciones.
 
@@ -121,7 +121,7 @@ Estás sintonizado con los sonidos y sensaciones más sutiles de los espíritus 
 
 ### Guardián contra la corrupción · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Tu alma está protegida contra el poder de la no‑muerte y la plaga, así como contra el de los antiguos psicopompos malvados conocidos como sahkils. Obtienes un bonificador circunstancial +1 a las tiradas de salvación contra efectos de muerte, enfermedades y todos los efectos provenientes de no muertos o sahkils. Este bonificador aumenta a +2 contra un efecto de muerte o enfermedad de un no muerto o sahkil.
 
@@ -131,7 +131,7 @@ Tu alma está protegida contra el poder de la no‑muerte y la plaga, así como 
 
 ### Magia del caminante del ocaso · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Tu conexión con los psicopompos te otorga el poder de vislumbrar el futuro cercano y proteger los cadáveres de los estragos de la no‑muerte. Puedes lanzar *augurio* y *reposo pacífico* cada uno una vez por día como conjuros innatos divinos de rango 2.
 
@@ -139,7 +139,7 @@ Tu conexión con los psicopompos te otorga el poder de vislumbrar el futuro cerc
 
 ### Golpes de quietus · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Tu conexión con el Osario te capacita para traer la muerte a todas las formas de vida y no‑vida, explotando sus debilidades. Todos tus Golpes de arma y desarmados son mágicos e infligen 1 de daño adicional de vacío a criaturas vivas y 1 de daño adicional de vitalidad a no muertos. El daño adicional aumenta a 2 si el Golpe tiene una runa de potencia +3.
 
@@ -149,7 +149,7 @@ Tu conexión con el Osario te capacita para traer la muerte a todas las formas d
 
 ### Resistir ruina · Dote 13
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Tu herencia de caminante del ocaso te permite extender protección contra la energía del vacío. Obtienes resistencia 5 al vacío y, una vez por día, puedes lanzar *falsa vitalidad* como conjuro innato divino de rango 5.
 
@@ -159,6 +159,6 @@ Tu herencia de caminante del ocaso te permite extender protección contra la ene
 
 ### Llamada del Osario · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
 Tienes una poderosa conexión con el Osario y sus cortes, lo que te otorga la capacidad de viajar hacia y desde el Osario. Puedes lanzar *teletransporte interplanar* como conjuro innato divino dos veces por semana. Esto solo puede usarse para viajar al Osario o del Osario al Universo. Debido a tu conexión única con el Osario, tu cuerpo sirve como el locus, y no requieres una llave planar.

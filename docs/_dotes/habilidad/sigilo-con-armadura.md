@@ -9,7 +9,7 @@ level: 2
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
 **Dote 2**
 

@@ -9,7 +9,7 @@ action_cost: 1
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
 <img src="{{ '/assets/images/acciones/interpretar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

@@ -15,7 +15,7 @@ Los conjuros de foco del oráculo se conocen como **conjuros de revelación**. E
 ## Ancestros
 
 ### Toque Ancestral {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Alcance:** toque; **Objetivos:** 1 criatura viviente
 **Defensa:** Voluntad
 
@@ -34,7 +34,7 @@ Tocas a una criatura y la obligas a ver y sentir a los ancestros que te rodean. 
 ---
 
 ### Defensa Ancestral {% include accion.html tipo="libre" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Desencadenante:** Estás a punto de intentar una salvación de Voluntad.
 
 Tu ancestro te protege contra quienes intentarían doblegar tu voluntad. Tirarás dos veces la salvación desencadenante y usarás el mejor resultado.
@@ -42,7 +42,7 @@ Tu ancestro te protege contra quienes intentarían doblegar tu voluntad. Tirará
 ---
 
 ### Forma Ancestral {% include accion.html tipo="2" %} FOCO 6
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Duración:** mantenido hasta 1 minuto
 
 Adoptas la forma de tus espíritus ancestrales, volviéndote invisible y cuasi corpóreo. Ganas resistencia 10 a todo el daño (excepto fuerza, espíritu y daño de Golpes con la runa de propiedad toque fantasmal), y esta resistencia se dobla contra daño no mágico o Golpes que incluyan daño de precisión. Ganas una Velocidad de vuelo igual a tu Velocidad terrestre; al volar, moverte hacia arriba no es terreno difícil para ti. No puedes moverte a través de objetos sólidos, pero puedes flotar a través de pequeños huecos. No puedes Lanzar Conjuros (pero puedes Mantener conjuros), activar objetos ni usar acciones que tengan el rasgo de ataque o manipular.
@@ -54,7 +54,7 @@ Adoptas la forma de tus espíritus ancestrales, volviéndote invisible y cuasi c
 ## Batalla
 
 ### Trance de Armas {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Duración:** mantenido hasta 1 minuto; ver texto
 
 La serenidad de la violencia llena tu mente, dándote una sensación agudizada de saber exactamente dónde deben estar tus armas. Durante la duración, tu competencia con armas marciales es igual a tu competencia con armas simples. Mantienes automáticamente este conjuro como una acción gratuita la primera vez que impactas con un Golpe de arma en cada asalto.
@@ -62,7 +62,7 @@ La serenidad de la violencia llena tu mente, dándote una sensación agudizada d
 ---
 
 ### Persistencia en el Campo de Batalla {% include accion.html tipo="libre" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Desencadenante:** Estás a punto de intentar una tirada de salvación, pero aún no has tirado.
 
 Eres difícil de disuadir en combate. Obtienes un bonificador de estado +2 a la salvación desencadenante y, si la salvación es contra un efecto de incapacitación, te trata como si fueras 2 niveles más alto.
@@ -70,7 +70,7 @@ Eres difícil de disuadir en combate. Obtienes un bonificador de estado +2 a la 
 ---
 
 ### Deleite en la Retribución {% include accion.html tipo="1" %} FOCO 6
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Duración:** 1 minuto
 
 El tiempo parece ralentizarse para ti, permitiéndote golpear a tus oponentes en pleno movimiento. Ganas la habilidad Golpe Reactivo y obtienes inmediatamente una segunda reacción que solo puedes usar para realizar Golpe Reactivo. Al comienzo de cada uno de tus turnos posteriores, cuando recuperas tus acciones, obtienes una reacción adicional que solo puede usarse para intentar un Golpe Reactivo.
@@ -84,7 +84,7 @@ Arremeter contra un enemigo indefenso te anima con la emoción del combate, otor
 ## Huesos
 
 ### Sifón de Alma {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/rasgos/vacio/" class="feat-trait">Vacío</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/apendices/rasgos/vacio/" class="feat-trait">Vacío</a></div>
 **Alcance:** 30 pies; **Objetivos:** 1 criatura viviente
 **Defensa:** Fortaleza
 
@@ -103,7 +103,7 @@ Extraes una porción del alma del objetivo para reforzar tu propia vitalidad. El
 ---
 
 ### Armadura de Huesos {% include accion.html tipo="1" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Duración:** 1 minuto
 
 Oseificas tu forma física, imitando la durabilidad del hueso. Ganas resistencia 3 al daño de frío, electricidad, fuego, perforante y cortante.
@@ -113,7 +113,7 @@ Oseificas tu forma física, imitando la durabilidad del hueso. Ganas resistencia
 ---
 
 ### Reclamar No Muerto {% include accion.html tipo="2" %} FOCO 6
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/incapacitacion/" class="feat-trait">Incapacitación</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Alcance:** 30 pies; **Objetivos:** 1 criatura no muerta
 **Defensa:** Voluntad; **Duración:** 10 minutos
 
@@ -132,7 +132,7 @@ Intentas arrebatar el control de un no muerto objetivo o lo fuerzas a reconocert
 ## Cosmos
 
 ### Rociada de Estrellas {% include accion.html tipo="2" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/luz/" class="feat-trait">Luz</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/luz/" class="feat-trait">Luz</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Área:** cono de 15 pies
 **Defensa:** Reflejos
 
@@ -151,7 +151,7 @@ Lanzas una rociada de pequeñas estrellas fugaces, causando 2d4 de daño de fueg
 ---
 
 ### Vacío Interestelar {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/frio/" class="feat-trait">Frío</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/frio/" class="feat-trait">Frío</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Alcance:** 30 pies; **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duración:** mantenido hasta 1 minuto
 
@@ -162,7 +162,7 @@ Invocas las gélidas profundidades del espacio exterior para traer un frío terr
 ---
 
 ### Puente de Luz de Luna {% include accion.html tipo="2" %} FOCO 6
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/luz/" class="feat-trait">Luz</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/luz/" class="feat-trait">Luz</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Alcance:** 30 pies
 **Duración:** 10 minutos
 
@@ -175,7 +175,7 @@ Invocas un puente de luz de luna radiante y centelleante. El tramo de 10 pies de
 ## Llamas
 
 ### Aura Incendiaria {% include accion.html tipo="2" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Área:** emanación de 10 pies
 **Duración:** 1 minuto
 
@@ -186,7 +186,7 @@ Te rodeas de un aura combustible. Cada vez que una criatura dentro de la emanaci
 ---
 
 ### Llamas Giratorias {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Alcance:** 30 pies; **Área:** hasta dos estallidos de 5 pies que no se superpongan
 **Defensa:** Reflejos básicos
 
@@ -197,7 +197,7 @@ Invocas una tormenta de llamas giratorias, envolviendo a todas las criaturas en 
 ---
 
 ### Fusilada Llameante {% include accion.html tipo="2" %} FOCO 6
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Duración:** 1 minuto
 
 Invocas una andanada interminable de llamas, una serie de explosiones que estallan a tu alrededor como soles en miniatura. Lanzas ignición como parte del lanzamiento de fusilada llameante. Durante la duración de fusilada llameante, el tiempo de lanzamiento de ignición se reduce de 2 acciones a 1.
@@ -209,7 +209,7 @@ Invocas una andanada interminable de llamas, una serie de explosiones que estall
 ## Vida
 
 ### Vínculo de Vida {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/curacion/" class="feat-trait">Curación</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 **Alcance:** 30 pies; **Objetivos:** 1 criatura que no seas tú
 **Duración:** 1 minuto
 
@@ -226,7 +226,7 @@ El conjuro termina inmediatamente si quedas inconsciente. Puedes Descartar el co
 ---
 
 ### Demorar Aflicción {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/curacion/" class="feat-trait">Curación</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 **Alcance:** 30 pies; **Objetivos:** 1 criatura
 
 Con una oleada de energía curativa, te opones a una aflicción que amenaza al objetivo y otorgas una pequeña cantidad de sanación. El objetivo recupera 3d8 Puntos de Golpe. Intentas contrarrestar cualquier aflicción de la que seas consciente que el objetivo tenga, suspendiendo sus efectos durante 1 hora con un éxito en lugar de eliminarla. El objetivo queda luego temporalmente inmune a demorar aflicción durante 1 día. No necesitas haber identificado el nombre de la aflicción específica, pero sí debes ser consciente de ella; por ejemplo, no podrías demorar un veneno ingerido durante su periodo de aparición a menos que seas consciente del veneno.
@@ -236,7 +236,7 @@ Con una oleada de energía curativa, te opones a una aflicción que amenaza al o
 ---
 
 ### Forma Vivificante {% include accion.html tipo="2" %} FOCO 6
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/curacion/" class="feat-trait">Curación</a><a href="/rasgos/luz/" class="feat-trait">Luz</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/luz/" class="feat-trait">Luz</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 **Duración:** 1 minuto
 
 Trasciendes tu forma física, convirtiéndote en un faro de energía curativa. Tu cuerpo emite luz brillante como una antorcha. Ganas resistencia 5 al daño de precisión y debilidad 5 al daño de vacío, y tus Golpes desarmados infligen 1d4 de daño de vitalidad adicional.
@@ -252,7 +252,7 @@ Puedes Descartar este conjuro.
 ## Saber
 
 ### Drenaje Cerebral {% include accion.html tipo="2" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Alcance:** 30 pies; **Objetivos:** 1 criatura
 **Defensa:** Voluntad
 
@@ -263,7 +263,7 @@ Sondeas la mente del objetivo para extraer conocimiento. Esto inflige 1d8 de da�
 ---
 
 ### Acceder a Saber {% include accion.html tipo="1" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Duración:** 1 minuto
 
 Tamizas el conocimiento divino del multiverso, buscando fragmentos relacionados con un tema particular. Elige una habilidad de Saber. Obtienes temporalmente el mismo rango de competencia en esa habilidad de Saber que tu rango de competencia para tu lanzamiento de conjuros de oráculo.
@@ -271,7 +271,7 @@ Tamizas el conocimiento divino del multiverso, buscando fragmentos relacionados 
 ---
 
 ### Secreto Pavoroso {% include accion.html tipo="2" %} FOCO 6
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 **Alcance:** 60 pies; **Objetivos:** hasta 6 criaturas
 **Defensa:** Voluntad; **Duración:** hasta el comienzo de tu próximo turno
 
@@ -290,7 +290,7 @@ Pronuncias un secreto poderoso contrario a la naturaleza fundamental de las cria
 ## Tempestad
 
 ### Toque de Tempestad {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/frio/" class="feat-trait">Frío</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/rasgos/agua/" class="feat-trait">Agua</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/frio/" class="feat-trait">Frío</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/apendices/rasgos/agua/" class="feat-trait">Agua</a></div>
 **Alcance:** toque; **Objetivos:** 1 criatura
 **Defensa:** Fortaleza
 
@@ -309,7 +309,7 @@ Tu toque convoca una masa arremolinada de agua helada que se adhiere a tu objeti
 ---
 
 ### Explosión de Trueno {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aire/" class="feat-trait">Aire</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/rasgos/sonico/" class="feat-trait">Sónico</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aire/" class="feat-trait">Aire</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/apendices/rasgos/sonico/" class="feat-trait">Sónico</a></div>
 **Alcance:** 100 pies; **Área:** estallido de 20 pies
 **Defensa:** Fortaleza
 
@@ -328,7 +328,7 @@ Creas una potente ráfaga de aire y un fuerte trueno, infligiendo 2d6 de daño c
 ---
 
 ### Forma de Tempestad {% include accion.html tipo="2" %} FOCO 6
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/apendices/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
 **Duración:** mantenido hasta 1 minuto
 
 Tu cuerpo se vuelve fluido. Elige si te conviertes en aire, agua o niebla. El conjuro obtiene el rasgo aire si eliges aire o niebla, y el rasgo agua si eliges agua o niebla. Te vuelves amorfo, al igual que tu armadura. Pierdes cualquier bonificador por objeto a la CA y usas tu bonificador de competencia por defensa sin armadura para determinar tu CA. También ganas resistencia 10 al daño físico y te vuelves inmune al daño de precisión. Puedes deslizarte por pequeñas grietas y no necesitas respirar. No puedes lanzar conjuros, activar objetos ni usar acciones que tengan el rasgo de ataque o manipular, excepto las otorgadas por este conjuro. También ganas los siguientes efectos según tu forma.

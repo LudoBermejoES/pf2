@@ -9,7 +9,7 @@ action_cost: 1
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/secreto/" class="feat-trait">Secreto</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
 <img src="{{ '/assets/images/acciones/esconderse.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

@@ -19,7 +19,7 @@ Para ti, el mejor arma para empuñar es aquella que tus oponentes nunca ven veni
 
 ### Dedicación de Improvisador de armas · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado con armas marciales
 
@@ -27,7 +27,7 @@ No sufres la penalización normal –2 a las tiradas de ataque con armas improvi
 
 ### Aporreo improvisado · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Improvisador de armas
 
@@ -37,7 +37,7 @@ Si te beneficias de las *vendas de poderosos golpes*, usas el bonificador de obj
 
 ### Golpe sorpresa · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Improvisador de armas
 
@@ -45,7 +45,7 @@ Siempre que realizas un Golpe con un arma improvisada contra una criatura que no
 
 ### Crítico improvisado · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Improvisador de armas
 
@@ -53,7 +53,7 @@ Puedes aplicar efectos de especialización crítica a las armas improvisadas que
 
 ### Golpe improvisado · {% include accion.html tipo="1" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Improvisador de armas
 
@@ -61,7 +61,7 @@ Coges rápidamente lo que tengas cerca y atacas con ello como arma improvisada. 
 
 ### Golpe destrozador · {% include accion.html tipo="libre" %} · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Aporreo improvisado
 

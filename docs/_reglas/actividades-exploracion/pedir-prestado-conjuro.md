@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Concentrar, Exploración]
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
 Utilizas [Arcanos]({{ '/habilidades/arcanos/' | relative_url }}) para preparar un conjuro a partir del libro de conjuros de otro mago.
 

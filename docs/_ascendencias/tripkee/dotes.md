@@ -17,7 +17,7 @@ En 1.er nivel, obtienes una dote de ascendencia, y obtienes una dote de ascenden
 
 ### Conversador de croar · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Puedes comunicarte con las ranas más simples y criaturas similares usando croares prolongados. Puedes hacer preguntas, recibir respuestas y usar la habilidad Diplomacia con animales que sean anfibios (la mayoría de los anfibios tienen el rasgo anfibio).
 
@@ -25,7 +25,7 @@ Puedes comunicarte con las ranas más simples y criaturas similares usando croar
 
 ### Defensa del cazador · Dote 1 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Prerrequisitos:** entrenado en Naturaleza
 
@@ -39,7 +39,7 @@ Tu astuto entendimiento de criaturas naturales y primigenias te ayuda a predecir
 
 ### Caminante de la jungla · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Eres diestro esquivando raíces, follaje y otros obstáculos de la jungla. Ignoras el terreno difícil en bosques y junglas. Además, cuando usas la habilidad Acrobacias para Mantener el equilibrio sobre superficies estrechas o terreno irregular hecho de material vegetal, no estás desprevenido y, cuando obtienes un éxito en una de estas pruebas de Acrobacias, en su lugar obtienes un éxito crítico.
 
@@ -47,7 +47,7 @@ Eres diestro esquivando raíces, follaje y otros obstáculos de la jungla. Ignor
 
 ### Tripkee nocturno · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Tiendes a cazar y trabajar principalmente de noche y te has adaptado a los requisitos de la vida nocturna. Obtienes visión en la oscuridad, lo que te permite ver en la oscuridad y en luz tenue tan bien como en luz brillante. Sin embargo, en la oscuridad, solo ves en blanco y negro.
 
@@ -57,7 +57,7 @@ Tiendes a cazar y trabajar principalmente de noche y te has adaptado a los requi
 
 ### Croar aterrador · Dote 1 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Prerrequisitos:** entrenado en Intimidación
 
@@ -67,7 +67,7 @@ Emites un croar inquietante que recuerda a quienes te rodean sus miedos. Intenta
 
 ### Tradición tripkee · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Conoces bien la cultura y tácticas tripkee. Obtienes el rango de competencia entrenado en Naturaleza y Sigilo. Si fueras a volverte entrenado automáticamente en una de esas habilidades, en su lugar te vuelves entrenado en una habilidad de tu elección.
 
@@ -77,7 +77,7 @@ También obtienes la dote general Conocimientos adicionales para Conocimientos t
 
 ### Familiaridad con armas tripkee · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Obtienes acceso a todas las armas poco comunes con el rasgo tripkee. Tienes familiaridad con armas con el rasgo tripkee más cerbatana, dardo, hacha de mano, guadaña y arco corto—para fines de competencia, tratas cualquiera de estas que sean armas marciales como armas simples y cualquiera que sean armas avanzadas como armas marciales.
 
@@ -89,7 +89,7 @@ En el 5.º nivel, siempre que obtienes un golpe crítico con una de estas armas,
 
 ### Saltos fantásticos · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Tus saltos parecen desafiar la gravedad al surcar el aire de un solo brinco. Al Saltar, aumenta la distancia máxima que puedes Saltar horizontalmente en 10 pies, y la distancia máxima que puedes Saltar verticalmente en 5 pies.
 
@@ -97,7 +97,7 @@ Tus saltos parecen desafiar la gravedad al surcar el aire de un solo brinco. Al 
 
 ### Lengua larga · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Prerrequisitos:** tripkee de lengua rápida
 
@@ -107,7 +107,7 @@ Has aprendido a estirar tu lengua excepcionalmente larga más allá de sus lími
 
 ### Trepador prodigioso · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Tu capacidad y técnica natural para trepar te han convertido en un escalador potente. Obtienes una Velocidad de trepar de 10 pies.
 
@@ -117,7 +117,7 @@ Tu capacidad y técnica natural para trepar te han convertido en un escalador po
 
 ### Red tenaz · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Escapar de tus redes no es tarea sencilla. La CD de Atletismo para Forzar la apertura o Escapar de tus redes aumenta de 16 a 18. Después de que una criatura que atrapaste con una red Escape o Fuerce la apertura de la red, hebras sueltas de la red se le adhieren, haciendo que permanezca desprevenida hasta el comienzo de su siguiente turno.
 
@@ -125,7 +125,7 @@ Escapar de tus redes no es tarea sencilla. La CD de Atletismo para Forzar la ape
 
 ### Planeo tripkee · Dote 5 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Prerrequisitos:** tripkee de velo aéreo
 
@@ -137,7 +137,7 @@ Puedes usar tus pies palmeados para guiar tu caída. Planeas lentamente hacia el
 
 ### Estómago vomitado · Dote 5 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Desencadenante:** Obtienes la condición indispuesto o fallas una tirada de salvación contra un veneno ingerido.
 
@@ -151,7 +151,7 @@ En circunstancias extremas puedes vomitar tu estómago para expulsar toxinas. Re
 
 ### Absorber toxina · Dote 9 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Prerrequisitos:** No eres inmune a enfermedades ni venenos
 
@@ -163,7 +163,7 @@ Tu piel absorbe fácilmente el veneno y puede atraer conscientemente toxinas a t
 
 ### Baño de humedad · Dote 9 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Frecuencia:** una vez al día
 
@@ -173,7 +173,7 @@ Tu piel húmeda es especialmente resistente al daño de efectos que alteran la t
 
 ### Salto de carambola · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Prerrequisitos:** Salto en pared
 
@@ -183,7 +183,7 @@ Usas rápidamente tu impulso para derribar y saltar desde los enemigos. Puedes u
 
 ### Amarre con lengua · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Prerrequisitos:** tripkee de lengua rápida
 
@@ -195,7 +195,7 @@ Tu lengua puede engancharse momentáneamente tan fácilmente como tus manos. Mie
 
 ### Filo envenenado · Dote 13
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Con una combinación de tus glándulas de veneno y preparados herbales, puedes infligir de forma constante ataques ponzoñosos cuando golpeas los puntos débiles de un enemigo. Cuando asestas un golpe crítico usando un Golpe con un arma o ataque desarmado y causas daño cortante o perforante con ese Golpe, infliges 1d4 de daño de veneno persistente adicional a tu objetivo.
 
@@ -203,7 +203,7 @@ Con una combinación de tus glándulas de veneno y preparados herbales, puedes i
 
 ### Incorporarse · Dote 13 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 **Desencadenante:** Pierdes la condición inconsciente.
 
@@ -215,7 +215,7 @@ Tu agilidad de rana despierta en cuanto tú lo haces. Te Pones en pie. Este movi
 
 ### Saltador sin ataduras · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
 Tu destreza para saltar no tiene igual. Puedes Saltar hasta 30 pies en cualquier dirección sin tocar el suelo y sin requerir una prueba de Atletismo; al hacerlo, debes aterrizar en un espacio de suelo sólido dentro de 30 pies de ti, o de lo contrario caerás tras usar tu siguiente acción. Puedes exceder tu Velocidad normal mientras Saltas.
 

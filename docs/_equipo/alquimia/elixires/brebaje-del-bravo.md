@@ -9,7 +9,7 @@ source: PC2
 item_level: "2, 8, 14"
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/elixir/" class="feat-trait">Elixir</a><a href="/rasgos/mental/" class="feat-trait">Mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/apendices/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/apendices/rasgos/elixir/" class="feat-trait">Elixir</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
 **Uso:** sostenido en 1 mano; **Impedimenta** L
 

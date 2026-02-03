@@ -10,7 +10,7 @@ source: PC2
 
 ## Círculo de teletransportación [RITUAL 7]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/teletransportacion/" class="feat-trait">Teletransportación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/teletransportacion/" class="feat-trait">Teletransportación</a></div>
 
 **Lanzamiento:** 1 día; **Coste:** incienso raro, metales preciosos y tiza purificada por valor de 500 mo; **Lanzadores secundarios:** 2
 

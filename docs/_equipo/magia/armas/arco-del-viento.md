@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 11; **Precio** 1.350 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/rasgos/aire/" class="feat-trait">Aire</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/apendices/rasgos/aire/" class="feat-trait">Aire</a></div>
 
 **Tipo base:** Arco largo
 

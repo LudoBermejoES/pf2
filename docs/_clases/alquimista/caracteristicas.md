@@ -67,11 +67,11 @@ Durante tus preparativos diarios, puedes crear un número de viales versátiles 
 | Mayor | 12 | 3d6 ácido | +2 |
 | Superior | 18 | 4d6 ácido | +3 |
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/acido/" class="feat-trait">Ácido</a><a href="/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/rasgos/bomba/" class="feat-trait">Bomba</a><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/infundido/" class="feat-trait">Infundido</a><a href="/rasgos/salpicadura/" class="feat-trait">Salpicadura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/acido/" class="feat-trait">Ácido</a><a href="/apendices/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/apendices/rasgos/bomba/" class="feat-trait">Bomba</a><a href="/apendices/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/apendices/rasgos/infundido/" class="feat-trait">Infundido</a><a href="/apendices/rasgos/salpicadura/" class="feat-trait">Salpicadura</a></div>
 
 ### Alquimia rápida · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/alquimista/" class="feat-trait">Alquimista</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
 **Requisitos:** Portas o llevas puesto un kit de alquimista y tienes una mano libre.
 

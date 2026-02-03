@@ -15,7 +15,7 @@ Los conjuros de foco del monje se conocen como **conjuros de qi**. Estos poderos
 ## Conjuros de Qi
 
 ### Agitación Interna {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/monje/" class="feat-trait">Monje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
 Canalizas tu qi en ataques mágicos devastadores. Realiza un Golpe desarmado o Ráfaga de Golpes (esto no cambia el límite de usar solo una floritura por turno). Obtienes un bonificador de estado +1 a tus tiradas de ataque con los Golpes, y los Golpes infligen 1d6 de daño adicional. Este daño puede ser de cualquiera de los siguientes tipos a tu elección, elegido cada vez que realizas un Golpe: fuerza, espíritu, vitalidad o vacío.
 
@@ -24,7 +24,7 @@ Canalizas tu qi en ataques mágicos devastadores. Realiza un Golpe desarmado o R
 ---
 
 ### Ímpetu de Qi {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/monje/" class="feat-trait">Monje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
 Acelerado por tu qi, te mueves con tal velocidad que te vuelves un borrón. Muévete dos veces: dos Avances, dos Pasos, o un Avance y un Paso (en cualquier orden). Obtienes la condición de oculto durante este movimiento y hasta el comienzo de tu siguiente turno.
 
@@ -33,7 +33,7 @@ Acelerado por tu qi, te mueves con tal velocidad que te vuelves un borrón. Mué
 ## Conjuros de Qi Avanzados
 
 ### Explosión de Qi {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/fuerza/" class="feat-trait">Fuerza</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/monje/" class="feat-trait">Monje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/fuerza/" class="feat-trait">Fuerza</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 **Área:** cono de 15 pies o más
 **Defensa:** Fortaleza
 
@@ -52,7 +52,7 @@ Liberas tu qi como una poderosa explosión que inflige 2d6 de daño de fuerza. S
 ---
 
 ### Acortar la Distancia {% include accion.html tipo="1" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/monje/" class="feat-trait">Monje</a><a href="/rasgos/teletransportacion/" class="feat-trait">Teletransportación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/teletransportacion/" class="feat-trait">Teletransportación</a></div>
 **Alcance:** ver texto
 
 El mundo parece encogerse ante tus pisadas. Te teletransportas hasta una distancia igual a tu Velocidad dentro de tu línea de visión.
@@ -62,7 +62,7 @@ El mundo parece encogerse ante tus pisadas. Te teletransportas hasta una distanc
 ## Conjuros de Qi de Maestro
 
 ### Ira de la Medusa {% include accion.html tipo="2" %} FOCO 8
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/monje/" class="feat-trait">Monje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
 Realizas un ataque imbuido del poder petrificador de una medusa. Haz un Golpe desarmado con los siguientes efectos adicionales.
 
@@ -73,7 +73,7 @@ Realizas un ataque imbuido del poder petrificador de una medusa. Haz un Golpe de
 ---
 
 ### Toque de Muerte {% include accion.html tipo="2" %} FOCO 8
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/incapacitacion/" class="feat-trait">Incapacitación</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/monje/" class="feat-trait">Monje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 **Defensa:** Fortaleza; **Duración:** 1 mes
 
 Realiza un Golpe desarmado cuerpo a cuerpo. Si impactas y el objetivo está vivo, en cualquier momento durante la duración puedes gastar una sola acción, que tiene los rasgos auditivo y concentración, para pronunciar una palabra de muerte que podría matarlo al instante. El objetivo debe intentar una salvación de Fortaleza.
@@ -95,7 +95,7 @@ Si lanzas toque de muerte de nuevo, los efectos de cualquier toque de muerte que
 ## Conjuros de Qi de Gran Maestro
 
 ### Abrazar la Nada {% include accion.html tipo="2" %} FOCO 9
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/monje/" class="feat-trait">Monje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 **Duración:** 1 minuto
 
 Vacías tu cuerpo de sustancia, volviéndote uno con la nada. Ganas resistencia al daño físico igual a tu nivel. Te mueves a la mitad de tu Velocidad normal, pero puedes moverte en cualquier dirección (incluyendo arriba y abajo). Mientras te mueves, estás oculto. Cuando no es tu turno y durante tu turno hasta que realizas una acción con el rasgo de movimiento, eres invisible. Puedes atravesar objetos sólidos inanimados siempre que no tengan más de 2 pies de grosor.
@@ -103,7 +103,7 @@ Vacías tu cuerpo de sustancia, volviéndote uno con la nada. Ganas resistencia 
 ---
 
 ### Forma de Qi {% include accion.html tipo="1" %} FOCO 9
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/monje/" class="feat-trait">Monje</a><a href="/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
 **Duración:** 1 minuto
 
 Extrayendo de profundos pozos de poder espiritual, adoptas una forma especial de qi. En tu forma de qi, tu cabello, plumas, piel o escamas cambian de color y empiezan a brillar. En esta forma, ganas una Velocidad de vuelo igual a tu Velocidad terrestre. Elige daño de fuerza, espíritu, vitalidad o vacío. Todos tus Golpes infligen 1d6 de daño adicional del tipo elegido. Todo tu cuerpo también está rodeado por una corona brillante del mismo color que tu qi interior; esto es un efecto de luz. Tu corona es un aura en una emanación de 5 pies que inflige 2d6 de daño del tipo elegido a las criaturas que comienzan su turno dentro de la emanación. Si la emanación se superpone con un efecto de oscuridad, el brillo de la corona intenta contrarrestar la oscuridad. Independientemente del resultado, la corona no puede intentar contrarrestar ese efecto de nuevo durante 1 día. Puedes Mantener para expandir tu corona hasta convertirse en una emanación de 30 pies o devolver la corona a una emanación de 5 pies.
@@ -115,7 +115,7 @@ En tu forma de qi, tus emociones toman protagonismo y es difícil moderar tus at
 ## Posturas de Qi y Habilidades de Postura de Qi
 
 ### Postura de Sombras Adherentes {% include accion.html tipo="1" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/monje/" class="feat-trait">Monje</a><a href="/rasgos/sombra/" class="feat-trait">Sombra</a><a href="/rasgos/postura/" class="feat-trait">Postura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/sombra/" class="feat-trait">Sombra</a><a href="/apendices/rasgos/postura/" class="feat-trait">Postura</a></div>
 **Duración:** hasta que abandones la postura
 
 Adoptas la postura de sombras adherentes. Puedes realizar Golpes de garra de sombra. Estos infligen 1d4 de daño de vacío; están en el grupo de pugilato; y tienen los rasgos ágil, agarrar, alcance y desarmado. Mientras estés en la postura de sombras adherentes, obtienes un bonificador circunstancial +2 a las pruebas de Atletismo para Agarrar, y a la CD para que las criaturas Escapen de ti.
@@ -123,7 +123,7 @@ Adoptas la postura de sombras adherentes. Puedes realizar Golpes de garra de som
 ---
 
 ### Postura de Vientos Salvajes {% include accion.html tipo="1" %} FOCO 4
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aire/" class="feat-trait">Aire</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/monje/" class="feat-trait">Monje</a><a href="/rasgos/postura/" class="feat-trait">Postura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aire/" class="feat-trait">Aire</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/postura/" class="feat-trait">Postura</a></div>
 **Duración:** hasta que abandones la postura
 
 Adoptas la postura de los vientos fluidos, enviando ondas de energía a distancia. Puedes realizar Golpes desarmados de choque de viento como Golpes a distancia contra objetivos a 30 pies. Estos infligen 1d6 de daño contundente; están en el grupo de pugilato; y tienen los rasgos ágil, no letal, propulsivo y desarmado. Los Golpes de choque de viento ignoran la ocultación y toda cobertura.
@@ -133,7 +133,7 @@ Mientras estés en la postura de vientos salvajes, obtienes un bonificador circu
 ---
 
 ### Red de la Sombra {% include accion.html tipo="2" %} FOCO 7
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/monje/" class="feat-trait">Monje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 **Requisitos:** Estás en la postura de sombras adherentes.
 **Área:** emanación de 30 pies
 **Defensa:** Fortaleza
@@ -155,7 +155,7 @@ Oscuridad aferradora surge de ti, infligiendo 14d4 de daño de vacío. Cada cria
 ## Otros Conjuros de Qi
 
 ### Armonizarse {% include accion.html tipo="1" %} FOCO 2
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/curacion/" class="feat-trait">Curación</a><a href="/rasgos/monje/" class="feat-trait">Monje</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
 Te curas de una de las siguientes maneras, elegida por ti al lanzar el conjuro.
 
@@ -167,7 +167,7 @@ Te curas de una de las siguientes maneras, elegida por ti al lanzar el conjuro.
 ---
 
 ### Salto de Viento {% include accion.html tipo="1" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aire/" class="feat-trait">Aire</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/monje/" class="feat-trait">Monje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aire/" class="feat-trait">Aire</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 **Duración:** 1 minuto
 
 Ganas una Velocidad de vuelo igual a tu Velocidad. Debes terminar tu turno sobre terreno sólido, o caes.

@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 6; **Precio** 225 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/rasgos/luz/" class="feat-trait">Luz</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/evocacion/" class="feat-trait">Evocación</a><a href="/apendices/rasgos/luz/" class="feat-trait">Luz</a></div>
 
 **Uso:** sostenida en 1 mano; **Impedimenta** L
 

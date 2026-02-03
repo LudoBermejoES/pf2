@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Exploración]
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
 Mueves a la mitad de tu velocidad de viaje con el escudo alzado, listo para el combate.
 

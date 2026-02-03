@@ -15,7 +15,7 @@ El rugido de la multitud y la emoción del combate competitivo te impulsan a ser
 
 ### Dedicación de Gladiador · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** Interpretación impresionante
 
@@ -25,7 +25,7 @@ Al comienzo de un encuentro de combate, si tienes espectadores, obtienes una can
 
 ### Movimientos elegantes · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Gladiador, experto en Interpretación
 
@@ -33,7 +33,7 @@ Presumes tu estilo de lucha para desanimar a tus enemigos. Puedes usar Interpret
 
 ### Complacer a la multitud · {% include accion.html tipo="libre" %} · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
 **Prerrequisitos:** Dedicación de Gladiador
 
@@ -46,7 +46,7 @@ Te luces ante el público. Intenta una prueba de Interpretación; la CD la deter
 
 ### Lucha escénica · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Gladiador
 
@@ -54,7 +54,7 @@ Contienes los golpes para dar un mejor espectáculo. No recibes la penalización
 
 ### Entrenamiento de armas vistosas · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Gladiador
 
@@ -64,7 +64,7 @@ Siempre que obtienes un impacto crítico con una de estas armas, obtienes su efe
 
 ### Cantar el golpe · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Complacer a la multitud
 

@@ -8,7 +8,7 @@ level: 19
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/revelacion/" class="feat-trait">REVELACIÓN</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/revelacion/" class="feat-trait">REVELACIÓN</a></div>
 
 **Dote 19**
 

@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 16; **Precio** 1.500 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/trampa/" class="feat-trait">Trampa</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/trampa/" class="feat-trait">Trampa</a></div>
 
 ---
 

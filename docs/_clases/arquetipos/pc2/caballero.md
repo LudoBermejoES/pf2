@@ -15,7 +15,7 @@ Eres un guerrero hábil y dedicado en el campo de batalla, especializado en luch
 
 ### Dedicación de Caballero · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Naturaleza o Sociedad
 
@@ -25,7 +25,7 @@ Obtienes un compañero animal joven que sirve como tu montura. Puedes elegir ent
 
 ### Estandarte del caballero · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/aura/" class="feat-trait">Aura</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/visual/" class="feat-trait">Visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/aura/" class="feat-trait">Aura</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero
 
@@ -35,7 +35,7 @@ Enarbolas el estandarte de tu juramento desde tu montura, elevando el ánimo de 
 
 ### Carga del caballero · {% include accion.html tipo="2" %} · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/floritura/" class="feat-trait">Floritura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero
 
@@ -45,7 +45,7 @@ Ordenas a un animal para que tu montura Avance dos veces. En cualquier momento d
 
 ### Montura impresionante · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero
 
@@ -55,7 +55,7 @@ Tu montura tiene mayor independencia. Durante un encuentro, incluso si no usas l
 
 ### Montar rápido · {% include accion.html tipo="1" %} · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero, experto en Naturaleza
 
@@ -65,7 +65,7 @@ Tú y tu montura podéis entrar en acción en un instante. Montas a la criatura 
 
 ### Defender montura · {% include accion.html tipo="libre" %} · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero
 
@@ -75,7 +75,7 @@ Te interpones entre un atacante y tu montura, defendiéndola del daño. Usa tu p
 
 ### Escudo montado · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero
 
@@ -83,7 +83,7 @@ Has entrenado con tu escudo para defenderte tanto a ti como a tu montura. Cuando
 
 ### Montura increíble · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Montura impresionante
 
@@ -91,7 +91,7 @@ Bajo tu cuidado y entrenamiento, tu montura ha realizado su potencial innato. La
 
 ### Carga arrolladora · {% include accion.html tipo="3" %} · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/floritura/" class="feat-trait">Floritura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero
 
@@ -101,7 +101,7 @@ Espoleas a tu montura para cargar en la refriega, arrollando a todos los enemigo
 
 ### Descabalgar · {% include accion.html tipo="1" %} · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero
 
@@ -111,7 +111,7 @@ Con un poderoso golpe desde lo alto de tu compañero, intentas derribar a un opo
 
 ### Montura especializada · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Montura increíble
 
@@ -121,7 +121,7 @@ Has entrenado a tu montura para actuar en circunstancias inusuales o incluso ext
 
 ### Jinete legendario · Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Caballero
 

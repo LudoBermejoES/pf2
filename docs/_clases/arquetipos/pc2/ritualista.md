@@ -15,7 +15,7 @@ Si bien algunos aprenden el arte de lanzar rituales mediante estudio riguroso, o
 
 ### Dedicación de Ritualista · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** experto en Arcanos, Naturaleza, Ocultismo o Religión
 
@@ -25,7 +25,7 @@ En el 8.º nivel y cada 4 niveles en adelante, aprendes dos rituales más con la
 
 ### Ritualista flexible · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Ritualista
 
@@ -33,7 +33,7 @@ Puedes realizar dos aspectos de un ritual tú mismo. Cuando lanzas un ritual, pu
 
 ### Ritualista ingenioso · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Ritualista
 
@@ -41,7 +41,7 @@ Puedes lanzar rituales difíciles que de otro modo estarían justo más allá de
 
 ### Rituales eficientes · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Ritualista
 
@@ -51,7 +51,7 @@ En el 14.º nivel, si un ritual tiene un tiempo de lanzamiento medido en días, 
 
 ### Ritualista seguro · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
 **Prerrequisitos:** Ritualista flexible
 
@@ -59,7 +59,7 @@ Puedes cubrir el error de un lanzador secundario. Si eres el lanzador principal,
 
 ### Ritualista emprendedor · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Ritualista
 

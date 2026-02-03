@@ -8,7 +8,7 @@ source: PC1
 rasgos: [Tiempo Libre]
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/tiempo-libre/" class="feat-trait">Tiempo Libre</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tiempo-libre/" class="feat-trait">Tiempo Libre</a></div>
 
 Puedes invertir un día y una noche enteros descansando durante el tiempo libre para recuperarte más rápido de lo normal.
 

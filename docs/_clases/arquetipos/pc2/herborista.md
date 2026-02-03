@@ -15,7 +15,7 @@ Las plantas a tu alrededor pueden proporcionar más remedios que el mejor hospit
 
 ### Dedicación de Herborista · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Naturaleza, Medicina natural
 
@@ -25,7 +25,7 @@ Pasas a ser experto en Naturaleza y puedes usar Naturaleza en lugar de Artesaní
 
 ### Ingredientes frescos · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Herborista
 
@@ -33,7 +33,7 @@ Es increíble la diferencia que pueden marcar las hierbas frescas. Al usar Medic
 
 ### Preparación de cataplasma · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Herborista
 
@@ -41,7 +41,7 @@ Cuando creas un elixir como producto herbal, puedes prepararlo como una cataplas
 
 ### Herboristería avanzada · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Herborista, experto en Naturaleza
 
@@ -51,7 +51,7 @@ Tus talentos de herborista siguen creciendo con el uso y te has vuelto capaz de 
 
 ### Hierbas endémicas · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Herborista, entrenado en Supervivencia
 

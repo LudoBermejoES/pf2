@@ -11,7 +11,7 @@ source: PC1
 **Dote 1** · General
 
 <div class="feat-traits-header">
-<a href="/rasgos/general/" class="feat-trait">General</a>
+<a href="/apendices/rasgos/general/" class="feat-trait">General</a>
 </div>
 
 Obtienes el rango entrenado en todas las armas marciales. Si ya estabas entrenado en todas las armas marciales, obtienes el rango entrenado en una arma avanzada a tu elección. Si eres por lo menos de 11.º nivel, obtienes también el rango experto en dichas armas.

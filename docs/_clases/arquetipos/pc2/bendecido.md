@@ -17,13 +17,13 @@ Por suerte o por hechos, por herencia o por heroicidad, llevas la bendición de 
 
 ### Dedicación de Bendecido · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 Has sido tocado por una deidad y dotado de la capacidad de aliviar el sufrimiento de otros. Obtienes el conjuro de devoción *imposición de manos*. Puedes Reenfocarte mediante meditación, ya sea reflexionando sobre la deidad que otorga la bendición o no, permitiendo que tu bendición reponga tu reserva de enfoque. Tus conjuros de devoción del arquetipo bendecido son conjuros divinos. Pasas a estar entrenado en el modificador de ataque de conjuros y la CD de conjuros. Tu atributo de lanzamiento de conjuros es Carisma.
 
 ### Sacrificio bendito · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Bendecido
 
@@ -31,7 +31,7 @@ Obtienes el conjuro de dominio *sacrificio del protector* como conjuro de devoci
 
 ### Conjuro bendito · {% include accion.html tipo="1" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
 **Prerrequisitos:** Dedicación de Bendecido, capacidad de lanzar conjuros desde espacios, Misericordia
 
@@ -41,7 +41,7 @@ Cuando enfocas tu magia en un aliado, puedes eliminar condiciones perjudiciales.
 
 ### Negación bendita · {% include accion.html tipo="libre" %} · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Bendecido
 

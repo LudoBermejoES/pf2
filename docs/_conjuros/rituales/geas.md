@@ -10,7 +10,7 @@ source: PC1
 
 ## Geas [RITUAL 3]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/maldicion/" class="feat-trait">maldición</a><a href="/rasgos/mental/" class="feat-trait">mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">maldición</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a></div>
 
 **Lanzamiento:** 1 dia
 

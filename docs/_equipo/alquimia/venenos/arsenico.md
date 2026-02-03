@@ -7,7 +7,7 @@ category: equipo
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/rasgos/ingerido/" class="feat-trait">Ingerido</a><a href="/rasgos/veneno/" class="feat-trait">Veneno</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimico/" class="feat-trait">Alquímico</a><a href="/apendices/rasgos/consumible/" class="feat-trait">Consumible</a><a href="/apendices/rasgos/ingerido/" class="feat-trait">Ingerido</a><a href="/apendices/rasgos/veneno/" class="feat-trait">Veneno</a></div>
 
 **Nivel** 1; **Precio** 3 mo
 

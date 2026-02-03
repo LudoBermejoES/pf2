@@ -17,7 +17,7 @@ A nivel 1, obtienes una dote de ascendencia, y obtienes una dote de ascendencia 
 
 ### Siesta felina · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
 **Frecuencia:** una vez por hora
 
@@ -27,7 +27,7 @@ Puedes recuperar tu energía rápidamente con una breve siesta. Duermes durante 
 
 ### Suerte felina · Dote 1 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -39,7 +39,7 @@ Te apartas instintivamente del peligro. Vuelve a tirar la salvación detonante y
 
 ### Danza catfolk · Dote 1 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Tienes la costumbre de estar siempre en medio cuando otras criaturas intentan moverse. Intenta una prueba de Acrobacias contra la CD de Reflejos de una criatura adyacente.
 
@@ -51,7 +51,7 @@ Tienes la costumbre de estar siempre en medio cuando otras criaturas intentan mo
 
 ### Saber catfolk · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Criarte entre catfolk te ha enseñado los valores tradicionales de libertad, custodia y reacción rápida ante problemas. Obtienes competencia entrenada en Acrobacias y Supervivencia. Si fueras a volverte entrenado automáticamente en una de esas habilidades (por tu bagaje o clase, por ejemplo), en su lugar te vuelves entrenado en una habilidad a tu elección.
 
@@ -61,7 +61,7 @@ También obtienes la dote general Saber adicional para Saber catfolk.
 
 ### Familiaridad con armas catfolk · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Obtienes acceso a todas las armas poco comunes con el rasgo catfolk. Tienes familiaridad con las armas con el rasgo catfolk además de la kama, kukri, cimitarra y hoz—para efectos de competencia, tratas cualquiera de estas que sean armas marciales como armas simples y cualquiera que sean armas avanzadas como armas marciales.
 
@@ -71,7 +71,7 @@ A nivel 5, siempre que obtienes un golpe crítico con una de estas armas, obtien
 
 ### Colmillos de sable · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Tienes colmillos largos, naturales o aumentados. Obtienes un ataque desarmado de mandíbulas que inflige 1d6 de daño perforante. Tus mandíbulas pertenecen al grupo de pelea y tienen el rasgo desarmado.
 
@@ -79,7 +79,7 @@ Tienes colmillos largos, naturales o aumentados. Obtienes un ataque desarmado de
 
 ### Viajero afable · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Adoptas de forma natural un talante agradable y afable al conocer a otros. Estás entrenado en Diplomacia. Si fueras a volverte entrenado automáticamente en Diplomacia (por tu bagaje o clase, por ejemplo), en su lugar te vuelves entrenado en una habilidad a tu elección.
 
@@ -91,7 +91,7 @@ Además, obtienes la dote de habilidad Conocedor.
 
 ### Garras trepadoras · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Puedes extender tus garras para ayudarte a trepar. Obtienes una Velocidad de trepar de 10 pies.
 
@@ -99,7 +99,7 @@ Puedes extender tus garras para ayudarte a trepar. Obtienes una Velocidad de tre
 
 ### Guía elegante · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Puedes mostrar cómo girar rápidamente fuera del alcance de efectos peligrosos. Puedes usar la reacción Ayudar para otorgar un bono a la tirada de Reflejos de un aliado. Como es habitual con Ayudar, necesitas prepararte usando una acción en tu turno para animar al aliado.
 
@@ -107,7 +107,7 @@ Puedes mostrar cómo girar rápidamente fuera del alcance de efectos peligrosos.
 
 ### Patas ligeras · Dote 5 · {% include accion.html tipo="2" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Puedes equilibrarte sobre tus puntas para pisar con cuidado sobre obstrucciones. Avanzas y luego Das un paso, o Das un paso y luego Avanzas, ignorando el terreno difícil durante este movimiento.
 
@@ -115,7 +115,7 @@ Puedes equilibrarte sobre tus puntas para pisar con cuidado sobre obstrucciones.
 
 ### Golpe de suerte · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 **Requisitos:** Suerte felina
 
@@ -125,7 +125,7 @@ Eres aún más afortunado que la mayoría de los catfolk. Puedes activar Suerte 
 
 ### Cazador de manada · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Evitas la atención de criaturas centradas en tus aliados. Puedes usar cobertura menor de tus aliados para Ocultarte.
 
@@ -133,7 +133,7 @@ Evitas la atención de criaturas centradas en tus aliados. Puedes usar cobertura
 
 ### Saltador impulsivo · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 **Requisitos:** experto en Atletismo
 
@@ -143,7 +143,7 @@ Tus poderosas piernas te permiten dar saltos súbitos y dramáticos. Puedes Salt
 
 ### Bien acicalado · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Eres meticuloso con mantenerte limpio. Obtienes un bonificador circunstancial +2 a las tiradas de salvación contra enfermedades. Si tiras un éxito en una salvación contra una enfermedad, obtienes un éxito crítico en su lugar. Si tienes una habilidad distinta que mejoraría la salvación de este modo (como la característica de clase luchador endurecido por la batalla), si obtienes un fallo crítico en la salvación, obtienes un fallo en su lugar.
 
@@ -153,7 +153,7 @@ Eres meticuloso con mantenerte limpio. Obtienes un bonificador circunstancial +2
 
 ### Arañazo agravante · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/rasgos/enfermedad/" class="feat-trait">Enfermedad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/enfermedad/" class="feat-trait">Enfermedad</a></div>
 
 **Requisitos:** ataque desarmado de garra
 
@@ -163,7 +163,7 @@ Tus garras portan un irritante inofensivo para ti pero dañino para otros. Tus G
 
 ### Evadir perdición · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Puedes eludir el desastre sobrenatural. Cuando fueras a ganar la condición condenado, puedes intentar una prueba plana CD 17. Con un éxito, no ganas la condición condenado.
 
@@ -171,7 +171,7 @@ Puedes eludir el desastre sobrenatural. Cuando fueras a ganar la condición cond
 
 ### Suerte de la camada · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 **Requisitos:** Suerte felina
 
@@ -181,7 +181,7 @@ Cuando usas Suerte felina para repetir tirada, cualquier criatura que elijas a 1
 
 ### Gruñido depredador · Dote 9 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 **Requisitos:** experto en Intimidación
 
@@ -193,7 +193,7 @@ Das un gruñido profundo para intentar Desmoralizar a una criatura que acabas de
 
 ### Paso silencioso · Dote 9 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/rasgos/floritura/" class="feat-trait">Floritura</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
 Das un paso, luego te Ocultas o te Escabulles. Aún necesitas cumplir los requisitos para Ocultarte o Escabullirte, como es normal.
 
@@ -201,7 +201,7 @@ Das un paso, luego te Ocultas o te Escabulles. Aún necesitas cumplir los requis
 
 ### Escurridizo precavido · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 Puedes realizar la actividad de exploración Explorar al mismo tiempo que la actividad de exploración Evitar ser notado.
 
@@ -211,7 +211,7 @@ Puedes realizar la actividad de exploración Explorar al mismo tiempo que la act
 
 ### Maldición del gato negro · Dote 13 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/rasgos/desgracia/" class="feat-trait">Desgracia</a><a href="/rasgos/ocultista/" class="feat-trait">Ocultista</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/desgracia/" class="feat-trait">Desgracia</a><a href="/apendices/rasgos/ocultista/" class="feat-trait">Ocultista</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -223,7 +223,7 @@ Siseas una maldición rencorosa. El objetivo repite la tirada de salvación deto
 
 ### Aullido felino · Dote 13 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/mental/" class="feat-trait">Mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
 **Frecuencia:** una vez por día
 
@@ -237,7 +237,7 @@ Das un aullido audaz, llamando a tu compañero de vuelta del borde de la inconsc
 
 ### Eludir problemas · Dote 17 · {% include accion.html tipo="libre" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 **Disparador:** Una criatura te falla con un ataque cuerpo a cuerpo.
 
@@ -247,7 +247,7 @@ Avanza hasta tu Velocidad. Este movimiento no provoca reacciones de la criatura 
 
 ### Suerte fiable · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 **Requisitos:** Suerte felina
 
@@ -257,7 +257,7 @@ Sobrevives al peligro con sorprendente regularidad. Puedes usar Suerte felina un
 
 ### Diez vidas · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
 **Requisitos:** Evadir perdición
 

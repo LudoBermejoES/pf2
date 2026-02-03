@@ -17,7 +17,7 @@ Atraes la lealtad de los animales y, a medida que tus poderes aumentan, puedes c
 
 ### Dedicación de Maestro de bestias · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Naturaleza
 
@@ -27,7 +27,7 @@ Algunas dotes de maestro de bestias te otorgan conjuros de enfoque. Cuando obtie
 
 ### Compañero adicional · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Maestro de bestias
 
@@ -37,7 +37,7 @@ Otro animal se une a tus viajes. Es un compañero animal joven que tiene el rasg
 
 ### Compañero de maestro de bestias, maduro · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Maestro de bestias
 
@@ -47,7 +47,7 @@ Tu compañero animal tiene mayor independencia. Durante un encuentro, incluso si
 
 ### Trance del maestro de bestias · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Maestro de bestias
 
@@ -55,7 +55,7 @@ Puedes entrar en un trance que te permite habitar brevemente el cuerpo de uno de
 
 ### Guardián veloz · {% include accion.html tipo="libre" %} · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
 **Prerrequisitos:** Dedicación de Maestro de bestias, Llamar compañero
 
@@ -65,7 +65,7 @@ Cuando aparece el peligro, envías rápidamente a tu compañero activo y llamas 
 
 ### Compañero de maestro de bestias, increíble · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Compañero de maestro de bestias, maduro
 
@@ -73,7 +73,7 @@ Tus compañeros animales maduros siguen creciendo y desarrollándose. Cada uno d
 
 ### Vínculo del maestro de bestias · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/primigenio/" class="feat-trait">Primigenio</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/primigenio/" class="feat-trait">Primigenio</a></div>
 
 **Prerrequisitos:** Dedicación de Maestro de bestias
 
@@ -81,7 +81,7 @@ Puedes comunicarte telepáticamente con tus compañeros animales dentro de 100 p
 
 ### Llamada del maestro de bestias · {% include accion.html tipo="1" %} · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/primigenio/" class="feat-trait">Primigenio</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/primigenio/" class="feat-trait">Primigenio</a></div>
 
 **Prerrequisitos:** Dedicación de Maestro de bestias, Llamar compañero
 
@@ -91,7 +91,7 @@ Llamas rápidamente a una proyección primigenia de un compañero inactivo para 
 
 ### Compañero de maestro de bestias, especializado · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Compañero de maestro de bestias, increíble
 
@@ -101,7 +101,7 @@ Tus compañeros animales ágiles y salvajes se vuelven lo bastante astutos como 
 
 ### Dirigir la manada · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Compañero de maestro de bestias, maduro; tienes múltiples compañeros animales
 
@@ -111,7 +111,7 @@ Puedes tener hasta dos compañeros animales activos a la vez. Sin embargo, cuand
 
 #### Trance del maestro de bestias · {% include accion.html tipo="3" %} · Foco 3
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
 **Alcance:** 1 milla; **Objetivos:** un compañero animal que puedas percibir
 

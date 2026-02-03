@@ -17,7 +17,7 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 
 ### Ahora Te Toca a Ti {% include accion.html tipo="reaccion" %}
 
-**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a><a href="/rasgos/visual/" class="feat-trait">Visual</a></div>
+**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 
 **Prerrequisitos:** Rango entrenado en Intimidación
 
@@ -29,7 +29,7 @@ Tras abatir a un enemigo, amenazas a otro. Haz una prueba para Desmoralizar a un
 
 ### Buscador de Trampas
 
-**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Tienes un sentido intuitivo que te alerta de los peligros y de la presencia de trampas. Obtienes un bonificados +1 por circunstancia a las pruebas de Percepción para encontrar trampas, a la CA contra los ataques de las trampas y a las salvaciones contra trampas.
 
@@ -41,7 +41,7 @@ Puedes inutilizar trampas que requieren un rango de competencia maestro en Latro
 
 ### Esquiva Agil {% include accion.html tipo="reaccion" %}
 
-**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** Una criatura te designa como objetivo de un ataque y puedes ver al atacante.
 
@@ -53,7 +53,7 @@ Haces una habil esquiva, obteniendo un bonificados +2 por circunstancia a la CA 
 
 ### Finta Excesiva
 
-**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Entrenado en Engano
 
@@ -66,7 +66,7 @@ Incitas a un enemigo a que se estire demasiado. Si haces una Finta con éxito, p
 
 ### Finta Gemela {% include accion.html tipo="2" %}
 
-**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
@@ -76,7 +76,7 @@ Utilizas un ataque con una arma para distraer a tu enemigo de un segundo ataque 
 
 ### Incriminar {% include accion.html tipo="1" %}
 
-**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Vaciar bolsillos
 
@@ -86,7 +86,7 @@ Puedes colocar un solo objeto que llevas en la mano de Impedimenta ligera o insi
 
 ### Rodar por Detras
 
-**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 1** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Pasas rodando por detrás y por debajo de tu enemigo, y tu rapido movimiento te permite tomarle desprevenido. Cuando ejecutas con éxito Pasar haciendo acrobacias, el enemigo cuyo espacio atraviesas queda desprevenido contra el siguiente ataque que llevas a cabo antes del final de tu turno.
 
@@ -96,7 +96,7 @@ Pasas rodando por detrás y por debajo de tu enemigo, y tu rapido movimiento te 
 
 ### Asalto Enganoso {% include accion.html tipo="2" %}
 
-**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango entrenado en Sigilo
 
@@ -106,7 +106,7 @@ Capitalizas la distracción proporcionada por un aliado. Te Mueves furtivamente 
 
 ### Brazo Fuerte
 
-**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Cuando das un Golpe con una arma arrojadiza, el incremento de rango de distancia de la misma se incrementa en 10 pies (3 m).
 
@@ -114,7 +114,7 @@ Cuando das un Golpe con una arma arrojadiza, el incremento de rango de distancia
 
 ### Desenvainado Rapido {% include accion.html tipo="1" %}
 
-**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Desenfundas el arma y atacas con ella en el mismo movimiento. Interactúas para desenfundar una arma y después Golpeas con ella.
 
@@ -122,7 +122,7 @@ Desenfundas el arma y atacas con ella en el mismo movimiento. Interactúas para 
 
 ### Finta Distractora
 
-**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Enredo de granuja
 
@@ -132,7 +132,7 @@ Tus Fintas distraen mucho mas de lo normal. Cuando una criatura queda despreveni
 
 ### Gambito Astuto {% include accion.html tipo="reaccion" %}
 
-**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Enredo de mente maestra
 
@@ -144,7 +144,7 @@ Tus tácticas de batalla se ven ayudadas por tus evaluaciones de la capacidad y 
 
 ### Golpe Desequilibrante
 
-**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Enredo de ladron
 
@@ -154,7 +154,7 @@ Entremezclando tus ataques, desequilibras a tus enemigos. Siempre que tu Golpe r
 
 ### Movilidad
 
-**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Te mueves sin dejar ninguna abertura. Cuando das una Zancada y mueves la mitad de tu Velocidad o menos, dicho movimiento no desencadena reacciones. Puedes utilizar Movilidad cuando Trepas, Vuelas o Nadas en lugar de dar Zancadas si dispones del tipo de movimiento correspondiente.
 
@@ -162,7 +162,7 @@ Te mueves sin dejar ninguna abertura. Cuando das una Zancada y mueves la mitad d
 
 ### Paliza Brutal
 
-**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 2** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Enredo de rufian
 
@@ -174,7 +174,7 @@ Tus impactos críticos quiebran la confianza de tus enemigos. Siempre que tu Gol
 
 ### Atracar {% include accion.html tipo="2" %}
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Haces un ataque rapido y robas a tu enemigo en el proceso. Da un Golpe cuerpo a cuerpo contra un enemigo adyacente. Si aciertas e infliges dano por ataque furtivo, ademas puedes tratar de Sustraer, incluso si el objetivo esta en combate.
 
@@ -182,7 +182,7 @@ Haces un ataque rapido y robas a tu enemigo en el proceso. Da un Golpe cuerpo a 
 
 ### Aviso del Batidor {% include accion.html tipo="libre" %}
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** Estas a punto de hacer una prueba de Percepción o de Supervivencia para calcular la iniciativa.
 
@@ -192,7 +192,7 @@ Previenes visual o auditivamente a tus aliados del peligro, concediendo a cada u
 
 ### Distracción Gemela
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Finta gemela
 
@@ -204,7 +204,7 @@ Tus movimientos con dos armas son tan rápidos y desorientadores que confunden a
 
 ### Envenenar Arma {% include accion.html tipo="1" %}
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Requisitos:** Estas empuñando una arma.
 
@@ -216,7 +216,7 @@ Aplicas veneno de contacto o de herida al arma requerida; si tienes una mano lib
 
 ### Mas Dura Sera la Caída
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Haces que tus enemigos caigan dolorosamente cuando les derribas. Cuando ejecutas con éxito un Derribo contra un enemigo desprevenido, tu objetivo sufre 1d6 dano contundente. Con un éxito critico, el objetivo sufre 1d6 dano contundente mas tu dano por ataque furtivo.
 
@@ -224,7 +224,7 @@ Haces que tus enemigos caigan dolorosamente cuando les derribas. Cuando ejecutas
 
 ### Pegador Temible
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Capitalizas los miedos de tu enemigo para traspasar sus defensas. Toda criatura con el estado asustada tambien esta desprevenida contra tus ataques.
 
@@ -232,7 +232,7 @@ Capitalizas los miedos de tu enemigo para traspasar sus defensas. Toda criatura 
 
 ### Persecucion Reactiva {% include accion.html tipo="reaccion" %}
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** Un enemigo adyacente se aparta de ti y puedes alcanzar por lo menos un espacio adyacente al mismo con una acción de Zancada.
 
@@ -242,7 +242,7 @@ Mantienes la distancia con un enemigo que se retira. Das una Zancada, pero tiene
 
 ### Pisoton en la Cabeza {% include accion.html tipo="1" %}
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Da un Golpe cuerpo a cuerpo sin armas contra un objetivo tumbado. Si aciertas, hasta el final del siguiente turno el objetivo queda anonadado 1 (o anonadado 2 con un impacto critico) y desprevenido.
 
@@ -250,7 +250,7 @@ Da un Golpe cuerpo a cuerpo sin armas contra un objetivo tumbado. Si aciertas, h
 
 ### !Predecible! {% include accion.html tipo="1" %}
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Observando a un oponente, puedes hacerte una idea de su proximo movimiento y prepararte para contrarrestarlo o resistirlo. Elige un objetivo y haz una prueba de Percepción para Averiguar intenciones contra la CD de Engano del objetivo o una CD difícil del nivel del enemigo, la mayor de ambas.
 
@@ -263,7 +263,7 @@ Observando a un oponente, puedes hacerte una idea de su proximo movimiento y pre
 
 ### Sabotaje {% include accion.html tipo="1" %}
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Requisitos:** Tienes una mano libre.
 
@@ -277,7 +277,7 @@ Danas sutilmente el equipo de otro. Elige un objeto que una criatura a tu alcanc
 
 ### Sorpresa del Granuja {% include accion.html tipo="1" %}
 
-**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 4** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Dejas caer tu disfraz en el momento justo y sorprendes a tu objetivo. Después de que Imitas a alguien utilizando material de disfraz, puedes quitarte el disfraz con un gesto dramatico. Toda criatura que haya sido incapaz de ver que estabas disfrazado quedara desprevenida contra el siguiente ataque que lleves a cabo antes del final de tu turno.
 
@@ -287,7 +287,7 @@ Dejas caer tu disfraz en el momento justo y sorprendes a tu objetivo. Después d
 
 ### Analizar Debilidad {% include accion.html tipo="1" %}
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Ataque furtivo 2d6
 
@@ -301,7 +301,7 @@ A 10.o nivel, el dano adicional se convierte en 3d6 y a 17.o nivel se convierte 
 
 ### Andate con Ojo {% include accion.html tipo="1" %}
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango entrenado en Intimidación
 
@@ -311,7 +311,7 @@ Amenazas al objetivo, alimentando sus temores y atrayendo su atención. Haz una 
 
 ### Anticipar Emboscada
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango experto en Sigilo
 
@@ -321,7 +321,7 @@ Te mantienes alerta ante cualquier criatura escondida o lugar peligroso, moviend
 
 ### Desarme Taimado
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Puedes Desarmar a una criatura usando la mana en lugar de la fuerza bruta. Puedes utilizar Latrocinio en lugar de Atletismo cuando tratas de Desarmar. Cuando utilizas Latrocinio para Desarmar y tienes éxito, el objetivo queda desprevenido contra el siguiente ataque que llevas a cabo antes del final de tu turno.
 
@@ -329,7 +329,7 @@ Puedes Desarmar a una criatura usando la mana en lugar de la fuerza bruta. Puede
 
 ### Echar Abajo {% include accion.html tipo="libre" %}
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango entrenado en Atletismo
 
@@ -341,7 +341,7 @@ Haces palanca con tu peso para hacer caer a los enemigos a los que mueves. Trata
 
 ### Golpe Hostigador {% include accion.html tipo="1" %}
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Tus pies y tu arma se mueven en tandem. Puedes, o bien dar un Paso y luego Golpear o bien Golpear y luego dar un Paso.
 
@@ -349,7 +349,7 @@ Tus pies y tu arma se mueven en tandem. Puedes, o bien dar un Paso y luego Golpe
 
 ### Lanzamiento Lejano
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Cuando das un Golpe con una arma arrojadiza, solo sufres un penalizador -1 por cada incremento de rango de distancia adicional entre el objetivo y tu, en lugar de un penalizador -2.
 
@@ -357,7 +357,7 @@ Cuando das un Golpe con una arma arrojadiza, solo sufres un penalizador -1 por c
 
 ### Pisada Liviana
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 No te preocupan los suelos irregulares. Cuando das una Zancada o un Paso, puedes ignorar el terreno difícil.
 
@@ -365,7 +365,7 @@ No te preocupan los suelos irregulares. Cuando das una Zancada o un Paso, puedes
 
 ### Retorcer el Cuchillo {% include accion.html tipo="1" %}
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Requisitos:** Tu ultima acción ha sido un Golpe cuerpo a cuerpo que ha infligido dano por ataque furtivo a un objetivo desprevenido.
 
@@ -375,7 +375,7 @@ Tras apunalar a tu oponente en un punto debil, ahondas en la herida. Infliges ta
 
 ### Unir Fuerzas
 
-**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 6** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Tus aliados y tu hostigáis concertadamente a un oponente. Puedes flanquear a un enemigo si esta a la vez a tu alcance y al de un aliado; el aliado y tu no tenéis que estar en lados opuestos. Esto os beneficia a ti y a tus aliados, pero tan solo si flanquean contigo y no entre si. Tambien se han de cumplir los demás requisitos de flanqueo.
 
@@ -385,7 +385,7 @@ Tus aliados y tu hostigáis concertadamente a un oponente. Puedes flanquear a un
 
 ### Compra Predictiva
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 De alguna forma consigues tener siempre el objeto adecuado para cada situación. Obtienes las dotes Planificador presciente y Consumible presciente. Cuando utilizas Planificador presciente, puedes sacar el objeto de tu mochila (o recipiente similar) como una actividad de 2 acciones en lugar de invertir 1 minuto para hacerlo.
 
@@ -393,7 +393,7 @@ De alguna forma consigues tener siempre el objeto adecuado para cada situación.
 
 ### Diana {% include accion.html tipo="1" %}
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Apuntas cuidadosamente para evitar el ocultamiento y la cobertura de tu enemigo. En tu siguiente Golpe con una arma arrojadiza antes del final de tu turno, obtienes un bonificados +1 por circunstancia a tu tirada de ataque e ignoras el estado de oculto del mismo, así como su cobertura menor o normal; si el objetivo tuviera cobertura mayor, en su lugar solo tendría cobertura normal contra el Golpe.
 
@@ -401,7 +401,7 @@ Apuntas cuidadosamente para evitar el ocultamiento y la cobertura de tu enemigo.
 
 ### Entrada Tactica {% include accion.html tipo="libre" %}
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango maestro en Sigilo.
 
@@ -413,7 +413,7 @@ Das una Zancada. Este movimiento no desencadena ninguna reacción.
 
 ### Envenenar Arma Mejorado
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Envenenar arma
 
@@ -423,7 +423,7 @@ Aplicas los venenos de una forma que maximiza sus efectos dañinos. Cuando aplic
 
 ### Estratagema Inspirada
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Durante tus preparativos diarios, puedes revisar tus estratagemas para las aventuras diarias con hasta cinco aliados. Mas tarde, puedes avisarles rapidamente de lo que vas hacer utilizando la reacción siguiente.
 
@@ -437,7 +437,7 @@ Durante tus preparativos diarios, puedes revisar tus estratagemas para las avent
 
 ### Llevarte un Recuerdo {% include accion.html tipo="2" %}
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Requisitos:** Estas apresado o neutralizado por una criatura.
 
@@ -447,7 +447,7 @@ Cuando te escabulles, liderándote de la presa de un enemigo, te llevas contigo 
 
 ### Lucha a Ciegas
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango maestro en Percepción.
 
@@ -459,7 +459,7 @@ Cuando estas adyacente a una criatura no detectada de tu nivel o inferior, en su
 
 ### Paso Lateral {% include accion.html tipo="reaccion" %}
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** La tirada de ataque de un Golpe que te tiene a ti como objetivo falla o falla criticamente.
 
@@ -469,7 +469,7 @@ Te apartas habilmente del camino de un ataque, dejando que el movimiento continu
 
 ### Pegador Astuto
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Ataque furtivo
 
@@ -479,7 +479,7 @@ Tus ataques infligen mas dano, incluso contra criaturas que no estan desprevenid
 
 ### Posición de Rebote {% include accion.html tipo="1" %}
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a><a href="/rasgos/posicion/" class="feat-trait">Posición</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posición</a></div>
 
 Adoptas una posición que hace rebotar hacia ti tus armas arrojadizas. Mientras estas en ella, cualquier arma arrojadiza que utilizas como parte de un Golpe a distancia para infligir dano contundente o cortante vuelve a tu mano de inmediato, lo que te permite utilizarla para dar Golpes adicionales. Debes estar dentro del incremento de rango de distancia indicado para el arma y tener una mano libre para recogerla. Si das un Golpe a distancia con una arma arrojadiza fuera de su incremento de rango de distancia, en su lugar vuela de vuelta hacia ti tantos pies como su incremento de rango de distancia y después cae al suelo.
 
@@ -487,7 +487,7 @@ Adoptas una posición que hace rebotar hacia ti tus armas arrojadizas. Mientras 
 
 ### Punalada Trapera Oportuna {% include accion.html tipo="reaccion" %}
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** Una criatura a tu alcance cuerpo a cuerpo sufre el impacto de un ataque cuerpo a cuerpo por parte de uno de tus aliados.
 
@@ -497,7 +497,7 @@ Cuando tu aliado acierta a tu enemigo, capitalizas la distracción subsiguiente.
 
 ### Retrasar Trampa {% include accion.html tipo="reaccion" %}
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** Una trampa a tu alcance es activada.
 
@@ -512,7 +512,7 @@ Tratas de atascar los mecanismos de una trampa para retrasar sus efectos. Haz un
 
 ### Rodar Agilmente
 
-**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 8** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Esquiva agil
 
@@ -526,7 +526,7 @@ Cuando utilizas Esquiva agil y el ataque desencadenante falla o falla criticamen
 
 ### Adepto del Movimiento Furtivo
 
-**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango maestro en Sigilo
 
@@ -536,7 +536,7 @@ Es prácticamente imposible detectarte. Cuando sufres un fallo en una acción de
 
 ### Debilitaciones Crueles
 
-**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Enredo de rufian, Golpe debilitante
 
@@ -549,7 +549,7 @@ Las debilitaciones que impartes perjudican gravemente a tus enemigos. Anade las 
 
 ### Debilitaciones Metodicas
 
-**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Enredo de mente maestra, Golpe debilitante
 
@@ -562,7 +562,7 @@ Configuras estrategicamente tus debilitaciones para disminuir o negar las ventaj
 
 ### Debilitaciones Precisas
 
-**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Enredo de ladron, Golpe debilitante
 
@@ -575,7 +575,7 @@ Atacas con gran precision. Anade las siguientes debilitaciones a la lista de la 
 
 ### Debilitaciones Tácticas
 
-**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Enredo de granuja, Golpe debilitante
 
@@ -588,7 +588,7 @@ Aprendes nuevas debilitaciones que te conceden ventajas tácticas contra tus ene
 
 ### Golpe Agil
 
-**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 10** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rodar agilmente
 
@@ -600,7 +600,7 @@ Eres lo suficientemente astuto como para encontrar una abertura en el ataque de 
 
 ### Debilitacion Critica
 
-**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Golpe debilitante
 
@@ -616,7 +616,7 @@ Tus debilitaciones son especialmente efectivas en tus ataques mas poderosos. Sie
 
 ### Debilitacion Sangrienta
 
-**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Entrenado en Medicina, Golpe debilitante
 
@@ -628,7 +628,7 @@ Tus ataques cortan arterias y venas. Anade las siguientes debilitaciones a la li
 
 ### Disparo Derribador {% include accion.html tipo="2" %}
 
-**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Tus ataques a distancia pueden derribar a un enemigo volador no preparado. Da un Golpe a distancia contra una criatura desprevenida. Si es un éxito e inflige dano, el objetivo debe hacer una salvación de Reflejos contra tu CD de clase.
 
@@ -640,7 +640,7 @@ Tus ataques a distancia pueden derribar a un enemigo volador no preparado. Da un
 
 ### Finta de Rebote
 
-**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Posición de rebote
 
@@ -650,7 +650,7 @@ Mientras estas en Posición de rebote, puedes hacer rebotar contra un enemigo un
 
 ### Interferencia Reactiva {% include accion.html tipo="reaccion" %}
 
-**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** Un enemigo adyacente empieza a utilizar una reacción.
 
@@ -660,7 +660,7 @@ Agarrando de una manga, dando un tajo con el arma o creando alguna otra obstrucc
 
 ### Preparacion {% include accion.html tipo="1" %}
 
-**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Examinas el campo de batalla, calculando las posibilidades. Obtienes una reacción adicional que puedes utilizar antes del principio de tu siguiente turno para cualquier reacción de picaro.
 
@@ -668,7 +668,7 @@ Examinas el campo de batalla, calculando las posibilidades. Obtienes una reacci�
 
 ### Saltar desde las Sombras {% include accion.html tipo="1" %}
 
-**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Saltando desde un escondrijo, atacas a tu objetivo cuando menos se lo espera. Da una Zancada hasta tu Velocidad, pero tendras que acabar tu movimiento junto a un enemigo del que estabas escondido o que no te había detectado. A continuación, das un Golpe contra dicho enemigo; permaneces escondido o no detectado de dicha criatura hasta después de dar el Golpe. Puedes utilizar Saltar desde las sombras mientras Excavas, Trepas, Vuelas o Nadas en lugar de dar una Zancada si dispones del tipo de movimiento correspondiente.
 
@@ -676,7 +676,7 @@ Saltando desde un escondrijo, atacas a tu objetivo cuando menos se lo espera. Da
 
 ### Salto Fantastico {% include accion.html tipo="2" %}
 
-**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 12** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Te lanzas contra el enemigo a traves del aire. Haz un Salto de altura o un Salto de longitud. Si haces un Salto de altura, determina la altura del mismo como si determinaras la longitud de un Salto de longitud. Al final de tu salto, puedes dar un Golpe cuerpo a cuerpo.
 
@@ -688,7 +688,7 @@ Después de tu Golpe, caes al suelo si estas en el aire. Si la distancia de tu c
 
 ### Abertura Instantanea {% include accion.html tipo="1" %}
 
-**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Distraes a tu oponente con unas pocas (pero bien elegidas) palabras o un gesto rudo. Elige un objetivo a 30 pies (9 m) o menos. Queda desprevenido contra los ataques hasta el final de tu siguiente turno. Dependiendo de la forma en la que escribas tu distracción, esta acción obtendrá, o bien el rasgo auditivo, o bien el rasgo visual.
 
@@ -696,7 +696,7 @@ Distraes a tu oponente con unas pocas (pero bien elegidas) palabras o un gesto r
 
 ### Dejar una Abertura
 
-**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Cuando pegas lo suficientemente duro, creas una abertura para que un aliado pueda sumarse a la acción. Siempre que consigues un impacto critico contra un oponente desprevenido utilizando una arma cuerpo a cuerpo e infliges dano, el objetivo desencadena una reacción de Golpe reactivo por parte de un aliado a elegir por ti que dispone de ella, como si el enemigo hubiera utilizado una acción de manipular.
 
@@ -704,7 +704,7 @@ Cuando pegas lo suficientemente duro, creas una abertura para que un aliado pued
 
 ### !Quedate en el Suelo! {% include accion.html tipo="reaccion" %}
 
-**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango maestro en Atletismo
 
@@ -716,7 +716,7 @@ Tienes formas de hacer que tus enemigos permanezcan tumbados. Haz una prueba de 
 
 ### Rodar a la Defensiva {% include accion.html tipo="libre" %}
 
-**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Frecuencia:** Una vez cada 10 minutos
 
@@ -728,7 +728,7 @@ Dejandote caer y poniendote a rodar para dispersar la fuerza del golpe, puedes e
 
 ### Sentir lo que No Ves {% include accion.html tipo="reaccion" %}
 
-**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 14** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** Fallas una prueba de Buscar.
 
@@ -740,7 +740,7 @@ Cuando buscas enemigos, te fijas incluso en los indicios mas insignificantes. In
 
 ### Distracción Perfecta {% include accion.html tipo="1" %}
 
-**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango legendario en Engano
 
@@ -750,7 +750,7 @@ Utilizas tácticas inteligentes para enganar a tus enemigos mientras te alejas f
 
 ### Eludir Rapidamente {% include accion.html tipo="reaccion" %}
 
-**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango legendario en Acrobacias
 
@@ -762,7 +762,7 @@ Haz una prueba de Acrobacias contra la CD de Reflejos del enemigo desencadenante
 
 ### Pisada Nubosa
 
-**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango legendario en Acrobacias
 
@@ -772,7 +772,7 @@ Utilizando una habilidad acrobatica fantastica, puedes caminar durante breves pe
 
 ### Pizarra en Blanco
 
-**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango legendario en Engano
 
@@ -782,7 +782,7 @@ Tus enganos confunden incluso a la magia mas poderosa que podría espiarte. Los 
 
 ### Reconstruir la Escena
 
-**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Inviertes 1 minuto examinando un lugar pequeno (como por ejemplo una sola habitación) para obtener una impresión de los sucesos que tuvieron lugar en ella el dia anterior. Esto implica moverse por el area y estudiar las huellas de pisadas, las bebidas o la sangre derramadas y así sucesivamente. Obtienes una impresión mental indistinta de los sucesos significativos que tuvieron lugar allí.
 
@@ -792,7 +792,7 @@ Esto te proporciona pistas y detalles del pasado, incluyendo los sucesos en gene
 
 ### Resquicio Cognitivo {% include accion.html tipo="reaccion" %}
 
-**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Desencadenante:** Acaba tu turno.
 
@@ -806,7 +806,7 @@ Puedes encontrar un resquicio en un efecto mental que te permite superarlo tempo
 
 ### Tajo Disipador {% include accion.html tipo="2" %}
 
-**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 16** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Tu ataque furtivo atraviesa las hebras que vinculan la magia con un objetivo. Da un Golpe contra una criatura desprevenida. Si el Golpe inflige dano por ataque furtivo, haz una prueba de contrarrestar a un solo conjuro activo sobre el objetivo, a tu elección. Tu rango de contrarrestar es igual a la mitad de tu nivel (redondeado hacia arriba) y tu bonificados a la prueba de contrarrestar es igual a tu CD de clase -10.
 
@@ -816,7 +816,7 @@ Tu ataque furtivo atraviesa las hebras que vinculan la magia con un objetivo. Da
 
 ### Compra Inverosimil
 
-**Nivel 18** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 18** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Compra predictiva
 
@@ -826,7 +826,7 @@ Puedes utilizar Planificador presciente incluso si ya lo has utilizado después 
 
 ### Infiltracion Inverosimil {% include accion.html tipo="2" %}
 
-**Nivel 18** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/magico/" class="feat-trait">Magico</a><a href="/rasgos/movimiento/" class="feat-trait">Movimiento</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 18** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/magico/" class="feat-trait">Magico</a><a href="/apendices/rasgos/movimiento/" class="feat-trait">Movimiento</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango legendario en Acrobacias, Escurrirse rapidamente
 
@@ -838,7 +838,7 @@ Encuentras minúsculas imperfecciones e intentas de alguna forma cruzarlas, posi
 
 ### Movimiento Furtivo Poderoso
 
-**Nivel 18** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 18** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 Has aprendido a explotar las aberturas de tus enemigos. Tu dano por ataque furtivo ignora cualquier inmunidad o resistencia del objetivo al dano de precision. Ademas, cuando te mueves furtivamente, al final de dicha acción puedes designar como objetivo a una criatura que no te ha detectado. En el siguiente ataque que haces contra dicha criatura antes del final de tu siguiente turno, cualquier dado de ataque furtivo que tiras y cuyo resultado es menor de 3, en su lugar es un 3. Esto no te otorga beneficio alguno si tu siguiente ataque contra dicha criatura no inflige dano por ataque furtivo y, si designas como objetivo a una nueva criatura, pierdes los beneficios sobre la anterior.
 
@@ -848,7 +848,7 @@ Has aprendido a explotar las aberturas de tus enemigos. Tu dano por ataque furti
 
 ### Distracción Reactiva {% include accion.html tipo="reaccion" %}
 
-**Nivel 20** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 20** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango legendario en Engano, Distracción perfecta.
 
@@ -862,7 +862,7 @@ Te intercambias de forma reactiva con tu señuelo para frustrar a tu enemigo. Ut
 
 ### Parangon Oculto {% include accion.html tipo="reaccion" %}
 
-**Nivel 20** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 20** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Rango legendario en Sigilo
 
@@ -876,7 +876,7 @@ Cuando se te antoja que nadie te vea, desapareces por completo. Te vuelves invis
 
 ### Pegador Imposible
 
-**Nivel 20** | <div class="feat-traits-header" markdown="0"><a href="/rasgos/picaro/" class="feat-trait">Picaro</a></div>
+**Nivel 20** | <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
 **Prerrequisitos:** Pegador astuto
 

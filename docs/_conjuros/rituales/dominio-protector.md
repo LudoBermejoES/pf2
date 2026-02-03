@@ -10,7 +10,7 @@ source: PC2
 
 ## Dominio protector [RITUAL 6]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a></div>
 
 **Lanzamiento:** 1 día; **Coste:** inciensos, aceites y plata en polvo raros por valor total de 150 mo; **Lanzadores secundarios:** 3
 

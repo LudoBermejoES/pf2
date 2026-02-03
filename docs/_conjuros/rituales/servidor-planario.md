@@ -10,7 +10,7 @@ source: PC1
 
 ## Servidor Planario [RITUAL 5]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a></div>
 
 **Lanzamiento:** 1 dia; **Coste:** incienso raro y ofrendas por un valor total de 2 po x el rango del conjuro x el nivel del objetivo, consulta el texto para mas detalles
 

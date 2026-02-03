@@ -40,7 +40,7 @@ Un dhampir puede seleccionar cualquiera de los siguientes linajes.
 
 ### Straveika · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a><a href="/rasgos/linaje/" class="feat-trait">Linaje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a><a href="/apendices/rasgos/linaje/" class="feat-trait">Linaje</a></div>
 
 Desciendes de uno de los vampiros verdaderamente antiguos, un nosferatu maldito con vida eterna pero no juventud eterna. La gente te llama straveika, o nacido antiguo. Los vestigios de los poderes de dominación de tu antepasado te han dejado con una comprensión de cómo las intenciones de una criatura cambian su comportamiento. Obtienes un bonificador circunstancial +1 a las pruebas de Percepción para Percibir intenciones y a la CD de Percepción contra intentos de Mentirte.
 
@@ -48,7 +48,7 @@ Desciendes de uno de los vampiros verdaderamente antiguos, un nosferatu maldito 
 
 ### Svetocher · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a><a href="/rasgos/linaje/" class="feat-trait">Linaje</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a><a href="/apendices/rasgos/linaje/" class="feat-trait">Linaje</a></div>
 
 Naciste de un moroi, los vampiros más comunes, y compartes su fortaleza sobrenatural y poder de persuasión. Cuando tienes la condición drenado, calcula la penalización a tus salvaciones de Fortaleza y la reducción de tus Puntos de Golpe como si el valor de la condición fuera 1 menor. Estás entrenado en Diplomacia. Si automáticamente pasarías a estar entrenado en ella, en su lugar pasas a estar entrenado en una habilidad de tu elección.
 
@@ -58,7 +58,7 @@ Naciste de un moroi, los vampiros más comunes, y compartes su fortaleza sobrena
 
 ### Ojos de la noche · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Puedes ver en la oscuridad tan fácilmente como un vampiro verdadero. Obtienes visión en la oscuridad.
 
@@ -68,7 +68,7 @@ Puedes ver en la oscuridad tan fácilmente como un vampiro verdadero. Obtienes v
 
 ### Colmillos · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Tus incisivos han crecido hasta convertirse en verdaderos colmillos: largos, afilados y bien preparados para extraer sangre. Obtienes un ataque desarmado de colmillos que inflige 1d6 de daño perforante. Tus colmillos están en el grupo pelea y tienen los rasgos agarrar y desarmado.
 
@@ -76,7 +76,7 @@ Tus incisivos han crecido hasta convertirse en verdaderos colmillos: largos, afi
 
 ### Saber sobre vampiros · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Fuiste criado por tu progenitor vampírico, o has invertido tiempo y energía considerables investigando los secretos de tus precursores no muertos. Estás entrenado en Religión y Sociedad. Si automáticamente pasarías a estar entrenado en una de esas habilidades (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección.
 
@@ -86,7 +86,7 @@ También obtienes la dote general Saber adicional para Saber sobre vampiros.
 
 ### Voz de la noche · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Oyes y entiendes las palabras de las criaturas con las que compartes la oscuridad. Puedes hacer preguntas, recibir respuestas y usar la habilidad Diplomacia con murciélagos, ratas y lobos. También obtienes un bonificador circunstancial +1 para Causar impresión en dichos animales.
 
@@ -96,7 +96,7 @@ Oyes y entiendes las palabras de las criaturas con las que compartes la oscurida
 
 ### Fascinación cautivadora · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Los poderes de dominación empleados por tus precursores se han manifestado en ti también. Puedes lanzar *encantar* como conjuro innato divino una vez por día. Su rango de conjuro es igual a la mitad de tu nivel redondeado hacia arriba, pero no aumenta su duración ni número de objetivos a 4.º y 8.º rango.
 
@@ -104,7 +104,7 @@ Los poderes de dominación empleados por tus precursores se han manifestado en t
 
 ### Fisiología nigromántica · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Tu fisiología inusual se ha desarrollado de un modo que dificulta que parásitos y otras infestaciones se alimenten de ti. Obtienes un bonificador circunstancial +2 a las tiradas de salvación contra enfermedades. Si obtienes un éxito en una tirada de salvación contra una enfermedad, obtienes éxito crítico en su lugar. Si tienes alguna otra capacidad que mejoraría tu salvación de este modo (como la característica de clase luchador curtido en batalla), si obtienes un fallo crítico en la tirada en su lugar obtienes un fallo.
 
@@ -112,7 +112,7 @@ Tu fisiología inusual se ha desarrollado de un modo que dificulta que parásito
 
 ### Cazador de no muertos · Dote 5
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Tu conocimiento de tu anatomía no‑del‑todo viva, combinado con tu experiencia en combate, te ayuda a derribar enemigos no muertos con facilidad. Contra criaturas no muertas, obtienes un bonificador circunstancial al daño con Golpes de arma y desarmados igual al número de dados de daño de arma del Golpe. Este bonificador aumenta al doble del número de dados de daño de arma si tu objetivo tiene el rasgo vampiro.
 
@@ -122,7 +122,7 @@ Tu conocimiento de tu anatomía no‑del‑todo viva, combinado con tu experienc
 
 ### Colmillos desangradores · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 **Prerrequisitos:** ataque desarmado de colmillos
 
@@ -132,7 +132,7 @@ Emulas las técnicas de tu progenitor vampírico para extraer sangre de una víc
 
 ### Magia nocturna · Dote 9
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Puedes canalizar la magia que recorre tu sangre. Obtienes *forma animal* (solo lobo, usando las estadísticas de un can) y *niebla* como conjuros innatos divinos de rango 2. Puedes lanzar cada uno de estos conjuros una vez por día.
 
@@ -142,7 +142,7 @@ Puedes canalizar la magia que recorre tu sangre. Obtienes *forma animal* (solo l
 
 ### Forma de murciélago · Dote 13 · {% include accion.html tipo="1" %}
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a><a href="/rasgos/divino/" class="feat-trait">Divino</a><a href="/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
 
 **Frecuencia:** una vez por hora
 
@@ -154,6 +154,6 @@ Puedes transformarte en un murciélago inofensivo. Obtienes los efectos de *form
 
 ### Sinfonía de sangre · Dote 17
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
 Invocas la sangre de tus enemigos para otorgarte vigor. Puedes lanzar *exsanguinación vampírica* como conjuro innato divino de rango 7 una vez por día.

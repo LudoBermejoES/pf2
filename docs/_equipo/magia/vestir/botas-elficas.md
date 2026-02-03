@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 3; **Precio** 55 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/transmutacion/" class="feat-trait">Transmutación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/transmutacion/" class="feat-trait">Transmutación</a></div>
 
 **Ranura:** Pies
 

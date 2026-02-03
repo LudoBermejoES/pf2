@@ -10,7 +10,7 @@ trained: true
 source: PC1
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/mental/" class="feat-trait">Mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
 <img src="{{ '/assets/images/acciones/fintar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 

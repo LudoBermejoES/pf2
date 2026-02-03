@@ -10,7 +10,7 @@ source: PC1
 
 ## Asolar [RITUAL 4]
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/rasgos/planta/" class="feat-trait">planta</a><a href="/rasgos/vacio/" class="feat-trait">vacío</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/planta/" class="feat-trait">planta</a><a href="/apendices/rasgos/vacio/" class="feat-trait">vacío</a></div>
 
 **Lanzamiento:** 1 dia
 

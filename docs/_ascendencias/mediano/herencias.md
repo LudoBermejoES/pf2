@@ -50,7 +50,7 @@ Tus antepasados llevaron a cabo muchos actos secretos bajo la capa protectora de
 Naciste con una extraña bendición: desprovisto de la típica suerte de los medianos, en su lugar puedes manipular las fortunas de los demás. Nunca puedes adquirir la dote Suerte del mediano y obtienes la acción Gafar.
 
 ### Gafar {% include accion.html tipo="2" %}
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/ocultismo/" class="feat-trait">Ocultismo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/ocultismo/" class="feat-trait">Ocultismo</a></div>
 
 **Frecuencia:** Una vez al día
 

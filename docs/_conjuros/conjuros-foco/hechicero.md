@@ -15,7 +15,7 @@ Los conjuros de foco del hechicero se conocen como **conjuros de linaje**. Estos
 ## Aberrante
 
 ### Brazos tentaculares {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/morfismo/" class="feat-trait">Morfismo</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/morfismo/" class="feat-trait">Morfismo</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Duración:** 1 minuto
 
 Tus brazos se convierten en largos tentáculos flexibles, aumentando tu alcance al entregar conjuros de toque y al realizar Golpes desarmados con tus brazos (como Golpes de puño o garra) a 10 pies (3 m). Esto no cambia el alcance de tus ataques con armas cuerpo a cuerpo. Durante la duración, siempre que Lanzas un Conjuro, puedes añadir una acción adicional al lanzamiento del conjuro para ampliar temporalmente tu alcance a 20 pies (6 m) para entregar ese conjuro.
@@ -25,7 +25,7 @@ Tus brazos se convierten en largos tentáculos flexibles, aumentando tu alcance 
 ---
 
 ### Susurros aberrantes {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Área:** emanación de 5 pies (1,5 m) o más; **Objetivos:** cada enemigo en el área
 **Defensa:** Voluntad; **Duración:** 1 asalto
 
@@ -42,7 +42,7 @@ Pronuncias frases en una lengua desconocida, asaltando las mentes de los present
 ---
 
 ### Anatomía insólita {% include accion.html tipo="1" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/polimorfia/" class="feat-trait">Polimorfía</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/polimorfia/" class="feat-trait">Polimorfía</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Duración:** 1 minuto
 
 Transformas tu carne y órganos en una extraña amalgama de piel reluciente, escamas rugosas, mechones de pelo y protuberancias tumorales. Esto tiene los siguientes efectos.
@@ -58,7 +58,7 @@ Transformas tu carne y órganos en una extraña amalgama de piel reluciente, esc
 ## Angélico
 
 ### Halo angélico {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/aura/" class="feat-trait">Aura</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/sagrado/" class="feat-trait">Sagrado</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/aura/" class="feat-trait">Aura</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/sagrado/" class="feat-trait">Sagrado</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Área:** emanación de 15 pies (4,5 m)
 **Duración:** 1 minuto
 
@@ -67,7 +67,7 @@ Obtienes un halo angélico con un aura que incrementa la curación de tus aliado
 ---
 
 ### Alas angélicas {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/luz/" class="feat-trait">Luz</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/luz/" class="feat-trait">Luz</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Duración:** 3 asaltos
 
 Alas de luz pura se extienden desde tu espalda, concediéndote una Velocidad de vuelo igual a tu Velocidad. Tus alas emiten luz brillante en un radio de 30 pies (9 m). Cuando la duración de este conjuro vaya a terminar, si todavía estás volando, desciendes flotando hasta el suelo, como aterrizaje suave.
@@ -77,7 +77,7 @@ Alas de luz pura se extienden desde tu espalda, concediéndote una Velocidad de 
 ---
 
 ### Marca celestial {% include accion.html tipo="1" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura sacrílega
 **Duración:** 1 asalto
 
@@ -90,7 +90,7 @@ Aparece un símbolo llameante sobre el objetivo, maldiciéndolo para que enfrent
 ## Demoníaco
 
 ### Mandíbulas glotonas {% include accion.html tipo="2" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Objetivo:** 1 criatura
 **Defensa:** CA
 
@@ -101,7 +101,7 @@ Una fauce babeante se abre bajo un objetivo e intenta darle un mordisco. Haz una
 ---
 
 ### Pantano de pereza {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/olfativo/" class="feat-trait">Olfativo</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/olfativo/" class="feat-trait">Olfativo</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 120 pies (36 m); **Área:** explosión de 5 pies (1,5 m) o más
 **Defensa:** salvación básica de Fortaleza; **Duración:** 1 minuto
 
@@ -112,7 +112,7 @@ El suelo del área se vuelve pantanoso y fétido. El área es terreno difícil. 
 ---
 
 ### Ira ctónica {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Área:** cono de 60 pies (18 m)
 **Defensa:** salvación básica de Reflejos
 
@@ -132,7 +132,7 @@ Evocas la energía de una parte de las Grietas Exteriores. Los tipos de daño de
 ## Diabólico
 
 ### Edicto diabólico {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viviente dispuesta
 **Duración:** 1 asalto
 
@@ -141,7 +141,7 @@ Proclamas un edicto diabólico, exigiendo que el objetivo realice una tarea conc
 ---
 
 ### Abrazo del Abismo {% include accion.html tipo="1" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/morfismo/" class="feat-trait">Morfismo</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/morfismo/" class="feat-trait">Morfismo</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Duración:** 1 minuto
 
 Cuernos diabólicos crecen de tu cráneo y tu piel adquiere rasgos del diablo responsable de tu linaje diabólico. Obtienes resistencia 5 al fuego y al veneno, y resistencia 1 al daño físico (excepto plata).
@@ -151,7 +151,7 @@ Cuernos diabólicos crecen de tu cráneo y tu piel adquiere rasgos del diablo re
 ---
 
 ### Penacho de fuego infernal {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/rasgos/espiritu/" class="feat-trait">Espíritu</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/espiritu/" class="feat-trait">Espíritu</a></div>
 **Rango:** 60 pies (18 m); **Área:** cilindro de 10 pies (3 m) de radio y 60 pies (18 m) de altura
 **Defensa:** salvación básica de Reflejos
 
@@ -164,7 +164,7 @@ Invocas un penacho de fuego infernal que estalla desde abajo, infligiendo 4d6 de
 ## Dracónico
 
 ### Ráfaga de garras {% include accion.html tipo="2" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 2 criaturas a no más de 10 pies (3 m) entre sí
 **Defensa:** CA
 
@@ -175,7 +175,7 @@ Aparecen feroces garras de dragón y desgarran a dos enemigos cercanos. Haz una 
 ---
 
 ### Aliento de dragón {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Área:** cono de 30 pies (9 m)
 **Defensa:** salvación básica de Reflejos
 
@@ -186,7 +186,7 @@ Exhalas energía por la boca, infligiendo 5d6 de daño con una salvación básic
 ---
 
 ### Alas de dragón {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/morfismo/" class="feat-trait">Morfismo</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/morfismo/" class="feat-trait">Morfismo</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Duración:** 1 minuto
 
 Brota de tu espalda un par de alas coriáceas, concediéndote una Velocidad de vuelo de 60 pies (18 m) o tu Velocidad, lo que sea mayor. Si aún estás volando cuando la duración de este conjuro vaya a terminar, desciendes flotando, con los efectos de aterrizaje suave.
@@ -198,7 +198,7 @@ Brota de tu espalda un par de alas coriáceas, concediéndote una Velocidad de v
 ## Elemental
 
 ### Lanzamiento elemental {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** CA
 
@@ -209,7 +209,7 @@ Con un giro de muñeca, arrojas un fragmento de tu materia elemental contra tu e
 ---
 
 ### Movimiento elemental {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Duración:** 1 minuto
 
 Invocas a tu elemento para impulsarte, mejorando tus Velocidades según tu elemento. Este conjuro tiene el rasgo de tu elemento.
@@ -228,7 +228,7 @@ Invocas a tu elemento para impulsarte, mejorando tus Velocidades según tu eleme
 ---
 
 ### Explosión elemental {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m) (solo explosión); **Área:** explosión de 10 pies (3 m) de radio, cono de 30 pies (9 m), o línea de 60 pies (18 m)
 **Defensa:** salvación básica de Reflejos
 
@@ -241,7 +241,7 @@ Reúnes energía elemental y la descargas sobre tus enemigos en una de las forma
 ## Feérico
 
 ### Polvo feérico {% include accion.html tipo="1" %} a {% include accion.html tipo="3" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Área:** explosión de 5 pies (1,5 m) o más
 **Defensa:** Voluntad; **Duración:** 1 asalto
 
@@ -258,7 +258,7 @@ Espolvoreas polvo mágico en el área del conjuro, haciendo a quienes están den
 ---
 
 ### Desaparición feérica {% include accion.html tipo="1" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Duración:** hasta el final de tu siguiente turno
 
 Te vuelves invisible e ignoras el terreno difícil natural (como sotobosque). Cualquier acción hostil que uses termina esta invisibilidad, pero sigues ignorando el terreno difícil natural.
@@ -268,7 +268,7 @@ Te vuelves invisible e ignoras el terreno difícil natural (como sotobosque). Cu
 ---
 
 ### Engalanamiento feérico {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/ilusion/" class="feat-trait">Ilusión</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">Ilusión</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Área:** explosión de 30 pies (9 m) o **Objetivos:** hasta 10 criaturas dispuestas
 **Duración:** 10 minutos
 
@@ -279,7 +279,7 @@ Invocas galas feéricas para envolver un área o a los objetivos en ilusión. Es
 ## Bruja
 
 ### Maldición celosa {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** 1 minuto
 
@@ -294,7 +294,7 @@ Extraes la innata celosía de una bruja para negar a un objetivo su mayor atribu
 ---
 
 ### Faz horrenda {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/ilusion/" class="feat-trait">Ilusión</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/rasgos/visual/" class="feat-trait">Visual</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">Ilusión</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 **Área:** emanación de 30 pies (9 m) de radio
 **Defensa:** Voluntad
 
@@ -311,7 +311,7 @@ Transformas brevemente tus rasgos en la faz horrenda de una bruja, infundiendo m
 ---
 
 ### ¡Eres mío! {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/incapacitacion/" class="feat-trait">Incapacitación</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** 1 asalto
 
@@ -332,7 +332,7 @@ Manipulas las emociones del objetivo, permitiéndote potencialmente controlarlo 
 ## Imperial
 
 ### Recuerdos ancestrales {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
 Los recuerdos de lanzadores de conjuros de tiempos remotos te conceden su conocimiento, haciendo tus conjuros más formidables. Obtienes o bien un bonificador de estado +1 a la siguiente tirada de ataque de conjuro que intentes antes de que termine tu turno, o un enemigo a 60 pies (18 m) sufre un penalizador de estado –1 a la siguiente tirada de salvación que intente contra un conjuro que lances antes de que termine tu turno.
 
@@ -343,14 +343,14 @@ Los recuerdos de lanzadores de conjuros de tiempos remotos te conceden su conoci
 ---
 
 ### Extender magia de linaje {% include accion.html tipo="1" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
 Invocas la energía arcana que fluye por tu sangre para extender la magia que concede. Si tu siguiente acción es Lanzar un Conjuro que te conceda un efecto de magia de linaje que dure al menos 1 asalto, tú o un objetivo obtenéis el efecto de magia de linaje durante 1 asalto adicional. Solo puedes tener un efecto de magia de linaje extendido a la vez.
 
 ---
 
 ### Contramedida arcana {% include accion.html tipo="libre" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Desencadenante:** Una criatura en alcance que puedas ver Lanza un Conjuro.
 **Rango:** 120 pies (36 m); **Objetivos:** el conjuro lanzado por la criatura que desencadenó
 
@@ -363,7 +363,7 @@ No puedes reducir el rango del conjuro por debajo de su mínimo. Por ejemplo, un
 ## No muerto
 
 ### Bendición de la no muerte {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/rasgos/vacio/" class="feat-trait">Vacío</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/vacio/" class="feat-trait">Vacío</a></div>
 **Rango:** toque; **Objetivos:** 1 criatura viviente
 **Defensa:** Voluntad; **Duración:** 1 minuto
 
@@ -380,7 +380,7 @@ Infundes en una criatura el toque de la tumba. Durante la duración, los conjuro
 ---
 
 ### Drenar vida {% include accion.html tipo="1" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/rasgos/vacio/" class="feat-trait">Vacío</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/vacio/" class="feat-trait">Vacío</a></div>
 **Rango:** 30 pies (9 m); **Objetivos:** 1 criatura viviente
 **Defensa:** salvación básica de Fortaleza
 
@@ -391,7 +391,7 @@ Cierras la mano y extraes energía vital de otra criatura hacia ti. Esto inflige
 ---
 
 ### Tumba aferradora {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 **Rango:** 60 pies (18 m); **Área:** radio de 20 pies (6 m) en el suelo
 **Defensa:** Reflejos
 

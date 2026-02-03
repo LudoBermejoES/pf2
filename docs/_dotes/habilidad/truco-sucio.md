@@ -9,7 +9,7 @@ level: 1
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/ataque/" class="feat-trait">ATAQUE</a><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/manipular/" class="feat-trait">MANIPULAR</a><a href="/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ataque/" class="feat-trait">ATAQUE</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/manipular/" class="feat-trait">MANIPULAR</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
 **Dote 1**
 

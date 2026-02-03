@@ -9,7 +9,7 @@ source: PC2
 
 **Nivel** 10; **Precio** 900 mo
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/rasgos/magico/" class="feat-trait">Mágico</a><a href="/rasgos/encantamiento/" class="feat-trait">Encantamiento</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/invertir/" class="feat-trait">Invertir</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/encantamiento/" class="feat-trait">Encantamiento</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a></div>
 
 **Tipo base:** Armadura completa
 

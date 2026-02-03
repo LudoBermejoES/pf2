@@ -9,7 +9,7 @@ level: 7
 source: PC2
 ---
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/entre-descansos/" class="feat-trait">ENTRE DESCANSOS</a><a href="/rasgos/general/" class="feat-trait">General</a><a href="/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/entre-descansos/" class="feat-trait">ENTRE DESCANSOS</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
 **Dote 7**
 

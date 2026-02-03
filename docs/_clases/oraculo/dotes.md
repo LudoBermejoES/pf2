@@ -21,7 +21,7 @@ En cada nivel en el que obtienes una dote de oraculo, puedes seleccionar una de 
 
 ### Presagiar Dano · :f: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Frecuencia:** una vez por ronda
 
@@ -33,7 +33,7 @@ Tu magia resuena ominosamente mientras vislumbras una herida en el futuro del ob
 
 ### Recopilar Conocimiento · :a: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/divino/" class="feat-trait">Divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/rasgos/secreto/" class="feat-trait">secreto</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a><a href="/apendices/rasgos/secreto/" class="feat-trait">secreto</a></div>
 
 Accedes al conocimiento recopilado de lo divino, obteniendo una variedad de informacion potencialmente util. Intenta una prueba de Religion para comprender la informacion que obtienes. El DJ establece la CD (similar a la CD para Recordar Conocimiento), ajustando potencialmente la CD de la prueba para temas muy alejados de tu misterio.
 
@@ -49,7 +49,7 @@ Accedes al conocimiento recopilado de lo divino, obteniendo una variedad de info
 
 ### Inclinar la Balanza · :a: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/curacion/" class="feat-trait">curacion</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/espiritu/" class="feat-trait">espiritu</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/curacion/" class="feat-trait">curacion</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/espiritu/" class="feat-trait">espiritu</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Colocas un dedo en la balanza de la vida y la muerte para curar a una criatura, sin importar si esta viva o es no-muerta. Restauras Puntos de Golpe iguales a 2 + el doble de tu nivel a una criatura dentro de 30 pies.
 
@@ -59,7 +59,7 @@ Ademas, puedes meditar durante tus preparativos diarios para colocarte en un lad
 
 ### Advertencia Oracular · :f: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/rasgos/emocion/" class="feat-trait">emocion</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/emocion/" class="feat-trait">emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Desencadenante:** Estas a punto de tirar iniciativa.
 
@@ -69,7 +69,7 @@ Tienes una premonicion sobre un peligro inminente que usas para advertir a tus a
 
 ### Hechizo Extendido · :a: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Puedes extender el alcance de tus hechizos. Si la siguiente accion que usas es Lanzar un hechizo que tiene un alcance, aumenta el alcance de ese hechizo en 30 pies. Como es estandar para aumentar alcances de hechizos, si el hechizo normalmente tiene un alcance de toque, extiendes su alcance a 30 pies.
 
@@ -77,7 +77,7 @@ Puedes extender el alcance de tus hechizos. Si la siguiente accion que usas es L
 
 ### Susurros de Debilidad · :a: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Voces te susurran como derribar mejor a una criatura. Seleccionas una criatura dentro de 60 pies; si tiene alguna debilidad, las aprendes, asi como cual de sus modificadores de salvacion es el mas bajo. Tambien llegas a comprender sus movimientos, obteniendo un bonificador de estado de +2 a tu siguiente tirada de ataque (o prueba de habilidad realizada como parte de una accion de ataque) contra ese enemigo antes del final de tu turno. El objetivo queda entonces temporalmente inmune durante 1 dia.
 
@@ -85,7 +85,7 @@ Voces te susurran como derribar mejor a una criatura. Seleccionas una criatura d
 
 ### Ampliar Hechizo · :a: · Dote 1
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Manipulas la energia de tu hechizo, haciendo que afecte un area mas amplia. Si la siguiente accion que usas es Lanzar un hechizo que tiene un area de estallido, cono o linea y no tiene duracion, aumenta el area de ese hechizo. Anade 5 pies al radio de un estallido que normalmente tenga un radio de al menos 10 pies (un estallido con un radio menor no se ve afectado). Anade 5 pies a la longitud de un cono o linea que normalmente tenga 15 pies de largo o menos, y anade 10 pies a la longitud de un cono o linea mas grande.
 
@@ -97,7 +97,7 @@ Manipulas la energia de tu hechizo, haciendo que afecte un area mas amplia. Si l
 
 ### Expansion de Trucos · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 El estudio amplia tu gama de hechizos simples. Anade dos trucos adicionales de tu lista de hechizos a tu repertorio.
 
@@ -105,7 +105,7 @@ El estudio amplia tu gama de hechizos simples. Anade dos trucos adicionales de t
 
 ### Egida Divina · :r: · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/divino/" class="feat-trait">Divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Desencadenante:** Intentas una tirada de salvacion contra un efecto magico, pero aun no has tirado.
 
@@ -115,7 +115,7 @@ Una barrera ofrece proteccion contra otra magia pero te deja expuesto a la energ
 
 ### Conocimiento de Dominios · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Todo misterio de oraculo toca un dominio divino de las deidades que lo alimentan; puedes acceder a ese poder. Elige uno de los dominios asociados con tu misterio para el cual aun no tengas un hechizo de dominio inicial. Obtienes un hechizo de dominio inicial de ese dominio, que lanzas como hechizo de revelacion.
 
@@ -125,7 +125,7 @@ Todo misterio de oraculo toca un dominio divino de las deidades que lo alimentan
 
 ### Futuros Entrometidos · :f: · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Te abres a la guia de cualquier espiritu o poder que se digne a ayudarte. Tira 1d4 para ver que tipo de espiritu se siente atraido hacia ti. Tu siguiente accion debe ser del tipo de accion que el espiritu prefiere, pero tambien obtienes el beneficio listado para la accion mientras el espiritu te guia. Si intentas usar una accion diferente, debes tener exito en una prueba sin modificador de CD 6 o la accion se pierde.
 
@@ -145,7 +145,7 @@ Te abres a la guia de cualquier espiritu o poder que se digne a ayudarte. Tira 1
 
 ### Golpes Hechizados · :f: · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Frecuencia:** una vez por turno
 
@@ -157,7 +157,7 @@ Canalizas energia de hechizo en un arma que empunas, o en uno de tus ataques des
 
 ### Conocimiento de Formas · :f: · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** Hechizo Extendido o Ampliar Hechizo
 
@@ -167,7 +167,7 @@ La inspiracion te permite superar tus concepciones previas de los limites de tus
 
 ### Mil Visiones · :f: · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/prediccion/" class="feat-trait">prediccion</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/prediccion/" class="feat-trait">prediccion</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Abres tus sentidos a numerosas visiones del futuro inmediato. Las visiones te otorgan detalles sutiles de tu entorno inmediato dentro de 30 pies. Dentro de este alcance, no necesitas tener exito en una prueba sin modificador para atacar a una criatura oculta, no quedas desprevenido ante criaturas que estan escondidas de ti (a menos que estes desprevenido ante ellas por razones distintas a la condicion escondido), y solo necesitas una prueba sin modificador de CD 5 exitosa para atacar a una criatura escondida. Mas alla de 30 pies, las visiones se ven abrumadas con demasiados futuros posibles, haciendo que todos tus sentidos sean imprecisos mas alla de este alcance. Las visiones persisten durante 1 minuto.
 
@@ -179,7 +179,7 @@ Abres tus sentidos a numerosas visiones del futuro inmediato. Las visiones te ot
 
 ### Revelacion Avanzada · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** hechizo de revelacion inicial
 
@@ -189,7 +189,7 @@ El poder divino te revela mayores misterios. Aprendes el hechizo de revelacion a
 
 ### Poder Otorgado · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Tu misterio te concede magia adicional. Tienes un espacio de hechizo extra de tu rango mas alto, que solo puedes usar para lanzar uno de los hechizos otorgados de tu misterio, elevado a este rango.
 
@@ -199,7 +199,7 @@ Tu misterio te concede magia adicional. Tienes un espacio de hechizo extra de tu
 
 ### Sentido Espiritual · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/divino/" class="feat-trait">Divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Tienes una vaga conexion con el Plano Etereo que te permite percibir espiritus. Mientras exploras pero no Buscas, el DJ tira una prueba secreta para que encuentres apariciones que normalmente requieren Buscar, asi como espiritus, criaturas en el Plano Etereo y seres hechos enteramente de esencia espiritual como celestiales, demonios y monitores.
 
@@ -209,7 +209,7 @@ Tambien puedes potencialmente notar criaturas etereas y espiritus dentro de obje
 
 ### Lanzamiento Estable · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Confiado en tu tecnica, no pierdes facilmente tu concentracion cuando Lanzas un hechizo. Si la reaccion de otra criatura interrumpiria tu accion de lanzamiento de hechizo, intenta una prueba sin modificador de CD 15. Si tienes exito, tu accion no es interrumpida.
 
@@ -221,7 +221,7 @@ Confiado en tu tecnica, no pierdes facilmente tu concentracion cuando Lanzas un 
 
 ### Dicotomia Debilitante · :aa: · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Revelas un vislumbre de los conflictos imposibles entre los anatemas divinos detras de tu maldicion, forzandote a lidiar con los conflictos de otro tambien. Tu y una criatura dentro de 30 pies reciben cada uno 9d6 de dano mental con una tirada de salvacion de Voluntad basica, y el objetivo queda aturdido 1 si falla criticamente su salvacion. Obtienes un grado de exito uno mejor que el que sacaste en tu tirada de salvacion. A nivel 10, y cada 2 niveles a partir de entonces, el dano aumenta en 3d6.
 
@@ -229,7 +229,7 @@ Revelas un vislumbre de los conflictos imposibles entre los anatemas divinos det
 
 ### Leer Desastre · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/exploracion/" class="feat-trait">Exploracion</a><a href="/rasgos/prediccion/" class="feat-trait">prediccion</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploracion</a><a href="/apendices/rasgos/prediccion/" class="feat-trait">prediccion</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Pasas 10 minutos y te abres a los misterios divinos del mundo, observando los presagios mas siniestros del futuro. Obtienes los efectos de augurio, excepto que solo aprendes sobre los peligros venideros; cualquier resultado de "bueno" es en su lugar "nada", y los resultados de "mixto" son en su lugar "malo". Si eres legendario en Religion, solo tardas 1 minuto en Leer Desastre.
 
@@ -237,7 +237,7 @@ Pasas 10 minutos y te abres a los misterios divinos del mundo, observando los pr
 
 ### Poder Surgente · :a: · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Enfocas el poder de tu hechizo para superar las resistencias de los enemigos. Si la siguiente accion que usas es Lanzar un hechizo, el hechizo ignora una cantidad de la resistencia del objetivo igual a tu nivel contra los siguientes tipos de dano: espiritu, vitalidad y vacio. Esto aplica a todo el dano que el hechizo inflige, incluyendo dano persistente y dano causado por un efecto continuo del hechizo. Esto no hace que el hechizo ignore inmunidades, solo resistencias.
 
@@ -245,7 +245,7 @@ Enfocas el poder de tu hechizo para superar las resistencias de los enemigos. Si
 
 ### Caminar sobre el Agua · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Cuando estas en las garras de tu maldicion, tus pasos adquieren una flotabilidad sobrenatural. Cuando estas en vinculado a la maldicion 1, puedes Caminar a traves de liquidos que no soportan tu peso, pero debes terminar tu movimiento en una superficie que pueda soportarte o caes al liquido como es normal. Cuando estas en vinculado a la maldicion 2 o peor, obtienes los efectos de caminar sobre el agua.
 
@@ -257,7 +257,7 @@ Cuando estas en las garras de tu maldicion, tus pasos adquieren una flotabilidad
 
 ### Lanzamiento Acelerado · :f: · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Frecuencia:** una vez por dia
 
@@ -267,7 +267,7 @@ Si tu siguiente accion es lanzar un truco de oraculo o un hechizo de oraculo que
 
 ### Tirar los Huesos del Destino · :a: · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/prediccion/" class="feat-trait">prediccion</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/prediccion/" class="feat-trait">prediccion</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** misterio de huesos o conocimiento
 
@@ -287,7 +287,7 @@ Tiras un punado de huesos para aprender (o quizas influir) el curso futuro de lo
 
 ### Los Muertos Caminan · :aa: · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** misterio de ancestros o batalla
 
@@ -297,7 +297,7 @@ Suplicas a los espiritus guerreros que vengan y te ayuden. Dos guerreros fantasm
 
 ### Juicio del Fuego Celestial · :a: · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/fuego/" class="feat-trait">Fuego</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** misterio de cosmos o llamas
 
@@ -307,7 +307,7 @@ Tus labios murmuran mientras presagias un gran desastre, uno que esperas sobrevi
 
 ### Aguas de la Creacion · :aa: · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/agua/" class="feat-trait">Agua</a><a href="/rasgos/curacion/" class="feat-trait">curacion</a><a href="/rasgos/vitalidad/" class="feat-trait">vitalidad</a><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/agua/" class="feat-trait">Agua</a><a href="/apendices/rasgos/curacion/" class="feat-trait">curacion</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">vitalidad</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** misterio de vida o tempestad
 
@@ -321,7 +321,7 @@ El agua es la fuente de la vida, y recurres a esta fuerza primordial para sanar 
 
 ### Fluidez de Dominios · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** Conocimiento de Dominios
 
@@ -331,7 +331,7 @@ Dominas una comprension profunda de los dominios relacionados con tu misterio. E
 
 ### Epifania en la Encrucijada · :f: · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/divino/" class="feat-trait">Divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Frecuencia:** una vez por dia
 
@@ -345,7 +345,7 @@ La encrucijada entre la vida y la muerte es un lugar que puede revelar muchos se
 
 ### Revelacion Mayor · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** hechizo de revelacion inicial
 
@@ -355,7 +355,7 @@ Desbloqueas revelaciones mas profundas ocultas dentro de tu misterio. Obtienes e
 
 ### Sentido Magico · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/deteccion/" class="feat-trait">Deteccion</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/deteccion/" class="feat-trait">Deteccion</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Tienes literalmente un sexto sentido para la magia ambiental en tu vecindad. Puedes sentir la presencia de auras magicas como si siempre estuvieras usando un hechizo detectar magia de rango 1. Esto detecta magia solo en tu campo de vision. Cuando Escudrinas, obtienes los beneficios de un hechizo detectar magia de rango 3 en las cosas que observas (ademas de los beneficios normales de Escudrinar). Puedes activar y desactivar este sentido con una accion gratuita al inicio o al final de tu turno.
 
@@ -367,7 +367,7 @@ Tienes literalmente un sexto sentido para la magia ambiental en tu vecindad. Pue
 
 ### Evitar la Maldicion · :f: · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Frecuencia:** una vez por dia
 
@@ -377,7 +377,7 @@ Has aprendido a contener tu maldicion. Si la siguiente accion que usas es una ca
 
 ### Mas Ligero que el Aire · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/divino/" class="feat-trait">Divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** Caminar sobre el Agua
 
@@ -387,7 +387,7 @@ Tus pasos misteriosos se vuelven aun mas ligeros, trascendiendo el mundo mortal 
 
 ### Repertorio Misterioso · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Tu misterio alberga profundidades insondables de magia no siempre asociadas con lo divino. Puedes tener un hechizo en tu repertorio de hechizos que no este en la lista de hechizos divinos, ademas de los hechizos que hayas anadido a tu lista de hechizos de capacidades como acceso divino. Lanzas ese hechizo como un hechizo divino. Puedes intercambiar que hechizo anades y de que tradicion como podrias hacerlo con cualquier otro hechizo de oraculo, pero no puedes usar esta dote para tener mas de un hechizo de otra tradicion en tu repertorio de hechizos al mismo tiempo.
 
@@ -395,7 +395,7 @@ Tu misterio alberga profundidades insondables de magia no siempre asociadas con 
 
 ### Enfoque de Revelacion · Dote 14
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Las extensiones mas lejanas de tu misterio proporcionan un manantial inagotable de magia. Cuando te Reenfocar, recuperas todos tus Puntos de Enfoque en lugar de 1.
 
@@ -407,7 +407,7 @@ Las extensiones mas lejanas de tu misterio proporcionan un manantial inagotable 
 
 ### Conducto de Vacio y Vitalidad · :aa: · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/divino/" class="feat-trait">divino</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** cualquier misterio de oraculo
 
@@ -419,7 +419,7 @@ Usas la energia inestable de tu maldicion para manipular la magia divina mas bas
 
 ### Misterio Diverso · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** Revelacion Avanzada
 
@@ -433,7 +433,7 @@ No puedes lanzar tu hechizo de revelacion elegido si se cumple alguna de las sig
 
 ### Hechizo Portentoso · :a: · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">mental</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/visual/" class="feat-trait">visual</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">mental</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/visual/" class="feat-trait">visual</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 Tu lanzamiento de hechizos esta plagado de luces extranas, humos leves y otros efectos cautivadores que confunden a tus enemigos. Si la siguiente accion que usas es Lanzar un hechizo, cualquier criatura que intente usar una reaccion desencadenada por tu actividad Lanzar un hechizo recibe una penalizacion de circunstancia de -2 a tiradas de ataque y pruebas de habilidad realizadas como parte de la reaccion. Ademas, si el hechizo incluye un ataque de hechizo o requiere una tirada de salvacion, las criaturas que golpees o que fallen sus salvaciones quedan fascinadas contigo hasta el inicio de tu siguiente turno.
 
@@ -445,7 +445,7 @@ Tu lanzamiento de hechizos esta plagado de luces extranas, humos leves y otros e
 
 ### Llamarada de Revelacion · :f: · Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Requisitos:** Estas en vinculado a la maldicion 4.
 
@@ -465,7 +465,7 @@ Al final del minuto, las duraciones de cualquier hechizo de revelacion que lanza
 
 ### Efusion Divina · Dote 18
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 El poder de tu misterio surge a traves de ti como una fuente de energia divina, incluso cuando tu propia magia disminuye. Dos veces por dia, puedes lanzar un hechizo despues de que te hayas quedado sin espacios de hechizo del rango de hechizo apropiado; los dos hechizos que lanzas con esta dote deben ser de diferentes rangos de hechizo.
 
@@ -477,7 +477,7 @@ El poder de tu misterio surge a traves de ti como una fuente de energia divina, 
 
 ### Conducto del Misterio · :f: · Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 El poder de tu misterio te permite acceder a magia innumerable. Si tu siguiente accion es Lanzar un hechizo de rango 5 o menor que no tiene duracion, no gastas un espacio de hechizo.
 
@@ -485,7 +485,7 @@ El poder de tu misterio te permite acceder a magia innumerable. Si tu siguiente 
 
 ### Providencia Oracular · Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** claridad oracular
 
@@ -495,7 +495,7 @@ Tu misterio te concede acceso a reservas profundas de poder divino verdaderament
 
 ### Misterio Paradojico · Dote 20
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
 **Prerrequisitos:** Revelacion Mayor
 

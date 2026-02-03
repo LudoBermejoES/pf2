@@ -11,7 +11,7 @@ source: PC1
 ## Maleficios de Brujo
 
 ### Aguja de Venganza {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 **Lección:** Venganza
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 enemigo
 **Defensa:** Voluntad básica; **Duración:** mantenido hasta 1 minuto
@@ -23,7 +23,7 @@ Una aguja larga y dentada se clava en la psique del objetivo enemigo siempre que
 ---
 
 ### Capa del Embaucador {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/ilusion/" class="feat-trait">Ilusión</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">Ilusión</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 **Lección:** Travesura
 **Duración:** mantenido hasta 1 hora
 
@@ -34,7 +34,7 @@ Tu patrón envuelve a tu alrededor una capa de ilusión, haciendo que parezcas o
 ---
 
 ### Custodia de Sangre {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 **Lección:** Protección
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** mantenido hasta 1 minuto
@@ -46,7 +46,7 @@ La égida de tu patrón desciende para escudar del daño a un objetivo. Designa 
 ---
 
 ### Familiar en Fase {% include accion.html tipo="reaccion" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 **Desencadenante:** Tu familiar sufriría daño.
 **Rango:** distancia 60 pies (18 m); **Objetivos:** tu familiar
 
@@ -57,7 +57,7 @@ Tu patrón llama momentáneamente al éter a tu familiar, moviéndolo de su form
 ---
 
 ### Maldición de Muerte {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/muerte/" class="feat-trait">Muerte</a><a href="/rasgos/vacio/" class="feat-trait">Vacío</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/muerte/" class="feat-trait">Muerte</a><a href="/apendices/rasgos/vacio/" class="feat-trait">Vacío</a></div>
 **Lección:** Muerte
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duración:** mantenido hasta 1 minuto
@@ -75,7 +75,7 @@ Tu patrón envuelve con la mano el corazón de tu objetivo, que tiene que hacer 
 ---
 
 ### Marioneta del Patrón {% include accion.html tipo="libre" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a></div>
 **Desencadenante:** Empieza tu turno.
 
 Con una petición tuya sin palabras, tu patrón asume temporalmente el control de tu familiar. Comandas a tu familiar, permitiéndole llevar a cabo sus acciones normales este turno. Tu orden no tiene los rasgos auditivo o concentrar; simplemente tu patrón mueve directamente a su agente.
@@ -83,7 +83,7 @@ Con una petición tuya sin palabras, tu patrón asume temporalmente el control d
 ---
 
 ### Momento Restablecedor {% include accion.html tipo="2" %} FOCO 5
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 **Lección:** Renovación
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 
@@ -92,7 +92,7 @@ Tu patrón entreteje las hebras del tiempo alrededor del objetivo, concediéndol
 ---
 
 ### Refuerzo Vital {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/curacion/" class="feat-trait">Curación</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 **Lección:** Vida
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** 4 asaltos
@@ -104,14 +104,14 @@ La fuerza vital de tu patrón fluye al objetivo, asegurándose de que puede cont
 ---
 
 ### Risotada {% include accion.html tipo="libre" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a></div>
 
 Con una rápida risotada, prolongas un efecto mágico creado por ti. Mantienes un conjuro.
 
 ---
 
 ### Sombra Maliciosa {% include accion.html tipo="2" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/sombra/" class="feat-trait">Sombra</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/sombra/" class="feat-trait">Sombra</a></div>
 **Lección:** Sombra
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** CA; **Duración:** mantenido hasta 1 minuto
@@ -125,7 +125,7 @@ La sombra se desvanece si el objetivo deja de proyectar sombra (por lo general, 
 ---
 
 ### Traición Elemental {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a></div>
 **Lección:** Elementos
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** mantenido hasta 1 minuto
@@ -137,7 +137,7 @@ Tu patrón utiliza su dominio superior de los elementos, potenciándolos para qu
 ---
 
 ### Velo de Sueños {% include accion.html tipo="1" %} FOCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/mental/" class="feat-trait">Mental</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 **Lección:** Sueños
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** mantenido hasta 1 minuto
@@ -153,7 +153,7 @@ Tu patrón induce en el objetivo un estado somnoliento, que le provoca ensoñaci
 ---
 
 ### Ventisca Personal {% include accion.html tipo="1" %} FOCO 3
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/foco/" class="feat-trait">Foco</a><a href="/rasgos/frio/" class="feat-trait">Frío</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/foco/" class="feat-trait">Foco</a><a href="/apendices/rasgos/frio/" class="feat-trait">Frío</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a></div>
 **Lección:** Nieve
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Fortaleza; **Duración:** mantenido hasta 1 minuto
@@ -175,7 +175,7 @@ El aliento de tu patrón se convierte una ventisca de hielo oscurecedor y agotad
 ## Trucos de Maleficio de Patrón
 
 ### Avivar el Corazón {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Patrón:** Guardián de la llama de la fe
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** mantenido hasta 1 minuto
@@ -187,7 +187,7 @@ Tu patrón llena de fervor a una criatura, potenciando sus golpes. El objetivo o
 ---
 
 ### Discernir Secretos {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Patrón:** El inscrito
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Duración:** mantenido hasta 1 minuto
@@ -199,7 +199,7 @@ Tu patrón se digna susurrar unos cuantos secretos. El objetivo puede Recordar c
 ---
 
 ### Empujar al Destino {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Patrón:** Tejedor de hebras
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** 1 minuto
@@ -211,7 +211,7 @@ Si lanzas empujar al destino mientras está en funcionamiento un lanzamiento ant
 ---
 
 ### Hielo Aferrante {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/frio/" class="feat-trait">Frío</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/frio/" class="feat-trait">Frío</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Patrón:** Silencio en la nieve
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Reflejos; **Duración:** mantenido hasta 1 minuto
@@ -231,7 +231,7 @@ Aguanieve helada y una fuerte nevada se concentran en los pies y en las piernas 
 ---
 
 ### Mal de Ojo {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Patrón:** El resentimiento
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** mantenido hasta 1 minuto
@@ -241,7 +241,7 @@ El resentimiento de tu patrón se manifiesta en una mirada siniestra y envidiosa
 ---
 
 ### Palabra Salvaje {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Patrón:** Senescal de lo salvaje
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** mantenido hasta 1 minuto
@@ -259,7 +259,7 @@ La majestad de tu patrón (o su desagrado) surge como un gruñido de tu garganta
 ---
 
 ### Sudario de la Noche {% include accion.html tipo="1" %} TRUCO 1
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/rasgos/oscuridad/" class="feat-trait">Oscuridad</a><a href="/rasgos/truco/" class="feat-trait">Truco</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/maleficio/" class="feat-trait">Maleficio</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/oscuridad/" class="feat-trait">Oscuridad</a><a href="/apendices/rasgos/truco/" class="feat-trait">Truco</a></div>
 **Patrón:** Sombra sin estrellas
 **Rango:** distancia 30 pies (9 m); **Objetivos:** 1 criatura
 **Defensa:** Voluntad; **Duración:** mantenido hasta 1 minuto

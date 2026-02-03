@@ -17,7 +17,7 @@ Como justiciero, tienes dos rostros: una persona pública y una identidad secret
 
 ### Dedicación de Justiciero · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Engaño
 
@@ -31,7 +31,7 @@ Para mantener la separación entre tus identidades, algunas de tus habilidades t
 
 ### Magia oculta · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Justiciero; experto en Arcanos, Naturaleza, Ocultismo o Religión
 
@@ -39,7 +39,7 @@ Has aprendido a ocultar las auras mágicas de tu equipo. Durante tus preparativo
 
 ### Disfraz de esbirro · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Justiciero, compañero animal o familiar, experto en Engaño
 
@@ -47,7 +47,7 @@ Cuando estás en tu identidad social, también puedes otorgar una identidad soci
 
 ### Refugio seguro · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Justiciero
 
@@ -55,7 +55,7 @@ Estableces un refugio seguro: un espacio protegido en el que ocultar tus secreto
 
 ### Ámbito social · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Justiciero
 
@@ -63,7 +63,7 @@ Has construido una reputación para ti en tu identidad social. Elige un arquetip
 
 ### Aparición desconcertante · {% include accion.html tipo="1" %} · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/rasgos/mental/" class="feat-trait">Mental</a><a href="/rasgos/justiciero/" class="feat-trait">Justiciero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/justiciero/" class="feat-trait">Justiciero</a></div>
 
 **Prerrequisitos:** Dedicación de Justiciero
 
@@ -73,7 +73,7 @@ Puedes sobresaltar a enemigos que no son conscientes de tu presencia. Realiza un
 
 ### Cambio rápido · Dote 7
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Justiciero, maestro en Engaño
 
@@ -81,7 +81,7 @@ Puedes alternar entre tus identidades con facilidad. En lugar de gastar 1 minuto
 
 ### Verdad subjetiva · Dote 7
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Justiciero, maestro en Engaño
 
@@ -89,7 +89,7 @@ Tus identidades dispares te permiten vencer la magia que detecta mentiras. Mient
 
 ### Múltiples disfraces · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Justiciero, maestro en Engaño
 
@@ -99,7 +99,7 @@ Usar habilidades de clase o de dedicación termina este disfraz.
 
 ### Aparición aterradora · Dote 12
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/justiciero/" class="feat-trait">Justiciero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/justiciero/" class="feat-trait">Justiciero</a></div>
 
 **Prerrequisitos:** experto en Intimidación, Aparición desconcertante
 
@@ -107,7 +107,7 @@ Tus apariciones dramáticas pueden asustar a los espectadores. Cuando realizas u
 
 ### Aparición aturdidora · Dote 16
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/justiciero/" class="feat-trait">Justiciero</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/justiciero/" class="feat-trait">Justiciero</a></div>
 
 **Prerrequisitos:** Aparición desconcertante
 

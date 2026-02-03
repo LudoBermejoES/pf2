@@ -17,7 +17,7 @@ A menudo subestimada, tal maestría del cuerpo es útil tanto en el escenario co
 
 ### Dedicación de Acróbata · Dote 2
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
 **Prerrequisitos:** entrenado en Acrobacias
 
@@ -25,7 +25,7 @@ Te conviertes en experto en Acrobacias. Al 7.º nivel te conviertes en maestro e
 
 ### Contorsionista · Dote 4
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Acróbata
 
@@ -33,7 +33,7 @@ Puedes salir de situaciones estrechas retorciendo y doblando tu cuerpo en posici
 
 ### Esquiva evasiva · {% include accion.html tipo="libre" %} · Dote 6
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
 **Prerrequisitos:** Dedicación de Acróbata
 
@@ -45,7 +45,7 @@ Usas tu destreza acrobática para evadir un ataque, aprovechando el impulso para
 
 ### Saltador elegante · Dote 7
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
 **Prerrequisitos:** Dedicación de Acróbata, maestro en Acrobacias
 
@@ -53,7 +53,7 @@ La masa y el músculo no importan cuando te impulsas por el aire; solo importan 
 
 ### Golpe rodante · {% include accion.html tipo="1" %} · Dote 8
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/apendices/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 
 **Prerrequisitos:** Dedicación de Acróbata
 
@@ -71,7 +71,7 @@ Te zambulles hábilmente por un hueco que deja un enemigo para asestar un golpe 
 
 ### Oportunista rodante · {% include accion.html tipo="libre" %} · Dote 10
 
-<div class="feat-traits-header" markdown="0"><a href="/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/rasgos/ataque/" class="feat-trait">Ataque</a></div>
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a></div>
 
 **Prerrequisitos:** Dedicación de Acróbata
 
