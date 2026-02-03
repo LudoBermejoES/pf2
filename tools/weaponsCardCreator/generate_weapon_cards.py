@@ -332,16 +332,25 @@ def draw_description(draw, text, y, max_width, font_size=None):
 
 
 def draw_trait_descriptions(draw, trait_descriptions, y, max_width, remaining_space):
-    """Draw trait descriptions section - compact inline format"""
+    """Draw trait descriptions section - uses all available space"""
     if not trait_descriptions:
         return 0
 
     x = SAFE_ZONE + BORDER_WIDTH + 5
     width = CARD_WIDTH - (2 * SAFE_ZONE) - (2 * BORDER_WIDTH) - 10
-    padding = 10
+    padding = 8
 
-    # Font size increased by 4 points (was 14, now 18)
-    font_size = TRAIT_DESC_FONT_SIZE  # Uses the constant (20)
+    # Adjust font size based on remaining space
+    if remaining_space > 400:
+        font_size = TRAIT_DESC_FONT_SIZE
+        line_height = 22
+    elif remaining_space > 250:
+        font_size = TRAIT_DESC_FONT_SIZE - 2
+        line_height = 20
+    else:
+        font_size = TRAIT_DESC_FONT_SIZE - 4
+        line_height = 18
+
     font = get_font(font_size)
     name_font = get_font(font_size, bold=True, display=True)
 
@@ -351,10 +360,14 @@ def draw_trait_descriptions(draw, trait_descriptions, y, max_width, remaining_sp
     avg_char_width = (bbox[2] - bbox[0]) / len(test_text)
     chars_per_line = int((width - padding * 2 - 10) / avg_char_width)
 
-    line_height = 22  # Increased for larger font
+    # Calculate max lines available
+    usable_space = remaining_space - padding * 2 - 10
+    max_total_lines = int(usable_space / line_height)
 
     # Build trait lines - format: "• Name: description..."
     trait_lines = []
+    lines_used = 0
+
     for trait in trait_descriptions:
         name = trait['name']
         desc = trait['description']
@@ -362,38 +375,35 @@ def draw_trait_descriptions(draw, trait_descriptions, y, max_width, remaining_sp
         # Clean up name (remove values like "Versátil Per" -> "Versátil")
         base_name = name.split()[0] if ' ' in name else name
 
-        # Truncate description based on available space
-        max_desc_len = 80 if remaining_space > 300 else 50
-        if len(desc) > max_desc_len:
-            desc = desc[:max_desc_len-3].rsplit(' ', 1)[0] + "…"
-
-        # Format as single line or wrapped
+        # Format full text without truncation
         full_text = f"{base_name}: {desc}"
         wrapped = textwrap.wrap(full_text, width=chars_per_line)
 
-        # Limit to 2 lines per trait max
-        if len(wrapped) > 2:
-            wrapped = wrapped[:2]
-            if not wrapped[-1].endswith('…'):
-                wrapped[-1] = wrapped[-1][:-3] + "…"
+        # Calculate how many lines we can use for this trait
+        lines_remaining = max_total_lines - lines_used - (len(trait_descriptions) - len(trait_lines) - 1)
+        max_lines_for_trait = max(2, lines_remaining // max(1, len(trait_descriptions) - len(trait_lines)))
+
+        # Limit lines per trait but allow more if space permits
+        if len(wrapped) > max_lines_for_trait:
+            wrapped = wrapped[:max_lines_for_trait]
+            # Truncate last line if needed
+            if not wrapped[-1].endswith('…') and len(wrapped[-1]) > 3:
+                wrapped[-1] = wrapped[-1][:-3].rstrip() + "…"
 
         trait_lines.append(wrapped)
+        lines_used += len(wrapped) + 1  # +1 for gap between traits
+
+        # Stop if we're out of space
+        if lines_used >= max_total_lines:
+            break
 
     # Calculate total height
     total_lines = sum(len(lines) for lines in trait_lines)
     total_height = padding * 2 + total_lines * line_height + (len(trait_lines) - 1) * 4
 
-    # Check if it fits
+    # Ensure it fits
     if total_height > remaining_space - 10:
-        # Reduce further - one line per trait
-        trait_lines = []
-        for trait in trait_descriptions[:3]:  # Max 3 traits
-            name = trait['name'].split()[0]
-            desc = trait['description'][:40]
-            if len(trait['description']) > 40:
-                desc = desc.rsplit(' ', 1)[0] + "…"
-            trait_lines.append([f"{name}: {desc}"])
-        total_height = padding * 2 + len(trait_lines) * line_height
+        total_height = remaining_space - 10
 
     # Draw background
     draw.rounded_rectangle(
@@ -408,6 +418,10 @@ def draw_trait_descriptions(draw, trait_descriptions, y, max_width, remaining_sp
     current_y = y + padding
     for i, wrapped_lines in enumerate(trait_lines):
         for j, line in enumerate(wrapped_lines):
+            # Stop if we're going to overflow
+            if current_y + line_height > y + total_height - padding:
+                break
+
             text_x = x + padding
             if j == 0:
                 # First line - draw bullet
@@ -429,7 +443,7 @@ def draw_trait_descriptions(draw, trait_descriptions, y, max_width, remaining_sp
 
             current_y += line_height
 
-        current_y += 2  # Small gap between traits
+        current_y += 4  # Gap between traits
 
     return total_height + 4
 
