@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-![Carta de acción]({{ '/assets/images/acciones/prestar-ayuda.png' | relative_url }}){: .action-card-image }
+<img src="{{ '/assets/images/acciones/prestar-ayuda.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
 
 ## Prestar ayuda {% include accion.html tipo="reaccion" %}
 

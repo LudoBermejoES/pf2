@@ -8,7 +8,7 @@ nav_order: 2
 source: PC1
 ---
 
-![Carta de acción]({{ '/assets/images/acciones/descifrar-escritura.png' | relative_url }}){: .action-card-image }
+<img src="{{ '/assets/images/acciones/descifrar-escritura.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
 
 ## Descifrar Escritura (Entrenado)
 

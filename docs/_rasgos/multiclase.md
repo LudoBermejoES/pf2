@@ -1,0 +1,11 @@
+---
+layout: page
+permalink: /rasgos/multiclase/
+title: "Multiclase"
+chapter: Rasgos
+category: rasgos
+trait_type: general
+source: PC1
+---
+
+**multiplicar**

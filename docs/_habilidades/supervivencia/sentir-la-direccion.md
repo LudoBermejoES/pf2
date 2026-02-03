@@ -9,7 +9,7 @@ action_cost: 0
 source: PC1
 ---
 
-![Carta de acción]({{ '/assets/images/acciones/sentir-la-direccion.png' | relative_url }}){: .action-card-image }
+<img src="{{ '/assets/images/acciones/sentir-la-direccion.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
 

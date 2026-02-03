@@ -8,7 +8,7 @@ nav_order: 4
 source: PC1
 ---
 
-![Carta de acción]({{ '/assets/images/acciones/obtener-ingresos.png' | relative_url }}){: .action-card-image }
+<img src="{{ '/assets/images/acciones/obtener-ingresos.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
 
 ## Obtener Ingresos (Entrenado)
 
