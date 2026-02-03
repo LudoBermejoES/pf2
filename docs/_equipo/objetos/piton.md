@@ -8,4 +8,18 @@ nav_order: 41
 source: PC1
 ---
 
+**Precio** 1 pc
+
+---
+
+**Manos** 1
+
+---
+
 Estas pequeñas púas se pueden utilizar como anclajes para trepar con más facilidad. Para fijar un pitón, tienes que sostenerlo en una mano y utilizar un martillo para clavarlo con la otra. Puedes fijar una cuerda al pitón clavado para no caer al suelo si sufres un fallo crítico mientras Trepas.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

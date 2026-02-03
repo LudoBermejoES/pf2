@@ -8,4 +8,18 @@ nav_order: 26
 source: PC1
 ---
 
+**Precio** 40 po
+
+---
+
+**Manos** 1
+
+---
+
 Esta lente de calidad que se puede empuñar te concede un bonificador +1 por objeto a las pruebas de Percepción para notar detalles minúsculos de documentos, telas, etc.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

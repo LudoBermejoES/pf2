@@ -8,4 +8,18 @@ nav_order: 19
 source: PC1
 ---
 
+**Precio** 3 po
+
+---
+
+**Impedimenta** 1; **Manos** 1 o 2*
+
+---
+
 Esta colección móvil de viales y productos químicos se puede utilizar para tareas alquímicas sencillas. Si llevas puesto tu juego de herramientas de alquimista, puedes quitarlas y ponerlas como parte de la acción que las utiliza.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

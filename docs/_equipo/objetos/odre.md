@@ -8,4 +8,18 @@ nav_order: 35
 source: PC1
 ---
 
+**Precio** 5 pc
+
+---
+
+**Impedimenta** L; **Manos** 1
+
+---
+
 Cuando está lleno, un odre contiene aproximadamente la cantidad necesaria de agua de 1 día para una criatura Pequeña o Mediana.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

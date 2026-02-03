@@ -8,4 +8,18 @@ nav_order: 22
 source: PC1
 ---
 
+**Precio** 1 pp
+
+---
+
+**Impedimenta** L; **Manos** 2
+
+---
+
 Este libro contiene las fórmulas para Elaborar todos los objetos comunes de nivel 0 de este Capítulo.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

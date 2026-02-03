@@ -8,4 +8,18 @@ nav_order: 38
 source: PC1
 ---
 
+**Precio** 5 pc
+
+---
+
+**Manos** 2
+
+---
+
 El pedernal y la yesca se utilizan para encender fuego si tienes tiempo para utilizar una chispa aunque usarlos suele alargarse. Incluso en las condiciones ideales, utilizar el pedernal y la yesca para encender una llama requiere el uso de por lo menos 3 acciones, y a menudo mucho más.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

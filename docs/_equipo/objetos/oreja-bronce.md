@@ -8,4 +8,18 @@ nav_order: 36
 source: PC1
 ---
 
+**Precio** 1 po
+
+---
+
+**Manos** 1
+
+---
+
 Una oreja de bronce es un tubo corto y acampanado con un extremo lo suficientemente estrecho para introducirlo cómodamente en un oído. Cuando se usa para escuchar a través de una puerta, ventana, pared delgada o barrera similar, si la barrera incrementaría normalmente la CD de tu prueba de Percepción para oír sonidos al otro lado, sólo lo hace en la mitad de lo normal.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

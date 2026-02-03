@@ -8,4 +8,18 @@ nav_order: 39
 source: PC1
 ---
 
+**Precio** 25 po
+
+---
+
+**Impedimenta** L; **Manos** 2
+
+---
+
 Esto es un tubo de 2 pies (60 cm) de longitud con dos espejos angulados, uno en cada extremo. Cuando los espejos están correctamente alineados, puedes mirar alrededor de un obstáculo desde detrás de una cobertura. Esto no proporciona una línea de efecto suficiente para designar como objetivo a una criatura alrededor de una esquina.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

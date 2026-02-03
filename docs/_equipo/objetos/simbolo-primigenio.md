@@ -8,4 +8,18 @@ nav_order: 46
 source: PC1
 ---
 
+**Precio** 0
+
+---
+
+**Manos** 1
+
+---
+
 Los lanzadores de conjuros primigenios, especialmente los druidas, a menudo lucen adornos con materiales naturales para simbolizar su conexión con la Naturaleza.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

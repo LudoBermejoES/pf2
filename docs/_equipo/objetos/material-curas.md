@@ -8,4 +8,18 @@ nav_order: 28
 source: PC1
 ---
 
+**Precio** 5 po
+
+---
+
+**Impedimenta** 1; **Manos** 1 o 2*
+
+---
+
 Este conjunto de vendajes, hierbas y suturas es necesario para las pruebas de Medicina a fin de administrar Primeros auxilios, Tratar enfermedades, Tratar veneno o Tratar heridas. El material mejorado te proporciona un bonificador +1 por objeto a dichas pruebas.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

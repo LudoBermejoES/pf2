@@ -8,4 +8,18 @@ nav_order: 48
 source: PC1
 ---
 
+**Precio** 1 po
+
+---
+
+**Impedimenta** L; **Manos** 1
+
+---
+
 Este manuscrito contiene escrituras de una religión en particular. Algunos lanzadores de conjuros divinos pueden utilizar un texto religioso para usar ciertas aptitudes. Un texto religioso se tiene que sostener en una mano para utilizarlo.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)

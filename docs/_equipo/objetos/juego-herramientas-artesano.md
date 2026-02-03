@@ -8,4 +8,18 @@ nav_order: 20
 source: PC1
 ---
 
+**Precio** 4 po
+
+---
+
+**Impedimenta** 2; **Manos** 1 o 2*
+
+---
+
 Necesitas este juego de herramientas para crear objetos a partir de materia prima con la habilidad Artesanía. Un juego de herramientas de artesano excelentes te concede un bonificador +1 por objeto a la prueba.
+
+---
+
+## Ver también
+
+- [Lista de objetos](/equipo/objetos/)
