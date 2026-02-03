@@ -7,6 +7,7 @@ category: equipo
 nav_order: 33
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/material-pesca.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 8 pp
 

@@ -1,0 +1,4 @@
+generated_cards/
+data/
+__pycache__/
+*.pyc

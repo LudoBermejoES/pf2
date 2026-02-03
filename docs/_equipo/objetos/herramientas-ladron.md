@@ -7,6 +7,7 @@ category: equipo
 nav_order: 17
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/herramientas-ladron.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 3 po
 

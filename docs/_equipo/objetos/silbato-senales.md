@@ -7,6 +7,7 @@ category: equipo
 nav_order: 45
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/silbato-senales.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 8 pc
 

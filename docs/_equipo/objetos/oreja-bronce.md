@@ -7,6 +7,7 @@ category: equipo
 nav_order: 36
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/oreja-bronce.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 1 po
 

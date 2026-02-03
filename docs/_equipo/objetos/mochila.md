@@ -7,6 +7,7 @@ category: equipo
 nav_order: 34
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/mochila.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 1 pp
 

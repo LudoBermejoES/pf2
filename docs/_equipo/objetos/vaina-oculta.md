@@ -7,6 +7,7 @@ category: equipo
 nav_order: 50
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/vaina-oculta.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 25 po
 

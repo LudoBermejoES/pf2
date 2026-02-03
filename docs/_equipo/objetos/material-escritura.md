@@ -7,6 +7,7 @@ category: equipo
 nav_order: 32
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/material-escritura.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 1 po
 

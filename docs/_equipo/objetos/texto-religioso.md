@@ -7,6 +7,7 @@ category: equipo
 nav_order: 48
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/texto-religioso.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 1 po
 

@@ -7,6 +7,7 @@ category: equipo
 nav_order: 30
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/material-disfraz.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 2 po
 

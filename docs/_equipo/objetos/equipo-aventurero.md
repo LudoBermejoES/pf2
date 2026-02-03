@@ -7,6 +7,7 @@ category: equipo
 nav_order: 12
 source: PC1
 ---
+<img src="{{ '/assets/images/objetos/equipo-aventurero.png' | relative_url }}" class="spell-card-image" alt="Carta de objeto">
 
 **Precio** 15 pp
 
