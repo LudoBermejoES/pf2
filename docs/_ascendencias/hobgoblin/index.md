@@ -10,6 +10,8 @@ ancestry: Hobgoblin
 rarity: uncommon
 ---
 
+<img src="{{ '/assets/images/ancestries/hobgoblin.png' | relative_url }}" style="float: right; width: 250px; margin-left: 20px;" alt="Hobgoblin">
+
 Más altos y fuertes que sus parientes goblins, los hobgoblins igualan en fuerza y tamaño a los humanos, con hombros anchos y brazos largos y poderosos. El ciclo avistani de conflicto irreflexivo con los hobgoblins ha sido recientemente trastocado por Oprak, la nueva nación hobgoblin establecida en las montañas entre Nidal y Nirmathas. Ahora, bajo órdenes estrictas de no iniciar conflictos con otras naciones, estos hobgoblins han comenzado a investigar con cautela con un espíritu de cooperación más que de conquista. Muchas personas, especialmente quienes sufrieron terribles crueldades causadas por hobgoblins, temen que esto sea simplemente una pausa en la agresión mientras Oprak gana fuerza suficiente para aplastar a sus rivales. Otros esperan que estos audaces soldados puedan convertirse en poderosos aliados.
 
 ## Estadísticas
