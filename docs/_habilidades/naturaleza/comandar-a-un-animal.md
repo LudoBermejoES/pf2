@@ -9,9 +9,9 @@ action_cost: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/comandar-a-un-animal.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span></div>
+
+<img src="{{ '/assets/images/acciones/comandar-a-un-animal.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Das una orden a un animal. Haz una prueba de Naturaleza contra la CD de Voluntad del animal. El DJ podría ajustar la CD si tiene una actitud buena hacia ti, si sugieres un curso de acción hacia el que estaba predispuesto o si le ofreces una golosina.
 

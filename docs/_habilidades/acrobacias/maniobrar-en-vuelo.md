@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/maniobrar-en-vuelo.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span></div>
+
+<img src="{{ '/assets/images/acciones/maniobrar-en-vuelo.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 **Requisitos:** Tienes Velocidad de vuelo.
 

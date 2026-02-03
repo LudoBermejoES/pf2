@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/pedir-prestado-un-conjuro-arcano.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span></div>
+
+<img src="{{ '/assets/images/acciones/pedir-prestado-un-conjuro-arcano.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Si eres un lanzador de conjuros arcanos que los prepara, puedes intentar preparar uno a partir del libro de conjuros de otro, del familiar de un brujo arcano o algo similar. El DJ es quien fija la CD basándose en el rango y en la rareza del conjuro; típicamente es un poco más fácil que Aprender el conjuro (pág. 228 ([ver](/habilidades/descifrar-escritura/))).
 

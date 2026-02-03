@@ -7,7 +7,7 @@ category: reglas
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/agarrarse-a-un-saliente.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
+<img src="{{ '/assets/images/acciones/agarrarse-a-un-saliente.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 ## Agarrarse a un Saliente {% include accion.html tipo="reaccion" %}
 

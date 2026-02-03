@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/escurrirse.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploración</span><span class="feat-trait">Movimiento</span></div>
+
+<img src="{{ '/assets/images/acciones/escurrirse.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Te contorsionas para escurrirte a través de un espacio tan pequeño que apenas puedes encajar en él. Esta acción es para espacios excepcionalmente pequeños; muchos espacios estrechos son terreno difícil (pág. 423 ([ver](/reglas/movimiento/))) que puedes atravesar más rápido y sin necesitar prueba alguna.
 

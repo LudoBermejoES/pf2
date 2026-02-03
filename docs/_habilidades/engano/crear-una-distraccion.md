@@ -9,9 +9,9 @@ action_cost: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/crear-una-distraccion.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Mental</span></div>
+
+<img src="{{ '/assets/images/acciones/crear-una-distraccion.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Con un gesto, un truquillo o unas palabras engañosas, puedes crear una distracción que atrae hacia otra parte la atención de una criatura. Si utilizas un gesto o un truquillo, la acción obtiene el rasgo manipular. Si utilizas palabras distractoras, obtiene los rasgos auditivo y lingüístico.
 

@@ -9,9 +9,9 @@ action_cost: 0
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/sentir-la-direccion.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
+
+<img src="{{ '/assets/images/acciones/sentir-la-direccion.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Utilizando las estrellas, la posición del sol, los rasgos de la geografía o de la flora o el comportamiento de la fauna, puedes permanecer orientado en las tierras vírgenes. Típicamente, haces una prueba de Supervivencia sólo una vez al día, pero algunos entornos o cambios podrían requerir alguna tirada más a menudo. Es el DJ quien determina la CD y lo que dura esta actividad (por lo general, tan sólo un minuto).
 

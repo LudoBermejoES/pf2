@@ -8,8 +8,6 @@ nav_order: 6
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/subsistir.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 ## Subsistir (No Entrenado)
 
 **Habilidades:**
@@ -21,6 +19,8 @@ Si necesitas proveerte de comida y cobijo, puedes utilizar la actividad de tiemp
 ### Subsistir
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
+
+<img src="{{ '/assets/images/acciones/subsistir.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Tratas de proporcionarte a ti mismo comida y cobijo, y posiblemente también a otros, con un nivel de vida descrito en las reglas de equipo. El DJ es quien determina la CD basándose en la naturaleza del lugar en el que tratas de Subsistir. Podrías necesitar un rango de competencia mínimo para Subsistir en entornos particularmente extraños. A diferencia de la mayoría de las actividades de tiempo libre, puedes Subsistir después de 8 horas o menos de exploración, pero si lo haces sufres un penalizador -5.
 

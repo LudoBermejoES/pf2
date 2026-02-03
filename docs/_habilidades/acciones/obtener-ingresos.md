@@ -8,8 +8,6 @@ nav_order: 4
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/obtener-ingresos.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 ## Obtener Ingresos (Entrenado)
 
 **Habilidades:**
@@ -28,6 +26,8 @@ En algunos casos, el DJ te podría permitir el uso de una habilidad diferente pa
 ### Obtener Ingresos
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Tiempo Libre</span></div>
+
+<img src="{{ '/assets/images/acciones/obtener-ingresos.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Utilizas una de tus habilidades para ganar dinero durante tu tiempo libre. El DJ asigna un nivel de tarea que representa el trabajo más lucrativo disponible. Puedes buscar tareas de nivel inferior, y el DJ determinará si las encuentras o no.
 

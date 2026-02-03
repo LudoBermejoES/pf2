@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/cubrir-rastro.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Movimiento</span></div>
+
+<img src="{{ '/assets/images/acciones/cubrir-rastro.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Cubres tus huellas, moviéndote hasta la mitad de tu Velocidad de viaje. No tienes que hacer una prueba de Supervivencia para cubrir tu rastro, pero cualquiera que te rastrea ha de tener éxito en una prueba de Supervivencia contra tu CD de Supervivencia si es superior a la CD normal para Rastrear.
 

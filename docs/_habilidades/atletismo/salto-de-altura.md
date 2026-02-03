@@ -9,7 +9,7 @@ action_cost: 2
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/salto-de-altura.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
+<img src="{{ '/assets/images/acciones/salto-de-altura.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Das una Zancada y después haces una prueba de Atletismo CD 30 para saltar en vertical. Si tu Zancada no es de por lo menos 10 pies (3 m), fallas automáticamente. Esta CD podrá aumentar o disminuir debido a la situación, a discreción del DJ.
 

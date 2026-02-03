@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/desarmar.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Ataque</span></div>
+
+<img src="{{ '/assets/images/acciones/desarmar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 **Requisitos:** Tienes por lo menos una mano libre. El objetivo no puede ser más de una categoría de tamaño mayor que tú.
 

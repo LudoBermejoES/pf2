@@ -9,9 +9,9 @@ action_cost: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/nadar.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span></div>
+
+<img src="{{ '/assets/images/acciones/nadar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Haces una prueba de Atletismo para moverte una distancia máxima de 10 pies (3 m) a través del agua. El DJ es quien determina la CD, basada en la turbulencia o el peligro de las aguas; en la mayoría de casos de aguas en calma, obtienes un éxito crítico automático. Si tu Velocidad terrestre es 40 pies (12 m) o mayor, incrementa la distancia máxima posible en 5 pies (1,5 m) por cada 20 pies (6 m) de Velocidad por encima de 20 pies (6 m).
 

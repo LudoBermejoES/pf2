@@ -9,9 +9,9 @@ action_cost: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/movimiento-furtivo.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span><span class="feat-trait">Secreto</span></div>
+
+<img src="{{ '/assets/images/acciones/movimiento-furtivo.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Tratas de mover a otro sitio mientras sigues estando no detectado o pasas a dicho estado. Da una Zancada hasta la mitad de tu Velocidad (puedes utilizar movimiento furtivo mientras Excavas, Trepas, Vuelas o Nadas en lugar de dar una Zancada si dispones del correspondiente tipo de movimiento; debes mover a la mitad de dicha Velocidad).
 

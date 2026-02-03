@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/inutilizar-un-mecanismo.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Manipular</span></div>
+
+<img src="{{ '/assets/images/acciones/inutilizar-un-mecanismo.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Esta acción te permite desactivar una trampa u otro artilugio complejo. A menudo, un artilugio requiere numerosos éxitos antes de quedar desactivado, dependiendo de su construcción y de su complejidad. Para estas cosas, va muy bien un juego de herramientas de ladrón, y a veces incluso es de uso obligado para Inutilizar un mecanismo, a criterio del DJ; otras veces, un artilugio requiere un rango de competencia mayor en Latrocinio para desactivarlo.
 

@@ -8,8 +8,6 @@ nav_order: 2
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/descifrar-escritura.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 ## Descifrar Escritura (Entrenado)
 
 **Habilidades:**
@@ -27,6 +25,8 @@ Las habilidades utilizadas para esta acción y los tipos de textos que suelen de
 ### Descifrar Escritura
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
+
+<img src="{{ '/assets/images/acciones/descifrar-escritura.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Tratas de descifrar una escritura o literatura complicada sobre un tema oscuro. Esto suele requerir 1 minuto por página de texto, pero podría durar más (típicamente una hora por página para desencriptar mensajes cifrados o cosas parecidas). El texto tendrá que estar en un idioma que sepas leer, aunque el DJ te podría permitir intentos de descifrar textos escritos en un idioma poco familiar utilizando Sociedad en su lugar.
 

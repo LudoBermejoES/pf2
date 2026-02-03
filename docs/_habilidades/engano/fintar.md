@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/fintar.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Mental</span></div>
+
+<img src="{{ '/assets/images/acciones/fintar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 **Requisitos:** Estás a alcance de cuerpo a cuerpo del oponente al que quieres Fintar.
 

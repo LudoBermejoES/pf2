@@ -8,8 +8,6 @@ nav_order: 5
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/recordar-conocimiento.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 ## Recordar Conocimiento (No Entrenado)
 
 **Habilidades:**
@@ -23,6 +21,8 @@ Podrías conocer información básica acerca de algo sin ni siquiera tener que h
 ### Recordar Conocimiento {% include accion.html tipo="1" %}
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Secreto</span></div>
+
+<img src="{{ '/assets/images/acciones/recordar-conocimiento.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Haces una prueba de habilidad para intentar recordar un fragmento de conocimiento sobre un tema relacionado con dicha habilidad. Sugiere qué habilidad querrías usar y formula una pregunta al DJ. El DJ es quien determina la CD. Podrías tener que colaborar con él para estrechar la pregunta o las habilidades, y podrías decidir no Recordar conocimiento antes de decidirte por la acción si no te gustan tus opciones.
 

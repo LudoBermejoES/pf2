@@ -9,9 +9,9 @@ action_cost: 0
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/obligar.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Auditivo</span><span class="feat-trait">Concentrar</span><span class="feat-trait">Emoción</span><span class="feat-trait">Exploración</span><span class="feat-trait">Lingüístico</span><span class="feat-trait">Mental</span></div>
+
+<img src="{{ '/assets/images/acciones/obligar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Con amenazas veladas o directas, tratas de obligar a una criatura a que haga lo que tú quieres. Debes invertir por lo menos 1 minuto conversando con la criatura. Al final de la conversación, haz una prueba de Intimidación contra la CD de Voluntad del objetivo, modificada por cualquier circunstancia que el DJ determine.
 

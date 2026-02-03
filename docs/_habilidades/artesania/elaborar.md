@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/elaborar.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Manipular</span><span class="feat-trait">Tiempo libre</span></div>
+
+<img src="{{ '/assets/images/acciones/elaborar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Puedes elaborar un objeto a partir de materias primas. Necesitas la dote de habilidad Artesanía alquímica para elaborar sustancias alquímicas y la dote de habilidad Artesanía mágica para fabricar objetos mágicos.
 

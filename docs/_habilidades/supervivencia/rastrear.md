@@ -10,9 +10,9 @@ trained: true
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/rastrear.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Movimiento</span></div>
+
+<img src="{{ '/assets/images/acciones/rastrear.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Sigues rastros, moviéndote hasta la mitad de tu Velocidad de viaje. Tras una prueba con éxito de Rastrear, puedes continuar siguiendo el rastro a la mitad de tu Velocidad sin hacer pruebas adicionales durante hasta 1 hora.
 

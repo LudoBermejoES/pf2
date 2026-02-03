@@ -9,9 +9,9 @@ action_cost: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/pasar-haciendo-acrobacias.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Movimiento</span></div>
+
+<img src="{{ '/assets/images/acciones/pasar-haciendo-acrobacias.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Das una Zancada hasta tu Velocidad. Durante este movimiento, puedes intentar atravesar el espacio de un enemigo. Haz una prueba de Acrobacias contra la CD de Reflejos de tu enemigo en cuanto vayas a entrar en su espacio. Puedes Pasar haciendo acrobacias utilizando Trepar, Volar, Nadar u otra acción en lugar de Zancada en el entorno apropiado.
 

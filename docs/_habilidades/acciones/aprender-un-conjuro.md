@@ -8,8 +8,6 @@ nav_order: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/aprender-un-conjuro.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 ## Aprender un Conjuro (Entrenado)
 
 **Habilidades:**
@@ -21,6 +19,8 @@ Si eres un lanzador de conjuros, puedes utilizar la habilidad correspondiente a 
 ### Aprender un Conjuro
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span></div>
+
+<img src="{{ '/assets/images/acciones/aprender-un-conjuro.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 **Requisitos:**
 

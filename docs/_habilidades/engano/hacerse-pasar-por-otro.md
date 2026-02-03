@@ -9,9 +9,9 @@ action_cost: 0
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/hacerse-pasar-por-otro.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Manipular</span><span class="feat-trait">Secreto</span></div>
+
+<img src="{{ '/assets/images/acciones/hacerse-pasar-por-otro.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Creas un disfraz para hacerte pasar por alguien o algo que no eres. Preparar un disfraz convincente cuesta 10 minutos y requiere material de disfraz, pero un disfraz más sencillo y rápido podría bastar si no tratas de imitar a un individuo específico, a discreción del DJ.
 

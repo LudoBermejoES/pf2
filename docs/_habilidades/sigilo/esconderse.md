@@ -9,9 +9,9 @@ action_cost: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/esconderse.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Secreto</span></div>
+
+<img src="{{ '/assets/images/acciones/esconderse.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Te acurrucas tras una cobertura, una cobertura mayor u obtienes ocultamiento para quedar escondido, a fin de no seguir siendo observado. El DJ hace en secreto tu prueba de Sigilo y compara el resultado con la CD de Percepción de cada criatura de las que te están observando pero contra las que dispones de cobertura, cobertura mayor o estás oculto. Obtienes un bonificador +2 por circunstancia a la prueba si dispones de cobertura estándar (o +4 si dispones de cobertura mayor).
 

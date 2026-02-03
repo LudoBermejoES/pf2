@@ -9,9 +9,9 @@ action_cost: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/abrir-por-la-fuerza.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Ataque</span></div>
+
+<img src="{{ '/assets/images/acciones/abrir-por-la-fuerza.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Utilizando tu cuerpo, una palanca o alguna otra herramienta, tratas de abrir por la fuerza una puerta, ventana, recipiente o portón. Con un resultado lo suficientemente alto, puedes incluso atravesar paredes. Sin una palanqueta, la prueba de Atletismo para Abrir por la fuerza sufre un penalizador -2 por objeto.
 

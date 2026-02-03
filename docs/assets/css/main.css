@@ -1685,3 +1685,11 @@ th .accion {
   gap: 0.25em;
   align-items: center;
 }
+
+/* Carta de acción flotante */
+.action-card-image {
+  float: right;
+  width: 300px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}

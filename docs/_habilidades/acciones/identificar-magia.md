@@ -8,8 +8,6 @@ nav_order: 3
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/identificar-magia.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 ## Identificar Magia (Entrenado)
 
 **Habilidades:**
@@ -21,6 +19,8 @@ Utilizando la habilidad relacionada con la tradición mágica apropiada, puedes 
 ### Identificar Magia
 
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span><span class="feat-trait">Exploración</span><span class="feat-trait">Secreto</span></div>
+
+<img src="{{ '/assets/images/acciones/identificar-magia.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Una vez descubres que un objeto, lugar o efecto continuado es mágico, puedes invertir 10 minutos en identificar los detalles de su magia. Si tu intento se ve interrumpido, tienes que empezar de nuevo. El DJ es quien fija la CD para tu prueba. Los objetos mágicos o esotéricos malditos suelen tener una CD mayor o podrían ser incluso imposibles de identificar utilizando tan solo esta actividad. Potenciar un conjuro no incrementa la CD para identificarlo.
 

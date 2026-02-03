@@ -9,9 +9,9 @@ action_cost: 1
 source: PC1
 ---
 
-<img src="{{ '/assets/images/acciones/interpretar.png' | relative_url }}" style="float: right; width: 150px; margin-left: 15px; margin-bottom: 10px;" alt="Carta de acción">
-
 <div class="feat-traits-header" markdown="0"><span class="feat-trait">Concentrar</span></div>
+
+<img src="{{ '/assets/images/acciones/interpretar.png' | relative_url }}" class="action-card-image" alt="Carta de acción">
 
 Cuando llevas a cabo una interpretación breve (una canción, un baile rápido o unos cuantos chistes) utilizas la acción Interpretar. Esta acción es especialmente útil cuando quieres demostrar tu capacidad o impresionar rápidamente a alguien. Interpretar raramente tiene impacto por sí sola, pero podría influir en las CD de las pruebas de Diplomacia subsiguientes contra quienes observan o incluso cambiar sus actitudes si el DJ lo cree conveniente.
 
