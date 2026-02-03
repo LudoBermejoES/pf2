@@ -30,15 +30,15 @@ LABEL_FONT_SIZE = 16
 SMALL_FONT_SIZE = 14
 TRAIT_DESC_FONT_SIZE = 20
 
-# Colors - armor themed (blue/steel)
+# Colors - armor themed (blue/steel) with weapon-style traits
 COLOR_BG = (250, 250, 255)
 COLOR_BORDER = (70, 90, 120)  # Steel blue for armor
 COLOR_BORDER_HEAVY = (50, 60, 80)  # Darker for heavy armor
 COLOR_BORDER_LIGHT = (100, 130, 160)  # Lighter for light armor
 COLOR_TITLE = (30, 40, 60)
 COLOR_TEXT = (40, 40, 50)
-COLOR_TRAIT_BG = (70, 90, 120)
-COLOR_TRAIT_TEXT = (255, 255, 255)
+COLOR_TRAIT_BG = (93, 48, 48)           # Darker red for traits (like weapons)
+COLOR_TRAIT_TEXT = (218, 165, 32)       # Gold text on traits (like weapons)
 COLOR_SEPARATOR = (180, 190, 200)
 COLOR_STAT_BG = (240, 242, 248)
 COLOR_LABEL = (60, 80, 110)
@@ -272,12 +272,16 @@ def draw_description(draw, text, y, max_width, font_size=None):
     font = get_font(font_size)
     x = SAFE_ZONE + BORDER_WIDTH + 10
 
-    # Calculate available width
+    # Calculate available width in pixels
     available_width = CARD_WIDTH - (2 * SAFE_ZONE) - (2 * BORDER_WIDTH) - 20
 
-    # Wrap text
-    avg_char_width = font_size * 0.5
-    chars_per_line = int(available_width / avg_char_width)
+    # Use a more representative test string for Spanish text
+    test_text = "Este tipo de armadura es una cota de malla"
+    bbox = draw.textbbox((0, 0), test_text, font=font)
+    test_width = bbox[2] - bbox[0]
+    chars_per_line = int((available_width / test_width) * len(test_text))
+
+    # Wrap text properly
     wrapped = textwrap.wrap(text, width=chars_per_line)
 
     # Draw each line

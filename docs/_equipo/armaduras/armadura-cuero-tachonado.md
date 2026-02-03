@@ -14,7 +14,7 @@ source: PC1
 
 ---
 
-**Bon. CA** +2; **Tope Des.** +3; **Pen. pruebas** -1; **Fuerza** +1; **Impedimenta** 1; **Grupo** [Cuero](/equipo/armaduras/armadura-cuero/); **Categoría** Armadura ligera
+**Bon. CA** +2; **Tope Des.** +3; **Pen. pruebas** -1; **Fuerza** +1; **Impedimenta** 1; **Grupo** Cuero; **Categoría** Armadura ligera
 
 ---
 

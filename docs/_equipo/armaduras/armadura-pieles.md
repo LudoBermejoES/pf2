@@ -14,7 +14,7 @@ source: PC1
 
 ---
 
-**Bon. CA** +3; **Tope Des.** +2; **Pen. pruebas** -2; **Pen. Velocidad** -5 pies (1,5 m); **Fuerza** +2; **Impedimenta** 2; **Grupo** [Cuero](/equipo/armaduras/armadura-cuero/); **Categoría** Armadura intermedia
+**Bon. CA** +3; **Tope Des.** +2; **Pen. pruebas** -2; **Pen. Velocidad** -5 pies (1,5 m); **Fuerza** +2; **Impedimenta** 2; **Grupo** Cuero; **Categoría** Armadura intermedia
 
 ---
 
