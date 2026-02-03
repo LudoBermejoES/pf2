@@ -265,7 +265,7 @@ Golpeas cuando tu enemigo intenta huir. Haz un Golpe cuerpo a cuerpo contra la c
 
 **Prerrequisitos** Armamento Monastico
 
-Tu riguroso regimen de entrenamiento te permite empunar armas complejas con facilidad. Para propositos de competencia, tratas las armas de monje avanzadas como si fueran armas de monje marciales.
+Tu riguroso regimen de entrenamiento te permite empuñar armas complejas con facilidad. Para propositos de competencia, tratas las armas de monje avanzadas como si fueran armas de monje marciales.
 
 ---
 
@@ -492,7 +492,7 @@ Arrancas misiles del aire y los lanzas de vuelta a su origen. Cuando desvias con
 
 ---
 
-### Postura del Bosque Enmaranado {% include accion.html tipo="1" %}
+### Postura del Bosque Enmarañado {% include accion.html tipo="1" %}
 **Dote 8**
 
 *Monje, Postura*
@@ -501,7 +501,7 @@ Arrancas misiles del aire y los lanzas de vuelta a su origen. Cuando desvias con
 
 Extiendes tus brazos como ramas nudosas para interferir con los movimientos de tus enemigos. Puedes hacer ataques de rama azotadora. Estos infligen 1d8 de dano cortante; estan en el grupo de pelea callejera; y tienen los rasgos agil, sutil, no letal y desarmado.
 
-Mientras estas en Postura del Bosque Enmaranado y puedes actuar, cada enemigo en tu alcance que intente alejarse de ti debe tener exito en una salvacion de Reflejos, prueba de Acrobacia o prueba de Atletismo contra tu CD de clase o quedar inmovilizado para esa accion. Si lo prefieres, puedes permitir que el enemigo se mueva.
+Mientras estas en Postura del Bosque Enmarañado y puedes actuar, cada enemigo en tu alcance que intente alejarse de ti debe tener exito en una salvacion de Reflejos, prueba de Acrobacia o prueba de Atletismo contra tu CD de clase o quedar inmovilizado para esa accion. Si lo prefieres, puedes permitir que el enemigo se mueva.
 
 ---
 
@@ -745,14 +745,14 @@ Puedes lanzar una ola de qi sombrio hacia afuera desde tu cuerpo, danando a tus 
 
 ---
 
-### Rastrillada del Bosque Enmaranado {% include accion.html tipo="1" %}
+### Rastrillada del Bosque Enmarañado {% include accion.html tipo="1" %}
 **Dote 14**
 
 *Monje*
 
-**Prerrequisitos** Postura del Bosque Enmaranado
+**Prerrequisitos** Postura del Bosque Enmarañado
 
-**Requisitos** Estas en Postura del Bosque Enmaranado.
+**Requisitos** Estas en Postura del Bosque Enmarañado.
 
 Reposicionas a los enemigos con ataques rastrillantes. Haz un Golpe de rama azotadora. Si impactas e infliges dano, puedes Reposicionar al objetivo hasta 3 m. Puedes mover al objetivo a traves de tu espacio durante este movimiento.
 
@@ -765,7 +765,7 @@ Reposicionas a los enemigos con ataques rastrillantes. Haz un Golpe de rama azot
 
 **Prerrequisitos** Armamento Monastico
 
-Entras en una postura consciente que crea una conexion profunda entre tu y tus armas de monje, permitiendote manipularlas con tu qi, incluso a distancia. Todas las armas de monje cuerpo a cuerpo que empunes con el rasgo sutil obtienen el rasgo arrojadizo 3 m (a menos que ya tengan el rasgo arrojadizo con un alcance mayor).
+Entras en una postura consciente que crea una conexion profunda entre tu y tus armas de monje, permitiendote manipularlas con tu qi, incluso a distancia. Todas las armas de monje cuerpo a cuerpo que empuñes con el rasgo sutil obtienen el rasgo arrojadizo 3 m (a menos que ya tengan el rasgo arrojadizo con un alcance mayor).
 
 Una vez que hayas hecho un Golpe arrojadizo con tal arma, puedes usar la precision de tu lanzamiento para hacer Golpes adicionales con ella, incluso desde la distancia. Comienza desde el espacio del objetivo del Golpe anterior para determinar el incremento de alcance y si el nuevo objetivo tiene cobertura. Al final de tu turno, el arma arrojada vuela directamente de vuelta a ti en linea recta. Si una barrera solida bloquea su camino, cae al suelo despues de golpear la barrera.
 

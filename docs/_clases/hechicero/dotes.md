@@ -49,11 +49,11 @@ Puedes extender el alcance de tus conjuros. Si la siguiente accion que usas es L
 
 **Requisitos:** Te estas beneficiando de un efecto de magia de sangre.
 
-El poder en tu sangre te permite realizar hazanas menores de magia. Puedes realizar una de las siguientes acciones dependiendo de la tradicion de tu linaje.
+El poder en tu sangre te permite realizar hazañas menores de magia. Puedes realizar una de las siguientes acciones dependiendo de la tradicion de tu linaje.
 
 - **Arcano:** Tu mente se abre temporalmente a los secretos del mundo. Intenta Recordar Conocimiento; puedes usar Arcanos en lugar de la habilidad normalmente necesaria para ese tema. Si fallas criticamente esta prueba, obtienes un fallo en su lugar.
 - **Divino:** Cualquier procedencia divina en tu linaje te guia para moverte instintivamente a ti o a otros fuera del peligro. Das un Paso, o Reposicionas a un objetivo dentro de tu alcance usando Religion para la prueba.
-- **Oculto:** Extranas nieblas o colores arremolinados ocultan tu movimiento. Das un Paso de hasta 3 metros.
+- **Oculto:** Extrañas nieblas o colores arremolinados ocultan tu movimiento. Das un Paso de hasta 3 metros.
 - **Primigenio:** El inmenso poder de la naturaleza resuena en tu voz. Puedes intentar una prueba de Naturaleza para Desmoralizar a un objetivo.
 
 ---
@@ -138,7 +138,7 @@ Tu legado arcano te permite percibir como la magia afecta todo. Te vuelves entre
 
 **Requisitos:** Tu accion mas reciente fue lanzar un conjuro no trucos.
 
-Sifones energia de conjuro en un arma que estes empunando o en uno de tus ataques desarmados, como un puno. Hasta el final de tu turno, el arma o ataque desarmado inflige 1d6 de dano de fuerza extra y obtiene el rasgo de la tradicion magica de tu linaje si no lo tenia ya. Si el conjuro infligio un tipo diferente de dano, el Golpe inflige este tipo de dano en su lugar (o un tipo de tu eleccion si el conjuro podia infligir multiples tipos de dano).
+Sifones energia de conjuro en un arma que estes empuñando o en uno de tus ataques desarmados, como un puno. Hasta el final de tu turno, el arma o ataque desarmado inflige 1d6 de dano de fuerza extra y obtiene el rasgo de la tradicion magica de tu linaje si no lo tenia ya. Si el conjuro infligio un tipo diferente de dano, el Golpe inflige este tipo de dano en su lugar (o un tipo de tu eleccion si el conjuro podia infligir multiples tipos de dano).
 
 ---
 
@@ -158,7 +158,7 @@ El poder divino proporcionado por tu linaje fluye a traves de ti. Obtienes un es
 
 **Prerrequisitos:** linaje que otorga conjuros ocultos
 
-Extraes poder de los secretos oscuros del universo. Te vuelves entrenado en una habilidad de tu eleccion. Adicionalmente, una vez al dia, puedes gastar 1 minuto para elegir un conjuro oculto mental que no conozcas y anadirlo a tu repertorio de conjuros. Pierdes este conjuro temporal la proxima vez que hagas tus preparativos diarios (aunque puedes usar esta habilidad para anadirlo de nuevo mas tarde).
+Extraes poder de los secretos oscuros del universo. Te vuelves entrenado en una habilidad de tu eleccion. Adicionalmente, una vez al dia, puedes gastar 1 minuto para elegir un conjuro oculto mental que no conozcas y añadirlo a tu repertorio de conjuros. Pierdes este conjuro temporal la proxima vez que hagas tus preparativos diarios (aunque puedes usar esta habilidad para añadirlo de nuevo mas tarde).
 
 ---
 
@@ -258,7 +258,7 @@ Tu sangre magica te hace mas resistente a la magia. Obtienes una bonificacion de
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
-Interacciones extranas en tu linaje te proporcionan efectos inesperados. Elige otro linaje. Conoces el efecto de magia de sangre de ese linaje. Si el efecto de magia de sangre tiene un efecto variable basado en una eleccion que habrias hecho en el nivel 1 (como la influencia elemental del linaje elemental), tomas esa decision cuando eliges esta dote.
+Interacciones extrañas en tu linaje te proporcionan efectos inesperados. Elige otro linaje. Conoces el efecto de magia de sangre de ese linaje. Si el efecto de magia de sangre tiene un efecto variable basado en una eleccion que habrias hecho en el nivel 1 (como la influencia elemental del linaje elemental), tomas esa decision cuando eliges esta dote.
 
 ---
 

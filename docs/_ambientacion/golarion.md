@@ -153,7 +153,7 @@ Esta region incluye Brevoy, una nación antaño unida por un conquistador montad
 
 **Ejemplos de personaje:**
 - Un matador de demonios con heridas de guerra, veterano de una cruzada contra las Fisuras Exteriores que duro mas de cien anos.
-- Un barbaro que empuna una espada de otro mundo, un trofeo tecnologico mas alla de su comprensión.
+- Un barbaro que empuña una espada de otro mundo, un trofeo tecnologico mas alla de su comprensión.
 - Un llamador de dioses, que convoca a uno de los antiguos dioses sarkorianos en forma encarnada para que recorra la tierra a su lado.
 - Un androide disfrazado, surgido de una nave espacial caída, y con la mision de encontrar su camino en un mundo que no le entiende.
 - Un aspirante a rey, determinado a forjar una nación a partir de las tierras virgenes; y, si tiene mucha suerte, a conservarla.

@@ -15,7 +15,7 @@ Antes de su ascension y de heredar muchos adoradores del dios de la humanidad, I
 
 - **Areas de interes:** gobierno, honor, justicia y valor
 - **Edictos:** albergar valor en el corazón, ejercer la templanza, luchar por la justicia y el honor
-- **Anatemas:** abandonar a un companero que te necesita, deshonrarte a ti mismo, rehusar un desafio de un igual
+- **Anatemas:** abandonar a un compañero que te necesita, deshonrarte a ti mismo, rehusar un desafio de un igual
 - **Atributo divino:** Fuerza o Constitución
 
 **Beneficios para los devotos:**

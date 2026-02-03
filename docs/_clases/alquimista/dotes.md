@@ -101,7 +101,7 @@ Reunes suficientes ingredientes de lo que queda en tu juego de herramientas de a
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
-Puedes anadir un aditivo toxico a un veneno alquimico para hacer que salpique veneno sobre su objetivo. Un veneno con este aditivo causa una cantidad de dano de veneno igual al nivel del veneno si el objetivo tiene exito en su tirada de salvacion inicial contra el. Un objetivo que tiene un exito critico en su tirada de salvacion contra este veneno aun no recibe dano.
+Puedes añadir un aditivo toxico a un veneno alquimico para hacer que salpique veneno sobre su objetivo. Un veneno con este aditivo causa una cantidad de dano de veneno igual al nivel del veneno si el objetivo tiene exito en su tirada de salvacion inicial contra el. Un objetivo que tiene un exito critico en su tirada de salvacion contra este veneno aun no recibe dano.
 
 ---
 
@@ -119,7 +119,7 @@ Metabolizas un mutageno para curarte. Recuperas 1d6 Puntos de Golpe por cada 2 n
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
-Puedes anadir un aditivo alquitranado a una bomba alquimica para hacer que emita humo. Cuando se lanza, ademas de sus efectos normales, la bomba crea una nube de humo en una explosion de 3 metros. Eliges desde que esquina del espacio del objetivo (o el espacio en el que cae la bomba) se centra la nube. Las criaturas dentro de esa area tienen la condicion oculto, y todas las demas criaturas estan ocultas para ellas. El humo dura 1 minuto o hasta que sea dispersado por un viento fuerte.
+Puedes añadir un aditivo alquitranado a una bomba alquimica para hacer que emita humo. Cuando se lanza, ademas de sus efectos normales, la bomba crea una nube de humo en una explosion de 3 metros. Eliges desde que esquina del espacio del objetivo (o el espacio en el que cae la bomba) se centra la nube. Las criaturas dentro de esa area tienen la condicion oculto, y todas las demas criaturas estan ocultas para ellas. El humo dura 1 minuto o hasta que sea dispersado por un viento fuerte.
 
 ---
 
@@ -147,7 +147,7 @@ Has aprendido como hacer que tu energia personal dure un poco mas cuando prepara
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
-Puedes anadir un catalizador espumoso a un elixir de vida para convertirlo en un proyectil topico. Puedes lanzar el elixir como si fuera una bomba alquimica, con los siguientes resultados.
+Puedes añadir un catalizador espumoso a un elixir de vida para convertirlo en un proyectil topico. Puedes lanzar el elixir como si fuera una bomba alquimica, con los siguientes resultados.
 
 **Exito** El objetivo es afectado como si hubiera bebido el elixir, y cada criatura viviente adyacente a el recupera PG de la bomba iguales al numero de dados de dano del elixir (3 PG para un elixir de vida menor, por ejemplo).
 
@@ -189,7 +189,7 @@ Tus victimas tienden a expirar mucho antes que tus venenos, ya que estos ultimos
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
-Puedes anadir los ingredientes completos de un segundo elixir a un elixir que hagas para crear un brebaje hibrido. Debes gastar un vial versatil adicional para hacer este elixir combinado, y los ingredientes deben ser para un elixir que pudieras crear con Alquimia Rapida. Cuando este elixir de combinacion es consumido, ambos elixires constituyentes surten efecto. Por ejemplo, puedes combinar dos elixires de vida menores para crear un elixir combinado que cura el doble de la cantidad normal, o puedes combinar un elixir de vision en la oscuridad menor con un elixir de ojo de aguila menor para obtener vision en la oscuridad y encontrar puertas secretas.
+Puedes añadir los ingredientes completos de un segundo elixir a un elixir que hagas para crear un brebaje hibrido. Debes gastar un vial versatil adicional para hacer este elixir combinado, y los ingredientes deben ser para un elixir que pudieras crear con Alquimia Rapida. Cuando este elixir de combinacion es consumido, ambos elixires constituyentes surten efecto. Por ejemplo, puedes combinar dos elixires de vida menores para crear un elixir combinado que cura el doble de la cantidad normal, o puedes combinar un elixir de vision en la oscuridad menor con un elixir de ojo de aguila menor para obtener vision en la oscuridad y encontrar puertas secretas.
 
 ---
 
@@ -197,7 +197,7 @@ Puedes anadir los ingredientes completos de un segundo elixir a un elixir que ha
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
-Puedes anadir un aditivo cristalino a una bomba alquimica para que debilite a tu enemigo. Elige deslumbrado, ensordecido, desprevenido, o una penalizacion de estado de -1,5 metros a las Velocidades. Si el ataque con la bomba golpea, ademas de los efectos normales de la bomba, el objetivo debe tener exito en una tirada de salvacion de Fortaleza o sufrir ese efecto hasta el inicio de tu siguiente turno. Usa tu CD de clase para esta tirada de salvacion, incluso si otra persona lanza la bomba.
+Puedes añadir un aditivo cristalino a una bomba alquimica para que debilite a tu enemigo. Elige deslumbrado, ensordecido, desprevenido, o una penalizacion de estado de -1,5 metros a las Velocidades. Si el ataque con la bomba golpea, ademas de los efectos normales de la bomba, el objetivo debe tener exito en una tirada de salvacion de Fortaleza o sufrir ese efecto hasta el inicio de tu siguiente turno. Usa tu CD de clase para esta tirada de salvacion, incluso si otra persona lanza la bomba.
 
 ---
 
@@ -257,7 +257,7 @@ Elige vigorizacion fisica o vigorizacion mental, y anade las condiciones listada
 
 Los mutagenos basicos que afectan tu forma fisica pueden sacar la bestia interior, volverte casi invencible, o hacer tu cuerpo mas elastico. Mientras estas afectado por uno de los mutagenos listados, obtienes un beneficio adicional.
 
-- **Mutageno Bestial** Obtienes el bonificador de objeto del mutageno a tus pruebas de Intimidacion. Ademas, aumentas el tamano del dado de dano de tus garras y fauces en un paso, y obtienen el rasgo letal d10.
+- **Mutageno Bestial** Obtienes el bonificador de objeto del mutageno a tus pruebas de Intimidacion. Ademas, aumentas el tamaño del dado de dano de tus garras y fauces en un paso, y obtienen el rasgo letal d10.
 - **Mutageno de Titan** Obtienes resistencia a todo el dano fisico igual a la mitad de tu nivel.
 - **Mutageno Azogue** Puedes estirar tus piernas y Dar un Paso hasta 3 metros, y puedes aplastar y comprimir tu cuerpo, permitiendote pasar a traves de espacios estrechos como si fueras una talla mas pequeno, ademas de cualquier efecto de Escurrirse.
 
@@ -315,7 +315,7 @@ Has aprendido tecnicas mejoradas y secretos alquimicos que te permiten expandir 
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
-Puedes mezclar un liquido maravilloso pero volatil en un consumible alquimico si tiene un efecto inicial que usa dados. Aumentas el tamano de cualquier dado para el efecto inicial del objeto en un paso. Por ejemplo, podrias aumentar el dano de un fuego de alquimista moderado a 2d10 o la curacion de un elixir de vida moderado a 5d8+12. Debido a que esto afecta solo los dados iniciales, no aumentaria el dano de ataques desarmados de un mutageno bestial, el dano persistente de un frasco de acido, y similares. Cuando este objeto es activado, la criatura que lo activa debe tener exito en una prueba simple de CD 10 o recibir dano de acido igual al nivel del objeto.
+Puedes mezclar un liquido maravilloso pero volatil en un consumible alquimico si tiene un efecto inicial que usa dados. Aumentas el tamaño de cualquier dado para el efecto inicial del objeto en un paso. Por ejemplo, podrias aumentar el dano de un fuego de alquimista moderado a 2d10 o la curacion de un elixir de vida moderado a 5d8+12. Debido a que esto afecta solo los dados iniciales, no aumentaria el dano de ataques desarmados de un mutageno bestial, el dano persistente de un frasco de acido, y similares. Cuando este objeto es activado, la criatura que lo activa debe tener exito en una prueba simple de CD 10 o recibir dano de acido igual al nivel del objeto.
 
 ---
 
@@ -463,6 +463,6 @@ Tu investigacion ha dado sus frutos, culminando en la legendaria piedra filosofa
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
-Puedes anadir un aditivo altamente explosivo a una bomba alquimica para convertirla en una mega bomba. Lanzar esta bomba es una actividad de 2 acciones en lugar de un Golpe. Esto no es un Golpe, y no haces una tirada de ataque. La mega bomba explota en una explosion de 9 metros dentro de 18 metros. Causa dano como si cada criatura fuera el objetivo principal, con una tirada de salvacion de Reflejos basica. En una tirada fallida, una criatura tambien recibe cualquier efecto adicional que afecte a un objetivo principal (como desprevenido por relampago embotellado). Aunque todos los objetivos en el area reciben dano de salpicadura como objetivos principales, no hay salpicadura adicional mas alla de esa area.
+Puedes añadir un aditivo altamente explosivo a una bomba alquimica para convertirla en una mega bomba. Lanzar esta bomba es una actividad de 2 acciones en lugar de un Golpe. Esto no es un Golpe, y no haces una tirada de ataque. La mega bomba explota en una explosion de 9 metros dentro de 18 metros. Causa dano como si cada criatura fuera el objetivo principal, con una tirada de salvacion de Reflejos basica. En una tirada fallida, una criatura tambien recibe cualquier efecto adicional que afecte a un objetivo principal (como desprevenido por relampago embotellado). Aunque todos los objetivos en el area reciben dano de salpicadura como objetivos principales, no hay salpicadura adicional mas alla de esa area.
 
 ---

@@ -376,7 +376,7 @@ En un abrir y cerrar de ojos, calculas los movimientos de tu enemigo y sabes exa
 
 **Prerrequisitos:** metodologia de interrogatorio
 
-Tu linea de cuestionamiento le hace saber a un sospechoso que puedes ver a traves de el, sacudiendolo hasta la medula. Cuando tienes exito usando Pregunta Puntiaguda, el objetivo tambien esta asustado 1 (o asustado 2 en un exito critico). Este efecto anadido es un efecto de emocion y miedo, pero los otros efectos de Pregunta Puntiaguda aun aplican incluso si el objetivo es inmune al miedo.
+Tu linea de cuestionamiento le hace saber a un sospechoso que puedes ver a traves de el, sacudiendolo hasta la medula. Cuando tienes exito usando Pregunta Puntiaguda, el objetivo tambien esta asustado 1 (o asustado 2 en un exito critico). Este efecto añadido es un efecto de emocion y miedo, pero los otros efectos de Pregunta Puntiaguda aun aplican incluso si el objetivo es inmune al miedo.
 
 ---
 
@@ -434,7 +434,7 @@ Pasas 10 minutos en contemplacion para predecir extrañamente como se desarrolla
 
 **Desencadenante:** Fallas una prueba para Buscar.
 
-Cuando buscas enemigos, notas las senales mas leves. Aunque fallaste en la prueba desencadenante, automaticamente sientes cualquier criatura no detectada en el area donde estas Buscando, haciendo que esten meramente escondidas para ti.
+Cuando buscas enemigos, notas las señales mas leves. Aunque fallaste en la prueba desencadenante, automaticamente sientes cualquier criatura no detectada en el area donde estas Buscando, haciendo que esten meramente escondidas para ti.
 
 ---
 

@@ -11,7 +11,7 @@ grand_parent: Ambientación
 source: PC1
 ---
 
-Antiguamente un maestro mortal de la magia, Nethys busco desentrañar todos los secretos de los Planos, ascendiendo a la divinidad cuando su mente entendio del todo el potencial completo de la magia. El Ojo que Todo lo Ve es un dios dualista, que ensena a la vez los potenciales destructor y protector de la magia.
+Antiguamente un maestro mortal de la magia, Nethys busco desentrañar todos los secretos de los Planos, ascendiendo a la divinidad cuando su mente entendio del todo el potencial completo de la magia. El Ojo que Todo lo Ve es un dios dualista, que enseña a la vez los potenciales destructor y protector de la magia.
 
 - **Areas de interes:** magia
 - **Edictos:** buscar el poder magico y utilizarlo

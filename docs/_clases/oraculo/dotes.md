@@ -273,7 +273,7 @@ Si tu siguiente accion es lanzar un truco de oraculo o un hechizo de oraculo que
 
 **Frecuencia:** una vez por 10 minutos
 
-Tiras un punado de huesos para aprender (o quizas influir) el curso futuro de los eventos. Tira 1d4 y usa el resultado correspondiente a continuacion. Siempre que Tiras los Huesos del Destino, cualquier efecto de un uso anterior termina inmediatamente.
+Tiras un puñado de huesos para aprender (o quizas influir) el curso futuro de los eventos. Tira 1d4 y usa el resultado correspondiente a continuacion. Siempre que Tiras los Huesos del Destino, cualquier efecto de un uso anterior termina inmediatamente.
 
 **1 Bueno:** Tu o un aliado dentro de 30 pies puede tirar dos veces en su siguiente tirada de ataque o prueba de habilidad, tomando el resultado mas alto. Este es un efecto de fortuna.
 
@@ -357,7 +357,7 @@ Desbloqueas revelaciones mas profundas ocultas dentro de tu misterio. Obtienes e
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/deteccion/" class="feat-trait">Deteccion</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
-Tienes literalmente un sexto sentido para la magia ambiental en tu vecindad. Puedes sentir la presencia de auras magicas como si siempre estuvieras usando un hechizo detectar magia de rango 1. Esto detecta magia solo en tu campo de vision. Cuando Escudrinas, obtienes los beneficios de un hechizo detectar magia de rango 3 en las cosas que observas (ademas de los beneficios normales de Escudrinar). Puedes activar y desactivar este sentido con una accion gratuita al inicio o al final de tu turno.
+Tienes literalmente un sexto sentido para la magia ambiental en tu vecindad. Puedes sentir la presencia de auras magicas como si siempre estuvieras usando un hechizo detectar magia de rango 1. Esto detecta magia solo en tu campo de vision. Cuando Escudriñas, obtienes los beneficios de un hechizo detectar magia de rango 3 en las cosas que observas (ademas de los beneficios normales de Escudriñar). Puedes activar y desactivar este sentido con una accion gratuita al inicio o al final de tu turno.
 
 ---
 
@@ -389,7 +389,7 @@ Tus pasos misteriosos se vuelven aun mas ligeros, trascendiendo el mundo mortal 
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
-Tu misterio alberga profundidades insondables de magia no siempre asociadas con lo divino. Puedes tener un hechizo en tu repertorio de hechizos que no este en la lista de hechizos divinos, ademas de los hechizos que hayas anadido a tu lista de hechizos de capacidades como acceso divino. Lanzas ese hechizo como un hechizo divino. Puedes intercambiar que hechizo anades y de que tradicion como podrias hacerlo con cualquier otro hechizo de oraculo, pero no puedes usar esta dote para tener mas de un hechizo de otra tradicion en tu repertorio de hechizos al mismo tiempo.
+Tu misterio alberga profundidades insondables de magia no siempre asociadas con lo divino. Puedes tener un hechizo en tu repertorio de hechizos que no este en la lista de hechizos divinos, ademas de los hechizos que hayas añadido a tu lista de hechizos de capacidades como acceso divino. Lanzas ese hechizo como un hechizo divino. Puedes intercambiar que hechizo anades y de que tradicion como podrias hacerlo con cualquier otro hechizo de oraculo, pero no puedes usar esta dote para tener mas de un hechizo de otra tradicion en tu repertorio de hechizos al mismo tiempo.
 
 ---
 

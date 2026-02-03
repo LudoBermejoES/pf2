@@ -11,7 +11,7 @@ grand_parent: Ambientación
 source: PC1
 ---
 
-Como mortal, Irori alcanzo la autentica iluminación, lo que le permitió liberarse de los grilletes de la mortalidad y alcanzar la divinidad. Como dios, es el Maestro de Maestros, promueve la disciplina y ensena que quien puede dominarse a si mismo encuentra los mayores beneficios que el mundo puede proporcionar.
+Como mortal, Irori alcanzo la autentica iluminación, lo que le permitió liberarse de los grilletes de la mortalidad y alcanzar la divinidad. Como dios, es el Maestro de Maestros, promueve la disciplina y enseña que quien puede dominarse a si mismo encuentra los mayores beneficios que el mundo puede proporcionar.
 
 - **Areas de interes:** autoperfeccion, conocimiento e historia
 - **Edictos:** ayudar a otros a perfeccionarse a si mismos, practicar la disciplina, refinar cuerpo, mente y espíritu hasta un estado mas perfecto, ser humilde
