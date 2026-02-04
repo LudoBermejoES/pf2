@@ -10,6 +10,9 @@ source: PC1
 
 **Tema:** Ciudades poderosas y tierras vírgenes exuberantes
 
+![Mapa de la Extensión de Mwangi](/assets/images/mapas/extension-mwangi.jpg)
+*Mapa de la Extensión de Mwangi*
+
 ## Descripción General
 
 Una de las regiones más diversas de Golarion, este paisaje ecuatorial está lleno de junglas, sabanas, montañas y pantanos. Anidadas en estas tierras vírgenes hay grandes ciudades-estado, aisladas principalmente debido a su autosuficiencia. La Extensión de Mwangi es rica tanto en recursos como en peligros, ambos derivados principalmente del mundo natural, si bien también acechan en los bosques amenazas sobrenaturales, desde dioses luciérnaga carnívoros hasta gorilas demoniacos.

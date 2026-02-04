@@ -10,6 +10,9 @@ source: PC1
 
 **Tema:** Riqueza y antiguos imperios
 
+![El Camino Dorado](/assets/images/mapas/camino-dorado.jpg)
+*Viajeros atravesando los desiertos del Camino Dorado*
+
 ## Descripción General
 
 Aunque los desiertos de esta región podrían parecer inhóspitos, en sus ríos abunda la vida, incluyendo algunas de las civilizaciones más antiguas del mar Interior. El prestigio de dichas civilizaciones, combinado con unas rutas comerciales extremadamente lucrativas, ha hecho que las naciones locales sean ricas y lujosas para muchos. A pesar de esta estabilidad, el país no carece de peligros: una historia antigua deja montones de antiguos monstruos y maldiciones, por no hablar de que algunos males que llevan mucho tiempo arraigados acechan en confines deshabitados para tomar como presa a los incautos.

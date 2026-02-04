@@ -10,6 +10,9 @@ source: PC1
 
 **Tema:** Aventura y legado heroicos
 
+![Mapa de Varisia](/assets/images/mapas/varisia.jpg)
+*Mapa de Varisia, parte de las Tierras de la Saga*
+
 ## Descripción General
 
 Una extensa frontera salpicada de ciudades, esta región exige ser explorada tanto por costumbre como por necesidad. Aquí vive aún mucha gente de estilo de vida nómada, recorriendo los caminos de las tierras vírgenes en animadas caravanas o siguiendo rebaños de una enorme megafauna que le sirve de comida. De vez en cuando, se pueden encontrar aventuras en dichos viajes, puesto que en el terreno abundan las ruinas curiosas y los monstruos épicos. Los misterios de las Tierras de la Saga no descansan fácilmente, puesto que poderosos lanzadores de conjuros del antiguo pasado han vuelto en las últimas décadas, pretendiendo reclamar lo que antes fuera suyo.

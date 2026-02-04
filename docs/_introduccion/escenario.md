@@ -10,6 +10,9 @@ source: PC1
 
 Pathfinder 2 se desarrolla en el mundo de Golarion, un planeta fantástico lleno de magia, misterio y aventura. Las reglas del JdR Pathfinder vienen con su propio escenario de campaña por defecto, conocido como Golarion. Es un mundo de magia, extrañas bestias y monstruos, dragones, aventuras en las que se lucha con espadas e incluso algunos elementos de ciencia-ficción y de tecnología. Extrae su inspiración de muchas naciones y culturas del mundo real, a la vez que las combina con fantasía para convertirlo en un lugar aparte y único.
 
+![Mapa del mundo de Golarion](/assets/images/mapas/golarion-mundo.png)
+*Mapa del mundo de Golarion*
+
 Golarion es un mundo vasto con múltiples continentes, reinos, ciudades y mazmorras. El juego se centra principalmente en la región del Mar Interior, aunque las aventuras pueden llevarte a lugares exóticos en cualquier rincón del mundo.
 
 ### Características principales
@@ -46,6 +49,9 @@ Como quiera que vive en un mundo de fantasia magica, una persona de Golarion tie
 ## Las diez regiones del Mar Interior
 
 La Región del Mar Interior consiste en el continente septentrional de Avistan y la mitad superior del continente meridional conocido como Garund. El mar Interior que da nombre a la región fue creado cuando un meteorito impactó contra el planeta en un suceso conocido como la Gran Caída, creando un largo golfo, ahora lleno de agua.
+
+![Mapa de la Región del Mar Interior](/assets/images/mapas/mar-interior-2019.jpg)
+*Mapa de la Región del Mar Interior de Golarion*
 
 | Región | Tema | Descripción |
 |--------|------|-------------|

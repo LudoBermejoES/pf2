@@ -10,6 +10,9 @@ source: PC1
 
 **Tema:** Confines sin ley y aventuras de capa y espada
 
+![Mapa de los Grilletes](/assets/images/mapas/shackles.jpg)
+*Mapa de los Grilletes (The Shackles)*
+
 ## Descripción General
 
 Por mucho que se esfuerce, ninguna nación puede afirmar que controla los mares. Las flotas de poderosos imperios lo han intentado, tan solo para ser víctimas de corsarios merodeadores y de huracanes sobrenaturales. A pesar del papel crucial de los mares en los viajes y en el comercio, los monstruos, los piratas y las civilizaciones subacuáticas hacen que los océanos sean una especie de batalla campal, y así es como le gusta a la mayoría de sus habitantes.
