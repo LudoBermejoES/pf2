@@ -8,7 +8,18 @@ nav_order: 1
 source: PC1
 ---
 
-Las reglas del JdR Pathfinder vienen con su propio escenario de campana por defecto, conocido como Golarion. Golarion es un mundo de magia, extrañas bestias y monstruos, dragones, aventuras en las que se lucha con espadas e incluso algunos elementos de ciencia-ficción y de tecnologia. Extrae su inspiracion de muchas naciones y culturas del mundo real, a la vez que las combina con fantasia para convertirlo en un lugar aparte y unico.
+Pathfinder 2 se desarrolla en el mundo de Golarion, un planeta fantástico lleno de magia, misterio y aventura. Las reglas del JdR Pathfinder vienen con su propio escenario de campaña por defecto, conocido como Golarion. Es un mundo de magia, extrañas bestias y monstruos, dragones, aventuras en las que se lucha con espadas e incluso algunos elementos de ciencia-ficción y de tecnología. Extrae su inspiración de muchas naciones y culturas del mundo real, a la vez que las combina con fantasía para convertirlo en un lugar aparte y único.
+
+Golarion es un mundo vasto con múltiples continentes, reinos, ciudades y mazmorras. El juego se centra principalmente en la región del Mar Interior, aunque las aventuras pueden llevarte a lugares exóticos en cualquier rincón del mundo.
+
+### Características principales
+
+- **Magia**: La magia es un elemento común en Golarion, practicada por muchas civilizaciones
+- **Razas diversas**: Múltiples especies inteligentes habitan el mundo
+- **Historia rica**: Miles de años de historia han moldeado el mundo actual
+- **Conflictos variados**: Desde políticos hasta cataclismos mágicos
+
+---
 
 ## La Era de los Presagios Perdidos
 
