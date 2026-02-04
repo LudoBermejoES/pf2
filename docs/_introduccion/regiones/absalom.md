@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /ambientacion/regiones/absalom/
+permalink: /introduccion/regiones/absalom/
 title: Absalom y la Isla de la Piedra Estelar
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 source: PC1
 ---
 

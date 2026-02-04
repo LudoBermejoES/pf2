@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /ambientacion/regiones/alta-mar/
+permalink: /introduccion/regiones/alta-mar/
 title: Alta Mar
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 source: PC1
 ---
 

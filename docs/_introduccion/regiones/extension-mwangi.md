@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /ambientacion/regiones/extension-mwangi/
+permalink: /introduccion/regiones/extension-mwangi/
 title: La Extensión de Mwangi
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 source: PC1
 ---
 

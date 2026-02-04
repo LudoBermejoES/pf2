@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /ambientacion/regiones/tierras-saga/
+permalink: /introduccion/regiones/tierras-saga/
 title: Las Tierras de la Saga
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 source: PC1
 ---
 

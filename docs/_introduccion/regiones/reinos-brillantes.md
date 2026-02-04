@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /ambientacion/regiones/reinos-brillantes/
+permalink: /introduccion/regiones/reinos-brillantes/
 title: Los Reinos Brillantes
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 source: PC1
 ---
 

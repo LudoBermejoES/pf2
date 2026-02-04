@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /ambientacion/regiones/tierras-quebradas/
+permalink: /introduccion/regiones/tierras-quebradas/
 title: Las Tierras Quebradas
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 source: PC1
 ---
 
