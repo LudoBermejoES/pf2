@@ -32,6 +32,19 @@ No vinculadas al destino ni guiadas por el, las gentes de Golarion son ahora lib
 
 Si quieres saber más sobre la Era de los Presagios Perdidos, las etnias humanas y las organizaciones del Mar Interior, consulta [La Era de los Presagios Perdidos]({{ '/introduccion/golarion-presagios/' | relative_url }}).
 
+## La vida en el Mar Interior
+
+Desde las tribus bárbaras del Reino de los Señores de los Mamuts hasta las castas esclavas de muertos vivientes de Geb, los pioneros y los nativos de Varisia, o los revolucionarios y reaccionarios de Galt, las tierras del Mar Interior rebosan de variedad y diversidad. Pero a pesar de la magnitud de esta región, hay constantes que comparten muchas de las naciones.
+
+Para más información sobre la vida cotidiana en el Mar Interior, consulta:
+
+- [Calendario y festividades]({{ '/introduccion/calendario/' | relative_url }}) - El Recuento de Absalom, días de la semana, meses y celebraciones
+- [Clima y meteorología]({{ '/introduccion/clima/' | relative_url }}) - Patrones climáticos y fenómenos meteorológicos aberrantes
+- [Comercio]({{ '/introduccion/comercio/' | relative_url }}) - Rutas comerciales y sistema monetario
+- [Sociedad]({{ '/introduccion/sociedad/' | relative_url }}) - Estructura social, magia y niveles de poder
+- [Fauna y flora]({{ '/introduccion/fauna-flora/' | relative_url }}) - Criaturas y plantas únicas de Golarion
+- [Tecnología]({{ '/introduccion/tecnologia/' | relative_url }}) - Armas de fuego, imprenta, relojería y tecnología numeria
+
 ## Que sabe mi personaje
 
 Como quiera que vive en un mundo de fantasia magica, una persona de Golarion tiene un conjunto de suposiciones diferente al de alguien de la Tierra moderna.
