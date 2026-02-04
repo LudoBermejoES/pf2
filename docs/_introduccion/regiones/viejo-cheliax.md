@@ -10,6 +10,9 @@ source: PC1
 
 **Tema:** Corrupción política y espiritual
 
+![Mapa del Viejo Cheliax](/assets/images/mapas/viejo-cheliax.jpg)
+*Mapa del Viejo Cheliax (fan-made por SalesWorlds)*
+
 ## Descripción General
 
 La nación de Cheliax es el Infierno en la tierra. Tras la muerte de Aroden, una guerra civil entre nobles vio como la Casa Thrune se alzaba triunfante, pero su victoria la selló un trato con los diablos. El que antaño fuera uno de los mayores imperios humanos de Golarion ha declinado en una tiranía de puño de hierro, que aplasta cualquier disensión con toda la fuerza del estado.
