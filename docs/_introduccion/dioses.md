@@ -37,4 +37,4 @@ Golarion cuenta con veintitrés deidades principales que son ampliamente venerad
 
 ## Más información
 
-Para más detalles sobre cada deidad, consulta la sección de [Religión]({{ '/ambientacion/religion/' | relative_url }}).
+Para más detalles sobre cada deidad, consulta la sección de [Dioses]({{ '/introduccion/dioses/' | relative_url }}).

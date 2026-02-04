@@ -34,9 +34,6 @@ collections:
   tu-personaje:
     output: true
     permalink: /tu-personaje/:name/
-  ambientacion:
-    output: true
-    permalink: /ambientacion/:path/
   ascendencias:
     output: true
     permalink: /ascendencias/:path/
