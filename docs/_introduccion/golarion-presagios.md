@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Ambientación de Golarion
-chapter: Ambientación
-category: ambientacion
-nav_order: 1
+permalink: /introduccion/golarion-presagios/
+title: La Era de los Presagios Perdidos
+chapter: Introducción
+category: introduccion
+nav_order: 9
 source: Guía de los Presagios Perdidos
 ---
 

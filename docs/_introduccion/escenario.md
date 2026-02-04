@@ -27,6 +27,8 @@ Durante la mayor parte de la existencia de Golarion, las profecias arcanas y las
 
 No vinculadas al destino ni guiadas por el, las gentes de Golarion son ahora libres de labrarse su propio destino en la era actual, la Era de los Presagios Perdidos.
 
+Si quieres saber más sobre la Era de los Presagios Perdidos, las etnias humanas y las organizaciones del Mar Interior, consulta [La Era de los Presagios Perdidos]({{ '/introduccion/golarion-presagios/' | relative_url }}).
+
 ## Que sabe mi personaje
 
 Como quiera que vive en un mundo de fantasia magica, una persona de Golarion tiene un conjunto de suposiciones diferente al de alguien de la Tierra moderna.
