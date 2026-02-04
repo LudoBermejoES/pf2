@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/gorum/
+permalink: /introduccion/dioses/gorum/
 title: Gorum
 subtitle: Señor del Hierro
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 8
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

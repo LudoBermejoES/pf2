@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/farasma/
+permalink: /introduccion/dioses/farasma/
 title: Farasma
 subtitle: Dama de las Sepulturas
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 7
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

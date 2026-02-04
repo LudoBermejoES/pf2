@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/nethys/
+permalink: /introduccion/dioses/nethys/
 title: Nethys
 subtitle: Ojo que Todo lo Ve
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 13
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

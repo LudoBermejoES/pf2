@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/irori/
+permalink: /introduccion/dioses/irori/
 title: Irori
 subtitle: Maestro de Maestros
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 11
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

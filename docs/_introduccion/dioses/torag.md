@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/torag/
+permalink: /introduccion/dioses/torag/
 title: Torag
 subtitle: Padre de la Creación
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 18
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

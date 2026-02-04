@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/lamashtu/
+permalink: /introduccion/dioses/lamashtu/
 title: Lamashtu
 subtitle: Madre de los Monstruos
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 12
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

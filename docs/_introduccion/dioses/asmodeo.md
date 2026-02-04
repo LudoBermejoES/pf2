@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/asmodeo/
+permalink: /introduccion/dioses/asmodeo/
 title: Asmodeo
 subtitle: Principe de la Oscuridad
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 2
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/urgathoa/
+permalink: /introduccion/dioses/urgathoa/
 title: Urgathoa
 subtitle: Princesa Palida
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 19
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

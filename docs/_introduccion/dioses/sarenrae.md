@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/sarenrae/
+permalink: /introduccion/dioses/sarenrae/
 title: Sarenrae
 subtitle: Flor del Alba
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 16
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

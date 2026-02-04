@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /ambientacion/religion/
-title: Religion
-chapter: Ambientación
-category: ambientacion
-nav_order: 0
+permalink: /introduccion/religion/
+title: Religión
+chapter: Introducción
+category: introduccion
+nav_order: 17
 source: PC1
 ---
 

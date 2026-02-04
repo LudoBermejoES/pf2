@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/cayden-cailean/
+permalink: /introduccion/dioses/cayden-cailean/
 title: Cayden Cailean
 subtitle: Héroe Borracho
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 4
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

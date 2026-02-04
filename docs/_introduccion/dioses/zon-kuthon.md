@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/zon-kuthon/
+permalink: /introduccion/dioses/zon-kuthon/
 title: Zon-Kuthon
 subtitle: Señor de la Medianoche
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 20
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

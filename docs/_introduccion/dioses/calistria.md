@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/calistria/
+permalink: /introduccion/dioses/calistria/
 title: Calistria
 subtitle: Aguijon Placentero
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 3
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

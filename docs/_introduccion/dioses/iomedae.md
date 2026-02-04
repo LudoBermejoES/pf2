@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/iomedae/
+permalink: /introduccion/dioses/iomedae/
 title: Iomedae
 subtitle: Heredera
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 10
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

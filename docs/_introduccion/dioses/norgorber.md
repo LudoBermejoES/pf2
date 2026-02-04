@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/norgorber/
+permalink: /introduccion/dioses/norgorber/
 title: Norgorber
 subtitle: La Sombra
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 14
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

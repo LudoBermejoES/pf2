@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/
+permalink: /introduccion/dioses/
 title: Dioses
-chapter: Ambientación
-category: ambientacion
-nav_order: 6
-parent: Ambientación
+chapter: Introducción
+category: introduccion
+nav_order: 18
+parent: Introducción
 source: PC1
 ---
 

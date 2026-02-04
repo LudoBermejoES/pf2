@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/erastil/
+permalink: /introduccion/dioses/erastil/
 title: Erastil
 subtitle: Viejo Certero
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 6
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

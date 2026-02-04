@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/gozreh/
+permalink: /introduccion/dioses/gozreh/
 title: Gozreh
 subtitle: Viento y las Olas
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 9
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 

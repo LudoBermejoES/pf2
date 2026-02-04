@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /ambientacion/dioses/desna/
+permalink: /introduccion/dioses/desna/
 title: Desna
 subtitle: Canción de las Esferas
-chapter: Ambientación
-category: ambientacion
+chapter: Introducción
+category: introduccion
 nav_order: 5
 parent: Dioses
-grand_parent: Ambientación
+grand_parent: Introducción
 source: PC1
 ---
 
