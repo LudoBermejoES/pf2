@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/vendetta-de-sangre-/
+permalink: /conjuros/vendetta-de-sangre/
 title: Vendetta de Sangre {% include accion.html tipo="reaccion" %}
 chapter: Conjuros
 spell_level: 2

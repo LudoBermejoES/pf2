@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/curar-/
+permalink: /conjuros/curar/
 title: Curar {% include accion.html tipo="1" %}/{% include accion.html tipo="2" %}/{% include accion.html tipo="3" %}
 chapter: Conjuros
 spell_level: 1

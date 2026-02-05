@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/aterrizaje-suave-/
+permalink: /conjuros/aterrizaje-suave/
 title: Aterrizaje Suave {% include accion.html tipo="reaccion" %}
 chapter: Conjuros
 spell_level: 1

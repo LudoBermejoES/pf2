@@ -6610,7 +6610,7 @@
   },
   {
     "title": "Aterrizaje Suave {% include accion.html tipo=\"reaccion\" %}",
-    "url": "/conjuros/aterrizaje-suave-/",
+    "url": "/conjuros/aterrizaje-suave/",
     "category": "conjuros",
     "content": "Aterrizaje Suave [CONJURO 1] Tradiciones: arcana, primigenia Desencadenante: Una criatura dentro del alcance esta cayendo. Rango de distancia: 60 pies (18 m); Objetivos: 1 criatura que cae Duracion: 1 minuto Aire Concentrar --- Alzas una corriente de aire magica para detener una caída. La caída del objetivo se lentifica hasta 60 pies (18 m) por asalto, y la distancia que cae mientras el hechizo esta activo no cuenta para calcular el daño por caída. Si el objetivo llega a tierra con el conjuro aun en funcionamiento, no sufre daño alguno por caída. El conjuro se acaba en cuanto el objetivo aterriza.",
     "tags": [
@@ -6770,7 +6770,7 @@
   },
   {
     "title": "Burbuja de Aire {% include accion.html tipo=\"reaccion\" %}",
-    "url": "/conjuros/burbuja-de-aire-/",
+    "url": "/conjuros/burbuja-de-aire/",
     "category": "conjuros",
     "content": "Burbuja de Aire [CONJURO 1] Tradiciones: arcana, divina, primigenia Desencadenante: Una criatura dentro del alcance entra en un entorno en el que no puede respirar. Rango de distancia: 60 pies (18 m); Objetivos: la criatura desencadenante Duracion: 1 minuto Aire Concentrar --- Una burbuja de aire puro aparece alrededor de la cabeza del objetivo, permitiéndole respirar con normalidad. El efecto se acaba en cuanto el objetivo vuelve a un entorno en el que puede respirar de forma natural.",
     "tags": [
@@ -7603,7 +7603,7 @@
   },
   {
     "title": "Culebrear {% include accion.html tipo=\"2\" %}/{% include accion.html tipo=\"3\" %}",
-    "url": "/conjuros/culebrear-/",
+    "url": "/conjuros/culebrear/",
     "category": "conjuros",
     "content": "Culebrear / [CONJURO 5] Tradiciones: arcana, ocultista Rango de distancia: 120 pies (36 m); Area: explosion de 20 pies (6 m); Defensa: Reflejos; Duracion: 1 minuto Concentrar Manipular Sombra --- Una masa de serpientes de sombra se alza para capturar a las criaturas en el area. Cada criatura en el area cuando lanzas el conjuro sufre 3d6 daño perforante y 1d6 daño persistente por veneno debido a un mordisco de serpiente, quedando agarrada o neutralizada dependiendo de su salvación de Reflejos. Una criatura que acaba su turno en el area tiene que hacer esta Salvación incluso si esta ya agarrada o neutralizada por las serpientes. Puedes Disipar el conjuro. Éxito La criatura no resulta afectada. Fallo La criatura sufre daño completo y es agarrada por una serpiente. La CD de Huir de la serpiente es igual a tu CD de conjuros. Se puede atacar a una serpiente para liberar a la criatura. La CA de una serpiente es igual a tu CD de conjuros y es destruida si sufre 12 daño o mas de una sola vez. Conforme dura el conjuro, van apareciendo nuevas serpientes, por lo que destruir algunas no evita que culebrear capture mas criaturas. Fallo critico Igual que fallo, pero la criatura sufre doble daño y queda neutralizada por una serpiente. Potenciado (+2) El daño persistente por veneno se incrementa en 1d6 y los PG de las serpientes se incrementan en 6.",
     "tags": [
@@ -7615,7 +7615,7 @@
   },
   {
     "title": "Curar {% include accion.html tipo=\"1\" %}/{% include accion.html tipo=\"2\" %}/{% include accion.html tipo=\"3\" %}",
-    "url": "/conjuros/curar-/",
+    "url": "/conjuros/curar/",
     "category": "conjuros",
     "content": "Curar // [CONJURO 1] Tradiciones: divina, primigenia Rango de distancia: variable; Objetivos: 1 criatura viva voluntaria o 1 criatura muerta viviente Curacion Manipular Vitalidad --- Canalizas energia vital para curar a los vivos o dañar a los muertos vivientes. Si el objetivo es una criatura viva voluntaria, le restableces 1d8 Puntos de Golpe. Si el objetivo es una criatura muerta viviente, infliges a la misma dicha cantidad de daño por vitalidad con una salvación basica de Fortaleza. El numero de acciones que gastas cuando Lanzas este conjuro determina sus objetivos, alcance, area y demás parametros.  El conjuro tiene un alcance de toque.  (concentrar) El conjuro tiene un alcance de 30 pies (9 m). Si estas curando a una criatura viva, incrementa en 8 los Puntos de Golpe restablecidos.  (concentrar) Dispersas energia vital en una emanacion de 30 pies (9 m). Esta energia tiene como objetivo todas las criaturas vivas y muertas vivientes en el area. Potenciado (+1) La cantidad de curacion o de daño se incrementa en 1d8 y la curacion adicional por la version de 2 acciones se incrementa en 8.",
     "tags": [
@@ -11209,7 +11209,7 @@
   },
   {
     "title": "Vendetta de Sangre {% include accion.html tipo=\"reaccion\" %}",
-    "url": "/conjuros/vendetta-de-sangre-/",
+    "url": "/conjuros/vendetta-de-sangre/",
     "category": "conjuros",
     "content": "Vendetta de Sangre [CONJURO 2] Tradiciones: arcana, divina, ocultista Desencadenante: Una criatura te inflige dano perforante, cortante o persistente por sangrado; Requisitos: Puedes sangrar. Rango de distancia: 30 pies (9 m); Objetivos: la criatura desencadenante Defensa: Voluntad; Duracion: variable Maldición --- Maldices al objetivo, castigandole por haber tenido la audacia de derramar tu sangre. El objetivo sufre 2d6 dano persistente por sangrado y tiene que hacer una salvación de Voluntad. Éxito critico El objetivo no resulta afectado. Éxito El sujeto sufre mitad dano persistente por sangrado. Fallo El sujeto sufre dano completo persistente por sangrado. Hasta que se detiene el sangrado, el objetivo tiene debilidad 1 al dano perforante y cortante. Fallo critico Igual que fallo, pero el objetivo sufre doble dano persistente por sangrado. Potenciado (+2) El dano persistente por sangrado se incrementa en 2d6.",
     "tags": [

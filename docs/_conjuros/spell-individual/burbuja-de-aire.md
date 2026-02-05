@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/burbuja-de-aire-/
+permalink: /conjuros/burbuja-de-aire/
 title: Burbuja de Aire {% include accion.html tipo="reaccion" %}
 chapter: Conjuros
 spell_level: 1

@@ -1,6 +1,6 @@
 ---
 layout: spell
-permalink: /conjuros/culebrear-/
+permalink: /conjuros/culebrear/
 title: Culebrear {% include accion.html tipo="2" %}/{% include accion.html tipo="3" %}
 chapter: Conjuros
 spell_level: 5
