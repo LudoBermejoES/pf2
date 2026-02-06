@@ -28,6 +28,3 @@ Esta región incluye Katapesh, una ciudad mercado que hizo su fortuna mediante c
 - Un estudiante de alquimia, que espera ser admitido algún día en la Ciudadela del Alquimista, y así aprender del hombre que descubrió el secreto de la inmortalidad.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

@@ -24,6 +24,3 @@ Conocida como la Ciudad del Centro del Mundo, Absalom exhibe la gloria y la mise
 - Un servidor de un dios fracasado, que conjura la esencia de su amo en busca de un nuevo intento de alcanzar la divinidad.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

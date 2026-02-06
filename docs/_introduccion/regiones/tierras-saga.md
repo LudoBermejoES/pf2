@@ -26,6 +26,3 @@ Esta región incluye Irrisen, unas tierras congeladas que conquistara la bruja B
 - Un mercader varisiano que recorre el continente para vender sus mercancías a un precio elevado a los nobles meridionales.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

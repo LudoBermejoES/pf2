@@ -27,6 +27,3 @@ Esta región incluye Cala Sangrienta, un refugio de piratas de todo el mar Inter
 - Un astrónomo de la sumergida nación de Lirgen, buscando incansablemente la forma de acabar con el huracán eterno que destruyó su país.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

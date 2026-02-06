@@ -26,6 +26,3 @@ Los piratas de los Grilletes son un azote para los mercaderes y las armadas est�
 - Un devorador de maldiciones tengu, de quien sus camaradas de navegación creen que es capaz de devorar la desventura; tanto es así, que fue alistado a la fuerza.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

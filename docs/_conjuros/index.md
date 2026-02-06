@@ -61,6 +61,3 @@ Para jugadores experimentados:
 4. **Si necesitas reglas específicas**: Consulta los temas avanzados
 
 ---
-
-**Última actualización**: Enero 2026
-**Basado en**: Pathfinder 2ª Edición Core Rulebook

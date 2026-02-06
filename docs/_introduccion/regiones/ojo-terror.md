@@ -24,6 +24,3 @@ Esta región incluye Belkzen, el hogar de las hordas de orcos que recientemente 
 - Un adusto campeón orco, veterano de las guerras contra la humanidad, y encargado ahora de forjar alianzas y realizar avances con la gente a la que antaño desprecio.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

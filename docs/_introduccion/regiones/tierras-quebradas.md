@@ -25,6 +25,3 @@ Esta región incluye Brevoy, una nación antaño unida por un conquistador monta
 - Un aspirante a rey, determinado a forjar una nación a partir de las tierras vírgenes; y, si tiene mucha suerte, a conservarla.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

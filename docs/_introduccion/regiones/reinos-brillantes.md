@@ -23,6 +23,3 @@ Esta región incluye Andoran, un bastión del gobierno democrático y la liberta
 - Un prospector enano, que explora túneles a gran profundidad bajo tierra arriesgándose a tener encuentros con las terribles criaturas que acechan allí.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

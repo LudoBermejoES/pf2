@@ -29,6 +29,3 @@ Esta región incluye Cheliax, un imperio condenado cuyos líderes se han comprom
 - Un nativo de Nidal, a quien su dios patrono Zon-Kuthon ha concedido poderes sobre la oscuridad, tanto si le adora como si no.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook

@@ -296,6 +296,3 @@ Ahora que comprendes los conceptos fundamentales:
 5. **Aprende Combinaciones** - Muchos conjuros funcionan mejor juntos
 
 ---
-
-**Última actualización**: Enero 2026
-**Basado en**: Pathfinder 2ª Edición Core Rulebook

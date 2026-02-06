@@ -26,6 +26,3 @@ Esta región incluye Alkenstar, una ciudad tecnológica ubicada en una región d
 - Un profeta callejero que ha oído los susurros de las víctimas que fueron asesinadas y arrojadas al baño de cieno que habita bajo su ciudad.
 
 ---
-
-**Última actualización:** Enero 2026
-**Basado en:** Pathfinder 2ª Edición Core Rulebook
