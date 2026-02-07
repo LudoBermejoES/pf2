@@ -156,11 +156,14 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 |--------------|--------|------|------|-------|-------|----------------|
 | [Alabarda](/equipo/armas/alabarda/) | 2 po | 1d10 Per | 2 | 2 | De asta | Alcance, arrojadiza 10 pies (3 m), versátil Cor |
 | [Alfanje](/equipo/armas/alfanje/) | 3 po | 1d10 Cor | 2 | 2 | Espadas | Derribo, vigorosa |
+| [Azuela](/equipo/armas/azuela/) | 1 mo | 1d10 Cor | 2 | 2 | Hachas | Fuerte, barrido, tripkee |
+| [Azuela de mano](/equipo/armas/azuela-de-mano/) | 5 mp | 1d4 Cor | L | 1 | Hachas | Ágil, preciso, barrido, arrojadiza 10 pies, tripkee |
 | [Bastón bo](/equipo/armas/baston-bo/) | 2 pp | 1d8 Con | 2 | 2 | Palos | Alcance, derribo, monje, parada |
 | [Bastón estoque](/equipo/armas/baston-estoque/) | 5 po | 1d6 Per | 1 | 1 | Espadas | Ágil, ocultable, sutil |
 | [Bisarma](/equipo/armas/bisarma/) | 2 po | 1d10 Cor | 2 | 2 | De asta | Alcance, derribo |
 | [Cachiporra](/equipo/armas/cachiporra/) | 1 pp | 1d6 Con | L | 1 | Palos | Ágil, no letal |
 | [Cimitarra](/equipo/armas/cimitarra/) | 1 po | 1d6 Cor | 1 | 1 | Espadas | Barrido, vigorosa |
+| [Cruuk](/equipo/armas/cruuk/) | 4 mp | 1d6 Con | L | 1 | Garrotes | Empujar, arrojadiza 30 pies, tripkee |
 | [Cuchillo de estrella](/equipo/armas/cuchillo-estrella/) | 2 po | 1d4 Per | L | 1 | Cuchillos | Ágil, arrojadiza 20 pies (6 m), letal d6, sutil |
 | [Daga de guardamano](/equipo/armas/daga-guardamano/) | 5 po | 1d4 Per | L | 1 | Cuchillos | Ágil, desarme, parada, sutil, versátil Cor |
 | [Espada bastarda](/equipo/armas/espada-bastarda/) | 4 po | 1d8 Cor | 1 | 1 | Espadas | A dos manos d12 |
@@ -189,9 +192,6 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 | [Ronca](/equipo/armas/ronca/) | 2 po | 1d10 Per | 2 | 2 | De asta | Alcance, desarme |
 | [Tridente](/equipo/armas/tridente/) | 1 po | 1d8 Per | 1 | 1 | Lanzas | Arrojadiza 20 pies (6 m) |
 | [Umbo de escudo](/equipo/armas/umbo-escudo/) | 5 pp | 1d6 Con | — | 1 | Escudos | Fijado al escudo |
-| [Azuela](/equipo/armas/azuela/) | 1 mo | 1d10 Cor | 2 | 2 | Hachas | Fuerte, barrido, tripkee |
-| [Cruuk](/equipo/armas/cruuk/) | 4 mp | 1d6 Con | L | 1 | Garrotes | Empujar, arrojadiza 30 pies, tripkee |
-| [Azuela de mano](/equipo/armas/azuela-de-mano/) | 5 mp | 1d4 Cor | L | 1 | Hachas | Ágil, preciso, barrido, arrojadiza 10 pies, tripkee |
 
 ### Armas marciales poco comunes
 
@@ -201,23 +201,23 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 | [Daga orca de nudillos](/equipo/armas/daga-orca-nudillos/) | 7 pp | 1d6 Per | L | 1 | Cuchillos | Ágil, desarme, orco |
 | [Espada curva elfa](/equipo/armas/espada-curva-elfa/) | 4 po | 1d8 Cor | 2 | 2 | Espadas | Elfo, sutil, vigorosa |
 | [Espada del templo](/equipo/armas/espada-templo/) | 2 po | 1d8 Cor | 1 | 1 | Espadas | Derribo, monje |
+| [Fangwire](/equipo/armas/fangwire/) | 4 mo | 1d4 Cor | L | 1 | Lucha | Ágil, traicionero, letal d8, preciso, agarrar, kobold |
+| [Hoja de garra](/equipo/armas/hoja-de-garra/) | 2 mo | 1d4 Cor | L | 1 | Cuchillos | Ágil, amurrun, letal d8, desarmar, preciso, versátil Per |
+| [Hoja de vendaval tengu](/equipo/armas/hoja-de-vendaval-tengu/) | 4 mo | 1d6 Cor | L | 1 | Espadas | Ágil, desarmar, preciso, tengu |
 | [Kama](/equipo/armas/kama/) | 1 po | 1d6 Cor | L | 1 | Cuchillos | Ágil, derribo, monje |
 | [Katana](/equipo/armas/katana/) | 2 po | 1d6 Cor | 1 | 1 | Espadas | A dos manos d10, letal d8, versátil Per |
 | [Khakkara](/equipo/armas/khakkara/) | 2 po | 1d6 Con | 1 | 1 | Palos | A dos manos d10, empujar, monje, versátil Per |
+| [Khopesh](/equipo/armas/khopesh/) | 2 mo | 1d8 Cor | 1 | 1 | Espadas | Derribo |
 | [Kukri](/equipo/armas/kukri/) | 6 pp | 1d6 Cor | L | 1 | Cuchillos | Ágil, derribo, sutil |
+| [Mambele](/equipo/armas/mambele/) | 6 mp | 1d6 Cor | 1 | 1 | Hachas | Letal d8, desarmar, arrojadiza 20 pies |
 | [Martillo ganchudo gnomo](/equipo/armas/martillo-ganchudo-gnomo/) | 2 po | 1d6 Con | 1 | 1 | Martillos | A dos manos d10, derribo, gnomo, versátil Per |
 | [Nunchaku](/equipo/armas/nunchaku/) | 2 pp | 1d6 Con | L | 1 | Palos | Desarme, monje, revés, sutil |
+| [Pica rompemuros](/equipo/armas/pica-rompemuros/) | 8 mo | 1d6 Per | 1 | 1 | Lanzas | Hobgoblin, arrasador, alcance |
 | [Rajaperros](/equipo/armas/rajaperros/) | 1 pp | 1d6 Cor | L | 1 | Espadas | Ágil, goblin, puñalada trapera, sutil |
 | [Sai](/equipo/armas/sai/) | 6 pp | 1d4 Per | L | 1 | Cuchillos | Ágil, desarme, monje, sutil, versátil Con |
 | [Sajacaballos](/equipo/armas/sajacaballos/) | 9 pp | 1d8 Cor | 2 | 2 | De asta | Alcance, derribo, goblin, versátil Per |
 | [Tenedor de afanar](/equipo/armas/tenedor-afanar/) | 1 po | 1d4 Per | L | 1 | Lanzas | Ágil, arrojadiza 20 pies (6 m), letal d6, mediano, sutil, puñalada trapera |
 | [Wakizashi](/equipo/armas/wakizashi/) | 1 po | 1d4 Cor | L | 1 | Espadas | Ágil, letal d8, sutil, versátil Per |
-| [Pica rompemuros](/equipo/armas/pica-rompemuros/) | 8 mo | 1d6 Per | 1 | 1 | Lanzas | Hobgoblin, arrasador, alcance |
-| [Hoja de garra](/equipo/armas/hoja-de-garra/) | 2 mo | 1d4 Cor | L | 1 | Cuchillos | Ágil, amurrun, letal d8, desarmar, preciso, versátil Per |
-| [Fangwire](/equipo/armas/fangwire/) | 4 mo | 1d4 Cor | L | 1 | Lucha | Ágil, traicionero, letal d8, preciso, agarrar, kobold |
-| [Khopesh](/equipo/armas/khopesh/) | 2 mo | 1d8 Cor | 1 | 1 | Espadas | Derribo |
-| [Mambele](/equipo/armas/mambele/) | 6 mp | 1d6 Cor | 1 | 1 | Hachas | Letal d8, desarmar, arrojadiza 20 pies |
-| [Hoja de vendaval tengu](/equipo/armas/hoja-de-vendaval-tengu/) | 4 mo | 1d6 Cor | L | 1 | Espadas | Ágil, desarmar, preciso, tengu |
 
 ---
 
@@ -225,15 +225,15 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 
 | Arma avanzada | Precio | Daño | Imp. | Manos | Grupo | Rasgos de arma |
 |---------------|--------|------|------|-------|-------|----------------|
+| [Garra látigo](/equipo/armas/garra-latigo/) | 5 mo | 1d6 Cor | 1 | 2 | Manguales | Amurrun, preciso, entorpecedor, alcance |
+| [Garra voladora](/equipo/armas/garra-voladora/) | 6 mo | 1d4 Per | 1 | 1 | Manguales | Ágil, preciso, kobold, derribo a distancia, atado, arrojadiza 10 pies, derribo |
 | [Hacha de guerra enana](/equipo/armas/hacha-guerra-enana/) | 3 po | 1d8 Cor | 2 | 1 | Hachas | A dos manos d12, barrido, enano |
 | [Maza de giro gnoma](/equipo/armas/maza-giro-gnoma/) | 3 po | 1d6 Con | 1 | 1 | Manguales | Alcance, gnomo |
 | [Partecuellos orco](/equipo/armas/partecuellos-orco/) | 3 po | 1d8 Cor | 1 | 1 | Hachas | Barrido, orco, vigorosa |
+| [Pico tramposo](/equipo/armas/pico-tramposo/) | 10 mo | 1d6 modular | 1 | 1 | Picos | Traicionero, fatal d10, kobold, modular (B, P o S) |
 | [Sable aserrado](/equipo/armas/sable-aserrado/) | 5 po | 1d6 Cor | L | 1 | Espadas | Ágil, gemela, sutil |
 | [Spetum capturador](/equipo/armas/spetum-capturador/) | 9 mo | 1d10 Per | 2 | 2 | Astas | Entorpecedor, hobgoblin, alcance, derribo |
-| [Garra voladora](/equipo/armas/garra-voladora/) | 6 mo | 1d4 Per | 1 | 1 | Manguales | Ágil, preciso, kobold, derribo a distancia, atado, arrojadiza 10 pies, derribo |
 | [Trilladora espiritual](/equipo/armas/trilladora-espiritual/) | 2 mo | 1d12 Con | 2 | 2 | Manguales | Kholo, barrido, versátil Cor |
-| [Pico tramposo](/equipo/armas/pico-tramposo/) | 10 mo | 1d6 modular | 1 | 1 | Picos | Traicionero, fatal d10, kobold, modular (B, P o S) |
-| [Garra látigo](/equipo/armas/garra-latigo/) | 5 mo | 1d6 Cor | 1 | 2 | Manguales | Amurrun, preciso, entorpecedor, alcance |
 
 ---
 
@@ -279,8 +279,8 @@ Algunas entradas de las tablas de armas a distancia van seguidas de una entrada 
 |------|--------|------|----------|---------|------|-------|-------|----------------|
 | [Bastón honda mediano](/equipo/armas/baston-honda-mediano/) | 5 po | 1d10 Con | 80 pies (24 m) | 1 | 1 | 2 | Hondas | Mediano, propulsión |
 | — 10 balas de honda | 1 pc | — | — | — | L | — | — | — |
-| [Shuriken](/equipo/armas/shuriken/) | 1 pc | 1d4 Per | 20 pies (6 m) | 0 | — | 1 | Dardos | Ágil, arrojadiza, monje |
 | [Honda atronadora](/equipo/armas/honda-atronadora/) | 5 mo | 1d6 Per | 50 pies | 1 | L | 1 | Hondas | Ágil, propulsivo, tengu |
+| [Shuriken](/equipo/armas/shuriken/) | 1 pc | 1d4 Per | 20 pies (6 m) | 0 | — | 1 | Dardos | Ágil, arrojadiza, monje |
 
 *Las estadísticas de las bombas alquímicas están en la sección de sustancias alquímicas.
 
