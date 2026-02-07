@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/shelyn.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Shelyn">
+
 > *"Llena tu corazón, ojos y mente con la belleza del mundo."*
 
 Shelyn promueve la paz y el amor y anima a sus seguidores a crear belleza en un mundo que a veces es oscuro. Busca redimir algún dia a su corrompido hermano Zon-Kuthon.

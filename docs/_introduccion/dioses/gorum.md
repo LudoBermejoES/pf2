@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/gorum.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Gorum">
+
 > *"La batalla y sus herramientas son las únicas cosas buenas en la vida."*
 
 Quien busca la gloria en el campo de batalla reza plegarias a Nuestro Señor del Hierro. Gorum enfatiza el poder, animando a sus seguidores a buscar la guerra y el combate como la forma definitiva de adorarle.

@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/sarenrae.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Sarenrae">
+
 > *"Deja que la luz sanadora del sol queme la oscuridad dentro de ti."*
 
 Antiguamente una poderosa angel y señora empierea, Sarenrae dirigio los esfuerzos para aprisionar a Rovagug. La Flor del Alba busca redimir el mal donde le es posible, hacer que arda mediante el fuego del sol cuando no puede ser redimido y restablecer a quienes han sido danados por las maquinaciones del mal.

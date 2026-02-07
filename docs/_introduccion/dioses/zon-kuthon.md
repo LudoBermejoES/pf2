@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/zon-kuthon.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Zon-Kuthon">
+
 > *"Mira toda carne como un lienzo para tus obras de dolor."*
 
 Antiguamente un dios del arte, la belleza y la musica como Shelyn, el Señor de la Medianoche volvio horriblemente cambiado de un viaje por los espacios oscuros entre los Planos. Ahora, Zon-Kuthon enseña los placeres del dolor y la oscuridad.

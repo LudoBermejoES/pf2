@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/urgathoa.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Urgathoa">
+
 > *"Toma lo que puedas, desgárralo y saborea su dulce sabor sangriento."*
 
 Encaprichada de los placeres del mundo de los vivos, Urgathoa escapo a las garras de la muerte y la otra vida, convirtiéndose en el primero de los muertos vivientes. Ahora, la Princesa Palida se regocija compartiendo sus apetitos hedonistas y extendiendo la muerte en vida.

@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/norgorber.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Norgorber">
+
 > *"Hay valor en las cosas que otros rechazan u ocultan."*
 
 Esta sombria figura suele ser adorada en cuatro aspectos: Dedos Negros, aliado de los alquimistas y de los envenenadores; el asesino Padre Desollador; el Maestro Gris, dedicado al latrocinio; y el secretista Segador de Reputaciónes.

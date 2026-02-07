@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/lamashtu.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Lamashtu">
+
 > *"Grande es la hija del Cielo que tortura a los infantes."*
 
 Lamashtu se deleita en la corrupcion de lo que es puro. Los cambios físicos y las pesadillas que dejan sus intervenciones son tratados como regalos por sus seguidores y como terrores desagradables por el mundo exterior. Hay algunos que encuentran alivio o incluso una familia entre los seguidores de Lamashtu debido a la mayor aceptacion de las diferencias que tiene su fe.

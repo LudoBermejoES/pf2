@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/nethys.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Nethys">
+
 > *"La magia es todas las cosas, y en todas las cosas."*
 
 Antiguamente un maestro mortal de la magia, Nethys busco desentrañar todos los secretos de los Planos, ascendiendo a la divinidad cuando su mente entendio del todo el potencial completo de la magia. El Ojo que Todo lo Ve es un dios dualista, que enseña a la vez los potenciales destructor y protector de la magia.

@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/farasma.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Farasma">
+
 > *"El nacimiento y la muerte están escritos en los huesos, pero los huesos pueden romperse."*
 
 Mas antigua y poderosa que la mayoría de los demás dioses, Farasma juzga las almas de todos los que mueren desde su trono en el Osario. Mediante dichos juicios, la Dama de las Sepulturas se asegura de que el ciclo natural del nacimiento y la muerte (el Rio de las Almas) no se interrumpe.

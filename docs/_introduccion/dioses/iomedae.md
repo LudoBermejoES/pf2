@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/iomedae.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Iomedae">
+
 > *"La justicia y el honor son una carga pesada para los justos."*
 
 Antes de su ascension y de heredar muchos adoradores del dios de la humanidad, Iomedae era una combatiente sagrada en las guerras contra los muertos vivientes. La Heredera defiende los valores de la virtud, luchando contra los malvados y los injustos.

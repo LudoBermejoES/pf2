@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/irori.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Irori">
+
 > *"Para trascender tus defectos, debes conocer tu ser interior."*
 
 Como mortal, Irori alcanzo la autentica iluminación, lo que le permitió liberarse de los grilletes de la mortalidad y alcanzar la divinidad. Como dios, es el Maestro de Maestros, promueve la disciplina y enseña que quien puede dominarse a si mismo encuentra los mayores beneficios que el mundo puede proporcionar.

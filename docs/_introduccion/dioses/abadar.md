@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/abadar.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Abadar">
+
 > *"Con cada giro de cada pequeña rueda, la civilización se extiende para cubrir el mundo."*
 
 Abadar busca llevar la civilización a las tierras virgenes del mundo, anima el respeto a la ley y promueve el comercio y el intercambio en el interior de la civilización. Tambien anima a la cooperación entre las diversas ascendencias.

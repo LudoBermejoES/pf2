@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/rovagug.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Rovagug">
+
 > *"Libérame y deléitate en la destrucción de todo."*
 
 Rovagug fue aprisionado hace mucho en el nucleo de Golarion a manos de otros muchos dioses trabajando de conjunto, y busca liberarse algún dia y desatar el caos sobre el mundo. Le sirven sus semillas y quienes buscan la destrucción definitiva de todas las cosas.

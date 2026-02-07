@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/erastil.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Erastil">
+
 > *"El primer regalo que recibes es tu familia."*
 
 Hace mucho, Erastil era un dios astado de la caza, pero su adoración evoluciono para centrarse en las comunidades rurales. El Viejo Certero no desea otra cosa que una vida pacifica para sus seguidores, llamandoles a las armas tan solo cuando esa existencia pastoril se ve amenazada.

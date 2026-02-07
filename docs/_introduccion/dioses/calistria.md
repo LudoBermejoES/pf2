@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/calistria.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Calistria">
+
 > *"Saborea los tres aguijones de la pasión, la astucia y la venganza."*
 
 Calistria es una diosa traviesa y mercurial de la atracción que se deleita enganando a otros y que busca venganza contra quienes le faltan al respeto. Aunque la adoración de Calistria esta mas extendida entre los elfos, miembros de otras muchas ascendencias tambien la siguen.

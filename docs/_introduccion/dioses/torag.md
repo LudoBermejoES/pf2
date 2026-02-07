@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/torag.jpg' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Torag">
+
 > *"Apunta alto, planifica bien, golpea mientras el hierro está caliente."*
 
 Aunque le adoran muchos enanos como el Padre de la Creación, Torag lucha para proteger todas las comunidades en las que es adorado y tambien la siguen quienes valoran la artesanía y la creación.

@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/gozreh.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Gozreh">
+
 > *"Respeta el mar y el cielo, no sea que te traigamos la ruina."*
 
 Un dios de aspecto dual, Gozreh es el mar que encapsula la tierra y el viento que mueve su superficie. El Viento y las Olas es popular entre los druidas y entre quienes buscan preservar las tierras virgenes.

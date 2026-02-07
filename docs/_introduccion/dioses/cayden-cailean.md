@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/cayden-cailean.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Cayden Cailean">
+
 > *"No dejes que las reglas se interpongan en el camino de disfrutar lo que es verdaderamente bueno en la vida."*
 
 El Dios Accidental ascendio de la vida mortal en un desafio de borracho. Cayden promueve la libertad y anima a otros a encontrar su propio camino en la vida. Lucha por las causas justas y se deleita en las mejores satisfacciones.

@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/asmodeo.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Asmodeo">
+
 > *"¡Salve Asmodeus! Líbranos del caos para que podamos servirte en la eternidad."*
 
 Asmodeo se deleita tentando a los mortales para que se den a la corrupcion. Promueve jerarquias en las que todo el mundo sabe cual es su lugar y se aprovecha del orden en beneficio propio.

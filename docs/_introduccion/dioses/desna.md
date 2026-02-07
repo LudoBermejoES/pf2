@@ -11,6 +11,8 @@ grand_parent: Introducción
 source: PC1
 ---
 
+<img src="{{ '/assets/images/dioses/desna.webp' | relative_url }}" style="float: right; width: 150px; margin-left: 20px;" alt="Símbolo de Desna">
+
 > *"Deja que cada sueño sea una estrella brillante en el cielo nocturno de tu mente, y deja que ilumine tu camino durante el día."*
 
 Desna tiene puesta la mirada en los cielos, colocando estrellas para que guien a los viajeros a traves de la oscuridad y a los sonadores a traves de las pesadillas. Se deleita en la libertad y el misterio, y anima a sus seguidores a hacer lo propio.
