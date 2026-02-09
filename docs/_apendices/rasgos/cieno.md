@@ -7,5 +7,6 @@ category: rasgos
 trait_type: criatura
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/cieno.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Los cienos son criaturas con anatomía muy sencilla. Tienden a tener modificadores por atributo mental bajos e inmunidad a los efectos mentales y al daño de precisión.

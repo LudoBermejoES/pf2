@@ -7,5 +7,6 @@ category: rasgos
 trait_type: general
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/linaje.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Una dote con este rasgo indica la descendencia de un PJ de un tipo particular de criatura. Sólo puedes tener una dote de linaje. Sólo puedes seleccionar una dote de linaje a primer nivel y no puedes reconvertir ninguna de dichas dotes, ni para adquirirla ni para abandonarla.

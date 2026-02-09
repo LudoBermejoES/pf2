@@ -7,5 +7,6 @@ category: rasgos
 trait_type: general
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/emocion.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Este efecto altera las emociones de una criatura. Los efectos con este rasgo siempre tienen también el rasgo mental. Las criaturas con entrenamiento especial o que disponen de inteligencia artificial o mecánica son inmunes a dichos efectos.

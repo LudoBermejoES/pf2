@@ -7,5 +7,6 @@ category: rasgos
 trait_type: ascendencia
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/aiuvarin.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Una criatura con dicho rasgo tiene la herencia versátil aiuvarin. Los aiuvarins son de ascendencia mixta, incluyendo elfos u otros aiuvarins. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por los aiuvarins.

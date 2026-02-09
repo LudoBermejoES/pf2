@@ -7,5 +7,6 @@ category: rasgos
 trait_type: acción
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/desventura.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Un efecto de desventura te obliga a tirar dos veces y tomar el peor resultado.

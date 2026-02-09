@@ -7,5 +7,6 @@ category: rasgos
 trait_type: tradición
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/magico.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Algo con el rasgo mágico está imbuido de energías mágicas no vinculadas a una tradición de magia específica. Algunos objetos o efectos están fuertemente vinculados a una tradición de magia en particular. En dichos casos, el objeto tiene el rasgo arcano, divino, ocultista o primigenio en lugar del rasgo mágico. Cualquiera de estos rasgos indica que el objeto es mágico.

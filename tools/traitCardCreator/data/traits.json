@@ -1,0 +1,1798 @@
+{
+  "traits": [
+    {
+      "id": "a-dos-manos",
+      "name": "A dos manos",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Este arma se puede empuñar con una o dos manos. Se aplica el dado de daño indicado entre paréntesis cuando el arma se empuña con dos manos.",
+      "subsections": []
+    },
+    {
+      "id": "abjuracion",
+      "name": "Abjuración",
+      "trait_type": "magia",
+      "source": "PC1",
+      "description": "Los efectos de abjuración protegen y apartan otras cosas.",
+      "subsections": []
+    },
+    {
+      "id": "acido",
+      "name": "Ácido",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo infligen daño por ácido. Las criaturas con este rasgo tienen una conexión con el ácido mágico.",
+      "subsections": []
+    },
+    {
+      "id": "acuatico",
+      "name": "Acuático",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Las criaturas acuáticas se encuentran como en casa bajo el agua. Sus Golpes sin armas contundentes y cortantes no sufren el penalizador -2 habitual por estar bajo el agua. Las criaturas acuáticas pueden respirar en el agua, pero no en el aire.",
+      "subsections": []
+    },
+    {
+      "id": "aditivo",
+      "name": "Aditivo",
+      "trait_type": "alquimia",
+      "source": "PC1",
+      "description": "Los aditivos son sustancias especiales que pueden añadirse a objetos alquímicos.",
+      "subsections": []
+    },
+    {
+      "id": "adivinacion",
+      "name": "Adivinación",
+      "trait_type": "magia",
+      "source": "PC1",
+      "description": "Los efectos de adivinación revelan información.",
+      "subsections": []
+    },
+    {
+      "id": "agil",
+      "name": "Ágil",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "El penalizador por ataque múltiple que sufres con este arma en el segundo ataque de un turno es -4 en lugar de -5, y -8 en lugar de -10 en el tercer ataque o siguientes.",
+      "subsections": []
+    },
+    {
+      "id": "agua",
+      "name": "Agua",
+      "trait_type": "elemental",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo usan agua o tienen poder sobre el agua.",
+      "subsections": []
+    },
+    {
+      "id": "aire",
+      "name": "Aire",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con el rasgo aire, o bien manipulan, o bien conjuran aire. Los que manipulan aire no tienen efecto alguno en el vacío o en un área sin aire. Las criaturas con este rasgo están compuestas principalmente de aire o tienen alguna conexión con el aire mágico.",
+      "subsections": []
+    },
+    {
+      "id": "aiuvarin",
+      "name": "Aiuvarin",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con dicho rasgo tiene la herencia versátil aiuvarin. Los aiuvarins son de ascendencia mixta, incluyendo elfos u otros aiuvarins. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por los aiuvarins.",
+      "subsections": []
+    },
+    {
+      "id": "alcance",
+      "name": "Alcance",
+      "trait_type": "arma",
+      "source": "PC1",
+      "description": "Esta arma puede usarse para atacar a enemigos hasta 10 pies de distancia en lugar de 5 pies. Para las criaturas con un alcance mayor, añade 5 pies a su alcance normal.",
+      "subsections": []
+    },
+    {
+      "id": "alquimico",
+      "name": "Alquímico",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Las sustancias alquímicas se alimentan de las reacciones de los reactivos alquímicos. Las sustancias alquímicas no son mágicas y no irradian un aura mágica.",
+      "subsections": []
+    },
+    {
+      "id": "alquimista",
+      "name": "Alquimista",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase alquimista.",
+      "subsections": []
+    },
+    {
+      "id": "anfibio",
+      "name": "Anfibio",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una criatura anfibia puede respirar bajo el agua y en el aire, incluso fuera de su entorno favorito, usualmente de forma indefinida, pero por lo menos durante horas. Estas criaturas a menudo tienen una Velocidad de nadar. Sus Golpes sin armas contundentes y cortantes no sufren el penalizador -2 habitual por estar bajo el agua.",
+      "subsections": []
+    },
+    {
+      "id": "angel",
+      "name": "Ángel",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esta familia de celestiales es nativa del Plano del Nirvana.",
+      "subsections": []
+    },
+    {
+      "id": "animal",
+      "name": "Animal",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Un animal es una criatura con una inteligencia relativamente baja. Su modificador por atributo de Inteligencia no suele ser superior a -4, no puede hablar idioma alguno y no puede ser entrenada en habilidades basadas en la inteligencia.",
+      "subsections": []
+    },
+    {
+      "id": "aparicion",
+      "name": "Aparición",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un riesgo con este rasgo es un eco espiritual, a menudo de alguien que murió trágicamente.",
+      "subsections": []
+    },
+    {
+      "id": "aprovechar",
+      "name": "Aprovechar",
+      "trait_type": "daño",
+      "source": "PC1",
+      "description": "Esta acción te permite hacer uso de una circunstancia o posición ventajosa.",
+      "subsections": []
+    },
+    {
+      "id": "arcano",
+      "name": "Arcano",
+      "trait_type": "tradición",
+      "source": "PC1",
+      "description": "Esta magia procede de la tradición arcana, que está basada en la lógica y en la racionalidad. Cualquier cosa con este rasgo es mágica.",
+      "subsections": []
+    },
+    {
+      "id": "arconte",
+      "name": "Arconte",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esta familia de celestiales protege el Cielo.",
+      "subsections": []
+    },
+    {
+      "id": "arquetipo",
+      "name": "Arquetipo",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esta dote pertenece a un arquetipo.",
+      "subsections": []
+    },
+    {
+      "id": "arrojadiza",
+      "name": "Arrojadiza",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Puedes lanzar esta arma como ataque a distancia, y utiliza el mismo modificador por atributo que normalmente, generalmente Fuerza.",
+      "subsections": []
+    },
+    {
+      "id": "ataque",
+      "name": "Ataque",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Una aptitud con este rasgo implica un ataque. Por cada ataque que llevas a cabo más allá del primero en tu turno, sufres un penalizador por ataque múltiple.",
+      "subsections": []
+    },
+    {
+      "id": "auditivo",
+      "name": "Auditivo",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Las acciones y los efectos auditivos se basan en el sonido. Una acción con el rasgo auditivo sólo se puede llevar a cabo con éxito si la criatura que la utiliza puede hablar o, de alguna manera, emitir los sonidos requeridos. Un conjuro o efecto con el rasgo auditivo sólo tiene efecto si el objetivo puede oírlo. Esto solo se aplica a las partes del efecto basadas en el sonido, a determinar por el DJ. Es diferente a un efecto sónico, que afectará a objetivos que no puedan oírlo (como por ejemplo objetivos sordos) mientras el efecto en sí produzca sonido.",
+      "subsections": []
+    },
+    {
+      "id": "aura",
+      "name": "Aura",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un aura es una emanación que fluye continuamente de ti, afectando a las criaturas en un determinado radio. El aura también se puede referir a la signatura mágica de un objeto.",
+      "subsections": []
+    },
+    {
+      "id": "azata",
+      "name": "Azata",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esta familia de celestiales es nativa del Elíseo.",
+      "subsections": []
+    },
+    {
+      "id": "baculo",
+      "name": "Báculo",
+      "trait_type": "equipo",
+      "source": "PC1",
+      "description": "Un báculo mágico es un objeto largo y delgado que contiene conjuros.",
+      "subsections": []
+    },
+    {
+      "id": "baluarte",
+      "name": "Baluarte",
+      "trait_type": "arma",
+      "source": "PC1",
+      "description": "Agarrar esta arma otorga un bonificador +2 por circunstancia a tu CA mientras estés en posición defensiva.",
+      "subsections": []
+    },
+    {
+      "id": "barbaro",
+      "name": "Bárbaro",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase bárbaro.",
+      "subsections": []
+    },
+    {
+      "id": "bardo",
+      "name": "Bardo",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase bardo.",
+      "subsections": []
+    },
+    {
+      "id": "barrido",
+      "name": "Barrido",
+      "trait_type": "conjuro",
+      "source": "PC1",
+      "description": "Este arma hace amplios barridos. Cuando atacas con esta arma, obtienes un bonificador +1 por circunstancia a tu tirada de ataque si ya has intentado atacar con ella a otra criatura diferente este turno.",
+      "subsections": []
+    },
+    {
+      "id": "bestia",
+      "name": "Bestia",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Una criatura similar un animal, pero con un modificador por Inteligencia de -3 o mayor suele ser una bestia. A diferencia de un animal, una bestia podría ser capaz de hablar y de razonar.",
+      "subsections": []
+    },
+    {
+      "id": "bomba",
+      "name": "Bomba",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una bomba alquímica combina componentes alquímicos volátiles, que explotan cuando la bomba choca contra una criatura o un objeto. La mayoría infligen daño, aunque otras tienen efectos variados.",
+      "subsections": []
+    },
+    {
+      "id": "bravura",
+      "name": "Bravura",
+      "trait_type": "emocion",
+      "source": "PC1",
+      "description": "Este efecto inspira valor y determinación.",
+      "subsections": []
+    },
+    {
+      "id": "brujo",
+      "name": "Brujo",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase brujo.",
+      "subsections": []
+    },
+    {
+      "id": "bueno",
+      "name": "Bueno",
+      "trait_type": "alineamiento",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo son efectos del bien.",
+      "subsections": []
+    },
+    {
+      "id": "caminante-del-ocaso",
+      "name": "Caminante Del Ocaso",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un caminante del ocaso.",
+      "subsections": []
+    },
+    {
+      "id": "campeon",
+      "name": "Campeón",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase campeón.",
+      "subsections": []
+    },
+    {
+      "id": "catfolk",
+      "name": "Catfolk",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia catfolk.",
+      "subsections": []
+    },
+    {
+      "id": "celestial",
+      "name": "Celestial",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "A las criaturas que proceden de los Planos sagrados o que tienen una fuerte conexión con ellos se les denomina celestiales. Los celestiales pueden sobrevivir a los efectos ambientales básicos de los Planos de la Esfera Exterior.",
+      "subsections": []
+    },
+    {
+      "id": "changeling",
+      "name": "Changeling",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo tiene la herencia versátil changeling. Los changelings son vástagos habidos entre las sagas y otros miembros de las ascendencias humanoides. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por los changelings.",
+      "subsections": []
+    },
+    {
+      "id": "cieno",
+      "name": "Cieno",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Los cienos son criaturas con anatomía muy sencilla. Tienden a tener modificadores por atributo mental bajos e inmunidad a los efectos mentales y al daño de precisión.",
+      "subsections": []
+    },
+    {
+      "id": "clerigo",
+      "name": "Clérigo",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica las aptitudes de la clase clérigo.",
+      "subsections": []
+    },
+    {
+      "id": "comoda",
+      "name": "Cómoda",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esta armadura es cómoda de llevar durante largos periodos de tiempo.",
+      "subsections": []
+    },
+    {
+      "id": "complejo",
+      "name": "Complejo",
+      "trait_type": "peligro",
+      "source": "PC1",
+      "description": "Este peligro tiene un bloque de estadísticas complejo y puede actuar en combate.",
+      "subsections": []
+    },
+    {
+      "id": "composicion",
+      "name": "Composición",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Para lanzar un conjuro de composición, usas una forma de Interpretación. Si el conjuro incluye un componente verbal, debes usar una forma auditiva de Interpretación, y si incluye un componente somático, debes usar una forma visual de Interpretación.",
+      "subsections": []
+    },
+    {
+      "id": "concentrar",
+      "name": "Concentrar",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Una acción con esta rasgo requiere cierto grado de concentración y disciplina mental.",
+      "subsections": []
+    },
+    {
+      "id": "conjuracion",
+      "name": "Conjuración",
+      "trait_type": "magia",
+      "source": "PC1",
+      "description": "Los efectos de conjuración transportan criaturas u objetos, o crean cosas de la nada.",
+      "subsections": []
+    },
+    {
+      "id": "consagracion",
+      "name": "Consagración",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Un conjuro de consagración refuerza un área durante un período de tiempo prolongado. Un área determinada sólo puede disponer de un efecto de consagración a la vez. El nuevo efecto contrarresta cualquier efecto existente en las áreas en que se solapan.",
+      "subsections": []
+    },
+    {
+      "id": "constructo",
+      "name": "Constructo",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Un constructo es una criatura artificial alimentada por una fuerza distinta a la vitalidad o el vacío.",
+      "subsections": []
+    },
+    {
+      "id": "consumible",
+      "name": "Consumible",
+      "trait_type": "equipo",
+      "source": "PC1",
+      "description": "Un objeto con este rasgo puede usarse solo una vez. A menos que se indique lo contrario, el objeto se destruye al activarlo.",
+      "subsections": []
+    },
+    {
+      "id": "contacto",
+      "name": "Contacto",
+      "trait_type": "veneno",
+      "source": "PC1",
+      "description": "Este veneno se administra por contacto con la piel.",
+      "subsections": []
+    },
+    {
+      "id": "convocado",
+      "name": "Convocado",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una criatura convocada no puede convocar a otras criaturas, crear objetos de valor duradero o lanzar conjuros que requieran un coste.",
+      "subsections": []
+    },
+    {
+      "id": "curacion",
+      "name": "Curación",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un efecto de curación restaura el cuerpo de una criatura, típicamente restableciendo Puntos de Golpe, pero a veces eliminando enfermedades u otros efectos debilitantes.",
+      "subsections": []
+    },
+    {
+      "id": "daimonion",
+      "name": "Daimonion",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una familia de infernales procedente de Abaddon.",
+      "subsections": []
+    },
+    {
+      "id": "dedicacion",
+      "name": "Dedicación",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Esta dote representa un entrenamiento especializado que te da acceso a un conjunto de aptitudes. Solo puedes seleccionar una dote de dedicación de un arquetipo dado una vez.",
+      "subsections": []
+    },
+    {
+      "id": "demonio",
+      "name": "Demonio",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una familia de infernales pecaminosos de las Fisuras Exteriores.",
+      "subsections": []
+    },
+    {
+      "id": "derribo",
+      "name": "Derribo",
+      "trait_type": "arma",
+      "source": "PC1",
+      "description": "Puedes usar esta arma para realizar la acción de Derribar con un ataque cuerpo a cuerpo, incluso si no tienes una mano libre.",
+      "subsections": []
+    },
+    {
+      "id": "desarme",
+      "name": "Desarme",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Puedes usar esta arma para realizar la acción de Desarmar con un ataque cuerpo a cuerpo, incluso si no tienes una mano libre.",
+      "subsections": []
+    },
+    {
+      "id": "descerebrado",
+      "name": "Descerebrado",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una criatura descerebrada tiene atributos mentales programados o rudimentarios. La mayoría de sus modificadores (si no todos) por atributo mental son -5. Es inmune a todos los efectos mentales.",
+      "subsections": []
+    },
+    {
+      "id": "desgracia",
+      "name": "Desgracia",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Una desgracia es un efecto negativo basado en la suerte.",
+      "subsections": []
+    },
+    {
+      "id": "desventura",
+      "name": "Desventura",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Un efecto de desventura te obliga a tirar dos veces y tomar el peor resultado.",
+      "subsections": []
+    },
+    {
+      "id": "deteccion",
+      "name": "Detección",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo tratan de determinar la presencia o la ubicación de una persona, objeto o aura.",
+      "subsections": []
+    },
+    {
+      "id": "dhampir",
+      "name": "Dhampir",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un dhampir, descendiente de un vampiro.",
+      "subsections": []
+    },
+    {
+      "id": "diablo",
+      "name": "Diablo",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una familia de infernales regimentados procedente del Infierno.",
+      "subsections": []
+    },
+    {
+      "id": "dinosaurio",
+      "name": "Dinosaurio",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Estos reptiles han sobrevivido desde los tiempos prehistóricos.",
+      "subsections": []
+    },
+    {
+      "id": "disimulado",
+      "name": "Disimulado",
+      "trait_type": "conjuro",
+      "source": "PC1",
+      "description": "Un conjuro con el rasgo disimulado se puede lanzar sin encantamientos y no tiene manifestaciones obvias.",
+      "subsections": []
+    },
+    {
+      "id": "divino",
+      "name": "Divino",
+      "trait_type": "tradición",
+      "source": "PC1",
+      "description": "Esta magia procede de la tradición divina, extrayendo poder de los dioses o fuentes similares. Cualquier cosa con este rasgo es mágica.",
+      "subsections": []
+    },
+    {
+      "id": "dragon",
+      "name": "Dragón",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Los dragones son criaturas reptilianas, a menudo provistas de alas o con el poder de volar. La mayoría pueden exhalar energía mágica y son inmunes al sueño y a la parálisis.",
+      "subsections": []
+    },
+    {
+      "id": "dromaar",
+      "name": "Dromaar",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo tiene la herencia versátil dromaar. Los dromaar son de ascendencia mixta, incluyendo orcos u otros dromaars. Una aptitud con este rasgo sólo puede ser seleccionada por dromaars.",
+      "subsections": []
+    },
+    {
+      "id": "druida",
+      "name": "Druida",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase druida.",
+      "subsections": []
+    },
+    {
+      "id": "electricidad",
+      "name": "Electricidad",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo infligen daño por electricidad. Una criatura con este rasgo tiene una conexión con la electricidad mágica.",
+      "subsections": []
+    },
+    {
+      "id": "elemental",
+      "name": "Elemental",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Los elementales son criaturas directamente vinculadas a un elemento y nativos de los Planos Elementales. No necesitan respirar.",
+      "subsections": []
+    },
+    {
+      "id": "elfo",
+      "name": "Elfo",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia de los elfos. Los elfos son gente misteriosa con ricas tradiciones de magia y erudición, que típicamente disponen de visión en la oscuridad. Una aptitud con este rasgo sólo puede ser seleccionada por elfos. Un arma con este rasgo es creada y utilizada por elfos.",
+      "subsections": []
+    },
+    {
+      "id": "elixir",
+      "name": "Elixir",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los elixires son líquidos alquímicos que se utilizan bebiéndolos.",
+      "subsections": []
+    },
+    {
+      "id": "emocion",
+      "name": "Emoción",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Este efecto altera las emociones de una criatura. Los efectos con este rasgo siempre tienen también el rasgo mental. Las criaturas con entrenamiento especial o que disponen de inteligencia artificial o mecánica son inmunes a dichos efectos.",
+      "subsections": []
+    },
+    {
+      "id": "empujon",
+      "name": "Empujón",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Puedes usar esta arma para realizar la acción de Empujar con un ataque cuerpo a cuerpo, incluso si no tienes una mano libre.",
+      "subsections": []
+    },
+    {
+      "id": "encantamiento",
+      "name": "Encantamiento",
+      "trait_type": "magia",
+      "source": "PC1",
+      "description": "Los efectos de encantamiento afectan las mentes de otras criaturas.",
+      "subsections": []
+    },
+    {
+      "id": "enfermedad",
+      "name": "Enfermedad",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Un efecto con este rasgo se aplica a una o más enfermedades. Una enfermedad es típicamente una aflicción.",
+      "subsections": []
+    },
+    {
+      "id": "entre-descansos",
+      "name": "Entre descansos",
+      "trait_type": "frecuencia",
+      "source": "PC1",
+      "description": "Esta actividad o aptitud solo puede usarse una vez entre descansos prolongados.",
+      "subsections": []
+    },
+    {
+      "id": "esbirro",
+      "name": "Esbirro",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Los esbirros son criaturas que siguen tus órdenes sin cuestionar. Tu esbirro actúa en tu turno en combate, una vez por ronda, cuando gastas una acción para ordenarle que actúe.",
+      "subsections": []
+    },
+    {
+      "id": "escudrinamiento",
+      "name": "Escudriñamiento",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Un efecto de escudriñamiento te permite ver, oír u obtener de alguna otra forma información sensorial a distancia utilizando un sensor o aparato en lugar de tus propios ojos y oídos.",
+      "subsections": []
+    },
+    {
+      "id": "espadachin",
+      "name": "Espadachín",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase espadachín.",
+      "subsections": []
+    },
+    {
+      "id": "espiritu",
+      "name": "Espíritu",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con dicho rasgo pueden afectar a las criaturas con esencia espiritual y podrían infligir daño espiritual. Una criatura con este rasgo se define por su esencia espiritual. Las criaturas espirituales a menudo carecen de forma material.",
+      "subsections": []
+    },
+    {
+      "id": "estructura",
+      "name": "Estructura",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un objeto con el rasgo estructura crea un edificio mágico u otra estructura cuando se activa. El objeto debe ser activado sobre un espacio de terreno libre de otras estructuras. Se adapta al terreno natural, adoptando los requisitos estructurales para poderse construir allí. Una estructura se ajusta alrededor de pequeños rasgos como estanques o espiras de roca, pero no se puede crear sobre agua u otras superficies no sólidas. Si se activa sobre la nieve, dunas de arena u otras superficies blandas con una superficie sólida debajo, sus cimientos (si los tiene) llegan hasta el terreno sólido. Si un objeto con este rasgo es activado sobre una superficie sólida pero inestable, como por ejemplo un pantano o un área en la que tienen lugar temblores de tierra, haz una prueba plana CD 3 cada día; con un fallo, la estructura empieza a hundirse o a derrumbarse. La estructura no daña a las criaturas en el interior del área cuando aparece, y no se puede crear en el interior de una multitud o en un área densamente poblada. Cualquier criatura atrapada inadvertidamente en el interior de la misma cuando el objeto es activado, acaba sin sufrir daños en el interior de la estructura completa y siempre dispone de una ruta de huida despejada. Una criatura que está en el interior cuando se acaba la activación no resulta dañada y aterriza inofensivamente en el suelo si estaba en uno de los niveles superiores.",
+      "subsections": []
+    },
+    {
+      "id": "etereo",
+      "name": "Etéreo",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Las criaturas etéreas son nativas del Plano Etéreo. Pueden sobrevivir a los efectos ambientales básicos del Plano Etéreo.",
+      "subsections": []
+    },
+    {
+      "id": "evocacion",
+      "name": "Evocación",
+      "trait_type": "magia",
+      "source": "PC1",
+      "description": "Los efectos de evocación crean o manipulan energía.",
+      "subsections": []
+    },
+    {
+      "id": "exploracion",
+      "name": "Exploración",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Una actividad con este rasgo tarda más de un turno en usarse y por lo general sólo se utiliza durante el modo de exploración.",
+      "subsections": []
+    },
+    {
+      "id": "explorador",
+      "name": "Explorador",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase explorador.",
+      "subsections": []
+    },
+    {
+      "id": "extradimensional",
+      "name": "Extradimensional",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Este efecto u objeto crea un espacio extradimensional. Un efecto extradimensional colocado en el interior de otro espacio extradimensional deja de funcionar hasta que se saca del mismo.",
+      "subsections": []
+    },
+    {
+      "id": "fatal",
+      "name": "Fatal",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "El dado de daño de fatal de esta arma se muestra entre paréntesis. En un impacto crítico, el arma inflige un dado de daño adicional de ese tamaño, y el arma inflige ese dado de daño en lugar de su dado de daño normal.",
+      "subsections": []
+    },
+    {
+      "id": "fijada",
+      "name": "Fijada",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Esta arma puede fijarse en el suelo, lo que requiere una acción de Interactuar. Cuando está fijada, obtienes un bonificador +1 por circunstancia a las tiradas de daño con esta arma contra criaturas que se muevan hacia ti.",
+      "subsections": []
+    },
+    {
+      "id": "flexible",
+      "name": "Flexible",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esta armadura es flexible y no penaliza tanto tus movimientos.",
+      "subsections": []
+    },
+    {
+      "id": "floritura",
+      "name": "Floritura",
+      "trait_type": "accion",
+      "source": "PC1",
+      "description": "Las acciones con este rasgo son técnicas especiales que requieren demasiado cuidado como para que las ejecutes a menudo. Solo puedes utilizar 1 acción con el rasgo floritura por turno.",
+      "subsections": []
+    },
+    {
+      "id": "foco",
+      "name": "Foco",
+      "trait_type": "conjuro",
+      "source": "PC1",
+      "description": "Un conjuro que puedes lanzar gastando 1 Punto de Foco y que es potenciado automáticamente a la mitad de tu nivel, redondeado hacia arriba.",
+      "subsections": []
+    },
+    {
+      "id": "fortuna-adversa",
+      "name": "Fortuna Adversa",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Un efecto de fortuna adversa te obliga a tirar dos veces y tomar el peor resultado.",
+      "subsections": []
+    },
+    {
+      "id": "fortuna",
+      "name": "Fortuna",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Un efecto de fortuna te permite tirar dos veces y tomar el mejor resultado. No puedes tener más de un efecto de fortuna en una tirada dada.",
+      "subsections": []
+    },
+    {
+      "id": "frio",
+      "name": "Frío",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo infligen daño por frío. Las criaturas con este rasgo tienen una conexión con el frío mágico.",
+      "subsections": []
+    },
+    {
+      "id": "fuego",
+      "name": "Fuego",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con el rasgo fuego infligen daño por fuego, o bien conjuran o manipulan fuego. Los que manipulan fuego no tienen efecto alguno en un área carente del mismo. Las criaturas con este rasgo están hechas principalmente de fuego o tienen una conexión con el fuego mágico.",
+      "subsections": []
+    },
+    {
+      "id": "fuerza",
+      "name": "Fuerza",
+      "trait_type": "daño",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo infligen daño por fuerza o crean objetos hechos de fuerza mágica pura.",
+      "subsections": []
+    },
+    {
+      "id": "furia",
+      "name": "Furia",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Tienes que estar en furia para usar las aptitudes con el rasgo furia, que acaban automáticamente cuando dejas de estarlo.",
+      "subsections": []
+    },
+    {
+      "id": "gemela",
+      "name": "Gemela",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Estas armas se utilizan en pareja, complementando los ataques de una con la otra. Cuando usas tu segunda arma gemela para hacer un Golpe mientras empuñas ambas armas gemelas, añades un bonificador +1 por circunstancia a la tirada de daño.",
+      "subsections": []
+    },
+    {
+      "id": "general",
+      "name": "General",
+      "trait_type": "dote",
+      "source": "PC1",
+      "description": "Una dote con este rasgo está disponible para todos los personajes que cumplan sus prerrequisitos.",
+      "subsections": []
+    },
+    {
+      "id": "gigante",
+      "name": "Gigante",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Los gigantes son criaturas humanoides enormes.",
+      "subsections": []
+    },
+    {
+      "id": "gnomo",
+      "name": "Gnomo",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia de los gnomos. Los gnomos son gente pequeña y hábil en la magia, que busca nuevas experiencias y que por lo general dispone de visión en la penumbra. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por los gnomos. Un arma con este rasgo es creada y utilizada por los gnomos.",
+      "subsections": []
+    },
+    {
+      "id": "goblin",
+      "name": "Goblin",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo puede pertenecer a uno de diversos tipos de criaturas, incluyendo goblins, hobgoblins y bugbears. Los goblins tienden a tener visión en la oscuridad. Una aptitud con este rasgo sólo puede ser utilizada o elegida por los goblins. Una arma con este rasgo suele ser creada y utilizada por los goblins.",
+      "subsections": []
+    },
+    {
+      "id": "guerrero",
+      "name": "Guerrero",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase guerrero.",
+      "subsections": []
+    },
+    {
+      "id": "habilidad",
+      "name": "Habilidad",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Una dote general con el rasgo habilidad mejora tus habilidades y tus acciones o te concede nuevas acciones para una habilidad determinada. Una dote con este rasgo se puede seleccionar cuando una clase concede una dote de habilidad o una dote general. Las dotes de arquetipo con el rasgo habilidad pueden ser seleccionadas en lugar de una dote de habilidad si tienes la dote de dedicación de dicho arquetipo.",
+      "subsections": []
+    },
+    {
+      "id": "hada",
+      "name": "Hada",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "A las criaturas del Primer Mundo se las denomina hadas.",
+      "subsections": []
+    },
+    {
+      "id": "hechicero",
+      "name": "Hechicero",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase hechicero.",
+      "subsections": []
+    },
+    {
+      "id": "herida",
+      "name": "Herida",
+      "trait_type": "veneno",
+      "source": "PC1",
+      "description": "Este veneno se aplica dañando a su receptor.",
+      "subsections": []
+    },
+    {
+      "id": "hobgoblin",
+      "name": "Hobgoblin",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia hobgoblin.",
+      "subsections": []
+    },
+    {
+      "id": "hongo",
+      "name": "Hongo",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Las criaturas fúngicas tienen el rasgo hongo. Son distintas de los hongos normales.",
+      "subsections": []
+    },
+    {
+      "id": "hryngar",
+      "name": "Hryngar",
+      "trait_type": "veneno",
+      "source": "PC1",
+      "description": "Parientes subterráneos de los enanos, los hryngars suelen tener visión en la oscuridad, resisten al veneno y retroceden ante la luz brillante.",
+      "subsections": []
+    },
+    {
+      "id": "humano",
+      "name": "Humano",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia de los humanos. Los humanos conforman un amplio abanico de gente conocida por su adaptabilidad. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por humanos.",
+      "subsections": []
+    },
+    {
+      "id": "humanoide",
+      "name": "Humanoide",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Las criaturas humanoides razonan y actúan en gran medida como los humanos. Suelen caminar erguidas y disponen de dos brazos y dos piernas.",
+      "subsections": []
+    },
+    {
+      "id": "ilusion",
+      "name": "Ilusión",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los efectos y los objetos mágicos con este rasgo implican estímulos sensoriales falsos.",
+      "subsections": []
+    },
+    {
+      "id": "incapacitacion",
+      "name": "Incapacitación",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una aptitud con este rasgo puede eliminar del combate por completo a un PJ o incluso matarle, y es más difícil de usar contra un PJ más poderoso. Si un conjuro tiene el rasgo incapacitación, cualquier criatura de más del doble del rango del conjuro trata el resultado de su prueba para evitar ser incapacitada por el conjuro como un grado de éxito mayor, o el resultado de cualquier prueba que el lanzador de conjuros ha hecho para incapacitarla como un grado de éxito peor. Si cualquier otro efecto tiene el rasgo incapacitación, una criatura de nivel superior al del objeto, criatura o riesgo que genera el efecto obtiene los mismos beneficios.",
+      "subsections": []
+    },
+    {
+      "id": "infernal",
+      "name": "Infernal",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "A las criaturas que proceden de los Planos sacrílegos o tienen una fuerte conexión con ellos se las denomina infernales. Pueden sobrevivir a los efectos ambientales básicos de la Esfera Exterior.",
+      "subsections": []
+    },
+    {
+      "id": "infundido",
+      "name": "Infundido",
+      "trait_type": "equipo",
+      "source": "PC1",
+      "description": "Un objeto tiene este rasgo si fue creado por un alquimista usando infusiones.",
+      "subsections": []
+    },
+    {
+      "id": "ingerido",
+      "name": "Ingerido",
+      "trait_type": "veneno",
+      "source": "PC1",
+      "description": "Este veneno se introduce en el cuerpo cuando lo tragas.",
+      "subsections": []
+    },
+    {
+      "id": "inhalado",
+      "name": "Inhalado",
+      "trait_type": "veneno",
+      "source": "PC1",
+      "description": "Este veneno se aplica cuando se respira.",
+      "subsections": []
+    },
+    {
+      "id": "invertir",
+      "name": "Invertir",
+      "trait_type": "equipo",
+      "source": "PC1",
+      "description": "Un objeto con este rasgo debe ser investido para que funcionen sus beneficios mágicos continuos.",
+      "subsections": []
+    },
+    {
+      "id": "investigador",
+      "name": "Investigador",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase investigador.",
+      "subsections": []
+    },
+    {
+      "id": "ira",
+      "name": "Ira",
+      "trait_type": "emocion",
+      "source": "PC1",
+      "description": "Este efecto causa o se relaciona con la emoción de ira.",
+      "subsections": []
+    },
+    {
+      "id": "iruxi",
+      "name": "Iruxi",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia iruxi (hombre lagarto).",
+      "subsections": []
+    },
+    {
+      "id": "justa-de",
+      "name": "Justa, de",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esta arma está diseñada para usarse mientras estás montado. Mientras estés montado, puedes empuñar esta arma con una mano, cambiando el requisito de manos a 1.",
+      "subsections": []
+    },
+    {
+      "id": "justiciero",
+      "name": "Justiciero",
+      "trait_type": "arquetipo",
+      "source": "PC1",
+      "description": "Esto indica aptitudes del arquetipo justiciero.",
+      "subsections": []
+    },
+    {
+      "id": "kholo",
+      "name": "Kholo",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia kholo (gnoll).",
+      "subsections": []
+    },
+    {
+      "id": "kobold",
+      "name": "Kobold",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia kobold.",
+      "subsections": []
+    },
+    {
+      "id": "leshy",
+      "name": "Leshy",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia de los leshys. Estas pequeñas criaturas vegetales o fúngicas tienen forma humanoide. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por los leshys. Una arma con este rasgo suele ser creada y utilizada por los leshys.",
+      "subsections": []
+    },
+    {
+      "id": "lesion",
+      "name": "Lesión",
+      "trait_type": "veneno",
+      "source": "PC1",
+      "description": "Un veneno de lesión se introduce en el cuerpo a través de una herida abierta, ya sea por un ataque o aplicado a un arma.",
+      "subsections": []
+    },
+    {
+      "id": "letal",
+      "name": "Letal",
+      "trait_type": "conjuro",
+      "source": "PC1",
+      "description": "El dado de daño letal de esta arma se muestra entre paréntesis. En un impacto crítico, el arma inflige daño letal adicional igual a ese dado de daño.",
+      "subsections": []
+    },
+    {
+      "id": "linaje",
+      "name": "Linaje",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una dote con este rasgo indica la descendencia de un PJ de un tipo particular de criatura. Sólo puedes tener una dote de linaje. Sólo puedes seleccionar una dote de linaje a primer nivel y no puedes reconvertir ninguna de dichas dotes, ni para adquirirla ni para abandonarla.",
+      "subsections": []
+    },
+    {
+      "id": "linguistico",
+      "name": "Lingüístico",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un efecto con este rasgo depende de la comprensión lingüística. Un efecto lingüístico que designa como objetivo a una criatura sólo funciona si entiende el idioma que estás utilizando.",
+      "subsections": []
+    },
+    {
+      "id": "luz",
+      "name": "Luz",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los efectos de luz superan a la oscuridad no mágica del área y pueden contrarrestar la oscuridad mágica. Por lo general, tienes que designar directamente como objetivo la magia de oscuridad con tu magia de luz para contrarrestarla, pero algunos conjuros de luz tratan automáticamente de contrarrestar la oscuridad.",
+      "subsections": []
+    },
+    {
+      "id": "madera",
+      "name": "Madera",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con el rasgo madera conjuran o manipulan madera. Los que manipulan madera carecen de efecto en un área sin madera. Las criaturas con este rasgo están hechas principalmente de madera o tienen una conexión con la madera mágica.",
+      "subsections": []
+    },
+    {
+      "id": "magico",
+      "name": "Mágico",
+      "trait_type": "tradición",
+      "source": "PC1",
+      "description": "Algo con el rasgo mágico está imbuido de energías mágicas no vinculadas a una tradición de magia específica. Algunos objetos o efectos están fuertemente vinculados a una tradición de magia en particular. En dichos casos, el objeto tiene el rasgo arcano, divino, ocultista o primigenio en lugar del rasgo mágico. Cualquiera de estos rasgos indica que el objeto es mágico.",
+      "subsections": []
+    },
+    {
+      "id": "mago",
+      "name": "Mago",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase mago.",
+      "subsections": []
+    },
+    {
+      "id": "maldicion",
+      "name": "Maldición",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una maldición es un efecto que impone alguna aflicción de largo plazo a una criatura. Las maldiciones siempre son mágicas y, típicamente, el resultado de un conjuro o de una trampa. Los efectos con este rasgo sólo se pueden eliminar mediante efectos que designan específicamente como objetivo a las maldiciones.",
+      "subsections": []
+    },
+    {
+      "id": "maleficio",
+      "name": "Maleficio",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un maleficio es un tipo de conjuro de foco asociado con la clase de brujo. Los maleficios se lanzan utilizando Puntos de Foco.",
+      "subsections": []
+    },
+    {
+      "id": "manipular",
+      "name": "Manipular",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Tienes que manipular físicamente un objeto o hacer gestos para usar una acción con este rasgo. Las criaturas que carecen de un apéndice adecuado no pueden llevar a cabo acciones con este rasgo. Las acciones de manipular a menudo desencadenan reacciones.",
+      "subsections": []
+    },
+    {
+      "id": "mano-libre",
+      "name": "Mano libre",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Esta arma no ocupa tu mano, permitiéndote usar esa mano para otras acciones.",
+      "subsections": []
+    },
+    {
+      "id": "mecanico",
+      "name": "Mecánico",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un riesgo con este rasgo es un objeto físico construido.",
+      "subsections": []
+    },
+    {
+      "id": "mediano",
+      "name": "Mediano",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia de los medianos. Esta gente pequeña son trotamundos amistosos, y se les considera afortunados. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por los medianos. Una arma con este rasgo suele ser creada y utilizada por los medianos.",
+      "subsections": []
+    },
+    {
+      "id": "mental",
+      "name": "Mental",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un efecto mental puede alterar la mente del objetivo. No tiene efecto sobre un objeto o sobre una criatura descerebrada.",
+      "subsections": []
+    },
+    {
+      "id": "metal",
+      "name": "Metal",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con el rasgo metal conjuran o manipulan metales. Los que manipulan metales no tienen efecto alguno en un área carente de los mismos. Las criaturas con este rasgo están hechas principalmente de metal o tienen una conexión con el metal mágico.",
+      "subsections": []
+    },
+    {
+      "id": "miedo",
+      "name": "Miedo",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los efectos de miedo evocan la emoción del miedo. Los efectos con este rasgo siempre tienen también los rasgos mental y emoción.",
+      "subsections": []
+    },
+    {
+      "id": "moldeo-de-conjuros",
+      "name": "Moldeo de conjuros",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Las acciones de moldeo de conjuros te permiten modificar los efectos de tus conjuros.",
+      "subsections": []
+    },
+    {
+      "id": "monitor",
+      "name": "Monitor",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "A las criaturas que proceden del Eje, el Osario o el Maelstrom o tienen una fuerte conexión con dichos lugares se les denomina monitores. Pueden sobrevivir a los efectos ambientales básicos de los Planos de la Esfera Exterior.",
+      "subsections": []
+    },
+    {
+      "id": "monje",
+      "name": "Monje",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase monje.",
+      "subsections": []
+    },
+    {
+      "id": "morfismo",
+      "name": "Morfismo",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo cambian la forma física del objetivo.",
+      "subsections": []
+    },
+    {
+      "id": "movimiento",
+      "name": "Movimiento",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Una acción con este rasgo implica moverse de un espacio a otro.",
+      "subsections": []
+    },
+    {
+      "id": "muerte",
+      "name": "Muerte",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Un efecto con el rasgo muerte te mata de inmediato si te reduce a 0 PG. Algunos efectos de muerte te pueden llevar más cerca de la muerte o matarte directamente sin reducirte a 0 PG.",
+      "subsections": []
+    },
+    {
+      "id": "muerto-viviente",
+      "name": "Muerto viviente",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Antes vivas, estas criaturas fueron infundidas después de la muerte con energía del vacío y con magia sacrílega corruptora del alma. Cuando queda reducida a 0 Puntos de Golpe, una criatura muerta viviente resulta destruida. Las criaturas muertas vivientes son dañadas por la energía de la vitalidad y son curadas por la energía del vacío, y no se benefician de los efectos curativos de la vitalidad.",
+      "subsections": []
+    },
+    {
+      "id": "multiclase",
+      "name": "Multiclase",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los arquetipos con el rasgo multiclase representan diversificar tu entrenamiento en las aptitudes de otra clase.",
+      "subsections": []
+    },
+    {
+      "id": "mutageno",
+      "name": "Mutágeno",
+      "trait_type": "equipo",
+      "source": "PC1",
+      "description": "Un mutágeno es un elixir alquímico que causa cambios físicos temporales.",
+      "subsections": []
+    },
+    {
+      "id": "nefilim",
+      "name": "Nefilim",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo tiene la herencia versátil nefilim. Los nefilim son vástagos planarios que descienden de seres inmortales de otros Planos. Una aptitud con este rasgo sólo puede ser utilizada o seleccionada por los nefilim.",
+      "subsections": []
+    },
+    {
+      "id": "no-letal",
+      "name": "No letal",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Todas las armas con este rasgo son no letales y se usan para someter a los enemigos en lugar de matarlos.",
+      "subsections": []
+    },
+    {
+      "id": "ocultable",
+      "name": "Ocultable",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Esta arma está diseñada para ser ocultada. Obtienes un bonificador +2 por circunstancia a las pruebas de habilidad para ocultarla.",
+      "subsections": []
+    },
+    {
+      "id": "ocultismo",
+      "name": "Ocultismo",
+      "trait_type": "tradición",
+      "source": "PC1",
+      "description": "Esta magia procede de la tradición ocultista, y se basa en misterios extraños y efímeros. Cualquier cosa con este rasgo es mágica.",
+      "subsections": []
+    },
+    {
+      "id": "ocultista",
+      "name": "Ocultista",
+      "trait_type": "clase",
+      "source": "PC2",
+      "description": "Esto indica aptitudes de la clase ocultista.",
+      "subsections": []
+    },
+    {
+      "id": "oculto",
+      "name": "Oculto",
+      "trait_type": "tradicion",
+      "source": "PC1",
+      "description": "Este conjuro o efecto usa la tradición oculta de magia.",
+      "subsections": []
+    },
+    {
+      "id": "olfativo",
+      "name": "Olfativo",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un efecto olfativo tan solo puede afectar a las criaturas capaces de olerlo. Esto sólo se aplica a las partes olfativas del efecto, a determinar por el DJ.",
+      "subsections": []
+    },
+    {
+      "id": "oraculo",
+      "name": "Oráculo",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase oráculo.",
+      "subsections": []
+    },
+    {
+      "id": "orco",
+      "name": "Orco",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia de los orcos. Esta gente de piel verde tiende a disponer de visión en la oscuridad. Una aptitud con esta rasgo sólo puede ser utilizada o seleccionada por los orcos. Un objeto con este rasgo es creado y utilizado por los orcos.",
+      "subsections": []
+    },
+    {
+      "id": "oscuridad",
+      "name": "Oscuridad",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los efectos de oscuridad extinguen la luz no mágica en el área y pueden contrarrestar una luz mágica menos potente. Por lo general tienes que designar como objetivo directamente la magia de luz con tu magia de oscuridad para contrarrestarla, pero algunos conjuros de oscuridad hacen automáticamente una prueba para contrarrestar la luz.",
+      "subsections": []
+    },
+    {
+      "id": "parada",
+      "name": "Parada",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Esta arma puede usarse de forma defensiva para bloquear ataques. Mientras empuñas esta arma, si tu competencia con ella es al menos entrenado, puedes usar la acción Parar.",
+      "subsections": []
+    },
+    {
+      "id": "pergamino",
+      "name": "Pergamino",
+      "trait_type": "conjuro",
+      "source": "PC1",
+      "description": "Un pergamino es un consumible que contiene un solo conjuro, que puedes lanzar sin un espacio de conjuro.",
+      "subsections": []
+    },
+    {
+      "id": "picaro",
+      "name": "Pícaro",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Esto indica aptitudes de la clase pícaro.",
+      "subsections": []
+    },
+    {
+      "id": "planta",
+      "name": "Planta",
+      "trait_type": "criatura",
+      "source": "PC1",
+      "description": "Las criaturas vegetales tienen el rasgo planta. Son, empero, diferentes de las plantas normales. Los efectos mágicos con este rasgo manipulan o conjuran de alguna forma plantas o materia vegetal. Los efectos que manipulan plantas no tienen efecto alguno en un área carente de las mismas.",
+      "subsections": []
+    },
+    {
+      "id": "pocion",
+      "name": "Poción",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Una poción es un líquido mágico consumible que se activa cuando lo bebes.",
+      "subsections": []
+    },
+    {
+      "id": "poco-comun",
+      "name": "Poco común",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Algo de rareza poco común requiere circunstancias especiales para que un personaje lo obtenga.",
+      "subsections": []
+    },
+    {
+      "id": "polimorfia",
+      "name": "Polimorfía",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Estos efectos transforman por completo al objetivo en una nueva forma. Un objetivo no puede estar bajo los efectos de más de una polimorfía a la vez.",
+      "subsections": []
+    },
+    {
+      "id": "posesion",
+      "name": "Posesión",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo permiten a una criatura proyectar su mente y su espíritu a un objetivo. Una criatura inmune a los efectos mentales no puede utilizar un efecto de posesión. Mientras posee a un objetivo, el cuerpo verdadero de un posesor permanece inconsciente (y no se puede despertar de forma normal) si el efecto de posesión no permite a la criatura entrar físicamente en su objetivo. Si el objetivo sufre daño, el posesor sufre la mitad del mismo como daño mental. Un posesor pierde los beneficios de cualquiera de sus conjuros o aptitudes activos que afectan a su cuerpo físico, aunque obtiene los beneficios de los conjuros y aptitudes activos del objetivo que afectan a su cuerpo. Un posesor puede usar cualquiera de las aptitudes puramente físicas del objetivo y no puede usar las suyas excepto los conjuros y las aptitudes puramente mentales. El DJ es quien decide si una aptitud es puramente física o puramente mental. Un posesor utiliza el modificador al ataque del objetivo, su CA, salvación de Fortaleza, salvación de Reflejos, Percepción y habilidades físicas, y su propia salvación de Voluntad, habilidades mentales, modificador al ataque de conjuros y CD de conjuros; los beneficios de los objetos investidos se aplican donde es relevante (los objetos investidos del posesor se aplican cuando usan sus propios valores y los objetos investidos del objetivo se aplican cuando usan los valores del objetivo). Un posesor no obtiene beneficio alguno de lanzar conjuros que normalmente afectarían al lanzador, puesto que no se encuentra en su propio cuerpo. El posesor tiene que utilizar sus propias acciones para hacer actuar a la criatura poseída. Si un posesor llega a 0 Puntos de Golpe a través de cualquier combinación de daño sufrido por su cuerpo verdadero y daño mental debido a la posesión, queda noqueado de la forma habitual y la posesión se acaba de inmediato. Si el objetivo llega a 0 Puntos de Golpe primero el posesor puede, o bien quedar inconsciente con el cuerpo y continuar la posesión, o acabar el efecto como acción gratuita y volver a su cuerpo. Si el objetivo muere, la posesión se acaba de inmediato y el posesor queda aturdido durante 1 minuto.",
+      "subsections": []
+    },
+    {
+      "id": "posicion",
+      "name": "Posición",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Las aptitudes con el rasgo posición requieren que estés en una posición específica para usarlas.",
+      "subsections": []
+    },
+    {
+      "id": "postura",
+      "name": "Postura",
+      "trait_type": "accion",
+      "source": "PC1",
+      "description": "Una postura es una posición de combate que adoptas y que dura hasta que quedas inconsciente, usas otra postura o acaba un efecto.",
+      "subsections": []
+    },
+    {
+      "id": "precioso",
+      "name": "Precioso",
+      "trait_type": "material",
+      "source": "PC1",
+      "description": "Un material precioso es especialmente valioso y a menudo tiene propiedades mágicas.",
+      "subsections": []
+    },
+    {
+      "id": "prediccion",
+      "name": "Predicción",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo determinan lo que es probable que suceda en un futuro próximo.",
+      "subsections": []
+    },
+    {
+      "id": "presa",
+      "name": "Presa",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Puedes usar esta arma para realizar la acción de Agarrar con un ataque cuerpo a cuerpo, incluso si no tienes una mano libre.",
+      "subsections": []
+    },
+    {
+      "id": "primigenio",
+      "name": "Primigenio",
+      "trait_type": "tradición",
+      "source": "PC1",
+      "description": "Esta magia procede de la tradición primigenia, que conecta con el mundo natural y con los instintos. Cualquier cosa con este rasgo es mágica.",
+      "subsections": []
+    },
+    {
+      "id": "primitivo",
+      "name": "Primitivo",
+      "trait_type": "equipo",
+      "source": "PC1",
+      "description": "Un objeto con este rasgo usa métodos y materiales accesibles para culturas sin metalurgia avanzada.",
+      "subsections": []
+    },
+    {
+      "id": "propulsion-de",
+      "name": "Propulsión, de",
+      "trait_type": "clase",
+      "source": "PC1",
+      "description": "Añades la mitad de tu modificador por Fuerza (si es positivo) a las tiradas de daño con esta arma de propulsión.",
+      "subsections": []
+    },
+    {
+      "id": "punalada-trapera",
+      "name": "Puñalada trapera",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Cuando haces un Golpe con esta arma contra un enemigo desprevenido, infliges 1d6 de daño de precisión adicional.",
+      "subsections": []
+    },
+    {
+      "id": "raro",
+      "name": "Raro",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Algo con rareza rara es muy difícil de encontrar en el mundo del juego.",
+      "subsections": []
+    },
+    {
+      "id": "reaccion",
+      "name": "Reacción",
+      "trait_type": "accion",
+      "source": "PC1",
+      "description": "Una reacción es una acción que puedes usar fuera de tu turno en respuesta a un desencadenante específico.",
+      "subsections": []
+    },
+    {
+      "id": "remate",
+      "name": "Remate",
+      "trait_type": "accion",
+      "source": "PC1",
+      "description": "Una acción con este rasgo solo puede usarse como la última acción de tu turno.",
+      "subsections": []
+    },
+    {
+      "id": "revelacion",
+      "name": "Revelación",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo ven las cosas como son en realidad.",
+      "subsections": []
+    },
+    {
+      "id": "reves",
+      "name": "Revés",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Puedes usar el lado romo de esta arma cortante para infligir daño contundente en lugar de cortante.",
+      "subsections": []
+    },
+    {
+      "id": "ruidosa",
+      "name": "Ruidosa",
+      "trait_type": "arma",
+      "source": "PC1",
+      "description": "Esta armadura es ruidosa y puede alertar a otros de tu presencia.",
+      "subsections": []
+    },
+    {
+      "id": "sacrilego",
+      "name": "Sacrílego",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con el rasgo sacrílego están vinculados con poderosas fuerzas mágicas de la crueldad y el pecado. A menudo tienen efectos más fuertes contra las criaturas sagradas. Las criaturas con este rasgo están fuertemente dedicadas a las causas sacrílegas y a menudo tienen debilidad a sagrado. Si una criatura con debilidad a sacrílego utiliza un objeto o efecto sacrílego, sufre daños debido a dicha debilidad.",
+      "subsections": []
+    },
+    {
+      "id": "saga",
+      "name": "Saga",
+      "trait_type": "conjuro",
+      "source": "PC1",
+      "description": "Estas malignas lanzadoras de conjuros forman aquelarres.",
+      "subsections": []
+    },
+    {
+      "id": "sagrado",
+      "name": "Sagrado",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con el rasgo sagrado están vinculados a poderosas fuerzas mágicas de la benevolencia y la virtud. A menudo tienen efectos más fuertes sobre las criaturas sacrílegas. Las criaturas con este rasgo están fuertemente dedicadas a las causas sagradas y a menudo tienen debilidad a sacrílego. Si una criatura con debilidad a sagrado utiliza un efecto u objeto sagrado, sufre daño debido a dicha debilidad.",
+      "subsections": []
+    },
+    {
+      "id": "salpicadura",
+      "name": "Salpicadura",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Cuando usas esta arma arrojadiza, además del objetivo principal, puedes elegir otra criatura adyacente al objetivo para que reciba daño de salpicadura igual al número indicado.",
+      "subsections": []
+    },
+    {
+      "id": "sangre-de-dragon",
+      "name": "Sangre De Dragon",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo tiene sangre de dragón en sus venas.",
+      "subsections": []
+    },
+    {
+      "id": "santificado",
+      "name": "Santificado",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los conjuros y otros efectos con el rasgo santificado se alinean con tu naturaleza sagrada o sacrílega. Si tienes el rasgo sagrado o sacrílego, cuando usas una aptitud santificada sumas a la misma tu rasgo sagrado o sacrílego, haciéndola más poderosa contra criaturas con el rasgo opuesto.",
+      "subsections": []
+    },
+    {
+      "id": "secreto",
+      "name": "Secreto",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "El DJ hace en secreto la prueba para esta aptitud. No sabrás el resultado exacto de tu tirada, solo los efectos narrativos que el DJ te describa.",
+      "subsections": []
+    },
+    {
+      "id": "sin-armas",
+      "name": "Sin armas",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un ataque sin armas usa tu cuerpo en lugar de un arma manufacturada.",
+      "subsections": []
+    },
+    {
+      "id": "sombra",
+      "name": "Sombra",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "La magia con este rasgo implica las sombras o la energía del Inframundo.",
+      "subsections": []
+    },
+    {
+      "id": "sonico",
+      "name": "Sónico",
+      "trait_type": "daño",
+      "source": "PC1",
+      "description": "Un efecto con el rasgo sónico sólo funciona si emite un sonido, lo que significa que no tiene efecto alguno en un área de silencio o en un vacío. Esto es diferente a un conjuro auditivo, que sólo es efectivo si el objetivo puede oírlo. Un efecto sónico podría infligir daño sónico.",
+      "subsections": []
+    },
+    {
+      "id": "sueno",
+      "name": "Sueño",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Este efecto hace que la criatura se quede dormida o somnolienta.",
+      "subsections": []
+    },
+    {
+      "id": "sutil",
+      "name": "Sutil",
+      "trait_type": "general",
+      "source": "PC1",
+      "subsections": [
+        {
+          "title": "Rasgo de conjuro",
+          "description": "Un conjuro sutil no tiene manifestaciones obvias. Si el conjuro normalmente tendría una manifestación visual, no la tiene; si normalmente tendría una manifestación auditiva, tampoco la tiene."
+        },
+        {
+          "title": "Rasgo de arma",
+          "description": "Puedes utilizar tu modificador por Destreza en lugar de tu modificador por Fuerza en las tiradas de ataque utilizando esta arma cuerpo a cuerpo. Sigues utilizando la Fuerza para calcular el daño."
+        }
+      ],
+      "description": "Rasgo de conjuro: Un conjuro sutil no tiene manifestaciones obvias. Si el conjuro normalmente tendría una manifestación visual, no la tiene; si normalmente tendría una manifestación auditiva, tampoco la tiene.\n\nRasgo de arma: Puedes utilizar tu modificador por Destreza en lugar de tu modificador por Fuerza en las tiradas de ataque utilizando esta arma cuerpo a cuerpo. Sigues utilizando la Fuerza para calcular el daño."
+    },
+    {
+      "id": "talisman",
+      "name": "Talismán",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un talismán es un consumible que se debe fijar a un objeto.",
+      "subsections": []
+    },
+    {
+      "id": "teletransportacion",
+      "name": "Teletransportación",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Los efectos de teletransportación te permiten moverte instantáneamente de un punto a otro sin recorrer el espacio intermedio.",
+      "subsections": []
+    },
+    {
+      "id": "teletransporte",
+      "name": "Teletransporte",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Los efectos de teletransporte mueven instantáneamente algo de un punto del espacio a otro. El teletransporte no suele desencadenar reacciones basadas en el movimiento.",
+      "subsections": []
+    },
+    {
+      "id": "tengu",
+      "name": "Tengu",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia tengu.",
+      "subsections": []
+    },
+    {
+      "id": "tiempo-libre",
+      "name": "Tiempo libre",
+      "trait_type": "acción",
+      "source": "PC1",
+      "description": "Una actividad con este rasgo dura un día o más, y sólo puede utilizarse durante el tiempo libre.",
+      "subsections": []
+    },
+    {
+      "id": "tierra",
+      "name": "Tierra",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con el rasgo tierra, o bien manipulan, o bien conjuran la misma. Quienes manipulan tierra no pueden obtener efecto alguno en un área que carece de ella. Las criaturas con este rasgo consisten principalmente en tierra o tienen una conexión con la tierra mágica.",
+      "subsections": []
+    },
+    {
+      "id": "trampa",
+      "name": "Trampa",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un riesgo construido para entorpecer a los intrusos.",
+      "subsections": []
+    },
+    {
+      "id": "transmutacion",
+      "name": "Transmutación",
+      "trait_type": "magia",
+      "source": "PC1",
+      "description": "Los efectos de transmutación cambian las propiedades físicas de las cosas.",
+      "subsections": []
+    },
+    {
+      "id": "tripkee",
+      "name": "Tripkee",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia tripkee.",
+      "subsections": []
+    },
+    {
+      "id": "truco",
+      "name": "Truco",
+      "trait_type": "conjuro",
+      "source": "PC1",
+      "description": "Un conjuro que lanzas a voluntad, potenciado automáticamente a la mitad de tu nivel redondeado hacia arriba.",
+      "subsections": []
+    },
+    {
+      "id": "unico",
+      "name": "Único",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un objeto único es uno de su tipo en el mundo. Solo existe uno.",
+      "subsections": []
+    },
+    {
+      "id": "vacio",
+      "name": "Vacío",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo curan a las criaturas muertas vivientes con energía del vacío, infligen daño por vacío a las criaturas vivas o manipulan la energía del vacío.",
+      "subsections": []
+    },
+    {
+      "id": "varita",
+      "name": "Varita",
+      "trait_type": "conjuro",
+      "source": "PC1",
+      "description": "Una varita contiene un solo conjuro que puedes lanzar una vez al día.",
+      "subsections": []
+    },
+    {
+      "id": "veneno",
+      "name": "Veneno",
+      "trait_type": "daño",
+      "source": "PC1",
+      "description": "Un efecto con este rasgo aplica un veneno o inflige daño por veneno. Un objeto con este rasgo es venenoso y podría causar una aflicción.",
+      "subsections": []
+    },
+    {
+      "id": "versatil",
+      "name": "Versátil",
+      "trait_type": "arma",
+      "source": "PC1",
+      "description": "Un arma versátil puede usarse para infligir un tipo diferente de daño mostrado entre paréntesis.",
+      "subsections": []
+    },
+    {
+      "id": "videncia",
+      "name": "Videncia",
+      "trait_type": "magia",
+      "source": "PC1",
+      "description": "Los efectos de videncia revelan información oculta, permiten ver a distancia o ver a través de ilusiones.",
+      "subsections": []
+    },
+    {
+      "id": "virulento",
+      "name": "Virulento",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un veneno virulento es particularmente difícil de eliminar. Necesitas dos salvaciones con éxito consecutivas para reducir una fase de un veneno virulento.",
+      "subsections": []
+    },
+    {
+      "id": "visual",
+      "name": "Visual",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Un efecto visual tan sólo puede afectar a las criaturas que pueden verlo. Esto sólo se aplica a las partes visibles del efecto, a determinar por el DJ.",
+      "subsections": []
+    },
+    {
+      "id": "vitalidad",
+      "name": "Vitalidad",
+      "trait_type": "general",
+      "source": "PC1",
+      "description": "Los efectos con este rasgo para curar a las criaturas vivas con energía de la Forja de la Creación, infligen daño por energía de vitalidad a los muertos vivientes o manipulan la energía de la vitalidad.",
+      "subsections": []
+    },
+    {
+      "id": "volea",
+      "name": "Volea",
+      "trait_type": "efecto",
+      "source": "PC1",
+      "description": "Esta arma está diseñada para ser disparada en rápida sucesión. Si usas la acción Volear para disparar este arma, obtienes el beneficio indicado.",
+      "subsections": []
+    },
+    {
+      "id": "ysoki",
+      "name": "Ysoki",
+      "trait_type": "ascendencia",
+      "source": "PC1",
+      "description": "Una criatura con este rasgo es un miembro de la ascendencia ysoki (ratfolk).",
+      "subsections": []
+    }
+  ],
+  "total": 223
+}

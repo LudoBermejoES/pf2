@@ -7,5 +7,6 @@ category: rasgos
 trait_type: criatura
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/bestia.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Una criatura similar un animal, pero con un modificador por Inteligencia de -3 o mayor suele ser una bestia. A diferencia de un animal, una bestia podría ser capaz de hablar y de razonar.

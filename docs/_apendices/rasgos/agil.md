@@ -7,5 +7,6 @@ category: rasgos
 trait_type: general
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/agil.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 El penalizador por ataque múltiple que sufres con este arma en el segundo ataque de un turno es -4 en lugar de -5, y -8 en lugar de -10 en el tercer ataque o siguientes.

@@ -1686,12 +1686,13 @@ th .accion {
   align-items: center;
 }
 
-/* Cartas de imagen flotantes (acciones, conjuros, armas, armaduras, objetos) */
+/* Cartas de imagen flotantes (acciones, conjuros, armas, armaduras, objetos, rasgos) */
 .action-card-image,
 .spell-card-image,
 .weapon-card-image,
 .armor-card-image,
-.item-card-image {
+.item-card-image,
+.trait-card-image {
   float: right;
   width: 300px;
   margin-left: 15px;

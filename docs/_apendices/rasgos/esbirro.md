@@ -7,5 +7,6 @@ category: rasgos
 trait_type: acción
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/esbirro.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Los esbirros son criaturas que siguen tus órdenes sin cuestionar. Tu esbirro actúa en tu turno en combate, una vez por ronda, cuando gastas una acción para ordenarle que actúe.

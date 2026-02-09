@@ -7,6 +7,7 @@ category: rasgos
 trait_type: general
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/sutil.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 ## Rasgo de conjuro
 

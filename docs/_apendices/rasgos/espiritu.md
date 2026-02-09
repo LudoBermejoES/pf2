@@ -7,5 +7,6 @@ category: rasgos
 trait_type: general
 source: PC1
 ---
+<img src="{{ '/assets/images/rasgos/espiritu.png' | relative_url }}" class="trait-card-image" alt="Carta de rasgo">
 
 Los efectos con dicho rasgo pueden afectar a las criaturas con esencia espiritual y podrían infligir daño espiritual. Una criatura con este rasgo se define por su esencia espiritual. Las criaturas espirituales a menudo carecen de forma material.
