@@ -8,8 +8,6 @@ nav_order: 14
 source: GMI
 ---
 
-# La sociedad
-
 El gobierno, las leyes, las costumbres, las tradiciones, y las culturas varían enormemente de una nación a otra de la región del Mar Interior. Pero hay varios conceptos relativamente constantes en lo que a sociedad se refiere en toda esta región.
 
 ---
