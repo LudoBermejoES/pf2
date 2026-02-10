@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Campeón del Escudo
-
 **Concepto**: Tu escudo es más que una herramienta defensiva: es un símbolo de tu fe y tu devoción a proteger a los inocentes. Has perfeccionado el arte de interponer tu escudo entre el peligro y tus aliados, absorbiendo golpes que destruirían a otros. Eres el muro inquebrantable que mantiene a raya al mal, la fortaleza viviente que nunca cede ante la adversidad.
 
 ---

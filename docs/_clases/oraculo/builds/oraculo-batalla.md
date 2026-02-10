@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Oráculo de Batalla
-
 **Concepto**: La guerra misma te susurra sus secretos. Tu maldición te conecta con los espíritus de guerreros caídos y el flujo de la batalla, otorgándote visiones de combate y el poder de invocar a los muertos para que luchen a tu lado. Eres tanto lanzador de conjuros como guerrero capaz.
 
 ---

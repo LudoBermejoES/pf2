@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Oráculo de las Llamas
-
 **Concepto**: El fuego sagrado arde en tu interior, una llama divina que consume todo a su paso. Tu maldición te conecta con el poder purificador y destructivo del fuego, permitiéndote invocar tormentas de llamas celestiales que caen sobre tus enemigos. Eres el heraldo de la conflagración.
 
 ---

@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Guerrero de Escudo Reactivo
-
 **Concepto**: Tu escudo no es solo una defensa, es una promesa: cualquiera que te ataque pagará el precio. Has convertido el arte del bloqueo en una ciencia mortal, donde cada golpe enemigo rebota contra tu escudo solo para encontrarse con tu contraataque devastador. Eres el centro inamovible del campo de batalla, una fortaleza viviente que invita a los enemigos a estrellarse contra ti. Mientras tus aliados danzan alrededor tuyo, tú permaneces firme, absorbiendo el castigo y devolviéndolo con intereses.
 
 ---

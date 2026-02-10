@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Brujo de Maleficios
-
 **Concepto**: Tu especialidad son las maldiciones y maleficios que debilitan, confunden y destruyen a tus enemigos. Cada lección de tu patrón te enseña nuevas formas de atormentar a tus víctimas, y tu risotada estridente mantiene tus maleficios activos mientras observas a tus enemigos sufrir.
 
 ---

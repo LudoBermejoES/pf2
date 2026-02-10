@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Duelista de Doble Arma
-
 **Concepto**: Dos hojas danzan en tus manos como una tormenta de acero implacable. Has dominado el arte de combatir con un arma en cada mano, convirtiendo cada movimiento en un ataque y cada ataque en una oportunidad para el siguiente. Cuando persigues a tu presa, te conviertes en un torbellino de cortes y estocadas que la desmembra antes de que pueda reaccionar. Eres el cazador que no deja escapatoria, el depredador que ataca desde todos los ángulos.
 
 ---

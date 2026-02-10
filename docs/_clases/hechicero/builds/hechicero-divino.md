@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Hechicero del Linaje Divino
-
 **Concepto**: Un ancestro tuyo fue tocado por lo divino: quizá un ángel bendijo tu linaje, un demonio corrompió tu sangre, o un dios dejó su marca en tu familia. Este poder celestial o infernal fluye a través de ti, permitiéndote canalizar energía divina sin necesidad de devoción formal. Puedes sanar heridas o infligir condenas con igual facilidad, actuando como un conducto entre los planos superiores e inferiores y el mundo mortal.
 
 ---

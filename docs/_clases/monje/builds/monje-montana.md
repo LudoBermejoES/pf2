@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Monje de la Montaña
-
 **Concepto**: Te conviertes en una montaña inamovible, una fortaleza viviente que ningún enemigo puede mover o derribar. Tu defensa rivaliza con la de los guerreros más acorazados, mientras golpeas con el peso de una avalancha. Sacrificas velocidad por una resiliencia incomparable.
 
 ---

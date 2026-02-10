@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Clérigo Sanador (Enclaustrado)
-
 **Concepto**: La vida es sagrada, y tú eres su guardián más devoto. Tu conexión con lo divino te permite canalizar oleadas de energía curativa que restauran carne desgarrada, purifican venenos y destierran enfermedades con un simple gesto. Donde otros sanadores deben elegir a quién salvar, tú inundas el campo de batalla con energía vital que alcanza a todos tus aliados simultáneamente. Eres el pilar que mantiene de pie al grupo, el milagro ambulante que convierte heridas mortales en cicatrices y derrotas seguras en victorias improbables.
 
 ---

@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Brujo del Caldero
-
 **Concepto**: Tu caldero burbujeante es el centro de tu poder. En él mezclas pociones, aceites y brebajes mágicos que rivalizan con los de cualquier alquimista. Tu patrón te enseñó los secretos de la elaboración mágica, y cada poción que creas está imbuida con un poco de su poder sobrenatural.
 
 ---

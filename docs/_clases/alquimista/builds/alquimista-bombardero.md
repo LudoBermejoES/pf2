@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Alquimista Bombardero
-
 **Concepto**: Eres un maestro de las explosiones alquímicas, un artillero que llueve destrucción sobre sus enemigos. Tu laboratorio es un polvorín de bombas de todo tipo: fuego, ácido, electricidad, frío. Con precisión letal, lanzas tus creaciones para explotar justo donde más duele.
 
 ---

@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Caballero Montado
-
 **Concepto**: Sobre tu corcel fiel, eres la imagen del caballero divino: la lanza lista, la armadura brillante, el estandarte de tu fe ondeando al viento. Tu montura es más que un animal; es tu compañero bendecido, un regalo de tu deidad que comparte tu devoción y tu causa. Juntos, cargas contra el mal con la furia de un relámpago divino, protegiendo a los inocentes mientras aplastas a los malvados bajo los cascos de tu corcel sagrado.
 
 ---

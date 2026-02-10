@@ -8,8 +8,6 @@ nav_order: 16
 source: GMI
 ---
 
-# Tecnología
-
 La compleja cuestión del progreso tecnológico entre la gente del Mar Interior no puede abordarse a la ligera, pues el mundo de Golarion ha pasado por incontables épocas de descubrimientos extraños y de niveles tecnológicos tanto elevados como bajos, desde primitivos hasta futuristas.
 
 Con el albor y el ocaso de cada era, las gentes partidarias de las herramientas en este lugar dominado por la magia han hecho retroceder una y otra vez las nieblas de la ignorancia y el salvajismo con brillantes maravillas pequeñas y grandes. A cada desastre, guerra y cataclismo sucesivos que cubren el mundo, los secretos de las eras anteriores se pierden... y se llevan a cabo nuevos descubrimientos.

@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Mago de Batalla
-
 **Concepto**: Mientras otros magos se esconden tras sus aliados, tú avanzas hacia el fragor de la batalla con conjuros destructivos cargados en tus manos. Has perfeccionado el arte de canalizar energía arcana ofensiva, desatando bolas de fuego, relámpagos y rayos de frío con precisión letal. Tu grimorio está lleno de conjuros diseñados para aniquilar, y tu posición es justo donde la magia hace más daño. Eres el artillero arcano del grupo, la tormenta de destrucción que arrasa filas de enemigos.
 
 ---

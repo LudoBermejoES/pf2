@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Maestro de Ceremonias
-
 **Concepto**: Tu arte alcanza niveles de perfección que pocos pueden igualar. Cada nota que tocas, cada palabra que pronuncias, está calculada para maximizar su impacto en tu audiencia. Eres el director de orquesta del campo de batalla, coordinando a tus aliados con precisión milimétrica a través de tus composiciones. Cuando actúas, el mundo entero se convierte en tu escenario y tus compañeros danzan al ritmo que tú marcas.
 
 ---

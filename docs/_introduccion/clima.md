@@ -8,8 +8,6 @@ nav_order: 11
 source: GMI
 ---
 
-# Clima y meteorología
-
 Existe un gran abanico de franjas de clima en la región del Mar Interior, desde el calor abrasador de los desiertos de Garund al frío ártico y las nevadas de la frontera con la Corona del Mundo.
 
 ## Patrones climáticos generales

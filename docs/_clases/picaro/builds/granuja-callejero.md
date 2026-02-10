@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Granuja Callejero (Fintero)
-
 **Concepto**: La espada no es tu única arma; tu lengua y tus gestos engañosos son igual de mortales. Has perfeccionado el arte de la Finta hasta convertirla en un arma de precisión, confundiendo a tus enemigos con amagues, insultos y distracciones antes de golpear. En los callejones de tu ciudad aprendiste que el combate sucio es el único combate justo, y que un enemigo confundido es un enemigo muerto. Eres el estafador de la batalla, el tramposo que siempre tiene un as bajo la manga.
 
 ---

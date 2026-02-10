@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Espadachín Duelista
-
 **Concepto**: Eres el maestro del duelo uno contra uno, un artista de la estocada y la parada que convierte cada error enemigo en una oportunidad mortal. Tu estilo refinado combina defensa impecable con contraataques devastadores. Cuando un enemigo falla su golpe, tu espada ya está atravesándolo.
 
 ---

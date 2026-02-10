@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Druida de la Tormenta
-
 **Concepto**: Eres el heraldo del cielo enfurecido, el conducto por el que fluye la ira de la naturaleza. Relámpagos saltan de tus dedos, vientos huracanados responden a tu llamada y la lluvia torrencial obedece tu voluntad. Mientras otros druidas abrazan la serenidad de la naturaleza, tú canalizas su furia más destructiva. Cuando apareces en el campo de batalla, truenos anuncian tu llegada y la tormenta sigue tus pasos.
 
 ---

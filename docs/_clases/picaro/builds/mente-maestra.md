@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Mente Maestra (Estratega)
-
 **Concepto**: Mientras otros pelean con músculos, tú peleas con tu mente. Has estudiado anatomía, táctica y comportamiento hasta el punto de poder predecir los movimientos de tus enemigos antes de que los hagan. Cada batalla es un tablero de ajedrez donde tú siempre estás tres movimientos por delante. Identificas debilidades, comunicas estrategias a tus aliados y explotas cada error que comete el enemigo. Eres el cerebro detrás de la operación, el genio táctico que convierte derrotas en victorias.
 
 ---

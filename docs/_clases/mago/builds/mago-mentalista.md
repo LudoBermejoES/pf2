@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Mago Mentalista (Control)
-
 **Concepto**: La verdadera maestría arcana no está en destruir, sino en controlar. ¿Para qué matar a un enemigo cuando puedes hacer que luche por ti? ¿Por qué quemar un castillo cuando puedes convencer a sus guardias de que te abran las puertas? Tu magia se infiltra en las mentes, teje ilusiones indistinguibles de la realidad y manipula las percepciones de tus objetivos. Eres el titiritero invisible, el arquitecto de realidades falsas, el susurro que convierte enemigos en aliados y peligros en oportunidades.
 
 ---

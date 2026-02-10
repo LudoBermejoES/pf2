@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Espadachín Bravucón
-
 **Concepto**: Tu arma más afilada es tu lengua. Con burlas mordaces, miradas despectivas y gestos despreciativos, destruyes la confianza de tus enemigos antes de que tu espada los toque. Cada enemigo que derribas es una advertencia para los demás: tú eres el siguiente.
 
 ---

@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Investigador Interrogador
-
 **Concepto**: Tu especialidad es extraer la verdad de las personas, quieran o no revelarla. Con preguntas incisivas, miradas penetrantes y una presencia intimidante, haces que hasta los criminales más endurecidos confiesen sus secretos. Nadie puede mantener una mentira frente a ti.
 
 ---

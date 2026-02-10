@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Alquimista Mutagenicista
-
 **Concepto**: Te transformas en algo más que humano. Tus mutágenos alteran tu cuerpo, otorgándote fuerza bestial, reflejos de gato, o la dureza de un titán. Cada combate es una metamorfosis controlada donde sacrificas una parte de ti mismo para ganar poder sobrehumano.
 
 ---

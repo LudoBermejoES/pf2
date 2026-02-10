@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Druida Animal (Compañero)
-
 **Concepto**: Tu vínculo con un animal trasciende la simple amistad; es una conexión primigenia que os une en cuerpo y espíritu. Mientras otros druidas canalizan la naturaleza a través de conjuros, tú lo haces a través de tu compañero, un depredador leal que lucha a tu lado con ferocidad salvaje. Juntos sois más que la suma de vuestras partes: él es tus garras, tú eres su sabiduría.
 
 ---

@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Monje del Qi
-
 **Concepto**: Canalizas la energía vital que fluye a través de tu cuerpo para producir efectos mágicos. Tu qi te permite sanar tus heridas, potenciar tus golpes con elementos, y eventualmente desafiar las leyes de la física con saltos imposibles y ataques a distancia devastadores. Combinas la maestría marcial con el poder místico.
 
 ---

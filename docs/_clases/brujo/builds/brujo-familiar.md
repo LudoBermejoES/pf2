@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Brujo del Familiar
-
 **Concepto**: Tu familiar no es simplemente una mascota mágica: es tu conexión directa con tu patrón, un espíritu que comparte tu alma y potencia tu magia. A través de tu familiar, canalizas poderes sobrenaturales devastadores, y juntos formáis un dúo imparable.
 
 ---

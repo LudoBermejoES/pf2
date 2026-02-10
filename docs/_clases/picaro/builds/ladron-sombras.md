@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Ladrón de las Sombras
-
 **Concepto**: Las sombras son tu hogar, tu aliado y tu arma. Te deslizas entre los enemigos como un fantasma, apareciendo solo para hundir tu daga en puntos vitales antes de desvanecerte de nuevo en la oscuridad. Tu maestría del sigilo es tan absoluta que incluso en plena batalla puedes desaparecer de la vista de tus enemigos. Eres el asesino silencioso, el ladrón que roba no solo tesoros, sino también vidas.
 
 ---

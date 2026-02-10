@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Mago Invocador
-
 **Concepto**: ¿Por qué arriesgarte cuando puedes enviar a otros a luchar por ti? Has dedicado tu estudio arcano al arte de la invocación, llamando criaturas de otros planos para que sirvan tus propósitos. Demonios, celestiales, elementales, bestias mágicas; todos responden a tu llamada. Mientras tus aliados forman la línea del frente, tú diriges un ejército de siervos conjurados que flanquean, protegen y destruyen. Eres el general arcano cuyas tropas aparecen de la nada.
 
 ---

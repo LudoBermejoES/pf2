@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Alquimista Cirujano
-
 **Concepto**: Eres un médico de campo excepcional, combinando conocimiento anatómico con alquimia curativa. Tus elixires de vida son más potentes, tus tratamientos más efectivos, y tu capacidad para mantener vivo al grupo es incomparable. Donde otros ven heridas, tú ves problemas con solución química.
 
 ---

@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Redentor Protector (Sacerdote de Guerra)
-
 **Concepto**: Tu fe no se queda en el templo; la llevas al corazón de la batalla, envuelta en acero y bañada en sangre sagrada. Con el arma favorita de tu deidad en mano y sus oraciones en tus labios, cargas junto a los guerreros, sanando heridas con una mano mientras castigas a los impíos con la otra. Eres el sacerdote que predica con el ejemplo, el puente entre lo divino y lo marcial. Tus aliados saben que mientras estés de pie, ni morirán abandonados ni los enemigos de tu fe quedarán sin castigo.
 
 ---

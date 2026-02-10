@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Arquero de Precisión
-
 **Concepto**: Donde otros arqueros disparan flechas, tú disparas sentencias de muerte. Tu dominio del arco trasciende la simple puntería: cada flecha vuela con una precisión sobrenatural, encontrando las grietas en la armadura, los puntos vitales desprotegidos, las debilidades que otros ni siquiera ven. La maestría marcial del guerrero aplicada al arco significa que tus flechas impactan con una frecuencia de golpes críticos que otros arqueros solo pueden soñar. A cien pasos de distancia, eres tan letal como cualquier espadachín cuerpo a cuerpo.
 
 ---

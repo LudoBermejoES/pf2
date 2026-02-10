@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Investigador Forense
-
 **Concepto**: Tu conocimiento de anatomía y medicina te convierte en un experto en infligir heridas precisas y en examinar cadáveres. Sabes exactamente dónde cortar para causar el máximo daño, y cada cuerpo que examinas te cuenta la historia de su muerte.
 
 ---

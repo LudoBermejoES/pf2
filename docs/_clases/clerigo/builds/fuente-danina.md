@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Clérigo de Daño (Fuente Dañina)
-
 **Concepto**: Mientras otros clérigos predican misericordia, tú traes el juicio final. Tu deidad te ha otorgado dominio sobre la energía del vacío, la fuerza que deshace la vida misma. Con cada canalización, ondas de oscuridad corrosiva emanan de ti, marchitando la carne de los vivos y devolviendo a los muertos vivientes al polvo del que surgieron. Eres el segador divino, el heraldo de la muerte sagrada. Los enemigos de tu fe aprenden rápidamente que no todos los clérigos vienen a sanar; algunos vienen a cobrar el precio final.
 
 ---

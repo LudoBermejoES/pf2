@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Bardo Combatiente
-
 **Concepto**: No todos los bardos se contentan con quedarse atrás tocando el laúd. Tú cantas himnos de guerra mientras tu espada danza, inspirando a tus aliados con cada golpe que asestas. Tu musa es el combate mismo: el choque de acero, el rugido de la batalla, el triunfo sobre enemigos poderosos. Mezclas interpretación y violencia en una sinfonía mortal, demostrando que un bardo puede ser tan peligroso en primera línea como cualquier guerrero.
 
 ---

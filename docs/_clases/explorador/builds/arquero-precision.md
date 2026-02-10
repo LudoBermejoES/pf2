@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Arquero de Precisión
-
 **Concepto**: Una flecha, un objetivo, un resultado. Has perfeccionado el arte del tiro con arco hasta el punto de que cada disparo es una obra de arte mortal. Estudias a tu presa, calculas la trayectoria perfecta y sueltas la cuerda en el momento exacto. No necesitas una lluvia de flechas cuando una sola, colocada con precisión quirúrgica, puede acabar con cualquier amenaza. Eres el francotirador del mundo fantástico, el cazador que nunca falla.
 
 ---

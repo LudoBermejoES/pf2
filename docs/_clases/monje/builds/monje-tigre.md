@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Monje del Tigre
-
 **Concepto**: Encarnando la ferocidad y agilidad del tigre, desgarras a tus enemigos con zarpazos letales que causan heridas sangrantes. Tu estilo combina velocidad explosiva con daño devastador, especialmente en críticos. Cada golpe puede dejar a tus víctimas desangrándose mientras te mueves con la gracia de un gran felino.
 
 ---

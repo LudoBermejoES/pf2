@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Campeón Profano
-
 **Concepto**: No todos los campeones sirven a deidades de la luz. Tú has jurado lealtad a poderes oscuros, canalizando su energía destructiva para castigar a tus enemigos. Tu presencia llena de desesperación a quienes te rodean, y tus golpes drenan la fuerza vital de tus víctimas. Eres el instrumento de una voluntad siniestra, un vengador que no conoce la piedad y que devuelve el dolor multiplicado a quienes osan desafiarte.
 
 ---

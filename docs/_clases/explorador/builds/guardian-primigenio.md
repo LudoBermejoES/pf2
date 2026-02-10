@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Guardián Primigenio
-
 **Concepto**: No todos los exploradores cazan con acero y flechas; algunos canalizan el poder de la naturaleza misma. Has sido iniciado en los secretos de los guardianes, una antigua tradición de exploradores que combinan sus habilidades de caza con la magia primigenia. Conjuras vientos que guían tus flechas, invocas la fuerza de los animales y curas heridas con la energía de la tierra. Eres el puente entre el cazador y el druida, el guerrero que lucha con la naturaleza como aliada.
 
 ---

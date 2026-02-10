@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Hechicero Aberrante
-
 **Concepto**: Algo antinatural se infiltró en tu linaje. Quizá un ancestro hizo un pacto con entidades del Oscuro Tapiz, o tu familia fue expuesta a influencias de los Antiguos. La magia oculta fluye por tus venas, otorgándote poder sobre las mentes y acceso a conocimientos que la cordura humana apenas puede soportar. Tus conjuros susurran secretos prohibidos, y tu mera presencia puede hacer que otros cuestionen su propia realidad.
 
 ---

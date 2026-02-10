@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Espadachín Acróbata
-
 **Concepto**: Eres un torbellino de piruetas, saltos y volteretas, convirtiendo el campo de batalla en tu escenario personal. Ruedas entre las piernas de los enemigos, saltas sobre sus cabezas y atacas desde ángulos imposibles. Tu estilo es tan espectacular como efectivo.
 
 ---

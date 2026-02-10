@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Bárbaro de Furia Pura
-
 **Concepto**: Tu ira no proviene de espíritus animales ni de sangre dracónica: viene de lo más profundo de tu ser, de un pozo de rabia pura y sin adulterar. Cuando entras en combate, te conviertes en una máquina de destrucción imparable, ignorando el dolor y aplastando a todo lo que se interpone en tu camino. No necesitas trucos ni poderes sobrenaturales; tu fuerza bruta y tu determinación inquebrantable son más que suficientes.
 
 ---

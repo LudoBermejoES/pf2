@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Oráculo de Huesos
-
 **Concepto**: La muerte te habla a través de los huesos y los espíritus de los difuntos. Tu maldición te conecta con el más allá, permitiéndote ver el destino en los huesos arrojados, hablar con los muertos y manipular la frontera entre la vida y la muerte. Eres un puente entre mundos.
 
 ---

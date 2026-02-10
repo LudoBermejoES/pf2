@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Duelista de Doble Arma
-
 **Concepto**: Dos hojas centellean en tus manos como las alas de un colibrí mortal. Donde otros guerreros dependen de golpes contundentes, tú has perfeccionado el arte del acero gemelo: una danza letal de estocadas, paradas y contraataques que abruma a tus oponentes con una lluvia incesante de cortes. Tu defensa y tu ofensa son una misma cosa, pues cada parada se convierte en un ataque y cada ataque prepara el siguiente. Los enemigos que se enfrentan a ti descubren demasiado tarde que están luchando contra una tormenta de acero.
 
 ---

@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Investigador Empirista
-
 **Concepto**: Confías en tus sentidos afinados y tu capacidad de observación más que en cualquier otra cosa. Cada detalle que otros pasan por alto es una pista para ti. Detectas mentiras con una mirada, notas lo que está fuera de lugar y usas tu percepción sobrehumana para desentrañar cualquier misterio.
 
 ---

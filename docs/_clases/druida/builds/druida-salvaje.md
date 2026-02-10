@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Druida Salvaje (Cambiaformas)
-
 **Concepto**: La civilización es una jaula; tú has roto sus barrotes. Has abrazado tu naturaleza más primal, transformándote en las bestias que otros temen. Oso, lobo, tigre, dinosaurio... tu cuerpo es arcilla que moldea la magia primigenia. En el fragor de la batalla, abandonas tu forma humanoide para convertirte en un depredador perfecto, desgarrando enemigos con garras, colmillos y la furia de la naturaleza desatada.
 
 ---

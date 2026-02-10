@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Hechicero Dracónico
-
 **Concepto**: La sangre de dragones ancestrales corre por tus venas, otorgándote poder sobre los elementos y una presencia imponente. Cuando desatas tu magia, escamas brillan momentáneamente en tu piel, tus ojos resplandecen con fuego interno y tu voz retumba con la autoridad de los wyrms antiguos. Eres un cañón de destrucción elemental, capaz de arrasar campos de batalla con el mismo poder devastador que define a tus ancestros dracónicos.
 
 ---

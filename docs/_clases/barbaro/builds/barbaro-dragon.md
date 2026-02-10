@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Bárbaro del Dragón
-
 **Concepto**: La sangre de dragones ancestrales hierve en tus venas, y cuando entras en ira, esa herencia se manifiesta en toda su gloria. Escamas aparecen sobre tu piel, tus ojos resplandecen con fuego interno y puedes exhalar el mismo aliento devastador que los wyrms legendarios. Eres una fuerza de destrucción elemental, combinando la furia bárbara con el poder ancestral de los dragones.
 
 ---

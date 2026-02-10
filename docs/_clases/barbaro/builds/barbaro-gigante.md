@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Bárbaro del Gigante
-
 **Concepto**: La sangre de gigantes corre por tus venas, y cuando tu ira se desata, creces hasta proporciones titánicas. Tu alcance se extiende, tu fuerza se multiplica y dominas el campo de batalla como un coloso entre hormigas. Enemigos que intentan huir descubren que tu brazo es más largo de lo que esperaban, y aquellos que te rodean aprenden que un solo barrido de tu arma puede alcanzarlos a todos.
 
 ---

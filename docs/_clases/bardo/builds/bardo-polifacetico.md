@@ -10,8 +10,6 @@ recommended: false
 adventure_path: null
 ---
 
-# Bardo Polifacético
-
 **Concepto**: ¿Por qué limitarte a un estilo cuando puedes dominarlos todos? Tu musa es la versatilidad misma, inspirándote a aprender de todas las tradiciones y adaptar cualquier técnica a tus necesidades. Tienes un truco para cada situación, un conjuro para cada problema y una interpretación para cada audiencia. Donde otros se especializan, tú diversificas, convirtiéndote en el comodín más valioso de cualquier grupo.
 
 ---
