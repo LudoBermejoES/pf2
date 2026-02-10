@@ -42,6 +42,7 @@ Para más información sobre la vida cotidiana en el Mar Interior, consulta:
 - [Clima y meteorología]({{ '/introduccion/clima/' | relative_url }}) - Patrones climáticos y fenómenos meteorológicos aberrantes
 - [Comercio]({{ '/introduccion/comercio/' | relative_url }}) - Rutas comerciales y sistema monetario
 - [Sociedad]({{ '/introduccion/sociedad/' | relative_url }}) - Estructura social, magia y niveles de poder
+- [Facciones]({{ '/introduccion/facciones/' | relative_url }}) - Organizaciones y grupos de poder del Mar Interior
 - [Fauna y flora]({{ '/introduccion/fauna-flora/' | relative_url }}) - Criaturas y plantas únicas de Golarion
 - [Tecnología]({{ '/introduccion/tecnologia/' | relative_url }}) - Armas de fuego, imprenta, relojería y tecnología numeria
 
