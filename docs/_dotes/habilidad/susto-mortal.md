@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/habilidad/susto-mortal/
-title: Susto mortal {% include accion.html tipo="1" %}
+title: Susto mortal
 chapter: Dotes
 category: dotes
 habilidad: Intimidación

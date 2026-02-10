@@ -1,7 +1,7 @@
 ---
 layout: spell
 permalink: /conjuros/descarga-de-fuerza-a/
-title: Descarga de Fuerza {% include accion.html tipo="1" %} a
+title: Descarga de Fuerza a
 chapter: Conjuros
 spell_level: 1
 source: PC1

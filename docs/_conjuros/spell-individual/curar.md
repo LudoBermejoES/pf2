@@ -1,7 +1,7 @@
 ---
 layout: spell
 permalink: /conjuros/curar/
-title: Curar {% include accion.html tipo="1" %}/{% include accion.html tipo="2" %}/{% include accion.html tipo="3" %}
+title: Curar
 chapter: Conjuros
 spell_level: 1
 source: PC1

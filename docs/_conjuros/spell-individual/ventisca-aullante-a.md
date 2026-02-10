@@ -1,7 +1,7 @@
 ---
 layout: spell
 permalink: /conjuros/ventisca-aullante-a/
-title: Ventisca Aullante {% include accion.html tipo="2" %} a
+title: Ventisca Aullante a
 chapter: Conjuros
 spell_level: 5
 source: PC1

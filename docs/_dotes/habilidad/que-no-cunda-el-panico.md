@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/habilidad/que-no-cunda-el-panico/
-title: Que no cunda el panico {% include accion.html tipo="3" %}
+title: Que no cunda el panico
 chapter: Dotes
 category: dotes
 habilidad: Diplomacia

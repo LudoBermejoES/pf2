@@ -1,7 +1,7 @@
 ---
 layout: spell
 permalink: /conjuros/burbuja-de-aire/
-title: Burbuja de Aire {% include accion.html tipo="reaccion" %}
+title: Burbuja de Aire
 chapter: Conjuros
 spell_level: 1
 source: PC1

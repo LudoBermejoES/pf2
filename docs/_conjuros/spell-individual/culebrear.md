@@ -1,7 +1,7 @@
 ---
 layout: spell
 permalink: /conjuros/culebrear/
-title: Culebrear {% include accion.html tipo="2" %}/{% include accion.html tipo="3" %}
+title: Culebrear
 chapter: Conjuros
 spell_level: 5
 source: PC1

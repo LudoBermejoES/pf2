@@ -1,7 +1,7 @@
 ---
 layout: spell
 permalink: /conjuros/danar-a/
-title: Danar {% include accion.html tipo="1" %} a
+title: Danar a
 chapter: Conjuros
 spell_level: 1
 source: PC1

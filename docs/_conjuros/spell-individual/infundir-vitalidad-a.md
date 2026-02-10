@@ -1,7 +1,7 @@
 ---
 layout: spell
 permalink: /conjuros/infundir-vitalidad-a/
-title: Infundir Vitalidad {% include accion.html tipo="1" %} a
+title: Infundir Vitalidad a
 chapter: Conjuros
 spell_level: 1
 source: PC1

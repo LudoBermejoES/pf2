@@ -1,7 +1,7 @@
 ---
 layout: spell
 permalink: /conjuros/virote-ardiente-a/
-title: Virote Ardiente {% include accion.html tipo="1" %} a
+title: Virote Ardiente a
 chapter: Conjuros
 spell_level: 2
 source: PC1

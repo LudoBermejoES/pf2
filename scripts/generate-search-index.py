@@ -144,6 +144,9 @@ def process_file(file_path, collection_dir, category):
         else:
             title = file_path.stem.replace('-', ' ').title()
 
+    # Limpiar etiquetas Liquid del título
+    title = LIQUID_PATTERN.sub('', title).strip()
+
     # Limpiar contenido
     clean = clean_content(content)
 
