@@ -3,6 +3,9 @@ main:
   - title: Introducción
     url: /introduccion/
     icon: 📖
+  - title: Ambientación
+    url: /ambientacion/
+    icon: 🌍
   - title: Ascendencias
     url: /ascendencias/
     icon: 👥
@@ -43,8 +46,24 @@ sidebar:
         url: /introduccion/atributos/
       - title: "Términos Clave"
         url: /introduccion/terminos-clave/
+
+  ambientacion:
+    title: Ambientación
+    items:
       - title: "Golarion"
-        url: /introduccion/golarion/
+        url: /ambientacion/golarion/
+      - title: "Era de los Presagios Perdidos"
+        url: /ambientacion/era-presagios/
+      - title: "Religión"
+        url: /ambientacion/religion/
+      - title: "Dioses"
+        url: /ambientacion/religion/dioses/
+      - title: "Sociedad"
+        url: /ambientacion/sociedad/
+      - title: "Organizaciones"
+        url: /ambientacion/organizaciones/
+      - title: "Regiones del Mar Interior"
+        url: /ambientacion/regiones/
 
   ascendencias:
     title: Ascendencias

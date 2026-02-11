@@ -66,13 +66,13 @@ Los saberes enfocados en deidades que juegan papeles importantes en esta campañ
 
 | Deidad | Relevancia |
 |--------|------------|
-| [Calistria]({{ '/introduccion/dioses/calistria/' | relative_url }}) | Venganza y manipulación |
-| [Cayden Cailean]({{ '/introduccion/dioses/cayden-cailean/' | relative_url }}) | Libertad y aventura |
-| [Desna]({{ '/introduccion/dioses/desna/' | relative_url }}) | Viajes y sueños |
-| [Erastil]({{ '/introduccion/dioses/erastil/' | relative_url }}) | Comunidad y caza |
-| [Gorum]({{ '/introduccion/dioses/gorum/' | relative_url }}) | Guerra y conquista |
-| [Gozreh]({{ '/introduccion/dioses/gozreh/' | relative_url }}) | Naturaleza y clima |
-| [Shelyn]({{ '/introduccion/dioses/shelyn/' | relative_url }}) | Arte y belleza |
+| [Calistria]({{ '/ambientacion/religion/dioses/calistria/' | relative_url }}) | Venganza y manipulación |
+| [Cayden Cailean]({{ '/ambientacion/religion/dioses/cayden-cailean/' | relative_url }}) | Libertad y aventura |
+| [Desna]({{ '/ambientacion/religion/dioses/desna/' | relative_url }}) | Viajes y sueños |
+| [Erastil]({{ '/ambientacion/religion/dioses/erastil/' | relative_url }}) | Comunidad y caza |
+| [Gorum]({{ '/ambientacion/religion/dioses/gorum/' | relative_url }}) | Guerra y conquista |
+| [Gozreh]({{ '/ambientacion/religion/dioses/gozreh/' | relative_url }}) | Naturaleza y clima |
+| [Shelyn]({{ '/ambientacion/religion/dioses/shelyn/' | relative_url }}) | Arte y belleza |
 | **Saber de los Ancianos** | Conocimiento del panteón de semidioses feéricos |
 
 ### Saberes de Criaturas

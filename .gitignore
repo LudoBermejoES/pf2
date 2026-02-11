@@ -28,8 +28,12 @@ coordination/orchestration/*
 claude-flow
 # Removed Windows wrapper files per user request
 hive-mind-prompt-*.txt
-original/
 img/
 
 # Generated action cards (keep only in assets)
 tools/actionsCardCreator/generated_cards/
+
+# Original source files and working directories
+original/
+scripts/actualizar_*.py
+scripts/corregir_*.py

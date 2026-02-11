@@ -1,0 +1,53 @@
+---
+layout: page
+permalink: /ambientacion/organizaciones/mantis-rojas/
+title: "Mantis Rojas"
+chapter: Introducción
+category: ambientacion
+parent: Facciones
+parent_url: /ambientacion/organizaciones/
+source: GMI
+---
+
+**Cuartel general**: ciudadela Carmesí, Mediogolú
+**Líder**: Ama sangrienta Jakalyn
+**Miembros destacables**: los individuos no son reconocidos
+**Estructura**: secta religiosa/gremio de asesinos
+**Ámbito**: regional
+**Recursos**: la ciudad de Ilizmagorti y toda la industria y las defensas del lugar, extensa colección de información y magia antigua repartida en la ciudadela Carmesí, docenas de piezos sijos esparcidos por la mayoría de ciudades principales de la región del mar Interior
+
+Hay quien dice que los Mantis Rojas son un culto a la muerte, otros creen que son miembros de un gremio de hálcones ancestral e increíblemente hermético, y aún hay quien piensa que son infernales de algún plano oscuro más allá de nuestra comprensión. La verdad es que los Mantis Rojas son los asesinos más letales y discretos que el mundo ha conocido. La cronología de la historia escrita está manchada por la sangre de sus víctimas.
+
+No es habitual tener que preguntar si un asesinato es obra de los Mantis Rojas; suelen, matar con un sable aserrado sagrado, siendo que las heridas se ahogan en su propia sangre cuando sus corazones dejan de latir. No hay palacio, fortaleza, refugio escondido, o caverna subterránea lo bastante segura para el asesino o los Mantis Rojas. Hace un siglo, mataron al duque Rotaros de Cheliax, y la historia está repleta de relatos de generales y héroes muertos en sus propias tiendas en medio de los Mantis Rojas en sus inicios de una batalla decisiva. Sus víctimas nunca vuelven a la vida, no importan las circunstancias.
+
+### Estructura y liderazgo
+
+El cuartel general de los Mantis Rojas es la ciudadela Carmesí, un castillo oculto en las selvas de la ciudad portuaria de Ilizmagorti, en la isla Mediogolú. Aunque la base del poder del clan está concentrada en esa ciudad, mantienen células y agentes individuales acomodados en casi todas las ciudades importantes, y también en varios pueblos pequeños: los miembros de los Mantis Rojas se reclutan en centros de varios de sus camaradas, e incluso puede que interactúen con los Vernai (los 'Asesino Supremen'), una cábala de asesinos asesinos que lideran la organización e interpretan la voluntad del Dios Mantis.
+
+Aunque no hay reglas estrictas que impidan a los hombres convertirse en asesinos Mantis Rojas, la escrupulosidad hace que un hombre alcance el rango de Vernai. Aunque los Vernai conservan sus nombres, quienes no pertenecen a este alto escalón de asesinos los conocen solo por sus títulos. El único miembro del liderazgo de la organización cuyo nombre se conoce fuera de este cenáculo es la Ama Sangrienta: la autoridad absoluta de los Mantis Rojas de Aquel que Camina en Sangre y la única persona con acceso a la biblioteca Sarzari (ver Mediogolú, en el Capítulo 2). La actual Ama Sangrienta es Jakalyn. Nadie sabe su edad exacta, pero es lo bastante vieja como para llevar años pendientes de las acciones de los Vernai ya están especulando sobre quién debería sucederla cuando se retina con el Dios Mantis en el Gran Más Allá.
+
+La Ama Sangrienta Jakalyn encabeza la organización, pero sirve sobre todo como recurso para los Vernai. El concejo de Asesinos Supremos no tiene un número especificado de miembros; cualquier asesino Mantis Roja que demuestre ser lo bastante habilidoso, culto y astuto como para atraer la atención del Dios Mantis es invitado a unirse a la tabla. Tradicionalmente hay 11 miembros de los Vernai, pero es una cifra flexible: en el pasado, se ha llegado a reducir hasta 7 y ha subido hasta 23. Por deba de los Vernai, la organización se divide en células y jerarquías que cambian según las necesidades del encargo actual y de la orden.
+
+### Objetivos
+
+A pesar de su fatalidad, incluso el conspirador más desesperado se lo piensa dos veces antes de acudir a los Mantis Rojas. Nunca se sabe qué precio pedirán, varía mucho según el cliente y el objetivo. Pueden pedir un pirata de monedas, linelicito de valor incalculable, o un favor sin especificar que podrían exigir en un futuro. En ningún caso el precio es modesto, y tampoco lo que parece que ha salido barato, a menudo acaban pensando que el precio, ya sea en oro o en oro o en más, no ha merecido la pena en absoluto.
+
+Lograr la atención de los Mantis Rojas tampoco es tarea sencilla. No hay ningún método seguro de contactar con ellos directamente. Hay que hacer correr la voz en los barrios más sórdidos e infames, y esperar a qué los Mantis Rojas reciban el mensaje (si eso ocurre). Por otra parte, hay habilidades necesita contactar a un asesino y se ven abordados por un representante que les presenta una oferta de asistencia de los Mantis Rojas. No se sabe cómo llega esa información a oídos de la organización, pero parecen tener un modo sobrenatural de saber el nombre y los detalles de cualquiera que haya sido gravado usínidlo en el mundo antes de representarse.
+
+Los Mantis Rojas aceptan encargos de asesinato de cualquier clase, excepto de uno: no cometen regicidio contra una monarca cuyo gobierno sea legítimo. Se dice que esto se debe a que los reyes y reinas, debido a su derecho divino a gobernar, son las aproximaciones mortales cercanas a la forma humana en la Tierra, y ratar una de los Mantis Rojas trabaja de asesino para los demás dioses, sería blasfemo dar muerte a un gobernante que cuenta con autorización divina. Sin embargo, príncipes, princesas, duques, y el resto de personalidades de la corte son considerados objetivos válidos, igual que los gobernantes de naciones no monárquicas y todas las demás clases de líder. La prohibición es tan específica como sagrada.
+
+Una vez aceptado un encargo, los Mantis Rojas no se detienen ante nada para aislar, y ejecutar su objetivo. Tienen conexiones, ya sean abiertas o secretas, en casi cualquier gobierno, gremio, orden religiosa y grupo mercantil de Avistan y Garund. Prácticamente no hay ningún fragmento de información lo bastante raro y protegido como para que no puedan acceder al mismo. A la vez, se hallan a su objetivo, hacen cuanto sea necesario para asegurar su muerte. Ningún señuelo, duplicado mágico, o clsivo expiatorio les engaña durante mucho tiempo.
+
+Además, los Mantis Rojas se aseguran de que cualquiera al que aceptan por sí ser designado no solo resulta muerto, sino muerto. A través de medios mundanos y mágicos, mantienen a sus víctimas vigiladas, y si por casualidad alguna de ellas regresa del reino de los muertos, los Mantis Rojas vuelven a señalada como objetivo, y la persiguen con un fervor renovado. Para ellos, el asesinato no es sólo un trabajo, o siquiera una arte. Es una misión sagrada, pues no asesinan puramente por beneficios monetarios. Como el grupo está dedicado a la veneración del Dios Mantis Achaekek, Aquel que Camina en Sangre, sus asesinos son más bien un ritual sagrado o una ofrenda a su violento patrón.
+
+A diferencia de las órdenes menores de asesinos, los Mantis Rojas no realizan otros tipos de servicios turbios. De hecho, se toman como ofensa personal que un cliente les pregunte por otros servicios. A veces se le ocurre a un villano emprendedor que mientras están realizando su asesinato, sería un juego de niños para los Mantis Rojas reunir información y llevar a cabo otras formas menores de espionaje. Cualquiera que sugiera tal cosa ve su encargo rechazado (si los Mantis Rojas no lo han aceptado aún). Adicionalmente, los Mantis Rojas nunca llevan a cabo asesinatos sin cobrar. Es parte de su vínculo sagrado.
+
+### Percepción pública
+
+Cuando tiene un encargo, un Mantis Roja típico blandeados hojas crueles llamadas sables aserrados, usando un estilo de lucha único en el cual las hojas se empañan con la punta hacia abajo de modo que los brazos del asesino recuerdan a las garras de una mantis religiosa. Aunque el sable aserrado es un símbolo de los Mantis Rojas tanto como sus distintivos uniformes negros y rojos, o sus cascos y máscaras insectudes, a los Mantis Rojas no le importa mucho que el sable aserrado se haya popularizado por la región del mar Interior. Para ellos, cuanto más se expanda este símbolo, mayor será la fama y la notoriedad de su sociedad. Por supuesto, también faltan el respeto al sable aserrado blandiéndolo mal en combate a menudo sufren el mismo castigo brutal que cualquiera que se atreve a mancillar el legado de los Mantis Rojas.
+
+Los agente Mantis Rojas dan prioridad a la movilidad y a la sutileza, y por tanto muchos asesinos de la organización prefieren armaduras de cuento antes que otros tipos de protección (aunque la armadura de mithril también se valora cuando está disponible). Aunque esta sociedad es un gremio de asesinos de alquiler, no todos los miembros tienen rango en las clases de prestigio 'asesino' o 'asesino Mantis Roja; algunos son especialistas en otros campos, como la magia divina, el lanzamiento de conjuros arcanos, o directamente combate armado o desarmado. Se espera que todos los miembros de la sociedad adhieren a Achaekek, aunque los niveles de fe pueden variar desde el clérigo más devoto hasta el pleno más pragmático.
+
+Una pieza de equipo icónica que la mayoría de asesinos utilizan es la infame _máscara de mantis_. Además de ser velos para ocultar las identidades de los asesinos, estas máscaras insectoides son herramientas de destrucción y muerte. Sólo los Mantis Rojas más egoístas y notorias renuncian a usar esas máscaras. Los miembros de alto rango de la orden a menudo reciben también dosis de los potentes _elixires de paso sombrío_ para que puedan infiltrarse más fácilmente en los dominios de un enemigo sin ser detectados.
+
+Los miembros de los Mantis Rojas provienen de todas las naciones y clases sociales. Abandonan sus antiguos nombres y puestos cuando se unen, y adoptan nuevos nombres que se esfuerzan en que los forasteros no conozcan nunca, conservando sus viejos nombres e identidades sólo como disfraces o alias convenientes en caso de necesidad. Los asesinos Mantis Rojas son expertos en mesclarse con cualquier situación en la que se encuentren y adoptar papeles completamente creíbles, perfectos hasta en el acento, los manierismos, y los gustos culinarios. Nunca usan la misma tapadera dos veces, por lo que es posible encontrarse con el mismo operativo Mantis Roja varias veces y no descubrirlo nunca.

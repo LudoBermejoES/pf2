@@ -40,10 +40,13 @@ Pathfinder es un juego de rol (JdR) de fantasía de sobremesa, en el que un grup
 - [**Creación de Personajes**]({{ '/introduccion/creacion-personajes/' | relative_url }}) - Proceso paso a paso para crear tu héroe
 - [**Subir de Nivel**]({{ '/introduccion/subir-nivel/' | relative_url }}) - Cómo progresar y ganar nuevas aptitudes
 
-## El Mundo de Golarion
+## Próximos Pasos
 
-- [**Escenario**]({{ '/introduccion/escenario/' | relative_url }}) - La Era de los Presagios Perdidos y el mundo de Golarion
-- [**Dioses**]({{ '/introduccion/dioses/' | relative_url }}) - Las deidades principales del panteón
+Una vez que comprendas las mecánicas básicas del juego, puedes explorar:
+
+- [**Ambientación**]({{ '/ambientacion/' | relative_url }}) - El mundo de Golarion, su historia, culturas y geografía
+- **Reglas Avanzadas** - Mecánicas detalladas de combate, exploración y tiempo libre
+- **Clases y Opciones** - Todas las opciones disponibles para personalizar tu personaje
 
 ---
 

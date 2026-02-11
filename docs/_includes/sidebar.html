@@ -17,6 +17,7 @@
     </h3>
     <ul class="sidebar-links">
       <li><a href="{{ '/introduccion/' | relative_url }}"><span class="section-icon">📖</span> Introducción</a></li>
+      <li><a href="{{ '/ambientacion/' | relative_url }}"><span class="section-icon">🌍</span> Ambientación</a></li>
       <li><a href="{{ '/ascendencias/' | relative_url }}"><span class="section-icon">👥</span> Ascendencias</a></li>
       <li><a href="{{ '/clases/' | relative_url }}"><span class="section-icon">⚔</span> Clases</a></li>
       <li><a href="{{ '/habilidades/' | relative_url }}"><span class="section-icon">🎯</span> Habilidades</a></li>
@@ -51,8 +52,41 @@
       <li><a href="{{ '/introduccion/formato-reglas/' | relative_url }}">Formato de las Reglas</a></li>
       <li><a href="{{ '/introduccion/creacion-personajes/' | relative_url }}">Creación de Personajes</a></li>
       <li><a href="{{ '/introduccion/subir-nivel/' | relative_url }}">Subir de Nivel</a></li>
-      <li><a href="{{ '/introduccion/escenario/' | relative_url }}">Escenario</a></li>
-      <li><a href="{{ '/introduccion/dioses/' | relative_url }}">Dioses</a></li>
+    </ul>
+  </div>
+  {% endif %}
+
+  <!-- Ambientación Section -->
+  {% if page.chapter == "Ambientación" %}
+  <div class="sidebar-section">
+    <h3 class="sidebar-heading">
+      <span class="section-icon">🌍</span>
+      Ambientación
+    </h3>
+    <ul class="sidebar-links">
+      <li><a href="{{ '/ambientacion/' | relative_url }}">Introducción</a></li>
+      <li><a href="{{ '/ambientacion/golarion/' | relative_url }}">Golarion</a></li>
+      <li><a href="{{ '/ambientacion/era-presagios/' | relative_url }}">Era de los Presagios Perdidos</a></li>
+      <li>
+        <span class="subsection-label">Religión</span>
+        <ul class="subsection-links">
+          <li><a href="{{ '/ambientacion/religion/' | relative_url }}">Sistema Religioso</a></li>
+          <li><a href="{{ '/ambientacion/religion/dioses/' | relative_url }}">Dioses Principales</a></li>
+        </ul>
+      </li>
+      <li>
+        <span class="subsection-label">Sociedad</span>
+        <ul class="subsection-links">
+          <li><a href="{{ '/ambientacion/sociedad/' | relative_url }}">Estructura Social</a></li>
+          <li><a href="{{ '/ambientacion/sociedad/calendario/' | relative_url }}">Calendario</a></li>
+          <li><a href="{{ '/ambientacion/sociedad/clima/' | relative_url }}">Clima</a></li>
+          <li><a href="{{ '/ambientacion/sociedad/comercio/' | relative_url }}">Comercio</a></li>
+          <li><a href="{{ '/ambientacion/sociedad/fauna-flora/' | relative_url }}">Fauna y Flora</a></li>
+          <li><a href="{{ '/ambientacion/sociedad/tecnologia/' | relative_url }}">Tecnología</a></li>
+        </ul>
+      </li>
+      <li><a href="{{ '/ambientacion/organizaciones/' | relative_url }}">Organizaciones</a></li>
+      <li><a href="{{ '/ambientacion/regiones/' | relative_url }}">Regiones del Mar Interior</a></li>
     </ul>
   </div>
   {% endif %}
