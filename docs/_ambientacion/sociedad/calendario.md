@@ -7,9 +7,6 @@ category: ambientacion
 nav_order: 10
 source: GMI
 ---
-
-# El calendario
-
 Aunque existen varios calendarios entre las gentes del Mar Interior, el que goza de un uso más extenso emplea el **Recuento de Absalom (RA)** para sus fechas. Este sistema de cómputo está basado en la fundación de Absalom (que tuvo lugar en el 1 de abadio, 1 RA), y debido a su extendida influencia, el calendario de la ciudad ha alcanzado una gran popularidad a través de la región.
 
 En el Recuento de Absalom, el día del mes siempre se dice primero, seguido por el nombre o número de mes, y con el año en último lugar.

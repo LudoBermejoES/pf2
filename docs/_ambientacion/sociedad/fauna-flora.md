@@ -7,9 +7,6 @@ category: ambientacion
 nav_order: 15
 source: GMI
 ---
-
-# Fauna
-
 Innumerables especies animales medran en Golarion, desde las relativamente inocuas a las más letales. Algunos de los animales más únicos de Golarion se detallan a continuación.
 
 ## Araña de desagüe

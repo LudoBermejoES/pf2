@@ -7,9 +7,6 @@ category: ambientacion
 nav_order: 13
 source: GMI
 ---
-
-# El comercio
-
 Sean cuales sean los bienes (como madera virgen del norte de Andoran, exquisito vidrio de Cheliax, o especias exóticas de Qadira) el comercio alimenta a las naciones que reposan en las costas rocosas del Mar Interior. Las naciones comerciales más poderosas de Golarion hacen zarpar miles de flotas mercantes cada semana a través de las aguas saladas y ventosas que unen el enorme océano Arcadiano con el tempestuoso océano Obari.
 
 ---
