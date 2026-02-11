@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/organizaciones/consorcio-de-aspis/
 title: "Consorcio de Aspis"
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 parent: Facciones
 parent_url: /ambientacion/organizaciones/

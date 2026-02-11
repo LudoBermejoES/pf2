@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/lamashtu/
 title: Lamashtu
 subtitle: Madre de los Monstruos
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 12
 parent: Dioses

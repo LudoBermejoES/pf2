@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/sociedad/calendario/
 title: Calendario
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 10
 source: GMI

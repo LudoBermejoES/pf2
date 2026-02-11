@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/organizaciones/caballeros-infernales/
 title: "Caballeros Infernales"
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 parent: Facciones
 parent_url: /ambientacion/organizaciones/

@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/religion/
 title: Religión
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 17
 source: PC1

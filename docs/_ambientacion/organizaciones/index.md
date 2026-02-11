@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/organizaciones/
 title: Facciones
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 10
 source: GMI

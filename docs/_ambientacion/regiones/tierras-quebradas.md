@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/regiones/tierras-quebradas/
 title: Las Tierras Quebradas
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 source: PC1
 ---

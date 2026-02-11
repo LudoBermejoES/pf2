@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/desna/
 title: Desna
 subtitle: Canción de las Esferas
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 5
 parent: Dioses

@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/rovagug/
 title: Rovagug
 subtitle: Bestia Agreste
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 15
 parent: Dioses

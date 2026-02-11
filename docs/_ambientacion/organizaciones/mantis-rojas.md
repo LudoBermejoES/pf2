@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/organizaciones/mantis-rojas/
 title: "Mantis Rojas"
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 parent: Facciones
 parent_url: /ambientacion/organizaciones/

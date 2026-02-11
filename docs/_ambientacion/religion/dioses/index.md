@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/religion/dioses/
 title: Dioses
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 18
 parent: Introducción

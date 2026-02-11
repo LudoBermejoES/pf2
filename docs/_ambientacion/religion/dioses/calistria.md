@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/calistria/
 title: Calistria
 subtitle: Aguijon Placentero
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 3
 parent: Dioses

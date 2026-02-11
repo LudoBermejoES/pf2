@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/abadar/
 title: Abadar
 subtitle: Amo de la Primera Boveda
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 1
 parent: Dioses

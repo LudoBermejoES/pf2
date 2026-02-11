@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/era-presagios/
 title: La Era de los Presagios Perdidos
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 9
 source: Guía de los Presagios Perdidos

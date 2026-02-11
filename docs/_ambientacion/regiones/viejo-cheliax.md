@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/regiones/viejo-cheliax/
 title: El Viejo Cheliax
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 source: PC1
 ---

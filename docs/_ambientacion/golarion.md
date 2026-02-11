@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/golarion/
 title: Escenario
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 8
 source: PC1

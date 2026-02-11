@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/sociedad/clima/
 title: Clima y meteorología
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 11
 source: GMI

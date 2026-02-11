@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/sociedad/tecnologia/
 title: Tecnología
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 16
 source: GMI

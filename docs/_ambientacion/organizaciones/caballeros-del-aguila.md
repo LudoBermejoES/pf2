@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/organizaciones/caballeros-del-aguila/
 title: "Caballeros del Águila"
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 parent: Facciones
 parent_url: /ambientacion/organizaciones/

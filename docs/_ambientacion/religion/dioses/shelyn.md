@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/shelyn/
 title: Shelyn
 subtitle: Rosa Eterna
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 17
 parent: Dioses

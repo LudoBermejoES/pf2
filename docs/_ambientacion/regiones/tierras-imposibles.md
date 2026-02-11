@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/regiones/tierras-imposibles/
 title: Las Tierras Imposibles
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 source: PC1
 ---

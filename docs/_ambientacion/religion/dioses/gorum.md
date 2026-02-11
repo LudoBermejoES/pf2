@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/gorum/
 title: Gorum
 subtitle: Señor del Hierro
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 8
 parent: Dioses

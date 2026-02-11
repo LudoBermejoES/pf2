@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/urgathoa/
 title: Urgathoa
 subtitle: Princesa Palida
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 19
 parent: Dioses

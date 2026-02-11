@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/sociedad/comercio/
 title: Comercio
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 13
 source: GMI

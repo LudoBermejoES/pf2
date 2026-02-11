@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/nethys/
 title: Nethys
 subtitle: Ojo que Todo lo Ve
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 13
 parent: Dioses

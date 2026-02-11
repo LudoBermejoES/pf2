@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/iomedae/
 title: Iomedae
 subtitle: Heredera
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 10
 parent: Dioses

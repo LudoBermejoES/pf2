@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/sociedad/
 title: Sociedad
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 14
 source: GMI

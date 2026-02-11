@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/asmodeo/
 title: Asmodeo
 subtitle: Principe de la Oscuridad
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 2
 parent: Dioses

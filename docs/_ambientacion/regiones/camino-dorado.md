@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/regiones/camino-dorado/
 title: El Camino Dorado
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 source: PC1
 ---

@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/sarenrae/
 title: Sarenrae
 subtitle: Flor del Alba
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 16
 parent: Dioses

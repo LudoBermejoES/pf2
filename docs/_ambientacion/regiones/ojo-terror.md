@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/regiones/ojo-terror/
 title: El Ojo del Terror
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 source: PC1
 ---

@@ -3,7 +3,7 @@ layout: page
 permalink: /ambientacion/religion/dioses/farasma/
 title: Farasma
 subtitle: Dama de las Sepulturas
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 7
 parent: Dioses

@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/sociedad/fauna-flora/
 title: Fauna y flora
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 nav_order: 15
 source: GMI

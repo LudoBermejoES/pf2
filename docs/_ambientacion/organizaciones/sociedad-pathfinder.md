@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/organizaciones/sociedad-pathfinder/
 title: "Sociedad Pathfinder"
-chapter: Introducción
+chapter: Ambientación
 category: ambientacion
 parent: Facciones
 parent_url: /ambientacion/organizaciones/
