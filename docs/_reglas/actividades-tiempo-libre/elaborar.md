@@ -61,3 +61,45 @@ Por cada día adicional de trabajo exitoso, reduces el coste restante según tu 
 ## Ejemplo
 
 Ver [Ejemplo: Semana en la Ciudad]({{ '/reglas/ejemplos/tiempo-libre/' | relative_url }}) donde Theron elabora veneno.
+
+---
+
+## 🔮 Sistema Expandido: Secretos de la Artesanía
+
+Las reglas anteriores cubren la **artesanía básica** de *Player Core*. Para grupos que quieran más profundidad, existe un **sistema expandido completo** con múltiples subsistemas y opciones avanzadas.
+
+### 📚 [Ver Sistema Completo: Secretos de la Artesanía]({{ '/reglas/artesania/' | relative_url }})
+
+El sistema expandido incluye:
+
+#### Reglas Alternativas
+- **[Artesanía Compleja]({{ '/reglas/artesania/compleja/' | relative_url }})** - Tiempos variables y opciones de acelerar
+- **[Eventos de Artesanía]({{ '/reglas/artesania/eventos/' | relative_url }})** - Sucesos aleatorios durante la creación
+- **[Artesanía Crítica]({{ '/reglas/artesania/critica/' | relative_url }})** - Efectos especiales narrativos
+- **[Conversión de Objetos]({{ '/reglas/artesania/conversion/' | relative_url }})** - Desmontar y reciclar objetos mágicos
+
+#### Artesanía Natural
+- **[Cultivar Objetos]({{ '/reglas/artesania/cultivar/' | relative_url }})** - Hacer crecer objetos desde seres vivos
+- **[Jardines Maravillosos]({{ '/reglas/artesania/jardines/' | relative_url }})** - Lugares que producen consumibles renovables
+- **[Obsequios Otorgados]({{ '/reglas/artesania/obsequios/' | relative_url }})** - Objetos concedidos por criaturas mágicas
+- **[Materiales Alternativos]({{ '/reglas/artesania/materiales/' | relative_url }})** - Hueso, piedra, coral y otros materiales
+
+#### Artesanía Basada en Historia
+- **[Gestas Artesanales]({{ '/reglas/artesania/historia/' | relative_url }})** - Aventuras para obtener objetos legendarios
+- **[Ejemplos de Gestas]({{ '/reglas/artesania/gestas-ejemplos/' | relative_url }})** - Gestas completas listas para jugar
+
+---
+
+### 🎯 ¿Cuándo Usar el Sistema Expandido?
+
+**Usa las reglas básicas (esta página) si:**
+- ✅ Creas objetos ocasionalmente
+- ✅ Prefieres simplicidad
+- ✅ La artesanía no es central en tu campaña
+
+**Explora el sistema expandido si:**
+- ✅ La creación de objetos es importante para tu grupo
+- ✅ Quieres más decisiones tácticas
+- ✅ Buscas mayor narrativa en la artesanía
+- ✅ Juegas campañas druídicas o naturales
+- ✅ Prefieres objetos como parte de aventuras épicas
