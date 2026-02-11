@@ -64,16 +64,18 @@ Ver [Ejemplo: Semana en la Ciudad]({{ '/reglas/ejemplos/tiempo-libre/' | relativ
 
 ---
 
-## 🔮 Sistema Expandido: Secretos de la Artesanía
+## Sistema Expandido: Secretos de la Artesanía
 
-Las reglas anteriores cubren la **artesanía básica** de *Player Core*. Para grupos que quieran más profundidad, existe un **sistema expandido completo** con múltiples subsistemas y opciones avanzadas.
+Las reglas anteriores cubren la artesanía básica de *Player Core*. Para grupos que quieran más profundidad, existe un sistema expandido completo con múltiples subsistemas y opciones avanzadas.
 
-### 📚 [Ver Sistema Completo: Secretos de la Artesanía]({{ '/reglas/artesania/' | relative_url }})
+### Ver Sistema Completo
+
+Consulta [Secretos de la Artesanía]({{ '/reglas/artesania/' | relative_url }}) para acceder al sistema expandido completo.
 
 El sistema expandido incluye:
 
 #### Reglas Alternativas
-- **[Artesanía Compleja]({{ '/reglas/artesania/compleja/' | relative_url }})** - Tiempos variables y opciones de acelerar
+- **[Artesanía Compleja]({{ '/reglas/artesania/compleja/' | relative_url }})** - Tiempos variables y opciones de acelerar la elaboración
 - **[Eventos de Artesanía]({{ '/reglas/artesania/eventos/' | relative_url }})** - Sucesos aleatorios durante la creación
 - **[Artesanía Crítica]({{ '/reglas/artesania/critica/' | relative_url }})** - Efectos especiales narrativos
 - **[Conversión de Objetos]({{ '/reglas/artesania/conversion/' | relative_url }})** - Desmontar y reciclar objetos mágicos
@@ -90,16 +92,16 @@ El sistema expandido incluye:
 
 ---
 
-### 🎯 ¿Cuándo Usar el Sistema Expandido?
+### Cuándo Usar el Sistema Expandido
 
 **Usa las reglas básicas (esta página) si:**
-- ✅ Creas objetos ocasionalmente
-- ✅ Prefieres simplicidad
-- ✅ La artesanía no es central en tu campaña
+- Creas objetos ocasionalmente
+- Prefieres simplicidad
+- La artesanía no es central en tu campaña
 
 **Explora el sistema expandido si:**
-- ✅ La creación de objetos es importante para tu grupo
-- ✅ Quieres más decisiones tácticas
-- ✅ Buscas mayor narrativa en la artesanía
-- ✅ Juegas campañas druídicas o naturales
-- ✅ Prefieres objetos como parte de aventuras épicas
+- La creación de objetos es importante para tu grupo
+- Quieres más decisiones tácticas
+- Buscas mayor narrativa en la artesanía
+- Juegas campañas druídicas o naturales
+- Prefieres objetos como parte de aventuras épicas

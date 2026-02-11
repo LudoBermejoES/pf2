@@ -8,211 +8,59 @@ nav_order: 104
 source: Treasure Vault
 ---
 
-Los efectos estándar de éxito crítico y fracaso crítico de Artesanía son seguros y razonables, pero los resultados monetarios no tienen por qué ser las únicas consecuencias posibles.
+Los efectos estándar de éxito crítico y fracaso crítico de Artesanía son seguros y razonables, pero los resultados monetarios no tienen por qué ser las únicas consecuencias posibles. Con esta variante puedes otorgar, muy de vez en cuando, recompensas especiales o penalizaciones narrativas que se ajusten a la situación. Este sistema resulta ideal para momentos culminantes: objetos singulares e importantes, hitos destacados de la campaña u objetos profundamente vinculados a la historia personal de las protagonistas. No está pensado para objetos rutinarios de nivel bajo ni para la creación frecuente de consumibles, pues las artesanas de nivel alto obtienen éxitos críticos con tanta frecuencia al fabricar objetos simples que usar efectos especiales constantemente distorsionaría el equilibrio del juego.
 
-Con esta variante puedes otorgar, **muy de vez en cuando**, recompensas especiales o penalizaciones narrativas que se ajusten a la situación.
+## VINCULA LOS EFECTOS A LA HISTORIA
 
----
+Los efectos especiales cobran mayor poder cuando están ligados a la narrativa de tu campaña. Al forjar una espada encargada por una soberana obsesionada con su heroica ancestro, un éxito crítico podría manifestarse como la bendición del espíritu de esa antepasada sobre la hoja, mientras que un fracaso crítico podría revelar inesperadamente el blasón de una familia traidora en el metal, enfureciendo a la monarca. Considera tirar en secreto las pruebas de Artesanía cuando uses esta opción, para que el conocimiento del resultado no influya prematuramente en las decisiones de la mesa.
 
-## ⚠️ Cuándo Usar Este Sistema
+## ÉXITOS CRÍTICOS
 
-### ✅ Úsalo para:
-- Objetos **singulares e importantes**
-- Momentos **destacados de la campaña**
-- Objetos **vinculados a la historia**
+Cuando una artesana alcanza un éxito crítico en un objeto verdaderamente importante, el universo mismo parece responder a su maestría. Los siguientes efectos representan posibles manifestaciones de ese triunfo excepcional.
 
-### ❌ NO lo uses para:
-- Objetos rutinarios de nivel bajo
-- Creación frecuente de consumibles
-- Cuando artesanos de alto nivel crean objetos simples
+**Objeto Inteligente.** El asombroso éxito de la artesana impregna el objeto con parte de su esencia, despertando en él una inteligencia propia. El objeto se convierte en un objeto inteligente capaz de comunicarse y desarrollar personalidad propia.
 
-**Razón:** Las artesanas de nivel alto obtienen éxitos críticos con frecuencia al fabricar objetos de nivel bajo. Usar efectos especiales constantemente distorsionaría el juego.
+**Superar el Límite.** Si la artesana estaba creando un objeto del máximo nivel que domina, puede invertir recursos adicionales para empujar el límite y fabricar un objeto de nivel superior que normalmente no podría crear. Así, un bastón de bola de fuego de séptimo nivel podría transformarse en un bastón de bola de fuego de cuarto rango, de noveno nivel.
 
----
+**Capacidad Especial Adicional.** El objeto obtiene una capacidad beneficiosa menor además de las habituales para su tipo: una activación diaria adicional, un efecto mejorado o algo más sustancial que un simple rasgo.
 
-## 🎯 Cómo Implementarlo
+**Durabilidad Excepcional.** El objeto se forja con una resistencia tan extraordinaria que resulta casi imposible dañarlo. Duplica su Dureza o aumenta enormemente sus Puntos de Golpe. Adicionalmente, podría resistir la suciedad, el óxido u otros cambios cosméticos que normalmente afectan a objetos similares.
 
-### Vincula los Efectos a la Historia
+**Obra Maestra Estética.** La manufactura es tan hermosa que concede un bonificador de circunstancia a Diplomacia e Intimidación cuando se luce o se emplea como parte de la tirada. Alternativamente, el objeto vale considerablemente más como obra de arte que por su función práctica.
 
-Los efectos especiales deben estar ligados a la **narrativa de tu campaña**.
+**Finura Táctica.** El objeto está tan finamente elaborado que distrae a las enemigas en combate, otorgando un bonificador a Engañar para Fintar o para Crear una distracción cuando se usa como parte de la acción.
 
-**Ejemplo:**
-Al forjar una espada encargada por un soberano obsesionado con su heroica ancestro:
+## FRACASOS CRÍTICOS
 
-- **Éxito Crítico:** El espíritu de la antepasada bendice la hoja
-- **Fracaso Crítico:** El blasón de la familia traidora aparece en la hoja, enfureciendo a la monarca
+Cuando el proceso de creación falla de forma catastrófica, las consecuencias pueden extenderse mucho más allá de la simple pérdida de materiales. Los siguientes efectos representan los peligros que acechan a quienes se atreven a trabajar con fuerzas más allá de su comprensión.
 
-### Tira en Secreto
+**Maldición Secreta.** La artesana completa el objeto sin percatarse de que ha quedado secretamente maldito. La maldición permanece oculta hasta que el objeto se usa en una situación crítica, revelándose en el peor momento posible.
 
-Considera tirar en secreto las pruebas de Artesanía cuando uses esta opción, para que el conocimiento del resultado no influya en las decisiones de la mesa.
+**Drenaje de Fuerza Vital.** El objeto completa su creación drenando parte de la fuerza vital de la artesana, reduciendo permanentemente sus Puntos de Golpe. El objeto se niega a ser destruido por medios ordinarios, y solo mediante la finalización de una misión para aniquilarlo puede la artesana recuperar la vitalidad perdida.
 
----
+**Daño Duradero.** El proceso explota o causa un daño duradero que requiere juego adicional para eliminarlo. Este daño debe ser narrativamente significativo: no se trata simplemente de infligir puntos de golpe durante el tiempo de inactividad, sino de crear una aflicción, maldición o herida persistente que forme parte de la historia.
 
-## ⭐ ÉXITOS CRÍTICOS - Efectos Especiales
+**Inteligencia Malévola.** El fracaso atrae una inteligencia malévola que decide completar el objeto e inhabitar en él. Esta presencia se opone activamente a la creadora, frustrando sus intenciones en secreto y aguardando el momento oportuno para causar el mayor daño posible.
 
-### 1. Objeto Inteligente
+**Fallo Latente.** El objeto parece completamente normal y funciona correctamente durante las pruebas iniciales, pero alberga un defecto fundamental que se manifiesta cuando se usa en situaciones de tensión. La armadura se descuelga en mitad del combate, el arma se quiebra al impactar, o la varita emite únicamente un olor acre en lugar del conjuro esperado.
 
-El asombroso éxito de la artesana impregna el objeto con parte de su esencia y lo vuelve un **objeto inteligente**.
+**Maldición del Artesano.** La artesana queda maldita por su fracaso, sufriendo un penalizador a futuras pruebas de Artesanía que persiste hasta que obtenga un éxito crítico en otra creación o reciba limpiar aflicción de cuarto rango o superior.
 
----
+**Contaminación Ambiental.** La creación fracasa tan estrepitosamente que contamina el entorno. En el mejor de los casos, será necesario limpiar a fondo el taller. En el peor, el agua local enferma a la gente de los alrededores o la tierra misma queda envenenada. Las protagonistas deben entonces lidiar con las consecuencias sociales y morales de su error.
 
-### 2. Superar el Límite
+## ORIENTACIÓN PARA LA DIRECTORA DE JUEGO
 
-Si estaba creando un objeto del **máximo nivel que domina**, puede invertir recursos adicionales para empujar el límite y fabricar un objeto de **nivel superior** que normalmente no podría crear.
+Los ejemplos anteriores son mera inspiración. Los mejores efectos son aquellos que se conectan con la historia de tu campaña, que tienen consecuencias personales para el personaje artesano, que afectan las relaciones y la reputación del grupo, y que crean oportunidades para futuras aventuras. Los efectos especiales no deberían romper el equilibrio del juego: un objeto que obtiene un beneficio por éxito crítico no debería valer más que uno de nivel superior, y los efectos negativos deben ser superables con esfuerzo, dedicación o sacrificio significativo.
 
-**Ejemplo:** Transformar un *bastón de bola de fuego* de 7.º nivel en un *bastón de bola de fuego de 4.º rango*, de 9.º nivel.
+Usa este sistema raramente. La inmensa mayoría de las creaciones deben seguir las reglas estándar, reservando los efectos especiales para objetos verdaderamente memorables: el arma insignia del guerrero, el bastón legendario del mago, la armadura que define al campeón, u objetos centrales a la historia de la campaña.
 
----
+## EJEMPLO: LA ESPADA DEL PACTO
 
-### 3. Capacidad Especial Adicional
+La guerrera enana Thorgrid forja una espada para el Conde de Andoran, que la usará para sellar un pacto de paz con los enanos de las Cinco Montañas. La espada simboliza la reconciliación tras décadas de conflicto amargo. Thorgrid es maestra herrera de décimo nivel y crea una espada larga +2 de décimo nivel. La Directora de Juego tira en secreto y obtiene un 31: éxito crítico.
 
-El objeto obtiene una **capacidad beneficiosa menor** además de las habituales para su tipo, como:
-- Una activación diaria adicional
-- Un efecto mejorado
-- Algo mejor que un simple rasgo
+La DJ elige otorgar al arma una capacidad adicional. Cuando se desenvaina durante negociaciones de paz, la espada brilla con luz dorada y otorga un bonificador de circunstancia de +1 a Diplomacia a quien la porte. El Conde queda profundamente impresionado por este presagio favorable, y la reputación de Thorgrid como artesana legendaria crece por toda Andoran. Durante las generaciones siguientes, la espada se convierte en símbolo perdurable del pacto entre humanos y enanos.
 
----
-
-### 4. Durabilidad Excepcional
-
-El objeto es tan resistente que resulta casi imposible dañarlo:
-- **Duplicar su Dureza**
-- O aumentar enormemente sus PG
-
-**Efecto adicional:** Podría también resistir la suciedad, el óxido u otros cambios cosméticos.
-
----
-
-### 5. Obra Maestra Estética
-
-La manufactura es tan hermosa que:
-- Concede un **bonificador a Diplomacia e Intimidación** cuando se luce o se emplea como parte de la tirada
-- O vale más como obra de arte
-
----
-
-### 6. Finura Táctica
-
-El objeto está tan finamente elaborado que **distrae a las enemigas** en combate:
-- Otorga bonificador a **Engañar (Fintar)**
-- O a **Crear una distracción** cuando se usa como parte de la acción
-
----
-
-## 💀 FRACASOS CRÍTICOS - Efectos Especiales
-
-### 1. Maldición Secreta
-
-La artesana termina el objeto, pero queda **secretamente maldito**.
-
-**Efecto:** La maldición no se revela hasta que se usa en una situación crítica.
-
----
-
-### 2. Drenaje de Fuerza Vital
-
-El objeto completa su creación **drenando parte de la fuerza vital** de la artesana:
-- Reduce **permanentemente** sus PG
-- Se niega a ser destruido
-- Solo se restauran los PG al completar una misión para aniquilar el objeto
-
----
-
-### 3. Daño Duradero
-
-El proceso explota o causa un **daño duradero** que requiere juego adicional para eliminarlo.
-
-**Nota:** Infligir simples PG durante el tiempo de inactividad carece de sentido; el daño debe ser narrativamente significativo.
-
----
-
-### 4. Inteligencia Malévola
-
-La artesana atrae una **inteligencia malévola** que decide:
-- Completar el objeto
-- Habitar en él
-- Oponerse a la creadora
-- Frustrarla en secreto
-
----
-
-### 5. Fallo Latente
-
-El objeto **parece normal**, pero falla cuando se usa:
-- La armadura se descuelga
-- El arma se rompe
-- La varita solo emite un olor acre en lugar del conjuro
-
-**Peligro:** El fallo ocurre en el peor momento posible.
-
----
-
-### 6. Maldición del Artesano
-
-La artesana queda **maldita** por su fracaso:
-- Sufre un **penalizador a futuras pruebas de Artesanía**
-- Dura hasta obtener un éxito crítico
-- O recibir *limpiar aflicción* de 4.º rango
-
----
-
-### 7. Contaminación Ambiental
-
-La creación fracasa tan estrepitosamente que **contamina el entorno**:
-- Quizá sea necesario limpiar el taller
-- Peor aún: el agua local enferma a la gente de los alrededores
-- Las PJ deben lidiar con las consecuencias de su error
-
----
-
-## 💡 Consejos para el DJ
-
-### Crea Efectos Propios
-
-Los ejemplos anteriores son inspiración. Los mejores efectos son aquellos que:
-- Se conectan con la historia de tu campaña
-- Tienen consecuencias personales para el personaje
-- Afectan las relaciones y la reputación
-- Crean oportunidades para futuras aventuras
-
-### Balance de Poder
-
-- Los efectos **no deberían** romper el equilibrio del juego
-- Un objeto que obtiene un beneficio por éxito crítico **no debería** valer más que uno de nivel superior
-- Los efectos negativos **deben ser** superables con esfuerzo
-
-### Frecuencia
-
-**Usa esto raramente.** La mayoría de creaciones deben seguir las reglas estándar. Reserva los efectos especiales para:
-- El arma signature del guerrero
-- El bastón legendario del mago
-- La armadura que define al campeón
-- Objetos centrales a la historia de la campaña
-
----
-
-## 📖 Ejemplo de Uso
-
-### La Espada del Pacto
-
-**Contexto:** La guerrera enana Thorgrid forja una espada para el Conde de Andoran, que la usará para sellar un pacto de paz con los enanos de las Cinco Montañas. La espada simboliza la reconciliación tras décadas de conflicto.
-
-**Proceso:**
-- Thorgrid es maestra herrera (nivel 10)
-- Crea una *espada larga +2* (nivel 10)
-- El DJ tira en secreto: 31 (¡éxito crítico!)
-
-**Efecto Especial (DJ elige #3):**
-La espada obtiene una capacidad adicional: cuando se desenvaina durante negociaciones de paz, brilla con luz dorada y otorga +1 de circunstancia a Diplomacia a quien la porte.
-
-**Consecuencia Narrativa:**
-- El Conde queda impresionado
-- La reputación de Thorgrid como artesana legendaria crece
-- La espada se convierte en símbolo del pacto durante generaciones
-
----
-
-## 🔗 Ver También
+## Ver También
 
 - [Artesanía Compleja]({{ '/reglas/artesania/compleja/' | relative_url }})
 - [Eventos de Artesanía]({{ '/reglas/artesania/eventos/' | relative_url }})

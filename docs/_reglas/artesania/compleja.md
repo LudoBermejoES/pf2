@@ -12,38 +12,23 @@ source: Treasure Vault
 >
 > — Valashinaz, Señora de la Bóveda
 
-La acción **Crear** descrita en *Player Core* funciona a un ritmo sencillo: puedes crear cualquier objeto en 1-2 días. Este sistema prioriza la simplicidad, pero deja caminos sin explorar.
+La acción Crear descrita en *Player Core* funciona a un ritmo sencillo: puedes crear cualquier objeto en 1-2 días. Este sistema prioriza la simplicidad, pero deja caminos sin explorar. La artesanía compleja es ideal para grupos que consideran la creación de objetos una parte central de su experiencia. Para la mayoría, el sistema sencillo basta.
 
-**Artesanía Compleja** es ideal para grupos que consideran la creación de objetos una parte central de su experiencia. Para la mayoría, el sistema sencillo basta.
+Esta variante añade decisiones al proceso de artesanía, permitiendo que cada personaje elija entre abordar el trabajo con calma y método o apresurarlo, arriesgándose a perder materiales o incluso a crear un objeto maldito. También introduce cambios en el tiempo requerido según el nivel del objeto y si se trata de un consumible o de un objeto permanente.
 
----
+## Requisitos Previos
 
-## 🎯 Qué Añade Este Sistema
+Para empezar, debes cumplir todos los requisitos de la acción Crear de Artesanía (*Player Core* 236):
 
-Esta variante añade **decisiones** al proceso de artesanía:
+- Competencia entrenado en Artesanía
+- Fórmula del objeto
+- Materias primas (50% del Precio)
+- Herramientas de artesano apropiadas
+- El objeto debe ser de tu nivel o inferior
 
-- ✅ **Tiempos variables** según nivel del objeto (consumibles vs permanentes)
-- ✅ **Opción de apresurarse** con mayor riesgo de fracaso
-- ✅ **Riesgo de objetos malditos** si te apresuras demasiado
-- ✅ **Mejor distinción** entre objetos simples y complejos
+## Determinar el Tiempo de Preparación
 
----
-
-## 📝 Requisitos Previos
-
-Debes cumplir todos los requisitos de la acción **Crear** de Artesanía (*Player Core* 236):
-
-- Competencia **entrenado** en Artesanía
-- **Fórmula** del objeto
-- **Materias primas** (50% del Precio)
-- **Herramientas** de artesano apropiadas
-- El objeto debe ser de tu **nivel o inferior**
-
----
-
-## ⏱️ Paso 1: Determinar el Tiempo de Preparación
-
-El tiempo base depende del **tipo de objeto** y su **nivel relativo al tuyo**:
+El tiempo base depende del tipo de objeto y su nivel relativo al tuyo. Consulta el nivel del objeto y si es consumible o permanente. Compáralo con tu nivel y busca el número de días en la tabla siguiente. Ese tiempo marca la cantidad base de jornadas necesarias para crear el objeto. Disponer de la fórmula reduce la duración en 1 día (mínimo 1 día).
 
 ### DÍAS DE PREPARACIÓN
 
@@ -53,53 +38,30 @@ El tiempo base depende del **tipo de objeto** y su **nivel relativo al tuyo**:
 | Tu nivel –1 o –2 | 1 día | 3 días |
 | Tu nivel –3 o inferior | 1 día | 2 días |
 
-### Modificadores al Tiempo
+Una alquimista de nivel 7 que quiera crear un elixir de nivel 7 necesitaría 2 días como base (consumible de su nivel). Si dispone de la fórmula, el tiempo se reduce a 1 día.
 
-**Disponer de la fórmula:** Reduce 1 día (mínimo 1 día)
+## Elegir el Enfoque
 
-**Ejemplo:** Una alquimista de nivel 7 quiere crear un elixir de nivel 7:
-- Base: 2 días (consumible de su nivel)
-- Con fórmula: 1 día
-- **Total: 1 día**
-
----
-
-## 🏃 Paso 2: Elegir el Enfoque
-
-Puedes **acelerar el proceso** reduciendo días a cambio de mayor dificultad:
+También puedes acelerar el proceso, restando días al tiempo de preparación a cambio de un mayor riesgo de fracaso. Si eres al menos experta en Artesanía puedes reducir 1 día aumentando la CD en 5. Si eres maestra, puedes reducir 2 días aumentando la CD en 10. Si eres legendaria, puedes reducir 3 días elevando la CD en 15.
 
 | Competencia | Reducción Máxima | Aumento de CD |
 |-------------|------------------|---------------|
-| **Entrenado** | No puede acelerar | — |
-| **Experto** | –1 día | +5 CD |
-| **Maestro** | –2 días | +10 CD |
-| **Legendario** | –3 días | +15 CD |
+| Entrenado | No puede acelerar | — |
+| Experto | –1 día | +5 CD |
+| Maestro | –2 días | +10 CD |
+| Legendario | –3 días | +15 CD |
 
-### Tiempo Mínimo
+Si la reducción dejaría el total en 0 o menos, el tiempo mínimo de artesanía es de 4 horas para un consumible o 1 día para un objeto permanente.
 
-Si la reducción deja el total en 0 o menos:
-- **Consumibles:** Mínimo **4 horas**
-- **Permanentes:** Mínimo **1 día**
+La misma alquimista experta podría optar por el enfoque metódico (1 día, CD estándar) o el acelerado (4 horas, CD +5).
 
-**Ejemplo:** La misma alquimista experta podría:
-- Opción A (metódica): 1 día, CD estándar
-- Opción B (acelerada): 4 horas, CD +5
+## Finalizar el Objeto
 
----
+Cuando terminas el tiempo de preparación debes realizar una prueba de Artesanía para determinar el resultado global de tu creación. La DJ determina la CD base como siempre, en función del nivel, rareza y demás circunstancias del objeto.
 
-## ✅ Paso 3: Finalizar el Objeto
+**Éxito Crítico o Éxito:** Si la superas, gastas las materias primas y puedes completar el objeto de inmediato pagando el resto de su Precio en materiales. Como alternativa, puedes invertir días adicionales de inactividad trabajando en él.
 
-Tras el tiempo de preparación, haces una **prueba de Artesanía**:
-
-### Éxito Crítico o Éxito
-
-Gastas las materias primas y puedes:
-
-**Opción A:** Pagar el resto (50%) y terminar inmediatamente
-
-**Opción B:** Trabajar más días para reducir el coste
-
-Cada día adicional reduce el coste según tu competencia (tabla **Ganancias por Trabajo**, *Player Core* 229):
+Por cada día extra que dediques reduces el valor de los materiales que necesitas para finalizar el objeto. Esta reducción se determina con la tabla Ganancias por Trabajo de la página 229 de *Player Core*, basándote en tu rango de competencia en Artesanía y usando tu nivel en lugar del nivel de la tarea.
 
 | Competencia | Reducción por Día |
 |-------------|-------------------|
@@ -108,24 +70,17 @@ Cada día adicional reduce el coste según tu competencia (tabla **Ganancias por
 | Maestro | Ganancias de tu nivel +2 |
 | Legendario | Ganancias de tu nivel +3 |
 
-### Fallo
+Tras cualquiera de esos días de inactividad puedes completar el objeto pagando la parte restante de su Precio. Si el trabajo se interrumpe, puedes retomarlo más tarde y continuar donde lo dejaste.
 
-No completas el objeto, pero **conservas los materiales**. Puedes reintentar.
+**Fallo:** No completas el objeto, pero conservas los materiales. Puedes reintentar.
 
-### Fallo Crítico
+**Fallo Crítico:** Pierdes el 10% de las materias primas. Puedes reintentar con las restantes.
 
-Pierdes el **10% de las materias primas**. Puedes reintentar con las restantes.
+## Apresurar el Trabajo Final
 
----
+También puedes acelerar esta fase. Si eres al menos experta en Artesanía, puedes apresurar el proceso final y reducir en el doble de la cantidad indicada en la tabla Ganancias por Trabajo de la página 229 de *Player Core* el valor de los materiales que necesitas.
 
-## ⚡ Apresurar el Trabajo Final
-
-Si eres al menos **experta**, puedes **acelerar la fase final**:
-
-- **Efecto:** Reduces el **doble** de lo indicado en la tabla Ganancias por Trabajo
-- **Riesgo:** Al completar el objeto, haces una **prueba simple:**
-
-**CD:** 10 + nivel del objeto – tu bonificador de competencia en Artesanía
+Hacerlo conlleva un riesgo: al terminar el proceso creativo y una vez completado el objeto, debes realizar una prueba simple con una CD igual a 10 + el nivel del objeto – tu bonificador de competencia en Artesanía.
 
 ### Resultados de la Prueba Simple
 
@@ -133,24 +88,14 @@ Si eres al menos **experta**, puedes **acelerar la fase final**:
 |-----------|--------|
 | **Éxito Crítico** | El objeto funciona perfectamente |
 | **Éxito** | El objeto funciona perfectamente |
-| **Fallo** | El objeto tiene una **pequeña excentricidad** (DJ decide) |
-| **Fallo Crítico** | El objeto queda **arruinado** o se convierte en **objeto maldito** vinculado a ti |
+| **Fallo** | El objeto tiene una pequeña excentricidad (DJ decide) |
+| **Fallo Crítico** | El objeto queda arruinado o se convierte en objeto maldito vinculado a ti |
 
----
+## Crear Objetos con Ajustes
 
-## 🛡️ Crear Objetos con Ajustes
+Los ajustes (*Treasure Vault* página 11) son modificaciones que otorgan capacidades especiales concretas a un tipo particular de equipo. En lugar de fabricar los ajustes por separado y añadírselos después a una armadura, puedes crear directamente la armadura con el ajuste incorporado. Para ello, suma el precio del ajuste al coste total de creación de la armadura base y calcula el resto del proceso con normalidad.
 
-Los **ajustes** (*Treasure Vault* página 11) son modificaciones especiales para armaduras.
-
-En lugar de crear el ajuste por separado, puedes **incorporarlo directamente**:
-
-1. Suma el precio del ajuste al coste total de la armadura
-2. Calcula el proceso con normalidad
-3. La armadura se completa con el ajuste ya integrado
-
----
-
-## 📊 Ejemplos Completos
+## Ejemplos Completos
 
 ### Ejemplo 1: Elixir de Vida Menor (Nivel 1)
 
@@ -159,8 +104,8 @@ En lugar de crear el ajuste por separado, puedes **incorporarlo directamente**:
 **Configuración:**
 - Consumible de nivel 1 (tu nivel –2)
 - Tiempo base: 1 día
-- Con fórmula: 0 días → Mínimo **4 horas**
-- Acelera 1 día: CD base 15 → **CD 20**
+- Con fórmula: 0 días, mínimo 4 horas
+- Acelera 1 día: CD base 15, aumenta a CD 20
 
 **Proceso:**
 - Invierte 4 horas de trabajo
@@ -178,7 +123,7 @@ En lugar de crear el ajuste por separado, puedes **incorporarlo directamente**:
 **Configuración:**
 - Permanente de nivel 2 (tu nivel –3)
 - Tiempo base: 2 días
-- Con fórmula: **1 día**
+- Con fórmula: 1 día
 - No acelera (quiere CD estándar)
 
 **Proceso:**
@@ -198,7 +143,7 @@ En lugar de crear el ajuste por separado, puedes **incorporarlo directamente**:
 - Permanente de nivel 7 (tu nivel)
 - Tiempo base: 4 días
 - Con fórmula: 3 días
-- Acelera 2 días: CD base 23 → **CD 33** (arriesgado)
+- Acelera 2 días: CD base 23, aumenta a CD 33 (arriesgado)
 
 **Proceso:**
 - Invierte 1 día de trabajo
@@ -210,21 +155,21 @@ En lugar de crear el ajuste por separado, puedes **incorporarlo directamente**:
 - Prueba simple CD 18 (10 + 7 + 19): obtiene 14 (fallo)
 - **Resultado:** El bastón funciona pero tiene una excentricidad (DJ: brilla débilmente en la oscuridad, revelando su posición)
 
----
-
-## 🎓 Dote de Habilidad Opcional
+## Dote de Habilidad Opcional
 
 ### PREPARACIÓN RÁPIDA <span class="trait">Dote 7</span> <span class="trait-rare">Rara</span>
 
 **Requisitos** maestra en Artesanía
 
-Si reduces el tiempo de preparación de un lote de **consumibles al menos 6 niveles inferior** al tuyo a menos de 1 día, puedes completarlo en solo **2 horas** (durante un día de aventuras si tienes herramientas y materiales).
+Si reduces el tiempo de preparación de un lote de consumibles al menos 6 niveles inferior al tuyo a menos de 1 día, puedes completarlo en solo 2 horas (durante un día de aventuras si tienes herramientas y materiales).
 
-Si apresuras la preparación de un **objeto permanente al menos 6 niveles inferior** al tuyo a menos de 1 día, puedes llevar a cabo la preparación en **4 horas**.
+Si apresuras la preparación de un objeto permanente al menos 6 niveles inferior al tuyo a menos de 1 día, puedes llevar a cabo la preparación en 4 horas.
+
+Esta dote está catalogada como rara y solo está disponible cuando se usa esta variante. Este ritmo acelerado podría hacer que las jugadoras terminen con más tesoro o más objetos de los previstos para la aventura, así que ten cuidado antes de permitirla en campañas que ya ofrezcan amplios periodos de inactividad.
 
 ---
 
-## 🔗 Ver También
+## Ver También
 
 - [Elaborar (Reglas Básicas)]({{ '/reglas/actividades-tiempo-libre/elaborar/' | relative_url }})
 - [Eventos de Artesanía]({{ '/reglas/artesania/eventos/' | relative_url }})

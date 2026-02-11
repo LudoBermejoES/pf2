@@ -80,7 +80,6 @@ Tablas de Tesoro
 
 Glosario e Índice
 
-41
 
 ‌MUNICIÓN ALQUÍMICA‌‌
 
@@ -90,181 +89,165 @@ Glosario e Índice
 
 ## —Purepurin
 
-# BANE AMMUNITION ITEM 1+
+# MUNICIÓN AZOTE OBJETO 1+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | POISON |
+| ALQUÍMICO | CONSUMIBLE | VENENO |
 
-### Ammunition any
+### Munición cualquiera
 
-**Activate** [one-action] (manipulate)                         Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature—aberration, animal, beast, dragon, fey, giant, ooze, or both fungus and plant. Each type requires a different formula. When activated bane ammunition hits a target that has a trait matching the selected type, it takes persistent poison damage in addition to the damage the attack normally deals.         **Type** lesser; **Level** 1; **Price** 3 gp
+**Activar** [una acción] (manipular)                         Las cazadoras de monstruos prefieren la munición azote, que contiene una cápsula de reactivos adaptada a un tipo concreto de criatura—aberración, animal, bestia, dragón, hada, gigante, limo o bien hongos y plantas. Cada tipo requiere una fórmula distinta. Cuando la munición azote activada impacta en un objetivo cuyo rasgo coincide con el tipo elegido, este sufre daño de veneno persistente además del daño normal del ataque.         **Tipo** menor; **Nivel** 1; **Precio** 3 mo
 
-The ammunition deals 1d4 persistent poison damage.
+La munición inflige 1d4 de daño de veneno persistente.
 
-### Type moderate; Level 5; Price 25 gp
+### Tipo moderado; Nivel 5; Precio 25 mo
 
-The ammunition deals 2d6 persistent poison damage.
+La munición inflige 2d6 de daño de veneno persistente.
 
-### Type greater; Level 11; Price 250 gp
+### Tipo mayor; Nivel 11; Precio 250 mo
 
-The ammunition deals 3d6 persistent poison damage.
+La munición inflige 3d6 de daño de veneno persistente.
 
-# BLISTER AMMUNITION ITEM 5+
-
-|  |  |  |
-| --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | POISON |
-
-### Ammunition any
-
-**Activate** [one-action] (manipulate)                             Blister ammunition is loaded with alchemically processed irritants, such as pollen, pepper, and formic acid. A creature hit by activated blister ammunition must attempt a Fortitude save or begin to itch uncontrollably in addition to damage the attack normally deals. On a critical hit, increase the Fortitude DC by 2, and the target is dazzled for 1 round. For the duration, each time the target attempts a concentrate action, it must attempt a DC 8 flat check, losing the action on a failure. An affected creature can use a single Interact action to scratch and sneeze, allowing it to automatically pass the flat check. The effect ends early once an affected creature spends 3 Interact actions scratching and sneezing. These Interact actions don’t need to be consecutive.  **Type** lesser; **Level** 5; **Price** 21 gp
-
-The maximum duration is 3 rounds, and the Fortitude DC is 19.
-
-### Type moderate; Level 11; Price 210 gp
-
-The maximum duration is 6 rounds, and the Fortitude DC is 28.
-
-### Type greater; Level 16; Price 1,400 gp
-
-The maximum duration is 10 rounds, and the Fortitude DC is 35.
-
-# ELEMENTAL AMMUNITION ITEM 1+
+# MUNICIÓN AMPOLLANTE OBJETO 5+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | SPLASH |
+| ALQUÍMICO | CONSUMIBLE | VENENO |
 
-### Ammunition any
+### Munición cualquiera
 
-**Activate** [one-action] (manipulate)                           When activated, the reservoir of alchemical reagents in elemental ammunition atomizes on impact, dealing persistent acid, cold, electricity, fire, or poison damage to the target and splash damage in addition to the damage the attack normally deals. Each damage type requires a different formula, and the ammunition gains a trait matching the damage type.                         **Type** lesser; **Level** 1; **Price** 3 gp
+**Activar** [una acción] (manipular)                             Esta munición se carga con irritantes tratados alquímicamente, como polen, pimienta o ácido fórmico. Una criatura alcanzada por munición ampollante activada debe intentar una salvación de Fortaleza o comenzará a rascarse sin control además de sufrir el daño normal del ataque. Con un golpe crítico, aumenta en 2 la CD de Fortaleza y el objetivo queda deslumbrado durante 1 asalto. Mientras duren los efectos, cada vez que el objetivo intente una acción con el rasgo concentrarse debe superar una prueba plana CD 8 o perder la acción. Una criatura afectada puede usar una sola acción de Interactuar para rascarse y estornudar, lo que le permite superar automáticamente la prueba plana. El efecto termina antes si la criatura gasta 3 acciones de Interactuar en rascarse y estornudar; estas acciones no tienen que ser consecutivas.  **Tipo** menor; **Nivel** 5; **Precio** 21 mo
 
-The ammunition deals 1 persistent damage and 1 splash damage.
+La duración máxima es 3 asaltos y la CD de Fortaleza es 19.
 
-### Type moderate; Level 5; Price 21 gp
+### Tipo moderado; Nivel 11; Precio 210 mo
 
-The ammunition deals 2d4 persistent damage and 2 splash damage.                                     **Type** greater; **Level** 11; **Price** 210 gp
+La duración máxima es 6 asaltos y la CD de Fortaleza es 28.
 
-The ammunition deals 3d4 persistent damage and 3 splash damage.
+### Tipo mayor; Nivel 16; Precio 1,400 mo
 
-# FREEZE AMMUNITION ITEM 5
+La duración máxima es 10 asaltos y la CD de Fortaleza es 35.
+
+# MUNICIÓN ELEMENTAL OBJETO 1+
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | SALPICADURA |
+
+### Munición cualquiera
+
+**Activar** [una acción] (manipular)                           Al activarse, el depósito de reactivos alquímicos de esta munición se atomiza al impacto, infligiendo daño persistente de ácido, frío, electricidad, fuego o veneno al objetivo y daño por salpicadura además del daño normal del ataque. Cada tipo de daño requiere una fórmula diferente, y la munición obtiene un rasgo que coincide con el tipo de daño.                         **Tipo** menor; **Nivel** 1; **Precio** 3 mo
+
+La munición inflige 1 punto de daño persistente y 1 de salpicadura.
+
+### Tipo moderado; Nivel 5; Precio 21 mo
+
+La munición inflige 2d4 de daño persistente y 2 de salpicadura.                                     **Tipo** mayor; **Nivel** 11; **Precio** 210 mo
+
+La munición inflige 3d4 de daño persistente y 3 de salpicadura.
+
+# MUNICIÓN CONGELANTE OBJETO 5
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | COLD | CONSUMABLE | SPLASH |
+| ALQUÍMICO | FRÍO | CONSUMIBLE | SALPICADURA |
 
-### Price 28 gp
+### Precio 28 mo
 
-### Ammunition any
+### Munición cualquiera
 
-**Activate** [one-action] (manipulate)                         Freeze ammunition carries chilling reagents that activate on contact with the target. A creature hit by activated freeze ammunition takes cold damage instead of the weapon’s normal damage type, plus 2 cold splash damage. Hitting a 5-foot-square surface successfully with freeze ammunition deals 2 cold splash damage and covers the space in a layer of ice. Each creature standing on the icy surface must succeed at a DC 20 Reflex save or Acrobatics check or else fall prone. Creatures using an action to move onto the icy surface must attempt either a Reflex save or an Acrobatics check to Balance. Creatures that Step or Crawl don’t need to attempt a check or save. The ice melts after 1 minute, although unusually hot or cold temperatures can change this duration at the GM’s discretion. Dealing at least 1 point of fire damage to the ice removes it instantly.
+**Activar** [una acción] (manipular)                         Esta munición contiene reactivos helados que se activan al contacto con el objetivo. Una criatura alcanzada por munición congelante activada recibe daño de frío en lugar del tipo de daño normal del arma, más 2 de daño de frío por salpicadura. Impactar con éxito una superficie de 5 pies cuadrados inflige 2 de daño de frío por salpicadura y cubre el espacio con una capa de hielo. Cada criatura que esté de pie sobre la superficie helada debe superar una salvación de Reflejos CD 20 o una prueba de Acrobacias para Mantener el equilibrio o caerá tumbada. Las criaturas que usen una acción para entrar en la superficie helada deben intentar una salvación de Reflejos o una prueba de Acrobacias para Mantener el equilibrio. Las criaturas que den un Paso o Repten no necesitan hacer tirada ni salvación. El hielo se derrite tras 1 minuto, aunque temperaturas inusualmente altas o bajas pueden alterar esta duración a discreción de la DJ. Infligir al menos 1 punto de daño de fuego al hielo lo elimina de inmediato.
 
-42
 
-# ‌LIFE SHOT ITEM 2+‌
+# ‌DISPARO VITAL OBJETO 2+‌
 
-ALCHEMICAL CONSUMABLE HEALING
+ALQUÍMICO CONSUMIBLE CURATIVO
 
-### Ammunition round
+### Munición bala
 
-**Activate** [one-action] (manipulate)                         Life shot is a special cartridge that carries a small dose of elixir of life. A creature hit by activated life shot takes no damage from the successful attack, instead receiving healing and gaining an item bonus to saving throws against diseases and poisons for 1 minute. On a critical hit, roll the healing received twice and take the better result (this is a fortune effect). A target willing to be hit by this attack is off-guard against it.   **Type** minor; **Level** 2; **Price** 5 gp
+**Activar** [una acción] (manipular)                         Este cartucho especial contiene una pequeña dosis de elixir de vida. Una criatura alcanzada por un disparo vital activado no recibe daño del ataque exitoso; en su lugar, recupera Puntos de Golpe y obtiene un bonificador de objeto a las tiradas de salvación contra enfermedades y venenos durante 1 minuto. Con un golpe crítico, tira dos veces la curación recibida y quédate con el mejor resultado (es un efecto de fortuna). Un objetivo dispuesto a recibir este ataque está desprevenido contra él.   **Tipo** menor; **Nivel** 2; **Precio** 5 mo
 
-The ammunition restores 1d4 Hit Points, and the bonus is +1.
+La munición restaura 1d4 Puntos de Golpe y el bonificador es +1.
 
-### Type lesser; Level 6; Price 50 gp
+### Tipo inferior; Nivel 6; Precio 50 mo
 
-The ammunition restores 3d4+3 Hit Points, and the bonus is +1.
+La munición restaura 3d4+3 Puntos de Golpe y el bonificador es +1.
 
-### Type moderate; Level 10; Price 200 gp
+### Tipo moderado; Nivel 10; Precio 200 mo
 
-The ammunition restores 5d4+7 Hit Points, and the bonus is +2.
+La munición restaura 5d4+7 Puntos de Golpe y el bonificador es +2.
 
-### Type greater; Level 14; Price 750 gp
+### Tipo mayor; Nivel 14; Precio 750 mo
 
-The ammunition restores 7d4+10 Hit Points, and the bonus is +2.
+La munición restaura 7d4+10 Puntos de Golpe y el bonificador es +2.
 
-### Type major; Level 16; Price 1,500 gp
+### Tipo superior; Nivel 16; Precio 1,500 mo
 
-The ammunition restores 8d4+11 Hit Points, and the bonus is +3.
+La munición restaura 8d4+11 Puntos de Golpe y el bonificador es +3.
 
-### Type true; Level 20; Price 9,000 gp
+### Tipo verdadero; Nivel 20; Precio 9,000 mo
 
-The ammunition restores 10d4+14 Hit Points, and the bonus is +4.
+La munición restaura 10d4+14 Puntos de Golpe y el bonificador es +4.
 
-# OOZE AMMUNITION ITEM 2+
-
-|  |  |  |
-| --- | --- | --- |
-| ACID | ALCHEMICAL | CONSUMABLE |
-
-### Ammunition any
-
-**Activate** [one-action] (manipulate)                         Ooze ammunition is a capsule containing a sticky substance. If you hit a creature with activated ooze ammunition, it deals acid damage instead of its normal damage type, and the creature then takes the listed penalty to Speed and persistent acid damage until it ends the effects. On a critical hit, the creature is immobilized for 1 round in addition to the other effects. The target can end the effects by Escaping the sticky foam. Other creatures can provide the action, although doing so deals half the ammunition’s persistent acid damage to the assisting creature. A creature that ends the effect still takes the persistent damage that turn.                                 **Type** lesser; **Level** 2; **Price** 7 gp
-
-The ammunition deals 1d4 persistent acid damage and imposes a –5-foot penalty to Speed, and the Escape DC is 16.             **Type** moderate; **Level** 6; **Price** 42 gp
-
-The ammunition deals 2d4 persistent acid damage and imposes a –10-foot penalty to Speed, and the Escape DC is 20.           **Type** greater; **Level** 12; **Price** 350 gp
-
-The ammunition deals 3d4 persistent acid damage and imposes a –10-foot penalty to Speed, and the Escape DC is 29.
-
-# NOW HIRING
-
-Little Purepurin is earnest and a hard worker, but I may eat her if she destroys any more of my collection. She completely obliterated a suit of armor I acquired in Absalom, purportedly worn by Iomedae during her mortal life. I doubt the story was true, but the merchant who told it was entertaining and has acquired many truly valuable artifacts for me. The other day, I slipped on a patch of ice that I am entirely certain was left behind after Purepurin fired the freezing ammunition from display case #756–2. Purepurin thinks I did it on purpose when I discovered her misbehavior, a misconception I am loath to disabuse. I should find another member of her family with a gentler touch and more scientific mind to care for my alchemy vaults, and let her focus her play on the other equipment that is more suited to her curious nature. Like the cursed items.
-
-—Valashinaz, Mistress of the Vault
-
-### Type major; Level 18; Price 3,250 gp
-
-The ammunition deals 4d4 persistent acid damage and imposes a –15-foot penalty to Speed, and the Escape DC is 38.
-
-# RUSTING AMMUNITION ITEM 13+
+# MUNICIÓN LIMOSA OBJETO 2+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | FORCE |
+| ÁCIDO | ALQUÍMICO | CONSUMIBLE |
 
-### Ammunition any
+### Munición cualquiera
 
-**Activate** [one-action] (manipulate)                           Rusting ammunition is made using an ore louse’s saliva and, when activated, deals damage to objects or creatures primarily made of metal. The target takes persistent damage for a duration determined by the type of ammunition used. A creature that drops to 0 Hit Points while taking this persistent damage crumbles into fine powder; its gear remains. The ammunition’s type determines the maximum amount of an object that’s destroyed.                           **Type** moderate; **Level** 13; **Price** 600 gp
+**Activar** [una acción] (manipular)                         Esta munición consiste en una cápsula llena de una sustancia pegajosa. Si impactas a una criatura con munición limosa activada, inflige daño de ácido en lugar del tipo normal y la criatura recibe el penalizador indicado a su Velocidad, además de daño de ácido persistente hasta que termine el efecto. Con un golpe crítico, la criatura también queda inmovilizada durante 1 asalto. El objetivo puede acabar con el efecto Escapando de la espuma pegajosa. Otras criaturas pueden proporcionar la acción para ayudar, aunque hacerlo les inflige la mitad del daño de ácido persistente de la munición. Una criatura que ponga fin al efecto todavía sufre el daño persistente durante ese turno.                                 **Tipo** menor; **Nivel** 2; **Precio** 7 mo
 
-The ammunition deals 3d8 persistent damage for up to 5 rounds. For an object, the ammunition destroys a 5-foot cube.  **Type** greater; **Level** 18; **Price** 3,600 gp
+La munición inflige 1d4 de daño de ácido persistente, impone un penalizador de –5 pies a la Velocidad y la CD para Escapar es 16.             **Tipo** moderado; **Nivel** 6; **Precio** 42 mo
 
-The ammunition deals 4d8 persistent damage for up to 6 rounds. For an object, the ammunition destroys a 10-foot cube.         **Craft Requirements** Supply the saliva of an ore louse (*Pathfinder*
+La munición inflige 2d4 de daño de ácido persistente, impone un penalizador de –10 pies a la Velocidad y la CD para Escapar es 20.           **Tipo** mayor; **Nivel** 12; **Precio** 350 mo
+
+La munición inflige 3d4 de daño de ácido persistente, impone un penalizador de –10 pies a la Velocidad y la CD para Escapar es 29.
+
+# SE BUSCA PERSONAL
+
+La pequeña Purepurin es aplicada y trabajadora, pero puede que me la coma si destroza otra pieza de mi colección. Arrasó por completo una armadura que adquirí en Absalom, supuestamente portada por Iomedae en vida. Dudo que la historia fuera cierta, pero la mercader que me la contó era entretenida y me ha conseguido artefactos muy valiosos. El otro día resbalé sobre una placa de hielo que, estoy segura, apareció después de que Purepurin disparara la munición congelante de la vitrina #756-2. Purepurin piensa que lo hice a propósito al descubrir su mala conducta, un malentendido que no tengo prisa por aclarar. Debería buscar a otra integrante de su familia, con un tacto más delicado y una mente más científica, para que cuide mis bóvedas alquímicas, y dejar que Purepurin centre sus juegos en otros equipos más acordes con su naturaleza curiosa. Como los objetos malditos.
+
+—Valashinaz, Señora de la Bóveda
+
+### Tipo superior; Nivel 18; Precio 3,250 mo
+
+La munición inflige 4d4 de daño de ácido persistente, impone un penalizador de –15 pies a la Velocidad y la CD para Escapar es 38.
+
+# MUNICIÓN OXIDANTE OBJETO 13+
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | FUERZA |
+
+### Munición cualquiera
+
+**Activar** [una acción] (manipular)                           Fabricada con la saliva de un piojo de mena, esta munición activada inflige daño a objetos o criaturas compuestas principalmente de metal. El objetivo recibe daño persistente durante un tiempo determinado por el tipo de munición empleada. Una criatura que cae a 0 Puntos de Golpe mientras sufre este daño persistente se desmorona en polvo fino; su equipo permanece intacto. El tipo de munición determina la cantidad máxima de un objeto que resulta destruida.                           **Tipo** moderado; **Nivel** 13; **Precio** 600 mo
+
+La munición inflige 3d8 de daño persistente durante un máximo de 5 asaltos. En el caso de un objeto, destruye un cubo de 5 pies.  **Tipo** mayor; **Nivel** 18; **Precio** 3,600 mo
+
+La munición inflige 4d8 de daño persistente durante un máximo de 6 asaltos. En el caso de un objeto, destruye un cubo de 10 pies.         **Requisitos de creación** Suministrar la saliva de un piojo de mena (*Pathfinder*
 
 Rage of Elements 185).
 
-Introduction
 
-Alchemical Ammunition
 
-Alchemy Unleashed
 
-Armor & Armaments
 
-Alchemical Bombs
 
 Alchemical Foods Alchemical Tools
 
-Bottled Monstrosities
 
-Elixirs
 
-Permanent Alchemical Items
 
-Poisons
 
-Momentary Magic
 
-Trappings of Power
 
-Secrets of Crafting
 
-Game master’s Trove
 
-Treasure Tables
 
-Glossary & Index
 
 FREEZE AMMUNITION
 
@@ -272,173 +255,151 @@ LIFE SHOT
 
 OOZE AMMUNITION BLISTER AMMUNITION
 
-43
 
-‌ALCHEMICAL BOMBS‌‌
+‌BOMBAS ALQUÍMICAS‌‌
 
-## What do I know about alchemical bombs? Who’s asking? Did the boss put you up to this? I told her already, it was probably rats who caused that explosion, and if she wants to talk to anyone about it, she should talk to Ziik the ratcatcher. Rats are explicitly not part of my responsibilities, per the placard posted next to the greater maestro’s instruments in the boss’s magic instruments vault. I won’t stand here and be accused again of storing the lodestone bombs next to the metal junk bombs
+## ¿Qué sé yo de bombas alquímicas? ¿Quién lo pregunta? ¿La jefa te envió? Ya le dije que seguramente fueron ratas las que causaron esa explosión, y si quiere hablar con alguien al respecto, que hable con Ziik, el cazarratas. Las ratas no forman parte de mis responsabilidades, tal como indica el cartel junto a los instrumentos del gran maestro en la cámara de magia de la jefa. No me quedaré aquí para que me acusen otra vez de guardar las bombas magnetita junto a las chatarras metálicas
 
-## without any evidence to back the accusation. I won’t!
+## sin prueba alguna que respalde la acusación. ¡No pienso hacerlo!
 
 ## —Purepurin
 
-# BLIGHTBURN BOMB ITEM 15+
+# BOMBA DE BLUZBURN OBJETO 15+
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | BOMB | CONSUMABLE | DISEASE | POISON | SPLASH |
+| POCO COMÚN | ALQUÍMICO | BOMBA | CONSUMIBLE | ENFERMEDAD | VENENO | SALPICADURA |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [one-action] Strike                               Blightburn bombs have radioactive materials sealed inside flasks treated with lead. The bomb grants an item bonus to attack rolls and deals poison damage, persistent poison damage, and poison splash damage, according to the bomb’s type. A creature that takes the persistent poison damage deals the splash damage again from its current position as the radiation continues to harm nearby creatures. The persistent damage can last up to 1 minute. Blightburn bombs also expose the primary target to blightburn sickness [(page 45)](#bookmark114) at the listed Fortitude DC.                               **Type** blightburn bomb; **Level** 15; **Price** 1,200 gp
+**Activar** [una acción] Golpe                               Estas bombas contienen materiales radiactivos sellados en matraces recubiertos de plomo. Otorgan un bonificador de objeto a las tiradas de ataque y, según el tipo, infligen daño de veneno, daño de veneno persistente y daño de veneno por salpicadura. Una criatura que reciba el daño persistente vuelve a infligir el daño por salpicadura desde su posición actual mientras la radiación sigue afectando a las criaturas cercanas. El daño persistente puede durar hasta 1 minuto. La bomba también expone al objetivo principal a la enfermedad de blightburn [(página 45)](#bookmark114) con la CD de Fortaleza indicada.                               **Tipo** bomba de blightburn; **Nivel** 15; **Precio** 1,200 mo
 
-You gain a +2 item bonus to attack rolls, and the bomb deals 3d6 poison damage, 3d4 persistent poison damage, and 3 poison splash damage. The Fortitude DC is 34.             **Type** greater blightburn bomb; **Level** 20; **Price** 12,000 gp
+Obtienes un bonificador de objeto +2 a las tiradas de ataque, y la bomba inflige 3d6 de daño de veneno, 3d4 de daño de veneno persistente y 3 de daño de veneno por salpicadura. La CD de Fortaleza es 34.             **Tipo** bomba de blightburn mayor; **Nivel** 20; **Precio** 12,000 mo
 
-You gain a +3 item bonus to attack rolls, and the bomb deals 4d6 poison damage, 4d4 persistent poison damage, and 4 poison splash damage. The Fortitude DC is 43.
+Obtienes un bonificador de objeto +3 a las tiradas de ataque, y la bomba inflige 4d6 de daño de veneno, 4d4 de daño de veneno persistente y 4 de daño de veneno por salpicadura. La CD de Fortaleza es 43.
 
-# BOULDER SEED ITEM 12+
+# SEMILLA ROCA OBJETO 12+
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | BOMB | CONSUMABLE | SPLASH |
+| ALQUÍMICO | BOMBA | CONSUMIBLE | SALPICADURA |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [one-action] Strike                                   This bomb is made of volatile fluids that rapidly expand and harden when exposed to air. A boulder seed grants an item bonus to attack rolls and deals bludgeoning damage and bludgeoning splash damage, according to the bomb’s type. When activated, the bomb fills a 5-foot cube with hardened foam, which has stats according to the bomb’s type and which pushes a primary target of a certain size or smaller occupying that space 5 feet away from you. On a critical hit, the target also falls prone. The splash zone fills with rubble, creating difficult terrain. The “boulder” the bomb creates fails all saving throws and loses 1 Hardness per round, disintegrating into fine powder when the boulder’s Hardness is reduced to 0. At that time, the difficult terrain the bomb created also disappears.
+**Activar** [una acción] Golpe                                   Esta bomba contiene fluidos volátiles que se expanden y endurecen con rapidez al exponerse al aire. La semilla roca concede un bonificador de objeto a las tiradas de ataque e inflige daño contundente y daño contundente por salpicadura según su tipo. Al activarla, la bomba llena un cubo de 5 pies con espuma endurecida, con estadísticas determinadas por su tipo, y empuja 5 pies a un objetivo principal del tamaño indicado o menor que ocupe ese espacio. Con un golpe crítico, el objetivo también cae tumbado. El área de salpicadura se llena de escombros, creando terreno difícil. El “peñasco” creado falla todas las tiradas de salvación y pierde 1 punto de Dureza por asalto, desintegrándose en polvo cuando su Dureza llega a 0; en ese momento el terreno difícil también desaparece.
 
-### Type boulder seed; Level 12; Price 360 gp
+### Tipo semilla roca; Nivel 12; Precio 360 mo
 
-You gain a +2 item bonus to attack rolls, and the bomb deals 3d4 bludgeoning damage plus 3 bludgeoning splash damage. It creates a boulder as hard as wood (Hardness 5, HP 20) that pushes Medium or smaller targets.                   **Type** greater boulder seed; **Level** 18; **Price** 3,600 gp
+Obtienes un bonificador de objeto +2 a las tiradas de ataque, y la bomba inflige 3d4 de daño contundente más 3 de daño contundente por salpicadura. Crea un peñasco tan duro como la madera (Dureza 5, PG 20) que empuja a objetivos Medianos o más pequeños.                   **Tipo** semilla roca mayor; **Nivel** 18; **Precio** 3,600 mo
 
-You gain a +3 item bonus to attack rolls, and the bomb deals 4d4 bludgeoning damage plus 4 bludgeoning splash damage. It creates a boulder as hard as stone (Hardness 10, HP 40) that pushes Large or smaller targets.
+Obtienes un bonificador de objeto +3 a las tiradas de ataque, y la bomba inflige 4d4 de daño contundente más 4 de daño contundente por salpicadura. Crea un peñasco tan duro como la piedra (Dureza 10, PG 40) que empuja a objetivos Grandes o más pequeños.
 
-# LODESTONE BOMB ITEM 12+
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | BOMB | CONSUMABLE | FORCE | SPLASH |  |
-
-### Usage held in 1 hand; Bulk L
-
-**Activate** [one-action] Strike                             Lodestone bombs hold reactive ionized minerals preserved in a dormant state until broken. The bomb grants an item bonus to attack rolls and deals force damage and force splash damage, according to the bomb’s type. In addition, a target made of metal, wearing metal armor, or using metal weapons takes persistent force damage and is clumsy 1 and enfeebled 1 while taking the persistent damage. The persistent damage can last up to 1 minute.
-
-### Type lodestone bomb; Level 12; Price 400 gp
-
-You gain a +2 item bonus to attack rolls, and the bomb deals 3d4 force damage plus 2 force splash damage. The bomb deals 2d4 persistent force damage to applicable targets.           **Type** greater lodestone bomb; **Level** 18; **Price** 4,500 gp
-
-You gain a +3 item bonus to attack rolls, and the bomb deals 4d4 force damage plus 3 force splash damage. The bomb deals 3d4 persistent force damage to applicable targets.
-
-# SHATTERSTONE ITEM 12+
+# BOMBA DE MAGNETITA OBJETO 12+
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | BOMB | CONSUMABLE | SONIC | SPLASH |  |
+| ALQUÍMICO | BOMBA | CONSUMIBLE | FUERZA | SALPICADURA |  |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [one-action] Strike                               A shatterstone is a small ceramic orb. Inside are reactive agents that set up an intense field of sonic vibration when the stone breaks. The bomb grants an item bonus to attack rolls and deals sonic damage and sonic splash damage, according to the bomb’s type. Much of the sound is ultrasonic, and
+**Activar** [una acción] Golpe                             Estas bombas contienen minerales ionizados reactivos conservados en estado latente hasta que se rompen. Conceden un bonificador de objeto a las tiradas de ataque e infligen daño de fuerza y daño de fuerza por salpicadura, según su tipo. Además, un objetivo compuesto de metal, que lleve armadura metálica o empuñe armas metálicas recibe daño de fuerza persistente y sufre torpeza 1 y debilitado 1 mientras dure el daño persistente, que puede extenderse hasta 1 minuto.
 
-44
+### Tipo bomba de magnetita; Nivel 12; Precio 400 mo
 
-‌creatures with sonic weakness that take damage from the bomb must succeed at a Fortitude saving throw at the listed DC or be deafened until the end of their next turn.‌
+Obtienes un bonificador de objeto +2 a las tiradas de ataque, y la bomba inflige 3d4 de daño de fuerza más 2 de daño de fuerza por salpicadura. Inflige 2d4 de daño de fuerza persistente a los objetivos aplicables.           **Tipo** bomba de magnetita mayor; **Nivel** 18; **Precio** 4,500 mo
 
-### Type shatterstone; Level 12; Price 380 gp
+Obtienes un bonificador de objeto +3 a las tiradas de ataque, y la bomba inflige 4d4 de daño de fuerza más 3 de daño de fuerza por salpicadura. Inflige 3d4 de daño de fuerza persistente a los objetivos aplicables.
 
-You gain a +2 item bonus to attack rolls, and the bomb deals 3d6 sonic damage and 3 sonic splash damage. The Fortitude DC  is  30.
+# PIEDRA QUEBRADIZA OBJETO 12+
 
-### Type greater shatterstone; Level 18; Price 3,800 gp
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| ALQUÍMICO | BOMBA | CONSUMIBLE | SÓNICO | SALPICADURA |  |
 
-You gain a +3 item bonus to attack rolls, and the bomb deals 4d6 sonic damage and 4 sonic splash damage. The Fortitude DC is 40.
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-# SKUNK BOMB ITEM 1+
+**Activar** [una acción] Golpe                               Estas esferas de cerámica contienen agentes reactivos que generan un intenso campo de vibración sónica al romperse. Conceden un bonificador de objeto a las tiradas de ataque e infligen daño sónico y daño sónico por salpicadura según su tipo. Gran parte del sonido es ultrasónico, y las criaturas con debilidad al daño sónico que sufran daño de la bomba deben superar una tirada de salvación de Fortaleza con la CD indicada o quedarán ensordecidas hasta el final de su siguiente turno.
+
+### Tipo piedra quebradiza; Nivel 12; Precio 380 mo
+
+Obtienes un bonificador de objeto +2 a las tiradas de ataque, y la bomba inflige 3d6 de daño sónico y 3 de daño sónico por salpicadura. La CD de Fortaleza es 30.
+
+### Tipo piedra quebradiza mayor; Nivel 18; Precio 3,800 mo
+
+Obtienes un bonificador de objeto +3 a las tiradas de ataque, y la bomba inflige 4d6 de daño sónico y 4 de daño sónico por salpicadura. La CD de Fortaleza es 40.
+
+# BOMBA MOFETA OBJETO 1+
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | BOMB | CONSUMABLE | OLFACTORY | POISON | SPLASH |  |
+| ALQUÍMICO | BOMBA | CONSUMIBLE | OLFATIVO | VENENO | SALPICADURA |  |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [one-action] Strike                                 Skunk bombs are made from the concentrated odors of xulgaths, hezrous, and other creatures with natural or supernatural stench. The bomb grants an item bonus to attack rolls and deals poison damage and poison splash damage. Any creature hit by the bomb or in its splash area must attempt a Fortitude saving throw with a DC based on the bomb’s type. Creatures in the splash area treat the results of their saving throw as one step better.
+**Activar** [una acción] Golpe                                 Estas bombas se elaboran con los olores concentrados de xulgaths, hezrous y otras criaturas con pestilencia natural o sobrenatural. Proporcionan un bonificador de objeto a las tiradas de ataque e infligen daño de veneno y daño de veneno por salpicadura. Cualquier criatura alcanzada directamente o en el área de salpicadura debe intentar una tirada de salvación de Fortaleza con la CD correspondiente al tipo de bomba. Las criaturas en el área de salpicadura tratan el resultado de su tirada de salvación como un grado mejor.
 
-### Critical Success The target is unaffected.
+### Éxito crítico El objetivo no se ve afectado.
 
-### Success The target is sickened 1.
+### Éxito El objetivo queda indispuesto 1.
 
-### Failure The target is sickened 1 and slowed 1 while sickened.
+### Fallo El objetivo queda indispuesto 1 y ralentizado 1 mientras esté indispuesto.
 
-### Critical Failure The target is blinded for 1 round, sickened 2, and slowed 1 while sickened.
+### Fallo crítico El objetivo queda cegado durante 1 asalto, indispuesto 2 y ralentizado 1 mientras esté indispuesto.
 
-Creatures sickened by the bomb emit an odor that lasts 10 minutes after the sickened condition ends (or 1 hour if they were also blinded). The odor can be removed or neutralized by using *prestidigitation* or similar magic or by spending 10 minutes scrubbing with ample soap and water. While the odor lasts, creatures within 30 feet can smell the target, enabling even those with a weak sense of smell to detect its presence, and all creatures gain a +1 item bonus to Track the affected creature for as long as it has the odor. A creature that has imprecise or precise scent doubles the range at which it can detect the target using this scent.                               **Type** lesser; **Level** 1; **Price** 4 gp
+Las criaturas indispuestas por la bomba emiten un hedor que permanece 10 minutos después de que termine la condición (o 1 hora si también quedaron cegadas). El olor puede eliminarse o neutralizarse con *prestidigitación* u otra magia similar, o pasando 10 minutos frotándose con abundante agua y jabón. Mientras dure el hedor, las criaturas a 30 pies o menos pueden oler al objetivo, lo que permite detectarlo incluso con un olfato débil, y todas las criaturas obtienen un bonificador de objeto +1 para Rastrear al objetivo mientras conserve el olor. Una criatura con olfato impreciso o preciso duplica el alcance al que puede detectar al objetivo con ese sentido.                               **Tipo** menor; **Nivel** 1; **Precio** 4 mo
 
-The bomb deals 1d4 poison damage and 1 poison splash damage. The Fortitude DC is 15.                     **Type** moderate; **Level** 3; **Price** 12 gp
+La bomba inflige 1d4 de daño de veneno y 1 de daño de veneno por salpicadura. La CD de Fortaleza es 15.                     **Tipo** moderado; **Nivel** 3; **Precio** 12 mo
 
-You gain a +1 item bonus to attack rolls. The bomb deals 2d4 poison damage and 2 poison splash damage. The Fortitude DC is 17.                                       **Type** greater; **Level** 11; **Price** 240 gp
+Obtienes un bonificador de objeto +1 a las tiradas de ataque. La bomba inflige 2d4 de daño de veneno y 2 de daño de veneno por salpicadura. La CD de Fortaleza es 17.                                       **Tipo** mayor; **Nivel** 11; **Precio** 240 mo
 
-You gain a +2 item bonus to attack rolls. The bomb deals 3d4
+Obtienes un bonificador de objeto +2 a las tiradas de ataque. La bomba inflige 3d4 de daño de veneno y 3 de daño de veneno por salpicadura. La CD de Fortaleza es 28.                                             **Tipo** superior; **Nivel** 17; **Precio** 2,400 mo
 
-# BLIGHTBURN SICKNESS
+Obtienes un bonificador de objeto +3 a las tiradas de ataque. La bomba inflige 4d4 de daño de veneno y 4 de daño de veneno por salpicadura. La CD de Fortaleza es 37.
 
-Caused by exposure to blightburn crystal, blightburn sickness burns and dissolves the afflicted creature from within. The target can’t recover from the disease’s drained or sickened condition except by magic. It’s typically a 15th-level affliction (DC 32 Fortitude), but exposure to other forms of blightburn can change it.
+# ENFERMEDAD BLUZBURN
 
-### Onset 1d4 days; Stage 1 drained 1 (1 day); Stage 2
+La exposición al cristal de blightburn quema y disuelve a la criatura afectada desde dentro. El objetivo no puede recuperarse de la condición drenado ni de indispuesto salvo por medio de magia. Normalmente es una aflicción de nivel 15 (CD 32 de Fortaleza), pero la exposición a otras formas de blightburn puede modificarla.
 
-drained 1 and sickened 1 (1 day); **Stage 3** drained
+### Inicio 1d4 días; Fase 1 drenado 1 (1 día); Fase 2
 
-2 and sickened 2 (1 week); **Stage 4** drained 3 and
+drenado 1 e indispuesto 1 (1 día); **Fase 3** drenado
 
-sickened 3 (1 month); **Stage 5** increase drained
+2 e indispuesto 2 (1 semana); **Fase 4** drenado 3 e
 
-condition by 1 (1 year)
+indispuesto 3 (1 mes); **Fase 5** aumenta el valor de
 
-poison damage and 3 poison splash damage. The Fortitude DC is 28.                                             **Type** major; **Level** 17; **Price** 2,400 gp
+drenado en 1 (1 año)
 
-You gain a +3 item bonus to attack rolls. The bomb deals 4d4 poison damage and 4 poison splash damage. The Fortitude DC is 37.
-
-# TRUESHAPE BOMB ITEM 12+
+# BOMBA VERDADERA OBJETO 12+
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | BOMB | CONSUMABLE | POISON | SPLASH |  |
+| ALQUÍMICO | BOMBA | CONSUMIBLE | VENENO | SALPICADURA |  |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [one-action] Strike                             Concentrated wolfsbane and other anti-shapechanger reagents fill trueshape bombs. These bombs grant an item bonus to attack rolls and deal poison damage, persistent poison damage, and poison splash damage, according to their type. If the primary target is under the effects of a morph or polymorph effect, it must succeed at a Fortitude saving throw at the bomb’s listed DC, or else the effects end and the creature returns to its normal form. Targets taking persistent poison damage from this bomb must succeed at another Fortitude saving throw at the same DC to change shape using a morph or polymorph effect. The persistent damage can last up to 1 minute.             **Type** trueshape bomb; **Level** 12; **Price** 375 gp
+**Activar** [una acción] Golpe                             Estas bombas contienen acónito concentrado y otros reactivos anti-cambiantes. Otorgan un bonificador de objeto a las tiradas de ataque e infligen daño de veneno, daño de veneno persistente y daño de veneno por salpicadura según su tipo. Si el objetivo principal está bajo los efectos de un efecto de morfo o metamorfosis, debe superar una tirada de salvación de Fortaleza con la CD indicada o el efecto termina y la criatura vuelve a su forma normal. Los objetivos que sufran daño de veneno persistente de esta bomba deben superar otra tirada de salvación de Fortaleza a la misma CD para cambiar de forma con un efecto de morfo o metamorfosis. El daño persistente puede durar hasta 1 minuto.             **Tipo** bomba verdadera; **Nivel** 12; **Precio** 375 mo
 
-You gain a +2 item bonus to attack rolls, and the bomb deals 3d6 poison damage, 3d4 persistent poison damage, and 3 poison splash damage. The Fortitude DC is 30.             **Type** greater trueshape bomb; **Level** 18; **Price** 3,750 gp
+Obtienes un bonificador de objeto +2 a las tiradas de ataque, y la bomba inflige 3d6 de daño de veneno, 3d4 de daño de veneno persistente y 3 de daño de veneno por salpicadura. La CD de Fortaleza es 30.             **Tipo** bomba verdadera mayor; **Nivel** 18; **Precio** 3,750 mo
 
-You gain a +3 item bonus to attack rolls, and the bomb deals 4d6 poison damage, 4d4 persistent poison damage, and 4 poison splash damage. The Fortitude DC is 40.
+Obtienes un bonificador de objeto +3 a las tiradas de ataque, y la bomba inflige 4d6 de daño de veneno, 4d4 de daño de veneno persistente y 4 de daño de veneno por salpicadura. La CD de Fortaleza es 40.
 
-Introduction
 
-Armor & Armaments
 
-Alchemy Unleashed
 
-Alchemical Ammunition
 
-Alchemical Bombs
 
 Alchemical Foods Alchemical Tools
 
-Bottled Monstrosities
 
-Elixirs
 
-Permanent Alchemical Items
 
-Poisons
 
-Momentary Magic
 
-Trappings of Power
 
-Secrets of Crafting
 
-Game master’s Trove
 
-Treasure Tables
 
-Glossary & Index
 
 TRUESHAPE BOMB
 
@@ -448,2539 +409,2052 @@ SHATTERSTONE
 
 SKUNK BOMB
 
-45
 
-‌ALCHEMICAL FOODS‌‌‌
+‌ALIMENTOS ALQUÍMICOS‌‌‌
 
-## The boss may call this “Alchemy Lab #758,” but I know a kitchen when I see one. And goodness, what a kitchen! There are ingredients in here you won’t find anywhere else in the world—and ingredients you’d need to be a world traveler or a very rich dragon to get your claws on! I made these delicious rock candies using some cinnamon and a bottle marked “Untested,” and I swear that for like an hour after I started sucking on them, I was actually smarter and could remember all kinds of stuff I normally write
+## La jefa podrá llamarlo “Laboratorio de Alquimia #758”, pero yo reconozco una cocina cuando la veo. ¡Y vaya cocina! Aquí hay ingredientes que no encontrarás en ningún otro lugar del mundo, e ingredientes que solo podrías conseguir si viajaras por todo el globo o si fueras una dragona muy rica. Preparé unas rocas dulces deliciosas con canela y una botella marcada como “Sin probar”, y te juro que durante una hora después de probarlas me sentía más lista y recordaba montones de cosas que normalmente tendría que apuntar.
 
-## down. They do say that proper nutrition is an important part of the educational process!
+## ¡Dicen que la nutrición adecuada es una parte importante del proceso educativo!
 
 ## —Purepurin
 
-NEW TRAITS
+NUEVOS RASGOS
 
-The following new traits are used for items presented in this section.
+Los siguientes rasgos se emplean en los objetos presentados en esta sección.
 
-### Lozenge: You Activate an alchemical lozenge by putting it in your mouth. It stays there, slowly dissolving and releasing its ingredients over time. You can bite a lozenge for a secondary effect. The action this takes is noted in the item under the Secondary Effect heading. As soon as this secondary effect is over, the lozenge is used up and its benefits for you end. You can drink elixirs, potions, and beverages with a lozenge in your mouth, but you can’t benefit from more than one lozenge at a time. If you have two lozenges in your mouth at the same time, both become inert. You can also spit out a lozenge as a single action to end its effect and make it inert. A lozenge
+### Pastilla: Activar una pastilla alquímica consiste en llevártela a la boca. Permanece ahí, disolviéndose lentamente y liberando sus ingredientes con el tiempo. Puedes morderla para obtener un efecto secundario. La acción necesaria aparece indicada en el objeto, bajo el encabezado Efecto secundario. En cuanto dicho efecto termina, la pastilla se consume y deja de beneficiarte. Puedes beber elixires, pociones y otras bebidas mientras tienes una pastilla en la boca, pero no puedes beneficiarte de más de una a la vez. Si tienes dos pastillas al mismo tiempo, ambas se vuelven inertes. También puedes escupir una pastilla como acción única para terminar su efecto y hacerla inerte. Las pastillas
 
-dissolves due to its alchemical ingredients, so it typically still works even if you don’t have saliva.
+se disuelven gracias a sus ingredientes alquímicos, por lo que normalmente funcionan incluso si careces de saliva.
 
-### Processed: An alchemical consumable with the processed trait can be created with Quick Alchemy but is too complex to create in a single action. Using Quick Alchemy to create a processed item takes 1 minute. If the item would take more than 3 actions to Activate, the time the item remains potent after you create it is equal to its activation time. For instance, a processed item that takes 10 minutes to Activate would remain potent for 10 minutes when created with Quick Alchemy instead of remaining potent only until the start of your next turn. This trait doesn’t change other specifics of Quick Alchemy. You could, for example, use double brew to create two of the same processed item over the course of 1 minute.
+### Procesado: Un consumible alquímico con el rasgo procesado puede crearse con Alquimia rápida, pero es demasiado complejo para prepararse en una sola acción. Usar Alquimia rápida para crear un objeto procesado lleva 1 minuto. Si el objeto requiere más de 3 acciones para Activarlo, entonces el tiempo durante el cual permanece potente tras crearlo es igual a su tiempo de activación. Por ejemplo, un objeto procesado que requiera 10 minutos para Activarse permanecerá potente durante 10 minutos cuando se cree mediante Alquimia rápida, en lugar de durar solo hasta el inicio de tu siguiente turno. Este rasgo no altera otros aspectos de Alquimia rápida; por ejemplo, podrías usar preparación doble para crear dos copias del mismo objeto procesado durante ese minuto.
 
-46
 
-# ‌ARBOR WINE ITEM 9+
+# ‌VINO DEL BOSQUE OBJETO 9+
 
-ALCHEMICAL CONSUMABLE ELIXIR
+ALQUÍMICO CONSUMIBLE ELIXIR
 
-### Price 130 gp
+### Precio 130 mo
 
-syrups and compound butter, cooperative waffles bolster the
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-supportive spirit of those who share the batch. You can split            the waffles with one other creature. After you both eat half of
+**Activar** [una acción] (manipular)                         Regar vides de uvas o bayas con ciertos líquidos alquímicos durante su crecimiento produce una bebida rubí, intensa y aromática. Las vides desarrollan un vínculo con su entorno natural y lo transfieren a quien bebe el vino. Durante 1 minuto tras beber una copa de vino del bosque, obtienes sentidos térreos con un alcance de 30 pies. **Tipo** vino del bosque; **Nivel** 9; **Precio** 130 mo               **Tipo** vino del bosque añejo; **Nivel** 12; **Precio** 350 mo
 
-### Usage held in 1 hand; Bulk L
+Un vino del bosque envejecido durante varios años —o envejecido artificialmente con alquimia— adquiere una complejidad de sabor mayor y un vínculo más profundo con la naturaleza. Cuando bebes vino del bosque añejo, la vegetación en una emanación de 20 pies a tu alrededor comienza a retorcerse y se convierte en terreno difícil hasta el inicio de tu siguiente turno.
 
-**Activate** [one-action] (manipulate)                         Watering grape or berry bushes with certain alchemical liquids as they grow results in a ruby-red drink that’s rich and heady. The vines develop a connection to their natural environment and impart it onto the wine’s imbiber. For 1 minute after drinking a glass of arbor wine, you have tremorsense at a range of 30 feet. **Type** arbor wine; **Level** 9; **Price** 130 gp               **Type** aged arbor wine; **Level** 12; **Price** 350 gp
-
-Arbor wine that has been aged for several years—or artificially aged with alchemy—develops both a greater complexity of flavor and a stronger connection to nature. When you drink aged arbor wine, vegetation in a 20-foot emanation around you begins to writhe, becoming difficult terrain until the start of your next turn.
-
-# AURIC NOODLES ITEM 3
+# FIDEOS ÁURICOS OBJETO 3
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | PROCESSED |
+| ALQUÍMICO | CONSUMIBLE | PROCESADO |
 
-### Price 10 gp
+### Precio 10 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenidos con 2 manos; **Volumen** L
 
-**Activate** 10 minutes (manipulate)                     Auric noodles are boiled, then pan-fried and tossed with sliced vegetables and a sticky, savory sauce incorporating alchemical reagents. After you eat the noodles, they boost your ability to sense magic for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to checks to Identify Magic, and you can move at full speed while using the Detect Magic exploration activity.
+**Activar** 10 minutos (manipular)                     Estos fideos se hierven, se saltean y se mezclan con verduras en juliana y una salsa pegajosa y sabrosa que incorpora reactivos alquímicos. Tras comerlos, potencian tu capacidad para percibir la magia durante 24 horas o hasta que realices tus siguientes preparativos diarios, lo que ocurra antes. Obtienes un bonificador de objeto +1 a las pruebas para Identificar magia, y puedes moverte a toda Velocidad mientras usas la actividad de exploración Detectar magia.
 
-# CINNAMON SEERS ITEM 4
-
-|  |  |  |
-| --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | LOZENGE |
-
-### Price 14 gp
-
-### Usage held in 1 hand; Bulk —
-
-**Activate** [one-action] (manipulate)                           Zippy, alchemically treated cinnamon suffuses cinnamon seers, a rock candy with a lively taste that provides a mental boost. A cinnamon seer remains in your mouth for 1 hour, its stimulating flavor granting you a +1 item bonus to checks to Recall Knowledge.
-
-### Secondary Effect [reaction] (fortune) Trigger You gain no information from a Recall Knowledge check; Effect Reroll the triggering check. If this was a secret check, the GM rerolls rather than you; the candy doesn’t give you any insight into what the GM rolled, so in that case, you’re rerolling based only on guesswork. The seer becomes inert. You become temporarily immune to cinnamon seers until the next time you make your daily preparations.
-
-# COOPERATIVE WAFFLES ITEM 2+
+# CARAMELOS DE CANELA OBJETO 4
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | PROCESSED |
+| ALQUÍMICO | CONSUMIBLE | PASTILLA |
 
-### Usage held in 2 hands; Bulk L
+### Precio 14 mo
 
-**Activate** 10 minutes (manipulate)                   Flash-cooked on a waffle iron and drizzled with alchemical
+### **Uso** sostenidos en 1 mano; **Volumen** —
 
-the waffles to Activate them, when one of you uses Follow the Expert to follow the other, the circumstance bonus granted is 1 higher. The waffles’ bonus lasts 24 hours or until you next make your daily preparations, whichever comes first. You can only be linked to one creature in this way at a time; if either of you eats cooperative waffles again, the effect of your previous waffles ends.                                 **Type** cooperative waffles; **Level** 2; **Price** 5 gp               **Type** greater cooperative waffles; **Level** 5; **Price** 25 gp
+**Activar** [una acción] (manipular)                           Estos caramelos duros de sabor intenso contienen canela tratada alquímicamente que aporta un impulso mental. Un caramelo de canela permanece en tu boca durante 1 hora; su sabor estimulante te otorga un bonificador de objeto +1 a las pruebas para Recordar información.
 
-The benefit of the waffles also applies when one of you successfully Aids a skill check the other attempts.
+### Efecto secundario [reacción] (fortuna) Desencadenante No obtienes información de una prueba de Recordar información; Efecto Repite la prueba desencadenante. Si se trataba de una prueba secreta, la DJ la vuelve a tirar por ti; el caramelo no te revela cuál fue la tirada original, así que repites a ciegas. El caramelo queda inerte. Quedas temporalmente inmune a los caramelos de canela hasta tu siguiente preparación diaria.
 
-# CRACKLING BUBBLE GUM ITEM 5+
+# GOFRES COOPERATIVOS OBJETO 2+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | LOZENGE |
+| ALQUÍMICO | CONSUMIBLE | PROCESADO |
 
-### Usage held in 1 hand; Bulk —
+### **Uso** sostenidos con 2 manos; **Volumen** L
 
-**Activate** [one-action] (manipulate)                           This tangy gum cracks and pops in your mouth as you chew it. While you’re chewing crackling bubble gum, for up to 10 minutes, you have an item bonus to saving throws against auditory and sonic effects.
+**Activar** 10 minutos (manipular)                   Preparados rápidamente en una gofrera y bañados con jarabes y mantequilla compuesta alquímica, estos gofres refuerzan el espíritu de colaboración de quienes comparten la tanda. Puedes partir los gofres con otra criatura. Tras comer cada uno la mitad para Activarlos, cuando uno use Seguir al experto para seguir al otro, el bonificador circunstancial concedido aumenta en 1. El bonificador dura 24 horas o hasta tus siguientes preparativos diarios, lo que ocurra antes. Solo puedes estar vinculada a una criatura de este modo a la vez; si cualquiera de los dos vuelve a comer gofres cooperativos, finaliza el efecto de los anteriores.                                 **Tipo** gofres cooperativos; **Nivel** 2; **Precio** 5 mo               **Tipo** gofres cooperativos mayores; **Nivel** 5; **Precio** 25 mo
 
-### Secondary Effect [two-actions] (sonic) Effect You blow a bubble with the gum until it pops, after which it becomes inert. The pop deals sonic damage to all creatures in a 15-foot cone with a basic Fortitude save. A creature that fails its save is also bound with sticky gum, taking a –10-foot item penalty to its Speed for 1 minute. The creature can remove the gum with a total of 3 Interact actions. These actions don’t have to be consecutive,
+El beneficio de los gofres también se aplica cuando uno de los dos Ayuda con éxito en una prueba de habilidad que el otro intenta.
 
-   and other creatures can provide the actions as well.
+# CHICLE CREPITANTE OBJETO 5+
 
-### Type lesser; Level 5; Price 30 gp
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | PASTILLA |
 
-The item bonus is +1, the damage is 4d4, and the DC is 19.
+### **Uso** sostenido en 1 mano; **Volumen** —
 
-### Type moderate; Level 9; Price 150 gp
+**Activar** [una acción] (manipular)                           Este chicle ácido cruje y estalla en la boca al masticarlo. Mientras lo estés mascando, y hasta un máximo de 10 minutos, obtienes un bonificador de objeto a las tiradas de salvación contra efectos auditivos y sónicos.
 
-The item bonus is +2, the damage is 6d4, and the DC is 25.
+### Efecto secundario [dos acciones] (sónico) Efecto Haces un globo con el chicle hasta que explota, tras lo cual queda inerte. La explosión inflige daño sónico a todas las criaturas en un cono de 15 pies con una salvación básica de Fortaleza. Una criatura que falle la salvación queda cubierta de chicle pegajoso y sufre un penalizador de objeto –10 pies a su Velocidad durante 1 minuto. Puede retirar el chicle gastando un total de 3 acciones de Interactuar, que no tienen por qué ser consecutivas y pueden ser proporcionadas por otras criaturas.
 
-### Type greater; Level 13; Price 450 gp
+### Tipo menor; Nivel 5; Precio 30 mo
 
-The item bonus is +2, the damage is 8d4, and the DC is 30.
+El bonificador de objeto es +1, el daño es 4d4 y la CD es 19.
 
-### Type major; Level 15; Price 1,000 gp
+### Tipo moderado; Nivel 9; Precio 150 mo
 
-The item bonus is +3, the damage is 9d4, and the DC is 34.
+El bonificador de objeto es +2, el daño es 6d4 y la CD es 25.
 
-# DELVE SCALE ITEM 10
+### Tipo mayor; Nivel 13; Precio 450 mo
+
+El bonificador de objeto es +2, el daño es 8d4 y la CD es 30.
+
+### Tipo superior; Nivel 15; Precio 1,000 mo
+
+El bonificador de objeto es +3, el daño es 9d4 y la CD es 34.
+
+# ESCAMA EXCAVADORA OBJETO 10
 
 |  |  |
 | --- | --- |
-| ALCHEMICAL | CONSUMABLE |
+| ALQUÍMICO | CONSUMIBLE |
 
-### Price 155 gp
+### Precio 155 mo
 
-### Usage held in 1 hand; Bulk —
+### **Uso** sostenida en 1 mano; **Volumen** —
 
-**Activate** [one-action] (manipulate)                         If fried, cast-off scales of a benthic worm render into crunchy snacks. Alchemists add reagents to the frying oil to enhance the scales’ properties and flavor. For 1 minute after eating a delve scale, you gain a burrow Speed of 15 feet and a +2 item bonus to Athletics checks to High Jump or Long Jump.
+**Activar** [una acción] (manipular)                         Las escamas desprendidas de un gusano bentónico se fríen hasta obtener un tentempié crujiente. Las alquimistas añaden reactivos al aceite para potenciar sus propiedades y sabor. Durante 1 minuto tras comer una escama excavadora, obtienes una Velocidad de Excavar de 15 pies y un bonificador de objeto +2 a las pruebas de Atletismo para Salto vertical o Salto horizontal.
 
-# DIPLOMAT’S CHARCUTERIE ITEM 3
-
-|  |  |  |
-| --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | PROCESSED |
-
-### Price 9 gp
-
-### Usage held in 2 hands; Bulk L
-
-Activate      10        minutes        (manipulate)
-
-Introduction
-
-Armor & Armaments
-
-Alchemy Unleashed
-
-Alchemical Ammunition
-
-Alchemical Bombs
-
-Alchemical Foods
-
-Alchemical Tools
-
-Bottled Monstrosities
-
-Elixirs
-
-Permanent Alchemical Items
-
-Poisons
-
-Momentary Magic
-
-Trappings of Power
-
-Secrets of Crafting
-
-Game master’s Trove
-
-Treasure Tables
-
-Glossary & Index
-
-47
-
-‌A common sight at political gatherings, a diplomat’s charcuterie has fine meats, cheeses, nuts, fruits, and other finger foods mixed with reagents to engender friendly feelings between those consuming them. Contents of the plate vary by chef and the intended palates, from the hearty sausages and hard cheese of charcuterie from the Lands of the Linnorm Kings to the hot-pepper cheese curds and smoked almonds of Thuvian platters. After Activating the charcuterie by eating it, you gain a +1 item bonus to Diplomacy checks to Make an Impression and Perception checks to Sense Motive. These bonuses last 24 hours or until you make your next daily preparations, whichever comes first.
-
-# EGG CREAM FIZZ ITEM 5
+# TABLA DEL DIPLOMÁTICO OBJETO 3
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR |
+| ALQUÍMICO | CONSUMIBLE | PROCESADO |
 
-### Price 27 gp
+### Precio 9 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida con 2 manos; **Volumen** L
 
-**Activate** [one-action] (manipulate)                         Containing neither eggs nor cream, an egg cream fizz contains milk or nut milk, sparkling water, and flavored syrup, frothed and chilled. Upon drinking, you feel lighter and more buoyant, gaining a +5-foot item bonus to your Speed for 10 minutes. During this time, you also gain another effect determined by the drink’s syrup, which is chosen when the drink is created.
+**Activar** 10 minutos (manipular)                     Habitual en recepciones políticas, esta tabla incluye carnes finas, quesos, frutos secos, frutas y otros tentempiés mezclados con reactivos que fomentan la cordialidad entre quienes la comparten. Los ingredientes varían según la chef y el paladar esperado, desde las salchichas robustas y quesos curados de las Tierras de los Reyes Linnorm hasta las cuajadas picantes y almendras ahumadas de los platos thuvianos. Tras Activarla comiéndola, obtienes un bonificador de objeto +1 a las pruebas de Diplomacia para Causar impresión y a las pruebas de Percepción para Percibir intenciones. Estos bonificadores duran 24 horas o hasta tus siguientes preparativos diarios, lo que suceda antes.
 
-* ### Chocolate You gain a +1 item bonus to Acrobatics checks to Balance, Maneuver in Flight, and Squeeze.
-* ### Strawberry You gain a +1 item bonus to Athletics checks to Climb, Leap, and Swim.
-* ### Vanilla You can Step into difficult terrain.
+# BATIDO ESPUMOSO EGG CREAM OBJETO 5
 
-# FIREFOOT POPCORN ITEM 8
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR |
+
+### Precio 27 mo
+
+### **Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** [una acción] (manipular)                         Sin contener ni huevo ni crema, este batido se prepara con leche o bebida vegetal, agua con gas y sirope aromatizado batidos y enfriados. Al beberlo te sientes más ligera y flotante, y obtienes un bonificador de objeto +5 pies a tu Velocidad durante 10 minutos. En ese mismo lapso también ganas otro efecto determinado por el sirope elegido al crear la bebida.
+
+* ### Chocolate Obtienes un bonificador de objeto +1 a las pruebas de Acrobacias para Mantener el equilibrio, Maniobrar en vuelo y Exprimirte.
+* ### Fresa Obtienes un bonificador de objeto +1 a las pruebas de Atletismo para Trepar, Saltar y Nadar.
+* ### Vainilla Puedes usar Paso en terreno difícil.
+
+# PALOMITAS FIREFOOT OBJETO 8
 
 |  |  |
 | --- | --- |
-| ALCHEMICAL | CONSUMABLE |
+| ALQUÍMICO | CONSUMIBLE |
 
-### Price 75 gp
+### Precio 75 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                             When you consume firefoot popcorn, for 1 minute, you can Leap double the normal distance. You can also attempt to High Jump or Long Jump as a single action. If you do, you don’t perform the initial Stride (nor do you fall if you don’t Stride 10 feet).
+**Activar** [una acción] (manipular)                             Cuando consumes estas palomitas, durante 1 minuto puedes Saltar el doble de tu distancia normal. También puedes intentar un Salto vertical o un Salto largo como acción única; si lo haces, no realizas la acción inicial de Avanzar (ni caes si no avanzas 10 pies).
 
-Each time you Leap 10 feet or more, your feet make a popping sound that can be heard from at least 100 feet, and the space you left fills with waves of intense heat. For 1 minute, that square is hazardous terrain that deals 1d6 fire damage to any creature that moves into it.
+Cada vez que Saltas 10 pies o más, tus pies emiten un chasquido audible al menos a 100 pies y el espacio que dejas atrás se llena de ondas de calor intenso. Durante 1 minuto, esa casilla cuenta como terreno peligroso que inflige 1d6 de daño de fuego a cualquier criatura que se mueva dentro de ella.
 
-# FURY COCKTAIL ITEM 4+
+# CÓCTEL DE FURIA OBJETO 4+
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | MUTAGEN | POLYMORPH |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | MUTÁGENO | POLIMORFO |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                             A fury cocktail is a fortifying ginger beer spiked with rum and a mixer. It’s rumored to have originated from a barbarian-themed festival in a popular mead hall specializing in alchemical beverages.
+**Activar** [una acción] (manipular)                             Este cóctel es una cerveza de jengibre fortalecida con ron y un mezclador. Se rumorea que nació en un festival temático bárbaro en una popular taberna especializada en bebidas alquímicas.
 
-### Benefit You gain an item bonus to melee attack rolls and an additional effect depending on the additive chosen when the brew is created.
+### Beneficio Obtienes un bonificador de objeto a las tiradas de ataque cuerpo a cuerpo y un efecto adicional según el aditivo elegido al preparar la mezcla.
 
-* ### Animalistic Lemon juice and powdered claws or talons are added to the cocktail. You gain an unarmed attack in the brawling group of your choice between a jaws attack that deals 1d6 piercing damage or a claw attack that has the agile trait and deals 1d4 slashing damage.
-* ### Double This cocktail is just stronger, with more ginger and more rum. You gain resistance 1 to physical damage. The resistance increases to 2 for a moderate fury cocktail or 5 for a greater fury cocktail.
-* ### Mournful A few flower petals add a powerful aroma to the drink. You gain resistance 1 to void damage, or resistance 1 to vitality damage if you have the void healing ability. The resistance increases to 5 for a moderate fury cocktail or 10 for a greater fury cocktail.
-* ### Skeptical A splash of bitters gives the drink a more complex flavor. You gain a +1 item bonus to saves against magic. This bonus is +2 for a moderate fury cocktail or +3 for a greater fury cocktail.
-* ### Titanic Yuzu juice and powdered giant hair are added to this cocktail. If you’re Medium or smaller, you gain the following effects: you become Large, are clumsy 1, and increase your reach by 5 feet (or by 10 feet if you started out Tiny).
-* ### Wyrmhide Pomegranate juice and elemental reagents are added to the cocktail. You gain resistance 1 to acid, cold, electricity, fire, and poison damage. The resistance increases to 5 for a moderate fury cocktail or 10 for a greater fury cocktail.
+* ### Animalista Se añaden zumo de limón y garras o talones pulverizados. Obtienes un ataque sin armas del grupo de lucha a tu elección entre un ataque de fauces que inflige 1d6 de daño perforante o un ataque de garra con el rasgo ágil que inflige 1d4 de daño cortante.
+* ### Doble Este cóctel es sencillamente más fuerte, con más jengibre y más ron. Obtienes resistencia 1 al daño físico. La resistencia aumenta a 2 para un cóctel de furia moderado o a 5 para uno mayor.
+* ### Lúgubre Unas cuantas flores aportan un aroma potente a la bebida. Obtienes resistencia 1 al daño de vacío, o resistencia 1 al daño de vitalidad si tienes la aptitud curación de vacío. La resistencia aumenta a 5 para un cóctel de furia moderado o a 10 para uno mayor.
+* ### Escéptico Un toque de amargos vuelve el sabor más complejo. Obtienes un bonificador de objeto +1 a las TS contra efectos mágicos. Este bonificador es +2 para un cóctel de furia moderado o +3 para uno mayor.
+* ### Titánico Se añaden zumo de yuzu y pelo de gigante pulverizado. Si eres Mediana o más pequeña, obtienes los efectos siguientes: aumentas a tamaño Grande, quedas torpe 1 y aumentas tu alcance en 5 pies (o en 10 pies si eras Mini al empezar).
+* ### Piel de draco Se añaden zumo de granada y reactivos elementales. Obtienes resistencia 1 a daño de ácido, frío, electricidad, fuego y veneno. La resistencia aumenta a 5 para un cóctel de furia moderado o a 10 para uno mayor.
 
-  ### Drawback You take a –1 penalty to AC and a –2 penalty to Reflex saves.
+### Desventaja Sufres un penalizador –1 a la CA y –2 a las TS de Reflejos.
 
-  ### Type lesser; Level 4; Price 15 gp
+### Tipo menor; Nivel 4; Precio 15 mo
 
-  You gain a +2 item bonus to melee attack rolls, and the duration is 10 minutes.                             **Type** moderate; **Level** 12; **Price** 360 gp
+Obtienes un bonificador de objeto +2 a las tiradas de ataque cuerpo a cuerpo y la duración es de 10 minutos.
 
-  You gain a +3 item bonus to melee attack rolls, and the duration is 1 hour.                                 **Type** greater; **Level** 18; **Price** 4,000 gp
+### Tipo moderado; Nivel 12; Precio 360 mo
 
-  You gain a +4 item bonus to melee attack rolls, and the duration is 1 hour.
+Obtienes un bonificador de objeto +3 a las tiradas de ataque cuerpo a cuerpo y la duración es de 1 hora.
 
-  # GALVANIC CHEW ITEM 8
+### Tipo mayor; Nivel 18; Precio 4,000 mo
 
-  |  |  |  |
-  | --- | --- | --- |
-  | ALCHEMICAL | CONSUMABLE | LOZENGE |
+Obtienes un bonificador de objeto +4 a las tiradas de ataque cuerpo a cuerpo y la duración es de 1 hora.
 
-  ### Price 75 gp
 
-  ### Usage held in 1 hand; Bulk —
-
-  ### Activate [one-action] (manipulate)
-
-  A galvanic chew is a processed ball of dried electric eel, roasted until chewy and coated in spicy, reagent-infused powder that tingles with electricity as you chew. For up to 1 hour, you have resistance 5 to electricity.
-
-  ### Secondary Effect [reaction] (electricity) Trigger You’re hit by a melee attack or touched by a creature; Effect You channel electricity into the triggering creature, which must succeed at a DC 24 Fortitude save or be stunned 1 (or stunned 2 on a critical failure). The chew becomes inert. You’re then temporarily immune to galvanic chews for 24 hours or until the next time you make your daily preparations.
-
-  48
-
-  ‌Introduction
-
-  Armor & Armaments
-
-  Alchemy Unleashed
-
-COOPERATIVE WAFFLES
-
-CRACKLING BUBBLE GUM
-
-WITCH’S FINGER
-
-Alchemical Ammunition
-
-Alchemical Bombs
-
-Alchemical Foods
-
-# GINGER CHEW ITEM 5
+# BOCADO GALVÁNICO OBJETO 8
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | LOZENGE |
+| ALQUÍMICO | CONSUMIBLE | PASTILLA |
 
-### Price 28 gp
+### Precio 75 mo
 
-### Usage held in 1 hand; Bulk —
+### **Uso** sostenido en 1 mano; **Volumen** —
 
-**Activate** [one-action] (manipulate)                           This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being sickened.
+### **Activar** [una acción] (manipular)
 
-### Secondary Effect [one-action] Effect Reduce your sickened value by 1, if any. The chew becomes inert.
+Este bocado procesado de anguila eléctrica seca se asa hasta quedar masticable y se reboza en un polvo picante impregnado de reactivos que hormiguean de electricidad al masticarlo. Durante un máximo de 1 hora obtienes resistencia 5 a electricidad.
 
-# INSIGHT COFFEE ITEM 6+
+### Efecto secundario [reacción] (electricidad) Desencadenante Te golpea un ataque cuerpo a cuerpo o una criatura te toca; Efecto Canalizas electricidad hacia la criatura desencadenante, que debe superar una TS de Fortaleza CD 24 o queda aturdida 1 (aturdida 2 con un fallo crítico). El bocado se vuelve inerte. Después quedas temporalmente inmune a los bocados galvánicos durante 24 horas o hasta tus siguientes preparativos diarios.
+
+# BOCADO DE JENGIBRE OBJETO 5
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR |
+| ALQUÍMICO | CONSUMIBLE | PASTILLA |
 
-### Usage held in 1 hand; Bulk L
+### Precio 28 mo
 
-**Activate** [one-action] (manipulate)                           A popular choice for investigators studying alchemy, insight coffee is infused with alchemical flavoring during percolation. For 1 hour after you drink an insight coffee, you use d8s instead of d6s for your extra damage from the strategic strike class feature, if you have it (*Player Core 2* 104). You also gain an item bonus to checks to Recall Knowledge with a skill determined by the blend chosen when the item is crafted.
+### **Uso** sostenido en 1 mano; **Volumen** —
 
-+ ### Double Coffee Religion
-+ ### Hazelnut Nature
-+ ### Mocha Arcana
-+ ### Vanilla Society
-+ ### Pumpkin Spice Occultism
+**Activar** [una acción] (manipular)                           Este caramelo gomoso de jengibre ayuda a la digestión y calma los estómagos agitados. Dura 1 hora y otorga un bonificador de objeto +1 a las TS de Fortaleza contra estar indispuesto.
 
-               •          **Toffee** Medicine
+### Efecto secundario [una acción] Efecto Reduce en 1 tu valor de indispuesto, si tienes alguno. El bocado se vuelve inerte.
 
-  ### Type lesser; Level 6; Price 40 gp
-
-  The        item        bonus        is        +2.
-
-  ### Type moderate; Level 12; Price 375 gp
-
-  The        item        bonus        is        +3.
-
-  ### Type greater; Level 19; Price 7,500 gp The item bonus is +4.
-
-  # JOURNEYBREAD ITEM 1+
-
-  |  |  |  |
-  | --- | --- | --- |
-  | UNCOMMON | ALCHEMICAL | CONSUMABLE |
-
-  ### Usage held in 1 hand; Bulk —
-
-  **Activate** [one-action] (manipulate)                         Journeybread contains a mix of fruits, nuts, and grains with an alchemical boost. Eating one journeybread provides all the food and water you need for a day. If you subsist on nothing else for a week, you become temporarily immune to journeybread until
-
-  you eat real food and drink water normally for 24 hours.     **Type** journeybread; **Level** 1; **Price** 3 gp                 **Type** power journeybread; **Level** 4; **Price** 15 gp
-
-  In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to Athletics checks to Climb, Force Open, and Swim, and to Fortitude saving throws against being sickened. The number of minutes you can Hustle changes to your Constitution modifier × 20. These benefits last for 4 hours.
-
-  # MENDER’S SOUP ITEM 2
-
-  |  |  |  |
-  | --- | --- | --- |
-  | ALCHEMICAL | CONSUMABLE | PROCESSED |
-
-  ### Price 5 gp
-
-  ### Usage held in 2 hands; Bulk L
-
-  **Activate** 10 minutes (manipulate)                   This hot, broth-based soup typically contains tubers, leeks, zesty spices, reagents, and if desired, the meat of livestock. Civic authorities commission batches of mender’s soup for workers if a tricky job is on the agenda. After you eat the soup, its effects last 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to Crafting checks to Repair and restore an additional 5 Hit Points to items you successfully Repair during this time. If you eat mender’s soup over the entire period required to attempt a Crafting check to Craft (typically a minimum of eating the soup each day for 4 days), the +1 bonus from the
-
-  soup can be applied to that check, too.
-
-  # MISSIVE MINT ITEM 1
-
-  |  |  |  |  |
-  | --- | --- | --- | --- |
-  | ALCHEMICAL | AUDITORY | CONSUMABLE | LINGUISTIC |
-
-  ### Price 3 gp
-
-  ### Usage held in 1 hand; Bulk —
-
-  **Activate** [one-action] (manipulate)                                 This white mint with a chalky coating appears to be a normal candy unless someone examining it succeeds at a DC 15 Crafting check to Identify Alchemy. If the crafter has the powerful alchemy class feature, this DC is their class DC instead, if it’s higher. The mint’s crafter can imbue a missive mint with a message containing up to 25 words while creating it. Someone who consumes the missive mint hears the message in a fizzing voice as the mint’s coating bubbles away, which takes the same amount of time as it would to speak the message. The mint’s eater has no way of knowing who the original sender was, what they sound like, or who the message was intended for.
-
-  Alchemical Tools
-
-  Bottled Monstrosities
-
-  Elixirs
-
-  Permanent Alchemical Items
-
-  Poisons
-
-  Momentary Magic
-
-  Trappings of Power
-
-  Secrets of Crafting
-
-  Game master’s Trove
-
-  Treasure Tables
-
-  Glossary & Index
-
-  49
-
-  # ‌OWL SCREECH EGG ITEM 7
-
-  |  |  |  |  |  |  |
-  | --- | --- | --- | --- | --- | --- |
-  | ALCHEMICAL | AUDITORY | CONSUMABLE | EMOTION | FEAR | MENTAL |
-
-  ### Price 60 gp
-
-  ### Usage held in 1 hand; Bulk L
-
-  **Activate** [two-actions] (manipulate)                       Not only are the eggs of giant owls delicious when boiled, but when infused with a mix of alchemical reagents, they also make you emit a long and terrifying screech. All creatures in a 30-foot emanation must attempt a DC 23 Will save. Regardless of the result, creatures in the area are temporarily immune to this screech for 1 minute.
-
-  ### Critical Success The creature is unaffected.
-
-  ### Success The creature is frightened 1.
-
-  ### Failure The creature is frightened 2.
-
-  ### Critical Failure The creature is frightened 3 and fleeing for 1 round.
-
-  # PHANTOM ROLL ITEM 4
-
-  |  |  |
-  | --- | --- |
-  | ALCHEMICAL | CONSUMABLE |
-
-  ### Price 13 gp
-
-  ### Usage held in 1 hand; Bulk L
-
-  **Activate** 10 minutes (manipulate)                     A phantom roll contains vegetables, greens, and fine, clear noodles, all wrapped in transparent, edible starch paper and alchemically treated and laced with a tangy sauce. Upon eating the roll, you gain a +1 item bonus to Stealth checks you attempt during the Avoid Notice exploration activity. You can also Avoid Notice at full Speed or combine it with Investigate or Scout while moving at half Speed. These effects expire 24 hours after you eat the roll or when you make your next daily preparations, whichever comes first.
-
-  # POISON FIZZ ITEM 8+
-
-  |  |  |  |
-  | --- | --- | --- |
-  | ALCHEMICAL | CONSUMABLE | LOZENGE |
-
-  ### Usage held in 1 hand; Bulk —
-
-  **Activate** [one-action] (manipulate)                         Made from a special mixture of honey and alchemical reagents, poison fizz is a zesty, sweet rock candy that pops and crackles in your mouth. For 1 hour, you have an item bonus to saving throws against poison and being petrified.
-
-  ### Secondary Effect [two-actions] (poison) Effect You bite the poison fizz to release its poisonous liquid center and spray green mist in a 15-foot cone. This deals poison damage with a basic Reflex save. A creature that critically fails is also blinded until the end of your next turn and is then temporarily
-
-     immune to being blinded by poison fizz for 1 hour.
-
-  ### Type lesser; Level 8; Price 80 gp
-
-  The item bonus is +2, the damage is 3d6, and the DC is 24.
-
-  ### Type moderate; Level 12; Price 350 gp
-
-  The item bonus is +2, the damage is 4d6, and the DC is 29.
-
-  ### Type greater; Level 15; Price 1,000 gp
-
-  The item bonus is +3, the damage is 5d6, and the DC is 34.
-
-  # PUCKER PICKLE ITEM 5
-
-  |  |  |  |
-  | --- | --- | --- |
-  | ALCHEMICAL | CONSUMABLE | POISON |
-
-  ### Price 30 gp
-
-  ### Usage held in 1 hand; Bulk L
-
-  **Activate** [one-action] (manipulate)                         Sharp and pungent, but tasty, pucker pickles were created by goblin alchemists working to avoid being eaten by larger creatures. For 1 hour after eating a pucker pickle, you smell slightly of pickle, but you have a horrendous taste. Once a creature hits you with a Strike using an attack that allows it to taste you, such as a jaws Strike, it takes a –2 circumstance penalty to further attacks against you that allow it to taste you, including attacks like Grappling or Tripping you using its jaws or Swallowing you Whole. Creatures, especially animals, often choose other targets after tasting you. Any creature that Engulfs you or Swallows you Whole is sickened 1. If it spends an action retching to reduce the sickened condition, you can attempt to Escape as a reaction.
-
-  # SABOTEUR’S FRIEND ITEM 4
-
-  |  |  |  |  |
-  | --- | --- | --- | --- |
-  | ALCHEMICAL | CONSUMABLE | INGESTED | POISON |
-
-  ### Price 14 gp
-
-  ### Usage held in 1 hand
-
-  **Activate** [one-action] (manipulate)                         The euphemistically named saboteur’s friend looks, smells, and tastes like an appetizing chocolate square. You lace the chocolate with reagents that induce a strong laxative effect. Saboteur’s friend is useful for incapacitating rather than dealing lasting harm. Unlike some poisons, saboteur’s friend can have its sickened condition reduced (but changing to a higher or lower stage after a save applies any sickened condition listed for that stage, as normal).
-
-  ### Saving Throw DC 20 Fortitude; Onset 10 minutes; Maximum Duration 1 hour; Stage 1 sickened 1 (10 minutes); Stage 2
-
-  enfeebled 1 and sickened 2 (10 minutes); **Stage 3** enfeebled
-
-  1, fatigued, and sickened 3 (10 minutes)
-
-  # SCHOLAR’S DROP ITEM 6
-
-  |  |  |  |
-  | --- | --- | --- |
-  | ALCHEMICAL | CONSUMABLE | LOZENGE |
-
-  ### Price 40 gp
-
-  ### Usage held in 1 hand; Bulk —
-
-  **Activate** [one-action] (manipulate)                           Students in Katapesh first used scholar’s drops to gain an academic edge, but this hard, sugar-coated candy has since spread across Golarion. Its lemon and green tea flavor adds to its refreshing qualities. For 1 hour, you gain a +1 item bonus to saving throws against effects that could render you fatigued. **Secondary Effect** [two-actions] **Requirements** You’re fatigued; **Effect**
-
-  Ignore the effects of the fatigued condition for 10 minutes. The drop’s other effects end for you, and when the 10 minutes are up, you’re temporarily immune to scholar’s drops for 1 hour. If you use this effect three times in a single day, you become temporarily immune to scholar’s drops entirely until you get a full night’s rest.
-
-  # SILVER CRESCENT ITEM 6+
-
-  |  |  |  |  |
-  | --- | --- | --- | --- |
-  | ALCHEMICAL | CONSUMABLE | LIGHT | LOZENGE |
-
-  ### Usage held in 1 hand; Bulk —
-
-  Activate            [one-action]            (manipulate)
-
-  50
-
-  ‌A piquant tamarind and chili-lime flavor infuses a silver crescent, which was first created to aid those battling the undead. For 1 hour, you shed cool, white light like a torch, and
-
-  ### Type pink sprite apple; Level 4; Price 16 gp
-
-  Creatures in the bright light feel a burst of creativity, gaining                      a +1 item bonus to Performance checks.
-
-  you gain an item bonus to saving throws against olfactory effects according to the crescent’s type. While shedding this light, you can’t be concealed if you’re visible, and if you’re invisible, you’re concealed instead rather than being undetected.
-
-  ### Secondary Effect [two-actions] Effect A ray of light descends on a 5-foot square of your choice within 120 feet. Any creature in that space takes vitality damage with a basic Reflex save and is dazzled until the end of its next turn on a failed save. This is treated as silver for the purposes of weaknesses,
-
-    resistances, and the like. The silver crescent becomes inert.
-
-  ### Type lesser; Level 6; Price 35 gp
-
-  The bonus is +1, the DC is 20, and the ray deals 4d6 damage.
-
-  ### Type moderate; Level 11; Price 235 gp
-
-  The bonus is +2, the DC is 28, and the ray deals 7d6 damage.
-
-  ### Type greater; Level 16; Price 1,400 gp
-
-  The bonus is +3, the DC is 35, and the ray deals 9d6 damage.
-
-  # SOOTHING TODDY ITEM 6
-
-  |  |  |  |
-  | --- | --- | --- |
-  | ALCHEMICAL | CONSUMABLE | ELIXIR |
-
-  ### Price 45 gp
-
-  ### Usage held in 1 hand; Bulk L
-
-  **Activate** [one-action] (manipulate)                           Hot tea with a comforting, flowery aroma, a soothing toddy grants you a +1 item bonus to saving throws against emotion effects and against effects with a trait determined by the liquor mixed into the tea when it’s created. These benefits last for 1 hour.
-+ ### Amaretto Auditory
-+ ### Limoncello Olfactory
-+ ### Whiskey Visual
-
-# SPRITE APPLE ITEM 3+
+# CAFÉ DE PERSPICACIA OBJETO 6+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | LIGHT |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** 1 minute (manipulate)                     A sparkling candy coating covers a sprite apple. For 10 minutes after consuming a sprite apple, you shed bright light in a 20-foot emanation (and dim light for the next 20 feet). While shedding this light, you can’t be concealed if you’re visible, and if you’re invisible, you’re concealed instead rather than being undetected. The light matches the vibrant color of the apple’s candy coating. Creatures in the bright light are subject to another effect, depending on the type of apple.           **Type** chartreuse sprite apple; **Level** 5; **Price** 26 gp
+**Activar** [una acción] (manipular)                           Popular entre investigadores de la alquimia, este café se infusiona con sabores alquímicos durante la percolación. Durante 1 hora tras beberlo usas d8 en lugar de d6 para el daño adicional de la aptitud Golpe estratégico, si la tienes (*Player Core 2* 104). También obtienes un bonificador de objeto a las pruebas para Recordar información con la habilidad determinada por la mezcla elegida al crear el objeto.
 
-Creatures in the bright light feel more in tune with nature, gaining a +1 item bonus to Nature checks and to Diplomacy checks attempted against animals or plants (if they have the Animal Empathy feat, Plant Empathy feat, or some other ability to make such checks).                       **Type** golden sprite apple; **Level** 3; **Price** 10 gp
++ ### Doble Coffee Religión
++ ### Avellana Naturaleza
++ ### Moca Arcanos
++ ### Vainilla Sociedad
++ ### Calabaza-Especias Ocultismo
+  • **Toffee** Medicina
 
-Creatures in the bright light feel kind and inviting, taking a –1 item penalty to their Will DC against Diplomacy checks.
+### Tipo menor; Nivel 6; Precio 40 mo
 
-### Type teal sprite apple; Level 6; Price 41 gp
+El bonificador de objeto es +2.
 
-Creatures in the bright light feel a sense of calm, gaining a +1 item bonus to saving throws against fear effects.
+### Tipo moderado; Nivel 12; Precio 375 mo
 
-# TRACKER’S STEW ITEM 3
+El bonificador de objeto es +3.
+
+### Tipo mayor; Nivel 19; Precio 7,500 mo
+
+El bonificador de objeto es +4.
+
+# PAN DE VIAJE OBJETO 1+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | PROCESSED |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE |
 
-### Price 10 gp
+### **Uso** sostenido en 1 mano; **Volumen** —
 
-### Usage held in 2 hands; Bulk L
+**Activar** [una acción] (manipular)                         Este pan contiene una mezcla de frutas, frutos secos y granos con un impulso alquímico. Comer una pieza te proporciona toda la comida y agua que necesitas durante un día. Si no consumes otra cosa durante una semana, quedas temporalmente inmune al pan de viaje hasta que comas alimentos normales y bebas agua durante 24 horas.     **Tipo** pan de viaje; **Nivel** 1; **Precio** 3 mo                 **Tipo** pan de viaje potenciado; **Nivel** 4; **Precio** 15 mo
 
-**Activate** 10 minutes (manipulate)                     Alchemical reagents add punch to tracker’s stew: a rich, fiery mixture of tomatoes, ground nuts, onions, and tubers, often with poultry added. It’s usually served with or over rice or noodles. Once you’ve eaten the stew, it improves your ability to sense and follow tracks for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to Survival checks to Cover Tracks and Track. You can do either while moving at full speed or both while moving at half speed.
+Además de los beneficios del pan de viaje, el pan potenciado te concede un bonificador de objeto +1 a las pruebas de Atletismo para Trepar, Forzar y Nadar, y a las TS de Fortaleza contra estar indispuesto. El número de minutos que puedes Acelerar pasa a ser tu modificador de Constitución × 20. Estos beneficios duran 4 horas.
 
-# WARDING ELEMENT DRAUGHT ITEM 7
+# SOPA REPARADORA OBJETO 2
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR |
+| ALQUÍMICO | CONSUMIBLE | PROCESADO |
 
-### Price 60 gp
+### Precio 5 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida con 2 manos; **Volumen** L
 
-**Activate** [one-action] (manipulate)                         Using ingredients collected from pure elemental sources, a warding element draught instills enough of the essence of the element in the imbiber to partially protect them against it. Each draught includes one of the following ingredients, chosen when the elixir is distilled, and grants a +1 item bonus to AC and saving throws against alchemical effects, spells, and magic effects with the listed elemental trait for 10 minutes.
+**Activar** 10 minutos (manipular)                   Esta sopa caliente a base de caldo suele contener tubérculos, puerros, especias vivaces, reactivos y, si se desea, carne de ganado. Las autoridades encargan tandas para su personal cuando se avecina un trabajo complicado. Tras comer la sopa, sus efectos duran 24 horas o hasta tus siguientes preparativos diarios, lo que ocurra antes. Obtienes un bonificador de objeto +1 a las pruebas de Artesanía para Reparar y restauras 5 PG adicionales a los objetos que repares con éxito. Si consumes la sopa durante todo el período requerido para intentar una prueba de Artesanía para Fabricar (normalmente comerla cada día durante al menos 4 días), el bonificador +1 se aplica también a esa prueba.
 
-* ### Blood Metal
-* ### Effervescent Gas Air
-* ### Grains Earth
-* ### Hot Peppers Fire
-* ### Spring Water Water
-* ### Wormwood Wood
+# MENTA MENSAJERA OBJETO 1
 
-# WITCH’S FINGER ITEM 3
+|  |  |  |  |
+| --- | --- | --- | --- |
+| ALQUÍMICO | AUDITIVO | CONSUMIBLE | LINGÜÍSTICO |
+
+### Precio 3 mo
+
+### **Uso** sostenida en 1 mano; **Volumen** —
+
+**Activar** [una acción] (manipular)                                 Esta menta blanca de cobertura calcárea parece un dulce normal salvo que quien la examine tenga éxito en una prueba de Artesanía CD 15 para Identificar alquimia. Si la creadora posee la aptitud alquimia potente, puede usar su CD de clase si es mayor. Al crear la menta puedes imbuirle un mensaje de hasta 25 palabras. Quien se la coma oye el mensaje con una voz chisporroteante mientras la cobertura burbujea, lo que tarda lo mismo que decir el mensaje. La persona que la consume no sabe quién lo envió originalmente, cómo suena ni para quién iba dirigido.
+
+# HUEVO DEL ALARIDO BÚHO OBJETO 7
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| ALQUÍMICO | AUDITIVO | CONSUMIBLE | EMOCIÓN | MIEDO | MENTAL |
+
+### Precio 60 mo
+
+### **Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** [dos acciones] (manipular)                       Los huevos de búho gigante no solo son deliciosos hervidos; cuando se infunden con reagentes alquímicos, también te permiten emitir un largo y aterrador graznido. Todas las criaturas en una emanación de 30 pies deben intentar una TS de Voluntad CD 23. Sin importar el resultado, las criaturas del área quedan temporalmente inmunes a este graznido durante 1 minuto.
+
+### Éxito crítico La criatura no se ve afectada.
+
+### Éxito La criatura queda asustada 1.
+
+### Fallo La criatura queda asustada 2.
+
+### Fallo crítico La criatura queda asustada 3 y huye durante 1 asalto.
+
+# ROLLITO FANTASMA OBJETO 4
 
 |  |  |
 | --- | --- |
-| ALCHEMICAL | CONSUMABLE |
+| ALQUÍMICO | CONSUMIBLE |
 
-### Price 11 gp
+### Precio 13 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                         Shaped like a pointed, gnarled finger on a stick, witch’s finger is a frozen treat imbued with berries that lend it a blood-red hue. A popular tale claims Irriseni winter witches created this dessert, but the story is apocryphal; an enterprising ice cream shop owner in New Stetven invented the treat and, as a marketing ploy, the myth surrounding it. Taking a bite makes you feel warm. For 1 hour, you have cold resistance 3, and for 8 hours, the treat negates the damage you would take from severe environmental cold and reduces the damage you take from extreme cold to that of severe cold.
+**Activar** 10 minutos (manipular)                     Este rollito contiene verduras, hojas verdes y fideos finos y transparentes, todo envuelto en papel de almidón comestible y tratado alquímicamente, y bañado en una salsa ácida. Tras comerlo obtienes un bonificador de objeto +1 a las pruebas de Sigilo que realices durante la actividad de exploración Evitar ser visto. También puedes Evitar ser visto a toda Velocidad o combinarlo con Investigar o Explorar mientras te mueves a la mitad de tu Velocidad. Estos efectos caducan 24 horas después de comerlo o cuando hagas tus siguientes preparativos diarios, lo que ocurra antes.
 
-Introduction
-
-Armor & Armaments
-
-Alchemy Unleashed
-
-Alchemical Ammunition
-
-Alchemical Bombs
-
-Alchemical Foods
-
-Alchemical Tools
-
-Bottled Monstrosities
-
-Elixirs
-
-Permanent Alchemical Items
-
-Poisons
-
-Momentary Magic
-
-Trappings of Power
-
-Secrets of Crafting
-
-Game master’s Trove
-
-Treasure Tables
-
-Glossary & Index
-
-51
-
-‌ALCHEMICAL TOOLS‌‌
-
-## The alchemical tools the bipeds engineer are among their less impressive accomplishments in the alchemical sciences—though not without some merit. Creations like the “sense-dulling hood” only serve to underscore the inherent limitations of humans, dwarves, and their various peers. However, the animal repellent I purchased from
-
-## a traveling merchant is highly effective, so long as it’s used well away from my personal chambers, and I strongly suspect Purepurin has been dipping into my supply of camouflage powder to visit the alchemical food laboratory when she should be attending to other duties. The fact that I don’t know this for certain is either
-
-## a testament to the effectiveness of the powder or an indictment of my own paranoia.
-
-## —Valashinaz, Mistress of the Vault
-
-# ANIMAL REPELLENT ITEM 1+
+# BURBUJA VENENOSA OBJETO 8+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | OLFACTORY |
+| ALQUÍMICO | CONSUMIBLE | PASTILLA |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** —
 
-**Activate** 1 minute (manipulate)                   Animal repellent is a noxious alchemical substance that makes you repulsive to a certain kind of animal. You can, for example, make ape repellent, bear repellent, or snake repellent, but not a repellent that affects all animals. The repellent doesn’t work on creatures that are similar to the kind of animal, but not actually animals—for example, bear repellent wouldn’t work on werebears. Animal repellent is ineffective against animals with an Intelligence modifier of –3 or higher, such as awakened animals. When you initially learn the formula for animal repellent, you learn the formulas for all common animals. If no animals of a kind are common, such as sea serpents, you must learn the formula for that kind separately, and it has the same rarity as the least-rare creature of that kind.
+**Activar** [una acción] (manipular)                         Elaborada con miel y reactivos alquímicos, esta roca dulce chisporrotea y cruje en la boca. Durante 1 hora obtienes un bonificador de objeto a las TS contra veneno y petrificación.
 
-You Activate animal repellent by sprinkling it on yourself or a creature within reach, or by spreading it on a surface in an area up to 10 feet square. The repellent lasts for 24 hours or until scrubbed clean with 1 minute of work (consisting of multiple Interact actions). The designated kind of animal can smell the repellent from three times as far away as normal.
+### Efecto secundario [dos acciones] (veneno) Efecto Muerdes la burbuja para liberar su centro líquido venenoso y pulverizas una niebla verde en un cono de 15 pies. Inflige daño de veneno con una salvación básica de Reflejos. Una criatura que falle críticamente también queda cegada hasta el final de tu siguiente turno y luego queda temporalmente inmune a quedar cegada por este objeto durante 1 hora.
 
-The designated kind of creature typically avoids the coated creature or area, which smells foul and feels unnerving to it. If in combat or otherwise distressed, the creature can approach within 20 feet of the affected creature or area only if it succeeds at a Will save with a DC determined by the type of animal repellent. Once it succeeds at this save, the animal is temporarily immune for 1 minute. If the animal attacks in a way that causes it to taste or ingest the repellent, it must succeed at a Fortitude save at the listed DC or become sickened 1 (or sickened 2 on a critical failure). **Type** minor; **Level** 1; **Price** 3 gp
+### Tipo menor; Nivel 8; Precio 80 mo
 
-The      DC      for      saves      is      15.
+Bonificador +2, daño 3d6, CD 24.
 
-### Type lesser; Level 4; Price 15 gp
+### Tipo moderada; Nivel 12; Precio 350 mo
 
-The      DC      for      saves      is      18.
+Bonificador +2, daño 4d6, CD 29.
 
-### Type moderate; Level 8; Price 75 gp
+### Tipo mayor; Nivel 15; Precio 1,000 mo
 
-The      DC      for      saves      is      24.
+Bonificador +3, daño 5d6, CD 34.
 
-### Type greater; Level 12; Price 350 gp
+# PEPINILLO PUNZANTE OBJETO 5
 
-The      DC      for      saves      is      29.
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | VENENO |
 
-### Type major; Level 16; Price 1,600 gp The DC for saves is 35.
+### Precio 30 mo
 
-# CAMOUFLAGE DYE ITEM 3+
+### **Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** [una acción] (manipular)                         Ácido y de aroma intenso, este pepinillo fue creado por alquimistas goblin para evitar ser devoradas por criaturas mayores. Durante 1 hora tras comerlo, hueles ligeramente a encurtido pero tienes un sabor terrible. La primera vez que una criatura te golpea con un Strike que implique saborearte, como un ataque de mandíbulas, sufre un penalizador circunstancial –2 a ataques posteriores contra ti que requieran saborearte, incluidos Agarrar o Hacer tropezar con las mandíbulas, o Engullirte. Las criaturas (especialmente animales) suelen elegir otros objetivos tras saborearte. Cualquier criatura que te Engulla o te Trague entera queda indispuesta 1. Si gasta una acción en arcadas para reducir la condición, puedes intentar Escapar como reacción.
+
+# AMIGA DEL SABOTEADOR OBJETO 4
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | INGERIDO | VENENO |
+
+### Precio 14 mo
+
+### **Uso** sostenida en 1 mano
+
+**Activar** [una acción] (manipular)                         Este chocolate de nombre eufemístico parece, huele y sabe delicioso. Se le añaden reactivos que provocan un potente efecto laxante. Es útil para incapacitar en vez de causar daño duradero. A diferencia de otros venenos, la condición de indispuesto que impone puede reducirse (aunque al cambiar de fase tras una salvación se aplica la condición indicada para esa fase, como es normal).
+
+### TS CD 20 de Fortaleza; Inicio 10 minutos; Duración máxima 1 hora; Fase 1 indispuesto 1 (10 minutos); Fase 2 debilitado 1 e indispuesto 2 (10 minutos); **Fase 3** debilitado 1, fatigado e indispuesto 3 (10 minutos)
+
+# GOTAS DEL ERUDITO OBJETO 6
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | PASTILLA |
+
+### Precio 40 mo
+
+### **Uso** sostenidas en 1 mano; **Volumen** —
+
+**Activar** [una acción] (manipular)                           Las estudiantes de Katapesh recurrieron primero a estas gotas para ganar ventaja académica, pero el caramelo duro recubierto de azúcar se ha extendido por todo Golarion. Su sabor a limón y té verde potencia su efecto refrescante. Durante 1 hora obtienes un bonificador de objeto +1 a las TS contra efectos que puedan fatigarte. **Efecto secundario** [dos acciones] **Requisitos** Estás fatigada; **Efecto** Ignoras los efectos de estar fatigada durante 10 minutos. Los demás efectos terminan, y al cabo de 10 minutos quedas temporalmente inmune a las gotas durante 1 hora. Si usas este efecto tres veces en un mismo día, quedas temporalmente inmune hasta que duermas toda la noche.
+
+# MEDIALUNA ARGENTA OBJETO 6+
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | LUZ | PASTILLA |
+
+### **Uso** sostenida en 1 mano; **Volumen** —
+
+**Activar** [una acción] (manipular)                     Esta pastilla, con sabor a tamarindo y lima con chile, se creó para ayudar a quienes combaten a los no muertos. Durante 1 hora emites luz blanca y fría como una antorcha, y obtienes un bonificador de objeto a las TS contra efectos olfativos según el tipo de medialuna. Mientras emites esta luz no puedes estar ocultada si eres visible; si eres invisible, pasas a estar ocultada en vez de indetectable.
+
+### Efecto secundario [dos acciones] Efecto Un rayo de luz cae sobre una casilla de 5 pies a tu elección dentro de 120 pies. Toda criatura en ese espacio sufre daño de vitalidad (salvación básica de Reflejos) y queda deslumbrada hasta el final de su siguiente turno si falla. El rayo cuenta como plata a efectos de resistencias o debilidades. La medialuna queda inerte.
+
+### Tipo menor; Nivel 6; Precio 35 mo
+
+Bonificador +1, CD 20, rayo 4d6.
+
+### Tipo moderada; Nivel 11; Precio 235 mo
+
+Bonificador +2, CD 28, rayo 7d6.
+
+### Tipo mayor; Nivel 16; Precio 1,400 mo
+
+Bonificador +3, CD 35, rayo 9d6.
+
+# PONCHE RELAJANTE OBJETO 6
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR |
+
+### Precio 45 mo
+
+### **Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** [una acción] (manipular)                           Este té caliente de aroma floral reconfortante concede un bonificador de objeto +1 a las TS contra efectos de emoción y contra efectos con el rasgo determinado por el licor mezclado al elaborarlo. Los beneficios duran 1 hora.
+
++ ### Amaretto Auditivo
++ ### Limoncello Olfativo
++ ### Whisky Visual
+
+# MANZANA DE HADA OBJETO 3+
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | LUZ |
+
+### **Uso** sostenida en 1 mano; **Volumen** L
+
+**Activar** 1 minuto (manipular)                     Una capa de caramelo brillante recubre esta manzana. Durante 10 minutos tras comerla emites luz brillante en una emanación de 20 pies (y luz tenue en los siguientes 20). Mientras la proyectas no puedes estar ocultada si eres visible; si eres invisible, pasas a estar ocultada en lugar de indetectable. La luz adopta el color vibrante del recubrimiento y afecta a las criaturas dentro del área según el tipo de manzana.           **Tipo** manzana verde lima; **Nivel** 5; **Precio** 26 mo
+
+Las criaturas de la luz se sienten más en sintonía con la naturaleza, obteniendo un bonificador de objeto +1 a Naturaleza y a Diplomacia contra animales o plantas (si pueden realizar esas pruebas).                       **Tipo** manzana dorada; **Nivel** 3; **Precio** 10 mo
+
+Las criaturas en la luz se vuelven amables y acogedoras, sufriendo un penalizador de objeto –1 a su CD de Voluntad contra Diplomacia.
+
+### Tipo manzana turquesa; Nivel 6; Precio 41 mo
+
+Las criaturas se sienten calmadas y obtienen un bonificador de objeto +1 a TS contra miedo.
+
+# GUISO RASTREADOR OBJETO 3
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | PROCESADO |
+
+### Precio 10 mo
+
+### **Uso** sostenido con 2 manos; **Volumen** L
+
+**Activar** 10 minutos (manipular)                     Este guiso rico y picante de tomates, frutos secos molidos, cebollas y tubérculos (a menudo con ave) se sirve sobre arroz o fideos. Tras comerlo, mejora tu capacidad para detectar y seguir rastros durante 24 horas o hasta tus siguientes preparativos diarios. Obtienes un bonificador de objeto +1 a Supervivencia para Ocultar rastros y Rastrear. Puedes hacer cualquiera de ambas acciones a toda Velocidad o realizar ambas a la mitad de tu Velocidad.
+
+# BREBAJE ELEMENTAL PROTECTOR OBJETO 7
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR |
+
+### Precio 60 mo
+
+### **Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** [una acción] (manipular)                         Con ingredientes de fuentes elementales puras, este brebaje impregna al bebedor con la esencia del elemento para protegerlo parcialmente. Incluye uno de los siguientes ingredientes, elegido al destilarse, y concede un bonificador de objeto +1 a CA y TS contra efectos alquímicos, conjuros y magia con el rasgo elemental indicado durante 10 minutos.
+
+* ### Metal sanguíneo
+* ### Gas efervescente Aire
+* ### Granos Tierra
+* ### Pimientos ardientes Fuego
+* ### Agua de manantial Agua
+* ### Ajenjo Madera
+
+# DEDO DE BRUJA OBJETO 3
 
 |  |  |
 | --- | --- |
-| ALCHEMICAL | CONSUMABLE |
+| ALQUÍMICO | CONSUMIBLE |
 
-### Usage held in 1 hand; Bulk L
+### Precio 11 mo
 
-**Activate** [ o n e - a c t i o n ] (manipulate)                             Camouflage dye uses a variety of alchemically treated paints and crushed crystals to make the user particularly hard to distinguish from their surroundings. When you Activate the dye by sprinkling it on yourself or a creature within reach, the target and its clothing change colors, blending into their surroundings until the target makes a sudden movement. The target can Hide or Sneak without cover or concealment for 10 minutes. If the target uses a hostile action or moves at more than half its Speed, after that action is completed, the effects of camouflage powder end and the creature ceases to be hidden or undetected.                             **Type** lesser; **Level** 3; **Price** 10 gp                       **Type** greater; **Level** 7; **Price** 60 gp
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-The dye lasts 1 minute, and the effects don’t end if the target uses a hostile action or moves at more than half its Speed.
+**Activar** [una acción] (manipular)                         Este helado con forma de dedo nudoso en un palo contiene bayas que le dan un tono rojo sangre. La leyenda dice que lo crearon las brujas invernales de Irrisen, pero en realidad lo inventó una heladera de Nueva Stetven que difundió el mito como estrategia de marketing. Un bocado te hace sentir calor: durante 1 hora obtienes resistencia 3 al frío y durante 8 horas anula el daño que recibirías por frío ambiental severo y reduce el del frío extremo al de severo.
 
-# COLORFUL COATING ITEM 3+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+‌HERRAMIENTAS ALQUÍMICAS‌‌
+
+## Las herramientas alquímicas que elaboran los bípedos no se cuentan entre sus logros más impresionantes… aunque tienen su mérito. Inventos como la “capucha amodorra-sentidos” no hacen sino remarcar las limitaciones inherentes de humanos, enanos y sus congéneres. Sin embargo, el repelente para animales que compré a una mercader itinerante es muy eficaz, siempre que se use lejos de mis aposentos, y sospecho que Purepurin ha estado usando mi polvo de camuflaje para visitar el laboratorio de alimentos alquímicos cuando debería atender otras tareas. El hecho de que no lo sepa con certeza demuestra o bien la efectividad del polvo o bien mi propia paranoia.
+
+## —Valashinaz, Señora de la Bóveda
+
+# REPELENTE PARA ANIMALES OBJETO 1+
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | OLFATIVO |
+
+### **Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** 1 minuto (manipular)                   Este repelente nauseabundo te vuelve repulsiva para un tipo concreto de animal. Puedes fabricar, por ejemplo, repelente para simios, osos o serpientes, pero no uno que afecte a todos los animales. No funciona con criaturas parecidas pero que no sean animales (como los hombres oso). Tampoco surte efecto en animales con modificador de Inteligencia –3 o superior, como los animales despiertos. Al aprender la fórmula obtienes las variantes para todos los animales comunes; si no existen ejemplares comunes de un tipo (p. ej. serpientes marinas) debes aprender la fórmula de ese tipo por separado, con la misma rareza que la criatura menos rara de ese grupo.
+
+Activas el repelente espolvoreándolo sobre ti, otra criatura al alcance o una superficie de hasta un cuadrado de 10 pies. Dura 24 horas o hasta que se limpie con 1 minuto de trabajo (varias acciones de Interactuar). El tipo de animal designado puede olerlo desde el triple de distancia.
+
+Normalmente el animal evita a la criatura o zona tratada porque huelen y se sienten desagradables. En combate o bajo estrés, solo puede acercarse a 20 pies si supera una TS de Voluntad con la CD correspondiente al tipo de repelente. Si la supera queda inmune durante 1 minuto. Si ataca de forma que saboree o ingiera el repelente, debe superar una TS de Fortaleza con la CD indicada o queda indispuesto 1 (indispuesto 2 con fallo crítico). **Tipo** inferior; **Nivel** 1; **Precio** 3 mo. La CD es 15.
+
+### Tipo menor; Nivel 4; Precio 15 mo
+
+CD 18.
+
+### Tipo moderado; Nivel 8; Precio 75 mo
+
+CD 24.
+
+### Tipo mayor; Nivel 12; Precio 350 mo
+
+CD 29.
+
+### Tipo superior; Nivel 16; Precio 1,600 mo
+
+CD 35.
+
+# TINTE DE CAMUFLAJE OBJETO 3+
 
 |  |  |
 | --- | --- |
-| ALCHEMICAL | CONSUMABLE |
+| ALQUÍMICO | CONSUMIBLE |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [ t h r e e - a c t i o n s ] (manipulate)                             These coatings come in different colors, each with a different special effect. A bottle of colorful coating contains enough to slather over one 5-foot square within your reach or space and is made with a special dispenser that enables you to coat the surface using only one hand. It’s possible to use the coating on any surface that can be painted (subject to the GM’s discretion). Colorful coating dries instantly, and its effect in the square you coated lasts for 1 minute. After
+**Activar** [una acción] (manipular)                             Este tinte usa pinturas tratadas y cristales triturados para mimetizar al objetivo con su entorno. Al espolvorearlo sobre ti o una criatura al alcance, el objetivo y su ropa cambian de color, integrándose hasta que realice un movimiento brusco. Puede Esconderse o Avanzar sin cobertura ni ocultación durante 10 minutos. Si realiza una acción hostil o se mueve a más de la mitad de su Velocidad, tras completar esa acción los efectos terminan y deja de estar oculto o indetectado.                             **Tipo** menor; **Nivel** 3; **Precio** 10 mo                       **Tipo** mayor; **Nivel** 7; **Precio** 60 mo
 
-52
+La versión mayor dura 1 minuto y los efectos no finalizan por acciones hostiles ni por moverse a más de la mitad de la Velocidad.
 
-‌that time, the coating turns to fine, inert powder, returning the square to its original condition unless otherwise noted. **Type** blue colorful coating; **Level** 3; **Price** 8 gp‌
+# RECUBRIMIENTO COLORIDO OBJETO 3+
 
-Blue colorful coating contains bonding compounds that firm up a surface, making it more stable and more supportive of weight. When applied to material that’s loose or unstable, the square can hold twice as much weight before giving way. The coating also slows any collapse, making it easier to avoid and granting a +1 circumstance bonus to Reflex saving throws in reaction to the coated surface’s collapse.
+|  |  |
+| --- | --- |
+| ALQUÍMICO | CONSUMIBLE |
 
-This coating can shore up a wall, ceiling, door, or similar opening, granting a +2 circumstance bonus to the DC for Athletics checks to Force Open the coated surface.       **Type** green colorful coating; **Level** 3; **Price** 10 gp
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-Green colorful coating dries into a low-friction surface. It makes the square slippery, making it both difficult terrain and uneven ground with a DC to Balance of 20. A creature that Steps or Crawls doesn’t have to attempt to Balance.
+**Activar** [tres acciones] (manipular)                             Estos recubrimientos vienen en varios colores, cada uno con un efecto especial. Un frasco cubre un cuadrado de 5 pies a tu alcance y su dispensador permite aplicarlo con una sola mano. Puede usarse sobre cualquier superficie pintable (a discreción de la DJ). Se seca al instante y su efecto dura 1 minuto; luego se convierte en polvo inerte, devolviendo la superficie a su estado original salvo que se indique lo contrario. **Tipo** recubrimiento azul; **Nivel** 3; **Precio** 8 mo‌
 
-The coating also makes a coated wall or ceiling harder to climb. It imposes a –2 circumstance penalty to checks to Climb the coated surface.
+El recubrimiento azul contiene compuestos aglutinantes que refuerzan la superficie, haciéndola más estable y capaz de soportar el doble de peso antes de ceder. También ralentiza cualquier derrumbe, otorgando un bonificador circunstancial +1 a las TS de Reflejos contra colapsos de la zona tratada.
 
-Yellow colorful coating and green colorful coating have opposite effects. If they’re both applied to the same surface, they negate one another.                         **Type** indigo colorful coating; **Level** 3; **Price** 10 gp
+Puede apuntalar paredes, techos o puertas, concediendo un bonificador circunstancial +2 al CD de Atletismo para Forzar la apertura.       **Tipo** recubrimiento verde; **Nivel** 3; **Precio** 10 mo
 
-Indigo colorful coating contains agents that destroy weaker objects. When applied to a surface or object, the coating treats the object’s Hardness as 2 lower and deals 1d4 acid damage to the object each round. The damage this coating deals remains after the coating becomes inert.         **Type** orange colorful coating; **Level** 3; **Price** 12 gp
+El recubrimiento verde genera una superficie de baja fricción, convirtiendo el cuadrado en terreno difícil y terreno irregular con CD 20 para Mantener el equilibrio. Las criaturas que den un Paso o Repten no necesitan tirar.
 
-Orange colorful coating contains a mixture of acidic substances. As it dries, caustic ingredients rise to the coating’s surface. The square becomes hazardous terrain, dealing 1d4 acid damage to any creature that moves through it. A creature can take this acid damage only once per round.                                     **Type** red colorful coating; **Level** 3; **Price** 10 gp
+También dificulta trepar por la superficie tratada, imponiendo un penalizador circunstancial –2 a las pruebas de Trepar.
 
-Red colorful coating contains rubbery compounds, turning any surface it covers into a trampoline. A creature or object that falls onto a square coated with red colorful coating takes no falling damage and bounces half again as high as the original fall. If the creature fell straight down, then with several bounces, it comes safely to a stop. If it was moving horizontally, its bounce continues in the same direction, with a distance determined by the GM. If the coating is on a wall, a creature pushed or Shoved into the wall bounces back half again as far and avoids taking any damage from being pushed into the wall. On a ceiling, red colorful coating is useful only in unusual circumstances, such as in an area where gravity is reversed.                         **Type** violet colorful coating; **Level** 4; **Price** 15 gp
+**Tipo** recubrimiento amarillo; **Nivel** 3; **Precio** 8 mo
 
-Violet colorful coating contains compounds that become goopy and sticky. A square of this coating is difficult terrain. Any creature that enters the square must succeed at a DC 20 Reflex save or take a –15-foot penalty to its
+Este recubrimiento rellena las pequeñas grietas y endurece la superficie para aumentar la fricción. Reduce el terreno difícil causado por superficies resbaladizas: elimina el terreno difícil, reduce el gran terreno difícil a terreno difícil y el terreno irregular a gran terreno difícil. No afecta el terreno generado por factores ajenos a la superficie (multitudes, maleza, viento, magia, etc.). Además, facilita Trepar por paredes o techos tratados, otorgando un bonificador circunstancial +2 a las pruebas.
 
-# JUST BETWEEN YOU AND ME
+Sus efectos son opuestos a los del recubrimiento verde; si ambos se aplican a la misma superficie, se anulan.                         **Tipo** recubrimiento índigo; **Nivel** 3; **Precio** 10 mo
 
-So, the boss has some pretty cool stuff in Alchemy Lab #759. There’s the colorful coatings, which are basically paints that can do all kinds of cool stuff! I once covered a boomerang in the red coating and watched it bounce back and forth off the walls for like 30 minutes! The sparklers are great fun too—the boss let me take a whole bushel of them back to my family so we could light them to celebrate the new year. Hopefully li’l bro gets the sight back in his left eye sometime soon!
+Contiene agentes que dañan objetos frágiles. Reduce la Dureza del objeto en 2 y le inflige 1d4 de daño de ácido por asalto, daño que permanece tras volverse inerte.         **Tipo** recubrimiento naranja; **Nivel** 3; **Precio** 12 mo
 
-That, over there? That’s my favorite. You sprinkle some of that dust over yourself, and you turn the same color as the stuff around you! Practically invisible as long as you don’t move too fast. I use it sometimes when I want to visit 758 for a snack. Don’t tell the boss.
+Incluye sustancias ácidas que afloran a la superficie al secarse. El cuadrado pasa a ser terreno peligroso que inflige 1d4 de daño de ácido a quien lo atraviese (máx. 1 vez por asalto).                                     **Tipo** recubrimiento rojo; **Nivel** 3; **Precio** 10 mo
+
+Sus compuestos gomosos convierten la superficie en un trampolín. Una criatura u objeto que caiga en él no recibe daño por caída y rebota a 1,5 veces la altura original; si cae en vertical, varios rebotes la detienen con seguridad. Si se desplazaba horizontalmente, continúa en la misma dirección una distancia a discreción de la DJ. En una pared, una criatura empujada rebota y evita el daño; en techos solo sirve en circunstancias excepcionales (p.ej. gravedad invertida).                         **Tipo** recubrimiento violeta; **Nivel** 4; **Precio** 15 mo
+
+Sus compuestos se vuelven pegajosos. El cuadrado se vuelve terreno difícil; toda criatura que entre debe superar una TS de Reflejos CD 20 o sufre un penalizador –15 pies a sus Velocidades hasta el final de su siguiente turno. Con fallo crítico queda inmovilizada hasta el final de su siguiente turno. Puede acabar con los efectos Escapando (CD 20) o gastando 2 acciones de Interactuar para retirar la sustancia (acciones no necesitan ser consecutivas y otras criaturas pueden ayudar).
+
+# ENTRE NOSOTRAS
+
+La jefa guarda cosas chulísimas en el Laboratorio #759. Están los recubrimientos coloridos, ¡que básicamente son pinturas que hacen de todo! Una vez cubrí un búmeran con el rojo y lo vi rebotar entre las paredes durante como treinta minutos. Los bengalitos también son divertidísimos; la jefa me dejó llevarme un manojo a casa para encenderlos en Año Nuevo. Ojalá mi hermano pequeño recupere pronto la vista del ojo izquierdo…
+
+¿Ves ese polvo de ahí? Es mi favorito. Te lo espolvoreas y te vuelves del mismo color que el entorno. Prácticamente invisible mientras no te muevas demasiado rápido. Lo uso a veces para ir al laboratorio 758 por un tentempié. No se lo digas a la jefa.
 
 —Purepurin
 
-Speeds until the end of its next turn. On a critical failure, the creature is immobilized in the square until the end of its next turn. The target can end these effects by Escaping (DC 20) or spending 2 Interact actions to remove the sticky substances. These Interact actions don’t have to be consecutive, and other creatures can help by providing the actions.                                     **Type** yellow colorful coating; **Level** 3; **Price** 8 gp
+# PASTA EMÉTICA OBJETO 2+
 
-Yellow colorful coating contains a variety of compounds that fill small gaps and harden into a flat surface that increases friction, making it much easier to move on the square’s surface. On the affected surface, the coating reduces difficult terrain caused by slipperiness, such as from ice or grease; this eliminates difficult terrain, reduces greater difficult terrain to difficult terrain, and reduces uneven ground to greater difficult terrain. The coating can’t affect difficult terrain caused by features or effects not part of the surface, such as crowds, underbrush, wind, magic, and so on. The GM determines if yellow colorful coating can affect a surface’s terrain.
+ALQUÍMICO CONSUMIBLE CURATIVO
 
-The coating also makes a coated wall or ceiling easier to climb. It provides a +2 circumstance bonus to checks to Climb the coated surface.
+### Precio 5 mo
 
-# EMETIC PASTE ITEM 2+
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-ALCHEMICAL CONSUMABLE HEALING
+**Activar** [una acción] (manipular)                             Las criaturas indispuestas tienen dificultades para tragar, así que puedes aplicar esta pasta sobre tu piel o la de una criatura indispuesta al alcance, normalmente en la garganta. Facilita el vómito y le concede de inmediato una TS de Fortaleza para reducir su condición de indispuesto. Además, otorga un bonificador de objeto a esa salvación y a todas las TS para reducir el estado de indispuesto durante 1 hora.                     **Tipo** menor; **Nivel** 2; **Precio** 5 mo
 
-### Price 5 gp
+El bonificador es +2.
 
-### Usage held in 1 hand; Bulk L
+### Tipo moderada; Nivel 9; Precio 120 mo
 
-**Activate** [ o n e - a c t i o n ] (manipulate)                             Sickened creatures have difficulty swallowing, so you can Activate emetic paste by applying it to your skin or that of a sickened creature within reach, typically on the throat. The paste makes it easy for the sickened creature
+Bonificador +3.
 
-Introduction
+### Tipo mayor; Nivel 14; Precio 700 mo
 
-Armor & Armaments
+Bonificador +4.
 
-Alchemy Unleashed
 
-Alchemical Ammunition
 
-Alchemical Bombs
 
-Alchemical Foods
 
-Alchemical Tools
 
-Bottled Monstrosities
 
-Elixirs
 
-Permanent Alchemical Items
 
-Poisons
 
-Momentary Magic
 
-Trappings of Power
 
-Secrets of Crafting
 
-Game master’s Trove
 
-Treasure Tables
 
-Glossary & Index
 
-53
 
-‌to purge, granting it an immediate Fortitude save to reduce its sickened condition. The paste grants the target an item bonus to that save and to all saving throws to reduce the sickened condition for 1 hour.                     **Type** lesser; **Level** 2; **Price** 5 gp
 
-The          bonus          is          +2.
 
-### Type moderate; Level 9; Price 120 gp
+# ACEITE ANCLA-MECANISMOS OBJETO 6+
 
-The          bonus          is          +3.
+ALQUÍMICO CONSUMIBLE INCAPACITACIÓN
 
-### Type greater; Level 14; Price 700 gp The bonus is +4.
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-# GEARBINDER OIL ITEM 6+
+**Activar** [una acción] (manipular)                               Este aceite se presenta en una bomba sellada que lo rocía a corta distancia. Fluye por mecanismos complejos y, al agitarse con el movimiento, forma una pasta que los bloquea. Resulta eficaz contra constructos articulados y maquinaria (incluidos muchos constructos, autómatas y peligros mecánicos). Aplica el aceite al objetivo a enlentecer (debe estar a 10 pies). Al final de cada asalto en el que el objetivo haya usado una acción con los rasgos ataque, manipular o mover, debe intentar una TS de Fortaleza con la CD indicada por el tipo de aceite. Un mecanismo que esté ralentizado 2 o más por este aceite tampoco puede usar reacciones. Dura hasta 6 asaltos antes de volverse un residuo aceitoso inerte.
 
-ALCHEMICAL CONSUMABLE INCAPACITATION
+### Éxito crítico El aceite queda inerte y el efecto termina.
 
-### Usage held in 1 hand; Bulk L
+### Éxito El objetivo reduce su condición de ralentizado en 1; si queda en 0, el efecto termina.
 
-**Activate** [ o n e - a c t i o n ] (manipulate)                               Gearbinder oil comes in a sealed pump that can squirt the oil a short distance. The oil is designed to flow through complex mechanisms and, agitated through mechanical action, foam up and form a paste that binds the works. The oil is effective against articulated constructs and machinery, including many constructs, clockworks, and mechanical hazards. You apply the oil to the target you want to bind, which must be within 10 feet of you. After the oil is applied, at the end of any round during which the target took an action with the attack, manipulate, or move trait, it must attempt a Fortitude save against a DC determined by the oil’s type. A mechanism that’s slowed 2 or more by gearbinder oil also can’t use reactions. Gearbinder oil functions for up to 6 rounds before becoming an inert, oily residue.
+### Fallo El objetivo aumenta su condición de ralentizado en 1 (máximo ralentizado 3).
 
-### Critical Success The oil becomes inert, and the effect ends.
+### Fallo crítico Aumenta en 2 (máximo ralentizado 3).
 
-### Success The target reduces its slowed condition by 1. If the slowed condition’s value is 0, the effect ends.
+### Tipo menor; Nivel 6; Precio 45 mo
 
-### Failure The target increases its slowed condition by 1, to a maximum of slowed 3.
+CD 20.
 
-### Critical Failure The target increases its slowed condition by
+### Tipo moderado; Nivel 12; Precio 390 mo
 
-       2,  to  a  maximum  of  slowed  3.
+CD 29.
 
-### Type lesser; Level 6; Price 45 gp
+### Tipo mayor; Nivel 18; Precio 4,500 mo
 
-The      DC      for      saves      is      20.
+CD 38.
 
-### Type moderate; Level 12; Price 390 gp
+# VAPOR CURATIVO OBJETO 4+
 
-The      DC      for      saves      is      29.
+ALQUÍMICO CONSUMIBLE CURATIVO
 
-### Type greater; Level 18; Price 4,500 gp The DC for saves is 38.
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-# HEALING VAPOR ITEM 4+
+**Activar** [tres acciones] (manipular)                             Esta sustancia acelera la recuperación natural dispersando una niebla impregnada de reactivos curativos. Al liberarse desde su contenedor sellado llena una explosión de 5 pies, dura 10 minutos y puede afectar simultáneamente a hasta cuatro criaturas vivas; el resto no obtiene beneficios, aunque si una se va antes de tiempo otra puede aprovecharlos. Cada criatura beneficiada recupera PG según el tipo de vapor y obtiene un bonificador de objeto a las TS contra enfermedades y venenos. Si se solapan áreas de varios vapores, solo se aplica el más potente. Un viento fuerte dispersa la niebla y la deja ineficaz mientras dure.                                 **Tipo** menor; **Nivel** 4; **Precio** 20 mo
 
-ALCHEMICAL CONSUMABLE HEALING
+Cada criatura recupera 1 PG cada 2 minutos y obtiene un bonificador +1.
 
-### Usage held in 2 hands; Bulk L
+### Tipo moderado; Nivel 8; Precio 100 mo
 
-**Activate** [ t h r e e - a c t i o n s ] (manipulate)                             Healing vapor is a substance that accelerates natural recovery processes by dispersing a mist infused with a variety of reagents typically used for healing and recovery. When deployed from a sealed container, the vapors fill a 5-foot burst, last for 10 minutes, and can affect up to four living creatures at one time. Any creatures beyond the first four gain no benefit, though if a creature leaves before the duration is over, a new creature that enters
+Cada criatura recupera 1 PG por minuto y obtiene bonificador +1.
 
-can benefit from the mist. A creature benefiting from the vapors regains a number of Hit Points based on the vapor’s type. While affected, a creature also gains an item bonus to saving throws against diseases and poisons. If the areas of more than one healing vapor overlap, only the strongest applies to creatures inside overlapping areas. Strong wind disperses the mist, rendering it ineffective while the wind blows.                                 **Type** lesser; **Level** 4; **Price** 20 gp
+### Tipo mayor; Nivel 12; Precio 400 mo
 
-Each creature regains 1 Hit Point every 2 minutes and gets a +1 bonus.
+Cada criatura recupera 2 PG por minuto y obtiene bonificador +2.                                       **Tipo** superior; **Nivel** 17; **Precio** 3,000 mo
 
-### Type moderate; Level 8; Price 100 gp
+Cada criatura recupera 3 PG por minuto y obtiene bonificador +3.
 
-Each creature regains 1 Hit Point every minute and gets a
+# POLVO DE IMPLOSIÓN OBJETO 6+
 
-+1                                bonus.
+ALQUÍMICO CONSUMIBLE
 
-### Type greater; Level 12; Price 400 gp
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-Each creature regains 2 Hit Points every minute and gets a +2 bonus.                                       **Type** major; **Level** 17; **Price** 3,000 gp
+**Activar** [una acción] (manipular)                               Sellado en un paquete para liberarse como una bocanada presurizada, este polvo hace que las criaturas amorfas se compriman y encojan endureciendo e incluso evaporando los componentes líquidos de su forma física. Resulta eficaz contra elementales de agua o de aire, limos y otras criaturas igualmente amorfas, incluidas algunas aberraciones gelatinosas. Libera el polvo hacia una criatura a 5 pies o menos; debe intentar una TS de Fortaleza y repetirla al final de cada uno de sus turnos. El polvo funciona hasta 6 asaltos; después se vuelve inerte y la criatura recupera su tamaño normal.
 
-Each creature regains 3 Hit Points every minute and gets a +3 bonus.
+### Éxito crítico El polvo se vuelve inerte y la criatura recupera su tamaño normal.
 
-# IMPLOSION DUST ITEM 6+
+### Éxito El objetivo aumenta su tamaño un paso hasta su tamaño normal. Si después de aumentar vuelve a su tamaño normal, el efecto termina.
 
-ALCHEMICAL CONSUMABLE
+### Fallo El objetivo reduce su tamaño un paso, hasta un mínimo de Mini. El alcance de cada uno de sus Strikes se reduce en 5 pies (mínimo 5 si es Pequeña o mayor, o 0 si es Mini). Encogerla también impone un penalizador de estado –2 al daño de ataques físicos cuerpo a cuerpo por cada paso por debajo de su tamaño original.
 
-### Usage held in 1 hand; Bulk L
+### Fallo crítico Como el fallo, pero el objetivo reduce dos pasos.
 
-**Activate** [ o n e - a c t i o n ] (manipulate)                               Sealed in a packet so it can be released in a pressurized puff, implosion dust causes amorphous creatures to compress and shrink by hardening and even evaporating the liquid components of their physical forms. It’s effective at weakening water elementals, air elementals, oozes, and other creatures the GM determines are similarly amorphous, which can even include particularly gelatinous aberrations. You release the dust toward one creature within 5 feet of you, which must attempt a Fortitude saving throw. The target must repeat the saving throw at the end of each of its turns. Implosion dust functions for up to 6 rounds. It then becomes inert, and the creature returns to its normal size.
+### Tipo menor; Nivel 6; Precio 40 mo
 
-### Critical Success The dust becomes inert, and the creature returns to its normal size.
+CD 20.
 
-### Success The target increases in size one step, up to its normal size. If it’s at its normal size after the increase, the effect ends.
+### Tipo moderado; Nivel 12; Precio 370 mo
 
-### Failure The target decreases in size one step, to a minimum of Tiny. The reach of each of its Strikes decreases by 5 feet, to a minimum of 5 feet if the creature is Small or larger, or a minimum of 0 feet if the creature is Tiny. Shrinking also imposes a status penalty to the creature’s physical melee damage. This penalty is –2 for every step lower than its normal size the creature is.
+CD 29.
 
-### Critical Failure As failure, but the target decreases in size
+### Tipo mayor; Nivel 18; Precio 4,100 mo
 
-                   by      two      steps.
+CD 38.
 
-### Type lesser; Level 6; Price 40 gp
-
-The        save        DC        is        20.
-
-### Type moderate; Level 12; Price 370 gp
-
-The        save        DC        is        29.
-
-54
-
-‌COLORFUL COATING
-
-CAMOUFLAGE DYE
-
-HEALING VAPOR SPARKLER
-
-ANIMAL REPELLENT
-
-Introduction
-
-Armor & Armaments
-
-Alchemy Unleashed
-
-Alchemical Ammunition
-
-Alchemical Bombs
-
-Alchemical Foods
-
-Alchemical Tools
-
-Bottled Monstrosities
-
-Elixirs Permanent
-
-### Type greater; Level 18; Price 4,100 gp
-
-The save DC is 38.
-
-# REVEALING MIST ITEM 3+
+# NIEBLA REVELADORA OBJETO 3+
 
 |  |  |
 | --- | --- |
-| ALCHEMICAL | CONSUMABLE |
+| ALQUÍMICO | CONSUMIBLE |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [ o n e - a c t i o n ] (manipulate)                         Kept in an airtight spray bottle, revealing mist is an alchemical concoction that creates a sticky and clinging mist of chemicals in a 15-foot cone when sprayed. It doesn’t affect visibility but causes invisible creatures in the area to be concealed rather than undetected. Revealing mist is ineffective in water or in areas with other factors affecting the spread of the mist, as determined by the GM. It remains in the area for 1 minute or until any significant wind disperses it, whichever comes first.                         **Type** lesser; **Level** 3; **Price** 9 gp                     **Type** greater; **Level** 7; **Price** 60 gp
+**Activar** [una acción] (manipular)                         Esta bruma se guarda en un pulverizador hermético y, al rociarla, crea una niebla pegajosa en un cono de 15 pies. No reduce la visibilidad, pero hace que las criaturas invisibles del área pasen a estar ocultadas en lugar de indetectables. No funciona bajo el agua ni en zonas donde otros factores impidan la dispersión de la niebla, a discreción de la DJ. Permanece 1 minuto o hasta que un viento significativo la disipe.                         **Tipo** menor; **Nivel** 3; **Precio** 9 mo                     **Tipo** mayor; **Nivel** 7; **Precio** 60 mo
 
-The mist spreads in a 30-foot cone instead of a 15-foot cone.
+La versión mayor se expande en un cono de 30 pies en lugar de 15.
 
-# SENSE-DULLING HOOD ITEM 6+
+# CAPUCHA AMODORRA-SENTIDOS OBJETO 6+
 
 |  |  |
 | --- | --- |
-| ALCHEMICAL | CONSUMABLE |
+| ALQUÍMICO | CONSUMIBLE |
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenida con 2 manos; **Volumen** L
 
-**Activate** [ o n e - a c t i o n ] (manipulate)                               Sometimes, an enemy’s dangerous special ability makes relatively standard sensory capabilities a liability. From an ofalth emitting its stench to a banshee wailing, plenty of creatures use their prey’s senses against them. A sense-dulling hood is a wide, single-use mask designed to be pulled from an airtight package and slipped over the head. The mask grants you an item bonus to saving throws against auditory, olfactory, and visual effects for a time, according to the mask’s type. Since it dulls your senses without depriving you of them, the mask also imposes a –1 penalty to rolls and checks using Perception for the same duration.                                       **Type** lesser; **Level** 6; **Price** 40 gp
+**Activar** [una acción] (manipular)                               Algunas habilidades peligrosas hacen que los sentidos habituales se conviertan en una desventaja. Desde el hedor de un ofalth hasta el aullido de una banshee, muchas criaturas explotan los sentidos de su presa. Esta capucha desechable se extrae de un paquete hermético y se ajusta sobre la cabeza, otorgando un bonificador de objeto a las TS contra efectos auditivos, olfativos y visuales durante un tiempo según el tipo. Como amortigua los sentidos sin anularlos, también impone un penalizador –1 a las tiradas y pruebas de Percepción durante la misma duración.                                       **Tipo** menor; **Nivel** 6; **Precio** 40 mo
 
-The bonus is +2, and the duration is 10 minutes.
+Bonificador +2, duración 10 minutos.
 
-### Type greater; Level 12; Price 350 gp
+### Tipo mayor; Nivel 12; Precio 350 mo
 
-The bonus is +4, and the duration is 1 hour.
+Bonificador +4, duración 1 hora.
 
-# SOOTHING POWDER ITEM 5+
+# POLVO CALMANTE OBJETO 5+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | HEALING |
+| ALQUÍMICO | CONSUMIBLE | CURATIVO |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [ o n e - a c t i o n ] (manipulate)                               Soothing powders are remedies made to stop a particular type of persistent damage. Each damage type requires a different formula, with the most popular being bleed soothing powder, poison soothing powder, fire soothing powder, and acid soothing powder. You Activate soothing powder by sprinkling it on yourself or another creature within reach. The target can immediately attempt a new flat check to remove persistent damage the powder works against. This powder lowers the DC to 10, as normal for a particularly appropriate type of help.                     **Type** lesser; **Level** 5; **Price** 30 gp                         **Type** greater; **Level** 11; **Price** 210 gp
+**Activar** [una acción] (manipular)                               Estos polvos están pensados para detener un tipo concreto de daño persistente. Cada tipo requiere su fórmula, siendo las más comunes contra desangrado, veneno, fuego o ácido. Espolvoreas el polvo sobre ti o una criatura al alcance; el objetivo puede intentar de inmediato una nueva tirada plana para eliminar el daño persistente correspondiente, con la CD reducida a 10 por tratarse de ayuda especialmente apropiada.                     **Tipo** menor; **Nivel** 5; **Precio** 30 mo                         **Tipo** mayor; **Nivel** 11; **Precio** 210 mo
 
-In addition to the effects described above, the powder persists for 1 minute, lowering the DCs of flat checks against that type of persistent damage due to particularly effective assistance.
+Además de lo anterior, el polvo permanece activo 1 minuto, reduciendo durante ese tiempo la CD de las tiradas planas contra ese daño persistente gracias a la asistencia efectiva.
 
-# SPARKLER ITEM 1
+# BENGALA OBJETO 1
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | FIRE |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | FUEGO |
 
-**Access** Sparklers are common in Tian Xia and Vudra and can be Crafted by those who can specifically Craft fireworks (such as a fireworks technician; *Guns & Gears* 134).
+**Acceso** Las bengalas son comunes en Tian Xia y Vudra y pueden Fabricarse por quienes sepan crear fuegos artificiales (como una técnica pirotécnica; *Guns & Gears* 134).
 
-### Price 4 sp
+### Precio 4 pl
 
-### Usage held in 1 hand; Bulk —
+### **Uso** sostenida en 1 mano; **Volumen** —
 
-**Activate** [ o n e - a c t i o n ] (manipulate)                               A sparkler gives off colorful sparks, burning for 1 minute. It provides bright light in a 10-foot radius (and dim light for the next 10 feet). While the sparkler burns, you can use it as an improvised weapon, dealing 1 fire damage on a hit. On a critical hit, you cause the target to become dazzled for 1 round.
+**Activar** [una acción] (manipular)                               Esta bengala lanza chispas de colores durante 1 minuto. Proporciona luz brillante en 10 pies (y tenue en los 10 pies siguientes). Mientras arde puedes usarla como arma improvisada que inflige 1 de daño de fuego; con golpe crítico el objetivo queda deslumbrado 1 asalto.
 
-You can touch a sparkler to a flammable object as part of the action you spend Activating it or as a separate Interact action while the sparkler is already activated. If you do so, the sparkler can ignite flammable objects the way a matchstick does.
+Puedes acercarla a un objeto inflamable como parte de la acción de activarla o mediante una acción de Interactuar mientras ya esté encendida, prendiéndolo igual que una cerilla.
 
-Alchemical Items
+‌MONSTRUOSIDADES EMBOTELLADAS‌‌‌
 
-Poisons
+## Como toda ciencia, la alquimia tiene sus rincones oscuros. El proceso de crear monstruosidades embotelladas recuerda al de chamanes y sacerdotes que elaboran cabezas reducidas o momifican cadáveres, aunque con su propio giro. Animales y monstruos fallecidos se reconstruyen mediante taxidermia y luego se encogen con reactivos alquímicos hasta caber en una ampolla u orbe de cristal. Cuando el recipiente se lanza y se rompe, la criatura preservada se recompone y realiza la tarea específica para la que fue preparada; una vez concluida, el contacto con el aire y la disolución de los reactivos conservantes hacen que se desmorone al instante hasta volverse polvo.
 
-Momentary Magic
+## —Valashinaz, Señora de la Bóveda
 
-Trappings of Power
+EXPANDIBLE
 
-Secrets of Crafting
+Un objeto con el rasgo expandible aumenta a un tamaño específico al activarse. Salvo que se indique lo contrario, el espacio debe estar adyacente a ti y en el suelo, y el objeto necesita espacio libre suficiente para expandirse o la activación no surte efecto. Cuando termina, un consumible expandido se desintegra; si no lo es, recupera su tamaño normal.
 
-Game master’s Trove
-
-Treasure Tables
-
-Glossary & Index
-
-55
-
-‌BOTTLED MONSTROSITIES‌‌‌
-
-## Alchemy, like all sciences, contains its own dark corners. The process of creating bottled monstrosities is not unlike the practices of shamans and priests who create shrunken heads or preserve corpses for mummification, but with its own unique twists. Deceased animals and monsters are reconstituted via taxidermy and then shrunken with alchemical reagents until they fit inside a glass vial or orb. When the orb is thrown and broken, the preserved creature inside reconstitutes and performs a specific task it was engineered for, though once this task is complete, exposure to air and the dissolution of
-
-## the preserving reagents cause the creature to immediately crumble away to dust.
-
-## —Valashinaz, Mistress of the Vault
-
-EXPANDABLE
-
-An item with the expandable trait increases to a specific size when activated. Unless otherwise noted, this space must be adjacent to you and on the ground, and the item needs to have enough open space to expand into or else the activation has no effect. When the effect ends, the expanded item disintegrates if it’s a consumable or shrinks back to its normal size if it’s not a consumable.
-
-# BOTTLED ROC ITEM 9
+# ROC EMBOTELLADO OBJETO 9
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | EXPANDABLE |
+| ALQUÍMICO | CONSUMIBLE | EXPANDIBLE |
 
-### Price 140 gp
+### Precio 140 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                       This bottle contains a shrunken bird preserved with its feathers intact. When opened, the contents reconstitute into a Gargantuan effigy of a great roc, which can appear in the air instead of on the ground. The roc clutches up to two creatures, who become grabbed, then Flies up to 90 feet and Releases the creatures. The targets must be within 15 feet of the roc; if any of them are unwilling to be grabbed, the roc must Grapple them with a +17 Athletics modifier or fail to pick them up.         **Craft Requirements** Supply the corpse of a roc (*Monster Core*
+**Activar** [dos acciones] (manipular)                       Esta botella contiene un ave encogida con las plumas intactas. Al abrirla, su interior se recompone en un efigie colosal de un gran roc, que puede aparecer en el aire en vez del suelo. El roc agarra hasta dos criaturas (que pasan a estar agarradas), luego Vuela hasta 90 pies y las suelta. Los objetivos deben estar a 15 pies del roc; si alguno no quiere ser agarrado, el roc debe Agarrarlo con un modificador de Atletismo +17 o no podrá levantarlo.         **Requisitos de creación** Suministrar el cadáver de un roc (*Monster Core* 294).
 
-294).
-
-# GHOST AMPOULE ITEM 4
+# AMPOLLA ESPECTRAL OBJETO 4
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | AUDITORY | CONSUMABLE | EMOTION | EXPANDABLE |  |
-| FEAR | MENTAL |  | |  | |
+| ALQUÍMICO | AUDITIVO | CONSUMIBLE | EMOCIÓN | EXPANDIBLE |  |
+| MIEDO | MENTAL |  | |  | |
 
-### Price 20 gp
+### Precio 20 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                           A daub of ectoplasm twitches within this glass container, faintly glowing with ghostly light. When opened, it forms the echo of a departed spirit, which looks like a Medium ghost. You can throw the ampoule up to 30 feet when you Activate it. The ghost utters a final lament, forcing each living creature in a 15-foot emanation except you to attempt a DC 18 Will save. On a failure, a creature becomes frightened 2 (or frightened 3 on a critical failure).
+**Activar** [dos acciones] (manipular)                           Un borrón de ectoplasma palpita dentro del recipiente, irradiando un tenue fulgor espectral. Al abrirla, toma forma de eco de un espíritu caído, con apariencia de fantasma Mediano. Puedes lanzar la ampolla hasta 30 pies al activarla. El espíritu entona un último lamento que obliga a toda criatura viva en una emanación de 15 pies, salvo tú, a intentar una TS de Voluntad CD 18. Con un fallo queda asustada 2 (asustada 3 con fallo crítico).
 
-**Craft Requirements** Supply ectoplasmic residue from a destroyed ghost (*Monster Core* 160–161).
+**Requisitos de creación** Suministrar residuo ectoplásmico de un fantasma destruido (*Monster Core* 160–161).
 
-# HIPPOGRIFF IN A JAR ITEM 5
-
-|  |  |  |
-| --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | EXPANDABLE |
-
-### Price 30 gp
-
-### Usage held in 1 hand; Bulk L
-
-**Activate** [two-actions] (manipulate)                         This bottle contains a shrunken hippogriff. When opened, the contents reconstitute into a Large effigy of a hippogriff. The hippogriff waits up to 1 round and allows two creatures to mount it, then Flies up to 65 feet and waits 1 more round to give the mounted creatures time to dismount. Creatures who are still mounted on the hippogriff when it dissolves fall prone in the space where the hippogriff corpse ends its movement.
-
-**Craft Requirements** Supply the corpse of a hippogriff (*Monster Core* 197).
-
-# KRAKEN BOTTLE ITEM 18
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | EXPANDABLE |
-
-### Price 5,000 gp
-
-### Usage held in 1 hand; Bulk L
-
-**Activate** [two-actions] (manipulate)                       Coiled tentacles make it all but impossible to see anything else inside this ampoule. When opened, a Gargantuan kraken bursts forth, which can appear in water instead of on the ground. Its arms attempt to grasp up to four creatures with a reach of 60 feet. The kraken repositions grabbed creatures to a different space within its reach unless the target succeeds at a DC 38 Fortitude save.
-
-If the kraken is in water, it then releases a cloud of ink in an 80-foot emanation. This cloud has no effect outside of water. Creatures inside the cloud are undetected, can’t use their sense of smell, and are exposed to kraken ink poison (*Monster* *Core* 212). The cloud dissipates after 1 minute.               **Craft Requirements** Supply the corpse of a kraken (*Monster*
-
-Core 212).
-
-# MUKRADI JAR ITEM 15
+# HIPOGRIFO EN TARRO OBJETO 5
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | EXPANDABLE |
+| ALQUÍMICO | CONSUMIBLE | EXPANDIBLE |
 
-### Price 1,300 gp
+### Precio 30 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-Activate            [two-actions]            (manipulate)
+**Activar** [dos acciones] (manipular)                         El frasco alberga un hipogrifo encogido. Al abrirlo se recompone como un efigie Grande. Espera hasta 1 asalto y permite que dos criaturas lo monten, luego Vuela hasta 65 pies y espera otro asalto para darles tiempo a desmontar. Quienes sigan montados cuando se disuelva caen de bruces en el espacio donde termine su movimiento.
 
-56
+**Requisitos de creación** Suministrar el cadáver de un hipogrifo (*Monster Core* 197).
 
-‌Introduction
-
-Armor & Armaments
-
-Alchemy Unleashed
-
-GHOST AMPOULE
-
-OCTOPUS BOTTLE BOTTLED ROC WORM VIAL
-
-Alchemical Ammunition
-
-Alchemical Bombs
-
-Alchemical Foods Alchemical Tools
-
-A miniature mukradi, its chitin shrunken and pale, is coiled within this jar. Its hollow form grows to a Gargantuan shell when you open the jar. It emits one of three breath weapons, chosen by you. Each creature in the area must attempt a DC 34 basic Reflex save.
-
-* ### Acid Maw (acid) 10-foot-wide, 60-foot line of acid dealing 12d6 acid damage.
-* ### Flame Maw (fire) 60-foot cone of fire dealing 12d6 fire damage.
-* ### Shock Maw (electricity) 120-foot line of electricity dealing
-
-                   12d6  electricity  damage.
-
-**Craft Requirements** Supply a mukradi corpse (*Monster Core* 233).
-
-# OCTOPUS BOTTLE ITEM 8
+# BOTELLA DE KRAKEN OBJETO 18
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | EXPANDABLE |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | EXPANDIBLE |
 
-### Price 100 gp
+### Precio 5,000 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                         Miniature octopus arms press up against the sides of this bottle, obscuring the rest of its contents. When opened, a Huge octopus bursts forth, which can appear in water instead of on the ground. Its arms attempt to grasp a creature with a reach of 15 feet. The octopus repositions that creature to a different space within its reach unless the target succeeds at a DC 24 Fortitude save.
+**Activar** [dos acciones] (manipular)                       Los tentáculos enrollados dificultan ver el resto del contenido. Al abrirla emerge un kraken colosal, que puede aparecer en el agua en lugar de sobre el suelo. Sus brazos intentan agarrar hasta cuatro criaturas con alcance de 60 pies. Recoloca a las criaturas agarradas en otra casilla a su alcance a menos que superen una TS de Fortaleza CD 38.
 
-If the octopus is in water, it then releases a cloud of ink in a 30-foot emanation. This cloud has no effect outside of water. Creatures inside the cloud are undetected and can’t use their sense of smell. The cloud dissipates after 1 minute.
+Si está en el agua, libera una nube de tinta en una emanación de 80 pies (sin efecto fuera del agua). Las criaturas dentro quedan indetectables, pierden el sentido del olfato y quedan expuestas al veneno de tinta de kraken (*Monster Core* 212). La nube se disipa tras 1 minuto.               **Requisitos de creación** Suministrar el cadáver de un kraken (*Monster Core* 212).
 
-**Craft Requirements** Supply the corpse of a giant octopus (*Monster Core* 248).
-
-# TYRANT AMPOULE ITEM 10
+# TARRO DE MUKRADI OBJETO 15
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | EXPANDABLE |
+| ALQUÍMICO | CONSUMIBLE | EXPANDIBLE |
 
-### Price 175 gp
+### Precio 1,300 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                       The body of a fearsome tyrannosaurus is shrunken and contained in this bottle, its desiccated form barely constrained within the glass. The effigy of a Gargantuan tyrannosaurus forms when you open the bottle, causing devastation as it rampages. The tyrannosaurus Strides up to 40 feet. It can move through the spaces of Huge or smaller creatures and can attempt to Trample each creature whose space it enters, dealing
+**Activar** [dos acciones] (manipular)
 
-2d10+12 bludgeoning damage with a DC 27 basic Reflex save. It can attempt to Trample each creature only once.
+Dentro hay un mukradi en miniatura, con su quitina pálida enroscada. Al abrir el tarro crece hasta formar un caparazón colosal. Emite uno de tres alientos, a tu elección. Cada criatura del área debe intentar una TS de Reflejos básica CD 34.
 
-**Craft Requirements** Supply the corpse of a tyrannosaurus (*Monster Core* 101).
+* ### Fauces ácidas (ácido) Línea de 60 pies de largo y 10 pies de ancho que inflige 12d6 de daño de ácido.
+* ### Fauces llameantes (fuego) Cono de 60 pies que inflige 12d6 de daño de fuego.
+* ### Fauces eléctricas (electricidad) Línea de 120 pies que inflige 12d6 de daño de electricidad.
 
-# WHIRLWIND VIAL ITEM 11
+**Requisitos de creación** Suministrar el cadáver de un mukradi (*Monster Core* 233).
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| AIR | ALCHEMICAL | CONSUMABLE | EXPANDABLE |
-
-### Price 250 gp
-
-### Usage held in 1 hand; Bulk L
-
-**Activate** [two-actions] (manipulate)                               Opening this vial releases a mighty gust, forming into a fearsome Huge elemental hurricane. The elemental breathes a 30-foot cone of air. Each creature in the cone must succeed at a DC 28 Fortitude save or be knocked away from the elemental. A creature knocked into a solid object stops moving and takes 4d6 bludgeoning damage.
-
-### Critical Success The creature is unaffected.
-
-### Success The creature is pushed 10 feet.
-
-### Failure The creature is pushed 20 feet.
-
-Critical Failure The creature is pushed 20 feet and knocked prone.
-
-**Craft Requirements** Supply magical residue from a slain elemental hurricane (*Monster Core* 141).
-
-# WORM VIAL ITEM 13
+# BOTELLA DE PULPO OBJETO 8
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | EXPANDABLE |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | EXPANDIBLE |
 
-### Price 600 gp
+### Precio 100 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                         Opening this vial unleashes its destructive contents: a reconstituted Gargantuan cave worm. The worm has two functions; choose which one to use when you Activate the item. **Burrow** The worm Burrows up to 80 feet, leaving a tunnel behind it. It can burrow through solid stone, but if it does so it
+**Activar** [dos acciones] (manipular)                         Brazos diminutos de pulpo presionan el cristal desde dentro. Al abrir la botella irrumpe un pulpo Grande, que puede aparecer en el agua. Sus brazos intentan agarrar a una criatura con alcance de 15 pies y la reubican en otra casilla a su alcance salvo que supere una TS de Fortaleza CD 24.
 
-burrows 40 feet instead of 80 feet.
+Si está en el agua, libera una nube de tinta en una emanación de 30 pies (sin efecto fuera del agua). Las criaturas dentro quedan indetectables y no pueden usar el olfato. La nube se disipa tras 1 minuto.
 
-### Eat The worm attempts to swallow a creature, crush it in its insides, then spit the creature out. The target must be within 15 feet, and it attempts a DC 30 Reflex save. If it fails, it takes 3d6+9 bludgeoning damage (doubled on a critical failure). The worm then spits the creature out to any empty space on the ground within 30 feet, causing the creature to take damage
+**Requisitos de creación** Suministrar el cadáver de un pulpo gigante (*Monster Core* 248).
 
-                 from    a    20-foot    fall.
+# AMPOLLA DEL TIRANO OBJETO 10
 
-**Craft Requirements** Supply the corpse of a cave worm (*Monster Core* 54).
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | EXPANDIBLE |
 
-Bottled Monstrosities
+### Precio 175 mo
 
-Elixirs
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-Permanent Alchemical Items
+**Activar** [dos acciones] (manipular)                       El cuerpo de un temible tiranosaurio yace encogido en el interior. Al abrir la ampolla se forma un efigie colosal que desata la devastación. El tiranosaurio Avanza hasta 40 pies, puede atravesar espacios de criaturas Grandes o menores e intenta Pisotear a cada criatura cuyo espacio atraviese, infligiendo 2d10+12 de daño contundente (TS de Reflejos básica CD 27). Solo puede Pisotear a cada criatura una vez.
 
-Poisons
+**Requisitos de creación** Suministrar el cadáver de un tiranosaurio (*Monster Core* 101).
 
-Momentary Magic
+# FRASCO DE REMOLINO OBJETO 11
 
-Trappings of Power
+|  |  |  |  |
+| --- | --- | --- | --- |
+| AIRE | ALQUÍMICO | CONSUMIBLE | EXPANDIBLE |
 
-Secrets of Crafting
+### Precio 250 mo
 
-Game master’s Trove
+### **Uso** sostenida en 1 mano; **Volumen** L
 
-Treasure Tables
+**Activar** [dos acciones] (manipular)                               Al abrirla libera una ráfaga que toma forma de un huracán elemental Grande. El elemental exhala un cono de aire de 30 pies; cada criatura en el cono debe superar una TS de Fortaleza CD 28 o es empujada lejos del elemental. Si choca contra un objeto sólido, se detiene y recibe 4d6 de daño contundente.
 
-Glossary & Index
+### Éxito crítico La criatura no se ve afectada.
 
-57
+### Éxito La criatura es empujada 10 pies.
 
-‌ELIXIRS‌‌
+### Fallo Empujada 20 pies.
 
-## The worst part about the boss’s elixir laboratory is how fragile everything is. One moment you’re polishing the alembics, the next you’re trying to sweep up broken glass with hands that can’t feel the broom! Then you slip on some goop that actually heals up the glass cuts but doesn’t fix the fact that you can’t feel anything, so you don’t notice when you step on another piece of glass in some minty goop that turns your whole body into a fleshy lump of dead weight! At least the boss doesn’t send me
+### Fallo crítico Empujada 20 pies y cae tumbada.
 
-## down there much anymore.
+**Requisitos de creación** Suministrar residuos mágicos de un huracán elemental abatido (*Monster Core* 141).
+
+# FRASCO DE GUSANO OBJETO 13
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | EXPANDIBLE |
+
+### Precio 600 mo
+
+### **Uso** sostenida en 1 mano; **Volumen** L
+
+**Activar** [dos acciones] (manipular)                         Al abrir esta ampolla liberas su contenido destructivo: un gusano cavernícola colosal recompuesto. Tiene dos funciones; elige al activar el objeto. **Excavar** El gusano Ex cava hasta 80 pies, dejando un túnel tras de sí. Puede excavar piedra sólida, pero solo avanza 40 pies en ese caso.
+
+### Devorar El gusano intenta tragar a una criatura, aplastarla en su interior y escupirla. El objetivo a 15 pies debe hacer una TS de Reflejos CD 30; con un fallo sufre 3d6+9 de daño contundente (el doble con fallo crítico). Luego el gusano escupe a la criatura en un espacio vacío en el suelo a 30 pies o menos, causándole daño equivalente a una caída de 20 pies.
+
+**Requisitos de creación** Suministrar el cadáver de un gusano cavernícola (*Monster Core* 54).
+
+‌ELIXIRES‌‌
+
+## Lo peor del laboratorio de elixires de la jefa es lo frágil que es todo. Un instante estás puliendo alambiques y al siguiente barres vidrio roto con unas manos que ni sienten la escoba. Luego resbalas en una baba que te cura los cortes pero no arregla el que sigas sin sentir nada, así que tan tranquila pisas otra astilla de vidrio en una baba mentolada que convierte tu cuerpo en un bulto blando e inútil. Al menos la jefa ya no me manda allí muy a menudo.
 
 ## —Purepurin
 
-# AFFLICTION SUPPRESSANT ITEM 1+
+# SUPRESOR DE AFLICTOS OBJETO 1+
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | HEALING |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | CURATIVO |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                           First created using the same principles as the antiplague and antivenom elixirs, an affliction suppressant is a broadly useful medicine, but sacrifices potency. It applies to a wide variety of afflictions, but lasts a much shorter time. Upon drinking an affliction suppressant, you gain an item bonus to all saves against afflictions for 10 minutes.
+**Activar** [una acción] (manipular)                           Creado siguiendo los principios del antiplaga y el antídoto, este supresor es una medicina versátil aunque menos potente. Se aplica a una amplia variedad de aflicciones, pero dura mucho menos. Al beberlo obtienes un bonificador de objeto a todas las TS contra aflicciones durante 10 minutos.
 
-Unlike with an antiplague, this suppressant isn’t long-lasting enough to apply to a daily save against the progression of a disease, curse, or other long-lasting affliction. It can still help protect you from catching such an affliction when
+A diferencia del antiplaga, no dura lo suficiente como para aplicarse a la tirada diaria de progresión de una enfermedad, maldición u otra aflicción prolongada, pero sí ayuda a evitar contraerla en la exposición inicial y en salvaciones posteriores de fases que duren 10 minutos o menos.               **Tipo** menor; **Nivel** 1; **Precio** 3 mo
 
-you’re initially exposed to it, as well as on saves that occur after stages that last 10 minutes or less.               **Type** lesser; **Level** 1; **Price** 3 gp
+Bonificador +1.
 
-You      gain      a      +1      item      bonus.
+### Tipo moderado; Nivel 6; Precio 35 mo
 
-### Type moderate; Level 6; Price 35 gp
+Bonificador +2.
 
-You      gain      a      +2      item      bonus.
+### Tipo mayor; Nivel 10; Precio 160 mo
 
-### Type greater; Level 10; Price 160 gp
+Bonificador +3.
 
-You      gain      a      +3      item      bonus.
+### Tipo superior; Nivel 14; Precio 675 mo
 
-### Type major; Level 14; Price 675 gp
+Bonificador +4. Además, al beberlo puedes intentar una salvación contra una aflicción de nivel 14 o inferior que te afecte. Con éxito, queda suprimida durante 10 minutos; la duración no avanza, pero los síntomas desaparecen.
 
-You gain a +4 item bonus, and when you drink the affliction suppressant, you can attempt a save against one affliction of 14th level or lower affecting you. If you succeed, the affliction is suppressed for 10 minutes. The affliction’s duration doesn’t elapse during this time, but its symptoms are suppressed.
 
-58
+# ‌MUTÁGENO BRAZO ELÁSTICO OBJETO 1+‌
 
-# ‌BENDY-ARM MUTAGEN ITEM 1+‌
+ALQUÍMICO CONSUMIBLE ELIXIR MUTÁGENO METAMORFOSIS
 
-ALCHEMICAL CONSUMABLE ELIXIR MUTAGEN POLYMORPH
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-### Usage held in 1 hand; Bulk L
+**Activar** [una acción] (manipular)                             Tus extremidades se vuelven extremadamente flexibles, permitiéndote estirarte y retorcerte a costa de tu motricidad fina.
 
-you ignore difficult terrain caused by moving through tight
+### Beneficio Obtienes el bonificador indicado a Acrobacias para Escapar, Colarte por un hueco y Pasar a través, y aumentas tu alcance en la cantidad indicada. Ignoras el terreno difícil causado por espacios estrechos que no requieran Exprimirte, y cuando lo logras puedes moverte 5 pies por asalto al Exprimirte.
 
-spaces that aren’t tight enough to force you to Squeeze,            and you can move 5 feet per round when you successfully
+### Inconveniente Sufres un penalizador –1 a Atletismo, Sigilo, Latrocinio y tiradas de ataque, y un penalizador –1 por dado de daño a todos los ataques con armas o desarmados.       **Tipo** menor; **Nivel** 1; **Precio** 3 mo
 
-**Activate** [one-action] (manipulate)                             Your limbs become extremely limber, letting you stretch and twist to extreme degrees at the cost of fine motor skills.
+Bonificador +1, alcance +5 pies, duración 1 minuto.                             **Tipo** moderado; **Nivel** 3; **Precio** 12 mo
 
-### Benefit You gain the listed item bonus to Acrobatics checks to Escape, Squeeze, and Tumble Through, and you increase your reach by the listed amount.
+Bonificador +2, alcance +5 pies, duración 10 minutos.                               **Tipo** mayor; **Nivel** 11; **Precio** 300 mo
 
-**Drawback** You take a –1 penalty to Athletics checks, Stealth checks, Thievery checks, and attack rolls, and a –1 penalty per damage die to all weapon and unarmed attack damage.       **Type** lesser; **Level** 1; **Price** 3 gp
+Bonificador +3, alcance +10 pies, duración 1 hora.                                   **Tipo** superior; **Nivel** 17; **Precio** 3,000 mo
 
-The bonus is +1, your reach increases by 5 feet, and the duration is 1 minute.                             **Type** moderate; **Level** 3; **Price** 12 gp
+Bonificador +4, alcance +15 pies, duración 1 hora.
 
-The bonus is +2, your reach increases by 5 feet, and the duration is 10 minutes.                               **Type** greater; **Level** 11; **Price** 300 gp
-
-The bonus is +3, your reach increases by 10 feet, and the duration is 1 hour.                                   **Type** major; **Level** 17; **Price** 3,000 gp
-
-The bonus is +4, your reach increases by 15 feet, and the duration is 1 hour.
-
-# BLOOD BOOSTER ITEM 3+
+# POTENCIADOR SANGUÍNEO OBJETO 3+
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | HEALING |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | CURATIVO |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                           This elixir bolsters your body’s natural defenses and ability to resist maladies that travel through or affect blood. For 10 minutes you receive the listed resistance to persistent bleed and persistent poison damage, and you lower the DC for any flat checks to end persistent bleed or persistent poison damage as if you received particularly appropriate aid.
+**Activar** [una acción] (manipular)                           Este elixir refuerza las defensas naturales de tu cuerpo y su capacidad para resistir dolencias transmitidas o que afectan a la sangre. Durante 10 minutos obtienes la resistencia indicada al daño persistente por desangrado y por veneno, y reduces la CD de las tiradas planas para poner fin a esos daños como si recibieras ayuda especialmente adecuada.
 
-At the GM’s discretion, blood booster elixirs can also automatically counteract non-magical effects that specifically rely on thinning the drinker’s blood, such as a skull peeler’s (*Monster Core 2* 292) anticoagulant.
+A discreción de la DJ, también puede contrarrestar automáticamente efectos no mágicos que dependan de licuar la sangre del bebedor, como el anticoagulante del desollacráneo (*Monster Core 2* 292).
 
-### Type lesser; Level 3; Price 9 gp
+### Tipo menor; Nivel 3; Precio 9 mo
 
-The          resistance          is          5.
+Resistencia 5.
 
-### Type moderate; Level 11; Price 225 gp
+### Tipo mayor; Nivel 11; Precio 225 mo
 
-The          resistance          is          10.
+Resistencia 10.
 
-### Type greater; Level 18; Price 3,400 gp The resistance is 20.
+### Tipo superior; Nivel 18; Precio 3,400 mo
 
-# CHROMATIC JELLYFISH OIL ITEM 9+
+Resistencia 20.
+
+# ACEITE DE MEDUSA CROMÁTICA OBJETO 9+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                               Made from several oils of differing hues extracted from jellyfish and rare plants, the layers of chromatic jellyfish oil stack to form a rainbow within their vial. For 10 minutes after consuming chromatic jellyfish oil, you gain resistance to precision damage and extra damage from critical hits according to the jellyfish oil’s type. While the effect lasts,
+**Activar** [una acción] (manipular)                               Este aceite combina varias capas de colores extraídos de medusas y plantas raras, formando un arcoíris dentro del vial. Durante 10 minutos tras beberlo obtienes resistencia al daño de precisión y al daño adicional de los golpes críticos según el tipo de aceite. Mientras dura el efecto, puedes Exprimirte ignorando el terreno difícil (o moverte 10 pies por ronda con éxito crítico) y puedes Reptar a la mitad de tu Velocidad.                       **Tipo** menor; **Nivel** 9; **Precio** 120 mo
 
-Squeeze (or 10 feet per round on a critical success). You can also Crawl at half your Speed.                       **Type** lesser; **Level** 9; **Price** 120 gp
+Otorga resistencia 5.
 
-The      oil      grants      resistance      5.
+### Tipo moderado; Nivel 14; Precio 800 mo
 
-### Type moderate; Level 14; Price 800 gp
+Otorga resistencia 10.
 
-The      oil      grants      resistance      10.
+### Tipo mayor; Nivel 19; Precio 5,200 mo
 
-### Type greater; Level 19; Price 5,200 gp The oil grants resistance 15.
+Otorga resistencia 15.
 
-# CONTAGION METABOLIZER ITEM 5+
+# METABOLIZADOR DE CONTAGIOS OBJETO 5+
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | HEALING |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | CURATIVO |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                             Contagion metabolizers seek out toxins in the bloodstream and attempt to purify them into humors the body processes naturally. When you drink this elixir, it attempts a counteract check with the listed counteract modifier to remove the highest-level poison or disease afflicting you. This takes longer for a disease—the counteract check doesn’t happen until 10 minutes after you drink the elixir. After drinking, you become temporarily immune to contagion metabolizers for 1 hour.
+**Activar** [una acción] (manipular)                             Estos metabolizadores rastrean toxinas en el torrente sanguíneo y las purifican en humores que el cuerpo procesa de forma natural. Al beberlo realiza una prueba de contrarrestar con el modificador indicado para eliminar el veneno o enfermedad de mayor nivel que te afecte. En el caso de enfermedades, la tirada no ocurre hasta 10 minutos después de beberlo. Tras consumirlo quedas temporalmente inmune a otros metabolizadores durante 1 hora.
 
-If you’re a chirurgeon alchemist and have powerful alchemy, you can substitute your statistics when you create a contagion metabolizer using Quick Alchemy, if your stats are higher. This replaces the counteract rank with half your level rounded up and the counteract modifier with your class DC – 10.
+Si eres una alquimista cirujana con la aptitud alquimia potente, al crear uno mediante Alquimia rápida puedes usar tus propias estadísticas si son superiores, sustituyendo el rango de contrarrestar por la mitad de tu nivel (redondeada hacia arriba) y el modificador por tu CD de clase – 10.
 
-### Type lesser; Level 5; Price 30 gp
+### Tipo menor; Nivel 5; Precio 30 mo
 
-The elixir has a counteract rank of 3 and a +11 counteract modifier.
+Rango de contrarrestar 3 y modificador +11.
 
-### Type moderate; Level 11; Price 300 gp
+### Tipo mayor; Nivel 11; Precio 300 mo
 
-The elixir has a counteract rank of 6 and a +19 counteract modifier.
+Rango 6 y modificador +19.
 
-### Type greater; Level 19; Price 8,000 gp
+### Tipo superior; Nivel 19; Precio 8,000 mo
 
-The elixir has a counteract rank of 10 and a +30 counteract modifier.
+Rango 10 y modificador +30.
 
-# DEADWEIGHT MUTAGEN ITEM 1+
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | MUTAGEN | POLYMORPH |
-
-### Usage held in 1 hand; Bulk L
-
-**Activate** [one-action] (manipulate)                               Your joints loosen and bones thicken, making your body incredibly weighty and difficult to maneuver around.
-
-### Benefit You gain an item bonus to Athletics checks to Shove and Trip, to your Fortitude and Reflex DCs against attempts to Shove or Trip you, and to saving throws against effects that attempt to force you to move or knock you prone.
-
-**Drawback** You gain the encumbered condition and can’t remove it while under the effects of the mutagen.         **Type** lesser; **Level** 1; **Price** 3 gp
-
-The  bonus  is  +1,  and  the  duration  is  1  minute.
-
-### Type moderate; Level 3; Price 12 gp
-
-The  bonus  is  +2,  and  the  duration  is  10  minutes.
-
-Introduction
-
-Armor & Armaments
-
-Alchemy Unleashed
-
-Alchemical Ammunition
-
-Alchemical Bombs
-
-Alchemical Foods Alchemical Tools
-
-Bottled Monstrosities
-
-Elixirs
-
-Permanent Alchemical Items
-
-Poisons
-
-Momentary Magic
-
-Trappings of Power
-
-Secrets of Crafting
-
-Game master’s Trove
-
-Treasure Tables
-
-Glossary & Index
-
-59
-
-### ‌Type greater; Level 11; Price 300 gp
-
-The bonus is +3, and the duration is 1 hour. You can attempt to Shove or Trip creatures up to two sizes larger than you.
-
-### Type major; Level 17; Price 3,000 gp
-
-The bonus is +4, and the duration is 1 hour. You can attempt to Shove or Trip creatures up to three sizes larger than you.
-
-# ENERGY MUTAGEN ITEM 1+
+# MUTÁGENO LASTRE OBJETO 1+
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | MUTAGEN | POLYMORPH |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | MUTÁGENO | METAMORFOSIS |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-### Activate [one-action] (manipulate)
+**Activar** [una acción] (manipular)                               Tus articulaciones se aflojan y los huesos se engrosan, volviendo tu cuerpo muy pesado y difícil de mover.
 
-When created, this mutagen is attuned to your choice of one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out of you whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.
+### Beneficio Obtienes un bonificador de objeto a Atletismo para Empujar y Hacer tropezar, a tus CD de Fortaleza y Reflejos contra intentos de Empujarte o Hacerte tropezar, y a las TS contra efectos que intenten moverte o tumbarte.
 
-### Benefit You gain resistance to the attuned energy type. Whenever you score a hit with a melee weapon, add the listed amount of damage of the attuned energy type.
+### Inconveniente Obtienes la condición cargado y no puedes quitarla mientras dure el mutágeno.         **Tipo** menor; **Nivel** 1; **Precio** 3 mo
 
-### Drawback You gain weakness 5 to the other three energy types.
+Bonificador +1, duración 1 minuto.
 
-### Type lesser; Level 1; Price 4 gp
+### Tipo moderado; Nivel 3; Precio 12 mo
 
-You gain resistance 5, add 1 damage on a hit with a melee weapon, and the duration is 1 minute.
+Bonificador +2, duración 10 minutos.
 
-### Type moderate; Level 3; Price 12 gp
+### Tipo mayor; Nivel 11; Precio 300 mo
 
-You gain resistance 10, add 1d4 damage on a hit with a melee weapon, and the duration is 10 minutes.
+Bonificador +3, duración 1 hora. Puedes Empujar o Hacer tropezar criaturas de hasta dos tamaños más grandes.
 
-### Type greater; Level 11; Price 300 gp
+### Tipo superior; Nivel 17; Precio 3,000 mo
 
-You gain resistance 15, add 1d6 damage on a hit with a melee weapon, and the duration is 1 hour. In addition, you can end the benefits of this mutagen to unleash a 30-foot cone of energy as a 2-action activity. This deals 2d6 damage of the attuned type for every full 10 minutes of duration remaining (maximum 8d6) to each creature in the area, with a DC 25 basic Reflex save.
+Bonificador +4, duración 1 hora. Puedes Empujar o Hacer tropezar criaturas de hasta tres tamaños más grandes.
 
-### Type major; Level 17; Price 3,000 gp
+# MUTÁGENO ENERGÉTICO OBJETO 1+
 
-You gain resistance 20, add 2d6 damage on a hit with a melee weapon, and the duration is 1 hour. In addition, you can end the benefits of this mutagen to unleash a 30-foot cone of energy as a 2-action activity. This deals 3d6 damage of the attuned type for every full 10 minutes of duration remaining (maximum 12d6) to each creature in the area, with a DC 32 basic Reflex save.
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | MUTÁGENO | METAMORFOSIS |
 
-# NUMBING TONIC ITEM 1+
+### **Uso** sostenido en 1 mano; **Volumen** L
+
+### **Activar** [una acción] (manipular)
+
+Al crear este mutágeno lo armonizas con uno de cuatro tipos de energía: ácido, frío, electricidad o fuego. Al consumirlo, tu cuerpo se impregna de esa energía, que irradias cada vez que atacas. En niveles superiores incluso puedes liberarla en descargas controladas.
+
+### Beneficio Obtienes resistencia al tipo elegido. Siempre que impactes con un arma cuerpo a cuerpo, añade el daño indicado de ese tipo.
+
+### Inconveniente Obtienes debilidad 5 contra los otros tres tipos de energía.
+
+### Tipo menor; Nivel 1; Precio 4 mo
+
+Resistencia 5, +1 daño en ataques cuerpo a cuerpo, duración 1 minuto.
+
+### Tipo moderado; Nivel 3; Precio 12 mo
+
+Resistencia 10, +1d4 daño, duración 10 minutos.
+
+### Tipo mayor; Nivel 11; Precio 300 mo
+
+Resistencia 15, +1d6 daño, duración 1 hora. Además, puedes finalizar sus beneficios para lanzar un cono de 30 pies de esa energía como actividad de 2 acciones. Inflige 2d6 de ese tipo por cada 10 minutos completos restantes (máx. 8d6) con TS de Reflejos básica CD 25.
+
+### Tipo superior; Nivel 17; Precio 3,000 mo
+
+Resistencia 20, +2d6 daño, duración 1 hora. También puedes finalizarlo para soltar un cono de 30 pies que inflige 3d6 por cada 10 minutos restantes (máx. 12d6), TS de Reflejos básica CD 32.
+
+# TÓNICO ENTUMECEDOR OBJETO 1+
 
 |  |  |  |
 | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-### Activate [one-action] (manipulate)
+### **Activar** [una acción] (manipular)
 
-Numbing tonic makes it easier to push through the pain of battle and shrug off otherwise debilitating blows. You gain the listed temporary Hit Points when you drink the elixir, and again at the start of each of your turns for 1 minute.
+Este tónico adormecedor te permite ignorar el dolor del combate y aguantar golpes debilitantes. Obtienes los PG temporales indicados al beberlo y de nuevo al inicio de cada uno de tus turnos durante 1 minuto.
 
-### Type minor; Level 1; Price 4 gp You gain 2 temporary Hit Points. Type lesser; Level 5; Price 30 gp You gain 5 temporary Hit Points.
+### Tipo inferior; Nivel 1; Precio 4 mo
 
-### Type moderate; Level 9; Price 150 gp You gain 10 temporary Hit Points.
+Obtienes 2 PG temporales.
 
-### Type greater; Level 13; Price 600 gp You gain 15 temporary Hit Points. Type major; Level 16; Price 1,400 gp You gain 20 temporary Hit Points. Type true; Level 19; Price 8,000 gp You gain 25 temporary Hit Points.
+### Tipo menor; Nivel 5; Precio 30 mo
 
-# SANGUINE MUTAGEN ITEM 1+
+Obtienes 5 PG temporales.
+
+### Tipo moderado; Nivel 9; Precio 150 mo
+
+10 PG temporales.
+
+### Tipo mayor; Nivel 13; Precio 600 mo
+
+15 PG temporales.
+
+### Tipo superior; Nivel 16; Precio 1,400 mo
+
+20 PG temporales.
+
+### Tipo verdadero; Nivel 19; Precio 8,000 mo
+
+25 PG temporales.
+
+# MUTÁGENO SANGUÍNEO OBJETO 1+
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | MUTAGEN | POLYMORPH |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | MUTÁGENO | METAMORFOSIS |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-### Activate [one-action] (manipulate)
+### **Activar** [una acción] (manipular)
 
-You gain greatly increased blood production, filtering out contagions and boosting your endurance but causing your body to bloat with blood.
+Aumentas enormemente la producción sanguínea, filtrando contagios y reforzando tu resistencia, aunque tu cuerpo se hincha de sangre.
 
-### Benefit You gain an item bonus to Fortitude and Reflex saves. This bonus improves when you attempt a save against an effect that has the disease trait, poison trait, or would give you the fatigued condition.
+### Beneficio Obtienes un bonificador de objeto a las TS de Fortaleza y Reflejos, que mejora al enfrentarte a efectos con los rasgos enfermedad, veneno o que te fatiguen.
 
-### Drawback Whenever you take piercing or slashing damage, you take 1d6 persistent bleed damage.
+### Inconveniente Siempre que recibas daño perforante o cortante sufres 1d6 de daño persistente por sangrado.
 
-### Type lesser; Level 1; Price 3 gp
+### Tipo menor; Nivel 1; Precio 3 mo
 
-The bonus is +1 (or +2 against disease, poison, or fatigued), and the duration is 1 minute.
+Bonificador +1 (o +2 contra enfermedad, veneno o fatiga), duración 1 minuto.
 
-### Type moderate; Level 3; Price 12 gp
+### Tipo moderado; Nivel 3; Precio 12 mo
 
-The bonus is +2 (or +3 against disease, poison, or fatigued), and the duration is 10 minutes.
+Bonificador +2 (o +3 contra esos efectos), duración 10 minutos.
 
-### Type greater; Level 11; Price 300 gp
+### Tipo mayor; Nivel 11; Precio 300 mo
 
-The bonus is +3 (or +4 against disease, poison, or fatigued), and the duration is 1 hour. When you roll a success on a save against a disease, poison, or effect that would give you the fatigued condition, you get a critical success instead.
+Bonificador +3 (o +4 contra esos efectos), duración 1 hora. Además, una TS exitosa contra enfermedad, veneno o fatiga se convierte en éxito crítico.
 
-### Type major; Level 17; Price 3,000 gp
+### Tipo superior; Nivel 17; Precio 3,000 mo
 
-The bonus is +4, and the duration is 1 hour. When you roll a success on a save against a disease, poison, or effect that would give you the fatigued condition, you get a critical success instead and your critical failures on such saves become failures instead.
+Bonificador +4, duración 1 hora. Tus éxitos contra esos efectos pasan a críticos y tus fallos críticos se convierten en fallos.
 
-# SOOTHING TONIC ITEM 2+
+# TÓNICO CALMANTE OBJETO 2+
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | HEALING |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | CURATIVO |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-### Activate [one-action] (manipulate)
+### **Activar** [una acción] (manipular)
 
-Soothing tonic is a pleasantly savory concoction that speeds your natural healing, so your wounds recover faster over time. You gain fast healing for 1 minute in an amount depending on the tonic’s type.
+Este tónico sabroso acelera tu curación natural, ayudando a que las heridas sanen con el tiempo. Obtienes curación acelerada durante 1 minuto según su tipo.
 
-### Type lesser; Level 2; Price 7 gp You gain fast healing 1.
+### Tipo menor; Nivel 2; Precio 7 mo → curación acelerada 1.
 
-### Type moderate; Level 5; Price 28 gp You gain fast healing 3.
+### Tipo moderado; Nivel 5; Precio 28 mo → curación acelerada 3.
 
-### Type greater; Level 10; Price 185 gp You gain fast healing 5.
+### Tipo mayor; Nivel 10; Precio 185 mo → curación acelerada 5.
 
-### Type major; Level 17; Price 2,700 gp You gain fast healing 10.
+### Tipo superior; Nivel 17; Precio 2,700 mo → curación acelerada 10.
 
-60
+# ‌BREBAJE PIES DE ARAÑA OBJETO 3+‌
 
-# ‌SPIDERFOOT BREW ITEM 3+‌
+ALQUÍMICO CONSUMIBLE ELIXIR MORFO
 
-ALCHEMICAL CONSUMABLE ELIXIR MORPH
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-### Usage held in 1 hand; Bulk L
+**Activar** [una acción] (manipular)                           Este fluido pegajoso se elabora con las glándulas de seda de arañas gigantes. Tras beberlo te crecen vellos diminutos en manos y pies, otorgándote una Velocidad de Trepar y un bonificador de objeto a Atletismo para Trepar durante la duración indicada.     **Tipo** menor; **Nivel** 3; **Precio** 12 mo
 
-**Activate** [one-action] (manipulate)                           This sticky fluid is made from the silk glands of giant spiders. When you drink a spiderfoot brew, tiny hairs grow on your hands and feet, granting you a climb Speed and an item bonus to Athletics checks made to Climb for the listed duration.     **Type** lesser; **Level** 3; **Price** 12 gp
+Velocidad de Trepar 15 pies, bonificador +1, duración 1 minuto.                             **Tipo** moderado; **Nivel** 9; **Precio** 150 mo
 
-The climb Speed is 15 feet, the item bonus is +1, and the duration is 1 minute.                             **Type** moderate; **Level** 9; **Price** 150 gp
+Velocidad de Trepar 20 pies, bonificador +2, duración 10 minutos.                           **Tipo** mayor; **Nivel** 17; **Precio** 2,500 mo
 
-The climb Speed is 20 feet, the item bonus is +2, and the duration is 10 minutes.                           **Type** greater; **Level** 17; **Price** 2,500 gp
+Velocidad de Trepar 25 pies, bonificador +3, duración 1 hora.
 
-The climb Speed is 25 feet, the item bonus is +3, and the duration is 1 hour.
-
-# STONE BODY MUTAGEN ITEM 5+
+# MUTÁGENO CUERPO DE PIEDRA OBJETO 5+
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | MUTAGEN | POLYMORPH |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | MUTÁGENO | METAMORFOSIS |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                         This mutagen calcifies your body, making it as hard as stone.
+**Activar** [una acción] (manipular)                         Este mutágeno calcifica tu cuerpo, haciéndolo tan duro como la piedra.
 
-### Benefit You gain resistance to physical damage (except bludgeoning) equal to the listed amount.
+### Beneficio Obtienes resistencia al daño físico (excepto contundente) igual a la cantidad indicada.
 
-**Drawback** Your Speeds are reduced by 10 feet (to a minimum of 5 feet) and you take a –2 penalty to Reflex saves. **Type** lesser; **Level** 5; **Price** 22 gp
+### Inconveniente Tus Velocidades se reducen en 10 pies (mínimo 5) y sufres un penalizador –2 a las TS de Reflejos. **Tipo** menor; **Nivel** 5; **Precio** 22 mo
 
-You gain resistance 5 to physical damage (except bludgeoning) and the duration is 10 minutes.                     **Type** moderate; **Level** 12; **Price** 300 gp
+Resistencia 5 durante 10 minutos.                     **Tipo** moderado; **Nivel** 12; **Precio** 300 mo
 
-You gain resistance 5 to physical damage (except bludgeoning) and the duration is 1 hour.                       **Type** greater; **Level** 15; **Price** 920 gp
+Resistencia 5 durante 1 hora.                       **Tipo** mayor; **Nivel** 15; **Precio** 920 mo
 
-You gain resistance 10 to physical damage (except bludgeoning) and the duration is 1 hour.
+Resistencia 10 durante 1 hora.
 
-# THEATRICAL MUTAGEN ITEM 1+
+# MUTÁGENO TEATRAL OBJETO 1+
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | MUTAGEN | POLYMORPH |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | MUTÁGENO | METAMORFOSIS |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                         Developed and widely used by students at the Kitharodian Academy in Oppara, the theatrical mutagen stimulates the creative centers of your brain. This causes your movements to become exaggerated and your voice to become clear. However, the erratic surges of inspiration overload your senses, making it difficult to focus on mundane tasks.
+**Activar** [una acción] (manipular)                         Desarrollado y muy usado por estudiantes de la Academia Kitharodiana de Oppara, estimula los centros creativos del cerebro. Tus movimientos se vuelven exagerados y la voz clara, aunque los impulsos creativos saturan tus sentidos y dificultan las tareas mundanas.
 
-### Benefit You gain the listed item bonus to Acrobatics checks, Crafting checks, and Performance checks. If you’re untrained in any of these skills, your proficiency bonus is equal to your level instead of +0. You also gain the listed status bonus to your Speed.
+### Beneficio Obtienes el bonificador indicado a Acrobacias, Artesanía e Interpretación. Si no estás entrenado en alguna, tu bonificador de competencia pasa a ser igual a tu nivel en lugar de +0. También obtienes el bonificador de estado indicado a tu Velocidad.
 
-### Drawback You take a –1 penalty to Perception checks and Will saves. After any round where you don’t spend at least 1 action to Interact with an object, Perform, Step, or Stride, you’re off-guard until the start of your next turn.
+### Inconveniente Sufres un penalizador –1 a Percepción y TS de Voluntad. Tras cualquier asalto en el que no gastes al menos 1 acción en Interactuar con un objeto, Interpretar, Dar un paso o Avanzar, quedas desprevenido hasta el inicio de tu siguiente turno.
 
-# MINTY!
+# ¡MENTOLADO!
 
-Spend enough time with the boss’s collection of alchemical elixirs and one of the things you figure out is that you can identify most of them by taste! That one reminds me of ramen noodles with a slice of cheese and heals up scrapes and bruises. That one tastes like copper pennies and I have no idea what it does but the boss calls it a “vax-seen.” That one makes your arms go all wiggly and you can pick stuff up that’s far away but only if it’s not very heavy. That one is the best constipation cure I’ve ever tried but the boss insists that’s not what I’m supposed to be using it for. Science is so cool!
+Si pasas el tiempo suficiente con la colección de elixires de la jefa, acabas identificándolos por el sabor. ¡Éste sabe a ramen con queso y cura raspones! Ese otro sabe a monedas de cobre y ni idea de qué hace, pero la jefa lo llama “vax-sin”. Hay uno que deja los brazos gomosos y puedes coger cosas lejanas, aunque solo si no pesan mucho. Y aquel es el mejor laxante que probé, pero la jefa insiste en que no lo use para eso. ¡La ciencia es genial!
 
-### Type lesser; Level 1; Price 3 gp
+### Tipo menor; Nivel 1; Precio 3 mo
 
-The bonus to rolls is +1, the bonus to Speed is +5 feet, and the duration is 1 minute.                             **Type** moderate; **Level** 3; **Price** 12 gp
+Bonificador +1 a tiradas, +5 pies a la Velocidad, duración 1 minuto.                             **Tipo** moderado; **Nivel** 3; **Precio** 12 mo
 
-The bonus to rolls is +2, the bonus to Speed is +5 feet, and the duration is 1 minute.                             **Type** greater; **Level** 11; **Price** 300 gp
+Bonificador +2, +5 pies, duración 1 minuto.                             **Tipo** mayor; **Nivel** 11; **Precio** 300 mo
 
-The bonus to rolls is +3, the bonus to Speed is +10 feet, and the duration is 10 minutes.                           **Type** major; **Level** 17; **Price** 3,000 gp
+Bonificador +3, +10 pies, duración 10 minutos.                           **Tipo** superior; **Nivel** 17; **Precio** 3,000 mo
 
-The bonus to rolls is +4, the bonus to Speed is +10 feet, and the duration is 1 hour.
+Bonificador +4, +10 pies, duración 1 hora.
 
-# VACCINE ITEM 1+
+# VACUNA OBJETO 1+
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | ELIXIR | HEALING |
+| ALQUÍMICO | CONSUMIBLE | ELIXIR | CURATIVO |
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                           A vaccine grants a creature immunity to a specific strain of disease of a level equal to or less than the vaccine’s level, and a
+**Activar** [una acción] (manipular)                           Este elixir otorga inmunidad a una cepa específica de enfermedad de nivel igual o inferior al de la vacuna y un bonificador de objeto +2 a las TS contra otras cepas de esa misma enfermedad. Por ejemplo, podrías ser inmune a la peste pútrida de las arpías y recibir +2 contra la peste pútrida transmitida por una rata gigante.           **Tipo** menor; **Nivel** 1; **Precio** 4 mo
 
-+2 item bonus on all saving throws against other strains of the same disease. For example, a vaccine could grant immunity to putrid plague inflicted by harpies but would only grant a +2 bonus against putrid plague inflicted by a giant rat.           **Type** minor; **Level** 1; **Price** 4 gp
+Duración 1 hora.
 
-The        duration        is        1        hour.
+### Tipo menor; Nivel 3; Precio 12 mo
 
-### Type lesser; Level 3; Price 12 gp
+Duración 24 horas.
 
-The      duration      is      24      hours.
+### Tipo moderada; Nivel 6; Precio 50 mo
 
-### Type moderate; Level 6; Price 50 gp
+Duración 1 semana.
 
-The        duration        is        1        week.
+### Tipo mayor; Nivel 12; Precio 400 mo
 
-### Type greater; Level 12; Price 400 gp
+Duración 1 año.
 
-The        duration        is        1        year.
+### Tipo superior; Nivel 18; Precio 5,000 mo
 
-### Type major; Level 18; Price 5,000 gp
+Duración permanente.
 
-The        duration        is        permanent.
+### Requisitos de creación Requiere una muestra de la enfermedad en cuestión.                         **Especial** La vacuna tiene la misma rareza que la enfermedad que previene o que la criatura que la transmite si la enfermedad no especifica rareza.
 
-### Crafting Requirements Creating a vaccine requires a sample of
 
-  the disease in question.                         **Special** A vaccine is the same rarity as the disease it’s designed to prevent, or as the creature who inflicts the disease if the
 
-disease itself doesn’t list a rarity.
 
-Introduction
 
-Armor & Armaments
-
-Alchemy Unleashed
-
-Alchemical Ammunition
-
-Alchemical Bombs
 
 Alchemical Foods Alchemical Tools
 
-Bottled Monstrosities
 
-Elixirs
 
-Permanent Alchemical Items
 
-Poisons
 
-Momentary Magic
 
-Trappings of Power
 
-Secrets of Crafting
 
-Game master’s Trove
 
-Treasure Tables
 
-Glossary & Index
 
-61
 
-‌PERMANENT ALCHEMICAL ITEMS‌‌
+‌OBJETOS ALQUÍMICOS PERMANENTES‌‌
 
-## The boss always looks down on the goodies in vault #762. She says they’re “bastardizations of the alchemical sciences” and “unnecessary contrivances designed to obscure the deficiencies of their creators.” Personally, I think she’s just jealous of the fact the flamethrower is too small for her enormous claws but can still spit a line of fire nearly as destructive as her fiery breath but with twice the range. Please don’t tell her I said that.
+## La jefa siempre menosprecia las chucherías de la bóveda #762. Dice que son “bastardizaciones de las ciencias alquímicas” y “artificios innecesarios pensados para ocultar las carencias de sus creadoras”. Yo creo que en el fondo le da envidia que el lanzallamas sea demasiado pequeño para sus enormes garras pero aun así escupa una línea de fuego casi tan destructiva como su aliento y con el doble de alcance. Por favor, no le digas que dije eso.
 
 ## —Purepurin
 
-# ALCHEMICAL CHART ITEM 4+ ALCHEMICAL GAUNTLET ITEM 1
+# TABLA ALQUÍMICA OBJETO 4+ — GUANTELETE ALCUIMICO OBJETO 1
 
-ALCHEMICAL
+ALQUÍMICO
 
-ALCHEMICAL
+ALQUÍMICO
 
-Usage    held    in    1    hand;    Bulk    L
+**Uso** sostenida en 1 mano; **Volumen** L
 
-This sturdy, rigid alchemical chart contains shorthand references on quickly mixing reagents for maximum effect. If you hold this chart while using Quick Alchemy, the items you create of the listed level remain potent for 1 additional round.                                       **Type** lesser alchemical chart; **Level** 4; **Price** 100 gp
+Esta tabla rígida contiene referencias abreviadas para mezclar reactivos con máxima eficacia. Si la sostienes mientras usas Alquimia rápida, los objetos de nivel indicado permanecen potentes 1 asalto adicional.                                       **Tipo** tabla alquímica menor; **Nivel** 4; **Precio** 100 mo
 
-The chart works for Quick Alchemy items of level 4 or lower.
+Funciona con objetos de Alquimia rápida de nivel 4 o inferior.
 
-### Type moderate alchemical chart; Level 12; Price 1,750 gp
+### Tipo tabla alquímica moderada; Nivel 12; Precio 1,750 mo
 
-The chart works for Quick Alchemy items of level 12 or lower.
+Funciona con objetos de nivel 12 o inferior.
 
-### Type greater alchemical chart; Level 18; Price 19,000 gp
+### Tipo tabla alquímica mayor; Nivel 18; Precio 19,000 mo
 
-The chart works for Quick Alchemy items of level 18 or lower.
+Funciona con objetos de nivel 18 o inferior.
 
-Price                10                gp
+**Precio** 10 mo
 
-An alchemical gauntlet emits small alchemical detonations when it makes contact with a foe. As an Interact action, you can place a bomb into a metal bracket near the wrist of the gauntlet. The bomb must be one that deals energy damage, such as an acid flask, alchemist’s fire, blasting stonePC2, bottled lightningPC2, or frost vialPC2. The next three attacks made with the gauntlet deal 1d4 damage of the bomb’s damage type in addition to the gauntlet’s normal damage. If the second and third attacks aren’t all made within 1 minute of the first attack, the bomb’s energy is wasted. These attacks never deal splash damage or other special effects of
+### Guantelete alquímico, OBJETO 1
 
-62
+Este guantelete emite pequeñas detonaciones cuando impacta. Con una acción de Interactuar puedes colocar una bomba que inflija daño de energía (frasco de ácido, fuego del alquimista, piedra explosivaPC2, rayo embotelladoPC2, vial de escarchaPC2) en el brazal. Los siguientes tres ataques con el guantelete infligen 1d4 de daño adicional del tipo de la bomba; si el segundo y tercero no se hacen en el minuto siguiente al primero, la energía se pierde. No infligen salpicadura ni otros efectos de la bomba y no se ven modificados por habilidades que alteren bombas.
+
 
 ‌the bomb and aren’t modified by any abilities that add to or modify a bomb’s effect.
 
-# ALCHEMIST’S FLAMETHROWER ITEM 2
+# LANZALLAMAS DEL ALQUIMISTA OBJETO 2
 
-RARE
+RARO
 
-ALCHEMICAL FIRE
+ALQUÍMICO FUEGO
 
-### Price 35 gp
+### Precio 35 mo
 
-**Usage** held in 2 hands; **Bulk** 1                     This long cylinder is topped by a pair of brass sockets and a collection of polished pipes and tubes. A total of two vials of alchemist’s fire must be loaded into the sockets at the base of the weapon and the tubes cleaned and primed. Properly loading the flamethrower in this way takes 1 minute. When the trigger on a loaded flamethrower is pulled, the alchemist’s fire is siphoned into the rifle and shot out of the muzzle in a line of fire. The damage dealt by a flamethrower is determined by the strength of the weakest alchemist’s fire loaded into the flamethrower.
+**Uso** sostenido con 2 manos; **Volumen** 1                     Este cilindro largo cuenta con dos zócalos de latón y una red de tubos pulidos. Debes cargar dos viales de fuego del alquimista en los zócalos de la base y limpiar los tubos; la carga completa lleva 1 minuto. Al apretar el gatillo de un lanzallamas cargado, el fuego es sifonado y expulsado en una línea ardiente. El daño depende del fuego más débil cargado.
 
-### Activate [two-actions] (fire, manipulate) Requirements The flamethrower is loaded; Effect You pull the trigger, expending both loaded alchemist’s fires to shoot a line of fire. Creatures in the area take fire damage based on the weakest alchemist’s fire loaded into the flamethrower, as noted below. Creatures that critically fail the basic Reflex save additionally take the listed persistent fire damage.
+### Activar [dos acciones] (fuego, manipular) Requisitos El lanzallamas está cargado; Efecto Disparas, gastando ambos fuegos para trazar una línea de fuego. Las criaturas en el área hacen una TS de Reflejos básica según el fuego más débil; con fallo crítico sufren también el daño persistente indicado.
 
-* ### Lesser Alchemist’s Fire: The flamethrower deals 1d8 fire damage (DC 15 basic Reflex save) in a 30-foot line. 1 persistent fire damage.
-* ### Moderate Alchemist’s Fire: The flamethrower deals 2d8 fire damage (DC 17 basic Reflex save) in a 60-foot line. 2 persistent fire damage.
-* ### Greater Alchemist’s Fire: The flamethrower deals 6d8 fire damage (DC 28 basic Reflex save) in a 90-foot line. 3 persistent fire damage.
-* ### Major Alchemist’s Fire: The flamethrower deals 10d8 fire damage (DC 37 basic Reflex save) in a 120-foot line. 4 persistent fire damage.
+* ### Fuego del alquimista menor: 1d8 de daño de fuego (TS CD 15) en una línea de 30 pies y 1 de daño persistente.
+* ### Fuego del alquimista moderado: 2d8 de daño (CD 17) en línea de 60 pies y 2 de persistente.
+* ### Fuego del alquimista mayor: 6d8 de daño (CD 28) en línea de 90 pies y 3 de persistente.
+* ### Fuego del alquimista superior: 10d8 de daño (CD 37) en línea de 120 pies y 4 de persistente.
 
-# BOMB COAGULANT ALEMBIC ITEM 5
+# ALAMBIQUE COAGULANTE OBJETO 5
 
-ALCHEMICAL
+ALQUÍMICO
 
-### Price 150 gp
+### Precio 150 mo
 
-**Usage** held in 2 hands; **Bulk** L                           This apparatus increases the viscosity of the reagents in alchemical bombs, to deadly effect. As a 10-minute activity that has the manipulate trait, you can use a bomb coagulant alembic to distill the contents of one infused alchemical bomb that deals splash damage into a stickier substance. After distilling, the bomb deals no splash damage but instead deals persistent damage equal to and of the same type as its original splash damage. If the bomb already deals persistent damage, distilling increases that damage by the bomb’s original splash damage.
+**Uso** sostenido con 2 manos; **Volumen** L                           Este aparato aumenta la viscosidad de los reactivos de una bomba alquímica. Como actividad de 10 minutos (manipular), puedes destilar una bomba infundida que inflija salpicadura, convirtiéndola en una sustancia más pegajosa. Tras destilarla, la bomba deja de infligir salpicadura y, en su lugar, inflige daño persistente igual y del mismo tipo que el daño de salpicadura original. Si ya infligía daño persistente, se incrementa en el valor de la salpicadura original.
 
-# BONE DREADNOUGHT PLATE ITEM 10
+# CORAZA ACORAZADA DE HUESO OBJETO 10
 
-ALCHEMICAL
+ALQUÍMICO
 
-### Price 1,000 gp
+### Precio 1,000 mo
 
-**Usage** worn armor; **Bulk** 5                       This suit of bone-based fortress plate is a masterpiece of alchemical science. This armor has a receiver that can hold a
+**Uso** armadura llevada; **Volumen** 5                       Esta coraza acorazada de hueso es una obra maestra. Tiene un receptáculo para una bomba de magnetita (página 44), cuya instalación lleva 3 acciones de Interactuar.
 
-single lodestone bomb [(page 44),](#bookmark112) which takes 3 Interact actions to install.
+### Activar [una acción] (manipular) Requisitos Hay una bomba de magnetita instalada; Efecto La bomba desplaza placas y bisagras, otorgándote resistencias al frío, electricidad, fuego, perforante y cortante igual al daño de salpicadura de la bomba cargada. Dura 20 minutos, aunque cada vez que recibas daño de uno de esos tipos reduce la duración restante en 1 minuto. Una vez activada no puede desactivarse; la bomba se consume y no puedes activar la armadura hasta instalar otra.
 
-### Activate [one-action] (manipulate) Requirements A lodestone bomb is installed in the armor; Effect The bomb shifts numerous small plates and hinges, offering a wide variety of protections, granting you resistance to cold, electricity, fire, piercing, and slashing damage equal to the loaded lodestone bomb’s splash damage. These effects last for 20 minutes, but each time you’re hit by an attack that deals damage of one of these types, decrease the remaining duration by 1 minute. Once activated, the armor can’t be deactivated. The activation uses up the lodestone bomb, and the armor can’t be activated again until a new one is installed.
+# COLLAR DE LA ARAÑA CAMBIANTE OBJETO 5
 
-COLLAR OF THE SHIFTING SPIDER          ITEM 5
+ALQUÍMICO
 
-ALCHEMICAL
+### Precio 133 mo
 
-### Price 133 gp
+**Uso** collar vestido; **Volumen** 1                         Este collar intimidante contiene un tubo central hueco y termina en puntas metálicas con forma de colmillos de araña. Puedes cargarlo con un mutágeno alquímico con una acción de Interactuar.
 
-**Usage** worn collar; **Bulk** 1                         This intimidating collar contains a hollow central tube and ends in twin metal points shaped like spider fangs. The collar can be loaded with an alchemical mutagen as an Interact action.
+### Activar [acción libre] (manipular) Desencadenante Tiraste iniciativa; Requisitos El collar tiene un mutágeno cargado; Efecto Las puntas se clavan en tu cuello, causan 1 de daño perforante e inyectan el mutágeno directamente en el torrente sanguíneo. Tiene el mismo efecto que beberlo, pero su duración se reduce a la mitad debido a la administración directa.
 
-### Activate [free-action] (manipulate) Trigger You roll initiative; Requirements A mutagen is loaded in the collar; Effect The metal points dig into your neck, inflicting 1 piercing damage and injecting the mutagen directly into your bloodstream. This has the same effect as if you drank the mutagen conventionally, except the duration of the mutagen is halved due to the more direct administration.
-
-# DREAD HELM ITEM 4
+# YELMO PAVOROSO OBJETO 4
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | AURA | EMOTION | FEAR | MENTAL |  |
+| ALQUÍMICO | AURA | EMOCIÓN | MIEDO | MENTAL |  |
 
-### Price 100 gp
+### Precio 100 mo
 
-**Usage** worn headwear; **Bulk** L                     The faceplate of a dread helm has a fierce visage that magnifies the effects of fear. Concealed within is a reservoir that can hold a single dread ampoule, which takes 3 Interact actions to install. **Activate** [one-action] (manipulate) **Requirements** A dread ampoule is installed in the helm; **Effect** The dread ampoule atomizes, creating a fear-inducing mist that hangs around your face for 3 rounds. The mist grants an item bonus to Intimidation checks equal to the dread ampoule’s item bonus. The mist also deals mental damage equal to the dread ampoule’s splash damage to all creatures within a 5-foot emanation other than you. The activation uses up the dread ampoule, and the helm
+**Uso** casco llevado; **Volumen** L                     La máscara de este yelmo luce un aspecto feroz que amplifica el miedo. Oculta un depósito para una ampolla de pavor, cuya instalación lleva 3 acciones de Interactuar. **Activar** [una acción] (manipular) **Requisitos** Hay una ampolla instalada; **Efecto** La ampolla atomiza, generando durante 3 asaltos una niebla que induce temor alrededor de tu rostro. Otorga un bonificador de objeto a Intimidación igual al de la ampolla y causa daño mental igual a su daño de salpicadura a todas las criaturas en una emanación de 5 pies excepto tú. La activación consume la ampolla y no puedes reactivar el yelmo hasta instalar otra.
 
-can’t be activated again until a new one is installed.
+# DEPÓSITO DE INYECCIÓN OBJETO 1
 
-# INJECTION RESERVOIR ITEM 1
+AJUSTE ALQUÍMICO
 
-ADJUSTMENT ALCHEMICAL
+### Precio 10 mo; Volumen L
 
-### Price 10 gp; Bulk L
+### **Uso** se aplica a un arma cuerpo a cuerpo perforante que no tenga inyección; **Volumen** L                         Este depósito con aguja de resorte se acopla a un arma para inyectar venenos. Puedes llenarlo con un veneno por lesión. Inmediatamente después de un ataque exitoso con el arma, puedes inyectar al objetivo activando el depósito. Recargarlo con un nuevo veneno requiere 3 acciones de Interactuar y ambas manos.
 
-### Usage applied to a non-injection melee weapon that deals
+Añadirlo altera el equilibrio del arma, aumentando en 1 la penalización por ataque múltiple (normalmente –6/–11 o –5/–10 con armas ágiles).
 
-  piercing damage; **Bulk** L                         This reservoir and spring-loaded needle can be attached to a weapon to let it inject deadly poisons. Additionally, the reservoir can be filled with an injury poison. Immediately after a successful attack with the adjusted weapon, you can inject the target with the loaded poison by activating the reservoir
 
-Introduction
 
-Armor & Armaments
 
-Alchemy Unleashed
 
-Alchemical Ammunition
 
-Alchemical Bombs
 
-Alchemical Foods Alchemical Tools
 
-Bottled Monstrosities
 
-Elixirs
+# ‌COMPENSACIÓN Y DESCUBRIMIENTO‌
 
-Permanent Alchemical Items
+Los juguetes de aquí son en su mayoría baratijas sin importancia. ¿Quién necesita un “lanzallamas” si puede exhalar devastación ígnea sin ayuda? ¿Para qué sirve un juguete infantil que convierte bombas de pegamento en cuerda cuando puedes caminar por el cielo? ¿Qué sentido tiene ponerse piel de trol cuando tus propias escamas superan cualquier escudo forjado por mortales?
 
-Poisons
+Purepurin, al menos, disfruta de este lugar, y sus “experimentos” han revelado funciones intrigantes de objetos raros que me habrían pasado desapercibidos. Su curiosidad suele ser más una bendición que una molestia, algo importante para su empleo.
 
-Momentary Magic
+El yelmo pavoroso ni siquiera estaría en la colección si Purepurin no se lo hubiese puesto y descubierto que tiene pequeñas boquillas que dispersan niebla aterradora y un filtro de carbón para que la portadora no la inhale. La curiosidad de la peque suele conducir al descubrimiento; es una de las razones por las que tolero su naturaleza tan aventurera.
 
-Trappings of Power
+—Valashinaz, Señora de la Bóveda
 
-Secrets of Crafting
 
-Game master’s Trove
+ALQUÍMICO
 
-Treasure Tables
+**Uso** sostenido con 2 manos; **Volumen** L                     Este aparato comprime dos venenos en una dosis más concentrada. Como actividad de 10 minutos (manipular), puedes combinar dos dosis del mismo veneno alquímico infundido para crear un veneno concentrado. El veneno resultante obtiene un bonificador de objeto +1 a su CD y aumenta su nivel en 1.         **Tipo** concentrador menor; **Nivel** 5; **Precio** 160 mo
 
-Glossary & Index
+Combina venenos de nivel 4 o inferior.       **Tipo** concentrador moderado; **Nivel** 10; **Precio** 960 mo Combina venenos de nivel 9 o inferior.       **Tipo** concentrador mayor; **Nivel** 15; **Precio** 5,900 mo Combina venenos de nivel 14 o inferior.       **Tipo** concentrador superior; **Nivel** 19; **Precio** 31,000 mo Combina venenos de nivel 18 o inferior.
 
-63
+ALQUÍMICO
 
-# ‌OVERCOMPENSATION AND DISCOVERY‌
+RARA
 
-The toys stored here are mostly novelty items of little consequence. Who needs a “flamethrower” when you can breathe fiery devastation unaided? What use is a children’s toy for turning glue bomb formulas into rope when you can stride upon the sky itself? To what effect does one don a troll’s flesh when your own is protected by scales mightier than any mortal-forged shield?
+# ARMADURA POTENCIADA OBJETO 7
 
-Purepurin, at least, seems to enjoy her time here, and her “experiments” have revealed a few intriguing functions of some of the rare items that would have escaped my notice. Her curiosity is typically more boon than bane, an important factor of her employment.
+ALQUÍMICO AURA
 
-The dread helm wouldn’t have even ended up in this collection had not Purepurin put it on and discovered it featured tiny nozzles for dispersing fear-inducing mist, and a charcoal filter to prevent the wearer from breathing in the substance themselves. The little one’s curiosity is often a road to discovery, one of the several reasons I humor her overly adventurous nature.
+### Precio 130 mo
 
-—Valashinaz, Mistress of the Vault
+Uso sostenido con 1 mano; Volumen 1
 
-with an Interact action. Refilling the reservoir with a new poison requires 3 Interact actions and uses both hands.
+### Precio 360 mo
 
-Adding an injection reservoir to a weapon throws off its balance, causing the multiple attack penalty with the weapon to be one greater than usual (usually –6 on a second attack and –11 on a third; or –5 and –10 with an agile weapon).
+Uso armadura vestida; Volumen 4
 
-# LIVING LEAF WEAVE ITEM 5
 
-ALCHEMICAL HEALING PLANT
+‌Actuadores stasianos ayudan a mover las extremidades de esta armadura completa siempre que reciba energía. Una cámara en el pecho puede albergar un rayo embotelladoPC2 (instalarlo requiere 3 acciones de Interactuar).‌
 
-### Price 160 gp
+### Activar [una acción] (manipular) Requisitos Hay un rayo embotellado instalado; Efecto La armadura se potencia durante 10 minutos. Mientras dure, añade el bonificador de objeto del rayo a tus pruebas de Atletismo para Forzar, Salto vertical, Salto largo y Empujar. El requisito de Fuerza de la armadura se reduce en 1 (o en 2 si el rayo tiene bonificador +3 o superior), aunque los penalizadores normales siguen aplicándose según la Fuerza modificada. El rayo se consume y se necesita otro para reactivarla.
 
-**Usage** worn armor; **Bulk** 1                           This suit of leaf weave armor [(page 9)](#bookmark50) is specially modified to metabolize the alchemical accelerants in medicinal compounds. A special receptacle in the armor can hold an elixir of life, which takes 3 Interact actions to install.
 
-### Activate [one-action] (manipulate) Requirements An elixir of life is installed in the armor; Effect Slithering vines grow from the armor, granting an item bonus to Athletics checks to Grapple, to your Fortitude DC to resist Grapple, Disarm, or Shove attempts, and to your Reflex DC to resist Trip attempts. The bonus is equal to the elixir’s item bonus, and lasts for 3 rounds. The activation uses up the elixir, and the armor can’t be activated again until a new one is installed.
 
-# MAGNETIC SHIELD ITEM 5
-
-Copper rings spiral around this steel shield. Twin electrical probes near the grip can socket into a jar of moderate (or higher leveled) bottled lightningPC2, which takes 3 Interact actions to install.
-
-### Activate [one-action] (manipulate) Requirements A bottled lightning is installed in the shield; Effect The shield becomes an electromagnet for 3 rounds. When an activated magnetic shield is raised, the circumstance bonus increases by 1 against attacks made with weapons primarily made of metal. If you use a Shield Block against a creature attacking you with such a weapon, you also gain a +1 item bonus to Disarm attempts against that weapon until the end of your next turn. The activation uses up the bottled lightning, and the shield can’t be activated again until a new one is installed.
-
-# OOZE SKIN ITEM 5
-
-ALCHEMICAL
-
-### Price 150 gp
-
-**Usage** worn armor; **Bulk** 1                         This leather armor has been treated with extract from oozes, which can be reactivated in the presence of a strong acid. A receptacle in the armor can hold an acid flask, which takes 3 Interact actions to install.
-
-### Activate [one-action] (manipulate) Requirements An acid flask is installed in the armor; Effect The leather weeps slippery protoplasm, granting an item bonus to Escape and Squeeze checks equal to the acid flask’s item bonus. The protoplasm also irritates the skin on prolonged contact, causing any creature that grapples or swallows you to take acid damage equal to the acid flask’s splash damage. Ooze skin remains activated for a number of rounds equal to the level of the acid flask installed. The activation uses up the acid flask, and the armor can’t be activated again until a new one is installed.
-
-# POISON CONCENTRATOR ITEM 5+
-
-ALCHEMICAL
-
-**Usage** held in 2 hands; **Bulk** L                     This compression apparatus can reduce two poisons into a more concentrated dose. As a 10-minute activity that has the manipulate trait, you can use a poison concentrator to combine two doses of the same infused alchemical poison, creating a single concentrated poison. The concentrated potion has a +1 item bonus to its DC, and its level is increased by 1.         **Type** lesser poison concentrator; **Level** 5; **Price** 160 gp
-
-The concentrator combines poisons of level 4 or lower.       **Type** moderate poison concentrator; **Level** 10; **Price** 960 gp The concentrator combines poisons of level 9 or lower.       **Type** greater poison concentrator; **Level** 15; **Price** 5,900 gp The concentrator combines poisons of level 14 or lower.       **Type** major poison concentrator; **Level** 19; **Price** 31,000 gp The concentrator combines poisons of level 18 or lower.
-
-ALCHEMICAL
-
-RARE
-
-# POWERED FULL PLATE ITEM 7
-
-ALCHEMICAL AURA
-
-### Price 130 gp
-
-Usage    held    in    1    hand;    Bulk    1
-
-### Price 360 gp
-
-Usage      worn      armor;      Bulk      4
-
-64
-
-‌Stasian actuators help the limbs of this full plate move of their own accord, as long as they’re supplied with power. A chamber in the chest plate can hold a single bottled lightningPC2, which takes 3 Interact actions to install.‌
-
-### Activate [one-action] (manipulate) Requirements A bottled lightning is installed in the armor; Effect The armor powers up for 10 minutes. While it’s powered up, add the bottled lightning’s item bonus to your Athletics checks to Force Open, High Jump, Long Jump, and Shove. The armor’s Strength requirement is lowered by 1, or by 2 if the loaded bottled lightning’s item bonus to attack rolls is +3 or higher. The armor’s normal penalties still apply, based on this altered Strength. The activation uses up the bottled lightning, and the armor can’t be activated again until a new one is installed.
-
-# REMOTE TRIGGER ITEM 5
-
-ALCHEMICAL
-
-### Price 125 gp
-
-**Usage** held in 1 hand; **Bulk** L                         This trigger array uses percussive alchemical caps and crystals to remotely detonate alchemical bombs through harmonic vibrations. You can Interact to flip up a switch on the trigger, causing it to emit infrasonic pulses that attune it to one alchemical bomb over the course of 10 minutes. The trigger can be attuned to up to three bombs at a time.
-
-### Activate [one-action] (manipulate) The trigger detonates any number of attuned bombs within 60 feet of it. You choose which ones to detonate. A bomb detonated by remote trigger deals its splash damage to any creature in its square.
-
-# SPLATROPE EXTRUDER ITEM 3
-
-ALCHEMICAL
-
-### Price 50 gp
-
-### Usage held in 1 hand; Bulk L
-
-This portable nozzle-and-trigger assembly based on spider spinnerets can extrude and weave alchemical adhesives into temporary constructions. As an Interact action, you can attach a glue bomb to the extruder.
-
-### Activate [one-action] (manipulate) Requirements A glue bomb is installed in the extruder; Effect The extruder converts the glue bomb into a 30-foot rope, whip, or net, depending on the nozzle die you choose when activating the device. The created object lasts for 1 hour. The DC to Escape a created rope (if used to bind a creature) or net is equal to the consumed glue bomb’s DC and Escaping destroys the created object.
-
-# SUN DAZZLER ITEM 8
-
-|  |  |  |
-| --- | --- | --- |
-| ALCHEMICAL | LIGHT | VISUAL |
-
-### Price 450 gp
-
-**Usage** held in 1 hand; **Bulk** L                           This metallic tube has a complex array of lenses and prisms at one end and a hatch at the other. The hatch can be unlocked, loaded with a glow rod, and refastened using 3 Interact actions. **Activate** [one-action] (manipulate) **Requirements** A glow rod is installed in the dazzler; **Effect** The glow rod burns to dust in a single focused flash, creating a 30-foot cone of scintillating light.
-
-Each creature in the cone must attempt a DC 24 Fortitude save, with the following effects.
-
-### Critical Success The creature is unaffected.
-
-### Success The creature is dazzled for 1 round.
-
-### Failure The creature is blinded for 1 round or until it spends an Interact action to rub its eyes, ending the blinded condition.
-
-### Critical Failure The creature is blinded for 1 round.
-
-# TROLL HIDE ITEM 15
+# ARMADURA DE PIEL DE TROL OBJETO 15
 
 |  |  |
 | --- | --- |
-| ALCHEMICAL | HEALING |
+| ALQUÍMICO | CURATIVO |
 
-### Price 6,000 gp
+### Precio 6,000 mo
 
-**Usage** worn armor; **Bulk** 2                           Tissue from a living forest troll has been integrated through this hide armor. This armor has two organic receptacles on its back that can each hold a single elixir of life. One elixir takes 3 Interact actions to install. For the armor to function properly, each elixir must be the same level.
+**Uso** armadura vestida; **Volumen** 2                           El tejido de un trol del bosque vivo se ha integrado en esta armadura de cuero. En la espalda tiene dos receptáculos orgánicos que pueden albergar cada uno un elixir de vida. Instalar un elixir requiere 3 acciones de Interactuar, y ambos deben ser del mismo nivel para que la armadura funcione.
 
-### Activate [one-action] (manipulate) Requirements Two elixirs of life are installed in the armor; Effect Regenerating tissue from the armor fills your wounds for 8 rounds. At the start of each of your turns, you regain Hit Points equal to the level of the loaded elixirs. Each time you regain at least 13 Hit Points from the armor, you regrow one damaged or ruined organ. During a round that you regain 9 or more Hit Points from the armor, you can reattach severed body parts by spending an Interact action to hold the body part to the area it was severed from. If you take electricity or fire damage, the armor deactivates until the end of your next turn. (Similar armor from other types of trolls might be deactivated by different damage types.) In the event the armor itself is damaged, it will restore its own Hit Points before it resumes healing you. The activation uses up the elixirs, and the armor can’t be activated again until two new ones are installed.
+### Activar [una acción] (manipular) **Requisitos** La armadura tiene instalados dos elixires de vida; **Efecto** Durante 8 asaltos, el tejido regenerativo de la armadura cierra tus heridas. Al inicio de cada uno de tus turnos recuperas una cantidad de PG igual al nivel de los elixires cargados. Cada vez que recuperes al menos 13 PG gracias a la armadura, regenera un órgano dañado o destruido. En un asalto en el que recuperes 9 PG o más puedes volver a unir una parte cercenada gastando una acción de Interactuar para sujetarla en su lugar. Si sufres daño de electricidad o fuego, la armadura se desactiva hasta el final de tu siguiente turno (armaduras creadas con otros trolls podrían desactivarse con tipos de daño distintos). Si la armadura recibe daño, se repara a sí misma antes de reanudar tu curación. La activación consume los elixires y no puede reactivarse hasta instalar otros dos.
 
-# WEAPON SIPHON ITEM 1
+# SIFÓN DE ARMA OBJETO 1
 
-|  |  |
-| --- | --- |
-| ADJUSTMENT | ALCHEMICAL |
+AJUSTE ALQUÍMICO
 
-### Price 10 gp
+### Precio 10 mo
 
-### Usage attached to a melee weapon; Bulk L
+### **Uso** se aplica a un arma cuerpo a cuerpo; **Volumen** L
 
-**Activate** [one-action] (manipulate)                         This set of tubing snakes down the striking surface of a weapon to deliver alchemical explosives. A single lesser alchemical bomb can be fitted to the weapon siphon as an Interact action. The bomb must be one that deals energy damage, such as an acid flask, alchemist’s fire, blasting stonePC2, bottled lightningPC2, or frost vialPC2. The next three attacks made with the weapon deal 1d4 damage of the bomb’s damage type in addition to the weapon’s normal damage. If the second and third attacks aren’t all made within 1 minute of the first attack, the bomb’s energy is wasted. These attacks never deal splash damage or other special effects of the bomb and aren’t modified by any abilities that add to or modify a bomb’s effect.
+**Activar** [una acción] (manipular)                         Este conjunto de tubos recorre la zona de impacto del arma para canalizar explosivos alquímicos. Puedes instalar una bomba alquímica menor como acción de Interactuar; debe infligir daño de energía (frascos de ácido, fuego de alquimista, piedra explosiva, rayo embotellado, vial gélido, etc.). Los siguientes tres ataques con el arma infligen 1d4 adicionales del tipo de daño de la bomba. Si el segundo y tercer ataque no se realizan en el minuto posterior al primero, la energía restante se pierde. Estos ataques nunca infligen daño de salpicadura ni otros efectos especiales de la bomba, ni se ven alterados por aptitudes que modifiquen bombas.
 
-Adding a weapon siphon to a weapon throws off its balance, causing the multiple attack penalty with the weapon to be one greater than usual (usually –6 on a second attack and –11 on a third; or –5 and –10 with an agile weapon).
+Añadir el sifón desbalancea el arma, aumentando en 1 su penalización por ataque múltiple (normalmente –6/–11, o –5/–10 si es un arma ágil).
 
-Introduction
 
-Armor & Armaments
 
-Alchemy Unleashed
 
-Alchemical Ammunition
 
-Alchemical Bombs
 
-Alchemical Foods Alchemical Tools
 
-Bottled Monstrosities
 
-Elixirs
 
-Permanent Alchemical Items
+‌VENENOS‌‌
 
-Poisons
+## No hay muchas cosas que sepa mejor que la jefa. Es la persona más lista que he conocido y he viajado por todo el mundo consiguiéndole piezas. Pasé una semana en la Magaambya regateando con la Profesora Ulawa por un veneno raro de araña. ¡Incluso fui a Belkzen y convencí a Ardax Pelo Blanco de dejarme hacer planos de armas orcas! No recomiendo el viaje: los orcos que luchan contra no-muertos no aceptan bien las críticas. ¿De qué estaba hablando?
 
-Momentary Magic
-
-Trappings of Power
-
-Secrets of Crafting
-
-Game master’s Trove
-
-Treasure Tables
-
-Glossary & Index
-
-65
-
-‌POISONS‌‌
-
-## There aren’t a lot of things that I know better than the boss. She’s the smartest person I’ve ever met and I’ve traveled all over the world securing acquisitions for her. I spent a week at the Magaambya once haggling with Professor Ulawa over the price of some rare spider venom. I’ve even been to Belkzen and convinced Ardax the White-Hair to let me make blueprints of some orc weapons! I don’t recommend the trip, turns out undead-wrestling orcs don’t take feedback well. What was I talking about?
-
-## Right, things I know more about than the boss. Poisons are the one thing I know more about than the boss. They’re important for anyone who wants to make effective traps, most of them aren’t very useful against dragons, and you don’t really understand how
-
-## terrible they are until you’ve exposed yourself to a few of them and had to run down the hall to find an antidote.
+## Ah, sí: cosas que sé mejor que la jefa. Los venenos son lo único en lo que la supero. Son importantes para quien quiera trampas efectivas, la mayoría no sirven contra dragones y no comprendes lo terribles que son hasta que te expones a unos cuantos y tienes que salir corriendo a buscar un antídoto.
 
 ## —Purepurin
 
-ACHAEKEK’S KISS                      ITEM 20
+# BES O DE ACHAKEK OBJETO 20
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| RARE | ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| RARA | ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 13,000 gp
+### Precio 13,000 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-### Access member of the Red Mantis assassins
+### Acceso miembro de los asesinos de la Mantis Roja
 
-**Activate** [two-actions] (manipulate)                             Kept as a closely guarded secret by the deadly members of the Red Mantis assassins, this poison is treated with reverence for its ability to end lives. If the victim dies while affected by this poison, its body decomposes to nothing in 1 minute, leaving only its gear behind. Non-magical
+**Activar** [dos acciones] (manipular)                             Guardado celosamente por las letales integrantes de la Mantis Roja, este veneno es reverenciado por su capacidad para poner fin a vidas. Si la víctima muere mientras está afectada, su cuerpo se desintegra en 1 minuto, dejando solo su equipo. La preservación no mágica no puede proteger el cadáver. *Descanso pacífico* solo funciona si se lanza como hechizo de 5.º nivel y la lanzadora supera una prueba de contrarrestar contra la CD del veneno; incluso así, solo surte efecto como si fuera de 2.º nivel.
 
-preservation can’t protect the tainted corpse. *Peaceful rest* works on the poisoned body only if cast as a 5th-rank spell and the caster succeeds at a counteract check against the poison’s saving throw DC when casting the spell. Even if cast successfully, *peaceful rest* only works as if it had been cast at 2nd rank.
+### TS de Fortaleza CD 42; Duración máxima 6 asaltos; Fase 1 7d12 de daño de veneno y condenado 1 (1 asalto); Fase 2 9d12 y condenado 2 (1 asalto); Fase 3 11d12 y condenado 3 (1 asalto)
 
-### Saving Throw DC 42 Fortitude; Maximum Duration 6 rounds; Stage 1 7d12 poison damage and doomed 1 (1 round); Stage 2 9d12 poison damage and doomed 2 (1 round) Stage 3 11d12 poison damage and doomed 3 (1 round)
 
-66
-
-# ‌ANTIPODE OIL ITEM 6
+# ‌ACEITE ANTIPODA OBJETO 6
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON | VIRULENT |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO | VIRULENTO |
 
-### Price 45 gp
+### Precio 45 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-### Activate [two-actions] (manipulate)
+### Activar [dos acciones] (manipular)
 
-Prepared from brown mold, this liquid oscillates between rapidly absorbing and releasing heat from its victim. Each round the type of damage dealt by this poison changes, starting with cold, then fire, then cold, and so on. If the victim of this poison takes cold damage from a source other than the oil, reduce the save DC to 22 for 1 round. If the victim takes fire damage from a source other than the oil, increase the save DC to 25 for 1 round. **Saving Throw** DC 24 Fortitude; **Maximum Duration** 6 rounds;
+Preparado a partir de moho pardo, este líquido oscila entre absorber y liberar calor rápidamente en la víctima. Cada asalto alterna el tipo de daño, empezando por frío, luego fuego, etc. Si la víctima recibe daño de frío de otra fuente, reduce la CD a 22 durante 1 asalto; si recibe daño de fuego externo, aumenta la CD a 25. **TS** Fortaleza CD 24; **Duración máxima** 6 asaltos;
 
-### Stage 1 2d6 cold or fire damage (1 round); Stage 2 3d6 cold or fire damage (1 round)
+### Fase 1 2d6 de daño de frío o fuego (1 asalto); Fase 2 3d6 de daño de frío o fuego (1 asalto)
 
-# ASTRINGENT VENOM ITEM 12
+# VENENO ASTRINGENTE OBJETO 12
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | CONTACT | POISON | VIRULENT |
+| ALQUÍMICO | CONSUMIBLE | CONTACTOO | VENENO | VIRULENTOO |
 
-### Price 350 gp
+### Precio 350 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-### Activate [three-actions] (manipulate)
+### Activar [tres acciones] (manipular)
 
-This oily, dark-purple powder gives off the distinct odor of boiled leather. When delivered, the poison acts quickly to constrict the victim’s blood flow to their extremities and turn their lungs into a soft jelly. A victim of astringent venom is recognizable by the frostbite-like hue of their hands as they lose circulation to their extremities, making it difficult for them to hold things. Each round at the beginning of their turn, a creature affected by astringent venom must succeed at a flat DC 5 check or drop one random item they’re holding.
+Este polvo aceitoso violeta oscuro huele a cuero hervido. Una vez administrado constriñe rápidamente el flujo sanguíneo a las extremidades y convierte los pulmones en una gelatina blanda. La víctima se reconoce por el tono amoratado de sus manos, como de congelación, y le cuesta sujetar objetos. Al inicio de cada turno debe superar una tirada plana CD 5 o soltar un objeto aleatorio que esté sosteniendo.
 
-### Saving Throw DC 32 Fortitude; Onset 1 round; Maximum Duration 6 rounds; Stage 1 6d6 poison damage (1 round); Stage 2 8d6 poison damage (1 round); Stage 3 10d6 poison damage and confused (1 round)
+### TS Fortaleza CD 32; Inicio 1 asalto; Duración máxima 6 asaltos; Fase 1 6d6 de daño de veneno (1 asalto); Fase 2 8d6 de daño de veneno (1 asalto); Fase 3 10d6 de daño de veneno y confundido (1 asalto)
 
-# BLISTERWORT ITEM 11
+# BLISTERWORT OBJETO 11
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 280 gp
+### Precio 280 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-### Activate [two-actions] (manipulate)
+### Activar [dos acciones] (manipular)
 
-This clear, viscous liquid causes lesions and blisters that spread quickly. The victim’s pain response increases and flesh breaks easily under physical stress.
+Este líquido claro provoca lesiones y ampollas que se propagan con rapidez. La víctima siente más dolor y su carne se desgarra con facilidad bajo tensión física.
 
-### Saving Throw DC 30 Fortitude; Maximum Duration 6 rounds; Stage 1 4d6 poison damage and weakness 2 to physical and force damage; Stage 2 5d6 poison damage and weakness 4 to physical and force damage; Stage 3 7d6 poison damage and weakness 6 to physical and force damage
+### TS Fortaleza CD 30; Duración máxima 6 asaltos; Fase 1 4d6 de daño de veneno y debilidad 2 al daño físico y de fuerza; Fase 2 5d6 de daño y debilidad 4; Fase 3 7d6 de daño y debilidad 6 al daño físico y de fuerza
 
-# BLUE DRAGONFLY POISON ITEM 3
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | INGESTED | POISON |
-
-### Price 7 gp
-
-### Usage held in 1 hand; Bulk L
-
-### Activate [one-action] (manipulate)
-
-Boggards brew a potent toxin made from blue dragonflies. Swampseers consume this mixture to awaken their divine
-
-powers, but the poison causes debilitating hallucinations in most other creatures.
-
-### Saving Throw DC 17 Fortitude; Onset 10 minutes; Maximum Duration 30 minutes; Stage 1 dazzled (10 minutes); Stage 2
-
-dazzled and frightened 1 (10 minutes); **Stage 3** frightened 1
-
-and confused 1 (1 minute)
-
-# BREATHTAKING VAPOR ITEM 17
+# VENENO LIBÉLULA AZUL OBJETO 3
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | INHALED | POISON |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | INGERIDO | VENENO |
 
-### Price 3,000 gp
+### Precio 7 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                         This colorless mist has a mild, waxy scent that precedes acute shortness of breath. Creatures that don’t need to breathe can still take the poison’s damage but are immune to its other effects.
+### Activar [una acción] (manipular)
 
-### Saving Throw DC 38 Fortitude; Onset 1 round; Maximum Duration 6 rounds; Stage 1 6d6 poison damage, drained 1, and can’t breathe; Stage 2 8d6 poison damage, drained 2, and reduce remaining air by 1 additional round; Stage 3 10d6 poison damage, drained 3, and reduce remaining air by 2 additional rounds
+Los boggards preparan este potente tóxico con libélulas azules. Las adivinas de pantano lo ingieren para despertar sus poderes, aunque a la mayoría de criaturas les provoca alucinaciones incapacitantes.
 
-# BRIGHTSHADE ITEM 4
+### TS Fortaleza CD 17; Inicio 10 minutos; Duración máxima 30 minutos; Fase 1 deslumbrado (10 min); Fase 2 deslumbrado y asustado 1 (10 min); Fase 3 asustado 1 y confundido 1 (1 min)
+
+# VAPOR ASFIXIANTE OBJETO 17
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | INHALADO | VENENO |
+
+### Precio 3,000 mo
+
+### **Uso** sostenido en 1 mano; **Volumen** L
+
+**Activar** [una acción] (manipular)                         Esta neblina incolora desprende un olor ceroso suave que precede a una aguda falta de aire. Incluso las criaturas que no respiran sufren el daño del veneno, aunque son inmunes a los demás efectos.
+
+### TS Fortaleza CD 38; Inicio 1 asalto; Duración máxima 6 asaltos; Fase 1 6d6 de daño de veneno, drenado 1 y no puede respirar; Fase 2 8d6 de daño, drenado 2 y reduce en 1 asalto el aire restante; Fase 3 10d6 de daño, drenado 3 y reduce en 2 asaltos el aire restante
+
+# BRIGHTSHADE OBJETO 4
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON | VITALITY |  |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO | VITALIDAD |  |
 
-### Price 18 gp
+### Precio 18 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                             Brewed from a plant native to the First World, brightshade destroys tissue, living or dead. Victims of this poison take poison damage if they’re alive and vitality damage if they’re undead.
+**Activar** [dos acciones] (manipular)                             Destilado de una planta del Primer Mundo, brightshade destruye tejido vivo o muerto. Las criaturas vivas sufren daño de veneno y las no muertas daño de vitalidad.
 
-### Saving Throw DC 21 Fortitude; Maximum Duration 6 rounds; Stage 1 1d6 poison or vitality damage (1 round); Stage 2 2d6 poison or vitality damage (1 round)
-
-# CARELESS DELIGHT ITEM 9
+### TS Fortaleza CD 21; Duración máxima 6 asaltos; Fase 1 1d6 de daño de veneno o vitalidad (1 asalto); Fase 2 2d6 de daño (1 asalto)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INGESTED | MENTAL | POISON |  |
+| ALQUÍMICO | CONSUMIBLE | INGERIDO | MENTAL | VENENO |  |
 
-### Price 130 gp
+### Precio 130 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                           Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria that lowers inhibitions and increases trust. The status penalty from being stupefied due to this poison doubles when applied to Deception checks to Lie, Perception checks to Sense Motive, and Perception DCs to detect a Lie.
+**Activar** [una acción] (manipular)                           También llamado “persuasión líquida”, este brebaje dulce induce euforia, disminuye las inhibiciones y aumenta la confianza. El penalizador de estado por estar aturdido debido al veneno se duplica para Engaño (Mentir), Percepción (Percibir intenciones) y la CD de Percepción para detectar mentiras.
 
-### Saving Throw DC 28 Fortitude; Onset 1 minute; Maximum Duration 10 minutes; Stage 1 stupefied 1 (1 minute); Stage 2
+### TS Fortaleza CD 28; Inicio 1 minuto; Duración máxima 10 minutos; Fase 1 aturdido 1 (1 min); Fase 2 aturdido 2 (1 min); **Fase 3** aturdido 3 y la actitud de la víctima mejora un grado (1 min)
 
-stupefied 2 (1 minute); **Stage 3** stupefied 3, and the victim’s attitude toward others improves by one step (1 minute)
-
-# CHOLERIC CONTAGION ITEM 18
+# CONTAGIO COLÉRICO OBJETO 18
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 4,200 gp
+### Precio 4,200 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-Introduction
+### Activar [dos acciones] (manipular)
 
-Armor & Armaments
+Este veneno asqueroso es contagioso: la piel de la víctima segrega el tóxico y se propaga al contacto. Mientras dure, la primera vez cada asalto que la víctima acierte con un ataque desarmado, la criatura golpeada queda expuesta al veneno.
 
-Alchemy Unleashed
+### TS Fortaleza CD 40; Duración máxima 6 asaltos; Fase 1 6d10 de daño de veneno (1 asalto); Fase 2 8d10 (1 asalto); Fase 3 10d10 (1 asalto)
 
-Alchemical Ammunition
-
-Alchemical Bombs
-
-Alchemical Foods Alchemical Tools
-
-Bottled Monstrosities
-
-Elixirs
-
-Permanent Alchemical Items
-
-Poisons
-
-Momentary Magic
-
-Trappings of Power
-
-Secrets of Crafting
-
-Game master’s Trove
-
-Treasure Tables
-
-Glossary & Index
-
-67
-
-‌**Activate** [two-actions] (manipulate)                           This vile poison is contagious, causing the victim’s skin to secrete the toxin, allowing it to spread to others. While under the effects of choleric contagion, the first time during per round the victim succeeds at an attack roll with an unarmed attack against another creature, the target of the attack is exposed to the poison.
-
-### Saving Throw DC 40 Fortitude; Maximum Duration 6 rounds; Stage 1 6d10 poison damage (1 round); Stage 2 8d10 poison damage (1 round); Stage 3 10d10 poison damage (1 round)
-
-# CLOWN MONARCH ITEM 5
+# MONARCA BUFÓN OBJETO 5
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 21 gp
+### Precio 21 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                           A victim of clown monarch is amusing to behold as they repeatedly suffer slapstick pratfalls. This poison disrupts the victim’s sense of balance.
+**Activar** [dos acciones] (manipular)                           Las víctimas de este veneno acaban protagonizando caídas dignas de una comedia slapstick. El monarca bufón sabotea el sentido del equilibrio de la víctima.
 
-### Saving Throw DC 22 Fortitude; Maximum Duration 6 rounds; Stage 1 falls prone and must succeed at a DC 5 flat check when attempting a Stand action or the action fails and is lost (1 round); Stage 2 as stage 1 but the DC is 10 (1 round);
+### TS Fortaleza CD 22; **Duración máxima** 6 asaltos; **Fase 1** cae tumbada y debe superar una prueba plana CD 5 al intentar una acción de Ponerse en pie o la acción fracasa (1 asalto); **Fase 2** como la fase 1 pero la CD es 10 (1 asalto); **Fase 3** como la fase 1 pero la CD es 15 (1 asalto)
 
-### Stage 3 as stage 1 but the DC is 15 (1 round)
-
-# CLUBHEAD POISON ITEM 12
+# VENENO CABEZA DE MAZA OBJETO 12
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 340 gp
+### Precio 340 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                         This poison is named for the strain of fungi from which it’s distilled. Hallucinations assail the victim’s mind, causing them to see imaginary foes.
+**Activar** [dos acciones] (manipular)                         Este veneno recibe su nombre del hongo del que se destila. Las alucinaciones asaltan la mente de la víctima y le hacen ver enemigos imaginarios.
 
-### Saving Throw DC 32 Fortitude; Maximum Duration 6 rounds; Stage 1 3d8 poison damage, off-guard, and can’t take reactions (1 round); Stage 2 4d8 poison damage, off-guard, can’t take reactions, stunned 1 (1 round); Stage 3 5d8 poison damage, off-guard, can’t take reactions, and stunned 1 (1 round)
+### TS Fortaleza CD 32; **Duración máxima** 6 asaltos; **Fase 1** 3d8 de daño de veneno, queda desprevenida y no puede usar reacciones (1 asalto); **Fase 2** 4d8 de daño de veneno, desprevenida, sin reacciones y aturdida 1 (1 asalto); **Fase 3** 5d8 de daño de veneno, desprevenida, sin reacciones y aturdida 1 (1 asalto)
 
-# CURARE ITEM 8
+# CURARE OBJETO 8
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INCAPACITATION | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | INCAPACITACIÓN | LESIÓN | VENENO |
 
-### Price 100 gp
+### Precio 100 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                             Hunters all over Golarion favor curare, a potent paralytic derived from boiled tree bark.
+**Activar** [dos acciones] (manipular)                             Cazadores de todo Golarion emplean este potente paralizante derivado de corteza hervida.
 
-### Saving Throw DC 25 Fortitude; Maximum Duration 6 rounds (but see stage 3); Stage 1 2d6 poison damage, clumsy 1, and enfeebled 1 (1 round); Stage 2 3d6 poison
+### TS Fortaleza CD 25; **Duración máxima** 6 asaltos (ver fase 3); **Fase 1** 2d6 de daño de veneno, torpe 1 y debilitado 1 (1 asalto); **Fase 2** 3d6 de daño de veneno, torpe 2, debilitado 2 y ralentizado 1 (1 minuto); **Fase 3** 4d6 de daño de veneno, torpe 2, debilitado 2 y ralentizado 1 (1 asalto). Si la víctima falla la TS mientras está en la fase 3, el veneno termina y queda paralizada durante 2d6 minutos.
 
-damage, clumsy 2, enfeebled 2, and slowed 1 (1 minute); **Stage 3** 4d6 poison damage, clumsy 2, enfeebled 2, and slowed 1 (1 round). If the victim fails the saving throw while at Stage 3, the poison ends and the victim is paralyzed for 2d6 minutes.
+# LAMENTO DANSARÍN OBJETO 11
 
-# DANCING LAMENTATION ITEM 11
+ALQUÍMICO CONSUMIBLE LESIÓN VENENO
 
-ALCHEMICAL CONSUMABLE INJURY POISON
+### Precio 240 mo
 
-### Price 240 gp
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-### Usage held in 2 hands; Bulk L
+**Activar** [dos acciones] (manipular)                       Esta toxina estimula las extremidades de forma errática, obligando a cambios repentinos de impulso que recuerdan a un baile torpe. Al inicio de cada turno, la víctima da uno o más Pasos al azar si puede. Este movimiento es forzado y no cuenta contra sus acciones del asalto. **TS** Fortaleza CD 30; **Duración máxima** 6 asaltos;
 
-**Activate** [two-actions] (manipulate)                       This toxin erratically stimulates the limbs, forcing unexpected shifts in momentum. The result resembles a gangly, lurching dance. At the start of each turn, the victim takes one or more Steps in a random direction if able. This movement is forced and doesn’t count against the victim’s actions for the round. **Saving Throw** DC 30 Fortitude; **Maximum Duration** 6 rounds;
+### Fase 1 4d6 de daño de veneno y 1 Paso de movimiento forzado (1 asalto); Fase 2 6d6 de daño de veneno, torpe 1 y 1 Paso forzado (1 asalto); Fase 3 8d6 de daño de veneno, torpe 2 y 2 Pasos forzados (1 asalto)
 
-### Stage 1 4d6 poison damage and 1 Step of forced movement (1 round); Stage 2 6d6 poison damage, clumsy 1, and 1 Step of forced movement (1 round); Stage 3 8d6 poison damage, clumsy 2, 2 Steps of forced movement (1 round)
-
-# EXECUTION POWDER ITEM 14
+# POLVO EJECUTOR OBJETO 14
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 625 gp
+### Precio 625 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                         The spores of a certain mushrooms, if carefully collected and suspended in a properly mixed alchemical fluid, can kill those near death. If a creature is reduced to 0 Hit Points while under the effect of execution powder, it must succeed at a DC 34 Will save or die (this is a death effect). If a creature dies from execution powder, the spores from their last breath alight on a random creature adjacent to the victim, granting that creature 20 temporary Hit Points and a +1 status bonus to attack and damage rolls for 10 minutes.
+**Activar** [dos acciones] (manipular)                         Las esporas de ciertos hongos, cuidadosamente recogidas y suspendidas en un fluido alquímico, pueden rematar a quienes están al borde de la muerte. Si una criatura se reduce a 0 PG mientras está bajo los efectos del polvo ejecutor, debe superar una TS de Voluntad CD 34 o muere (efecto de muerte). Si una criatura muere por el polvo, las esporas de su último aliento recaen sobre una criatura aleatoria adyacente y le otorgan 20 PG temporales y un bonificador de estado +1 a las tiradas de ataque y daño durante 10 minutos.
 
-### Saving Throw DC 34 Fortitude; Maximum Duration 6 rounds; Stage 1 7d6 poison damage (1 round); Stage 2 9d6 poison damage (1 round); Stage 3 12d6 poison damage (1 round)
+### TS Fortaleza CD 34; **Duración máxima** 6 asaltos; **Fase 1** 7d6 de daño de veneno (1 asalto); **Fase 2** 9d6 de daño de veneno (1 asalto); **Fase 3** 12d6 de daño de veneno (1 asalto)
 
-# ELDRITCH FLARE ITEM 15
+# DESTELLO ARCANO OBJETO 15
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 1,100 gp
+### Precio 1,100 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                         This poison draws power from the magic of its victim. If a creature under the effects of eldritch flare Casts a Spell, excess magical energy feeds back into the toxin, increasing the DC of the poison by 2 that round. In addition, if the spell deals damage, the poison deals half its damage as one of the types of damage the spell deals (the other half remains poison damage). If the target is immune or has resistance to the spell’s damage, the poison deals half its damage as mental damage instead. If the victim casts no spells during a round while affected, the poison still deals its poison damage.
+**Activar** [dos acciones] (manipular)                         Este veneno se alimenta de la magia de su víctima. Si una criatura bajo los efectos del destello arcano Lanza un conjuro, el excedente de energía mágica retroalimenta la toxina y aumenta en 2 la CD del veneno ese asalto. Además, si el conjuro inflige daño, la mitad del daño del veneno pasa a ser de uno de los tipos infligidos por el conjuro (la otra mitad continúa siendo daño de veneno). Si el objetivo es inmune o tiene resistencia al daño del conjuro, la mitad de ese daño pasa a ser mental. Incluso si la víctima no lanza conjuros durante un asalto, el veneno sigue infligiendo su daño normal.
 
-### Saving Throw DC 35 Fortitude; Maximum Duration 6 rounds; Stage 1 8d6 damage (1 round); Stage 2 10d6 damage (1 round); Stage 3 12d6 damage (1 round)
+### TS Fortaleza CD 35; **Duración máxima** 6 asaltos; **Fase 1** 8d6 de daño (1 asalto); **Fase 2** 10d6 de daño (1 asalto); **Fase 3** 12d6 de daño (1 asalto)
 
-# FALSE HOPE ITEM 17
+# FALSA ESPERANZA OBJETO 17
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON | VIRULENT |  |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO | VIRULENTOO |  |
 
-### Price 2,600 gp
+### Precio 2,600 mo
 
-68
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-‌SPEAR FROG POISON
+**Activar** [dos acciones] (manipular)                           Este veneno, destilado del boomslang, actúa con lentitud y de manera cíclica, haciendo creer a la víctima que sus efectos no han prendido o han remitido. En las fases sin efecto la DJ tira en secreto las TS de la víctima.
 
-Introduction
+### TS Fortaleza CD 37 (secreta); **Duración máxima** 10 asaltos; **Fase 1** sin efecto (1 asalto); **Fase 2** 10d8 de daño de veneno (1 asalto); **Fase 3** sin efecto (1 asalto); **Fase 4** 12d8 de daño de veneno (1 asalto)
 
-Alchemy Unleashed
-
-Armor & Armaments
-
-CLUBHEAD POISON
-
-### Usage held in 2 hands; Bulk L
-
-**Activate** [two-actions] (manipulate)                           This poison is an insidious distillation of the venom of the boomslang snake. It acts slowly and cyclically, giving its victim a false sense that the poison has failed to take hold or its effects have ended. The GM makes the target’s saving throws in secret during any stage that has no effect.
-
-### Saving Throw DC 37 Fortitude (secret); Maximum Duration 10 rounds; Stage 1 no effect (1 round); Stage 2 10d8 poison damage (1 round); Stage 3 no effect; Stage 4 12d8 poison damage (1 round)
-
-# FRAUDSLAYER OIL ITEM 14
+# ACEITE MATAFRAUDES OBJETO 14
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | CONTACT | MENTAL | POISON |  |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | CONTACTOO | MENTAL | VENENO |  |
 
-### Price 650 gp
+### Precio 650 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [three-actions] (manipulate)                           Made from a rare root that reacts to the physical changes that happen when someone is being deceitful, fraudslayer oil is a blunt instrument. It can compel truth, but it carries a fatal price if the victim can’t stop themself from repeatedly telling lies. While under the effect of fraudslayer oil, the victim takes the listed poison damage and mental damage for any time they voluntarily and knowingly tell a lie, due to the poison’s increased blood pressure to their brain. They take this damage once per round at most, even if they lie several times in rapid succession. The victim is aware of this effect and can choose to not answer or give only evasive, technically truthful, answers.
+**Activar** [tres acciones] (manipular)                           Elaborado a partir de una raíz rara que reacciona a los cambios físicos asociados a la mentira, este aceite es un método tosco para obligar a decir la verdad: quien no logra controlarse paga un precio fatal. Mientras esté bajo sus efectos, cada vez que la víctima mienta voluntaria y conscientemente sufre el daño de veneno y mental indicado. Este daño solo puede ocurrir una vez por asalto aunque cuente varias mentiras. La víctima entiende el funcionamiento del aceite y puede optar por no responder o dar contestaciones evasivas pero técnicamente ciertas.
 
-### Saving Throw DC 34 Fortitude; Onset 1 minute; Maximum Duration 6 minutes; Stage 1 stupefied 1, 3d6 poison damage and 3d6 mental damage for lying (1 minute); Stage 2 stupefied 2, 4d6 poison damage and 4d6 mental damage for lying (1 minute); Stage 3 stupefied 3, 5d6 poison damage and 5d6 mental damage for lying, and the damage becomes a death effect. If it reduces the victim to 0 Hit Points, the victim’s head explodes, causing death (1 minute).
+### TS Fortaleza CD 34; Inicio 1 minuto; Duración máxima 6 minutos; Fase 1 aturdido 1, 3d6 de daño de veneno y 3d6 de daño mental si miente (1 minuto); Fase 2 aturdido 2, 4d6/4d6 si miente (1 minuto); Fase 3 aturdido 3, 5d6/5d6 si miente; además el daño pasa a ser un efecto de muerte y, si reduce a 0 PG, la cabeza de la víctima explota causándole la muerte (1 minuto)
 
-# GNAWBONE TOXIN ITEM 11
+# TOXINA ROE-HUESOS OBJETO 11
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | CONTACT | POISON |
+| ALQUÍMICO | CONSUMIBLE | CONTACTOO | VENENO |
 
-### Price 235 gp
+### Precio 235 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-Activate            [three-actions]            (manipulate)
+**Activar** [tres acciones] (manipular)                           Elaborada con huesos molidos de gules u otras criaturas caníbales procesados en una pasta verdosa, esta toxina despierta un deseo insaciable de devorar carne inteligente. Si la víctima come al menos un bocado de carne humanoide, ignora durante 1 minuto la condición de debilitado impuesta por la toxina. Mientras siga afectada solo recupera la mitad de PG al recibir curación, salvo que haya comido carne humanoide en el último minuto.
 
-Made from the ground bones of ghouls or other cannibalistic creatures processed into a green-gray paste, gnawbone toxin imparts an insatiable desire to consume the flesh of intelligent creatures. If the victim eats at least a mouthful of humanoid flesh, it ignores the enfeebled condition from gnawbone toxin for 1 minute. Victims under the effect of gnawbone toxin regain only half as many Hit Points from healing effects unless they’ve eaten at least a mouthful of humanoid flesh in the last minute.
+### TS Fortaleza CD 30; Inicio 1 minuto; Duración máxima 6 minutos; Fase 1 debilitado 2 (1 minuto); Fase 2 debilitado 3 (1 minuto); **Fase 3** debilitado 4 (1d4 minutos)
 
-### Saving Throw DC 30 Fortitude; Onset 1 minute; Maximum Duration 6 minutes; Stage 1 enfeebled 2 (1 minute); Stage 2
-
-enfeebled 3 (1 minute); **Stage 3** enfeebled 4 (1d4 minutes)
-
-# GORGON’S BREATH ITEM 13
+# ALIENTO DE GORGONA OBJETO 13
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | INHALED | POISON |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | INHALADO | VENENO |
 
-### Price 475 gp
+### Precio 475 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                           Gorgon’s breath is a fine powder that can easily enter living creatures’ bloodstreams through their lungs before binding to mucous membranes and causing any nearby soft tissues to harden.
+**Activar** [una acción] (manipular)                           Este polvo finísimo penetra con facilidad por los pulmones y pasa al torrente sanguíneo antes de adherirse a las mucosas y endurecer todos los tejidos blandos a su alcance.
 
-### Saving Throw DC 32 Fortitude; Onset 1 round; Maximum Duration 6 rounds; Stage 1 slowed 1 (1 round); Stage 2 4d6 bludgeoning damage and slowed 1 (1 round); Stage 3 petrified (1 round); Stage 4 petrified permanently
+### TS Fortaleza CD 32; Inicio 1 asalto; Duración máxima 6 asaltos; Fase 1 ralentizado 1 (1 asalto); Fase 2 4d6 de daño contundente y ralentizado 1 (1 asalto); Fase 3 petrificado (1 asalto); Fase 4 petrificado de forma permanente
 
-# LOOTER’S LETHARGY ITEM 2
+# LETARGO DEL SAQUEADOR OBJETO 2
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | CONTACT | POISON |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | CONTACTOO | VENENO |
 
-### Price 6 gp
+### Precio 6 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [three-actions] (manipulate)                           The poison known as looter’s lethargy ensures no thieves are strong enough to walk off with pilfered treasures. Commonly smeared on locks, chests, and even valuable items themselves, the poison slowly saps the strength of those who touch it. Nearby guardians can then simply follow the resulting trail of discarded valuables to find the weakened trespasser.
+**Activar** [tres acciones] (manipular)                           Este veneno garantiza que ningún ladrón tenga fuerzas para cargar con su botín. Se unta en cerraduras, cofres o incluso sobre los propios objetos, robando lentamente la fuerza de quien lo toca. Las guardias cercanas pueden seguir el reguero de tesoros abandonados para atrapar al intruso debilitado.
 
-### Saving Throw DC 19 Fortitude; Onset 1 minute; Maximum Duration 1 hour; Stage 1 reduce Bulk limit by 3 (1 minute); Stage 2 off-guard, reduce Bulk limit by 4 (10 minutes); Stage 3 off-guard, reduce Bulk limit by 5 (10 minutes)
+### TS Fortaleza CD 19; Inicio 1 minuto; Duración máxima 1 hora; Fase 1 reduce en 3 tu límite de Carga (1 minuto); Fase 2 quedas desprevenido y reduces tu límite en 4 (10 minutos); Fase 3 quedas desprevenido y reduces tu límite en 5 (10 minutos)
 
-Alchemical Ammunition
 
-Alchemical Bombs
 
 Alchemical Foods Alchemical Tools
 
-Bottled Monstrosities
 
-Elixirs
 
-Permanent Alchemical Items
 
-Poisons
 
-Momentary Magic
 
-Trappings of Power
 
-Secrets of Crafting
 
-Game master’s Trove
 
-Treasure Tables
 
-Glossary & Index
 
-69
 
-# ‌MUSTARD POWDER ITEM 5
+# POLVO DE MOSTAZA OBJETO 5
 
-ALCHEMICAL CONSUMABLE INHALED POISON
+ALQUÍMICO CONSUMIBLE INHALADO VENENO
 
-### Price 25 gp
+### Precio 25 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-### Activate [one-action] (manipulate)
+### Activar [una acción] (manipular)
 
-Concocted from the formulas provided by otherworldly refugees to Irrisen, mustard powder is rumored to be devastating to entire armies with proper dispersal. Recipes have quickly spread across Golarion. Mustard powder’s sickened condition ends when the poison’s other effects do. **Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds;
+Según las fórmulas aportadas por refugiadas extraplanares en Irrisen, este polvo puede devastar ejércitos enteros si se dispersa correctamente. Las recetas se han extendido por todo Golarion. La condición de indispuesto termina cuando lo hacen los demás efectos del veneno. **TS** Fortaleza CD 22; **Duración máxima** 6 asaltos;
 
-### Stage 1 1d6 poison damage and dazzled (1 round); Stage 2 2d4 poison damage, dazzled, sickened 1, and unable to smell (1 round); Stage 3 2d6 poison damage, dazzled, sickened 2, and unable to smell (1 round)
+### Fase 1 1d6 de daño de veneno y deslumbrado (1 asalto); Fase 2 2d4 de daño, deslumbrado, indispuesto 1 y sin olfato (1 asalto); Fase 3 2d6 de daño, deslumbrado, indispuesto 2 y sin olfato (1 asalto)
 
-# NIGHTMARE SALT ITEM 20
+# SAL DE PESADILLA OBJETO 20
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| RARE | ALCHEMICAL | CONSUMABLE | INGESTED | POISON |
+| RARA | ALQUÍMICO | CONSUMIBLE | INGERIDO | VENENO |
 
-### Price 14,000 gp
+### Precio 14,000 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-### Activate [one-action] (manipulate)
+### Activar [una acción] (manipular)
 
-This potent poison consists of crystals whose flavor and appearance mimics edible salt but whose effects are deadly; victims experience periods of waking nightmares that overload the senses and eventually result in death through a combination of shock and exhaustion.
+Este potente veneno está compuesto por cristales que imitan el sabor y aspecto de la sal, pero provocan pesadillas despiertas que saturan los sentidos hasta matar por shock y agotamiento.
 
-### Saving Throw DC 43 Fortitude; Onset 1 hour; Maximum Duration 5 days; Stage 1 frightened 2 once every 1d4 hours, plus fatigued (1 day); Stage 2 confused for 1 minute once every 1d4 hours, plus frightened 3 and fatigued (1 day); Stage 3 frightened 3, plus confused for 1d4 minutes, once every hour, plus fatigued (1 day); Stage 4 death
+### TS Fortaleza CD 43; Inicio 1 hora; Duración máxima 5 días; Fase 1 asustado 2 una vez cada 1d4 horas y fatigado (1 día); Fase 2 confundido 1 minuto cada 1d4 horas, más asustado 3 y fatigado (1 día); Fase 3 asustado 3, más confundido 1d4 minutos cada hora y fatigado (1 día); Fase 4 muerte
 
-# PALE FADE ITEM 19
+# DESVANECER PÁLIDO OBJETO 19
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 6,000 gp
+### Precio 6,000 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-### Activate [two-actions] (manipulate)
+### Activar [dos acciones] (manipular)
 
-Pale fade is a white ointment with a sharp, earthy scent. The poison rapidly desiccates flesh, which then crumbles and forms a cloud of pallid dust. If the victim is concealed by this poison, then the dust cloud also conceals other creatures from the victim.
+Este ungüento blanquecino de olor terroso deseca la carne a gran velocidad, que luego se desmorona formando una nube de polvo pálido. Si la víctima queda Oculta por este veneno, la nube también oculta a otras criaturas frente a ella.
 
-### Saving Throw DC 42 Fortitude; Maximum Duration 6 rounds; Stage 1 10d6 poison damage and drained 1 (1 round); Stage 2 12d6 poison damage, drained 1, and concealed (1 round); Stage 3 15d6 poison damage, drained 1, and concealed (1 round)
+### TS Fortaleza CD 42; Duración máxima 6 asaltos; Fase 1 10d6 de daño de veneno y drenado 1 (1 asalto); Fase 2 12d6 de daño, drenado 1 y queda oculto (1 asalto); Fase 3 15d6 de daño, drenado 1 y oculto (1 asalto)
 
-# PUMMEL-GROWTH TOXIN ITEM 13
+# TOXINA PUMMELADOR OBJETO 13
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | MORPH | POISON |  |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | MORFO | VENENO |  |
 
-### Price 550 gp
+### Precio 550 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-### Activate [two-actions] (manipulate)
+### Activar [dos acciones] (manipular)
 
-This substance is the result of a failed alchemical experiment to regrow a severed arm. An extra outsized, uncontrolled limb of the sort used for manipulation grows from the victim’s
+Este compuesto nació de un experimento fallido para regenerar un brazo. Hace brotar de la víctima una extremidad descomunal e incontrolada usada para manipular. Al principio se agita sin control y desequilibra a la criatura; una vez “madura”, la golpea a ella misma. El miembro no inflige su daño contundente si la víctima no puede realizar acciones. Tras superar el veneno, la extremidad extra se marchita y cae.
 
-body. The limb initially flails about, throwing the creature off-balance. Once it “matures,” the limb pummels the victim instead. The limb can’t deal its bludgeoning damage if the victim is unable to take actions. Upon recovery from the poison, the extra limb withers and falls off.
+### TS Fortaleza CD 32; Duración máxima 6 asaltos; Fase 1 4d6 de daño de veneno, torpe 1 y debe superar una prueba plana CD 5 para realizar acciones con el rasgo manipular o la acción se pierde (1 asalto); Fase 2 4d6 de daño de veneno, torpe 1, ralentizado 1 y 2d6 de daño contundente (1 asalto); Fase 3 4d6 de daño de veneno, torpe 2, ralentizado 2 y 4d6 de daño contundente (1 asalto)
 
-### Saving Throw DC 32 Fortitude; Maximum Duration 6 rounds; Stage 1 4d6 poison damage, clumsy 1, and must succeed at a DC 5 flat check to perform an action with the manipulate trait or the action fails and is lost (1 round); Stage 2 4d6 poison damage, clumsy 1, slowed 1, 2d6 bludgeoning damage (1 round); Stage 3 4d6 poison damage, clumsy 2, slowed 2, 4d6 bludgeoning damage (1 round)
-
-# SCARLET MIST ITEM 8
+# NIEBLA ESCARLATA OBJETO 8
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 80 gp
+### Precio 80 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                         Derived from a mixture of krooth venom and an agitating agent, scarlet mist causes bleeding that turns into a foaming mist. When a creature under the effects of scarlet mist takes persistent bleed damage from the toxin, creatures within 5 feet take the splash damage. The persistent damage can’t be staunched until the poison’s effects end. A creature that can’t bleed doesn’t take the bleed damage or cause the splash damage but can still take the poison damage.
+**Activar** [dos acciones] (manipular)                         Mezcla de veneno de krooth y un reactivo agitador, esta toxina provoca hemorragias que se transforman en una neblina espumosa. Mientras una criatura esté afectada, cada vez que sufra daño persistente de sangrado por la toxina, las criaturas a 5 pies reciben el daño de salpicadura indicado. El daño persistente no puede detenerse hasta que termine el veneno. Una criatura incapaz de sangrar no recibe el daño persistente ni causa salpicadura, pero sí sufre el daño de veneno.
 
-### Saving Throw DC 25 Fortitude; Maximum Duration 6 rounds; Stage 1 3d6 poison damage, 1d4 persistent bleed damage, and 1 poison splash damage (1 round); Stage 2 3d6 poison damage, 2d4 persistent bleed damage, and 2 poison splash damage (1 round); Stage 3 3d6 poison damage, 3d4 persistent bleed damage, and 3 poison splash damage (1 round)
+### TS Fortaleza CD 25; Duración máxima 6 asaltos; Fase 1 3d6 de daño de veneno, 1d4 de daño persistente de sangrado y 1 de salpicadura de veneno (1 asalto); Fase 2 3d6 de daño, 2d4 de sangrado persistente y 2 de salpicadura (1 asalto); Fase 3 3d6 de daño, 3d4 de sangrado persistente y 3 de salpicadura (1 asalto)
 
-# SIGHTLESS TINCTURE ITEM 9
+# TINTURA CIEGA OBJETO 9
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | INGESTED | POISON |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | INGERIDO | VENENO |
 
-### Price 115 gp
+### Precio 115 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                           With an incredibly deep black hue, sightless tincture is usually concealed in wine, blood pudding, or other darkly colored foods. The oil at first faintly dims its victim’s sight, then blacks it out entirely.
+**Activar** [una acción] (manipular)                           Esta tintura, de una negrura tan profunda que es casi imposible ver a través de ella, suele ocultarse en vino, morcilla u otros alimentos oscuros. Primero atenúa levemente la visión y luego la apaga por completo.
 
-### Saving Throw DC 28 Fortitude; Onset 10 minutes; Maximum Duration 14 hours; Stage 1 dazzled and a –2 status penalty to visual Perception checks (1 hour); Stage 2 dazzled and a –4 status penalty to visual Perception checks (1 hour); Stage 3 blinded (2d6 hours); stage 3 is an incapacitation effect, and if the victim is still blinded from the poison when the poison has run its course, the blindness lasts for an additional 24 hours afterward
+### TS Fortaleza CD 28; Inicio 10 minutos; Duración máxima 14 horas; Fase 1 deslumbrado y penalizador de estado –2 a las pruebas de Percepción visual (1 hora); Fase 2 deslumbrado y penalizador –4 (1 hora); Fase 3 cegado (2d6 horas; efecto de incapacidad). Si sigue ciega cuando termina el veneno, la ceguera dura 24 horas adicionales.
 
-# SMOTHER SHROUD ITEM 7
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
-
-### Price 60 gp
-
-### Usage held in 2 hands; Bulk L
-
-Activate            [two-actions]            (manipulate)
-
-70
-
-‌Smother shroud robs a victim of distinguishing features, making it difficult for anyone to identify the corpse. Swelling and distention of facial features makes the victim
-
-unmixed components require a successful DC 23 counteract
-
-check. The onset period begins only if a victim consumes both            compounds during the same hour. If the two compounds mix
-
-unrecognizable. Increase the DC of any checks made to identify a creature under the effects of smother shroud by twice the stage of the poison. If the victim dies while under the effects of this poison, its corpse retains an inability to take actions with the auditory trait, and if it tries to speak and fails, it counts against responses to the *talking corpse* spell.
-
-### Saving Throw DC 22 Fortitude; Maximum Duration 10 rounds;
-
-### Stage 1 2d4 poison damage and dazzled (1 round); Stage
-
-### 2 3d4 poison damage, dazzled, a –4 status penalty to Perception checks to hear and smell, and must succeed at a DC 10 flat check to take actions with the auditory trait or the action is lost (1 round); Stage 3 4d4 poison damage, blinded, deafened, unable to smell, unable to take actions with the auditory trait, and unable to breathe
-
-# SPEAR FROG POISON ITEM 1
+# SUDARIO ASFIXIANTE OBJETO 7
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
 
-### Price 3 gp
+### Precio 60 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                       Carefully harvested from the skin of the poisonous spear frog, this toxin causes a burning rash and weakness in the limbs. Each frog yields enough toxin to Craft one dose of spear frog poison.
+**Activar** [dos acciones] (manipular)
 
-### Saving Throw DC 15 Fortitude; Maximum Duration 6 rounds; Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and enfeebled 1 (1 round)
+Este veneno borra los rasgos distintivos de la víctima, dificultando su identificación incluso tras la muerte. La hinchazón y distensión de los rasgos faciales la vuelven irreconocible. Aumenta en el doble de la fase del veneno la CD de cualquier prueba para identificarla. Si muere bajo sus efectos, su cadáver pierde la capacidad de realizar acciones con el rasgo auditivo, y si intenta hablar sin lograrlo, cuenta contra las respuestas del conjuro *hablar con los muertos*.
 
-# STUPOR POISON ITEM 7
+### TS Fortaleza CD 22; Duración máxima 10 asaltos; Fase 1 2d4 de daño de veneno y queda deslumbrada (1 asalto); Fase 2 3d4 de daño, deslumbrado, penalizador de estado –4 a Percepción para oír y oler, y debe superar una prueba plana CD 10 para realizar acciones con el rasgo auditivo o la acción se pierde (1 asalto); Fase 3 4d4 de daño, cegada, ensordecida, sin olfato, sin acciones con el rasgo auditivo y sin poder respirar
+
+# VENENO DE RANA LANZA OBJETO 1
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO |
+
+### Precio 3 mo
+
+### **Uso** sostenido con 2 manos; **Volumen** L
+
+**Activar** [dos acciones] (manipular)                       Extraído con cuidado de la piel de la venenosa rana lanza, este tóxico provoca un sarpullido ardiente y debilita las extremidades. Cada rana proporciona veneno suficiente para una dosis.
+
+### TS Fortaleza CD 15; Duración máxima 6 asaltos; Fase 1 1d4 de daño de veneno (1 asalto); Fase 2 1d6 de daño de veneno y debilitado 1 (1 asalto)
+
+# VENENO LETARGOZO OBJETO 7
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | INCAPACITATION | INJURY | POISON | SLEEP |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | INCAPACITACIÓN | LESIÓN | VENENO | SUEÑO |
 
-### Price 16 gp
+### Precio 16 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                         Stupor poison is a more potent distillation of lethargy poison. Further exposure to stupor poison doesn’t require the target to attempt additional saving throws; only failing a saving throw against an ongoing exposure can progress its stage.
+**Activar** [dos acciones] (manipular)                         Esta versión refinada del veneno de letargo es mucho más potente. Exposiciones adicionales no requieren tiradas nuevas; solo fallar una TS contra una exposición en curso hace que avance de fase.
 
-### Saving Throw DC 20 Fortitude; Maximum Duration 6 hours; Stage 1 slowed 1 and off-guard (1 round); Stage 2 slowed 2 and off-guard (1 round); Stage 3 unconscious with no Perception check to wake up (1 round); Stage 4 unconscious with no Perception check to wake up (1d6 hours)
+### TS Fortaleza CD 20; Duración máxima 6 horas; Fase 1 ralentizado 1 y desprevenido (1 asalto); Fase 2 ralentizado 2 y desprevenido (1 asalto); Fase 3 inconsciente sin prueba de Percepción para despertar (1 asalto); Fase 4 inconsciente sin prueba para despertar (1d6 horas)
 
-# TASTER’S FOLLY ITEM 4
+# DESVENTURA DEL CATADOR OBJETO 4
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INGESTED | POISON |
+| ALQUÍMICO | CONSUMIBLE | INGERIDO | VENENO |
 
-### Price 20 gp
+### Precio 20 mo
 
-### Usage held in 1 hand; Bulk L
+### **Uso** sostenido en 1 mano; **Volumen** L
 
-**Activate** [one-action] (manipulate)                           Devised to bypass detection, a dose of taster’s folly consists of two compounds that aren’t mixed but placed in the contents of one meal. Each compound is harmless on its own. The DC to Recall Knowledge about this poison from one of its components is 23 and attempts to use magic to detect the
+**Activar** [una acción] (manipular)                           Diseñado para eludir las catas, este veneno consta de dos compuestos que no se mezclan hasta formar parte del mismo plato. Cada mitad es inofensiva por separado. La CD para Recordar información sobre el veneno al analizar uno de los compuestos es 23, y la magia detecta el veneno solo si los dos componentes se mezclan antes de ingerirlos. La condición indispuesto no puede eliminarse hasta que terminen los efectos.
 
-prior to consumption, they become toxic and are detectable as such. The sickened condition can’t be ended until the poison’s effects end.
+### TS Fortaleza CD 21; Inicio 10 minutos; Duración máxima 6 minutos; Fase 1 2d4 de daño de veneno (1 minuto); Fase 2 3d4 de daño y indispuesto 1 (1 minuto); Fase 3 4d4 de daño y indispuesto 1 (1 minuto)
 
-### Saving Throw DC 21 Fortitude; Onset 10 minutes; Maximum Duration 6 minutes; Stage 1 2d4 poison damage (1 minute); Stage 2 3d4 poison damage and sickened 1 (1 minute); Stage 3 4d4 poison damage and sickened 1 (1 minute)
-
-# UNENDING ITCH ITEM 14
+# PICOR INTERMINABLE OBJETO 14
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | POISON | VIRULENT |  |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | VENENO | VIRULENTOO |  |
 
-### Price 700 gp
+### Precio 700 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                               Invented to cause a lengthy and unpleasant demise, this poison manifests as an itch that can’t be soothed. The victim experiences the poison damage as irritation rather than pain or sickness and must succeed at a DC 34 Perception check to realize they’re poisoned. The poison can also be identified with a DC 34 Medicine check. Once the victim has lost half or more of its Hit Points, the DC drops to 30 for either check. As long as the victim doesn’t realize it’s poisoned, the GM makes its saving throws in secret.
+**Activar** [dos acciones] (manipular)                               Creado para provocar una muerte lenta y desagradable, este veneno se manifiesta como un picor imposible de aliviar. La víctima percibe el daño como irritación más que dolor o enfermedad y debe superar una prueba de Percepción CD 34 para darse cuenta de que está envenenada (CD 30 cuando haya perdido al menos la mitad de sus PG). También puede identificarse con Medicina CD 34 (30 en el mismo caso). Mientras no sea consciente del veneno, la DJ tira sus TS en secreto.
 
-### Saving Throw DC 34 Fortitude (secret); Maximum Duration 5 minutes; Stages 1–5 1d6 poison damage (1 round)
+### TS Fortaleza CD 34 (secreta); Duración máxima 5 minutos; Fases 1–5 1d6 de daño de veneno (1 asalto)
 
-# VIOLET VENOM ITEM 3
+# VENENO VIOLETA OBJETO 3
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| UNCOMMON | ALCHEMICAL | CONSUMABLE | CONTACT | POISON |
+| POCO COMÚN | ALQUÍMICO | CONSUMIBLE | CONTACTOO | VENENO |
 
-### Price 12 gp
+### Precio 12 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                           The delicate process of extracting violet venom from a violet fungus leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure, unadulterated version of this highly toxic poison.
+**Activar** [dos acciones] (manipular)                           El delicado proceso de extraer este veneno de los hongos violetas suele dejarlo diluido; las alquimistas aún buscan una versión realmente pura de esta toxina.
 
-### Saving Throw DC 17 Fortitude; Onset 1 minute; Maximum Duration 6 rounds; Stage 1 1d6 poison plus enfeebled 1 (1
+### TS Fortaleza CD 17; Inicio 1 minuto; Duración máxima 6 asaltos; Fase 1 1d6 de daño de veneno y debilitado 1 (1 asalto); **Fase 2** 1d6 de daño y drenado 1 (1 asalto); **Fase 3** 2d6 de daño y debilitado 1 (1 asalto)
 
-round); **Stage 2** 1d6 poison plus drained 1 (1 round); **Stage 3**
-
-2d6 poison plus enfeebled 1 (1 round)
-
-# WARPWOBBLE POISON ITEM 8
+# VENENO PARPADEAR OBJETO 8
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| ALCHEMICAL | CONSUMABLE | INJURY | MENTAL | POISON |  |
+| ALQUÍMICO | CONSUMIBLE | LESIÓN | MENTAL | VENENO |  |
 
-### Price 90 gp
+### Precio 90 mo
 
-### Usage held in 2 hands; Bulk L
+### **Uso** sostenido con 2 manos; **Volumen** L
 
-**Activate** [two-actions] (manipulate)                         Warpwobble poison causes hallucinations of space bending and stretching, leading to vertigo and an inability to discern a stable place to move.
+**Activar** [dos acciones] (manipular)                         Esta toxina provoca alucinaciones en las que el espacio se retuerce y estira, causando vértigo e impidiendo encontrar un punto estable al que moverse.
 
-### Saving Throw DC 26 Will; Maximum Duration 6 rounds; Stage 1 treat all squares as difficult terrain (1 round); Stage 2 treat all squares as greater difficult terrain (1 round); Stage 3 treat all squares as uneven ground (DC 26), treating a critical success to Balance as a success, and a success as a success but moving on greater difficult terrain (1 round)
+### TS Voluntad CD 26; Duración máxima 6 asaltos; Fase 1 todas las casillas que tratas cuentan como terreno difícil (1 asalto); Fase 2 todas cuentan como gran terreno difícil (1 asalto); Fase 3 trata todas como terreno irregular (CD 26), considerando un éxito crítico para Mantener el equilibrio como éxito, y un éxito como éxito pero moviéndote en gran terreno difícil (1 asalto)
 
-Introduction
 
-Armor & Armaments
 
-Alchemy Unleashed
 
-Alchemical Ammunition
 
-Alchemical Bombs
 
 Alchemical Foods Alchemical Tools
 
-Bottled Monstrosities
 
-Elixirs
 
-Permanent Alchemical Items
 
-Poisons
 
-Momentary Magic
 
-Trappings of Power
 
-Secrets of Crafting
 
-Game master’s Trove
 
-Treasure Tables
 
-Glossary & Index
 
-71
+# ARMADURA TRAMA VIVA OBJETO 5
+
+ALQUÍMICO CURATIVO PLANTAA
+
+### Precio 160 mo
+
+**Uso** armadura llevada; **Volumen** 1                           Esta armadura de hojas trenzadas (página 9) está modificada para metabolizar los acelerantes alquímicos de compuestos medicinales. Tiene un receptáculo para un elixir de vida, cuya instalación requiere 3 acciones de Interactuar.
+
+### Activar [una acción] (manipular) Requisitos Hay un elixir de vida instalado; Efecto Brotan enredaderas que brindan un bonificador de objeto a Atletismo para Agarrar, a tu CD de Fortaleza contra Agarrar, Desarmar o Empujar, y a tu CD de Reflejos contra intentos de Hacerte tropezar. El bonificador equivale al del elixir y dura 3 asaltos. Consum e el elixir y no puede reactivarse hasta instalar uno nuevo.
+
+# ESCUDO MAGNÉTICO OBJETO 5
+
+Anillos de cobre rodean este escudo de acero. Dos sondas eléctricas cerca del agarre permiten conectar un rayo embotellado de nivel moderado o superior (requiere 3 acciones de Interactuar).
+
+### Activar [una acción] (manipular) Requisitos Hay un rayo embotellado instalado; Efecto El escudo se vuelve un electroimán durante 3 asaltos. Cuando está alzado, su bonificador circunstancial aumenta en 1 contra ataques realizados con armas principalmente metálicas. Si usas Bloqueo de escudo contra una criatura que ataque con ese tipo de arma, obtienes además un bonificador de objeto +1 para Desarmar esa arma hasta el final de tu siguiente turno. El rayo se consume y debes instalar uno nuevo para reactivarlo.
+# PIEL LIMOSA OBJETO 5
+
+ALQUÍMICO
+
+### Precio 150 mo
+
+**Uso** armadura llevada; **Volumen** 1                         Esta armadura de cuero ha sido tratada con extracto de limos, que se reactiva en presencia de ácido fuerte. Un receptáculo puede albergar un frasco de ácido (requiere 3 acciones de Interactuar).
+
+### Activar [una acción] (manipular) Requisitos Hay un frasco de ácido instalado; Efecto El cuero rezuma protoplasma resbaladizo, otorgando un bonificador de objeto a Escape y Exprimir igual al del frasco. El protoplasma irrita la piel de quienes te Agarran o Tragan, infligiendo daño de ácido igual al daño de salpicadura del frasco. La piel permanece activa un número de asaltos igual al nivel del frasco. Consume el frasco y se requiere uno nuevo para reactivar.
+
+# CONCENTRADOR DE VENENO OBJETO 5+
+# DETONADOR REMOTO OBJETO 5
+
+ALQUÍMICO
+
+### Precio 125 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L                         Este disparador emplea cápsulas percutoras y cristales para detonar bombas a distancia mediante vibraciones armónicas. Puedes usar una acción de Interactuar para levantar un interruptor, emitiendo pulsos infrasónicos que lo sintonizan con una bomba en 10 minutos. Puedes tener hasta tres bombas sintonizadas.
+
+### Activar [una acción] (manipular) Detonas cualquier número de bombas sintonizadas a 60 pies o menos, eligiendo cuáles. Cada bomba así detonada inflige su daño de salpicadura a las criaturas de su casilla.
+
+# EXTRUSOR DE CUERDA LIMOSA OBJETO 3
+
+ALQUÍMICO
+
+### Precio 50 mo
+
+### **Uso** sostenido en 1 mano; Volumen L
+
+Esta boquilla portátil basada en hilanderas de araña teje adhesivos alquímicos en construcciones temporales. Con una acción de Interactuar puedes acoplarle una bomba de pegamento.
+
+### Activar [una acción] (manipular) Requisitos Hay una bomba de pegamento instalada; Efecto Convierte la bomba en una cuerda, látigo o red de 30 pies, según el dado de boquilla elegido. El objeto dura 1 hora. La CD para Escapar de la cuerda (si ata a una criatura) o de la red equivale a la CD de la bomba; Escapar destruye el objeto.
+# DESLUMBRADOR SOLAR OBJETO 8
+
+|  |  |  |
+| --- | --- | --- |
+| ALQUÍMICO | LUZ | VISUAL |
+
+### Precio 450 mo
+
+**Uso** sostenido en 1 mano; **Volumen** L                           Este tubo metálico alberga lentes y prismas en un extremo y una escotilla en el otro. La escotilla se abre, carga con una vara luminosa y vuelve a cerrarse (3 acciones de Interactuar). **Activar** [una acción] (manipular) **Requisitos** Hay una vara luminosa instalada; **Efecto** La vara se quema en un solo destello, creando un cono de 30 pies de luz centelleante.
+
+Cada criatura en el cono debe intentar una TS de Fortaleza CD 24, con estos efectos.
+
+### Éxito crítico Sin efecto.
+
+### Éxito Queda deslumbrada 1 asalto.
+
+### Fallo Queda cegada 1 asalto o hasta gastar una acción de Interactuar frotándose los ojos.
+
+### Fallo crítico Queda cegada 1 asalto.

@@ -8,338 +8,105 @@ nav_order: 112
 source: Treasure Vault
 ---
 
-En los cuentos y la tradición oral abundan las historias de heroínas que reciben objetos especiales como muestra de **gratitud, amistad o simple deseo de ayudarlas** en su misión.
+En los cuentos y la tradición oral abundan las historias de heroínas que reciben objetos especiales como muestra de gratitud, amistad o simple deseo de ayudarlas en su misión. Una ninfa puede conceder un símbolo de su favor y convertirse en musa de una artista, forjando una relación que perdura durante años, o incluso generaciones. En el extremo opuesto, un unicornio anciano podría sacrificar voluntariamente su cuerno para otorgar un gran poder a una heroína, a costa de su vida decreciente.
 
-Una ninfa puede conceder un símbolo de su favor y convertirse en musa de una artista, forjando una relación que perdura durante años—o incluso generaciones. En el extremo opuesto, un unicornio anciano podría sacrificar voluntariamente su cuerno para otorgar un gran poder a una heroína, a costa de su vida decreciente.
+## Qué es un Obsequio Otorgado
 
----
+Un obsequio otorgado es un objeto mágico concedido por una criatura poderosa o entidad mágica que crea un vínculo duradero entre quien lo entrega y quien lo recibe. Este vínculo personal conecta donante y receptor de manera profunda e íntima. Cada obsequio posee su propia historia, única e irrepetible, y resulta prácticamente intransferible, pues no puede robarse ni venderse con facilidad. El momento en que se recibe un obsequio semejante se graba en la memoria con mucha mayor intensidad que la simple adquisición del mismo objeto en una tienda.
 
-## 🎁 Qué es un Obsequio Otorgado
+## El Patrón del Obsequio
 
-Un **obsequio otorgado** es un objeto mágico concedido por una criatura poderosa o entidad mágica que crea un **vínculo duradero** entre quien lo entrega y quien lo recibe.
+Estos casos extremos comparten un mismo patrón: cada obsequio crea un vínculo duradero entre quien lo entrega y quien lo recibe. Un regalo otorgado funciona como la gallina de los huevos de oro de las fábulas antiguas: su poder nace del acto desinteresado de ofrecerlo. Por esta razón, quien intente arrebatarlo mediante violencia o robo está condenado al fracaso. El lazo entre ambas partes abre un surco mágico que planta una semilla destinada a crecer con el tiempo, alimentada por la confianza y el respeto mutuos.
 
-### Características Clave
+## Reliquias: El Formato Perfecto
 
-✅ **Vínculo personal:** Conecta donante y receptor
+Las reliquias (*GM Core* 308) son ideales para contar este tipo de historias. Las habilidades que obtienen se llaman "dones", un término perfectamente alineado con el concepto de obsequios otorgados. Además, las reliquias ganan poder con el tiempo, reflejando el crecimiento natural del vínculo entre donante y receptor. A medida que la relación madura, también lo hace el objeto que la simboliza.
 
-✅ **Único:** Cada obsequio tiene historia propia
+## Objetos Simples vs Reliquias
 
-✅ **Intransferible:** No puede robarse ni venderse fácilmente
+Incluso si vuestro grupo no usa reliquias, o si introducir una resultaría demasiado complejo, un obsequio con las capacidades de un objeto mágico normal puede generar un momento sumamente significativo. Considerad la diferencia entre comprar una *autumn's embrace* por mil trescientas piezas de oro en la tienda mágica de Absalom, y recibir esa misma armadura cuando la Reina Feérica la teje para vosotras con las plantas de su dominio, susurrando bendiciones ancestrales en cada hilo. La armadura os protegerá durante años, y llevaréis siempre el favor de la corte feérica. La pregunta es simple: ¿cuál de estas experiencias recordarán las jugadoras?
 
-✅ **Memorab le:** Más significativo que comprar el mismo objeto
-
----
-
-## 🌟 El Patrón del Obsequio
-
-Estos casos extremos comparten un mismo patrón: cada obsequio crea un **vínculo duradero** entre quien lo entrega y quien lo recibe.
-
-### La Gallina de los Huevos de Oro
-
-Un regalo otorgado es como la gallina de los huevos de oro:
-
-**Su poder nace del acto desinteresado de ofrecerlo.**
-
-Por eso:
-- ❌ Quien intente **arrebatarlo mediante violencia o robo** está condenado al fracaso
-- ✅ El lazo entre ambas partes abre un **surco mágico**
-- 🌱 Planta una semilla que **crece con el tiempo**
-
----
-
-## ⚡ Reliquias: El Formato Perfecto
-
-Las **reliquias** (*GM Core* 308) son ideales para contar este tipo de historias.
-
-**Razón:** Las habilidades que obtienen se llaman "dones"—perfectamente alineado con el concepto.
-
-**Mecánica:** Las reliquias ganan poder con el tiempo, igual que el vínculo entre donante y receptor.
-
----
-
-## 🎭 Objetos Simples vs Reliquias
-
-Incluso si vuestro grupo **no usa reliquias** (o introducir una sería demasiado complejo), un obsequio con las capacidades de un **objeto mágico normal** puede generar un momento sumamente significativo.
-
-### Ejemplo Comparativo
-
-**Opción A (Comprar):**
-"Compras una *autumn's embrace* por 1,300 po en la tienda mágica de Absalom."
-
-**Opción B (Obsequio):**
-"La Reina Feérica teje para ti una *autumn's embrace* con las plantas de su dominio, susurrando bendiciones ancestrales en cada hilo. La armadura te protegerá durante años, y llevarás siempre el favor de la corte feérica."
-
-**¿Cuál recordarán las jugadoras?**
-
----
-
-## 🎯 Otorgar Obsequios en la Partida
+## Otorgar Obsequios en la Partida
 
 ### Hacer el Objeto Único
 
-Aun cuando concedas un objeto basado en otro existente, **modifícalo** para que resulte único sin necesidad de crear un objeto totalmente nuevo.
+Aun cuando concedáis un objeto basado en otro existente, modificadlo para que resulte único sin necesidad de crear un objeto totalmente nuevo. Esta singularidad refuerza la sensación de que el obsequio fue creado específicamente para su receptor.
 
----
+### Solo Funciona para el Receptor
 
-### 1. Solo Funciona para el Receptor
+Normalmente, los obsequios solo funcionan para quien los recibe, o quizás para una heredera o pupila si se transmite sinceramente. Como al recibirlo por primera vez, la intención importa profundamente. Un obsequio conserva su poder cuando se entrega sinceramente a una heredera, pero lo pierde si se intenta vender, intercambiar o trivializarlo como mercancía común. La magia del obsequio reconoce la diferencia entre un acto de generosidad y uno de avaricia.
 
-Normalmente, los obsequios solo funcionan para:
-- Quien los recibe
-- O quizás una **heredera o pupila** si se transmite sinceramente
+### Peculiaridad del Donante
 
-**Importante:** Como al recibirlo por primera vez, **la intención importa**:
+Añadid una peculiaridad que refleje a quien otorgó el objeto. Un arma podría tararear una melodía compuesta por la barda que la regaló. Una capa podría oler a pétalos de rosa del jardín de la dríada que la confeccionó. Un anillo podría brillar con luz verde cuando está cerca del bosque del treant que lo forjó. Un bastón podría susurrar consejos en la voz del archimago mentor que lo talló. Estas peculiaridades no solo hacen el objeto más memorable, sino que mantienen viva la presencia del donante.
 
-✅ Un obsequio conserva su poder cuando se **entrega sinceramente** a una heredera
+### Objeto Inteligente (Opcional)
 
-❌ Pero lo pierde si se intenta **vender, intercambiar o trivializarlo** como mercancía
+Si la criatura que concede el obsequio es especialmente querida por la mesa, podéis convertir el objeto en un ítem inteligente con parte de su personalidad, o hacerlo un conducto para conversar con ella a distancia. Sin embargo, usad esta opción con cuidado. Los objetos inteligentes añaden otra PNJ a la interpretación y son personas en sí mismos, no meras posesiones. No conviene abusar de este recurso, pues puede sobrecargar la narrativa.
 
----
+## Contabilización del Tesoro
 
-### 2. Peculiaridad del Donante
+Aunque los obsequios sean memorables, deben contabilizarse con el método normal de reparto de tesoro. Registradlos igual que cualquier otro objeto mágico, contad su valor dentro del tesoro del nivel correspondiente, y usad la tabla Tesoro del grupo por nivel de la página 59 de *GM Core*. En la mayoría de campañas, los obsequios se cuentan dentro del presupuesto de tesoro estándar, asegurando que el grupo mantiene el nivel de poder esperado para su nivel.
 
-Añade una peculiaridad que **refleje a quien lo otorgó**:
+## Obsequios como Base de Campaña
 
-**Ejemplos:**
-- Un arma que **tararea una melodía** compuesta por la barda que la regaló
-- Una capa que **huele a pétalos de rosa** del jardín de la dríada
-- Un anillo que **brilla con luz verde** cuando está cerca del bosque del treant
-- Un bastón que **susurra consejos** en la voz del archimago mentor
-
----
-
-### 3. Objeto Inteligente (Opcional)
-
-Si la criatura que concede el obsequio es especialmente querida por la mesa, puedes:
-
-**Opción A:** Convertirlo en **objeto inteligente** con parte de su personalidad
-
-**Opción B:** Hacerlo un **conducto** para conversar con ella a distancia
-
-**⚠️ Úsalo con cuidado:**
-- Añade otra PNJ a la interpretación
-- Los objetos inteligentes son **personas**, no posesiones
-- No abuses de esta opción
-
----
-
-## 💰 Contabilización del Tesoro
-
-Aunque los obsequios sean memorables, **contabilízalos** con el método normal de reparto de tesoro.
-
-### Proceso
-
-1. **Regístralos** igual que cualquier otro objeto mágico
-2. **Cuenta su valor** dentro del tesoro del nivel correspondiente
-3. Usa la **tabla Tesoro del grupo por nivel** de la página 59 de *GM Core*
-
-**En la mayoría de campañas**, los obsequios se cuentan dentro del presupuesto de tesoro estándar.
-
----
-
-## 🏛️ Obsequios como Base de Campaña
-
-Si a tu grupo le entusiasman los obsequios, puedes usarlos para **sustituir la mayoría o la totalidad del tesoro** de la campaña.
-
----
+Si a vuestro grupo le entusiasman los obsequios, podéis usarlos para sustituir la mayoría o la totalidad del tesoro de la campaña. En esta variante, establecéis una narrativa donde los pactos y amistades con criaturas sobrenaturales son fundamentales para desbloquear el poder de los objetos mágicos.
 
 ### El Mundo de los Obsequios
 
-En esta variante, estableces una narrativa donde los **pactos y amistades con criaturas sobrenaturales** son fundamentales para desbloquear el poder de los objetos mágicos.
-
-**Consecuencias para el mundo:**
-
-❌ **Saquear objetos** deja de ser una opción (los obsequios no se transfieren mediante violencia)
-
-❌ **Comprarlos en tiendas** deja de ser posible (los obsequios no pueden comerciarse)
-
-✅ **Forjar vínculos** con entidades mágicas se vuelve crucial
-
-✅ **Las relaciones** son la verdadera moneda del poder
-
----
+Este enfoque transforma profundamente el mundo de juego. Saquear objetos deja de ser una opción viable, pues los obsequios no se transfieren mediante violencia. Comprarlos en tiendas tampoco resulta posible, dado que los obsequios no pueden comerciarse como mercancía ordinaria. En cambio, forjar vínculos con entidades mágicas se vuelve crucial, y las relaciones se convierten en la verdadera moneda del poder. Este cambio fundamental requiere que las aventureras cultiven amistades, honren pactos y ganen la confianza de seres sobrenaturales.
 
 ### Ajustes Necesarios
 
-#### 1. Contabilizar los Obsequios
-
-Cuenta los obsequios dentro del tesoro del nivel correspondiente.
-
----
-
-#### 2. Añadir Consumibles Extra
-
-Plantéate añadir algunos **consumibles extra** para compensar la menor flexibilidad.
-
-**Razón:** Sin tiendas ni botín estándar, el grupo tiene menos acceso a consumibles situacionales.
-
----
-
-#### 3. Jardín de Consumibles
-
-Otra alternativa es recompensar a las PJ con un **[jardín de consumibles]({{ '/reglas/artesania/jardines/' | relative_url }})** u opciones similares.
-
----
+Primero, contabilizad los obsequios dentro del tesoro del nivel correspondiente para mantener el balance de poder esperado. Segundo, planteaos añadir algunos consumibles extra para compensar la menor flexibilidad que experimentará el grupo. Sin tiendas ni botín estándar, las aventureras tendrán menos acceso a consumibles situacionales que podrían necesitar en momentos específicos. Como alternativa, considerad recompensar a las personajes con un [jardín de consumibles]({{ '/reglas/artesania/jardines/' | relative_url }}) u opciones similares que generen recursos de manera orgánica.
 
 ### Desbloquear la Artesanía
 
-Si en tu campaña existen criaturas capaces de otorgar dones y las PJ acumulan poder suficiente, podrían usar **Artesanía** para conceder obsequios a sus compañeras.
-
-**Efecto:** Reduce la dependencia de vínculos con entidades mágicas.
-
----
+Si en vuestra campaña existen criaturas capaces de otorgar dones y las personajes acumulan poder suficiente, podrían eventualmente usar la habilidad de Artesanía para conceder obsequios a sus compañeras. Este desarrollo reduce la dependencia de vínculos con entidades mágicas externas y permite que las heroínas se conviertan ellas mismas en donantes de poder.
 
 ### Nivel de Magia en el Mundo
 
-Una campaña donde la mayoría de objetos mágicos son obsequios tenderá a tener:
+Una campaña donde la mayoría de objetos mágicos son obsequios puede desarrollarse en dos direcciones opuestas. En un mundo de baja magia, existirán menos objetos mágicos en general, cada uno de ellos significativo y raro. En este enfoque conviene usar las reglas de progresión automática de bonificadores (*GM Core* 83) y centrarse en obsequios temáticos y significativos que cuenten historias memorables. Por otro lado, en un mundo de alta interconexión, la campaña presenta un grado extremo de conexión entre seres, repleta de criaturas mágicas con las que las heroínas forjan lazos constantemente. En este caso, la red de relaciones define el poder de cada individuo.
 
-**Opción A: Baja Magia**
-- Menos objetos mágicos en general
-- Cada objeto es significativo y raro
-- Usa **reglas de progresión automática de bonificadores** (*GM Core* 83)
-- Céntrate en obsequios **temáticos y significativos**
-
-**Opción B: Alta Interconexión**
-- Grado extremo de interconexión
-- Repleta de criaturas mágicas
-- Las heroínas forjan lazos constantemente
-- La red de relaciones define el poder
-
----
-
-## 📖 Ejemplos de Obsequios
+## Ejemplos de Obsequios
 
 ### Ejemplo 1: La Espada de la Reina
 
-**Donante:** Reina guerrera al borde de la muerte
-
-**Receptor:** Campeón que salvó su reino
-
-**Objeto:** *Espada larga +2 contundente*
-
-**Historia:** La reina entrega su espada ancestral en su lecho de muerte, nombrado a la campeona como su sucesora espiritual.
-
-**Peculiaridad:** La espada brilla con luz dorada cuando defiende al inocente, y la campeona a veces oye consejos tácticos susurrados en la voz de la reina.
-
-**Efecto narrativo:**
-- La campeona se siente obligada a honrar el legado de la reina
-- Los súbditos reconocen la espada y muestran respeto
-- Los enemigos de la reina ven la espada como amenaza
-
----
+Una reina guerrera, al borde de la muerte, entrega su espada ancestral a la campeona que salvó su reino. En su lecho de muerte, la reina nombra a la campeona como su sucesora espiritual, ciñéndole el arma que la acompañó durante décadas de batallas. Esta espada larga +2 contundente brilla con luz dorada cuando defiende al inocente, y la campeona a veces oye consejos tácticos susurrados en la voz de la reina difunta. La campeona se siente obligada a honrar el legado de quien la precedió. Los súbditos reconocen la espada y muestran respeto a su nueva portadora, mientras que los enemigos de la reina ven el arma como una amenaza renovada que creían extinguida.
 
 ### Ejemplo 2: El Manto del Unicornio
 
-**Donante:** Unicornio anciano del bosque
-
-**Receptor:** Druida que purificó su arboleda
-
-**Objeto:** *Capa de resistencia +1*
-
-**Historia:** El unicornio arranca un mechón de su crin plateada y lo teje en una capa etérea que protegerá a la druida.
-
-**Peculiaridad:** La capa brilla con luz lunar y los animales del bosque nunca atacan a quien la porta. Las criaturas feéricas la reconocen como señal del favor del unicornio.
-
-**Efecto narrativo:**
-- Las criaturas del bosque ayudan a la druida
-- Otras cortes feéricas muestran respeto
-- La druida siente la presencia del unicornio en momentos críticos
-
----
+Un unicornio anciano del bosque, agradecido con la druida que purificó su arboleda de una corrupción maligna, arranca un mechón de su crin plateada y lo teje en una capa etérea que protegerá a su benefactora. Esta capa de resistencia +1 brilla con luz lunar, y los animales del bosque nunca atacan a quien la porta. Las criaturas feéricas la reconocen como señal del favor del unicornio, y las cortes feéricas muestran respeto a la druida dondequiera que viaje. En momentos críticos, la druida siente la presencia reconfortante del unicornio, como si el noble ser estuviera observando y velando por ella desde la distancia.
 
 ### Ejemplo 3: El Anillo del Dragón
 
-**Donante:** Dragón de bronce sabio
+Un dragón de bronce sabio, impresionado por la maga que resolvió su acertijo ancestral, entrega una de sus escamas transformada en anillo e imbuida con fragmentos de su conocimiento arcano. Este anillo de protección +1 susurra advertencias en dracónico cuando detecta peligro cercano. Una vez por semana, la maga puede hacer preguntas al dragón a través del anillo, convirtiéndolo en un conducto para una relación continua. Otros dragones reconocen la escama y respetan a su portadora como alguien digno de la amistad de uno de los suyos, lo que abre puertas diplomáticas que de otro modo permanecerían cerradas.
 
-**Receptor:** Maga que resolvió su acertijo ancestral
-
-**Objeto:** *Anillo de protección +1*
-
-**Historia:** El dragón entrega una escama transformada en anillo, imbuida con fragmentos de su conocimiento arcano.
-
-**Peculiaridad:** El anillo susurra advertencias en dracónico cuando detecta peligro. La maga puede hacer preguntas al dragón una vez por semana a través del anillo.
-
-**Efecto narrativo:**
-- La maga gana acceso a la sabiduría del dragón
-- Otros dragones reconocen la escama y respetan a la portadora
-- El anillo es un conducto para una relación continua
-
----
-
-## 💡 Consejos para el DJ
+## Consejos para el Director de Juego
 
 ### Timing del Obsequio
 
-**Buenos momentos:**
-- ✅ Tras completar una misión significativa
-- ✅ Al salvar la vida del donante
-- ✅ Después de un sacrificio heroico
-- ✅ Al demostrar valores que el donante aprecia
-- ✅ Como parte de un ritual de paso
-
-**Malos momentos:**
-- ❌ Al azar sin contexto
-- ❌ Como soborno o manipulación
-- ❌ Sin construcción de relación previa
-
----
+El momento en que se otorga un obsequio resulta crucial para su impacto narrativo. Los buenos momentos incluyen tras completar una misión significativa, al salvar la vida del donante, después de un sacrificio heroico, al demostrar valores que el donante aprecia profundamente, o como parte de un ritual de paso. Por el contrario, otorgar un obsequio al azar sin contexto, como soborno o manipulación, o sin construcción de relación previa, desperdicia el potencial dramático del momento y puede hacer que el obsequio se sienta vacío o artificial.
 
 ### Construir la Relación
 
-El obsequio debería ser el **culminación de una relación**, no el inicio:
-
-1. **Presentación:** Las PJ conocen al donante potencial
-2. **Interacciones:** Varias escenas construyendo la relación
-3. **Prueba:** El donante observa el carácter de las PJ
-4. **Momento crítico:** Las PJ ayudan al donante o demuestran su valor
-5. **Obsequio:** El donante entrega el objeto con ceremonia
-
----
+El obsequio debería ser la culminación de una relación, no su inicio. La estructura ideal comprende cinco fases. Primero, las personajes conocen al donante potencial en una presentación memorable. Luego, varias escenas van construyendo la relación gradualmente, permitiendo que ambas partes se conozcan. Durante esta fase, el donante observa el carácter de las personajes, evaluando su valía sin que necesariamente lo sepan. Un momento crítico donde las personajes ayudan al donante o demuestran su valor precipita finalmente la entrega del obsequio, que el donante presenta con ceremonia apropiada.
 
 ### Ceremonias de Entrega
 
-Haz que la **entrega sea memorable**:
+Haced que la entrega sea memorable. Una ceremonia ritual o tradicional proporciona estructura y solemnidad. Las palabras significativas del donante explican el peso y el significado del obsequio. Un efecto mágico visible marca el momento de la transferencia de poder. La presencia de testigos importantes da fe del evento y lo convierte en algo más que un intercambio privado. Música o cánticos pueden subrayar la trascendencia del momento, creando un instante emotivo que permanecerá en la memoria.
 
-**Elementos sugeridos:**
-- 🎭 Ceremonia ritual o tradicional
-- 🗣️ Palabras significativas del donante
-- ✨ Efecto mágico visible
-- 👥 Testigos importantes
-- 🎵 Música o cánticos
-- 🌟 Momento emotivo
-
-**Ejemplo:**
-> "La Reina Feérica te guía al corazón de su arboleda, donde un antiguo roble brilla con luz de las estrellas. Con movimientos ceremoniales, teje enredaderas vivas en torno a tu torso, susurrando en silvano. Las enredaderas se fusionan en una armadura perfecta que resplandece con rocío mágico. Los súbditos feéricos cantan en círculo, y sientes el peso del favor ancestral posándose sobre ti."
-
----
+Considerad este ejemplo: "La Reina Feérica te guía al corazón de su arboleda, donde un antiguo roble brilla con luz de las estrellas. Con movimientos ceremoniales, teje enredaderas vivas en torno a tu torso, susurrando en silvano. Las enredaderas se fusionan en una armadura perfecta que resplandece con rocío mágico. Los súbditos feéricos cantan en círculo, y sientes el peso del favor ancestral posándose sobre ti."
 
 ### Balance de Poder
 
-**Regla de oro:** Los obsequios no deberían proporcionar más poder que el tesoro estándar.
-
-**Formas de mantener el balance:**
-1. Cuenta el obsequio en el presupuesto de tesoro
-2. No añadas capacidades extra sin reducir algo más
-3. Las peculiaridades deben ser **narrativas**, no mecánicas (o solo bonificadores menores)
-
----
+La regla de oro es simple: los obsequios no deberían proporcionar más poder que el tesoro estándar. Para mantener el balance, contad el obsequio en el presupuesto de tesoro del nivel correspondiente. No añadáis capacidades extra sin reducir algo más, manteniendo el poder total dentro de los parámetros esperados. Las peculiaridades que añadís deben ser principalmente narrativas, no mecánicas, o proporcionar solo bonificadores menores que no desequilibren los encuentros.
 
 ### Perder un Obsequio
 
-¿Qué pasa si el obsequio se pierde, destruye o es robado?
+La pregunta de qué sucede si el obsequio se pierde, destruye o es robado abre varias posibilidades dramáticas. El vínculo entre donante y receptor podría llamar al objeto de vuelta, similar a los cuervos de Odín que siempre retornan. Alternativamente, el donante podría crear un nuevo obsequio si la personaje todavía lo merece, aunque esto requiere renovar los votos o demostrar que el vínculo permanece fuerte. En un tercer enfoque más dramático, la pérdida es permanente, creando drama narrativo y consecuencias reales para la negligencia. Finalmente, podéis diseñar una misión específica para recuperar o reparar el obsequio, transformando la pérdida en el gancho de una nueva aventura.
 
-**Opciones:**
-
-**Opción A:** El vínculo llama al objeto de vuelta (como un cuervo de Odín)
-
-**Opción B:** El donante puede crear un nuevo obsequio si la PJ lo merece aún
-
-**Opción C:** La pérdida es permanente, creando drama narrativo
-
-**Opción D:** Una misión para recuperar/reparar el obsequio
-
----
-
-## 🔗 Ver También
+## Ver También
 
 - [Jardines Maravillosos]({{ '/reglas/artesania/jardines/' | relative_url }})
 - [Cultivar Objetos]({{ '/reglas/artesania/cultivar/' | relative_url }})

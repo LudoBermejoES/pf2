@@ -14,339 +14,115 @@ source: Treasure Vault
 
 Muchas piezas mágicas encontradas por personajes de nivel alto jamás se usan: terminan olvidadas en el fondo de una mochila, se venden de inmediato para financiar la compra de algo más adecuado, o se destruyen por ser demasiado perversas para venderlas.
 
-Esta variante ofrece a las jugadoras otra opción: **desmontar objetos** y reciclar sus partes para crear otros nuevos.
+Esta variante ofrece a las jugadoras otra opción: desmontar objetos y reciclar sus partes para crear otros nuevos.
 
----
+## Por Qué Usar Este Sistema
 
-## 🎯 Por Qué Usar Este Sistema
+Los aventureros a menudo se encuentran con tesoros que, aunque valiosos, resultan inútiles para sus necesidades. Esta acumulación de objetos no deseados crea varios problemas: el tesoro se desperdicia al no utilizarse, la Directora de Juego pierde la capacidad de calcular con precisión la riqueza real del grupo, y los encuentros pueden desequilibrarse cuando se subestima el poder del grupo. Los objetos de naturaleza maligna presentan un dilema particular, pues no pueden venderse con ética pero conservan un valor intrínseco considerable.
 
-### Problemas que Resuelve
+El sistema de conversión resuelve estas dificultades permitiendo que todo botín encontrado conserve su utilidad. Los objetos pueden reciclarse en lugar de abandonarse, el cálculo del tesoro del grupo se simplifica notablemente, y los aventureros ganan la capacidad de transformar objetos temáticamente relacionados en herramientas que realmente necesitan.
 
-❌ **Tesoro desperdiciado:** Objetos mágicos que nadie usará
-
-❌ **Dificultad de balance:** La DJ no puede calcular la riqueza real del grupo
-
-❌ **Encuentros descompensados:** Por errores en el cálculo de riqueza
-
-❌ **Objetos malignos:** Piezas que no pueden venderse pero tienen valor
-
-### Beneficios
-
-✅ Recicla objetos no útiles
-
-✅ Simplifica el cálculo de tesoro del grupo
-
-✅ Da valor a todo el botín encontrado
-
-✅ Permite transformar objetos temáticamente similares
-
----
-
-## 🛠️ La Actividad Desmontar
+## La Actividad Desmontar
 
 ### DESMONTAR <span class="trait">Raro</span> <span class="trait">Inactividad</span>
 
 Desmontas un objeto para convertirlo en el punto de partida del siguiente.
 
-**Requisitos:**
-- La dote **Artesanía Alquímica** (para objetos alquímicos)
-- O la dote **Artesanía Mágica** (para objetos mágicos)
+**Requisitos:** La dote Artesanía Alquímica para objetos alquímicos, o la dote Artesanía Mágica para objetos mágicos.
 
----
+## Requisitos para Desmontar
 
-## 📋 Requisitos para Desmontar
+El proceso de desmontaje exige una serie de condiciones que deben cumplirse simultáneamente. El artesano debe poseer la experiencia necesaria para trabajar con objetos de la complejidad apropiada: el objeto debe ser de su nivel o inferior, considerándose que los objetos sin nivel son de nivel 0. Para objetos de nivel 9 a 15, se requiere ser maestra en Artesanía; para objetos de nivel 16 o superior, se exige competencia legendaria.
 
-Debes cumplir TODOS estos requisitos:
+No todos los objetos son aptos para el desmontaje. Los objetos malditos resisten toda manipulación segura, los artefactos contienen poderes que no pueden reconstruirse, y aquellos objetos particularmente difíciles de destruir por medios convencionales también se resisten al desmontaje. Los consumibles, por su naturaleza efímera, no pueden reciclarse. Además, el objeto debe tener un precio indicado en sus estadísticas.
 
-### 1. Nivel del Objeto
+El artesano debe disponer del conjunto de herramientas apropiado y, en muchos casos, de un taller especializado. Una herrería permite trabajar con escudos metálicos y armaduras, mientras que los objetos alquímicos requieren un laboratorio equipado. Los objetos de madera demandan un taller de carpintería, y los amuletos y anillos exigen una mesa de joyería con las herramientas precisas para manipular gemas y metales preciosos.
 
-- El objeto es de **tu nivel o inferior**
-- Un objeto sin nivel es de **nivel 0**
+## Decidir el Uso de los Componentes
 
-**Competencia requerida:**
-- Nivel 9–15: Ser **maestra** en Artesanía
-- Nivel 16+: Ser **legendaria** en Artesanía
+Al iniciar el proceso de desmontaje, el artesano debe tomar una decisión fundamental sobre el destino de los componentes recuperados. Esta elección determinará tanto el valor que puede extraerse del objeto como la flexibilidad de uso futuro.
 
----
+La primera opción consiste en crear inmediatamente un objeto temáticamente similar. Esta vía ofrece el mayor retorno de valor, permitiendo recuperar entre el 75% y el 80% del coste original según el éxito de la prueba. Además, el día invertido en el desmontaje cuenta como uno de los días requeridos para la fabricación del nuevo objeto, acelerando significativamente el proceso. Sin embargo, esta opción exige que el objeto resultante mantenga una relación temática clara con el original.
 
-### 2. Tipo de Objeto Válido
+La segunda opción transforma el objeto en materias primas genéricas que pueden almacenarse para uso posterior. Aunque el valor recuperado es menor, entre el 50% y el 55% del coste, estos componentes pueden aplicarse a cualquier objeto único en el futuro, proporcionando una flexibilidad considerable al artesano que prefiere planificar sus creaciones a largo plazo.
 
-El objeto **NO puede ser:**
-- ❌ Maldito
-- ❌ Artefacto
-- ❌ Difícil de destruir por otros medios
-- ❌ Consumible
+## Qué es Temáticamente Similar
 
----
+La Directora de Juego determina si dos objetos mantienen una relación temática suficiente para justificar la conversión directa. Los objetos deben compartir habilidades fundamentales o una temática general que los vincule conceptualmente.
 
-### 3. Precio Indicado
+Una corona de intelecto puede transformarse en un turbante de sabiduría, pues ambos mejoran atributos mentales. Un instrumento de maestro moderado comparte suficientes características con un cuerno de exorcismo para permitir la conversión, siendo ambos instrumentos musicales imbuidos de magia. Las armas de una misma categoría, como una espada larga y una espada bastarda, ambas con bonificador de objeto, son claramente compatibles. Del mismo modo, las armaduras pueden reconvertirse entre sí cuando comparten bonificadores similares, permitiendo transformar una armadura de cuero en una cota de mallas. Una varita de bola de fuego contiene suficiente afinidad elemental con un bastón de fuego para facilitar la conversión.
 
-El objeto debe tener un **Precio indicado** en sus estadísticas.
+Por el contrario, una varita de bola de fuego y un anillo de invisibilidad representan temas completamente divergentes que no pueden reconciliarse. Las categorías fundamentalmente distintas, como intentar convertir una espada larga en armadura de cuero, tampoco permiten la conversión. Las ganzúas magníficas y un bastón arcano carecen de cualquier relación temática que justifique el proceso.
 
----
+## Tiempo y Proceso
 
-### 4. Herramientas y Taller
+La actividad de desmontaje requiere un día completo de trabajo concentrado. Si el artesano decide fabricar inmediatamente un objeto similar, este día cuenta como uno de los días de artesanía requeridos para completar el nuevo objeto, integrando el desmontaje perfectamente en el flujo de trabajo creativo.
 
-Debes contar con:
-- **Conjunto de herramientas apropiado**
-- Y en muchos casos, un **taller especializado**
+Al finalizar el proceso, el artesano debe realizar una prueba de Artesanía. La Directora de Juego establece la Clase de Dificultad considerando el nivel del objeto, su rareza y las circunstancias particulares del desmontaje. Objetos más poderosos y raros naturalmente presentan mayores desafíos al artesano que intenta descomponerlos sin destruir su esencia mágica.
 
-**Ejemplos:**
-- 🔨 Herrería: Para desmontar escudo metálico
-- ⚗️ Laboratorio de alquimia: Para objetos alquímicos
-- 🪵 Carpintería: Para objetos de madera
-- 💎 Mesa de joyería: Para amuletos y anillos
+## Resultados de Desmontar
 
----
+Un éxito crítico permite recuperar el 80% del coste del objeto al crear uno similar, o el 55% al reducirlo a materias primas genéricas. Cualquier valor que exceda el coste del nuevo objeto se pierde inevitablemente, pues representa retales demasiado pequeños o fragmentados para conservar utilidad.
 
-## ⚖️ Decidir el Uso de los Componentes
+Un éxito simple recupera el 75% del coste para objetos similares o el 50% para materias primas genéricas. Aunque menos eficiente que un éxito crítico, este resultado aún proporciona un retorno considerable de la inversión original.
 
-Al iniciar el proceso, decide:
+El fallo impide desensamblelar el objeto, y el día de trabajo se pierde sin resultados. Sin embargo, el artesano puede volver a intentarlo sin penalización adicional, habiendo aprendido de los errores del primer intento.
 
-### Opción A: Crear Objeto Similar (Inmediatamente)
+Un fracaso crítico daña el objeto durante el proceso. El artesano enfrenta entonces una decisión: puede reparar el objeto antes de intentar desmontarlo nuevamente, o puede continuar trabajando con la pieza dañada, aceptando una pérdida del 5% de su valor total.
 
-**Ventajas:**
-- Recuperas **75-80%** del coste (más valor)
-- Ese día cuenta como día de artesanía del nuevo objeto
+## Gestión de Componentes Almacenados
 
-**Requisito:** El nuevo objeto debe ser **temáticamente similar**
+Los componentes extraídos de diferentes objetos no pueden mezclarse entre sí. Cada conjunto de componentes conserva las propiedades únicas del objeto original, y combinarlos resultaría en una amalgama inestable sin valor práctico. Cualquier valor sobrante después de aplicar los componentes a un nuevo objeto se pierde, representando retales y fragmentos demasiado pequeños para reutilizarse.
 
----
+Los componentes almacenados mantienen la misma Carga que el objeto original, requiriendo espacio físico proporcional para su almacenamiento adecuado. La Directora de Juego puede opcionalmente imponer una fecha de caducidad a componentes particularmente delicados o volátiles, aunque normalmente esto no será necesario para la mayoría de materiales mágicos.
 
-### Opción B: Materias Primas Genéricas (Más Tarde)
-
-**Ventajas:**
-- Puedes guardar los componentes para después
-- Úsalos en **un único objeto** futuro (cualquiera)
-
-**Valor recuperado:** 50-55% del coste
-
----
-
-## 🎨 ¿Qué es "Temáticamente Similar"?
-
-La DJ decide si el nuevo objeto es lo bastante similar. Debe compartir **habilidades o temática general**.
-
-### Ejemplos Válidos
-
-✅ **Corona de intelecto** → **Turbante de sabiduría**
-(Ambos mejoran atributos mentales)
-
-✅ **Instrumento de maestro moderado** → **Cuerno de exorcismo**
-(Ambos son instrumentos musicales mágicos)
-
-✅ **Espada larga +1** → **Espada bastarda +1**
-(Ambas son armas cuerpo a cuerpo con bonificador de objeto)
-
-✅ **Armadura de cuero +1** → **Cota de mallas +1**
-(Ambas son armaduras con bonificador de objeto)
-
-✅ **Varita de bola de fuego** → **Bastón de fuego**
-(Ambos canalizan magia de fuego)
-
-### Ejemplos No Válidos
-
-❌ **Varita de bola de fuego** → **Anillo de invisibilidad**
-(Temas completamente diferentes)
-
-❌ **Espada larga +1** → **Armadura de cuero +1**
-(Categorías diferentes: arma vs armadura)
-
-❌ **Ganzúas magníficas** → **Bastón arcano**
-(Sin relación temática)
-
----
-
-## ⏱️ Tiempo y Proceso
-
-### Duración
-
-La actividad tarda **1 día**.
-
-- Si vas a fabricar de inmediato el objeto similar, ese día cuenta como uno de los días de artesanía requeridos para el nuevo objeto.
-
----
-
-### Prueba de Artesanía
-
-Al terminar debes realizar una **prueba de Artesanía**.
-
-**CD:** La DJ fija la CD en función del:
-- Nivel del objeto
-- Rareza
-- Circunstancias
-
----
-
-## ✅ Resultados de Desmontar
-
-### Éxito Crítico
-
-#### Si creas objeto similar:
-Puedes aplicar el **80% del coste** del objeto desmontado al nuevo objeto.
-
-#### Si reduces a materias primas:
-Puedes aplicar el **55% del coste** a un solo objeto futuro.
-
-**Exceso:** Se pierde (son retales inutilizables).
-
----
-
-### Éxito
-
-#### Si creas objeto similar:
-Puedes aplicar el **75% del coste** del objeto desmontado.
-
-#### Si reduces a materias primas:
-Puedes aplicar el **50% del coste** a un solo objeto futuro.
-
----
-
-### Fallo
-
-No logras desensamblar el objeto y **pierdes el día**.
-
-✅ Puedes intentar de nuevo.
-
----
-
-### Fracaso Crítico
-
-Fallas y **dañas el objeto**.
-
-**Opciones:**
-- Repararlo antes de volver a intentarlo
-- Seguir desmontándolo, pero pierdes un **5% de su valor**
-
----
-
-## 🔄 Gestión de Componentes Almacenados
-
-### Reglas Importantes
-
-1. **No mezclar:** Los componentes de diferentes objetos desmontados **no pueden mezclarse**
-
-2. **Sobrantes perdidos:** Si sobra valor tras crear el nuevo objeto, se pierde (son retales)
-
-3. **Misma Carga:** El objeto desmontado conserva la **misma Carga** que el original
-
-4. **Caducidad (opcional):** La DJ puede imponer una "fecha de caducidad" a componentes almacenados, aunque normalmente no será necesario
-
----
-
-## 📊 Ejemplos Completos
+## Ejemplos Completos
 
 ### Ejemplo 1: Transformar Arma en Arma Similar
 
-**Personaje:** Guerrera de nivel 8, maestra en Artesanía (+17)
+Una guerrera de nivel 8, maestra en Artesanía con bonificador de +17, encuentra una maza pesada +1 contundente valorada en 40 po. Aunque poderosa, la maza no se ajusta a su estilo de combate centrado en espadas. Decide desmontarla para crear una espada larga +1 contundente del mismo valor.
 
-**Situación:** Encuentra una *maza pesada +1 contundente* (40 po) pero usa espadas
-
-**Plan:** Desmontar la maza y crear una *espada larga +1 contundente* (40 po)
-
-**Proceso:**
-1. Invierte 1 día desmontando en su herrería
-2. Tira Artesanía CD 18: obtiene 26 (éxito crítico)
-3. Recupera 32 po del valor de la maza (80%)
-4. Ese día cuenta como primer día de artesanía de la espada
-5. Ya ha pagado 32 po de los 40 po totales
-6. Paga 8 po adicionales en materias primas
-7. Trabaja 2 días más para reducir el coste restante
-8. **Resultado:** Nueva *espada larga +1 contundente* por solo 8 po extra
-
----
+Invierte un día completo en su herrería, trabajando cuidadosamente para preservar los encantamientos. Realiza su prueba de Artesanía contra CD 18 y obtiene un 26, un éxito crítico que le permite recuperar 32 po del valor original (el 80%). Este primer día cuenta como el inicio de la fabricación de la espada larga. Habiendo cubierto ya 32 po de los 40 necesarios, paga 8 po adicionales en materias primas y trabaja dos días más para completar el proceso. El resultado final es una espada larga +1 contundente que solo le ha costado 8 po adicionales más allá del objeto encontrado.
 
 ### Ejemplo 2: Guardar Componentes para Después
 
-**Personaje:** Maga de nivel 10, legendaria en Artesanía (+22)
+Una maga de nivel 10, legendaria en Artesanía con bonificador de +22, encuentra un bastón de curación valorado en 60 po. Aunque útil, no se ajusta a sus necesidades inmediatas. Decide desmontarlo y almacenar los componentes para un proyecto futuro.
 
-**Situación:** Encuentra un *bastón de curación* (60 po) pero no lo necesita ahora
-
-**Plan:** Desmontarlo y guardar los componentes para un futuro bastón arcano
-
-**Proceso:**
-1. Invierte 1 día en su laboratorio
-2. Tira Artesanía CD 20: obtiene 24 (éxito)
-3. Recupera 30 po en componentes mágicos genéricos (50%)
-4. Guarda los componentes en frascos etiquetados
-5. **Más tarde (nivel 12):** Quiere crear un *bastón de bola de fuego* (360 po)
-6. Usa los 30 po guardados como materias primas
-7. Paga 150 po adicionales (la mitad de 360 – 30)
-8. **Ahorro:** 30 po gracias a los componentes guardados
-
----
+Invierte un día en su laboratorio arcano, realizando una prueba de Artesanía contra CD 20 y obteniendo un 24, un éxito sólido. Recupera 30 po en componentes mágicos genéricos (el 50% del valor), que guarda cuidadosamente en frascos etiquetados. Más adelante, cuando alcanza el nivel 12, decide crear un bastón de bola de fuego valorado en 360 po. Utiliza los 30 po de componentes guardados como materias primas, pagando 150 po adicionales (la mitad de 360 menos 30). Los componentes almacenados le han ahorrado exactamente 30 po en el proceso.
 
 ### Ejemplo 3: Múltiples Desmontajes para Gran Objeto
 
-**Personaje:** Herrero enano de nivel 14, legendario en Artesanía (+26)
+Un herrero enano de nivel 14, legendario en Artesanía con bonificador de +26, ha acumulado cuatro armas +2 que su grupo no utiliza, cada una valorada en 340 po. Desea crear una espada larga +3 de mayor contundente valorada en 1,500 po, y decide desmontar las cuatro armas para reducir drásticamente el coste.
 
-**Situación:** Ha acumulado 4 armas +2 no útiles (340 po cada una) y quiere una *espada larga +3 de mayor contundente* (1,500 po)
+Desmonta la primera arma con éxito simple, recuperando 255 po (75%). La segunda resulta en un éxito crítico, proporcionando 272 po (80%). Las tercera y cuarta armas producen éxitos simples, añadiendo 255 po cada una. El total recuperado alcanza 1,037 po en componentes temáticamente similares. Paga solo 713 po adicionales para completar la espada +3, obteniendo un arma poderosa por menos de la mitad de su coste original. El proceso completo requiere cuatro días de desmontaje más los días normales de artesanía para la fabricación.
 
-**Plan:** Desmontar las 4 armas y usar todos los componentes
-
-**Proceso:**
-1. **Arma 1:** Desmonta, éxito → 255 po (75%)
-2. **Arma 2:** Desmonta, éxito crítico → 272 po (80%)
-3. **Arma 3:** Desmonta, éxito → 255 po (75%)
-4. **Arma 4:** Desmonta, éxito → 255 po (75%)
-5. **Total recuperado:** 1,037 po en componentes similares
-6. Paga solo 713 po adicionales para la espada +3
-7. **Resultado:** Espada +3 por menos de la mitad de su coste
-8. **Tiempo:** 4 días de desmontaje + días normales de artesanía
-
----
-
-## 💡 Consejos para el DJ
+## Consejos para la Directora de Juego
 
 ### Balance del Tesoro
 
-Este sistema **no debería** otorgar más riqueza al grupo, solo reciclarla de forma más eficiente.
-
-**Recomendación:** Contabiliza los objetos desmontados como parte del tesoro del nivel, restando su valor del tesoro futuro.
-
----
+Este sistema no debería otorgar más riqueza al grupo, sino simplemente permitir su reciclaje de forma más eficiente. La Directora de Juego debe contabilizar los objetos desmontados como parte del tesoro del nivel correspondiente, restando su valor del tesoro futuro que planea distribuir. De este modo, el sistema recompensa la inversión de tiempo y habilidad sin desequilibrar la economía de la campaña.
 
 ### Objetos Únicos
 
-Para objetos especialmente raros o únicos, considera:
-- Aumentar la CD del desmontaje
-- Requerir herramientas especiales
-- Pedir conocimientos específicos (prueba de Recordar información)
-
----
+Los objetos especialmente raros o únicos pueden requerir consideraciones adicionales. La Directora de Juego puede aumentar la Clase de Dificultad del desmontaje para reflejar su complejidad extraordinaria, exigir herramientas especiales que el artesano deba adquirir o fabricar, o pedir pruebas de Recordar información para comprender los principios arcanos que sustentan su construcción antes de intentar desmontarlos.
 
 ### Objetos Malditos
 
-Los objetos malditos **no pueden desmontarse** por seguridad. Sin embargo, podrías permitir:
-- Una misión para purificar el objeto primero
-- O un ritual especial para neutralizar la maldición
-
----
+Los objetos malditos no pueden desmontarse con seguridad, pues la maldición permea cada componente. Sin embargo, esto puede convertirse en una oportunidad narrativa. La Directora de Juego podría permitir el desmontaje después de una misión para purificar el objeto, o mediante un ritual especial que neutralice la maldición sin destruir completamente el valor intrínseco del objeto.
 
 ### Crear Economía de Objetos
 
-Este sistema puede crear un mercado dinámico:
-- PNJ artesanos que compran objetos para desmontar
-- Talleres especializados en reciclaje mágico
-- Gremios de artesanos que intercambian componentes
+Este sistema puede enriquecer el mundo de juego con una economía dinámica de objetos mágicos. Personajes no jugadores artesanos pueden comprar objetos específicamente para desmontarlos, talleres especializados pueden dedicarse al reciclaje mágico como negocio, y gremios de artesanos pueden establecer redes de intercambio de componentes, creando nuevas oportunidades de interpretación e interacción con el mundo.
 
----
-
-## ⚠️ Limitaciones y Abusos
+## Limitaciones y Abusos
 
 ### Evitar Abusos
 
-❌ **No permitir:** Comprar objetos baratos, desmontarlos y venderlos por más
+La Directora de Juego debe prevenir ciertos abusos potenciales del sistema. No debe permitirse que los jugadores compren objetos baratos, los desmonten y vendan los componentes por más valor, pues los componentes genéricos representan piezas sueltas y fragmentos que los comerciantes ordinarios no comprarían fácilmente, a diferencia de objetos terminados y funcionales.
 
-**Solución:** Los componentes genéricos no pueden venderse fácilmente (son piezas sueltas, no objetos terminados)
+Tampoco debe permitirse la acumulación ilimitada de componentes de docenas de objetos. La Directora de Juego puede imponer límites de almacenamiento razonables, establecer caducidad para ciertos componentes particularmente volátiles, o simplemente recordar que el espacio disponible para transportar frascos, cajas y contenedores de componentes es finito, incluso para aventureros experimentados.
 
-❌ **No permitir:** Acumular componentes de docenas de objetos
-
-**Solución:** Límite de almacenamiento, caducidad de componentes, o espacio limitado
-
----
-
-## 🔗 Ver También
+## Ver También
 
 - [Artesanía Compleja]({{ '/reglas/artesania/compleja/' | relative_url }})
 - [Elaborar (Reglas Básicas)]({{ '/reglas/actividades-tiempo-libre/elaborar/' | relative_url }})

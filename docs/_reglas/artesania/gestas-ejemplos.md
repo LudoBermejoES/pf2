@@ -8,11 +8,7 @@ nav_order: 121
 source: Treasure Vault
 ---
 
-A continuación encontrarás varias gestas que muestran la [artesanía basada en la historia]({{ '/reglas/artesania/historia/' | relative_url }}) en acción.
-
-Este sistema funciona mejor cuando se adapta a cada grupo, pero estas gestas sirven como **ejemplo de cómo montar y dirigir** una misión de artesanía. Incluso puedes modificarlas e introducirlas en una partida de nivel adecuado para:
-- Rellenar una sesión
-- Permitir que tu mesa pruebe este estilo antes de comprometerse con una campaña más larga
+Las gestas presentadas a continuación ilustran la [artesanía basada en la historia]({{ '/reglas/artesania/historia/' | relative_url }}) aplicada a aventuras memorables. Cada una de estas pruebas puede adaptarse a las necesidades particulares de tu campaña, sirviendo tanto para llenar sesiones como para permitir que los jugadores experimenten este estilo narrativo antes de comprometerse con una historia más extensa.
 
 ---
 
@@ -29,88 +25,37 @@ Este sistema funciona mejor cuando se adapta a cada grupo, pero estas gestas sir
 
 ---
 
-### Configuración de la Gesta
+### La Prueba
 
-James decide que Logan deberá recuperar **tres piezas del martillo**:
-- El asta
-- La cabeza
-- La perilla
-
-**Cálculo del coste:**
-- Precio base: 4,500 po
-- Reducción: 3 encuentros × 10% = 30%
-- **Coste final:** 3,150 po
-- **Valor por pieza:** 1,050 po
+La leyenda habla de un martillo sagrado desmembrado hace generaciones, cuyas tres piezas —el asta, la cabeza y la perilla— fueron dispersadas por todo el reino. Logan deberá recuperar cada fragmento para restaurar el poder del arma. El coste del *blessed reformer* (4,500 po) se reduce en función de los tres encuentros necesarios para completar la gesta, estableciéndose en 3,150 po. Cada componente representa un valor aproximado de 1,050 po en materiales y tesoros recuperados.
 
 ---
 
-### Encuentro 1: Recuperar el Asta
+### El Asta en las Profundidades
 
-**Enemigos:** Par de liches (*Monster Core* 219)
-
-**Dificultad:** Baja (para grupo de nivel 13)
-- Cada lich (nivel 12) = 30 PX
-- Total: 60 PX
-
-**Valor del encuentro:** 1,875 po
-
-**Tesoro:**
-- Asta del *blessed reformer*: 1,050 po
-- Consumibles y tesoros menores: 825 po
-
-**Narrativa:**
-
-> "Los liches guardan el asta en las profundidades de su necrópolis. El metal sagrado brilla incluso en la oscuridad, repeliendo su magia profana."
+En las entrañas de una necrópolis olvidada, dos liches guardan el asta del martillo sagrado. El metal bendito brilla incluso en la más absoluta oscuridad, repeliendo con su mera presencia la magia profana que impregna el lugar. Este encuentro, considerado de dificultad baja para un grupo de nivel 13 (60 PX totales, con cada lich aportando 30 PX), ofrece un tesoro valorado en 1,875 po: el asta misma (1,050 po) junto con diversos consumibles y tesoros menores (825 po) acumulados por los muertos vivientes a lo largo de los siglos.
 
 ---
 
-### Encuentro 2: Liberar la Perilla
+### La Perilla Enana
 
-**Peligro:** Cuatro trampas de enjambre telequinético (complejas, nivel 12)
+Tras atravesar un laberinto de túneles retorcidos y medio derruidos, el grupo alcanza una cámara acorazada enana abandonada hace generaciones. La perilla del martillo descansa en un pedestal central, rodeada de tesoros que brillan a la luz de las antorchas. Cuando el campeón extiende la mano para reclamarla, los objetos dispuestos a lo largo de las cuatro paredes cobran vida: cuatro trampas de enjambre telequinético, complejas construcciones de nivel 12 creadas por maestros herreros enanos que hace mucho abandonaron este mundo.
 
-**Dificultad:** Grave (para grupo de nivel 13)
-
-**Ubicación:** Cámara acorazada enana abandonada, tras un laberinto de túneles retorcidos
-
-**Valor del encuentro:** 3,750 po
-
-**Tesoro:**
-- Perilla del *blessed reformer*: 1,050 po
-- Componentes para otras gestas del grupo: 1,500 po
-- Consumibles y obras de arte: 1,200 po
-
-**Narrativa:**
-
-> "Cuando el campeón toma la perilla, los tesoros dispuestos a lo largo de las cuatro paredes cobran vida—trampas diseñadas por maestros herreros enanos hace siglos."
-
-**Subida de nivel:** El grupo sube a nivel 14 antes del encuentro final.
+Este encuentro, de dificultad grave para un grupo de nivel 13, ofrece recompensas sustanciales por un valor total de 3,750 po: la perilla misma (1,050 po), componentes útiles para futuras gestas del grupo (1,500 po) y diversos consumibles y obras de arte enanas (1,200 po). Tras completar esta prueba, el grupo alcanza el nivel 14, preparándose para la confrontación final.
 
 ---
 
-### Encuentro 3: Restaurar la Hoja
+### La Hoja del Dragón
 
-**Enemigo:** Sharzathinek, dragona negra anciana (nivel 16)
+La hoja del martillo sagrado permanece incrustada entre las escamas de Sharzathinek, una dragona negra anciana de nivel 16. Hace décadas, la bestia arrancó este trofeo del cuerpo de un paladín caído, y desde entonces lo porta como símbolo de su victoria sobre la luz divina. Solo derrotando a la dragona podrá Logan reclamar el último fragmento del martillo.
 
-**Dificultad:** Moderada (para grupo de nivel 14)
-
-**Valor del encuentro:** 3,650 po
-
-**Tesoro:**
-- Hoja del *blessed reformer*: 1,050 po
-- Componentes para otras gestas: 1,800 po
-- Tesoro del dragón: 800 po
-
-**Narrativa:**
-
-> "La hoja del martillo sagrado sigue incrustada entre las escamas de la dragona, un trofeo que arrancó de un paladín hace décadas. Solo matando a la bestia podrá recuperarse."
+Este encuentro, de dificultad moderada para un grupo de nivel 14, ofrece un tesoro valorado en 3,650 po: la hoja misma (1,050 po), componentes útiles para futuras gestas (1,800 po) y el tesoro acumulado por la dragona a lo largo de los siglos (800 po).
 
 ---
 
-### Forjar el Objeto
+### La Restauración
 
-Con la dragona muerta, Logan reclama la hoja como su parte del tesoro. La magia de los componentes, despertada por la gesta sagrada del campeón, hace que las piezas vuelvan a soldarse.
-
-**Resultado:** El *blessed reformer* queda completo, simbolizando el cumplimiento de una misión sagrada.
+Con la dragona muerta y la hoja reclamada, Logan sostiene los tres fragmentos del martillo. La magia dormida en cada componente despierta al sentir la proximidad de sus hermanas, y las piezas se sueldan entre sí por voluntad propia, respondiendo a la pureza de la gesta sagrada del campeón. El *blessed reformer* queda completo, un símbolo tangible del cumplimiento de una misión divina y testimonio del poder que nace cuando se unen fe, coraje y determinación.
 
 ---
 
@@ -129,94 +74,41 @@ Con la dragona muerta, Logan reclama la hoja como su parte del tesoro. La magia 
 
 ---
 
-### Configuración de la Gesta
+### La Prueba del Aprendiz
 
-James decide que Jessica necesita **tres materiales** de un semiplano mágico:
-- Seda de araña
-- Gema incandescente
-- Escama de dragón de espejismo
-
-**Paso final:** Tejer los componentes en el telar mágico del archimago
-
-**Cálculo del coste:**
-- Precio base: 360 po
-- Reducción: 3 encuentros × 10% = 30%
-- **Coste final:** 252 po
-- Seda: 50 po (encuentro bajo)
-- Gema y escama: 101 po cada uno (encuentros moderados)
+El archimago ha preparado una prueba final para Jessica: debe adentrarse en un semiplano mágico y recuperar tres materiales extraordinarios —seda de araña etérea, una gema incandescente y una escama de dragón de espejismo— para tejer su *cloak of illusions* en el antiguo telar de su maestro. El coste del manto (360 po) se reduce gracias a los tres encuentros necesarios, estableciéndose en 252 po. La seda representa 50 po en valor (encuentro de dificultad baja), mientras que la gema y la escama valen 101 po cada una (encuentros de dificultad moderada).
 
 ---
 
-### Encuentro 1: Negociar por la Seda
+### El Pacto con las Tejedoras
 
-**Enemigos:** Trío de arañas etéreas (*Monster Core 2* 154)
+Un trío de arañas etéreas habita en las cámaras superiores del semiplano, tejiendo constantemente hilos de realidad pura. Aunque son amenazas letales capaces de desgarrar la carne con sus quelíceros fantasmales, Jessica comprende que masacrarlas destruiría la reserva de seda que su maestro ha cultivado durante años. En lugar de recurrir a la violencia, la maga negocia con las inteligencias alienígenas, ofreciendo comida y tesoros de aventuras anteriores a cambio de su preciada seda.
 
-**Dificultad:** Baja (para grupo de nivel 7)
-- Cada araña (nivel 5) = 20 PX
-- Total: 60 PX
-
-**Valor del encuentro:** 220 po
-
-**Tesoro:**
-- Seda de araña etérea: 50 po
-- Consumibles del archimago: 170 po
-
-**Narrativa:**
-
-> "Las arañas etéreas son amenazas letales, pero la maga sabe que matarlas destruiría la reserva de seda de su maestro. Negocia con ellas, ofreciendo comida y tesoros de aventuras anteriores."
-
-**Resolución:** Sin violencia, completando el encuentro mediante **Diplomacia**.
+Este encuentro de dificultad baja para un grupo de nivel 7 (60 PX totales, con cada araña de nivel 5 aportando 20 PX) puede resolverse completamente mediante Diplomacia, otorgando un tesoro valorado en 220 po: la seda etérea (50 po) y diversos consumibles dejados por el archimago (170 po).
 
 ---
 
-### Encuentro 2: Recuperar la Gema de Poder
+### La Llama del Horno
 
-**Enemigos:** Cuatro elementales de fuego vivo (*Monster Core* 144)
+El corazón del semiplano alberga el horno mágico que alimenta toda la torre del archimago. Allí, engarzada en el centro mismo del brasero eterno, brilla una gema imbuida con el poder puro de la llama. Pero el maestro de Jessica ha dejado la compuerta planar deliberadamente abierta: cuatro elementales de fuego vivo han cruzado desde el Plano del Fuego, ansiosos por reclamar todo el horno como dominio propio.
 
-**Dificultad:** Moderada (para grupo de nivel 7)
-- Cada elemental (nivel 5) = 20 PX
-- Total: 80 PX
-
-**Ubicación:** Horno mágico que alimenta la torre del archimago
-
-**Valor del encuentro:** 290 po
-
-**Tesoro:**
-- Gema imbuida con poder de llama: 101 po
-- Consumibles útiles para combate: 189 po
-
-**Narrativa:**
-
-> "El archimago le ha preparado una sorpresa—dejó la compuerta abierta, permitiendo que elementales se cuelen desde el Plano del Fuego. Una prueba de combate."
+Esta prueba de combate, de dificultad moderada para un grupo de nivel 7 (80 PX totales, con cada elemental de nivel 5 aportando 20 PX), ofrece un tesoro valorado en 290 po: la gema de llama (101 po) y diversos consumibles útiles para el conflicto (189 po).
 
 ---
 
-### Encuentro 3: Reclamar una Escama
+### El Guardián del Telar
 
-**Enemigo:** Joven dragón de espejismo (*Monster Core* 122)
+Un joven dragón de espejismo custodia la cámara final donde descansa el telar mágico del archimago. Sus escamas iridiscentes reflejan realidades que nunca fueron y posibilidades que jamás llegarán a ser. Para completar su prueba, Jessica debe obtener una de esas escamas imposibles, ya sea mediante combate directo, negociación astuta o engaño ilusorio.
 
-**Dificultad:** Moderada (para grupo de nivel 7)
-- Dragón (nivel 9) = 80 PX
-
-**Ubicación:** Custodia el telar mágico
-
-**Valor del encuentro:** 290 po
-
-**Tesoro:**
-- Escama de dragón de espejismo: 101 po
-- Tesoro del dragón: 189 po
-
-**Narrativa:**
-
-> "El último guardián custodia el telar mágico. La maga debe luchar, negociar o engañar al dragón para obtener una escama y acceder al telar del archimago."
+Este encuentro de dificultad moderada para un grupo de nivel 7 (80 PX por el dragón de nivel 9) ofrece un tesoro valorado en 290 po: la escama de espejismo (101 po) y el pequeño tesoro acumulado por el joven dragón (189 po). Una vez superado este último obstáculo, el telar del archimago aguarda.
 
 ---
 
-### Forjar el Objeto
+### El Tejido Final
 
-Con todos los componentes reunidos, Jessica realiza una **prueba de Artesanía CD 23** (CD estándar para objeto de nivel 7) en el telar del archimago.
+Con los tres materiales reunidos —seda etérea, gema de llama y escama de espejismo—, Jessica se sienta ante el antiguo telar de su maestro. Sus manos se mueven con la precisión adquirida tras años de estudio, entrelazando los componentes imposibles mientras realiza una prueba de Artesanía CD 23 (la dificultad estándar para un objeto de nivel 7). Los hilos de realidad se doblan bajo sus dedos, la gema pulsa con calor arcano, y la escama refleja versiones de Jessica que podrían haber sido pero nunca fueron.
 
-**Resultado:** Entrelaza los componentes de la gesta y completa su *cloak of illusions*, simbolizando el fin de su aprendizaje.
+Cuando el último nudo se completa, el *cloak of illusions* cobra vida, un testimonio tangible de que su aprendizaje ha llegado a su fin y que está lista para enfrentar el mundo como maga consumada.
 
 ---
 
@@ -235,143 +127,75 @@ Con todos los componentes reunidos, Jessica realiza una **prueba de Artesanía C
 
 ---
 
-### Configuración de la Gesta
+### La Prueba del Bosque
 
-James decide que Ianara necesita **cuatro materiales** de los bosques cercanos:
-- Pelo de osos pardos (forro)
-- Corteza de madera del crepúsculo (capa exterior)
-- Madera de árbol despierto (placa principal)
-- Savia pegajosa (adhesivo)
-
-**Cálculo del coste:**
-- Precio base: 160 po
-- Reducción: 4 encuentros × 10% = 40%
-- **Coste final:** 96 po
-- **Valor por componente:** 24 po
+Antes de abandonar la seguridad de su arboleda para convertirse en campeona de la naturaleza, Ianara debe forjar una armadura nacida del propio bosque que la vio crecer. La druida necesita cuatro materiales sagrados: pelo de osos pardos para el forro, corteza de madera del crepúsculo para la capa exterior, madera viva de un árbol despierto para la placa principal, y savia pegajosa como adhesivo místico. El coste de la coraza de madera +1 (160 po) se reduce gracias a los cuatro encuentros necesarios, estableciéndose en 96 po, con cada componente representando aproximadamente 24 po en valor.
 
 ---
 
-### Encuentro 1: Esquilar al Oso
+### El Don de los Osos
 
-**Enemigos:** Tres osos pardos (*Monster Core* 41)
+Tres grandes osos pardos pescan salmón en un arroyo cristalino, sus pelajes brillando bajo la luz del sol que se filtra entre las copas de los árboles. Aunque podrían convertirse en un combate mortal —cada oso de nivel 3 aportando 15 PX para un total de 45 PX—, Ianara no está dispuesta a derramar la sangre de criaturas inocentes del bosque. Mediante magia primigenia y su profundo conocimiento de Naturaleza, calma a las bestias y las convence para que donen parte de su pelaje voluntariamente.
 
-**Dificultad:** Baja (para grupo de nivel 5)
-- Cada oso (nivel 3) = 15 PX
-- Total: 45 PX
-
-**Valor del encuentro:** 100 po
-
-**Tesoro:**
-- Pelo de oso pardo: 24 po
-- Consumibles y componentes: 76 po
-
-**Narrativa:**
-
-> "Tres grandes osos pescan salmón en un arroyo. Aunque podrían ser un combate mortal, la druida no está dispuesta a dañarlos. Mediante magia primigenia y Naturaleza, los calma y los convence para que donen parte de su pelaje."
-
-**Resolución:** Sin violencia, usando **Naturaleza** y conjuros.
+Este encuentro de dificultad baja para un grupo de nivel 5, valorado en 100 po, puede resolverse completamente sin violencia mediante el uso de habilidades y conjuros: el pelo de oso pardo (24 po) y diversos consumibles y componentes encontrados cerca del arroyo (76 po).
 
 ---
 
-### Encuentro 2: Negociar con los Guardianes
+### Los Guardianes del Crepúsculo
 
-**Enemigos:** Par de guardianes arbóreos (*Monster Core* 24)
+En las profundidades del bosque, donde la luz del sol se tiñe de púrpura y dorado, crecen los árboles de madera del crepúsculo. Dos guardianes arbóreos protegen este lugar sagrado, sus formas leñosas fundiéndose con el paisaje hasta que un intruso se aproxima demasiado. Cada guardián de nivel 4 aporta 20 PX, sumando un total de 40 PX para este encuentro de dificultad baja.
 
-**Dificultad:** Baja (para grupo de nivel 5)
-- Cada guardián (nivel 4) = 20 PX
-- Total: 40 PX
-
-**Ubicación:** Bosque de madera del crepúsculo
-
-**Valor del encuentro:** 100 po
-
-**Tesoro:**
-- Corteza de madera del crepúsculo: 24 po
-- Componentes para el grupo: 76 po
-
-**Narrativa:**
-
-> "Los guardianes protegen el bosque sagrado. La druida debe convencerlos mediante combate, sigilo, negociación o velocidad para conseguir la corteza necesaria."
+Ianara debe conseguir la corteza necesaria mediante combate directo, sigilo cuidadoso, negociación respetuosa o simple velocidad superior. El encuentro ofrece un tesoro valorado en 100 po: la corteza de madera del crepúsculo (24 po) y componentes útiles para todo el grupo (76 po).
 
 ---
 
-### Encuentro 3: No Lo Estás Usando, ¿Verdad?
+### El Sacrificio del Árbol Antiguo
 
-**Enemigo:** Árbol despierto (*Monster Core* 25)
+La prueba más difícil requiere que un poderoso árbol despierto ceda voluntariamente una sección de su cuerpo vivo. Este ser consciente de nivel 4, valorado en 20 PX, ha observado el crecimiento del bosque durante siglos, y sus raíces se hunden profundamente en la tierra sagrada. El combate no es opción: atacar a un árbol pacífico sería anatema para cualquier druida digna de ese nombre. La madera debe ser ofrecida libremente, o la armadura quedará contaminada y arruinada.
 
-**Dificultad:** Baja (para grupo de nivel 5)
-- Árbol despierto (nivel 4) = 20 PX
-
-**Valor del encuentro:** 100 po
-
-**Tesoro:**
-- Madera de árbol despierto: 24 po
-- Componentes y consumibles: 76 po
-
-**Narrativa:**
-
-> "Necesita que un poderoso árbol despierto le entregue una sección de su cuerpo vivo. El combate NO es opción—atacar a un árbol pacífico sería anatema para la druida. La madera debe cederse voluntariamente o la armadura quedará arruinada."
-
-**Resolución:** Ingenio, Diplomacia y magia.
+Este encuentro de dificultad baja debe resolverse mediante ingenio, Diplomacia y magia, ofreciendo un tesoro valorado en 100 po: la madera viva del árbol despierto (24 po) y diversos componentes y consumibles (76 po). Solo cuando el árbol comprende la importancia de la misión de Ianara accede a donar parte de sí mismo para la causa de la naturaleza.
 
 ---
 
-### Encuentro 4: Melaza Complicada
+### La Arboleda Corrupta
 
-**Enemigos:** Dríada (*Monster Core* 244) y basilisco mascota (*Monster Core* 39)
+El último componente se encuentra en una arboleda manchada por la corrupción. Una dríada malhumorada y cruel, acompañada por su mascota basilisco igualmente despiadada, custodian los árboles que producen la savia pegajosa necesaria. La arboleda está salpicada de estatuas petrificadas, testimonio silencioso de que el basilisco no discrimina a la hora de elegir sus víctimas. Este encuentro de dificultad baja (40 PX totales, con la dríada de nivel 3 y el basilisco de nivel 3) presenta un dilema moral.
 
-**Dificultad:** Baja (para grupo de nivel 5)
-- Dríada (nivel 3) + Basilisco (nivel 3) = 40 PX
-
-**Ubicación:** Arboleda con savia pegajosa
-
-**Valor del encuentro:** 100 po
-
-**Tesoro:**
-- Savia pegajosa: 24 po
-- Tesoro de la dríada: 76 po
-
-**Narrativa:**
-
-> "La dríada y el basilisco son malhumorados, crueles y nada compartidos. La arboleda está llena de pruebas de que el basilisco no es exigente con lo que petrifica y devora. Aunque hasta ahora el grupo ha evitado violencia, la naturaleza hostil de ambos sugiere que podrían acabar luchando por el bien del bosque—o intentando redimirlos."
+Aunque hasta ahora Ianara ha evitado la violencia, la naturaleza hostil de estos seres y el peligro que representan para el bosque sugieren que el combate podría ser inevitable, o quizás necesario para el bien común. Alternativamente, la druida podría intentar redimir a estas almas perdidas. El encuentro ofrece un tesoro valorado en 100 po: la savia pegajosa (24 po) y el pequeño tesoro acumulado por la dríada (76 po).
 
 ---
 
-### Forjar el Objeto
+### Nacida del Bosque
 
-Como todos los encuentros tienen lugar en el mismo bosque, James exige que la druida realice una **prueba de Artesanía CD 20** (CD estándar para objeto de nivel 5) dentro de la arboleda.
+Con los cuatro componentes sagrados reunidos —pelo de oso, corteza del crepúsculo, madera viva y savia pegajosa—, Ianara regresa al corazón de su arboleda. Dado que todos los materiales provienen del mismo bosque ancestral, debe completar el proceso de forja aquí mismo, donde la conexión con la naturaleza es más fuerte. Realiza una prueba de Artesanía CD 20 (la dificultad estándar para un objeto de nivel 5), entrelazando los materiales bajo la luz de la luna.
 
-**Resultado:** Ianara ensambla la armadura, que ha crecido literalmente del bosque que protege.
-
----
-
-## 💡 Adaptando Estas Gestas
-
-Estas gestas son **plantillas** que puedes modificar:
-
-### Cambiar el Nivel
-- Ajusta el nivel de los enemigos
-- Recalcula el valor de los encuentros
-- Mantén las proporciones de reducción de coste
-
-### Cambiar el Objeto
-- Elige un objeto del nivel apropiado
-- Ajusta los componentes temáticamente
-- Mantén el mismo número de encuentros
-
-### Cambiar la Historia
-- Adapta la narrativa a tu campaña
-- Vincula los componentes con la trama principal
-- Conecta con los bagajes de las PJ
-
-### Cambiar los Enemigos
-- Usa criaturas apropiadas para tu campaña
-- Mantén la dificultad equivalente
-- Asegura que el tesoro sea coherente
+La armadura no es meramente construida: crece bajo sus manos, cada componente fusionándose con los demás como si siempre hubieran estado destinados a unirse. Cuando el proceso termina, la coraza de madera +1 respira con vida propia, un fragmento viviente del bosque que Ianara ha jurado proteger, ahora convertido en escudo contra quienes buscarían dañarlo.
 
 ---
 
-## 🔗 Ver También
+## Adaptando Estas Gestas
+
+Las gestas presentadas sirven como plantillas fundamentales que pueden moldearse según las necesidades específicas de cada campaña.
+
+### Ajustar el Nivel
+
+Cuando adaptes una gesta para personajes de diferente nivel, ajusta el nivel de los adversarios y recalcula el valor de los encuentros en consecuencia. Las proporciones de reducción de coste deben mantenerse constantes para preservar el equilibrio económico del sistema.
+
+### Modificar el Objeto
+
+La elección del objeto objetivo puede cambiar completamente el tono de una gesta. Selecciona objetos apropiados para el nivel del grupo y ajusta los componentes necesarios para que resuenen temáticamente con las propiedades del objeto final. El número de encuentros debe mantenerse coherente con la reducción de coste deseada.
+
+### Transformar la Narrativa
+
+Cada gesta puede tejerse en el tapiz más amplio de tu campaña. Vincula los componentes necesarios con la trama principal, conecta los encuentros con los trasfondos de los personajes, y permite que las pruebas revelen aspectos más profundos del mundo y de los protagonistas. Una gesta bien integrada no es simplemente una serie de combates, sino un capítulo significativo en la historia épica del grupo.
+
+### Reemplazar los Adversarios
+
+Las criaturas específicas descritas en estas gestas pueden sustituirse por otras más apropiadas para tu ambientación. Mantén la dificultad equivalente y asegura que el tesoro otorgado permanezca coherente con las directrices del sistema. Un dragón puede convertirse en un demonio, un lich en un hechicero corrupto, siempre que la esencia del desafío permanezca intacta.
+
+---
+
+## Ver También
 
 - [Artesanía Basada en Historia]({{ '/reglas/artesania/historia/' | relative_url }})
 - [Cultivar Objetos]({{ '/reglas/artesania/cultivar/' | relative_url }})
