@@ -91,25 +91,37 @@ La ascendencia determina el tamaño, la Velocidad y los idiomas de tu personaje,
 
 ### Ascendencias disponibles
 
-| Ascendencia | Mejoras de atributo | Defecto |
-|-------------|---------------------|---------|
-| Elfo | Destreza, Inteligencia, Gratuita | Constitución |
-| Enano | Constitución, Sabiduría, Gratuita | Carisma |
-| Gnomo | Constitución, Carisma, Gratuita | Fuerza |
-| Goblin | Destreza, Carisma, Gratuita | Sabiduría |
-| Humano | Dos mejoras gratuitas | - |
-| Leshy | Constitución, Sabiduría, Gratuita | Inteligencia |
-| Mediano | Destreza, Sabiduría, Gratuita | Fuerza |
-| Orco | Dos mejoras gratuitas | - |
+| Ascendencia | Mejoras de atributo | Defecto | Fuente |
+|-------------|---------------------|---------|--------|
+| Catfolk | Destreza, Carisma, Gratuita | Sabiduría | PC2 (Poco común) |
+| Elfo | Destreza, Inteligencia, Gratuita | Constitución | PC1 |
+| Enano | Constitución, Sabiduría, Gratuita | Carisma | PC1 |
+| Gnomo | Constitución, Carisma, Gratuita | Fuerza | PC1 |
+| Goblin | Destreza, Carisma, Gratuita | Sabiduría | PC1 |
+| Hobgoblin | Constitución, Inteligencia, Gratuita | Sabiduría | PC2 (Poco común) |
+| Hombres Lagarto (Iruxi) | Fuerza, Sabiduría, Gratuita | Inteligencia | PC2 (Poco común) |
+| Humano | Dos mejoras gratuitas | - | PC1 |
+| Kholo | Fuerza, Inteligencia, Gratuita | Sabiduría | PC2 (Poco común) |
+| Kobold | Destreza, Carisma, Gratuita | Constitución | PC2 (Poco común) |
+| Leshy | Constitución, Sabiduría, Gratuita | Inteligencia | PC1 |
+| Mediano | Destreza, Sabiduría, Gratuita | Fuerza | PC1 |
+| Orco | Dos mejoras gratuitas | - | PC1 |
+| Tengu | Destreza, Gratuita | - | PC2 (Poco común) |
+| Tripkee | Destreza, Sabiduría, Gratuita | Fuerza | PC2 (Poco común) |
+| Ysoki (Ratfolk) | Destreza, Inteligencia, Gratuita | Fuerza | PC2 (Poco común) |
 
 **Nota**: Cualquier personaje puede elegir dos mejoras gratuitas en lugar de las mejoras y defectos indicados.
 
-### Herencias versatiles
+### Herencias versátiles
 
 Estas herencias se pueden elegir para un miembro de cualquier ascendencia:
-- **Changeling**: Hijos de hadas malignas, nacidos con magia ocultista
-- **Nefilim**: Influenciados por la magia divina de la Esfera Exterior
-- **Ascendencia mixta**: Como semielfo aiuvarin o dromaar con sangre de orco
+
+- **Ascendencia mixta** (PC1): Como semielfo aiuvarin o dromaar con sangre de orco
+- **Caminante del ocaso** (PC2): Descendientes de mortales y feéricos, con conexión al Primer Mundo
+- **Changeling** (PC1): Hijos de hadas malignas, nacidos con magia ocultista
+- **Dhampir** (PC2): Hijos de vampiros que luchan entre su naturaleza mortal y su sed de sangre
+- **Nefilim** (PC1): Influenciados por la magia divina de la Esfera Exterior
+- **Sangre de dragón** (PC2): Marcados por el poder dracónico en su linaje
 
 ---
 
@@ -134,16 +146,24 @@ No necesitas anotar todavia todos los rasgos de clase de tu personaje. Tan solo 
 
 ### Clases disponibles
 
-| Clase | Atributo clave | Atributos secundarios |
-|-------|----------------|----------------------|
-| Bardo | Carisma | Constitución, Destreza |
-| Brujo | Inteligencia | Destreza, Sabiduría |
-| Clérigo | Sabiduría | Carisma, Constitución |
-| Druida | Sabiduría | Constitución, Destreza |
-| Explorador | Destreza o Fuerza | Constitución, Sabiduría |
-| Guerrero | Destreza o Fuerza | Carisma, Constitución |
-| Mago | Inteligencia | Destreza, Constitución |
-| Picaro | Destreza u otra | Carisma, Constitución |
+| Clase | Atributo clave | Atributos secundarios | Complejidad | Fuente |
+|-------|----------------|----------------------|-------------|--------|
+| Alquimista | Inteligencia | Constitución, Destreza | Compleja | PC2 |
+| Bárbaro | Fuerza | Constitución, Destreza | Sencilla | PC2 |
+| Bardo | Carisma | Constitución, Destreza | Moderada | PC1 |
+| Brujo | Inteligencia | Destreza, Sabiduría | Compleja | PC1 |
+| Campeón | Fuerza o Destreza | Constitución, Sabiduría | Accesible | PC2 |
+| Clérigo | Sabiduría | Carisma, Constitución | Moderada | PC1 |
+| Druida | Sabiduría | Constitución, Destreza | Moderada | PC1 |
+| Espadachín | Destreza | Carisma, Constitución | Compleja | PC2 |
+| Explorador | Destreza o Fuerza | Constitución, Sabiduría | Accesible | PC1 |
+| Guerrero | Destreza o Fuerza | Carisma, Constitución | Sencilla | PC1 |
+| Hechicero | Carisma | Constitución, Destreza | Accesible | PC2 |
+| Investigador | Inteligencia | Constitución, Destreza | Compleja | PC2 |
+| Mago | Inteligencia | Destreza, Constitución | Moderada | PC1 |
+| Monje | Fuerza o Destreza | Constitución, Sabiduría | Moderada | PC2 |
+| Oráculo | Carisma | Constitución, Destreza | Compleja | PC2 |
+| Pícaro | Destreza u otra | Carisma, Constitución | Accesible | PC1 |
 
 **Un personaje obtiene una mejora de atributo al atributo clave de su clase.**
 
@@ -198,7 +218,9 @@ Ahora, anota todos los beneficios y rasgos de clase que tu personaje obtiene deb
 
 ### Conjuros y lanzamiento de conjuros
 
-El bardo, el clérigo, el druida, el brujo y el mago obtienen todos ellos lanzamiento de conjuros, que es la aptitud para lanzar una amplia gama de conjuros. Si la clase de tu personaje le concede conjuros, deberias invertir algún tiempo durante el Paso 7 para averiguar que conjuros conoce y como lanzarlos.
+Las siguientes clases obtienen lanzamiento de conjuros: Bardo, Brujo, Clérigo, Druida, Hechicero, Mago y Oráculo.
+
+Si la clase de tu personaje le concede conjuros, deberías invertir algún tiempo durante el Paso 7 para averiguar qué conjuros conoce y cómo lanzarlos.
 
 ---
 
