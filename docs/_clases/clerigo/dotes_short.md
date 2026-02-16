@@ -15,7 +15,6 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 
 ## Nivel 1
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Castigo Divino]({{ '/dotes/clerigo/castigo-divino/' | relative_url }}) | La gracia de tu dios no se extiende a tus enemigos jurados. | Clérigo | rasgo sagrado o sacrilego |
@@ -25,11 +24,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Manos Dañinas]({{ '/dotes/clerigo/manos-daninas/' | relative_url }}) | El poder mordiente de tu energia del dacio crece. | Clérigo | Fuente dañina |
 | [Premonicion de Abstinencia]({{ '/dotes/clerigo/premonicion-de-abstinencia/' | relative_url }}) | Tu dios te concede un instante de premonición. | Clérigo | — |
 | [Simplicidad Mortal]({{ '/dotes/clerigo/simplicidad-mortal/' | relative_url }}) | Cuando empuñas el arma predilecta de tu dios, incrementa en un paso el tamaño del dado de daño de dicha arma. | Clérigo | dios con un arma predilecta sencilla o ataque sin armas, rango entrenado en el arma predilecta de tu dios |
-{% endraw %}
 
 ## Nivel 2
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Armadura del Sacerdote de Guerra]({{ '/dotes/clerigo/armadura-del-sacerdote-de-guerra/' | relative_url }}) | Tu entrenamiento te ha ayudado a adaptarte a armaduras mas pesadas. | Clérigo | doctrina del sacerdote de guerra |
@@ -40,11 +37,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Fuente Versatil]({{ '/dotes/clerigo/fuente-versatil/' | relative_url }}) | Conforme exploras los aspectos de tu dios, vas mas alla de las restricciones sobre la curación o el daño. | Clérigo | Fuente dañina o fuente curativa, dios que permite a sus clérigos disponer de ambas fuentes |
 | [Minar la Vida]({{ '/dotes/clerigo/minar-la-vida/' | relative_url }}) | Extraes la fuerza vital de tus enemigos. | Clérigo | — |
 | [Respuesta Rapida]({{ '/dotes/clerigo/respuesta-rapida/' | relative_url }}) | Trabajas rapido en caso de emergencia. | Clérigo | — |
-{% endraw %}
 
 ## Nivel 4
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Alzar Simbolo]({{ '/dotes/clerigo/alzar-simbolo/' | relative_url }}) | Muestras enfaticamente tu simbolo religioso. | Clérigo | Empuñas un simbolo religioso |
@@ -53,11 +48,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Golpe Restablecedor]({{ '/dotes/clerigo/golpe-restablecedor/' | relative_url }}) | Equilibras ambos platillos de la balanza, restableciéndome a ti mismo mientras golpeas a un enemigo. | Clérigo | Tienes un conjuro de dañar o de curar que puedes lanzar. |
 | [Infusion Divina]({{ '/dotes/clerigo/infusion-divina/' | relative_url }}) | Viertes energia en el sujeto de tu curación para potenciar sus ataques. | Clérigo | — |
 | [Terreno Consagrado]({{ '/dotes/clerigo/terreno-consagrado/' | relative_url }}) | Rezas continuamente durante 1 minuto para llamar a una sombra sutil del reino de tu dios a una explosion de 30 pies (9 m) centrada en ti. | Clérigo | Fuente dañina o fuente curativa |
-{% endraw %}
 
 ## Nivel 6
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Arma Divina]({{ '/dotes/clerigo/arma-divina/' | relative_url }}) | Desvias energia de conjuro residual a un arma que estas empuñando. | Clérigo | — |
@@ -66,11 +59,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Lanzamiento de Conjuros Firme]({{ '/dotes/clerigo/lanzamiento-de-conjuros-firme/' | relative_url }}) | Confiado en tu tecnica, no pierdes conjuros facilmente. | Clérigo | — |
 | [Manos Magicas]({{ '/dotes/clerigo/manos-magicas/' | relative_url }}) | La bendición de tu dios potencia tu capacidad curativa, integrando la curación magica con la mundana. | Clérigo | Manos curativas |
 | [Rechazo Divino]({{ '/dotes/clerigo/rechazo-divino/' | relative_url }}) | Te esfuerzas contra las amenazas magicas tanto fisica como espiritualmente. | Clérigo | Empuñas el arma predilecta de tu dios. |
-{% endraw %}
 
 ## Nivel 8
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Canalizacion Restablecedora]({{ '/dotes/clerigo/canalizacion-restablecedora/' | relative_url }}) | Puedes quitar estados mediante la gracia divina. | Clérigo | Fuente curativa |
@@ -82,11 +73,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Prisa Celosa]({{ '/dotes/clerigo/prisa-celosa/' | relative_url }}) | Te bendices a ti mismo sobre la marcha. | Clérigo | — |
 | [Santificar Armamento]({{ '/dotes/clerigo/santificar-armamento/' | relative_url }}) | Tocas un arma y la pones en concordancia con tu dios. | Clérigo | rasgo sagrado o sacrilego |
 | [Sifon del Vacío]({{ '/dotes/clerigo/sifon-del-vacio/' | relative_url }}) | La energia en bruto del dacio debilita la esencia de los vivos. | Clérigo | — |
-{% endraw %}
 
 ## Nivel 10
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Abstinencia Compartida]({{ '/dotes/clerigo/abstinencia-compartida/' | relative_url }}) | Puedes proyectar a tus aliados tus premoniciones de peligro. | Clérigo | Premonicion de abstinencia |
@@ -94,11 +83,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Escudo de la Fe]({{ '/dotes/clerigo/escudo-de-la-fe/' | relative_url }}) | La energia residual de tus conjuros de dominio refuerza tus defensas. | Clérigo | Iniciado de un dominio |
 | [Reabastecimiento de Guerra]({{ '/dotes/clerigo/reabastecimiento-de-guerra/' | relative_url }}) | Golpear a tus enemigos despierta elogios y genera protección por parte de tu dios. | Clérigo | rango experto en el arma predilecta de tu dios |
 | [Recuperación Heroica]({{ '/dotes/clerigo/recuperacion-heroica/' | relative_url }}) | El poder restablecedor de tu curación revigoriza a su receptor. | Clérigo | Fuente curativa |
-{% endraw %}
 
 ## Nivel 12
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Alivio Afortunado]({{ '/dotes/clerigo/alivio-afortunado/' | relative_url }}) | Tu dios favorece tus intentos de quitar aflicciones y estados. | Clérigo | — |
@@ -107,11 +94,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Reabastecimiento Compartido]({{ '/dotes/clerigo/reabastecimiento-compartido/' | relative_url }}) | Cuando tu dios bendice tus actos belicosos, puedes extender dicho favor a tus aliados. | Clérigo | Reabastecimiento de guerra |
 | [Recuperación Defensiva]({{ '/dotes/clerigo/recuperacion-defensiva/' | relative_url }}) | Tu fe proporciona protección temporal ademas de curación. | Clérigo | — |
 | [Simbolo Absorbedor]({{ '/dotes/clerigo/simbolo-absorbedor/' | relative_url }}) | Tu simbolo religioso brilla con energia sagrada, convirtiendo en debilidad la fuerza del atacante. | Clérigo | Alzar simbolo |
-{% endraw %}
 
 ## Nivel 14
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Armamento Duradero]({{ '/dotes/clerigo/armamento-duradero/' | relative_url }}) | Cuando santificas un arma, permanece santificada durante un periodo de tiempo mayor. | Clérigo | Santificar armamento |
@@ -121,11 +106,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Flujo y Reflujo]({{ '/dotes/clerigo/flujo-y-reflujo/' | relative_url }}) | Puedes extraer a la vez vitalidad y dacio para dañar a tus enemigos y curar a tus aliados. | Clérigo | Fuente versatil |
 | [Premonicion de Claridad]({{ '/dotes/clerigo/premonicion-de-claridad/' | relative_url }}) | Tu dios te envia una vision de fe para reforzarte contra los ataques mentales. | Clérigo | — |
 | [Protección de tu Dios]({{ '/dotes/clerigo/proteccion-de-tu-dios/' | relative_url }}) | Cuando recurres al poder de tu dios para cumplir la promesa de su dominio, obtienes la protección divina. | Clérigo | Dominio avanzado |
-{% endraw %}
 
 ## Nivel 16
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Azote Eterno]({{ '/dotes/clerigo/azote-eterno/' | relative_url }}) | Tu vida te ha convertido en un nexo para el vil poder de tu dios. | Clérigo | sacrilego |
@@ -133,11 +116,9 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Castigo con Rebote]({{ '/dotes/clerigo/castigo-con-rebote/' | relative_url }}) | La energia de tu castigo persiste unos instantes, lo que te permite traspasarla a un nuevo objetivo. | Clérigo | Canalizar castigo |
 | [Remediar]({{ '/dotes/clerigo/remediar/' | relative_url }}) | Si tu siguiente acción es utilizar tu fuente divina para lanzar un conjuro de dañar o de curar de 3 acciones, puedes aprovechar la energia residual. | Clérigo | — |
 | [Resucitador]({{ '/dotes/clerigo/resucitador/' | relative_url }}) | Puedes hacer que una criatura a la que has traigo del borde de la muerte prospere y continue curandose. | Clérigo | — |
-{% endraw %}
 
 ## Nivel 18
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Apice Divino]({{ '/dotes/clerigo/apice-divino/' | relative_url }}) | Puedes verter poder divino en un objeto, permitiendo que el portador exceda sus limites. | Clérigo | — |
@@ -146,16 +127,13 @@ A cada nivel en el que obtienes una dote de clérigo, puedes seleccionar una de 
 | [Destierro Rapido Mejorado]({{ '/dotes/clerigo/destierro-rapido-mejorado/' | relative_url }}) | Destierras facilmente a las criaturas con tu arma. | Clérigo | Destierro rapido |
 | [Inviolable]({{ '/dotes/clerigo/inviolable/' | relative_url }}) | Tu dios castiga a las criaturas que te dañan. | Clérigo | — |
 | [Posibilidad Milagrosa]({{ '/dotes/clerigo/posibilidad-milagrosa/' | relative_url }}) | Tu dios te potencia para que lleves a cabo milagros menores, lo que te permite adaptarte facilmente a las necesidades fluctuantes de tus deberes. | Clérigo | — |
-{% endraw %}
 
 ## Nivel 20
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Audiencia con el Avatar]({{ '/dotes/clerigo/audiencia-con-el-avatar/' | relative_url }}) | Tus extensos servicios te han concedido ciertos privilegios divinos. | Clérigo | — |
 | [Canalizacion de Moldeo de Conjuros]({{ '/dotes/clerigo/canalizacion-de-moldeo-de-conjuros/' | relative_url }}) | Un profundo entendimiento de las revelaciones divinas sobre la naturaleza de la esencia vital te permite manipular libremente la energia de la vida. | Clérigo | — |
 | [Obrador de Milagros]({{ '/dotes/clerigo/obrador-de-milagros/' | relative_url }}) | Eres un conducto para un poder autenticamente deifico. | Clérigo | Conjuro milagroso |
 | [Protección del Avatar]({{ '/dotes/clerigo/proteccion-del-avatar/' | relative_url }}) | En los momentos de peligro, puedes llamar en un instante a la forma de tu dios. | Clérigo | Tienes preparado un conjuro de avatar. |
-{% endraw %}
 

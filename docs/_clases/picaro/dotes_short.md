@@ -15,7 +15,6 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 
 ## Nivel 1
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Ahora Te Toca a Ti]({{ '/dotes/picaro/ahora-te-toca-a-ti/'| relative_url }}) | Tras abatir a un enemigo, amenazas a otro y buscas provocarle una penalización por miedo. | Emocion | Rango entrenado en Intimidación |
@@ -25,11 +24,9 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [Finta Gemela]({{ '/dotes/picaro/finta-gemela/'| relative_url }}) | Un ataque distrae mientras el segundo golpe llega desde otro ángulo. | Picaro | Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente. |
 | [Incriminar]({{ '/dotes/picaro/incriminar/'| relative_url }}) | Colocas discretamente un objeto incriminatorio sobre alguien mientras no se da cuenta. | Picaro | Vaciar bolsillos |
 | [Rodar por Detras]({{ '/dotes/picaro/rodar-por-detras/'| relative_url }}) | Te mueves rodando para posicionarte detrás del enemigo y sorprenderlo. | Picaro | — |
-{% endraw %}
 
 ## Nivel 2
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Asalto Enganoso]({{ '/dotes/picaro/asalto-enganoso/'| relative_url }}) | Aprovechas la distracción de un aliado y te mueves sigilosamente al objetivo antes de atacar. | Picaro | Rango entrenado en Sigilo |
@@ -40,11 +37,9 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [Golpe Desequilibrante]({{ '/dotes/picaro/golpe-desequilibrante/'| relative_url }}) | Tus críticos desbalancean al objetivo, haciéndolo perder la estabilidad. | Picaro | Enredo de ladron |
 | [Movilidad]({{ '/dotes/picaro/movilidad/'| relative_url }}) | Puedes Zancada sin provocar reacciones si recorres la mitad de tu velocidad o menos. | Picaro | — |
 | [Paliza Brutal]({{ '/dotes/picaro/paliza-brutal/'| relative_url }}) | Tus impactos críticos reducen la moral y dejan a los enemigos tambaleando. | Picaro | Enredo de rufian |
-{% endraw %}
 
 ## Nivel 4
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Atracar]({{ '/dotes/picaro/atracar/'| relative_url }}) | Golpeas y robas en un solo movimiento rápido contra un enemigo adyacente. | Picaro | — |
@@ -58,11 +53,9 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [!Predecible!]({{ '/dotes/picaro/predecible/' | relative_url }}) | Observando a un oponente, puedes hacerte una idea de su proximo movimiento y prepararte para contrarrestarlo o resistirlo. Elige un objetivo y haz ... | Picaro | — |
 | [Sabotaje]({{ '/dotes/picaro/sabotaje/'| relative_url }}) | Dañas un objeto con partes móviles para comprometer su funcionamiento. | Incapacitacion | Tienes una mano libre. |
 | [Sorpresa del Granuja]({{ '/dotes/picaro/sorpresa-del-granuja/'| relative_url }}) | Tras disfrazarte, quitas tu atuendo para sorprender al objetivo con un ataque furtivo. | Manipular | — |
-{% endraw %}
 
 ## Nivel 6
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Analizar Debilidad]({{ '/dotes/picaro/analizar-debilidad/'| relative_url }}) | Encuentras puntos de presión para atacar con precisión tras estudiar al objetivo. | Picaro | Ataque furtivo 2d6 |
@@ -75,11 +68,9 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [Pisada Liviana]({{ '/dotes/picaro/pisada-liviana/'| relative_url }}) | Ignoras el terreno difícil cuando te desplazas con Paso o Zancada. | Picaro | — |
 | [Retorcer el Cuchillo]({{ '/dotes/picaro/retorcer-el-cuchillo/'| relative_url }}) | Aplicas daño persistente adicional tras un ataque furtivo exitoso. | Picaro | Tu ultima acción ha sido un Golpe cuerpo a cuerpo que ha infligido dano por ataque furtivo a un objetivo desprevenido. |
 | [Unir Fuerzas]({{ '/dotes/picaro/unir-fuerzas/'| relative_url }}) | Flanqueas con un aliado para lanzar ataques coordinados contra un enemigo. | Picaro | — |
-{% endraw %}
 
 ## Nivel 8
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Compra Predictiva]({{ '/dotes/picaro/compra-predictiva/'| relative_url }}) | Dispones del objeto adecuado en el momento preciso y obtienes dotes adicionales de planificación. | Picaro | — |
@@ -95,11 +86,9 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [Punalada Trapera Oportuna]({{ '/dotes/picaro/punalada-trapera-oportuna/'| relative_url }}) | Aprovechas que un aliado golpea y atacas de inmediato con un golpe extra. | Picaro | — |
 | [Retrasar Trampa]({{ '/dotes/picaro/retrasar-trampa/'| relative_url }}) | Retrasas la activación de una trampa con una prueba de Latrocinio. | Picaro | — |
 | [Rodar Agilmente]({{ '/dotes/picaro/rodar-agilmente/'| relative_url }}) | Usas Esquiva Ágil adicional junto a una salvación de Reflejos rodando fuera del peligro. | Picaro | Esquiva agil |
-{% endraw %}
 
 ## Nivel 10
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Adepto del Movimiento Furtivo]({{ '/dotes/picaro/adepto-del-movimiento-furtivo/'| relative_url }}) | Si fallas el movimiento furtivo, lo tratas como éxito para seguir oculto. | Picaro | Rango maestro en Sigilo |
@@ -108,11 +97,9 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [Debilitaciones Precisas]({{ '/dotes/picaro/debilitaciones-precisas/'| relative_url }}) | Tus debilitaciones son tan exactas que siempre consigues el efecto elegido. | Picaro | Enredo de ladron, Golpe debilitante |
 | [Debilitaciones Tácticas]({{ '/dotes/picaro/debilitaciones-tacticas/'| relative_url }}) | Aprendes debilitaciones adicionales para adaptar tus tácticas en combate. | Picaro | Enredo de granuja, Golpe debilitante |
 | [Golpe Agil]({{ '/dotes/picaro/golpe-agil/'| relative_url }}) | Esquiva y golpea usando Esquiva Ágil para mantener distancia. | Picaro | Rodar agilmente |
-{% endraw %}
 
 ## Nivel 12
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Debilitacion Critica]({{ '/dotes/picaro/debilitacion-critica/'| relative_url }}) | Tus críticos añaden debilitaciones extra seleccionadas. | Incapacitacion | Golpe debilitante |
@@ -123,11 +110,9 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [Preparacion]({{ '/dotes/picaro/preparacion/'| relative_url }}) | Obtienes una reacción extra que puedes usar antes de tu siguiente turno. | Floritura | — |
 | [Saltar desde las Sombras]({{ '/dotes/picaro/saltar-desde-las-sombras/'| relative_url }}) | Atacas con una Zancada desde la sombra hacia el enemigo sorpresivamente. | Floritura | — |
 | [Salto Fantastico]({{ '/dotes/picaro/salto-fantastico/'| relative_url }}) | Saltas para golpear con un movimiento aéreo impresionante. | Picaro | — |
-{% endraw %}
 
 ## Nivel 14
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Abertura Instantanea]({{ '/dotes/picaro/abertura-instantanea/'| relative_url }}) | Distraes con palabras o gestos para dejar a un enemigo desprevenido. | Concentrar | — |
@@ -135,11 +120,9 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [!Quedate en el Suelo!]({{ '/dotes/picaro/quedate-en-el-suelo/' | relative_url }}) | Tienes formas de hacer que tus enemigos permanezcan tumbados. Haz una prueba de Atletismo contra la CD de Fortaleza del enemigo desencadenante. Con... | Picaro | Rango maestro en Atletismo |
 | [Rodar a la Defensiva]({{ '/dotes/picaro/rodar-a-la-defensiva/'| relative_url }}) | Al rodar dispersas la fuerza y mantienes el control tras evadir. | Picaro | — |
 | [Sentir lo que No Ves]({{ '/dotes/picaro/sentir-lo-que-no-ves/'| relative_url }}) | Detectas indicios mínimos para encontrar enemigos ocultos. | Picaro | — |
-{% endraw %}
 
 ## Nivel 16
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Distracción Perfecta]({{ '/dotes/picaro/distraccion-perfecta/'| relative_url }}) | Te alejas furtivamente dejando atrás un señuelo que distrae. | Picaro | Rango legendario en Engano |
@@ -149,25 +132,20 @@ En cada nivel en el que obtienes una dote de picaro, puedes seleccionar una de l
 | [Reconstruir la Escena]({{ '/dotes/picaro/reconstruir-la-escena/'| relative_url }}) | Examinas un área pequeña para reconstruir eventos recientes. | Concentrar | — |
 | [Resquicio Cognitivo]({{ '/dotes/picaro/resquicio-cognitivo/'| relative_url }}) | Ignoras temporalmente un efecto mental que te afecta. | Picaro | Estas siendo afectado por un efecto mental. |
 | [Tajo Disipador]({{ '/dotes/picaro/tajo-disipador/'| relative_url }}) | Tu ataque furtivo rompe la conexión mágica del objetivo para impedir conjuros. | Picaro | — |
-{% endraw %}
 
 ## Nivel 18
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Compra Inverosimil]({{ '/dotes/picaro/compra-inverosimil/'| relative_url }}) | Usas las dotes de planificación incluso después de comprar para mantener el flujo de equipo. | Picaro | Compra predictiva |
 | [Infiltracion Inverosimil]({{ '/dotes/picaro/infiltracion-inverosimil/'| relative_url }}) | Cruzas superficies imposibles detectando pequeños defectos en la materia. | Magico | Rango legendario en Acrobacias, Escurrirse rapidamente |
 | [Movimiento Furtivo Poderoso]({{ '/dotes/picaro/movimiento-furtivo-poderoso/'| relative_url }}) | Tu daño furtivo ignora resistencias del objetivo. | Picaro | — |
-{% endraw %}
 
 ## Nivel 20
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Distracción Reactiva]({{ '/dotes/picaro/distraccion-reactiva/'| relative_url }}) | Te intercambias con tu señuelo para frustrar ataques enemigos observados. | Concentrar | Rango legendario en Engano, Distracción perfecta. |
 | [Parangon Oculto]({{ '/dotes/picaro/parangon-oculto/'| relative_url }}) | Te vuelves invisible durante 1 minuto incluso al atacar. | Picaro | Rango legendario en Sigilo |
 | [Pegador Imposible]({{ '/dotes/picaro/pegador-imposible/'| relative_url }}) | Tu ataque furtivo no puede ser impedido aunque el enemigo te vea venir. | Picaro | Pegador astuto |
-{% endraw %}
 

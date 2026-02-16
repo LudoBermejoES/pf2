@@ -15,7 +15,6 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 
 ## Nivel 1
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Bien Versado]({{ '/dotes/bardo/bien-versado/' | relative_url }}) | Obtienes +1 circunstancial en salvaciones contra efectos de desempeño o composiciones desafiantes. | Bardo | — |
@@ -25,11 +24,9 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Interpretación Marcial]({{ '/dotes/bardo/interpretacion-marcial/' | relative_url }}) | Combinas interpretación con armas adicionales cuando eliges una musa guerrera. | Bardo | musa combatiente |
 | [Interpretación Versátil]({{ '/dotes/bardo/interpretacion-versatil/' | relative_url }}) | Interpretación reemplaza otras habilidades sociales cuando actúas con grandiosidad. | Bardo | musa polifacético |
 | [Saber Bardo]({{ '/dotes/bardo/saber-bardico/' | relative_url }}) | Entrenas en Saber (barrido) para acceder a más trasfondo y conocimientos versátiles. | Bardo | musa enigma |
-{% endraw %}
 
 ## Nivel 2
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Audiencia Dirigida]({{ '/dotes/bardo/audiencia-dirigida/' | relative_url }}) | Rediseñas el área de emanación de uno de tus conjuros para adaptarlo mejor al combate. | Bardo | — |
@@ -40,11 +37,9 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Musa Variopinta]({{ '/dotes/bardo/musa-variopinta/' | relative_url }}) | Ganas una dote de primer nivel de otra musa, reflejando tu versatilidad artística. | Bardo | — |
 | [Obertura Inspiradora]({{ '/dotes/bardo/obertura-inspiradora/' | relative_url }}) | Obtienes el truco *obertura inspiradora* para potenciar tareas con tu música. | Bardo | musa maestro |
 | [Polifacético Esotérico]({{ '/dotes/bardo/polifacetico-esoterico/' | relative_url }}) | Aumentas tu repertorio ritual con conjuros ocultistas adicionales. | Bardo | musa polifacético |
-{% endraw %}
 
 ## Nivel 4
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Afinado]({{ '/dotes/bardo/afinado/' | relative_url }}) | Compartes tu técnica para mejorar la interpretación de otro y ambos ganan el mismo estilo. | Bardo | musa maestro |
@@ -55,11 +50,9 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Lectura de Combate]({{ '/dotes/bardo/lectura-de-combate/' | relative_url }}) | Lees el aura enemiga rápidamente para identificar refuerzos y debilidades. | Bardo | — |
 | [Signatura Versátil]({{ '/dotes/bardo/signatura-versatil/' | relative_url }}) | Ajustas tu repertorio de signatura con mejoras menores para variar la inspiración. | Bardo | musa polifacético |
 | [Triplicar la Marcha]({{ '/dotes/bardo/triplicar-la-marcha/' | relative_url }}) | Aprendes el truco *triplicar la marcha* para acelerar a tres aliados en un asalto. | Bardo | — |
-{% endraw %}
 
 ## Nivel 6
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Armonizar]({{ '/dotes/bardo/armonizar/' | relative_url }}) | Ejecutas varias composiciones a la vez, combinando melodías distintas en un solo acto. | Bardo | musa maestro |
@@ -69,11 +62,9 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Educar Aliados]({{ '/dotes/bardo/educar-aliados/' | relative_url }}) | Modificas una composición para que transfiera una defensa adicional a los aliados afectados. | Bardo | Bien versado |
 | [Endecha de Perdición]({{ '/dotes/bardo/endecha-de-perdicion/' | relative_url }}) | El truco *endecha de perdición* impide que los enemigos se recuperen fácilmente del miedo. | Bardo | — |
 | [Lanzamiento de Conjuros Firme]({{ '/dotes/bardo/lanzamiento-de-conjuros-firme/' | relative_url }}) | Reaccionas ante interrupciones para mantener el lanzamiento fallido sin perderlo con una prueba CD 15. | Bardo | — |
-{% endraw %}
 
 ## Nivel 8
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Acompañar]({{ '/dotes/bardo/acompanar/' | relative_url }}) | Complementas el conjuro de un aliado para añadir tu energía mágica y mantener su lanzamiento. | Bardo | — |
@@ -83,11 +74,9 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Sabelotodo]({{ '/dotes/bardo/sabelotodo/' | relative_url }}) | Extraes información adicional al tener éxito en una prueba de Recordar conocimiento. | Bardo | musa enigma |
 | [Valor Reflexivo]({{ '/dotes/bardo/valor-reflexivo/' | relative_url }}) | Ruges para atacar y consigue un golpe cuerpo a cuerpo tras inspirarte. | Auditivo | musa combatiente |
 | [Visión del Alma]({{ '/dotes/bardo/vision-del-alma/' | relative_url }}) | Ganas el sentido espiritual como un sentido impreciso con 60 pies de alcance. | Bardo | — |
-{% endraw %}
 
 ## Nivel 10
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Asalto Valeroso]({{ '/dotes/bardo/asalto-valeroso/' | relative_url }}) | Unclina a un aliado con tu grito y la composición *himno valeroso* mejora su próximo ataque. | Auditivo | musa combatiente |
@@ -97,11 +86,9 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Lanzamiento Apresurado]({{ '/dotes/bardo/lanzamiento-apresurado/' | relative_url }}) | Lanzas un conjuro inferior rápidamente como acción de 2 acciones en lugar de 3. | Bardo | — |
 | [Oda a Ouroboros]({{ '/dotes/bardo/oda-a-ouroboros/' | relative_url }}) | Aprendes el truco *oda a ouroboros* para evitar temporalmente la muerte propia o de un aliado. | Bardo | — |
 | [Sinfonía del Corazón Libre]({{ '/dotes/bardo/sinfonia-del-corazon-libre/' | relative_url }}) | El truco *sinfonía del corazón libre* protege a un aliado contra estados incapacitantes. | Bardo | — |
-{% endraw %}
 
 ## Nivel 12
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Asalto Compartido]({{ '/dotes/bardo/asalto-compartido/' | relative_url }}) | Compartes el éxito de *asalto valeroso* con un aliado que también obtiene inspiración. | Bardo | Asalto valeroso |
@@ -109,11 +96,9 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Foco Inspirativo]({{ '/dotes/bardo/foco-inspirativo/' | relative_url }}) | Reenfocar siempre restaura tu reserva de foco al máximo. | Bardo | — |
 | [Polifacético Ecléctico]({{ '/dotes/bardo/polifacetico-eclectico/' | relative_url }}) | Cambias conjuros añadidos durante la preparación diaria por otros instantáneamente. | Bardo | polifacético esotérico |
 | [Reverberar]({{ '/dotes/bardo/reverberar/' | relative_url }}) | Devuelves daño sónico al origen con una prueba de Interpretación contra la Voluntad. | Bardo | — |
-{% endraw %}
 
 ## Nivel 14
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Allegro]({{ '/dotes/bardo/allegro/' | relative_url }}) | Lanzas el truco *allegro* para acelerar a ti y a tus aliados. | Bardo | — |
@@ -122,22 +107,18 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Himno Vigoroso]({{ '/dotes/bardo/himno-vigoroso/' | relative_url }}) | Tu himno añade vigor mágico a las próximas acciones ofensivas de tus aliados. | Auditivo | — |
 | [Hipercognición Verdadera]({{ '/dotes/bardo/hipercognicion-verdadera/' | relative_url }}) | Puedes gastar 5 acciones de Recordar conocimiento instantáneamente gracias a tu mente acelerada. | Bardo | musa enigma |
 | [Inspiración Triunfante]({{ '/dotes/bardo/inspiracion-triunfante/' | relative_url }}) | Lanzas un truco de composición para inspirar a tus aliados cuando necesitas un impulso heroico. | Bardo | musa combatiente |
-{% endraw %}
 
 ## Nivel 16
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Arremetida Valerosa]({{ '/dotes/bardo/arremetida-valerosa/' | relative_url }}) | Orquestas una ofensiva con himno valeroso para dar ventajas ofensivas a tus aliados. | Auditivo | Avance valeroso, Asalto valeroso |
 | [Capacidad Estudiosa]({{ '/dotes/bardo/capacidad-estudiosa/' | relative_url }}) | Lanzas conjuros incluso cuando el ambiente parece prohibirlos gracias a tu conexión con la magia oculta. | Bardo | musa enigma, rango legendario en Ocultismo |
 | [Concentración sin Esfuerzo]({{ '/dotes/bardo/concentracion-sin-esfuerzo/' | relative_url }}) | Prolongas un conjuro con la acción Mantener sin gastar acciones extras. | Bardo | — |
 | [Final Resonante]({{ '/dotes/bardo/final-resonante/' | relative_url }}) | Haces que tu composición termine con un silencio absoluto, interrumpiendo otros sonidos. | Bardo | musa maestro |
-{% endraw %}
 
 ## Nivel 18
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Composición Eterna]({{ '/dotes/bardo/composicion-eterna/' | relative_url }}) | Estás siempre interpretando y solo puedes usar tu acción adicional para otro lanzamiento si es un truco de composición. | Bardo | musa maestro |
@@ -145,11 +126,9 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Saber Profundo]({{ '/dotes/bardo/saber-profundo/' | relative_url }}) | Añades un conjuro de cada nivel posible a tu repertorio, expandiendo tu versatilidad. | Bardo | musa enigma, rango legendario en ocultismo |
 | [Todo Está en mi Cabeza]({{ '/dotes/bardo/todo-esta-en-mi-cabeza/' | relative_url }}) | Convences a los demás de que el daño fue auto-infligido, evitando penalizaciones sociales. | Bardo | — |
 | [Voz Discordante]({{ '/dotes/bardo/voz-discordante/' | relative_url }}) | Tu himno valeroso añade un chillido que potencia el daño de los aliados. | Bardo | himno valeroso |
-{% endraw %}
 
 ## Nivel 20
 
-{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Aria Fatal]({{ '/dotes/bardo/aria-fatal/' | relative_url }}) | El conjuro *aria fatal* abruma al objetivo y puede matarlo con emoción extrema. | Bardo | — |
@@ -157,4 +136,3 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 | [Flautista de Hamelín]({{ '/dotes/bardo/flautista-de-hamelin/' | relative_url }}) | Aprendes el truco *flautista de Hamelín* para manipular a criaturas de espíritu bajo. | Bardo | — |
 | [Polifacético Definitivo]({{ '/dotes/bardo/polifacetico-definitivo/' | relative_url }}) | Puedes lanzar cualquier conjuro de tu repertorio con total flexibilidad. | Bardo | musa polifacético |
 | [Sinfonía de la Musa]({{ '/dotes/bardo/sinfonia-de-la-musa/' | relative_url }}) | Combine múltiples interpretaciones en una sola sinfonía poderosa con efectos múltiples. | Bardo | Armonizar |
-{% endraw %}
