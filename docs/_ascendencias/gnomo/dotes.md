@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/gnomo/dotes/
-title: Dotes de Ascendencia: Gnomo
+title: "Dotes de Ascendencia: Gnomo"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1

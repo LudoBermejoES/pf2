@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/orco/dotes/
-title: Dotes de Ascendencia: Orco
+title: "Dotes de Ascendencia: Orco"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conjuros/conjuros-foco/monje/
-title: Conjuros de Foco: Monje
+title: "Conjuros de Foco: Monje"
 chapter: Conjuros
 category: conjuros
 nav_order: 9

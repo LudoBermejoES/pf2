@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/enano/dotes/
-title: Dotes de Ascendencia: Enano
+title: "Dotes de Ascendencia: Enano"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1

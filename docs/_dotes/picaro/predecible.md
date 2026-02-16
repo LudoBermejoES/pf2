@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/picaro/predecible/
-title: !Predecible!
+title: "!Predecible!"
 chapter: Dotes
 category: dotes
 clase: Picaro

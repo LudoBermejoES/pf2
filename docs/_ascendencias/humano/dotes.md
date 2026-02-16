@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/humano/dotes/
-title: Dotes de Ascendencia: Humano
+title: "Dotes de Ascendencia: Humano"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1

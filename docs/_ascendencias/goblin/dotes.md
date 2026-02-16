@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/goblin/dotes/
-title: Dotes de Ascendencia: Goblin
+title: "Dotes de Ascendencia: Goblin"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1

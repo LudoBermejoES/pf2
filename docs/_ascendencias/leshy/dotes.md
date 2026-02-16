@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/leshy/dotes/
-title: Dotes de Ascendencia: Leahy
+title: "Dotes de Ascendencia: Leahy"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1

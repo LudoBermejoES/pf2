@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/elfo/dotes/
-title: Dotes de Ascendencia: Elfo
+title: "Dotes de Ascendencia: Elfo"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1

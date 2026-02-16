@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conjuros/conjuros-foco/oraculo/
-title: Conjuros de Foco: Oráculo
+title: "Conjuros de Foco: Oráculo"
 chapter: Conjuros
 category: conjuros
 nav_order: 10

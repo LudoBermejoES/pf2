@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ascendencias/mediano/dotes/
-title: Dotes de Ascendencia: Mediano
+title: "Dotes de Ascendencia: Mediano"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1

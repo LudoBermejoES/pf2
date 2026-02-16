@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conjuros/conjuros-foco/brujo/
-title: Conjuros de Foco: Brujo
+title: "Conjuros de Foco: Brujo"
 chapter: Conjuros
 category: conjuros
 nav_order: 6

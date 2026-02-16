@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conjuros/conjuros-foco/campeon/
-title: Conjuros de Foco: Campeón
+title: "Conjuros de Foco: Campeón"
 chapter: Conjuros
 category: conjuros
 nav_order: 7

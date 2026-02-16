@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conjuros/conjuros-foco/mago/
-title: Conjuros de Foco: Mago
+title: "Conjuros de Foco: Mago"
 chapter: Conjuros
 category: conjuros
 nav_order: 6

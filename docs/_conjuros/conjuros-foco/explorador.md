@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conjuros/conjuros-foco/explorador/
-title: Conjuros de Foco: Explorador
+title: "Conjuros de Foco: Explorador"
 chapter: Conjuros
 category: conjuros
 nav_order: 6

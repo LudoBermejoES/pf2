@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/picaro/quedate-en-el-suelo/
-title: !Quedate en el Suelo!
+title: "!Quedate en el Suelo!"
 chapter: Dotes
 category: dotes
 clase: Picaro

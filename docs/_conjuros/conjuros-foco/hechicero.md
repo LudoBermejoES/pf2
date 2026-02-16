@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conjuros/conjuros-foco/hechicero/
-title: Conjuros de Foco: Hechicero
+title: "Conjuros de Foco: Hechicero"
 chapter: Conjuros
 category: conjuros
 nav_order: 8
