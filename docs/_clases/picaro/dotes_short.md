@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/picaro/dotes/
+permalink: /clases/picaro/dotes_short/
 title: Dotes de Picaro
 chapter: Clases
 category: clases

@@ -59,7 +59,7 @@ Buscas descubrir la verdad, persiguiendo con tenacidad pistas para revelar los p
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/clases/investigador/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/investigador/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/investigador/ejemplos/' | relative_url }})
 
 ---

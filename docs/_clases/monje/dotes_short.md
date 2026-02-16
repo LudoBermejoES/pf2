@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/monje/dotes/
+permalink: /clases/monje/dotes_short/
 title: Dotes de Monje
 chapter: Clases
 category: clases

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/explorador/dotes/
+permalink: /clases/explorador/dotes_short/
 title: Dotes del Explorador
 chapter: Clases
 category: clases

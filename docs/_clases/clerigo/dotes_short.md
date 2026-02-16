@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/clerigo/dotes/
+permalink: /clases/clerigo/dotes_short/
 title: Dotes de Clérigo
 chapter: Clases
 category: clases

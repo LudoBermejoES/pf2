@@ -59,7 +59,7 @@ No hay vista más hermosa para ti que un extraño brebaje burbujeando en un matr
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/clases/alquimista/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/alquimista/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/alquimista/ejemplos/' | relative_url }})
 
 ---

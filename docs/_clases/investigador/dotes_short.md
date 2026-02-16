@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/investigador/dotes/
+permalink: /clases/investigador/dotes_short/
 title: Dotes de Investigador
 chapter: Clases
 category: clases

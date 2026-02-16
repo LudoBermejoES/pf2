@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/mago/dotes/
+permalink: /clases/mago/dotes_short/
 title: Dotes de Mago
 chapter: Clases
 category: clases

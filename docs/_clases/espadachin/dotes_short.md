@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/espadachin/dotes/
+permalink: /clases/espadachin/dotes_short/
 title: Dotes de Espadachin
 chapter: Clases
 category: clases

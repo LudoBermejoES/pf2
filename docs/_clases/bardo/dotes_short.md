@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/bardo/dotes/
+permalink: /clases/bardo/dotes_short/
 title: Dotes de Bardo
 chapter: Clases
 category: clases

@@ -71,7 +71,7 @@ A 1.er nivel, obtienes los rangos de competencia indicados en las siguientes est
 ## Selecciones relacionadas
 
 - [Características]({{ '/clases/guerrero/caracteristicas/' | relative_url }})
-- [Dotes]({{ '/clases/guerrero/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/guerrero/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/guerrero/ejemplos/' | relative_url }})
 
 ---

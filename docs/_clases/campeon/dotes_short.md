@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/campeon/dotes/
+permalink: /clases/campeon/dotes_short/
 title: Dotes de Campeón
 chapter: Clases
 category: clases

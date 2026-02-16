@@ -81,7 +81,7 @@ Podrías dedicarte a vaciar bolsillos o a comerciar en mercancias ilegales. Tamb
 ## Selecciones relacionadas
 
 - [Características]({{ '/clases/picaro/caracteristicas/' | relative_url }})
-- [Dotes]({{ '/clases/picaro/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/picaro/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/picaro/ejemplos/' | relative_url }})
 
 ---

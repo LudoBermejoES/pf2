@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/barbaro/dotes/
+permalink: /clases/barbaro/dotes_short/
 title: Dotes de Bárbaro
 chapter: Clases
 category: clases

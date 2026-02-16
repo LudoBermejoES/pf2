@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/alquimista/dotes/
+permalink: /clases/alquimista/dotes_short/
 title: Dotes de Alquimista
 chapter: Clases
 category: clases

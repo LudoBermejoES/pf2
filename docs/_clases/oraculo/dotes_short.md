@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/oraculo/dotes/
+permalink: /clases/oraculo/dotes_short/
 title: Dotes de Oráculo
 chapter: Clases
 category: clases

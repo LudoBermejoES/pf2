@@ -60,7 +60,7 @@ No elegiste convertirte en lanzador de conjuros: naciste siéndolo. Hay magia en
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/clases/hechicero/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/hechicero/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/hechicero/ejemplos/' | relative_url }})
 
 ---

@@ -87,7 +87,7 @@ Puedes ganar dinero y prestigio con tus interpretaciones, haciendote un nombre y
 ## Selecciones relacionadas
 
 - [Características]({{ '/clases/bardo/caracteristicas/' | relative_url }})
-- [Dotes]({{ '/clases/bardo/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/bardo/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/bardo/ejemplos/' | relative_url }})
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/brujo/dotes/
+permalink: /clases/brujo/dotes_short/
 title: Dotes de Brujo
 chapter: Clases
 category: clases

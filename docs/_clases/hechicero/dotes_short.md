@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/hechicero/dotes/
+permalink: /clases/hechicero/dotes_short/
 title: Dotes de Hechicero
 chapter: Clases
 category: clases

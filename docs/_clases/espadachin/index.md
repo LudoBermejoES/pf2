@@ -59,7 +59,7 @@ Muchos guerreros confían en la fuerza bruta, armaduras pesadas o armas engorros
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/clases/espadachin/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/espadachin/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/espadachin/ejemplos/' | relative_url }})
 
 ---

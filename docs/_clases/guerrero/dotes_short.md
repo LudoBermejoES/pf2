@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/guerrero/dotes/
+permalink: /clases/guerrero/dotes_short/
 title: Dotes de Guerrero
 chapter: Clases
 category: clases

@@ -70,7 +70,7 @@ Aprendes nuevos conjuros, creas objetos mágicos o inscribes pergaminos para el 
 ## Selecciones relacionadas
 
 - [Características]({{ '/clases/mago/caracteristicas/' | relative_url }})
-- [Dotes]({{ '/clases/mago/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/mago/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/mago/ejemplos/' | relative_url }})
 
 ---

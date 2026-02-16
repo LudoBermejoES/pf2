@@ -106,7 +106,7 @@ Con el corazón de hielo, quizá heredado de tu patrón, comandas los vientos g�
 ## Selecciones relacionadas
 
 - [Características]({{ '/clases/brujo/caracteristicas/' | relative_url }})
-- [Dotes]({{ '/clases/brujo/dotes/' | relative_url }})
+- [Dotes]({{ '/clases/brujo/dotes_short/' | relative_url }})
 - [Ejemplos de Juego]({{ '/clases/brujo/ejemplos/' | relative_url }})
 
 ---

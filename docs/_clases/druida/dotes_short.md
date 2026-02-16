@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/druida/dotes/
+permalink: /clases/druida/dotes_short/
 title: Druida - Dotes de Clase
 chapter: Clases
 category: clases
