@@ -138,20 +138,8 @@ defaults:
       layout: page
       chapter: "Campaña"
 
-# Include hidden files for collection processing
-include:
-  - _campana
-  - _introduccion
-  - _tu-personaje
-  - _ambientacion
-  - _ascendencias
-  - _clases
-  - _habilidades
-  - _dotes
-  - _equipo
-  - _conjuros
-  - _reglas
-  - _apendices
+# Collections are automatically processed, no need to include them explicitly
+# Removed include section to avoid processing collection files twice
 
 # Exclude from build
 exclude:
