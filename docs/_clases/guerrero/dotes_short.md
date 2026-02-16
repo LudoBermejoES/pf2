@@ -15,6 +15,7 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 
 ## Nivel 1
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Ataque Imprevisto]({{ '/dotes/guerrero/ataque-imprevisto/' | Desequilibras a un enemigo combinando agarres veloces mientras lo mantienes a tu alcance. | Guerrero | Tienes una mano libre y tu objetivo está al alcance de dicha mano. |
@@ -25,9 +26,11 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Golpe Cruel]({{ '/dotes/guerrero/golpe-cruel/' | Infliges un daño demoledor a cambio de quedar ligeramente expuesto tras el embate. | Floritura | — |
 | [Golpe Riguroso]({{ '/dotes/guerrero/golpe-riguroso/' | Sigues un primer golpe con otro controlado que aprovecha todo tu impulso. | Aprovechar | — |
 | [Posición a Quemarropa]({{ '/dotes/guerrero/posicion-a-quemarropa/' | Ajustas la puntería para rematar enemigos a corta distancia con tu arma a distancia. | Guerrero | Empuñas una arma a distancia. |
+{% endraw %}
 
 ## Nivel 2
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Acometer]({{ '/dotes/guerrero/acometer/' | Alcanzas a un enemigo en el límite de tu alcance para continuar la presión. | Guerrero | Empuñas un arma cuerpo a cuerpo. |
@@ -41,9 +44,11 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Lanzamiento de Rebote]({{ '/dotes/guerrero/lanzamiento-de-rebote/' | Rebotas tu arma en un adversario para que golpee a otro cercano. | Floritura | Empuñas un arma arrojadiza. |
 | [Parada de Duelo]({{ '/dotes/guerrero/parada-de-duelo/' | Detienes ataques dirigidos contra ti con tu arma a una mano y mantienes la guardia. | Guerrero | Empuñas tan solo un arma cuerpo a cuerpo a una mano y no tienes nada más en las manos. |
 | [Reposicionamiento Elegante]({{ '/dotes/guerrero/reposicionamiento-elegante/' | Enganchas al enemigo con tu arma sutil o de asta para obligarle a moverse. | Aprovechar | Empuñas un arma sutil o un arma de asta. |
+{% endraw %}
 
 ## Nivel 4
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Asalto a Dos Manos]({{ '/dotes/guerrero/asalto-a-dos-manos/' | Agarras el arma con rapidez para añadir impulso al golpe y aumentar su potencia. | Floritura | Empuñas un arma cuerpo a cuerpo a una mano y tienes una mano libre. |
@@ -56,9 +61,11 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Parada Gemela]({{ '/dotes/guerrero/parada-gemela/' | Empuñas dos armas para bloquear ataques mientras mantienes ambas manos activas. | Guerrero | Empuñas dos armas cuerpo a cuerpo, una en cada mano. |
 | [Redirección Rápida]({{ '/dotes/guerrero/redireccion-rapida/' | Recibes el flanqueo y rediriges su ventaja contra los atacantes que te rodean. | Aprovechar | Estás flanqueado por al menos dos enemigos. |
 | [Zancada Protegida]({{ '/dotes/guerrero/zancada-protegida/' | Mantienes el escudo alzado para volverte una pared impenetrable mientras te desplazas. | Guerrero | — |
+{% endraw %}
 
 ## Nivel 6
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Asalto Ventajoso]({{ '/dotes/guerrero/asalto-ventajoso/' | Tras comprometer el movimiento del enemigo, rematas con otro golpe que aprovecha su apertura. | Aprovechar | — |
@@ -73,9 +80,11 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Posición Desarmante]({{ '/dotes/guerrero/posicion-desarmante/' | Adoptas una guardia de esgrima que facilita desarmar al oponente con un solo gesto. | Guerrero | Rango entrenado en Atletismo. |
 | [Puñalada Reveladora]({{ '/dotes/guerrero/punalada-reveladora/' | Clavas el arma en un enemigo oculto para mostrar su posición a tus aliados. | Guerrero | Empuñas una arma cuerpo a cuerpo que puede infligir daño perforante. |
 | [Resquebrajar Defensas]({{ '/dotes/guerrero/resquebrajar-defensas/' | Tu ofensiva explota el miedo del enemigo y rompe su guardia. | Aprovechar | Una criatura asustada se encuentra dentro de tu alcance cuerpo a cuerpo. |
+{% endraw %}
 
 ## Nivel 8
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Abertura Desorientadora]({{ '/dotes/guerrero/abertura-desorientadora/' | Sacas ventaja de sus aberturas para dejar regados puntos débiles. | Guerrero | Golpe reactivo. |
@@ -88,9 +97,11 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Réplica de Duelo]({{ '/dotes/guerrero/replica-de-duelo/' | Contrarrestas la torpeza del enemigo para dejarlo abierto a un contraataque. | Guerrero | Parada de duelo. |
 | [Salto Repentino]({{ '/dotes/guerrero/salto-repentino/' | Saltas hacia el enemigo y rematas desde el aire para sorprenderle. | Guerrero | — |
 | [Valor Resonante]({{ '/dotes/guerrero/valor-resonante/' | Tus propios miedos se canalizan para impulsarte a pelear con más decisión. | Guerrero | Valentía. |
+{% endraw %}
 
 ## Nivel 10
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Bruto Temible]({{ '/dotes/guerrero/bruto-temible/' | Tu presencia infunde miedo y facilita golpear a tus enemigos. | Guerrero | — |
@@ -106,9 +117,11 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Posición Perturbadora]({{ '/dotes/guerrero/posicion-perturbadora/' | Cualquier distracción mínima puede encender tu furia y poner en jaque a los enemigos. | Guerrero | — |
 | [Reflejos Tácticos]({{ '/dotes/guerrero/reflejos-tacticos/' | Reaccionas con rapidez cuando el enemigo deja alguna abertura. | Guerrero | — |
 | [Réplica Gemela]({{ '/dotes/guerrero/replica-gemela/' | Una inteligente parada con un arma deja a tu oponente abierto a un ataque con la otra. | Guerrero | Te estas beneficiando de Parada gemela. |
+{% endraw %}
 
 ## Nivel 12
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Ataque Elegante]({{ '/dotes/guerrero/ataque-elegante/' | Saltas para esquivar a uno y golpear a otro al mismo tiempo. | Aprovechar | Estás adyacente a un enemigo. |
@@ -119,9 +132,11 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Rebote Sensacional]({{ '/dotes/guerrero/rebote-sensacional/' | Tu segundo disparo dobla antes de golpear para rodear obstáculos. | Aprovechar | Puntería sensacional. |
 | [Remate Brutal]({{ '/dotes/guerrero/remate-brutal/' | Tu golpe final sigue al anterior y obliga al enemigo a recibir impacto pese a la defensa. | Aprovechar | Empuñas un arma cuerpo a cuerpo a dos manos. |
 | [Réplica de Duelo Mejorada]({{ '/dotes/guerrero/replica-de-duelo-mejorada/' | Tu arma enlaza ataques cada vez que surge una abertura, manteniendo presión. | Guerrero | Réplica de duelo. |
+{% endraw %}
 
 ## Nivel 14
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Determinación]({{ '/dotes/guerrero/determinacion/' | Resistes conjuros y estados negativos cuando la situación lo exige. | Concentrar | — |
@@ -132,9 +147,11 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Remate Orientador]({{ '/dotes/guerrero/remate-orientador/' | Guias a los enemigos a la posición que más te conviene con un movimiento de armas. | Aprovechar | Empuñas tan solo un arma cuerpo a cuerpo a una mano y no tienes nada más en las manos. |
 | [Réplica Gemela Mejorada]({{ '/dotes/guerrero/replica-gemela-mejorada/' | Tus ataques se funden en uno solo, bloqueando y castigando a la vez. | Guerrero | Réplica gemela. |
 | [Réplica Orientadora]({{ '/dotes/guerrero/replica-orientadora/' | Guias al enemigo con tu peso para colocarlo donde te resulte más eficaz atacar. | Guerrero | Réplica de duelo. |
+{% endraw %}
 
 ## Nivel 16
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Defensa Gemela]({{ '/dotes/guerrero/defensa-gemela/' | Usas el arma secundaria para bloquear o interferir constantemente con los ataques. | Guerrero | Parada gemela. |
@@ -143,19 +160,24 @@ En cada nivel en el que obtienes una dote de guerrero, puedes seleccionar una de
 | [Golpe Abrumador]({{ '/dotes/guerrero/golpe-abrumador/' | Lanzas todo tu peso en un ataque devastador, aunque te deje expuesto. | Guerrero | — |
 | [Maestro de Muchos Estilos]({{ '/dotes/guerrero/maestro-de-muchos-estilos/' | Fluyes entre posturas y aprovechas el mejor estilo según el momento. | Guerrero | Posición de abertura. |
 | [Posición de Disparo Múltiple]({{ '/dotes/guerrero/posicion-de-disparo-multiple/' | Te colocas en una base firme para disparar rápido sin perder puntería. | Guerrero | Disparo doble. |
+{% endraw %}
 
 ## Nivel 18
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Crítico Salvaje]({{ '/dotes/guerrero/critico-salvaje/' | Tus críticos infligen heridas profundas que siguen causando daño. | Guerrero | — |
 | [Golpe en Pleno Vuelo]({{ '/dotes/guerrero/golpe-en-pleno-vuelo/' | Desvias conjuros disparados mientras estás en movimiento. | Guerrero | En pleno vuelo. |
 | [Volea Imposible]({{ '/dotes/guerrero/volea-imposible/' | Disparas una volea abarrotada que alcanza varios enemigos en el área. | Floritura | Empuñas un arma a distancia con el rasgo volea y recarga 0. |
+{% endraw %}
 
 ## Nivel 20
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Flexibilidad Definitiva]({{ '/dotes/guerrero/flexibilidad-definitiva/' | Mantienes la mente abierta y modificas tácticas tras cada turno. | Guerrero | Flexibilidad mejorada. |
 | [Represalia Ilimitada]({{ '/dotes/guerrero/represalia-ilimitada/' | Reaccionas instantáneamente a cualquier cambio en el combate. | Guerrero | — |
 | [Supremacía con las Armas]({{ '/dotes/guerrero/supremacia-con-las-armas/' | Tu manejo de las armas supera los límites y te permite atacar repetidamente con velocidad sobrenatural. | Guerrero | — |
+{% endraw %}

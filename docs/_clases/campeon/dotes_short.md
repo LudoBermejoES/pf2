@@ -15,6 +15,7 @@ En cada nivel en el que obtienes una dote de campeón, puedes seleccionar una de
 
 ## Nivel 1
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Destello Brillante]({{ '/dotes/campeon/destello-brillante/' | relative_url }}) | Tu Destello de Grandeza deja al atacante desprevenido durante 1 asalto. | Campeón | causa grandeza |
@@ -28,16 +29,20 @@ En cada nivel en el que obtienes una dote de campeón, puedes seleccionar una de
 | [Paso Libre]({{ '/dotes/campeon/paso-libre/' | relative_url }}) | Tu Paso Liberador evita penalizaciones de terreno al aliado. | Campeón | causa liberación |
 | [Venganza Despiadada]({{ '/dotes/campeon/venganza-despiadada/' | relative_url }}) | Ganas un bono circunstancial al infligir daño vengativo. | Campeón | causa iniquidad |
 | [Peso de la Culpa]({{ '/dotes/campeon/peso-de-la-culpa/' | relative_url }}) | Rechazar la redención impone efectos adicionales de culpa. | Campeón | causa redención |
+{% endraw %}
 
 ## Nivel 2
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Gracia Divina]({{ '/dotes/campeon/gracia-divina/' | relative_url }}) | Intercedes para favorecer salvaciones contra conjuros al comenzar una tirada. | Campeón | — |
 | [Salud Divina]({{ '/dotes/campeon/salud-divina/' | relative_url }}) | Tu fe otorga +2 a salvaciones contra enfermedades mientras ayudas. | Campeón | — |
+{% endraw %}
 
 ## Nivel 4
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Aura de Coraje]({{ '/dotes/campeon/aura-de-coraje/' | relative_url }}) | Tu miedo se reduce y sigues firme ante el peligro. | Campeón | aura de campeón, extrasagrado |
@@ -45,9 +50,11 @@ En cada nivel en el que obtienes una dote de campeón, puedes seleccionar una de
 | [Crueldad]({{ '/dotes/campeon/crueldad/' | relative_url }}) | Tu toque del vacío drena fuerza y daña al objetivo corruptamente. | Campeón | toque del vacío |
 | [Clemencia]({{ '/dotes/campeon/clemencia/' | relative_url }}) | Imposición de manos tarda 2 acciones y cura cuerpo o mente adicionalmente. | Campeón | imposición de manos |
 | [Protección]({{ '/dotes/campeon/proteccion/' | relative_url }}) | Escudos del espíritu cuesta 2 acciones y protege a un aliado mientras dura. | Campeón | escudos del espíritu |
+{% endraw %}
 
 ## Nivel 6
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Expandir Aura]({{ '/dotes/campeon/expandir-aura/' | relative_url }}) | Amplías tu aura de campeón a 9 metros hasta tu siguiente turno. | Campeón | aura de campeón |
@@ -55,9 +62,11 @@ En cada nivel en el que obtienes una dote de campeón, puedes seleccionar una de
 | [Golpe Reactivo]({{ '/dotes/campeon/golpe-reactivo/' | relative_url }}) | Reacción para atacar a quien usa movimiento, manipulación o ataque cercano. | Campeón | — |
 | [Guardián del Escudo]({{ '/dotes/campeon/guardian-del-escudo/' | relative_url }}) | Bloquear con Escudo protege a un aliado adyacente con tu reacción. | Campeón | Bloquear con Escudo |
 | [Castigar]({{ '/dotes/campeon/castigar/' | relative_url }}) | Designas un enemigo y sus golpes reciben daño adicional temporalmente. | Campeón | — |
+{% endraw %}
 
 ## Nivel 8
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Dominio Avanzado de la Deidad]({{ '/dotes/campeon/dominio-avanzado-de-la-deidad/' | relative_url }}) | Ganas un conjuro de dominio avanzado del dominio escogido. | Campeón | Dominio de la Deidad |
@@ -67,18 +76,22 @@ En cada nivel en el que obtienes una dote de campeón, puedes seleccionar una de
 | [Sanar Montura]({{ '/dotes/campeon/sanar-montura/' | relative_url }}) | Imposición de manos cura tu montura con una oleada extra de energía. | Campeón | Corcel Fiel, imposición de manos |
 | [Bloqueo con Escudo Rápido]({{ '/dotes/campeon/bloqueo-con-escudo-rapido/' | relative_url }}) | Cada turno obtienes una reacción extra para Bloquear con Escudo. | Campeón | Bloquear con Escudo |
 | [Segunda Bendición]({{ '/dotes/campeon/segunda-bendicion/' | relative_url }}) | Ganas otra bendición del devoto distinta a la primera. | Campeón | bendición del devoto |
+{% endraw %}
 
 ## Nivel 10
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Corcel Imponente]({{ '/dotes/campeon/corcel-imponente/' | relative_url }}) | Tu montura madura se vuelve ágil o salvaje como compañero animal. | Campeón | Caballo de Guerra Leal |
 | [Armamento Radiante]({{ '/dotes/campeon/armamento-radiante/' | relative_url }}) | Tu arma bendita mejora durante los preparativos diarios. | Campeón | armamento bendito |
 | [Escudo de Ajuste de Cuentas]({{ '/dotes/campeon/escudo-de-ajuste-de-cuentas/' | relative_url }}) | Reacción combina Bloquear con Escudo y tu reacción de campeón contra el atacante. | Campeón | escudo bendito, reacción de campeón, Guardián del Escudo |
 | [Avance Espectral]({{ '/dotes/campeon/avance-espectral/' | relative_url }}) | Obtienes el conjuro avance espectral para moverte sin provocar reacciones. | Campeón | rapidez bendita |
+{% endraw %}
 
 ## Nivel 12
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Clemencia de Aflicciones]({{ '/dotes/campeon/clemencia-de-aflicciones/' | relative_url }}) | Añades clemencia de recuperación a tus opciones disponibles. | Campeón | Clemencia |
@@ -88,39 +101,48 @@ En cada nivel en el que obtienes una dote de campeón, puedes seleccionar una de
 | [Enfoque Devoto]({{ '/dotes/campeon/enfoque-devoto/' | relative_url }}) | Reenfocar siempre llena tu reserva de foco al máximo. | Campeón | conjuros de devoción |
 | [Muro Divino]({{ '/dotes/campeon/muro-divino/' | relative_url }}) | Tu escudo crea terreno difícil en casillas adyacentes para frenar ataques. | Campeón | Estás empuñando un escudo. |
 | [Golpe Macabro]({{ '/dotes/campeon/golpe-macabro/' | relative_url }}) | Golpe contra quien activa tu reacción duplica el daño extra. | Campeón | reacción de campeón que otorga daño extra con tus Golpes (incluyendo las causas profanación, iniquidad y obediencia) |
+{% endraw %}
 
 ## Nivel 14
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Aura de Determinación]({{ '/dotes/campeon/aura-de-determinacion/' | relative_url }}) | Tu aura concede bonificadores contra efectos mentales y físicos. | Campeón | aura de campeón |
 | [Aura de Vida]({{ '/dotes/campeon/aura-de-vida/' | relative_url }}) | Aliados obtienen resistencia 5 contra daño de vacío en tu aura. | Campeón | aura de campeón |
 | [Aura de Rectitud]({{ '/dotes/campeon/aura-de-rectitud/' | relative_url }}) | Tu aura otorga resistencia contra el mal y frena a los profanos. | Campeón | aura de campeón, extrasagrado |
 | [Reflejos Divinos]({{ '/dotes/campeon/reflejos-divinos/' | relative_url }}) | Ganas una reacción extra cada turno para tu reacción de campeón. | Campeón | — |
+{% endraw %}
 
 ## Nivel 16
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Montura Auspiciosa]({{ '/dotes/campeon/montura-auspiciosa/' | relative_url }}) | Tu corcel desarrollado gana inteligencia y habilidades excepcionales. | Campeón | Corcel Imponente |
 | [Instrumento de Masacre]({{ '/dotes/campeon/instrumento-de-masacre/' | relative_url }}) | Críticos con tu armamento bendito infligen daño extra letal. | Campeón | reacción de campeón que otorga daño extra con tus Golpes (incluyendo las causas profanación, iniquidad y obediencia) |
 | [Instrumento de Fervor]({{ '/dotes/campeon/instrumento-de-fervor/' | relative_url }}) | Críticos con Contragolpe Bendito o Golpe Retributivo añaden daño adicional. | Campeón | dote Contragolpe Bendito o reacción Golpe Retributivo, reacción de campeón que otorga a un aliado resistencia al daño de un enemigo (incluyendo las causas grandeza, justicia, liberación y redención) |
 | [Escudo de Gracia]({{ '/dotes/campeon/escudo-de-gracia/' | relative_url }}) | Bloquear con Escudo protege a aliados y te da beneficios defensivos. | Campeón | Guardián del Escudo |
+{% endraw %}
 
 ## Nivel 18
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Toque Rejuvenecedor]({{ '/dotes/campeon/toque-rejuvenecedor/' | relative_url }}) | Tus curaciones dejan efectos persistentes tras lanzar imposición de manos. | Campeón | imposición de manos |
 | [Retribución Veloz]({{ '/dotes/campeon/retribucion-veloz/' | relative_url }}) | Tu reacción de campeón dispara un ataque veloz de represalia. | Campeón | reacción de campeón |
 | [Clemencia Definitiva]({{ '/dotes/campeon/clemencia-definitiva/' | relative_url }}) | Clemencia adquiere el tipo definitivo para tratar efectos mortales. | Campeón | Clemencia |
+{% endraw %}
 
 ## Nivel 20
 
+{% raw %}
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Dechado de Armamento]({{ '/dotes/campeon/dechado-de-armamento/' | relative_url }}) | Añades runas extras como animado, atemorizante mayor, lacerante, afilado y veloz. | Campeón | armamento bendito |
 | [Defensor Sagrado]({{ '/dotes/campeon/defensor-sagrado/' | relative_url }}) | Ganas resistencia 5 al daño contundente, perforante y cortante. | Campeón | — |
 | [Dechado de Escudo]({{ '/dotes/campeon/dechado-de-escudo/' | relative_url }}) | Tu escudo elegido siempre está alzado sin usar acción. | Campeón | escudo bendito |
 | [Dechado de Rapidez]({{ '/dotes/campeon/dechado-de-rapidez/' | relative_url }}) | Tú y aliados en tu aura reciben movimiento veloz y bonificadores al iniciar acción de movimiento. | Campeón | rapidez bendita |
+{% endraw %}
 
