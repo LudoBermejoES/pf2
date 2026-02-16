@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/caldero-dote-1/
-title: Caldero | Dote 1
+title: "Caldero | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Brujo

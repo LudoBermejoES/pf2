@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/concentracion-sin-esfuerzo-dote-16/
-title: Concentración sin Esfuerzo  | Dote 16
+title: "Concentración sin Esfuerzo  | Dote 16"
 chapter: Dotes
 category: dotes
 clase: Druida

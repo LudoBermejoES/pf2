@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/resistencia-al-veneno-dote-2/
-title: Resistencia al Veneno | Dote 2
+title: "Resistencia al Veneno | Dote 2"
 chapter: Dotes
 category: dotes
 clase: Druida

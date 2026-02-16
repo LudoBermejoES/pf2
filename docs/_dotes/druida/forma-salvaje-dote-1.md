@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-salvaje-dote-1/
-title: Forma Salvaje | Dote 1
+title: "Forma Salvaje | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida

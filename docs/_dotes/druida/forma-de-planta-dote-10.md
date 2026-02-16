@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-de-planta-dote-10/
-title: Forma de Planta | Dote 10
+title: "Forma de Planta | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Druida

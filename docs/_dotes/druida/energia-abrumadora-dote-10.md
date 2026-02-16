@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/energia-abrumadora-dote-10/
-title: Energía Abrumadora  | Dote 10
+title: "Energía Abrumadora  | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Druida

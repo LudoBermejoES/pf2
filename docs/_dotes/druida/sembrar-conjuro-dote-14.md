@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/sembrar-conjuro-dote-14/
-title: Sembrar Conjuro  | Dote 14
+title: "Sembrar Conjuro  | Dote 14"
 chapter: Dotes
 category: dotes
 clase: Druida

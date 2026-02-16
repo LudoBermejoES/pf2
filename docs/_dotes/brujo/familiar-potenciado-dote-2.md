@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/familiar-potenciado-dote-2/
-title: Familiar potenciado | Dote 2
+title: "Familiar potenciado | Dote 2"
 chapter: Dotes
 category: dotes
 clase: Brujo

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/naturaleza-atemporal-dote-14/
-title: Naturaleza Atemporal | Dote 14
+title: "Naturaleza Atemporal | Dote 14"
 chapter: Dotes
 category: dotes
 clase: Druida

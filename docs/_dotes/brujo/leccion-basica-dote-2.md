@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/leccion-basica-dote-2/
-title: Lección básica | Dote 2
+title: "Lección básica | Dote 2"
 chapter: Dotes
 category: dotes
 clase: Brujo

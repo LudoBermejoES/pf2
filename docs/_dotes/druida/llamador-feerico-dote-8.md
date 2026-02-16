@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/llamador-feerico-dote-8/
-title: Llamador Feérico | Dote 8
+title: "Llamador Feérico | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Druida

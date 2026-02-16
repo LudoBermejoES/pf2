@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/familiar-espiritual-dote-8/
-title: Familiar espiritual | Dote 8
+title: "Familiar espiritual | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Brujo

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/reflejar-conjuro-dote-14/
-title: Reflejar conjuro | Dote 14
+title: "Reflejar conjuro | Dote 14"
 chapter: Dotes
 category: dotes
 clase: Brujo

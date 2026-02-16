@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/llamada-salvaje-dote-2/
-title: Llamada Salvaje | Dote 2
+title: "Llamada Salvaje | Dote 2"
 chapter: Dotes
 category: dotes
 clase: Druida

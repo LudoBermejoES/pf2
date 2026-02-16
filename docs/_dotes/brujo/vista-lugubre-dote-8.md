@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/vista-lugubre-dote-8/
-title: Vista lúgubre | Dote 8
+title: "Vista lúgubre | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Brujo

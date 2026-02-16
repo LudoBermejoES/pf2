@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/nacido-de-la-tormenta-dote-1/
-title: Nacido de la Tormenta | Dote 1
+title: "Nacido de la Tormenta | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida

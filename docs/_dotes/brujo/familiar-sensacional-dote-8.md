@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/familiar-sensacional-dote-8/
-title: Familiar sensacional | Dote 8
+title: "Familiar sensacional | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Brujo

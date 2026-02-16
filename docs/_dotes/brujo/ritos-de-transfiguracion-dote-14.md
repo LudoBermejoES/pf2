@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/ritos-de-transfiguracion-dote-14/
-title: Ritos de transfiguración | Dote 14
+title: "Ritos de transfiguración | Dote 14"
 chapter: Dotes
 category: dotes
 clase: Brujo

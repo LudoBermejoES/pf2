@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/extender-conjuro-dote-1/
-title: Extender conjuro  | Dote 1
+title: "Extender conjuro  | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Brujo

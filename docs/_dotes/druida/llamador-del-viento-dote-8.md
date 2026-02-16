@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/llamador-del-viento-dote-8/
-title: Llamador del Viento | Dote 8
+title: "Llamador del Viento | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Druida

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/convocacion-primigenia-dote-12/
-title: Convocación Primigenia | Dote 12
+title: "Convocación Primigenia | Dote 12"
 chapter: Dotes
 category: dotes
 clase: Druida

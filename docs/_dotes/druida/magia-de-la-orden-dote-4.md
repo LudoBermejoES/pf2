@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/magia-de-la-orden-dote-4/
-title: Magia de la Orden | Dote 4
+title: "Magia de la Orden | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Druida

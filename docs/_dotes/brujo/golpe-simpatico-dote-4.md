@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/golpe-simpatico-dote-4/
-title: Golpe simpático  | Dote 4
+title: "Golpe simpático  | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Brujo

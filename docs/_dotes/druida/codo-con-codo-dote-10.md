@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/codo-con-codo-dote-10/
-title: Codo con Codo | Dote 10
+title: "Codo con Codo | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Druida

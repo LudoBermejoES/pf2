@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/oasis-ambulante-dote-12/
-title: Oasis Ambulante | Dote 12
+title: "Oasis Ambulante | Dote 12"
 chapter: Dotes
 category: dotes
 clase: Druida

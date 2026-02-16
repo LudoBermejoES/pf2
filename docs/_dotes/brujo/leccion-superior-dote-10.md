@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/leccion-superior-dote-10/
-title: Lección superior | Dote 10
+title: "Lección superior | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Brujo

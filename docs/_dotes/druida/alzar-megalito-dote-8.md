@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/alzar-megalito-dote-8/
-title: Alzar Megalito  | Dote 8
+title: "Alzar Megalito  | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Druida

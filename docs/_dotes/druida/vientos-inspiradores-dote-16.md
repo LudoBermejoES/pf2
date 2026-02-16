@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/vientos-inspiradores-dote-16/
-title: Vientos Inspiradores | Dote 16
+title: "Vientos Inspiradores | Dote 16"
 chapter: Dotes
 category: dotes
 clase: Druida

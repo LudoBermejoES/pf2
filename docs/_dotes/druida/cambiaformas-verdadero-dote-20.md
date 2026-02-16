@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/cambiaformas-verdadero-dote-20/
-title: Cambiaformas Verdadero | Dote 20
+title: "Cambiaformas Verdadero | Dote 20"
 chapter: Dotes
 category: dotes
 clase: Druida

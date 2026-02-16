@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/poder-del-hierofante-dote-20/
-title: Poder del Hierofante | Dote 20
+title: "Poder del Hierofante | Dote 20"
 chapter: Dotes
 category: dotes
 clase: Druida

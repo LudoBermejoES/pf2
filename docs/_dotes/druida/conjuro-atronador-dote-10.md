@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/conjuro-atronador-dote-10/
-title: Conjuro Atronador  | Dote 10
+title: "Conjuro Atronador  | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Druida

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/comunion-de-brujo-dote-10/
-title: Comunión de brujo | Dote 10
+title: "Comunión de brujo | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Brujo

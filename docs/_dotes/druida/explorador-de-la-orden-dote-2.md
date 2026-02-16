@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/explorador-de-la-orden-dote-2/
-title: Explorador de la Orden | Dote 2
+title: "Explorador de la Orden | Dote 2"
 chapter: Dotes
 category: dotes
 clase: Druida

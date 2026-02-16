@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/egida-primigenia-dote-18/
-title: Égida Primigenia | Dote 18
+title: "Égida Primigenia | Dote 18"
 chapter: Dotes
 category: dotes
 clase: Druida

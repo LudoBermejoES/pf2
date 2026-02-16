@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/reclamacion-del-patron-dote-18/
-title: Reclamación del patrón | Dote 18
+title: "Reclamación del patrón | Dote 18"
 chapter: Dotes
 category: dotes
 clase: Brujo

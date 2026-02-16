@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/extender-conjuro-dote-1/
-title: Extender Conjuro  | Dote 1
+title: "Extender Conjuro  | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida

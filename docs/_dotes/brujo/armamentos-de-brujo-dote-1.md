@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/armamentos-de-brujo-dote-1/
-title: Armamentos de brujo | Dote 1
+title: "Armamentos de brujo | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Brujo

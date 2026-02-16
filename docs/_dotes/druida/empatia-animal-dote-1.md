@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/empatia-animal-dote-1/
-title: Empatía Animal | Dote 1
+title: "Empatía Animal | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida

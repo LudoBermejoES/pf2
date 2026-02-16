@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/lanzamiento-de-conjuros-firme-dote-6/
-title: Lanzamiento de Conjuros Firme | Dote 6
+title: "Lanzamiento de Conjuros Firme | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Druida

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/doble-doble-dote-10/
-title: Doble, doble | Dote 10
+title: "Doble, doble | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Brujo

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/crecido-del-roble-dote-6/
-title: Crecido del Roble | Dote 6
+title: "Crecido del Roble | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Druida

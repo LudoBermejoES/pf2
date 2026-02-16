@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/concentracion-sin-esfuerzo-dote-16/
-title: Concentración sin esfuerzo  | Dote 16
+title: "Concentración sin esfuerzo  | Dote 16"
 chapter: Dotes
 category: dotes
 clase: Brujo

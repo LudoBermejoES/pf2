@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/maestro-de-los-maleficios-dote-20/
-title: Maestro de los maleficios | Dote 20
+title: "Maestro de los maleficios | Dote 20"
 chapter: Dotes
 category: dotes
 clase: Brujo

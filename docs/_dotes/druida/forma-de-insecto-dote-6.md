@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-de-insecto-dote-6/
-title: Forma de Insecto | Dote 6
+title: "Forma de Insecto | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Druida

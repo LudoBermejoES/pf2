@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/control-de-forma-perfecto-dote-18/
-title: Control de Forma Perfecto | Dote 18
+title: "Control de Forma Perfecto | Dote 18"
 chapter: Dotes
 category: dotes
 clase: Druida

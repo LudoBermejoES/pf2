@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/paso-forestal-dote-4/
-title: Paso Forestal | Dote 4
+title: "Paso Forestal | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Druida

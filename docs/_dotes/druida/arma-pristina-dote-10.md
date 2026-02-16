@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/arma-pristina-dote-10/
-title: Arma Prístina | Dote 10
+title: "Arma Prístina | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Druida

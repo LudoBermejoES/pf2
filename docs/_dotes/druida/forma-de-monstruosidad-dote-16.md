@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-de-monstruosidad-dote-16/
-title: Forma de Monstruosidad | Dote 16
+title: "Forma de Monstruosidad | Dote 16"
 chapter: Dotes
 category: dotes
 clase: Druida

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/escoba-de-brujo-dote-12/
-title: Escoba de brujo | Dote 12
+title: "Escoba de brujo | Dote 12"
 chapter: Dotes
 category: dotes
 clase: Brujo

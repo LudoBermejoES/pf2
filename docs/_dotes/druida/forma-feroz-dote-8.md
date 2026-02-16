@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-feroz-dote-8/
-title: Forma Feroz | Dote 8
+title: "Forma Feroz | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Druida

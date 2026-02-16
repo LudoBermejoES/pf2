@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/cabana-de-brujo-dote-20/
-title: Cabaña de brujo | Dote 20
+title: "Cabaña de brujo | Dote 20"
 chapter: Dotes
 category: dotes
 clase: Brujo

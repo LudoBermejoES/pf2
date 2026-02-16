@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/apoyo-instintivo-dote-6/
-title: Apoyo Instintivo  | Dote 6
+title: "Apoyo Instintivo  | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Druida

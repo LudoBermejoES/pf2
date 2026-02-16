@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/companero-sensacional-dote-8/
-title: Compañero Sensacional | Dote 8
+title: "Compañero Sensacional | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Druida

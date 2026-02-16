@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/tutela-de-brujo-dote-6/
-title: Tutela de brujo | Dote 6
+title: "Tutela de brujo | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Brujo

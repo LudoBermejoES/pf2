@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/lanzamiento-de-conjuros-firme-dote-6/
-title: Lanzamiento de conjuros firme | Dote 6
+title: "Lanzamiento de conjuros firme | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Brujo

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/controlar-forma-dote-4/
-title: Controlar Forma  | Dote 4
+title: "Controlar Forma  | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Druida

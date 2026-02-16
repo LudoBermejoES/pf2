@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/botella-de-brujo-dote-8/
-title: Botella de brujo | Dote 8
+title: "Botella de brujo | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Brujo

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/transformacion-reactiva-dote-14/
-title: Transformación Reactiva  | Dote 14
+title: "Transformación Reactiva  | Dote 14"
 chapter: Dotes
 category: dotes
 clase: Druida

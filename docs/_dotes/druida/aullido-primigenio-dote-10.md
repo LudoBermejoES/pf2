@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/aullido-primigenio-dote-10/
-title: Aullido Primigenio | Dote 10
+title: "Aullido Primigenio | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Druida

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/risa-estridente-dote-1/
-title: Risa estridente | Dote 1
+title: "Risa estridente | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Brujo

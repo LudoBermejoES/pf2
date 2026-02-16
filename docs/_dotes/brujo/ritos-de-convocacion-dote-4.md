@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/ritos-de-convocacion-dote-4/
-title: Ritos de convocación | Dote 4
+title: "Ritos de convocación | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Brujo

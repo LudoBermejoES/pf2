@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/conjuro-de-alcance-dote-1/
-title: Conjuro de Alcance  | Dote 1
+title: "Conjuro de Alcance  | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida

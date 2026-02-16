@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/secretos-del-familiar-leshy-dote-4/
-title: Secretos del Familiar Leshy | Dote 4
+title: "Secretos del Familiar Leshy | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Druida

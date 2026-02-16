@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/conjuro-de-corriente-dote-6/
-title: Conjuro de Corriente  | Dote 6
+title: "Conjuro de Corriente  | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Druida

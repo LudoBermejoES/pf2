@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/metamorfosis-verde-dote-14/
-title: Metamorfosis Verde | Dote 14
+title: "Metamorfosis Verde | Dote 14"
 chapter: Dotes
 category: dotes
 clase: Druida

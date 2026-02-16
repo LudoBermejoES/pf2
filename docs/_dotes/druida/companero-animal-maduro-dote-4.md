@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/companero-animal-maduro-dote-4/
-title: Compañero Animal Maduro | Dote 4
+title: "Compañero Animal Maduro | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Druida

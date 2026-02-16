@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/transformacion-curativa-dote-10/
-title: Transformación Curativa  | Dote 10
+title: "Transformación Curativa  | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Druida

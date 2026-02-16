@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/cuchillo-ceremonial-dote-6/
-title: Cuchillo ceremonial | Dote 6
+title: "Cuchillo ceremonial | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Brujo

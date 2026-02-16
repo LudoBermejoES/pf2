@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/dividir-maleficio-dote-18/
-title: Dividir maleficio  | Dote 18
+title: "Dividir maleficio  | Dote 18"
 chapter: Dotes
 category: dotes
 clase: Brujo

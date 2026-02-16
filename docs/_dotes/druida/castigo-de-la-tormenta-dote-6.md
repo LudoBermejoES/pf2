@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/castigo-de-la-tormenta-dote-6/
-title: Castigo de la Tormenta  | Dote 6
+title: "Castigo de la Tormenta  | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Druida

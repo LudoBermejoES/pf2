@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-elemental-dote-10/
-title: Forma Elemental | Dote 10
+title: "Forma Elemental | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Druida

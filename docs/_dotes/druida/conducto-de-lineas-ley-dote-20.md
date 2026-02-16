@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/conducto-de-lineas-ley-dote-20/
-title: Conducto de Líneas Ley  | Dote 20
+title: "Conducto de Líneas Ley  | Dote 20"
 chapter: Dotes
 category: dotes
 clase: Druida

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/foco-de-maleficios-dote-12/
-title: Foco de maleficios | Dote 12
+title: "Foco de maleficios | Dote 12"
 chapter: Dotes
 category: dotes
 clase: Brujo

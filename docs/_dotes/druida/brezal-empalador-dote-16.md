@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/brezal-empalador-dote-16/
-title: Brezal Empalador | Dote 16
+title: "Brezal Empalador | Dote 16"
 chapter: Dotes
 category: dotes
 clase: Druida

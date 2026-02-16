@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/familiar-leshy-dote-1/
-title: Familiar Leshy | Dote 1
+title: "Familiar Leshy | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida

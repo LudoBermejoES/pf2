@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/arma-verde-dote-1/
-title: Arma Verde | Dote 1
+title: "Arma Verde | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/expansion-de-truco-dote-2/
-title: Expansión de truco | Dote 2
+title: "Expansión de truco | Dote 2"
 chapter: Dotes
 category: dotes
 clase: Brujo

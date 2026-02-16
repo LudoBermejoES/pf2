@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-de-dragon-dote-12/
-title: Forma de Dragón | Dote 12
+title: "Forma de Dragón | Dote 12"
 chapter: Dotes
 category: dotes
 clase: Druida

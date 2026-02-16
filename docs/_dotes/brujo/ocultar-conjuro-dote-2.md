@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/ocultar-conjuro-dote-2/
-title: Ocultar conjuro  | Dote 2
+title: "Ocultar conjuro  | Dote 2"
 chapter: Dotes
 category: dotes
 clase: Brujo

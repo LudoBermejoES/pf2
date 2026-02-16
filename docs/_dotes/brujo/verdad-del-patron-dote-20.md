@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/verdad-del-patron-dote-20/
-title: Verdad del patrón | Dote 20
+title: "Verdad del patrón | Dote 20"
 chapter: Dotes
 category: dotes
 clase: Brujo

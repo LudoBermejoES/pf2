@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/convocatoria-elemental-dote-4/
-title: Convocatoria Elemental | Dote 4
+title: "Convocatoria Elemental | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Druida

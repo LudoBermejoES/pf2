@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-antropomorfica-dote-4/
-title: Forma Antropomórfica | Dote 4
+title: "Forma Antropomórfica | Dote 4"
 chapter: Dotes
 category: dotes
 clase: Druida

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/companero-especializado-dote-14/
-title: Compañero Especializado | Dote 14
+title: "Compañero Especializado | Dote 14"
 chapter: Dotes
 category: dotes
 clase: Druida

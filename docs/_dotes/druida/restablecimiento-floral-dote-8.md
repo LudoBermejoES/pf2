@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/restablecimiento-floral-dote-8/
-title: Restablecimiento Floral  | Dote 8
+title: "Restablecimiento Floral  | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Druida

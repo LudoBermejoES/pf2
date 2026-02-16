@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/conjuro-de-alcance-dote-1/
-title: Conjuro de alcance  | Dote 1
+title: "Conjuro de alcance  | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Brujo

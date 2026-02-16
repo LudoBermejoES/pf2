@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/lanzamiento-apresurado-dote-10/
-title: Lanzamiento apresurado  | Dote 10
+title: "Lanzamiento apresurado  | Dote 10"
 chapter: Dotes
 category: dotes
 clase: Brujo

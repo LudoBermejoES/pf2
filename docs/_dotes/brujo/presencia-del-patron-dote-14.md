@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/presencia-del-patron-dote-14/
-title: Presencia del patrón | Dote 14
+title: "Presencia del patrón | Dote 14"
 chapter: Dotes
 category: dotes
 clase: Brujo

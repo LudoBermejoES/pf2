@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/leccion-mayor-dote-6/
-title: Lección mayor | Dote 6
+title: "Lección mayor | Dote 6"
 chapter: Dotes
 category: dotes
 clase: Brujo

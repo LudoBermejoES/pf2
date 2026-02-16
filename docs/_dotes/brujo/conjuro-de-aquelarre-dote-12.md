@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/conjuro-de-aquelarre-dote-12/
-title: Conjuro de aquelarre  | Dote 12
+title: "Conjuro de aquelarre  | Dote 12"
 chapter: Dotes
 category: dotes
 clase: Brujo

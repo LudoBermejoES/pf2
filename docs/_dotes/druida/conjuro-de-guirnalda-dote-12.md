@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/conjuro-de-guirnalda-dote-12/
-title: Conjuro de Guirnalda  | Dote 12
+title: "Conjuro de Guirnalda  | Dote 12"
 chapter: Dotes
 category: dotes
 clase: Druida

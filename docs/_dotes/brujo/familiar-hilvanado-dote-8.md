@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/familiar-hilvanado-dote-8/
-title: Familiar hilvanado | Dote 8
+title: "Familiar hilvanado | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Brujo

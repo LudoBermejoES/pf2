@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/forma-voladora-dote-8/
-title: Forma Voladora | Dote 8
+title: "Forma Voladora | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Druida

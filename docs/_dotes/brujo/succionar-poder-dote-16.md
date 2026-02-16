@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/succionar-poder-dote-16/
-title: Succionar poder  | Dote 16
+title: "Succionar poder  | Dote 16"
 chapter: Dotes
 category: dotes
 clase: Brujo

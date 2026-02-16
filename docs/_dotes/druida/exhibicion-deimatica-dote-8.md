@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/exhibicion-deimatica-dote-8/
-title: Exhibición Deimática  | Dote 8
+title: "Exhibición Deimática  | Dote 8"
 chapter: Dotes
 category: dotes
 clase: Druida

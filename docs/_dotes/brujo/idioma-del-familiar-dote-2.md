@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/idioma-del-familiar-dote-2/
-title: Idioma del familiar | Dote 2
+title: "Idioma del familiar | Dote 2"
 chapter: Dotes
 category: dotes
 clase: Brujo

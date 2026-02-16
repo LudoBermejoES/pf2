@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/companero-animal-dote-1/
-title: Compañero Animal | Dote 1
+title: "Compañero Animal | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida

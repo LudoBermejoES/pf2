@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/brujo/contraconjuro-dote-1/
-title: Contraconjuro  | Dote 1
+title: "Contraconjuro  | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Brujo

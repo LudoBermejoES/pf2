@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/foco-primigenio-dote-12/
-title: Foco Primigenio | Dote 12
+title: "Foco Primigenio | Dote 12"
 chapter: Dotes
 category: dotes
 clase: Druida

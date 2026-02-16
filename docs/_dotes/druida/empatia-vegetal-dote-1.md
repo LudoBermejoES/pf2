@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dotes/druida/empatia-vegetal-dote-1/
-title: Empatía Vegetal | Dote 1
+title: "Empatía Vegetal | Dote 1"
 chapter: Dotes
 category: dotes
 clase: Druida
