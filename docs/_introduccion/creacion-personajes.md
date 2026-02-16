@@ -93,22 +93,22 @@ La ascendencia determina el tamaño, la Velocidad y los idiomas de tu personaje,
 
 | Ascendencia | Mejoras de atributo | Defecto | Fuente |
 |-------------|---------------------|---------|--------|
-| Catfolk | Destreza, Carisma, Gratuita | Sabiduría | PC2 (Poco común) |
-| Elfo | Destreza, Inteligencia, Gratuita | Constitución | PC1 |
-| Enano | Constitución, Sabiduría, Gratuita | Carisma | PC1 |
-| Gnomo | Constitución, Carisma, Gratuita | Fuerza | PC1 |
-| Goblin | Destreza, Carisma, Gratuita | Sabiduría | PC1 |
-| Hobgoblin | Constitución, Inteligencia, Gratuita | Sabiduría | PC2 (Poco común) |
-| Hombres Lagarto (Iruxi) | Fuerza, Sabiduría, Gratuita | Inteligencia | PC2 (Poco común) |
-| Humano | Dos mejoras gratuitas | - | PC1 |
-| Kholo | Fuerza, Inteligencia, Gratuita | Sabiduría | PC2 (Poco común) |
-| Kobold | Destreza, Carisma, Gratuita | Constitución | PC2 (Poco común) |
-| Leshy | Constitución, Sabiduría, Gratuita | Inteligencia | PC1 |
-| Mediano | Destreza, Sabiduría, Gratuita | Fuerza | PC1 |
-| Orco | Dos mejoras gratuitas | - | PC1 |
-| Tengu | Destreza, Gratuita | - | PC2 (Poco común) |
-| Tripkee | Destreza, Sabiduría, Gratuita | Fuerza | PC2 (Poco común) |
-| Ysoki (Ratfolk) | Destreza, Inteligencia, Gratuita | Fuerza | PC2 (Poco común) |
+| [Catfolk](/ascendencias/catfolk/) | Destreza, Carisma, Gratuita | Sabiduría | PC2 (Poco común) |
+| [Elfo](/ascendencias/elfo/) | Destreza, Inteligencia, Gratuita | Constitución | PC1 |
+| [Enano](/ascendencias/enano/) | Constitución, Sabiduría, Gratuita | Carisma | PC1 |
+| [Gnomo](/ascendencias/gnomo/) | Constitución, Carisma, Gratuita | Fuerza | PC1 |
+| [Goblin](/ascendencias/goblin/) | Destreza, Carisma, Gratuita | Sabiduría | PC1 |
+| [Hobgoblin](/ascendencias/hobgoblin/) | Constitución, Inteligencia, Gratuita | Sabiduría | PC2 (Poco común) |
+| [Hombres Lagarto (Iruxi)](/ascendencias/hombres-lagarto/) | Fuerza, Sabiduría, Gratuita | Inteligencia | PC2 (Poco común) |
+| [Humano](/ascendencias/humano/) | Dos mejoras gratuitas | - | PC1 |
+| [Kholo](/ascendencias/kholo/) | Fuerza, Inteligencia, Gratuita | Sabiduría | PC2 (Poco común) |
+| [Kobold](/ascendencias/kobold/) | Destreza, Carisma, Gratuita | Constitución | PC2 (Poco común) |
+| [Leshy](/ascendencias/leshy/) | Constitución, Sabiduría, Gratuita | Inteligencia | PC1 |
+| [Mediano](/ascendencias/mediano/) | Destreza, Sabiduría, Gratuita | Fuerza | PC1 |
+| [Orco](/ascendencias/orco/) | Dos mejoras gratuitas | - | PC1 |
+| [Tengu](/ascendencias/tengu/) | Destreza, Gratuita | - | PC2 (Poco común) |
+| [Tripkee](/ascendencias/tripkee/) | Destreza, Sabiduría, Gratuita | Fuerza | PC2 (Poco común) |
+| [Ysoki (Ratfolk)](/ascendencias/ratfolk/) | Destreza, Inteligencia, Gratuita | Fuerza | PC2 (Poco común) |
 
 **Nota**: Cualquier personaje puede elegir dos mejoras gratuitas en lugar de las mejoras y defectos indicados.
 
@@ -116,12 +116,12 @@ La ascendencia determina el tamaño, la Velocidad y los idiomas de tu personaje,
 
 Estas herencias se pueden elegir para un miembro de cualquier ascendencia:
 
-- **Ascendencia mixta** (PC1): Como semielfo aiuvarin o dromaar con sangre de orco
-- **Caminante del ocaso** (PC2): Descendientes de mortales y feéricos, con conexión al Primer Mundo
-- **Changeling** (PC1): Hijos de hadas malignas, nacidos con magia ocultista
-- **Dhampir** (PC2): Hijos de vampiros que luchan entre su naturaleza mortal y su sed de sangre
-- **Nefilim** (PC1): Influenciados por la magia divina de la Esfera Exterior
-- **Sangre de dragón** (PC2): Marcados por el poder dracónico en su linaje
+- **[Ascendencia mixta](/ascendencias/herencias-versatiles/ascendencia-mixta/)** (PC1): Como semielfo aiuvarin o dromaar con sangre de orco
+- **[Caminante del ocaso](/ascendencias/herencias-versatiles/caminante-del-ocaso/)** (PC2): Descendientes de mortales y feéricos, con conexión al Primer Mundo
+- **[Changeling](/ascendencias/herencias-versatiles/changeling/)** (PC1): Hijos de hadas malignas, nacidos con magia ocultista
+- **[Dhampir](/ascendencias/herencias-versatiles/dhampir/)** (PC2): Hijos de vampiros que luchan entre su naturaleza mortal y su sed de sangre
+- **[Nefilim](/ascendencias/herencias-versatiles/nefilim/)** (PC1): Influenciados por la magia divina de la Esfera Exterior
+- **[Sangre de dragón](/ascendencias/herencias-versatiles/sangre-de-dragon/)** (PC2): Marcados por el poder dracónico en su linaje
 
 ---
 
@@ -148,22 +148,22 @@ No necesitas anotar todavia todos los rasgos de clase de tu personaje. Tan solo 
 
 | Clase | Atributo clave | Atributos secundarios | Complejidad | Fuente |
 |-------|----------------|----------------------|-------------|--------|
-| Alquimista | Inteligencia | Constitución, Destreza | Compleja | PC2 |
-| Bárbaro | Fuerza | Constitución, Destreza | Sencilla | PC2 |
-| Bardo | Carisma | Constitución, Destreza | Moderada | PC1 |
-| Brujo | Inteligencia | Destreza, Sabiduría | Compleja | PC1 |
-| Campeón | Fuerza o Destreza | Constitución, Sabiduría | Accesible | PC2 |
-| Clérigo | Sabiduría | Carisma, Constitución | Moderada | PC1 |
-| Druida | Sabiduría | Constitución, Destreza | Moderada | PC1 |
-| Espadachín | Destreza | Carisma, Constitución | Compleja | PC2 |
-| Explorador | Destreza o Fuerza | Constitución, Sabiduría | Accesible | PC1 |
-| Guerrero | Destreza o Fuerza | Carisma, Constitución | Sencilla | PC1 |
-| Hechicero | Carisma | Constitución, Destreza | Accesible | PC2 |
-| Investigador | Inteligencia | Constitución, Destreza | Compleja | PC2 |
-| Mago | Inteligencia | Destreza, Constitución | Moderada | PC1 |
-| Monje | Fuerza o Destreza | Constitución, Sabiduría | Moderada | PC2 |
-| Oráculo | Carisma | Constitución, Destreza | Compleja | PC2 |
-| Pícaro | Destreza u otra | Carisma, Constitución | Accesible | PC1 |
+| [Alquimista](/clases/alquimista/) | Inteligencia | Constitución, Destreza | Compleja | PC2 |
+| [Bárbaro](/clases/barbaro/) | Fuerza | Constitución, Destreza | Sencilla | PC2 |
+| [Bardo](/clases/bardo/) | Carisma | Constitución, Destreza | Moderada | PC1 |
+| [Brujo](/clases/brujo/) | Inteligencia | Destreza, Sabiduría | Compleja | PC1 |
+| [Campeón](/clases/campeon/) | Fuerza o Destreza | Constitución, Sabiduría | Accesible | PC2 |
+| [Clérigo](/clases/clerigo/) | Sabiduría | Carisma, Constitución | Moderada | PC1 |
+| [Druida](/clases/druida/) | Sabiduría | Constitución, Destreza | Moderada | PC1 |
+| [Espadachín](/clases/espadachin/) | Destreza | Carisma, Constitución | Compleja | PC2 |
+| [Explorador](/clases/explorador/) | Destreza o Fuerza | Constitución, Sabiduría | Accesible | PC1 |
+| [Guerrero](/clases/guerrero/) | Destreza o Fuerza | Carisma, Constitución | Sencilla | PC1 |
+| [Hechicero](/clases/hechicero/) | Carisma | Constitución, Destreza | Accesible | PC2 |
+| [Investigador](/clases/investigador/) | Inteligencia | Constitución, Destreza | Compleja | PC2 |
+| [Mago](/clases/mago/) | Inteligencia | Destreza, Constitución | Moderada | PC1 |
+| [Monje](/clases/monje/) | Fuerza o Destreza | Constitución, Sabiduría | Moderada | PC2 |
+| [Oráculo](/clases/oraculo/) | Carisma | Constitución, Destreza | Compleja | PC2 |
+| [Pícaro](/clases/picaro/) | Destreza u otra | Carisma, Constitución | Accesible | PC1 |
 
 **Un personaje obtiene una mejora de atributo al atributo clave de su clase.**
 
