@@ -1,0 +1,63 @@
+56
+Pathfinder Chronicles: Gods and Magic
+while wearing the cloak, it protects you from hot or cold 
+environments like an endure elements spell, and you may sleep in medium armor without becoming fatigued. You may use know direction once per day.
+If Desna is your patron, as a standard action you can cause 
+additional stars and celestial bodies to appear on the cloak, matching the current configuration in the sky. You may use longstrider  once per day. Once per day, you may throw a tiny, 
+white-burning meteor that has the effect of a flare . Some 
+priests of Desna claim to have cloaks of this type that also allow them to dimension door  once per day when under a 
+starry night sky.
+ConStruCtion
+requirements  Craft Wondrous Item, disguise self , endure 
+elements , flare , know direction, lesser restoration, longstrider ; 
+Cost 1,250 gp, 100 XP
+dAW nflo Wer S ASh
+Aura  faith abjuration; Cl  5th
+Slot belt or hat; Price  2,500 gp; Weight  —
+deSCriPtion
+This long strip of red Qadiran fabric is designed to wrap around your waist or head several times and be held in place by its ankh-shaped clasp of red gold. When worn, you remain comfortable even in warm environments as if protected by endure elements . If 
+you unwrap it to its full length and hold the clasp in your hand, you can feather fall  once per day, briefly leaving behind a trail of 
+pleasant red-gold light as bright as a torch. 
+If Sarenrae is your patron, once per day by command, you 
+can use the sash to cast cure light wounds . You may trigger this 
+ability automatically if you are reduced to –1 hit points or less, though thereafter you must recharge it by placing it in strong sunlight for 8 continuous hours. At will, you may cause the clasp to shine as brightly as a torch or cease this illumination; the light is warm, feels like sunlight, and is enough to make sun-fearing creatures slightly uncomfortable but not enough to cause them harm.
+ConStruCtion
+requirements  Craft Wondrous Item, cure light wounds , endure 
+elements , feather fall , light ; Cost 1,250 gp, 100 XP
+deAthlurker’ S Clo Ak
+Aura  faint necromancy; Cl  3rd
+Slot cloak; Price  2,700 gp; Weight  1 lb.
+deSCriPtion
+This drab gray cloak sometimes billows about on an invisible wind. Once per day, you may use doom , which causes a 
+deathlike shadow to cross your face for a moment.
+If Groetus is your patron, once per day you may use false life . 
+While false life is active, if you coup de grace a dying foe, your temporary hit points from the spell increase by 1 (to a maximum of 20 temporary hit points). The dispatched creature must have at least as many hit dice as you for this effect to occur.ConStruCtion
+requirements  Craft Wondrous Item, death knell , doom , false 
+life; Cost 1,350 gp, 108 XP
+demon mother’ S mAS k
+Aura  faint transmutation; Cl  3rd
+Slot mask; Price  3,600 gp; Weight  1 lb.
+deSCriPtion
+This primitive hyena-like mask is usually made of leather, but 
+some are made of soft metal like copper or even carved out of the skull of an animal. You gain a +2 competence bonus on Handle Animal and Heal checks. You can smell when nearby creatures are in heat or otherwise especially fertile (creatures such as humans that can breed any time of year always smell fertile unless they are barren).
+If Lamashtu is your patron, the mask counts as a holy symbol 
+and a hole for a third eye appears in the mask’s forehead. You may use summon monster II once per day to summon a fiendish hyena, which obeys you as if you shared a common language. You may interbreed with animals that are within one size category of your size, usually creating (if you are a humanoid) animal-humanoid creatures such as gnolls or lizardfolk, or sometimes natural lycanthropes prone to live in hybrid form.
+ConStruCtion
+requirements  Craft Wondrous Item, detect animals or plants , 
+polymorph , summon monster II , creator must have at least 5 
+ranks in Handle Animal and Heal; Cost 1,800 gp, 144 XP
+droSkAr’S guiding r ing
+Aura  faint enchantment; Cl  3rd
+Slot ring; Price  2,600 gp; Weight  —
+deSCriPtion
+This gold ring is misshapen and uncomfortable to wear for long periods; inscribed on it is a crude symbol of a fire burning under an arch. Once per day, you may use charm person .
+If Droskar is your patron, any time you create a magic item 
+you may choose to pay half of the crafting cost; you work on the item normally but at the time of completion there is a 50% chance that it turns out useless, nonmagical, and worthless. For example, if creating a magic bracer normally costs 1,000 gp, you may create it and only spend 500 gp, but there is a 50% chance your shortcuts in the process result in a valueless item.
+ConStruCtion
+requirements  Craft Wondrous Item, charm person, fabricate ; 
+Cost 1,300 gp, 104 XP
+fAther’ S forgehA mmer
+Aura  faint transmutation; Cl  3rd
+Slot weapon; Price  4,800 gp; Weight  2 lb.
+deSCriPtion
+This iron hammer bears Torag’s holy symbol; it is not designed for combat, but you can use it as a Medium light hammer. Once per day, you may strike it hard against 

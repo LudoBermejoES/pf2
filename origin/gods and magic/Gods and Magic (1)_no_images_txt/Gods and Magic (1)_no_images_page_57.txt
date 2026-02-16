@@ -1,0 +1,68 @@
+55
+Magic
+3
+fang on one of your own natural weapons.
+ConStruCtion
+requirements  Craft Wondrous Item, barkskin , magic fang , 
+summon monster I ; Cost 1,300 gp, 104 XP
+BeSmArA’S BiCorn
+Aura  faint transmutation; Cl  3rd
+Slot head; Price  1,700 gp; Weight  1 lb.
+deSCriPtion
+This large pirate hat (usually a bicorne but sometimes a tricorne 
+or even a bandana) bears a skull-and-crossbones on the front. You gain a +2 competence bonus on Balance and Climb checks.
+If Besmara is your patron, you automatically float to the 
+surface of any body of water (at speed 30) unless you desire otherwise; this does not prevent you from falling safely into water or interacting with water in any normal way.
+ConStruCtion
+requirements  Craft Wondrous Item, levitate , creator must 
+have at least 5 ranks in Balance and Jump; Cost 850 gp, 68 XP
+Boot S of the e tern Al roSe
+Aura  faint transmutation; Cl  3rd
+Slot boots; Price  4,000 gp; Weight  1 lb.
+deSCriPtion
+These leather boots are found in a variety of styles but always have a prominent engraving of a rose. You gain a +2 competence bonus on Move Silently and Perform (dance) checks when wearing the boots. You may move through areas of flowers (whether wild-growing or a garden) at your normal speed and without suffering any impairment or taking damage from thorns, brambles, or similar things; flower areas that have been magically manipulated to impede motion still affect you.
+If Shelyn is your patron, you may use daze monster once per 
+day; if you are dancing, singing, or using some other Perform skill as part of a performance lasting at least 1 minute, you may activate daze monster as a free action that is part of your performance. As a free action once per round, you may conjure a beautiful, nonmagical, common flower (rose, pansy, sunflower, daisy, and so on) which lasts 1 day before fading to perfume and dust.
+ConStruCtion
+requirements  Craft Wondrous Item, daze monster , pass 
+without trace , creator must have at least 5 ranks in Move 
+Silently and Perform (dance); Cost 2,000 gp, 160 XP
+Broken ChA in of the Be ASt
+Aura  faint conjuration; Cl  5th
+Slot belt; Price  4,500 gp; Weight  5 lb.
+deSCriPtion
+This 8-foot length of corroded broken chain is threaded with a leather strap to hold it together; it is worn like a belt and tied in place as it lacks a buckle. Once per day, you can call upon its power to summon an evil creature from the summon monster I list; the creature attacks your enemies if any are present, but 
+it is not under your control and will attack you or your allies when there are no more enemies to kill.
+If Rovagug is your patron, you may gain the benefits of 
+a rage  spell once per day by speaking his name. If you are 
+ever bound, shackled, paralyzed, or otherwise rendered helpless while you are still conscious, this rage  ability activates 
+automatically if you haven’t already used it that day.
+ConStruCtion
+requirements  Craft Wondrous Item, rage , summon monster I ; 
+Cost 2250 gp, 180 XP
+Bronze dA gger of e rAStil
+Aura  faith divination; Cl  5th
+Slot weapon; Price  3,300 gp; Weight  1 lb.
+deSCriPtion
+This old bronze dagger bears the symbol of Old Deadeye on its blade. As long as you carry the dagger, you manage to find enough food and water in the wilderness to satisfy your hunger and thirst (though you can give these things to someone traveling with you and go without or rely on other sources).  You gain a +1 resistance bonus on Fortitude saving throws.
+If Erastil is your patron, once per day you may speak a 
+command word to use true strike . Once per day you may speak 
+a command word to give a touched thrown weapon, arrow, or bolt the returning property weapon for 1 minute. A magic arrow or bolt that returns does not keep its magical properties but is still usable as masterwork ammunition.
+ConStruCtion
+requirements  Craft Wondrous Item, create food and water , 
+delay poison , mage hand , true strike ; Cost 1,650 gp, 132 XP
+CloAk of the CruSAder
+Aura  faint enchantment; Cl  1st
+Slot cloak; Price  2,700 gp; Weight  3 lb.
+deSCriPtion
+This brilliant red cloak bears a golden symbol of an upright winged sword. You may use bless  once per day.
+If Arazni is your patron, you gain a +1 natural armor bonus 
+on AC. As a standard action, you may create an illusory image of your holy banner (an upright winged sword on a red field), which floats 2 to 5 feet above your head like a battle standard and remains in place as long as you are conscious.
+ConStruCtion
+requirements  Craft Wondrous Item, bless , barkskin , silent 
+image ; Cost 1,350 gp, 108 XP
+CloAk of the dArk tAP eStry
+Aura  faint abjuration; Cl  5th
+Slot cloak; Price  2,500 gp; Weight  5 lb.
+deSCriPtion
+This dark hooded cloak is decorated with embroidered comets, moons, and stars along its edge. If you sleep 

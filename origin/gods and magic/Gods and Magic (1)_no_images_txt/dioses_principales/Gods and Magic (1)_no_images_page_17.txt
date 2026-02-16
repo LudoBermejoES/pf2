@@ -1,0 +1,40 @@
+15
+1
+Gods: Erastil
+give a nod to the rare paladins of the faith, most of 
+them self-taught, brave men and women who through the ages have stepped up in times of need to destroy evils that threatened farm, ranch, and family.
+His priests are often called upon to help build homes, 
+birth children, oversee trade, and bless crops. Most of their day is spent doing mundane things just as any other member of the village, pausing only to speak a blessing at the dawn’s breaking, but always ready to drop what they’re doing and pitch in when they are needed. Adventurer-priests of Erastil are rare, but, every few years, the church encourages young priests to travel in search of news, seeds for new crops, and useful professions that can help their home village. Though these wanderers appear to be fish out of water, their stubborn dedication to helping those back home has guaranteed the survival of many a poor village, either through sent money or by eradicating foul beasts that lurk in the shadows.
+A temple to Old Deadeye is almost always a simple 
+wooden building that serves a rural community as a gathering place, with religion being only one of its many uses. A shrine is usually little more than an antler- or bow-mark carved on a tree or rock.
+His church is simple and practical; most communities 
+have only one or two priests, so complicated hierarchies DEADEYE ’S ARROW
+School  evocation [electricity]; Level  Clr 2, Drd 1, 
+Pal 1, Rgr 1 (Erastil)
+CASTINg
+Casting Time 1 standard action
+Components  V, S, M (1 arrow)
+EFFECT
+Range  Medium (100 ft. + 10 ft./level) or see text
+Effect  arrow of electricity
+Duration  instantaneous or 1 round (see text)
+Saving Throw none; Spell Resistance yes
+DESCRIpTION
+You create an arrow made of crackling electricity, which you may use for one of two effects.
+Attack : You may throw the arrow up to 
+Medium range or fire it from a bow up to the bow’s maximum range. Either use is a ranged touch attack. The arrow deals electricity damage equal to 1d6 +1 point per level (maximum +5).
+Beacon : You throw or fire the arrow straight up. When it 
+reaches maximum range or a solid surface (such as the roof of a cave) it explodes in a peal of thunder and a forked bolt of electricity resembling Erastil’s holy symbol, which lingers for 1 round. The thunder and lightning are as loud and bright as natural thunder and lightning, but do not harm nearby creatures.
+are unnecessary, and 
+priests defer to the wisdom of elder 
+clergy. Given his focus on simplicity 
+over frivolous adornment, formal raiment is 
+practical, usually a leather or fur shoulder-cape 
+branded with his symbol or affixed with a wooden badge bearing his mark.
+Erastil believes extensive and complicated ceremonies 
+take time away from necessary things like tending to crops and putting food on the table, so most religious events are short and to the point. The solstices and equinoxes are holy days, but even their rituals only take about an hour. His book, Parables of Erastil , gives homilies on strengthening 
+family bonds, almanac-like advice on planting, and lore on game animals and tracking.
+Erastil’s clerics and druids are proficient with the 
+shortbow and the longbow (and the composite versions of each). Paladins may use their smite evil ability with melee or ranged weapon attacks. Clerics, paladins, and rangers may prepare goodberry  as a 2nd-level spell, and 
+druids can cast the spell on nuts as well as berries. Clerics and paladins may cast animal messenger as a 2nd-
+level spell, and all priests may use that spell on any non-hostile animal (including friendly guard animals and domesticated animals).

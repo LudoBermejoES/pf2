@@ -1,0 +1,30 @@
+33
+1
+Gods: Rovagug
+whip the faithful into a destructive frenzy and are always 
+looking for strangers in their territory that they may kill.
+A typical follower of Rovagug believes that there is glory 
+and honor in destruction, that building things is for those too weak to destroy, and that bloodletting and breaking loosens Rovagug’s chains. Some accept this philosophy because without it their lives would be miserable and without purpose, some do so out of self-loathing and believe others must suffer because of their own pain. Beyond these basic beliefs, anything goes. Of course, anyone who praises a god that wants to destroy everything is at least a tiny bit mad.
+His temples are banned in nearly every major city, 
+driving his followers to erect secret shrines, often no more than a fanged mouth or clawed hand surrounded by a spiraling line. The very rare temples are built in caves or dungeons and usually have some monster as the focus of worship, hand-fed by the priesthood.  The central feature of these temples is a great pit, representing Rovagug’s lair, containing a bonfire, filth, vermin, and used sacrifices.
+Rivalries between tribes are common but don’t last 
+long, as they battle until one is eliminated or enslaved. Within a tribe, there is a clear chain of command based on obvious power, though challenges are common. The ROVAgUg’S FURY
+School  transmutation; Level  Adept 2, Clr 2,
+Sor/Wiz 2 (Rovagug)
+CASTINg
+Components  V, S
+Casting Time 1 standard action
+EFFECT
+Range  30 ft.
+Area  cone
+Duration  instantaneous
+Saving Throw none; Spell Resistance yes
+DESCRIpTION
+You create a minor earthquake that can trip 
+creatures. Make a single trip attack and use the result against every creature in the area. Those that fail are tripped and fall prone. You do not provoke an attack of opportunity for this trip attack (though you do provoke one for casting the spell), nor can you knock yourself prone with a bad roll. Unlike a regular trip attack, you may trip any creature touching the ground, regardless of size. Improved Trip does not affect this spell in any way.
+Though the earthquake is small and focused 
+on the floor, at the GM’s discretion, if the area is particularly unstable, the spell might cause items to topple, stones to shake loose from the walls or ceiling, and so on.
+victor in a challenge might kill his opponent outright or spare him to humiliate him or because he believes the loser has some value to the tribe. A more monstrous guest of a tribe (such as a roper) might challenge the priest for supremacy or accept a role outside the hierarchy. Rovagug’s priests wear shaggy coats dyed in strange colors and hideous masks depicting horrid beasts.
+Rites are simple and primitive, usually involving shouting, 
+foot-stomping, sacrificing prisoners, and breaking items. There are no church-wide holidays, though a tribe might celebrate a great victory over a foe, and they do not track such things from year to year. Rovagug has no holy text, but his monstrous, primitive thoughts press themselves upon his worshipers, f looding them with a desire to break, destroy, and rend, as well as find a means to end his imprisonment and bring about the end of the world.
+Clerics may prepare baleful polymorph as a 4th-level spell.

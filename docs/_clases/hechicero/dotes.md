@@ -11,525 +11,108 @@ class_name: Hechicero
 
 En cada nivel en el que obtengas una dote de hechicero, puedes seleccionar una de las siguientes dotes. Debes cumplir todos los prerrequisitos antes de elegir la dote.
 
-## Dotes de Nivel 1
+## Nivel 1
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Sangre Emergente]({{ '/dotes/hechicero/sangre-emergente/' | relative_url }}) | La magia en tu sangre surge en respuesta al conjuro de tu enemigo. Generas un efecto de magia de sangre que conozcas, incluso si ya estas bajo los ... | Hechicero | — |
+| [Familiar]({{ '/dotes/hechicero/familiar/' | relative_url }}) | Un animal te sirve y asiste tu lanzamiento de conjuros. Obtienes un familiar (las reglas para familiares se encuentran en la pagina 212 ([ver](/cla... | Hechicero | — |
+| [Extender Conjuro]({{ '/dotes/hechicero/extender-conjuro/' | relative_url }}) | Puedes extender el alcance de tus conjuros. Si la siguiente accion que usas es Lanzar un Conjuro que tiene un alcance, incrementa el alcance de ese... | Concentrar | — |
+| [Aprovechar la Sangre]({{ '/dotes/hechicero/aprovechar-la-sangre/' | relative_url }}) | El poder en tu sangre te permite realizar hazañas menores de magia. Puedes realizar una de las siguientes acciones dependiendo de la tradicion de t... | Concentrar | Te estas beneficiando de un efecto de magia de sangre. |
+| [Ampliar Conjuro]({{ '/dotes/hechicero/ampliar-conjuro/' | relative_url }}) | Manipulas la energia de tu conjuro, causando que afecte un area mas amplia. Si la siguiente accion que usas es Lanzar un Conjuro que tiene un area ... | Manipular | — |
+
+## Nivel 2
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Ungir Aliado]({{ '/dotes/hechicero/ungir-aliado/' | relative_url }}) | Forjas una conexion mistica con un aliado usando una gota de tu sangre, permitiendole beneficiarse de tu magia. Colocas una runa de sangre en un al... | Manipular | — |
+| [Desangrar]({{ '/dotes/hechicero/desangrar/' | relative_url }}) | Canalizas la energia residual del ultimo conjuro que lanzaste en una sangria a distancia. Haz una tirada de ataque de conjuro contra la CA de un ob... | Ataque | Tu accion mas reciente fue lanzar un conjuro no trucos que te otorgo un efecto de magia de sangre. |
+| [Expansion de Trucos]({{ '/dotes/hechicero/expansion-de-trucos/' | relative_url }}) | Comprendes mejor los poderes basicos de tu linaje. Anade dos trucos adicionales de tu lista de conjuros a tu repertorio. | Hechicero | — |
+| [Familiar Mejorado]({{ '/dotes/hechicero/familiar-mejorado/' | relative_url }}) | Infundes a tu familiar con energia magica adicional. Puedes seleccionar cuatro habilidades de familiar o de amo cada dia, en lugar de dos. | Hechicero | un familiar |
+| [Hechiceria Propulsora]({{ '/dotes/hechicero/hechiceria-propulsora/' | relative_url }}) | La fuerza de tu magia puede usarse para propulsarte a ti o a otro. Conoces el siguiente efecto de magia de sangre. | Hechicero | — |
+
+## Nivel 4
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Evolucion Arcana]({{ '/dotes/hechicero/evolucion-arcana/' | relative_url }}) | Tu legado arcano te permite percibir como la magia afecta todo. Te vuelves entrenado en una habilidad de tu eleccion. Adicionalmente, puedes usar a... | Arcano | linaje que otorga conjuros arcanos |
+| [Golpes Hechizados]({{ '/dotes/hechicero/golpes-hechizados/' | relative_url }}) | Sifones energia de conjuro en un arma que estes empuñando o en uno de tus ataques desarmados, como un puno. Hasta el final de tu turno, el arma o a... | Hechicero | Tu accion mas reciente fue lanzar un conjuro no trucos. |
+| [Evolucion Divina]({{ '/dotes/hechicero/evolucion-divina/' | relative_url }}) | El poder divino proporcionado por tu linaje fluye a traves de ti. Obtienes un espacio de conjuro adicional de tu rango mas alto, que puedes usar so... | Divino | linaje que otorga conjuros divinos |
+| [Evolucion Oculta]({{ '/dotes/hechicero/evolucion-oculta/' | relative_url }}) | Extraes poder de los secretos oscuros del universo. Te vuelves entrenado en una habilidad de tu eleccion. Adicionalmente, una vez al dia, puedes ga... | Oculto | linaje que otorga conjuros ocultos |
+| [Evolucion Primigenia]({{ '/dotes/hechicero/evolucion-primigenia/' | relative_url }}) | Puedes invocar a las criaturas de lo salvaje para que te ayuden. Obtienes un espacio de conjuro adicional de tu rango mas alto, que puedes usar sol... | Primigenio | linaje que otorga conjuros primigenios |
+| [Disparo Dividido]({{ '/dotes/hechicero/disparo-dividido/' | relative_url }}) | Fragmentas un conjuro a distancia. Si tu siguiente accion es Lanzar un Conjuro sin duracion que requiere una tirada de ataque contra un solo objeti... | Concentrar | — |
+
+## Nivel 6
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Linaje Avanzado]({{ '/dotes/hechicero/linaje-avanzado/' | relative_url }}) | Extraes mas poder de tu linaje. Obtienes el conjuro de linaje avanzado asociado con tu linaje. | Hechicero | conjuro de linaje |
+| [Vortice Desviador]({{ '/dotes/hechicero/vortice-desviador/' | relative_url }}) | Usas vestigios de magia para crear un vortice protector. Hasta el inicio de tu siguiente turno, obtienes una bonificacion de estado +1 a la CA cont... | Hechicero | Tu accion mas reciente fue lanzar un conjuro no trucos. |
+| [Guardia de Energia]({{ '/dotes/hechicero/guardia-de-energia/' | relative_url }}) | Conviertes energia del ultimo conjuro que lanzaste en una guardia protectora. Hasta el inicio de tu siguiente turno, obtienes resistencia a un tipo... | Hechicero | Tu accion mas reciente fue lanzar un conjuro no trucos que infligio dano de energia. |
+| [Conjuro Resguardado]({{ '/dotes/hechicero/conjuro-resguardado/' | relative_url }}) | Estas inmune a los efectos de tus propios conjuros. Si la siguiente accion que tomas es Lanzar un Conjuro con un area, no te ves afectado por el co... | Concentrar | — |
+| [Retransmision de Conjuro]({{ '/dotes/hechicero/retransmision-de-conjuro/' | relative_url }}) | Abres el poder en tu sangre al lanzamiento de conjuros de tu aliado, usando tu magia para aumentar su alcance. Tu aliado puede usarte como punto de... | Concentrar | — |
+| [Lanzamiento de Conjuros Estable]({{ '/dotes/hechicero/lanzamiento-de-conjuros-estable/' | relative_url }}) | Estas seguro de tu tecnica de lanzamiento de conjuros, y puedes retener tu concentracion mas facilmente cuando Lanzas un Conjuro. Si una reaccion i... | Hechicero | — |
+
+## Nivel 8
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Resistencia del Linaje]({{ '/dotes/hechicero/resistencia-del-linaje/' | relative_url }}) | Tu sangre magica te hace mas resistente a la magia. Obtienes una bonificacion de estado +1 a las tiradas de salvacion contra conjuros y efectos mag... | Hechicero | — |
+| [Evolucion de Sangre Cruzada]({{ '/dotes/hechicero/evolucion-de-sangre-cruzada/' | relative_url }}) | Interacciones extrañas en tu linaje te proporcionan efectos inesperados. Elige otro linaje. Conoces el efecto de magia de sangre de ese linaje. Si ... | Hechicero | — |
+| [Explosion de Poder]({{ '/dotes/hechicero/explosion-de-poder/' | relative_url }}) | Tu magia explota. Conoces el siguiente efecto de magia de sangre. | Hechicero | — |
+
+## Nivel 10
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Fusion de Energia]({{ '/dotes/hechicero/fusion-de-energia/' | relative_url }}) | Fusionas dos conjuros, combinando sus tipos de energia. Si la siguiente accion que usas es Lanzar un Conjuro que inflige dano de energia, seleccion... | Concentrar | — |
+| [Linaje Mayor]({{ '/dotes/hechicero/linaje-mayor/' | relative_url }}) | Descubres los mayores secretos de tu linaje. Obtienes el conjuro de linaje mayor asociado con tu linaje. | Hechicero | conjuro de linaje |
+| [Energia Abrumadora]({{ '/dotes/hechicero/energia-abrumadora/' | relative_url }}) | Alteras tus conjuros para atravesar las defensas de un enemigo. Si la siguiente accion que usas es Lanzar un Conjuro, el conjuro ignora una cantida... | Manipular | — |
+| [Lanzamiento Acelerado]({{ '/dotes/hechicero/lanzamiento-acelerado/' | relative_url }}) | Lanzas un conjuro mas eficientemente. Si tu siguiente accion es lanzar un trucos de hechicero o un conjuro de hechicero que es al menos 2 rangos me... | Concentrar | — |
+| [Expansion de Conjuro Insignia]({{ '/dotes/hechicero/expansion-de-conjuro-insignia/' | relative_url }}) | Tu conexion innata con la magia te permite lanzar mas conjuros con mayor libertad. Obtienes dos conjuros insignia adicionales, cada uno de los cual... | Hechicero | — |
+
+## Nivel 12
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Soberania de Sangre]({{ '/dotes/hechicero/soberania-de-sangre/' | relative_url }}) | Manejas la magia de sangre magistralmente. Cuando te beneficiarias de un efecto de magia de sangre, puedes elegir perder Puntos de Golpe iguales al... | Hechicero | — |
+| [Foco del Linaje]({{ '/dotes/hechicero/foco-del-linaje/' | relative_url }}) | Al escuchar el latido de tu corazon, tu foco se recupera mas rapido. Siempre que Reenfocas, llenas completamente tu reserva de foco. | Hechicero | conjuro de linaje |
+| [Evolucion Fisica Mayor]({{ '/dotes/hechicero/evolucion-fisica-mayor/' | relative_url }}) | Cambias de forma facilmente. Una vez al dia, puedes usar un espacio de conjuro de hechicero para lanzar cualquier conjuro comun de polimorfia de fo... | Hechicero | Evolucion Arcana o Evolucion Primigenia |
+| [Evolucion Espiritual Mayor]({{ '/dotes/hechicero/evolucion-espiritual-mayor/' | relative_url }}) | Tu sangre magica permite que tus conjuros sean completamente efectivos contra criaturas incorporeas. Tus conjuros tienen los efectos de una runa de... | Hechicero | Evolucion Divina o Evolucion Oculta |
+| [Sentido Magico]({{ '/dotes/hechicero/sentido-magico/' | relative_url }}) | Tienes literalmente un sexto sentido para la magia. Puedes sentir la presencia de auras magicas como si siempre estuvieras usando un conjuro de det... | Deteccion | — |
+| [Triquinuela Terraformadora]({{ '/dotes/hechicero/triquinuela-terraformadora/' | relative_url }}) | Sabes como canalizar los aspectos transformadores de tu magia de sangre para alterar tu entorno. Conoces el siguiente efecto de magia de sangre. | Concentrar | — |
+
+## Nivel 14
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Ascendencia de Sangre]({{ '/dotes/hechicero/ascendencia-de-sangre/' | relative_url }}) | Cuando te beneficiarias de un efecto de magia de sangre a traves de Sangre Emergente, puedes elegir beneficiarte de dos efectos de magia de sangre ... | Hechicero | Sangre Emergente |
+| [Entrelazar Disipacion]({{ '/dotes/hechicero/entrelazar-disipacion/' | relative_url }}) | Tejes energia disipadora en un conjuro. Si tu siguiente accion es lanzar un conjuro de objetivo unico contra un enemigo, y aciertas al enemigo con ... | Hechicero | disipar magia en tu repertorio de conjuros |
+| [Reflejar Dano]({{ '/dotes/hechicero/reflejar-dano/' | relative_url }}) | Puedes envolver tu magia alrededor de ti como una capa que causa que aquellos que se atreven a tenerte como objetivo con conjuros sufran un destino... | Hechicero | — |
+| [Velo de Conjuro]({{ '/dotes/hechicero/velo-de-conjuro/' | relative_url }}) | Tu conjuro te envuelve en una nube ondulante. Si tu siguiente accion es Lanzar un Conjuro que te tiene como objetivo, te rodeas en una emanacion de... | Concentrar | — |
+
+## Nivel 16
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Concentracion sin Esfuerzo]({{ '/dotes/hechicero/concentracion-sin-esfuerzo/' | relative_url }}) | Mantienes un conjuro sin apenas pensarlo. Inmediatamente obtienes los efectos de la accion Sostener un Conjuro, permitiendote extender la duracion ... | Hechicero | — |
+| [Evolucion Mental Mayor]({{ '/dotes/hechicero/evolucion-mental-mayor/' | relative_url }}) | La profunda conexion de tu linaje con la esencia mental mejora enormemente tu repertorio de conjuros. Anade un conjuro a tu repertorio de conjuros ... | Hechicero | Evolucion Arcana o Evolucion Oculta |
+| [Evolucion Vital Mayor]({{ '/dotes/hechicero/evolucion-vital-mayor/' | relative_url }}) | El poder vital surge a traves de ti como una fuente de energia. Dos veces al dia, puedes lanzar un conjuro despues de haberte quedado sin espacios ... | Hechicero | Evolucion Divina o Evolucion Primigenia |
+| [Conjuro Centelleante]({{ '/dotes/hechicero/conjuro-centelleante/' | relative_url }}) | Tus conjuros se convierten en una exhibicion radiante de luz y color. Si tu siguiente accion es Lanzar un Conjuro que no tiene el rasgo oscuridad, ... | Concentrar | — |
+
+## Nivel 18
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Conjuro Resonante]({{ '/dotes/hechicero/conjuro-resonante/' | relative_url }}) | Sincronizas los componentes de tu conjuro con precision exacta, estableciendo una resonancia que duplica los efectos del conjuro. Si tu siguiente a... | Concentrar | — |
+| [Evolucion de Sangre Cruzada Mayor]({{ '/dotes/hechicero/evolucion-de-sangre-cruzada-mayor/' | relative_url }}) | Tu linaje es extraordinariamente complejo. Elige hasta tres de los conjuros de regalo hechiceresco otorgados por tu linaje secundario. Anades estos... | Hechicero | Evolucion de Sangre Cruzada |
+
+## Nivel 20
+
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Conducto del Linaje]({{ '/dotes/hechicero/conducto-del-linaje/' | relative_url }}) | Tu naturaleza magica innata te permite redirigir energias ambientales para alimentar tus conjuros. Si tu siguiente accion es Lanzar un Conjuro de r... | Hechicero | — |
+| [Mutacion del Linaje]({{ '/dotes/hechicero/mutacion-del-linaje/' | relative_url }}) | Mutas permanentemente para volverte mas como las criaturas de tu linaje. Obtienes el rasgo o rasgos apropiados para esos tipos de criaturas (aberra... | Hechicero | un linaje basado en un tipo especifico de criatura |
+| [Perfeccion del Linaje]({{ '/dotes/hechicero/perfeccion-del-linaje/' | relative_url }}) | Dominas los poderes supremos de tu linaje y tradicion. Obtienes un espacio de conjuro de rango 10 adicional. | Hechicero | paragon del linaje |
+| [Maestria en Forma de Conjuro]({{ '/dotes/hechicero/maestria-en-forma-de-conjuro/' | relative_url }}) | Alterar tus conjuros no toma mas tiempo que lanzarlos normalmente. Puedes usar acciones unicas de forma de conjuro como acciones gratuitas. | Hechicero | — |
 
----
-
-### Sangre Emergente · :r: · Dote 1
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Desencadenante:** Una criatura te tiene como objetivo con un conjuro de la misma tradicion que tu linaje.
-
-La magia en tu sangre surge en respuesta al conjuro de tu enemigo. Generas un efecto de magia de sangre que conozcas, incluso si ya estas bajo los efectos de la magia de sangre. El objetivo debe ser tu o la criatura que desencadeno Sangre Emergente. Si el efecto de magia de sangre te otorga una bonificacion a la CA o a la tirada de salvacion apropiada, esa bonificacion se aplica contra el conjuro desencadenante. Si el efecto tiene una duracion, en su lugar dura hasta el comienzo de tu siguiente turno.
-
-**Especial:** Esta dote tiene el rasgo correspondiente a la tradicion de tu linaje.
-
----
-
-### Familiar · Dote 1
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Un animal te sirve y asiste tu lanzamiento de conjuros. Obtienes un familiar (las reglas para familiares se encuentran en la pagina 212 ([ver](/clases/companeros/familiares/)) de Player Core).
-
----
-
-### Extender Conjuro · :a: · Dote 1
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Puedes extender el alcance de tus conjuros. Si la siguiente accion que usas es Lanzar un Conjuro que tiene un alcance, incrementa el alcance de ese conjuro en 9 metros. Como es estandar para incrementar alcances de conjuros, si el conjuro normalmente tiene un alcance de toque, extiendes su alcance a 9 metros.
-
----
-
-### Aprovechar la Sangre · :a: · Dote 1
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Requisitos:** Te estas beneficiando de un efecto de magia de sangre.
-
-El poder en tu sangre te permite realizar hazañas menores de magia. Puedes realizar una de las siguientes acciones dependiendo de la tradicion de tu linaje.
-
-- **Arcano:** Tu mente se abre temporalmente a los secretos del mundo. Intenta Recordar Conocimiento; puedes usar Arcanos en lugar de la habilidad normalmente necesaria para ese tema. Si fallas criticamente esta prueba, obtienes un fallo en su lugar.
-- **Divino:** Cualquier procedencia divina en tu linaje te guia para moverte instintivamente a ti o a otros fuera del peligro. Das un Paso, o Reposicionas a un objetivo dentro de tu alcance usando Religion para la prueba.
-- **Oculto:** Extrañas nieblas o colores arremolinados ocultan tu movimiento. Das un Paso de hasta 3 metros.
-- **Primigenio:** El inmenso poder de la naturaleza resuena en tu voz. Puedes intentar una prueba de Naturaleza para Desmoralizar a un objetivo.
-
----
-
-### Ampliar Conjuro · :a: · Dote 1
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Manipulas la energia de tu conjuro, causando que afecte un area mas amplia. Si la siguiente accion que usas es Lanzar un Conjuro que tiene un area de explosion, cono o linea y no tiene duracion, incrementa el area de ese conjuro. Anade 1,5 metros al radio de una explosion que normalmente tiene un radio de al menos 3 metros (una explosion con un radio menor no se ve afectada). Anade 1,5 metros a la longitud de un cono o linea que normalmente tiene 4,5 metros de largo o menos, y anade 3 metros a la longitud de un cono o linea mas grande.
-
----
-
-## Dotes de Nivel 2
-
----
-
-### Ungir Aliado · :a: · Dote 2
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Forjas una conexion mistica con un aliado usando una gota de tu sangre, permitiendole beneficiarse de tu magia. Colocas una runa de sangre en un aliado adyacente que dura 1 minuto. Cuando tu o un aliado obtendria un efecto de magia de sangre, puedes renunciar a el, otorgandolo al aliado ungido en su lugar, incluso si no era objetivo de tu conjuro. Solo puedes ungir a un aliado a la vez; si colocas otra runa, tu designacion anterior termina.
-
----
-
-### Desangrar · :a: · Dote 2
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Requisitos:** Tu accion mas reciente fue lanzar un conjuro no trucos que te otorgo un efecto de magia de sangre.
-
-Canalizas la energia residual del ultimo conjuro que lanzaste en una sangria a distancia. Haz una tirada de ataque de conjuro contra la CA de un objetivo dentro de 18 metros. Este ataque inflige dano de sangrado persistente igual al rango del conjuro que acabas de lanzar.
-
----
-
-### Expansion de Trucos · Dote 2
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Comprendes mejor los poderes basicos de tu linaje. Anade dos trucos adicionales de tu lista de conjuros a tu repertorio.
-
----
-
-### Familiar Mejorado · Dote 2
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** un familiar
-
-Infundes a tu familiar con energia magica adicional. Puedes seleccionar cuatro habilidades de familiar o de amo cada dia, en lugar de dos.
-
----
-
-### Hechiceria Propulsora · Dote 2
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-La fuerza de tu magia puede usarse para propulsarte a ti o a otro. Conoces el siguiente efecto de magia de sangre.
-
-**Magia de Sangre - Hechiceria Propulsora:** Canalizas tu magia hacia afuera en un impulso de movimiento. O das un Paso como accion gratuita o mueves al objetivo 1,5 metros en una direccion de tu eleccion.
-
----
-
-## Dotes de Nivel 4
-
----
-
-### Evolucion Arcana · Dote 4
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arcano/" class="feat-trait">Arcano</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** linaje que otorga conjuros arcanos
-
-Tu legado arcano te permite percibir como la magia afecta todo. Te vuelves entrenado en una habilidad de tu eleccion. Adicionalmente, puedes usar artes arcanas para modificar tu seleccion de conjuros. Durante tus preparativos diarios, puedes elegir un conjuro en tu repertorio de conjuros para que sea un conjuro insignia ese dia. Puedes usar la actividad Aprender un Conjuro para anadir mas conjuros arcanos a la lista de la que eliges, pero si preparas un conjuro que no esta en tu repertorio, lo anades temporalmente a tu repertorio en el rango de conjuro de tu eleccion en lugar de hacerlo un conjuro insignia.
-
----
-
-### Golpes Hechizados · :f: · Dote 4
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Frecuencia:** una vez por turno
-
-**Requisitos:** Tu accion mas reciente fue lanzar un conjuro no trucos.
-
-Sifones energia de conjuro en un arma que estes empuñando o en uno de tus ataques desarmados, como un puno. Hasta el final de tu turno, el arma o ataque desarmado inflige 1d6 de dano de fuerza extra y obtiene el rasgo de la tradicion magica de tu linaje si no lo tenia ya. Si el conjuro infligio un tipo diferente de dano, el Golpe inflige este tipo de dano en su lugar (o un tipo de tu eleccion si el conjuro podia infligir multiples tipos de dano).
-
----
-
-### Evolucion Divina · Dote 4
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** linaje que otorga conjuros divinos
-
-El poder divino proporcionado por tu linaje fluye a traves de ti. Obtienes un espacio de conjuro adicional de tu rango mas alto, que puedes usar solo para lanzar tu eleccion de sanar o danar. Puedes lanzar cualquiera de estos conjuros usando ese espacio de conjuro, incluso si no estan en tu repertorio de conjuros.
-
----
-
-### Evolucion Oculta · Dote 4
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oculto/" class="feat-trait">Oculto</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** linaje que otorga conjuros ocultos
-
-Extraes poder de los secretos oscuros del universo. Te vuelves entrenado en una habilidad de tu eleccion. Adicionalmente, una vez al dia, puedes gastar 1 minuto para elegir un conjuro oculto mental que no conozcas y añadirlo a tu repertorio de conjuros. Pierdes este conjuro temporal la proxima vez que hagas tus preparativos diarios (aunque puedes usar esta habilidad para añadirlo de nuevo mas tarde).
-
----
-
-### Evolucion Primigenia · Dote 4
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/primigenio/" class="feat-trait">Primigenio</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** linaje que otorga conjuros primigenios
-
-Puedes invocar a las criaturas de lo salvaje para que te ayuden. Obtienes un espacio de conjuro adicional de tu rango mas alto, que puedes usar solo para lanzar invocar animal o invocar planta u hongo. Puedes lanzar cualquiera de estos conjuros usando ese espacio de conjuro, incluso si no estan en tu repertorio de conjuros.
-
----
-
-### Disparo Dividido · :a: · Dote 4
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Fragmentas un conjuro a distancia. Si tu siguiente accion es Lanzar un Conjuro sin duracion que requiere una tirada de ataque contra un solo objetivo, puedes elegir un segundo objetivo dentro del alcance. Haces una sola tirada de ataque y comparas el resultado con la CA de ambos objetivos. Esto cuenta como un ataque para tu penalizacion por ataques multiples. Al segundo objetivo, el conjuro inflige la mitad del dano que normalmente infligiria y no tiene efectos mas alla del dano inicial del conjuro (como imponer condiciones o penalizaciones).
-
----
-
-## Dotes de Nivel 6
-
----
-
-### Linaje Avanzado · Dote 6
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** conjuro de linaje
-
-Extraes mas poder de tu linaje. Obtienes el conjuro de linaje avanzado asociado con tu linaje.
-
----
-
-### Vortice Desviador · :a: · Dote 6
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Requisitos:** Tu accion mas reciente fue lanzar un conjuro no trucos.
-
-Usas vestigios de magia para crear un vortice protector. Hasta el inicio de tu siguiente turno, obtienes una bonificacion de estado +1 a la CA contra ataques con armas a distancia y ataques desarmados fisicos a distancia.
-
----
-
-### Guardia de Energia · :f: · Dote 6
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Frecuencia:** una vez por turno
-
-**Requisitos:** Tu accion mas reciente fue lanzar un conjuro no trucos que infligio dano de energia.
-
-Conviertes energia del ultimo conjuro que lanzaste en una guardia protectora. Hasta el inicio de tu siguiente turno, obtienes resistencia a un tipo de energia (acido, frio, electricidad, fuego, fuerza, sonico, vitalidad o vacio) igual a 4 + el rango del conjuro.
-
----
-
-### Conjuro Resguardado · :a: · Dote 6
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Estas inmune a los efectos de tus propios conjuros. Si la siguiente accion que tomas es Lanzar un Conjuro con un area, no te ves afectado por el conjuro incluso si estas dentro del area.
-
----
-
-### Retransmision de Conjuro · :r: · Dote 6
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Desencadenante:** Un aliado Lanza un Conjuro y estas dentro del alcance de ese conjuro.
-
-Abres el poder en tu sangre al lanzamiento de conjuros de tu aliado, usando tu magia para aumentar su alcance. Tu aliado puede usarte como punto de origen para su conjuro, calculando alcance y cobertura desde tu espacio en lugar del suyo.
-
----
-
-### Lanzamiento de Conjuros Estable · Dote 6
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Estas seguro de tu tecnica de lanzamiento de conjuros, y puedes retener tu concentracion mas facilmente cuando Lanzas un Conjuro. Si una reaccion interrumpiria tu accion de lanzamiento de conjuros, intenta una prueba plana de CD 15. Si tienes exito, tu accion no es interrumpida.
-
----
-
-## Dotes de Nivel 8
-
----
-
-### Resistencia del Linaje · Dote 8
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Tu sangre magica te hace mas resistente a la magia. Obtienes una bonificacion de estado +1 a las tiradas de salvacion contra conjuros y efectos magicos.
-
----
-
-### Evolucion de Sangre Cruzada · Dote 8
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Interacciones extrañas en tu linaje te proporcionan efectos inesperados. Elige otro linaje. Conoces el efecto de magia de sangre de ese linaje. Si el efecto de magia de sangre tiene un efecto variable basado en una eleccion que habrias hecho en el nivel 1 (como la influencia elemental del linaje elemental), tomas esa decision cuando eliges esta dote.
-
----
-
-### Explosion de Poder · Dote 8
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Tu magia explota. Conoces el siguiente efecto de magia de sangre.
-
-**Magia de Sangre - Explosion de Poder:** Poder bruto explota hacia afuera desde ti. Cada criatura dentro de una emanacion de 1,5 metros recibe 1d6 de dano por rango del conjuro que acabas de lanzar (salvacion de Reflejos basica). El tipo de dano depende de la tradicion de tu linaje. Si lanzas conjuros arcanos, infliges dano de fuerza. Si lanzas conjuros divinos, infliges dano de espiritu. Si lanzas conjuros ocultos, infliges dano mental. Si lanzas conjuros primigenios, infliges dano de fuego.
-
----
-
-## Dotes de Nivel 10
-
----
-
-### Fusion de Energia · :a: · Dote 10
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Fusionas dos conjuros, combinando sus tipos de energia. Si la siguiente accion que usas es Lanzar un Conjuro que inflige dano de energia, selecciona un conjuro no trucos en tu repertorio de conjuros que inflija un tipo diferente de dano de energia, y gastas un espacio de conjuro adicional del mismo rango que este conjuro secundario. El conjuro que lanzas inflige dano adicional igual al rango del espacio de conjuro secundario gastado. El dano total del conjuro se divide equitativamente entre el tipo de energia del conjuro que lanzas y el tipo de energia del conjuro secundario.
-
----
-
-### Linaje Mayor · Dote 10
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** conjuro de linaje
-
-Descubres los mayores secretos de tu linaje. Obtienes el conjuro de linaje mayor asociado con tu linaje.
-
----
-
-### Energia Abrumadora · :a: · Dote 10
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Alteras tus conjuros para atravesar las defensas de un enemigo. Si la siguiente accion que usas es Lanzar un Conjuro, el conjuro ignora una cantidad de la resistencia al dano de energia del objetivo igual a tu nivel. Esto se aplica a todo el dano que inflige el conjuro, incluyendo dano persistente y dano causado por un efecto continuo del conjuro, como el muro creado por muro de fuego. Las inmunidades de una criatura no se ven afectadas.
-
----
-
-### Lanzamiento Acelerado · :f: · Dote 10
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-**Frecuencia:** una vez al dia
-
-Lanzas un conjuro mas eficientemente. Si tu siguiente accion es lanzar un trucos de hechicero o un conjuro de hechicero que es al menos 2 rangos menor que el espacio de conjuro de hechicero de rango mas alto que tengas, reduce el numero de acciones para lanzarlo en 1 (minimo 1 accion).
-
----
-
-### Expansion de Conjuro Insignia · Dote 10
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Tu conexion innata con la magia te permite lanzar mas conjuros con mayor libertad. Obtienes dos conjuros insignia adicionales, cada uno de los cuales debe tener un rango base de 3 o menor.
-
----
-
-## Dotes de Nivel 12
-
----
-
-### Soberania de Sangre · Dote 12
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Manejas la magia de sangre magistralmente. Cuando te beneficiarias de un efecto de magia de sangre, puedes elegir perder Puntos de Golpe iguales al doble del rango del conjuro mientras la energia de tu sangre es extraida. Esto no requiere accion adicional, y te beneficias de dos efectos de magia de sangre diferentes que conozcas como resultado. Los dos efectos pueden tener diferentes objetivos.
-
----
-
-### Foco del Linaje · Dote 12
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** conjuro de linaje
-
-Al escuchar el latido de tu corazon, tu foco se recupera mas rapido. Siempre que Reenfocas, llenas completamente tu reserva de foco.
-
----
-
-### Evolucion Fisica Mayor · Dote 12
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** Evolucion Arcana o Evolucion Primigenia
-
-Cambias de forma facilmente. Una vez al dia, puedes usar un espacio de conjuro de hechicero para lanzar cualquier conjuro comun de polimorfia de forma de batalla del rango del espacio de conjuro como si fuera un conjuro insignia en tu repertorio. Puedes usar el espacio de conjuro extra de Evolucion Arcana o Evolucion Primigenia en lugar de un espacio de conjuro de hechicero.
-
----
-
-### Evolucion Espiritual Mayor · Dote 12
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** Evolucion Divina o Evolucion Oculta
-
-Tu sangre magica permite que tus conjuros sean completamente efectivos contra criaturas incorporeas. Tus conjuros tienen los efectos de una runa de propiedad de toque fantasmal. Pueden tener como objetivo o afectar a una criatura que proyecta su conciencia (como via imagen proyectada) o posee a otra criatura, incluso si su cuerpo esta en otro lugar, aunque debes saber sobre la posesion o proyeccion y elegir hacerlo. Tus conjuros pueden afectar criaturas en el Plano Etereo, aunque esto no te otorga la habilidad de localizarlas.
-
----
-
-### Sentido Magico · Dote 12
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/deteccion/" class="feat-trait">Deteccion</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Tienes literalmente un sexto sentido para la magia. Puedes sentir la presencia de auras magicas como si siempre estuvieras usando un conjuro de detectar magia de rango 1. Esto detecta magia solo en tu campo de vision. Cuando Buscas, obtienes los beneficios de un conjuro de detectar magia de rango 3 en las cosas que ves (ademas de los beneficios normales de Buscar). Puedes activar y desactivar este sentido con una accion gratuita al inicio o al final de tu turno.
-
-**Especial:** Esta dote tiene el rasgo correspondiente a la tradicion de tu linaje.
-
----
-
-### Triquinuela Terraformadora · :a: · Dote 12
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/tierra/" class="feat-trait">Tierra</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Sabes como canalizar los aspectos transformadores de tu magia de sangre para alterar tu entorno. Conoces el siguiente efecto de magia de sangre.
-
-**Magia de Sangre - Triquinuela Terraformadora:** O cada espacio adyacente a ti se convierte en terreno dificil, o cada espacio adyacente a ti deja de ser terreno dificil. Esto no tiene ningun efecto en terreno muy dificil y no elimina los efectos daninos del terreno peligroso.
-
----
-
-## Dotes de Nivel 14
-
----
-
-### Ascendencia de Sangre · Dote 14
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** Sangre Emergente
-
-Cuando te beneficiarias de un efecto de magia de sangre a traves de Sangre Emergente, puedes elegir beneficiarte de dos efectos de magia de sangre diferentes que conozcas. Los efectos siguen las mismas reglas dadas en Sangre Emergente, y cada efecto puede tener un objetivo diferente.
-
----
-
-### Entrelazar Disipacion · :a: · Dote 14
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-**Prerrequisitos:** disipar magia en tu repertorio de conjuros
-
-Tejes energia disipadora en un conjuro. Si tu siguiente accion es lanzar un conjuro de objetivo unico contra un enemigo, y aciertas al enemigo con la tirada de ataque del conjuro o el enemigo falla su tirada de salvacion, puedes lanzar disipar magia sobre el enemigo como una accion gratuita, gastando un espacio de conjuro como es normal y teniendo como objetivo un efecto de conjuro que afecte al enemigo.
-
----
-
-### Reflejar Dano · Dote 14
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Puedes envolver tu magia alrededor de ti como una capa que causa que aquellos que se atreven a tenerte como objetivo con conjuros sufran un destino similar. Conoces el siguiente efecto de magia de sangre.
-
-**Magia de Sangre - Reflejar Dano:** Tu sangre asegura que aquellos que te danan con magia sean danados a cambio. La primera vez que recibes dano de un conjuro antes del comienzo de tu siguiente turno, intenta una tirada de ataque de conjuro contra la criatura que lanzo el conjuro desencadenante. Con un acierto, la criatura recibe la misma cantidad y tipo de dano que acabas de recibir. Si aciertas criticamente, la criatura recibe el doble del dano.
-
----
-
-### Velo de Conjuro · :a: · Dote 14
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Tu conjuro te envuelve en una nube ondulante. Si tu siguiente accion es Lanzar un Conjuro que te tiene como objetivo, te rodeas en una emanacion de 4,5 metros de niebla magica densa que dura hasta el inicio de tu siguiente turno. Todas las criaturas dentro de la nube quedan ocultas, y todas las criaturas fuera de la nube estan ocultas para las criaturas dentro de ella.
-
----
-
-## Dotes de Nivel 16
-
----
-
-### Concentracion sin Esfuerzo · :f: · Dote 16
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Desencadenante:** Comienza tu turno.
-
-Mantienes un conjuro sin apenas pensarlo. Inmediatamente obtienes los efectos de la accion Sostener un Conjuro, permitiendote extender la duracion de uno de tus conjuros de hechicero activos.
-
----
-
-### Evolucion Mental Mayor · Dote 16
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** Evolucion Arcana o Evolucion Oculta
-
-La profunda conexion de tu linaje con la esencia mental mejora enormemente tu repertorio de conjuros. Anade un conjuro a tu repertorio de conjuros por cada rango de conjuro que puedas lanzar.
-
----
-
-### Evolucion Vital Mayor · Dote 16
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** Evolucion Divina o Evolucion Primigenia
-
-El poder vital surge a traves de ti como una fuente de energia. Dos veces al dia, puedes lanzar un conjuro despues de haberte quedado sin espacios de conjuro del rango de conjuro apropiado; los dos conjuros que lanzas con esta dote deben ser de diferentes rangos de conjuro.
-
----
-
-### Conjuro Centelleante · :a: · Dote 16
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/luz/" class="feat-trait">Luz</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Tus conjuros se convierten en una exhibicion radiante de luz y color. Si tu siguiente accion es Lanzar un Conjuro que no tiene el rasgo oscuridad, no tiene duracion y requiere que las criaturas intenten una salvacion de Reflejos, el conjuro explota en un rocio de luces centelleantes, ademas de sus otros efectos. Cada criatura que fallo su salvacion de Reflejos contra el conjuro queda deslumbrada durante 1 asalto, y aquellos que fallaron criticamente quedan cegados durante 1 asalto en su lugar.
-
----
-
-## Dotes de Nivel 18
-
----
-
-### Conjuro Resonante · :a: · Dote 18
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-Sincronizas los componentes de tu conjuro con precision exacta, estableciendo una resonancia que duplica los efectos del conjuro. Si tu siguiente accion es Lanzar un Conjuro de rango 4 o menor que no tiene duracion, la energia del conjuro reverbera y hace eco. Puedes Lanzar el Conjuro una segunda vez antes del final de tu siguiente turno sin gastar un espacio de conjuro.
-
----
-
-### Evolucion de Sangre Cruzada Mayor · Dote 18
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** Evolucion de Sangre Cruzada
-
-Tu linaje es extraordinariamente complejo. Elige hasta tres de los conjuros de regalo hechiceresco otorgados por tu linaje secundario. Anades estos conjuros a tu repertorio de conjuros, intensificados al rango mas alto de conjuros que puedas lanzar o al rango mas alto al que puedan ser intensificados que sea menor que el rango mas alto de conjuros que puedas lanzar. Lanzas estos conjuros como la tradicion de tu linaje primario.
-
----
-
-## Dotes de Nivel 20
-
----
-
-### Conducto del Linaje · :a: · Dote 20
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
-
-**Frecuencia:** una vez por minuto
-
-Tu naturaleza magica innata te permite redirigir energias ambientales para alimentar tus conjuros. Si tu siguiente accion es Lanzar un Conjuro de rango 5 o menor que no tiene duracion, no gastas el espacio del conjuro cuando lo lanzas.
-
----
-
-### Mutacion del Linaje · Dote 20
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** un linaje basado en un tipo especifico de criatura
-
-Mutas permanentemente para volverte mas como las criaturas de tu linaje. Obtienes el rasgo o rasgos apropiados para esos tipos de criaturas (aberracion para aberrante, angel y celestial para angelical, demonio y maligno para demonico, y asi sucesivamente). Obtienes vision en penumbra o vision en la oscuridad, si alguna es apropiada para criaturas con esos rasgos. Elige una de las siguientes opciones.
-
-- Si las criaturas asociadas con tu linaje tienen la habilidad de volar, obtienes una Velocidad de vuelo igual a tu Velocidad de tierra.
-- Si las criaturas asociadas con tu linaje son acuaticas o anfibias, te vuelves anfibio, capaz de respirar agua y aire igualmente bien, y obtienes una Velocidad de nado igual a tu Velocidad de tierra.
-- Si las criaturas asociadas con tu linaje tienen resistencia o inmunidad al acido, frio, electricidad, fuego, vacio o sonico, elige un tipo de energia al que tu linaje sea inmune o resistente y obtienes resistencia 20 contra ese tipo de energia.
-
----
-
-### Perfeccion del Linaje · Dote 20
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-**Prerrequisitos:** paragon del linaje
-
-Dominas los poderes supremos de tu linaje y tradicion. Obtienes un espacio de conjuro de rango 10 adicional.
-
----
-
-### Maestria en Forma de Conjuro · Dote 20
-
-<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
-
-Alterar tus conjuros no toma mas tiempo que lanzarlos normalmente. Puedes usar acciones unicas de forma de conjuro como acciones gratuitas.
-
----

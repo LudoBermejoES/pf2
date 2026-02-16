@@ -15,770 +15,125 @@ En cada nivel en el que obtienes una dote de bardo, puedes seleccionar una de la
 
 ## Nivel 1
 
-### Bien Versado
-**Dote 1**
-
-*Bardo*
-
-Eres resistente a las influencias interpretativas distintas a las tuyas. Obtienes un bonificados +1 por circunstancia a las tiradas de salvación contra los efectos con los rasgos auditivo, ilusión, linguistico, sonico o visual.
-
----
-
-### Composicion Persistente
-**Dote 1**
-
-*Bardo*
-
-**Prerrequisitos** musa maestro
-
-Añadiendo un floreo haces que tus composiciones duren mas. Aprendes el conjuro de foco composición persistente.
-
----
-
-### Conjuro de Alcance {% include accion.html tipo="1" %}
-**Dote 1**
-
-*Bardo, Concentrar, Moldeo de Conjuros*
-
-Puedes alargar el alcance de tu conjuro. Si la siguiente acción que utilizas es Lanzar un conjuro que tiene alcance, incrementa dicho alcance en 30 pies (9 m). Como es habitual cuando se incrementan los alcances de conjuro, si este tiene normalmente un alcance de toque, lo alargas a 30 pies (9 m).
-
----
-
-### Himno de Curacion
-**Dote 1**
-
-*Bardo*
-
-Aprendes el conjuro de composición himno de curación, que imbuye tu musica con ricas melodias que ayudan a tus aliados a recuperarse del dano.
-
----
-
-### Interpretación Marcial
-**Dote 1**
-
-*Bardo*
-
-**Prerrequisitos** musa combatiente
-
-Tu musa te ha ensenado a manejar una variedad de armas mayor que la mayoría de bardos, lo que te permite mezclar sin esfuerzo tus interpretaciones con las herramientas del combate. Cuando tienes activo el truco de composición himno valeroso y danas a un enemigo con un Golpe, la duración del conjuro se alarga 1 asalto. Solo puedes alargar una vez de esta forma un lanzamiento individual.
-
-Si obtienes los trucos de composición himno de reagrupamiento o canción de fuerza, tambien puedes aplicar dicho beneficio a dichos trucos.
-
----
-
-### Interpretación Versatil
-**Dote 1**
-
-*Bardo*
-
-**Prerrequisitos** musa polifacetico
-
-Puedes confiar en la majestuosidad de tus interpretaciones en lugar de en tus habilidades sociales ordinarias. Puedes utilizar Interpretación en lugar de Diplomacia para Causar impresión y en lugar de Intimidación para Desmoralizar. Tambien puedes utilizar una interpretación de actuación en lugar de Engano para Imitar.
-
-Ademas, puedes utilizar tu rango de competencia en Interpretación para cumplir los prerrequisitos de las dotes de habilidad que requieren un rango de competencia en particular en Engano, Diplomacia o Intimidación.
-
----
-
-### Saber Bardico
-**Dote 1**
-
-*Bardo*
-
-**Prerrequisitos** musa enigma
-
-Tus estudios te permiten estar informado de prácticamente todos los temas. Estas entrenado en Saber (barrido), una habilidad de Saber especial que se puede utilizar tan solo para Recordar conocimiento, pero sobre cualquier tema. Si tu competencia en ocultismo es a rango legendario, obtienes competencia a rango experto en Saber (barrido), pero no puedes incrementar dicho nivel por ningún otro medio.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Bien Versado]({{ '/dotes/bardo/bien-versado/' | relative_url }}) | Eres resistente a las influencias interpretativas distintas a las tuyas. Obtienes un bonificados +1 por circunstancia a las tiradas de salvación co... | Bardo | — |
+| [Composicion Persistente]({{ '/dotes/bardo/composicion-persistente/' | relative_url }}) | Añadiendo un floreo haces que tus composiciones duren mas. Aprendes el conjuro de foco composición persistente. | Bardo | musa maestro |
+| [Conjuro de Alcance]({{ '/dotes/bardo/conjuro-de-alcance/' | relative_url }}) | Puedes alargar el alcance de tu conjuro. Si la siguiente acción que utilizas es Lanzar un conjuro que tiene alcance, incrementa dicho alcance en 30... | Bardo | — |
+| [Himno de Curacion]({{ '/dotes/bardo/himno-de-curacion/' | relative_url }}) | Aprendes el conjuro de composición himno de curación, que imbuye tu musica con ricas melodias que ayudan a tus aliados a recuperarse del dano. | Bardo | — |
+| [Interpretación Marcial]({{ '/dotes/bardo/interpretacion-marcial/' | relative_url }}) | Tu musa te ha ensenado a manejar una variedad de armas mayor que la mayoría de bardos, lo que te permite mezclar sin esfuerzo tus interpretaciones ... | Bardo | musa combatiente |
+| [Interpretación Versatil]({{ '/dotes/bardo/interpretacion-versatil/' | relative_url }}) | Puedes confiar en la majestuosidad de tus interpretaciones en lugar de en tus habilidades sociales ordinarias. Puedes utilizar Interpretación en lu... | Bardo | musa polifacetico |
+| [Saber Bardico]({{ '/dotes/bardo/saber-bardico/' | relative_url }}) | Tus estudios te permiten estar informado de prácticamente todos los temas. Estas entrenado en Saber (barrido), una habilidad de Saber especial que ... | Bardo | musa enigma |
 
 ## Nivel 2
 
-### Audiencia Dirigida
-**Dote 2**
-
-*Bardo*
-
-Puedes moldear el area de tus conjuros de composición. Siempre que lanzas un conjuro de composición cuya area es una emanación, puedes cambiar dicha area a un cono 10 pies (3 m) mas grande, hasta un máximo del doble del area original. Por ejemplo, podrías modificar un conjuro de composición que afectara a una emanación de 30 pies (9 m) para que afectara a un cono de 40 pies (12 m), pero una emanación de 5 pies (1,5 m) tan solo podría convertirse en un cono de 10 pies (3 m).
-
----
-
-### Canción de Fuerza
-**Dote 2**
-
-*Bardo*
-
-**Prerrequisitos** musa combatiente
-
-Tus interpretaciones inspiran fuerza en tus aliados para que les ayude en las tareas físicas. Aprendes el truco de composición canción de fuerza.
-
----
-
-### Empujón Emocional {% include accion.html tipo="reaccion" %}
-**Dote 2**
-
-*Bardo, Concentrar*
-
-**Desencadenante** Un enemigo del que eres consciente falla su salvación contra un conjuro de emocion.
-
-Te preparas para cobrar ventaja del cambio repentino de emociones de tu enemigo, que queda desprevenido contra tu siguiente ataque antes del final de tu siguiente turno.
-
----
-
-### Estudio del Maestro del Saber
-**Dote 2**
-
-*Bardo, Fortuna*
-
-**Prerrequisitos** musa enigma
-
-Liberas recuerdos magicamente, haciéndolos mas faciles de recuperar. Aprendes el conjuro de composición estudio del maestro del saber.
-
----
-
-### Expansion de Truco
-**Dote 2**
-
-*Bardo*
-
-El estudio amplia tu gama de conjuros sencillos. Anade 2 trucos adicionales a tu repertorio, procedentes de tu lista de conjuros.
-
----
-
-### Musa Variopinta
-**Dote 2**
-
-*Bardo*
-
-Tu musa no se puede catalogar con una sola etiqueta. Elige un tipo de musa diferente al tuyo. Obtienes una dote de 1.er nivel que requiere dicha musa y la tuya es ahora tambien una musa de dicho tipo, lo que te permite adquirir dotes que tienen como prerrequisito a la otra. No obtienes ningún otro de los efectos de la musa elegida.
-
-**Especial** Puedes adquirir esta dote en multiples ocasiones. Cada vez que lo haces, puedes elegir un tipo de musa diferente a la tuya.
-
----
-
-### Obertura Inspiradora
-**Dote 2**
-
-*Bardo*
-
-**Prerrequisitos** musa maestro
-
-Aprendes el truco de composición obertura estimulante, que ayuda a las habilidades de tus aliados con la naturaleza inspiradora de tu Interpretación.
-
----
-
-### Polifacetico Esoterico
-**Dote 2**
-
-*Bardo*
-
-**Prerrequisitos** musa polifacetico
-
-Tienes un libro de conjuros ocultistas, similar al de conjuros de un mago, que puedes utilizar para aumentar tu repertorio de conjuros. Suma a ese libro todos los conjuros de tu repertorio de forma gratuita. Puedes usar la habilidad Ocultismo para Aprender un conjuro y anadirlos a tu libro de conjuros pagando el coste apropiado.
-
-Durante tus preparativos diarios, elige cualquier conjuro de tu libro de conjuros ocultistas. Si ya esta en tu repertorio, puedes tratarlo como un conjuro de signatura adicional ese dia. Si no lo esta, trámalo como si estuviera hasta tus siguientes preparativos diarios.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Audiencia Dirigida]({{ '/dotes/bardo/audiencia-dirigida/' | relative_url }}) | Puedes moldear el area de tus conjuros de composición. Siempre que lanzas un conjuro de composición cuya area es una emanación, puedes cambiar dich... | Bardo | — |
+| [Canción de Fuerza]({{ '/dotes/bardo/cancion-de-fuerza/' | relative_url }}) | Tus interpretaciones inspiran fuerza en tus aliados para que les ayude en las tareas físicas. Aprendes el truco de composición canción de fuerza. | Bardo | musa combatiente |
+| [Empujón Emocional]({{ '/dotes/bardo/empujon-emocional/' | relative_url }}) | Te preparas para cobrar ventaja del cambio repentino de emociones de tu enemigo, que queda desprevenido contra tu siguiente ataque antes del final ... | Bardo | — |
+| [Estudio del Maestro del Saber]({{ '/dotes/bardo/estudio-del-maestro-del-saber/' | relative_url }}) | Liberas recuerdos magicamente, haciéndolos mas faciles de recuperar. Aprendes el conjuro de composición estudio del maestro del saber. | Bardo | musa enigma |
+| [Expansion de Truco]({{ '/dotes/bardo/expansion-de-truco/' | relative_url }}) | El estudio amplia tu gama de conjuros sencillos. Anade 2 trucos adicionales a tu repertorio, procedentes de tu lista de conjuros. | Bardo | — |
+| [Musa Variopinta]({{ '/dotes/bardo/musa-variopinta/' | relative_url }}) | Tu musa no se puede catalogar con una sola etiqueta. Elige un tipo de musa diferente al tuyo. Obtienes una dote de 1.er nivel que requiere dicha mu... | Bardo | — |
+| [Obertura Inspiradora]({{ '/dotes/bardo/obertura-inspiradora/' | relative_url }}) | Aprendes el truco de composición obertura estimulante, que ayuda a las habilidades de tus aliados con la naturaleza inspiradora de tu Interpretación. | Bardo | musa maestro |
+| [Polifacetico Esoterico]({{ '/dotes/bardo/polifacetico-esoterico/' | relative_url }}) | Tienes un libro de conjuros ocultistas, similar al de conjuros de un mago, que puedes utilizar para aumentar tu repertorio de conjuros. Suma a ese ... | Bardo | musa polifacetico |
 
 ## Nivel 4
 
-### Afinado {% include accion.html tipo="1" %}
-**Dote 4**
-
-*Bardo, Concentrar, Moldeo de Conjuros*
-
-**Prerrequisitos** musa maestro
-
-Afinas tu gran habilidad de interpretación con otro, concediéndole una pequena parte de la misma como si cualquiera pudiera hacerlo. Si tu siguiente acción es Lanzar un conjuro de composición con una area de emanación, dicha area se extiende a partir de un aliado voluntario a tu elección a 60 pies (18 m) o menos en lugar de ti.
-
-Si dispones de Audiencia dirigida, en su lugar puedes hacer que el cono se origine en el aliado.
-
----
-
-### Avance Valeroso {% include accion.html tipo="1" %}
-**Dote 4**
-
-*Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
-
-**Prerrequisitos** musa combatiente
-
-Con un grito de animo, exhortas a un aliado a avanzar. Si tu siguiente acción es lanzar el truco de composición himno valeroso, un aliado a tu elección que obtiene un bonificados por estatus debido al conjuro puede utilizar de inmediato su reacción para dar una Zancada.
-
----
-
-### Conjuro Melodioso {% include accion.html tipo="1" %}
-**Dote 4**
-
-*Bardo, Concentrar, Moldeo de Conjuros*
-
-Tejes sutilmente tu lanzamiento de conjuros en forma de interpretación. Si la siguiente acción que utilizas es Lanzar un conjuro, este obtiene el rasgo sutil, ocultando las runas brillantes, las chispas de magia y otras manifestaciones que por lo general delatarían tu lanzamiento de conjuros. El rasgo oculta tan solo las acciones de lanzamiento de conjuros y sus manifestaciones, no sus efectos, por lo que un observador podría seguir viendo un rayo saliendo de ti o a ti desaparecer por completo.
-
-Como parte de utilizar Conjuro melodioso puedes elegir Crear una distracción, Desmoralizar, Interpretar o Pedir. Si lo haces, el conjuro lanzado debe tener el rasgo auditivo, emoción, sonico o visual para obtener el rasgo sutil.
-
----
-
-### Himno de Reagrupamiento
-**Dote 4**
-
-*Bardo*
-
-Aprendes el truco de composición himno de reagrupamiento, que te protege a ti y a tus aliados.
-
----
-
-### Investigador Ritual
-**Dote 4**
-
-*Poco comun, Bardo*
-
-**Prerrequisitos** musa enigma, rango experto en ocultismo
-
-Una cuidadosa investigación sobre el arte de los rituales te ha hecho mejor a la hora de interpretarlos. Obtienes un bonificados +2 por circunstancia a todas las pruebas principales y secundarias que haces como parte de lanzar un ritual.
-
----
-
-### Lectura de Combate {% include accion.html tipo="1" %}
-**Dote 4**
-
-*Bardo, Secreto*
-
-Utilizas las técnicas de lectura en frio de un artista, leer el aura y otros trucos para descubrir las fortalezas y debilidades de tu enemigo. El DJ hace una prueba secreta de Ocultismo por ti contra la CD de Engano o Sigilo (la mayor) de un enemigo a tu elección que no esta oculto de ti, escondido de ti o no detectado por ti y que esta trabado en combate. El DJ podría aplicar un penalizador debido a la distancia entre el enemigo y tu. Después, el enemigo queda temporalmente inmune a tu Lectura de combate durante 1 dia.
-
-- **Éxito critico** El DJ elige y te cuenta dos de los siguientes fragmentos de información acerca del enemigo: cual de sus debilidades es mayor, cual de sus tiradas de salvación tiene el modificador mas bajo, una inmunidad que tiene o cual es la mayor de sus resistencias. En caso de empate, el DJ elige una al azar.
-- **Éxito** El DJ elige un fragmento de información acerca del enemigo de la lista superior para proporcionárselo.
-- **Fallo critico** El DJ te proporciona información falsa (que se inventa el mismo).
-
----
-
-### Signatura Versatil
-**Dote 4**
-
-*Bardo*
-
-**Prerrequisitos** musa polifacetico
-
-Si bien a la mayoría de bardos se les conoce por ciertas interpretaciones y conjuros de signatura, tu siempre estas haciendo mejoras en tu repertorio. Cuando llevas a cabo tus preparativos diarios, puedes cambiar uno de tus conjuros de signatura por un conjuro diferente del mismo nivel de tu repertorio.
-
----
-
-### Triplicar la Marcha
-**Dote 4**
-
-*Bardo*
-
-Aprendes el truco de composición triplicar la marcha, que os acelera a tus aliados y a ti durante 1 asalto.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Afinado]({{ '/dotes/bardo/afinado/' | relative_url }}) | Afinas tu gran habilidad de interpretación con otro, concediéndole una pequena parte de la misma como si cualquiera pudiera hacerlo. Si tu siguient... | Bardo | musa maestro |
+| [Avance Valeroso]({{ '/dotes/bardo/avance-valeroso/' | relative_url }}) | Con un grito de animo, exhortas a un aliado a avanzar. Si tu siguiente acción es lanzar el truco de composición himno valeroso, un aliado a tu elec... | Auditivo | musa combatiente |
+| [Conjuro Melodioso]({{ '/dotes/bardo/conjuro-melodioso/' | relative_url }}) | Tejes sutilmente tu lanzamiento de conjuros en forma de interpretación. Si la siguiente acción que utilizas es Lanzar un conjuro, este obtiene el r... | Bardo | — |
+| [Himno de Reagrupamiento]({{ '/dotes/bardo/himno-de-reagrupamiento/' | relative_url }}) | Aprendes el truco de composición himno de reagrupamiento, que te protege a ti y a tus aliados. | Bardo | — |
+| [Investigador Ritual]({{ '/dotes/bardo/investigador-ritual/' | relative_url }}) | Una cuidadosa investigación sobre el arte de los rituales te ha hecho mejor a la hora de interpretarlos. Obtienes un bonificados +2 por circunstanc... | Poco comun | musa enigma, rango experto en ocultismo |
+| [Lectura de Combate]({{ '/dotes/bardo/lectura-de-combate/' | relative_url }}) | Utilizas las técnicas de lectura en frio de un artista, leer el aura y otros trucos para descubrir las fortalezas y debilidades de tu enemigo. El D... | Bardo | — |
+| [Signatura Versatil]({{ '/dotes/bardo/signatura-versatil/' | relative_url }}) | Si bien a la mayoría de bardos se les conoce por ciertas interpretaciones y conjuros de signatura, tu siempre estas haciendo mejoras en tu repertor... | Bardo | musa polifacetico |
+| [Triplicar la Marcha]({{ '/dotes/bardo/triplicar-la-marcha/' | relative_url }}) | Aprendes el truco de composición triplicar la marcha, que os acelera a tus aliados y a ti durante 1 asalto. | Bardo | — |
 
 ## Nivel 6
 
-### Armonizar {% include accion.html tipo="1" %}
-**Dote 6**
-
-*Bardo, Concentrar, Manipular, Moldeo de Conjuros*
-
-**Prerrequisitos** musa maestro
-
-Puedes ejecutar simultaneamente multiples composiciones, tipicamente interpretando de muchas formas al mismo tiempo, utilizando técnicas vocales especiales para doblar tu voz o creando una magia ocultista que replica tus canciones o tu habla. Si tu siguiente acción es lanzar una composición, se convierte en una composición armonizada. A diferencia de una composición normal, una armonizada no acaba si lanzas otra y puedes lanzar otra en el mismo turno que una armonizada. Lanzar otra composición armonizada acabara cualquier composición armonizada que tengas funcionando.
-
----
-
-### Canción de Marcha
-**Dote 6**
-
-*Bardo*
-
-Aprendes el truco de composición canción de marcha, que os permite a tus aliados y a ti cruzar vastas distancias sin esfuerzo.
-
----
-
-### Conocimiento Asegurado
-**Dote 6**
-
-*Bardo, Fortuna*
-
-**Prerrequisitos** musa enigma
-
-Puedes facilitar información con confianza. Siempre que Recuerdas conocimiento utilizando cualquier habilidad (incluyendo Saber [barrido]), puedes no tirar los dados para la prueba y obtener en su lugar un resultado de 10 + tu bonificados por competencia (no se aplica ningún otro bonificados, penalizador ni modificador).
-
-Si dispones del rango experto en una habilidad, cumples los prerrequisitos para la dote de habilidad Conocimiento automatico para dicha habilidad, incluso si no tienes la dote Seguro para dicha habilidad.
-
----
-
-### Coordinación Defensiva {% include accion.html tipo="1" %}
-**Dote 6**
-
-*Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
-
-**Prerrequisitos** musa combatiente, Himno de reagrupamiento
-
-Como los heroes de los relatos que persisten frente a probabilidades abrumadoras, tus aliados y tu mantenéis la linea. Si tu siguiente acción es lanzar el truco de composición himno de reagrupamiento, puedes Alzar un escudo y un (solo) aliado a tu elección que obtiene un bonificados por estatus debido al conjuro puede utilizar de inmediato su reacción para Alzar un escudo.
-
----
-
-### Educar Aliados {% include accion.html tipo="reaccion" %}
-**Dote 6**
-
-*Bardo, Concentrar*
-
-**Prerrequisitos** Bien versado
-
-**Desencadenante** Un aliado que se esta beneficiando de uno de tus conjuros de composicion se ve sujeto a un efecto con el rasgo auditivo, ilusion, linguistico, sonico o visual.
-
-Ajustas las propiedades de tu conjuro de composición para transmitir un fragmento de tu conocimiento defensivo. Todos los aliados afectados por tu conjuro de composición obtienen tu mismo bonificados +1 por circunstancia debido a Bien versado hasta el inicio de tu siguiente turno. Enseñar a tus aliados tambien refuerza tus propias habilidades; tu bonificados por circunstancia personal debido a Bien versado se incrementa a +2 hasta el inicio de tu siguiente turno.
-
----
-
-### Endecha de Perdicion
-**Dote 6**
-
-*Bardo*
-
-Aprendes el truco de composición endecha de perdición que asusta a tus enemigos y evita que se recuperen por completo de su miedo.
-
----
-
-### Lanzamiento de Conjuros Firme
-**Dote 6**
-
-*Bardo*
-
-No pierdes facilmente tus conjuros. Si una reacción interrumpiría tu acción de lanzamiento de conjuros, haz una prueba plana CD 15. Si tienes éxito, tu acción no queda interrumpida.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Armonizar]({{ '/dotes/bardo/armonizar/' | relative_url }}) | Puedes ejecutar simultaneamente multiples composiciones, tipicamente interpretando de muchas formas al mismo tiempo, utilizando técnicas vocales es... | Bardo | musa maestro |
+| [Canción de Marcha]({{ '/dotes/bardo/cancion-de-marcha/' | relative_url }}) | Aprendes el truco de composición canción de marcha, que os permite a tus aliados y a ti cruzar vastas distancias sin esfuerzo. | Bardo | — |
+| [Conocimiento Asegurado]({{ '/dotes/bardo/conocimiento-asegurado/' | relative_url }}) | Puedes facilitar información con confianza. Siempre que Recuerdas conocimiento utilizando cualquier habilidad (incluyendo Saber [barrido]), puedes ... | Bardo | musa enigma |
+| [Coordinación Defensiva]({{ '/dotes/bardo/coordinacion-defensiva/' | relative_url }}) | Como los heroes de los relatos que persisten frente a probabilidades abrumadoras, tus aliados y tu mantenéis la linea. Si tu siguiente acción es la... | Auditivo | musa combatiente, Himno de reagrupamiento |
+| [Educar Aliados]({{ '/dotes/bardo/educar-aliados/' | relative_url }}) | Ajustas las propiedades de tu conjuro de composición para transmitir un fragmento de tu conocimiento defensivo. Todos los aliados afectados por tu ... | Bardo | Bien versado |
+| [Endecha de Perdicion]({{ '/dotes/bardo/endecha-de-perdicion/' | relative_url }}) | Aprendes el truco de composición endecha de perdición que asusta a tus enemigos y evita que se recuperen por completo de su miedo. | Bardo | — |
+| [Lanzamiento de Conjuros Firme]({{ '/dotes/bardo/lanzamiento-de-conjuros-firme/' | relative_url }}) | No pierdes facilmente tus conjuros. Si una reacción interrumpiría tu acción de lanzamiento de conjuros, haz una prueba plana CD 15. Si tienes éxito... | Bardo | — |
 
 ## Nivel 8
 
-### Acompañar {% include accion.html tipo="reaccion" %}
-**Dote 8**
-
-*Bardo, Concentrar, Manipular*
-
-**Desencadenante** Un aliado a 30 pies (9 m) o menos Lanza un conjuro.
-
-Utilizas tus interpretaciones para suplementar el lanzamiento de conjuros de un aliado, proporcionando en su lugar energia magica para su conjuro. Haz una prueba de Interpretación utilizando una CD muy alta para el nivel de aliado (Manual de dirección) y, o bien gastas 1 Punto de Foco (si el conjuro desencadenante es un conjuro de foco), o bien gastas un espacio de conjuro por lo menos 1 nivel mayor que el conjuro desencadenante. Si tienes éxito en tu prueba de Interpretación, el conjuro de tu aliado no cuesta el Punto de Foco o el espacio de conjuro que dicho aliado tendría que gastar habitualmente.
-
----
-
-### Composicion Fortissima
-**Dote 8**
-
-*Bardo*
-
-**Prerrequisitos** musa maestro
-
-Tus himnos se hacen mas altos y mas potentes, reforzados por el poder de tu musa. Aprendes el conjuro de foco de moldeo de conjuros composición fortísima.
-
----
-
-### Habilidad Eclectica
-**Dote 8**
-
-*Bardo*
-
-**Prerrequisitos** musa polifacetico, rango maestro en Ocultismo
-
-Tu amplia experiencia se refleja en una buena gama de habilidades. Tu bonificados por competencia a las pruebas de habilidades no entrenadas es igual a tu nivel. Puedes hacer cualquier prueba de habilidad que normalmente requiere estar entrenado, incluso si no lo estas. Si dispones de competencia a rango legendario en Ocultismo, puedes hacer cualquier prueba de habilidad que normalmente requiere competencia a rango experto, incluso sin estar entrenado o estando simplemente entrenado.
-
----
-
-### Llamada y Respuesta {% include accion.html tipo="1" %}
-**Dote 8**
-
-*Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
-
-Tu composición adopta la forma de un cantico de llamada y respuesta que permite a tus aliados continuar el efecto sin ti. Si tu siguiente acción es lanzar un truco de composición con una duración de 1 asalto, se convierte en una llamada. Mientras el conjuro permanece activo, un aliado a tu elección afectado por el conjuro puede responder a tu llamada como una sola acción que tiene los rasgos auditivo y concentrar para prolongar durante 1 asalto la duración del mismo. Solo un aliado puede responder a una llamada determinada, y responder a la respuesta del aliado no tiene efecto adicional alguno.
-
----
-
-### Sabelotodo
-**Dote 8**
-
-*Bardo*
-
-**Prerrequisitos** musa enigma
-
-Cuando tienes éxito en una prueba de Recordar conocimiento, obtienes información o contexto adicionales. Cuando obtienes un éxito critico en una prueba de Recordar conocimiento, obtienes información o contexto adicionales o puedes hacer una pregunta de seguimiento adicional (el DJ decide cual de las dos cosas).
-
----
-
-### Valor Reflexivo {% include accion.html tipo="reaccion" %}
-**Dote 8**
-
-*Auditivo, Bardo, Concentrar*
-
-**Prerrequisitos** musa combatiente
-
-**Desencadenante** Una criatura a tu alcance utiliza un efecto auditivo, una acción de manipular o una acción de movimiento; lleva a cabo un ataque a distancia; o abandona una casilla durante su acción de movimiento.
-
-**Requisitos** Estas bajo los efectos de himno valeroso.
-
-Ruges una feroz llamada a las armas, inspirandote a ti mismo para atacar a un enemigo. Da un Golpe cuerpo a cuerpo contra la criatura desencadenante. Si el ataque resulta en un impacto critico y el desencadenante era una acción de manipular, dicha acción queda perturbada.
-
----
-
-### Vision del Alma
-**Dote 8**
-
-*Bardo*
-
-Tu musa ha abierto tus sentidos al mundo. Obtienes sentido espiritual como un sentido impreciso con un rango de distancia de 60 pies (18 m). Sentido espiritual te permite sentir los espíritus de las criaturas, incluyendo las criaturas vivas, la mayoría de muertos vivientes no descerebrados y las apariciones, dentro del rango indicado. Como tu oido y otros sentidos imprecisos, sigues necesitando Buscar para localizar una criatura no detectada.
-
-Como quiera que sentido espiritual detecta esencias espirituales y no cuerpos físicos, puede detectar espíritus proyectados por conjuros del tipo proyectar imagen o que estan poseyendo objetos que por lo demás, carecen de alma. No puede detectar cuerpos sin alma, constructor ni objetos y, como la mayoría de sentidos, no atraviesa los objetos sólidos.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Acompañar]({{ '/dotes/bardo/acompanar/' | relative_url }}) | Utilizas tus interpretaciones para suplementar el lanzamiento de conjuros de un aliado, proporcionando en su lugar energia magica para su conjuro. ... | Bardo | — |
+| [Composicion Fortissima]({{ '/dotes/bardo/composicion-fortissima/' | relative_url }}) | Tus himnos se hacen mas altos y mas potentes, reforzados por el poder de tu musa. Aprendes el conjuro de foco de moldeo de conjuros composición for... | Bardo | musa maestro |
+| [Habilidad Eclectica]({{ '/dotes/bardo/habilidad-eclectica/' | relative_url }}) | Tu amplia experiencia se refleja en una buena gama de habilidades. Tu bonificados por competencia a las pruebas de habilidades no entrenadas es igu... | Bardo | musa polifacetico, rango maestro en Ocultismo |
+| [Llamada y Respuesta]({{ '/dotes/bardo/llamada-y-respuesta/' | relative_url }}) | Tu composición adopta la forma de un cantico de llamada y respuesta que permite a tus aliados continuar el efecto sin ti. Si tu siguiente acción es... | Auditivo | — |
+| [Sabelotodo]({{ '/dotes/bardo/sabelotodo/' | relative_url }}) | Cuando tienes éxito en una prueba de Recordar conocimiento, obtienes información o contexto adicionales. Cuando obtienes un éxito critico en una pr... | Bardo | musa enigma |
+| [Valor Reflexivo]({{ '/dotes/bardo/valor-reflexivo/' | relative_url }}) | Ruges una feroz llamada a las armas, inspirandote a ti mismo para atacar a un enemigo. Da un Golpe cuerpo a cuerpo contra la criatura desencadenant... | Auditivo | musa combatiente |
+| [Vision del Alma]({{ '/dotes/bardo/vision-del-alma/' | relative_url }}) | Tu musa ha abierto tus sentidos al mundo. Obtienes sentido espiritual como un sentido impreciso con un rango de distancia de 60 pies (18 m). Sentid... | Bardo | — |
 
 ## Nivel 10
 
-### Asalto Valeroso {% include accion.html tipo="1" %}
-**Dote 10**
-
-*Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
-
-**Prerrequisitos** musa combatiente
-
-Con un poderoso grito, puedes animar a un aliado para que ataque. Si tu siguiente acción es lanzar el truco de composición himno valeroso, un aliado a tu elección que obtiene un bonificados por estatus debido a tu conjuro puede utilizar de inmediato su reacción para dar un Golpe cuerpo a cuerpo.
-
----
-
-### Anotar Composicion
-**Dote 10**
-
-*Bardo, Exploración, Linguistico*
-
-Anotando tu composición en papel, puedes crear una fuente de palabras o de musica inspiradora que otros pueden leer y entender. Inviertes 10 minutos y 1 Punto de Foco para trasponer un conjuro de composición a un pergamino especial que después podeis activar otra criatura o tu. Debe tratarse de un conjuro que requiere una sola acción para lanzarse. Si el conjuro de composición elegido requiere una prueba de Interpretación como parte del lanzamiento, el DJ hace dicha prueba en secreto cuando la anotas.
-
-Si dispones de composición fortissima o composición persistente, puedes utilizar tambien uno de dichos conjuros para modificar la composición anotada, si esta puede beneficiarse de la modificación. El DJ hace la prueba secreta de Interpretación. Si lo haces, gastas 1 Punto de Foco adicional, incluso si la prueba falla.
-
-Toda criatura que puede leer el idioma que usaste al anotar tu composición puede Activar el objeto invirtiendo una sola acción, que tiene el rasgo concentrar. Esto reporta los efectos de composición como si la criatura activadora hubiera Lanzado el conjuro.
-
-Una composición que creas de esta forma pierde su poder la siguiente vez que haces tus preparativos diarios. Mientras tienes la composición en tu poder, puedes inactivarla utilizando una sola acción con el rasgo concentrar. No puedes recuperar el Punto de Foco gastado para crear composición anotada hasta que se activa o pierde su magia.
-
----
-
-### Composicion Inusual {% include accion.html tipo="1" %}
-**Dote 10**
-
-*Bardo, Concentrar, Manipular, Moldeo de Conjuros*
-
-**Prerrequisitos** musa polifacetico
-
-Puedes traspasar la emoción y la potencia de una composición a otros medios. Si tu siguiente acción es Lanzar un conjuro de composición auditivo o visual, puedes hacer que afecte a criaturas que sean capaces de presenciarlo con cualquier sentido, no tan solo los que los rasgos indican, incluyendo sentidos especiales como el sentido de la vibración. Puedes excluir cualquier sentido a voluntad.
-
----
-
-### La Casa de los Muros Imaginarios
-**Dote 10**
-
-*Bardo*
-
-Eliges una barrera imaginaria que los demás creen que es real. Aprendes el truco de composición la casa de los muros imaginarios.
-
----
-
-### Lanzamiento Apresurado {% include accion.html tipo="libre" %}
-**Dote 10**
-
-*Bardo, Concentrar, Moldeo de Conjuros*
-
-**Frecuencia** una vez al dia
-
-Si tu siguiente acción es lanzar un truco de bardo o un conjuro de bardo por lo menos 2 niveles inferior al del conjuro de bardo de mayor nivel de que dispones, reduce en 1 el numero de acciones necesarias para lanzarlo (minimo 1 acción).
-
----
-
-### Oda a Ouroboros
-**Dote 10**
-
-*Bardo*
-
-Aprendes el conjuro de composición oda a ouroboros, que te permite evitar temporalmente la muerte de tus aliados.
-
----
-
-### Sinfonia del Corazón Libre
-**Dote 10**
-
-*Bardo*
-
-Aprendes el conjuro de composición sinfonia del corazón libre que te permite proteger a un aliado contra los estados incapacitantes.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Asalto Valeroso]({{ '/dotes/bardo/asalto-valeroso/' | relative_url }}) | Con un poderoso grito, puedes animar a un aliado para que ataque. Si tu siguiente acción es lanzar el truco de composición himno valeroso, un aliad... | Auditivo | musa combatiente |
+| [Anotar Composicion]({{ '/dotes/bardo/anotar-composicion/' | relative_url }}) | Anotando tu composición en papel, puedes crear una fuente de palabras o de musica inspiradora que otros pueden leer y entender. Inviertes 10 minuto... | Bardo | — |
+| [Composicion Inusual]({{ '/dotes/bardo/composicion-inusual/' | relative_url }}) | Puedes traspasar la emoción y la potencia de una composición a otros medios. Si tu siguiente acción es Lanzar un conjuro de composición auditivo o ... | Bardo | musa polifacetico |
+| [La Casa de los Muros Imaginarios]({{ '/dotes/bardo/la-casa-de-los-muros-imaginarios/' | relative_url }}) | Eliges una barrera imaginaria que los demás creen que es real. Aprendes el truco de composición la casa de los muros imaginarios. | Bardo | — |
+| [Lanzamiento Apresurado]({{ '/dotes/bardo/lanzamiento-apresurado/' | relative_url }}) | Si tu siguiente acción es lanzar un truco de bardo o un conjuro de bardo por lo menos 2 niveles inferior al del conjuro de bardo de mayor nivel de ... | Bardo | — |
+| [Oda a Ouroboros]({{ '/dotes/bardo/oda-a-ouroboros/' | relative_url }}) | Aprendes el conjuro de composición oda a ouroboros, que te permite evitar temporalmente la muerte de tus aliados. | Bardo | — |
+| [Sinfonia del Corazón Libre]({{ '/dotes/bardo/sinfonia-del-corazon-libre/' | relative_url }}) | Aprendes el conjuro de composición sinfonia del corazón libre que te permite proteger a un aliado contra los estados incapacitantes. | Bardo | — |
 
 ## Nivel 12
 
-### Asalto Compartido
-**Dote 12**
-
-*Bardo*
-
-**Prerrequisitos** Asalto valeroso
-
-En el triunfo de la batalla, puedes compartir la gloria con otro aliado. Cuando un aliado que has elegido para Asalto valeroso obtiene un éxito critico en el Golpe concedido por dicha acción, otro aliado afectado por tu conjuro de composición himno valeroso puede usar de inmediato una reacción para dar un Golpe cuerpo a cuerpo. Este efecto no continua hasta un tercer aliado, ni siquiera si el segundo aliado obtiene tambien un éxito critico.
-
----
-
-### Conocimiento del Enigma
-**Dote 12**
-
-*Bardo*
-
-**Prerrequisitos** Conocimiento asegurado
-
-Tu musa te susurra conocimiento en los momentos precisos. Obtienes los beneficios de la dote de habilidad Conocimiento automatico con cualquier conjuro que puedes utilizar para Recordar conocimiento. Como indica la clausula especial de la dote Conocimiento automatico, solo puedes utilizar esta dote una vez por asalto.
-
----
-
-### Foco Inspirativo
-**Dote 12**
-
-*Bardo*
-
-Tu conexión con tu musa te ha concedido un enfoque poco usual. Siempre que Reenofcas, rellenas por completo tu reserva de foco.
-
----
-
-### Polifacetico Eclectico
-**Dote 12**
-
-*Bardo*
-
-**Prerrequisitos** polifacetico esoterico
-
-Tu flexible mente puede intercambiar conjuros rapidamente. Si anades un conjuro a tu repertorio durante tus preparativos diarios utilizando Polifacético esoterico, cuando prepares de nuevo podrás mantener el nuevo conjuro de dicha dote en tu repertorio y en su lugar perder el acceso a otro conjuro del mismo nivel, tambien de tu repertorio.
-
----
-
-### Reverberar {% include accion.html tipo="reaccion" %}
-**Dote 12**
-
-*Bardo*
-
-**Desencadenante** Una criatura o peligro te infligiria dano sonico.
-
-Puedes manipular la acustica que te rodea para devolver el dano sonico a su origen. Haz una prueba de interpretación contra la CD de Voluntad de la criatura o la CD de Fortaleza de un peligro. Si el dano procede de un conjuro, utiliza la CD de conjuro de la criatura si es mas baja.
-
-- **Éxito critico** Reduces el dano desencadenante en una cantidad igual hasta a 4 veces tu nivel. La criatura sufre tanto dano sonico como la cantidad de dano reducida por ti de esta manera.
-- **Éxito** Como en éxito critico, pero reduces el dano desencadenante en una cantidad igual hasta a 2 veces tu nivel.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Asalto Compartido]({{ '/dotes/bardo/asalto-compartido/' | relative_url }}) | En el triunfo de la batalla, puedes compartir la gloria con otro aliado. Cuando un aliado que has elegido para Asalto valeroso obtiene un éxito cri... | Bardo | Asalto valeroso |
+| [Conocimiento del Enigma]({{ '/dotes/bardo/conocimiento-del-enigma/' | relative_url }}) | Tu musa te susurra conocimiento en los momentos precisos. Obtienes los beneficios de la dote de habilidad Conocimiento automatico con cualquier con... | Bardo | Conocimiento asegurado |
+| [Foco Inspirativo]({{ '/dotes/bardo/foco-inspirativo/' | relative_url }}) | Tu conexión con tu musa te ha concedido un enfoque poco usual. Siempre que Reenofcas, rellenas por completo tu reserva de foco. | Bardo | — |
+| [Polifacetico Eclectico]({{ '/dotes/bardo/polifacetico-eclectico/' | relative_url }}) | Tu flexible mente puede intercambiar conjuros rapidamente. Si anades un conjuro a tu repertorio durante tus preparativos diarios utilizando Polifac... | Bardo | polifacetico esoterico |
+| [Reverberar]({{ '/dotes/bardo/reverberar/' | relative_url }}) | Puedes manipular la acustica que te rodea para devolver el dano sonico a su origen. Haz una prueba de interpretación contra la CD de Voluntad de la... | Bardo | — |
 
 ## Nivel 14
 
-### Allegro
-**Dote 14**
-
-*Bardo*
-
-Puedes acelerar a tus aliados con una interpretación de ritmo rapido. Aprendes el truco de composición allegro.
-
----
-
-### Balada Tranquilizadora
-**Dote 14**
-
-*Bardo*
-
-Calmas las heridas de tus aliados con el poder de tu interpretación. Aprendes el truco de composición balada tranquilizadora.
-
----
-
-### Gusano Auditivo
-**Dote 14**
-
-*Bardo, Exploración*
-
-Repitiendo incesantemente un motivo, implantas en la cabeza de tus aliados una canción memorable que se repite una y otra vez, preparándoles para responder a ella mas adelante. Elige un truco de composición e invierte 10 minutos repitiendo una melodia, cantico, discurso, serie de movimientos o una interpretación similar que personifica dicho truco. Esta actividad obtiene los rasgos apropiados al tipo de Interpretación. Implantas el gusano auditivo en todos los aliados que pueden verte u oírte (segun el tipo de Interpretación) durante toda la actividad.
-
-Una vez has creado el gusano auditivo, debes hacer una prueba de interpretación como acción gratuita para activarlo. Esta prueba utiliza la CD de Voluntad mas alta de los objetivos del gusano auditivo presentes en el momento de la activación. Si tienes éxito, lanzas el truco sobre todos los aliados que aprendieron el gusano auditivo y pueden percibir tu interpretación; si fallas, el gusano auditivo se corrompe y se pierde. Como quiera que esta basado en las repeticiones anteriores, no puedes utilizar mas acciones gratuitas como composición persistente o composición fortissima para modificar el gusano auditivo activado. Los aliados olvidan el gusano auditivo después de haber sido activado, si inviertes 10 minutos en implantar otro o durante tus siguientes preparativos diarios, lo que sucede antes.
-
----
-
-### Himno Vigoroso {% include accion.html tipo="1" %}
-**Dote 14**
-
-*Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
-
-Inspiras un vigor magico en tus aliados cuando les inspiras a atacar. Si tu siguiente acción es lanzar el truco de composición himno valeroso, todos los aliados afectados y tu obtenéis tantos PG temporales como 3 + tu modificador por Carisma, que duran 1 minuto.
-
----
-
-### Hipercognicion Verdadera {% include accion.html tipo="1" %}
-**Dote 14**
-
-*Bardo*
-
-**Prerrequisitos** musa enigma
-
-Tu mente funciona a un ritmo increíble. Utilizas de forma instantanea hasta 5 acciones de Recordar conocimiento. Si tienes alguna aptitud especial o acción gratuita que normalmente se activaria cuando Recuerdas conocimiento, no puedes utilizarla para estas acciones.
-
----
-
-### Inspiracion Triunfante {% include accion.html tipo="libre" %}
-**Dote 14**
-
-*Bardo*
-
-**Prerrequisitos** musa combatiente
-
-**Desencadenante** Asestas un impacto critico a un enemigo con un Golpe de un arma cuerpo a cuerpo o un ataque sin armas cuerpo a cuerpo.
-
-Con un grito triunfal, inspiras a tus aliados. Lanzas un truco de composición que conoces y que normalmente requiere una sola acción para ser lanzado.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Allegro]({{ '/dotes/bardo/allegro/' | relative_url }}) | Puedes acelerar a tus aliados con una interpretación de ritmo rapido. Aprendes el truco de composición allegro. | Bardo | — |
+| [Balada Tranquilizadora]({{ '/dotes/bardo/balada-tranquilizadora/' | relative_url }}) | Calmas las heridas de tus aliados con el poder de tu interpretación. Aprendes el truco de composición balada tranquilizadora. | Bardo | — |
+| [Gusano Auditivo]({{ '/dotes/bardo/gusano-auditivo/' | relative_url }}) | Repitiendo incesantemente un motivo, implantas en la cabeza de tus aliados una canción memorable que se repite una y otra vez, preparándoles para r... | Bardo | — |
+| [Himno Vigoroso]({{ '/dotes/bardo/himno-vigoroso/' | relative_url }}) | Inspiras un vigor magico en tus aliados cuando les inspiras a atacar. Si tu siguiente acción es lanzar el truco de composición himno valeroso, todo... | Auditivo | — |
+| [Hipercognicion Verdadera]({{ '/dotes/bardo/hipercognicion-verdadera/' | relative_url }}) | Tu mente funciona a un ritmo increíble. Utilizas de forma instantanea hasta 5 acciones de Recordar conocimiento. Si tienes alguna aptitud especial ... | Bardo | musa enigma |
+| [Inspiracion Triunfante]({{ '/dotes/bardo/inspiracion-triunfante/' | relative_url }}) | Con un grito triunfal, inspiras a tus aliados. Lanzas un truco de composición que conoces y que normalmente requiere una sola acción para ser lanzado. | Bardo | musa combatiente |
 
 ## Nivel 16
 
-### Arremetida Valerosa {% include accion.html tipo="1" %}
-**Dote 16**
-
-*Auditivo, Bardo, Concentrar, Moldeo de Conjuros*
-
-**Prerrequisitos** Avance valeroso, Asalto valeroso
-
-Utilizas tu interpretación para orquestar una ofensiva contra tus enemigos. Si tu siguiente acción es lanzar el truco de composición himno valeroso, un aliado a tu elección que obtiene un bonificados por estatus debido al conjuro puede usar de inmediato su reacción para dar una Zancada y a continuación un Golpe cuerpo a cuerpo.
-
----
-
-### Capacidad Estudiosa
-**Dote 16**
-
-*Bardo*
-
-**Prerrequisitos** musa enigma, rango legendario en Ocultismo
-
-Tus estudios continuados de la magia ocultista han incrementado tu capacidad magica, lo que te permite lanzar conjuros incluso cuando parece imposible. Puedes lanzar cada dia un conjuro, incluso habiendote quedado sin espacios de conjuro del nivel apropiado, pero no puedes utilizar esta aptitud para lanzar un conjuro de tu rango de conjuros máximo.
-
----
-
-### Concentracion sin Esfuerzo {% include accion.html tipo="libre" %}
-**Dote 16**
-
-*Bardo*
-
-**Desencadenante** Empieza tu turno.
-
-Puedes mantener un conjuro apenas pensando. Obtienes de inmediato los efectos de la acción Mantener, que te permite prolongar la duración de uno de tus conjuros de bardo activos.
-
----
-
-### Final Resonante {% include accion.html tipo="reaccion" %}
-**Dote 16**
-
-*Bardo, Concentrar*
-
-**Prerrequisitos** musa maestro
-
-**Desencadenante** Tu o un aliado tuyo que os estais beneficiando de tu conjuro de composicion sufririais dano sonico.
-
-Haces que tu interpretación llegue a un final repentino y dramatico, que ahoga todos los demás sonidos. Tu conjuro de composición acaba de inmediato, y todos los aliados que se estaban beneficiando de sus efectos obtienen tanta resistencia sonica contra el dano desencadenante como el doble del nivel del conjuro.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Arremetida Valerosa]({{ '/dotes/bardo/arremetida-valerosa/' | relative_url }}) | Utilizas tu interpretación para orquestar una ofensiva contra tus enemigos. Si tu siguiente acción es lanzar el truco de composición himno valeroso... | Auditivo | Avance valeroso, Asalto valeroso |
+| [Capacidad Estudiosa]({{ '/dotes/bardo/capacidad-estudiosa/' | relative_url }}) | Tus estudios continuados de la magia ocultista han incrementado tu capacidad magica, lo que te permite lanzar conjuros incluso cuando parece imposi... | Bardo | musa enigma, rango legendario en Ocultismo |
+| [Concentracion sin Esfuerzo]({{ '/dotes/bardo/concentracion-sin-esfuerzo/' | relative_url }}) | Puedes mantener un conjuro apenas pensando. Obtienes de inmediato los efectos de la acción Mantener, que te permite prolongar la duración de uno de... | Bardo | — |
+| [Final Resonante]({{ '/dotes/bardo/final-resonante/' | relative_url }}) | Haces que tu interpretación llegue a un final repentino y dramatico, que ahoga todos los demás sonidos. Tu conjuro de composición acaba de inmediat... | Bardo | musa maestro |
 
 ## Nivel 18
 
-### Composicion Eterna
-**Dote 18**
-
-*Bardo*
-
-**Prerrequisitos** musa maestro
-
-El mundo es un escenario en el que siempre estas interpretando. Estas permanentemente acelerado; solo puedes usar tu acción adicional para lanzar un truco de composición que requiere 1 acción para lanzarse. Cuando estas en modo exploración, puedes declarar que interpretas un truco de composición elegible mientras usas cualquier tactica de exploración. Incluso antes de tu primer turno en un encuentro de combate, dicho truco esta activo como si lo hubieras lanzado en tu turno anterior.
-
----
-
-### Polifacetico Imposible
-**Dote 18**
-
-*Bardo*
-
-**Prerrequisitos** entrenado en Arcanos, Naturaleza o Religion, Polifacetico esoterico
-
-Tus formulas esotéricas son tan poco usuales que te permiten hacer incursiones en la magia de diversas tradiciones que otros bardos no entienden. Gracias a Polifacético esoterico, si estas entrenado en Arcanos, puedes añadir conjuros Arcanos a tu libro; si estas entrenado en Naturaleza, conjuros primigenios; y si estas entrenado en Religion, conjuros divinos.
-
-Igual que los demás conjuros de tu libro, puedes añadir uno de estos conjuros de otra tradición a tu repertorio como un conjuro de ocultismo cada dia utilizando Polifacético esoterico, pero no puedes retener conjuro alguno de otra tradición cuando vuelves a prepararlos, incluso si dispones de Polifacético ecléctico.
-
----
-
-### Saber Profundo
-**Dote 18**
-
-*Bardo*
-
-**Prerrequisitos** musa enigma, rango legendario en ocultismo
-
-Tu repertorio es vasto y contiene muchos mas conjuros de lo habitual. Anade un conjuro a tu repertorio de cada rango de conjuro que puedes lanzar.
-
----
-
-### Todo Esta en mi Cabeza {% include accion.html tipo="reaccion" %}
-**Dote 18**
-
-*Bardo, Ilusion, Mental*
-
-**Desencadenante** Sufririas dano de un Golpe o conjuro que no tiene el rasgo muerte o que por lo demás causa la muerte instantanea (como por ejemplo desintegrar).
-
-Utilizando tus conexiones ocultistas y tus increíbles poderes de persuasion, te convences a ti mismo de que el dano desencadenante es fruto de tu imaginación. El dano cambia de su tipo habitual a dano mental y el efecto dañino obtiene el rasgo no letal. No puedes usar esta reacción si eres inmune a los efectos mentales o al dano mental.
-
----
-
-### Voz Discordante
-**Dote 18**
-
-*Bardo, Sonico*
-
-**Prerrequisitos** himno valeroso
-
-Tu himno valeroso emite un chillido discordante que imbuye los ataques de tus aliados con potentes reverberaciones sonicas. Tus aliados no se ven afectados por tu himno valeroso, y sus Golpes con armas y ataques sin armas infligen 1d6 dano sonico adicional.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Composicion Eterna]({{ '/dotes/bardo/composicion-eterna/' | relative_url }}) | El mundo es un escenario en el que siempre estas interpretando. Estas permanentemente acelerado; solo puedes usar tu acción adicional para lanzar u... | Bardo | musa maestro |
+| [Polifacetico Imposible]({{ '/dotes/bardo/polifacetico-imposible/' | relative_url }}) | Tus formulas esotéricas son tan poco usuales que te permiten hacer incursiones en la magia de diversas tradiciones que otros bardos no entienden. G... | Bardo | entrenado en Arcanos, Naturaleza o Religion, Polifacetico esoterico |
+| [Saber Profundo]({{ '/dotes/bardo/saber-profundo/' | relative_url }}) | Tu repertorio es vasto y contiene muchos mas conjuros de lo habitual. Anade un conjuro a tu repertorio de cada rango de conjuro que puedes lanzar. | Bardo | musa enigma, rango legendario en ocultismo |
+| [Todo Esta en mi Cabeza]({{ '/dotes/bardo/todo-esta-en-mi-cabeza/' | relative_url }}) | Utilizando tus conexiones ocultistas y tus increíbles poderes de persuasion, te convences a ti mismo de que el dano desencadenante es fruto de tu i... | Bardo | — |
+| [Voz Discordante]({{ '/dotes/bardo/voz-discordante/' | relative_url }}) | Tu himno valeroso emite un chillido discordante que imbuye los ataques de tus aliados con potentes reverberaciones sonicas. Tus aliados no se ven a... | Bardo | himno valeroso |
 
 ## Nivel 20
 
-### Aria Fatal
-**Dote 20**
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Aria Fatal]({{ '/dotes/bardo/aria-fatal/' | relative_url }}) | Tus canciones abruman al objetivo con una emoción insoportable y podrían incluso hacer que muriera en el acto. Aprendes el conjuro de composición a... | Bardo | — |
+| [Bis Perfecto]({{ '/dotes/bardo/bis-perfecto/' | relative_url }}) | Desarrollas otra creación increíble. Obtienes un espacio de conjuros adicional de 10.o nivel. | Bardo | Obra maestra |
+| [Flautista de Hamelin]({{ '/dotes/bardo/flautista-de-hamelin/' | relative_url }}) | Aprendes el conjuro de composición flautista de Hamelin, que te permite controlar las acciones de los individuos pobres de espíritu. | Bardo | — |
+| [Polifacetico Definitivo]({{ '/dotes/bardo/polifacetico-definitivo/' | relative_url }}) | Puedes lanzar flexiblemente todas tus conjuros, lo que te concede una gama deslumbrante de posibles opciones. Todos los conjuros de tu repertorio s... | Bardo | musa polifacetico |
+| [Sinfonia de la Musa]({{ '/dotes/bardo/sinfonia-de-la-musa/' | relative_url }}) | Has aprendido a entretejer una infinidad de interpretaciones en una sola sinfonia con efectos multitudinarios. Ya no estas limitado a una sola comp... | Bardo | Armonizar |
 
-*Bardo*
-
-Tus canciones abruman al objetivo con una emoción insoportable y podrían incluso hacer que muriera en el acto. Aprendes el conjuro de composición aria fatal.
-
----
-
-### Bis Perfecto
-**Dote 20**
-
-*Bardo*
-
-**Prerrequisitos** Obra maestra
-
-Desarrollas otra creación increíble. Obtienes un espacio de conjuros adicional de 10.o nivel.
-
----
-
-### Flautista de Hamelin
-**Dote 20**
-
-*Bardo*
-
-Aprendes el conjuro de composición flautista de Hamelin, que te permite controlar las acciones de los individuos pobres de espíritu.
-
----
-
-### Polifacetico Definitivo
-**Dote 20**
-
-*Bardo*
-
-**Prerrequisitos** musa polifacetico
-
-Puedes lanzar flexiblemente todas tus conjuros, lo que te concede una gama deslumbrante de posibles opciones. Todos los conjuros de tu repertorio son conjuros de signatura para ti.
-
----
-
-### Sinfonia de la Musa
-**Dote 20**
-
-*Bardo*
-
-**Prerrequisitos** Armonizar
-
-Has aprendido a entretejer una infinidad de interpretaciones en una sola sinfonia con efectos multitudinarios. Ya no estas limitado a una sola composición cada turno o a una sola composición a la vez; cuando usas una nueva composición, los efectos de todas las anteriores continuan hasta finalizar su duración.

@@ -1,0 +1,53 @@
+41
+1
+Gods: Urgathoa
+work at a noble’s manor or in a general’s retinue. In lands 
+suffering from plague, they may pass themselves off as knowledgeable healers, treating some of the sick and leaving others to die, or perhaps curing uncomfortable but harmless illnesses while infecting patients with quiet but deadly diseases instead.
+Living priests who are active during the day usually 
+lead normal lives in whatever professions are suitable for their talents and only reveal their true colors under cover of night. Only in undead-controlled lands such as Geb do Urgathoa’s priests practice their faith openly, where they serve all the normal functions that a publicly-respected priest has in society, such as spiritual advisor, healer, government official, and so on. Undead priests typically hide during the day and are active at night doing whatever unholy urge strikes them.
+Her temples are built like feast-
+halls, with a large central table serving as an altar and numerous chairs surrounding it. Most temples are adjacent to a private graveyard or built over a crypt and often inhabited by ghouls (which embody all three of the goddess’s interests). It is not unusual to find daemon servants and guardians in her most powerful temples as a result of her alliance with the Horsemen.
+Urgathoa’s church is scattered 
+and cell-based like most evil cults; the most powerful or charismatic member in the area is the local leader and there are few occasions where cells meet or combine.  Upon gaining the ability to create undead (typically with the animate dead spell, 
+though a vampire, ghast, or shadow’s ability to create spawn counts), gHOUL H UNgER
+School  necromancy [evil, mind-affecting];
+Level  Clr 2, Blk 2, Sor/Wiz 2 (Urgathoa)
+CASTINg
+Casting Time 1 standard action
+Components  V, S
+EFFECT
+Range  close (25 ft. + 5 ft./2 levels)
+Target  one humanoid creature
+Duration  1 round/level; see text
+Saving Throw Will negates; see text; Spell Resistance yes
+DESCRIpTION
+You awaken an unnatural hunger 
+in the target, compelling them to fall upon a nearby helpless or dead 
+humanoid creature and begin eating 
+its flesh. Your target defends itself 
+normally but takes no other actions while 
+eating. The target does not take extraordinary 
+risks to satisfy this urge (it wouldn’t jump over 
+a pit or swim through lava to reach a suitable 
+victim). If the subject can’t fulfill this urge on 
+its next turn, the spell fails. Each round 
+on its turn, the subject gets a new saving throw to end the effect.
+a priest gains the title of Necro-Lord, a position 
+of privilege without any additional responsibilities. 
+Ceremonial clothing is a loose, gray, f loor-length tunic 
+with a bone-white or dark gray shoulder-cape clasped at 
+the front. Traditionally, the lower half of the tunic is either shredded or adorned with strips of cloth or tassels to give the overall appearance of increased damage as it approaches the f loor, mirroring the goddess’s own decay.
+Her unholy rituals generally involve food and the 
+presence of undead or someone about to become undead; cannibalism is not unheard of. Holy nights are those without moon or stars, which her followers believe are when the Negative Plane’s inf luence is greatest. Her sacred text is Serving Your Hunger , penned by Dason, her 
+first knight-blackguard.
+Priests may spontaneously cast purify food and drink as 
+a 1st-level spell. Necromancers (including sorcerers) may learn or prepare remove disease and contagion  as if they 
+were 3rd-level spells on their class spell list. Blackguards 
+may prepare remove disease as a 3rd-level 
+spell. Clerics and blackguards may prepare 
+ghoul touch  as a 2nd-level spell. Priests who 
+cast remove disease may draw diseases into 
+themselves as they heal their target; they become 
+carriers without suffering any ill effects. Contagion  
+spells cast by a priest always use the caster’s DC, 
+even for the disease’s secondary saves.

@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /dotes/monje/hechizos-de-qi-de-gran-maestro/
+title: Hechizos de Qi de Gran Maestro
+chapter: Dotes
+category: dotes
+clase: Monje
+level: 18
+---
+
+## Hechizos de Qi de Gran Maestro
+
+**Dote 18**
+
+*Monje*
+
+**Prerrequisitos** Hechizos de Qi
+
+Has desbloqueado una tecnica de qi alcanzable solo por aquellos que logran el dominio completo tanto de su cuerpo como de su espiritu. Obtienes abrazar la nada, forma de qi u otro hechizo de qi de rango 9 al que tengas acceso.
+
+---

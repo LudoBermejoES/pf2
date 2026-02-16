@@ -1,0 +1,30 @@
+63
+Magic
+3
+usually in the hands of someone wanting to create a new slave 
+race (such as the supposedly-extinct zhug, born of hafling stock) or to inflict a particularly cruel punishment on an enemy (such as when Bandit King Anfax used it to transform his enemy’s army into catfish in the middle of a hot summer battle), and the Three Generations War in the River Kingdoms resulted in it changing hands at least four times between opposing parties.
+The staff initially appears to be a fully-charged staff of 
+transmutation . With the proper command word, once per day 
+you can use it to cast a mass polymorph  or baleful polymorph , 
+though there reputedly is a very small chance that the staff will transform you as well. You can use it to cast bear’s endurance , 
+bull’s strength , cat’s grace , eagle’s splendor , fox’s cunning , or 
+owl’s wisdom up to 10 times per day in any combination, or use five of the daily “charges” of this power to cast a mass version of any of those spells.
+If left to balance itself, you can tap its crystal once and 
+speak a command word to cause it to slowly screw itself into the earth until only the crystal is visible. A few minutes later water begins to bubble up from the earth, forming a pool or spring if the shape of the ground permits it. This water is pure and clean and replenishes itself at a rate of one gallon per minute. Through an attunement process that takes several days of active concentration (similar to crafting a magic item) you can give the spring magical powers so that any who drink from it will be permanently affected, though there are usually slight side effects (for example, if the water enhances Dexterity, a drinker may gain cat-like features).
+Many stories of magical fountains or springs crystal rests 
+at the bottom and is obscured by plants or sediment, and it is possible that several variant races or subraces owe their existence to this artifact. The power of the spring tends to drift over time, requiring attention at least one day out of every month. Furthermore, the staff has been known to create a spring without its owner commanding it to do so. If the staff is removed from the spring, the water usually loses its magical powers and eventually drains away, though the Bouldertop Oasis in northern Osirion has no natural explanation and has a faint magical aura reminiscent of the Cantorian Spring .
+veSPer’S rAPier
+Aura  powerful conjuration; Cl  20th
+Slot sword; Price  major artifact; Weight  2 lb.
+deSCriPtion
+According to the 300-year-old journal of the half-elf sellsword bard Vesper (who owned this sword for several years), the sword that bears his name is a rapier of unremarkable size, forged out of a light blue metal that feels as light as mithral but hits as hard as any steel weapon. Two or three small blue gems (the number in the journal varies from page to page) are embedded in the blade near the crossguard, two (or one) cabochon cuts and one uncut smooth stone. The crossguard and hilt are made of incredibly fine wire woven together like cloth, with some strands thinner than an elven hair. The hilt is wrapped in greenish-black naga leather. The pommel is a polished ovoid of the same blue metal as the blade, sometimes showing discolorations that match certain Golarion coastlines and sometimes making seemingly random wiggling lines. Gnomes experience strong emotions at seeing the inset gems, generally either fascination and greed or fear and revulsion, though they can’t explain why, but some believe the gems may be material from the First World.
+Though Vesper always described his prize as a rapier, other 
+swords with similar features (blue blade, blue gems, naga-leather grip, and mysterious pommel) and similar powers have appeared in certain legends and historical accounts—short sword, longsword, scimitar, an Aldori dueling sword, even an eastern-style sword once carried by Setsuna Kuga herself late in life. Although Vesper’s journal (which is by far the most informative source of information on this item) never mentions the rapier changing shape, it is possible that the weapon has this ability, or perhaps the power to make copies of itself in different forms. This variability in its description means that many unscrupulous merchants have tried to convince buyers that they have Vesper’s Rapier for sale, it is just in a different shape than expected.
+The sword is a +3 keen speed rapier . You can dimension door 
+at will, though the journal notes that the more often Vesper used the ability in a short period of time, the weaker the sword got, and sometimes strange or even hostile creatures would appear near him after frequent usage. You can water walk at will while holding the sword. You gain a +4 luck bonus to Bluff and Diplomacy checks to influence male humanoids as long as you carry the sword. Once per day you may use dimensional lock or greater teleport , though these abilities “tire” the sword 
+in the same way that frequent uses of dimension door does. At will, as a standard action, you may use the rapier like a compass to point the direction to the closest collection of gems, silver, or drinkable water.
+When the rapier is weakened, its enhancement bonus 
+fades, it loses the speed  property, liquid surfaces feel tar-like 
+rather than firm, its teleportation powers grow increasingly off-target, and random ethereal or astral monsters may be pulled to its teleport destination. Vesper himself apparently died due to overtaxing the sword, trying to out-teleport a pack of demons, when his last teleport left him mired in the sword-sticky waters of a calm mountain lake, though he was lucky enough to drown before the demons caught up to him.
+Despite its ability to teleport, the sword has never been 
+known to activate this power to move itself. When it leaves the hands of an owner, it either remains where it fell or (if in water) its floating powers activate, carrying the sword downstream to a new owner or decades of waiting for someone to find it. Some believe the sword has the power to open any magical elf gate, though the Kyonin elves deny any special knowledge of the sword or its whereabouts.

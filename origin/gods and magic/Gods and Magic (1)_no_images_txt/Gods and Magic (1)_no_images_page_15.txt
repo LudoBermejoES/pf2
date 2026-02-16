@@ -1,0 +1,27 @@
+13
+1
+Gods: Desna
+they hear of ill auguries, they intervene to make sure those 
+events do not come to pass. Her faithful oppose dream-predators and are charged with protecting commonfolk against dangerous beasts. Some tutor young nobles in the arts and may act as their bodyguards.
+Her followers are often wide-eyed, exuberant people 
+who embrace the world in all its strangeness, and are willing to jump in with both feet. Desnans aren’t afraid to get their hands dirty while living life to its fullest. Critics call them hedonists, but that is an exaggeration, as worldly experience is their true goal. Priests have a tradition of exploring distant places and leaving a mark that indicates someone of the faith has been there. This “found-mark” might be as simple as the goddess’s symbol scratched on a f lat rock or tree trunk. One who has marked many sites in this way is called a Founder and is held in great esteem.
+Desna keeps few temples, preferring unattended shrines 
+at crossroads and places of secluded beauty. They sometimes double as stargazing sites. Temples in large cities take the form of tall towers with observatories at their tops and house small libraries of astronomical and astrological charts. Rural temples usually incorporate an inn or stable as a service to travelers, and Desna’s presence is common in good communal temples. Butterf lies and moths congregate at her holy sites, producing silk and devouring thieves’ clothing.
+Desna’s church is extremely disorganized with no formal 
+chain of command. Personal expertise in a specific field trumps mere combat prowess or spellcasting ability. This structure means that Desnans have certain ideas about what they consider “informed” authority; they feel free to ignore nobles, politicians, and other “meritless” leaders if more knowledgeable folk are on hand to provide better advice.
+Services dedicated to Desna include singing, dancing, 
+storytelling, footraces, and music. Some take exotic substances to spark unusual or lucid dreams. Services use crushed rose quartz dust instead of water or sacred oil; her priests carry holy quartz dust in glass f lasks instead of holy water. The church has few formal holidays; the two best known are the Ritual of Stardust (a solstice feast with bonfires and singing) and the Swallowtail Release (an Autumn feast where the faithful release hundreds of butterf lies). Her holy text is The Eight Scrolls , which is short 
+enough to easily fit in two scroll cases.
+Desna’s clerics and druids may prepare the dream spell 
+as a 5th-level spell, rangers as a 4th-level spell.TRAVELIN g DREAM
+School  divination (scrying); Level  Clr 4, Drd 4 (Desna)
+CASTINg
+Components  V, DF 
+EFFECT
+Duration  1 hour/level (D) 
+DESCRIpTION
+This spell functions like arcane eye , except as noted 
+above. Upon casting this spell, you fall asleep for its 
+duration, creating an invisible magic sensor (called a dreamscryer) that is the exact size and shape of your body, is recognizable as you, and cannot pass through spaces that your body cannot enter. Unlike the invisible sensor created by arcane eye , children of any race (no 
+older than the human equivalent of 10) and animals can see your dreamscryer. Sleeping creatures can sense its presence and might incorporate your image into their dreams. Force effects and abjuration spells that ward out creatures (such as magic circle against evil ) 
+are effective barriers against a dreamscryer (regardless of your creature type, alignment, or other specifics). If you dismiss the spell or the dreamscryer is dispelled or destroyed, you awaken. 

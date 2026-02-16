@@ -1,0 +1,35 @@
+17
+Gods: Gorum
+1
+Priests of Gorum in aggressive warrior cultures earn 
+fame and riches by raiding other tribes or lands. Exiles 
+and those from more “civilized” lands employ themselves as mercenaries, bodyguards, or through criminal efforts such as brigandry that allow them to crack skulls on a regular basis. Priests try to have at least one battle per day, even if it is only a duel.
+Like the god himself, Gorum’s followers tend to be 
+impulsive, violent, and prone to grabbing whatever they feel like owning; as a result, there are far more evil followers of Gorum than good. Like Gorum, his followers don’t care about the problems and schemes of other deities, but they fight whoever gets in their way. Fights between the faithful are common, though usually not to the death, and are done to establish dominance, claims over treasure, lovers, or just for entertainment.
+His temples are more akin to fortresses than places 
+of worship, built with thick walls, iron gates, and spikes on the parapets, even in the center of an otherwise peaceful city. The priests keep them stockpiled with armor and weapons, typically harvested from dead enemies and kept clean and battle-ready by acolytes. Shrines are usually a pile of rocks capped with a helm, or a sword jammed into a crevice in a boulder.
+The church values strength over age or knowledge, 
+and the senior priest in any tribe or temple typically reaches that position by defeating many enemies and beating down all rivals. When several leaders come together, there is usually some gruff posturing and boasting, during which the weaker ones defer to the stronger, with the strongest dueling or brawling to determine who is leader of the entire group. Formal raiment is a priest’s spiked armor, but a few keep a separate set adorned with additional spikes and decorations, sometimes so heavy it is difficult for the priest to walk.
+Holy rites include large drums, bashing 
+weapons against shields, shouting, and howling. Gorum has no sacred text, but a collection of seven heroic poems called the Gorumskagat  explains the 
+church’s creed. Tribal bards quickly learn to recite these poems perfectly, for a priest beats them every time they make a mistake.
+Clerics and druids may prepare rage as a 3rd-level 
+spell and iron body as an 8th-level spell. Clerics may 
+prepare heat metal  as a 3rd-level spell. Druids are forbidden 
+from using the rusting grasp  spell. Druids can wear metal 
+armor, though they cannot cast spells while wearing it, nor does it meld with them when they use wild shape; druids interested in metal armor acquire a set for a specific beastform and have allies or slaves put it on them when it is time to fight.gORUM ’S ARMOR
+School  transmutation; Level: Clr 1 (Gorum)
+CASTINg
+Casting Time 1 standard action
+Components  V, S, M (1 iron spike)
+EFFECT
+Range  touch
+Target  1 suit of metal armor (including shield)
+Duration  10 minutes/level
+Saving Throw Fortitude negates (harmless); Spell 
+Resistance  yes (harmless)
+DESCRIpTION
+The targeted armor sprouts thousands of tiny iron 
+spikes like porcupine quills. These do not harm the armor’s wearer (though donning or removing it takes twice as long), but they act as armor spikes (and shield 
+spikes, if a shield is present). Any creature attacking the wearer with natural weapons takes 1 point of piercing damage for each attack that hits. At 5th-level, the spikes gain a +1 enhancement bonus to hit 
+and damage.

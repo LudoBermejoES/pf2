@@ -1,0 +1,35 @@
+35
+1
+Gods: Sarenrae
+as a long-term retainer; likewise, some receive a stipend 
+from the city guard or army to take care of peacekeepers and soldiers. By tradition, they normally do not refuse someone in need of healing even if the person cannot pay, but they are quick to assess who urgently needs medical attention and who will recover naturally, which prevents most attempts at exploitation.
+A priest normally wakes around dawn and makes a 
+thankful prayer toward the rising sun. The clergy of Sarenrae are usually peaceful, administering to their f lock with a gentle hand and wise words. Such kindness vanishes, however, when the church is stirred to action against an evil that cannot be redeemed—particularly against the cult of Rovagug. At such times, Sarenrae’s priests become dervishes, dancing among foes while allowing their scimitars to give their opponents final redemption.
+Temples are open-air buildings (with satellite buildings 
+having ceilings) open to the sky, sometimes with large brass or gold mirrors on high points to ref lect more light toward the altar.
+Th e   ch ur ch   o f   th e   D a wnfl o w er   is  
+extremely f lexible and allows its priests much mobility between temples. This helps diffuse pressure from personal feuds, as one priest can relocate to another temple until tempers cool. Individual temples are organized much like a family, with parental and sibling-like interactions between various groups. Formal raiment in -
+cludes a long white chasuble and tunic decorated with red and gold thread depicting images of the sun, and officiating priests usually wear a golden crown with a red-gold sun -
+burst device on top. Scimitars inlaid with gold sunbursts or golden gems are common ceremonial implements. 
+Services are happy events that feature 
+singing, dancing, bells, cymbals, and f lutes. They always take place outside and during daylight hours. The church reveres the first and last days of summer as holidays, as well as the summer and winter solstices (the latter as a time to look forward to increasing daylight). Her holy book is The Birth of Light and 
+Truth , and most copies contain extra pages for the 
+owner to record new experiences.
+Clerics, paladins, and rangers may prepare lesser 
+geas as a 4th-level spell, but they can only use it to prevent 
+the target from performing illegal or immoral activities. Bards, clerics, paladins, and rangers may prepare f lame 
+blade  as a 2nd-level spell.SHIELD OF THE D AWNFLOWER
+School  evocation [fire, light]; Level  Brd 4, Clr 4, Pal 4,
+Rgr 4 (Sarenrae)
+CASTINg
+Casting Time 1 standard action
+Components  V, S, DF
+EFFECT
+Range  personal
+Target  you
+Duration  1 round/level (D)
+Saving Throw see text; Spell Resistance no
+DESCRIpTION
+You create a disk of sunlight on one arm. Any creature striking you with a melee attack deals normal damage, but also takes 1d6 points of fire damage +1 point per caster level (maximum +15). Creatures with reach weapons are not subject to this damage if they attack you. The shield  glows like a continual flame spell. You 
+can only have one instance of this spell in effect at a time. It does not stack with similar damaging aura 
+spells such as fire shield .

@@ -1,0 +1,32 @@
+31
+1
+Gods: Pharasma
+tomb is known to hold undead, they accept this transgression 
+with the intent of dispatching abominations (though they still oppose desecrating non-undead corpses in such places).
+Followers of Pharasma tend to be brusque, as they spend 
+much of their time dealing with the dead (who do not talk back and don’t get their feelings hurt) or folk under extreme duress (such as women giving birth). When their services are needed, they give orders and expect to be obeyed, as a mortal soul (either recently departed or about to arrive) is at stake. Her followers are not the sorts of people you seek out for comfort.
+Pharasma’s temples are gothic cathedrals, usually located 
+near a town’s graveyard, although a single bleak stone in an empty field or graveyard can serve as a shrine.  Large temples usually have catacombs underneath, often filled with corpses of the wealthy and former members of the priesthood, as burial under the goddess’s temple is believed to make her more favorable to the deceased when it is time for judgment.
+Each temple has a high priest for each aspect of the 
+faith (birth, death, and prophecy/fate); in theory they are equal, though the high priest of prophecy has assumed a secondary role in recent decades (and the position is often held by a strange or unstable person), and in smaller locales a single priest serves all three functions.  Hierarchy between churches depends on the size of the population they serve; a large city temple has greater inf luence than a smaller town’s temple. Her faithful dress in funereal clothes for religious ceremonies, always black (regardless of the local custom) and accented with silver and tiny vials of holy water.
+Prayer services to Pharasma are a mixture of somber 
+chants and joyous song, with local celebratory or somber music mixed in. Services usually end on a positive or uplifting note, for while death comes to all, there are new generations of life to praise (at least, until the end comes, which they will deal with at that time). Each temple keeps a record of births and deaths of its members, and priests speak their names on anniversaries of these events. Her holy book is The Bones Land in a Spiral ; much of 
+it was written long ago by a prophet, and many of its predictions are so vague that there is much debate about what events they foretell or if they have already passed. Other sections were added later and deal with safe childbirth, disposal of the dead to prevent undeath, and so on.
+Adepts, bards, rangers, sorcerers, and 
+wizards of Pharasma may learn augury  (2nd-
+level), death knell  (2nd-level), and speak with dead  
+(3rd-level) as if they were on their class spell list. Clerics treat clairaudience/clairvoyance  (3rd-
+level), false life  (2nd-level), and moment 
+of prescience  (8th-level) as spells on 
+the cleric spell list.DEFENDIN g bONE
+School  necromancy; Level  Clr 2, Sor/Wiz 2 (Pharasma)
+CASTINg
+Casting Time 1 standard action
+Components  V, S, F (a Medium creature’s skull or femur), DF
+EFFECT
+Range  personal
+Target  you
+Duration  1 hour/level or until discharged
+Saving Throw none; Spell Resistance no
+DESCRIpTION
+You animate a bone with necromantic energy, giving it the power to float near your body and interpose itself against physical attacks. This gives you damage reduction 5/bludgeoning. Once the bone has prevented a total of 5 points of damage per caster level (maximum 50 points), it is destroyed and the spell is discharged. This spell has no effect if you have damage reduction from another source

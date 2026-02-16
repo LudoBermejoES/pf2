@@ -1,0 +1,36 @@
+25
+1
+Gods: Lamashtu
+magic, faith, and f lesh to soothe disputes and settle ar -
+guments. They typically have multiple children from 
+different partners over the course of a lifetime and mate often as part of their ministering. This promiscuity is expected in the same way that a cleric is expected to heal a physical wound.
+Priests are responsible for teaching the young about the 
+Mother of Monsters and making sure they understand her importance in their lives. They are not averse to using their powers to punish reluctant children, either with painful physical transformations or by plaguing them with horrible nightmares.
+Most priests have strong ties to their community 
+and aren’t encountered alone. A typical day for a priest involves blessing the tribe’s food, prayer, performing rites for pregnant tribe members, and examining the tribe’s livestock. They usually help with other tasks as appropriate to ability, such as hunting or preparing food. A cleric normally prepares spells after the evening’s tribal rituals. The cult is notable for the Ashvawg tamers, who specialize in befriending strange beasts.
+The Demon Queen’s church operates on the outskirts 
+of civilization. Most primitive humanoids worship her outside or underground, usually at f lat, bloodstained rocks suitable for sacrifices or more ornate rings of stones, trees, or logs carved with the goddess’s image. Some use a deep hole in the ground or some sort of chasm representing an entrance to the goddess’s underworld realm.WATERS OF L AMASHTU
+School  conjuration (creation) [evil]; 
+Level  Clr 3, Drd 3 (Lamashtu)
+CASTINg
+Casting Time 1 standard action
+Components  V, S, M (250 gp of powdered amber)
+EFFECT
+Range  close (25 ft. + 5 ft./2 levels)
+Effect  up to 1 draft of the waters of Lamashtu
+per 2 levels
+Duration  instantaneous
+Saving Throw see text; Spell Resistance no
+DESCRIpTION
+You create what looks to be clear, pure water, but is in fact a foul secretion known as the waters of Lamashtu . The liquid functions as unholy water 
+(see curse water ). In addition, any creature that 
+drinks this fluid must make a DC 14 Fortitude save. Success causes the creature to become violently ill, vomit the fluid, and become sickened for 1d4 minutes. Failure indicates the water takes root and drives the victim mad, dealing 2d6 points of Intelligence damage. The subject’s Int score cannot drop below 1.
+The church is scattered and lacks an overall hierarchy. 
+In the rare conf licts between priests, they compare scars, number of offspring, malformations, and magical power (in that order) to determine who is superior. Ritual garb includes a jackal mask made of leather or precious metal, a cloak of black feathers, and a pair of swords or knives decorated to resemble the Demon Queen’s own weapons.
+Services to Lamashtu include howling, screaming, 
+branding, bloodletting, childbirth, intoxication, and sacrificing humanoids or animals. The use of music is limited to a throbbing drumbeat to set the tempo. Services take place at night or underground. Her holy “text” is the Skull of Mashag , a magical skull that recites her doctrine.
+Clerics of Lamashtu may prepare nightmare  as a 5th-level 
+spell. Clerics and druids may prepare baleful polymorph  as a 
+5th-level spell. Druids and rangers can use summon nature’s 
+ally spells to summon fiendish animals from the same 
+level summon monster list.

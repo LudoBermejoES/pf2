@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /dotes/monje/postura-de-la-cobra/
+title: Postura de la Cobra
+chapter: Dotes
+category: dotes
+clase: Monje
+level: 4
+---
+
+## Postura de la Cobra {% include accion.html tipo="1" %}
+
+**Dote 4**
+
+*Monje, Postura*
+
+Entras en una postura estrechamente enrollada, con tus manos listas como colmillos venenosos. Mientras estas en esta postura, los unicos Golpes que puedes hacer son ataques de colmillo de cobra. Estos infligen 1d4 de dano perforante; estan en el grupo de pelea callejera; y tienen los rasgos agil, letal d10, sutil, desarmado y venenoso (pagina 119).
+
+Mientras estas en Postura de la Cobra, obtienes un bonificador de circunstancia +1 a las salvaciones de Fortaleza y tu CD de Fortaleza, y obtienes resistencia al veneno igual a la mitad de tu nivel.
+
+---

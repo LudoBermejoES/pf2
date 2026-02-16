@@ -1,0 +1,51 @@
+61
+Magic
+3
+vurr A of the mA ker
+Aura  faint transmutation; Cl  3rd
+Slot neck; Price  3,300 gp; Weight  5 lb.
+deSCriPtion
+This hand-sized gray stone is carved to resemble a bearded, 
+wise-looking man with a squarish skull, with a leather strap threaded through a hole in the top; it is strangely heavy for its size. You gain a +2 bonus on Craft (sculpting) checks. Once per day, you may use magic stone , and this ability can affect even 
+the small boulders favored by giants. The carved face grows stern and angry when worn by a chaotic person, only relaxing to its normal expression when unworn or in the hands of a non-chaotic creature.
+If Minderhal is your patron, once per day you may use 
+owl’s wisdom .
+A vurra  is a carving of a giant’s head, usually a god but 
+sometimes a hero, loved one, or historical figure.
+ConStruCtion
+requirements  Craft Wondrous Item, magic stone , owl’s 
+wisdom , creator must have 5 ranks in Craft (sculpting); Cost 
+1,650 gp, 132 XP
+Wind WAve k ilt
+Aura  faint transmutation; Cl  5th
+Slot belt; Price  7,000 gp; Weight  5 lb.
+deSCriPtion
+This kilt is usually made of thick woven strips of sea-green and sky-blue cloth decorated with tiny pearls and bits of coral along the beltline; some instead are blue at the top and green along the bottom. When worn, you gain a +3 competence bonus on all Swim checks. When not worn, it floats on water like a dry log, automatically buoying upward any creature of 100 pounds or less and aiding in floatation for heavier creatures.
+If Gozreh is your patron, once per day you may use gaseous 
+form; in this form you do not need to breathe and you may 
+enter water or other liquid, appearing as a slightly cloudy space within the water and able to swim at speed 10 feet. You may drink salt water as if it were fresh water.
+ConStruCtion
+requirements  Craft Wondrous Item, create water , gaseous 
+form, levitate  or water walk , creator must have 5 ranks in 
+Swim; Cost 3,500 gp, 280 XP
+ArtifActs
+Not all of Golarion’s religious magic items are relatively inexpensive or low-powered devices. Some are quite powerful indeed, as the following four artifacts show.
+ShAttered Shield of ArniSAnt
+Aura  powerful abjuration; Cl  20th
+Slot shield; Price  artifact; Weight  10 lb.
+deSCriPtion
+This item is normally kept on display in the city of Vigil in Lastwall, though at first glance it is just a collection of wooden shards on a large black silk pillow. If assembled, these 12 shards would form a round shield with a piece in the center missing. The shield is incredibly old and the entire outer surface is carved to look like Aroden’s holy symbol—a winged eye in a circle. Legends contradict its origin; Aroden created it, he carried it as a mortal, he gave it to his first priest as a gift, and so on.
+Originally known as the Shield of Aroden , most today call it 
+by its new name. This artifact played a key role in the defeat of the Whispering Tyrant. Carried into battle by General Arnisant , its magic saved his life several times against direct attacks from the witch king, allowing him to rally or rescue his often-outnumbered troops and salvage a retreat from what would have been a slaughter. Frustrated by the audacious mortal who dared thwart his unliving will, in what turned out to be his last battle Tar-Baphon used a wish to summon Arnisant’s heart to his hand. Instead, the shield shattered and one of its pieces—the one directly above the General’s heart at that moment—embedded itself in the lich’s hand, burning him with holy fire. Crippled and weakened, the Whispering Tyrant was unable to hold back the triumphant charge of his enemies and was quickly captured and imprisoned beneath Gallowspire. Its magic spent, the broken artifact became a ceremonial piece of the official uniform of the watcher-lord, its case only opened for the swearing of great oaths.
+When it was intact the shield was a +5 light fortification 
+spell resistance (17) heavy wooden shield . Once per day you can 
+invoke a form of fire shield  that protected against cold attacks 
+and damaged opponents with fire and holy damage like a flame strike (it is likely that this ability is what burned the lich in his final battle). Once per round, if an adjacent ally is hit by a ranged or melee attack, you can use the shield to redirect the attack to yourself, suffering all effects from that attack as if you were its intended target. All allies within 100 feet of you gain the effect of bless  and prayer . Similar to a status  spell, all allies 
+within 100 feet know your relative position and condition.
+The shield has the special purpose of protecting its bearer 
+from death no matter the consequences to itself. Any attack that would kill you (not merely make you unconscious or dying) triggers this ability, redirecting the attack fully upon the shield and leaving you unharmed, even if the attack normally only works on living creatures. For example, if you failed a saving throw against flesh to stone , the shield would turn to stone instead 
+of you, whereas if you failed your save against horrid wilting or implosion  the shield would turn to dry splinters or crushed pulp. 
+Depending on the nature of the attack it may be impossible to reassemble or restore the shield to full functionality again.
+The shield bestows two negative levels on any chaotic 
+creature attempting to wield it. The negative levels remain as long as the shield is held or carried. These negative levels never result in actual level loss, but they cannot be overcome in any way (including restoration  spells) while the creature 
+holds or carries the shield.

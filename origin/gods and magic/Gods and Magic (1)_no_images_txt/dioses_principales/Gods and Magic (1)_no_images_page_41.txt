@@ -1,0 +1,33 @@
+39
+1
+Gods: Torag
+them into shape and maintaining discipline—a fortress 
+with a priest of Torag as the steward is sure to be free of guards sleeping on duty.
+Each morning, a priest typically rises early to stoke the 
+coals of a temple forge and then prepares breakfast while the forge reaches a suitable temperature. After eating, the priest does a little short-term work at the forge or anvil as a morning prayer, such as smelting a few pieces of copper or lead ore or hammering a metal bar into a more useful shape for an apprentice or another priest to use; a priest prepares spells during this meditative, repetitive state. After morning prayers, the priest leaves for assigned duties (which may be at the forge or anvil).
+Torag’s followers take their responsibilities seriously 
+and usually are working over one or two problems at any particular time. They can be patronizingly parental or bark at their underlings about how a careless act could endanger everyone. In the company of others of their faith they are more relaxed. They don’t like being idle and usually have some small crafting project with them at all times just to keep their hands busy, such as braiding cord into thicker strands or examining a bag of crossbow bolt heads for f lawed specimens to reforge.
+Temples tend to be circular, built around a large central 
+and fully-functional forge and satellite anvils used for even mundane tasks, for every act of smelting and smithing is considered a prayer to Torag. Because of the early morning noise from prayer-work, it is almost impossible to sleep in at a temple, though some have a remote or sound-dampened chamber for when quiet is needed, such as for an infirmary. In outdoor settlements, the temple is usually built into the defensive wall, as this keeps the noise away from other residences and makes it easier for the priests to monitor defenses.
+The church is organized like a defensive 
+army, with officers and a clear chain of command. Promotions and awards are given for excellent strategic ideas as well as heroic acts of defense in battle. Formal dress for the clergy is a work-worn, heavy leather, knee-length smithing apron, often with a large blacksmith’s hammer. Rings are common and often traded among the faith to show friendship, debt, or allegiance.
+Worship services take place at the central forge, usually 
+with other priests assisting at the anvils. Services consist of long chants punctuated with hammers and bellows, and most result in the creation of one or more metal items. The church celebrates anniversaries of successful battles . 
+Torag’s holy book is Hammer and Tongs: The Forging of Metal 
+and Other Good Works , which is usually bound in metal with 
+lacquered leather interior pages.
+Paladins may prepare mending  as a 1st-level spell. 
+Clerics may prepare fabricate  and major creation  as 
+5th-level spells, paladins as 3rd-level spells.FALLbACK S TRATE gY
+School  abjuration; Level  Clr 1, Pal 1 (Torag)
+CASTINg
+Casting Time 1 standard action
+Components  V, S, DF
+EFFECT
+Range  personal
+Target  you
+Duration  10 minutes/level or until discharged (see text)
+DESCRIpTION
+You may reroll one roll that you have just made before the GM declares whether the roll results in success or failure. You must take the result of the reroll, even if it’s worse than the original roll. This spell only works on an action that you plan for (even momentarily) and decide to act upon, not reactive actions you do in response to others’ actions.
+You can have only one instance of this spell on you at 
+any given time.

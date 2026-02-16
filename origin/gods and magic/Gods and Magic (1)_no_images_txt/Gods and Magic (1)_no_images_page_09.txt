@@ -1,0 +1,37 @@
+7
+Gods: Asmodeus
+1
+controls devils with brute magical force, an Asmodean 
+mage parlays carefully with devils, rewarding those in the Prince’s favor and abusing those out of it. All priests at least dabble in the Knowledge of the planes; doing otherwise limits advancement in the church. Most have skill in negotiation (Bluff, Diplomacy, and Sense Motive are key).
+A typical day for a priest begins with prayer, a meal, 
+then reporting to a superior for orders or following extant orders if no superior is present. Evening prayers usually include a blood sacrifice, typically a small animal or some of the priest’s own blood. Significant prayer events require greater sacrifice, possibly including a human or other intelligent creature. Divine spellcasters usually prepare their spells after evening prayer.
+Followers of Asmodeus believe in order and knowing 
+their place in the grand scheme; in many cases, they aspire to a higher position and work to prove they are worthy of it. They study their betters to learn necessary skills, watch their equals to jockey for position, and keep an eye on their inferiors for signs of exploitable talent or dangerous ambition.
+Public temples dedicated to Asmodeus thrive in Cheliax 
+where they often share space with the nation’s bureaucracy, although secret shrines are scattered 
+across Golarion. Like Hell itself, the church is very carefully ordered with a precise hierarchy and detailed means of determining who is superior or inferior within the church.
+Services to Asmodeus require the chanting of long 
+phrases without error, blood sacrifice, bells, and acts of domination or submission to reinforce position within the church. Sometimes devils are conjured to participate in the events. The Prince’s doctrine is recorded in the Asmodean Monograph , though that work is greatly 
+simplified and relies on numerous appendices and supplementary volumes.
+Clerics of Asmodeus may prepare lesser geas  a s  a  4 t h -
+level spell and a variant of geas/quest  as a 5th-level spell that 
+allows a Will saving throw.INFERNAL H EALIN g
+School  Conjuration (healing) [evil];
+Level  Clr 1, Blackguard 1, Sor/Wiz 1 (Asmodeus)
+CASTINg
+Casting Time 1 round
+Components  V, S, M (1 drop of devil blood)
+EFFECT
+Range  touch
+Target  creature touched
+Duration  1 minute
+Saving Throw Will negates (harmless);
+Spell Resistance yes (harmless)
+DESCRIpTION
+You touch a drop of devil’s blood to a wounded creature, giving them fast healing 1. This ability cannot repair damage caused by silver weapons, good-aligned weapons, or spells or effects with the good descriptor. The target detects as an evil creature for the duration of the spell and can sense the evil of the magic, though this has no long-term effect.
+INFERNAL H EALIN g, gREATER
+School  conjuration (healing) [evil]; Level: Clr 4, 
+Blackguard 4, Sor/Wiz 4 (Asmodeus)
+DESCRIpTION
+As infernal healing , except the target gains fast 
+healing 4 and the target detects as an evil cleric.

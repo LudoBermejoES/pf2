@@ -1,0 +1,49 @@
+54
+Pathfinder Chronicles: Gods and Magic
+The faiths of Golarion have created many magic items 
+to aid the efforts of their churches; these are but a sample of them. All of these have at least one power 
+usable by anyone who owns the object (these powers are listed first) as well as other powers that only work in the hands of a member of the correct church. Normal methods of identifying magic items work properly with these items, it’s just that a character can’t activate those powers unless they worship the right god.
+Merchants buy and sell items based on an item’s known 
+abilities—if the seller doesn’t know a strange idol has extra powers in the hands of a follower of Gozreh, he’s not going to know it’s worth more. If the seller doesn’t know about an item’s faith-triggered abilities, treat its market price as half normal (which means a PC selling an item to an NPC gets one-fourth of the listed market price). Most NPC buyers only pay PCs full price (half the listed market price) if they or someone they know can use all of its abilities; a mask keyed to Lamashtu won’t get full price in Kyonin because the odds of finding a Lamashtan buyer there are remote, and a pendant keyed to Aroden probably won’t get full price anywhere (except perhaps from a historian) because his worshipers are almost gone from the world.
+Because none of these items require a particular 
+religion to make them, it is possible for anyone with the appropriate item creation feat to “retune” an item for a different deity or even no deity at all. Most religious folk frown at the idea of repurposing their church’s holy magic items, but dead religions have little say in the matter (in fact, Iomedae’s followers have been quietly altering items keyed to Aroden or Arazni for some time). Anyone who meets the prerequisites to create an item can retune its patron to their own (or remove the patron requirement entirely) by spending 500 gp and one day’s work.
+AzlAnt Pend Ant
+Aura  moderate divination; Cl  5th
+Slot necklace; Price  3,100 gp; Weight  2 lb.
+deSCriPtion
+This heavy necklace is usually made of gold and looks like a large winged eye. You gain a +5 competence bonus on one type of Knowledge checks (each pendant has a different specialty).
+If Aroden is your patron, the pendant counts as a holy 
+symbol. Once per day as a free action, you may add a +10 insight bonus on a single skill check you are about to roll.ConStruCtion
+requirements  Craft Wondrous Item, moment of prescience , 
+creator must have 5 ranks in the appropriate Knowledge skill; 
+Cost 1,550 gp, 124 XP
+BArBed Pent ACle of A SmodeuS
+Aura  faint abjuration; Cl  1st
+Slot neck; Price  3,000 gp; Weight  1 lb.
+deSCriPtion
+This iron disk is inscribed with an inverted pentagram, decorated around its outer edge with tiny metal barbs (facing slightly forward so as to not snag if worn outside clothing), and hangs from an iron chain. When worn visibly, it provides a +1 deflection bonus on AC.
+If Asmodeus is your patron, the pentacle counts as a holy 
+symbol. By holding it and speaking a command word, you may use charm person once per day. If you squeeze the pentacle so its barbs draw your blood (1 point of damage), you may use that blood as ink, writing with a quill or even your finger for up to 1 hour; the blood-ink dries instantly on the writing surface so it never smudges, and if used as part of a magical spell you cast which requires or is augmented by writing (such as magic circle against evil or sepia snake sigil ), the DC of that spell 
+increases by +1.
+ConStruCtion
+requirements  Craft Wondrous Item, charm person, inflict 
+minor wounds , shield of faith ; Cost 1,500 gp, 120 XP
+BeAr Pelt of the Bone BreAker
+Aura  moderate transmutation; Cl  7th
+Slot cloak; Price  3,300 gp; Weight  10 lb.
+deSCriPtion
+This large bearskin cloak is almost too big for a human to wear comfortably. You gain a +2 bonus on Intimidate checks. Once per day, you may use bless ; using this ability causes the hair on 
+the cloak to bristle menacingly.
+If Urazra is your patron, once per day, you can polymorph  
+into a black or brown bear (limited by your hit dice, as per the spell) for up to 7 minutes. Some champions of Urazra claim to have more powerful cloaks that allow them to take the shape of polar bears or even dire bears.
+ConStruCtion
+requirements  Craft Wondrous Item, bless , polymorph , creator 
+must have 5 ranks in Intimidate; Cost 1,650 gp, 132 XP
+Belt of the Sn Ake k ing
+Aura  faint transmutation; Cl  5th
+Slot belt; Price  2,600 gp; Weight  5 lb.
+deSCriPtion
+This belt writhes looks like a living snake, complete with hissing and blinking; it clasps by holding its tail in its mouth. You gain a +1 enhancement bonus on your natural armor.
+If Ydersius is your patron, once per day, you may use magic 
+Magic of  
+the Gods

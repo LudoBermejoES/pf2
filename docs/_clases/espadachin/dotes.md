@@ -15,722 +15,116 @@ En cada nivel en el que obtienes una dote de espadachin, puedes seleccionar una 
 
 ## Nivel 1
 
-### Broquel Elegante
-**Dote 1**
-
-*Espadachin*
-
-Has aprendido una forma flexible de posicionar tu broquel para proporcionar mas proteccion. Cuando Alzas un escudo para obtener un bonificador por circunstancia a la CA con un broquel, incrementa el bonificador de +1 a +2.
-
-Mientras tienes un broquel alzado, si una criatura falla criticamente un Golpe contra ti, obtienes panache hasta el final de tu siguiente turno.
-
----
-
-### Caida en Picado
-**Dote 1**
-
-*Espadachin*
-
-**Prerrequisitos** entrenado en Acrobacias
-
-**Desencadenante** Caes.
-
-A traves de movimientos agiles, un aterrizaje elegante y un poco de suerte, puedes conseguir caer desde alturas espectaculares sin un rasguño. Obtienes la dote de habilidad Caida Felina y la siguiente reaccion.
-
-**Caida en Picado** {% include accion.html tipo="reaccion" %} **Desencadenante** Caes al menos 10 pies (3 m) y no recibes daño por la caida; **Efecto** Te acurrucas y ruedas con el movimiento. Aterrizas de pie y das una Zancada de hasta la mitad de tu Velocidad.
-
----
-
-### Cuchilla Voladora
-**Dote 1**
-
-*Espadachin*
-
-**Prerrequisitos** golpe preciso
-
-Aplicas tus tecnicas llamativas a las armas arrojadizas tan facilmente como a los ataques cuerpo a cuerpo. Aplicas tu daño de golpe preciso en Golpes a distancia que realices con un arma arrojadiza dentro del primer incremento de rango de ese arma. El arma arrojadiza debe ser un arma agil o sutil. Esto tambien te permite realizar un Golpe a distancia con arma arrojadiza para Remate confiado y cualquier otro remate que incluya un Golpe que pueda beneficiarse de tu golpe preciso.
-
----
-
-### Desarme con Estilo
-**Dote 1**
-
-*Espadachin*
-
-Desarmas armas de las manos de tus enemigos con estilo. Cuando Desarmas, la accion obtiene el rasgo fanfarronada.
-
----
-
-### Esquiva Llamativa {% include accion.html tipo="reaccion" %}
-**Dote 1**
-
-*Espadachin*
-
-**Desencadenante** Una criatura que puedes ver te tiene como objetivo de un ataque.
-
-**Requisitos** No estas sobrecargado.
-
-Esquivas diestramente fuera del camino, obteniendo un bonificador +2 por circunstancia a la CA contra el ataque desencadenante. Si el Golpe falla, obtienes panache hasta el final de tu siguiente turno.
-
----
-
-### Fascinacion Concentrada
-**Dote 1**
-
-*Espadachin*
-
-**Prerrequisitos** Interpretacion Fascinante
-
-Cuando usas Interpretacion Fascinante en un encuentro de combate, solo necesitas un exito, en lugar de un exito critico, para fascinar a tu objetivo. Esto funciona solo si intentas fascinar a un unico objetivo. Por ejemplo, si fueras experto en Interpretacion, podrias elegir tener como objetivo a multiples criaturas normalmente o tener como objetivo a una criatura y fascinarla con un exito.
-
----
-
-### Finta Provocadora
-**Dote 1**
-
-*Espadachin*
-
-**Prerrequisitos** entrenado en Engaño
-
-Tus trucos hacen que los enemigos se excedan en sus ataques. En una Finta, puedes usar los siguientes efectos de exito y exito critico en lugar de cualquier otro efecto que obtendrias al Fintar; si lo haces, otras habilidades que ajustan los efectos normales de tu Finta ya no se aplican. Puedes elegir si usar los beneficios de Finta Provocadora o los beneficios normales cada vez que Fintas a un enemigo dado.
-
-**Exito critico** El objetivo sufre un penalizador -2 por circunstancia a todas las tiradas de ataque contra ti antes del final de su siguiente turno.
-
-**Exito** El objetivo sufre un penalizador -2 por circunstancia a su siguiente tirada de ataque contra ti antes del final de su siguiente turno.
-
----
-
-### Parada Extravagante {% include accion.html tipo="1" %}
-**Dote 1**
-
-*Espadachin*
-
-**Requisitos** Empuñas una o mas armas de una mano.
-
-Usas armas de una mano para parar con estilo. Obtienes un bonificador +1 por circunstancia a la CA hasta el inicio de tu siguiente turno, o un bonificador +2 por circunstancia si tienes una mano libre o empuñas un arma con el rasgo parada. Pierdes este bonificador por circunstancia si dejas de cumplir los requisitos de esta dote. Si una criatura falla un Golpe contra ti mientras tienes este bonificador, obtienes panache hasta el final de tu siguiente turno.
-
----
-
-### Todos para Uno {% include accion.html tipo="1" %}
-**Dote 1**
-
-*Auditivo, Concentracion, Emocion, Espadachin, Linguistico, Mental*
-
-**Prerrequisitos** entrenado en Diplomacia
-
-Con precisamente las palabras de animo adecuadas, refuerzas los esfuerzos de un aliado. Designa a un aliado dentro de 30 pies (9 m); esta accion cuenta como preparacion suficiente para Ayudar a ese aliado. Cuando uses la reaccion Ayudar para ayudar a ese aliado, puedes tirar Diplomacia en lugar de la prueba habitual y la accion obtiene el rasgo fanfarronada.
-
----
-
-### Tu Eres el Siguiente {% include accion.html tipo="1" %}
-**Dote 1**
-
-*Emocion, Espadachin, Mental, Miedo*
-
-**Prerrequisitos** entrenado en Intimidacion
-
-**Desencadenante** Reduces a un enemigo a 0 Puntos de Golpe.
-
-Tras derribar a un enemigo, prometes a otro que vas a por el a continuacion. Intenta una prueba de Intimidacion con un bonificador +2 por circunstancia para Desmoralizar a una unica criatura que puedas ver y que pueda verte. Si eres legendario en Intimidacion, puedes usar esto como una accion gratuita con el mismo desencadenante.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Broquel Elegante]({{ '/dotes/espadachin/broquel-elegante/' | relative_url }}) | Has aprendido una forma flexible de posicionar tu broquel para proporcionar mas proteccion. Cuando Alzas un escudo para obtener un bonificador por ... | — | — |
+| [Caida en Picado]({{ '/dotes/espadachin/caida-en-picado/' | relative_url }}) | A traves de movimientos agiles, un aterrizaje elegante y un poco de suerte, puedes conseguir caer desde alturas espectaculares sin un rasguño. Obti... | — | — |
+| [Cuchilla Voladora]({{ '/dotes/espadachin/cuchilla-voladora/' | relative_url }}) | Aplicas tus tecnicas llamativas a las armas arrojadizas tan facilmente como a los ataques cuerpo a cuerpo. Aplicas tu daño de golpe preciso en Golp... | — | — |
+| [Desarme con Estilo]({{ '/dotes/espadachin/desarme-con-estilo/' | relative_url }}) | Desarmas armas de las manos de tus enemigos con estilo. Cuando Desarmas, la accion obtiene el rasgo fanfarronada. | — | — |
+| [Esquiva Llamativa]({{ '/dotes/espadachin/esquiva-llamativa/' | relative_url }}) | Esquivas diestramente fuera del camino, obteniendo un bonificador +2 por circunstancia a la CA contra el ataque desencadenante. Si el Golpe falla, ... | — | — |
+| [Fascinacion Concentrada]({{ '/dotes/espadachin/fascinacion-concentrada/' | relative_url }}) | Cuando usas Interpretacion Fascinante en un encuentro de combate, solo necesitas un exito, en lugar de un exito critico, para fascinar a tu objetiv... | — | — |
+| [Finta Provocadora]({{ '/dotes/espadachin/finta-provocadora/' | relative_url }}) | Tus trucos hacen que los enemigos se excedan en sus ataques. En una Finta, puedes usar los siguientes efectos de exito y exito critico en lugar de ... | — | — |
+| [Parada Extravagante]({{ '/dotes/espadachin/parada-extravagante/' | relative_url }}) | Usas armas de una mano para parar con estilo. Obtienes un bonificador +1 por circunstancia a la CA hasta el inicio de tu siguiente turno, o un boni... | — | — |
+| [Todos para Uno]({{ '/dotes/espadachin/todos-para-uno/' | relative_url }}) | Con precisamente las palabras de animo adecuadas, refuerzas los esfuerzos de un aliado. Designa a un aliado dentro de 30 pies (9 m); esta accion cu... | — | — |
+| [Tu Eres el Siguiente]({{ '/dotes/espadachin/tu-eres-el-siguiente/' | relative_url }}) | Tras derribar a un enemigo, prometes a otro que vas a por el a continuacion. Intenta una prueba de Intimidacion con un bonificador +2 por circunsta... | — | — |
 
 ## Nivel 2
 
-### Antagonizar
-**Dote 2**
-
-*Espadachin*
-
-Tus burlas y amenazas ganan la ira de tus enemigos. Cuando Desmoralizas exitosamente a una criatura, su condicion asustado no puede disminuir a menos de 1 al final de su turno hasta que use una accion hostil contra ti o ya no pueda observarte o percibirte durante al menos 1 asalto.
-
----
-
-### Desenfundado Ostentoso {% include accion.html tipo="1" %}
-**Dote 2**
-
-*Espadachin*
-
-Desenfundas y atacas con el mismo movimiento. Interactuas para desenfundar un arma, luego das un Golpe o usas un remate de una accion. Aun debes cumplir cualquier otro requisito para usar un remate, y cualquier Golpe que des debe hacerse con el arma que desenfundaste.
-
----
-
-### Despues de Ti {% include accion.html tipo="libre" %}
-**Dote 2**
-
-*Espadachin*
-
-**Desencadenante** Estas a punto de tirar iniciativa.
-
-Permites que tus enemigos hagan el primer movimiento en una muestra de increible confianza. No tiras iniciativa; en su lugar, vas voluntariamente de ultimo. Obtienes panache. Si mas de un personaje usa esta habilidad u otra habilidad para ir de ultimo, usa las reglas normales para resolver un empate: los PNJ y monstruos actuan antes que los PJ, y dentro de esos grupos, las criaturas pueden elegir el orden que quieran.
-
----
-
-### Disfrutar el Espectaculo
-**Dote 2**
-
-*Espadachin*
-
-Te diriges a un aliado o a cualquier espectador de tu combate, alardeando ante tus enemigos de lo poca atencion que requieren. Cuando Interpretas, puedes elegir una unica criatura dentro de 30 pies (9 m) y usar los siguientes efectos de exito, exito critico y fallo critico en lugar de los resultados normales; si lo haces, Interpretar obtiene el rasgo fanfarronada, asi como los rasgos auditivo y linguistico como es normal para oracion.
-
-**Exito critico** El objetivo sufre un penalizador -2 por circunstancia a las tiradas de ataque contra criaturas que no seas tu hasta el final de su siguiente turno.
-
-**Exito** El objetivo sufre un penalizador -1 por circunstancia a las tiradas de ataque contra criaturas que no seas tu hasta el final de su siguiente turno.
-
-**Fallo critico** El objetivo obtiene un bonificador +1 por circunstancia a las tiradas de ataque que te tengan como objetivo hasta el final de su siguiente turno.
-
----
-
-### Remate Desequilibrante {% include accion.html tipo="1" %}
-**Dote 2**
-
-*Espadachin, Remate*
-
-Atacas con un asalto llamativo que deja a tu objetivo desequilibrado. Da un Golpe cuerpo a cuerpo. Si impactas e infliges daño, el objetivo queda desprevenido hasta el final de tu siguiente turno.
-
----
-
-### Remate en Retirada {% include accion.html tipo="1" %}
-**Dote 2**
-
-*Espadachin, Remate*
-
-Realizas un ataque calculado sin bajar la guardia. Da un Golpe cuerpo a cuerpo con el siguiente efecto de fallo.
-
-**Fallo** Das un Paso como accion gratuita.
-
----
-
-### Seguimiento de Remate
-**Dote 2**
-
-*Espadachin*
-
-Acabar con un enemigo mantiene tu fanfarroneria. Obtienes panache siempre que tu remate reduzca a un objetivo a 0 PG.
-
----
-
-### Rodar Detras
-**Dote 2**
-
-*Espadachin*
-
-Tu voltereta pone a tus enemigos en desventaja. Cuando Ruedas a traves exitosamente, el enemigo a traves del cual Rodaste queda desprevenido contra el siguiente ataque que realices antes del final de tu turno.
-
----
-
-### Vida con Suerte {% include accion.html tipo="reaccion" %}
-**Dote 2**
-
-*Espadachin*
-
-**Prerrequisitos** Carisma +2
-
-**Desencadenante** Intentas una tirada de salvacion, pero aun no has tirado.
-
-Cuando el peligro llama, tienes un extraño don para salir adelante. Obtienes un bonificador +2 por circunstancia a la salvacion desencadenante. Si tienes exito en la tirada de salvacion desencadenante, obtienes panache hasta el final de tu siguiente turno.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Antagonizar]({{ '/dotes/espadachin/antagonizar/' | relative_url }}) | Tus burlas y amenazas ganan la ira de tus enemigos. Cuando Desmoralizas exitosamente a una criatura, su condicion asustado no puede disminuir a men... | — | — |
+| [Desenfundado Ostentoso]({{ '/dotes/espadachin/desenfundado-ostentoso/' | relative_url }}) | Desenfundas y atacas con el mismo movimiento. Interactuas para desenfundar un arma, luego das un Golpe o usas un remate de una accion. Aun debes cu... | — | — |
+| [Despues de Ti]({{ '/dotes/espadachin/despues-de-ti/' | relative_url }}) | Permites que tus enemigos hagan el primer movimiento en una muestra de increible confianza. No tiras iniciativa; en su lugar, vas voluntariamente d... | — | — |
+| [Disfrutar el Espectaculo]({{ '/dotes/espadachin/disfrutar-el-espectaculo/' | relative_url }}) | Te diriges a un aliado o a cualquier espectador de tu combate, alardeando ante tus enemigos de lo poca atencion que requieren. Cuando Interpretas, ... | — | — |
+| [Remate Desequilibrante]({{ '/dotes/espadachin/remate-desequilibrante/' | relative_url }}) | Atacas con un asalto llamativo que deja a tu objetivo desequilibrado. Da un Golpe cuerpo a cuerpo. Si impactas e infliges daño, el objetivo queda d... | — | — |
+| [Remate en Retirada]({{ '/dotes/espadachin/remate-en-retirada/' | relative_url }}) | Realizas un ataque calculado sin bajar la guardia. Da un Golpe cuerpo a cuerpo con el siguiente efecto de fallo. | — | — |
+| [Seguimiento de Remate]({{ '/dotes/espadachin/seguimiento-de-remate/' | relative_url }}) | Acabar con un enemigo mantiene tu fanfarroneria. Obtienes panache siempre que tu remate reduzca a un objetivo a 0 PG. | — | — |
+| [Rodar Detras]({{ '/dotes/espadachin/rodar-detras/' | relative_url }}) | Tu voltereta pone a tus enemigos en desventaja. Cuando Ruedas a traves exitosamente, el enemigo a traves del cual Rodaste queda desprevenido contra... | — | — |
+| [Vida con Suerte]({{ '/dotes/espadachin/vida-con-suerte/' | relative_url }}) | Cuando el peligro llama, tienes un extraño don para salir adelante. Obtienes un bonificador +2 por circunstancia a la salvacion desencadenante. Si ... | — | — |
 
 ## Nivel 4
 
-### Arremetida Villana {% include accion.html tipo="1" %}
-**Dote 4**
-
-*Espadachin, Floritura*
-
-Pasas junto a un oponente, confundiendolo con tacticas traicioneras. Da una Zancada de hasta la mitad de tu Velocidad. Puedes intentar una Zancadilla o un Truco Sucio (si tienes esa accion) contra un oponente junto al que pases dentro de alcance en cualquier punto durante tu movimiento.
-
----
-
-### Atleta Extravagante
-**Dote 4**
-
-*Espadachin*
-
-**Prerrequisitos** experto en Atletismo
-
-Tu panache te permite realizar hazañas increibles: escalar, nadar y saltar mucho mas alla de tu capacidad normal. Mientras tengas panache, obtienes los siguientes beneficios.
-
-- Obtienes Velocidades de escalar y nadar iguales a la mitad de tu Velocidad terrestre.
-- Las CD de tus Saltos en Alto y Saltos en Largo disminuyen en 10. Esto no se combina con otras habilidades que reduzcan esas CD.
-- La distancia que puedes moverte con un Salto vertical aumenta a 5 pies (1,5 m). Tu distancia para un Salto horizontal aumenta a 15 pies (4,5 m) si tu Velocidad es de al menos 15 pies (4,5 m), o a 20 pies (6 m) si tu Velocidad es de al menos 30 pies (9 m).
-
----
-
-### Desviacion del Guardian {% include accion.html tipo="reaccion" %}
-**Dote 4**
-
-*Espadachin*
-
-**Desencadenante** Un aliado dentro de tu alcance cuerpo a cuerpo es impactado por un ataque, puedes ver al atacante, y un bonificador +2 por circunstancia a la CA convertiria el impacto critico en un impacto o el impacto en un fallo.
-
-**Requisitos** Empuñas una unica arma cuerpo a cuerpo de una mano y tienes tu otra mano o manos libres.
-
-Usas tu arma para desviar el ataque contra tu aliado, otorgandole un bonificador +2 por circunstancia a su CA contra el ataque desencadenante. Esto convierte el impacto critico desencadenante en un impacto, o el impacto desencadenante en un fallo. Obtienes panache hasta el final de tu siguiente turno.
-
----
-
-### Equilibrar las Probabilidades {% include accion.html tipo="libre" %}
-**Dote 4**
-
-*Espadachin*
-
-**Frecuencia** una vez cada 10 minutos
-
-**Desencadenante** Tu turno comienza.
-
-**Requisitos** Estas siendo flanqueado.
-
-Brillas mas en los momentos desesperados. Esbozas una sonrisa confiada o haces una pose, y obtienes panache hasta el final de tu turno.
-
----
-
-### Iniciativa Arrogante {% include accion.html tipo="libre" %}
-**Dote 4**
-
-*Espadachin*
-
-**Desencadenante** Estas a punto de tirar iniciativa.
-
-Entras arrogantemente en cualquier combate. Obtienes un bonificador +2 por circunstancia a tu tirada de iniciativa y puedes Interactuar para desenfundar un arma. Si eres el primero en actuar en combate, obtienes panache.
-
----
-
-### Danza Guiada {% include accion.html tipo="1" %}
-**Dote 4**
-
-*Espadachin, Fanfarronada, Movimiento*
-
-**Prerrequisitos** entrenado en Interpretacion
-
-**Requisitos** Estas adyacente a un enemigo.
-
-Barres a tu enemigo dentro de tu danza. Intenta una prueba de Interpretacion contra la CD de Voluntad de un enemigo adyacente.
-
-**Exito critico** Tu enemigo es arrastrado por tu danza. Ambos os movais hasta 10 pies (3 m) en la misma direccion, permaneciendo adyacentes el uno al otro. Tu movimiento no desencadena reacciones del objetivo (y el movimiento del objetivo no desencadena reacciones porque es movimiento forzado).
-
-**Exito** Como exito critico, pero ambos os movais solo 5 pies (1,5 m).
-
-**Fallo** El enemigo no sigue tus pasos. Puedes moverte 5 pies (1,5 m) si lo eliges, pero este movimiento desencadena reacciones normalmente.
-
-**Fallo critico** Tropiezas, cayendo tumbado en tu espacio.
-
----
-
-### Remate Empalador {% include accion.html tipo="1" %}
-**Dote 4**
-
-*Espadachin, Remate*
-
-Ensartas a dos enemigos con una unica estocada o los golpeas juntos con un puñetazo. Da un Golpe cuerpo a cuerpo contundente o perforante y compara el resultado de la tirada de ataque contra la CA de hasta dos enemigos. Un enemigo debe estar adyacente a ti, y el otro enemigo debe estar adyacente y directamente detras del primer enemigo, en linea recta desde tu espacio. Tira el daño una vez y aplicalo a cada criatura que impactes. Un Remate Empalador cuenta como dos ataques al calcular tu penalizador por ataque multiple.
-
----
-
-### Lanzamiento Giratorio {% include accion.html tipo="1" %}
-**Dote 4**
-
-*Espadachin, Remate*
-
-**Prerrequisitos** Cuchilla Voladora
-
-Tus armas arrojadizas parecen desafiar la fisica mientras vuelan por el aire y giran de vuelta a ti despues de un golpe. Da un ataque con arma arrojadiza, ignorando el penalizador por realizar ataques a distancia dentro del segundo y tercer incremento de rango. El arma vuelve a tu mano despues del ataque a menos que hayas fallado criticamente en la tirada de ataque.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Arremetida Villana]({{ '/dotes/espadachin/arremetida-villana/' | relative_url }}) | Pasas junto a un oponente, confundiendolo con tacticas traicioneras. Da una Zancada de hasta la mitad de tu Velocidad. Puedes intentar una Zancadil... | — | — |
+| [Atleta Extravagante]({{ '/dotes/espadachin/atleta-extravagante/' | relative_url }}) | Tu panache te permite realizar hazañas increibles: escalar, nadar y saltar mucho mas alla de tu capacidad normal. Mientras tengas panache, obtienes... | — | — |
+| [Desviacion del Guardian]({{ '/dotes/espadachin/desviacion-del-guardian/' | relative_url }}) | Usas tu arma para desviar el ataque contra tu aliado, otorgandole un bonificador +2 por circunstancia a su CA contra el ataque desencadenante. Esto... | — | — |
+| [Equilibrar las Probabilidades]({{ '/dotes/espadachin/equilibrar-las-probabilidades/' | relative_url }}) | Brillas mas en los momentos desesperados. Esbozas una sonrisa confiada o haces una pose, y obtienes panache hasta el final de tu turno. | — | — |
+| [Iniciativa Arrogante]({{ '/dotes/espadachin/iniciativa-arrogante/' | relative_url }}) | Entras arrogantemente en cualquier combate. Obtienes un bonificador +2 por circunstancia a tu tirada de iniciativa y puedes Interactuar para desenf... | — | — |
+| [Danza Guiada]({{ '/dotes/espadachin/danza-guiada/' | relative_url }}) | Barres a tu enemigo dentro de tu danza. Intenta una prueba de Interpretacion contra la CD de Voluntad de un enemigo adyacente. | — | — |
+| [Remate Empalador]({{ '/dotes/espadachin/remate-empalador/' | relative_url }}) | Ensartas a dos enemigos con una unica estocada o los golpeas juntos con un puñetazo. Da un Golpe cuerpo a cuerpo contundente o perforante y compara... | — | — |
+| [Lanzamiento Giratorio]({{ '/dotes/espadachin/lanzamiento-giratorio/' | relative_url }}) | Tus armas arrojadizas parecen desafiar la fisica mientras vuelan por el aire y giran de vuelta a ti despues de un golpe. Da un ataque con arma arro... | — | — |
 
 ## Nivel 6
 
-### Combinacion de Remate
-**Dote 6**
-
-*Espadachin*
-
-Combinas una serie de ataques con un poderoso golpe final. Los Golpes de tus remates tienen un penalizador por ataque multiple menor: -4 (o -3 con un arma agil) si es el segundo ataque en tu turno, o -8 (o -6 con un arma agil) si es el tercer ataque o posterior en tu turno, en lugar de -5 y -10, respectivamente.
-
----
-
-### Golpe Reactivo {% include accion.html tipo="reaccion" %}
-**Dote 6**
-
-*Espadachin*
-
-**Desencadenante** Una criatura dentro de tu alcance usa una accion de manipular o una accion de movimiento, realiza un ataque a distancia, o abandona una casilla durante una accion de movimiento que esta usando.
-
-Golpeas a un enemigo que deja una abertura. Da un Golpe cuerpo a cuerpo contra la criatura desencadenante. Si tu ataque es un impacto critico y el desencadenante fue una accion de manipular, interrumpes esa accion. Este Golpe no cuenta para tu penalizador por ataque multiple, y tu penalizador por ataque multiple no se aplica a este Golpe.
-
----
-
-### Maniobras Agiles
-**Dote 6**
-
-*Espadachin*
-
-**Prerrequisitos** experto en Atletismo
-
-Maniobras facilmente contra tus enemigos. Tus acciones Desarmar, Agarrar, Reposicionar, Empujar y Derribar tienen un penalizador por ataque multiple menor. Incluso si tu arma o ataque desarmado no tiene el rasgo agil, el penalizador es -4 si la accion es tu segundo ataque en tu turno, o -8 si es tu tercer ataque o posterior. Si tu arma o ataque desarmado es agil y tienes panache, el penalizador se reduce aun mas, a -3 si es el segundo ataque en tu turno o -6 si es el tercer ataque o posterior.
-
----
-
-### Remate Preciso
-**Dote 6**
-
-*Espadachin*
-
-**Prerrequisitos** Remate Confiado
-
-Incluso cuando tu enemigo evita tu Remate Confiado, aun puedes golpear un punto vital. En un fallo con Remate Confiado, aplicas tu daño de golpe preciso completo en lugar de la mitad.
-
----
-
-### Voltereta Vejatoria {% include accion.html tipo="1" %}
-**Dote 6**
-
-*Espadachin, Fanfarronada*
-
-Das volteretas alrededor de tus enemigos, evitando expertamente sus reacciones. Da una Zancada de hasta la mitad de tu Velocidad y haz una prueba de Acrobacias. Compara el resultado con la CD de Reflejos de cada enemigo cuyo alcance comenzaste o entraste durante el movimiento, en secuencia.
-
-**Exito critico** Este movimiento no desencadena reacciones del enemigo, y el enemigo queda desprevenido ante ti hasta el final de tu turno.
-
-**Exito** Este movimiento no desencadena reacciones del enemigo.
-
-**Fallo critico** Tu movimiento se detiene inmediatamente cuando entras en el alcance de la criatura; si comenzaste en el alcance de la criatura, no te mueves.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Combinacion de Remate]({{ '/dotes/espadachin/combinacion-de-remate/' | relative_url }}) | Combinas una serie de ataques con un poderoso golpe final. Los Golpes de tus remates tienen un penalizador por ataque multiple menor: -4 (o -3 con ... | — | — |
+| [Golpe Reactivo]({{ '/dotes/espadachin/golpe-reactivo/' | relative_url }}) | Golpeas a un enemigo que deja una abertura. Da un Golpe cuerpo a cuerpo contra la criatura desencadenante. Si tu ataque es un impacto critico y el ... | — | — |
+| [Maniobras Agiles]({{ '/dotes/espadachin/maniobras-agiles/' | relative_url }}) | Maniobras facilmente contra tus enemigos. Tus acciones Desarmar, Agarrar, Reposicionar, Empujar y Derribar tienen un penalizador por ataque multipl... | — | — |
+| [Remate Preciso]({{ '/dotes/espadachin/remate-preciso/' | relative_url }}) | Incluso cuando tu enemigo evita tu Remate Confiado, aun puedes golpear un punto vital. En un fallo con Remate Confiado, aplicas tu daño de golpe pr... | — | — |
+| [Voltereta Vejatoria]({{ '/dotes/espadachin/voltereta-vejatoria/' | relative_url }}) | Das volteretas alrededor de tus enemigos, evitando expertamente sus reacciones. Da una Zancada de hasta la mitad de tu Velocidad y haz una prueba d... | — | — |
 
 ## Nivel 8
 
-### Doble Remate {% include accion.html tipo="1" %}
-**Dote 8**
-
-*Espadachin, Remate*
-
-**Requisitos** Empuñas dos armas cuerpo a cuerpo, una en cada mano.
-
-Divides tus ataques. Da dos Golpes cuerpo a cuerpo, uno con cada arma requerida, cada uno contra un enemigo diferente. Si el segundo Golpe se realiza con un arma no agil, sufre un penalizador -2. Incrementa tu penalizador por ataque multiple solo despues de intentar ambos Golpes.
-
----
-
-### Fanfarroneria Vivaz {% include accion.html tipo="1" %}
-**Dote 8**
-
-*Espadachin*
-
-**Requisitos** Obtuviste panache este turno.
-
-Tu ego se hincha, otorgandote un respiro temporal de tu dolor. Obtienes Puntos de Golpe temporales iguales a tu nivel mas tu modificador de Carisma que duran hasta el inicio de tu siguiente turno.
-
----
-
-### Lanzamiento Distractor {% include accion.html tipo="2" %}
-**Dote 8**
-
-*Espadachin, Fanfarronada, Floritura*
-
-Lanzas un arma al aire como distraccion mientras lanzas otra. Elige una criatura dentro de 30 pies (9 m) y Finta contra ella; puedes intentar esta Finta incluso si el objetivo no esta dentro de alcance cuerpo a cuerpo, y si el objetivo queda desprevenido como resultado de la Finta, esto se aplica a tus ataques con arma arrojadiza durante la duracion. Independientemente del resultado, puedes entonces Interactuar para desenfundar un arma arrojadiza y dar un Golpe con arma arrojadiza contra el objetivo. Si tienes una mano libre, entonces atrapas el arma que originalmente lanzaste al aire a menos que hayas fallado criticamente en tu intento de Fintar, en cuyo caso cae al suelo a tus pies.
-
----
-
-### Remate Aturdidor {% include accion.html tipo="1" %}
-**Dote 8**
-
-*Espadachin, Remate*
-
-Intentas un golpe aturdidor. Da un Golpe cuerpo a cuerpo. Si impactas, tu enemigo debe intentar una tirada de salvacion de Fortaleza contra la CD de tu clase con los siguientes resultados; la salvacion tiene el rasgo incapacitacion.
-
-**Exito critico** El objetivo no se ve afectado.
-
-**Exito** El objetivo no puede usar reacciones hasta su siguiente turno.
-
-**Fallo** El objetivo queda aturdido 1.
-
-**Fallo critico** El objetivo queda aturdido 3.
-
----
-
-### Remate Sangrante {% include accion.html tipo="1" %}
-**Dote 8**
-
-*Espadachin, Remate*
-
-Tu golpe inflige un sangrado profuso. Da un Golpe cortante o perforante. Si impactas, el objetivo tambien recibe daño de sangrado persistente igual a tu daño de golpe preciso de remate.
-
----
-
-### Rodar Llamativo
-**Dote 8**
-
-*Espadachin*
-
-**Prerrequisitos** Esquiva Llamativa
-
-Puedes usar Esquiva Llamativa antes de intentar una tirada de salvacion de Reflejos, ademas de su desencadenante original. Si lo haces, el bonificador por circunstancia se aplica a tu tirada de salvacion de Reflejos contra el efecto desencadenante.
-
-Cuando usas Esquiva Llamativa y el ataque desencadenante falla o falla criticamente, o cuando tienes exito o exito critico en la tirada de salvacion, tambien puedes dar una Zancada de hasta 10 pies (3 m) como parte de la reaccion. Si lo haces, la reaccion obtiene el rasgo movimiento. Puedes usar Rodar Llamativo mientras Vuelas o Nadas en lugar de dar una Zancada si tienes el tipo de movimiento correspondiente.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Doble Remate]({{ '/dotes/espadachin/doble-remate/' | relative_url }}) | Divides tus ataques. Da dos Golpes cuerpo a cuerpo, uno con cada arma requerida, cada uno contra un enemigo diferente. Si el segundo Golpe se reali... | — | — |
+| [Fanfarroneria Vivaz]({{ '/dotes/espadachin/fanfarroneria-vivaz/' | relative_url }}) | Tu ego se hincha, otorgandote un respiro temporal de tu dolor. Obtienes Puntos de Golpe temporales iguales a tu nivel mas tu modificador de Carisma... | — | — |
+| [Lanzamiento Distractor]({{ '/dotes/espadachin/lanzamiento-distractor/' | relative_url }}) | Lanzas un arma al aire como distraccion mientras lanzas otra. Elige una criatura dentro de 30 pies (9 m) y Finta contra ella; puedes intentar esta ... | — | — |
+| [Remate Aturdidor]({{ '/dotes/espadachin/remate-aturdidor/' | relative_url }}) | Intentas un golpe aturdidor. Da un Golpe cuerpo a cuerpo. Si impactas, tu enemigo debe intentar una tirada de salvacion de Fortaleza contra la CD d... | — | — |
+| [Remate Sangrante]({{ '/dotes/espadachin/remate-sangrante/' | relative_url }}) | Tu golpe inflige un sangrado profuso. Da un Golpe cortante o perforante. Si impactas, el objetivo tambien recibe daño de sangrado persistente igual... | — | — |
+| [Rodar Llamativo]({{ '/dotes/espadachin/rodar-llamativo/' | relative_url }}) | Puedes usar Esquiva Llamativa antes de intentar una tirada de salvacion de Reflejos, ademas de su desencadenante original. Si lo haces, el bonifica... | — | — |
 
 ## Nivel 10
 
-### Cambiazo {% include accion.html tipo="reaccion" %}
-**Dote 10**
-
-*Espadachin*
-
-**Desencadenante** Eres objetivo de un ataque a distancia.
-
-**Requisitos** Estas adyacente a un enemigo y tienes panache.
-
-Intentas cambiar diestramente de lugar con un enemigo adyacente para evitar el ataque. Elige un enemigo adyacente e intenta Reposicionarlo. En lugar de los resultados normales de Reposicionar, usa los siguientes.
-
-**Exito critico** Intercambias posiciones con el enemigo objetivo y el enemigo se convierte en el objetivo del ataque desencadenante.
-
-**Exito** Como exito critico, excepto que el objetivo tiene cobertura menor contra el ataque desencadenante, y pierdes tu panache.
-
-**Fallo** Pierdes tu panache.
-
-**Fallo critico** Quedas desprevenido contra el ataque desencadenante, y pierdes tu panache.
-
----
-
-### Danza del Broquel {% include accion.html tipo="1" %}
-**Dote 10**
-
-*Espadachin, Posicion*
-
-**Requisitos** Empuñas un broquel.
-
-Haces girar tu broquel defensivamente hacia cada ataque. Constantemente tienes tu broquel alzado como si hubieras usado Alzar un escudo, mientras cumplas los requisitos de esa accion.
-
----
-
-### Derring-Do
-**Dote 10**
-
-*Espadachin, Fortuna*
-
-Cuando combinas panache con aun mas derring-do, de alguna manera tiende a funcionar. Cuando ya tienes panache, puedes tirar dos veces y usar el resultado mas alto en pruebas a las que se aplique el bonificador por circunstancia de combatiente con estilo (Rodar a traves y cualquier accion de habilidad con el rasgo fanfarronada).
-
----
-
-### Remate Dirigido {% include accion.html tipo="1" %}
-**Dote 10**
-
-*Espadachin, Remate*
-
-Tu ataque daña y obstaculiza a tu enemigo. Elige una parte particular de tu enemigo de la lista de abajo y da un Golpe. Si impactas y dañas al objetivo, aplica el efecto correspondiente a la parte elegida. Este impedimento dura hasta el final de tu siguiente turno. En un impacto critico, tambien aplicas un efecto menor que dura 1 minuto.
-
-- **Brazo** (u otra extremidad usada para ataques, como un tentaculo) El objetivo queda debilitado 2. En un impacto critico, tambien queda debilitado 1 durante 1 minuto.
-- **Cabeza** El objetivo queda estupefacto 2. En un impacto critico, tambien queda estupefacto 1 durante 1 minuto.
-- **Piernas** El objetivo sufre un penalizador de estado de -10 pies a sus Velocidades. En un impacto critico, tambien sufre un penalizador de estado de -5 pies a sus Velocidades durante 1 minuto.
-
----
-
-### Remate Tropezante {% include accion.html tipo="1" %}
-**Dote 10**
-
-*Espadachin, Remate*
-
-Tu excelente demostracion de destreza en combate deja a tu oponente tropezando hacia atras. Da un Golpe. Si impactas, el objetivo es empujado 5 pies hacia atras (o 10 pies en un impacto critico).
-
----
-
-### Riposte Reflexivo
-**Dote 10**
-
-*Espadachin*
-
-**Prerrequisitos** Riposte Oportuno
-
-Puedes hacer un riposte casi sin pensarlo. Al inicio de cada uno de tus turnos cuando recuperas tus acciones, obtienes una reaccion adicional que solo puede usarse para realizar un Riposte Oportuno.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Cambiazo]({{ '/dotes/espadachin/cambiazo/' | relative_url }}) | Intentas cambiar diestramente de lugar con un enemigo adyacente para evitar el ataque. Elige un enemigo adyacente e intenta Reposicionarlo. En luga... | — | — |
+| [Danza del Broquel]({{ '/dotes/espadachin/danza-del-broquel/' | relative_url }}) | Haces girar tu broquel defensivamente hacia cada ataque. Constantemente tienes tu broquel alzado como si hubieras usado Alzar un escudo, mientras c... | — | — |
+| [Derring-Do]({{ '/dotes/espadachin/derring-do/' | relative_url }}) | Cuando combinas panache con aun mas derring-do, de alguna manera tiende a funcionar. Cuando ya tienes panache, puedes tirar dos veces y usar el res... | — | — |
+| [Remate Dirigido]({{ '/dotes/espadachin/remate-dirigido/' | relative_url }}) | Tu ataque daña y obstaculiza a tu enemigo. Elige una parte particular de tu enemigo de la lista de abajo y da un Golpe. Si impactas y dañas al obje... | — | — |
+| [Remate Tropezante]({{ '/dotes/espadachin/remate-tropezante/' | relative_url }}) | Tu excelente demostracion de destreza en combate deja a tu oponente tropezando hacia atras. Da un Golpe. Si impactas, el objetivo es empujado 5 pie... | — | — |
+| [Riposte Reflexivo]({{ '/dotes/espadachin/riposte-reflexivo/' | relative_url }}) | Puedes hacer un riposte casi sin pensarlo. Al inicio de cada uno de tus turnos cuando recuperas tus acciones, obtienes una reaccion adicional que s... | — | — |
 
 ## Nivel 12
 
-### Acostumbrate a la Decepcion {% include accion.html tipo="libre" %}
-**Dote 12**
-
-*Espadachin, Fanfarronada*
-
-**Prerrequisitos** experto en Intimidacion
-
-**Requisitos** Tu turno comienza, y un objetivo dentro de 30 pies (9 m) fallo una tirada de ataque o prueba de habilidad contra ti en su ultimo turno.
-
-Capitalizas el fracaso de un oponente con actitud presumida y fanfarroneria, recordandole la brecha de habilidad entre tu y tu oponente. Intentas Desmoralizar al oponente. Independientemente del resultado, el objetivo queda temporalmente inmune durante 1 minuto.
-
----
-
-### Burlar a la Muerte {% include accion.html tipo="reaccion" %}
-**Dote 12**
-
-*Espadachin*
-
-**Desencadenante** Recibes daño que te reduciria a 0 Puntos de Golpe.
-
-De alguna manera siempre escapas de la muerte por un pelo. Evitas quedar inconsciente o ser matado y permaneces a 1 Punto de Golpe y obtienes panache, pero quedas condenado 1 (o incrementas tu valor de condenado en 1 si ya estabas condenado). No puedes reducir ni ignorar la condicion condenado de Burlar a la Muerte. La condicion condenado de Burlar a la Muerte dura 10 minutos, aunque esto no afecta la duracion de cualquier otra condicion condenado que tengas.
-
----
-
-### Cuanto Mas Grandes Son {% include accion.html tipo="1" %}
-**Dote 12**
-
-*Espadachin, Fanfarronada*
-
-Con velocidad temeraria, te precipitas, saltas y te balanceas alrededor de una criatura para encontrar un punto mas vulnerable. Intenta Rodar a traves de una criatura de al menos una categoria de tamaño mayor que tu, usando los siguientes efectos.
-
-**Exito critico** Te mueves a traves del espacio del enemigo, tratando las casillas en su espacio como terreno dificil (cada 5 pies/1,5 m cuesta 10 pies/3 m de movimiento). Si no tienes suficiente Velocidad para moverte completamente a traves de su espacio, obtienes el mismo efecto que un fallo. Si pasas exitosamente a traves de la casilla del objetivo, el objetivo obtiene debilidad a tu daño de precision igual a la mitad de tu nivel, que dura hasta el final de tu turno.
-
-**Exito** Como exito, pero la debilidad se aplica solo contra el siguiente ataque que realices contra el objetivo.
-
-**Fallo** Tu movimiento termina, y desencadenas reacciones como si te hubieras movido fuera de la casilla en la que empezaste.
-
-**Fallo critico** Como fallo, y caes tumbado.
-
----
-
-### Remate Movil {% include accion.html tipo="1" %}
-**Dote 12**
-
-*Espadachin, Remate*
-
-Atacas en movimiento. Da una Zancada y luego un Golpe. Puedes usar Remate Movil mientras Excavas, Trepas, Vuelas o Nadas en lugar de dar una Zancada si tienes el tipo de movimiento correspondiente.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Acostumbrate a la Decepcion]({{ '/dotes/espadachin/acostumbrate-a-la-decepcion/' | relative_url }}) | Capitalizas el fracaso de un oponente con actitud presumida y fanfarroneria, recordandole la brecha de habilidad entre tu y tu oponente. Intentas D... | — | — |
+| [Burlar a la Muerte]({{ '/dotes/espadachin/burlar-a-la-muerte/' | relative_url }}) | De alguna manera siempre escapas de la muerte por un pelo. Evitas quedar inconsciente o ser matado y permaneces a 1 Punto de Golpe y obtienes panac... | — | — |
+| [Cuanto Mas Grandes Son]({{ '/dotes/espadachin/cuanto-mas-grandes-son/' | relative_url }}) | Con velocidad temeraria, te precipitas, saltas y te balanceas alrededor de una criatura para encontrar un punto mas vulnerable. Intenta Rodar a tra... | — | — |
+| [Remate Movil]({{ '/dotes/espadachin/remate-movil/' | relative_url }}) | Atacas en movimiento. Da una Zancada y luego un Golpe. Puedes usar Remate Movil mientras Excavas, Trepas, Vuelas o Nadas en lugar de dar una Zancad... | — | — |
 
 ## Nivel 14
 
-### Riposte Imposible
-**Dote 14**
-
-*Espadachin*
-
-**Prerrequisitos** Riposte Oportuno
-
-Tus ripostes pueden desviar ataques de vuelta a su origen. Puedes usar Riposte Oportuno con un desencadenante de "Un enemigo fuera de tu alcance falla criticamente una tirada de ataque contra ti" ademas de su desencadenante habitual. Cuando usas Riposte Oportuno con este nuevo desencadenante contra un ataque a distancia, tu Golpe desvía parte del efecto desencadenante de vuelta hacia su origen. Compara el resultado de tu tirada de ataque con la CA del enemigo desencadenante. En un impacto, infliges la cantidad normal de daño de tu Golpe, pero el tipo de daño cambia al del ataque desencadenante. Por ejemplo, si usaste Riposte Oportuno para desviar un rayo ardiente, tu Golpe infligiria daño de fuego en lugar de su tipo de daño normal.
-
----
-
-### Remate Perfecto {% include accion.html tipo="1" %}
-**Dote 14**
-
-*Espadachin, Fortuna, Remate*
-
-Concentras tu panache en un asalto impecable. Da un Golpe, tirando la tirada de ataque dos veces y usando el mejor resultado.
-
----
-
-### Salto Extravagante {% include accion.html tipo="2" %}
-**Dote 14**
-
-*Espadachin*
-
-**Prerrequisitos** maestro en Atletismo, Atleta Extravagante
-
-**Requisitos** Eres capaz de usar un remate.
-
-Saltas con estilo y ejecutas un poderoso remate. Realiza un Salto, Salto en Alto o Salto en Largo e intenta un remate de una accion en cualquier punto durante tu salto; el remate no puede ser uno que incluya otro movimiento, como Remate Movil. Inmediatamente despues del remate, caes al suelo si estas en el aire, incluso si no has alcanzado la distancia maxima de tu salto. Si la distancia que caes no es mayor que la altura de tu salto, no recibes daño y aterrizas de pie. Cuando intentas un Salto en Alto o Salto en Largo durante un Salto Extravagante, determina la CD usando las CD de Salto en Largo, e incrementa la distancia maxima al doble de tu Velocidad, en lugar de solo tu Velocidad.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Riposte Imposible]({{ '/dotes/espadachin/riposte-imposible/' | relative_url }}) | Tus ripostes pueden desviar ataques de vuelta a su origen. Puedes usar Riposte Oportuno con un desencadenante de "Un enemigo fuera de tu alcance fa... | — | — |
+| [Remate Perfecto]({{ '/dotes/espadachin/remate-perfecto/' | relative_url }}) | Concentras tu panache en un asalto impecable. Da un Golpe, tirando la tirada de ataque dos veces y usando el mejor resultado. | — | — |
+| [Salto Extravagante]({{ '/dotes/espadachin/salto-extravagante/' | relative_url }}) | Saltas con estilo y ejecutas un poderoso remate. Realiza un Salto, Salto en Alto o Salto en Largo e intenta un remate de una accion en cualquier pu... | — | — |
 
 ## Nivel 16
 
-### Gracia Mortifera
-**Dote 16**
-
-*Espadachin*
-
-Tus ataques elegantes son especialmente poderosos. Cuando obtienes un impacto critico con un arma cuerpo a cuerpo agil o sutil que tiene el rasgo mortifera, duplicas el numero de dados de ese rasgo. Cuando empuñas un arma cuerpo a cuerpo agil o sutil que no tiene el rasgo mortifera, obtiene el rasgo mortifera d8 en su lugar.
-
----
-
-### Remate Revitalizante {% include accion.html tipo="1" %}
-**Dote 16**
-
-*Espadachin, Remate*
-
-Tu fanfarroneria infunde confianza en ti y tus aliados. Da un Golpe. En un impacto, tu y todos los aliados dentro de 30 pies (9 m) obtienen Puntos de Golpe temporales iguales a la mitad de tu nivel.
-
-**Fallo** Obtienes Puntos de Golpe temporales iguales a la mitad de tu nivel.
-
----
-
-### Riposte Afortunado
-**Dote 16**
-
-*Espadachin, Fortuna*
-
-Aprovechas las aperturas de tu enemigo con probabilidades increibles. Cuando realizas un Riposte Oportuno, tira dos veces en la tirada de ataque y toma el mejor resultado.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Gracia Mortifera]({{ '/dotes/espadachin/gracia-mortifera/' | relative_url }}) | Tus ataques elegantes son especialmente poderosos. Cuando obtienes un impacto critico con un arma cuerpo a cuerpo agil o sutil que tiene el rasgo m... | — | — |
+| [Remate Revitalizante]({{ '/dotes/espadachin/remate-revitalizante/' | relative_url }}) | Tu fanfarroneria infunde confianza en ti y tus aliados. Da un Golpe. En un impacto, tu y todos los aliados dentro de 30 pies (9 m) obtienen Puntos ... | — | — |
+| [Riposte Afortunado]({{ '/dotes/espadachin/riposte-afortunado/' | relative_url }}) | Aprovechas las aperturas de tu enemigo con probabilidades increibles. Cuando realizas un Riposte Oportuno, tira dos veces en la tirada de ataque y ... | — | — |
 
 ## Nivel 18
 
-### Parada y Riposte
-**Dote 18**
-
-*Espadachin*
-
-**Prerrequisitos** Riposte Oportuno
-
-Tus paradas y remates te permiten hacer ripostes con la menor provocacion. Puedes usar Riposte Oportuno contra un enemigo que falle un Golpe contra ti (no solo que falle criticamente), siempre que hayas dañado a esa criatura con un remate en tu ultimo turno y actualmente tengas un bonificador por circunstancia a la CA por el rasgo de arma parada, o Parada Extravagante.
-
----
-
-### Remate Letal {% include accion.html tipo="1" %}
-**Dote 18**
-
-*Espadachin, Muerte, Remate*
-
-**Prerrequisitos** golpe preciso 6d6
-
-Apuñalas a tu enemigo en un organo vital, posiblemente matandolo instantaneamente. Da un Golpe. En un exito, renuncias a tu daño de golpe preciso del remate. En su lugar, tu objetivo recibe daño de precision adicional basado en una tirada de salvacion de Fortaleza contra la CD de tu clase. Si tu Golpe fue un impacto critico, el resultado de la tirada de salvacion del objetivo es un grado peor.
-
-**Exito critico** Infliges 6 de daño de precision.
-
-**Exito** Infliges 6d6 de daño de precision.
-
-**Fallo** Infliges 12d6 de daño de precision.
-
-**Fallo critico** Infliges 18d6 de daño de precision.
-
----
-
-### Suerte Increible
-**Dote 18**
-
-*Espadachin, Fortuna*
-
-**Prerrequisitos** Vida con Suerte
-
-Siempre pareces recuperarte de lo peor. Cuando usas Vida con Suerte, tira la salvacion dos veces (incluyendo el bonificador +2 por circunstancia de Vida con Suerte) y usa el mejor resultado.
-
----
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Parada y Riposte]({{ '/dotes/espadachin/parada-y-riposte/' | relative_url }}) | Tus paradas y remates te permiten hacer ripostes con la menor provocacion. Puedes usar Riposte Oportuno contra un enemigo que falle un Golpe contra... | — | — |
+| [Remate Letal]({{ '/dotes/espadachin/remate-letal/' | relative_url }}) | Apuñalas a tu enemigo en un organo vital, posiblemente matandolo instantaneamente. Da un Golpe. En un exito, renuncias a tu daño de golpe preciso d... | — | — |
+| [Suerte Increible]({{ '/dotes/espadachin/suerte-increible/' | relative_url }}) | Siempre pareces recuperarte de lo peor. Cuando usas Vida con Suerte, tira la salvacion dos veces (incluyendo el bonificador +2 por circunstancia de... | — | — |
 
 ## Nivel 20
 
-### Contramovimientos Inagotables
-**Dote 20**
+| Dote | Descripción | Rasgos | Requisitos |
+|------|-------------|--------|------------|
+| [Contramovimientos Inagotables]({{ '/dotes/espadachin/contramovimientos-inagotables/' | relative_url }}) | Al inicio de cada turno enemigo, obtienes una reaccion extra que solo puedes usar durante ese turno para realizar un Riposte Oportuno, o un Golpe R... | — | — |
+| [Paragona del Panache]({{ '/dotes/espadachin/paragona-del-panache/' | relative_url }}) | Encuentras oportunidades para realizar hazañas con estilo en los momentos entre los latidos del corazon y parpadeos de otros. Estas permanentemente... | — | — |
+| [Remate Ilimitado]({{ '/dotes/espadachin/remate-ilimitado/' | relative_url }}) | Tus golpes fluyen sin fin. Da un Paso e intenta un unico remate de una accion. Este Golpe obtiene el rasgo fanfarronada, posiblemente recargando tu... | — | — |
 
-*Espadachin*
-
-Al inicio de cada turno enemigo, obtienes una reaccion extra que solo puedes usar durante ese turno para realizar un Riposte Oportuno, o un Golpe Reactivo si tienes esa reaccion.
-
----
-
-### Paragona del Panache
-**Dote 20**
-
-*Espadachin*
-
-Encuentras oportunidades para realizar hazañas con estilo en los momentos entre los latidos del corazon y parpadeos de otros. Estas permanentemente acelerado. Solo puedes usar la accion extra para realizar una accion de fanfarronada.
-
----
-
-### Remate Ilimitado {% include accion.html tipo="1" %}
-**Dote 20**
-
-*Espadachin, Fortuna, Remate*
-
-**Requisitos** No estas fatigado.
-
-Tus golpes fluyen sin fin. Da un Paso e intenta un unico remate de una accion. Este Golpe obtiene el rasgo fanfarronada, posiblemente recargando tu panache; si recuperas panache, puedes intentar inmediatamente otro remate como parte de esta accion, ignorando la restriccion de usar acciones con el rasgo ataque despues de un remate.

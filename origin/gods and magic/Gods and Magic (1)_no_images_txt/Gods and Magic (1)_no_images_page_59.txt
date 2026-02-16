@@ -1,0 +1,70 @@
+57
+Magic
+3
+another weapon to cast magic weapon on its target. You gain 
+a +2 competence bonus on all smithing (weaponsmithing, armorsmithing, blacksmithing, and so on) checks made with the forgehammer .
+If Torag is your patron, once per day you may strike the 
+forgehammer  against another character’s shield or set of 
+armor to cast a shield other spell. If you can craft magic weapons or armor and you use the forgehammer  during the 
+crafting, the total time to craft the item decreases by 25% (minimum 1 day crafting). This does not reduce the cost to create the item. A particular forgehammer can only aid in one item’s crafting at a time.
+ConStruCtion
+requirements  Craft Magic Arms and Armor, Wondrous Item, 
+magic weapon, shield other , creator must have at least 5 ranks 
+in a smithing Craft skill; Cost 2,400 gp, 192 XP
+flASk of the r eAPer
+Aura  faint transmutation; Cl  3rd
+Slot none; Price  3,800 gp; Weight  —
+deSCriPtion
+This metal container looks like a hip flask for carrying alcoholic drinks except it is barely larger than a potion vial. The side of the flask may be blank or have a personalized decoration, but the screw-on stopper usually bears a mark like a shield or perhaps a featureless mask. Once per day, you can drink from it and gain a +5 alchemical bonus on Fortitude saving throws against poison and a +5 competence bonus on Hide checks for 1 hour.
+If Norgorber is your patron, in addition to the above 
+ability, once per day you may drink from the flask to gain a +5 competence bonus on Move Silently, Search, or Sleight of Hand checks. Once per day, you can pour acid from the flask (equivalent in volume to a standard acid flask).
+ConStruCtion
+requirements  Craft Wondrous Item, acid splash, resistance , 
+creator must have at least 5 ranks in Hide, Move Silently, Search, and Sleight of Hand; Cost 1,900 gp, 152 XP
+goSSAmer Am BerStone
+Aura  faint conjuration; Cl  3rd
+Slot neck; Price  2,700 gp; Weight  —
+deSCriPtion
+This coin-sized piece of cracked amber is glued to a leather strap and contains a preserved bloodsucking insect of unnatural size. Once per day, you can use cure light wounds .
+If Ghlaunder is your patron, once per day you may use 
+summon swarm . The swarm can be spiders or mosquitoes; a 
+mosquito swarm has the same statistics as a locust swarm except its attack deals 1d6 damage and transmits filth fever.
+ConStruCtion
+requirements  Craft Wondrous Item, cure light wounds , 
+summon swarm ; Cost 1,350 gp, 108 XPgreAt BArghe St hero Clo Ak
+Aura  faint transmutation; Cl  7th
+Slot cloak; Price  2,800 gp; Weight  5 lb.
+deSCriPtion
+This cloak looks like a gray wolf’s pelt, including legs and tail; 
+the clasp is a wolf’s tooth. You gain a +2 competence bonus on Intimidate checks.
+If your patron is Lamashtu or one of the goblin barghest 
+heroes (Hadregash, Venkelvore, Zarongel, or Zogmugot), once per day you can polymorph into a wolf or a wolf-goblin hybrid for up to 7 minutes (the hybrid form resembles a barghest’s natural form but has the same statistics as a wolf).
+ConStruCtion
+requirements  Craft Wondrous Item, polymorph , creator must 
+have at least 5 ranks in Intimidate; Cost 1,400 gp, 112 XP
+hAg’S ShABB le
+Aura  faint transmutation; Cl  3rd
+Slot robe; Price  3,400 gp; Weight  3 lb.
+deSCriPtion
+This unkempt black smock is loose-fitting and stained from travel. In the River Kingdoms you are likely to be mistaken for a follower of Gyronna. You gain a +2 bonus on Diplomacy and Intimidate checks.
+If Gyronna is your patron, once per day you may use detect 
+thoughts .
+ConStruCtion
+requirements  Craft Wondrous Item, detect thoughts , creator 
+must have at least 5 ranks in Diplomacy and Intimidate; Cost 1,700 gp, 136 XP
+holy mAS k of the living g od
+Aura  moderate illusion (shadow); Cl  1st
+Slot mask; Price  2,100 gp; Weight  1 lb.
+deSCriPtion
+This iron mask models the stoic face of the Living God Razmir; its forehead bears a diamond-shaped ivory ornament said to come from the Living God’s own mask.
+If Razmir is your patron, gain a +2 competence bonus on 
+Heal and Intimidate checks. You may use cause fear and cure light wounds once per day.
+ConStruCtion
+requirements  Craft Wondrous Item, cause fear , shadow 
+conjuration , creator must have at least 5 ranks in Heal and 
+Intimidate; Cost 1,050 gp, 84 XP
+iCon of the mid Wife
+Aura  faint divination; Cl  3rd
+Slot none; Price  3,500 gp; Weight  2 lb.
+deSCriPtion
+This gray stone carving of a gaunt older woman is usually painted with black hair and black clothing with red trim. Once per day, you can use it to cast cure minor wounds , resistance , 

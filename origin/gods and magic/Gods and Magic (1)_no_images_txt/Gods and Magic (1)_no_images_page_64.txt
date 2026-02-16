@@ -1,0 +1,35 @@
+62
+Pathfinder Chronicles: Gods and Magic
+Any attempt to repair the shield requires all of its pieces, 
+and barring the direct intercession of a deity it is likely that 
+any repairs will be imperfect. Any time the bearer fails a saving throw on 1, the shield must attempt the same saving throw (regardless whether the shield would normally be the item to suffer the effects of failure), and if it fails by rolling 1 it immediately shatters again, perhaps with disastrous effects. Despite their lack of active magic the individual pieces appear to be as hardy as any typical magic shield, as evidenced by a mad sorcerer’s attempt to burn the shield to ash in 3971 AR.
+greAtCuBe of JA yAlAkShmi
+Aura  powerful (all schools); Cl  20th
+Slot none; Price  major artifact; Weight  4,000 lb.
+deSCriPtion
+Believed to be cut from the same mountain as the Stone Egg of Jayalakshmi , this polished cube is 3 feet across and bears 
+countless symbols, patterns, lines, and tiny holes that pierce it no deeper than the thickness of a fingernail. Predominantly a rich gray but veined with white and gold like luxurious marble, it is somehow aligned to the flow of magical energy in its vicinity, and has been known to turn itself suddenly, usually less than an inch but rarely a foot or more. Like the Stone Egg it was once protected in a cave and studied until in 2804 AR a clever supplicant found a way to transform it into a hand-sized replica of itself and steal it away.
+The Arclords of Nex possessed it for a time, though its 
+disappearance in 2822 may have played a role in their loss of Jalmeray to the rajahs. Anecdotal evidence from the oldest record of the Shining Crusade mentions the Whispering Tyrant having an item that matches its description, though it played no role in any of their early battles. The gold dragon Mengkare claims he had it in his trove shortly before the founding of his Great Experiment. Since that time it has turned up in the hands of various strange mystics, petty magical tyrants, the church of Nethys (who may have a book describing its powers and how to activate them), and even a crafty linnorm, always for a short while before vanishing again.
+In its large form, the cube encourages and enhances magic, 
+similar to how its cousin the Stone Egg works with psionics. Those near it with the potential to become bards or sorcerers sometimes spontaneously cast their first cantrips. Wizards gain insight to the formulae for new spells, clerics and druids hear echoes of prayers lost to time.
+If you know its secrets you can use the power of the cube 
+to duplicate the effects of an empowered , extended , maximized , 
+quickened , or silent greater metamagic rod , up to 8 enhanced 
+spells per day, one cube-granted enhancement per spell. You can use it as a rod of absorption , absorbing or releasing up to 
+8 spell levels per day. You can use it as a spellbook, preparing spells from it without needing read magic , and it contains 
+knowledge of all common spells as well as a few unusual ones. If you are a bard, sorcerer, or other spontaneous caster you can use your own spell slots to cast spells the cube knows, 
+even if you do not know the spell yourself. Activating any of these powers requires you to be sitting on the cube or touching it with one hand. It cannot be moved by magic, only physical force; any attempts merely have no effect.
+Transforming it to its hand-sized form or back requires a 
+command word and takes 1 full round for the transformation to complete. In its small form it retains its rod of absorption  powers 
+and you can use it up to three times per day as a empowered , 
+extended , maximized , quickened , or silent lesser metamagic rod .
+The cube may also contain secrets of the planes and 
+the strange colors between the stars, but doing so is risky, and several users have gone mad in the attempts to learn unspeakable secrets—but not before half-filling their spellbook or journal with dizzying runes and cryptic phrases. Some believe the cube is partly sentient and has an agenda of its own, and when it’s bearer’s path deviates from its goals it leaves, sometimes dramatically and dangerously (such as Chelish mage Arrokos Vlen’s sudden plummeting death when the small cube made itself large while they were flying a mile above the ground) or mysteriously (such as the hermit found in the Osirion desert crushed flat by a large carved cube which was nowhere to be found).
+CAntori An S Pring
+Aura  powerful transmutation; Cl  20th
+Slot none; Price  major artifact; Weight  5 lb.
+deSCriPtion
+This long, straight staff bears a rough crystal at the top, wrapped in wire extending to the base. When the staff moves, something liquid shifts within the crystal. The staff tends to right itself if left alone, balancing easily on its lower end, easily moved or toppled but quickly returning to its upright position if left undisturbed for a few minutes. Though the creator of this item is uncertain, most believe it has some ties to Canzoriant, a powerful devil whose cult gained some renown  by elves before the Age of Darkness (and who was crushed by Asmodeus in a failed coup). Canzoriant had an interest in conquest and breeding stronger slaves, and it is likely he played a role in its most famous work—the hobgoblin.
+Ages ago, a group of elven adventurers located a strange 
+colony where powerful mutated goblins were being bred into a great army that would wash over the elven cities. These new goblins were smarter, larger, and stronger than regular goblins, more disciplined, and fearsome, conditioned to hate elves with stories of horror and rumors that the elves reciprocated their hate and wanted the colonies razed. Alert to the hobgoblin threat, the elves located the artifact at the center of the colony and stole it; when the owners caught up to the elves, they battled, and in the confusion the artifact was lost. Since that time the hobgoblins have been their own masters and the names of the being or beings who thought up their creation have been lost. Over the centuries the staff has appeared, 

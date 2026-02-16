@@ -1,0 +1,66 @@
+59
+Magic
+3
+If Apsu is your patron, once per day you may use eagle’s 
+splendor . On command, the orb glows with a light  spell or 
+darkens again.
+ConStruCtion
+requirements  Craft Wondrous Item, eagle’s splendor , light , 
+shocking grasp ; Cost 1,950 gp, 156 XP
+PAllid Cry StAl
+Aura  faint necromancy; Cl  3rd
+Slot necklace; Price  3,300 gp; Weight  —
+deSCriPtion
+This finger-length crystal is a pale opaque pink color when 
+worn by a living creature, but slowly changes to a translucent deep violet when carried by the undead. You can eat spoiled food and drink spoiled liquid as if it were fresh and wholesome, tasting as good as it did before it spoiled. Any person with the Profession (cook) skill can use the crystal to season a meal with the flavor of salt, sugar, cinnamon, ginger, or pepper (or the equivalent spices for the undead palate—fear’s breath, nightfog, bloodroot, thileu bark, or hatefinger).
+If Urgathoa is your patron, once per day you may use death 
+knell. Both cure  and inflict  spells heal you, whether you are 
+living or undead; the crystal flares with black or white energy when it converts this energy into a form that does not harm you. The crystal does not affect any other uses of positive or negative energy, just cure  and inflict  spells (or effects that 
+duplicate these spells).
+ConStruCtion
+requirements  Craft Wondrous Item, cure light wounds , death 
+knell, inflict light wounds , purify food and drink ; Cost 1,650 gp, 
+132 XP
+Preklikin’ S Book of Cult S
+Aura  faint conjuration (evil); Cl  5th
+Slot none; Price  1,500 gp; Weight  5 lb.
+deSCriPtion
+This strange leather-bound book contains erratic handwriting; the words within it appear to have been translated from Gnome into Common (and perhaps some other language before Gnome). It contains notations of strange cult practices, disturbing rants about ancient god-like beings, and confusing diagrams resembling summoning circles, with many parts crossed out or obliterated with ink or fire. You gain a +1 resistance bonus on Will saving throws while carrying the book.
+If your patron is one of the Great Old Ones, you may hold 
+the book in one hand to use it as a lesser extend metamagic rod but only for conjuration spells that summon or call an 
+evil outsider.
+ConStruCtion
+requirements  Craft Wondrous Item, Extend Spell, resistance ; 
+Cost 750 gp, 60 XPrhom BoCryStAl
+Aura  faint evocation; Cl  1st
+Slot none; Price  2,250 gp; Weight  —
+deSCriPtion
+This jewel-like lens slowly changes colors over time. Most 
+owners set it in a metal fixture on a chain and carry it as a pendant, monocle, or loupe. It acts as a magnifying glass and gives you a +5 competence bonus on Appraise checks involving gems and crystals.
+If Nivi Rhombodazzle is your patron you gain a +1 luck 
+bonus on Reflex saving throws.
+ConStruCtion
+requirements  Craft Wondrous Item, divine favor , creator must 
+have 5 ranks in Appraise; Cost 1,125 gp, 90 XP
+roBe of the mAS ter of mAS terS
+Aura  faint conjuration (healing) and transmutation; Cl  7th
+Slot robe; Price  2,300 gp; Weight  3 lb.
+deSCriPtion
+This brightly-colored robe is made of fine silk and cut in Vudrani style (male or female). As a full-round action, you can shift the original hue of the garment slightly (from red to pink or crimson, from blue to cyan or sapphire, and so on) or return it to its original color; it instantly reverts to its original color if you remove it. You gain a +2 competence bonus on Perform (dance) checks.
+If Irori is your patron deity, once per day as a free action you 
+may touch a tiny button on the wrist of the robe, enabling you to act as though affected by a haste  spell for 1 round. Once per 
+day, you may perform a healing dance for 5 minutes; up to 1 ally per level within 30 feet heals 1 hit point.
+ConStruCtion
+requirements  Craft Wondrous Item, cure light wounds , 
+disguise self , haste , creator must have 5 ranks in Perform 
+(dance); Cost 1,150 gp, 23 XP
+SACrifiCiAl dA gger of the Blood mother
+Aura  faint necromancy; Cl  3rd
+Slot none; Price  2,700 gp; Weight  1 lb.
+deSCriPtion
+This dagger is usually made of chiseled stone, though some are made of sharpened mammoth bone. It is carved with a symbol of a woman holding meat in one hand and a stone tablet in the other. It is more a symbol than an actual weapon, though the hilt is especially long, as if created for a Large creature.  Once per day, you may use detect animals or plants .
+If Fandarra is your patron, once per day you may use death 
+knell if you offer the blood of your target to the goddess; you may do this even if your alignment is good.
+ConStruCtion
+requirements  Craft Wondrous Item, death knell , detect 
+animals or plants ; Cost 1,350 gp, 108 XP
