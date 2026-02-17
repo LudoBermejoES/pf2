@@ -93,11 +93,19 @@ De los archivos markdown actuales en `docs/_dotes/`, extraer:
 
 **Total real:** 1,840 archivos de dotes individuales
 
-**Estado del formato (análisis realizado):**
-- 1,806 archivos con formato actual (`<div class="feat-traits-header" markdown="0">`)
-- 20 archivos con formato div antiguo (sin `markdown="0"`)
-- 256 archivos con línea legacy `**Dote X** · Rasgo` que debería eliminarse
-- 14 dotes de bárbaro usan "Detonante:" en lugar de "Desencadenante:"
+**Estado del formato (actualizado 2024-02-17):**
+- ✅ 1,840 archivos con formato homogéneo y consistente
+- ✅ Todos los divs tienen `markdown="0"`
+- ✅ Cero líneas legacy `**Dote X** · Rasgo`
+- ✅ Todas las dotes usan "Desencadenante:" (no "Detonante:")
+- ✅ -6,148 líneas netas eliminadas (código más limpio)
+
+**Homogeneización completada (commit d988a708):**
+- 282 archivos corregidos automáticamente
+- 14 dotes de bárbaro: "Detonante:" → "Desencadenante:"
+- 256 archivos: eliminadas líneas legacy redundantes
+- 20 dotes generales: agregado `markdown="0"` a divs
+- 8 archivos .backup eliminados
 
 **Estructura estándar de archivo de dote:**
 ```markdown
@@ -156,8 +164,9 @@ Descripción principal de la dote con mecánicas y efectos...
 - `requirements`: Requisitos (condiciones que deben cumplirse al usar la dote)
   - Ejemplos: "Empuñas un broquel", "Estas adyacente a un enemigo", "No estas sobrecargado"
   - Diferencia con prerequisites: requirements son condiciones temporales, prerequisites son permanentes
-- `trigger`: Desencadenante o Detonante (para dotes de reacción y algunas acciones libres)
-  - **IMPORTANTE**: Algunos archivos usan "Detonante:" (14 dotes de bárbaro) en lugar de "Desencadenante:"
+- `trigger`: Desencadenante (para dotes de reacción y algunas acciones libres)
+  - ✅ **HOMOGENEIZADO**: Todos los archivos ahora usan "Desencadenante:" consistentemente
+  - ~~Previamente: 14 dotes de bárbaro usaban "Detonante:" (ya corregido)~~
   - Ejemplos: "Eres objetivo de un ataque a distancia", "Caes", "Tu turno comienza"
 - `frequency`: Frecuencia (limitaciones de uso temporal)
   - Ejemplos: "una vez cada 10 minutos", "una vez por dia", "una vez por combate"
@@ -239,7 +248,7 @@ r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Detonante|Frecuencia|Coste?|Efe
 # Formato 2: Sin dos puntos (algunos archivos legacy)
 r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Detonante|Frecuencia|Coste?|Efecto|Beneficio|Especial)\*\*\s+(.+?)(?=\n\n|\*\*[A-Z]|$)'
 
-# NOTA: "Detonante" es una variante usada en 14 dotes de bárbaro (debería ser "Desencadenante")
+# NOTA HISTÓRICA: "Detonante" era una variante en 14 dotes de bárbaro (ya corregido a "Desencadenante")
 
 # Resultados de acciones (dotes con tiradas)
 r'\*\*(Exito critico|Exito|Fallo critico|Fallo)\*\*\s*(.+?)(?=\n\n|\*\*[A-Z]|$)'
@@ -657,3 +666,119 @@ jobs:
 - Cartas de conjuros: `tools/spellCardCreator/`
 - Cartas de objetos: `tools/itemCardCreator/`
 - Documentación PIL: https://pillow.readthedocs.io/
+
+## Scripts de Homogeneización
+
+Como parte del proyecto, se crearon scripts automáticos para estandarizar el formato de todos los archivos de dotes. Estos scripts están disponibles en `scripts/` para futuras correcciones o mantenimiento.
+
+### Scripts Disponibles
+
+#### 1. `fix-detonante.js`
+
+Corrige la variante "Detonante:" a "Desencadenante:" en archivos de dotes.
+
+**Uso:**
+```bash
+node scripts/fix-detonante.js
+```
+
+**Resultado histórico:**
+- 14 archivos de bárbaro corregidos
+- Búsqueda automática de archivos con "Detonante:"
+- Reemplazo consistente preservando formato
+
+#### 2. `remove-legacy-feat-lines.js`
+
+Elimina líneas redundantes con formato `**Dote X** · Rasgo` que duplican información del frontmatter YAML.
+
+**Uso:**
+```bash
+node scripts/remove-legacy-feat-lines.js
+```
+
+**Resultado histórico:**
+- 256 archivos corregidos
+- Distribución: 154 habilidad, 31 generales, 19 humano, 19 mediano, 17 elfo, 16 gnomo
+- También elimina líneas vacías siguientes
+
+**Ejemplo de corrección:**
+```markdown
+# Antes
+## Paso elfo
+
+**Dote 9** · Elfo
+
+Te mueves en una danza...
+
+# Después
+## Paso elfo
+
+Te mueves en una danza...
+```
+
+#### 3. `fix-divs-without-markdown.js`
+
+Agrega el atributo `markdown="0"` a divs de feat-traits-header que no lo tienen.
+
+**Uso:**
+```bash
+# Pasar lista de archivos como argumentos
+node scripts/fix-divs-without-markdown.js file1.md file2.md ...
+
+# O con find/grep
+grep -l '<div class="feat-traits-header">' docs/_dotes/generales/*.md | \
+  while read f; do grep -q 'markdown="0"' "$f" || echo "$f"; done | \
+  xargs node scripts/fix-divs-without-markdown.js
+```
+
+**Resultado histórico:**
+- 20 archivos de dotes generales corregidos
+- Necesario para que Jekyll no procese el contenido del div como markdown
+
+**Ejemplo de corrección:**
+```markdown
+# Antes
+<div class="feat-traits-header">
+<a href="/apendices/rasgos/general/" class="feat-trait">General</a>
+</div>
+
+# Después
+<div class="feat-traits-header" markdown="0">
+<a href="/apendices/rasgos/general/" class="feat-trait">General</a>
+</div>
+```
+
+#### 4. `fix-old-div-format.js`
+
+Script inicial para búsqueda de divs con formato antiguo (wrapper del script #3).
+
+### Estadísticas de Homogeneización
+
+**Commit:** `d988a708` - "Homogeneizar formato de archivos de dotes"
+
+**Cambios totales:**
+- 282 archivos modificados
+- +295 inserciones
+- -6,443 eliminaciones
+- **-6,148 líneas netas** (código más limpio)
+
+**Distribución de correcciones:**
+
+| Corrección | Archivos | Script |
+|-----------|----------|--------|
+| Detonante → Desencadenante | 14 | fix-detonante.js |
+| Líneas legacy eliminadas | 256 | remove-legacy-feat-lines.js |
+| Divs con markdown="0" | 20 | fix-divs-without-markdown.js |
+| Archivos .backup eliminados | 8 | (manual) |
+| **TOTAL** | **290** | - |
+
+### Mantenimiento Futuro
+
+Si se detectan nuevos problemas de formato en el futuro:
+
+1. **Nuevas variantes de campos**: Actualizar los regex en los scripts
+2. **Formato inconsistente**: Ejecutar los scripts correspondientes
+3. **Validación**: Crear tests para verificar consistencia
+
+**Recomendación:** Ejecutar estos scripts periódicamente o en CI/CD para mantener la consistencia del formato.
+
