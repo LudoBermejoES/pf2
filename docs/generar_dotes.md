@@ -76,30 +76,88 @@ De los archivos markdown actuales en `docs/_dotes/`, extraer:
 ### Fase 1: Análisis y Preparación (2-3 horas)
 
 #### 1.1. Análisis de Datos de Dotes
-- [ ] Revisar estructura de archivos en `docs/_dotes/`
-- [ ] Identificar patrones comunes en markdown
-- [ ] Documentar variaciones de formato
-- [ ] Crear lista de todos los campos posibles
+- [x] Revisar estructura de archivos en `docs/_dotes/`
+- [x] Identificar patrones comunes en markdown
+- [x] Documentar variaciones de formato
+- [x] Crear lista de todos los campos posibles
 
-**Ubicaciones:**
-- Dotes de ascendencias: `docs/_dotes/{ascendencia}/`
-- Dotes de herencias versátiles: `docs/_dotes/{herencia}/`
-- Dotes de clases: `docs/_dotes/{clase}/`
+**Ubicaciones actualizadas (2024):**
+- Dotes de ascendencias: `docs/_dotes/{ascendencia}/` (18 ascendencias)
+- Dotes de herencias versátiles: `docs/_dotes/herencias-versatiles/{herencia}/` (2 herencias: aiuvarin, dromaar)
+- Dotes de clases: `docs/_dotes/{clase}/` (17 clases)
+- Dotes de arquetipos: `docs/_dotes/arquetipo/{arquetipo}/` (43 arquetipos)
+  - Multiclase: 8 arquetipos (bardo, brujo, clerigo, druida, explorador, guerrero, mago, picaro)
+  - Especialización (PC2): 35 arquetipos (acrobata, arqueologo, arquero, etc.)
+- Dotes generales: `docs/_dotes/generales/`
+- Dotes de habilidad: `docs/_dotes/habilidad/{habilidad}/`
+
+**Total estimado:** ~1,837 archivos de dotes individuales
+
+**Estructura estándar de archivo de dote:**
+```markdown
+---
+layout: page
+permalink: /dotes/clase/nombre-dote/
+title: Nombre de la Dote
+chapter: Dotes
+category: dotes
+clase: Clase          # o ancestry, heritage, archetype, archetype_type
+level: X
+---
+
+## Nombre de la Dote {% include accion.html tipo="reaccion" %}
+
+<div class="feat-traits-header" markdown="0">
+  <a href="/apendices/rasgos/rasgo1/" class="feat-trait">Rasgo1</a>
+  <a href="/apendices/rasgos/rasgo2/" class="feat-trait">Rasgo2</a>
+</div>
+
+**Prerrequisitos** Dote Anterior o experto en Habilidad o Carisma +2
+
+**Desencadenante** Condición que activa la dote (para reacciones)
+
+**Requisitos** Condiciones temporales para usar la dote
+
+**Frecuencia** una vez cada 10 minutos
+
+Descripción principal de la dote con mecánicas y efectos...
+
+**Exito critico** Resultado excepcional de la tirada
+**Exito** Resultado normal de éxito
+**Fallo** Resultado de fallo
+**Fallo critico** Resultado crítico de fallo
+
+**Especial** Notas adicionales, reglas especiales, interacciones
+
+---
+```
 
 **Campos a extraer:**
 - `name`: Título de la dote
-- `level`: Nivel requerido
-- `traits`: Lista de rasgos (de `<div class="feat-traits-header">`)
-- `ancestry/heritage/class`: Ascendencia/herencia/clase
-- `actionType`: Tipo de acción (si aplica)
-- `prerequisites`: Prerrequisitos
-- `requirements`: Requisitos
-- `trigger`: Desencadenante (para dotes de reacción)
-- `frequency`: Frecuencia
-- `description`: Descripción principal
-- `benefit`: Beneficio (si está separado)
-- `special`: Texto especial
-- `critical_success/success/failure/critical_failure`: Resultados
+- `level`: Nivel requerido (del frontmatter YAML)
+- `traits`: Lista de rasgos (de `<div class="feat-traits-header">` con enlaces `<a>`)
+- `ancestry/heritage/class`: Ascendencia/herencia/clase (del frontmatter)
+- `actionType`: Tipo de acción (de `{% include accion.html tipo="..." %}`)
+  - Valores posibles: "1", "2", "3", "libre", "reaccion"
+  - Puede aparecer en el título `## Nombre {% include... %}` o en línea separada
+- `prerequisites`: Prerrequisitos (puede tener o no dos puntos ":")
+  - **Formatos variados:**
+    - Nombre de otra dote: "Interpretacion Fascinante", "Riposte Oportuno"
+    - Rango de habilidad: "entrenado en Acrobacias", "experto en Atletismo", "maestro en Atletismo"
+    - Puntuación de característica: "Carisma +2", "Fuerza +14"
+    - Requisito de dados: "golpe preciso 6d6"
+    - Múltiples requisitos separados por comas
+- `requirements`: Requisitos (condiciones que deben cumplirse al usar la dote)
+  - Ejemplos: "Empuñas un broquel", "Estas adyacente a un enemigo", "No estas sobrecargado"
+  - Diferencia con prerequisites: requirements son condiciones temporales, prerequisites son permanentes
+- `trigger`: Desencadenante (para dotes de reacción y algunas acciones libres)
+  - Ejemplos: "Eres objetivo de un ataque a distancia", "Caes", "Tu turno comienza"
+- `frequency`: Frecuencia (limitaciones de uso temporal)
+  - Ejemplos: "una vez cada 10 minutos", "una vez por dia", "una vez por combate"
+- `description`: Descripción principal de la dote
+- `benefit`: Beneficio (si está separado de la descripción como sección aparte)
+- `special`: Texto especial (notas adicionales, casos especiales)
+- `critical_success/success/failure/critical_failure`: Resultados (para dotes que requieren tiradas)
 
 #### 1.2. Crear Estructura de Directorios
 ```bash
@@ -148,20 +206,28 @@ def extract_feat_data(file_path):
 **Patrones a detectar:**
 {% raw %}
 ```python
-# Rasgos HTML
+# Rasgos HTML (formato antiguo)
 r'<span class="feat-trait">([^<]+)</span>'
 
-# Rasgos en div
+# Rasgos en div con enlaces (formato actual desde 2024)
 r'<div class="feat-traits-header".*?>(.*?)</div>'
+r'<a href="[^"]*" class="feat-trait">([^<]+)</a>'
 
-# Tipo de acción en Liquid
+# Tipo de acción en Liquid (puede estar en título o línea separada)
+# Tipos: "1", "2", "3", "libre", "reaccion"
 r'\{% include accion\.html tipo="(.*?)" %\}'
 
-# Tipo de acción en texto
+# Tipo de acción en texto (formato antiguo)
 r'\*\*Dote (\d+)\*\* · (.+)'
 
-# Secciones especiales
+# Secciones especiales - IMPORTANTE: Manejar ambos formatos (con y sin dos puntos)
+# Formato 1: Con dos puntos
 r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Frecuencia|Beneficio|Especial):\*\*\s*(.+?)(?=\n\n|\*\*[A-Z]|$)'
+# Formato 2: Sin dos puntos (algunos archivos legacy)
+r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Frecuencia|Beneficio|Especial)\*\*\s+(.+?)(?=\n\n|\*\*[A-Z]|$)'
+
+# Resultados de acciones (dotes con tiradas)
+r'\*\*(Exito critico|Exito|Fallo critico|Fallo)\*\*\s*(.+?)(?=\n\n|\*\*[A-Z]|$)'
 ```
 {% endraw %}
 
