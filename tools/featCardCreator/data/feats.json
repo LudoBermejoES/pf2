@@ -22400,14 +22400,14 @@
       "description": "Te conviertes en experto en Acrobacias. Al 7.º nivel te conviertes en maestro en Acrobacias, y al 15.º nivel te conviertes en legendario en Acrobacias. Siempre que obtengas un éxito crítico en una prueba de Acrobacias para Rodar a través del espacio de un enemigo, no tratas el espacio del enemigo como terreno difícil."
     },
     {
-      "id": "esquiva-evasiva-include-accion-html-tipo-libre",
-      "name": "Esquiva evasiva · {% include accion.html tipo=\"libre\" %}",
+      "id": "esquiva-evasiva",
+      "name": "Esquiva evasiva",
       "level": 6,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\acrobata\\esquiva-evasiva-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\acrobata\\esquiva-evasiva.md",
       "category": "archetype",
       "archetype": "Acrobata",
       "archetype_type": "other",
@@ -22417,8 +22417,8 @@
       "description": "Usas tu destreza acrobática para evadir un ataque, aprovechando el impulso para seguir moviéndote si lo deseas. Obtienes un bonificador circunstancial +1 a la CA contra el ataque desencadenante. Si el ataque falla, puedes dar un Paso después del Golpe. Si eres maestro en Acrobacias, puedes moverte 3 m en este Paso en lugar de 1,5 m."
     },
     {
-      "id": "golpe-rodante-include-accion-html-tipo-1",
-      "name": "Golpe rodante · {% include accion.html tipo=\"1\" %}",
+      "id": "golpe-rodante",
+      "name": "Golpe rodante",
       "level": 8,
       "traits": [
         "Arquetipo",
@@ -22426,7 +22426,7 @@
         "Movimiento"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\acrobata\\golpe-rodante-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\acrobata\\golpe-rodante.md",
       "category": "archetype",
       "archetype": "Acrobata",
       "archetype_type": "other",
@@ -22435,15 +22435,15 @@
       "description": "Te zambulles hábilmente por un hueco que deja un enemigo para asestar un golpe ventajoso. Intenta una prueba de Acrobacias contra la CD de Reflejos de un enemigo adyacente."
     },
     {
-      "id": "oportunista-rodante-include-accion-html-tipo-libre",
-      "name": "Oportunista rodante · {% include accion.html tipo=\"libre\" %}",
+      "id": "oportunista-rodante",
+      "name": "Oportunista rodante",
       "level": 10,
       "traits": [
         "Arquetipo",
         "Ataque"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\acrobata\\oportunista-rodante-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\acrobata\\oportunista-rodante.md",
       "category": "archetype",
       "archetype": "Acrobata",
       "archetype_type": "other",
@@ -22548,15 +22548,15 @@
       "description": "Tienes el conocimiento necesario para comprender textos antiguos y artefactos culturales. Puedes usar Sociedad al Descifrar escritura, sin importar el tipo de escritura que examines. También puedes usar Sociedad para Identificar magia cuando examinas un objeto mágico o un lugar con significado cultural."
     },
     {
-      "id": "suerte-del-arqueologo-include-accion-html-tipo-libre",
-      "name": "Suerte del arqueólogo · {% include accion.html tipo=\"libre\" %}",
+      "id": "suerte-del-arqueologo",
+      "name": "Suerte del arqueólogo",
       "level": 8,
       "traits": [
         "Arquetipo",
         "Fortuna"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arqueologo\\suerte-del-arqueologo-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arqueologo\\suerte-del-arqueologo.md",
       "category": "archetype",
       "archetype": "Arqueologo",
       "archetype_type": "other",
@@ -22581,15 +22581,15 @@
       "description": "Tienes familiaridad con todas las armas de los grupos de arco y ballesta. A efectos de competencia, trata cualquiera de estas que sean armas marciales como armas simples y cualquiera que sean armas avanzadas como armas marciales."
     },
     {
-      "id": "disparo-despejado-include-accion-html-tipo-2",
-      "name": "Disparo despejado · {% include accion.html tipo=\"2\" %}",
+      "id": "disparo-despejado",
+      "name": "Disparo despejado",
       "level": 10,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero\\disparo-despejado-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero\\disparo-despejado.md",
       "category": "archetype",
       "archetype": "Arquero",
       "archetype_type": "other",
@@ -22597,14 +22597,14 @@
       "description": "Con un rápido uso de la fuerza bruta, quitas un obstáculo y haces un disparo calculado como parte del mismo movimiento. Intenta Empujar o Derribar a una criatura adyacente y luego realiza un Golpe a distancia con un arco o ballesta que estés empuñando. El Golpe se realiza con la misma penalización por ataques múltiples que el intento de Empujar o Derribar, y esta actividad cuenta como un solo ataque al calcular tu penalización por ataques múltiples."
     },
     {
-      "id": "disparo-rapido-include-accion-html-tipo-1",
-      "name": "Disparo rápido · {% include accion.html tipo=\"1\" %}",
+      "id": "disparo-rapido",
+      "name": "Disparo rápido",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero\\disparo-rapido-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero\\disparo-rapido.md",
       "category": "archetype",
       "archetype": "Arquero",
       "archetype_type": "other",
@@ -22612,15 +22612,15 @@
       "description": "Desenvainas tu arco y atacas con la misma acción. Interactúas para desenvainar un arma del grupo de arco o ballesta que esté cargada o tenga recarga 0, y luego haces un Golpe con esa arma."
     },
     {
-      "id": "punteria-del-arquero-include-accion-html-tipo-2",
-      "name": "Puntería del arquero · {% include accion.html tipo=\"2\" %}",
+      "id": "punteria-del-arquero",
+      "name": "Puntería del arquero",
       "level": 8,
       "traits": [
         "Arquetipo",
         "Concentrar"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero\\punteria-del-arquero-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero\\punteria-del-arquero.md",
       "category": "archetype",
       "archetype": "Arquero",
       "archetype_type": "other",
@@ -22628,14 +22628,14 @@
       "description": "Te detienes, te concentras y realizas un disparo cuidadoso. Realiza un Golpe a distancia con un arma del grupo de arco o ballesta. Obtienes un bonificador circunstancial +2 a la tirada de ataque e ignoras la condición encubierto del objetivo. Si el objetivo está oculto, reduce la prueba plana de estar oculto de 11 a 5."
     },
     {
-      "id": "terror-de-ballesta-include-accion-html-tipo-1",
-      "name": "Terror de ballesta · {% include accion.html tipo=\"1\" %}",
+      "id": "terror-de-ballesta",
+      "name": "Terror de ballesta",
       "level": 6,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero\\terror-de-ballesta-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero\\terror-de-ballesta.md",
       "category": "archetype",
       "archetype": "Arquero",
       "archetype_type": "other",
@@ -22662,8 +22662,8 @@
       "description": "Canalizas poderosa magia con tu arquería, permitiéndote entregar conjuros potentes con la punta de una flecha en lugar del gesto más mundano de la muñeca u otros gestos usados normalmente. Si aún no lanzas conjuros desde espacios, aprendes a lanzar conjuros espontáneos y obtienes la actividad Lanzar un conjuro. Obtienes un repertorio con un cantrip de tu elección, de una tradición de tu elección. Eliges un cantrip común u otro al que tengas acceso. Este cantrip debe requerir una tirada de ataque de conjuro y pertenecer a tu tradición elegida. Estás entrenado en el modificador de ataque de conjuros y la CD de conjuros. Tu atributo clave para estos conjuros es Carisma."
     },
     {
-      "id": "disparo-encantador-include-accion-html-tipo-2",
-      "name": "Disparo encantador · {% include accion.html tipo=\"2\" %}",
+      "id": "disparo-encantador",
+      "name": "Disparo encantador",
       "level": 8,
       "traits": [
         "Arquetipo",
@@ -22672,7 +22672,7 @@
         "Mental"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\disparo-encantador-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\disparo-encantador.md",
       "category": "archetype",
       "archetype": "Arquero Arcano",
       "archetype_type": "other",
@@ -22680,15 +22680,15 @@
       "description": "Con un único susurro llevado por el viento, encantas tu munición para hacer a un enemigo más vulnerable a tus ataques. Realiza un Golpe con arco o ballesta. En caso de impacto, el objetivo recibe 2d6 de daño mental adicional. Con un impacto crítico, el objetivo también queda aturdido 1. El daño mental aumenta a 3d6 si tu arma tiene una runa de golpe mayor, o a 4d6 si tu arma tiene una runa de golpe principal."
     },
     {
-      "id": "disparo-fatal-include-accion-html-tipo-3",
-      "name": "Disparo fatal · {% include accion.html tipo=\"3\" %}",
+      "id": "disparo-fatal",
+      "name": "Disparo fatal",
       "level": 18,
       "traits": [
         "Arquetipo",
         "Mágico"
       ],
       "action_type": "3",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\disparo-fatal-include-accion-html-tipo-3.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\disparo-fatal.md",
       "category": "archetype",
       "archetype": "Arquero Arcano",
       "archetype_type": "other",
@@ -22697,15 +22697,15 @@
       "description": "Modificas una flecha o virote para traer la muerte a tu objetivo en un solo impacto potente. Realiza un Golpe con arco o ballesta. En caso de impacto, infliges 10d10 de daño de precisión adicional. Con un impacto crítico, el objetivo también debe superar una tirada de salvación de Fortaleza contra la mayor de tu CD de clase o CD de conjuros o morir inmediatamente; esta salvación tiene los rasgos muerte e incapacitante."
     },
     {
-      "id": "disparo-incorporeo-include-accion-html-tipo-1",
-      "name": "Disparo incorpóreo · {% include accion.html tipo=\"1\" %}",
+      "id": "disparo-incorporeo",
+      "name": "Disparo incorpóreo",
       "level": 16,
       "traits": [
         "Arquetipo",
         "Mágico"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\disparo-incorporeo-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\disparo-incorporeo.md",
       "category": "archetype",
       "archetype": "Arquero Arcano",
       "archetype_type": "other",
@@ -22714,15 +22714,15 @@
       "description": "Puedes concentrar una inmensa cantidad de magia para crear una pieza de munición que atraviesa todo salvo a tu objetivo. Realiza un Golpe con arco o ballesta contra un enemigo que esté observado u oculto para ti (pero no no detectado). La munición viaja hacia tu objetivo en línea recta, atravesando cualquier barrera o muro no mágico en su camino, aunque las barreras mágicas detienen la flecha. El disparo ignora toda cobertura, la condición encubierto, la condición oculto y los bonificadores circunstanciales a la CA por escudos. Tiene un bonificador de estado +4 a impactar criaturas que lleven cualquier tipo de armadura. El daño del Golpe no puede reducirse con una reacción Bloquear con escudo usando un escudo no mágico."
     },
     {
-      "id": "disparo-rastreador-include-accion-html-tipo-1",
-      "name": "Disparo rastreador · {% include accion.html tipo=\"1\" %}",
+      "id": "disparo-rastreador",
+      "name": "Disparo rastreador",
       "level": 14,
       "traits": [
         "Arquetipo",
         "Mágico"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\disparo-rastreador-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\disparo-rastreador.md",
       "category": "archetype",
       "archetype": "Arquero Arcano",
       "archetype_type": "other",
@@ -22794,15 +22794,15 @@
       "description": "Imbuyes tu munición con magia cruda y potente, transformándola para adaptarla a tus necesidades en cualquier situación. Cuando seleccionas esta dote, elige tres tipos de munición mágica común de nivel 4 o inferior. Tu DJ puede permitirte elegir de otros tipos de munición mágica de nivel apropiado, como munición poco común, o munición de otros libros. Obtienes la acción Transformar munición."
     },
     {
-      "id": "municion-preciosa-include-accion-html-tipo-1",
-      "name": "Munición preciosa · {% include accion.html tipo=\"1\" %}",
+      "id": "municion-preciosa",
+      "name": "Munición preciosa",
       "level": 8,
       "traits": [
         "Arquetipo",
         "Mágico"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\municion-preciosa-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\municion-preciosa.md",
       "category": "archetype",
       "archetype": "Arquero Arcano",
       "archetype_type": "other",
@@ -22810,14 +22810,14 @@
       "description": "Has aprendido a imitar el poder entre la magia y el material. Encantas una pieza de munición que lleves con la esencia mágica de un material precioso, permitiéndote aprovechar las debilidades de ciertas criaturas. Elige hierro frío o plata; si disparas la flecha o virote antes del final de tu turno, cuenta como ese material. Al 14.º nivel, añade adamantina a la lista de materiales entre los que puedes elegir."
     },
     {
-      "id": "recarga-arcana-include-accion-html-tipo-libre",
-      "name": "Recarga arcana · {% include accion.html tipo=\"libre\" %}",
+      "id": "recarga-arcana",
+      "name": "Recarga arcana",
       "level": 10,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\recarga-arcana-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\arquero-arcano\\recarga-arcana.md",
       "category": "archetype",
       "archetype": "Arquero Arcano",
       "archetype_type": "other",
@@ -22841,15 +22841,15 @@
       "description": "Te has entrenado para usar tus puños como armas mortales y puedes asestar golpes devastadores con ellos. El dado de daño de tus ataques desarmados con puño pasa a ser 1d6 en lugar de 1d4. No recibes la penalización circunstancial –2 por realizar un ataque letal con tus ataques desarmados no letales."
     },
     {
-      "id": "golpe-atroz-include-accion-html-tipo-2",
-      "name": "Golpe atroz · {% include accion.html tipo=\"2\" %}",
+      "id": "golpe-atroz",
+      "name": "Golpe atroz",
       "level": 8,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\artista-marcial\\golpe-atroz-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\artista-marcial\\golpe-atroz.md",
       "category": "archetype",
       "archetype": "Artista Marcial",
       "archetype_type": "other",
@@ -22857,15 +22857,15 @@
       "description": "Sabes cómo asestar golpes concentrados y poderosos que eluden las resistencias de tus enemigos. Realiza un Golpe desarmado de melé. Si este Golpe impacta, inflige dos dados de daño de arma adicionales e ignora una cantidad de resistencia al daño físico (o a un tipo específico de daño físico) igual a tu nivel. Este Golpe cuenta como dos ataques al calcular tu penalización por ataques múltiples."
     },
     {
-      "id": "golpe-de-seguimiento-include-accion-html-tipo-1",
-      "name": "Golpe de seguimiento · {% include accion.html tipo=\"1\" %}",
+      "id": "golpe-de-seguimiento",
+      "name": "Golpe de seguimiento",
       "level": 6,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\artista-marcial\\golpe-de-seguimiento-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\artista-marcial\\golpe-de-seguimiento.md",
       "category": "archetype",
       "archetype": "Artista Marcial",
       "archetype_type": "other",
@@ -22874,15 +22874,15 @@
       "description": "Te has entrenado rigurosamente para usar todas las partes de tu cuerpo como arma, y cuando fallas un ataque, normalmente puedes continuar el ataque con otra parte del cuerpo y aún infligir daño. Realiza otro Golpe con un ataque desarmado de melé, usando la misma penalización por ataques múltiples que el Golpe fallido, si la hubiera."
     },
     {
-      "id": "sendero-de-hierro-include-accion-html-tipo-3",
-      "name": "Sendero de hierro · {% include accion.html tipo=\"3\" %}",
+      "id": "sendero-de-hierro",
+      "name": "Sendero de hierro",
       "level": 14,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "3",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\artista-marcial\\sendero-de-hierro-include-accion-html-tipo-3.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\artista-marcial\\sendero-de-hierro.md",
       "category": "archetype",
       "archetype": "Artista Marcial",
       "archetype_type": "other",
@@ -22921,14 +22921,14 @@
       "description": "Destacas en despachar rápidamente a tus enemigos. Cuando haces un Golpe contra un enemigo desprevenido con un arma que tiene el rasgo de arma backstabber, infliges 2 de daño de precisión adicional en lugar de 1. Si el arma es +3, infliges 4 de daño de precisión adicional en lugar de 2."
     },
     {
-      "id": "asesinar-include-accion-html-tipo-2",
-      "name": "Asesinar · {% include accion.html tipo=\"2\" %}",
+      "id": "asesinar",
+      "name": "Asesinar",
       "level": 12,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\asesino\\asesinar-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\asesino\\asesinar.md",
       "category": "archetype",
       "archetype": "Asesino",
       "archetype_type": "other",
@@ -22970,14 +22970,14 @@
       "description": "Te has entrenado para asesinar a tus enemigos, y lo haces con tenacidad y precisión. Obtienes la actividad Marca de muerte."
     },
     {
-      "id": "bloqueo-desarmante-include-accion-html-tipo-libre",
-      "name": "Bloqueo desarmante · {% include accion.html tipo=\"libre\" %}",
+      "id": "bloqueo-desarmante",
+      "name": "Bloqueo desarmante",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\baluarte\\bloqueo-desarmante-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\baluarte\\bloqueo-desarmante.md",
       "category": "archetype",
       "archetype": "Baluarte",
       "archetype_type": "other",
@@ -23185,8 +23185,8 @@
       "description": "Obtienes una dote de bardo de 1.er o de 2.º nivel."
     },
     {
-      "id": "conjuro-bendito-include-accion-html-tipo-1",
-      "name": "Conjuro bendito · {% include accion.html tipo=\"1\" %}",
+      "id": "conjuro-bendito",
+      "name": "Conjuro bendito",
       "level": 8,
       "traits": [
         "Arquetipo",
@@ -23194,7 +23194,7 @@
         "Moldeo de conjuros"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\bendecido\\conjuro-bendito-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\bendecido\\conjuro-bendito.md",
       "category": "archetype",
       "archetype": "Bendecido",
       "archetype_type": "other",
@@ -23218,14 +23218,14 @@
       "description": "Has sido tocado por una deidad y dotado de la capacidad de aliviar el sufrimiento de otros. Obtienes el conjuro de devoción *imposición de manos*. Puedes Reenfocarte mediante meditación, ya sea reflexionando sobre la deidad que otorga la bendición o no, permitiendo que tu bendición reponga tu reserva de enfoque. Tus conjuros de devoción del arquetipo bendecido son conjuros divinos. Pasas a estar entrenado en el modificador de ataque de conjuros y la CD de conjuros. Tu atributo de lanzamiento de conjuros es Carisma."
     },
     {
-      "id": "negacion-bendita-include-accion-html-tipo-libre",
-      "name": "Negación bendita · {% include accion.html tipo=\"libre\" %}",
+      "id": "negacion-bendita",
+      "name": "Negación bendita",
       "level": 12,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\bendecido\\negacion-bendita-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\bendecido\\negacion-bendita.md",
       "category": "archetype",
       "archetype": "Bendecido",
       "archetype_type": "other",
@@ -23421,15 +23421,15 @@
       "description": "Tu casi constante cacharreo con objetos te permite hacer ingeniería inversa de objetos a fórmulas más eficazmente que la mayoría. Obtienes un bonificador circunstancial +2 a las pruebas de Artesanía para obtener una fórmula desde un objeto, y puedes intentar una prueba de Artesanía para ingeniería inversa tras dedicar 1 día de trabajo de preparación en lugar de 2. Además, si obtienes un éxito crítico en tu prueba, puedes optar por no solo crear la fórmula sino también volver a ensamblar el objeto original al mismo tiempo, quedándote con la fórmula y el objeto en lugar de la fórmula y materiales en bruto equivalentes a la mitad del valor del objeto."
     },
     {
-      "id": "carga-arrolladora-include-accion-html-tipo-3",
-      "name": "Carga arrolladora · {% include accion.html tipo=\"3\" %}",
+      "id": "carga-arrolladora",
+      "name": "Carga arrolladora",
       "level": 10,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "3",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\carga-arrolladora-include-accion-html-tipo-3.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\carga-arrolladora.md",
       "category": "archetype",
       "archetype": "Caballero",
       "archetype_type": "other",
@@ -23438,15 +23438,15 @@
       "description": "Espoleas a tu montura para cargar en la refriega, arrollando a todos los enemigos que se interpongan en tu camino. Ordenas a tu montura Avanzar hasta el doble de su Velocidad (o Excavar, Trepar, Volar o Nadar, si tiene el tipo de movimiento correspondiente), moviéndose a través de los espacios de cualquier enemigo en tu camino de hasta un tamaño menor que tu montura. Tu montura inflige el daño de uno de sus Golpes de melé a cada criatura cuyo espacio atraviesas, con una tirada de Reflejos básica contra la CD de Atletismo de tu montura. En un fallo crítico, la criatura también queda desprevenida hasta el final de tu próximo turno. Tira el daño solo una vez. Solo puedes dañar a una criatura dada una vez durante este movimiento."
     },
     {
-      "id": "carga-del-caballero-include-accion-html-tipo-2",
-      "name": "Carga del caballero · {% include accion.html tipo=\"2\" %}",
+      "id": "carga-del-caballero",
+      "name": "Carga del caballero",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\carga-del-caballero-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\carga-del-caballero.md",
       "category": "archetype",
       "archetype": "Caballero",
       "archetype_type": "other",
@@ -23472,14 +23472,14 @@
       "description": "Obtienes un compañero animal joven que sirve como tu montura. Puedes elegir entre compañeros animales con la habilidad especial de montura, así como cualquier opción adicional de tu juramento (consulta el recuadro Juramentos del caballero), según lo determine tu DJ. Debes elegir un compañero animal que sea al menos un tamaño mayor que tú, pero si el animal normalmente comienza como Pequeño, puedes empezar con una versión Mediana de ese animal (sin cambiar más estadísticas que su tamaño)."
     },
     {
-      "id": "defender-montura-include-accion-html-tipo-libre",
-      "name": "Defender montura · {% include accion.html tipo=\"libre\" %}",
+      "id": "defender-montura",
+      "name": "Defender montura",
       "level": 6,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\defender-montura-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\defender-montura.md",
       "category": "archetype",
       "archetype": "Caballero",
       "archetype_type": "other",
@@ -23488,14 +23488,14 @@
       "description": "Te interpones entre un atacante y tu montura, defendiéndola del daño. Usa tu propia defensa contra el ataque desencadenante en lugar de la defensa de tu montura. Si el ataque desencadenante impacta, recibes los efectos del ataque en lugar de tu montura."
     },
     {
-      "id": "descabalgar-include-accion-html-tipo-1",
-      "name": "Descabalgar · {% include accion.html tipo=\"1\" %}",
+      "id": "descabalgar",
+      "name": "Descabalgar",
       "level": 10,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\descabalgar-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\descabalgar.md",
       "category": "archetype",
       "archetype": "Caballero",
       "archetype_type": "other",
@@ -23555,15 +23555,15 @@
       "description": "Tú y tu montura os movéis como un solo ser, leyendo sin esfuerzo las señales del otro y sincronizándoos incluso en lo más crudo de la batalla. Siempre que estés montando tu montura, estás apresurado; puedes usar la acción adicional solo para ordenar a tu montura usando la acción de habilidad Ordenar a un animal."
     },
     {
-      "id": "montar-rapido-include-accion-html-tipo-1",
-      "name": "Montar rápido · {% include accion.html tipo=\"1\" %}",
+      "id": "montar-rapido",
+      "name": "Montar rápido",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Habilidad"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\montar-rapido-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\caballero\\montar-rapido.md",
       "category": "archetype",
       "archetype": "Caballero",
       "archetype_type": "other",
@@ -23618,14 +23618,14 @@
       "description": "Bajo tu cuidado y entrenamiento, tu montura ha realizado su potencial innato. La montura que obtuviste mediante la dote Dedicación de Caballero se convierte en un compañero animal ágil o salvaje (a tu elección), ganando capacidades adicionales determinadas por el tipo de compañero."
     },
     {
-      "id": "agarron-oportunista-include-accion-html-tipo-libre",
-      "name": "Agarrón oportunista · {% include accion.html tipo=\"libre\" %}",
+      "id": "agarron-oportunista",
+      "name": "Agarrón oportunista",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\cazarrecompensas\\agarron-oportunista-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\cazarrecompensas\\agarron-oportunista.md",
       "category": "archetype",
       "archetype": "Cazarrecompensas",
       "archetype_type": "other",
@@ -23683,14 +23683,14 @@
       "description": "Dominas las armas que te permiten devolver a las capturas enteras, o al menos vivas. Tienes familiaridad con la bola, la porra y el látigo; a efectos de competencia, tratas estas armas como simples. Infliges 1d4 de daño de precisión adicional con estas armas al usarlas para realizar Golpes no letales contra tu presa mientras está desprevenida ante ti."
     },
     {
-      "id": "mantener-el-ritmo-include-accion-html-tipo-libre",
-      "name": "Mantener el ritmo · {% include accion.html tipo=\"libre\" %}",
+      "id": "mantener-el-ritmo",
+      "name": "Mantener el ritmo",
       "level": 6,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\cazarrecompensas\\mantener-el-ritmo-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\cazarrecompensas\\mantener-el-ritmo.md",
       "category": "archetype",
       "archetype": "Cazarrecompensas",
       "archetype_type": "other",
@@ -23716,14 +23716,14 @@
       "description": "Cuantas más personas te miran, más contento estás, y aprovechas cada oportunidad para dejar mal a otros cuando sus interpretaciones son menos que perfectas. Obtienes la reacción Robar la escena. Además, cuando Ganas ingresos, si el nivel de la tarea es superior a tu nivel, obtienes un bonificador circunstancial +1 a tu prueba para Ganar ingresos."
     },
     {
-      "id": "incansable-include-accion-html-tipo-libre",
-      "name": "Incansable · {% include accion.html tipo=\"libre\" %}",
+      "id": "incansable",
+      "name": "Incansable",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\celebridad\\incansable-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\celebridad\\incansable.md",
       "category": "archetype",
       "archetype": "Celebridad",
       "archetype_type": "other",
@@ -23733,8 +23733,8 @@
       "description": "Mientras tengas audiencia, puedes seguir interpretando incluso al borde del colapso. Retrasas los efectos de la condición fatigado durante 1 minuto o hasta que dejes de estar observado por al menos tres criaturas que no son enemigas, lo que ocurra primero. Si la condición fatigado tiene una duración, esta comienza a transcurrir solo después del retraso. No puedes retrasar o prevenir más la condición fatigado después de que termine esta capacidad."
     },
     {
-      "id": "mirada-hipnotica-include-accion-html-tipo-2",
-      "name": "Mirada hipnótica · {% include accion.html tipo=\"2\" %}",
+      "id": "mirada-hipnotica",
+      "name": "Mirada hipnótica",
       "level": 6,
       "traits": [
         "Arquetipo",
@@ -23744,7 +23744,7 @@
         "Visual"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\celebridad\\mirada-hipnotica-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\celebridad\\mirada-hipnotica.md",
       "category": "archetype",
       "archetype": "Celebridad",
       "archetype_type": "other",
@@ -23752,8 +23752,8 @@
       "description": "Cuando te cruzas con la mirada de alguien, le resulta imposible apartarla de ti. Elige una criatura objetivo que puedas ver y que pueda verte. Esa criatura debe superar una salvación de Voluntad o queda fascinada contigo hasta el final de tu siguiente turno; la CD es la mayor de tu CD de clase o CD de conjuros. Si la criatura supera su salvación o su fascinación termina debido a una acción hostil, se vuelve temporalmente inmune a tu Mirada hipnótica durante 1 día."
     },
     {
-      "id": "ordenar-atencion-include-accion-html-tipo-1",
-      "name": "Ordenar atención · {% include accion.html tipo=\"1\" %}",
+      "id": "ordenar-atencion",
+      "name": "Ordenar atención",
       "level": 10,
       "traits": [
         "Arquetipo",
@@ -23765,7 +23765,7 @@
         "Visual"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\celebridad\\ordenar-atencion-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\celebridad\\ordenar-atencion.md",
       "category": "archetype",
       "archetype": "Celebridad",
       "archetype_type": "other",
@@ -23834,14 +23834,14 @@
       "description": "Llevas tu armadura como una segunda piel, confortado por la protección que ofrece. No quedas fatigado si duermes llevando armadura."
     },
     {
-      "id": "rechazo-acorazado-include-accion-html-tipo-libre",
-      "name": "Rechazo acorazado · {% include accion.html tipo=\"libre\" %}",
+      "id": "rechazo-acorazado",
+      "name": "Rechazo acorazado",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\centinela\\rechazo-acorazado-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\centinela\\rechazo-acorazado.md",
       "category": "archetype",
       "archetype": "Centinela",
       "archetype_type": "other",
@@ -23959,14 +23959,14 @@
       "description": "Obtienes los beneficios de lanzamiento de conjuros maestro."
     },
     {
-      "id": "abrir-paso-include-accion-html-tipo-2",
-      "name": "Abrir paso · {% include accion.html tipo=\"2\" %}",
+      "id": "abrir-paso",
+      "name": "Abrir paso",
       "level": 6,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\demoledor\\abrir-paso-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\demoledor\\abrir-paso.md",
       "category": "archetype",
       "archetype": "Demoledor",
       "archetype_type": "other",
@@ -23975,14 +23975,14 @@
       "description": "Pones tu cuerpo tras tu arma masiva y la haces girar, empujando a los enemigos para abrir un amplio camino. Intentas Empujar hasta a cinco criaturas adyacentes a ti, tirando una prueba de Atletismo separada por cada objetivo e ignorando el requisito de tener una mano libre. Luego Avanza hasta la mitad de tu Velocidad. Este movimiento no desencadena reacciones de ninguna de las criaturas a las que empujaste con éxito. Cada intento cuenta para tu penalización por ataques múltiples, pero no aumentes tu penalización hasta que hayas realizado todos tus intentos."
     },
     {
-      "id": "barrido-de-empuje-include-accion-html-tipo-libre",
-      "name": "Barrido de empuje · {% include accion.html tipo=\"libre\" %}",
+      "id": "barrido-de-empuje",
+      "name": "Barrido de empuje",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\demoledor\\barrido-de-empuje-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\demoledor\\barrido-de-empuje.md",
       "category": "archetype",
       "archetype": "Demoledor",
       "archetype_type": "other",
@@ -24008,15 +24008,15 @@
       "description": "Te especializas en armas de melé que requieren dos manos. Tienes familiaridad con todas las armas de melé que requieren dos manos para empuñarlas o que tienen el rasgo a dos manos. A efectos de competencia, tratas cualquiera de estas que sean armas marciales como armas simples y cualquiera que sean armas avanzadas como armas marciales."
     },
     {
-      "id": "golpe-de-avalancha-include-accion-html-tipo-3",
-      "name": "Golpe de avalancha · {% include accion.html tipo=\"3\" %}",
+      "id": "golpe-de-avalancha",
+      "name": "Golpe de avalancha",
       "level": 16,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "3",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\demoledor\\golpe-de-avalancha-include-accion-html-tipo-3.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\demoledor\\golpe-de-avalancha.md",
       "category": "archetype",
       "archetype": "Demoledor",
       "archetype_type": "other",
@@ -24025,15 +24025,15 @@
       "description": "Atacas a todos los adversarios cercanos. Realiza un Golpe de melé con tu arma a dos manos contra cada enemigo dentro de su alcance de melé. Cada ataque cuenta para tu penalización por ataques múltiples, pero no aumentes tu penalización hasta que hayas realizado todos tus ataques."
     },
     {
-      "id": "martillazo-sismico-include-accion-html-tipo-3",
-      "name": "Martillazo sísmico · {% include accion.html tipo=\"3\" %}",
+      "id": "martillazo-sismico",
+      "name": "Martillazo sísmico",
       "level": 14,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "3",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\demoledor\\martillazo-sismico-include-accion-html-tipo-3.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\demoledor\\martillazo-sismico.md",
       "category": "archetype",
       "archetype": "Demoledor",
       "archetype_type": "other",
@@ -24242,14 +24242,14 @@
       "description": "Siempre estás listo para desenvainar tu arma y comenzar un duelo, sin importar las circunstancias. Obtienes la dote Desenvaine rápido, que te permite tanto desenvainar como atacar con un arma como 1 acción."
     },
     {
-      "id": "desafio-del-duelista-include-accion-html-tipo-1",
-      "name": "Desafío del duelista · {% include accion.html tipo=\"1\" %}",
+      "id": "desafio-del-duelista",
+      "name": "Desafío del duelista",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\duelista\\desafio-del-duelista-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\duelista\\desafio-del-duelista.md",
       "category": "archetype",
       "archetype": "Duelista",
       "archetype_type": "other",
@@ -24318,14 +24318,14 @@
       "description": "Te aseguras de tener siempre algunas toxinas a mano: nunca se sabe cuándo un poco de arsénico u otro veneno puede resultar útil. Obtienes los beneficios de alquimia avanzada. Puedes usar alquimia avanzada para crear cuatro consumibles de veneno alquímico cada día. Recuerdas las fórmulas de venenos alquímicos y no necesitas un libro de fórmulas para ellos."
     },
     {
-      "id": "giro-del-envenenador-include-accion-html-tipo-1",
-      "name": "Giro del envenenador · {% include accion.html tipo=\"1\" %}",
+      "id": "giro-del-envenenador",
+      "name": "Giro del envenenador",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\envenenador\\giro-del-envenenador-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\envenenador\\giro-del-envenenador.md",
       "category": "archetype",
       "archetype": "Envenenador",
       "archetype_type": "other",
@@ -24352,15 +24352,15 @@
       "description": "En la naturaleza, ciertos animales están cubiertos de espinas venenosas, y con solo rozarlas pueden resultar mortales. Gastas un veneno de contacto o de lesión y dedicas 10 minutos a aplicar ese veneno sobre tu ropa o a tejer agujas afiladas y envenenadas en la tela de la prenda. Solo puedes tener un veneno impregnado en tu ropa a la vez. Puedes usar la reacción Una vez mordido mientras tengas un veneno impregnado de esta manera."
     },
     {
-      "id": "tolerancia-adquirida-include-accion-html-tipo-libre",
-      "name": "Tolerancia adquirida · {% include accion.html tipo=\"libre\" %}",
+      "id": "tolerancia-adquirida",
+      "name": "Tolerancia adquirida",
       "level": 8,
       "traits": [
         "Arquetipo",
         "Fortuna"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\envenenador\\tolerancia-adquirida-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\envenenador\\tolerancia-adquirida.md",
       "category": "archetype",
       "archetype": "Envenenador",
       "archetype_type": "other",
@@ -24400,15 +24400,15 @@
       "description": "Tu rango de competencia en Percepción se incrementa a maestro."
     },
     {
-      "id": "carga-del-explorador-include-accion-html-tipo-2",
-      "name": "Carga del explorador · {% include accion.html tipo=\"2\" %}",
+      "id": "carga-del-explorador",
+      "name": "Carga del explorador",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\explorador\\carga-del-explorador-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\explorador\\carga-del-explorador.md",
       "category": "archetype",
       "archetype": "Explorador",
       "archetype_type": "other",
@@ -24494,15 +24494,15 @@
       "description": "Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo explorador de que dispones. Conforme continuas seleccionando dotes de clase del arquetipo explorador, continuas obteniendo Puntos de Golpe adicionales de esta forma."
     },
     {
-      "id": "sombra-fugaz-include-accion-html-tipo-2",
-      "name": "Sombra fugaz · {% include accion.html tipo=\"2\" %}",
+      "id": "sombra-fugaz",
+      "name": "Sombra fugaz",
       "level": 6,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\explorador\\sombra-fugaz-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\explorador\\sombra-fugaz.md",
       "category": "archetype",
       "archetype": "Explorador",
       "archetype_type": "other",
@@ -24525,15 +24525,15 @@
       "description": "Te mueves más rápido, especialmente al viajar, permitiéndote explorar por delante y volver sin ralentizar a tus aliados. Obtienes un bonificador de estado +3 m a tu Velocidad. Al calcular tu velocidad de viaje, esto aumenta a un bonificador de estado +6 m."
     },
     {
-      "id": "zarpazo-del-explorador-include-accion-html-tipo-2",
-      "name": "Zarpazo del explorador · {% include accion.html tipo=\"2\" %}",
+      "id": "zarpazo-del-explorador",
+      "name": "Zarpazo del explorador",
       "level": 10,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\explorador\\zarpazo-del-explorador-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\explorador\\zarpazo-del-explorador.md",
       "category": "archetype",
       "archetype": "Explorador",
       "archetype_type": "other",
@@ -24589,15 +24589,15 @@
       "description": "Puedes crear lazos más grandes para despliegue rápido, haciendo más probable que una criatura entre en tus lazos. Al preparar lazos para despliegue rápido, puedes preparar algunos como lazos gigantes. Un lazo gigante ocupa un área de 3 m por 3 m pero cuesta dos de tus lazos de despliegue rápido. Un lazo gigante puede activarse por una criatura que entre en cualquier parte de su área, y todos sus efectos se aplican sobre toda el área."
     },
     {
-      "id": "lazo-sorpresa-include-accion-html-tipo-3",
-      "name": "Lazo sorpresa · {% include accion.html tipo=\"3\" %}",
+      "id": "lazo-sorpresa",
+      "name": "Lazo sorpresa",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Manipular"
       ],
       "action_type": "3",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\fabricante-de-lazos\\lazo-sorpresa-include-accion-html-tipo-3.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\fabricante-de-lazos\\lazo-sorpresa.md",
       "category": "archetype",
       "archetype": "Fabricante De Lazos",
       "archetype_type": "other",
@@ -24650,15 +24650,15 @@
       "description": "Cuando logras Complacer a la multitud, añade lo siguiente a la lista de beneficios entre los que puedes elegir: - Una criatura que puedas ver a 9 m se vuelve asustada 2. Este efecto tiene los rasgos emoción, miedo, mental y visual."
     },
     {
-      "id": "complacer-a-la-multitud-include-accion-html-tipo-libre",
-      "name": "Complacer a la multitud · {% include accion.html tipo=\"libre\" %}",
+      "id": "complacer-a-la-multitud",
+      "name": "Complacer a la multitud",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Concentrar"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\gladiador\\complacer-a-la-multitud-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\gladiador\\complacer-a-la-multitud.md",
       "category": "archetype",
       "archetype": "Gladiador",
       "archetype_type": "other",
@@ -24822,14 +24822,14 @@
       "description": "Obtienes 3 Puntos de Golpe adicionales por cada dote de clase del arquetipo guerrero de que dispones. Conforme continuas seleccionando dotes de clase del arquetipo guerrero, continuas obteniendo Puntos de Golpe adicionales de esta forma."
     },
     {
-      "id": "blitz-de-armas-dobles-include-accion-html-tipo-2",
-      "name": "Blitz de armas dobles · {% include accion.html tipo=\"2\" %}",
+      "id": "blitz-de-armas-dobles",
+      "name": "Blitz de armas dobles",
       "level": 10,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\guerrero-de-armas-dobles\\blitz-de-armas-dobles-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\guerrero-de-armas-dobles\\blitz-de-armas-dobles.md",
       "category": "archetype",
       "archetype": "Guerrero De Armas Dobles",
       "archetype_type": "other",
@@ -24838,14 +24838,14 @@
       "description": "Atacas mientras te abres paso por el campo de batalla. Avanza hasta tu Velocidad. Durante este movimiento, puedes Golpear una vez con cada una de las dos armas de melé de una mano. Cada uno de estos Golpes puede realizarse en cualquier punto durante tu movimiento."
     },
     {
-      "id": "corte-desollante-include-accion-html-tipo-1",
-      "name": "Corte desollante · {% include accion.html tipo=\"1\" %}",
+      "id": "corte-desollante",
+      "name": "Corte desollante",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\guerrero-de-armas-dobles\\corte-desollante-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\guerrero-de-armas-dobles\\corte-desollante.md",
       "category": "archetype",
       "archetype": "Guerrero De Armas Dobles",
       "archetype_type": "other",
@@ -24899,14 +24899,14 @@
       "description": "Sabes lanzar dos armas con la misma facilidad que golpear con ellas. Siempre que una dote que obtuviste del arquetipo guerrero de armas dobles te permita hacer un Golpe de melé, puedes en su lugar hacer un Golpe a distancia con un arma arrojadiza o un arma a distancia de una mano que estés empuñando (las armas que necesitan «1+» manos, como los arcos largos, no califican). Cualquier efecto de estas dotes que se aplique a armas de melé de una mano o a Golpes de melé también se aplica a armas a distancia de una mano y Golpes a distancia."
     },
     {
-      "id": "recarga-dual-include-accion-html-tipo-1",
-      "name": "Recarga dual · {% include accion.html tipo=\"1\" %}",
+      "id": "recarga-dual",
+      "name": "Recarga dual",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\guerrero-de-armas-dobles\\recarga-dual-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\guerrero-de-armas-dobles\\recarga-dual.md",
       "category": "archetype",
       "archetype": "Guerrero De Armas Dobles",
       "archetype_type": "other",
@@ -25039,14 +25039,14 @@
       "description": "No sufres la penalización normal –2 a las tiradas de ataque con armas improvisadas. Las armas improvisadas que usas tienen un dado de daño mínimo de 1d6, o 1d4 si el arma improvisada es Ágil."
     },
     {
-      "id": "golpe-destrozador-include-accion-html-tipo-libre",
-      "name": "Golpe destrozador · {% include accion.html tipo=\"libre\" %}",
+      "id": "golpe-destrozador",
+      "name": "Golpe destrozador",
       "level": 10,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\improvisador-de-armas\\golpe-destrozador-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\improvisador-de-armas\\golpe-destrozador.md",
       "category": "archetype",
       "archetype": "Improvisador De Armas",
       "archetype_type": "other",
@@ -25055,14 +25055,14 @@
       "description": "El arma improvisada se hace añicos, destruyéndola por completo pero infligiendo 3d6 de daño perforante adicional a la criatura a la que impactaste con Aporreo improvisado. Este daño adicional que aplicas con el impacto crítico no se dobla por el crítico, como es normal."
     },
     {
-      "id": "golpe-improvisado-include-accion-html-tipo-1",
-      "name": "Golpe improvisado · {% include accion.html tipo=\"1\" %}",
+      "id": "golpe-improvisado",
+      "name": "Golpe improvisado",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\improvisador-de-armas\\golpe-improvisado-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\improvisador-de-armas\\golpe-improvisado.md",
       "category": "archetype",
       "archetype": "Improvisador De Armas",
       "archetype_type": "other",
@@ -25133,8 +25133,8 @@
       "description": "Tu aparición repentina deja a tu enemigo incapaz de responder. Cuando usas Aparición desconcertante y tu Golpe impacta a un enemigo de tu nivel o menor, el enemigo también queda aturdido 1 con impacto, o aturdido 2 con impacto crítico."
     },
     {
-      "id": "aparicion-desconcertante-include-accion-html-tipo-1",
-      "name": "Aparición desconcertante · {% include accion.html tipo=\"1\" %}",
+      "id": "aparicion-desconcertante",
+      "name": "Aparición desconcertante",
       "level": 6,
       "traits": [
         "Arquetipo",
@@ -25144,7 +25144,7 @@
         "Justiciero"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\justiciero\\aparicion-desconcertante-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\justiciero\\aparicion-desconcertante.md",
       "category": "archetype",
       "archetype": "Justiciero",
       "archetype_type": "other",
@@ -25359,8 +25359,8 @@
       "description": "Toda comunicación está llena de pequeñas señales y pistas. Si interactúas con alguien durante al menos 10 minutos, sus palabras regionales, cambios de pronunciación y señales no verbales te proporcionan un hecho menor sobre su entorno social, como su ciudad natal o ciertos grupos a los que puede pertenecer. Si un objetivo de esta capacidad está siendo engañoso sobre su entorno social, como un plebeyo fingiendo ser noble, intenta en secreto una prueba de Engaño, Sociedad o Saber apropiado contra tu CD de Sociedad, proporcionándote un hecho menor falso coherente con su identidad asumida en caso de éxito."
     },
     {
-      "id": "traduccion-instantanea-include-accion-html-tipo-libre",
-      "name": "Traducción instantánea · {% include accion.html tipo=\"libre\" %}",
+      "id": "traduccion-instantanea",
+      "name": "Traducción instantánea",
       "level": 4,
       "traits": [
         "Arquetipo",
@@ -25368,7 +25368,7 @@
         "Lingüístico"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\linguista\\traduccion-instantanea-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\linguista\\traduccion-instantanea.md",
       "category": "archetype",
       "archetype": "Linguista",
       "archetype_type": "other",
@@ -25392,15 +25392,15 @@
       "description": "Tu agarre tiene una cualidad sobrenatural que impide que tus enemigos escapen fácilmente, con o sin ayuda mágica. Si una criatura que tienes agarrada intenta usar un conjuro o efecto de teletransportación, debe superar una prueba plana de CD 15 o el conjuro falla. Si una criatura que tienes agarrada intenta Escapar mientras está bajo el efecto de *movimiento sin trabas* o un efecto similar, debe superar una prueba plana de CD 15 o se ve obligada a tirar el intento de Escape de forma normal, en lugar de tener éxito automáticamente."
     },
     {
-      "id": "bloqueo-de-forma-include-accion-html-tipo-1",
-      "name": "Bloqueo de forma · {% include accion.html tipo=\"1\" %}",
+      "id": "bloqueo-de-forma",
+      "name": "Bloqueo de forma",
       "level": 14,
       "traits": [
         "Arquetipo",
         "Ataque"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\bloqueo-de-forma-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\bloqueo-de-forma.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25425,14 +25425,14 @@
       "description": "Tu entrenamiento en las artes de la lucha te hace especialmente diestro al moverte, golpear y agarrar sin carga. Pasas a ser experto en Atletismo y obtienes la dote de habilidad Luchador titán. No sufres la penalización circunstancial –2 por realizar un ataque letal con tus ataques desarmados no letales. Además, obtienes un bonificador circunstancial +2 a tu CD de Fortaleza al resistir intentos de un enemigo de Agarrarte o Engullirte entero."
     },
     {
-      "id": "estrangulacion-include-accion-html-tipo-1",
-      "name": "Estrangulación · {% include accion.html tipo=\"1\" %}",
+      "id": "estrangulacion",
+      "name": "Estrangulación",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\estrangulacion-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\estrangulacion.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25441,14 +25441,14 @@
       "description": "Exprimes el aliento de tu enemigo. Realiza un Golpe de melé desarmado contra la criatura que tienes agarrada o restringida. En caso de éxito, obtienes un bonificador circunstancial al daño igual al número de dados de daño del arma, y el objetivo apenas puede hablar hasta el inicio de tu siguiente turno o hasta que Escape, lo que ocurra primero. Mientras apenas puede hablar, el objetivo no puede vocalizar por encima de un susurro ronco y debe superar una prueba plana de CD 10 o pierde cualquier acción que requiera hablar. Para una acción que requiere habla y también es una acción de manipular, como Lanzar un conjuro con los rasgos concentración y manipular, el objetivo solo tira una prueba plana de CD 10, en lugar de una prueba plana adicional de CD 5 por estar agarrado."
     },
     {
-      "id": "giro-liberador-include-accion-html-tipo-libre",
-      "name": "Giro liberador · {% include accion.html tipo=\"libre\" %}",
+      "id": "giro-liberador",
+      "name": "Giro liberador",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\giro-liberador-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\giro-liberador.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25457,14 +25457,14 @@
       "description": "Tu capacidad para retorcer el cuerpo de tus oponentes en dolorosas llaves y agarres te hace especialmente diestro para escapar de tales apuros. Intenta una prueba de Atletismo para Escapar de la condición desencadenante. Obtienes un bonificador circunstancial +2 a esta prueba."
     },
     {
-      "id": "golpe-de-clinch-include-accion-html-tipo-libre",
-      "name": "Golpe de clinch · {% include accion.html tipo=\"libre\" %}",
+      "id": "golpe-de-clinch",
+      "name": "Golpe de clinch",
       "level": 6,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\golpe-de-clinch-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\golpe-de-clinch.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25473,14 +25473,14 @@
       "description": "Tus oponentes no pueden escapar de tu agarre sin castigo. Realiza un Golpe de melé desarmado contra la criatura desencadenante."
     },
     {
-      "id": "llave-de-rendicion-include-accion-html-tipo-1",
-      "name": "Llave de rendición · {% include accion.html tipo=\"1\" %}",
+      "id": "llave-de-rendicion",
+      "name": "Llave de rendición",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\llave-de-rendicion-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\llave-de-rendicion.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25489,15 +25489,15 @@
       "description": "Tu agarre de hierro merma la fuerza de tu oponente. Intenta una prueba de Atletismo para Agarrar a la criatura que tienes agarrada o restringida, con los siguientes efectos adicionales si tienes éxito."
     },
     {
-      "id": "martinete-aereo-include-accion-html-tipo-2",
-      "name": "Martinete aéreo · {% include accion.html tipo=\"2\" %}",
+      "id": "martinete-aereo",
+      "name": "Martinete aéreo",
       "level": 10,
       "traits": [
         "Arquetipo",
         "Ataque"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\martinete-aereo-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\martinete-aereo.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25506,14 +25506,14 @@
       "description": "Elevándote junto a tu oponente en el aire, lo haces estrellarse contra el suelo. Realiza un Golpe de melé desarmado contra la criatura que tienes agarrada o restringida. Este Golpe inflige 1d6 de daño adicional por cada dado de daño del arma y tiene los siguientes efectos adicionales en caso de éxito, fallo y fallo crítico."
     },
     {
-      "id": "placaje-en-carrera-include-accion-html-tipo-2",
-      "name": "Placaje en carrera · {% include accion.html tipo=\"2\" %}",
+      "id": "placaje-en-carrera",
+      "name": "Placaje en carrera",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\placaje-en-carrera-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\placaje-en-carrera.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25521,14 +25521,14 @@
       "description": "Cargas, lanzando tu cuerpo contra tu enemigo en un placaje feroz. Avanza dos veces o realiza un Salto alto o Salto largo, luego intenta Agarrar o Empujar. Si realizaste un Salto alto o Salto largo, puedes hacer el Agarrar o Empujar en cualquier punto del salto, pero no puedes continuar el salto más allá después de hacerlo."
     },
     {
-      "id": "rompe-codos-include-accion-html-tipo-1",
-      "name": "Rompe codos · {% include accion.html tipo=\"1\" %}",
+      "id": "rompe-codos",
+      "name": "Rompe codos",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\rompe-codos-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\rompe-codos.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25537,14 +25537,14 @@
       "description": "Doblas el cuerpo o las extremidades de tu oponente en posiciones agonizantes que le dificultan mantener el agarre. Realiza un Golpe de melé desarmado contra la criatura que tienes agarrada o restringida. Este Golpe tiene los siguientes efectos además de sus efectos habituales."
     },
     {
-      "id": "rompecolumnas-include-accion-html-tipo-1",
-      "name": "Rompecolumnas · {% include accion.html tipo=\"1\" %}",
+      "id": "rompecolumnas",
+      "name": "Rompecolumnas",
       "level": 10,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\rompecolumnas-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\rompecolumnas.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25553,14 +25553,14 @@
       "description": "Estrujas a tu oponente en un brutal abrazo de oso, aplicando intensa presión sobre sus nervios, articulaciones u otros puntos de dolor. Intenta una prueba de Atletismo para Agarrar a una criatura que tienes agarrada o restringida, con los siguientes efectos adicionales si tienes éxito."
     },
     {
-      "id": "suplex-include-accion-html-tipo-1",
-      "name": "Suplex · {% include accion.html tipo=\"1\" %}",
+      "id": "suplex",
+      "name": "Suplex",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\suplex-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\luchador\\suplex.md",
       "category": "archetype",
       "archetype": "Luchador",
       "archetype_type": "other",
@@ -25663,15 +25663,15 @@
       "description": "Puedes tener hasta dos compañeros animales activos a la vez. Sin embargo, cuando lo haces, es ligeramente más difícil Ordenarlos. Si no Ordenas a ninguno de tus compañeros, uno de los dos (a tu elección) aún puede usar 1 acción en tu turno para Avanzar o Golpear, según Compañero de maestro de bestias, maduro, pero no ambos. Cuando Ordenas a un animal, elige que uno de los compañeros haga 2 acciones, como es normal, o bien que cada compañero haga 1 acción para Avanzar o Golpear. En cualquier caso, no puedes Ordenar a un animal para que ninguno de los compañeros actúe de nuevo hasta tu próximo turno."
     },
     {
-      "id": "guardian-veloz-include-accion-html-tipo-libre",
-      "name": "Guardián veloz · {% include accion.html tipo=\"libre\" %}",
+      "id": "guardian-veloz",
+      "name": "Guardián veloz",
       "level": 6,
       "traits": [
         "Arquetipo",
         "Concentrar"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\maestro-de-bestias\\guardian-veloz-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\maestro-de-bestias\\guardian-veloz.md",
       "category": "archetype",
       "archetype": "Maestro De Bestias",
       "archetype_type": "other",
@@ -25680,8 +25680,8 @@
       "description": "Cuando aparece el peligro, envías rápidamente a tu compañero activo y llamas a un aliado animal diferente. Usas Llamar compañero. El nuevo compañero animal normalmente llega en la misma ubicación que el que partió, aunque el DJ podría ajustarlo según las circunstancias y las Velocidades de los animales. Si tienes Dirigir la manada, puedes intercambiar uno de tus dos compañeros activos por un compañero inactivo."
     },
     {
-      "id": "llamada-del-maestro-de-bestias-include-accion-html-tipo-1",
-      "name": "Llamada del maestro de bestias · {% include accion.html tipo=\"1\" %}",
+      "id": "llamada-del-maestro-de-bestias",
+      "name": "Llamada del maestro de bestias",
       "level": 12,
       "traits": [
         "Arquetipo",
@@ -25690,7 +25690,7 @@
         "Primigenio"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\maestro-de-bestias\\llamada-del-maestro-de-bestias-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\maestro-de-bestias\\llamada-del-maestro-de-bestias.md",
       "category": "archetype",
       "archetype": "Maestro De Bestias",
       "archetype_type": "other",
@@ -25731,8 +25731,8 @@
       "description": "Puedes comunicarte telepáticamente con tus compañeros animales dentro de 100 pies. Si eres legendario en Naturaleza, puedes comunicarte telepáticamente con tus compañeros animales en cualquier lugar del planeta."
     },
     {
-      "id": "canalizador-familiar-include-accion-html-tipo-1",
-      "name": "Canalizador familiar · {% include accion.html tipo=\"1\" %}",
+      "id": "canalizador-familiar",
+      "name": "Canalizador familiar",
       "level": 4,
       "traits": [
         "Arquetipo",
@@ -25740,7 +25740,7 @@
         "Moldeo de conjuros"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\maestro-de-familiares\\canalizador-familiar-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\maestro-de-familiares\\canalizador-familiar.md",
       "category": "archetype",
       "archetype": "Maestro De Familiares",
       "archetype_type": "other",
@@ -25947,8 +25947,8 @@
       "description": "Obtienes los beneficios de lanzamiento de conjuros maestro."
     },
     {
-      "id": "a-la-batalla-include-accion-html-tipo-1-o-include-accion-html-tipo-2",
-      "name": "¡A la batalla! · {% include accion.html tipo=\"1\" %} o {% include accion.html tipo=\"2\" %}",
+      "id": "a-la-batalla",
+      "name": "¡A la batalla!",
       "level": 8,
       "traits": [
         "Arquetipo",
@@ -25956,7 +25956,7 @@
         "Floritura"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\a-la-batalla-include-accion-html-tipo-1-o-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\a-la-batalla.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -25964,15 +25964,15 @@
       "description": "Con un grito resonante, animas a tu aliado a pasar a la ofensiva. Elige a un aliado en tu aura de mariscal que tenga una reacción disponible. Si gastas 1 acción, ese aliado puede usar su reacción para Avanzar de inmediato. Si gastas 2 acciones, ese aliado puede usar su reacción para Golpear de inmediato."
     },
     {
-      "id": "blanco-de-oportunidad-include-accion-html-tipo-libre",
-      "name": "Blanco de oportunidad · {% include accion.html tipo=\"libre\" %}",
+      "id": "blanco-de-oportunidad",
+      "name": "Blanco de oportunidad",
       "level": 14,
       "traits": [
         "Arquetipo",
         "Manipular"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\blanco-de-oportunidad-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\blanco-de-oportunidad.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -25997,15 +25997,15 @@
       "description": "Tu notable control de la respiración e instrucciones concisas te permiten coordinar a tus aliados más eficazmente, incluso en situaciones desesperadas. Cuando otorgas la condición acelerado con Llamada de cadencia, pueden usar la acción adicional para Avanzar o Golpear, y no quedan ralentizados 1 en su turno siguiente si usan la acción adicional."
     },
     {
-      "id": "carga-alentadora-include-accion-html-tipo-2",
-      "name": "Carga alentadora · {% include accion.html tipo=\"2\" %}",
+      "id": "carga-alentadora",
+      "name": "Carga alentadora",
       "level": 6,
       "traits": [
         "Arquetipo",
         "Visual"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\carga-alentadora-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\carga-alentadora.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -26013,8 +26013,8 @@
       "description": "Tu carga intrépida en batalla reaviva a tus aliados para continuar la lucha. Avanza hasta tu Velocidad y realiza un Golpe de melé. Si tu Golpe impacta y daña a un enemigo, cada aliado a 18 m que te haya visto impactar obtiene Puntos de Golpe temporales iguales a tu modificador de Carisma. Estos PG temporales duran hasta el inicio de tu siguiente turno."
     },
     {
-      "id": "carga-coordinada-include-accion-html-tipo-2",
-      "name": "Carga coordinada · {% include accion.html tipo=\"2\" %}",
+      "id": "carga-coordinada",
+      "name": "Carga coordinada",
       "level": 12,
       "traits": [
         "Arquetipo",
@@ -26022,7 +26022,7 @@
         "Visual"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\carga-coordinada-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\carga-coordinada.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -26046,14 +26046,14 @@
       "description": "Has combinado tus habilidades sociales y tu entrenamiento de combate para convertirte en un líder talentoso. Elige Diplomacia o Intimidación. Pasas a estar entrenado en esa habilidad o a ser experto si ya estabas entrenado."
     },
     {
-      "id": "derribar-enemigo-include-accion-html-tipo-libre",
-      "name": "Derribar enemigo · {% include accion.html tipo=\"libre\" %}",
+      "id": "derribar-enemigo",
+      "name": "Derribar enemigo",
       "level": 10,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\derribar-enemigo-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\derribar-enemigo.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -26062,8 +26062,8 @@
       "description": "Aprovechas la abertura creada por tu aliado para hacer caer a tu enemigo. Intenta una prueba de Atletismo para Derribar al objetivo del ataque desencadenante."
     },
     {
-      "id": "espabila-include-accion-html-tipo-1",
-      "name": "¡Espabila! · {% include accion.html tipo=\"1\" %}",
+      "id": "espabila",
+      "name": "¡Espabila!",
       "level": 4,
       "traits": [
         "Arquetipo",
@@ -26072,7 +26072,7 @@
         "Mental"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\espabila-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\espabila.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -26095,8 +26095,8 @@
       "description": "Destacas vigilando la espalda de tus aliados y ayudándoles a vigilar la tuya. Cualquier aliado adyacente a ti no puede quedar desprevenido por flanqueo a menos que tú también estés flanqueado. Asimismo, mientras estés adyacente a al menos un aliado, no puedes quedar desprevenido por flanqueo a menos que al menos uno de tus aliados adyacentes esté flanqueado también."
     },
     {
-      "id": "fortalecete-include-accion-html-tipo-1",
-      "name": "¡Fortalécete! · {% include accion.html tipo=\"1\" %}",
+      "id": "fortalecete",
+      "name": "¡Fortalécete!",
       "level": 4,
       "traits": [
         "Arquetipo",
@@ -26105,7 +26105,7 @@
         "Mental"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\fortalecete-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\fortalecete.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -26113,8 +26113,8 @@
       "description": "Animas a un aliado a endurecerse, dándole una oportunidad en la lucha. Elige a un aliado en tu aura de mariscal. El aliado obtiene Puntos de Golpe temporales iguales a tu modificador de Carisma y un bonificador circunstancial +2 a las salvaciones de Fortaleza. Ambos beneficios duran hasta el inicio de tu siguiente turno."
     },
     {
-      "id": "llamada-de-cadencia-include-accion-html-tipo-1",
-      "name": "Llamada de cadencia · {% include accion.html tipo=\"1\" %}",
+      "id": "llamada-de-cadencia",
+      "name": "Llamada de cadencia",
       "level": 6,
       "traits": [
         "Arquetipo",
@@ -26122,7 +26122,7 @@
         "Floritura"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\llamada-de-cadencia-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\llamada-de-cadencia.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -26131,15 +26131,15 @@
       "description": "Lanzas una rápida cadencia, guiando a tus aliados hacia un ritmo más eficiente. Cada aliado dispuesto en tu aura de mariscal queda acelerado hasta el final de su siguiente turno, y puede usar la acción adicional solo para Avanzar. Si un aliado usa esta acción adicional, al final de su turno ese aliado queda ralentizado 1 hasta el final de su turno siguiente."
     },
     {
-      "id": "postura-de-mariscal-inspirador-include-accion-html-tipo-1",
-      "name": "Postura de mariscal inspirador · {% include accion.html tipo=\"1\" %}",
+      "id": "postura-de-mariscal-inspirador",
+      "name": "Postura de mariscal inspirador",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Postura"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\postura-de-mariscal-inspirador-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\postura-de-mariscal-inspirador.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -26147,15 +26147,15 @@
       "description": "Te conviertes en un brillante ejemplo de dedicación y aplomo en batalla, animando a tus aliados a seguir tu ejemplo. Al gastar esta acción, intenta una prueba de Diplomacia. La CD suele ser una CD fácil de tu nivel, pero el DJ puede asignar otra según las circunstancias. El efecto depende del resultado de tu prueba."
     },
     {
-      "id": "postura-de-mariscal-temible-include-accion-html-tipo-1",
-      "name": "Postura de mariscal temible · {% include accion.html tipo=\"1\" %}",
+      "id": "postura-de-mariscal-temible",
+      "name": "Postura de mariscal temible",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Postura"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\postura-de-mariscal-temible-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\mariscal\\postura-de-mariscal-temible.md",
       "category": "archetype",
       "archetype": "Mariscal",
       "archetype_type": "other",
@@ -26195,8 +26195,8 @@
       "description": "Pasas a ser experto en Medicina. Cuando tienes éxito con Medicina de batalla o Tratar heridas, el objetivo obtiene un bonificador circunstancial a los Puntos de Golpe que recupera igual a 5 PG con CD 20, 10 PG con CD 30, o 15 PG con CD 40."
     },
     {
-      "id": "resucitar-include-accion-html-tipo-3",
-      "name": "Resucitar · {% include accion.html tipo=\"3\" %}",
+      "id": "resucitar",
+      "name": "Resucitar",
       "level": 16,
       "traits": [
         "Arquetipo",
@@ -26204,7 +26204,7 @@
         "Manipular"
       ],
       "action_type": "3",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\medico\\resucitar-include-accion-html-tipo-3.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\medico\\resucitar.md",
       "category": "archetype",
       "archetype": "Medico",
       "archetype_type": "other",
@@ -26213,8 +26213,8 @@
       "description": "Resucitas a los muertos. Intenta una prueba de Medicina CD 40 para revivir a una criatura muerta que lleva muerta no más de 3 asaltos y cuyo cuerpo está mayormente intacto. Si tienes éxito, el objetivo regresa a la vida con los efectos de *revivir a los muertos*, excepto que aún tiene la condición herido que tenía antes de morir, aumentada en 1 (o herido 1 si no estaba herido antes de morir). Tanto si tienes éxito como si fallas, el objetivo es temporalmente inmune a Resucitar durante 1 día."
     },
     {
-      "id": "tratar-condicion-include-accion-html-tipo-2",
-      "name": "Tratar condición · {% include accion.html tipo=\"2\" %}",
+      "id": "tratar-condicion",
+      "name": "Tratar condición",
       "level": 4,
       "traits": [
         "Arquetipo",
@@ -26223,7 +26223,7 @@
         "Habilidad"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\medico\\tratar-condicion-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\medico\\tratar-condicion.md",
       "category": "archetype",
       "archetype": "Medico",
       "archetype_type": "other",
@@ -26232,15 +26232,15 @@
       "description": "Tratas a una criatura adyacente intentando reducir la condición torpe, debilitado o indispuesto. Si una criatura tiene múltiples condiciones de esta lista, elige una. Intenta una prueba de contrarrestar contra la condición usando tu modificador de Medicina como tu modificador de contrarrestar y la fuente de la condición para determinar la CD. No puedes tratar una condición proveniente de un artefacto o efecto por encima de nivel 20 a menos que tengas Médico legendario; incluso si lo haces, la CD de contrarrestar aumenta en 10. Tratar una condición que se aplica continuamente bajo ciertas circunstancias (por ejemplo, la condición debilitado que obtiene un personaje sagrado por portar un arma con runa impía) no tiene efecto mientras continúen las circunstancias."
     },
     {
-      "id": "visita-del-doctor-include-accion-html-tipo-1-o-include-accion-html-tipo-2",
-      "name": "Visita del doctor · {% include accion.html tipo=\"1\" %} o {% include accion.html tipo=\"2\" %}",
+      "id": "visita-del-doctor",
+      "name": "Visita del doctor",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Floritura"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\medico\\visita-del-doctor-include-accion-html-tipo-1-o-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\medico\\visita-del-doctor.md",
       "category": "archetype",
       "archetype": "Medico",
       "archetype_type": "other",
@@ -26296,15 +26296,15 @@
       "description": "Eres un estudiante consumado de la dignidad, la etiqueta y la moda. Pasas a estar entrenado en Engaño y Sociedad; si ya estabas entrenado en alguna de ellas, pasas a ser experto en su lugar. Obtienes la actividad de tiempo de inactividad Influir en rumores."
     },
     {
-      "id": "halago-distractor-include-accion-html-tipo-libre",
-      "name": "Halago distractor · {% include accion.html tipo=\"libre\" %}",
+      "id": "halago-distractor",
+      "name": "Halago distractor",
       "level": 4,
       "traits": [
         "Arquetipo",
         "Habilidad"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\petimetre\\halago-distractor-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\petimetre\\halago-distractor.md",
       "category": "archetype",
       "archetype": "Petimetre",
       "archetype_type": "other",
@@ -26437,14 +26437,14 @@
       "description": "Incrementa tu rango de competencia en una de tus habilidades de experto a maestro y de entrenado a experto en otra de tus habilidades. Obtienes una dote de habilidad asociada con una de las habilidades elegidas; tienes que cumplir todos sus prerrequisitos."
     },
     {
-      "id": "caminar-por-la-tabla-include-accion-html-tipo-2",
-      "name": "Caminar por la tabla · {% include accion.html tipo=\"2\" %}",
+      "id": "caminar-por-la-tabla",
+      "name": "Caminar por la tabla",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\pirata\\caminar-por-la-tabla-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\pirata\\caminar-por-la-tabla.md",
       "category": "archetype",
       "archetype": "Pirata",
       "archetype_type": "other",
@@ -26609,14 +26609,14 @@
       "description": "Has estudiado los pergaminos en profundidad. Esto puede haber sido una educación completa en un entorno formal o el tipo de educación en la que de algún modo obtienes varios pergaminos y tratas de no hacer explotar nada que no pretendías. Obtienes la dote Engañar objeto mágico, y un bonificador circunstancial +2 a las pruebas de habilidad para Engañar pergaminos. Si obtienes un fallo crítico al Engañar un objeto mágico que sea un pergamino, obtienes un fallo en su lugar."
     },
     {
-      "id": "ojear-pergamino-include-accion-html-tipo-1",
-      "name": "Ojear pergamino · {% include accion.html tipo=\"1\" %}",
+      "id": "ojear-pergamino",
+      "name": "Ojear pergamino",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "1",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\tramposo-de-pergaminos\\ojear-pergamino-include-accion-html-tipo-1.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\tramposo-de-pergaminos\\ojear-pergamino.md",
       "category": "archetype",
       "archetype": "Tramposo De Pergaminos",
       "archetype_type": "other",
@@ -26669,14 +26669,14 @@
       "description": "Tu colección de pergaminos es increíble, rebosante de poder arcano, y puedes preparar muchos más de los que podría un tramposo de pergaminos ordinario. Además de tus pergaminos diarios de las Reservas básica y experta, añade un único pergamino con un conjuro de rango 6. En el 20.º nivel, añade un pergamino con un conjuro de rango 7."
     },
     {
-      "id": "a-la-refriega-include-accion-html-tipo-2",
-      "name": "A la refriega · {% include accion.html tipo=\"2\" %}",
+      "id": "a-la-refriega",
+      "name": "A la refriega",
       "level": 8,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\vikingo\\a-la-refriega-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\vikingo\\a-la-refriega.md",
       "category": "archetype",
       "archetype": "Vikingo",
       "archetype_type": "other",
@@ -26685,14 +26685,14 @@
       "description": "Te lanzas a la batalla con una furia que astilla escudos. Saltas, Avanzas o Nadas. Realiza dos Golpes de melé durante este movimiento, uno con tu arma de una mano y otro con tu escudo o un arma acoplada al escudo (como un umbo o pinchos). Puedes realizar estos Golpes en cualquier punto durante tu movimiento, y cada uno debe apuntar a un enemigo diferente. Ambos ataques cuentan para tu penalización por ataques múltiples, pero no aumentan tu penalización hasta que hayas realizado ambos ataques."
     },
     {
-      "id": "carga-lanzando-include-accion-html-tipo-2",
-      "name": "Carga lanzando · {% include accion.html tipo=\"2\" %}",
+      "id": "carga-lanzando",
+      "name": "Carga lanzando",
       "level": 4,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "2",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\vikingo\\carga-lanzando-include-accion-html-tipo-2.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\vikingo\\carga-lanzando.md",
       "category": "archetype",
       "archetype": "Vikingo",
       "archetype_type": "other",
@@ -26733,14 +26733,14 @@
       "description": "Desde la infancia, te has expuesto a las técnicas de combate vikingas tradicionales, y pronto aprendiste a manejar hacha, espada y escudo en batalla. Ahora, puedes saquear orgullosamente junto a tus compañeros. Obtienes la reacción Bloquear con escudo. Además, tienes familiaridad con el hacha de batalla, hacha de mano, espada larga, umbo de escudo, pinchos de escudo y espada corta; a efectos de competencia, tratas cualquiera de estas armas como simples."
     },
     {
-      "id": "segundo-escudo-include-accion-html-tipo-libre",
-      "name": "Segundo escudo · {% include accion.html tipo=\"libre\" %}",
+      "id": "segundo-escudo",
+      "name": "Segundo escudo",
       "level": 6,
       "traits": [
         "Arquetipo"
       ],
       "action_type": "libre",
-      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\vikingo\\segundo-escudo-include-accion-html-tipo-libre.md",
+      "source_file": "C:\\code\\pf2\\tools\\featCardCreator\\..\\..\\docs\\_dotes\\arquetipo\\vikingo\\segundo-escudo.md",
       "category": "archetype",
       "archetype": "Vikingo",
       "archetype_type": "other",
