@@ -10,9 +10,8 @@ level: 14
 
 ## Postura de Hoja Giratoria {% include accion.html tipo="1" %}
 
-**Dote 14**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/postura/" class="feat-trait">Postura</a></div>
 
-*Monje, Postura*
 
 **Prerrequisitos** Armamento Monastico
 

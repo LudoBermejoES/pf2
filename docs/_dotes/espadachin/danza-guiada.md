@@ -10,9 +10,8 @@ level: 4
 
 ## Danza Guiada {% include accion.html tipo="1" %}
 
-**Dote 4**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/fanfarronada/" class="feat-trait">Fanfarronada</a><a href="/apendices/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 
-*Espadachin, Fanfarronada, Movimiento*
 
 **Prerrequisitos** entrenado en Interpretacion
 

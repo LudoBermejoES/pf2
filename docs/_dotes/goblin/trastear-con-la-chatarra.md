@@ -10,7 +10,7 @@ level: 1
 
 ## Trastear con la chatarra
 
-**Dote 1** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 Puedes fabricar herramientas utiles, incluso de los desechos mas retorcidos u oxidados.
 

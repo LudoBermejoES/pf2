@@ -10,7 +10,7 @@ level: 1
 
 ## Marca del clan
 
-**Dote 1** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 Luces cicatrices o tatuajes realzados por la marca de coraje de tu clan.
 

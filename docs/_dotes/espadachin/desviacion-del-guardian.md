@@ -10,9 +10,8 @@ level: 4
 
 ## Desviacion del Guardian {% include accion.html tipo="reaccion" %}
 
-**Dote 4**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Desencadenante** Un aliado dentro de tu alcance cuerpo a cuerpo es impactado por un ataque, puedes ver al atacante, y un bonificador +2 por circunstancia a la CA convertiria el impacto critico en un impacto o el impacto en un fallo.
 

@@ -10,7 +10,7 @@ level: 1
 
 ## Estrategia de la montana
 
-**Dote 1** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Los enanos tienen una larga historia de lucha contra enemigos comunes, y tu has dominado las antiguas tácticas que permiten enfrentarse mejor a dichos enemigos.
 

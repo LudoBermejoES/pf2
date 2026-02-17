@@ -10,9 +10,8 @@ level: 10
 
 ## Danza del Broquel {% include accion.html tipo="1" %}
 
-**Dote 10**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posicion</a></div>
 
-*Espadachin, Posicion*
 
 **Requisitos** Empuñas un broquel.
 

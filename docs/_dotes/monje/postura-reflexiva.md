@@ -10,9 +10,8 @@ level: 12
 
 ## Postura Reflexiva {% include accion.html tipo="libre" %}
 
-**Dote 12**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Desencadenante** Tiras iniciativa.
 

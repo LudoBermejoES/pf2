@@ -10,7 +10,7 @@ level: 17
 
 ## Recrecimiento
 
-**Dote 17** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Tu dominio sobre tu esencia vital te permite a ti o a un aliado recuperarte de heridas graves.
 

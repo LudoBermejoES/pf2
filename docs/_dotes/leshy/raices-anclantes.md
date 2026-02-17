@@ -10,7 +10,7 @@ level: 5
 
 ## Raices anclantes
 
-**Dote 5** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 

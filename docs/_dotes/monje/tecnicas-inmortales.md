@@ -10,9 +10,8 @@ level: 20
 
 ## Tecnicas Inmortales
 
-**Dote 20**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** Maestro de Muchos Estilos
 

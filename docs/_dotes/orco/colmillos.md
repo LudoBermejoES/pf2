@@ -10,7 +10,7 @@ level: 1
 
 ## Colmillos
 
-**Dote 1** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 Tienes unos colmillos particularmente largos e irregulares, perfectos para arrancar la carne de los huesos.
 

@@ -10,7 +10,7 @@ level: 5
 
 ## Rodilla
 
-**Dote 5** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 Asestas un tremendo golpe a la rodilla, la espinilla u otra parte vulnerable a tu alcance de la anatomia de un enemigo.
 

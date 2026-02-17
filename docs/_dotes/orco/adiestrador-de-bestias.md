@@ -10,7 +10,7 @@ level: 1
 
 ## Adiestrador de bestias
 
-**Dote 1** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 Tienes una sorprendente capacidad innata para domar y dominar bestias feroces.
 

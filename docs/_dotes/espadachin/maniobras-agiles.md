@@ -10,9 +10,8 @@ level: 6
 
 ## Maniobras Agiles
 
-**Dote 6**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Prerrequisitos** experto en Atletismo
 

@@ -10,7 +10,7 @@ level: 9
 
 ## Caminante de la piedra
 
-**Dote 9** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Tienes una gran reverencia hacia la piedra y una conexión especial con ella.
 

@@ -10,7 +10,7 @@ level: 9
 
 ## Corteza y zarcillo
 
-**Dote 9** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Utilizas magia primigenia.
 

@@ -10,9 +10,8 @@ level: 8
 
 ## Maniobra Mixta {% include accion.html tipo="2" %}
 
-**Dote 8**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** maestro en Atletismo
 

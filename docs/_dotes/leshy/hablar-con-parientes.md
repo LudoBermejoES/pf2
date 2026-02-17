@@ -10,7 +10,7 @@ level: 5
 
 ## Hablar con parientes
 
-**Dote 5** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Tienes una conexión con las criaturas que comparten tu fisiologia.
 

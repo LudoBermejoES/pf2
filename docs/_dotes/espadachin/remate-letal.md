@@ -10,9 +10,8 @@ level: 18
 
 ## Remate Letal {% include accion.html tipo="1" %}
 
-**Dote 18**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/muerte/" class="feat-trait">Muerte</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
-*Espadachin, Muerte, Remate*
 
 **Prerrequisitos** golpe preciso 6d6
 

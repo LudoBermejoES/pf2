@@ -10,7 +10,7 @@ level: 9
 
 ## Supersticion dominante
 
-**Dote 9** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 **Prerrequisitos:** Supersticion de orco
 

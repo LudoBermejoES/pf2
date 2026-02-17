@@ -10,9 +10,8 @@ level: 4
 
 ## Desviar Proyectil {% include accion.html tipo="reaccion" %}
 
-**Dote 4**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Desencadenante** Eres el objetivo de un ataque fisico a distancia.
 

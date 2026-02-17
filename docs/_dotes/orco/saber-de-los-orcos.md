@@ -10,7 +10,7 @@ level: 1
 
 ## Saber de los orcos
 
-**Dote 1** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 Los ancianos del clan te enseñaron la historia de tu pueblo, te contaron las grandes hazañas atléticas y compartieron contigo las dificultades que soportaron tus antepasados para que pudieras transmitir esta sabiduría a las generaciones futuras.
 

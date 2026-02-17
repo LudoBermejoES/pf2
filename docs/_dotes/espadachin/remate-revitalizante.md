@@ -10,9 +10,8 @@ level: 16
 
 ## Remate Revitalizante {% include accion.html tipo="1" %}
 
-**Dote 16**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
-*Espadachin, Remate*
 
 Tu fanfarroneria infunde confianza en ti y tus aliados. Da un Golpe. En un impacto, tu y todos los aliados dentro de 30 pies (9 m) obtienen Puntos de Golpe temporales iguales a la mitad de tu nivel.
 

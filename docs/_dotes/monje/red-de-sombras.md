@@ -10,9 +10,8 @@ level: 14
 
 ## Red de Sombras
 
-**Dote 14**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** Iniciado de Sombras Adherentes
 

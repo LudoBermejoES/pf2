@@ -10,7 +10,7 @@ level: 1
 
 ## Saber de los enanos
 
-**Dote 1** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Absorbiste avidamente los viejos relatos y tradiciones de tus antepasados, tus dioses y tu gente, estudiando temas y técnicas transmitidos de generación en generación.
 

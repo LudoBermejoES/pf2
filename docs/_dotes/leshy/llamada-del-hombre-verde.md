@@ -10,7 +10,7 @@ level: 13
 
 ## Llamada del hombre verde
 
-**Dote 13** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Puedes convocar a los espíritus de la Naturaleza cercanos para que potencien tu cuerpo.
 

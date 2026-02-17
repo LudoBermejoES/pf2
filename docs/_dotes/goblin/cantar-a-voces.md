@@ -10,7 +10,7 @@ level: 5
 
 ## Cantar a voces
 
-**Dote 5** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 **Prerrequisitos:** Canción goblin
 

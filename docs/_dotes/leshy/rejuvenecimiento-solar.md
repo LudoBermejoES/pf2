@@ -10,7 +10,7 @@ level: 9
 
 ## Rejuvenecimiento solar
 
-**Dote 9** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 **Beneficio:** Si descansas al aire libre durante 10 minutos durante el dia, recuperas tantos Puntos de Golpe como tu modificador por Constitución multiplicado por la mitad de tu nivel. Obtienes este beneficio ademas de cualquier curacion debida a Tratar heridas.
 

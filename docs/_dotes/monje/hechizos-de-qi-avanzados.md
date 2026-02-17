@@ -10,9 +10,8 @@ level: 6
 
 ## Hechizos de Qi Avanzados
 
-**Dote 6**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** Hechizos de Qi
 

@@ -10,9 +10,8 @@ level: 20
 
 ## Qi Relampagueante {% include accion.html tipo="libre" %}
 
-**Dote 20**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** Hechizos de Qi
 

@@ -10,9 +10,8 @@ level: 10
 
 ## Envenenar Cobra {% include accion.html tipo="1" %}
 
-**Dote 10**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/veneno/" class="feat-trait">Veneno</a></div>
 
-*Monje, Veneno*
 
 **Prerrequisitos** Postura de la Cobra, experto en ataques desarmados
 

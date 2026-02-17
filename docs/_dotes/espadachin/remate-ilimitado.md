@@ -10,9 +10,8 @@ level: 20
 
 ## Remate Ilimitado {% include accion.html tipo="1" %}
 
-**Dote 20**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
-*Espadachin, Fortuna, Remate*
 
 **Requisitos** No estas fatigado.
 

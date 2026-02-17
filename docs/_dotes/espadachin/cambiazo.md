@@ -10,9 +10,8 @@ level: 10
 
 ## Cambiazo {% include accion.html tipo="reaccion" %}
 
-**Dote 10**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Desencadenante** Eres objetivo de un ataque a distancia.
 

@@ -10,9 +10,8 @@ level: 8
 
 ## Fuego Clavador {% include accion.html tipo="reaccion" %}
 
-**Dote 8**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Desencadenante** Usas Rafaga de golpes para hacer dos Golpes perforantes de arma a distancia contra el mismo objetivo.
 

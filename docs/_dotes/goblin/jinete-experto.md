@@ -10,7 +10,7 @@ level: 1
 
 ## Jinete experto
 
-**Dote 1** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 Eres especialmente bueno con las monturas tradicionales de los goblins.
 

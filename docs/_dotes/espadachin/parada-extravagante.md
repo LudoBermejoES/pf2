@@ -10,9 +10,8 @@ level: 1
 
 ## Parada Extravagante {% include accion.html tipo="1" %}
 
-**Dote 1**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Requisitos** Empuñas una o mas armas de una mano.
 

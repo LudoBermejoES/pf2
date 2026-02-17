@@ -10,9 +10,8 @@ level: 1
 
 ## Todos para Uno {% include accion.html tipo="1" %}
 
-**Dote 1**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/concentracion/" class="feat-trait">Concentracion</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/linguistico/" class="feat-trait">Linguistico</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
-*Auditivo, Concentracion, Emocion, Espadachin, Linguistico, Mental*
 
 **Prerrequisitos** entrenado en Diplomacia
 

@@ -10,7 +10,7 @@ level: 1
 
 ## Corredor de las rocas
 
-**Dote 1** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Tu conexión innata con la piedra te convierte en un adepto en cruzar superficies irregulares.
 

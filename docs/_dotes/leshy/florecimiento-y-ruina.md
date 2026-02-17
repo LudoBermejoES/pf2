@@ -10,7 +10,7 @@ level: 17
 
 ## Florecimiento y ruina
 
-**Dote 17** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Llamas a la esencia vital de tu espíritu para que restablezca la vida a tus aliados y convocas zarcillos para enmarañar y golpear a tus enemigos.
 

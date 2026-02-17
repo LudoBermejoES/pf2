@@ -10,7 +10,7 @@ level: 1
 
 ## Alcance prensil
 
-**Dote 1** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Puedes extender una marana de enredaderas o de zarcillos para sostener tus brazos y aumentar tu alcance.
 

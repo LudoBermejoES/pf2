@@ -10,9 +10,8 @@ level: 4
 
 ## Rafaga de Maniobras
 
-**Dote 4**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** experto en Atletismo
 

@@ -10,7 +10,7 @@ level: 1
 
 ## Saber de los leshys
 
-**Dote 1** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Entiendes profundamente las tradiciones culturales de tu gente y sus fortalezas innatas.
 

@@ -10,9 +10,8 @@ level: 14
 
 ## Rafaga de Vientos Salvajes {% include accion.html tipo="2" %}
 
-**Dote 14**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aire/" class="feat-trait">Aire</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Aire, Concentrar, Manipular, Monje*
 
 **Prerrequisitos** Iniciado de Vientos Salvajes
 

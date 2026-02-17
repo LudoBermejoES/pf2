@@ -10,9 +10,8 @@ level: 2
 
 ## Disfrutar el Espectaculo
 
-**Dote 2**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 Te diriges a un aliado o a cualquier espectador de tu combate, alardeando ante tus enemigos de lo poca atencion que requieren. Cuando Interpretas, puedes elegir una unica criatura dentro de 30 pies (9 m) y usar los siguientes efectos de exito, exito critico y fallo critico en lugar de los resultados normales; si lo haces, Interpretar obtiene el rasgo fanfarronada, asi como los rasgos auditivo y linguistico como es normal para oracion.
 

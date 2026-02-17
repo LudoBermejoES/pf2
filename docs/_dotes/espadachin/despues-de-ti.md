@@ -10,9 +10,8 @@ level: 2
 
 ## Despues de Ti {% include accion.html tipo="libre" %}
 
-**Dote 2**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Desencadenante** Estas a punto de tirar iniciativa.
 

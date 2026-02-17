@@ -10,9 +10,8 @@ level: 1
 
 ## Fascinacion Concentrada
 
-**Dote 1**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Prerrequisitos** Interpretacion Fascinante
 

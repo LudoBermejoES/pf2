@@ -10,9 +10,8 @@ level: 12
 
 ## Acostumbrate a la Decepcion {% include accion.html tipo="libre" %}
 
-**Dote 12**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/fanfarronada/" class="feat-trait">Fanfarronada</a></div>
 
-*Espadachin, Fanfarronada*
 
 **Prerrequisitos** experto en Intimidacion
 

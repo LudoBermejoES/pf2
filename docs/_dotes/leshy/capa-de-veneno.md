@@ -10,7 +10,7 @@ level: 13
 
 ## Capa de veneno
 
-**Dote 13** - Leshy, Veneno
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a><a href="/apendices/rasgos/veneno/" class="feat-trait">Veneno</a></div>
 
 **Frecuencia:** Una vez al dia
 

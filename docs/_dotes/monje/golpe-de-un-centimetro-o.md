@@ -10,9 +10,8 @@ level: 6
 
 ## Golpe de un Centimetro {% include accion.html tipo="2" %} o {% include accion.html tipo="3" %}
 
-**Dote 6**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** golpes expertos
 

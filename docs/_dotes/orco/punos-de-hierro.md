@@ -10,7 +10,7 @@ level: 1
 
 ## Punos de hierro
 
-**Dote 1** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 Tus punes se han forjado en la batalla y tu piel naturalmente dura y tus densos huesos se han endurecido aun mas debido al conflicto.
 

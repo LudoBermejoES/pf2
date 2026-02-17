@@ -10,7 +10,7 @@ level: 5
 
 ## Piel cicatricial
 
-**Dote 5** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 Unas cicatrices gloriosas e historiadas cubren y protegen gran parte de tu cuerpo, envolviendote en una armadura de carne que resiste cualquier herida mas debil que aquellas a las que ya has sobrevivido.
 

@@ -10,9 +10,8 @@ level: 8
 
 ## Doble Remate {% include accion.html tipo="1" %}
 
-**Dote 8**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
-*Espadachin, Remate*
 
 **Requisitos** Empuñas dos armas cuerpo a cuerpo, una en cada mano.
 

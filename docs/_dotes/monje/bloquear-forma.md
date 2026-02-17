@@ -10,9 +10,8 @@ level: 14
 
 ## Bloquear Forma {% include accion.html tipo="1" %}
 
-**Dote 14**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Ataque, Monje*
 
 **Requisitos** Tienes a un enemigo agarrado o inmovilizado.
 

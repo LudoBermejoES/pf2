@@ -10,7 +10,7 @@ level: 9
 
 ## Aferrarse
 
-**Dote 9** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 **Requisitos:** Tu ultima acción ha sido un Golpe con éxito y tienes una mano libre.
 

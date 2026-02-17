@@ -10,7 +10,7 @@ level: 5
 
 ## Poder atletico
 
-**Dote 5** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 Sobrevivir en terrenos hostiles te ha proporcionado un gran talento para la movilidad.
 

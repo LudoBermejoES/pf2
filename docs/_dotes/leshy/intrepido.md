@@ -10,7 +10,7 @@ level: 1
 
 ## Intrepido
 
-**Dote 1** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Tu espíritu ha soportado muchos desafios a lo largo de tu dilatada existencia.
 

@@ -10,9 +10,8 @@ level: 20
 
 ## Rompedioses {% include accion.html tipo="3" %}
 
-**Dote 20**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** Presa Aplastante, Lanzamiento Giratorio
 

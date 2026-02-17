@@ -10,7 +10,7 @@ level: 1
 
 ## Familiaridad con las armas de los goblins
 
-**Dote 1** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 Otros pueden mirarlas con desdén, pero tu sabes que las armas de tu gente son tan efectivas como afiladas.
 

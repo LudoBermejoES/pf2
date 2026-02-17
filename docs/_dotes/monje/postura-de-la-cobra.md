@@ -10,9 +10,8 @@ level: 4
 
 ## Postura de la Cobra {% include accion.html tipo="1" %}
 
-**Dote 4**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/postura/" class="feat-trait">Postura</a></div>
 
-*Monje, Postura*
 
 Entras en una postura estrechamente enrollada, con tus manos listas como colmillos venenosos. Mientras estas en esta postura, los unicos Golpes que puedes hacer son ataques de colmillo de cobra. Estos infligen 1d4 de dano perforante; estan en el grupo de pelea callejera; y tienen los rasgos agil, letal d10, sutil, desarmado y venenoso (pagina 119).
 

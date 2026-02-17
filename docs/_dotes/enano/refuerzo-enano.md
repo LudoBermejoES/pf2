@@ -10,7 +10,7 @@ level: 5
 
 ## Refuerzo enano
 
-**Dote 5** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 **Prerrequisitos:** Rango experto en Artesanía
 

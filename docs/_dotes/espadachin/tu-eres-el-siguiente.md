@@ -10,9 +10,8 @@ level: 1
 
 ## Tu Eres el Siguiente {% include accion.html tipo="1" %}
 
-**Dote 1**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a></div>
 
-*Emocion, Espadachin, Mental, Miedo*
 
 **Prerrequisitos** entrenado en Intimidacion
 

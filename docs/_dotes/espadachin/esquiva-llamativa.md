@@ -10,9 +10,8 @@ level: 1
 
 ## Esquiva Llamativa {% include accion.html tipo="reaccion" %}
 
-**Dote 1**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Desencadenante** Una criatura que puedes ver te tiene como objetivo de un ataque.
 

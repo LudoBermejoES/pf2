@@ -10,9 +10,8 @@ level: 6
 
 ## Rugido del Dragon {% include accion.html tipo="1" %}
 
-**Dote 6**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Auditivo, Emocion, Miedo, Mental, Monje*
 
 **Prerrequisitos** Postura del Dragon
 

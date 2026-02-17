@@ -10,9 +10,8 @@ level: 12
 
 ## Remate Movil {% include accion.html tipo="1" %}
 
-**Dote 12**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
-*Espadachin, Remate*
 
 Atacas en movimiento. Da una Zancada y luego un Golpe. Puedes usar Remate Movil mientras Excavas, Trepas, Vuelas o Nadas en lugar de dar una Zancada si tienes el tipo de movimiento correspondiente.
 

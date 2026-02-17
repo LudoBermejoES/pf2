@@ -10,9 +10,8 @@ level: 10
 
 ## Posicion Prevaleciente {% include accion.html tipo="reaccion" %}
 
-**Dote 10**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** al menos una dote de postura
 

@@ -10,7 +10,7 @@ level: 17
 
 ## Abandono temerario
 
-**Dote 17** - Fortuna, Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 **Frecuencia:** Una vez al dia
 

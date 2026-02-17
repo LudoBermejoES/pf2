@@ -10,9 +10,8 @@ level: 18
 
 ## Suerte Increible
 
-**Dote 18**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
-*Espadachin, Fortuna*
 
 **Prerrequisitos** Vida con Suerte
 

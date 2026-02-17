@@ -10,9 +10,8 @@ level: 4
 
 ## Quedarse Quieto {% include accion.html tipo="reaccion" %}
 
-**Dote 4**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Desencadenante** Una criatura dentro de tu alcance usa una accion de movimiento o abandona una casilla durante una accion de movimiento que esta usando.
 

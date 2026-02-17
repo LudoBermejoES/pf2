@@ -10,9 +10,8 @@ level: 8
 
 ## Fanfarroneria Vivaz {% include accion.html tipo="1" %}
 
-**Dote 8**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Requisitos** Obtuviste panache este turno.
 

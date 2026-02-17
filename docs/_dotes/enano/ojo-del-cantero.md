@@ -10,7 +10,7 @@ level: 1
 
 ## Ojo del cantero
 
-**Dote 1** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Entiendes la complejidad del trabajo en piedra.
 

@@ -10,9 +10,8 @@ level: 12
 
 ## Disparo Concentrado {% include accion.html tipo="1" %}
 
-**Dote 12**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Concentrar, Monje*
 
 **Prerrequisitos** Postura de Arquero Monastico
 

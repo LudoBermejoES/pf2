@@ -10,7 +10,7 @@ level: 13
 
 ## Recorrer las minas
 
-**Dote 13** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Atraviesas la tierra y llevas contigo a un aliado.
 

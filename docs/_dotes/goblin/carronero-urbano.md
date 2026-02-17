@@ -10,7 +10,7 @@ level: 1
 
 ## Carronero urbano
 
-**Dote 1** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 Sabes que los mayores tesoros a menudo parecen basura.
 

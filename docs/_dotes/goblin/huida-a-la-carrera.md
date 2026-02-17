@@ -10,7 +10,7 @@ level: 9
 
 ## Huida a la carrera
 
-**Dote 9** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 **Prerrequisitos:** Huida goblin
 

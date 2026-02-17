@@ -10,7 +10,7 @@ level: 1
 
 ## Supersticion leshy
 
-**Dote 1** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 **Desencadenante:** Haces una tirada de salvación contra un conjuro o un efecto magico, pero aun no has tirado los dados.
 

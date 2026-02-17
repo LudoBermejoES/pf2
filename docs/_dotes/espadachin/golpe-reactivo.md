@@ -10,9 +10,8 @@ level: 6
 
 ## Golpe Reactivo {% include accion.html tipo="reaccion" %}
 
-**Dote 6**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Desencadenante** Una criatura dentro de tu alcance usa una accion de manipular o una accion de movimiento, realiza un ataque a distancia, o abandona una casilla durante una accion de movimiento que esta usando.
 

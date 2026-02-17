@@ -10,9 +10,8 @@ level: 20
 
 ## Tecnica Imposible {% include accion.html tipo="reaccion" %}
 
-**Dote 20**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Fortuna, Monje*
 
 **Desencadenante** El ataque de un enemigo te impacta o fallas una salvacion contra la habilidad de un enemigo.
 

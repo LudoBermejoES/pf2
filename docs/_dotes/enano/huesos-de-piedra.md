@@ -10,7 +10,7 @@ level: 9
 
 ## Huesos de piedra
 
-**Dote 9** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 **Reacción**
 

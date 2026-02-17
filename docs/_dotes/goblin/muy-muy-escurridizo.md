@@ -10,7 +10,7 @@ level: 13
 
 ## Muy, muy escurridizo
 
-**Dote 13** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 **Prerrequisitos:** Muy escurridizo
 

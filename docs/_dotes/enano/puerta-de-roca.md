@@ -10,7 +10,7 @@ level: 17
 
 ## Puerta de roca
 
-**Dote 17** - Poco comun, Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 **Prerrequisitos:** Caminante de la piedra
 

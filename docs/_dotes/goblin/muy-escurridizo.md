@@ -10,7 +10,7 @@ level: 1
 
 ## Muy escurridizo
 
-**Dote 1** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 La gente grande raramente presta atención a las sombras que tiene a sus pies, y tu te aprovechas de ello por completo.
 

@@ -10,7 +10,7 @@ level: 1
 
 ## Sombra de las tierras salvajes
 
-**Dote 1** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Es difícil percibir tu paso por las areas salvajes.
 

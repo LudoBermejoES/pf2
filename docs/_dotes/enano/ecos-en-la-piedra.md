@@ -10,7 +10,7 @@ level: 9
 
 ## Ecos en la piedra
 
-**Dote 9** - Enano, Concentrar
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
 **Requisitos:** Estas de pie sobre una superficie de piedra o de tierra.
 

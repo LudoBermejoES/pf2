@@ -10,7 +10,7 @@ level: 1
 
 ## Inofensivamente bello
 
-**Dote 1** - Leshy
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
 Tu tamaño y tu comportamiento facilitan convencer a los demás de que no quieres hacerles dano.
 

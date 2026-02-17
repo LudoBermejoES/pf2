@@ -10,7 +10,7 @@ level: 1
 
 ## Saber de los goblins
 
-**Dote 1** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 Has adquirido habilidades y relatos en tu comunidad goblin.
 

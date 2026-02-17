@@ -10,9 +10,8 @@ level: 18
 
 ## Disparo Triangular {% include accion.html tipo="2" %}
 
-**Dote 18**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Concentrar, Fortuna, Monje*
 
 **Prerrequisitos** Postura de Arquero Monastico, Golpes Aturdidores
 

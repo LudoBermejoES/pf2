@@ -10,9 +10,8 @@ level: 1
 
 ## Desarme con Estilo
 
-**Dote 1**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 Desarmas armas de las manos de tus enemigos con estilo. Cuando Desarmas, la accion obtiene el rasgo fanfarronada.
 

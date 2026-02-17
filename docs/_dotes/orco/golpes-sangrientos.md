@@ -10,7 +10,7 @@ level: 5
 
 ## Golpes sangrientos
 
-**Dote 5** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 Tus ataques letales sin armas dejan magulladuras ensangrentadas o provocan graves hemorragias internas.
 

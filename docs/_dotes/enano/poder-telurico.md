@@ -10,7 +10,7 @@ level: 13
 
 ## Poder telurico
 
-**Dote 13** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Canalizas la fuerza de la tierra que hay bajo tus pies para machacar a tus enemigos.
 

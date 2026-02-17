@@ -10,9 +10,8 @@ level: 14
 
 ## Terremoto de Montana {% include accion.html tipo="1" %}
 
-**Dote 14**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 **Prerrequisitos** Baluarte de la Montana
 

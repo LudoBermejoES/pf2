@@ -10,7 +10,7 @@ level: 1
 
 ## Huida goblin
 
-**Dote 1** - Goblin · Reacción
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin-reaccion/" class="feat-trait">Goblin · Reacción</a></div>
 
 **Desencadenante:** Un aliado acaba una acción de movimiento adyacente a ti.
 

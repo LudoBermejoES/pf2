@@ -10,9 +10,8 @@ level: 1
 
 ## Postura del Tigre {% include accion.html tipo="1" %}
 
-**Dote 1**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/postura/" class="feat-trait">Postura</a></div>
 
-*Monje, Postura*
 
 **Requisitos** Estas sin armadura.
 

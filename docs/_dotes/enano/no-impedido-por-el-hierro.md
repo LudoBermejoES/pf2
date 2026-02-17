@@ -10,7 +10,7 @@ level: 1
 
 ## No impedido por el hierro
 
-**Dote 1** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Has aprendido técnicas que fueron desarrolladas por tus antepasados durante sus antiguas guerras, lo que te permite vestir comodamente armaduras enormes.
 

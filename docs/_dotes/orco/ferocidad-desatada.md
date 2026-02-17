@@ -10,7 +10,7 @@ level: 17
 
 ## Ferocidad desatada
 
-**Dote 17** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 **Prerrequisitos:** Ferocidad de orco
 

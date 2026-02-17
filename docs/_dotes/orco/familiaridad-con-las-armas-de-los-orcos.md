@@ -10,7 +10,7 @@ level: 1
 
 ## Familiaridad con las armas de los orcos
 
-**Dote 1** - Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 En combate, prefieres las armas brutales que eran tradición para tus antepasados orcos.
 

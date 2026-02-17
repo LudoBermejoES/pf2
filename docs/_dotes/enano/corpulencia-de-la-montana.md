@@ -10,7 +10,7 @@ level: 9
 
 ## Corpulencia de la montana
 
-**Dote 9** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Tu resistencia te permite soportar mas castigo de lo habitual.
 

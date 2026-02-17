@@ -10,9 +10,8 @@ level: 18
 
 ## Parada y Riposte
 
-**Dote 18**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
-*Espadachin*
 
 **Prerrequisitos** Riposte Oportuno
 

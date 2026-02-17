@@ -10,9 +10,8 @@ level: 12
 
 ## Aliento Abrumador {% include accion.html tipo="1" %}
 
-**Dote 12**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/moldear-hechizo/" class="feat-trait">Moldear Hechizo</a></div>
 
-*Concentrar, Monje, Moldear Hechizo*
 
 **Prerrequisitos** Hechizos de Qi
 

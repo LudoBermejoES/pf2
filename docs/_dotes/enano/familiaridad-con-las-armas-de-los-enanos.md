@@ -10,7 +10,7 @@ level: 1
 
 ## Familiaridad con las armas de los enanos
 
-**Dote 1** - Enano
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
 Los tuyos te han instilado la afinidad por las armas que pegan fuerte, y las prefieres a otras armas mas elegantes.
 

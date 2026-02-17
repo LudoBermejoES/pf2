@@ -10,7 +10,7 @@ level: 1
 
 ## Canción goblin
 
-**Dote 1** - Goblin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
 Cantas molestas canciones goblin, distrayendo a tus enemigos con rimas tontas y repetitivas.
 

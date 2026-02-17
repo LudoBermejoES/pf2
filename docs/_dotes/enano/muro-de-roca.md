@@ -10,7 +10,7 @@ level: 17
 
 ## Muro de roca
 
-**Dote 17** - Enano, Polimorfia, Tierra
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a><a href="/apendices/rasgos/polimorfia/" class="feat-trait">Polimorfia</a><a href="/apendices/rasgos/tierra/" class="feat-trait">Tierra</a></div>
 
 **Reacción**
 

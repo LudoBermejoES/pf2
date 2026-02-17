@@ -10,7 +10,7 @@ level: 1
 
 ## Supersticion de orco
 
-**Dote 1** - Concentrar, Orco
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
 **Desencadenante:** Haces una tirada de salvación contra un conjuro o un efecto magico, pero aun no has tirado los dados.
 

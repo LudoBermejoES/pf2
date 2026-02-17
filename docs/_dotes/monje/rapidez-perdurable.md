@@ -10,9 +10,8 @@ level: 20
 
 ## Rapidez Perdurable
 
-**Dote 20**
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
-*Monje*
 
 Te mueves tan rapido y libremente como el viento. Estas permanentemente acelerado. Puedes usar tu accion extra para dar una Zancada o Saltar, o para proporcionar una de las acciones necesarias para un Salto alto o Salto largo.
 
