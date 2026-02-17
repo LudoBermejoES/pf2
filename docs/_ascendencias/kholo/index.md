@@ -84,3 +84,4 @@ Muchos kholos rinden homenaje a Lamashtu, tanto como la creadora de su pueblo co
 
 - [Dotes](/ascendencias/kholo/dotes_short/)
 - [Herencias]({{ '/ascendencias/kholo/herencias/' | relative_url }})
+- [Cultura y Sociedad]({{ '/ascendencias/kholo/cultura-sociedad/' | relative_url }})

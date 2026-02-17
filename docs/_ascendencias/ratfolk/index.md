@@ -85,3 +85,4 @@ Aunque los ysoki veneran a sus ancestros y tienden a reconocer a cualquier deida
 
 - [Dotes](/ascendencias/ratfolk/dotes_short/)
 - [Herencias]({{ '/ascendencias/ratfolk/herencias/' | relative_url }})
+- [Cultura y Sociedad]({{ '/ascendencias/ratfolk/cultura-sociedad/' | relative_url }})

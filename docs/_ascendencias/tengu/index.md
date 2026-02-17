@@ -80,3 +80,4 @@ Los tengu suelen seguir la fe de la región en la que se criaron, aunque la deid
 
 - [Dotes](/ascendencias/tengu/dotes_short/)
 - [Herencias]({{ '/ascendencias/tengu/herencias/' | relative_url }})
+- [Cultura y Sociedad]({{ '/ascendencias/tengu/cultura-sociedad/' | relative_url }})
