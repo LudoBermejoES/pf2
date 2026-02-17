@@ -28,7 +28,7 @@ El arquetipo de Tramposo De Pergaminos te otorga acceso a nuevas habilidades y t
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Ojear pergamino · {% include accion.html tipo="1" %}](/dotes/arquetipo/tramposo-de-pergaminos/ojear-pergamino-include-accion-html-tipo-1/) | Puedes activar la magia de un pergamino con una lectura s... | Arquetipo | Dedicación de Tramposo de pergaminos |
+| [Ojear pergamino · {% include accion.html tipo="1" %}](/dotes/arquetipo/tramposo-de-pergaminos/ojear-pergamino/) | Puedes activar la magia de un pergamino con una lectura s... | Arquetipo | Dedicación de Tramposo de pergaminos |
 
 ## Nivel 12
 

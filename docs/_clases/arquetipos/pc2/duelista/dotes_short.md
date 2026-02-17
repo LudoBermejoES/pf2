@@ -22,7 +22,7 @@ El arquetipo de Duelista te otorga acceso a nuevas habilidades y talentos especi
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Desafío del duelista · {% include accion.html tipo="1" %}](/dotes/arquetipo/duelista/desafio-del-duelista-include-accion-html-tipo-1/) | Selecciona a un enemigo que puedas ver y proclama un desa... | Arquetipo | Dedicación de Duelista |
+| [Desafío del duelista · {% include accion.html tipo="1" %}](/dotes/arquetipo/duelista/desafio-del-duelista/) | Selecciona a un enemigo que puedas ver y proclama un desa... | Arquetipo | Dedicación de Duelista |
 
 ## Nivel 8
 

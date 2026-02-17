@@ -35,11 +35,11 @@ El arquetipo de Improvisador De Armas te otorga acceso a nuevas habilidades y ta
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Crítico improvisado](/dotes/arquetipo/improvisador-de-armas/critico-improvisado/) | Puedes aplicar efectos de especialización crítica a las a... | Arquetipo | Dedicación de Improvisador de armas |
-| [Golpe improvisado · {% include accion.html tipo="1" %}](/dotes/arquetipo/improvisador-de-armas/golpe-improvisado-include-accion-html-tipo-1/) | Coges rápidamente lo que tengas cerca y atacas con ello c... | Arquetipo | Dedicación de Improvisador de armas |
+| [Golpe improvisado · {% include accion.html tipo="1" %}](/dotes/arquetipo/improvisador-de-armas/golpe-improvisado/) | Coges rápidamente lo que tengas cerca y atacas con ello c... | Arquetipo | Dedicación de Improvisador de armas |
 
 ## Nivel 10
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Golpe destrozador · {% include accion.html tipo="libre" %}](/dotes/arquetipo/improvisador-de-armas/golpe-destrozador-include-accion-html-tipo-libre/) | El arma improvisada se hace añicos, destruyéndola por com... | Arquetipo | Aporreo improvisado |
+| [Golpe destrozador · {% include accion.html tipo="libre" %}](/dotes/arquetipo/improvisador-de-armas/golpe-destrozador/) | El arma improvisada se hace añicos, destruyéndola por com... | Arquetipo | Aporreo improvisado |
 

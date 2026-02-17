@@ -22,7 +22,7 @@ El arquetipo de Envenenador te otorga acceso a nuevas habilidades y talentos esp
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Giro del envenenador · {% include accion.html tipo="1" %}](/dotes/arquetipo/envenenador/giro-del-envenenador-include-accion-html-tipo-1/) | Los venenos atacan partes específicas del cuerpo: uno pue... | Arquetipo | Tu última acción fue un Golpe de melé exitoso que infligió daño contra un objetivo afligido por un veneno, y sabes qué veneno. |
+| [Giro del envenenador · {% include accion.html tipo="1" %}](/dotes/arquetipo/envenenador/giro-del-envenenador/) | Los venenos atacan partes específicas del cuerpo: uno pue... | Arquetipo | Tu última acción fue un Golpe de melé exitoso que infligió daño contra un objetivo afligido por un veneno, y sabes qué veneno. |
 
 ## Nivel 6
 
@@ -35,7 +35,7 @@ El arquetipo de Envenenador te otorga acceso a nuevas habilidades y talentos esp
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Tolerancia adquirida · {% include accion.html tipo="libre" %}](/dotes/arquetipo/envenenador/tolerancia-adquirida-include-accion-html-tipo-libre/) | Una pequeña cantidad de veneno, tomada en dosis no letale... | Arquetipo, Fortuna | Dedicación de Envenenador |
+| [Tolerancia adquirida · {% include accion.html tipo="libre" %}](/dotes/arquetipo/envenenador/tolerancia-adquirida/) | Una pequeña cantidad de veneno, tomada en dosis no letale... | Arquetipo, Fortuna | Dedicación de Envenenador |
 
 ## Nivel 18
 

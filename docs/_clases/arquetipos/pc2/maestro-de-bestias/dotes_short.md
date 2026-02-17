@@ -29,7 +29,7 @@ El arquetipo de Maestro De Bestias te otorga acceso a nuevas habilidades y talen
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Guardián veloz · {% include accion.html tipo="libre" %}](/dotes/arquetipo/maestro-de-bestias/guardian-veloz-include-accion-html-tipo-libre/) | Cuando aparece el peligro, envías rápidamente a tu compañ... | Arquetipo, Concentrar | Dedicación de Maestro de bestias, Llamar compañero |
+| [Guardián veloz · {% include accion.html tipo="libre" %}](/dotes/arquetipo/maestro-de-bestias/guardian-veloz/) | Cuando aparece el peligro, envías rápidamente a tu compañ... | Arquetipo, Concentrar | Dedicación de Maestro de bestias, Llamar compañero |
 | [Trance del maestro de bestias](/dotes/arquetipo/maestro-de-bestias/trance-del-maestro-de-bestias/) | Puedes entrar en un trance que te permite habitar breveme... | Arquetipo | Dedicación de Maestro de bestias |
 
 ## Nivel 8
@@ -48,7 +48,7 @@ El arquetipo de Maestro De Bestias te otorga acceso a nuevas habilidades y talen
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Llamada del maestro de bestias · {% include accion.html tipo="1" %}](/dotes/arquetipo/maestro-de-bestias/llamada-del-maestro-de-bestias-include-accion-html-tipo-1/) | Llamas rápidamente a una proyección primigenia de un comp... | Arquetipo, Auditivo, Concentrar, Primigenio | Dedicación de Maestro de bestias, Llamar compañero |
+| [Llamada del maestro de bestias · {% include accion.html tipo="1" %}](/dotes/arquetipo/maestro-de-bestias/llamada-del-maestro-de-bestias/) | Llamas rápidamente a una proyección primigenia de un comp... | Arquetipo, Auditivo, Concentrar, Primigenio | Dedicación de Maestro de bestias, Llamar compañero |
 
 ## Nivel 14
 

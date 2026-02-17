@@ -22,30 +22,30 @@ El arquetipo de Luchador te otorga acceso a nuevas habilidades y talentos especi
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Giro liberador · {% include accion.html tipo="libre" %}](/dotes/arquetipo/luchador/giro-liberador-include-accion-html-tipo-libre/) | Tu capacidad para retorcer el cuerpo de tus oponentes en ... | Arquetipo | Dedicación de Luchador |
-| [Rompe codos · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/rompe-codos-include-accion-html-tipo-1/) | Doblas el cuerpo o las extremidades de tu oponente en pos... | Arquetipo | Tienes a una criatura agarrada o restringida. |
-| [Suplex · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/suplex-include-accion-html-tipo-1/) | Flexionando todo tu cuerpo, elevas a tu oponente sobre tu... | Arquetipo | Tienes a una criatura agarrada o restringida. |
+| [Giro liberador · {% include accion.html tipo="libre" %}](/dotes/arquetipo/luchador/giro-liberador/) | Tu capacidad para retorcer el cuerpo de tus oponentes en ... | Arquetipo | Dedicación de Luchador |
+| [Rompe codos · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/rompe-codos/) | Doblas el cuerpo o las extremidades de tu oponente en pos... | Arquetipo | Tienes a una criatura agarrada o restringida. |
+| [Suplex · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/suplex/) | Flexionando todo tu cuerpo, elevas a tu oponente sobre tu... | Arquetipo | Tienes a una criatura agarrada o restringida. |
 
 ## Nivel 6
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Golpe de clinch · {% include accion.html tipo="libre" %}](/dotes/arquetipo/luchador/golpe-de-clinch-include-accion-html-tipo-libre/) | Tus oponentes no pueden escapar de tu agarre sin castigo.... | Arquetipo | Dedicación de Luchador |
+| [Golpe de clinch · {% include accion.html tipo="libre" %}](/dotes/arquetipo/luchador/golpe-de-clinch/) | Tus oponentes no pueden escapar de tu agarre sin castigo.... | Arquetipo | Dedicación de Luchador |
 
 ## Nivel 8
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Estrangulación · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/estrangulacion-include-accion-html-tipo-1/) | Exprimes el aliento de tu enemigo. Realiza un Golpe de me... | Arquetipo | Tienes a una criatura agarrada o restringida. |
-| [Llave de rendición · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/llave-de-rendicion-include-accion-html-tipo-1/) | Tu agarre de hierro merma la fuerza de tu oponente. Inten... | Arquetipo | Tienes a una criatura agarrada o restringida. |
-| [Placaje en carrera · {% include accion.html tipo="2" %}](/dotes/arquetipo/luchador/placaje-en-carrera-include-accion-html-tipo-2/) | Cargas, lanzando tu cuerpo contra tu enemigo en un placaj... | Arquetipo | Dedicación de Luchador |
+| [Estrangulación · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/estrangulacion/) | Exprimes el aliento de tu enemigo. Realiza un Golpe de me... | Arquetipo | Tienes a una criatura agarrada o restringida. |
+| [Llave de rendición · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/llave-de-rendicion/) | Tu agarre de hierro merma la fuerza de tu oponente. Inten... | Arquetipo | Tienes a una criatura agarrada o restringida. |
+| [Placaje en carrera · {% include accion.html tipo="2" %}](/dotes/arquetipo/luchador/placaje-en-carrera/) | Cargas, lanzando tu cuerpo contra tu enemigo en un placaj... | Arquetipo | Dedicación de Luchador |
 
 ## Nivel 10
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Martinete aéreo · {% include accion.html tipo="2" %}](/dotes/arquetipo/luchador/martinete-aereo-include-accion-html-tipo-2/) | Elevándote junto a tu oponente en el aire, lo haces estre... | Arquetipo, Ataque | Tienes a una criatura agarrada o restringida. |
-| [Rompecolumnas · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/rompecolumnas-include-accion-html-tipo-1/) | Estrujas a tu oponente en un brutal abrazo de oso, aplica... | Arquetipo | Tienes a una criatura agarrada o restringida. |
+| [Martinete aéreo · {% include accion.html tipo="2" %}](/dotes/arquetipo/luchador/martinete-aereo/) | Elevándote junto a tu oponente en el aire, lo haces estre... | Arquetipo, Ataque | Tienes a una criatura agarrada o restringida. |
+| [Rompecolumnas · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/rompecolumnas/) | Estrujas a tu oponente en un brutal abrazo de oso, aplica... | Arquetipo | Tienes a una criatura agarrada o restringida. |
 
 ## Nivel 12
 
@@ -57,5 +57,5 @@ El arquetipo de Luchador te otorga acceso a nuevas habilidades y talentos especi
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Bloqueo de forma · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/bloqueo-de-forma-include-accion-html-tipo-1/) | Tu capacidad para manipular todo el cuerpo de tu enemigo ... | Arquetipo, Ataque | Tienes a una criatura agarrada o restringida. |
+| [Bloqueo de forma · {% include accion.html tipo="1" %}](/dotes/arquetipo/luchador/bloqueo-de-forma/) | Tu capacidad para manipular todo el cuerpo de tu enemigo ... | Arquetipo, Ataque | Tienes a una criatura agarrada o restringida. |
 

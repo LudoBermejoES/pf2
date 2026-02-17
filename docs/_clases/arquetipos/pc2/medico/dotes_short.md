@@ -22,8 +22,8 @@ El arquetipo de Medico te otorga acceso a nuevas habilidades y talentos especial
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Tratar condición · {% include accion.html tipo="2" %}](/dotes/arquetipo/medico/tratar-condicion-include-accion-html-tipo-2/) | Tratas a una criatura adyacente intentando reducir la con... | Arquetipo, Curación, Manipular, Habilidad | Estás sosteniendo herramientas de sanador, o las llevas puestas y tienes una mano libre. |
-| [Visita del doctor · {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %}](/dotes/arquetipo/medico/visita-del-doctor-include-accion-html-tipo-1-o-include-accion-html-tipo-2/) | Te desplazas para proporcionar atención inmediata a quien... | Arquetipo, Floritura | Dedicación de Médico |
+| [Tratar condición · {% include accion.html tipo="2" %}](/dotes/arquetipo/medico/tratar-condicion/) | Tratas a una criatura adyacente intentando reducir la con... | Arquetipo, Curación, Manipular, Habilidad | Estás sosteniendo herramientas de sanador, o las llevas puestas y tienes una mano libre. |
+| [Visita del doctor · {% include accion.html tipo="1" %} o {% include accion.html tipo="2" %}](/dotes/arquetipo/medico/visita-del-doctor/) | Te desplazas para proporcionar atención inmediata a quien... | Arquetipo, Floritura | Dedicación de Médico |
 
 ## Nivel 6
 
@@ -35,5 +35,5 @@ El arquetipo de Medico te otorga acceso a nuevas habilidades y talentos especial
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Resucitar · {% include accion.html tipo="3" %}](/dotes/arquetipo/medico/resucitar-include-accion-html-tipo-3/) | Resucitas a los muertos. Intenta una prueba de Medicina C... | Arquetipo, Curación, Manipular | Estás sosteniendo herramientas de sanador o las llevas puestas y tienes una mano libre. |
+| [Resucitar · {% include accion.html tipo="3" %}](/dotes/arquetipo/medico/resucitar/) | Resucitas a los muertos. Intenta una prueba de Medicina C... | Arquetipo, Curación, Manipular | Estás sosteniendo herramientas de sanador o las llevas puestas y tienes una mano libre. |
 

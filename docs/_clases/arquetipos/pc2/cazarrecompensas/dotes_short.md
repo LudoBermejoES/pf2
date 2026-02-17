@@ -29,11 +29,11 @@ El arquetipo de Cazarrecompensas te otorga acceso a nuevas habilidades y talento
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Mantener el ritmo · {% include accion.html tipo="libre" %}](/dotes/arquetipo/cazarrecompensas/mantener-el-ritmo-include-accion-html-tipo-libre/) | Una vez que estás sobre tu presa, no puede escapar. Avanz... | Arquetipo | Dedicación de Cazarrecompensas |
+| [Mantener el ritmo · {% include accion.html tipo="libre" %}](/dotes/arquetipo/cazarrecompensas/mantener-el-ritmo/) | Una vez que estás sobre tu presa, no puede escapar. Avanz... | Arquetipo | Dedicación de Cazarrecompensas |
 
 ## Nivel 8
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Agarrón oportunista · {% include accion.html tipo="libre" %}](/dotes/arquetipo/cazarrecompensas/agarron-oportunista-include-accion-html-tipo-libre/) | Aprovechas una apertura para capturar a tu presa. Intenta... | Arquetipo | Tu presa está a tu alcance, tienes una mano libre y tu objetivo no es más de un tamaño mayor que tú. |
+| [Agarrón oportunista · {% include accion.html tipo="libre" %}](/dotes/arquetipo/cazarrecompensas/agarron-oportunista/) | Aprovechas una apertura para capturar a tu presa. Intenta... | Arquetipo | Tu presa está a tu alcance, tienes una mano libre y tu objetivo no es más de un tamaño mayor que tú. |
 

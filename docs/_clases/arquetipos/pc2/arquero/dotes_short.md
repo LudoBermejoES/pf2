@@ -22,23 +22,23 @@ El arquetipo de Arquero te otorga acceso a nuevas habilidades y talentos especia
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Disparo rápido · {% include accion.html tipo="1" %}](/dotes/arquetipo/arquero/disparo-rapido-include-accion-html-tipo-1/) | Desenvainas tu arco y atacas con la misma acción. Interac... | Arquetipo | Dedicación de Arquero |
+| [Disparo rápido · {% include accion.html tipo="1" %}](/dotes/arquetipo/arquero/disparo-rapido/) | Desenvainas tu arco y atacas con la misma acción. Interac... | Arquetipo | Dedicación de Arquero |
 
 ## Nivel 6
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Terror de ballesta · {% include accion.html tipo="1" %}](/dotes/arquetipo/arquero/terror-de-ballesta-include-accion-html-tipo-1/) | Tu pericia con la ballesta infunde terror en tus oponente... | Arquetipo | Dedicación de Arquero |
+| [Terror de ballesta · {% include accion.html tipo="1" %}](/dotes/arquetipo/arquero/terror-de-ballesta/) | Tu pericia con la ballesta infunde terror en tus oponente... | Arquetipo | Dedicación de Arquero |
 
 ## Nivel 8
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Puntería del arquero · {% include accion.html tipo="2" %}](/dotes/arquetipo/arquero/punteria-del-arquero-include-accion-html-tipo-2/) | Te detienes, te concentras y realizas un disparo cuidados... | Arquetipo, Concentrar | Dedicación de Arquero |
+| [Puntería del arquero · {% include accion.html tipo="2" %}](/dotes/arquetipo/arquero/punteria-del-arquero/) | Te detienes, te concentras y realizas un disparo cuidados... | Arquetipo, Concentrar | Dedicación de Arquero |
 
 ## Nivel 10
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Disparo despejado · {% include accion.html tipo="2" %}](/dotes/arquetipo/arquero/disparo-despejado-include-accion-html-tipo-2/) | Con un rápido uso de la fuerza bruta, quitas un obstáculo... | Arquetipo, Floritura | Dedicación de Arquero, experto en Atletismo |
+| [Disparo despejado · {% include accion.html tipo="2" %}](/dotes/arquetipo/arquero/disparo-despejado/) | Con un rápido uso de la fuerza bruta, quitas un obstáculo... | Arquetipo, Floritura | Dedicación de Arquero, experto en Atletismo |
 

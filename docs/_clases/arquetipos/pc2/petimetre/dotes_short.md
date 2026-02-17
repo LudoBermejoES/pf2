@@ -22,7 +22,7 @@ El arquetipo de Petimetre te otorga acceso a nuevas habilidades y talentos espec
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Halago distractor · {% include accion.html tipo="libre" %}](/dotes/arquetipo/petimetre/halago-distractor-include-accion-html-tipo-libre/) | Sabes mantener una buena impresión y gestionar tu imagen ... | Arquetipo, Habilidad | Dedicación de Petimetre, experto en Engaño |
+| [Halago distractor · {% include accion.html tipo="libre" %}](/dotes/arquetipo/petimetre/halago-distractor/) | Sabes mantener una buena impresión y gestionar tu imagen ... | Arquetipo, Habilidad | Dedicación de Petimetre, experto en Engaño |
 | [Saber de chismes](/dotes/arquetipo/petimetre/saber-de-chismes/) | Tu tiempo chismorreando en salones de moda te mantiene in... | Arquetipo | Dedicación de Petimetre |
 
 ## Nivel 7

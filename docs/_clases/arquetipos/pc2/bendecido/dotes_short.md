@@ -28,11 +28,11 @@ El arquetipo de Bendecido te otorga acceso a nuevas habilidades y talentos espec
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Conjuro bendito · {% include accion.html tipo="1" %}](/dotes/arquetipo/bendecido/conjuro-bendito-include-accion-html-tipo-1/) | Cuando enfocas tu magia en un aliado, puedes eliminar con... | Arquetipo, Concentrar, Moldeo de conjuros | Dedicación de Bendecido, capacidad de lanzar conjuros desde espacios, Misericordia |
+| [Conjuro bendito · {% include accion.html tipo="1" %}](/dotes/arquetipo/bendecido/conjuro-bendito/) | Cuando enfocas tu magia en un aliado, puedes eliminar con... | Arquetipo, Concentrar, Moldeo de conjuros | Dedicación de Bendecido, capacidad de lanzar conjuros desde espacios, Misericordia |
 
 ## Nivel 12
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Negación bendita · {% include accion.html tipo="libre" %}](/dotes/arquetipo/bendecido/negacion-bendita-include-accion-html-tipo-libre/) | Irradias paz y protección, mitigando una condición dañina... | Arquetipo | Dedicación de Bendecido |
+| [Negación bendita · {% include accion.html tipo="libre" %}](/dotes/arquetipo/bendecido/negacion-bendita/) | Irradias paz y protección, mitigando una condición dañina... | Arquetipo | Dedicación de Bendecido |
 

@@ -34,7 +34,7 @@ El arquetipo de Centinela te otorga acceso a nuevas habilidades y talentos espec
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Rechazo acorazado · {% include accion.html tipo="libre" %}](/dotes/arquetipo/centinela/rechazo-acorazado-include-accion-html-tipo-libre/) | Rechazas ataques endebles con tu armadura, haciendo retro... | Arquetipo | Llevas armadura media o más pesada. |
+| [Rechazo acorazado · {% include accion.html tipo="libre" %}](/dotes/arquetipo/centinela/rechazo-acorazado/) | Rechazas ataques endebles con tu armadura, haciendo retro... | Arquetipo | Llevas armadura media o más pesada. |
 
 ## Nivel 10
 

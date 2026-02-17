@@ -28,7 +28,7 @@ El arquetipo de Acrobata te otorga acceso a nuevas habilidades y talentos especi
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Esquiva evasiva · {% include accion.html tipo="libre" %}](/dotes/arquetipo/acrobata/esquiva-evasiva-include-accion-html-tipo-libre/) | Usas tu destreza acrobática para evadir un ataque, aprove... | Arquetipo | Estás al tanto del ataque y no estás desprevenido. |
+| [Esquiva evasiva · {% include accion.html tipo="libre" %}](/dotes/arquetipo/acrobata/esquiva-evasiva/) | Usas tu destreza acrobática para evadir un ataque, aprove... | Arquetipo | Estás al tanto del ataque y no estás desprevenido. |
 
 ## Nivel 7
 
@@ -40,11 +40,11 @@ El arquetipo de Acrobata te otorga acceso a nuevas habilidades y talentos especi
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Golpe rodante · {% include accion.html tipo="1" %}](/dotes/arquetipo/acrobata/golpe-rodante-include-accion-html-tipo-1/) | Te zambulles hábilmente por un hueco que deja un enemigo ... | Arquetipo, Floritura, Movimiento | Estás adyacente a un enemigo. |
+| [Golpe rodante · {% include accion.html tipo="1" %}](/dotes/arquetipo/acrobata/golpe-rodante/) | Te zambulles hábilmente por un hueco que deja un enemigo ... | Arquetipo, Floritura, Movimiento | Estás adyacente a un enemigo. |
 
 ## Nivel 10
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Oportunista rodante · {% include accion.html tipo="libre" %}](/dotes/arquetipo/acrobata/oportunista-rodante-include-accion-html-tipo-libre/) | Usas un estallido de resistencia para realizar una acroba... | Arquetipo, Ataque | Tu acción más reciente fue Rodar a través o Golpe rodante, y te moviste con éxito a través del espacio de un enemigo. |
+| [Oportunista rodante · {% include accion.html tipo="libre" %}](/dotes/arquetipo/acrobata/oportunista-rodante/) | Usas un estallido de resistencia para realizar una acroba... | Arquetipo, Ataque | Tu acción más reciente fue Rodar a través o Golpe rodante, y te moviste con éxito a través del espacio de un enemigo. |
 

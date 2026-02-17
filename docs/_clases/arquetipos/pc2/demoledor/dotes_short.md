@@ -22,23 +22,23 @@ El arquetipo de Demoledor te otorga acceso a nuevas habilidades y talentos espec
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Abrir paso · {% include accion.html tipo="2" %}](/dotes/arquetipo/demoledor/abrir-paso-include-accion-html-tipo-2/) | Pones tu cuerpo tras tu arma masiva y la haces girar, emp... | Arquetipo | Estás empuñando un arma de melé a dos manos. |
+| [Abrir paso · {% include accion.html tipo="2" %}](/dotes/arquetipo/demoledor/abrir-paso/) | Pones tu cuerpo tras tu arma masiva y la haces girar, emp... | Arquetipo | Estás empuñando un arma de melé a dos manos. |
 
 ## Nivel 8
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Barrido de empuje · {% include accion.html tipo="libre" %}](/dotes/arquetipo/demoledor/barrido-de-empuje-include-accion-html-tipo-libre/) | Balanceas tu arma contra tu enemigo, rechazándolo hacia a... | Arquetipo | Estás empuñando un arma de melé a dos manos. |
+| [Barrido de empuje · {% include accion.html tipo="libre" %}](/dotes/arquetipo/demoledor/barrido-de-empuje/) | Balanceas tu arma contra tu enemigo, rechazándolo hacia a... | Arquetipo | Estás empuñando un arma de melé a dos manos. |
 
 ## Nivel 14
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Martillazo sísmico · {% include accion.html tipo="3" %}](/dotes/arquetipo/demoledor/martillazo-sismico-include-accion-html-tipo-3/) | Golpeas el suelo con tu arma, derribando a las criaturas ... | Arquetipo, Floritura | Estás empuñando un arma de melé no sutil a dos manos. |
+| [Martillazo sísmico · {% include accion.html tipo="3" %}](/dotes/arquetipo/demoledor/martillazo-sismico/) | Golpeas el suelo con tu arma, derribando a las criaturas ... | Arquetipo, Floritura | Estás empuñando un arma de melé no sutil a dos manos. |
 
 ## Nivel 16
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Golpe de avalancha · {% include accion.html tipo="3" %}](/dotes/arquetipo/demoledor/golpe-de-avalancha-include-accion-html-tipo-3/) | Atacas a todos los adversarios cercanos. Realiza un Golpe... | Arquetipo, Floritura | Estás empuñando un arma de melé a dos manos. |
+| [Golpe de avalancha · {% include accion.html tipo="3" %}](/dotes/arquetipo/demoledor/golpe-de-avalancha/) | Atacas a todos los adversarios cercanos. Realiza un Golpe... | Arquetipo, Floritura | Estás empuñando un arma de melé a dos manos. |
 

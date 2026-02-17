@@ -23,19 +23,19 @@ El arquetipo de Guerrero De Armas Dobles te otorga acceso a nuevas habilidades y
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Lanzador dual](/dotes/arquetipo/guerrero-de-armas-dobles/lanzador-dual/) | Sabes lanzar dos armas con la misma facilidad que golpear... | Arquetipo | Dedicación de Guerrero de armas dobles |
-| [Recarga dual · {% include accion.html tipo="1" %}](/dotes/arquetipo/guerrero-de-armas-dobles/recarga-dual-include-accion-html-tipo-1/) | Llevas tu munición de manera que te permite recargar mien... | Arquetipo | Dedicación de Guerrero de armas dobles |
+| [Recarga dual · {% include accion.html tipo="1" %}](/dotes/arquetipo/guerrero-de-armas-dobles/recarga-dual/) | Llevas tu munición de manera que te permite recargar mien... | Arquetipo | Dedicación de Guerrero de armas dobles |
 
 ## Nivel 8
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Corte desollante · {% include accion.html tipo="1" %}](/dotes/arquetipo/guerrero-de-armas-dobles/corte-desollante-include-accion-html-tipo-1/) | Cuando golpeas con ambos ataques de Tajo doble, desuellas... | Arquetipo | Tu última acción fue un Tajo doble, y ambos ataques impactaron al objetivo. |
+| [Corte desollante · {% include accion.html tipo="1" %}](/dotes/arquetipo/guerrero-de-armas-dobles/corte-desollante/) | Cuando golpeas con ambos ataques de Tajo doble, desuellas... | Arquetipo | Tu última acción fue un Tajo doble, y ambos ataques impactaron al objetivo. |
 
 ## Nivel 10
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Blitz de armas dobles · {% include accion.html tipo="2" %}](/dotes/arquetipo/guerrero-de-armas-dobles/blitz-de-armas-dobles-include-accion-html-tipo-2/) | Atacas mientras te abres paso por el campo de batalla. Av... | Arquetipo | Estás empuñando dos armas de melé de una mano, cada una en una mano distinta. |
+| [Blitz de armas dobles · {% include accion.html tipo="2" %}](/dotes/arquetipo/guerrero-de-armas-dobles/blitz-de-armas-dobles/) | Atacas mientras te abres paso por el campo de batalla. Av... | Arquetipo | Estás empuñando dos armas de melé de una mano, cada una en una mano distinta. |
 
 ## Nivel 14
 

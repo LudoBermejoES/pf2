@@ -35,5 +35,5 @@ El arquetipo de Asesino te otorga acceso a nuevas habilidades y talentos especia
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Asesinar · {% include accion.html tipo="2" %}](/dotes/arquetipo/asesino/asesinar-include-accion-html-tipo-2/) | Atacas con un movimiento veloz, intentando matar instantá... | Arquetipo | Has designado una marca usando Marca de muerte y tu marca no se ha percatado de tu presencia. |
+| [Asesinar · {% include accion.html tipo="2" %}](/dotes/arquetipo/asesino/asesinar/) | Atacas con un movimiento veloz, intentando matar instantá... | Arquetipo | Has designado una marca usando Marca de muerte y tu marca no se ha percatado de tu presencia. |
 

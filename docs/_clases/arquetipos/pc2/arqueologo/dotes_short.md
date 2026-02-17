@@ -35,7 +35,7 @@ El arquetipo de Arqueologo te otorga acceso a nuevas habilidades y talentos espe
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Suerte del arqueólogo · {% include accion.html tipo="libre" %}](/dotes/arquetipo/arqueologo/suerte-del-arqueologo-include-accion-html-tipo-libre/) | Eres más que habilidoso; tu impulso por encontrar los sec... | Arquetipo, Fortuna | Dedicación de Arqueólogo |
+| [Suerte del arqueólogo · {% include accion.html tipo="libre" %}](/dotes/arquetipo/arqueologo/suerte-del-arqueologo/) | Eres más que habilidoso; tu impulso por encontrar los sec... | Arquetipo, Fortuna | Dedicación de Arqueólogo |
 
 ## Nivel 10
 

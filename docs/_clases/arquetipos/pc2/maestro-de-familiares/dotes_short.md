@@ -22,7 +22,7 @@ El arquetipo de Maestro De Familiares te otorga acceso a nuevas habilidades y ta
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Canalizador familiar · {% include accion.html tipo="1" %}](/dotes/arquetipo/maestro-de-familiares/canalizador-familiar-include-accion-html-tipo-1/) | Bajo tu tutela, tu familiar se ha sintonizado con las cor... | Arquetipo, Concentrar, Moldeo de conjuros | Tienes línea de efecto hacia tu familiar. |
+| [Canalizador familiar · {% include accion.html tipo="1" %}](/dotes/arquetipo/maestro-de-familiares/canalizador-familiar/) | Bajo tu tutela, tu familiar se ha sintonizado con las cor... | Arquetipo, Concentrar, Moldeo de conjuros | Tienes línea de efecto hacia tu familiar. |
 | [Mascota familiar](/dotes/arquetipo/maestro-de-familiares/mascota-familiar/) | Al seleccionar habilidades de amo, puedes elegir a un ali... | Arquetipo | Dedicación de Maestro de familiares |
 
 ## Nivel 6

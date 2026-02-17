@@ -29,5 +29,5 @@ El arquetipo de Pirata te otorga acceso a nuevas habilidades y talentos especial
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Caminar por la tabla · {% include accion.html tipo="2" %}](/dotes/arquetipo/pirata/caminar-por-la-tabla-include-accion-html-tipo-2/) | Asustas a un enemigo para que se mueva donde deseas, trad... | Arquetipo | Dedicación de Pirata |
+| [Caminar por la tabla · {% include accion.html tipo="2" %}](/dotes/arquetipo/pirata/caminar-por-la-tabla/) | Asustas a un enemigo para que se mueva donde deseas, trad... | Arquetipo | Dedicación de Pirata |
 

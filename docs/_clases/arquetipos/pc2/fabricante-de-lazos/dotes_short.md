@@ -22,7 +22,7 @@ El arquetipo de Fabricante De Lazos te otorga acceso a nuevas habilidades y tale
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Lazo sorpresa · {% include accion.html tipo="3" %}](/dotes/arquetipo/fabricante-de-lazos/lazo-sorpresa-include-accion-html-tipo-3/) | Instalas un lazo preparado para despliegue en un espacio ... | Arquetipo, Manipular | Dedicación de Fabricante de lazos |
+| [Lazo sorpresa · {% include accion.html tipo="3" %}](/dotes/arquetipo/fabricante-de-lazos/lazo-sorpresa/) | Instalas un lazo preparado para despliegue en un espacio ... | Arquetipo, Manipular | Dedicación de Fabricante de lazos |
 
 ## Nivel 6
 

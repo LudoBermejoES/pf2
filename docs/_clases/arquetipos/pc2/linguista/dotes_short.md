@@ -24,7 +24,7 @@ El arquetipo de Linguista te otorga acceso a nuevas habilidades y talentos espec
 |------|-------------|--------|------------|
 | [Cifrado multilingüe](/dotes/arquetipo/linguista/cifrado-multilingue/) | Usas múltiples idiomas para crear y romper códigos. Obtie... | Arquetipo, Habilidad | Dedicación de Lingüista, experto en Sociedad |
 | [Entrenamiento fonético](/dotes/arquetipo/linguista/entrenamiento-fonetico/) | Puedes pronunciar y repetir palabras con una precisión ca... | Arquetipo, Habilidad | Dedicación de Lingüista, experto en Sociedad |
-| [Traducción instantánea · {% include accion.html tipo="libre" %}](/dotes/arquetipo/linguista/traduccion-instantanea-include-accion-html-tipo-libre/) | Salvas una brecha de idioma, repitiendo el mensaje en otr... | Arquetipo, Auditivo, Lingüístico | Dedicación de Lingüista |
+| [Traducción instantánea · {% include accion.html tipo="libre" %}](/dotes/arquetipo/linguista/traduccion-instantanea/) | Salvas una brecha de idioma, repitiendo el mensaje en otr... | Arquetipo, Auditivo, Lingüístico | Dedicación de Lingüista |
 
 ## Nivel 6
 

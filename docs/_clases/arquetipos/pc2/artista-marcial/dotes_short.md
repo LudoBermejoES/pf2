@@ -22,17 +22,17 @@ El arquetipo de Artista Marcial te otorga acceso a nuevas habilidades y talentos
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Golpe de seguimiento · {% include accion.html tipo="1" %}](/dotes/arquetipo/artista-marcial/golpe-de-seguimiento-include-accion-html-tipo-1/) | Te has entrenado rigurosamente para usar todas las partes... | Arquetipo, Floritura | Tu última acción fue un Golpe fallido con un ataque desarmado de melé. |
+| [Golpe de seguimiento · {% include accion.html tipo="1" %}](/dotes/arquetipo/artista-marcial/golpe-de-seguimiento/) | Te has entrenado rigurosamente para usar todas las partes... | Arquetipo, Floritura | Tu última acción fue un Golpe fallido con un ataque desarmado de melé. |
 
 ## Nivel 8
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Golpe atroz · {% include accion.html tipo="2" %}](/dotes/arquetipo/artista-marcial/golpe-atroz-include-accion-html-tipo-2/) | Sabes cómo asestar golpes concentrados y poderosos que el... | Arquetipo, Floritura | Dedicación de Artista marcial |
+| [Golpe atroz · {% include accion.html tipo="2" %}](/dotes/arquetipo/artista-marcial/golpe-atroz/) | Sabes cómo asestar golpes concentrados y poderosos que el... | Arquetipo, Floritura | Dedicación de Artista marcial |
 
 ## Nivel 14
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Sendero de hierro · {% include accion.html tipo="3" %}](/dotes/arquetipo/artista-marcial/sendero-de-hierro-include-accion-html-tipo-3/) | Con un estallido de esfuerzo y velocidad, tejes un camino... | Arquetipo, Floritura | Dedicación de Artista marcial |
+| [Sendero de hierro · {% include accion.html tipo="3" %}](/dotes/arquetipo/artista-marcial/sendero-de-hierro/) | Con un estallido de esfuerzo y velocidad, tejes un camino... | Arquetipo, Floritura | Dedicación de Artista marcial |
 

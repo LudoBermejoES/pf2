@@ -22,7 +22,7 @@ El arquetipo de Gladiador te otorga acceso a nuevas habilidades y talentos espec
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Complacer a la multitud · {% include accion.html tipo="libre" %}](/dotes/arquetipo/gladiador/complacer-a-la-multitud-include-accion-html-tipo-libre/) | Te luces ante el público. Intenta una prueba de Interpret... | Arquetipo, Concentrar | Dedicación de Gladiador |
+| [Complacer a la multitud · {% include accion.html tipo="libre" %}](/dotes/arquetipo/gladiador/complacer-a-la-multitud/) | Te luces ante el público. Intenta una prueba de Interpret... | Arquetipo, Concentrar | Dedicación de Gladiador |
 | [Lucha escénica](/dotes/arquetipo/gladiador/lucha-escenica/) | Contienes los golpes para dar un mejor espectáculo. No re... | Arquetipo | Dedicación de Gladiador |
 | [Movimientos elegantes](/dotes/arquetipo/gladiador/movimientos-elegantes/) | Presumes tu estilo de lucha para desanimar a tus enemigos... | Arquetipo, Habilidad | Dedicación de Gladiador, experto en Interpretación |
 

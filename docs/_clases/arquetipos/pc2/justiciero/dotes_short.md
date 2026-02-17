@@ -31,7 +31,7 @@ El arquetipo de Justiciero te otorga acceso a nuevas habilidades y talentos espe
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Aparición desconcertante · {% include accion.html tipo="1" %}](/dotes/arquetipo/justiciero/aparicion-desconcertante-include-accion-html-tipo-1/) | Puedes sobresaltar a enemigos que no son conscientes de t... | Arquetipo, Emoción, Miedo, Mental, Justiciero | Estás inadvertido por la criatura objetivo. |
+| [Aparición desconcertante · {% include accion.html tipo="1" %}](/dotes/arquetipo/justiciero/aparicion-desconcertante/) | Puedes sobresaltar a enemigos que no son conscientes de t... | Arquetipo, Emoción, Miedo, Mental, Justiciero | Estás inadvertido por la criatura objetivo. |
 
 ## Nivel 7
 

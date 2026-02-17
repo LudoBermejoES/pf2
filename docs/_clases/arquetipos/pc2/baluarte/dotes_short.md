@@ -22,7 +22,7 @@ El arquetipo de Baluarte te otorga acceso a nuevas habilidades y talentos especi
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Bloqueo desarmante · {% include accion.html tipo="libre" %}](/dotes/arquetipo/baluarte/bloqueo-desarmante-include-accion-html-tipo-libre/) | Con un movimiento diestro y practicado, bloqueas en ángul... | Arquetipo | Dedicación de Baluarte, entrenado en Atletismo |
+| [Bloqueo desarmante · {% include accion.html tipo="libre" %}](/dotes/arquetipo/baluarte/bloqueo-desarmante/) | Con un movimiento diestro y practicado, bloqueas en ángul... | Arquetipo | Dedicación de Baluarte, entrenado en Atletismo |
 
 ## Nivel 6
 
