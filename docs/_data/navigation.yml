@@ -245,11 +245,11 @@ sidebar:
       - title: "Introducción"
         url: /dotes/
       - title: "Dotes de Ascendencia"
-        url: /dotes/dotes-ascendencias/
+        url: /dotes/ascendencias/
       - title: "Dotes de Clase"
-        url: /dotes/dotes-clases/
+        url: /dotes/clases/
       - title: "Dotes de Arquetipo"
-        url: /dotes/dotes-arquetipos/
+        url: /dotes/arquetipos/
       - title: "Dotes Generales"
         url: /dotes/generales/
       - title: "Dotes de Habilidad"
