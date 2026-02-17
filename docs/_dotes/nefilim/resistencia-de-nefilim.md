@@ -10,7 +10,7 @@ level: 5
 
 ## Resistencia de nefilim
 
-**Dote 5** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 Resistes a la energía como tus predecesores extraplanarios.
 

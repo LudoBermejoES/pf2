@@ -10,7 +10,7 @@ level: 5
 
 ## Convocado
 
-**Dote 5** · Changeling
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
 Has oído la Llamada, y al resistirte constantemente a ella has alzado un baluarte contra los efectos que tienen tu mente como objetivo.
 

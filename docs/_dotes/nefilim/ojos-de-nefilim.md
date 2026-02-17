@@ -10,7 +10,7 @@ level: 1
 
 ## Ojos de nefilim
 
-**Dote 1** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 **Prerrequisitos:** Visión en la penumbra
 

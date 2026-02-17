@@ -10,7 +10,7 @@ level: 5
 
 ## Hijo de la bruma
 
-**Dote 5** · Changeling
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
 Te camuflas con una sutileza antinatural.
 

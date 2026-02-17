@@ -10,7 +10,7 @@ level: 1
 
 ## Pezuñas ágiles
 
-**Dote 1** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 Dispones de pezuñas, alas en los tobillos o cualquier otro rasgo que acelera tu movimiento.
 

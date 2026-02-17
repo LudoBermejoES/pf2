@@ -10,7 +10,7 @@ level: 1
 
 ## Pacificador monstruoso
 
-**Dote 1** · Dromaar
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dromaar/" class="feat-trait">Dromaar</a></div>
 
 Tu naturaleza dual de humano y orco te ha otorgado una perspectiva única, permitiéndote cruzar la brecha entre los humanos y las muchas criaturas inteligentes del mundo a las que los humanos consideran monstruos.
 

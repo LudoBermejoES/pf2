@@ -10,7 +10,7 @@ level: 1
 
 ## Vista de orco
 
-**Dote 1** · Dromaar
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dromaar/" class="feat-trait">Dromaar</a></div>
 
 **Prerrequisitos:** Visión en la penumbra
 

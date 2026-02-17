@@ -4,13 +4,13 @@ permalink: /dotes/aiuvarin/encanto-sobrenatural/
 title: Encanto sobrenatural
 chapter: Dotes
 category: dotes
-herencia_versatil: Ascendencia Mixta
+herencia_versatil: Aiuvarin
 level: 5
 ---
 
 ## Encanto sobrenatural
 
-**Dote 5** · Aiuvarin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aiuvarin/" class="feat-trait">Aiuvarin</a></div>
 
 La magia élfica de tu sangre se manifiesta como una fuerza que puedes utilizar para hacerte más atractivo o seductor.
 

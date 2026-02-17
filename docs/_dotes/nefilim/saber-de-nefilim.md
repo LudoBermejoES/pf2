@@ -10,7 +10,7 @@ level: 1
 
 ## Saber de nefilim
 
-**Dote 1** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 Conoces los secretos del Multiverso.
 

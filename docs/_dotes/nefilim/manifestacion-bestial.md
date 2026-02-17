@@ -10,7 +10,7 @@ level: 1
 
 ## Manifestación bestial
 
-**Dote 1** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 Parte de tu cuerpo tiene una influencia animalística debida a una criatura planaria. Tus manos acaban en garras, tienes pezuñas en lugar de pies, afilados dientes llenan tu boca o una cola se extiende de tu espina dorsal.
 

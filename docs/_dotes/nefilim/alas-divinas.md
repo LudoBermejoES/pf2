@@ -10,7 +10,7 @@ level: 9
 
 ## Alas divinas
 
-**Dote 9** · Divino, Morfismo, Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/morfismo/" class="feat-trait">Morfismo</a><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 **Frecuencia:** Una vez al día
 

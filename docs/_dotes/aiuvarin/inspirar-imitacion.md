@@ -4,13 +4,13 @@ permalink: /dotes/aiuvarin/inspirar-imitacion/
 title: Inspirar imitación
 chapter: Dotes
 category: dotes
-herencia_versatil: Ascendencia Mixta
+herencia_versatil: Aiuvarin
 level: 5
 ---
 
 ## Inspirar imitación
 
-**Dote 5** · Aiuvarin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aiuvarin/" class="feat-trait">Aiuvarin</a></div>
 
 Tus acciones inspiran a tus aliados a grandes logros.
 

@@ -10,7 +10,7 @@ level: 17
 
 ## Declaración divina
 
-**Dote 17** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 Puedes pronunciar una palabra sagrada o sacrílega procedente de los reinos que hay más allá para castigar a tus enemigos.
 

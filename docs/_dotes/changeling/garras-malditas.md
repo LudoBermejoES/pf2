@@ -10,7 +10,7 @@ level: 9
 
 ## Garras malditas
 
-**Dote 9** · Changeling
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
 **Prerrequisito:** Ataque sin armas de garra
 

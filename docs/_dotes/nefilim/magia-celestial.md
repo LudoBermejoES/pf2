@@ -10,7 +10,7 @@ level: 9
 
 ## Magia celestial
 
-**Dote 9** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 **Prerrequisitos:** Angélico, Legislador, Tocado por las musas o cualquier dote de linaje asociada con los celestiales.
 

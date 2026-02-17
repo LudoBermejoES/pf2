@@ -4,13 +4,13 @@ permalink: /dotes/aiuvarin/gloria-merecida/
 title: Gloria merecida
 chapter: Dotes
 category: dotes
-herencia_versatil: Ascendencia Mixta
+herencia_versatil: Aiuvarin
 level: 1
 ---
 
 ## Gloria merecida
 
-**Dote 1** · Aiuvarin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aiuvarin/" class="feat-trait">Aiuvarin</a></div>
 
 Los elfos a menudo tienden a subestimar a los aiuvarins, y tienes experiencia en relatar historias de tus logros para ganarte su respeto.
 

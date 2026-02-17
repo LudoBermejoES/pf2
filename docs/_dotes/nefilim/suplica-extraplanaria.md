@@ -10,7 +10,7 @@ level: 5
 
 ## Súplica extraplanaria
 
-**Dote 5** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 Llamas al poder divino para que bendiga a tus aliados o maldiga a tus enemigos.
 

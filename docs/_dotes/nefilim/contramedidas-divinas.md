@@ -10,7 +10,7 @@ level: 9
 
 ## Contramedidas divinas
 
-**Dote 9** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 Has estudiado tu herencia extraplanaria con el intento de defenderte mejor, ya sea contra criaturas alineadas con tu linaje extraplanario u opuestas al mismo.
 

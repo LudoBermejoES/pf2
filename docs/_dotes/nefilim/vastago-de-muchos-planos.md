@@ -10,7 +10,7 @@ level: 5
 
 ## Vástago de muchos planos
 
-**Dote 5** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 La larga y complicada historia de tu linaje se manifiesta en tu capacidad para extraer poder de más fuentes planarias que la mayoría de otros nefilim.
 

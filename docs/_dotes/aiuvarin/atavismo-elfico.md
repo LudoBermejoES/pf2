@@ -4,13 +4,13 @@ permalink: /dotes/aiuvarin/atavismo-elfico/
 title: Atavismo élfico
 chapter: Dotes
 category: dotes
-herencia_versatil: Ascendencia Mixta
+herencia_versatil: Aiuvarin
 level: 1
 ---
 
 ## Atavismo élfico
 
-**Dote 1** · Aiuvarin
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aiuvarin/" class="feat-trait">Aiuvarin</a></div>
 
 Tu sangre elfa es particularmente fuerte, concediéndote rasgos mucho más élficos que los de un aiuvarin típico. También podrías haber sido criado entre elfos, sumergido en la herencia de tus antepasados elfos.
 

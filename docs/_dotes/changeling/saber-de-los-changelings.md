@@ -10,7 +10,7 @@ level: 1
 
 ## Saber de los changelings
 
-**Dote 1** · Changeling
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
 Muy consciente de tu verdadera naturaleza, has estudiado a las sagas y sus poderes.
 

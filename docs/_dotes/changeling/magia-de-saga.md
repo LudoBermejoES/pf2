@@ -10,7 +10,7 @@ level: 13
 
 ## Magia de saga
 
-**Dote 13** · Changeling
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
 Gracias a tu herencia, puedes replicar parte de la magia de una saga.
 

@@ -10,7 +10,7 @@ level: 5
 
 ## Sangre bendita
 
-**Dote 5** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 Tu sangre recién derramada está santificada, con efectos similares a los del agua bendita.
 

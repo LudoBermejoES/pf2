@@ -10,7 +10,7 @@ level: 17
 
 ## Alas eternas
 
-**Dote 17** · Nefilim
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
 **Prerrequisitos:** Alas divinas
 
