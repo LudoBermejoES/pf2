@@ -44,28 +44,19 @@ def load_fonts(base_path):
 
 def draw_rounded_rectangle(draw, box, radius, fill, outline=None, width=1):
     """Dibuja un rectángulo con esquinas redondeadas"""
-    x1, y1, x2, y2 = box
-
-    # Dibujar rectángulo principal
-    draw.rectangle([x1 + radius, y1, x2 - radius, y2], fill=fill, outline=None)
-    draw.rectangle([x1, y1 + radius, x2, y2 - radius], fill=fill, outline=None)
-
-    # Dibujar esquinas redondeadas
-    draw.pieslice([x1, y1, x1 + radius * 2, y1 + radius * 2], 180, 270, fill=fill)
-    draw.pieslice([x2 - radius * 2, y1, x2, y1 + radius * 2], 270, 360, fill=fill)
-    draw.pieslice([x1, y2 - radius * 2, x1 + radius * 2, y2], 90, 180, fill=fill)
-    draw.pieslice([x2 - radius * 2, y2 - radius * 2, x2, y2], 0, 90, fill=fill)
-
-    # Dibujar borde si se especifica
-    if outline and width > 0:
-        draw.arc([x1, y1, x1 + radius * 2, y1 + radius * 2], 180, 270, fill=outline, width=width)
-        draw.arc([x2 - radius * 2, y1, x2, y1 + radius * 2], 270, 360, fill=outline, width=width)
-        draw.arc([x1, y2 - radius * 2, x1 + radius * 2, y2], 90, 180, fill=outline, width=width)
-        draw.arc([x2 - radius * 2, y2 - radius * 2, x2, y2], 0, 90, fill=outline, width=width)
-        draw.line([x1 + radius, y1, x2 - radius, y1], fill=outline, width=width)
-        draw.line([x1 + radius, y2, x2 - radius, y2], fill=outline, width=width)
-        draw.line([x1, y1 + radius, x1, y2 - radius], fill=outline, width=width)
-        draw.line([x2, y1 + radius, x2, y2 - radius], fill=outline, width=width)
+    # Usar el método rounded_rectangle nativo de PIL que maneja esquinas correctamente
+    if fill and outline:
+        # Dibujar fondo primero, luego borde
+        draw.rounded_rectangle(box, radius=radius, fill=fill, outline=outline, width=width)
+    elif fill:
+        # Solo relleno
+        draw.rounded_rectangle(box, radius=radius, fill=fill, outline=None)
+    elif outline:
+        # Solo borde
+        draw.rounded_rectangle(box, radius=radius, fill=None, outline=outline, width=width)
+    else:
+        # Nada que dibujar
+        pass
 
 
 def wrap_text(text, font, max_width, draw):
@@ -288,7 +279,7 @@ def generate_all_cards(feats_json_path, output_dir, fonts):
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    print(f"🎴 Generando {len(feats)} cartas...\n")
+    print(f"Generando {len(feats)} cartas...\n")
 
     success_count = 0
     error_count = 0
@@ -307,7 +298,7 @@ def generate_all_cards(feats_json_path, output_dir, fonts):
 
     print(f"\nOK Generadas {success_count} cartas exitosamente")
     if error_count > 0:
-        print(f"ADVERTENCIA  {error_count} errores durante la generación")
+        print(f"ADVERTENCIA {error_count} errores durante la generacion")
 
     return success_count, error_count
 
@@ -321,7 +312,7 @@ if __name__ == '__main__':
     base_path = Path(__file__).parent
 
     # Cargar fuentes
-    print("📚 Cargando fuentes...")
+    print("Cargando fuentes...")
     fonts = load_fonts(base_path)
 
     # Generar cartas
@@ -336,5 +327,5 @@ if __name__ == '__main__':
     success, errors = generate_all_cards(feats_json, output_dir, fonts)
 
     print("\n" + "=" * 60)
-    print(" Generación completada")
+    print("Generacion completada")
     print("=" * 60)
