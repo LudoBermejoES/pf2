@@ -7,6 +7,9 @@ layout: default
   {% endif %}
   <h1>
     {{ page.title }}
+    {% if page.level %}
+    <span class="level-badge">Nivel {{ page.level }}</span>
+    {% endif %}
     {% if page.source %}
     <span class="source-badge {% if page.source == 'PC2' %}pc2{% elsif page.source == 'PC1' %}pc1{% else %}pc1-pc2{% endif %}">{{ page.source }}</span>
     {% endif %}

@@ -1615,6 +1615,24 @@ tbody tr:last-child td {
   border-color: #e65100;
 }
 
+/* Level Badge - Feat level indicator */
+.level-badge {
+  display: inline-block;
+  margin-left: var(--spacing-md);
+  padding: 0.35rem 0.7rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 3px;
+  border: 1px solid;
+  vertical-align: middle;
+  font-family: var(--font-display);
+  background-color: #fef4e6;
+  color: var(--pf-gold-dark);
+  border-color: var(--pf-gold);
+}
+
 /* ============================================
    ACTION ICONS - Pathfinder 2e Actions
    Las imágenes están definidas aquí como background.
