@@ -78,3 +78,8 @@ La mayoría de los catfolk creen que fueron elevados a partir de grandes felinos
 ### Anatemas populares
 
 - Dejar preguntas sin respuesta
+
+## Selecciones relacionadas
+
+- [Dotes](/ascendencias/catfolk/dotes_short/)
+- [Herencias]({{ '/ascendencias/catfolk/herencias/' | relative_url }})

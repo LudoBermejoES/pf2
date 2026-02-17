@@ -75,3 +75,8 @@ Los tengu suelen seguir la fe de la región en la que se criaron, aunque la deid
 ### Anatemas populares
 
 - Perder el control de tus emociones
+
+## Selecciones relacionadas
+
+- [Dotes](/ascendencias/tengu/dotes_short/)
+- [Herencias]({{ '/ascendencias/tengu/herencias/' | relative_url }})

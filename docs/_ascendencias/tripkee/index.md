@@ -76,3 +76,8 @@ Enseñados a esperar, observar y respetar los procesos naturales de la vida y la
 
 - Crear arquitectura que suplante el mundo natural
 - Tomar acciones precipitadas que traigan riesgo para tu comunidad
+
+## Selecciones relacionadas
+
+- [Dotes](/ascendencias/tripkee/dotes_short/)
+- [Herencias]({{ '/ascendencias/tripkee/herencias/' | relative_url }})

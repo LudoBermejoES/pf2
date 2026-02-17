@@ -80,3 +80,8 @@ Aunque los ysoki veneran a sus ancestros y tienden a reconocer a cualquier deida
 ### Anatemas populares
 
 - Tirar algo que podría ser útil
+
+## Selecciones relacionadas
+
+- [Dotes](/ascendencias/ratfolk/dotes_short/)
+- [Herencias]({{ '/ascendencias/ratfolk/herencias/' | relative_url }})

@@ -79,3 +79,8 @@ Muchos kholos rinden homenaje a Lamashtu, tanto como la creadora de su pueblo co
 
 - Arriesgarte a ti mismo o a tus compañeros de manada sin razón
 - Dejar que un kholo muerto o un ser querido se pudra como carroña
+
+## Selecciones relacionadas
+
+- [Dotes](/ascendencias/kholo/dotes_short/)
+- [Herencias]({{ '/ascendencias/kholo/herencias/' | relative_url }})

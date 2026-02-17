@@ -75,3 +75,8 @@ La religión organizada se siente natural para la mayoría de kobolds. A menudo 
 
 - Enfrentarte a una amenaza en solitario
 - Tirar la cautela por la ventana
+
+## Selecciones relacionadas
+
+- [Dotes](/ascendencias/kobold/dotes_short/)
+- [Herencias]({{ '/ascendencias/kobold/herencias/' | relative_url }})
