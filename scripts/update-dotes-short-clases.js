@@ -58,11 +58,18 @@ function extractFeatInfo(filePath) {
       continue;
     }
 
-    // Extract requirements
-    if (line.match(/\*\*(Requisitos?|Prerrequisitos?|Requirements?):/i)) {
-      const reqMatch = line.match(/\*\*(Requisitos?|Prerrequisitos?|Requirements?):\*\*\s*(.+)/i);
+    // Extract requirements (con o sin dos puntos después de **)
+    if (line.match(/\*\*(Requisitos?|Prerrequisitos?|Requirements?)/i)) {
+      // Formato 1: **Prerequisitos:** texto
+      let reqMatch = line.match(/\*\*(Requisitos?|Prerrequisitos?|Requirements?):\*\*\s*(.+)/i);
       if (reqMatch) {
         requirements = reqMatch[2].trim();
+      } else {
+        // Formato 2: **Prerequisitos** texto
+        reqMatch = line.match(/\*\*(Requisitos?|Prerrequisitos?|Requirements?)\*\*\s+(.+)/i);
+        if (reqMatch) {
+          requirements = reqMatch[2].trim();
+        }
       }
       continue;
     }

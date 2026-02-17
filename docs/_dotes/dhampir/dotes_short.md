@@ -15,34 +15,35 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Colmillos](/dotes/dhampir/colmillos/) | Obtienes un ataque de colmillo 1d6 perforante (grupo pelea, rasgos agarrar, desarmado). | Dhampir | — |
-| [Ojos de la noche](/dotes/dhampir/ojos-de-la-noche/) | Ganas visión en la oscuridad. | Dhampir | — |
-| [Saber sobre vampiros](/dotes/dhampir/saber-sobre-vampiros/) | Entrenas Religión y Sociedad y obtienes la dote general Saber (vampiros). | Dhampir | — |
-| [Voz de la noche](/dotes/dhampir/voz-de-la-noche/) | Hablas y haces Diplomacia con murciélagos, ratas y lobos, y ganas +1 circunstancial para impresionarlos. | Dhampir | — |
+| [Colmillos](/dotes/dhampir/colmillos/) | Tus incisivos han crecido hasta convertirse en verdaderos... | Dhampir | — |
+| [Ojos de la noche](/dotes/dhampir/ojos-de-la-noche/) | Puedes ver en la oscuridad tan fácilmente como un vampiro... | Dhampir | — |
+| [Saber sobre vampiros](/dotes/dhampir/saber-sobre-vampiros/) | Fuiste criado por tu progenitor vampírico, o has invertid... | Dhampir | — |
+| [Voz de la noche](/dotes/dhampir/voz-de-la-noche/) | Oyes y entiendes las palabras de las criaturas con las qu... | Dhampir | — |
 
 ## Nivel 5
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Cazador de no muertos](/dotes/dhampir/cazador-de-no-muertos/) | Contra no muertos haces daño adicional igual al número de dados de daño (doble si tienen el rasgo vampiro). | Dhampir | — |
-| [Fascinación cautivadora](/dotes/dhampir/fascinacion-cautivadora/) | Lanzas *encantar* divino 1.º nivel una vez al día; el rango se basa en tu nivel. | Dhampir | — |
-| [Fisiología nigromántica](/dotes/dhampir/fisiologia-nigromantica/) | +2 circunstancial y los éxitos se tratan como críticos vs. enfermedades (los fallos críticos se degradan si ya tienes otra mejora). | Dhampir | — |
+| [Cazador de no muertos](/dotes/dhampir/cazador-de-no-muertos/) | Tu conocimiento de tu anatomía no‑del‑todo viva, combinad... | Dhampir | — |
+| [Fascinación cautivadora](/dotes/dhampir/fascinacion-cautivadora/) | Los poderes de dominación empleados por tus precursores s... | Dhampir | — |
+| [Fisiología nigromántica](/dotes/dhampir/fisiologia-nigromantica/) | Tu fisiología inusual se ha desarrollado de un modo que d... | Dhampir | — |
 
 ## Nivel 9
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Colmillos desangradores](/dotes/dhampir/colmillos-desangradores/) | Tus ataques con colmillos añaden 1d4 de daño persistente por desangrado y su crítico lo duplica. | Dhampir | Ataque desarmado de colmillos |
-| [Magia nocturna](/dotes/dhampir/magia-nocturna/) | Lanzas *forma animal* (lobo) y *niebla* innatos divinos de 2.º nivel una vez al día. | Dhampir | — |
+| [Colmillos desangradores](/dotes/dhampir/colmillos-desangradores/) | Emulas las técnicas de tu progenitor vampírico para extra... | Dhampir | ataque desarmado de colmillos |
+| [Magia nocturna](/dotes/dhampir/magia-nocturna/) | Puedes canalizar la magia que recorre tu sangre. Obtienes... | Dhampir | — |
 
 ## Nivel 13
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Forma de murciélago](/dotes/dhampir/forma-de-murcielago/) | Una vez por hora obtienes *forma de plaga* 4.º nivel en forma de murciélago. | Concentrar, Dhampir, Divino, Polimorfía | — |
+| [Forma de murciélago](/dotes/dhampir/forma-de-murcielago/) | Puedes transformarte en un murciélago inofensivo. Obtiene... | Concentrar, Dhampir, Divino, Polimorfía | — |
 
 ## Nivel 17
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Sinfonía de sangre](/dotes/dhampir/sinfonia-de-sangre/) | Lanzas *exsanguinación vampírica* innato divino 7.º nivel una vez al día. | Dhampir | — |
+| [Sinfonía de sangre](/dotes/dhampir/sinfonia-de-sangre/) | Invocas la sangre de tus enemigos para otorgarte vigor. P... | Dhampir | — |
+

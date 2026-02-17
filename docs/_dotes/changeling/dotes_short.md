@@ -15,26 +15,27 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Garras de saga](/dotes/changeling/garras-de-saga/) | Obtienes un ataque de garra 1d4 cortante (grupo pelea, rasgos ágil, sutileza, sin armas). | Changeling | — |
-| [Saber de los changelings](/dotes/changeling/saber-de-los-changelings/) | Entrenas Engaño y Ocultismo (o sustituyes una habilidad) y ganas la dote general Saber (sagas). | Changeling | — |
-| [Vista de saga](/dotes/changeling/vista-de-saga/) | Ganas visión en la oscuridad. | Changeling | — |
+| [Garras de saga](/dotes/changeling/garras-de-saga/) | Cuando alcanzaste la mayoría de edad, las uñas empezaron ... | Changeling | — |
+| [Saber de los changelings](/dotes/changeling/saber-de-los-changelings/) | Muy consciente de tu verdadera naturaleza, has estudiado ... | Changeling | — |
+| [Vista de saga](/dotes/changeling/vista-de-saga/) | Has nutrido las aptitudes sobrenaturales concedidas por t... | Changeling | — |
 
 ## Nivel 5
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Convocado](/dotes/changeling/convocado/) | +1 circunstancial a salvaciones de Voluntad vs. efectos mentales; los éxitos se tratan como críticos. | Changeling | — |
-| [Hijo de la bruma](/dotes/changeling/hijo-de-la-bruma/) | Cuando estás oculto o escondido, la CD para detectarte aumenta a 6/12 en lugar de 5/11. | Changeling | — |
+| [Convocado](/dotes/changeling/convocado/) | Has oído la Llamada, y al resistirte constantemente a ell... | Changeling | — |
+| [Hijo de la bruma](/dotes/changeling/hijo-de-la-bruma/) | Te camuflas con una sutileza antinatural. | Changeling | — |
 
 ## Nivel 9
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Garras malditas](/dotes/changeling/garras-malditas/) | Los críticos con tus garras infligen 1d4 de daño mental persistente adicional. | Changeling | Ataque sin armas de garra |
-| [Resistencia al ocultismo](/dotes/changeling/resistencia-al-ocultismo/) | +1 circunstancial a todas las salvaciones contra efectos ocultistas. | Changeling | Rango experto en Ocultismo |
+| [Garras malditas](/dotes/changeling/garras-malditas/) | Tus garras portan la magia de tu madre saga. | Changeling | Ataque sin armas de garra |
+| [Resistencia al ocultismo](/dotes/changeling/resistencia-al-ocultismo/) | Tu estudio de las prácticas ocultistas te ha mostrado cóm... | Changeling | Rango experto en Ocultismo |
 
 ## Nivel 13
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Magia de saga](/dotes/changeling/magia-de-saga/) | Lanzas un conjuro ocultista innato de 4.º nivel una vez al día (lista común más los específicos por saga). | Changeling | — |
+| [Magia de saga](/dotes/changeling/magia-de-saga/) | Gracias a tu herencia, puedes replicar parte de la magia ... | Changeling | — |
+
