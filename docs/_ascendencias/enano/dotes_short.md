@@ -31,7 +31,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 |------|-------------|--------|------------|
 | [Desafiar la oscuridad](/dotes/enano/desafiar-la-oscuridad/) | Utilizando antiguos metodos enanos desarrollados para luchar contra los enemigos que utilizan oscuridad magica, has refinado tu vision en la oscuri... | — | Vision en la oscuridad |
 | [Refuerzo enano](/dotes/enano/refuerzo-enano/) | Puedes utilizar tu conocimiento de la ingeniería y de la metalisteria para reforzar temporalmente objetos gruesos y estructuras. | — | Rango experto en Artesanía |
-| [Rodar la roca {% include accion.html tipo="2" %}](/dotes/enano/rodar-la-roca-include-accion-html-tipo-2/) | Tu constitución enana te permite empujar a tus enemigos de aqui para alla, de la misma forma en que una gran roca rueda por una camara subterránea. | — | Corredor de las rocas |
+| [Rodar la roca](/dotes/enano/rodar-la-roca/) | Tu constitución enana te permite empujar a tus enemigos de aqui para alla, de la misma forma en que una gran roca rueda por una camara subterránea. | — | Corredor de las rocas |
 
 ## Nivel 9
 
@@ -39,20 +39,20 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 |------|-------------|--------|------------|
 | [Caminante de la piedra](/dotes/enano/caminante-de-la-piedra/) | Tienes una gran reverencia hacia la piedra y una conexión especial con ella. | — | — |
 | [Corpulencia de la montana](/dotes/enano/corpulencia-de-la-montana/) | Tu resistencia te permite soportar mas castigo de lo habitual. | — | — |
-| [Ecos en la piedra {% include accion.html tipo="1" %}](/dotes/enano/ecos-en-la-piedra-include-accion-html-tipo-1/) | Te detienes un instante para sintonizar tus sentidos con la piedra que te rodea. | — | Estas de pie sobre una superficie de piedra o de tierra. |
-| [Huesos de piedra {% include accion.html tipo="3" %}](/dotes/enano/huesos-de-piedra-include-accion-html-tipo-3/) | **Reacción** | — | — |
+| [Ecos en la piedra](/dotes/enano/ecos-en-la-piedra/) | Te detienes un instante para sintonizar tus sentidos con la piedra que te rodea. | — | Estas de pie sobre una superficie de piedra o de tierra. |
+| [Huesos de piedra](/dotes/enano/huesos-de-piedra/) | **Reacción** | — | — |
 
 ## Nivel 13
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Poder telurico](/dotes/enano/poder-telurico/) | Canalizas la fuerza de la tierra que hay bajo tus pies para machacar a tus enemigos. | — | — |
-| [Recorrer las minas {% include accion.html tipo="2" %}](/dotes/enano/recorrer-las-minas-include-accion-html-tipo-2/) | Atraviesas la tierra y llevas contigo a un aliado. | — | — |
+| [Recorrer las minas](/dotes/enano/recorrer-las-minas/) | Atraviesas la tierra y llevas contigo a un aliado. | — | — |
 
 ## Nivel 17
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Muro de roca {% include accion.html tipo="3" %}](/dotes/enano/muro-de-roca-include-accion-html-tipo-3/) | **Reacción** | — | — |
+| [Muro de roca](/dotes/enano/muro-de-roca/) | **Reacción** | — | — |
 | [Puerta de roca](/dotes/enano/puerta-de-roca/) | Las barreras hechas de tierra ya no impiden tu avance. | — | Caminante de la piedra |
 

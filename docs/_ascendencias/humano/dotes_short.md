@@ -38,7 +38,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Alma cooperativa](/dotes/humano/alma-cooperativa/) | Has desarrollado un vinculo anímico con tus camaradas y mantienes con ellos un grado aun mayor de cooperación. | Humano | — |
-| [Improvisacion sensacional {% include accion.html tipo="1" %}](/dotes/humano/improvisacion-sensacional-include-accion-html-tipo-1/) | Un destello de brillantez te concede una ventaja importante en una habilidad a pesar de tu inexperiencia. | Humano | — |
+| [Improvisacion sensacional](/dotes/humano/improvisacion-sensacional/) | Un destello de brillantez te concede una ventaja importante en una habilidad a pesar de tu inexperiencia. | Humano | — |
 | [Polifacetico](/dotes/humano/polifacetico/) | Has aprendido a dividir tu enfoque con facilidad entre clases multiples. | Humano | — |
 | [Prestar ayuda en grupo](/dotes/humano/prestar-ayuda-en-grupo/) | Tu educación puso énfasis en la labor de equipo, y ayudar a tus aliados es para ti algo natural. | Humano | — |
 | [Viajero robusto](/dotes/humano/viajero-robusto/) | No hay viaje demasiado largo ni carga demasiado pesada cuando tienes amigos a tu lado o esperanza en tu corazón. | Humano | — |
@@ -49,11 +49,11 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 |------|-------------|--------|------------|
 | [Entrenamiento general avanzado](/dotes/humano/entrenamiento-general-avanzado/) | A lo largo de tu vida aventurera, tu adaptabilidad te ha permitido obtener numerosas aptitudes utiles. | Humano | — |
 | [Persistencia tozuda](/dotes/humano/persistencia-tozuda/) | Los humanos son famosos por su aptitud de persistir a lo largo de las pruebas mas penosas, que dejarían a otros a punto de desplomarse. | Humano | — |
-| [Rebotar {% include accion.html tipo="1" %}](/dotes/humano/rebotar-include-accion-html-tipo-1/) | Te recuperas de las experiencias cercanas a la muerte con una resiliencia sorprendente. | Humano, Fortuna | — |
+| [Rebotar](/dotes/humano/rebotar/) | Te recuperas de las experiencias cercanas a la muerte con una resiliencia sorprendente. | Humano, Fortuna | — |
 
 ## Nivel 17
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Presencia heroica {% include accion.html tipo="1" %}](/dotes/humano/presencia-heroica-include-accion-html-tipo-1/) | La sangre de los heroes recorre tus venas e inspiras a tus aliados para armarse de valor y encontrar un nuevo nivel de resolución. | Emocion, Humano, Mental | — |
+| [Presencia heroica](/dotes/humano/presencia-heroica/) | La sangre de los heroes recorre tus venas e inspiras a tus aliados para armarse de valor y encontrar un nuevo nivel de resolución. | Emocion, Humano, Mental | — |
 

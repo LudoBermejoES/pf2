@@ -25,7 +25,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 | [Pies seguros](/dotes/mediano/pies-seguros/) | Ya se trate de mantener el equilibrio o de trepar, tus pies se agarran fácilmente al terreno. | Mediano | — |
 | [Saber de los medianos](/dotes/mediano/saber-de-los-medianos/) | Has aprendido obedientemente a mantener el equilibrio y a quedarte en las sombras donde se está seguro, importantes habilidades transmitidas a lo l... | Mediano | — |
 | [Sombras distractoras](/dotes/mediano/sombras-distractoras/) | Has aprendido a permanecer oculto usando a la gente grande como distracción, y así no atraer la atención hacia ti. | Mediano | — |
-| [Suerte del mediano {% include accion.html tipo="libre" %}](/dotes/mediano/suerte-del-mediano-include-accion-html-tipo-libre/) | Tu naturaleza despreocupada hace que parezca que la desventura te evita y, hasta cierto punto, incluso podría ser verdad. | Fortuna, Mediano | — |
+| [Suerte del mediano](/dotes/mediano/suerte-del-mediano/) | Tu naturaleza despreocupada hace que parezca que la desventura te evita y, hasta cierto punto, incluso podría ser verdad. | Fortuna, Mediano | — |
 | [Titán de la honda](/dotes/mediano/titan-de-la-honda/) | Has aprendido a utilizar la honda para abatir criaturas enormes. | Mediano | — |
 
 ## Nivel 5
@@ -33,7 +33,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Adaptabilidad cultural](/dotes/mediano/adaptabilidad-cultural/) | Durante tus aventuras, has refinado tu capacidad para adaptarte a la cultura de la ascendencia predominante de quienes te rodean. | Mediano | — |
-| [Pisada vivaz {% include accion.html tipo="1" %}](/dotes/mediano/pisada-vivaz-include-accion-html-tipo-1/) | Eres experto en evitar las torpes pisadas de las criaturas más grandes. | Mediano | — |
+| [Pisada vivaz](/dotes/mediano/pisada-vivaz/) | Eres experto en evitar las torpes pisadas de las criaturas más grandes. | Mediano | — |
 
 ## Nivel 9
 

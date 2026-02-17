@@ -38,7 +38,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Longevidad experta](/dotes/elfo/longevidad-experta/) | Has continuado refinando el conocimiento y las habilidades obtenidas a lo largo de tu vida. | Elfo | Longevidad ancestral |
-| [Paso elfo {% include accion.html tipo="1" %}](/dotes/elfo/paso-elfo-include-accion-html-tipo-1/) | Te mueves en una danza grácil, e incluso tus pasos son amplios. | Elfo | — |
+| [Paso elfo](/dotes/elfo/paso-elfo/) | Te mueves en una danza grácil, e incluso tus pasos son amplios. | Elfo | — |
 | [Perspicacia de otro mundo](/dotes/elfo/perspicacia-de-otro-mundo/) | La magia arcana de que dispones crece en poder y en complejidad. | Elfo | Por lo menos un conjuro innato obtenido de una dote de ascendencia de elfo. |
 | [Trepador de árboles](/dotes/elfo/trepador-de-arboles/) | Has pasado gran parte de tu vida en las copas de los árboles y te has vuelto un experto en trepar de forma rápida y segura. | Elfo | — |
 
@@ -46,8 +46,8 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Longevidad universal {% include accion.html tipo="1" %}](/dotes/elfo/longevidad-universal-include-accion-html-tipo-1/) | Has perfeccionado tu capacidad para mantenerte al día en todas las habilidades que has aprendido durante tu larga vida, por lo que casi nunca estás... | Elfo, Fortuna | Longevidad ancestral |
-| [Vengar aliado {% include accion.html tipo="1" %}](/dotes/elfo/vengar-aliado-include-accion-html-tipo-1/) | Aunque sabes que tarde o temprano vivirás más que tus compañeros, verles a las puertas de la muerte aporta claridad a tus ataques. | Elfo, Fortuna | Estás a 30 pies (9 m) o menos de un aliado con el estado moribundo. |
+| [Longevidad universal](/dotes/elfo/longevidad-universal/) | Has perfeccionado tu capacidad para mantenerte al día en todas las habilidades que has aprendido durante tu larga vida, por lo que casi nunca estás... | Elfo, Fortuna | Longevidad ancestral |
+| [Vengar aliado](/dotes/elfo/vengar-aliado/) | Aunque sabes que tarde o temprano vivirás más que tus compañeros, verles a las puertas de la muerte aporta claridad a tus ataques. | Elfo, Fortuna | Estás a 30 pies (9 m) o menos de un aliado con el estado moribundo. |
 
 ## Nivel 17
 

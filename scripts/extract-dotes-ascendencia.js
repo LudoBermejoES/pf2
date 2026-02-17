@@ -17,6 +17,20 @@ function slug(str) {
     .replace(/^-+|-+$/g, '');
 }
 
+// Clean feat name by removing Liquid includes and "Dote X" markers
+function cleanFeatName(name) {
+  // Remove everything from {% include onwards
+  let cleaned = name.replace(/\s*\{%[^%]*%\}/g, '');
+
+  // Remove "· Dote X ·" or "Dote X ·" patterns
+  cleaned = cleaned.replace(/\s*·?\s*[Dd]ote\s+\d+\s*·?\s*/g, '');
+
+  // Remove trailing separators
+  cleaned = cleaned.replace(/\s*·\s*$/g, '');
+
+  return cleaned.trim();
+}
+
 // Helper to extract first meaningful paragraph as description
 function extractDescription(content) {
   const lines = content.split('\n');
@@ -109,7 +123,8 @@ function parseAncestryFeats(filePath, ancestryName) {
     // Detect feat headers (### Feat Name)
     const featMatch = line.match(/^###\s+(.+)$/);
     if (featMatch) {
-      const featName = featMatch[1].trim();
+      const rawFeatName = featMatch[1].trim();
+      const featName = cleanFeatName(rawFeatName); // Clean the name
       i++;
 
       // Next line should have **Dote X** · Traits
@@ -154,6 +169,7 @@ function parseAncestryFeats(filePath, ancestryName) {
 
       feats.push({
         name: featName,
+        originalName: rawFeatName, // Keep original for reference
         level: featLevel,
         headerLine: headerLine,
         content: featContent.join('\n').trim()

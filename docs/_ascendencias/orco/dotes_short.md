@@ -20,11 +20,11 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 | [Adiestrador de bestias](/dotes/orco/adiestrador-de-bestias/) | Tienes una sorprendente capacidad innata para domar y dominar bestias feroces. | — | — |
 | [Colmillos](/dotes/orco/colmillos/) | Tienes unos colmillos particularmente largos e irregulares, perfectos para arrancar la carne de los huesos. | — | — |
 | [Familiaridad con las armas de los orcos](/dotes/orco/familiaridad-con-las-armas-de-los-orcos/) | En combate, prefieres las armas brutales que eran tradición para tus antepasados orcos. | — | — |
-| [Ferocidad de orco {% include accion.html tipo="1" %}](/dotes/orco/ferocidad-de-orco-include-accion-html-tipo-1/) | La ferocidad en la batalla corre por tu sangre y te niegas a desplomarte debido a tus heridas, por terribles que sean. | — | — |
+| [Ferocidad de orco](/dotes/orco/ferocidad-de-orco/) | La ferocidad en la batalla corre por tu sangre y te niegas a desplomarte debido a tus heridas, por terribles que sean. | — | — |
 | [Marca del clan](/dotes/orco/marca-del-clan/) | Luces cicatrices o tatuajes realzados por la marca de coraje de tu clan. | — | — |
 | [Punos de hierro](/dotes/orco/punos-de-hierro/) | Tus punes se han forjado en la batalla y tu piel naturalmente dura y tus densos huesos se han endurecido aun mas debido al conflicto. | — | — |
 | [Saber de los orcos](/dotes/orco/saber-de-los-orcos/) | Los ancianos del clan te enseñaron la historia de tu pueblo, te contaron las grandes hazañas atléticas y compartieron contigo las dificultades que ... | — | — |
-| [Supersticion de orco {% include accion.html tipo="1" %}](/dotes/orco/supersticion-de-orco-include-accion-html-tipo-1/) | Te defiendes contra la magia balándote en técnicas derivadas de las supersticiones culturales de los orcos. | — | — |
+| [Supersticion de orco](/dotes/orco/supersticion-de-orco/) | Te defiendes contra la magia balándote en técnicas derivadas de las supersticiones culturales de los orcos. | — | — |
 
 ## Nivel 5
 
@@ -54,5 +54,5 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Ferocidad desatada {% include accion.html tipo="1" %}](/dotes/orco/ferocidad-desatada-include-accion-html-tipo-1/) | Atacas con sana incluso cuando esquivas la muerte. | — | Ferocidad de orco |
+| [Ferocidad desatada](/dotes/orco/ferocidad-desatada/) | Atacas con sana incluso cuando esquivas la muerte. | — | Ferocidad de orco |
 

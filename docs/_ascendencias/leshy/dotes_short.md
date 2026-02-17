@@ -22,7 +22,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 | [Intrepido](/dotes/leshy/intrepido/) | Tu espíritu ha soportado muchos desafios a lo largo de tu dilatada existencia. | — | — |
 | [Saber de los leshys](/dotes/leshy/saber-de-los-leshys/) | Entiendes profundamente las tradiciones culturales de tu gente y sus fortalezas innatas. | — | — |
 | [Sombra de las tierras salvajes](/dotes/leshy/sombra-de-las-tierras-salvajes/) | Es difícil percibir tu paso por las areas salvajes. | — | — |
-| [Supersticion leshy {% include accion.html tipo="1" %}](/dotes/leshy/supersticion-leshy-include-accion-html-tipo-1/) | Percibes los espíritus que habitan en los objetos, averiguando cuales dan buena suerte y cuales traen mal faria. Te enfocas en el poder de un objet... | — | — |
+| [Supersticion leshy](/dotes/leshy/supersticion-leshy/) | Percibes los espíritus que habitan en los objetos, averiguando cuales dan buena suerte y cuales traen mal faria. Te enfocas en el poder de un objet... | — | — |
 | [Tegumento](/dotes/leshy/tegumento/) | Tu cuerpo produce un suministro casi interminable de duros tegumentos. | — | — |
 
 ## Nivel 5
@@ -30,9 +30,9 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
 | [Hablar con parientes](/dotes/leshy/hablar-con-parientes/) | Tienes una conexión con las criaturas que comparten tu fisiologia. | — | — |
-| [Leshy planeador {% include accion.html tipo="1" %}](/dotes/leshy/leshy-planeador-include-accion-html-tipo-1/) | Utilizando tus propias hojas, puedes controlar tu descenso. | — | Herencia leshy de las hojas o dote de habilidad Caída de gato |
+| [Leshy planeador](/dotes/leshy/leshy-planeador/) | Utilizando tus propias hojas, puedes controlar tu descenso. | — | Herencia leshy de las hojas o dote de habilidad Caída de gato |
 | [Raices anclantes](/dotes/leshy/raices-anclantes/) | Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves. | — | Estas sobre una superficie solida. |
-| [Reversion ritual {% include accion.html tipo="2" %}](/dotes/leshy/reversion-ritual-include-accion-html-tipo-2/) | Puedes revertir temporalmente a una forma menos visible sin disminuir tus sentidos. | — | — |
+| [Reversion ritual](/dotes/leshy/reversion-ritual/) | Puedes revertir temporalmente a una forma menos visible sin disminuir tus sentidos. | — | — |
 
 ## Nivel 9
 
@@ -47,7 +47,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Capa de veneno {% include accion.html tipo="2" %}](/dotes/leshy/capa-de-veneno-include-accion-html-tipo-2/) | Segregas una capa de veneno concentrado que dana a cualquiera que se atreve a atacarte. | — | — |
+| [Capa de veneno](/dotes/leshy/capa-de-veneno/) | Segregas una capa de veneno concentrado que dana a cualquiera que se atreve a atacarte. | — | — |
 | [Llamada del hombre verde](/dotes/leshy/llamada-del-hombre-verde/) | Puedes convocar a los espíritus de la Naturaleza cercanos para que potencien tu cuerpo. | — | — |
 
 ## Nivel 17
