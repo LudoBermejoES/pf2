@@ -17,45 +17,44 @@ A nivel 1, obtienes una dote de ascendencia, y obtienes una dote de ascendencia 
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Erudito alquímico](/dotes/hobgoblin/erudito-alquimico/) | Obtienes la dote Elaboración alquímica. Si fueras a obtener automáticamente esa dote (por tu bagaje o por la clase alquimista, por ejemplo), en su ... | — | — |
-| [Reforzamiento cantoriano](/dotes/hobgoblin/reforzamiento-cantoriano/) | La energía vital que ayudó a crear a los primeros hobgoblins es especialmente potente en ti, protegiéndote de dolencias continuadas. Si obtienes un... | — | — |
-| [Saber hobgoblin](/dotes/hobgoblin/saber-hobgoblin/) | Has estudiado ejercicios tradicionales hobgoblins y artes de campaña, todos con un sesgo militar. Obtienes el rango de competencia entrenado en Atl... | — | — |
-| [Familiaridad con armas hobgoblin](/dotes/hobgoblin/familiaridad-con-armas-hobgoblin/) | Obtienes acceso a todas las armas poco comunes con el rasgo hobgoblin. Tienes familiaridad con las armas con el rasgo hobgoblin además del arco lar... | — | — |
-| [Cortar al desertor](/dotes/hobgoblin/cortar-al-desertor/) | Estás entrenado para capturar desertores, o «sanguijuelas». Haz un Golpe cuerpo a cuerpo con un arma del grupo de manguales. Con un impacto, el obj... | — | — |
-| [Latigazo implacable](/dotes/hobgoblin/latigazo-implacable/) | Eres hábil golpeando a un enemigo cuando su moral ya se está quebrando. Cuando tienes éxito con un Golpe de arma cuerpo a cuerpo contra un enemigo ... | — | — |
-| [Sigiloso](/dotes/hobgoblin/sigiloso/) | El Sigilo es una herramienta importante en tu arsenal. Puedes moverte 5 pies adicionales cuando realizas la acción Escabullirte, hasta tu Velocidad... | — | — |
-| [Rostro pétreo](/dotes/hobgoblin/rostro-petreo/) | Has dominado el arte de la compostura, incluso frente al miedo. Obtienes un bonificador +1 por circunstancia a las salvaciones contra efectos con e... | — | — |
-| [Salud vigorosa](/dotes/hobgoblin/salud-vigorosa/) | Puedes soportar la pérdida de sangre sorprendentemente bien. Siempre que fueras a ganar la condición drenado, puedes intentar una prueba plana CD 1... | — | — |
+| [Erudito alquímico](/dotes/hobgoblin/erudito-alquimico/) | Ganas la dote Elaboración alquímica aunque ya la hubieras obtenido por otros medios. | — | — |
+| [Reforzamiento cantoriano](/dotes/hobgoblin/reforzamiento-cantoriano/) | Tus salvaciones contra venenos o enfermedades suben a éxito crítico y los fallos críticos se tratan como fallos. | — | — |
+| [Saber hobgoblin](/dotes/hobgoblin/saber-hobgoblin/) | Entrenas en Atletismo y Elaboración y obtienes la dote general Saber adicional (hobgoblin). | — | — |
+| [Familiaridad con armas hobgoblin](/dotes/hobgoblin/familiaridad-con-armas-hobgoblin/) | Tratas las armas con rasgo hobgoblin como más sencillas y obtienes efectos de especialización crítica con ellas. | — | — |
+| [Cortar al desertor](/dotes/hobgoblin/cortar-al-desertor/) | Tu impacto con un mangual reduce 10 pies de la velocidad terrestre del objetivo (15 con crítico) durante 1 asalto. | — | — |
+| [Latigazo implacable](/dotes/hobgoblin/latigazo-implacable/) | Un buen golpe a un enemigo asustado lo mantiene como mínimo con condición asustado 1 hasta tu siguiente turno. | — | — |
+| [Sigiloso](/dotes/hobgoblin/sigiloso/) | Puedes escabullirte 5 pies más y mantienes invisibilidad de observación sin cobertura mientras sigas con éxito el sigilo. | — | — |
+| [Rostro pétreo](/dotes/hobgoblin/rostro-petreo/) | +1 por circunstancia a salvaciones contra miedo y +2 a la CD de Voluntad frente a la habilidad Intimidación. | — | — |
+| [Salud vigorosa](/dotes/hobgoblin/salud-vigorosa/) | Puedes intentar CD 17 cada vez que fueras a quedar drenado; con éxito, eliminas la condición. | — | — |
 
 ## Nivel 5
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Reprensión agonizante](/dotes/hobgoblin/reprension-agonizante/) | Cuando aterrorizas a tus enemigos, también les causas un doloroso malestar mental. Cuando Desmoralizas con éxito a un enemigo, ese enemigo sufre 1d... | — | — |
-| [Sargento instructor experto](/dotes/hobgoblin/sargento-instructor-experto/) | Mientras exploras, cuando lideras y tus aliados están Siguiendo al experto, en lugar de otorgar un bonificador +2 por circunstancia en la habilidad... | — | — |
-| [Reconocer emboscada](/dotes/hobgoblin/reconocer-emboscada/) | Tu entrenamiento de combate te ha afinado para estar listo ante un ataque en todo momento. Interactúas para desenvainar un arma. | — | — |
-| [Sabio de renacuajos](/dotes/hobgoblin/sabio-de-renacuajos/) | A diferencia de la mayoría de los tuyos, que descartan a los goblins como vergüenzas o molestias prescindibles, has estudiado la metodología tras s... | — | — |
+| [Reprensión agonizante](/dotes/hobgoblin/reprension-agonizante/) | Cuando desmoralizas con éxito, el enemigo recibe 1d4 (hasta 3d4) daño mental cada turno mientras permanece asustado y a 30 pies. | — | — |
+| [Sargento instructor experto](/dotes/hobgoblin/sargento-instructor-experto/) | Otorgas +3 por circunstancia al liderar cuando eres experto o +4 cuando eres maestro, en lugar del +2 normal. | — | — |
+| [Reconocer emboscada](/dotes/hobgoblin/reconocer-emboscada/) | Al tirar iniciativa, interactúas para desenvainar un arma y estarás listo para actuar. | — | — |
+| [Sabio de renacuajos](/dotes/hobgoblin/sabio-de-renacuajos/) | Ganas la dote Ascendencia adoptada (goblin) y otra dote de ascendencia goblin de nivel 1. | — | — |
 
 ## Nivel 9
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Rejuvenecimiento cantoriano](/dotes/hobgoblin/rejuvenecimiento-cantoriano/) | La energía vital que fluye en tu sangre te revitaliza. Recuperas 4d6 Puntos de Golpe y ganas 10 Puntos de Golpe temporales durante 1 minuto. A nive... | — | — |
-| [Jinete funesto](/dotes/hobgoblin/jinete-funesto/) | **Requisito:** compañero animal | — | — |
-| [Orgullo en armas](/dotes/hobgoblin/orgullo-en-armas/) | Con un grito de triunfo, concedes inspiración para que un aliado siga luchando. El aliado desencadenante gana Puntos de Golpe temporales iguales a ... | — | — |
-| [Tácticas de escuadra](/dotes/hobgoblin/tacticas-de-escuadra/) | Eres diestro trabajando con tus aliados para rodear a un enemigo. Si un enemigo está a tu alcance y al menos al alcance de dos de tus aliados, ese ... | — | — |
+| [Rejuvenecimiento cantoriano](/dotes/hobgoblin/rejuvenecimiento-cantoriano/) | Una vez al día recuperas 4d6 PG y 10 PG temporales (6d6/15 PG a nivel 15). | — | — |
+| [Jinete funesto](/dotes/hobgoblin/jinete-funesto/) | Tu compañero animal se vuelve entrenado en Intimidación y te da el efecto Ayudar en tu primera prueba de Desmoralizar si te monta. | — | — |
+| [Orgullo en armas](/dotes/hobgoblin/orgullo-en-armas/) | Cuando un aliado deja a 0 PG, gana PG temporales igual a su Constitución hasta el siguiente turno. | — | — |
+| [Tácticas de escuadra](/dotes/hobgoblin/tacticas-de-escuadra/) | Si un enemigo está en tu alcance y también al alcance de dos aliados, ese enemigo queda desprevenido para ti. | — | — |
 
 ## Nivel 13
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Aquí no caes](/dotes/hobgoblin/aqui-no-caes/) | Ayudas físicamente a un aliado a permanecer en pie y lo animas a superar el dolor contra todo pronóstico. Tu aliado no cae inconsciente y permanece... | — | — |
-| [Acondicionamiento de guerra](/dotes/hobgoblin/acondicionamiento-de-guerra/) | Tienes entrenamiento extensivo en entornos remotos, lo que te permite moverte por estas áreas con facilidad. Cuando adquieres esta dote, puedes ele... | — | — |
+| [Aquí no caes](/dotes/hobgoblin/aqui-no-caes/) | Una vez al día mantienes a un aliado a 1 PG con PG temporales igual a tu nivel; su condición herido aumenta en 1. | — | — |
+| [Acondicionamiento de guerra](/dotes/hobgoblin/acondicionamiento-de-guerra/) | Al elegirla ganas velocidad de trepar o nado de 20 pies según el terreno que prefieras. | — | — |
 
 ## Nivel 17
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Restauración cantoriana](/dotes/hobgoblin/restauracion-cantoriana/) | La energía que fluye en tu sangre puede salvar una vida en los momentos más aciagos. Evitas que la criatura muera y le restauras 6d8 + tu modificad... | — | — |
-| [Grito de arenga](/dotes/hobgoblin/grito-de-arenga/) | Llamas a tus aliados y los empujas a darlo todo en combate. Todos los aliados en una emanación de 30 pies que puedan oírte ganan una cantidad de Pu... | — | — |
-
+| [Restauración cantoriana](/dotes/hobgoblin/restauracion-cantoriana/) | Una vez al día evitas la muerte de una criatura y le restauras 6d8 + tu modificador de Constitución PG. | — | — |
+| [Grito de arenga](/dotes/hobgoblin/grito-de-arenga/) | Una vez al día todos los aliados a 30 pies ganan PG temporales igual a tu nivel y quedan acelerados para dar paso, avanzar o golpear. | — | — |
