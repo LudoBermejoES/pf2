@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/final-resonante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa maestro
 
 **Desencadenante:** Tu o un aliado tuyo que os estais beneficiando de tu conjuro de composicion sufririais dano sonico.

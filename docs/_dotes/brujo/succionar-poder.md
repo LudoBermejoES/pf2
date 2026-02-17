@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/succionar-poder.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez al día
 
 **Requisitos:** Aún no has actuado en tu turno.

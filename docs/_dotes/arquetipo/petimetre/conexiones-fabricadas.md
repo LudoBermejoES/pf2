@@ -13,6 +13,11 @@ level: 7
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/conexiones-fabricadas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Petimetre, maestro en Engaño
 
 Puedes mentir acerca de haber realizado una acción de forma tan convincente que adquieres todos los beneficios tangibles de haberla completado con éxito. Puedes tirar Engaño en lugar de otra habilidad al intentar Ganar ingresos, Causar impresión, Solicitar o Subsistir. Puedes usar Conexiones fabricadas para Causar impresión o Solicitar una vez por día, y también puedes usarla una vez por semana para Ganar ingresos o Subsistir.

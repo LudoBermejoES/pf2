@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/descabalgar.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Caballero
 
 **Requisitos:** Estás montando tu montura y empuñas un arma de justa.

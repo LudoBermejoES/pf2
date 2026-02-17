@@ -13,6 +13,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/companero-de-maestro-de-bestias-especializado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Compañero de maestro de bestias, increíble
 
 Tus compañeros animales ágiles y salvajes se vuelven lo bastante astutos como para especializarse. Cada compañero gana una especialización a tu elección. Elige la especialización por separado para cada compañero, incluidos los que se especialicen después de que tomes esta dote.

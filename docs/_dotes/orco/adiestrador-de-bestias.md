@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/adiestrador-de-bestias.png" alt="Carta de dote">
+</div>
+
+
 Tienes una sorprendente capacidad innata para domar y dominar bestias feroces.
 
 **Beneficio:** Obtienes el rango entrenado en la habilidad Naturaleza y puedes elegir entre la dote general Mascota y la dote de habilidad Entrenar animal.

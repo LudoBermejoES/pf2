@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/remate-aturdidor.png" alt="Carta de dote">
+</div>
+
+
 
 Intentas un golpe aturdidor. Da un Golpe cuerpo a cuerpo. Si impactas, tu enemigo debe intentar una tirada de salvacion de Fortaleza contra la CD de tu clase con los siguientes resultados; la salvacion tiene el rasgo incapacitacion.
 

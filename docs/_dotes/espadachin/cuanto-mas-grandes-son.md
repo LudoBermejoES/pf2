@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/fanfarronada/" class="feat-trait">Fanfarronada</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cuanto-mas-grandes-son.png" alt="Carta de dote">
+</div>
+
+
 
 Con velocidad temeraria, te precipitas, saltas y te balanceas alrededor de una criatura para encontrar un punto mas vulnerable. Intenta Rodar a traves de una criatura de al menos una categoria de tamaño mayor que tu, usando los siguientes efectos.
 

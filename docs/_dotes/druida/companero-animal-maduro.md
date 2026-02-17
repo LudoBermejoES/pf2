@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/companero-animal-maduro.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Compañero animal
 
 Tu compañero animal crece a lo largo de tus aventuras y se convierte en un compañero animal maduro, que obtiene capacidades adicionales.

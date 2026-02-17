@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dominio-avanzado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Iniciado de un dominio
 
 Tus plegarias han desbloqueado secretos mas profundos del dominio de tu dios. Obtienes un conjuro de dominio avanzado de uno de tus dominios para el que ya tienes un conjuro de dominio inicial.

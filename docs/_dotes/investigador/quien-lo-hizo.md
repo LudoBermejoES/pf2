@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a><a href="/apendices/rasgos/poco-comun/" class="feat-trait">poco comun</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/quien-lo-hizo.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez al dia
 
 Consideras cuidadosamente tu caso y reduces algunos de los detalles. Cuando Sigues una Pista y aprendes que hay un misterio mas grande, puedes hacer dos preguntas relacionadas con tu investigacion cuando la abres. El DJ debe responder verazmente con "si" o "no", aunque si la respuesta seria enganosa o no tiene aplicacion practica a tu investigacion, el DJ puede responder "inmaterial". No puedes usar ¿Quien lo Hizo? mas de una vez para la misma pista, incluso en dias diferentes.

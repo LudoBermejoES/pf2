@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rituales-eficientes.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Ritualista
 
 Puedes realizar rituales particularmente extensos en menos tiempo. Si el ritual normalmente requiere 1 día para lanzarse, puedes lanzarlo en 4 horas. Si requiere más de 1 día, lo lanzas en la mitad de días, redondeando hacia arriba.

@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-improvisado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Improvisador de armas
 
 Coges rápidamente lo que tengas cerca y atacas con ello como arma improvisada. Interactúas para recoger un objeto desatendido a tu alcance que puedas usar como arma improvisada y luego realizas un Golpe con esa arma improvisada.

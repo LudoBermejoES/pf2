@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/trance-del-maestro-de-bestias.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Maestro de bestias
 
 Puedes entrar en un trance que te permite habitar brevemente el cuerpo de uno de tus compañeros animales y compartir sus sentidos. Obtienes el conjuro de foco *trance del maestro de bestias*.

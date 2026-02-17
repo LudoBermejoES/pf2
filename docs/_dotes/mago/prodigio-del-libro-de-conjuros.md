@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/prodigio-del-libro-de-conjuros.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** rango entrenado en Arcanos
 
 Estas particularmente versado en aprender conjuros que añadir a tu libro de conjuros. Obtienes la dote de habilidad Taquigrafia magica sin necesidad de cumplir sus prerrequisitos. Ademas, cuando sufres un fallo critico en tu prueba para Aprender un conjuro, en su lugar sufres un fallo.

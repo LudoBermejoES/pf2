@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/fuente-energizada.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Reserva de foco, por lo menos un conjuro innato de una herencia o dote de ascendencia de gnomo que comparte una tradición con por lo menos uno de tus conjuros de foco
 **Frecuencia:** Una vez al día
 

@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cancion-de-marcha.png" alt="Carta de dote">
+</div>
+
+
 Aprendes el truco de composición canción de marcha, que os permite a tus aliados y a ti cruzar vastas distancias sin esfuerzo.
 
 

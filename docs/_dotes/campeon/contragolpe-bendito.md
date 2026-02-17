@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/contragolpe-bendito.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** reacción de campeón que otorga a un aliado resistencia al daño de un enemigo (incluyendo las causas grandeza, justicia, liberación y redención)
 
 **Requisitos:** Un enemigo activó tu reacción de campeón desde el final de tu último turno.

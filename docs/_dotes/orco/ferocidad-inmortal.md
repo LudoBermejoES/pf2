@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ferocidad-inmortal.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Ferocidad de orco
 
 Te resistes a las garras de la muerte con un vigor sobrenatural, desafiando a la muerte a que te reclame, a la vez que prometes que todo intento a tal efecto fracasara.

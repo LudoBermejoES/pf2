@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aullido-felino.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por día
 
 **Disparador:** Un aliado a 30 pies fuese a quedar reducido a 0 PG pero no morir inmediatamente.

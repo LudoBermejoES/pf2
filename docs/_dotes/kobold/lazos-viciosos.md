@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/kobold/" class="feat-trait">Kobold</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/lazos-viciosos.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** experto en Elaboración, Elaboración de lazos
 
 Infliges 1d6 de daño de precisión adicional con los lazos de daño que fabricas. Esto aumenta a 2d6 de daño de precisión adicional si eres legendario en Elaboración.

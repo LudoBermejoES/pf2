@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sinfonia-de-la-musa.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Armonizar
 
 Has aprendido a entretejer una infinidad de interpretaciones en una sola sinfonia con efectos multitudinarios. Ya no estas limitado a una sola composición cada turno o a una sola composición a la vez; cuando usas una nueva composición, los efectos de todas las anteriores continuan hasta finalizar su duración.

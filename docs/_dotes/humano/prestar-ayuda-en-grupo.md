@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/prestar-ayuda-en-grupo.png" alt="Carta de dote">
+</div>
+
+
 Tu educación puso énfasis en la labor de equipo, y ayudar a tus aliados es para ti algo natural.
 
 **Beneficio:** Después de Prestar ayuda a un aliado en una prueba de habilidad que no tiene el rasgo ataque, tambien puedes Prestar ayuda a cualquier otro aliado que lleva a cabo la misma prueba de habilidad para el mismo proposito ese mismo asalto. En ese caso, la acción se considera gratuita en lugar de una reacción.

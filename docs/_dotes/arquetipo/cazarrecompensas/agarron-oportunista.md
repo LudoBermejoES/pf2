@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/agarron-oportunista.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
 **Desencadenante:** Tu presa falla críticamente una tirada de ataque contra ti con un Golpe de melé.

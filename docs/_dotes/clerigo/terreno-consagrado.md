@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a><a href="/apendices/rasgos/consagracion/" class="feat-trait">Consagracion</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/terreno-consagrado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Fuente dañina o fuente curativa
 
 **Frecuencia:** una vez cada 10 minutos

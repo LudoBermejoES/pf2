@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/tacticas-de-escuadra.png" alt="Carta de dote">
+</div>
+
+
 Eres diestro trabajando con tus aliados para rodear a un enemigo. Si un enemigo está a tu alcance y al menos al alcance de dos de tus aliados, ese enemigo está desprevenido para ti.
 
 ---

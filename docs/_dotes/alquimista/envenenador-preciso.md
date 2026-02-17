@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/envenenador-preciso.png" alt="Carta de dote">
+</div>
+
+
 Los objetivos desprevenidos son especialmente vulnerables a tus venenos. Cuando Golpeas exitosamente a una criatura desprevenida con un arma envenenada o expones a una criatura desprevenida a un veneno inhalado, esa criatura recibe una penalizacion de circunstancia -2 a su tirada de salvacion inicial contra ese veneno.
 
 ---

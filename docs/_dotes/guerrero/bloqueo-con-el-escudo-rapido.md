@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/bloqueo-con-el-escudo-rapido.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Bloqueo con el escudo.
 
 Puedes colocar el escudo en su lugar sin apenas pensarlo. Al inicio de cada uno de tus turnos, obtienes una reacción adicional que sólo puedes utilizar para llevar a cabo un Bloqueo con el escudo.

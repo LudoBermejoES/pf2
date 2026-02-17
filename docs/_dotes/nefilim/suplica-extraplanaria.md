@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/suplica-extraplanaria.png" alt="Carta de dote">
+</div>
+
+
 Llamas al poder divino para que bendiga a tus aliados o maldiga a tus enemigos.
 
 **Beneficio:** Elige entre *bendecir* y *perdición*. Puedes lanzar el conjuro elegido una vez al día como conjuro innato divino de 1.er rango.

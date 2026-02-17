@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/linguistico/" class="feat-trait">Lingüístico</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/traduccion-instantanea.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Lingüista
 
 **Desencadenante:** Otra criatura a 18 m usa un efecto lingüístico en un idioma que entiendes.

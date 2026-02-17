@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/adaptabilidad-cultural.png" alt="Carta de dote">
+</div>
+
+
 Durante tus aventuras, has refinado tu capacidad para adaptarte a la cultura de la ascendencia predominante de quienes te rodean.
 
 **Beneficio:** Obtienes la dote general Ascendencia adoptada y también una dote de ascendencia de 1.er nivel de la ascendencia elegida para Ascendencia adoptada.

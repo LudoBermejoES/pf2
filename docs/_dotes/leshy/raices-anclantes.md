@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/raices-anclantes.png" alt="Carta de dote">
+</div>
+
+
 Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves.
 
 **Beneficio:** Obtienes la dote de habilidad Equilibrio firme, incluso si no dispones del rango entrenado en Acrobacias, y puedes utilizar la acción Anclar.

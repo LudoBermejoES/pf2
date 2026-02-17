@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/remate-tropezante.png" alt="Carta de dote">
+</div>
+
+
 
 Tu excelente demostracion de destreza en combate deja a tu oponente tropezando hacia atras. Da un Golpe. Si impactas, el objetivo es empujado 5 pies hacia atras (o 10 pies en un impacto critico).
 

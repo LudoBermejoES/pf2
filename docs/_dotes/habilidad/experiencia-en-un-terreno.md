@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/experiencia-en-un-terreno.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Supervivencia
 
 Tu experiencia en navegar por determinado tipo de terreno hace que tengas una confianza suprema cuando lo haces. Obtienes un bonificador +1 por circunstancia a las pruebas de Supervivencia en uno de los siguientes tipos de terreno, elegido cuando eliges esta dote: acuático, artico, bosque, cielo, desierto, llanuras, montana, pantano o subterraneo.

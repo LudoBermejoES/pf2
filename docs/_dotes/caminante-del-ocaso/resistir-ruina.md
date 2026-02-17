@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/resistir-ruina.png" alt="Carta de dote">
+</div>
+
+
 Tu herencia de caminante del ocaso te permite extender protección contra la energía del vacío. Obtienes resistencia 5 al vacío y, una vez por día, puedes lanzar *falsa vitalidad* como conjuro innato divino de rango 5.
 
 ---

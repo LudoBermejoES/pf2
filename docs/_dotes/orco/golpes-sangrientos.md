@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpes-sangrientos.png" alt="Carta de dote">
+</div>
+
+
 Tus ataques letales sin armas dejan magulladuras ensangrentadas o provocan graves hemorragias internas.
 
 **Beneficio:** Cuando obtienes un impacto critico con un Golpe utilizando un ataque sin armas que no es no letal, el objetivo sufre 1d4 dano persistente por sangrado. Esto puede deberse a que se te impone el penalizador debido a utilizar un puno para un ataque letal o porque dispones de un ataque sin armas que carece del rasgo no letal debido a Colmillos o una aptitud similar.

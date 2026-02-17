@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ahora-te-toca-a-ti.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango entrenado en Intimidación
 
 **Desencadenante:** Reduces a 0 Puntos de Golpe a un enemigo.

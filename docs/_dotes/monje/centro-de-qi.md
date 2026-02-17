@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/centro-de-qi.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Hechizos de Qi, Maestro de Muchos Estilos
 

@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/castigo-de-la-tormenta.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Orden de la tormenta, conjuro de orden *oleada de tempestad*
 
 **Desencadenante:** Un oponente adyacente a ti te asesta un impacto crítico con un arma cuerpo a cuerpo o un ataque sin armas cuerpo a cuerpo.

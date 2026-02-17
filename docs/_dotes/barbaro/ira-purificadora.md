@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ira-purificadora.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** un instinto que te permita cambiar tu daño adicional de Ira a un tipo de daño diferente
 
 **Desencadenante:** Entras en Ira.

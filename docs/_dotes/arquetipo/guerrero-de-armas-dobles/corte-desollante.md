@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/corte-desollante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Guerrero de armas dobles
 
 **Requisitos:** Tu última acción fue un Tajo doble, y ambos ataques impactaron al objetivo.

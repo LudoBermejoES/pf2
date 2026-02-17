@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aire/" class="feat-trait">Aire</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rafaga-de-vientos-salvajes.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Iniciado de Vientos Salvajes
 

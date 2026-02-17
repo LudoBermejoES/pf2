@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/salvajismo-avanzado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Salvajismo basico
 
 Obtienes una dote de druida. A efectos de cumplir con sus prerrequisitos, tu nivel de druida es igual a la mitad de tu nivel de personaje.

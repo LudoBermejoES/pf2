@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dechado-de-escudo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** escudo bendito
 
 Tu escudo es un recipiente de protección divina. Cuando empuñas tu escudo elegido, siempre está alzado, incluso sin que uses la acción Alzar un Escudo.

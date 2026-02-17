@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-justiciero.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Engaño
 
 Tienes dos identidades, cada una con su propio nombre y habilidades. Tu identidad social es un miembro honrado de la sociedad, mientras que tu identidad justiciera es un guerrero hábil y astuto. Ninguna de estas identidades es una fachada falsa; realmente eres ambas personas. Si alguien intenta discernir tu otra identidad, debe usar la acción Buscar para intentar una prueba de Percepción contra tu CD de Engaño, como si estuvieras usando la acción Suplantar. Tu CD de Engaño contra tales intentos es 20 + tu modificador de competencia en lugar de la CD normal. A diferencia de Suplantar, no tienes que intentar una prueba de Engaño al interactuar con alguien para ocultar tu otra identidad: una prueba ocurre solo si alguien intenta específicamente descubrir tu otra identidad.

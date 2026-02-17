@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/corteza-y-zarcillo.png" alt="Carta de dote">
+</div>
+
+
 Utilizas magia primigenia.
 
 **Beneficio:** Puedes lanzar *flora enmaranante* y *resiliencia de roble* (uno de cada) como conjuros innatos primigenios de 2.o rango una vez al dia.

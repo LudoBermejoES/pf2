@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rodar-la-roca.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Corredor de las rocas
 
 Tu constitución enana te permite empujar a tus enemigos de aqui para alla, de la misma forma en que una gran roca rueda por una camara subterránea.

@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/flexibilidad-definitiva.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Flexibilidad mejorada.
 
 Tu experiencia te mantiene alerta, ayudándote a adoptar estrategias complejas sobre la marcha para enfrentarte a los desafíos más peligrosos. Cuando obtienes una dote de guerrero utilizando flexibilidad de combate, obtienes tres dotes de guerrero en lugar de dos. Si bien la primera tiene que seguir siendo de 8.º nivel o inferior, la segunda puede ser hasta de 14.º nivel y la tercera puede ser de hasta 18.º nivel. Puedes utilizar la primera para cumplir los prerrequisitos de la segunda o de la tercera y la segunda para cumplir los prerrequisitos de la tercera. Debes cumplir de forma normal todos los demás prerrequisitos de las tres dotes.

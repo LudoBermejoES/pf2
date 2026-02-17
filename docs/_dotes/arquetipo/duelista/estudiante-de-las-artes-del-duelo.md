@@ -13,6 +13,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estudiante-de-las-artes-del-duelo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Duelista
 
 El duelo es tu arte, y tu arma es tu instrumento. Has estudiado y evaluado gran cantidad de técnicas de combate, que puedes repasar cada día sin falta para asegurarte de estar preparado para cualquier situación que pueda ocurrir. Durante tus preparativos diarios, puedes intercambiar cualquier número de tus dotes de arquetipo de duelista por otras dotes de arquetipo de duelista del nivel apropiado para las que estés cualificado. No puedes intercambiar Dedicación de Duelista ni Estudiante de las artes del duelo de esta manera.

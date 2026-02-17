@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/bloqueo-desarmante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Baluarte, entrenado en Atletismo
 
 **Desencadenante:** Bloqueas con el escudo un Golpe de melé realizado con un arma empuñada.

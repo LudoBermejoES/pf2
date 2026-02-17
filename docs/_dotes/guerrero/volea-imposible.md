@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/volea-imposible.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Empuñas un arma a distancia con el rasgo volea y recarga 0.
 
 Disparas una volea contra todos los enemigos en una zona. Da un golpe con un penalizador -2 contra cada enemigo en un radio de 10 pies (3 m) o menos centrado en el rango de distancia de la volea de tu arma o más allá de la misma. Tira el daño tan solo una vez para todos los objetivos.

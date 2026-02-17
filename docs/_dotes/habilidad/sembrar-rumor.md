@@ -11,6 +11,10 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">POCO COMÚN</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/secreto/" class="feat-trait">SECRETO</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sembrar-rumor.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** experto en Engaño
 
 Difundes rumores, que pueden o no ser verdad, sobre un tema específico. Si el tema de tu rumor no es actualmente el tema de ningún rumor contradictorio, esto toma tanto tiempo como normalmente te tomaría Reunir información (típicamente 2 horas), al final de lo cual el DJ tira una prueba secreta de Engaño contra una CD que establece para ver qué tan bien difundes el rumor.

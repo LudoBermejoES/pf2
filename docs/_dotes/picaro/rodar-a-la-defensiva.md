@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rodar-a-la-defensiva.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** Una vez cada 10 minutos
 
 **Desencadenante:** Un ataque fisico te reduciria a 0 Puntos de Golpe.

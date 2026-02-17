@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/maestro-de-muchos-estilos.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Posición de abertura.
 
 **Desencadenante:** Empieza tu turno.

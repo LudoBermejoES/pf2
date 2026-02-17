@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/solo-los-hechos.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Investigacion Exhaustiva
 
 Entiendes fundamentalmente todo hasta el punto en que tu investigacion no puede estar equivocada. Estas permanentemente acelerado y puedes usar la accion extra para Recordar Conocimiento. Ademas, ganas los siguientes beneficios con Recordar Conocimiento:

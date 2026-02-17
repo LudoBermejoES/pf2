@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/interpretacion-versatil.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa polifacetico
 
 Puedes confiar en la majestuosidad de tus interpretaciones en lugar de en tus habilidades sociales ordinarias. Puedes utilizar Interpretación en lugar de Diplomacia para Causar impresión y en lugar de Intimidación para Desmoralizar. Tambien puedes utilizar una interpretación de actuación en lugar de Engano para Imitar.

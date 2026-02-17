@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/defender-montura.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Caballero
 
 **Desencadenante:** Un enemigo realiza un Golpe o un ataque de conjuro contra tu montura mientras la cabalgas.

@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/guardian-contra-monstruos.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Cazador de monstruos
 
 Entiendes como defenderte a ti y a otros de tu presa. Cuando concedas bonificadores debidos a Cazador de monstruos, tanto tus aliados como tu obtendrás tambien un bonificados +1 por circunstancia a vuestra siguiente tirada de salvación contra dicha criatura en particular y a vuestra CA contra el siguiente ataque que la criatura haga contra vosotros.

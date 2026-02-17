@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-arqueologo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Sociedad y Latrocinio
 
 Eres un estudioso de los pueblos y sus historias, y estás en constante búsqueda de conocimientos y artefactos del pasado. Te conviertes en experto en Sociedad y Latrocinio, y obtienes un bonificador circunstancial +1 para Recordar conocimiento sobre historia, pueblos y culturas antiguas.

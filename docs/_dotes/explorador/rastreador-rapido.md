@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rastreador-rapido.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** rango experto en Supervivencia, Rastreador experto
 
 Tu buen ojo detecta señales de paso incluso cuando te mueves. Puedes moverte a tu Velocidad completa mientras Rastreas. Si tienes competencia a rango maestro en Supervivencia, no necesitas hacer una nueva prueba de Supervivencia cada hora mientras Rastreas. Si tienes competencia a rango legendario en Supervivencia, puedes usar otra actividad de exploración mientras Rastreas.

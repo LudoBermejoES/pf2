@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/ira/" class="feat-trait">Ira</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-impresionante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Empellón
 
 Tus ataques son tan poderosos que pueden aplanar a tus oponentes. Cuando usas Empellón, puedes intentar una prueba de Atletismo contra la CD de Fortaleza de tu objetivo.

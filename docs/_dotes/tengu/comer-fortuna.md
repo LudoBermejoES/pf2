@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/tengu/" class="feat-trait">Tengu</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/comer-fortuna.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez al día
 
 **Desencadenante:** Una criatura a 60 pies usa un efecto de fortuna o fortuna adversa.

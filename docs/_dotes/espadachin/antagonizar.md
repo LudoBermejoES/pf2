@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/antagonizar.png" alt="Carta de dote">
+</div>
+
+
 
 Tus burlas y amenazas ganan la ira de tus enemigos. Cuando Desmoralizas exitosamente a una criatura, su condicion asustado no puede disminuir a menos de 1 al final de su turno hasta que use una accion hostil contra ti o ya no pueda observarte o percibirte durante al menos 1 asalto.
 

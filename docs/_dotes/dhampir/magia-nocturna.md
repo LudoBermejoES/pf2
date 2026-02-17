@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/magia-nocturna.png" alt="Carta de dote">
+</div>
+
+
 Puedes canalizar la magia que recorre tu sangre. Obtienes *forma animal* (solo lobo, usando las estadísticas de un can) y *niebla* como conjuros innatos divinos de rango 2. Puedes lanzar cada uno de estos conjuros una vez por día.
 
 ---

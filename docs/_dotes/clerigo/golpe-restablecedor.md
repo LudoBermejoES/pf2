@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-restablecedor.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Tienes un conjuro de dañar o de curar que puedes lanzar.
 
 Equilibras ambos platillos de la balanza, restableciéndome a ti mismo mientras golpeas a un enemigo. Lanza un conjuro de 1 acción de dañar o de curar para curarte a ti mismo, gastando el conjuro con normalidad. Cuando se lanza de esta forma, el conjuro pierde el rasgo manipular.

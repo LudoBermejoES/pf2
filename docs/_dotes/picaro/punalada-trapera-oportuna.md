@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/punalada-trapera-oportuna.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Una criatura a tu alcance cuerpo a cuerpo sufre el impacto de un ataque cuerpo a cuerpo por parte de uno de tus aliados.
 
 Cuando tu aliado acierta a tu enemigo, capitalizas la distracción subsiguiente. Da un Golpe contra la criatura desencadenante.

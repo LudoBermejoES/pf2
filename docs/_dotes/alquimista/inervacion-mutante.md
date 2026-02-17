@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/inervacion-mutante.png" alt="Carta de dote">
+</div>
+
+
 Los mutagenos basicos que afectan tu mente y pensamientos pueden hacerte comunicar telepaticamente, protegerte de ser detectado, o dejarte comunicarte con cualquiera. Mientras estas afectado por uno de los mutagenos listados, obtienes un beneficio adicional.
 
 - **Mutageno Cognitivo** Tambien obtienes el bonificador de objeto del mutageno a las pruebas de Engano, Diplomacia, Intimidacion, Medicina, Naturaleza, Actuacion, Religion y Supervivencia. Ademas, puedes comunicarte telepaticamente con criaturas dentro de 18 metros con las que compartas un idioma. La comunicacion es bidireccional una vez que la estableces, por lo que una criatura que contactes tambien puede comunicarse contigo.

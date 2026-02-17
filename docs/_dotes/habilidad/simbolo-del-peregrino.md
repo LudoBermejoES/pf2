@@ -11,6 +11,10 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/simbolo-del-peregrino.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** entrenado en Religión, seguidor de una religión específica
 
 Llevas un pequeño símbolo de protección de un sitio sagrado para tu fe. Obtienes un símbolo religioso de madera para tu deidad gratis. Mientras este símbolo religioso esté en tu posesión, cuando empates la tirada de iniciativa de un adversario, actúas primero.

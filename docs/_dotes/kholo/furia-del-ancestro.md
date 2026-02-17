@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/kholo/" class="feat-trait">Kholo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/furia-del-ancestro.png" alt="Carta de dote">
+</div>
+
+
 Te transformas en una hiena enorme y de otro mundo. Puedes lanzar *forma animal* (solo forma canina) una vez al día como conjuro innato oculto de 5º rango.
 
 ---

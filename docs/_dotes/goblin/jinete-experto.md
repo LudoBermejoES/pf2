@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/jinete-experto.png" alt="Carta de dote">
+</div>
+
+
 Eres especialmente bueno con las monturas tradicionales de los goblins.
 
 **Beneficio:** Obtienes la dote Montar, incluso si no cumples los prerrequisitos. Obtienes un bonificador +1 por circunstancia a las pruebas de Naturaleza para Comandar a un animal sobre un perro goblin o sobre un lobo de monta.

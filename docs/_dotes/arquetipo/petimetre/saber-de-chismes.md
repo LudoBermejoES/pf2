@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-de-chismes.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Petimetre
 
 Tu tiempo chismorreando en salones de moda te mantiene informado sobre todos los temas. Estás entrenado en Saber de chismes, una habilidad de Saber especial que solo puede usarse para Recordar conocimiento, pero sobre cualquier tema. Si fallas una prueba para Recordar conocimiento con Saber de chismes, obtienes los efectos de la dote de habilidad Conocimiento dudoso.

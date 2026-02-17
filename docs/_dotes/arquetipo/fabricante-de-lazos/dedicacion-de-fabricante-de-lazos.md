@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-fabricante-de-lazos.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Artesanía
 
 Has estudiado el arte de crear lazos y colocar trampas, y pocos han mostrado más talento en estas artes que tú. Obtienes la dote Crear lazos. Cuando colocas un lazo, la CD de cualquier tirada de salvación que requiera usa la mayor de tu CD de clase o la CD del lazo. Si un lazo normalmente lleva 1 minuto Elaborarlo, puedes Elaborarlo con 3 acciones de Interactuar en su lugar.

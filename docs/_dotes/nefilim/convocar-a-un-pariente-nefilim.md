@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/convocar-a-un-pariente-nefilim.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Cualquier dote de linaje de nefilim
 
 Tienes una conexión con los Planos Exteriores, que te permite convocar a un aliado divino.

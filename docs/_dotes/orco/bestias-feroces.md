@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/bestias-feroces.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Companero animal, Mascota o Animal vinculado; Ferocidad de orco
 
 Desde los tiempos antiguos, los domadores de bestias orcos mas poderosos sacaban el verdadero espíritu de lucha de sus bestias compañeros, alimentando a las criaturas con una mezcla que incorporaba la propia sangre del orco.

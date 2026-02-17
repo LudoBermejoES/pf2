@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-pirata.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Intimidación
 
 Como pirata, surcas los mares en busca de barcos enemigos que saquear y grandes aventuras en las que embarcarte. Obtienes la dote general Saber adicional para Saber de navegación o para una ciudad costera concreta con la que tengas conexión (como Saber Puerto Peligro). Ignoras los efectos de terreno difícil o suelo irregular causado por suelo inestable (como la cubierta de un barco). Además, obtienes la acción Asalto de abordaje.

@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/resistencia-del-linaje.png" alt="Carta de dote">
+</div>
+
+
 Tu sangre magica te hace mas resistente a la magia. Obtienes una bonificacion de estado +1 a las tiradas de salvacion contra conjuros y efectos magicos.
 
 ---

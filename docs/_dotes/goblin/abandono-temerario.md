@@ -12,6 +12,11 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/abandono-temerario.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** Una vez al dia
 
 A pesar de una vida llena de decisiones cuestionables, has conseguido sobrevivir, como si tuvieras una suerte increíble que te permite evitar las consecuencias de tus acciones.

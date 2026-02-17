@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/epifania-en-la-encrucijada.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por dia
 
 **Desencadenante:** Tu turno comienza.

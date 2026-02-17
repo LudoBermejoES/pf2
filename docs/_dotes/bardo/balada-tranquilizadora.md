@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/balada-tranquilizadora.png" alt="Carta de dote">
+</div>
+
+
 Calmas las heridas de tus aliados con el poder de tu interpretación. Aprendes el truco de composición balada tranquilizadora.
 
 

@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/segundo-aliento.png" alt="Carta de dote">
+</div>
+
+
 Puedes entrar en una segunda ira, pero después necesitas recuperar el aliento. Cuando entras en Ira, puedes elegir obtener Puntos de Golpe temporales de la Ira incluso si no ha pasado 1 minuto (o un turno completo si tienes el rasgo de clase ira revitalizante). Si lo haces, una vez que esta Ira termine, quedas fatigado hasta que descanses 10 minutos.
 
 ---

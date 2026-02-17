@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/muy-escurridizo.png" alt="Carta de dote">
+</div>
+
+
 La gente grande raramente presta atención a las sombras que tiene a sus pies, y tu te aprovechas de ello por completo.
 
 **Beneficio:** Puedes moverte 5 pies (1,5 m) mas lejos cuando utilizas la acción Movimiento furtivo, hasta tu Velocidad.

@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/fusion-de-energia.png" alt="Carta de dote">
+</div>
+
+
 Fusionas dos conjuros, combinando sus tipos de energia. Si la siguiente accion que usas es Lanzar un Conjuro que inflige dano de energia, selecciona un conjuro no trucos en tu repertorio de conjuros que inflija un tipo diferente de dano de energia, y gastas un espacio de conjuro adicional del mismo rango que este conjuro secundario. El conjuro que lanzas inflige dano adicional igual al rango del espacio de conjuro secundario gastado. El dano total del conjuro se divide equitativamente entre el tipo de energia del conjuro que lanzas y el tipo de energia del conjuro secundario.
 
 ---

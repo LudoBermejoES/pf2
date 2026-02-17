@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/distraccion-reactiva.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango legendario en Engano, Distracción perfecta.
 
 **Desencadenante:** Sufririas un impacto debido a un ataque, serias objetivo de un efecto o bien estas en el interior del area de un efecto.

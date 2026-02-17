@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de Conjuros</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/afinado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa maestro
 
 Afinas tu gran habilidad de interpretación con otro, concediéndole una pequena parte de la misma como si cualquiera pudiera hacerlo. Si tu siguiente acción es Lanzar un conjuro de composición con una area de emanación, dicha area se extiende a partir de un aliado voluntario a tu elección a 60 pies (18 m) o menos en lugar de ti.

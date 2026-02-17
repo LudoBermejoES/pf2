@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/mirada-intimidante.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Intimidación
 
 Puedes Desmoralizar con una simple mirada. Cuando lo haces, Desmoralizar pierde el rasgo auditivo y obtiene el visual, y no sufres penalizador alguno si la criatura no entiende tu idioma.

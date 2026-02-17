@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/remate-dirigido.png" alt="Carta de dote">
+</div>
+
+
 
 Tu ataque daña y obstaculiza a tu enemigo. Elige una parte particular de tu enemigo de la lista de abajo y da un Golpe. Si impactas y dañas al objetivo, aplica el efecto correspondiente a la parte elegida. Este impedimento dura hasta el final de tu siguiente turno. En un impacto critico, tambien aplicas un efecto menor que dura 1 minuto.
 

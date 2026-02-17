@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/en-pleno-vuelo.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Eres el objetivo de un Golpe físico a distancia.
 
 **Requisitos:** Eres consciente del ataque, no estás desprevenido contra él y, o bien tienes una mano libre, o bien empuñas un arma cuerpo a cuerpo.

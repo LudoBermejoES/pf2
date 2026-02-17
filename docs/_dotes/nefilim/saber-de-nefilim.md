@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-de-nefilim.png" alt="Carta de dote">
+</div>
+
+
 Conoces los secretos del Multiverso.
 
 **Beneficio:** Obtienes el rango de competencia entrenado en Diplomacia, Intimidación o Religión. Si estás automáticamente entrenado en una de dichas habilidades, en su lugar obtienes el rango entrenado en una habilidad a tu elección.

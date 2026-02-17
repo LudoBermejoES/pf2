@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/escandalo.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** Una vez por hora
 **Desencadenante:** Ciegas o deslumbras a una criatura.
 

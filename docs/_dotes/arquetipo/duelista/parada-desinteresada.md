@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/parada-desinteresada.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Duelista, Parada de duelo
 
 Proteges a los que están cerca de ti con un destello de acero y un golpe de suerte. Cuando te beneficias de Parada de duelo, los aliados adyacentes a ti obtienen un bonificador circunstancial +1 a la CA. Si tienes Repostar de duelo, puedes usarlo cuando un enemigo a tu alcance falle críticamente un Golpe contra un aliado adyacente a ti, no solo contra ti.

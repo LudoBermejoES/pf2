@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-medico.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Medicina, Medicina de batalla
 
 Pasas a ser experto en Medicina. Cuando tienes éxito con Medicina de batalla o Tratar heridas, el objetivo obtiene un bonificador circunstancial a los Puntos de Golpe que recupera igual a 5 PG con CD 20, 10 PG con CD 30, o 15 PG con CD 40.

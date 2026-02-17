@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-duelista.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en armadura ligera y armas simples
 
 Siempre estás listo para desenvainar tu arma y comenzar un duelo, sin importar las circunstancias. Obtienes la dote Desenvaine rápido, que te permite tanto desenvainar como atacar con un arma como 1 acción.

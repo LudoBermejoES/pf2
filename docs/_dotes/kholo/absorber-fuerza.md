@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/kholo/" class="feat-trait">Kholo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/absorber-fuerza.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por hora
 
 **Requisitos:** Estás adyacente al cadáver de un enemigo que ha muerto hace no más de 1 minuto.

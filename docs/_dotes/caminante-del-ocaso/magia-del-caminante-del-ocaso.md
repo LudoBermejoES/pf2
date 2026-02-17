@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/magia-del-caminante-del-ocaso.png" alt="Carta de dote">
+</div>
+
+
 Tu conexión con los psicopompos te otorga el poder de vislumbrar el futuro cercano y proteger los cadáveres de los estragos de la no‑muerte. Puedes lanzar *augurio* y *reposo pacífico* cada uno una vez por día como conjuros innatos divinos de rango 2.
 
 ---

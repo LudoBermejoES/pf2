@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aprovechar-la-sangre.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Te estas beneficiando de un efecto de magia de sangre.
 
 El poder en tu sangre te permite realizar hazañas menores de magia. Puedes realizar una de las siguientes acciones dependiendo de la tradicion de tu linaje.

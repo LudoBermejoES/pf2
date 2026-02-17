@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/iniciado-de-un-dominio.png" alt="Carta de dote">
+</div>
+
+
 Tu dios te concede un conjuro especial relacionado con sus poderes. Selecciona un dominio (un tema de interes particular para ti dentro de tu religion) de la lista de tu dios. Obtienes un conjuro de dominio inicial para dicho dominio, unico para este y no disponible para otros clérigos.
 
 Los conjuros de dominio son un tipo de conjuro de foco. Cuesta 1 Punto de Foco lanzar un conjuro de foco y empiezas con una reserva de 1 Punto de Foco. Repones tu reserva de foco durante tus preparativos diarios y puedes recuperar 1 Punto de Foco invirtiendo 10 minutos y utilizando la actividad Reenfocar para rezar a tu dios o llevar a cabo algún servicio en favor de su causa.

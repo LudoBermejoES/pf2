@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posición</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/defensa-gemela.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Parada gemela.
 
 **Requisitos:** Empuñas dos armas cuerpo a cuerpo, una en cada mano.

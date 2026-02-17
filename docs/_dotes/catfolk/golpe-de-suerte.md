@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-de-suerte.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Suerte felina
 
 Eres aún más afortunado que la mayoría de los catfolk. Puedes activar Suerte felina cuando fallas o fallas críticamente una tirada de salvación de Fortaleza, una tirada de salvación de Voluntad, una prueba de Acrobacias o una prueba de Atletismo además de las tiradas de Reflejos. Aun así, solo puedes usar Suerte felina una vez por día.

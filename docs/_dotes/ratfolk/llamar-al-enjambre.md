@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ysoki/" class="feat-trait">Ysoki</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/llamar-al-enjambre.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Habla de roedor
 
 **Frecuencia:** una vez al día

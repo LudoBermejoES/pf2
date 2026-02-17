@@ -12,6 +12,10 @@ source: PC1
 <a href="/apendices/rasgos/general/" class="feat-trait">General</a>
 </div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/competencia-con-armas.png" alt="Carta de dote">
+</div>
+
 Obtienes el rango entrenado en todas las armas marciales. Si ya estabas entrenado en todas las armas marciales, obtienes el rango entrenado en una arma avanzada a tu elección. Si eres por lo menos de 11.º nivel, obtienes también el rango experto en dichas armas.
 
 **Especial:** Puedes seleccionar esta dote más de una vez. Cada vez que lo haces, obtienes el rango entrenado en una arma avanzada.

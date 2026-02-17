@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/artesania-monstruosa.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango maestro en Supervivencia
 
 Puedes utilizar trozos de monstruos para ayudarte con la Artesanía. Para Elaborar objetos, puedes usar el cuerpo de un monstruo, utilizando Supervivencia cuando lo haces en lugar de Artesanía para la actividad Elaborar. Si las partes del cuerpo del monstruo son valiosas, puedes gastarlas como parte del coste de la materia prima del objeto (el DJ es quien hace la determinacion si la entrada del monstruo no indica un material valioso procedente de su cuerpo).

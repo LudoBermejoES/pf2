@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/resistencia-de-nefilim.png" alt="Carta de dote">
+</div>
+
+
 Resistes a la energía como tus predecesores extraplanarios.
 
 **Beneficio:** Elige entre uno de los siguientes tipos de daño por energía: ácido, electricidad, frío, fuego o sónico. Obtienes resistencia 5 a ese tipo de daño.

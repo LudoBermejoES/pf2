@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/perspicacia-de-otro-mundo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Por lo menos un conjuro innato obtenido de una dote de ascendencia de elfo.
 
 La magia arcana de que dispones crece en poder y en complejidad.

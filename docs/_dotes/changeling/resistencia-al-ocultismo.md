@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/resistencia-al-ocultismo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango experto en Ocultismo
 
 Tu estudio de las prácticas ocultistas te ha mostrado cómo defenderte mejor contra ellas.

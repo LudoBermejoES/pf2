@@ -11,6 +11,10 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/investigacion-discreta.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** experto en Engaño o Diplomacia
 
 Eres sutil en tus esfuerzos por aprender las cosas que necesitas saber. Cuando Reúnes información, puedes ocultar el verdadero tema de tu indagación entre otros temas de poco interés para ti sin aumentar la dificultad de la prueba ni tardar más tiempo en Reunir información. Cualquiera que intente Reunir información para determinar si alguien más estaba preguntando sobre el tema en cuestión debe superar tu CD de Engaño o la CD normal para Reunir información sobre tus indagaciones, la que sea más alta, o de lo contrario no se enteran de tus esfuerzos.

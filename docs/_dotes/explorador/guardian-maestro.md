@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/guardian-maestro.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Guardian iniciado
 
 Tu dominio de la magia del guardian crece. Obtienes un conjuro de guardian a elegir de los conjuros maestros de guardian (u otro al que tienes acceso).

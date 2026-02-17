@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/familiaridad-con-armas-vikingas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Vikingo
 
 Desde la infancia, te has expuesto a las técnicas de combate vikingas tradicionales, y pronto aprendiste a manejar hacha, espada y escudo en batalla. Ahora, puedes saquear orgullosamente junto a tus compañeros. Obtienes la reacción Bloquear con escudo. Además, tienes familiaridad con el hacha de batalla, hacha de mano, espada larga, umbo de escudo, pinchos de escudo y espada corta; a efectos de competencia, tratas cualquiera de estas armas como simples.

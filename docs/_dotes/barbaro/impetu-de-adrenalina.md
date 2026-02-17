@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/ira/" class="feat-trait">Ira</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/impetu-de-adrenalina.png" alt="Carta de dote">
+</div>
+
+
 En el fragor de la batalla, eres capaz de hazañas asombrosas de fuerza. Mientras estás en ira, aumenta tus límites de Volumen de carga máxima y sobrecargado en 2; también obtienes un bonificador de estado de +1 a pruebas de Atletismo para levantar objetos pesados, Escapar y Abrir por la Fuerza.
 
 ---

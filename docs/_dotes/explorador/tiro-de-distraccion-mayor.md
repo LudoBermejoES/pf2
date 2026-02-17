@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/tiro-de-distraccion-mayor.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Tiro de distracción
 
 Incluso un solo proyectil puede desequilibrar a tu enemigo, y ataques mas poderosos lo ponen nervioso aun mas tiempo. Si aciertas a tu presa perseguida con un arma a distancia, queda desprevenida hasta el inicio de tu siguiente turno. Si obtienes un impacto critico contra tu presa u obtienes dos impactos contra ella en el mismo turno con un arma a distancia, en su lugar queda desprevenida hasta el final de tu siguiente turno.

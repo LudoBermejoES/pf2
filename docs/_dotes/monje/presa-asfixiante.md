@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/presa-asfixiante.png" alt="Carta de dote">
+</div>
+
+
 
 **Requisitos** Tienes una criatura agarrada o inmovilizada.
 

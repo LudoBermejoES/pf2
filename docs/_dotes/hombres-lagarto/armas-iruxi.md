@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/armas-iruxi.png" alt="Carta de dote">
+</div>
+
+
 Tus armas son aquellas con las que naciste. Elige una de las siguientes opciones:
 
 - **Garras** Tu ataque de garras inflige 1d6 de daño cortante en lugar de 1d4 y gana el rasgo versátil P.

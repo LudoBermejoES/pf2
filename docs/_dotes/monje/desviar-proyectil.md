@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/desviar-proyectil.png" alt="Carta de dote">
+</div>
+
+
 
 **Desencadenante** Eres el objetivo de un ataque fisico a distancia.
 

@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/improvisar-mezcla.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por dia
 
 **Requisitos:** Tienes menos de tu numero maximo de viales versatiles, y estas sosteniendo o vistiendo un juego de herramientas de alquimista.

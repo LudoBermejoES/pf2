@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/llamada-salvaje.png" alt="Carta de dote">
+</div>
+
+
 Llamas a las criaturas de la Naturaleza para que acudan en tu ayuda. Puedes invertir 10 minutos en sintonizarte con la Naturaleza para reemplazar un conjuro que has preparado en uno de tus espacios de conjuro de druida por un conjuro de *convocar animal* o *convocar planta u hongo* del mismo rango.
 
 

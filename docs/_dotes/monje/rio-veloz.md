@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rio-veloz.png" alt="Carta de dote">
+</div>
+
+
 
 **Desencadenante** Tu turno termina y tienes un penalizador de estado a tu Velocidad o estas inmovilizado o ralentizado.
 

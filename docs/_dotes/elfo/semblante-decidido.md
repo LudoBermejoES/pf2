@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/semblante-decidido.png" alt="Carta de dote">
+</div>
+
+
 Tu control místico y tus meditaciones te permiten resistir las influencias externas sobre tu consciencia.
 
 **Beneficio:** Siempre que te ves afectado por un efecto mental que dura por lo menos 2 asaltos, puedes reducir en 1 asalto su duración.

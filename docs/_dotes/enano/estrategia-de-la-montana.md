@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estrategia-de-la-montana.png" alt="Carta de dote">
+</div>
+
+
 Los enanos tienen una larga historia de lucha contra enemigos comunes, y tu has dominado las antiguas tácticas que permiten enfrentarse mejor a dichos enemigos.
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia al dano con las armas y a los ataques sin armas contra las criaturas que tienen el rasgo gigante, goblin, hryngar u orco. Si tu ataque infligiria mas de un dado de dano por arma (como suele ser comun a niveles superiores al 1.o), el bonificador es igual al numero de dados de arma o de dados de ataque sin armas.

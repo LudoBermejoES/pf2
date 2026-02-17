@@ -11,6 +11,10 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ataque/" class="feat-trait">ATAQUE</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/manipular/" class="feat-trait">MANIPULAR</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/truco-sucio.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** entrenado en Latrocinio
 
 Atas los cordones de las botas de un enemigo, le bajas el sombrero sobre los ojos, le aflojas el cinturón, o de alguna otra forma confundes su movilidad mediante una táctica deshonesta. Intenta una prueba de Latrocinio contra la CD de Reflejos del objetivo.

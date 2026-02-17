@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-de-los-changelings.png" alt="Carta de dote">
+</div>
+
+
 Muy consciente de tu verdadera naturaleza, has estudiado a las sagas y sus poderes.
 
 **Beneficio:** Obtienes el rango de competencia entrenado en Engaño y Ocultismo. Si estás automáticamente entrenado en una de dichas habilidades, en su lugar obtienes el rango entrenado en una habilidad a tu elección.

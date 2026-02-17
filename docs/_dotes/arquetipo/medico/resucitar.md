@@ -13,6 +13,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/resucitar.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Médico, legendario en Medicina
 
 **Requisitos:** Estás sosteniendo herramientas de sanador o las llevas puestas y tienes una mano libre.

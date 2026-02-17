@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/magia-de-la-orden.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Explorador de la orden
 
 Has excavado a más profundidad en las enseñanzas de una nueva orden, obteniendo acceso a un codiciado conjuro de orden. Elige una orden que hayas seleccionado con Explorador de la orden. Obtienes el conjuro de orden inicial de la misma.

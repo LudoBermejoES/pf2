@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/hijo-de-la-bruma.png" alt="Carta de dote">
+</div>
+
+
 Te camuflas con una sutileza antinatural.
 
 **Beneficio:** Cuando estás oculto o escondido, incrementa a 6 la CD de la prueba plana para designarte como objetivo si estás oculto o a 12 si estás escondido.

@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-de-seguimiento.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Artista marcial
 
 **Requisitos:** Tu última acción fue un Golpe fallido con un ataque desarmado de melé.

@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ojos-de-nefilim.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Visión en la penumbra
 
 Tus ojos pueden ver a través de la oscuridad con una agudeza visual parecida a la de la mayoría de seres extraplanarios.

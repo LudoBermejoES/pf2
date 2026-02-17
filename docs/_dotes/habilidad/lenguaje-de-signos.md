@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/lenguaje-de-signos.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Sociedad
 
 Aprendes los lenguajes de signos asociados a los idiomas que conoces, lo que te permite hacer signos y entenderlos. Los lenguajes de signos suelen requerir ambas manos para transmitir conceptos mas complejos y son mas bien visuales que auditivos.

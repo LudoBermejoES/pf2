@@ -13,6 +13,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/disparo-rastreador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Arquero arcano
 
 Tus disparos se deslizan alrededor de esquinas y vuelan en ángulos imposibles para alcanzar a tu objetivo. Realiza un Golpe con arco o ballesta contra un enemigo que puedas ver; la munición viaja hasta tu objetivo, incluso rodeando esquinas. Ignoras la condición encubierto del objetivo y toda cobertura.

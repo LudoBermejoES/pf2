@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/desangrar.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Tu accion mas reciente fue lanzar un conjuro no trucos que te otorgo un efecto de magia de sangre.
 
 Canalizas la energia residual del ultimo conjuro que lanzaste en una sangria a distancia. Haz una tirada de ataque de conjuro contra la CA de un objetivo dentro de 18 metros. Este ataque inflige dano de sangrado persistente igual al rango del conjuro que acabas de lanzar.

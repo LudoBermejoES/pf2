@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aiuvarin/" class="feat-trait">Aiuvarin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/gloria-merecida.png" alt="Carta de dote">
+</div>
+
+
 Los elfos a menudo tienden a subestimar a los aiuvarins, y tienes experiencia en relatar historias de tus logros para ganarte su respeto.
 
 **Beneficio:** Obtienes el rango entrenado en Interpretación. Si ya estás entrenado en Interpretación, en su lugar obtienes el rango entrenado en una habilidad a tu elección.

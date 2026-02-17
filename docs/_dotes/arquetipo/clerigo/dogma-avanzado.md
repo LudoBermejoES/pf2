@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dogma-avanzado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dogma basico
 
 Obtienes una dote de clérigo. A efectos de cumplir con sus prerrequisitos, tu nivel de clérigo es igual a la mitad de tu nivel de personaje.

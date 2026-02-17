@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/giro-liberador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Luchador
 
 **Desencadenante:** Una criatura te otorga la condición de agarrado o restringido.

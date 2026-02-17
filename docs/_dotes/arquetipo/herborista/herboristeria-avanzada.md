@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/herboristeria-avanzada.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Herborista, experto en Naturaleza
 
 Tus talentos de herborista siguen creciendo con el uso y te has vuelto capaz de hacer más remedios con menos. Puedes crear hasta 6 productos herbales al día con alquimia avanzada.

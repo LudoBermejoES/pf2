@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/enfoque-devoto.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** conjuros de devoción
 
 Tu devoción es lo suficientemente fuerte como para aumentar tu enfoque a alturas increíbles. Siempre que Reenfoques, llena completamente tu reserva de enfoque.

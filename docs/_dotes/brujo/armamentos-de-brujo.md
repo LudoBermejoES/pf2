@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/armamentos-de-brujo.png" alt="Carta de dote">
+</div>
+
+
 El poder de tu patrón cambia tu cuerpo para asegurarse de que nunca careces de defensas. Obtienes uno de los siguientes ataques sin armas.
 
 - **Cabello viviente:** Haces crecer o menguar instantáneamente varios pies (1 pie = 30 cm) tu cabello, cejas, barba o bigote y manipulas tu cabello para usarlo como un arma, aunque tu control no es lo bastante delicado para tareas más diestras. Obtienes un ataque sin armas con el cabello que inflige 1d4 daño contundente; está en el grupo pelea; y tiene los rasgos ágil, derribo, desarmar, sin armas y sutil.

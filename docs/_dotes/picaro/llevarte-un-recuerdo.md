@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/llevarte-un-recuerdo.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Estas apresado o neutralizado por una criatura.
 
 Cuando te escabulles, liderándote de la presa de un enemigo, te llevas contigo algo de su propiedad. Haces una prueba de Huir estando apresado o neutralizado por una criatura. Si tienes éxito, tambien puedes hacer una prueba de Sustraer de dicha criatura, incluso si esta en combate.

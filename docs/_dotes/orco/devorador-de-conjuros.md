@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/devorador-de-conjuros.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Supersticion de orco
 
 No tan solo resistes la magia, sino que la devoras.

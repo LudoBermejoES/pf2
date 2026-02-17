@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/mana-basica-de-cazador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de explorador
 
 Obtienes una dote de explorador de 1.er o de 2.º nivel.

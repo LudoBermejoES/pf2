@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sentir-lo-invisible.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Fallas una prueba para Buscar.
 
 Cuando buscas enemigos, notas las señales mas leves. Aunque fallaste en la prueba desencadenante, automaticamente sientes cualquier criatura no detectada en el area donde estas Buscando, haciendo que esten meramente escondidas para ti.

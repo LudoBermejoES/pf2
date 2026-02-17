@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-de-los-goblins.png" alt="Carta de dote">
+</div>
+
+
 Has adquirido habilidades y relatos en tu comunidad goblin.
 
 **Beneficio:** Obtienes el rango de competencia entrenado en Naturaleza y Sigilo. Si estas automaticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu elección.

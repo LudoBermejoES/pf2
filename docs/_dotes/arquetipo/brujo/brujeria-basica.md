@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/brujeria-basica.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de brujo
 
 Obtienes una dote de brujo de 1.er o de 2.º nivel. Cada dia puedes seleccionar 3 aptitudes de familiar para tu familiar, en lugar de 2.

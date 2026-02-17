@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/muerte/" class="feat-trait">Muerte</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/remate-letal.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** golpe preciso 6d6
 

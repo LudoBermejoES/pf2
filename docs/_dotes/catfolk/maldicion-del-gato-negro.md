@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/desgracia/" class="feat-trait">Desgracia</a><a href="/apendices/rasgos/ocultista/" class="feat-trait">Ocultista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/maldicion-del-gato-negro.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por día
 
 **Disparador:** Una criatura a 30 pies que puedas ver fuese a superar una salvación.

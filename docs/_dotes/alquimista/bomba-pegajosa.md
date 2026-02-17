@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/bomba-pegajosa.png" alt="Carta de dote">
+</div>
+
+
 Puedes mezclar un aditivo pegajoso en una bomba alquimica para hacer que su contenido se adhiera y continue causando dano. Una criatura golpeada por una bomba pegajosa tambien recibe dano persistente igual y del mismo tipo que el dano de salpicadura de la bomba. Si la bomba ya causa dano persistente, combina las dos cantidades.
 
 ---

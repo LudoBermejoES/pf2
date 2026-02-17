@@ -13,6 +13,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/primigenio/" class="feat-trait">Primigenio</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/llamada-del-maestro-de-bestias.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Maestro de bestias, Llamar compañero
 
 **Frecuencia:** una vez por turno

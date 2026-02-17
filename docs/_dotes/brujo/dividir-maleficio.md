@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dividir-maleficio.png" alt="Carta de dote">
+</div>
+
+
 Derivas parte del poder de un maleficio ofensivo que estás lanzando para dirigirlo contra un segundo objetivo. Si la siguiente acción que utilizas es Lanzar un conjuro para lanzar un maleficio dañino con un solo objetivo, reduce en 2 su rango (haciéndolo 2 rangos más bajo que el rango de conjuro máximo que puedes lanzar). Si lo haces, puedes seleccionar un segundo objetivo para que sea afectado por dicho maleficio.
 
 

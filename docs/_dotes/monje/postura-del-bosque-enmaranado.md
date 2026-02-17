@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/postura/" class="feat-trait">Postura</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/postura-del-bosque-enmaranado.png" alt="Carta de dote">
+</div>
+
+
 
 **Requisitos** Estas sin armadura.
 

@@ -13,6 +13,10 @@ source: PC1
 <a href="/apendices/rasgos/manipular/" class="feat-trait">MANIPULAR</a>
 </div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/planificador-presciente.png" alt="Carta de dote">
+</div>
+
 **Coste:** El Precio del objeto elegido.
 
 **Requisitos:** No has utilizado esta aptitud desde la última vez que pudiste comprar objetos.

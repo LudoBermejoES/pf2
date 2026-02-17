@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ysoki/" class="feat-trait">Ysoki</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/abarrotar.png" alt="Carta de dote">
+</div>
+
+
 Mientras seas Pequeño, puedes terminar tu movimiento en la misma casilla que un aliado Pequeño. Solo dos criaturas en total pueden compartir el mismo espacio usando esta capacidad o una similar.
 
 ---

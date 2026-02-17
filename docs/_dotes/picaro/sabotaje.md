@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sabotaje.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Tienes una mano libre.
 
 Danas sutilmente el equipo de otro. Elige un objeto que una criatura a tu alcance empuja o lleva encima. El objeto debe tener partes moviles que seas capaz de sabotear (un arco corto podría serlo, pero no una espada larga). Haz una prueba de Latrocinio contra la CD de Reflejos de la criatura. El dano infligido por Sabotaje no puede dejar al objeto por debajo de su Umbral de rotura.

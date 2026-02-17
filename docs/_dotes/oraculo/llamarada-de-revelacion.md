@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/llamarada-de-revelacion.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Estas en vinculado a la maldicion 4.
 
 Tu mente y cuerpo pueden, por un corto tiempo y con gran peligro, superar los limites finales de tu maldicion. Durante 1 minuto, emanas llamas torrenciales, te rodeas de espiritus, o de otra manera rebosas de poder divino de una manera que se adapte a tu misterio. En cada uno de tus turnos durante ese tiempo, puedes lanzar un hechizo de revelacion sin gastar Puntos de Enfoque.

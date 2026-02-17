@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/critico-salvaje.png" alt="Carta de dote">
+</div>
+
+
 Las heridas que infliges son muy dolorosas. Cuando das un Golpe con una arma o un ataque sin armas para el que dispones de competencia a rango legendario, obtienes un éxito crítico con un 19 o más en el dado si dicho resultado sería un acierto. Si el resultado de un 19 sería un fallo, no hay efecto.
 
 

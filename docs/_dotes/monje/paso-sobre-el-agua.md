@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/paso-sobre-el-agua.png" alt="Carta de dote">
+</div>
+
+
 
 Puedes dar una Zancada a traves de liquidos y superficies que no soportan tu peso. Este beneficio dura solo durante tu movimiento. Si terminas tu movimiento en una superficie que no puede soportarte, caes o colapsa como es normal.
 

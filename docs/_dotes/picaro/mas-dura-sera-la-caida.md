@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/mas-dura-sera-la-caida.png" alt="Carta de dote">
+</div>
+
+
 Haces que tus enemigos caigan dolorosamente cuando les derribas. Cuando ejecutas con éxito un Derribo contra un enemigo desprevenido, tu objetivo sufre 1d6 dano contundente. Con un éxito critico, el objetivo sufre 1d6 dano contundente mas tu dano por ataque furtivo.
 
 

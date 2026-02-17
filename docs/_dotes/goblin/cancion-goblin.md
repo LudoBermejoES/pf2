@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cancion-goblin.png" alt="Carta de dote">
+</div>
+
+
 Cantas molestas canciones goblin, distrayendo a tus enemigos con rimas tontas y repetitivas.
 
 **Beneficio:** Haz una prueba de Interpretar contra la CD de Voluntad de un solo enemigo a 30 pies (9 m) o menos. Esto tiene todos los rasgos y restricciones habituales de una prueba de Interpretar para cantar (pag. 240 ([ver](/habilidades/interpretacion/))).

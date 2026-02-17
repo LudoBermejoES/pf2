@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/morfismo/" class="feat-trait">Morfismo</a><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/alas-divinas.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** Una vez al día
 
 Con esfuerzo, puedes invocar en tu espalda unas alas mágicas de aspecto similar a las de tus antepasados extraplanarios, ya se trate de alas elegantemente emplumadas u ominosas alas de murciélago.

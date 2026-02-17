@@ -81,7 +81,7 @@ def process_all_feats(feats_json_path, cards_dir, feats_base_dir, dry_run=False,
     cards_path = Path(cards_dir)
     base_path = Path(feats_base_dir)
 
-    print(f"🔍 Procesando {len(feats)} dotes...\n")
+    print(f"Procesando {len(feats)} dotes...\n")
 
     if dry_run:
         print("ADVERTENCIA  MODO DRY-RUN: No se modificarán archivos\n")
@@ -130,12 +130,12 @@ def process_all_feats(feats_json_path, cards_dir, feats_base_dir, dry_run=False,
         result = insert_card_image(feat_file, card_image_rel, dry_run)
         stats[result] = stats.get(result, 0) + 1
 
-    print(f"\n📊 Resultados:")
+    print(f"\nResultados:")
     print(f"  OK Insertadas: {stats['success']}")
     print(f"  INFO  Ya existían: {stats['already_exists']}")
     print(f"  ADVERTENCIA  Sin coincidencia de patrón: {stats['no_match']}")
     print(f"  ERROR Errores: {stats['error']}")
-    print(f"  📁 No encontradas: {stats['not_found']}")
+    print(f"  No encontradas: {stats['not_found']}")
 
     return stats
 
@@ -147,7 +147,7 @@ def copy_cards_to_assets(cards_dir, assets_dir):
 
     assets_path.mkdir(parents=True, exist_ok=True)
 
-    print(f"\n📦 Copiando cartas a {assets_path}...")
+    print(f"\nCopiando cartas a {assets_path}...")
 
     card_files = list(cards_path.glob('*.png'))
 

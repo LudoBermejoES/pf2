@@ -12,6 +12,11 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/alas-eternas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Alas divinas
 
 Tus alas forman ahora parte permanente de tu cuerpo.

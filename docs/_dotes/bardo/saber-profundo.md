@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-profundo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa enigma, rango legendario en ocultismo
 
 Tu repertorio es vasto y contiene muchos mas conjuros de lo habitual. Anade un conjuro a tu repertorio de cada rango de conjuro que puedes lanzar.

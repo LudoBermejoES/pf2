@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ojo-del-empirista.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** metodologia de empirismo
 
 Agudos y penetrantes, tus ojos lo ven todo y transmiten mas. Tus acciones de Senalar pierden el rasgo auditivo, y no necesitas ser escuchado para transmitir la informacion a tus aliados. Ademas, una criatura que Senales esta desprevenida ante tus aliados hasta el comienzo de tu siguiente turno.

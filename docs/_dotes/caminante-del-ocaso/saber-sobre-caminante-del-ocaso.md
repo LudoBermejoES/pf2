@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-sobre-caminante-del-ocaso.png" alt="Carta de dote">
+</div>
+
+
 Encontraste a otro caminante del ocaso que te enseñó los secretos de los de tu clase, o investigaste tu inusual herencia. Obtienes el rango de competencia entrenado en Medicina y Religión. Si automáticamente pasarías a estar entrenado en una de esas habilidades (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección.
 
 También obtienes la dote general Saber adicional para Saber sobre el Osario.

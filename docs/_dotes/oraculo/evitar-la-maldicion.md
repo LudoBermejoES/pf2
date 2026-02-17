@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/evitar-la-maldicion.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por dia
 
 Has aprendido a contener tu maldicion. Si la siguiente accion que usas es una capacidad vinculada a la maldicion, tu valor de vinculado a la maldicion no aumenta.

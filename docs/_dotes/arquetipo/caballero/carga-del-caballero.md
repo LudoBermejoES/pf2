@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/carga-del-caballero.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Caballero
 
 **Requisitos:** Estás montando tu montura.

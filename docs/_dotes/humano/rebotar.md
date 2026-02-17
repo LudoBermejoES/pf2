@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rebotar.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** Una vez al dia
 
 **Desencadenante:** Pierdes el estado moribundo.

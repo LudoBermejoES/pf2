@@ -12,6 +12,10 @@ source: PC1
 <a href="/apendices/rasgos/general/" class="feat-trait">General</a>
 </div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/montar.png" alt="Carta de dote">
+</div>
+
 Cuando Comandas a un animal en el que vas montado para que lleve a cabo una acción de movimiento (como por ejemplo, dar una Zancada), tienes éxito automáticamente en lugar de necesitar una prueba. Todo animal en el que vas montado actúa en tu turno, igual que un esbirro. Si Montas un animal en medio de un encuentro, pierde su siguiente turno y a continuación actúa en tu siguiente turno.
 
 ---

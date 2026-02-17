@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/a-la-refriega.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Vikingo
 
 **Requisitos:** Estás empuñando un arma de melé de una mano en una mano y un escudo en la otra.

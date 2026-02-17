@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/maestria-en-habilidades.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de picaro, rango entrenado en por lo menos una habilidad y rango experto en por lo menos una habilidad
 
 Incrementa tu rango de competencia en una de tus habilidades de experto a maestro y de entrenado a experto en otra de tus habilidades. Obtienes una dote de habilidad asociada con una de las habilidades elegidas; tienes que cumplir todos sus prerrequisitos.

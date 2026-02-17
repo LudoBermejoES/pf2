@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estomago-vomitado.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Obtienes la condición indispuesto o fallas una tirada de salvación contra un veneno ingerido.
 
 **Frecuencia:** una vez al día

@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-petimetre.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Diplomacia
 
 Eres un estudiante consumado de la dignidad, la etiqueta y la moda. Pasas a estar entrenado en Engaño y Sociedad; si ya estabas entrenado en alguna de ellas, pasas a ser experto en su lugar. Obtienes la actividad de tiempo de inactividad Influir en rumores.

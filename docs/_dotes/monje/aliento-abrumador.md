@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/moldear-hechizo/" class="feat-trait">Moldear Hechizo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aliento-abrumador.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Hechizos de Qi
 

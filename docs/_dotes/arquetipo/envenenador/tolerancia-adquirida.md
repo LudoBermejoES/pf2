@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/tolerancia-adquirida.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Envenenador
 
 **Desencadenante:** Fallas una salvación contra un veneno.

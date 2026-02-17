@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-macabro.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** reacción de campeón que otorga daño extra con tus Golpes (incluyendo las causas profanación, iniquidad y obediencia)
 
 **Requisitos:** Tus Golpes actualmente infligen daño extra de tu reacción de campeón.

@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/simplicidad-mortal.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** dios con un arma predilecta sencilla o ataque sin armas, rango entrenado en el arma predilecta de tu dios
 
 Cuando empuñas el arma predilecta de tu dios, incrementa en un paso el tamaño del dado de daño de dicha arma.

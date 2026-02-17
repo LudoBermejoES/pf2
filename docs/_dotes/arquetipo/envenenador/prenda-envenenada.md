@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/prenda-envenenada.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Envenenador
 
 En la naturaleza, ciertos animales están cubiertos de espinas venenosas, y con solo rozarlas pueden resultar mortales. Gastas un veneno de contacto o de lesión y dedicas 10 minutos a aplicar ese veneno sobre tu ropa o a tejer agujas afiladas y envenenadas en la tela de la prenda. Solo puedes tener un veneno impregnado en tu ropa a la vez. Puedes usar la reacción Una vez mordido mientras tengas un veneno impregnado de esta manera.

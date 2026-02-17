@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/kobold/" class="feat-trait">Kobold</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/presencia-draconica.png" alt="Carta de dote">
+</div>
+
+
 **Requisito:** herencia kobold de escamas dracónicas
 
 Como pariente de los dragones, proyectas una confianza inquebrantable (que se derrumba catastróficamente ante los más mortíferos enemigos). Cuando obtienes un éxito en una tirada de salvación contra un efecto de miedo, obtienes un éxito crítico en su lugar. Cuando obtienes un fallo contra un efecto de miedo, obtienes un fallo crítico en su lugar.

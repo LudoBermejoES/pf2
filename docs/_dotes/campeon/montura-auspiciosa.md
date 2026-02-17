@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/montura-auspiciosa.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Corcel Imponente
 
 Guiado por tu cuidado continuo, tu corcel ha desarrollado una inteligencia y habilidad increíbles. La montura que obtuviste con Corcel Fiel es ahora un compañero animal especializado (Player Core 211). Puedes seleccionar una de las especializaciones habituales o la especialización de auspicio. Un corcel fiel con la especialización de auspicio obtiene los siguientes beneficios:

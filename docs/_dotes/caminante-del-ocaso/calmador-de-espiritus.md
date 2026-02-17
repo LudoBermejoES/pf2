@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/calmador-de-espiritus.png" alt="Carta de dote">
+</div>
+
+
 Estás sintonizado con los sonidos y sensaciones más sutiles de los espíritus inquietos. Incluso si no estás Buscando, puedes intentar una comprobación para encontrar apariciones que normalmente requieran que estés Buscando. Aún necesitas cumplir cualquier otro requisito para encontrar la aparición. Obtienes un bonificador circunstancial +1 a las comprobaciones para desactivar apariciones.
 
 ---

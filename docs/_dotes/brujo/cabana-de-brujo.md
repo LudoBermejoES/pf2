@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cabana-de-brujo.png" alt="Carta de dote">
+</div>
+
+
 Tu hogar es una estructura animada que obedece tus órdenes. Llevando a cabo un ritual que dura 1 día creas un objeto animado a partir de una cabaña, casita, carromato cubierto, tienda o construcción similar de tamaño hasta Enorme.
 
 La cabaña utiliza tu CA, tus modificadores a las tiradas de salvación y tu modificador a la Percepción, teniendo 150 PG y Dureza 10. Tiene la aptitud armadura de constructo, lo que significa que una vez se ve reducida a menos de la mitad de sus Puntos de Golpe, o inmediatamente después de ser dañada por un impacto crítico, su CA se reduce en 4 hasta que se la repara.

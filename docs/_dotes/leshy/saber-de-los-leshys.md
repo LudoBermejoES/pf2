@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-de-los-leshys.png" alt="Carta de dote">
+</div>
+
+
 Entiendes profundamente las tradiciones culturales de tu gente y sus fortalezas innatas.
 
 **Beneficio:** Obtienes el rango de competencia entrenado en Naturaleza y Sigilo. Si estas automaticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu elección.

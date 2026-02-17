@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aprovechar/" class="feat-trait">Aprovechar</a><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/segundo-aguijon.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.
 
 Lees los movimientos de tu presa y los transformas en aberturas, por lo que los fallos con un arma llevan a golpes de refilón con la otra. Da un Golpe cuerpo a cuerpo con una de las armas requeridas contra tu presa perseguida. El Golpe obtiene el siguiente efecto de fallo.

@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/lanzador-lejano.png" alt="Carta de dote">
+</div>
+
+
 Has aprendido a lanzar a mayor distancia. Cuando lanzas una bomba alquimica, tiene un incremento de alcance de 9 metros en lugar de los 6 metros habituales.
 
 ---

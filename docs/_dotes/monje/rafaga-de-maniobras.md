@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rafaga-de-maniobras.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** experto en Atletismo
 

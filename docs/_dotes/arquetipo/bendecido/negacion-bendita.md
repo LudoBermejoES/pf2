@@ -13,6 +13,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/negacion-bendita.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Bendecido
 
 **Desencadenante:** Un aliado a 9 m pasaría a estar asustado, drenado, debilitado, indispuesto o estupefacto.

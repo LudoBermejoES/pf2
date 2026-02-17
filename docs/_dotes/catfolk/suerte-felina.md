@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/suerte-felina.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por día
 
 **Disparador:** Fallas una tirada de salvación de Reflejos.

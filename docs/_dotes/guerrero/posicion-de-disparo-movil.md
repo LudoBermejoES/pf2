@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posición</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/posicion-de-disparo-movil.png" alt="Carta de dote">
+</div>
+
+
 Tus disparos se vuelven ágiles y letales. Cuando estás en esta posición, tus Golpes a distancia no desencadenan Golpes reactivos u otras reacciones desencadenadas por un ataque a distancia.
 
 **Especial** Si tienes Golpe reactivo, puedes utilizarlo con un arma a distancia cargada que estás empuñando. La criatura desencadenante debe estar a 5 pies (1,5 m) o menos de ti para poder hacerlo.

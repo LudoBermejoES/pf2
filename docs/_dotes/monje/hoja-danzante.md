@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/hoja-danzante.png" alt="Carta de dote">
+</div>
+
+
 
 Eres tan ligero como una hoja en la brisa. Cuando Saltas o tienes exito en un Salto alto o Salto largo, aumentas la distancia que saltas en 1,5 m. Al calcular el dano que recibes por caer, no cuentas ninguna distancia caida mientras estes adyacente a una pared.
 

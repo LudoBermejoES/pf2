@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/predecible.png" alt="Carta de dote">
+</div>
+
+
 Observando a un oponente, puedes hacerte una idea de su proximo movimiento y prepararte para contrarrestarlo o resistirlo. Elige un objetivo y haz una prueba de Percepción para Averiguar intenciones contra la CD de Engano del objetivo o una CD difícil del nivel del enemigo, la mayor de ambas.
 
 - **Éxito critico:** Disciernes con precision la estrategia del objetivo, obteniendo un bonificados +2 por circunstancia a la CA contra la criatura hasta el inicio de tu siguiente turno y un bonificados +2 por circunstancia a tu siguiente tirada de salvación contra la criatura antes del inicio de tu siguiente turno.

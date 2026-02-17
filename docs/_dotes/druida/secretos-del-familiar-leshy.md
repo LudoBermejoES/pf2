@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/secretos-del-familiar-leshy.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** orden de la hoja
 
 Los secretos de la orden de la hoja permiten que tu familiar saque partido de su forma de leshy. Puedes seleccionar una aptitud de familiar adicional por día, que tiene que ser una de las siguientes aptitudes de familiar leshy. No puedes seleccionar más de una aptitud a la vez de esta dote.

@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-sobre-vampiros.png" alt="Carta de dote">
+</div>
+
+
 Fuiste criado por tu progenitor vampírico, o has invertido tiempo y energía considerables investigando los secretos de tus precursores no muertos. Estás entrenado en Religión y Sociedad. Si automáticamente pasarías a estar entrenado en una de esas habilidades (por tu trasfondo o clase, por ejemplo), en su lugar pasas a estar entrenado en una habilidad de tu elección.
 
 También obtienes la dote general Saber adicional para Saber sobre vampiros.

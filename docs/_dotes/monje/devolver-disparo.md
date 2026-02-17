@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/devolver-disparo.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Desviar Proyectil, Postura de Arquero Monastico
 

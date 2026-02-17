@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/resistencias-tradicionales.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Sangre de dragón arcana, sangre de dragón divina, sangre de dragón oculta o sangre de dragón primigenia
 
 Debido a tu sangre, tienes cierta resistencia a tipos concretos de magia. Obtienes un bonificador de estado +1 a la CA y a las tiradas de salvación contra conjuros y otros efectos mágicos de la misma tradición que tu linaje. Este bonificador aumenta a +2 contra efectos de sueño y parálisis.

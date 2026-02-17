@@ -11,6 +11,10 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/improvisar-herramienta.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** entrenado en Artesanía
 
 Puedes improvisar soluciones cuando no tienes las herramientas adecuadas a mano. Puedes intentar Reparar objetos dañados sin un kit de reparación.

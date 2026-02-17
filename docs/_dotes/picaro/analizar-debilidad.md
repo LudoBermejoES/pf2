@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/analizar-debilidad.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Ataque furtivo 2d6
 
 **Requisitos:** Has identificado a una criatura con Recordar conocimiento.

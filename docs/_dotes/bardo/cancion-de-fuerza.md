@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cancion-de-fuerza.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa combatiente
 
 Tus interpretaciones inspiran fuerza en tus aliados para que les ayude en las tareas físicas. Aprendes el truco de composición canción de fuerza.

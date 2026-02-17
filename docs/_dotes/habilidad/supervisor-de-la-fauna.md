@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/supervisor-de-la-fauna.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Supervivencia
 
 Puedes estudiar detalles de las tierras virgenes para determinar la presencia de criaturas cercanas. Puedes invertir 10 minutos estudiando la zona que te rodea para averiguar que criaturas hay cerca, basándote en los nidos, los excrementos y las marcas que hay en la vegetación. Haz una prueba de Supervivencia contra una CD determinada por el DJ basándose en lo obvios que son los signos. Con un éxito, puedes hacer una prueba de Recordar conocimiento con un penalizador -2 para averiguar mas cosas acerca de las criaturas tan solo a partir de dichos signos. Si tienes el rango maestro en Supervivencia, no sufres dicho penalizador.

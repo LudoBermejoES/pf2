@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/leccion-mayor.png" alt="Carta de dote">
+</div>
+
+
 Tu patrón te concede un conocimiento mayor. Elige una lección mayor o básica. Obtienes el maleficio asociado y tu familiar aprende el conjuro asociado.
 
 

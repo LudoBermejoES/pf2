@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/justiciero/" class="feat-trait">Justiciero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aparicion-desconcertante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Justiciero
 
 **Requisitos:** Estás inadvertido por la criatura objetivo.

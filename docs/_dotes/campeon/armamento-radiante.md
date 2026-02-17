@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/armamento-radiante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** armamento bendito
 
 Tu armamento bendito irradia poder, mejorando aún más tu arma elegida. Cuando eliges el arma para tu armamento bendito durante tus preparativos diarios, añade las runas de propiedad astral y brillante a la lista de efectos que puedes elegir. Si eres extrasagrado, añade también la runa extrasagrado, y si eres profano, añade también la runa profano.

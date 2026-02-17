@@ -13,6 +13,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/asesinar.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Asesino
 
 **Requisitos:** Has designado una marca usando Marca de muerte y tu marca no se ha percatado de tu presencia.

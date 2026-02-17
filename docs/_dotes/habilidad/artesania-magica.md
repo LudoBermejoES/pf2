@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/artesania-magica.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango experto en Artesanía
 
 Puedes Elaborar objetos mágicos, aunque algunos tienen otros requisitos, tal y como se indica en el Manual de dirección. Cuando seleccionas esta dote, obtienes la formula de 4 objetos mágicos comunes de 2.º nivel o menor.

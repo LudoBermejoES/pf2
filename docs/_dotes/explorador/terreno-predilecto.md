@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/terreno-predilecto.png" alt="Carta de dote">
+</div>
+
+
 Has estudiado un terreno especifico para superar sus desafios. Elige entre acuático, artico, bosque, cielo, desierto, llanuras, montanas, pantano o subterráneo como terreno predilecto. Cuando estas en dicho terreno, puedes ignorar los efectos del terreno difícil no magico.
 
 Si tienes el rasgo de clase viaje sin trabas, obtienes un segundo beneficio en tu terreno favorito, dependiendo de tu elección:

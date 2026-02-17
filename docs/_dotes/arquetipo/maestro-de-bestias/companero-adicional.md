@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/companero-adicional.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Maestro de bestias
 
 Otro animal se une a tus viajes. Es un compañero animal joven que tiene el rasgo esbirro. Consulta Compañeros animales del maestro de bestias para las reglas sobre cómo funciona tener múltiples compañeros animales.

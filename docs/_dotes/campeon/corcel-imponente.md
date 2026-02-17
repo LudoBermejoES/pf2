@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/corcel-imponente.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Caballo de Guerra Leal
 
 Bajo tu cuidado, tu montura ha realizado su potencial innato. La montura que obtuviste con Corcel Fiel es ahora un compañero animal ágil o salvaje (Player Core 211).

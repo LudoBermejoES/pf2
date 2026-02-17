@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/linaje-mayor.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** conjuro de linaje
 
 Descubres los mayores secretos de tu linaje. Obtienes el conjuro de linaje mayor asociado con tu linaje.

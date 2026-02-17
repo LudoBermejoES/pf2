@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/replica-de-duelo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Parada de duelo.
 
 **Desencadenante:** Una criatura a tu alcance sufre un fallo crítico en un Golpe contra ti.

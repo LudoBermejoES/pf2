@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estratega-atletico.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Atletismo
 
 Sabes como manipular calculadamente articulaciones y peso corporal. Ademas de usar la sustitucion de tirada de una estratagema de ataque para un Golpe, puedes usarla para modificar un intento de Desarmar, Agarrar, Reposicionar, Empujar o Hacer la Zancadilla, sustituyendo tu tirada de Idear una Estratagema por la prueba de Atletismo. Debes aplicar la sustitucion al primer ataque elegible que hagas, ya sea un Golpe o una de las acciones de Atletismo.

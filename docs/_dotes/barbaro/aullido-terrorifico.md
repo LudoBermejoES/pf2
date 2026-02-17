@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/ira/" class="feat-trait">Ira</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aullido-terrorifico.png" alt="Carta de dote">
+</div>
+
+
 Sueltas un aullido terrorífico. Intenta pruebas de Intimidación para Desmoralizar a cada enemigo a 9 metros (30 pies): no recibes penalización si la criatura no entiende tu idioma. Independientemente de los resultados de tus pruebas, cada objetivo queda entonces temporalmente inmune a Aullido Terrorífico durante 1 minuto.
 
 ---

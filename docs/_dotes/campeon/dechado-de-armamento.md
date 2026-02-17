@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dechado-de-armamento.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** armamento bendito
 
 Añade las siguientes runas de propiedad a la lista que puedes elegir para tu armamento bendito: animado, atemorizante mayor, lacerante, afilado y vitalizante mayor. Si tienes la dote Armamento Radiante, añade también astral mayor y brillante mayor a la lista.

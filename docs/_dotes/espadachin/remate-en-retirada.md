@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/remate/" class="feat-trait">Remate</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/remate-en-retirada.png" alt="Carta de dote">
+</div>
+
+
 
 Realizas un ataque calculado sin bajar la guardia. Da un Golpe cuerpo a cuerpo con el siguiente efecto de fallo.
 

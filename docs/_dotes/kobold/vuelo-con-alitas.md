@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/kobold/" class="feat-trait">Kobold</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/vuelo-con-alitas.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Alitas
 
 **Frecuencia:** una vez por asalto

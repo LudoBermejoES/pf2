@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/trucar-objeto-magico.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango experto en Medicina
 
 Examinas un objeto magico que normalmente no podrías utilizar, en un esfuerzo por trucarlo y activarlo temporalmente. Por ejemplo, esto podría permitir a un guerrero lanzar un conjuro desde una varita o a un mago lanzar un conjuro que no esta en la lista arcana utilizando un pergamino. Tienes que saber que sucede cuando se activa el objeto o no puedes intentar trucarlo.

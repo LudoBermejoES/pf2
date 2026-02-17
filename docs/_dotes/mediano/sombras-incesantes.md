@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sombras-incesantes.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Sombras distractoras
 
 Eres excelente en pasar desapercibido, especialmente en una multitud.

@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/interpretacion-fascinante.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Interpretación
 
 Cuando interpretas, compara tu resultado con la CD de Voluntad de un observador. Si tienes éxito, el objetivo queda fascinado por ti durante 1 asalto. Si el observador esta en una situación que exige atención inmediata, como por ejemplo un combate, debes obtener un éxito critico para fascinarlo y la acción de Interpretar obtiene el rasgo incapacitacion. Tienes que elegir a que criatura quieres fascinar antes de hacer la tirada, y el objetivo queda a continuación inmune temporalmente durante 1 hora.

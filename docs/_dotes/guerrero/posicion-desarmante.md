@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posición</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/posicion-desarmante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango entrenado en Atletismo.
 
 **Requisitos:** Empuñas tan solo un arma cuerpo a cuerpo a una mano y no tienes nada más en las manos.

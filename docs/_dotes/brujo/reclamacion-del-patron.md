@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/reclamacion-del-patron.png" alt="Carta de dote">
+</div>
+
+
 Tu patrón se manifiesta parcialmente a través de tu familiar reclamando para sí el poder de un enemigo. Tu familiar obtiene la siguiente actividad.
 
 **Reclamación del patrón {% include accion.html tipo="2" %}**

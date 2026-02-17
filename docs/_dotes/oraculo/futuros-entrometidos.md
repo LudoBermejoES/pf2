@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/futuros-entrometidos.png" alt="Carta de dote">
+</div>
+
+
 Te abres a la guia de cualquier espiritu o poder que se digne a ayudarte. Tira 1d4 para ver que tipo de espiritu se siente atraido hacia ti. Tu siguiente accion debe ser del tipo de accion que el espiritu prefiere, pero tambien obtienes el beneficio listado para la accion mientras el espiritu te guia. Si intentas usar una accion diferente, debes tener exito en una prueba sin modificador de CD 6 o la accion se pierde.
 
 **1 Guerrero:** Debes intentar un Golpe. Obtienes un bonificador de estado de +1 a tu tirada de ataque y un bonificador de estado de +2 al dano, o un bonificador de estado de +6 al dano si estas al menos en vinculado a la maldicion 3.

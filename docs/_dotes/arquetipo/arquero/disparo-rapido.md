@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/disparo-rapido.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Arquero
 
 Desenvainas tu arco y atacas con la misma acción. Interactúas para desenvainar un arma del grupo de arco o ballesta que esté cargada o tenga recarga 0, y luego haces un Golpe con esa arma.

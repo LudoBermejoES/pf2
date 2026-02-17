@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/colmillos-de-sable.png" alt="Carta de dote">
+</div>
+
+
 Tienes colmillos largos, naturales o aumentados. Obtienes un ataque desarmado de mandíbulas que inflige 1d6 de daño perforante. Tus mandíbulas pertenecen al grupo de pelea y tienen el rasgo desarmado.
 
 ---

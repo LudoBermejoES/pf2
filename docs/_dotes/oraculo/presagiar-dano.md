@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/presagiar-dano.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por ronda
 
 **Requisitos:** Tu accion anterior fue Lanzar un hechizo que no sea un trucos y que haya infligido dano.

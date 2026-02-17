@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-mariscal.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en armas marciales y en Diplomacia o Intimidación
 
 Has combinado tus habilidades sociales y tu entrenamiento de combate para convertirte en un líder talentoso. Elige Diplomacia o Intimidación. Pasas a estar entrenado en esa habilidad o a ser experto si ya estabas entrenado.

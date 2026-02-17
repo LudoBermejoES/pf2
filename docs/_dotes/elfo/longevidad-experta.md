@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/longevidad-experta.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Longevidad ancestral
 
 Has continuado refinando el conocimiento y las habilidades obtenidas a lo largo de tu vida.

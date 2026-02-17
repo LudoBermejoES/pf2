@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/guia-elegante.png" alt="Carta de dote">
+</div>
+
+
 Puedes mostrar cómo girar rápidamente fuera del alcance de efectos peligrosos. Puedes usar la reacción Ayudar para otorgar un bono a la tirada de Reflejos de un aliado. Como es habitual con Ayudar, necesitas prepararte usando una acción en tu turno para animar al aliado.
 
 ---

@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/marca-del-clan.png" alt="Carta de dote">
+</div>
+
+
 Luces cicatrices o tatuajes realzados por la marca de coraje de tu clan.
 
 **Beneficio:** Cuando seleccionas esta dote, elige una de las opciones de la tabla que viene a continuación. Estas entrenado en la habilidad indicada y obtienes un bonificador +1 por estatus a las salvaciones contra los conjuros de la tradición tambien indicada. Obtienes una gran marca o tatuaje en forma de emblema elegido o un concepto similar.

@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sangre-bendita.png" alt="Carta de dote">
+</div>
+
+
 Tu sangre recién derramada está santificada, con efectos similares a los del agua bendita.
 
 **Beneficio:** Si un infernal, muerto viviente o criatura con debilidad a lo sagrado bebe tu sangre o te inflige daño perforante o cortante mediante mandíbulas, colmillos o un ataque similar, dicha criatura sufre 1d6 daño espiritual con el rasgo sagrado.

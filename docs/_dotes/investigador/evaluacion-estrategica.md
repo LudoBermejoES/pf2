@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/evaluacion-estrategica.png" alt="Carta de dote">
+</div>
+
+
 Aprendes las fortalezas y debilidades de tus enemigos observando como se mueven. Cuando golpeas a una criatura con un Golpe en el que sustituiste tu tirada de ataque debido a Idear una Estratagema, el DJ elige una de las siguientes piezas de informacion sobre el enemigo para decirte:
 
 - Cual de las debilidades del enemigo es la mas alta

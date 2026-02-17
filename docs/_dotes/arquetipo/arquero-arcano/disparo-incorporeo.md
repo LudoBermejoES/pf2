@@ -13,6 +13,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/disparo-incorporeo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Arquero arcano
 
 **Frecuencia:** una vez por día

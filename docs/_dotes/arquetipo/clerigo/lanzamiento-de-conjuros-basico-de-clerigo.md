@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/lanzamiento-de-conjuros-basico-de-clerigo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de clérigo
 
 Obtienes los beneficios de lanzamiento basico de conjuros. Puedes preparar los conjuros de tu dios en tus espacios de conjuro del rango apropiado del arquetipo clérigo.

@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/mana-avanzada-de-cazador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Mana basica de cazador
 
 Obtienes una dote de explorador. A efectos de cumplir con sus prerrequisitos, tu nivel de explorador es igual a la mitad de tu nivel de personaje.

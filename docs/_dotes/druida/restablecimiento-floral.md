@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/restablecimiento-floral.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** orden de la hoja
 
 **Frecuencia:** una vez al día

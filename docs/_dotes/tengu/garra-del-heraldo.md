@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/fortuna-adversa/" class="feat-trait">Fortuna adversa</a><a href="/apendices/rasgos/tengu/" class="feat-trait">Tengu</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/garra-del-heraldo.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez al día
 
 **Desencadenante:** Una criatura a 60 pies está a punto de intentar una tirada de ataque o una prueba de habilidad.

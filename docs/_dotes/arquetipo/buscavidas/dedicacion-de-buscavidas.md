@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-buscavidas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Artesanía
 
 Mientras otros necesitan herramientas especializadas y un espacio dedicado, tú has encontrado una forma de construir casi cualquier cosa, en cualquier lugar. Puedes Elaborar objetos incluso sin herramientas apropiadas o taller. Además, no necesitas un libro físico de fórmulas para recordar todas tus fórmulas; pagas el mismo coste que de costumbre para aprenderlas, pero las memorizas todas. Obtienes la actividad Improvisar montaje.

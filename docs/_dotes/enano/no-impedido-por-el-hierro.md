@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/no-impedido-por-el-hierro.png" alt="Carta de dote">
+</div>
+
+
 Has aprendido técnicas que fueron desarrolladas por tus antepasados durante sus antiguas guerras, lo que te permite vestir comodamente armaduras enormes.
 
 **Beneficio:** Ignoras la reducción a tu Velocidad debido a cualquier armadura que llevas.

@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/carronero-urbano.png" alt="Carta de dote">
+</div>
+
+
 Sabes que los mayores tesoros a menudo parecen basura.
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia a las pruebas para Subsistir y puedes utilizar Sociedad o Supervivencia cuando Subsistes en un asentamiento.

@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/esquiva-asombrosa.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de picaro
 
 Obtienes el rasgo de clase negar ventaja.

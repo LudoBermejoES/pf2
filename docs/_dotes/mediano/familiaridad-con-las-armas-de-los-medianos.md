@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/familiaridad-con-las-armas-de-los-medianos.png" alt="Carta de dote">
+</div>
+
+
 Te gustan las armas tradicionales de los medianos, por lo que has aprendido a usarlas de forma más eficaz.
 
 **Beneficio:** Obtienes acceso a todas las armas poco comunes con el rasgo mediano. Tienes familiaridad con las armas que tienen el rasgo mediano además de la honda y la espada corta; a efectos de competencia, tratas cualquier arma marcial de éstas como una arma sencilla y cualquier arma avanzada de éstas como una arma marcial.

@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/movimientos-elegantes.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Gladiador, experto en Interpretación
 
 Presumes tu estilo de lucha para desanimar a tus enemigos. Puedes usar Interpretación para Desmoralizar.

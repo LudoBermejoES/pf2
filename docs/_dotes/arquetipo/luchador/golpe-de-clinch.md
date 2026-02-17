@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-de-clinch.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Luchador
 
 **Desencadenante:** Una criatura que tenías agarrada o restringida Escapa con éxito.

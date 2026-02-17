@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/ira/" class="feat-trait">Ira</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cicatrices-de-acero.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** instinto de furia
 
 **Frecuencia:** una vez al día

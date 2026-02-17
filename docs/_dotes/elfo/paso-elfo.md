@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/paso-elfo.png" alt="Carta de dote">
+</div>
+
+
 Te mueves en una danza grácil, e incluso tus pasos son amplios.
 
 **Beneficio:** Puedes dar un Paso de 5 pies (1,5 m) dos veces.

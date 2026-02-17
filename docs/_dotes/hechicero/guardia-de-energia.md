@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/guardia-de-energia.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por turno
 
 **Requisitos:** Tu accion mas reciente fue lanzar un conjuro no trucos que infligio dano de energia.

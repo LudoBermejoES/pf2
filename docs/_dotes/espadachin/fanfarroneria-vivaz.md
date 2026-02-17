@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/fanfarroneria-vivaz.png" alt="Carta de dote">
+</div>
+
+
 
 **Requisitos** Obtuviste panache este turno.
 

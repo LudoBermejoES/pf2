@@ -12,6 +12,11 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/apendices/rasgos/vitalidad/" class="feat-trait">Vitalidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/restauracion-cantoriana.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por día
 
 **Desencadenante:** Una criatura viva a 60 pies fuera a morir.

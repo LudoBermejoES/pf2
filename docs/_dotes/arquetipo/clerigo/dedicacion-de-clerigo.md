@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/apendices/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-clerigo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Sabiduría +2
 
 Lanzas conjuros como un clérigo. Obtienes la actividad Lanzar un conjuro. Puedes preparar 2 trucos comunes cada dia de la lista de conjuros divinos o cualesquiera otros trucos divinos a los que tienes acceso. Estas entrenado en las estadísticas modificador al ataque de conjuros y CD de conjuros.

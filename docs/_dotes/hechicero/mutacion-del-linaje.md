@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/mutacion-del-linaje.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** un linaje basado en un tipo especifico de criatura
 
 Mutas permanentemente para volverte mas como las criaturas de tu linaje. Obtienes el rasgo o rasgos apropiados para esos tipos de criaturas (aberracion para aberrante, angel y celestial para angelical, demonio y maligno para demonico, y asi sucesivamente). Obtienes vision en penumbra o vision en la oscuridad, si alguna es apropiada para criaturas con esos rasgos. Elige una de las siguientes opciones.

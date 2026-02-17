@@ -11,6 +11,10 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/secreto/" class="feat-trait">SECRETO</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/consultar-a-los-espiritus.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** maestro en Naturaleza, Ocultismo o Religión
 
 Has aprendido ritos o meditaciones que te permiten percibir espíritus menores e invisibles dentro de un lugar. Elige Naturaleza, Ocultismo o Religión cuando selecciones esta dote. Naturaleza te permite contactar a los espíritus de la naturaleza que forman leshys, que nacen de esencia vital pura en lugar de energía espiritual y pueden responder preguntas sobre características naturales como la ubicación de agua cercana o vida vegetal. Religión revela la presencia de espíritus angélicos, demoníacos u otros al servicio de seres divinos, que proporcionan información sobre fuentes de energía vital poderosa o energía del Vacío; influencias sagradas o profanas; o la presencia de no-muertos. Ocultismo te permite contactar espíritus persistentes, ecos psíquicos de los muertos, y espíritus de más allá de la realidad, que te hablan sobre cosas como auras extrañas, efectos, o la presencia de seres ocultos antinaturales.

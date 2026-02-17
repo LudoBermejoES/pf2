@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/lanzamiento-acelerado.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por dia
 
 Si tu siguiente accion es lanzar un truco de oraculo o un hechizo de oraculo que sea al menos 2 rangos menor que tu espacio de hechizo de oraculo de rango mas alto, reduce el numero de acciones para lanzarlo en 1 (minimo 1 accion).

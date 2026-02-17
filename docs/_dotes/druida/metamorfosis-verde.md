@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/metamorfosis-verde.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Orden de la hoja
 
 Te has convertido en una versión vegetal de ti mismo, obteniendo el rasgo planta y perdiendo los rasgos inapropiados a tu nueva forma (típicamente humanoide). También obtienes la acción Descanso verde.

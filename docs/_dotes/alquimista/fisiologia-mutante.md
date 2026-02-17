@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/fisiologia-mutante.png" alt="Carta de dote">
+</div>
+
+
 Los mutagenos basicos que afectan tu forma fisica pueden sacar la bestia interior, volverte casi invencible, o hacer tu cuerpo mas elastico. Mientras estas afectado por uno de los mutagenos listados, obtienes un beneficio adicional.
 
 - **Mutageno Bestial** Obtienes el bonificador de objeto del mutageno a tus pruebas de Intimidacion. Ademas, aumentas el tamaño del dado de dano de tus garras y fauces en un paso, y obtienen el rasgo letal d10.

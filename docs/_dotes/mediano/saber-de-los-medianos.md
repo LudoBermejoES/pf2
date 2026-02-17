@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-de-los-medianos.png" alt="Carta de dote">
+</div>
+
+
 Has aprendido obedientemente a mantener el equilibrio y a quedarte en las sombras donde se está seguro, importantes habilidades transmitidas a lo largo de las generaciones en la tradición de los medianos.
 
 **Beneficio:** Obtienes el rango de competencia entrenado en Acrobacias y en Sigilo. Si estás automáticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu elección.

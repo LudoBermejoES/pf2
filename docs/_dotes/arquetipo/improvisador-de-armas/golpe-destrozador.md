@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-destrozador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Aporreo improvisado
 
 **Desencadenante:** Un arma improvisada que empuñas se rompe como resultado de un éxito crítico con Aporreo improvisado.

@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/poderio-intimidante.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** Fuerza +3, rango experto en Intimidación
 
 En las situaciones en las que puedes amenazar fisicamente al objetivo cuando Intimidas o Desmoralizas, obtienes un bonificador +1 por circunstancia a tu prueba de Intimidación e ignoras el penalizador por no compartir un idioma. Si tu modificador por Fuerza es +5 o mas y tienes el rango maestro en Intimidación, este bonificador se incrementa a +2.

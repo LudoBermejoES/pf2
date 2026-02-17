@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/investigador/" class="feat-trait">investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/shock-quirurgico.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** metodologia de medicina forense
 
 Con unos pocos golpes bien colocados con tu puno o arma, dejas a tu oponente desorientado o torpe. Intenta una prueba de Medicina contra la CD de Fortaleza de un objetivo dentro de tu alcance. El resultado de tu prueba determina la severidad de la condicion que infliges.

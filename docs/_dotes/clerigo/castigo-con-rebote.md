@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/castigo-con-rebote.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Canalizar castigo
 
 **Desencadenante:** Fallas tu Golpe durante Canalizar castigo.

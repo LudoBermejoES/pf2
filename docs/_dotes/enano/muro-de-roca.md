@@ -12,6 +12,11 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a><a href="/apendices/rasgos/polimorfia/" class="feat-trait">Polimorfia</a><a href="/apendices/rasgos/tierra/" class="feat-trait">Tierra</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/muro-de-roca.png" alt="Carta de dote">
+</div>
+
+
 **Reacción**
 
 **Frecuencia:** Una vez al dia

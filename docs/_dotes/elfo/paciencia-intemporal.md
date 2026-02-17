@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/paciencia-intemporal.png" alt="Carta de dote">
+</div>
+
+
 Trabajas a un ritmo emanado de la longevidad, que potencia tu esmero.
 
 **Beneficio:** Puedes invertir voluntariamente el doble del tiempo habitual en una prueba de Percepción o de habilidad. Si lo haces, obtienes un bonificador +2 por circunstancia a la prueba y no reduces automáticamente tu grado de éxito si te sale un 1 natural (sólo se considera un fallo crítico una tirada cuyo resultado es 10 menos que la clase de dificultad).

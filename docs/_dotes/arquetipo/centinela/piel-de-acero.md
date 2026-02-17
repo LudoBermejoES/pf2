@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/piel-de-acero.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Centinela, entrenado en Supervivencia
 
 Llevas tu armadura como una segunda piel, confortado por la protección que ofrece. No quedas fatigado si duermes llevando armadura.

@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/polifacetico-esoterico.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa polifacetico
 
 Tienes un libro de conjuros ocultistas, similar al de conjuros de un mago, que puedes utilizar para aumentar tu repertorio de conjuros. Suma a ese libro todos los conjuros de tu repertorio de forma gratuita. Puedes usar la habilidad Ocultismo para Aprender un conjuro y anadirlos a tu libro de conjuros pagando el coste apropiado.

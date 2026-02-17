@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/abundancia-ocultista.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Lanzamiento de conjuros basico de bardo
 
 Tu repertorio se expande y cada dia puedes lanzar mas conjuros ocultistas. Incrementa el numero de conjuros de tu repertorio y el numero de espacios de conjuro que obtienes a partir de dotes del arquetipo bardo en 1 por cada rango de conjuro diferente a tus dos espacios de conjuro de bardo de rango superior.

@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ferocidad-de-orco.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** Una vez al dia
 
 **Desencadenante:** Quedarias reducido a 0 Puntos de Golpe pero no morir de inmediato.

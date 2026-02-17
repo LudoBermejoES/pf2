@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/fanfarronada/" class="feat-trait">Fanfarronada</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/acostumbrate-a-la-decepcion.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** experto en Intimidacion
 

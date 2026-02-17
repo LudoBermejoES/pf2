@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/hechiceria-propulsora.png" alt="Carta de dote">
+</div>
+
+
 La fuerza de tu magia puede usarse para propulsarte a ti o a otro. Conoces el siguiente efecto de magia de sangre.
 
 **Magia de Sangre - Hechiceria Propulsora:** Canalizas tu magia hacia afuera en un impulso de movimiento. O das un Paso como accion gratuita o mueves al objetivo 1,5 metros en una direccion de tu eleccion.

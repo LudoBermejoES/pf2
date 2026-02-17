@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aliados-silenciosos.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango experto en Sigilo
 
 Eres muy habil en moverte con un grupo. Cuando Evitas ser detectado y tus aliados Siguen al experto, tus aliados y tu podeis hacer una sola prueba de Sigilo utilizando el menor de los modificadores, en lugar de tirar por separado. Esto no se aplica a las tiradas de iniciativa.

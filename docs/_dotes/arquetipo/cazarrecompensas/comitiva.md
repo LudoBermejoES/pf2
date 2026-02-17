@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/exploracion/" class="feat-trait">Exploración</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/comitiva.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
 **Requisitos:** Has designado una presa con Cazar presa.

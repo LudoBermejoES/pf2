@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/polimorfia/" class="feat-trait">Polimorfía</a><a href="/apendices/rasgos/primigenio/" class="feat-trait">Primigenio</a><a href="/apendices/rasgos/ira/" class="feat-trait">Ira</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/transformacion-draconica.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Alas de Ira Dracónica
 
 **Frecuencia:** una vez cada 10 minutos

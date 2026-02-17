@@ -12,4 +12,9 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ysoki/" class="feat-trait">Ysoki</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/mas-que-la-suma.png" alt="Carta de dote">
+</div>
+
+
 Invocas los lazos familiares que compartes con tus aliados y otros ysoki para convertirte en una fuerza abrumadora en combate. Puedes lanzar *agrandar* como conjuro innato primitivo de 6.º nivel una vez al día.

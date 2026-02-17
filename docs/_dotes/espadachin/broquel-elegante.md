@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/broquel-elegante.png" alt="Carta de dote">
+</div>
+
+
 
 Has aprendido una forma flexible de posicionar tu broquel para proporcionar mas proteccion. Cuando Alzas un escudo para obtener un bonificador por circunstancia a la CA con un broquel, incrementa el bonificador de +1 a +2.
 

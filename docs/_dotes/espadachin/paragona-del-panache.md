@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/paragona-del-panache.png" alt="Carta de dote">
+</div>
+
+
 
 Encuentras oportunidades para realizar hazañas con estilo en los momentos entre los latidos del corazon y parpadeos de otros. Estas permanentemente acelerado. Solo puedes usar la accion extra para realizar una accion de fanfarronada.
 

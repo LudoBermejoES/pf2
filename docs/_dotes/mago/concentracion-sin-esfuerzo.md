@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/concentracion-sin-esfuerzo.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Empieza tu turno.
 
 Mantienes tus conjuros activos casi sin pensarlo. Obtienes de inmediato los efectos de la acción de Mantener para uno de tus conjuros de mago activos.

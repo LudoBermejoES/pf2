@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/revelacion-mayor.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** hechizo de revelacion inicial
 
 Desbloqueas revelaciones mas profundas ocultas dentro de tu misterio. Obtienes el hechizo de revelacion mayor de tu misterio.

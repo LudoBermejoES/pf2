@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/familiar-hilvanado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** patrón arcano o primigenio
 
 Tu familiar puede abandonar su forma material, convirtiéndose en una masa de magia animada. Tu familiar obtiene la actividad golpe hilvanado.

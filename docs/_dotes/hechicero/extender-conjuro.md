@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/extender-conjuro.png" alt="Carta de dote">
+</div>
+
+
 Puedes extender el alcance de tus conjuros. Si la siguiente accion que usas es Lanzar un Conjuro que tiene un alcance, incrementa el alcance de ese conjuro en 9 metros. Como es estandar para incrementar alcances de conjuros, si el conjuro normalmente tiene un alcance de toque, extiendes su alcance a 9 metros.
 
 ---

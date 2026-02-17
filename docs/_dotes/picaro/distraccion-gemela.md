@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/distraccion-gemela.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Finta gemela
 
 **Requisitos:** Empuñas dos armas cuerpo a cuerpo, cada una en una mano diferente.

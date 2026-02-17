@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/guardian-avanzado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Guardian iniciado
 
 Desbloqueas mas conjuros primigenios poderosos. Obtienes un conjuro de guardian a elegir de los conjuros avanzados de guardian (u otro al que tienes acceso).

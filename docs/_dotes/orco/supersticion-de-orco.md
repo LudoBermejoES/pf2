@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/supersticion-de-orco.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Haces una tirada de salvación contra un conjuro o un efecto magico, pero aun no has tirado los dados.
 
 Te defiendes contra la magia balándote en técnicas derivadas de las supersticiones culturales de los orcos.

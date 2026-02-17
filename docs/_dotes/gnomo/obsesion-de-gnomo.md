@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/obsesion-de-gnomo.png" alt="Carta de dote">
+</div>
+
+
 Puede que tengas una naturaleza veleidosa, pero cuando un tema capta tu atención, te sumerges en él de cabeza.
 
 **Beneficio:** Obtienes la dote Saber adicional (pág. 251 ([ver](/dotes/habilidad/))) y la dote Seguro para el Saber elegido. Como quiera que las obsesiones de gnomo pueden ir y venir rápidamente, puedes reconvertir Obsesión de gnomo a una subcategoría diferente de Saber en 1 día de tiempo libre.

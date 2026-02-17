@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/conjuro-de-escuela-avanzado.png" alt="Carta de dote">
+</div>
+
+
 Obtienes acceso a las enseñanzas avanzadas de tu institución arcana, aprendiendo un potente nuevo conjuro de escuela. Obtienes el conjuro de escuela avanzado de tu escuela arcana.
 
 

@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a><a href="/apendices/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-rodante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Acróbata
 
 **Requisitos:** Estás adyacente a un enemigo.

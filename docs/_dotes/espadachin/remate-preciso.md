@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/remate-preciso.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Remate Confiado
 

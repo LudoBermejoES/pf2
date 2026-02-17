@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/kobold/" class="feat-trait">Kobold</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/colocador-de-lazos.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** entrenado en Elaboración
 
 Dominas el arte kobold de fabricar trampas. Obtienes la competencia entrenado en Elaboración. Si ya estabas entrenado en Elaboración, en su lugar te vuelves entrenado en una habilidad a tu elección. Obtienes acceso a todos los lazos kobold poco comunes. Obtienes la dote Elaboración de lazos, aunque al elegir tus fórmulas para esa dote, también puedes elegir entre lazos kobold poco comunes, así como lazos comunes.

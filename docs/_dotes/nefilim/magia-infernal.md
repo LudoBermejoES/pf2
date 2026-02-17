@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/magia-infernal.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Prole infernal, Engendro macabro o Nacido del foso
 
 Dispones de magia infernal.

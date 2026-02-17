@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/abrir-paso.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Demoledor
 
 **Requisitos:** Estás empuñando un arma de melé a dos manos.

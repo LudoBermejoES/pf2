@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/carga-arrolladora.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Caballero
 
 **Requisitos:** Estás montando una montura que tiene un Golpe de melé usando sus patas (garra, zarpas, pezuña, etc.).

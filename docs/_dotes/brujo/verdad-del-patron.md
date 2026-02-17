@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/verdad-del-patron.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Don del patrón
 
 Has dominado los mayores secretos de la magia de tu patrón y has averiguado una verdad fundamental sobre el mismo, incluso si su identidad sigue siendo un misterio. Obtienes 1 espacio de conjuro adicional de 10.º rango.

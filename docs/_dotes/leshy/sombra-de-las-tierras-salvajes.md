@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sombra-de-las-tierras-salvajes.png" alt="Carta de dote">
+</div>
+
+
 Es difícil percibir tu paso por las areas salvajes.
 
 **Beneficio:** Si no estas en un entorno urbano, se considera que siempre estas Cubriendo tus rastros, incluso si has elegido una actividad diferente en el modo exploración.

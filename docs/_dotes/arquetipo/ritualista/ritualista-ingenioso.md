@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ritualista-ingenioso.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Ritualista
 
 Puedes lanzar rituales difíciles que de otro modo estarían justo más allá de tu habilidad. Puedes intentar pruebas para lanzar un ritual que requiera competencia experta si estás entrenado, competencia de maestro si eres experto o competencia legendaria si eres maestro.

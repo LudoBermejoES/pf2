@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/forma-de-monstruosidad.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Forma salvaje
 
 Te puedes transformar en una poderosa criatura mágica. Añade las formas gusano púrpura y serpiente marina indicadas en *forma monstruosa* a tu lista de *forma indómita*. Si tienes Forma voladora, añades también la de fénix a tu lista de *forma indómita*.

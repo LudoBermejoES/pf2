@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/pisada-vivaz.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Un enemigo Grande o mayor acaba una acción de movimiento adyacente a ti.
 
 Eres experto en evitar las torpes pisadas de las criaturas más grandes.

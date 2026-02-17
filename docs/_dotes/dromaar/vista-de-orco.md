@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dromaar/" class="feat-trait">Dromaar</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/vista-de-orco.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Visión en la penumbra
 
 Tu sangre de orco te concede la aguda vista de tus antepasados.

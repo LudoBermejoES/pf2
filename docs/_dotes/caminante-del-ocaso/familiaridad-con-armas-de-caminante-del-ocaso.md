@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/familiaridad-con-armas-de-caminante-del-ocaso.png" alt="Carta de dote">
+</div>
+
+
 Tienes familiaridad con el bastón bo, arco largo, arco largo compuesto, guadaña y bastón; a efectos de competencia, tratas cualquiera de estas armas que sean marciales como simples y cualquiera que sea avanzada como marcial.
 
 Al 5.º nivel, siempre que obtienes un impacto crítico con una de estas armas, obtienes su efecto de especialización crítica.

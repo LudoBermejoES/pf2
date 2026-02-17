@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rodilla.png" alt="Carta de dote">
+</div>
+
+
 Asestas un tremendo golpe a la rodilla, la espinilla u otra parte vulnerable a tu alcance de la anatomia de un enemigo.
 
 **Beneficio:** Da un Golpe cuerpo a cuerpo con una arma cuerpo a cuerpo o un ataque sin armas cuerpo a cuerpo. Este ataque no inflige dano. Con un impacto, el objetivo sufre un penalizador -10 pies (3 m) por estatus a su Velocidad (o un penalizador -15 pies [4,5 m] por estatus con un impacto critico). El penalizador dura 1 asalto.

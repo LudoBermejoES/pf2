@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/tu-eres-el-siguiente.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** entrenado en Intimidacion
 

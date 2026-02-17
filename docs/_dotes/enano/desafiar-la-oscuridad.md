@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/desafiar-la-oscuridad.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Vision en la oscuridad
 
 Utilizando antiguos metodos enanos desarrollados para luchar contra los enemigos que utilizan oscuridad magica, has refinado tu vision en la oscuridad y has jurado no utilizar dicha magia tu mismo.

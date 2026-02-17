@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/presencia-del-patron.png" alt="Carta de dote">
+</div>
+
+
 Tu patrón puede dirigir su atención a través de tu familiar, y su mera presencia se convierte en un peso ominoso sobre la mente de otros seres para distraerles y anular su magia. Tu familiar obtiene la siguiente actividad.
 
 **Presencia del patrón {% include accion.html tipo="2" %}** (aura)

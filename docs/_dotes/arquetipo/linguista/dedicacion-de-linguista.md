@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-linguista.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Hablas al menos tres idiomas.
 
 Has estudiado los idiomas y su desarrollo. Pasas a estar entrenado en Sociedad; si ya estabas entrenado en Sociedad, pasas a ser experto. Obtienes la dote de habilidad Multilingüe dos veces.

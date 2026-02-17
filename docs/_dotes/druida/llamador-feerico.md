@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/llamador-feerico.png" alt="Carta de dote">
+</div>
+
+
 Has aprendido algunos de los trucos que las hadas utilizan para doblegar la magia primigenia hacia las ilusiones y los engaños. Añade *disfraz ilusorio*, *escena ilusoria* y *objeto ilusorio* a tu lista de conjuros, y los lanzas como conjuros primigenios.
 
 

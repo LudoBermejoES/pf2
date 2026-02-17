@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/blitz-de-armas-dobles.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Guerrero de armas dobles
 
 **Requisitos:** Estás empuñando dos armas de melé de una mano, cada una en una mano distinta.

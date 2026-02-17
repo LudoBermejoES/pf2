@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sanar-montura.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Corcel Fiel, imposición de manos
 
 Tu devoción a tu montura se manifiesta como una oleada de energía vital. Cuando lanzas imposición de manos sobre tu montura, en lugar de la cantidad normal, el conjuro restaura 10 Puntos de Golpe, más 10 por cada rango de intensificación.

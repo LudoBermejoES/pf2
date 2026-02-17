@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estudios-de-asentamientos.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Arqueólogo
 
 Tus estudios abren nuevos horizontes. Elige un asentamiento específico. Obtienes la dote de habilidad Saber adicional en el Saber de ese asentamiento y aprendes un único idioma común o poco común de tu elección que sea prevalente en ese asentamiento.

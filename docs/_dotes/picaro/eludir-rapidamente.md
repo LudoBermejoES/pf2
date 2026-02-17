@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/eludir-rapidamente.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango legendario en Acrobacias
 
 **Desencadenante:** Un enemigo acaba su movimiento adyacente a ti.

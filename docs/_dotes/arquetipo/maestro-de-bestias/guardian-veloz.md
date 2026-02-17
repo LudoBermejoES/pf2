@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/guardian-veloz.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Maestro de bestias, Llamar compañero
 
 **Desencadenante:** Tiras iniciativa.

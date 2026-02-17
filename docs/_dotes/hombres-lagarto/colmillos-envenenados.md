@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/colmillos-envenenados.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Armas iruxi (Colmillos)
 
 **Frecuencia:** una vez por hora

@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estratagema-inspirada.png" alt="Carta de dote">
+</div>
+
+
 Durante tus preparativos diarios, puedes revisar tus estratagemas para las aventuras diarias con hasta cinco aliados. Mas tarde, puedes avisarles rapidamente de lo que vas hacer utilizando la reacción siguiente.
 
 **Estratagema Inspirada {% include accion.html tipo="reaccion" %}** (fortuna, linguistico)

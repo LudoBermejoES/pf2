@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/magico/" class="feat-trait">Magico</a><a href="/apendices/rasgos/movimiento/" class="feat-trait">Movimiento</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/infiltracion-inverosimil.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango legendario en Acrobacias, Escurrirse rapidamente
 
 **Requisitos:** Estas adyacente a un suelo o a un muro vertical.

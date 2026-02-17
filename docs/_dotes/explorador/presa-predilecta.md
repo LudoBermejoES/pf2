@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/presa-predilecta.png" alt="Carta de dote">
+</div>
+
+
 Has estudiado un tipo especifico de criatura salvaje y puedes cazarla con mas facilidad. Cuando adquieres esta dote, elige entre animales, bestias, dragones u hongos y plantas (ambos) como presa predilecta.
 
 Cuando tiras iniciativa y puedes ver a un enemigo que pertenece a la categoria elegida, puedes Perseguir la presa como acción gratuita, designando a dicho enemigo.

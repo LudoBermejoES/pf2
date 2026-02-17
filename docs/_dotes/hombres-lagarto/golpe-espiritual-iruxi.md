@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-espiritual-iruxi.png" alt="Carta de dote">
+</div>
+
+
 Tus ataques desarmados iruxi canalizan la energía espiritual de tus ancestros. Cualquier ataque desarmado que adquieras de la ascendencia iruxi, herencias iruxi o dotes de ascendencia iruxi gana los efectos de una runa de propiedad toque fantasmal.
 
 ---

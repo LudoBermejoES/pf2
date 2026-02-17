@@ -12,4 +12,9 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a><a href="/apendices/rasgos/primitivo/" class="feat-trait">Primitivo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/transformacion-de-vastago.png" alt="Carta de dote">
+</div>
+
+
 Hibernas durante veinticuatro horas y realizas un ritual dedicado a tus ancestros, sometiéndote a una metamorfosis única. Ganas permanentemente los efectos de *agrandar*, y tus Puntos de Golpe máximos aumentan en un valor igual a tu nivel. El ritual transforma la mayoría de tu equipo al tamaño apropiado para tu nuevo cuerpo (aunque objetos poderosos como artefactos o aquellos muy ligados a su tamaño original pueden no transformarse, a discreción del DJ).

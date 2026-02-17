@@ -12,6 +12,10 @@ source: PC1
 <a href="/apendices/rasgos/general/" class="feat-trait">General</a>
 </div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/mascota.png" alt="Carta de dote">
+</div>
+
 Tienes una mascota; un animal Menudo de un tipo elegido por ti, como por ejemplo un gato, un pájaro o un roedor. Tiene el rasgo esbirro, lo que significa que obtiene 2 acciones durante tu turno si usas la acción Comandar a un animal para Comandarlo; esto reemplaza los efectos usuales de Comandar a un animal y no hace falta que hagas una prueba de Naturaleza. Una mascota no puede dar Golpes.
 
 **Nivel:** El nivel de tu mascota es igual al tuyo.

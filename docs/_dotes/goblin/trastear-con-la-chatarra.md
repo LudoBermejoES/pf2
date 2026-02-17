@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/trastear-con-la-chatarra.png" alt="Carta de dote">
+</div>
+
+
 Puedes fabricar herramientas utiles, incluso de los desechos mas retorcidos u oxidados.
 
 **Beneficio:** Cuando utilizas la habilidad Artesanía para Fabricar, puedes hacer objetos de nivel 0 (incluyendo armas y armaduras) a partir de chatarra. Esto reduce el Precio a una cuarta parte de la cantidad usual, pero siempre resulta en un objeto chapucero. Los objetos chapuceros normalmente imponen un penalizador, pero tu no lo sufres si utilizas objetos chapuceros fabricados por ti mismo (y tampoco se te aplica el mayor penalizador debido a una armadura chapucera).

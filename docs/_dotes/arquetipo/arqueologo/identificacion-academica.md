@@ -13,6 +13,11 @@ level: 7
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/identificacion-academica.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Arqueólogo, maestro en Sociedad
 
 Tienes el conocimiento necesario para comprender textos antiguos y artefactos culturales. Puedes usar Sociedad al Descifrar escritura, sin importar el tipo de escritura que examines. También puedes usar Sociedad para Identificar magia cuando examinas un objeto mágico o un lugar con significado cultural.

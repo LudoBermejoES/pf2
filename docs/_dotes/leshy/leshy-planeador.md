@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/leshy-planeador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Herencia leshy de las hojas o dote de habilidad Caída de gato
 
 Utilizando tus propias hojas, puedes controlar tu descenso.

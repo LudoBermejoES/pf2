@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/lanzamiento-arcano-basico.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Arquero arcano
 
 Obtienes los beneficios básicos de lanzamiento de conjuros. Cada vez que obtienes un espacio de conjuro de un nuevo nivel con este arquetipo, añade un conjuro del rango apropiado a tu repertorio, ya sea un conjuro común de tu tradición elegida u otro conjuro de esa tradición que hayas aprendido o descubierto.

@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/desviacion-del-guardian.png" alt="Carta de dote">
+</div>
+
+
 
 **Desencadenante** Un aliado dentro de tu alcance cuerpo a cuerpo es impactado por un ataque, puedes ver al atacante, y un bonificador +2 por circunstancia a la CA convertiria el impacto critico en un impacto o el impacto en un fallo.
 

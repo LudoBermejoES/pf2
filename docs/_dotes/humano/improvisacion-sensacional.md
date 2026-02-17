@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/improvisacion-sensacional.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** Una vez al dia
 
 **Desencadenante:** Haces una prueba utilizando una habilidad en la que no estas entrenado.

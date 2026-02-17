@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/huesos-de-piedra.png" alt="Carta de dote">
+</div>
+
+
 **Reacción**
 
 **Desencadenante:** Sufres un impacto critico que inflige dano fisico.

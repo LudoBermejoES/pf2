@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/paso-sin-obstaculos.png" alt="Carta de dote">
+</div>
+
+
 No permites que otros te retengan.
 
 **Beneficio:** Puedes lanzar sobre ti mismo *movimiento sin restricciones* como conjuro innato primigenio una vez al día.

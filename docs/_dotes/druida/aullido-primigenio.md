@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aullido-primigenio.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Compañero sensacional
 
 Tu compañero puede emitir un aullido imbricado en tu magia primigenia. Obtiene la siguiente maniobra avanzada, además de cualquier otra maniobra avanzada que ya conoce.

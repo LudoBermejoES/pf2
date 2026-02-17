@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-guerrero-de-armas-dobles.png" alt="Carta de dote">
+</div>
+
+
 Eres excepcional en el uso de dos armas. Obtienes la dote de guerrero Tajo doble.
 
 ---

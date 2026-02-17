@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/longevidad-universal.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Longevidad ancestral
 **Frecuencia:** Una vez al día
 

@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a><a href="/apendices/rasgos/veneno/" class="feat-trait">Veneno</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/capa-de-veneno.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** Una vez al dia
 
 Segregas una capa de veneno concentrado que dana a cualquiera que se atreve a atacarte.

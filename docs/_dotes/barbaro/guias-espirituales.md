@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/guias-espirituales.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** instinto del espíritu
 
 **Frecuencia:** una vez al día

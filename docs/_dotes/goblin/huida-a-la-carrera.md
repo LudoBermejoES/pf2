@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/huida-a-la-carrera.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Huida goblin
 
 Puedes ir mas lejos y mas rapido cuando maniobras junto a tus aliados.

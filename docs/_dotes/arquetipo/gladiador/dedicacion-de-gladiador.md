@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-gladiador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Interpretación impresionante
 
 Sabes convertir el combate en una forma de entretenimiento. Obtienes la dote general Saber adicional para Saber gladiatorio. Si ya estabas entrenado en Saber gladiatorio, también pasas a estar entrenado en una habilidad de Saber de tu elección.

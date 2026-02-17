@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/prediccion/" class="feat-trait">prediccion</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/tirar-los-huesos-del-destino.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** misterio de huesos o conocimiento
 
 **Frecuencia:** una vez por 10 minutos

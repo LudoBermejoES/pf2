@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/familiar-espiritual.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** patrón divino u ocultista
 
 Tu familiar puede subsumir su cuerpo y convertirse en un espíritu puro. Obtiene la actividad mudar espíritu.

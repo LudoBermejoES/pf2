@@ -13,6 +13,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/lazos-relampago.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Fabricante de lazos, maestro en Artesanía
 
 Puedes preparar una trampa con velocidad increíble. Cuando creas un lazo que normalmente lleva 1 minuto Elaborarlo, puedes Elaborarlo usando una sola acción de Interactuar.

@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/conservacion-del-vinculo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** vinculo arcano
 
 **Requisitos:** La ultima acción que has utilizado ha sido Lanzar un conjuro mediante Drenar objeto vinculado.

@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/corpulencia-de-la-montana.png" alt="Carta de dote">
+</div>
+
+
 Tu resistencia te permite soportar mas castigo de lo habitual.
 
 **Beneficio:** Incrementa tus Puntos de Golpe maximos en una cantidad igual a tu nivel. Cuando te encuentras en el estado moribundo, la CD de tus pruebas de recuperación es igual a 9 + tu valor de moribundo (en lugar de 10 + tu valor de moribundo).

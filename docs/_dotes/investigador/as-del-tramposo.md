@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/investigador/" class="feat-trait">investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/as-del-tramposo.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Especificas el desencadenante cuando haces tus preparaciones diarias (ver Requisitos abajo).
 
 **Requisitos:** Cuando haces tus preparaciones diarias, debes especificar un desencadenante para esta reaccion usando las mismas restricciones que los desencadenantes para la accion Preparar. Tambien eliges un solo conjuro de la lista arcana, divina, oculta o primigenia de nivel 4 o inferior. El conjuro no puede tener un coste, ni su tiempo de lanzamiento puede ser mas de 10 minutos. El conjuro debe poder tener como objetivo una sola criatura, y tu debes ser un objetivo valido para el.

@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/abuson-furioso.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** maestro en Atletismo
 
 Intimidas a los enemigos por todo el campo de batalla. Mientras estás en ira, obtienes un bonificador de circunstancia de +2 a pruebas de Atletismo para acciones de ataque.

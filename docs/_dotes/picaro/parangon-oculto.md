@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/parangon-oculto.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango legendario en Sigilo
 
 **Frecuencia:** Una vez por hora

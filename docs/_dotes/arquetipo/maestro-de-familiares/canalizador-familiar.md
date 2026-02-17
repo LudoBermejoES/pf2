@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/canalizador-familiar.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Maestro de familiares, capaz de lanzar conjuros
 
 **Requisitos:** Tienes línea de efecto hacia tu familiar.

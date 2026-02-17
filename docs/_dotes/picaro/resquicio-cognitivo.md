@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/resquicio-cognitivo.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Acaba tu turno.
 
 **Requisitos:** Estas siendo afectado por un efecto mental.

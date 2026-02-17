@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/disparo-encantador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Arquero arcano
 
 Con un único susurro llevado por el viento, encantas tu munición para hacer a un enemigo más vulnerable a tus ataques. Realiza un Golpe con arco o ballesta. En caso de impacto, el objetivo recibe 2d6 de daño mental adicional. Con un impacto crítico, el objetivo también queda aturdido 1. El daño mental aumenta a 3d6 si tu arma tiene una runa de golpe mayor, o a 4d6 si tu arma tiene una runa de golpe principal.

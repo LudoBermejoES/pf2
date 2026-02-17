@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/llamada-del-hombre-verde.png" alt="Carta de dote">
+</div>
+
+
 Puedes convocar a los espíritus de la Naturaleza cercanos para que potencien tu cuerpo.
 
 **Beneficio:** Una vez al dia puedes lanzar *forma de planta* como conjuro innato primigenio de 5.o rango. Cuando llegues a 17.o nivel, podrás potenciar el conjuro a 6.o rango cuando lo lances.

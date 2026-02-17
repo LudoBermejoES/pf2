@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/fijacion-rapida.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Diletante de talismanes
 
 Puedes fijar un talismán usando solo un poco de pegamento y algo de cuerda. Obtienes la dote de habilidad Fijación rápida, incluso si no cumples los prerrequisitos. Al usarla, puedes fijar o retirar hasta cuatro talismanes en 1 minuto en lugar de solo uno.

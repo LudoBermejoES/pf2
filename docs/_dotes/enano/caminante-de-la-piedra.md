@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/caminante-de-la-piedra.png" alt="Carta de dote">
+</div>
+
+
 Tienes una gran reverencia hacia la piedra y una conexión especial con ella.
 
 **Beneficio:** Puedes lanzar *uno con la piedra* como un conjuro innato divino de 3.er rango una vez al dia.

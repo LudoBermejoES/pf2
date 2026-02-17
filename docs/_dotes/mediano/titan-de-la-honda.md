@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/titan-de-la-honda.png" alt="Carta de dote">
+</div>
+
+
 Has aprendido a utilizar la honda para abatir criaturas enormes.
 
 **Beneficio:** Cuando aciertas con un ataque de una arma del grupo de las hondas contra una criatura Grande o mayor, incrementa en un paso el tamaño del dado de daño (los detalles sobre cómo incrementar el tamaño del dado de daño de una arma están en la pág. 276 ([ver](/equipo/armas/))).

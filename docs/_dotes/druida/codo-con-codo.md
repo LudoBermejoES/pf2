@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/codo-con-codo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Compañero animal
 
 Tu compañero animal y tú lucháis en tándem, distrayendo a vuestros enemigos y manteniéndolos desequilibrados. Siempre que tu compañero animal y tú estáis adyacentes al mismo enemigo, se considera que ambos lo estáis flanqueando, sean cuales sean vuestras posiciones reales.

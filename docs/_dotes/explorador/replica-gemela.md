@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/replica-gemela.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Parada gemela
 
 **Desencadenante:** Una criatura a tu alcance sufre un fallo critico en un Golpe contra ti.

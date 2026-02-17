@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cantar-el-golpe.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Complacer a la multitud
 
 Cuando logras Complacer a la multitud, añade lo siguiente a la lista de beneficios entre los que puedes elegir:

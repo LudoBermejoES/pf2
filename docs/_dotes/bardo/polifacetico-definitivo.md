@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/polifacetico-definitivo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa polifacetico
 
 Puedes lanzar flexiblemente todas tus conjuros, lo que te concede una gama deslumbrante de posibles opciones. Todos los conjuros de tu repertorio son conjuros de signatura para ti.

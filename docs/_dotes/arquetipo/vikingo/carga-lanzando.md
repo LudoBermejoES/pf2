@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/carga-lanzando.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Vikingo
 
 **Requisitos:** Estás empuñando un arma arrojadiza.

@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a><a href="/apendices/rasgos/enfermedad/" class="feat-trait">Enfermedad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aranazo-agravante.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** ataque desarmado de garra
 
 Tus garras portan un irritante inofensivo para ti pero dañino para otros. Tus Golpes con garra infligen 1d4 de daño de veneno persistente adicional con un golpe crítico.

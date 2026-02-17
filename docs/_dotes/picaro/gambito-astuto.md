@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/gambito-astuto.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Enredo de mente maestra
 
 **Desencadenante:** Tu Golpe resulta en un impacto critico e inflige dano a una criatura a la que has identificado mediante Recordar conocimiento.

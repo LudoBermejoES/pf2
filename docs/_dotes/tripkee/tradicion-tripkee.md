@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/tradicion-tripkee.png" alt="Carta de dote">
+</div>
+
+
 Conoces bien la cultura y tácticas tripkee. Obtienes el rango de competencia entrenado en Naturaleza y Sigilo. Si fueras a volverte entrenado automáticamente en una de esas habilidades, en su lugar te vuelves entrenado en una habilidad de tu elección.
 
 También obtienes la dote general Conocimientos adicionales para Conocimientos tripkee.

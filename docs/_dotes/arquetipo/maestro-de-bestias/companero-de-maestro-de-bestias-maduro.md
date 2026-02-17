@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/companero-de-maestro-de-bestias-maduro.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Maestro de bestias
 
 Todos tus compañeros animales crecen, convirtiéndose en compañeros animales maduros y ganando capacidades adicionales.

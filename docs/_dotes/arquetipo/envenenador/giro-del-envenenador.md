@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/giro-del-envenenador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Envenenador, entrenado en Medicina
 
 **Requisitos:** Tu última acción fue un Golpe de melé exitoso que infligió daño contra un objetivo afligido por un veneno, y sabes qué veneno.

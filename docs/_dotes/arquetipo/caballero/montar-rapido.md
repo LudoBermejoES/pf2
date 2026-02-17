@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/montar-rapido.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Caballero, experto en Naturaleza
 
 **Requisitos:** Estás adyacente a una criatura que es al menos un tamaño mayor que tú y está dispuesta a ser tu montura.

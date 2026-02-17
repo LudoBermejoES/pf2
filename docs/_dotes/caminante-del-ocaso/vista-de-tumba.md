@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/vista-de-tumba.png" alt="Carta de dote">
+</div>
+
+
 Puedes ver en la oscuridad tan fácilmente como un psicopompo. Obtienes visión en la oscuridad.
 
 **Especial:** Puedes seleccionar esta dote solo a nivel 1, y no puedes reentrenarte hacia o desde esta dote.

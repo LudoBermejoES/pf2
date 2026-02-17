@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/diletante-profundo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Diletante de talismanes
 
 Con algunos ajustes a tu proceso y una colección más amplia de materiales de talismán, haces un mayor número de talismanes cada día. Puedes crear dos talismanes adicionales durante tus preparativos diarios.

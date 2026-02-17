@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/lazo-sorpresa.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Fabricante de lazos
 
 Instalas un lazo preparado para despliegue en un espacio ocupado por un enemigo. Debe ser un lazo que normalmente lleva 1 minuto o menos Elaborarlo. El lazo se activa automáticamente.

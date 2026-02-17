@@ -13,6 +13,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/blanco-de-oportunidad.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Mariscal
 
 **Desencadenante:** Un aliado tiene éxito con un Golpe a distancia contra un oponente en el primer incremento de alcance de tu arma.

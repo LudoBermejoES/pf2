@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aspecto-draconico.png" alt="Carta de dote">
+</div>
+
+
 Tienes un rasgo dracónico evidente, como garras afiladas, un hocico lleno de dientes afilados o una cola reptiliana fuerte, que puedes usar ofensivamente. Obtienes a tu elección uno de los siguientes ataques desarmados. El ataque está en el grupo pelea y tiene el dado de daño y rasgos indicados.
 
 - **Garra** 1d4 cortante (ágil, destreza, desarmado)

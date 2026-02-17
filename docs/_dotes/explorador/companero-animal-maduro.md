@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/companero-animal-maduro.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Companero animal
 
 Tu compañero animal se convierte en un compañero animal maduro y obtiene capacidades adicionales.

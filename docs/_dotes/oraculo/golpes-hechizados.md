@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpes-hechizados.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por turno
 
 **Requisitos:** Tu accion mas reciente fue lanzar un hechizo que no sea un truco.

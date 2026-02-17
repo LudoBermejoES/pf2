@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/hipercognicion-verdadera.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa enigma
 
 Tu mente funciona a un ritmo increíble. Utilizas de forma instantanea hasta 5 acciones de Recordar conocimiento. Si tienes alguna aptitud especial o acción gratuita que normalmente se activaria cuando Recuerdas conocimiento, no puedes utilizarla para estas acciones.

@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/recarga-arcana.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Arquero arcano
 
 **Requisitos:** Tu última acción este turno fue realizar un Disparo arcano, Lanzar un conjuro desde un espacio, o activar una pieza de munición mágica.

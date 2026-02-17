@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/apoyo-instintivo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Compañero animal
 
 **Desencadenante:** Lanzas un conjuro que no es un truco y que designa como objetivo tan solo a tu compañero animal.

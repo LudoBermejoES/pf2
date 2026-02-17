@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/disparo-a-larga-distancia.png" alt="Carta de dote">
+</div>
+
+
 Tu experiencia en el campo te ha ensenado a enfocar tu punteria a distancia, incrementando tu precision. Dobla los incrementos de rango de distancia de tu arma.
 
 

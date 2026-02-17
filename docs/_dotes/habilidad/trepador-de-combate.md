@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/trepador-de-combate.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Atletismo
 
 Tu tecnica te permite luchar mientras trepas. No estas desprevenido mientras Trepas y puedes Trepar con una mano ocupada. Sigues teniendo que utilizar la otra mano y ambas piernas para Trepar.

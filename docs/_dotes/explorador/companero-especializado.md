@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/companero-especializado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Companero sensacional
 
 Tu compañero animal continua creciendo en poder y aptitudes, y ahora es lo suficientemente astuto como para especializarse. Tu compañero animal obtiene una especialización que puedes elegir.

@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/foco-furioso.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Golpe cruel.
 
 Has aprendido a mantener el equilibrio incluso cuando atacas furiosamente. Cuando das un Golpe cruel con un arma cuerpo a cuerpo que empuñas a dos manos, cuenta como un solo ataque en lugar de dos para tu penalizador por ataque múltiple.

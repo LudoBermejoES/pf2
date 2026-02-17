@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/absorber-toxina.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** No eres inmune a enfermedades ni venenos
 
 **Desencadenante:** Intentas una tirada de salvación contra un efecto de enfermedad o veneno que afecta un área.

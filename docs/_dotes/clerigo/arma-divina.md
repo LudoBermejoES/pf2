@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/arma-divina.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por turno
 
 **Desencadenante:** Acabas de Lanzar un conjuro usando uno de tus espacios de conjuro divinos en tu turno.

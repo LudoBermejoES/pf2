@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/interpretacion-de-himno.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de bardo
 
 Tu musica, tu habla u otra interpretación inspira a tus aliados a la batalla. Obtienes el conjuro de composición himno valeroso.

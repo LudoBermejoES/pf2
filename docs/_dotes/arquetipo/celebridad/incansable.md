@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/incansable.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Celebridad
 
 **Desencadenante:** Ganarías la condición fatigado.

@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posición</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/posicion-perturbadora.png" alt="Carta de dote">
+</div>
+
+
 La más nimia de las distracciones puede provocar tu ira, y estás preparado para frustrar las acciones de tus enemigos. Mientras permanezcas en esta posición, podrás utilizar Golpe reactivo cuando una criatura a tu alcance utilice una acción de concentrar, además de las de manipular y de mover. Además, perturbas una acción desencadenante de concentrar o de manipular si tu Golpe acierta (no sólo si es un impacto crítico).
 
 

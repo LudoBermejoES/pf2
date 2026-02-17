@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/elixir-vigorizante-mejorado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Elixir Vigorizante
 
 Elige vigorizacion fisica o vigorizacion mental, y anade las condiciones listadas a aquellas que puedes elegir para que un elixir vigorizante que crees contrarreste: Vigorizacion Fisica cegado, ensordecido, drenado, paralizado, ralentizado; Vigorizacion Mental confundido, controlado, huyendo, asustado, paralizado, ralentizado.

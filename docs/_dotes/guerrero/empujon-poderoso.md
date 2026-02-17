@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/empujon-poderoso.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Bloqueo agresivo o Empujón brutal.
 
 Puedes zarandear a enemigos mayores que tú con tu ataque. Puedes utilizar Bloqueo agresivo o Empujón brutal contra una criatura de hasta dos tamaños más que tú.

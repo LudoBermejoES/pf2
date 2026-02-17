@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/mantener-el-ritmo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Cazarrecompensas
 
 **Desencadenante:** Tu presa está a tu alcance e intenta alejarse de ti.

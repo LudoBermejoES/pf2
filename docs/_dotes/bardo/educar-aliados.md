@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/educar-aliados.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Bien versado
 
 **Desencadenante:** Un aliado que se esta beneficiando de uno de tus conjuros de composicion se ve sujeto a un efecto con el rasgo auditivo, ilusion, linguistico, sonico o visual.

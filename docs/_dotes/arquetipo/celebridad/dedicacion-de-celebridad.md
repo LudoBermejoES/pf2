@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-celebridad.png" alt="Carta de dote">
+</div>
+
+
 Cuantas más personas te miran, más contento estás, y aprovechas cada oportunidad para dejar mal a otros cuando sus interpretaciones son menos que perfectas. Obtienes la reacción Robar la escena. Además, cuando Ganas ingresos, si el nivel de la tarea es superior a tu nivel, obtienes un bonificador circunstancial +1 a tu prueba para Ganar ingresos.
 
 **Robar la escena · {% include accion.html tipo="libre" %}** **Desencadenante:** Un enemigo intenta una prueba de habilidad y no obtiene un éxito crítico. **Efecto:** Después de que tu enemigo haya dado lo mejor de sí, muestras a todos cómo se hace. Intenta una prueba usando la misma habilidad que desencadenó esta reacción. La CD suele ser la misma que la prueba que intentó el enemigo, aunque el DJ puede ajustarla como de costumbre.

@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/hablar-con-parientes.png" alt="Carta de dote">
+</div>
+
+
 Tienes una conexión con las criaturas que comparten tu fisiologia.
 
 **Beneficio:** Puedes formularles preguntas, recibir respuestas y utilizar la habilidad Diplomacia con plantas y hongos. Obtienes un bonificador +2 por circunstancia a las pruebas de Diplomacia con las plantas u hongos de tu especie.

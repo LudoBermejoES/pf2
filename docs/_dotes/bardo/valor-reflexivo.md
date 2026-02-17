@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/valor-reflexivo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa combatiente
 
 **Desencadenante:** Una criatura a tu alcance utiliza un efecto auditivo, una acción de manipular o una acción de movimiento; lleva a cabo un ataque a distancia; o abandona una casilla durante su acción de movimiento.

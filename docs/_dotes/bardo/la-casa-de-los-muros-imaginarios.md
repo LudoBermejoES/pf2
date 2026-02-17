@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/la-casa-de-los-muros-imaginarios.png" alt="Carta de dote">
+</div>
+
+
 Eliges una barrera imaginaria que los demás creen que es real. Aprendes el truco de composición la casa de los muros imaginarios.
 
 

@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rugido-del-dragon.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Postura del Dragon
 

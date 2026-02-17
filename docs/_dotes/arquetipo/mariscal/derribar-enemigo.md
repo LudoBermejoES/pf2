@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/derribar-enemigo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Mariscal, entrenado en Atletismo
 
 **Desencadenante:** Un aliado tiene éxito con un Golpe de melé contra un enemigo al que ambos sois adyacentes.

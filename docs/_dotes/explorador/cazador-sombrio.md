@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cazador-sombrio.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Camuflaje
 
 Te fundes con lo que te rodea de tal forma que los demás tienen problemas para distinguirte del terreno. Cuando estas en un terreno natural, siempre estas oculto de todos tus enemigos si quieres estarlo, excepto de tu presa perseguida.

@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-caballero.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Naturaleza o Sociedad
 
 Obtienes un compañero animal joven que sirve como tu montura. Puedes elegir entre compañeros animales con la habilidad especial de montura, así como cualquier opción adicional de tu juramento (consulta el recuadro Juramentos del caballero), según lo determine tu DJ. Debes elegir un compañero animal que sea al menos un tamaño mayor que tú, pero si el animal normalmente comienza como Pequeño, puedes empezar con una versión Mediana de ese animal (sin cambiar más estadísticas que su tamaño).

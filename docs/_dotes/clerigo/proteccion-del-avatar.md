@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/proteccion-del-avatar.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Sufres un impacto critico a manos de un enemigo.
 
 **Requisitos:** Tienes preparado un conjuro de avatar.

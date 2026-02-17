@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/entrenamiento-de-combate-pirata.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Pirata
 
 Eres especialmente hábil empuñando las armas utilizadas tradicionalmente por los piratas. Obtienes la dote de habilidad Trepador de combate o Saqueador subacuático, incluso si no cumples sus prerrequisitos. Tienes familiaridad con las siguientes armas: hacha de mano, florete, cimitarra y látigo; a efectos de competencia, tratas cualquiera de estas armas como simples. Tu DJ puede añadir armas marciales adicionales a esta lista según tu mundo o región.

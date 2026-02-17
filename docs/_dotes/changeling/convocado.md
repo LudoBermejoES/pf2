@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/convocado.png" alt="Carta de dote">
+</div>
+
+
 Has oído la Llamada, y al resistirte constantemente a ella has alzado un baluarte contra los efectos que tienen tu mente como objetivo.
 
 **Beneficio:** Obtienes un bonificador +1 por circunstancia a las salvaciones de Voluntad contra los efectos mentales. Si obtienes un éxito en tu tirada de salvación contra un efecto mental que te haría estar controlado, en su lugar obtienes un éxito crítico.

@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-simpatico.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Armamento de brujo
 
 **Frecuencia:** una vez por asalto

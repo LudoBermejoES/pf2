@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/poder-del-archimago.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Conocimiento de conjuros de archimago
 
 Has dominado los secretos mas grandes de la magia arcana. Obtienes un espacio de conjuro adicional de 10.o rango.

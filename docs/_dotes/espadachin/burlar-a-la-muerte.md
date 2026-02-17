@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/burlar-a-la-muerte.png" alt="Carta de dote">
+</div>
+
+
 
 **Desencadenante** Recibes daño que te reduciria a 0 Puntos de Golpe.
 

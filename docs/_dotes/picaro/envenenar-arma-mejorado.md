@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/envenenar-arma-mejorado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Envenenar arma
 
 Aplicas los venenos de una forma que maximiza sus efectos dañinos. Cuando aplicas un veneno sencillo con Envenenar arma, esta inflige 2d4 dano por veneno en lugar de 1d4. No malgastas un veneno que aplicas con Envenenar arma si sufres un fallo critico en una tirada de ataque.

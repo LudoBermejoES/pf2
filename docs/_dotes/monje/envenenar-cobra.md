@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a><a href="/apendices/rasgos/veneno/" class="feat-trait">Veneno</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/envenenar-cobra.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Postura de la Cobra, experto en ataques desarmados
 

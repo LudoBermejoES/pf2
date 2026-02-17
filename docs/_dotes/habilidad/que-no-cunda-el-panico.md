@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a><a href="/apendices/rasgos/linguistico/" class="feat-trait">Linguistico</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/que-no-cunda-el-panico.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Diplomacia
 
 Tratas de reducir el panico. Haz una prueba de Diplomacia, comparandola con la CD de Voluntad de las criaturas en una emanacion de 10 pies (3 m) a tu alrededor que estan asustadas. Cada una de ellas queda temporalmente inmune durante 1 hora.

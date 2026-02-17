@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/botella-de-brujo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Caldero
 
 Dedicas 10 minutos y 1 Punto de Foco a elaborar una poción especial que contiene el poder de uno de tus maleficios, que tiene como objetivo a una criatura. La criatura que consuma esta poción será designada como objetivo del maleficio. Si éste tiene una duración continua y dispones de *risotada*, puedes lanzar dicho conjuro de foco en la botella antes de sellarla. Si lo haces, la duración del maleficio se prolonga como si hubieras lanzado risotada el asalto posterior a lanzarlo (esto suele extender 1 asalto la duración del mismo). Tu risotada resuena cuando se quita el sello a la poción.

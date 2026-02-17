@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/buscador-de-trampas.png" alt="Carta de dote">
+</div>
+
+
 Tienes un sentido intuitivo que te alerta de los peligros y de la presencia de trampas. Obtienes un bonificados +1 por circunstancia a las pruebas de Percepción para encontrar trampas, a la CA contra los ataques de las trampas y a las salvaciones contra trampas.
 
 Incluso si no estas Buscando, tienes derecho a una prueba para encontrar trampas que normalmente requerirán que estuvieras Buscando. Aun así, tienes que cumplir los demás requisitos para encontrar la trampa.

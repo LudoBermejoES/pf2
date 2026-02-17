@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tengu/" class="feat-trait">Tengu</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/busqueda-de-carronero.png" alt="Carta de dote">
+</div>
+
+
 Siempre estás al acecho de suministros y objetos de valor. Obtienes un bonificador +2 por circunstancia para localizar objetos (incluidas puertas secretas y riesgos) que busques dentro de 30 pies con una acción de Buscar.
 
 ---

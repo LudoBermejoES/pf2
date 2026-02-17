@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/artimanas-basicas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de picaro
 
 Obtienes una dote de picaro de 1.er o de 2.º nivel.

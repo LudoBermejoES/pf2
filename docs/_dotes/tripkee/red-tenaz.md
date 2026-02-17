@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tripkee/" class="feat-trait">Tripkee</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/red-tenaz.png" alt="Carta de dote">
+</div>
+
+
 Escapar de tus redes no es tarea sencilla. La CD de Atletismo para Forzar la apertura o Escapar de tus redes aumenta de 16 a 18. Después de que una criatura que atrapaste con una red Escape o Fuerce la apertura de la red, hebras sueltas de la red se le adhieren, haciendo que permanezca desprevenida hasta el comienzo de su siguiente turno.
 
 ---

@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posición</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/posicion-acometedora.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Acometer, Golpe reactivo.
 
 **Requisitos:** Empuñas un arma cuerpo a cuerpo.

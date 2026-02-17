@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/postura/" class="feat-trait">Postura</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/postura-de-mariscal-temible.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Mariscal, entrenado en Intimidación
 
 Con un semblante sombrío para la batalla que se avecina, animas a tus aliados a infundir miedo a sus enemigos con ataques feroces. Al usar esta acción, intenta una prueba de Intimidación. La CD suele ser una CD fácil de tu nivel, pero el DJ puede asignar otra en función de las circunstancias. El efecto depende del resultado de tu prueba.

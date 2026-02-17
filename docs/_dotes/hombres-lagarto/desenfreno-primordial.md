@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/desenfreno-primordial.png" alt="Carta de dote">
+</div>
+
+
 Obtienes *movimiento sin trabas* y *resiliencia de montaña* como conjuros innatos primitivos de 4.º nivel que puedes lanzar una vez al día.
 
 Como actividad de 3 acciones, puedes Lanzar un conjuro dos veces para lanzar ambos conjuros innatos, siempre que ambos sigan disponibles ese día.

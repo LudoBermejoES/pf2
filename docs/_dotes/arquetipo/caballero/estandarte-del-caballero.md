@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/aura/" class="feat-trait">Aura</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estandarte-del-caballero.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Caballero
 
 **Requisitos:** Has jurado tu servicio a una organización o ideal específico (consulta el recuadro Juramentos del caballero).

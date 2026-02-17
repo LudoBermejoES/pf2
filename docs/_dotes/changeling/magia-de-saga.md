@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/magia-de-saga.png" alt="Carta de dote">
+</div>
+
+
 Gracias a tu herencia, puedes replicar parte de la magia de una saga.
 
 **Beneficio:** Elige un conjuro común de 4.º rango o inferior de los disponibles para un aquelarre, incluidos los aportados al mismo por una saga del tipo de tu madre. Puedes lanzar ese conjuro una vez al día como un conjuro innato ocultista de 4.º rango.

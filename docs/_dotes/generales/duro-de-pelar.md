@@ -12,6 +12,10 @@ source: PC1
 <a href="/apendices/rasgos/general/" class="feat-trait">General</a>
 </div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/duro-de-pelar.png" alt="Carta de dote">
+</div>
+
 Matarte resulta más difícil que a la mayoría de personas. Si estás moribundo, mueres a moribundo 5, en lugar de a moribundo 4.
 
 ---

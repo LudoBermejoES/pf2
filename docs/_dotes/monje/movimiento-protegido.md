@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/movimiento-protegido.png" alt="Carta de dote">
+</div>
+
+
 
 Tu guardia esta en alto, incluso mientras te mueves. Obtienes un bonificador de circunstancia +4 a la CA contra reacciones desencadenadas por tu movimiento.
 

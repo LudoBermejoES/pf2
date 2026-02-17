@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/red-de-sombras.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Iniciado de Sombras Adherentes
 

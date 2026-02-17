@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dominio-avanzado-de-la-deidad.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dominio de la Deidad
 
 A través de tu convicción, has vislumbrado los secretos más profundos del dominio de tu deidad. Obtienes un conjuro de dominio avanzado del dominio que elegiste con Dominio de la Deidad como un conjuro de devoción.

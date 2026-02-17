@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/floritura/" class="feat-trait">Floritura</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/arremetida-villana.png" alt="Carta de dote">
+</div>
+
+
 
 Pasas junto a un oponente, confundiendolo con tacticas traicioneras. Da una Zancada de hasta la mitad de tu Velocidad. Puedes intentar una Zancadilla o un Truco Sucio (si tienes esa accion) contra un oponente junto al que pases dentro de alcance en cualquier punto durante tu movimiento.
 

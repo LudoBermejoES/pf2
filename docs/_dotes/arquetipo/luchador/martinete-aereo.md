@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/martinete-aereo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Luchador
 
 **Requisitos:** Tienes a una criatura agarrada o restringida.

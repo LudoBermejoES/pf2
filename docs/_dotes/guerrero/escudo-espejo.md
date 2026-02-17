@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/escudo-espejo.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Un oponente que lanza un conjuro que te tiene a ti como objetivo falla críticamente una tirada de ataque de conjuros contra tu CA.
 
 **Requisitos:** Tienes un escudo alzado.

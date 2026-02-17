@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/transformacion-reactiva.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Forma salvaje; Forma de dragón, Forma elemental, Forma de planta o Forma voladora
 
 **Desencadenante:** variable

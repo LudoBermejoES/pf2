@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estampar-energia.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Estampar armamento
 
 Con las fuerzas elementales, haces que tus símbolos estampados sean mas potentes. Cuando Estampas un armamento, puedes elegir de entre los siguientes efectos en lugar de los efectos indicados en aquella dote. Dichos efectos tienen las mismas restricciones que las opciones base.

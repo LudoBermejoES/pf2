@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/companero-de-maestro-de-bestias-increible.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Compañero de maestro de bestias, maduro
 
 Tus compañeros animales maduros siguen creciendo y desarrollándose. Cada uno de ellos se convierte en un compañero animal ágil o salvaje, ganando capacidades adicionales determinadas por el tipo de compañero. Eliges ágil o salvaje individualmente para cada compañero, incluidos los que se conviertan en maduros después de que tomes esta dote.

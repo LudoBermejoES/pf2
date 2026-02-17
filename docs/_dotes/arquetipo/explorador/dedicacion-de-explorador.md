@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/apendices/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-explorador.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Destreza +2
 
 Obtienes el rango entrenado en Supervivencia; si ya estas entrenado en dicha habilidad, en su lugar obtienes el rango entrenado en otra habilidad a tu elección. Obtienes el rango entrenado en la CD de la clase explorador.

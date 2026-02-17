@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/colmillos.png" alt="Carta de dote">
+</div>
+
+
 Tus incisivos han crecido hasta convertirse en verdaderos colmillos: largos, afilados y bien preparados para extraer sangre. Obtienes un ataque desarmado de colmillos que inflige 1d6 de daño perforante. Tus colmillos están en el grupo pelea y tienen los rasgos agarrar y desarmado.
 
 ---

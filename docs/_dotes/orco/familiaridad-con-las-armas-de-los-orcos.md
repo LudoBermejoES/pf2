@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/familiaridad-con-las-armas-de-los-orcos.png" alt="Carta de dote">
+</div>
+
+
 En combate, prefieres las armas brutales que eran tradición para tus antepasados orcos.
 
 **Beneficio:** Obtienes acceso a todas las armas poco comunes con el rasgo orco. Tienes familiaridad con las armas que tienen el rasgo orco, ademas del alfanje y de la gran hacha; a efectos de competencia, de ellas tratas cualesquiera armas marciales como armas sencillas y cualesquiera armas avanzadas como armas marciales.

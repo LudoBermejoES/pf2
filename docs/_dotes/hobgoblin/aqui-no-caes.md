@@ -12,6 +12,11 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/hobgoblin/" class="feat-trait">Hobgoblin</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aqui-no-caes.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por día
 
 **Desencadenante:** Un aliado adyacente y dispuesto fuese a quedar reducido a 0 PG pero no morir.

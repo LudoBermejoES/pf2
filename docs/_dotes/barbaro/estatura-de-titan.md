@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estatura-de-titan.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Estatura de Gigante
 
 Creces hasta un tamaño aún mayor. Cuando usas Estatura de Gigante, puedes en su lugar volverte Enorme (aumentando tu alcance en 3 metros o 10 pies si eras Mediano o más pequeño).

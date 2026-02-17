@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/saber-de-los-enanos.png" alt="Carta de dote">
+</div>
+
+
 Absorbiste avidamente los viejos relatos y tradiciones de tus antepasados, tus dioses y tu gente, estudiando temas y técnicas transmitidos de generación en generación.
 
 **Beneficio:** Obtienes competencia a rango entrenado en Artesanía y Religion. Si estas automaticamente entrenado en una de dichas habilidades (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu elección.

@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ilusion-convincente.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** experto en Engano
 
 **Desencadenante:** Una criatura tiene éxito, pero no éxito critico, en una prueba de Percepción o una salvación de Voluntad para descreer una ilusion de un conjuro que has lanzado.

@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/escurrirse-rapidamente.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Acrobacias
 
 Te Escurres 5 pies (1,5 m) por asalto (10 pies [3 m] con un éxito critico). Si tienes el rango legendario en Acrobacias, te Escurres a Velocidad completa.

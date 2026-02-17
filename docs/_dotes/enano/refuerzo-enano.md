@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/refuerzo-enano.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango experto en Artesanía
 
 Puedes utilizar tu conocimiento de la ingeniería y de la metalisteria para reforzar temporalmente objetos gruesos y estructuras.

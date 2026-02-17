@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/apendices/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-druida.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Sabiduría +2
 
 Lanzas conjuros como un druida. Obtienes la actividad Lanzar un conjuro. Puedes preparar 2 trucos comunes cada dia de la lista de conjuros primigenios o cualesquiera otros trucos primigenios a los que tienes acceso. Estas entrenado en las estadísticas modificador al ataque de conjuros y CD de conjuros. Tu atributo clave de lanzamiento de conjuros para los conjuros del arquetipo druida es la Sabiduría, y son conjuros primigenios de druida.

@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/curacion/" class="feat-trait">Curación</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/tratar-condicion.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Médico
 
 **Requisitos:** Estás sosteniendo herramientas de sanador, o las llevas puestas y tienes una mano libre.

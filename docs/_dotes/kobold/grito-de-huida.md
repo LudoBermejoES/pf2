@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/kobold/" class="feat-trait">Kobold</a><a href="/apendices/rasgos/sonico/" class="feat-trait">Sónico</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/grito-de-huida.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por hora
 
 Lanzas un chillido que perfora los oídos. Cada criatura en una emanación de 10 pies sufre 5d6 de daño sónico, con una tirada de salvación de Fortaleza básica contra la mayor entre tu CD de clase o tu CD de conjuros. Luego Avanzas, y este movimiento no provoca reacciones de ninguna criatura que haya fallado o fallado críticamente su tirada de salvación.

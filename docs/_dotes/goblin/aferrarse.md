@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/aferrarse.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Tu ultima acción ha sido un Golpe con éxito y tienes una mano libre.
 
 Te acercas a un enemigo para someterlo.

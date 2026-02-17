@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/quemadlo.png" alt="Carta de dote">
+</div>
+
+
 El fuego te fascina.
 
 **Beneficio:** Tus conjuros y tus sustancias alquímicas que infligen dano por fuego obtienen un bonificador por estatus al dano igual a la mitad del rango de conjuro o una cuarta parte del nivel de objeto del material (bonificador minimo +1). Tambien obtienes un bonificador +1 por estatus a cualquier dano persistente por fuego que infliges.

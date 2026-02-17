@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aditivo/" class="feat-trait">Aditivo</a><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/hierbas-endemicas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Herborista, entrenado en Supervivencia
 
 Los productos herbales que creas usan plantas medicinales endémicas del lugar. Cuando una criatura consume uno de tus productos herbales, esa criatura obtiene el beneficio que se corresponde con el lugar donde creaste ese objeto. Si el beneficio no es inmediato, dura 1 minuto salvo que se indique lo contrario.

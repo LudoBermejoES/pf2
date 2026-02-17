@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/multilingue.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Sociedad
 
 Aprendes facilmente nuevos idiomas. Aprendes dos idiomas nuevos, elegidos de entre los idiomas comunes, los poco comunes y cualesquiera otros a los que tienes acceso. Aprendes un idioma adicional si tienes el rango maestro en Sociedad (o lo obtienes) y otro si tienes el rango legendario (o lo obtienes).

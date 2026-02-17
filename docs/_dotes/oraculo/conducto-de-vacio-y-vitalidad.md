@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/maldicion/" class="feat-trait">Maldición</a><a href="/apendices/rasgos/divino/" class="feat-trait">divino</a><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/conducto-de-vacio-y-vitalidad.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** cualquier misterio de oraculo
 
 **Requisitos:** Tienes sanar o danar como hechizo insignia y un espacio de hechizo disponible para lanzarlo.

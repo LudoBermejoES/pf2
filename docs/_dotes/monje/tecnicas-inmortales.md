@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/tecnicas-inmortales.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Maestro de Muchos Estilos
 

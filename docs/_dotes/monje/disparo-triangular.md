@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/disparo-triangular.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** Postura de Arquero Monastico, Golpes Aturdidores
 

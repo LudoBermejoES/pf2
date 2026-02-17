@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/pelear-a-ciegas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** maestro en Percepcion
 
 Tu perspicacia en batalla te hace mas consciente de oponentes ocultos e invisibles. No necesitas tener exito en una prueba plana para atacar criaturas ocultas. No estas desprevenido ante criaturas que estan escondidas de ti (a menos que estes desprevenido ante ellas por razones distintas a la condicion escondido), y solo necesitas una prueba plana de CD 5 exitosa para atacar a una criatura escondida.

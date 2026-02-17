@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/intimidacion-duradera.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango experto en Intimidación
 
 Cuando Intimidas con éxito a alguien, la cantidad maxima de tiempo que te obedece se incrementa a una semana, sujeto a la aprobación del DJ. Si tienes el rango legendario, el máximo se incrementa a un mes.

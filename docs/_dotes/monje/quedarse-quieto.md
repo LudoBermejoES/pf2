@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/quedarse-quieto.png" alt="Carta de dote">
+</div>
+
+
 
 **Desencadenante** Una criatura dentro de tu alcance usa una accion de movimiento o abandona una casilla durante una accion de movimiento que esta usando.
 

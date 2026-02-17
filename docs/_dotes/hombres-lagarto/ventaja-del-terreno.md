@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ventaja-del-terreno.png" alt="Carta de dote">
+</div>
+
+
 Las criaturas que no sean iruxi en terreno difícil están desprevenidas frente a ti. Si tienes Velocidad de nado, las criaturas que no sean iruxi que estén en el agua y carezcan de Velocidad de nado también están desprevenidas frente a ti.
 
 ---

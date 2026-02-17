@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/ira/" class="feat-trait">Ira</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/enredo-de-batalla.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Golpeas críticamente a un enemigo adyacente.
 
 Tu golpe vicioso acerca a tu enemigo, dándote la oportunidad de agarrarlo. Intenta Agarrar al enemigo desencadenante.

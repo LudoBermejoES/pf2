@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/patas-ligeras.png" alt="Carta de dote">
+</div>
+
+
 Puedes equilibrarte sobre tus puntas para pisar con cuidado sobre obstrucciones. Avanzas y luego Das un paso, o Das un paso y luego Avanzas, ignorando el terreno difícil durante este movimiento.
 
 ---

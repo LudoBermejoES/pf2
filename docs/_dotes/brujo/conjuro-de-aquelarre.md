@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a><a href="/apendices/rasgos/moldeo-de-conjuros/" class="feat-trait">Moldeo de conjuros</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/conjuro-de-aquelarre.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Un aliado a 30 pies (9 m) o menos Lanza un conjuro.
 
 Rimas con los encantamientos de tu aliado o te haces eco de sus movimientos, vinculando tu magia para potenciar su conjuro de una de dos formas:

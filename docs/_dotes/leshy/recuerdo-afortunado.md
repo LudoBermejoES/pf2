@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/recuerdo-afortunado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Supersticion leshy
 
 Tienes un recuerdo que te otorga suerte.

@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/canalizacion-de-moldeo-de-conjuros.png" alt="Carta de dote">
+</div>
+
+
 Un profundo entendimiento de las revelaciones divinas sobre la naturaleza de la esencia vital te permite manipular libremente la energia de la vida y de la muerte. Utiliza una acción de moldeo de conjuros que puedes llevar a cabo y que normalmente cuesta 1 acción y que se puede aplicar al conjuro dañar o curar. Si la usas de esta forma, sus efectos se aplican tan solo a un conjuro de dañar o de curar.
 
 

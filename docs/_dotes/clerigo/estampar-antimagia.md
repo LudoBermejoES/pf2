@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/estampar-antimagia.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Estampar armamento
 
 El simbolo de tu dios te protege contra la magia ofensiva. Cuando Estampas un armamento, puedes elegir de entre los siguientes efectos en lugar de los efectos indicados en aquella dote. Dichos efectos tienen las mismas restricciones que las opciones base.

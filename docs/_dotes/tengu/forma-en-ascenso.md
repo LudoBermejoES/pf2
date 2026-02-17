@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tengu/" class="feat-trait">Tengu</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/forma-en-ascenso.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Vuelo en ascenso
 
 Tienes una Velocidad de vuelo de 20 pies en todo momento.

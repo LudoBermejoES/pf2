@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/expansion-de-trucos.png" alt="Carta de dote">
+</div>
+
+
 El estudio amplia tu gama de hechizos simples. Anade dos trucos adicionales de tu lista de hechizos a tu repertorio.
 
 ---

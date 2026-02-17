@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/manifestacion-bestial.png" alt="Carta de dote">
+</div>
+
+
 Parte de tu cuerpo tiene una influencia animalística debida a una criatura planaria. Tus manos acaban en garras, tienes pezuñas en lugar de pies, afilados dientes llenan tu boca o una cola se extiende de tu espina dorsal.
 
 **Beneficio:** Obtienes uno de los siguientes ataques sin armas a tu elección:

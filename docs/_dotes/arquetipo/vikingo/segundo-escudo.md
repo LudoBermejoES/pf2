@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/segundo-escudo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Vikingo
 
 **Desencadenante:** Tu Bloquear con escudo hace que tu escudo se rompa o se destruya.

@@ -12,6 +12,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/maestro-de-los-maleficios.png" alt="Carta de dote">
+</div>
+
+
 Personificas tanto el vínculo con tu patrón que puedes lanzar tus maleficios en rápida sucesión. Ya no estás limitado a lanzar 1 solo maleficio por turno. Además, cuando Lanzas *risotada* para mantener un maleficio, obtienes los efectos de Mantener para todos tus maleficios activos que tienen una duración de mantenido.
 
 

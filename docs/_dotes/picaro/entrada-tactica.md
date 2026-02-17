@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/entrada-tactica.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Rango maestro en Sigilo.
 
 **Requisitos:** Has tirado Sigilo para la iniciativa en este encuentro, y ni tu ni ningún enemigo habeis actuado aun.

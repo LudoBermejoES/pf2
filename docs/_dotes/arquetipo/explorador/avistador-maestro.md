@@ -13,6 +13,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/avistador-maestro.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de explorador, rango experto en Percepción
 
 Tu rango de competencia en Percepción se incrementa a maestro.

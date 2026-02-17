@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/tierra/" class="feat-trait">Tierra</a><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/triquinuela-terraformadora.png" alt="Carta de dote">
+</div>
+
+
 Sabes como canalizar los aspectos transformadores de tu magia de sangre para alterar tu entorno. Conoces el siguiente efecto de magia de sangre.
 
 **Magia de Sangre - Triquinuela Terraformadora:** O cada espacio adyacente a ti se convierte en terreno dificil, o cada espacio adyacente a ti deja de ser terreno dificil. Esto no tiene ningun efecto en terreno muy dificil y no elimina los efectos daninos del terreno peligroso.

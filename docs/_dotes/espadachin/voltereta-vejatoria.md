@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/fanfarronada/" class="feat-trait">Fanfarronada</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/voltereta-vejatoria.png" alt="Carta de dote">
+</div>
+
+
 
 Das volteretas alrededor de tus enemigos, evitando expertamente sus reacciones. Da una Zancada de hasta la mitad de tu Velocidad y haz una prueba de Acrobacias. Compara el resultado con la CD de Reflejos de cada enemigo cuyo alcance comenzaste o entraste durante el movimiento, en secuencia.
 

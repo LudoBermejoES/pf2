@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/barrido-de-empuje.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Demoledor, experto en Atletismo
 
 **Desencadenante:** Un enemigo a tu alcance abandona una casilla durante una acción de movimiento que está usando.

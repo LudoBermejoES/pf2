@@ -11,6 +11,10 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/secreto/" class="feat-trait">SECRETO</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ojo-biografico.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** maestro en Sociedad
 
 Incluso en una breve conversación o interacción social, captas señales sociales y visuales sutiles para aprender mucho sobre el origen e historia de una persona. Podrías notar trozos de verde bajo las uñas de la persona y determinar que es un herbolario, espiar un alfiler que indica su pertenencia a una sociedad secreta, o algo similar. Captas solo detalles que tienen que ver con su rol social, así que podrías aprender el distrito de la ciudad donde vive un vampiro, pero no aprenderías ninguna de sus debilidades, ni necesariamente que es un vampiro.

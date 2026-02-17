@@ -12,4 +12,9 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/poder-del-hierofante.png" alt="Carta de dote">
+</div>
+
+
 Te has entretejido con el mundo natural y su poder al completo fluye a través de ti. Obtienes un espacio de conjuro adicional de 10.º rango.

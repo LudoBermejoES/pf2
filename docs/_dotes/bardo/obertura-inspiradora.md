@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/obertura-inspiradora.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** musa maestro
 
 Aprendes el truco de composición obertura estimulante, que ayuda a las habilidades de tus aliados con la naturaleza inspiradora de tu Interpretación.

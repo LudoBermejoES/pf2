@@ -13,6 +13,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/reserva-maestra-de-pergaminos.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Reserva experta de pergaminos
 
 Tu colección de pergaminos es increíble, rebosante de poder arcano, y puedes preparar muchos más de los que podría un tramposo de pergaminos ordinario. Además de tus pergaminos diarios de las Reservas básica y experta, añade un único pergamino con un conjuro de rango 6. En el 20.º nivel, añade un pergamino con un conjuro de rango 7.

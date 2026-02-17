@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/esquiva-llamativa.png" alt="Carta de dote">
+</div>
+
+
 
 **Desencadenante** Una criatura que puedes ver te tiene como objetivo de un ataque.
 

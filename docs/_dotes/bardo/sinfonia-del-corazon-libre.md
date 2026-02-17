@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sinfonia-del-corazon-libre.png" alt="Carta de dote">
+</div>
+
+
 Aprendes el conjuro de composición sinfonia del corazón libre que te permite proteger a un aliado contra los estados incapacitantes.
 
 

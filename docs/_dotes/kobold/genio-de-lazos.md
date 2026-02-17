@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/kobold/" class="feat-trait">Kobold</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/genio-de-lazos.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** experto en Elaboración, Elaboración de lazos
 
 Si el lazo normalmente tarda 1 minuto en Elaborarse, puedes Elaborarlo con 3 acciones de Interactuar en su lugar. Cada día durante tus preparativos diarios, puedes preparar tres lazos de tu libro de fórmulas para despliegue rápido (aumentando a cuatro lazos si eres maestro en Elaboración y cinco si eres legendario). Los lazos preparados de esta forma no te cuestan recursos para Elaborarlos.

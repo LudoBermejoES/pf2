@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/longevidad-ancestral.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Por lo menos cien años de edad
 
 Has acumulado un amplio abanico de conocimientos vividos a lo largo de los años.

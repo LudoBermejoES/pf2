@@ -13,6 +13,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/experto-en-armas-diversas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de guerrero, rango experto cualquier tipo de arma o ataque sin armas
 
 Tus rangos de competencia para las armas sencillas y marciales se incrementan a experto y tu rango de competencia para las armas avanzadas se incrementa a entrenado.

@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/fanfarronada/" class="feat-trait">Fanfarronada</a><a href="/apendices/rasgos/movimiento/" class="feat-trait">Movimiento</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/danza-guiada.png" alt="Carta de dote">
+</div>
+
+
 
 **Prerrequisitos** entrenado en Interpretacion
 

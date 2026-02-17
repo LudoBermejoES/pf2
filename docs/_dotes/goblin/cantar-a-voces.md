@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/goblin/" class="feat-trait">Goblin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cantar-a-voces.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Canción goblin
 
 Afinar, controlar la respiración adecuadamente y recordar la letra son cosas mucho menos importantes que la medida real de un buen cantante: el volumen!

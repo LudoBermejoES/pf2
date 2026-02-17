@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tengu/" class="feat-trait">Tengu</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/vuelo-en-ascenso.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** herencia tengu nacido del cielo
 
 **Frecuencia:** una vez por asalto

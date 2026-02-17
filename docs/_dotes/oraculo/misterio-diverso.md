@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/oraculo/" class="feat-trait">Oráculo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/misterio-diverso.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Revelacion Avanzada
 
 Has ampliado tu comprension de lo divino y puedes acceder a las maravillas de un misterio diferente. Selecciona un hechizo de revelacion de un misterio que no sea el tuyo. Solo puedes elegir un hechizo de revelacion inicial o un hechizo de revelacion avanzada.

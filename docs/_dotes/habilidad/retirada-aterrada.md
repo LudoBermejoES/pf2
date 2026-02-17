@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/retirada-aterrada.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango maestro en Intimidación
 
 Cuando obtienes un éxito critico en una acción de Desmoralizar, si el nivel del objetivo es menor que el tuyo, este huye durante 1 asalto.

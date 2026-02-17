@@ -13,6 +13,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/abundancia-divina.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Lanzamiento de conjuros basico de clérigo
 
 Conforme aumenta tu comprensión, tu dios te concede mas conjuros divinos cada dia. Incrementa los espacios de conjuro que obtienes debido a las dotes de arquetipo de clérigo en 1 por cada rango de conjuro diferente a tus dos espacios de conjuro de clérigo de mayor rango.

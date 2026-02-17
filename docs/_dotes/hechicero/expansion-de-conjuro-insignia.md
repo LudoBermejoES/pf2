@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/hechicero/" class="feat-trait">Hechicero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/expansion-de-conjuro-insignia.png" alt="Carta de dote">
+</div>
+
+
 Tu conexion innata con la magia te permite lanzar mas conjuros con mayor libertad. Obtienes dos conjuros insignia adicionales, cada uno de los cuales debe tener un rango base de 3 o menor.
 
 ---

@@ -12,6 +12,11 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco comun</a><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/puerta-de-roca.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Caminante de la piedra
 
 Las barreras hechas de tierra ya no impiden tu avance.

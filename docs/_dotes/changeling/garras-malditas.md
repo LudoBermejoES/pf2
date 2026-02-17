@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/garras-malditas.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisito:** Ataque sin armas de garra
 
 Tus garras portan la magia de tu madre saga.

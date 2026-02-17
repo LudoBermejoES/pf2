@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/espadachin/" class="feat-trait">Espadachin</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posicion</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/danza-del-broquel.png" alt="Carta de dote">
+</div>
+
+
 
 **Requisitos** Empuñas un broquel.
 

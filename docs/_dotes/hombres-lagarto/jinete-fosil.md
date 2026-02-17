@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/iruxi/" class="feat-trait">Iruxi</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/jinete-fosil.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Magia ósea
 
 Usando los huesos de tus ancestros, manifiestas sus espíritus a tu alrededor en forma fosilizada. Puedes lanzar *máscara del terror* sobre ti como conjuro innato una vez al día. Cuando lo haces, apareces como un ancestro iruxi esquelético, retorcido de un modo que inspira los temores más profundos de quienes te observan.

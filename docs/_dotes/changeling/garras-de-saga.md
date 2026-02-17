@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/garras-de-saga.png" alt="Carta de dote">
+</div>
+
+
 Cuando alcanzaste la mayoría de edad, las uñas empezaron a crecerte largas y afiladas.
 
 **Beneficio:** Obtienes un ataque sin armas de garra que inflige 1d4 daño cortante. Tus garras pertenecen al grupo pelea y tienen los rasgos ágil, sutileza y sin armas.

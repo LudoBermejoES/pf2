@@ -13,6 +13,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/atacante-furtivo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicacion de picaro
 
 Obtienes el rasgo de clase ataque furtivo, excepto en que inflige 1d4 dano, que se incrementa a 1d6 a 6.º nivel. No incrementas el numero de dados conforme subes de nivel.

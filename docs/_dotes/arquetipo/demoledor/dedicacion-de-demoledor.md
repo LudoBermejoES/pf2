@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-demoledor.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Fuerza 14
 
 Te especializas en armas de melé que requieren dos manos. Tienes familiaridad con todas las armas de melé que requieren dos manos para empuñarlas o que tienen el rasgo a dos manos. A efectos de competencia, tratas cualquiera de estas que sean armas marciales como armas simples y cualquiera que sean armas avanzadas como armas marciales.

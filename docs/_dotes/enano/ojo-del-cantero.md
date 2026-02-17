@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/enano/" class="feat-trait">Enano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ojo-del-cantero.png" alt="Carta de dote">
+</div>
+
+
 Entiendes la complejidad del trabajo en piedra.
 
 **Beneficio:** Obtienes el rango entrenado en Artesanía. Si ya lo estabas, en su lugar obtienes la dote de habilidad Artesanía especial para la canteria. Tambien obtienes un bonificador +2 por circunstancia a las pruebas de Percepción para darte cuenta de trabajos en piedra poco usuales. Este bonificador se aplica a las pruebas para descubrir trampas mecánicas hechas de piedra u ocultas en el interior de la piedra.

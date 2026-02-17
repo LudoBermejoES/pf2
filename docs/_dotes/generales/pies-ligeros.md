@@ -12,6 +12,10 @@ source: PC1
 <a href="/apendices/rasgos/general/" class="feat-trait">General</a>
 </div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/pies-ligeros.png" alt="Carta de dote">
+</div>
+
 Te mueves más rápidamente a pie. Tu Velocidad se incrementa en 5 pies (1,5 m).
 
 ---

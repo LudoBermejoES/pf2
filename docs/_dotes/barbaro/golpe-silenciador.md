@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitación</a><a href="/apendices/rasgos/ira/" class="feat-trait">Ira</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-silenciador.png" alt="Carta de dote">
+</div>
+
+
 Un golpe rápido a la cara o la boca silencia a tu oponente. Realiza un Golpe cuerpo a cuerpo contra un enemigo. Si impacta, el enemigo debe superar una tirada de salvación de Fortaleza contra tu CD de clase.
 
 **Éxito** El objetivo no se ve afectado.

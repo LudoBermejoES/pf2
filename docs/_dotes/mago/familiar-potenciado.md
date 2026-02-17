@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/familiar-potenciado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** un familiar
 
 Infundes a tu familiar con energia magica adicional. Puedes seleccionar cuatro aptitudes de familiar o de amo cada dia, en lugar de dos.

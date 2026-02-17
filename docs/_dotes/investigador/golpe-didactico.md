@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/golpe-didactico.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Estratagema Compartida
 
 Cuando encuentras una debilidad evidente, puedes preparar a tus aliados para aniquilar a tu enemigo. Cuando usas Estratagema Compartida, puedes designar hasta 10 aliados en lugar de solo uno. El enemigo esta desprevenido contra el primer ataque de cada aliado designado antes de tu siguiente turno, y el primer ataque de cada aliado inflige 2d6 de dano de precision extra al objetivo si impacta.

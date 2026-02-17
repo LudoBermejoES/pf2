@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/armas-poco-convencionales.png" alt="Carta de dote">
+</div>
+
+
 Te has familiarizado con una arma en particular, potencialmente de otra ascendencia o cultura.
 
 **Beneficio:** Elige una arma poco comun sencilla o marcial con un rasgo correspondiente a una ascendencia (como por ejemplo enano, goblin u orco) o que es comun en otra cultura. Obtienes acceso a dicha arma y a efectos de competencia, la tratas como si fuera una arma sencilla.

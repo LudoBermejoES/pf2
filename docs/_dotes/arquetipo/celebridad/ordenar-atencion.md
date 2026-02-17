@@ -13,6 +13,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/auditivo/" class="feat-trait">Auditivo</a><a href="/apendices/rasgos/aura/" class="feat-trait">Aura</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/ordenar-atencion.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Celebridad
 
 Ordenas la atención de todos a tu alrededor con estilo, asegurando que su mirada caiga solo sobre ti hasta el final de tu siguiente turno. Siempre que una criatura en una emanación de 9 m alrededor de ti intente una tirada de salvación contra un efecto visual distinto, obtiene un resultado un grado más exitoso del que haya tirado. Este es un efecto de fortuna.

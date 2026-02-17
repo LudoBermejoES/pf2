@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/complice-animal.png" alt="Carta de dote">
+</div>
+
+
 Creas una relación con un animal, que se vincula mágicamente contigo.
 
 **Beneficio:** Obtienes un familiar utilizando las reglas de la pág. 212 ([ver](/clases/companeros/familiares/)). El tipo de animal es cosa tuya, pero la mayoría de gnomos eligen animales que tienen Velocidad de excavar.

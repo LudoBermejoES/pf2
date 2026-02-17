@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aprovechar/" class="feat-trait">Aprovechar</a><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/agarron-de-combate.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Tienes una mano libre y tu objetivo está al alcance de dicha mano.
 
 Utilizando tu ataque anterior para cambiar la guardia de tu oponente, lanzas otro ataque y le agarras. Da un Golpe cuerpo a cuerpo manteniendo una mano libre. Si el Golpe impacta, agarras al objetivo utilizando tu mano libre. La criatura permanecerá agarrada hasta el final de tu siguiente turno o hasta que Huya, lo que suceda primero.

@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/incapacitacion/" class="feat-trait">Incapacitacion</a><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/debilitacion-critica.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Golpe debilitante
 
 Tus debilitaciones son especialmente efectivas en tus ataques mas poderosos. Siempre que obtienes un éxito critico en una tirada de ataque contra un enemigo y utilizas Golpe debilitante, anade la siguiente debilitación a la lista de la que puedes elegir.

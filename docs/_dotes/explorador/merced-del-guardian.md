@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/merced-del-guardian.png" alt="Carta de dote">
+</div>
+
+
 Señales las vulnerabilidades presentes en tu presa perseguida, concediendo los beneficios indicados en Perseguir presa y tu ventaja del cazador a un aliado hasta el final de su siguiente turno. Dependiendo de si lo dices en voz alta o utilizas gestos, esta acción obtiene, o bien el rasgo auditivo, o bien el rasgo visual.
 
 

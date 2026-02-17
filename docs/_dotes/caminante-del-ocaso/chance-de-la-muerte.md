@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/chance-de-la-muerte.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por día
 
 **Desencadenante:** Morirías como resultado de una comprobación de recuperación fallida o una tirada de salvación.

@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cazador-de-manada.png" alt="Carta de dote">
+</div>
+
+
 Evitas la atención de criaturas centradas en tus aliados. Puedes usar cobertura menor de tus aliados para Ocultarte.
 
 ---

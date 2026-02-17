@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/bombas-infalibles.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Lanzador Lejano
 
 Lanzas bombas infaliblemente, a pesar de obstrucciones o distancia. Cuando lanzas un objeto alquimico con el rasgo bomba, su incremento de alcance aumenta a 18 metros, reduces cualquier bonificador de circunstancia a la CA del objetivo por cobertura en 1, y automaticamente tienes exito en la prueba simple cuando atacas a una criatura oculta.

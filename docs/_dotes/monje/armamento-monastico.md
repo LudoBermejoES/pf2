@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/armamento-monastico.png" alt="Carta de dote">
+</div>
+
+
 
 Has entrenado con el armamento de tu monasterio o escuela. Obtienes acceso a armas poco comunes con el rasgo monje y te vuelves entrenado en armas de monje simples y marciales. Cuando tu competencia con ataques desarmados aumente a experto o maestro, tu rango de competencia con estas armas aumenta a experto o maestro también. Si tienes familiaridad con un arma agil o sutil (como por la dote Familiaridad con armas felinas), esa arma tambien obtiene el rasgo monje para ti.
 

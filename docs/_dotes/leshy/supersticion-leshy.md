@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/leshy/" class="feat-trait">Leshy</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/supersticion-leshy.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Haces una tirada de salvación contra un conjuro o un efecto magico, pero aun no has tirado los dados.
 
 Percibes los espíritus que habitan en los objetos, averiguando cuales dan buena suerte y cuales traen mal faria. Te enfocas en el poder de un objeto afortunado.

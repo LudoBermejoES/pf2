@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/kholo/" class="feat-trait">Kholo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/cazador-de-manada.png" alt="Carta de dote">
+</div>
+
+
 Te enseñaron a cazar como parte de una manada. Obtienes un bono de circunstancia +2 a las pruebas para Ayudar, y tus aliados obtienen un bono de circunstancia +2 a las pruebas para Ayudarte.
 
 ---

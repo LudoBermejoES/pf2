@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/catfolk/" class="feat-trait">Catfolk</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/grunido-depredador.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** experto en Intimidación
 
 **Disparador:** Buscas con éxito una criatura oculta o no detectada.

@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/investigador/" class="feat-trait">Investigador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/sospechoso-de-oportunidad.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Persona de Interes
 
 **Desencadenante:** Una criatura que no esta, segun tu conocimiento, vinculada a ninguna de tus investigaciones activas realiza una accion hostil contra ti en combate.

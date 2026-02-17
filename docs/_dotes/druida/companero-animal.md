@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/companero-animal.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Orden animal
 
 Obtienes los servicios de un compañero animal joven que viaja contigo en tus aventuras y obedece lo mejor que puede cualquier orden sencilla que le das.

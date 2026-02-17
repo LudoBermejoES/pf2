@@ -12,6 +12,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/polifacetico-imposible.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Arcanos, Naturaleza o Religion, Polifacetico esoterico
 
 Tus formulas esotéricas son tan poco usuales que te permiten hacer incursiones en la magia de diversas tradiciones que otros bardos no entienden. Gracias a Polifacético esoterico, si estas entrenado en Arcanos, puedes añadir conjuros Arcanos a tu libro; si estas entrenado en Naturaleza, conjuros primigenios; y si estas entrenado en Religion, conjuros divinos.

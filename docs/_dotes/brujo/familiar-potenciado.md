@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/brujo/" class="feat-trait">Brujo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/familiar-potenciado.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** un familiar
 
 Infundes a tu familiar con energía mágica adicional. Puedes seleccionar 4 aptitudes de familiar o de amo cada día en lugar de 2.

@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicacion</a><a href="/apendices/rasgos/multiclase/" class="feat-trait">Multiclase</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-brujo.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Inteligencia +2
 
 Lanzas conjuros como un brujo. Elige un patron; obtienes un familiar con 2 trucos comunes a tu elección de la tradición de tu patron elegido pero, aparte de la tradición, no obtienes ningún otro efecto de los que suele conceder el patron. Tu familiar obtiene el numero normal de aptitudes para un familiar en lugar de las que obtiene normalmente un familiar de brujo.

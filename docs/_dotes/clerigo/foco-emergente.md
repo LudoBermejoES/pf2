@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/foco-emergente.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez al dia
 
 **Desencadenante:** Un aliado al que puedes ver queda reducido a 0 Puntos de Golpe.

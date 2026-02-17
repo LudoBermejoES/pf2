@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rechazo-divino.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Un aliado tuyo esta a punto de hacer una tirada de salvación contra una aptitud magica de una criatura a la que estas adyacente.
 
 **Requisitos:** Empuñas el arma predilecta de tu dios.

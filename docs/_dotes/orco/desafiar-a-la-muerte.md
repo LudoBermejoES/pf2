@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/desafiar-a-la-muerte.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Ferocidad de orco
 
 Eres excepcionalmente difícil de matar.

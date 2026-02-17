@@ -13,6 +13,11 @@ level: 20
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/jinete-legendario.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Caballero
 
 Tú y tu montura os movéis como un solo ser, leyendo sin esfuerzo las señales del otro y sincronizándoos incluso en lo más crudo de la batalla. Siempre que estés montando tu montura, estás apresurado; puedes usar la acción adicional solo para ordenar a tu montura usando la acción de habilidad Ordenar a un animal.

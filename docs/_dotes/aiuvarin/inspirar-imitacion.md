@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/aiuvarin/" class="feat-trait">Aiuvarin</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/inspirar-imitacion.png" alt="Carta de dote">
+</div>
+
+
 Tus acciones inspiran a tus aliados a grandes logros.
 
 **Beneficio:** Si obtienes un éxito crítico en una prueba de habilidad, automáticamente te calificas para utilizar la reacción Prestar ayuda cuando tratas de ayudar a un aliado utilizando la misma habilidad, incluso sin invertir una acción para prepararte para ello.

@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/ataque/" class="feat-trait">Ataque</a><a href="/apendices/rasgos/monje/" class="feat-trait">Monje</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/bloquear-forma.png" alt="Carta de dote">
+</div>
+
+
 
 **Requisitos** Tienes a un enemigo agarrado o inmovilizado.
 

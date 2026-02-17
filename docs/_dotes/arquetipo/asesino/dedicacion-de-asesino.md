@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-asesino.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Engaño y Sigilo
 
 Te has entrenado para asesinar a tus enemigos, y lo haces con tenacidad y precisión. Obtienes la actividad Marca de muerte.

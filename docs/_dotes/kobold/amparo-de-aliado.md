@@ -12,6 +12,11 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/kobold/" class="feat-trait">Kobold</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/amparo-de-aliado.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por día
 
 **Desencadenante:** Intentas una tirada de salvación mientras estás adyacente a uno o más aliados, pero aún no has tirado.

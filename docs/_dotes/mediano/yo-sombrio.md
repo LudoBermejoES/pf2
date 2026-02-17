@@ -12,6 +12,11 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/yo-sombrio.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Sigilo a rango legendario
 
 **Frecuencia:** Una vez por hora

@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/alquimista/" class="feat-trait">Alquimista</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/toxinas-tenaces.png" alt="Carta de dote">
+</div>
+
+
 Tus victimas tienden a expirar mucho antes que tus venenos, ya que estos ultimos han sido formulados especificamente para durar mas. La duracion maxima de cualquier veneno que crees aumenta en una cantidad igual al intervalo de la etapa 1 del veneno, hasta un maximo del doble de la duracion maxima del veneno.
 
 ---

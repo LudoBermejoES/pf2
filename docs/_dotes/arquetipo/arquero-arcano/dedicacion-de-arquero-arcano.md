@@ -13,6 +13,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-arquero-arcano.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** experto en al menos un arma del grupo de arco o ballesta
 
 Canalizas poderosa magia con tu arquería, permitiéndote entregar conjuros potentes con la punta de una flecha en lugar del gesto más mundano de la muñeca u otros gestos usados normalmente. Si aún no lanzas conjuros desde espacios, aprendes a lanzar conjuros espontáneos y obtienes la actividad Lanzar un conjuro. Obtienes un repertorio con un cantrip de tu elección, de una tradición de tu elección. Eliges un cantrip común u otro al que tengas acceso. Este cantrip debe requerir una tirada de ataque de conjuro y pertenecer a tu tradición elegida. Estás entrenado en el modificador de ataque de conjuros y la CD de conjuros. Tu atributo clave para estos conjuros es Carisma.

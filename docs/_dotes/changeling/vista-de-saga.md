@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/changeling/" class="feat-trait">Changeling</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/vista-de-saga.png" alt="Carta de dote">
+</div>
+
+
 Has nutrido las aptitudes sobrenaturales concedidas por tu madre saga, particularmente la vista.
 
 **Beneficio:** Obtienes visión en la oscuridad.

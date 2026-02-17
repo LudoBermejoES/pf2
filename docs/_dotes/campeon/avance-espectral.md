@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/campeon/" class="feat-trait">Campeón</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/teletransportacion/" class="feat-trait">Teletransportación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/avance-espectral.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** rapidez bendita
 
 Obtienes el conjuro de devoción avance espectral (página 257 ([ver](/conjuros/conjuros-foco/))), que te permite moverte hacia un enemigo, evitando obstáculos.

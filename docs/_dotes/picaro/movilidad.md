@@ -12,6 +12,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/movilidad.png" alt="Carta de dote">
+</div>
+
+
 Te mueves sin dejar ninguna abertura. Cuando das una Zancada y mueves la mitad de tu Velocidad o menos, dicho movimiento no desencadena reacciones. Puedes utilizar Movilidad cuando Trepas, Vuelas o Nadas en lugar de dar Zancadas si dispones del tipo de movimiento correspondiente.
 
 

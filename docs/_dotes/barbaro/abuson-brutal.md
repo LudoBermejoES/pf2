@@ -12,6 +12,11 @@ level: 6
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/abuson-brutal.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** experto en Atletismo
 
 Empujas a tus enemigos y les dejas moretones. Mientras estás en ira, cuando logras Desarmar, Agarrar, Reposicionar, Empujar o Derribar a un enemigo, infliges a ese enemigo daño contundente igual a tu modificador de Fuerza; añade esto al daño de un éxito crítico de Derribar.

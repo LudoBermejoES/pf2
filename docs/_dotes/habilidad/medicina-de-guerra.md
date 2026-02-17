@@ -11,6 +11,10 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/curacion/" class="feat-trait">Curacion</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/medicina-de-guerra.png" alt="Carta de dote">
+</div>
+
 **Prerrequisitos:** rango entrenado en Medicina
 
 **Requisitos:** Tienes o sostienes material de curas.

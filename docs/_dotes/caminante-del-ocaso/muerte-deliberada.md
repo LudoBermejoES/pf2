@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/muerte-deliberada.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por día
 
 **Desencadenante:** Estás a punto de ganar la condición moribundo como resultado del ataque o habilidad de otra criatura, y esa criatura está a tu alcance de melé.

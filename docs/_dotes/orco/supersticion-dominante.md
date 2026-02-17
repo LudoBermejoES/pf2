@@ -12,6 +12,11 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/orco/" class="feat-trait">Orco</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/supersticion-dominante.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Supersticion de orco
 
 Te infundes de superstición y practicas antiguos ejercicios mentales de los orcos para desprenderte de los efectos de la magia.

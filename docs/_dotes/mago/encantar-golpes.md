@@ -12,6 +12,11 @@ level: 4
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/encantar-golpes.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por turno
 
 **Requisitos:** Tu acción mas reciente fue lanzar un conjuro, no un truco.

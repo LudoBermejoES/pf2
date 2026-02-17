@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/salto-repentino.png" alt="Carta de dote">
+</div>
+
+
 Llevas a cabo un salto impresionante y pegas mientras estás en el aire. Haz un Salto sin carrerilla, Salto de altura o Salto de longitud y da un Golpe cuerpo a cuerpo en cualquier momento durante el salto. Inmediatamente después del Golpe, caes al suelo si estabas en el aire, incluso si no has alcanzado la distancia máxima del salto. Si la distancia que caes no es superior a la altura del salto, no sufres daño y aterrizas de pie.
 
 Al hacer un Salto de altura o un Salto de longitud durante un Salto repentino, determina la CD utilizando las CD del Salto de longitud e incrementa tu distancia máxima al doble de tu Velocidad.

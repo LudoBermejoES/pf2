@@ -12,6 +12,11 @@ level: 10
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/explorador/" class="feat-trait">Explorador</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/guardian-sin-igual.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Guardian iniciado
 
 Tu dominio de la magia primigenia te ha concedido acceso a los mayores secretos de la magia de guardian. Obtienes un conjuro de guardian a elegir de los conjuros sin igual de guardian (u otro al que tienes acceso).

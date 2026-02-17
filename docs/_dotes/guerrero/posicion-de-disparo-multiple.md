@@ -12,6 +12,11 @@ level: 16
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/guerrero/" class="feat-trait">Guerrero</a><a href="/apendices/rasgos/posicion/" class="feat-trait">Posición</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/posicion-de-disparo-multiple.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Disparo doble.
 
 **Requisitos:** Empuñas un arma a distancia con recarga 0.

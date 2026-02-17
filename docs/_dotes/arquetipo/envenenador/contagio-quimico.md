@@ -13,6 +13,11 @@ level: 18
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/contagio-quimico.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Dedicación de Envenenador
 
 Tus venenos de lesión pueden rociarse sobre criaturas. Obtienes el descubrimiento de campo superior del alquimista toxicólogo.

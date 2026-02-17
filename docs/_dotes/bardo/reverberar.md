@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/bardo/" class="feat-trait">Bardo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/reverberar.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Una criatura o peligro te infligiria dano sonico.
 
 Puedes manipular la acustica que te rodea para devolver el dano sonico a su origen. Haz una prueba de interpretación contra la CD de Voluntad de la criatura o la CD de Fortaleza de un peligro. Si el dano procede de un conjuro, utiliza la CD de conjuro de la criatura si es mas baja.

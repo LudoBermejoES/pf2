@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tengu/" class="feat-trait">Tengu</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/salto-de-un-dedo.png" alt="Carta de dote">
+</div>
+
+
 Adoptando una postura peculiar, haces un pequeño salto sobre cada dedo del pie. Realizas un Salto vertical sin desencadenar reacciones que puedan desencadenarse por acciones de movimiento o al salir o entrar en una casilla.
 
 ---

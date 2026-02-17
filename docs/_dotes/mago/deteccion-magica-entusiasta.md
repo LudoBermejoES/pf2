@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/mago/" class="feat-trait">Mago</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/deteccion-magica-entusiasta.png" alt="Carta de dote">
+</div>
+
+
 Tienes sensibilidad a los peligros mágicos. Cuando utilizas la actividad de exploración Detectar magia, puedes tirar dos veces iniciativa y utilizar el mejor de los resultados, si por lo menos un oponente tiene un efecto magico o un objeto magico y esta al alcance de tu magia de detección.
 
 

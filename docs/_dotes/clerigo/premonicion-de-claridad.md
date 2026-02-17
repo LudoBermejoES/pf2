@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/premonicion-de-claridad.png" alt="Carta de dote">
+</div>
+
+
 **Frecuencia:** una vez por hora
 
 **Desencadenante:** Fallas una tirada de salvación contra un efecto mental

@@ -12,6 +12,11 @@ level: 14
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/destierro-rapido.png" alt="Carta de dote">
+</div>
+
+
 **Desencadenante:** Impactas criticamente a una criatura que no esta en su Plano natal.
 
 **Requisitos:** Tienes preparado un conjuro de destierro.

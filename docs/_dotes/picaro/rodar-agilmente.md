@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/picaro/" class="feat-trait">Picaro</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/rodar-agilmente.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Esquiva agil
 
 Te echas a rodar a fin de librarte de un peligro inminente. Puedes utilizar Esquiva agil antes de hacer una salvación de Reflejos ademas de su desencadenante original. Si lo haces, el bonificados por circunstancia se aplica a tu salvación de Reflejos contra el efecto desencadenante.

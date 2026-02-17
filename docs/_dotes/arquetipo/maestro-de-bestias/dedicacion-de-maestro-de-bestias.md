@@ -13,6 +13,11 @@ level: 2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/arquetipo/" class="feat-trait">Arquetipo</a><a href="/apendices/rasgos/dedicacion/" class="feat-trait">Dedicación</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/dedicacion-de-maestro-de-bestias.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** entrenado en Naturaleza
 
 Obtienes el servicio de un compañero animal joven que viaja contigo y obedece tus órdenes. Contrariamente a las reglas habituales para compañeros animales, esta dote puede otorgarte un segundo compañero animal. Si alguna vez tienes más de un compañero animal, obtienes la acción Llamar compañero. Consulta el recuadro Compañeros animales del maestro de bestias para detalles sobre esta acción.

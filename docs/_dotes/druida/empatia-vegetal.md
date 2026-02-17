@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/druida/" class="feat-trait">Druida</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/empatia-vegetal.png" alt="Carta de dote">
+</div>
+
+
 Tienes una conexión con la flora que te permite comunicarte con ella a un nivel rudimentario. Puedes formular preguntas, obtener respuestas y utilizar la habilidad Diplomacia con las plantas y los hongos.
 
 

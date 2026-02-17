@@ -12,6 +12,11 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/nefilim/" class="feat-trait">Nefilim</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/pezunas-agiles.png" alt="Carta de dote">
+</div>
+
+
 Dispones de pezuñas, alas en los tobillos o cualquier otro rasgo que acelera tu movimiento.
 
 **Beneficio:** Tu Velocidad se incrementa en 5 pies (1,5 m).

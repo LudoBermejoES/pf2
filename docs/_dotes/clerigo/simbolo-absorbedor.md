@@ -12,6 +12,11 @@ level: 12
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/clerigo/" class="feat-trait">Clérigo</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/simbolo-absorbedor.png" alt="Carta de dote">
+</div>
+
+
 **Prerrequisitos:** Alzar simbolo
 
 **Desencadenante:** Estas a punto de sufrir daño debido a un ataque cuerpo a cuerpo mientras tienes el simbolo alzado.

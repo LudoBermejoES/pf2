@@ -12,6 +12,11 @@ level: 8
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/barbaro/" class="feat-trait">Bárbaro</a><a href="/apendices/rasgos/ira/" class="feat-trait">Ira</a></div>
 
+<div class="feat-card">
+  <img src="/assets/cards/feats/asalto-de-seguimiento.png" alt="Carta de dote">
+</div>
+
+
 **Requisitos:** Usaste tu acción anterior para realizar un Golpe cuerpo a cuerpo que falló.
 
 Incluso ante el fracaso presionas el ataque, determinado a tener éxito. Realiza un Golpe con la misma arma, añadiendo los rasgos de arma contragolpe y contundente a ese Golpe.
