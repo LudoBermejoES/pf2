@@ -46,4 +46,4 @@ La fuerza de los orcos potencia tu linaje. Tienes un tinte verde en la piel y ot
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/herencias-versatiles/ascendencia-mixta/dotes_short/' | relative_url }})
+- [Dotes]({{ '/ascendencias/herencias-versatiles/dromaar/dotes_short/' | relative_url }})

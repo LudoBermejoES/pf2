@@ -48,4 +48,4 @@ Tienes elfos, o posiblemente otros aiuvarins en tu árbol genealógico. Tienes l
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/herencias-versatiles/ascendencia-mixta/dotes_short/' | relative_url }})
+- [Dotes]({{ '/ascendencias/herencias-versatiles/aiuvarin/dotes_short/' | relative_url }})

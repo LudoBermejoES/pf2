@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /dotes/ascendencia-mixta/encanto-sobrenatural/
+permalink: /dotes/aiuvarin/encanto-sobrenatural/
 title: Encanto sobrenatural
 chapter: Dotes
 category: dotes

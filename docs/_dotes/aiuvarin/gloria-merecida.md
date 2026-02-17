@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /dotes/ascendencia-mixta/gloria-merecida/
+permalink: /dotes/aiuvarin/gloria-merecida/
 title: Gloria merecida
 chapter: Dotes
 category: dotes

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /dotes/ascendencia-mixta/inspirar-imitacion/
+permalink: /dotes/aiuvarin/inspirar-imitacion/
 title: Inspirar imitación
 chapter: Dotes
 category: dotes

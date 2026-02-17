@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /dotes/ascendencia-mixta/atavismo-elfico/
+permalink: /dotes/aiuvarin/atavismo-elfico/
 title: Atavismo élfico
 chapter: Dotes
 category: dotes
