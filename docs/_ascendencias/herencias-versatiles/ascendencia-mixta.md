@@ -64,65 +64,10 @@ Tienes elfos, o posiblemente otros aiuvarins en tu árbol genealógico. Tienes l
 
 ---
 
-## Dotes para Aiuvarins
+## Selecciones relacionadas
 
-Además de las dotes de tu ascendencia de elfo, las siguientes dotes están disponibles para los personajes aiuvarins.
+- [Dotes]({{ '/ascendencias/herencias-versatiles/ascendencia-mixta/dotes_short/' | relative_url }})
 
-### Nivel 1
-
-#### Atavismo élfico
-**Dote 1** · Aiuvarin
-
-Tu sangre elfa es particularmente fuerte, concediéndote rasgos mucho más élficos que los de un aiuvarin típico. También podrías haber sido criado entre elfos, sumergido en la herencia de tus antepasados elfos.
-
-**Beneficio:** Obtienes los beneficios de la herencia élfica de tu pariente o antepasados elfos. Por lo general no puedes seleccionar una herencia que dependa de un rasgo élfico que no tienes o lo mejore. Por ejemplo, no puedes adoptar la herencia Elfo antiguo a menos que tu ascendencia no elfa también tenga un intervalo de vida medido en múltiples siglos. En dichos casos, y a discreción del DJ, podrías obtener un beneficio diferente.
-
-**Especial:** Sólo puedes seleccionar esta dote a 1.er nivel y no puedes reconvertirla.
-
----
-
-#### Gloria merecida
-**Dote 1** · Aiuvarin
-
-Los elfos a menudo tienden a subestimar a los aiuvarins, y tienes experiencia en relatar historias de tus logros para ganarte su respeto.
-
-**Beneficio:** Obtienes el rango entrenado en Interpretación. Si ya estás entrenado en Interpretación, en su lugar obtienes el rango entrenado en una habilidad a tu elección.
-
-Obtienes la dote Interpretación impresionante. Cuando haces una prueba de Interpretar para Causar impresión a un elfo, si sufres un fallo crítico, en su lugar sufres tan sólo un fallo.
-
----
-
-### Nivel 5
-
-#### Encanto sobrenatural
-**Dote 5** · Aiuvarin
-
-La magia élfica de tu sangre se manifiesta como una fuerza que puedes utilizar para hacerte más atractivo o seductor.
-
-**Beneficio:** Puedes lanzar *hechizar* como un conjuro innato arcano de 1.er rango una vez al día.
-
----
-
-#### Inspirar imitación
-**Dote 5** · Aiuvarin
-
-Tus acciones inspiran a tus aliados a grandes logros.
-
-**Beneficio:** Si obtienes un éxito crítico en una prueba de habilidad, automáticamente te calificas para utilizar la reacción Prestar ayuda cuando tratas de ayudar a un aliado utilizando la misma habilidad, incluso sin invertir una acción para prepararte para ello.
-
----
-
-# Dromaar
-
-Desde que los orcos de Belkzen se han convertido en una vanguardia crítica en la guerra contra el Tirano Susurrante, luchando a veces junto a aliados de otras ascendencias, los niños con una mezcla de herencia de orco y de otra ascendencia (típicamente de humano) han crecido en número.
-
-Muchos de estos "**semiorcos**" se denominan a sí mismos "**drogaras**", una palabra orca que se refiere a aquellos tamborileros cuya música envía a las hordas a la guerra, y se ven como los heraldos de una nueva era para los orcos en la Región del mar Interior.
-
-Algunos humanoides intolerantes ven a los orcos como más parecidos a los monstruos que a las personas, odiándolos y temiéndolos simplemente debido a su linaje. Esto puede empujar a los drogaras a los márgenes de la sociedad, donde algunos encuentran trabajo como braceros, mercenarios o delincuentes. Muchos de los que no pueden soportar las indignidades vertidas sobre ellos en la sociedad humana encuentran un hogar entre sus parientes orcos o viajan a las tierras vírgenes.
-
-Algunos humanos suponen que los drogaras son menos inteligentes o que no están civilizados, y estos raramente encuentran aceptación en las sociedades con mucha gente de ese tipo. Para un clan orco, un dromaar se considera a menudo un añadido valioso, compensando lo que podría faltarle en fuerza física con los dones obtenidos de su otra línea ancestral.
-
-Un dromaar con un progenitor humano puede vivir típicamente unos **setenta años**.
 
 ## Podrías...
 
@@ -149,30 +94,6 @@ La fuerza de los orcos potencia tu linaje. Tienes un tinte verde en la piel y ot
 
 ---
 
-## Dotes para Dromaars
+## Selecciones relacionadas
 
-Además de las dotes de la ascendencia orca, las siguientes dotes están disponibles para los personajes drogaras.
-
-### Nivel 1
-
-#### Pacificador monstruoso
-**Dote 1** · Dromaar
-
-Tu naturaleza dual de humano y orco te ha otorgado una perspectiva única, permitiéndote cruzar la brecha entre los humanos y las muchas criaturas inteligentes del mundo a las que los humanos consideran monstruos.
-
-**Beneficio:** Obtienes un bonificador +1 por circunstancia a las pruebas de Diplomacia contra criaturas inteligentes no humanoides y contra los humanoides marginalizados en la sociedad humana (a discreción del DJ, pero típicamente incluyendo al menos los gigantes, los goblins, los kóbolds y los orcos).
-
-También obtienes este bonificados a las pruebas de recepción para Averiguar los motivos de dichas criaturas.
-
----
-
-#### Vista de orco
-**Dote 1** · Dromaar
-
-**Prerrequisitos:** Visión en la penumbra
-
-Tu sangre de orco te concede la aguda vista de tus antepasados.
-
-**Beneficio:** Obtienes visión en la oscuridad, lo que te permite ver en condiciones de oscuridad y de luz tenue igual de bien que en luz brillante. Sin embargo, en la oscuridad sólo ves en blanco y negro.
-
-**Especial:** Sólo puedes seleccionar esta dote a 1.er nivel y no puedes reconvertirla.
+- [Dotes]({{ '/ascendencias/herencias-versatiles/ascendencia-mixta/dotes_short/' | relative_url }})
