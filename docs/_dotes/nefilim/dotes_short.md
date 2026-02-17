@@ -4,7 +4,6 @@ permalink: /ascendencias/herencias-versatiles/nefilim/dotes_short/
 title: "Dotes de Herencia: Nefilim"
 chapter: Ascendencias
 category: ascendencias
-nav_order: 1
 herencia_versatil: Nefilim
 ---
 

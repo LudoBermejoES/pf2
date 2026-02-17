@@ -4,7 +4,6 @@ permalink: /ascendencias/herencias-versatiles/ascendencia-mixta/dotes_short/
 title: "Dotes de Herencia: Ascendencia Mixta"
 chapter: Ascendencias
 category: ascendencias
-nav_order: 1
 herencia_versatil: Ascendencia Mixta
 ---
 

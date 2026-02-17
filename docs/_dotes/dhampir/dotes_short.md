@@ -4,7 +4,6 @@ permalink: /ascendencias/herencias-versatiles/dhampir/dotes_short/
 title: "Dotes de Herencia: Dhampir"
 chapter: Ascendencias
 category: ascendencias
-nav_order: 1
 herencia_versatil: Dhampir
 ---
 

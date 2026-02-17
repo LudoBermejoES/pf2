@@ -174,7 +174,6 @@ permalink: /ascendencias/herencias-versatiles/${heritage.slug}/dotes_short/
 title: "Dotes de Herencia: ${heritage.name}"
 chapter: Ascendencias
 category: ascendencias
-nav_order: 1
 herencia_versatil: ${heritage.name}
 ---
 

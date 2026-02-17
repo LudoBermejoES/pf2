@@ -4,7 +4,6 @@ permalink: /ascendencias/herencias-versatiles/sangre-de-dragon/dotes_short/
 title: "Dotes de Herencia: Sangre de Dragón"
 chapter: Ascendencias
 category: ascendencias
-nav_order: 1
 herencia_versatil: Sangre de Dragón
 ---
 

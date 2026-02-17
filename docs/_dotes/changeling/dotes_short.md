@@ -4,7 +4,6 @@ permalink: /ascendencias/herencias-versatiles/changeling/dotes_short/
 title: "Dotes de Herencia: Changeling"
 chapter: Ascendencias
 category: ascendencias
-nav_order: 1
 herencia_versatil: Changeling
 ---
 

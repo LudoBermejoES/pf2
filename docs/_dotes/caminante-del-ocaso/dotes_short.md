@@ -4,7 +4,6 @@ permalink: /ascendencias/herencias-versatiles/caminante-del-ocaso/dotes_short/
 title: "Dotes de Herencia: Caminante del Ocaso"
 chapter: Ascendencias
 category: ascendencias
-nav_order: 1
 herencia_versatil: Caminante del Ocaso
 ---
 
