@@ -12,8 +12,6 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a><a href="/apendices/rasgos/movimiento/" class="feat-trait">Movimiento</a><a href="/apendices/rasgos/teletransporte/" class="feat-trait">Teletransporte</a></div>
 
-**Dote 9** · Gnomo, Movimiento, Teletransporte
-
 **Requisitos:** Tienes que estar adyacente a una criatura viva.
 
 Entras en fase a través de un espacio ocupado por una criatura viva con un fogonazo, apareciendo de forma espontánea al otro lado de la misma en una exhibición vibrante de luces de colores.

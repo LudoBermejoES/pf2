@@ -12,8 +12,6 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
-**Dote 13** · Mediano
-
 **Prerrequisitos:** Bailar bajo los pies
 
 **Beneficio:** Mientras compartes el espacio de una criatura utilizando Bailar bajo los pies, tus armas cuerpo a cuerpo y tus ataques sin armas obtienen el rasgo derribo, pero sólo contra la criatura cuyo espacio compartes. Puedes estar en el mismo espacio que una criatura Grande o mayor que está tumbada, incluso si no es aliada tuya.

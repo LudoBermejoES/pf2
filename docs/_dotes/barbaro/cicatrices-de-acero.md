@@ -16,7 +16,7 @@ level: 4
 
 **Frecuencia:** una vez al día
 
-**Detonante:** Un oponente te golpea críticamente con un ataque que inflige daño físico.
+**Desencadenante:** Un oponente te golpea críticamente con un ataque que inflige daño físico.
 
 Cuando recibes los golpes más poderosos, puedes tensar tus músculos para desviar parte del daño. Obtienes resistencia al ataque desencadenante igual a tu modificador de Constitución más la mitad de tu nivel.
 

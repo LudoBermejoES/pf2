@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a></div>
 
-**Dote 1** · Gnomo
-
 **Frecuencia:** Una vez por hora
 **Desencadenante:** Ciegas o deslumbras a una criatura.
 

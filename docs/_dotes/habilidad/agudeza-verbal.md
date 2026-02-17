@@ -11,8 +11,6 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/auditivo/" class="feat-trait">AUDITIVO</a><a href="/apendices/rasgos/concentrar/" class="feat-trait">CONCENTRAR</a><a href="/apendices/rasgos/emocion/" class="feat-trait">EMOCIÓN</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/linguistico/" class="feat-trait">LINGÜÍSTICO</a><a href="/apendices/rasgos/mental/" class="feat-trait">MENTAL</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** entrenado en Diplomacia
 
 Lanzas una réplica perspicaz a un enemigo, distrayéndolo. Elige un enemigo dentro de 9 metros y tira una prueba de Diplomacia contra la CD de Voluntad del objetivo.

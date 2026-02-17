@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** Inteligencia +1
 
 Obtienes el rango entrenado en una habilidad a tu elección.

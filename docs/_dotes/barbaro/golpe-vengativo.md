@@ -14,7 +14,7 @@ level: 14
 
 **Prerrequisitos:** Ven a por Mí
 
-**Detonante:** Una criatura dentro de tu alcance tiene éxito en un ataque contra ti.
+**Desencadenante:** Una criatura dentro de tu alcance tiene éxito en un ataque contra ti.
 
 **Requisitos:** Estás bajo el efecto de Ven a por Mí.
 

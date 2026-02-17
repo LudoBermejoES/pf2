@@ -11,8 +11,6 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** entrenado en Sociedad
 
 Has aprendido a estimar rápidamente el número de objetos en un grupo con precisión relativa con solo un vistazo. Aprendes inmediatamente el número de objetos visualmente similares en un grupo que puedes ver, redondeado al primer dígito del número total. Por ejemplo, podrías mirar una caja de viales de poción y saber que contenía unos 30 viales, pero no sabrías que eran exactamente 33 viales, cuántos tipos diferentes de pociones había, o cuántas de cada tipo. Similarmente, podrías mirar una pila de 2.805 monedas y saber que había unas 3.000 monedas en total. Solo puedes usar esta habilidad en objetos que típicamente pueden contarse, así que no puedes usarla en granos de arena o estrellas en el cielo, por ejemplo.

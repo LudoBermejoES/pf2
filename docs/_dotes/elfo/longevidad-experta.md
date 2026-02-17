@@ -12,8 +12,6 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
-**Dote 9** · Elfo
-
 **Prerrequisitos:** Longevidad ancestral
 
 Has continuado refinando el conocimiento y las habilidades obtenidas a lo largo de tu vida.

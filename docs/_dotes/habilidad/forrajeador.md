@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** rango entrenado en Supervivencia
 
 Cuando utilizas Supervivencia para Subsistir, si sacas cualquier resultado peor que un éxito, obtienes un éxito. Con un éxito, puedes proporcionarte subsistencia a ti mismo y a 4 criaturas adicionales, y con un éxito critico, puedes cuidar del doble de criaturas adicionales. Si eliges un nivel de vida comodo, puedes proporcionar subsistencia a la mitad de dichas criaturas.

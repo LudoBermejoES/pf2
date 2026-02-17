@@ -16,7 +16,7 @@ level: 4
 
 **Frecuencia:** una vez al día
 
-**Detonante:** Fallas, pero no fallas críticamente, una prueba de Percepción o una prueba de habilidad.
+**Desencadenante:** Fallas, pero no fallas críticamente, una prueba de Percepción o una prueba de habilidad.
 
 Aunque nadie los ve y solo tú puedes oírlos, los espíritus a tu alrededor parlotean constantemente, excepto cuando estás en ira. A veces incluso son útiles, y su guía puede atravesar la bruma de tu ira. Vuelve a tirar la prueba desencadenante, usando el segundo resultado incluso si es peor.
 

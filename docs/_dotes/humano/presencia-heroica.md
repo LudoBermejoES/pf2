@@ -12,8 +12,6 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/emocion/" class="feat-trait">Emocion</a><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a></div>
 
-**Dote 17** · Emocion, Humano, Mental
-
 **Frecuencia:** Una vez al dia
 
 La sangre de los heroes recorre tus venas e inspiras a tus aliados para armarse de valor y encontrar un nuevo nivel de resolución.

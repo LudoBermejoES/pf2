@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 2**
-
 **Prerrequisitos:** experto en una habilidad que dispone de la acción Recordar conocimiento, Seguro en dicha habilidad
 
 Conoces hechos básicos sin pararte mucho a pensar. Elige una habilidad en la que tienes el rango experto, que dispone de la acción Recordar conocimiento y para la que dispones de la dote Seguro. Puedes usar la acción Recordar conocimiento con dicha habilidad como acción gratuita una vez por asalto. Si lo haces, debes utilizar Seguro en la prueba de habilidad.

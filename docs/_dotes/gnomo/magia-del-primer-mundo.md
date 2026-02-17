@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a></div>
 
-**Dote 1** · Gnomo
-
 Tu conexión con el Primer Mundo te concede un conjuro innato primigenio, muy parecido a los de las hadas.
 
 **Beneficio:** Elige un truco de la lista de conjuros primigenios (pág. 311 ([ver](/conjuros/))). Puedes lanzarlo a voluntad como un conjuro innato primigenio. Un truco se potencia a un rango de conjuro igual a la mitad de tu nivel redondeado hacia arriba.

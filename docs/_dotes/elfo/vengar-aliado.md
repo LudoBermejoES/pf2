@@ -12,8 +12,6 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
-**Dote 13** · Elfo, Fortuna
-
 **Frecuencia:** Una vez cada 10 minutos
 **Requisitos:** Estás a 30 pies (9 m) o menos de un aliado con el estado moribundo.
 

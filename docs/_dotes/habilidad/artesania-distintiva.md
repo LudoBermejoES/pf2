@@ -11,8 +11,6 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">POCO COMÚN</a><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
-**Dote 7**
-
 **Prerrequisitos:** maestro en Artesanía, Artesanía mágica
 
 Los objetos mágicos que creas llevan una marca específica de tu trabajo. Cuando Fabricas con éxito un objeto mágico permanente, tira una prueba plana CD 9 cuando el objeto esté completamente terminado. Cualquier beneficio que una criatura obtenga de una peculiaridad de objeto se aplica solo mientras la criatura lleve el objeto (para un objeto llevado) o lo sostenga (para un objeto sostenido). El DJ podría permitir peculiaridades personalizadas similares a las listadas.

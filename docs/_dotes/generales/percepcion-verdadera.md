@@ -10,8 +10,6 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/revelacion/" class="feat-trait">REVELACIÓN</a></div>
 
-**Dote 19**
-
 **Prerrequisitos:** Legendario en Percepción
 
 Tus habilidades perceptivas y capacidad para procesar información sensorial están tan más allá de lo normal que notas discrepancias diminutas en todo tipo de ilusiones y transformaciones físicas. Estás constantemente bajo los efectos de un conjuro de visión verdadera de rango 6, usando tu modificador de Percepción para la prueba de contrarrestar.

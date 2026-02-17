@@ -8,9 +8,7 @@ level: 11
 source: PC1
 ---
 
-**Dote 11** · General
-
-<div class="feat-traits-header">
+<div class="feat-traits-header" markdown="0">
 <a href="/apendices/rasgos/general/" class="feat-trait">General</a>
 </div>
 

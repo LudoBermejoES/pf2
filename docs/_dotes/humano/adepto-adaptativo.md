@@ -12,8 +12,6 @@ level: 5
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a></div>
 
-**Dote 5** · Humano
-
 **Prerrequisitos:** Truco adaptado, poder lanzar conjuros de 3.er rango.
 
 Has continuado adaptando tu magia para fusionar la tradición de tu clase con tu tradición adaptada.

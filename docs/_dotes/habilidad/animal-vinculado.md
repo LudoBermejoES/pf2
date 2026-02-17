@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a><a href="/apendices/rasgos/tiempo-libre/" class="feat-trait">Tiempo libre</a></div>
 
-**Dote 2**
-
 **Prerrequisitos:** rango experto en Naturaleza
 
 Forjas fuertes conexiones con los animales. Puedes invertir 7 dias de tiempo libre de forma regular interactuando con un animal normal (no un compañero animal ni otro animal especial) que es amistoso o solicito para contigo. Después de dicho intervalo, haz una prueba de Naturaleza contra la CD de Voluntad del mismo. Si tienes éxito, te vinculas con el. El animal queda permanentemente vinculado a ti hasta que formas un vinculo con un animal diferente o haces algo impresentable para romper el vinculo.

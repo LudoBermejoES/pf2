@@ -12,8 +12,6 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
-**Dote 17** · Elfo
-
 Tu gente utilizaba magia poderosa para viajar entre mundos distantes en el lejano pasado, y los restos de dicha magia hacen que semejante transporte sea más fácil para ti.
 
 **Beneficio:** Cuando eres el objetivo de un conjuro de teletransporte que transporta más de una persona, puede afectar a una persona adicional más allá del límite normal, elegida por el lanzador.

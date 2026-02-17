@@ -12,8 +12,6 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 
-**Dote 13** · Humano, Fortuna
-
 **Frecuencia:** Una vez al dia
 
 **Desencadenante:** Pierdes el estado moribundo.

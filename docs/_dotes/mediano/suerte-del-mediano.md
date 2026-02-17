@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
-**Dote 1** · Fortuna, Mediano
-
 **Frecuencia:** Una vez al día
 
 **Desencadenante:** Fallas una prueba de habilidad o una tirada de salvación.

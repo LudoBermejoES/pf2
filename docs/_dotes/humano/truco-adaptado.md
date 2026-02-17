@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a></div>
 
-**Dote 1** · Humano
-
 **Prerrequisitos:** Rasgo de clase lanzamiento de conjuros
 
 A traves del estudio de multiples tradiciones magicas, has alterado un conjuro para que encaje en tu estilo de lanzamiento.

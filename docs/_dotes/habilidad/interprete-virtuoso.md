@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** rango entrenado en Interpretación
 
 Tienes un talento excepcional en un tipo de interpretación. Obtienes un bonificador +1 por circunstancia cuando llevas a cabo un determinado tipo de interpretación. Si tienes el rango maestro en Interpretación, este bonificador se incrementa a +2. Selecciona una de las siguientes especialidades y aplica el bonificador al hacer pruebas de Interpretación de ese tipo. Si no queda claro si una especialidad es aplicable o no, quien decide es el DJ.

@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** rango entrenado en Naturaleza
 
 Puedes aplicar curas naturales para curar a tus aliados. Puedes usar Naturaleza en lugar de Medicina para tratar heridas y, si tienes una competencia mayor en Naturaleza, puedes hacer pruebas mas difíciles. No reemplaza a Medicina para usos de la habilidad diferentes a Tratar heridas ni para prerrequisitos de dote.

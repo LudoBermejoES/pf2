@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** rango entrenado en Sigilo
 
 Selecciona un tipo de terreno difícil de la siguiente lista: escombros, matorral o nieve. Si no has sido detectado por ningún no aliado en dicho tipo de terreno, puedes Moverte furtivamente sin hacer una prueba de Sigilo si no te mueves mas de 5 pies (1,5 m) y no pasas a 10 pies (3 m) o menos de un enemigo durante tu movimiento.

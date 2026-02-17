@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a></div>
 
-**Dote 1** · Humano
-
 Te has familiarizado con una arma en particular, potencialmente de otra ascendencia o cultura.
 
 **Beneficio:** Elige una arma poco comun sencilla o marcial con un rasgo correspondiente a una ascendencia (como por ejemplo enano, goblin u orco) o que es comun en otra cultura. Obtienes acceso a dicha arma y a efectos de competencia, la tratas como si fuera una arma sencilla.

@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 7**
-
 **Prerrequisitos:** rango maestro en Arcanos, Naturaleza, Ocultismo o Religion; Reconocer conjuro
 
 Reconoces conjuros rapidamente. Una vez por asalto, puedes Reconocer un conjuro utilizando una habilidad en la que tienes el rango maestro como acción gratuita.

@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
-**Dote 1** · Elfo
-
 **Prerrequisitos:** Por lo menos cien años de edad
 
 Has acumulado un amplio abanico de conocimientos vividos a lo largo de los años.

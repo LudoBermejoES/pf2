@@ -12,8 +12,6 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
-**Dote 13** · Mediano
-
 **Prerrequisitos:** Sombras distractoras
 
 Eres excelente en pasar desapercibido, especialmente en una multitud.

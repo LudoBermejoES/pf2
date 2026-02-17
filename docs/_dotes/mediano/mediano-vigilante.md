@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
-**Dote 1** · Mediano
-
 Prestas mucha atención a la gente que te rodea, lo que te permite notar más fácilmente que alguien actúa de forma impropia.
 
 **Beneficio:** Obtienes un bonificador +2 por circunstancia a las pruebas de Percepción al utilizar la acción básica Averiguar intenciones para detectar personajes encantados o poseídos. Si no estás utilizando activamente Averiguar intenciones sobre un personaje encantado o poseído, el DJ hace una tirada secreta, sin tu bonificador habitual por circunstancia, para que puedas darte cuenta potencialmente del encantamiento o posesión.

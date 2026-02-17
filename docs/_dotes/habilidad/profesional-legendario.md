@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 15**
-
 **Prerrequisitos:** rango legendario en Saber
 
 Tu fama se ha extendido por todos los países (por ejemplo, si tienes Saber [guerra] podrías ser un general o táctico legendario). Esto funciona como Interprete legendario, excepto que obtienes trabajos de mayor nivel cuando Obtienes ingresos mediante Saber.

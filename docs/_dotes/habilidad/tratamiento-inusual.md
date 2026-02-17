@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 2**
-
 **Prerrequisitos:** rango experto en Medicina
 
 Tu entrenamiento medico se extiende a estados menos obvios. Cuando tienes éxito contra una CD 20 en una prueba para Tratar heridas, tambien puedes reducir en 1 el valor de uno de los siguientes estados: anonadado, debilitado o torpe. Si eres capaz de tratar a mas de una criatura a la vez, elige tan solo una para obtener este beneficio. Una criatura se puede beneficiar de Tratamiento inusual solo una vez al dia.

@@ -12,8 +12,6 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a><a href="/apendices/rasgos/ilusion/" class="feat-trait">Ilusión</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 
-**Dote 13** · Gnomo, Ilusión, Visual
-
 **Prerrequisitos:** Por lo menos un conjuro innato arcano u ocultista obtenido gracias a una herencia de gnomo o dote de ascendencia de gnomo
 **Frecuencia:** Una vez por hora
 **Desencadenante:** Eres atacado por un enemigo, pero éste aún no ha tirado los dados.

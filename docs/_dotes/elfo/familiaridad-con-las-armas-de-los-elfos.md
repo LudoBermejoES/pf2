@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/elfo/" class="feat-trait">Elfo</a></div>
 
-**Dote 1** · Elfo
-
 Prefieres los arcos y otras armas elegantes.
 
 **Beneficio:** Obtienes acceso a todas las armas poco comunes con el rasgo elfo. Tienes familiaridad con las armas con el rasgo elfo además de los arcos largos, arcos largos compuestos, espadas roperas, arcos cortos y arcos cortos compuestos; a efectos de competencia, tratas cualquier arma marcial de éstas como una arma sencilla y cualquier arma avanzada de éstas como una arma marcial.

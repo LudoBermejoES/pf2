@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 15**
-
 **Prerrequisitos:** rango legendario en Sigilo, Movimiento furtivo rapido
 
 Siempre te mueves furtivamente a menos que elijas que te vean, incluso cuando no hay nada tras lo que esconderse. Puedes Esconderte y Moverte furtivamente incluso sin cobertura o sin estar oculto. Cuando empleas una tactica de exploración distinta a Evitar ser visto, obtienes tambien los beneficios de Evitar ser visto si no eliges no hacerlo.

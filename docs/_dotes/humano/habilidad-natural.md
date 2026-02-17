@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a></div>
 
-**Dote 1** · Humano
-
 Tu ingenio te permite entrenar una amplia gama de habilidades.
 
 **Beneficio:** Obtienes el rango de competencia entrenado en dos habilidades a tu elección.

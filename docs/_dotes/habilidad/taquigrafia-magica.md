@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a></div>
 
-**Dote 2**
-
 **Prerrequisitos:** rango experto en Arcanos, Naturaleza, Ocultismo o Religion
 
 Aprender conjuros es facil para ti. Cuando tienes éxito en Aprender un conjuro, tardas 10 minutos sea cual sea el rango del mismo. Si tendrías éxito en la prueba, en su lugar obtienes un éxito critico. Si fallas, puedes probar de nuevo al cabo de una semana o después de subir un nivel, lo que sucede primero.

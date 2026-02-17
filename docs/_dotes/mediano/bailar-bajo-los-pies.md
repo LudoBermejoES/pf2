@@ -12,8 +12,6 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
-**Dote 9** · Mediano
-
 **Prerrequisitos:** Pisada vivaz
 
 En combate, corres bajo las piernas de tus enemigos.

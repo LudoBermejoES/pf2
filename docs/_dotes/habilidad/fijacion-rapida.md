@@ -11,8 +11,6 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
-**Dote 7**
-
 **Prerrequisitos:** maestro en Artesanía
 
 Solo tardas 1 minuto en Fijar un talismán. Si eres legendario en Artesanía, puedes Fijar un talismán como una actividad de 3 acciones.

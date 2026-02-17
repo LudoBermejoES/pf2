@@ -12,8 +12,6 @@ level: 13
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/humano/" class="feat-trait">Humano</a></div>
 
-**Dote 13** · Humano
-
 A lo largo de tu vida aventurera, tu adaptabilidad te ha permitido obtener numerosas aptitudes utiles.
 
 **Beneficio:** Obtienes una dote general de 7.o nivel o inferior. Debes cumplir los prerrequisitos de la dote.

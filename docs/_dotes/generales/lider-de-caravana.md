@@ -10,8 +10,6 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a></div>
 
-**Dote 11**
-
 **Prerrequisitos:** Acelerar el paso
 
 Sabes cómo sacar el máximo esfuerzo de tus aliados en el camino. Tu grupo puede Apresurarse durante 20 minutos adicionales más allá del tiempo que el miembro que podría Apresurarse más tiempo por sí solo.

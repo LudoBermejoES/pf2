@@ -11,8 +11,6 @@ source: PC2
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">HABILIDAD</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** entrenado en Ocultismo
 
 Tus talismanes protegen contra la magia vil. Durante tus preparaciones diarias, puedes ensamblar una pequeña bolsa con trozos de hierbas, pelo, aceites sagrados y otros ingredientes rituales, que das a un aliado; el aliado no puedes ser tú mismo. La primera vez ese día que el aliado intente una salvación contra un conjuro o aparición, obtiene un bonificador circunstancial +1 a la tirada. Este bonificador aumenta a +2 si eres experto en Ocultismo o +3 si eres legendario.

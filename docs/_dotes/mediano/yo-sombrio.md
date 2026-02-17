@@ -12,8 +12,6 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
-**Dote 17** · Mediano
-
 **Prerrequisitos:** Sigilo a rango legendario
 
 **Frecuencia:** Una vez por hora

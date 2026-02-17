@@ -14,7 +14,7 @@ level: 16
 
 **Prerrequisitos:** instinto de furia
 
-**Detonante:** Un enemigo dentro de tu alcance cuerpo a cuerpo te golpea críticamente con un Golpe cuerpo a cuerpo.
+**Desencadenante:** Un enemigo dentro de tu alcance cuerpo a cuerpo te golpea críticamente con un Golpe cuerpo a cuerpo.
 
 El golpe de tu enemigo alimenta tu ira y provoca tu represalia inmediata. Realiza un Golpe cuerpo a cuerpo contra el enemigo desencadenante.
 

@@ -12,8 +12,6 @@ level: 1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/mediano/" class="feat-trait">Mediano</a></div>
 
-**Dote 1** · Mediano
-
 Creciste montando los peludos ponis y los perros de monta de tu clan.
 
 **Beneficio:** Obtienes el rango entrenado en Naturaleza. Si estás automáticamente entrenado en Naturaleza (por ejemplo debido a tu bagaje o a tu clase), en su lugar obtienes el rango entrenado en una habilidad a tu elección.

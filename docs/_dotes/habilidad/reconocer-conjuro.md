@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a><a href="/apendices/rasgos/secreto/" class="feat-trait">Secreto</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** rango entrenado en Arcanos, Naturaleza, Ocultismo o Religion
 
 **Desencadenante:** Una criatura en tu linea visual lanza un conjuro que tu no has preparado o no esta en tu repertorio, o bien una trampa u objeto similar lanza dicho conjuro. Tienes que ser consciente del lanzamiento.

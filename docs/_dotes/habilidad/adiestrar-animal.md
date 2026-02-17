@@ -11,8 +11,6 @@ source: PC1
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/general/" class="feat-trait">General</a><a href="/apendices/rasgos/habilidad/" class="feat-trait">Habilidad</a><a href="/apendices/rasgos/manipular/" class="feat-trait">Manipular</a><a href="/apendices/rasgos/tiempo-libre/" class="feat-trait">Tiempo libre</a></div>
 
-**Dote 1**
-
 **Prerrequisitos:** rango entrenado en Naturaleza
 
 Inviertes tiempo en enseñar a un animal a llevar a cabo determinada acción. Puedes, o bien seleccionar una acción basica que el animal ya sabe hacer (tipicamente las indicadas en la acción, Comandar a un animal) o enseñar al animal una nueva acción. El DJ es quien determina la CD de cualquier prueba requerida y la cantidad de tiempo necesario para el entrenamiento (en general, por lo menos 1 semana). Suele ser imposible enseñar a un animal un truco que requiere pensamiento critico.

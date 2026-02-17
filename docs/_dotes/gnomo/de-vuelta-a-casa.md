@@ -12,8 +12,6 @@ level: 17
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/poco-comun/" class="feat-trait">Poco común</a><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a></div>
 
-**Dote 17** · Poco común, Gnomo
-
 **Frecuencia:** Dos veces por semana
 
 La conexión que tienes con el Primer Mundo resuena en tu cuerpo, con más fuerza que en la mayoría de los gnomos, lo que te permite cruzar el umbral entre el Universo y el Primer Mundo.

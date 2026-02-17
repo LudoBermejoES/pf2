@@ -12,8 +12,6 @@ level: 9
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/gnomo/" class="feat-trait">Gnomo</a></div>
 
-**Dote 9** · Gnomo
-
 **Prerrequisitos:** Por lo menos un conjuro innato arcano u ocultista obtenido gracias a una herencia de gnomo o dote de ascendencia de gnomo.
 
 Has aprendido unas pocas técnicas mágicas para meterte en problemas y salir de ellos sin ser visto.
