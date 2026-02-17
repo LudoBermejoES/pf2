@@ -17,43 +17,42 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Cháchara rústica](/dotes/mediano/chachara-rustica/) | Eres un adepto en disfrazar mensajes codificados como expresiones rústicas. Utilizando argot, chistes, extranjerismos y cosas parecidas, transmites... | Mediano | — |
-| [Familiaridad con las armas de los medianos](/dotes/mediano/familiaridad-con-las-armas-de-los-medianos/) | Te gustan las armas tradicionales de los medianos, por lo que has aprendido a usarlas de forma más eficaz. | Mediano | — |
-| [Jinete de la pradera](/dotes/mediano/jinete-de-la-pradera/) | Creciste montando los peludos ponis y los perros de monta de tu clan. | Mediano | — |
-| [Mediano sin restricciones](/dotes/mediano/mediano-sin-restricciones/) | Te viste obligado a la servidumbre, o bien por deudas, o bien encadenado en una prisión, pero luego escapaste y te has entrenado para estar seguro ... | Mediano | — |
-| [Mediano vigilante](/dotes/mediano/mediano-vigilante/) | Prestas mucha atención a la gente que te rodea, lo que te permite notar más fácilmente que alguien actúa de forma impropia. | Mediano | — |
-| [Pies seguros](/dotes/mediano/pies-seguros/) | Ya se trate de mantener el equilibrio o de trepar, tus pies se agarran fácilmente al terreno. | Mediano | — |
-| [Saber de los medianos](/dotes/mediano/saber-de-los-medianos/) | Has aprendido obedientemente a mantener el equilibrio y a quedarte en las sombras donde se está seguro, importantes habilidades transmitidas a lo l... | Mediano | — |
-| [Sombras distractoras](/dotes/mediano/sombras-distractoras/) | Has aprendido a permanecer oculto usando a la gente grande como distracción, y así no atraer la atención hacia ti. | Mediano | — |
-| [Suerte del mediano](/dotes/mediano/suerte-del-mediano/) | Tu naturaleza despreocupada hace que parezca que la desventura te evita y, hasta cierto punto, incluso podría ser verdad. | Fortuna, Mediano | — |
-| [Titán de la honda](/dotes/mediano/titan-de-la-honda/) | Has aprendido a utilizar la honda para abatir criaturas enormes. | Mediano | — |
+| [Cháchara rústica](/dotes/mediano/chachara-rustica/) | Envías mensajes codificados de tres palabras; los oyentes necesitan Percepción CD 20 (CD más baja si son medianos o también tienen la dote). | Mediano | — |
+| [Familiaridad con las armas de los medianos](/dotes/mediano/familiaridad-con-las-armas-de-los-medianos/) | Accedes a todas las armas con rasgo mediano y tratas sus marciales como sencillas; los críticos aplican la especialización crítica. | Mediano | — |
+| [Jinete de la pradera](/dotes/mediano/jinete-de-la-pradera/) | Entrenas Naturaleza (o una habilidad alternativa) y ganas +1 circunstancial a Comandar animales tradicionales de mediano. | Mediano | — |
+| [Mediano sin restricciones](/dotes/mediano/mediano-sin-restricciones/) | Éxitos en Huir o salvaciones para impedir inmovilizarte se convierten en críticos; fallos al atraparte también. | Mediano | — |
+| [Mediano vigilante](/dotes/mediano/mediano-vigilante/) | +2 a Percepción con Averiguar intenciones sobre encantados/poseídos y puedes ayudar a retirar el efecto. | Mediano | — |
+| [Pies seguros](/dotes/mediano/pies-seguros/) | Un éxito en Mantener equilibrio o Trepar se convierte en éxito crítico y nunca estás desprevenido para esas acciones. | Mediano | — |
+| [Saber de los medianos](/dotes/mediano/saber-de-los-medianos/) | Entrenas en Naturaleza y Sigilo y recibes la dote general Saber (leshys). | Mediano | — |
+| [Sombras distractoras](/dotes/mediano/sombras-distractoras/) | Usas criaturas más grandes como cobertura para Esconderte o Movimiento furtivo. | Mediano | — |
+| [Suerte del mediano](/dotes/mediano/suerte-del-mediano/) | Una vez al día repites una tirada fallida de habilidad o salvación; te quedas con el nuevo resultado. | Fortuna, Mediano | — |
+| [Titán de la honda](/dotes/mediano/titan-de-la-honda/) | Contra criaturas Grandes o mayores, elevas el dado de daño de una honda en un paso. | Mediano | — |
 
 ## Nivel 5
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Adaptabilidad cultural](/dotes/mediano/adaptabilidad-cultural/) | Durante tus aventuras, has refinado tu capacidad para adaptarte a la cultura de la ascendencia predominante de quienes te rodean. | Mediano | — |
-| [Pisada vivaz](/dotes/mediano/pisada-vivaz/) | Eres experto en evitar las torpes pisadas de las criaturas más grandes. | Mediano | — |
+| [Adaptabilidad cultural](/dotes/mediano/adaptabilidad-cultural/) | Obtienes la dote general Ascendencia adoptada y una dote de ascendencia de 1.º nivel para esa ascendencia. | Mediano | — |
+| [Pisada vivaz](/dotes/mediano/pisada-vivaz/) | Reacción: tras el movimiento de un enemigo Grande o mayor, das un Paso adyacente. | Mediano | — |
 
 ## Nivel 9
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Bailar bajo los pies](/dotes/mediano/bailar-bajo-los-pies/) | En combate, corres bajo las piernas de tus enemigos. | Mediano | Pisada vivaz |
-| [Irreprimible](/dotes/mediano/irreprimible/) | Eres fácilmente capaz de sortear cualquier intento de otros de aprovecharse de tus miedos y de tus emociones. | Mediano | — |
-| [Paso sin obstáculos](/dotes/mediano/paso-sin-obstaculos/) | No permites que otros te retengan. | Mediano | — |
-| [Suerte que guía](/dotes/mediano/suerte-que-guia/) | Tu suerte te guía para buscar el lugar correcto y apunta tus Golpes de forma infalible. | Mediano | Suerte del mediano |
+| [Bailar bajo los pies](/dotes/mediano/bailar-bajo-los-pies/) | Puedes terminar una acción Paso en el espacio de un enemigo Grande o mayor y entrar al espacio del que activó Pisada vivaz. | Mediano | Pisada vivaz |
+| [Irreprimible](/dotes/mediano/irreprimible/) | Los éxitos contra efectos de emoción se vuelven críticos; si tienes agallas, los fallos críticos se bajan a fallos. | Mediano | — |
+| [Paso sin obstáculos](/dotes/mediano/paso-sin-obstaculos/) | Una vez al día lanzas *movimiento sin restricciones* como conjuro innato primigenio. | Mediano | — |
+| [Suerte que guía](/dotes/mediano/suerte-que-guia/) | Puedes usar Suerte del mediano dos veces al día (una vez adicional tras fallar Percepción o ataque). | Mediano | Suerte del mediano |
 
 ## Nivel 13
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Danza derribadora](/dotes/mediano/danza-derribadora/) | — | Mediano | Bailar bajo los pies |
-| [Sombras incesantes](/dotes/mediano/sombras-incesantes/) | Eres excelente en pasar desapercibido, especialmente en una multitud. | Mediano | Sombras distractoras |
+| [Danza derribadora](/dotes/mediano/danza-derribadora/) | Mientras compartes el espacio de una criatura con Bailar bajo los pies, tus golpes obtienen el rasgo derribo contra esa criatura. | Mediano | Bailar bajo los pies |
+| [Sombras incesantes](/dotes/mediano/sombras-incesantes/) | Puedes Esconderte o usar Movimiento furtivo sin cobertura; la cobertura causada por criaturas mejora una categoría. | Mediano | Sombras distractoras |
 
 ## Nivel 17
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Yo sombrío](/dotes/mediano/yo-sombrio/) | Desapareces de la atención de los adversarios y pareces estar en algún otro lugar. | Mediano | Sigilo a rango legendario |
-
+| [Yo sombrío](/dotes/mediano/yo-sombrio/) | Una vez por hora quedas invisible durante 1 minuto o hasta actuar, y proyectas una ubicación falsa a 10 pies. | Mediano | Sigilo a rango legendario |

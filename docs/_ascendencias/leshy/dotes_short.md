@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /ascendencias/leshy/dotes_short/
-title: "Dotes de Ascendencia: Leahy"
+title: "Dotes de Ascendencia: Leshy"
 chapter: Ascendencias
 category: ascendencias
 nav_order: 1
-ancestry: Leahy
+ancestry: Leshy
 source: PC1
 ---
 
@@ -17,43 +17,42 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Alcance prensil](/dotes/leshy/alcance-prensil/) | Puedes extender una marana de enredaderas o de zarcillos para sostener tus brazos y aumentar tu alcance. | — | — |
-| [Inofensivamente bello](/dotes/leshy/inofensivamente-bello/) | Tu tamaño y tu comportamiento facilitan convencer a los demás de que no quieres hacerles dano. | — | — |
-| [Intrepido](/dotes/leshy/intrepido/) | Tu espíritu ha soportado muchos desafios a lo largo de tu dilatada existencia. | — | — |
-| [Saber de los leshys](/dotes/leshy/saber-de-los-leshys/) | Entiendes profundamente las tradiciones culturales de tu gente y sus fortalezas innatas. | — | — |
-| [Sombra de las tierras salvajes](/dotes/leshy/sombra-de-las-tierras-salvajes/) | Es difícil percibir tu paso por las areas salvajes. | — | — |
-| [Supersticion leshy](/dotes/leshy/supersticion-leshy/) | Percibes los espíritus que habitan en los objetos, averiguando cuales dan buena suerte y cuales traen mal faria. Te enfocas en el poder de un objet... | — | — |
-| [Tegumento](/dotes/leshy/tegumento/) | Tu cuerpo produce un suministro casi interminable de duros tegumentos. | — | — |
+| [Alcance prensil](/dotes/leshy/alcance-prensil/) | Alternas un agarre extendido que otorga alcance 10 pies con una penalización de un dado de daño. | Leshy | — |
+| [Inofensivamente bello](/dotes/leshy/inofensivamente-bello/) | Ganas la dote Petición descarada y +1 circunstancial a la iniciativa cuando usas Engaño. | Leshy | — |
+| [Intrepido](/dotes/leshy/intrepido/) | +1 circunstancial a salvaciones contra emociones y los éxitos cuentan como críticos. | Leshy | — |
+| [Saber de los leshys](/dotes/leshy/saber-de-los-leshys/) | Entrenas en Naturaleza y Sigilo y obtienes la dote general Saber (leshys). | Leshy | — |
+| [Sombra de las tierras salvajes](/dotes/leshy/sombra-de-las-tierras-salvajes/) | Siempre estás cubriendo tus rastros en entornos no urbanos. | Leshy | — |
+| [Supersticion leshy](/dotes/leshy/supersticion-leshy/) | +1 circunstancial a una salvación mágica siempre que detectas antes de tirar. | Leshy | — |
+| [Tegumento](/dotes/leshy/tegumento/) | Tienes un ataque a distancia de tegumento 30 pies que ralentiza al crítico. | Leshy | — |
 
 ## Nivel 5
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Hablar con parientes](/dotes/leshy/hablar-con-parientes/) | Tienes una conexión con las criaturas que comparten tu fisiologia. | — | — |
-| [Leshy planeador](/dotes/leshy/leshy-planeador/) | Utilizando tus propias hojas, puedes controlar tu descenso. | — | Herencia leshy de las hojas o dote de habilidad Caída de gato |
-| [Raices anclantes](/dotes/leshy/raices-anclantes/) | Pequenas raíces brotan de tus pies, estabilizándote mientras te mueves. | — | Estas sobre una superficie solida. |
-| [Reversion ritual](/dotes/leshy/reversion-ritual/) | Puedes revertir temporalmente a una forma menos visible sin disminuir tus sentidos. | — | — |
+| [Hablar con parientes](/dotes/leshy/hablar-con-parientes/) | Hablas con plantas/hongos y obtienes +2 circunstancial a Diplomacia con ellos. | Leshy | — |
+| [Leshy planeador](/dotes/leshy/leshy-planeador/) | Planeas 5 pies hacia abajo y hasta 25 pies hacia adelante por asalto y sigues flotando. | Leshy | Herencia leshy de las hojas o Caída de gato |
+| [Raices anclantes](/dotes/leshy/raices-anclantes/) | Obtienes Equilibrio firme y anclar te da +2 (o +4 si eres leshy de las raíces) contra efectos que te mueven. | Leshy | Estás sobre una superficie sólida |
+| [Reversion ritual](/dotes/leshy/reversion-ritual/) | Adoptas temporalmente la apariencia de una planta ordinaria sin perder sensos. | Leshy, Polimorfia, Primigenio | — |
 
 ## Nivel 9
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Corteza y zarcillo](/dotes/leshy/corteza-y-zarcillo/) | Utilizas magia primigenia. | — | — |
-| [Recuerdo afortunado](/dotes/leshy/recuerdo-afortunado/) | Tienes un recuerdo que te otorga suerte. | — | Supersticion leshy |
-| [Rejuvenecimiento solar](/dotes/leshy/rejuvenecimiento-solar/) | > Los leshys cuya nutrición vegetal no se basa en la fotosintesis requieren un ambiente similarmente adecuado. Por ejemplo, los leshys de los hongo... | — | — |
-| [Tegumento espinoso](/dotes/leshy/tegumento-espinoso/) | Cuando tus tegumentos asestan un golpe derribador, explotan en zarcillos cruelmente espinados. | — | Tegumento |
+| [Corteza y zarcillo](/dotes/leshy/corteza-y-zarcillo/) | Lanzas *flora enmarañante* y *resiliencia de roble* como conjuros innatos de 2.º nivel una vez al día. | Leshy | — |
+| [Recuerdo afortunado](/dotes/leshy/recuerdo-afortunado/) | +1 circunstancial a todas las salvaciones contra conjuros mientras mantienes el recuerdo. | Leshy | Supersticion leshy |
+| [Rejuvenecimiento solar](/dotes/leshy/rejuvenecimiento-solar/) | Descansando 10 minutos bajo el sol recuperas Con × mitad de tu nivel en PG. | Leshy | — |
+| [Tegumento espinoso](/dotes/leshy/tegumento-espinoso/) | Un crítico con tu ataque de tegumento añade 1d4 de daño perforante persistente. | Leshy | Tegumento |
 
 ## Nivel 13
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Capa de veneno](/dotes/leshy/capa-de-veneno/) | Segregas una capa de veneno concentrado que dana a cualquiera que se atreve a atacarte. | — | — |
-| [Llamada del hombre verde](/dotes/leshy/llamada-del-hombre-verde/) | Puedes convocar a los espíritus de la Naturaleza cercanos para que potencien tu cuerpo. | — | — |
+| [Capa de veneno](/dotes/leshy/capa-de-veneno/) | Una vez al día cualquier atacante cuerpo a cuerpo que te toca sufre 3d6 de daño por veneno durante 1 minuto. | Leshy, Veneno | — |
+| [Llamada del hombre verde](/dotes/leshy/llamada-del-hombre-verde/) | Una vez al día lanzas *forma de planta* innata de 5.º nivel (6.º a nivel 17). | Leshy | — |
 
 ## Nivel 17
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Florecimiento y ruina](/dotes/leshy/florecimiento-y-ruina/) | Llamas a la esencia vital de tu espíritu para que restablezca la vida a tus aliados y convocas zarcillos para enmarañar y golpear a tus enemigos. | — | — |
-| [Recrecimiento](/dotes/leshy/recrecimiento/) | Tu dominio sobre tu esencia vital te permite a ti o a un aliado recuperarte de heridas graves. | — | — |
-
+| [Florecimiento y ruina](/dotes/leshy/florecimiento-y-ruina/) | Lanzas *campo de vida* y *enredaderas enmarañantes* innatos de 6.º nivel cada día. | Leshy | — |
+| [Recrecimiento](/dotes/leshy/recrecimiento/) | Una vez al día lanzas *regenerar* innato de 7.º nivel. | Leshy | — |
