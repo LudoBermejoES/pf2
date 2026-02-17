@@ -121,6 +121,7 @@ cp tools/actionsCardCreator/assets/icons/* tools/featCardCreator/assets/images/
 
 **Funcionalidades principales:**
 
+{% raw %}
 ```python
 def extract_feat_data(file_path):
     """
@@ -142,6 +143,7 @@ def extract_feat_data(file_path):
     # 5. Extraer descripción (primer párrafo después de encabezado)
     # 6. Limpiar markdown (eliminar [ver](/...), (pág. X), etc.)
 ```
+{% endraw %}
 
 **Patrones a detectar:**
 {% raw %}
