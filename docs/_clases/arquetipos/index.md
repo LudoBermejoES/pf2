@@ -84,3 +84,4 @@ Algunas dotes de arquetipo de otros libros tienen el rasgo habilidad, lo que te 
 ## Selecciones relacionadas
 
 - [Multiclase]({{ '/clases/arquetipos/multiclase/' | relative_url }})
+- [Aquetipos especializados]({{ '/clases/arquetipos/pc2/' | relative_url }})
