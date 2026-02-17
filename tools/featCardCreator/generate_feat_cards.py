@@ -305,9 +305,9 @@ def generate_all_cards(feats_json_path, output_dir, fonts):
         else:
             error_count += 1
 
-    print(f"\n✅ Generadas {success_count} cartas exitosamente")
+    print(f"\nOK Generadas {success_count} cartas exitosamente")
     if error_count > 0:
-        print(f"⚠️  {error_count} errores durante la generación")
+        print(f"ADVERTENCIA  {error_count} errores durante la generación")
 
     return success_count, error_count
 
@@ -329,12 +329,12 @@ if __name__ == '__main__':
     output_dir = base_path / 'generated_cards'
 
     if not feats_json.exists():
-        print(f"❌ Error: No se encontró {feats_json}")
+        print(f"ERROR Error: No se encontró {feats_json}")
         print("Ejecuta parse_feats.py primero para generar el JSON")
         exit(1)
 
     success, errors = generate_all_cards(feats_json, output_dir, fonts)
 
     print("\n" + "=" * 60)
-    print("✨ Generación completada")
+    print(" Generación completada")
     print("=" * 60)

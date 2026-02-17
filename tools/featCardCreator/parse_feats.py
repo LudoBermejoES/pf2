@@ -261,12 +261,12 @@ def parse_all_feats(base_dir='../../docs/_dotes'):
 
     base_path = Path(__file__).parent / base_dir
 
-    print(f"🔍 Buscando archivos de dotes en {base_path}...\n")
+    print(f"Buscando archivos de dotes en {base_path}...\n")
 
     # Buscar todos los archivos .md recursivamente
     feat_files = list(base_path.rglob('*.md'))
 
-    print(f"📋 Encontrados {len(feat_files)} archivos markdown\n")
+    print(f"Encontrados {len(feat_files)} archivos markdown\n")
 
     for i, feat_file in enumerate(feat_files, 1):
         if i % 100 == 0:
@@ -279,10 +279,10 @@ def parse_all_feats(base_dir='../../docs/_dotes'):
         else:
             errors.append(str(feat_file))
 
-    print(f"\n✅ Parseadas {len(feats)} dotes exitosamente")
+    print(f"\nParseadas {len(feats)} dotes exitosamente")
 
     if errors:
-        print(f"⚠️  {len(errors)} archivos con errores")
+        print(f"ADVERTENCIA: {len(errors)} archivos con errores")
 
     return feats, errors
 
@@ -300,7 +300,7 @@ def save_to_json(feats, output_file='data/feats.json'):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"\n💾 Datos guardados en {output_path}")
+    print(f"\nDatos guardados en {output_path}")
 
     # Estadísticas
     categories = {}
@@ -308,7 +308,7 @@ def save_to_json(feats, output_file='data/feats.json'):
         cat = feat.get('category', 'unknown')
         categories[cat] = categories.get(cat, 0) + 1
 
-    print("\n📊 Estadísticas por categoría:")
+    print("\nEstadisticas por categoria:")
     for cat, count in sorted(categories.items(), key=lambda x: -x[1]):
         print(f"  {cat}: {count}")
 
@@ -325,5 +325,5 @@ if __name__ == '__main__':
         save_to_json(feats)
 
     print("\n" + "=" * 60)
-    print("✨ Parseo completado")
+    print("Parseo completado")
     print("=" * 60)

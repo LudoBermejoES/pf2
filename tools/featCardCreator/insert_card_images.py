@@ -84,7 +84,7 @@ def process_all_feats(feats_json_path, cards_dir, feats_base_dir, dry_run=False,
     print(f"🔍 Procesando {len(feats)} dotes...\n")
 
     if dry_run:
-        print("⚠️  MODO DRY-RUN: No se modificarán archivos\n")
+        print("ADVERTENCIA  MODO DRY-RUN: No se modificarán archivos\n")
 
     stats = {
         'success': 0,
@@ -131,10 +131,10 @@ def process_all_feats(feats_json_path, cards_dir, feats_base_dir, dry_run=False,
         stats[result] = stats.get(result, 0) + 1
 
     print(f"\n📊 Resultados:")
-    print(f"  ✅ Insertadas: {stats['success']}")
-    print(f"  ℹ️  Ya existían: {stats['already_exists']}")
-    print(f"  ⚠️  Sin coincidencia de patrón: {stats['no_match']}")
-    print(f"  ❌ Errores: {stats['error']}")
+    print(f"  OK Insertadas: {stats['success']}")
+    print(f"  INFO  Ya existían: {stats['already_exists']}")
+    print(f"  ADVERTENCIA  Sin coincidencia de patrón: {stats['no_match']}")
+    print(f"  ERROR Errores: {stats['error']}")
     print(f"  📁 No encontradas: {stats['not_found']}")
 
     return stats
@@ -158,7 +158,7 @@ def copy_cards_to_assets(cards_dir, assets_dir):
         dest_file = assets_path / card_file.name
         shutil.copy2(card_file, dest_file)
 
-    print(f"✅ Copiadas {len(card_files)} imágenes")
+    print(f"OK Copiadas {len(card_files)} imágenes")
 
 
 if __name__ == '__main__':
@@ -197,11 +197,11 @@ if __name__ == '__main__':
     assets_dir = base_path.parent.parent / 'docs' / 'assets'
 
     if not feats_json.exists():
-        print(f"❌ Error: No se encontró {feats_json}")
+        print(f"ERROR Error: No se encontró {feats_json}")
         exit(1)
 
     if not cards_dir.exists() or not list(cards_dir.glob('*.png')):
-        print(f"❌ Error: No se encontraron cartas en {cards_dir}")
+        print(f"ERROR Error: No se encontraron cartas en {cards_dir}")
         print("Ejecuta generate_feat_cards.py primero")
         exit(1)
 
@@ -219,5 +219,5 @@ if __name__ == '__main__':
     )
 
     print("\n" + "=" * 60)
-    print("✨ Inserción completada")
+    print(" Inserción completada")
     print("=" * 60)
