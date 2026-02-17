@@ -8,7 +8,7 @@ herencia_versatil: Dhampir
 level: 9
 ---
 
-### Colmillos desangradores · Dote 9
+## Colmillos desangradores
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 

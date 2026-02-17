@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 5
 ---
 
-#### Sangre bendita
+## Sangre bendita
+
 **Dote 5** · Nefilim
 
 Tu sangre recién derramada está santificada, con efectos similares a los del agua bendita.

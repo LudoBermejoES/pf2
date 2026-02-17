@@ -8,7 +8,7 @@ herencia_versatil: Sangre de Dragón
 level: 1
 ---
 
-### Aspecto dracónico · Dote 1
+## Aspecto dracónico
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 

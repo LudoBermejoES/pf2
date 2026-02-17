@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 9
 ---
 
-#### Magia infernal
+## Magia infernal
+
 **Dote 9** · Nefilim
 
 **Prerrequisitos:** Prole infernal, Engendro macabro o Nacido del foso

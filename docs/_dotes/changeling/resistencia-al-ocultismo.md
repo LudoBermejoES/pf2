@@ -8,7 +8,8 @@ herencia_versatil: Changeling
 level: 9
 ---
 
-#### Resistencia al ocultismo
+## Resistencia al ocultismo
+
 **Dote 9** · Changeling
 
 **Prerrequisitos:** Rango experto en Ocultismo

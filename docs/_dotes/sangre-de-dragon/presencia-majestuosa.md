@@ -8,7 +8,7 @@ herencia_versatil: Sangre de Dragón
 level: 13
 ---
 
-### Presencia majestuosa · Dote 13 · {% include accion.html tipo="1" %}
+## Presencia majestuosa
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/apendices/rasgos/emocion/" class="feat-trait">Emoción</a><a href="/apendices/rasgos/miedo/" class="feat-trait">Miedo</a><a href="/apendices/rasgos/mental/" class="feat-trait">Mental</a><a href="/apendices/rasgos/visual/" class="feat-trait">Visual</a></div>
 

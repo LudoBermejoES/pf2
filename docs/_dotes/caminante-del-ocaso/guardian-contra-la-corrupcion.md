@@ -8,7 +8,7 @@ herencia_versatil: Caminante del Ocaso
 level: 5
 ---
 
-### Guardián contra la corrupción · Dote 5
+## Guardián contra la corrupción
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 

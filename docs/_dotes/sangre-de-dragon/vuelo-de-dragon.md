@@ -8,7 +8,7 @@ herencia_versatil: Sangre de Dragón
 level: 5
 ---
 
-### Vuelo de dragón · Dote 5 · {% include accion.html tipo="1" %}
+## Vuelo de dragón
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a></div>
 

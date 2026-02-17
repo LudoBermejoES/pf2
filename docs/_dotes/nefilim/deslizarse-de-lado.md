@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 13
 ---
 
-#### Deslizarse de lado
+## Deslizarse de lado
+
 **Dote 13** · Nefilim
 
 **Prerrequisitos:** Prole infernal, Engendro macabro o Nacido del foso u otra dote de linaje asociada con infernales o con el Maelstrom.

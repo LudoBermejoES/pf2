@@ -8,7 +8,8 @@ herencia_versatil: Ascendencia Mixta
 level: 5
 ---
 
-#### Inspirar imitación
+## Inspirar imitación
+
 **Dote 5** · Aiuvarin
 
 Tus acciones inspiran a tus aliados a grandes logros.
@@ -28,3 +29,5 @@ Algunos humanoides intolerantes ven a los orcos como más parecidos a los monstr
 Algunos humanos suponen que los drogaras son menos inteligentes o que no están civilizados, y estos raramente encuentran aceptación en las sociedades con mucha gente de ese tipo. Para un clan orco, un dromaar se considera a menudo un añadido valioso, compensando lo que podría faltarle en fuerza física con los dones obtenidos de su otra línea ancestral.
 
 Un dromaar con un progenitor humano puede vivir típicamente unos **setenta años**.
+
+---

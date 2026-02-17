@@ -8,7 +8,7 @@ herencia_versatil: Sangre de Dragón
 level: 1
 ---
 
-### Aliento de dragón · Dote 1 · {% include accion.html tipo="2" %}
+## Aliento de dragón
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/sangre-de-dragon/" class="feat-trait">Sangre de dragón</a><a href="/apendices/rasgos/magico/" class="feat-trait">Mágico</a></div>
 

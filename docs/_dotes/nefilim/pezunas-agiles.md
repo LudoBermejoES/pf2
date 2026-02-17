@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 1
 ---
 
-#### Pezuñas ágiles
+## Pezuñas ágiles
+
 **Dote 1** · Nefilim
 
 Dispones de pezuñas, alas en los tobillos o cualquier otro rasgo que acelera tu movimiento.

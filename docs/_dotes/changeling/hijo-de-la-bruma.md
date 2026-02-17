@@ -8,7 +8,8 @@ herencia_versatil: Changeling
 level: 5
 ---
 
-#### Hijo de la bruma
+## Hijo de la bruma
+
 **Dote 5** · Changeling
 
 Te camuflas con una sutileza antinatural.

@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 5
 ---
 
-#### Resistencia de nefilim
+## Resistencia de nefilim
+
 **Dote 5** · Nefilim
 
 Resistes a la energía como tus predecesores extraplanarios.

@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 13
 ---
 
-#### Misericordia celestial
+## Misericordia celestial
+
 **Dote 13** · Nefilim
 
 **Prerrequisitos:** Angélico, Legislador, Tocado por las musas o cualquier dote de linaje asociada con los celestiales.

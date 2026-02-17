@@ -161,6 +161,19 @@ heritageFiles.forEach(heritage => {
     const featSlug = slugify(feat.name);
     const featPath = path.join(heritageOutputDir, `${featSlug}.md`);
 
+    // Clean the feat content - remove the first line (the header)
+    let contentLines = feat.content.split('\n');
+    // Remove first line if it starts with ### or ####
+    if (contentLines[0] && (contentLines[0].startsWith('###') || contentLines[0].startsWith('####'))) {
+      contentLines.shift();
+    }
+    let cleanedContent = contentLines.join('\n').trim();
+
+    // Remove trailing --- if it exists
+    if (cleanedContent.endsWith('---')) {
+      cleanedContent = cleanedContent.slice(0, -3).trim();
+    }
+
     // Create frontmatter
     const frontmatter = `---
 layout: page
@@ -174,8 +187,10 @@ level: ${feat.level}
 
 `;
 
-    const featContent = frontmatter + feat.content + '\n';
-    fs.writeFileSync(featPath, featContent, 'utf-8');
+    // Build the full content with proper formatting
+    const fullContent = frontmatter + `## ${feat.name}\n\n` + cleanedContent + '\n\n---\n';
+
+    fs.writeFileSync(featPath, fullContent, 'utf-8');
     createdCount++;
   });
 

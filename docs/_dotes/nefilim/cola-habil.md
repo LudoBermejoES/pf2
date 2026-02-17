@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 5
 ---
 
-#### Cola hábil
+## Cola hábil
+
 **Dote 5** · Nefilim
 
 Siempre has tenido cola, pero con la práctica has aprendido a utilizarla para algo más que para indicar tu estado de ánimo.

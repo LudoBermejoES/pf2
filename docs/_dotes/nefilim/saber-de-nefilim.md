@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 1
 ---
 
-#### Saber de nefilim
+## Saber de nefilim
+
 **Dote 1** · Nefilim
 
 Conoces los secretos del Multiverso.

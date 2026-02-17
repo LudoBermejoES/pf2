@@ -8,7 +8,8 @@ herencia_versatil: Ascendencia Mixta
 level: 1
 ---
 
-#### Gloria merecida
+## Gloria merecida
+
 **Dote 1** · Aiuvarin
 
 Los elfos a menudo tienden a subestimar a los aiuvarins, y tienes experiencia en relatar historias de tus logros para ganarte su respeto.

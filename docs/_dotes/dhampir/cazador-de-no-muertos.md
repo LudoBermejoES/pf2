@@ -8,7 +8,7 @@ herencia_versatil: Dhampir
 level: 5
 ---
 
-### Cazador de no muertos · Dote 5
+## Cazador de no muertos
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 

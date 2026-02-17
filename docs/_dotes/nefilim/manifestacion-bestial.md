@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 1
 ---
 
-#### Manifestación bestial
+## Manifestación bestial
+
 **Dote 1** · Nefilim
 
 Parte de tu cuerpo tiene una influencia animalística debida a una criatura planaria. Tus manos acaban en garras, tienes pezuñas en lugar de pies, afilados dientes llenan tu boca o una cola se extiende de tu espina dorsal.

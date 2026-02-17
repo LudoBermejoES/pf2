@@ -8,7 +8,7 @@ herencia_versatil: Dhampir
 level: 9
 ---
 
-### Magia nocturna · Dote 9
+## Magia nocturna
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 

@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 9
 ---
 
-#### Alas divinas {% include accion.html tipo="2" %}
+## Alas divinas
+
 **Dote 9** · Divino, Morfismo, Nefilim
 
 **Frecuencia:** Una vez al día

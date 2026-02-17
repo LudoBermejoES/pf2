@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 1
 ---
 
-#### Ojos de nefilim
+## Ojos de nefilim
+
 **Dote 1** · Nefilim
 
 **Prerrequisitos:** Visión en la penumbra

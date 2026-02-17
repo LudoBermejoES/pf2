@@ -8,7 +8,7 @@ herencia_versatil: Caminante del Ocaso
 level: 1
 ---
 
-### Chance de la muerte · Dote 1 · {% include accion.html tipo="libre" %}
+## Chance de la muerte
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a><a href="/apendices/rasgos/fortuna/" class="feat-trait">Fortuna</a></div>
 

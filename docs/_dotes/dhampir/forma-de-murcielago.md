@@ -8,7 +8,7 @@ herencia_versatil: Dhampir
 level: 13
 ---
 
-### Forma de murciélago · Dote 13 · {% include accion.html tipo="1" %}
+## Forma de murciélago
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/concentrar/" class="feat-trait">Concentrar</a><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/polimorfia/" class="feat-trait">Polimorfía</a></div>
 

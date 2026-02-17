@@ -8,7 +8,7 @@ herencia_versatil: Dhampir
 level: 1
 ---
 
-### Ojos de la noche · Dote 1
+## Ojos de la noche
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 

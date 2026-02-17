@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 9
 ---
 
-#### Magia celestial
+## Magia celestial
+
 **Dote 9** · Nefilim
 
 **Prerrequisitos:** Angélico, Legislador, Tocado por las musas o cualquier dote de linaje asociada con los celestiales.

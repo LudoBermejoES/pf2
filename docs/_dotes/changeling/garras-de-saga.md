@@ -8,7 +8,8 @@ herencia_versatil: Changeling
 level: 1
 ---
 
-#### Garras de saga
+## Garras de saga
+
 **Dote 1** · Changeling
 
 Cuando alcanzaste la mayoría de edad, las uñas empezaron a crecerte largas y afiladas.

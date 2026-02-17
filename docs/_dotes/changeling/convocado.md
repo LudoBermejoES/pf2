@@ -8,7 +8,8 @@ herencia_versatil: Changeling
 level: 5
 ---
 
-#### Convocado
+## Convocado
+
 **Dote 5** · Changeling
 
 Has oído la Llamada, y al resistirte constantemente a ella has alzado un baluarte contra los efectos que tienen tu mente como objetivo.

@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 13
 ---
 
-#### Convocar a un pariente nefilim
+## Convocar a un pariente nefilim
+
 **Dote 13** · Nefilim
 
 **Prerrequisitos:** Cualquier dote de linaje de nefilim

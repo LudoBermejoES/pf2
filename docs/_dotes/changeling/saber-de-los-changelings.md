@@ -8,7 +8,8 @@ herencia_versatil: Changeling
 level: 1
 ---
 
-#### Saber de los changelings
+## Saber de los changelings
+
 **Dote 1** · Changeling
 
 Muy consciente de tu verdadera naturaleza, has estudiado a las sagas y sus poderes.

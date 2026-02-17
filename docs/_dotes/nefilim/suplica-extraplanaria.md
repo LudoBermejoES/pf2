@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 5
 ---
 
-#### Súplica extraplanaria
+## Súplica extraplanaria
+
 **Dote 5** · Nefilim
 
 Llamas al poder divino para que bendiga a tus aliados o maldiga a tus enemigos.

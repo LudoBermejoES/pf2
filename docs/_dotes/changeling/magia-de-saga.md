@@ -8,7 +8,8 @@ herencia_versatil: Changeling
 level: 13
 ---
 
-#### Magia de saga
+## Magia de saga
+
 **Dote 13** · Changeling
 
 Gracias a tu herencia, puedes replicar parte de la magia de una saga.
@@ -22,3 +23,5 @@ Gracias a tu herencia, puedes replicar parte de la magia de una saga.
 - **Saga de hierro:** arruinaconjuros, ligadura terrestre
 - **Saga marina:** caminar sobre las aguas, forma humanoide, maldición del marinero
 - **Saga dulce:** hechizar, maldición del paria, palabras almibaradas
+
+---

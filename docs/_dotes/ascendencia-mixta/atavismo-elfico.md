@@ -8,7 +8,8 @@ herencia_versatil: Ascendencia Mixta
 level: 1
 ---
 
-#### Atavismo élfico
+## Atavismo élfico
+
 **Dote 1** · Aiuvarin
 
 Tu sangre elfa es particularmente fuerte, concediéndote rasgos mucho más élficos que los de un aiuvarin típico. También podrías haber sido criado entre elfos, sumergido en la herencia de tus antepasados elfos.

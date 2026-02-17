@@ -8,7 +8,7 @@ herencia_versatil: Dhampir
 level: 1
 ---
 
-### Saber sobre vampiros · Dote 1
+## Saber sobre vampiros
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 

@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 17
 ---
 
-#### Alas eternas
+## Alas eternas
+
 **Dote 17** · Nefilim
 
 **Prerrequisitos:** Alas divinas

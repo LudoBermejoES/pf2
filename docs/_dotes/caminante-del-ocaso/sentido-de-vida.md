@@ -8,7 +8,7 @@ herencia_versatil: Caminante del Ocaso
 level: 5
 ---
 
-### Sentido de vida · Dote 5
+## Sentido de vida
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/divino/" class="feat-trait">Divino</a><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 

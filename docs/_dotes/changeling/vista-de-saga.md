@@ -8,7 +8,8 @@ herencia_versatil: Changeling
 level: 1
 ---
 
-#### Vista de saga
+## Vista de saga
+
 **Dote 1** · Changeling
 
 Has nutrido las aptitudes sobrenaturales concedidas por tu madre saga, particularmente la vista.

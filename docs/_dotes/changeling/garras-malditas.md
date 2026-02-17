@@ -8,7 +8,8 @@ herencia_versatil: Changeling
 level: 9
 ---
 
-#### Garras malditas
+## Garras malditas
+
 **Dote 9** · Changeling
 
 **Prerrequisito:** Ataque sin armas de garra

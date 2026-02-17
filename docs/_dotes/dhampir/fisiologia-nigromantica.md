@@ -8,7 +8,7 @@ herencia_versatil: Dhampir
 level: 5
 ---
 
-### Fisiología nigromántica · Dote 5
+## Fisiología nigromántica
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 

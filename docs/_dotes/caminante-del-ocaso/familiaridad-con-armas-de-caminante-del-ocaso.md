@@ -8,7 +8,7 @@ herencia_versatil: Caminante del Ocaso
 level: 1
 ---
 
-### Familiaridad con armas de caminante del ocaso · Dote 1
+## Familiaridad con armas de caminante del ocaso
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 

@@ -8,7 +8,7 @@ herencia_versatil: Dhampir
 level: 5
 ---
 
-### Fascinación cautivadora · Dote 5
+## Fascinación cautivadora
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/dhampir/" class="feat-trait">Dhampir</a></div>
 

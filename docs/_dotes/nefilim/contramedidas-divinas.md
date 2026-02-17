@@ -8,7 +8,8 @@ herencia_versatil: Nefilim
 level: 9
 ---
 
-#### Contramedidas divinas
+## Contramedidas divinas
+
 **Dote 9** · Nefilim
 
 Has estudiado tu herencia extraplanaria con el intento de defenderte mejor, ya sea contra criaturas alineadas con tu linaje extraplanario u opuestas al mismo.

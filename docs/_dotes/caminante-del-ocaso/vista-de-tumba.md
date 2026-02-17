@@ -8,7 +8,7 @@ herencia_versatil: Caminante del Ocaso
 level: 1
 ---
 
-### Vista de tumba · Dote 1
+## Vista de tumba
 
 <div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/caminante-del-ocaso/" class="feat-trait">Caminante del ocaso</a></div>
 
