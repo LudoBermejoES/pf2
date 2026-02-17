@@ -15,13 +15,12 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Atavismo élfico](/dotes/ascendencia-mixta/atavismo-elfico/) | Tu sangre elfa es particularmente fuerte, concediéndote r... | Aiuvarin | — |
-| [Gloria merecida](/dotes/ascendencia-mixta/gloria-merecida/) | Los elfos a menudo tienden a subestimar a los aiuvarins, ... | Aiuvarin | — |
+| [Atavismo élfico](/dotes/ascendencia-mixta/atavismo-elfico/) | Ganas los beneficios de una herencia élfica de tu rama (con límites del DJ). | Aiuvarin | — |
+| [Gloria merecida](/dotes/ascendencia-mixta/gloria-merecida/) | Entrenas Interpretación y obtienes la dote Interpretación impresionante; los fallos críticos ante elfos se convierten en fallos. | Aiuvarin | — |
 
 ## Nivel 5
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Encanto sobrenatural](/dotes/ascendencia-mixta/encanto-sobrenatural/) | La magia élfica de tu sangre se manifiesta como una fuerz... | Aiuvarin | — |
-| [Inspirar imitación](/dotes/ascendencia-mixta/inspirar-imitacion/) | Tus acciones inspiran a tus aliados a grandes logros. | Aiuvarin | — |
-
+| [Encanto sobrenatural](/dotes/ascendencia-mixta/encanto-sobrenatural/) | Lanzas *hechizar* arcano 1.º nivel una vez al día. | Aiuvarin | — |
+| [Inspirar imitación](/dotes/ascendencia-mixta/inspirar-imitacion/) | Un crítico en una prueba de habilidad te permite ayudar sin preparar la acción cuando usas la misma habilidad. | Aiuvarin | — |
