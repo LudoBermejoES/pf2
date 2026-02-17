@@ -17,23 +17,22 @@ En 1.er nivel, obtienes una dote de ascendencia, y obtienes una dote de ascenden
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Magia ósea](/dotes/hombres-lagarto/magia-osea/) | Tu conexión con tus ancestros iruxi se manifiesta como un sencillo conjuro primitivo que lanzas usando un fragmento de los huesos de un antepasado.... | — | — |
-| [Armas iruxi](/dotes/hombres-lagarto/armas-iruxi/) | Tus armas son aquellas con las que naciste. Elige una de las siguientes opciones: | — | — |
-| [Tradición iruxi](/dotes/hombres-lagarto/tradicion-iruxi/) | Has escuchado con atención los relatos transmitidos en tu comunidad. Obtienes el rango de competencia entrenado en Supervivencia y en Naturaleza u ... | — | — |
-| [Corredor de pantanos](/dotes/hombres-lagarto/corredor-de-pantanos/) | Cuando usas la acción Dar un paso, puedes ignorar el terreno difícil causado por inundaciones, pantanos o arenas movedizas. Además, cuando usas la ... | — | Tienes una Velocidad de nado. |
-| [Cría partenogénica](/dotes/hombres-lagarto/cria-partenogenica/) | Eclosionaste de un huevo no fertilizado durante tiempos difíciles para tu pueblo y eres una copia biológica de tu madre. Obtienes un bonificador +1... | — | — |
-| [Hablante de reptiles](/dotes/hombres-lagarto/hablante-de-reptiles/) | Oyes los sonidos de los reptiles como si fueran lenguaje. Puedes hacer preguntas, recibir respuestas y usar la habilidad Diplomacia con animales qu... | — | — |
-| [Colmillos envenenados](/dotes/hombres-lagarto/colmillos-envenenados/) | Envenenas tus colmillos. Si el próximo Golpe con colmillos que realices antes del final de tu siguiente turno impacta y causa daño, el Golpe inflig... | — | Armas iruxi (Colmillos) |
-| [Cola flexible](/dotes/hombres-lagarto/cola-flexible/) | Puedes realizar acciones de Interactuar simples con tu cola, como abrir una puerta sin cerrar. Tu cola no puede realizar acciones que requieran ded... | — | — |
-| [Agarre de gecko](/dotes/hombres-lagarto/agarre-de-gecko/) | Te aferras a las paredes con un agarre sobrenatural. Obtienes la dote Escalador de combate como dote adicional y, si obtienes un éxito en una prueb... | — | — |
-| [Soltar la cola](/dotes/hombres-lagarto/soltar-la-cola/) | Puedes desprender una parte de tu cola para escapar. Dejas de estar agarrado y luego Avanzas sin provocar reacciones del ser que te agarró. Tu cola... | — | Armas iruxi (Cola) |
-| [Nadador veloz](/dotes/hombres-lagarto/nadador-veloz/) | Obtienes una Velocidad de nado de 15 pies. | — | — |
-| [Colgarse](/dotes/hombres-lagarto/colgarse/) | Puedes colgarte por la cola de cualquier punto de anclaje adecuado, como una rama, balcón o saliente rocoso (a discreción del DJ), normalmente mien... | — | — |
-| [Afilar garras](/dotes/hombres-lagarto/afilar-garras/) | Limas o muerdes un filo particularmente cruel en tus garras. El próximo Golpe con garras con el que impactes e inflijas daño causa 1d6 de daño por ... | — | Armas iruxi (Garras) |
-| [Ventaja del terreno](/dotes/hombres-lagarto/ventaja-del-terreno/) | Las criaturas que no sean iruxi en terreno difícil están desprevenidas frente a ti. Si tienes Velocidad de nado, las criaturas que no sean iruxi qu... | — | — |
-| [Investidura ósea](/dotes/hombres-lagarto/investidura-osea/) | Te recubres con huesos espirituales de dinosaurio para convertirte en un dinosaurio Enorme. Puedes lanzar *forma de dinosaurio* sobre ti como conju... | — | Magia ósea |
-| [Golpe espiritual iruxi](/dotes/hombres-lagarto/golpe-espiritual-iruxi/) | Tus ataques desarmados iruxi canalizan la energía espiritual de tus ancestros. Cualquier ataque desarmado que adquieras de la ascendencia iruxi, he... | — | — |
-| [Desenfreno primordial](/dotes/hombres-lagarto/desenfreno-primordial/) | Obtienes *movimiento sin trabas* y *resiliencia de montaña* como conjuros innatos primitivos de 4.º nivel que puedes lanzar una vez al día. | — | — |
-| [Jinete fósil](/dotes/hombres-lagarto/jinete-fosil/) | Usando los huesos de tus ancestros, manifiestas sus espíritus a tu alrededor en forma fosilizada. Puedes lanzar *máscara del terror* sobre ti como ... | — | Magia ósea |
-| [Transformación de vástago](/dotes/hombres-lagarto/transformacion-de-vastago/) | Hibernas durante veinticuatro horas y realizas un ritual dedicado a tus ancestros, sometiéndote a una metamorfosis única. Ganas permanentemente los... | — | — |
-
+| [Magia ósea](/dotes/hombres-lagarto/magia-osea/) | Lancas un truco primitivo u oculto con un fragmento óseo como conjuro innato a voluntad, escalando a la mitad de tu nivel. | — | — |
+| [Armas iruxi](/dotes/hombres-lagarto/armas-iruxi/) | Elige garras, colmillos o cola y tus ataques naturales mejoran (más daño y rasgos) y obtienes especialización crítica en el nivel 5. | — | — |
+| [Tradición iruxi](/dotes/hombres-lagarto/tradicion-iruxi/) | Entrenas en Supervivencia y en Naturaleza u Ocultismo, y obtienes la dote Conocimientos adicionales de astrología o iruxi. | — | — |
+| [Corredor de pantanos](/dotes/hombres-lagarto/corredor-de-pantanos/) | Das un paso ignorando terreno difícil acuático y tus Acrobacias para mantenerte en pantanos cuentan como éxito crítico. | — | Tienes una Velocidad de nado. |
+| [Cría partenogénica](/dotes/hombres-lagarto/cria-partenogenica/) | +1 circunstancial a salvaciones contra enfermedades, éxitos suben a críticos y sufrir sed/hambre mucho más lentamente. | — | — |
+| [Hablante de reptiles](/dotes/hombres-lagarto/hablante-de-reptiles/) | Tratas los sonidos reptilianos como lenguaje y usas Diplomacia con ellos. | — | — |
+| [Colmillos envenenados](/dotes/hombres-lagarto/colmillos-envenenados/) | Una vez por hora el próximo ataque de colmillos añade 1d6 de veneno persistente. | — | Armas iruxi (Colmillos) |
+| [Cola flexible](/dotes/hombres-lagarto/cola-flexible/) | Tu cola puede hacer interacciones simples (abrir puertas) sin que cuente como destreza fina. | — | — |
+| [Agarre de gecko](/dotes/hombres-lagarto/agarre-de-gecko/) | Obtienes Escalador de combate y tus éxitos de Trepar se vuelven críticos (o velocidad 15 si tienes herencia acantilado). | — | — |
+| [Soltar la cola](/dotes/hombres-lagarto/soltar-la-cola/) | Libera el agarre soltando la cola, avanzas sin reacciones, pierdes el ataque de cola 1 día y sufres -2 a equilibrio. | — | Armas iruxi (Cola) |
+| [Nadador veloz](/dotes/hombres-lagarto/nadador-veloz/) | Ganas una velocidad de nado de 15 pies (25 si tienes herencia de humedales). | — | — |
+| [Colgarse](/dotes/hombres-lagarto/colgarse/) | Puedes colgarte de la cola y seguir usando manos para atacar o disparar. | — | — |
+| [Afilar garras](/dotes/hombres-lagarto/afilar-garras/) | Una vez por hora añades 1d6 de hemorragia al próximo golpe de garras. | — | Armas iruxi (Garras) |
+| [Ventaja del terreno](/dotes/hombres-lagarto/ventaja-del-terreno/) | En terreno difícil o agua sin nado, las criaturas sin iruxi están desprevenidas frente a ti. | — | — |
+| [Investidura ósea](/dotes/hombres-lagarto/investidura-osea/) | Con Magia ósea lanzas *forma de dinosaurio* 5.º nivel una vez al día. | — | Magia ósea |
+| [Golpe espiritual iruxi](/dotes/hombres-lagarto/golpe-espiritual-iruxi/) | Tus ataques desarmados iruxi ganan la runa toque fantasmal. | — | — |
+| [Desenfreno primordial](/dotes/hombres-lagarto/desenfreno-primordial/) | Obtienes los conjuros innatos Movimiento sin trabas y Resiliencia de montaña una vez al día. | — | — |
+| [Jinete fósil](/dotes/hombres-lagarto/jinete-fosil/) | Con Magia ósea lanzas *máscara del terror* 1/d, apareciendo como ancestro esquelético. | — | Magia ósea |
+| [Transformación de vástago](/dotes/hombres-lagarto/transformacion-de-vastago/) | Tras un ritual de 24 h ganas agrandar permanente, +nivel PG y tu equipo se ajusta al nuevo tamaño. | — | — |
