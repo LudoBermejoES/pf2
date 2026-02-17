@@ -17,132 +17,132 @@ En cada nivel en el que obtienes una dote de monje, puedes seleccionar una de la
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Armamento Monastico](/dotes/monje/armamento-monastico/) | Has entrenado con el armamento de tu monasterio o escuela... | Monje | — |
-| [Hechizos de Qi](/dotes/monje/hechizos-de-qi/) | Has cultivado tu qi para producir efectos magicos. Obtien... | Monje | — |
-| [Postura de Arquero Monastico](/dotes/monje/postura-de-arquero-monastico/) | Entras en una postura especializada para un arte marcial ... | Monje, Postura | Estas sin armadura y empunando un arco largo, un arco corto o un arco con el rasgo monje. |
-| [Postura de la Grulla](/dotes/monje/postura-de-la-grulla/) | Tus brazos revolotean como las alas de una grulla. Obtien... | Monje, Postura | Estas sin armadura. |
-| [Postura de la Montana](/dotes/monje/postura-de-la-montana/) | Entras en la postura de una montana inamovible--una tecni... | Monje, Postura | Estas sin armadura y tocando el suelo. |
-| [Postura del Dragon](/dotes/monje/postura-del-dragon/) | Entras en la postura de un dragon y realizas poderosos go... | Monje, Postura | Estas sin armadura. |
-| [Postura del Lobo](/dotes/monje/postura-del-lobo/) | Entras en la postura de un lobo, agachado con las manos s... | Monje, Postura | Estas sin armadura. |
-| [Postura del Tigre](/dotes/monje/postura-del-tigre/) | Entras en la postura de un tigre y puedes hacer ataques d... | Monje, Postura | Estas sin armadura. |
-| [Postura Tambaleante](/dotes/monje/postura-tambaleante/) | Entras en una postura aparentemente desenfocada que imita... | Monje, Postura | entrenado en Engano |
+| [Armamento Monastico](/dotes/monje/armamento-monastico/) | Dominas las armas de tu escuela para usarlas con entrenamiento de monje. | Monje | — |
+| [Hechizos de Qi](/dotes/monje/hechizos-de-qi/) | Accedes a hechizos básicos de qi como conmoción interna. | Monje | — |
+| [Postura de Arquero Monastico](/dotes/monje/postura-de-arquero-monastico/) | Adoptas una postura que mejora tus disparos con arco. | Monje, Postura | Estas sin armadura y empunando un arco largo, un arco corto o un arco con el rasgo monje. |
+| [Postura de la Grulla](/dotes/monje/postura-de-la-grulla/) | Imitas una grulla para lograr +1 circunstancial a la CA. | Monje, Postura | Estas sin armadura. |
+| [Postura de la Montana](/dotes/monje/postura-de-la-montana/) | Te vuelves inamovible como montaña, bloqueando y golpeando con peso. | Monje, Postura | Estas sin armadura y tocando el suelo. |
+| [Postura del Dragon](/dotes/monje/postura-del-dragon/) | Golpeas con fuerza de dragón y conste cola para remates potentes. | Monje, Postura | Estas sin armadura. |
+| [Postura del Lobo](/dotes/monje/postura-del-lobo/) | Arremetes desde una posición baja para lanzar mandíbulas feroces. | Monje, Postura | Estas sin armadura. |
+| [Postura del Tigre](/dotes/monje/postura-del-tigre/) | Usas ataques de garra del tigre en postura agresiva. | Monje, Postura | Estas sin armadura. |
+| [Postura Tambaleante](/dotes/monje/postura-tambaleante/) | Finges embriaguez para distraer y crear aperturas falsas. | Monje, Postura | entrenado en Engano |
 
 ## Nivel 2
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Golpes Aturdidores](/dotes/monje/golpes-aturdidores/) | El poder concentrado de tu rafaga amenaza con abrumar a t... | Monje | Rafaga de golpes |
-| [Hoja Danzante](/dotes/monje/hoja-danzante/) | Eres tan ligero como una hoja en la brisa. Cuando Saltas ... | Monje | — |
-| [Postura de Estrellas Fugaces](/dotes/monje/postura-de-estrellas-fugaces/) | Entras en una postura que te permite lanzar shuriken con ... | Monje, Postura | Armamento Monastico |
-| [Presa Aplastante](/dotes/monje/presa-aplastante/) | Como una poderosa constrictora, aplastas a los objetivos ... | Monje | — |
-| [Puno Elemental](/dotes/monje/puno-elemental/) | Puedes colorear tu qi con brillante energia elemental. Cu... | Monje | conmocion interna |
+| [Golpes Aturdidores](/dotes/monje/golpes-aturdidores/) | Tus ráfagas pueden aturdir si aciertas dos golpes seguidos. | Monje | Rafaga de golpes |
+| [Hoja Danzante](/dotes/monje/hoja-danzante/) | Tu salto adquiere alcance extra y fluidez para atacar con gracia. | Monje | — |
+| [Postura de Estrellas Fugaces](/dotes/monje/postura-de-estrellas-fugaces/) | Desata una postura para lanzar shurikens con velocidad. | Monje, Postura | Armamento Monastico |
+| [Presa Aplastante](/dotes/monje/presa-aplastante/) | Tu agarre inflige daño extra sobre la criatura capturada. | Monje | — |
+| [Puno Elemental](/dotes/monje/puno-elemental/) | Imbuyes tu qi con energía elemental para efectos adicionales. | Monje | conmocion interna |
 
 ## Nivel 4
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Armonizar el Ser](/dotes/monje/armonizar-el-ser/) | Puedes restaurar tu salud aprovechando tu qi. Obtienes el... | Monje | Hechizos de Qi |
-| [Desviar Proyectil](/dotes/monje/desviar-proyectil/) | Obtienes un bonificador de circunstancia +4 a la CA contr... | Monje | Eres consciente del ataque, no estas desprevenido contra el y tienes una mano libre. |
-| [Movimiento Protegido](/dotes/monje/movimiento-protegido/) | Tu guardia esta en alto, incluso mientras te mueves. Obti... | Monje | — |
-| [Patada Voladora](/dotes/monje/patada-voladora/) | Te lanzas hacia un enemigo. Haz un Salto o intenta un Sal... | Monje | — |
-| [Postura de la Cobra](/dotes/monje/postura-de-la-cobra/) | Entras en una postura estrechamente enrollada, con tus ma... | Monje, Postura | — |
-| [Quedarse Quieto](/dotes/monje/quedarse-quieto/) | Golpeas cuando tu enemigo intenta huir. Haz un Golpe cuer... | Monje | — |
-| [Rafaga de Maniobras](/dotes/monje/rafaga-de-maniobras/) | Tu rafaga es una combinacion de maniobras. Puedes reempla... | Monje | experto en Atletismo |
+| [Armonizar el Ser](/dotes/monje/armonizar-el-ser/) | Convierte tu qi en salud mediante el hechizo armonizar el ser. | Monje | Hechizos de Qi |
+| [Desviar Proyectil](/dotes/monje/desviar-proyectil/) | Ganas +4 circunstancial y desviar el proyectil que falla. | Monje | Eres consciente del ataque, no estas desprevenido contra el y tienes una mano libre. |
+| [Movimiento Protegido](/dotes/monje/movimiento-protegido/) | Mantienes +4 circunstancial en CA mientras te desplazas. | Monje | — |
+| [Patada Voladora](/dotes/monje/patada-voladora/) | Rematas un salto con una patada devastadora. | Monje | — |
+| [Postura de la Cobra](/dotes/monje/postura-de-la-cobra/) | Adoptas una postura enrollada para ataques venenosos precisos. | Monje, Postura | — |
+| [Quedarse Quieto](/dotes/monje/quedarse-quieto/) | Golpeas a quien intenta huir usando su movimiento en tu contra. | Monje | — |
+| [Rafaga de Maniobras](/dotes/monje/rafaga-de-maniobras/) | Reemplazas golpes de ráfaga por maniobras como agarrar o reposicionar. | Monje | experto en Atletismo |
 
 ## Nivel 6
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Aleteo de Grulla](/dotes/monje/aleteo-de-grulla/) | Interpones tu brazo entre tu y tu oponente. Tu bonificado... | Monje | Estas en Postura de la Grulla. |
-| [Alinear Qi](/dotes/monje/alinear-qi/) | El poder de tu qi calma tus heridas y te energiza para la... | Monje | Hechizos de Qi |
-| [Armamento Monastico Avanzado](/dotes/monje/armamento-monastico-avanzado/) | Tu riguroso regimen de entrenamiento te permite empuñar a... | Monje | Armamento Monastico |
-| [Arrastre del Lobo](/dotes/monje/arrastre-del-lobo/) | Arrancas a tu enemigo de sus pies. Haz un Golpe de mandib... | Monje | Estas en Postura del Lobo. |
-| [Baluarte de la Montana](/dotes/monje/baluarte-de-la-montana/) | Te concentras en tu conexion con la tierra e invocas a la... | Monje | Estas en Postura de la Montana. |
-| [Devolver Disparo](/dotes/monje/devolver-disparo/) | Arrebatando una flecha del aire, instantaneamente la colo... | Monje | Estas en Postura de Arquero Monastico, empunando un arco y tienes una mano libre. |
-| [Finta Tambaleante](/dotes/monje/finta-tambaleante/) | Golpeas confusamente, con lo que parece ser un movimiento... | Monje | Estas en Postura Tambaleante. |
-| [Golpe de un Centimetro  o](/dotes/monje/golpe-de-un-centimetro-o/) | Pones toda tu fuerza en un unico golpe poderoso y cuidado... | Monje | golpes expertos |
-| [Hechizos de Qi Avanzados](/dotes/monje/hechizos-de-qi-avanzados/) | Tu talento para controlar tu qi ha alcanzado nuevas altur... | Monje | Hechizos de Qi |
-| [Lanzamiento Giratorio](/dotes/monje/lanzamiento-giratorio/) | Impulsas a tu enemigo lejos. Intenta una prueba de Atleti... | Ataque, Monje | Tienes una criatura agarrada o inmovilizada. |
-| [Paso sobre el Agua](/dotes/monje/paso-sobre-el-agua/) | Puedes dar una Zancada a traves de liquidos y superficies... | Monje | — |
-| [Rugido del Dragon](/dotes/monje/rugido-del-dragon/) | Bramas, infundiendo miedo en tus enemigos. Los enemigos d... | Auditivo, Emocion, Miedo, Mental, Monje | Estas en Postura del Dragon. |
-| [Tajo del Tigre](/dotes/monje/tajo-del-tigre/) | Haces un zarpazo feroz con ambas manos. Haz un Golpe de g... | Monje | Estas en Postura del Tigre. |
+| [Aleteo de Grulla](/dotes/monje/aleteo-de-grulla/) | Incrementas a +3 el beneficio de postura de la grulla contra un ataque. | Monje | Estas en Postura de la Grulla. |
+| [Alinear Qi](/dotes/monje/alinear-qi/) | Recuperas puntos de golpe igual a nivel + sabiduría usando qi. | Monje | Hechizos de Qi |
+| [Armamento Monastico Avanzado](/dotes/monje/armamento-monastico-avanzado/) | Manejas armas complejas como si fueran armas de monje entrenadas. | Monje | Armamento Monastico |
+| [Arrastre del Lobo](/dotes/monje/arrastre-del-lobo/) | Usas la mandíbula del lobo para arrastrar al enemigo y convertirlo en letal. | Monje | Estas en Postura del Lobo. |
+| [Baluarte de la Montana](/dotes/monje/baluarte-de-la-montana/) | Invocas la tierra para reforzar tu defensa contra ataques. | Monje | Estas en Postura de la Montana. |
+| [Devolver Disparo](/dotes/monje/devolver-disparo/) | Atrapas proyectiles y los devuelves al lanzador. | Monje | Estas en Postura de Arquero Monastico, empunando un arco y tienes una mano libre. |
+| [Finta Tambaleante](/dotes/monje/finta-tambaleante/) | Engañas para liberar una ráfaga letal tras fingir debilidad. | Monje | Estas en Postura Tambaleante. |
+| [Golpe de un Centimetro  o](/dotes/monje/golpe-de-un-centimetro-o/) | Concentras tu fuerza en un golpe único capaz de empujar el objetivo. | Monje | golpes expertos |
+| [Hechizos de Qi Avanzados](/dotes/monje/hechizos-de-qi-avanzados/) | Accedes a hechizos de qi de rango 3 en combate. | Monje | Hechizos de Qi |
+| [Lanzamiento Giratorio](/dotes/monje/lanzamiento-giratorio/) | Impulsas a un enemigo con una prueba de Atletismo contra su Fortaleza. | Ataque, Monje | Tienes una criatura agarrada o inmovilizada. |
+| [Paso sobre el Agua](/dotes/monje/paso-sobre-el-agua/) | Zancas sobre superficies líquidas o inestables sin hundirte. | Monje | — |
+| [Rugido del Dragon](/dotes/monje/rugido-del-dragon/) | Asustas a los enemigos cercanos con un rugido temible. | Auditivo, Emocion, Miedo, Mental, Monje | Estas en Postura del Dragon. |
+| [Tajo del Tigre](/dotes/monje/tajo-del-tigre/) | Das un zarpazo con ambas manos que inflige dados de daño adicionales. | Monje | Estas en Postura del Tigre. |
 
 ## Nivel 8
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Atrapar Proyectil](/dotes/monje/atrapar-proyectil/) | Arrancas misiles del aire y los lanzas de vuelta a su ori... | Monje | Desviar Proyectil |
-| [Correr por Paredes](/dotes/monje/correr-por-paredes/) | Desafias la gravedad, atravesando planos verticales tan f... | Monje | — |
-| [Fuego Clavador](/dotes/monje/fuego-clavador/) | Apuntas a la ropa, equipo o carne suelta de tu oponente c... | Monje | — |
-| [Iniciado de Sombras Adherentes](/dotes/monje/iniciado-de-sombras-adherentes/) | Aprendes una postura mistica que transforma tu qi en humo... | Monje | Hechizos de Qi |
-| [Iniciado de Vientos Salvajes](/dotes/monje/iniciado-de-vientos-salvajes/) | Aprendes una postura que te permite atacar a distancia. O... | Monje | Hechizos de Qi |
-| [Maniobra Mixta](/dotes/monje/maniobra-mixta/) | Aprovechas tu conocimiento de artes marciales para mezcla... | Monje | maestro en Atletismo |
-| [Postura de Sangre de Hierro](/dotes/monje/postura-de-sangre-de-hierro/) | Entras en la postura de hierro impenetrable, negandote a ... | Monje, Postura | Estas sin armadura. |
-| [Postura del Bosque Enmarañado](/dotes/monje/postura-del-bosque-enmaranado/) | Extiendes tus brazos como ramas nudosas para interferir c... | Monje, Postura | Estas sin armadura. |
+| [Atrapar Proyectil](/dotes/monje/atrapar-proyectil/) | Capturas un proyectil y lo devuelves contra su lanzador. | Monje | Desviar Proyectil |
+| [Correr por Paredes](/dotes/monje/correr-por-paredes/) | Desafías la gravedad permitiéndote andar por paredes verticales. | Monje | — |
+| [Fuego Clavador](/dotes/monje/fuego-clavador/) | Clavas proyectiles perforantes para inmovilizar al objetivo. | Monje | — |
+| [Iniciado de Sombras Adherentes](/dotes/monje/iniciado-de-sombras-adherentes/) | Transformas tu qi en humo pegajoso que envuelve tus extremidades. | Monje | Hechizos de Qi |
+| [Iniciado de Vientos Salvajes](/dotes/monje/iniciado-de-vientos-salvajes/) | Obtienes una postura que dispara ataques a distancia con qi. | Monje | Hechizos de Qi |
+| [Maniobra Mixta](/dotes/monje/maniobra-mixta/) | Combinas dos maniobras distintas en una sola secuencia fluida. | Monje | maestro en Atletismo |
+| [Postura de Sangre de Hierro](/dotes/monje/postura-de-sangre-de-hierro/) | Te vuelves impenetrable y puedes lanzar ataques de barrido pesados. | Monje, Postura | Estas sin armadura. |
+| [Postura del Bosque Enmarañado](/dotes/monje/postura-del-bosque-enmaranado/) | Tus brazos se vuelven ramas que interfieren con enemigos cercanos. | Monje, Postura | Estas sin armadura. |
 
 ## Nivel 10
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Envenenar Cobra](/dotes/monje/envenenar-cobra/) | Deslocas ligeramente tus articulaciones para golpear con ... | Monje, Veneno | Estas en Postura de la Cobra. |
-| [Fluir Sinuoso](/dotes/monje/fluir-sinuoso/) | Cualquier viaje consiste en mas que simplemente llegar a ... | Monje | — |
-| [Golpe de Empujon](/dotes/monje/golpe-de-empujon/) | Concentras tu fuerza en un golpe lo suficientemente poder... | Concentrar, Monje | — |
-| [Posicion Prevaleciente](/dotes/monje/posicion-prevaleciente/) | Tu flexibilidad con posturas te permite sacrificar sus be... | Monje | al menos una dote de postura |
-| [Presa Asfixiante](/dotes/monje/presa-asfixiante/) | Pellizcas puntos cruciales del sistema nervioso de tu obj... | Incapacitacion, Monje | Tienes una criatura agarrada o inmovilizada. |
-| [Salto de Viento](/dotes/monje/salto-de-viento/) | Reunes el viento bajo ti, permitiendote elevarte mientras... | Monje | Hechizos de Qi |
+| [Envenenar Cobra](/dotes/monje/envenenar-cobra/) | Inyectas veneno con colmillo para provocar efectos tóxicos. | Monje, Veneno | Estas en Postura de la Cobra. |
+| [Fluir Sinuoso](/dotes/monje/fluir-sinuoso/) | Combinas acciones de movimiento en el orden que necesites para transitar situaciones largas. | Monje | — |
+| [Golpe de Empujon](/dotes/monje/golpe-de-empujon/) | Empujas al enemigo para crear espacio táctico tras un golpe precise. | Concentrar, Monje | — |
+| [Posicion Prevaleciente](/dotes/monje/posicion-prevaleciente/) | Cedes beneficios de postura para reforzar tu defensa inmediata. | Monje | al menos una dote de postura |
+| [Presa Asfixiante](/dotes/monje/presa-asfixiante/) | Presionas puntos neurales para dejar al enemigo incapaz de funcionar. | Incapacitacion, Monje | Tienes una criatura agarrada o inmovilizada. |
+| [Salto de Viento](/dotes/monje/salto-de-viento/) | Usas el viento para elevarte y ejecutar un salto más poderoso. | Monje | Hechizos de Qi |
 
 ## Nivel 12
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Aliento Abrumador](/dotes/monje/aliento-abrumador/) | Controlas tu respiracion y la alineas con tu qi, exhaland... | Concentrar, Monje, Moldear Hechizo | Hechizos de Qi |
-| [Concentracion Meditativa](/dotes/monje/concentracion-meditativa/) | Tu meditacion es tan efectiva que puedes alcanzar una con... | Monje | Hechizos de Qi |
-| [Disparo Concentrado](/dotes/monje/disparo-concentrado/) | Alcanzas un estado de calma perfecta antes de desatar tu ... | Concentrar, Monje | Estas en Postura de Arquero Monastico. |
-| [Empujon Mejorado](/dotes/monje/empujon-mejorado/) | Cuando Empujas con exito a una criatura, aumentas tanto l... | Monje | Golpe de Empujon |
-| [Interrumpir Qi](/dotes/monje/interrumpir-qi/) | Apuntas cuidadosamente a los puntos de presion de una cri... | Monje, Vacio | — |
-| [Postura Reflexiva](/dotes/monje/postura-reflexiva/) | Entras en una postura sin pensarlo. Usa una accion que te... | Monje | — |
-| [Rodada Evasiva](/dotes/monje/rodada-evasiva/) | Esquivas un golpe en el ultimo momento posible. Das un Pa... | Monje | maestro en Acrobacia |
+| [Aliento Abrumador](/dotes/monje/aliento-abrumador/) | Exhalas una ráfaga que supera resistencias y debilita al objetivo. | Concentrar, Monje, Moldear Hechizo | Hechizos de Qi |
+| [Concentracion Meditativa](/dotes/monje/concentracion-meditativa/) | Recuperas todo tu foco al reconcentrarte brevemente. | Monje | Hechizos de Qi |
+| [Disparo Concentrado](/dotes/monje/disparo-concentrado/) | Calmas tu mente y haces tu siguiente golpe más preciso y eficaz. | Concentrar, Monje | Estas en Postura de Arquero Monastico. |
+| [Empujon Mejorado](/dotes/monje/empujon-mejorado/) | Aumentas la distancia del empuje y te mueves tras un empuje exitoso. | Monje | Golpe de Empujon |
+| [Interrumpir Qi](/dotes/monje/interrumpir-qi/) | Golpeas puntos de presión para bloquear la energía vital del contrario. | Monje, Vacio | — |
+| [Postura Reflexiva](/dotes/monje/postura-reflexiva/) | Adoptas una postura reflexiva cuando usas una acción con rasgo postura. | Monje | — |
+| [Rodada Evasiva](/dotes/monje/rodada-evasiva/) | Das un paso para ganar resistencia igual a tu nivel contra el ataque. | Monje | maestro en Acrobacia |
 
 ## Nivel 14
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Bloquear Forma](/dotes/monje/bloquear-forma/) | Tu habilidad para controlar tu propio qi te empodera para... | Ataque, Monje | Tienes a un enemigo agarrado o inmovilizado. |
-| [Forma Sin Par](/dotes/monje/forma-sin-par/) | Tu dominio sobre tu cuerpo es lo suficientemente perfecto... | Monje | — |
-| [Oleada de Sangre de Hierro](/dotes/monje/oleada-de-sangre-de-hierro/) | Te preparas, listo para resistir ataques entrantes y usan... | Monje | Estas en Postura de Sangre de Hierro. |
-| [Postura de Hoja Giratoria](/dotes/monje/postura-de-hoja-giratoria/) | Entras en una postura consciente que crea una conexion pr... | Monje, Postura | Armamento Monastico |
-| [Rafaga de Vientos Salvajes](/dotes/monje/rafaga-de-vientos-salvajes/) | Acumulas presion de aire con movimientos repetidos, antes... | Aire, Concentrar, Manipular, Monje | Estas en Postura de Vientos Salvajes. |
-| [Rastrillada del Bosque Enmarañado](/dotes/monje/rastrillada-del-bosque-enmaranado/) | Reposicionas a los enemigos con ataques rastrillantes. Ha... | Monje | Estas en Postura del Bosque Enmarañado. |
-| [Red de Sombras](/dotes/monje/red-de-sombras/) | Puedes lanzar una ola de qi sombrio hacia afuera desde tu... | Monje | Iniciado de Sombras Adherentes |
-| [Terremoto de Montana](/dotes/monje/terremoto-de-montana/) | Pisoteas, sacudiendo la tierra bajo ti. Las criaturas en ... | Monje | Estas en Postura de la Montana. |
+| [Bloquear Forma](/dotes/monje/bloquear-forma/) | Obligas a los enemigos a mostrar su forma verdadera usando control del qi. | Ataque, Monje | Tienes a un enemigo agarrado o inmovilizado. |
+| [Forma Sin Par](/dotes/monje/forma-sin-par/) | Detienes tu envejecimiento mientras mantienes vitalidad completa. | Monje | — |
+| [Oleada de Sangre de Hierro](/dotes/monje/oleada-de-sangre-de-hierro/) | Absorbes golpes y ganas beneficios de parada mientras bloqueas impactos. | Monje | Estas en Postura de Sangre de Hierro. |
+| [Postura de Hoja Giratoria](/dotes/monje/postura-de-hoja-giratoria/) | Controlas tus armas con qi incluso a distancia. | Monje, Postura | Armamento Monastico |
+| [Rafaga de Vientos Salvajes](/dotes/monje/rafaga-de-vientos-salvajes/) | Libera un abanico de golpes de viento que arrastra a los enemigos. | Aire, Concentrar, Manipular, Monje | Estas en Postura de Vientos Salvajes. |
+| [Rastrillada del Bosque Enmarañado](/dotes/monje/rastrillada-del-bosque-enmaranado/) | Reposicionas enemigos con ataques rastrillantes que los mueven de lugar. | Monje | Estas en Postura del Bosque Enmarañado. |
+| [Red de Sombras](/dotes/monje/red-de-sombras/) | Expulsas qi sombrío que daña y ata enemigos en un área. | Monje | Iniciado de Sombras Adherentes |
+| [Terremoto de Montana](/dotes/monje/terremoto-de-montana/) | Sacudes la tierra y dañas a todos los enemigos cercanos. | Monje | Estas en Postura de la Montana. |
 
 ## Nivel 16
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Fusionar Posturas](/dotes/monje/fusionar-posturas/) | Has combinado dos posturas en una sola postura completame... | Monje | al menos dos posturas |
-| [Golpe de un Milimetro](/dotes/monje/golpe-de-un-milimetro/) | Tus punos tienen fuerza y control increibles. Cuando dana... | Monje | Golpe de un Centimetro |
-| [Golpe Destrozador](/dotes/monje/golpe-destrozador/) | La fuerza de tu golpe considerado destroza objetos y defe... | Monje | — |
-| [Hechizos de Qi Maestros](/dotes/monje/hechizos-de-qi-maestros/) | Has alcanzado un dominio casi total de tu qi. Obtienes ir... | Monje | Hechizos de Qi |
-| [Maestro de Muchos Estilos](/dotes/monje/maestro-de-muchos-estilos/) | Puedes cambiar entre posturas sin pensarlo, tus movimient... | Monje | Postura Reflexiva |
+| [Fusionar Posturas](/dotes/monje/fusionar-posturas/) | Mezclas dos posturas conocidas en una sola técnica propia. | Monje | al menos dos posturas |
+| [Golpe de un Milimetro](/dotes/monje/golpe-de-un-milimetro/) | Guías tu qi tras Golpe de un Centímetro para lanzar un ataque devastador. | Monje | Golpe de un Centimetro |
+| [Golpe Destrozador](/dotes/monje/golpe-destrozador/) | Ignoras resistencias con un golpe desarmado brutal. | Monje | — |
+| [Hechizos de Qi Maestros](/dotes/monje/hechizos-de-qi-maestros/) | Accedes a hechizos de qi de nivel 8 como ira de medusa o toque de muerte. | Monje | Hechizos de Qi |
+| [Maestro de Muchos Estilos](/dotes/monje/maestro-de-muchos-estilos/) | Cambias de postura con fluidez para responder al combate sin pausa. | Monje | Postura Reflexiva |
 
 ## Nivel 18
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Centro de Qi](/dotes/monje/centro-de-qi/) | Te centras con el universo y aprovechas su vasto poder. L... | Monje | Hechizos de Qi, Maestro de Muchos Estilos |
-| [Disparo Triangular](/dotes/monje/disparo-triangular/) | Colocas tres flechas en tu arco y las disparas todas a la... | Concentrar, Fortuna, Monje | Estas en Postura de Arquero Monastico y empunando un arco usable con esa postura. |
-| [Hechizos de Qi de Gran Maestro](/dotes/monje/hechizos-de-qi-de-gran-maestro/) | Has desbloqueado una tecnica de qi alcanzable solo por aq... | Monje | Hechizos de Qi |
-| [Punos de Diamante](/dotes/monje/punos-de-diamante/) | Tu cuerpo se endurece mientras combinas tus ataques, haci... | Monje | — |
-| [Rio Veloz](/dotes/monje/rio-veloz/) | Fluyes como el agua, evitando todas las restricciones. Te... | Monje | — |
+| [Centro de Qi](/dotes/monje/centro-de-qi/) | Lanzas un hechizo de qi postura como acción sin gastar recursos extra. | Monje | Hechizos de Qi, Maestro de Muchos Estilos |
+| [Disparo Triangular](/dotes/monje/disparo-triangular/) | Disparas tres flechas simultáneas contra el mismo objetivo. | Concentrar, Fortuna, Monje | Estas en Postura de Arquero Monastico y empunando un arco usable con esa postura. |
+| [Hechizos de Qi de Gran Maestro](/dotes/monje/hechizos-de-qi-de-gran-maestro/) | Desbloqueas hechizos supremos de qi una vez dominas cuerpo y espíritu. | Monje | Hechizos de Qi |
+| [Punos de Diamante](/dotes/monje/punos-de-diamante/) | Endureces tu cuerpo y tus golpes finales se vuelven contundentes. | Monje | — |
+| [Rio Veloz](/dotes/monje/rio-veloz/) | Eliminas penalizadores y condiciones de movimiento con fluidez acuática. | Monje | — |
 
 ## Nivel 20
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Qi Relampagueante](/dotes/monje/qi-relampagueante/) | El qi fluye libremente desde tu interior. Si tu siguiente... | Monje | Hechizos de Qi |
-| [Rapidez Perdurable](/dotes/monje/rapidez-perdurable/) | Te mueves tan rapido y libremente como el viento. Estas p... | Monje | — |
-| [Rompedioses](/dotes/monje/rompedioses/) | Has dominado una tecnica de agarre definitiva capaz de ro... | Monje | Tienes una criatura agarrada o inmovilizada. |
-| [Tecnica Imposible](/dotes/monje/tecnica-imposible/) | Ejecutas una maniobra que desafia la posibilidad. Si el e... | Fortuna, Monje | No llevas armadura ni estas fatigado. |
-| [Tecnicas Inmortales](/dotes/monje/tecnicas-inmortales/) | Fluyes de tecnica a tecnica, renovandote mientras abrazas... | Monje | Maestro de Muchos Estilos |
+| [Qi Relampagueante](/dotes/monje/qi-relampagueante/) | Reduce el número de acciones necesario para lanzar un hechizo de qi largo. | Monje | Hechizos de Qi |
+| [Rapidez Perdurable](/dotes/monje/rapidez-perdurable/) | Mantienes aceleración constante usando la acción extra para moverte o saltar. | Monje | — |
+| [Rompedioses](/dotes/monje/rompedioses/) | Dominas un agarre que lanza al enemigo 6 m en el aire. | Monje | Tienes una criatura agarrada o inmovilizada. |
+| [Tecnica Imposible](/dotes/monje/tecnica-imposible/) | Forzas al enemigo a repetir su tirada si te golpea con éxito. | Fortuna, Monje | No llevas armadura ni estas fatigado. |
+| [Tecnicas Inmortales](/dotes/monje/tecnicas-inmortales/) | Usas la primera acción con rasgo postura cada ronda para cambiar estilos. | Monje | Maestro de Muchos Estilos |
 

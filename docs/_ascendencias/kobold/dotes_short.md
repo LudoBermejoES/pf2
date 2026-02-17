@@ -17,44 +17,44 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Colocador de lazos](/dotes/kobold/colocador-de-lazos/) | Dominas el arte kobold de fabricar trampas. Obtienes la c... | Kobold | entrenado en Elaboración |
-| [Corretear](/dotes/kobold/corretear/) | Avanzas hasta tu Velocidad, con un bonificador de estatus... | Kobold | Estás adyacente a al menos un enemigo. |
-| [Encogerse](/dotes/kobold/encogerse/) | Con una postura lastimosa, haces que tu enemigo retire un... | Emoción, Kobold, Mental, Visual | — |
-| [Familiaridad con armas kobold](/dotes/kobold/familiaridad-con-armas-kobold/) | Obtienes acceso a todas las armas poco comunes con el ras... | Kobold | — |
-| [Presencia dracónica](/dotes/kobold/presencia-draconica/) | Como pariente de los dragones, proyectas una confianza in... | Kobold | herencia kobold de escamas dracónicas |
-| [Saber kobold](/dotes/kobold/saber-kobold/) | Has aprendido con atención estrategias clave de supervive... | Kobold | — |
+| [Colocador de lazos](/dotes/kobold/colocador-de-lazos/) | Ganas competencia en Elaboración, acceso a los lazos kobold y la dote Elaboración de lazos para esas fórmulas. | Kobold | entrenado en Elaboración |
+| [Corretear](/dotes/kobold/corretear/) | Avanzas tu velocidad con +5 pies extra y +2 circunstancial a CA frente a reacciones, pero debes acabar sin criaturas adyacentes. | Kobold | Estás adyacente a al menos un enemigo. |
+| [Encogerse](/dotes/kobold/encogerse/) | Reacción: tras recibir un crítico reduces su daño en nivel +2 y dejas al atacante inmune a Encogerse 24 h. | Emoción, Kobold, Mental, Visual | — |
+| [Familiaridad con armas kobold](/dotes/kobold/familiaridad-con-armas-kobold/) | Accedes a todas las armas con rasgo kobold y sus críticos generan el efecto de especialización crítica. | Kobold | — |
+| [Presencia dracónica](/dotes/kobold/presencia-draconica/) | Salvaciones de miedo se tratan como críticos y fallos críticos también; +1 circunstancial a Intimidación contra enemigos de tu nivel o inferior. | Kobold | herencia kobold de escamas dracónicas |
+| [Saber kobold](/dotes/kobold/saber-kobold/) | Entrenas Sigilo y Latrocinio y obtienes la dote general Saber adicional de Saber kobold. | Kobold | — |
 
 ## Nivel 5
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Alitas](/dotes/kobold/alitas/) | Por la influencia persistente del patrón de tu madriguera... | Kobold | — |
-| [Amparo de aliado](/dotes/kobold/amparo-de-aliado/) | Sigues el ejemplo de tus aliados. Tira la salvación usand... | Fortuna, Kobold | — |
-| [Genio de lazos](/dotes/kobold/genio-de-lazos/) | Si el lazo normalmente tarda 1 minuto en Elaborarse, pued... | Kobold | experto en Elaboración, Elaboración de lazos |
-| [Humillarse](/dotes/kobold/humillarse/) | Convences a tu enemigo de que eres menos peligroso. Inten... | Auditivo, Concentrar, Emoción, Kobold, Mental | entrenado en Engaño |
+| [Alitas](/dotes/kobold/alitas/) | Saltas 5 pies más y puedes saltar hasta 10 pies más en salto largo sin superar tu velocidad. | Kobold | — |
+| [Amparo de aliado](/dotes/kobold/amparo-de-aliado/) | Una vez al día usas el modificador de un aliado adyacente para tu tirada de salvación. | Fortuna, Kobold | — |
+| [Genio de lazos](/dotes/kobold/genio-de-lazos/) | Preparas 3/4/5 lazos sin gastar recursos, los haces en 3 acciones y los críticos con el lazo dejan desprevenida a la criatura. | Kobold | experto en Elaboración, Elaboración de lazos |
+| [Humillarse](/dotes/kobold/humillarse/) | Engañas desde 30 pies contra CD de Voluntad en lugar de Percepción para aparentar inexistente. | Auditivo, Concentrar, Emoción, Kobold, Mental | entrenado en Engaño |
 
 ## Nivel 9
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Cuernoconjuro evolucionado](/dotes/kobold/cuernoconjuro-evolucionado/) | Tu poder arcano innato crece. Elige un conjuro arcano com... | Kobold | herencia kobold cuernoconjuro |
-| [Distancias cortas](/dotes/kobold/distancias-cortas/) | Si eres Pequeño o menor, puedes terminar tu movimiento en... | Kobold | — |
-| [Entre las escamas](/dotes/kobold/entre-las-escamas/) | Has aprendido a aprovechar las fisuras en las defensas de... | Kobold | — |
-| [Grito de huida](/dotes/kobold/grito-de-huida/) | Lanzas un chillido que perfora los oídos. Cada criatura e... | Auditivo, Kobold, Sónico | — |
-| [Luchador de zarzas](/dotes/kobold/luchador-de-zarzas/) | Cuando estás en terreno difícil por un rasgo ambiental, p... | Kobold | — |
-| [Vuelo con alitas](/dotes/kobold/vuelo-con-alitas/) | El uso intenso y el ejercicio han hecho tus alitas más po... | Kobold | Alitas |
+| [Cuernoconjuro evolucionado](/dotes/kobold/cuernoconjuro-evolucionado/) | Lanzas una vez al día un conjuro arcano común de 1.º nivel y uno de 2.º nivel como innatos. | Kobold | herencia kobold cuernoconjuro |
+| [Distancias cortas](/dotes/kobold/distancias-cortas/) | Como criatura Pequeña o menor puedes terminar tu movimiento en el mismo espacio que otro aliado pequeñito (máx. dos). | Kobold | — |
+| [Entre las escamas](/dotes/kobold/entre-las-escamas/) | Tus ataques con armas ágiles y delicadas contra desprevenidos ganan el rasgo apuñalador. | Kobold | — |
+| [Grito de huida](/dotes/kobold/grito-de-huida/) | Una vez por hora daño sónico 5d6 a 10 pies con CD de Fortaleza; luego avanzas sin provocar reacciones. | Auditivo, Kobold, Sónico | — |
+| [Luchador de zarzas](/dotes/kobold/luchador-de-zarzas/) | El terreno difícil ambiental siempre te permite Poner a Cubierto aunque el rasgo no sea lo bastante grande. | Kobold | — |
+| [Vuelo con alitas](/dotes/kobold/vuelo-con-alitas/) | Una vez por asalto vuelas 20 pies con tus alitas; si no estás en suelo sólido al terminar, caes. | Kobold | Alitas |
 
 ## Nivel 13
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Cuernoconjuro resplandeciente](/dotes/kobold/cuernoconjuro-resplandeciente/) | Tu magia sigue floreciendo. Elige un conjuro arcano común... | Kobold | Cuernoconjuro evolucionado |
-| [Desvío rodante](/dotes/kobold/desvio-rodante/) | Intenta Rodar a través del espacio de un oponente. Si tie... | Kobold | experto en Acrobacias y Engaño |
-| [Lazos viciosos](/dotes/kobold/lazos-viciosos/) | Infliges 1d6 de daño de precisión adicional con los lazos... | Kobold | experto en Elaboración, Elaboración de lazos |
+| [Cuernoconjuro resplandeciente](/dotes/kobold/cuernoconjuro-resplandeciente/) | Lanzas una vez al día un conjuro arcano común de 3.º nivel y otro de 4.º como innatos. | Kobold | Cuernoconjuro evolucionado |
+| [Desvío rodante](/dotes/kobold/desvio-rodante/) | Tras Rodar a través de un enemigo, ganas +1/ +2 a Engaño para distraerlo y quedas oculto a él si tienes éxito. | Kobold | experto en Acrobacias y Engaño |
+| [Lazos viciosos](/dotes/kobold/lazos-viciosos/) | Tus lazos infligen 1d6 de daño de precisión adicional (2d6 si eres legendario). | Kobold | experto en Elaboración, Elaboración de lazos |
 
 ## Nivel 17
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Majestad del benefactor](/dotes/kobold/majestad-del-benefactor/) | Accedes a la grandeza del benefactor de tu madriguera. Ga... | Curación, Kobold, Visual | — |
+| [Majestad del benefactor](/dotes/kobold/majestad-del-benefactor/) | Una vez al día ganas PG temporales igual a tu nivel, limpias daños persistentes y obligas a enemigos a tirar CD 11 para atacarte. | Curación, Kobold, Visual | — |
 

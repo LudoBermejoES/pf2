@@ -17,49 +17,49 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Colmillos de sable](/dotes/catfolk/colmillos-de-sable/) | Tienes colmillos largos, naturales o aumentados. Obtienes... | Catfolk | — |
-| [Danza catfolk](/dotes/catfolk/danza-catfolk/) | Tienes la costumbre de estar siempre en medio cuando otra... | Catfolk | — |
-| [Familiaridad con armas catfolk](/dotes/catfolk/familiaridad-con-armas-catfolk/) | Obtienes acceso a todas las armas poco comunes con el ras... | Catfolk | — |
-| [Saber catfolk](/dotes/catfolk/saber-catfolk/) | Criarte entre catfolk te ha enseñado los valores tradicio... | Catfolk | — |
-| [Siesta felina](/dotes/catfolk/siesta-felina/) | Puedes recuperar tu energía rápidamente con una breve sie... | Catfolk, Concentrar, Exploración | — |
-| [Suerte felina](/dotes/catfolk/suerte-felina/) | Te apartas instintivamente del peligro. Vuelve a tirar la... | Catfolk, Fortuna | — |
-| [Viajero afable](/dotes/catfolk/viajero-afable/) | Adoptas de forma natural un talante agradable y afable al... | Catfolk | — |
+| [Colmillos de sable](/dotes/catfolk/colmillos-de-sable/) | Añades un ataque de mandíbulas que inflige daño perforante natural. | Catfolk | — |
+| [Danza catfolk](/dotes/catfolk/danza-catfolk/) | Tus acrobacias mantienen a las criaturas en movimiento y te dan ventaja posicional. | Catfolk | — |
+| [Familiaridad con armas catfolk](/dotes/catfolk/familiaridad-con-armas-catfolk/) | Tratas armas con el rasgo catfolk como si fueran familiares. | Catfolk | — |
+| [Saber catfolk](/dotes/catfolk/saber-catfolk/) | Ganas entrenamiento en Diplomacia al vivir los valores de tu linaje. | Catfolk | — |
+| [Siesta felina](/dotes/catfolk/siesta-felina/) | Recuperas energía con una siesta relámpago que te da puntos de golpe temporales. | Catfolk, Concentrar, Exploración | — |
+| [Suerte felina](/dotes/catfolk/suerte-felina/) | Repites una salvación de Reflejos fallida gracias a tu fortuna natural. | Catfolk, Fortuna | — |
+| [Viajero afable](/dotes/catfolk/viajero-afable/) | Un trato afable te hace competente en Diplomacia ante desconocidos. | Catfolk | — |
 
 ## Nivel 5
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Bien acicalado](/dotes/catfolk/bien-acicalado/) | Eres meticuloso con mantenerte limpio. Obtienes un bonifi... | Catfolk | — |
-| [Cazador de manada](/dotes/catfolk/cazador-de-manada/) | Evitas la atención de criaturas centradas en tus aliados.... | Catfolk | — |
-| [Garras trepadoras](/dotes/catfolk/garras-trepadoras/) | Puedes extender tus garras para ayudarte a trepar. Obtien... | Catfolk | — |
-| [Golpe de suerte](/dotes/catfolk/golpe-de-suerte/) | Eres aún más afortunado que la mayoría de los catfolk. Pu... | Catfolk | Suerte felina |
-| [Guía elegante](/dotes/catfolk/guia-elegante/) | Puedes mostrar cómo girar rápidamente fuera del alcance d... | Catfolk | — |
-| [Patas ligeras](/dotes/catfolk/patas-ligeras/) | Puedes equilibrarte sobre tus puntas para pisar con cuida... | Catfolk | — |
-| [Saltador impulsivo](/dotes/catfolk/saltador-impulsivo/) | Tus poderosas piernas te permiten dar saltos súbitos y dr... | Catfolk | experto en Atletismo |
+| [Bien acicalado](/dotes/catfolk/bien-acicalado/) | Obtienes +2 circunstancial contra enfermedades por mantenerte impecable. | Catfolk | — |
+| [Cazador de manada](/dotes/catfolk/cazador-de-manada/) | Usas la cobertura aliada para ocultarte sin alertar al enemigo. | Catfolk | — |
+| [Garras trepadoras](/dotes/catfolk/garras-trepadoras/) | Extiendes garras para trepar con velocidad 10 pies. | Catfolk | — |
+| [Golpe de suerte](/dotes/catfolk/golpe-de-suerte/) | Activas Suerte felina tras un fallo para repetir la tirada. | Catfolk | Suerte felina |
+| [Guía elegante](/dotes/catfolk/guia-elegante/) | Ayudas a un aliado con reacción para esquivar un peligro. | Catfolk | — |
+| [Patas ligeras](/dotes/catfolk/patas-ligeras/) | Te mueves equilibrado para ignorar terreno difícil durante paso+avance. | Catfolk | — |
+| [Saltador impulsivo](/dotes/catfolk/saltador-impulsivo/) | Duplicas la distancia de salto al gastar una acción de salto extenso. | Catfolk | experto en Atletismo |
 
 ## Nivel 9
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Arañazo agravante](/dotes/catfolk/aranazo-agravante/) | Tus garras portan un irritante inofensivo para ti pero da... | Catfolk, Enfermedad | ataque desarmado de garra |
-| [Escurridizo precavido](/dotes/catfolk/escurridizo-precavido/) | Puedes realizar la actividad de exploración Explorar al m... | Catfolk | — |
-| [Evadir perdición](/dotes/catfolk/evadir-perdicion/) | Puedes eludir el desastre sobrenatural. Cuando fueras a g... | Catfolk | — |
-| [Gruñido depredador](/dotes/catfolk/grunido-depredador/) | Das un gruñido profundo para intentar Desmoralizar a una ... | Catfolk | experto en Intimidación |
-| [Paso silencioso](/dotes/catfolk/paso-silencioso/) | Das un paso, luego te Ocultas o te Escabulles. Aún necesi... | Catfolk, Floritura | — |
-| [Suerte de la camada](/dotes/catfolk/suerte-de-la-camada/) | Cuando usas Suerte felina para repetir tirada, cualquier ... | Catfolk | Suerte felina |
+| [Arañazo agravante](/dotes/catfolk/aranazo-agravante/) | Tus garras dejan veneno persistente leve además del daño cortante. | Catfolk, Enfermedad | ataque desarmado de garra |
+| [Escurridizo precavido](/dotes/catfolk/escurridizo-precavido/) | Explorar y evitar ser notado ocurren simultáneamente. | Catfolk | — |
+| [Evadir perdición](/dotes/catfolk/evadir-perdicion/) | Intentas una tirada CD 17 para esquivar la condición condenado. | Catfolk | — |
+| [Gruñido depredador](/dotes/catfolk/grunido-depredador/) | Un gruñido eficaz intimida y revela enemigos ocultos. | Catfolk | experto en Intimidación |
+| [Paso silencioso](/dotes/catfolk/paso-silencioso/) | Das un paso y luego te ocultas o escabulles sin penalizaciones extras. | Catfolk, Floritura | — |
+| [Suerte de la camada](/dotes/catfolk/suerte-de-la-camada/) | Compartes la repetición de Suerte felina con un aliado cercano. | Catfolk | Suerte felina |
 
 ## Nivel 13
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Aullido felino](/dotes/catfolk/aullido-felino/) | Das un aullido audaz, llamando a tu compañero de vuelta d... | Auditivo, Catfolk, Concentrar, Emoción, Mental | — |
-| [Maldición del gato negro](/dotes/catfolk/maldicion-del-gato-negro/) | Siseas una maldición rencorosa. El objetivo repite la tir... | Catfolk, Desgracia, Ocultista | — |
+| [Aullido felino](/dotes/catfolk/aullido-felino/) | Respondes cuando un aliado cae a 0 PG con un efecto de apoyo inmediato. | Auditivo, Catfolk, Concentrar, Emoción, Mental | — |
+| [Maldición del gato negro](/dotes/catfolk/maldicion-del-gato-negro/) | Reaccionas cuando una criatura cercana supera una salvación determinada. | Catfolk, Desgracia, Ocultista | — |
 
 ## Nivel 17
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Diez vidas](/dotes/catfolk/diez-vidas/) | Cuando tu personaje fuera a morir, puedes intentar una pr... | Catfolk | Evadir perdición |
-| [Eludir problemas](/dotes/catfolk/eludir-problemas/) | Avanza hasta tu Velocidad. Este movimiento no provoca rea... | Catfolk | — |
-| [Suerte fiable](/dotes/catfolk/suerte-fiable/) | Sobrevives al peligro con sorprendente regularidad. Puede... | Catfolk | Suerte felina |
+| [Diez vidas](/dotes/catfolk/diez-vidas/) | Una salvación CD 17 te mantiene en 0 PG en lugar de morir. | Catfolk | Evadir perdición |
+| [Eludir problemas](/dotes/catfolk/eludir-problemas/) | Evitas totalmente un ataque cuerpo a cuerpo fallido que te alcanza. | Catfolk | — |
+| [Suerte fiable](/dotes/catfolk/suerte-fiable/) | Usas Suerte felina una vez por hora en lugar de una vez al día. | Catfolk | Suerte felina |
 

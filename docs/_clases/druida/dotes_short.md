@@ -17,117 +17,117 @@ En cada nivel en el que obtienes una dote de druida, puedes seleccionar una de l
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Arma Verde](/dotes/druida/arma-verde/) | Cultivas una semilla que puede brotar en forma de un bast... | Druida, Exploración | — |
-| [Compañero Animal](/dotes/druida/companero-animal/) | Obtienes los servicios de un compañero animal joven que v... | Druida | Orden animal |
-| [Conjuro de Alcance](/dotes/druida/conjuro-de-alcance/) | Puedes ampliar el alcance de tus conjuros. Si la siguient... | Concentrar, Druida, Moldeo de conjuros | — |
-| [Empatía Animal](/dotes/druida/empatia-animal/) | Tienes una conexión con las criaturas del mundo natural q... | Druida | — |
-| [Empatía Vegetal](/dotes/druida/empatia-vegetal/) | Tienes una conexión con la flora que te permite comunicar... | Druida | — |
-| [Extender Conjuro](/dotes/druida/extender-conjuro/) | Manipulas la energía de tu conjuro, haciendo que se extie... | Druida, Manipular, Moldeo de conjuros | — |
-| [Familiar Leshy](/dotes/druida/familiar-leshy/) | Llamas a un espíritu menor de la Naturaleza, que adopta l... | Druida | Orden de la hoja |
-| [Forma Salvaje](/dotes/druida/forma-salvaje/) | Eres uno con las tierras vírgenes, siempre cambiando y ad... | Druida | Orden salvaje |
-| [Nacido de la Tormenta](/dotes/druida/nacido-de-la-tormenta/) | Te encuentras como en casa expuesto a los elementos, goza... | Druida | Orden de la tormenta |
+| [Arma Verde](/dotes/druida/arma-verde/) | Transformas una semilla en un arma vegetal lista para el combate. | Druida, Exploración | — |
+| [Compañero Animal](/dotes/druida/companero-animal/) | Reclutas a un compañero animal joven que responde a tus órdenes. | Druida | Orden animal |
+| [Conjuro de Alcance](/dotes/druida/conjuro-de-alcance/) | Puedes ampliar el alcance de tus conjuros. Si la siguiente acción que utilizas es Lanzar un conjuro que tiene alcance, incrementa dicho alcance en ... | Concentrar, Druida, Moldeo de conjuros | — |
+| [Empatía Animal](/dotes/druida/empatia-animal/) | Puedes comunicarte y comprender a animales por medios sencillos. | Druida | — |
+| [Empatía Vegetal](/dotes/druida/empatia-vegetal/) | Hablas con plantas y obtienes información rudimentaria de ellas. | Druida | — |
+| [Extender Conjuro](/dotes/druida/extender-conjuro/) | Expandes la zona de efecto del siguiente conjuro que lances. | Druida, Manipular, Moldeo de conjuros | — |
+| [Familiar Leshy](/dotes/druida/familiar-leshy/) | Invocas un leshy que actúa como familiar y te asiste en magia natural. | Druida | Orden de la hoja |
+| [Forma Salvaje](/dotes/druida/forma-salvaje/) | Obtienes el conjuro orden cambio indómito para adoptar formas naturales. | Druida | Orden salvaje |
+| [Nacido de la Tormenta](/dotes/druida/nacido-de-la-tormenta/) | Eres inmune a penalizadores por clima hostil y dominas la furia elemental. | Druida | Orden de la tormenta |
 
 ## Nivel 2
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Explorador de la Orden](/dotes/druida/explorador-de-la-orden/) | Has averiguado los secretos de otra orden druídica, super... | Druida | — |
-| [Familiar Potenciado](/dotes/druida/familiar-potenciado/) | Infundes a tu familiar con energía primigenia adicional, ... | Druida | un familiar |
-| [Llamada Salvaje](/dotes/druida/llamada-salvaje/) | Llamas a las criaturas de la Naturaleza para que acudan e... | Druida | — |
-| [Resistencia al Veneno](/dotes/druida/resistencia-al-veneno/) | Tu afinidad por el mundo natural te concede protección co... | Druida | — |
+| [Explorador de la Orden](/dotes/druida/explorador-de-la-orden/) | Accedes a los secretos y conjuros de otra orden druídica. | Druida | — |
+| [Familiar Potenciado](/dotes/druida/familiar-potenciado/) | Tu familiar gana aptitudes extra y opciones de entrenamiento. | Druida | un familiar |
+| [Llamada Salvaje](/dotes/druida/llamada-salvaje/) | Convocas criaturas naturales tras sintonizarte con la naturaleza. | Druida | — |
+| [Resistencia al Veneno](/dotes/druida/resistencia-al-veneno/) | Obtienes resistencia al veneno igual a la mitad de tu nivel. | Druida | — |
 
 ## Nivel 4
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Compañero Animal Maduro](/dotes/druida/companero-animal-maduro/) | Tu compañero animal crece a lo largo de tus aventuras y s... | Druida | Compañero animal |
-| [Conjuro de Ventisquero](/dotes/druida/conjuro-de-ventisquero/) | El aullarte viento y la precipitación de tu magia se conv... | Druida, Frío, Manipular, Moldeo de conjuros | Orden de la tormenta |
-| [Controlar Forma](/dotes/druida/controlar-forma/) | Con cuidado y esfuerzo adicionales, puedes adoptar una fo... | Druida, Manipular, Moldeo de conjuros | Orden salvaje |
-| [Convocatoria Elemental](/dotes/druida/convocatoria-elemental/) | Puedes llamar a ti a los elementos. Puedes invertir 10 mi... | Druida | — |
-| [Forma Antropomórfica](/dotes/druida/forma-antropomorfica/) | Que los humanoides supuestamente estén aparte de los anim... | Druida | Orden salvaje |
-| [Magia de la Orden](/dotes/druida/magia-de-la-orden/) | Has excavado a más profundidad en las enseñanzas de una n... | Druida | Explorador de la orden |
-| [Paso Forestal](/dotes/druida/paso-forestal/) | Siempre puedes encontrar un camino, casi como si el folla... | Druida | Orden de la hoja |
-| [Secretos del Familiar Leshy](/dotes/druida/secretos-del-familiar-leshy/) | Los secretos de la orden de la hoja permiten que tu famil... | Druida | orden de la hoja |
+| [Compañero Animal Maduro](/dotes/druida/companero-animal-maduro/) | Tu compañero animal madura y gana habilidades adicionales. | Druida | Compañero animal |
+| [Conjuro de Ventisquero](/dotes/druida/conjuro-de-ventisquero/) | Tu magia invernal transforma el clima creando nieve densa. | Druida, Frío, Manipular, Moldeo de conjuros | Orden de la tormenta |
+| [Controlar Forma](/dotes/druida/controlar-forma/) | Mantienes una forma alternativa por más tiempo con concentración. | Druida, Manipular, Moldeo de conjuros | Orden salvaje |
+| [Convocatoria Elemental](/dotes/druida/convocatoria-elemental/) | Dominas elementos y reemplazas conjuros preparados. | Druida | — |
+| [Forma Antropomórfica](/dotes/druida/forma-antropomorfica/) | Agregas formas humanoides a tu repertorio de forma indómita. | Druida | Orden salvaje |
+| [Magia de la Orden](/dotes/druida/magia-de-la-orden/) | Aprendes un conjuro de orden adicional tras estudiar otra orden. | Druida | Explorador de la orden |
+| [Paso Forestal](/dotes/druida/paso-forestal/) | Ignoras terreno difícil que derive de vegetación u hongos. | Druida | Orden de la hoja |
+| [Secretos del Familiar Leshy](/dotes/druida/secretos-del-familiar-leshy/) | Tu familiar leshy gana aptitudes adicionales propias. | Druida | orden de la hoja |
 
 ## Nivel 6
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Apoyo Instintivo](/dotes/druida/apoyo-instintivo/) | Cuando apoyas a tu compañero animal, éste te apoya a su v... | Druida | Compañero animal |
-| [Castigo de la Tormenta](/dotes/druida/castigo-de-la-tormenta/) | Te revuelves, dirigiendo una explosión de furia tormentos... | Druida | Tienes disponible por lo menos 1 Punto de Foco. |
-| [Conjuro de Corriente](/dotes/druida/conjuro-de-corriente/) | Mientras usas tu magia para manipular aire y agua, haces ... | Concentrar, Druida, Moldeo de conjuros | — |
-| [Crecido del Roble](/dotes/druida/crecido-del-roble/) | Puedes hacer que tu piel adopte la apariencia leñosa de u... | Druida | Orden de la hoja |
-| [Forma de Insecto](/dotes/druida/forma-de-insecto/) | Tu comprensión de la vida se expande, permitiéndote imita... | Druida | Forma salvaje |
-| [Lanzamiento de Conjuros Firme](/dotes/druida/lanzamiento-de-conjuros-firme/) | Confiado en tu técnica, no pierdes conjuros fácilmente. S... | Druida | — |
+| [Apoyo Instintivo](/dotes/druida/apoyo-instintivo/) | Tu compañero responde reforzando tus acciones tras canalizar. | Druida | Compañero animal |
+| [Castigo de la Tormenta](/dotes/druida/castigo-de-la-tormenta/) | Lanzas oleada de tempestad contra quien te golpeó. | Druida | Tienes disponible por lo menos 1 Punto de Foco. |
+| [Conjuro de Corriente](/dotes/druida/conjuro-de-corriente/) | Mientras usas tu magia para manipular aire y agua, haces girar algunas de sus corrientes para que formen una barrera a tu alrededor. Si tu siguient... | Concentrar, Druida, Moldeo de conjuros | — |
+| [Crecido del Roble](/dotes/druida/crecido-del-roble/) | Tú y tu familiar ganan aspecto leñoso y resiliencia. | Druida | Orden de la hoja |
+| [Forma de Insecto](/dotes/druida/forma-de-insecto/) | Añades formas de insecto a tu forma indómita. | Druida | Forma salvaje |
+| [Lanzamiento de Conjuros Firme](/dotes/druida/lanzamiento-de-conjuros-firme/) | Mantienes conjuros sin perderlos ante interrupciones. | Druida | — |
 
 ## Nivel 8
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Alzar Megalito](/dotes/druida/alzar-megalito/) | Alzas un monumento druídico, como por ejemplo un menhir o... | Druida | — |
-| [Compañero Sensacional](/dotes/druida/companero-sensacional/) | Tu compañero animal continúa creciendo y desarrollándose.... | Druida | Compañero animal maduro |
-| [Exhibición Deimática](/dotes/druida/exhibicion-deimatica/) | Imitando las exhibiciones de amenaza de los animales, te ... | Druida | rango entrenado en Intimidación |
-| [Forma Feroz](/dotes/druida/forma-feroz/) | Has dominado la forma de los dinosaurios. Añade las forma... | Druida | Forma salvaje |
-| [Forma Voladora](/dotes/druida/forma-voladora/) | Unas alas te liberan de los grilletes de la superficie. A... | Druida | Forma salvaje |
-| [Llamador del Viento](/dotes/druida/llamador-del-viento/) | Vinculas los vientos a tu voluntad para que te ayuden, tr... | Druida | Orden de la tormenta |
-| [Llamador Feérico](/dotes/druida/llamador-feerico/) | Has aprendido algunos de los trucos que las hadas utiliza... | Druida | — |
-| [Restablecimiento Floral](/dotes/druida/restablecimiento-floral/) | Solicitas que las plantas cercanas comparten contigo su v... | Curación, Druida, Vitalidad | orden de la hoja |
+| [Alzar Megalito](/dotes/druida/alzar-megalito/) | Levantas un monumento druídico para crear una defensa primordial. | Druida | — |
+| [Compañero Sensacional](/dotes/druida/companero-sensacional/) | Tu compañero animal evoluciona a versión ágil o salvaje. | Druida | Compañero animal maduro |
+| [Exhibición Deimática](/dotes/druida/exhibicion-deimatica/) | Usas intimidación feroz para asustar a los enemigos como animal. | Druida | rango entrenado en Intimidación |
+| [Forma Feroz](/dotes/druida/forma-feroz/) | Añades formas de dinosaurio a tu forma indómita. | Druida | Forma salvaje |
+| [Forma Voladora](/dotes/druida/forma-voladora/) | Adquieres formas voladoras como murciélago y pájaro. | Druida | Forma salvaje |
+| [Llamador del Viento](/dotes/druida/llamador-del-viento/) | Dominas los vientos para moverte y volar en combate. | Druida | Orden de la tormenta |
+| [Llamador Feérico](/dotes/druida/llamador-feerico/) | Canalizas trucos faéricos para añadir ilusiones a tu magia. | Druida | — |
+| [Restablecimiento Floral](/dotes/druida/restablecimiento-floral/) | Solicitas que las plantas cercanas comparten contigo su vitalidad para restablecer tu cuerpo y tu magia. Recuperas 1 Punto de Foco y 4d8 Puntos de ... | Curación, Druida, Vitalidad | orden de la hoja |
 
 ## Nivel 10
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Arma Prístina](/dotes/druida/arma-pristina/) | Tu arma verde puede atravesar las resistencias de las cri... | Druida | Arma verde |
-| [Aullido Primigenio](/dotes/druida/aullido-primigenio/) | Tu compañero puede emitir un aullido imbricado en tu magi... | Druida | Compañero sensacional |
-| [Codo con Codo](/dotes/druida/codo-con-codo/) | Tu compañero animal y tú lucháis en tándem, distrayendo a... | Druida | Compañero animal |
-| [Conjuro Atronador](/dotes/druida/conjuro-atronador/) | Tu relámpago corta el aire, generando una atronadora onda... | Druida, Moldeo de conjuros, Sónico | Orden de la tormenta |
-| [Energía Abrumadora](/dotes/druida/energia-abrumadora/) | Con un complejo gesto, haces que el poder primigenio de t... | Druida, Manipular, Moldeo de conjuros | — |
-| [Forma de Planta](/dotes/druida/forma-de-planta/) | Puedes adoptar la forma de una criatura vegetal. Si no di... | Druida | Orden de la hoja o Forma salvaje |
-| [Forma Elemental](/dotes/druida/forma-elemental/) | Entiendes los elementos fundamentales de la Naturaleza, d... | Druida | Forma salvaje |
-| [Transformación Curativa](/dotes/druida/transformacion-curativa/) | Puedes beneficiarte de la magia de cambio de forma para c... | Druida, Moldeo de conjuros | — |
+| [Arma Prístina](/dotes/druida/arma-pristina/) | Tu arma verde ignora resistencias de hierro frío o plata. | Druida | Arma verde |
+| [Aullido Primigenio](/dotes/druida/aullido-primigenio/) | Tu compañero gana maniobra avanzada y opciones adicionales. | Druida | Compañero sensacional |
+| [Codo con Codo](/dotes/druida/codo-con-codo/) | Ataques conjuntos distraen y desequilibran enemigos. | Druida | Compañero animal |
+| [Conjuro Atronador](/dotes/druida/conjuro-atronador/) | Tu relámpago genera onda de choque imponente. | Druida, Moldeo de conjuros, Sónico | Orden de la tormenta |
+| [Energía Abrumadora](/dotes/druida/energia-abrumadora/) | Superas resistencias de un enemigo con un gesto complejo. | Druida, Manipular, Moldeo de conjuros | — |
+| [Forma de Planta](/dotes/druida/forma-de-planta/) | Adoptas la forma de una criatura vegetal una vez al día. | Druida | Orden de la hoja o Forma salvaje |
+| [Forma Elemental](/dotes/druida/forma-elemental/) | Te manifiestas como personificación de un elemento básico. | Druida | Forma salvaje |
+| [Transformación Curativa](/dotes/druida/transformacion-curativa/) | Usas transformaciones para cerrar heridas rápidamente. | Druida, Moldeo de conjuros | — |
 
 ## Nivel 12
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Conjuro de Guirnalda](/dotes/druida/conjuro-de-guirnalda/) | Si tu siguiente acción es Lanzar un conjuro con el rasgo ... | Druida, Manipular, Moldeo de conjuros | Orden de la hoja |
-| [Convocación Primigenia](/dotes/druida/convocacion-primigenia/) | Siempre que convocas a un aliado, puedes potenciarlo con ... | Druida | Llamada salvaje |
-| [Foco Primigenio](/dotes/druida/foco-primigenio/) | Tu conexión con la Naturaleza es particularmente fuerte y... | Druida | — |
-| [Forma de Dragón](/dotes/druida/forma-de-dragon/) | Puedes adoptar la forma de algunas de las criaturas más t... | Druida | Forma voladora |
-| [Oasis Ambulante](/dotes/druida/oasis-ambulante/) | Estás rodeado de energía reconfortante. Tú y tus aliados ... | Druida | rango maestro en Supervivencia |
+| [Conjuro de Guirnalda](/dotes/druida/conjuro-de-guirnalda/) | Creas una guirnalda vegetal al lanzar hechizos de planta o hongo. | Druida, Manipular, Moldeo de conjuros | Orden de la hoja |
+| [Convocación Primigenia](/dotes/druida/convocacion-primigenia/) | Potencias convocas con elementos y obtienes un conjuro extra. | Druida | Llamada salvaje |
+| [Foco Primigenio](/dotes/druida/foco-primigenio/) | Los espíritus te ayudan a recuperar foco rápidamente. | Druida | — |
+| [Forma de Dragón](/dotes/druida/forma-de-dragon/) | Añades formas de dragón a tu forma indómita gracias al vuelo. | Druida | Forma voladora |
+| [Oasis Ambulante](/dotes/druida/oasis-ambulante/) | Proteges a aliados contra extremos térmicos en 60 pies. | Druida | rango maestro en Supervivencia |
 
 ## Nivel 14
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Compañero Especializado](/dotes/druida/companero-especializado/) | Tu compañero animal continúa creciendo en poder y en apti... | Druida | Compañero sensacional |
-| [Metamorfosis Verde](/dotes/druida/metamorfosis-verde/) | Te has convertido en una versión vegetal de ti mismo, obt... | Druida | Orden de la hoja |
-| [Naturaleza Atemporal](/dotes/druida/naturaleza-atemporal/) | Como quiera que la magia primigenia te sustenta, dejas de... | Druida | — |
-| [Sembrar Conjuro](/dotes/druida/sembrar-conjuro/) | Doblas tu conjuro en el interior de una semilla. Si tu si... | Concentrar, Druida, Moldeo de conjuros | — |
-| [Transformación Reactiva](/dotes/druida/transformacion-reactiva/) | Te transformas de forma reflexiva cuando estas en peligro... | Druida | Forma salvaje; Forma de dragón, Forma elemental, Forma de planta o Forma voladora |
+| [Compañero Especializado](/dotes/druida/companero-especializado/) | Tu compañero obtiene una especialización elegida por ti. | Druida | Compañero sensacional |
+| [Metamorfosis Verde](/dotes/druida/metamorfosis-verde/) | Adquieres el rasgo planta al transformarte completamente. | Druida | Orden de la hoja |
+| [Naturaleza Atemporal](/dotes/druida/naturaleza-atemporal/) | Dejas de envejecer y ganas +2 contra efectos de envejecimiento. | Druida | — |
+| [Sembrar Conjuro](/dotes/druida/sembrar-conjuro/) | Doblas tu conjuro en el interior de una semilla. Si tu siguiente acción es Lanzar un conjuro utilizando 1 acción o 2 acciones, en su lugar el conju... | Concentrar, Druida, Moldeo de conjuros | — |
+| [Transformación Reactiva](/dotes/druida/transformacion-reactiva/) | Te transformas automáticamente cuando estás en peligro. | Druida | Forma salvaje; Forma de dragón, Forma elemental, Forma de planta o Forma voladora |
 
 ## Nivel 16
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Brezal Empalador](/dotes/druida/brezal-empalador/) | Puedes llenar una zona con brezos devastadores. Obtienes ... | Druida | orden de la hoja |
-| [Concentración sin Esfuerzo](/dotes/druida/concentracion-sin-esfuerzo/) | Mantienes un conjuro apenas sin pensar. Obtienes de inmed... | Druida | — |
-| [Forma de Monstruosidad](/dotes/druida/forma-de-monstruosidad/) | Te puedes transformar en una poderosa criatura mágica. Añ... | Druida | Forma salvaje |
-| [Vientos Inspiradores](/dotes/druida/vientos-inspiradores/) | Los vientos están ansiosos de mantenerte en el aire. Cuan... | Druida | Orden de la tormenta |
+| [Brezal Empalador](/dotes/druida/brezal-empalador/) | Consigues el conjuro brezal empalador para cubrir zonas devastadoras. | Druida | orden de la hoja |
+| [Concentración sin Esfuerzo](/dotes/druida/concentracion-sin-esfuerzo/) | Prolongas un conjuro extendiendo la acción Mantener. | Druida | — |
+| [Forma de Monstruosidad](/dotes/druida/forma-de-monstruosidad/) | Añades formas monstruosas como gusano púrpura y serpiente marina. | Druida | Forma salvaje |
+| [Vientos Inspiradores](/dotes/druida/vientos-inspiradores/) | Con vientos aliados tus conjuros de aire y electricidad aumentan. | Druida | Orden de la tormenta |
 
 ## Nivel 18
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Control de Forma Perfecto](/dotes/druida/control-de-forma-perfecto/) | Gracias a la magia y a la memoria muscular, puedes perman... | Druida | Control de forma, Fuerza +4 |
-| [Égida Primigenia](/dotes/druida/egida-primigenia/) | Te rodeas de un grueso campo de energía primigenia protec... | Druida | — |
-| [Invocar Desastre](/dotes/druida/invocar-desastre/) | Puedes invocar sobre tus enemigos la furia de la Naturale... | Druida | Llamador del viento |
+| [Control de Forma Perfecto](/dotes/druida/control-de-forma-perfecto/) | Permites que tus formas duren indefinidamente. | Druida | Control de forma, Fuerza +4 |
+| [Égida Primigenia](/dotes/druida/egida-primigenia/) | Generas un campo de energía que otorga resistencia a tus aliados. | Druida | — |
+| [Invocar Desastre](/dotes/druida/invocar-desastre/) | Aprendes señor de la tormenta y desatas catástrofes elementales. | Druida | Llamador del viento |
 
 ## Nivel 20
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Cambiaformas Verdadero](/dotes/druida/cambiaformas-verdadero/) | Trasciendes las limitaciones de la forma. Una vez al día ... | Concentrar, Druida | Forma de dragón, Forma salvaje |
-| [Conducto de Líneas Ley](/dotes/druida/conducto-de-lineas-ley/) | Puedes extraer magia de las líneas Ley del mundo. Si tu s... | Concentrar, Druida, Manipular, Moldeo de conjuros | — |
-| [Poder del Hierofante](/dotes/druida/poder-del-hierofante/) | Te has entretejido con el mundo natural y su poder al com... | Druida | — |
+| [Cambiaformas Verdadero](/dotes/druida/cambiaformas-verdadero/) | Trasciendes las limitaciones de la forma. Una vez al día puedes lanzar *Naturaleza encarnada*, incluso si no lo tienes preparado, para transformart... | Concentrar, Druida | Forma de dragón, Forma salvaje |
+| [Conducto de Líneas Ley](/dotes/druida/conducto-de-lineas-ley/) | Puedes extraer magia de las líneas Ley del mundo. Si tu siguiente acción es Lanzar un conjuro de 5.º rango o menor carente de duración, no gastas e... | Concentrar, Druida, Manipular, Moldeo de conjuros | — |
+| [Poder del Hierofante](/dotes/druida/poder-del-hierofante/) | Obtienes un espacio extra de 10.º nivel para tus conjuros. | Druida | — |
 
