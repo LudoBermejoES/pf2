@@ -144,6 +144,7 @@ def extract_feat_data(file_path):
 ```
 
 **Patrones a detectar:**
+{% raw %}
 ```python
 # Rasgos HTML
 r'<span class="feat-trait">([^<]+)</span>'
@@ -160,6 +161,7 @@ r'\*\*Dote (\d+)\*\* · (.+)'
 # Secciones especiales
 r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Frecuencia|Beneficio|Especial):\*\*\s*(.+?)(?=\n\n|\*\*[A-Z]|$)'
 ```
+{% endraw %}
 
 #### 2.2. Estructura del JSON Generado
 
