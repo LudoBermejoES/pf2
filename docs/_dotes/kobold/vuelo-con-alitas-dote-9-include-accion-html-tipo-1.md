@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /dotes/kobold/vuelo-con-alitas-dote-9-include-accion-html-tipo-1/
+title: Vuelo con alitas · Dote 9 · {% include accion.html tipo="1" %}
+chapter: Dotes
+category: dotes
+ascendencia: Kobold
+level: 9
+---
+
+## Vuelo con alitas · Dote 9 · {% include accion.html tipo="1" %}
+
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/kobold/" class="feat-trait">Kobold</a></div>
+
+**Requisitos:** Alitas
+
+**Frecuencia:** una vez por asalto
+
+El uso intenso y el ejercicio han hecho tus alitas más poderosas. Vuelas. Si normalmente no tienes Velocidad de vuelo, obtienes una Velocidad de vuelo de 20 pies para este movimiento. Si no estás en terreno sólido al final de este movimiento, caes.
+
+---

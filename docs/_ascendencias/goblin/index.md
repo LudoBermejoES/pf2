@@ -73,6 +73,6 @@ Incluso los goblins mejor intencionados tienen problemas para seguir las reglas,
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/goblin/dotes/' | relative_url }})
+- [Dotes](/ascendencias/goblin/dotes_short/)
 - [Herencias]({{ '/ascendencias/goblin/herencias/' | relative_url }})
 - [Cultura y Sociedad]({{ '/ascendencias/goblin/cultura-sociedad/' | relative_url }})

@@ -79,6 +79,6 @@ Los elfos son a menudo emocionales y caprichosos, y sin embargo albergan grandes
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/elfo/dotes/' | relative_url }})
+- [Dotes](/ascendencias/elfo/dotes_short/)
 - [Herencias]({{ '/ascendencias/elfo/herencias/' | relative_url }})
 - [Cultura y Sociedad]({{ '/ascendencias/elfo/cultura-sociedad/' | relative_url }})

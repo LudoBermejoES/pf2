@@ -73,6 +73,6 @@ Aunque los gnomos son tramposos impulsivos con motivos inescrutables y métodos 
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/gnomo/dotes/' | relative_url }})
+- [Dotes](/ascendencias/gnomo/dotes_short/)
 - [Herencias]({{ '/ascendencias/gnomo/herencias/' | relative_url }})
 - [Cultura y Sociedad]({{ '/ascendencias/gnomo/cultura-sociedad/' | relative_url }})

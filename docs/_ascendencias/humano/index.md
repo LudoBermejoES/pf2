@@ -84,6 +84,6 @@ Los personajes de los grupos etnicos humanos de la Region del mar Interior habla
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/humano/dotes/' | relative_url }})
+- [Dotes](/ascendencias/humano/dotes_short/)
 - [Herencias]({{ '/ascendencias/humano/herencias/' | relative_url }})
 - [Cultura y Sociedad]({{ '/ascendencias/humano/cultura-sociedad/' | relative_url }})

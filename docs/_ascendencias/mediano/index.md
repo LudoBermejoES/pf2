@@ -74,6 +74,6 @@ A los medianos les gustan los dioses que, o bien conceden suerte, como **Desna**
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/mediano/dotes/' | relative_url }})
+- [Dotes](/ascendencias/mediano/dotes_short/)
 - [Herencias]({{ '/ascendencias/mediano/herencias/' | relative_url }})
 - [Cultura y Sociedad]({{ '/ascendencias/mediano/cultura-sociedad/' | relative_url }})

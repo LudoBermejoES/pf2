@@ -72,6 +72,6 @@ Los enanos tienden a valorar el honor y a seguir ferreamente las tradiciones de 
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/enano/dotes/' | relative_url }})
+- [Dotes](/ascendencias/enano/dotes_short/)
 - [Herencias]({{ '/ascendencias/enano/herencias/' | relative_url }})
 - [Cultura y Sociedad]({{ '/ascendencias/enano/cultura-sociedad/' | relative_url }})

@@ -75,6 +75,6 @@ La mayoría de los hobgoblins prefieren vivir dentro de jerarquías establecidas
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/hobgoblin/dotes/' | relative_url }})
+- [Dotes](/ascendencias/hobgoblin/dotes_short/)
 - [Herencias]({{ '/ascendencias/hobgoblin/herencias/' | relative_url }})
 - [Cultura y Sociedad]({{ '/ascendencias/hobgoblin/cultura-sociedad/' | relative_url }})

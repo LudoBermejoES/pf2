@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: /dotes/tengu/agilidad-prodigiosa-dote-1/
+title: Agilidad prodigiosa · Dote 1
+chapter: Dotes
+category: dotes
+ascendencia: Tengu
+level: 1
+---
+
+## Agilidad prodigiosa · Dote 1
+
+<div class="feat-traits-header" markdown="0"><a href="/apendices/rasgos/tengu/" class="feat-trait">Tengu</a></div>
+
+Posees un aplomo casi sobrenatural que te permite moverte con rapidez sobre las superficies más inestables. Obtienes la dote de habilidad Mantener el equilibrio con firmeza. Puedes Dar un paso en terreno difícil causado por terreno irregular, como un campo pedregoso, una pendiente ondulada o un barco que se mece.
+
+---

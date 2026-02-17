@@ -79,6 +79,6 @@ La mayoría de los iruxi no se preocupan por grandes cuestiones morales y centra
 
 ## Selecciones relacionadas
 
-- [Dotes]({{ '/ascendencias/hombres-lagarto/dotes/' | relative_url }})
+- [Dotes](/ascendencias/hombres-lagarto/dotes_short/)
 - [Herencias]({{ '/ascendencias/hombres-lagarto/herencias/' | relative_url }})
 - [Cultura y Sociedad]({{ '/ascendencias/hombres-lagarto/cultura-sociedad/' | relative_url }})
