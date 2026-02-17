@@ -1259,6 +1259,15 @@ tbody tr:last-child td {
   border-radius: 2px;
 }
 
+/* Feat Level Badge - Right-aligned with gold theme */
+.feat-trait.feat-level {
+  margin-left: auto;
+  background: var(--pf-gold-dark);
+  color: var(--parchment);
+  border-color: var(--pf-gold);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
 /* Action Symbols */
 .action-cost {
   display: inline-flex;
@@ -1613,24 +1622,6 @@ tbody tr:last-child td {
   background-color: #fff3e0;
   color: #e65100;
   border-color: #e65100;
-}
-
-/* Level Badge - Feat level indicator */
-.level-badge {
-  display: inline-block;
-  margin-left: var(--spacing-md);
-  padding: 0.35rem 0.7rem;
-  font-size: 0.65rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  border-radius: 3px;
-  border: 1px solid;
-  vertical-align: middle;
-  font-family: var(--font-display);
-  background-color: #fef4e6;
-  color: var(--pf-gold-dark);
-  border-color: var(--pf-gold);
 }
 
 /* ============================================
