@@ -19,7 +19,7 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 |------|-------------|--------|------------|
 | [Abandonado](/dotes/elfo/abandonado/) | Tu melancolía te protege de emociones dañinas. | Elfo | — |
 | [Elfo ágil](/dotes/elfo/elfo-agil/) | Tu musculatura bien entrenada mejora tu agilidad innata. | Elfo | — |
-| [Familiaridad con las armas de los elfos](/dotes/elfo/familiaridad-con-las-armas-de-los-elfos/) | Dominas arcos y armas elegantes élficas sin esfuerzo. | Elfo | — |
+| [Familiaridad con las armas de los elfos](/dotes/elfo/familiaridad-con-las-armas-de-los-elfos/) | Dominas arcos y armas élficas elegantes con soltura. | Elfo | — |
 | [Longevidad ancestral](/dotes/elfo/longevidad-ancestral/) | Años de vida te llenan de experiencia práctica y conocimiento. | Elfo | Por lo menos cien años de edad |
 | [Magia de otro mundo](/dotes/elfo/magia-de-otro-mundo/) | Obtienes un conjuro arcano innato típico de tu sangre élfica. | Elfo | — |
 | [Saber de los elfos](/dotes/elfo/saber-de-los-elfos/) | Estudias la magia y la historia de tu pueblo con profundidad. | Elfo | — |
@@ -46,8 +46,8 @@ A 1.er nivel, obtienes una dote de ascendencia y otra adicional cada 4 niveles p
 
 | Dote | Descripción | Rasgos | Requisitos |
 |------|-------------|--------|------------|
-| [Longevidad universal](/dotes/elfo/longevidad-universal/) | Mantienes todas tus habilidades frescas después de siglos de práctica. | Elfo, Fortuna | Longevidad ancestral |
-| [Vengar aliado](/dotes/elfo/vengar-aliado/) | Cuando un aliado cae, atacas con claridad para vengarlo. | Elfo, Fortuna | Estás a 30 pies (9 m) o menos de un aliado con el estado moribundo. |
+| [Longevidad universal](/dotes/elfo/longevidad-universal/) | Preservas todas tus habilidades tras siglos de práctica. | Elfo, Fortuna | Longevidad ancestral |
+| [Vengar aliado](/dotes/elfo/vengar-aliado/) | Atacas con claridad siempre que un aliado cae. | Elfo, Fortuna | Estás a 30 pies (9 m) o menos de un aliado con el estado moribundo. |
 
 ## Nivel 17
 
