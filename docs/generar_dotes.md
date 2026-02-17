@@ -91,7 +91,13 @@ De los archivos markdown actuales en `docs/_dotes/`, extraer:
 - Dotes generales: `docs/_dotes/generales/`
 - Dotes de habilidad: `docs/_dotes/habilidad/{habilidad}/`
 
-**Total estimado:** ~1,837 archivos de dotes individuales
+**Total real:** 1,840 archivos de dotes individuales
+
+**Estado del formato (análisis realizado):**
+- 1,806 archivos con formato actual (`<div class="feat-traits-header" markdown="0">`)
+- 20 archivos con formato div antiguo (sin `markdown="0"`)
+- 256 archivos con línea legacy `**Dote X** · Rasgo` que debería eliminarse
+- 14 dotes de bárbaro usan "Detonante:" en lugar de "Desencadenante:"
 
 **Estructura estándar de archivo de dote:**
 ```markdown
@@ -150,12 +156,19 @@ Descripción principal de la dote con mecánicas y efectos...
 - `requirements`: Requisitos (condiciones que deben cumplirse al usar la dote)
   - Ejemplos: "Empuñas un broquel", "Estas adyacente a un enemigo", "No estas sobrecargado"
   - Diferencia con prerequisites: requirements son condiciones temporales, prerequisites son permanentes
-- `trigger`: Desencadenante (para dotes de reacción y algunas acciones libres)
+- `trigger`: Desencadenante o Detonante (para dotes de reacción y algunas acciones libres)
+  - **IMPORTANTE**: Algunos archivos usan "Detonante:" (14 dotes de bárbaro) en lugar de "Desencadenante:"
   - Ejemplos: "Eres objetivo de un ataque a distancia", "Caes", "Tu turno comienza"
 - `frequency`: Frecuencia (limitaciones de uso temporal)
   - Ejemplos: "una vez cada 10 minutos", "una vez por dia", "una vez por combate"
+- `cost`: Coste (recursos que deben gastarse)
+  - Ejemplos: "Gastar un conjuro de dañar o de curar", "El Precio del objeto elegido"
+  - Solo 2 archivos usan este campo
+- `effect`: Efecto (efectos específicos, especialmente en dotes de familiares)
+  - 6 archivos usan "**Efecto:**" para describir efectos detallados
 - `description`: Descripción principal de la dote
 - `benefit`: Beneficio (si está separado de la descripción como sección aparte)
+  - Común en dotes de ascendencias y generales antiguas
 - `special`: Texto especial (notas adicionales, casos especiales)
 - `critical_success/success/failure/critical_failure`: Resultados (para dotes que requieren tiradas)
 
@@ -222,9 +235,11 @@ r'\*\*Dote (\d+)\*\* · (.+)'
 
 # Secciones especiales - IMPORTANTE: Manejar ambos formatos (con y sin dos puntos)
 # Formato 1: Con dos puntos
-r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Frecuencia|Beneficio|Especial):\*\*\s*(.+?)(?=\n\n|\*\*[A-Z]|$)'
+r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Detonante|Frecuencia|Coste?|Efecto|Beneficio|Especial):\*\*\s*(.+?)(?=\n\n|\*\*[A-Z]|$)'
 # Formato 2: Sin dos puntos (algunos archivos legacy)
-r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Frecuencia|Beneficio|Especial)\*\*\s+(.+?)(?=\n\n|\*\*[A-Z]|$)'
+r'\*\*(Prerrequisitos?|Requisitos|Desencadenante|Detonante|Frecuencia|Coste?|Efecto|Beneficio|Especial)\*\*\s+(.+?)(?=\n\n|\*\*[A-Z]|$)'
+
+# NOTA: "Detonante" es una variante usada en 14 dotes de bárbaro (debería ser "Desencadenante")
 
 # Resultados de acciones (dotes con tiradas)
 r'\*\*(Exito critico|Exito|Fallo critico|Fallo)\*\*\s*(.+?)(?=\n\n|\*\*[A-Z]|$)'
