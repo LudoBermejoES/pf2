@@ -10,16 +10,30 @@ source: PC1
 
 ## Introduccion
 
-Las dotes generales representan habilidades y talentos que cualquier personaje puede adquirir. Se dividen en dos categorias principales:
+Las dotes son habilidades especiales que tu personaje puede adquirir a medida que avanza de nivel. Representan entrenamiento, talento innato o poderes sobrenaturales que definen las capacidades únicas de tu personaje.
 
-- **Dotes generales (no de habilidad)**: Otorgan capacidades generales que no dependen de habilidades especificas.
-- **Dotes de habilidad**: Requieren competencia en una habilidad especifica y la mejoran. Cuando seleccionas una dote de habilidad, debes elegir una dote general con el rasgo habilidad.
-
-Ademas de las dotes de habilidad asociadas a cada habilidad especifica, existen dotes que pueden adquirirse con diversas habilidades o incluso con todas, como Seguro.
+Existen varios tipos de dotes según su origen y propósito:
 
 ---
 
-## Contenido Relacionado
+## Tipos de Dotes
 
-- [Dotes Generales]({{ '/dotes/generales/' | relative_url }})
-- [Dotes de Habilidad]({{ '/dotes/habilidad/' | relative_url }})
+### [Dotes de Ascendencia]({{ '/dotes/ascendencias/' | relative_url }})
+
+Habilidades únicas que reflejan la herencia y cultura de tu personaje. Cada ascendencia ofrece dotes distintivas que aprovechan sus características raciales.
+
+### [Dotes de Clase]({{ '/dotes/clases/' | relative_url }})
+
+Habilidades especializadas que definen tu dominio de tu profesión. Cada clase tiene un árbol único de dotes que moldea tu estilo de juego.
+
+### [Dotes de Arquetipo]({{ '/dotes/arquetipos/' | relative_url }})
+
+Permiten ramificarte hacia conceptos únicos, combinando habilidades de múltiples clases o especializándote en roles específicos mediante arquetipos multiclase o de especialización.
+
+### [Dotes Generales]({{ '/dotes/generales/' | relative_url }})
+
+Habilidades y talentos que cualquier personaje puede adquirir, independientemente de su ascendencia o clase. Representan capacidades universales.
+
+### [Dotes de Habilidad]({{ '/dotes/habilidad/' | relative_url }})
+
+Mejoran tu competencia en habilidades específicas. Requieren entrenamiento en la habilidad correspondiente y la potencian con usos especiales.
