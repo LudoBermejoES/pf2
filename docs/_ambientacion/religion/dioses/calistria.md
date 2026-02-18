@@ -79,6 +79,13 @@ Las interacciones de Calistria con otros dioses son complejas y están llenas de
 
 Por ejemplo, una historia dice que ella rechazó a Cayden Cailean, diciendo que ningún mortal podría disfrutar de sus encantos y sobrevivir, así que él tomó la Prueba de la Piedra Estelar por la oportunidad de estar con ella como dios.
 
+La iglesia colabora con otros templos según lo beneficiosa o placentera que sea la propuesta. Si otro templo pide ayuda para un acto de venganza, los sacerdotes votan si vale su tiempo y esfuerzo.
+
+- **Cayden Cailean:** Algunas historias aseguran que Calistria tuvo relaciones íntimas con él. Sus iglesias son amistosas; en ciudades con templos de ambos, los sacerdotes de Calistria aportan el entretenimiento y los de Cayden Cailean las bebidas.
+- **Shelyn:** Calistria desea a Shelyn como amante, pero Shelyn rechaza sus avances pues la atracción de Calistria es exclusivamente carnal. Aun así, sus templos mantienen relaciones cordiales.
+- **Desna:** Calistria la respeta; los devotos del Canto de las Esferas pueden expresarse libremente en sus templos.
+- **Rovagug:** Calistria desempeñó un papel clave en la batalla contra Rovagug y ayudó a sellarlo. Ve a sus seguidores como un obstáculo a su hedonismo y suele negarse a trabajar con ellos.
+
 ## Sacerdotes y la Iglesia
 
 Los sacerdotes de Calistria son usualmente bardos o clérigos, aunque en algunos lugares lanzadores de conjuros más exóticos son la norma para el clero. Como grupo son una fuerza reactiva más que proactiva, contentos de dejar que el mundo progrese a su propio ritmo hasta que algo los provoque.
@@ -105,15 +112,6 @@ Muchos templos celebran los siguientes festivales, todos en Calistril. Los fiele
 - **El Ritual del Latigazo** (1 de Calistril): El día de la venganza. Los sacerdotes escuchan disputas y negocian con todas las partes hasta acordar un acto público de revancha. Una vez que el agraviado ejecuta su venganza, el asunto queda zanjado y se prohíbe represalias adicionales.
 - **Banquete del Vigor** (14 de Calistril): Amantes y hedonistas se reúnen para una celebración ruidosa del placer.
 - **Triunfo de los Embusteros** (29 de Calistril, cada cuatro años): La celebración del engaño ocurre cada cuatro años. Tan elusiva como su fecha, los fieles se juntan por la noche para disfrazarse y causar estragos a quienes los han perjudicado.
-
-## Relaciones con Otras Deidades (ampliado)
-
-La iglesia colabora con otros templos según lo beneficiosa o placentera que sea la propuesta. Si otro templo pide ayuda para un acto de venganza, los sacerdotes votan si vale su tiempo y esfuerzo.
-
-- **Cayden Cailean:** Algunas historias aseguran que Calistria tuvo relaciones íntimas con él. Sus iglesias son amistosas; en ciudades con templos de ambos, los sacerdotes de Calistria aportan el entretenimiento y los de Cayden Cailean las bebidas.
-- **Shelyn:** Calistria desea a Shelyn como amante, pero Shelyn rechaza sus avances pues la atracción de Calistria es exclusivamente carnal. Aun así, sus templos mantienen relaciones cordiales.
-- **Desna:** Calistria la respeta; los devotos del Canto de las Esferas pueden expresarse libremente en sus templos.
-- **Rovagug:** Calistria desempeñó un papel clave en la batalla contra Rovagug y ayudó a sellarlo. Ve a sus seguidores como un obstáculo a su hedonismo y suele negarse a trabajar con ellos.
 
 ## Aliados Divinos
 
