@@ -73,13 +73,21 @@ El avatar de Erastil es un viejo trampero erguido con piel curtida, vestido con 
 
 ## Relaciones con Otras Deidades
 
-Erastil puede ser brusco y reservado, pero todavía está en buenos términos con la mayoría de las deidades no malvadas de Golarion.
+Erastil puede ser brusco y reservado, pero todavía está en buenos términos con la mayoría de las deidades no malvadas de Golarion. Mantiene un fuerte vínculo con Gozreh y la Fe Verde, y un reconocimiento amistoso de otras deidades de la naturaleza. Aunque domesticado en los tiempos modernos, Erastil conserva en su interior al antiguo dios de la caza. La agricultura exige conexión con los elementos, y el Padre Alce mantiene esas conexiones con rigor. Sus fieles tienen una sólida relación comercial con druidas y seguidores de Gozreh, y a menudo piden a druidas ayuda con el cultivo o la ganadería cuando un reto supera su conocimiento.
 
-**Sobre Abadar:** Entiende el impulso de Abadar pero cree que el "niño dorado" ha perdido su brújula moral en la búsqueda de la civilización y la riqueza.
+Las relaciones con Abadar son amistosas pero tensas: los seguidores del Amo de la Primera Bóveda pueden convertir la riqueza en obsesión, y los dos dioses tienen ideas distintas de lo que implica la civilización. Los fieles de ambos se llevan mejor cuando trabajan hacia un objetivo común.
+
+Las deidades asociadas a la libertad —Shelyn, Desna o Cayden Cailean— dejan al Padre Alce malhumorado, como la confusión de un patriarca anciano ante una generación enérgica y experimentadora. Con una aceptación a regañadientes, sus seguidores son bienvenidos, aunque todos saben que esas relaciones suelen ser efímeras.
+
+Erastil siente un gran respeto por Kazutal y Torag, ambos dioses antiguos con firme arraigo en la comunidad. Aunque no siempre aprueba su militancia, sus seguidores acuden a ayudar a los suyos en tiempos de crisis y viceversa, y el Viejo Certero aprecia esa lealtad.
 
 **Sobre Sarenrae:** Algunas historias la describen como su hija, otras como su esposa o hermana.
 
-**Otras relaciones:** Ha encontrado un equilibrio con Gozreh, le desagrada Gorum por su belicismo, y mantiene al inestable Nethys a distancia.
+Erastil está casado con **Jaidi**, una antigua diosa azlanti de la agricultura. Los académicos afirman que Erastil tomó su dominio, aunque Jaidi, por razones propias, dejó que el Viejo Certero lo gestionara. Si eso explica por qué el dios de la caza se convirtió en dios de la comunidad y la agricultura, Erastil se niega a decirlo: es un asunto privado entre él y su esposa. Existen relatos de Jaidi recuperando su protagonismo y retomando su manto agrícola; de hecho, algunos sacerdotes de Erastil han adoptado la veneración conjunta de ambas deidades, tratando a la familia inmediata de Erastil como un panteón agrupado.
+
+Su hijo **Cernunnos**, un Señor Empíreo, aparece como un elfo con cornamenta de ciervo y representa las fuerzas primigenias de la naturaleza. El Padre Alce desaprobó la agresiva guerra de su hijo contra el Infierno y las Fisuras Exteriores, y solo vio confirmadas sus dudas cuando Cernunnos desapareció combatiendo a Garhaazh el Rey Primordial, hermano de Dahak. Erastil arde de dolor y rabia por esa pérdida, pero no puede abandonar sus responsabilidades con el cosmos y sus seguidores, ni siquiera por el duelo o la venganza.
+
+Su hija **Halcamora**, también Señora Empírea, aparece como una mujer con alas de mariquita y dos antenas, y vela por jardines, parques y viñedos. Erastil considera que sus dominios están demasiado enamorados del desarrollo excesivo y la superficialidad de las ciudades, aunque aprecia los útiles insectos de Halcamora y el ocasional regalo de vino. Y si algún raro viticultor o apicultor ha visto al Padre Alce jugar con su hija entre las vides y las colmenas, suele tener el buen juicio de guardarlo para sí.
 
 ## Sacerdotes y la Iglesia
 
@@ -106,22 +114,6 @@ La iglesia de Erastil ha cambiado poco desde los primeros siglos de su existenci
 - **Festín del Arquero** (3 de Erastus): El punto medio del verano se celebra con juegos físicos —tiro con arco, lanzamiento de piedras, rodeo, tiro de cuerda y similares— y es la fecha tradicional para propuestas y anuncios de boda. Los seguidores hacen una ofrenda animal al final, coronada con un festín.
 - **Festín de la Cosecha:** Celebrado en el equinoccio otoñal, es también una semana de trabajo que culmina en una gran celebración antes del invierno. El festival incluye concursos de buen talante: la calabaza más grande, el trabajador más constante (no el más fuerte), el mejor animal productor, el mejor pastel y más.
 - **Semana de la Siembra:** Coincide con el equinoccio primaveral y funciona menos como festividad y más como un gran impulso para iniciar la temporada agrícola. La comunidad proporciona abundante comida y bebida cada noche para mantener los ánimos altos y los cuerpos recuperados.
-
-## Relaciones con Otras Deidades (ampliado)
-
-Erastil mantiene un fuerte vínculo con Gozreh y la Fe Verde, y un reconocimiento amistoso de otras deidades de la naturaleza. Aunque domesticado en los tiempos modernos, Erastil conserva en su interior al antiguo dios de la caza. La agricultura exige conexión con los elementos, y el Padre Alce mantiene esas conexiones con rigor. Sus fieles tienen una sólida relación comercial con druidas y seguidores de Gozreh, y a menudo piden a druidas ayuda con el cultivo o la ganadería cuando un reto supera su conocimiento.
-
-Las relaciones con Abadar son amistosas pero tensas: los seguidores del Amo de la Primera Bóveda pueden convertir la riqueza en obsesión, y los dos dioses tienen ideas distintas de lo que implica la civilización. Los fieles de ambos se llevan mejor cuando trabajan hacia un objetivo común.
-
-Las deidades asociadas a la libertad —Shelyn, Desna o Cayden Cailean— dejan al Padre Alce malhumorado, como la confusión de un patriarca anciano ante una generación enérgica y experimentadora. Con una aceptación a regañadientes, sus seguidores son bienvenidos, aunque todos saben que esas relaciones suelen ser efímeras.
-
-Erastil siente un gran respeto por Kazutal y Torag, ambos dioses antiguos con firme arraigo en la comunidad. Aunque no siempre aprueba su militancia, sus seguidores acuden a ayudar a los suyos en tiempos de crisis y viceversa, y el Viejo Certero aprecia esa lealtad.
-
-Erastil está casado con **Jaidi**, una antigua diosa azlanti de la agricultura. Los académicos afirman que Erastil tomó su dominio, aunque Jaidi, por razones propias, dejó que el Viejo Certero lo gestionara. Si eso explica por qué el dios de la caza se convirtió en dios de la comunidad y la agricultura, Erastil se niega a decirlo: es un asunto privado entre él y su esposa. Existen relatos de Jaidi recuperando su protagonismo y retomando su manto agrícola; de hecho, algunos sacerdotes de Erastil han adoptado la veneración conjunta de ambas deidades, tratando a la familia inmediata de Erastil como un panteón agrupado.
-
-Su hijo **Cernunnos**, un Señor Empíreo, aparece como un elfo con cornamenta de ciervo y representa las fuerzas primigenias de la naturaleza. El Padre Alce desaprobó la agresiva guerra de su hijo contra el Infierno y las Fisuras Exteriores, y solo vio confirmadas sus dudas cuando Cernunnos desapareció combatiendo a Garhaazh el Rey Primordial, hermano de Dahak. Erastil arde de dolor y rabia por esa pérdida, pero no puede abandonar sus responsabilidades con el cosmos y sus seguidores, ni siquiera por el duelo o la venganza.
-
-Su hija **Halcamora**, también Señora Empírea, aparece como una mujer con alas de mariquita y dos antenas, y vela por jardines, parques y viñedos. Erastil considera que sus dominios están demasiado enamorados del desarrollo excesivo y la superficialidad de las ciudades, aunque aprecia los útiles insectos de Halcamora y el ocasional regalo de vino. Y si algún raro viticultor o apicultor ha visto al Padre Alce jugar con su hija entre las vides y las colmenas, suele tener el buen juicio de guardarlo para sí.
 
 ## Aliados Divinos
 
