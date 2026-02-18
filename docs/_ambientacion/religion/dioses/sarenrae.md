@@ -79,6 +79,10 @@ La diosa da la bienvenida a todas las deidades no malvadas y trata a la mayoría
 
 **Enemigo declarado:** Rovagug es su único enemigo declarado, pues su destrucción sin sentido se opone a su naturaleza generosa y ella todavía recuerda el aguijón de sus ataques en la batalla donde lo aprisionó hace eones.
 
+- **Abadar:** Comparte intereses por su sistema legal; trabajan juntos para la justicia.
+- **Cayden Cailean y Norgorber:** Sus compañeros Ascendidos tienen una relación enigmática. Ambos son queridos por la humanidad y comparten el odio a los déspotas. La relación con Norgorber es tensa, pues su moralidad choca.
+- **Arazni:** Relación complicada. Cuando Arazni fue heraldo de Aroden, Sarenrae la ayudó frente al Tirano. Tras el robo del cuerpo de Arazni surgieron malentendidos. Hoy Sarenrae quiere enmendarlo, pero no comparte la visión sombría de Arazni; la otra la considera ingenua pero aún siente algo de orgullo.
+
 ## Sacerdotes y la Iglesia
 
 La mayoría de los sacerdotes de Sarenrae son clérigos, aunque hay muchos paladines y guardabosques y un puñado de druidas del sol y bardos del sol. Son responsables de bendecir tierras de cultivo, organizar celebraciones de siembra y cosecha, atender a los enfermos y heridos, custodiar o rehabilitar criminales, o simplemente predicar a otros usando parábolas simples.
@@ -111,13 +115,6 @@ La mayoría de los sacerdotes no aventureros viven de donaciones de su congregac
 - **Armasse:** El 16 de Arodus se entrena a civiles, se nombran escuderos y se ordenan nuevos sacerdotes. Hay justas, duelos y demostraciones.
 - **Luna del Recuerdo:** La primera luna llena de Desnus, especialmente en Ustalav y entre refugiados de Gravelands, recuerda a quienes murieron ante el Tirano Susurrante; toma mayor relevancia tras la fuga de Tar-Baphon.
 
-## Relaciones con Otras Deidades (ampliado)
-
-- **Abadar:** Comparte intereses por su sistema legal; trabajan juntos para la justicia.
-- **Cayden Cailean y Norgorber:** Sus compañeros Ascendidos tienen una relación enigmática. Ambos son queridos por la humanidad y comparten el odio a los déspotas. La relación con Norgorber es tensa, pues su moralidad choca.
-- **Arazni:** Relación complicada. Cuando Arazni fue heraldo de Aroden, Sarenrae la ayudó frente al Tirano. Tras el robo del cuerpo de Arazni surgieron malentendidos. Hoy Sarenrae quiere enmendarlo, pero no comparte la visión sombría de Arazni; la otra la considera ingenua pero aún siente algo de orgullo.
-- **Rovagug:** Su único enemigo declarado, cuya destrucción sin sentido se opone totalmente a su naturaleza.
-
 ## Aliados Divinos
 
 Sus sirvientes incluyen ángeles, arcontes y cualquier entidad dispuesta a aliarse con la justicia. Muchos dragones se unen a sus ejércitos y valquirias acompañan sus tropas.
@@ -126,22 +123,28 @@ Sus sirvientes incluyen ángeles, arcontes y cualquier entidad dispuesta a aliar
 
 ## Intercesión Divina
 
-**Bendición menor:** Siempre estás impecable. Tu ropa y persona están limpias, tu espada y armadura brillantes. No evita enfermedades, pero funciona como si te hubieras aseado.
+Sarenrae suele otorgar bendiciones a quienes hacen un sacrificio para mejorar o asumen un riesgo para redimir a otro. Suele maldecir a quienes traicionan su misericordia.
 
-**Bendición moderada:** Tu corazón late con valor. Una vez, Sarenrae elimina todos los efectos negativos (salvo artefactos o deidades), restaura Golpes, conjuros, puntos de enfoque y recursos diarios.
+**Bendición menor:** Tus manos sanadoras están bendecidas con una llama cálida. Una vez, al curar a otra criatura, en lugar de curarla por la cantidad normal, la curas hasta sus Golpes máximos sin importar el daño recibido. Sarenrae suele conceder esta bendición en circunstancias de enorme trascendencia.
 
-**Bendición mayor:** Imbuye tu espada. Las espadas largas ganan runas axioma, sagradas y mayor impacto mientras las sostienes. Si superas el límite de runas, eliges cada día cuáles conservar. Ganas +2 a ataques con espadas largas.
+**Bendición moderada:** Tu hoja quema a los irredimibles. Tus ataques infligen 1d6 de daño de fuego adicional que ignora la resistencia al fuego.
 
-**Maldición menor:** Armas y armaduras se oscurecen y vuelven a tener la mitad de PG y UM.
+**Bendición mayor:** Eres una voz de paz y rehabilitación. Cuando obtienes un éxito en una prueba para Solicitar algo, obtienes un éxito crítico en su lugar. Además, todas las criaturas salvo demonios, no-muertos y criaturas sin mente te permiten hablar y hacer peticiones antes de entrar en combate. Si tú o un aliado empleáis ese tiempo para obtener ventaja en el combate posterior (lanzando hechizos preparatorios, posicionándoos para el combate o esperando los hechizos preparatorios del oponente), Sarenrae revoca inmediatamente esta bendición, o posiblemente maldice a tu aliado.
 
-**Maldición moderada:** Las ventajas tácticas fallan. No recibes bonos circunstanciales y los enemigos no pierden penalizadores.
+**Maldición menor:** El sol te quema por tu transgresión. Sufres una quemadura solar que te causa permanentemente la condición de torpe 1.
 
-**Maldición mayor:** Todas las armas te rechazan. Se rompen automáticamente tras cada ataque. No afecta artefactos.
+**Maldición moderada:** El sol ilumina todo lo que dices. Eres incapaz de mentir; si lo intentas, blurtas compulsivamente la verdad sobre el asunto en cuestión. Puedes seguir ocultando información o mentir por omisión.
+
+**Maldición mayor:** Sarenrae restringe tu capacidad de dañar a otros. Todos los ataques que realices, conjuros que lances y otras fuentes de daño son no letales excepto contra demonios y no-muertos, y no puedes hacerlos letales. Infliges el daño mínimo excepto contra demonios y no-muertos. Todas las criaturas salvo demonios y no-muertos obtienen un bono de estado +4 a su CA y tiradas de salvación contra tus ataques y efectos.
 
 ## Reino
 
-Su dominio es un paisaje verde con fortalezas y murallas, influenciado por la arquitectura de Axis y adornado con torres celestiales. Allí se reúnen estrategas y se entrenan legiones.
+Sarenrae reside con frecuencia en la Luz Eterna, el sol ardiente que pende sobre los campos pastorales, las impresionantes montañas y los espesos bosques de Nirvana. Allí, ella y los celestiales para quienes actúa como general pueden planificar acciones militares en conferencia abierta, pues poderosas barreras impiden que quienes desearían hacerles daño puedan siquiera entrar al plano.
+
+Torres llameantes y cúpulas redondeadas de pura llama y energía, tan brillantes que hasta los celestiales deben protegerse los ojos de vez en cuando, conducen a grandes salones con ventanas de cristal puro. Desde aquí, Sarenrae puede observar todo Nirvana y vigilar a sus peticionarios para encontrar entre ellos a quienes merecen su atención.
 
 ## Campeones
 
-Siguen la grandeza, la justicia y la obediencia. Rigen códigos de honor y actúan con integridad, a menudo montados en caballos celestiales. Prefieren espada y escudo, protegen a aliados y luchan contra demonios y no-muertos.
+Los campeones de Sarenrae acuden allá donde son llamados. Aunque la magia y el juego de espada se practican a menudo como forma de meditación, un campeón sarenita no tiene reparos en desplegar esas mismas habilidades contra el mal irredimible cuando la situación lo exige. Con frecuencia son buscados por su destreza curativa y marcial, liderando grupos en la defensa de asentamientos o cazando y destruyendo el mal impenitente.
+
+Los campeones de la redención son con diferencia los más numerosos, pues los principios de redención y compasión encajan perfectamente con los deseos de la diosa: hay esperanza de redención en todas las cosas y matar debe verse como último recurso si ningún otro método ha funcionado. Sarenrae también cuenta con un gran número de campeones de la grandeza entre sus filas, que actúan como faros vivientes de luz, iluminando las cosas hermosas del mundo y compartiendo su conocimiento y poder divinos con los menos afortunados. Menos numerosos pero igualmente destacados son los campeones de la justicia, que rezan a Sarenrae en el aspecto de la honestidad, actuando con honor y sin engañar, mentir ni aprovecharse de nadie.

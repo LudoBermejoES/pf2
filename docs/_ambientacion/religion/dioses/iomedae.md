@@ -72,6 +72,18 @@ El avatar de Iomedae es una mujer majestuosa en blanco y oro, completamente blin
   - *Santa Lymirin* - una sacerdotisa humana alada que puede tomar una forma con cabeza de águila
   - *Paz a Través de la Vigilancia* - un dragón dorado joven, celestial y exuberante
 
+## Aforismos
+
+- **Una hoja usada nunca se desafila:** Recordatorio de mantener el cuerpo y la mente agudos y activos.
+- **Nacida con una espada en la mano:** Se usa para elogiar a un seguidor que muestra liderazgo natural, rectitud o aptitud marcial. A veces se dice con sarcasmo como crítica a quienes prefieren resolver los problemas con armas en lugar de palabras.
+- **¡Por la victoria, por el corazón!:** Grito de batalla que recuerda a los seguidores que deben golpear en el núcleo de sus problemas y aspirar siempre al golpe decisivo.
+
+## Fiestas
+
+- **Día de la Ascensión** (6 de Lamashan): Conmemora el día en que Iomedae entró en la Catedral de la Piedra Estelar. Los festejos incluyen cánticos, promesas formales de amistad y el perdón a los enemigos arrepentidos.
+- **Armasse** (16 de Arodus): Día dedicado a instruir a los civiles en el uso de las armas, nombrar escuderos y ordenar nuevos sacerdotes. El entretenimiento incluye justas, duelos y orgullosas demostraciones.
+- **Luna del Recuerdo:** Observada en la primera luna llena de Desnus, especialmente en Ustalav y entre los refugiados de las Tierras de las Tumbas; recuerda a quienes murieron ante el Tirano Susurrante.
+
 ## Relaciones con Otras Deidades
 
 Iomedae está en buenos términos con Abadar, Cayden Cailean, Erastil, Sarenrae, Shelyn y Torag, viendo en ellos intereses complementarios o paralelos.
@@ -79,6 +91,12 @@ Iomedae está en buenos términos con Abadar, Cayden Cailean, Erastil, Sarenrae,
 **Política divina:** No trata con deidades malvadas o demonios de ningún estatus (incluyendo a Asmodeus, ya que ella no estuvo presente para la creación del mundo o el aprisionamiento de Rovagug), aunque solicita la ayuda de los Señores Empíreos cuando es apropiado.
 
 **Con otros:** A todos los demás es indiferente, esperando inspirarlos a grandes hazañas pero sin dejar de lado sus planes para hacerlo.
+
+Iomedae comparte intereses con Abadar, Erastil, Shelyn y Torag. Siente especial afinidad con Abadar por su insistencia en leyes y justicia, y con Sarenrae por su celo recto. Tiene cercanía con Milani, la Floreciente, a quien llama hermana de armas.
+
+Cayden Cailean y Norgorber comparten con ella el estatus de Ascendidos por la Piedra Estelar. No hay conexión obvia entre su ascenso recto, el accidente divino de Cayden y la apoteosis enigmática de Norgorber.
+
+Una relación complicada es con Arazni. Cuando Arazni fue heraldo de Aroden, Iomedae la proclamó campeona y luchó junto a ella contra el Tirano Susurrante. Tras recuperar su libertad, existe una gran distancia entre ambas. Iomedae desea reconciliarse, pero no coincide con la visión sombría de la Inquebrantable, mientras que Arazni ve su idealismo como ingenuo aunque todavía siente un pequeño orgullo por su sucesora.
 
 ## Sacerdotes y la Iglesia
 
@@ -93,14 +111,6 @@ Se toman sus responsabilidades muy en serio y la mayoría se conducen como grand
 ### La Iglesia Más Agresiva
 
 De todas las iglesias buenas de Golarion, la de Iomedae es la más agresiva en buscar y combatir el mal. Sus sacerdotes prefieren estar en misiones que hacer tareas mundanas en una ciudad. Los laicos y acólitos talentosos ocupan la mayoría de los puestos en la ciudad, aunque los sacerdotes veteranos que se recuperan de heridas o enfermedades prefieren trabajar en los templos en lugar de descansar y convalecer.
-
-## Relaciones con Otras Deidades (ampliado)
-
-Iomedae comparte intereses con Abadar, Erastil, Shelyn y Torag. Siente especial afinidad con Abadar por su insistencia en leyes y justicia, y con Sarenrae por su celo recto. Tiene cercanía con Milani, la Floreciente, a quien llama hermana de armas.
-
-Cayden Cailean y Norgorber comparten con ella el estatus de Ascendidos por la Piedra Estelar. No hay conexión obvia entre su ascenso recto, el accidente divino de Cayden y la apoteosis enigmática de Norgorber.
-
-Una relación complicada es con Arazni. Cuando Arazni fue heraldo de Aroden, Iomedae la proclamó campeona y luchó junto a ella contra el Tirano Susurrante. Tras recuperar su libertad, existe una gran distancia entre ambas. Iomedae desea reconciliarse, pero no coincide con la visión sombría de la Inquebrantable, mientras que Arazni ve su idealismo como ingenuo aunque todavía siente un pequeño orgullo por su sucesora.
 
 ## Aliados Divinos
 

@@ -69,6 +69,15 @@ Irori facilita el camino para aquellos que le agradan, calmando el dolor, conced
   - *Ayuno* - un monje humanoide delgado de piel gris
   - *Sexto Renacimiento* - un gigante de piedra taciturno
 
+## Aforismos
+
+- **Soporta y renuévate:** Aforismo sobre paciencia y disciplina que recuerda a los seguidores de Irori que la perfección es un proceso largo que requiere más que un puñado de éxitos. Un discípulo puede recitarlo en momentos de ira o desesperación, respirar hondo y seguir adelante.
+- **Que Irori te olvide:** Como dios de la historia y la autoperfección, Irori posee una memoria inmaculada. Este aforismo se lanza como maldición; equivale a desear que el receptor sea borrado de la existencia. Una variante, «Que Irori olvide esto», se pronuncia tras un acontecimiento vergonzoso.
+
+## Fiestas
+
+Irori reconoce que hay tantos caminos hacia la iluminación como granos de arena en una playa; por ello, cada comunidad establece sus propias festividades según el camino que sigue. Cualquier día del año es festivo para alguna secta de su iglesia. Aunque las celebraciones son muy diversas, han surgido algunas tendencias generales: muchas de ellas emplean el Rebus del Maestro de algún modo, sobre todo mediante el dibujo o la pintura. Se anima a los fieles a ser creativos en su uso; ejemplos innovadores incluyen recortarlo en el lateral de un farol de papel, bordarlo intrincadamente en la ropa festiva o escribirlo en el cielo con fuegos artificiales mágicos.
+
 ## Relaciones con Otras Deidades
 
 Irori respeta que otras deidades son seres espirituales diferentes y que lo que es correcto para él puede no serlo para ellos. Como tal, intenta evitar interferir con otros seres divinos a menos que amenacen su trabajo o su gente.
@@ -76,6 +85,12 @@ Irori respeta que otras deidades son seres espirituales diferentes y que lo que 
 **Enemigos:** Le desagradan aquellos que desean derribar o corromper los logros de otros, y tiene una disputa continua con Asmodeo porque al Príncipe le gusta tentar a los seguidores del Maestro con atajos hacia la perfección que están llenos de trampas.
 
 **Rivalidad menor:** Hay una rivalidad menor entre su fe y las de Cayden Cailean, Iomedae y Norgorber, pues, a diferencia de ellos, él se convirtió en un dios sin la ayuda de un artefacto mágico—en efecto, considera sus logros como trampa, pero es lo suficientemente educado como para no confrontarlos al respecto.
+
+Irori respeta a otros dioses y los deja tranquilos salvo que amenacen a él o a sus fieles. Sus seguidores median disputas interreligiosas. Mantiene buena relación con Abadar por su respeto al debido proceso.
+
+La relación con los Ascendidos por la Piedra Estelar es tensa; él alcanzó la divinidad solitariamente y ve esa ventaja como trampa, pero no lo dice. Le entristeció la muerte de Aroden, pues compartían el estatus de mortales elevados. Enseña respeto por los sitios sagrados de Aroden y mantiene términos civiles con Iomedae.
+
+La relación con Norgorber es la peor entre los Ascendidos; sus mandamientos de compartir conocimiento chocan con los secretos del dios de ladrones. Se enfrentan en sitios históricos: los de Norgorber intentan destruir u ocultar información y los de Irori la protegen.
 
 ## Sacerdotes y la Iglesia
 
@@ -92,14 +107,6 @@ Mientras los detalles del camino pueden variar, todos ellos requieren buena salu
 ### Autosuficiencia
 
 Un templo o monasterio en particular es autosuficiente; solo los sacerdotes solitarios o extrovertidos encuentran razón para comerciar o vender sus servicios. Los maestros de una dieta especializada podrían vender hierbas raras, los practicantes de artes marciales exóticas podrían trabajar en una academia de lucha, mientras que otros podrían enseñar en una universidad.
-
-## Relaciones con Otras Deidades (ampliado)
-
-Irori respeta a otros dioses y los deja tranquilos salvo que amenacen a él o a sus fieles. Sus seguidores median disputas interreligiosas. Mantiene buena relación con Abadar por su respeto al debido proceso.
-
-La relación con los Ascendidos por la Piedra Estelar es tensa; él alcanzó la divinidad solitariamente y ve esa ventaja como trampa, pero no lo dice. Le entristeció la muerte de Aroden, pues compartían el estatus de mortales elevados. Enseña respeto por los sitios sagrados de Aroden y mantiene términos civiles con Iomedae.
-
-La relación con Norgorber es la peor entre los Ascendidos; sus mandamientos de compartir conocimiento chocan con los secretos del dios de ladrones. Se enfrentan en sitios históricos: los de Norgorber intentan destruir u ocultar información y los de Irori la protegen.
 
 ## Aliados Divinos
 
