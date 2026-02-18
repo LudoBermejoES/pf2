@@ -68,13 +68,14 @@ La intervención personal de Abadar en el mundo mortal suele ser en forma de pis
 
 ## Relaciones con Otras Deidades
 
-Abadar entiende que una civilización avanzada tiene muchas necesidades espirituales, y diferentes miembros de una sociedad rezan a diferentes dioses, por lo que intenta mantener una frialdad accesible con otras deidades.
+Abadar entiende que una civilización avanzada tiene muchas necesidades espirituales, y diferentes miembros de una sociedad rezan a diferentes dioses, por lo que intenta mantener una frialdad accesible con otras deidades. Se esfuerza por mantener un equilibrio en todas las cosas, incluidas sus relaciones divinas. Encuentra odiosos y a menudo peligrosos los caos de compañeros imprevisibles. Busca el favor de deidades justas como Iomedae tanto como el de los seres más bajos, como Asmodeus. Torag, Shelyn, Brigh, Shizuru y Erastil disfrutan alianzas con el Juez de los Dioses.
 
-**Enemigos declarados:** Solo aquellos que se oponen directamente a sus creencias y propósito—notablemente Rovagug, y en menor medida Lamashtu.
-
-**Aliados:** Es amistoso con Erastil, Iomedae, Irori, Shelyn, e incluso Asmodeus (aunque solo por su creencia en mantener los contratos).
-
-**Rivalidades:** Abadar sabe que sus búsquedas frecuentemente enojan a Gozreh, quien quisiera ver las partes naturales del mundo permanecer intactas, pero cree que los dos pueden eventualmente llegar a un compromiso.
+- **Rovagug:** Su único verdadero enemigo; fue Abadar quien reunió a dioses de maleficencia y caridad para combatir a la Bestia Áspera.
+- **Lamashtu:** La detesta, considerándola un mal apenas inferior a Rovagug: menos amenazante, pero una espina más constante y activa.
+- **Norgorber:** Más una molestia que otra cosa, pero sabe que los secretos que guarda podrían acabar con un imperio más rápido que el garrote de un gigante.
+- **Gozreh:** A menudo se opone a las incursiones civiles más remotas de Abadar, pero Abadar apenas reconoce su presencia y continúa su labor sin inmutarse.
+- **Iomedae, Torag, Shelyn, Erastil:** Aliados con quienes comparte intereses en el orden y la perfección. Las vidrieras regaladas a los seguidores de Iomedae tras su ascensión se dicen entre las más hermosas del mundo.
+- **Asmodeus:** Colabora con él por su creencia en mantener los contratos, aunque el Día de las Lunas Negras recuerda que Asmodeus cometió un error en sus negociaciones con Abadar.
 
 ## Sacerdotes y la Iglesia
 
@@ -106,17 +107,6 @@ Los servicios a Abadar incluyen canciones con armonías complejas, la interpreta
 
 - **Festimpuesto** (15 de Gozran): Aunque pagar impuestos es una actividad que disfruta aproximadamente nadie, los sacerdotes abadaranes consideran la tributación un cimiento esencial en el gran arco de la civilización. Saben lo odioso que puede ser este día para los plebeyos y se esfuerzan por hacerlo tan animado, vibrante y distraído como sea posible.
 - **Día de las Lunas Negras:** Asmodeus cometió un error, solo una vez, en sus negociaciones con Abadar. Le costó mucho a él y a su hueste infernal. Una vez cada 3.024 años, los contratos existentes con diablos deben renegociarse con términos más favorables para el mortal, o se consideran nulos.
-
-## Relaciones con Otras Deidades (ampliado)
-
-Abadar se esfuerza por mantener un equilibrio en todas las cosas, incluidas sus relaciones divinas. Encuentra odiosos y a menudo peligrosos los caos de compañeros imprevisibles. Busca el favor de deidades justas como Iomedae tanto como el de los seres más bajos, como Asmodeus. Torag, Shelyn, Brigh, Shizuru y Erastil disfrutan alianzas con el Juez de los Dioses.
-
-- **Rovagug:** Su único verdadero enemigo; fue Abadar quien reunió a dioses de maleficencia y caridad para combatir a la Bestia Áspera.
-- **Lamashtu:** La detesta, considerándola un mal apenas inferior a Rovagug: menos amenazante, pero una espina más constante y activa.
-- **Norgorber:** Más una molestia que otra cosa, pero sabe que los secretos que guarda podrían acabar con un imperio más rápido que el garrote de un gigante.
-- **Gozreh:** A menudo se opone a las incursiones civiles más remotas de Abadar, pero Abadar apenas reconoce su presencia y continúa su labor sin inmutarse.
-- **Iomedae, Torag, Shelyn, Erastil:** Aliados con quienes comparte intereses en el orden y la perfección. Las vidrieras regaladas a los seguidores de Iomedae tras su ascensión se dicen entre las más hermosas del mundo.
-- **Asmodeus:** Colabora con él por su creencia en mantener los contratos, aunque el Día de las Lunas Negras recuerda que Asmodeus cometió un error en sus negociaciones con Abadar.
 
 ## Aliados Divinos
 
