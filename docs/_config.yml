@@ -25,6 +25,9 @@ plugins:
 
 # Collections for organized content
 collections:
+  ambientacion:
+    output: true
+    permalink: /ambientacion/:path/
   campana:
     output: true
     permalink: /campana/:name/
