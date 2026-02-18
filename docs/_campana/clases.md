@@ -99,7 +99,7 @@ Los brujos son bastante apropiados para Kingmaker, particularmente si eligen un 
 
 Todas las naciones necesitan sanadores y líderes espirituales, pero aquellas que luchan por encontrar su equilibrio en el borde de la civilización se benefician más de la presencia de clérigos.
 
-**Deidades con fuertes vínculos temáticos**: Calistria, Cayden Cailean, Desna, Erastil, Gorum, Gozreh y Shelyn.
+**Deidades con fuertes vínculos temáticos**: Calistria, Cayden Cailean, Desna, Erastil, ~~Gorum~~ *(muerto)*, Gozreh y Shelyn.
 
 → [Ver Clérigo]({{ '/clases/clerigo/' | relative_url }})
 

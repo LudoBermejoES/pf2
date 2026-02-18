@@ -2,7 +2,7 @@
 layout: page
 permalink: /ambientacion/religion/dioses/gorum/
 title: Gorum
-subtitle: Señor del Hierro
+subtitle: Señor del Hierro (Dios Muerto)
 chapter: Ambientación
 category: ambientacion
 nav_order: 8
@@ -15,7 +15,9 @@ source: PC1
 
 > *"La batalla y sus herramientas son las únicas cosas buenas en la vida."*
 
-Quien busca la gloria en el campo de batalla reza plegarias a Nuestro Señor del Hierro. Gorum enfatiza el poder, animando a sus seguidores a buscar la guerra y el combate como la forma definitiva de adorarle.
+> ⚠️ **Gorum ha muerto.** El Señor del Hierro cayó durante los eventos de la Era de los Presagios Perdidos. Sus clérigos ya no reciben poder divino de él, pues una deidad muerta no puede otorgar conjuros ni bendiciones. Algunos de sus antiguos devotos buscan ahora a otras deidades de la guerra como Iomedae, mientras que otros persisten en una fe vacía, sin acceso a sus antiguas capacidades divinas.
+
+Quien buscaba la gloria en el campo de batalla rezaba plegarias a Nuestro Señor del Hierro. Gorum enfatizaba el poder, animando a sus seguidores a buscar la guerra y el combate como la forma definitiva de adorarle.
 
 - **Areas de interes:** armas, batalla y fuerza
 - **Edictos:** apurar tus limites, llevar armadura en combate, obtener la victoria en combate justo

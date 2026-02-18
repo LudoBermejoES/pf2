@@ -27,7 +27,7 @@ Según esta leyenda, los semiorcos son un regalo divino, creados para unir a dos
 
 #### El Mito de Gorum
 
-Más al sur, los semiorcos afirman que el Señor del Hierro, **Gorum**, era un semiorco. Esta creencia les da orgullo y un modelo a seguir: si un semiorco pudo ascender a la divinidad, cualquiera de ellos puede alcanzar la grandeza.
+Más al sur, los semiorcos afirman que el Señor del Hierro, **Gorum**, era un semiorco. Esta creencia les da orgullo y un modelo a seguir: si un semiorco pudo ascender a la divinidad, cualquiera de ellos puede alcanzar la grandeza. Aunque Gorum ha muerto durante la Era de los Presagios Perdidos, su leyenda persiste entre los semiorcos como fuente de identidad y orgullo cultural.
 
 ### Características Físicas
 

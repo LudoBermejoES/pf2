@@ -70,7 +70,7 @@ Los saberes enfocados en deidades que juegan papeles importantes en esta campañ
 | [Cayden Cailean]({{ '/ambientacion/religion/dioses/cayden-cailean/' | relative_url }}) | Libertad y aventura |
 | [Desna]({{ '/ambientacion/religion/dioses/desna/' | relative_url }}) | Viajes y sueños |
 | [Erastil]({{ '/ambientacion/religion/dioses/erastil/' | relative_url }}) | Comunidad y caza |
-| [Gorum]({{ '/ambientacion/religion/dioses/gorum/' | relative_url }}) | Guerra y conquista |
+| [Gorum]({{ '/ambientacion/religion/dioses/gorum/' | relative_url }}) | ~~Guerra y conquista~~ *(Dios Muerto)* |
 | [Gozreh]({{ '/ambientacion/religion/dioses/gozreh/' | relative_url }}) | Naturaleza y clima |
 | [Shelyn]({{ '/ambientacion/religion/dioses/shelyn/' | relative_url }}) | Arte y belleza |
 | **Saber de los Ancianos** | Conocimiento del panteón de semidioses feéricos |
