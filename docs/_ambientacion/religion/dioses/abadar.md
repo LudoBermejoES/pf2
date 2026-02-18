@@ -95,3 +95,55 @@ La vestimenta ritual para ceremonias incluye tela de seda blanca ribeteada con h
 Los servicios a Abadar incluyen canciones con armonías complejas, la interpretación de música (usualmente instrumentos de percusión como dulcémeles y carillones), y el conteo o clasificación de monedas o llaves. Los servicios y ceremonias siempre tienen lugar en interiores, representando el refugio de la civilización.
 
 **Texto Sagrado:** *El Orden de los Números*, cada copia un tomo elaboradamente decorado que detalla las creencias y tabúes de la iglesia.
+
+## Aforismos
+
+- **Bajo la mirada de Abadar, el trato está sellado:** Cuando se celebra y finaliza un trato, la parte que lo inicia suele pronunciar esta frase para indicar que las negociaciones han concluido. A menudo se reduce a "Bajo la mirada de Abadar" o "El trato está sellado"; intentar modificar el pacto después de que se ha dicho la frase está universalmente mal visto.
+- **Así se juzga:** Una conclusión estándar de los veredictos legales oficiales. Algunos seguidores usan esta frase cuando eventos aleatorios parecen favorecer lo que ellos creen que es justicia.
+- **Tienen el ojo de Abadar para...:** Un cumplido que describe a una persona con un agudo sentido de la perfección en su campo elegido.
+
+## Fiestas
+
+- **Festimpuesto** (15 de Gozran): Aunque pagar impuestos es una actividad que disfruta aproximadamente nadie, los sacerdotes abadaranes consideran la tributación un cimiento esencial en el gran arco de la civilización. Saben lo odioso que puede ser este día para los plebeyos y se esfuerzan por hacerlo tan animado, vibrante y distraído como sea posible.
+- **Día de las Lunas Negras:** Asmodeus cometió un error, solo una vez, en sus negociaciones con Abadar. Le costó mucho a él y a su hueste infernal. Una vez cada 3.024 años, los contratos existentes con diablos deben renegociarse con términos más favorables para el mortal, o se consideran nulos.
+
+## Relaciones con Otras Deidades (ampliado)
+
+Abadar se esfuerza por mantener un equilibrio en todas las cosas, incluidas sus relaciones divinas. Encuentra odiosos y a menudo peligrosos los caos de compañeros imprevisibles. Busca el favor de deidades justas como Iomedae tanto como el de los seres más bajos, como Asmodeus. Torag, Shelyn, Brigh, Shizuru y Erastil disfrutan alianzas con el Juez de los Dioses.
+
+- **Rovagug:** Su único verdadero enemigo; fue Abadar quien reunió a dioses de maleficencia y caridad para combatir a la Bestia Áspera.
+- **Lamashtu:** La detesta, considerándola un mal apenas inferior a Rovagug: menos amenazante, pero una espina más constante y activa.
+- **Norgorber:** Más una molestia que otra cosa, pero sabe que los secretos que guarda podrían acabar con un imperio más rápido que el garrote de un gigante.
+- **Gozreh:** A menudo se opone a las incursiones civiles más remotas de Abadar, pero Abadar apenas reconoce su presencia y continúa su labor sin inmutarse.
+- **Iomedae, Torag, Shelyn, Erastil:** Aliados con quienes comparte intereses en el orden y la perfección. Las vidrieras regaladas a los seguidores de Iomedae tras su ascensión se dicen entre las más hermosas del mundo.
+- **Asmodeus:** Colabora con él por su creencia en mantener los contratos, aunque el Día de las Lunas Negras recuerda que Asmodeus cometió un error en sus negociaciones con Abadar.
+
+## Aliados Divinos
+
+Los servidores de Abadar son un grupo paradójicamente ecléctico, formado principalmente por arcontes, pero también por eones, agationes, ángeles e incluso algunos diablos perdidos entre sus filas. Al dios le da poca importancia la composición planar de sus aliados; solo le importa su compromiso con la estabilidad y la prosperidad.
+
+- **El Legislador:** El heraldo de Abadar adopta la forma de un constructo titánico hecho de armadura dorada ornamentada y acero sagrado. Estoico y paciente más allá del juicio moral, el Legislador es implacable cuando decide actuar. Se le avista con mayor frecuencia en lugares remotos, siendo fuente de misterio para los fieles.
+
+## Intercesión Divina
+
+Los dones de Abadar se manifiestan como riquezas, mientras que su ira tiende a hacer que los transgresores pierdan fortuna.
+
+**Bendición menor:** Abadar advierte a sus favorecidos sobre quienes podrían aprovecharse injustamente de ellos. Una vez, cuando alguien consigue un éxito en una prueba de Engañar para mentirte de forma maliciosa a ti y solo a ti, obtiene un fallo crítico en su lugar.
+
+**Bendición moderada:** Abadar bendice todas tus empresas, conduciendo al éxito financiero. Si obtienes un fallo crítico en una prueba para Ganar ingresos, el resultado se convierte en un fallo simple. Si obtienes un éxito en una prueba para Ganar ingresos, obtienes el doble de la cantidad habitual de ingresos.
+
+**Bendición mayor:** Tu lengua de plata es infalible. Una vez al día, sabes exactamente qué ofrecer para cerrar un trato o mediar una negociación y, si ofreces tu propuesta de origen divino, puedes recibir automáticamente un resultado de 20 + tu modificador de Diplomacia en lugar de tirar. Si realmente no hay nada que puedas ofrecer para llegar a un acuerdo, lo descubres y no gastas el uso diario de la bendición.
+
+**Maldición menor:** Cada vez que robas a, haces daño ilegalmente, matas a otra criatura o socavas a un oficial o tribunal que cumple con la ley, un símbolo o palabra que describe tu crimen aparece en un lugar visible de tu piel. No puede eliminarse ni ocultarse con maquillaje y no desaparece hasta que realices la restitución legal del crimen.
+
+**Maldición moderada:** Abadar maldice todas tus empresas, provocando un desastre financiero. El resultado de tu tirada para Ganar ingresos siempre es un grado de éxito peor que el que obtuviste.
+
+**Maldición mayor:** Todos son conscientes de tus mentiras. Estás constantemente bajo los efectos del *anillo de la verdad* y siempre recibes los efectos de fracaso cuando mientes.
+
+## Reino
+
+Abadar reside en Axis, el plano de la ley absoluta y la ciudad del mismo nombre que lo abarca en su totalidad. Su hogar está en Aktun, el distrito capital de Axis, diseñado en círculos concéntricos con avenidas que irradian desde la Primera Bóveda. Aktun contiene la mejor arquitectura de todo Golarion y más allá, y se considera el distrito más amigable de Axis hacia los mortales, quienes son animados a visitar para inspirarse y crear objetos de belleza y perfección. El laberinto subterráneo de Duskfathom, el reino de Norgorber, se encuentra justo bajo Aktun, burlándose de su perfección como un espejo retorcido e invertido.
+
+## Campeones
+
+Los campeones de Abadar se dividen casi exclusivamente en dos bandos. Los devotos justos toman las armas como campeones de la justicia, usando sus poderes para defender la ley, corregir las disparidades económicas y elevar a sus hogares y comunidades. Los campeones opresivos de la obediencia ven las leyes como un arma contra el desorden y como medio para mantener el control o apoderarse del poder. Debido a este oscilante e imprevisible péndulo moral, los campeones causan cierta controversia en la iglesia.

@@ -90,3 +90,48 @@ Aquellos sin magia pueden trabajar para la iglesia pero son tratados como ciudad
 ### Mercenarios Mágicos
 
 Los sacerdotes de Nethys tienden a ser muy mercenarios en sus servicios. Fabrican y venden bienes mágicos, asesoran a nobles y mercaderes sobre cómo la magia puede mejorar su posición, se contratan como guardaespaldas para barcos o caravanas, o actúan como lanzadores de batalla para ejércitos.
+
+## Aforismos
+
+- **Una cerámica que explota en el horno aún forja al artesano:** Dicho de la festividad de crear y destruir; recuerda que el fracaso enseña.
+- **Lo que no está, existe:** Lo repiten al buscar conocimiento: lo que no se entiende ahora puede descubrirse.
+
+## Relaciones con Otras Deidades (ampliado)
+
+Pocos dioses disputan abiertamente con el Ojo Omnisciente. Su saber lo convierte en consejero y no oculta sus puntos de vista. Su desprecio por guardar secretos a lo largo del tiempo crea enemigos en Norgorber y Sivanah, dioses del secreto. Los vigila de cerca pero aún no ha roto con ellos; aún así expresa sus discrepancias.
+
+Respeta mucho a Pharasma; visitan sus reinos y comparten bibliotecas. Su afinidad radica en que ambos son dioses del conocimiento infinito. También admira a Irori, pues comparten la búsqueda de comprensión, aunque él se enfocó en la perfección física y espiritual. Por eso sus fieles suelen viajar juntos.
+
+Los seguidores de dioses del secreto esparcen rumores para desprestigiarlo y mostrar su conocimiento como tan perfecto que resulta poco confiable. Aun con esa reputación, rara vez prohíben al culto.
+
+## Aliados Divinos
+
+Nethys atrae a criaturas mágicas y peticionarios de grandes archimagos. Aquellos que se sumergen en sus energías a veces se transforman en seres de pura magia e integran su séquito.
+
+**Arcanoteign:** Nube femenina de energía que incorpora todas las tradiciones mágicas. Fue creada por Nethys en un arrebato de inspiración, lo que la dejó solitaria y sin rumbo. Recorre planetas buscando sensaciones para comprender las formas de vida. Evita grandes reuniones de magos porque la saturan de preguntas. Disfruta hablar con quienes la tratan como persona y adora a los animales, ya que no la juzgan. A menudo anima elementales con forma animal en homenaje a ellos.
+
+## Intercesión Divina
+
+Nethys es imparcial, así que es rara la intervención especial. Pero ignorar la magia le gana su ira.
+
+**Bendición menor:** lanza un conjuro de rango superior al máximo que puedas lanzar. Si no puedes conjuros, lanza uno de 1.º rango.
+
+**Bendición moderada:** te revela secretos. Añades un conjuro de otra tradición a tu lista; debes aprenderlo o prepararlo normalmente.
+
+**Bendición mayor:** obtienes maestría suprema. Si eres conjurador preparado puedes cambiar un conjuro preparado por otro de ese nivel; si eres espontáneo cambias un conjuro de tu repertorio por otro que podrías elegir; haces el cambio en una acción de concentración.
+
+**Maldición menor:** los secretos te agotan. Quedas permanentemente aturdido 1.
+
+**Maldición moderada:** tu magia se enfrenta a sí misma. Al lanzar un conjuro haces una prueba DC 11; si fallas, un hechizo dañino se vuelve beneficioso y viceversa. Si afecta a unos y daña a otros, invocas un efecto del mismo nivel con los roles invertidos.
+
+**Maldición mayor:** Nethys corta tu vínculo mágico. Pierdes todas las capacidades de conjuros y no puedes recuperarlas.
+
+## Reino
+
+Su dominio está en el Ojo del Maelstrom, dentro de una torre altísima situada en el ojo de la tormenta constante. Solo se accede con ayuda mágica, sin escaleras, bajo barreras protectoras inmensas que él modula para permitir visitas o reformas.
+
+A pesar del peligro, muchos mortales y dioses atraviesan la tormenta para consultarlo.
+
+## Campeones
+
+Sus campeones veneran la magia y el esplendor. Son maestros viajeros que enseñan conocimiento, la belleza protectora o destructiva. Se llaman la Mirada de Nethys, porque sus poderes divinos esquivan a cualquiera que impida la práctica o enseñanza mágica.

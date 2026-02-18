@@ -91,3 +91,8 @@ La mayoría de los sacerdotes tienen una habilidad relacionada con la cerveza o 
 En comunidades más pequeñas, un clérigo podría enseñar a los granjeros a reservar una pequeña parcela de tierra para cebada o vides, mostrarles cómo elaborar sus propias bebidas en pequeñas cantidades, y animarlos a compartir con sus vecinos para crear lazos de amistad.
 
 La alquimia o la elaboración de pociones son pasatiempos comunes para los sacerdotes aventureros.
+
+## Aforismos
+
+- **Soy genial, pero no tanto como Cayden Cailean:** Frase usada para rechazar desafíos que se han ido de las manos. La tradición dicta que quien lo dice paga una ronda para todos.
+- **Como Cayden y Trueno:** Cayden tenía un mastín llamado Trueno. Esta expresión se usa para referirse a dos personas inseparables, como Cayden y su perro, generalmente tras haber forjado un vínculo fuerte al ayudarse mutuamente.

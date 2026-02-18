@@ -104,3 +104,49 @@ Muchos llevan dobles vidas, actuando como miembros normales de la sociedad duran
 ### Profesiones
 
 El robo, ya sea común o elaborado, es una profesión típica para los sacerdotes. Algunos son maestros imitadores, robando las identidades de otros y usándolas para encubrir actos oscuros.
+
+## Aforismos
+
+Sus frases suelen ocultarse en la conversación.
+
+- **Cada comida puede ser la última:** Como bendición sobre la mesa, recuerda que la vida puede quitarse y hay que disfrutar.
+- **Esto solo es el preludio:** El éxito lleva semillas de autodestrucción; evita la sobreconfianza y úsalas en los demás.
+- **Con una mano doy:** Saludo o clausura de pactos; advierte que nunca revelan sus verdaderos planes.
+
+## Relaciones con Otras Deidades (ampliado)
+
+Uno de sus secretos menores es la afinidad por los otros Ascendidos: Cayden Cailean e Iomedae, aunque los desprecia. Solo ellos conocen qué exige la Prueba de la Piedra Estelar; Norgorber respeta la verdad compartida, pero ambos lo evitan. Cayden lo ve como villano cobarde e Iomedae no tolera su afrenta contra la justicia, sospechando que participó en la muerte de Aroden.
+
+Intenta neutralidad en asuntos divinos: si necesita ayuda, apoya lo que convenga y miente sobre su plan. Así, Abadar lo desprecia porque sus Grises socavan el orden y el comercio; Erastil lo culpa de vidas arruinadas; Sarenrae se niega a creer en su redención; Torag lo considera amenaza subterránea que destruye ciudades.
+
+Tiene aliados en Achaekek, diosa de los asesinos, y Sivanah, la diosa de las ilusiones. Comparte intereses con Thamir, el halfling de la codicia, pero lo desprecia en secreto por alguna antigua verdad compartida.
+
+## Aliados Divinos
+
+Sus aliados son tan secretos como él. Sombras y karumzeks (arañas inteligentes) lo apoyan.
+
+**La Bestia Apuñaladora:** Un escorpión metálico brutal; su heraldo para el asesinato. Cree que solo Norgorber puede acabar con él, aunque ha muerto varias veces en la historia; cada vez vuelve borrando su fracaso. No es astuto ni juega estrategias: sigue listas de víctimas y las destruye, aunque mantenerlo en objetivo es difícil.
+
+## Intercesión Divina
+
+Su favor o ira son sutiles pero mortales.
+
+**Bendición menor:** Protege tus secretos. Cuando fallas una prueba de Engañar al mentir, la conviertes en éxito crítico. Lo otorga ante una mentira crucial.
+
+**Bendición moderada:** Tus venenos duran más. Si fallas con un arma envenenada o no causa daño cortante/perforante, el veneno no se consume hasta que alcance una criatura.
+
+**Bendición mayor:** Te vuelves un secreto viviente. Eres inmune a detección, miradas y manipulación de memoria, salvo que tú lo permitas o provenga de deidades, artefactos o fuentes similares. Tampoco puedes verse obligado por medios mundanos a revelar un secreto.
+
+**Maldición menor:** Los ladrones te superan. Al Ganar ingresos, lo haces como si la tarea tuviera dos niveles menos por robo o mala fortuna.
+
+**Maldición moderada:** Los venenos te afectan más. Si fallas un salvación de Fortaleza contra un veneno, obtienes un fallo crítico.
+
+**Maldición mayor:** Norgorber te arrebata los recuerdos. Una vez al día al despertar tira 1d4: con un 1 olvidas para siempre los eventos del día anterior; con un 2 experimentas amnesia retrógrada completa temporal, incapaz de recordar quién eres; con un 3 olvidas temporalmente un tema importante (él elige uno que cause dolor, como olvidar a tu cónyuge en un aniversario); con un 4 mantienes recuerdos falsos perfectamente integrados sobre un asunto clave.
+
+## Reino
+
+Vive en Duskfathom, una bajo-ciudad bajo Aktun de Axis, espejo de la metrópolis de arriba. Sus edificios cuelgan del techo de cavernas, balanceándose sobre el suelo respirante. Entre los pasillos se elevan monstruos que regresan a charcos tras cazar. Los caminos cambian constantemente, pero muchos los recorren buscando secretos. La ciudad conecta Hell, Abaddon y las Fisuras Exteriores con Axis, siendo base de incursiones y esquemas.
+
+## Campeones
+
+Comprenden los cuatro aspectos: obtienen secretos, asesinan y derriban ciudades. Son los más reservados de todos los seguidores y prefieren la iniquidad. Los originales de Dedos Negros cultivan la destrucción alquímica, expandiendo los límites del decaimiento.

@@ -92,3 +92,9 @@ Muchos de los fieles de Desna son artistas, escritores y animadores talentosos, 
 ### Adivinación
 
 Algunos Desnanos son adivinos e intérpretes de sueños hábiles. Se oponen al uso de la adivinación para crear miedo o desesperación, y rechazan peticiones infelices como cuándo alguien podría morir. Sus adivinos desafían a cualquier orador que profetice enfermedad, infortunio o condena.
+
+## Aforismos
+
+- **Una estrella no puede ver su lugar en el cielo:** Cuando dudan, los fieles recuerdan que una sola estrella no concibe el papel que desempeña en la armonía celeste.
+- **Nunca estás perdido siguiendo mariposas:** Es mejor errar y explorar que marchitarse en casa. Confía en tu intuición y en las señales que Desna pone en tu camino.
+- **Tu mayor fracaso es tu mejor maestro:** Fallarás, pero no temas. Corrige, admítelo y aprende para que tú y quienes enseñes no los repitan.

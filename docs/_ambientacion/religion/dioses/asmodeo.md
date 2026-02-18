@@ -91,3 +91,8 @@ Los sacerdotes trabajan con esclavistas, gobiernos burocráticos, déspotas y no
 ### Perspectiva sobre los Diablos
 
 Los sacerdotes ven a los diablos como personas más que como monstruos, jugadores mayores o menores en la inmensa burocracia infernal a la que todas las personas sensatas deberían unirse. Por supuesto, ven a los lémures y otros diablos menores como prescindibles, y a los demonios no legales aún más.
+
+## Aforismos
+
+- **Grande es Asmodeo:** Esta declaración abierta en apoyo al Señor Oscuro se usa como saludo entre devotos en regiones como Cheliax, y también como señal susurrada de confianza entre creyentes donde su culto está mal visto.
+- **Lo que fue suyo volverá a serlo:** Los adoradores de Asmodeo creen que él dominó todo en otro tiempo y que algún día restablecerá su dominio. Esta afirmación suele decirse como amenaza sutil a cualquiera que se oponga al Príncipe Oscuro.

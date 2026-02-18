@@ -98,3 +98,8 @@ La mayoría de los sacerdotes no aventureros trabajan como herreros, son parte d
 ### Liderazgo
 
 Aquellos no inclinados a trabajar en una forja, yunque o escritorio de arquitecto todo el día gravitan hacia posiciones de liderazgo donde pueden usar su conocimiento para dirigir a otros en el campo de batalla o en las murallas de la ciudad.
+
+## Aforismos
+
+- **¡Por Kaglemros!:** Invocación al ver una obra impresionante o como protección contra la mala suerte de piezas mal hechas.
+- **Tan inútil como un cerrojo en Forgeheart:** Forgeheart es la fortaleza en el Cielo donde Torag crea armas para el ejército; solo un alma temeraria buscaría morir rápido allí.

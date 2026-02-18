@@ -92,3 +92,41 @@ Mientras los detalles del camino pueden variar, todos ellos requieren buena salu
 ### Autosuficiencia
 
 Un templo o monasterio en particular es autosuficiente; solo los sacerdotes solitarios o extrovertidos encuentran razón para comerciar o vender sus servicios. Los maestros de una dieta especializada podrían vender hierbas raras, los practicantes de artes marciales exóticas podrían trabajar en una academia de lucha, mientras que otros podrían enseñar en una universidad.
+
+## Relaciones con Otras Deidades (ampliado)
+
+Irori respeta a otros dioses y los deja tranquilos salvo que amenacen a él o a sus fieles. Sus seguidores median disputas interreligiosas. Mantiene buena relación con Abadar por su respeto al debido proceso.
+
+La relación con los Ascendidos por la Piedra Estelar es tensa; él alcanzó la divinidad solitariamente y ve esa ventaja como trampa, pero no lo dice. Le entristeció la muerte de Aroden, pues compartían el estatus de mortales elevados. Enseña respeto por los sitios sagrados de Aroden y mantiene términos civiles con Iomedae.
+
+La relación con Norgorber es la peor entre los Ascendidos; sus mandamientos de compartir conocimiento chocan con los secretos del dios de ladrones. Se enfrentan en sitios históricos: los de Norgorber intentan destruir u ocultar información y los de Irori la protegen.
+
+## Aliados Divinos
+
+Sus siervos son inmortales que alcanzaron la perfección por sí mismos, desde cultivadores tien hasta animales iluminados convertidos en yaoguai. También lo sirven tigres blancos celestiales como tutores, guardianes y sabios.
+
+- **El Viejo:** Su heraldo aparece como un anciano tan envejecido que ni siquiera se distingue su etnia. Actúa como mentor, guía, obstáculo o frustración según lo necesario; cuando no está en misión, cumple tareas sencillas como cortar leña o alimentar animales.
+
+## Intercesión Divina
+
+Otorga dones a quienes progresan en su camino.
+
+**Bendición menor:** Te otorga gran perspicacia. Si fallas una tirada de recordar conocimiento, la conviertes en éxito crítico y pierdes el rasgo secreto.
+
+**Bendición moderada:** Tu cuerpo se reconstruye tras la adversidad. Puedes lanzar *armonizar el yo* como conjuro qi oculto; tu atributo clave es la Sabiduría. Si no tenías, ganas un pozo de foco de 1 punto y entrenamiento en modificador de ataque de conjuros y CA.
+
+**Bendición mayor:** Puedes ascender temporalmente a mayor forma. Lanzas *forma sagrada* de 8.º nivel una vez al día como conjuro innato oculto. Tu forma aparenta ser corriente, no una armadura poderosa.
+
+**Maldición menor:** Te reta a buscar otro camino. Si eliges una prueba con bono alto cuando otra opción sería mejor, tiras dos veces y tomas el resultado peor.
+
+**Maldición moderada:** Te carga como si llevaras pesas. Eres torpe 2 y estás cargado hasta vencer una tarea exigente de Irori.
+
+**Maldición mayor:** Irori borra tu existencia. También podría borrar tu nombre de todos los registros; recuerdos y escritos se reacomodan sin dejar huecos visibles.
+
+## Reino
+
+Vive en el Círculo Sereno del Gran Más Allá, en el plano de Axis. Su reino es un jardín frondoso con senderos. Sus sirvientes divinos, reencarnados decenas de veces, recorren las rutas acercándose a la perfección. En el Círculo hay edificaciones al estilo vudrani que brindan lo que el visitante necesita.
+
+## Campeones
+
+Sus campeones siguen la justicia o la redención. Muchos paladines se sienten atraídos por el orden y la autoperfección. Algunos tienen pasados difíciles y buscan mejora, enseñando que ningún pecado es irreparable y que siempre hay una segunda oportunidad. Otros buscan la liberación compartiendo conocimiento para empoderar a otros y promover vidas libres.

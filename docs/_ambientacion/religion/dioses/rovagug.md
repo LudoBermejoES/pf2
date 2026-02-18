@@ -96,3 +96,62 @@ Los sacerdotes raramente tienen habilidades productivas, incluso dejando cosas c
 ### Vida Diaria
 
 Los sacerdotes de Rovagug no hacen ninguna contribución útil a la sociedad normal; en el mejor de los casos son mercenarios, aunque la mayoría actúa más como asaltantes o bandidos. En un día típico, un sacerdote caza en nombre de su señor enloquecido, destruyendo vida y cosas creadas con cada oportunidad, guardando solo aquello que pueden usar para provocar mayor destrucción.
+
+## Aforismos
+
+Los fieles de Rovagug suelen tener poco uso para las palabras, prefiriendo gritos guturales de batalla. Sin embargo, algunos adagios han encontrado su lugar en su vocabulario.
+
+- **El fin es ahora:** Los adoradores pueden pronunciar esta frase ante los no creyentes para hacerles comprender que la decadencia del mundo es inevitable y debe aceptarse.
+- **Soy lo que los dioses temen:** Jactancia de los aspirantes a campeones que evoca el terror que sintieron los dioses supervivientes tras luchar para contener a la Bestia Brusca.
+
+## Fiestas
+
+No existen celebraciones universales; cada secta tiene sus propias tradiciones. Dos eventos son más comunes entre los fieles.
+
+- **Último día:** Cuando una conjunción de estrellas y planetas específicas se alinea durante los meses de otoño, los seguidores creen que es una bendición. Las creencias sobre sus efectos varían: algunos dicen que debilita la prisión, otros que aumenta su poder, y hay quienes sostienen que los adivinos pueden predecir la liberación de Rovagug.
+- **El Despertar:** Fiesta anual celebrada principalmente por los orcos adoradores de Rovagug a principios de la primavera. Se cree que cuando ocurrió la Caída de la Tierra, el impacto de la Estrella Eón despertó a Rovagug y él lanzó un poderoso rugido telepático que oyeron los chamanes orcos, incitándolos a la batalla.
+
+## Relaciones con Otras Deidades (ampliado)
+
+La mayoría de los demás dioses consideran a Rovagug un enemigo y se unirían contra él si fuera necesario. Los dioses aún no han hallado una forma de matarlo —muchos dicen que es imposible— y temen que algún día logre su libertad.
+
+- **Lamashtu:** Lo considera rival en la creación de monstruos.
+- **Groetus:** Hay rumores de lazos por sus intereses comunes en la destrucción; ambos no muestran la animosidad que se esperaría de dioses rivales.
+- **Sarenrae:** Rovagug siente un desprecio especial por quienes lo encarcelaron, en especial por Sarenrae. Si se liberara, se precipitaría hacia ella y la desgarraría por haberlo atraído a la trampa.
+
+## Aliados Divinos
+
+Rovagug a veces recibe ayuda de qlippoths y otros diablos que buscan deshacer la realidad. Los más infames son la **Progenie de Rovagug**, monstruos horrendos de destrucción vomitados desde la garganta titánica del dios:
+
+- **Ulunat** (la Primera Impía)
+- **Motor del Armagedón**
+- **Xotani el Sangremar** (destructivo)
+- **Kothogaz** (que aterrorizó Vudra)
+- **Chemnosit el Gusano Monarca** (temible excavador)
+- **Volnagur el Cantor Final** (terror volador)
+
+## Intercesión Divina
+
+El encarcelamiento de Rovagug hace que casi nunca pueda interceder en Golarion, pero algunos lugares que penetran lo bastante profundo en la tierra permiten que su influencia profana se filtre. Es tan probable que maldiga a quienes le llaman la atención como que los recompense; actos de violencia y destrucción suficientemente grandes pueden ganarse su favor.
+
+**Bendición menor:** Tu ataque se vuelve más destructivo. Una vez, uno de tus ataques fallados o exitosos se convierte en golpe crítico, y tu arma gana el rasgo mortal d12 para ese ataque. Rovagug suele otorgar esta bendición cuando la crítica podría destruir algo precioso o significativo.
+
+**Bendición moderada:** Puedes devorarlo todo. Tu boca se transforma en mandíbulas insectoides con dientes en forma de aguja. Adquieres un ataque de mordisco (1d8 perforante) y puedes tragar cualquier cosa que quepa en tu garganta. Obtienes +4 de estado a salvaciones contra efectos de objetos consumidos.
+
+**Bendición mayor:** Puedes quebrar la superficie de Golarion, acelerando la liberación de la Bestia Brusca. Obtienes el talento de bárbaro Pisotón Sísmico; puedes usarlo incluso sin estar en furia.
+
+**Maldición menor:** Cuando estás encarcelado o restringido, también te vuelves torpe 2 y estupefacto 2.
+
+**Maldición moderada:** Tu rabia destructiva busca permanecer sin ataduras. Cualquier armadura que lleves se vuelve automáticamente destrozada. Otros objetos en tu posesión ocasionalmente se rompen.
+
+**Maldición mayor:** Únicamente sirves como faro de destrucción. Estás permanentemente confundido, arrasando contra todo lo que ves, y causas 18 puntos de daño adicionales con ataques desarmados y armas.
+
+## Reino
+
+La **Bóveda Muerta**, profunda en la corteza de Golarion, se considera el dominio de Rovagug. Esta prisión fue forjada por decenas de dioses y parece un globo facetado de topacio rodeado por gruesos anillos de hierro negro incrustado con runas de vinculación. Quienes la han visto distinguen la forma de la deidad insectoide congelada en el corazón del cristal amarillo.
+
+Se puede acceder a través de la Fosa de Gormuz en Casmaron, aunque su superficie dobla el espacio para mantener a la gente a raya. Aunque la prisión contiene su forma física, la prisa con la que se creó ha permitido que su influencia se filtre, infectando las Tierras Oscuras e infectando telepáticamente a sus seguidores.
+
+## Campeones
+
+La mayoría de los campeones de Rovagug siguen la causa de la profanación, con un deseo natural de herir, corromper y destruir. Se deleitan en enfrentarse a enemigos de otras fes. Un campeón tiende a sembrar destrucción por su cuenta o guiar a otros seguidores hacia metas destructivas. Estos grupos son de corta duración, ya que con el tiempo los campeones tienden a aniquilar a sus propios aliados.

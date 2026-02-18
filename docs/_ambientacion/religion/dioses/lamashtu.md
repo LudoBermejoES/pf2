@@ -83,3 +83,9 @@ Lamashtu considera a todos los otros dioses enemigos, aunque enfoca su energía 
 ## Sacerdotes y la Iglesia
 
 La fe de Lamashtu es antigua, pero aún muy primitiva en sus creencias y hábitos. Un sacerdote (clérigo, druida, adepto o incluso un taumaturgo) debe asegurarse de que los miembros de su tribu sean fuertes en su fe, atender sus heridas físicas (especialmente aquellos cuyas deformidades son un impedimento significativo), y guiarlos espiritualmente.
+
+## Aforismos
+
+- **Bendita sea la Madre:** Puede ser súplica, grito o saludo. Suena en canciones de parto para que nazcan criaturas feroces.
+- **Abraza su Fuego y Escarcha:** En alusión a sus espadas, lo gritan antes de matar o como grito de guerra.
+- **Otra cicatriz en el vientre:** Variante: "Las cicatrices son la prueba". Refleja que las pruebas más duras forjan cualidades, aunque recuerda la cicatrización en su nombre.

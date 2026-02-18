@@ -98,3 +98,50 @@ Entienden que los no-muertos, las bestias sin mente y los demonios están esenci
 ### Sustento
 
 La mayoría de los sacerdotes no aventureros viven de donaciones de su congregación, al igual que aquellos que trabajan en los templos de la iglesia. La gente más rica o los nobles podrían contratar a un sacerdote como sanador personal para lidiar con un problema particular.
+
+## Aforismos
+
+- **El alba trae nueva luz:** Bendición para ocasiones importantes o para levantar a quien está abatido.
+- **Sol y lluvia hacen crecer:** Aunque el sol es su foco, reconoce que la lucha y la adversidad nutren la luz.
+- **Invoco la luz:** Grito de batalla para llamar su atención al comenzar un combate, pidiendo protección y fortuna.
+
+## Fiestas
+
+- **Día de la Ascensión:** El 6 de Lamashan conmemora su entrada a la Catedral de la Piedra Estelar. Incluye cantos, promesas de amistad y perdón a enemigos arrepentidos.
+- **Armasse:** El 16 de Arodus se entrena a civiles, se nombran escuderos y se ordenan nuevos sacerdotes. Hay justas, duelos y demostraciones.
+- **Luna del Recuerdo:** La primera luna llena de Desnus, especialmente en Ustalav y entre refugiados de Gravelands, recuerda a quienes murieron ante el Tirano Susurrante; toma mayor relevancia tras la fuga de Tar-Baphon.
+
+## Relaciones con Otras Deidades (ampliado)
+
+- **Abadar:** Comparte intereses por su sistema legal; trabajan juntos para la justicia.
+- **Cayden Cailean y Norgorber:** Sus compañeros Ascendidos tienen una relación enigmática. Ambos son queridos por la humanidad y comparten el odio a los déspotas. La relación con Norgorber es tensa, pues su moralidad choca.
+- **Arazni:** Relación complicada. Cuando Arazni fue heraldo de Aroden, Sarenrae la ayudó frente al Tirano. Tras el robo del cuerpo de Arazni surgieron malentendidos. Hoy Sarenrae quiere enmendarlo, pero no comparte la visión sombría de Arazni; la otra la considera ingenua pero aún siente algo de orgullo.
+- **Rovagug:** Su único enemigo declarado, cuya destrucción sin sentido se opone totalmente a su naturaleza.
+
+## Aliados Divinos
+
+Sus sirvientes incluyen ángeles, arcontes y cualquier entidad dispuesta a aliarse con la justicia. Muchos dragones se unen a sus ejércitos y valquirias acompañan sus tropas.
+
+- **Thalachos:** Santo Señor del Sol, heraldo de Sarenrae, un ángel de piel de platino acompañado siempre por 11 palomas inmortales.
+
+## Intercesión Divina
+
+**Bendición menor:** Siempre estás impecable. Tu ropa y persona están limpias, tu espada y armadura brillantes. No evita enfermedades, pero funciona como si te hubieras aseado.
+
+**Bendición moderada:** Tu corazón late con valor. Una vez, Sarenrae elimina todos los efectos negativos (salvo artefactos o deidades), restaura Golpes, conjuros, puntos de enfoque y recursos diarios.
+
+**Bendición mayor:** Imbuye tu espada. Las espadas largas ganan runas axioma, sagradas y mayor impacto mientras las sostienes. Si superas el límite de runas, eliges cada día cuáles conservar. Ganas +2 a ataques con espadas largas.
+
+**Maldición menor:** Armas y armaduras se oscurecen y vuelven a tener la mitad de PG y UM.
+
+**Maldición moderada:** Las ventajas tácticas fallan. No recibes bonos circunstanciales y los enemigos no pierden penalizadores.
+
+**Maldición mayor:** Todas las armas te rechazan. Se rompen automáticamente tras cada ataque. No afecta artefactos.
+
+## Reino
+
+Su dominio es un paisaje verde con fortalezas y murallas, influenciado por la arquitectura de Axis y adornado con torres celestiales. Allí se reúnen estrategas y se entrenan legiones.
+
+## Campeones
+
+Siguen la grandeza, la justicia y la obediencia. Rigen códigos de honor y actúan con integridad, a menudo montados en caballos celestiales. Prefieren espada y escudo, protegen a aliados y luchan contra demonios y no-muertos.

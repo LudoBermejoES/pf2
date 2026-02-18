@@ -105,3 +105,51 @@ No es inusual que los sacerdotes celosos permanezcan célibes, dedicando toda su
 Los sacerdotes de Gozreh son gente ruda y tienden a ser expertos en Supervivencia y Conocimiento de la naturaleza. Sus druidas tienden a ser ermitaños, raramente viendo a otra criatura parlante, solo dejando sus refugios cuando la diosa llama o un asentamiento local los soborna para hacer llover.
 
 La mayoría de los sacerdotes están contentos de vivir de la tierra, a veces recolectando tesoros del mar como perlas, coral y objetos similares.
+
+## Aforismos
+
+- **Por la marea y la tormenta:** Juramento solemne que evoca ambas caras del dios, usado al iniciar acólitos, hacer sacrificios o jurar venganza contra quienes dañan la naturaleza.
+- **La tormenta pasa:** El clima, las emociones y la vida son temporales. Aunque el cielo esté oscuro hoy, mañana se abrirá. Esta consigna insta a no ceder a la desesperación, prometiendo cielos limpios.
+
+## Fiestas
+
+- **Vigilia de la Corriente:** Ayuno de un día el 7 de Gozran preparando la aparición de brotes y peces en primavera. Reconoce que hambre y abundancia forman ciclos; al privarse creen revitalizar a quienes los alimentarán el resto del año.
+- **Primer Flor:** En el equinoccio primaveral las comunidades agrícolas y recolectoras festejan la siembra y las primeras flores del bosque. El evento está lleno de danzas y ritos de fertilidad.
+
+## Relaciones con Otras Deidades (ampliado)
+
+Los seguidores de Gozreh encuentran afinidad con creyentes de lugares salvajes. En tierra, trabajan con los de Erastil, que también respetan los ciclos. Muchos piensan que las bestias terrestres y los cultivos caen bajo Erastil, mientras las aves, peces y plantas silvestres pertenecen a Gozreh. En el mar también respetan a Besmara. Gozreh colabora con Desna: las estrellas de Desna guían lo indómito, y los cielos nocturnos representan el absoluto sin manos mortales.
+
+Quienes alteran el orden natural atraen la ira: la expansión de la civilización puede enfrentar a Gozreh con Abadar. Gozreanos restauran desastres de Nethys y Rovagug. Los fieles de Urgathoa no encuentran piedad.
+
+## Aliados Divinos
+
+Gozreh desprecia las cruzadas filosóficas de celestiales y demonios. Sus aliados son animales divinos y elementales, sobre todo los ligados al aire o al agua.
+
+- **Personificación de la Furia:** Una tormenta viviente de relámpagos y nubes oscuras; un elemental único que mezcla aire y agua. Rechaza los planos elementales dominados por un solo elemento y se identifica con la mezcla natural de Gozreh. Puede traer lluvia vital o inundar aldeas, siempre que sirva a Gozreh.
+
+## Intercesión Divina
+
+Gozreh premia el respeto a criaturas y aguas, y castiga cualquier profanación.
+
+**Bendición menor:** Te guía en el mar. Estás bajo los efectos constantes de *conoce el camino* y ganas entrenamiento en Lore de Navegación (o cualquier lore si ya lo tienes).
+
+**Bendición moderada:** Tocas el mar. Puedes respirar bajo el agua y obtienes velocidad de nado igual a tu velocidad terrestre.
+
+**Bendición mayor:** El viento te empuja. Ganas un bono de +30 pies a tus velocidades y obtienes velocidad de vuelo igual a la terrestre.
+
+**Maldición menor:** Dos rayos te buscan. Ganas debilidad 5 a electricidad y cualquier rayo natural o mágico te elige a ti primero.
+
+**Maldición moderada:** Las corrientes te luchan. Pierdes cualquier velocidad de nado salvo si es tu única velocidad, en cuyo caso sufres -20 pies. Cada tirada de Atletismo para Nadar registra un grado de éxito peor.
+
+**Maldición mayor:** La naturaleza te rechaza. Todos los animales y plantas no sensibles te son hostiles y tu compañero animal o familiar te abandona. Las plantas sensibles te ven con actitud dos categorías peor.
+
+## Reino
+
+A diferencia de muchas deidades, Gozreh permanece en el Universo mortal y casi no se ocupa de otros planos. Sus seguidores sienten su presencia en cualquier lugar salvaje, pero sitios especialmente activos tienen gran importancia: El Ojo de Abendego, la Llamada del Relámpago, los rangos occidentales de los Lohaparbat o las islas volcánicas de Minata.
+
+## Campeones
+
+Sus campeones siguen casi exclusivamente la liberación: liberan aves salvajes, derriban barreras humanas como presas o cercas. A menudo colaboran con otros seguidores para volver los elementos contra quienes ultrajan la naturaleza. Son aliados naturales de druidas y guardianes forestales.
+
+Algunos pocos, impulsados por la furia contra la profanación, abrazan la justicia para destruir enemigos. Los más ambiciosos buscan borrar comunidades que contaminan lo inalterado.

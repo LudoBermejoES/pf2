@@ -98,3 +98,43 @@ La mayoría de los sacerdotes eventualmente se casan.
 ### Sustento a través del Arte
 
 Típicamente, los sacerdotes no aventureros se mantienen a través de algún tipo de arte, lo que significa que tienden a tener talentos artísticos que les permiten ganarse la vida mientras sirven a su diosa.
+
+## Fiestas
+
+Los festivales varían según la región.
+
+- **Danza de las Rosas:** Celebra la llegada de la primavera con procesiones florales y bailes.
+- **Canción de la Alborada:** Invita a expresar amor en voz alta.
+- **Luz de los Amantes:** Se realiza en luna llena para proteger los vínculos nuevos.
+
+## Relaciones con Otras Deidades (ampliado)
+
+Shelyn mantiene estrechos vínculos con Sarenrae y Desna, compartiendo amor y belleza. Sus templos suelen colaborar con los de Desna y Sarenrae en celebraciones comunitarias. Aunque Calistria desea ser su amante y lucha por ella, la Eterna Rosa se muestra selectiva en sus afectos.
+
+## Aliados Divinos
+
+Sus servidores son artistas celestiales: faunos, azatas y criaturas musicales.
+
+- **Cantora Eterna:** Su heraldo, viste alas irisadas y trae armonía y advertencias ante quienes profanan el amor.
+
+## Intercesión Divina
+
+**Bendición menor:** La música te acompaña. Tu voz canta con armonía curativa y sonidos agradables otorgan +1 circunstancial a una prueba.
+
+**Bendición moderada:** Creas belleza. Durante 1 minuto todos los aliados a 9 metros ganan +1 a CA y salvaciones mientras se mantengan en la melodía.
+
+**Bendición mayor:** Tu arte inspira. Escoge un aliado; su próximo ataque crítico gana efecto adicional o su siguiente hechizo gana +2 al CD.
+
+**Maldición menor:** Destrozan tu inspiración. Sufres −2 circunstancial en pruebas de Interpretación o Artesanía.
+
+**Maldición moderada:** Tu arte se vuelve repulsivo. Cuando intentas inspirar o sanar, el efecto revertido se aplica a ti.
+
+**Maldición mayor:** Pierdes el sentido de la belleza; todo te parece feo y te cuesta sentir amor. Quedas con −2 en Carisma y no puedes dar o recibir afecto sincero.
+
+## Reino
+
+Sus dominios son jardines eternos donde flores cantan, fuentes de arcoíris y aves trinan en cascadas multicolores.
+
+## Campeones
+
+Sus campeones defienden la belleza, la libertad creativa y la compasión. Sus enemigos son aquellos que destruyen el arte o el amor.

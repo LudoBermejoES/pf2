@@ -95,3 +95,46 @@ Los templos de Zon-Kuthon parecen cámaras de tortura, y muchos son cámaras de 
 La iglesia no tiene verdaderos principios organizativos generales. Cada célula o templo tiene una jerarquía entendida, basada en poder físico, resistencia, disposición y habilidad para soportar dolor.
 
 La mayoría de los sacerdotes se visten con versiones fetichistas de las propias prendas de su dios. La modificación corporal y la automutilación son la norma.
+
+## Fiestas
+
+- **El beso eterno:** Ceremonia de 11 días que termina la noche de la primera luna nueva del año. Durante los primeros diez días, la víctima elegida recibe comidas decadentes y comodidades. En la última noche, la celebración se convierte en tortura brutal y evisceración; los sacerdotes buscan señales y presagios en los alaridos de la víctima y en sus entrañas.
+- **El festival del regreso de la noche:** Celebración anual del triunfo de la oscuridad sobre la luz en el equinoccio de otoño, con hogueras, plegarias públicas masivas y desfiles de flagelantes. En las ciudades de Nidal, muchos fieles emplean cadenas con pinchos.
+
+## Relaciones con Otras Deidades (ampliado)
+
+- **Shelyn:** La relación más dolorosa del panteón. Antes compartían un portafolio divino. Tras su transformación, Zon-Kuthon masacró a su propio padre Thron, transformándolo en el Príncipe encadenado. Shelyn sostiene que fragmentos de Dou-Bral siguen atrapados dentro de Zon-Kuthon y podrían redimirse. El Señor de la Medianoche evita a Shelyn pero no castiga a quienes persiguen a sus adoradores.
+- **Abadar:** No olvida el pacto que lo encerró, pero lo ignora en su mayor parte.
+- **Asmodeus:** Sus agentes hacen pactos con los fieles de Zon-Kuthon, especialmente en Cheliax. Nidal es un estado cliente cheliaxano.
+- **Lamashtu:** Los seguidores pueden acordar alianzas efímeras; comparten interés en pesadillas y mutilación, aunque la autodestrucción kuthita los aleja de la prole de la Madre de Monstruos.
+- **Desna:** Enemigos frecuentes; los seguidores de Desna trabajan desde hace tiempo para traer esperanza a Nidal.
+
+## Aliados Divinos
+
+Los velstracs de todo tipo sirven con entusiasmo al Señor de la Medianoche.
+
+- **El Príncipe encadenado:** Esta amalgama brutal y rabiosa de lobo y cadenas es todo lo que queda del padre de Dou-Bral, Thron, reducido a un despojo de su antiguo ser por las torturas de Zon-Kuthon.
+
+## Intercesión Divina
+
+Zon-Kuthon rara vez interviene directamente, pero cuando toma interés personal el efecto es tan terrible como el dios mismo.
+
+**Bendición menor:** Cada vez que recibes daño cortante, perforante o sangrado, surgen cadenas de oscuridad desde tu cuerpo durante 1 minuto y afectan criaturas en línea con un efecto equivalente a *grim tendrils*.
+
+**Bendición moderada:** Cada mañana, cicatrices forman palabras sobre tu piel que funcionan como un pergamino de un conjuro divino escogido por Zon-Kuthon. Tras usarlo o recibir curación mágica, la bendición desaparece por el día.
+
+**Bendición mayor:** Las sombras son más densas a tu alrededor. La visión oscura y la visión oscura mayor no pueden atravesar la oscuridad dentro de 18 metros de ti, pero tú puedes verla normalmente.
+
+**Maldición menor:** Estás rodeado de cadenas espectrales que te obligan a estar siempre sobrecargado y tienen el mismo efecto que una armadura con la propiedad ruidosa.
+
+**Maldición moderada:** Compartes el dolor ajeno. Cada vez que percibes a una criatura recibir daño, sufres 1d6 de daño mental. Cuando tú recibes daño, sufres 1d6 de daño mental adicional y quedas enfermo 1. Este daño ignora resistencias.
+
+**Maldición mayor:** Zon-Kuthon te roba la alegría. Pierdes lo que más aprecias y la capacidad de sentir gozo. No puedes beneficiarte de efectos emocionales positivos. Solo te lo devolverá si demuestras estar dispuesto a destruirlo o mutilarlo.
+
+## Reino
+
+Zon-Kuthon reside en **Xovaikain**, su antigua prisión en el Otro Mundo. Desde fuera aparece como una pared de obsidiana que perfora las nubes, dominando la geografía por millas. Un estruendo interminable de alaridos penetra la pared pero ninguna luz escapa. Casi nada se sabe de su interior; incluso los habitantes más fuertes del Otro Mundo evitan el lugar.
+
+## Campeones
+
+Solo los campeones más viles o nihilistas sirven a Zon-Kuthon. Los clérigos del Señor de la Medianoche se deleitan en intentar romper el espíritu de héroes bondadosos para convertirlos. Los campeones se dedican a la destrucción, la tortura y el dolor, siguiendo causas de iniquidad u obediencia. En Nidal sirven como ejecutores o espías de la **Corte Umbral**; un grupo fanático llamado la **Compañía de Adamantina** sirve como fuerza mercenaria brutal, y muchos forman parte de la **Guardia de Adamantina**, el ejército estatal de Nidal.

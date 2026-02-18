@@ -88,3 +88,52 @@ No tienen deberes más que la protección mutua y ayudar a aquellos que desean c
 ### Profesiones Encubiertas
 
 Los sacerdotes usualmente ocultan su alianza y encuentran empleo en trabajos que les permiten acceso frecuente a cuerpos muertos, como sepulturero, mercenario, o (si están desesperados) carnicero. Aquellos que saben cocinar bien podrían encontrar trabajo en cocinas donde puedan satisfacer sus apetitos mientras sirven a su diosa.
+
+## Aforismos
+
+- **Come tus emociones:** Los seguidores resuelven sus preocupaciones calmando sus nervios mediante banquetes. Esta frase se usa para consolar a amigos o aliados.
+- **Deja que la podredumbre eche raíces:** Cuando un urgathoano hace una promesa, la cumple. Este juramento promete que las palabras y promesas compartidas se pudrirán en la mente y alma hasta que se cumplan.
+- **Que cenes para siempre:** Los devotos creen que todo será consumido; solo es cuestión de tiempo. Se usa para incitar a actos de glotonería o para revelar sutilmente la fe a otros seguidores.
+
+## Fiestas
+
+A Urgathoa no le importan fechas específicas. Sus seguidores siguen la rotación celestial del planeta no-muerto Eox y celebran vigilias a la luz de velas con banquetes en cementerios durante las noches en que Golarion y Eox se alinean. Algunos templos incluyen una celebración encubierta bajo la apariencia de un festival de verano, con un concurso de voluntad que anima a los participantes a entregarse a banquetes de salchichas, pan y vino.
+
+## Relaciones con Otras Deidades (ampliado)
+
+- **Erastil, Sarenrae, Farasma, Gozreh y Abadar:** La odian porque sus enseñanzas contradicen todo en lo que creen.
+- **Calistria:** Compiten por seguidores; Calistria es la diosa de la lujuria y Urgathoa aboga por todos los excesos físicos. En general se respetan mutuamente.
+- **Lamashtu:** En conflicto y competición; Urgathoa preferiría ver el mundo repleto de no-muertos que de la horda de monstruos de Lamashtu.
+- **Zyphus:** Reside en Bloodrot y ve a Urgathoa como una mentora.
+- **Kabriri y Zura:** Se alían con ella por su dedicación compartida al no-muerto.
+- **Shelyn:** Relación complicada. Ambas disputan la virtud del amor. La tensión escaló cuando Shelyn intentó redimir al general vampiro Petrescu, uno de los más devotos de Urgathoa, que se había enamorado de una mortal. Desde entonces Urgathoa descarga su ira contra los seguidores de Shelyn mediante las Siegas.
+
+## Aliados Divinos
+
+La mayoría de sus servidores son criaturas no-muertas o bestias impías que se alimentan de carroña.
+
+- **Mandíbula Materna:** Su heraldo toma la forma de un cráneo alado masivo rodeado por nubes de moscas carroñeras. Aunque es vil e inmoral, también es epicúreo y le encanta hablar de comida, vino, perfumes y experiencias sociales.
+
+## Intercesión Divina
+
+Urgathoa interviene en los asuntos mortales para alimentar su propia gratificación y su obsesión por observar nuevas sensaciones.
+
+**Bendición menor:** Te hartas de los despojos de la vida y la muerte. Obtienes los beneficios de la herencia goblin de irongut, sin importar tu ascendencia. Si ya tienes esa herencia, el bono circunstancial aumenta a +4.
+
+**Bendición moderada:** Urgathoa te bendice como a uno de sus hijos. Obtienes curación del vacío.
+
+**Bendición mayor:** Cuando contraes contagios, experimentas sueños febriles llenos de revelaciones. Una vez afectado por una enfermedad, obtienes los efectos de *augurio* contigo mismo como objetivo hasta que ya no estés afectado.
+
+**Maldición menor:** Necesitas comer veinte veces más de lo normal para evitar la inanición, y siempre tienes hambre. Si comes carne y sangre de criaturas sápientes, solo necesitas la cantidad normal.
+
+**Maldición moderada:** Te perjudican los efectos de vitalidad y no recuperas PG por ellos (como si tuvieras curación del vacío), pero sigues siendo dañado por efectos del vacío.
+
+**Maldición mayor:** Desarrollas una enfermedad consumidora incurable que te vuelve torpe 2, debilitado 2 e incapaz de moverte salvo reptando. Nunca progresa hasta matarte, pero se transmite a amigos y seres queridos con solo mirarlos, consumiéndolos hasta matarlos y obligándolos a levantarse como no-muertos para perseguirte.
+
+## Reino
+
+La Princesa Pálida reside en Abaddon, en una región llamada **Bloodrot** que ganó negociando con Los Jinetes. Una próspera necrópolis alberga no-muertos que satisfacen impulsos carnales que conservaron de su vida mortal. Todos sus habitantes evitaron el Ciclo de las Almas y conservaron sus recuerdos. Zyphus también reside allí y busca el consejo de Urgathoa con frecuencia.
+
+## Campeones
+
+Urgathoa no rehúye la devoción de los campeones, por poco ortodoxa que parezca. No favorece a los guerreros santos tradicionales; prefiere a quienes sirven sus propias necesidades por encima de las de los demás. Los campeones de la profanación y la iniquidad son los principales que la siguen por sus tendencias egoístas y su deseo de sembrar destrucción.

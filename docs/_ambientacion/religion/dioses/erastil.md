@@ -94,3 +94,9 @@ Los sacerdotes administran a la gente menos a través de sermones y más por acc
 ### Tradición
 
 La iglesia de Erastil ha cambiado poco desde los primeros siglos de su existencia, en parte debido a la atención de sus druidas que existieron mucho antes de que hubiera sacerdotes de la fe. Aunque son una minoría entre el clero, todos los sacerdotes respetan a los druidas por mantener las tradiciones que han permitido a los humanos y medianos sobrevivir guerras, desastres naturales y cataclismos sobrenaturales.
+
+## Aforismos
+
+- **La risa de un niño es regalo, su llanto recordatorio:** Familia y amigos deben ser paz y alegría; pero junto a esos lazos viene la responsabilidad de cuidar y tener paciencia. Nuevos padres reciben esta frase a regañadientes mientras sufren privación de sueño.
+- **Una semilla bien atendida se convierte en árbol fuerte en los años venideros:** El dicho refleja la paciencia y disciplina que exige el Viejo Ojos, y su visión optimista del futuro.
+- **La tarea más dura se vuelve fácil con un amigo:** El trabajo es esfuerzo comunitario, y "amigo" implica que el esfuerzo crea lazos no comerciales sino de afecto y pertenencia.

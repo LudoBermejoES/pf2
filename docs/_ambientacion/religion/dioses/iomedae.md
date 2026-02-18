@@ -93,3 +93,43 @@ Se toman sus responsabilidades muy en serio y la mayoría se conducen como grand
 ### La Iglesia Más Agresiva
 
 De todas las iglesias buenas de Golarion, la de Iomedae es la más agresiva en buscar y combatir el mal. Sus sacerdotes prefieren estar en misiones que hacer tareas mundanas en una ciudad. Los laicos y acólitos talentosos ocupan la mayoría de los puestos en la ciudad, aunque los sacerdotes veteranos que se recuperan de heridas o enfermedades prefieren trabajar en los templos en lugar de descansar y convalecer.
+
+## Relaciones con Otras Deidades (ampliado)
+
+Iomedae comparte intereses con Abadar, Erastil, Shelyn y Torag. Siente especial afinidad con Abadar por su insistencia en leyes y justicia, y con Sarenrae por su celo recto. Tiene cercanía con Milani, la Floreciente, a quien llama hermana de armas.
+
+Cayden Cailean y Norgorber comparten con ella el estatus de Ascendidos por la Piedra Estelar. No hay conexión obvia entre su ascenso recto, el accidente divino de Cayden y la apoteosis enigmática de Norgorber.
+
+Una relación complicada es con Arazni. Cuando Arazni fue heraldo de Aroden, Iomedae la proclamó campeona y luchó junto a ella contra el Tirano Susurrante. Tras recuperar su libertad, existe una gran distancia entre ambas. Iomedae desea reconciliarse, pero no coincide con la visión sombría de la Inquebrantable, mientras que Arazni ve su idealismo como ingenuo aunque todavía siente un pequeño orgullo por su sucesora.
+
+## Aliados Divinos
+
+Ángeles y arcontes acuden a su estandarte. Sus peticionarios, que luchan incluso tras la muerte, son santos para su clero. Dragones participan en sus ejércitos y valquirias vuelan sobre sus tropas.
+
+- **Galfrey:** Reina mortal de Mendev, combatió 100 años a los demonios de la Herida del Mundo. Tras la quinta cruzada logró cerrarla. Respondió al llamado de Iomedae para convertirse en su nueva heraldo tras vivir fallos y sacrificios.
+
+## Intercesión Divina
+
+Concede bendiciones a quienes demuestran valor.
+
+**Bendición menor:** Siempre causas buena impresión. Ropa y persona están limpias y ordenadas, y la espada y la armadura resplandecen. No evita enfermedades, pero te protege como si te hubieras aseado.
+
+**Bendición moderada:** Late tu corazón con valor. Una vez, Iomedae elimina todos los efectos negativos a menos que procedan de artefactos, deidades u otras fuentes poderosas; también restaura PG, conjuros, puntos de enfoque y recursos diarios.
+
+**Bendición mayor:** Imbuye tu espada. Las espadas largas que empuñas ganan las runas axioma, sagradas y de impacto mayor mientras las mantienes. Si superas el límite de runas, eliges cada día cuáles conservar. Ganas +2 a los ataques con espadas largas.
+
+**Maldición menor:** Tu espada y armadura se han oscurecido como plomo. Vuelven a tener la mitad de PG y UM.
+
+**Maldición moderada:** Las ventajas tácticas nunca funcionan. No recibes bonos circunstanciales a tus ataques, y los enemigos no sufren penalizadores circunstanciales.
+
+**Maldición mayor:** Todas las armas te rechazan. Cualquier arma que empuñes se rompe automáticamente tras atacar. Esta maldición no puede destruir artefactos u otras armas poderosas.
+
+## Reino
+
+Swordhome, su dominio, está en el segundo nivel del Cielo. Un paisaje verde salpicado de fortalezas, murallas y bastiones refleja la arquitectura de Axis, con estallidos de torreones celestiales que acentúan la defensa. Allí se celebran estrategias y entrenan legiones de ángeles y arcontes.
+
+## Campeones
+
+Sus campeones siguen la grandeza, la justicia y la obediencia. Mantienen códigos estrictos de honor y se comportan con integridad. Muchos luchan montados en caballos celestiales con alas blancas.
+
+Prefieren espada larga y escudo, son los primeros en entrar en combate y los últimos en marcharse. Protegen con sus escudos y cuerpos y nunca abandonan a sus aliados.
