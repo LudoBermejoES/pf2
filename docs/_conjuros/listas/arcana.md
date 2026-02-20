@@ -21,7 +21,7 @@ PC = poco común.
 - **[Convocar instrumento](/conjuros/convocar-instrumento/) P** - Llamas a un instrumento que solo tu puedes tocar.
 - **[Derramar cascajo](/conjuros/derramar-cascajo/) P** - Una mezcolanza de rocas cae en el área. (PC2)
 - **[Detectar magia](/conjuros/detectar-magia/) P** - Te permite notar cuando hay magia cerca.
-- **[Distorsion del vacío](/conjuros/distorsion-del-vacío/) P** - Dañas y debilitas a los vivos con la energía del vacío.
+- **[Distorsion del vacío](/conjuros/distorsion-del-vacio/) P** - Dañas y debilitas a los vivos con la energía del vacío.
 - **[Escudo](/conjuros/escudo/) P** - Un escudo de fuerza magica bloquea ataques y conjuros.
 - **[Explosion caustica](/conjuros/explosion-caustica/) P** - Lanzas un pegote de acido que salpica en un area pequena.
 - **[Fantasia](/conjuros/fantasia/)** - Creas una ilusión auditiva o visual sencilla.
@@ -56,12 +56,12 @@ PC = poco común.
 - **[Crear agua](/conjuros/crear-agua/)** - Conjuras dos galones (8 l) de agua.
 - **[Cuerpo runico](/conjuros/cuerpo-runico/) P** - Aplicas temporalmente runas magicas a los ataques sin armas de una criatura.
 - **[Debilitar](/conjuros/debilitar/)** - Minas la fuerza de una criatura.
-- **[Deja vu](/conjuros/deja-vu/) P** - Obligas a una criatura a repetir sus acciones. (PC2)
-- **[Descarga de fuerza](/conjuros/descarga-de-fuerza/) P** - Bombardeas a las criaturas con esquirlas infalibles de fuerza magica.
+- **[Deja vu](/conjuros/dejà-vu/) P** - Obligas a una criatura a repetir sus acciones. (PC2)
+- **[Descarga de fuerza](/conjuros/descarga-de-fuerza-a/) P** - Bombardeas a las criaturas con esquirlas infalibles de fuerza magica.
 - **[Disfraz ilusorio](/conjuros/disfraz-ilusorio/) P** - Aparentas ser una criatura diferente.
 - **[Disfrazar magia](/conjuros/disfrazar-magia/) P** - Enmascaras el aura de un conjuro u objeto.
 - **[Dormir](/conjuros/dormir/) P** - Haces que las criaturas de una pequena zona se queden dormidas.
-- **[Empujón hidraulico](/conjuros/empujón-hidraulico/) P** - Danas y empujas a una criatura con una explosion de agua.
+- **[Empujón hidraulico](/conjuros/empujon-hidraulico/) P** - Danas y empujas a una criatura con una explosion de agua.
 - **[Enlace mental](/conjuros/enlace-mental/)** - Impartes mentalmente 10 minutos de información en un instante.
 - **[Esbirro fantasmal](/conjuros/esbirro-fantasmal/)** - Creas una criatura de fuerza para que lleve a cabo tareas menores.
 - **[Escombros apaleadores](/conjuros/escombros-apaleadores/) P** - Lanzas un cono de rocas para apalear criaturas.
@@ -122,7 +122,7 @@ PC = poco común.
 - **[Maniobra telecinetica](/conjuros/maniobra-telecinetica/)** - Desarmas, Reposicionas, Empujas o Derribas telecineticamente a una criatura.
 - **[Moldear la madera](/conjuros/moldear-la-madera/)** - Transformas madera sin trabajar en una forma a tu elección.
 - **[Montura maravillosa](/conjuros/montura-maravillosa/) P** - Conjuras una montura fantastica.
-- **[Neblina](/conjuros/neblina/)** - Ocultas a las criaturas tras una nube de neblina.
+- **[Niebla](/conjuros/niebla/)** - Ocultas a las criaturas tras una nube de neblina.
 - **[Oscuridad](/conjuros/oscuridad/) P** - Suprimes toda la luz en un area.
 - **[Portador fantasmal](/conjuros/portador-fantasmal/)** - Creas una criatura semicorporal que transporta tus conjuros de toque hasta tus objetivos.
 - **[Presa acida](/conjuros/presa-acida/) P** - Mueves y danas a los enemigos con una mano de acido.
@@ -138,7 +138,7 @@ PC = poco común.
 - **[Tranquilo descanso](/conjuros/tranquilo-descanso/) P** - Haces que un cadaver no se descomponga y no pueda convertirse en un muerto viviente.
 - **[Vendetta de sangre](/conjuros/vendetta-de-sangre/) P** - Haces que una criatura que te ataca empiece a sangrar.
 - **[Ver lo invisible](/conjuros/ver-lo-invisible/) P** - Revelas criaturas invisibles a tu vista.
-- **[Virote ardiente](/conjuros/virote-ardiente/) P** - Disparas entre uno y tres virotes en llamas contra enemigos diferentes.
+- **[Virote ardiente](/conjuros/virote-ardiente-a/) P** - Disparas entre uno y tres virotes en llamas contra enemigos diferentes.
 - **[Vision en la oscuridad](/conjuros/vision-en-la-oscuridad/) P** - Ves en la oscuridad.
 - **[Vomitar enjambre](/conjuros/vomitar-enjambre/) P** - Eructas un enjambre de alimañas mágicas. (PC2)
 
@@ -157,11 +157,11 @@ PC = poco común.
 - **[Hipnotizar](/conjuros/hipnotizar/)** - Haces que unos colores cambiantes deslumbren y fascinen a las criaturas.
 - **[Incitar esqueletos](/conjuros/incitar-esqueletos/) P** - Formas esqueléticas surgen del suelo y agarran criaturas. (PC2)
 - **[Invisibilidad compartida](/conjuros/invisibilidad-compartida/)** - Tú y los aliados cercanos os volvéis invisibles. (PC2)
-- **[Leer la mente PC](/conjuros/leer-la-mente-pc/)** - Lees los pensamientos superficiales de una criatura.
+- **[Leer la mente](/conjuros/leer-la-mente/)** - Lees los pensamientos superficiales de una criatura.
 - **[Lentificar](/conjuros/lentificar/) P** - Haces que una criatura sea mas lenta, reduciendo sus acciones.
 - **[Levitar](/conjuros/levitar/)** - Haces flotar un objeto o criatura unos cuantos pies (1 pie = 30 cm) por encima del suelo.
 - **[Ligadura terrestre](/conjuros/ligadura-terrestre/)** - Atas al suelo a una criatura voladora.
-- **[Localizar P](/conjuros/localizar-p/), P** - Averiguas la dirección hasta un objeto.
+- **[Localizar P](/conjuros/localizar/), P** - Averiguas la dirección hasta un objeto.
 - **[Maldicion del tiempo perdido](/conjuros/maldicion-del-tiempo-perdido/) P** - Maldices al objetivo con envejecimiento acelerado. (PC2)
 - **[Mensaje onirico](/conjuros/mensaje-onirico/) P** - Envias un mensaje que llega dentro de un sueño.
 - **[Muro de espinos](/conjuros/muro-de-espinos/) P** - Haces crecer un muro de zarzas.
@@ -171,33 +171,33 @@ PC = poco común.
 - **[Paralizar](/conjuros/paralizar/) P** - Inmovilizas a una criatura donde esta.
 - **[Pasaje seguro](/conjuros/pasaje-seguro/) P** - Haces que un area sea segura de atravesar.
 - **[Pies a aletas](/conjuros/pies-a-aletas/) P** - Conviertes los pies de una criatura en aletas, lo que le permite nadar pero le lentifica en tierra firme.
-- **[Pozo gravitatorio](/conjuros/pozo-gravitatorio/)** - Creas una esfera de gravedad alterada que mueve criaturas. (PC2)
+- **[Pozo gravitatorio](/conjuros/pozo-gravitacional/)** - Creas una esfera de gravedad alterada que mueve criaturas. (PC2)
 - **[Relampago](/conjuros/relampago/) P** - Un relámpago golpea a todas las criaturas en una linea.
 - **[Rostro del familiar](/conjuros/rostro-del-familiar/)** - Usas a tu familiar como sensor de escrutinio. (PC2)
 - **[Uno con la piedra](/conjuros/uno-con-la-piedra/)** - Te fusionas con una piedra o conviertes en ella.
-- **[Velo de privacidad PC](/conjuros/velo-de-privacidad-pc/)** - Proteges a una criatura u objeto de la detección magica.
+- **[Velo de privacidad](/conjuros/velo-de-privacidad/)** - Proteges a una criatura u objeto de la detección magica.
 - **[Vincular muertos vivientes](/conjuros/vincular-muertos-vivientes/)** - Tomas el control de un muerto viviente descerebrado.
 
 ## Conjuros de 4.o rango
 
 - **[Ambición apagada](/conjuros/ambicion-apagada/)** - Maldices al objetivo para que fracase en sus ambiciones. (PC2)
-- **[Arcada liminar PC](/conjuros/arcada-liminar-pc/)** - Abres una puerta dibujada con tiza a un escondrijo extradimensional.
+- **[Arcada liminar](/conjuros/arcada-liminar/)** - Abres una puerta dibujada con tiza a un escondrijo extradimensional.
 - **[Atadura planaria](/conjuros/atadura-planaria/)** - Mantienes a una criatura en su Plano actual.
-- **[Burbuja tranquila PC](/conjuros/burbuja-tranquila-pc/)** - Haces que una burbuja opaca evite la detección, los buenos, la percepción y el escudriñamiento.
+- **[Burbuja tranquila](/conjuros/burbuja-tranquila/)** - Haces que una burbuja opaca evite la detección, los buenos, la percepción y el escudriñamiento.
 - **[Cambiar de sitio](/conjuros/cambiar-de-sitio/) P** - Te teletransportas una distancia moderada.
 - **[Clarividencia](/conjuros/clarividencia/)** - Ves a traves de un sensor magico invisible.
 - **[Confusion](/conjuros/confusion/) P** - Confundes a una criatura, haciendo que actue de forma aleatoria.
 - **[Contencion](/conjuros/contencion/) P** - Envuelves a una criatura en un campo de fuerza inmóvil. (PC2)
 - **[Creación](/conjuros/creacion/) P** - Creas un objeto temporal.
-- **[Detectar escudriñamiento P](/conjuros/detectar-escudriñamiento-p/), P** - Compruebas si hay efectos de escudriñamiento en la zona.
+- **[Detectar escudriñamiento P](/conjuros/escudrinamiento/), P** - Compruebas si hay efectos de escudriñamiento en la zona.
 - **[Doncella vampirica](/conjuros/doncella-vampirica/) P** - Una doncella de hierro espectral drena vitalidad. (PC2)
 - **[Escudo de fuego](/conjuros/escudo-de-fuego/) P** - Las llamas te protegen del frio y danan a quienes te tocan.
-- **[Espejismo P](/conjuros/espejismo-p/), P** - Disfrazas un entorno natural como si fuera otro.
+- **[Espejismo P](/conjuros/espejismo/), P** - Disfrazas un entorno natural como si fuera otro.
 - **[Forma aerea](/conjuros/forma-aerea/) P** - Te conviertes en un combatiente aereo.
 - **[Forma de vapor](/conjuros/forma-de-vapor/)** - Transformas tu cuerpo en vapor.
-- **[Globo disipador PC](/conjuros/globo-disipador-pc/)** - Contrarrestas la magia que entra en esta esfera.
+- **[Globo disipador](/conjuros/globo-disipador/)** - Contrarrestas la magia que entra en esta esfera.
 - **[Maldición bestial](/conjuros/maldicion-bestial/)** - Maldices al objetivo para que se convierta en bestia. (PC2)
-- **[Maldición del paria](/conjuros/maldición-del-paria/)** - Maldices a una criatura con ser poco atractiva e insoportable.
+- **[Maldición del paria](/conjuros/maldicion-del-paria/)** - Maldices a una criatura con ser poco atractiva e insoportable.
 - **[Moldear la piedra](/conjuros/moldear-la-piedra/)** - Das nueva forma a un cubo de piedra.
 - **[Movimiento sin restricciones](/conjuros/movimiento-sin-restricciones/)** - Repeles los efectos que mantendrían en su lugar a una criatura.
 - **[Muro de fuego](/conjuros/muro-de-fuego/) P** - Creas un muro ardiente que quema a las criaturas que lo atraviesan.
@@ -226,25 +226,25 @@ PC = poco común.
 - **[Culebrear](/conjuros/culebrear/) P** - Haces que unas serpientes sombrias muerdan y capturen criaturas.
 - **[Destierro](/conjuros/destierro/) P** - Envias a una criatura de vuelta a su Plano natal.
 - **[Escena ilusoria](/conjuros/escena-ilusoria/) P** - Creas una escena imaginaria que contiene multiples criaturas y objetos.
-- **[Falsa vision PC](/conjuros/falsa-vision-pc/)** - Enganas a un conjuro de escudriñamiento.
+- **[Falsa vision](/conjuros/falsa-vision/)** - Enganas a un conjuro de escudriñamiento.
 - **[Fango corrosivo](/conjuros/fango-corrosivo/) P** - Creas charcos de baba ácida. (PC2)
 - **[Forma de elemental](/conjuros/forma-de-elemental/) P** - Te conviertes en un elemental.
-- **[Habla verdadera P](/conjuros/habla-verdadera-p/), P** - Permites a una criatura que hable y entienda todos los idiomas.
-- **[Hacerse el muerto PC](/conjuros/hacerse-el-muerto/) P** - El objetivo parece caer muerto pero se vuelve invisible. (PC2)
+- **[Habla verdadera P](/conjuros/habla-verdadera/), P** - Permites a una criatura que hable y entienda todos los idiomas.
+- **[Hacerse el muerto](/conjuros/hacerse-el-muerto/) P** - El objetivo parece caer muerto pero se vuelve invisible. (PC2)
 - **[Invocar espiritus](/conjuros/invocar-espiritus/) P** - Llamas a un grupo de apariciones fantasmales para que ataquen a tus enemigos.
-- **[Maldición del marinero](/conjuros/maldición-del-marinero/)** - Infectas a una criatura con la maldición del mar ondulante.
+- **[Maldición del marinero](/conjuros/maldicion-del-marinero/)** - Infectas a una criatura con la maldición del mar ondulante.
 - **[Muro de hielo](/conjuros/muro-de-hielo/) P** - Esculpes un muro de hielo de un pie (30 cm) de grueso que bloquea la vision y puede congelar a las criaturas.
 - **[Muro de piedra](/conjuros/muro-de-piedra/) P** - Das forma a un muro de piedra.
 - **[Nube toxica](/conjuros/nube-toxica/) P** - Haces que una nube de niebla venenosa se aleje rodando de ti.
 - **[Ojo explorador](/conjuros/ojo-explorador/)** - Un ojo invisible te transmite lo que ve.
 - **[Ola de desesperación](/conjuros/ola-de-desesperacion/) P** - Conduces a la desesperación a las criaturas de un area.
-- **[Pasaje magico P](/conjuros/pasaje-magico-p/), P** - Abres un pasaje temporal a traves de una superficie.
-- **[Pua empalador](/conjuros/pua-empalador/) P** - Empalas a una criatura con una pua de hierro frio.
+- **[Pasaje magico P](/conjuros/pasaje-magico/), P** - Abres un pasaje temporal a traves de una superficie.
+- **[Pua empalador](/conjuros/pua-empaladora/) P** - Empalas a una criatura con una pua de hierro frio.
 - **[Recado](/conjuros/recado/)** - Envias un mensaje a una criatura en cualquier parte del planeta y obtienes respuesta.
-- **[Sonda mental PC](/conjuros/sonda-mental-pc/)** - Descubres conocimientos y recuerdos en la mente de una criatura.
+- **[Sonda mental](/conjuros/sonda-mental/)** - Descubres conocimientos y recuerdos en la mente de una criatura.
 - **[Sugerencia subconsciente](/conjuros/sugerencia-subconsciente/) P** - Plantas una sugerencia en la mente de una criatura, que esta ha de seguir tras un desencadenante.
-- **[Ventisca aullante](/conjuros/ventisca-aullante/) P** - Llenas un cono o una explosion con vientos frios y ventisqueros.
-- **[Viaje umbrio PC](/conjuros/viaje-umbrio-pc/)** - Viajas rapidamente via el Informando.
+- **[Ventisca aullante](/conjuros/ventisca-aullante-a/) P** - Llenas un cono o una explosion con vientos frios y ventisqueros.
+- **[Viaje umbrio](/conjuros/viaje-umbrio/)** - Viajas rapidamente via el Informando.
 
 ## Conjuros de 6.o rango
 
@@ -254,17 +254,17 @@ PC = poco común.
 - **[Desangramiento vampirico](/conjuros/desangramiento-vampirico/) P** - Extraes sangre y fuerza vital de las criaturas en un cono, dañándolas y cucándote a ti mismo.
 - **[Desintegrar](/conjuros/desintegrar/) P** - Reduces a polvo a una criatura u objeto.
 - **[Doble enganoso](/conjuros/doble-enganoso/)** - Te vuelves invisible y creas un duplicado de ti mismo que actua como tu.
-- **[Dominar P](/conjuros/dominar-p/), P** - Una criatura tiene que obedecer tus ordenes.
+- **[Dominar P](/conjuros/dominar/), P** - Una criatura tiene que obedecer tus ordenes.
 - **[Enredaderas enmaranantes](/conjuros/enredaderas-enmaranantes/)** - Embrollas a las criaturas en el interior de una explosion y te concentras para azotarlas con enredaderas inmovilizantes.
-- **[Escudriñamiento PC](/conjuros/escudriñamiento-pc/)** - Espias a una criatura a tu elección.
-- **[Esquema brillante](/conjuros/esquema-brillante/)** - Creas un esquema de luces que deslumbra y ciega a las criaturas que entran en el area.
+- **[Escudriñamiento](/conjuros/escudrinamiento/)** - Espias a una criatura a tu elección.
+- **[Esquema brillante](/conjuros/esquema-vibrante/)** - Creas un esquema de luces que deslumbra y ciega a las criaturas que entran en el area.
 - **[Forma de dragon](/conjuros/forma-de-dragon/) P** - Te conviertes en un dragon.
 - **[Metamorfosis maldita](/conjuros/metamorfosis-maldita/)** - Transformas al objetivo en un animal inofensivo.
 - **[Muro de fuerza](/conjuros/muro-de-fuerza/) P** - Creas un plano invisible y duradero de fuerza magica.
 - **[No importa](/conjuros/no-importa/)** - Dejas a una criatura anonadada de forma permanente.
 - **[Petrificar](/conjuros/petrificar/)** - Conviertes a una criatura en una estatua de piedra.
 - **[Rechazo](/conjuros/rechazo/)** - Evitas que las criaturas se te aproximen.
-- **[Teletransporte P](/conjuros/teletransporte-p/), P** - Te transportas a gran distancia a ti mismo y a criaturas voluntarias.
+- **[Teletransporte P](/conjuros/teletransporte/), P** - Te transportas a gran distancia a ti mismo y a criaturas voluntarias.
 - **[Transposicion colectiva](/conjuros/transposicion-colectiva/) P** - Teletransportas a varias criaturas a nuevas posiciones. (PC2)
 - **[Vision verdadera](/conjuros/vision-verdadera/)** - Ves a traves de las ilusiones y de las transformaciones físicas.
 
@@ -279,12 +279,12 @@ PC = poco común.
 - **[Jaula de madera vital](/conjuros/jaula-de-madera-vital/) P** - Creas una prisión de madera endurecida imbuida de vitalidad. (PC2)
 - **[Mascara del terror](/conjuros/mascara-del-terror/) P** - Creas una apariencia ilusoria terrorífica que asusta a los observadores.
 - **[Objetivo verdadero](/conjuros/objetivo-verdadero/)** - Llevas a cabo ataques multiples especialmente precisos contra una criatura.
-- **[Palacio planario PC](/conjuros/palacio-planario-pc/)** - Conjuras un alojamiento seguro en un semiplano.
+- **[Palacio planario](/conjuros/palacio-planario/)** - Conjuras un alojamiento seguro en un semiplano.
 - **[Proyectar imagen](/conjuros/proyectar-imagen/) P** - Creas un ilusión de ti mismo a traves de la cual puedes lanzar conjuros.
-- **[Replica de conjuro PC](/conjuros/replica-de-conjuro/)** - Contrarrestas un conjuro y lo rediriges a su lanzador. (PC2)
+- **[Replica de conjuro](/conjuros/replica-de-conjuro/)** - Contrarrestas un conjuro y lo rediriges a su lanzador. (PC2)
 - **[Retrocognicion](/conjuros/retrocognicion/) P** - Sientes impresiones de los sucesos pasados en el lugar en el que estas.
-- **[Sello planario PC](/conjuros/sello-planario-pc/)** - Alzas una barrera contra el teletransporte y la convocación.
-- **[Teletransporte interplanetario PC](/conjuros/teletransporte-interplanetario-pc/)** - Transportas criaturas a otro Plano del Multiverso.
+- **[Sello planario](/conjuros/sello-planario/)** - Alzas una barrera contra el teletransporte y la convocación.
+- **[Teletransporte interplanetario](/conjuros/teletransporte-interplanar/)** - Transportas criaturas a otro Plano del Multiverso.
 
 ## Conjuros de 8.o rango
 

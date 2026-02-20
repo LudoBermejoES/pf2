@@ -19,7 +19,7 @@ PC = poco común.
 - **[Convocar instrumento](/conjuros/convocar-instrumento/) P** Llamas a un instrumento que solo tú puedes tocar.
 - **[Custodia amenazadora](/conjuros/custodia-amenazadora/) P** Proteges a un aliado contra un enemigo específico.
 - **[Detectar magia](/conjuros/detectar-magia/) P** Te permite notar cuando hay magia cerca.
-- **[Distorsión del vacío](/conjuros/distorsion-del-vacío/) P** Dañas y debilitas a los vivos con la energía del vacío.
+- **[Distorsión del vacío](/conjuros/distorsion-del-vacio/) P** Dañas y debilitas a los vivos con la energía del vacío.
 - **[Escudo](/conjuros/escudo/) P** Haces que un escudo de fuerza mágica bloquee ataques y conjuros.
 - **[Estabilizar](/conjuros/estabilizar/) ** Estabilizas a una criatura moribunda.
 - **[Himno inquietante](/conjuros/himno-inquietante/) P** Ecos de un himno estridente infligen daño sónico. (PC2)
@@ -46,10 +46,10 @@ PC = poco común.
 - **[Crear agua](/conjuros/crear-agua/) ** Conjuras dos galones (8 l) de agua.
 - **[Cuerpo rúnico](/conjuros/cuerpo-runico/) P** Aplicas temporalmente runas mágicas a los ataques sin armas de una criatura.
 - **[Curar](/conjuros/curar/) P** Haces que la energía vital cure a los vivos o dañe a los muertos vivientes, o bien a una sola criatura, o a todas en una explosión.
-- **[Dañar](/conjuros/danar/) P** Haces que la energía del vacío dañe a los vivos o cure a los muertos vivientes, o bien a una sola criatura, o a todas en una explosión.
+- **[Dañar](/conjuros/danar-a/) P** Haces que la energía del vacío dañe a los vivos o cure a los muertos vivientes, o bien a una sola criatura, o a todas en una explosión.
 - **[Debilitar](/conjuros/debilitar/) ** Minas la fuerza de una criatura.
-- **[Detectar veneno, PC](/conjuros/detectar-venenop,-pc/) P** Determinas si un objeto o criatura es venenoso o está envenenado.
-- **[Infundir vitalidad](/conjuros/infundir-vitalidad/) P** Potencias los ataques con energía vital para dañar a los muertos vivientes.
+- **[Detectar veneno](/conjuros/detectar-veneno/) P** Determinas si un objeto o criatura es venenoso o está envenenado.
+- **[Infundir vitalidad](/conjuros/infundir-vitalidad-a/) P** Potencias los ataques con energía vital para dañar a los muertos vivientes.
 - **[Invocar servitor menor](/conjuros/invocar-servitor-menor/) P** Invocas un celestial, infernal o monitor de nivel –1. (PC2)
 - **[Limpiar cocinados](/conjuros/limpiar-cocinados/) ** Haces que la comida y la bebida sean seguros y deliciosos.
 - **[Miedo](/conjuros/miedo/) P** Asustas a una criatura, obligándola posiblemente a huir.
@@ -105,16 +105,16 @@ PC = poco común.
 - **[Festín vampírico](/conjuros/festin-vampirico/) P** Infliges daño por vacío y obtienes Puntos de Golpe temporales con un toque.
 - **[Guia del caminante](/conjuros/guia-del-caminante/)** Invocas al más allá para guiar tu ruta. (PC2)
 - **[Hablar con las plantas](/conjuros/hablar-con-las-plantas/) P** Te comunicas con las plantas y con las criaturas del tipo planta.
-- **[Heroísmo](/conjuros/heroísmo/) P** Avivas el heroísmo interior de una criatura para hacerla más competente.
+- **[Heroísmo](/conjuros/heroismo/) P** Avivas el heroísmo interior de una criatura para hacerla más competente.
 - **[Incitar esqueletos](/conjuros/incitar-esqueletos/) P** Formas esqueléticas surgen del suelo y agarran criaturas. (PC2)
-- **[Localizar, PC](/conjuros/localizarp,-pc/) P** Averiguas la dirección hasta un objeto.
+- **[Localizar](/conjuros/localizar/) P** Averiguas la dirección hasta un objeto.
 - **[Luz sagrada](/conjuros/luz-sagrada/) P** Haces que un rayo de luz ardiente inflija daño adicional a los infernales y a otras criaturas sacrílegas.
 - **[Mensaje onírico](/conjuros/mensaje-onirico/) P** Envías un mensaje que llega dentro de un sueño.
 - **[Oscuridad congeladora](/conjuros/oscuridad-congeladora/) P** Haces que un rayo de oscuridad sacrílega inflija daño por frío, disipe la luz y dañe a los objetivos sagrados.
 - **[Pasaje seguro](/conjuros/pasaje-seguro/) P** Haces que un área sea segura de atravesar.
 - **[Rostro del familiar](/conjuros/rostro-del-familiar/)** Usas a tu familiar como sensor de escrutinio. (PC2)
 - **[Suelo ungido](/conjuros/suelo-ungido/)** Santificas el área, protegiéndola contra ciertos enemigos. (PC2)
-- **[Tañido de la verdad, PC](/conjuros/tanido-de-la-verdad,-pc/) ** Haces sonar una campana cuando se dice la verdad.
+- **[Tañido de la verdad](/conjuros/tanido-de-la-verdad/) ** Haces sonar una campana cuando se dice la verdad.
 - **[Vincular muertos vivientes](/conjuros/vincular-muertos-vivientes/) ** Tomas el control de un muerto viviente descerebrado.
 
 ## Conjuros de 4.º rango
@@ -122,17 +122,17 @@ PC = poco común.
 - **[Ambición apagada](/conjuros/ambicion-apagada/)** Maldices al objetivo para que fracase en sus ambiciones. (PC2)
 - **[Atadura planaria](/conjuros/atadura-planaria/) ** Mantienes a una criatura en su Plano actual.
 - **[Baliza vital](/conjuros/baliza-vital/) P** Irradias vitalidad que cura a las criaturas que te tocan.
-- **[Cadáver parlante, PC](/conjuros/cadaver-parlante,-pc/) ** Haces que un cadáver responda a 3 preguntas.
+- **[Cadáver parlante](/conjuros/cadaver-parlante/) ** Haces que un cadáver responda a 3 preguntas.
 - **[Cascada sagrada](/conjuros/cascada-sagrada/) P** Invocas energía sagrada con agua bendita amplificada. (PC2)
 - **[Doncella vampirica](/conjuros/doncella-vampirica/) P** Una doncella de hierro espectral drena vitalidad. (PC2)
-- **[Globo disipador, PC](/conjuros/globo-disipador,-pc/) ** Contrarrestas la magia que entra en esta esfera.
+- **[Globo disipador](/conjuros/globo-disipador/) ** Contrarrestas la magia que entra en esta esfera.
 - **[Ira divina](/conjuros/ira-divina/) P** Dañas y obstaculizas a las criaturas que se oponen a la voluntad de tu dios.
-- **[Leer presagios, PC](/conjuros/leer-presagios,-pc/) ** Obtienes consejo acerca de un suceso que se aproxima.
-- **[Maldición del paria](/conjuros/maldición-del-paria/) ** Maldices a una criatura con ser poco atractiva e insoportable.
+- **[Leer augurios](/conjuros/leer-augurios/)** Obtienes consejo acerca de un suceso que se aproxima.
+- **[Maldición del paria](/conjuros/maldicion-del-paria/) ** Maldices a una criatura con ser poco atractiva e insoportable.
 - **[Movimiento sin restricciones](/conjuros/movimiento-sin-restricciones/) ** Repeles los efectos que mantendrían en su lugar a una criatura.
 - **[Sellar destino](/conjuros/sellar-destino/) P** Pronuncias una maldición por la que la criatura encontrará un cierto fin. (PC2)
 - **[Susurros del vacio](/conjuros/susurros-del-vacio/) P** Susurras secretos siniestros que debilitan la fuerza vital. (PC2)
-- **[Tragedia espectral PC](/conjuros/tragedia-espectral/)** Los espíritus recrean un evento violento del pasado. (PC2)
+- **[Tragedia espectral](/conjuros/tragedia-espectral/)** Los espíritus recrean un evento violento del pasado. (PC2)
 - **[Volar](/conjuros/volar/) P** Concedes a un objetivo una Velocidad de vuelo.
 
 ## Conjuros de 5.º rango
@@ -145,7 +145,7 @@ PC = poco común.
 - **[Destierro](/conjuros/destierro/) P** Envías a una criatura de vuelta a su Plano natal.
 - **[Explosión de sombra](/conjuros/explosion-de-sombra/) P** Das forma a un cono dañino de sustancia sombría, que inflige daño de un tipo a elegir por ti.
 - **[Guardián espiritual](/conjuros/guardian-espiritual/) P** Creas un guardián mágico para que ataque a tu orden y sufra daño en lugar de tus aliados.
-- **[Habla verdadera, PC](/conjuros/habla-verdaderap,-pc/) P** Permites a una criatura que hable y entienda todos los idiomas.
+- **[Habla verdadera](/conjuros/habla-verdadera/) P** Permites a una criatura que hable y entienda todos los idiomas.
 - **[Hablar con las piedras](/conjuros/hablar-con-las-piedras/) P** Te comunicas con la piedra natural y la trabajada.
 - **[Hacerse el muerto](/conjuros/hacerse-el-muerto/) P** Entras en un trance de muerte aparente. (PC2)
 - **[Inmolación divina](/conjuros/inmolacion-divina/) P** Haces caer del cielo fuego divino.
@@ -160,13 +160,13 @@ PC = poco común.
 - **[Campo de vida](/conjuros/campo-de-vida/) P** Creas un campo de energía vital que cura a quienes permanecen en su interior.
 - **[Convicción celosa](/conjuros/conviccion-celosa/) P** Inspiras una convicción y un celo inquebrantables en las criaturas voluntarias.
 - **[Desangramiento vampírico](/conjuros/desangramiento-vampirico/) P** Extraes sangre y fuerza vital de las criaturas en un cono, dañándolas y curándote a ti mismo.
-- **[DominarP, PC](/conjuros/dominarp,-pc/) ** Haces que una criatura tenga que obedecer tus órdenes.
+- **[Dominar](/conjuros/dominar/) ** Haces que una criatura tenga que obedecer tus órdenes.
 - **[Explosión espiritual](/conjuros/explosion-espiritual/) P** Dañas la esencia espiritual de una criatura.
 - **[Forma de dragón](/conjuros/forma-de-dragon/) P** Te conviertes en un dragón.
 - **[Forma sagrada](/conjuros/forma-sagrada/) P** Te transformas en un avatar de tu deidad. (PC2)
 - **[Límite bendito](/conjuros/limite-bendito/) P** Manifiestas fuerza divina en forma de una esfera protectora.
 - **[Rechazo](/conjuros/rechazo/) ** Evitas que las criaturas se te aproximen.
-- **[Revivir a los muertos, PC](/conjuros/revivir-a-los-muertosp,-pc/) P** Retornas a la vida a una criatura muerta.
+- **[Revivir a los muertos](/conjuros/revivir-a-los-muertos/) P** Retornas a la vida a una criatura muerta.
 - **[Salvaguarda centelleante](/conjuros/salvaguarda-centelleante/) P** Creas un escudo de luz que protege contra ataques. (PC2)
 - **[Visión verdadera](/conjuros/vision-verdadera/) ** Ves a través de las ilusiones y de las transformaciones físicas.
 
@@ -179,8 +179,8 @@ PC = poco común.
 - **[Explosión solar](/conjuros/explosion-solar/) P** Haces que un globo de luz solar inflija daño por fuego, dañe a los muertos vivientes y supere la oscuridad.
 - **[Regenerar](/conjuros/regenerar/) P** Haces que con el tiempo una criatura se cure, le vuelvan a crecer órganos y ensamble de nuevo extremidades perdidas.
 - **[Réplica de conjuro](/conjuros/replica-de-conjuro/)** Copias y devuelves un conjuro que te apunta. (PC2)
-- **[Sello planario, PC](/conjuros/sello-planario,-pc/) ** Alzas una barrera contra el teletransporte y la convocación.
-- **[Teletransporte interplanetario, PC](/conjuros/teletransporte-interplanetario,-pc/) ** Transportas criaturas a otro Plano del Multiverso.
+- **[Sello planario](/conjuros/sello-planario/) ** Alzas una barrera contra el teletransporte y la convocación.
+- **[Teletransporte interplanetario](/conjuros/teletransporte-interplanar/) ** Transportas criaturas a otro Plano del Multiverso.
 
 ## Conjuros de 8.º rango
 
@@ -193,7 +193,7 @@ PC = poco común.
 
 ## Conjuros de 9.º rango
 
-- **[Apoderarse del alma, PC](/conjuros/apoderarse-del-alma,-pc/) ** Atrapas un alma en el interior de un objeto.
+- **[Apoderarse del alma](/conjuros/apoderarse-del-alma/) ** Atrapas un alma en el interior de un objeto.
 - **[Arma del juicio](/conjuros/arma-del-juicio/) P** Un arma divina gigante castiga a quien desobedece. (PC2)
 - **[Aullidos de los condenados](/conjuros/aullidos-de-los-condenados/) ** Gritas, drenando a los vivos y causando daño por vacío.
 - **[Exigencia telepática](/conjuros/exigencia-telepatica/)** Envías un mensaje telepático con efecto de sugerencia. (PC2)

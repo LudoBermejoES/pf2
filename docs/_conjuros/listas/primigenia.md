@@ -31,7 +31,7 @@ PC = poco comun.
 - **[Ráfaga de vendaval](/conjuros/rafaga-de-vendaval/) P** Creas una ráfaga de viento que empuja y daña. (PC2)
 - **[Sello](/conjuros/sello/) P** Dejas una marca magica.
 - **[Soplo de veneno](/conjuros/soplo-de-veneno/) P** Exhalas una nube venenosa. (PC2)
-- **[Zarcillo enmaranante](/conjuros/zarcillo-enmaranante/) P** Conjuras un zarcillo para que enrede a una criatura.
+- **[Zarcillo enmaranante](/conjuros/zarcillo-enmaranador/) P** Conjuras un zarcillo para que enrede a una criatura.
 
 ## Conjuros de 1.er rango
 
@@ -49,8 +49,8 @@ PC = poco comun.
 - **[Cuerpo runico](/conjuros/cuerpo-runico/) P** Aplicas temporalmente runas magicas a los ataques sin armas de una criatura.
 - **[Curar](/conjuros/curar/) P** Haces que la energia vital cure a los vivos o dane a los muertos vivientes, o bien a una sola criatura, o a todas en una explosion.
 - **[Desvanecer rastros](/conjuros/desvanecer-rastros/) P** Oscureces tus rastros.
-- **[Detectar venenoP, PC](/conjuros/detectar-venenop,-pc/) ** Determinas si un objeto o criatura es venenoso o esta envenenado.
-- **[Empujón hidraulico](/conjuros/empujón-hidraulico/) P** Danas y empujas a una criatura con una explosion de agua.
+- **[Detectar veneno](/conjuros/detectar-veneno/) ** Determinas si un objeto o criatura es venenoso o esta envenenado.
+- **[Empujón hidraulico](/conjuros/empujon-hidraulico/) P** Danas y empujas a una criatura con una explosion de agua.
 - **[Escombros apaleadores](/conjuros/escombros-apaleadores/) P** Lanzas un cono de rocas para apalear criaturas.
 - **[Forma de peste](/conjuros/forma-de-peste/) P** Te conviertes en un animal no amenazador.
 - **[Grasa](/conjuros/grasa/) ** Recubres un objetivo o un area con grasa resbaladiza.
@@ -95,7 +95,7 @@ PC = poco comun.
 - **[Mensajero animal](/conjuros/mensajero-animal/) ** Envias a un animal Menudo para que entregue un mensaje.
 - **[Moldear la madera](/conjuros/moldear-la-madera/) ** Transformas madera sin trabajar en una forma de tu elección.
 - **[Montura maravillosa](/conjuros/montura-maravillosa/) P** Conjuras una montura fantastica.
-- **[Neblina](/conjuros/neblina/) ** Ocultas a las criaturas tras una nube de neblina.
+- **[Niebla](/conjuros/niebla/)** Ocultas a las criaturas tras una nube de neblina.
 - **[Oscuridad](/conjuros/oscuridad/) P** Suprimes toda la luz en un area.
 - **[Pisada segura](/conjuros/pisada-segura/) P** Contrarrestas los estados torpe, apresado, paralizado o los relacionados con ellos.
 - **[Presa acida](/conjuros/presa-acida/) P** Mueves y danas a los enemigos con una mano de acido.
@@ -106,7 +106,7 @@ PC = poco comun.
 - **[Sordera](/conjuros/sordera/) ** Ensordeces a una criatura.
 - **[Tranquilo descanso](/conjuros/tranquilo-descanso/) P** Haces que un cadaver no se descomponga y no pueda convertirse en muerto viviente.
 - **[Uno con las plantas](/conjuros/uno-con-las-plantas/) ** Te fundes con una planta o te conviertes en una de ellas.
-- **[Virote ardiente](/conjuros/virote-ardiente/) P** Disparas entre uno y tres virotes en llamas contra enemigos diferentes.
+- **[Virote ardiente](/conjuros/virote-ardiente-a/) P** Disparas entre uno y tres virotes en llamas contra enemigos diferentes.
 - **[Vision en la oscuridad](/conjuros/vision-en-la-oscuridad/) P** Ves en la oscuridad.
 - **[Vomitar enjambre](/conjuros/vomitar-enjambre/) P** Eructas un enjambre de alimañas mágicas. (PC2)
 
@@ -126,17 +126,17 @@ PC = poco comun.
 - **[Orbe acuoso](/conjuros/orbe-acuoso/) ** Haces rodar una bola de agua para apagar incendios y englobar criaturas.
 - **[Pasaje seguro](/conjuros/pasaje-seguro/) P** Haces que una area sea segura de atravesar.
 - **[Pies a aletas](/conjuros/pies-a-aletas/) P** Conviertes los pies de una criatura en aletas, lo que le permite nadar pero le lentifica en tierra firme.
-- **[RelampagoP](/conjuros/relampagop/) P** Un relámpago golpea a todas las criaturas en una linea.
+- **[RelampagoP](/conjuros/relampago/) P** Un relámpago golpea a todas las criaturas en una linea.
 - **[Uno con la piedra](/conjuros/uno-con-la-piedra/) ** Puedes fusionarte con una piedra o convertirte en ella.
 - **[Triple aspecto](/conjuros/triple-aspecto/)** Cambias entre tres versiones de ti mismo de diferentes edades. (PC2)
-- **[Velo de privacidadPC](/conjuros/velo-de-privacidadpc/) ** Proteges a una criatura u objeto de la detección magica.
+- **[Velo de privacidad](/conjuros/velo-de-privacidad/) ** Proteges a una criatura u objeto de la detección magica.
 
 ## Conjuros de 4.o rango
 
 - **[Baliza vital](/conjuros/baliza-vital/) P** Irradias vitalidad que cura a las criaturas que te tocan.
 - **[Creación](/conjuros/creacion/) P** Creas un objeto temporal.
 - **[Escudo de fuego](/conjuros/escudo-de-fuego/) P** Las llamas te protegen del frio y danan a quienes te tocan.
-- **[EspejismoP, PC](/conjuros/espejismop,-pc/) ** Disfrazas un entorno natural como si fuera otro.
+- **[Espejismo](/conjuros/espejismo/) ** Disfrazas un entorno natural como si fuera otro.
 - **[Forma aerea](/conjuros/forma-aerea/) P** Te conviertes en un combatiente aereo.
 - **[Forma de dinosaurio](/conjuros/forma-de-dinosaurio/) P** Te conviertes en un dinosaurio.
 - **[Forma de vapor](/conjuros/forma-de-vapor/) ** Transformas tu cuerpo en vapor.
@@ -160,18 +160,18 @@ PC = poco comun.
 - **[Forma de elemental](/conjuros/forma-de-elemental/) P** Te conviertes en un elemental.
 - **[Forma de planta](/conjuros/forma-de-planta/) P** Te conviertes en una criatura peligrosa del tipo planta.
 - **[Hablar con las piedras](/conjuros/hablar-con-las-piedras/) P** Te comunicas con la piedra natural y la trabajada.
-- **[Locura lunar](/conjuros/locura-lunar/) P** Concedes colmillos y garras a criaturas voluntarias y provocas en ellas un frenesi.
-- **[Maldición del marinero](/conjuros/maldición-del-marinero/) ** Infectas a una criatura con la maldición del mar ondulante.
+- **[Frenesí lunar](/conjuros/frenesi-lunar/)** Concedes colmillos y garras a criaturas voluntarias y provocas en ellas un frenesí.
+- **[Maldición del marinero](/conjuros/maldicion-del-marinero/) ** Infectas a una criatura con la maldición del mar ondulante.
 - **[Muro de hielo](/conjuros/muro-de-hielo/) P** Esculpes un muro de hielo de un pie (30 cm) de grueso que bloquea la vision y puede congelar a las criaturas.
 - **[Muro de piedra](/conjuros/muro-de-piedra/) P** Das forma a un muro de piedra.
 - **[Nube toxica](/conjuros/nube-toxica/) P** Una nube de niebla venenosa se aleja rodando de ti.
-- **[Pasaje magicoP, PC](/conjuros/pasaje-magicop,-pc/) ** Abres un pasaje temporal a traves de una superficie.
+- **[Pasaje magico](/conjuros/pasaje-magico/) ** Abres un pasaje temporal a traves de una superficie.
 - **[Pua empaladora](/conjuros/pua-empaladora/) P** Empalas a una criatura con una pua de hierro frio.
-- **[Senda de la NaturalezaP, PC](/conjuros/senda-de-la-naturalezap,-pc/) ** Te teletransportas de un árbol a otro.
+- **[Senda de la Naturaleza](/conjuros/senda-de-la-naturaleza/) ** Te teletransportas de un árbol a otro.
 - **[Enemistad de la naturaleza](/conjuros/enemistad-de-la-naturaleza/)** Vuelves a la naturaleza hostil contra una criatura. (PC2)
 - **[Hacerse el muerto](/conjuros/hacerse-el-muerto/) P** Entras en un trance de muerte aparente. (PC2)
 - **[Muro de carne](/conjuros/muro-de-carne/) P** Creas un muro de carne viva con bocas, ojos o brazos. (PC2)
-- **[Ventisca aullante](/conjuros/ventisca-aullante/) P** Llenas un cono o una explosion con vientos frios y ventisqueros.
+- **[Ventisca aullante](/conjuros/ventisca-aullante-a/) P** Llenas un cono o una explosion con vientos frios y ventisqueros.
 
 ## Conjuros de 6.o rango
 
@@ -197,7 +197,7 @@ PC = poco comun.
 - **[Mascara del terror](/conjuros/mascara-del-terror/) P** Creas una apariencia ilusoria terrorífica que asusta a los observadores.
 - **[Regenerar](/conjuros/regenerar/) P** Haces que con el tiempo una criatura se cure, le vuelvan a crecer organos y ensamble de nuevo extremidades perdidas.
 - **[Abrigo camaleónico](/conjuros/abrigo-camaleonico/) P** Te vuelves invisible mientras te muevas lentamente. (PC2)
-- **[Teletransporte interplanetarioPC](/conjuros/teletransporte-interplanetariopc/) ** Transportas criaturas a otro Plano en el Multiverso.
+- **[Teletransporte interplanetario](/conjuros/teletransporte-interplanar/) ** Transportas criaturas a otro Plano en el Multiverso.
 
 ## Conjuros de 8.o rango
 
