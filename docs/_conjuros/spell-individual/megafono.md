@@ -25,7 +25,7 @@ source: PC2
 
 Amplificas tu voz, lo bastante como para ser oído con facilidad a gran distancia. Durante la duración, tu voz puede oírse alta y clara por todos los oyentes dentro de 500 pies (150 m), incluso si otros ruidos ambientales bloquearían el sonido de otro modo. A pesar del volumen, esto no hace que tu voz sea estridente o molesta. Esto no aumenta el alcance ni el área de otros efectos auditivos o lingüísticos, y barreras físicas como muros y puertas siguen bloqueando o amortiguando tu voz como es normal.
 
-Tu voz sonora facilita Coaccionar a otros y la acústica ayuda al Interpretar en un gran recinto. Obtienes un bonificador de estado +1 a las pruebas para Coaccionar y a las pruebas de Interpretación auditiva para Actuar en un recinto grande.
+Tu voz sonora facilita Obligar a otros y la acústica ayuda al Interpretar en un gran recinto. Obtienes un bonificador de estado +1 a las pruebas para Obligar y a las pruebas de Interpretación auditiva para Actuar en un recinto grande.
 
 Puedes Disipar el conjuro.
 

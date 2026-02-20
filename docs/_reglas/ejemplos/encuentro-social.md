@@ -243,9 +243,9 @@ El barón capta la insinuación y mira a Varn con ojos entrecerrados.
 
 > **Jugadora:** "Quiero intimidar a Varn directamente. 'Consejero, ¿tenéis algo que decir sobre el medallón?'"
 
-**Valeria usa [Coaccionar]({{ '/habilidades/intimidacion/' | relative_url }}) ({% include accion.html tipo="1" %}):**
+**Valeria usa [Desmoralizar]({{ '/habilidades/intimidacion/' | relative_url }}) ({% include accion.html tipo="1" %}):**
 
-> **Regla:** **[Coaccionar]({{ '/habilidades/intimidacion/' | relative_url }})** usa [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}). Si tienes éxito, el objetivo se vuelve **[asustado]({{ '/apendices/estados/' | relative_url }})** y puede verse obligado a actuar.
+> **Regla:** **[Desmoralizar]({{ '/habilidades/intimidacion/' | relative_url }})** usa [Intimidación]({{ '/habilidades/intimidacion/' | relative_url }}). Si tienes éxito, el objetivo se vuelve **[asustado]({{ '/apendices/estados/' | relative_url }}) 1**.
 
 - CD (Voluntad de Varn): 15
 - Tirada de Intimidación: 1d20+7 = 14+7 = **21** → **Éxito**
@@ -282,7 +282,8 @@ El grupo obtuvo:
 |--------|-----------|--------|
 | **Causar Buena Impresión** | Diplomacia | Mejora actitud en 1 paso |
 | **Hacer una Petición** | Diplomacia | Pide algo al PNJ |
-| **Coaccionar** | Intimidación | Asusta, obliga a actuar |
+| **Desmoralizar** | Intimidación | Causa estado asustado |
+| **Obligar** | Intimidación | Fuerza a actuar bajo amenaza |
 | **Mentir** | Engaño | Hace creer algo falso |
 | **Finta** | Engaño | Distrae, crea oportunidades |
 | **Percibir Engaño** | Percepción | Detecta mentiras |

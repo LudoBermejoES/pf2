@@ -42,4 +42,4 @@ El efecto de Obligar dura mientras la amenaza sea creíble. Una vez que el objet
 
 ## Ejemplo de Juego
 
-Ver [Ejemplo: Negociación Tensa]({{ '/reglas/ejemplos/encuentro-social/' | relative_url }}) donde Valeria usa Coaccionar contra el consejero Varn.
+Ver [Ejemplo: Negociación Tensa]({{ '/reglas/ejemplos/encuentro-social/' | relative_url }}) donde Valeria usa Obligar contra el consejero Varn.
