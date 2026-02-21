@@ -9,8 +9,6 @@ nav_order: 300
 description: Arquetipos del Player Core 2 para Pathfinder 2
 ---
 
-# Arquetipos del Player Core 2
-
 Los arquetipos permiten a los personajes obtener capacidades especializadas fuera de su clase principal. El Player Core 2 incluye 35 arquetipos diversos que cubren desde combatientes especializados hasta expertos en habilidades.
 
 ---
