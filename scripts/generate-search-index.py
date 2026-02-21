@@ -122,56 +122,115 @@ def get_url_from_path(file_path, collection_dir, category):
     return f"/{category}/{'/'.join(url_parts)}/"
 
 
+def make_anchor(heading_text):
+    """Convierte un texto de encabezado a un anchor HTML compatible con Jekyll/kramdown."""
+    anchor = heading_text.lower()
+    # Reemplazar caracteres acentuados
+    replacements = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u',
+        'à': 'a', 'è': 'e', 'ì': 'i', 'ò': 'o', 'ù': 'u',
+        'ä': 'a', 'ë': 'e', 'ï': 'i', 'ö': 'o', 'ü': 'u',
+        'ñ': 'n', 'ç': 'c',
+    }
+    for src, dst in replacements.items():
+        anchor = anchor.replace(src, dst)
+    # Eliminar caracteres no alfanuméricos excepto espacios y guiones
+    anchor = re.sub(r'[^\w\s-]', '', anchor)
+    # Reemplazar espacios por guiones
+    anchor = re.sub(r'\s+', '-', anchor.strip())
+    return anchor
+
+
+def split_by_h2(content):
+    """Divide el contenido en secciones por H2. Devuelve lista de (heading, body)."""
+    # Eliminar frontmatter primero
+    body = FRONTMATTER_PATTERN.sub('', content)
+    # Buscar posiciones de todos los H2 (## Título) — no H3+
+    h2_pattern = re.compile(r'^(## .+)$', re.MULTILINE)
+    matches = list(h2_pattern.finditer(body))
+    if not matches:
+        return []
+
+    sections = []
+    for i, match in enumerate(matches):
+        heading_raw = match.group(1).lstrip('#').strip()
+        # Limpiar Liquid del título del H2
+        heading = LIQUID_PATTERN.sub('', heading_raw).strip()
+        start = match.end()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(body)
+        section_body = body[start:end].strip()
+        sections.append((heading, section_body))
+
+    return sections
+
+
 def process_file(file_path, collection_dir, category):
-    """Procesa un archivo markdown y devuelve su entrada de índice."""
+    """Procesa un archivo markdown y devuelve lista de entradas de índice (página + secciones H2)."""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
     except Exception as e:
         print(f"Error leyendo {file_path}: {e}")
-        return None
+        return []
 
     # Extraer frontmatter
     fm = extract_frontmatter(content)
 
-    # Obtener título
+    # Obtener título de página
     title = fm.get('title', '')
     if not title:
-        # Intentar extraer del primer H1
         h1_match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
         if h1_match:
             title = h1_match.group(1)
         else:
             title = file_path.stem.replace('-', ' ').title()
 
-    # Limpiar etiquetas Liquid del título
     title = LIQUID_PATTERN.sub('', title).strip()
 
-    # Limpiar contenido
-    clean = clean_content(content)
+    # URL base de la página
+    base_url = fm.get('permalink', get_url_from_path(file_path, collection_dir, category))
 
-    # Truncar contenido a 2000 caracteres para el índice
+    # Tags del frontmatter
+    fm_tags = []
+    if 'tags' in fm and isinstance(fm['tags'], list):
+        fm_tags = fm['tags']
+
+    entries = []
+
+    # --- Entrada principal (página completa) ---
+    clean = clean_content(content)
     if len(clean) > 2000:
         clean = clean[:2000]
-
-    # Obtener URL
-    url = fm.get('permalink', get_url_from_path(file_path, collection_dir, category))
-
-    # Extraer tags
     tags = extract_tags(clean, title, category)
-
-    # Agregar tags del frontmatter si existen
-    if 'tags' in fm and isinstance(fm['tags'], list):
-        tags.extend(fm['tags'])
-        tags = list(set(tags))[:10]
-
-    return {
+    tags = list(set(tags + fm_tags))[:10]
+    entries.append({
         'title': title,
-        'url': url,
+        'url': base_url,
         'category': category,
         'content': clean,
-        'tags': tags
-    }
+        'tags': tags,
+    })
+
+    # --- Entradas por sección H2 ---
+    for heading, section_body in split_by_h2(content):
+        if not heading:
+            continue
+        section_clean = clean_content(section_body)
+        if len(section_clean) > 2000:
+            section_clean = section_clean[:2000]
+        anchor = make_anchor(heading)
+        section_url = f"{base_url}#{anchor}"
+        section_tags = extract_tags(section_clean, heading, category)
+        section_tags = list(set(section_tags + fm_tags + [category]))[:10]
+        entries.append({
+            'title': f"{title} › {heading}",
+            'url': section_url,
+            'category': category,
+            'content': section_clean,
+            'tags': section_tags,
+        })
+
+    return entries
 
 
 def main():
@@ -190,9 +249,10 @@ def main():
         print(f"Procesando {len(md_files)} archivos en {collection_dir}...")
 
         for md_file in md_files:
-            entry = process_file(md_file, collection_dir, category)
-            if entry and entry['title']:
-                index.append(entry)
+            entries = process_file(md_file, collection_dir, category)
+            for entry in entries:
+                if entry and entry['title']:
+                    index.append(entry)
 
     # Ordenar por categoría y título
     index.sort(key=lambda x: (x['category'], x['title']))
