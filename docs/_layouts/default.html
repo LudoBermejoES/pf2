@@ -72,7 +72,19 @@
     <nav class="breadcrumb">
       <a href="{{ '/' | relative_url }}">Inicio</a>
       <span class="separator">›</span>
-      <a href="{{ '/' | append: page.chapter | downcase | replace: ' ', '-' | append: '/' | relative_url }}">{{ page.chapter }}</a>
+      {% assign chapter_url = '/reglas/' %}
+      {% if page.chapter == "Campaña" %}{% assign chapter_url = '/campana/' %}
+      {% elsif page.chapter == "Introducción" or page.chapter == "Introduccion" %}{% assign chapter_url = '/introduccion/' %}
+      {% elsif page.chapter == "Ambientación" %}{% assign chapter_url = '/ambientacion/' %}
+      {% elsif page.chapter == "Ascendencias" %}{% assign chapter_url = '/ascendencias/' %}
+      {% elsif page.chapter == "Clases" %}{% assign chapter_url = '/clases/' %}
+      {% elsif page.chapter == "Habilidades" %}{% assign chapter_url = '/habilidades/' %}
+      {% elsif page.chapter == "Dotes" %}{% assign chapter_url = '/dotes/' %}
+      {% elsif page.chapter == "Equipo" %}{% assign chapter_url = '/equipo/' %}
+      {% elsif page.chapter == "Conjuros" %}{% assign chapter_url = '/conjuros/' %}
+      {% elsif page.chapter == "Apéndices" or page.chapter == "Rasgos" %}{% assign chapter_url = '/apendices/' %}
+      {% endif %}
+      <a href="{{ chapter_url | relative_url }}">{{ page.chapter }}</a>
       {% if page.title %}
       <span class="separator">›</span>
       <span class="current">{{ page.title }}</span>
