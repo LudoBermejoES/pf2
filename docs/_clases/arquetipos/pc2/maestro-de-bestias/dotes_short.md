@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/maestro-de-bestias/dotes_short/
+permalink: /clases/arquetipos/pc2/maestro-de-bestias/dotes_short/
 title: "Dotes de Arquetipo: Maestro De Bestias"
 chapter: Clases
 category: clases

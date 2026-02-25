@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/cazarrecompensas/dotes_short/
+permalink: /clases/arquetipos/pc2/cazarrecompensas/dotes_short/
 title: "Dotes de Arquetipo: Cazarrecompensas"
 chapter: Clases
 category: clases

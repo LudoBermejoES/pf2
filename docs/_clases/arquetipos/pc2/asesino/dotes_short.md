@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/asesino/dotes_short/
+permalink: /clases/arquetipos/pc2/asesino/dotes_short/
 title: "Dotes de Arquetipo: Asesino"
 chapter: Clases
 category: clases

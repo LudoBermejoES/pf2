@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/guerrero-de-armas-dobles/dotes_short/
+permalink: /clases/arquetipos/pc2/guerrero-de-armas-dobles/dotes_short/
 title: "Dotes de Arquetipo: Guerrero De Armas Dobles"
 chapter: Clases
 category: clases

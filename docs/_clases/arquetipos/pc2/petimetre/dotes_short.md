@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/petimetre/dotes_short/
+permalink: /clases/arquetipos/pc2/petimetre/dotes_short/
 title: "Dotes de Arquetipo: Petimetre"
 chapter: Clases
 category: clases

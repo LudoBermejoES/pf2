@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/luchador/dotes_short/
+permalink: /clases/arquetipos/pc2/luchador/dotes_short/
 title: "Dotes de Arquetipo: Luchador"
 chapter: Clases
 category: clases

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/duelista/dotes_short/
+permalink: /clases/arquetipos/pc2/duelista/dotes_short/
 title: "Dotes de Arquetipo: Duelista"
 chapter: Clases
 category: clases

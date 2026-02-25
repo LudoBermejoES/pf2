@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/vikingo/dotes_short/
+permalink: /clases/arquetipos/pc2/vikingo/dotes_short/
 title: "Dotes de Arquetipo: Vikingo"
 chapter: Clases
 category: clases

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/fabricante-de-lazos/dotes_short/
+permalink: /clases/arquetipos/pc2/fabricante-de-lazos/dotes_short/
 title: "Dotes de Arquetipo: Fabricante De Lazos"
 chapter: Clases
 category: clases

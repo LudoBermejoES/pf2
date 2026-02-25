@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/baluarte/dotes_short/
+permalink: /clases/arquetipos/pc2/baluarte/dotes_short/
 title: "Dotes de Arquetipo: Baluarte"
 chapter: Clases
 category: clases

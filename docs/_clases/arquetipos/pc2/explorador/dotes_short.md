@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/explorador/dotes_short/
+permalink: /clases/arquetipos/pc2/explorador/dotes_short/
 title: "Dotes de Arquetipo: Explorador"
 chapter: Clases
 category: clases

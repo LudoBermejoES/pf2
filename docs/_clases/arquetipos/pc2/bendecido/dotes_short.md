@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/bendecido/dotes_short/
+permalink: /clases/arquetipos/pc2/bendecido/dotes_short/
 title: "Dotes de Arquetipo: Bendecido"
 chapter: Clases
 category: clases

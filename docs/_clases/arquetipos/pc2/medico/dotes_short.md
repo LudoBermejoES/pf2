@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/medico/dotes_short/
+permalink: /clases/arquetipos/pc2/medico/dotes_short/
 title: "Dotes de Arquetipo: Medico"
 chapter: Clases
 category: clases

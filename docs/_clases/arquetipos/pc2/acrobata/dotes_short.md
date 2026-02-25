@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/acrobata/dotes_short/
+permalink: /clases/arquetipos/pc2/acrobata/dotes_short/
 title: "Dotes de Arquetipo: Acrobata"
 chapter: Clases
 category: clases

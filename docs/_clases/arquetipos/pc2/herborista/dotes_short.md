@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/herborista/dotes_short/
+permalink: /clases/arquetipos/pc2/herborista/dotes_short/
 title: "Dotes de Arquetipo: Herborista"
 chapter: Clases
 category: clases

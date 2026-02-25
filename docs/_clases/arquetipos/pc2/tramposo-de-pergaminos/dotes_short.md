@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/tramposo-de-pergaminos/dotes_short/
+permalink: /clases/arquetipos/pc2/tramposo-de-pergaminos/dotes_short/
 title: "Dotes de Arquetipo: Tramposo De Pergaminos"
 chapter: Clases
 category: clases

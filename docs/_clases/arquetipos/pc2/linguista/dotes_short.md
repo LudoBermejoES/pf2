@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/linguista/dotes_short/
+permalink: /clases/arquetipos/pc2/linguista/dotes_short/
 title: "Dotes de Arquetipo: Linguista"
 chapter: Clases
 category: clases

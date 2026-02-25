@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/gladiador/dotes_short/
+permalink: /clases/arquetipos/pc2/gladiador/dotes_short/
 title: "Dotes de Arquetipo: Gladiador"
 chapter: Clases
 category: clases

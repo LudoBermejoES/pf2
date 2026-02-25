@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/justiciero/dotes_short/
+permalink: /clases/arquetipos/pc2/justiciero/dotes_short/
 title: "Dotes de Arquetipo: Justiciero"
 chapter: Clases
 category: clases

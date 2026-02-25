@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/arqueologo/dotes_short/
+permalink: /clases/arquetipos/pc2/arqueologo/dotes_short/
 title: "Dotes de Arquetipo: Arqueologo"
 chapter: Clases
 category: clases

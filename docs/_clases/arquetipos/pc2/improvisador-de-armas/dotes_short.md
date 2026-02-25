@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/improvisador-de-armas/dotes_short/
+permalink: /clases/arquetipos/pc2/improvisador-de-armas/dotes_short/
 title: "Dotes de Arquetipo: Improvisador De Armas"
 chapter: Clases
 category: clases

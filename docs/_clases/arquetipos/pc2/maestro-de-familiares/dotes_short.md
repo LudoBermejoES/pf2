@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/maestro-de-familiares/dotes_short/
+permalink: /clases/arquetipos/pc2/maestro-de-familiares/dotes_short/
 title: "Dotes de Arquetipo: Maestro De Familiares"
 chapter: Clases
 category: clases

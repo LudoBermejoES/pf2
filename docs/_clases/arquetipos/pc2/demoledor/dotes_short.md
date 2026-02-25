@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/demoledor/dotes_short/
+permalink: /clases/arquetipos/pc2/demoledor/dotes_short/
 title: "Dotes de Arquetipo: Demoledor"
 chapter: Clases
 category: clases

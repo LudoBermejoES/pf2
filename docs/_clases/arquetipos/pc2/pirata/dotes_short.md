@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/pirata/dotes_short/
+permalink: /clases/arquetipos/pc2/pirata/dotes_short/
 title: "Dotes de Arquetipo: Pirata"
 chapter: Clases
 category: clases

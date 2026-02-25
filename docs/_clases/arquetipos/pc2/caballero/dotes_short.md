@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/caballero/dotes_short/
+permalink: /clases/arquetipos/pc2/caballero/dotes_short/
 title: "Dotes de Arquetipo: Caballero"
 chapter: Clases
 category: clases

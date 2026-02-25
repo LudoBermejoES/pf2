@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/arquero-arcano/dotes_short/
+permalink: /clases/arquetipos/pc2/arquero-arcano/dotes_short/
 title: "Dotes de Arquetipo: Arquero Arcano"
 chapter: Clases
 category: clases

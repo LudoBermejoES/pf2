@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/diletante-de-talismanes/dotes_short/
+permalink: /clases/arquetipos/pc2/diletante-de-talismanes/dotes_short/
 title: "Dotes de Arquetipo: Diletante De Talismanes"
 chapter: Clases
 category: clases

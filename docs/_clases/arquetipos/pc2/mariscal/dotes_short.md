@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/mariscal/dotes_short/
+permalink: /clases/arquetipos/pc2/mariscal/dotes_short/
 title: "Dotes de Arquetipo: Mariscal"
 chapter: Clases
 category: clases

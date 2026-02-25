@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/buscavidas/dotes_short/
+permalink: /clases/arquetipos/pc2/buscavidas/dotes_short/
 title: "Dotes de Arquetipo: Buscavidas"
 chapter: Clases
 category: clases

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/centinela/dotes_short/
+permalink: /clases/arquetipos/pc2/centinela/dotes_short/
 title: "Dotes de Arquetipo: Centinela"
 chapter: Clases
 category: clases

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/ritualista/dotes_short/
+permalink: /clases/arquetipos/pc2/ritualista/dotes_short/
 title: "Dotes de Arquetipo: Ritualista"
 chapter: Clases
 category: clases

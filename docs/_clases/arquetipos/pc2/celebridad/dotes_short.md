@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/celebridad/dotes_short/
+permalink: /clases/arquetipos/pc2/celebridad/dotes_short/
 title: "Dotes de Arquetipo: Celebridad"
 chapter: Clases
 category: clases

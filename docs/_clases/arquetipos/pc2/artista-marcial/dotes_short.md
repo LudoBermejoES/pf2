@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /clases/arquetipos/otros/artista-marcial/dotes_short/
+permalink: /clases/arquetipos/pc2/artista-marcial/dotes_short/
 title: "Dotes de Arquetipo: Artista Marcial"
 chapter: Clases
 category: clases
