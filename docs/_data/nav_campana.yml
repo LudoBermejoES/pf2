@@ -1,0 +1,15 @@
+chapter: "Campaña"
+icon: "👑"
+label: "La Campaña"
+root: /campana/
+links:
+  - title: Kingmaker
+    url: /campana/
+  - title: Ascendencias
+    url: /campana/ascendencias/
+  - title: Clases
+    url: /campana/clases/
+  - title: Bagajes
+    url: /campana/bagajes/
+  - title: Otras Consideraciones
+    url: /campana/consideraciones/

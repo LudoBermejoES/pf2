@@ -1,0 +1,199 @@
+chapter: "Cómo Jugar"
+icon: "📜"
+label: "Cómo Jugar"
+root: /reglas/
+links:
+  - title: Introducción
+    url: /reglas/
+  - title: Conceptos y Convenciones
+    url: /reglas/introduccion/
+  - title: Modos de Juego
+    section: true
+    links:
+      - title: Modo de Encuentro
+        url: /reglas/modo-encuentro/
+      - title: Modo de Exploración
+        url: /reglas/modo-exploracion/
+      - title: Modo de Tiempo Libre
+        url: /reglas/modo-tiempo-libre/
+  - title: Actividades
+    section: true
+    links:
+      - title: De Exploración
+        url: /reglas/actividades-exploracion/
+      - title: De Tiempo Libre
+        url: /reglas/actividades-tiempo-libre/
+  - title: Pruebas
+    url: /reglas/pruebas/
+  - title: Ataques y Defensas
+    url: /reglas/ataques-defensas/
+  - title: Daño y Curación
+    section: true
+    links:
+      - title: Tipos de Daño
+        url: /reglas/dano/
+      - title: Puntos de Golpe y Moribundo
+        url: /reglas/puntos-golpe/
+  - title: Acciones
+    section: true
+    links:
+      - title: Visión General
+        url: /reglas/acciones/
+      - title: Acciones Básicas
+        url: /reglas/acciones-basicas/
+      - title: Acciones de Especialidad
+        url: /reglas/acciones-especialidad/
+  - title: Movimiento y Terreno
+    url: /reglas/movimiento/
+  - title: Cobertura y Flanqueo
+    url: /reglas/cobertura-flanqueo/
+  - title: Efectos
+    section: true
+    links:
+      - title: Efectos y Áreas
+        url: /reglas/efectos/
+      - title: Aflicciones
+        url: /reglas/aflicciones/
+      - title: Estados
+        url: /apendices/estados/
+  - title: Percepción y Detección
+    url: /reglas/percepcion-deteccion/
+  - title: Batallas Especiales
+    url: /reglas/batallas-especiales/
+  - title: Encuentros
+    url: /reglas/encuentros/
+  - title: Artesanía
+    section: true
+    links:
+      - title: Secretos de la Artesanía
+        url: /reglas/artesania/
+      - title: Artesanía Compleja
+        url: /reglas/artesania/compleja/
+      - title: Artesanía Crítica
+        url: /reglas/artesania/critica/
+      - title: Conversión de Objetos
+        url: /reglas/artesania/conversion/
+      - title: Cultivar Objetos
+        url: /reglas/artesania/cultivar/
+      - title: Eventos de Artesanía
+        url: /reglas/artesania/eventos/
+      - title: Gestas Artesanales
+        url: /reglas/artesania/gestas-ejemplos/
+      - title: Artesanía y Historia
+        url: /reglas/artesania/historia/
+      - title: Jardines Maravillosos
+        url: /reglas/artesania/jardines/
+      - title: Materiales Alternativos
+        url: /reglas/artesania/materiales/
+      - title: Obsequios Otorgados
+        url: /reglas/artesania/obsequios/
+  - title: Ejemplos de Juego
+    section: true
+    links:
+      - title: Introducción
+        url: /reglas/ejemplos/
+      - title: Combate Completo
+        url: /reglas/ejemplos/combate/
+      - title: Explorar Mazmorra
+        url: /reglas/ejemplos/exploracion/
+      - title: Tiempo Libre
+        url: /reglas/ejemplos/tiempo-libre/
+      - title: Negociación Social
+        url: /reglas/ejemplos/encuentro-social/
+      - title: Tiradas y Grados
+        url: /reglas/ejemplos/tiradas/
+  - title: Combate en Detalle
+    section: true
+    links:
+      - title: Economía de Acciones
+        url: /reglas/detalle/combate/economia-de-acciones/
+      - title: Penalización Ataque Múltiple
+        url: /reglas/detalle/combate/penalizacion-ataque-multiple/
+      - title: Críticos y Grados de Éxito
+        url: /reglas/detalle/combate/criticos-y-grados-de-exito/
+      - title: Golpe Reactivo
+        url: /reglas/detalle/combate/golpe-reactivo/
+      - title: Movimiento Forzado
+        url: /reglas/detalle/combate/movimiento-forzado/
+      - title: Escudos
+        url: /reglas/detalle/combate/escudos/
+      - title: Daño No Letal
+        url: /reglas/detalle/combate/dano-no-letal/
+      - title: Tropas
+        url: /reglas/detalle/combate/tropas/
+      - title: Escaramuzas
+        url: /reglas/detalle/combate/escaramuzas/
+      - title: Flanqueo
+        url: /reglas/detalle/combate/flanqueo/
+      - title: Cobertura
+        url: /reglas/detalle/combate/cobertura/
+      - title: Percepción y Ocultamiento
+        url: /reglas/detalle/combate/percepcion-y-ocultamiento/
+      - title: Sigilo
+        url: /reglas/detalle/combate/sigilo/
+      - title: Iniciativa y Sorpresa
+        url: /reglas/detalle/combate/iniciativa-y-sorpresa/
+      - title: "Daño: Fundamentos"
+        url: /reglas/detalle/combate/dano-parte-1/
+      - title: "Daño: Precisión y Persistente"
+        url: /reglas/detalle/combate/dano-parte-2/
+      - title: "Muerte: Moribundo y Herido"
+        url: /reglas/detalle/combate/muerte-parte-1/
+      - title: "Muerte: Situaciones Especiales"
+        url: /reglas/detalle/combate/muerte-parte-2/
+      - title: Armadura
+        url: /reglas/detalle/combate/armadura/
+  - title: Magia en Detalle
+    section: true
+    links:
+      - title: Tradiciones y Esencias
+        url: /reglas/detalle/magia/tradiciones-y-esencias/
+      - title: Lanzadores Preparados y Espontáneos
+        url: /reglas/detalle/magia/lanzadores-preparados-y-espontaneos/
+      - title: Aprender y Gestionar Conjuros
+        url: /reglas/detalle/magia/aprender-y-gestionar-conjuros/
+      - title: Tiempos de Lanzamiento y Duración
+        url: /reglas/detalle/magia/tiempos-de-lanzamiento-y-duracion/
+      - title: Alcance y Área
+        url: /reglas/detalle/magia/alcance-y-area/
+      - title: Lanzar Conjuros
+        url: /reglas/detalle/magia/lanzar-conjuros/
+      - title: "Trucos, Foco e Innatos"
+        url: /reglas/detalle/magia/trucos-conjuros-foco-e-innatos/
+  - title: Artesanía en Detalle
+    section: true
+    links:
+      - title: "Elaborar: Fundamentos"
+        url: /reglas/detalle/artesania/elaborar-fundamentos/
+      - title: "Elaborar: Mágicos y Materiales"
+        url: /reglas/detalle/artesania/elaborar-objetos-magicos-y-materiales/
+      - title: "Runas: Fundamentos"
+        url: /reglas/detalle/artesania/runas-fundamentos/
+      - title: "Runas: Grabar y Transferir"
+        url: /reglas/detalle/artesania/runas-grabar-actualizar-transferir/
+      - title: Alquimia
+        url: /reglas/detalle/artesania/alquimia/
+      - title: Comprar Objetos Mágicos
+        url: /reglas/detalle/artesania/comprar-objetos-magicos/
+  - title: Personajes en Detalle
+    section: true
+    links:
+      - title: Competencia
+        url: /reglas/detalle/personajes/competencia/
+      - title: Recordar Conocimiento
+        url: /reglas/detalle/personajes/identificar-conocimiento/
+      - title: Santificación
+        url: /reglas/detalle/personajes/santificacion/
+      - title: Montar sobre Aliados PJ
+        url: /reglas/detalle/personajes/montura-entre-jugadores/
+      - title: El Monje
+        url: /reglas/detalle/personajes/monje/
+      - title: Descanso y Preparaciones
+        url: /reglas/detalle/personajes/descanso-y-preparaciones/
+      - title: Latrocinio
+        url: /reglas/detalle/personajes/latrocinio/
+  - title: Peligros en Detalle
+    section: true
+    links:
+      - title: Apariciones
+        url: /reglas/detalle/peligros/apariciones/

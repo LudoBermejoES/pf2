@@ -35,17 +35,37 @@
           <span></span>
         </button>
         <ul class="nav-links">
-          <li><a href="{{ '/campana/' | relative_url }}">La Campaña</a></li>
-          <li><a href="{{ '/introduccion/' | relative_url }}">Introducción</a></li>
-          <li><a href="{{ '/ambientacion/' | relative_url }}">Ambientación</a></li>
-          <li><a href="{{ '/ascendencias/' | relative_url }}">Ascendencias</a></li>
-          <li><a href="{{ '/clases/' | relative_url }}">Clases</a></li>
-          <li><a href="{{ '/habilidades/' | relative_url }}">Habilidades</a></li>
-          <li><a href="{{ '/dotes/' | relative_url }}">Dotes</a></li>
-          <li><a href="{{ '/equipo/' | relative_url }}">Equipo</a></li>
-          <li><a href="{{ '/conjuros/' | relative_url }}">Conjuros</a></li>
-          <li><a href="{{ '/reglas/' | relative_url }}">Reglas</a></li>
-          <li><a href="{{ '/apendices/glosario/' | relative_url }}">Apéndices</a></li>
+          <li class="nav-group">
+            <span class="nav-group-label">👑 Campaña</span>
+            <ul class="nav-dropdown">
+              <li><a href="{{ '/campana/' | relative_url }}">La Campaña</a></li>
+            </ul>
+          </li>
+          <li class="nav-group">
+            <span class="nav-group-label">🧙 Personaje</span>
+            <ul class="nav-dropdown">
+              <li><a href="{{ '/introduccion/' | relative_url }}">Introducción</a></li>
+              <li><a href="{{ '/ascendencias/' | relative_url }}">Ascendencias</a></li>
+              <li><a href="{{ '/clases/' | relative_url }}">Clases</a></li>
+              <li><a href="{{ '/habilidades/' | relative_url }}">Habilidades</a></li>
+              <li><a href="{{ '/dotes/' | relative_url }}">Dotes</a></li>
+            </ul>
+          </li>
+          <li class="nav-group">
+            <span class="nav-group-label">🌍 Mundo</span>
+            <ul class="nav-dropdown">
+              <li><a href="{{ '/ambientacion/' | relative_url }}">Ambientación</a></li>
+              <li><a href="{{ '/equipo/' | relative_url }}">Equipo</a></li>
+              <li><a href="{{ '/conjuros/' | relative_url }}">Conjuros</a></li>
+            </ul>
+          </li>
+          <li class="nav-group">
+            <span class="nav-group-label">📜 Mecánicas</span>
+            <ul class="nav-dropdown">
+              <li><a href="{{ '/reglas/' | relative_url }}">Cómo Jugar</a></li>
+              <li><a href="{{ '/apendices/glosario/' | relative_url }}">Apéndices</a></li>
+            </ul>
+          </li>
         </ul>
       </nav>
 
@@ -69,22 +89,36 @@
   <!-- Main Content -->
   <main class="main-content">
     {% if page.chapter %}
+    {% comment %}Find nav data for breadcrumb{% endcomment %}
+    {% assign nav_data = nil %}
+    {% for data in site.data %}
+      {% assign file = data[1] %}
+      {% if file.chapter == page.chapter and nav_data == nil %}
+        {% assign nav_data = file %}
+      {% endif %}
+    {% endfor %}
+    {% assign chapter_root = nav_data.root | default: '/reglas/' %}
+    {% comment %}Find active subsection label{% endcomment %}
+    {% assign active_section = nil %}
+    {% if nav_data %}
+      {% for link in nav_data.links %}
+        {% if link.section and active_section == nil %}
+          {% for child in link.links %}
+            {% if child.url == page.url %}
+              {% assign active_section = link.title %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
     <nav class="breadcrumb">
       <a href="{{ '/' | relative_url }}">Inicio</a>
       <span class="separator">›</span>
-      {% assign chapter_url = '/reglas/' %}
-      {% if page.chapter == "Campaña" %}{% assign chapter_url = '/campana/' %}
-      {% elsif page.chapter == "Introducción" or page.chapter == "Introduccion" %}{% assign chapter_url = '/introduccion/' %}
-      {% elsif page.chapter == "Ambientación" %}{% assign chapter_url = '/ambientacion/' %}
-      {% elsif page.chapter == "Ascendencias" %}{% assign chapter_url = '/ascendencias/' %}
-      {% elsif page.chapter == "Clases" %}{% assign chapter_url = '/clases/' %}
-      {% elsif page.chapter == "Habilidades" %}{% assign chapter_url = '/habilidades/' %}
-      {% elsif page.chapter == "Dotes" %}{% assign chapter_url = '/dotes/' %}
-      {% elsif page.chapter == "Equipo" %}{% assign chapter_url = '/equipo/' %}
-      {% elsif page.chapter == "Conjuros" %}{% assign chapter_url = '/conjuros/' %}
-      {% elsif page.chapter == "Apéndices" or page.chapter == "Rasgos" %}{% assign chapter_url = '/apendices/' %}
+      <a href="{{ chapter_root | relative_url }}">{{ page.chapter }}</a>
+      {% if active_section %}
+      <span class="separator">›</span>
+      <span class="breadcrumb-section">{{ active_section }}</span>
       {% endif %}
-      <a href="{{ chapter_url | relative_url }}">{{ page.chapter }}</a>
       {% if page.title %}
       <span class="separator">›</span>
       <span class="current">{{ page.title }}</span>

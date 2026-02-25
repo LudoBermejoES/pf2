@@ -1,0 +1,44 @@
+chapter: "Equipo"
+icon: "🛡"
+label: "Equipo"
+root: /equipo/
+links:
+  - title: Introducción
+    url: /equipo/
+  - title: Reglas de Equipo
+    section: true
+    links:
+      - title: Monedas y Precio
+        url: /equipo/monedas/
+      - title: Cómo Llevar los Objetos
+        url: /equipo/como-llevar-objetos/
+      - title: Paquetes de Equipo Rápido
+        url: /equipo/paquetes/
+      - title: Impedimenta
+        url: /equipo/impedimenta/
+      - title: Dañar Objetos
+        url: /equipo/danar-objetos/
+      - title: Objetos y Tamaños
+        url: /equipo/objetos-tamanos/
+  - title: Equipo Básico (PC1)
+    section: true
+    links:
+      - title: Armas
+        url: /equipo/armas/
+      - title: Armaduras
+        url: /equipo/armaduras/
+      - title: Escudos
+        url: /equipo/escudos/
+      - title: Objetos
+        url: /equipo/objetos/
+  - title: Tesoro (PC2)
+    section: true
+    links:
+      - title: Objetos Alquímicos
+        url: /equipo/alquimia/
+      - title: Objetos Mágicos
+        url: /equipo/magia/
+      - title: Trampas
+        url: /equipo/trampas/
+  - title: Runas
+    url: /reglas/runas/

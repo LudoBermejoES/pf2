@@ -1,0 +1,37 @@
+chapter: "Ambientación"
+icon: "🌍"
+label: "Ambientación"
+root: /ambientacion/
+links:
+  - title: Introducción
+    url: /ambientacion/
+  - title: Golarion
+    url: /ambientacion/golarion/
+  - title: Era de los Presagios Perdidos
+    url: /ambientacion/era-presagios/
+  - title: Religión
+    section: true
+    links:
+      - title: Sistema Religioso
+        url: /ambientacion/religion/
+      - title: Dioses Principales
+        url: /ambientacion/religion/dioses/
+  - title: Sociedad
+    section: true
+    links:
+      - title: Estructura Social
+        url: /ambientacion/sociedad/
+      - title: Calendario
+        url: /ambientacion/sociedad/calendario/
+      - title: Clima
+        url: /ambientacion/sociedad/clima/
+      - title: Comercio
+        url: /ambientacion/sociedad/comercio/
+      - title: Fauna y Flora
+        url: /ambientacion/sociedad/fauna-flora/
+      - title: Tecnología
+        url: /ambientacion/sociedad/tecnologia/
+  - title: Organizaciones
+    url: /ambientacion/organizaciones/
+  - title: Regiones del Mar Interior
+    url: /ambientacion/regiones/

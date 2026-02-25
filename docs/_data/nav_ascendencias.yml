@@ -1,0 +1,60 @@
+chapter: "Ascendencias"
+icon: "👥"
+label: "Ascendencias"
+root: /ascendencias/
+links:
+  - title: Introducción
+    url: /ascendencias/
+  - title: Catfolk
+    url: /ascendencias/catfolk/
+  - title: Elfo
+    url: /ascendencias/elfo/
+  - title: Enano
+    url: /ascendencias/enano/
+  - title: Gnomo
+    url: /ascendencias/gnomo/
+  - title: Goblin
+    url: /ascendencias/goblin/
+  - title: Hobgoblin
+    url: /ascendencias/hobgoblin/
+  - title: Humano
+    url: /ascendencias/humano/
+  - title: Kholo
+    url: /ascendencias/kholo/
+  - title: Kobold
+    url: /ascendencias/kobold/
+  - title: Leshy
+    url: /ascendencias/leshy/
+  - title: Hombres Lagarto
+    url: /ascendencias/hombres-lagarto/
+  - title: Mediano
+    url: /ascendencias/mediano/
+  - title: Orco
+    url: /ascendencias/orco/
+  - title: Ratfolk
+    url: /ascendencias/ratfolk/
+  - title: Tengu
+    url: /ascendencias/tengu/
+  - title: Tripkee
+    url: /ascendencias/tripkee/
+  - title: Herencias Versátiles
+    section: true
+    links:
+      - title: Introducción
+        url: /ascendencias/herencias-versatiles/
+      - title: Ascendencia Mixta
+        url: /ascendencias/herencias-versatiles/ascendencia-mixta/
+      - title: Caminante del Ocaso
+        url: /ascendencias/herencias-versatiles/caminante-del-ocaso/
+      - title: Changeling
+        url: /ascendencias/herencias-versatiles/changeling/
+      - title: Dhampir
+        url: /ascendencias/herencias-versatiles/dhampir/
+      - title: Nefilim
+        url: /ascendencias/herencias-versatiles/nefilim/
+      - title: Sangre de Dragón
+        url: /ascendencias/herencias-versatiles/sangre-de-dragon/
+  - title: Bagajes
+    url: /ascendencias/bagajes/
+  - title: Idiomas
+    url: /ascendencias/idiomas/

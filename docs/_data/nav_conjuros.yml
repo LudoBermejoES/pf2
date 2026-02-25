@@ -1,0 +1,15 @@
+chapter: "Conjuros"
+icon: "🔮"
+label: "Conjuros"
+root: /conjuros/
+links:
+  - title: Guía Principal
+    url: /conjuros/
+  - title: Conceptos Fundamentales
+    url: /conjuros/introduccion/
+  - title: Tradiciones
+    url: /conjuros/tradiciones/
+  - title: Conjuros de Foco
+    url: /conjuros/conjuros-de-foco/
+  - title: Rituales
+    url: /conjuros/rituales/rituales/

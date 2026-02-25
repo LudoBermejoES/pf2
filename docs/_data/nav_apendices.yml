@@ -1,0 +1,11 @@
+chapter: "Apéndices"
+icon: "📑"
+label: "Apéndices"
+root: /apendices/glosario/
+links:
+  - title: Glosario
+    url: /apendices/glosario/
+  - title: Estados
+    url: /apendices/estados/
+  - title: Rasgos
+    url: /apendices/rasgos/

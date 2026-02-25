@@ -1,0 +1,45 @@
+chapter: "Habilidades"
+icon: "🎯"
+label: "Habilidades"
+root: /habilidades/
+links:
+  - title: Introducción
+    url: /habilidades/
+  - title: Tabla de Habilidades
+    url: /habilidades/tabla/
+  - title: Acciones Generales
+    url: /habilidades/acciones-generales/
+  - title: Acrobacias
+    url: /habilidades/acrobacias/
+  - title: Arcanos
+    url: /habilidades/arcanos/
+  - title: Artesanía
+    url: /habilidades/artesania/
+  - title: Atletismo
+    url: /habilidades/atletismo/
+  - title: Diplomacia
+    url: /habilidades/diplomacia/
+  - title: Engaño
+    url: /habilidades/engano/
+  - title: Interpretación
+    url: /habilidades/interpretacion/
+  - title: Intimidación
+    url: /habilidades/intimidacion/
+  - title: Latrocinio
+    url: /habilidades/latrocinio/
+  - title: Medicina
+    url: /habilidades/medicina/
+  - title: Naturaleza
+    url: /habilidades/naturaleza/
+  - title: Ocultismo
+    url: /habilidades/ocultismo/
+  - title: Religión
+    url: /habilidades/religion/
+  - title: Saber
+    url: /habilidades/saber/
+  - title: Sigilo
+    url: /habilidades/sigilo/
+  - title: Sociedad
+    url: /habilidades/sociedad/
+  - title: Supervivencia
+    url: /habilidades/supervivencia/

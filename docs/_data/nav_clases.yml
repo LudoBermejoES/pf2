@@ -1,0 +1,54 @@
+chapter: "Clases"
+icon: "⚔"
+label: "Clases"
+root: /clases/
+links:
+  - title: Introducción
+    url: /clases/
+  - title: Clases Marciales
+    section: true
+    links:
+      - title: Alquimista
+        url: /clases/alquimista/
+      - title: Bárbaro
+        url: /clases/barbaro/
+      - title: Campeón
+        url: /clases/campeon/
+      - title: Espadachín
+        url: /clases/espadachin/
+      - title: Explorador
+        url: /clases/explorador/
+      - title: Guerrero
+        url: /clases/guerrero/
+      - title: Investigador
+        url: /clases/investigador/
+      - title: Monje
+        url: /clases/monje/
+      - title: Pícaro
+        url: /clases/picaro/
+  - title: Clases Lanzadoras
+    section: true
+    links:
+      - title: Bardo
+        url: /clases/bardo/
+      - title: Brujo
+        url: /clases/brujo/
+      - title: Clérigo
+        url: /clases/clerigo/
+      - title: Druida
+        url: /clases/druida/
+      - title: Hechicero
+        url: /clases/hechicero/
+      - title: Mago
+        url: /clases/mago/
+      - title: Oráculo
+        url: /clases/oraculo/
+  - title: Compañeros
+    section: true
+    links:
+      - title: Animales
+        url: /clases/companeros/animales/
+      - title: Familiares
+        url: /clases/companeros/familiares/
+  - title: Arquetipos
+    url: /clases/arquetipos/

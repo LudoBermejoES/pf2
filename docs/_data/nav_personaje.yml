@@ -1,0 +1,33 @@
+chapter: "Introducción"
+icon: "📖"
+label: "Introducción"
+root: /introduccion/
+links:
+  - title: "¿Qué es un JDR?"
+    url: /introduccion/que-es-jdr/
+  - title: La Primera Regla
+    url: /introduccion/primera-regla/
+  - title: Dados
+    url: /introduccion/dados/
+  - title: Jugar es para Todos
+    url: /introduccion/jugar-para-todos/
+  - title: Herramientas de Juego
+    url: /introduccion/herramientas/
+  - title: Puntos Básicos
+    url: /introduccion/puntos-basicos/
+  - title: Atributos
+    url: /introduccion/atributos/
+  - title: Cómo se Juega
+    url: /introduccion/como-se-juega/
+  - title: Términos Clave
+    url: /introduccion/terminos-clave/
+  - title: Ejemplo de Juego
+    url: /introduccion/ejemplo-juego/
+  - title: Cómo Utilizar este Libro
+    url: /introduccion/como-utilizar-libro/
+  - title: Formato de las Reglas
+    url: /introduccion/formato-reglas/
+  - title: Creación de Personajes
+    url: /introduccion/creacion-personajes/
+  - title: Subir de Nivel
+    url: /introduccion/subir-nivel/

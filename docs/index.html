@@ -23,113 +23,96 @@ title: Inicio
   </div>
 </div>
 
-<section class="quick-links">
-  <h2>Explora el Contenido</h2>
-  <div class="card-grid">
-    <a href="{{ '/introduccion/' | relative_url }}" class="feature-card">
-      <span class="card-icon">📖</span>
-      <h3>Introducción</h3>
-      <p>Aprende qué es un juego de rol, cómo se juega Pathfinder y los conceptos básicos.</p>
+<!-- ZONA 1: Usuarios frecuentes — acceso rápido a referencias -->
+<section class="zone zone-frequent">
+  <h2 class="zone-title">Consulta Rápida</h2>
+  <div class="quickref-grid">
+    <a href="{{ '/apendices/estados/' | relative_url }}" class="quickref-card">
+      <span class="quickref-icon">⚠️</span>
+      <div>
+        <strong>Estados</strong>
+        <span>Condiciones activas</span>
+      </div>
     </a>
-
-    <a href="{{ '/ascendencias/' | relative_url }}" class="feature-card">
-      <span class="card-icon">👥</span>
-      <h3>Ascendencias</h3>
-      <p>Humanos, elfos, enanos y más. Elige de dónde viene tu personaje.</p>
+    <a href="{{ '/reglas/acciones-basicas/' | relative_url }}" class="quickref-card">
+      <span class="quickref-icon">⚡</span>
+      <div>
+        <strong>Acciones Básicas</strong>
+        <span>Lo que puedes hacer en combate</span>
+      </div>
     </a>
-
-    <a href="{{ '/clases/' | relative_url }}" class="feature-card">
-      <span class="card-icon">⚔</span>
-      <h3>Clases</h3>
-      <p>Guerreros, magos, clérigos... Define el rol de tu héroe en la aventura.</p>
+    <a href="{{ '/habilidades/tabla/' | relative_url }}" class="quickref-card">
+      <span class="quickref-icon">🎲</span>
+      <div>
+        <strong>Tabla de Habilidades</strong>
+        <span>DCs y usos de cada habilidad</span>
+      </div>
     </a>
-
-    <a href="{{ '/habilidades/' | relative_url }}" class="feature-card">
-      <span class="card-icon">🎯</span>
-      <h3>Habilidades</h3>
-      <p>Desde Atletismo hasta Sigilo, domina las capacidades de tu personaje.</p>
+    <a href="{{ '/apendices/glosario/' | relative_url }}" class="quickref-card">
+      <span class="quickref-icon">📚</span>
+      <div>
+        <strong>Glosario</strong>
+        <span>Términos del juego</span>
+      </div>
     </a>
-
-    <a href="{{ '/dotes/' | relative_url }}" class="feature-card">
-      <span class="card-icon">✨</span>
-      <h3>Dotes</h3>
-      <p>Especializa a tu personaje con habilidades únicas y poderosas.</p>
+    <a href="{{ '/equipo/armas/' | relative_url }}" class="quickref-card">
+      <span class="quickref-icon">⚔</span>
+      <div>
+        <strong>Armas</strong>
+        <span>Daño, rasgos y grupos</span>
+      </div>
     </a>
-
-    <a href="{{ '/equipo/' | relative_url }}" class="feature-card">
-      <span class="card-icon">🛡</span>
-      <h3>Equipo</h3>
-      <p>Armas, armaduras, objetos y todo lo que necesitas para la aventura.</p>
+    <a href="{{ '/apendices/rasgos/' | relative_url }}" class="quickref-card">
+      <span class="quickref-icon">🏷️</span>
+      <div>
+        <strong>Rasgos</strong>
+        <span>Qué significa cada rasgo</span>
+      </div>
     </a>
-
-    <a href="{{ '/conjuros/' | relative_url }}" class="feature-card">
-      <span class="card-icon">🔮</span>
-      <h3>Conjuros</h3>
-      <p>Magia arcana, divina, oculta y primigenia. Todos los hechizos disponibles.</p>
+    <a href="{{ '/reglas/detalle/combate/economia-de-acciones/' | relative_url }}" class="quickref-card">
+      <span class="quickref-icon">🔢</span>
+      <div>
+        <strong>Economía de Acciones</strong>
+        <span>1, 2, 3 acciones y reacción</span>
+      </div>
     </a>
-
-    <a href="{{ '/reglas/' | relative_url }}" class="feature-card">
-      <span class="card-icon">📜</span>
-      <h3>Cómo Jugar</h3>
-      <p>Reglas de combate, exploración, tiempo libre y mecánicas del juego.</p>
-    </a>
+    <button type="button" class="quickref-card quickref-search" onclick="window.pf2Search?.open()">
+      <span class="quickref-icon">🔍</span>
+      <div>
+        <strong>Buscar</strong>
+        <span>Busca cualquier término</span>
+      </div>
+    </button>
   </div>
 </section>
 
-<section class="quick-start">
-  <h2>Guía Rápida</h2>
-  <div class="steps-grid">
-    <div class="step-card">
-      <span class="step-number">1</span>
-      <h3>Elige tu Ascendencia</h3>
-      <p>Decide si serás un humano versátil, un elfo longevo, un enano resistente u otra de las opciones disponibles.</p>
-      <a href="{{ '/ascendencias/' | relative_url }}">Ver Ascendencias →</a>
-    </div>
-
-    <div class="step-card">
-      <span class="step-number">2</span>
-      <h3>Selecciona tu Clase</h3>
-      <p>Tu clase define tu rol: combatiente en primera línea, lanzador de conjuros, explorador sigiloso...</p>
-      <a href="{{ '/clases/' | relative_url }}">Ver Clases →</a>
-    </div>
-
-    <div class="step-card">
-      <span class="step-number">3</span>
-      <h3>Asigna Atributos</h3>
-      <p>Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma definen tus capacidades.</p>
-      <a href="{{ '/introduccion/atributos/' | relative_url }}">Ver Atributos →</a>
-    </div>
-
-    <div class="step-card">
-      <span class="step-number">4</span>
-      <h3>Equipa tu Personaje</h3>
-      <p>Armas para el combate, armadura para la defensa y herramientas para la aventura.</p>
-      <a href="{{ '/equipo/' | relative_url }}">Ver Equipo →</a>
-    </div>
-  </div>
-</section>
-
-<section class="reference-section">
-  <h2>Referencias Rápidas</h2>
-  <div class="reference-grid">
-    <a href="{{ '/apendices/glosario/' | relative_url }}" class="reference-card">
-      <h3>📚 Glosario</h3>
-      <p>Definiciones de todos los términos del juego</p>
+<!-- ZONA 2: Nuevos jugadores — 4 caminos narrativos -->
+<section class="zone zone-new">
+  <h2 class="zone-title">¿Por Dónde Empezar?</h2>
+  <div class="paths-grid">
+    <a href="{{ '/introduccion/que-es-jdr/' | relative_url }}" class="path-card path-new">
+      <span class="path-icon">📖</span>
+      <h3>Nuevo en los JDR</h3>
+      <p>Nunca has jugado a un juego de rol. Empieza aquí para aprender los conceptos básicos.</p>
+      <span class="path-cta">Comenzar desde cero →</span>
     </a>
-
-    <a href="{{ '/apendices/estados/' | relative_url }}" class="reference-card">
-      <h3>⚠️ Estados</h3>
-      <p>Condiciones que afectan a personajes y criaturas</p>
+    <a href="{{ '/introduccion/creacion-personajes/' | relative_url }}" class="path-card path-create">
+      <span class="path-icon">🧙</span>
+      <h3>Crear mi Personaje</h3>
+      <p>Ya sabes lo básico y quieres crear tu primer héroe. Elige ascendencia, clase y bagaje.</p>
+      <span class="path-cta">Crear personaje →</span>
     </a>
-
-    <a href="{{ '/habilidades/tabla/' | relative_url }}" class="reference-card">
-      <h3>🎲 Tabla de Habilidades</h3>
-      <p>Referencia rápida de todas las habilidades</p>
+    <a href="{{ '/reglas/' | relative_url }}" class="path-card path-rules">
+      <span class="path-icon">📜</span>
+      <h3>Aprender las Reglas</h3>
+      <p>Entiende cómo funciona el combate, la exploración y las pruebas de habilidad.</p>
+      <span class="path-cta">Ver reglas →</span>
     </a>
-
-    <a href="{{ '/reglas/acciones/' | relative_url }}" class="reference-card">
-      <h3>⚡ Acciones</h3>
-      <p>Todas las acciones disponibles en combate</p>
+    <a href="{{ '/campana/' | relative_url }}" class="path-card path-campaign">
+      <span class="path-icon">👑</span>
+      <h3>La Campaña</h3>
+      <p>Información específica de la campaña Kingmaker: ascendencias, clases y consideraciones.</p>
+      <span class="path-cta">Ver campaña →</span>
     </a>
   </div>
 </section>
@@ -216,18 +199,78 @@ title: Inicio
   color: var(--pf-gold);
 }
 
-/* Quick Links */
-.quick-links {
+/* Zones */
+.zone {
   margin-bottom: var(--spacing-2xl);
 }
 
-.quick-links h2 {
+.zone-title {
   text-align: center;
   margin-bottom: var(--spacing-xl);
 }
 
-.feature-card {
-  display: block;
+/* Zone 1: Quick Reference grid */
+.quickref-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--spacing-sm);
+}
+
+.quickref-card {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  padding: var(--spacing-md);
+  background: var(--bg-card);
+  border: 1px solid var(--border-primary);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  cursor: pointer;
+  font-family: inherit;
+  color: var(--text-primary);
+  width: 100%;
+  text-align: left;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.quickref-card:hover {
+  border-color: var(--pf-gold-dark);
+  box-shadow: var(--shadow-glow);
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.quickref-icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+.quickref-card div {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.quickref-card strong {
+  font-size: 0.9rem;
+  color: var(--pf-gold);
+}
+
+.quickref-card span {
+  font-size: 0.775rem;
+  color: var(--text-muted);
+}
+
+/* Zone 2: Paths grid */
+.paths-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--spacing-lg);
+}
+
+.path-card {
+  display: flex;
+  flex-direction: column;
   padding: var(--spacing-lg);
   background: var(--bg-card);
   border: 1px solid var(--border-primary);
@@ -236,126 +279,35 @@ title: Inicio
   transition: all 0.2s ease;
 }
 
-.feature-card:hover {
+.path-card:hover {
   border-color: var(--pf-gold-dark);
   box-shadow: var(--shadow-md), var(--shadow-glow);
-  transform: translateY(-4px);
+  transform: translateY(-3px);
   text-decoration: none;
 }
 
-.feature-card .card-icon {
-  display: block;
+.path-icon {
   font-size: 2rem;
   margin-bottom: var(--spacing-sm);
 }
 
-.feature-card h3 {
+.path-card h3 {
   margin: 0 0 var(--spacing-xs);
   color: var(--pf-gold);
+  font-size: 1.1rem;
 }
 
-.feature-card p {
-  margin: 0;
+.path-card p {
+  margin: 0 0 var(--spacing-md);
   color: var(--text-secondary);
-  font-size: 0.9rem;
-}
-
-/* Quick Start */
-.quick-start {
-  margin-bottom: var(--spacing-2xl);
-}
-
-.quick-start h2 {
-  text-align: center;
-  margin-bottom: var(--spacing-xl);
-}
-
-.steps-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: var(--spacing-lg);
-}
-
-.step-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border-primary);
-  border-radius: var(--radius-md);
-  padding: var(--spacing-lg);
-  position: relative;
-}
-
-.step-number {
-  position: absolute;
-  top: var(--spacing-md);
-  right: var(--spacing-md);
-  width: 32px;
-  height: 32px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--pf-red);
-  color: var(--pf-gold);
-  font-family: var(--font-display);
-  font-weight: 700;
-  border-radius: 50%;
-  border: 2px solid var(--pf-gold-dark);
-}
-
-.step-card h3 {
-  margin-top: 0;
-  color: var(--pf-gold);
-}
-
-.step-card p {
-  color: var(--text-secondary);
-  font-size: 0.9rem;
-}
-
-.step-card a {
   font-size: 0.875rem;
+  flex: 1;
 }
 
-/* Reference Section */
-.reference-section {
-  margin-bottom: var(--spacing-2xl);
-}
-
-.reference-section h2 {
-  text-align: center;
-  margin-bottom: var(--spacing-xl);
-}
-
-.reference-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: var(--spacing-md);
-}
-
-.reference-card {
-  display: block;
-  padding: var(--spacing-md);
-  background: var(--bg-tertiary);
-  border: 1px solid var(--border-primary);
-  border-radius: var(--radius-md);
-  text-decoration: none;
-  transition: all 0.2s ease;
-}
-
-.reference-card:hover {
-  border-color: var(--pf-gold-dark);
-  text-decoration: none;
-}
-
-.reference-card h3 {
-  margin: 0 0 var(--spacing-xs);
-  font-size: 1rem;
-  color: var(--text-primary);
-}
-
-.reference-card p {
-  margin: 0;
+.path-cta {
   font-size: 0.8rem;
-  color: var(--text-muted);
+  color: var(--pf-gold-dark);
+  font-family: var(--font-display);
 }
 
 @media (max-width: 768px) {
