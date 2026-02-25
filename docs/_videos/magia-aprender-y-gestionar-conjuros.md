@@ -42,7 +42,7 @@ Método universal para acceder a conjuros poco comunes, raros o fuera de la prog
 
 *Ejemplo:* Para aprender un conjuro de rango 3:
 - 3 horas estudiando
-- 16 mo en materiales
+- 16 po en materiales
 
 **Tirada:** Arcanos, Naturaleza, Ocultismo o Religión (según la tradición), contra la CD de la tabla, ajustada por rareza:
 

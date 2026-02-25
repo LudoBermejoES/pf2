@@ -11,7 +11,7 @@ category: videos
 Los ataques desarmados usan una parte del cuerpo (puño, codo, rodilla, talón, cabeza). Estadísticas base:
 - Daño: 1d4 contundente
 - Grupo: lucha
-- Rasgos: ágil, finura, no letal, desarmado
+- Rasgos: ágil, sutil, no letal, desarmado
 
 El rasgo **no letal** implica que por defecto los ataques desarmados no pueden matar sin aceptar -2 de circunstancias al ataque.
 
@@ -103,18 +103,18 @@ La dote **Bastión de la Montaña** (nivel 6) aumenta el cap de Destreza en 1; l
 ## Dote: Armamento Monástico
 *Dote de nivel 1 (opcional)*
 
-Otorga competencia Entrenado con armas marciales y sencillas de monje. La competencia aumenta junto con la competencia en ataques desarmados. Las armas ágiles o de finura con las que el monje tenga acceso por dotes de familiaridad también obtienen el rasgo monje y pueden usarse para habilidades monásticas.
+Otorga competencia Entrenado con armas marciales y sencillas de monje. La competencia aumenta junto con la competencia en ataques desarmados. Las armas ágiles o de sutil con las que el monje tenga acceso por dotes de familiaridad también obtienen el rasgo monje y pueden usarse para habilidades monásticas.
 
 ---
 
 ## Dote: Conjuros Clave
 *Dote de nivel 1 (opcional)*
 
-Permite al monje canalizar su energía interior en forma de conjuros de enfoque. Al tomar la dote:
+Permite al monje canalizar su energía interior en forma de conjuros de foco. Al tomar la dote:
 - Elige tradición divina u ocultismo
-- Obtiene un Punto de Enfoque y entrenamiento en ataques de conjuro y CD de conjuro
+- Obtiene un Punto de Foco y entrenamiento en ataques de conjuro y CD de conjuro
 - Usa Sabiduría como modificador de habilidad
-- Elige 1 conjuro clave de 1er rango (p. ej., *Terremoto interior*: 1 acción + 1 PE, golpe desarmado o Furor de Golpes con +1 de estatus al ataque y 1d6 de daño adicional del tipo elegido entre fuerza, espiritual, vitalidad o vacío)
+- Elige 1 conjuro clave de 1er rango (p. ej., *Terremoto interior*: 1 acción + 1 PF, golpe desarmado o Furor de Golpes con +1 de estatus al ataque y 1d6 de daño adicional del tipo elegido entre fuerza, espiritual, vitalidad o vacío)
 
 Los conjuros clave se potencian automáticamente a la mitad del nivel del monje (redondeando hacia arriba).
 

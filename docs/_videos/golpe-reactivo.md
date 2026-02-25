@@ -70,7 +70,7 @@ La acción **Paso** (1 acción, solo 1,5 m / 5 pies) permite moverse sin activar
 ## Cuándo Ocurre el Golpe Reactivo
 
 - **Desencadenado por salir de un cuadro:** Ocurre inmediatamente antes de que el objetivo abandone ese cuadro (mientras aún está en alcance)
-- **Desencadenado por usar una acción de movimiento sin salir:** El objetivo resuelve completamente su acción antes de que se resuelva el Golpe Reactivo (p. ej., al levantarse del suelo, el objetivo se levanta por completo antes de que el golpe se resuelva; esto importa para determinar si el objetivo tiene la condición Tierra de la condición de estar en tierra)
+- **Desencadenado por usar una acción de movimiento sin salir:** El objetivo resuelve completamente su acción antes de que se resuelva el Golpe Reactivo (p. ej., al levantarse del suelo, el objetivo se levanta por completo antes de que el golpe se resuelva; esto importa para determinar si el objetivo tiene el estado Tumbado)
 
 ---
 

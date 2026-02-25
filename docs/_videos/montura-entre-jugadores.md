@@ -67,7 +67,7 @@ Las reglas de montar sobre PJs no usan la acción «Montar» y no se refieren al
 
 Aunque no está explícitamente definido para montura PJ vs. PJ, la sección de combate montado indica que:
 - El jinete recibe **cobertura menor** (+1 a CA) de la montura
-- El jinete sufre penalización de -2 a sus salvaciones de Reflex por depender de los movimientos de la montura
+- El jinete sufre penalización de -2 a sus salvaciones de Reflejos por depender de los movimientos de la montura
 - El jinete ocupa todos los cuadros de la montura simultáneamente
 
 ---

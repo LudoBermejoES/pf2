@@ -12,7 +12,7 @@ Los lanzadores están limitados en el número de conjuros que pueden lanzar al d
 
 *Ejemplo:* Un bardo de nivel 3 tiene 3 espacios de conjuro de rango 1 y 2 espacios de rango 2.
 
-Las cantinelas son un tipo especial de conjuro que no consumen espacios. Los conjuros de espacio convencionales consumen un espacio al lanzarse.
+Los trucos son un tipo especial de conjuro que no consumen espacios. Los conjuros de espacio convencionales consumen un espacio al lanzarse.
 
 Tras un descanso completo y las preparaciones diarias, todos los espacios se recuperan.
 

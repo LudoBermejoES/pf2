@@ -36,7 +36,7 @@ Para elaborar objetos de rareza poco común o rara, se necesita la fórmula del 
 > Tener la fórmula reduce el tiempo de elaboración a la mitad. Es siempre recomendable disponer de ella.
 
 **Obtener fórmulas:**
-- *Libro básico de artesano* (1 mo): incluye todas las fórmulas de objetos comunes del Capítulo 6 de Player Core
+- *Libro básico de artesano* (1 po): incluye todas las fórmulas de objetos comunes del Capítulo 6 de Player Core
 - Fórmulas de objetos comunes en otras fuentes: precio según tabla
 - Fórmulas de objetos poco comunes o raros: solo a discreción del DJ
 
@@ -72,7 +72,7 @@ Pagar el 50% restante y el objeto queda terminado. No ahorra dinero pero puede s
 **Opción B – Continuar trabajando para reducir el coste**
 Por cada día adicional de tiempo libre, el saldo pendiente se reduce según la **tabla de ingresos ganados** (página 229, Player Core 1), usando el nivel y competencia del artesano.
 
-*Ejemplo:* Artesano de nivel 8 con competencia Experto → cada día adicional reduce el coste en 3 mo. Con éxito crítico, se trata como nivel 9 → 4 mo de reducción por día.
+*Ejemplo:* Artesano de nivel 8 con competencia Experto → cada día adicional reduce el coste en 3 po. Con éxito crítico, se trata como nivel 9 → 4 po de reducción por día.
 
 No se realizan tiradas adicionales tras el primer éxito. Solo se cuentan días y se decide cuándo pagar el saldo restante para completar el objeto.
 
@@ -91,7 +91,7 @@ Los objetos con el rasgo **consumible** (incluida la munición no mágica) puede
 - El precio se calcula sumando el precio de cada objeto del lote
 - El proceso es idéntico al de elaborar objetos individuales
 
-*Ejemplo:* Un lote de 4 viales de agua bendita (precio 3 mo cada uno) tiene un precio total de 12 mo → se deben proporcionar 6 mo en materiales por adelantado.
+*Ejemplo:* Un lote de 4 viales de agua bendita (precio 3 po cada uno) tiene un precio total de 12 po → se deben proporcionar 6 po en materiales por adelantado.
 
 ---
 
@@ -99,7 +99,7 @@ Los objetos con el rasgo **consumible** (incluida la munición no mágica) puede
 
 **Personaje:** Gimarinda, nivel 3, Entrenada en Artesanía (+6)
 
-**Objeto:** Media armadura (nivel 0, precio 18 mo)
+**Objeto:** Media armadura (nivel 0, precio 18 po)
 
 **Verificación de requisitos:**
 - Nivel: objeto nivel 0, personaje nivel 3 ✓
@@ -107,20 +107,20 @@ Los objetos con el rasgo **consumible** (incluida la munición no mágica) puede
 - Dote especial: no es mágica ni alquímica → no se necesita ✓
 - Herramientas: kit de artesano (herramientas de herrero) + acceso a una fragua ✓
 - Fórmula: *Libro básico de artesano* incluye la media armadura ✓
-- Materiales: 9 mo por adelantado (50% de 18 mo) ✓
+- Materiales: 9 po por adelantado (50% de 18 po) ✓
 
 **Proceso:**
 1. Con la fórmula → 1 día de trabajo antes de tirar
 2. Tirada de Artesanía: d20 + 6 vs CD 14 (CD del DJ). Necesita sacar 8 o más
-3. Con éxito, saldo restante: 9 mo
-4. Decide trabajar días adicionales: nivel 3, Entrenada → 5 mo de reducción por día
+3. Con éxito, saldo restante: 9 po
+4. Decide trabajar días adicionales: nivel 3, Entrenada → 5 po de reducción por día
 
 | Día | Saldo restante |
 |-----|---------------|
-| 1 (tirada) | 9 mo |
-| 2 | 8 mo 5 mp |
-| 3 | 8 mo |
-| 4 | 7 mo 5 mp |
-| 5 (paga) | 7 mo → termina |
+| 1 (tirada) | 9 po |
+| 2 | 8 po 5 pp |
+| 3 | 8 po |
+| 4 | 7 po 5 pp |
+| 5 (paga) | 7 po → termina |
 
-Al final del quinto día paga 7 mo (70 mp) y la armadura queda completa. Coste total: 9 mo + 7 mo = 16 mo (ahorro de 2 mo respecto al precio de 18 mo).
+Al final del quinto día paga 7 po (70 pp) y la armadura queda completa. Coste total: 9 po + 7 po = 16 po (ahorro de 2 po respecto al precio de 18 po).

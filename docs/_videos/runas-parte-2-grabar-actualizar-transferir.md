@@ -15,7 +15,7 @@ category: videos
 - Dote **Artesanía Mágica**
 - La espada larga en la que se va a grabar
 - La fórmula de las runas de potencia de arma **o** un objeto que ya tenga esa runa (para copiarlo)
-- Materiales por valor del 50% del precio de la runa (p. ej., 17 mo 5 mp si la runa vale 35 mo)
+- Materiales por valor del 50% del precio de la runa (p. ej., 17 po 5 pp si la runa vale 35 po)
 
 El proceso es idéntico a elaborar objetos: 1 día de trabajo con la fórmula, tirada de Artesanía, y opción de pagar el saldo o continuar trabajando.
 
@@ -30,9 +30,9 @@ Algunas runas (especialmente las fundamentales) permiten actualizar versiones de
 2. El precio se descuenta por el valor de la runa existente que se reemplaza
 
 *Ejemplo:* Actualizar armadura de cota de malla +1 a +2
-- Precio de la runa de potencia +2: 1.600 mo
-- Descuento por la runa +1 existente (160 mo): precio de actualización = 1.440 mo
-- Materiales por adelantado: 720 mo (50% de 1.440 mo)
+- Precio de la runa de potencia +2: 1.600 po
+- Descuento por la runa +1 existente (160 po): precio de actualización = 1.440 po
+- Materiales por adelantado: 720 po (50% de 1.440 po)
 
 **Orden de actualización:** No es obligatorio seguir un orden fijo. Puede actualizarse la runa de impacto antes que la de potencia, o puede saltarse un paso intermedio (p. ej., actualizar directamente de potencia +1 a potencia +3). La tabla de progresión típica en la página 224 del Manual del Master es una sugerencia, no una regla obligatoria.
 
@@ -59,7 +59,7 @@ Si al transferir una runa de potencia el objeto receptor se queda con runas de p
 
 ## Piedras de Runa
 
-Las piedras de runa (3 mo cada una) son un método para transportar runas sin necesidad de grabarlas en un arma, escudo o armadura. Permiten a los DJ distribuir runas como parte del tesoro para que los jugadores elijan cómo utilizarlas.
+Las piedras de runa (3 po cada una) son un método para transportar runas sin necesidad de grabarlas en un arma, escudo o armadura. Permiten a los DJ distribuir runas como parte del tesoro para que los jugadores elijan cómo utilizarlas.
 
 **Reglas especiales:**
 - Pueden grabarse y transferirse runas entre objetos y piedras de runa como cualquier otro objeto

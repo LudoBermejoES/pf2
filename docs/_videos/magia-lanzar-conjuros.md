@@ -77,7 +77,7 @@ Muchos conjuros causan «salvación básica de [Tipo]». La tabla de resultados 
 ### Tipos de salvación y modificadores de habilidad
 
 La salvación que se usa depende del efecto del conjuro:
-- **Reflex:** Conjuros de área física, proyectiles (bola de fuego, rayos)
+- **Reflejos:** Conjuros de área física, proyectiles (bola de fuego, rayos)
 - **Fortaleza:** Efectos que afectan al cuerpo internamente (venenos, transmutaciones)
 - **Voluntad:** Efectos mentales, ilusiones, encantamientos
 

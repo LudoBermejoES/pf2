@@ -16,10 +16,10 @@ La distinción entre daño letal y no letal solo importa en el **último golpe**
 
 | Tipo del último golpe | Efecto al llegar a 0 PG |
 |-----------------------|------------------------|
-| Letal | Queda inconsciente + condición Agonizante (tiradas de recuperación, condición Herido) |
-| No letal | Queda inconsciente sin condición Agonizante ni condición Herido |
+| Letal | Queda inconsciente + estado moribundo (tiradas de recuperación, estado herido) |
+| No letal | Queda inconsciente sin estado moribundo ni estado herido |
 
-Con daño no letal, el objetivo queda estable, sin tiradas de recuperación ni condición Herido. Recupera la consciencia si recibe curación que suba sus PG por encima de 0, o aproximadamente tras 1 minuto (al terminar el combate).
+Con daño no letal, el objetivo queda estable, sin tiradas de recuperación ni estado herido. Recupera la consciencia si recibe curación que suba sus PG por encima de 0, o aproximadamente tras 1 minuto (al terminar el combate).
 
 El resto del combate no se ve afectado: el porcentaje de daño letal o no letal antes del último golpe no altera este resultado.
 

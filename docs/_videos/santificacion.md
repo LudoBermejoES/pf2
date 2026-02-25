@@ -42,7 +42,7 @@ Por sí solos, estos rasgos hacen poco. Lo que importa es cómo interactúan con
 
 **2. Conjuros santificados:** Algunos conjuros tienen el rasgo **Santificado**. Estos conjuros no son inherentemente Santos ni Profanos, pero adoptan el rasgo del lanzador (Santo o Profano) si este está santificado. Un conjuro con el rasgo Santificado solo activa debilidades del mismo tipo.
 
-Conjuros **sin** el rasgo Santificado no se ven afectados por la santificación del lanzador. Lanzar *fireball* con un clérigo Santo no convierte al fireball en Santo.
+Conjuros **sin** el rasgo Santificado no se ven afectados por la santificación del lanzador. Lanzar *bola de fuego* con un clérigo Santo no convierte al bola de fuego en Santo.
 
 **3. El conjuro *curación* no tiene el rasgo Santificado**, por lo que el daño que causa a los no muertos no activa debilidades a «Santo». (La dote **Castigo Divino** puede añadir el rasgo Santo a *curación* a nivel 1.)
 

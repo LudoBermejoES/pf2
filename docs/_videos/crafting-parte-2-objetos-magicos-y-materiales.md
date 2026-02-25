@@ -30,9 +30,9 @@ El bloque de estadísticas de algunos objetos incluye una sección **«Requisito
 - El lanzamiento del conjuro no produce efectos; la energía se transfiere al objeto
 - Los costes asociados al lanzamiento del conjuro deben pagarse normalmente... **excepto** en el caso de bastones y varitas, donde el coste del conjuro no se paga en la elaboración
 
-### Conjuros de cantinela, enfoque y rituales
+### Trucos, conjuros de foco y rituales
 
-Los pergaminos y varitas **no pueden elaborarse** para almacenar cantinelas, conjuros de enfoque ni rituales. Solo pueden almacenar conjuros de espacio convencionales.
+Los pergaminos y varitas **no pueden elaborarse** para almacenar trucos, conjuros de foco ni rituales. Solo pueden almacenar conjuros de espacio convencionales.
 
 ### Pociones y objetos similares
 
@@ -70,7 +70,7 @@ El precio de las armas de materiales preciosos se calcula según el peso del obj
 
 | Peso del arma | Precio (hierro frío bajo) |
 |---------------|--------------------------|
-| 1 bulto | 40 mo + 4 mo por bulto = 44 mo |
+| 1 bulto | 40 po + 4 po por bulto = 44 po |
 | Peso ligero | Se trata como 1 bulto |
 
 La fórmula es: *precio base del material + coste por bulto × bultos*.
@@ -79,10 +79,10 @@ La fórmula es: *precio base del material + coste por bulto × bultos*.
 
 De los materiales por adelantado (50% del precio), una cantidad específica debe ser del material precioso indicado en los requisitos de elaboración del objeto.
 
-*Ejemplo:* Un martillo de guerra de hierro frío de grado bajo cuesta 44 mo. Para comenzar:
-- 22 mo en materiales totales (50%), de los cuales:
-  - 22 mp deben ser hierro frío específicamente
-  - El resto (19 mo 8 mp) puede ser materiales ordinarios
+*Ejemplo:* Un martillo de guerra de hierro frío de grado bajo cuesta 44 po. Para comenzar:
+- 22 po en materiales totales (50%), de los cuales:
+  - 22 pp deben ser hierro frío específicamente
+  - El resto (19 po 8 pp) puede ser materiales ordinarios
 
 El saldo restante al terminar no requiere hierro frío; puede pagarse con monedas normales.
 

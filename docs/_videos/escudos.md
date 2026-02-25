@@ -104,6 +104,6 @@ Los escudos pueden mejorarse con:
 | Dote | Efecto |
 |------|--------|
 | Escudo reactivo | Levantar el escudo con la reacción en lugar de gastar 1 acción |
-| Escudo reflexivo | Bloquear contra ataques con tirada de Reflex (incluidos no físicos como *fireball*) |
+| Escudo reflexivo | Bloquear contra ataques con tirada de Reflejos (incluidos no físicos como *bola de fuego*) |
 | Bloqueo rápido | Acción adicional por turno que solo puede usarse para Bloquear con Escudo (permite bloquear 2 veces por ronda) |
 | Postura del último bastión | (requiere ser Caballero del Último Bastión) Aumenta el dado del escudo 1 paso y la dureza en 2 al bloquear, siempre que se empuñe con ambas manos |
