@@ -20,6 +20,6 @@ level: 8
 
 **Prerrequisitos:** Dedicación de Tramposo de pergaminos
 
-Puedes activar la magia de un pergamino con una lectura somera mientras lo sacas del cinto. Interactúas para sacar un pergamino y luego usas Engañar objeto mágico sobre el pergamino.
+Puedes activar la magia de un pergamino con una lectura somera mientras lo sacas del cinto. Interactúas para sacar un pergamino y luego usas [Trucar objeto mágico](/dotes/habilidad/trucar-objeto-magico/) sobre el pergamino.
 
 ---

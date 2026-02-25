@@ -19,7 +19,7 @@ La magia ha sido escrita en innumerables formas durante mucho tiempo. Desde el c
 
 **Prerrequisitos:** entrenado en Arcanos, Naturaleza, Ocultismo o Religión
 
-Has estudiado los pergaminos en profundidad. Esto puede haber sido una educación completa en un entorno formal o el tipo de educación en la que de algún modo obtienes varios pergaminos y tratas de no hacer explotar nada que no pretendías. Obtienes la dote Engañar objeto mágico, y un bonificador circunstancial +2 a las pruebas de habilidad para Engañar pergaminos. Si obtienes un fallo crítico al Engañar un objeto mágico que sea un pergamino, obtienes un fallo en su lugar.
+Has estudiado los pergaminos en profundidad. Esto puede haber sido una educación completa en un entorno formal o el tipo de educación en la que de algún modo obtienes varios pergaminos y tratas de no hacer explotar nada que no pretendías. Obtienes la dote [Trucar objeto mágico](/dotes/habilidad/trucar-objeto-magico/), y un bonificador circunstancial +2 a las pruebas de habilidad para Trucar pergaminos. Si obtienes un fallo crítico al Trucar un objeto mágico que sea un pergamino, obtienes un fallo en su lugar.
 
 ### Reserva básica de pergaminos · Dote 6
 
@@ -37,7 +37,7 @@ En el 8.º nivel, añade un segundo pergamino temporal que contenga un conjuro d
 
 **Prerrequisitos:** Dedicación de Tramposo de pergaminos
 
-Puedes activar la magia de un pergamino con una lectura somera mientras lo sacas del cinto. Interactúas para sacar un pergamino y luego usas Engañar objeto mágico sobre el pergamino.
+Puedes activar la magia de un pergamino con una lectura somera mientras lo sacas del cinto. Interactúas para sacar un pergamino y luego usas [Trucar objeto mágico](/dotes/habilidad/trucar-objeto-magico/) sobre el pergamino.
 
 ### Reserva experta de pergaminos · Dote 12
 
