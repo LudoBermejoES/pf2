@@ -102,7 +102,7 @@
       <span class="separator">›</span>
       <span class="breadcrumb-section">{{ active_section }}</span>
       {% endif %}
-      {% if page.title %}
+      {% if page.title and page.title != page.chapter %}
       <span class="separator">›</span>
       <span class="current">{{ page.title }}</span>
       {% endif %}
