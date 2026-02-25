@@ -61,6 +61,9 @@ collections:
   apendices:
     output: true
     permalink: /apendices/:name/
+  videos:
+    output: true
+    permalink: /videos/:name/
 
 # Default front matter
 defaults:
@@ -140,6 +143,12 @@ defaults:
     values:
       layout: page
       chapter: "Campaña"
+  - scope:
+      path: ""
+      type: "videos"
+    values:
+      layout: page
+      chapter: "Vídeos"
 
 # Collections are automatically processed, no need to include them explicitly
 # Removed include section to avoid processing collection files twice

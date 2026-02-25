@@ -27,6 +27,7 @@ COLLECTIONS = {
     "_conjuros": "conjuros",
     "_reglas": "reglas",
     "_apendices": "apendices",
+    "_videos": "videos",
 }
 
 # Patrones para limpiar el contenido
