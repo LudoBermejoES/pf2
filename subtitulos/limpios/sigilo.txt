@@ -1,0 +1,1275 @@
+hello and welcome to basics for gamers
+hello and welcome to basics for gamers presents the basics of stealth in
+presents the basics of stealth in
+presents the basics of stealth in Pathfinder second edition
+Pathfinder second edition
+Pathfinder second edition before we get started with stealth it
+before we get started with stealth it
+before we get started with stealth it might be a good idea to do a quick
+might be a good idea to do a quick
+might be a good idea to do a quick review of the different states of
+review of the different states of
+review of the different states of detection there are four states of
+detection there are four states of
+detection there are four states of detection
+detection
+detection the first is unnoticed and it applies to
+the first is unnoticed and it applies to
+the first is unnoticed and it applies to any creature you have absolutely no idea
+any creature you have absolutely no idea
+any creature you have absolutely no idea is nearby
+is nearby
+is nearby the second is undetected a creature is
+the second is undetected a creature is
+the second is undetected a creature is undetected when you do not know where it
+undetected when you do not know where it
+undetected when you do not know where it is by definition all unnoticed creatures
+is by definition all unnoticed creatures
+is by definition all unnoticed creatures will also be undetected but if you know
+will also be undetected but if you know
+will also be undetected but if you know a creature is in the area but you just
+a creature is in the area but you just
+a creature is in the area but you just don't know its exact location then it is
+don't know its exact location then it is
+don't know its exact location then it is undetected but is not unnoticed the
+undetected but is not unnoticed the
+undetected but is not unnoticed the third state of detection is called
+third state of detection is called
+third state of detection is called hidden and it applies when you know a
+hidden and it applies when you know a
+hidden and it applies when you know a creatures exact location but you can't
+creatures exact location but you can't
+creatures exact location but you can't see it in the last state of detection is
+see it in the last state of detection is
+see it in the last state of detection is called observed and it applies to any
+called observed and it applies to any
+called observed and it applies to any creature that you can see but note that
+creature that you can see but note that
+creature that you can see but note that if you can see a target but not clearly
+if you can see a target but not clearly
+if you can see a target but not clearly maybe because you're in dim lighting or
+maybe because you're in dim lighting or
+maybe because you're in dim lighting or the target is standing in fog then that
+the target is standing in fog then that
+the target is standing in fog then that target is observed but also has the
+target is observed but also has the
+target is observed but also has the concealed condition this is material
+concealed condition this is material
+concealed condition this is material that we discussed in great length in our
+that we discussed in great length in our
+that we discussed in great length in our video about perceptions so it is highly
+video about perceptions so it is highly
+video about perceptions so it is highly recommended that you go watch that video
+recommended that you go watch that video
+recommended that you go watch that video before continuing here as we will be
+before continuing here as we will be
+before continuing here as we will be relying on information from that video
+relying on information from that video
+relying on information from that video as we proceed a link to the video on
+as we proceed a link to the video on
+as we proceed a link to the video on perception is included in this video's
+perception is included in this video's
+perception is included in this video's description
+when a character wishes to avoid being
+when a character wishes to avoid being noticed they use the stealth skill the
+noticed they use the stealth skill the
+noticed they use the stealth skill the key ability score for stealth is
+key ability score for stealth is
+key ability score for stealth is dexterity and all applications of
+dexterity and all applications of
+dexterity and all applications of stealth can be used on trained when your
+stealth can be used on trained when your
+stealth can be used on trained when your attempt to hide is contested the
+attempt to hide is contested the
+attempt to hide is contested the searching characters perception check is
+searching characters perception check is
+searching characters perception check is challenged by your stealth DC and
+challenged by your stealth DC and
+challenged by your stealth DC and stealth DC is calculated as 10 plus your
+stealth DC is calculated as 10 plus your
+stealth DC is calculated as 10 plus your stealth skill bonus this works pretty
+stealth skill bonus this works pretty
+stealth skill bonus this works pretty much the same as perception DC the key
+much the same as perception DC the key
+much the same as perception DC the key to remember when deciding if he should
+to remember when deciding if he should
+to remember when deciding if he should make a stealth role or use your stealth
+make a stealth role or use your stealth
+make a stealth role or use your stealth DC is you only roll on your turn when
+DC is you only roll on your turn when
+DC is you only roll on your turn when you use an action and when it's not your
+you use an action and when it's not your
+you use an action and when it's not your turn and you're defending against
+turn and you're defending against
+turn and you're defending against someone else's action then they compare
+someone else's action then they compare
+someone else's action then they compare their role to your stealth DC in normal
+their role to your stealth DC in normal
+their role to your stealth DC in normal circumstances there would not be a
+circumstances there would not be a
+circumstances there would not be a challenge of roles where one person
+challenge of roles where one person
+challenge of roles where one person rolls their stealth skill and another
+rolls their stealth skill and another
+rolls their stealth skill and another person rolls their perception
+person rolls their perception
+person rolls their perception there are three stealth actions included
+there are three stealth actions included
+there are three stealth actions included in the core rules the first of which is
+in the core rules the first of which is
+in the core rules the first of which is called conceal an object this can either
+called conceal an object this can either
+called conceal an object this can either be something that you are carrying with
+be something that you are carrying with
+be something that you are carrying with you like a dagger up your sleeve or it
+you like a dagger up your sleeve or it
+you like a dagger up your sleeve or it could be something you hide in the
+could be something you hide in the
+could be something you hide in the environment like a secret note planted
+environment like a secret note planted
+environment like a secret note planted underneath the roots of a stump if you
+underneath the roots of a stump if you
+underneath the roots of a stump if you are hiding a small item that you are
+are hiding a small item that you are
+are hiding a small item that you are carrying the GM rolls your stealth skill
+carrying the GM rolls your stealth skill
+carrying the GM rolls your stealth skill and secret and compares that total to
+and secret and compares that total to
+and secret and compares that total to the perception dc's of everyone you are
+the perception dc's of everyone you are
+the perception dc's of everyone you are hiding the item from if your check total
+hiding the item from if your check total
+hiding the item from if your check total is higher than their perception disease
+is higher than their perception disease
+is higher than their perception disease then they do not notice that you're
+then they do not notice that you're
+then they do not notice that you're hiding anything and no you only roll
+hiding anything and no you only roll
+hiding anything and no you only roll this check one time not once for each
+this check one time not once for each
+this check one time not once for each creature you are hiding the object from
+creature you are hiding the object from
+creature you are hiding the object from if a creature is actively searching you
+if a creature is actively searching you
+if a creature is actively searching you for example there an alert garden
+for example there an alert garden
+for example there an alert garden they're keeping a watchful eye out then
+they're keeping a watchful eye out then
+they're keeping a watchful eye out then they roll a perception check against
+they roll a perception check against
+they roll a perception check against your stealth DC instead of relying on
+your stealth DC instead of relying on
+your stealth DC instead of relying on their perception DC for example you walk
+their perception DC for example you walk
+their perception DC for example you walk up to the door of a ballroom with two
+up to the door of a ballroom with two
+up to the door of a ballroom with two guards standing outside they're checking
+guards standing outside they're checking
+guards standing outside they're checking guests before they enter for weapons and
+guests before they enter for weapons and
+guests before they enter for weapons and you have a dagger hidden on you on your
+you have a dagger hidden on you on your
+you have a dagger hidden on you on your turn when you approach the guards your
+turn when you approach the guards your
+turn when you approach the guards your stealth check would be a road which
+stealth check would be a road which
+stealth check would be a road which would then be contested by their
+would then be contested by their
+would then be contested by their perception DC's then on the guards turns
+perception DC's then on the guards turns
+perception DC's then on the guards turns one of them takes the seek action to
+one of them takes the seek action to
+one of them takes the seek action to actively look you over before letting
+actively look you over before letting
+actively look you over before letting you pass this guard would then roll
+you pass this guard would then roll
+you pass this guard would then roll their perception and that total would be
+their perception and that total would be
+their perception and that total would be challenged by your stealth DC note that
+challenged by your stealth DC note that
+challenged by your stealth DC note that whatever you rode on your turn when you
+whatever you rode on your turn when you
+whatever you rode on your turn when you took conceal an object is now irrelevant
+took conceal an object is now irrelevant
+took conceal an object is now irrelevant when it's the guards turn and they are
+when it's the guards turn and they are
+when it's the guards turn and they are using seek to search you then it is
+using seek to search you then it is
+using seek to search you then it is their perception challenged by your
+their perception challenged by your
+their perception challenged by your static stealth DC this works much the
+static stealth DC this works much the
+static stealth DC this works much the same way when hiding an object in the
+same way when hiding an object in the
+same way when hiding an object in the environment instead of carrying it with
+environment instead of carrying it with
+environment instead of carrying it with you except in this case you would not
+you except in this case you would not
+you except in this case you would not roll any stealth check instead he's been
+roll any stealth check instead he's been
+roll any stealth check instead he's been one action to hide the object and if
+one action to hide the object and if
+one action to hide the object and if anyone performs a seek action in that
+anyone performs a seek action in that
+anyone performs a seek action in that area then their perception check will be
+area then their perception check will be
+area then their perception check will be challenged by your stealth
+challenged by your stealth
+challenged by your stealth and note that conceal an object is for
+and note that conceal an object is for
+and note that conceal an object is for hiding something that you already
+hiding something that you already
+hiding something that you already possess if you want to pick something up
+possess if you want to pick something up
+possess if you want to pick something up without anyone noticing that you're
+without anyone noticing that you're
+without anyone noticing that you're picking it up you would use the palm and
+picking it up you would use the palm and
+picking it up you would use the palm and object application of thievery instead
+object application of thievery instead
+object application of thievery instead of using the stealth skill
+of using the stealth skill
+of using the stealth skill the second stealth action is called hide
+the second stealth action is called hide
+the second stealth action is called hide hide is used when you wish to lower your
+hide is used when you wish to lower your
+hide is used when you wish to lower your state of detection from observed to
+state of detection from observed to
+state of detection from observed to hidden when you take the hide action you
+hidden when you take the hide action you
+hidden when you take the hide action you roll a stealth check and compare the
+roll a stealth check and compare the
+roll a stealth check and compare the total to the perception disease of
+total to the perception disease of
+total to the perception disease of anyone who is observing you as long as
+anyone who is observing you as long as
+anyone who is observing you as long as you are either concealed from them or
+you are either concealed from them or
+you are either concealed from them or have a source of cover between you and
+have a source of cover between you and
+have a source of cover between you and them if you are not concealed or do not
+them if you are not concealed or do not
+them if you are not concealed or do not have a source of cover then you have
+have a source of cover then you have
+have a source of cover then you have nowhere to hide and the attempt
+nowhere to hide and the attempt
+nowhere to hide and the attempt automatically fails if you do have cover
+automatically fails if you do have cover
+automatically fails if you do have cover then you add the covers bonus to your
+then you add the covers bonus to your
+then you add the covers bonus to your stealth check but only for those
+stealth check but only for those
+stealth check but only for those creatures who are observing you from the
+creatures who are observing you from the
+creatures who are observing you from the other side of that cover this is
+other side of that cover this is
+other side of that cover this is basically common sense if the cover is
+basically common sense if the cover is
+basically common sense if the cover is not between you and them then it doesn't
+not between you and them then it doesn't
+not between you and them then it doesn't give you any benefit and likewise if you
+give you any benefit and likewise if you
+give you any benefit and likewise if you lose your cover or concealment you
+lose your cover or concealment you
+lose your cover or concealment you instantly become observed again you also
+instantly become observed again you also
+instantly become observed again you also immediately become observed if you use
+immediately become observed if you use
+immediately become observed if you use any actions other than sneak step or
+any actions other than sneak step or
+any actions other than sneak step or hide now there are two exceptions to
+hide now there are two exceptions to
+hide now there are two exceptions to this and the first is the strike action
+this and the first is the strike action
+this and the first is the strike action if you strike a target while hidden you
+if you strike a target while hidden you
+if you strike a target while hidden you resolve the attack first and don't
+resolve the attack first and don't
+resolve the attack first and don't become observed until after the attack
+become observed until after the attack
+become observed until after the attack this means the target is flat-footed for
+this means the target is flat-footed for
+this means the target is flat-footed for the attack and therefore the attacker
+the attack and therefore the attacker
+the attack and therefore the attacker can use abilities like sneak attack with
+can use abilities like sneak attack with
+can use abilities like sneak attack with their strike but once the attack is
+their strike but once the attack is
+their strike but once the attack is resolved the hiding character instantly
+resolved the hiding character instantly
+resolved the hiding character instantly becomes observed
+becomes observed
+becomes observed and the second of the two exceptions to
+and the second of the two exceptions to
+and the second of the two exceptions to the rule that states any action other
+the rule that states any action other
+the rule that states any action other than hide sneaker step instantly makes
+than hide sneaker step instantly makes
+than hide sneaker step instantly makes you observed is the provision in the
+you observed is the provision in the
+you observed is the provision in the rules that states unless the GM
+rules that states unless the GM
+rules that states unless the GM determines otherwise the GM might allow
+determines otherwise the GM might allow
+determines otherwise the GM might allow you to perform an unobtrusive action
+you to perform an unobtrusive action
+you to perform an unobtrusive action without being noticed possibly requiring
+without being noticed possibly requiring
+without being noticed possibly requiring another stealth check the key word here
+another stealth check the key word here
+another stealth check the key word here is unobtrusive for example the seek
+is unobtrusive for example the seek
+is unobtrusive for example the seek action if the hidden character wishes to
+action if the hidden character wishes to
+action if the hidden character wishes to perform the seek action I think in
+perform the seek action I think in
+perform the seek action I think in virtually all cases the GM would agree
+virtually all cases the GM would agree
+virtually all cases the GM would agree that seeking meets the definition of
+that seeking meets the definition of
+that seeking meets the definition of unobtrusive and not make you instantly
+unobtrusive and not make you instantly
+unobtrusive and not make you instantly become detected when you performed
+become detected when you performed
+become detected when you performed action but it is up to every GM to
+action but it is up to every GM to
+action but it is up to every GM to decide on if an action is considered
+decide on if an action is considered
+decide on if an action is considered unobtrusive or not also note that you
+unobtrusive or not also note that you
+unobtrusive or not also note that you may not move out of your current space
+may not move out of your current space
+may not move out of your current space as part of a hide action hide is just
+as part of a hide action hide is just
+as part of a hide action hide is just for staying in place and changing your
+for staying in place and changing your
+for staying in place and changing your state of detection from observed to
+state of detection from observed to hidden
+hidden
+hidden disappearing behind cover or any blanket
+disappearing behind cover or any blanket
+disappearing behind cover or any blanket of darkness is one way to lower your
+of darkness is one way to lower your
+of darkness is one way to lower your state of detection from observe to
+state of detection from observe to
+state of detection from observe to hidden but another option is to trick
+hidden but another option is to trick
+hidden but another option is to trick those people observing you into looking
+those people observing you into looking
+those people observing you into looking the other way you can accomplish this
+the other way you can accomplish this
+the other way you can accomplish this with the create under version use of the
+with the create under version use of the
+with the create under version use of the deception skill when using create a
+deception skill when using create a
+deception skill when using create a diversion
+diversion
+diversion you do something to trick any onlookers
+you do something to trick any onlookers
+you do something to trick any onlookers into momentarily turning their backs on
+into momentarily turning their backs on
+into momentarily turning their backs on you and hope by the time they turn back
+you and hope by the time they turn back
+you and hope by the time they turn back around you'll have disappeared this
+around you'll have disappeared this
+around you'll have disappeared this requires a deception check contested by
+requires a deception check contested by
+requires a deception check contested by the perception disease of everyone
+the perception disease of everyone
+the perception disease of everyone observing you your detection state
+observing you your detection state
+observing you your detection state lowers from observed to hidden for
+lowers from observed to hidden for
+lowers from observed to hidden for anyone whose perception DC is equal to
+anyone whose perception DC is equal to
+anyone whose perception DC is equal to or lower than the total of your
+or lower than the total of your
+or lower than the total of your deception check this hidden condition
+deception check this hidden condition
+deception check this hidden condition lasts until the end of your current turn
+lasts until the end of your current turn
+lasts until the end of your current turn or if you perform an action which would
+or if you perform an action which would
+or if you perform an action which would reveal you same as we discussed with the
+reveal you same as we discussed with the
+reveal you same as we discussed with the hide action any creature observing you
+hide action any creature observing you
+hide action any creature observing you whose perception DC is higher than the
+whose perception DC is higher than the
+whose perception DC is higher than the total of your deception check not only
+total of your deception check not only
+total of your deception check not only continues to observe you but is also
+continues to observe you but is also
+continues to observe you but is also fully aware that you tried to trick them
+fully aware that you tried to trick them
+fully aware that you tried to trick them regardless of success or failure once
+regardless of success or failure once
+regardless of success or failure once you use create a diversion on a creature
+you use create a diversion on a creature
+you use create a diversion on a creature they receive a +4 circumstance bonus to
+they receive a +4 circumstance bonus to
+they receive a +4 circumstance bonus to their perception disease against any
+their perception disease against any
+their perception disease against any future attempts by you to create another
+future attempts by you to create another
+future attempts by you to create another diversion for one minute
+diversion for one minute
+diversion for one minute but once your detection state is hidden
+but once your detection state is hidden
+but once your detection state is hidden either by causing a destruction
+either by causing a destruction
+either by causing a destruction performing the hide action or by other
+performing the hide action or by other
+performing the hide action or by other means you can then you sneak to lower
+means you can then you sneak to lower
+means you can then you sneak to lower your detection state to undetected and
+your detection state to undetected and
+your detection state to undetected and move away from your location in order to
+move away from your location in order to
+move away from your location in order to take the sneak action you must first be
+take the sneak action you must first be
+take the sneak action you must first be hidden or undetected in other words if
+hidden or undetected in other words if
+hidden or undetected in other words if any of the people you are trying to
+any of the people you are trying to
+any of the people you are trying to sneak past can see you then you can't
+sneak past can see you then you can't
+sneak past can see you then you can't use the sneak action you would need to
+use the sneak action you would need to
+use the sneak action you would need to spin an action first to hide thus
+spin an action first to hide thus
+spin an action first to hide thus lowering your detection state from
+lowering your detection state from
+lowering your detection state from observed to hidden and then another
+observed to hidden and then another
+observed to hidden and then another action to sneak away want you to clear
+action to sneak away want you to clear
+action to sneak away want you to clear that you are sneaking you may move up to
+that you are sneaking you may move up to
+that you are sneaking you may move up to half your speed at the end of your
+half your speed at the end of your
+half your speed at the end of your movement the GM rolls your stealth check
+movement the GM rolls your stealth check
+movement the GM rolls your stealth check for you in secret and compares the
+for you in secret and compares the
+for you in secret and compares the result to the perception dc's of
+result to the perception dc's of
+result to the perception dc's of everyone who you are undetected or
+everyone who you are undetected or
+everyone who you are undetected or hidden from at the start of the sneak
+hidden from at the start of the sneak
+hidden from at the start of the sneak action if you have cover or greater
+action if you have cover or greater
+action if you have cover or greater cover throughout the entire movement the
+cover throughout the entire movement the
+cover throughout the entire movement the GM adds your cover bonus to the stealth
+GM adds your cover bonus to the stealth
+GM adds your cover bonus to the stealth check that they roll in secret at the
+check that they roll in secret at the
+check that they roll in secret at the end of your movement you instantly
+end of your movement you instantly
+end of your movement you instantly become observed by any creature who you
+become observed by any creature who you
+become observed by any creature who you do not have cover from or the concealed
+do not have cover from or the concealed
+do not have cover from or the concealed condition against everyone else has
+condition against everyone else has
+condition against everyone else has their perception dc's compared to your
+their perception dc's compared to your
+their perception dc's compared to your stealth check total and you gain the
+stealth check total and you gain the
+stealth check total and you gain the undetected state with anyone you wrote a
+undetected state with anyone you wrote a
+undetected state with anyone you wrote a success against or you keep the
+success against or you keep the
+success against or you keep the undetected state if you are already
+undetected state if you are already
+undetected state if you are already undetected before taking the sneak
+undetected before taking the sneak
+undetected before taking the sneak action in just a point here as a
+action in just a point here as a
+action in just a point here as a technicality when you take the sneak
+technicality when you take the sneak
+technicality when you take the sneak action if you are hidden you instantly
+action if you are hidden you instantly
+action if you are hidden you instantly become undetected at the start of the
+become undetected at the start of the
+become undetected at the start of the sneak action and you maintain the
+sneak action and you maintain the
+sneak action and you maintain the undetected state throughout your
+undetected state throughout your
+undetected state throughout your movement to the ending square where you
+movement to the ending square where you
+movement to the ending square where you stop your sneak if your check fails
+stop your sneak if your check fails
+stop your sneak if your check fails against a creature that you do have
+against a creature that you do have
+against a creature that you do have cover or concealment against in that
+cover or concealment against in that
+cover or concealment against in that last Square then you become hidden to
+last Square then you become hidden to
+last Square then you become hidden to them they can't see you but you must
+them they can't see you but you must
+them they can't see you but you must have made a sound they gave away your
+have made a sound they gave away your
+have made a sound they gave away your location if you critically fail then the
+location if you critically fail then the
+location if you critically fail then the creature is able to observe you as long
+creature is able to observe you as long
+creature is able to observe you as long as they have a line of sight to that
+as they have a line of sight to that
+as they have a line of sight to that space and just like with the actions
+space and just like with the actions
+space and just like with the actions we've already discussed once you are
+we've already discussed once you are
+we've already discussed once you are undetected following a sneak action you
+undetected following a sneak action you
+undetected following a sneak action you become observed as soon as you take any
+become observed as soon as you take any
+become observed as soon as you take any action other than hide step or another
+action other than hide step or another
+action other than hide step or another sneak unless the GM rules that the
+sneak unless the GM rules that the
+sneak unless the GM rules that the action is unobtrusive and if you strike
+action is unobtrusive and if you strike
+action is unobtrusive and if you strike then your target is flat-footed for that
+then your target is flat-footed for that
+then your target is flat-footed for that attack and you become observed as soon
+attack and you become observed as soon
+attack and you become observed as soon as that attack is resolved with any
+as that attack is resolved with any
+as that attack is resolved with any other actions you become observed before
+other actions you become observed before
+other actions you become observed before the action is resolved
+the action is resolved
+the action is resolved let's look at a few examples will be
+let's look at a few examples will be
+let's look at a few examples will be using Mauricio for these she's a fifth
+using Mauricio for these she's a fifth
+using Mauricio for these she's a fifth level rogue she has a speed score of 35
+level rogue she has a speed score of 35
+level rogue she has a speed score of 35 feet a plus 11 bonus to perception and
+feet a plus 11 bonus to perception and
+feet a plus 11 bonus to perception and plus 13 to stealth this also makes her
+plus 13 to stealth this also makes her
+plus 13 to stealth this also makes her perception DC 21 and her stealth DC is
+perception DC 21 and her stealth DC is
+perception DC 21 and her stealth DC is 23 in this scenario
+23 in this scenario
+23 in this scenario Mauricio is sneaking through a wizards
+Mauricio is sneaking through a wizards
+Mauricio is sneaking through a wizards Academy to steal a rare tome she
+Academy to steal a rare tome she
+Academy to steal a rare tome she believes it to be in the collection of
+believes it to be in the collection of
+believes it to be in the collection of one of the teachers and has arrived at
+one of the teachers and has arrived at
+one of the teachers and has arrived at the corridor outside a dormitory with
+the corridor outside a dormitory with
+the corridor outside a dormitory with cloth partitions separating the students
+cloth partitions separating the students
+cloth partitions separating the students beds and the teacher's office to the
+beds and the teacher's office to the
+beds and the teacher's office to the west she sneaks to the window and stops
+west she sneaks to the window and stops
+west she sneaks to the window and stops she spots a student sitting on his bed
+she spots a student sitting on his bed
+she spots a student sitting on his bed reading since he is not making any
+reading since he is not making any
+reading since he is not making any attempt to be undetected she instantly
+attempt to be undetected she instantly
+attempt to be undetected she instantly observes him since she ended her sneak
+observes him since she ended her sneak
+observes him since she ended her sneak in this space the GM rolls her stealth
+in this space the GM rolls her stealth
+in this space the GM rolls her stealth check in secret and contests the total
+check in secret and contests the total
+check in secret and contests the total with the perception DC's of anyone with
+with the perception DC's of anyone with
+with the perception DC's of anyone with line-of-sight to her the GM also as a
+line-of-sight to her the GM also as a
+line-of-sight to her the GM also as a bonus to her check for the cover that
+bonus to her check for the cover that
+bonus to her check for the cover that she's behind her total is well over
+she's behind her total is well over
+she's behind her total is well over there reading students perception DC so
+there reading students perception DC so
+there reading students perception DC so the GM tells her that she doesn't
+the GM tells her that she doesn't
+the GM tells her that she doesn't believe that she's been spotted her
+believe that she's been spotted her
+believe that she's been spotted her detection state is unnoticed and
+detection state is unnoticed and
+detection state is unnoticed and undetected with her first action on the
+undetected with her first action on the
+undetected with her first action on the next round
+next round
+next round she takes another sneak action and moves
+she takes another sneak action and moves
+she takes another sneak action and moves to the door as with before she would
+to the door as with before she would
+to the door as with before she would need the GM to roll a stealth check in
+need the GM to roll a stealth check in
+need the GM to roll a stealth check in secret but it's fairly trivial here
+secret but it's fairly trivial here
+secret but it's fairly trivial here given that no one is able to observe her
+given that no one is able to observe her
+given that no one is able to observe her from the other side of the doors being
+from the other side of the doors being
+from the other side of the doors being extra cautious she presses her ear to
+extra cautious she presses her ear to
+extra cautious she presses her ear to the door and listens this is a seek
+the door and listens this is a seek
+the door and listens this is a seek action if there are creatures on the
+action if there are creatures on the
+action if there are creatures on the other side of this door who are trying
+other side of this door who are trying
+other side of this door who are trying to avoid attention her perception check
+to avoid attention her perception check
+to avoid attention her perception check would be contested by their stealth and
+would be contested by their stealth and
+would be contested by their stealth and DC's if there are creatures on the other
+DC's if there are creatures on the other
+DC's if there are creatures on the other side of the door who are not trying to
+side of the door who are not trying to
+side of the door who are not trying to avoid attention then her perception
+avoid attention then her perception
+avoid attention then her perception check is contested by a lure DC as
+check is contested by a lure DC as
+check is contested by a lure DC as deemed appropriate by the GM Mauricio
+deemed appropriate by the GM Mauricio
+deemed appropriate by the GM Mauricio tells the GM that her perception bonuses
+tells the GM that her perception bonuses
+tells the GM that her perception bonuses plus 11 and the GM rolls this check in
+plus 11 and the GM rolls this check in
+plus 11 and the GM rolls this check in secret they then tell Marissa's player
+secret they then tell Marissa's player
+secret they then tell Marissa's player that she can hear voices on the other
+that she can hear voices on the other
+that she can hear voices on the other side
+side
+side the door but can't quite make out what
+the door but can't quite make out what
+the door but can't quite make out what they're saying or their exact location
+they're saying or their exact location
+they're saying or their exact location in the room with her third action she
+in the room with her third action she
+in the room with her third action she declares that she wants to open the door
+declares that she wants to open the door
+declares that she wants to open the door quietly in peer in this is an interact
+quietly in peer in this is an interact
+quietly in peer in this is an interact action and would be up to the GM to
+action and would be up to the GM to
+action and would be up to the GM to determine if it is considered to be
+determine if it is considered to be
+determine if it is considered to be unobtrusive or if it would instantly
+unobtrusive or if it would instantly
+unobtrusive or if it would instantly reveal her presence to the room where I
+reveal her presence to the room where I
+reveal her presence to the room where I the GM here I would ask mariscos player
+the GM here I would ask mariscos player
+the GM here I would ask mariscos player to role a stealth check as part of the
+to role a stealth check as part of the
+to role a stealth check as part of the interact action that I would then
+interact action that I would then
+interact action that I would then compare to the perception disease of
+compare to the perception disease of
+compare to the perception disease of creatures in the room I would also grant
+creatures in the room I would also grant
+creatures in the room I would also grant her a small bonus to that check if she
+her a small bonus to that check if she
+her a small bonus to that check if she took additional measures to be quiet
+took additional measures to be quiet
+took additional measures to be quiet like applying oil to the doors handle
+like applying oil to the doors handle
+like applying oil to the doors handle and hinges she rose one day 20 + 13 and
+and hinges she rose one day 20 + 13 and
+and hinges she rose one day 20 + 13 and the GM tells her two things first once
+the GM tells her two things first once
+the GM tells her two things first once the door opens she can hear two voices
+the door opens she can hear two voices
+the door opens she can hear two voices talking on the other side of a cloth
+talking on the other side of a cloth
+talking on the other side of a cloth partition says the two students were not
+partition says the two students were not
+partition says the two students were not trying to stay hidden she automatically
+trying to stay hidden she automatically
+trying to stay hidden she automatically detects them since she is perceiving the
+detects them since she is perceiving the
+detects them since she is perceiving the to chatting students with hearing which
+to chatting students with hearing which
+to chatting students with hearing which is an imprecise since they have the
+is an imprecise since they have the
+is an imprecise since they have the hidden detection state but the GM
+hidden detection state but the GM
+hidden detection state but the GM determines there is narrow line-of-sight
+determines there is narrow line-of-sight
+determines there is narrow line-of-sight to their reading student so she is
+to their reading student so she is
+to their reading student so she is observing him she however is both
+observing him she however is both
+observing him she however is both unnoticed and undetected - all three of
+unnoticed and undetected - all three of
+unnoticed and undetected - all three of them had she failed her stealth check
+them had she failed her stealth check
+them had she failed her stealth check opening the door she would likely rule
+opening the door she would likely rule
+opening the door she would likely rule that she becomes hidden to the chatting
+that she becomes hidden to the chatting
+that she becomes hidden to the chatting students but might be observed by the
+students but might be observed by the
+students but might be observed by the reading student with the first action of
+reading student with the first action of
+reading student with the first action of the next round
+the next round
+the next round Mauricio takes the sneak action the
+Mauricio takes the sneak action the
+Mauricio takes the sneak action the first requirement for sneaking is you
+first requirement for sneaking is you
+first requirement for sneaking is you must be either hidden or undetected
+must be either hidden or undetected
+must be either hidden or undetected before you can attempt it she is both
+before you can attempt it she is both
+before you can attempt it she is both unnoticed and undetected so she meets
+unnoticed and undetected so she meets
+unnoticed and undetected so she meets that requirement the second requirement
+that requirement the second requirement
+that requirement the second requirement is she must have cover or concealment
+is she must have cover or concealment
+is she must have cover or concealment against all targets he's sneaking past
+against all targets he's sneaking past
+against all targets he's sneaking past at the start of her sneak if we draw
+at the start of her sneak if we draw
+at the start of her sneak if we draw target lines from the center of her
+target lines from the center of her
+target lines from the center of her square to the center of each student
+square to the center of each student
+square to the center of each student square we see each of them passed
+square we see each of them passed
+square we see each of them passed through a solid object which means she
+through a solid object which means she
+through a solid object which means she has cover with the sneak action she can
+has cover with the sneak action she can
+has cover with the sneak action she can move up to half her speed in Russo's
+move up to half her speed in Russo's
+move up to half her speed in Russo's case a speed of 35 feet me
+case a speed of 35 feet me
+case a speed of 35 feet me she can move three squares while
+she can move three squares while
+she can move three squares while sneaking she quietly steps into the room
+sneaking she quietly steps into the room
+sneaking she quietly steps into the room and ends her movement here the last
+and ends her movement here the last
+and ends her movement here the last requirement for sneak is that you must
+requirement for sneak is that you must
+requirement for sneak is that you must end your movement in a space that has
+end your movement in a space that has
+end your movement in a space that has cover or concealment you only need to
+cover or concealment you only need to
+cover or concealment you only need to have cover or concealment in the space
+have cover or concealment in the space
+have cover or concealment in the space where you start the sneak and the space
+where you start the sneak and the space
+where you start the sneak and the space where you end it by raw you do not need
+where you end it by raw you do not need
+where you end it by raw you do not need to maintain cover or concealment
+to maintain cover or concealment
+to maintain cover or concealment throughout the entire movement however
+throughout the entire movement however
+throughout the entire movement however if you do have cover for the entire
+if you do have cover for the entire
+if you do have cover for the entire movement you get to add is cover bonus
+movement you get to add is cover bonus
+movement you get to add is cover bonus to your stealth check for example when
+to your stealth check for example when
+to your stealth check for example when Marissa enters this square the GM could
+Marissa enters this square the GM could
+Marissa enters this square the GM could rule that she no longer has cover or
+rule that she no longer has cover or
+rule that she no longer has cover or concealment
+concealment
+concealment from the student who is reading however
+from the student who is reading however
+from the student who is reading however the rule is you only need cover or
+the rule is you only need cover or
+the rule is you only need cover or concealment when you start and when you
+concealment when you start and when you
+concealment when you start and when you end your movement so she can pass
+end your movement so she can pass
+end your movement so she can pass through this square without issue in the
+through this square without issue in the
+through this square without issue in the narrative she waits until the student
+narrative she waits until the student
+narrative she waits until the student reaches for a new book or erupts his
+reaches for a new book or erupts his
+reaches for a new book or erupts his eyes or yawns or does something else
+eyes or yawns or does something else
+eyes or yawns or does something else that would distract him for just an
+that would distract him for just an
+that would distract him for just an instant and allow her to pass through
+instant and allow her to pass through
+instant and allow her to pass through that Square at the end of her movement
+that Square at the end of her movement
+that Square at the end of her movement the GM rose her stealth check in secret
+the GM rose her stealth check in secret
+the GM rose her stealth check in secret and reports that no one seems to be
+and reports that no one seems to be
+and reports that no one seems to be aware of her presence she is still
+aware of her presence she is still
+aware of her presence she is still unnoticed and undetected by all three
+unnoticed and undetected by all three
+unnoticed and undetected by all three students the reading student is observed
+students the reading student is observed
+students the reading student is observed by her and the chatting students are
+by her and the chatting students are
+by her and the chatting students are hidden to her since she knows their
+hidden to her since she knows their
+hidden to her since she knows their locations but can't see them a creature
+locations but can't see them a creature
+locations but can't see them a creature that is undetected instantly becomes
+that is undetected instantly becomes
+that is undetected instantly becomes observed if they take any action other
+observed if they take any action other
+observed if they take any action other than hide sneak or step unless the GM
+than hide sneak or step unless the GM
+than hide sneak or step unless the GM rules the action is unobtrusive if
+rules the action is unobtrusive if
+rules the action is unobtrusive if Marissa will wish to attack either of
+Marissa will wish to attack either of
+Marissa will wish to attack either of the students adjacent to her she could
+the students adjacent to her she could
+the students adjacent to her she could spin an action to do so the student she
+spin an action to do so the student she
+spin an action to do so the student she attacks would be flat-footed since she
+attacks would be flat-footed since she
+attacks would be flat-footed since she is undetected by them and she would have
+is undetected by them and she would have
+is undetected by them and she would have to pass a DC 11 flat check since the
+to pass a DC 11 flat check since the
+to pass a DC 11 flat check since the target is hidden to her at the end of
+target is hidden to her at the end of
+target is hidden to her at the end of the attack she then becomes observed she
+the attack she then becomes observed she
+the attack she then becomes observed she decides instead to take a step action
+decides instead to take a step action
+decides instead to take a step action and move closer to the door
+and move closer to the door
+and move closer to the door with her third action Mauricio attempts
+with her third action Mauricio attempts
+with her third action Mauricio attempts to quietly open the door just wide
+to quietly open the door just wide
+to quietly open the door just wide enough for her to peer in this is an
+enough for her to peer in this is an
+enough for her to peer in this is an interact action and the GM determines it
+interact action and the GM determines it
+interact action and the GM determines it is unobtrusive especially since none of
+is unobtrusive especially since none of
+is unobtrusive especially since none of the three students have line of sight to
+the three students have line of sight to
+the three students have line of sight to the door her stealth check is compared
+the door her stealth check is compared
+the door her stealth check is compared to the perception dc's of everyone in
+to the perception dc's of everyone in
+to the perception dc's of everyone in the area and the GM tells her that no
+the area and the GM tells her that no
+the area and the GM tells her that no one seems to have noticed she's now able
+one seems to have noticed she's now able
+one seems to have noticed she's now able to look into the next room she doesn't
+to look into the next room she doesn't
+to look into the next room she doesn't need to take a siik action to notice the
+need to take a siik action to notice the
+need to take a siik action to notice the teacher standing over a table brewing a
+teacher standing over a table brewing a
+teacher standing over a table brewing a potion her stealth check when opening
+potion her stealth check when opening
+potion her stealth check when opening the door was higher than his perception
+the door was higher than his perception
+the door was higher than his perception DC so he is unaware that she's there he
+DC so he is unaware that she's there he
+DC so he is unaware that she's there he is observed by her and she is unnoticed
+is observed by her and she is unnoticed
+is observed by her and she is unnoticed and unaware to him that's the end of her
+and unaware to him that's the end of her
+and unaware to him that's the end of her turn but while she's waiting for her
+turn but while she's waiting for her
+turn but while she's waiting for her Knicks turn to come around a guard walks
+Knicks turn to come around a guard walks
+Knicks turn to come around a guard walks the length of the hall he's patrolling
+the length of the hall he's patrolling
+the length of the hall he's patrolling and using the seek action as he walks so
+and using the seek action as he walks so
+and using the seek action as he walks so when he passes this window the GM would
+when he passes this window the GM would
+when he passes this window the GM would roll his perception check this total is
+roll his perception check this total is
+roll his perception check this total is contested by marechals stealth DC of
+contested by marechals stealth DC of
+contested by marechals stealth DC of 23+2 for the cover that she receives
+23+2 for the cover that she receives
+23+2 for the cover that she receives from the crate that is between them if
+from the crate that is between them if
+from the crate that is between them if the total of the guards perception check
+the total of the guards perception check
+the total of the guards perception check is 25 or higher he notices her for the
+is 25 or higher he notices her for the
+is 25 or higher he notices her for the sake of brevity we'll say that his check
+sake of brevity we'll say that his check
+sake of brevity we'll say that his check failed and he walks away now for
+failed and he walks away now for
+failed and he walks away now for discussion let's say instead of a guard
+discussion let's say instead of a guard
+discussion let's say instead of a guard walking past who's actively using the
+walking past who's actively using the
+walking past who's actively using the seek action instead a couple of students
+seek action instead a couple of students
+seek action instead a couple of students pass in the hallway as long as they are
+pass in the hallway as long as they are
+pass in the hallway as long as they are not actually using the seek action they
+not actually using the seek action they
+not actually using the seek action they have no chance of detecting mauricio at
+have no chance of detecting mauricio at
+have no chance of detecting mauricio at all you would not roll their perception
+all you would not roll their perception
+all you would not roll their perception checks if they are not using the seek
+checks if they are not using the seek
+checks if they are not using the seek action nor would you compare their
+action nor would you compare their
+action nor would you compare their perception disease to any of these
+perception disease to any of these
+perception disease to any of these stealth rolls that Mauricio has already
+stealth rolls that Mauricio has already
+stealth rolls that Mauricio has already made but it's also worth mentioning that
+made but it's also worth mentioning that
+made but it's also worth mentioning that Mauricio would be instantly spotted by
+Mauricio would be instantly spotted by
+Mauricio would be instantly spotted by the students if she ever lost the cover
+the students if she ever lost the cover
+the students if she ever lost the cover between her and them if a student ever
+between her and them if a student ever
+between her and them if a student ever walked into the dorm with her in Clear
+walked into the dorm with her in Clear
+walked into the dorm with her in Clear View she would instantly become observed
+things have been going pretty smooth
+things have been going pretty smooth former CEO so far but for the sake of
+former CEO so far but for the sake of
+former CEO so far but for the sake of discussion lists say she was spotted on
+discussion lists say she was spotted on
+discussion lists say she was spotted on her way out of the Academy she's being
+her way out of the Academy she's being
+her way out of the Academy she's being chased by a guard in hopes to lose him
+chased by a guard in hopes to lose him
+chased by a guard in hopes to lose him in the stacks of the Academy library at
+in the stacks of the Academy library at
+in the stacks of the Academy library at the start they are both being observed
+the start they are both being observed
+the start they are both being observed by each other
+by each other
+by each other Marissa does have cover here so her
+Marissa does have cover here so her
+Marissa does have cover here so her player may be tempted to say that
+player may be tempted to say that
+player may be tempted to say that they're just going to take the sneak
+they're just going to take the sneak
+they're just going to take the sneak action and move away but unfortunately
+action and move away but unfortunately
+action and move away but unfortunately one of the requirements to sneak is you
+one of the requirements to sneak is you
+one of the requirements to sneak is you must be hidden or undetected at the
+must be hidden or undetected at the
+must be hidden or undetected at the start of that action and she is observed
+start of that action and she is observed
+start of that action and she is observed so in this case Marissa would need to
+so in this case Marissa would need to
+so in this case Marissa would need to spend her first action to hide she would
+spend her first action to hide she would
+spend her first action to hide she would rule her stealth skill plus cover bonus
+rule her stealth skill plus cover bonus
+rule her stealth skill plus cover bonus and the GM would compare that total
+and the GM would compare that total
+and the GM would compare that total against the guards perception DC will
+against the guards perception DC will
+against the guards perception DC will say he has a perception bonus of +6 so
+say he has a perception bonus of +6 so
+say he has a perception bonus of +6 so her total needs to be a 16 or higher for
+her total needs to be a 16 or higher for
+her total needs to be a 16 or higher for her to hide that's a pretty easy check
+her to hide that's a pretty easy check
+her to hide that's a pretty easy check with a plus 13 bonus and cover will say
+with a plus 13 bonus and cover will say
+with a plus 13 bonus and cover will say she's exceeded which then lowers her
+she's exceeded which then lowers her
+she's exceeded which then lowers her state of detection from observed to
+state of detection from observed to hidden the guard can no longer sear but
+hidden the guard can no longer sear but
+hidden the guard can no longer sear but no she's in that square hiding behind
+no she's in that square hiding behind
+no she's in that square hiding behind the shelf of books now with her second
+the shelf of books now with her second
+the shelf of books now with her second action she can sneak and move away at
+action she can sneak and move away at
+action she can sneak and move away at the end of her move she still has cover
+the end of her move she still has cover
+the end of her move she still has cover so the GM Rosie stealth check once more
+so the GM Rosie stealth check once more
+so the GM Rosie stealth check once more against the guards perception DC will
+against the guards perception DC will say she's succeeded again and with her
+say she's succeeded again and with her
+say she's succeeded again and with her third action takes another sneak action
+third action takes another sneak action
+third action takes another sneak action to move here
+to move here
+to move here she still has cover and another stealth
+she still has cover and another stealth
+she still has cover and another stealth check is rolled as before the guard has
+check is rolled as before the guard has
+check is rolled as before the guard has a speed score of 20 feet in his armor so
+a speed score of 20 feet in his armor so
+a speed score of 20 feet in his armor so with his first action he strikes two
+with his first action he strikes two
+with his first action he strikes two here he has no line of sight to mauricio
+here he has no line of sight to mauricio
+here he has no line of sight to mauricio so she is still undetected to him he
+so she is still undetected to him he
+so she is still undetected to him he takes another stride action and moves
+takes another stride action and moves
+takes another stride action and moves here determined to find the thief he
+here determined to find the thief he
+here determined to find the thief he spins his third action to seek and rolls
+spins his third action to seek and rolls
+spins his third action to seek and rolls a perception check against Marissa's
+a perception check against Marissa's
+a perception check against Marissa's stealth DC of 23 Plus cover bonus note
+stealth DC of 23 Plus cover bonus note
+stealth DC of 23 Plus cover bonus note again that this role is against her
+again that this role is against her
+again that this role is against her static stealth DC and not the total of
+static stealth DC and not the total of
+static stealth DC and not the total of her last stealth check if he succeeds on
+her last stealth check if he succeeds on
+her last stealth check if he succeeds on this chick mariscos detection state
+this chick mariscos detection state
+this chick mariscos detection state moves one step and she becomes hidden ho
+moves one step and she becomes hidden ho
+moves one step and she becomes hidden ho be able to know her location by hearing
+be able to know her location by hearing
+be able to know her location by hearing her but cannot see her if he critically
+her but cannot see her if he critically
+her but cannot see her if he critically succeeds then the Geum could rule that
+succeeds then the Geum could rule that
+succeeds then the Geum could rule that there is narrow line of sight from his
+there is narrow line of sight from his
+there is narrow line of sight from his space to hers and in that case she would
+space to hers and in that case she would
+space to hers and in that case she would become observed if that happens Marissa
+become observed if that happens Marissa
+become observed if that happens Marissa would need to spend her first action
+would need to spend her first action
+would need to spend her first action hiding again and then her second action
+hiding again and then her second action
+hiding again and then her second action to sneak away once more and if on his
+to sneak away once more and if on his
+to sneak away once more and if on his third action had the guard decided not
+third action had the guard decided not
+third action had the guard decided not to seek but instead took another stride
+to seek but instead took another stride
+to seek but instead took another stride action and moved here he would have
+action and moved here he would have
+action and moved here he would have instantly observed mauricio as she no
+instantly observed mauricio as she no
+instantly observed mauricio as she no longer has cover or concealment against
+longer has cover or concealment against
+longer has cover or concealment against the guard
+the guard
+the guard in this video we discussed the stealth
+in this video we discussed the stealth
+in this video we discussed the stealth skill the key ability for stealth is
+skill the key ability for stealth is
+skill the key ability for stealth is dexterity and all stealth actions can be
+dexterity and all stealth actions can be
+dexterity and all stealth actions can be used untrained when a character's
+used untrained when a character's
+used untrained when a character's attempt to hide is challenged during
+attempt to hide is challenged during
+attempt to hide is challenged during another characters turn the seeking
+another characters turn the seeking
+another characters turn the seeking character rolls their perception which
+character rolls their perception which
+character rolls their perception which is challenged by the hiding characters
+is challenged by the hiding characters
+is challenged by the hiding characters stealth DC stealth DC is calculated as
+stealth DC stealth DC is calculated as
+stealth DC stealth DC is calculated as 10 + stealth bonus when it comes to
+10 + stealth bonus when it comes to
+10 + stealth bonus when it comes to stealth skill in stealth DC the rule of
+stealth skill in stealth DC the rule of
+stealth skill in stealth DC the rule of thumb is if it is your turn
+thumb is if it is your turn
+thumb is if it is your turn you roll stealth contested to buy other
+you roll stealth contested to buy other
+you roll stealth contested to buy other people's perception DC but if it is not
+people's perception DC but if it is not
+people's perception DC but if it is not your turn then they roll their
+your turn then they roll their
+your turn then they roll their perception and that is contested by your
+perception and that is contested by your
+perception and that is contested by your stealth DC there are three stealth
+stealth DC there are three stealth
+stealth DC there are three stealth actions
+actions
+actions the first is conceal an object if you
+the first is conceal an object if you
+the first is conceal an object if you hide the object on yourself you're still
+hide the object on yourself you're still
+hide the object on yourself you're still throw is contested by the perception
+throw is contested by the perception
+throw is contested by the perception DC's of anyone who you do not want to
+DC's of anyone who you do not want to
+DC's of anyone who you do not want to notice it if another character uses the
+notice it if another character uses the
+notice it if another character uses the seek action on their turn they roll
+seek action on their turn they roll
+seek action on their turn they roll their perception versus your stealth DC
+their perception versus your stealth DC
+their perception versus your stealth DC to notice the hidden object if you hide
+to notice the hidden object if you hide
+to notice the hidden object if you hide the object in the environment you do not
+the object in the environment you do not
+the object in the environment you do not roll anything but if someone uses the
+roll anything but if someone uses the
+roll anything but if someone uses the seek action in that area their
+seek action in that area their
+seek action in that area their perception roll is contested - by your
+perception roll is contested - by your
+perception roll is contested - by your stealth DC
+stealth DC
+stealth DC the second stealth action is hide and
+the second stealth action is hide and
+the second stealth action is hide and this is for when you want to lower your
+this is for when you want to lower your
+this is for when you want to lower your detection state from observed to hidden
+detection state from observed to hidden
+detection state from observed to hidden you must have cover or concealment to
+you must have cover or concealment to
+you must have cover or concealment to hide and your stealth check is
+hide and your stealth check is
+hide and your stealth check is challenged by the perception disease of
+challenged by the perception disease of
+challenged by the perception disease of anyone observing you if successful you
+anyone observing you if successful you
+anyone observing you if successful you become hidden but do not move from your
+become hidden but do not move from your
+become hidden but do not move from your space as part of the action another way
+space as part of the action another way
+space as part of the action another way to lower your detection from observed to
+to lower your detection from observed to
+to lower your detection from observed to hidden is my creating a diversion with
+hidden is my creating a diversion with
+hidden is my creating a diversion with the deception skill in this case you
+the deception skill in this case you
+the deception skill in this case you roll a deception contested by the
+roll a deception contested by the
+roll a deception contested by the perception disease of others and if
+perception disease of others and if
+perception disease of others and if successful you become hidden until the
+successful you become hidden until the
+successful you become hidden until the end of your current turn if you fail the
+end of your current turn if you fail the
+end of your current turn if you fail the check not only are you still observed
+check not only are you still observed
+check not only are you still observed but they also know you are trying to
+but they also know you are trying to
+but they also know you are trying to trick them and regardless of success or
+trick them and regardless of success or
+trick them and regardless of success or failure once you attempt to create a
+failure once you attempt to create a
+failure once you attempt to create a diversion those targets gain a +4 bonus
+diversion those targets gain a +4 bonus
+diversion those targets gain a +4 bonus to any other attempts to by you to
+to any other attempts to by you to
+to any other attempts to by you to create a diversion for the next minute
+create a diversion for the next minute
+create a diversion for the next minute the third stealth skill is sneak if you
+the third stealth skill is sneak if you
+the third stealth skill is sneak if you are hidden or undetected and you have
+are hidden or undetected and you have
+are hidden or undetected and you have cover or concealment against your
+cover or concealment against your
+cover or concealment against your enemies you can move up to half your
+enemies you can move up to half your
+enemies you can move up to half your speed after which your stealth skill is
+speed after which your stealth skill is
+speed after which your stealth skill is compared to the perception disease of
+compared to the perception disease of
+compared to the perception disease of enemies in the area if you have cover
+enemies in the area if you have cover
+enemies in the area if you have cover throughout the entire movement you add
+throughout the entire movement you add
+throughout the entire movement you add the covers bonus to your stealth check
+the covers bonus to your stealth check
+the covers bonus to your stealth check if you do not have cover or concealment
+if you do not have cover or concealment
+if you do not have cover or concealment in the square that you ended your
+in the square that you ended your
+in the square that you ended your movement you instantly fail against
+movement you instantly fail against
+movement you instantly fail against those enemies with unobstructed lines of
+those enemies with unobstructed lines of
+those enemies with unobstructed lines of sight to you and become observed if you
+sight to you and become observed if you
+sight to you and become observed if you succeed the check
+succeed the check
+succeed the check you are undetected if you fail the check
+you are undetected if you fail the check
+you are undetected if you fail the check you become hidden if you critically fail
+you become hidden if you critically fail
+you become hidden if you critically fail you become observed
+you become observed
+you become observed while hidden or undetected you instantly
+while hidden or undetected you instantly
+while hidden or undetected you instantly become observed if you attempt any
+become observed if you attempt any
+become observed if you attempt any action other than hide step or sneak two
+action other than hide step or sneak two
+action other than hide step or sneak two exceptions to this are any actions that
+exceptions to this are any actions that
+exceptions to this are any actions that the GM rules are unobtrusive or when you
+the GM rules are unobtrusive or when you
+the GM rules are unobtrusive or when you take the strike action in which case the
+take the strike action in which case the
+take the strike action in which case the target is flat-footed for the attack and
+target is flat-footed for the attack and
+target is flat-footed for the attack and you become observed after the attack is
+you become observed after the attack is
+you become observed after the attack is resolved
+with that we'll bring this video to a
+with that we'll bring this video to a close if you found this video helpful
+close if you found this video helpful
+close if you found this video helpful please give us a like and don't forget
+please give us a like and don't forget
+please give us a like and don't forget to click that subscribe button and the
+to click that subscribe button and the
+to click that subscribe button and the bell so you never miss out on our future
+bell so you never miss out on our future
+bell so you never miss out on our future videos leave us a comment letting us
+videos leave us a comment letting us
+videos leave us a comment letting us know what topics you'd like to see
+know what topics you'd like to see
+know what topics you'd like to see covered in our future videos and we can
+covered in our future videos and we can
+covered in our future videos and we can always be reached through our Twitter
+always be reached through our Twitter
+always be reached through our Twitter and Facebook pages too if you'd like to
+and Facebook pages too if you'd like to
+and Facebook pages too if you'd like to use some of the maps that we feature in
+use some of the maps that we feature in
+use some of the maps that we feature in our videos and your own games you can
+our videos and your own games you can
+our videos and your own games you can find them at maps of mastery a link to
+find them at maps of mastery a link to
+find them at maps of mastery a link to that store can be found in the
+that store can be found in the
+that store can be found in the description thanks for watching take
+description thanks for watching take
+description thanks for watching take care and we'll see you soon with more
+care and we'll see you soon with more
+care and we'll see you soon with more basics for your favorite tabletop games

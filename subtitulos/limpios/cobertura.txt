@@ -1,0 +1,532 @@
+hello and welcome to basics for gamers
+hello and welcome to basics for gamers presents the basics of cover in
+presents the basics of cover in
+presents the basics of cover in Pathfinder 2nd edition
+Pathfinder 2nd edition
+Pathfinder 2nd edition when a target is behind any object that
+when a target is behind any object that
+when a target is behind any object that might hinder your ability to attack them
+might hinder your ability to attack them
+might hinder your ability to attack them they have cover from you determining if
+they have cover from you determining if
+they have cover from you determining if an enemy has cover from your tank is
+an enemy has cover from your tank is
+an enemy has cover from your tank is fairly simple all you have to do is draw
+fairly simple all you have to do is draw
+fairly simple all you have to do is draw an imaginary line from the center of the
+an imaginary line from the center of the
+an imaginary line from the center of the space that you occupy to the center of
+space that you occupy to the center of
+space that you occupy to the center of the space that your target occupies and
+the space that your target occupies and
+the space that your target occupies and ask yourself two simple questions does
+ask yourself two simple questions does
+ask yourself two simple questions does this line pass through any objects or
+this line pass through any objects or
+this line pass through any objects or terrain if so then the target has cover
+terrain if so then the target has cover
+terrain if so then the target has cover from your attack for example if your
+from your attack for example if your
+from your attack for example if your enemy is standing behind a low wall or
+enemy is standing behind a low wall or
+enemy is standing behind a low wall or over turntable or behind a fallen tree
+over turntable or behind a fallen tree
+over turntable or behind a fallen tree then some of their body is not exposed
+then some of their body is not exposed
+then some of their body is not exposed and vulnerable to your attack which
+and vulnerable to your attack which
+and vulnerable to your attack which makes it harder for you to hit them and
+makes it harder for you to hit them and
+makes it harder for you to hit them and the second question is are there any
+the second question is are there any
+the second question is are there any creatures between you and your target a
+creatures between you and your target a
+creatures between you and your target a creature is different from objects in
+creature is different from objects in
+creature is different from objects in terrain and that they are able to move
+terrain and that they are able to move
+terrain and that they are able to move around this doesn't have to be a
+around this doesn't have to be a
+around this doesn't have to be a traditional or even a living animal to
+traditional or even a living animal to
+traditional or even a living animal to qualify as a quote creature it could be
+qualify as a quote creature it could be
+qualify as a quote creature it could be an undead skeleton a golem and animated
+an undead skeleton a golem and animated
+an undead skeleton a golem and animated table or anything else that you might
+table or anything else that you might
+table or anything else that you might find in the Pathfinder bestiary
+find in the Pathfinder bestiary
+find in the Pathfinder bestiary but if that line that you're drawing
+but if that line that you're drawing
+but if that line that you're drawing from the center of your space to the
+from the center of your space to the
+from the center of your space to the center of your target space passes
+center of your target space passes
+center of your target space passes through another space that's occupied by
+through another space that's occupied by
+through another space that's occupied by a creature then your target is going to
+a creature then your target is going to
+a creature then your target is going to have cover on that attack
+have cover on that attack
+have cover on that attack once you know there is cover the GM will
+once you know there is cover the GM will
+once you know there is cover the GM will need to determine what kind of cover the
+need to determine what kind of cover the
+need to determine what kind of cover the target has cover comes in three
+target has cover comes in three
+target has cover comes in three varieties standard cover lesser cover
+varieties standard cover lesser cover
+varieties standard cover lesser cover and greater cover in most cases when a
+and greater cover in most cases when a
+and greater cover in most cases when a target link passes through an object or
+target link passes through an object or
+target link passes through an object or terrain the target will have standard
+terrain the target will have standard
+terrain the target will have standard cover this provides a +2 circumstance
+cover this provides a +2 circumstance
+cover this provides a +2 circumstance bonus to Armour class to reflect saves
+bonus to Armour class to reflect saves
+bonus to Armour class to reflect saves against area tax and a stealth checks
+against area tax and a stealth checks
+against area tax and a stealth checks made to hide a sneak or avoid detection
+made to hide a sneak or avoid detection
+made to hide a sneak or avoid detection one notable exception to this is if the
+one notable exception to this is if the
+one notable exception to this is if the target line passes through an object
+target line passes through an object
+target line passes through an object that completely blocks all line of
+that completely blocks all line of
+that completely blocks all line of effect to the target if the target is in
+effect to the target if the target is in
+effect to the target if the target is in the next room with a solid wall between
+the next room with a solid wall between
+the next room with a solid wall between you and it then you're not able to
+you and it then you're not able to
+you and it then you're not able to attack that target at all if a target
+attack that target at all if a target
+attack that target at all if a target with standard cover uses one of their
+with standard cover uses one of their
+with standard cover uses one of their actions to perform the take cover action
+actions to perform the take cover action
+actions to perform the take cover action then they receive the benefits of
+then they receive the benefits of
+then they receive the benefits of greater cover which doubles their
+greater cover which doubles their
+greater cover which doubles their protection and grants a +4 circumstance
+protection and grants a +4 circumstance
+protection and grants a +4 circumstance bonus to armor class reflex saves
+bonus to armor class reflex saves
+bonus to armor class reflex saves against area attacks and stealth checks
+against area attacks and stealth checks
+against area attacks and stealth checks made to hide greater cover might also be
+made to hide greater cover might also be
+made to hide greater cover might also be awarded whenever the GM feels that it
+awarded whenever the GM feels that it
+awarded whenever the GM feels that it would be significantly difficult to hit
+would be significantly difficult to hit
+would be significantly difficult to hit a target even when they are not using
+a target even when they are not using
+a target even when they are not using the take cover action this is a judgment
+the take cover action this is a judgment
+the take cover action this is a judgment call but one example might be when the
+call but one example might be when the
+call but one example might be when the enemy is standing behind a wall with a
+enemy is standing behind a wall with a
+enemy is standing behind a wall with a narrow slit in it when the target only
+narrow slit in it when the target only
+narrow slit in it when the target only passes through a creature instead of an
+passes through a creature instead of an
+passes through a creature instead of an object the target most likely has lesser
+object the target most likely has lesser
+object the target most likely has lesser cover lizard cover only provides a plus
+cover lizard cover only provides a plus
+cover lizard cover only provides a plus one circumstance bonus to armor class
+one circumstance bonus to armor class
+one circumstance bonus to armor class and no bonus and all to reflux safes
+and no bonus and all to reflux safes
+and no bonus and all to reflux safes also lesser cover may not be used to
+also lesser cover may not be used to
+also lesser cover may not be used to make stealth checks to hide or sneak and
+make stealth checks to hide or sneak and
+make stealth checks to hide or sneak and provides no bonus to cells checks also
+provides no bonus to cells checks also
+provides no bonus to cells checks also just like with greater cover the GM is
+just like with greater cover the GM is
+just like with greater cover the GM is empowered to make judgment calls and
+empowered to make judgment calls and
+empowered to make judgment calls and allow lesser cover to be provided by
+allow lesser cover to be provided by
+allow lesser cover to be provided by objects instead of just by creatures for
+objects instead of just by creatures for
+objects instead of just by creatures for example a small pile of rubble and a
+example a small pile of rubble and a
+example a small pile of rubble and a cave the GM may decide is tall enough to
+cave the GM may decide is tall enough to
+cave the GM may decide is tall enough to give a little protection but is too
+give a little protection but is too
+give a little protection but is too small to hide or to take cover behind
+small to hide or to take cover behind
+small to hide or to take cover behind and therefore
+and therefore
+and therefore only provides a lesser cover instead of
+only provides a lesser cover instead of
+only provides a lesser cover instead of standard cover also note that if the
+standard cover also note that if the
+standard cover also note that if the creature that is granting cover is at
+creature that is granting cover is at
+creature that is granting cover is at least two size categories larger than
+least two size categories larger than
+least two size categories larger than both the attacker and their target then
+both the attacker and their target then
+both the attacker and their target then the target receives the benefits of
+the target receives the benefits of
+the target receives the benefits of standard cover instead of lesser cover
+standard cover instead of lesser cover
+standard cover instead of lesser cover which is usually what is awarded when
+which is usually what is awarded when
+which is usually what is awarded when the target line passes through a
+the target line passes through a
+the target line passes through a creature likewise if the target is
+creature likewise if the target is
+creature likewise if the target is significantly larger than the object
+significantly larger than the object
+significantly larger than the object that is granting it cover
+that is granting it cover
+that is granting it cover then the GM may rule that they receive
+then the GM may rule that they receive
+then the GM may rule that they receive no cover benefits from that object for
+no cover benefits from that object for
+no cover benefits from that object for example if a huge sized dragon is
+example if a huge sized dragon is
+example if a huge sized dragon is standing behind a single tree the target
+standing behind a single tree the target
+standing behind a single tree the target line might pass through that single tree
+line might pass through that single tree
+line might pass through that single tree on the map but the GM may determine that
+on the map but the GM may determine that
+on the map but the GM may determine that that is just not enough to provide
+that is just not enough to provide
+that is just not enough to provide significant cover to the dragon and
+significant cover to the dragon and
+significant cover to the dragon and therefore either provide less recover or
+therefore either provide less recover or
+therefore either provide less recover or no cover at all
+no cover at all
+no cover at all with all of that in mind let's look at a
+with all of that in mind let's look at a
+with all of that in mind let's look at a few examples first we have valorous
+few examples first we have valorous
+few examples first we have valorous fighting and over he is adjacent with
+fighting and over he is adjacent with
+fighting and over he is adjacent with nothing between him and the ogre so
+nothing between him and the ogre so
+nothing between him and the ogre so there is no cover in this situation this
+there is no cover in this situation this
+there is no cover in this situation this is a pretty simple example for the
+is a pretty simple example for the
+is a pretty simple example for the second example let's consider Sione if
+second example let's consider Sione if
+second example let's consider Sione if we draw a line from the center of her
+we draw a line from the center of her
+we draw a line from the center of her space to the center of the ogre space we
+space to the center of the ogre space we
+space to the center of the ogre space we see it does not pass through any objects
+see it does not pass through any objects
+see it does not pass through any objects but it does pass through a creature
+but it does pass through a creature
+but it does pass through a creature which is valorous and therefore the ogre
+which is valorous and therefore the ogre
+which is valorous and therefore the ogre does receive the benefits of lesser
+does receive the benefits of lesser
+does receive the benefits of lesser cover it doesn't matter that valorous is
+cover it doesn't matter that valorous is
+cover it doesn't matter that valorous is Sione our allies his presence still
+Sione our allies his presence still
+Sione our allies his presence still grants the ogre cover in the third
+grants the ogre cover in the third
+grants the ogre cover in the third example mauricio wishes to attack the
+example mauricio wishes to attack the
+example mauricio wishes to attack the ogre from around the corner if we draw a
+ogre from around the corner if we draw a
+ogre from around the corner if we draw a line from the center of her space to the
+line from the center of her space to the
+line from the center of her space to the center of the ogre space we see it does
+center of the ogre space we see it does
+center of the ogre space we see it does pass through the edge of the building
+pass through the edge of the building
+pass through the edge of the building and would grant the ogre the benefits of
+and would grant the ogre the benefits of
+and would grant the ogre the benefits of standard cover that's the rule by raw
+standard cover that's the rule by raw
+standard cover that's the rule by raw but the Rubik also uses this as an
+but the Rubik also uses this as an
+but the Rubik also uses this as an example of the fluid nature of the rules
+example of the fluid nature of the rules
+example of the fluid nature of the rules and the fact that GM's are encouraged to
+and the fact that GM's are encouraged to
+and the fact that GM's are encouraged to adjust things as they see fit
+adjust things as they see fit
+adjust things as they see fit for example allowing mauricio to spin an
+for example allowing mauricio to spin an
+for example allowing mauricio to spin an action before her attack to lean out or
+action before her attack to lean out or
+action before her attack to lean out or step away from cover to negate the ogres
+step away from cover to negate the ogres
+step away from cover to negate the ogres cover bonus if she started her turn in
+cover bonus if she started her turn in
+cover bonus if she started her turn in this square she could spend her first
+this square she could spend her first
+this square she could spend her first action to lean out from the corner her
+action to lean out from the corner her
+action to lean out from the corner her second action to strike with her appear
+second action to strike with her appear
+second action to strike with her appear and then her third action to use the
+and then her third action to use the
+and then her third action to use the take cover action to lean back away and
+take cover action to lean back away and
+take cover action to lean back away and press her back flat against the wall and
+press her back flat against the wall and
+press her back flat against the wall and receive greater cover for herself in
+receive greater cover for herself in
+receive greater cover for herself in tactical terms when making an adjustment
+tactical terms when making an adjustment
+tactical terms when making an adjustment like this you spend one of your actions
+like this you spend one of your actions
+like this you spend one of your actions and then draw your line from any corner
+and then draw your line from any corner
+and then draw your line from any corner of your space to the center of your
+of your space to the center of your
+of your space to the center of your target space instead of drawing it from
+target space instead of drawing it from
+target space instead of drawing it from the center of your space to the center
+the center of your space to the center
+the center of your space to the center of their space and in our fourth example
+of their space and in our fourth example
+of their space and in our fourth example Kyra wishes to make a ranged attack we
+Kyra wishes to make a ranged attack we
+Kyra wishes to make a ranged attack we draw our line and see it clearly passes
+draw our line and see it clearly passes
+draw our line and see it clearly passes through this building next we should
+through this building next we should
+through this building next we should think about line of effect that's an
+think about line of effect that's an
+think about line of effect that's an awful lot of building between her and
+awful lot of building between her and
+awful lot of building between her and the ogre so would it even be possible
+the ogre so would it even be possible
+the ogre so would it even be possible for her to hit that target for this
+for her to hit that target for this
+for her to hit that target for this example we'll say that the GM determined
+example we'll say that the GM determined
+example we'll say that the GM determined that even at this angle Kyra can see the
+that even at this angle Kyra can see the
+that even at this angle Kyra can see the ogre and there is narrow line of effect
+ogre and there is narrow line of effect
+ogre and there is narrow line of effect usually when the target line passes
+usually when the target line passes
+usually when the target line passes through an object the target receives
+through an object the target receives
+through an object the target receives the benefits of standard cover but in
+the benefits of standard cover but in
+the benefits of standard cover but in this case the GM would likely determine
+this case the GM would likely determine
+this case the GM would likely determine this as the vast majority of the ogre is
+this as the vast majority of the ogre is
+this as the vast majority of the ogre is obscured behind the side of the building
+obscured behind the side of the building
+obscured behind the side of the building she's going to impose greater cover
+she's going to impose greater cover
+she's going to impose greater cover against Cara's attack now for the sake
+against Cara's attack now for the sake
+against Cara's attack now for the sake of discussion let's move Kyra to here if
+of discussion let's move Kyra to here if
+of discussion let's move Kyra to here if we drove her line again we see the ogre
+we drove her line again we see the ogre
+we drove her line again we see the ogre still has cover from her attack but
+still has cover from her attack but
+still has cover from her attack but sometimes players ask why is she aiming
+sometimes players ask why is she aiming
+sometimes players ask why is she aiming down the middle this is a giant
+down the middle this is a giant
+down the middle this is a giant Foursquare monster so why not instead
+Foursquare monster so why not instead
+Foursquare monster so why not instead just attack it in this square and that
+just attack it in this square and that
+just attack it in this square and that makes perfect sense
+makes perfect sense
+makes perfect sense but remember when calculating armor
+but remember when calculating armor
+but remember when calculating armor class you need to take into account the
+class you need to take into account the
+class you need to take into account the size of the creature the bigger the
+size of the creature the bigger the
+size of the creature the bigger the creature the lower their armor class is
+creature the lower their armor class is
+creature the lower their armor class is going to be so if objects in your way
+going to be so if objects in your way
+going to be so if objects in your way make it difficult to hit all of that
+make it difficult to hit all of that
+make it difficult to hit all of that creature then there should be a penalty
+creature then there should be a penalty
+creature then there should be a penalty applied when you are only able to target
+applied when you are only able to target
+applied when you are only able to target 1/4 of that creature as in this example
+1/4 of that creature as in this example
+1/4 of that creature as in this example and last let's talk about what happens
+and last let's talk about what happens
+and last let's talk about what happens when there are multiple sources of cover
+when there are multiple sources of cover
+when there are multiple sources of cover such as this example
+such as this example
+such as this example if the target only passes through
+if the target only passes through
+if the target only passes through valorous this grants the lesser cover in
+valorous this grants the lesser cover in
+valorous this grants the lesser cover in a plus one circumstance bonus to the
+a plus one circumstance bonus to the
+a plus one circumstance bonus to the targets armor class and if it passes
+targets armor class and if it passes
+targets armor class and if it passes through an obstacle like the edge of
+through an obstacle like the edge of
+through an obstacle like the edge of this building is going to give standard
+this building is going to give standard
+this building is going to give standard cover in a plus two circumstance bonus
+cover in a plus two circumstance bonus
+cover in a plus two circumstance bonus to Armour class so does this mean that
+to Armour class so does this mean that
+to Armour class so does this mean that the ogre gets to add both of these
+the ogre gets to add both of these
+the ogre gets to add both of these sources of cover together for a total
+sources of cover together for a total
+sources of cover together for a total plus three bonus to their armor class no
+plus three bonus to their armor class no
+plus three bonus to their armor class no because these are both circumstance
+because these are both circumstance
+because these are both circumstance bonuses and bonuses of the same type do
+bonuses and bonuses of the same type do
+bonuses and bonuses of the same type do not stack or add together instead the
+not stack or add together instead the
+not stack or add together instead the ogre would receive the benefit of the
+ogre would receive the benefit of the
+ogre would receive the benefit of the greater of the two bonuses which would
+greater of the two bonuses which would
+greater of the two bonuses which would be standard cover in a plus two bonus to
+be standard cover in a plus two bonus to
+be standard cover in a plus two bonus to their armor class that said the GM is
+their armor class that said the GM is
+their armor class that said the GM is always free to rule differently for
+always free to rule differently for
+always free to rule differently for example if there is a crowd
+example if there is a crowd
+example if there is a crowd between the attacker and their target
+between the attacker and their target
+between the attacker and their target she might rule that the target receives
+she might rule that the target receives
+she might rule that the target receives the benefits of standard or even greater
+the benefits of standard or even greater
+the benefits of standard or even greater cover instead of lesser cover that is
+cover instead of lesser cover that is
+cover instead of lesser cover that is usually imposed when there is a creature
+usually imposed when there is a creature
+usually imposed when there is a creature blocking your shot
+blocking your shot
+blocking your shot in this video we examined the rules for
+in this video we examined the rules for
+in this video we examined the rules for cover when a target is behind any object
+cover when a target is behind any object
+cover when a target is behind any object that might hinder your ability to attack
+that might hinder your ability to attack
+that might hinder your ability to attack them they have cover from you
+them they have cover from you
+them they have cover from you to determine if cover exists there must
+to determine if cover exists there must
+to determine if cover exists there must be line of effect from you to your
+be line of effect from you to your
+be line of effect from you to your target and if you draw a line from the
+target and if you draw a line from the
+target and if you draw a line from the center of your space to the center of
+center of your space to the center of
+center of your space to the center of your target space and that line passes
+your target space and that line passes
+your target space and that line passes through an object or a creature then
+through an object or a creature then
+through an object or a creature then they have cover against your attack with
+they have cover against your attack with
+they have cover against your attack with the line passes through an obstacle the
+the line passes through an obstacle the
+the line passes through an obstacle the target has standard cover this grants
+target has standard cover this grants
+target has standard cover this grants them a +2 circumstance bonus to armor
+them a +2 circumstance bonus to armor
+them a +2 circumstance bonus to armor class reflex saves against area techs
+class reflex saves against area techs
+class reflex saves against area techs and stealth checks to hide if a creature
+and stealth checks to hide if a creature
+and stealth checks to hide if a creature with standard cover spins an action to
+with standard cover spins an action to
+with standard cover spins an action to take cover they instead receive the
+take cover they instead receive the
+take cover they instead receive the benefits of greater cover which is +4 -
+benefits of greater cover which is +4 -
+benefits of greater cover which is +4 - armor class reflex saves against area
+armor class reflex saves against area
+armor class reflex saves against area techs and stealth checks made to hide if
+techs and stealth checks made to hide if
+techs and stealth checks made to hide if cover is provided by a creature instead
+cover is provided by a creature instead
+cover is provided by a creature instead of an object or terrain then the target
+of an object or terrain then the target
+of an object or terrain then the target only receives the benefits a lesser
+only receives the benefits a lesser
+only receives the benefits a lesser cover which only provides a +1
+cover which only provides a +1
+cover which only provides a +1 circumstance of bonus - armor class and
+circumstance of bonus - armor class and
+circumstance of bonus - armor class and no bonus at all - reflex saves or
+no bonus at all - reflex saves or
+no bonus at all - reflex saves or stealth checks and remember the GM is
+stealth checks and remember the GM is
+stealth checks and remember the GM is able to make judgment calls to grant
+able to make judgment calls to grant
+able to make judgment calls to grant more or less cover in various situations
+more or less cover in various situations
+more or less cover in various situations such as if the target is significantly
+such as if the target is significantly
+such as if the target is significantly larger or smaller than the obstacle in
+larger or smaller than the obstacle in
+larger or smaller than the obstacle in the path of the attack
+the path of the attack
+the path of the attack with that we'll bring this video to a
+with that we'll bring this video to a
+with that we'll bring this video to a close if you found this video helpful
+close if you found this video helpful
+close if you found this video helpful please give us a like and don't forget
+please give us a like and don't forget
+please give us a like and don't forget to click that subscribe button and the
+to click that subscribe button and the
+to click that subscribe button and the bell so you never miss out on our future
+bell so you never miss out on our future
+bell so you never miss out on our future videos leave us a comment letting us
+videos leave us a comment letting us
+videos leave us a comment letting us know what topics you'd like to see
+know what topics you'd like to see
+know what topics you'd like to see covered in our future videos and we can
+covered in our future videos and we can
+covered in our future videos and we can always be reached through our Twitter
+always be reached through our Twitter
+always be reached through our Twitter and Facebook pages too if you'd like to
+and Facebook pages too if you'd like to
+and Facebook pages too if you'd like to use some of the maps that we feature on
+use some of the maps that we feature on
+use some of the maps that we feature on our videos and your own games you can
+our videos and your own games you can
+our videos and your own games you can find them at maps of mastery a link to
+find them at maps of mastery a link to
+find them at maps of mastery a link to that store can be found in the
+that store can be found in the
+that store can be found in the description thanks for watching take
+description thanks for watching take
+description thanks for watching take care and we'll see you soon with more
+care and we'll see you soon with more
+care and we'll see you soon with more basics for your favorite tabletop games

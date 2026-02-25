@@ -1,0 +1,1272 @@
+hello and welcome to basics for gamers
+hello and welcome to basics for gamers presents the basics of perception in
+presents the basics of perception in
+presents the basics of perception in Pathfinder second edition in this video
+Pathfinder second edition in this video
+Pathfinder second edition in this video we will cover what perception is how
+we will cover what perception is how
+we will cover what perception is how it's calculated when players make
+it's calculated when players make
+it's calculated when players make perception checks and when the GM's
+perception checks and when the GM's
+perception checks and when the GM's might make their perception checks for
+might make their perception checks for
+might make their perception checks for them in secret as well as several
+them in secret as well as several
+them in secret as well as several aspects that modify perception including
+aspects that modify perception including
+aspects that modify perception including the different states of awareness and
+the different states of awareness and
+the different states of awareness and lighting conditions note that this video
+lighting conditions note that this video
+lighting conditions note that this video is meant to lay a foundation for
+is meant to lay a foundation for
+is meant to lay a foundation for perception that will be built upon in
+perception that will be built upon in
+perception that will be built upon in future videos we will discuss
+future videos we will discuss
+future videos we will discuss invisibility initiative stealth and how
+invisibility initiative stealth and how
+invisibility initiative stealth and how perception applies to those mechanics in
+perception applies to those mechanics in
+perception applies to those mechanics in the future
+the future
+the future perception measures how a where a
+perception measures how a where a
+perception measures how a where a character is it allows you to notice
+character is it allows you to notice
+character is it allows you to notice things search for what's hidden and tell
+things search for what's hidden and tell
+things search for what's hidden and tell whether something about a situation is
+whether something about a situation is
+whether something about a situation is suspicious all creatures have a
+suspicious all creatures have a
+suspicious all creatures have a perception score and almost everyone has
+perception score and almost everyone has
+perception score and almost everyone has a proficiency rank of at least trained
+a proficiency rank of at least trained
+a proficiency rank of at least trained with perception whatever a GM needs to
+with perception whatever a GM needs to
+with perception whatever a GM needs to test a character's ability to notice
+test a character's ability to notice
+test a character's ability to notice something they will call for a
+something they will call for a
+something they will call for a perception check as with other checks
+perception check as with other checks
+perception check as with other checks this is a d20 role that's modified by
+this is a d20 role that's modified by
+this is a d20 role that's modified by applicable bonuses and penalties the
+applicable bonuses and penalties the
+applicable bonuses and penalties the base perception modifier is the
+base perception modifier is the
+base perception modifier is the creatures wisdom modifier plus their
+creatures wisdom modifier plus their
+creatures wisdom modifier plus their proficiency bonus in perception so for
+proficiency bonus in perception so for
+proficiency bonus in perception so for example a first level character who is
+example a first level character who is
+example a first level character who is trained in perception and has a wisdom
+trained in perception and has a wisdom
+trained in perception and has a wisdom score of 14 would have a base perception
+score of 14 would have a base perception
+score of 14 would have a base perception bonus of +5 that's a wisdom score 14
+bonus of +5 that's a wisdom score 14
+bonus of +5 that's a wisdom score 14 granting a +2 modifier and train
+granting a +2 modifier and train
+granting a +2 modifier and train proficiency adds to plus the character's
+proficiency adds to plus the character's
+proficiency adds to plus the character's level for a total of +5 some actions
+level for a total of +5 some actions
+level for a total of +5 some actions such as sneaking are challenged by the
+such as sneaking are challenged by the
+such as sneaking are challenged by the witness and character's perception DC
+witness and character's perception DC
+witness and character's perception DC which is simply calculated as 10 plus
+which is simply calculated as 10 plus
+which is simply calculated as 10 plus the character's base perception modifier
+the character's base perception modifier
+the character's base perception modifier for example your character has a small
+for example your character has a small
+for example your character has a small trinket in their hand that they're
+trinket in their hand that they're
+trinket in their hand that they're trying to hide from a couple orcs who
+trying to hide from a couple orcs who
+trying to hide from a couple orcs who are approaching this is a use of the
+are approaching this is a use of the
+are approaching this is a use of the palm and object application of the
+palm and object application of the
+palm and object application of the thievery skill so in this scenario you
+thievery skill so in this scenario you
+thievery skill so in this scenario you would roll a thievery skill check which
+would roll a thievery skill check which
+would roll a thievery skill check which would be contested by the perception
+would be contested by the perception
+would be contested by the perception DC's of everyone who is observing you
+DC's of everyone who is observing you
+DC's of everyone who is observing you the orc step block does not show their
+the orc step block does not show their
+the orc step block does not show their perception deceive but it does list
+perception deceive but it does list
+perception deceive but it does list their modifier as being +5 and we know
+their modifier as being +5 and we know
+their modifier as being +5 and we know that perception DC's are 10 plus the
+that perception DC's are 10 plus the
+that perception DC's are 10 plus the perception modifier therefore the DC for
+perception modifier therefore the DC for
+perception modifier therefore the DC for this check is 15 you would roll a d20
+this check is 15 you would roll a d20
+this check is 15 you would roll a d20 and add your thievery skill bonus if the
+and add your thievery skill bonus if the
+and add your thievery skill bonus if the total of that check is 15 or higher then
+total of that check is 15 or higher then
+total of that check is 15 or higher then you succeed and the orcs don't see that
+you succeed and the orcs don't see that
+you succeed and the orcs don't see that you are hiding a trinket if the total of
+you are hiding a trinket if the total of
+you are hiding a trinket if the total of the fever check is 14 or lower then you
+the fever check is 14 or lower then you
+the fever check is 14 or lower then you fail and they can
+fail and they can
+fail and they can all creatures and objects exist in one
+all creatures and objects exist in one
+all creatures and objects exist in one of four states of awareness when you are
+of four states of awareness when you are
+of four states of awareness when you are completely unaware that a creature or an
+completely unaware that a creature or an
+completely unaware that a creature or an object is present then that creature or
+object is present then that creature or
+object is present then that creature or object is considered to be on noticed
+object is considered to be on noticed
+object is considered to be on noticed the unnoticed condition by itself does
+the unnoticed condition by itself does
+the unnoticed condition by itself does not limit you but anytime a creature is
+not limit you but anytime a creature is
+not limit you but anytime a creature is unnoticed it is also undetected
+unnoticed it is also undetected
+unnoticed it is also undetected undetected means you do not know what
+undetected means you do not know what
+undetected means you do not know what space a creature or object occupies this
+space a creature or object occupies this
+space a creature or object occupies this could be because you're not even aware
+could be because you're not even aware
+could be because you're not even aware that it is present and therefore is both
+that it is present and therefore is both
+that it is present and therefore is both unnoticed and undetected or you could
+unnoticed and undetected or you could
+unnoticed and undetected or you could suspect that the creatures present but
+suspect that the creatures present but
+suspect that the creatures present but you don't know exactly where they are in
+you don't know exactly where they are in
+you don't know exactly where they are in which case that target would only be
+which case that target would only be
+which case that target would only be undetected for example you're in a dark
+undetected for example you're in a dark
+undetected for example you're in a dark cave and you hear the sounds of movement
+cave and you hear the sounds of movement
+cave and you hear the sounds of movement nearby but you can't see what's making
+nearby but you can't see what's making
+nearby but you can't see what's making the sounds or know exactly where they
+the sounds or know exactly where they
+the sounds or know exactly where they are in that case that creature would be
+are in that case that creature would be
+are in that case that creature would be undetected when dealing with an
+undetected when dealing with an
+undetected when dealing with an undetected target you are flat-footed
+undetected target you are flat-footed
+undetected target you are flat-footed against all of their attacks and
+against all of their attacks and
+against all of their attacks and although you can't see them to attack
+although you can't see them to attack
+although you can't see them to attack them directly you can't take your best
+them directly you can't take your best
+them directly you can't take your best guess as to which square they occupy and
+guess as to which square they occupy and
+guess as to which square they occupy and attack into that space when you do so
+attack into that space when you do so
+attack into that space when you do so the GM will make your attack roll for
+the GM will make your attack roll for
+the GM will make your attack roll for you in secret as well as also rolling a
+you in secret as well as also rolling a
+you in secret as well as also rolling a flat check vs. DC 11 now the only
+flat check vs. DC 11 now the only
+flat check vs. DC 11 now the only exception of this is if you are making
+exception of this is if you are making
+exception of this is if you are making an area attack as area attacks are not
+an area attack as area attacks are not
+an area attack as area attacks are not subject to these flat checks and these
+subject to these flat checks and these
+subject to these flat checks and these flat checks are meant to represent a
+flat checks are meant to represent a
+flat checks are meant to represent a 50/50 chance that even if the target is
+50/50 chance that even if the target is
+50/50 chance that even if the target is in the square that you are attacking you
+in the square that you are attacking you
+in the square that you are attacking you will miss them because is very difficult
+will miss them because is very difficult
+will miss them because is very difficult to hit a target that you just can't see
+to hit a target that you just can't see
+to hit a target that you just can't see and flat checks are just straight d20
+and flat checks are just straight d20
+and flat checks are just straight d20 rolls with no bonuses or no penalties
+rolls with no bonuses or no penalties
+rolls with no bonuses or no penalties whatever the dice shows is your result
+whatever the dice shows is your result
+whatever the dice shows is your result if that result is a 10 or lure then it
+if that result is a 10 or lure then it
+if that result is a 10 or lure then it doesn't matter what the result of your
+doesn't matter what the result of your
+doesn't matter what the result of your attack role is that attack
+attack role is that attack
+attack role is that attack not hit the target even if you rolled a
+not hit the target even if you rolled a
+not hit the target even if you rolled a natural 20 on the attack but if the
+natural 20 on the attack but if the
+natural 20 on the attack but if the result of the flex check is a success
+result of the flex check is a success
+result of the flex check is a success then the attack roll functions as normal
+then the attack roll functions as normal
+then the attack roll functions as normal the target does not receive and increase
+the target does not receive and increase
+the target does not receive and increase their armor class for being difficult to
+their armor class for being difficult to
+their armor class for being difficult to see or for being undetected that penalty
+see or for being undetected that penalty
+see or for being undetected that penalty is covered with the flat check and again
+is covered with the flat check and again
+is covered with the flat check and again remember that this special flex check
+remember that this special flex check
+remember that this special flex check only applies to direct attacks and not
+only applies to direct attacks and not
+only applies to direct attacks and not area effects a fireball spell does not
+area effects a fireball spell does not
+area effects a fireball spell does not need to make a flat check against
+need to make a flat check against
+need to make a flat check against undetected targets was the GM makes the
+undetected targets was the GM makes the
+undetected targets was the GM makes the attack roll and flex and secret they
+attack roll and flex and secret they
+attack roll and flex and secret they will not reveal the result of either of
+will not reveal the result of either of
+will not reveal the result of either of those rolls but may likely inform you if
+those rolls but may likely inform you if
+those rolls but may likely inform you if you did hit something they might say
+you did hit something they might say
+you did hit something they might say something like you hear the sound of
+something like you hear the sound of
+something like you hear the sound of your arrow hit flesh accented by the
+your arrow hit flesh accented by the
+your arrow hit flesh accented by the Yelp of a goblin or they may say
+Yelp of a goblin or they may say
+Yelp of a goblin or they may say something like you hear your Arrowhead
+something like you hear your Arrowhead
+something like you hear your Arrowhead strike the stone floor and ricochet back
+strike the stone floor and ricochet back
+strike the stone floor and ricochet back against the wall but you as the player
+against the wall but you as the player
+against the wall but you as the player will not know if you missed because of a
+will not know if you missed because of a
+will not know if you missed because of a bad attack roll or because there is
+bad attack roll or because there is
+bad attack roll or because there is nothing hiding in that square to be hit
+nothing hiding in that square to be hit
+nothing hiding in that square to be hit in the first place and note that even if
+in the first place and note that even if
+in the first place and note that even if you do succeed in hitting a target that
+you do succeed in hitting a target that
+you do succeed in hitting a target that is undetected you may know they're there
+is undetected you may know they're there
+is undetected you may know they're there but you are still flat-footed against
+but you are still flat-footed against
+but you are still flat-footed against them until you can actually see them the
+them until you can actually see them the
+them until you can actually see them the next state of awareness is called hidden
+next state of awareness is called hidden
+next state of awareness is called hidden when a creature is hidden from you you
+when a creature is hidden from you you
+when a creature is hidden from you you know exactly which space they are in but
+know exactly which space they are in but
+know exactly which space they are in but you still cannot see them maybe they
+you still cannot see them maybe they
+you still cannot see them maybe they just threw sand in your face bleeding
+just threw sand in your face bleeding
+just threw sand in your face bleeding you but you still know they're standing
+you but you still know they're standing
+you but you still know they're standing right there in front of you unlike with
+right there in front of you unlike with
+right there in front of you unlike with undetected you know exactly where the
+undetected you know exactly where the
+undetected you know exactly where the target is even if you cannot see them
+target is even if you cannot see them
+target is even if you cannot see them attacking a hidden creature works just
+attacking a hidden creature works just
+attacking a hidden creature works just like it does with attacking an
+like it does with attacking an
+like it does with attacking an undetected target except you make the
+undetected target except you make the
+undetected target except you make the attack roll in the flat Shaq vs. DC 11
+attack roll in the flat Shaq vs. DC 11
+attack roll in the flat Shaq vs. DC 11 instead of the GM rolling this for you
+instead of the GM rolling this for you
+instead of the GM rolling this for you in secret otherwise it works the same
+in secret otherwise it works the same
+in secret otherwise it works the same way as attacking an undetected target
+way as attacking an undetected target
+way as attacking an undetected target and you are flat-footed against hidden
+and you are flat-footed against hidden
+and you are flat-footed against hidden targets until you can see them
+targets until you can see them
+targets until you can see them the final state of awareness is called
+the final state of awareness is called
+the final state of awareness is called observed when you can see a target it is
+observed when you can see a target it is
+observed when you can see a target it is observed there are no special bonuses
+observed there are no special bonuses
+observed there are no special bonuses penalties or conditions imposed by an
+penalties or conditions imposed by an
+penalties or conditions imposed by an observed target however it is possible
+observed target however it is possible
+observed target however it is possible for an observed target to have the
+for an observed target to have the
+for an observed target to have the concealed condition if you cannot see
+concealed condition if you cannot see
+concealed condition if you cannot see them clearly for example they're
+them clearly for example they're
+them clearly for example they're standing in smoke or in fog or maybe
+standing in smoke or in fog or maybe
+standing in smoke or in fog or maybe they're in a shadow you can see them but
+they're in a shadow you can see them but
+they're in a shadow you can see them but the GM determines that your vision is
+the GM determines that your vision is
+the GM determines that your vision is somehow impaired but no that's so much
+somehow impaired but no that's so much
+somehow impaired but no that's so much so that the target would be considered
+so that the target would be considered
+so that the target would be considered as hidden or undetected when attacking a
+as hidden or undetected when attacking a
+as hidden or undetected when attacking a target that is concealed you must make a
+target that is concealed you must make a
+target that is concealed you must make a flat check exactly as you do when
+flat check exactly as you do when
+flat check exactly as you do when attacking a hidden target but the DC is
+attacking a hidden target but the DC is
+attacking a hidden target but the DC is only five instead of eleven also note
+only five instead of eleven also note
+only five instead of eleven also note that you are not considered to be
+that you are not considered to be
+that you are not considered to be flat-footed against concealed enemies
+flat-footed against concealed enemies
+flat-footed against concealed enemies your are only flat footed against
+your are only flat footed against
+your are only flat footed against enemies you cannot see and you can see a
+enemies you cannot see and you can see a
+enemies you cannot see and you can see a target that is observed but still
+target that is observed but still
+target that is observed but still concealed
+concealed
+concealed when a player wishes to improve their
+when a player wishes to improve their
+when a player wishes to improve their awareness of a target they use the seek
+awareness of a target they use the seek
+awareness of a target they use the seek action when seeking you're actively
+action when seeking you're actively
+action when seeking you're actively alert and trying to find something you
+alert and trying to find something you
+alert and trying to find something you believe might be hidden within your
+believe might be hidden within your
+believe might be hidden within your field of view this cost one of your
+field of view this cost one of your
+field of view this cost one of your three actions that round and a
+three actions that round and a
+three actions that round and a perception check is rolled that is
+perception check is rolled that is
+perception check is rolled that is contested by the stealth DC's of any
+contested by the stealth DC's of any
+contested by the stealth DC's of any hidden or undetected creatures in your
+hidden or undetected creatures in your
+hidden or undetected creatures in your field of view this works like most any
+field of view this works like most any
+field of view this works like most any other check except it is not ruled by
+other check except it is not ruled by
+other check except it is not ruled by the player instead this is one of those
+the player instead this is one of those
+the player instead this is one of those times where the GM will make that role
+times where the GM will make that role
+times where the GM will make that role for you in secret without you knowing
+for you in secret without you knowing
+for you in secret without you knowing what the total of the role is making
+what the total of the role is making
+what the total of the role is making this role in secret can sometimes
+this role in secret can sometimes
+this role in secret can sometimes confuse players or even lead to
+confuse players or even lead to
+confuse players or even lead to accusations of the GM quote cheating but
+accusations of the GM quote cheating but
+accusations of the GM quote cheating but let me try to explain it this way in the
+let me try to explain it this way in the
+let me try to explain it this way in the real world the results of a seek action
+real world the results of a seek action
+real world the results of a seek action are very binary with only two outcomes
+are very binary with only two outcomes
+are very binary with only two outcomes you either notice something or you do
+you either notice something or you do
+you either notice something or you do not notice something in the real world
+not notice something in the real world
+not notice something in the real world you don't know if you failed on a
+you don't know if you failed on a
+you don't know if you failed on a perception yet to notice something so
+perception yet to notice something so
+perception yet to notice something so let's think about how this works at the
+let's think about how this works at the
+let's think about how this works at the game table in the real world you don't
+game table in the real world you don't
+game table in the real world you don't know if you failed on a perception
+know if you failed on a perception
+know if you failed on a perception can notice something because that
+can notice something because that
+can notice something because that something might not actually be there to
+something might not actually be there to
+something might not actually be there to be noticed in the first place let's say
+be noticed in the first place let's say
+be noticed in the first place let's say the GM doesn't roll this check in secret
+the GM doesn't roll this check in secret
+the GM doesn't roll this check in secret and you do it yourself like in most
+and you do it yourself like in most
+and you do it yourself like in most checks of the game if you roll a four on
+checks of the game if you roll a four on
+checks of the game if you roll a four on that check this tells you that you don't
+that check this tells you that you don't
+that check this tells you that you don't notice anything but it also tells you
+notice anything but it also tells you
+notice anything but it also tells you that you failed to check which could
+that you failed to check which could
+that you failed to check which could make you even more suspicious of your
+make you even more suspicious of your
+make you even more suspicious of your environment it doesn't mean there's
+environment it doesn't mean there's
+environment it doesn't mean there's nothing hiding it only means that you
+nothing hiding it only means that you
+nothing hiding it only means that you failed at spotting something and that is
+failed at spotting something and that is
+failed at spotting something and that is more information than what you would
+more information than what you would
+more information than what you would have in a real-world situation likewise
+have in a real-world situation likewise
+have in a real-world situation likewise if you roll a 19 you can feel confident
+if you roll a 19 you can feel confident
+if you roll a 19 you can feel confident that you succeeded on the check and not
+that you succeeded on the check and not
+that you succeeded on the check and not only did you not notice anything but
+only did you not notice anything but
+only did you not notice anything but your positive there is nothing hiding
+your positive there is nothing hiding
+your positive there is nothing hiding there at all which can lead you to
+there at all which can lead you to
+there at all which can lead you to behaving in a much more confident
+behaving in a much more confident
+behaving in a much more confident approach than what you would probably
+approach than what you would probably
+approach than what you would probably have in a real-world situation but when
+have in a real-world situation but when
+have in a real-world situation but when the GM
+the GM
+the GM makes the role for you in secret they
+makes the role for you in secret they
+makes the role for you in secret they don't tell you what number was rolled or
+don't tell you what number was rolled or
+don't tell you what number was rolled or if you succeeded or if you failed
+if you succeeded or if you failed
+if you succeeded or if you failed they simply tell you if you notice
+they simply tell you if you notice
+they simply tell you if you notice something or not in a player without
+something or not in a player without
+something or not in a player without knowledge of if they succeeded or failed
+knowledge of if they succeeded or failed
+knowledge of if they succeeded or failed is going to proceed in a more realistic
+is going to proceed in a more realistic
+is going to proceed in a more realistic fashion then a player who knows for
+fashion then a player who knows for
+fashion then a player who knows for certain if their perception check was a
+certain if their perception check was a
+certain if their perception check was a massive success or a critical failure
+massive success or a critical failure
+massive success or a critical failure regardless when you take the seek action
+regardless when you take the seek action
+regardless when you take the seek action your perception check is rolled in
+your perception check is rolled in
+your perception check is rolled in secret and compared against the stealthy
+secret and compared against the stealthy
+secret and compared against the stealthy C's of all targets in the area that are
+C's of all targets in the area that are
+C's of all targets in the area that are not already observed by you any creature
+not already observed by you any creature
+not already observed by you any creature that has the undetected state of
+that has the undetected state of
+that has the undetected state of awareness that you succeed against
+awareness that you succeed against
+awareness that you succeed against becomes hidden from you and any hidden
+becomes hidden from you and any hidden
+becomes hidden from you and any hidden creature that you succeed against
+creature that you succeed against
+creature that you succeed against becomes observed by you essentially
+becomes observed by you essentially
+becomes observed by you essentially success on a seek action moves the
+success on a seek action moves the
+success on a seek action moves the target one step closer in awareness to
+target one step closer in awareness to
+target one step closer in awareness to being observed and on a critical success
+being observed and on a critical success
+being observed and on a critical success the target moves two steps and becomes
+the target moves two steps and becomes
+the target moves two steps and becomes observed this however is limited
+observed this however is limited
+observed this however is limited according to which since the character
+according to which since the character
+according to which since the character is using to seek and also by the
+is using to seek and also by the
+is using to seek and also by the lighting conditions of the area if
+lighting conditions of the area if
+lighting conditions of the area if they're using vision
+they're using vision
+they're using vision senses are defined as either being
+senses are defined as either being
+senses are defined as either being precise imprecise or vague precise
+precise imprecise or vague precise
+precise imprecise or vague precise senses allow you to perceive your
+senses allow you to perceive your
+senses allow you to perceive your surroundings in detail and only a
+surroundings in detail and only a
+surroundings in detail and only a precise sense can be used to observe a
+precise sense can be used to observe a
+precise sense can be used to observe a target and the only precise is that
+target and the only precise is that
+target and the only precise is that humans have is vision in priests
+humans have is vision in priests
+humans have is vision in priests licenses allow you to perceive the
+licenses allow you to perceive the
+licenses allow you to perceive the presence of something but not with the
+presence of something but not with the
+presence of something but not with the accuracy in detail of a precise sense
+accuracy in detail of a precise sense
+accuracy in detail of a precise sense for example humans have hearing which is
+for example humans have hearing which is
+for example humans have hearing which is an imprecise sense we can use hearing to
+an imprecise sense we can use hearing to
+an imprecise sense we can use hearing to know that someone is present and may be
+know that someone is present and may be
+know that someone is present and may be able to even know where they're standing
+able to even know where they're standing
+able to even know where they're standing but aiming an attack based on hearing
+but aiming an attack based on hearing
+but aiming an attack based on hearing alone is going to be difficult you
+alone is going to be difficult you
+alone is going to be difficult you cannot observe a target with an
+cannot observe a target with an
+cannot observe a target with an imprecise sense so if you detect an
+imprecise sense so if you detect an
+imprecise sense so if you detect an enemy on hearing alone they would have
+enemy on hearing alone they would have
+enemy on hearing alone they would have the undetected or hidden conditions
+the undetected or hidden conditions
+the undetected or hidden conditions instead of observed the third category
+instead of observed the third category
+instead of observed the third category of senses is vague senses and best vague
+of senses is vague senses and best vague
+of senses is vague senses and best vague senses can be used to make an unnoticed
+senses can be used to make an unnoticed
+senses can be used to make an unnoticed creature become undetected but you can't
+creature become undetected but you can't
+creature become undetected but you can't use a vague sense to make a target
+use a vague sense to make a target
+use a vague sense to make a target hidden or observed smelling is a vague
+hidden or observed smelling is a vague
+hidden or observed smelling is a vague sense for humans if you can't see or
+sense for humans if you can't see or
+sense for humans if you can't see or hear a target there is a chance that you
+hear a target there is a chance that you
+hear a target there is a chance that you might be able to smell them but this
+might be able to smell them but this
+might be able to smell them but this wouldn't allow you to accurately place
+wouldn't allow you to accurately place
+wouldn't allow you to accurately place their location or any great details
+their location or any great details
+their location or any great details about them therefore that target would
+about them therefore that target would
+about them therefore that target would be considered as undetected instead of
+be considered as undetected instead of
+be considered as undetected instead of hidden or observed and is worth noting
+hidden or observed and is worth noting
+hidden or observed and is worth noting that using smelling or any other vague
+that using smelling or any other vague
+that using smelling or any other vague sense is largely up to the
+sense is largely up to the
+sense is largely up to the interpretation of the GM to allow or
+interpretation of the GM to allow or
+interpretation of the GM to allow or interpret how it will function in any
+interpret how it will function in any
+interpret how it will function in any given situation
+given situation
+given situation the last major element that a fixed
+the last major element that a fixed
+the last major element that a fixed perception is lighting there are three
+perception is lighting there are three
+perception is lighting there are three broad categories for lighting and
+broad categories for lighting and
+broad categories for lighting and Pathfinder bright light is the default
+Pathfinder bright light is the default
+Pathfinder bright light is the default norm and is created by sunlight and
+norm and is created by sunlight and
+norm and is created by sunlight and other fix like spells and lanterns
+other fix like spells and lanterns
+other fix like spells and lanterns simply put in bright light conditions
+simply put in bright light conditions
+simply put in bright light conditions aimée creature are odd
+aimée creature are odd
+aimée creature are odd that's not trying to avoid attention
+that's not trying to avoid attention
+that's not trying to avoid attention should be able to be clearly seen by
+should be able to be clearly seen by
+should be able to be clearly seen by anyone with average vision or better
+anyone with average vision or better
+anyone with average vision or better although most creatures function
+although most creatures function
+although most creatures function normally in bright light some monsters
+normally in bright light some monsters
+normally in bright light some monsters may have difficulty for example drow
+may have difficulty for example drow
+may have difficulty for example drow elves suffer from light blindness that
+elves suffer from light blindness that
+elves suffer from light blindness that inflicts them with the dazzled condition
+inflicts them with the dazzled condition
+inflicts them with the dazzled condition while within areas of bright light dim
+while within areas of bright light dim
+while within areas of bright light dim light is an area that has illumination
+light is an area that has illumination
+light is an area that has illumination provided by a light source that is
+provided by a light source that is
+provided by a light source that is weaker than bright light candle lit
+weaker than bright light candle lit
+weaker than bright light candle lit rooms a clear night sky lay with a full
+rooms a clear night sky lay with a full
+rooms a clear night sky lay with a full moon and stars out and standing 30 feet
+moon and stars out and standing 30 feet
+moon and stars out and standing 30 feet away from a lit torch are all examples
+away from a lit torch are all examples
+away from a lit torch are all examples of dim light conditions creatures and
+of dim light conditions creatures and
+of dim light conditions creatures and objects in dim light can be observed but
+objects in dim light can be observed but
+objects in dim light can be observed but have the concealed condition unless the
+have the concealed condition unless the
+have the concealed condition unless the creature observing them has a way to
+creature observing them has a way to
+creature observing them has a way to overcome poor lighting for example
+overcome poor lighting for example
+overcome poor lighting for example creatures with low light or dark vision
+creatures with low light or dark vision
+creatures with low light or dark vision can see in dim light as if it was bright
+can see in dim light as if it was bright
+can see in dim light as if it was bright light therefore targets in dim light are
+light therefore targets in dim light are
+light therefore targets in dim light are not concealed to creatures who are using
+not concealed to creatures who are using
+not concealed to creatures who are using low light or dark vision also note that
+low light or dark vision also note that
+low light or dark vision also note that when an item or spell lists the amount
+when an item or spell lists the amount
+when an item or spell lists the amount of distance that it produces bright
+of distance that it produces bright
+of distance that it produces bright light it also produces dim light for an
+light it also produces dim light for an
+light it also produces dim light for an equal number of feet beyond the range of
+equal number of feet beyond the range of
+equal number of feet beyond the range of bright light so for example a torch is
+bright light so for example a torch is
+bright light so for example a torch is listed as producing bright light for 20
+listed as producing bright light for 20
+listed as producing bright light for 20 feet therefore it also produces dim
+feet therefore it also produces dim
+feet therefore it also produces dim light from 21 to 40 feet away in the
+light from 21 to 40 feet away in the
+light from 21 to 40 feet away in the third category of lighting is darkness
+third category of lighting is darkness
+third category of lighting is darkness any creatures are objects within an area
+any creatures are objects within an area
+any creatures are objects within an area of darkness gain the hidden or
+of darkness gain the hidden or
+of darkness gain the hidden or undetected conditions unless the seeker
+undetected conditions unless the seeker
+undetected conditions unless the seeker has dark vision or a precise sense other
+has dark vision or a precise sense other
+has dark vision or a precise sense other than vision creatures without dark
+than vision creatures without dark
+than vision creatures without dark vision gain the Bullington condition
+vision gain the Bullington condition
+vision gain the Bullington condition when perceiving areas of darkness
+okay perception census in states of
+okay perception census in states of awareness can be confusing to a lot of
+awareness can be confusing to a lot of
+awareness can be confusing to a lot of players especially since terms like
+players especially since terms like
+players especially since terms like unnoticed undetected and hidden can mean
+unnoticed undetected and hidden can mean
+unnoticed undetected and hidden can mean the exact same thing to most people but
+the exact same thing to most people but
+the exact same thing to most people but I'm going to try my best to pull it all
+I'm going to try my best to pull it all
+I'm going to try my best to pull it all together so that it makes a little bit
+together so that it makes a little bit
+together so that it makes a little bit of sense here say there is a sneaky
+of sense here say there is a sneaky
+of sense here say there is a sneaky Goblin in the same room as you but you
+Goblin in the same room as you but you
+Goblin in the same room as you but you have no idea they're there that goblin
+have no idea they're there that goblin
+have no idea they're there that goblin has the unnoticed condition being
+has the unnoticed condition being
+has the unnoticed condition being unnoticed has no real mechanical effect
+unnoticed has no real mechanical effect
+unnoticed has no real mechanical effect on you or any of your actions
+on you or any of your actions
+on you or any of your actions but being unnoticed allows the Goblin to
+but being unnoticed allows the Goblin to
+but being unnoticed allows the Goblin to use certain abilities that it has
+use certain abilities that it has
+use certain abilities that it has against you that require the user of
+against you that require the user of
+against you that require the user of those abilities to be unnoticed by their
+those abilities to be unnoticed by their
+those abilities to be unnoticed by their victim since you have no idea the Goblin
+victim since you have no idea the Goblin
+victim since you have no idea the Goblin is there then that goblin is also
+is there then that goblin is also
+is there then that goblin is also undetected the Goblin in this case has
+undetected the Goblin in this case has
+undetected the Goblin in this case has both the unnoticed and undetected
+both the unnoticed and undetected
+both the unnoticed and undetected conditions at the same time in fact any
+conditions at the same time in fact any
+conditions at the same time in fact any time a creature is unnoticed it will by
+time a creature is unnoticed it will by
+time a creature is unnoticed it will by definition also be undetected however
+definition also be undetected however
+definition also be undetected however the opposite is not always true anytime
+the opposite is not always true anytime
+the opposite is not always true anytime a creature is undetected it will not
+a creature is undetected it will not
+a creature is undetected it will not necessarily also be unnoticed undetected
+necessarily also be unnoticed undetected
+necessarily also be unnoticed undetected means you don't know where a creature is
+means you don't know where a creature is
+means you don't know where a creature is this could either be because you have no
+this could either be because you have no
+this could either be because you have no idea that there's a goblin in the room
+idea that there's a goblin in the room
+idea that there's a goblin in the room with you and therefore it is both
+with you and therefore it is both
+with you and therefore it is both unnoticed and undetected or you might
+unnoticed and undetected or you might
+unnoticed and undetected or you might suspect a goblin is in the room with you
+suspect a goblin is in the room with you
+suspect a goblin is in the room with you but not nowhere in the room is hiding
+but not nowhere in the room is hiding
+but not nowhere in the room is hiding maybe you are chasing it and it ran into
+maybe you are chasing it and it ran into
+maybe you are chasing it and it ran into this room you followed it in so you know
+this room you followed it in so you know
+this room you followed it in so you know is hiding somewhere in this room but you
+is hiding somewhere in this room but you
+is hiding somewhere in this room but you don't know exactly where in this case
+don't know exactly where in this case
+don't know exactly where in this case the goblin would be undetected but it
+the goblin would be undetected but it
+the goblin would be undetected but it would not be unnoticed because unnoticed
+would not be unnoticed because unnoticed
+would not be unnoticed because unnoticed applies only when you have no clue that
+applies only when you have no clue that
+applies only when you have no clue that that creature is anywhere nearby moving
+that creature is anywhere nearby moving
+that creature is anywhere nearby moving forward with this example let's say you
+forward with this example let's say you
+forward with this example let's say you follow the Goblin into the room the
+follow the Goblin into the room the
+follow the Goblin into the room the rooms cluttered with supply crates and
+rooms cluttered with supply crates and
+rooms cluttered with supply crates and bear
+bear
+bear and is lit by torches the torches make
+and is lit by torches the torches make
+and is lit by torches the torches make this a brightly lit room so you face no
+this a brightly lit room so you face no
+this a brightly lit room so you face no penalties due to poor lighting you
+penalties due to poor lighting you
+penalties due to poor lighting you perform a seek action to try and find
+perform a seek action to try and find
+perform a seek action to try and find that goblin you tell your GM what your
+that goblin you tell your GM what your
+that goblin you tell your GM what your perception bonus is and they roll the
+perception bonus is and they roll the
+perception bonus is and they roll the check in secret the GM does not tell you
+check in secret the GM does not tell you
+check in secret the GM does not tell you if you succeed or feel the check they
+if you succeed or feel the check they
+if you succeed or feel the check they only tell you that you do not see a
+only tell you that you do not see a
+only tell you that you do not see a goblin anywhere in the room now you saw
+goblin anywhere in the room now you saw
+goblin anywhere in the room now you saw the Goblin run in here and there's no
+the Goblin run in here and there's no
+the Goblin run in here and there's no other doors so you know it's here
+other doors so you know it's here
+other doors so you know it's here somewhere a barrel in the corner strikes
+somewhere a barrel in the corner strikes
+somewhere a barrel in the corner strikes you as suspicious so you walk up and
+you as suspicious so you walk up and
+you as suspicious so you walk up and stab your longsword straight through
+stab your longsword straight through
+stab your longsword straight through that barrel this creates a moment that I
+that barrel this creates a moment that I
+that barrel this creates a moment that I like to call Schrodinger's Goblin there
+like to call Schrodinger's Goblin there
+like to call Schrodinger's Goblin there are only two possible realities here
+are only two possible realities here
+are only two possible realities here either the Goblin is hiding in the
+either the Goblin is hiding in the
+either the Goblin is hiding in the barrel or the Goblin is not hiding in
+barrel or the Goblin is not hiding in
+barrel or the Goblin is not hiding in the barrel and you don't know which of
+the barrel and you don't know which of
+the barrel and you don't know which of those possibilities is correct because
+those possibilities is correct because
+those possibilities is correct because you can't see what's inside the barrel
+you can't see what's inside the barrel
+you can't see what's inside the barrel by running your sword through the barrel
+by running your sword through the barrel
+by running your sword through the barrel you're not attacking a goblin instead
+you're not attacking a goblin instead
+you're not attacking a goblin instead you are attacking the space that you
+you are attacking the space that you
+you are attacking the space that you believe the Goblin is in since the
+believe the Goblin is in since the
+believe the Goblin is in since the Goblin is undetected being that you
+Goblin is undetected being that you
+Goblin is undetected being that you don't know its location the GM makes
+don't know its location the GM makes
+don't know its location the GM makes your attack ro and secret as well as
+your attack ro and secret as well as
+your attack ro and secret as well as also making a flat check vs. DC 11 the
+also making a flat check vs. DC 11 the
+also making a flat check vs. DC 11 the GM does not tell you if your attack was
+GM does not tell you if your attack was
+GM does not tell you if your attack was successful or not only that your sword
+successful or not only that your sword
+successful or not only that your sword pierced through the barrel without
+pierced through the barrel without
+pierced through the barrel without striking flesh that was the outcome but
+striking flesh that was the outcome but
+striking flesh that was the outcome but let's go back to our two possible
+let's go back to our two possible
+let's go back to our two possible realities in reality one the Goblin is
+realities in reality one the Goblin is
+realities in reality one the Goblin is hiding in the barrel which means you
+hiding in the barrel which means you
+hiding in the barrel which means you missed it either the attack roll was
+missed it either the attack roll was
+missed it either the attack roll was lower than the goblins armor class or
+lower than the goblins armor class or
+lower than the goblins armor class or the attack roll was a success but the
+the attack roll was a success but the
+the attack roll was a success but the flat check that the GM rolled was lower
+flat check that the GM rolled was lower
+flat check that the GM rolled was lower than 11
+than 11
+than 11 either way you did not hit the Goblin
+either way you did not hit the Goblin
+either way you did not hit the Goblin which means that the Goblin got lucky in
+which means that the Goblin got lucky in
+which means that the Goblin got lucky in the blade pierced through the barrel
+the blade pierced through the barrel
+the blade pierced through the barrel without cutting it impossible reality
+without cutting it impossible reality
+without cutting it impossible reality number two the Goblin isn't even in the
+number two the Goblin isn't even in the
+number two the Goblin isn't even in the barrel so it doesn't matter what the GM
+barrel so it doesn't matter what the GM
+barrel so it doesn't matter what the GM rolls in secret for your attack or for
+rolls in secret for your attack or for
+rolls in secret for your attack or for that flat check the key here is that all
+that flat check the key here is that all
+that flat check the key here is that all you as a player knows is that you did
+you as a player knows is that you did
+you as a player knows is that you did not stab a goblin when you pushed your
+not stab a goblin when you pushed your
+not stab a goblin when you pushed your sword through the barrel you don't know
+sword through the barrel you don't know
+sword through the barrel you don't know if that's because the Goblin is inside
+if that's because the Goblin is inside
+if that's because the Goblin is inside the barrel and you missed it or if the
+the barrel and you missed it or if the
+the barrel and you missed it or if the Goblin was never inside the barrel in
+Goblin was never inside the barrel in
+Goblin was never inside the barrel in the first place you won't know which of
+the first place you won't know which of
+the first place you won't know which of the two possible realities is correct
+the two possible realities is correct
+the two possible realities is correct until you actually open up the barrel
+until you actually open up the barrel
+until you actually open up the barrel and look inside of it on the gun was
+and look inside of it on the gun was
+and look inside of it on the gun was turn you hear frantic footsteps scurry
+turn you hear frantic footsteps scurry
+turn you hear frantic footsteps scurry behind a row of crates you're not sure
+behind a row of crates you're not sure
+behind a row of crates you're not sure exactly which of the crates the Goblin
+exactly which of the crates the Goblin
+exactly which of the crates the Goblin is behind but take another seek action
+is behind but take another seek action
+is behind but take another seek action using your hearing to track it the GM
+using your hearing to track it the GM
+using your hearing to track it the GM rolls this in secret and tells you you
+rolls this in secret and tells you you
+rolls this in secret and tells you you can hear fate whimpering behind the
+can hear fate whimpering behind the
+can hear fate whimpering behind the leftmost crate you succeeded on the
+leftmost crate you succeeded on the
+leftmost crate you succeeded on the perception check for seeking which moved
+perception check for seeking which moved
+perception check for seeking which moved the goblins state of awareness one step
+the goblins state of awareness one step
+the goblins state of awareness one step from undetected to hidden and again
+from undetected to hidden and again
+from undetected to hidden and again hidden means you know the exact location
+hidden means you know the exact location
+hidden means you know the exact location of a target but you cannot see them and
+of a target but you cannot see them and
+of a target but you cannot see them and since you are seeking with hearing which
+since you are seeking with hearing which
+since you are seeking with hearing which is an imprecise sense that's the most
+is an imprecise sense that's the most
+is an imprecise sense that's the most beneficial state of awareness you can
+beneficial state of awareness you can
+beneficial state of awareness you can have you cannot observe a target with
+have you cannot observe a target with
+have you cannot observe a target with hearing alone
+hearing alone
+hearing alone so you know for certain the Goblin is
+so you know for certain the Goblin is
+so you know for certain the Goblin is behind the left crate so you walk around
+behind the left crate so you walk around
+behind the left crate so you walk around that crate and you look down you're now
+that crate and you look down you're now
+that crate and you look down you're now perceiving a poor frightened Goblin with
+perceiving a poor frightened Goblin with
+perceiving a poor frightened Goblin with vision which is a precise sense
+vision which is a precise sense
+vision which is a precise sense therefore the goblins awareness
+therefore the goblins awareness
+therefore the goblins awareness condition increases to observed and you
+condition increases to observed and you
+condition increases to observed and you can now interact with that goblin freely
+can now interact with that goblin freely
+can now interact with that goblin freely without any penalties or flat checks in
+without any penalties or flat checks in
+without any penalties or flat checks in this video we discussed the basics of
+this video we discussed the basics of
+this video we discussed the basics of perception as a reminder this video has
+perception as a reminder this video has
+perception as a reminder this video has served to lay a foundation for future
+served to lay a foundation for future
+served to lay a foundation for future videos that will dive deeper into
+videos that will dive deeper into
+videos that will dive deeper into concepts like invisibility initiative
+concepts like invisibility initiative
+concepts like invisibility initiative and stealth perception is a measure of
+and stealth perception is a measure of
+and stealth perception is a measure of how aware a character is and is role to
+how aware a character is and is role to
+how aware a character is and is role to determine if they notice something the
+determine if they notice something the
+determine if they notice something the base perception bonus is the character's
+base perception bonus is the character's
+base perception bonus is the character's wisdom modifier plus their perception
+wisdom modifier plus their perception
+wisdom modifier plus their perception proficiency bonus a creatures perception
+proficiency bonus a creatures perception
+proficiency bonus a creatures perception DC is 10 plus their perception bonus
+DC is 10 plus their perception bonus
+DC is 10 plus their perception bonus this score is used to contested temps by
+this score is used to contested temps by
+this score is used to contested temps by others to avoid that creatures attention
+others to avoid that creatures attention
+others to avoid that creatures attention creatures perceive each other
+creatures perceive each other
+creatures perceive each other according to four states of awareness
+according to four states of awareness
+according to four states of awareness the first state is called unnoticed and
+the first state is called unnoticed and
+the first state is called unnoticed and it applies to any creature you have
+it applies to any creature you have
+it applies to any creature you have absolutely no idea is present you cannot
+absolutely no idea is present you cannot
+absolutely no idea is present you cannot interact directly with an unnoticed
+interact directly with an unnoticed
+interact directly with an unnoticed creature but having the unnoticed
+creature but having the unnoticed
+creature but having the unnoticed condition may allow that creature to use
+condition may allow that creature to use
+condition may allow that creature to use certain abilities that function only
+certain abilities that function only
+certain abilities that function only when the user is unnoticed by their
+when the user is unnoticed by their
+when the user is unnoticed by their target the next stage of awareness is
+target the next stage of awareness is
+target the next stage of awareness is undetected undetected means you do not
+undetected undetected means you do not
+undetected undetected means you do not know a creatures location if you do not
+know a creatures location if you do not
+know a creatures location if you do not know a creatures location cause you're
+know a creatures location cause you're
+know a creatures location cause you're not even aware of that it's present then
+not even aware of that it's present then
+not even aware of that it's present then that creature is both unnoticed and
+that creature is both unnoticed and
+that creature is both unnoticed and undetected if you know a creature is
+undetected if you know a creature is
+undetected if you know a creature is present but not its exact location maybe
+present but not its exact location maybe
+present but not its exact location maybe because you hear a suspicious sound in a
+because you hear a suspicious sound in a
+because you hear a suspicious sound in a dark room then the creature is only
+dark room then the creature is only
+dark room then the creature is only undetected when a creature is undetected
+undetected when a creature is undetected
+undetected when a creature is undetected you are flat-footed against its attacks
+you are flat-footed against its attacks
+you are flat-footed against its attacks and since you do not know where the
+and since you do not know where the
+and since you do not know where the creature is you cannot attack
+creature is you cannot attack
+creature is you cannot attack get directly but may choose to attack
+get directly but may choose to attack
+get directly but may choose to attack the space where you think it is when
+the space where you think it is when
+the space where you think it is when doing so the GM Rose your tech for you
+doing so the GM Rose your tech for you
+doing so the GM Rose your tech for you in secret along with a DC 11 flat check
+in secret along with a DC 11 flat check
+in secret along with a DC 11 flat check the results of the check being if it is
+the results of the check being if it is
+the results of the check being if it is a success or a failure is not revealed
+a success or a failure is not revealed
+a success or a failure is not revealed to the player the player is only told if
+to the player the player is only told if
+to the player the player is only told if they hit something or did not and note
+they hit something or did not and note
+they hit something or did not and note that flat checks are not required for
+that flat checks are not required for
+that flat checks are not required for area effects like for example a fireball
+area effects like for example a fireball
+area effects like for example a fireball spell the next state of awareness is
+spell the next state of awareness is
+spell the next state of awareness is called hidden when a target is hidden
+called hidden when a target is hidden
+called hidden when a target is hidden from you you know exactly what space
+from you you know exactly what space
+from you you know exactly what space they are in but you cannot see them the
+they are in but you cannot see them the
+they are in but you cannot see them the hidden condition works exactly like
+hidden condition works exactly like
+hidden condition works exactly like undetected except the player rolls their
+undetected except the player rolls their
+undetected except the player rolls their own attacks and the DC 11 flat check
+own attacks and the DC 11 flat check
+own attacks and the DC 11 flat check instead of the GM rolling those in
+instead of the GM rolling those in
+instead of the GM rolling those in secret and the final state of awareness
+secret and the final state of awareness
+secret and the final state of awareness is observed when you can see your target
+is observed when you can see your target
+is observed when you can see your target it is observed there are no special
+it is observed there are no special
+it is observed there are no special penalties applied when you are observing
+penalties applied when you are observing
+penalties applied when you are observing your target but it is worth noting that
+your target but it is worth noting that
+your target but it is worth noting that if you can see them but not see them
+if you can see them but not see them
+if you can see them but not see them perfectly clear
+perfectly clear
+perfectly clear then the GM may grant that target the
+then the GM may grant that target the
+then the GM may grant that target the concealed condition when you attack a
+concealed condition when you attack a
+concealed condition when you attack a concealed target you must pass a DC 5
+concealed target you must pass a DC 5
+concealed target you must pass a DC 5 flat check or your attack automatically
+flat check or your attack automatically
+flat check or your attack automatically misses no matter what was rolled on that
+misses no matter what was rolled on that
+misses no matter what was rolled on that attack even if it's a natural 20 the
+attack even if it's a natural 20 the
+attack even if it's a natural 20 the seek action is used when a character
+seek action is used when a character
+seek action is used when a character wishes to improve their awareness of a
+wishes to improve their awareness of a
+wishes to improve their awareness of a target this is done with a perception
+target this is done with a perception
+target this is done with a perception check contested by the stealth DC of
+check contested by the stealth DC of
+check contested by the stealth DC of anything hidden in that field of view
+anything hidden in that field of view
+anything hidden in that field of view unlike with moose checks in the game
+unlike with moose checks in the game
+unlike with moose checks in the game rolls for seeking are made secretly by
+rolls for seeking are made secretly by
+rolls for seeking are made secretly by the GM who then tells the player what
+the GM who then tells the player what
+the GM who then tells the player what they see or what they don't see the
+they see or what they don't see the
+they see or what they don't see the result of the roll and if it was a
+result of the roll and if it was a
+result of the roll and if it was a success or failure are not revealed to
+success or failure are not revealed to
+success or failure are not revealed to the player with a successful seek action
+the player with a successful seek action
+the player with a successful seek action the awareness state of the target
+the awareness state of the target
+the awareness state of the target increases by one step from undetected to
+increases by one step from undetected to
+increases by one step from undetected to hidden to observed critically succeeding
+hidden to observed critically succeeding
+hidden to observed critically succeeding seek action increases the awareness by
+seek action increases the awareness by
+seek action increases the awareness by two stages however the highest level of
+two stages however the highest level of
+two stages however the highest level of awareness you can have with a creature
+awareness you can have with a creature
+awareness you can have with a creature is limited by what since you are using
+is limited by what since you are using
+is limited by what since you are using to detect them and if you are using
+to detect them and if you are using
+to detect them and if you are using vision then you are further elimi 'td by
+vision then you are further elimi 'td by
+vision then you are further elimi 'td by the area's lighting since has come in
+the area's lighting since has come in
+the area's lighting since has come in three varieties precise imprecise and
+three varieties precise imprecise and
+three varieties precise imprecise and vague precise in psa's like vision are
+vague precise in psa's like vision are
+vague precise in psa's like vision are the only sense is able to observe a
+the only sense is able to observe a
+the only sense is able to observe a target when using an imprecise sense
+target when using an imprecise sense
+target when using an imprecise sense like hearing you are limited to the
+like hearing you are limited to the
+like hearing you are limited to the hidden state of awareness at best you
+hidden state of awareness at best you
+hidden state of awareness at best you can know where a target is by hearing
+can know where a target is by hearing
+can know where a target is by hearing alone but you cannot see them and
+alone but you cannot see them and
+alone but you cannot see them and therefore cannot gain the observed
+therefore cannot gain the observed
+therefore cannot gain the observed awareness state vague senses like smell
+awareness state vague senses like smell
+awareness state vague senses like smell might be able to remove the unnoticed
+might be able to remove the unnoticed
+might be able to remove the unnoticed condition from a target and make them
+condition from a target and make them
+condition from a target and make them only undetected but likely would not be
+only undetected but likely would not be
+only undetected but likely would not be able to improve your awareness of the
+able to improve your awareness of the
+able to improve your awareness of the target to hidden and this is all largely
+target to hidden and this is all largely
+target to hidden and this is all largely up to the GM to determine exactly what
+up to the GM to determine exactly what
+up to the GM to determine exactly what is possible with a vague sense there are
+is possible with a vague sense there are
+is possible with a vague sense there are also three levels of light conditions
+also three levels of light conditions
+also three levels of light conditions areas of bright light are bright enough
+areas of bright light are bright enough
+areas of bright light are bright enough that details can be clearly seen in most
+that details can be clearly seen in most
+that details can be clearly seen in most creatures suffer no penalties seeking a
+creatures suffer no penalties seeking a
+creatures suffer no penalties seeking a target in bright light areas with poor
+target in bright light areas with poor
+target in bright light areas with poor illumination are dimly lit candlelight
+illumination are dimly lit candlelight
+illumination are dimly lit candlelight or outdoors under a full moon for
+or outdoors under a full moon for
+or outdoors under a full moon for example would be dim light conditions
+example would be dim light conditions
+example would be dim light conditions you can still see and observe targets in
+you can still see and observe targets in
+you can still see and observe targets in dim light but unless you have low light
+dim light but unless you have low light
+dim light but unless you have low light or dark vision all targets in dim light
+or dark vision all targets in dim light
+or dark vision all targets in dim light are going to gain the concealed
+are going to gain the concealed
+are going to gain the concealed condition when a target has the
+condition when a target has the
+condition when a target has the concealed condition you must pass a DC v
+concealed condition you must pass a DC v
+concealed condition you must pass a DC v flat check for any direct attack against
+flat check for any direct attack against
+flat check for any direct attack against them just like with attacking an
+them just like with attacking an
+them just like with attacking an undetected or hidden target if you fail
+undetected or hidden target if you fail
+undetected or hidden target if you fail that flat check then it doesn't matter
+that flat check then it doesn't matter
+that flat check then it doesn't matter what you roll on your attack roll it
+what you roll on your attack roll it
+what you roll on your attack roll it automatically misses that target and
+automatically misses that target and
+automatically misses that target and lasts in areas of darkness you can't see
+lasts in areas of darkness you can't see
+lasts in areas of darkness you can't see at all unless you have dark vision
+at all unless you have dark vision
+at all unless you have dark vision and this means that without dark vision
+and this means that without dark vision
+and this means that without dark vision the best state of awareness you can have
+the best state of awareness you can have
+the best state of awareness you can have with a target in darkness is hidden and
+with a target in darkness is hidden and
+with a target in darkness is hidden and not observed
+not observed
+not observed with that we'll bring this video to a
+with that we'll bring this video to a
+with that we'll bring this video to a close if you found this video helpful
+close if you found this video helpful
+close if you found this video helpful please give us a like and don't forget
+please give us a like and don't forget
+please give us a like and don't forget to click that subscribe button and the
+to click that subscribe button and the
+to click that subscribe button and the bell so you never miss out on our future
+bell so you never miss out on our future
+bell so you never miss out on our future videos leave us a comment letting us
+videos leave us a comment letting us
+videos leave us a comment letting us know what topics you'd like to see
+know what topics you'd like to see
+know what topics you'd like to see covered in our future videos and we can
+covered in our future videos and we can
+covered in our future videos and we can always be reached through our Twitter
+always be reached through our Twitter
+always be reached through our Twitter and Facebook pages too if you'd like to
+and Facebook pages too if you'd like to
+and Facebook pages too if you'd like to use some of the maps that we feature in
+use some of the maps that we feature in
+use some of the maps that we feature in our videos and your own games you can
+our videos and your own games you can
+our videos and your own games you can find them at maps of mastery a link to
+find them at maps of mastery a link to
+find them at maps of mastery a link to that store can be found in the
+that store can be found in the
+that store can be found in the description thanks for watching take
+description thanks for watching take
+description thanks for watching take care and we'll see you soon with more
+care and we'll see you soon with more
+care and we'll see you soon with more basics for your favorite tabletop games

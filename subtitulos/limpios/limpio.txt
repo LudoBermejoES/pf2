@@ -1,0 +1,411 @@
+=== 001: 001 - Pathfinder (2e)： The 3-Action Economy.en.srt ===
+hello and welcome to the three action
+hello and welcome to the three action economy in Pathfinder second edition by
+economy in Pathfinder second edition by
+economy in Pathfinder second edition by how it's played
+how it's played
+how it's played in Pathfinder's second edition time is
+in Pathfinder's second edition time is
+in Pathfinder's second edition time is measured in different ways depending on
+measured in different ways depending on
+measured in different ways depending on the circumstances of the narrative the
+the circumstances of the narrative the
+the circumstances of the narrative the downtime between Adventures is measured
+downtime between Adventures is measured
+downtime between Adventures is measured in days exploration is measured in
+in days exploration is measured in
+in days exploration is measured in minutes and hours and combat encounters
+minutes and hours and combat encounters
+minutes and hours and combat encounters are measured in rounds and turns I'm not
+are measured in rounds and turns I'm not
+are measured in rounds and turns I'm not going to get too deep into the structure
+going to get too deep into the structure
+going to get too deep into the structure of rounds and turns here make sure you
+of rounds and turns here make sure you
+of rounds and turns here make sure you check out my videos on Initiative for
+check out my videos on Initiative for
+check out my videos on Initiative for more information about that but what is
+more information about that but what is
+more information about that but what is important to know for this discussion is
+important to know for this discussion is
+important to know for this discussion is during each creature's turn they have a
+during each creature's turn they have a
+during each creature's turn they have a finite number of actions they can spend
+finite number of actions they can spend
+finite number of actions they can spend in order to describe the things they
+in order to describe the things they
+in order to describe the things they wish their character to do during that
+wish their character to do during that
+wish their character to do during that turn at the start of each player's turn
+turn at the start of each player's turn
+turn at the start of each player's turn they are granted three actions to spend
+they are granted three actions to spend
+they are granted three actions to spend on their turn and one reaction that can
+on their turn and one reaction that can
+on their turn and one reaction that can be spent at any time including during
+be spent at any time including during
+be spent at any time including during another creature's turn I find it best
+another creature's turn I find it best
+another creature's turn I find it best to think of these actions and reactions
+to think of these actions and reactions
+to think of these actions and reactions as currencies that the player can spend
+as currencies that the player can spend
+as currencies that the player can spend the think of it like Monopoly money at
+the think of it like Monopoly money at
+the think of it like Monopoly money at the start of every player's turn the GM
+the start of every player's turn the GM
+the start of every player's turn the GM gives them three bills Each of which is
+gives them three bills Each of which is
+gives them three bills Each of which is worth one action and also a fourth bill
+worth one action and also a fourth bill
+worth one action and also a fourth bill of a different color that is worth one
+of a different color that is worth one
+of a different color that is worth one reaction they have until the end of
+reaction they have until the end of
+reaction they have until the end of their turn to spend the three action
+their turn to spend the three action
+their turn to spend the three action bills any that aren't spent by the end
+bills any that aren't spent by the end
+bills any that aren't spent by the end of their turn are lost and they have
+of their turn are lost and they have
+of their turn are lost and they have until the start of their next turn to
+until the start of their next turn to
+until the start of their next turn to spend their one reaction bill or it is
+spend their one reaction bill or it is
+spend their one reaction bill or it is lost as well and then the cycle repeats
+lost as well and then the cycle repeats
+lost as well and then the cycle repeats itself and they're granted three more
+itself and they're granted three more
+itself and they're granted three more action bills in one new reaction bill at
+action bills in one new reaction bill at
+action bills in one new reaction bill at the start of that next turn
+the start of that next turn
+the start of that next turn Pathfinder uses simple notations to show
+Pathfinder uses simple notations to show
+Pathfinder uses simple notations to show the cost of activities which are
+the cost of activities which are
+the cost of activities which are represented by a number of Black Diamond
+represented by a number of Black Diamond
+represented by a number of Black Diamond errors and these are displayed in the
+errors and these are displayed in the
+errors and these are displayed in the descriptions of abilities to note their
+descriptions of abilities to note their
+descriptions of abilities to note their cost for example the strike action which
+cost for example the strike action which
+cost for example the strike action which is a basic attack in Pathfinder shows
+is a basic attack in Pathfinder shows
+is a basic attack in Pathfinder shows one black diamond Arrow at the top of
+one black diamond Arrow at the top of
+one black diamond Arrow at the top of its description which means it costs one
+its description which means it costs one
+its description which means it costs one action to perform and yes this does mean
+--- TOTAL UNIQUE LINES: 585 ---
+
+=== 002: 002 - Proficiency in Pathfinder 2nd Edition -- UPDATED!.en.srt ===
+foreign
+Ty in Pathfinder second edition
+Ty in Pathfinder second edition proficiency is included in virtually all
+proficiency is included in virtually all
+proficiency is included in virtually all stats that determine what a character
+stats that determine what a character
+stats that determine what a character can do and How likely they are to
+can do and How likely they are to
+can do and How likely they are to succeed at a given action
+succeed at a given action
+succeed at a given action weapon proficiency is included in a tag
+weapon proficiency is included in a tag
+weapon proficiency is included in a tag bonuses armor proficiency is used to
+bonuses armor proficiency is used to
+bonuses armor proficiency is used to calculate armor class saving through
+calculate armor class saving through
+calculate armor class saving through proficiencies are included when making
+proficiencies are included when making
+proficiencies are included when making saving throws and so on typically these
+saving throws and so on typically these
+saving throws and so on typically these stats and bonuses are all calculated as
+stats and bonuses are all calculated as
+stats and bonuses are all calculated as an ability modifier like strength or
+an ability modifier like strength or
+an ability modifier like strength or Charisma plus a proficiency bonus
+Charisma plus a proficiency bonus
+Charisma plus a proficiency bonus proficiency is a simple way of assessing
+proficiency is a simple way of assessing
+proficiency is a simple way of assessing a character's General level of training
+a character's General level of training
+a character's General level of training and aptitude at a given task and unlike
+and aptitude at a given task and unlike
+and aptitude at a given task and unlike some other fantasy role-playing games
+some other fantasy role-playing games
+some other fantasy role-playing games you might be used to in Pathfinder
+you might be used to in Pathfinder
+you might be used to in Pathfinder second edition proficiency is not one
+second edition proficiency is not one
+second edition proficiency is not one flat bonus but instead is broken into
+flat bonus but instead is broken into
+flat bonus but instead is broken into five ranks of increasing value untrained
+five ranks of increasing value untrained
+five ranks of increasing value untrained trained expert master and legendary
+trained expert master and legendary
+trained expert master and legendary so instead of having all characters who
+so instead of having all characters who
+so instead of having all characters who are proficient at a skill having the
+are proficient at a skill having the
+are proficient at a skill having the same proficiency bonus those who are
+same proficiency bonus those who are
+same proficiency bonus those who are experts at the skill will have a higher
+experts at the skill will have a higher
+experts at the skill will have a higher bonus than those who are merely trained
+bonus than those who are merely trained
+bonus than those who are merely trained by default characters are considered
+by default characters are considered
+by default characters are considered untrained in all proficiencies unless a
+untrained in all proficiencies unless a
+untrained in all proficiencies unless a specific feature of the game grants them
+specific feature of the game grants them
+specific feature of the game grants them a higher rank if you are untrained at a
+a higher rank if you are untrained at a
+a higher rank if you are untrained at a given task then you do not receive any
+given task then you do not receive any
+given task then you do not receive any proficiency bonus at all and therefore
+proficiency bonus at all and therefore
+proficiency bonus at all and therefore will only receive a bonus from the
+will only receive a bonus from the
+will only receive a bonus from the associated ability modifier if your
+associated ability modifier if your
+associated ability modifier if your proficiency rank in a given task is
+proficiency rank in a given task is
+proficiency rank in a given task is trained or higher then your proficiency
+trained or higher then your proficiency
+trained or higher then your proficiency bonus will be your character's level
+bonus will be your character's level
+bonus will be your character's level plus two if you're trained level plus
+plus two if you're trained level plus
+plus two if you're trained level plus four if you're an expert level plus six
+four if you're an expert level plus six
+four if you're an expert level plus six if you're a master and level plus eight
+if you're a master and level plus eight
+if you're a master and level plus eight if you have a legendary proficiency
+if you have a legendary proficiency
+if you have a legendary proficiency one important point to reinforce here is
+one important point to reinforce here is
+one important point to reinforce here is if you are untrained then you do not add
+if you are untrained then you do not add
+if you are untrained then you do not add your level to the role you only add your
+your level to the role you only add your
+your level to the role you only add your level if you are at least trained and
+level if you are at least trained and
+level if you are at least trained and therefore the base modifier for
+therefore the base modifier for
+therefore the base modifier for untrained checks will only be the
+untrained checks will only be the
+untrained checks will only be the associated ability modifier for example
+associated ability modifier for example
+associated ability modifier for example let's say a party of three fifth level
+let's say a party of three fifth level
+--- TOTAL UNIQUE LINES: 427 ---
+
+=== 003: 003 - Pathfinder (2e)： The Multiple Attack Penalty.en.srt ===
+hello and welcome to multiple attack
+hello and welcome to multiple attack penalties in Pathfinder second edition
+penalties in Pathfinder second edition
+penalties in Pathfinder second edition by how it's played in this video I'll
+by how it's played in this video I'll
+by how it's played in this video I'll provide an overview of the multiple
+provide an overview of the multiple
+provide an overview of the multiple attack penalty how it works and ways to
+attack penalty how it works and ways to
+attack penalty how it works and ways to mitigate it including some options for
+mitigate it including some options for
+mitigate it including some options for your third actions that might be wiser
+your third actions that might be wiser
+your third actions that might be wiser than taking a negative 10 penalty
+than taking a negative 10 penalty
+than taking a negative 10 penalty Pathfinder uses a system of actions that
+Pathfinder uses a system of actions that
+Pathfinder uses a system of actions that players are allowed to spend during
+players are allowed to spend during
+players are allowed to spend during their turns to perform various Feats of
+their turns to perform various Feats of
+their turns to perform various Feats of heroics generally speaking players are
+heroics generally speaking players are
+heroics generally speaking players are allowed to spin their three actions per
+allowed to spin their three actions per
+allowed to spin their three actions per turn however they wish in each ability
+turn however they wish in each ability
+turn however they wish in each ability usually works the same regardless of
+usually works the same regardless of
+usually works the same regardless of where in the action order it is used or
+where in the action order it is used or
+where in the action order it is used or if the same action is repeated over and
+if the same action is repeated over and
+if the same action is repeated over and over but there are a few exceptions and
+over but there are a few exceptions and
+over but there are a few exceptions and the most common of those is probably
+the most common of those is probably
+the most common of those is probably attacking there are diminishing returns
+attacking there are diminishing returns
+attacking there are diminishing returns when making a repeated weapon attacks in
+when making a repeated weapon attacks in
+when making a repeated weapon attacks in that every attack after the first will
+that every attack after the first will
+that every attack after the first will suffer from the multiple attack penalty
+suffer from the multiple attack penalty
+suffer from the multiple attack penalty with the multiple attack penalty says is
+with the multiple attack penalty says is
+with the multiple attack penalty says is that every attack during a turn after
+that every attack during a turn after
+that every attack during a turn after the first suffers a penalty there is a
+the first suffers a penalty there is a
+the first suffers a penalty there is a negative five penalty applied to the
+negative five penalty applied to the
+negative five penalty applied to the second attack in a turn and a negative
+second attack in a turn and a negative
+second attack in a turn and a negative 10 penalty applied to the third and if
+10 penalty applied to the third and if
+10 penalty applied to the third and if you are able to make more than four
+you are able to make more than four
+you are able to make more than four attacks on a turn thanks perhaps to the
+attacks on a turn thanks perhaps to the
+attacks on a turn thanks perhaps to the hay spell then all attacks beyond the
+hay spell then all attacks beyond the
+hay spell then all attacks beyond the third also suffer the negative 10
+third also suffer the negative 10
+third also suffer the negative 10 penalty there is one notable exception
+penalty there is one notable exception
+penalty there is one notable exception to this and that is when fighting with a
+to this and that is when fighting with a
+to this and that is when fighting with a weapon that has the agile trait like
+weapon that has the agile trait like
+weapon that has the agile trait like daggers short swords and Fists
+daggers short swords and Fists
+daggers short swords and Fists if you use an agile weapon you only
+if you use an agile weapon you only
+if you use an agile weapon you only suffer a negative 4 penalty for the
+suffer a negative 4 penalty for the
+suffer a negative 4 penalty for the second attack made during a turn and a
+second attack made during a turn and a
+second attack made during a turn and a negative eight penalty for all further
+negative eight penalty for all further
+negative eight penalty for all further attacks
+attacks
+attacks so now that we understand what the
+so now that we understand what the
+so now that we understand what the multiple attack penalty is the next
+multiple attack penalty is the next
+multiple attack penalty is the next question might be what exactly is an
+question might be what exactly is an
+question might be what exactly is an attack well simply put an attack is
+attack well simply put an attack is
+attack well simply put an attack is anything that has the attack trait for
+anything that has the attack trait for
+anything that has the attack trait for example if we look at the description
+example if we look at the description
+example if we look at the description for strike we see that it doesn't make
+for strike we see that it doesn't make
+for strike we see that it doesn't make any mention of this multiple attack
+any mention of this multiple attack
+any mention of this multiple attack penalty but it does have the attack
+--- TOTAL UNIQUE LINES: 488 ---
+
+=== 004: 004 - Pathfinder (2e)： Criticals and Degrees of Success.en.srt ===
+hello and welcome to criticals in
+hello and welcome to criticals in Pathfinder second edition by how it's
+Pathfinder second edition by how it's
+Pathfinder second edition by how it's played in Pathfinder most actions result
+played in Pathfinder most actions result
+played in Pathfinder most actions result in one of four degrees of success
+in one of four degrees of success
+in one of four degrees of success success failure critical success and
+success failure critical success and
+success failure critical success and critical failure success and failure are
+critical failure success and failure are
+critical failure success and failure are often understood but the two critical
+often understood but the two critical
+often understood but the two critical results can sometimes cause confusion so
+results can sometimes cause confusion so
+results can sometimes cause confusion so in this video I'm going to cover how to
+in this video I'm going to cover how to
+in this video I'm going to cover how to determine the degree of success for a
+determine the degree of success for a
+determine the degree of success for a chick and specifically how critical
+chick and specifically how critical
+chick and specifically how critical successes work with damage
+successes work with damage
+successes work with damage determining success or failure is fairly
+determining success or failure is fairly
+determining success or failure is fairly easy each check involves rolling a D20
+easy each check involves rolling a D20
+easy each check involves rolling a D20 adding or subtracting modifiers to it
+adding or subtracting modifiers to it
+adding or subtracting modifiers to it and then comparing that total to a
+and then comparing that total to a
+and then comparing that total to a difficulty class or DC in the case of
+difficulty class or DC in the case of
+difficulty class or DC in the case of most attacks the target's Armor class is
+most attacks the target's Armor class is
+most attacks the target's Armor class is the DC for that check so for example if
+the DC for that check so for example if
+the DC for that check so for example if an enemy had an armor class of 24 you
+an enemy had an armor class of 24 you
+an enemy had an armor class of 24 you would need to roll a 24 or higher for
+would need to roll a 24 or higher for
+would need to roll a 24 or higher for that check to be a success and hit them
+that check to be a success and hit them
+that check to be a success and hit them if you roll a 23 or lower you fail and
+if you roll a 23 or lower you fail and
+if you roll a 23 or lower you fail and it's important to note that the person
+it's important to note that the person
+it's important to note that the person rolling the die wins the ties that's
+rolling the die wins the ties that's
+rolling the die wins the ties that's pretty straightforward and probably what
+pretty straightforward and probably what
+pretty straightforward and probably what you're used to if you've played other
+you're used to if you've played other
+you're used to if you've played other D20 role-playing games but critical
+D20 role-playing games but critical
+D20 role-playing games but critical results is where things differ with
+results is where things differ with
+results is where things differ with Pathfinder second edition here a check
+Pathfinder second edition here a check
+Pathfinder second edition here a check results in a critical when the modified
+results in a critical when the modified
+results in a critical when the modified total is at least 10 more or 10 less
+total is at least 10 more or 10 less
+total is at least 10 more or 10 less than the DC
+than the DC
+than the DC so going back to our example if you're
+so going back to our example if you're
+so going back to our example if you're attacking an enemy that has an armor
+attacking an enemy that has an armor
+attacking an enemy that has an armor class of 24 roll a 19 on the die and
+class of 24 roll a 19 on the die and
+class of 24 roll a 19 on the die and have an attack bonus of plus 15 the
+have an attack bonus of plus 15 the
+have an attack bonus of plus 15 the total for that check is 34 which is 10
+total for that check is 34 which is 10
+total for that check is 34 which is 10 higher than the target DC and therefore
+higher than the target DC and therefore
+higher than the target DC and therefore the result is a critical success as
+the result is a critical success as
+the result is a critical success as another example let's say the party
+another example let's say the party
+another example let's say the party wizard is making an untrained Athletics
+wizard is making an untrained Athletics
+wizard is making an untrained Athletics check they have a modifier of plus 0 and
+check they have a modifier of plus 0 and
+check they have a modifier of plus 0 and the DC for the check is 16. they roll a
+the DC for the check is 16. they roll a
+the DC for the check is 16. they roll a 4 and the nine plus zero so it's also a
+4 and the nine plus zero so it's also a
+4 and the nine plus zero so it's also a total of four which is more than 10
+total of four which is more than 10
+total of four which is more than 10 lower than the DC so they critically
+lower than the DC so they critically
+lower than the DC so they critically failed this check as you can see in
+failed this check as you can see in
+failed this check as you can see in Pathfinder second edition there are more
+Pathfinder second edition there are more
+Pathfinder second edition there are more ways to score a critical success or a
+ways to score a critical success or a
+ways to score a critical success or a critical failure than rolling a natural
+--- TOTAL UNIQUE LINES: 604 ---

@@ -1,0 +1,353 @@
+hello and welcome to basics for gamers
+hello and welcome to basics for gamers presents the basics of flanking in
+presents the basics of flanking in
+presents the basics of flanking in pathfinders second edition
+pathfinders second edition
+pathfinders second edition flaking occurs when a creature has to
+flaking occurs when a creature has to
+flaking occurs when a creature has to defend itself from enemies on either
+defend itself from enemies on either
+defend itself from enemies on either side of it their attention is split
+side of it their attention is split
+side of it their attention is split which makes them more vulnerable to
+which makes them more vulnerable to
+which makes them more vulnerable to those who are threatening it a creature
+those who are threatening it a creature
+those who are threatening it a creature that is flanked receives the flat-footed
+that is flanked receives the flat-footed
+that is flanked receives the flat-footed condition which imposes a negative to
+condition which imposes a negative to
+condition which imposes a negative to circumstance penalty to their armor
+circumstance penalty to their armor
+circumstance penalty to their armor class it makes them vulnerable to other
+class it makes them vulnerable to other
+class it makes them vulnerable to other special attacks such as a rogue sneak
+special attacks such as a rogue sneak
+special attacks such as a rogue sneak attack but note a flint creature is only
+attack but note a flint creature is only
+attack but note a flint creature is only flat-footed against those specific
+flat-footed against those specific
+flat-footed against those specific enemies that flank it they do not suffer
+enemies that flank it they do not suffer
+enemies that flank it they do not suffer those penalties against enemies who are
+those penalties against enemies who are
+those penalties against enemies who are not flanking them so how do we determine
+not flanking them so how do we determine
+not flanking them so how do we determine if a creature is being flanked and
+if a creature is being flanked and
+if a creature is being flanked and exactly which of its enemies treat them
+exactly which of its enemies treat them
+exactly which of its enemies treat them as being flat-footed in order for a
+as being flat-footed in order for a
+as being flat-footed in order for a creature to be flanked the following two
+creature to be flanked the following two
+creature to be flanked the following two conditions must be met first it must
+conditions must be met first it must
+conditions must be met first it must have enemies on opposite sides or
+have enemies on opposite sides or
+have enemies on opposite sides or opposite corners of it in second both of
+opposite corners of it in second both of
+opposite corners of it in second both of those enemies must be wielding melee
+those enemies must be wielding melee
+those enemies must be wielding melee weapons or be able to make unarmed
+weapons or be able to make unarmed
+weapons or be able to make unarmed attacks and the flint creature must be
+attacks and the flint creature must be
+attacks and the flint creature must be within reach of both of its enemies if
+within reach of both of its enemies if
+within reach of both of its enemies if both of these requirements are met then
+both of these requirements are met then
+both of these requirements are met then the creature is flanked and suffers a
+the creature is flanked and suffers a
+the creature is flanked and suffers a negative to penalty 2s armor class
+negative to penalty 2s armor class
+negative to penalty 2s armor class against attacks made by only those
+against attacks made by only those
+against attacks made by only those enemies that are flanking it
+enemies that are flanking it
+enemies that are flanking it let's take a closer look at the two
+let's take a closer look at the two
+let's take a closer look at the two requirements for flanking by reviewing
+requirements for flanking by reviewing
+requirements for flanking by reviewing the examples in the core rulebook an
+the examples in the core rulebook an
+the examples in the core rulebook an example 1 we have Valor Rose and Cara
+example 1 we have Valor Rose and Cara
+example 1 we have Valor Rose and Cara battling and ogre are they flanking it
+battling and ogre are they flanking it
+battling and ogre are they flanking it requirement number 1 says the ogre must
+requirement number 1 says the ogre must
+requirement number 1 says the ogre must have enemies on opposite sides or
+have enemies on opposite sides or opposite corners if we draw an imaginary
+opposite corners if we draw an imaginary
+opposite corners if we draw an imaginary line from the center of valor roses
+line from the center of valor roses
+line from the center of valor roses Square to the center of Cairo Square we
+Square to the center of Cairo Square we
+Square to the center of Cairo Square we see that line clearly passes through
+see that line clearly passes through
+see that line clearly passes through opposite borders of the ogre space so
+opposite borders of the ogre space so
+opposite borders of the ogre space so the first requirement is met and we can
+the first requirement is met and we can
+the first requirement is met and we can safely assume they are both wielding
+safely assume they are both wielding
+safely assume they are both wielding melee weapons so the second requirement
+melee weapons so the second requirement
+melee weapons so the second requirement is met as well
+is met as well
+is met as well therefore the ogre is being flanked and
+therefore the ogre is being flanked and
+therefore the ogre is being flanked and does suffer a negative two penalty to
+does suffer a negative two penalty to
+does suffer a negative two penalty to its armor class when being attacked by
+its armor class when being attacked by
+its armor class when being attacked by valorous or kyra in the second example
+valorous or kyra in the second example
+valorous or kyra in the second example mauricio closes from the north valorous
+mauricio closes from the north valorous
+mauricio closes from the north valorous in Cara are flanking the ogre but what
+in Cara are flanking the ogre but what
+in Cara are flanking the ogre but what about Marissa if we draw imaginary lines
+about Marissa if we draw imaginary lines
+about Marissa if we draw imaginary lines from the center of her Square to the
+from the center of her Square to the
+from the center of her Square to the middle of both valor Rose in kyra
+middle of both valor Rose in kyra
+middle of both valor Rose in kyra squares we see that neither of those
+squares we see that neither of those
+squares we see that neither of those lines pass through opposite borders or
+lines pass through opposite borders or
+lines pass through opposite borders or opposite corners of the ogre and
+opposite corners of the ogre and
+opposite corners of the ogre and therefore she is not flanking the ogre
+therefore she is not flanking the ogre
+therefore she is not flanking the ogre although it suffers a penalty to armor
+although it suffers a penalty to armor
+although it suffers a penalty to armor class against Valerie Sin Cara the ogre
+class against Valerie Sin Cara the ogre
+class against Valerie Sin Cara the ogre is not treated as flat-footed against
+is not treated as flat-footed against
+is not treated as flat-footed against Maurizio therefore she makes attack
+Maurizio therefore she makes attack
+Maurizio therefore she makes attack roles against the ogres full armor class
+roles against the ogres full armor class
+roles against the ogres full armor class and may not treat it as being
+and may not treat it as being
+and may not treat it as being flat-footed for any special attacks such
+flat-footed for any special attacks such
+flat-footed for any special attacks such as sneak attack
+as sneak attack
+as sneak attack in the third example Sione and a
+in the third example Sione and a
+in the third example Sione and a Hobgoblin join the battle is Sione being
+Hobgoblin join the battle is Sione being
+Hobgoblin join the battle is Sione being flanked by the ogre and Hobgoblin in
+flanked by the ogre and Hobgoblin in
+flanked by the ogre and Hobgoblin in this case yes she is the first
+this case yes she is the first
+this case yes she is the first requirement says there needs to be
+requirement says there needs to be
+requirement says there needs to be enemies on opposite borders of her and
+enemies on opposite borders of her and
+enemies on opposite borders of her and if we draw a line from the center of the
+if we draw a line from the center of the
+if we draw a line from the center of the ogre to the center of the Hobgoblin we
+ogre to the center of the Hobgoblin we
+ogre to the center of the Hobgoblin we see it does indeed pass through opposite
+see it does indeed pass through opposite
+see it does indeed pass through opposite borders of her square and the second
+borders of her square and the second
+borders of her square and the second requirement says the enemies need to be
+requirement says the enemies need to be
+requirement says the enemies need to be wielding melee weapons or capable of
+wielding melee weapons or capable of
+wielding melee weapons or capable of unarmed attacks and be within reach the
+unarmed attacks and be within reach the
+unarmed attacks and be within reach the Hobgoblin is adjacent and as a large
+Hobgoblin is adjacent and as a large
+Hobgoblin is adjacent and as a large creature the ogre has ten feet of reach
+creature the ogre has ten feet of reach
+creature the ogre has ten feet of reach therefore the second requirement is met
+therefore the second requirement is met
+therefore the second requirement is met and Sione is flat-footed against both
+and Sione is flat-footed against both
+and Sione is flat-footed against both the ogre and the Hobgoblin likewise we
+the ogre and the Hobgoblin likewise we
+the ogre and the Hobgoblin likewise we should check to see if Sione is flanking
+should check to see if Sione is flanking
+should check to see if Sione is flanking the ogre well we have Maurizio on the
+the ogre well we have Maurizio on the
+the ogre well we have Maurizio on the ogres opposite border so that first
+ogres opposite border so that first
+ogres opposite border so that first requirement is met and the second
+requirement is met and the second
+requirement is met and the second requirement depends on what weapon Sione
+requirement depends on what weapon Sione
+requirement depends on what weapon Sione is wielding if she's wielding a dagger
+is wielding if she's wielding a dagger
+is wielding if she's wielding a dagger then no because a dagger can only reach
+then no because a dagger can only reach
+then no because a dagger can only reach five feet away which is the adjacent
+five feet away which is the adjacent
+five feet away which is the adjacent square but if she was wielding a long
+square but if she was wielding a long
+square but if she was wielding a long spear then she would be flanking the
+spear then she would be flanking the
+spear then she would be flanking the ogre because long Spears have a reach of
+ogre because long Spears have a reach of
+ogre because long Spears have a reach of ten feet and at two vertical squares
+ten feet and at two vertical squares
+ten feet and at two vertical squares away the ogre is ten feet away
+away the ogre is ten feet away
+away the ogre is ten feet away but what if Sione and the Hobgoblin were
+but what if Sione and the Hobgoblin were
+but what if Sione and the Hobgoblin were standing over here which Sione still be
+standing over here which Sione still be
+standing over here which Sione still be flanked by the ogre and the Hobgoblin
+flanked by the ogre and the Hobgoblin
+flanked by the ogre and the Hobgoblin yes you would still be flanked even
+yes you would still be flanked even
+yes you would still be flanked even though two squares diagonally is fifteen
+though two squares diagonally is fifteen
+though two squares diagonally is fifteen feet and the ogre only has ten feet of
+feet and the ogre only has ten feet of
+feet and the ogre only has ten feet of reach there is an exception to the rule
+reach there is an exception to the rule
+reach there is an exception to the rule that says attacks with ten feet of reach
+that says attacks with ten feet of reach
+that says attacks with ten feet of reach may attack any target within two squares
+may attack any target within two squares
+may attack any target within two squares including two squares diagonally
+including two squares diagonally
+including two squares diagonally otherwise having reached with your
+otherwise having reached with your
+otherwise having reached with your attacks would have no benefit at all
+attacks would have no benefit at all
+attacks would have no benefit at all against an enemy who is approaching you
+against an enemy who is approaching you
+against an enemy who is approaching you from one of the four diagonals next
+from one of the four diagonals next
+from one of the four diagonals next let's consider Sione moves here
+let's consider Sione moves here
+let's consider Sione moves here is she flanking the ocher no because if
+is she flanking the ocher no because if
+is she flanking the ocher no because if she draws lines from the center of her
+she draws lines from the center of her
+she draws lines from the center of her square to the center of each of her ally
+square to the center of each of her ally
+square to the center of each of her ally squares
+squares
+squares none of them passed through opposite
+none of them passed through opposite
+none of them passed through opposite borders of the ogre
+borders of the ogre
+borders of the ogre but if Marissa moved here she and Sione
+but if Marissa moved here she and Sione
+but if Marissa moved here she and Sione would be flanking the ogre because now
+would be flanking the ogre because now
+would be flanking the ogre because now their line passes through opposite
+their line passes through opposite
+their line passes through opposite corners
+in this video we examined the flanking
+in this video we examined the flanking rules in Pathfinder flanking occurs when
+rules in Pathfinder flanking occurs when
+rules in Pathfinder flanking occurs when a creatures attention is divided by two
+a creatures attention is divided by two
+a creatures attention is divided by two or more enemies on either side of it
+or more enemies on either side of it
+or more enemies on either side of it their attention is split which makes it
+their attention is split which makes it
+their attention is split which makes it more difficult for them to defend
+more difficult for them to defend
+more difficult for them to defend themselves there are two requirements
+themselves there are two requirements
+themselves there are two requirements that must be met in order for flanking
+that must be met in order for flanking
+that must be met in order for flanking to occur the first says that you and an
+to occur the first says that you and an
+to occur the first says that you and an allied must be on opposite borders or
+allied must be on opposite borders or
+allied must be on opposite borders or opposite corners of the enemy space and
+opposite corners of the enemy space and
+opposite corners of the enemy space and the second requirement says both you and
+the second requirement says both you and
+the second requirement says both you and your ally must be wielding melee weapons
+your ally must be wielding melee weapons
+your ally must be wielding melee weapons or be able to make unarmed attacks and
+or be able to make unarmed attacks and
+or be able to make unarmed attacks and the enemy must be within both of your
+the enemy must be within both of your
+the enemy must be within both of your reaches in most situations this means
+reaches in most situations this means
+reaches in most situations this means the enemy must be adjacent to you but if
+the enemy must be adjacent to you but if
+the enemy must be adjacent to you but if you are wielding a reach weapon such as
+you are wielding a reach weapon such as
+you are wielding a reach weapon such as a long spear then the enemy may be 10
+a long spear then the enemy may be 10
+a long spear then the enemy may be 10 feet away because a long spur has 10
+feet away because a long spur has 10
+feet away because a long spur has 10 feet of reach large creatures naturally
+feet of reach large creatures naturally
+feet of reach large creatures naturally have 10 feet of reach huge creatures
+have 10 feet of reach huge creatures
+have 10 feet of reach huge creatures have 15 feet of reach and a gargantuan
+have 15 feet of reach and a gargantuan
+have 15 feet of reach and a gargantuan creature has 20 feet of reach if both of
+creature has 20 feet of reach if both of
+creature has 20 feet of reach if both of these requirements are met then the
+these requirements are met then the
+these requirements are met then the creature is flat-footed against your
+creature is flat-footed against your
+creature is flat-footed against your attacks this imposes a negative to
+attacks this imposes a negative to
+attacks this imposes a negative to penalty to their armor class and makes
+penalty to their armor class and makes
+penalty to their armor class and makes them vulnerable to other special attacks
+them vulnerable to other special attacks
+them vulnerable to other special attacks such as a rogue sneak attack and
+such as a rogue sneak attack and
+such as a rogue sneak attack and remember just because you and one Ally
+remember just because you and one Ally
+remember just because you and one Ally have flanking against an enemy that
+have flanking against an enemy that
+have flanking against an enemy that doesn't mean that all of your allies
+doesn't mean that all of your allies
+doesn't mean that all of your allies have flanking against it each character
+have flanking against it each character
+have flanking against it each character needs to meet the requirements in order
+needs to meet the requirements in order
+needs to meet the requirements in order to be granted flanking
+that will bring this video to a close if
+that will bring this video to a close if you found this video helpful please give
+you found this video helpful please give
+you found this video helpful please give us a like and don't forget to click that
+us a like and don't forget to click that
+us a like and don't forget to click that subscribe button and the bell so you
+subscribe button and the bell so you
+subscribe button and the bell so you never miss out on our future videos
+never miss out on our future videos
+never miss out on our future videos leave us a comment letting us know what
+leave us a comment letting us know what
+leave us a comment letting us know what topics you'd like to see covered in our
+topics you'd like to see covered in our
+topics you'd like to see covered in our future videos and we can always be
+future videos and we can always be
+future videos and we can always be reached through our Twitter and Facebook
+reached through our Twitter and Facebook
+reached through our Twitter and Facebook pages too if you'd like to use some of
+pages too if you'd like to use some of
+pages too if you'd like to use some of the maps that we feature in our videos
+the maps that we feature in our videos
+the maps that we feature in our videos and your own games you can find them at
+and your own games you can find them at
+and your own games you can find them at maps of mastery a link to that store can
+maps of mastery a link to that store can
+maps of mastery a link to that store can be found in the description thanks for
+be found in the description thanks for
+be found in the description thanks for watching take care and we'll see you
+watching take care and we'll see you
+watching take care and we'll see you soon with more basics for your favorite
+soon with more basics for your favorite
+soon with more basics for your favorite tabletop games
